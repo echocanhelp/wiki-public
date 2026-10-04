@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-04
 ---
 # Fon-May Fan (樊豐美)
 
@@ -58,3 +58,5 @@ Accomplishment
 - Corpus re-check (deepen-x slice-09240700-5, 2026-09-25): fresh grep 樊豐美|Fon-May Fan returns the identical hit set (OJ27 ZH/ENG, OJ304, essay #28, Who's Who #56, index) — all absorbed above; verified-saturated, SKIP-with-reason; HOLD (陳隆豐 vs 陳隆) retained.
 - Corpus re-check (deepen-x slice-09250900-25, 2026-09-26): fresh grep 樊豐美|Fon-May Fan returns the identical hit set (OJ27 ZH/ENG, OJ304, essay #28, Who's Who #56, index) — all absorbed above; verified-saturated, SKIP-with-reason; HOLD (陳隆豐 vs 陳隆) retained.
 - Corpus re-check (deepen-x slice-09260400-14, 2026-09-26): fresh grep 樊豐美|Fon-May Fan returns the identical hit set (OJ27 ZH/ENG, OJ304, essay #28, Who's Who #56, index) — all absorbed above; verified-saturated, SKIP-with-reason; HOLD (陳隆豐 vs 陳隆) retained.
+
+- Corpus re-grep (deepen-x slice 09300848-26, 2026-10-04): fresh grep works/ + articles/ for 樊豐美 / Fon-May Fan returns the identical hit set — OJ27 ZH/ENG, OJ304, essay #28, Who's Who #56, and the harvest index — all already absorbed above; verified-saturated, nothing new absorbable — SKIP-with-reason; HOLD (陳隆豐 vs 陳隆) retained. hits-hash=fb33b9c766ae

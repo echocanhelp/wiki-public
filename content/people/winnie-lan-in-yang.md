@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-04
 ---
 # Winnie Lan-In Yang (楊嵐茵)
 
@@ -56,3 +56,5 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice-25 2026-09-16）：re-grep 楊嵐茵 / Winnie Lan-In Yang 僅見本人書目記錄 #236 #491 與 harvest index — SKIP, 無回憶錄/社群材料可吸收。複核（deepen-x slice-21 2026-09-16）：同一命中集 — SKIP。複核（deepen-x slice-18 2026-09-16）：命中集不變（#236、#491、index）— saturated，SKIP。複核（deepen-x slice 09170130-13 2026-09-17）：命中集不變 — saturated，SKIP。複核（deepen-x slice 09170500-13 2026-09-17）：命中集不變（僅 #236、#491）— saturated，SKIP。複核（deepen-x slice 09180131-15 2026-09-18）：命中集不變（僅 #236、#491）— saturated，SKIP。複核（deepen-x slice 09181500-13 2026-09-20）：命中集不變（僅 #236、#491、index）— saturated，SKIP。複核（deepen-x slice 09201400-9 2026-09-21）：命中集不變（僅 #236、#491、index）— saturated，SKIP。複核（deepen-x slice 09211300-13 2026-09-22）：命中集不變（僅 #236、#491、works/index）— saturated，SKIP。複核（deepen-x slice 09220800-12 2026-09-22）：命中集不變（僅 #236、#491、works/index）— saturated，SKIP。複核（deepen-x slice 09230317-11 2026-09-24）：命中集不變（僅 #236、#491、works/index）— saturated，SKIP。
 複核（deepen-x slice 09240317-9 2026-09-25）: 命中集不變（僅 #236、#491、works/index）(saturated, SKIP)
 - Corpus re-check (deepen-x slice 09250700-13, 2026-09-25): fresh grep works+articles, hit set identical, all already absorbed -- saturated, SKIP.
+
+Corpus re-grep (deepen-x slice 09300848-26, 2026-10-04): fresh grep works/ + articles/ for 楊嵐茵 / Winnie Lan-In Yang returns only #236, #491, and the harvest index — all bibliography-only and already wikilinked above; verified-saturated, nothing absorbable — SKIP-with-reason. hits-hash=3edd19d581e0

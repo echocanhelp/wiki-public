@@ -52,3 +52,5 @@ Corpus re-grep 2026-09-26 (deepen-x slice 09260500-5): fresh grep returned the i
 Corpus re-grep 2026-09-30 (deepen-x slice 09260854-6): fresh grep works/ + articles/ for 川流基金會/Chuan Lyu — hit set identical to the program records already wikilinked above (#18/#30/#38/#39/#84/#384/#385 + the #418 林霞 literary-piece disambiguation + works index). Verified-saturated; nothing new absorbable.
 
 Corpus re-grep 2026-10-04 (deepen-x slice 09300348-3): fresh grep works/ + articles/ returned the identical hit-set (program records #18/#30/#38/#39/#84 + #384/#385-adjacent records + #418 disambiguation + own directory page + works index; hits-hash=3b8989e1d05e). SKIP-for-deepening: verified-saturated, nothing new absorbable.
+
+Corpus re-grep 2026-10-04 (deepen-x slice 09300848-26): fresh grep works/ + articles/ for 川流基金會/Chuan Lyu returned the identical hit-set — program records #18/#30/#38/#39/#84/#384/#385, the #418 disambiguation, the own-directory pages, and works/index (hits-hash=fbd58d3658af). Verified-saturated, nothing new absorbable — SKIP-with-reason.
