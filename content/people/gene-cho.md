@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-04
 ---
 # Gene Cho (卓仁祥)
 
@@ -52,3 +52,4 @@ Gene Cho, Professor of Music, has been on the UNT faculty since 1972. He receive
 - Re-grep 2026-09-23 (slice 09221000-25): corpus hits re-confirmed = own directory records (#669, #303 typo-variant) only; hit set identical to the linked records above. Verified saturated; nothing new absorbable. SKIP.
 - Re-grep 2026-09-24 (slice 09230800-26): corpus hits re-confirmed = own directory records (#669, #303 typo-variant) + index only; hit set identical to the linked records above. Verified saturated; nothing new absorbable. SKIP.
 - Re-grep 2026-09-25 (slice 09240800-18): corpus hits re-confirmed = own directory records (#669, #303 typo-variant) + index only. Verified saturated; nothing new absorbable. SKIP.
+- Re-grep 2026-10-04 (slice 09300321-8): corpus hits re-confirmed = own directory records (#669, #303 typo-variant) + index only; hit set unchanged. Verified saturated; nothing new absorbable. SKIP. hits-hash=8f535760b951

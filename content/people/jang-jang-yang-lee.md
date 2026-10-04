@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Jang Jang Yang Lee (李楊娟娟)
 
@@ -45,6 +45,8 @@ Accomplishment
 - Corpus re-check 2026-09-23 (deepen-x slice 09221500-14): fresh grep of works/articles returns only the daughter's memoir 想念您，媽媽 (mystories595, already absorbed) and the own TAH record — verified-saturated, no new community facts.
 
 - Corpus re-check 2026-09-25 (slice 09231000-23): fresh ZH+EN grep of works/articles returns only the already-absorbed daughter memoir [[works/taiwaneseamericanhistory-org/mystories595|想念您，媽媽]] and own encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-1917-jang-jang-yang-lee|1917. Jang Jang Yang Lee 李楊娟娟]] — verified-saturated.
+
+- Corpus re-check 2026-10-04 (slice 09300321-8): fresh ZH+EN grep returns the same hit set (mystories595 memoir, own #1917 record, index) — verified-saturated, nothing new absorbable. hits-hash=ec99aa778089
 
 ## Sources
 - [TAH #1917 encyclopedia: 1917. Jang Jang Yang Lee 李楊娟娟](https://taiwaneseamericanhistory.org/whos-who-1917-jang-jang-yang-lee/)

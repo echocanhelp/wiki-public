@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Chi-Shun Hwang (黃智舜)
 
@@ -46,6 +46,7 @@ From the community record (our memoirs, primary material):
 - 2026-09-26 deepen-x slice 09251023-10: re-verified — fresh ZH+EN grep returns the identical hit set already absorbed and wikilinked above (TAH #818, Our Journeys 36/227/263). SKIP-content — saturated.
 - 2026-09-24 deepen-x slice 09230800-23: re-verified — fresh grep of works+articles returns the identical hit set already absorbed and wikilinked above (TAH #818, Our Journeys 36/227/263). SKIP.
 - 2026-09-23 deepen-x slice 09221400-8: re-verified — fresh grep of works+articles returns the identical hit set already absorbed and wikilinked above; no new corpus material. Nothing further absorbable.
+- 2026-10-04 deepen-x slice 09300321-8: re-verified — fresh ZH+EN grep returns the identical hit set already absorbed and wikilinked above (TAH #818, Our Journeys 36/227/263). SKIP-content — saturated. hits-hash=4cbce15e9654
 - 2026-09-22 deepen-x slice 09220500-20: re-verified — identical hit set (TAH #818, Our Journeys 36/227/263) already absorbed above; nothing new absorbable.
 - 2026-09-22 deepen-x slice 09210500-21: VERIFY — fresh grep returns the same corpus set already absorbed above (record #818, Our Journeys 36 / 227 / 263). The 1992 Singapore-textbook整理 in Our Journeys 263 names 黃燦琴、趙紀諭、鄭耀洲、包方明 — school-level context, not attributed to 黃智舜; not absorbed.
 
