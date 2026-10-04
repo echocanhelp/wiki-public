@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Mien-Chie Hung (洪明奇博士)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09260800-24: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-30 for 洪明奇/Mien-Chie Hung: identical hit set (own entry 271, winners41 award, works/index listing) — all already linked; SKIP-no-new-facts. -->
+<!-- deepen-x 09300315-31: verified-saturated — corpus re-scan (works/articles) fresh 2026-10-04: hit set identical to prior passes (own records + works/index only); no new community material absorbable. hits-hash=4fbfafce6473 -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Chi-Lin O’Young (歐陽吉林)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 09300315-31: verified-saturated — corpus re-scan (works/articles) fresh 2026-10-04: hit set identical to prior passes (own records + works/index only); no new community material absorbable. hits-hash=752234326bd7 -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Raymond T. Chen
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-check 2026-09-30 (slice 09260800-31): fresh grep 'Raymond T. Chen|Raymond Chen' of content/works + content/articles returned no hits (own-name records were already covered in earlier re-checks; the only other vault mention is Katy Tang's page, no new facts) — verified-saturated, SKIP-deepen.
+<!-- deepen-x 09300315-31: verified-saturated — corpus re-scan (works/articles) fresh 2026-10-04: hit set identical to prior passes (own records + works/index only); no new community material absorbable. hits-hash=4cd3cbbc092e -->

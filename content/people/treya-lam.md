@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-04
 ---
 # Treya Lam
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09250317-11: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own records + already-wikilinked works only); no new community material. -->
 <!-- deepen-x 09251500-3: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-26: hits are only own TAH records (#273, #544/19093) + works/index.md, all already linked above; SKIP. -->
 <!-- deepen-x 09260800-25: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-30: hit set identical to prior passes (own records #273, #544/19093, introducing-treya + works/index.md, all already linked above); no new community material. -->
+<!-- deepen-x 09300315-31: verified-saturated — corpus re-scan (works/articles) fresh 2026-10-04: hit set identical to prior passes (own records + works/index only); no new community material absorbable. hits-hash=096126df286b -->
