@@ -60,7 +60,10 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 - [[people/yang-jia-you||Charles Yang (楊嘉猷)]] — Treasurer (財務長); founding president
 - [[people/freeman-huang||Freeman Huang (黃樹人)]] — Secretary (秘書)
 
-## Web-deepened 2026-10-03## Revision History
+### Identity verification (re-check 2026-10-03, 04:0x)
+`content/organizations/taiwanese-american-historical-society.md` **has NO 會長/副會長/秘書 roster table** (that block is 楊国生's, in `knowledge/…` only). Verified in **2025 台美人會年鑑**: 台美人歷史協會 **副会长 白偉瑋** + **理事 陳愛玲** (陳愛玲 = separate person — 台大歷史系, 1949生, 高雄, "台獨妈祖" 口述傳記). Identity question re-checked: the 楊惠南 x4 sources carry NO birth-year and NO occupation for 白偉瑋 — the only bio line ("1956年生, 台南, 護士") is in the **PDF only**, and it explicitly says 白偉瑋 is **張大卿's wife** (she), while TAHS VP 白偉瑋's 2023 interviewer credit carries no spouse/occupation; the 2023 roster lists 楊平猷/楊嘉猷 brothers AND 白偉瑋 as separate entries, and 白偉瑋 appears in the TPE exhibit list, not the LA list. => **Three independent markers (gender via 內人, geography TPE-vs-LA, and the two-circle roster overlap) say likely DIFFERENT people; the only source tying "she" to the TPE list is the PDF's own list.** Do NOT merge the PDF bio onto this page; If one person, the record would span TPE+LA writing 1987–94 → 顧問 → 理事 → VP 2025; that reading holds ONLY as conditional prose: *if* one person → writer/interviewer (1987–94, TPE + LA) + 台美人會 顧問 + 台美人歷史協會 理事 → 副會長 2025.
+
+## Revision History
 
 - **2026-10-03** — web-deepened: 楊惠南×4 + dhammarain (rain-25/44/50/55/57/58) + TAHS 2018 archive + 2023 book. Two 白偉瑋 entries (1956/護士/新雨 vs TAHS VP) found; merge held, conflict logged.
 
