@@ -1,0 +1,4 @@
+yi-miao-huang hits-hash=f006eb8eb53c+ed01dd5538fb+1d73620f79a8 (22-welly-yang own record + works index + ILF announcement; index excluded from audit hash)
+ucsd-united-taiwanese-association hits-hash=a546bb58192a+ed01dd5538fb+a2c61d68895d+906819bbb615+e20cfda823ac+1b81bc9b7048 (own record + index + 4 TJJ/tacls incidental UCSD venue mentions)
+tsing-yue-lai hits-hash=9a19e318f938+ed01dd5538fb+aa15952e5eeb (390 own entry + index + 2018 TJJ alumnus roster)
+sue-chiu hits-hash=de22f7de9f6a+aacb5fc35d81+f9524a23345c+c48d5cb6cd97+ed01dd5538fb (529+65+853+154+index)
