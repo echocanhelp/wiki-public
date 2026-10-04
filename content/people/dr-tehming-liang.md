@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-04
 ---
 # Dr. Tehming Liang (梁德明醫師)
 
@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 - 2026-09-26 corpus re-grep (slice 09250900-11): fresh grep 梁德明/Tehming Liang over works/ + articles/ returns the identical set (own TAH record 1867, works index, 2026 TJJ HK-councillor homonym article). Nothing new absorbable. SKIP (verified-saturated).
 
 Corpus re-grep 2026-10-03 (DEEPEN-X slice 09300315-13) (梁德明/Tehming Liang grep): fresh ZH+EN re-grep against works/+articles/ returns the identical hit set already wikilinked above — no new absorbable community material; HOLDs maintained. Verified-saturated, SKIP-with-reason. hits-hash=1d7f4a67b9f7
+
+Corpus re-grep 2026-10-04 (DEEPEN-X slice 09300848-20) (梁德明/Tehming Liang grep): fresh ZH+EN re-grep of works/+articles/ returns the identical saturated set (own TAH record 1867, works index, 2026 TJJ HK-councillor homonym article). The UChicago Taiwanese Student Association recollection remains in the 廖述宗 biography page ([[people/liao-shu-zong|Liao Shu-zong]]) — already absorbed 2026-09-23, no new material. Nothing new absorbable. SKIP (verified-saturated), HOLDs unchanged. hits-hash=64d7f0e64143
