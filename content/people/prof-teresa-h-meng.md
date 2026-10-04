@@ -60,3 +60,5 @@ _No filled family fields on the TAH profile._
 Re-verified 2026-09-30 (slice 09260800-5): fresh ZH 孟懷縈 + EN 'Teresa H. Meng' grep of content/works + content/articles returned only own TAH #1861 bibliographic record + works index; no memoir/community material to absorb. SKIP: verified-saturated.
 
 Re-verified 2026-10-04 (deepen-x slice 09300315-10): fresh ZH+EN re-grep (孟懷縈 / Teresa H. Meng, works + articles) — hit set identical (own #1861 bibliographic record + works/index only); nothing absorbable. SKIP: verified-saturated, hits-hash=152444697fea.
+
+Re-verified 2026-10-04 (deepen-x slice 09300848-16): fresh ZH+EN re-grep (孟懷縈 / Teresa H. Meng, works + articles) — hit set identical (own #1861 bibliographic record + works/index only); nothing absorbable. SKIP: verified-saturated, hits-hash=152444697fea.

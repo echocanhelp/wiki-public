@@ -65,3 +65,5 @@ Dr. Min Hsiung Liang 梁敏雄博士 – History of Taiwanese American (T.A. Arc
 2026-09-30 re-grep (梁敏雄/Min Hsiung Liang, DEEPEN-X slice 09260800-7): fresh ZH+EN grep unchanged — ourjourneys106.md item 12 (fully absorbed), own TAH #2088 entry, works index. Both HOLDs (M.S. institution, TAA role) stand; nothing new absorbable (verified-saturated).
 
 2026-10-04 re-grep (梁敏雄/Min Hsiung Liang, DEEPEN-X slice 09300315-10): fresh ZH+EN grep — same saturated set (Our Journeys 106 item 12, own TAH #2088, works index). Both HOLDs (M.S. institution, TAA role) stand; nothing new absorbable (verified-saturated, hits-hash=152444697fea).
+
+2026-10-04 re-grep (梁敏雄/Min Hsiung Liang, DEEPEN-X slice 09300848-16): fresh ZH+EN grep — same saturated set (Our Journeys 106 item 12 fully absorbed, own TAH #2088, works index). Both HOLDs (M.S. institution, TAA role) stand; nothing new absorbable (verified-saturated, hits-hash=152444697fea).
