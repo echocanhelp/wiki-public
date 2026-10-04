@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Paul B. Hshieh 六 (謝博六博士)
 
@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09250317-11: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own records + already-wikilinked works only); no new community material. -->
 <!-- deepen-x 09251500-4: verified-saturated — corpus re-scan fresh 2026-09-26: hit set identical to prior passes (own records + already-wikilinked works only); no new community material. -->
 <!-- deepen-x 09260800-27: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-30: hit set identical to prior passes (ourjourneys-138, whoswho1237, 50948, works/index); no new community material. -->
+
+<!-- deepen-x 09300321-3: re-verify 2026-10-04 — fresh ZH+EN grep (works+articles): hits = ourjourneys-138, whoswho1237, 50948, works/index — identical to prior passes; roster column title still absent in our copy, HOLD on exact office retained. Verified-saturated; SKIP-no-new-facts. -->
