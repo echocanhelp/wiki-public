@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-04
 ---
 # Eric Yang (楊一哲)
 
@@ -33,7 +33,7 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 - Profiled in the TAH Foundation Who's Who encyclopedia; his entry ([[works/taiwaneseamericanhistory-org/1156-eric-yang-e6-a5-8a-e4-b8-80-e5-93-b2-201607|1156. Eric Yang 楊一哲 / 2016/07]]) was published 2016-07-17. Corpus records him as 牧師 of 波士頓華人聖經教會 (Boston Chinese Bible Church).
 - HOLD: identity conflict — [[works/taiwaneseamerican-org/nyc-cravings-taiwanese-style-food-from-the-truck-like-your-grandmother-cooked-it|NYC Cravings food-truck article (2009)]] names a co-owner "Eric," business partner of Thomas/Diana Yang (NY-raised, Baruch College), while this page's tah-tables record lists a Boston pastor with 台灣 geography. Likely different persons; not merged.
-- Deepen pass 2026-09-25 / re-run 2026-09-26 (slice 09251039-8): SKIP — grep re-confirmed (ZH+EN): hits limited to own entry #1156, index listings, and the already-HOLDed NYC Cravings article; no new absorbable facts.
+- Deepen pass 2026-10-04 (slice 09300848-1): fresh grep (楊一哲 / Eric Yang, works+articles) — hit set unchanged: own entry [[works/taiwaneseamericanhistory-org/1156-eric-yang-e6-a5-8a-e4-b8-80-e5-93-b2-201607|1156. Eric Yang 楊一哲 / 2016/07]] (bibliographic band-B record only), works index, and the NYC Cravings food-truck article whose "Eric" is already HOLDed as a likely different person (NY-raised, Baruch College, food-truck co-owner vs Boston pastor). No new absorbable facts. SKIP: verified-saturated.
 
 ## Sources
 - [TAH #1156 encyclopedia: 1156. Eric Yang 楊一哲 / 2016/07](https://taiwaneseamericanhistory.org/1156-eric-yang-%e6%a5%8a%e4%b8%80%e5%93%b2-201607/)
