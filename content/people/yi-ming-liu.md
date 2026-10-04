@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-04
 ---
 # Yi-Ming Liu (劉怡明)
 
@@ -63,3 +63,5 @@ Documented across the TAH Foundation story corpus as a community memoirist and l
 - Re-verified 2026-09-26 (slice 09260400-1): fresh grep 劉怡明/Yi-Ming Liu — hit set identical (whos, ff342, mystories326/331/572/613, ourjourneys289, ourjourneys-364, collection, 349-our-journeys); all absorbed. SKIP: verified-saturated.
 
 - Re-verified 2026-10-03 (slice 09300315-9): fresh grep 劉怡明/Yi-Ming Liu — hit set identical (11 pages: whos, ff342, mystories326/331/572/613, ourjourneys289, ourjourneys-364, collection, 349-our-journeys, works index); TJJ 2021 WHA statement copy (also in the 2021/20210616072940 record) lists 台美人歷史協會 (TAHS), not this person. All absorbed. SKIP: verified-saturated. hits-hash=281567250cfc
+
+- Re-verified 2026-10-04 (slice 09300848-15): fresh grep 劉怡明/Yi-Ming Liu — hit set identical (10 work pages + works index), all already wikilinked; loose 'Yi-Ming' sweep found only homonyms (Yi-Ming Lin D.D.S. pastor; Yi-Ming Chen 陳史彥明) — nothing absorbable. SKIP: verified-saturated. hits-hash=9564f677fd29

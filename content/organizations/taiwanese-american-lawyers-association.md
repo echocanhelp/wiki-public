@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-04
 ---
 # Taiwanese American Lawyers Association (TALA)
 
@@ -57,3 +57,5 @@ HOLD: this page and [[organizations/taiwanese-american-lawyers-association-tala|
 - Re-verified 2026-09-26 (slice 09260400-2): corpus re-grep (ZH+EN+TALA) hit set unchanged — ourjourneys29 (ZH+EN), the two TAHS bibliographic records, TAH #318, works index — all already absorbed and wikilinked above; saturated. HOLD vs 台美律師協會 duplicate stands.
 
 - Re-verified 2026-10-03 (slice 09300315-9): fresh ZH+EN+TALA grep — hit set unchanged plus the known substring false positives ("TALA" appears inside 佛羅里達 (Florida), 喀拉巴特/阿塔巴斯卡 (Pakistan/Canada place names), and an Arkansas 拓羅多縣/TALA county seat listing in the TJJ news archive — none is TALA 台美律師協會). All real TALA records (ourjourneys29 ZH+EN, two TAHS bibliographic records, TAH #318, works index) already absorbed and wikilinked. Saturated; HOLD vs [[organizations/taiwanese-american-lawyers-association-tala|台美律師協會]] duplicate stands. hits-hash=1f7108374cef
+
+- Re-verified 2026-10-04 (slice 09300848-15): fresh ZH+EN+TALA grep — real 台美律師協會 mentions unchanged (2021 WHA joint statement + its 2025-11 republication copy; 2018 大洛杉磯台灣會館 July 會訊 mentions a TALA 座談會 with second-generation speakers — no new TALA facts); other new hits are "TALA" substring false positives in archive_digest hashes and EMTALA (US federal statute), not TALA. All real records already absorbed/linked. Saturated; HOLD vs [[organizations/taiwanese-american-lawyers-association-tala|台美律師協會]] duplicate stands. hits-hash=a16d40cb0221

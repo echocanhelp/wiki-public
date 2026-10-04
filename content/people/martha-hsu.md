@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-04
 ---
 # Martha Hsu (許秀聰)
 
@@ -76,3 +76,5 @@ slice 09260400-4 re-grep (2026-09-26, 許秀聰 / Martha Hsu / VanDriel): hit se
 slice 09260700-23 re-grep (2026-09-27, 許秀聰 / Martha Hsu / VanDriel): hit set identical (first-137, whoswho1070, works index, TAJS index article) — SKIP: verified-saturated; duplicate-page HOLD vs Martha VanDriel stands pending owner review.
 
 slice 09300315-3 re-grep (2026-10-03, 許秀聰 / Martha Hsu / VanDriel): fresh grep -rl of works/ + articles/ returns hit set identical (first-137, whoswho1070, works index, TAJS index article) — SKIP: verified-saturated; duplicate-page HOLD vs [[people/martha-vandriel|Martha VanDriel]] stands pending owner review. hits-hash=747e0bee0c93
+
+slice 09300848-4 re-grep (2026-10-04, 許秀聰 / Martha Hsu / VanDriel): fresh grep of works/ + articles/ returns hit set identical (first-137, whoswho1070, TAJS index article; index excluded from hash set) — SKIP: verified-saturated; duplicate-page HOLD vs [[people/martha-vandriel|Martha VanDriel]] stands pending owner review. hits-hash=b56b867707fd

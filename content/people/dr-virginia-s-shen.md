@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-04
 ---
 # Dr. Virginia S. Shen (李香蘭教授)
 
@@ -59,3 +59,4 @@ Dr. Virginia S. Shen 李香蘭教授 – History of Taiwanese American (T.A. Arc
 <!-- deepen-x slice 09260400-4 re-verify 2026-09-26: fresh ZH+EN grep of works/+articles/ — hit set identical to material already absorbed (TAH #1947, OJ #279 singer-film mention — confirmed the WWII-singer documentary by 陳玫君, not this educator; index); verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09260700-20 re-verify 2026-09-27: fresh ZH+EN grep of works/+articles/ — hit set identical to material already absorbed; verified-saturated, no new absorbable facts -->
 hits-hash=5599183ed6fe 2026-10-03 slice 09270953-1 re-grep (李香蘭/Virginia S. Shen, works+articles): hit set identical to material already absorbed (own record TAH #1947 + OJ #279 singer-film mention + index) — verified saturated, nothing absorbable, HOLD on 沈耀初/Chicago-chairman identity stands.
+hits-hash=555d45f875ae 2026-10-04 slice 09300848-4 re-grep (李香蘭/Virginia S. Shen, works+articles): hit set identical to the 10-03 pass (own record TAH #1947 + OJ #279 singer-film mention + index) — verified saturated, nothing absorbable; the hash differs only because the hit-set hash convention now excludes works/index.md. HOLD on 沈耀初/Chicago-chairman identity still stands.

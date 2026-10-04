@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Judy Lin Linton (林奐均)
 
@@ -63,3 +63,8 @@ Re-verified 2026-09-26 (slice 09260400-19): fresh grep 林奐均 + Linton return
 Re-verified 2026-09-30 (slice 09260800-6): fresh ZH+EN grep (林奐均 / Judy Linton / 林亮均 / 林亭均) across works/ + articles/ returned the same set above plus two taiwanjustice.net press reports on the 林宅血案 case itself (2025-06-15 家博案發日通話紀錄; 2025-12-11 促轉會監控報告) — press coverage of the case, not memoir material naming 林奐均 personally; nothing new absorbable. SKIP: verified-saturated, no new facts.
 
 slice 09300315-3 re-grep (2026-10-03, 林奐均 / Judy Linton / Judy Lin): fresh grep -rl of works/ + articles/ returns the same set (my-stories 700/702, TAH #1557, ourjourneys69 ZH/EN, CD #533, mystories337, works index) plus the two taiwanjustice press records re-checked since 09260800-6 (2025-06-15 家博案發日通話紀錄; 2025-12-11 促轉會監控報告) — press coverage of the 林宅血案 case, no memoir material naming 林奐均 personally; nothing new absorbable. SKIP: verified-saturated. hits-hash=3a583b693321
+
+## Corpus sweep (slice 09300848-4, verified 2026-10-04)
+- Full ZH+EN sweep of `works/` + `articles/` (林奐均 / Judy Linton / Judy Lin, loose family-name pass on 林亮均/林亭均). Strict-name hit set: my-stories 700/702, TAH #1557, ourjourneys69 ZH/EN, mystories337, plus five taiwanjustice-net press records (2021-02-27 二二八74週年; 2025-04-25 陳菊赴林家墓園; 2025-04-28 賴清德出席義光教會; 2025-12-11 促轉會監控報告; 2026-01-13 林宅血案調查). Loose-only hit (family names only, no personal mention of 林奐均): the 2025-06-15 家博通話紀錄 report. All are press coverage of the 林宅血案 case — no memoir material naming 林奐均 personally that is not already absorbed above. Verified-saturated, nothing new absorbable.
+- Fresh fact checked this pass (press, treated as secondary): the 2025-06-15 促轉會/家博 report records 林亮均/林亭均 as "林亮均姊妹" with 家博 calling the Lin home at 12:00 on the murder day — corroborates the family relationship stated above; the twin age in [[works/taiwaneseamericanhistory-org/ourjourneys69|Our Journeys #69]] (7) and its EN edition ("7-year-old twin daughters") vs the page's existing 9-year-old-Judy framing has no conflict (Judy was the 9-year-old eldest). No date/age conflict opened; no HOLD added.
+hits-hash=83c8d3c10b05
