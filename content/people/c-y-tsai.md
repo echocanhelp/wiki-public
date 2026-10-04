@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-04
 ---
 # C. Y. Tsai (蔡嘉寅)
 
@@ -58,3 +58,5 @@ last_reviewed: 2026-10-03
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x re-scan slices 09221400-4 to 09260800-6 --> — re-grep 2026-10-03 (slice 09300315-12): fresh ZH+EN grep of works/+articles/ — hit set unchanged (#603, ourjourneys69/-eng, ourjourneys107, ourjourneys47, works index), all absorbed above. Verified-saturated SKIP. hits-hash=1b47cab109c5
+
+<!-- deepen-x re-scan slices 09221400-4 to 09260800-6 --> — re-grep 2026-10-04 (slice 09300848-18): fresh ZH+EN grep of works/+articles/ — hit set unchanged (#603, ourjourneys69/-eng, ourjourneys107, ourjourneys47, works index), all absorbed above. Verified-saturated SKIP. hits-hash=3cafedb4a458

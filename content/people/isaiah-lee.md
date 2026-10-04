@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-04
 ---
 # Isaiah Lee (李宗派教授)
 
@@ -62,3 +62,5 @@ slice 09240317-23 re-grep (2026-09-25): fresh ZH+EN corpus grep; hit set identic
 - Re-verified 2026-09-28 (deepen-x slice 09260800-13): fresh ZH+EN re-grep over works/ + articles/ — hit set unchanged (ourjourneys231/-eng, 186, 107 + story records 346, 597). EN copy of 231 confirms him as "Dr. Chung-Pai Lee" among the eight lay founders supporting 張瑞雄's church-plant — already absorbed above. SKIP: verified-saturated.
 
 <!-- deepen-x re-verify slices 09171100-28 to 09260800-13 --> — re-grep 2026-10-03 (slice 09300315-12): fresh ZH+EN grep of works/+articles/ (李宗派 / Isaiah Lee / Chung-Pai Lee) — hit set unchanged (ourjourneys186/231 + -eng copies, 107, story 346, 597 現代老人學), all absorbed and wikilinked above; verified-saturated SKIP. hits-hash=9aa216389133
+
+<!-- deepen-x re-verify slices 09171100-28 to 09260800-13 --> — re-grep 2026-10-04 (slice 09300848-18): fresh ZH+EN grep of works/+articles/ (李宗派 / Isaiah Lee / Chung-Pai Lee) — hit set unchanged (ourjourneys186/231 + -eng copies, 107, story 346, 597 現代老人學), all absorbed and wikilinked above; verified-saturated SKIP. hits-hash=6d73e678a122
