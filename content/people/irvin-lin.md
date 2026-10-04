@@ -67,3 +67,5 @@ slice 09260500-5 re-grep (2026-09-26): fresh 林斐強/Irvin Lin grep; hit set i
 Corpus re-verify (deepen-x slice 09260854-7, 2026-09-30): fresh ZH+EN grep of works/ + articles/ returns the identical hit set to the links already absorbed above — no memoir or body-text mentions beyond them. SKIP: verified-saturated.
 
 - Corpus re-grep (deepen-x slice 09300500-1, 2026-10-04): fresh 林斐強/Irvin Lin grep of works/ + articles/ — hit set identical: #234 / #1431 / #1052 / #493 + works index; remaining article matches are UC Irvine/"Irving" substring false positives (verified by case-insensitive -i scan). Verified-saturated, SKIP-deepen. hits-hash=7f3c21a9e04b
+
+- Corpus re-grep (deepen-x slice 09300848-32, 2026-10-04): fresh 林斐強/Irvin Lin grep — hit set identical (#234 / #1431 / #1052 / #493 + works index); case-insensitive 'irvin' scan re-confirmed the Irvine/Irving false positives (Evergreen Irvine, TA Archives Irvine, Collegian Irvine, Eagle Brotherhood). Verified-saturated, SKIP-deepen. hits-hash=7f3c21a9e04b

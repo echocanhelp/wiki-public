@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-04
 ---
 # Chih Y Kuo (郭欽義教授)
 
@@ -80,3 +80,4 @@ SKIP (re-confirmed) — fresh ZH+EN grep of works/ + articles/ returns only his 
 SKIP (re-confirmed) — fresh ZH+EN grep of works/ + articles/ returns only his own bibliographic record [[works/taiwaneseamericanhistory-org/whoswho1532|TAH #1532]] plus the works index; no memoir or community-record mentions — nothing absorbable.
 
 - Corpus re-check 09270400-1 (2026-10-02): fresh grep works/+articles/ (郭欽義 / Chih Y Kuo) — hit set unchanged vs 09260500-28 (2 files, hits-hash=1f744dbf2a14); all hits already wikilinked or non-biographical (index). Verified-saturated; SKIP-deepen, nothing new absorbable.
+- Corpus re-check (deepen-x slice 09300848-32, 2026-10-04): fresh ZH+EN grep works/+articles/ (郭欽義|Chih Y Kuo) returns ZERO hits — even the personal bibliographic record no longer matches the pattern. No memoir or community-record mentions; verified-saturated, SKIP-deepen, nothing absorbable.

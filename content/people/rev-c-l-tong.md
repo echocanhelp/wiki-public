@@ -64,3 +64,5 @@ slice 09260500-4 re-grep (2026-09-26): hit set identical (ourjourneys14, ourjour
 
 Corpus re-verify (deepen-x slice 09260854-7, 2026-09-30): fresh ZH+EN grep of works/ + articles/ returns the identical hit set to the links already absorbed above — no memoir or body-text mentions beyond them. SKIP: verified-saturated.
 Corpus re-grep (deepen-x slice 09300500-2, 2026-10-04): fresh ZH+EN grep of works/ + articles/ — hit set identical to the links already absorbed above (ourjourneys14, ourjourneys43, #1698, works index). SKIP: verified-saturated, hits-hash=6310b7a45209.
+
+Corpus re-grep (deepen-x slice 09300848-32, 2026-10-04): fresh 董俊蘭/C. L. Tong grep — hit set identical (ourjourneys14, ourjourneys43, #1698, works index); body text re-checked (2007-01-21 third-pastor installation at TAFPC; 聖恩 itinerant preachers list) — both already absorbed above. SKIP: verified-saturated, hits-hash=6310b7a45209.
