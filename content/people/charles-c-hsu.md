@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Dr. Charles C. Hsu (許宗邦醫師)
 
@@ -58,3 +58,4 @@ Accomplishment
 - Re-verified 2026-09-25 (deepen-x slice 09250700-24): fresh ZH+EN corpus re-grep returned the identical hit set already absorbed and wikilinked above — no new community facts, no conflicts. SKIP: verified-saturated.
 
 - Re-verified 2026-09-30 (deepen-x slice 09260800-17): fresh ZH+EN re-grep of works/ + articles/ returned the identical hit set already absorbed and wikilinked above — no new community facts, no conflicts. SKIP: verified-saturated.
+- Re-verified 2026-10-04 (deepen-x slice 09300315-26): fresh grep 許宗邦 / Charles C. Hsu returned the identical 6-hit set (#274, #894, #1047, #49, Our Journeys #287, Our Journeys #393) plus works index — all absorbed above. Cross-check: 陳秀芬 appears in #393 only as photo credit ("陳秀芬提供"), too weak to merge into the Family field's wife attribution. Cross-page identity note for next pass: people/xu-zongbang.md and this page appear to describe the same physician (KCM → NATMA international missions, ~20 yr, Belize/Honduras); not merged, no auto-merge of biography across pages. SKIP (saturated).

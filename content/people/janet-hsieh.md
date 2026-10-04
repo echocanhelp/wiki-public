@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Janet Hsieh (謝怡芬)
 
@@ -57,3 +57,4 @@ last_reviewed: 2026-09-30
 - Re-verified 2026-09-25 (deepen-x slice 09250700-24): fresh ZH+EN corpus re-grep returned the identical hit set already absorbed and wikilinked above — no new community facts, no conflicts. SKIP: verified-saturated.
 
 - Re-verified 2026-09-30 (deepen-x slice 09260800-17): fresh ZH+EN re-grep of works/ + articles/ returned the identical hit set already absorbed and wikilinked above — no new community facts, no conflicts. SKIP: verified-saturated.
+- Re-verified 2026-10-04 (deepen-x slice 09300315-26): fresh grep 謝怡芬 / Janet Hsieh returned the identical hit set (TAH #915, two TaiwaneseAmerican.org features, works index, TJJ 2025 零日攻擊 record) — all already absorbed. SKIP (saturated).
