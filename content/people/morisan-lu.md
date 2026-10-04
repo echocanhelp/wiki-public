@@ -58,3 +58,6 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x slice 09260400-14 re-verify 2026-09-26: fresh grep 呂明森/Morisan Lu — identical hit set (ourjourneys9-eng/09, ourjourneys17, whos-m-s-lu, index), all already absorbed; verified-saturated SKIP, no conflicts. -->
 <!-- deepen-x slice 09300315-18 re-verify 2026-10-03: fresh grep 呂明森/Morisan Lu — identical hit set (ourjourneys9-eng, whos-m-s-lu, index), all already absorbed; verified-saturated SKIP, no conflicts. -->
+
+## Corpus re-grep (2026-10-04, slice 09300848-28)
+- Re-verified 2026-10-04 (slice 09300848-28): fresh ZH+EN re-grep 呂明森/Morisan Lu — hit set unchanged (ourjourneys9-eng/09, ourjourneys17, whos-m-s-lu, works index), all already absorbed. Verified-saturated, SKIP-with-reason. hits-hash=69cf75e02f1e (sha1 over works/taiwaneseamericanhistory-org hit-set); articles/ = 0 hits.

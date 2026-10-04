@@ -61,3 +61,6 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-25 (slice 09250700-20): SKIP-with-reason — hit set unchanged (TAH #3, #748, works index); no memoir or event mention of 陳奕伶; nothing further absorbable.
 - Re-verified 2026-09-26 (slice 09260400-21): SKIP-with-reason — fresh grep hit set unchanged (own TAH profiles [[works/taiwaneseamericanhistory-org/3-i-ling-chen-e9-99-b3-e5-a5-95-e4-bc-b6-piano|#3]], [[works/taiwaneseamericanhistory-org/23662|#748]] + works index only); no memoir or event mention; saturated.
 - 2026-10-04 (slice 09300315-19): fresh deterministic re-grep 陳奕伶 / I-Ling Chen — hit set unchanged (own TAH profiles #3, #748 + works index); no memoir or event mention; verified-saturated, SKIP. hits-hash=fd8a401bdafb (audit-convention sha1 over name-key hit-set {#3, #748, works index} = 3 files).
+
+## Corpus re-grep (2026-10-04, slice 09300848-28)
+- Re-verified 2026-10-04 (slice 09300848-28): fresh ZH+EN re-grep 陳奕伶/I-Ling Chen — hit set unchanged (own TAH profiles #3, #748 + works index); no memoir or event mention; verified-saturated, SKIP. hits-hash=69cf75e02f1e (sha1 over works/taiwaneseamericanhistory-org + articles hit-set).
