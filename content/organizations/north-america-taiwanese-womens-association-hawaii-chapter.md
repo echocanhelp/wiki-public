@@ -42,3 +42,5 @@ Re-verified SKIP (slice 09260400-15, 2026-09-26): fresh grep 北美洲台灣婦�
 Re-verified SKIP (slice 09260800-2, 2026-09-30): fresh grep 北美洲台灣婦女會|NATWA over content/works + content/articles returns the saturated set (663/679 聯誼通訊, ourjourneys328, columns17, San Diego / Oregon-Southwest chapter records); grep Hawaii/夏威夷 inside every hit returns zero matches. No chapter-level facts to absorb. Saturated.
 
 Corpus re-grep (slice 09300315-1, 2026-10-03): fresh NATWA/北美洲台灣妇女會 + 夏威夷 re-grep over content/works + content/articles returns the saturated set (663/679 聯証通訊, ourjourneys328, columns17, San Diego / Oregon-Southwest / St. Louis chapter records, concerts118, ourjourneys253) — zero Hawaii-chapter facts in any hit. No absorbable chapter-level facts. Saturated. hits-hash=dc314cc36bc0
+
+Corpus re-grep (slice 09300855-2, 2026-10-04): fresh ZH+EN re-grep over content/works + content/articles returned the saturated hit set only (no new files since slice 09300315-1 sweep). NATWA Hawaii: no new NATWA/Hawaii-chapter mentions (tjj tag page for 譚德塞 is a false positive on 德文). No absorbable chapter/person-level facts. SKIP (verified-saturated). hits-hash=f1ca153619a1
