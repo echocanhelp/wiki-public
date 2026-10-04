@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Francie Lin
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 > Re-verify 2026-09-25 (deepen-x slice 09240800-22): fresh grep — hit set = Edgar record, whoswho1158, Band-A interview, works/index; all absorbed. SKIP.
 - Re-verify 2026-09-26 (deepen-x slice 09251023-11): fresh ZH+EN grep works/+articles/ — hit set identical to absorbed set (own TAH records + works index); verified-saturated, SKIP; nothing new absorbable.
 - Re-verify 2026-09-30 (deepen-x slice 09260800-27): fresh ZH+EN grep — hit set identical (Edgar record, whoswho1158, Band-A interview, works/index); all absorbed. SKIP; nothing new absorbable.
+- Re-verify 2026-10-04 (deepen-x slice 09300321-5): fresh ZH+EN grep (Francie Lin) works/+articles/ — hit set identical (Edgar record, whoswho1158, Band-A interview, works/index); all absorbed. verified-saturated, SKIP; nothing new absorbable. hits-hash=80027b9bbaa9

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Prof. Edith Chen (陳怡迪教授)
 
@@ -60,3 +60,4 @@ Accomplishment
 - 2026-09-25 deepen-x slice 09240800-23: re-verified — fresh grep identical hit set (own records + works index only); SKIP, nothing new absorbable.
 - Re-verify 2026-09-26 (deepen-x slice 09251023-11): fresh ZH+EN grep works/+articles/ — hit set identical to absorbed set (own TAH records + works index); verified-saturated, SKIP; nothing new absorbable.
 - Re-verify 2026-09-30 (deepen-x slice 09260800-28): fresh ZH+EN grep works/+articles/ — hit set identical to absorbed set (own TAH records + works index); verified-saturated, SKIP; nothing new absorbable.
+- Re-verify 2026-10-04 (deepen-x slice 09300321-5): fresh ZH+EN grep (陳怡迪教授/Edith Chen) works/+articles/ — hit set identical to absorbed set (own TAH records 62/212/2176 + works/index); verified-saturated, SKIP; nothing new absorbable. hits-hash=065ad0a60768

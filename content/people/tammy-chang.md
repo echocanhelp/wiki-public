@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Tammy Chang
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-25 (slice 09250317-9): hit set unchanged (#983, #1314, Healthy Living and Eating, Annie T's Cakes interview, works index), all absorbed above. Verified-saturated; SKIP.
 - 2026-09-26 DEEPEN-X09251451-3 re-run: fresh grep hit set identical to records already cited/absorbed above — verified-saturated, SKIP.
 - Re-verify 2026-09-30 (deepen-x slice 09260800-28): fresh ZH+EN grep works/+articles/ — hit set identical to absorbed set (own TAH records + works index); verified-saturated, SKIP; nothing new absorbable.
+- Re-verify 2026-10-04 (deepen-x slice 09300321-5): fresh ZH+EN grep (Tammy Chang) works/+articles/ — hit set identical (#983, #1314, Healthy Living and Eating, Annie T's Cakes interview, works/index), all absorbed above. Verified-saturated, SKIP; no new corpus facts. hits-hash=7ef83ccfe6be
