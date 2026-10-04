@@ -60,7 +60,19 @@ This page is an **A-tier thin record** for graph linking and member-priority sco
 - [[people/yang-jia-you||Charles Yang (楊嘉猷)]] — Treasurer (財務長); founding president
 - [[people/freeman-huang||Freeman Huang (黃樹人)]] — Secretary (秘書)
 
+## Web-deepened 2026-10-03 (GO: Lee Hsien; source: Yang Hueinan 2013 ×4 — **MISMATCH found, identity UNCONFIRMED**)
+
+**A 白偉瑋/白伟玮 (1956生, 台南人, LA護士學校 → LA護士) is well documented online — NOT yet confirmed to be the same person as the TAHS VP.**
+- **Yang Hueinan (楊惠南) ×4** (《人間佛教的困局》 新雨社/現代禪 study; PDF homepage.ntu.edu.tw + 佛教導航 x2 + 南華應研所 citation): "白偉瑋 1956年生, 台南人, 洛杉磯護士學校畢業, 現任護士, **為張大卿老師的內人**, 美國新雨社的教師之一" — LA 新雨社 (New Language Dhamma Circle) 創社元老, founded Jan 1987 in Los Angeles (法印寺 lecture lineage; 張慈田 + 楊平猷/湯維萍/葉盛沖/王麗珠 = members).
+- **《新雨月刊》 (1987–94)** by-line 白偉瑋: interviewer/translator (not interviewee) — 訪 楊增善法師, 訪 卡努那比丘尼, 訪 Geshe Tsultin Gyeltsen, own essays (雨聲下/隨筆); also 台灣女人健康網 contributor list (2023).
+- **2018-08-31 TAHS archive** (ta-history.org 蔡愛智牧師生平 page): 楊正光's DC-interview "**白偉瑋 主持訪談**" — this one IS TAHS-side.
+
+**⚠ Conflict, not merged:** 1956生 + 護士 ⇒ ~67 by 2023 — a 77-y/o taking the 謝泊欣 oral-history interview (2023, p.108) is improbable (not impossible). The 新雨 roster lists BOTH the LA nurse 白偉瑋 AND TAHS-affiliated figures (楊嘉猷, 楊平猷) separately, so the LA 佛教 circle and the TAHS circle touch but are not identical — and neither roster line is confirmed as the TAHS VP. Identity merge UNCONFIRMED — do NOT merge 1956/護士 attributes onto the TAHS VP without member confirmation.
+
+**If the two 白偉瑋 ARE one person (unconfirmed, medium-low):** the page then holds a 40-yr arc — LA 新雨 弘法 writer/interviewer (1987–94) → TAHS-side oral-history work (楊正光 訪談主持 2018; 謝泊欣 採訪 2023) → 台美人歷史協會 **副會長** 2025 (the org chart itself lists ONLY the title — no bio; birth-year/occupation blanks are what the 楊惠南 entry could fill, *if* verified as the same person). No merge, no blank-filling, until member confirmation.
 ## Revision History
+
+- **2026-10-03** — web-deepened: 楊惠南×4 + dhammarain (rain-25/44/50/55/57/58) + TAHS 2018 archive + 2023 book. Two 白偉瑋 entries (1956/護士/新雨 vs TAHS VP) found; merge held, conflict logged.
 
 - **2026-09-11** — deepen re-check: page already carries the full vault-absorbed content (2025 org-chart role + 2023 interviewer credit); all linked slugs ([[people/rosalyne-formosa-shieh]], [[people/ching-sze-hsieh]], [[people/freeman-huang]], [[sources/2023-tahs-publication]], [[works/taiwaneseamericanhistory-org/108-e8-a7-a3-e6-b0-b8-e5-8d-9a-e5-a3-ab-dr-ching-sze-hsieh]]) verified to exist. No new facts available in-vault; no web consulted.
 
