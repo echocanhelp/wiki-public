@@ -1,0 +1,4 @@
+taiwanese-american-cultural-association hits-hash=602eb76c53bd+49e36b24ca88+55b7d4dcdc9f+889be469a17b
+janet-hsieh hits-hash=d46456f07b85+033ee62b96f7+3b8f764c16de+839658ce39b1
+rev-chung-hsin-cho hits-hash=6affb8bf4705+a1878226514e+42e6a591eaa3
+charles-c-hsu hits-hash=1458a562fd60+b49fb86209cc+023cc30c5cb8+e28199b6d511+9dfae45c650c+deb09e64676d
