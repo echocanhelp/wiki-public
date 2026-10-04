@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-04
 ---
 # Prof. Gwo Jaw Wang (王國照教授)
 
@@ -64,3 +64,4 @@ Community memoirs document his standing in the Taiwanese American medical commun
 - 2026-09-26 corpus re-grep (slice 09260400-1): fresh grep 王國照／Gwo Jaw Wang — hit set identical (TAH #599/#76, 返台記 #4, OJ 291/176/201, 自傳 #865, works index); all absorbed. SKIP: verified-saturated.
 
 - 2026-10-03 — deepen-x slice 09300315-11: re-verify SKIP — fresh ZH+EN grep (王國照 / Gwo Jaw Wang) in works/+articles/ returns the identical saturated hit set (TAH #599/#76, 返台記 #4, OJ 291/176/201, 自傳 #865, works index) — all already absorbed; no new absorbable fact. Verified-saturated. hits-hash=96fd42ea6c02
+- 2026-10-04 — deepen-x slice 09300848-17: re-verify SKIP — fresh ZH+EN grep (王國照 / Gwo Jaw Wang) over works/+articles/ reproduces the identical saturated hit set (whos-who-599, #76, 返台記 #4, OJ 291/176/201, 自傳 #865, index); no new facts, all links above already in place. Verified-saturated, nothing new absorbable. hits-hash=c6335e9f506e
