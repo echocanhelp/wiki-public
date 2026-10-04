@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # S. T. Liu (劉曉亭)
 
@@ -63,3 +63,6 @@ last_reviewed: 2026-09-30
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- TJJ-A09260500-14: verified 2026-09-27 — all subject links re-checked vs 正文: real, no wrong/spurious links (以立「致死的震怒近了」 b7ec76fa/2b3d5a36; 第14回世界台灣文化論壇 08cd200c/fc488102); dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
+
+- Re-grep 2026-10-04 (slice 09300507-1): fresh ZH+EN grep (劉曉亭 / S. T. Liu / 劉三講古) — hit set identical to prior audit (#1152 + #1611 bibliographic records, works index, the two forum-program article copies 08cd200c + fc488102 twins, already linked with dated-fact entry in place). SKIP-with-reason: verified-saturated, nothing new absorbable.
+

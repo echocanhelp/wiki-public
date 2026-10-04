@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Dr. Peter Wu (吳平原博士)
 
@@ -62,3 +62,6 @@ HOLD: [[works/taiwaneseamericanhistory-org/ourjourney-343|343. Taiwanese America
 - Re-verified 2026-09-26 (slice 09260500-20): fresh ZH+EN grep 吳平原/Peter Wu returned the identical absorbed/HOLD set (whos-who-2268, our-journeys-370 sing-along/petition material, ourjourney-343 吳宗憲 HOLD, pew statement, works index). SKIP: verified-saturated; both HOLDs stand.
 
 - Re-grep 2026-09-30 (slice 09260854-13): fresh ZH+EN grep adds [[articles/taiwanjustice-net/2017/20171204123020_category_videos_台灣亮起來_b23fcb69441ec03e|台灣亮起來 20171001]] and [[articles/taiwanjustice-net/2023/20231208121552_root_a027f6195942c595|翻轉大台中 選前之夜]] — 吳宗憲 there = the comedian/actor and a KMT legislator list, false positives for this page's banking subject; plus a MANIFEST.jsonl path hit (tier2 manifest index, not a page). Verified-saturated SKIP; both HOLDs stand.
+
+- Re-grep 2026-10-04 (slice 09300507-1): fresh ZH+EN grep (吳平原/Peter Wu, plus bare Peter) — identical hit set again (own whos-who-2268, our-journeys-370, ourjourney-343 = 吳宗憲 HOLD, pew statement, works index; 彼得 false positives unchanged). SKIP-with-reason: verified-saturated, no new community facts; both HOLDs stand.
+
