@@ -47,3 +47,5 @@ last_reviewed: 2026-09-30
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+
+- 2026-10-04 deepen-x slice 09300348-1: re-verified (ZH+EN grep across works+articles) — hit set unchanged (awards67, whoswho1437, #40 profile, WHA statement x2, 2020 Hou-yieh-hui fundraising report, index); verified-saturated, SKIP. hits-hash=1d1a315d458a.

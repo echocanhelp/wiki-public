@@ -46,3 +46,5 @@ Re-grep 2026-09-30 (slice 09260854-3): corpus hits again unchanged (two GT event
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamerican-org/itasa-east-coast-conference-at-georgia-tech-in-atlanta|ITASA East Coast Conference at Georgia Tech (2012)]]
 - [[works/taiwaneseamerican-org/taiwanese-night-market-at-georgia-tech|Taiwanese Night Market at Georgia Tech (2014)]]
+
+Re-grep 2026-10-04 (slice 09300348-1): corpus hits again unchanged (two GT event works + ourjourneys256 venue list + works index; other "Taiwanese Student Association" matches are unrelated USC/OSU/UW/TSAPA chapters). No corpus record names the GT TSA chapter itself. Corpus-saturated, SKIP-for-deepening. hits-hash=07a369889ae9.
