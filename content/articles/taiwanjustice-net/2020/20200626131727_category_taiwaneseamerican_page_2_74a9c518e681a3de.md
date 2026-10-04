@@ -300,3 +300,4 @@ Load more
 - [[people/alan-thian|田詒鴻]] — mentioned in this record
 - [[people/bi-khim-hsiao|蕭美琴]] — mentioned in this record
 
+<!-- TJJ-A09300400-19: QA-verify close 2026-10-03 — frontmatter authors (13 TJJ columnists) + 2 Subjects links (田詒鴻, 蕭美琴) all confirmed real vs 正文; dated facts (2020-05-30 / 2020-05-31) w/ article wikilink already on both pages — saturated, no edits. -->
