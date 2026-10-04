@@ -1,0 +1,6 @@
+# deepen-x slice 09300348-3 — hits-hash (audit close 2026-10-04, fresh grep works/ + articles/)
+# format: <page-path> :: <patterns> :: hits=<N files> :: hash=<12hex>
+content/organizations/the-chuan-lyu-foundation.md :: 川流基金會|Chuan Lyu :: hits=6 (38-chuan-lyu-lecture, chuan-lyu-chair-uc-santa-barbara, 30-chuan-lyu-chair, own-directory-page, 39-chuan-lyu-fellowship-ucsf, our-journeys-384) :: hits-hash=3b8989e1d05e
+content/organizations/taiwanese-american-student-association-at-uc-berkeley.md :: Berkeley TASA|TASA :: hits=6 (ourjourneys173-eng, ourjourneys157, history-of-itasa, 176-keimay-yang, 578-itasa-1998-1999, newsletter-itasa) :: hits-hash=5be4b053f3df
+content/people/prof-yang-en-cheng.md :: 鄭仰恩|Yang-En Cheng :: hits=3 (whos-who-1896-yang-en-cheng, works/index, 20240715153720_root taiwanjustice 余杰2015) :: hits-hash=2becde32600d
+content/people/echo-lew.md :: 劉白|Echo Lew :: hits=6 (whos223, artist7, 496-catalogue, art-exhibitions-42, art-show-11, our-journeys-371) :: hits-hash=7b7c5ff681eb
