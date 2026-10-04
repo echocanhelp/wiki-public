@@ -59,3 +59,5 @@ Corpus re-grep (slice 09240700-16, 2026-09-25): fresh 黃雪香/Sue Chiu grep of
 Corpus re-grep (slice 09251000-8, 2026-09-26): fresh 黃雪香/Sue Chiu grep of works+articles — hit-set unchanged (#529, #65, #853, #154, works index). Verified-saturated; SKIP-content, nothing new absorbable, no conflicts.
 Corpus re-grep (slice 09260500-10, 2026-09-26): fresh 黃雪香/Sue Chiu grep of works+articles — hit-set unchanged (#529, #65, #853, #154, works index). Verified-saturated; SKIP-content, nothing new absorbable.
 Corpus re-grep (slice 09260854-11, 2026-09-30): fresh 黃雪香/Sue Chiu grep of works+articles — hit-set unchanged (#529, #65, #853, #154, works index). Verified-saturated; SKIP-content, nothing new absorbable, no conflicts.
+
+Corpus re-grep (slice 09300500-3, 2026-10-04): fresh ZH+EN grep of works+articles — hit set identical to records already absorbed and linked above; no new absorbable community facts. SKIP: verified-saturated.

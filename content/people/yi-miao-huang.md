@@ -61,3 +61,5 @@ _No filled family fields on the TAH profile._
 > Corpus re-grep (slice 09260500-7, 2026-09-26): fresh ZH+EN grep — hit set identical to records already absorbed and linked above; no new absorbable corpus facts. SKIP: verified-saturated.
 
 - Corpus re-grep (slice 09260854-9, 2026-09-30): fresh ZH+EN grep — hit set identical to records already absorbed and linked above (verified by re-grep this run). No new absorbable community facts. SKIP: verified-saturated.
+
+Corpus re-grep (slice 09300500-3, 2026-10-04): fresh ZH+EN grep of works+articles — hit set identical to records already absorbed and linked above; no new absorbable community facts. SKIP: verified-saturated.
