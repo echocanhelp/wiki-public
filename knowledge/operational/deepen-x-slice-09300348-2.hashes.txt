@@ -1,0 +1,7 @@
+# deepen-x slice 09300348-2 — QA verify close (deepen-x-verify, 2026-10-04)
+
+Protocol note: this card ran the **full grep** (no `--exclude=index.md`), so its audit-line format was `hits-hash=<12hex>` from the full hit set. The 4 pages were already fully saturated from prior slices (09201500-10 → 09260854-6); no new corpus facts. Fresh full-mode re-grep run during this close (md5 of sorted non-index hit-file list, 2026-10-04):
+
+robert-lee=9cbedbbeb057 / prof-ruey-jen-sung=ca2bfbec0c90 / c-k-lee=0b5ad9889ab8 / yang-ming-ren=a5b55db5ee4e
+
+(All 4 verified-saturated; hit sets identical to prior slices — no new corpus material to absorb.)
