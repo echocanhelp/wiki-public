@@ -8,7 +8,7 @@ tags:
   - tah-whos-who
   - presbyterian
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # James Yang (楊明仁)
 
