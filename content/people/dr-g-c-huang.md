@@ -6,7 +6,7 @@ name_zh: "黃光彩博士"
 tags:
   - person
   - tah-whos-who
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 verification_status: pending
 ---
 # Dr. G. C. Huang (黃光彩博士)
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verified 2026-10-04 (deepen-x slice 09300321-1): fresh re-grep (黃光彩 / G. C. Huang / Kuan-tsae, works+articles) — hit set identical (ourjourneys-138 presidents roster, where the 2007 block lists him shared with 賴國龍 Koklioong Loa — ambiguity flagged, not merged; TAH #1869; works index). hits-hash=165d024eb1d3+efd3f780dec4+cb87226792de. Verified saturated; SKIP: nothing further absorbable, HOLD (DC presidency vs Singapore roles) retained.

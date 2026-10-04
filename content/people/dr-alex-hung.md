@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Dr. Alex Hung (洪克璿博士)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09250317-16: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): hit set identical to prior re-verifies, all already absorbed/wikilinked (STSA hits = 2025 archive_digest hash false positives). Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 09251435-1: re-verify 2026-09-26 — fresh grep (洪克璿/Alex Hung, works+articles): hit set identical (whos-who-2247, Pew statement, index), all absorbed. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 09260800-29: re-verify 2026-09-30 — fresh grep (洪克璿/Alex Hung, works+articles): hits = whos-who-2247, Pew statement (FAPA CA-SD chapter president signature), works/index only — all already absorbed/wikilinked. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x 09300321-1: re-verify 2026-10-04 — fresh grep (洪克璿/Alex Hung, works+articles): hit set identical (whos-who-2247, Pew statement FAPA CA-SD signature, works/index), all already absorbed/wikilinked. Verified saturated; SKIP-no-new-facts. -->
