@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Sue Chiu (黃雪香)
 
@@ -40,6 +40,7 @@ Being always enjoying various forms of artistic expression, I took my first cera
 - **公論報 contributor:** Authored [[works/taiwaneseamericanhistory-org/mystories529|529. 公論報精神 / 黃雪香 / 03/2017]], a memoir piece reflecting on the spirit of the Taiwan Times (公論報) — a first-hand community voice on the movement press.
 - **北美洲台灣人婦女會 editor:** Took over editing the 「點心擔專欄」 column in 公論報 in **2003**, one of ten successive volunteer editors since 柯翠園 launched the column in 1999-05 as the women's association "婦女習作園地" (replacing the earlier 婦女信箱) — see [[works/taiwaneseamericanhistory-org/ourjourneys154|154. 完美的句點 / 陳桂蘭]] (full column history per that memoir: 邱良媛 1999-2000, 王麗華 2001, 林瑞美/李素蓮 2002, 黃雪香/陳香梅 2003, 王麗華 2004-2005, 白珠麗 2006-2007, 陳美麗 2008, 陳桂蘭 2009-2011).
 - **Tahs profiles:** Ceramic-artist profile in [[works/taiwaneseamericanhistory-org/artist-sue-chiu|65. 黃雪香 Sue Chiu]] and Who's Who entry [[works/taiwaneseamericanhistory-org/whos-sue-chiu|853. Sue Chiu 黃雪香 / 2016-02]].
+- **公論報 column-history source (re-grep 2026-10-04):** the 2011-09-30 停刊 of 公論報 (issue #2357, after 30 years from 1981) ended the 點心擔專欄 at the same time; the 婦女會 donated the column's proceeds to 台美文教基金會在8/20/2011 (final 2011-08-31 issue) as a 「完美的句點」 — 黃雪香's 2003 editorship falls inside that 1999–2011 run.
 
 - Corpus re-grep (2026-09-19 / 2026-09-20 / re-run 2026-09-21): hits confined to her own memoir #529, artist profile #65, Who's Who #853, the 點心擔 column-history memoir #154 already cited above (plus the works index) — nothing new absorbable this pass.
 - Corpus re-grep (slice 09212352-22, 2026-09-22): hit-set unchanged (#529, #65, #853, #154, works index) — SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.
