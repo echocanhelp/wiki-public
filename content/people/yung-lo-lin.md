@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-04
 ---
 # Yung-Lo Lin (林永樂)
 
@@ -67,3 +67,5 @@ slice 09250700-25 re-grep (2026-09-25): fresh 林永樂/Yung-Lo Lin grep; hit se
 slice 09260400-27 re-grep (2026-09-26): fresh 林永樂/Yung-Lo Lin grep; hit set identical (#whos1282, ourjourneys245, works/index; 榮隆-name matches are other people) — no new absorbable facts. SKIP: verified-saturated.
 
 slice 09260800-13 re-grep (2026-09-30): fresh 林永樂/Yung-Lo Lin grep over works/ + articles/; hit set identical (#whos1282 bibliographic record + ourjourneys245 + index; taiwanjustice editorial namesake still the ROC diplomat, not merged) — no new absorbable facts. SKIP: verified-saturated.
+
+slice 09300315-14 re-grep (2026-10-04): fresh 林永樂/Yung-Lo Lin/y-l-lin grep over works/ + articles/; hit set adds only whoswho1326 (Y. L. Lin 林玉郎 — different person, matched solely via the y-l-lin wikilink pattern in its Subjects line) and the known TJJ 2015 editorial namesake (ROC diplomat). No new absorbable facts for this engineer-professor. SKIP: verified-saturated. hits-hash=b0e7a7b8ab01

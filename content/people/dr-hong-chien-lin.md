@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-04
 ---
 # Dr. Hong-Chien Lin (林洪謙醫師)
 
@@ -50,7 +50,7 @@ last_reviewed: 2026-10-03
 - Re-verified 2026-09-26 (slice 09260400-10): fresh ZH+EN re-grep（林洪謙 / Hong-Chien Lin）returns the identical set already linked above（TAH #163、#108、#91、#325、Our Journeys 74 + ENG）。NATMA 創會名單、TAF 營隊家長名單、文學供稿均已吸收。Corpus-saturated, SKIP-for-deepening.
 
 - **南加州台大校友會 anti-管中閔 聯署校友（2018-07）**: Lin (listed as 林洪謙(醫科)) is one of ~200 台大校友 who signed the open letter protesting 南加州台大校友會 inviting 管中閔 to speak at its annual reunion — an alumni-association civic action record, distinct from his medical/文学 records. The letter's byline record is [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ 2018-07-20 抗議函]] (source record; his name occurs in the signatory roster only). The same roster reappears in his own memoir record [[works/taiwaneseamericanhistory-org/149-e5-9b-9e-e6-86-b6-e9-96-8b-e6-a5-ad-e7-94-9f-e6-b6-af-e6-9e-97-e6-b4-aa-e8-a|TAH #149 回憶開業生涯]] (bibliographic record only).
-- Re-verified 2026-10-03 (slice 09300315-14): fresh ZH+EN re-grep now adds the two 2018 alumni-letter hits above (TJJ 2018-07-20 + its full roster in TAH #149); all other hits unchanged from prior re-greps.
+- Re-verified 2026-10-04 (slice 09300315-14, re-grep for this run): fresh ZH+EN re-grep (林洪謙 / Hong-Chien Lin) returns the identical set already linked above (TAH #163、#108、#91、#325、#8、#149、Our Journeys 74 + ENG、OJ377、TJJ 2018-07-20 抗議函 + index). No new material. SKIP-for-deepening. hits-hash=a02830aecf1c
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-hong-chien-lin/)
