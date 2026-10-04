@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-04
 ---
 # Taiwanese American Association of Arizona (亞歷桑那州)
 
