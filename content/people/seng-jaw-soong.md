@@ -65,3 +65,5 @@ _No filled family fields on the TAH profile._
 - 2026-09-26 deepen-x slice 09251023-8: re-verified — fresh grep 宋盛照/Seng-Jaw Soong returns only own TAH record #1482 and the works index, already wikilinked. Nothing absorbable.
 
 - 2026-09-30 deepen-x slice 09260800-20: re-verified — fresh grep 宋盛照/Seng-Jaw Soong over works+articles returns only own TAH record #1482 and the works index, already wikilinked. No memoir/article mentions. Verified saturated; SKIP-no-new-facts.
+
+- Re-verified 2026-10-04 (slice 09300315-29): fresh grep 宋盛照/Seng-Jaw over works/+articles/ returns ZERO hits — own record #1482 + works index only (person/sources index rows excluded). Nothing absorbable; 9th consecutive saturated re-verify. SKIP: verified-saturated, nothing absorbable. hits-hash=da39a3ee5e6b (zero hits)

@@ -55,3 +55,5 @@ last_reviewed: 2026-09-30
 <!-- deepen-x 09251435-1: re-verify 2026-09-26 — fresh grep (劉德勇/D. Y. Liu, works+articles): hit set identical to prior re-verifies (ourjourneys217, ourjourneys270, whoswho1854, index; TJJ 劉德華 hits are unrelated name noise). All absorbed above. Verified saturated; SKIP-no-new-facts. -->
 
 - 2026-09-30 deepen-x slice 09260800-20: re-verified — fresh grep (劉德勇/D. Y. Liu, works+articles): hit set identical to prior re-verifies (ourjourneys217, ourjourneys270, whoswho1854, index). All absorbed above. Verified saturated; SKIP-no-new-facts.
+
+- Re-verified 2026-10-04 (slice 09300315-29): fresh grep 劉德勇/D. Y. Liu over works/+articles/ returns the identical hit set (ourjourneys217, ourjourneys270, whoswho1854, works index) — all already absorbed above; re-read of ourjourneys217/270 confirms no new community facts, no conflicts. SKIP: verified-saturated. hits-hash=da39a3ee5e6b (zero new hits)

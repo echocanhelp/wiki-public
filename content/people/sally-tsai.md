@@ -54,3 +54,5 @@ last_reviewed: 2026-09-30
 
 <!-- deepen-x 09251527-3: re-verify 2026-09-26 — fresh grep (ZH+EN, works+articles): hit set identical to prior re-verifies, all already absorbed/wikilinked. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 09260800-29: re-verify 2026-09-30 — fresh grep (蔡淑理/Sally Tsai, works+articles): hits = own records #345/#181, ourjourneys340, works/index only; ourjourneys340 text re-confirmed 南灣百合花合唱團由蔡淑理帶領, consistent with existing text. Verified saturated; SKIP-no-new-facts. -->
+
+- Re-verified 2026-10-04 (slice 09300315-29): fresh grep 蔡淑理/Sally Tsai over works/+articles/ returns the identical hit set (own records #345/#181, ourjourneys340, works index) — all already absorbed/wikilinked; ourjourneys340 text re-confirmed 南灣百合花合唱團由蔡淑理帶領, consistent with existing text. SKIP: verified-saturated. hits-hash=da39a3ee5e6b (zero new hits)
