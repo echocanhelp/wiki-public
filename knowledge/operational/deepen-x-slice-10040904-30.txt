@@ -1,0 +1,4 @@
+organizations/american-citizens-of-taiwan-origin-acto.md
+organizations/stc-management.md
+organizations/good-shine-kitchen.md
+people/chung-chi-chou.md

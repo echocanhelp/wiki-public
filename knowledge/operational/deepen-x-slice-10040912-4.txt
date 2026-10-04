@@ -1,0 +1,4 @@
+organizations/taiwanese-american-science-and-technology-association-tasta.md
+organizations/joint-chinese-university-alumni-association-of-southern-california.md
+organizations/silicon-valley-taiwanese-american-association.md
+people/karen-lin.md

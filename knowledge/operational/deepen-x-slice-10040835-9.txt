@@ -1,0 +1,4 @@
+people/anna-chang.md
+people/stephanie-chuang.md
+people/dr-soo-chen-cheng.md
+organizations/kaohsiung-high-school-alumni-association.md

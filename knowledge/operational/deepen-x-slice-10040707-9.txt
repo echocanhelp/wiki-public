@@ -1,0 +1,4 @@
+people/stephanie-chuang.md
+people/dr-soo-chen-cheng.md
+people/rev-c-l-tong.md
+organizations/kaohsiung-high-school-alumni-association.md

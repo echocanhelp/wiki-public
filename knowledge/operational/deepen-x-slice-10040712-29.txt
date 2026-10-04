@@ -1,0 +1,4 @@
+organizations/stc-management.md
+organizations/good-shine-kitchen.md
+people/chung-chi-chou.md
+people/li-ying-chang.md

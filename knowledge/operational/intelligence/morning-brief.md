@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-10-03
+TAHS · Echopedia morning brief — 2026-10-04
 1 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
@@ -6,6 +6,7 @@ TAHS · Echopedia morning brief — 2026-10-03
      → Confirm identity / approve thin page / or dismiss
 
 🟡 QUEUE / identity (soft — no reply required)
+🟡 QUEUE Christine Hsu: soft pending aged out: capture_line_user_id_on_first_sender_message
 🟡 QUEUE Becky Yang: soft pending aged out: chinese_name
 🟡 QUEUE Charles Yang: soft pending aged out: capture_line_user_id_on_first_sender_message
 
@@ -25,7 +26,7 @@ TAHS · Echopedia morning brief — 2026-10-03
 🟡 QUEUE 11 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~15640 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~15646 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md ↔ sources/taiwaneseamericanhistory-org.md
@@ -35,11 +36,11 @@ TAHS · Echopedia morning brief — 2026-10-03
 🟡 QUEUE 5. Link tip: organizations/ai-education-foundation.md ↔ people/john-hsu.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 113 visits since cutoff · yday 2026-10-02 = 2 · /people/albert-zh-sku-b-publisher-review.html 19, /people/gwhyneth-chen 16, /people/albert-zh-sku-b-publish
+ℹ️  INFO  wiki 115 visits since cutoff · yday 2026-10-03 = 2 · /people/albert-zh-sku-b-publisher-review.html 19, /people/gwhyneth-chen 16, /people/albert-zh-sku-b-publish
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 2930 queued 3 suppressed 2241
+✅ AUTO analyzer scanned 2930 queued 2 suppressed 2243
 🟡 QUEUE janitor HOLD leftover 40
-🟡 QUEUE kanban blocked 21
-🔴 NEED YOU cron fail: memory-audit, echopedia-nightly-audit, echopedia-weekly-improvement, go-router-monthly-audit
+🟡 QUEUE kanban blocked 16
+🔴 NEED YOU cron fail: memory-audit, echopedia-weekly-improvement, go-router-monthly-audit
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

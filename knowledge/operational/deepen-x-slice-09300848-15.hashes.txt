@@ -1,0 +1,23 @@
+# DEEPEN-X 09300848-15 sweep record (2026-10-04)
+
+Method: fresh ZH+EN (+TALA) grep of content/works + content/articles, then -m2 -A2 context read of hits.
+
+## 1. people/dr-hui-ling-chen.md — SKIP (verified-saturated)
+- Hit set (non-index): whos-who-2147 (own entry), TJJ 20200623113826 (澎湖縣議員 陳慧玲 — homonym), TJJ 20250514013859 (陳方安生之女 陳慧玲 — homonym), works index.md listing.
+- Nothing about this person beyond the already-linked TAH #2147 entry.
+- hits-hash=63d68e7fd05f
+
+## 2. organizations/taiwanese-american-lawyers-association.md — SKIP (verified-saturated)
+- Hit set (non-index): 20210616072940 + 20251108183438 (2021 WHA joint statement + 2025 republication copy — real 台美律師協會 mention, already covered), 20240713162404 (大洛杉磯台灣會館 July 2018 會訊 — real 台美律師協會座談會 mention, no new org facts), ourjourneys29 ZH+EN, activities-of-taiwanese-american-lawyers-association, ff318, taiwanese-american-lawyers-association (all already absorbed+linked).
+- 4 articles are "TALA" substring false positives in archive_digest hashes (ANW2TALAHCZUGRKW..., UBATALAD34XD..., RJYOAGPJNDZY...ODTALA...) and EMTALA (federal statute) — none is TALA 台美律師協會.
+- hits-hash=a16d40cb0221
+
+## 3. people/yi-ming-liu.md — SKIP (verified-saturated)
+- Hit set (non-index): the same 10 work pages already wikilinked (whos, ff342, mystories326/331/572/613, ourjourneys289, ourjourneys-364, collection-of-mr-yi-ming-liu, 349-our-journeys).
+- Loose grep surfaced 2 more hits — both other people: Yi-Ming Lin, D.D.S. (Our Journeys 305, St. Louis PCUSA church founding pastor, NY 1971), Yi-Ming Chen 陳史彥明 (Our Journeys 128, UCC NJ, Rev. Jane Chen's husband) — excluded as homonyms, nothing absorbable.
+- hits-hash=9564f677fd29
+
+## 4. people/helen-huang.md — SKIP (verified-saturated)
+- Hit set (non-index): TAH #232/#482 (title-only + byline-less mentions in the works copies), TJJ 20250524194905 會訊 (Helen Huang 音樂會, Los Angeles — already linked), TJJ 20250624105056 (LA judge record — already linked); plus MANIFEST.jsonl/index listings.
+- Two-person HOLD (鋼琴家 vs 洛杉磯郡法官 Helen Huang Yang) stands; no merge, no new facts.
+- hits-hash=9a0e961df5d7

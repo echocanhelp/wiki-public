@@ -1,0 +1,4 @@
+organizations/good-shine-kitchen.md
+people/chung-chi-chou.md
+people/li-ying-chang.md
+people/stephanie-wan-hsiu-lan.md

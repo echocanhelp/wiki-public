@@ -1,0 +1,4 @@
+people/ted-anderson.md
+people/tah-p-78afe78c03.md
+organizations/evangelical-formosan-church-of-norcal.md
+organizations/cornell-taiwanese-american-society.md
