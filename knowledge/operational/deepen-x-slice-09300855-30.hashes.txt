@@ -1,0 +1,8 @@
+# deepen-x slice 09300855-30 — hits-hash (audit close 2026-10-05, fresh grep works/ + articles/)
+
+people/peter-lee.md :: 李文智|Peter Lee :: hits=2 (445-peter-lee…, 213-2) + index :: hits-hash=fc989c87d9a4 (identical to 09300315-20)
+organizations/kaohsiung-high-school-alumni-association.md :: 高雄中學校友|雄中雄女|KHSAA :: hits=5 (us-kshs, sc-kh, enewsletters-khsaa, 2021 WHA statement, 2025 repost) + index :: hits-hash=c37aa529b9ab (identical to 09300315-20)
+people/prof-liang-shih-fan.md :: 范良士|Liang-Shih Fan :: hits=1 (whos-who-1799) + index :: hits-hash=6e08f949c900 (identical to 09300315-20); 范良信 HOLD unchanged
+people/yu-han-yeh.md :: 葉宇涵|Yu-Han Yeh :: hits=2 (whoswho1208, musician354) + index :: hits-hash=9dbc0c21fad5 (same file set as 09300315-21's per-file hashes — corpus unchanged)
+
+All 4 verified-saturated; no new corpus material; 0 deepened, 4 skipped, 0 corpus-linked.
