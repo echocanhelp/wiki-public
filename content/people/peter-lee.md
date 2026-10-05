@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Peter Lee (李文智)
 
@@ -66,3 +66,5 @@ Corpus grep (works/articles, both 李文智 and "Peter Lee") hits only this page
 Re-check slice 09260700-32 (2026-09-27): fresh grep 李文智/Peter Lee — same hit set (#445、#213、index only) — saturated, SKIP.
 
 Re-check slice 09300315-20 (2026-10-04): fresh grep 李文智/Peter Lee — same hit set (#445、#213、index only) — saturated, SKIP. hits-hash=fc989c87d9a4
+
+Re-check slice 09300855-30 (2026-10-05): fresh grep 李文智/Peter Lee — same hit set (#445、#213、index only) — saturated, SKIP. hits-hash=fc989c87d9a4

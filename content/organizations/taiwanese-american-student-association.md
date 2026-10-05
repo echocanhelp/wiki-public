@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-05
 ---
 <!-- deepen-x 09200800-27: SKIP — fresh corpus re-scan: TASA hits are the Seniors Association and ITASA only (already noted in the HOLD); no corpus record for the Vanderbilt chapter itself. -->
 # Taiwanese American Student Association
@@ -35,3 +35,5 @@ HOLD: name-collision — "TASA" in the TAH story corpus denotes the **Taiwanese 
 <!-- deepen-x 09240700-9: re-verify — fresh TASA grep returns the same Seniors/ITASA-cluster records already in the HOLD, plus 176. In Memory of My Son Keimay Yang (Agnes Wu) — an ITASA-supporter memoir, no Vanderbilt fact. Still no Vanderbilt-chapter record. SKIP-deepen maintained. -->
 <!-- deepen-x 09251000-2: re-verify — fresh TASA grep returns the same Seniors-Association records (ourjourneys173/157/356, 78 photo-albums, 通訊月刊 newsletter) and ITASA-cluster records already in the HOLD; from-east-to-west-with-wong-fu-productions mentions ITASA chapters only. Still no Vanderbilt-chapter record. SKIP-deepen maintained. --><!-- deepen-x 09260400-16: re-verify — fresh grep: Vanderbilt hits are the unrelated Houston teacher bio (ourjourneys298) and 松年學院 records; TASA hits remain the Seniors/ITASA cluster already in the HOLD. Still no Vanderbilt-chapter record. SKIP-deepen maintained. -->
 <!-- deepen-x 09300315-18: re-verify — fresh TASA grep returns the same Seniors/ITASA-cluster set (ourjourneys173-eng, ourjourneys157, history-of-itasa, 176 Keimay Yang, 578, newsletter-itasa) already in the HOLD; 'Vanderbilt' grep still only ourjourneys298 (Houston teacher bio) + justineker (Miss Louisiana) — no Vanderbilt-chapter record. SKIP-deepen maintained, verified-saturated. -->
+
+Fresh re-grep 2026-10-05 (deepen-x slice 09300855-27): TASA hits = same Seniors/ITASA cluster already in the HOLD; 'Vanderbilt' hits now also include three unrelated taiwanjustice-net articles (2026 CNN 當爸 story, 2025 Biden-primary piece, 2025 US-China propaganda piece) — all US-politics context, no Vanderbilt-TASA fact. Still no Vanderbilt-chapter record. SKIP-deepen maintained, verified-saturated. hits-hash=0c3dd352c79b.

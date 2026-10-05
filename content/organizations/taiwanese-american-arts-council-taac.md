@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-05
 ---
 # Taiwanese American Arts Council TAAC (台美文藝協會)
 
@@ -42,3 +42,6 @@ The Taiwanese American Arts Council (TAAC) was established in 2014 to carry forw
 - Re-verified 2026-10-04 (slice 09300848-28): fresh ZH+EN re-grep (台美文藝協會 / Taiwanese American Arts Council / TAAC) — identical hit set (own records #5, #17 directory profile, #18, #52, news-taac + works index), all already linked; headers only, no narrative to absorb. Verified-saturated; SKIP-deepen. hits-hash=5599183ed6fe
 ## Corpus re-grep (2026-10-04, slice 09300848-28)
 - Re-verified 2026-10-04 (slice 09300848-28): fresh ZH+EN re-grep (台美文藝協會 / Taiwanese American Arts Council / TAAC) — identical hit set (own records #5, #17 directory profile, #18, #52, news-taac + works index), all already linked above; records carry bibliographic headers only, no narrative to absorb. Verified-saturated, SKIP. hits-hash=69cf75e02f1e (sha1 over works/taiwaneseamericanhistory-org hit-set); articles/ = 0 hits (hit-5 grep pattern "TAAC" matched inside an unrelated Wayback archive digest — known false positive).
+
+## Corpus re-grep (2026-10-05, slice 09300855-28)
+- Re-verified 2026-10-05 (slice 09300855-28): fresh ZH+EN re-grep (台美文藝協會 / Taiwanese American Arts Council / TAAC) — same hit set: own records #5, directory profile, #18, #52, news-taac + works index, all already linked; the single articles/ hit (taiwanjustice-net 蒲亭控西方破壞北溪管線) matches "TAAC" inside its Wayback archive-digest string only — known false positive, not absorbed. No narrative to absorb. Verified-saturated, SKIP. hits-hash=4087a0f601da (depth_sweep convention, sorted hit-path sha1).

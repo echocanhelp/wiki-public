@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-05
 ---
 # Taiwanese American Student Association at UC Berkeley
 
@@ -25,6 +25,7 @@ Activity documented in the Taiwanese American community press (taiwaneseamerican
 - 2013-05-05 — [[works/taiwaneseamerican-org/10th-anniversary-banquet-with-berkeley-tasa|10th Anniversary Banquet with Berkeley TASA]] — anniversary consistent with the 2003 founding date above.
 - 2014-04-06 — hosted the [[works/taiwaneseamerican-org/2014-itasa-west-coast-conference-at-uc-berkeley|2014 ITASA West Coast Conference at UC Berkeley]].
 Earlier ITASA/UC Berkeley thread: the community-published book "Our Treasury" was an ITASA project written by Sibyl Chen 陳世樸, a recent UC Berkeley politics graduate ([[works/taiwaneseamericanhistory-org/ourjourneys157|Ourjourneys157: 「Our Treasury」]]. Note: that ITASA-era activity predates the 2003 campus TASA founding; the two organizations share the ITASA lineage, held as related-thread context, not merged.
+Earlier Bay Area formation thread (predates the 2003 TASA founding; related-thread context, not merged): [[works/taiwaneseamericanhistory-org/our-journeys-357|357. 舊金山灣區臺灣人的社團活動與家國意識之形成 (何義麟, 08/2020)]] records that by the late 1960s Taiwanese students at UC Berkeley and Stanford were already gathering, forming the 「臺灣同學會」 prototype from which the region's 同鄉會 and 讀書會 societies grew in the early 1970s — the deep lineage this campus club descends from. Also related-thread: [[works/taiwaneseamericanhistory-org/ourjourneys152|152. 柏克萊加大的『台灣寮』(陳仲欽, 2015/07)]] on the Berkeley Taiwan House milieu.
 Earlier Berkeley Taiwanese-movement thread (predates the 2003 TASA founding; related-thread context, not merged): [[works/taiwaneseamericanhistory-org/677-uc-berkeleys-taiwanese-language-class-1992-chen-chen-wu-03-2019|UC Berkeley's Taiwanese language class, 1992 (Chen Chen Wu, 03/2019)]].
 - 2012-10-30 — [[works/taiwaneseamerican-org/a-dumpling-fundraiser-for-tasa-at-berkeley|A Dumpling Fundraiser for TASA at Berkeley]] — fundraiser for the club (documentary record; date per the original 2012-10 article).
 Fresh greps 2026-09-20 / 2026-09-21 / 2026-09-22 / 2026-09-23 / 2026-09-24 (slices 09211400-24, 09220900-24, 09230400-15): no additional campus-TASA material in content/works or content/articles beyond the records already linked above; re-checked the ITASA history files (history-of-itasa, #276, #578, ourjourneys173-eng) — none mention Berkeley. Remaining fresh TASA hits were false positives: ourjourneys277 (UW-M 台灣布袋戲團 / 台灣學生會大會, Madison not Berkeley), our-journeys-381 (北卡台灣學生會), ourjourneys173-eng (TASA = Taiwanese American Seniors Association of Southern California — a different organization entirely). SKIP-for-deepening.
@@ -43,3 +44,5 @@ Fresh re-grep 2026-09-26 (slice 09260500-16): hit set identical — our-journeys
 Fresh re-grep 2026-09-30 (deepen-x slice 09260854-6): hit set identical — the 4 linked TASA event records + writing-journey-2 (Shawna Yang Ryan memoir-adjacent author note: author sat on a Berkeley TASA career panel ~2003-era; no new dated wiki fact) + works index. Verified-saturated, nothing new absorbable.
 
 Fresh re-grep 2026-10-04 (deepen-x slice 09300348-3): broadened grep (Berkeley-only hits too) — NEW absorbable finds: a-dumpling-fundraiser-for-tasa-at-berkeley (2012-10-30 club fundraiser, added to Timeline above). Other Berkeley hits re-checked and non-club material: itasa-west-coast-and-midwest-conferences-2009 (author's UIUC/USC conference memoir, no Berkeley club mention), a-chat-with-brian-yang (Brian Yang bio only), formosa-prix-fixe-menu + from-east-to-west-with-wong-fu-productions (Wong Fu tour/vendor material). hits-hash=5be4b053f3df.
+
+Fresh re-grep 2026-10-05 (deepen-x slice 09300855-27): NEW related-thread records absorbed above — our-journeys-357 (何義麟, 08/2020: late-1960s Berkeley/Stanford 臺灣同學會 formation) and ourjourneys152 (陳仲欽: 柏克萊加大『台灣寮』). All other TASA/Berkeley hits re-verified as already-linked records or false positives (ourjourneys277 UW-Madison, our-journeys-381 北卡, ourjourneys173-eng Seniors Association, ourjourneys37/70/350/390 general Bay Area memoir context). hits-hash=d5d4e7714a24.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # I-Ling Chen (陳奕伶)
 
@@ -64,3 +64,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (2026-10-04, slice 09300848-28)
 - Re-verified 2026-10-04 (slice 09300848-28): fresh ZH+EN re-grep 陳奕伶/I-Ling Chen — hit set unchanged (own TAH profiles #3, #748 + works index); no memoir or event mention; verified-saturated, SKIP. hits-hash=69cf75e02f1e (sha1 over works/taiwaneseamericanhistory-org + articles hit-set).
+
+## Corpus re-grep (2026-10-05, slice 09300855-28)
+- Re-verified 2026-10-05 (slice 09300855-28): fresh ZH+EN re-grep 陳奕伶/I-Ling Chen — hit set unchanged (own TAH profiles #3, #748 + works index only); no memoir or event mention; similarly named distinct individuals (陳婉伶, Hui-Ling Chen) remain unmerged per note above. Verified-saturated, SKIP-with-reason. hits-hash=2e7ac5d52811 (depth_sweep convention).

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-05
 ---
 # John Hsieh (謝鎮寬)
 
@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09250900-19 re-verify 2026-09-26: fresh ZH+EN grep of works/+articles/ — hit set identical to material already absorbed; verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09260400-9 re-verify 2026-09-26: fresh ZH+EN grep — hit set identical (OJ 38/38-eng/142, OJ 370, TAH #470, index); verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09300315-18 re-verify 2026-10-03: fresh ZH+EN grep — hit set identical (our-journeys-370, 470, ourjourneys142, ourjourneys38/38-eng, index); verified-saturated, no new absorbable facts. SKIP-with-reason. -->
+
+Fresh re-grep 2026-10-05 (deepen-x slice 09300855-27): fresh ZH+EN grep of content/works + content/articles — hit set identical (our-journeys-370, TAH #470, ourjourneys142, ourjourneys38/38-eng, works index); verified-saturated, no new absorbable facts, no conflicts to HOLD. SKIP-with-reason. hits-hash=099136916439.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-05
 ---
 # Morisan Lu (呂明森)
 
@@ -61,3 +61,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (2026-10-04, slice 09300848-28)
 - Re-verified 2026-10-04 (slice 09300848-28): fresh ZH+EN re-grep 呂明森/Morisan Lu — hit set unchanged (ourjourneys9-eng/09, ourjourneys17, whos-m-s-lu, works index), all already absorbed. Verified-saturated, SKIP-with-reason. hits-hash=69cf75e02f1e (sha1 over works/taiwaneseamericanhistory-org hit-set); articles/ = 0 hits.
+
+## Corpus re-grep (2026-10-05, slice 09300855-28)
+- Re-verified 2026-10-05 (slice 09300855-28): fresh ZH+EN re-grep 呂明森/Morisan Lu — identical hit set (ourjourneys09, ourjourneys17, ourjourneys9-eng, whos-m-s-lu, works index), all already absorbed into Role in the Community above. No new memoir or event mention; no conflicts. Verified-saturated, SKIP-with-reason. hits-hash=6600c7413fdc (depth_sweep convention).

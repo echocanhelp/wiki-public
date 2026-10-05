@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-05
 ---
 # Dr. Stephen Chen (陳貞華博士)
 
@@ -59,3 +59,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (2026-10-04, slice 09300848-28)
 - Re-verified 2026-10-04 (slice 09300848-28): fresh ZH+EN re-grep 陳貞華/Stephen Chen — hit set unchanged (whos-who-1690, ourjourneys260 講員 mention, works index, 陳欽明醫師 same-name works; roll-call record links here but the UTI-kit business owner stays under HOLD — identity unconfirmed, no hanzi). No new community facts this pass. Verified-saturated, SKIP-with-reason. hits-hash=69cf75e02f1e (sha1 over works/taiwaneseamericanhistory-org + articles hit-set).
+
+## Corpus re-grep (2026-10-05, slice 09300855-28)
+- Re-verified 2026-10-05 (slice 09300855-28): fresh ZH+EN re-grep 陳貞華/Stephen Chen — hit set unchanged (whos-who-1690, ourjourneys260 講員 mention, works index, 陳欽明醫師 same-name works, roll-call record, pew statement roster). The pew-research-center record carries "Stephen Chen" only as a bare name in a signatory roster — no hanzi, no community activity detail; not absorbable, identity not confirmable vs 陳貞華 or the 陳欽明醫師 HOLD. Roll-call UTI-kit owner stays under HOLD. No new community facts this pass. Verified-saturated, SKIP-with-reason. hits-hash=1515e0282133 (depth_sweep convention).
