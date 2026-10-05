@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # The Chuan Lyu Foundation (川流基金會)
 
@@ -54,3 +54,5 @@ Corpus re-grep 2026-09-30 (deepen-x slice 09260854-6): fresh grep works/ + artic
 Corpus re-grep 2026-10-04 (deepen-x slice 09300348-3): fresh grep works/ + articles/ returned the identical hit-set (program records #18/#30/#38/#39/#84 + #384/#385-adjacent records + #418 disambiguation + own directory page + works index; hits-hash=3b8989e1d05e). SKIP-for-deepening: verified-saturated, nothing new absorbable.
 
 Corpus re-grep 2026-10-04 (deepen-x slice 09300848-26): fresh grep works/ + articles/ for 川流基金會/Chuan Lyu returned the identical hit-set — program records #18/#30/#38/#39/#84/#384/#385, the #418 disambiguation, the own-directory pages, and works/index (hits-hash=fbd58d3658af). Verified-saturated, nothing new absorbable — SKIP-with-reason.
+
+Corpus re-grep 2026-10-05 (deepen-x slice 09300855-26): fresh grep works/ + articles/ for 川流基金會/Chuan Lyu — bare-phrase grep over-matches unrelated taiwanjustice.net "川流不息" prose (3 article files, not the Foundation); the Foundation-attributed hit set (program records #18/#30/#38/#39/#84/#384/#385, own directory page, works index) is identical to what is already wikilinked above. Verified-saturated, nothing new absorbable — SKIP-with-reason. hits-hash=bf690174279a

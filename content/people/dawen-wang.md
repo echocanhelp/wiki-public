@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 <!-- deepen-x 09290900-1 (2026-10-03): fresh ERE grep (王大文|Dawen Wang, works/ + articles/) — hit set unchanged (whoswho1305, checking-dawen, dawen-in-taiwan; full TA.org Dawen cluster + index verified present on disk and already wikilinked above); same-name HOLD (1981 Boston/MA Who's Who record vs later-generation Universal Music singer-songwriter) unchanged, do not merge. SKIP, verified-saturated. hits-hash=a0826c1cf515 -->
 # Dawen Wang (王大文)
@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 - 複核 2026-09-27（slice 09260600-32）：再 grep works/ + articles/（王大文 / Dawen Wang），命中集不變（whoswho1305、works index、TA.org Dawen cluster）— 已全部吸收並 wikilink，同名人 HOLD 不變，無新事實。SKIP；verified-saturated。
 
 - 復核 2026-10-04 (deepen-x slice 09300848-26): fresh grep works/ + articles/ for 王大文 / Dawen Wang returned the identical hit set — whoswho1305, checking-dawen, dawen-in-taiwan, and the harvest index — all already linked and absorbed above; verified-saturated, nothing new absorbable; same-name HOLD unchanged. SKIP. hits-hash=758a3fc8c8f4
+
+Corpus re-grep 2026-10-05 (deepen-x slice 09300855-26): fresh grep works/ + articles/ for 王大文 / Dawen Wang returns whoswho1305, checking-dawen, dawen-in-taiwan, and the harvest index — all already linked and absorbed above; same-name HOLD (1981 Boston/MA record vs. Universal Music singer-songwriter) unchanged. Verified-saturated, nothing new absorbable — SKIP. hits-hash=23e9df8442fe

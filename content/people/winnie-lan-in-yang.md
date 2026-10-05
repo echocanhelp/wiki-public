@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Winnie Lan-In Yang (楊嵐茵)
 
@@ -58,3 +58,5 @@ _No filled family fields on the TAH profile._
 - Corpus re-check (deepen-x slice 09250700-13, 2026-09-25): fresh grep works+articles, hit set identical, all already absorbed -- saturated, SKIP.
 
 Corpus re-grep (deepen-x slice 09300848-26, 2026-10-04): fresh grep works/ + articles/ for 楊嵐茵 / Winnie Lan-In Yang returns only #236, #491, and the harvest index — all bibliography-only and already wikilinked above; verified-saturated, nothing absorbable — SKIP-with-reason. hits-hash=3edd19d581e0
+
+Corpus re-grep 2026-10-05 (deepen-x slice 09300855-26): fresh grep works/ + articles/ for 楊嵐茵 / Winnie Lan-In Yang returns only #236, #491, and the harvest index — bibliography-only records, both already wikilinked above; no memoir or community-activity material. Verified-saturated, nothing absorbable — SKIP-with-reason. hits-hash=635b5ab15e7e
