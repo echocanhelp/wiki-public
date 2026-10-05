@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-05
 ---
 # Dr. Jui Yuan Raymond Cheng (鄭瑞源博士)
 
@@ -57,3 +57,4 @@ Cheng is named in the movement's own memoirs as an enabler of community organizi
 - 2026-10-04 (slice 09300315-19): fresh deterministic re-grep — hit set unchanged (ourjourneys265, own #2164, the 2018 protest letter, works index); the full-name 'Dr. Jui Yuan Raymond Cheng' match is the name roster in the 2018 letter, not new facts; verified-saturated, SKIP-content. hits-hash=0aad1929a68c (audit-convention sha1 over name-key hit-set {#265, index} under exact keys 'Dr. Jui Yuan Raymond Cheng' + 鄭瑞源博士 = 2 files; the loose 鄭瑞源 grep additionally returns #2164 and the letter, both already absorbed).
 
 - Corpus re-grep 2026-10-04 (DEEPEN-X slice 09300848-29): fresh ZH+EN grep over works/ + articles/ — hit-set identical to prior passes (own TAH records + absorbed memoir/article material + works index); nothing new absorbable. verified-saturated, SKIP-content.
+- Corpus re-grep 2026-10-05 (DEEPEN-X slice 09300855-29): fresh ZH+EN grep (鄭瑞源 / Dr. Jui Yuan Raymond Cheng) over works/ + articles/ — hit-set identical to prior passes (ourjourneys265, own #2164, the 2018 protest letter, works index); all facts already absorbed. verified-saturated, SKIP-content. hits-hash=0aad1929a68c

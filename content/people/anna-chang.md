@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Anna Chang (張月英)
 
@@ -56,3 +56,4 @@ last_reviewed: 2026-10-04
 - 2026-10-04 (slice 09300315-19): fresh deterministic re-grep 張月英 / Anna Chang — hit set unchanged (#985 whos-who, ourjourneys49, ourjourneys154, ourjourneys33, works index); all facts already absorbed; verified-saturated, SKIP. hits-hash=8fe4ad1d079d (audit-convention sha1 over name-key hit-set {#985, #49, #154, #33, index} = 5 files).
 
 - Corpus re-grep 2026-10-04 (DEEPEN-X slice 09300848-29): fresh ZH+EN grep over works/ + articles/ — hit-set identical to prior passes (own TAH records + absorbed memoir/article material + works index); nothing new absorbable. verified-saturated, SKIP-content.
+- Corpus re-grep 2026-10-05 (DEEPEN-X slice 09300855-29): fresh ZH+EN grep (張月英 / Anna Chang) over works/ + articles/ — hit-set identical (#985 whos-who, ourjourneys49, ourjourneys154, ourjourneys33, works index); all facts already absorbed; verified-saturated, SKIP-content. hits-hash=8fe4ad1d079d
