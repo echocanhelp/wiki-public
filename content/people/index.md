@@ -1659,7 +1659,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/prof-dennis-hsieh|Prof. Dennis Hsieh (謝顯堂教授)]]
 [[people/prof-der-tsai-lee|Prof. Der-Tsai Lee (李德財教授)]]
 [[people/prof-edith-chen|Prof. Edith Chen (陳怡迪教授)]]
-[[people/prof-edward-h-lee|Prof. Edward H Lee (李賢淇教授)]]
+[[people/prof-edward-h-lee|Prof. Edward H Lee (李賢淇)]]
 [[people/prof-elaine-hsiao|Prof. Elaine Hsiao (蕭夷年教授)]]
 [[people/prof-eva-y-h-p-lee|Prof. Eva Y.H. P. Lee (潘玉華教授)]]
 [[people/prof-f-frank-chen|Prof. F. Frank Chen (陳鳳山教授)]]

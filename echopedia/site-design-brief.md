@@ -1,4 +1,4 @@
-## Site design audit — 2026-10-04 00:30
+## Site design audit — 2026-10-04 22:21
 
 - pages_md=15105
 - critical=0 high=2 medium=1
@@ -26,7 +26,7 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 1653
+- **B1** person/org touched ≤7d (rely on recency featured window): 1661
   - `people/a-n-liu.md`
   - `people/abby-hong.md`
   - `people/adam-chang.md`
