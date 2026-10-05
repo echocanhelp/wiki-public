@@ -64,3 +64,4 @@ _No filled family fields on the TAH profile._
 
 - 2026-10-04 語料複核（slice 09300848-15）：重 grep 結果不變——本人記錄僅 [[works/taiwaneseamericanhistory-org/whos-who-2147-hui-ling-chen|TAH #2147]]＋works index；同名異人兩筆（陳方安生之女、澎湖縣議員）依旧。SKIP-with-reason：無可吸收新事實。hits-hash=63d68e7fd05f
 - 2026-10-05 語料複核（slice 09300855-15）：重 grep 結果不變——本人記錄僅 [[works/taiwaneseamericanhistory-org/whos-who-2147-hui-ling-chen|TAH #2147]]＋works index；同名異人兩筆（陳方安生之女、澎湖縣議員）依旧。SKIP-with-reason：無可吸收新事實。hits-hash=386fcec7bf60
+- 2026-10-05 語料複核（slice 09300900-15）：重 grep 結果不變——本人記錄僅 [[works/taiwaneseamericanhistory-org/whos-who-2147-hui-ling-chen|TAH #2147]]＋works index；同名異人兩筆（陳方安生之女、澎湖縣議員）依旧。SKIP-with-reason：無可吸收新事實。hits-hash=1c3656a14ad0

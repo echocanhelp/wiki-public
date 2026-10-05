@@ -66,3 +66,4 @@ Documented across the TAH Foundation story corpus as a community memoirist and l
 
 - Re-verified 2026-10-04 (slice 09300848-15): fresh grep 劉怡明/Yi-Ming Liu — hit set identical (10 work pages + works index), all already wikilinked; loose 'Yi-Ming' sweep found only homonyms (Yi-Ming Lin D.D.S. pastor; Yi-Ming Chen 陳史彥明) — nothing absorbable. SKIP: verified-saturated. hits-hash=9564f677fd29
 - Re-verified 2026-10-05 (slice 09300855-15): fresh grep 劉怡明/Yi-Ming Liu — hit set identical (10 work pages + works index: whos, ff342, mystories326/331/572/613, ourjourneys289, ourjourneys-364, collection, 349-our-journeys); all already wikilinked. SKIP: verified-saturated. hits-hash=8e3ec75ac6c3
+- Re-verified 2026-10-05 (slice 09300900-15): fresh grep 劉怡明/Yi-Ming Liu of works+articles — hit set identical (whos, ff342, mystories331, ourjourneys-364, collection, 349-our-journeys + works index); all already wikilinked above. SKIP: verified-saturated. hits-hash=2d8b7d0a23c1
