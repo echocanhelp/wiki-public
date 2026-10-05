@@ -72,3 +72,5 @@ HOLD: Employment 表載 台灣公論報 財務 1981-87；回憶錄指帳務由�
 Corpus re-grep (slice 09300855-2, 2026-10-04): fresh ZH+EN re-grep over content/works + content/articles returned the saturated hit set only (no new files since slice 09300315-1 sweep). NATWA Hawaii: no new NATWA/Hawaii-chapter mentions (tjj tag page for 譚德塞 is a false positive on 德文). No absorbable chapter/person-level facts. SKIP (verified-saturated). hits-hash=f1ca153619a1
 
 Corpus re-grep (slice 09300900-2, 2026-10-05): fresh re-grep 毛清芬 (works+articles, 9 hits) identical to已引記錄 — ourjourneys 49/126/283/292 (+292-eng EN mirror), #329 張丁蘭悼文, 黑名單口述, TAH #619, works index. No new material. SKIP, verified-saturated. hits-hash=ba783288585b
+
+Corpus re-grep (slice 09300927-2, 2026-10-05): fresh grep 毛清芬 over content/works + content/articles (7 non-index hits) identical to已引記錄 — ourjourneys 49/126/283/292, #329 張丁蘭悼文, 黑名單口述, TAH #619. A Ching-fen-pattern probe surfaced only whos-who-1737 (Ching Fen Lin 林青棻 — different person, false positive, excluded). No new material. SKIP, verified-saturated. hits-hash=b84f904c3483

@@ -1,0 +1,8 @@
+# deepen-x slice 09300927-2 — hits-hash (audit close 2026-10-05, fresh grep works/ + articles/, non-index)
+
+content/organizations/north-america-taiwanese-womens-association-hawaii-chapter.md :: 北美洲台灣婦女會|NATWA :: hits=219 (saturated set; Hawaii-intersect returns only natwa-hawaii-chapter record, Pew statement, Anita Chang Tongues of Heaven, 游朝凱 award article — no chapter facts) :: hits-hash=b944eb7e43cc
+content/people/tah-p-e00ace0a3a.md :: 毛清芬 :: hits=7 (ourjourneys49/126/283/292, #329 悼文, 黑名單口述, TAH #619; Ching-fen probe → whos-who-1737 林青棻 false positive, different person) :: hits-hash=b84f904c3483
+content/organizations/taiwanese-american-association-of-arizona.md :: 亞歷桑那|亞利桑那|Taiwanese American Association of Arizona|Arizona Chapter :: hits=206 (works-dir set unchanged: arizona-chapter-taa, heritage-week, FAPA/NATWA Arizona works, ourjourneys58/338; rest = state-level taiwanjustice news mentions; chapter-name grep over articles = 0) :: hits-hash=0b50099a577e
+content/people/dew-chin-ghi-chang.md :: 張清祺|Chin-Ghi Chang :: hits=4 (ourjourneys33, ourjourneys186-eng, ff361, whos-dew-chin-ghi-chang) :: hits-hash=c28dccda5bfa
+
+All 4 verified-saturated — 0 deepened, 4 skipped, 0 new corpus links.
