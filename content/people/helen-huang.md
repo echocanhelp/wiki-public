@@ -64,3 +64,5 @@ _No filled family fields on the TAH profile._
 > Re-verified 2026-10-05 (slice 09300855-15): fresh ZH+EN re-grep — hit set identical (TAH #232/#482 + two TJJ 2025 records + works index/MANIFEST); no new mention. Two-person HOLD（鋼琴家 vs 洛杉磯郡法官）stands. SKIP: verified-saturated. hits-hash=5c6d49b97575
 
 > Re-verified 2026-10-05 (slice 09300900-15): fresh ZH+EN re-grep — hit set identical (TAH #232/#482 + the two TJJ 2025 records + works index/MANIFEST listing); no new mention. Two-person HOLD（鋼琴家 vs 洛杉磯郡法官）stands. SKIP: verified-saturated. hits-hash=57e5c76c383b
+
+> Re-verified 2026-10-05 (slice 09300927-15): exact-string sweep (audit-script formula, `黃海倫`/`Helen Huang` full-text over works+articles) — 5 hits: TAH #232/#482 + the two TJJ 2025 records + works index. All already wikilinked above; no new mention. Two-person HOLD（鋼琴家 vs 洛杉磯郡法官）stands. SKIP: verified-saturated. hits-hash=8f7fb944b287
