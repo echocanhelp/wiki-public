@@ -61,3 +61,4 @@ Jien-Hua (Charles) Chuang 莊峻華 – History of Taiwanese American (T.A. Arch
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-check (2026-09-23, deepen-x slice 09230317-15, vault-only): hit set identical (#106, #233/#233 EN 募款組, TAH #2257, index) — verified-saturated, SKIP, no absorbable new facts.
 - Corpus re-check (deepen-x slice 09250700-13, 2026-09-25): fresh grep works+articles, hit set identical, all already absorbed -- saturated, SKIP.
+- Corpus re-check (deepen-x slice 09300855-21, 2026-10-05, vault-only): fresh ZH+EN grep 莊峻華/Jien-Hua Charles Chuang over works/ + articles/ — hit set identical (#106 blacklist essay, #233/#233 EN 募款組, TAH #2257, works/index backlink); the 10 corpus files refreshed since 2026-10-04 (taiwanjustice-net articles) contain no 莊峻華 mentions. All hits already absorbed above; SKIP, verified-saturated. hits-hash=9cb8f7af48d4
