@@ -75,3 +75,5 @@ Corpus re-grep (slice 09300855-2, 2026-10-04): fresh ZH+EN re-grep over content/
 Corpus re-grep (slice 09300900-2, 2026-10-05): fresh re-grep 毛清芬 (works+articles, 9 hits) identical to已引記錄 — ourjourneys 49/126/283/292 (+292-eng EN mirror), #329 張丁蘭悼文, 黑名單口述, TAH #619, works index. No new material. SKIP, verified-saturated. hits-hash=ba783288585b
 
 Corpus re-grep (slice 09300927-2, 2026-10-05): fresh grep 毛清芬 over content/works + content/articles (7 non-index hits) identical to已引記錄 — ourjourneys 49/126/283/292, #329 張丁蘭悼文, 黑名單口述, TAH #619. A Ching-fen-pattern probe surfaced only whos-who-1737 (Ching Fen Lin 林青棻 — different person, false positive, excluded). No new material. SKIP, verified-saturated. hits-hash=b84f904c3483
+
+Corpus re-grep (slice 09301017-2, 2026-10-05): fresh ERE grep 毛清芬 over content/works + content/articles = 7 non-index hits (ourjourneys49/126/283/292, #329 張丁蘭悼文, black-list-032018, TAH #619 record) — identical to已引記錄, hit set hash unchanged from slice 09300927-2. Nothing new absorbable. SKIP (verified-saturated). hits-hash=b84f904c3483

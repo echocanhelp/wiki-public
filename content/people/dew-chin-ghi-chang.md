@@ -87,3 +87,5 @@ Corpus re-grep (slice 09300900-2, 2026-10-05): fresh re-grep 張清祺|Chin-Ghi 
 Corpus re-grep (slice 09300927-2, 2026-10-05): fresh grep 張清祺|Chin-Ghi Chang (4 non-index hits) identical — ourjourneys33 memoir, ourjourneys186-eng TACL roster, ff361 family record, whos-dew-chin-ghi-chang. All corpus facts already absorbed. Nothing new absorbable — SKIP (verified-saturated). hits-hash=c28dccda5bfa
 
 Corpus re-grep (slice 09301000-2, 2026-10-05): fresh ERE grep 張清祺|Chin-Ghi Chang|Ching-Chi Chang (4 non-index hits) identical — ourjourneys33 memoir, ourjourneys186-eng TACL roster, ff361 family record, whos-dew-chin-ghi-chang. All corpus facts already absorbed. Nothing new absorbable — SKIP (verified-saturated). hits-hash=a432f7964994
+
+Corpus re-grep (slice 09301017-2, 2026-10-05): fresh ERE grep 張清祺|Chin-Ghi Chang|Ching-Chi Chang = 4 non-index hits (ourjourneys33 memoir, ourjourneys186-eng TACL roster, ff361 family record, whos-dew-chin-ghi-chang) — identical, hit set hash unchanged from slice 09300927-2. All corpus facts already absorbed. Nothing new absorbable. SKIP (verified-saturated). hits-hash=c28dccda5bfa
