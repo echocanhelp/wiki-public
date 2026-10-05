@@ -77,3 +77,4 @@ Re-grep (deepen-x 2026-09-30, slice 09260800-7): fresh ZH+EN re-grep (劉富理 
 <!-- deepen-x 2026-10-05, slice 09300855-18 --> — re-grep: fresh ZH+EN grep of works/+articles/ — hit set unchanged, all hits already absorbed and wikilinked; verified-saturated. SKIP-with-reason. hits-hash=7b4b877476eb
 
 <!-- deepen-x 2026-10-05, slice 09300900-18 -->
+Slice 09300900-18 (2026-10-05): fresh ZH+EN grep of works/+articles/ hit set unchanged (Who's Who #214, feature #268, Our Journeys #257, works index); widened cross-layer sweep (sources/organizations/web-archives) surfaced the EFC General Assembly history (web-archive copy of taiwaneseamericanhistory.org/evangelical-formosan-church-general-assembly), which dates the installation precisely to **1975-10-01** and details the 1979 growth year (東安/南灣 mission stations) — absorbed above (date refined from 1975-10). No conflicts. DEEPENED.
