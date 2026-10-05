@@ -87,3 +87,5 @@ Accomplishment
 - 語料庫重檢（works/articles）：命中 #19、#970、#71 收藏、#55 中興大學傑出校友、#36 布袋戲偶、#643 悼文——皆已於上文收錄連結，且均為書目級紀錄（全文留原站），無新社群事實可吸收 — SKIP-with-reason。
 
 <!-- TJJ-A09251400-9: verified 2026-09-26 — subject links in slice 09251400-9 articles re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10020900-1: verified 2026-10-05 — slice 10020900-1 articles (ad7f737b 第55回世界臺灣文化論壇大佛普拉斯 / c1e60306 蕭美琴缺席僑界活動 / 3246c11d 洛僑中心台灣藝術講座 / 88c15e54 蘇姿丰PCAST顧問) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

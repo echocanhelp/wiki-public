@@ -286,3 +286,5 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A09260800-20: verified 2026-09-30 — slice 09260800-20 articles (d2d01925 English Pages p5 2024-07-18 snapshot / 11761bda 台灣頭條 p3 2020-06-25 snapshot / 004420da 新聞觀測站 2024-04-25 snapshot) re-checked vs 正文; all subject links real (蕭美琴: 辭別花蓮將駐美 + 準副總統選後專訪 entries confirmed present), no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
 - 覆核（TJJ-A09300400-22, 2026-10-04）：本 slice 四篇快照頁 53455d7e（挺港聯合聲明, 2024-02-21 快照）、c9dd9fb7（Covid-19 浩劫餘生錄, 2021-11-29 快照）、9a66943e（台美人台加人 p353, 2024-04-21 快照）、2ac7d756（鄉情與文化 p3, 2020-06-28 快照）正文再驗證——subject 連結為真實提及（署名清單／專欄標題逐一對照），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
+
+<!-- TJJ-A10020900-1: verified 2026-10-05 — slice 10020900-1 articles (ad7f737b 第55回世界臺灣文化論壇大佛普拉斯 / c1e60306 蕭美琴缺席僑界活動 / 3246c11d 洛僑中心台灣藝術講座 / 88c15e54 蘇姿丰PCAST顧問) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
