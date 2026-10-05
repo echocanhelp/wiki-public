@@ -65,3 +65,5 @@ _No filled family fields on the TAH profile._
 Fresh re-grep 2026-10-05 (deepen-x slice 09300900-27): hit-set again identical — own TAH #1896 page, works index, 余杰2015 article. hits-hash=66853bfde036. SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.
 
 Fresh re-grep 2026-10-05 (deepen-x slice 09300927-27): hit-set again identical — own TAH #1896 page, works index, 余杰2015 article. hits-hash=66853bfde036. SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.
+
+Fresh re-grep 2026-10-05 (deepen-x slice 09301000-27): hit-set again identical — own TAH #1896 page, works index, 余杰2015 article. hits-hash=66853bfde036. SKIP-content: verified-saturated, nothing new absorbable, no conflicts to HOLD.

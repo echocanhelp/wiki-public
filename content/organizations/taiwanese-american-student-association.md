@@ -41,3 +41,5 @@ Fresh re-grep 2026-10-05 (deepen-x slice 09300855-27): TASA hits = same Seniors/
 Fresh re-grep 2026-10-05 (deepen-x slice 09300900-27): TASA hits = same Seniors/ITASA cluster already in the HOLD; Vanderbilt hits = ourjourneys298 (Houston teacher bio), justineker (Miss Louisiana), taiwanjustice-net US-politics articles — no Vanderbilt-chapter record. SKIP-deepen maintained, verified-saturated. hits-hash=8d010f663ba8.
 
 Fresh re-grep 2026-10-05 (deepen-x slice 09300927-27): TASA hits = same Seniors/ITASA cluster already in the HOLD (ourjourneys173-eng, ourjourneys157, history-of-itasa, 176 Keimay Yang, 578, newsletter-itasa) — no Vanderbilt-chapter record. SKIP-deepen maintained, verified-saturated. hits-hash=8c7e6e8154c5.
+
+Fresh re-grep 2026-10-05 (deepen-x slice 09301000-27): TASA hits = same Seniors/ITASA cluster already in the HOLD; 'Vanderbilt' hits = 松年學院 Houston teacher bio (馬淑芬, Vanderbilt M.A.), justineker (Miss Louisiana, Vanderbilt student), CNN 當爸 story (Gloria Vanderbilt family lineage), taiwanjustice-net US-politics articles — all unrelated context, no Vanderbilt-TASA fact. SKIP-deepen maintained, verified-saturated. hits-hash=4b0fcfb669fe.
