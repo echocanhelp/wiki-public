@@ -71,3 +71,5 @@ Community memoirs document his standing in the Taiwanese American medical commun
 - 2026-10-05 — deepen-x slice 09300855-17: re-verify SKIP — fresh ZH+EN grep (王國照 / Gwo Jaw Wang) over works/+articles/ reproduces the identical saturated hit set (8 files); all hits already wikilinked/absorbed above; nothing new absorbable, no conflicts. Verified-saturated. hits-hash=96fd42ea6c02
 
 - 2026-10-05 — deepen-x slice 09300900-17: re-verify SKIP — fresh ZH+EN ERE grep (王國照 / Gwo Jaw Wang) over works/+articles/ reproduces the identical saturated hit set (whos-who-599, #76, 返台記 #4, OJ 291/176/201, 自傳 #865, index); all hits already wikilinked/absorbed above; nothing new absorbable, no conflicts. Verified-saturated. hits-hash=72a7b338fb7a
+
+- 2026-10-05 — deepen-x slice 09300927-17: re-verify SKIP — fresh ZH+EN ERE grep (王國照 / Gwo Jaw Wang) over works/+articles/ reproduces the identical saturated hit set (8 files: whos-who-599, #76, 返台記 #4, OJ 291/176/201, 自傳 #865, index); all hits already wikilinked/absorbed above; nothing new absorbable, no conflicts. Verified-saturated. hits-hash=42a3c43efa1b
