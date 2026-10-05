@@ -66,3 +66,5 @@ last_reviewed: 2026-10-05
 
 <!-- deepen-x 2026-10-05, slice 09300900-18 -->
 Slice 09300900-18 (2026-10-05): fresh ZH+EN grep of works/+articles/ hit set unchanged (#603, ourjourneys69/-eng, ourjourneys107, ourjourneys47, works index); re-read of ourjourneys47 (his own memoir narrative) surfaced previously unabsorbed facts — he served as deputy to 9th-term president 陳文彥 (1988-89), succeeded him as **10th-term NATPA president**, and led the 1990 first-Taiwan annual meeting as 副總協調人/農業組召集人. Absorbed above; both the 1981 "2nd president" term and the 1989 "10th-term" role are confirmed by the same record (different terms) — no conflict, no HOLD. DEEPENED.
+
+<!-- deepen-x 2026-10-05, slice 09300927-18 --> — re-grep: fresh single-quoted ERE ZH+EN grep of works/+articles/ — hit set unchanged, all hits already absorbed and wikilinked; verified-saturated. SKIP-with-reason. hits-hash=1b47cab109c5

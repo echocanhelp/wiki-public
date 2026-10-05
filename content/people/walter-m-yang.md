@@ -68,3 +68,5 @@ last_reviewed: 2026-10-05
 
 <!-- deepen-x 2026-10-05, slice 09300900-18 -->
 Slice 09300900-18 (2026-10-05): fresh ZH+EN grep of works/+articles/ hit set unchanged (awards-92, 401, ourjourneys275, pew statement, taiwanjustice 2018 管中閔 report, works index); cross-layer sweep surfaced 林壽英's 2018 essay record 660 (web-archive copy, knowledge/web-archives/.../posts/660.md — no content/works slug, so cited as prose) with the 1965 Taichung courtship/military-service origin detail corroborating ourjourneys275. Absorbed above as corroboration. No conflicts. DEEPENED.
+
+<!-- deepen-x 2026-10-05, slice 09300927-18 --> — re-grep: fresh single-quoted ERE ZH+EN grep of works/+articles/ — hit set unchanged, all hits already absorbed and wikilinked; verified-saturated. SKIP-with-reason. hits-hash=800ddcc2f580
