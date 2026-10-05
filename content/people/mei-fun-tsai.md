@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Mei Fun Tsai (吳美芬)
 
@@ -35,6 +35,8 @@ Accomplishment
 
 - Creator and host of NATWA's "婦女信箱" column under the pen name 阿香: launched 1991-03-25 in 臺灣公論報 (later also 自立周報), advising overseas Taiwanese on relationships and daily-life troubles; she handed over after eye strain, the column ran until 2001 and was replaced by "點心擔" ([[works/taiwaneseamericanhistory-org/ourjourneys60|60. 咱的故事—NATWA的歷史]]; her own history of the column: [[works/taiwaneseamericanhistory-org/ourjourneys161|161. 婦女信箱的歷史 / 阿香(吳美芬)]]).
 - Editor-in-chief of the 婦女信箱 column book 北美婦女信箱, published 1993/06 on 陳麗英's commission ([[works/taiwaneseamericanhistory-org/publications64|64. 北美婦女信箱/阿香 主編(吳美芬)]]).
+- Co-editor (with 楊詠絮) of the 2014 book edition 婦女信箱 — including her own 婦女信箱預吿 preface on why overseas Taiwanese women needed an advice column — recorded as [[works/taiwaneseamericanhistory-org/ourjourneys79|79. 婦女信箱/吳美芬 和 楊詠絮/2014/12]].
+- The NATWA history and her edited student-movement essay both exist in English editions: [[works/taiwaneseamericanhistory-org/ourjourneys60-eng|NATWA history (EN)]] and [[works/taiwaneseamericanhistory-org/ourjourneys81-eng|"Taiwanese Students in the State-Building Movement" (EN), trans. from #81, editor Mei Fun Tsai]].
 - As NATWA president (1997-1998): passed the 選罷法 for president/vice-president/regional-director elections and founded the 獎學金組 issuing NATWA scholarships ([[works/taiwaneseamericanhistory-org/ourjourneys60|60. 咱的故事—NATWA的歷史]]).
 - Historical recorder for the physician community: organized 周烒明's memoir of the early North American Taiwanese Medical Association into publishable form — 周烒明撰・吳美芬整理, covering 1983–1990 ([[works/taiwaneseamericanhistory-org/ourjourneys74|74. 1983至1990的北美洲台灣人醫師協會]]).
 - Co-editor of 周烒明's essay 「台灣學生在台灣建國運動所扮演的角色」 (周烒明起稿・吳美芬整理) on the identity transformation of Taiwanese students in the US — early 留美世代 from apolitical retreat to 國家認同 self-conclusion, Madison/Wisconsin as case study ([[works/taiwaneseamericanhistory-org/ourjourneys81|81. 台灣學生在台灣建國運動所扮演的角色]]).
@@ -62,3 +64,5 @@ Accomplishment
 複核(deepen-x slice 09300848-9, 2026-10-04): fresh ZH+EN re-grep (吳美芬 / Mei Fun Tsai) of works/ + articles/ — hit set unchanged (own #177/#894, ourjourneys 60/74/74-eng/81/161, publications64, collection-of-mrs-mei-fun-tsai; the one article hit is an unrelated 校友名單 name-droplet, not biography) — all absorbed; saturated, SKIP.
 
 複核(deepen-x slice 09300855-9, 2026-10-04): fresh ZH+EN re-grep (吳美芬 / Mei Fun Tsai) of works/ + articles/ — hit set unchanged (own 177-mei-fun-tsai, whos-who-894, ourjourneys 60/74/74-eng/81, publications64, collection-of-mrs-mei-fun-tsai) — all already wikilinked and absorbed above; saturated, SKIP. hits-hash=8211412422c0
+
+複核 (deepen-x slice 09300900-9, 2026-10-05): fresh ZH+EN re-grep (吳美芬 / Mei Fun Tsai, works+articles) returns 14 files = prior set plus three new records: ourjourneys79 (2014 book edition of the column, co-edited with 楊詠絮, includes her own preface), ourjourneys60-eng, ourjourneys81-eng — all three now wikilinked and absorbed into Role in the Community. Remaining hits (own 177/whos-who-894, ourjourneys 60/74/74-eng/81/161, publications64, collection, the alumni-list article name-droplet) already saturated. hits-hash=3c297d5d7377

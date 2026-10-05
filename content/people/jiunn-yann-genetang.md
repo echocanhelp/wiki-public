@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Jiunn-yann Gene Tang (湯俊彥博士)
 
@@ -62,3 +62,4 @@ _No filled family fields on the TAH profile._
 
 - Re-grep 2026-10-04 (slice 09300848-9): fresh ZH+EN grep (湯俊彥 / Jiunn-yann / Gene Tang) of works/ + articles/ — hit set identical (our-journeys-378, ourjourneys307, private-collections-86, ourjourneys256, own record 762, works/index) — all absorbed verbatim, no new facts, no new conflicts. SKIP (saturated). hits-hash=3be0766d5215
 - Re-grep 2026-10-04 (slice 09300855-9): fresh ZH+EN grep (湯俊彥 / Jiunn-yann) of works/ + articles/ — hit set identical (our-journeys-378, ourjourneys307, private-collections-86, ourjourneys256, own record 762, works/index) — all absorbed verbatim, no new facts, no new conflicts. SKIP (saturated). hits-hash=62816514e1e1
+- Re-grep 2026-10-05 (slice 09300900-9): fresh ZH+EN grep (湯俊彥 / Jiunn-yann / Gene Tang) of works/ + articles/ returns 6 files = our-journeys-378, ourjourneys307, ourjourneys256, private-collections-86, own record 762, works/index — identical hit set, all absorbed verbatim, no new facts, no new conflicts. SKIP (saturated). hits-hash=c0b3dc876eed

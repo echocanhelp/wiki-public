@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # San John Huang (黃三榮)
 
@@ -67,3 +67,5 @@ Re-grep 2026-10-03 (slice 09270900-1): fresh 黃三榮 / San John Huang grep of 
 Re-grep 2026-10-04 (slice 09300848-9): fresh ZH+EN grep (黃三榮 / San John Huang) of works/ + articles/ returns the identical hit set (own whos-san-john-huang, ourjourneys29/-eng, 186/-eng, 244, 272) — all already wikilinked and absorbed above; SKIP, verified-saturated, nothing new absorbable. hits-hash=14ebf5a163a6
 
 Re-grep 2026-10-04 (slice 09300855-9): fresh ZH+EN grep of works/ + articles/ returns the identical hit set (own whos-san-john-huang, ourjourneys29/-eng, 244, 186/-eng, 272/-eng) — all already wikilinked and absorbed above; SKIP, verified-saturated, nothing new absorbable. hits-hash=62816514e1e1
+
+Re-grep 2026-10-05 (slice 09300900-9): fresh ZH+EN grep (黃三榮 / San John Huang) of works/ + articles/ returns 9 files = own whos-san-john-huang, ourjourneys29/-eng, 186/-eng, 244, 272/-eng, works/index — identical hit set, all already wikilinked and absorbed; SKIP, verified-saturated, nothing new absorbable. hits-hash=6079e67ce596
