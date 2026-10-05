@@ -65,3 +65,5 @@ Corpus re-grep 2026-10-05 (DEEPEN-X slice 09300855-19) (隆信真/Beatrice Long)
 Corpus re-grep 2026-10-05 (DEEPEN-X slice 09300900-19) (隆信真/Beatrice Long): fresh ZH+EN re-grep against content/works + content/articles returns the identical hit set already wikilinked/on HOLD above — no new absorbable community material; existing HOLDs maintained. Verified-saturated, SKIP-with-reason. hits-hash=93d34bdebeaf
 
 Corpus re-grep 2026-10-05 (DEEPEN-X slice 09300927-19) (隆信真/Beatrice Long): fresh ZH+EN grep against content/works + content/articles returns the identical hit set already wikilinked — #1774, #420, works index; no memoir narrative to absorb; 隆愛真 sibling HOLD maintained. Verified-saturated, SKIP-with-reason. hits-hash=c18e57b6c8ba
+
+Corpus re-grep 2026-10-05 (DEEPEN-X slice 09301000-19) (隆信真/Beatrice Long): fresh ZH+EN grep against content/works + content/articles returns the identical hit set already wikilinked — #1774, #420, works index; no memoir narrative to absorb; 隆愛真 sibling HOLD maintained. Verified-saturated, SKIP-with-reason. hits-hash=eca40a28e6a0
