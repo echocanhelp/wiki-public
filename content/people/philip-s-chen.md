@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-05
 ---
 # Philip S. Chen (陳伸夫)
 
@@ -60,3 +60,5 @@ last_reviewed: 2026-10-03
 2026-09-30 re-grep (deepen-x slice 09260800-10): fresh ZH+EN grep returned the identical hit set (ourjourneys234, ourjourneys59, ourjourneys65/-eng, whoswho1043, index) — all already wikilinked. Verified saturated; SKIP-deepen.
 
 2026-10-03 re-grep (deepen-x slice 09300315-15): fresh ZH+EN grep returned the identical hit set (ourjourneys234, ourjourneys59, ourjourneys65/-eng, whoswho1043, index) - all already wikilinked. Verified saturated; SKIP-deepen. hits-hash=e41572a762ec
+
+2026-10-05 re-grep (deepen-x slice 09300855-22): fresh 陳伸夫/Philip S. Chen grep of works/ + articles/ returned the identical hit set (ourjourneys234, ourjourneys59, ourjourneys65/-eng, whoswho1043, works index) — all already wikilinked above. Verified saturated; SKIP-deepen. hits-hash=352e80759986

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-05
 ---
 # Liang Chuan Peng (彭兩泉)
 
@@ -57,3 +57,4 @@ Liang Chuan Peng (彭兩泉) is listed in the TAH Foundation Who’s Who Taiwane
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Corpus re-grep 2026-10-03 (slice 09300315-15): fresh ZH+EN greps returned the identical hit set (ourjourneys37 / 37-eng / 38 / 38-eng / whoswho803 + index); no new material, no conflicts. Verified-saturated SKIP. hits-hash=8594437675ac
+- Corpus re-grep 2026-10-05 (slice 09300855-22): fresh 彭兩泉/Liang Chuan Peng greps of works/ + articles/ returned the identical hit set (ourjourneys37 / 38 / whoswho803 / 37-eng / 38-eng + works index); all context (1975 second-president term, 美西夏令營/TACWC founding, 重心南移, 協志會 roster) already absorbed. Verified-saturated SKIP. hits-hash=fa34cfe8bc6b

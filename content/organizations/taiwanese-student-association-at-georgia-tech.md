@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-05
 ---
 # Taiwanese Student Association at Georgia Tech
 
@@ -48,3 +48,5 @@ Re-grep 2026-09-30 (slice 09260854-3): corpus hits again unchanged (two GT event
 - [[works/taiwaneseamerican-org/taiwanese-night-market-at-georgia-tech|Taiwanese Night Market at Georgia Tech (2014)]]
 
 Re-grep 2026-10-04 (slice 09300348-1): corpus hits again unchanged (two GT event works + ourjourneys256 venue list + works index; other "Taiwanese Student Association" matches are unrelated USC/OSU/UW/TSAPA chapters). No corpus record names the GT TSA chapter itself. Corpus-saturated, SKIP-for-deepening. hits-hash=07a369889ae9.
+
+Re-grep 2026-10-05 (slice 09300855-22): exact "Georgia Tech" grep of works/ + articles/ returns only the two recorded GT event works (ITASA East Coast Conference 2012, Taiwanese Night Market 2014) + ourjourneys256 venue mention + works index. No corpus record names the GT TSA chapter itself. Corpus-saturated, SKIP-for-deepening. hits-hash=6c881d3fd25f.

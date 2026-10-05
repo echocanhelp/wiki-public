@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-05
 ---
 # Dr. Soo-Chen Cheng (鄭淑珍博士)
 
@@ -64,3 +64,5 @@ Degree Program (2013–). Profiled in TAH Who's Who encyclopedia #1840
 - 複核（deepen-x slice-09260700-32, 2026-09-27）：re-grep 鄭淑珍 / Soo-Chen Cheng（works + articles）命中集不變（TAH #1840 + works index）— SKIP，飽和。
 
 Re-grep 2026-10-03 (deepen-x slice 09300315-15): fresh ZH+EN grep (Soo-Chen Cheng) in works/+articles/ returns the identical hit set (TAH #1840 + works index) - SKIP, saturated. hits-hash=7b4c24d726db
+
+Re-grep 2026-10-05 (deepen-x slice 09300855-22): fresh 鄭淑珍/Soo-Chen Cheng grep of works/ + articles/ returned the identical hit set (TAH #1840 + works index) — no memoir/community corpus material; science-sector figure, biography only. SKIP, saturated. hits-hash=0354b40ac3c9
