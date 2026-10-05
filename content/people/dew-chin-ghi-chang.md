@@ -85,3 +85,5 @@ Corpus re-grep (slice 09300855-2, 2026-10-04): fresh ZH+EN re-grep over content/
 Corpus re-grep (slice 09300900-2, 2026-10-05): fresh re-grep 張清祺|Chin-Ghi Chang (works+articles, 5 hits) identical — ourjourneys33 memoir, ourjourneys186-eng TACL roster, ff361 family record, whos-dew-chin-ghi-chang, index. All corpus facts already absorbed. Nothing new absorbable — SKIP (verified-saturated). hits-hash=06c956a7b8ae
 
 Corpus re-grep (slice 09300927-2, 2026-10-05): fresh grep 張清祺|Chin-Ghi Chang (4 non-index hits) identical — ourjourneys33 memoir, ourjourneys186-eng TACL roster, ff361 family record, whos-dew-chin-ghi-chang. All corpus facts already absorbed. Nothing new absorbable — SKIP (verified-saturated). hits-hash=c28dccda5bfa
+
+Corpus re-grep (slice 09301000-2, 2026-10-05): fresh ERE grep 張清祺|Chin-Ghi Chang|Ching-Chi Chang (4 non-index hits) identical — ourjourneys33 memoir, ourjourneys186-eng TACL roster, ff361 family record, whos-dew-chin-ghi-chang. All corpus facts already absorbed. Nothing new absorbable — SKIP (verified-saturated). hits-hash=a432f7964994

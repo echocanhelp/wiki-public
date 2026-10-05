@@ -57,6 +57,7 @@ HOLD: Employment 表載 台灣公論報 財務 1981-87；回憶錄指帳務由�
 - 複核（deepen-x slice-09240317-11, 2026-09-25）：fresh re-grep 毛清芬（works+articles）hit set identical — 僅已引之 ourjourneys 49/283/292/126、#329、黑名單口述、TAH #619。SKIP, verified-saturated.
 - 複核（deepen-x slice-09250700-11, 2026-09-25）：fresh re-grep 毛清芬（works+articles）hit set identical — 僅已引之 ourjourneys 49/283/292/126、#329、黑名單口述、TAH #619、works index。SKIP, verified-saturated.
 - 複核（deepen-x slice-09260317-30, 2026-09-26）：fresh re-grep 毛清芬（works+articles）hit set identical — 僅已引之 ourjourneys 49/283/292/126、#329、黑名單口述、TAH #619。SKIP, verified-saturated.
+- 複核（deepen-x slice 09301000-2, 2026-10-05）：fresh ERE grep 毛清芬 over content/works + content/articles = 7 non-index hits (ourjourneys49/283/292/126, #329, black-list-032018, TAH #619 record) — identical to已引記錄, no new files. Nothing new absorbable. SKIP, verified-saturated. hits-hash=8f30e0aeb372
 
 ## Sources
 - [TAH #619 encyclopedia: 619. 毛清芬 / 2015/09](https://taiwaneseamericanhistory.org/618-%e6%af%9b%e6%b8%85%e8%8a%ac-201509/)
