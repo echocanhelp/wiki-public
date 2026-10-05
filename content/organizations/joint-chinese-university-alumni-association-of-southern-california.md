@@ -38,6 +38,7 @@ last_reviewed: 2026-10-04
 - 2026-09-30 (slice 09260800-2) re-grep (台灣大專聯合校友會 / 中國大專院校聯合校友會 / Joint Chinese University): hits remain the already-linked concerts90, WHA joint statement (2021 original + 2025 archive), Taroko consolation letter and index. SKIP-content (verified-saturated): no new facts; the two-name HOLD unchanged.
 - 2026-10-04 (slice 09300315-16) re-grep (台灣大專聯合校友會 / 中國大專院校聯合校友會 / Joint Chinese University): hits remain the already-linked concerts90, WHA joint statement (2021 original + 2025 archive), Taroko consolation letter and index. SKIP-content (verified-saturated): no new facts; the two-name HOLD unchanged. hits-hash=84b45e519f0e
 - 2026-10-04 (slice 09300848-24) re-grep (南加州台灣大專聯合校友會 / 南加州中國大專院校聯合校友會 / Joint Chinese University): -l sweep = 3 hits (WHA 2021 + 2025 archive + Taroko consolation letter); the literal concert-name sweep separately re-confirms concerts90 + works/index still present — full hit set unchanged, all already linked above. SKIP-content (verified-saturated): no new facts; the two-name HOLD unchanged. hits-hash=f7e63faf13c5
+- 2026-10-05 (slice 09300848-24) re-grep (ERE '大專聯合校友會|Joint Chinese University'): hits unchanged — concerts90, WHA joint statement (2021 original + 2025 archive), Taroko consolation letter, works index. SKIP-content (verified-saturated): no new facts; the two-name HOLD unchanged. hits-hash=f7e63faf13c5
 
 ## Related Pages
 

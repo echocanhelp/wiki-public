@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Wen Yen Chen (陳文彥教授)
 
@@ -56,3 +56,5 @@ _Corpus re-scan 2026-09-21: same hits (#47, #235, #123/eng, #228, memoir #372) a
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09250900-19 re-verify 2026-09-26: fresh ZH+EN grep hit set unchanged (#123-eng, memoir #372, index); body contexts re-read (FAPA 會長演講, 個人紀錄條目) — already absorbed. Verified-saturated. -->
+
+- Corpus re-scan 2026-10-05 (slice 09300848-24): fresh ERE grep (陳文彥 / Wen Yen Chen) of content/works + content/articles — hits unchanged (#47, #235, #123/eng, #228, memoir #372), all contexts already absorbed above; 陳文賢 collision HOLD unchanged (different person, never merged). SKIP-content (verified-saturated); nothing new absorbable. hits-hash=6f3a2c1d8e4b
