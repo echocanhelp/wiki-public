@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # ALAN T. CHEN (陳清風)
 
@@ -61,3 +61,4 @@ last_reviewed: 2026-10-04
 <!-- deepen-x slice 09300848-6 re-verify 2026-10-04: fresh ZH+EN grep (陳清風 / ALAN T. CHEN / Alan T. Chen) — hit set identical (ourjourneys277, 256, 47, #713, #1457, 鄭炳全 memoir + 2024-03 duplicate, indexes). Wisconsin-vs-Chicago HOLD unchanged. SKIP — verified-saturated. hits-hash=a991b5cefd61 -->
 
 - 2026-10-04 (slice 09300855-6) re-grep (陳清風 / ALAN T. CHEN / Alan T. Chen, works+articles, content-level): hit set identical to the log above — OJ277, OJ256, OJ47, #713, #1457 (+ index). Verified this run by re-reading all matches: OJ277 fully absorbed (UW-Madison 陳清風 credited with founding the puppet troupe, described as 已不在人世 by 2017, supplied the 虎姑婆 scripts/puppets, directed the 1997 Milwaukee Moon Festival debut — all already recorded); OJ256/OJ47 = donor/Newsletter-editor passages already absorbed; #713/#1457 = own profile + other-person disambiguation. No new corpus facts and no new file paths anywhere in works/+articles/. Wisconsin-vs-Chicago HOLD unchanged (death-by-2017 vs alive-in-2015-profile keeps the non-merge). Verified-saturated. SKIP (verified-saturated). hits-hash=fc8de0295138
+- 2026-10-05 (slice 09300900-6) re-grep (陳清風 / ALAN T. CHEN / Alan T. Chen, works+articles): hit set identical — OJ277, OJ256, OJ47, #713, #1457, 鄭炳全 旅美五十周年 memoir (2025 copy; 2024-03 duplicate outside pattern dir), indexes. Content spot-checked this run: OJ277 UW-Madison passage, OJ256 芝加哥台灣人文化促進會 donor list, OJ47 NATPA Newsletter/「NATPA十年的回顧」 editor passage, 鄭炳全 芝加哥陳清風台語劇團《林投姐》 booking — all already absorbed verbatim. No new corpus facts. Wisconsin-vs-Chicago HOLD unchanged. Verified-saturated. SKIP. hits-hash=74dd0b921ed1

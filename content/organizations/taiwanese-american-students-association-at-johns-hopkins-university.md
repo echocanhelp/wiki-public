@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-05
 ---
 # Taiwanese American Students Association at Johns Hopkins University
 
@@ -46,3 +46,4 @@ slice 09300315-3 re-grep (2026-10-03, Johns Hopkins / jhuTASA / JHU): fresh grep
 - 2026-10-04T20:29:52Z slice 09300855-5 re-read of the genuine hits: [[works/taiwaneseamerican-org/exploring-untapped-cities-with-michelle-young|Exploring Untapped Cities with Michelle Young]] and [[works/taiwaneseamerican-org/bonnie-jin-union-organizer|Bonnie Jin]] do name Johns Hopkins but neither names TASA. Michelle Young is a 2020 Harvard undergraduate at interview, recalling **CTY Johns Hopkins** — a *pre-college* summer program, so not a TASA activity; she also names Carnegie Hall and Oxford/Switzerland/Austria, consistent with a pre-college enrichment path.
 - Bonnie Jin studied at JHU and, over that period, worked Boston mayoral races (her own path) with union organizing and a medical-residents bid — neither in Baltimore nor at JHU, and no student-club activity is stated. The 2022-06-07 TASA-president window in the Timeline above is a **different** JHU Taiwanese American student; no relation to Jin, TASA, or the Baltimore circle is stated.
 - SKIP-content (verified-saturated): no absorbable TASA fact. No JHU page names TASA as an event host, so the pre-1960s/1990s gap stays open — the 1960s Baltimore entry above is the community (physicians at Hopkins Medical Center), not the student club. hits-hash=b8fc7e52e31f (181-file hit set, dominated by substring noise).
+- 2026-10-05T11:25Z slice 09300900-5 re-grep (Johns Hopkins / jhuTASA, works/ + articles/): 150 file hits, dominated by taiwanjustice digit-run substring noise; non-noise set unchanged (OJ-138, night markets 2011/2013, Taste of Taiwan, three New Creatives profiles, Taliyah Huang interview, Bonnie Jin + Michelle Young JHU-only mentions — neither names TASA). All absorbed in Timeline above. SKIP-content (verified-saturated). hits-hash=0804014da062.

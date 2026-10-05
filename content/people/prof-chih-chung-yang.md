@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-05
 ---
 # Prof. Chih-Chung Yang (楊志忠教授)
 
@@ -64,3 +64,4 @@ _No filled family fields on the TAH profile._
 hits-hash=5599183ed6fe 2026-10-03 slice 09270953-1 re-grep (楊志忠/Chih-Chung Yang, works+articles): hit set identical to material already absorbed (own record TAH #2064 + harvest index only) — verified saturated, no memoir material, nothing absorbable.
 hits-hash=9c74d8b3409a 2026-10-04T20:29:52Z slice 09300855-5 re-grep (楊志忠 / Chih-Chung Yang, works/ + articles/): 2 hits only — his own [[works/taiwaneseamericanhistory-org/whos-who-2064-chih-chung-yang|TAH #2064]] + works/index.md. No memoir or directory copy naming him; nothing absorbable — SKIP (verified-saturated).
 note: an earlier sweep of this slice ran the grep with a literal content/ path prefix (content/works, content/articles), which is empty from the content root and therefore returns 0 hits for every page — a false saturation. Re-run root-relative (works/ articles/); read the slice header literally.
+hits-hash=5f33e2a93885 2026-10-05T11:25Z slice 09300900-5 re-grep (楊志忠 / Chih-Chung Yang, works/ + articles/): 2 hits only — his own [[works/taiwaneseamericanhistory-org/whos-who-2064-chih-chung-yang|TAH #2064]] + works/index.md. No memoir or directory copy naming him; nothing absorbable — SKIP (verified-saturated).

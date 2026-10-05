@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-05
 ---
 # East Bay Taiwanese Americans Community Service Center EBTACSC (東灣台美人社區服務中心)
 
@@ -42,3 +42,4 @@ The East Bay Taiwanese Americans Community Service Center (EBTACSC) is a nonprof
 slice 09300315-3 re-verify (2026-10-03): fresh ZH+EN grep (EBTACSC / 東灣台美人社區服務中心) — hit set identical (OJ 335 林天德 園藝組 memoir, senior-ebtacsc directory record, "What Are You?" identity essay, index); all already absorbed above; verified-saturated, no new absorbable facts. hits-hash unchanged set.
 hits-hash=e263cc18bc74 2026-10-04T20:29:52Z slice 09300855-5 re-grep (EBTACSC / 東灣台美人社區服務中心, works/ + articles/): 4 hits, unchanged — ourjourneys335 (林天德 園藝組 memoir), senior-ebtacsc (#20 directory), e2-80-9cwhat-are-you (2007-12-09 book reading), works/index.md — all already linked and absorbed above. Nothing new absorbable — SKIP (verified-saturated). Sister-org relationship HOLD (EBTACSC vs TASS-EB) still open; no corpus record states a relationship between the two East Bay groups.
 - Audit-path pitfall: grep with a literal content/works + content/articles prefix from the content root matches nothing (the dirs are root-relative works/ and articles/), which makes a saturated page look empty for the wrong reason.
+- 2026-10-05T11:25Z slice 09300900-5 re-grep (EBTACSC / 東灣台美人社區服務中心, works/ + articles/): 4 hits unchanged — ourjourneys335 (林天德 園藝組 memoir), senior-ebtacsc (#20 directory), 「What Are You?」identity essay, works/index.md — all linked and absorbed above. Nothing new absorbable — SKIP (verified-saturated). Sister-org HOLD (EBTACSC vs TASS-EB) still open. hits-hash=940e08f3f737.
