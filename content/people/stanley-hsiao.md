@@ -64,3 +64,5 @@ No memoir names 蕭東賢 directly, but corpus records around his wife 黃美琇
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 2026-10-05 (slice 09300855-12, re-run): fresh ZH+EN grep across works+articles - identical hit set (own record whos-who-2254, works index, MANIFEST, editorial column archive page, signed article); no new memoir material naming him. SKIP-with-reason, verified-saturated. hits-hash=7d8c53dbe1bb

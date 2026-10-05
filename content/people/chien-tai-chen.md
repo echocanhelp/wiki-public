@@ -79,3 +79,5 @@ _No filled family fields on the TAH profile._
 複核（deepen-x 2026-10-03, slice 09270900-2）：re-grep（陳建台 / Chien-Tai Chen, works+articles）命中集合不變（本人書目 #302/#654 + index 條目，articles 零命中）— SKIP，維持既有連結為準，無新增社群材料。hits-hash=d30e65d8f806。
 
 複核（deepen-x 2026-10-04, slice 09300855-12）：re-grep（陳建台 / Chien-Tai Chen, works+articles）命中集合不變（本人書目 #302/#654 + index 條目，articles 零命中）— SKIP，無新增社群材料。hits-hash=da0a59c67025。
+
+複核（deepen-x 2026-10-05, slice 09300855-12 re-run）：re-grep 命中集合不變（本人書目 #302/#654 + index 條目，articles 零命中）— SKIP，無新增社群材料。hits-hash=779f975518ed
