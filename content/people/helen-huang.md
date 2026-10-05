@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Helen Huang (黃海倫)
 
@@ -60,3 +60,5 @@ _No filled family fields on the TAH profile._
 > Re-verified 2026-10-04 (deepen-x slice 09300315-10): fresh ZH+EN re-grep — hit set identical (TAH #232/#482 + the two TJJ 2025 records + works index/MANIFEST listing); no new mention. Two-person HOLD（鋼琴家 vs 洛杉磯郡法官）stands. SKIP: verified-saturated, hits-hash=152444697fea.
 
 > Re-verified 2026-10-04 (deepen-x slice 09300848-15): fresh ZH+EN re-grep — hit set identical (TAH #232/#482 copies + the two TJJ 2025 records + index/MANIFEST listing); no new mention. Two-person HOLD（鋼琴家 vs 洛杉磯郡法官）stands. SKIP: verified-saturated. hits-hash=9a0e961df5d7
+
+> Re-verified 2026-10-05 (slice 09300855-15): fresh ZH+EN re-grep — hit set identical (TAH #232/#482 + two TJJ 2025 records + works index/MANIFEST); no new mention. Two-person HOLD（鋼琴家 vs 洛杉磯郡法官）stands. SKIP: verified-saturated. hits-hash=5c6d49b97575
