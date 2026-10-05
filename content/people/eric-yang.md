@@ -44,3 +44,5 @@ last_reviewed: 2026-10-05
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Re-grep 2026-10-05 (slice 09300855-1): fresh grep (楊一哲 / Eric Yang, works+articles) — hit set unchanged: own record [[works/taiwaneseamericanhistory-org/1156-eric-yang-e6-a5-8a-e4-b8-80-e5-93-b2-201607|TAH #1156]] (bibliographic band-B record only), the works index, and the NYC Cravings food-truck article whose "Eric" remains HOLDed as a likely different person (NY-raised, Baruch College, food-truck co-owner vs Boston pastor). No new absorbable facts. SKIP: verified-saturated. hits-hash=025afa29ef70
+
+- Re-grep 2026-10-05 (slice 09300900-1): fresh grep (楊一哲 / Eric Yang, works+articles) — hit set unchanged (own record [[works/taiwaneseamericanhistory-org/1156-eric-yang-e6-a5-8a-e4-b8-80-e5-93-b2-201607|TAH #1156]], works index, NYC Cravings food-truck article whose "Eric" remains HOLDed as a likely different person). Nothing absorbable. SKIP: verified-saturated. hits-hash=025afa29ef70 (unchanged)

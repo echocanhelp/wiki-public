@@ -55,3 +55,5 @@ last_reviewed: 2026-10-05
 <!-- deepen-x 09250500-20: re-verify 2026-09-25 — fresh grep ZH+EN over works+articles: hit set identical to prior passes (RTGSA hits are false positives: 萊斯大學=old Rice student gen, 提姆·萊斯=Tim Rice, 克萊斯勒=Kreisler). Nothing new absorbable. SKIP-no-new-material. -->
 
 - Re-grep 2026-10-05 (slice 09300855-1): fresh grep (李遠川 / Yuan Chuan Lee, works+articles) — hit set unchanged: own record [[works/taiwaneseamericanhistory-org/598-yuan-chuan-lee-e6-9d-8e-e9-81-a0-e5-b7-9d-201509|TAH #598]] (bibliographic band-B record only) plus the works index listing. No memoir or third-party mention adds facts; no conflicts to HOLD. SKIP: verified-saturated. hits-hash=e4b71fcd1a29
+
+- Re-grep 2026-10-05 (slice 09300900-1): fresh grep (李遠川 / Yuan Chuan Lee, works+articles) — hit set unchanged (own record [[works/taiwaneseamericanhistory-org/598-yuan-chuan-lee-e6-9d-8e-e9-81-a0-e5-b7-9d-201509|TAH #598]] + works index only); no memoir or third-party mention adds facts, no conflicts to HOLD. SKIP: verified-saturated. hits-hash=e4b71fcd1a29 (unchanged)
