@@ -39,3 +39,5 @@ HOLD: name-collision — "TASA" in the TAH story corpus denotes the **Taiwanese 
 Fresh re-grep 2026-10-05 (deepen-x slice 09300855-27): TASA hits = same Seniors/ITASA cluster already in the HOLD; 'Vanderbilt' hits now also include three unrelated taiwanjustice-net articles (2026 CNN 當爸 story, 2025 Biden-primary piece, 2025 US-China propaganda piece) — all US-politics context, no Vanderbilt-TASA fact. Still no Vanderbilt-chapter record. SKIP-deepen maintained, verified-saturated. hits-hash=0c3dd352c79b.
 
 Fresh re-grep 2026-10-05 (deepen-x slice 09300900-27): TASA hits = same Seniors/ITASA cluster already in the HOLD; Vanderbilt hits = ourjourneys298 (Houston teacher bio), justineker (Miss Louisiana), taiwanjustice-net US-politics articles — no Vanderbilt-chapter record. SKIP-deepen maintained, verified-saturated. hits-hash=8d010f663ba8.
+
+Fresh re-grep 2026-10-05 (deepen-x slice 09300927-27): TASA hits = same Seniors/ITASA cluster already in the HOLD (ourjourneys173-eng, ourjourneys157, history-of-itasa, 176 Keimay Yang, 578, newsletter-itasa) — no Vanderbilt-chapter record. SKIP-deepen maintained, verified-saturated. hits-hash=8c7e6e8154c5.
