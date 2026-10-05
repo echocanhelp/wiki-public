@@ -76,3 +76,5 @@ slice 09300855-30 re-grep (2026-10-05): fresh 葉宇涵/Yu-Han Yeh grep over wor
 slice 09300900-30 re-grep (2026-10-05): fresh 葉宇涵/Yu-Han Yeh grep over works+articles; hit set identical to the set already linked on this page (#1208, #354 bibliographic records only, works/index) — no community-trace corpus material. SKIP: verified-saturated. hits-hash=2e27cc6dc10f (revisit-audit sha1 convention; grep-sweep sha1=176a292fc811)
 
 slice 09300927-30 re-grep (2026-10-05): fresh 葉宇涵/Yu-Han Yeh grep over works+articles; hit set identical to the set already linked on this page (#1208, #354 bibliographic records only, works/index) — no community-trace corpus material. SKIP: verified-saturated. hits-hash=c63806d8758d (grep-sweep sha1 convention)
+
+slice 09301000-30 re-grep (2026-10-05): fresh ERE grep 葉宇涵|Yu-Han Yeh over works+articles; hit set identical to the set already linked on this page (#1208, #354 bibliographic records only, works/index) — no community-trace corpus material. SKIP: verified-saturated. hits-hash=8695b48d8605 (grep-sweep sha1 convention)
