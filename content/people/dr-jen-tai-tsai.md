@@ -71,3 +71,5 @@ Accomplishment
 
 複核（deepen-x 2026-10-05, slice 09300927-11）：fresh ZH+EN re-grep（蔡仁泰 / Jen-Tai Tsai，works+articles）— 7 命中，集合不變（ourjourneys59/65/65-eng、senior-taiwanese-american-29、184、whos-who-2033、works index），內容層再比對：甘迺迪會晤與 FAPA 創立十五人名單詞料皆已在 Role in the Community 吸收並 wikilink，無新增社群材料。SKIP-with-reason（saturated）。hits-hash=7a155dff44cf
 
+複核（deepen-x 2026-10-05, slice 09301000-11）：fresh ZH+EN re-grep（蔡仁泰 / Jen-Tai Tsai，works+articles）— 7 命中，集合不變（ourjourneys59/65/65-eng、senior-taiwanese-american-29、184、whos-who-2033、works index）；內容層再比對：1980-02-24 甘迺迪會晤詞料與 FAPA 創立十五人名單皆已吸收並 wikilink，無新增社群材料。SKIP-with-reason（saturated）。hits-hash=7a155dff44cf
+
