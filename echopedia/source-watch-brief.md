@@ -1,17 +1,17 @@
-# Source continuity brief — 2026-10-01
+# Source continuity brief — 2026-10-04
 
-dry_run=True
+dry_run=False
 
 ## Results
-- **taiwancenter-org**: new=0 changed=4 applied=0 parked=False
-- **good-shepherd-taiwanese-presbyterian-church**: new=0 changed=1 applied=0 parked=False
+- **taiwancenter-org**: new=0 changed=4 applied=6 parked=False
+- **good-shepherd-taiwanese-presbyterian-church**: new=1 changed=0 applied=3 parked=False
 - **irvine-taiwanese-presbyterian-church**: new=0 changed=0 applied=0 parked=False
-- **presbyterian-church-in-taiwan**: new=1 changed=2 applied=0 parked=False
+- **presbyterian-church-in-taiwan**: new=2 changed=2 applied=6 parked=False
 - **laijohn-com**: new=0 changed=0 applied=0 parked=False
 - **taiwaneseamerican-org**: new=0 changed=0 applied=0 parked=False
 - **ntpc-usa-org**: new=0 changed=0 applied=0 parked=False
-- **taiwaneseamericanhistory-org**: new=1 changed=0 applied=0 parked=False
-- **eastgatebarclay-org**: new=3 changed=0 applied=0 parked=False
+- **taiwaneseamericanhistory-org**: new=1 changed=0 applied=4 parked=False
+- **eastgatebarclay-org**: new=74 changed=26 applied=102 parked=False
 - **penghu-info**: new=0 changed=0 applied=0 parked=False
 
 ## A-band (thicken)

@@ -8,7 +8,7 @@ tags:
   - Tainan
   - primary-source
 verification_status: published
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-04
 ---
 # eastgatebarclay.org — Tainan East Gate Barclay Memorial Church
 

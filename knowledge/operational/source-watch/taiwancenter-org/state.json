@@ -2,8 +2,8 @@
   "id": "taiwancenter-org",
   "urls": {
     "https://www.taiwancenter.org": {
-      "hash": "a093826799641a99f310b34242e3d2bc",
-      "len": 82323,
+      "hash": "02a159942eac846e0ab260fe24756b86",
+      "len": 86410,
       "code": 200,
       "baseline": false
     },
@@ -92,8 +92,8 @@
       "baseline": false
     },
     "https://www.taiwancenter.org/en/home": {
-      "hash": "27f5625f709e5a508cb43fc52be2b0a4",
-      "len": 83691,
+      "hash": "7b05c3b35e2e910e13655022527c0902",
+      "len": 87979,
       "code": 200,
       "baseline": false
     },
@@ -110,8 +110,8 @@
       "baseline": false
     },
     "https://www.taiwancenter.org/en/group-members": {
-      "hash": "4f5cf8c718628b94f75ca52b95cc2705",
-      "len": 32336,
+      "hash": "6d5a8637a79fc719404dcd904afc6a64",
+      "len": 32999,
       "code": 200,
       "baseline": false
     },
@@ -128,8 +128,8 @@
       "baseline": false
     },
     "https://www.taiwancenter.org/en/form-download": {
-      "hash": "33bed84769b4cf38595eb5bb2b277d5c",
-      "len": 25640,
+      "hash": "8e2b6d1f319fb0d99a8e7d032cfd1491",
+      "len": 26303,
       "code": 200,
       "baseline": false
     },
@@ -278,6 +278,6 @@
       "baseline": false
     }
   },
-  "last_poll": "2026-09-28T06:46:19Z",
+  "last_poll": "2026-10-05T06:46:07Z",
   "baseline_at": "2026-08-09T21:01:41Z"
 }

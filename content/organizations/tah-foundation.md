@@ -7,7 +7,7 @@ tags:
   - archive
   - Taiwanese-American
 verification_status: published
-last_reviewed: 2026-08-21
+last_reviewed: 2026-10-04
 ---
 # TAH Foundation (台美史料中心)
 

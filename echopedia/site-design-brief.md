@@ -1,4 +1,4 @@
-## Site design audit — 2026-10-04 22:21
+## Site design audit — 2026-10-05 00:28
 
 - pages_md=15105
 - critical=0 high=2 medium=1
@@ -8,15 +8,18 @@
 - **SITE_DESIGN_STATUS: ACTION**
 
 ### HIGH (2)
-- **A3** MD without HTML: 2 (recent≤7d: 2) `[heal:publish]`
+- **A3** MD without HTML: 2 (recent≤7d: 1) `[heal:publish]`
   - `people/林芸.md`
-  - `works/taiwaneseamerican-org/vincent-chu-nice-places.md`
 - **B3** new/changed MD missing HTML (≤7d) `[heal:publish]`
   - `people/林芸.md`
-  - `works/taiwaneseamerican-org/vincent-chu-nice-places.md`
 
 ### MEDIUM (1)
 - **F4** people/index.html is 1514464 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
+
+### LOW (1)
+- **C1** spelling signals (sample): 2 `[AGENT_SUGGESTED]`
+  - `taiwaneseamericanhistory-org.md: teh→the`
+  - `presbyterian-church-in-taiwan.md: teh→the`
 
 ### INFO (2)
 - **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
@@ -26,7 +29,7 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 1661
+- **B1** person/org touched ≤7d (rely on recency featured window): 1521
   - `people/a-n-liu.md`
   - `people/abby-hong.md`
   - `people/adam-chang.md`

@@ -5,7 +5,7 @@ tags:
   - source
   - tah-foundation
 verification_status: published
-last_reviewed: 2026-08-21
+last_reviewed: 2026-10-04
 ---
 # taiwaneseamericanhistory.org (TAH Foundation)
 

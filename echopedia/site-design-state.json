@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-10-04T22:21:45",
+  "last_run": "2026-10-05T00:28:40",
   "status": "ACTION",
   "stats": {
     "md": 15105,
@@ -14,10 +14,9 @@
     {
       "id": "A3",
       "sev": "HIGH",
-      "msg": "MD without HTML: 2 (recent\u22647d: 2)",
+      "msg": "MD without HTML: 2 (recent\u22647d: 1)",
       "examples": [
-        "people/\u6797\u82b8.md",
-        "works/taiwaneseamerican-org/vincent-chu-nice-places.md"
+        "people/\u6797\u82b8.md"
       ],
       "heal": "publish"
     },
@@ -26,8 +25,7 @@
       "sev": "HIGH",
       "msg": "new/changed MD missing HTML (\u22647d)",
       "examples": [
-        "people/\u6797\u82b8.md",
-        "works/taiwaneseamerican-org/vincent-chu-nice-places.md"
+        "people/\u6797\u82b8.md"
       ],
       "heal": "publish"
     },
@@ -52,7 +50,7 @@
     {
       "id": "B1",
       "sev": "INFO",
-      "msg": "person/org touched \u22647d (rely on recency featured window): 1661",
+      "msg": "person/org touched \u22647d (rely on recency featured window): 1521",
       "examples": [
         "people/a-n-liu.md",
         "people/abby-hong.md",
@@ -70,28 +68,22 @@
         "people/alexander-m-lee.md",
         "people/alexander-macdonald.md"
       ]
+    },
+    {
+      "id": "C1",
+      "sev": "LOW",
+      "msg": "spelling signals (sample): 2",
+      "examples": [
+        "taiwaneseamericanhistory-org.md: teh\u2192the",
+        "presbyterian-church-in-taiwan.md: teh\u2192the"
+      ],
+      "agent": true
     }
   ],
   "heals": [
     "publish"
   ],
   "history": [
-    {
-      "at": "2026-09-26T00:26:23",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 2,
-      "medium": 1,
-      "finding_count": 6
-    },
-    {
-      "at": "2026-09-26T00:26:32",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 2,
-      "medium": 1,
-      "finding_count": 6
-    },
     {
       "at": "2026-09-26T00:30:51",
       "status": "ACTION",
@@ -315,6 +307,22 @@
       "high": 2,
       "medium": 1,
       "finding_count": 5
+    },
+    {
+      "at": "2026-10-05T00:27:22",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 2,
+      "medium": 1,
+      "finding_count": 6
+    },
+    {
+      "at": "2026-10-05T00:28:40",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 2,
+      "medium": 1,
+      "finding_count": 6
     }
   ]
 }

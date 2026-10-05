@@ -120,8 +120,14 @@
       "len": 67849,
       "code": 200,
       "baseline": false
+    },
+    "https://taiwaneseamericanhistory.org/701-ing-hui-lai-%e8%b3%b4%e8%8b%b1%e6%85%a7-201511/": {
+      "hash": "af622607610fcc96e19f1978e03f1640",
+      "len": 63316,
+      "code": 200,
+      "baseline": false
     }
   },
-  "last_poll": "2026-09-28T06:51:02Z",
+  "last_poll": "2026-10-05T06:50:50Z",
   "baseline_at": "2026-08-22T00:53:07Z"
 }

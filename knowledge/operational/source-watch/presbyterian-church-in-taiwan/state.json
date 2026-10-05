@@ -152,8 +152,8 @@
       "baseline": false
     },
     "https://www.pct.org.tw/news_focus.aspx": {
-      "hash": "f231b72803416e4b52c916bf404c983a",
-      "len": 49220,
+      "hash": "cbb512713e67ff90a88d315d5d6ed7a8",
+      "len": 59845,
       "code": 200,
       "baseline": false
     },
@@ -278,8 +278,8 @@
       "baseline": false
     },
     "https://www.pct.org.tw/news_focus.aspx?strSiteID=S001&amp;strContentid=C2026082800006": {
-      "hash": "88d505190881611a3aac2c655012376b",
-      "len": 59898,
+      "hash": "01e607edf66f14c41d6268ba53f5efa3",
+      "len": 49273,
       "code": 200,
       "baseline": false
     },
@@ -324,8 +324,20 @@
       "len": 48256,
       "code": 200,
       "baseline": false
+    },
+    "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026100500001&amp;strDesc=Y": {
+      "hash": "c4eaedfe815a01ddc6f9f001c2732f88",
+      "len": 48285,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026100100001&amp;strDesc=Y": {
+      "hash": "bc454e4a5ecaa1f762a12fb02f9885d3",
+      "len": 48285,
+      "code": 200,
+      "baseline": false
     }
   },
-  "last_poll": "2026-09-28T06:49:31Z",
+  "last_poll": "2026-10-05T06:49:23Z",
   "baseline_at": null
 }

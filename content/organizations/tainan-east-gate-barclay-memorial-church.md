@@ -10,7 +10,7 @@ tags:
   - PCT
   - Tainan
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-04
 website: https://eastgatebarclay.org/
 ---
 # Tainan East Gate Barclay Memorial Church (東門巴克禮紀念教會)
