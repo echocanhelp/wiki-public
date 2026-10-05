@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Judy Lin Linton (林奐均)
 
@@ -76,3 +76,7 @@ hits-hash=a289fb13fc38
 ## Corpus sweep (slice 09300900-4, verified 2026-10-05)
 - Fresh ZH+EN sweep of `works/` + `articles/` (林奐均 / Judy Linton / Judy Lin / Linton, index excluded). Strict-name hit set unchanged: my-stories 700/702, TAH #1557, ourjourneys69 ZH/EN, mystories337, CD #533, plus the five taiwanjustice-net press records on the 林宅血案 case (2021-02-27 二二八74週年; 2025-04-25 陳菊赴林家墓園; 2025-04-28 賴清德出席義光教會; 2025-12-11 促轉會監控報告; 2026-01-13 林宅血案調查). All memoir material already absorbed above; the press records cover the case, not her personally.
 - Verified-saturated, nothing new absorbable, no new conflict opened. hits-hash=cb37ff352802
+
+## Corpus sweep (slice 09300927-4, verified 2026-10-05)
+- Fresh ERE ZH+EN grep of `works/` + `articles/` (林奐均 / Judy Linton / Judy Lin / Linton, index excluded): hit set unchanged — my-stories 700/702, TAH #1557, ourjourneys69 ZH/EN, mystories337, CD #533, plus the taiwanjustice-net press records on the 林宅血案 case. Memoir text spot-checked this pass (OJ #69 passage: 1980-02-28, mother 林游阿妹 + twins 林亮均/林亭均 age 7 killed, 林奐均 age 9 gravely wounded; Chicago consulate protest by the 教授協會籌備會) — all already absorbed above.
+- Verified-saturated, nothing new absorbable, no new conflict opened. hits-hash=a8da9fa81df0

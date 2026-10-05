@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-05
 ---
 # Boston Taiwanese Biotechnology Association (波士頓台灣人生物科技協會)
 
@@ -57,3 +57,7 @@ hits-hash=5599183ed6fe 2026-10-03 slice 09270953-1 re-grep (波士頓台灣人�
 ## Corpus sweep (slice 09300900-4, verified 2026-10-05)
 - Fresh ZH+EN sweep of `works/` + `articles/` (波士頓台灣人生物科技協會 / Boston Taiwanese Biotechnology / BTBA, index excluded). Hit set unchanged: own directory record `works/taiwaneseamericanhistory-org/boston-taiwanese-biotechnology-association.md` plus the recurring "BTBA" substring false positive inside the 川普/烏克蘭 taiwanjustice-net article's archive_digest hash (random hash characters, no association content). No memoir or community record mentions BTBA.
 - Verified-saturated, nothing new absorbable, no conflicts to HOLD. hits-hash=dc4a7e733a4c
+
+## Corpus sweep (slice 09300927-4, verified 2026-10-05)
+- Fresh ERE ZH+EN grep of `works/` + `articles/` (波士頓台灣人生物科技協會 / Boston Taiwanese Biotechnology / BTBA, index excluded): hit set unchanged — own directory record `works/taiwaneseamericanhistory-org/boston-taiwanese-biotechnology-association.md` plus the recurring "BTBA" substring false positive inside the archive_digest hash of the unrelated 川普/烏克蘭 taiwanjustice-net article (random hash characters, no association content). No memoir or community record mentions BTBA.
+- Verified-saturated, nothing new absorbable, no conflicts to HOLD. hits-hash=ff091b51b0ed

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Martha Hsu (許秀聰)
 
@@ -81,3 +81,7 @@ slice 09300315-3 re-grep (2026-10-03, 許秀聰 / Martha Hsu / VanDriel): fresh 
 slice 09300855-4 re-grep (2026-10-04, 許秀聰 / Martha Hsu / Martha VanDriel / VanDriel, works+articles, index excluded): hit set unchanged (first-137, whoswho1070, TAJS 2015-12-21 專訪 index article). Re-read the 2024-06-21 TAJS index entry this pass — it is a republication of the same 西點軍校之路 feature already linked, not new material. SKIP: verified-saturated; duplicate-page HOLD vs [[people/martha-vandriel|Martha VanDriel]] (degree + retirement-date conflicts) stands pending owner review. hits-hash=882ee3ba0b8f
 
 slice 09300900-4 re-grep (2026-10-05, 許秀聰 / Martha Hsu / Martha VanDriel / VanDriel, works+articles, index excluded): hit set identical (first-137, whoswho1070, TAJS 2024-06-21 index article) — no memoir material beyond what is already absorbed above. SKIP: verified-saturated; duplicate-page HOLD vs [[people/martha-vandriel|Martha VanDriel]] (M.S. 政治學 NCSU vs M.A. National Security Studies UNC-Chapel Hill; 第八軍團 present vs retirement Sept 2017) stands pending owner review. hits-hash=58e0a50c5b56
+
+## Corpus sweep (slice 09300927-4, verified 2026-10-05)
+- Fresh ERE ZH+EN grep of `works/` + `articles/` (許秀聰 / Martha Hsu / VanDriel, index excluded): hit set unchanged — [[works/taiwaneseamericanhistory-org/first-137|First #137 (West Point 1991)]], [[works/taiwaneseamericanhistory-org/whoswho1070|Who's Who #1071]], and the taiwanjustice-net republication of the 2015-12-21 TAHS 專訪 (西點軍校之路). Re-read this pass: the article entry is the same feature already linked, not new material. No memoir text beyond what is absorbed above.
+- Verified-saturated, nothing new absorbable. Duplicate-page HOLD vs [[people/martha-vandriel|Martha VanDriel]] (M.S. 政治學 NCSU vs M.A. National Security Studies UNC-Chapel Hill; 第八軍團 present vs retirement Sept 2017) stands pending owner review. hits-hash=2ac3da7c26ff

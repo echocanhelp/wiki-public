@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Dr. Virginia S. Shen (李香蘭教授)
 
@@ -62,3 +62,7 @@ hits-hash=5599183ed6fe 2026-10-03 slice 09270953-1 re-grep (李香蘭/Virginia S
 hits-hash=bcba16130c78 2026-10-04 slice 09300855-4 re-grep (李香蘭/Virginia S. Shen, works+articles, index excluded): hit set unchanged — own record TAH #1947 + OJ #279 singer-film mention (「李香蘭的世界」 = 陳玫君 documentary about the WWII-era singer, already disambiguated). No memoir names this educator; nothing absorbable — SKIP (verified-saturated). HOLD on 沈耀初/Chicago-chairman identity still stands.
 
 slice 09300900-4 re-grep (2026-10-05, 李香蘭 / Virginia S. Shen / Virginia Shen, works+articles, index excluded): hit set unchanged — own record [[works/taiwaneseamericanhistory-org/whos-who-1947-virginia-s-shen|TAH #1947]] + OJ #279 singer-film mention (spot-checked this pass: 「李香蘭的世界」 there is one of 陳玫君's documentaries, WWII-singer subject, not this educator). No memoir names her; nothing absorbable — SKIP (verified-saturated). HOLD on 沈耀初/Chicago-chairman identity stands. hits-hash=9f932d2b9009
+
+## Corpus sweep (slice 09300927-4, verified 2026-10-05)
+- Fresh ERE ZH+EN grep of `works/` + `articles/` (李香蘭 / Virginia S. Shen / Virginia Shen, index excluded): hit set unchanged — own record [[works/taiwaneseamericanhistory-org/whos-who-1947-virginia-s-shen|TAH #1947]] plus the 「李香蘭的世界」 mention in [[works/taiwaneseamericanhistory-org/ourjourneys279|Our Journeys #279]], spot-checked this pass and confirmed to be one of filmmaker 陳玫君's documentaries about the WWII-era singer, not this educator. No memoir names her.
+- Verified-saturated, nothing new absorbable; HOLD on 沈耀初/Chicago-chairman identity stands. hits-hash=bfcda272b3d8
