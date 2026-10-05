@@ -65,3 +65,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (2026-10-05, slice 09300900-28)
 - Re-verified 2026-10-05 (slice 09300900-28): fresh ZH+EN re-grep 陳貞華/Stephen Chen — 8 hits, identical to the absorbed/HOLD set: own whos-who-1690 record, ourjourneys260 講員 mention, works index, the 陳欽明醫師 same-name works (#102, collection-of-dr-stephen-chen, videos17) under HOLD, plus the pew-research-center statement roster and the COVID roll-call record (bare "Stephen Chen", no hanzi — both stay under HOLD, identity unconfirmable vs 陳貞華 or 陳欽明). No new community facts this pass. Verified-saturated, SKIP-with-reason. hits-hash=90c2ae76bd02 (sha1 over sorted hit-path set).
+
+## Corpus re-grep (2026-10-05, slice 09300927-28)
+- Re-verified 2026-10-05 (slice 09300927-28): fresh ZH+EN re-grep 陳貞華/Stephen Chen — 8 hits, identical to the absorbed/HOLD set (whos-who-1690, ourjourneys260 講員 mention, works index, 陳欽明醫師 same-name works #102/collection-of-dr-stephen-chen/videos17 under HOLD, pew statement roster, COVID roll-call record — bare "Stephen Chen" entries stay under HOLD, no hanzi). No new community facts this pass. Verified-saturated, SKIP-with-reason. hits-hash=ac90bd30594e (sha1 over sorted hit-path set).
