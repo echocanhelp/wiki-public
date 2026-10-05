@@ -77,3 +77,5 @@ last_reviewed: 2026-10-05
 - Corpus re-check 2026-10-05 (slice 09300927-10): fresh grep 王寶田|Bao-Tyan Wang re-hits only TAH #282 work page and the 2 TJJ 14th WTCF forum articles — hit set identical to already-absorbed records; saturated, no new material. hits-hash=8792b0418458
 
 - Corpus re-check 2026-10-05 (slice 09301000-10): fresh grep 王寶田|Bao-Tyan Wang (deterministic sha1 hit-set probe) re-hits only TAH #282 work page, the 2 TJJ 14th WTCF forum articles, and works/index — hit set identical to already-absorbed records; saturated, no new material. hits-hash=cfab73d074f6
+
+- 2026-10-05 deepen-x slice 09301017-10: SKIP confirmed — fresh grep (王寶田／Bao-Tyan Wang) over content/works + content/articles re-hits only TAH #282 work page + the 2 TJJ 第14回世界台灣文化論壇 articles (plus works/index), all already absorbed in Role in the Community; no new community facts, no conflicts to HOLD. Verified-saturated. hits-hash=23ca80c27e17
