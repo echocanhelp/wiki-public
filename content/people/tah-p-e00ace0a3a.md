@@ -70,3 +70,5 @@ HOLD: Employment 表載 台灣公論報 財務 1981-87；回憶錄指帳務由�
 - 複核（deepen-x slice-09300315-1, 2026-10-03）：fresh re-grep 毛清芬（works+articles）hit set identical — 僅已引之 ourjourneys 49/283/292/126、#329、黑暁單口述、TAH #619。SKIP, verified-saturated. hits-hash=dc314cc36bc0
 
 Corpus re-grep (slice 09300855-2, 2026-10-04): fresh ZH+EN re-grep over content/works + content/articles returned the saturated hit set only (no new files since slice 09300315-1 sweep). NATWA Hawaii: no new NATWA/Hawaii-chapter mentions (tjj tag page for 譚德塞 is a false positive on 德文). No absorbable chapter/person-level facts. SKIP (verified-saturated). hits-hash=f1ca153619a1
+
+Corpus re-grep (slice 09300900-2, 2026-10-05): fresh re-grep 毛清芬 (works+articles, 9 hits) identical to已引記錄 — ourjourneys 49/126/283/292 (+292-eng EN mirror), #329 張丁蘭悼文, 黑名單口述, TAH #619, works index. No new material. SKIP, verified-saturated. hits-hash=ba783288585b

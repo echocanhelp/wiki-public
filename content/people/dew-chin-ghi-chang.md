@@ -81,3 +81,5 @@ Corpus re-grep (slice 09260700-18, 2026-09-29): same hit set (ourjourneys33, our
 Corpus re-grep (slice 09300315-1, 2026-10-03): same hit set (ourjourneys33, ourjourneys186-eng, ff361, whos-dew-chin-ghi-chang, index). All corpus facts already absorbed. Nothing new absorbable — SKIP (verified-saturated). hits-hash=dc314cc36bc0
 
 Corpus re-grep (slice 09300855-2, 2026-10-04): fresh ZH+EN re-grep over content/works + content/articles returned the saturated hit set only (no new files since slice 09300315-1 sweep). NATWA Hawaii: no new NATWA/Hawaii-chapter mentions (tjj tag page for 譚德塞 is a false positive on 德文). No absorbable chapter/person-level facts. SKIP (verified-saturated). hits-hash=f1ca153619a1
+
+Corpus re-grep (slice 09300900-2, 2026-10-05): fresh re-grep 張清祺|Chin-Ghi Chang (works+articles, 5 hits) identical — ourjourneys33 memoir, ourjourneys186-eng TACL roster, ff361 family record, whos-dew-chin-ghi-chang, index. All corpus facts already absorbed. Nothing new absorbable — SKIP (verified-saturated). hits-hash=06c956a7b8ae
