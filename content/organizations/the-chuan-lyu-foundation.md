@@ -60,3 +60,5 @@ Corpus re-grep 2026-10-05 (deepen-x slice 09300855-26): fresh grep works/ + arti
 Corpus re-grep 2026-10-05 (deepen-x slice 09300900-26): fresh ERE grep works/ + articles/ for 川流基金會|Chuan Lyu returned the identical Foundation-attributed hit set — program records #18/#30/#38/#39/#84/#384/#385, own directory page, works index (hits-hash=c14cf4a5d823). Verified-saturated, nothing new absorbable — SKIP-with-reason.
 
 Corpus re-grep 2026-10-05 (deepen-x slice 09300927-26): fresh grep works/ + articles/ for 川流基金會|Chuan Lyu returned the identical Foundation-attributed hit set — program records #18/#30/#38/#39/#84/#384/#385, own directory page, works index (hits-hash=2fc90e3384df). Verified-saturated, nothing new absorbable — SKIP-with-reason.
+
+Corpus re-grep 2026-10-05 (deepen-x slice 09301000-26): fresh ERE grep works/ + articles/ for 川流基金會|Chuan Lyu returned the identical Foundation-attributed hit set — program records #18/#30/#38/#39/#84/#384/#385, own directory page, works index (hits-hash=5a6e173070da). Verified-saturated, nothing new absorbable — SKIP-with-reason.
