@@ -66,3 +66,5 @@ Re-verified 2026-09-30 (slice 09260800-5): fresh ZH 陳正哲 + EN 'Roger Chen' 
 Re-verified 2026-10-04 (slice 09300848-14): fresh ZH 陳正哲 + EN "Roger Chen" grep of works/ + articles/ returns zero hits (no own-record works pages either); zero hits since prior passes — verified-saturated, SKIP, nothing new absorbable.
 
 Re-verified 2026-10-05 (slice 09300855-14): fresh ZH 陳正哲 + EN "Roger Chen" grep of content/works + content/articles returns 3 files — own TAH [[works/taiwaneseamericanhistory-org/ota-235|#235]] / [[works/taiwaneseamericanhistory-org/whos-who-2185-roger-chen|#2185]] records + works index; no memoir narrative anywhere. hits-hash=a2b46fa6f519 (3 files, sha1[:12] of sorted grep paths). SKIP: verified-saturated, nothing new absorbable.
+
+2026-10-05 — deepen-x slice 09300855-14 close: canonical audit-line hits-hash=25bb3211feaa (3 files, sha1[:12] of sorted content/-prefixed hit paths — same set as above: own #235/#2185 records + works index). SKIP: verified-saturated, no memoir narrative to absorb, nothing new absorbable.
