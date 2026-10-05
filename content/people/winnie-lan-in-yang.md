@@ -60,3 +60,5 @@ _No filled family fields on the TAH profile._
 Corpus re-grep (deepen-x slice 09300848-26, 2026-10-04): fresh grep works/ + articles/ for 楊嵐茵 / Winnie Lan-In Yang returns only #236, #491, and the harvest index — all bibliography-only and already wikilinked above; verified-saturated, nothing absorbable — SKIP-with-reason. hits-hash=3edd19d581e0
 
 Corpus re-grep 2026-10-05 (deepen-x slice 09300855-26): fresh grep works/ + articles/ for 楊嵐茵 / Winnie Lan-In Yang returns only #236, #491, and the harvest index — bibliography-only records, both already wikilinked above; no memoir or community-activity material. Verified-saturated, nothing absorbable — SKIP-with-reason. hits-hash=635b5ab15e7e
+
+Corpus re-grep 2026-10-05 (deepen-x slice 09300900-26): fresh ERE grep works/ + articles/ for 楊嵐茵|Winnie Lan-In Yang returns only #236, #491, and the harvest index (hits-hash=3579e12dea2b) — bibliography-only, both already wikilinked above; no memoir or community material. Verified-saturated, nothing absorbable — SKIP-with-reason.

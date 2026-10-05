@@ -67,6 +67,7 @@ HOLD: work page 10313 lists its subject slug as `people/james-yang` (楊榮勝's
 
 - 2026-09-30 語料複核（slice 09260854-3）：grep（楊明仁／James Yang，works+articles）命中集仍與前次完全一致（#386、#387、#10313、OTA #284、Who's Who #256、index）；已飽和 — SKIP-content；10313 subject-slug HOLD 維持原載。
 - 2026-10-05 語料複核（slice 09300855-25）：fresh grep（楊明仁／James Yang，works+articles）命中集仍與前次完全一致（#386、#387、#10313、OTA #284、Who's Who #256、index）；已飽和 — SKIP-content；10313 subject-slug HOLD 維持原載。hits-hash=a7b64680f5fd
+- 2026-10-05 語料複核（slice 09300900-25）：fresh ERE grep（楊明仁|James Yang，works+articles）命中集仍與前次完全一致（#386、#387、#10313、OTA #284、Who's Who #256、index）；已飽和 — SKIP-content；10313 subject-slug HOLD 維持原載。hits-hash=66880786b328
 
 ## Sources
 - [James Yang 楊明仁](https://taiwaneseamericanhistory.org/person/james-yang/)
