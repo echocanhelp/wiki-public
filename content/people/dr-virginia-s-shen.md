@@ -70,3 +70,7 @@ slice 09300900-4 re-grep (2026-10-05, 李香蘭 / Virginia S. Shen / Virginia Sh
 ## Corpus sweep (slice 09301000-4, verified 2026-10-05)
 - Fresh ERE ZH+EN grep of `works/` + `articles/` (李香蘭 / Virginia S. Shen / Virginia Shen, index excluded): hit set unchanged — own record [[works/taiwaneseamericanhistory-org/whos-who-1947-virginia-s-shen|TAH #1947]] plus the 「李香蘭的世界」 mention in [[works/taiwaneseamericanhistory-org/ourjourneys279|Our Journeys #279]], re-read this pass and confirmed to be one of filmmaker 陳玫君's documentaries (with 「梅蘭芳的世界」 etc.), i.e. the WWII-era singer subject, not this educator. No memoir names her.
 - Verified-saturated, nothing new absorbable; HOLD on 沈耀初/Chicago-chairman identity stands. hits-hash=9f932d2b9009
+
+## Corpus sweep (slice 09301017-4, verified 2026-10-05)
+- Fresh ERE ZH+EN grep of `works/` + `articles/` (李香蘭 / Virginia S. Shen / Virginia Shen, index excluded): hit set unchanged — own record [[works/taiwaneseamericanhistory-org/whos-who-1947-virginia-s-shen|TAH #1947]] plus the 「李香蘭的世界」 mention in [[works/taiwaneseamericanhistory-org/ourjourneys279|Our Journeys #279]] (the WWII-era singer subject, already disambiguated). No memoir names this educator.
+- Verified-saturated, nothing new absorbable; HOLD on 沈耀初/Chicago-chairman identity stands. hits-hash=555d45f875ae

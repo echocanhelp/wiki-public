@@ -89,3 +89,7 @@ slice 09300900-4 re-grep (2026-10-05, 許秀聰 / Martha Hsu / Martha VanDriel /
 ## Corpus sweep (slice 09301000-4, verified 2026-10-05)
 - Fresh ERE ZH+EN grep of `works/` + `articles/` (許秀聰 / Martha Hsu / Martha VanDriel / VanDriel, index excluded): hit set unchanged — [[works/taiwaneseamericanhistory-org/first-137|First #137 (West Point 1991)]], [[works/taiwaneseamericanhistory-org/whoswho1070|Who's Who #1071]], and the taiwanjustice-net republication of the TAHS 專訪 (西點軍校之路). No memoir text beyond what is absorbed above.
 - Verified-saturated, nothing new absorbable. Duplicate-page HOLD vs [[people/martha-vandriel|Martha VanDriel]] (M.S. 政治學 NCSU vs M.A. National Security Studies UNC-Chapel Hill; 第八軍團 present vs retirement Sept 2017) stands pending owner review. hits-hash=58e0a50c5b56
+
+## Corpus sweep (slice 09301017-4, verified 2026-10-05)
+- Fresh ERE ZH+EN grep of `works/` + `articles/` (許秀聰 / Martha Hsu / Martha VanDriel / VanDriel, index excluded): hit set unchanged — [[works/taiwaneseamericanhistory-org/first-137|First #137 (West Point 1991)]], [[works/taiwaneseamericanhistory-org/whoswho1070|Who's Who #1071]], and the taiwanjustice-net republication of the TAHS 專訪 (西點軍校之路). No memoir text beyond what is absorbed above.
+- Verified-saturated, nothing new absorbable. Duplicate-page HOLD vs [[people/martha-vandriel|Martha VanDriel]] (M.S. 政治學 NCSU vs M.A. National Security Studies UNC-Chapel Hill; 第八軍團 present vs retirement Sept 2017) stands pending owner review. hits-hash=b56b867707fd
