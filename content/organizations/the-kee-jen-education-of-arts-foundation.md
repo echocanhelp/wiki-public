@@ -61,3 +61,5 @@ HOLD: the English name "Kee-Jen" vs. the romanization "Chien" in the pinyin-styl
 - [[people/chuang-shien-lu||呂泉生]]
 - [[works/taiwaneseamericanhistory-org/333-chuang-shien-lu-e5-91-82-e6-b3-89-e7-94-9f-composer-musician-201603|333. Chuang-Shien Lu 呂泉生]]
 - [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys 301]]
+
+2026-10-05 re-check (slice 09301017-7): corpus re-grep (Kee-Jen / Kee Jen / Keejen / 呂泉生文教) over works/ + articles/ — 0 hits again (empty hit set, unchanged since 09221200-10). 呂泉生-person layer re-grepped (14 files): hits are CNA features on the 《杯底不可飼金魚》 lyricist dispute (作詞人 now identified as 陳大禹/陳大出 — work-catalogue facts belonging on the composer's own person page, not foundation facts), the 葉思雅 classical-music class memoir mention, and tag-index noise — all previously assessed as non-absorbable here; no new foundation facts, no conflicts. SKIP (verified-saturated). hits-hash=d41d8cd98f00 (empty set)
