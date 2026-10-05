@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-05
 ---
 # Silicon Valley Taiwanese American Association (北加州)
 

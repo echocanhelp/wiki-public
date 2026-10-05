@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-05
 ---
 # Dr. Fu Yuan Hsu (許富淵)
 
@@ -48,6 +48,7 @@ last_reviewed: 2026-09-30
 - Corpus re-grep (slice 09251000-14, 2026-09-26): hit-set unchanged (ourjourneys8/8-eng/58/81/81-eng/234) — content re-read (陳文成專集印刷、1975-08-30 改選第二副主席、紐約同志名單、1968 幹部名單) already absorbed above; verified-saturated, nothing new absorbable, no conflicts.
 - Corpus re-grep (slice 09260500-9, 2026-09-26): hit-set unchanged (ourjourneys8/8-eng/58/81/81-eng/234) — verified-saturated, nothing new absorbable, no conflicts.
 - Corpus re-grep (slice 09260854-16, 2026-09-30): fresh ZH+EN grep of content/works + content/articles — hit-set unchanged (ourjourneys8/8-eng/58/81/81-eng/234 + works index). All facts (WUFI 紐約總部幹部名單、1975-08-30 改選第二副主席、陳文成專集印刷、紐約同志名單、積極參與活動記錄) already absorbed above with wikilinks. Verified-saturated, nothing new absorbable, no conflicts.
+- Corpus re-grep (slice 09300855-25, 2026-10-05): fresh ZH+EN grep of content/works + content/articles — hit set unchanged (ourjourneys8/8-eng/58/81/81-eng/234). All facts (WUFI 紐約總部幹部名單、1975-08-30 改選第二副主席、陳文成專集印刷、紐約同志名單、積極參與活動記錄) already absorbed above with wikilinks. Verified-saturated, nothing new absorbable, no conflicts. hits-hash=d921c41aa627
 
 ## Sources
 - [TAH #1617 encyclopedia: 1617. Dr. Fu Yuan Hsu 許富淵/ 2017/04](https://taiwaneseamericanhistory.org/whoswho1617/)

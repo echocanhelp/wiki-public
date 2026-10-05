@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # C. K. Lee (李世光)
 
@@ -65,3 +65,4 @@ _No filled family fields on the TAH profile._
 
 - Corpus re-scan 2026-09-30 (deepen-x slice 09260854-6): fresh grep (李世光／C. K. Lee) — hits unchanged (TAH #783, #15 返台任教 1994, Our Journeys 310, works index); OJ310 政府要員博士群 list and 鄭昭夫 鄉訊 detail verbatim re-confirmed. SKIP-content (verified-saturated); nothing new absorbable, no conflicts to HOLD.
 - Corpus re-scan 2026-10-05 (slice 09300848-24): fresh ERE grep (李世光|C\. ?K\. ?Lee) of content/works + content/articles — hits unchanged (TAH #783, #15 返台任教 1994, Our Journeys 310, works index); OJ310 政府要員博士群 list and 鄭昭夫 鄉訊 detail verbatim re-confirmed. SKIP-content (verified-saturated); nothing new absorbable, no conflicts to HOLD. hits-hash=b341b513704f
+- Corpus re-scan 2026-10-05 (slice 09300855-24): fresh grep (李世光\|C\. *K\. *Lee) — 4 files unchanged (TAH #783, #15 返台任教 1994, Our Journeys 310, works index); OJ310 政府要員博士群 list (黃大洲、陳保基、黃㯖昌、蔡丁貴、李世光、潘世偉、吳政忠) and 鄭昭夫 鄉訊 detail re-read verbatim. SKIP-content (verified-saturated); nothing new absorbable, no conflicts to HOLD. hits-hash=36d30a023c83

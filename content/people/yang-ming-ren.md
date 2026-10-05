@@ -8,7 +8,7 @@ tags:
   - tah-whos-who
   - presbyterian
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # James Yang (楊明仁)
 
@@ -66,6 +66,7 @@ HOLD: work page 10313 lists its subject slug as `people/james-yang` (楊榮勝's
 - 2026-09-30 語料複核（slice 09260500-6）：grep（楊明仁／James Yang，works+articles）命中集仍與前次完全一致（#386、#387、#10313、OTA #284、Who's Who #256、index）；已飽和 — SKIP-content；10313 subject-slug HOLD 維持原載。
 
 - 2026-09-30 語料複核（slice 09260854-3）：grep（楊明仁／James Yang，works+articles）命中集仍與前次完全一致（#386、#387、#10313、OTA #284、Who's Who #256、index）；已飽和 — SKIP-content；10313 subject-slug HOLD 維持原載。
+- 2026-10-05 語料複核（slice 09300855-25）：fresh grep（楊明仁／James Yang，works+articles）命中集仍與前次完全一致（#386、#387、#10313、OTA #284、Who's Who #256、index）；已飽和 — SKIP-content；10313 subject-slug HOLD 維持原載。hits-hash=a7b64680f5fd
 
 ## Sources
 - [James Yang 楊明仁](https://taiwaneseamericanhistory.org/person/james-yang/)

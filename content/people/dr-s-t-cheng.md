@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-05
 ---
 # Dr. S. T. Cheng (鄭信傳醫師)
 
@@ -55,3 +55,4 @@ last_reviewed: 2026-10-03
 > Saturate-note (deepen-x slice 09221000-15, 2026-09-23): re-grep ZH+EN (incl. 魏妙奎/魏妙圭) returned the same hit set plus [[works/taiwaneseamericanhistory-org/whoswho1065|TAH #1066. M. K. Wei 魏妙圭]], whose wife page [[people/m-k-wei|M. K. Wei (魏妙圭)]] lists husband 鄭信傳 — corroborates the memoir spelling 魏妙圭 but HOLD (this page's directory field still reads 魏妙奎) stands. No other new absorbable facts.
 > Saturate-note (deepen-x slice 09230500-27, 2026-09-24): corpus re-grep ZH+EN (鄭信傳 / S. T. Cheng / 魏妙圭) returned the same hit set as prior passes (ourjourneys293 / -eng, TAH #2158, videos40, whoswho1065, Pew statement, index) — all already linked above; HOLD on 魏妙奎 vs 魏妙圭 stands. Verified-saturated.
 > Saturate-note (deepen-x slice 09260400-16, 2026-09-26): corpus re-grep ZH+EN (鄭信傳 / S. T. Cheng) returned the identical hit set (ourjourneys293 / -eng, TAH #2158, videos40, Pew statement, index) — all already linked above; SKIP this round, HOLD on 魏妙奎 vs 魏妙圭 stands. Verified-saturated.
+> Saturate-note (deepen-x slice 09300855-25, 2026-10-05): fresh ZH+EN grep (鄭信傳 / S. T. Cheng) of content/works + content/articles — hit set unchanged (ourjourneys293 / -eng, TAH #2158, videos40, Pew statement, works index); all corpus facts already absorbed above with wikilinks; HOLD on 魏妙奎 vs 魏妙圭 stands. Verified-saturated; SKIP-deepen. hits-hash=1e44999d2b97
