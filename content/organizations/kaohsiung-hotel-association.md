@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Kaohsiung Hotel Association
 
@@ -45,3 +45,4 @@ last_reviewed: 2026-10-04
 - [[sources/taiwancenter-org||taiwancenter.org]]
 
 - **2026-10-04 語料複核（slice 09300848-31）** — 重 grep（高雄市旅館／Kaohsiung Hotel）命中仍僅 ourjourneys295 一處，姊妹會脈絡已吸收，無新事實。SKIP-with-reason。hits-hash=ab93e7887489
+- **2026-10-05 語料複核（slice 09300900-31）** — 重 grep（高雄市旅館|Kaohsiung Hotel，single-quoted ERE）命中仍僅 ourjourneys295 一處，姊妹會與人口普查脈絡皆已吸收，無新事實可吸收。SKIP-with-reason。hits-hash=da39a3ee5e6b（依 deepen-revisit-audit.py 的名稱抽取式：本頁 frontmatter 無 name_zh/name_en，僅 title「Kaohsiung Hotel Association」→ 該工具命中集為空；姊妹會語料的「高雄市旅館業同業公會」變體寫法不在其名稱集內，故此 hash 為空集摘要，屬預期，非漏抓）

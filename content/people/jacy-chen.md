@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Jacy Chen (陳彩雲博士)
 
@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-check 2026-10-04 (slice 09300334-1): fresh grep re-hits only her own whoswho1573 stub, works index, and the 2019-09-04 NATWA joint-statement TJJ article (NATWA president signature already absorbed) -- hit set unchanged; saturated, no new material. hits-hash=be8e4777eff0
 
 - Corpus re-check 2026-10-04 (slice 09300848-31): fresh ZH+EN grep (陳彩雲/Jacy Chen) re-hit only whoswho1573 own stub, works index, and 20240221122756_root_53455d7e13136092 (2019-09-04 joint-statement NATWA signature, already in From the record) — hit set unchanged; saturated, no new material. hits-hash=3a7942e0a8c3
+- Corpus re-check 2026-10-05 (slice 09300900-31): fresh single-quoted ERE grep ('陳彩雲|Jacy Chen') over content/works + content/articles — 3 files, same set: own stub whoswho1573, works index, TJJ 2019-09-04 joint-statement article (NATWA 會長 signature already absorbed in From the record). Nothing new absorbable — SKIP, verified saturated, no conflicts. hits-hash=b1b2c48d3f13
