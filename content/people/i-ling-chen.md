@@ -67,3 +67,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (2026-10-05, slice 09300855-28)
 - Re-verified 2026-10-05 (slice 09300855-28): fresh ZH+EN re-grep 陳奕伶/I-Ling Chen — hit set unchanged (own TAH profiles #3, #748 + works index only); no memoir or event mention; similarly named distinct individuals (陳婉伶, Hui-Ling Chen) remain unmerged per note above. Verified-saturated, SKIP-with-reason. hits-hash=2e7ac5d52811 (depth_sweep convention).
+
+## Corpus re-grep (2026-10-05, slice 09300900-28)
+- Re-verified 2026-10-05 (slice 09300900-28): fresh ZH+EN re-grep 陳奕伶/I-Ling Chen — 3 hits, identical set (own TAH profiles #3, #748 + works index only); no memoir or event mention; nothing further absorbable. Similarly named distinct individuals (陳婉伶, Hui-Ling Chen) remain unmerged per note above. Verified-saturated, SKIP-with-reason. hits-hash=fd8a401bdafb (sha1 over sorted hit-path set).

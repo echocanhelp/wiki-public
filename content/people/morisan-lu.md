@@ -64,3 +64,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (2026-10-05, slice 09300855-28)
 - Re-verified 2026-10-05 (slice 09300855-28): fresh ZH+EN re-grep 呂明森/Morisan Lu — identical hit set (ourjourneys09, ourjourneys17, ourjourneys9-eng, whos-m-s-lu, works index), all already absorbed into Role in the Community above. No new memoir or event mention; no conflicts. Verified-saturated, SKIP-with-reason. hits-hash=6600c7413fdc (depth_sweep convention).
+
+## Corpus re-grep (2026-10-05, slice 09300900-28)
+- Re-verified 2026-10-05 (slice 09300900-28): fresh ZH+EN re-grep 呂明森/Morisan Lu — 5 hits, identical set (ourjourneys09, ourjourneys17, ourjourneys9-eng, whos-m-s-lu, works index), all already absorbed into Role in the Community above. No new memoir or event mention; no conflicts. Verified-saturated, SKIP-with-reason. hits-hash=4fd9302e02c3 (sha1 over sorted hit-path set).
