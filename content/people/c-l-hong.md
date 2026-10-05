@@ -65,3 +65,5 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-30 (slice 09260800-16): fresh grep 洪健棣 / C. L. Hong returned the identical hit set (whoswho1483, ourjourneys43, works index). SKIP: saturated, no new corpus material.
 
 - Re-verified 2026-10-04 (slice 09300315-22): fresh grep 洪健棣 / C. L. Hong（works+articles）returned the identical hit set (whoswho1483, ourjourneys43, works index). SKIP-with-reason: saturated, no new corpus material; hits-hash=325fb7f1bbb2.
+
+<!-- TJJ-A10020400-3: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020400-3 article 1f001897255f71a7 (亞特蘭大台裔長老教會放映場次, 2011-11-08): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

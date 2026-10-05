@@ -152,3 +152,5 @@ last_reviewed: 2026-10-01
 
 <!-- TJJ-A10020400-4: verified 2026-10-05 — wave-2 re-check of slice 10020400-4 article adc931e5b99bb0a9（van der Wees 評 2012 大選, 2012-01-29）: subject link re-checked vs 正文（馬英九 2008 黨產承諾未兌現／恐懼票論述見於正文）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10020400-1: verified 2026-10-05 — wave-2 re-check of slice 10020400-1 article taiwanjustice-net/index (存檔索引頁): subject link re-checked vs 正文 (列名於 Key Entities／Column Authors), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10020400-3: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020400-3 article 69b4f44f9c019bd5 (馬英九拒絕醫療釋放報導, 2013-06-10): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

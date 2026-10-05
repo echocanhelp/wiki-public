@@ -291,3 +291,7 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A10020400-4: verified 2026-10-05 — wave-2 re-check of slice 10020400-4 articles 4a5080befc342f69＋2c5d3c7d4f5acccc（戴琪與鄧振中視訊、重啟TIFA同文兩存檔, 2021-06-10）: subject link re-checked vs 正文（駐美大使蕭美琴出席台美視訊會議）, real, no wrong/spurious links; dated fact w/ both article wikilinks already in From the record — saturated, no new material. -->
 <!-- TJJ-A10020400-1: verified 2026-10-05 — wave-2 re-check of slice 10020400-1 article 3dfb23f1 前白宮官員肯定台灣新國安團隊: subject link re-checked vs 正文 (當選副總統、獲蔡英文信任、留任敘述確認), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10020400-3: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020400-3 article 760a0bc942e1676b (蕭美琴獲JCCIC直接邀請出席就職, 2021-01-20): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10020400-5: verified 2026-10-05 — wave-2 re-check of slice 10020400-5 articles 81e80ba38969bf88 / 9412105875987041 / 92917d4c9a88eba2 / fd270f41202454d7: subject links re-checked vs 正文, all real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
