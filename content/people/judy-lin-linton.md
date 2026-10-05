@@ -72,3 +72,7 @@ hits-hash=a289fb13fc38
 ## Corpus sweep (slice 09300855-4, verified 2026-10-04)
 - Full ZH+EN sweep of `works/` + `articles/` (林奐均 / Judy Linton / Judy Lin, strict names). Hit set identical to slice 09300848-4: my-stories 700/702, TAH #1557, ourjourneys69 ZH/EN, mystories337, plus the taiwanjustice-net press records on the 林宅血案 case (二二八74週年 2021-02-27; 陳菊赴林家墓園 2025-04-25; 賴清德出席義光教會 2025-04-28; 促轉會監控報告 2025-12-11; 林宅血案調查 2026-01-13). No new hits since the previous pass.
 - All new-pass text is press coverage of the case (mother 游阿妹 + twins killed, 林奐均 gravely wounded at 9), already absorbed. Verified-saturated, nothing new absorbable; no new conflict opened.
+
+## Corpus sweep (slice 09300900-4, verified 2026-10-05)
+- Fresh ZH+EN sweep of `works/` + `articles/` (林奐均 / Judy Linton / Judy Lin / Linton, index excluded). Strict-name hit set unchanged: my-stories 700/702, TAH #1557, ourjourneys69 ZH/EN, mystories337, CD #533, plus the five taiwanjustice-net press records on the 林宅血案 case (2021-02-27 二二八74週年; 2025-04-25 陳菊赴林家墓園; 2025-04-28 賴清德出席義光教會; 2025-12-11 促轉會監控報告; 2026-01-13 林宅血案調查). All memoir material already absorbed above; the press records cover the case, not her personally.
+- Verified-saturated, nothing new absorbable, no new conflict opened. hits-hash=cb37ff352802
