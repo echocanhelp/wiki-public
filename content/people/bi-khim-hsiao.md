@@ -288,3 +288,5 @@ _No filled family fields on the TAH profile._
 - 覆核（TJJ-A09300400-22, 2026-10-04）：本 slice 四篇快照頁 53455d7e（挺港聯合聲明, 2024-02-21 快照）、c9dd9fb7（Covid-19 浩劫餘生錄, 2021-11-29 快照）、9a66943e（台美人台加人 p353, 2024-04-21 快照）、2ac7d756（鄉情與文化 p3, 2020-06-28 快照）正文再驗證——subject 連結為真實提及（署名清單／專欄標題逐一對照），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
 
 <!-- TJJ-A10020900-1: verified 2026-10-05 — slice 10020900-1 articles (ad7f737b 第55回世界臺灣文化論壇大佛普拉斯 / c1e60306 蕭美琴缺席僑界活動 / 3246c11d 洛僑中心台灣藝術講座 / 88c15e54 蘇姿丰PCAST顧問) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10020400-4: verified 2026-10-05 — wave-2 re-check of slice 10020400-4 articles 4a5080befc342f69＋2c5d3c7d4f5acccc（戴琪與鄧振中視訊、重啟TIFA同文兩存檔, 2021-06-10）: subject link re-checked vs 正文（駐美大使蕭美琴出席台美視訊會議）, real, no wrong/spurious links; dated fact w/ both article wikilinks already in From the record — saturated, no new material. -->
