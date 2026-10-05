@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Herng-Shinn Hwang (黃恆信)
 
@@ -68,3 +68,4 @@ last_reviewed: 2026-10-04
 - Corpus re-check (2026-10-04, deepen-x slice 09300848-13, vault-only): fresh re-grep 黃恆信 / Herng-Shinn Hwang, hit set identical (#735 + works index) — SKIP, verified-saturated, no absorbable new facts. hits-hash=c748eaa4b02c (hit set unchanged; hash differs from 9f533f0b9060 only because this sweep pattern also covered articles/, where there are zero hits).
 
 - Corpus re-check (2026-10-04, deepen-x slice 09300855-13, vault-only): fresh re-grep 黃恆信 / Herng-Shinn Hwang (works + articles), hit set identical (#735 + works index, articles zero) — SKIP, verified-saturated, no absorbable new facts. hits-hash=c748eaa4b02c (same pattern set as 9f533f0b9060 wave — hit set identical).
+- Corpus re-check (2026-10-05, deepen-x slice 09300900-13, vault-only): fresh re-grep 黃恆信 / Herng-Shinn Hwang (works + articles), hit set identical (#735 + works index, articles zero) — SKIP, verified-saturated, no absorbable new facts. hits-hash=db0dbe1620af (sorted-file-set hash; hit set unchanged since 09270900-2 wave).

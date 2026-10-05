@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-05
 ---
 # LAPC Music Foundation (洛杉磯樂音音樂基金會)
 
