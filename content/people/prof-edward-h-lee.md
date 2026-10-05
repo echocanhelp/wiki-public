@@ -70,3 +70,5 @@ last_reviewed: 2026-10-05
 > Corpus re-scan 2026-10-05 (deepen-x slice 09300855-12, re-run): fresh ZH+EN grep — identical hit set (record #1676, ourjourneys-138, ourjourneys47, 2018-07-20 TJJ 連署名單, works index). Verified-saturated; SKIP — nothing new absorbable. hits-hash=3ce77ad1423c
 >
 > Corpus re-scan 2026-10-05 (deepen-x slice 09300900-12): fresh ZH+EN grep 李賢淇/Edward H Lee — identical hit set (record #1676, ourjourneys-138, ourjourneys47, 2018-07-20 TJJ 連署名單, works index). Verified-saturated; SKIP — nothing new absorbable. hits-hash=b8c699357cb7
+>
+> Corpus re-scan 2026-10-05 (deepen-x slice 09300927-12): fresh ZH+EN grep - identical hit set (record #1676, ourjourneys-138, ourjourneys47, 2018-07-20 TJJ petition list, works index). Verified-saturated; SKIP - nothing new absorbable. hits-hash=b8c699357cb7

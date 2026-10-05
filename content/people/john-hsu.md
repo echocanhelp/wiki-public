@@ -9,7 +9,7 @@ tags:
   - real-estate
   - los-angeles-area
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-05
 ---
 # John Hsu (許惠欽)
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-10-01
 - 2026-10-04 (slice 09300848-6) re-grep (許惠欽 / John Hsu, works+articles): hit set unchanged — whos-who-2262 + whos-who-873 + ota-287 are the OTHER John Hsu (許作初 real-estate / 徐新宏 nuclear, both disambiguated at top); works index = directory listing only. Zero corpus record of this John Hsu (許惠欽, STC real-estate); nothing absorbable. Verified-saturated. SKIP. hits-hash=932d13407974
 - 2026-10-04 (slice 09300855-6) re-grep (John Hsu / 許惠欽, works+articles): hit set identical to the two logs above — whos-who-2262, whos-who-873, ota-287 (all the OTHER John Hsu — 許作初 / 徐新宏, disambiguated at top) + works index (directory listing only, no entry for either John Hsu). Zero corpus record of this John Hsu (許惠欽, STC real-estate); nothing absorbable. Verified-saturated. SKIP. hits-hash=fc8de0295138
 - 2026-10-05 (slice 09300900-6) re-grep (許惠欽 / John Hsu, works+articles): 許惠欽 zero hits; John Hsu hits = whos-who-2262 (許作初), whos-who-873 + ota-287 (徐新宏), works index — all other persons, disambiguated at top. Hit-set content re-verified this run: no corpus record of this John Hsu (許惠欽, STC real-estate); nothing absorbable. Verified-saturated. SKIP. hits-hash=4ba042ffbd16
+- 2026-10-05 (slice 09300927-6) re-grep (許惠欽 / John Hsu, works+articles): hit set identical — index + whos-who-2262 (許作初) + whos-who-873 + ota-287 (徐新宏); 許惠欽 zero hits. All hits are the OTHER John Hsus, disambiguated at top. No corpus record of this John Hsu (許惠欽, STC real-estate); nothing absorbable. Verified-saturated. SKIP. hits-hash=9dc610648bcf
