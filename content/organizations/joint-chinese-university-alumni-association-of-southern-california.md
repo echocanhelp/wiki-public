@@ -48,3 +48,4 @@ last_reviewed: 2026-10-05
 - [[sources/taiwancenter-org||taiwancenter.org]]
 
 - 2026-10-05 (slice 09300927-24) re-grep (ERE '大專聯合校友會|Joint Chinese University'): 5 files unchanged — WHA 聯合聲明 (2021 original + 2025 存檔), 太魯閣號慰問函, works/index, concerts90; body contexts re-read verbatim (concert title 「台灣音樂風音樂會 by 台灣大專聯合校友會」, 兩校名並列於同一發起名單, Taroko 募款署名). SKIP-content (verified-saturated): no new facts; two-name HOLD unchanged. hits-hash=84b45e519f0e
+- 2026-10-05 (slice 09301000-24) re-grep (ERE '大專聯合校友會|Joint Chinese University'): 5 files unchanged — WHA 聯合聲明 (2021 original + 2025 存檔), 太魯閣號慰問函, works/index, concerts90; all already linked above. SKIP-content (verified-saturated): no new facts; two-name HOLD unchanged. hits-hash=8dafb8ba9f20
