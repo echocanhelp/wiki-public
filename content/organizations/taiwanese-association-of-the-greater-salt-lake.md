@@ -52,3 +52,4 @@ Absorbed from the TAH story corpus (salt-lake/utah re-grep 2026-09-18). The chap
 - [[organizations/taiwanese-association-of-america||Taiwanese Association of America (TAA)]]
 - [[people/dr-jian-juei-wang||Dr. Jian-Juei Wang]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-check (2026-10-05, deepen-x slice 09301017-13): fresh grep -rlE `大鹽湖|Greater Salt Lake|TAGSL` of works+articles returns only the own TAH record + works index (hit set unchanged since 09250700-8; wide-Salt-Lake-set facts — president Dr. Jian-Juei Wang, SLC ecosystem, TAC-WC region, Max Chang native-born — already absorbed above) — SKIP, verified-saturated. hits-hash=4064be5ff576 (narrow pattern set).
