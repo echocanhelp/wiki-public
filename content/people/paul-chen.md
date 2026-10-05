@@ -332,3 +332,5 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 
 <!-- TJJ-A09260600-8: verified 2026-09-27 — subject links in slice 09260600-8 articles (f6ed9463 2013核四表決名單 / 0258611f 2024-05-19 520就職報導 / 06510e79 2020-11-19 林榮松獲聘政務顧問 / 77328a2c 2016-06-12 會館第十屆董事會) re-checked vs 正文; all real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
 <!-- TJJ-A10020700-1: verified 2026-10-05 — wave-2 re-check of slice 10020700-1 article 95fd8186 二二八77周年洛杉磯會館追思: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10020400-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020400-2 articles (da7f84e2 / 24119694 / 43b81b6b / 79291dad): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

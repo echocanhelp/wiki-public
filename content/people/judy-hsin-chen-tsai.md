@@ -61,3 +61,5 @@ last_reviewed: 2026-09-30
 <!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (79291dad808ef7f7 大洛杉磯台灣會館會訊 2018-06); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - Re-verified 2026-09-30 (deepen-x slice 09260800-12): fresh ZH+EN grep (蔡幸珍 / Judy Hsin-Chen Tsai) — 蔡幸珍 literal matches in works/ + articles/ = none beyond page self-references; EN-name grep hits only [[works/taiwaneseamericanhistory-org/845-judy-hsin-chen-tsai-201602|TAH #845]] (+ a near-name false positive: Hsin-Cheng Hsiao 蕭信正, different person). No new memoir/article mentions. SKIP-with-reason: saturated.
+
+<!-- TJJ-A10020400-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020400-2 articles (da7f84e2 / 24119694 / 43b81b6b / 79291dad): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

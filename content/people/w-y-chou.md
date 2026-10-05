@@ -71,3 +71,5 @@ last_reviewed: 2026-10-01
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (24119694dbb384c9 刺蔣案50週年對談報導); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10020400-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020400-2 articles (da7f84e2 / 24119694 / 43b81b6b / 79291dad): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

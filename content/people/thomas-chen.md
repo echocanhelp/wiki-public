@@ -67,3 +67,5 @@ last_reviewed: 2026-09-27
 
 <!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (43b81b6b892fea96 世台基金會公益晚宴報導); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 - 2026-09-27 deepen-x slice 09260700-11: verified-saturated re-verify — fresh ZH+EN grep hit set identical (mystories129, ota-275, 307, index, TJJ 2022 世台晚宴, Pew statement signatory under HOLD); nothing new absorbable.
+
+<!-- TJJ-A10020400-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020400-2 articles (da7f84e2 / 24119694 / 43b81b6b / 79291dad): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
