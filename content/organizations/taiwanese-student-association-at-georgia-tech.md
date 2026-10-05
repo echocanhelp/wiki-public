@@ -50,3 +50,5 @@ Re-grep 2026-09-30 (slice 09260854-3): corpus hits again unchanged (two GT event
 Re-grep 2026-10-04 (slice 09300348-1): corpus hits again unchanged (two GT event works + ourjourneys256 venue list + works index; other "Taiwanese Student Association" matches are unrelated USC/OSU/UW/TSAPA chapters). No corpus record names the GT TSA chapter itself. Corpus-saturated, SKIP-for-deepening. hits-hash=07a369889ae9.
 
 Re-grep 2026-10-05 (slice 09300855-22): exact "Georgia Tech" grep of works/ + articles/ returns only the two recorded GT event works (ITASA East Coast Conference 2012, Taiwanese Night Market 2014) + ourjourneys256 venue mention + works index. No corpus record names the GT TSA chapter itself. Corpus-saturated, SKIP-for-deepening. hits-hash=6c881d3fd25f.
+
+Re-grep 2026-10-05 (slice 09300927-22): exact "Georgia Tech" grep of works/ + articles/ returned the identical hit set (two GT event works + ourjourneys256 venue mention + works index). No corpus record names the GT TSA chapter itself; HOLD attribution note retained. Corpus-saturated, SKIP-for-deepening. hits-hash=2992c843fdfe
