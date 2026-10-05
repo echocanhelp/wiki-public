@@ -73,3 +73,5 @@ last_reviewed: 2026-10-05
 <!-- deepen-x 09300848-11 (2026-10-04): fresh ZH+EN grep (林宣緒 / Adrian Lin, works+articles) — hit set unchanged (ourjourneys123 ZH/EN 會長名單與夏令會詞料, whoswho918 own entry, TJJ newsletter 兩份同文, works/index 目錄命中 only); all hits已吸收並 wikilink, no new community material. verified-saturated, SKIP-no-new-facts. hits-hash=23d0d2bd9ea9 -->
 
 <!-- deepen-x 09300900-11 (2026-10-05): fresh ZH+EN grep (林宣緒 / Adrian Lin, works+articles) — 6 hits, set unchanged (ourjourneys123 ZH/EN, whoswho918, TJJ 兩份同文, works/index 目錄命中 only); all absorbed & wikilinked, no new community material. verified-saturated, SKIP-no-new-facts. hits-hash=bcf246421abf -->
+
+<!-- deepen-x 09300927-11 (2026-10-05): fresh ZH+EN grep (林宣緒 / Adrian Lin, works+articles) — 6 hits, set identical to prior passes (ourjourneys123 ZH/EN 會長名單與夏令會詞料, whoswho918 本人條目, TJJ 2021/2026 兩份同文病西施婚事, works/index 目錄命中 only); content-level re-check: no new memoir mentions. verified-saturated, SKIP-no-new-facts. hits-hash=3478c1886e52 -->
