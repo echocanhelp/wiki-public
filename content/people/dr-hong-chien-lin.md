@@ -60,3 +60,5 @@ last_reviewed: 2026-10-05
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Corpus re-verify (deepen-x slice 09300855-20, 2026-10-05; 林洪謙 / Dr. Hong-Chien Lin, depth_sweep convention): fresh ZH+EN grep of works/ + articles/ returns 11 files — TAH #163, #108, #91, #325, #8, #149, Our Journeys 74 + ENG, Our Journeys 377, works index, TJJ 2018-07-20 抗議函 — identical to the set already wikilinked above (NATMA 創會名單、TAF 營隊家長名單、文學供稿、管中閔聯署均已吸收). No new material. Verified-saturated, SKIP-for-deepening. hits-hash=41432567bec5
+
+Corpus re-grep 2026-10-05 (DEEPEN-X slice 09300900-20) (林洪謙 / Dr. Hong-Chien Lin): fresh single-quoted ERE ZH+EN grep of works/+articles/ returns 11 files — TAH #163, #108, #91, #325, #8, #149, Our Journeys 74 + ENG, Our Journeys 377, works index, TJJ 2018-07-20 抗議函 — identical to the set already wikilinked above (NATMA 創會名單、TAF 營隊家長名單、文學供稿、管中閔聯署均已吸收). No new material. Verified-saturated, SKIP-for-deepening. hits-hash=9ae32c48b4c2
