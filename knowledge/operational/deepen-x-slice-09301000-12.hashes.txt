@@ -1,0 +1,1 @@
+hits-hash (md5 of sorted non-index hit-file list, fresh ERE grep 2026-10-05): stanley-hsiao=a63cd2f24005 / chien-tai-chen=8421c63d71b7 / yin-chin-foundation-of-u-s-a=d5510d461b32 / prof-edward-h-lee=2458096ae0cc (all 4 verified-saturated; hit sets identical to prior slices — no new corpus material to absorb; 0 deepened, 4 skipped, 0 new corpus links)
