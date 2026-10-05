@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Alumni Association of Chia Yi High School Worldwide (AACHW)
 
@@ -57,3 +57,5 @@ Re-grep 2026-10-03 (slice 09300315-8): 嘉中校友 / Chia Yi High School / AACH
 - [[sources/taiwancenter-org||taiwancenter.org]]
 
 Re-grep 2026-10-04 (slice 09300848-14): fresh ZH+EN grep (嘉中校友/嘉義高中校友/嘉義中學/Chia Yi High School/AACHW) across works+articles — zero hits; identical to all prior passes (verified-saturated). SKIP, no new facts, HOLD (Worldwide vs. SoCal branch) stands.
+
+Re-grep 2026-10-05 (slice 09300855-14): fresh ZH+EN grep (嘉中 / 嘉義高中 / 嘉義中學 / Chia Yi High School / AACHW) across content/works + content/articles returns 7 files — exactly the cited set: [[works/taiwaneseamericanhistory-org/sccaa|sccaa]], [[works/taiwaneseamericanhistory-org/592-e5-8d-97-e5-8a-a0-e5-b7-9e-e5-98-89-e4-b8-ad-e6-a0-a1-e5-8f-8b-e6-9c-83-e5-b|年刊 592]], [[works/taiwaneseamericanhistory-org/12-62|12-62 青年培訓]], [[works/taiwaneseamericanhistory-org/my-stories-687|my-stories-687]], works index, and the 鄭炳全 memoir ×2 captures ([[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|2025]], [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|2024 保存]]) — all already absorbed and linked. hits-hash=9a89a835aca1 (7 files, sha1[:12] of sorted grep paths). Verified-saturated, no new facts, HOLD (Worldwide vs. SoCal branch) stands; SKIP.

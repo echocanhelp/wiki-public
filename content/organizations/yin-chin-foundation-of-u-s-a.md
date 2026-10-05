@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # YIN CHIN FOUNDATION OF U.S.A. (美國殷勤文教公益基金會)
 
@@ -43,3 +43,5 @@ The Yin Chin Foundation of U.S.A. is a nonprofit charitable organization registe
 - Re-grep 2026-10-04 (slice 09300348-1): ZH+EN grep across works+articles returns exactly the cited record set (awards67, whoswho1437, own directory record, both WHA statement captures, works index) — verified saturated, no new facts, no conflicts; hits-hash=adf6cdf8a999.
 
 - Re-grep 2026-10-04 (slice 09300855-12): ZH+EN grep re-run this attempt (殷勤文教/殷清隆/殷敏寬/Yin Chin) across works+articles returns exactly the cited record set (awards67, whoswho1437, own directory record, both WHA statement captures, works index) — verified saturated, no new facts, no conflicts; hits-hash=d0158cf91c7d.
+- 2018 — founder 殷清隆 served as the 台美商會 representative (團體董事) on the 大洛杉磯台灣會館 11th-board roster elected at the June 2018 members' assembly, per the 會館 會訊 record: [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7|2018-06-27 大洛杉磯台灣會館會訊存檔]] — places the foundation's founder inside the LA center's cross-organization leadership.
+- 2019–2020 — founder 殷清隆 is listed as a co-organizer of 2020海外小英後援會 (Los Angeles chapter, led by 田詒鴻), identified in the coverage as 殷勤文教公益基金會創辦人: [[articles/taiwanjustice-net/2024/20240613093234_root_1d72b2ae61640747|2020-09 TJJ 海外小英後援會報導存檔]] — the foundation's founder's public civic role extended beyond charitable grantmaking into electoral mobilization; note the record attributes this to 殷清隆 personally, not the foundation as an institution.

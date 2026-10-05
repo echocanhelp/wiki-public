@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Walter M. Yang (楊茂嘉博士)
 
@@ -62,3 +62,5 @@ last_reviewed: 2026-10-04
 <!-- deepen-x re-verify slices 09210831-3 to 09260400-5 --> — re-grep 2026-10-03 (slice 09300315-12): fresh ZH+EN grep of works/+articles/ — hit set unchanged (awards-92, 401, ourjourneys275, works index, pew statement, taiwanjustice 2018 管中閔 report), all already absorbed; verified-saturated SKIP. hits-hash=800ddcc2f580
 
 <!-- deepen-x re-verify slices 09210831-3 to 09260400-5 --> — re-grep 2026-10-04 (slice 09300848-18): fresh ZH+EN grep of works/+articles/ — hit set unchanged (awards-92, 401, ourjourneys275, works index, pew statement, taiwanjustice 2018 管中閔 report), all already absorbed; verified-saturated SKIP. hits-hash=5b26f3485313
+
+<!-- deepen-x 2026-10-05, slice 09300855-18 --> — re-grep: fresh ZH+EN grep of works/+articles/ — hit set unchanged, all hits already absorbed and wikilinked; verified-saturated. SKIP-with-reason. hits-hash=800ddcc2f580

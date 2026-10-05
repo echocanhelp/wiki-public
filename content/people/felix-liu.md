@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Felix Liu (劉富理牧師)
 
@@ -73,3 +73,5 @@ Re-grep (deepen-x 2026-09-30, slice 09260800-7): fresh ZH+EN re-grep (劉富理 
 <!-- deepen-x 2026-09-30, slice 09260800-7 --> — re-grep 2026-10-03 (slice 09300315-12): fresh ZH+EN grep of works/+articles/ — hit set unchanged (Who's Who #214, feature #268, Our Journeys #257, works index), all hits already absorbed and wikilinked; page verified-saturated. SKIP-with-reason. hits-hash=7b4b877476eb
 
 <!-- deepen-x re-verify slices 09181500-17 to 09260800-7 --> — re-grep 2026-10-04 (slice 09300848-18): fresh ZH+EN grep of works/+articles/ — hit set unchanged (Who's Who #214, feature #268, Our Journeys #257, works index), all hits already absorbed and wikilinked; page verified-saturated. SKIP-with-reason. hits-hash=ec1bf7497074
+
+<!-- deepen-x 2026-10-05, slice 09300855-18 --> — re-grep: fresh ZH+EN grep of works/+articles/ — hit set unchanged, all hits already absorbed and wikilinked; verified-saturated. SKIP-with-reason. hits-hash=7b4b877476eb

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Prof. Maw-Kuen Wu (吳茂昆教授)
 
@@ -63,3 +63,5 @@ _No filled family fields on the TAH profile._
 - 2026-10-03 — deepen-x slice 09300315-9: re-verify SKIP — fresh ZH+EN grep (吳茂昆 / Maw-Kuen Wu) returns the identical saturated hit set (own-record works #142 + #646, works index, and the two linked TJJ records); no memoir mentions of 吳茂昆 anywhere in content/works or content/articles; no new absorbable fact. Tenure-range HOLD (Director "2002-2004, 2016-2012" vs "(2002-)") stands. hits-hash=f0d46da96e63
 
 - 2026-10-04 — deepen-x slice 09300848-14: re-verify SKIP — fresh ZH+EN grep (吳茂昆 / Maw-Kuen Wu) returns zero hits in content/works + content/articles; identical to all prior passes (verified-saturated); tenure HOLD (Director "2002-2004, 2016-2012" vs "(2002-)") stands.
+
+- 2026-10-05 — deepen-x slice 09300855-14: re-verify SKIP — fresh ZH+EN grep (吳茂昆 / Maw-Kuen Wu / Wu Maw-Kuen) returns 5 files: own-record works [[works/taiwaneseamericanhistory-org/142-prof-maw-kuen-wu|#142]] + [[works/taiwaneseamericanhistory-org/whos-who-646-wu-maw-kuen|#646]], works index, and the two already-linked TJJ records ([[articles/taiwanjustice-net/2023/20230322155952_tag_貪汙_e509e1f4141f5c8a|貪汙 tag]], [[articles/taiwanjustice-net/2025/20250518215329_論文案-陳其邁_3分鐘可解決為何要拖著_民進黨批_99294ec7acb0fca8|TJJ 2025-05-18]]); no memoir mentions of 吳茂昆 anywhere in content/works or content/articles. hits-hash=1892a15f62cf (5 files, sha1[:12] of sorted grep paths). Verified-saturated, nothing new absorbable; tenure HOLD stands.
