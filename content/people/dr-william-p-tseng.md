@@ -63,3 +63,5 @@ Dr. William P. Tseng 曾伯聰醫師 – History of Taiwanese American (T.A. Arc
 - 2026-10-04 語料複核 (slice 09300855-10): fresh grep (曾伯聰 / William P. Tseng, works+articles) — hit set identical to prior passes (whos-who-1862 + works/index only); no memoir/article mentions. SKIP-content (verified-saturated): nothing absorbable, no conflicts to HOLD. hits-hash=b5277aacbceb
 
 - 2026-10-05 語料複核 (slice 09300900-10): fresh grep (曾伯聰 / William P. Tseng, works+articles) — hit set identical to prior passes (own work page whos-who-1862 + works/index only); no memoir or article mentions. SKIP-content (verified-saturated): nothing absorbable, no conflicts to HOLD; 「曾伯元」辨析備註維持. hits-hash=b5277aacbceb
+
+- 2026-10-05 語料複核 (slice 09300927-10): fresh grep (曾伯聰 / William P. Tseng, works+articles) — hit set identical to prior passes (own work page whos-who-1862 only); no memoir or article mentions. SKIP-content (verified-saturated): nothing absorbable, no conflicts to HOLD; 「曾伯元」辨析備註維持. hits-hash=b1bdb2c070cf
