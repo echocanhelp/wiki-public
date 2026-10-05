@@ -190,3 +190,4 @@ Notable quotes and mentions of **黃樹人** in Taiwan Justice articles:
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]]
 - [[people/yang-jia-you||Charles Yang (楊嘉猷)]]
+<!-- TJJ-A10020400-1: verified 2026-10-05 — wave-2 re-check of slice 10020400-1 article taiwanjustice-net/index (存檔索引頁): subject link re-checked vs 正文 (列名於 Key Entities／Column Authors), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
