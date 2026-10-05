@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # C. Y. Chen (陳黃群雁)
 
@@ -71,3 +71,4 @@ Corpus re-check 2026-09-25 (deepen-x slice 09240700-9): fresh grep 陳黃群雁 
 _Corpus re-check 2026-09-26 (deepen-x slices 09251000-1 / 09260317-16 — fresh grep each time): hit set identical to records already wikilinked/absorbed above; no new absorbable facts. SKIP-with-reason: saturated._
 
 Corpus re-check 2026-10-04 (deepen-x slice 09300855-3, third pass): fresh grep 陳黃群雁 / "C. Y. Chen" of works/ and articles/ — hit set unchanged (whoswho1141, works/index bibliographic listing, TJJ 228 report); re-verified the TJJ 228 report body — her 副董事長 attendance listing already absorbed. SKIP-with-reason: saturated, nothing new absorbable, hits-hash=de6bbe6be5cc+2b9b41f84597 (matches deepen-x-slice-09300855-3.hashes.txt).
+_Corpus re-check 2026-10-05 (deepen-x slice 09300900-3): fresh grep 陳黃群雁 / "C. Y. Chen" of works/ and articles/ — hit set unchanged (whoswho1141, works/index bibliographic listing, TJJ 228 report); TJJ report body re-verified — 副董事長 guest listing already absorbed. SKIP-with-reason: saturated, nothing new absorbable, hits-hash=e4851e627b2a (sha1 over sorted hit-set paths)._

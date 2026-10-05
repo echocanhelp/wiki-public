@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Long Lee (李隆吉)
 
@@ -62,3 +62,4 @@ last_reviewed: 2026-10-04
 - 語料複核（deepen-x slice 09260700-23, 2026-09-27）：fresh ZH+EN 再檢命中集相同（ourjourneys212／240／283／whoswho1424／Pew 聲明＋索引），全部已吸收；verified saturated，SKIP-with-reason；配偶 HOLD（須藤正子 vs 鄭美招）持續未解。
 - 語料複核（deepen-x slice 09300315-2, 2026-10-03）：fresh ZH+EN 再檢命中集相同（ourjourneys212／240／283／whoswho1424／Pew 聲明＋索引），全部已吸收；verified saturated，SKIP-with-reason，hits-hash=a627f910f528；配偶 HOLD（須藤正子 vs 鄭美招）持續未解。
 - 語料複核（deepen-x slice 09300855-3, 2026-10-04, third pass）：fresh ZH+EN 再檢命中集相同（ourjourneys212／240／283／whoswho1424／Pew 聲明＋索引），全部已吸收；verified saturated，SKIP-with-reason，hits-hash=57bf00e09e03+a55aaf8c12e8（匹配 deepen-x-slice-09300855-3.hashes.txt）；配偶 HOLD（須藤正子 vs 鄭美招）持續未解。
+- 語料複核（deepen-x slice 09300900-3, 2026-10-05）：fresh ZH+EN 再檢命中集相同（ourjourneys212／240／283／whoswho1424／Pew 聲明＋索引），全部已吸收；生活座談會名單與黃春明接待段落按原文再驗證無新事實。Verified saturated — SKIP-with-reason，hits-hash=bfd64a1eb329（sha1 over sorted hit-set paths）；配偶 HOLD（須藤正子 vs 鄭美招）持續未解。

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Professor Schuman S. Tu (杜新茂教授)
 
@@ -60,3 +60,4 @@ Professor Schuman S. Tu 杜新茂 – History of Taiwanese American (T.A. Archiv
 <!-- deepen-x slice 09300315-4 re-verify 2026-10-04: fresh ZH+EN grep (杜新茂 / Schuman) — hit set identical (#145, #156, #162, OJ282, #97, OJ17 + index; Schumann piano matches #520/#532 + 週末漫談音樂 series remain classical-music false positives, no 杜新茂 content). All absorbed. SKIP — verified-saturated. hits-hash=4367fe038ca4 -->
 
 <!-- deepen-x slice 09300848-6 re-verify 2026-10-04: fresh ZH+EN grep (杜新茂 / Schuman) — hit set identical (#145, #156, #162, OJ282, #97, OJ17 + index; Schumann piano false positives #520/#532 + 週末漫談音樂 series re-verified as name-collision noise, zero 杜新茂 content). SKIP — verified-saturated. hits-hash=4367fe038ca4 -->
+- 2026-10-05 (slice 09300900-6) re-grep (杜新茂 / Schuman, works+articles): hit set identical — #145, #156, #162, OJ282, #97, OJ17 + index; Schumann matches (#520, #532, MANIFEST.jsonl, 週末漫談音樂 2026 article) re-verified this run as classical-piano name-collision noise with zero 杜新茂 content. All real hits already absorbed and wikilinked. Verified-saturated. SKIP. hits-hash=d470b01c62ab

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Li-Shun Lu (呂理順)
 
@@ -65,3 +65,4 @@ Senior Staff Engineer to Engineering Consultant
 - Corpus re-grep 2026-10-04 (slice 09300855-3): fresh ZH+EN grep — hit set identical to prior passes (mystories444, our-journeys-359, ourjourneys-139, whos1080; + works/index bibliographic listing). Verified saturated — SKIP-with-reason, nothing new absorbable. hits-hash=6fccbb828b49 (sha1 over works+articles hit-set).
 - Corpus re-grep 2026-10-04 (slice 09300855-3, re-run after crash): fresh ZH+EN grep re-verified — hit set identical (mystories444, our-journeys-359, ourjourneys-139, whos1080, + works/index bibliographic listing; zero hits in articles/). Verified saturated — SKIP-with-reason, nothing new absorbable. hits-hash=feb9a58028a3+e80b1af687fd (this run's recipe: sha1 over sorted hit-set paths, and paths+content-sha1s; prior 6e6668e68757 / 6fccbb828b49 used earlier recipes — do not compare across recipes; match against deepen-x-slice-09300855-3.hashes.txt next audit).
 - Corpus re-grep 2026-10-04 (slice 09300855-3, third pass): fresh ZH+EN grep — hit set unchanged (mystories444, our-journeys-359, whos1080, ourjourneys-139, + works/index bibliographic listing); content grep returned title lines only, no new absorbable facts. Verified saturated — SKIP-with-reason, matching recorded hits-hash=feb9a58028a3+e80b1af687fd.
+- Corpus re-grep 2026-10-05 (slice 09300900-3): fresh ZH+EN grep — hit set unchanged (mystories444, ourjourneys-139, our-journeys-359, whos1080, + works/index bibliographic listing); content grep returned title lines plus the already-absorbed 陳淮崇回憶錄 roster/「豬寮」passage, no new facts. Verified saturated — SKIP-with-reason, hits-hash=11c5566ca0a1 (sha1 over sorted hit-set paths).
