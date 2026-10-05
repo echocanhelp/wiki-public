@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # 〈TASS-EB〉 (北加州東灣台美人長樂會)
 
@@ -50,3 +50,5 @@ The corpus preserves TASS-EB's own publishing output — member-authored 台美�
 - 2026-10-04 deepen-x slice 09300848-10: SKIP confirmed — fresh grep (TASS-EB／東灣台美人長樂會) over content/works + content/articles returns the identical six records (directory profile, newsletter, 1348/1349/1350/1359) plus the works index, all already wikilinked in Role in the Community; no new East Bay facts. Verified-saturated, nothing new absorbable. hits-hash=5ac4f27ee6ac
 
 - 2026-10-04 deepen-x slice 09300855-10: SKIP confirmed — fresh grep (TASS-EB／東灣台美人長樂會) over content/works + content/articles returns the identical six records (directory profile, newsletter, 1348/1349/1350/1359) plus the works index, all already wikilinked in Role in the Community; no new East Bay facts. Verified-saturated, nothing new absorbable. hits-hash=0b3e51d91fa4
+
+- 2026-10-05 deepen-x slice 09300900-10: SKIP confirmed — fresh grep (TASS-EB／東灣台美人長樂會) over content/works + content/articles returns the identical six records (directory profile, newsletter, 1348/1349/1350/1359) plus the works index, all already wikilinked in Role in the Community; no new East Bay facts. Verified-saturated, nothing new absorbable. hits-hash=5ac4f27ee6ac

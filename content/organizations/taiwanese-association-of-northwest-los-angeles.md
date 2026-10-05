@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Taiwanese Association of Northwest Los Angeles
 
@@ -28,6 +28,7 @@ TANLA (洛杉磯西北區台灣同鄉會) is one of the better-documented LA-are
 - [[works/taiwaneseamericanhistory-org/activities-of-tanla|TANLA 洛杉磯西北區台灣同鄉會的活動]]（2019-01-10）— activity record.
 - [[works/taiwaneseamericanhistory-org/newsletter-of-tanla|TAA/Northwest Los Angeles Chapter（洛杉磯西北區台灣同鄉會）通訊]]（2019-06-15）— the association published a newsletter.
 - 2021-07 — held「TANLA 醫療講座系列第一講：疫情的劫數餘生」amid the pandemic（[[articles/taiwanjustice-net/2021/20210927004805_2021_07_25_tanla-醫療講座系列第一講-疫情的劫數餘生影_d108a309e84da75a|TJJ, 2021-07-25]]）— community health programming as a member association activity; the lecture was covered again in TJJ's Covid-19 浩劫餘生錄 series ([[articles/taiwanjustice-net/2021/20211205042210_category_covid-19_007a2c2acbaa178b|TJJ index, 2021-12-05]]).
+- 2016-02 — 聯合主辦單位 of 大洛杉磯台灣會館's 南臺灣大地震（0206）救災募款，與台美人歷史協會、PCT 洛杉磯分會、NATWA、台灣人長輩會等南加州社團並列（[[articles/taiwanjustice-net/2023/20230204025720_2016_02_10_南臺灣大地震-大洛杉磯台灣會館關懷故鄉-發起救災_7b4a687c89ee1a3d|TJJ record, filed 2023-02-04]]) — cross-community disaster-relief mobilization.
 - 2021-05-13 — co-initiator (共同發起單位) of the 南加州僑界支持台灣參與世界衛生大會（WHA）聯合聲明, the cross-community LA statement read at 洛杉磯華僑文教服務中心 ([[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ, 2021-06-16]]) — TANLA signed alongside 台美人歷史協會, 台灣會館, NATWA, and PCT LA.
 
 ## Source Notes
@@ -57,3 +58,5 @@ TANLA (洛杉磯西北區台灣同鄉會) is one of the better-documented LA-are
 > 複核（deepen-x 2026-10-04, slice 09300848-10）: fresh grep TANLA / 洛杉磯西北區台灣同鄉會 / Northwest Los Angeles — same 4-work TANLA cluster (history-of-tanla, tanla, activities-of-tanla, newsletter-of-tanla) + TJJ 醫療講座/WHA/228/傳統週/tag-category articles + MANIFEST/index only; all already linked in Role in the Community. SKIP-deepen (verified saturated); nothing new absorbable. hits-hash=bbc8282d7a3e
 
 > 複核（deepen-x 2026-10-04, slice 09300855-10）: fresh grep TANLA / 洛杉磯西北區台灣同鄉會 / Northwest Los Angeles — same 4-work TANLA cluster (history-of-tanla, tanla, activities-of-tanla, newsletter-of-tanla) + TJJ 醫療講座/WHA/228/傳統週/tag-category articles + MANIFEST/index only; all already linked in Role in the Community. SKIP-deepen (verified saturated); nothing new absorbable. hits-hash=ab2afb31dabe
+
+> 複核（deepen-x 2026-10-05, slice 09300900-10）: fresh grep TANLA / 洛杉磯西北區台灣同鄉會 / Northwest Los Angeles — same hit set (4-work TANLA cluster + TJJ 醫療講座/WHA/228/傳統週/tag-root articles + MANIFEST/index). One previously-unabsorbed fact found in the 2016 earthquake-relief article (TANLA listed as 聯合主辦單位 of 大洛杉磯台灣會館's 0206 救災募款) — absorbed into Role in the Community with wikilink. All other hits already linked. hits-hash=bbc8282d7a3e
