@@ -86,3 +86,5 @@ Second vault-only pass: all cited-source facts remain fully absorbed (incl. the 
 - 複核（TJJ-A09260500-16, 2026-09-27）：本 slice 僅 4119cffe（音樂短講第13集 2025 存檔重刊）涉本人——特別講座「泛音」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2020-12-13 條目已在庫 — SKIP，已飽和。
 
 <!-- TJJ-A09260500-18: verified 2026-09-27 — slice articles (c83c2315 王廷宜追思會 / 426d2811 楊子清音樂短講13集 / e7e2a1e1＋025f6ed9 以立希望之光兩存檔副本) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10020400-6: verified 2026-10-05 — slice 10020400-6 articles (c83c2315 王廷宜追思會 / 426d2811 楊子清音樂短講13集 / e7e2a1e1＋025f6ed9 以立希望之光兩存檔副本) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

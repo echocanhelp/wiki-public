@@ -135,3 +135,7 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09260500-17: verified 2026-09-27 — slice 09260500-17 articles (2b4b26ff English Pages目錄 / de11e295 半音合唱團國家音樂廳錄影 / 526ee7d6 以立拯救我 / 928db8aa 以立森林王子) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260500-18: verified 2026-09-27 — slice articles (c83c2315 王廷宜追思會 / 426d2811 楊子清音樂短講13集 / e7e2a1e1＋025f6ed9 以立希望之光兩存檔副本) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10020400-6: verified 2026-10-05 — slice 10020400-6 articles (c83c2315 王廷宜追思會 / 426d2811 楊子清音樂短講13集 / e7e2a1e1＋025f6ed9 以立希望之光兩存檔副本) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10020400-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020400-2 articles (da7f84e2 / 24119694 / 43b81b6b / 79291dad): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

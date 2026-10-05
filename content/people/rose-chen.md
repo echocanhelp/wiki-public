@@ -87,3 +87,5 @@ Corpus-absorbed (deepen-x slice 28, 2026-09-14) from 鍾澄文's column [[articl
 
 
 <!-- TJJ-A09260500-18: verified 2026-09-27 — slice articles (c83c2315 王廷宜追思會 / 426d2811 楊子清音樂短講13集 / e7e2a1e1＋025f6ed9 以立希望之光兩存檔副本) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10020400-6: verified 2026-10-05 — slice 10020400-6 articles (c83c2315 王廷宜追思會 / 426d2811 楊子清音樂短講13集 / e7e2a1e1＋025f6ed9 以立希望之光兩存檔副本) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
