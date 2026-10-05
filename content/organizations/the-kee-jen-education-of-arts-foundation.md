@@ -44,6 +44,8 @@ The foundation carries the name of composer **Chuang-Shien Lu 呂泉生**, one o
 
 2026-10-05 re-check (slice 09300927-7): corpus re-grep (Kee-Jen / Kee Jen / Keejen / 呂泉生文教) over works/ + articles/ — 0 hits again (empty hit set, unchanged since 09221200-10). Nothing absorbable beyond the 呂泉生-person material above; no new facts, no conflicts. SKIP (verified-saturated). hits-hash=e3b0c44298fc (empty set)
 
+2026-10-05 re-check (slice 09301000-7): corpus re-grep (Kee-Jen / Kee Jen / Keejen / 呂泉生文教) over works/ + articles/ — 0 hits again (empty hit set, unchanged since 09221200-10). Nothing absorbable beyond the 呂泉生-person material above; no new facts, no conflicts. SKIP (verified-saturated). hits-hash=886f4202f9e4 (empty set)
+
 HOLD: the English name "Kee-Jen" vs. the romanization "Chien" in the pinyin-style "Chuang-Shien" of 呂泉生's name ( Wade-Giles vs. other romanization of 泉生 ) — no auto-merge of spelling; recorded as both appear.
 
 ## Source Notes
