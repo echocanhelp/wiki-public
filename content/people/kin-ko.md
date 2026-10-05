@@ -76,3 +76,4 @@ M.S., Aerospace Engineering; Ph.D. Course Program
 <!-- TJJ-A09240800-10: verified 2026-09-25 — subject links in slice 09240800-10 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260500-9: verified 2026-09-27 — slice 09260500-9 4 篇（b7327dcf TAA Archives Newsletter / 95fd8186 洛杉磯會館228追思77年 / 26f76359 糖尿病與你 / a1b56965 彭明敏研討會）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->
+<!-- TJJ-A10020700-1: verified 2026-10-05 — wave-2 re-check of slice 10020700-1 article b7327dcf TAA Archives March 2021 newsletter: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

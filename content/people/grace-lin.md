@@ -92,3 +92,4 @@ last_reviewed: 2026-09-25
 - Corpus re-grep 2026-09-23 (slice 09221000-1)：本人命中集 = #613、concerts81、mystories132、#284、TJJ 四筆演講記錄（上方 2019-10-10 刊載之民富論演講記錄為本次新增）；其餘命中皆屬消歧段所列同名人物（publication1321/1322 為童書作家林珮思著作檔、musician413 為林玉惠、ourjourneys306 為林季靜任教職之紐約台美樂團紀錄）；無新的本人社群語料。
 
 <!-- TJJ-A09260500-9: verified 2026-09-27 — slice 09260500-9 4 篇（b7327dcf TAA Archives Newsletter / 95fd8186 洛杉磯會館228追思77年 / 26f76359 糖尿病與你 / a1b56965 彭明敏研討會）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->
+<!-- TJJ-A10020700-1: verified 2026-10-05 — wave-2 re-check of slice 10020700-1 article 26f76359 糖尿病與你: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

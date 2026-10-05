@@ -149,3 +149,4 @@ name_en: "Tsai Ing-wen"
 <!-- TJJ-A09260500-6: verified 2026-09-27 — slice articles 81e80ba38969bf88 / 9412105875987041 / 92917d4c9a88eba2 / fd270f41202454d7 re-checked vs 正文; subject links all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260500-11: verified 2026-09-27 — slice articles re-checked vs 正文; subject link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. --> slice bff4c7110803d864 祝賀蕭美琴履任
+<!-- TJJ-A10020700-1: verified 2026-10-05 — wave-2 re-check of slice 10020700-1 article 95fd8186 二二八77周年洛杉磯會館追思: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
