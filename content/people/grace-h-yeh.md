@@ -94,3 +94,5 @@ TAH lists her as the first appointed organist of [[organizations/formosan-presby
 - Corpus re-grep 2026-09-20 (slice 09181500-4): hit set unchanged (#448, #146, #144, Our Journeys 231 ±EN, index) — all absorbed above. SKIP-with-reason: no new corpus material.
 
 <!-- TJJ-A09300400-25: verified 2026-10-04 — subject links in slice 09300400-25 articles (f1972734 我的肥皂箱 p1 / 131a1c8e 台美人台加人 p360 / ced69523 大洛杉磯台灣會館 tag p13 / 49d912cc 長青教室 tag p2) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10010400-1: verified 2026-10-05 — wave-2 re-check of slice 10010400-1 article b4e27e98 海頓/台灣人音樂家專場報導 (2016-06-06 刊): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

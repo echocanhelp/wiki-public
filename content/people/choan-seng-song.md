@@ -127,3 +127,5 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 - [[sources/toward-a-community-of-hope|Toward a Community of Hope]]
 - [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (台灣基督長老教會)]]
 - [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]
+
+<!-- TJJ-A10010400-1: verified 2026-10-05 — wave-2 re-check of slice 10010400-1 article b4e27e98 海頓/台灣人音樂家專場報導 (2016-06-06 刊): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
