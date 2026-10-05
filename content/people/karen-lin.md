@@ -67,3 +67,5 @@ _No filled family fields on the TAH profile._
 2026-10-05 — deepen-x slice 09300900-16: re-verify SKIP — fresh ZH+EN grep (林璇雯 / Karen Lin, works + articles) returns the same 15 non-index hit set as the 09300855-16 sweep: this page's 6 own records (all absorbed above) plus the 9 filmmaker-Karen Lin harvest items under the name-collision HOLD. No new 林璇雯-attributed community material. hits-hash=fe0adee07fdc
 
 2026-10-05 — deepen-x slice 09300927-16: re-verify SKIP — fresh ZH+EN grep (林璇雯 / Karen Lin, works + articles) returns the same 15 non-index hit set: this page's 6 own records (all absorbed above) plus the 9 filmmaker-Karen Lin harvest items under the name-collision HOLD. No new 林璇雯-attributed community material. hits-hash=fe0adee07fdc
+
+2026-10-05 — deepen-x slice 09301000-16: re-verify SKIP — fresh ZH+EN grep (林璇雯 / Karen Lin, works + articles) returns the same 16-hit set: this page's 6 own records (155, 333, whoswho1588, ourjourneys123/128/243 — all absorbed above) plus the 9 taiwaneseamerican-org filmmaker-Karen Lin harvest items under the name-collision HOLD. No new 林璇雯-attributed community material. canonical hits-hash=d563ff5e63cf

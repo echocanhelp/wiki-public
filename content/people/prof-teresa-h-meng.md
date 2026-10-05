@@ -68,3 +68,5 @@ Re-verified 2026-10-04 (deepen-x slice 09300848-16): fresh ZH+EN re-grep (孟懷
 2026-10-05 — deepen-x slice 09300900-16: re-verify SKIP — fresh ZH+EN grep (孟懷縈 / Teresa H. Meng, works + articles) returns only own TAH #1861 bibliographic record (index excluded); no memoir/community material to absorb. verified-saturated. hits-hash=4244fc33f6db
 
 2026-10-05 — deepen-x slice 09300927-16: re-verify SKIP — fresh ZH+EN grep (孟懷縈 / Teresa H. Meng, works + articles) returns only own TAH #1861 bibliographic record (index excluded); no memoir/community material to absorb. verified-saturated. hits-hash=4244fc33f6db
+
+2026-10-05 — deepen-x slice 09301000-16: re-verify SKIP — fresh ZH+EN grep (孟懷縈 / Teresa H. Meng, works + articles) returns the saturated set: own [[works/taiwaneseamericanhistory-org/whos-who-1861-teresa-h-meng|TAH #1861]] bibliographic record + works index only; no memoir/community material to absorb. verified-saturated. canonical hits-hash=37ef3823edf2
