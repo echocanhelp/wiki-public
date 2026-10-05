@@ -71,3 +71,4 @@ last_reviewed: 2026-10-05
 
 - SKIP note (deepen-x slice 09300848-8, re-grep 2026-10-04): fresh grep 許振榮／Chen-Jung Hsu (content/works + content/articles) hit set identical (mystories398, 12-36, 12-37, 807, works/index, TJJ 台大數學系回憶) — all already linked/absorbed; verified-saturated, nothing new absorbable. hits-hash=6fd135c7d44c
 - SKIP note (deepen-x slice 09300927-8, re-grep 2026-10-05): fresh ERE grep 許振榮／Chen-Jung Hsu (content/works + content/articles) hit set identical (mystories398, 12-36, 12-37, 807, works/index, TJJ 台大數學系回憶) — all already linked/absorbed; verified-saturated, nothing new absorbable. hits-hash=77d7a7357493
+- SKIP note (deepen-x slice 09301000-8, re-grep 2026-10-05): fresh ERE grep 許振榮／Chen-Jung Hsu (content/works + content/articles) hit set identical (mystories398, 12-36, 12-37, 807, works/index, TJJ 台大數學系回憶) — all already linked/absorbed; verified-saturated, nothing new absorbable. hits-hash=90f7c8a601e0
