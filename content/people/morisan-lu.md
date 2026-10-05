@@ -70,3 +70,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (2026-10-05, slice 09300927-28)
 - Re-verified 2026-10-05 (slice 09300927-28): fresh ZH+EN re-grep 呂明森/Morisan Lu — 5 hits, identical set (ourjourneys9-eng, whos-m-s-lu, ourjourneys09, ourjourneys17, works index), all already absorbed into Role in the Community above. No new memoir or event mention; no conflicts. Verified-saturated, SKIP-with-reason. hits-hash=6999dfc45fef (sha1 over sorted hit-path set).
+
+## Corpus re-grep (2026-10-05, slice 09301000-28)
+- Re-verified 2026-10-05 (slice 09301000-28): fresh ZH+EN re-grep 呂明森/Morisan Lu — 5 hits, identical set (ourjourneys9-eng, ourjourneys09, ourjourneys17, whos-m-s-lu, works index), all already absorbed into Role in the Community above (1983 宣傳組 election, 泛美/將軍 restaurant design, $3,000 penalty detail, 將軍27 with David 施); spot-checked memoir lines against page text — consistent, no new facts, no conflicts. Verified-saturated, SKIP-with-reason. hits-hash=6999dfc45fef (sha1 over sorted hit-path set).

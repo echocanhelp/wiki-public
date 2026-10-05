@@ -51,3 +51,6 @@ The Taiwanese American Arts Council (TAAC) was established in 2014 to carry forw
 
 ## Corpus re-grep (2026-10-05, slice 09300927-28)
 - Re-verified 2026-10-05 (slice 09300927-28): fresh ZH+EN re-grep (台美文藝協會 / Taiwanese American Arts Council / TAAC) — 6 hits: own records #5, directory profile, #18, #52, news-taac + works index, all already linked above; bibliographic headers only, no narrative to absorb. Verified-saturated, SKIP-with-reason. hits-hash=69a9a64efe5c (sha1 over sorted hit-path set).
+
+## Corpus re-grep (2026-10-05, slice 09301000-28)
+- Re-verified 2026-10-05 (slice 09301000-28): fresh ZH+EN re-grep (台美文藝協會 / Taiwanese American Arts Council / TAAC) — 6 real hits: own records #5, directory profile, #18, #52, news-taac + works index, all already linked above; plus the known taiwanjustice-net 蒲亭控 articles/ false positive ("TAAC" inside its Wayback archive-digest string only, not absorbed). Bibliographic headers only, no narrative to absorb. Verified-saturated, SKIP-with-reason. hits-hash=8ed9a4c98360 (sha1 over sorted hit-path set).
