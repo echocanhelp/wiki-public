@@ -48,3 +48,4 @@ last_reviewed: 2026-10-05
 - **2026-10-05 語料複核（slice 09300900-31）** — 重 grep（高雄市旅館|Kaohsiung Hotel，single-quoted ERE）命中仍僅 ourjourneys295 一處，姊妹會與人口普查脈絡皆已吸收，無新事實可吸收。SKIP-with-reason。hits-hash=da39a3ee5e6b（依 deepen-revisit-audit.py 的名稱抽取式：本頁 frontmatter 無 name_zh/name_en，僅 title「Kaohsiung Hotel Association」→ 該工具命中集為空；姊妹會語料的「高雄市旅館業同業公會」變體寫法不在其名稱集內，故此 hash 為空集摘要，屬預期，非漏抓）
 
 - **2026-10-05 語料複核（slice 09300927-31）** — 重 grep（高雄市旅館同業公會|高雄市旅館業同業公會|Kaohsiung Hotel，single-quoted ERE）命中仍僅 ourjourneys295 一處，姊妹會與人口普查脈絡皆已吸收，無新事實可吸收。SKIP-with-reason。hits-hash=37225c5abbfb
+- **2026-10-05 語料複核（slice 09301000-31）** — 重 grep（高雄市旅館同業公會|高雄市旅館業同業公會|Kaohsiung Hotel，single-quoted ERE）命中仍僅 ourjourneys295 一處，姊妹會與人口普查脈絡皆已吸收，無新事實可吸收。SKIP-with-reason。hits-hash=c112d9ab1840
