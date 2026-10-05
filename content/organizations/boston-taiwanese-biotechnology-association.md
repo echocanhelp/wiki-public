@@ -61,3 +61,7 @@ hits-hash=5599183ed6fe 2026-10-03 slice 09270953-1 re-grep (波士頓台灣人�
 ## Corpus sweep (slice 09300927-4, verified 2026-10-05)
 - Fresh ERE ZH+EN grep of `works/` + `articles/` (波士頓台灣人生物科技協會 / Boston Taiwanese Biotechnology / BTBA, index excluded): hit set unchanged — own directory record `works/taiwaneseamericanhistory-org/boston-taiwanese-biotechnology-association.md` plus the recurring "BTBA" substring false positive inside the archive_digest hash of the unrelated 川普/烏克蘭 taiwanjustice-net article (random hash characters, no association content). No memoir or community record mentions BTBA.
 - Verified-saturated, nothing new absorbable, no conflicts to HOLD. hits-hash=ff091b51b0ed
+
+## Corpus sweep (slice 09301000-4, verified 2026-10-05)
+- Fresh ERE ZH+EN grep of `works/` + `articles/` (波士頓台灣人生物科技協會 / Boston Taiwanese Biotechnology / BTBA, index excluded): hit set unchanged — own directory record `works/taiwaneseamericanhistory-org/boston-taiwanese-biotechnology-association.md` plus the recurring "BTBA" substring false positive inside the archive_digest hash of the unrelated 川普/烏克蘭 taiwanjustice-net article (re-confirmed this pass: random hash characters only, no association content). No memoir or community record mentions BTBA.
+- Verified-saturated, nothing new absorbable, no conflicts to HOLD. hits-hash=dc4a7e733a4c
