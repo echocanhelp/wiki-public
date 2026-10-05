@@ -64,3 +64,5 @@ last_reviewed: 2026-10-05
 2026-10-05 re-grep (deepen-x slice 09300855-22): fresh 陳伸夫/Philip S. Chen grep of works/ + articles/ returned the identical hit set (ourjourneys234, ourjourneys59, ourjourneys65/-eng, whoswho1043, works index) — all already wikilinked above. Verified saturated; SKIP-deepen. hits-hash=352e80759986
 
 2026-10-05 re-grep (deepen-x slice 09300927-22): fresh 陳伸夫/Philip S. Chen grep of works/ + articles/ returned the identical hit set (ourjourneys234, ourjourneys59, ourjourneys65/-eng, whoswho1043, works index) — all already wikilinked above. Verified saturated; SKIP-deepen. hits-hash=0a928dc9810d
+
+2026-10-05 re-grep (deepen-x slice 09301000-22): fresh ERE 陳伸夫|Philip S. Chen grep of works/ + articles/ returned the identical hit set (ourjourneys234, ourjourneys59, ourjourneys65/-eng, whoswho1043, works index) — all already wikilinked above. Verified saturated; SKIP-deepen. hits-hash=245e576f75e0

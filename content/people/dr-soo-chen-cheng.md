@@ -68,3 +68,5 @@ Re-grep 2026-10-03 (deepen-x slice 09300315-15): fresh ZH+EN grep (Soo-Chen Chen
 Re-grep 2026-10-05 (deepen-x slice 09300855-22): fresh 鄭淑珍/Soo-Chen Cheng grep of works/ + articles/ returned the identical hit set (TAH #1840 + works index) — no memoir/community corpus material; science-sector figure, biography only. SKIP, saturated. hits-hash=0354b40ac3c9
 
 Re-grep 2026-10-05 (deepen-x slice 09300927-22): fresh 鄭淑珍博士/Dr. Soo-Chen Cheng grep of works/ + articles/ returned the identical hit set (TAH #1840 + works index) — science-sector figure, biography only, no memoir/community corpus material. Verified saturated; SKIP-deepen. hits-hash=6b8d6472d036
+
+Re-grep 2026-10-05 (deepen-x slice 09301000-22): fresh ERE 鄭淑珍|Soo[- ]Chen Cheng grep of works/ + articles/ returned the identical hit set (TAH #1840 + works index) — science-sector figure, biography only, no memoir/community corpus material. Verified saturated; SKIP-deepen. hits-hash=036a8c54240f
