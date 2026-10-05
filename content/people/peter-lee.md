@@ -70,3 +70,5 @@ Re-check slice 09300315-20 (2026-10-04): fresh grep 李文智/Peter Lee — same
 Re-check slice 09300855-30 (2026-10-05): fresh grep 李文智/Peter Lee — same hit set (#445、#213、index only) — saturated, SKIP. hits-hash=fc989c87d9a4
 
 Re-check slice 09300900-30 (2026-10-05): fresh grep 李文智/Peter Lee over works+articles — same hit set (#445、#213、works/index only) — saturated, SKIP; no memoir/community material to absorb. hits-hash=0d25d643049f (revisit-audit sha1 convention; grep-sweep sha1=62460bebf23e)
+
+Re-check slice 09300927-30 (2026-10-05): fresh grep 李文智/Peter Lee over works+articles — same hit set (#445、#213、works/index only) — saturated, SKIP; no memoir/community material to absorb. hits-hash=430a15ff4b41 (grep-sweep sha1 convention)
