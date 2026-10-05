@@ -64,3 +64,5 @@ Accomplishment
 Corpus re-grep 2026-10-05 (deepen-x slice 09300855-26): fresh grep works/ + articles/ for 樊豐美 / Fon-May Fan returns the identical hit set — OJ27 ZH/ENG, OJ304, essay #28, Who's Who #56, and the harvest index — all already absorbed above; verified-saturated, nothing new absorbable — SKIP-with-reason; HOLD (陳隆豐 vs 陳隆) retained. hits-hash=4572ff5c76d5
 
 Corpus re-grep 2026-10-05 (deepen-x slice 09300900-26): fresh ERE grep works/ + articles/ for 樊豐美|Fon-May Fan returns the identical hit set — OJ27 ZH/ENG, OJ304, essay #28, Who's Who #56, index (hits-hash=2f84df033296) — all already absorbed above; verified-saturated, nothing new absorbable — SKIP-with-reason; HOLD (陳隆豐 vs 陳隆) retained.
+
+Corpus re-grep 2026-10-05 (deepen-x slice 09300927-26): fresh grep works/ + articles/ for 樊豐美|Fon-May Fan returns the identical hit set — OJ27 ZH/ENG, OJ304, essay #28, Who's Who #56, index (hits-hash=d54075a9a209) — all already absorbed above; verified-saturated, nothing new absorbable — SKIP-with-reason; HOLD (陳隆豐 vs 陳隆) retained.

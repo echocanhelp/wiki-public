@@ -59,3 +59,5 @@ _No filled family fields on the TAH profile._
 Corpus re-grep 2026-10-05 (deepen-x slice 09300855-26): fresh grep works/ + articles/ for 王大文 / Dawen Wang returns whoswho1305, checking-dawen, dawen-in-taiwan, and the harvest index — all already linked and absorbed above; same-name HOLD (1981 Boston/MA record vs. Universal Music singer-songwriter) unchanged. Verified-saturated, nothing new absorbable — SKIP. hits-hash=23e9df8442fe
 
 Corpus re-grep 2026-10-05 (deepen-x slice 09300900-26): fresh ERE grep works/ + articles/ for 王大文|Dawen Wang returns whoswho1305, checking-dawen, dawen-in-taiwan, and the harvest index (hits-hash=f1b697d0b5a1) — all already linked and absorbed above; same-name HOLD unchanged. Verified-saturated, nothing new absorbable — SKIP.
+
+Corpus re-grep 2026-10-05 (deepen-x slice 09300927-26): fresh grep works/ + articles/ for 王大文|Dawen Wang returns whoswho1305, checking-dawen, dawen-in-taiwan, and the harvest index (hits-hash=7d7413bf4f0d) — all already linked and absorbed above; same-name HOLD (1981 Boston/MA record vs. Universal Music singer-songwriter) unchanged. Verified-saturated, nothing new absorbable — SKIP.
