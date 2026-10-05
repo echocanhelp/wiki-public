@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-05
 ---
 # I-Chun Catherine Chang (張儀君教授)
 
@@ -61,3 +61,5 @@ I-Chun (Catherine) Chang 張儀君教授 – History of Taiwanese American (T.A.
 - 2026-10-03 — deepen-x slice 09300315-11: re-verify SKIP — fresh ZH+EN grep (張儀君 / Catherine Chang / I-Chun) in works/+articles/ returns the identical saturated hit set (own records whos-who-2129 + ourjourneys218, both already absorbed; 267-i-chunn-lee-pianist + works index = false positives); no new absorbable community fact. 副教授 vs Assistant Professor rank HOLD stands. hits-hash=e93407ae22d5
 
 - 2026-10-04 — deepen-x slice 09300848-16: re-verify SKIP — fresh ZH+EN grep (張儀君 / Catherine Chang / I-Chun) in works/+articles/ returns the identical saturated hit set (whos-who-2129 + ourjourneys218 absorbed; 267-i-chunn-lee-pianist + works index = false positives); no new absorbable fact. 副教授 vs Assistant Professor HOLD stands. hits-hash=e93407ae22d5
+
+2026-10-05 — deepen-x slice 09300855-16: re-verify SKIP — fresh grep (張儀君 / Catherine Chang / I-Chun Catherine) in works/+articles/ returns the saturated set (own TAH #2129 + Our Journeys 218, both absorbed; index excluded; no pianist false positive with the tightened pattern). 副教授 vs Assistant Professor HOLD stands. hits-hash=8f78d6cd090f

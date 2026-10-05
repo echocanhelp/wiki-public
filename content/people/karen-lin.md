@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Karen Lin (林璇雯)
 
@@ -61,3 +61,5 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-10-04 (slice 09300315-10): hit set identical (155, 333, whoswho1588, ourjourneys123/128/243) — SKIP, verified-saturated, hits-hash=152444697fea; HOLD on the 1990 photo-caption identity stands.
 
 - Corpus re-grep 2026-10-04 (slice 09300848-16): hit set identical (155, 333, whoswho1588, ourjourneys123/128/243) — SKIP, verified-saturated, hits-hash=152444697fea; HOLD on the 1990 photo-caption identity stands.
+
+2026-10-05 — deepen-x slice 09300855-16: fresh ZH+EN grep (林璇雯 / Karen Lin) now returns 15 non-index hits — the 6 records of this page's identity already absorbed above (155, 333, whoswho1588, ourjourneys123/128/243) plus 9 newer taiwaneseamerican-org harvest items (apa-artists-on-overcoming-racism-stereotypes, big-bah-tzangs-the-hungry-monster, natwa2015, words-with-poet-kelly-zen-yie-tsai, in-step-with-alice-tong-prelude-to-progression, a-taste-of-taiwanese-beef-noodle-soup, a-personal-discussion-panel-in-sf-on-the-events-of-228-taiwanese-american-perspe, all-eyes-on-nba-sensation-jeremy-lin, taiwanese-american-film) naming a "Karen Lin" who is consistently a FILMMAKER/video producer (creator of the Hungry Monster web series, co-productions with spoken-word artist Kelly Zen-Yie Tsai, Engagement Director of American Citizens for Taiwan, NATWA panelist) and never carries 林璇雯. HOLD: likely name collision — corpus evidence points to a media-creator Karen Lin distinct from this page's violinist / Yinghua Academy music-director identity; not merged, no facts absorbed. hits-hash=6f7d4eb9172e
