@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Dr. Jia-Huey Lin Yu (林佳惠博士)
 
@@ -59,3 +59,5 @@ First President of Taiwanese American Seniors Society of Greater Washington, DC�
 - Re-grep 2026-09-27 (slice 09260700-13): fresh grep (林佳惠／Jia-Huey, works+articles) returns only TAH #152 + works index — verified saturated, no new corpus facts.
 hits-hash=5599183ed6fe 2026-10-03 slice 09270953-1 re-grep (林佳惠/Jia-Huey Lin, works+articles): hit set identical to material already absorbed (own record [[works/taiwaneseamericanhistory-org/whos-who-152-jia-huey-lin|TAH #152]] + works index only) — verified saturated, nothing absorbable, no conflicts to HOLD; 沈耀初-style NOT-MERGE note for 林雨純 substring false-positives stands.
 - Re-grep 2026-10-04 (slice 09300848-1): fresh grep (林佳惠 / Jia-Huey Lin Yu, works+articles) — hit set unchanged (own record [[works/taiwaneseamericanhistory-org/whos-who-152-jia-huey-lin|TAH #152]] + works index only). Verified saturated, nothing absorbable, no conflicts to HOLD. hits-hash=5599183ed6fe (unchanged).
+
+- Re-grep 2026-10-05 (slice 09300855-1): fresh grep (林佳惠 / Jia-Huey, works+articles) — hit set unchanged: own record [[works/taiwaneseamericanhistory-org/whos-who-152-jia-huey-lin|TAH #152]] plus the works index. 林雨純 substring false-positives NOT-MERGE note stands. Nothing absorbable; no conflicts to HOLD. SKIP: verified-saturated. hits-hash=321abdb1b199 (supersedes prior stamp 5599183ed6fe, recomputed with the audit-script name set this run)
