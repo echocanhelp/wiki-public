@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Taiwanese American Science and Technology Association TASTA (華府台灣產業科技協會)
 
@@ -39,3 +39,4 @@ TASTA is a civil and non-profit organization founded in May 2002 by Taiwanese Am
 <!-- deepen-x slice 09240900-9 (2026-09-25): re-verified — fresh grep TASTA/華府台灣產業科技協會 hit set identical (directory record, works index, 2020-09-30 TJJ joint statement); no new corpus material. SKIP. -->
 <!-- deepen-x slice 09251417-3 (2026-09-26): re-verified — fresh grep TASTA/華府台灣產業科技協會 hit set identical (directory record, works index, 2020-09-30 TJJ joint statement); no new corpus material. SKIP. -->
 <!-- deepen-x slice 09300315-14 (2026-10-04): re-verified — fresh grep TASTA/華府台灣產業科技協會 (works+articles) hit set identical to 09251417-3: directory record, works index, 2020-09-30 TJJ joint statement. No new corpus material; already-saturated page. SKIP. hits-hash=8ed3f3d6b039 -->
+<!-- deepen-x slice 09300855-20 (2026-10-05): re-verified — fresh grep TASTA/華府台灣產業科技協會 (works+articles, depth_sweep convention) returns 3 files: directory record, works index, 2020-09-30 TJJ joint statement. Hit set identical to material already absorbed on this page (incl. Bill Wu / Minze Chien leadership cross-refs from people pages). No new corpus material. SKIP. hits-hash=6f6ad2c45ad8 -->

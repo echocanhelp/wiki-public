@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Robert Lee (李席舟)
 
@@ -63,3 +63,5 @@ Accomplishment
 > Corpus re-grep  (slice 09250700-27): fresh ZH+EN re-grep against works/articles — hit set identical to records already absorbed and linked above; no new absorbable community facts. SKIP: verified-saturated.
 > Corpus re-grep (slice 09260500-8): fresh ZH+EN re-grep (李席舟|Robert Lee) — hit set identical to absorbed set (TAH #1868, ourjourneys233, works index, unrelated Robert E. Lee 雕像報導). SKIP: verified-saturated.
 > Corpus re-grep 2026-10-04 (slice 09300848-23): fresh ZH+EN re-grep (李席舟|Robert Lee) — hit set unchanged (4 files: own TAH #1868 record, ourjourneys233, works index, unrelated Robert E. Lee 雕像報導). No new community facts. SKIP: verified-saturated. hits-hash=5137581296a7
+
+2026-10-05 — deepen-x slice 09300855-23 close: fresh ZH+EN re-grep (李席舟|Robert Lee) of content/works + content/articles returns 4 files — hit set identical to the absorbed set (own TAH [[works/taiwaneseamericanhistory-org/whos-who-1868-robert-lee|#1868]] record, [[works/taiwaneseamericanhistory-org/ourjourneys233|ourjourneys233]] 籌備會名單 活動組/募款組, works index, unrelated Robert E. Lee 雕像報導 under Disambiguation). No new community facts. SKIP: verified-saturated. hits-hash=f3b59f0537c5

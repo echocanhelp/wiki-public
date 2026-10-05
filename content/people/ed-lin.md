@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Ed Lin (林艾德)
 
@@ -52,3 +52,5 @@ Waylaid (2002) won a Members' Choice Award at the Asian American Literary Awards
 - 2026-09-26 corpus re-grep (DEEPEN-X slice 09260400-30; 林艾德/Ed Lin/林景南): hit-set unchanged — TAH #120, #2081, works index, taiwaneseamerican-org tour/interview/event records already wikilinked. Verified-saturated SKIP-content; 林艾德 vs 林景南 HOLD maintained.
 - 2026-09-30 corpus re-grep (DEEPEN-X slice 09260800-13; 林艾德/Ed Lin/林景南): hit-set unchanged — #120, #2081, index, and the tour/interview/event records already wikilinked. Verified-saturated SKIP-content; 林艾德 vs 林景南 HOLD maintained.
 - 2026-10-04 corpus re-grep (DEEPEN-X slice 09300848-23; 林艾德/Ed Lin/林景南): hit-set unchanged (10 hits) — the 6 files above plus `...berkeley-2` and `...ghost-month-in-ny` duplicates of already-linked records. Also checked the full text of the two hits NOT on the person's own record list: TAH #120 is a bibliographic record for *Sally Tsai 蔡淑理* (mislabeled Ed Lin in its title and Subjects line — a source-side labeling artifact, not a fact about this person); #2081 Ed Lin 林景南 is bibliographic-only, full text stays in the original vault. Nothing new absorbable; 林艾德 vs 林景南 HOLD maintained. hits-hash=037f16e49e53
+
+2026-10-05 — deepen-x slice 09300855-23 close: fresh ZH+EN re-grep (林艾德/Ed Lin/林景南) returns 10 files — hit set unchanged (TAH #120, #2081, works index, and the taiwaneseamerican-org tour/interview/event records already wikilinked above). Nothing new absorbable; 林艾德 vs 林景南 name HOLD maintained. SKIP: verified-saturated. hits-hash=1d10accfdad0

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Prof. Ruey-Jen Sung (宋瑞珍教授)
 
@@ -52,3 +52,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+2026-10-05 — deepen-x slice 09300855-23 close: fresh ZH+EN re-grep (宋瑞珍|Ruey-Jen Sung) returns 5 files — hit set unchanged ([[works/taiwaneseamericanhistory-org/ourjourneys142|ourjourneys142]], [[works/taiwaneseamericanhistory-org/whos-who-1755-ruey-jen-sung|#1755]], [[works/taiwaneseamericanhistory-org/9-e5-ae-8b-e7-91-9e-e7-8f-8d-e8-bf-94-e5-8f-b0-e6-93-94-e4-bb-bb-e6-88-90-e5-8a-|#9 返台記錄]], TA Archives 2024-04 刊文, works index) — all already absorbed/wikilinked above. No new community facts. SKIP: verified-saturated. hits-hash=ff115d351f73

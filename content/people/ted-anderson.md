@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Ted Anderson (泰德安德森)
 
@@ -66,3 +66,4 @@ last_reviewed: 2026-10-04
 Corpus re-verify (deepen-x slice 09260854-7, 2026-09-30): fresh ZH+EN grep of works/ + articles/ returns the identical hit set to the links already absorbed above — no memoir or body-text mentions beyond them. SKIP: verified-saturated. (TJJ 化作千風 article body re-checked; only detail beyond absorbed links is the 余忠村 yield-seat episode, already covered by the chair-for-over-a-decade record — no conflict)
 
 - Corpus re-verify (deepen-x slice 09300500-1, 2026-10-04): fresh ZH+EN grep of works/ + articles/ — hit set unchanged (TAH #322, #271, #911, #57, #541 + works index); all body-text hits are title/Identity-Snapshot echoes of already-absorbed works. Verified-saturated, SKIP-deepen. hits-hash=7f3c21a9e04b
+- Corpus re-verify (deepen-x slice 09300855-20, 2026-10-05; Ted Anderson / 泰德安德森, depth_sweep convention): fresh ZH+EN grep of works/ + articles/ returns 7 files — TAH #322, #271, #911, #57, #541, works index, and the 王泰和 memorial article (body re-read this run: Lions-club founding, FoT chair 十餘年, Bush/Bolton lectures, EVA-air breakfast episode — all already absorbed above). No new material. Verified-saturated, SKIP-deepen. hits-hash=413aa018fc70
