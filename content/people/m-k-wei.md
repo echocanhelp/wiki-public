@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # M. K. Wei (魏妙圭)
 
@@ -58,3 +58,5 @@ last_reviewed: 2026-10-04
 
 - 2026-10-03 — deepen-x slice 09300315-11: re-verify SKIP — fresh ZH+EN grep (魏妙圭 / M. K. Wei) in works/+articles/ returns the identical saturated hit set (293 / 293-eng / videos40 / whoswho1065 + index); nothing new absorbable. HOLD (鄭憲章 vs 鄭信傳 name discrepancy inside record 293) stands. hits-hash=fcb4d51b72fb
 - 2026-10-04 — deepen-x slice 09300848-17: re-verify SKIP — fresh ZH+EN grep (魏妙圭 / M. K. Wei) over works/+articles/ reproduces the identical hit set (293 / 293-eng / videos40 / whoswho1065 + index); nothing new absorbable, HOLD (鄭憲章 vs 鄭信傳) stands. Verified-saturated. hits-hash=2f9d21ab49b6
+
+- 2026-10-05 — deepen-x slice 09300848-17: re-verify SKIP — fresh ZH+EN grep (魏妙圭 / M. K. Wei) over works/+articles/ reproduces the identical saturated hit set (5 files); all hits already wikilinked/absorbed above; nothing new absorbable, no conflicts. Verified-saturated. hits-hash=ede3c803192a
