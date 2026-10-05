@@ -69,3 +69,5 @@ Re-grep 2026-10-04 (slice 09300848-9): fresh ZH+EN grep (黃三榮 / San John Hu
 Re-grep 2026-10-04 (slice 09300855-9): fresh ZH+EN grep of works/ + articles/ returns the identical hit set (own whos-san-john-huang, ourjourneys29/-eng, 244, 186/-eng, 272/-eng) — all already wikilinked and absorbed above; SKIP, verified-saturated, nothing new absorbable. hits-hash=62816514e1e1
 
 Re-grep 2026-10-05 (slice 09300900-9): fresh ZH+EN grep (黃三榮 / San John Huang) of works/ + articles/ returns 9 files = own whos-san-john-huang, ourjourneys29/-eng, 186/-eng, 244, 272/-eng, works/index — identical hit set, all already wikilinked and absorbed; SKIP, verified-saturated, nothing new absorbable. hits-hash=6079e67ce596
+
+Re-grep 2026-10-05 (slice 09300927-9): fresh ZH+EN ERE grep (黃三榮 / San John Huang) of works/ + articles/ returns the identical 9-file hit set (own whos-san-john-huang, ourjourneys29/-eng, 186/-eng, 244, 272/-eng, works/index) — all already wikilinked and absorbed above; SKIP-with-reason, verified-saturated, nothing new absorbable. hits-hash=272f796feef3
