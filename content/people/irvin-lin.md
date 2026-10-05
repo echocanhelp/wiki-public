@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Irvin Lin (林斐強)
 
@@ -69,3 +69,4 @@ Corpus re-verify (deepen-x slice 09260854-7, 2026-09-30): fresh ZH+EN grep of wo
 - Corpus re-grep (deepen-x slice 09300500-1, 2026-10-04): fresh 林斐強/Irvin Lin grep of works/ + articles/ — hit set identical: #234 / #1431 / #1052 / #493 + works index; remaining article matches are UC Irvine/"Irving" substring false positives (verified by case-insensitive -i scan). Verified-saturated, SKIP-deepen. hits-hash=7f3c21a9e04b
 
 - Corpus re-grep (deepen-x slice 09300848-32, 2026-10-04): fresh 林斐強/Irvin Lin grep — hit set identical (#234 / #1431 / #1052 / #493 + works index); case-insensitive 'irvin' scan re-confirmed the Irvine/Irving false positives (Evergreen Irvine, TA Archives Irvine, Collegian Irvine, Eagle Brotherhood). Verified-saturated, SKIP-deepen. hits-hash=7f3c21a9e04b
+- Corpus re-grep (deepen-x slice 09300855-32, 2026-10-05): fresh 林斐強/Irvin Lin grep of works/ + articles/ — hit set identical: #234 / #1431 / #1052 / #493 plus works index (5 files); remaining article matches remain the known Irvine/Irving false positives. Verified-saturated, SKIP-deepen. hits-hash=08166b2a72eb

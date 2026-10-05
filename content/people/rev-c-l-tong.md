@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-05
 ---
 # Rev. C. L. Tong (董俊蘭牧師)
 
@@ -66,3 +66,5 @@ Corpus re-verify (deepen-x slice 09260854-7, 2026-09-30): fresh ZH+EN grep of wo
 Corpus re-grep (deepen-x slice 09300500-2, 2026-10-04): fresh ZH+EN grep of works/ + articles/ — hit set identical to the links already absorbed above (ourjourneys14, ourjourneys43, #1698, works index). SKIP: verified-saturated, hits-hash=6310b7a45209.
 
 Corpus re-grep (deepen-x slice 09300848-32, 2026-10-04): fresh 董俊蘭/C. L. Tong grep — hit set identical (ourjourneys14, ourjourneys43, #1698, works index); body text re-checked (2007-01-21 third-pastor installation at TAFPC; 聖恩 itinerant preachers list) — both already absorbed above. SKIP: verified-saturated, hits-hash=6310b7a45209.
+
+Corpus re-grep (deepen-x slice 09300855-32, 2026-10-05): fresh 董俊蘭/C. L. Tong grep of works/ + articles/ — hit set identical (ourjourneys14, ourjourneys43, #1698, works index); body text re-checked this pass (2007-01-21 third-pastor installation at TAFPC in ourjourneys14; 聖恩 itinerant preachers list in ourjourneys43) — both already absorbed above. SKIP: verified-saturated. hits-hash=916af9ca5e47 (same file set as prior 6310b7a45209; hash recomputed over sorted paths this pass)
