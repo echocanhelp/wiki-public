@@ -42,6 +42,7 @@ last_reviewed: 2026-10-05
 - With his wife he established the **Walter M. Yang and Christine L. Yang Endowed Fund** (2020) supporting the TAH historical record: [[works/taiwaneseamericanhistory-org/awards-92||92. Walter M. Yang and Christine L. Yang Endowed Fund]].
 - His own TAH story record: [[works/taiwaneseamericanhistory-org/401-walter-m-yang-e6-a5-8a-e8-8c-82-e5-98-89-e5-8d-9a-e5-a3-ab-201505||401. Walter M. Yang 楊茂嘉 博士 / 2015/05]].
 - Listed among the 台大機械系 alumni signatories in the corpus record of the 2018 protest over the Southern California NTU Alumni Association's invitation of 管中閔: [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|taiwanjustice.net 2018-07-21 report]].
+- **1965 courtship record (corroboration):** his wife 林壽英's own essay account records they met in 1965 in Taichung while he was completing military service after 台大 graduation, preparing for graduate study in the U.S.; he encouraged her to apply to American programs, which redirected her from her planned career at the 瘧疾研究所 to NAMRU-2 (1965–1967) and then Northwestern — the couple's shared origin story in the diaspora record, corroborating the Northwestern narrative already absorbed via [[works/taiwaneseamericanhistory-org/ourjourneys275|ourjourneys275]] (account also preserved in 林壽英's 2018 essay record 660, web-archive copy).
 - Signed the Taiwanese-American community statement recorded by the Pew Research Center as a representative of the East Bay Taiwanese American Senior Society: [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research Center: Taiwanese-American statement]].
 
 ## Sources
@@ -64,3 +65,5 @@ last_reviewed: 2026-10-05
 <!-- deepen-x re-verify slices 09210831-3 to 09260400-5 --> — re-grep 2026-10-04 (slice 09300848-18): fresh ZH+EN grep of works/+articles/ — hit set unchanged (awards-92, 401, ourjourneys275, works index, pew statement, taiwanjustice 2018 管中閔 report), all already absorbed; verified-saturated SKIP. hits-hash=5b26f3485313
 
 <!-- deepen-x 2026-10-05, slice 09300855-18 --> — re-grep: fresh ZH+EN grep of works/+articles/ — hit set unchanged, all hits already absorbed and wikilinked; verified-saturated. SKIP-with-reason. hits-hash=800ddcc2f580
+
+<!-- deepen-x 2026-10-05, slice 09300900-18 -->

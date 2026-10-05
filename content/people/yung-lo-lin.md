@@ -73,3 +73,5 @@ slice 09300315-14 re-grep (2026-10-04): fresh 林永樂/Yung-Lo Lin/y-l-lin grep
 slice 09300848-21 re-grep (2026-10-04): fresh 林永樂/Yung-Lo Lin/y-l-lin grep over works/ + articles/; hit set identical to the prior run (#whos1282, ourjourneys245, whoswho1326 = 林玉郎 namesake, works/index) — no new absorbable facts. SKIP: verified-saturated. hits-hash=b0e7a7b8ab01
 
 slice 09300855-21 re-grep (2026-10-05): fresh 林永樂/Yung-Lo Lin grep over works/ + articles/; hit set identical (#whos1282, ourjourneys245, works/index, plus the known taiwanjustice.net editorial = ROC diplomat namesake, not merged) — no new absorbable facts; the 10 corpus files refreshed since 2026-10-04 contain no 林永樂 mentions relevant to this engineer-professor. SKIP: verified-saturated. hits-hash=17b1d564846d
+
+slice 09300900-21 re-grep (2026-10-05): fresh 林永樂/Yung-Lo Lin grep over works/ + articles/; hit set identical (#whos1282, ourjourneys245, works/index, plus the known taiwanjustice.net 2015 editorial = ROC diplomat namesake, not merged) — no new absorbable facts. SKIP: verified-saturated. hits-hash=8f31f973c08e
