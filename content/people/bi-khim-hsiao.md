@@ -300,3 +300,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10020700-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020700-2 articles accbf8ee04e32de8 (劉雲平AZ疫苗信函, 2021-05-28: 4月向劉雲平表明台灣願購AZ疫苗) / bff4c7110803d864 (台美人團體領袖祝賀履任駐美代表, 大紀元 2020-08-08: 7/24履新首位女性駐美代表): subject links re-checked vs 正文, both real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10030400-1: verified 2026-10-05 — wave-2 re-check of slice 10030400-1 articles (77b0891e 信雅古典音樂珍藏啟用致詞 / 3be67f6e 台美人台加人存檔頁2 / 2e141df6 蔬果園藝標籤頁 / 2fa1c26a 台美人台加人存檔頁359): 蕭美琴 links (3be67f6e: 美大選膠著/紐約台灣日開球/駐美代表等多條) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030400-4: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-4 article 4c65a9afe4934086（520就職報導 2024-06-13 快照）: subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
