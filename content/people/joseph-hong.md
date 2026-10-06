@@ -66,3 +66,5 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x slice 09260700-14 re-verify 2026-09-27: fresh ZH+EN grep — hit set identical (OJ 142, OJ 209, disputes5, law4, TAH #265 profile, 耆老講座標籤頁); verified-saturated, HOLDs unchanged -->
 <!-- deepen-x slice 09260700-14 re-verify 2026-09-29: fresh ZH+EN grep — hit set identical (OJ 142, OJ 209, disputes5, law4, TAH #265 profile, 耆老講座標籤頁); verified-saturated, HOLDs unchanged -->
+
+<!-- TJJ-A10040600-10: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-10 — subject link in article 20053f0a17b89c07 (Tag: 大洛杉磯台灣會館耆老講座, 2025-02-16 存檔) re-checked vs 正文: 「8/17 洪茂澤、楊嘉猷談返台參選經驗」條目確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

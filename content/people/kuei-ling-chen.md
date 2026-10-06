@@ -71,3 +71,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10030400-4: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-4 article 63257725da30ee94（FAHR研討會：敗選檢討到迎戰2024, 2023-01-24）: subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040500-8: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-8 article 28b0cc4e52acece2 (2021北美洲聯合228紀念活動報導, 2021-03-03刊): subject link re-checked vs 正文 — 陳桂鈴以全美會會長任共同主席並主持流程、致詞見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-10: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-10 — subject link in article f6213c1937fa956d (全美台灣同鄉會2021年二二八紀念系列活動圓滿落幕, 2021-03-14) re-checked vs 正文: 「全美台灣同鄉會會長陳桂鈴為整個系列活動做了總結」確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

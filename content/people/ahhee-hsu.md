@@ -138,3 +138,5 @@ Accomplishment
 <!-- TJJ-A10040500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-5 article 31b7081a5d37939f（化作千風－王泰和追思會影音, 2022-07-12 刊）: subject link re-checked vs 正文（許丕龍要求與台獨之聲講員會面軼事）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-6 article 98a26ee3b1ad82ac (台美人台加人 p356, 2024-05-27 快照): subject link 許丕龍 re-checked vs 正文 (「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段/2011-10-30'), real, no wrong/spurious links; 2011-10-30 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-8: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-8 article 00354cf6ba9cf607 (台美人台加人 featured p358, 2024-06-19 快照): subject link re-checked vs 正文, real (「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段/2011-10-30」條目見於正文), no wrong/spurious links; 2011-10-30 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

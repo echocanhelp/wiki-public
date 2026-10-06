@@ -76,3 +76,7 @@ last_reviewed: 2026-09-25
 - 覆核（deepen-x slice 09240317-1, 2026-09-25）：fresh grep 許盛男／Maurice Hsu hit set 新增台灣公義報「許盛男醫師」標籤頁最新存檔快照（2025-08-07）——該快照顯示標籤下已「No posts to display」，即原心得報告文章已從該標籤移除；作為來源連續性紀錄保留：[[articles/taiwanjustice-net/2025/20250807042009_tag_許盛男醫師_940d3c7334035588|TJJ tag 許盛男醫師, 2025-08-07 存檔]]。另 台灣人文藝術 人氣榜快照（2024-02-21 存檔）再確認 2017-11-06 長青教室心得報告條目在榜——無新增生平材料；FAPA 1981 vs 1982 冲突仍 HOLD。
 
 <!-- TJJ-A10030500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030500-1 article c691e327b9133c1a (心得報告標籤頁, 2024-07-19 快照): subject link re-checked vs 正文 (「長青教室心得報告—許盛男醫師講『台灣話的源流』 11/16/2016」確認見於條目), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-8: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-8 article c6f9dbff48b39366 (台美人台加人 popular 分類頁, 2024-02-21 快照): subject link re-checked vs 正文, real (「長青教室心得報告—許盛男醫師講『台灣話的源流』 11/16/2016」條目見於正文), no wrong/spurious links; 2016-11-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-5 article 2777c88877eee2c5（Tag: 長青教室 標籤彙整頁, 2024-06-20 快照, 正文條目 2016-11-19〜2017-05-25）: subject link re-checked vs 正文 this attempt — 「長青教室心得報告—許盛男醫師講『台灣話的源流』11/16/2016」條目具名，真實提及，無錯鏈、無虛鏈；含該文 wikilink 之日期事實條目已在庫 — saturated, no new material. -->

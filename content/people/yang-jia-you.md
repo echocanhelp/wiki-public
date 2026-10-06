@@ -297,3 +297,5 @@ Notable quotes and mentions of **楊嘉猷** in Taiwan Justice articles:
 - 2026-08-02: Restored content MD; owner LINE verify @Chia you; family links (Becky spouse; Ethan grandson); verification_status owner_verified
 
 <!-- TJJ-A10040500-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-6 article c62f5c50846fe267: 楊嘉猷 attended as TAHS 會長 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-10: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-10 — subject link in article 20053f0a17b89c07 (Tag: 大洛杉磯台灣會館耆老講座, 2025-02-16 存檔) re-checked vs 正文: 「8/17 洪茂澤、楊嘉猷談返台參選經驗」條目具名確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. (頁首 authors 清單屬全站作者欄位, 非本篇主題.) -->

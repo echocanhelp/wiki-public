@@ -101,3 +101,5 @@ last_reviewed: 2026-09-24
 <!-- TJJ-A10030400-1: verified 2026-10-05 — wave-2 re-check of slice 10030400-1 articles (77b0891e 信雅古典音樂珍藏啟用致詞 / 3be67f6e 台美人台加人存檔頁2 / 2e141df6 蔬果園藝標籤頁 / 2fa1c26a 台美人台加人存檔頁359): 林幸隆田土伯 link (2e141df6: 果樹培育密訣講座) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-3 article f454eda084b7ca99 (園藝分類熱門頁, 2024-02-25快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-8: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-8 articles c6f9dbff48b39366 (台美人台加人 popular, 2024-02-21 快照) & 8bf4798dd2771f38 (大洛杉磯台灣會館 popular, 2024-02-21 快照): 林幸隆 subject link re-checked vs 正文, real (「園藝講座-果樹培育密訣-by田土伯(林幸隆)-蔬果園藝交流在美洲-08282016」條目見於兩文正文), no wrong/spurious links; 2016-08-28 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
