@@ -45,3 +45,5 @@ last_reviewed: 2026-09-23
 - [[people/ching-sze-hsieh||謝清志]]
 - [[people/julius-shu-05||許清煌]]
 - Corpus re-grep 2026-09-21 (slice 09210317-1): hit set fully linked, no new absorbable material.
+
+<!-- TJJ-A10040600-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-2 article 9907500dda4f33bb (斯人已逝其德可追-緬懷鄭寶鼎博士 ◎林宏容, 2020-09-30): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

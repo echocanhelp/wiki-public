@@ -66,3 +66,5 @@ last_reviewed: 2026-09-25
 - Re-check 2026-09-23 (slice 09221200-12): fresh grep 王漢平/Hann-Ping Wang returns the identical set — own TAH #200 entry, memoir TAH #753, the 台灣民謠介紹 segment in Our Journeys 107, and 林宏容's TJJ memorial essay — all already absorbed; no new community facts.
 - Re-check 2026-09-25 (slice 09250900-3): fresh grep 王漢平/Hann-Ping Wang returns the identical set — TAH #200, TAH #753, Our Journeys 107, TJJ memorial essay, works index — all absorbed; no new community facts. SKIP-with-reason.
 - Re-check 2026-09-25 (slice 09240600-12): fresh grep 王漢平/Hann-Ping Wang returns the identical set — TAH #200, TAH #753, Our Journeys 107, TJJ memorial essay, works index — all absorbed; no new community facts. SKIP-with-reason.
+
+<!-- TJJ-A10040600-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-2 article 9907500dda4f33bb (斯人已逝其德可追-緬懷鄭寶鼎博士 ◎林宏容, 2020-09-30): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

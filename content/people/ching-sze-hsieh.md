@@ -88,3 +88,5 @@ Led FORMOSAT-1 (福衛一號) launch team as head of launch group at National Sc
 - 復核：語料庫命中集與既有 Role in the Community 完全一致（TAH #253、#244、#66、#261、#108、#152 HOLD），無新增可吸收事實。
 
 <!-- TJJ-A10020500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020500-1 article 59a68b9cd855c1bf (司法不公國耻之最：聲援翁啟惠連署, 2021-09-10): subject link re-checked vs 正文 (其投書發起的連署再度發起), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-2 article 9907500dda4f33bb (斯人已逝其德可追-緬懷鄭寶鼎博士 ◎林宏容, 2020-09-30): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

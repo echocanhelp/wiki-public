@@ -81,3 +81,5 @@ His Golden Orange Club (金桔會)/OCTA project-management role recorded in the 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-16 (slice 09160700-11): hit set against content/works + content/articles unchanged from prior passes — every hit is a page already linked/absorbed on this page (band B bibliography + memoir/community material above). Nothing new absorbable; no new conflicts. SKIP-no-new-material.
 - Corpus re-check log (2026-09-16, slice 09162138-8): re-grep Wang Jian-Juei / 王健椎 — hit set unchanged (own essay records 爾灣花壇情來牽, mystories266, #133 愛頌俱樂部, mystories497, my-stories-688/714, all already linked above). SKIP-with-reason; no new corpus facts, no conflicts.
+
+<!-- TJJ-A10040600-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-2 article 9907500dda4f33bb (斯人已逝其德可追-緬懷鄭寶鼎博士 ◎林宏容, 2020-09-30): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

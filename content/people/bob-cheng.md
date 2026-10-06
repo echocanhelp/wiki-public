@@ -78,3 +78,5 @@ Multiple further vault records mention him and were not yet linked from this pag
 - Collection record: [[works/taiwaneseamericanhistory-org/private-collections-102||#102 Collection of the Dr. Bob Cheng 鄭寶鼎博士的收藏]]; association context: [[works/taiwaneseamericanhistory-org/ourjourneys76||#76 全美台灣同鄉會 / 吳木盛 (2014-12)]] lists 鄭寶鼎 among the New Jersey branch leadership.
 - Family note, not merged: #767 names his wife 張錦雲; the existing Family field lists "Jean". No vault source explicitly equates the two, so per HOLD-on-name-spelling policy both stand pending review.
 - No new biography asserted, no web used, no new pages created, nothing published.
+
+<!-- TJJ-A10040600-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-2 article 9907500dda4f33bb (斯人已逝其德可追-緬懷鄭寶鼎博士 ◎林宏容, 2020-09-30): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
