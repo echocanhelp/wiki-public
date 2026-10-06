@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Nancy Yang (陳玲銖)
 
@@ -50,3 +50,4 @@ Nancy Yang graduated from the University of California, Berkeley, with a Master�
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09252123-14 (2026-09-26): verified-saturated — fresh ZH+EN re-grep hit set unchanged (#194, #858, #1025, #25, index; all bibliographic band-B records already cited in Role in the Community); no new absorbable facts. -->
+<!-- deepen-x slice 10051143-4 recheck 2026-10-06: SKIP — fresh ZH+EN re-grep hit set unchanged (#194, #858, #1025, #25, works/sources index; all bibliographic records already cited in Role in the Community); no new absorbable corpus facts. -->
