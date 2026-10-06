@@ -105,3 +105,5 @@ Corpus grep (游朝凱 / Charles Yu) returns 6 work records — awards-93, whos-
 <!-- TJJ-A10030500-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-4 article 5b6cede86851b2ba (游朝凱設立創意寫作獎報導, 2021-02-14 刊, 2021-02-14 刊): 游朝凱合作創立游玲娟、游銘泉創意寫作獎 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10030500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-5 article c76f11ecd2598ecb (2017台美文藝出版 台美人筆會發表會報導, 2017-06-11): subject link re-checked vs 正文（第二代作家名單/編委名單）, 連結為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-1: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-1 articles 9a39a754d2a3b236 (吳澧培回憶錄前言「一個堅持和無數的巧合」, 2015-10-12) / 5d471dbe6e4efbde & 74f89ee82c85dc78 (唐培禮訃聞+鄭世璋新使者文, 兩存檔, 2017-03-12) / 9c6973783db0011a (中央社記者黃淑芳游朝凱游銘泉專訪, 2024-07-06): subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

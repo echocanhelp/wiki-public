@@ -134,3 +134,7 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10020400-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020400-2 articles (da7f84e2 / 24119694 / 43b81b6b / 79291dad): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020400-5: verified 2026-10-05 — wave-2 re-check of slice 10020400-5 articles 81e80ba38969bf88 / 9412105875987041 / 92917d4c9a88eba2 / fd270f41202454d7: subject links re-checked vs 正文, all real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-2: article e3440fec 籌謀台灣不流血革命(陳昭南 2022-05-09): 謝聰敏 link (由台灣赴美、加入美麗島週報社名單) — confirmed in 正文 re-checked vs 正文 this attempt, link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-1: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-1 articles 9a39a754d2a3b236 (吳澧培回憶錄前言「一個堅持和無數的巧合」, 2015-10-12) / 5d471dbe6e4efbde & 74f89ee82c85dc78 (唐培禮訃聞+鄭世璋新使者文, 兩存檔, 2017-03-12) / 9c6973783db0011a (中央社記者黃淑芳游朝凱游銘泉專訪, 2024-07-06): subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

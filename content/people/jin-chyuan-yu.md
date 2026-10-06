@@ -80,3 +80,5 @@ last_reviewed: 2026-09-27
 <!-- TJJ-A09260600-5: verified 2026-09-27 — wave-2 re-check of slice articles f4bc88a2 二二八77周年會館追思 / 5b6cede8 游朝凱寫作獎 / 64302d51 黃瑞芬訃聞 / d6441ab3 陳文成40週年: subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10030500-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-4 article 5b6cede86851b2ba (游朝凱設立創意寫作獎報導, 2021-02-14 刊, 2021-02-14 刊): 游銘泉與游玲娟為獎項命名對象 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-1: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-1 articles 9a39a754d2a3b236 (吳澧培回憶錄前言「一個堅持和無數的巧合」, 2015-10-12) / 5d471dbe6e4efbde & 74f89ee82c85dc78 (唐培禮訃聞+鄭世璋新使者文, 兩存檔, 2017-03-12) / 9c6973783db0011a (中央社記者黃淑芳游朝凱游銘泉專訪, 2024-07-06): subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
