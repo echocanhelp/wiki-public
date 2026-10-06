@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # B. Michael Yeun (楊明昊)
 
@@ -48,3 +48,4 @@ last_reviewed: 2026-10-01
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-10-01 (deepen-x slice 09261100-11): fresh ZH+EN grep — hit set adds only musician57 / whoswho1113 (Nam Yeung 楊楠, pianist) and whos-who-2008-wah-sang-yeung (Wah Sang Yeung 楊和生), which matched on the romanisation 'Yeun'/'Yang' only; all three are different people, no 楊明昊 text in them. True hit set unchanged (work record 902 + Our Journeys #75 EN/ZH officer roster + index) — saturated, nothing new absorbable.
+<!-- deepen-x 10051143-24: SKIP — corpus re-scan (works/articles/sources/events/topics) fresh 2026-10-06: ZH+EN grep hit set identical to prior passes (record 902 + Our Journeys #75 EN/ZH 2014 FAHR roster + index); no new community material. -->

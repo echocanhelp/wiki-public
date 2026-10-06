@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Chi-Chin Huang (黃際鑫)
 
@@ -42,6 +42,7 @@ Source from Taiwanese Association of American Greater Washington Chapter Special
 - 複核（2026-09-25, deepen-x slice 09231200-29）：重新 grep works/+articles/ 僅見上述已引用記錄（ourjourneys76／76-eng／ourjourneys-138／TAH #1382）與索引行；回憶錄內容與現有文字一致，無新事实可吸收。
 - 複核（2026-09-25, deepen-x slice 09250500-17）：再 grep 僅見同一組已吸收記錄，無新语料 — SKIP-with-reason。
 - 複核（2026-10-01, deepen-x slice 09261100-28）：fresh ZH+EN full-corpus grep（黃際鑫 / Chi-Chin Huang）僅見 ourjourneys-138、ourjourneys76（含 -eng 版）、own TAH #1382、works/index — 已全數吸收；另組織頁與同人頁（TAA Greater Cleveland、TAA Houston、donald-c-j-chen、yi-ho-cheng）仅重複引用同批回憶錄，無新事实。
+- 複核（2026-10-06, deepen-x slice 10051143-24）：再 grep works/articles/sources/events/topics 僅見同一組已吸收記錄（ourjourneys76／76-eng 全美會登記、ourjourneys-138 華府回憶、TAH #1382、index），無新语料 — SKIP-with-reason.
 
 ## Sources
 - [TAH #1382 encyclopedia: 1382. Chi-Chin Huang 黃際鑫 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1382/)
