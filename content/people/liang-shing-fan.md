@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-06
 ---
 # Liang-Shing Fan (范良信)
 
@@ -53,3 +53,4 @@ last_reviewed: 2026-09-30
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
  Re-grep 2026-09-25 (slice 09250317-27): hit set identical (ourjourneys234/81/123 + -eng, whos657) — verified saturated, SKIP.
 <!-- deepen-x slice 09251527-21 (2026-09-26): re-verified — fresh grep 范良信 confirms all corpus passages (ourjourneys234 校園分發名單, ourjourneys81 費城會談+UFAI 執委/中委名單, ourjourneys123 明州演講《經濟與統獨》, whos657) already absorbed verbatim into Role in the Community; hit set identical — verified saturated, SKIP content-deepen. -->
+- Corpus re-grep (slice 10051143-5, 2026-10-06): fresh 范良信/Liang-Shing Fan grep of works/articles/sources/events/topics — hit set identical (ourjourneys234, ourjourneys81 + -eng, ourjourneys123 + -eng, whos657); all passages already absorbed verbatim into Role in the Community; verified-saturated, nothing new absorbable.

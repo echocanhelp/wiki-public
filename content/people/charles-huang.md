@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Charles Huang (黃啟仁)
 
@@ -53,3 +53,4 @@ last_reviewed: 2026-10-01
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09251527-15: SKIP re-verified 2026-09-26 — fresh ZH+EN grep returns exactly OJ#33, story #749, own entry #1919 + works index, all already linked; verified-saturated. -->
+- Corpus re-grep (slice 10051143-5, 2026-10-06): fresh 黃啟仁/Charles Huang grep of works/articles/sources/events/topics — hit set unchanged (OJ#33-eng, mystories-749, whos-who-1919 + works/index); all already linked above; verified-saturated, nothing new absorbable.
