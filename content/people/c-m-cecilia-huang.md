@@ -66,3 +66,5 @@ last_reviewed: 2026-10-01
 _Corpus re-check 2026-09-26 (deepen-x slice 09251000-1): fresh grep works/+articles/ — hit set identical to records already wikilinked/absorbed above; no new absorbable facts. SKIP-with-reason: saturated._
 
 _Corpus re-check 2026-09-26 (deepen-x slice 09260317-13): fresh grep works/+articles/ — hit set identical to records already wikilinked/absorbed above (publications1227, mystories624, TAH #2114, TJJ archive 99aaa4abcb78ff6d). No new absorbable facts. SKIP-with-reason: saturated._
+
+<!-- TJJ-A10040600-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-3 article 99aaa4abcb78ff6d (台美人台加人分類存檔 p2, 2024-04-25快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

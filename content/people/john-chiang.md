@@ -147,3 +147,5 @@ His childhood experience with racial discrimination shaped his worldview. He wit
 <!-- TJJ-A10030400-6: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-6 articles ([[articles/taiwanjustice-net/2017/20171109045230_category_english-pages_2b4b26ff68b75bc6|2b4b26ff English Pages目錄]]): John Chiang 專欄條目 link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-2 article c351c962b4545bfa (English Pages p2, 2020-06-26 快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-3 article b1e144ecc18e460f (English Pages 分類隨機頁, 2024-02-24快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

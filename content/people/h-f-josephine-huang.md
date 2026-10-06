@@ -75,3 +75,5 @@ last_reviewed: 2026-09-23
 <!-- TJJ-A10020700-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020700-2 article bff4c7110803d864 (台美人團體領袖祝賀蕭美琴履任駐美代表, 大紀元 2020-08-08): subject link re-checked vs 正文, real (FAPA柑縣分會會長讚譽蕭美琴), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-2 article 9907500dda4f33bb (斯人已逝其德可追-緬懷鄭寶鼎博士 ◎林宏容, 2020-09-30): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-3 article b1d58af16c0a5e5b (2021年南加州僑界支持台灣參與WHA聯合聲明, 2021-06-16快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

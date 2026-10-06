@@ -144,3 +144,7 @@ last_reviewed: 2026-10-01
 <!-- TJJ-A10020500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020500-1 article c0530664ab4c2948 (Taipei Times 社論轉載「陳水扁的審判應受調查」, 2016-04-11): subject link re-checked vs 正文 (扁案特赦爭議與審判瑕疵通篇為主題), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article 795e52aadf3797a0（Chen Shui-bian release op-ed, 2015-01-07）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-9: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-9 article f19de8f9d3b53071 (Chen Shui-bian's return to prison/Michael Richardson, 2024-04-25快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-3 article b1e144ecc18e460f (English Pages 分類隨機頁, 2024-02-24快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

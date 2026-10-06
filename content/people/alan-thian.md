@@ -367,3 +367,7 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 <!-- TJJ-A10040500-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-7: article 71a7c64663ea03b6: 田詒鴻董事長率皇佳商業銀行捐贈 3,900 口罩 re-checked vs 正文, real, no wrong/spurious links; 2020-06-23 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article c05e2d53013fcd15（會館疫情服務報導 2020-06-23）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-9: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-9 article 2a543ddc9301b7b3 (會館24週年募款年會公告, 2022-09-24快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-3 article b1d58af16c0a5e5b (2021年南加州僑界支持台灣參與WHA聯合聲明, 2021-06-16快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
