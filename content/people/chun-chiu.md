@@ -68,3 +68,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09260600-6: verified 2026-09-27 — subject links in slice article fa7c957f552d76e9（總統府資政國策顧問名單, 2022-09-02）confirmed real vs 正文（資政/國策顧問名單）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - 2026-10-03 DEEPEN-X09270600-2: re-verified — fresh grep (邱俊邦/Chun Chiu) across works+articles returns only Our Journeys 19/24/53 + -eng variants, whoswho1072, and the TJJ 國策顧問名單 article (fa7c957f552d76e9), all already wikilinked with facts absorbed. Nothing new absorbable. SKIP: verified-saturated. hits-hash=chiu-jb-0927-2
+
+<!-- TJJ-A10030500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-5 article fa7c957f552d76e9 (總統府公布資政27人國策顧問70人名單, 2022-09-02): subject link re-checked vs 正文（資政/國策顧問名單所載）, 連結為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

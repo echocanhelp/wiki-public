@@ -80,3 +80,5 @@ Accomplishment
 
 <!-- TJJ-A09260600-6: verified 2026-09-27 — subject links in slice article 2a0ba680f2b8720a（海內外人權救援聯展, 2024-06-08）confirmed real vs 正文（台灣之音1977夫妻/彭明敏X計畫）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10030400-3: verified 2026-10-05 — wave-2 re-check of slice 10030400-3 article c082b036 (慈林「撕開黑幕的光」聯展 CNA 報導, 2024-06-08): 張富雄1977年創立台灣之音記述再確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2024-06-08 條目已在庫 — saturated, no new material. -->
+
+<!-- TJJ-A10030500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-5 article 2a0ba680f2b8720a (海內外人權救援聯展 慈林教育基金會, 2024-06-08; 同稿 c082b036 之第二存檔副本): subject link re-checked vs 正文（台灣之音1977夫妻/彭明敏X計畫）, 連結為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -74,3 +74,5 @@ last_reviewed: 2026-10-01
 - Corpus re-check (deepen-x slice 09260317-27, 2026-09-26): fresh grep works+articles, hit set identical（本人條目 TAH #1696、works index、台文通訊30週年 TJJ 公告，皆已吸收）-- saturated, SKIP.
 
 <!-- TJJ-A09260600-6: verified 2026-09-27 — subject links in slice article 52a71221d3029866（台文通訊30週年慶祝會ONLINE, 2021-06-29）confirmed real vs 正文（特別來賓名單）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-5 article 52a71221d3029866 (台文通訊30週年慶祝會ONLINE 公告, 2021-06-29): subject link re-checked vs 正文（特別來賓名單）, 連結為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
