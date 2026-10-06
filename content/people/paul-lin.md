@@ -81,3 +81,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10030500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030500-1 article dc44b297e6225e64 (郝龍斌倡導阿扁保外就醫論評全文/主講林水波教授, 2024-07-19 快照): subject link re-checked vs 正文 (主講人「林水波教授」確認見於標題與內文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-6 article 63717cb2b99ce3c3 (台美人台加人 p3, 2024-04-25 快照): subject link 林水波教授 re-checked vs 正文 (「政黨輪替的優勢, 劣勢, 機會與威脅/講師:林水波教授/長青教室/2017-10-18'), real, no wrong/spurious links; 2017-10-18 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040700-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-6 article e9ec20fd58bf6b1c (長青教室標籤頁 p6, 2024-06-21快照): subject link re-checked vs 正文 (「長青教室 心得報告: 郝龍斌倡導阿扁保外就醫論評/:主講人: 林水波教授/ 10-24-2012」條目確認見於正文), real, no wrong/spurious links; 2012-10-24 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

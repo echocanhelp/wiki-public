@@ -67,3 +67,5 @@ last_reviewed: 2026-09-21
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- TJJ-A09260400-28: verified 2026-09-26 — slice articles 073ea211088c8fae / e9ec20fd58bf6b1c / c595d332038f73bb / c30596cc1ea6e337 (tag/directory pages) re-checked vs 正文; subject link real, dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040700-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-6 article 073ea211088c8fae (Tag: 導讀台灣 p2, 2025-05-25快照): subject link re-checked vs 正文 (「導讀台灣 20231210 被打壓的那場改選…郭雨新落選」條目確認見於清單), real, no wrong/spurious links; 2023-12-10 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

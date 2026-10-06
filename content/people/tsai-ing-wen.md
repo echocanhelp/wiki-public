@@ -167,3 +167,5 @@ name_en: "Tsai Ing-wen"
 <!-- TJJ-A10040600-9: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-9 article d2d01925bc6bbba3 (English Pages p5, 2024-07-18快照): subject link re-checked vs 正文 (Taiwan Opposition's Presidential Nominee Tsai Ing-wen Says Won't Change China Ties條目確認見於正文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-12: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-12 article b63290424caedcf7 (LA Times Ralph Jennings 蔡英文參選報導轉載, 2015-04-16 發文 / 2024-06-16 快照): subject link re-checked vs 正文 (本人為本文主角、民進黨提名候選人), real, no wrong/spurious links; 2015-04-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040700-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-6 article 432e1fca739d02b8 (Ed Royce 標籤頁, 2024-06-13快照): subject link re-checked vs 正文 (標籤頁首條「蔡英文：今年將訪美國首府華盛頓 ◎民報 03-14-2015」確認見於正文), real, no wrong/spurious links; 2015-03-14 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

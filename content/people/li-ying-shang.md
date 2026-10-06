@@ -71,3 +71,5 @@ _Corpus re-grep 2026-09-25 (slice 09250800-12): ZH+EN grep of works/+articles/ r
 _Corpus re-grep 2026-09-26 (slice 09260317-10): ZH+EN grep (商麗鶯 / Li-Ying Shang) returns the same six linked records (concerts81, musical-concerts-150, #17, #180, #13051, #107) — verified saturated, no new facts, no conflicts._
 
 <!-- TJJ-A09260400-28: verified 2026-09-26 — slice articles 073ea211088c8fae / e9ec20fd58bf6b1c / c595d332038f73bb / c30596cc1ea6e337 (tag/directory pages) re-checked vs 正文; subject link real, dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040700-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-6 article e9ec20fd58bf6b1c (長青教室標籤頁 p6, 2024-06-21快照): subject link re-checked vs 正文 (「長青教室 心得報告:『聽故事, 吟詩歌』/ 講員:商麗鶯老師/10-16-2012」條目確認見於正文), real, no wrong/spurious links; 2012-10-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
