@@ -327,3 +327,6 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10040600-10: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-10 — subject links in article 004420da7bd583a2 (新聞觀測站分類頁, 2024-04-25 快照) and article f6213c1937fa956d (全美台灣同鄉會2021年二二八紀念系列活動圓滿落幕, 2021-03-14) re-checked vs 正文: 準副總統蕭美琴選後專訪 2024-02-10 條目確認見於 article 004420da7bd583a2 (新聞觀測站分類頁, 2024-04-25 快照) 正文清單; 駐美大使蕭美琴於開幕紀念會隔洋致詞確認見於 article f6213c1937fa956d (全美台灣同鄉會2021年二二八紀念系列活動圓滿落幕, 2021-03-14) 正文 — both real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-5 article 5dd0106e892b8f96（台灣新聞 分類存檔頁3, 2020-07-13 快照, 條目 2020-07-11/12）: subject link re-checked vs 正文 this attempt — 蕭美琴專訪三則（創新推動全面台美關係／美中戰略競爭科技安全／台美高層互動與個人夢想）條目具名，真實提及，無錯鏈、無虛鏈；含該文 wikilink 之日期事實條目已在庫 — saturated, no new material. -->
+
+
+<!-- TJJ-A10040700-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-3 articles 8216e7ca508266e9 (蕭清芬牧師在美過世標籤頁, 2022-05-21快照: 父女關係標題提及) + 8c20569762592915 (南加州教會槍殺案駐處查證, 2022-05-16刊: 駐美代表代表政府向鄭達志家屬哀悼): subject links re-checked vs 正文, real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->

@@ -73,3 +73,6 @@ last_reviewed: 2026-10-01
 <!-- TJJ-A09260500-3: verified 2026-09-27 — subject link vs 正文 real (24119694dbb384c9 刺蔣案50週年對談報導); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020400-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020400-2 articles (da7f84e2 / 24119694 / 43b81b6b / 79291dad): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+
+<!-- TJJ-A10040700-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-3 article 03754005e8506b45 (陳文成紀念廣場募款報導, 2019-11-02刊): 周婉窈台大歷史系教授出席記者會 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
