@@ -72,18 +72,18 @@ Do you have a…
 ### Media stack / LLM UP–DOWN (pinto)
 
 **Full how-to (best utilization):** [`~/ai-services/media-stack/docs/USER_GUIDE.md`](../../ai-services/media-stack/docs/USER_GUIDE.md)  
-Orchestrator: `~/ai-services/media-stack/orchestrator/` · Policy: **force UP on reboot** (Ornith `:8888`). Hard = agent off (no Lightning). Laguna deprecated.
+Orchestrator: `~/ai-services/media-stack/orchestrator/` · Policy: **force UP on reboot** (`qwen38-autoround-int4.service` = `universal` on `:8888`). Hard = agent off (no Lightning). Ornith / DSV4 / Laguna / Qwen-NVFP4 are **deleted** — no unit files, no weights, not rollback targets. `:8890` is masked, stays down.
 
 | You say | What happens |
 |---------|----------------|
-| `go media status` / `go llm mode` | mode/ports/mem/thermal via `media-status.sh` |
-| `go back to laguna` / `go emergency up` / `go back to ornith` | panic restore Ornith UP (`media-emergency-up.sh`) |
-| `go generate image …` (local) | `soft_image.sh` (SD1.5 soft; Ornith stays up) |
-| `go describe this image` (local) | `native_vision.sh` (Ornith `:8888`) |
+| `go media status` / `go llm mode` | mode/ports/mem/thermal via `orchestrator/media-status.sh` |
+| `go emergency up` / stuck | panic restore worker UP (`media-emergency-up.sh` → `transition.py emergency-up`) |
+| `go generate image …` (local) | `soft_image.sh` (SD1.5 soft; `:8888` stays up) |
+| `go describe this image` (local) | `native_vision.sh` (`:8888`) |
 | `go echo resonance …` | skill **`echo-resonance`**. Palette: `media_profile.py` → jobs sidecar; human contract: `content/media/creation-guide.md`. `music only` ≠ BGM. |
 | hard fat media | `run_job.sh hard` / wrappers — **agent off**, no `:8890` |
 
-**Default:** prefer **soft** (Ornith up). **Hard** only for fat GPU. LINE stays Grok during hard. Vault disk always available. Stuck → emergency up.
+**Default:** prefer **soft** (`:8888` stays up). **Hard** only for fat GPU. LINE stays Grok during hard. Vault disk always available. Stuck → emergency up.
 
 ### Ingest a new website
 1. Say: `Echopedia website <domain>`
@@ -205,12 +205,12 @@ Do **not** say “archive” when you want it on Echopedia. Legacy phrase `Echop
 **Default (Leonard / Hsuperman):** saying **Echopedia** + a target means **live wiki**, not research-only.
 
 **Default workflow when user says "Echopedia <person> <fact>":**
-1. **Grok (frontier):** identity judgment + assign WORKER **P8** card to Ornith worker
-2. **Ornith (pinto LAN):** P8 with the fact as source (commit only, no publish)
-3. **Ornith:** P1 to verify (ops/drift/smoke)
-4. **Ornith:** P2 to publish if green
+1. **Grok (frontier):** identity judgment + assign WORKER **P8** card to the LAN worker (`:8888` live id)
+2. **LAN worker (pinto):** P8 with the fact as source (commit only, no publish)
+3. **LAN worker:** P1 to verify (ops/drift/smoke)
+4. **LAN worker:** P2 to publish if green
 
-**This runs automatically.** The planner (Grok) does NOT execute P8/P9 bulk — it assigns the card; the Ornith worker runs the playbook. The user only needs to say "Echopedia <target> <fact>".
+**This runs automatically.** The planner (Grok) does NOT execute P8/P9 bulk — it assigns the card; the LAN worker runs the playbook. The user only needs to say "Echopedia <target> <fact>".
 
 | You say | System must do |
 |---------|----------------|

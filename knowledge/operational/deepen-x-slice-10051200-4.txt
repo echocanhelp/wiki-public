@@ -1,0 +1,4 @@
+people/ching-nan-ou.md
+people/j-y-jackson-ko.md
+people/henry-c-liu.md
+organizations/global-alliance-for-democracy-and-peace-la.md

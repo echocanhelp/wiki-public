@@ -1,0 +1,4 @@
+people/dr-ming-daw-tsai.md
+people/hanna-huang.md
+people/scott-lee.md
+organizations/chicago-taiwanese-architecture-institute-ctai.md

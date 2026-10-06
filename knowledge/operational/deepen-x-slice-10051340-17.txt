@@ -1,0 +1,4 @@
+people/gene-jack-wang.md
+people/rev-shirley-lin.md
+people/chung-h-wu.md
+people/h-j-chen.md

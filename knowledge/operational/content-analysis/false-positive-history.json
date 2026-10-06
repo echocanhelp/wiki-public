@@ -3801,7 +3801,8 @@
     "2026-08-23",
     "2026-09-23",
     "2026-09-24",
-    "2026-09-25"
+    "2026-09-25",
+    "2026-10-05"
   ],
   "organizations/taiwanese-american-student-association-at-uc-san-diego.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -3856,7 +3857,8 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-05"
   ],
   "organizations/taiwanese-american-students-association-at-johns-hopkins-university.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -4181,7 +4183,8 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-05"
   ],
   "organizations/taiwanese-association-of-west-michigan.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -5887,7 +5890,8 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-05"
   ],
   "people/chihmei-lin-chen.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -8055,7 +8059,8 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-05"
   ],
   "people/fenglien-lee.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -16979,6 +16984,22 @@
     "2026-10-03"
   ],
   "people/chinying-rachel-chang.md|LINKS_HIGH_DENSITY": [
-    "2026-10-04"
+    "2026-10-04",
+    "2026-10-05"
+  ],
+  "organizations/taiwanese-american-student-association-at-uc-berkeley.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-05"
+  ],
+  "organizations/taiwanese-american-student-association.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-05"
+  ],
+  "organizations/taiwanese-association-of-the-greater-salt-lake.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-05"
+  ],
+  "people/chih-y-kuo.md|LINKS_HIGH_DENSITY": [
+    "2026-10-05"
+  ],
+  "people/felix-liu.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-05"
   ]
 }

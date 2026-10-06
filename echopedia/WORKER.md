@@ -30,7 +30,7 @@ Planner (Grok) wrote the card. You execute. You do not redesign.
 
 **Second purpose of this file:** keep **premium Grok tokens** on judgment; spend **free LAN (`:8888`) tokens** on playbook execution.
 
-Live: pinto `model.default` = **served id on `:8888`** (`custom:pinto`). Probe `curl -sf :8888/v1/models` — do **not** pin Ornith/DSV4/Laguna by name. After a stack swap, `retarget-lan-hermes.sh` must run. Laguna **deprecated** — revert only via `swap-llm-stack.sh laguna-primary`. Grok appears when the operator `/model`s or this chat already fell over to xAI.
+Live: pinto `model.default` = **served id on `:8888`** (`custom:pinto`). Probe `curl -sf :8888/v1/models` — do **not** pin Ornith/DSV4/Laguna by name (all deleted, not rollback targets). After a stack swap, `retarget-lan-hermes.sh` must run. Grok appears when the operator `/model`s or this chat already fell over to xAI.
 
 | Role | Model | May | Must not |
 |------|-------|-----|----------|

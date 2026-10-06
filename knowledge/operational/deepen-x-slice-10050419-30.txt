@@ -1,0 +1,4 @@
+organizations/yes-plaza.md
+people/cheng-shen-fang.md
+organizations/greater-los-angeles-hotel-motel-association.md
+people/lian-huo-wu.md

@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "standards_version": 10,
   "total_pages_scanned": 2930,
-  "pages_with_findings": 1,
+  "pages_with_findings": 6,
   "auto_queued": 0,
   "queue": [],
   "suppressed_findings": 2253,
-  "fp_history_entries": 2317
+  "fp_history_entries": 2322
 }

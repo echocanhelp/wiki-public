@@ -1,0 +1,4 @@
+organizations/asu-taiwanese-international-student-association.md
+organizations/new-world-art-center.md
+organizations/vanderbilt-tssa.md
+organizations/hakka-foundation.md

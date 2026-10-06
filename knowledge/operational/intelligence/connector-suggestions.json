@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04T07:00:25.228228",
+  "generated_at": "2026-10-05T07:00:33.915542",
   "pages_scanned": 2936,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 5041,
-    "co_mention_count": 10605,
+    "co_citation_count": 5046,
+    "co_mention_count": 10626,
     "shared_tags_count": 0,
     "orphan_folder_count": 3,
     "kept_co_citation": 80,
@@ -138,7 +138,7 @@
         "shared_target": "articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Taiwanese American Arts Association",
-        "shared_targets_count": 13
+        "shared_targets_count": 15
       },
       {
         "type": "CO-CITATION",
@@ -147,7 +147,7 @@
         "shared_target": "articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Taiwanese American Association of Los Angeles-East San Gabriel Valley(TAA-ESGV)",
-        "shared_targets_count": 13
+        "shared_targets_count": 15
       },
       {
         "type": "CO-CITATION",
@@ -156,7 +156,7 @@
         "shared_target": "articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Taiwanese American Pen Club",
-        "shared_targets_count": 13
+        "shared_targets_count": 15
       },
       {
         "type": "CO-CITATION",
@@ -165,7 +165,7 @@
         "shared_target": "articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Taiwanese American Soft Tennis Association",
-        "shared_targets_count": 9
+        "shared_targets_count": 11
       },
       {
         "type": "CO-CITATION",
@@ -174,7 +174,7 @@
         "shared_target": "articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "ALAN T. CHEN (陳清風)",
-        "shared_targets_count": 9
+        "shared_targets_count": 11
       },
       {
         "type": "CO-CITATION",
