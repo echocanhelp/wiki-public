@@ -111,3 +111,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10030400-4: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-4 article a20fb275b89c3fb7（刺蔣案策劃者鄭自才登記總統連署, 2023-09-18）＋article 996879ac7a006acf（FAHR第44屆年會暨鄭南榕紀念獎頒獎, 2020-11-25）: subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-5 article 31b7081a5d37939f（化作千風－王泰和追思會影音, 2022-07-12 刊）: subject link re-checked vs 正文（424刺蔣案黃文雄射擊敘述）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record（身份 HOLD 維持原樣）— saturated, no new material. -->
+
+<!-- TJJ-A10040600-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-5 article 2777c88877eee2c5（Tag: 長青教室 標籤彙整頁, 2024-06-20 快照, 正文條目 2016-11-19〜2017-05-25）: subject link re-checked vs 正文 this attempt — 「3/15 長青教室 YouTube Video: 人際關係 by 黃文雄醫師」條目具名，真實提及，無錯鏈、無虛鏈；含該文 wikilink 之日期事實條目已在庫 — saturated, no new material. -->

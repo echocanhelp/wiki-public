@@ -67,3 +67,5 @@ last_reviewed: 2026-09-25
 複核（deepen-x 2026-09-23 slice 09230317-15）：re-grep 命中集合不變（ourjourneys244/186/186-eng/283/307、whoswho1029）— 飽和，SKIP。
 
 <!-- TJJ-A10040600-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-3 article b1d58af16c0a5e5b (2021年南加州僑界支持台灣參與WHA聯合聲明, 2021-06-16快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-5 article 80c0a825a7a661b6（2021年南加州僑界支持台灣參與世界衛生大會WHA聯合聲明, 2025-11-08 快照, 聲明 2021-05-13）: subject link re-checked vs 正文 this attempt — 列名共同發起人清單「蘇國雄」，真實提及，無錯鏈、無虛鏈；含該文 wikilink 之日期事實條目已在庫 — saturated, no new material. -->

@@ -375,3 +375,5 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 <!-- TJJ-A10040500-8: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-8 article c3e762826a7e42d2 (大洛杉磯台灣會館22週年募款年會公告, 2020-11-17刊): subject link re-checked vs 正文 — 2018年擴建募款由時任董事長田詒鴻（行政院政務顧問）帶領啟動見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-6 article 74a9c518e681a3de (台美人台加人 p2, 2020-06-26 快照): subject link 田詒鴻 re-checked vs 正文 (「田詒鴻代表桃園市捐贈防疫物資，關懷友好城市長堤市'), real, no wrong/spurious links; 2020-05-30 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-5 article 80c0a825a7a661b6（2021年南加州僑界支持台灣參與世界衛生大會WHA聯合聲明, 2025-11-08 快照, 聲明 2021-05-13）: subject link re-checked vs 正文 this attempt — 列名共同發起人清單「田詒鴻」，真實提及，無錯鏈、無虛鏈；含該文 wikilink 之日期事實條目已在庫 — saturated, no new material. -->

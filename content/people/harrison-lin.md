@@ -64,3 +64,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/irvine-taiwanese-presbyterian-church||ITPC]] — TAH Who’s Who
 - Re-grep 2026-09-25 (slice 09250800-26): fresh ZH+EN grep over content/works + content/articles returned the identical hit set — all records already absorbed above. Verified-saturated, SKIP-with-reason. (hit set: own TAH #1596 + works index + 長青教室 archive page)
 - Corpus re-grep 2026-10-04 (deepen-x slice 09300315-25): fresh ZH+EN grep (林貞棟 / Harrison Lin) over works/ + articles/ returns the identical hit set — own TAH #1596 record, works index, and the 長青教室 archive page, all already absorbed above. Verified-saturated, SKIP-with-reason: no new corpus material, no conflicts. hits-hash=19a679434f10+ed01dd5538fb+d21991f60487
+
+<!-- TJJ-A10040600-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-5 article 2777c88877eee2c5（Tag: 長青教室 標籤彙整頁, 2024-06-20 快照, 正文條目 2016-11-19〜2017-05-25）: subject link re-checked vs 正文 this attempt — 「3/29 長青教室 1)聽力損失: 林貞棟醫師/教授, (英語)」條目具名，真實提及，無錯鏈、無虛鏈；含該文 wikilink 之日期事實條目已在庫 — saturated, no new material. -->

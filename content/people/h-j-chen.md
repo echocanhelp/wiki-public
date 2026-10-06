@@ -56,3 +56,5 @@ _No filled family fields on the TAH profile._
 
 ## Network
 - [[organizations/irvine-taiwanese-presbyterian-church||ITPC]] — TAH Who’s Who
+
+<!-- TJJ-A10040600-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-5 article 2777c88877eee2c5（Tag: 長青教室 標籤彙整頁, 2024-06-20 快照, 正文條目 2016-11-19〜2017-05-25）: subject link re-checked vs 正文 this attempt — 「3/29 長青教室…曾凡鋼教授,陳小娟教授(華語)」聽力測試問答條目具名，真實提及，無錯鏈、無虛鏈；含該文 wikilink 之日期事實條目已在庫 — saturated, no new material. -->
