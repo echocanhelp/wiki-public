@@ -336,3 +336,5 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 <!-- TJJ-A10020400-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020400-2 articles (da7f84e2 / 24119694 / 43b81b6b / 79291dad): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020400-3: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020400-3 article 097b5750fcf3091a (會館董事長陳柏宇賑災協調, 2024-04-04): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10020500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020500-1 article 2f4af86847559b66 (2024大洛杉磯台灣會館26周年晚宴公告, 2024-10-04): subject link re-checked vs 正文 (董事、名列38位購票聯絡人第二位), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. NOTE: mojibake 大洛杉磮 in citation block title persists — generator-side fix, prose untouched. -->

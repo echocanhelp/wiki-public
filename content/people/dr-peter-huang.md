@@ -103,3 +103,5 @@ last_reviewed: 2026-09-24
 - 2017-02-23 至 2021-08-27 — 台灣公義網「黃勝雄醫師」標籤彙整頁持续蒐錄其健康科普講座紀錄：「老人的記憶與記憶的神經科學」（2017-02-23）、長青教室「從基因學看老人的健康與長壽」（2018-05-16）、「老人健康研習會講座系列」講憂鬱症（公告延期至 2020-02-23 舉辦）、「SARS Cov 2 知多少! COVID 19 何時了」（2021-08-27）——健康科普為其在台美人社群的長期固定貢獻（[[articles/taiwanjustice-net/2024/20240530132621_root_cc3dcc87b0a9ed2f|TJJ tag page, 2024-05-30 快照]]；長青教室「從基因學看老人的健康與長壽」同見長青教室標籤頁 [[articles/taiwanjustice-net/2024/20240523001759_root_23e163f71d3f2ba5|2024-05-23 快照]]）。
 
 <!-- TJJ-A10010400-1: verified 2026-10-05 — wave-2 re-check of slice 10010400-1 article cc3dcc87 「黃勝雄醫師」標籤彙整頁 (2024-05-30 快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10020500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020500-1 article 23a52af3dcf8a6ce (「記憶的神經科學」標籤頁, 2024-07-23 快照): subject link re-checked vs 正文 (本人為「老人的記憶與記憶的神經科學」演講主講人, 2017-02-23), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

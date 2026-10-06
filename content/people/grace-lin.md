@@ -95,3 +95,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10020700-1: verified 2026-10-05 — wave-2 re-check of slice 10020700-1 article 26f76359 糖尿病與你: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10010400-1: verified 2026-10-05 — wave-2 re-check of slice 10010400-1 article cc3dcc87 「黃勝雄醫師」標籤彙整頁 (2024-05-30 快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10020500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020500-1 article 23a52af3dcf8a6ce (「記憶的神經科學」標籤頁, 2024-07-23 快照): subject link re-checked vs 正文 (本人為該報導文字紀錄撰寫人, 蕭慶和攝製), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

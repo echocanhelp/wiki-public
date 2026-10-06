@@ -73,3 +73,5 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- TJJ-A10020500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020500-1 article 59a68b9cd855c1bf (司法不公國耻之最：聲援翁啟惠連署, 2021-09-10): subject link re-checked vs 正文 (連署聯絡人之一, 與翁青志、陳怡君), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

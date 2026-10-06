@@ -68,3 +68,5 @@ CORPUS SCAN (2026-09-23, slice 09221100-15; re-run 2026-09-24, slice 09230600-6)
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- TJJ-A10020500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020500-1 article 59a68b9cd855c1bf (司法不公國耻之最：聲援翁啟惠連署, 2021-09-10): subject link re-checked vs 正文 (本人為連署聲援對象, 浩鼎案2018-12獲無罪仍遭彈劾), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

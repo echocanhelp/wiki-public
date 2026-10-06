@@ -140,3 +140,5 @@ last_reviewed: 2026-10-01
 <!-- TJJ-A09260500-4: verified 2026-09-27 — slice articles 69b4f44f9c019bd5 / 760a0bc942e1676b / 097b5750fcf3091a / 1f001897255f71a7 re-checked vs 正文; subject links all real (paul-chen = 會館董事長 陳柏宇 per TAH #1788 owner ruling), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020400-3: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020400-3 article 69b4f44f9c019bd5 (陳水扁台中監獄自縊專訪報導, 2013-06-10): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10020500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020500-1 article c0530664ab4c2948 (Taipei Times 社論轉載「陳水扁的審判應受調查」, 2016-04-11): subject link re-checked vs 正文 (扁案特赦爭議與審判瑕疵通篇為主題), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
