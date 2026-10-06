@@ -124,3 +124,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10040500-10: verified 2026-10-06 — subject links in slice 10040500-10 articles (a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e / beff9b8cd9711c3d) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-3 article b1d58af16c0a5e5b (2021年南加州僑界支持台灣參與WHA聯合聲明, 2021-06-16快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-11: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-11 article c9dd9fb782cc99b8 (Covid-19 浩劫餘生錄分類頁, 2021-11-29快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -77,3 +77,5 @@ Mao-ching (David) Huang 黃茂清 – History of Taiwanese American (T.A. Archiv
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 覆核（TJJ-A09300400-22, 2026-10-04）：本 slice 四篇快照頁 53455d7e（挺港聯合聲明, 2024-02-21 快照）、c9dd9fb7（Covid-19 浩劫餘生錄, 2021-11-29 快照）、9a66943e（台美人台加人 p353, 2024-04-21 快照）、2ac7d756（鄉情與文化 p3, 2020-06-28 快照）正文再驗證——subject 連結為真實提及（署名清單／專欄標題逐一對照），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
+
+<!-- TJJ-A10040600-11: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-11 article 9a66943e68f1e0ef (台美人台加人隨機頁 p353, 2024-04-21快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

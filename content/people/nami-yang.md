@@ -124,3 +124,5 @@ Her own writings/records additionally held in the vault (existing pages, no new 
 <!-- TJJ-A10030500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-5 article c76f11ecd2598ecb (2017台美文藝出版 台美人筆會發表會報導, 2017-06-11): subject link re-checked vs 正文（第二代作家名單/編委名單）, 連結為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040500-8: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-8 article cd2062fe6528223c (台灣之美‧亞洲之心巡迴展報導, 2017-03-14刊): subject link re-checked vs 正文 — 李淑櫻即本篇圖/文作者、TUF現任理事兼藝展組, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-11: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-11 article c9dd9fb782cc99b8 (Covid-19 浩劫餘生錄分類頁, 2021-11-29快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

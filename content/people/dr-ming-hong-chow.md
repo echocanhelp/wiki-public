@@ -102,3 +102,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article d2dbfe220e437602（2017美東台灣人夏令會報導, 29faf54b8c9e2d10 同文副本）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040500-9: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-9 article 29faf54b8c9e2d10 (2017美東台灣人夏令會報導/楊遠薰, 2021-12-05快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-11: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-11 article 53455d7e13136092 (海外台灣人社團拒一國兩制挺港聯合聲明, 2024-02-21快照, 2019-09-04發布): subject link re-checked vs 正文中英署名清單, real, no wrong/spurious links; 2019-09-03 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
