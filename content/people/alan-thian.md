@@ -353,3 +353,5 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 <!-- TJJ-A10020400-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020400-2 articles (da7f84e2 / 24119694 / 43b81b6b / 79291dad): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020500-1 article 2f4af86847559b66 (2024大洛杉磯台灣會館26周年晚宴公告, 2024-10-04): subject link re-checked vs 正文 (董事長、38位董事購票聯絡人首位), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. NOTE: mojibake 大洛杉磮 in citation block title persists — generator-side fix, prose untouched. -->
+
+<!-- TJJ-A10030400-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-2 article afdbd8b27a42563d (洛杉磯台灣會館重建動土, 2025-05-04): 田詒鴻 link (董事長·國策顧問主持動土) re-checked vs 正文, real, no wrong/spurious links; 2025-05-03 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -74,3 +74,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09260400-28: verified 2026-09-26 — slice articles 073ea211088c8fae / e9ec20fd58bf6b1c / c595d332038f73bb / c30596cc1ea6e337 (tag/directory pages) re-checked vs 正文; subject link real, dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - 2026-09-27 DEEPEN-X09260600-2: fresh grep (洪錦鈺/Jennifer Hung, works+articles) hit set identical to records already cited here — verified-saturated, SKIP-no-new-facts.
+
+<!-- TJJ-A10030400-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-2 article 8362234ba338aea7 (南加州槍擊案的省思, 2022-05-17): 洪錦鈺為本文署名作者（時代力量台中黨部主委）, subject 連結為真, 無錯鏈、無虛鏈; 2022-05-17 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

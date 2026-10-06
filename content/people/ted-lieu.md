@@ -100,3 +100,5 @@ Re-grep 劉雲平 / Ted Lieu across content/works + content/articles returned th
 
 <!-- TJJ-A10020400-3: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020400-3 article 097b5750fcf3091a (0403花蓮震災跨黨派關切, 2024-04-04): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10020700-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020700-2 article accbf8ee04e32de8 (台裔國會議員劉雲平致函美國務卿AZ疫苗盡快賣台, 中央社 2021-05-28): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030400-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-2 article afdbd8b27a42563d (洛杉磯台灣會館重建動土, 2025-05-04): Ted Lieu link (動土典禮致詞·支持雙重課稅法案) re-checked vs 正文, real, no wrong/spurious links; 2025-05-03 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

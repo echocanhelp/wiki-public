@@ -138,3 +138,5 @@ Pages that link to **zhang-xuanxin** (zhang-xuanxin):
 <!-- TJJ-A09260400-6: verified 2026-09-26 — subject link 117bdbbd9b362236 confirmed real; dated fact w/ wikilink already in From the record — saturated. -->
 
 <!-- TJJ-A09300400-25: verified 2026-10-04 — subject links in slice 09300400-25 articles (f1972734 我的肥皂箱 p1 / 131a1c8e 台美人台加人 p360 / ced69523 大洛杉磯台灣會館 tag p13 / 49d912cc 長青教室 tag p2) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030400-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-2 article 8362234ba338aea7 (南加州槍擊案的省思, 2022-05-17): 張宣信牧師與教友制服兇手之敘述 re-checked vs 正文, subject 連結為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
