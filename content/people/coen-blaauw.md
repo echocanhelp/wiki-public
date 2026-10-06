@@ -77,3 +77,5 @@ For more information, please click link :My Stories >>>464. 爲何我在FAPA ? /
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- TJJ-A10040500-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-4 article d3c8399729f03df5 (亂世奇緣, 楊遠薰, 2016-04-20 刊, 2024-07-23 快照): 昆布勞家世與經歷（父大昆1920生雅加達、KLM機長、本人1958生、1988阿姆斯特丹大學法學院、1989起任職FAPA華府、2006娶何燕青）re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

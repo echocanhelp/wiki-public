@@ -88,3 +88,5 @@ His Source list's TAH #219 and #201 encyclopedia URLs resolve to existing vault 
 
 
 <!-- TJJ-A10040500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-5 articles c03323d28f95e9ea / 2d725102f4e64118（同文兩存檔快照「從二戰後全球去殖民化，到台灣國家正常化（下）」, 2023-06-02 刊）: subject link re-checked vs 正文（盧主義與林榮勳、陳以德 1956 費城創立 3F）, real, no wrong/spurious links; dated fact w/ both article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-4 article c251f8fc65ac83e0 (去殖民化—正常化（下）, 獨傲村夫, 2023-06-02 刊, 2023-09-23 快照): 盧主義與林榮勳、陳以德創3F、UFI發行刊物遊說獲甘迺迪支持 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

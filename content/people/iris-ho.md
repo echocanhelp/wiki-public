@@ -61,3 +61,5 @@ Fresh grep of content/works + content/articles returned only records already abs
 - Corpus re-grep 2026-09-25 (DEEPEN-X slice 09240700-3): hit-set unchanged (ourjourneys123/-eng, TAH #309, TAH #935, TA.org perspectives, index; husband records #464/#228 already in Family) — all absorbed; SKIP-content.
 - Corpus re-grep 2026-09-26 (DEEPEN-X slice 09250900-10): hit-set unchanged (ourjourneys123/-eng, TAH #309, TAH #935, TA.org perspectives, index; husband records #464/#228 in Family) — all already absorbed. SKIP-content.
 - Corpus re-grep 2026-09-26 (DEEPEN-X slice 09260317-3): hit-set unchanged (ourjourneys123/-eng, TAH #309, TAH #935, TA.org perspectives, index; ourjourneys231/39 matched only on case-insensitive substring, no Iris Ho content) — all already absorbed. SKIP-content.
+
+<!-- TJJ-A10040500-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-4 article d3c8399729f03df5 (亂世奇緣, 楊遠薰, 2016-04-20 刊, 2024-07-23 快照): 何燕青為Coen Blaauw之FAPA同事、2006共締連理、較其小十二歲 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

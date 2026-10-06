@@ -142,3 +142,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10040500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-5 articles c03323d28f95e9ea / 2d725102f4e64118（同文兩存檔快照「從二戰後全球去殖民化，到台灣國家正常化（下）」, 2023-06-02 刊）: subject link re-checked vs 正文（1964-09-20 與彭明敏、魏廷朝發表「台灣人民自救宣言」被判八年）, real, no wrong/spurious links; dated facts w/ both article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040500-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-3 article dd1007a640e39b91 (反攻大陸：蔣介石的美夢美國人的噩夢（下）, 獨傲村夫/民報 2017-09-10): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-4 article 35d25fb4bdf39cd8 (反攻大陸（下）, 獨傲村夫/民報, 2017-09-10 刊, 2024-07-19 快照): 謝聰敏與彭明敏、魏廷朝共同發表1964-09-20「台灣人民自救宣言」re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

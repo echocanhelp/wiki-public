@@ -78,3 +78,5 @@ HOLD: conflict — spouse page linked as 江美惠 vs corpus work page listing �
 <!-- TJJ-A09260400-3: verified 2026-09-26 — slice 09260400-3 四篇（廖清山〈一顆難以忘懷的台灣心〉cbf185d4；楊遠薰《卓甫良與TAF的故事》兩存檔 f06677a4／e7aad53f；獨傲村夫〈反攻大陸（下）〉dd1007a6）subject links 正文再驗證均為真實提及，無錯鏈、無虛鏈；含各檔 wikilink 的日期事實條目已在庫 — saturated, no new material. -->
 
 <!-- TJJ-A10040500-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-3 articles f06677a469620539／e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》兩存檔副本, 同文): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-4 article b4206bcf0ec508d6 (卓甫良與TAF的故事, 楊遠薰, 2021-06-22 刊, 2024-03-02 快照): 盧志華任TAF第六任會長（1991年起，1989 Brad Smith評鑑後啟用第二代林志文等幹事）re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
