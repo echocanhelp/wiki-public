@@ -35,3 +35,5 @@ last_reviewed: 2026-09-25
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+
+<!-- deepen-x slice 10051143-26 recheck 2026-10-06: SKIP — fresh ZH+EN grep of works/articles/sources/events/topics; hits remain only its own TAH record + the chang-jung-high-school sibling (both already linked); the two articles/ hits are 長榮基督教大學 (Chang Jung Christian University) professors — unrelated false positives. No new absorbable corpus facts. -->

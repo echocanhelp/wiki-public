@@ -49,3 +49,5 @@ last_reviewed: 2026-10-01
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10051143-26 recheck 2026-10-06: SKIP — fresh ZH+EN grep of works/articles/sources/events/topics; hit set identical to prior passes (mystories206, whoswho1134, ourjourneys33 ZH+EN — all already linked); the articles/ hit is Mike Lindell — unrelated false positive. Caption-date vs 1980-founding HOLD retained. No new absorbable corpus facts. -->
