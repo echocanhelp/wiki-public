@@ -11271,3 +11271,7 @@ Notable quotes and mentions of **獨傲村夫** in Taiwan Justice articles:
 - [[articles/taiwanjustice-net/2024/20240725002127_root_d6e6a1924b94ccbb]]
 - [[articles/taiwanjustice-net/2024/20240725001728_root_58a6439c52e7e127]]
 - [[articles/taiwanjustice-net/2024/20240719213421_root_35d25fb4bdf39cd8]]
+
+<!-- TJJ-A10040500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-5 articles c03323d28f95e9ea / 2d725102f4e64118（同文兩存檔快照「從二戰後全球去殖民化，到台灣國家正常化（下）」, 2023-06-02 刊）: author attribution link re-checked vs frontmatter authors + 正文（◎ 獨傲村夫, 轉載自銳傳媒）, real, no wrong/spurious links; article already listed under Works — saturated, no new material. -->
+
+<!-- TJJ-A10040500-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-3 article dd1007a640e39b91 (反攻大陸：蔣介石的美夢美國人的噩夢（下）, 獨傲村夫/民報 2017-09-10): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

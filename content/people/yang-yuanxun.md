@@ -10928,3 +10928,5 @@ Notable quotes and mentions of **楊遠薰** in Taiwan Justice articles:
 - [[people/albert-s-lai||Dr. Albert S. Lai]]
 
 <!-- TJJ-A10040500-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-2: articles 6763e8f4 / 80e2a87a / 299c00bb 懷念彭昕醫師(楊遠薰, triple copy): 楊遠薰 author link (frontmatter; 本文作者回憶五次LWC線上演講) — confirmed in 正文 re-checked vs 正文 this attempt, link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-3 articles f06677a469620539／e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》兩存檔副本, 同文): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
