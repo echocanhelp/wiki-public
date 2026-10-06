@@ -143,3 +143,7 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10020400-5: verified 2026-10-05 — wave-2 re-check of slice 10020400-5 articles 81e80ba38969bf88 / 9412105875987041 / 92917d4c9a88eba2 / fd270f41202454d7: subject links re-checked vs 正文, all real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020500-2: verified 2026-10-05 — wave-2 re-check of slice 10020500-2 articles (4119cffe 音樂短講第13集 / 2b2e0ebc 學生王子 / 7214b273 拯救我 / 753347eb 台文通訊30冬): subject links re-checked vs 正文, all real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030400-8: verified 2026-10-05 — wave-2 re-check of slice 10030400-8 article a40b37bc03b2b9cb（以立「希望之光」世界首演影音）: subject link re-checked vs 正文 (作曲、指揮：黃令先 Lynn Huang), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10020700-3: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020700-3 articles b7ec76fa6b673920 / 2b3d5a363a2935eb（以立合唱團「致死的震怒近了」同稿兩存檔副本）: subject link re-checked vs 正文 (鋼琴 Lynn Huang 黃令先), real, no wrong/spurious links; dated fact w/ both article wikilinks already in From the record — saturated, no new material. -->

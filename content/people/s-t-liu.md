@@ -66,3 +66,5 @@ last_reviewed: 2026-10-04
 
 - Re-grep 2026-10-04 (slice 09300507-1): fresh ZH+EN grep (劉曉亭 / S. T. Liu / 劉三講古) — hit set identical to prior audit (#1152 + #1611 bibliographic records, works index, the two forum-program article copies 08cd200c + fc488102 twins, already linked with dated-fact entry in place). SKIP-with-reason: verified-saturated, nothing new absorbable.
 
+
+<!-- TJJ-A10020700-3: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020700-3 articles 08cd200c3a58e6b7 / fc48810253f4912f: subject link re-checked vs 正文 (主講者 劉曉亭牧師／好消息電視台「劉三講古」), real, no wrong/spurious links; dated fact w/ both article wikilinks already in From the record — saturated, no new material. -->
