@@ -101,3 +101,5 @@ Corpus grep (游朝凱 / Charles Yu) returns 6 work records — awards-93, whos-
 <!-- TJJ-A09260600-6: verified 2026-09-27 — subject links in slice article c76f11ecd2598ecb（2017台美文藝出版, 2017-06-11）confirmed real vs 正文（筆會第二代作家名單/編委名單）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020400-4: verified 2026-10-05 — wave-2 re-check of slice 10020400-4 article 24ebe5f065076949（2016海外台語研習會公告, 2016-05-10）: subject link re-checked vs 正文（游朝凱為課程將介紹的第二代作家）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030500-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-4 article 5b6cede86851b2ba (游朝凱設立創意寫作獎報導, 2021-02-14 刊, 2021-02-14 刊): 游朝凱合作創立游玲娟、游銘泉創意寫作獎 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

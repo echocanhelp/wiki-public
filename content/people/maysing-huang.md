@@ -83,3 +83,5 @@ last_reviewed: 2026-09-27
 <!-- TJJ-A10030400-3: verified 2026-10-05 — wave-2 re-check of slice 10030400-3 article 5f12408a (楊呈偉返台, 2022-08-08): 楊黃美幸以楊呈偉之母（前無任所大使）身分被提及，確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2022-08-08 條目（已雙掛兩文 wikilink）已在庫 — saturated, no new material. -->
 
 <!-- TJJ-A10030400-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-2 article 6fd9d16befa5a33a (楊呈偉返台, 2022-08-08): 楊黃美幸以楊呈偉之母（前無任所大使）身分被提及, 確認見於正文, subject 連結為真, 無錯鏈、無虛鏈; 2022-08-08 條目已在庫 — saturated, no new material. -->
+
+<!-- TJJ-A10030500-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-4 article d6441ab32ea8636d (陳文成事件40週年報導, 2021-09-25 刊, 2021-09-25 刊): 楊黃美幸以陳文成基金會董事長身份致詞 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
