@@ -94,3 +94,6 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10020900-1: verified 2026-10-05 — slice 10020900-1 articles (ad7f737b 第55回世界臺灣文化論壇大佛普拉斯 / c1e60306 蕭美琴缺席僑界活動 / 3246c11d 洛僑中心台灣藝術講座 / 88c15e54 蘇姿丰PCAST顧問) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article d2dbfe220e437602（2017美東台灣人夏令會報導, 29faf54b8c9e2d10 同文副本）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-9: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-9 article 29faf54b8c9e2d10 (2017美東台灣人夏令會報導/楊遠薰, 2021-12-05快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- TJJ-A10040600-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-4 article 23197ebf177d0b6a (「楊遠薰」標籤彙整頁第2頁, 2021-12-07 快照): subject link re-checked vs 正文, real (「彭光理與台灣的半生緣(上)(下) ─ Michael Fonte 的故事」2016-04-30 兩篇見於清單), no wrong/spurious links; dated fact w/ article wikilink (2016-04-30) already in From the record — saturated, no new material. -->

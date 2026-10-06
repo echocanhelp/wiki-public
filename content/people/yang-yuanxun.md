@@ -10934,3 +10934,4 @@ Notable quotes and mentions of **楊遠薰** in Taiwan Justice articles:
 <!-- TJJ-A10040500-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-7: articles 2c9cb76838702dd7 + 3260cd0bdf2f84d7: 兩存檔均為其專欄署名（authors frontmatter），連結為真; 專欄內容已由各 subject 頁吸收 — saturated, no new material. -->
 
 <!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article d2dbfe220e437602（2017美東台灣人夏令會報導, 29faf54b8c9e2d10 同文副本）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- TJJ-A10040600-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-4 article 23197ebf177d0b6a (「楊遠薰」標籤彙整頁第2頁, 2021-12-07 快照): 本人為該標籤頁主題，其 2016 年專欄八條（台美社區的形成上下/台灣人的移美潮/六項保證/彭光理上下/亂世奇緣）見於清單, link real, no wrong/spurious links; dated fact w/ article wikilink (2016-08-19) already in From the record — saturated, no new material. -->
