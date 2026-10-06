@@ -71,3 +71,7 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- TJJ-A09260400-9: verified 2026-09-26 — subject links in slice 09260400-9 articles (064fe05a08d0aecf / a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-7: articles 2c9cb76838702dd7 + 3260cd0bdf2f84d7: GTI 執行長 Russell Hsiao 受邀演講 re-checked vs 正文, real, no wrong/spurious links; 2017-07-24 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-9: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-9 article 064fe05a08d0aecf (宋娣专栏 自由限時批 台美關係準國家, 2024-05-22快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

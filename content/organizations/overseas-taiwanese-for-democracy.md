@@ -71,3 +71,5 @@ Overseas Taiwanese for Democracy (海外台灣青年陣線) is a North American 
 - 新增既有頁連結：[[works/taiwaneseamericanhistory-org/overseas-taiwanese-for-democracy|TAH story #18 海外台灣青年陣線（2015-02-23 刊）]]、[[works/taiwaneseamericanhistory-org/otdnjus|TAH story #12 紐澤西分會紀錄]]、[[works/taiwaneseamericanhistory-org/our-journeys-373|TAH #373 海外台灣學生運動與太陽花學運後政治]]（vault 既有文獻，未新增外部事實）。
 - Corpus grep (slice 26): content/works + content/articles 命中僅限上述三個本身文獻頁（taiwanjustice 文章命中為雜湊字串誤配）——無其他社群材料可吸收。SKIP（無新事實）。
 - **2026-09-15 (DEEPEN-X09142319-21):** 前次 SKIP 結論修正——[[works/taiwaneseamericanhistory-org/our-journeys-373|TAH #373]] 文內含第一手記述（OTD 年會為全美台生聯網樞紐、FAPA 協助組織、與紐約 Cafe Philo／蕭新晟 場景相鄰），已吸收進 Timeline／Role in the Community 段。相關既有頁：[[people/hsin-cheng-hsiao|蕭新晟]]、[[people/brian-hioe|Brian Hioe]]（#373 文內連結之同期台生社群成員）。
+
+<!-- TJJ-A10040500-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-7: articles 2c9cb76838702dd7 + 3260cd0bdf2f84d7 (海台青與黑客松, 楊遠薰 2017-07-24, twin copies): 本篇主角組織 re-checked vs 正文, real, no wrong/spurious links; 2017-07-01 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
