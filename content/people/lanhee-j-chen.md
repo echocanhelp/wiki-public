@@ -84,3 +84,5 @@ last_reviewed: 2026-09-22
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- TJJ-A10010400-1: verified 2026-10-05 — wave-2 re-check of slice 10010400-1 article d94cecdd 史丹佛論壇陳建仁防疫模式 (2020-05-08 轉載): subject link re-checked vs 正文, real, no wrong/spurious links; 2020-05-07 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-7 article 98bf76da5c3ac86d (台美人台加人分類頁 p3, 2025-02-15快照): 「台裔學者陳仁宜：川普身邊友台顧問多 將是台灣朋友」re-checked vs 正文, real, no wrong/spurious links; 2024-11-06 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

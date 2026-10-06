@@ -101,3 +101,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09300400-25: verified 2026-10-04 — subject links in slice 09300400-25 articles (f1972734 我的肥皂箱 p1 / 131a1c8e 台美人台加人 p360 / ced69523 大洛杉磯台灣會館 tag p13 / 49d912cc 長青教室 tag p2) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040500-11: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-11 articles (11aa2dfa5f64d7e4 楊子清 tag頁 / 2490b18e8f37ea79 第166回世界台灣文化論壇 / 89e6683c93156205 台美人台加人 p356 / 79b5f26fdef89d22 2023台美小姐選拔賽): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-7 article 23e163f71d3f2ba5 (長青教室標籤頁, 2024-05-23快照): 「長青教室心得報告-黃金年華膀胱的呼聲 ◎ 黃邦雄醫師 2018-11-02」re-checked vs 正文, real, no wrong/spurious links; 2018-11-02 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

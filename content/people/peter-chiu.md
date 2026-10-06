@@ -98,3 +98,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10040500-10: verified 2026-10-06 — subject links in slice 10040500-10 articles (a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e / beff9b8cd9711c3d) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-3 article f454eda084b7ca99 (園藝分類熱門頁, 2024-02-25快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-7 article bb7f9d54ae93bbef (園藝分類頁, 2024-02-25快照): 「Sadako與Peter Chiu(邱勝宗夫婦)講EM酵素及製作@20170924」及「探訪邱勝宗和邱貞夫婦的百草園-台美人歷史協會人物專訪@07082016」re-checked vs 正文, real, no wrong/spurious links; 2017-09-24／2016-07-08 dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
