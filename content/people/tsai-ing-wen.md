@@ -158,3 +158,5 @@ name_en: "Tsai Ing-wen"
 <!-- TJJ-A10020700-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020700-2 article bff4c7110803d864 (台美人團體祝賀蕭美琴履任, 大紀元 2020-08-08): subject link re-checked vs 正文, real (盼促進高層互訪使蔡英文能以總統身分訪美), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020500-1 article c0530664ab4c2948 (Taipei Times 社論轉載, 2016-04-11): subject link re-checked vs 正文 (選前郝龍斌稱扁須先認罪才可考慮特赦、蔡承諾司法改革應重查扁案), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-10: verified 2026-10-06 — subject links in slice 10040500-10 articles (a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e / beff9b8cd9711c3d) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

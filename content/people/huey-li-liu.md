@@ -72,3 +72,5 @@ last_reviewed: 2026-09-30
 <!-- TJJ-A09260400-9: verified 2026-09-26 — subject links in slice 09260400-9 articles (064fe05a08d0aecf / a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - Corpus re-grep 2026-09-30 (deepen-x slice 09260800-1): fresh ZH+EN grep 劉惠麗 / Huey Li Liu over content/works + content/articles again returned only the saturated set (My Stories #503/#745/#761, Publications #1046, collection #77, own Who's Who #1479, plus the 2018-07-20 台大校友公開信 signature page already linked above) — SKIP-with-reason: verified-saturated, no new corpus material.
+
+<!-- TJJ-A10040500-10: verified 2026-10-06 — subject links in slice 10040500-10 articles (a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e / beff9b8cd9711c3d) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

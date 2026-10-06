@@ -69,3 +69,5 @@ last_reviewed: 2026-09-27
 
 <!-- TJJ-A09260400-9: verified 2026-09-26 — subject links in slice 09260400-9 articles (064fe05a08d0aecf / a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 - Corpus re-grep 2026-09-27 (DEEPEN-X slice 09260700-13): hit-set identical (same 5 files: whoswho1312, ourjourneys79, publications-111, works index, 2018 TJJ letter), all already cited above. Verified saturated — nothing new absorbable.
+
+<!-- TJJ-A10040500-10: verified 2026-10-06 — subject links in slice 10040500-10 articles (a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e / beff9b8cd9711c3d) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

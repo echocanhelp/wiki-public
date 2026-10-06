@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 
 - 2020-09-22 — In a CNA report relayed via TJJ on Bloomberg's praise of Taiwan's 2020 performance, Ma (senior director, Bower Group Asia) says the USTR priority list's treatment of Taiwan was still unclear, but any US–Taiwan trade deal would help Taiwan break diplomatic isolation and give other countries political cover to strike similar deals ([[articles/taiwanjustice-net/2026/20260125063811_2020全球最佳領導人_彭博_盛讚_難找到比蔡英_beff9b8cd9711c3d|TJJ/CNA, 2020-09-22]]).
 <!-- TJJ-A09260400-10: verified 2026-09-26 — subject links in slice article beff9b8cd9711c3d（彭博讚蔡英文, 2020-09-22）re-checked vs 正文; both real (Tiffany Ma 馬翊庭 quote, 蔡總統主體); dated facts already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-10: verified 2026-10-06 — subject links in slice 10040500-10 articles (a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e / beff9b8cd9711c3d) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

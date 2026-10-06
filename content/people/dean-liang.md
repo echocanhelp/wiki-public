@@ -67,3 +67,5 @@ Corpus re-grep 2026-09-21 (slice 09210051-10): the only works/articles hits — 
 - Corpus re-grep 2026-09-26 (slice 09260317-14): fresh grep 梁基典/Dean Liang — identical hit set (TAH #2206, mystories16, ourjourneys58, TJJ 2018 co-sign letter, index); all already linked above, no new community facts, no conflicts. Verified-saturated — SKIP.
 
 <!-- TJJ-A09260400-9: verified 2026-09-26 — subject links in slice 09260400-9 articles (064fe05a08d0aecf / a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-10: verified 2026-10-06 — subject links in slice 10040500-10 articles (a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e / beff9b8cd9711c3d) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

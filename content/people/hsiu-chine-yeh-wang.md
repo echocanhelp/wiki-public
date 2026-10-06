@@ -63,3 +63,5 @@ last_reviewed: 2026-10-03
 <!-- TJJ-A09260400-9: verified 2026-09-26 — subject links in slice 09260400-9 articles (064fe05a08d0aecf / a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - 2026-10-03 DEEPEN-X09270700-1: fresh grep (葉秀卿 / Hsiu-Chine Yeh Wang) over works/+articles/ — hit set unchanged (own TAH #697 record, works index, and the already-linked 2018-07-20 台大校友連署公開信 a428dcebbceacf38). No new absorbable community facts — verified-saturated, SKIP. hits-hash=c12a848b4199
+
+<!-- TJJ-A10040500-10: verified 2026-10-06 — subject links in slice 10040500-10 articles (a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e / beff9b8cd9711c3d) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

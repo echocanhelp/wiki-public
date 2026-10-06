@@ -76,3 +76,5 @@ _No filled family fields on the TAH profile._
 
 - 2026-10-05 — deepen-x slice 09300927-17: re-verify SKIP — fresh ZH+EN ERE grep (鄭錦家 / Chin-Cha Cheng) over works/+articles/ reproduces the identical saturated hit set (4 files: whos958, #33 從癌末重生專訪, 2018 台大校友連署公開信 a428dcebbceacf38, index); all hits already wikilinked/absorbed above; nothing new absorbable, no conflicts. Verified-saturated. hits-hash=3eb84a7a4857
 - 2026-10-05 — deepen-x slice 09301000-17: re-verify SKIP — fresh ZH+EN ERE grep (鄭錦家 / Chin-Cha Cheng) over works/+articles/ reproduces the identical saturated hit set (4 files: whos958, #33 從癌末重生專訪, 2018 台大校友連署公開信 a428dcebbceacf38, index); all hits already wikilinked/absorbed above; nothing new absorbable, no conflicts. Verified-saturated. hits-hash=4b57865b9482
+
+<!-- TJJ-A10040500-10: verified 2026-10-06 — subject links in slice 10040500-10 articles (a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e / beff9b8cd9711c3d) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
