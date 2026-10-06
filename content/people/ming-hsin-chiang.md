@@ -62,3 +62,5 @@ Accomplishment
 - Corpus re-grep 2026-09-25 (slice 09240500-15): SKIP — hit set unchanged (own biblio, my-stories-797, works index, already-linked TJJ archives); 語料飽和，無新材料，無衝突。
 - Corpus re-grep 2026-09-25 (slice 09250800-4): SKIP — hit set unchanged (own #2017 biblio, my-stories-797, works index, already-linked TJJ HELLO TAIWAN / 感恩餐宴 archives); 語料飽和，無新材料，無衝突須 HOLD。
 - Corpus re-grep 2026-09-26 (slice 09260317-1): SKIP — hit set unchanged (own #2017 biblio, my-stories-797, works index, MANIFEST, already-linked TJJ HELLO TAIWAN / 感恩餐宴 archives); 語料飽和，無新材料，無衝突須 HOLD.
+
+<!-- TJJ-A10040700-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-4 articles d0d03097ac759900 (AIT處長孫曉雅口罩亮點, 2021-07-18) / 8842b0e0aad8032f (唐培理GWU座談VOA報導, 2011-11-23) / 040657477c37c6cf (游朝凱國家圖書獎綜合報導, 2020-11-19) / a244776e9eb57979 (會館台灣學校古典音樂欣賞・海頓場, 2016-06-06): subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -78,3 +78,5 @@ _No filled family fields on the TAH profile._
 複核（deepen-x slice 09230400-3, 2026-09-24）：corpus re-grep（曾宇謙／Benny Tseng／Yu-Chien Tseng，works+articles）命中集不變（whoswho1408、ourjourneys294、videos111、musician374、index、大洛杉磯台灣會館台灣學校 TJJ 記錄），全數已吸收並 wikilink；無新增社群材料 — SKIP-with-reason（飽和）。
 
 <!-- TJJ-A10010400-1: verified 2026-10-05 — wave-2 re-check of slice 10010400-1 article b4e27e98 海頓/台灣人音樂家專場報導 (2016-06-06 刊): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040700-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-4 articles d0d03097ac759900 (AIT處長孫曉雅口罩亮點, 2021-07-18) / 8842b0e0aad8032f (唐培理GWU座談VOA報導, 2011-11-23) / 040657477c37c6cf (游朝凱國家圖書獎綜合報導, 2020-11-19) / a244776e9eb57979 (會館台灣學校古典音樂欣賞・海頓場, 2016-06-06): subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
