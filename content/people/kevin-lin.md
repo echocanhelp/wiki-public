@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-06
 ---
 # Kevin Lin (林士斌)
 
@@ -48,3 +48,5 @@ last_reviewed: 2026-09-25
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09231300-10: SKIP — fresh grep 2026-09-25 (works/articles): hit set identical to prior passes (own TAH record / works-index digest only, no memoir or community material); nothing new absorbable. -->
+
+<!-- Re-verified 2026-10-06 (deepen-x slice 10051143-27): ZH+EN grep across works/articles/sources/events/topics returns whoswho1065-2, ourjourney-343 (different Kevin Lin 林發祥 — HOLD stands), stephanie-lin-champions, spark-accel, works/index + sources hub backlinks — all already absorbed above. Saturated, SKIP. -->

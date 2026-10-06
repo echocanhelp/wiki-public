@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Jenny Y Yang (楊又芳)
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- Re-verified 2026-10-06 (deepen-x slice 10051143-27): ZH+EN grep across works/articles/sources/events/topics returns whpswho1490, PECASE record 34, works/index, and the Blacklava/Vickie Wang essays (comedian Jenny Yang — mislink HOLD stands). No new scientist-side material. Saturated, SKIP. -->

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-06
 ---
 # Harvard Taiwanese Cultural Society
 
@@ -28,3 +28,5 @@ The Harvard Taiwanese Cultural Society (TCS) is a student-run organization at Ha
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- Re-verified 2026-10-06 (deepen-x slice 10051143-27): ZH+EN grep across works/articles/sources/events/topics returns TAH directory work #18 (bibliographic record only; subjects pending absorb), maggie-hsu-mochimag (Winterfest testimony — absorbed), on-discovering-passion-purpose (Stanford TCS — different campus chapter), works/index. The taiwanjustice-net 'TCS' hits are substring false positives (no Harvard TCS mention). Saturated, SKIP. -->
