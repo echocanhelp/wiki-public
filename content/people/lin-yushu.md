@@ -7,7 +7,7 @@ tags:
   - exec-member
   - Taiwanese-American
 verification_status: published
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-06
 ---
 # Lin Yu-Shu (林育武)
 
@@ -47,3 +47,4 @@ He is one of the eight voting members of the NTPC Executive Committee, represent
 - [[people/chen-hui-chen||Chen Hui-Chen (陳慧貞)]]
 - [[people/zhang-aihui||Zhang Ai-Hui (張愛惠)]]
 - [[sources/ntpc-usa-org||NTPC USA source hub]]
+- Re-verified 2026-10-06 (deepen-x slice 10051143-13): ZH+EN grep across works/articles/sources/events/topics returns exactly **1 file** — `sources/ntpc-usa-org` exec-committee roster row (`| 委員 | 林育武 | people/lin-yushu |`), the same 2025/26 letter already recorded in `Role in NTPC`. Zero new corpus facts; SKIP re-confirmed.

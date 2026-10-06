@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # David T. K. Chen (陳廷楷博士)
 
@@ -47,3 +47,4 @@ last_reviewed: 2026-10-01
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-25 (deepen-x slice 09250400-11): fresh ZH+EN grep hit set identical to already-absorbed/already-held records -- saturated, SKIP.
 - Corpus check (2026-09-26 re-grep, slice 09252123-8): hits remain record #280 plus the ambiguous "David Chen" film/teacher records already held above — saturated, SKIP.
+- Re-verified 2026-10-06 (deepen-x slice 10051143-13): fresh ZH+EN grep hits the record #280 page, the three ambiguous "David Chen" film/teacher records (still no initial or 漢名 evidence — HOLD stands), #376 陳立偉 (different person), and works/index backlinks — hit set identical to the absorbed/held records above. Saturated, SKIP.
