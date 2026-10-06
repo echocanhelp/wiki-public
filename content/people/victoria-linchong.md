@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Victoria Linchong (林鍾維春)
 
@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-25 (deepen-x slice 09250500-9): fresh ZH+EN grep again returns only the works already cited (whoswho1466, NATWA 2015, support appeal, 228 event ×2, index). SKIP-with-reason: saturated.
 - Re-verified 2026-10-01 (deepen-x slice 09261100-10): fresh whole-corpus grep of `works/` + `articles/` for 林鍾維春 / Victoria Linchong / "Linchong" returns only the records already cited above (plus incidental `works/index.md` and `articles/` hits matching the substring `Linch` in unrelated English words). No memoir or community-authored material names her. SKIP-with-reason: saturated — nothing new absorbable.
+- Re-verified 2026-10-06 (deepen-x slice 10051143-22): fresh grep ZH+EN (林鍾維春 / Linchong / 維春) across works/articles/sources/events/topics — hit set unchanged: whoswho1466, NATWA 2015 panel, support appeal, 228 event ×2, plus index. Verified-saturated, SKIP.

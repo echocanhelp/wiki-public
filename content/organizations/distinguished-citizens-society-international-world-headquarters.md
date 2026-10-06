@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-06
 ---
 # Distinguished Citizens Society International World Headquarters
 
@@ -36,3 +36,4 @@ last_reviewed: 2026-09-29
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+- Re-verified 2026-10-06 (deepen-x slice 10051143-22): fresh `grep -rlE '國際傑人會|Distinguished Citizens'` across works/articles/sources/events/topics — single hit unchanged, the 2022-02-26 Heidelberg Taiwan Mandarin Learning Center article (German chapter activity), already wikilinked above. Verified-saturated, SKIP.
