@@ -95,3 +95,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A09260400-27: verified 2026-09-26 — subject links in slice 09260400-27 articles (e041055e 台灣演義分類頁 / cd646b86 WHO世衛專題頁 / 2fc3294e Michelle Steel募款餐會 / 432e1fca Ed Royce標籤頁) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10030400-6: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-6 articles ([[articles/taiwanjustice-net/2022/20221127045936_2022_09_25_第53回世界台灣文化論壇_ti美國點光台灣高龍榮-吳_e9faa17a0a7ea61c|e9faa17a 第53回世界台灣文化論壇]]): 主持人 Peter Chen 陳正義 link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030500-1 article c691e327b9133c1a (心得報告標籤頁, 2024-07-19 快照): subject link re-checked vs 正文 (「長青教室心得報告-為什麼台美人對『台灣』重要 ◎ 陳正義律師 2018-04-04」確認見於條目), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

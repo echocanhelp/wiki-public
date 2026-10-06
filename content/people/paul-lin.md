@@ -77,3 +77,5 @@ last_reviewed: 2026-09-25
 - HOLD: name collision — "Paul Lin 林年松" appears as a 1999-era officer of the Taiwanese Association of Greater Kansas City ([[works/taiwaneseamericanhistory-org/ourjourneys296|296. 平原區台灣人秋令會的介紹 / 童海南 /06/2017]]); 林年松 ≠ 林水波, not merged.
 
 <!-- TJJ-A09260400-28: verified 2026-09-26 — slice articles 073ea211088c8fae / e9ec20fd58bf6b1c / c595d332038f73bb / c30596cc1ea6e337 (tag/directory pages) re-checked vs 正文; subject link real, dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030500-1 article dc44b297e6225e64 (郝龍斌倡導阿扁保外就醫論評全文/主講林水波教授, 2024-07-19 快照): subject link re-checked vs 正文 (主講人「林水波教授」確認見於標題與內文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

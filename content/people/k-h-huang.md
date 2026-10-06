@@ -56,3 +56,5 @@ _No filled family fields on the TAH profile._
 
 - 2017-11-08 — Lectured at the 長青教室 on 前總統李登輝先生的兵法與軍隊國家化 (心得報告 posted 2017-11-12); also reported on 回教崛起對基督教的影響 (心得報告 posted 2019-06-07) ([[articles/taiwanjustice-net/2024/20240723014059_root_b35038dda7fa4bcf|TJJ tag page, archived 2024-07-23]]).
 - Corpus re-check 2026-10-01 (slice 09261000-31, "K.H. Huang"/黃國雄, works+articles): hits still only his own #848, his own essay 759, the works index, and the TJJ tag page already linked above — nothing new absorbable. SKIP-saturated.
+
+<!-- TJJ-A10030500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030500-1 article b35038dda7fa4bcf (長青教室心得報告標籤頁, 2024-07-23 快照): subject link re-checked vs 正文 (「回教崛起對基督教的影響 ◎黃國雄博士」及「李登輝先生的兵法與軍隊國家化 ◎講師 黃國雄博士」確認見於條目), real, no wrong/spurious links; dated facts w/ article wikilink already in From the record — saturated, no new material. -->
