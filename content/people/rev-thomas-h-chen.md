@@ -68,3 +68,5 @@ _No filled family fields on the TAH profile._
 - Disambiguation: corpus record [[works/taiwaneseamericanhistory-org/307-thomas-chen-e9-99-b3-e7-a7-8b-e8-b2-b4201502|TAH #307 Thomas Chen 陳秋貴]] is a different Thomas Chen (陳秋貴); not merged.
 
 <!-- TJJ-A10010400-1: verified 2026-10-05 — wave-2 re-check of slice 10010400-1 article ff4731d4 台灣介心靈日228-77週年紀念音樂會影音全集 (2024-03-04): subject link re-checked vs 正文, real, no wrong/spurious links; 2024-02-28 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040700-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-7 article 47725345581e0f61 (台灣介心靈日228-77週年紀念音樂會影音全集, 2024-03-04刊, 2024-05-22快照): subject link re-checked vs 正文 (「陳宏文牧師接著帶領會眾祈禱」確認見於正文), real, no wrong/spurious links; 2024-02-28 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

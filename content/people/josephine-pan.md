@@ -119,3 +119,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10040500-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-6 article c62f5c50846fe267: 潘掬慧 (台館董事) co-mastered ceremony re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040500-11: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-11 articles (11aa2dfa5f64d7e4 楊子清 tag頁 / 2490b18e8f37ea79 第166回世界台灣文化論壇 / 89e6683c93156205 台美人台加人 p356 / 79b5f26fdef89d22 2023台美小姐選拔賽): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040700-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-7 article 47725345581e0f61 (台灣介心靈日228-77週年紀念音樂會影音全集, 2024-03-04刊, 2024-05-22快照): subject link re-checked vs 正文 (潘掬慧以TUF前會長身分受訪述17屆堅持確認見於正文), real, no wrong/spurious links; 2024-02-28 dated fact w/ article wikilink already in From the record — saturated, no new material. 杜潘芳格、張秋台及演出者 vault 暫無頁，維持純文字。 -->

@@ -88,3 +88,5 @@ last_reviewed: 2026-09-22
 <!-- TJJ-A10040600-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-7 article 98bf76da5c3ac86d (台美人台加人分類頁 p3, 2025-02-15快照): 「台裔學者陳仁宜：川普身邊友台顧問多 將是台灣朋友」re-checked vs 正文, real, no wrong/spurious links; 2024-11-06 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-5 article 5dd0106e892b8f96（台灣新聞 分類存檔頁3, 2020-07-13 快照, 條目 2020-07-11/12）: subject link re-checked vs 正文 this attempt — 「台裔學者陳仁宜（Lanhee Chen）投書CNN: 台灣防疫4大要素值得美國學習」條目具名，真實提及，無錯鏈、無虛鏈；含該文 wikilink 之日期事實條目已在庫 — saturated, no new material. -->
+
+<!-- TJJ-A10040700-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-7 article a1056cd694ea21cb (台裔學者陳仁宜角逐加州主計長中央社專訪轉載, 2021-07-11刊, 2021-12-05快照): subject link re-checked vs 正文 (陳仁宜為該文主角，宣布角逐2022加州主計長確認見於正文), real, no wrong/spurious links; 2021-07-11 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

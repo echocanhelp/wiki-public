@@ -95,6 +95,8 @@ Founding member and board member of the American Premium Tea Institute (now merg
 
 <!-- TJJ-A10010400-1: verified 2026-10-05 — wave-2 re-check of slice 10010400-1 article ff4731d4 台灣介心靈日228-77週年紀念音樂會影音全集 (2024-03-04): subject link re-checked vs 正文, real, no wrong/spurious links; 2024-02-28 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
+<!-- TJJ-A10040700-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-7 article 47725345581e0f61 (台灣介心靈日228-77週年紀念音樂會影音全集, 2024-03-04刊, 2024-05-22快照): subject link re-checked vs 正文 (許正龍以優社社長身分客語吟頌杜潘芳格詩作及張秋台《渡台悲歌》確認見於正文), real, no wrong/spurious links; 2024-02-28 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 <!-- TJJ-A10030500-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-3 article 2589c86787ef4241 (洛杉磯僑胞細心防疫·228台灣介心靈日音樂會不間斷, 2020-03-01 刊): subject link (主辦人之一許正龍登台客語吟唱詩歌) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040500-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-6 article c62f5c50846fe267: 許正龍 (優社會長) soloed + led 《台灣翠青》 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

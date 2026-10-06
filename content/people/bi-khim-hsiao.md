@@ -334,3 +334,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10040600-12: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-12 article 923dad711fb49f07 (台灣新聞分類存檔頁, 2023-12-01 快照): subject link re-checked vs 正文 (「蕭美琴合體苗博雅 拚總統勝選、國會過半」條目), real, no wrong/spurious links; 2023-12-01 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040700-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-6 article 073ea211088c8fae (Tag: 導讀台灣 p2, 2025-05-25快照): subject link re-checked vs 正文 (「導讀台灣 20231203 蕭美琴的從政之路!」條目確認見於清單), real, no wrong/spurious links; 2023-12-03 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040700-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-7 article c30596cc1ea6e337 (「導讀台灣」標籤頁p2, 2024-06-20快照): subject link re-checked vs 正文 (「導讀台灣 20231203 蕭美琴的從政之路!」條目確認見於清單), real, no wrong/spurious links; 2023-12-03 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

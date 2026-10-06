@@ -68,3 +68,5 @@ HERMIT Jackson Kuo is born in Taiwan in 1950. He is not a real hermit but in spi
 複核（deepen-x 2026-09-25 slice 09240317-5）：fresh ZH+EN re-grep（郭敏俊 / Jackson Kuo, works+articles）命中集合與前次完全相同（publications 1007/1159/1160、mystories453、whos1125、94-collection）— 飽和；#1159 署名郭俊敏 HOLD 維持。
 
 <!-- TJJ-A09260400-28: verified 2026-09-26 — slice articles 073ea211088c8fae / e9ec20fd58bf6b1c / c595d332038f73bb / c30596cc1ea6e337 (tag/directory pages) re-checked vs 正文; subject link real, dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040700-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-7 article c595d332038f73bb (「Taiwan」標籤頁, 2024-06-20快照): subject link re-checked vs 正文 (「中國外交官在美國丟人現眼/郭敏俊/9-9-2012」條目確認見於清單), real, no wrong/spurious links; 2012-09-09 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
