@@ -155,3 +155,4 @@ name_en: "Tsai Ing-wen"
 <!-- TJJ-A10020400-3: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020400-3 article 760a0bc942e1676b (台灣祝賀拜登賀錦麗就職, 2021-01-20): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020400-5: verified 2026-10-05 — wave-2 re-check of slice 10020400-5 articles 81e80ba38969bf88 / 9412105875987041 / 92917d4c9a88eba2 / fd270f41202454d7: subject links re-checked vs 正文, all real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
+<!-- TJJ-A10020700-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020700-2 article bff4c7110803d864 (台美人團體祝賀蕭美琴履任, 大紀元 2020-08-08): subject link re-checked vs 正文, real (盼促進高層互訪使蔡英文能以總統身分訪美), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

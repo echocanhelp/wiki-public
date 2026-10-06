@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09260500-11: verified 2026-09-27 — slice articles re-checked vs 正文; subject link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. --> slice b5e568ec43e787f1 好國好民巡迴公告
 
 <!-- TJJ-A10020400-3: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020400-3 article 1f001897255f71a7 (好國好民製片US協調, 2011-11-08): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- TJJ-A10020700-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020700-2 article b5e568ec43e787f1 (《好國好民》美國巡迴放映座談會, 2011-10-15): subject link re-checked vs 正文, real (製片與美國區協調人列名), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

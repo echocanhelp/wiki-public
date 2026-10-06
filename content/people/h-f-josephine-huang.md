@@ -72,3 +72,4 @@ last_reviewed: 2026-09-23
 
 
 <!-- TJJ-A09260500-11: verified 2026-09-27 — slice articles re-checked vs 正文; subject link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. --> slice bff4c7110803d864 祝賀蕭美琴履任
+<!-- TJJ-A10020700-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020700-2 article bff4c7110803d864 (台美人團體領袖祝賀蕭美琴履任駐美代表, 大紀元 2020-08-08): subject link re-checked vs 正文, real (FAPA柑縣分會會長讚譽蕭美琴), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
