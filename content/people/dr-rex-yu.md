@@ -89,3 +89,4 @@ Accomplishment
 <!-- TJJ-A09251400-9: verified 2026-09-26 — subject links in slice 09251400-9 articles re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020900-1: verified 2026-10-05 — slice 10020900-1 articles (ad7f737b 第55回世界臺灣文化論壇大佛普拉斯 / c1e60306 蕭美琴缺席僑界活動 / 3246c11d 洛僑中心台灣藝術講座 / 88c15e54 蘇姿丰PCAST顧問) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- TJJ-A10040700-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-2 — article 23da543a315a1fa1（228七十週年紀念公告轉會館會訊, 2024-05-30快照）: subject link re-checked vs 正文「台灣會館聘請室內專家余忠村博士主持海外的佈展」, real, no wrong/spurious links; 2017-02-17 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
