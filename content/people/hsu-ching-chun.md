@@ -250,3 +250,5 @@ Do not write her as a Taiwanese American biography. The U.S. nodes are **(1) TAH
 <!-- TJJ-A09260600-1: verified 2026-09-27 — subject links in slice 09260600-1 articles (77b0891e 信雅古典音樂珍藏啟用致詞 / 3be67f6e 台美人台加人存檔頁2 / 2e141df6 蔬果園藝標籤頁 / 2fa1c26a 台美人台加人存檔頁359) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10030400-1: verified 2026-10-05 — wave-2 re-check of slice 10030400-1 articles (77b0891e 信雅古典音樂珍藏啟用致詞 / 3be67f6e 台美人台加人存檔頁2 / 2e141df6 蔬果園藝標籤頁 / 2fa1c26a 台美人台加人存檔頁359): 許景淳 link (2fa1c26a: 許丕龍與許景淳父女傳陽雜誌30週年演唱會) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-6 article 98a26ee3b1ad82ac (台美人台加人 p356, 2024-05-27 快照): subject link 許景淳 re-checked vs 正文 (「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段/2011-10-30'), real, no wrong/spurious links; 2011-10-30 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

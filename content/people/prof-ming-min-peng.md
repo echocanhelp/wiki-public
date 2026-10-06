@@ -162,3 +162,7 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10040500-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-3 article dd1007a640e39b91 (反攻大陸：蔣介石的美夢美國人的噩夢（下）, 獨傲村夫/民報 2017-09-10): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040500-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-4 article 35d25fb4bdf39cd8 (反攻大陸：蔣介石的美夢美國人的噩夢（下）, 獨傲村夫/民報, 2017-09-10 刊, 2024-07-19 快照): 彭明敏與學生謝聰敏、魏廷朝1964-09-20發表「台灣人民自救宣言」痛斥蔣政權以反攻大陸掩專制、稱台灣人的先知 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-9: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-9 article 2a543ddc9301b7b3 (會館24週年募款年會公告, 2022-09-24快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-6 article 1a2bdc08b6c7bf6c (台美人台加人 p3, 2025-04-26 快照): subject link 彭明敏教授 re-checked vs 正文 (「美國加州各界追思彭明敏教授紀念會紀實 ◎ 陳天令'), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -61,3 +61,5 @@ last_reviewed: 2026-09-24
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- TJJ-A10040600-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-6 article 63717cb2b99ce3c3 (台美人台加人 p3, 2024-04-25 快照): subject link 許英智 re-checked vs 正文 (「珍藏台美人歷史鏡頭-1983年台美同鄉感恩節音樂會…許英智夫婦提供'), real, no wrong/spurious links; 2017-12-15 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
