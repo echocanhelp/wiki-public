@@ -82,3 +82,5 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice 09221500-3，2026-09-23）：re-grep 王麗貝 / Lipei / Lisa Wang 命中集僅新增 2024-06-13 兩次 TJJ 園藝類快照（886865700aee5b60、98bf2134223017ad），內容與已引用的 2016-06-26 開課公告及 2016-09-25 講座報導相同 — 無新可吸收材料，SKIP-no-new-material。
 
 <!-- TJJ-A09260600-1: verified 2026-09-27 — subject links in slice 09260600-1 articles (77b0891e 信雅古典音樂珍藏啟用致詞 / 3be67f6e 台美人台加人存檔頁2 / 2e141df6 蔬果園藝標籤頁 / 2fa1c26a 台美人台加人存檔頁359) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030400-1: verified 2026-10-05 — wave-2 re-check of slice 10030400-1 articles (77b0891e 信雅古典音樂珍藏啟用致詞 / 3be67f6e 台美人台加人存檔頁2 / 2e141df6 蔬果園藝標籤頁 / 2fa1c26a 台美人台加人存檔頁359): Lisa Wang link (2e141df6: 玫瑰花養植及玫瑰花茶加工講座; Paul Huang ≠小提琴家黃俊文 HOLD維持) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

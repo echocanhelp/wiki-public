@@ -128,3 +128,5 @@ Accomplishment
 <!-- TJJ-A09260500-17: verified 2026-09-27 — slice 09260500-17 articles (2b4b26ff English Pages目錄 / de11e295 半音合唱團國家音樂廳錄影 / 526ee7d6 以立拯救我 / 928db8aa 以立森林王子) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260600-1: verified 2026-09-27 — subject links in slice 09260600-1 articles (77b0891e 信雅古典音樂珍藏啟用致詞 / 3be67f6e 台美人台加人存檔頁2 / 2e141df6 蔬果園藝標籤頁 / 2fa1c26a 台美人台加人存檔頁359) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030400-1: verified 2026-10-05 — wave-2 re-check of slice 10030400-1 articles (77b0891e 信雅古典音樂珍藏啟用致詞 / 3be67f6e 台美人台加人存檔頁2 / 2e141df6 蔬果園藝標籤頁 / 2fa1c26a 台美人台加人存檔頁359): 許丕龍 link (2fa1c26a: 許丕龍與許景淳父女傳陽雜誌30週年演唱會) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
