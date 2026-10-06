@@ -46,6 +46,8 @@ father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 
 ## From the record
 
+<!-- TJJ-A10030500-6 (2026-10-06): wave-2 re-check of slice 文章 e1e223aabe8b8751（標普企業執行長年薪排行榜, 2020-06-02）正文再驗證——本頁為報導主角（與 lisa-su 雙頁並存維持），subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。 -->
+
 <!-- TJJ-A09260600-7 (2026-09-27): slice 文章 e1e223aabe8b8751（標普企業執行長年薪排行榜, 2020-06-02）正文再驗證——本頁為報導主角（與 lisa-su 雙頁並存維持），subject 連結為真，無錯鏈、無虛鏈；2020-06-02 日期事實條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。 -->
 
 - 覆核（TJJ-A09250400-9, 2026-09-25）：本 slice 文章 4779b4e7（蘇姿丰獲SIA羅伯特諾伊斯大獎報導, 2026-01-21 存檔）正文再驗證——本頁 subject 連結為真（與 [[people/lisa-su|Lisa T. Su]] 雙頁並存維持）；2020 Noyce 獎條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。

@@ -62,6 +62,8 @@ From [[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76 — 全美台灣
 
 ## From the record
 
+<!-- TJJ-A10030500-6 (2026-10-06): wave-2 re-check of slice 文章 92ff3ef6b0b74b9c（彭明敏研討會, 2023-09-24 報導之快照）正文再驗證——以彭明敏文教基金會董事長致詞確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。 -->
+
 <!-- TJJ-A09260600-7 (2026-09-27): slice 文章 92ff3ef6b0b74b9c（彭明敏研討會, 2023-09-24 報導之快照）正文再驗證——以彭明敏文教基金會董事長致詞確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2023-09-24 日期事實條目（已掛該快照 wikilink）已在庫 — SKIP，已飽和。 -->
 
 - 複核（TJJ-A09251400-4, 2026-09-26）：本 slice 文章 92917d4c9a88eba2（自救宣言59週年國史館新書發表，da7f84e2 同稿 snapshot） 正文再驗證——以彭明敏文教基金會董事長與會致詞之記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。

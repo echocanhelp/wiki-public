@@ -35,6 +35,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+<!-- TJJ-A10030500-6 (2026-10-06): wave-2 re-check of slice 文章 92ff3ef6b0b74b9c（彭明敏研討會, 2023-09-24 報導之快照）正文再驗證——自救宣言共同起草人記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。 -->
+
 <!-- TJJ-A09260600-7 (2026-09-27): slice 文章 92ff3ef6b0b74b9c（彭明敏研討會, 2023-09-24 報導之快照）正文再驗證——自救宣言共同起草人記述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2023-09-24 日期事實條目（已掛該快照 wikilink）已在庫 — SKIP，已飽和。 -->
 
 - 覆核（TJJ-A09260400-26, 2026-09-26）：本 slice 文章 8842b0e0aad8032f（唐培理 GWU 座談 VOA 報導） 正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
