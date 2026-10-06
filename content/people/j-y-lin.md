@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # J. Y. Lin (林哲也)
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Deepen pass 2026-10-06 (slice 10051143-15): re-grepped 林哲也/J. Y. Lin across works/articles/sources/events/topics — hits exactly the already-linked set (ourjourneys76 ZH/EN, ourjourneys58, ourjourneys293 ZH/EN, whoswho1202); ourjourneys225 match is a false positive (阿哲也, story narrator 阿哲, not this person). Nothing new absorbable.
