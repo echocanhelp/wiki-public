@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Nicholas C. Huang (黄文郁)
 
@@ -40,6 +40,7 @@ Accomplishment
 ## Role in the Community
 - Two TAH Foundation encyclopedia records document him: [[works/taiwaneseamericanhistory-org/whos-who-1940-nicholas-c-huang|1940. Nicholas C. Huang 黄文郁]] (2017-11-14) and [[works/taiwaneseamericanhistory-org/52924|214. Nicholas C. Huang 黃文郁]] (2019-01-05).
 - Serves the Taiwanese American institutional layer as General Counsel and Board Member of both the Taiwanese American Foundation and TaiwaneseAmerican.org (per TAH directory employment record), bridging the legal profession and the movement's org leadership.
+- **Masthead corroboration from the TaiwaneseAmerican.org org record:** the [[organizations/taiwaneseamerican-org|TaiwaneseAmerican.org]] org page's staff table lists "Nicholas Huang — Legal Counsel — Indianapolis attorney," independently matching this page's directory record (Indianapolis lawyer, legal counsel to the site). The org page deliberately keeps this row **not merged** with [[people/nicholas-c-huang]] pending a 漢名+bio HIT, so it is cited here as title/location corroboration, not as identity proof.
 - Son of [[people/charles-huang|Charles Huang]], founder of the TaiwaneseAmerican.org / TAA network.
 - Re-grep 2026-09-23 (slice 09221500-18) and 2026-09-25 (slices 09230900-32, 09250400-9): hit set identical (whos-who-1940, 52924, works/index, Anna Wu snapshot) — saturated; no new material.
 - HOLD: a TaiwaneseAmerican.org record ("The Big Picture: A Snapshot of Photographer Anna Wu") describes a 2010 board-member wedding video (Erin & Nick, 09.18.10); whether this board member is the same Nicholas C. Huang is unconfirmed — not merged.

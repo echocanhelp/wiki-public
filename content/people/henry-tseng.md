@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Henry Tseng (曾恆利)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grepped corpus 2026-10-01 (slice 09261000-31): hits still limited to his own five authored works + the works index; no new community-authored material naming him — still saturated. SKIP-no-new-material.
+- Re-grepped corpus 2026-10-06 (slice 10051143-23): hits still limited to his own five authored works (mystories8/69/84, publications293-2, whoswho1068) + works/people indexes + source hubs + the lisa-su/dr-lisa-su pages that cite his story #84 — no new community-authored material naming him. Still saturated. SKIP-no-new-material.
