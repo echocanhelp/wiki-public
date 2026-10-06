@@ -147,3 +147,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10030400-8: verified 2026-10-05 — wave-2 re-check of slice 10030400-8 article a40b37bc03b2b9cb（以立「希望之光」世界首演影音）: subject link re-checked vs 正文 (作曲、指揮：黃令先 Lynn Huang), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020700-3: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020700-3 articles b7ec76fa6b673920 / 2b3d5a363a2935eb（以立合唱團「致死的震怒近了」同稿兩存檔副本）: subject link re-checked vs 正文 (鋼琴 Lynn Huang 黃令先), real, no wrong/spurious links; dated fact w/ both article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030400-7: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-7 articles 526ee7d662ebe432 / 80b33cf1846bc005（以立「拯救我」原稿+存檔）, f985012b1ed56ad0（「末日之淚」存檔）, 928db8aa40e881b2（「森林王子」）: subject links re-checked vs 正文 (鋼琴×2、音樂總監), real, no wrong/spurious links; dated facts w/ all four article wikilinks already in From the record — saturated, no new material. -->

@@ -99,3 +99,5 @@ Jennet Jah is the daughter of the noted composter, Professor Kenneth Lee. She gr
 <!-- TJJ-A10020500-2: verified 2026-10-05 — wave-2 re-check of slice 10020500-2 articles (4119cffe 音樂短講第13集 / 2b2e0ebc 學生王子 / 7214b273 拯救我 / 753347eb 台文通訊30冬): subject links re-checked vs 正文, all real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020700-3: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020700-3 articles b7ec76fa6b673920 / 2b3d5a363a2935eb: subject link re-checked vs 正文 (女高音獨唱 李俊玲 Jennet Jah 飾 Abigaille), real, no wrong/spurious links; dated fact w/ both article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030400-7: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-7 articles 526ee7d662ebe432 / 80b33cf1846bc005（「拯救我」兩存檔稿, 女高音獨唱）／928db8aa40e881b2（「森林王子」聲樂指導）: subject links re-checked vs 正文, real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. 鄭兆翔／白慈莉 正文提及但無頁面, 維持純文字不造鏈. -->

@@ -11100,3 +11100,5 @@ Notable quotes and mentions of **楊子清** in Taiwan Justice articles:
 <!-- TJJ-A10020500-2: verified 2026-10-05 — wave-2 re-check of slice 10020500-2: 4119cffe（author/主講）與 7214b273（指揮）subject/author 連結再驗證為真，無錯鏈、無虛鏈；2b2e0ebc／753347eb 無涉本人；含兩文 wikilink 的 2020-12-13／2022-10-01／10-08 條目已在庫 — saturated, no new material. -->
 
 <!-- TJJ-A10020700-3: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020700-3 articles b7ec76fa6b673920 / 2b3d5a363a2935eb: subject/author links re-checked vs 正文 (指揮 Cliff Yang 楊子清；authors frontmatter 楊子清), real, no wrong/spurious links; dated fact w/ both article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030400-7: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-7: 526ee7d662ebe432 / f985012b1ed56ad0 / 80b33cf1846bc005 author frontmatter 楊子清＋正文「楊子清 (Cliff Yang) 提供」與指揮 role 再驗證為真, 無錯鏈、無虛鏈；928db8aa40e881b2 無涉本人；含各文 wikilink 的 2022-10-01／10-08 條目已在庫 — saturated, no new material. -->
