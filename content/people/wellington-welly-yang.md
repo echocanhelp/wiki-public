@@ -68,3 +68,4 @@ Wellington (Welly) Yang 楊呈偉 – History of Taiwanese American (T.A. Archiv
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
  Slice deepen-x-slice-09250317-5 (2026-09-25): fresh re-grep (ZH+EN, works+articles) — identical hit set to prior checks; all hits already wikilinked/absorbed; nothing new absorbable. SKIP (saturated).
+<!-- TJJ-A10030400-3: verified 2026-10-05 — wave-2 re-check of slice 10030400-3 article 5f12408a (楊呈偉返台排練《夢幻愛程》, 2022-08-08, 與 6fd9d16b 同稿重複存檔): 本傳主體即報導主角，subject 連結為真，無錯鏈、無虛鏈；2022-08-08 條目（已雙掛兩文 wikilink）已在庫 — saturated, no new material. -->

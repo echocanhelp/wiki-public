@@ -100,3 +100,4 @@ Absorbed from the on-page bio and tah-tables (no external sources):
 
 
 <!-- TJJ-A09251500-2: verified 2026-09-26 — subject links in slice 09251500-2 articles (1251d9ed 五大會館萊豬聲明 / 92ff3ef6 彭明敏研討會 / 6e021ae4 吳修銘任拜登特助 / e1e223aa 蘇姿丰年薪榜首) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- TJJ-A10030400-3: verified 2026-10-05 — wave-2 re-check of slice 10030400-3 article 48352159 (紐約台灣會館交接 CNA 報導, 2021-04-07): 方秀蓉2017年起任理事長兩任、轉任副理事長記述再確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2021-04-07 條目已在庫 — saturated, no new material. -->

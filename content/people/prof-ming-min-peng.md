@@ -149,3 +149,4 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A09260600-6: verified 2026-09-27 — subject links in slice article 2a0ba680f2b8720a（海內外人權救援聯展, 2024-06-08）confirmed real vs 正文（台灣之音1977夫妻/彭明敏X計畫）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10020700-1: verified 2026-10-05 — wave-2 re-check of slice 10020700-1 article a1b56965 彭明敏紀念研討會59週年: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- TJJ-A10030400-3: verified 2026-10-05 — wave-2 re-check of slice 10030400-3 article c082b036 (慈林「撕開黑幕的光」聯展 CNA 報導, 2024-06-08): 彭明敏1964自救宣言、判8年、1970 X計畫離台記述再確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2024-06-08 條目已在庫 — saturated, no new material. -->

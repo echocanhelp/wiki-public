@@ -78,3 +78,4 @@ last_reviewed: 2026-10-05
 
 <!-- deepen-x 09301000-11 (2026-10-05): fresh ZH+EN grep (林宣緒 / Adrian Lin, works+articles) — 6 hits, set identical to prior passes (ourjourneys123 ZH/EN 會長名單與 1980 Grand Rapids 夏令會詞料, whoswho918 本人條目, TJJ 兩份同文病西施婚事, works/index 目錄命中 only); content-level re-check confirms all hits already absorbed & wikilinked, no new memoir material. verified-saturated, SKIP-no-new-facts. hits-hash=3478c1886e52 -->
 <!-- TJJ-A10020700-1: verified 2026-10-05 — wave-2 re-check of slice 10020700-1 article b7327dcf TAA Archives March 2021 newsletter: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- TJJ-A10030400-3: verified 2026-10-05 — wave-2 re-check of slice 10030400-3 article 0832558e (台美史料中心 March 2021 Newsletter): Adrian Lin 婚事記述再確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2021-02-28 條目已在庫 — saturated, no new material. -->

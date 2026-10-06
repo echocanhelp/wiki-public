@@ -71,3 +71,4 @@ Further corpus hits confirm the essayist footprint extends earlier than the 2014
 <!-- TJJ-A09251400-8: verified 2026-09-26 — subject link in slice article c76f11ecd2598ecb（2017台美文藝出版, 2017-06-11）confirmed real vs 正文（筆會第二代作家名單/編委名單）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260600-6: verified 2026-09-27 — subject links in slice article c76f11ecd2598ecb（2017台美文藝出版, 2017-06-11）confirmed real vs 正文（筆會第二代作家名單/編委名單）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- TJJ-A10030400-3: verified 2026-10-05 — wave-2 re-check of slice 10030400-3 article 0832558e (台美史料中心 March 2021 Newsletter): Ken Lee 撰「不怕死的病西施」（許鍾琳譯）署名再確認見於正文，subject 連結為真；含該文 wikilink 的條目已在庫（本檔 2021-03 newsletter 條目）— saturated, no new material. -->

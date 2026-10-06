@@ -80,3 +80,4 @@ last_reviewed: 2026-09-27
 <!-- TJJ-A09260600-5: verified 2026-09-27 — wave-2 re-check of slice articles f4bc88a2 二二八77周年會館追思 / 5b6cede8 游朝凱寫作獎 / 64302d51 黃瑞芬訃聞 / d6441ab3 陳文成40週年: subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020500-2: verified 2026-10-05 — wave-2 re-check of slice 10020500-2 articles (4119cffe 音樂短講第13集 / 2b2e0ebc 學生王子 / 7214b273 拯救我 / 753347eb 台文通訊30冬): subject links re-checked vs 正文, all real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
+<!-- TJJ-A10030400-3: verified 2026-10-05 — wave-2 re-check of slice 10030400-3 article 5f12408a (楊呈偉返台, 2022-08-08): 楊黃美幸以楊呈偉之母（前無任所大使）身分被提及，確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2022-08-08 條目（已雙掛兩文 wikilink）已在庫 — saturated, no new material. -->
