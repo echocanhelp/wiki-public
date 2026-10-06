@@ -363,3 +363,5 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 <!-- TJJ-A10040600-13: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-13 article 8c5d1203 (Michelle Steel朴銀珠募款餐會報導, 2022-08-13快照): subject link re-checked vs 正文 (與會/站台名單), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-5 article 80c0a825a7a661b6（2021年南加州僑界支持台灣參與世界衛生大會WHA聯合聲明, 2025-11-08 快照, 聲明 2021-05-13）: subject link re-checked vs 正文 this attempt — 列名共同發起人清單「陳柏宇」，真實提及，無錯鏈、無虛鏈；含該文 wikilink 之日期事實條目已在庫 — saturated, no new material. -->
+
+<!-- TJJ-A10040700-1: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-1 article 2fc3294ed01f2d2a (台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連任報導, 2025-08-08快照): subject link re-checked vs 正文 (陳柏宇以台灣會館董事長身分列名並公開呼籲支持連任確認見於正文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

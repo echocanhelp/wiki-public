@@ -103,3 +103,5 @@ last_reviewed: 2026-10-01
 <!-- TJJ-A10030500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030500-1 article 23924f7ad0d93713 (李應元標籤頁, 2022-07-01 快照): subject link re-checked vs 正文 (本人為弔文主角，弔文及辭世/植存報導確認見於條目), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-9: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-9 article a75a6e8c12e18729 (台美人台加人分類頁, 2025-04-30快照): subject link re-checked vs 正文 (哲人日已遠：敬弔李應元博士弔文條目確認見於正文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040700-1: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-1 article f1972734edb3c446 (我的肥皂箱人氣頁, 2024-02-28快照): subject link re-checked vs 正文 (敬弔李應元博士弔文條目（NATPA鄭麗伶會長暨全體理事署名）確認見於正文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
