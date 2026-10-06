@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-06
 ---
 # Justin Lin (林詣彬)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-scan 2026-09-26 (slice 09251000-21): fresh ZH+EN grep — identical hit set (the four linked works + works index). SKIP; saturated.
 - Corpus re-scan 2026-09-27 (slice 09260600-8): fresh ZH+EN grep identical hit set (#166, taiwanese-american-film, director-justin-lin essay, blacklava retrospective, works index). SKIP; saturated.
 - Corpus re-scan 2026-10-04 (slice 09270600-7): fresh grep (林詣彬|Justin Lin) — identical hit set (#166, taiwanese-american-film, director-justin-lin essay, blacklava retrospective, works index), all already wikilinked. SKIP; verified-saturated.
+- Corpus re-scan 2026-10-06 (deepen-x slice 10051143-30): fresh ZH+EN grep (林詣彬 / Justin Lin) across works/ + articles/ + sources/ + events/ + topics/ — identical hit set (#166 encyclopedia record, taiwanese-american-film, director-justin-lin-on-asian-american-filmmaking, Blacklava 20-year retrospective, works index); whole-repo sweep adds only [[people/kevin-wu|吳凱文]]'s echo of the same Blacklava visibility line. No new corpus facts. SKIP: verified-saturated.
