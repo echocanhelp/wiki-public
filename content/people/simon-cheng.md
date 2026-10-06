@@ -108,3 +108,5 @@ last_reviewed: 2026-09-23
 <!-- TJJ-A10030400-6: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-6 articles ([[articles/taiwanjustice-net/2017/20171109045230_category_english-pages_2b4b26ff68b75bc6|2b4b26ff English Pages目錄]]): Simon Cheng 鄭良光 投稿條目 link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10030500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-5 article 52a71221d3029866 (台文通訊30週年慶祝會ONLINE 公告, 2021-06-29): subject link re-checked vs 正文（特別來賓名單）, 連結為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-11: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-11 articles (11aa2dfa5f64d7e4 楊子清 tag頁 / 2490b18e8f37ea79 第166回世界台灣文化論壇 / 89e6683c93156205 台美人台加人 p356 / 79b5f26fdef89d22 2023台美小姐選拔賽): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
