@@ -176,3 +176,5 @@ In 2006, the party ended official recognition of factions, though they remain re
 <!-- TJJ-A10040500-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-7: article becb39f917174438 (The Economist via TJJ): DPP 揚彈劾/罷免馬、批評 ICAO 邀請出於中國建議 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article 795e52aadf3797a0（Chen Shui-bian release op-ed, 2015-01-07）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-9: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-9 article f19de8f9d3b53071 (Chen Shui-bian's return to prison/Michael Richardson, 2024-04-25快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
