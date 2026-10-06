@@ -240,3 +240,5 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 <!-- TJJ-A10030400-4: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-4 article 996879ac7a006acf（FAHR第44屆年會暨鄭南榕紀念獎頒獎, 2020-11-25）: subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10030500-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-4 article 64302d51d03b3c5f (黃瑞芬訃聞轉載, 2022-01-29 刊, 2022-01-29 刊): 蕭泰然作品「嘸通嫌台灣」見於1995洛杉磯音樂會節目 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-6 article c62f5c50846fe267 (大洛杉磯台灣會館等24社團228追思紀念大會報導, 2025-02-24): 蕭泰然 as 《台灣翠青》composer, bilingual sing-along re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -51,3 +51,5 @@ The Taiwanese American Scholarship Fund (TASF) was created in 2014 to support ec
 - 2020-06-23 — A TJJ report records TASF co-launching, with the 大洛杉磯台灣會館 foundation, the TASF Student Covid-19 Relief Scholarship Program (up to $500 per award, first-come-first-served) for Taiwan-descent students hit by the pandemic's financial shock; applications were oversubscribed in the first week ([[articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15|TJJ, 2020-06-23]]；同一紀錄另見 [[articles/taiwanjustice-net/2021/20210117070450_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_71a7c64663ea03b6|2021-01-17 快照]]).
 
 <!-- TJJ-A09260400-6: verified 2026-09-26 — subject link 162effa713237818 confirmed real; 2020-06-16 dated fact w/ wikilink already in From the record — saturated. -->
+
+<!-- TJJ-A10040500-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-6 article 162effa713237818 (給台美人學生的 TASF COVID-19 疫情紓困獎學金, 2020-06-16): TASF as sponsor/founder 余崇孝 Sean Yu re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
