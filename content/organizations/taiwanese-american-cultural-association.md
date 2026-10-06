@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-06
 ---
 # Taiwanese American Cultural Association
 
@@ -57,3 +57,5 @@ last_reviewed: 2026-10-04
 slice 09260400-27 re-grep (2026-09-26): fresh ZH+EN corpus grep returned the same hit set already linked/absorbed on this page — verified-saturated, nothing new absorbable, existing HOLDs unchanged.
 
 2026-10-04 re-grep (deepen-x slice 09300315-26): fresh ZH+EN grep (美國台灣文化協會 / Taiwanese American Cultural Association / TACA) over works/ + articles/ returned the identical hit set (records 29/30/23, works index, 2026-02 二二八 article) — all already linked; cross-check found one new cross-ref (Prof. Chin C. Lee page names TACA among his presidentships — membership/leadership mention only, no new TACA-level fact to absorb). SKIP (verified-saturated); English-rendering HOLD maintained.
+
+2026-10-06 re-grep (deepen-x slice 10051143-9): fresh ZH+EN grep (美國台灣文化協會 / Taiwanese American Cultural Association / TACA) over works/articles/sources/events/topics returned the identical hit set (records 29/30/23, works index, 2026-02 二二八 article) — all already linked. Verified-saturated, nothing new absorbable, English-rendering HOLD maintained.
