@@ -68,3 +68,5 @@ _No filled family fields on the TAH profile._
 - The Career Record section already absorbs every fact present in the cited encyclopedia records (#419, #54) and the vault accompanist/debut records. Conductor 鄭超明 (Chao-Ming Cheng), Samuel Sanders, and Daniel Pollack have no vault pages, so no new wikilinks were possible without creating new pages; no biography invented.
 
 <!-- TJJ-A09260500-17: verified 2026-09-27 — slice 09260500-17 articles (2b4b26ff English Pages目錄 / de11e295 半音合唱團國家音樂廳錄影 / 526ee7d6 以立拯救我 / 928db8aa 以立森林王子) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030400-6: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-6 articles ([[articles/taiwanjustice-net/2017/20171107225317_2017_11_05_2001年7月2日半音合唱團受邀演唱於國家音樂廳實況錄_de11e29571f3dc86|de11e295 半音合唱團國家音樂廳錄影]]): 伴奏 陳瑰麗 link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

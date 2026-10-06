@@ -97,3 +97,5 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- TJJ-A10020400-1: verified 2026-10-05 — wave-2 re-check of slice 10020400-1 article 042939d8 Mark Kao 高龍榮 Taipei Times 專欄: subject link re-checked vs 正文 (署名欄 Mark Kao 高龍榮／FAPA president 確認), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030400-6: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-6 articles ([[articles/taiwanjustice-net/2022/20221127045936_2022_09_25_第53回世界台灣文化論壇_ti美國點光台灣高龍榮-吳_e9faa17a0a7ea61c|e9faa17a 第53回世界台灣文化論壇]]): 主講人 高龍榮 (Long Rong Mark Kao) link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

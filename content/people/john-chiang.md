@@ -143,3 +143,5 @@ His childhood experience with racial discrimination shaped his worldview. He wit
 - 2017-09-08 — 其英文專欄「John Chiang: Hear what Californians have to say about our future and about this campaign」列於台灣正義網 English Pages 目錄頁（本快照頁，存檔 2017-11-09）（[[articles/taiwanjustice-net/2017/20171109045230_category_english-pages_2b4b26ff68b75bc6|TJJ English Pages, 2017-11-09 快照]]）。
 
 <!-- TJJ-A09260500-17: verified 2026-09-27 — slice 09260500-17 articles (2b4b26ff English Pages目錄 / de11e295 半音合唱團國家音樂廳錄影 / 526ee7d6 以立拯救我 / 928db8aa 以立森林王子) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030400-6: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-6 articles ([[articles/taiwanjustice-net/2017/20171109045230_category_english-pages_2b4b26ff68b75bc6|2b4b26ff English Pages目錄]]): John Chiang 專欄條目 link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

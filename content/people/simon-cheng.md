@@ -104,3 +104,5 @@ last_reviewed: 2026-09-23
 <!-- TJJ-A10020400-4: verified 2026-10-05 — wave-2 re-check of slice 10020400-4 article 24ebe5f065076949（2016海外台語研習會公告, 2016-05-10）: subject link re-checked vs 正文（鄭良光開台語文學寫作及欣賞課、介紹陳雷與游朝凱）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020500-2: verified 2026-10-05 — wave-2 re-check of slice 10020500-2 articles (4119cffe 音樂短講第13集 / 2b2e0ebc 學生王子 / 7214b273 拯救我 / 753347eb 台文通訊30冬): subject links re-checked vs 正文, all real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030400-6: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-6 articles ([[articles/taiwanjustice-net/2017/20171109045230_category_english-pages_2b4b26ff68b75bc6|2b4b26ff English Pages目錄]]): Simon Cheng 鄭良光 投稿條目 link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
