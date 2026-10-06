@@ -78,3 +78,5 @@ Accomplishment
 - 2014-08-07 — TJJ「梅心怡」標籤頁收錄〈台美人台加人：全美台灣人權協會（FAHR）為梅心怡募款〉，黃再添為報導作者 —— [[articles/taiwanjustice-net/2024/20240724005830_root_5b7741741c30e771|TJJ tag page，2024-07-24 快照]]。
 
 - 覆核（TJJ-A09251000-1, 2026-09-26）：本 slice 文章 e3440fec（陳昭南不流血革命）正文再驗證——黃再添以1983 WUFI路線爭議出走、革命黨中央委員記述確認見於正文（無錯鏈、無虛鏈）；含該文 wikilink 的條目已在庫 — SKIP，無新材料。
+
+<!-- TJJ-A10040500-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-2: article e3440fec 籌謀台灣不流血革命(陳昭南 2022-05-09): 黃再添 link (1983 WUFI主席選舉爭議出走、革命黨中央委員) — confirmed in 正文 re-checked vs 正文 this attempt, link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

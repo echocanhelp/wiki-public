@@ -57,3 +57,5 @@ Re-verified 2026-09-22 (slices 09210600-14, 09220400-12), 2026-09-23 (slice 0922
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-25 (slice 09250900-5) corpus re-check: fresh grep 林茂清／Mou-ChinLin — hit set identical to records already absorbed (#855, Our Journeys 14, 楊遠薰彭昕 memoir copies). SKIP: verified saturated, no new material.
+
+<!-- TJJ-A10040500-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-2: articles 6763e8f4 / 80e2a87a / 299c00bb 懷念彭昕醫師(楊遠薰, triple copy): 林茂清 link (紐澤西生活充實俱樂部會長、邀講五次) — confirmed in 正文 re-checked vs 正文 this attempt, link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

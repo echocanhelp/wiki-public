@@ -79,3 +79,5 @@ HOLD: no conflicts found between corpus records; the tah-tables 安星貿易公�
 - Deepen re-check 2026-09-14（僅限語料庫）：其他收錄本人名諱之vault記錄——1984 年沈英忠（時任 SCTAI 會長）邀十二位同鄉於中國城近郊旅館座談（促成日後 TACL 籌備），本人列名與會名單：[[works/taiwaneseamericanhistory-org/ourjourneys272||TAH #272]]；本人列名之社區連署名單：[[works/taiwaneseamericanhistory-org/ourjourneys186||TAH #186]]；南加「台灣人聯合基金會」（TUF）1986 年由本人與林衡哲等發起成立（並催生太平洋時報創刊因緣）：[[works/taiwaneseamericanhistory-org/ourjourneys294||TAH #294]]。其夫人吳陳信愛、子女吳慕真、伯宏、伯仁目前暫無個別vault頁。
 
 - 覆核（TJJ-A09251000-1, 2026-09-26）：本 slice 文章 299c00bb（楊遠薰懷念彭昕醫師）正文再驗證——吳西面以彭昕表姑父（妻吳陳信愛、岳父陳溪圳牧師）記述確認見於正文（無錯鏈、無虛鏈）；含該文 wikilink 的條目已在庫 — SKIP，無新材料。
+
+<!-- TJJ-A10040500-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-2: articles 6763e8f4 / 80e2a87a / 299c00bb 懷念彭昕醫師(楊遠薰, triple copy): 吳西面 link (彭昕表姑父、妻信愛姐為陳溪圳牧師之女) — confirmed in 正文 re-checked vs 正文 this attempt, link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
