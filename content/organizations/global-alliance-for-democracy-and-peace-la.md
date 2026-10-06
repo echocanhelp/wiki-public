@@ -6,8 +6,9 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
+<!-- deepen-x slice 10051200-4 (2026-10-06): case-insensitive grep (GADP / 全僑民主和平聯盟 / Global Alliance.*Democracy) of works/articles/sources/events/topics -> sole hit remains concerts127 (parent alliance, PA 2008). No LA支盟-specific material. Verified-saturated, SKIP. -->
 # [[organizations/global-alliance-for-democracy-and-peace||Global Alliance for Democracy and Peace]] (GADP)-LA
 
 **Global Alliance for Democracy and Peace (GADP)-LA** (全僑民主和平聯盟洛杉磯支盟) is listed as a **group member** of the [[organizations/taiwan-center||Taiwan Center Foundation of the Greater Los Angeles]].

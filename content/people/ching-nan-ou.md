@@ -7,8 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
+<!-- deepen-x slice 10051200-4 (2026-10-06): fresh ZH+EN grep (歐清南/Ching-Nan Ou) of works/articles/sources/events/topics -> hit set unchanged (ourjourneys233 / -eng / own record 816 + index). All corpus facts already absorbed in Role in the Community. Verified-saturated, SKIP. -->
 # Ching-Nan Ou (歐清南)
 
 ## Identity Snapshot
