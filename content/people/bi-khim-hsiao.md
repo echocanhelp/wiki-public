@@ -314,3 +314,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10040600-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-2 article 6f2b431c9cb0cca9 (台美人台加人頻道索引 p354, 2024-05-20 快照): subject links re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-3 article 99aaa4abcb78ff6d (台美人台加人分類存檔 p2, 2024-04-25快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-8: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-8: article 9d523cc5290c997b (我的女兒美琴, 2020-07-26刊) 書寫對象（父親筆下的女兒）即本人 real; article 28b0cc4e52acece2 (2021聯合228紀念報導, 2021-03-03刊) 蕭美琴大使致詞+全程參與 real; article c3e762826a7e42d2 (會館22週年募款年會公告, 2020-11-17刊) 蕭美琴大使受邀主講「台美攜手 眾志成城」real; all subject links re-checked vs 正文, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->

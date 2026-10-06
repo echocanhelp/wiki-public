@@ -357,3 +357,5 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 <!-- TJJ-A10040500-11: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-11 articles (11aa2dfa5f64d7e4 楊子清 tag頁 / 2490b18e8f37ea79 第166回世界台灣文化論壇 / 89e6683c93156205 台美人台加人 p356 / 79b5f26fdef89d22 2023台美小姐選拔賽): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-3 article b1d58af16c0a5e5b (2021年南加州僑界支持台灣參與WHA聯合聲明, 2021-06-16快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-8: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-8 article c3e762826a7e42d2 (大洛杉磯台灣會館22週年募款年會公告, 2020-11-17刊): subject link re-checked vs 正文 — 董事長陳柏宇於記者會到場發言見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

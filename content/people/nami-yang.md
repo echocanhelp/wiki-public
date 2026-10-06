@@ -122,3 +122,5 @@ Her own writings/records additionally held in the vault (existing pages, no new 
 - 覆核（TJJ-A09300400-22, 2026-10-04）：本 slice 四篇快照頁 53455d7e（挺港聯合聲明, 2024-02-21 快照）、c9dd9fb7（Covid-19 浩劫餘生錄, 2021-11-29 快照）、9a66943e（台美人台加人 p353, 2024-04-21 快照）、2ac7d756（鄉情與文化 p3, 2020-06-28 快照）正文再驗證——subject 連結為真實提及（署名清單／專欄標題逐一對照），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
 
 <!-- TJJ-A10030500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-5 article c76f11ecd2598ecb (2017台美文藝出版 台美人筆會發表會報導, 2017-06-11): subject link re-checked vs 正文（第二代作家名單/編委名單）, 連結為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-8: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-8 article cd2062fe6528223c (台灣之美‧亞洲之心巡迴展報導, 2017-03-14刊): subject link re-checked vs 正文 — 李淑櫻即本篇圖/文作者、TUF現任理事兼藝展組, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

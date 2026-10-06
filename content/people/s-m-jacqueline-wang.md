@@ -65,3 +65,7 @@ S. M. (Jacqueline) Wang 王賽美 – History of Taiwanese American (T.A. Archiv
 - 2020-11-17 — The Taiwan Center's 22nd-anniversary fundraising notice again credits the center's founding property (land and building, 1998) to permanent honorary chairman 王桂榮 and his wife 王賽美 ([[articles/taiwanjustice-net/2020/20201126160218_2020_11_17_大洛杉磯台灣會館基金會22週年線上募款年會12-5舉行_c3e762826a7e42d2|TJJ, 2020-11-17]]).
 
 <!-- TJJ-A09260400-10: verified 2026-09-26 — subject links in slice article 2a543ddc9301b7b3（會館24週年募款年會公告）re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-9: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-9 article 2a543ddc9301b7b3 (會館24週年募款年會公告, 2022-09-24快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-8: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-8 article c3e762826a7e42d2 (大洛杉磯台灣會館22週年募款年會公告, 2020-11-17刊): subject link re-checked vs 正文 — 會館土地及建築物1998年由王桂榮永久榮譽董事長與夫人王賽美女士捐獻見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

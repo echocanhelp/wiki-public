@@ -81,3 +81,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus hub]]
 - His Tunghai fine-arts graduate studies connect to the Tunghai alumni network in Southern California: see [[works/taiwaneseamericanhistory-org/tunghai-alumni-in-the-greater-los-angeles-area||Tunghai Alumni in the greater Los Angeles area]].
+
+<!-- TJJ-A10040500-8: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-8 article cd2062fe6528223c (台灣之美‧亞洲之心巡迴展報導, 2017-03-14刊): subject link re-checked vs 正文 — 洪逸凡以新藝畫會會員受邀參展點名於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
