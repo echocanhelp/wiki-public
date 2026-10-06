@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Mike Lee (李振生博士)
 
@@ -42,7 +42,7 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 - Listed in the TAHS / TAH Who's Who community directory and in the TAH story corpus: [[works/taiwaneseamericanhistory-org/208-mike-lee-e6-9d-8e-e6-8c-af-e7-94-9f201501|208. Mike Lee 李振生 (2015-01-19)]] — a community story record held in the vault.
 - The corpus record names him 李振生 (without the honorific 博士 used on the directory snapshot); same person, title difference only.
-- Identity-clean note (re-grepped 2026-09-26, slice 09251039-17): taiwanjustice-net article matches on "Mike Lee" refer to U.S. Senator Mike Lee (R-Utah, 李伊／麥克.李), a different person — excluded, not absorbed. No movement/memoir narrative in the corpus beyond the TAH #208 directory record.
+- Identity-clean note (re-grepped 2026-09-26, slice 09251039-17): taiwanjustice-net article matches on "Mike Lee" refer to U.S. Senator Mike Lee (R-Utah, 李伊／麥克.李), a different person — excluded, not absorbed. No movement/memoir narrative in the corpus beyond the TAH #208 directory record. Re-grepped 2026-10-06 (deepen-x 10051143-28): corpus hits = own record [[works/taiwaneseamericanhistory-org/208-mike-lee-e6-9d-8e-e6-8c-af-e7-94-9f201501|TAH #208]] plus taiwanjustice-net articles naming Senator Mike Lee (R-Utah) — different person, excluded. Nothing new absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mike-lee/)

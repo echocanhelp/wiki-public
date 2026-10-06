@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-06
 ---
 # Rice Taiwanese Association
 
@@ -21,7 +21,7 @@ The Rice Taiwanese Association (RTA) is a non-partisan cultural and social organ
 ## Role in the Community
 - **休士頓台美人學生脈絡**：RTA 所處的 Rice University 台美人學生傳統有第一手紀錄——一位 1963 年元月抵美就讀 Rice University 的前輩回憶，六〇年代休士頓的台生與醫界人士已聚集成群，婚禮、釣魚、中秋賞月等活動串起 Rice、UH、Medical Center 的台美人社群。見 [[works/taiwaneseamericanhistory-org/our-journeys-359|Our Journeys 359 — 休士頓留學回憶]]（此脈絡早於 RTA 未載明的創立年，勿混為本會會史）。
 - 本會為 ITASA（Intercollegiate Taiwanese American Students Association）會員校；corpus 暫無直接提及 RTA 本會的紀錄。
-- Deepen pass 2026-09-26 (slice 18): SKIP — grep re-confirmed: no exact 'Rice Taiwanese' hit in works/ or articles/; 'RTA' matches were substring false positives in unrelated news. No new facts absorbable.
+- Deepen pass 2026-09-26 (slice 18): SKIP — grep re-confirmed: no exact 'Rice Taiwanese' hit in works/ or articles/; 'RTA' matches were substring false positives in unrelated news. No new facts absorbable. Re-verified 2026-10-06 (deepen-x 10051143-28): only corpus hit for 'Rice Taiwanese' is the directory wikilink in [[sources/taiwaneseamericanhistory-org]]; no first-party RTA mention in memoirs. SKIP again.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/rice-taiwanese-association/)
