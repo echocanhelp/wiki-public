@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-06
 ---
 # J. Z. Lee (李錦容)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-check 2026-09-25 (deepen-x slice 09240800-10): fresh grep (works+articles) returns the same six linked records (whoswho1304, ourjourneys106/79/210/270, publications26) — verified saturated; SKIP, nothing new absorbable.
 - Corpus re-check 2026-09-26 (deepen-x slice 09251000-28): fresh grep (李錦容 / J. Z. Lee) — hit set unchanged (whoswho1304, index; article hits are 李文亮 noise). Verified saturated; SKIP.
 - Corpus re-check 2026-09-27 (deepen-x slice 09260600-17): fresh grep (works+articles) — hit set identical (whoswho1304, ourjourneys106/79/210/270, publications26), all already wikilinked above. Verified saturated; SKIP.
+<!-- deepen-x slice 10051143-3 (2026-10-06): saturated re-verify — fresh grep (李錦容/J. Z. Lee) hit set unchanged (whoswho1304, ourjourneys106/79/210/270, publications26); all absorbed above. SKIP-content. -->
