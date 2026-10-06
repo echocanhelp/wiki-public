@@ -6,7 +6,7 @@ tags:
   - disambiguation
   - NTPC
 verification_status: published
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # NTPC — National Taiwanese Presbyterian Council (not New Taipei City)
 
@@ -38,6 +38,8 @@ Full page: [[organizations/national-taiwanese-presbyterian-council||National Tai
 Corpus re-verified 2026-09-25 (deepen-x slice 09250600-26): grep returns only the two tahs.org records already linked above plus the index row; no new memoir coverage; ZH-name HOLD stands.
 
 Corpus re-verified 2026-10-01 (deepen-x slice 09261200-13): -E grep (NTPC|全美台灣人教會聯合會|美國基督長老教會全國台灣人教會聯合會) over `content/works` + `content/articles` returns only the two tahs.org records linked above, the works index, and an unrelated 陳其邁勝選 tag file under articles/taiwanjustice-net/ (city-sense noise, not council coverage). No new corpus coverage; ZH-name HOLD stands.
+
+Corpus re-verified 2026-10-06 (deepen-x slice 10051143-6): same grep over all five corpus dirs adds two source pages — [[sources/ntpc-usa-org||NTPC USA]] (official-site source dossier, links to the council primary) and [[sources/toward-a-community-of-hope||Toward a Community of Hope]] (2025 NTPC co-republication mention). Both point at the council primary page, not this disambiguation slug; no new memoir coverage; ZH-name HOLD stands.
 
 ## Related Pages
 - [[organizations/national-taiwanese-presbyterian-council||National Taiwanese Presbyterian Council]]

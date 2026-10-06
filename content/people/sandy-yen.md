@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Sandy Yen (莊和子)
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-10-01
 <!-- deepen-x 09231200-20: re-verified 2026-09-25 — corpus grep hits (ourjourneys19/236, my-stories-852/853, whoswho1163) all already wikilinked in Role in the Community. No new material. -->
 <!-- deepen-x 09250500-28: re-verify 2026-09-25 — fresh ZH+EN grep returned identical hit set (ourjourneys19/236, my-stories-852/853, whoswho1163, index); all absorbed, saturated. -->
 <!-- deepen-x 09261100-21 re-verify 2026-10-01: fresh ZH+EN full-corpus grep — identical hit set (my-stories-852/853, ourjourneys19/236, whoswho1163, works/index); 853 also names Cogito/Magnex/Genoa (1982 慶豐 Group Silicon Valley venture cluster, not a 莊和子 fact) — no new personal/community fact. Corpus-saturated; SKIP stands. -->
+<!-- deepen-x 10051143-6 re-verify 2026-10-06: fresh ZH+EN grep over all five corpus dirs — identical hit set (my-stories-852/853, ourjourneys19/236, whoswho1163, works/index); all facts already absorbed above. Corpus-saturated; SKIP. -->
