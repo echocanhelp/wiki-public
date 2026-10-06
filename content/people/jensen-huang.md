@@ -79,4 +79,6 @@ Jensen Huang founded NVIDIA in 1993 and has served since its inception as presid
 <!-- TJJ-A09260400-27: verified 2026-09-26 — subject links in slice 09260400-27 articles (e041055e 台灣演義分類頁 / cd646b86 WHO世衛專題頁 / 2fc3294e Michelle Steel募款餐會 / 432e1fca Ed Royce標籤頁) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10030400-3: verified 2026-10-05 — wave-2 re-check of slice 10030400-3 article 48352159 (紐約台灣會館交接 CNA 報導, 2021-04-07): 黃仁勳為蘇春槐表弟記述再確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2021-04-07 條目已在庫 — saturated, no new material. -->
 
+<!-- TJJ-A10040600-12: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-12 article 923dad711fb49f07 (台灣新聞分類存檔頁, 2023-12-01 快照): subject link re-checked vs 正文 (「Catch大錢潮 20231201 黃仁勳『晶片純美製造』還要20年?」條目), real, no wrong/spurious links; 2023-12-01 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 <!-- TJJ-A10040600-8: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-8 article 00354cf6ba9cf607 (台美人台加人 featured p358, 2024-06-19 快照): subject link re-checked vs 正文, real (「黃仁勳加州理工畢典致詞談輝達多次受挫『痛苦和磨難淬鍊超能力』[影]」條目見於正文, 刊 2024-06-15), no wrong/spurious links; 2024-06-15 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

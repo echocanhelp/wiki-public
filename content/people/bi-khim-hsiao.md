@@ -330,3 +330,5 @@ _No filled family fields on the TAH profile._
 
 
 <!-- TJJ-A10040700-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-3 articles 8216e7ca508266e9 (蕭清芬牧師在美過世標籤頁, 2022-05-21快照: 父女關係標題提及) + 8c20569762592915 (南加州教會槍殺案駐處查證, 2022-05-16刊: 駐美代表代表政府向鄭達志家屬哀悼): subject links re-checked vs 正文, real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-12: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-12 article 923dad711fb49f07 (台灣新聞分類存檔頁, 2023-12-01 快照): subject link re-checked vs 正文 (「蕭美琴合體苗博雅 拚總統勝選、國會過半」條目), real, no wrong/spurious links; 2023-12-01 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
