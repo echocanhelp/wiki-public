@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Association of Taiwanese Students at MIT
 
@@ -29,6 +29,7 @@ The Association of Taiwanese Students (ATS) at MIT is an undergraduate student o
 <!-- deepen-x 09231200-26: SKIP — re-grepped 'Association of Taiwanese Students' / 'mitats' / 'MITATS' across works+articles: still zero corpus hits, nothing absorbable. -->
 <!-- deepen-x 09250600-8: SKIP — fresh grep 'Association of Taiwanese Students' / mitats / MITATS: zero corpus hits, nothing absorbable. -->
 <!-- deepen-x 09261200-6: SKIP — re-grepped 'Association of Taiwanese Students' / mitats / MITATS across works+articles 2026-10-01: still zero corpus hits, nothing absorbable. -->
+<!-- deepen-x 10051143-14 (2026-10-06): SKIP — fresh grep across works/articles/sources/events/topics: only hit is the TAH directory backlink in sources/taiwaneseamericanhistory-org.md; MIT+Taiwanese-student alias greps return only unrelated orgs/people. Zero corpus hits, nothing absorbable. -->
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

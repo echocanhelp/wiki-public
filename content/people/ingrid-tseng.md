@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Ingrid Tseng (曾暎貴)
 
@@ -34,12 +34,14 @@ last_reviewed: 2026-10-01
 - Listed as a 台大護理系校友 signatory in the 2018 南加州台大校友會抗议公開信 [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議南加州台大校友會邀管中閔演講]] (2018-07).
 
 - Re-verified 2026-09-26: fresh grep (曾暎貴 / Ingrid Tseng) across works+articles returned exactly the four records already linked above plus the works index — corpus-saturated, nothing new absorbable.
+- Re-verified 2026-10-06 (deepen-x slice 10051143-14): same four first-person records; the only new corpus material is husband 劉俊宏's own records, now cross-linked under Family — no new first-person facts for Ingrid herself.
 
 ## Family
 
 - **Husband:** [[people/edward-liu||劉俊宏]]
 - **Daughter:** Jenny
 - **Son:** Jasper
+- Husband 劉俊宏's corpus record: his 1986 proposal to establish the 中西部夏令會基金 ([[works/taiwaneseamericanhistory-org/our-journeys-376|Our Journeys 376]]) and the 劉俊宏紀念杯高爾夫球比賽 held in his name ([[works/taiwaneseamericanhistory-org/liu-memorial-golf|劉俊宏紀念杯高爾夫球比賽]], record 2018) — details on [[people/edward-liu|Edward Liu]]'s page.
 
 
 ## Sources

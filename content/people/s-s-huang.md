@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # S.S. Huang (黃申生)
 
@@ -46,6 +46,7 @@ last_reviewed: 2026-10-01
 - TAH encyclopedia profile: [[works/taiwaneseamericanhistory-org/whoswho2109|2109. S.S. Huang 黃申生 / 05/2018]].
 - Disambiguation: TAH #2086 "Prof. S. S. Huang" is 黃壽山, a different person sharing the English initials — see [[works/taiwaneseamericanhistory-org/whos-who-2086-s-s-huang|2086. Prof. S. S. Huang 黃壽山教授]]; do not merge the two records.
 - Re-grepped 2026-09-23 (slice 09221500-25), 2026-09-25 (slices 09231000-28, 09250400-18) and 2026-09-26 (slice 09252123-26): corpus hits remain only #2109, #636, #79 and the #2086 黃壽山 disambiguation record already noted above — verified-saturated, nothing absorbable.
+- Corpus re-check 2026-10-06 (deepen-x slice 10051143-14): fresh ZH+EN grep surfaces two further works authored by his wife 楊詠絮 — her 台灣公論報 column [[works/taiwaneseamericanhistory-org/columns18|18. 美居絮談(台灣公論報) / 楊詠絮 / 2016-10]] and her edited 千禧年專輯 [[works/taiwaneseamericanhistory-org/publications115|115. 北美台灣婦女信箱千禧年專輯 / 楊詠絮 主編 / 04/2001]] — both corroborate the NATWA record above; the #636/#2109/#2086 hit set is otherwise unchanged.
 
 
 ## Sources
