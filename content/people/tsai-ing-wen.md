@@ -163,3 +163,5 @@ name_en: "Tsai Ing-wen"
 
 <!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article 15fc4a3e5664504e（Shawna Yang Ryan WaPo op-ed, 2016-12-10）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10040600-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-4 articles 2a3226a1b19c5a46 (中央社副手專稿轉載, 2023-12-08 快照) + 86312fe2a2feb73e (English Pages 分類隨機頁3, 2024-05-30 快照): subject links re-checked vs 正文, real (賴蕭配「延續蔡英文路線」記述；2015-04-16 兩則英語參選報導條目), no wrong/spurious links; dated facts w/ article wikilinks (2023-11-20／2015-04-16) already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-9: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-9 article d2d01925bc6bbba3 (English Pages p5, 2024-07-18快照): subject link re-checked vs 正文 (Taiwan Opposition's Presidential Nominee Tsai Ing-wen Says Won't Change China Ties條目確認見於正文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

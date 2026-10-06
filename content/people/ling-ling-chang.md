@@ -77,3 +77,5 @@ _Corpus re-grep 2026-09-25 (DEEPEN-X slice 09240600-1): fresh ZH+EN grep of work
 - 2018-06-25 (third snapshot) — the headline again appears in the TJJ English Pages 分類頁快照（2024-05-21）—— [[articles/taiwanjustice-net/2024/20240522044125_root_f51d2ebb674cbdd3|TJJ English Pages 存檔頁]]（連結於 2026-09-22 TJJ-A09220600-1 再驗證為真實對應）。
 
 <!-- TJJ-A10040600-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-2 articles c351c962b4545bfa / c92664485ca4c1a7 (English Pages p2/p3 快照): subject links re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-9: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-9 article f51d2ebb674cbdd3 (English Pages p13, 2024-05-22快照): subject link re-checked vs 正文 (加州首位女性台美人州參議員張玲玲宣誓就職條目確認見於正文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material; 張齡玲 vs 張玲玲 HOLD 不變. -->
