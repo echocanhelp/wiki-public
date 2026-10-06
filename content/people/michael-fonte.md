@@ -92,3 +92,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A09260400-10: verified 2026-09-26 — subject links in slice article 29faf54b8c9e2d10（2017美東夏令會報導）re-checked vs 正文; all real, no wrong/spurious links (authors 雙管道符 typo fixed); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020900-1: verified 2026-10-05 — slice 10020900-1 articles (ad7f737b 第55回世界臺灣文化論壇大佛普拉斯 / c1e60306 蕭美琴缺席僑界活動 / 3246c11d 洛僑中心台灣藝術講座 / 88c15e54 蘇姿丰PCAST顧問) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article d2dbfe220e437602（2017美東台灣人夏令會報導, 29faf54b8c9e2d10 同文副本）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

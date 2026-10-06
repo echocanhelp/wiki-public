@@ -142,3 +142,5 @@ last_reviewed: 2026-10-01
 <!-- TJJ-A10020400-3: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020400-3 article 69b4f44f9c019bd5 (陳水扁台中監獄自縊專訪報導, 2013-06-10): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020500-1 article c0530664ab4c2948 (Taipei Times 社論轉載「陳水扁的審判應受調查」, 2016-04-11): subject link re-checked vs 正文 (扁案特赦爭議與審判瑕疵通篇為主題), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article 795e52aadf3797a0（Chen Shui-bian release op-ed, 2015-01-07）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

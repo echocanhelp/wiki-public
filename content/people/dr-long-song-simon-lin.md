@@ -92,3 +92,7 @@ Role anchors already on this page's TAH table map to vault pages: [[organization
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- TJJ-A09250800-4: verified 2026-09-26 — subject links in slice 09250800-4 articles (6f2b431c / 08b82976 / 1a2bdc08 / 53455d7e) re-checked vs 正文; all real (1a2bdc08 Subjects links fixed: stray .md suffix removed); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-7: article 71a7c64663ea03b6: 林榮松執行長捐贈 Whittier Hospital 250 面罩＋文獻數位化 re-checked vs 正文, real, no wrong/spurious links; 2020-06-23 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article c05e2d53013fcd15（會館疫情服務報導 2020-06-23）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

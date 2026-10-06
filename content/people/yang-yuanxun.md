@@ -10930,3 +10930,7 @@ Notable quotes and mentions of **楊遠薰** in Taiwan Justice articles:
 <!-- TJJ-A10040500-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-2: articles 6763e8f4 / 80e2a87a / 299c00bb 懷念彭昕醫師(楊遠薰, triple copy): 楊遠薰 author link (frontmatter; 本文作者回憶五次LWC線上演講) — confirmed in 正文 re-checked vs 正文 this attempt, link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040500-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-3 articles f06677a469620539／e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》兩存檔副本, 同文): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-7: articles 2c9cb76838702dd7 + 3260cd0bdf2f84d7: 兩存檔均為其專欄署名（authors frontmatter），連結為真; 專欄內容已由各 subject 頁吸收 — saturated, no new material. -->
+
+<!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article d2dbfe220e437602（2017美東台灣人夏令會報導, 29faf54b8c9e2d10 同文副本）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

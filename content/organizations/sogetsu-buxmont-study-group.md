@@ -41,3 +41,5 @@ Re-check (slice deepen-x-slice-09220800-2, 2026-09-22): fresh grep Sogetsu / 草
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article d2dbfe220e437602（2017美東台灣人夏令會報導, 29faf54b8c9e2d10 同文副本）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

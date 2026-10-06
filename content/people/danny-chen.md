@@ -97,3 +97,7 @@ The TJ archives already cited on this page are in-corpus works — linked here s
 - [[people/wei-boji||Wei Boji (魏博基)]]
 - [[people/xu-shitan||Xu Shitan (徐士坦)]]
 - [[people/wang-rongyi||Wang Rongyi (王榮義)]]
+
+<!-- TJJ-A10040500-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-7: article 71a7c64663ea03b6: 陳啟耕律師 2020-04-25 線上移民講座（會館首場線上活動）re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article c05e2d53013fcd15（會館疫情服務報導 2020-06-23）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

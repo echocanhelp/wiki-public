@@ -172,3 +172,7 @@ In 2006, the party ended official recognition of factions, though they remain re
 <!-- TJJ-A10020400-1: verified 2026-10-05 — wave-2 re-check of slice 10020400-1 article 042939d8 Mark Kao 高龍榮 Taipei Times 專欄: subject link re-checked vs 正文 (DPP 九合一勝選、被要求給「specific outcome」之記述確認), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020500-1 article c0530664ab4c2948 (Taipei Times 社論轉載, 2016-04-11): subject link re-checked vs 正文 (26名民進黨台北市議員聯署支持特赦), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-7: article becb39f917174438 (The Economist via TJJ): DPP 揚彈劾/罷免馬、批評 ICAO 邀請出於中國建議 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article 795e52aadf3797a0（Chen Shui-bian release op-ed, 2015-01-07）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

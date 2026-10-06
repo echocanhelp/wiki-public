@@ -207,3 +207,7 @@ Notable quotes and mentions of **蔡漢成** in Taiwan Justice articles:
 - [[people/freeman-huang||Freeman Huang (黃樹人)]] — Secretary (秘書)
 
 - 複核（TJJ-A09260500-15, 2026-09-27）：本 slice 僅 [[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|17835ad9]] 涉本人，subject 連結為真；含該文 wikilink 的 2016-06-11 條目已在庫 — SKIP，無新材料。
+
+<!-- TJJ-A10040500-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-7: article 71a7c64663ea03b6: 蔡漢成副董事長主導會館文獻數位化 re-checked vs 正文, real, no wrong/spurious links; 2020-06-23 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article c05e2d53013fcd15（會館疫情服務報導 2020-06-23）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

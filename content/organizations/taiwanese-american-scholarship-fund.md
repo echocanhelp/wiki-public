@@ -53,3 +53,7 @@ The Taiwanese American Scholarship Fund (TASF) was created in 2014 to support ec
 <!-- TJJ-A09260400-6: verified 2026-09-26 — subject link 162effa713237818 confirmed real; 2020-06-16 dated fact w/ wikilink already in From the record — saturated. -->
 
 <!-- TJJ-A10040500-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-6 article 162effa713237818 (給台美人學生的 TASF COVID-19 疫情紓困獎學金, 2020-06-16): TASF as sponsor/founder 余崇孝 Sean Yu re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-7: article 71a7c64663ea03b6 (2021-01-17 快照, twin c05e2d53): TASF 與會館基金會協力推出 COVID 紓困獎學金 re-checked vs 正文, real, no wrong/spurious links; 2020-06-23 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article c05e2d53013fcd15（會館疫情服務報導 2020-06-23）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
