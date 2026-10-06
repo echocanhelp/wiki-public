@@ -108,3 +108,5 @@ Absorbed from vault pages already naming her (no web):
 <!-- TJJ-A10020400-4: verified 2026-10-05 — wave-2 re-check of slice 10020400-4 articles 4a5080befc342f69＋2c5d3c7d4f5acccc（戴琪與鄧振中視訊、重啟TIFA同文兩存檔, 2021-06-10）: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ both article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020600-1: verified 2026-10-05 — wave-2 re-check of slice articles d4a7f9e55282396a 北市區域立委號次抽籤 / 10e3a027ce22991c 汽車晶片短缺·美國會議員向蕭美琴求助 / 735744492226b90c 2016台美小姐開訓記者會 / bfc5f319a036a339 黃瑞芬訃聞: subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030500-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-3 article 6d16f9e35d9e3188 (戴琪：台美貿易倡議盼在關鍵領域達高標準成果, 2022-06-28 刊): subject link (戴琪於 selectUSA 投資峰會演說談美台貿易倡議、談判路線圖) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

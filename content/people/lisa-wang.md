@@ -84,3 +84,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A09260600-1: verified 2026-09-27 — subject links in slice 09260600-1 articles (77b0891e 信雅古典音樂珍藏啟用致詞 / 3be67f6e 台美人台加人存檔頁2 / 2e141df6 蔬果園藝標籤頁 / 2fa1c26a 台美人台加人存檔頁359) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10030400-1: verified 2026-10-05 — wave-2 re-check of slice 10030400-1 articles (77b0891e 信雅古典音樂珍藏啟用致詞 / 3be67f6e 台美人台加人存檔頁2 / 2e141df6 蔬果園藝標籤頁 / 2fa1c26a 台美人台加人存檔頁359): Lisa Wang link (2e141df6: 玫瑰花養植及玫瑰花茶加工講座; Paul Huang ≠小提琴家黃俊文 HOLD維持) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030500-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-2 articles (58ad9964 TIME100Next 吳怡農/吳弭 / 0c56e79f 園藝分類頁 / f631078d 海外小英後援會助選團 / 8fc11ca0 韓國瑜預算協商): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

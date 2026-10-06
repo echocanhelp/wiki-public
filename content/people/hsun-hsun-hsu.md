@@ -81,3 +81,5 @@ Her USC vocal-performance years also connect to the vault's [[organizations/taiw
 - Correction to the 2026-09-10 note: the #356 encyclopedia record **does** exist in the vault, at [[works/taiwaneseamericanhistory-org/13182||TAH #356: Hsun-Hsun Hsu 許恂恂 (2015-03)]] (bibliographic record; now linked). The prior pass missed it because the vault file is named 13182.md.
 - [[works/taiwaneseamericanhistory-org/ourjourneys340||TAH #340: 寫在泰然音樂節前夕 / 許丕龍 / 2018-08]] names her as conductor of 半音合唱團 (東區) in the 泰然音樂節 216-musicer festival choir — the vault's only other mention of her conducting, consistent with the 指揮 post already in the tables. Linked as community-record context only.
 - No new biography asserted, no web used, no new pages created, nothing published.
+
+<!-- TJJ-A10030500-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-3 article 2589c86787ef4241 (228介心靈日防疫音樂會, 2020-03-01 刊): subject link (許恂恂任半音合唱團指揮、帶兩子參加、「歷史要傳承下去」) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
