@@ -86,3 +86,5 @@ Facts absorbed from the TAH encyclopedia entries already cited on this page:
 ## Vault re-check 2026-09-14 (deepen-x slice 09112200-1, vault-only)
 His Source list's TAH #219 and #201 encyclopedia URLs resolve to existing vault pages, now wikilinked above. Additional vault corroboration found: [[works/taiwaneseamericanhistory-org/ourjourneys33||Our Journeys #33 (張炎憲, 2014/09)]] independently records him — 陳以德、盧主義、林榮勳、楊東傑、林錫湖 — as the five who founded 3F in Philadelphia in 1956 and reorganized it into UFI in 1958. No web used, no new pages, nothing published.
 
+
+<!-- TJJ-A10040500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-5 articles c03323d28f95e9ea / 2d725102f4e64118（同文兩存檔快照「從二戰後全球去殖民化，到台灣國家正常化（下）」, 2023-06-02 刊）: subject link re-checked vs 正文（盧主義與林榮勳、陳以德 1956 費城創立 3F）, real, no wrong/spurious links; dated fact w/ both article wikilinks already in From the record — saturated, no new material. -->

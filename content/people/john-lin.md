@@ -70,3 +70,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+
+<!-- TJJ-A10040500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-5 articles c03323d28f95e9ea / 2d725102f4e64118（同文兩存檔快照「從二戰後全球去殖民化，到台灣國家正常化（下）」, 2023-06-02 刊）: subject link re-checked vs 正文（林榮勳與陳以德、盧主義 1956 費城創立 3F）, real, no wrong/spurious links; dated fact w/ both article wikilinks already in From the record — saturated, no new material. -->

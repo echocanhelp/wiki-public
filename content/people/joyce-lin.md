@@ -59,3 +59,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09230700-2 re-verify 2026-09-24: fresh grep 林才欣/Joyce Lin — same saturated set (videos-162, whos-who-2270-joyce-lin, TJJ 039ccce4163c57a9 report, ourjourneys305 different-person HOLD, works/index, MANIFEST.jsonl metadata only). No new absorbable material -->
 - 2026-09-25 deepen-x slice 09240600-10: fresh grep (林才欣 / Joyce Lin) — hit set identical to saturated set (videos-162, whos-who-2270, TJJ 039ccce4163c57a9, ourjourneys305 different-person HOLD, MANIFEST metadata). SKIP: no new absorbable material.
 - 2026-09-25 deepen-x slice 09250900-1: fresh grep (林才欣 / Joyce Lin) — hit set identical to saturated set (videos-162, whos-who-2270, TJJ 039ccce4163c57a9, ourjourneys305 different-person HOLD, works/index, MANIFEST metadata). SKIP: no new absorbable material.
+
+<!-- TJJ-A10040500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-5 article 039ccce4163c57a9（航空宣教使團Joyce Lin墜湖身亡, 2020-05-15 刊）: subject link re-checked vs 正文（傳主本人，MAF墜機報導）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

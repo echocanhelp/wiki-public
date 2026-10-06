@@ -109,3 +109,5 @@ _No filled family fields on the TAH profile._
 <!-- NOTE: 黃文雄 link in a20fb275 keeps Cornell-博士生-vs-TAH-醫師 HOLD warning; 刺蔣案 mentions are real mentions of that name in 正文, identity unconfirmed as before. -->
 
 <!-- TJJ-A10030400-4: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-4 article a20fb275b89c3fb7（刺蔣案策劃者鄭自才登記總統連署, 2023-09-18）＋article 996879ac7a006acf（FAHR第44屆年會暨鄭南榕紀念獎頒獎, 2020-11-25）: subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-5 article 31b7081a5d37939f（化作千風－王泰和追思會影音, 2022-07-12 刊）: subject link re-checked vs 正文（424刺蔣案黃文雄射擊敘述）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record（身份 HOLD 維持原樣）— saturated, no new material. -->

@@ -92,3 +92,5 @@ _Corpus-absorbed 2026-09-14 (slice 09141300-17); primary material from our own m
 <!-- TJJ-A09260500-18: verified 2026-09-27 — slice articles (c83c2315 王廷宜追思會 / 426d2811 楊子清音樂短講13集 / e7e2a1e1＋025f6ed9 以立希望之光兩存檔副本) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020400-6: verified 2026-10-05 — slice 10020400-6 articles (c83c2315 王廷宜追思會 / 426d2811 楊子清音樂短講13集 / e7e2a1e1＋025f6ed9 以立希望之光兩存檔副本) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-5 article 31b7081a5d37939f（化作千風－王泰和追思會影音, 2022-07-12 刊）: subject link re-checked vs 正文（王泰和本名王廷宜之傳主頁）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
