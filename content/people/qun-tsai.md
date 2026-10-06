@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-06
 ---
 # Qun Tsai (蔡昆)
 
@@ -56,3 +56,5 @@ Corpus re-check (deepen-x 09231000-12, 2026-09-25): fresh grep of works/ + artic
 
 <!-- deepen-x 09250317-23: fresh grep (蔡昆/Qun Tsai) returns only ourjourneys155 (absorbed), own records, works index — verified-saturated. -->
 <!-- deepen-x 09251527-16 (2026-09-26): fresh grep (蔡昆/Qun Tsai) returns only ourjourneys155 (absorbed), own records (senior-taiwanese-american-33, whos-who-2121), works index — verified-saturated, SKIP-with-reason. -->
+
+<!-- deepen-x 10051200-2 (2026-10-06): fresh ZH+EN grep returns only ourjourneys155 (absorbed), own records (senior-taiwanese-american-33, whos-who-2121), sources index — verified-saturated, SKIP-with-reason. -->
