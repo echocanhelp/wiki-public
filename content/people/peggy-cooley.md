@@ -80,3 +80,5 @@ last_reviewed: 2026-10-01
 <!-- TJJ-A09260600-8: verified 2026-09-27 — subject links in slice 09260600-8 articles (f6ed9463 2013核四表決名單 / 0258611f 2024-05-19 520就職報導 / 06510e79 2020-11-19 林榮松獲聘政務顧問 / 77328a2c 2016-06-12 會館第十屆董事會) re-checked vs 正文; all real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10030400-4: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-4 article 4c65a9afe4934086（520就職報導 2024-06-13 快照）: subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030500-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-7 articles (f6ed9463 2013核四表決名單 / 0258611f 2024-05-19 520就職報導 / 06510e79 2020-11-19 林榮松獲聘政務顧問 / 77328a2c 2016-06-12 會館第十屆董事會) re-checked vs 正文 this attempt; all subject links real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->

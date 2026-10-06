@@ -306,3 +306,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10030500-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-3 article 6d16f9e35d9e3188 (戴琪：台美貿易倡議, 2022-06-28 刊): subject link (駐美代表蕭美琴視訊出席美台21世紀貿易倡議首場會談並會後受訪) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10030500-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-2 articles (58ad9964 TIME100Next 吳怡農/吳弭 / 0c56e79f 園藝分類頁 / f631078d 海外小英後援會助選團 / 8fc11ca0 韓國瑜預算協商): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10030500-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-7 articles (f6ed9463 2013核四表決名單 / 0258611f 2024-05-19 520就職報導 / 06510e79 2020-11-19 林榮松獲聘政務顧問 / 77328a2c 2016-06-12 會館第十屆董事會) re-checked vs 正文 this attempt; all subject links real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
