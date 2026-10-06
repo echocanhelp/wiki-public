@@ -88,3 +88,5 @@ father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 <!-- TJJ-A09251500-2: verified 2026-09-26 — subject links in slice 09251500-2 articles (1251d9ed 五大會館萊豬聲明 / 92ff3ef6 彭明敏研討會 / 6e021ae4 吳修銘任拜登特助 / e1e223aa 蘇姿丰年薪榜首) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10020900-1: verified 2026-10-05 — slice 10020900-1 articles (ad7f737b 第55回世界臺灣文化論壇大佛普拉斯 / c1e60306 蕭美琴缺席僑界活動 / 3246c11d 洛僑中心台灣藝術講座 / 88c15e54 蘇姿丰PCAST顧問) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-13: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-13 article 4779b4e7 (蘇姿丰獲SIA羅伯特諾伊斯大獎報導, 2026-01-21快照): subject link re-checked vs 正文, real (與 lisa-su/dr-lisa-su 雙頁並存維持為既定分工), no wrong/spurious links; 2020-09-21 Noyce獎 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

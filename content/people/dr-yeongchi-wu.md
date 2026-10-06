@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x 2026-09-25 slice 09240317-9）: fresh ZH+EN re-grep（吳永吉 / Yeongchi Wu）命中集不變（records 67/125/126、whos-who-122、ourjourneys 256/291、Exit 訪談、陳東榮文）, 全部已 wikilink 吸收 (saturated, SKIP)
 
 - 複核（deepen-x slice 09250700-5, 2026-09-25）: fresh ZH+EN re-grep（works+articles）hit set identical to prior deepen records — all hits already absorbed/wikilinked; SKIP: verified-saturated, no new corpus material.
+
+<!-- TJJ-A10040600-13: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-13 article 14114a89 (陳東榮麻醉演講心得報告, 2024-06-14快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -118,3 +118,5 @@ Pages that link to **lisa-su** (lisa-su):
 
 <!-- TJJ-A10020900-1: verified 2026-10-05 — slice 10020900-1 articles (ad7f737b 第55回世界臺灣文化論壇大佛普拉斯 / c1e60306 蕭美琴缺席僑界活動 / 3246c11d 洛僑中心台灣藝術講座 / 88c15e54 蘇姿丰PCAST顧問) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10030400-3: verified 2026-10-05 — wave-2 re-check of slice 10030400-3 article 48352159 (紐約台灣會館交接 CNA 報導, 2021-04-07): 蘇姿丰為蘇春槐女兒（AMD 執行長）記述再確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2021-04-07 條目已在庫 — saturated, no new material. -->
+
+<!-- TJJ-A10040600-13: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-13 article 4779b4e7 (蘇姿丰獲SIA羅伯特諾伊斯大獎報導, 2026-01-21快照): subject link re-checked vs 正文, real (與 lisa-su/dr-lisa-su 雙頁並存維持為既定分工), no wrong/spurious links; 2020-09-21 Noyce獎 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -98,3 +98,5 @@ Role anchors already on this page's TAH table map to vault pages: [[organization
 <!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article c05e2d53013fcd15（會館疫情服務報導 2020-06-23）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-7 article 08b829765b2a5939 (NATMA tag頁, 2021-12-05快照): 「北美洲台灣人醫師協會(NATMA)國際義診 播愛宏都拉斯 ◎林榮松醫師攝影報導 2018-04-18」re-checked vs 正文, real, no wrong/spurious links; 2018-04-18 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10040600-13: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-13 article 9de57bf0 (林榮松標籤頁, 2023-05-30快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
