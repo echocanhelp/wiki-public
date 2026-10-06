@@ -333,6 +333,7 @@ Notable quotes and mentions of **林榮松** in Taiwan Justice articles:
 *...and 86 more quotes*
 
 ## From the record
+- 複核（TJJ-A10030400-5, 2026-10-05）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|17835ad9]]（2016-06-12 會館第十屆董事會報導）正文再驗證——林榮松當選第十屆董事長並重申創會宗旨確認見於正文，subject/author 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2016-06-11 條目已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09260400-7, 2026-09-26）：本 slice 文章 c62f5c50846fe267 正文再驗證——subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
 
 

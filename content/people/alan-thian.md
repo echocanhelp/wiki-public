@@ -262,6 +262,7 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 - `verification_status: pending` until member or officer review
 
 ## From the record
+- 複核（TJJ-A10030400-5, 2026-10-05）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|17835ad9]]（2016-06-12 會館第十屆董事會報導）正文再驗證——田詒鴻當選第一副董事長確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2016-06-11 條目已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09260600-3, 2026-09-27）：本 slice 文章 f631078d99d9924d（海外小英後援會助選團返台助選, 2020-01-06）正文再驗證——田詒鴻以會長身分分享世代交替觀察確認見於正文，連結為真；2020-01-06 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
 
