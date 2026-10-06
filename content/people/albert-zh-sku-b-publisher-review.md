@@ -77,7 +77,15 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 
 ### A. Cover → before Chapter I
 
-### A0. 目錄 · ~1.2 min · **v2**（本版目錄無頁碼，只唸條目）
+#### A00. 作者簡介（封面折口）· ~1 min · **NEW**
+
+<audio controls preload="metadata" style="width:100%;max-width:40rem">
+  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-author-bio-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+</audio>
+
+- [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-author-bio-hsiaochen-publisher-v1-full-scratch.mp3)
+
+### A0. 目錄 · ~1.2 min
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
   <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-toc-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
@@ -161,9 +169,13 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 
 ### C. After 結論
 
-#### C1. 參考資料 (p.146) — **NOT YET**
+#### C1. 參考資料（英文，60筆）· ~10 min · **DONE**
 
-Keep **English**. Do not ZH-translate. Word file has TOC line only, no bibliography body. Next: pull English source / PDF.
+<audio controls preload="metadata" style="width:100%;max-width:40rem">
+  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-bibliography-en-christopher-v1-scratch.mp3" type="audio/mpeg">
+</audio>
+
+- [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-bibliography-en-christopher-v1-scratch.mp3)
 
 #### C2. 回憶論文當年背後的故事 · ~55.6 min · **NEW**
 
@@ -189,9 +201,13 @@ Keep **English**. Do not ZH-translate. Word file has TOC line only, no bibliogra
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-back-epilogue-hsiaochen-publisher-v1-full-scratch.mp3)
 
-#### C5. 國家圖書館出版品預行編目（CIP）— **NOT YET**
+#### C5. 國家圖書館 CIP／中文版權頁 · ~2 min · **DONE** (ISBN 978-626-7627-21-1)
 
-Not in the Word extract. Need last PDF page.
+<audio controls preload="metadata" style="width:100%;max-width:40rem">
+  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-colophon-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+</audio>
+
+- [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-colophon-hsiaochen-publisher-v1-full-scratch.mp3)
 
 ---
 
