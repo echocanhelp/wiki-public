@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-07
 ---
 # Roger Huang (黃瑞宗)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-10-02
 ## Role in the Community
 - Corpus presence is bibliography-only ([[works/taiwaneseamericanhistory-org/whoswho1150|1150. Roger Huang 黃瑞宗 / 2016/07]]); no memoir narrative absorbable beyond the TAH profile (無敵字典 president, 苗栗).
 - Re-verified 2026-10-02 (slice 09261400-5): fresh ZH+EN grep (黃瑞宗 / Roger Huang) of works/ + articles/ — hits remain only own record whoswho1150 + the works index; no memoir material. SKIP stands.
+- Re-verified 2026-10-07 (slice 10051948-22, all five corpus dirs): only own record + indexes. Note: 張瑞宗 appearing as 中油發言人 in a taiwanjustice article is a **different person** — not absorbed. 無敵字典 appears nowhere in corpus. SKIP stands.
 
 ## Sources
 - [TAH #1150 encyclopedia: 1150. Roger Huang 黃瑞宗 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1150/)

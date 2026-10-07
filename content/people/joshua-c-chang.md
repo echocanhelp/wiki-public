@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Joshua C. Chang (張嘉熙)
 
@@ -38,6 +38,7 @@ Ph.D. neuroscience and embryonic development
 - Note: a "Joshua" appearing in the 1982 FAPA-founding memoir ([[works/taiwaneseamericanhistory-org/ourjourneys65-eng|65. FAPA的誕生 / The Birth of FAPA]]) is **Joshua Yapp**, a different person — not absorbed.
 - 2026-09-25 re-sweep (slice 09231500-10): grep '張嘉熙' / 'Joshua C. Chang' returns only own record [[works/taiwaneseamericanhistory-org/whoswho1369|1369. Joshua C. Chang 張嘉熙]] + works index. No community-record material; SKIP.
 - Re-swept 2026-09-26 (slice 09251031-24): fresh grep 張嘉熙/'Joshua C. Chang' → only own record [[works/taiwaneseamericanhistory-org/whoswho1369|1369]] + works index. SKIP.
+- Re-swept 2026-10-07 (slice 10051948-22, all five corpus dirs incl. surname/variant greps): only own record + indexes. SKIP stands.
 
 ## Family
 

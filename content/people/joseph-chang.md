@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Joseph Chang (張玉明牧師)
 
@@ -37,6 +37,7 @@ last_reviewed: 2026-09-25
 - Held in the Taiwanese American historical record as a TAH Foundation encyclopedia entry: [[works/taiwaneseamericanhistory-org/942-joseph-chang-e5-bc-b5-e7-8e-89-e6-98-8e-201604|942. Joseph Chang 張玉明 / 2016/04]] (published 2016-04-17), cross-referencing [[organizations/tah-foundation|TAH Foundation]].
 - Corpus record is consistent with the church-planting and theological-education lines above (布蘭諾華人宣道會 founder, 美國台福神學院博士班主任, 台福爾灣基督教會主任牧師); no conflicts.
 - Re-check 2026-09-22 (slice 09210500-31): corpus grep of content/works + content/articles for 張玉明/Joseph Chang again returned only this own entry — no additional community-authored material to absorb. Re-grepped 2026-09-25 (slices 09231300-3, 09250600-32): hit set unchanged — verified saturated.
+- Re-grepped 2026-10-07 (slice 10051948-22, all five corpus dirs): only own record + indexes. Note: 陳玉明 (ch. 313/314, 東田納西台灣同鄉會 founding president) is a **different person** — not absorbed. SKIP stands.
 
 ## Family
 
