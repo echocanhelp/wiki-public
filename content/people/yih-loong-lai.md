@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Yih-Loong Lai (賴義隆博士)
 
@@ -57,3 +57,4 @@ All four are bibliographic records in the corpus; corpus re-checks 2026-09-21, 2
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-10-07 (deepen-x slice 10051918-12): five-dir grep (賴義隆 / Yih-Loong Lai / 七十自述) returns only the four linked works above + works index — verified-saturated, nothing new absorbable.

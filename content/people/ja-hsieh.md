@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Ja Hsieh (謝家豪博士)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09261100-26: re-verified 2026-10-01 — fresh full-corpus ZH+EN grep (謝家豪/Ja Hsieh) hits only #298, #649 + works index, all already linked above. Verified-saturated; nothing new absorbable, no conflicts. -->
+<!-- deepen-x 10051918-12: re-verified 2026-10-07 — fresh five-dir ZH+EN grep (謝家豪/Ja Hsieh) hits only #298, #649 + works index, already linked; 家豪 hits in taiwanjustice-net articles are CNA reporter 吳家豪 (false positive, different person). Verified-saturated. -->
