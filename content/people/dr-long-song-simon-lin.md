@@ -102,3 +102,5 @@ Role anchors already on this page's TAH table map to vault pages: [[organization
 <!-- TJJ-A10040600-13: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-13 article 9de57bf0 (林榮松標籤頁, 2023-05-30快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060600-6: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-6 article c05e2d53013fcd15（2020-06-23 大洛杉磯台灣會館疫情濟困報導）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060700-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060700-1 article 71a7c64663ea03b6 (大洛杉磯台灣會館疫情濟困報導, 2020-06-23 發文 / 2021-01-17 快照, twin c05e2d53): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article or twin wikilink already in From the record — saturated, no new material. -->

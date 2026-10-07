@@ -106,3 +106,5 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 
 <!-- TJJ-A10060400-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-5 articles (042939d8 Mark Kao 高龍榮 Taipei Times 專欄, 2015-03-27): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060400-25: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-25 article e9faa17a 第53回世界台灣文化論壇: 主講人 高龍榮 (Long Rong Mark Kao, PhD): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060700-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060700-1 articles 2c9cb76838702dd7 + 3260cd0bdf2f84d7 (海台青與黑客松, 楊遠薰, 2017-07-24, 兩存檔): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink(s) already in From the record — saturated, no new material. -->

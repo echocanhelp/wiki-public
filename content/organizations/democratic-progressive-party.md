@@ -188,3 +188,5 @@ In 2006, the party ended official recognition of factions, though they remain re
 <!-- TJJ-A10060400-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-5 articles (042939d8 Mark Kao 高龍榮 Taipei Times 專欄, 2015-03-27): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060600-6: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-6 article 795e52aadf3797a0（2015-01-07 Richardson/examiner.com 陳水扁保外就醫評述轉載）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060700-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060700-1 article becb39f917174438 (The Economist via TJJ): subject link re-checked vs 正文 (DPP揚彈劾/罷免馬、批評ICAO邀請出於中國建議), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

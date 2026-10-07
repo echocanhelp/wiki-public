@@ -75,3 +75,5 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice 09250800-3, 2026-09-25）：fresh grep 林庭安／Ting-An Lin — hit set identical（whos-who-1803、works index、TJJ 海台青與黑客松 column 2021+2024 archives、釋字第791號聲請人六 record — name-only match, still not linked, HOLD）；無新可吸收材料 — SKIP。
 
 <!-- TJJ-A10040500-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-7: articles 2c9cb76838702dd7 + 3260cd0bdf2f84d7: 林庭安為海台青召集人 re-checked vs 正文, real, no wrong/spurious links; 2017-07-24 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060700-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060700-1 articles 2c9cb76838702dd7 + 3260cd0bdf2f84d7 (海台青與黑客松, 楊遠薰, 2017-07-24, 兩存檔): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink(s) already in From the record — saturated, no new material. -->
