@@ -68,3 +68,4 @@ last_reviewed: 2026-09-24
 - 複核（deepen-x slice 09212352-1, 2026-09-22）：corpus re-grep 命中僅 130、our-journeys-357、ourjourneys81、publications1040、publications286、415 等已連結書目 — SKIP-with-reason：語料已飽和。
 
 <!-- TJJ-A10040600-10: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-10 — subject link in article f6213c1937fa956d (全美台灣同鄉會2021年二二八紀念系列活動圓滿落幕, 2021-03-14) re-checked vs 正文: 「獨派前輩莊秋雄的孫子莊淵威…返校線上遊戲實況主」確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- TJJ-A10060800-4: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-4 — article f6213c1937fa956d (全美台灣同鄉會2021年二二八紀念系列活動圓滿落幕, 2021-03-14) 莊秋雄之孫莊淵威任「返校」實況主條目; subject link re-checked vs 正文 this attempt — 真實提及, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
