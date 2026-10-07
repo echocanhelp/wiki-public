@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # S. L. Chen (陳晳憐博士)
 
@@ -48,3 +48,5 @@ last_reviewed: 2026-10-01
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-26 re-verified (slice -21): fresh ZH+EN grep returns only own TAH record pages (whoswho1477, whoswho1390, musician372) + works index; HOLD on the two-S.-L.-Chen collision stands; nothing absorbable.
+
+<!-- deepen-x 10052158-20 re-sweep 2026-10-07: five-dir greps for 陳晳憐 / S. L. Chen / 陳世霖 / 晳憐 / 蔡紫芳 return only own records (whoswho1477; collision pages whoswho1390/musician372) plus index/registry rows. The ourjourneys270 參考文獻 hit is 陳晳宗 (a different person, co-author of a genealogy volume) — not absorbable here. HOLD on the two-S.-L.-Chen collision stands. Verified-saturated. -->

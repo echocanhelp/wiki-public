@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Han Han Cho (卓涵涵博士)
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10052158-20 re-sweep 2026-10-07: five-dir greps for 卓涵涵 / Han Han Cho / 卓涵 / 泉之森 / Izumino return only the two own records (whoswho1453, musician382) plus index/registry rows; 低音提琴 vs Cellist conflict remains on HOLD. Verified-saturated. -->

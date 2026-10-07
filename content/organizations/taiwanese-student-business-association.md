@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-07
 ---
 # Taiwanese Student Business Association
 
@@ -28,3 +28,5 @@ _SKIP (deepen-x 2026-09-19, re-confirmed 2026-09-21): no corpus mentions of TSBA
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10052158-20 re-sweep 2026-10-07: five-dir greps for 'Taiwanese Student Business Association' / TSBA / 'Student Business' return zero corpus hits (sources registry row only). The lone 'Anderson School' hit (my-stories-881, Margaret Shih dept-chair story) is not about TSBA — not absorbable. Verified-saturated; still SKIP. -->

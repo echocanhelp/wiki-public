@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-07
 ---
 # T. T. Dean Su (蘇藤宗博士)
 
@@ -46,3 +46,5 @@ last_reviewed: 2026-10-02
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10052158-20 re-sweep 2026-10-07: five-dir greps (works/articles/sources/events/topics) for 蘇藤宗 / Dean Su / T. T. Dean / 蘇藤 / 石美凰 return only the two own corpus records (whos-dean-su #1280, 331 文學 piece) plus works index and sources registry rows — no memoir or organization material. Verified-saturated; nothing absorbable. -->
