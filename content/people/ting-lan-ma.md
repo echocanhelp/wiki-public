@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Ting-Lan Ma (馬鼎嵐)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09231300-31: re-verify — fresh grep: only own record whos-who-2210 + index entry; SKIP persists. -->
 <!-- deepen-x 09251031-6: re-verify — fresh grep (ZH+EN): only own record whos-who-2210 + works index; SKIP persists. -->
 <!-- deepen-x 09261300-22: re-verify (4th) — fresh grep (ZH+EN) over works/ + articles/: only own record [[works/taiwaneseamericanhistory-org/whos-who-2210-ting-lan-ma|2210. Ting-Lan Ma 馬鼎嵐]] (Bibliographic Band B record) + works/index. SKIP persists — verification saturated. -->
+<!-- deepen-x 10051918-22: re-verify (5th) — fresh grep (馬鼎嵐/Ting-Lan/Tinglan/Edgewood/Dissertator) across all five corpus dirs: only own record whos-who-2210 + index rows; no memoir or community material. SKIP persists — verified-saturated. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Weiting Liu (劉威廷)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09250600-24: SKIP — fresh grep 2026-09-25 (works/articles): own TAH record + works index only; no memoir/community material absorbable. -->
 
 <!-- deepen-x slice 09261200-16: SKIP — fresh grep (works/articles): no hit beyond own record; hit set unchanged, no new material. -->
+<!-- deepen-x slice 10051918-22: SKIP — fresh five-dir grep (ZH+EN+venture names Codementor/Mr.6/Noodle Labs/SocialPicks): hit set unchanged (own TAH record #1548 + works/sources index rows). One apparent article hit (2025-04-25 taiwanjustice) is a false positive — 威廷戴爾 = John Whittingdale, UK politician, not 劉威廷. No new material; verification saturated. -->

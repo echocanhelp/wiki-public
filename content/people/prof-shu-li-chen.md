@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Prof. Shu-li Chen (陳淑麗教授)
 
@@ -45,3 +45,5 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whos-who-1961-shu-li-chen|1961. Prof. Shu-li Chen 陳淑麗教授]] — TAH Who's Who record (2017-12-03)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10051918-22: re-verify — fresh five-dir grep (ZH+EN+institution names Lincoln Memorial/South Univ.): hit set unchanged (own TAH #1961 record + index rows). The 淑麗 substring hits in the works corpus (50298, mystories-716, mystories443, 77-ms-sue-lin) are all 林淑麗 (Sue Lin), a different person — disambiguated, not this page's subject. No new material; SKIP persists — verified-saturated. -->
