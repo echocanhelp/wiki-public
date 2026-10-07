@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Warren D. Yu
 
@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10051948-32 2026-10-07: five-dir re-grep (Warren D. Yu / Yu / Orthoped / Spine) across works/articles/sources/events/topics -> only own TAH #1805 record + index/sources收录行; other Warren hits are Warren Fu / Warren Wilson College / Warren Buffet, not this person. Verified-saturated, SKIP. -->

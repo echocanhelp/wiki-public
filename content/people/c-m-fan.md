@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # C. M. Fan (范清美)
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- DEEPEN-X SKIP re-verified 2026-09-26 (slice -16): fresh ZH+EN grep of works+articles -> own record + index only; nothing new absorbable. -->
+<!-- deepen-x slice 10051948-32 2026-10-07: five-dir re-grep (范清美 / C. M. Fan / 范) across works/articles/sources/events/topics -> only own TAH #1657 record, the 2018 台大校友聲明 already cited, plus index/sources收录行. Verified-saturated, SKIP. -->
