@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Jong-Tseng Yen PhD (顏榮增博士)
 
@@ -35,6 +35,11 @@ _No filled family fields on the TAH profile._
 
 ## Corpus review (2026-09-18; re-checked 2026-09-21, 2026-09-22 deepen-x 09210900-29, 2026-09-25 deepen-x 09231500-13, 2026-09-26 deepen-x 09251047-5)
 SKIP: corpus check found no community material beyond the person's own TAH encyclopedia bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-2226|TAH #2226]]. Fresh greps of content/works + content/articles for 顏榮增 / Jong-Tseng Yen (2026-09-21, 2026-09-22, 2026-09-25, and 2026-09-26) return only that record plus the works index line. Nothing absorbable; biography left as-is.
+
+## Role in the Community
+
+- The **Dr. Jong-Tseng (J.T.) and Lei-Hwa Wang Yen Legacy Scholarship Award** is recorded in the TAH encyclopedia — a legacy scholarship bearing his name and his wife Lei-Hwa Wang Yen's, published 2015-07-31 [[works/taiwaneseamericanhistory-org/32-dr-jong-tseng-j-t-and-lei-hwa-wang-yen-legacy-scholarship-award|32. Dr. Jong-Tseng (J.T.) and Lei-Hwa Wang Yen Legacy Scholarship Award]]. This is the only community-side material beyond his own directory record.
+- Otherwise saturated: corpus greps (2026-10-07, five dirs) for 顏榮增 / Jong-Tseng return only his own record [[works/taiwaneseamericanhistory-org/whos-who-2226|TAH #2226]], the scholarship-award record above, and index listings. No memoir mentions.
 
 ## Sources
 - [TAH #2226 encyclopedia: 2226. Jong-Tseng Yen PhD 顏榮增博士/11/2019](https://taiwaneseamericanhistory.org/whos-who-2226/)
