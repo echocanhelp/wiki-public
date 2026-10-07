@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Taiwan External Trade Development Council
 
@@ -38,3 +38,4 @@ Other 貿協/TAITRA string matches in the news corpus (e.g. 中美貿協 article
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
 - [[works/taiwaneseamericanhistory-org/our-journeys-389|Our Journeys 389]]
+<!-- deepen-x slice 10051200-29 (2026-10-06): SKIP re-verified — fresh grep 對外貿易發展協會/外貿協會/貿協/TAITRA/External Trade Development across all corpus dirs: hits = our-journeys-389 (eMBA program, already absorbed), ourjourneys159 (服貿協議 string, not this council, excluded), and 2026 taiwanjustice articles (經貿/自貿協議 strings in US–China trade reporting, excluded). Hit set identical to prior passes. Verified saturated. -->

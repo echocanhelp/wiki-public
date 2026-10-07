@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # B. N. Huang (黃邦男)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-10-01
 - Corpus re-grep 2026-09-25 (deepen-x slice 09250500-4): hits = ourjourneys321 ±eng、收藏頁、#1035、index — identical to absorbed set; 募款名單與1979匯款敘述再與回憶錄原文相符。Verified saturated, SKIP; Bernie-vs-B.N. 署名 HOLD 維持。
 
 - Corpus re-grep 2026-10-01 (deepen-x slice 09261000-30): hits identical to prior passes (ourjourneys321 ±eng, collection page, Who's Who 1035, works/index); nothing new absorbable; verified saturated, SKIP. Bernie-vs-B.N. naming HOLD maintained.
+- Corpus re-grep 2026-10-06 (deepen-x slice 10051200-29): fresh grep 黃邦男/B. N. Huang/Bernie Huang across all corpus dirs — hit set identical (ourjourneys321 ±eng, collection-of-dr-bernie-huang, whoswho1035, index/sources); 1979 匯款 and 募款 facts re-checked against memoir original, no new material. Verified saturated, SKIP; Bernie-vs-B.N. HOLD maintained.

@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-06
 ---
 # Hsu Shih Memorial Foundation
 
@@ -37,3 +37,4 @@ last_reviewed: 2026-09-26
 - [[sources/taiwancenter-org||taiwancenter.org]]
 <!-- deepen-x slice 09250400-24 (2026-09-25): verified-saturated — fresh ZH+EN re-grep of works/ + articles/ returns no absorbable material beyond already-cited records. -->
 <!-- deepen-x slice 09252123-21 (2026-09-26): verified-saturated — fresh ZH+EN re-grep (許石基金會/Hsu Shih Memorial) returns zero hits. SKIP-with-reason. -->
+<!-- deepen-x slice 10051200-29 (2026-10-06): verified-saturated — fresh grep 許石/Hsu Shih across all corpus dirs returns zero hits for the LA 許石基金會; all hits are Tainan 許石音樂圖書館-side columns by 葉思雅・張信惠 (週末漫談音樂 series) and the two articles already cited — same Tainan entity, conflation HOLD maintained, no new absorbable material. -->
