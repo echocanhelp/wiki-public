@@ -114,3 +114,5 @@ last_reviewed: 2026-09-23
 <!-- TJJ-A10040600-12: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-12 article 7dfa96523779391d (第161回世界台灣文化論壇 Huang Yi & Kuka 座談會, 2024-12-17 發文 / 2025-04-25 快照): subject link re-checked vs 正文 (「主持人 鄭良光 美國台灣人聯合基金會」), real, no wrong/spurious links; 2024-12-21 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-8: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-8 article 24ebe5f065076949 (2016海外台語研習會公告, 2016-05-10): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-15: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-15 articles (b5e568ec43e787f1 《好國好民》美國巡迴放映座談會, 2011-10-15 / c76f11ecd2598ecb 2017台美文藝出版·台美人筆會發表會, 2017-06-11 / 52a71221d3029866 台文通訊30週年慶祝會ONLINE, 2021-06-29 / fa7c957f552d76e9 總統府公布資政27人國策顧問70人名單, 2022-09-02): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
