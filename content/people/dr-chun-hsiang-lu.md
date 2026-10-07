@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dr. Chun Hsiang Lu (盧俊雄醫師)
 
@@ -48,3 +48,4 @@ last_reviewed: 2026-10-01
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-26 re-sweep (slice 09251039-9): fresh ZH+EN grep — hits remain only own record [[works/taiwaneseamericanhistory-org/whos-who-2225-chun-hsiang-lu|2225. Dr. Chun Hsiang Lu 盧俊雄醫師]] + works index; nothing absorbable; SKIP-deepen stands.
+- 2026-10-07 re-sweep (slice 10051948-21): fresh ZH+EN grep of works/articles/sources/events/topics plus whole-tree sweep — hits remain only own encyclopedia record + works index + source page; no new corpus mentions; SKIP-deepen stands.
