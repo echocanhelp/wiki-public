@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Ian Chen (陳彥竹)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09231100-31: SKIP — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own TAH records / already-absorbed coverage); no new community material. -->
 <!-- deepen-x 09250500-7: SKIP — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own TAH records / already-absorbed coverage); no new community material. -->
 <!-- deepen-x 09261100-8: SKIP - corpus re-scan (works/articles) fresh 2026-10-01: full ZH+EN grep hit set identical to prior passes (own TAH records / already-absorbed coverage); no new community material. -->
+<!-- deepen-x 10051400-4: SKIP — corpus re-scan (works/articles/sources/events/topics) fresh 2026-10-07: ZH+EN grep returns identical hit set (own TAH #2232, near-name #1727 Ian Cheng, child-actor article 13639 both held as distinct, works index); no new community material. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Chih-cheng Wang (王志成)
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-10-01
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 10051400-4: SKIP — corpus re-scan (works/articles/sources/events/topics) fresh 2026-10-07: ZH+EN grep returns identical hit set (own TAH #1975, ourjourneys212 founding list, works index); all already linked. Verified-saturated, nothing new absorbable. -->

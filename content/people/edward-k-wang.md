@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Edward K Wang (王凱廷)
 
@@ -51,3 +51,4 @@ The corpus records Wang as a milestone figure for the second generation: [[works
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 10051400-4: SKIP — corpus re-scan (works/articles/sources/events/topics) fresh 2026-10-07: ZH+EN grep returns identical hit set (own records #376 + #2136, works index only); no memoir narrative beyond them. Verified-saturated, nothing new absorbable. -->

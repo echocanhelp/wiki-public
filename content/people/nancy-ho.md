@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Nancy Ho (何汪瑗教授)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09261100-7: verified-saturated (2026-10-01) — fresh ZH+EN grep returns only prode5, whoswho1015, the Pew statement, and the works index; no memoir/community material beyond cited works. SKIP stands. -->
+<!-- deepen-x 10051400-4: SKIP — corpus re-scan (works/articles/sources/events/topics) fresh 2026-10-07: ZH+EN grep returns identical hit set (prode5, whoswho1015, Pew statement, works index); all already cited. Verified-saturated, nothing new absorbable. -->
