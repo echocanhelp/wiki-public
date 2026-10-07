@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dr. Shan P Tsai (蔡善璞博士)
 
@@ -46,3 +46,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+***
+*Deepen-x audit 2026-10-07 (slice 10052007-12): five-dir greps (Shan P Tsai / 蔡善璞 / 善璞 / Shell) return only Who's Who [[works/taiwaneseamericanhistory-org/whos-who-2097-shan-p-tsai|#2097]] plus index/source listings; substring hits (e.g. "Kun-shan Tsai" in ourjourneys memoirs) are different people — no community material. SKIP.*

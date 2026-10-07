@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dr. Min-Yen Han (韓明元醫師)
 
@@ -44,3 +44,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+***
+*Deepen-x audit 2026-10-07 (slice 10052007-12): five-dir greps (Min-Yen / 明元 / 韓明元 / TIMA) return only Who's Who [[works/taiwaneseamericanhistory-org/whos-who-2010-min-yen-han|#2010]], index/source listings, and unrelated Min-Yen Chien 簡名彥 violinist records — no community material. SKIP.*
