@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-07
 ---
 # Yang Foundation (楊文傑紀念基金會)
 
@@ -42,3 +42,5 @@ Re-grep 2026-09-25 (slice 09250317-15): same hit set again (yang-foundation, sch
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Re-grep 2026-09-26 (slice 09251500-5): same hit set (yang-foundation, scholarship, ping-pong tournament, Who's Who #2296, index) — saturated; no new corpus facts.
+
+Re-grep 2026-10-07 (slice 10051909-23): fresh grep 楊文傑 / Yang Foundation / Wen-Jei Yang / Wen Yang across works/ + articles/ + sources/ + events/ + topics/ — same hit set (yang-foundation, scholarship, ping-pong tournament, Who's Who #2163/#2296, index, source page) — saturated; no new corpus facts.
