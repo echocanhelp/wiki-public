@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Prof. Chimei M. Lee (李綺梅教授)
 
@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10051909-28 (2026-10-07): verified-saturated — grep 李綺梅/Chimei across all five corpus dirs hits own record #2307 + sources pages only; the conbrio-board-bio 'Chimei' match is the concert pianist (Chimei CD, Golden Melody 2011), a different person — false positive. SKIP. -->
