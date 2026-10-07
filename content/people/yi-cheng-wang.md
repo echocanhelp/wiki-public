@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Yi-Cheng Wang (王奕程)
 
@@ -50,3 +50,4 @@ SKIP (re-confirmed) — fresh grep returns only his own record [[works/taiwanese
 - Re-run 2026-09-21 (deepen-x slice 09201503-12): same result — own #1949 record + works/index entry only; verified saturated.
 - Re-run 2026-09-25 (deepen-x slices 09231100-28, 09250500-15): same result — own #1949 record + works/index only; verified saturated.
 - Re-run 2026-10-01 (deepen-x slice 09261200-20): same result — fresh ZH+EN grep returns only own record [[works/taiwaneseamericanhistory-org/whos-who-1949-yi-cheng-wang|TAH #1949]] + works/index entry; verified saturated, SKIP.
+- Re-run 2026-10-07 (deepen-x slice 10051909-2): fresh ZH+EN+surname grep across works/articles/sources/events/topics returns only own record [[works/taiwaneseamericanhistory-org/whos-who-1949-yi-cheng-wang|TAH #1949]] + works/index + sources index; verified saturated, SKIP.

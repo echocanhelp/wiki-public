@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # John Yu (游正博博士)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-10-01
 - Re-check (deepen-x 09231500-5, 2026-09-25): fresh grep of content/works + content/articles for 游正博 / John Yu — hits limited to the own bibliographic record plus works/index; nothing new absorbable.
 - Re-check (deepen-x 09251031-25, 2026-09-26): same result — only own record + works index; SKIP-with-reason maintained.
 - Re-check (deepen-x 09261341-11, 2026-10-01): fresh ZH+EN grep of works/ + articles/ again returned only the own record [[works/taiwaneseamericanhistory-org/whoswho1534|1534]] and the works index entry; SKIP-with-reason maintained, no conflicts found.
+- Re-check (deepen-x 10051909-2, 2026-10-07): fresh ZH+EN+surname grep across works/articles/sources/events/topics returns only own records [[works/taiwaneseamericanhistory-org/whoswho1534|1534]]/[[works/taiwaneseamericanhistory-org/whoswho1533|1533 (wife Alice Yu)]] + works/sources index entries — verified saturated, SKIP.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-yu/)
