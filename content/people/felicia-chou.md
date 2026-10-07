@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Felicia Chou (周馥亞)
 
@@ -51,6 +51,7 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/felicia-chou/)
 
 - Corpus re-scan 2026-09-26 (slice 09251023-18): fresh ZH+EN grep returns the identical 4-file hit set (#168 own, mislinked #1823 許蕙茹, unconfirmed #1438, index) — verified saturated; SKIP-deepen, HOLD on the #1823 hanzi conflict stands.
+- Corpus re-scan 2026-10-06 (slice 10051200-27): fresh ZH+EN grep across works/ + articles/ + sources/ + events/ + topics/ returns the identical hit set. New candidate hits checked and distinguished: 'Felicia Lin Speaks of Documenting the Life of Su Beng in NY' is Felicia **Lin**, a different person — not absorbed. Verified saturated; HOLD on the #1823 hanzi conflict stands.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Mien Chien (簡勉)
 
@@ -52,3 +52,5 @@ last_reviewed: 2026-10-01
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 > Deepen pass 2026-09-25 (slice 09240500-30): re-grepped (簡勉/Mien Chien) — hit set now just TAH #313 + index; identical to prior reviews, all absorbed. SKIP-with-reason: no new corpus material.
+
+> Deepen pass 2026-10-06 (slice 10051200-27): re-grepped (簡勉/Mien Chien) across works/ + articles/ + sources/ + events/ + topics/ — same hit set (TAH #313 + 柑縣口罩團購 2020/2025 articles, all wikilinked). SKIP-with-reason: no new corpus material.
