@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dr. Chih-Chien Adam Chou (周志謙博士)
 
@@ -54,3 +54,5 @@ Corpus re-check 2026-09-21 (deepen-x slice 09200700-24): fresh grep for 周志�
 > Corpus re-check 2026-09-24 (deepen-x slice 09230800-28) and 2026-09-25 (slice 09240800-30): fresh grep for 周志謙 / Chih-Chien / Adam Chou — hits remain only his own TAH #2231 mirror and the works index; no memoir/community material. SKIP-deepen. (Prior re-checks 09-21 slice 09200700-24, 09-22 slices 09210700-30 / 09220400-28, 09-23 slice 09221300-22: same result.)
 
 Corpus re-check 2026-09-26 (deepen-x slice 09251400-16): SKIP — grep 周志謙|Chih-Chien|Adam Chou hits remain only his own TAH #2231 mirror and the works index; no memoir/community material.
+
+Corpus re-check 2026-10-07 (deepen-x slice 10051909-20): fresh grep 周志謙 / 志謙 / Chih-Chien / Adam Chou across all five corpus dirs returns only his own #2231 mirror, the works index and the sources mirror. The T.A. Archives newsletter corpus does not name him. SKIP: verified-saturated.

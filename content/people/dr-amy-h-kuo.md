@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dr. Amy H Kuo (郭惠美醫師)
 
@@ -56,3 +56,5 @@ Re-verified 2026-09-25 (deepen-x slice 09240500-27): 郭惠美 / Amy H Kuo grep 
 Corpus re-check (deepen-x 09250800-32, 2026-09-25): grep 郭惠美 / Amy H Kuo works+articles → only #2319, #268 memoir, works index — both absorbed. SKIP: verified saturated.
 
 Corpus re-check (deepen-x 09260900-23, 2026-10-01): fresh full-corpus grep (郭惠美 / "Amy H Kuo", whole works/ + articles/) returns only #2319, the #268 memoir and the works index — all already absorbed; no new mentions, no conflicts. SKIP: verified saturated.
+
+Corpus re-check (deepen-x slice 10051909-20, 2026-10-07): fresh grep 郭惠美 / Amy H Kuo across works+articles+sources+events+topics returns only #2319, the #268 memoir, the works index and the sources mirror — all already absorbed. Loose 惠美 hits (our-journeys-378, our-journeys-369, ourjourneys123-eng, winners53, #933) belong to 黃惠美 / Amy Huang, not this page. SKIP: verified saturated.
