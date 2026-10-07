@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-06
 ---
 # Rueibin Chen (陳瑞斌)
 
@@ -28,6 +28,8 @@ Pianist with a documented footprint in the Taiwanese American community record:
 - Two TAH Foundation encyclopedia story records profile him: [[works/taiwaneseamericanhistory-org/324-e9-99-b3-e7-91-9e-e6-96-8c-pianist-201601|TAH #324 陳瑞斌, Pianist (2016/01)]] and [[works/taiwaneseamericanhistory-org/506-rueibin-chen-e9-99-b3-e7-91-9e-e6-96-8c201507|TAH #506 Rueibin Chen 陳瑞斌 (2015/07)]].
 - Press coverage in the corpus places him in Southern California community cultural life: a 2019/07 record announces 「夢想．熱情 陳瑞斌鋼琴音樂會 9/19舉行」 at the 大洛杉磯台灣會館 (Taiwan Center of Greater Los Angeles), and a 2021/01 record carries 「用琴聲撫慰人心 "天使手指"陳瑞斌專訪」 — see [[articles/taiwanjustice-net/2020/20200625112116_category_taiwancenter_page_2_c79a3c4984a84d46|TaiwanJustice 台灣會館 record (2020)]] and [[articles/taiwanjustice-net/2025/20250425132401_category_taiwan-culture_page_87_537e5e09a9a308cf|TaiwanJustice 台灣人文藝術 record (2025)]].
 
+注意（同名陷阱）：corpus 中另有「台灣高等法院法官林瑞斌」（[[articles/taiwanjustice-net/2023/20230205141627_2017_06_02_二審若改判有罪不得上訴_馬英九教唆洩密案隱憂_fa4dc813bc6d0244|2023 司法改革報導]]）為名字縮寫相近的不同人，勿合併。
+
 HOLD: birth year 1967 in Identity Snapshot comes from the TAH Who's Who import only; no corroborating corpus date. (Re-grep 2026-09-22, slice 09211507-5: corpus hits remain the two own TAH records, the index, and the two TaiwanJustice records already wikilinked above — verified saturated.)
 (Re-grep 2026-09-23, slice 09221000-31: hit set again identical — #324, #506, works index, and the two already-linked TaiwanJustice records; verified saturated; SKIP-with-nothing-absorbable.)
 (Re-grep 2026-09-25, slice 09230900-22: hit set again identical — #324, #506, works index, and the two already-linked TaiwanJustice records; verified saturated; SKIP-with-nothing-absorbable.)
@@ -47,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09250317-19: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): hit set identical to prior absorptions, all already linked in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 09251527-6: re-verify 2026-09-26 — fresh grep (ZH+EN, works+articles): hit set identical to prior absorptions, all already linked in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 10051340-9: re-verify 2026-10-06 — fresh ZH+EN+surname grep (works/articles/sources/events/topics): hit set unchanged (#324, #506, works/index, two already-linked TaiwanJustice records). One NEW hit surfaced: 林瑞斌 (高院法官) in a 2023 taiwanjustice judicial-reform article — name-similarity collision, NOT this person; disambiguation guard added above. No new absorbable biography facts. -->
