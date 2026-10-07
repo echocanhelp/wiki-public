@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Ejen Chuang
 
@@ -49,3 +49,5 @@ Her cosplay documentation (published 2010, expanded 2015) is held in the corpus 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+# deepen-x slice 10051314-9: SKIP re-verified 2026-10-06 — fresh ZH+EN grep across works/articles/sources/events/topics returned only own record(s) + index backlinks; no new absorbable corpus material.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # H. M. Jiang (江蕙美)
 
@@ -49,3 +49,5 @@ last_reviewed: 2026-10-01
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 # deepen-x 09251047-25: SKIP re-verified 2026-09-26 — fresh ZH+EN grep matched only own TAH Who's Who record + index; no absorbable memoir material
+
+# deepen-x slice 10051314-9: SKIP re-verified 2026-10-06 — fresh ZH+EN grep across works/articles/sources/events/topics returned only own record(s) + index backlinks; no new absorbable corpus material.
