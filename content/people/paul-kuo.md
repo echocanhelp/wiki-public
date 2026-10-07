@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-06
 ---
 # Paul Kuo (郭博修)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-26 (deepen-x slice 09250800-25): fresh ZH+EN re-grep — hit set identical (#27, #276, #497, art-show-13, Pew response, index). Verified-saturated, SKIP-with-reason.
 - Re-verified 2026-09-27 (deepen-x slice 09260600-21): fresh ZH+EN re-grep — hit set identical (#27, #276, #497, art-show-13, Pew response, index). Verified-saturated, SKIP-with-reason.
+<!-- deepen-x slice 10051340-5 re-verify 2026-10-06: fresh ZH+EN+partial-name grep (works/articles/sources/events/topics) — hit set identical to prior absorptions (own TAH records + already-linked work pages + index); partial-name hits resolved to different people. Verified-saturated; SKIP-no-new-facts. -->

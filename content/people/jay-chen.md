@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-06
 ---
 # Jay Chen (陳介飛)
 
@@ -56,3 +56,4 @@ Mt. SAC Board Chen2-Jay Chen of the Mt. SAC Board of Trustees January 13, 2016.
 <!-- deepen-x slice 09250317-19: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): hit set identical to prior absorptions, all already linked in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 09251527-6: re-verify 2026-09-26 — fresh grep (ZH+EN, works+articles): hit set identical to prior absorptions, all already linked in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 09260854-28: re-verify 2026-09-30 — fresh grep (陳介飛/Jay Chen, works+articles): same hit set — own TAH #2079, the four work pages (TACL memoir, congress kickoff, re-election fundraiser, school-board) + works/index, all already linked. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 10051340-5 re-verify 2026-10-06: fresh ZH+EN+partial-name grep (works/articles/sources/events/topics) — hit set identical to prior absorptions (own TAH records + already-linked work pages + index); partial-name hits resolved to different people. Verified-saturated; SKIP-no-new-facts. -->
