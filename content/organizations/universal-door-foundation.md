@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Universal Door Foundation (美音基金會)
 
@@ -25,6 +25,7 @@ The foundation's flagship event is on the community record: the Formosan America
 - 語料複核（deepen-x 09250400-30, 2026-09-25）：再檢 content/works + content/articles（中英雙查），命中集與上述記錄完全相同，僅 concerts35 與自身條目及 index，無新增可吸收材料。Verified-saturated.
 - 語料複核（deepen-x 09252123-18, 2026-09-26）：中英雙查再檢，命中集仍僅 concerts35、自身條目 universal-door-foundation 及 index，無新增可吸收材料。Verified-saturated.
 - Corpus re-check (deepen-x 09261000-18, 2026-10-01): fresh `grep -rlE 'Universal Door|美音基金會'` over works/ + articles/ → hit set unchanged (concerts35, self-entry, works/index) — verified-saturated. Loose `美音` matched 7 extra files but all false-positive substring noise (台、美音樂家 = 美國+音樂家; 台灣音樂很美) — 美音基金會 occurs nowhere in articles/. ourjourneys128 (明州「台灣之愛：鄉愁與四季」concert) is unrelated to this foundation — no Universal Door/美音基金會 name match; Sinfonia org page is a bibliographic stub, no relation. No new absorbable material.
+- Corpus re-check (deepen-x 10051909-19, 2026-10-07): fresh ZH+EN grep across works/articles/sources/events/topics returns the same hit set (concerts35, self-entry, works/index, sources stub); loose `美音` matches are substring noise (台、美音樂家; 洛杉磯「美音雅樂文化傳承協會」 is a different SoCal ensemble, not 美音基金會). Verified-saturated. SKIP.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/universal-door-foundation/)
