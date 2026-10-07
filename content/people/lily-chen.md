@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Lily Chen (陳佳俐)
 
@@ -31,6 +31,7 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 
 - Profiled in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/404-lily-chen-e9-99-b3-e4-bd-b3-e4-bf-90-201505|404. Lily Chen 陳佳俐]] (2015-05-10, band B). Corpus holds the bibliographic record only; no further community/memoir material found (re-verified 2026-09-26: fresh ZH+EN grep of works/ + articles/ returned only her own record and the works index).
+- 2026-10-07 (deepen-x 10052045-15) 覆核: five-dir sweep (works/articles/sources/events/topics; 陳佳俐/Lily Chen/佳俐 probes) — only her own bibliographic record + index entries. SKIP: verified-saturated.
 
 ## Family
 
