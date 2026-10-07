@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # 林彰彩
 
@@ -50,3 +50,5 @@ Corpus sweeps 2026-09-21 / 2026-09-25 (works/articles): the only corpus hits for
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-scan 2026-10-07 (deepen-x slice 10052007-5): five-dir sweep (ZH 林彰彩/彰彩 + EN Chang-tsai Lin — zero hits) — only own TAH #583 record, works/index, sources hub. Frank Lin hits (ourjourneys19, whoswho1489) are about son [[people/frank-lin|Frank Lin]] himself, not 林彰彩; cross-link already present above. SKIP — nothing absorbable.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Prof. Hsu-Te Cheng (鄭胥德教授)
 
@@ -43,3 +43,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-scan 2026-10-07 (deepen-x slice 10052007-5): five-dir sweep (works/articles/sources/events/topics; ZH 鄭胥德/胥德 + EN Hsu-Te Cheng) — hits remain only the own TAH #1930 record, works/index, and the sources hub. SKIP — nothing absorbable beyond the TAH profile.
