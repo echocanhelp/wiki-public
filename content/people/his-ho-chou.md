@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 <!-- deepen-x slice 09251054-11: SKIP re-verified 2026-09-26 — fresh ZH+EN grep of works/articles: zero hits beyond own record -->
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 
 Corpus coverage is limited to his own TAH Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/10958|299. His-Ho Chou 周錫和 / 2015/02]] (2015). No memoir or article mentions were found, so no community-role facts beyond the profile's own engine-room and plant-management career (長榮海運, 新紀海運, 大千瀝青廠) are absorbed.
+- Re-scan 2026-10-07 (slice 10052045-3): five-dir grep (works/articles/sources/events/topics) for 周錫和 / His-Ho Chou returns only his own record, the works index, and the source page. The partial-name 周錫 hits in taiwanjustice.net articles resolve to politician 周錫瑋, not this engineer — verified-saturated, nothing absorbable.
 
 ## Sources
 - [TAH #299 encyclopedia: 299. His-Ho Chou 周錫和 / 2015/02](https://taiwaneseamericanhistory.org/299/)

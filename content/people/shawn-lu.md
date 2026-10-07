@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 # deepen-x slice 09210920-26: SKIP re-verified 2026-09-22 — corpus hit is only own TAH #940 stub (band B, bibliographic only)
 ---
 <!-- deepen-x slice 09251054-11: SKIP re-verified 2026-09-26 — fresh ZH+EN grep of works/articles: zero hits beyond own record -->
@@ -28,6 +28,7 @@ Shawn Lu (呂紹翔) is listed in the TAH Foundation Who's Who Taiwanese America
 ## Role in the Community
 
 - Listed in the TAH Foundation Who's Who; the corpus record is the bibliographic entry [[works/taiwaneseamericanhistory-org/whoswho940|940. Shawn Lu 呂紹翔 / 2016/04]] (published 2016-04-17, band B — full text stays in the vault). No further absorbable community facts in the corpus; deepening awaits the encyclopedia entry's full text.
+- Re-scan 2026-10-07 (slice 10052045-3): five-dir grep (works/articles/sources/events/topics) for 呂紹翔 / Shawn Lu returns only his own record, the works index, and the source page; surname-only 呂 hits resolve to other 呂 individuals (M.S. Lu, Kenny Leu, etc.), none to this person — verified-saturated, nothing absorbable.
 
 ## Family
 

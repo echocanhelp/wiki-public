@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Arnold J. Lee (李仁旭)
 
@@ -38,6 +38,7 @@ last_reviewed: 2026-10-01
 
 ## Role in the Community
 - TAHS TAH Who's Who corpus record: [[works/taiwaneseamericanhistory-org/whoswho1317|1317. Arnold J. Lee 李仁旭 (TAH Who's Who, 2016/10)]]. Corpus scans 2026-09-25 and 2026-09-26 (slices 09231500-23, 09251047-22): re-verified — only hit is this band-B bibliographic record plus the works index; no memoir or community-organizing facts in the vault to absorb.
+- Re-scan 2026-10-07 (slice 10052045-3): five-dir grep (works/articles/sources/events/topics) for 李仁旭 / Arnold J. Lee returns only his own record, the works index, and the source page. The partial-name 李仁 hits resolve to pastor 李仁豪 (Jen-Hao Lee, [[works/taiwaneseamericanhistory-org/whoswho1022|TAH #1022]]), not this engineer, and bare 'Arnold' hits are unrelated — verified-saturated, nothing absorbable.
 
 ## Sources
 - [TAH #1317 encyclopedia: 1317. Arnold J. Lee 李仁旭 2016/10](https://taiwaneseamericanhistory.org/whoswho1317/)

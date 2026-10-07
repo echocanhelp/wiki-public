@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Shi-Kaung Peng (彭旭光)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-10-01
 
 - Recorded in the TAH story corpus as encyclopedia entry 1038 (published 2016-05-28). [[works/taiwaneseamericanhistory-org/whoswho1038|1038. Shi-Kaung Peng 彭旭光 / 2016/05]]
 - No memoir/community narrative beyond the Who's Who record in the corpus; sweeps re-run 2026-09-25, 2026-09-26 (deepen-x-14), and 2026-10-01 (widened whole-vault ERE sweep incl. knowledge/web-archives): only hits are his own encyclopedia work page, his person page, and index files (SKIP verified).
+- Re-scan 2026-10-07 (slice 10052045-3): five-dir grep (works/articles/sources/events/topics) for 彭旭光 / Shi-Kaung returns only his own record, the works index, and the source page — verified-saturated, nothing absorbable.
 
 ## Sources
 - [TAH #1038 encyclopedia: 1038. Shi-Kaung Peng 彭旭光  / 2016/05](https://taiwaneseamericanhistory.org/whoswho1038/)
