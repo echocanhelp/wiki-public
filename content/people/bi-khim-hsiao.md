@@ -340,3 +340,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10060400-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-1 articles (77b0891e 信雅古典音樂珍藏啟用致詞 / 3be67f6e 台美人台加人存檔頁2 / 2e141df6 蔬果園藝標籤頁 / 2fa1c26a 台美人台加人存檔頁359): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-4: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-4 articles (0c56e79f 園藝分類頁, 2017-11-09快照 / f631078d 海外小英後援會助選團返台助選, 2020-01-06 / c0530664 Taipei Times 社論轉載「陳水扁的審判應受調查」, 2016-04-11 / 8fc11ca0 韓國瑜提預算協商·總統緩頰, 2025-01-16): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-8: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-8 article 4a5080befc342f69 (戴琪與鄧振中視訊、重啟TIFA, 2021-06-10): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

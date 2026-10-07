@@ -112,3 +112,5 @@ last_reviewed: 2026-09-23
 <!-- TJJ-A10040500-11: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-11 articles (11aa2dfa5f64d7e4 楊子清 tag頁 / 2490b18e8f37ea79 第166回世界台灣文化論壇 / 89e6683c93156205 台美人台加人 p356 / 79b5f26fdef89d22 2023台美小姐選拔賽): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-12: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-12 article 7dfa96523779391d (第161回世界台灣文化論壇 Huang Yi & Kuka 座談會, 2024-12-17 發文 / 2025-04-25 快照): subject link re-checked vs 正文 (「主持人 鄭良光 美國台灣人聯合基金會」), real, no wrong/spurious links; 2024-12-21 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-8: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-8 article 24ebe5f065076949 (2016海外台語研習會公告, 2016-05-10): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
