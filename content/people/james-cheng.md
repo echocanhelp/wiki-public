@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # James Cheng (鄭乃榮)
 
@@ -53,3 +53,4 @@ last_reviewed: 2026-10-01
 <!-- deepen-x slice 09231000-26 re-grep 2026-09-25: fresh grep (鄭乃榮/James Cheng) returns only own #37, own essay 310, index rows — verified saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 09221500-12 re-grep 2026-09-23: fresh grep (鄭乃榮/James Cheng) in works+articles returns only own TAH #37 record, own essay 310, and index rows; no third-party memoir material — verified saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 09252123-4 (2026-09-26): re-verified — fresh ZH+EN grep of works/ + articles/ returns only own already-linked records + works/index rollup; saturated, nothing absorbable; no conflicts. -->
+<!-- deepen-x slice 10051340-29 (2026-10-07): re-verified — widened grep (鄭乃榮/James Cheng/郑乃荣/乃榮) across works/articles/sources/events/topics returns only own already-linked records (#37, essay #310) + index rollup; verified-saturated, nothing absorbable; no conflicts. -->

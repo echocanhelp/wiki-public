@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-07
 ---
 # Linda Wang (王琳琦)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10051340-29 (2026-10-07): re-verified — fresh ZH+EN+variant+surname-only grep across works/articles/sources/events/topics (王琳琦/Linda Wang/琳琦) returns only own already-linked records (#362, #1278, ourjourneys301) + index rollup; verified-saturated, nothing absorbable; no conflicts. -->
