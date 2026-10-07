@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-06
 ---
 # Emma Chen (陳怡邁)
 
@@ -59,3 +59,4 @@ Accomplishment
 <!-- deepen-x slice 09251417-4 re-grep 2026-09-26: fresh ZH+EN grep works+articles — hit set identical to already-cited records; no new corpus material. Verified-saturated, SKIP new content. -->
 
 <!-- deepen-x slice 09260900-1 (2026-09-30): re-verified — fresh grep returns identical set: award + #216 + #2179 TAH records, index, and the context-free "Emma Chen STT" credit line in Pew statement (already noted, not absorbed). Verified saturated; SKIP. -->
+<!-- deepen-x slice 10051200-21 re-grep 2026-10-06: fresh ZH+EN grep (Emma Chen / 陳怡邁 / 怡邁) across works+articles+sources+events+topics returns the identical set — award-emma-chen, 216, whos-who-2179, sources hub, index, plus the context-free "Emma Chen STT" credit line in Pew statement (noted, not absorbed). Verified-saturated; SKIP. -->

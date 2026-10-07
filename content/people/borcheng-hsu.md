@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-06
 ---
 # BorCheng Hsu (許伯丞)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - 2026-09-26 DEEPEN-X09251451-3 re-run: fresh grep hit set identical to records already cited/absorbed above — verified-saturated, SKIP.
 
 <!-- deepen-x 09260854-22: re-verify 2026-09-30 — fresh grep (works/articles) with fixed alternation: identical hit set (whos-who-1175, 117, 中央社 2022-06-19 article, works index); saturated, no new absorbable facts. -->
+<!-- deepen-x slice 10051200-21 re-grep 2026-10-06: fresh ZH+EN grep (許伯丞 / BorCheng / TaiwanFest) across works+articles+sources+events+topics returns the identical hit set (whos-who-1175, 117, 中央社 2022-06-19 article, sources hub, index); verified-saturated, no new absorbable facts. -->

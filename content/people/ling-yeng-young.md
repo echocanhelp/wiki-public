@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-06
 ---
 # Ling-Yeng Young (陳玲瑛)
 
@@ -54,3 +54,5 @@ last_reviewed: 2026-09-30
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-check 2026-09-30 (deepen-x slice 09260854-25): fresh ZH+EN grep of works/ + articles/ returns the identical three-record hit set (whos65, artist26, publications354) + index — SKIP stands.
+
+Corpus re-check 2026-10-06 (deepen-x slice 10051200-21): fresh ZH+EN grep (玲瑛 / Ling-Yeng / Ling Yeng / 陳玲瑛) across works+articles+sources+events+topics returns the identical three-record hit set (whos65, artist26, publications354) + sources hub + index — verified-saturated, SKIP stands.
