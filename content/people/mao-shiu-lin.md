@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-07
 # deepen-x 09251039-31: SKIP re-verified 2026-09-26 — fresh grep: 林茂修/Mao-Shiu hits = own whoswho721 + works index only; nothing absorbable
 # deepen-x 09261400-3: re-grep 2026-10-02 (林茂修 + Mao-Shiu Lin, works+articles) — 0 hits; SKIP stands, nothing absorbable
 ---
@@ -38,6 +38,7 @@ Professor of Electrical & Computer Engineering
 ## Role in the Community
 
 - 台大電機（1954）赴美，密西根大學電機/電子硕博士，1966 年起任 San Diego State University 電機與電腦工程教授；台南籍。TAH Who's Who 721（2015/12）收錄其紀錄，見 [[works/taiwaneseamericanhistory-org/721-mao-shiu-lin-e6-9e-97-e8-8c-82-e4-bf-ae-201512|721. Mao-Shiu Lin 林茂修 / 2015/12]]。2026-09-25 corpus 再檢核：除本人 TAH 紀錄與作品索引外，memoir/article 中暫無其他記述。
+- 2026-10-07 五-dir 再檢核（deepen-x slice 10051948-26）：林茂修 / Mao-Shiu Lin 僅命中本人 TAH 紀錄＋索引；唯一「茂修」實質命中為 [[works/taiwaneseamericanhistory-org/charity46|46. 王茂修福音及教會增長基金會]] 與 [[works/taiwaneseamericanhistory-org/charity45|45. 王茂修博士紀念基金會]] — 屬**王茂修**牧師（另一人），非本人。HOLD: 勿將王茂修基金會誤併入本頁。SKIP（verified-saturated）。
 
 ## Family
 
