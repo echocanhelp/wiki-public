@@ -60,3 +60,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10030500-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-2 articles (58ad9964 TIME100Next 吳怡農/吳弭 / 0c56e79f 園藝分類頁 / f631078d 海外小英後援會助選團 / 8fc11ca0 韓國瑜預算協商): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040500-10: verified 2026-10-06 — subject links in slice 10040500-10 articles (a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e / beff9b8cd9711c3d) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-4: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-4 articles (0c56e79f 園藝分類頁, 2017-11-09快照 / f631078d 海外小英後援會助選團返台助選, 2020-01-06 / c0530664 Taipei Times 社論轉載「陳水扁的審判應受調查」, 2016-04-11 / 8fc11ca0 韓國瑜提預算協商·總統緩頰, 2025-01-16): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
