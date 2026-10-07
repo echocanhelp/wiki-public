@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-06
 ---
 # S. Y. Huang (黃森元)
 
@@ -49,6 +49,7 @@ last_reviewed: 2026-09-30
 - 2026-09-26 corpus re-grep (DEEPEN-X slice 09260500-19): fresh 黃森元/S. Y. Huang grep — hit set identical (#186/-eng, #253, #212, #1197, #422, #903, index), all already absorbed and linked. Verified-saturated; SKIP-content.
 
 - 2026-09-30 corpus re-grep (DEEPEN-X slice 09260854-18): fresh 黃森元/S. Y. Huang grep — hit set identical (#186/-eng, #253, #212, #1197, #422, #903, index), all already absorbed and linked. Verified-saturated; SKIP-content.
+- 2026-10-06 corpus re-grep (DEEPEN-X slice 10051340-1): fresh 黃森元/S. Y. Huang grep plus surname-only sweep 森元 — hit set identical (#186/-eng, #253, #212, #1197, #422, #903, index), all already absorbed and linked. Verified-saturated; SKIP-content.
 
 ## Sources
 - [TAH #903 encyclopedia: 903. S. Y. Huang 黃森元 / 2016/03](https://taiwaneseamericanhistory.org/whos903-s-y-huang/)

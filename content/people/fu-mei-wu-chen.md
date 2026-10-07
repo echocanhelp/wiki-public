@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-06
 ---
 # Fu-Mei Wu Chen (陳吳富美)
 
@@ -43,6 +43,7 @@ last_reviewed: 2026-10-04
   - [[works/taiwaneseamericanhistory-org/mystories190|190. 擺攤子 / 陳吳富美 / 2014/12]]
   - [[works/taiwaneseamericanhistory-org/mystories498|498. My Grandson / 陳吳富美 / 12/2016]]
   - [[works/taiwaneseamericanhistory-org/publications1154|1154. 關懷雜集 / 陳吳富美 (府城石舂臼人) / 10/2017]]
+- **Co-author with husband [[people/ron-chen||陳榮成]]** of the historical work 《1970四二四刺蔣案內情再公開》(2018) — she appears in the byline as 吳富美: [[works/taiwaneseamericanhistory-org/publications1264|1264. 1970四二四刺蔣案內情再公開 / 陳榮成、吳富美 / 11/2018]]; a second vault record of the same work is bylined 府城石舂臼人，陳榮成 ([[works/taiwaneseamericanhistory-org/publication1280|1280]]). Disambiguation note: the 富美 hits in our-journeys-350/357 are 張富美 (Bay Area census activist), a different person — not merged.
 - Her TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whos-who-327-fu-mei-wu-chen|327. Fu-Mei Wu Chen 陳吳富美 / 2015/03]].
 - **Archivist/donor to the community record:** her own historical collection was accessioned by the TAH archive as [[works/taiwaneseamericanhistory-org/collection-of-mrs-fu-mei-wu-chen|50. Collection of Mrs. Fu-Mei Wu Chen 陳吳富美女士的收藏]] (recorded 2017-12-22, Band B) — she is documented not only as a memoir contributor but as a collector who preserved Taiwanese American materials for the community record.
 - 2026-09-23（slice 09221300-22）再grep（陳吳富美／Fu-Mei Wu Chen）：語料命中仍僅上列已連結之五篇親筆文章、#327 Who's Who 與個人收藏紀錄；無新事實。verified-saturated。
