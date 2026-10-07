@@ -162,6 +162,8 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A10060400-22: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-22 articles (c83c2315ab0b3e26 王廷宜（泰和）先生追思會, 2022-06-24 / 426d2811d4065134 楊子清老師音樂短講第13集, 2020-12-13 / 17835ad9519f9cfe 台灣會館第十屆董事會選出新任董事長林榮松, 2016-06-12 / e7e2a1e1a71524ce 以立合唱團世界首演「希望之光」, 2022-12-02): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
+<!-- TJJ-A10060400-26: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-26 articles (526ee7d662ebe432 以立「拯救我」原稿 / 80b33cf1846bc005 同稿2024存檔 / f985012b1ed56ad0 以立「末日之淚」存檔 / 928db8aa40e881b2 以立「森林王子」): subject link(s) re-checked vs 正文 this attempt (鋼琴×3、音樂總監), real, no wrong/spurious links; dated facts w/ all four article wikilinks already in From the record — saturated, no new material. -->
+
 <!-- TJJ-A10060400-23: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-23 articles (025f6ed9 以立希望之光影音 / 6ba229d2 以立末日之淚 / 8c6aeada 以立致死的震怒近了 / e7e0fe18 末日之淚2023存檔副本): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links (吳渭榮／廖健榮／Vahagn Hovents 正文提及但無頁面, 維持純文字不造鏈); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-27: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-27 article a40b37bc03b2b9cb（以立合唱團世界首演「希望之光」影音）: subject link re-checked vs 正文 (作曲、指揮：黃令先 Lynn Huang), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
