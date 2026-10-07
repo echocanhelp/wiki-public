@@ -7,7 +7,7 @@ tags:
 provisional: true
 verification_status: provisional
 needs_source: true
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-07
 ---
 # Brother Wang (GSTPC)
 
@@ -38,3 +38,5 @@ Brother Wang appears in GSTPC bulletin records. This is a provisional stub pendi
 - [[organizations/good-shepherd-taiwanese-presbyterian-church||Good Shepherd Taiwanese Presbyterian Church]]
 
 Corpus re-scan 2026-09-26 (deepen-x 09251047-1): fresh grep for "Brother Wang" — still only the film-title collision; SKIP, nothing absorbable.
+
+Corpus re-scan 2026-10-07 (deepen-x 10052158-1): fresh five-dir grep (王弟兄 / Brother Wang / GSTPC / 好牧者) over works+articles+sources+events+topics — hit set unchanged: the film-title collision, the GSTPC bibliographic record, and unrelated Sydney "Good Shepherd Church" news articles. No named-member material anywhere. SKIP, verified-saturated.
