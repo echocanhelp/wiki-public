@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-07
 ---
 # Chicago Taiwanese Architecture Institute, CTAI (芝加哥台灣建築學會)
 
@@ -36,3 +36,4 @@ The Chicago Taiwanese Architecture Institute (CTAI) is an Illinois 501(c)(3) non
 
 - Corpus re-grep (slice 09251000-10, 2026-09-26): hit set identical (own record, Our Journeys 272 SCTAI substring matches, works index, taiwanjustice hash match). Verified-saturated SKIP.
 - Corpus re-grep (slice 09260500-19, 2026-09-26): fresh 芝加哥台灣建築學會/CTAI grep — hit set identical (own record, Our Journeys 272 SCTAI substring false positive, works index, taiwanjustice hash match). Verified-saturated SKIP.
+- Corpus re-grep (slice 10051400-28, 2026-10-07): fresh 芝加哥台灣建築學會/CTAI grep across works/articles/sources/events/topics — hits limited to own record, works index, and sources index listing. Verified-saturated; SKIP; no new material, no conflicts.
