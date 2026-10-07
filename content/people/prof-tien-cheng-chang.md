@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Prof. Tien-Cheng Chang (張典正教授)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09250500-32 recheck 2026-09-25: SKIP — fresh ZH+EN grep of works/+articles returned no new material (see above); verified saturated, no changes. -->
+<!-- deepen-x slice 10051918-7 recheck 2026-10-07: SKIP — fresh ZH+EN+surname grep across works/articles/sources/events/topics returns only his own record (whos-who-1948) + index rows; the two 典正 hits in taiwanjustice-net articles are a false positive (substring of 「瑞典典正式入盟」, not this person). HOLD stands, verified saturated. -->

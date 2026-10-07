@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Chin H. Liao (廖俊惠醫師)
 
@@ -53,3 +53,4 @@ Community records identify him as 廖俊惠 (also romanized **Chinhuei Liao**), 
 <!-- deepen-x 09231100-31: SKIP — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own TAH records / already-absorbed coverage); no new community material. -->
 <!-- deepen-x 09250500-7: SKIP — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own TAH records / already-absorbed coverage); no new community material. -->
 <!-- deepen-x 09261100-8: SKIP - corpus re-scan (works/articles) fresh 2026-10-01: full ZH+EN grep hit set identical to prior passes (own TAH records / already-absorbed coverage); no new community material. -->
+<!-- deepen-x slice 10051918-7 recheck 2026-10-07: SKIP — fresh grep 廖俊惠/Chinhuei Liao across all five corpus dirs (works/articles/sources/events/topics) returns only already-absorbed records (oral history #181, whoswho902) + index/source rows. Verified saturated, no changes. -->
