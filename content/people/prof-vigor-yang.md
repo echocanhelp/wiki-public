@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Prof. Vigor Yang (楊威迦教授)
 
@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x recheck 2026-10-07 (slice 10051918-29): fresh grep (楊威迦 / Vigor Yang / 威迦) across all five corpus dirs — hits: own record #2025 + works index + source page only. Verified-saturated; nothing absorbable. -->

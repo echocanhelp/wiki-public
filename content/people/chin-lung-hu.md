@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Chin-Lung Hu (胡金龍)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-10-01 覆核（slice 09261341-9）：ZH+EN 全庫再查（胡金龍 / Chin-Lung Hu）— 僅見自身 TAH 檔案 [[works/taiwaneseamericanhistory-org/whos-who-1748-chin-lung-hu|1748. Chin-Lung Hu 胡金龍]] 與 works/index，無新社群事蹟，SKIP 維持。
+- 2026-10-07 覆核（deepen-x slice 10051918-29）：ZH+EN 全庫再查（胡金龍 / Chin-Lung Hu / Chinlung Hu）— 僅見自身 TAH 檔案與 works/index，無新社群事蹟，SKIP 維持。
