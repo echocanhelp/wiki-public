@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Julia Huang (黃馨儀)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 10051143-25: re-verified 2026-10-06 — fresh ZH+EN grep (黃馨儀/Julia Huang) across works/articles/sources/events/topics returned the identical hit set (#1254 書目、Our Journeys #128、黃儀嬙同名異人報導、index/hub 目錄列); no new memoir material. SKIP stands; HOLD on 黃儀嬙 identity mixup retained. -->
