@@ -56,3 +56,5 @@ Community role: a career/professional-development association for young Taiwanes
 <!-- TJJ-A10040500-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-7: article 71a7c64663ea03b6: 與會館合辦 2020-04-25 線上移民講座 re-checked vs 正文, real, no wrong/spurious links; 2020-04-25 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article c05e2d53013fcd15（會館疫情服務報導 2020-06-23）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060600-6: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-6 article c05e2d53013fcd15（2020-06-23 大洛杉磯台灣會館疫情濟困報導）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

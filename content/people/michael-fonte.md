@@ -100,3 +100,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10040700-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-2 — article e38ae3f755e47f77（楊遠薰標籤頁 p2, 2024-05-27快照）: subject link re-checked vs 正文「彭光理與台灣的半生緣(上)(下) ─ Michael Fonte 的故事 ◎楊遠薰 04-30」兩條, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-18: verified 2026-10-07 — wave-2 re-check of slice 10060400-18 article c1e603063718b409 (蕭美琴臨時缺席華府台灣同鄉會感恩節餐會報導, 2023-11-11) 正文再驗證——彭光理致詞「美台最好時刻／最危險時刻」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2023-11-11 條目已在庫 — saturated, no new material. -->
+
+<!-- TJJ-A10060600-6: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-6 article d2dbfe220e437602（2017 美東台灣人夏令會報導（楊遠薰, 29faf54b8c9e2d10 同文再存檔副本））: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

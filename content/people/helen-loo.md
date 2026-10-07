@@ -78,3 +78,5 @@ Accomplishment
 <!-- TJJ-A10040600-1: verified 2026-10-06 — subject links in slice 10040600-1 article d2dbfe220e437602（2017美東台灣人夏令會報導, 29faf54b8c9e2d10 同文副本）re-checked vs 正文 this attempt; real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040500-9: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-9 article 29faf54b8c9e2d10 (2017美東台灣人夏令會報導/楊遠薰, 2021-12-05快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060600-6: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-6 article d2dbfe220e437602（2017 美東台灣人夏令會報導（楊遠薰, 29faf54b8c9e2d10 同文再存檔副本））: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
