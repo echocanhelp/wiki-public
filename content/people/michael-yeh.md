@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-07
 ---
 # Michael Yeh (葉明青)
 
@@ -35,6 +35,12 @@ last_reviewed: 2026-10-02
 - **Father:** 葉思雅
 - **Mother:** [[people/zhang-xinhui||張信惠]]
 
+## Role in the Community
+- Son of 葉思雅醫師 and concert pianist 張信惠 ([[people/ye-siya|Yeh Ssu-ya]], [[people/ye-siya-zhang-xinhui|Ye Siya & Zhang Xinhui]]) — raised in the family's LA Taiwanese church and classical-music-collecting circle.
+- In the family memoir series 週末漫談音樂 (by 葉思雅), he appears as 明青 (Michael): born at 台大醫院 while his father was an OB/GYN resident; studied cello under Richard Kay (Metropolitan Opera Orchestra associate principal) and Prof. Eleonore Schoenfeld (USC), principal cello of his high-school orchestra, second chair of the Yale Symphony Orchestra, and later taught cello to his children — [[articles/taiwanjustice-net/2021/20210128091608_2021_01_09_週末漫談音樂49_名貴大提琴幾乎變成排放-cd-的架_7f7076d4357e8f54|週末漫談音樂 #49]].
+- Played in the Yale and UCSF school symphony orchestras while pursuing medicine; the family endorsed donating their half-century record/CD collection to the 台南市許石音樂圖書館 — [[articles/taiwanjustice-net/2021/20211207112750_2021_10_16_週末漫談音樂-88_信雅古典音樂珍藏_啟用儀_77b0891ec24689f9|週末漫談音樂 #88]].
+- 1984: before the family's move to Allentown, PA, his father took him to a soccer final at the Los Angeles Olympics — [[articles/taiwanjustice-net/2025/20250418233639_週末漫談音樂-123_奧林匹克運動會與古典音樂-_728773dc93b22759|週末漫談音樂 #123]]; his Yale symphony years are recalled again in [[articles/taiwanjustice-net/2025/20250320204323_週末漫談音樂-128_mozart-effect-_莫扎特效應_-信雅_db9b78bd1c87a6d8|週末漫談音樂 #128]].
+- Recorded in TAH Who's Who [[works/taiwaneseamericanhistory-org/whos-who-2313-michael-yeh|2313. Michael Yeh 葉明青]].
 
 ## Sources
 - [TAH #2313 encyclopedia: 2313. Michael Yeh 葉明青](https://taiwaneseamericanhistory.org/whos-who-2313-michael-yeh/)
