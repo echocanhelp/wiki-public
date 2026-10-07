@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-07
 ---
 # SoCal Taiwanese Biotechnology Association SoCal TBA (南加台灣生物科技協會)
 
@@ -21,6 +21,8 @@ SoCal Taiwanese Biotechnology Association (SoCal TBA) is a non-profit organizati
 ## Role in the Community
 - The TAH story corpus holds the organization's own profile record and its flagship event, both dated 2018-07-09: [[works/taiwaneseamericanhistory-org/socal-tba|SoCal TBA 南加台灣生物科技協會（TAH 紀錄）]] and [[works/taiwaneseamericanhistory-org/socal-taiwanese-biotechnology-symposium|SoCal Taiwanese Biotechnology Symposium 南加州台灣生技研討會]] — placing the association in the community record by 2018, consistent with its 2016 founding.
 - Corpus re-grep 2026-09-17, 2026-09-18 and 2026-09-20 (slice 09190400-8): no further mentions in works/articles beyond these two band-B records and the source index; no absorbable event details or member names.
+- The sister-organization ties named in its profile are corroborated in the corpus by the sister clubs' own band-B records: [[works/taiwaneseamericanhistory-org/boston-taiwanese-biotechnology-association|Boston Taiwanese Biotechnology Association 波士頓台灣人生物科技協會（TAH 紀錄，era 2017）]] and [[works/taiwaneseamericanhistory-org/texas-taiwanese-biotechnology-association|Texas Taiwanese Biotechnology Association 德州台灣生物科技協會（TAH 紀錄，era 2016）]] — the three form the documented triad of regional Taiwanese biotech associations.
+- Re-grep 2026-10-07 (deepen-x slice 10052158-8): five-dir sweep (SoCal TBA / 南加台灣生物科技 / biotechnology) — beyond the two own-club records, hits are the BTBA/TTBA/symposium work records and the broad-match ourjourneys19 (Silicon Valley biotech narrative, no SoCal TBA mention — false positive, not absorbed). Verified-saturated apart from the sister-club links added above.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/socal-taiwanese-biotechnology-association-socal-tba/)

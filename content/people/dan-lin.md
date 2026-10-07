@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dan Lin (林暐)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 
 > Re-verified 2026-09-25 (deepen-x slice 09240500-28): fresh ZH+EN grep returns the same hit set (my-stories-845, TAH #182, ITASA record, index; taiwanjustice-net hit is 林暐翔, a different person — false positive, not absorbed) — saturated, nothing new.
 > Re-verified 2026-10-01 (deepen-x slice 09260900-22): fresh ZH+EN grep 林暐 / Dan Lin returns the same saturated hit set (my-stories-845, TAH #182, ITASA record, works/index; taiwanjustice-net hit is 林暐翔, a different person — false positive). No new material; nothing to absorb.
+> Re-verified 2026-10-07 (deepen-x slice 10052158-8): five-dir sweep (Dan Lin / 林暐 excluding 林暐翔) — hit set identical (my-stories-845, TAH #182, ITASA record, works/index, sources index); all already linked above. SKIP — verified-saturated.
