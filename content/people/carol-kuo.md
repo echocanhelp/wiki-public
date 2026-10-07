@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Carol Kuo (簡雁齡)
 
@@ -45,6 +45,7 @@ last_reviewed: 2026-10-01
 ## Sources
 - [TAH #2259 encyclopedia: 2259. Carol Kuo 簡雁齡](https://taiwaneseamericanhistory.org/whos-who-2259-carol-kuo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/carol-kuo/)
+<!-- deepen-x slice 10051340-28 (2026-10-07): verified-saturated — fresh ZH+EN grep across all five corpus dirs returns only #245, #379, #2259 + works index (all already absorbed above); no new corpus material. -->
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

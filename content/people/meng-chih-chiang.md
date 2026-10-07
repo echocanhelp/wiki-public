@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Meng Chih Chiang (江孟芝)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10051340-28 (2026-10-07): verified-saturated — fresh ZH+EN+variant grep across works/articles/sources/events/topics returns only #260, #2169, and the works index (all already cited above); no new corpus material. -->

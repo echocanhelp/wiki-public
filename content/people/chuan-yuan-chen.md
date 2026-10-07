@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Chuan Yuan Chen (陳泉淵)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - 2026-09-26 deepen-x slice 09252123-20: fresh ZH+EN grep of works+articles — hit set unchanged (own TAH record + Our Journeys 138); no new absorbable material (SKIP-content).
 
 <!-- deepen-x slice 09261000-20 (2026-10-01): verified-saturated — fresh full-regex grep (-E, ZH+EN, no literal-pipe trap) over content/works + content/articles returns only the records already cited on this page (own TAH record + works/index rows) plus the disambiguation/HOLD records already flagged; no new absorbable corpus material. -->
+<!-- deepen-x slice 10051340-28 (2026-10-07): verified-saturated — fresh ZH+EN grep across works/articles/sources/events/topics returns only own TAH #1054 record, Our Journeys 138 (absorbed above), and the works index; no new corpus material. -->
