@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Peter Hsu (徐學猷)
 
@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- DEEPEN-X re-check 2026-10-07 (slice 10051948-1): fresh five-dir greps (徐學猷 / Peter Hsu / Peter HSU) returned only own [[works/taiwaneseamericanhistory-org/whos-who-1670-peter-hsu|TAH #1670]], the 2021 Pew-statement signatory list ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|statement]]), + index/source rows. Prior linkage stands; no new memoir material. SKIP — verified-saturated. -->

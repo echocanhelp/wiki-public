@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: reviewed
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Prof. Ralph T. Yang (楊祖保教授)
 
@@ -45,3 +45,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- DEEPEN-X re-check 2026-10-07 (slice 10051948-1): fresh five-dir greps (楊祖保 / Ralph T. Yang) returned only own [[works/taiwaneseamericanhistory-org/whos-who-1860-ralph-t-yang|TAH #1860]] + index/source rows. The two taiwanjustice-net article hits were false positives — substring match on 媽祖保(祐), not 楊祖保. SKIP — verified-saturated. -->
