@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # William Yau (姚火草)
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-10-01
 ## Work log
 - SKIP (deepen-x slice 09231500-7, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only the person's own TAH Who's Who record + index (no memoir/community material beyond what is already cited); page saturated, nothing absorbable.
 - SKIP (deepen-x slice 09251031-9, 2026-09-26): fresh ZH+EN grep of content/works + content/articles returned only the hit set already absorbed by this page (own TAH record + index, plus previously cited works); nothing new absorbable.
+- 2026-10-06 re-sweep (deepen-x slice 10051314-5): fresh ZH+EN grep across all corpus dirs — hits remain only own record [[works/taiwaneseamericanhistory-org/whos-william-yau|1565. William Yau 姚火草]] + works index + sources page; no memoir/community material. SKIP, saturated.

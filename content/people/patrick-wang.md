@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-06
 ---
 # Patrick Wang (王沛智)
 
@@ -46,3 +46,5 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 2026-10-06 re-sweep (deepen-x slice 10051314-5): fresh ZH+EN grep across works/articles/sources/events/topics — hit set unchanged (own record [[works/taiwaneseamericanhistory-org/whos-who-746|whos-who-746]], works index, the two 2012 「In the Family」 release records); no memoir or community material beyond what is already cited. SKIP, saturated.
