@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-06
 ---
 # Dr. Kuang Chi Liang (梁礦琪醫師)
 
@@ -56,3 +56,5 @@ Corpus re-grep 2026-09-19 (both spellings + English name): hit set in `content/w
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-check 2026-10-06 (deepen-x slice 10051200-19): fresh grep both spellings 梁礦琪/梁鑛琪 + English name across works/articles/sources/events/topics — identical hit set (#8, #121, #1741, index), all linked above; surname-only 梁鑛/梁礦 sweep adds nothing beyond the same three records. Verified-saturated; SKIP. HOLD on 礦/鑛 spelling conflict stands.

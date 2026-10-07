@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-06
 ---
 # Cheh-Jen Su (蘇哲仁)
 
@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - 2026-09-25 deepen-x slice 09240800-7: re-verified — fresh grep returns only #5, #292, mystories5 (all wikilinked); no new corpus material. Verified-saturated, SKIP.
 - 2026-09-26 deepen-x slice 09251000-30: re-verified — fresh grep 蘇哲仁/Cheh-Jen Su returns only #5, #292, mystories5 + works index, all wikilinked. SKIP-deepen; saturated.
 - 2026-09-27 deepen-x slice 09260600-25: re-verified — fresh grep returns identical hit set (#5, #292, mystories5, index), all wikilinked. SKIP-content; saturated.
+- 2026-10-06 deepen-x slice 10051200-19: re-verified — fresh grep 蘇哲仁/Cheh-Jen Su plus book-title sweep 預防生理 across works/articles/sources/events/topics returns identical hit set (#5, #292, mystories5, index), all wikilinked; surname-only 蘇哲 sweep in articles/events/topics empty. Verified-saturated; SKIP.

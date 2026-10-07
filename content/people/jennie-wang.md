@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-06
 ---
 # Jennie Wang (林靜娥)
 
@@ -38,6 +38,7 @@ last_reviewed: 2026-09-27
 ## Role in the Community
 - Performed in the 1987 Chicago stage production 「咱的乡土咱的歌」 mounted by the Chicago Taiwanese culture-promotion circle; the production's own corpus record ([[works/taiwaneseamericanhistory-org/ourjourneys167|咱的乡土咱的歌, Chicago 1987]], excerpted from 台灣公論報 no. 621, 1987-12-03) lists her among the performers and credits her husband 王文隆 with the set design. After the show, 慈淵基金會 head Prof. [[people/liao-shu-zong|廖述宗 (Liao Shu-zong)]] doubled the foundation's grant so the association could expand to nationwide activities. (Lighting for the same production was run by [[people/shitien-yang|楊錫鈿]].) This corroborates the directory's listed 芝加哥文化促進會 participation.
 - Her personal record is held as TAH story-corpus entry #47, published 2014-10-04 ([[works/taiwaneseamericanhistory-org/47-jennie-wang-e6-9e-97-e9-9d-9c-e5-a8-a5|47. Jennie Wang 林靜娥]]).
+- The Chicago Taiwanese association's 50-year retrospective lists a 王文隆 as its 1988 會長 ([[works/taiwaneseamericanhistory-org/our-journeys-378|Our Journeys #378, 芝加哥台灣同鄉會50年的歳月, 2021-10]]). Given the same city and the husband credited with set design for the 1987 「咱的乡土咱的歌」 production above, this is likely the same Wayne Lung Wang (王文隆, [[people/dr-wayne-lung-wang]]) — likely, unconfirmed; not merged into the Family block.
 
 ## Timeline
 - 1987 — performed in 「咱的乡土咱的歌」, Chicago (reported 台灣公論報 #621, 1987-12-03)
@@ -59,3 +60,4 @@ last_reviewed: 2026-09-27
 - Corpus re-check 2026-09-25 (deepen-x slice 09240800-12): fresh grep of works/ + articles/ for 林靜娥 / Jennie Wang returns only own record #47 + ourjourneys167 (both already absorbed above) — verified saturated; SKIP.
 - Corpus re-check 2026-09-26 (deepen-x slice 09251023-4): fresh grep (林靜娥 / Jennie Wang) returns only own record #47 + ourjourneys167 (both already absorbed above) + index — verified saturated; SKIP.
 - Corpus re-check 2026-09-27 (deepen-x slice 09260600-21): fresh grep (林靜娥 / Jennie Wang) returns only own record #47 + ourjourneys167 + index — verified saturated; SKIP.
+- Corpus re-check 2026-10-06 (deepen-x slice 10051200-19): surname/alias sweep (王文隆, 芝加哥文化促進會) surfaced Our Journeys #378 (芝加哥台灣同鄉會 歷年會長 list, 王文隆 1988) — absorbed into Role in the Community as a likely-but-unconfirmed link to [[people/dr-wayne-lung-wang]]; no other new hits.
