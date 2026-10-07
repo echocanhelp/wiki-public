@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Susan Chou (周淑慧牧師)
 
@@ -45,6 +45,8 @@ last_reviewed: 2026-10-01
 - 2026-09-25 (slice 09230900-29): fresh grep adds only [[works/taiwaneseamericanhistory-org/whoswho1353|TAH #1353 Susan Lin Chou 林惠君]] — a different person (林 not 周), not absorbed. Verified-saturated, SKIP content-deepen.
 - 2026-09-25 (slice 09250317-21): re-grepped works/+articles/ — identical hit set (TAH #350, #508, works index), all absorbed above. Saturated, no new facts. SKIP content-deepen.
 - 2026-09-26 (slice 09251527-13): re-grepped 周淑慧 + Susan Chou across works/+articles/ — identical hit set (TAH #350, #508, works index), all absorbed above. Saturated, no new facts. SKIP content-deepen.
+- The church she founded in 1982, 柑縣台福教會 (Evangelical Formosan Church of Orange County), is itself documented in the corpus as a community venue: the Easter musical 「你真偉大」 was performed there in 2001 ([[works/taiwaneseamericanhistory-org/concerts70|TAH #70, 2001-04]]), and the 洛杉磯福爾摩莎聖樂團 gave Christmas-season and memorial concerts in its sanctuary in 2012–2014 ([[works/taiwaneseamericanhistory-org/17-los-angeles-formosan-master-chorale|LA Formosan Master Chorale]]). The church's own corpus record: [[works/taiwaneseamericanhistory-org/evangelical-formosan-church-of-orange-county|柑縣台福基督教會]].
+- Her second founding, 普世豐盛生命中心 / Global Life Enrichment Center (1996), is likewise present in the movement record through its newsletter — [[works/taiwaneseamericanhistory-org/newsletter-of-global-life-enrichment-center|Newsletter of Global Life Enrichment Center 普世豐盛通訊]] — which documents the Center's community programming (Thanksgiving dinners, talent shows, film screenings at 台灣會館) alongside events hosted at 柑縣台福教會, placing her two institutions inside the same Southern California Taiwanese community circuit.
 
 
 ## Sources
