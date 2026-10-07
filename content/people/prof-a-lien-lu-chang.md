@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Prof. A-Lien Lu-Chang (呂阿戀教授)
 
@@ -39,6 +39,7 @@ Prof. A-Lien Lu-Chang 呂阿戀教授 – History of Taiwanese American (T.A. Ar
 - Re-grep 2026-09-25 (slice-16): hit set unchanged (#113, #1064, mystories441, index), all already linked above — verified saturated; SKIP-deepen.
 - Re-grep 2026-09-26 (slice-19): hit set unchanged (#113, #1064, mystories441, index), all already linked above — verified saturated; SKIP-deepen.
 - Re-grep 2026-10-01 (slice 09261000-16): hit set unchanged (#113, #1064, mystories441, index) — verified saturated; SKIP-deepen.
+- Re-grep 2026-10-07 (slice 10051340-30): widened ZH+EN+surname grep across works/articles/sources/events/topics returns the identical hit set (#113, #1064, mystories441 + sources hub), all already linked above; mystories441's vault copy is bibliographic-record-only with no absorbable body text. Verified-saturated, SKIP.
 
 ## Family
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Judy Wang (王瑞婉)
 
@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - Her own TAH Who's Who entry: [[works/taiwaneseamericanhistory-org/whos-who-1918-judy-wang|1918. Judy Wang 王瑞婉]].
-- HOLD: corpus record [[works/taiwaneseamericanhistory-org/150-e7-8e-8b-e6-b3-b0-e6-be-a4-e5-a4-ab-e5-a9-a6-taitzer-and-judy-wang-the-first|150. 王泰澤夫婦 Taitzer and Judy Wang — first Taiwanese couple to co-own an American retail bookstore (Little Professor Book Center, 1991–1999)]] matches "Judy Wang", but this TAH profile lists no spouse/family fields and gives a music-educator background; whether the Judy Wang of record #150 (wife of 王泰澤 Taitzer Wang, cf. [[works/taiwaneseamericanhistory-org/151-e7-8e-8b-e6-b3-b0-e6-be-a4-taitzer-wang-the-first-taiwanese-who-traveled-aro|151. 王泰澤 Taitzer Wang]]) is the same person is unverified — not auto-merged.
+- RESOLVED (was HOLD): corpus record [[works/taiwaneseamericanhistory-org/150-e7-8e-8b-e6-b3-b0-e6-be-a4-e5-a4-ab-e5-a9-a6-taitzer-and-judy-wang-the-first|150. 王泰澤夫婦 Taitzer and Judy Wang — first Taiwanese couple to co-own an American retail bookstore (Little Professor Book Center, 1991–1999)]] matches "Judy Wang" by English name only. The 2026-10-07 cross-check of [[people/dr-taitzer-wang|王泰澤 Taitzer Wang]]'s page shows his wife is recorded as **Judy (張喜久)**, not 王瑞婉 — so record #150 refers to a *different* Judy Wang and is NOT this person. Identification dismissed on evidence; this page's Judy Wang 王瑞婉 remains the Taichung music educator of TAH #1918 only.
 - Corpus re-check 2026-09-21, again 2026-09-22 (slices incl. 28): record #150's vault copy carries bibliographic metadata only (full text stays at the source), and no other work in `content/works`/`content/articles` names 王瑞婉 — the corpus currently offers no evidence to resolve or dismiss the identification above.
 - Corpus re-check 2026-09-25 (slice -22): hits remain #1918, #150 (Taitzer and Judy Wang), and index only; no text names 王瑞婉 beyond the Who's Who record — the #150 identification stays on HOLD.
 - 語料複核（deepen-x 09250400-30, 2026-09-25）：再檢 content/works + content/articles（中英雙查），命中集仍為 #1918、#150 與 index，無新增可吸收材料；#150 身分持續 HOLD。Verified-saturated.

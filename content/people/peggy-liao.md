@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Peggy Liao (廖碧玉)
 
@@ -49,6 +49,7 @@ last_reviewed: 2026-10-01
 - Re-verified 2026-09-25 (deepen-x slice 09250400-31): grep re-run returns the identical hit set (own #79 profile, own #257 草與露, works/index.md listing) — saturated, no new absorbable material.
 - Re-verified 2026-09-26 (deepen-x slice 09252123-24): grep re-run returns the identical hit set (#79, #257, works index) — saturated, SKIP-with-reason.
 - Re-verified 2026-10-01 (deepen-x slice 09261000-24): fresh ZH+EN grep against works/ + articles/ again returns only the own records #79 and #257 plus the works/index.md listing — no memoir or community mention of her anywhere in the corpus; saturated, nothing new absorbable.
+- Re-verified 2026-10-07 (deepen-x slice 10051340-30): widened grep across works/articles/sources/events/topics incl. surname-only 碧玉 — the only extra hits are *different* people (林碧玉 of TACL/census advocacy in ourjourneys253, 丁碧玉 in the Manhattan-Kansas UFAI roster in ourjourneys58, and Peggy Cooley in whos-who-2161); none is this Peggy Liao 廖碧玉. Hit set for her remains own records #79 + #257 only — verified-saturated, SKIP.
 
 ## Sources
 - [TAH #79 encyclopedia: 79. Peggy Liao 廖碧玉](https://taiwaneseamericanhistory.org/79-peggy-liao-%e5%bb%96%e7%a2%a7%e7%8e%89/)
