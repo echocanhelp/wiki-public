@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Kenneth P. Chen (陳秉虔博士)
 
@@ -48,3 +48,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09231200-21: re-verify — fresh ZH+EN grep of works/+articles/; hit set identical to prior passes, all hits already linked; no new absorbable corpus facts. -->
 <!-- deepen-x 09250600-3: re-verify — fresh ZH+EN grep of works/+articles/; hit set identical to prior passes, all hits already linked; no new absorbable corpus facts. -->
+<!-- deepen-x 10051400-11: re-verify 2026-10-07 — fresh ZH+EN greps of all five corpus dirs; hit set identical to prior passes (ourjourneys-369, whos906, both already linked; taiwanjustice tag page shows no posts). No new absorbable corpus facts. -->

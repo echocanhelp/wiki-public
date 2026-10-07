@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Kuei-I Wu (伍癸怡)
 
@@ -44,3 +44,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09250600-2 recheck 2026-09-25: SKIP — fresh ZH+EN grep of works/+articles returned only own TAH work-page records + harvest index (already linked on this page); no new memoir or third-party material. -->
+<!-- deepen-x slice 10051400-11 recheck 2026-10-07: fresh ZH+EN grep of all five corpus dirs returned only own TAH records (musician7, whoswho1083 — both already linked) + harvest index/source pages; no new memoir or third-party material. -->

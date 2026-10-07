@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Doris T. Chang (張庭寧)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+> Re-verified 2026-10-07 (slice 10051400-11): fresh 張庭寧/Doris T. Chang greps across all five corpus dirs returned only the already-absorbed book #140 and encyclopedia #1188 records plus index entries; bare "Doris" hits resolve to different people (Doris Hsieh 謝必行, Doris Lu-Anderson 呂佳霙). No memoir material — SKIP-with-reason.

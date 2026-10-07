@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # John M. Yeh (葉明翰牧師)
 
@@ -54,3 +54,4 @@ Corpus source: [[works/taiwaneseamericanhistory-org/ourjourney-343|Our Journey �
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- DEEPEN-X RECHECK 2026-10-01 (slice 09261300-3): corpus grep re-run (ZH+EN, works+articles) — hit set unchanged: own TAH bibliographic record + index only (Yeh: also Our Journey 343, already cited). SKIP stands; nothing new absorbable. -->
+<!-- DEEPEN-X RECHECK 2026-10-07 (slice 10051400-11): fresh ZH+EN+surname greps across works/articles/sources/events/topics — hit set = whoswho941 + ourjourney-343 (both already cited), harvest index/source pages only. 葉明 variants in corpus resolve to other people (Cecelia Tsai 葉明霞, Michael Yeh 葉明青, 葉明和 NATMA member). No new material; SKIP stands. -->
