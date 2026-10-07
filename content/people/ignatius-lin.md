@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Ignatius Lin (林上翔)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 
 ## Source Notes and Confidence
 - SKIP (deepen-x re-verified 2026-09-26): only corpus hits for 林上翔/Ignatius Lin are his own TAH entry [[works/taiwaneseamericanhistory-org/whoswho1291|1291. Ignatius Lin 林上翔 / 2016/09]] (bibliographic record, already cited above) plus works/index.md — no community/memoir material to absorb.
+- Slice 10052045-18 re-verify 2026-10-07 (five-dir grep, ZH 林上翔/上翔 + EN Ignatius Lin + romanization variants): no new hits — own record, works/index, sources page only. SKIP — verified-saturated.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

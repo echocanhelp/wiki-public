@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # C.K. Lo (羅劍寬)
 
@@ -28,6 +28,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - His story is held in the community record as TAH Foundation Who's Who entry 1409, published 2016-11-20: [[works/taiwaneseamericanhistory-org/whoswho1409|1409. C.K. Lo 羅劍寬 / 2016/11]] (band B, story).
 - Corpus grep (works/ + articles/) re-verified 2026-09-25 (slice 09232337-22) and slice 09251054-31 2026-09-26 (ZH+EN): 羅劍寬 appears only in the own-record above and the works index; no memoir or movement material beyond the profile itself. SKIP — nothing absorbable.
+- Slice 10052045-18 re-verify 2026-10-07 (five-dir grep, ZH 羅劍寬/劍寬 + EN C.K. Lo word-boundary): only own record + works/index + sources page. Loose `CK Lo` substring hits (ties-that-unbind interview, TAP-SF volunteer post, sunflower article) are false positives inside words/place-names ("Jack London", "block"), not mentions of this person. SKIP — verified-saturated.
 
 ## Sources
 - [TAH #1409 encyclopedia: 1409. C.K. Lo 羅劍寬/ 2016/11](https://taiwaneseamericanhistory.org/whoswho1409/)
