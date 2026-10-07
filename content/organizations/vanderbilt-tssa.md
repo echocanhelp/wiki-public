@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Vanderbilt TSSA (范德堡大學臺灣同學會)
 
@@ -23,6 +23,7 @@ Vanderbilt TSSA (范德堡大學臺灣同學會) is a Facebook group associated 
 Corpus grep re-run (works + articles, 2026-09-25) found no community record of this chapter: no mention of "Vanderbilt TSSA" or 范德堡大學臺灣同學會 in any memoir, yearbook, or directory text. The corpus pages that mention Vanderbilt ([[works/taiwaneseamericanhistory-org/ourjourneys298|Our Journeys 298]], [[works/taiwaneseamerican-org/justineker|Justine Ker profile]], and taiwanjustice.net news clippings — e.g. Vanderbilt history professor 托馬斯·施瓦茨 in a 2025 Biden-primary clipping, 健康政策系教授 William Schaffner in a 2020-pandemic clipping, and 范德比 family lineage in a 2026 Anderson Cooper piece) reference the university only incidentally — a Houston HTISC teacher's degree, a Miss Louisiana's alma mater, and named professors — not the student association itself. The TAH organization directory entry is currently the sole record of this group; TSSA chapter activity of this era is otherwise documented only for larger chapters (e.g. New York, Houston). No absorbable community-activity facts exist in the corpus at this pass.
 - Re-verified 2026-09-25 (slice 09250500-30): fresh ZH+EN grep ("Vanderbilt TSSA" / 范德堡大學臺灣同學會) across content/works + content/articles returned zero hits — SKIP-with-reason, directory entry remains the sole record.
 - Re-verified 2026-10-01 (deepen-x slice 09261100-14): fresh ZH+EN grep ("Vanderbilt" / 范德堡大學臺灣同學會) across works/ + articles/ finds only incidental university mentions — 托馬斯·施瓦茨 (20260208201010 cnn clipping) — and nothing about the student association itself. SKIP-with-reason; TAH directory entry remains the sole record.
+- Re-verified 2026-10-07 (deepen-x slice 10052045-30): five-dir grep for "Vanderbilt TSSA" / 范德堡大學臺灣同學會 / 范德堡大學 returns only two 2025 taiwanjustice.net clippings citing 范德堡大學歷史學教授托馬斯·施瓦茨 (incident professor mention, not the association) plus the sources index. Verified-saturated, SKIP.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/vanderbilt-tssa/)

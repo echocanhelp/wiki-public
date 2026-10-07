@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Hakka Foundation (客家基金會)
 
@@ -35,3 +35,4 @@ The Hakka Foundation is a Taiwanese American nonprofit organization serving the 
 <!-- deepen-x 09231200-7: re-verified 2026-09-25 — fresh ZH+EN corpus grep hit set identical to records already absorbed above; no new material. -->
 <!-- deepen-x 09250500-27: re-verified 2026-09-25 — hit set identical (own directory record, works index, 太魯閣號慰問函), all already absorbed; verified-saturated, SKIP. -->
 <!-- deepen-x 09261100-22: re-verified 2026-10-01 — fresh ZH+EN grep (客家基金會/Hakka Foundation) of works/+articles/: hits = own directory record + works/index.md + 太魯閣號慰問函 (2021-04-16), all already absorbed in Role in the Community/Timeline; no new material. Verified-saturated, SKIP. -->
+<!-- deepen-x 10052045-30: re-verified 2026-10-07 — five-dir grep (客家基金會/Hakka Foundation) over works/articles/sources/events/topics returns the identical hit set (directory record, works/index.md, 太魯閣號慰問函, sources index), all already absorbed. Verified-saturated, SKIP. -->
