@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Jenny M. Lin Chang (張美華)
 
@@ -33,6 +33,7 @@ _No filled family fields on the TAH profile._
 
 - Corpus coverage is limited to her own TAH encyclopedia entries, held in the vault as bibliographic records: [[works/taiwaneseamericanhistory-org/artist13-jenny-m-lin-chang|13. 張美華 Jenny M. Lin Chang]] (2014) and [[works/taiwaneseamericanhistory-org/whoswho1045|1045. Jenny M. Lin Chang 張美華 / 2016/05]]. No independent community or memoir material found — 紐約奧杜邦藝術家協會粉彩畫主任 remains the only role on record.
 - Disambiguation: other corpus hits for "Jenny Lin" refer to the pianist 林佳靜 ([[people/jenny-lin|Jenny Lin]]), a different person.
+- Re-verified 2026-10-07 (deepen-x slice 10051400-19): fresh ZH+EN grep across all five corpus dirs — hit set unchanged (artist13, whoswho1045, index only). No new facts; verified-saturated, SKIP stands.
 <!-- deepen-x 2026-09-25: re-scan — corpus hits remain only her own TAH entries (artist13, whoswho1045) + works/index listing. No memoir/community material; SKIP-with-reason, nothing new absorbable. -->
 <!-- deepen-x 2026-09-26 (slice 22): fresh ZH+EN grep re-confirmed hit set unchanged (artist13, whoswho1045, index only). No new facts; pianist 林佳靜 disambiguation stands. -->
 

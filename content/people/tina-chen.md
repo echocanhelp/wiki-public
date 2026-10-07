@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 # deepen-x 09232232-2: SKIP re-verified 2026-09-25 — 吳富子 hits = own whoswho1738 + index only; "Tina Chen" hits = actress in Almost Perfect (different person); nothing absorbable
 # deepen-x 09251039-31: SKIP re-verified 2026-09-26 — fresh grep: same hits only (own whoswho1738, works index, Almost Perfect actress); nothing absorbable
 ---
@@ -29,6 +29,8 @@ last_reviewed: 2026-10-01
 <!-- tah-tables:end -->
 
 Re-swept 2026-10-02 (slice 09261341-30, QA-verify): fresh ZH+EN grep of works/ + articles/ returns no corpus hits at all — own record + index only; verified-saturated, nothing absorbable.
+
+Re-swept 2026-10-07 (slice 10051400-19): fresh ZH+EN grep across all five corpus dirs — hits only own whoswho1738, works index, and the Almost Perfect actress (different person); verified-saturated, SKIP stands.
 
 ## Family
 
