@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-07
 ---
 # Susan Chuang (莊士晟)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - 2026-09-26 re-verified (deepen-x slice 18): fresh Susan Chuang grep again returns only the own Who's Who record — SKIP-with-reason: no memoir material to absorb.
 
 - 2026-10-02 re-verified (deepen-x slice 09261400-15, closed): fresh ZH+EN grep over works/ + articles/ returns only the own TAH record entry in works/index.md — SKIP-with-reason unchanged: no memoir material to absorb.
+- 2026-10-07 re-verified (deepen-x slice 10051948-25): 莊士晟/Susan Chuang grep returns only own record + index; substring 士晟 hits are 曾士晟 (unrelated suspect in a taiwanjustice.net news article, not this person) — SKIP-with-reason unchanged.
