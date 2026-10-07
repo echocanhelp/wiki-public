@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dr. Jen-Tzaw Huang (黃健造博士)
 
@@ -41,6 +41,8 @@ _No filled family fields on the TAH profile._
 - Corpus re-scan 2026-09-26 (slice 31): fresh ZH+EN greps of works+articles returned hit sets identical to prior deepens (159, 451 Lizard Rock, the taiwanjustice.net open letter); no new material, no conflicts.
 - Re-grep 2026-10-01 (re-verify, slice 09261200-29 re-run): identical hit set again — 159 + 451 Lizard Rock + the taiwanjustice.net 2018 open letter + works/index. Nothing new absorbable; the identity HOLD (UT-Houston biomedical Ph.D. vs the 黃健造(藥學) signatory on the 2018 open letter) remains unconfirmed and is deliberately not auto-merged. SKIP confirmed.
 - Re-grep 2026-10-01 (deepen-x slice 09261200-29): fresh ZH+EN grep of content/works + content/articles unchanged — 159 + 451 Lizard Rock + the taiwanjustice.net 2018 open letter + index lines only; the letter hit is the same signatory list already recorded above. Nothing new absorbable; identity HOLD stands. SKIP-with-reason.
+
+<!-- deepen-x 10051909-32: SKIP — fresh 2026-10-07 grep of all five corpus dirs: 黃健造/Jen-Tzaw/蜥蜴岩/Lizard hits = 159 + 451 Lizard Rock + the 2018 taiwanjustice.net 台大校友會 open letter (signatory 黃健造(藥學)) + index/source only. No new material. Identity HOLD (UT-Houston biomedical Ph.D. vs 藥學 signatory) remains unconfirmed, deliberately not auto-merged. -->
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jen-tzaw-huang/)
