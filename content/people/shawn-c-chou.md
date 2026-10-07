@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Shawn C. Chou (周正烜)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verified 2026-10-07 (deepen-x slice 10051400-14): fresh ZH+EN+surname grep across works/articles/sources/events/topics — hit set identical (#328, #577, source index only); surname hit 周正行 is a different person. Verified-saturated, SKIP.

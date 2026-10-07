@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Chang Kuo-hsin (張國鑫博士)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-26 覆核（deepen-x 09251023-25）：ZH+EN 再查 works/ + articles/，命中集不變（僅自身 TAH 檔案與 works/index），SKIP：無可吸收社群事蹟。
+- Re-verified 2026-10-07 (deepen-x slice 10051400-14): hit set unchanged (2011 campaign records 12/17 + own #821 + source index); 國鑫 surname pass adds nothing. Verified-saturated, SKIP.

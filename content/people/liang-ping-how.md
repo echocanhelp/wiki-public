@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Liang-Ping How
 
@@ -43,3 +43,4 @@ Corpus reviews 2026-09-19 and 2026-09-21 (deepen-x 09191200-6): fresh grep again
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-verified 2026-10-07 (deepen-x slice 10051400-14): fresh ZH+EN grep — same two bibliographic records (#428, #2103) plus source index only; 何 surname pass adds nothing. Verified-saturated, SKIP.
