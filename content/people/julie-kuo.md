@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Julie Kuo (郭瑞筠)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- SKIP re-verify (2026-10-07, deepen-x slice 10051400-9): fresh ZH+EN+surname grep of all five corpus dirs returned only own records [[works/taiwaneseamericanhistory-org/ff317|TAH #317]], [[works/taiwaneseamericanhistory-org/whoswho1524|TAH #1524]] and index; the two article matches are 郭瑞燦 (different person, false positive). Verified-saturated.
