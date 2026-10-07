@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dr. Hsing-Hua Sylvia Lin (林杏樺博士)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-26 覆核（deepen-x 09251023-25）：ZH+EN 再查 works/ + articles/，命中集不變（僅自身 TAH 檔案與 works/index），SKIP：無可吸收社群事蹟。
+- 2026-10-07 覆核（deepen-x 10051948-6）：五目錄（works/articles/sources/events/topics）ZH+EN+名字變體再查，命中集仍僅自身 TAH #2276 檔案、sources 頁與 works/index，無社群事蹟可吸收，SKIP（saturated）。

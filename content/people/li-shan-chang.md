@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Li-Shan Chang (張力山)
 
@@ -46,3 +46,4 @@ SKIP-with-reason (re-verified again 2026-09-25, slices incl. 09231300-1; origina
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-26 覆核（deepen-x 09251023-25）：ZH+EN 再查 works/ + articles/，命中集不變（僅自身 TAH 檔案與 works/index），SKIP：無可吸收社群事蹟。
+- 2026-10-07 覆核（deepen-x 10051948-6）：五目錄再查（張力山 / 力山 / Li-Shan Chang）。唯一非自身命中為「力山工業」（工具機廠商報導，與 artist 張力山無關）；無社群事蹟可吸收，SKIP（saturated）。

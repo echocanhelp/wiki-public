@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # J. C. Lin (林震泉)
 
@@ -66,3 +66,5 @@ verified-saturated.
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-verification (2026-10-07, slice 10051948-6): fresh five-dir greps (works/articles/sources/events/topics; 林震泉/震泉/J. C. Lin) returned only [[works/taiwaneseamericanhistory-org/whoswho1671|TAH #1671]], its sources page, and index rows — no third-party mention; verified-saturated.
