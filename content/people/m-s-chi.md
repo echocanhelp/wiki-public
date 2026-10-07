@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-07
 ---
 # M.S. Chi (紀敏雄博士)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-26 re-verified (deepen-x slice 18): fresh ZH+EN grep over works/ + articles/ returns only this own TAH record — SKIP-with-reason: no memoir material to absorb.
 - 2026-10-01 re-verified (deepen-x slice 09261400-15): fresh ZH+EN grep over works/ + articles/ again returns only the own TAH record entry in works/index.md — SKIP-with-reason unchanged.
+- 2026-10-07 re-verified (slice 10052158-18): fresh grep 紀敏雄/M.S. Chi/Min-Hsiung Chi over works+articles+sources+events+topics returns only own record 850 + index/source-hub rollups (substring 紀敏 hits are different people, e.g. Ko Min-Hsiung). Grep 台灣本土文化書局 / 台灣文化推廣協會 = zero corpus hits — no publisher-level material to absorb. Nothing new; SKIP-with-reason unchanged.

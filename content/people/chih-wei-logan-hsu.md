@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Chih-Wei Logan Hsu
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - Corpus record is bibliographic only (band B); no memoir text available for further absorb.
 - _Corpus re-check 2026-09-25 (Chih-Wei Logan Hsu / 許志威, works+articles): zero hits outside this page; the whoswho1373 record above remains the sole community record. Nothing new absorbable; no conflicts to hold._
 - _Corpus re-check 2026-09-26 (slice 09251039-12, 'Logan Hsu'/'許志威', works+articles): zero hits outside this page except the whoswho1373 record already linked; nothing new absorbable._
+- _Corpus re-check 2026-10-07 (slice 10052158-18): fresh grep Logan Hsu/Chih-Wei Hsu/許志威/志威 over works+articles+sources+events+topics returns only own record whoswho1373 + rollups; the sole 志威 prose hit is HK police officer 黃志威 in an unrelated taiwanjustice-net article. Band B bibliographic record remains the sole community record; SKIP-with-reason unchanged._
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chih-wei-logan-hsu/)
