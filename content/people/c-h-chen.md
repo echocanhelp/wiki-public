@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # C. H. Chen (陳初雄)
 
@@ -42,3 +42,5 @@ _No filled family fields on the TAH profile._
 # deepen-x re-verify 2026-10-01 (slice 09261300-20, run 18064)
 Grep (ZH+EN, works/+articles): 陳宜蓁/Yi-Chen Chen → own TAH records 244+501 + index only (already cited, no independent memoir material). 劉大強/Ta-Chiang Liu → own TAH #2122 + index only. 陳初雄/C. H. Chen → own #1734 + ourjourneys260 only (both already absorbed in Role in the Community). 徐紹欽/Paul Hsu → own #1320 + index only.
 RESULT: 0 deepened, 4 SKIP-with-reason (pages saturated at HEAD; nothing new absorbable in corpus).
+
+<!-- deepen-x 10051400-8: SKIP — fresh ZH+EN grep across all five corpus dirs (陳初雄/C. H. Chen): hits = own whoswho1734 + ourjourneys260 + index/source pages only; both records already absorbed in Role in the Community; verified-saturated. -->

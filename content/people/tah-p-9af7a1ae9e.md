@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # 陳金松
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09231200-18: SKIP — fresh ZH+EN grep of works/+articles/: only own TAH #223/#463 records; no external corpus coverage; HOLD (roles) stands. -->
 <!-- deepen-x 09250600-5: SKIP — fresh ZH+EN grep (陳金松/Jin Song Chen) of works/+articles/: hit set identical (own #223/#463 records + works/index.md only); nothing absorbable; HOLD (roles) stands. -->
 <!-- deepen-x 09261100-22: SKIP — fresh ZH+EN grep (陳金松/Jin Song Chen) of works/+articles/: hit set identical (own #223/#463 records + works/index.md only); no external corpus coverage; nothing absorbable; HOLD (roles) stands. -->
+<!-- deepen-x 10051400-8: SKIP — fresh ZH+EN grep across works/articles/sources/events/topics (陳金松/Jin Song Chen/Jinsong Chen): hit set identical (own #223/#463 + index + source page only); verified-saturated; HOLD (roles) stands. -->
