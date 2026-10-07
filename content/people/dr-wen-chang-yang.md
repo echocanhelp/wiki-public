@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-07
 ---
 # Dr. Wen-Chang Yang (楊文昌醫師)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09250317-28 re-grep 2026-09-25: fresh ZH+EN grep of works+articles returns only own-name records already wikilinked on this page (plus works index); no new third-party corpus material — verified saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 09251527-12 re-grep 2026-09-26: fresh ZH+EN grep of works+articles returns only own-name records already wikilinked on this page (plus works index); no new third-party corpus material — verified saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 09260854-31 re-grep 2026-09-30: fresh ZH+EN grep of works+articles returns only own TAH #2013 record, works index, and the already-HOLDed 2022 苗栗議員 楊文昌 press mention (different person); no third-party memoir material — verified saturated, SKIP content-deepen. -->
+<!-- deepen-x slice 10051909-16 re-grep 2026-10-07: fresh ZH+EN grep (楊文昌 / Wen-Chang Yang / 文昌醫師) across all five corpus dirs returns only own TAH #2013 record, sources index, and the already-HOLDed 2022 苗栗 councilor 楊文昌 press mention (Taiwan-based politician, different person). Verified-saturated; SKIP-no-new-facts. -->

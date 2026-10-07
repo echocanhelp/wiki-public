@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # J. C. Chen (陳進財)
 
@@ -42,3 +42,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10051909-16 re-grep 2026-10-07: fresh ZH+EN+surname grep (陳進財 / J. C. Chen / 進財) across works+articles+sources+events+topics returns only 許永華's memoir ourjourneys250, own TAH #1000 whoswho1000, and the already-HOLDed Rev. J. C. Cheng (鄭紀昭) record whos-who-2105 — all already cited. Verified-saturated; SKIP-no-new-facts. -->

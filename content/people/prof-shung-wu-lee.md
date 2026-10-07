@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-07
 ---
 # Prof. Shung-Wu Lee (李雄武教授)
 
@@ -51,3 +51,4 @@ TAH Foundation 於 2017-07-27 將其列入台美人 Who's Who 檔案並入檔 [[
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10051909-16 re-grep 2026-10-07: fresh ZH+EN+surname grep (李雄武 / Shung-Wu Lee / 雄武) across all five corpus dirs returns only own whos-who-1782 record + sources index; control-probed non-vacuous. No memoir, letter, or event mention elsewhere. Verified-saturated; SKIP-no-new-facts. -->
