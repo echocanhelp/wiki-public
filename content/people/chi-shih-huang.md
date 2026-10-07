@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Chi Shih Huang (黃及時)
 
@@ -41,8 +41,10 @@ last_reviewed: 2026-10-01
 - 2014-08 — At a Los Angeles forum on the Kaohsiung gas explosion (高雄氣爆) hosted by legislator 管碧玲, 黃及時 joined other overseas Taiwanese residents (僑民) urging the Kaohsiung city government to hold firm on relocating petrochemical industry out of the city, to press the central government for Kaohsiung's rights, and to legislate oversight of underground pipelines — recorded in [[articles/taiwanjustice-net/2022/20221204220110_2014_08_19_管碧玲立委高雄氣爆災變專題報告上-08172014大洛杉磯_ccbce02a3dc917ff|管碧玲立委高雄氣爆災變專題報告（大洛杉磯僑民座談）]].
 - Featured in the TAH Foundation Who's Who encyclopedia entry [[works/taiwaneseamericanhistory-org/whoswho1129|1129. Chi Shih Huang 黃及時 / 2016/07]] (2016-07-10).
 - Oral-history/video interview as 董事長: [[works/taiwaneseamericanhistory-org/videos52|52. 專訪黃及時董事長]] (2017-02-27).
+- Family corroboration 2026-10-06: eldest son Steven 黃文谷 holds his own corpus record — [[people/dr-steve-huang|Dr. Steve Huang 黃文谷醫師]] (TAH Who's Who; NYU dentist, San Marino Mayor/Councilman 2015-2019), whose page names 黃及時 as father. The family listing above (wife 林孟淑, children Steven/Gary/Gloria) is thus bidirectionally attested in the corpus.
 - Corpus re-grep 2026-09-25 (deepen-x slice 09231200-13): works/ and articles/ hit set identical to prior passes (own TAH record #1129, video interview #52, 管碧玲氣爆座談報告, works index); no new community-authored material to absorb (verified-saturated).
 - Re-verified 2026-10-01 (deepen-x slice 09261100-10): fresh whole-corpus grep of `works/` + `articles/` for 黃及時 / Chi Shih Huang confirms the hit set is closed — 4 substantive records only: his own TAH record #1129, the video interview #52, the 管碧玲 氣爆 座談 report, and `works/index.md`. The 氣爆 report's own `## Subjects` block lists him solely as a named 僑民 respondent ("演講後，黃及時等僑民也紛紛建言…"), i.e. group-level, already absorbed. No memoir names him individually. SKIP-with-reason: saturated — nothing new absorbable.
+- Re-verified 2026-10-06 (deepen-x slice 10051200-3): whole-tree ZH+EN grep adds only [[people/dr-steve-huang|dr-steve-huang]] (son's reciprocal family link, absorbed above) and the people index — works/articles/sources hit set unchanged. No new community-authored material.
 
 ## Sources
 - [TAH #1129 encyclopedia: 1129. Chi Shih Huang 黃及時 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1129/)
