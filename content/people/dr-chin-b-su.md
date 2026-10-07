@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dr. Chin B. Su (蘇成彬教授)
 
@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 - SKIP (deepen-x slice 09251031-9, 2026-09-26): fresh ZH+EN grep of content/works + content/articles returned only the hit set already absorbed by this page (own TAH record + index, plus previously cited works); nothing new absorbable.
 
 <!-- DEEPEN-X RECHECK 2026-10-01 (slice 09261300-3): corpus grep re-run (ZH+EN, works+articles) — hit set unchanged: own TAH bibliographic record + index only (Yeh: also Our Journey 343, already cited). SKIP stands; nothing new absorbable. -->
+
+<!-- DEEPEN-X RECHECK 2026-10-07 (slice 10051918-20): five-dir grep (works/articles/sources/events/topics) for 蘇成彬 / 成彬 / Chin B. Su variants — 成彬 appears only in own TAH #2275 record and works index; ourjourneys*-eng 成彬-looking hits were regex noise from "Chin...Su" patterns, exact 成彬 grep confirms zero corpus mentions. Verified-saturated; SKIP stands. -->
