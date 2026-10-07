@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Shang C. Chiou (邱祥竹醫師)
 <!-- deepen-x slice 09251054-8 re-verified 2026-09-26: SKIP — fresh ZH+EN grep of content/works + content/articles; hits are own TAH record page only (or false-positive TDA inside wayback archive_digest hashes), no absorbable memoir/community narrative. -->
@@ -33,6 +33,7 @@ last_reviewed: 2026-10-01
 - Profiled in the TA.org story corpus (band B, community historical record): [[works/taiwaneseamericanhistory-org/529-shang-c-chiou|529. Shang C. Chiou 邱祥竹 /2015/08]] (published 2015-08-13) and [[works/taiwaneseamericanhistory-org/621-shang-c-chiou-e9-82-b1-e7-a5-a5-e7-ab-b9-201509|621. Shang C. Chiou 邱祥竹 /2015/09]] (published 2015-09-19).
 - No narrative memoir text in the corpus beyond these bibliographic records; full text stays in the vault.
 - 語料復核 2026-09-25：works/articles 全庫僅命中 529 一筆書目（另有 621 書目頁存在）與 index 收錄列，無可吸收之回憶錄記述。
+- 2026-10-07 (deepen-x 10052007-20) 五目錄複核（邱祥竹 / Shang C. Chiou / 祥竹 substring）：命中仍僅 529 書目頁、works/index、sources registry；無新敘事材料。SKIP stands (verified-saturated).
 
 ## Family
 

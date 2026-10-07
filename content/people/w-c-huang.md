@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # W. C. Huang (黃維城)
 <!-- deepen-x slice 09251054-8 re-verified 2026-09-26: SKIP — fresh ZH+EN grep of content/works + content/articles; hits are own TAH record page only (or false-positive TDA inside wayback archive_digest hashes), no absorbable memoir/community narrative. -->
@@ -43,6 +43,7 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 - _record link: TAH encyclopedia entry 2084 (published 2018-03-28) is held in the corpus as community historical record; no memoir/article text beyond it._
 - 2026-09-25 corpus re-grep (slice 09240400-18): 黃維城 / W. C. Huang 僅命中自身書目頁 [[works/taiwaneseamericanhistory-org/whoswho2084|2084. W. C. Huang / 03-2018]] 與 works index，content/articles 無命中。SKIP (verified-saturated)。
+- 2026-10-07 (deepen-x 10052007-20) 五目錄複核（黃維城 / W. C. Huang / 維城 substring）：命中仍僅 whoswho2084、works/index、sources registry。SKIP stands (verified-saturated).
 
 ## Related Pages
 - [[works/taiwaneseamericanhistory-org/whoswho2084|2084. W. C. Huang 黃維城 / 03/2018]]
