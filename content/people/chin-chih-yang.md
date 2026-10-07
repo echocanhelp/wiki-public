@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Chin Chih Yang (楊金池)
 
@@ -28,6 +28,11 @@ last_reviewed: 2026-10-01
 - Profiled in the TAH encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho1591|1591. Chin Chih Yang 楊金池 / 2017/03]] (2017-03-31).
 - Corpus grep (ZH+EN 楊金池|Chin Chih Yang): hits limited to the own-record above and the works index (band B, no article text). SKIP — no memoir or movement material beyond the TAH profile.
 - Corpus re-swept 2026-09-26 (slice 09251039-21): fresh ZH+EN grep of content/works + content/articles again returns only own record [[works/taiwaneseamericanhistory-org/whoswho1591|TAH #1591]] and works/index rows. SKIP-with-reason stands.
+
+Deepen-x 10051948-27 (2026-10-07): the five-dir grep still resolves to the self-record only, but the vault web-archive (knowledge/web-archives/taiwaneseamericanhistory-org/posts/) carries two community mentions that earlier probes missed:
+
+- 2010 — as 知名的現代裝置藝術家, a headline 講員 at the 美東台灣人夏令會 (TACEC) in [[works/taiwaneseamericanhistory-org/tacec-2010|TACEC 2010]], described there as part of the 「文化與傳承」 track alongside documentary director 陳麗貴 and 作家 黃娟.
+- 2016 — listed among the exhibiting artists of the 台灣會館 contemporary-art show in [[works/taiwaneseamericanhistory-org/projects3-52|52. TAAC 2016 Art Benefit GALA 台美文藝協會藝術盛宴]], alongside 廖修平, 王湘靈, 孟祥璐 et al.
 
 
 <!-- tah-tables:start -->

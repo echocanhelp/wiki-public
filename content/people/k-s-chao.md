@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-07
 ---
 # K. S. Chao (趙坤山)
 
@@ -34,6 +34,12 @@ last_reviewed: 2026-10-02
 
 ## Role in the Community
 Name appears only in its own TAH encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1195|1195. K. S. Chao 趙坤山 / 2016/07]]. Fresh 2026-09-26 ZH+EN corpus greps of works/ and articles/ (slice 09251031-20) again found only the self-record plus the works index — no memoir or community mentions — career detail above remains sourced solely from the TAH profile (SKIP-with-reason; no absorbable community facts).
+
+Deepen-x 10051948-27 (2026-10-07): the five-dir grep still resolves to the self-record only, but the vault web-archive (knowledge/web-archives/taiwaneseamericanhistory-org/posts/) carries community material that earlier probes missed:
+
+- 1997 — elected 會長 of 聖路易台灣同鄉會 (TAA–St. Louis), listed in the association's chairmanship roll in [[works/taiwaneseamericanhistory-org/project-3-37|37. 聖路易台灣同鄉會簡介]] (location given there as 台中).
+- 2017 — as 北美洲台灣人醫師協會 (NATAA) 大紐約分會會長, one of the 大紐約區 community leaders signing the 海外台灣人聲援民視聯署書 in [[works/taiwaneseamericanhistory-org/related-tw-81|81. 海外台灣人聲援民視聯署書]], alongside 林尚勝 (大紐約區台灣同鄉會會長), 邱瑞惠 (TAAPRB 紐約分會會長) et al.
+- The 高醫留美校友會 history essay [[works/taiwaneseamericanhistory-org/history-kaohsiung-medical-university-america-alumni-association|高醫美國校友會歷史]] names him among the alumni "大家耳熟能詳" for academic leadership — "康乃爾放射治療趙坤山" — corroborating the Cornell/NewYork-Presbyterian radiation-oncology posts in the Employment table.
 
 ## Family
 
