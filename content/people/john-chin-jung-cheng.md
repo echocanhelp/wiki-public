@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-06
 ---
 # John Chin-Jung Cheng (鄭錦榮牧師)
 
@@ -45,6 +45,7 @@ last_reviewed: 2026-10-04
 - 複核（deepen-x 2026-09-22, slice 09211400-18）：re-grep（鄭錦榮 / John Chin-Jung Cheng, works+articles）hit set 不變 — #whos877、追念相簿 #114、Haydn〈創造〉回忆錄三項，均已吸收於 Role in the Community。維持 verified saturated。
 - 複核（deepen-x 2026-09-23, slice 09220900-14）：re-grep hit set 依然不變，全部已吸收 — 飽和，無新增社群材料。
 - 複核（deepen-x 2026-10-04, slice 09300507-4）：re-grep（鄭錦榮 / Chin-Jung Cheng, works+articles）hit set 不變 — #whos877、追念相簿 #114、Haydn〈創造〉回忆錄、index 四項，全部已吸收。飽和；SKIP-content。
+- 碰撞警示（deepen-x slice 10051340-11, 2026-10-06）：以「鄭夫人」grep 命中 2026-01 taiwanjustice-net 緬懷鄭寶鼎博士（Bob Cheng）一文中的「鄭夫人鄭錦雲女士」— 該鄭夫人係鄭寶鼎之妻，與本條鄭錦榮牧師之妻吳淑連無關；「鄭錦雲」與「鄭錦榮」亦僅一字相近，屬姓名相似碰撞，HOLD：永不合併、不得吸收進本條。見 [[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|斯人已逝 其德可追：緬懷鄭寶鼎博士]]。除此碰撞外 hit set 不變，維持飽和。
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/john-chin-jung-cheng/)

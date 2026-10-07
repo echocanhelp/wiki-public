@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # S. H. Chang (張舜華)
 
@@ -39,6 +39,7 @@ last_reviewed: 2026-10-01
 - Corpus check (2026-09-22): fresh grep for 張舜華 returns only the records already absorbed above — [[works/taiwaneseamericanhistory-org/ourjourneys160|160. NATWA 月曆]] memoir, her own encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1037|1037. S. H. Chang 張舜華]], and the 2018 台大校友連署 article — plus the works index. No new memoir material; no conflicts.
 - Verified saturated at this run (2026-10-01, deepen-x 10010315-14): fresh full-corpus ZH+EN grep found the husband memoir [[works/taiwaneseamericanhistory-org/ourjourneys238|238. 台灣學生創刊]] confirming her 美工 role (absorbed above); no other new material.
 - Verified-saturated re-check 2026-09-25 (deepen-x 09231100-5): fresh grep (張舜華/S. H. Chang) → only ourjourneys160, whoswho1037, and the 2018 連署 article already absorbed + works/index; no conflicts.
+- 碰撞警示（deepen-x slice 10051340-11, 2026-10-06）：以「SH Chang」grep 命中 [[works/taiwaneseamerican-org/the-fat-and-the-furious-part-i|The Fat and the Furious, Part I]] 的署名作者「By SH Chang」——該署名者自述為 Illinois 大學芝加哥郊區長大的在讀學生，與本條（台南市、台大歷史 1977/1980、加州）不符，屬姓名縮寫碰撞，HOLD：永不合併、不得吸收。除此碰撞外全語料 ZH+EN re-grep hit set 不變，維持飽和。
 
 ## Sources
 - [TAH #1037 encyclopedia: 1037. S. H. Chang 張舜華 /2016/05](https://taiwaneseamericanhistory.org/whoswho1037/)
