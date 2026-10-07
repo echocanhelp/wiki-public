@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Richard Pan (潘君達博士)
 
@@ -35,6 +35,7 @@ Member, Committee on Agriculture, Committee on Appropriations, and Committee on 
 - Re-verified 2026-09-22 (slice 09210900-5): fresh grep of content/works + content/articles returned only his own archive record #127 and the works index — nothing new absorbable; skip stance stands.
 - Re-verified 2026-09-25 (slice 09231300-6): fresh grep returns only record #127 and the works index — nothing new absorbable.
 - Re-verified 2026-09-25 (slice 09250600-27): fresh ZH+EN grep returns only record #127 and the works index — skip stance stands.
+- Re-verified 2026-10-07 (deepen-x slice 10051948-5): fresh ZH+EN+surname greps across all five corpus dirs (works/articles/sources/events/topics) — hit set unchanged, only own TAH record #127 + works/index + source page. Surname hits are other people (Ta-ho Pan/FAPA staff, George C. Pan, Emily X.R. Pan, Pan Shih-wei). SKIP confirmed, nothing absorbable.
 
 ## Family
 

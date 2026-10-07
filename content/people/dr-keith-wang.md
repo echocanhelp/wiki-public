@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 <!-- deepen-x slice 09201503-26: verified-saturated 2026-09-21 — re-grepped works+articles for 王振濃/Keith Wang: hits are only own TAH #2029 record + index page; SKIP-with-reason stands, nothing absorbable. -->
 # Dr. Keith Wang (王振濃博士)
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 
 - Corpus re-grep 2026-09-25 (deepen-x 09231300-20): hit set unchanged (own TAH record + index only); no new community facts absorbable.
 - 2026-09-26 覆核（deepen-x 09251023-25）：ZH+EN 再查 works/ + articles/，命中集不變（僅自身 TAH 檔案與 works/index），SKIP：無可吸收社群事蹟。
+- 2026-10-07 覆核（deepen-x slice 10051948-5）：五目錄（works/articles/sources/events/topics）ZH+EN+拼音變體重查，命中集不變（僅自身 TAH #2029 檔案與 works/index），SKIP：無可吸收社群事蹟。
