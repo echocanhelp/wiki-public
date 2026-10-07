@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Perry B. Shieh (謝泊怡)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 09251031-3 (2026-09-26): fresh ZH+EN grep of works+articles -> hit set identical to existing links (own TAH bibliographic record + ourjourneys212 via father 謝清志; index lines only). No new absorbable community facts; SKIP re-verified. -->
+- Corpus re-grep 2026-10-06 (slice 10051314-3): fresh grep of 謝泊怡/Perry Shieh/泊怡 across works/articles/sources/events/topics → hit set unchanged (own TAH #1581, ourjourneys212 via father 謝清志, 2023-TAHs publication roster, index) — all already linked. Surname sweep 謝泊 found only [[works/taiwaneseamericanhistory-org/124-rosalyne-formosa-shieh-e8-ac-9d-e6-b3-8a-e6-ac-a3|TAH #124 Rosalyne Formosa Shieh 謝泊欣]] — different person (泊欣 vs 泊怡); not a match. Verified-saturated; SKIP.

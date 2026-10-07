@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # R. C. Chen (陳瑞珠)
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus re-grep 2026-10-06 (slice 10051314-3): fresh grep of 陳瑞珠/"R. C. Chen"/瑞珠 across works/articles/sources/events/topics → hit set unchanged (TAC-L roster #186 ZH+EN, own TAH #1148, index) — all already absorbed. One near-miss checked: a 2024 taiwanjustice.net art-roster essay mentions "林瑞珠" (painter 林玉山's daughter, wife of 林顯宗) — different surname, different person; not a match. Verified-saturated; SKIP.

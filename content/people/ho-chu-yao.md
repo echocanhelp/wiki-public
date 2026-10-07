@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Ho Chu Yao (姚張和珠)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-10-01
 
 - Corpus re-grep 2026-09-25 (deepen-x 09231300-20): hit set unchanged (own TAH record + index only); 姚慶章 couple links already recorded; no new community facts absorbable.
 - Corpus re-grep 2026-09-25 (deepen-x 09250600-29): hit set unchanged (own TAH #304 + index only); 姚慶章 couple links already recorded; nothing new absorbable.
+- Corpus re-grep 2026-10-06 (slice 10051314-3): fresh grep of 姚張和珠/Ho Chu Yao/和珠 across works/articles/sources/events/topics → hit set unchanged (own TAH #304 + index). Two sweep artifacts checked and dismissed: 車路墘 hits are a poem place-name note (保安舊地名, unrelated); 珠海 hits in news articles are the city Zhuhai, not 和珠. Verified-saturated; SKIP.
