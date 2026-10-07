@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-07
 ---
 # Dr. Chih-Ming Chen (陳志明博士)
 
@@ -55,3 +55,4 @@ Accomplishment
 
 <!-- deepen-x slice 09250400-3 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already linked/absorbed above (plus works/index rollup); nothing new absorbable; no conflicts. SKIP-with-reason (verified saturated). -->
 <!-- deepen-x slice 09251527-18 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/+articles/ returns only the records already linked/absorbed in Role in the Community (plus works/index rollup); no new corpus material, no conflicts to hold. -->
+<!-- deepen-x slice 10051909-18 (2026-10-07): SKIP re-verified — fresh grep (陳志明 / Chih-Ming Chen) across works/ articles/ sources/ events/ topics/ returns only the hit set already cited above (whos-who-1938, ourjourneys219 HOLD, taiwanjustice 陳志明 articles = different official) plus whoswho1475 (false positive: 何志明, not this person) and index rollups. No new corpus material since 2026-09-20 file dates; verified-saturated. -->

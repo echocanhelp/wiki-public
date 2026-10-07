@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # H. Cristina Chen-Oster (陳慧蓉)
 
@@ -53,3 +53,4 @@ H. Cristina Chen-Oster 陳慧蓉 – History of Taiwanese American (T.A. Archive
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-26 (slice 09251023-14): hit set unchanged — only own record [[works/taiwaneseamericanhistory-org/284-h-cristina-chen-oster-e9-99-b3-e6-85-a7-e8-93-89201502|TAH #284]] + works index. SKIP-with-reason: no new corpus material; father 陳重光 attribution remains HOLD.
 - Corpus re-grep 2026-10-01 (slice 09260900-15): fresh grep (陳慧蓉 / Cristina Chen-Oster) across works/ + articles/ returns only the own-record and index rows already cited. SKIP: verified-saturated, no new corpus material; father 陳重光 identity conflict remains HOLD.
+- Corpus re-grep 2026-10-07 (slice 10051909-18): fresh grep (陳慧蓉 / Cristina Chen / Chen-Oster) across works/ articles/ sources/ events/ topics/ returns only own record [[works/taiwaneseamericanhistory-org/284-h-cristina-chen-oster-e9-99-b3-e6-85-a7-e8-93-89201502|TAH #284]] + index/source rollups. Verified-saturated; father 陳重光 identity conflict remains HOLD.
