@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Chih-Wei Hu (胡智為)
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-26 (slice 09251047-3): fresh ZH+EN grep of works/ and articles/ returned only the own TAH record, the works index, and previously-noted mentions (incl. the Marina Lu 盧雅文 name-collision essay) — nothing new absorbable; page held at prior state (SKIP-deepened).
 - Corpus re-grep 2026-10-01 (slice 09261341-11): fresh ZH+EN grep of works/ and articles/ again returned only the own record [[works/taiwaneseamericanhistory-org/whos-who-1746-chih-wei-hu|1746]] and the works index entry — no community-organizing material; SKIP-deepened, no conflicts found.
+- Re-grep 2026-10-07 (deepen-x slice 10051918-28): five-dir grep (works/articles/sources/events/topics, ZH+EN+surname) returned only own TAH #1746 record + index row. Substring hit 胡智 resolves to 胡智博 (Centrum Communications / AltiGen, Our Journeys #19) — a different person, not absorbed. Verified-saturated, SKIP stands.
