@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Tom Thomas Shih (石聰賢)
 
@@ -61,3 +61,4 @@ Corpus re-check (deepen-x 09231000-12, 2026-09-25): fresh grep of works/ + artic
 Corpus re-check (deepen-x 09250317-24, 2026-09-25): fresh grep (Tom Thomas Shih / 石聰賢) returns only own entry #1877 + works index — verified-saturated, nothing new absorbable.
 
 Corpus re-check (deepen-x 09251527-14, 2026-09-26): fresh grep (Tom Thomas Shih / 石聰賢) returns only own entry #1877 + works index — verified-saturated, nothing new absorbable.
+Corpus re-check (deepen-x 10051909-25, 2026-10-07): fresh ZH+EN grep across works/articles/sources/events/topics returns only own entry #1877 + works index + sources cross-link — verified-saturated, nothing new absorbable.
