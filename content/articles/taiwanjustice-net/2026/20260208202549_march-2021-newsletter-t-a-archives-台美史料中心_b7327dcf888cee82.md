@@ -33,3 +33,4 @@ There are 31 new subjects collected in February and the total posts are 9521.
 - [[people/miaw-shang-su-lin|蘇妙香]] — mentioned in this record
 - [[people/edgar-chun-yi-lin|林俊義]] — mentioned in this record
 
+<!-- TJJ-A10060400-14: verified 2026-10-07 — Subjects links re-checked vs 正文: yung-hwa-hsu（許永華撰由陳文成紀念基金會創立談起見於正文）、adrian-lin/miaw-shang-su-lin（Ken Lee「不怕死的病西施」蘇妙香與林宣緒Adrian Lin婚事記述見於正文）、kin-ko（柯金寅撰緬懷楊教授國雄兄見於正文）、edgar-chun-yi-lin（林俊義Edgar Lin活出淋漓盡致的生命自述見於正文）均真實提及，無錯鏈、無虛鏈；楊國雄見於正文但未列subject；dated facts 已在庫 — saturated. -->
