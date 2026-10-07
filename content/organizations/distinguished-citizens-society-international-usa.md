@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-06
 ---
 # Distinguished Citizens Society International USA
 
@@ -25,6 +25,7 @@ last_reviewed: 2026-09-26
 - 南加分會見 [[organizations/distinguished-citizens-society-international-southern-california|國際傑人會南加分會]]。
 - SKIP注記： corpus 內無針對「美國總會」本身的獨立紀錄，僅有上述體系性旁證；不自動擴展美國總會的歷史。
 - Re-verified 2026-09-24 (deepen-x slice 09230317-28) and 2026-09-25 (slice 09240400-17): fresh corpus grep (傑人會/Distinguished Citizens Society) returns only the absorbed 德國總會 Heidelberg article, the Taiwan Center group-members listing, and this page's siblings — no new USA-headquarters material; SKIP stands. Re-grep 2026-09-26 (slice 09251023-22): only the Heidelberg article — SKIP stands.
+- Re-verified 2026-10-06 (deepen-x slice 10051200-7): fresh corpus grep (國際傑人會/Distinguished Citizens Society) across works/articles/sources/events/topics returns only the absorbed 德國總會 Heidelberg article — no USA-headquarters material; SKIP stands.
 
 ## Source Notes
 

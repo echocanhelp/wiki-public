@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 reviewed_by_slice: deepen-x-09251400-17
 ---
 # Pamela Hung (洪聚佐)
@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - Signed the taiwaneseamerican.org community response to Pew Research reports hiding Taiwanese identity ("We made it count. Now tell our stories."), listed among the statement's Taiwanese American signers ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew response statement]]).
 - Community leadership recorded in the TAH profile: TAP-Boston President (2015–2017), TACL President (2017–2019), ITASA board member (2012–present) — see [[works/taiwaneseamericanhistory-org/whos-who-2235-pamela-hung|TAH Who's Who #2235]].
 - Corpus re-verified 2026-09-22 (deepen-x slice 09211507-18), 2026-09-24 (slice 09230400-27), 2026-09-25 (slice 09240800-31), and 2026-09-26 (slice 09251400-17): grep (洪聚佐|Pamela Hung) across works/ + articles/ returns only the own TAH #2235 record, the index row, and the Pew response statement (already wikilinked above; her signer entry confirmed verbatim) — no memoir material; page remains saturated.
+- Re-verified 2026-10-06 (deepen-x slice 10051200-7): fresh ZH+EN grep across works/articles/sources/events/topics returns the same hit set (whos-who-2235, index row, Pew response statement, sources record) — all facts already absorbed, nothing new; saturated.
 
 ## Sources
 - [TAH #2235 encyclopedia: 2235. Pamela Hung 洪聚佐](https://taiwaneseamericanhistory.org/whos-who-2235-pamela-hung/)
