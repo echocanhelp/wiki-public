@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Katherine Jui Chang (張瑞佩)
 
@@ -42,3 +42,4 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whos-katherine-jui-chang|1970. Katherine Jui Chang 張瑞佩 /12/2017]] — TAH 百科紀錄
 - 2026-09-25 re-sweep (slice 09232232-4): fresh ZH+EN grep — hits are only own record [[works/taiwaneseamericanhistory-org/whos-katherine-jui-chang|1970]] + works/index; nothing absorbable; SKIP-deepen stands.
 <!-- DEEPEN-X SKIP 2026-09-26: corpus re-grep (張瑞佩 / Katherine Jui Chang, works+articles) again returned only own TAH #1970 record + index. Nothing absorbable. -->
+<!-- DEEPEN-X SKIP 2026-10-07 (slice 10052007-1): fresh five-dir grep (ZH+EN+given-name 瑞佩) — hits are own record + index + a false positive (瑞佩林 = Sotheby's auctioneer Benoit Repellin in a taiwanjustice diamond article). Verified-saturated; SKIP stands. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Chao-Hsiung Hsu (許昭雄醫師)
 
@@ -49,3 +49,4 @@ last_reviewed: 2026-10-01
 <!-- DEEPEN-X SKIP 2026-09-21: corpus re-grep (許昭雄 / Chao-Hsiung Hsu, works+articles) returned only own TAHS #627 story record (band B, bibliographic) + index entry. No memoir/community records beyond existing Role section; nothing absorbable. -->
 <!-- DEEPEN-X SKIP 2026-09-25: corpus re-grep (許昭雄 / Chao-Hsiung Hsu, works+articles) again returned only own TAHS #627 record + index. Still nothing absorbable. -->
 <!-- DEEPEN-X SKIP 2026-09-26: corpus re-grep (許昭雄 / Chao-Hsiung Hsu, works+articles) again returned only own TAHS #627 record + index. Nothing absorbable. -->
+<!-- DEEPEN-X SKIP 2026-10-07 (slice 10052007-1): fresh five-dir grep (ZH+EN+surname-only 昭雄 probe) — substring hits are homonyms: 阮昭雄 (DPP legislator, taiwanjustice articles) and 楊昭雄 (NTU med dean, ourjourneys74). No 許昭雄 material beyond own #627 record. Verified-saturated; SKIP stands. -->
