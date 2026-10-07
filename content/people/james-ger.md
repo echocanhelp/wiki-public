@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # James Ger (葛原隆醫師)
 
@@ -40,6 +40,7 @@ last_reviewed: 2026-10-01
 Ger and his wife 吳瑩瑛 (Janice Ger) contributed memoir writing to the TA.org story corpus:
 - [[works/taiwaneseamericanhistory-org/625-e6-99-9a-e9-a2-a8-e7-bf-92-e7-bf-92-e6-9c-a8-e9-95-b7-e9-9d-92-e8-91-9b-e5-8|625. 晚風習習木長青 / 葛原隆、吳瑩瑛 / 2013-10 / Life 生活]] — a joint life-memoir essay under his own byline.
 - [[works/taiwaneseamericanhistory-org/385-james-ger-e8-91-9b-e5-8e-9f-e9-9a-86201504|385. James Ger 葛原隆 / 2015-04]] — his own published piece in the corpus.
+- [[works/taiwaneseamericanhistory-org/386-janice-ger-e5-90-b3-e7-91-a9-e7-91-9b201504|386. Janice Ger 吳瑩瑛 / 2015-04]] — wife Janice Ger's own bylined piece, published the same day (2015-04-27) as his #385.
 - [[works/taiwaneseamericanhistory-org/625-e6-99-9a-e9-a2-a8-e7-bf-92-e7-bf-92-e6-9c-a8-e9-95-b7-e9-9d-92-e8-91-9b-e5-8|晚風習習木長青]] places him in the Jiyi (集集) → physician-in-America generation that also wrote art (core roles: physician, artist).
 
 The corpus holds these as band-B community records (full text stays in the vault); no third-party memoir mentions of Ger were found beyond his own bylines this pass. A separate band-B memoir under his wife's name — [[works/taiwaneseamericanhistory-org/mystories236|236. 父親的國畫之路 / 吳瑩瑛 / 2015-04]] — shares the byline 吳瑩瑛 with the #625 co-author; identity with [[people/janice-ger|Janice Ger]] is plausible but HOLD (same name ≠ verified same person, no auto-merge).
@@ -55,3 +56,5 @@ Re-verified 2026-09-25 (deepen-x slice 09250400-10): identical hit set (own-byli
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 Re-verified 2026-09-26 (deepen-x slice 09252123-8): identical hit set (own-bylines #625, #385 + works index) — corpus-saturated, SKIP.
+
+<!-- deepen-x slice 10051918-2 (2026-10-07): deepened — added corpus link 386. Janice Ger 吳瑩瑛 (2015-04-27, same-day publication as his #385), previously uncited in this page; grep otherwise confirms own-bylines-only footprint (#625, #385, #386, mystories236 + index). -->

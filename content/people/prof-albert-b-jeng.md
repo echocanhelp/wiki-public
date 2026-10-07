@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Prof. Albert B. Jeng (鄭博仁教授)
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10051918-2 (2026-10-07): verified-saturated — exact-match 鄭博仁 grep across all five corpus dirs returns only the already-cited pages (our-journeys-350 festschrift credit, own whos-who-2156 record, TJJ ITPC Irvine lecture article) + index; surname-only hits (Judy/Y.C./Cherie Jeng, 小林博仁) are distinct people; no new absorbable facts. -->
