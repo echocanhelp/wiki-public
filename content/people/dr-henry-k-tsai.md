@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dr. Henry K. Tsai
 
@@ -45,3 +45,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whos-who-2092-henry-k-tsai|TAH #2092: Dr. Henry K. Tsai]]
+
+> SKIP re-check (deepen-x 10051918-31, 2026-10-07): fresh grep across all five corpus dirs (Henry K. Tsai + variants) returned only own TAH #2092 record + index rows; other Tsai/Sai names in corpus (Tron Rong Tsai, J. Y. Tsai, Ho-Chie Tsai, Susan Shu Ai Tsai) are different people. Verified-saturated.
