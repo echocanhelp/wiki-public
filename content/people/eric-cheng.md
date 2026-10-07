@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Eric Cheng (鄭晧)
 
@@ -55,3 +55,5 @@ Corpus records for 鄭晧 are limited to his own TAH encyclopedia entry, so no i
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Corpus re-grep 2026-09-25 (deepen-x 09231300-20) and 2026-09-26 (slice 09251023-26): hit set unchanged (own TAH record + index only); no new community facts absorbable.
+- 2026-10-06 re-grep (slice 10051200-11): ZH+EN grep across all corpus dirs still returns only his own TAH record, the works index, and the source-hub listing — no independent community/corpus record names him.
+- Reconciled with the family layer: his father's vault page [[people/dr-edward-cheng||Dr. Edward Cheng 鄭德昌]] lists him as son per the same TAH record, and the father's own encyclopedia record sits in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-347-edward-cheng|347. Dr. Edward Cheng 鄭德昌博士]].

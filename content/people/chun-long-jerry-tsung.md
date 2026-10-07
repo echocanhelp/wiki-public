@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Chun Long Jerry Tsung (曾俊隆)
 
@@ -42,6 +42,7 @@ Chun Long (Jerry) Tsung 曾俊隆 – History of Taiwanese American (T.A. Archiv
 - His Who's Who record (#1462, 2017-01) is itself in the corpus ([[works/taiwaneseamericanhistory-org/whoswho1462|1462. Chun Long (Jerry) Tsung 曾俊隆]]).
 - 2026-09-26 re-check: fresh corpus grep matched only ourjourneys265 (already absorbed above), his own #1462 record, and the works index — no new community material.
 - 2026-10-01 re-check (slice 09261341-26): grep '曾俊隆' / 'Jerry Tsung' across works/ and articles/ — zero hits. Nothing new absorbable.
+- 2026-10-06 re-grep (slice 10051200-11): hits = ourjourneys265 (already absorbed above), his own #1462 record, the works index, and [[works/taiwaneseamericanhistory-org/whoswho1464|1464. Patricia Anne Tsung 曾毓安 / 2017/01]] — his daughter Patricia Anne Tsung 曾毓安 holds her own Who's Who record in the corpus, consistent with the Family section above; her page [[people/patricia-anne-tsung||Patricia Anne Tsung]] links back to him as father. No other community material.
 
 ## Sources
 - [TAH #1462 encyclopedia: 1462. Chun Long (Jerry) Tsung 曾俊隆 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1462/)

@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-06
 ---
 # Taiwan Hakka Language System
 
@@ -28,6 +28,7 @@ last_reviewed: 2026-09-26
 - 2026-09-21 re-sweep: fresh grep confirms zero hits for the org name; near-miss hits (客語文 in a 2025 TJJ literature-event article, tk-song-2010) are the generic term 客語 within a 本土語文 curriculum phrase, not this org — nothing absorbable. SKIP-deepen stands.
 - 2026-09-25 re-sweep (slice 09232232-4): fresh ZH+EN grep of works/ + articles/ — zero corpus hits; SKIP-deepen stands.
 - 2026-09-26 re-sweep (slice 09251047-12): fresh ZH+EN grep of works/ + articles/ — zero corpus hits again; SKIP-deepen stands.
+- 2026-10-06 re-sweep (slice 10051200-11): fresh ZH+EN grep across all corpus dirs (works/articles/sources/events/topics) — zero hits; SKIP-deepen stands.
 
 ## Related Pages
 
