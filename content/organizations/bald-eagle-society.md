@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Bald Eagle Society (白首老鷹社)
 
@@ -34,3 +34,5 @@ Bald Eagle Society is a community organization founded in 2014 in Southern Calif
 > SKIP re-check (deepen-x 09250600-23, 2026-09-25): fresh ZH+EN grep — hit set unchanged (own record + index only); SKIP stands, verified-saturated.
 
 > SKIP re-check (deepen-x 09261200-16, 2026-10-01): fresh ZH+EN grep of works+articles — hit set unchanged (own record + index only); no absorbable material, SKIP stands, verified-saturated.
+
+> SKIP re-check (deepen-x 10052158-12, 2026-10-07): five-dir grep (works/articles/sources/events/topics) for 白首老鷹/Bald Eagle — hits are own work record, works/index, sources index, plus one false positive (bald eagle = the bird, in a taiwanjustice-net fraud-doc interview). No community/memoir material. SKIP stands, verified-saturated.
