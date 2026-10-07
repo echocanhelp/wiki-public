@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Eric Ling
 
@@ -36,6 +36,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Recorded in the TAH Foundation Who's Who corpus as record 1604 (Eric Ling, UCSD 學士、Loyola Law School JD, 影視商務法務), published 2017-04-14: [[works/taiwaneseamericanhistory-org/whoswho1604|1604. Eric Ling / 2017/04]]. No other corpus mentions found — no memoir/journal material to absorb; TAH profile fields above are the sole sourced facts (re-verified 2026-09-26: fresh greps returned only this own record's index entry — SKIP).
+- Corpus sweep 2026-10-07 (slice 10052045-19): fresh five-dir greps (Eric Ling exact; Ling-substring hits are unrelated namesakes — Evan Ling, Margaretta Wan-Ling Lin, Sie Ling Chiang, Ling-chen Lin) — verified-saturated, nothing to absorb.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/eric-ling/)
