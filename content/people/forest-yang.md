@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Forest Yang (楊舜惠)
 
@@ -35,6 +35,7 @@ Political Officer
 
 ## Role in the Community
 - Corpus scan 2026-09-22 (re-verified, slice 09210906-4; again 2026-09-25, slice 09231500-19; again 2026-09-26, slice 09251047-15): the only corpus record naming him is his own TAH directory entry ([[works/taiwaneseamericanhistory-org/whoswo1786|TAH #1786]], a bibliographic record already cited below). No memoir or community-history material found — nothing absorbable.
+- Re-scan 2026-10-07 (slice 10052007-30): five-dir grep (works/articles/sources/events/topics) for Forest Yang / 楊舜惠 / 舜惠 returns only his own record, the works index, and 楊嘉猷's memoir 「咱的故鄉 咱的故事」 — where 舜惠 is the author's eldest daughter (b. ~1965), a different person, NOT this Forest Yang. Disambiguation noted to prevent future false-positive absorption. Still nothing absorbable.
 
 ## Family
 
