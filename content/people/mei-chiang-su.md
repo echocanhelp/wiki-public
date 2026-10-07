@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Mei Chiang Su (江美惠)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09231200-6: re-verify 2026-09-25 — fresh ZH+EN grep: own whos-who-1754 record + index digest only; SKIP content-deepen. -->
 <!-- deepen-x 09250500-28: re-verify 2026-09-25 — fresh ZH+EN grep returned identical hit set (own whos-who-1754 record + works index); no new material; SKIP content-deepen. -->
 <!-- deepen-x 09261100-23: re-verify 2026-10-01 — fresh full-corpus ZH+EN grep of content/works + content/articles: hit set identical to prior passes (own TAH records + works index; other-name matches are different people). Verified corpus-saturated; no new absorbable material. SKIP content-deepen. -->
+<!-- deepen-x 10051400-32: re-verify 2026-10-07 — fresh ZH+EN grep (江美惠 / Mei Chiang Su) across all five corpus dirs: hit set identical to prior passes (own whos-who-1754 record + works/sources index rows only). Verified-saturated, SKIP content-deepen. -->
