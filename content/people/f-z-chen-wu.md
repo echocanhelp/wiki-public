@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # F. Z. Chen Wu (吳陳芳容醫師)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-10-01
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 > SKIP re-check (deepen-x 09231300-28, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only own TAH record + works index — no community/memoir material to absorb.
 > SKIP re-check (deepen-x 09250600-30, 2026-09-25): fresh ZH+EN grep returned hit set identical to prior deepen records ([[works/taiwaneseamericanhistory-org/whoswho1348|TAH #1348]] + works index) — saturated, nothing new to absorb.
+> SKIP re-check (deepen-x slice 10051400-31, 2026-10-07): fresh grep for 吳陳芳容/F. Z. Chen Wu/芳容 across works/articles/sources/events/topics returned only own record [[works/taiwaneseamericanhistory-org/whoswho1348|TAH #1348]], works index, and source page — verified-saturated, nothing absorbable.
