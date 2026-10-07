@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-06
 ---
 # Taiwan Benevolent Association of California
 
@@ -25,6 +25,7 @@ last_reviewed: 2026-09-30
   - A second corpus copy of the same 聯合聲明 (archived 2025-11-08, publisher 楊嘉猷) preserves the full three-point statement text and the complete list of 共同發起單位/共同發起人, with 加州台灣同鄉聯誼會 among the co-initiators: [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|(second corpus copy, full statement text)]].
 - Corpus re-grep 2026-09-22 (加州台灣同鄉聯誼會 / Taiwan Benevolent Association of California): the only corpus hits are the two 聯合聲明 copies already absorbed above (co-initiator listing, full 共同發起單位/共同發起人 rosters); no new material. Re-confirmed slice-09220800-26 (fresh grep, same two hits only). Re-verified 2026-09-24 (slice 09230317-25): fresh grep 加州台灣同鄉聯誼會 / Taiwan Benevolent Association returned the same two 聯合聲明 copies only, both absorbed above — SKIP: no new corpus material. Re-verified 2026-09-25 (slice 09240317-30): fresh grep again returned the same two 聯合聲明 copies only — SKIP: no new corpus material. Re-verified 2026-09-25 (slice 09250800-28): fresh grep returned the same two 聯合聲明 copies only — SKIP: no new corpus material.
 - Disambiguation note: the 1989 magazine record [[works/taiwaneseamericanhistory-org/766-e5-8c-97-e5-8a-a0-e5-b7-9e-e5-8f-b0-e7-81-a3-e7-a4-be-e5-8d-80-e8-81-af-e5-9|766. 北加州台灣社區聯合通訊 第一册第一期/北加州台灣同鄉聯合會/1989/01]] names a **different organization** (北加州台灣同鄉聯合會) — not absorbed here.
+- Corpus re-verified 2026-10-06 (slice 10051200-22): fresh grep 加州台灣同鄉聯誼會 / 'Taiwan Benevolent Association' across works/articles/sources/events/topics returns only the two 聯合聲明 copies already absorbed above. Other sweep hits are different organizations and correctly NOT absorbed: 全美台灣同鄉聯誼會 (1978 KMT-formed rival, named in our-journeys-378), 北加州台灣同鄉聯合會 NCFF (our-journeys-357), and generic 'Benevolent Association' references (Chinese Consolidated Benevolent Association in ourjourneys9-eng; Taiwanese Hakka Benevolent Association of the East Coast in ourjourneys169-eng). SKIP — no new corpus material.
 
 ## Source Notes
 

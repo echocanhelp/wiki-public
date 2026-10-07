@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Sien-Mo Lin (林顯模)
 
@@ -36,6 +36,7 @@ TAH Foundation's archive carries three community records on Lin: the artist prof
 - Corpus re-grep 2026-09-23 (slice 09221400-32): fresh grep of works/articles returns only the records already wikilinked/absorbed above — no new memoir material. Verified saturated; SKIP-content.
 - Corpus re-grep 2026-09-25 (slice 09230900-26): same three records (artist5, 353 林顯模畫集, whoswho1103). Verified saturated; SKIP-content.
 - Corpus re-grep 2026-10-01 (slice 09260900-21): fresh ZH+EN grep 林顯模/Sien-Mo Lin/SAM LIN over works/ + articles/ returns only the three records already wikilinked above plus the works index — no new memoir material. Verified saturated; SKIP-content.
+- Corpus re-grep 2026-10-06 (slice 10051200-22): fresh ZH+EN grep 林顯模/Sien-Mo Lin/SAM LIN plus context sweeps (川端美專, 省展評審, Simplified 林显模) across works/articles/sources/events/topics returns only artist5, 353 畫集, whoswho1103 + the works index. The 川端 hit in ourjourneys256 is an unrelated painter roster entry (李朝進), not Lin. No new memoir material. Verified saturated; SKIP-content.
 
 ## Family
 
