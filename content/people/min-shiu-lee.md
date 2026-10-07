@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Min-Shiu Lee (李敏修博士)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-10-01
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09251023-32 2026-09-26: fresh ZH+EN grep works/+articles/ — hit set identical to already-absorbed records; no new corpus material. SKIP stands. -->
+<!-- deepen-x slice 10051948-10 2026-10-07: fresh five-dir grep (works/articles/sources/events/topics) for 李敏修 / Min-Shiu Lee + family-name variants (蘇妍媚/李達俐/李達偉) — only his own TAH #237 record + works index + source hub. Verified saturated, SKIP stands. -->

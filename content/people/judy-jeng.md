@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Judy Jeng (洪秀芬)
 
@@ -50,3 +50,5 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10051948-10 2026-10-07: fresh five-dir grep (works/articles/sources/events/topics) for 洪秀芬 / Judy Jeng — only her own TAH #104 record + works index + source hub. Surname-only sweep 'Jeng' hits Y.C./Cherie/Raymond/Rhoda Jeng records, none reference her. Verified saturated, SKIP stands. -->
