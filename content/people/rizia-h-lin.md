@@ -61,3 +61,5 @@ last_reviewed: 2026-10-07
 <!-- deepen-x slice 09251527-11 re-grep 2026-09-26: fresh ZH+EN grep (洪文鳳/Rizia) of works+articles returns only own TAH #317/#694 records + works index; no third-party memoir mentions. Verified saturated; SKIP-no-new-facts. -->
 
 <!-- deepen-x slice 09260900-1 (2026-09-30): re-verified — fresh grep (洪文鳳/Rizia) returns only own TAH #317/#694 records + index listings; no third-party corpus mentions. Verified saturated; SKIP. -->
+
+<!-- deepen-x slice 10051340-24 (2026-10-07): re-verified — widened grep (洪文鳳/洪文凤/Rizia/洪文) across works+articles+sources+events+topics. Non-index hits: own #317/#694 records; ourjourneys161/186 list 洪文治/洪文雄/洪文華 (different persons, substring matches only); taiwanjustice hits on "Rizia" are "Patrizia" substrings. No third-party mentions of 洪文鳳. Verified saturated; SKIP. -->
