@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # 陳宜蓁博士
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09231400-27 recheck 2026-09-25: fresh ZH+EN grep of works/+articles matched only own TAH bibliographic record + works/index; no independent memoir material. SKIP-with-reason stands. -->
 
 <!-- deepen-x slice 09251031-11 recheck 2026-09-26: fresh ZH grep of works/+articles matched only own two TAH bibliographic records + works/index; SKIP-with-reason stands. -->
+<!-- deepen-x slice 10052158-15 recheck 2026-10-07: fresh five-dir grep (works/articles/sources/events/topics) for 陳宜蓁 + EN/Juilliard probes — 陳宜蓁 hits are only her own two TAH records (244, 501) + index/sources; Juilliard/Julliard hits belong to other musicians (Fan Yu Chen 陳芳玉 #13, Michelle Young, Jordan Hwang). No independent memoir material. SKIP stands. -->
