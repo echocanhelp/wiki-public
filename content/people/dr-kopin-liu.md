@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-07
 ---
 # Dr. Kopin Liu (劉國平博士)
 
@@ -60,3 +60,6 @@ SKIP (re-confirmed) — fresh ZH(劉國平)+EN grep returns only own TAH #2130 r
 
 ## Corpus check (deepen-x 09251400-13, 2026-09-26)
 SKIP (re-confirmed) — fresh ZH(劉國平)+EN grep returns only own TAH #2130 record + works index; no memoir or community-record mentions — nothing absorbable.
+
+## Corpus check (deepen-x slice 10051909-21, 2026-10-07)
+SKIP (re-confirmed) — fresh ZH(劉國平/國平)+EN grep across works/articles/sources/events/topics returns only own TAH #2130 record + works index; the taiwanjustice-net hits are substring noise (平 in 平均年進口, 林治平, 邱國強), not this person. Nothing absorbable.
