@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Doris Lu-Anderson (呂佳霙博士)
 
@@ -32,6 +32,7 @@ last_reviewed: 2026-10-01
 
 ## Role in the Community
 - Her own TAH Who's Who entry is held in the corpus as community historical record: [[works/taiwaneseamericanhistory-org/whoswho1469|1469. Doris Lu-Anderson 呂佳霙 / 2017-01]]. No other memoir/article mentions found in works/ or articles/ — body above remains TAH directory-sourced only. Re-verified 2026-09-25 (slice 09232337-11), 2026-09-26 (slice 09251054-15) and 2026-10-01 (slice 09261405-28, corrected ERE grep `呂佳霙|Doris Lu-Anderson`, full vault): fresh grep again found only the own record and index co-listings.
+- A signatory named "Doris Lu" appears in the 2021 statement "Response to Pew Research Reports Hiding Taiwanese Identity" ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew response statement, 2021-05]]) — HOLD: identity with this Doris Lu-Anderson unconfirmed (bare-name listing, no affiliation given); not merged into the biography.
 
 ## Family
 
