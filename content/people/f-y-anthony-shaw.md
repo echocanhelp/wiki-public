@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # F.Y. Anthony Shaw (蕭芳苑)
 
@@ -39,6 +39,7 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 
 - The vault corpus holds his TAH Who's Who encyclopedia entry as his primary record: [[works/taiwaneseamericanhistory-org/whoswho875-anthony-shaw|TAH #875 F.Y. (Anthony) Shaw 蕭芳苑, 2016/03]]. No other corpus mentions found (2026-09-26 deepen-x sweep of `works/` + `articles/`), so no community activity beyond the directory biography is absorbable.
+- Re-scan 2026-10-07 (slice 10052045-14): five-dir grep (works/articles/sources/events/topics) for 蕭芳苑 / Anthony Shaw returns only his own record, the works index, and the source page. Substring hits on 芳苑 resolve to scholar 董芳苑 (bibliography citations) and the Changhua township 芳苑鄉 (election gazette lists), not this engineer — verified-saturated, nothing absorbable.
 
 ## Sources
 - [TAH #875 encyclopedia: 875. F.Y. (Anthony) Shaw 蕭芳苑 / 2016/03](https://taiwaneseamericanhistory.org/whoswho875-anthony-shaw/)

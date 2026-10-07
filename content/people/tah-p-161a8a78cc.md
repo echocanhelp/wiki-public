@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # 劉青藜博士
 
@@ -27,6 +27,7 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 
 - Community record held in the corpus as TAH encyclopedia entry #2260, published 2020-04-27: [[works/taiwaneseamericanhistory-org/whos-who-2260|2260. 劉青藜博士/04/2020]]. Corpus grep (re-verified 2026-09-26) found no memoir/feature mentions beyond this bibliographic record and the works index — nothing absorbable (SKIP).
+- Re-scan 2026-10-07 (slice 10052045-14): five-dir grep (works/articles/sources/events/topics) for 劉青藜 returns only his own record, the works index, and the source page. Substring hits on 青藜 resolve to the unrelated English word "Chinglish" in taiwaneseamerican.org essays — verified-saturated, nothing absorbable.
 - HOLD: conflict — listed era/birth year 1903 vs. encyclopedia entry published 2020-04-27 (would make the subject 117 at publication); not auto-merged.
 
 ## Family

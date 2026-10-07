@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Mo Chao Tsai (蔡謀昭)
 
@@ -23,6 +23,7 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 - Recorded in the TAH Foundation Who's Who encyclopedia; his entry was published as community historical record on 2016-12-11 ([[works/taiwaneseamericanhistory-org/whoswho1428|1428. Mo Chao Tsai 蔡謀昭 / 2016/12]]).
 - Corpus material so far is limited to the Who's Who bibliographic record; no memoir or bulletin passages naming 蔡謀昭 are present in works/articles. SKIP (slice 09232337-22; re-grepped 2026-09-26 ZH+EN 蔡謀昭/Mo Chao Tsai, deepen-x 09251054-25): hits limited to own record + indexes.
+- Re-scan 2026-10-07 (slice 10052045-14): five-dir grep (works/articles/sources/events/topics) for 蔡謀昭 / Mo Chao Tsai returns only his own record [[works/taiwaneseamericanhistory-org/whoswho1428|TAH #1428]], the works index, and the source page — verified-saturated, nothing absorbable.
 
 <!-- tah-tables:start -->
 ## Education
