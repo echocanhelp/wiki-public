@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Yuan Zong Lai (賴元榮)
 
@@ -42,3 +42,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- DEEPEN-X SKIP 2026-10-07 (slice 10052007-28 re-verify): five-dir greps (賴元榮 / Yuan Zong Lai / 元榮) return only own record [[works/taiwaneseamericanhistory-org/411-yuan-zong-lai-e8-b3-b4-e5-85-83-e6-a6-ae-201505|TAH #411]], works index, and sources registry; 元榮 hits are 呂元榮 (僑委會副委員長, different person) and 胡乃元榮獲 substring noise. Verified-saturated. -->

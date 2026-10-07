@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Jerry Jan (詹春孟博士)
 
@@ -46,3 +46,4 @@ The corpus holds his TAH Who's Who encyclopedia record #763 (published 2016-01-1
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- DEEPEN-X SKIP 2026-10-07 (slice 10052007-28 re-verify): five-dir greps (詹春孟 / Jerry Jan / Chun-Meng / Chunmeng) return only own record [[works/taiwaneseamericanhistory-org/763-jerry-jan-e8-a9-b9-e6-98-a5-e5-ad-9f-201601|TAH #763]], works index, and sources registry. No memoir or movement-activity material. Verified-saturated. -->
