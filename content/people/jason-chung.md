@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-07
 ---
 # Jason Chung (莊建雄)
 
@@ -44,4 +44,6 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+SKIP-with-reason (re-verified 2026-10-07, slice 10052007-8): greps '莊建雄' / 'Jason Chung' / given-name '建雄' across works/, articles/, sources/, events/, topics/ return only his own TAH record [[works/taiwaneseamericanhistory-org/whoswho1481|1481. Jason Chung 莊建雄 (bibliographic stub)]] and the works index. No community memoirs or movement records mention him; nothing absorbable; no biography invented.
 - Re-swept deepen-x slice 09251054-17 (2026-09-26): fresh grep 莊建雄/Jason Chung over content/works + content/articles — hit set unchanged (own TAH record [[works/taiwaneseamericanhistory-org/whoswho1481|1481. Jason Chung 莊建雄]] + works index only). SKIP: nothing community-authored to absorb.

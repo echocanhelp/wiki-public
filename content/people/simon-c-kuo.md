@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Simon C. Kuo (郭朝元博士)
 
@@ -45,3 +45,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+SKIP-with-reason (re-verified 2026-10-07, slice 10052007-8): exact-name greps '郭朝元' / 'Simon C. Kuo' / given-name '朝元' across works/, articles/, sources/, events/, topics/ return only his own TAH record [[works/taiwaneseamericanhistory-org/655-simon-c-kuo-e9-83-ad-e6-9c-9d-e5-85-83-201510|655. Simon C. Kuo 郭朝元 (bibliographic stub)]] and the works index. No community memoirs or movement records mention him; nothing absorbable; no biography invented.
