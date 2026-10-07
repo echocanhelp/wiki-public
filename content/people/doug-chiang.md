@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Doug Chiang (江道格)
 
@@ -58,3 +58,4 @@ Re-grepped 2026-09-22 (deepen-x slice 28): hits are only his own record #185 and
 <!-- deepen-x slice 09250400-24 (2026-09-25): verified-saturated — fresh ZH+EN re-grep of works/ + articles/ returns no absorbable material beyond already-cited records. -->
 <!-- deepen-x slice 09252123-21 (2026-09-26): verified-saturated — fresh grep for 江道格/Doug Chiang returns only own TAH #185 record + works index; 蔣孝嚴 hits are noise from an alternate query term. SKIP-with-reason. -->
 <!-- deepen-x slice 09261000-17 (2026-10-01): verified-saturated — fresh ZH+EN re-grep (江道格 / Doug Chiang) of works/ + articles/ returns only own TAH #185 record + works/index. Douglass Chiang 江文基 disambiguation re-checked and still holds (different person, Vancouver). SKIP-with-reason. -->
+<!-- deepen-x slice 10051909-27 (2026-10-07): verified-saturated — fresh grep across works/articles/sources/events/topics for 江道格/Doug Chiang returns only own TAH #185 record + works/index + sources page. Douglass Chiang 江文基 (Vancouver) disambiguation still holds. SKIP-with-reason. -->
