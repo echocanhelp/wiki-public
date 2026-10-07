@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Michael Luo (羅明瀚)
 
@@ -33,6 +33,7 @@ last_reviewed: 2026-10-01
 Journalist trained at Harvard (B.S. 政治系, 1998); reported for 美聯社、洛杉磯時報、「Newsday」、New York Times. Pittsburgh/PA; era 1976.
 
 Corpus sweep re-run 2026-09-25 and 2026-09-26 (slice 09251047-7): identical result. Original sweep (2026-09-21): the only hits in content/works / content/articles are the own Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1319|TAH #1319 Michael Luo 羅明瀚]] (bibliographic stub; full text stays in the vault) and the index. No memoir, article, or community-activity mention found — nothing further absorbable.
+- Corpus sweep 2026-10-07 (slice 10052007-26, five-dir ZH+EN+variant grep): hits confined to own record [[works/taiwaneseamericanhistory-org/whoswho1319|TAH #1319]], the works index, and a false positive (陳明瀚, unrelated 立委收賄案 suspect). Still saturated — verified-saturated, SKIP.
 
 ## Family
 
