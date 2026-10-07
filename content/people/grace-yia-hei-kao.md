@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09230900-11 re-grep 2026-09-24: hit set unchanged (802, Guest Post 'Passing' for White, index). Verified-saturated. -->
 <!-- deepen-x slice 09240900-11 re-grep 2026-09-25: hit set unchanged (802, Guest Post 'Passing' for White, index). Verified-saturated. -->
 <!-- deepen-x slice 09251417-5 re-grep 2026-09-26: fresh grep of works+articles — hit set unchanged (own records + index only); no new absorbable corpus material. Verified-saturated; SKIP content-deepen. -->
+
+<!-- deepen-x slice 10051314-31 re-grep 2026-10-06: fresh ZH+EN+surname grep (Grace Kao / Yia-Hei / Kao) across works+articles+sources+events+topics — hits are only own records (802, Guest Post "Passing") + index; surname-only "Kao" hits are different people (An-tzu Lai Kao, Shou-ren Kao, Shu-chen Kao, Mark Kao). Verified-saturated, SKIP. -->

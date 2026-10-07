@@ -58,3 +58,5 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/musician355|TAH 355 — Michele Cheng, composer]]
 - [[works/taiwaneseamericanhistory-org/whoswho1235|TAH 1235 — Michele Cheng]]
 <!-- deepen-x slice 09251417-4 re-grep 2026-09-26: fresh ZH+EN grep works+articles — hit set identical to already-cited records; no new corpus material. Verified-saturated, SKIP new content. -->
+
+<!-- deepen-x slice 10051314-31 re-grep 2026-10-06: fresh grep (Michele Cheng / Michele / surname Cheng) across works+articles+events+topics — hits are only own records (musician355, whoswho1235) + index; "Michele" in taiwanjustice articles = Steele/Flournoy (different people), "Cheng" hits = J.C./Shu-Ching/Franklin Cheng (different people). Verified-saturated, SKIP. -->
