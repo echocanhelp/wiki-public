@@ -44,3 +44,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09250317-29 re-grep 2026-09-25: fresh ZH+EN grep of works+articles returns hit set identical to prior absorption waves (own records + works index only; UCLA TASA: zero direct hits, TASA = Seniors Assoc/ITASA). SKIP content-deepen: saturated. -->
 <!-- deepen-x slice 09251527-10: re-verify 2026-09-26 — fresh ZH+EN grep (works+articles): hit set identical to prior slices, all already absorbed. Verified saturated; SKIP-no-new-facts. -->
+
+Corpus re-grep 2026-10-06 (slice 10051200-24): fresh grep Kenji across works/articles/sources/events/topics returns the same set — whoswho904, his own TaiwaneseAmerican.org interview, the Leona Chen citation, index listings. No new memoir mentions. Verified saturated; SKIP-content.
