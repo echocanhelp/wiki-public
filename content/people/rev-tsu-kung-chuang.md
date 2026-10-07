@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Rev. Tsu-Kung Chuang (莊祖鯤牧師)
 
@@ -43,4 +43,4 @@ Rev. Tsu-Kung Chuang 莊祖鯤牧師 – History of Taiwanese American (T.A. Arc
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- [[works/taiwaneseamericanhistory-org/whos-who-1673-tsu-kung-chuang|1673. Rev. Tsu-Kung Chuang 莊祖鯤牧師]] — own TAH record; sole corpus hit, bibliographic only (deepen-x 2026-09-19: no absorbable community facts; re-checked 2026-09-25 slice 17 and 2026-09-26 slice 09251047-12, same result)
+- [[works/taiwaneseamericanhistory-org/whos-who-1673-tsu-kung-chuang|1673. Rev. Tsu-Kung Chuang 莊祖鯤牧師]] — own TAH record; sole corpus hit, bibliographic only (deepen-x 2026-09-19: no absorbable community facts; re-checked 2026-09-25 slice 17 and 2026-09-26 slice 09251047-12, same result). Re-sweep 2026-10-07 (slice 10052007-29): five-dir grep (莊祖鯤 / 祖鯤 / Tsu-Kung Chuang / 真理堂) — only whos-who-1673 + index stubs; verified saturated.
