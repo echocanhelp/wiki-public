@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Yilien Hsu
 
@@ -43,3 +43,4 @@ The TAH collection preserves her Who's Who profile [[works/taiwaneseamericanhist
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- DEEPEN-X SKIP 2026-10-07 (slice 10051400-24 re-verify): fresh grep (Yilien / Hsu Yilien) across works/articles/sources/events/topics returned only her own records whoswho981 + 340-yilien-hsu-flute-201605, the works index, and the source page. No memoir/community material beyond what is already absorbed above. -->

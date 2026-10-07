@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # H. M. Yin (殷惠敏)
 
@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-m-yin/)
 
 - Sweep 2026-09-26 (deepen-x slice 09251047-30): fresh ZH+EN grep of works/+articles/ — hits limited to own TAH directory record + works index; no new absorbable community facts. SKIP.
+- Sweep 2026-10-07 (deepen-x slice 10051400-24): fresh grep (殷惠敏 / H. M. Yin) across all five corpus dirs — hits limited to own TAH #1079 record, the works index, and the 民報 column already cited above. Substring hits on 惠敏 are distinct persons: [[works/taiwaneseamericanhistory-org/musician407|407. Amanda Chen 許惠敏]], [[works/taiwaneseamericanhistory-org/whos-who-1707-amanda-hsu|1707. Amanda Hsu 許惠敏]], and 陳惠敏 (時代力量) in a 2020 立委名單 article — do NOT merge. No new absorbable facts.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
