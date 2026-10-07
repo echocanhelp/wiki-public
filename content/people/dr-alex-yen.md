@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dr. Alex Yen (顏俊醫師)
 
@@ -54,3 +54,5 @@ _SKIP (2026-09-18 deepen-x): corpus search found only his own TAH Who's Who reco
 > SKIP re-check (deepen-x 09250600-22, 2026-09-25): fresh ZH+EN grep returned only own TAH record whos-who-1984-alex-yen + index lines — no community/memoir material; SKIP stands.
 
 > SKIP re-check (deepen-x 09261200-10, 2026-10-01): ERE grep of content/works + content/articles for `Alex Yen|顏俊` returns only [[works/taiwaneseamericanhistory-org/whos-who-1984-alex-yen|TAH #1984]] + the works index. Broad `Yen` sweep (73 files) was opened and checked — every other hit is a **different** Yen (Dr. Joseph Yen 楊昀書, Lin Yen-fu 林彥甫, Yen-Tsung Lo 羅彥鼎, Yen-Chiu Tsai), and a search for his employers Smileworld/Rosa Dental returns nothing (no dentist appears in the corpus). No community/memoir material; SKIP stands.
+
+> SKIP re-check (deepen-x 10051918-4, 2026-10-07): fresh grep `Alex Yen|顏俊` across all five corpus dirs (works/articles/sources/events/topics) returns only own [[works/taiwaneseamericanhistory-org/whos-who-1984-alex-yen|TAH #1984]] record + index/source rows. Surname sweep re-checked: other-Yen hits ([[works/taiwaneseamericanhistory-org/whos-who-2279-wei-ting-yen|Wei-Ting Yen]], Ya-Yen-Lee memorial library, etc.) are name collisions, nothing absorbable. Verified saturated.
