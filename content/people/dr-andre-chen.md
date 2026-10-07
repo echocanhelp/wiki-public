@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dr. Andre Chen (陳安哲醫師)
 
@@ -39,6 +39,11 @@ last_reviewed: 2026-10-01
 
 - **Father:** 陳哲仁
 - **Mother:** [[people/enchin-shaw-chen||蕭永真]]
+
+### Family in the movement record (deepen-x 10051400-20, 2026-10-07)
+
+- Father 陳哲仁 is recorded as a founding 會長 of the Washington D.C. chapter of 全美會 (Formosan Club of America, 1971) — [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys #76]] — and in the memoir record as an ENT physician in the Washington DC area among the early Taiwanese immigrant professionals — [[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys #138]].
+- The family's life is documented photographically in the TAH corpus: [[works/taiwaneseamericanhistory-org/photo-albums-activities-111|111. Family Life of Dr. Donald C.J. Chen and Mrs. Enchin Chen 陳哲仁醫師與蕭永真女士的家庭生活照]].
 
 
 ## Sources
