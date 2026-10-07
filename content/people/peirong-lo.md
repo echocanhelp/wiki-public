@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Peirong Lo (羅佩蓉)
 
@@ -54,3 +54,6 @@ Prior greps (2026-09-22 slice 09220700-17; 2026-09-25 slice 16; 2026-09-25 slice
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Corpus re-check (2026-10-07, deepen-x slice 10051909-11)
+Fresh `grep -rlE` (ZH 羅佩蓉 + EN Peirong Lo) across content/works, content/articles, content/sources, content/events, content/topics and knowledge/web-archives full-text (per the `-E` + web-archives recipe noted above): hit set unchanged — her own peirong-lo-pianist record, the works index, and the sources page. No memoir or article narrative mentions found. SKIP: verified-saturated with the corrected instrument.
