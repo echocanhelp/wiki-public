@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Danny Sheu
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09250600-14: SKIP — fresh grep: hit set identical to prior passes (own records 343/13027 + index; 徐 hits are surname false positives). -->
+<!-- deepen-x slice 10051400-13 (2026-10-07): SKIP verified-saturated — fresh ZH+EN grep across works/articles/sources/events/topics returns the same own records 343/13027 + index backlinks; whoswho1499 is Fang-Yi Sheu 許芳宜 (different person), other 'violist' hits belong to other players. Nothing absorbable. -->
