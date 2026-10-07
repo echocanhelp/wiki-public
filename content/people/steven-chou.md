@@ -64,3 +64,5 @@ Steven Chou (周清耀) is listed in the TAH Foundation Who’s Who Taiwanese Am
 <!-- TJJ-A10040600-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-3 article b1d58af16c0a5e5b (2021年南加州僑界支持台灣參與WHA聯合聲明, 2021-06-16快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-5 article 80c0a825a7a661b6（2021年南加州僑界支持台灣參與世界衛生大會WHA聯合聲明, 2025-11-08 快照, 聲明 2021-05-13）: subject link re-checked vs 正文 this attempt — 列名共同發起人清單「周清耀」，真實提及，無錯鏈、無虛鏈；含該文 wikilink 之日期事實條目已在庫 — saturated, no new material. -->
+
+<!-- TJJ-A10060400-7: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-7 articles (79291dad808ef7f7 大洛杉磯台灣會館會訊 2018-06 / 69b4f44f9c019bd5 陳水扁台中監獄自縊專訪 / 760a0bc942e1676b 台灣祝賀拜登賀錦麗就職 / 097b5750fcf3091a 花蓮震災台館勸募): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

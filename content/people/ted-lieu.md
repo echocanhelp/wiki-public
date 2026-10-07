@@ -104,3 +104,5 @@ Re-grep 劉雲平 / Ted Lieu across content/works + content/articles returned th
 <!-- TJJ-A10030400-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-2 article afdbd8b27a42563d (洛杉磯台灣會館重建動土, 2025-05-04): Ted Lieu link (動土典禮致詞·支持雙重課稅法案) re-checked vs 正文, real, no wrong/spurious links; 2025-05-03 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-8: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-8 article c6f9dbff48b39366 (台美人台加人 popular 分類頁, 2024-02-21 快照): subject link re-checked vs 正文, real (「民主黨籍台裔眾議員劉雲平晉陞美空軍上校 ◎VOA 06-15-2016」條目見於正文), no wrong/spurious links; 2016-06-15 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-7: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-7 articles (79291dad808ef7f7 大洛杉磯台灣會館會訊 2018-06 / 69b4f44f9c019bd5 陳水扁台中監獄自縊專訪 / 760a0bc942e1676b 台灣祝賀拜登賀錦麗就職 / 097b5750fcf3091a 花蓮震災台館勸募): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
