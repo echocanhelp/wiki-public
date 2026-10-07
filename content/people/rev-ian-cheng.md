@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Rev. Ian Cheng (鄭溢恩牧師)
 
@@ -48,3 +48,5 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09231300-10: SKIP — fresh grep 2026-09-25 (works/articles): hit set identical to prior passes (own TAH record / works-index digest only, no memoir or community material); nothing new absorbable. -->
 <!-- deepen-x 09250600-13: SKIP — fresh grep 2026-09-25 (works/articles): own TAH #1727 record + works-index digest only; no memoir or community material. -->
+
+<!-- deepen-x 10051918-26: SKIP — fresh grep 2026-10-07 (works/articles/sources/events/topics, ZH+EN+surname): own TAH record + works-index digest only; no memoir or community material. -->
