@@ -379,3 +379,5 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 <!-- TJJ-A10040600-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-5 article 80c0a825a7a661b6（2021年南加州僑界支持台灣參與世界衛生大會WHA聯合聲明, 2025-11-08 快照, 聲明 2021-05-13）: subject link re-checked vs 正文 this attempt — 列名共同發起人清單「田詒鴻」，真實提及，無錯鏈、無虛鏈；含該文 wikilink 之日期事實條目已在庫 — saturated, no new material. -->
 
 <!-- TJJ-A10060400-4: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-4 articles (0c56e79f 園藝分類頁, 2017-11-09快照 / f631078d 海外小英後援會助選團返台助選, 2020-01-06 / c0530664 Taipei Times 社論轉載「陳水扁的審判應受調查」, 2016-04-11 / 8fc11ca0 韓國瑜提預算協商·總統緩頰, 2025-01-16): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-3: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-3 articles (A2: 2f4af868 2024大洛杉磯台灣會館26周年晚宴公告, 2024-10-04刊: 董事長田詒鴻/董事陳柏宇 名列38位董事購票聯絡人 真實見於正文): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
