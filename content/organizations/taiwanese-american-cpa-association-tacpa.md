@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-07
 ---
 # Taiwanese American CPA Association, TACPA (台美會計師協會)
 
@@ -34,3 +34,4 @@ TAH's organization directory preserves two records on TACPA: [[works/taiwaneseam
 
 <!-- deepen-x slice 09260854-25 (2026-09-30): re-verified — fresh grep 台美會計師協會/TACPA: hit set unchanged (tacpa.md, act-org-cpaa.md, works index); no memoir material. SKIP. -->
 <!-- deepen-x slice 10051143-3 (2026-10-06): re-verified — fresh grep 台美會計師協會/TACPA hit set unchanged (tacpa.md, act-org-cpaa.md, works index); no memoir material. SKIP. -->
+<!-- deepen-x slice 10060900-4 (2026-10-07): re-verified — fresh grep 台美會計師協會/TACPA hit set unchanged (tacpa.md, act-org-cpaa.md, works index, sources index); no memoir material. SKIP. -->

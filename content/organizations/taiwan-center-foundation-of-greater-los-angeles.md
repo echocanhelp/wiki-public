@@ -5,7 +5,7 @@ redirect_to: taiwan-center
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-07
 ---
 
 # Moved
@@ -28,3 +28,5 @@ TAH directory slug. Same org.
 ## Related Pages
 - [[organizations/taiwan-center||大洛杉磯台灣會館]]
 Corpus re-check 2026-10-06 (deepen-x slice 10051143-4): fresh ZH+EN grep again returns only canonical-page material — choral/event records ([[works/taiwaneseamericanhistory-org/concerts74|TAH #74]] 莫拉克風災募款音樂晚會 by 大洛杉磯台灣會館合唱團 Rosemead 2009-09-13; [[works/taiwaneseamericanhistory-org/concerts98|TAH #98]] 亞洲合唱節 Arcadia 2017/2018; [[works/taiwaneseamericanhistory-org/photo-albums-activities-43|photo-albums-activities-43]]) plus the already-noted pageant/Harvey-relief items — nothing new absorbable on this redirect.
+
+Corpus re-check 2026-10-07 (deepen-x slice 10060900-4): fresh ZH+EN grep again returns only canonical-page and sibling 會館 material — 紐約/西雅圖會館 event records ([[works/taiwaneseamericanhistory-org/concerts117|TAH #117]] Hello Taiwan Flushing 2017-11-05; [[works/taiwaneseamericanhistory-org/ourjourneys30|TAH #30]] 西雅圖台灣會館/王虹妮 2014-09]) plus the already-noted Harvey-relief item in [[works/taiwaneseamericanhistory-org/ourjourneys328|TAH #328]] — nothing new absorbable on this redirect.

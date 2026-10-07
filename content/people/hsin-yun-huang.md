@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-07
 ---
 # HSIN-YUN HUANG (黃心芸)
 
@@ -59,3 +59,4 @@ _No filled family fields on the TAH profile._
 - TAH encyclopedia #210's source URL is mislabeled to this entry — noted on [[people/chih-long-hu|Chih-Long Hu]]'s page.
 - 複核（deepen-x 2026-09-15、2026-09-16 兩度；再複核 slice 09162138-23、09170130-19、09170500-17）：corpus re-grep 僅見本人書目記錄 #439、#37（全文未入庫）與 index 條目，無可吸收之社群/回憶錄材料 — SKIP，以既有連結為準。
 - 複核（deepen-x slice 10051143-4, 2026-10-06）：fresh ZH+EN re-grep across works/articles/sources/events/topics hit set unchanged (#439/15064, #37, works index, sources index) — bibliographic records only, no absorbable community/memoir material — SKIP, 以既有連結為準。
+- 複核（deepen-x slice 10060900-4, 2026-10-07）：fresh ZH+EN re-grep across works/articles/sources/events/topics — hit set unchanged (#439/15064, #37, works index, sources index; surname-only hits are other Huangs) — bibliographic records only, no absorbable community/memoir material — SKIP，以既有連結為準。
