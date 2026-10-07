@@ -156,3 +156,5 @@ Comparative frame from [[sources/zh-wikipedia-lai-ching-te||zh.wp]]; movement-re
 <!-- TJJ-A10060400-4: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-4 articles (0c56e79f 園藝分類頁, 2017-11-09快照 / f631078d 海外小英後援會助選團返台助選, 2020-01-06 / c0530664 Taipei Times 社論轉載「陳水扁的審判應受調查」, 2016-04-11 / 8fc11ca0 韓國瑜提預算協商·總統緩頰, 2025-01-16): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-5 articles (taiwanjustice-net/index 存檔索引頁): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-19: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-19 article 0258611f（2024-05-19 520就職報導, 賴清德家人出席、萬里鄉親近500人包車）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

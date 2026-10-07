@@ -73,3 +73,5 @@ B.S. Dept. of Adult & Continuing Education(社教系)
 <!-- TJJ-A10030400-4: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-4 article 996879ac7a006acf（FAHR第44屆年會暨鄭南榕紀念獎頒獎, 2020-11-25）: subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-5 article 31b7081a5d37939f（化作千風－王泰和追思會影音, 2022-07-12 刊）: subject link re-checked vs 正文（列為 1993 年郭倍宏、李應元、張燦鍙、王康陸等闖關返台名單之一）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-19: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-19 article 996879ac（FAHR第44屆年會, 陳婉真名列1991年得獎人）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -11355,3 +11355,5 @@ Notable quotes and mentions of **黃帝穎** in Taiwan Justice articles:
 - [[articles/taiwanjustice-net/2023/20231208123632_root_d9b0679336836e92]]
 - [[articles/taiwanjustice-net/2017/20171220124337_2017_10_06_與美國台僑談司改與國民法官-_-黃帝穎-律師-2017-10-06_ea65ec4658441621]]
 - [[articles/taiwanjustice-net/2017/20171220120632_2017_08_15_台灣-司改總結-淘汰不適任才能重建信任-_-黃帝穎_ffda94a03a6b8fd5]]
+
+<!-- TJJ-A10060400-19: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-19 article 996879ac（FAHR第44屆年會, 黃帝穎名列2018年得獎人; 該文 authors frontmatter 亦掛本頁連結）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

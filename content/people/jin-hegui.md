@@ -11267,3 +11267,5 @@ Notable quotes and mentions of **金恆煒** in Taiwan Justice articles:
 - [[people/freeman-huang||Freeman Huang (黃樹人)]]
 
 <!-- TJJ-A10040500-1: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-1 articles 9a39a754d2a3b236 (吳澧培回憶錄前言「一個堅持和無數的巧合」, 2015-10-12) / 5d471dbe6e4efbde & 74f89ee82c85dc78 (唐培禮訃聞+鄭世璋新使者文, 兩存檔, 2017-03-12) / 9c6973783db0011a (中央社記者黃淑芳游朝凱游銘泉專訪, 2024-07-06): subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-19: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-19 article 996879ac（FAHR第44屆年會, 金恆煒名列2016年得獎人; 該文 authors frontmatter 亦掛本頁連結）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

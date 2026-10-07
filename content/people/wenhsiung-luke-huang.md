@@ -114,3 +114,5 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A10040600-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-5 article 2777c88877eee2c5（Tag: 長青教室 標籤彙整頁, 2024-06-20 快照, 正文條目 2016-11-19〜2017-05-25）: subject link re-checked vs 正文 this attempt — 「3/15 長青教室 YouTube Video: 人際關係 by 黃文雄醫師」條目具名，真實提及，無錯鏈、無虛鏈；含該文 wikilink 之日期事實條目已在庫 — saturated, no new material. -->
 <!-- TJJ-A10060400-6: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-6 article 24119694 刺蔣案50週年線上對談報導（康乃爾博士生黃文雄射擊敘述確認見於正文；TAH醫師profile身份HOLD維持原樣）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-19: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-19 articles a20fb275（刺蔣案主角黃文雄記述, TAH醫師profile身份HOLD維持原樣）＋996879ac（名列1997年得獎人）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
