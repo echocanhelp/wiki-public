@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-06
 ---
 # Anne Ku
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-25 (slice 09240500-23): works hits remain #193 + #395 + index only. Verified-saturated, SKIP-with-reason; HOLDs (Rachel Ku relationship, anne-ku vs anne-ku-2 duplicate slug) still open.
 - Re-verified 2026-09-26 (deepen-x slice 09250800-25): fresh ZH+EN re-grep — works hits remain #193 + #395 + index only. Verified-saturated, SKIP-with-reason; HOLDs (Rachel Ku relationship, anne-ku vs anne-ku-2 duplicate slug) still open.
 - Re-grep 2026-09-27 (deepen-x slice 09260600-13): fresh ZH+EN grep - works hits remain #193 + #395 + index only. Verified-saturated, SKIP-with-reason; HOLDs (Rachel Ku relationship, anne-ku vs anne-ku-2 duplicate slug) still open.
+- Re-grep 2026-10-06 (deepen-x slice 10051314-18): fresh ZH+EN grep — works hits remain #193 + #395 + index only; index confirms both [[people/anne-ku]] and [[people/anne-ku-2]] entries exist. Verified-saturated, SKIP-with-reason; HOLDs (Rachel Ku relationship, anne-ku vs anne-ku-2 duplicate slug) still open.

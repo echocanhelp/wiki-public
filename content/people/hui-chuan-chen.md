@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-03
+last_reviewed: 2026-10-06
 ---
 # Hui-Chuan Chen (陳慧娟)
 
@@ -46,6 +46,7 @@ Corpus re-grep 2026-09-21 (slice 09201400-27): hit set identical — only #27 / 
 - Corpus re-grep 2026-09-25 (slice 09250800-24): hit set unchanged (musician27 + whoswho1093 + index only), all already cited. SKIP: saturated.
 - Corpus re-grep 2026-09-27 (slice 09260600-25): hit set unchanged (musician27 + whoswho1093 + index only), all already cited. SKIP-content: saturated.
 - Corpus re-grep 2026-10-03 (slice 09270700-21): fresh grep of works/ + articles/ — hit set unchanged (musician27 + whoswho1093 + index only), all already cited. SKIP: saturated.
+- Corpus re-grep 2026-10-06 (slice 10051314-18): hit set unchanged (musician27 + whoswho1093 + index only); the lone taiwanjustice hit is a 黃慧娟 production credit — substring noise, different person. Verified-saturated; SKIP.
 
 ## Sources
 - [TAH #1093 encyclopedia: 1093. Hui-Chuan Chen 陳慧娟 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1093/)

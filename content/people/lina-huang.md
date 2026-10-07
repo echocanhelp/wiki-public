@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-06
 ---
 # Lina Huang (張廖莉娜)
 
@@ -55,3 +55,4 @@ Two TAH Who's Who records for her are held in the corpus: [[works/taiwaneseameri
 - Re-grep 2026-09-30 (slice 09260800-20): hit set unchanged (two directory copies #256/#525 + works index only) — verified-saturated; SKIP, nothing community-side absorbable.
 
 - Re-grep 2026-10-04 (slice 09300321-1): hit set unchanged (two directory copies #256/#525 + works index only) — verified-saturated; SKIP, nothing community-side absorbable.
+- Re-grep 2026-10-06 (slice 10051314-18): hit set unchanged (two directory copies #256/#525 + works index only; taiwanjustice hits are 莉娜 substring noise — Svitolina/Hollywood pieces) — verified-saturated; SKIP, nothing community-side absorbable.
