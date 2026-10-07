@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Show-Ya Wang (邱綉雅)
 
@@ -33,6 +33,8 @@ last_reviewed: 2026-10-01
 - Her TAH Who's Who entry is held in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-1659-show-ya-wang|1659. Show-Ya Wang 邱綉雅]] (recorded 2017-05-15).
 - Church community: the St. Louis church history memoir lists the couple 王俊傑邱綉雅夫婦 ("Samson & Show-Ya Wang") among the remaining older-generation members still active in service at the Taiwanese Presbyterian Church of Greater St. Louis: [[works/taiwaneseamericanhistory-org/ourjourneys305|Our Journeys 305 — TPC Greater St. Louis history]]. Spouse: [[people/gene-jack-wang|Gene-Jack Wang (王俊傑)]].
 - Organizational role (TAH table): President, [[organizations/north-america-taiwanese-womens-association-st-louis-chapter|NATWA St. Louis Chapter (北美洲台灣婦女會聖路易分會)]].
+- Spouse 王俊傑 (Gene-Jack / "Samson") Wang holds his own TAH encyclopedia record [[works/taiwaneseamericanhistory-org/581-gene-jack-wang-e7-8e-8b-e4-bf-8a-e5-82-91-201509|TAH #581. Gene-Jack Wang 王俊傑]] (2015-09) — the couple appears together in both that record's lineage and the TPC St. Louis memoir roster above.
+- Re-check 2026-10-07 (slice 10051400-6): fresh ZH+EN grep (邱綉雅/Show-Ya/王俊傑) over works/articles/sources/events/topics returns whos-who-1659, ourjourneys305, works index, plus 王俊傑's own record 581 (now linked above) — no other memoir mentions. No conflicts.
 - Re-check 2026-09-25 (slice -2): fresh ZH+EN grep of works/+articles/ returned only whos-who-1659, ourjourneys305, and index — all already absorbed above. The memoir's EN roster ("Samson & Show-Ya Wang") matches the ZH 王俊傑邱綉雅夫婦 already cited. Verified saturated, no new material.
 
 ## Family
