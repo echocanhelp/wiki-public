@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dr. Shug-Hong Young (楊士宏醫師)
 
@@ -47,6 +47,7 @@ Accomplishment
 - Corpus re-grep 2026-09-21 (slice 09210317-21): only hit remains his own encyclopedia page [[works/taiwaneseamericanhistory-org/whos-who-1841-shug-hong-young|TAH #1841]] plus index listings. SKIP-content; nothing new absorbable.
 - Corpus re-grep 2026-09-22 / 2026-09-23 (slice 09221400-27): fresh grep (EN+ZH, works/+articles/) again returns only [[works/taiwaneseamericanhistory-org/whos-who-1841-shug-hong-young|TAH #1841]] and the index — no memoir material. SKIP-content.
 - Corpus re-grep 2026-09-25 (slice 09231000-24): fresh grep (楊士宏 / Shug-Hong Young, works/+articles/) returns only his own encyclopedia page [[works/taiwaneseamericanhistory-org/whos-who-1841-shug-hong-young|TAH #1841]] plus works/index.md — verified saturated, nothing new absorbable.
+- Corpus re-grep 2026-10-07 (slice 10051400-29): broadened grep across works/articles/sources/events/topics (full name, 士宏, plus his org names FOSPA / 福爾摩沙表演藝術協會 / 紐約福爾摩沙合唱團) — the org-name greps surface two sibling TAH records documenting the very organizations he leads: [[works/taiwaneseamericanhistory-org/14-new-york-formosa-chorus|14. New York Formosa Chorus 紐約福爾摩沙合唱團]] (2014-12-22) and [[works/taiwaneseamericanhistory-org/formosan-society-for-performing-arts-inc-fospa|Formosan Society for Performing Arts Inc. (FOSPA) 福爾摩沙表演藝術協會]] (2017-07-19). Neither record names him directly (band-B organizational records), but they corroborate his head/president roles with independent corpus entries. No memoir or third-party mentions; name-grep hit set unchanged.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
