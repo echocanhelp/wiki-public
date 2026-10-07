@@ -84,3 +84,5 @@ last_reviewed: 2026-10-01
 <!-- TJJ-A10030500-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-7 articles (f6ed9463 2013核四表決名單 / 0258611f 2024-05-19 520就職報導 / 06510e79 2020-11-19 林榮松獲聘政務顧問 / 77328a2c 2016-06-12 會館第十屆董事會) re-checked vs 正文 this attempt; all subject links real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-19: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-19 article 0258611f（2024-05-19 520就職報導, 蕭邱碧玉與妹妹專程從美國返台觀禮）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-20: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-20 articles (06510e79 南加州林榮松獲聘行政院政務顧問 2020-11-19 / 63257725 FAHR研討會敗選檢討迎戰2024 2023-01-24 / 77328a2c 會館第十屆董事會選舉 2016-06-12 / 4c65a9af 520就職報導快照 2024-05-19): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
