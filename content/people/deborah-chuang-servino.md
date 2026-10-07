@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Deborah Chuang Servino
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x 09250500-26: re-verified 2026-09-25 — fresh ZH+EN corpus grep of works+articles returned only records already absorbed on this page; no new material. -->
 <!-- deepen-x 09261100-23: re-verify 2026-10-01 — fresh full-corpus ZH+EN grep of content/works + content/articles: hit set identical to prior passes (own TAH records + works index; other-name matches are different people). Verified corpus-saturated; no new absorbable material. SKIP content-deepen. -->
+<!-- deepen-x 10051918-8: re-verify 2026-10-07 — fresh grep (Servino/Deborah Chuang/莊) across works/articles/sources/events/topics: Servino hits = own TAH record 91 + index + sources only; taiwanjustice.net tag page still postless; 莊 hits are 莊秋雄/莊念祖/莊子哲/莊英煌 (different people). verified-saturated, SKIP. -->

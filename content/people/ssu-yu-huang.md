@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 skip_note: "deepen-x 2026-09-19 / 2026-09-22 recheck: corpus hits are own band-B TAH bibliographic record (whos-who-2177) and works index only; no absorbable community facts"
 ---
 # Ssu-Yu Huang (黃思瑜)
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x slice 09231400-27 recheck 2026-09-25: fresh ZH+EN grep of works/+articles matched only own TAH bibliographic record + works/index; no independent memoir material. SKIP-with-reason stands. -->
 <!-- deepen-x slice 09250500-1 recheck 2026-09-25: fresh ZH+EN grep returned zero hits beyond own record/index. SKIP. -->
+<!-- deepen-x 10051918-8 recheck 2026-10-07: fresh ZH+EN grep (黃思瑜/Ssu-Yu/思瑜) across five corpus dirs returns only own TAH record 2177 + index + sources. verified-saturated, SKIP. -->

@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # 黃開榮
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-10-01
 <!-- deepen-x 09250500-29: re-verify 2026-09-25 — fresh grep 黃開榮: ourjourneys252 + own #636 + index only; all facts already absorbed; HOLD (苗栗 vs 紐約) stands. -->
 
 <!-- deepen-x 09261100-24: re-verify 2026-10-01 — fresh full-corpus ZH+EN grep (people/ works/ articles/): hit set unchanged vs prior passes (own TAH records + index + cross-mentions only, all already wikilinked or triaged as false positives); no new corpus facts absorbable. verified-saturated, SKIP. -->
+<!-- deepen-x 10051918-8: re-verify 2026-10-07 — fresh grep 黃開榮/開榮 across five corpus dirs: ourjourneys252 + own #636 + index only; all facts already absorbed above; HOLD (苗栗 vs 紐約) stands. verified-saturated, SKIP. -->

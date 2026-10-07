@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Chou-Long Huang (黃朝龍)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 09261100-24: re-verify 2026-10-01 — fresh full-corpus ZH+EN grep (people/ works/ articles/): hit set unchanged vs prior passes (own TAH records + index + cross-mentions only, all already wikilinked or triaged as false positives); no new corpus facts absorbable. verified-saturated, SKIP. -->
+<!-- deepen-x 10051918-8: re-verify 2026-10-07 — fresh ZH+EN grep of works/articles/sources/events/topics (黃朝龍/Chou-Long/朝龍) returns only own TAH #1366 record + sources page; surname-only 朝龍 hits = works index only. No community-authored material. verified-saturated, SKIP. -->
