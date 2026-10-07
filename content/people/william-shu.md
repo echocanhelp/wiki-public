@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # William Shu (許子祥)
 
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/william-shu/)
 
 - Sweep 2026-09-26 (deepen-x slice 09251047-30): fresh ZH+EN grep of works/+articles/ — hits limited to own TAH directory record + works index; no new absorbable community facts. SKIP.
+- Sweep 2026-10-07 (deepen-x slice 10052007-25): five-dir grep for 許子祥/William Shu/Shu — Shu hits are unrelated persons (Thomas C. Shu 許正龍, Shu-Ching Cheng, Susan Shu-Ai Tsai, Thomas Shu 許书麟); zero 許子祥 hits beyond own record whos-who-2292 + index. SKIP: verified-saturated.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

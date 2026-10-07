@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # M.S. Chen (陳明憲)
 
@@ -37,6 +37,7 @@ last_reviewed: 2026-10-01
 Corpus check (re-verified 2026-09-25, slice 09232232-20): the only corpus records naming 陳明憲 are his own TAH Who's Who entry ([[works/taiwaneseamericanhistory-org/849-e9-99-b3-e6-98-8e-e6-86-b2-201604|849. M.S. Chen 陳明憲 / 2016/02]]); no memoir material beyond it. Disambiguation: another "M.S. Chen" exists in the corpus — [[works/taiwaneseamericanhistory-org/whoswho1615|1615. M.S. Chen 陳茂山 / 2017/04]] (陳茂山, Chicago) — a different person sharing the same initials; HOLD: do not merge entries.
 
 - 語料復核 2026-09-26（deepen-x 09251054-9）：fresh grep works+articles 命中集合無變化，僅本人 TAH 記錄（849）、同名初字母 1615 陳茂山（HOLD: 不併頁）與 index；無新可吸收社群記述。
+- Sweep 2026-10-07 (deepen-x slice 10052007-25): five-dir grep for 陳明憲/M.S. Chen/明憲 — 明憲 hits in our-journeys-392/ourjourneys66/ourjourneys291 are 蔡明憲 (同鄉, 1984 回台訪問團) and 高明憲 (婦癌教授) — different persons, not merged; 1615 陳茂山 disambiguation HOLD stands. SKIP: verified-saturated.
 
 ## Sources
 - [TAH #849 encyclopedia: 849. M.S. Chen陳明憲 /2016/02](https://taiwaneseamericanhistory.org/849-%e9%99%b3%e6%98%8e%e6%86%b2-201604/)

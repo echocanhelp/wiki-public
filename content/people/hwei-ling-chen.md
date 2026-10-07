@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Hwei-Ling Chen (涂惠鈴)
 
@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 - Fresh re-verified 2026-09-25 (deepen-x slice 09232337-25): ZH+EN grep (涂惠鈴/洪惠鈴/Hwei-Ling Chen) of works/ + articles/ — hits limited to own record whoswho1510 + works index; nothing new absorbable; HOLD on 涂/洪 surname conflict stands.
 
 - Sweep 2026-09-26 (deepen-x slice 09251047-30): fresh ZH+EN grep of works/+articles/ — hits limited to own TAH directory record + works index; no new absorbable community facts. SKIP.
+- Sweep 2026-10-07 (deepen-x slice 10052007-25): five-dir grep (works/articles/sources/events/topics) for 涂惠鈴/洪惠鈴/Hwei-Ling Chen/惠鈴 — only own record whoswho1510 + index/source pages; 惠鈴 hit in ourjourneys106 is 涂惠玲, 東南區理事長 in a Florida cruise memoir (Wake Tech NC subject; no geography/role match — not merged). SKIP: verified-saturated; HOLD on 涂/洪 stands.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
