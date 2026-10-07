@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Chui Ying Hsu (黃翠英)
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 - Corpus scan (re-verified 2026-09-25, slice deepen-x-09231500-21) found no memoir/community activity beyond her own TAH encyclopedia entry, preserved in the corpus as a bibliographic stub at [[works/taiwaneseamericanhistory-org/309-chui-ying-hsu-e9-bb-83-e7-bf-a0-e8-8b-b1201502|TAH #309]] (published 2015-02-23). No absorbable community facts this pass; page stays on press-kit snapshot pending new material.
 - Her husband 許盛男 has his own TAH encyclopedia record published the same day: [[works/taiwaneseamericanhistory-org/308-maurice-hsu-e8-a8-b1-e7-9b-9b-e7-94-b7201502|TAH #308. Maurice Hsu 許盛男 / 2015-02]] — the couple was profiled as a pair in the 2015/02 batch.
+- Husband-record context (2026-10-07, corpus): 許盛男 is recorded in the memoir corpus as the founding president of the 紐約紐澤西台灣人社團聯合會 (Taiwanese Community Council of New York–New Jersey), convened to strengthen inter-club ties and mutual aid ahead of the Taiwanese American Center (台灣會館) effort — see [[works/taiwaneseamericanhistory-org/ourjourneys9-eng|Our Journeys (v9)]]; his FAPA leadership records are also in-corpus: first president of FAPA/New York Chapter [[works/taiwaneseamericanhistory-org/174-dr-maurice-hsu-e8-a8-b1-e7-9b-9b-e7-94-b7-first-president-of-fapanew-york-ch|TAH #174]] and president of FAPA/New Jersey Chapter [[works/taiwaneseamericanhistory-org/176-dr-maurice-hsu-e8-a8-b1-e7-9b-9b-e7-94-b7-president-of-fapanew-jersey-chapte|TAH #176]]. These are husband-side community facts; no first-person activity records for 黃翠英 herself were found.
 
 <!-- deepen-x re-verified SKIP 2026-09-26 (slice 09251047-7): fresh ZH+EN grep -> own TAH #309 stub + works index only; nothing absorbable. -->
 ## Sources
@@ -46,3 +47,4 @@ last_reviewed: 2026-10-01
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x re-verified SKIP 2026-10-01 (slice 09261400-8): fresh ZH+EN grep (works+articles) -> own record stubs + works index only; no memoir/newsletter material beyond them; taiwanjustice 2022 王自立 = Air Force officer, conflict already HOLDed. Nothing absorbable. -->
+<!-- deepen-x slice 10051909-4 2026-10-07: deepened — husband 許盛男 memoir-corpus context absorbed (ourjourneys9 founding president 紐約紐澤西台灣人社團聯合會; FAPA #174/#176). -->
