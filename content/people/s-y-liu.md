@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # S. Y. Liu (劉淑媛)
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-10-01
 <!-- deepen-x 09231000-15: verified-saturated — corpus re-scan (works/articles) fresh 2026-09-25: ZH+EN grep hit set identical to prior passes (own TAH record + already-wikilinked works/index entries only); no new community material. -->
 <!-- deepen-x 09252123-1: verified-saturated — fresh ZH+EN grep 2026-09-26: hit set = whos-who-1846 + ourjourneys270 + works index, all already wikilinked/absorbed; no new community material. -->
 <!-- deepen-x 09250317-22: verified-saturated — fresh ZH+EN grep 2026-09-25: hit set = whos-who-1846 + ourjourneys270 + works index, all already wikilinked/absorbed above; no new community material. -->
+<!-- deepen-x 10051340-27: verified-saturated — wide ZH+EN grep 2026-10-07 across works/articles/sources/events/topics: hit set = whos-who-1846 + ourjourneys270 + index/sources hubs, all already wikilinked/absorbed above; no new community material. -->
