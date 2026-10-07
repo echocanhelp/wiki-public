@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # David J. Lu (盧焜熙)
 
@@ -44,6 +44,7 @@ PhD, International Law and International Relations
 - Corpus re-check 2026-09-24 (slice 09230900-10): fresh grep again returns the two linked records, works/index, and the Slackwood/聖恩教會 memoir in [[works/taiwaneseamericanhistory-org/ourjourneys43|Our Journeys 43]] — the "David Luck (Kingston Church)" there is confirmed a different person (PCSA New Jersey church-plant committee member, 1999), not Lu. SKIP-no-new-facts.
 - Corpus re-check 2026-09-26 (slice 09251400-3): fresh grep 盧焜熙|David J. Lu re-hits only the two wikilinked band-B records (109, 590) — hit set identical to all prior rounds. Verified saturated; SKIP-no-new-facts.
 - Corpus re-check 2026-09-25 (slice 09240900-4): fresh grep 盧焜熙/David J. Lu/David Lu returns the same set — the two wikilinked band-B records (109, 590), works/index, and the Our Journeys 43 memoir, where "David Luck (Kingston Church)" again reads as the PCSA 新澤西中會『新教會發展委員會』member (1999, Fletcher 牧師任主席), not Lu. Verified saturated; SKIP-no-new-facts.
+- **Kinship (new, slice 10051340-20, 2026-10-07):** 盧焜熙 is recorded as the younger brother (弟) of [[people/john-lai|John Lai 盧明]] — parents 父盧明 / 母賴葉, John Lai as 長男 took 母姓 — per the TAH biography block on John Lai's page; the 吳三連-sourced timeline further has him among the six台籍文科生 who audited 國際公法 at 省立臺北高中 when his brother taught there in 1946 春. Cross-corroborated by [[organizations/columbia-university-taiwanese-american-students-association|Columbia CLASA]], which carries his 1960 "first Ph.D. in law from Columbia" milestone.
 
 ## Family
 

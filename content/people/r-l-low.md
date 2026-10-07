@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-07
 ---
 # R. L. Low (羅瑞蘭)
 
@@ -38,6 +38,7 @@ last_reviewed: 2026-09-27
 - Corpus re-check 2026-09-24 (slice 09230900-22): hit set again identical (羅瑞蘭 / Rui-Lan Lo / R. L. Low → [[works/taiwaneseamericanhistory-org/musician417|#417]], [[works/taiwaneseamericanhistory-org/whoswho1771|#1771]], works index) — verified saturated; SKIP-with-nothing-absorbable.
 - Corpus re-check 2026-09-25 (slice 09250317-12): fresh grep 羅瑞蘭 / Rui-Lan Lo / R. L. Low → only own TAH vocal record [[works/taiwaneseamericanhistory-org/musician417|#417]], Who's Who [[works/taiwaneseamericanhistory-org/whoswho1771|#1771]], works index — identical to prior waves; nothing new absorbable.
 - Corpus re-check 2026-09-26 (slice 09251527-2): grep 羅瑞蘭 / R. L. Low / Rui-Lan Lo → identical saturated set ([[works/taiwaneseamericanhistory-org/musician417|#417]], [[works/taiwaneseamericanhistory-org/whoswho1771|#1771]], works index); no memoir mentions; SKIP-nothing-absorbable.
+- **Cohort cross-link (slice 10051340-20, 2026-10-07):** 羅瑞蘭 is named on [[people/m-y-huang|M.Y. Huang 黃美雲]]'s page as members of the same 2017-07-24 TAH musician cohort ([[works/taiwaneseamericanhistory-org/musician419|#419]], with [[works/taiwaneseamericanhistory-org/musician-christina-long|隆愛真]]) — m-y-huang already wikilinks her via #417; her page now links back to m-y-huang (reciprocity completed here). Full-tree grep 羅瑞蘭 confirms no other person/org page references her.
 
 ## Family
 
