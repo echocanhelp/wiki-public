@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-07
 ---
 # T. Y. Ko (柯翠園)
 
@@ -57,3 +57,4 @@ last_reviewed: 2026-10-06
 
 > SKIP-note (deepen-x slice 09260400-20, 2026-09-26): fresh ZH+EN re-grep — hit set identical again (work 66, ourjourneys 60/154/161/245, whos-who-1629); no new memoir or event mention. SKIP: verified-saturated.
 > SKIP-note (deepen-x slice 10051143-1, 2026-10-06): fresh ZH+EN re-grep — hit set identical again (work 66, ourjourneys 60/154/161/245, whos-who-1629, plus 169 戲如人生 already absorbed); no new corpus facts. SKIP: verified-saturated.
+> SKIP-note (deepen-x slice 10060911-1, 2026-10-07): fresh ZH+EN re-grep across works/articles/sources/events/topics — hit set identical again (work 66, ourjourneys 60/154/161/245, whos-who-1629, work 169 戲如人生); no new corpus facts. SKIP: verified-saturated.
