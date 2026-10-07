@@ -19,6 +19,7 @@ last_reviewed: 2026-10-01
 - Corpus re-grep 2026-09-22: corpus hits limited to the works index and the subject's own record; no third-party mentions in memoirs or community works; nothing new absorbable.
 - Corpus re-grep 2026-09-25 (deepen-x slice 4): hits still only [[works/taiwaneseamericanhistory-org/whoswho1464|whoswho1464]] + works/index; father's record [[works/taiwaneseamericanhistory-org/whoswho1462|whoswho1462]] adjacent in index only. SKIP-with-reason stands.
 - Corpus re-grep 2026-09-26 (deepen-x slice 09251031-7): same hit set — own record + index only; nothing new absorbable. SKIP-with-reason stands.
+- Corpus re-grep 2026-10-07 (deepen-x slice 10051948-16): fresh ZH+EN+variant grep across works/articles/sources/events/topics — surname 曾 hits are unrelated Tsung/Tsung-family records (whos1260, jeffrey-tsung, long-tsung-tsai, ourjourneys); zero hits for 曾毓安/毓安 outside own record [[works/taiwaneseamericanhistory-org/whoswho1464|whoswho1464]]. SKIP stands.
 
 ## Identity Snapshot
 - **English:** Patricia Anne Tsung

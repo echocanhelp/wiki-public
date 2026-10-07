@@ -45,3 +45,4 @@ last_reviewed: 2026-10-01
 <!-- deepen-x re-verified SKIP 2026-09-26 (slice 09251047-9): fresh grep (蔡哲元 / Jer-Yuan Tsai, works+articles) -> only own #1809 record + index; nothing absorbable. -->
 
 <!-- deepen-x re-verified SKIP 2026-10-02 (slice 09261400-6): fresh ZH+EN grep (full-corpus scope: works/ + articles/ + knowledge/) -> only own Who's Who record + works index + source roster link; no third-party memoir material. SKIP stands. -->
+<!-- deepen-x re-verified SKIP 2026-10-07 (slice 10051948-16): fresh ZH+EN+variant grep across works/articles/sources/events/topics -> only own record #1809 + index; no third-party mentions. -->

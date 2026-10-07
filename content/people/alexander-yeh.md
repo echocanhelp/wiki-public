@@ -52,3 +52,4 @@ Corpus re-scan 2026-09-25: re-verified — sole ZH+EN hits are his own record [[
 Corpus re-scan 2026-09-26 (deepen-x 09251047-8): SKIP re-confirmed — fresh grep hits only [[works/taiwaneseamericanhistory-org/whoswho1392|1392]] and the index listing.
 
 <!-- deepen-x re-verified SKIP 2026-10-02 (slice 09261400-6): fresh ZH+EN grep (full-corpus scope: works/ + articles/ + knowledge/) -> only own Who's Who record + works index + source roster link; no third-party memoir material. SKIP stands. -->
+<!-- deepen-x re-verified SKIP 2026-10-07 (slice 10051948-16): fresh ZH+EN+variant grep across works/articles/sources/events/topics -> only [[works/taiwaneseamericanhistory-org/whoswho1392|own record #1392]] + index; no third-party mentions. -->
