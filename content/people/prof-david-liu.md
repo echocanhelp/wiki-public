@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-07
 ---
 # Prof. David Liu (劉如謙教授)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09260600-31 (2026-09-27): saturated re-verify — fresh ZH+EN grep hit set unchanged; all records already absorbed above. SKIP-content. -->
+> Corpus re-scan 2026-10-07 (deepen-x slice 10051340-21): fresh grep 劉如謙/David Liu/如謙 across all corpus dirs — same set (#58 Nature's 10, #913 Breakthrough Prize, #1983 Who's Who, index, Olympian-memoir HOLD). Verified-saturated; SKIP-deepen.
