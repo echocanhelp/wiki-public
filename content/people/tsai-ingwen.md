@@ -5,7 +5,7 @@ redirect_to: people/tsai-ing-wen
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 
 # Moved
@@ -29,3 +29,7 @@ _(none yet — this is a redirect stub. Content will be populated when the canon
 Chronological events for **Tsai Ing Wen**:
 
 _(none yet — this is a redirect stub.)_
+
+## Deepen-X note
+
+Re-verified 2026-10-06 (deepen-x slice 10051314-12): redirect stub; canonical page [[people/tsai-ing-wen]] exists and is fully deepened. Nothing to absorb here. SKIP.
