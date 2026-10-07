@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Joe Chou (周景聲)
 
@@ -35,7 +35,9 @@ last_reviewed: 2026-10-01
 
 
 ## Community Record
-Corpus sweep (2026-09-20, re-verified 2026-09-22): appears in the TA.org Who's Who corpus twice — [[works/taiwaneseamericanhistory-org/whoswho1020-2|1020. Joe Chou 周景聲 / 2016/05]] and a second 2016/11 entry [[works/taiwaneseamericanhistory-org/whoswho1360|1360. Joe Chou / 2016/11]]. Both are bibliographic records; no memoir/letter mentions found in works/articles beyond his own entries, so no biographical deepening this pass.
+Corpus sweep (2026-09-20, re-verified 2026-09-22): appears in the TA.org Who's Who corpus twice — [[works/taiwaneseamericanhistory-org/whoswho1020-2|1020. Joe Chou 周景聲 / 2016/05]] and a second 2016/11 entry [[works/taiwaneseamericanhistory-org/whoswho1360|1360. Joe Chou / 2016/11]]. Both are bibliographic records; no memoir/letter mentions found in works/articles beyond his own entries.
+
+Deepen-x 2026-10-06 (slice 10051314-11): corpus grep (周景聲 / Joe Chou) surfaced a community-material hit outside the Who's Who records — [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]] lists Rev. 周景聲 as a course instructor ("Religion and science") and among its notable speakers, 2009–2026. This corroborates the pastoral role in his Employment table (愛恩台福教會 — 牧師); no conflict flagged. No memoir/letter mentions found.
 
 ## Sources
 - [TAH #1020 encyclopedia: 1020. Joe Chou 周景聲 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1020-2/)

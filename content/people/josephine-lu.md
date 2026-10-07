@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Josephine Lu (沈雲冰)
 
@@ -34,6 +34,7 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 - Her own TAH corpus record: [[works/taiwaneseamericanhistory-org/whoswho1144|1144. Josephine Lu 沈雲冰 / 2016/07]]; her husband's paired record: [[works/taiwaneseamericanhistory-org/whoswho1142|1142. J. C. Lu 盧健治 / 2016/07]].
 - HOLD: conflict in husband's name — Family section says 盧建治, the paired TAH record says 盧健治 (建 vs 健); not auto-merged. Re-verified 2026-09-25/26 (slices 09232232-26, 09251054-20): fresh ZH+EN grep found no new corpus material beyond these paired records; SKIP-with-reason.
+- Re-verified 2026-10-06 (slice 10051314-11): fresh ZH+EN grep 沈雲冰 / Josephine Lu / 盧建治 / 盧健治 across works/articles/sources/events/topics — hits are only her own paired records [[works/taiwaneseamericanhistory-org/whoswho1144|whoswho1144]] / [[works/taiwaneseamericanhistory-org/whoswho1142|whoswho1142]], the index listings, and [[people/j-c-lu||J. C. Lu]]; no memoir material. SKIP-with-reason stands.
 
 ## Sources
 - [TAH #1144 encyclopedia: 1144. Josephine Lu 沈雲冰 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1144/)
