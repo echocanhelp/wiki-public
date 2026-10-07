@@ -66,3 +66,4 @@ last_reviewed: 2026-09-30
 
 <!-- TJJ-A09251500-2: verified 2026-09-26 — subject links in slice 09251500-2 articles (1251d9ed 五大會館萊豬聲明 / 92ff3ef6 彭明敏研討會 / 6e021ae4 吳修銘任拜登特助 / e1e223aa 蘇姿丰年薪榜首) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 - 再核（deepen-x slice 09260500-2, 2026-09-26）：fresh grep 吳明達|Min-Da Wu 命中集不變（158 書目頁、TJJ 2021-01-12 張良澤文、TJJ/CNA 2021-03-05 吳修銘文、index）；真理大學同名人 HOLD 維持 — SKIP，無新增可吸收事實。
+<!-- TJJ-A10060400-17: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-17 articles (ad7f737b9872262d 第55回世界臺灣文化論壇「大佛普拉斯」, 2022-10-03 / 1251d9ed43ef6e32 美國五大台灣會館評萊豬, 2021-01-12 / 92ff3ef6b0b74b9c 彭明敏紀念研討會跨世代對談, 2023-09-24 / 6e021ae439684a11 台裔吳修銘任拜登特助, 2021-03-05): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
