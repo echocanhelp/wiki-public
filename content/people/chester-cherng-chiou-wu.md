@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Chester Cherng Chiou Wu (吳澄秋博士)
 
@@ -49,3 +49,5 @@ Chester Cherng Chiou Wu 吳澄秋博士 – History of Taiwanese American (T.A. 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- DEEPEN-X SKIP 2026-10-07 (slice 10052007-18): five-dir grep (吳澄秋 / 澄秋 / Chester Wu) across works/articles/sources/events/topics -> own TAH #1959 record + index + source page only. No memoir/community hits; saturated. -->

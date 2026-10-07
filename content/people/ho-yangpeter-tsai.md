@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-07
 ---
 # Ho-Yang Peter Tsai (蔡和陽)
 
@@ -48,3 +48,5 @@ SKIP-with-reason (2026-09-18): the only corpus record for this person, TAH story
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- DEEPEN-X SKIP 2026-10-07 (slice 10052007-18): five-dir grep (蔡和陽 / Ho-Yang / 和陽) -> own TAH #1656 record + index only; taiwanjustice-net hits are substring noise ("鋼和陽明", "強悍和陽剛" contain 和陽). Nothing absorbable; saturated. -->
