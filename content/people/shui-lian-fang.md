@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Shui-Lian Fang (方廖水蓮)
 
@@ -60,3 +60,4 @@ No other corpus memoirs/records mention her or 方國炤; biography beyond the a
 - 2026-09-25 (slice 09250317-10): fresh grep returns only #1251 autobiography, #2167 Who's Who, works index — saturated, SKIP.
 <!-- deepen-x 09251500-4: verified-saturated — fresh grep 2026-09-26 (方廖水蓮/Shui-Lian Fang/方國炤) returns only #1251 autobiography, #2167 Whos Who, works index; saturated, SKIP. -->
 <!-- deepen-x 09260854-23: re-verify 2026-09-30 — fresh grep (方廖水蓮/Shui-Lian Fang/方國炤, works+articles): identical hit set (#1251 autobiography, #2167 Whos Who, works index), all already absorbed/wikilinked. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 10051340-22: re-verify 2026-10-07 — widened grep (方廖水蓮/Shui-Lian Fang/方廖/水蓮) across works+articles+sources+events+topics returns only own records #1251 autobiography + #2167 Who's Who + works index. 水蓮 hits are false matches (呂秀蓮「水蓮配」election-ticket term in taiwanjustice columns, 李水蓮 in ourjourneys316 roster, 海外水蓮會 org page — none this person). Verified-saturated; SKIP. -->
