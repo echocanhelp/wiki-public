@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Eric Wu (吳爾融)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-sweep 2026-10-06 (slice 10051314-6): fresh ZH+EN grep across works/ articles/ sources/ events/ topics — hits unchanged (self-record + index only); no new absorbable facts. SKIP.

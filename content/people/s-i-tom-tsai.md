@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # S.I. Tom Tsai (蔡式宜)
 
@@ -46,3 +46,4 @@ last_reviewed: 2026-10-01
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-sweep 2026-09-26 (slice 09251047-2): fresh grep of works/ + articles/ — hits unchanged (own record / already-cited material only); no new absorbable facts. SKIP.
+- Re-sweep 2026-10-06 (slice 10051314-6): fresh ZH+EN grep across works/ articles/ sources/ events/ topics — hits unchanged (self-record + index only); no new absorbable facts. SKIP.
