@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-06
 ---
 # Masa C. W. Chen (陳正旺)
 
@@ -55,3 +55,4 @@ The orchid years are documented in the community's own story corpus: [[works/tai
 - Re-check 2026-09-24 (slice 09230400-14): fresh re-grep 陳正旺/Masa returns the same cited set (TAH #2294, mystories-765, harvest index); the extra raw hits ourjourneys74-eng and the 福岡滅門案 news article are 'Masao'/romanization false positives, not this person — verified saturated, no new material. SKIP-with-reason.
 - Re-grep 2026-09-25 (slice 09240317-29): same cited set (TAH #2294, mystories-765, works index) — SKIP, saturated; section remains current.
 - Re-grep 2026-09-25 (slice 09250800-18): fresh grep 陳正旺 / Masa C. W. Chen over works/ + articles/ returns the same cited set (TAH #2294, mystories-765, harvest index) — SKIP, verified saturated.
+- Re-grep 2026-10-06 (slice 10051340-13): fresh grep 陳正旺 / Masa over works/articles/sources/events/topics returns the same cited set (whos-who-2294, mystories-765, index); ourjourneys74-eng and the 福岡滅門案 article hits are Masao Yu / Masako Mori romanization false positives, not this person — verified-saturated, SKIP. mystories-765 is a bibliographic stub (full text in vault), no new absorbable facts.
