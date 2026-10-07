@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Ming Jer Kuo (郭明哲)
 
@@ -42,3 +42,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-10-07 deepen-x slice 10052045-26 re-check: five-dir grep (works/articles/sources/events/topics; ZH+EN+surname+substring probes) returned only this person's own record and index listings — SKIP: verified-saturated, no new corpus material.

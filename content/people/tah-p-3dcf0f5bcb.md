@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # 賴東成
 
@@ -42,3 +42,4 @@ _SKIP (deepen-x 09181100-27; re-verified deepen-x 09200939-10, 09210920-31, 0924
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-10-07 deepen-x slice 10052045-26 re-check: five-dir grep (works/articles/sources/events/topics; ZH+EN+surname+substring probes) returned only this person's own record and index listings — SKIP: verified-saturated, no new corpus material.
