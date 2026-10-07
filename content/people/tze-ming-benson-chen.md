@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Tze-Ming Benson Chen
 
@@ -47,3 +47,5 @@ The corpus holds his TAH Who's Who encyclopedia entry — record #1207, publishe
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10052158-16 2026-10-07: five-dir re-sweep (ZH+EN+Benson Chen variants) — hits remain only own record whoswho1207 + works index; CIRM/Johns Hopkins probes matched unrelated records. SKIP: verified-saturated. -->

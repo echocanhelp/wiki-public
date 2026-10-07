@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Yu-Chieh Jack Wang
 
@@ -48,3 +48,5 @@ HOLD: name collision — [[works/taiwaneseamericanhistory-org/581-gene-jack-wang
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10052158-16 2026-10-07: five-dir re-sweep (ZH+EN+Jack Wang variants) — hits remain own whoswho1368, already-HOLD namesake #581 Gene-Jack Wang 王俊傑 (incl. ourjourneys305 roster mention), works index; TAAPS enewsletter matched pharmaceutical-sciences topic only, not this person. SKIP: verified-saturated. -->
