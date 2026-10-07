@@ -83,3 +83,4 @@ Her USC vocal-performance years also connect to the vault's [[organizations/taiw
 - No new biography asserted, no web used, no new pages created, nothing published.
 
 <!-- TJJ-A10030500-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-3 article 2589c86787ef4241 (228介心靈日防疫音樂會, 2020-03-01 刊): subject link (許恂恂任半音合唱團指揮、帶兩子參加、「歷史要傳承下去」) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- TJJ-A10060400-11: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-11 article 2589c86787ef4241 (228介心靈日防疫音樂會, 2020-03-01 刊): 許恂恂任半音合唱團指揮、帶兩子參加、「歷史要傳承下去」 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
