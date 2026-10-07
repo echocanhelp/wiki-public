@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Fong Ling (峰怜)
 
@@ -48,3 +48,4 @@ last_reviewed: 2026-10-01
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-25 re-sweep (slice 09232232-4): fresh ZH+EN grep — hits are only own records [[works/taiwaneseamericanhistory-org/whos459-fong-ling|459]] / [[works/taiwaneseamericanhistory-org/artist48-fong-ling|48]] + works/index; no new community facts; SKIP-deepen stands.
 - 2026-09-26 re-sweep (slice 09251039-9): fresh ZH+EN grep — hits remain own records [[works/taiwaneseamericanhistory-org/whos459-fong-ling|459]] / [[works/taiwaneseamericanhistory-org/artist48-fong-ling|48]] + works index; no new community facts; SKIP-deepen stands.
+- 2026-10-07 re-sweep (deepen-x slice 10051948-19): five-dir grep (峰怜/Fong Ling/Chien Fong Wu) — only own records [[works/taiwaneseamericanhistory-org/whos459-fong-ling|459]] / [[works/taiwaneseamericanhistory-org/artist48-fong-ling|48]] + works/sources index; no memoir or article mentions. Verified-saturated; SKIP stands.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Chiuder Hsiao (蕭秋德)
 
@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 
 - SKIP confirmed (2026-09-25 re-grep): hits limited to own entry [[works/taiwaneseamericanhistory-org/whoswho1525|1525. Chiuder Hsiao 蕭秋德]] + works/index; nothing absorbable.
 - Re-swept 2026-09-26 (slice 09251039-30): fresh ZH+EN greps return only the own record above + works index — SKIP, no memoir/organization material.
+- Re-verified 2026-10-07 (deepen-x slice 10051948-19): five-dir grep (蕭秋德/Chiuder/秋德/太空中心/Halliburton) — apparent hits are false positives: 夏格巴·旺秋德丹 (Shakabpa) in a taiwanjustice article, and 太空中心 mentions of 郭正光/詹森太空中心 in mystories319/ourjourneys106, none about this person. Verified-saturated; SKIP stands.
 
 ## Sources
 - [TAH #1525 encyclopedia: 1525. Chiuder Hsiao 蕭秋德 2017/02](https://taiwaneseamericanhistory.org/whoswho1525/)
