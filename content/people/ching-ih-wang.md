@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-06
 ---
 # Ching Ih Wang (王進益)
 
@@ -54,3 +54,5 @@ last_reviewed: 2026-09-30
 
 <!-- deepen-x slice 09250400-3 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already linked/absorbed above (plus works/index rollup); nothing new absorbable; no conflicts. SKIP-with-reason (verified saturated). -->
 <!-- deepen-x slice 09251527-18 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/+articles/ returns only the records already linked/absorbed in Role in the Community (plus works/index rollup); no new corpus material, no conflicts to hold. -->
+
+Corpus re-check (deepen-x slice 10051340-10, 2026-10-06): fresh ZH+EN+surname grep returned only #2135, #652, #42 and works/index, all already linked above; surname hits for 王進 are a distinct person (Prof. Chin-Hsien Jim Wang 王進賢, #244/#418, ourjourneys352) — verified saturated, SKIP, no conflicts.

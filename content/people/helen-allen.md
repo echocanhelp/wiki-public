@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-06
 ---
 # Helen Allen (趙夏蓮)
 
@@ -52,3 +52,5 @@ last_reviewed: 2026-09-30
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-check 2026-09-26 (deepen-x slice 09251400-8): fresh grep — hit set identical (ourjourneys-138 roster line, TAH #310, TAH #625, works/index), all already absorbed and linked above. SKIP.
 - Corpus re-check 2026-09-30 (deepen-x slice 09260800-27): fresh grep — hit set identical (ourjourneys-138 roster line, TAH #310, TAH #625, works/index), all already absorbed and linked above. SKIP.
+
+Corpus re-check (deepen-x slice 10051340-10, 2026-10-06): fresh ZH+EN grep returned the identical hit set (ourjourneys-138 roster line, TAH #310, TAH #625, works/index), all already absorbed and linked above — verified saturated, SKIP, no conflicts.
