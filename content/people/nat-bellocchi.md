@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 <!-- deepen-x slice 09211507-26: verified-saturated 2026-09-22 — re-grepped works+articles for 白樂崎/Bellocchi: only own TAH #839 record + index row; SKIP-with-reason in 'Role in the Community' stands. -->
 # Nat Bellocchi (白樂崎)
@@ -48,3 +48,4 @@ SKIP (2026-09-18): corpus grep for 白樂崎 / Bellocchi across content/works an
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10051918-18 (2026-10-07): fresh ZH+EN+family greps (白樂崎/Bellocchi/白麗蘭/賈桂林) across works/articles/sources/events/topics — only hit is the taiwaneseamericanhistory.org source index listing; zero corpus/memoir mentions. Verified-saturated; SKIP. -->
