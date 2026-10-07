@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Prof. Pai-Hsiang Chou (周百祥教授)
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Re-verified 2026-10-07 (deepen-x slice 10051918-32): fresh ZH+EN grep across all five corpus dirs returns only his own TAH press-kit entry and the works index — SKIP-absorb stands, verified-saturated.

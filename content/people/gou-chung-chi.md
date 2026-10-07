@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Gou-Chung Chi (紀國鐘)
 
@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-verified 2026-10-07 (slice 10051918-32): fresh ZH+EN greps across all five corpus dirs return only #766 (bibliographic) and ourjourneys256 (紐澤西同鄉會 acknowledgement roster, already absorbed); no new absorbable material — verified-saturated.
