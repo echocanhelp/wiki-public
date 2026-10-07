@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Amy Liao (廖允民)
 
@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 - HOLD: conflict — TAH profile geography says Ontario/Canada and employment lists Esperanza Health Care, while the 2013 TaiwaneseAmerican.org byline note places her in Philadelphia; not merged.
 - Her own TAH story is held at [[works/taiwaneseamericanhistory-org/whoswho1693|1693. Amy Liao 廖允民 / 05/2017]].
 - Corpus re-scan 2026-09-21, 2026-09-25 and 2026-09-26 (slice 09251031-16): no additional mentions beyond her own record [[works/taiwaneseamericanhistory-org/whoswho1693|1693. Amy Liao 廖允民 / 05/2017]], the Stephanie Chang interview above, and the auto-generated works/index listing — nothing new absorbable.
+- Re-verified 2026-10-07 (slice 10051400-21): fresh grep (Amy Liao / 廖允民) across all five corpus dirs — hits remain only the two works above + index/source hub. A broad surname sweep (Liao / 廖) returns distinct Liaos (廖坤塗 #165/#672, Thomas Liao in 3F memoirs) — different people, not merged. SKIP stands.
 
 ## Sources
 - [TAH #1693 encyclopedia: 1693. Amy Liao 廖允民 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1693/)

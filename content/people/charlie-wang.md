@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Charlie Wang (王清圻)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-10-01
 - Profiled in the TAH community record [[works/taiwaneseamericanhistory-org/267-charlie-wang-e7-8e-8b-e6-b8-85-e5-9c-bb201502|267. Charlie Wang 王清圻]] (published 2015-02-05).
 - Re-grep 2026-09-25 (slice 09231500-22): fresh ZH+EN greps of works/ + articles/ return only his own essay #182 and profile #267 (plus index entries); no further community mentions to absorb.
 - Re-grep 2026-09-26 (slice 09251039-12): fresh ZH+EN greps of works/ + articles/ return only his own profile #267, his own essay #182, and index entries; no further community mentions to absorb.
+- Re-verified 2026-10-07 (slice 10051400-21): fresh grep (王清圻 / Charlie Wang) across works/articles/sources/events/topics — hits remain only his own essay #182 and profile #267 + index/source hub. SKIP stands.
 
 ## Sources
 - [TAH #267 encyclopedia: 267. Charlie Wang 王清圻/2015/02](https://taiwaneseamericanhistory.org/267-charlie-wang-%e7%8e%8b%e6%b8%85%e5%9c%bb201502/)

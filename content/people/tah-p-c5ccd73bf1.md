@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # 陳國明
 
@@ -14,6 +14,7 @@ last_reviewed: 2026-10-01
 <!-- deepen-x: SKIP re-verified 2026-09-22 (slice 09210920-29) — fresh ZH+EN grep: only own bibliographic record [[works/taiwaneseamericanhistory-org/93-e9-99-b3-e5-9c-8b-e6-98-8e|93. 陳國明]], index co-listings, and the unrelated 北京 sandstorm-namesake article. Nothing absorbable. -->
 <!-- deepen-x: SKIP re-verified 2026-09-25 (slice 09232232-16) — fresh grep: only own record, index co-listings, and the unrelated 北京沙塵暴 namesake article. Nothing absorbable. -->
 <!-- deepen-x: SKIP re-verified 2026-09-26 (slice 09251047-8) — fresh grep: only own record [[works/taiwaneseamericanhistory-org/93-e9-99-b3-e5-9c-8b-e6-98-8e|93. 陳國明]], index co-listings, and the unrelated 北京沙塵暴 namesake article. Nothing absorbable. -->
+<!-- deepen-x: SKIP re-verified 2026-10-07 (slice 10051400-21) — fresh grep 陳國明 across works/articles/sources/events/topics: only own record, index co-listings, and the unrelated 北京沙塵暴 namesake quote (taiwanjustice.net 2025-06-16). Nothing absorbable. -->
 
 ## Identity Snapshot
 - **English:** —
