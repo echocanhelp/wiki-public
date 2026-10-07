@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Susan Suying Lee (李淑英)
 
@@ -45,6 +45,7 @@ last_reviewed: 2026-10-01
 - No memoir or community-activity narrative found in the corpus beyond these directory/encyclopedia records; the existing Education/Employment tables (NTU Library Science 1973 → UW-Madison MBA 1984 → programmer/project-leader careers in Wisconsin and at Edison Electricity) remain the substance of the record.
 - Re-check 2026-09-25 (slice 09231100-12; fresh grep 李淑英 / Susan Suying Lee): corpus hits are only her own record [[works/taiwaneseamericanhistory-org/209-susan-suying-lee-e6-9d-8e-e6-b7-91-e8-8b-b1|209]] and the works index — verified-saturated, nothing new absorbable.
 - Re-grep 2026-09-26 (slice 09252123-29): fresh ZH+EN grep of works/ + articles/ returns the identical hit set already cited above — verified saturated, nothing new absorbable.
+- Re-grep 2026-10-07 (slice 10051918-10): fresh grep of works/articles/sources/events/topics for 李淑英 / Susan Suying Lee / Suying returns only her own record [[works/taiwaneseamericanhistory-org/209-susan-suying-lee-e6-9d-8e-e6-b7-91-e8-8b-b1|209]], the works index, and the sources hub. The Shu-ying Cheng hits in ourjourneys292-eng are a different person (TAA board roster); the Mike Lee hits in taiwanjustice articles are Senator Mike Lee of Utah, not 李振生. Verified saturated.
 
 ## Sources
 - [TAH #209 encyclopedia: 209. Susan, Suying Lee 李淑英/2015/01](https://taiwaneseamericanhistory.org/209-susan-suying-lee-%e6%9d%8e%e6%b7%91%e8%8b%b1/)

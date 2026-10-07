@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Stephen S. Chu (朱石象)
 
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - SKIP re-verify (2026-09-25, deepen-x slice 09231200-25): fresh grep returns only the same [[works/taiwaneseamericanhistory-org/whoswho1295|TAH #1295]] + index line — no memoir or article mentions; nothing absorbable.
 - SKIP re-verify (2026-09-25, deepen-x slice 09250500-24): fresh grep of works/+articles/ for 朱石象/Stephen S. Chu returns zero hits outside his own record — saturated.
 - SKIP re-verify (2026-10-01, deepen-x slice 09261100-22): fresh grep of works/+articles/ for 朱石象/Stephen S. Chu returns only [[works/taiwaneseamericanhistory-org/whoswho1295|TAH #1295]] + its works/index.md line — still saturated, nothing absorbable.
+- SKIP re-verify (2026-10-07, deepen-x slice 10051918-10): fresh grep of works/articles/sources/events/topics for 朱石象 / Stephen S. Chu / Shih-Hsiang (+ 石象 alone) returns only [[works/taiwaneseamericanhistory-org/whoswho1295|TAH #1295]], the works index, and the sources hub — no memoir or article mentions; saturated.
 
 **Corpus records:** [[works/taiwaneseamericanhistory-org/whoswho1295|1295. Stephen S. Chu 朱石象 / 2016/10]]
 
