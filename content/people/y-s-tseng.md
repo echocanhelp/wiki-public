@@ -7,12 +7,13 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 # deepen-x slice 09210920-26: SKIP re-verified 2026-09-22 — corpus hit is only own TAH #1007 stub (band B, bibliographic only)
 ---
 <!-- deepen-x slice 09251054-10: SKIP re-verified 2026-09-26 — fresh ZH+EN grep: only own TAH #1007 stub + works/index -->
 <!-- deepen-x slice 09232337-14: SKIP re-verified 2026-09-25 — fresh ZH+EN grep of works/articles: only own TAH stub + works/index -->
 <!-- deepen-x slice 09261405-14: SKIP re-verified 2026-10-01 — fresh ZH+EN grep of works/articles: only own TAH #1007 stub + works/index; no absorbable material -->
+<!-- deepen-x slice 10052007-15: SKIP re-verified 2026-10-07 — five-dir grep (曾元勝/Y. S. Tseng/曾元/元勝): only own TAH #1007 stub + works/index; surname-only sweep found nothing else. -->
 
 # Y. S. Tseng (曾元勝)
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Chen Chang Lee (李振昌)
 
@@ -45,3 +45,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10052007-15: SKIP re-verified 2026-10-07 — five-dir grep (李振昌/Chen Chang Lee/振昌): only own TAH #1749 record + sources index; the 振昌 passages in OJ #49/#256 belong to 林振昌 (C. C. Lin), a different person. No absorbable community material. -->

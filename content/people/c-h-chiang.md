@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # C. H. Chiang (蔣政宏博士)
 
@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10052007-15: SKIP re-verified 2026-10-07 — five-dir grep (蔣政宏/C. H. Chiang/政宏): the only fact-bearing corpus mention remains OJ #245 (1996 第十八屆台美同志會年會召集人, already absorbed above); 政宏 hits in OJ #74/#212 belong to 陳政宏 and 干政宏, different people. Nothing new absorbable. -->
