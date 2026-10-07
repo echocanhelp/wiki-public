@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dr. Ketty W. Chen (陳婉宜)
 
@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 
 ## Corpus check (deepen-x 09231100-28, 2026-09-25)
 SKIP (verified saturated) — fresh 陳婉宜+EN grep returns only own bibliographic record [[works/taiwaneseamericanhistory-org/745-dr-ketty-w-chen-e9-99-b3-e5-a9-89-e5-ae-9c-201601|TAH #755]] and the 2021 Raisina Dialogue report already wikilinked in Role in the Community — no new absorbable facts.
+
+<!-- deepen-x slice 10051400-7 recheck 2026-10-07: fresh ZH+EN+variant grep across works/articles/sources/events/topics returned only TAH #755 + the 2021 Raisina Dialogue article already cited; other 民主基金會 hits belong to 楊黃美幸 (different person). SKIP stands, verified saturated. -->
