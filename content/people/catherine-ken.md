@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Catherine Ken (耿懿芝)
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- DEEPEN-X slice 10051909-8 2026-10-07: re-verified SKIP. Fresh grep (耿懿芝 / Catherine Ken / surname-only 耿 across works+articles+sources+events+topics) hits only own record whoswho1296 + index/sources; surname-only 耿 hits are other people (Keng-* Wade-Giles romanizations, e.g. 吳耿維/Keng-Wei Kuo), not Catherine Ken. No absorbable corpus material. -->

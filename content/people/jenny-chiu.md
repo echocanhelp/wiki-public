@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Jenny Chiu (邱正鵑)
 
@@ -44,3 +44,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- DEEPEN-X slice 10051909-8 2026-10-07: re-verified SKIP. Fresh grep (邱正鵑 / Jenny Chiu / given-name-only 正鵑 across all five corpus dirs) hits only own record whos-who-1801 + index/sources; the 邱正 hit in taiwanjustice-net is 邱正雄 (Cheng-Ching Chiu, banker), not Jenny Chiu. No absorbable corpus material. -->
