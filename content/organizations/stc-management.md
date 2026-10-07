@@ -7,7 +7,7 @@ tags:
   - real-estate
   - los-angeles-area
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-07
 ---
 # STC Management (順天 · Sung Tien Collaboration)
 

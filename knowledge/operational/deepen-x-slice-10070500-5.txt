@@ -1,0 +1,4 @@
+people/rev-prof-joseph-wang.md
+people/c-h-lin.md
+people/prof-hsing-lih-chou.md
+people/tom-thomas-shih.md

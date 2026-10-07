@@ -1,0 +1,4 @@
+organizations/duke-taiwanese-student-association.md
+organizations/penn-taiwanese-student-association.md
+organizations/southeast-bay-taiwanese-association-sebta.md
+organizations/taiwanese-american-student-association-at-georgia-tech.md

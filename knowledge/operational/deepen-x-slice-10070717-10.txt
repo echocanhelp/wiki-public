@@ -1,0 +1,4 @@
+people/wang-gstpc.md
+organizations/taiwanese-graduate-student-association-at-uc-irvine.md
+organizations/arizona-taiwanese-student-association.md
+organizations/greater-sacramento-taiwanese-association-gsta.md

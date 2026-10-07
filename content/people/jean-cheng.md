@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-07
 ---
 # Jean Cheng (鄭如珍)
 
@@ -48,6 +48,8 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-10-01 (deepen-x slice 09260900-16): fresh full-corpus grep (鄭如珍 / Jean Cheng) over `works/` + `articles/` again returns only the three records linked above plus the works index — SKIP, verified-saturated. No new community/corpus material since 2026-09-25.
 
 - Re-verified 2026-10-06 (deepen-x slice 10051143-12): fresh ZH+EN grep (鄭如珍 / Jean Cheng) across works/ + articles/ + sources/ + events/ + topics/ returns only #283, the film record, the UCSD 2022-12 donor note, and the works/sources index — SKIP, verified-saturated. No new material.
+
+- Re-verified 2026-10-07 (deepen-x slice 10060911-2): fresh ZH+EN grep (鄭如珍 / Jean Cheng) across works/ + articles/ + sources/ + events/ + topics/ returns only #283, the film record, the UCSD 2022-12 donor note, and the works/sources index — SKIP, verified-saturated. No new material.
 
 ## Timeline
 - 1993 — First film「Across a Paper Ocean」premiered on the US festival circuit

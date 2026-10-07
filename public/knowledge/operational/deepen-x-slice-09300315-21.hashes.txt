@@ -1,0 +1,4 @@
+yu-han-yeh hits-hash=7b1a424a4ec2+23862033aa0d+ed01dd5538fb
+stephanie-chuang hits-hash=8f35fb1da965+ed01dd5538fb+1ad33a8c698c+ea0542a07075+0049ced5fe6c+7e3865dfc090
+kaohsiung-hotel-association hits-hash=1a41f43e9e37
+alex-hsuan-yu-lee hits-hash=7445d190a166+8a46487fa2ea+ed01dd5538fb

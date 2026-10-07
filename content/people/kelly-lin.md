@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-07
 ---
 # Kelly Lin (林雨潔博士)
 
@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 > Corpus re-grep 2026-10-01 (slice 09260900-32): fresh ZH+EN grep of works/ + articles/ — hit set identical to prior slices (own TAH record + works index + already-linked article/memoir pages); verified-saturated, SKIP-with-reason, no new absorbable material.
 
 > Corpus re-grep 2026-10-06 (slice 10051143-12): fresh ZH+EN grep (林雨潔 / Kelly Lin) across works/ + articles/ + sources/ + events/ + topics/ — hit set identical to prior slices (own TAH records whoswho1301/musician367 + works/sources index + the three already-linked/HOLDed works pages); verified-saturated, SKIP-with-reason, no new absorbable material.
+
+> Corpus re-grep 2026-10-07 (slice 10060911-2): fresh ZH+EN grep (林雨潔 / Kelly Lin) across works/ + articles/ + sources/ + events/ + topics/ — hit set identical to prior slices (own TAH records whoswho1301/musician367 + works index + the three already-linked/HOLDed works pages); verified-saturated, SKIP-with-reason, no new absorbable material.
