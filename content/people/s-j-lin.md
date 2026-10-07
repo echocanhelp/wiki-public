@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-06
 ---
 # S. J. Lin (林宣繼)
 
@@ -60,3 +60,4 @@ last_reviewed: 2026-09-27
 - Corpus check 2026-09-25 (slice 09240800-20): re-grep (林宣繼 / S. J. Lin) unchanged — hits are exactly the works already absorbed (our-journeys-378, ourjourneys47, mystories471, whoswho2112). Verified saturated; HOLD stands.
 - Corpus check 2026-09-26 (slice 09251400-5): re-grep (林宣繼 / S. J. Lin) unchanged — hits are exactly the works already absorbed (our-journeys-378, ourjourneys47, mystories471, whoswho2112). Verified saturated; HOLD stands.
 <!-- deepen-x slice 09260600-28 (2026-09-27): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns the hit-set already absorbed on this page; no new corpus facts, no conflicts. -->
+- Corpus re-grep 2026-10-06 (slice 10051340-2): fresh ZH+EN grep across works/articles/sources/events/topics returns the hit set already absorbed+wikilinked above. Verified-saturated; SKIP-no-new-facts.
