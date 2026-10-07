@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Meeihuey Lin (林許美惠)
 
@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09250600-24: SKIP — fresh grep 2026-09-25 (works/articles): own TAH record + works index only; no memoir/community material absorbable. -->
 
 <!-- deepen-x slice 09261200-16: SKIP — fresh grep (works/articles): no hit beyond own record; hit set unchanged, no new material. -->
+
+<!-- deepen-x slice 10051918-21 recheck 2026-10-07: SKIP — fresh five-dir grep (works/articles/sources/events/topics; ZH+EN+surname): own TAH record + works index only; surname hits belong to other Hsieh / 何宗勳 individuals; no memoir or third-party material absorbable. -->
