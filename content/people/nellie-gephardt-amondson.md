@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Nellie Gephardt Amondson ‧ (納莉)
 
@@ -46,3 +46,5 @@ Nellie Gephardt Amondson 納莉‧艾默森 – History of Taiwanese American (T
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Re-check (deepen-x 10051918-19, 2026-10-07): fresh five-dir grep (works/articles/sources/events/topics) for Amondson / Gephardt / 納莉‧艾默森 / 艾默森 — hit set unchanged: own TAH #1614 profile, works/index, sources index only. No new first-person corpus material. Saturated.

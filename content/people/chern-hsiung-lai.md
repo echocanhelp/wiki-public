@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Chern-Hsiung Lai (賴辰雄)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09210831-16: SKIP — corpus re-scan (works/articles) fresh 2026-09-22: only own TAH records / already-absorbed coverage; no new community material. -->
 <!-- deepen-x 09231100-31: SKIP — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own TAH records / already-absorbed coverage); no new community material. -->
 <!-- deepen-x 09250500-6: SKIP — corpus re-scan (works/articles) fresh 2026-09-25: hits = own record whoswho1340 + index only; no memoir material. Saturated. -->
+<!-- deepen-x 10051918-19: SKIP — fresh five-dir grep (works/articles/sources/events/topics) 2026-10-07 for 賴辰雄 / Chern-Hsiung Lai: hits = own record whoswho1340 + works/index + sources index only. Chern substring hits are unrelated persons (Cherng-Chiou Wu, Wen-S Charlie Chern, Yi Cherng Lin, Cherng-Jia Hwang). Saturated; nothing absorbable. -->
