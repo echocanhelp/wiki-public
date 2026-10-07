@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Emory TSA
 
@@ -32,3 +32,5 @@ Earlier scans (deepen-x 09240400-23, 2026-09-25; deepen-x 09251100-6, 2026-09-26
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamerican-org/emory-university-ga-tech-tasa-annual-night-market|Emory University & GA Tech TASA Annual Night Market]]
 - [[works/taiwaneseamerican-org/will-tiao-speaking-at-emory-university-422|Will Tiao Speaking at Emory University 4/22]]
+
+- Re-verified 2026-10-07 (slice 10052045-31): fresh five-dir grep (Emory / Emory TSA / emory.tsa / 台灣學生會) — hits are 'memory' false positives (photo-album memorial tributes, our-journeys-357 'Memory and Identity') plus the TAH directory source page's own wikilinks. The only Emory-club corpus records (Night Market, Will Tiao, Taste of Taiwan 2010) belong to the sibling page [[organizations/taiwanese-american-student-association-at-emory-university|Emory TASA]]; its HOLD (Night Market record names GA Tech TASA, not Emory TSA) stands. Nothing absorbable — verified-saturated, SKIP.

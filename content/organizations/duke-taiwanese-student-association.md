@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-07
 ---
 # Duke Taiwanese Student Association
 
@@ -26,3 +26,5 @@ The Duke Taiwanese Student Association (DTSA) is a graduate and professional stu
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Re-verified 2026-10-07 (slice 10052045-31): fresh grep (Duke Taiwanese / DTSA / 杜克 / Duke) across works/articles/sources/events/topics — hits are unrelated individuals and venues only (ourjourneys70 杜克大學東亞圖書館 anecdote, ourjourneys256 exhibition-venue list, our-journeys-381 NC universities note, whos-who Duke PhD bio, TaiwanJustice news mentions); zero records of this association itself. Verified-saturated, SKIP.

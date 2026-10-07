@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-07
 ---
 # Penn Taiwanese Student Association
 
@@ -27,3 +27,5 @@ Penn Taiwanese Student Association is a Taiwanese student organization at the Un
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Re-verified 2026-10-07 (slice 10052045-31): fresh grep (Penn Taiwanese / 賓大台灣學生會 / @upenntsa / Penn Taiwan) across works/articles/sources/events/topics — only hit is the TAH directory source page's own wikilinks; no corpus records of the club. Verified-saturated, SKIP.
