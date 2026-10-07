@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # 張妙華
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 > Re-check (deepen-x 09210900-20, 2026-09-22): fresh grep of content/works + content/articles — only hits are this person's own TAH bibliographic record plus the works/index listing. SKIP confirmed; nothing absorbable, no biography invented.
 
 > Re-check (deepen-x 09251031-15, 2026-09-26): fresh ZH+EN grep of content/works + content/articles — hit set unchanged: own record [[works/taiwaneseamericanhistory-org/179-e5-bc-b5-e5-a6-99-e8-8f-af-pianist-201503|179. 張妙華, Pianist / 2015/03]] + works index only. SKIP confirmed; nothing absorbable.
+
+> Re-check (deepen-x 10051948-2, 2026-10-07): fresh grep (張妙華 / 妙華 / Miao-Hua / Miaohua) across works/articles/sources/events/topics — zero corpus hits beyond this person's own TAH bibliographic record [[works/taiwaneseamericanhistory-org/179-e5-bc-b5-e5-a6-99-e8-8f-af-pianist-201503|179. 張妙華, Pianist / 2015/03]] and the index. SKIP confirmed; nothing absorbable, no biography invented.

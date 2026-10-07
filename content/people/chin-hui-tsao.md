@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Chin-Hui Tsao (曹錦輝)
 
@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whos-who-1753-chin-hui-tsao|1753. Chin-Hui Tsao 曹錦輝]] — TAH Who's Who record (2017-07-09)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Re-check (deepen-x 10051948-2, 2026-10-07): fresh grep across works/articles/sources/events/topics — 曹錦輝 / Chin-Hui Tsao returns zero hits beyond this page's own record [[works/taiwaneseamericanhistory-org/whos-who-1753-chin-hui-tsao|TAH #1753]]; surname-only "Tsao" hits (Dr. Yao Chung Tsao 卓耀宗, Daphne Tsao, Hung-Ping Tsao, ourjourneys entries) are different people. SKIP confirmed; page saturated.
