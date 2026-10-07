@@ -91,3 +91,5 @@ Corpus-absorbed (deepen-x slice 28, 2026-09-14) from 鍾澄文's column [[articl
 <!-- TJJ-A10020400-6: verified 2026-10-05 — slice 10020400-6 articles (c83c2315 王廷宜追思會 / 426d2811 楊子清音樂短講13集 / e7e2a1e1＋025f6ed9 以立希望之光兩存檔副本) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10030400-8: verified 2026-10-05 — wave-2 re-check of slice 10030400-8 article a40b37bc03b2b9cb（以立「希望之光」世界首演影音）: subject link re-checked vs 正文 (鋼琴：陳慧如 Rose Chen), real, no wrong/spurious links; 2022-12-02 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-22: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-22 articles (c83c2315ab0b3e26 王廷宜（泰和）先生追思會, 2022-06-24 / 426d2811d4065134 楊子清老師音樂短講第13集, 2020-12-13 / 17835ad9519f9cfe 台灣會館第十屆董事會選出新任董事長林榮松, 2016-06-12 / e7e2a1e1a71524ce 以立合唱團世界首演「希望之光」, 2022-12-02): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

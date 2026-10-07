@@ -105,3 +105,5 @@ last_reviewed: 2026-09-23
 - [[people/wang-rongyi||Wang Rongyi (王榮義)]]
 
 - 複核（TJJ-A09260500-15, 2026-09-27）：本 slice 僅 [[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|17835ad9]] 涉本人，subject 連結為真；含該文 wikilink 的 2016-06-11 條目已在庫 — SKIP，無新材料。
+
+<!-- TJJ-A10060400-22: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-22 articles (c83c2315ab0b3e26 王廷宜（泰和）先生追思會, 2022-06-24 / 426d2811d4065134 楊子清老師音樂短講第13集, 2020-12-13 / 17835ad9519f9cfe 台灣會館第十屆董事會選出新任董事長林榮松, 2016-06-12 / e7e2a1e1a71524ce 以立合唱團世界首演「希望之光」, 2022-12-02): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
