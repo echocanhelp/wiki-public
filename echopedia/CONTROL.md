@@ -77,6 +77,7 @@ Canon homepage: Echopedia documents people, congregations, and organizations tha
 | **B** | Taiwan people who shaped TA life (e.g. TAH.org subjects, visiting pastors) | Yes | Dossier; describe the *relationship*, do not fake 台美 identity |
 | **C** | Allies in **our** sources (TJ/RFA columnists the community read and kept) | Yes, usually thin | **Ally / contributor in the archive.** Never stamp “not Taiwanese American.” |
 | **D** | Famous names with **no** tie to a TAHS/community source | Out | Do not ingest |
+| **E** | **Living memory of transnational repression** — persons whose case is the community's record of foreign-intelligence/repression operations touching Taiwan's diaspora or officials' families on US soil (Leonard ruling 2026-10-07, Wanying "Heather" Zhang case) | Yes | Dossier as **current-history event record**: allegation language, court posture, community relevance line; never a biography of the accused |
 
 **Voice:** grateful and specific (“work the community read and kept”). Exclusion labels are rude and off-mission.
 
