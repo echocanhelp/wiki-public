@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Catherine Lan (藍巧茹)
 
@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+<!-- deepen-x 10051948-30 2026-10-07: five-dir re-grep (ZH+EN) — own record whos-who-2036 + index/source rows only; no memoir/community material. SKIP. -->
 <!-- deepen-x 09231500-3 2026-09-25: re-scan ZH+EN — only own record whswho1590 + index hit; no new corpus material. SKIP. -->
 <!-- deepen-x 09251039-7 2026-09-26: re-scan ZH+EN — only own record whswho1590 + index hit; no new corpus material. SKIP. -->
 <!-- deepen-x 2026-09-22: re-scan (ZH+EN) — only own TAH record whswho1590 hits; no additional corpus material. Verified current. -->

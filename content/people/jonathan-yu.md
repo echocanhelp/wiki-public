@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Jonathan Yu (余裕義)
 
@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 - Held in the community record via TAH Who's Who encyclopedia [[works/taiwaneseamericanhistory-org/whoswho1331|1331. Jonathan Yu 余裕義 / 2016/10]]. No other corpus mention found — nothing further absorbable (no invented copy). deepen-x 09210051-13 于 2026-09-21 複查 works/articles：僅本身條目與 index 收錄行命中，無獨立語料可吸收（SKIP-with-reason）。
 - deepen-x 09232232-10 于 2026-09-25 複查 works/articles：ZH+EN 雙查僅本身 TAH Who's Who 條目與 index 收錄行命中，無獨立語料可吸收。
 - deepen-x 09251047-11 于 2026-09-26 複查：ZH+EN 雙查仍僅命中 [[works/taiwaneseamericanhistory-org/whoswho1331|1331. Jonathan Yu 余裕義 / 2016/10]] 與 index 收錄行（index 鄰行 Michael K. Yu 游貴森為另一人），語料已飽和，SKIP-with-reason。
+- deepen-x 10051948-30 于 2026-10-07 五目錄複查（ZH+EN）：僅本身條目與 index/sources 收錄行命中，無獨立語料可吸收，SKIP。
 
 ## Sources
 - [TAH #1331 encyclopedia: 1331. Jonathan Yu 余裕義 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1331/)
