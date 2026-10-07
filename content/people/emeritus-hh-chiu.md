@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-07
 ---
 # Emeritus HH Chiu (邱輝煌)
 
@@ -46,6 +46,7 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-25 (deepen-x slice 09231300-13): fresh ZH+EN grep of content/works + content/articles — hit set unchanged (own TAH #1526 record + index row); no new corpus facts absorbable.
 - Re-verified 2026-09-25 (deepen-x slice 09250600-20): fresh ZH+EN grep — hit set unchanged (own TAH #1526 record + index row); SKIP stands.
 - Re-verified 2026-09-29 (deepen-x slice 09261200-17): fresh `grep -rlE '邱輝煌|HH Chiu'` — hit set unchanged (own TAH #1526 record + `works/index.md` row). #1526 is a bibliographic-record-only stub, no memoir prose. Verified-saturated; nothing absorbable without inventing biography.
+- Re-verified 2026-10-07 (deepen-x slice 10051918-14): fresh grep across all five corpus dirs. A loose surname-only pattern (輝煌) matches several our-journeys issues, but those are substring coincidences — 輝煌 as a common word ("glorious") in unrelated names/prose; the precise pattern (邱輝煌 / HH Chiu / Emeritus Chiu) returns only own record #1526 + index/source digest lines. SKIP: verified-saturated.
 
 ## Sources
 - [TAH #1526 encyclopedia: 1526.  Emeritus HH Chiu 邱輝煌 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1526/)
