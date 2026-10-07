@@ -81,3 +81,5 @@ HOLD: no conflicts found between corpus records; the tah-tables 安星貿易公�
 - 覆核（TJJ-A09251000-1, 2026-09-26）：本 slice 文章 299c00bb（楊遠薰懷念彭昕醫師）正文再驗證——吳西面以彭昕表姑父（妻吳陳信愛、岳父陳溪圳牧師）記述確認見於正文（無錯鏈、無虛鏈）；含該文 wikilink 的條目已在庫 — SKIP，無新材料。
 
 <!-- TJJ-A10040500-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-2: articles 6763e8f4 / 80e2a87a / 299c00bb 懷念彭昕醫師(楊遠薰, triple copy): 吳西面 link (彭昕表姑父、妻信愛姐為陳溪圳牧師之女) — confirmed in 正文 re-checked vs 正文 this attempt, link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060600-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-1 articles (6763e8f4ad9bcb7c / 80e2a87a17215263 / 299c00bb18030b81 懷念彭昕醫師(楊遠薰, triple copy): 吳西面 link (彭昕表姑父、妻吳陳信愛為彭昕表姑) — subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

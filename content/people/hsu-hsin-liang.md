@@ -60,3 +60,5 @@ Corpus re-grep 2026-09-22: above records newly absorbed from works/.
 - [[people/ahhee-hsu||許丕龍]]
 
 <!-- TJJ-A10040500-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-2: article e3440fec 籌謀台灣不流血革命(陳昭南 2022-05-09): 許信良 link (獻策高手 1989 LA 會談、美麗島週報社創辦人、革命黨副總書記、1995 DPP 總統候選人) — all mentions confirmed in 正文 re-checked vs 正文 this attempt, link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060600-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-1 articles (e3440fec3eed8107 籌謀台灣不流血革命(陳昭南 2022-05-09): 許信良 link (獻策高手 1989 LA 會談、美麗島週報社創辦人、革命黨副總書記、1995 DPP 總統候選人) — subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

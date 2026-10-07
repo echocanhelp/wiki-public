@@ -79,3 +79,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10040500-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-2: articles 6763e8f4 / 80e2a87a / 299c00bb 懷念彭昕醫師(楊遠薰, triple copy): 梁耕三 link (1990橋水查經班發起人) — confirmed in 正文 re-checked vs 正文 this attempt, link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-3: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-3 articles (A3: 59a68b9c 司法不公國耻之最聲援翁啟惠連署, 2021-09-10刊: 聯絡人梁耕三/號召人謝清志博士/聲援對象翁啟惠 真實見於正文): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060600-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-1 articles (6763e8f4ad9bcb7c / 80e2a87a17215263 / 299c00bb18030b81 懷念彭昕醫師(楊遠薰, triple copy): 梁耕三 link (1990 橋水查經班發起人) — subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

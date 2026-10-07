@@ -143,3 +143,5 @@ Accomplishment
 
 <!-- TJJ-A10060400-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-1 articles (77b0891e 信雅古典音樂珍藏啟用致詞 / 3be67f6e 台美人台加人存檔頁2 / 2e141df6 蔬果園藝標籤頁 / 2fa1c26a 台美人台加人存檔頁359): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060400-25: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-25 article de11e295 半音合唱團國家音樂廳錄影: 相關影音欄 許丕龍憶故人條目: subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060600-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-1 articles (e3440fec3eed8107 籌謀台灣不流血革命: 許丕龍 link (洛城在地、美國美麗島週報社共同創辦人) — subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
