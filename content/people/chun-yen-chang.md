@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Chun-Yen Chang (張俊彥)
 
@@ -54,3 +54,4 @@ SKIP-with-reason: corpus scan of `works/` and `articles/` found no primary commu
 <!-- deepen-x 09200900-15: re-verified 2026-09-21 — corpus grep (ZH+EN) hits only own TAH record(s) in content/works; no new memoir/community material to absorb. -->
 <!-- deepen-x 09251031-6: re-verify — fresh grep (ZH+EN): hits only own record whoswho952 + works index; SKIP persists. -->
 <!-- deepen-x 09261300-23: re-verify 2026-10-01 — fresh grep (張俊彥/Chun-Yen Chang) again hits only whoswho952 + works/index; no memoir or article material. SKIP persists. -->
+<!-- deepen-x 10051918-30: re-verify 2026-10-07 — fresh grep (張俊彥/張俊彦/Chun-Yen Chang) across all five corpus dirs hits only whoswho952 + works/index; no memoir or article material. SKIP persists. -->
