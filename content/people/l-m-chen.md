@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # L. M. Chen (陳麗美)
 
@@ -33,6 +33,11 @@ last_reviewed: 2026-10-01
 - **Husband:** 郭順良
 - **Daughter:** Melody (郭雋律), Ingrid (郭雋音)
 
+
+## Role in the Community
+- Corpus 2026-10-06 (slice 10051314-7): the memoir 『來去美國』 (Our Journeys) recalls 郭雋律 and 郭雋音 performing as a duo at the 1989 台灣文化之夜 — premiering 蕭泰然's violin concerto with 郭雋音 on violin and 郭雋律 on piano, to a standing ovation — [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]]. The surname 郭 and the musician-family context match her listed daughters Melody (郭雋律) and Ingrid (郭雋音), but the passage does not name their parents: HOLD — likely the same sisters, not confirmed by primary attribution.
+- Both daughters carry their own corpus records: [[works/taiwaneseamericanhistory-org/119-melody-kuo-e9-83-ad-e9-9b-8b-e5-be-8b-piano-accompanist|TAH #119 Melody Kuo 郭雋律, Pianist]] and [[works/taiwaneseamericanhistory-org/118-ingrid-chun-e9-83-ad-e9-9b-8b-e9-9f-b3-violinist201501|TAH #118 Ingrid Chun 郭雋音, Violinist]] — see [[people/melody-kuo|Melody Kuo]], [[people/ingrid-chun|Ingrid Chun]].
+- Beyond that, the corpus still yields only her own TAH Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-1881-l-m-chen|1881. L. M. Chen 陳麗美]] — no separate memoir text about her.
 
 ## Sources
 - [TAH #1881 encyclopedia: 1881. L. M. Chen 陳麗美](https://taiwaneseamericanhistory.org/whos-who-1881-l-m-chen/)
