@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Y. F. Yang (楊雲鳳)
 
@@ -46,3 +46,5 @@ SKIP-with-reason (re-confirmed 2026-09-25, slice 09231400-10 — hit set identic
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10051909-5 recheck 2026-10-07: SKIP — fresh ZH+EN+surname grep of all five corpus dirs (works/articles/sources/events/topics) matched only own record whoswho2142, works/index, and the source hub; 雲鳳 surname grep returns zero third-party hits. Verified-saturated, nothing absorbable. -->

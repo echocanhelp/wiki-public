@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Chue-Jen Huang (楊純貞)
 
@@ -34,6 +34,7 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 - Her TAH Who's Who encyclopedia entry is held in the corpus as [[works/taiwaneseamericanhistory-org/566-chue-jen-huang-e6-a5-8a-e7-b4-94-e8-b2-9e-201509|566. Chue-Jen Huang 楊純貞]] (2015-09-02, band B); no other memoir/works records name her.
 - HOLD: surname conflict — English page name "Huang" vs Chinese name 楊純貞 (surname 楊); possibly reflects married name via husband [[people/min-an-huang|黃民安]]. Never auto-merged.
+- Candidate link (HOLD, unconfirmed): 楊遠薰's memoir 「懷念彭昕醫師」 recalls "紐澤西好的友純貞" who sent a tribute piece on Dr. 彭昕 and speaks of the New Jersey 台美團契長老教會 community ([[articles/taiwanjustice-net/2021/20211020131319_2021_09_23_懷念彭昕醫師-_-楊遠薰_6763e8f4ad9bcb7c|TJJ memoir, 2021-09-23]]; same text re-archived 2024/2025). HOLD: the memoir gives only the given name 純貞 without surname, and this page's Geography is Taiwan — identity with 楊純貞/黃純貞 plausible (NJ TA community, church-connected) but NOT confirmed. Never auto-merged.
 
 ## Sources
 - [TAH #566 encyclopedia: 566. Chue-Jen Huang 楊純貞 /2015/09](https://taiwaneseamericanhistory.org/566-chue-jen-huang-%e6%a5%8a%e7%b4%94%e8%b2%9e-201509/)

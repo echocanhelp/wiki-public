@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Zai-Xing Wang (王再興)
 
@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+
+<!-- deepen-x slice 10051909-5 recheck 2026-10-07: SKIP — fresh ZH+EN+org-name grep of all five corpus dirs matched only own record whos-who-2230, works/index, and the source hub; 再興 surname-only sweep hits were false positives (再興起 "revival" in ourjourneys259, unrelated names/statistics in taiwanjustice articles). Verified-saturated, nothing absorbable. -->
