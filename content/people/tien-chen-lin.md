@@ -35,7 +35,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 The corpus holds his dedicated TAH encyclopedia record #1944 (published 2017-11-14) as the primary community record: [[works/taiwaneseamericanhistory-org/tien-chen-lin|1944. Tien-Chen Lin 林天成 /11/2017]]. His documented community role in the corpus is pastoral leadership of the Taiwanese Christian Church of Columbus, Ohio (2007–present). The corpus record is bibliographic (full text stays at TAH); no additional movement-activity appearances were found.
 
-_Corpus re-checks 2026-09-25 (deepen-x 09251039-2), 2026-09-26 (09251039-2) and 2026-10-01 (09261341-7): fresh greps 林天成 / Tien-Chen Lin — sole hits remain the own TAH #1944 record and the works index listing. No memoir or community mentions beyond the existing section; nothing new absorbable, no conflicts to hold._
+_Corpus re-checks 2026-09-25 (deepen-x 09251039-2), 2026-09-26 (09251039-2), 2026-10-01 (09261341-7) and 2026-10-07 (deepen-x 10052158-19): fresh greps 林天成 / Tien-Chen Lin — sole hits remain the own TAH #1944 record and the works index listing. The 2026-10-07 sweep also probed variants across all five corpus dirs: "Tiencheng Arthur Chang" ([[works/taiwaneseamericanhistory-org/whoswho1367|record 1367]]) and "Tien-mo Lin" (Our Journeys 38) are different individuals, not this pastor. No memoir or community mentions beyond the existing section; nothing new absorbable, no conflicts to hold._
 
 ## Sources
 - [TAH #1944 encyclopedia: 1944. Tien-Chen Lin 林天成 /11/2017](https://taiwaneseamericanhistory.org/tien-chen-lin/)

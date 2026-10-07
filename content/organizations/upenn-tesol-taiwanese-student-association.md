@@ -5,11 +5,11 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-07
 ---
 # UPenn TESOL Taiwanese Student Association
 
-**SKIP note (deepen-x slice 09170800-27, 2026-09-18; re-checked slices 09200600-29 on 2026-09-21, 09210900-32 on 2026-09-22, and 09231500-8 on 2026-09-25, and 09251031-16 on 2026-09-26):** corpus grep (`TESOL` / `UTTSA` / `UPenn.*Taiwanese` in works + articles) returned no hits beyond this page's own index row. The only 费城/TESOL-adjacent hit is the 1966 UFAI founding meeting in [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys 33]] — a student-network event decades before UTTSA's founding, not this org's record. No memoir or community material to absorb; page stays at directory-listing depth.
+**SKIP note (deepen-x slice 09170800-27, 2026-09-18; re-checked slices 09200600-29 on 2026-09-21, 09210900-32 on 2026-09-22, and 09231500-8 on 2026-09-25, and 09251031-16 on 2026-09-26, and 10052158-19 on 2026-10-07):** corpus grep (`TESOL` / `UTTSA` / `UPenn.*Taiwanese` in works + articles) returned no hits beyond this page's own index row. The only 费城/TESOL-adjacent hit is the 1966 UFAI founding meeting in [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys 33]] — a student-network event decades before UTTSA's founding, not this org's record. Re-scan 10052158-19 swept all five corpus dirs (works/articles/sources/events/topics) for TESOL / UTTSA: sole hit remains the source index row. No memoir or community material to absorb; page stays at directory-listing depth.
 
 ## Identity Snapshot
 - **English:** UPenn TESOL Taiwanese Student Association
