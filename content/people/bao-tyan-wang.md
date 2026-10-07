@@ -81,3 +81,5 @@ last_reviewed: 2026-10-05
 - 2026-10-05 deepen-x slice 09301017-10: SKIP confirmed — fresh grep (王寶田／Bao-Tyan Wang) over content/works + content/articles re-hits only TAH #282 work page + the 2 TJJ 第14回世界台灣文化論壇 articles (plus works/index), all already absorbed in Role in the Community; no new community facts, no conflicts to HOLD. Verified-saturated. hits-hash=23ca80c27e17
 
 <!-- TJJ-A10020700-3: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020700-3 articles 08cd200c3a58e6b7 / fc48810253f4912f（第14回世界台灣文化論壇同稿兩存檔副本）: subject link re-checked vs 正文 (節目單訪問王寶田博士), real, no wrong/spurious links; dated fact w/ both article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-21: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-21 articles 08cd200c3a58e6b7 / fc48810253f4912f（第14回世界台灣文化論壇「布袋戲kap歌仔戲文學ê人生智慧」同稿兩存檔副本）: 節目單訪問王寶田博士 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ both article wikilinks already in From the record — saturated, no new material. -->
