@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-06
 ---
 # J. H. Justina Shieh (謝節惠)
 
@@ -29,7 +29,9 @@ Accomplishment
   - [[works/taiwaneseamericanhistory-org/whos-who-1217-j-h-shieh|1217. J. H. (Justina) Shieh 謝節惠]] — published 2016-08-06
 
 HOLD: no memoir text in the corpus; the two encyclopedia entries have not been compared for content conflicts.
+- Family context (via husband's record): husband [[people/m-s-wu|吳銘賢 M.S. Wu]] sponsored the grand piano for the first San Diego Taiwan Center home and was publicly honored at the new building's opening on 2009-09-19 — per [[works/taiwaneseamericanhistory-org/ourjourneys26|26. 聖地牙哥台灣中心的前半生與轉型 / 黃正源 / 2014/09]] and [[works/taiwaneseamericanhistory-org/ourjourneys162|162. 聖地牙哥台灣中心開幕典禮與慶祝音樂會 / 2015/08]]. This situates the couple in the same San Diego institution where she later served as foundation president; no corpus text directly credits her with these acts.
 - Corpus re-grep 2026-09-25: hit set unchanged (own two Who's Who records + works index only); no memoir or community-organizing text names her — nothing new absorbable (re-grep 2026-09-25, slice 09250600-28: same hit set — own two Who's Who records + index; SKIP stands).
+- Re-verified 2026-10-06 (deepen-x slice 10051200-9): fresh ZH+EN grep (謝節惠 / Justina Shieh / J. H. Shieh) across works/articles/sources/events/topics plus whole-repo sweep — only new absorbable item is the husband-record San Diego Taiwan Center cross-reference above; her own hit set unchanged (two Who's Who records + index).
 
 ## Family
 
