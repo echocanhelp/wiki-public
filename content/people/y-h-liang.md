@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Y. H. Liang (梁琰華)
 
@@ -48,3 +48,4 @@ last_reviewed: 2026-10-01
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whoswho1471|1471. Y. H. Liang 梁琰華 / 2017/01]] — TAH 百科紀錄
+<!-- deepen-x sweep 2026-10-07 (slice 10051909-7): fresh ZH+EN grep of works/articles/sources/events/topics for 梁琰華 / Y. H. Liang / General Atomics -> only own record whoswho1471 + works/index + sources registry; no independent corpus material. Verified-saturated, SKIP stands. -->

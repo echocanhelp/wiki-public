@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Diana Y Huang (黃玉桂)
 
@@ -40,3 +40,4 @@ Diana Y Huang (黃玉桂) is listed in the TAH Foundation Who’s Who Taiwanese 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x re-verified SKIP 2026-09-25 (slice 09232337-6): fresh ZH+EN grep of content/works + content/articles -> only own TAH bibliography record + works-index entry (ATSA matches were NATSA/CAATSA substrings). No memoir/community material; nothing absorbable. No bio invented. -->
 <!-- deepen-x re-verified SKIP 2026-09-26 (slice 09251047-7): fresh ZH+EN grep 黃玉桂/Diana Y Huang -> own whoswho1042 record + works index only; nothing absorbable. -->
+<!-- deepen-x sweep 2026-10-07 (slice 10051909-7): fresh ZH+EN grep of works/articles/sources/events/topics for 黃玉桂 / Diana Y Huang / 陳伸夫 -> only own record whoswho1042 + works/index + sources registry; no independent corpus material. Verified-saturated, SKIP stands. -->
