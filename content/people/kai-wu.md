@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Kai Wu (吳開智)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09252123-19 (2026-09-26): verified-saturated — fresh ZH+EN re-grep of content/works+content/articles returns only the already-cited records; no new absorbable facts. -->
+<!-- deepen-x slice 10051400-2 (2026-10-07): verified-saturated — widened grep (吳開智/Kai Wu/吴开智/surname) across works+articles+sources+events+topics returns only whoswho-e5-90-b3-e9-96-8b, musician359, works index; no memoir or article mentions. SKIP. -->

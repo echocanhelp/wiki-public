@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # John Fan (樊立勳博士)
 
@@ -31,13 +31,15 @@ last_reviewed: 2026-10-01
 
 ## Family
 
-- **Father:** 樊豐忠 Mother:李文玲
+- **Father:** [[people/fong-chung-fan|Fong Chung Fan 樊豐忠]]
+- **Mother:** 李文玲
 
 
 ## Role in the Community
 - Co-founder and CEO of Cardinal Blue, the startup behind PicCollage — a free-form photo-collage app with over 70 million users, headquartered in San Francisco with a Taipei branch, backed by Floodgate Fund, Freestyle Capital, Quest Venture Partners and 500 Startups.
 - Featured in a TaiwaneseAmerican.org community interview (band A): [[works/taiwaneseamerican-org/inside-piccollage|Inside the Taipei Office of PicCollage]] (2014-10-07, by Ho Chie Tsai) — Tsai visited the 16-person Taipei office and spoke with Fan about the startup and entrepreneurial scene in Taiwan during an all-office Hackathon.
 - His story is also held in the TAH Foundation Who's Who entry 1269, published 2016-09-11: [[works/taiwaneseamericanhistory-org/whoswho1269|1269. John Fan 樊立勳 / 09/2016]] (band B, story).
+- Father 樊豐忠 is Fong Chung Fan, a FAPA (台灣人公共事務會) 會長 — named among the nine FAPA presidents recalled by long-time staffer 昆布勞 in the FAPA memoir [[works/taiwaneseamericanhistory-org/ourjourneys228|228. 美國對台六項保證決議案的推手 — 昆布勞與FAPA的故事]], with his own record [[works/taiwaneseamericanhistory-org/whos-fong-chung-fan|878. Fong Chung Fan 樊豐忠 / 2016/03]] and page [[people/fong-chung-fan|樊豐忠]]. The family therefore spans two generations of movement involvement: father in FAPA leadership, son in the tech-entrepreneur community (PicCollage/Cardinal Blue).
 - Note: a 2025 taiwanjustice.net article mention of "John Fanestil" (約翰·法內斯蒂爾牧師, Friends of Friendship Park) is a different person and was not absorbed.
 - Corpus check (2026-09-25, deepen-x slice 09231300-26): fresh ZH+EN grep of content/works + content/articles returns the same hit set — own TAH record [[works/taiwaneseamericanhistory-org/whoswho1269|1269. John Fan 樊立勳]], the already-linked PicCollage interview, the works index, and the John Fanestil article (different person). No new memoir/community material absorbable; SKIP-with-reason.
 - Corpus check (2026-10-01, deepen-x slice 09261100-6): fresh ZH+EN grep returns the same set again (whoswho1269, inside-piccollage, works index, John Fanestil article — different person, 約翰·法內斯蒂爾牧師, boundary-wall quote only). SKIP-with-reason: no new community material.
