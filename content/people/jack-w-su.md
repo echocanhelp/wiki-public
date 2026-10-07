@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Jack W. Su (蘇文杰)
 
@@ -46,3 +46,5 @@ last_reviewed: 2026-10-01
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/330-jack-w-su-e8-98-87-e6-96-87-e6-9d-b0|330. Jack W. Su 蘇文杰 / 2015/03]] — TAH 百科紀錄
+
+- 2026-10-07 re-sweep (slice 10051948-3): fresh ZH+EN grep across all five corpus dirs returns only own record [[works/taiwaneseamericanhistory-org/330-jack-w-su-e8-98-87-e6-96-87-e6-9d-b0|TAH #330]] + sources index. Substring hits disambiguate to different people — 蔡文杰 (可勝科技 case, articles/), 蕭文杰 (臺靜農故居 文資, articles/), 蘇文博醫師 ([[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys 123]]), 蘇文庸 (元祿/將軍餐廳 staff, Our Journeys 17) — none is Jack W. Su 蘇文杰. Verified-saturated — SKIP stands.
