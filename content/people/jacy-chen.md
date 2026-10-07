@@ -67,3 +67,5 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-10-05 (slice 09301000-31): fresh ZH+EN ERE grep ('陳彩雲|Jacy Chen') over content/works + content/articles — 3 files, same set (own stub whoswho1573, works index, TJJ 2019-09-04 joint-statement article, NATWA 會長 signature already in From the record). Nothing new absorbable — SKIP, verified saturated, no conflicts. hits-hash=9b12bd22bd86
 
 <!-- TJJ-A10040600-11: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-11 article 53455d7e13136092 (海外台灣人社團拒一國兩制挺港聯合聲明, 2024-02-21快照, 2019-09-04發布): subject link re-checked vs 正文中英署名清單, real, no wrong/spurious links; 2019-09-03 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060800-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-5 article 53455d7e13136092（拒一國兩制！海外台灣人社團聯合聲明支持香港, 2019-09-04刊）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
