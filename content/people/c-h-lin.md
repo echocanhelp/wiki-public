@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # C. H. Lin (林建宏)
 
@@ -28,6 +28,7 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 
 - 本名在本庫的唯一紀錄為自己的 TAH Who's Who 檔案（[[works/taiwaneseamericanhistory-org/whos-who-1935-c-h-lin|1935. C. H. Lin 林建宏]]，2017-11-06，書目紀錄）。
+- **餐飲事業社群紀錄：** 其經營的 C & L Imperial（北港台菜館）本身有一則獨立的 TAH 書目紀錄 [[works/taiwaneseamericanhistory-org/ff345|345. C & L Imperial 北港台菜館 / Famous Restaurant for Taiwanese Foods, Flushing, NY]]（2017-11-06，Band B）——TAH 將該店列為台美人飲食文化史的一項紀錄，與本人 Employment 欄所載為同店同名；地點為紐約 Flushing，與宜蘭出身欄無衝突。
 - **同名消歧：** 本庫已判定司法院釋字第791號通姦罪釋憲案（[[articles/taiwanjustice-net/2025/20250518224919_通姦除罪_通姦罪違憲失效-司法院釋字第791號解釋_24272103f945bf93|釋字第791號解釋]]）中的「聲請人三 林建宏」為巧合同名——該案當事人涉高雄通姦罪訴訟，與这位宜蘭出身、新澤西開北港台菜館的美國餐飲業人士不是同一人，勿合併。
 - 2026-09-21 覆核（deepen-x 09200900-26）：works/、articles/ 全庫再查，僅見自身 TAH 檔案與上列同名消歧紀錄，無新社群事蹟可吸收。
 
@@ -50,3 +51,4 @@ _No filled family fields on the TAH profile._
 
 - 2026-10-01 覆核（deepen-x 09261200-23）：works/、articles/ 全庫再查（含 791 號解釋檔），僅見自身 TAH 檔案、index 與同名消歧紀錄，無新社群事蹟可吸收。
 - 2026-10-01 覆核（deepen-x 09261200-23 執行補查）：重跑 ZH+EN grep — 僅命中自身 whos-who-1935 檔案、works/index、people/index、sources 索引與 791 號解釋檔（該檔兩處 林建宏 皆指高雄通姦罪案聲請人三，非本人）。同名消歧維持，勿合併。飽和已達，勿再派同一頁。
+- 2026-10-07 覆核（deepen-x slice 10051918-5）：新增 ff345（C & L Imperial 北港台菜館書目紀錄）社群連結一則；其餘命中集合與前次相同，飽和。

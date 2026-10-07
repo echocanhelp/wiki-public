@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Joker L. Jenkins (簡傑克)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-10-07 覆核（deepen-x slice 10051918-5）：ZH+EN+變體名再查 works/articles/sources/events/topics 五庫，命中集合與前次相同（自身 TAH 檔案與已 wikilink 紀錄），飽和無新料可吸收。
