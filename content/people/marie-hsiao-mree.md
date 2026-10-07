@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Marie Hsiao Mree
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - Re-check 2026-09-25 (slice 09250700-31): fresh ZH+EN re-grep (Mree / Marie Hsiao) — hit set unchanged (334, 910, a-moment-with-mree, harvest index); no new community material. Verified-saturated.
 - Re-check 2026-09-26 (slice 09260500-18): fresh ZH+EN re-grep (Mree / Marie Hsiao) — hit set unchanged (334, 910, a-moment-with-mree, harvest index); no new community material. Verified-saturated. SKIP-deepen.
 - Re-check 2026-10-01 (slice 09270315-2): fresh ZH+EN re-grep (Mree / Marie Hsiao) — hit set unchanged (334, 910, a-moment-with-mree, harvest index); no new community material. Verified-saturated. SKIP-deepen.
+- Re-check 2026-10-07 (slice 10052158-4): fresh five-dir re-grep (Mree / Marie Hsiao) — hit set unchanged (334, 910, a-moment-with-mree, harvest index); surname-only 蕭 hits (Frank S.T. Hsiao Who's Who etc.) are unrelated Hsiao individuals. Verified-saturated. SKIP-deepen.
