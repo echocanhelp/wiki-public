@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Prof. S. S. Huang (黃壽山教授)
 
@@ -49,3 +49,5 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10051909-30 re-grep 2026-10-07: hit set = own #2086 + 349 memoir (外野手 roster line) + sources rollup, all already linked; no new mention of 黃壽山. Verified saturated — SKIP stands. -->

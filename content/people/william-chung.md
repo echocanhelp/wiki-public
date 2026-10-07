@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-07
 ---
 # William Chung (鍾桂榮博士)
 
@@ -52,3 +52,5 @@ last_reviewed: 2026-10-02
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10051909-30 re-grep 2026-10-07: ZH+EN grep across all five corpus dirs returns hit set identical to prior runs (ourjourneys-138, ourjourneys58, own record 673, sources rollup) — all already wikilinked; 桂榮 hits are 王桂榮 (different person). Verified saturated — SKIP-with-reason stands. -->
