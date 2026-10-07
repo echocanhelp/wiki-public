@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Jimenez Lai (賴彥吉)
 
@@ -50,3 +50,5 @@ last_reviewed: 2026-10-01
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10051340-31 re-check 2026-10-07: verified-saturated. Fresh ZH+EN+surname grep across works/articles/sources/events/topics: only #110/#588 bibliographic records + works index; articles hits are CNN reporter Omar Jimenez (namesake, unrelated). No absorbable corpus material. -->

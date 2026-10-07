@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Simon Shiao (蕭世杰)
 
@@ -52,3 +52,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10051340-31 re-check 2026-10-07: verified-saturated. Fresh ZH+EN grep across all five corpus dirs: only musician385/whoswho1518 + works index; surname hit is pianist Shiao-Yen Ding (unrelated). No memoir coverage; SKIP-with-reason. -->

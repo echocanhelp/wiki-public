@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # 陳琦瑤
 
@@ -45,6 +45,8 @@ _No filled family fields on the TAH profile._
 - Fresh corpus re-grep 2026-09-25 (slices 09231000-31, 09250400-12): hits remain only whoswho342, musician171, and the works index — no memoir coverage; verified saturated, SKIP.
 - Fresh corpus re-grep 2026-09-26 (slice 09252123-24): identical hit set (whoswho342, musician171, works index) — saturated, SKIP-with-reason.
 - Fresh corpus re-grep 2026-10-01 (slice 09261000-24): identical hit set again (whoswho342, musician171, works/index.md) — no memoir or community mention of her in works/ or articles/; verified saturated, SKIP-with-reason.
+
+<!-- deepen-x slice 10051340-31 re-check 2026-10-07: verified-saturated. Fresh ZH+EN grep across all five corpus dirs: only whoswho342/musician171 + works index; other Chen hits are Chen Chien-jen / Chen Chin-lien (unrelated). No memoir coverage; SKIP-with-reason. -->
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

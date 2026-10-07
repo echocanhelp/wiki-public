@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Prof. Li-Hui Tsai (蔡立慧教授)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09252123-10 re-check 2026-09-26: verified-saturated. Fresh ZH+EN grep of works/ + articles/ hit set identical to records already wikilinked/HOLDed on this page; no new absorbable corpus material. -->
+<!-- deepen-x slice 10051340-31 re-check 2026-10-07: verified-saturated. Fresh ZH+EN grep across all five corpus dirs: hit set identical to records already wikilinked/HOLDed here (whos-who-1783, award, ff350, mystories606, my-stories-877); other Tsai hits are distinct individuals. Li-Hui vs Li-Huei HOLD stands. No new material. -->
