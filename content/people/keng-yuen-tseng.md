@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-06
 ---
 # Keng-Yuen Tseng (曾耿元)
 
@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-25 (slice 09240800-27): hit set identical (own records #224, #464 + works index only); no memoir mentions; verified-saturated.
 - Corpus re-grep 2026-09-26 (slice 09251400-11): hit set identical (#224, #464 + works index only); no memoir mentions; verified-saturated.
+- Corpus re-grep 2026-10-06 (deepen-x slice 10051340-16): fresh ZH+EN+variant grep (曾耿元 / Keng-Yuen Tseng / 曾耿) across works/articles/sources/events/topics — hit set identical (own records #224, #464 + works index only); no memoir mentions. Verified-saturated, SKIP.
