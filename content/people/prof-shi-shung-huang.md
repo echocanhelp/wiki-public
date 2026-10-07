@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Prof. Shi-Shung Huang (黃錫勳教授)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - 2026-09-24 (deepen-x slice 09230600-26): fresh ZH+EN re-grep of works/+articles/ — hit-set identical to material already absorbed above. SKIP-content: verified-saturated; HOLDs unchanged.
 - 2026-09-26 (deepen-x slice 09251000-15): fresh ZH+EN re-grep — hits unchanged (ourjourneys-138, 2194, 137, publications1219), all already linked and absorbed. SKIP-content: verified-saturated.
 - 2026-09-26 (deepen-x slice 09260500-22): fresh ZH+EN re-grep — hits unchanged (ourjourneys-138, 2194, 137, publications1219), all already linked and absorbed. SKIP-content: verified-saturated.
+- 2026-10-07 (deepen-x slice 10051340-19): fresh ZH+EN re-grep across works/articles/sources/events/topics — exact-name hits unchanged (ourjourneys-138, 2194, 137, publications1219), all already linked and absorbed; surname-only hit 黃錫儀 (ourjourneys76, Dallas 分會 founder) is a different person. SKIP-content: verified-saturated.
