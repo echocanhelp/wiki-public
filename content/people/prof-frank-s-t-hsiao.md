@@ -82,3 +82,4 @@ Prof. Frank S. T. Hsiao 蕭聖鐵教授 – History of Taiwanese American (T.A. 
 - [[organizations/taiwanese-student-association-at-cu||TSA at CU]] — Coloradan Taiwanese academic community connection
 
 <!-- TJJ-A10040600-9: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-9 article f51d2ebb674cbdd3 (English Pages p13, 2024-05-22快照): subject link re-checked vs 正文 (How Bad Is Taiwan's Economy? ◎Frank S.T. Hsiao(蕭聖鐵教授)/Diplomat 07-22-2016條目確認見於正文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- TJJ-A10060800-3: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-3 article f51d2ebb674cbdd3 (English Pages p13, 2024-05-22 快照): 「How Bad Is Taiwan's Economy? ◎Frank S.T. Hsiao(蕭聖鐵教授)/Diplomat 07-22-2016」確認見於正文, subject link 為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
