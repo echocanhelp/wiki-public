@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-07
 ---
 # Shin Tson Wu (吳詩聰博士)
 
@@ -40,6 +40,7 @@ last_reviewed: 2026-10-02
 ## Role in the Community
 - Profiled in the TAHS community encyclopedia: his entry [[works/taiwaneseamericanhistory-org/220-shin-tson-wu-e5-90-b3-e8-a9-a9-e8-81-b0201501|220. Shin Tson Wu 吳詩聰 / 2015-01]] was published 2015-01-19 and is held in the corpus as community historical record (laser physicist by training, research at Hughes Research Laboratories, long-serving professor at University of Central Florida).
 - Corpus record is bibliographic only (band B); no memoir text available for further absorb (re-verified 2026-10-02, slice 09261405-6 — fresh ZH+EN grep: no corpus mention beyond entry #220 and the works index).
+- Corpus re-check 2026-10-07 (slice 10052007-31): five-dir grep (works/articles/sources/events/topics; 吳詩聰 + 詩聰 substring + Shin Tson Wu) — hit set unchanged: own entry [[works/taiwaneseamericanhistory-org/220-shin-tson-wu-e5-90-b3-e8-a9-a9-e8-81-b0201501|220. Shin Tson Wu / 2015-01]], works index, sources roster only. Verified-saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shin-tson-wu/)

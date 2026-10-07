@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Y. S. Chen (陳雨辛)
 
@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 - DEEPEN-X re-check 2026-09-25: corpus re-grep (陳雨辛 / Y. S. Chen, works+articles) again returned only whoswho989 + index entry. Nothing absorbable; no bio invented.
 
 - 語料復核 2026-09-26（deepen-x 09251054-9）：fresh grep works+articles 命中集合無變化，僅本人 TAH 記錄（whoswho989）與 index；無新可吸收社群記述。
+- 語料復核 2026-10-07（deepen-x 10052007-31）：five-dir grep（works/articles/sources/events/topics; 陳雨辛 + Y. S. Chen + 雨辛 substring）命中集合無變化 — 僅 whoswho989 本人記錄、works/index 條目、sources 名單列名；無可吸收社群記述。Verified-saturated.
 
 ## Sources
 - [TAH #989 encyclopedia: 989. Y. S. Chen 陳雨辛 / 2016/05](https://taiwaneseamericanhistory.org/whoswho989/)
