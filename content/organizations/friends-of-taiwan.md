@@ -50,3 +50,5 @@ last_reviewed: 2026-09-24
 
 
 <!-- TJJ-A10040500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-5 article 31b7081a5d37939f（化作千風－王泰和追思會影音, 2022-07-12 刊）: subject link re-checked vs 正文（1997王泰和創設台灣之友社、Ted Anderson社長十餘年）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060600-4: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-4 article 31b7081a5d37939f（化作千風－懷念台美人的人權鬥士、台獨先鋒王泰和, 2022-07-12 刊）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

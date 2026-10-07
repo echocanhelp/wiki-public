@@ -76,3 +76,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10040500-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-4 article c251f8fc65ac83e0 (從二戰後全球去殖民化到台灣國家正常化（下）, 獨傲村夫, 2023-06-02 刊, 2023-09-23 快照): 林榮勳與陳以德、盧主義1956費城創3F、1959改名台灣獨立聯盟 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060600-3: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-3 article c251f8fc65ac83e0 (獨傲村夫〈從二戰後全球去殖民化，到台灣國家正常化（下）〉, 2023-06-02 刊, 2023-09-23 快照): subject link re-checked vs 正文 this attempt (與陳以德、盧主義1956費城創3F、1959改名台灣獨立聯盟), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060600-4: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-4 articles c03323d28f95e9ea / 2d725102f4e64118（同文兩存檔快照「從二戰後全球去殖民化，到台灣國家正常化（下）」, 2023-06-02 刊）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilinks already in From the record — saturated, no new material. -->

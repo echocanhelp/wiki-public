@@ -145,3 +145,5 @@ Accomplishment
 <!-- TJJ-A10060400-25: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-25 article de11e295 半音合唱團國家音樂廳錄影: 相關影音欄 許丕龍憶故人條目: subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060600-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-1 articles (e3440fec3eed8107 籌謀台灣不流血革命: 許丕龍 link (洛城在地、美國美麗島週報社共同創辦人) — subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060600-4: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-4 article 31b7081a5d37939f（化作千風－懷念台美人的人權鬥士、台獨先鋒王泰和, 2022-07-12 刊）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

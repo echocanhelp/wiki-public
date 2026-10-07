@@ -116,3 +116,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10060400-6: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-6 article 24119694 刺蔣案50週年線上對談報導（康乃爾博士生黃文雄射擊敘述確認見於正文；TAH醫師profile身份HOLD維持原樣）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-19: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-19 articles a20fb275（刺蔣案主角黃文雄記述, TAH醫師profile身份HOLD維持原樣）＋996879ac（名列1997年得獎人）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060600-4: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-4 article 31b7081a5d37939f（化作千風－懷念台美人的人權鬥士、台獨先鋒王泰和, 2022-07-12 刊）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
