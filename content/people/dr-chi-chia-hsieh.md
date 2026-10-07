@@ -59,3 +59,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09231000-17 (2026-09-25): SKIP re-verified — fresh grep of works/ + articles/ returns only the records already absorbed on this page; nothing new absorbable. -->
 <!-- deepen-x slice 09250317-31 (2026-09-25): SKIP re-verified — fresh ZH+EN grep returns only own record whos-who-2066 + index; no memoir/community-body mentions; verified saturated. -->
 <!-- deepen-x slice 09251527-19 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/+articles/ returns only the records already absorbed/linked on this page (own TAH record + index listings); no new community material. -->
+<!-- deepen-x slice 10051909-26 (2026-10-07): SKIP re-verified — fresh ZH+EN+surname grep across ALL five corpus dirs (works/articles/sources/events/topics) returns only own record whos-who-2066 + index/roster listings; surname 謝 sweep of events/+topics/ = zero hits. Verified saturated. -->

@@ -56,3 +56,5 @@ _No filled family fields on the TAH profile._
 > Deepen pass 2026-09-26 (slice 09251023-13): SKIP — fresh grep (胡佳君/Jessica Hu) still returns only her own TAH Who's Who record ([[works/taiwaneseamericanhistory-org/whos1290-chia-chun-jessica-hu|TAH #1290]]) and the works index; nothing absorbable.
 
 > Deepen pass 2026-09-25 (slice 09240500-28): SKIP — fresh grep (胡佳君/Jessica Hu) still returns only her own TAH Who's Who record ([[works/taiwaneseamericanhistory-org/whos1290-chia-chun-jessica-hu|TAH #1290]]) and the works index; nothing absorbable.
+
+> Deepen pass 2026-10-07 (slice 10051909-26): SKIP — fresh grep (胡佳君/Jessica Hu/Chia Chun Hu) across ALL five corpus dirs (works/articles/sources/events/topics) returns only the works index and sources roster; surname 胡 sweep of events/+topics/ = zero hits. Verified saturated.
