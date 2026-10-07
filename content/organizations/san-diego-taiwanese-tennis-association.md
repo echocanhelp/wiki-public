@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-07
 ---
 # San Diego Taiwanese Tennis Association (聖地牙哥台灣人網球協會)
 
@@ -25,6 +25,8 @@ The San Diego Taiwanese Tennis Association (SDTTA) is a grassroots nonprofit org
 
 Programs per the directory record: singles/doubles seasonal tournaments, quarterly group doubles matches, the annual family team 'Qinqing Cup' tournament, and a year-end banquet; run entirely by a volunteer board. Corpus grep (re-run 2026-09-21, 2026-09-23 slice -9, and 2026-09-24 slice-17) found no memoir mentions of SDTTA beyond its own TAH directory record and the works index — saturated, SKIP.
 - Context: SDTTA is part of a wider Taiwanese community tennis scene recorded in the corpus — e.g. [[works/taiwaneseamericanhistory-org/sc-ta-tennis|15. 南加州台美盃網球比賽]] and [[works/taiwaneseamericanhistory-org/taiwanese-american-tennis-association-southern-california|15. Taiwanese American Tennis Association – Southern California 南加州台美網球協會]]; no direct organizational link asserted.
+- Corroborating context (2026-10-07, slice 10051909-24): [[works/taiwaneseamericanhistory-org/ourjourneys26|26. 聖地牙哥台灣中心的前半生與轉型 /黃正源/2014/09]] records that the San Diego Taiwan Center hosted events for local Taiwanese groups including "同鄉會、網球會、台灣商會、台灣人公共事務會" — a San Diego Taiwanese "tennis club" was part of the community's institutional ecosystem well before the 2016 directory record. Identity of that 網球會 with SDTTA is plausible (founded 1986, San Diego) but NOT asserted — HOLD: no source names it as SDTTA.
+- Corpus re-grep 2026-10-07 (slice 10051909-24): exact grep (聖地牙哥台灣人網球協會 / SDTTA / Qinqing / 台灣人網球) across all five corpus dirs returns only own directory record sdtta + index — still saturated; the ourjourneys26 網球會 mention above is the only adjacent material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/san-diego-taiwanese-tennis-association/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dr. Tom Chiu (邱崇德博士)
 
@@ -37,9 +37,9 @@ last_reviewed: 2026-10-01
 
 
 ## Role in the Community
-- The corpus holds two TAH records for him: [[works/taiwaneseamericanhistory-org/whos-who-1618-tom-chiu|1618. Dr. Tom Chiu 邱崇德博士]] and [[works/taiwaneseamericanhistory-org/musician393|393. Tom Chiu 邱崇德, Violinist & Composer / 2017/04]] (2017-04, band B — bibliographic records; full text stays in the vault).
-- Fellow violinist Cho-Liang Lin 林昭亮 (named in his press bio above) has his own corpus record [[works/taiwaneseamericanhistory-org/90-cho-liang-lin-e6-9e-97-e6-98-ad-e4-ba-ae-famous-violinist|90. Cho-Liang Lin 林昭亮]], corroborating the performance-collaboration claim.
-- Sweep 2026-09-21 across works/ and articles/ returns only those two bibliographic records plus the works index: no memoir, club newsletter, or event report names him, so his Flux Quartet / Carnegie narrative remains press-kit biography, not community-authored evidence. Nothing absorbable this pass. Corpus re-check 2026-09-22 (slice 09220500-31): works/ and articles/ grep returns the same two records plus the works index only — verified saturated, SKIP. Corpus re-check 2026-09-23 (slice 09221400-14): same result — verified saturated, SKIP. Corpus re-check 2026-09-24 (slice 09230900-18): grep works/ + articles/ returns the same two records plus the works index — verified saturated, SKIP. Corpus re-check 2026-09-25 (slice 09240900-12): same two records + index — verified saturated, SKIP. Corpus re-check 2026-10-01 (slice 09261000-2): fresh ZH+EN grep (works/ + articles/) returns the same two bibliographic records (musician393, whos-who-1618) plus the works index only — no memoir, club newsletter, or event report names him. Verified saturated, SKIP.
+- The corpus holds two TAH records for him: [[works/taiwaneseamericanhistory-org/whos-who-1618-tom-chiu|1618. Dr. Tom Chiu 邱崇德博士]] and [[works/taiwaneseamericanhistory-org/musician393|393. Tom Chiu 邱崇德, Violinist & Composer / 2017/04]] (2017-04, band B). The archived full text of musician393 (recovered from the vault mirror 2026-10-07) shows it is a reprint from 台灣公論報 #1256 (05/1994), i.e. community-press-authored, not just a press kit. It adds biography absent from the page above: born Taipei 1971, entered 光仁學校音樂班 at age 6, studied in Taiwan under 鄧昌國 and Yo-Yo Ma's father before his family emigrated to the U.S. in 1980; won numerous California and all-US music competitions and YMF scholarships, taking first place in the Southern California Music Teachers Association junior violin division at age 12; majored in both music and chemistry at Yale, then became the first Taiwanese-American violinist to earn the Juilliard performer's degree (Doctor of Musical Arts/Performance) — consistent with the Education table above.
+- Fellow violinists named as regular performance collaborators in the 1994 profile: [[people/cho-liang-lin|林昭亮 (Cho-Liang Lin)]] (corroborated by his own corpus record [[works/taiwaneseamericanhistory-org/90-cho-liang-lin-e6-9e-97-e6-98-ad-e4-ba-ae-famous-violinist|90. Cho-Liang Lin 林昭亮]]) and [[people/nai-yuan-hu|胡乃元 (Nai-Yuan Hu)]].
+- Sweep 2026-09-21 across works/ and articles/ returns only those two bibliographic records plus the works index: no memoir, club newsletter, or event report names him. Corpus re-check 2026-10-07 (slice 10051909-24): exact ZH+EN grep across all five corpus dirs confirms the same hit set (musician393, whos-who-1618 + index); surname-only greps (Chiu 邱 / 崇德) return unrelated people (邱雅惠, 邱強, Chen-ya Chiu) or place names (崇德 stations/cemetery). No community-authored material beyond the 公論報 reprint; Flux Quartet / Carnegie narrative remains 1994 press coverage.
 
 ## Sources
 - [TAH #1618 encyclopedia: 1618. Dr. Tom Chiu 邱崇德博士](https://taiwaneseamericanhistory.org/whos-who-1618-tom-chiu/)
