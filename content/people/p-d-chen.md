@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # P. D. Chen (陳培德)
 
@@ -32,7 +32,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-No memoir/corpus mentions beyond his own TAH Who's Who record ([[works/taiwaneseamericanhistory-org/whoswho1149|1149. P. D. Chen 陳培德 / 2017/07]]); nothing further absorbable — community roles remain as recorded in Employment above (太平洋時報 發行經理, 中華之聲電台 主持人).
+No memoir/corpus mentions beyond his own TAH Who's Who record ([[works/taiwaneseamericanhistory-org/whoswho1149|1149. P. D. Chen 陳培德 / 2017/07]]); nothing further absorbable — community roles remain as recorded in Employment above (太平洋時報 發行經理, 中華之聲電台 主持人). Deepen-x 10052045-27 (2026-10-07) re-scan: 培德 substring hits were 鄧培德/Peter Deng (separate person) or unrelated prose.
 
 ## Sources
 - [TAH #1149 encyclopedia: 1149. P. D. Chen 陳培德  / 2017/07](https://taiwaneseamericanhistory.org/whoswho1149/)
