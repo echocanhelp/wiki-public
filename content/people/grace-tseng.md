@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Grace Tseng (李雲玉)
 
@@ -40,6 +40,8 @@ last_reviewed: 2026-10-01
 - No other community/memoir corpus hits found beyond the Who's Who record itself; teaching and CPA career per TAH profile only.
 - DEEPEN-X re-check 2026-09-25: corpus re-grep (李雲玉 / Grace Tseng, works+articles) again returned only whoswho986 + index entry. Nothing absorbable; no bio invented.
 - DEEPEN-X slice 09251054-10 re-check 2026-09-26: fresh ZH+EN grep (works+articles) again returned only whoswho986 + index listing. SKIP — nothing absorbable.
+- Possible community footprint through her husband: [[works/taiwaneseamericanhistory-org/ourjourneys277|277. 他們這樣愛台灣：威斯康辛大學「台灣布袋戲團」的故事 / 朱靜女 /02/2017]] names "威州密爾瓦基市的鄭良福教授夫婦" who donated over twenty puppets to the UW-Milwaukee Taiwan puppet troupe. Name matches her listed husband 鄭良福 exactly, and the reference is to a married couple. HOLD: geography unconfirmed — this page places her career in the San Francisco Bay Area (San Francisco State MBA, teaching at San Francisco City College), the memoir places the couple in Milwaukee, Wisconsin; also 鄭良福 is a professor in the memoir, which this page does not state. Not merged.
+- DEEPEN-X slice 10052007-32 re-check 2026-10-07: five-dir grep (ZH+EN+surname) returns whoswho986 + index + source listing only; the sole substantive lead is the ourjourneys277 鄭良福 couple above, held unresolved.
 
 ## Sources
 - [TAH #986 encyclopedia: 986. Grace Tseng 李雲玉 / 2016/05](https://taiwaneseamericanhistory.org/whoswho986/)
