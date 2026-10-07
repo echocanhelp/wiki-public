@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # J. C. Lai (賴景宗)
 
@@ -42,3 +42,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-26 re-verified (slice -21): grep 賴景宗 / J. C. Lai again returns only whoswho2035 + works index — nothing absorbable.
+- 2026-10-07 re-verified (slice 10052007-23): five-dir grep (works/articles/sources/events/topics; 賴景宗 / 景宗 / J. C. Lai) returns only whoswho2035, works/index, and sources/taiwaneseamericanhistory-org — nothing absorbable.
