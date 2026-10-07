@@ -178,3 +178,5 @@ last_reviewed: 2026-10-01
 <!-- TJJ-A10060400-8: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-8 article adc931e5b99bb0a9 (van der Wees 評2012大選, 2012-01-29): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-7: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-7 articles (79291dad808ef7f7 大洛杉磯台灣會館會訊 2018-06 / 69b4f44f9c019bd5 陳水扁台中監獄自縊專訪 / 760a0bc942e1676b 台灣祝賀拜登賀錦麗就職 / 097b5750fcf3091a 花蓮震災台館勸募): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-5 articles (taiwanjustice-net/index 存檔索引頁): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

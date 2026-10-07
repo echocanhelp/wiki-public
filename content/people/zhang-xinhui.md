@@ -236,3 +236,5 @@ Notable quotes and mentions of **張信惠** in Taiwan Justice articles:
 - [[people/albert-s-lai||Dr. Albert S. Lai]]
 
 <!-- TJJ-A10040700-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-4 articles d0d03097ac759900 (AIT處長孫曉雅口罩亮點, 2021-07-18) / 8842b0e0aad8032f (唐培理GWU座談VOA報導, 2011-11-23) / 040657477c37c6cf (游朝凱國家圖書獎綜合報導, 2020-11-19) / a244776e9eb57979 (會館台灣學校古典音樂欣賞・海頓場, 2016-06-06): subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-5 articles (a1be6b82 圓滿的100 慶賀葉思雅張信惠週末漫談音樂, 2022-01-10): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

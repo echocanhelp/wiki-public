@@ -102,3 +102,5 @@ See the source hub. Top mentions:
 - [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
 - [[people/freeman-huang||Freeman Huang (黃樹人)]]
 <!-- TJJ-A10020400-1: verified 2026-10-05 — wave-2 re-check of slice 10020400-1 article 3dfb23f1 前白宮官員肯定台灣新國安團隊: subject links (ryan-hass, bi-khim-hsiao) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-5 articles (3dfb23f1 前白宮官員肯定台灣新國安團隊, 2024-05-14): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

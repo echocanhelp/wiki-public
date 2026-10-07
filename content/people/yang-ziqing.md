@@ -11107,3 +11107,5 @@ Notable quotes and mentions of **楊子清** in Taiwan Justice articles:
 <!-- TJJ-A10030400-8: verified 2026-10-06 — wave-2 re-check of slice 10030400-8 article a40b37bc03b2b9cb（以立「希望之光」世界首演影音）: author frontmatter 楊子清＋正文「2022-12-02 楊子清(Cliff Yang) 提供」再驗證為真, Subjects 黃令先（作曲、指揮）／陳慧如（鋼琴）均確認見於正文, 無錯鏈、無虛鏈；含本文 wikilink 的 2022-12-02 條目已在庫 — saturated, no new material. -->
 
 <!-- TJJ-A10060400-9: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-9 articles (2c5d3c7d4f5acccc 戴琪鄧振中TIFA / 81e80ba38969bf88 皮尤區隔台裔 / 9412105875987041 以立Mayfield交流 / 92917d4c9a88eba2 自救宣言59週年): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-5 articles (taiwanjustice-net/index 存檔索引頁): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

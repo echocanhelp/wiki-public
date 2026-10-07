@@ -80,3 +80,5 @@ Absorbed from the vault couple page [[people/ye-siya-zhang-xinhui|Ye Siya & Zhan
 - 2021-10-15 — The 信雅古典音樂珍藏專區 opened at Tainan's 許石音樂圖書館, built from the couple's donated 10,000+ classical CD/vinyl collection ([[articles/taiwanjustice-net/2021/20211207113948_2021_10_15_台南許石音樂圖書館信雅古典音樂珍藏專區啟用_4e3b2180b83318fa|TJ report]]).
 
 <!-- TJJ-A10030400-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-2 article a1be6b822ac7cdcd (圓滿的100, 2022-01-10 刊): 葉思雅 link (frontmatter author + Subjects, 專欄主筆) re-checked vs 正文, real, no wrong/spurious links; 2022-01 milestone fact w/ article wikilink already in page — saturated, no new material. -->
+
+<!-- TJJ-A10060400-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-5 articles (a1be6b82 圓滿的100 慶賀葉思雅張信惠週末漫談音樂, 2022-01-10): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

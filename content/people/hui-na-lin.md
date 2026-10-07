@@ -131,3 +131,5 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A10040600-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-5 article 80c0a825a7a661b6（2021年南加州僑界支持台灣參與世界衛生大會WHA聯合聲明, 2025-11-08 快照, 聲明 2021-05-13）: subject link re-checked vs 正文 this attempt — 列名共同發起人清單「賴慧娜」，真實提及，無錯鏈、無虛鏈；含該文 wikilink 之日期事實條目已在庫 — saturated, no new material. -->
 <!-- TJJ-A10040700-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-2 — article 23da543a315a1fa1（228七十週年紀念公告轉會館會訊, 2024-05-30快照）: subject link re-checked vs 正文「籌備會由董事賴慧娜擔任召集人」, real, no wrong/spurious links; 2017-02-17 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-5 articles (a1be6b82 圓滿的100 慶賀葉思雅張信惠週末漫談音樂, 2022-01-10): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
