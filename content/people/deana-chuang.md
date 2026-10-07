@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Deana Chuang (莊惠綺)
 
@@ -45,3 +45,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- DEEPEN-X SKIP 2026-10-07 (slice 10051400-16): corpus re-grep (莊惠綺/Deana Chuang/Chuang across works/articles/sources/events/topics) — hits are only own TAH record #594, NATWA II SoCal event notice, index co-listings. Both already absorbed above. No third-party memoir mentions. SKIP-deepen stands; page saturated. -->

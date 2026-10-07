@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Frank Shieh (沈培志)
 
@@ -41,3 +41,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- DEEPEN-X SKIP 2026-10-01: corpus re-grep (ZH+EN names, works+articles) — hits are only own TAH record + authored 聖東同鄉會 parade piece #125 + index co-listings. No third-party memoir mentions. SKIP-deepen stands; page saturated at HEAD. -->
+<!-- DEEPEN-X SKIP 2026-10-07 (slice 10051400-16): re-grep 沈培志/Frank Shieh + surname variants across all five corpus dirs — surname-only hits (justina-shieh, tao-shih-shieh, etc.) verified to be other Shiehs; exact-name hits unchanged (own record #1211 + authored #125). SKIP persists; page saturated. -->
