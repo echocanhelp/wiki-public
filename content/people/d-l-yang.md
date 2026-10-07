@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # D. L. Yang (楊東龍)
 
@@ -25,6 +25,7 @@ D. L. Yang (楊東龍) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 - TAH Who's Who 1166（2016/07）收錄其紀錄，見 [[works/taiwaneseamericanhistory-org/whoswho1166|1166. D. L. Yang 楊東龍]]；2026-09-22 起歷次複核（ZH+EN grep）corpus 中仍無其他記述，本節僅存檔該傳記頁；2026-09-25 再核（deepen-x slice 09232337-26）：works/ + articles/ 僅見此紀錄，SKIP——無可吸收材料。
 - 2026-09-26 再核（deepen-x slice 09251054-24）：fresh ZH+EN grep（楊東龍 / D. L. Yang）works/ + articles/ 僅命中自身 Who's Who 紀錄頁，SKIP 成立。
+- 2026-10-07 再核（deepen-x slice 10051909-9）：ZH+EN grep 擴至 works/articles/sources/events/topics 五目錄，仍僅命中自身紀錄 #1166 與 works index，無可吸收材料，SKIP 成立。
 
 ## Family
 
