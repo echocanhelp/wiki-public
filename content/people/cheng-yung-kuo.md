@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Cheng-Yung Kuo (郭正雍)
 
@@ -44,7 +44,9 @@ BFA, Studio Arts, Photography, Ceramics
 
 <!-- deepen-x 09210831-12: SKIP — corpus re-scan (2026-09-22): grep 郭正雍/Cheng-Yung Kuo in works+articles returns only own record whos-cheng-yung-kuo + works index; nothing absorbable. -->
 - SKIP re-confirmed 2026-09-25 (deepen-x slice 09231100-23): fresh ZH+EN grep returns only own record whos-cheng-yung-kuo + works index; nothing absorbable.
-- SKIP re-confirmed 2026-09-25 (deepen-x slice 09250500-5): grep 郭正雍/Cheng-Yung Kuo again returns only [[works/taiwaneseamericanhistory-org/whos-cheng-yung-kuo|whos-cheng-yung-kuo]] + works index; nothing absorbable.
+- SKIP re-confirmed 2026-10-07 (deepen-x slice 10051918-16): extended grep 郭正雍/Cheng-Yung Kuo/正雍/KCY across all five corpus dirs returns only own record whos-cheng-yung-kuo + index rows; the 黃聖家 hit is work #820 (Chicago JC 青商 feature on 黃聖家 — the page's listed wife name matches, but the piece is her own profile, not his community activity). Verified-saturated.
+
+<!-- deepen-x 10051918-16: 2026-10-07 verified-saturated, nothing absorbable. -->
 
 ## Sources
 - [TAH #1610 encyclopedia: 1610. Cheng-Yung Kuo 郭正雍 /04/2017](https://taiwaneseamericanhistory.org/whos-cheng-yung-kuo/)

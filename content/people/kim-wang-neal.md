@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Kim Wang-Neal (王劭文律師)
 
@@ -50,4 +50,6 @@ Accomplishment
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09231200-6: re-verify 2026-09-25 — fresh ZH+EN grep: own my-story-674 essay + whos-who-988 record only; already absorbed, nothing new. -->
-- Corpus re-grep 2026-09-25 (deepen-x 09250500-19): fresh ZH+EN grep of works/+articles/ returns the identical hit set already absorbed above (own TAH records + index; David Chan page additionally the chef David Chang false positive). No new community material; page saturated. SKIP-with-reason.
+- SKIP re-confirmed 2026-10-07 (deepen-x slice 10051918-16): extended grep 王劭文/Kim Wang-Neal/劭文 across all five corpus dirs returns only own my-story-674 essay + whos-who-988 record + index rows; NY Chamber hits (our-journeys-360, chamber-upstate #23) name Joey Chiang, not her. Verified-saturated.
+
+<!-- deepen-x 10051918-16: 2026-10-07 verified-saturated, nothing absorbable. -->

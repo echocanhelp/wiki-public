@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Christopher Lin (林楷夫)
 
@@ -33,7 +33,9 @@ last_reviewed: 2026-10-01
 - Community service record: 台灣人公共事務會華府總部 (NATLA Washington DC headquarters) member since 2012; B.S. 應用外語, 元智大學.
 - Disambiguation: fresh corpus grep for the romanization "Christopher Lin" also hits taiwanjustice.net press coverage of 林榮基 (Causeway Books HK bookseller in Taiwan) — different person, hanzi does not match; not absorbable here.
 - Corpus re-check 2026-09-26 (slice 09251023-23): fresh ZH+EN grep of works/ + articles/ — hit set unchanged (own TAH #1436 record + index row only); no memoir or movement text beyond what is absorbed above. SKIP.
-- Re-grep 2026-10-01 (deepen-x slice 09261200-20): identical result — only own record [[works/taiwaneseamericanhistory-org/whoswho1436|TAH #1436]] + works/index row; 林榮基 (Causeway Books) disambiguation still stands, no new absorbable facts. SKIP.
+- Re-grep 2026-10-07 (deepen-x slice 10051918-16): extended grep 林楷夫/Christopher Lin/楷夫 across all five corpus dirs returns only own record [[works/taiwaneseamericanhistory-org/whoswho1436|TAH #1436]] + index rows + father's page rev-rui-long-lin (already absorbed in Family above); NATLA/FAPA chapter files (#20 Greater DC, ourjourneys320/49) contain no 林楷夫 mention. 林榮基 disambiguation still stands. Verified-saturated.
+
+<!-- deepen-x 10051918-16: 2026-10-07 verified-saturated, nothing absorbable. -->
 
 ## Family
 
