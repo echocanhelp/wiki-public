@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # S. C. Lin (林淑珠)
 
@@ -47,3 +47,4 @@ Listed in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamer
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-26 re-verified (slice -21): fresh grep 林淑珠 returns only whoswho1204 + works index; verification saturated, SKIP.
+<!-- DEEPEN-X SKIP 2026-10-07 (slice 10052007-24 re-verify): five-dir greps (works/articles/sources/events/topics; 林淑珠 / S. C. Lin / Shuzhu / Shu-chiu / partial 淑珠) return only own record [[works/taiwaneseamericanhistory-org/whoswho1204|TAH #1204]], works index, and sources registry. No memoir/community material. Verified-saturated. -->
