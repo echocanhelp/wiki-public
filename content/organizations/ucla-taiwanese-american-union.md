@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # UCLA Taiwanese American Union
 
@@ -32,3 +32,5 @@ The UCLA Taiwanese American Union (TAU) was an undergraduate Taiwanese student o
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Corpus re-grep 2026-10-07 (slice 10052045-29): fresh five-dir grep (UCLA Taiwanese American Union / uclatau / Taiwanese American Union) — only source-directory index lines, zero substantive hits; 2012 Mini Olympics listing + 台美聯合陣線 TAU disambiguation HOLD above stand. SKIP: verified-saturated.
