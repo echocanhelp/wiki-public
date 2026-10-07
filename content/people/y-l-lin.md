@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Y. L. Lin (林玉郎)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 10051918-9: re-verified 2026-10-07 — fresh five-dir grep (works/articles/sources/events/topics, ZH+EN+variants) returns only already-cited records; verified-saturated, nothing absorbable. -->

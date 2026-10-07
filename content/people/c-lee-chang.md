@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-07
 ---
 # C. Lee Chang (李長堅博士)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-09-29
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 10051918-9: re-verified 2026-10-07 — fresh five-dir grep (works/articles/sources/events/topics, ZH+EN+variants) returns only already-cited records; verified-saturated, nothing absorbable. -->
