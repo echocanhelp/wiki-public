@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # L. C. Chen (陳麗村)
 
@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - SKIP re-verify (2026-09-22, deepen-x slice 09211200-10): fresh grep of works/+articles/ for 陳麗村/L. C. Chen returns only the two already-cited records (TAH #1459, and #1769 under the 陳立川 collision) plus index lines — no memoir or article mentions; HOLD stands, nothing absorbable.
 - SKIP re-verify (2026-09-25, deepen-x slice 09231200-25): fresh grep returns the same two records plus index lines — HOLD stands, nothing absorbable.
 - SKIP re-verify (2026-09-25, deepen-x slice 09250600-12): fresh grep returns the identical hit set (TAH #1459, #1769 collision, index) — HOLD stands, nothing absorbable.
+- SKIP re-verify (2026-10-07, deepen-x slice 10051400-12): fresh ZH+EN grep across works/articles/sources/events/topics returns the identical hit set (TAH #1459, #1769 陳立川 collision, index/source rows) — HOLD stands, nothing absorbable.
 
 **Corpus records:** [[works/taiwaneseamericanhistory-org/whoswho1459|1459. L. C. Chen 陳麗村 / 2017/01]]
 
