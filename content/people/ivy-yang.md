@@ -67,3 +67,5 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-25 (DEEPEN-X slice 09240600-5): hits unchanged — TAH #1716, works index, and the same TJJ exhibition report, all already cited; one candidate hit (生態健康聯盟報導 2021-06-22) has no 楊靜芬/Ivy Yang mention in the body — false positive. No new community facts — SKIP-content; painter-vs-CFP HOLD stands.
 
 <!-- TJJ-A10040500-8: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-8 article cd2062fe6528223c (台灣之美‧亞洲之心巡迴展報導, 2017-03-14刊): subject link re-checked vs 正文 — 正文畫家楊靜芬簡介（「花飛碟舞」、漆藝、東京藝大短期進修2016）確認, real, no wrong/spurious links; TAH#1716 CFP 同名衝突 HOLD 照舊; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060700-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060700-2 article cd2062fe6528223c (台灣之美‧亞洲之心國際巡迴展LA展報導, 2017-03-14刊, 2024-07-24快照): 傳主本人(畫家簡介「花飛碟舞」); TAH#1716 CFP 同名衝突 HOLD 照舊 subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

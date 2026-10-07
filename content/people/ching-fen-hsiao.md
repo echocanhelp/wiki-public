@@ -98,3 +98,5 @@ last_reviewed: 2026-09-24
 
 
 <!-- TJJ-A10040700-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-3 article 8216e7ca508266e9 (蕭美琴父親蕭清芬牧師在美過世標籤頁, 2022-05-21快照): 蕭清芬頭條訃聞享壽86歲 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060700-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060700-2 article 9d523cc5290c997b (我的女兒美琴, 蕭清芬署名, 2020-07-26刊, 2025-03-24快照): article 28b0cc4e52acece2 (2021北美洲聯合228紀念活動報導, 2021-03-03刊, 2026-02-10快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
