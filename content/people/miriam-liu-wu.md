@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Miriam Liu Wu (劉逸青)
 
@@ -35,6 +35,8 @@ last_reviewed: 2026-10-01
 - Corpus record is bibliographic only (band B); no memoir text available for further absorb (re-verified 2026-09-22 — no corpus mentions beyond entry #1214 and the works index).
 - deepen-x slice 09232232-3 (2026-09-25): fresh ZH+EN grep — only hit is the works/index.md bibliographic line for #1214; nothing absorbable beyond the existing note.
 - deepen-x slice 09251047-5 (2026-09-26): fresh ZH+EN grep (-E) of works/ + articles/ — hits limited to own record [[works/taiwaneseamericanhistory-org/1214-miriam-liu-wu-e5-8a-89-e9-80-b8-e9-9d-92-201608|#1214]] + works index; SKIP, nothing absorbable.
+
+- 2026-10-07 deepen-x slice 10051948-28: fresh five-dir grep (ZH+EN+surname/variant probes) — hit set unchanged (own encyclopedia record + works index + sources page only); nothing absorbable, SKIP re-confirmed.
 
 ## Family
 

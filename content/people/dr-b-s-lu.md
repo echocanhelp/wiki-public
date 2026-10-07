@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dr. B. S. Lu (呂邦雄醫師)
 
@@ -34,6 +34,8 @@ last_reviewed: 2026-10-01
 
 - 2026-09-25 deepen-x slice 09232232-13: re-grep (ZH+EN) confirmed zero new corpus mentions — only hits are his own encyclopedia record [[works/taiwaneseamericanhistory-org/whos-who-2014-b-s-lu|2014. Dr. B. S. Lu 呂邦雄醫師]] and the works index listing. Nothing absorbable this pass.
 - 2026-09-26 deepen-x slice 09251039-13: re-grep (ZH+EN) again zero new corpus mentions — same two hits (own record + works index). Nothing absorbable this pass.
+
+- 2026-10-07 deepen-x slice 10051948-28: fresh five-dir grep (ZH+EN+surname/variant probes) — hit set unchanged (own encyclopedia record + works index + sources page only); nothing absorbable, SKIP re-confirmed.
 
 ## Family
 

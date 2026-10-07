@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Ian Lin (林毅安)
 
@@ -36,6 +36,8 @@ last_reviewed: 2026-10-01
 
 - **TAH Who's Who record:** his presence in the movement corpus is limited to his own bibliographic profile #1546 (2017-03) — [[works/taiwaneseamericanhistory-org/whoswho1546|1546. Ian Lin 林毅安 / 2017/03]]. The corpus record holds bibliographic metadata only; no memoir, organizational membership, or event participation by 林毅安 appears anywhere in the story corpus, so no community-role facts were absorbable beyond the Employment table already extracted from the profile.
   *(re-grep 2026-09-25 slice -25, 2026-09-26 slice 09251039-1 and 2026-10-01 slice 09261341-7: hit set unchanged — only [[works/taiwaneseamericanhistory-org/whoswho1546|whoswho1546]] + works/index; SKIP-with-reason re-confirmed.)*
+
+- 2026-10-07 deepen-x slice 10051948-28: fresh five-dir grep (ZH+EN+surname/variant probes) — hit set unchanged (own encyclopedia record + works index + sources page only); nothing absorbable, SKIP re-confirmed.
 
 ## Family
 
