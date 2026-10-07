@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # C.H. Chris Liang (梁志宏)
 
@@ -42,6 +42,7 @@ Accomplishment
 - Corpus re-grep 2026-09-25 (slice 09231200-11): only new hit was a false positive ("Liang-tse Chang" 張良澤 in [[works/taiwaneseamericanhistory-org/ourjourneys37-eng|Our Journeys 37]], not Chris Liang). Verified saturated — TACPA presidency + directory record remain the full corpus attestation.
 - 語料複核（deepen-x 09250400-30, 2026-09-25）：再檢 content/works + content/articles（中英雙查），命中集僅自身條目 whos-who-2055 與 index，無新增可吸收材料。Verified-saturated.
 - 語料複核（deepen-x 09252123-23, 2026-09-26）：再檢 content/works + content/articles（中英雙查），命中集僅自身條目 [[works/taiwaneseamericanhistory-org/whos-who-2055-c-h-liang|whos-who-2055]] 與 index，無新增可吸收材料。TACPA 會長的既有記述已是語料全部佐證。Verified-saturated.
+- 語料複核（deepen-x slice 10051918-1, 2026-10-07）：再檢 content/works + articles + sources + events + topics（中英雙查＋姓氏查），命中集僅自身條目 whos-who-2055 與 index，無任何其他命中。Verified-saturated.
 
 ## Sources
 - [TAH #2055 encyclopedia: 2055.  C.H. (Chris) Liang 梁志宏](https://taiwaneseamericanhistory.org/whos-who-2055-c-h-liang/)

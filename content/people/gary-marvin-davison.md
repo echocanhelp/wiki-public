@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Gary Marvin Davison
 
@@ -51,3 +51,4 @@ Corpus re-check (deepen-x slice 09250400-20, 2026-09-25): still saturated — gr
 
 <!-- deepen-x 09231100-17 re-check 2026-09-25: verified-saturated. Fresh ZH+EN grep of works/ + articles/ returns only own TAH bibliographic records, works/index.md, or pages already wikilinked/HOLDed in Role in the Community; no new absorbable corpus material. -->
 <!-- deepen-x slice 09252123-22 re-check 2026-09-26: verified-saturated. Fresh grep of works/ + articles/ returns only own record whos-gary-marvin-davison, works/index.md, and the already-excluded taiwanjustice.net Admiral Davidson (戴文森) article — NOT this person; SKIP, nothing new absorbable. -->
+<!-- deepen-x slice 10051918-1 re-check 2026-10-07: verified-saturated. Fresh grep across works/ + articles/ + sources/ + events/ + topics/ (EN + surname-wide) returns only own record whos-gary-marvin-davison, works/index.md, sources index, and the already-excluded taiwanjustice.net Admiral Davidson (戴文森) article — NOT this person. SKIP; nothing new absorbable. -->
