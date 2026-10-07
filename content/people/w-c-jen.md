@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # W. C. Jen (任雯娟)
 
@@ -53,3 +53,4 @@ SKIP (re-verified 2026-09-25, deepen-x 09231500-1): fresh ZH+EN greps of works/ 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-25 (deepen-x slice 09250500-4): hits = own records #388/#1543 + index only; no memoir/community mention. Verified saturated, SKIP; Pianist-vs-豎笛 conflict stays on HOLD.
 <!-- deepen-x 09261100-7: verified-saturated (2026-10-01) — re-grep 任雯娟 / W. C. Jen (works+articles): own records #388/#1543 + index only. SKIP; Pianist-vs-豎笛 conflict stays on HOLD. -->
+<!-- deepen-x 10051400-5: re-verify 2026-10-07 — full-corpus grep (works/articles/sources/events/topics, ZH+EN+surname 任雯) returns own records #388/#1543 + sources/taiwaneseamericanhistory-org only. Verified-saturated, SKIP; Pianist-vs-豎笛 conflict stays on HOLD. -->
