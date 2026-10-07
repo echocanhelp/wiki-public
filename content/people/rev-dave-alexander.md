@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Rev. Dave Alexander (亞大偉牧師)
 
@@ -43,6 +43,8 @@ last_reviewed: 2026-10-01
 - Subject of the community news video record [[works/taiwaneseamericanhistory-org/videos107|107. 奉獻36年青春 美籍牧師亞大偉樂當台灣人－民視新聞]] (published 2018-07-02): framed as an American missionary who devoted his career to the Taiwanese church and identified with Taiwan ("樂當台灣人").
 - Received Taiwan Ministry of Interior recognition for long-term service, 2007 (per TAH profile above).
 - HOLD: video title "奉獻36年青春" vs employment span 1976–2018 (42 years) on the TAH profile — not merged.
+- Subject of the community story record [[works/taiwaneseamericanhistory-org/my-stories-713|713. Missionaries return home to vote in Taiwan / Rev. David Alexander / 2020-01]] (published 2020-01-15): the missionary community returning to Taiwan to vote in the 2020 election (bibliographic record only, full text in vault).
+- Re-grepped 2026-10-07 (slice 10051909-1): ZH+EN grep across works/articles/sources/events/topics — new hit my-stories-713 absorbed above; other hits (videos107, whos-who-2149, index) already linked.
 
 ## Sources
 - [TAH #2149 encyclopedia: 2149. Rev. Dave Alexander 亞大偉牧師](https://taiwaneseamericanhistory.org/whos-who-2149-dave-alexander/)
