@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Ariel Wei
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-scan 2026-09-22 (deepen-x slice 09210900-2): still only the Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1170|1170]] + index line — no absorbable community material.
 - Corpus re-grep 2026-09-25 (deepen-x slices 09231200-30, 09250600-15): hit set unchanged (own record + works index only) — SKIP-with-reason, nothing new absorbable.
 - Corpus re-grep 2026-10-01 (deepen-x slice 09261300-12): fresh grep 'Ariel Wei' across content/works + content/articles — hit set unchanged ([[works/taiwaneseamericanhistory-org/whoswho1170|1170. Ariel Wei / 2016/07]] + works index). SKIP-with-reason: no new material; B.F.A./M.A. vs B.S./M.S. degree conflict remains on HOLD.
+- Corpus re-grep 2026-10-07 (deepen-x slice 10051918-17): fresh grep (Ariel Wei/Ariel) across works/articles/sources/events/topics — 'Ariel' matches are Ariel Gallery (NY gallery in [[works/taiwaneseamericanhistory-org/ourjourneys256|ourjourneys256]] exhibition list, different person) + unrelated taiwanjustice news; person matches only own record [[works/taiwaneseamericanhistory-org/whoswho1170|1170]]. SKIP re-verified; degree conflict remains HOLD.
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ariel-wei/)
 

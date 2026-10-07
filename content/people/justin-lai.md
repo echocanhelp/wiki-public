@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Justin Lai (賴正雄)
 
@@ -55,3 +55,4 @@ Note: "Era: 1940" derives solely from the directory era field; no corpus record 
 <!-- deepen-x 09231400-12 (2026-09-25): fresh ZH+EN grep of works+articles -> only own TAH bibliographic record + works/index.md; no memoir/community narrative to absorb. SKIP re-verified. -->
 <!-- deepen-x slice 09251031-4 (2026-09-26): fresh ZH+EN grep (賴正雄/Justin Lai) of works+articles -> hits identical to prior sweeps: own record [[works/taiwaneseamericanhistory-org/608-justin-lai-e8-b3-b4-e6-ad-a3-e9-9b-84-201509|TAH #608]] + works/index. SKIP stands. -->
 <!-- deepen-x slice 09261200-18 (2026-10-01): fresh ZH+EN grep (賴正雄/Justin Lai) of works+articles -> ZERO hits; no memoir/community material anywhere. Prior sweeps hit only own TAH #608 record (now deleted from works/). SKIP stands. -->
+<!-- deepen-x slice 10051918-17 (2026-10-07): fresh grep (賴正雄/Justin Lai/正雄) across all five corpus dirs -> 賴正雄 hits only own TAH #608 record + index; loose '正雄' hits are different persons (許正雄 Dr. Daniel C. Hsu #726/#88/#323/#45, 林正雄/林正德 in ourjourneys212 roster). No material for this subject. SKIP re-verified. -->

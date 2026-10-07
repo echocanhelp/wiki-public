@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Wilfred Su (蘇文隆牧師)
 
@@ -47,3 +47,5 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10051918-17 (2026-10-07): fresh ZH+EN+variant grep across works/articles/sources/events/topics -> hits identical to prior sweeps: own record [[works/taiwaneseamericanhistory-org/whoswho977|whoswho977]] + works index only; 'Wilfred' hits in taiwanjustice articles are unrelated persons. SKIP re-verified, page saturated. -->
