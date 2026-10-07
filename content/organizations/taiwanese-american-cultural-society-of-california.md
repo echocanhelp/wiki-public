@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Taiwanese American Cultural Society of California (台美文化生活協會)
 
@@ -33,3 +33,5 @@ The Taiwanese American Cultural Society of California is a cultural organization
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10052158-7 (2026-10-07): verified-saturated — fresh five-dir grep (台美文化生活協會 / full EN name / alias probes) over works/articles/sources/events/topics returns only the own bibliographic record + index/sources hubs. The two articles/ hits (taiwanjustice-net 華府龍舟賽 stories) match '台美文化協會' but are 大華府台美文化協會 (TUSCA), a DC-area organizer — false positive, not this California society; do not absorb. No new community facts. -->

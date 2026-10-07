@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # P.K. Frank Hsu (徐博高醫師)
 
@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10052158-7 (2026-10-07): verified-saturated — fresh five-dir grep (徐博高 / P.K. Frank Hsu / Frank Hsu) returns the same hit set already absorbed/disambiguated (#1205 own record — bibliographic-only — #1701 許德標, ff335 + ourjourneys255 許子津, Pew bare 'Frank Hsu' signatory still without 漢名 and not attributable); no new absorbable material. -->

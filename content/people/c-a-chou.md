@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-07
 ---
 # C. A. Chou 哲 安 (周明安博士)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x slice 09252123-1 (2026-09-26): verified-saturated — fresh ZH+EN grep hit set identical to prior passes (ourjourneys81, ourjourneys65, #934 + works index, all already absorbed); no new community material. -->
 <!-- deepen-x slice 09250400-25 (2026-09-25): verified-saturated — fresh ZH+EN corpus re-grep hits only the already-absorbed records; no new absorbable facts. -->
+<!-- deepen-x slice 10052158-7 (2026-10-07): verified-saturated — fresh five-dir grep (周明安 / C. A. Chou / 周明(哲)安 / surname+given variants) over works/articles/sources/events/topics returns only the three absorbed records (ourjourneys81, ourjourneys65, #934 — the last bibliographic-only) plus index/sources hubs; no new absorbable facts. -->
