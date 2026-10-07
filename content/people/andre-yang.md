@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Andre Yang (楊基定)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - Acknowledged among Washington D.C.-area supporters of the movement (華府同鄉會 circle: 林光源、陳唐山、蔡武男、楊基定、洪燿東) in a fund-raising/acknowledgment record: [[works/taiwaneseamericanhistory-org/ourjourneys256|Our Journeys #256]].
 - Corpus re-check (2026-09-26, deepen-x 09251031-27): fresh ZH+EN grep returns only the three records already absorbed above ([[works/taiwaneseamericanhistory-org/ourjourneys244|ourjourneys244]], [[works/taiwaneseamericanhistory-org/ourjourneys256|ourjourneys256]], [[works/taiwaneseamericanhistory-org/whoswho1076|whoswho1076]]); page saturated.
 - His own TAH Who's Who entry: [[works/taiwaneseamericanhistory-org/whoswho1076|1076. Andre Yang 楊基定 / 2016-06]].
+- The credit union's own corpus record (bibliographic, band B): [[works/taiwaneseamericanhistory-org/southern-california-taiwanese-federal-credit-union-ef-bc-8csctfcu|Southern California Taiwanese Federal Credit Union (SCTFCU) record]] (2016-08-22) — the organization he co-founded and chaired 監察會 for is documented in its own right in the story corpus.
 
 ## Sources
 - [TAH #1076 encyclopedia: 1076. Andre Yang 楊基定 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1076/)
