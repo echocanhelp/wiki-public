@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-07
 ---
 # Nancy Yang (陳玲銖)
 
@@ -51,3 +51,4 @@ Nancy Yang graduated from the University of California, Berkeley, with a Master�
 
 <!-- deepen-x slice 09252123-14 (2026-09-26): verified-saturated — fresh ZH+EN re-grep hit set unchanged (#194, #858, #1025, #25, index; all bibliographic band-B records already cited in Role in the Community); no new absorbable facts. -->
 <!-- deepen-x slice 10051143-4 recheck 2026-10-06: SKIP — fresh ZH+EN re-grep hit set unchanged (#194, #858, #1025, #25, works/sources index; all bibliographic records already cited in Role in the Community); no new absorbable corpus facts. -->
+<!-- deepen-x slice 10060900-3 (2026-10-07): fresh ZH+EN re-grep of works/articles/sources/events/topics — hit set unchanged (#194, #858, #1025, #25, works index; all bibliographic records already cited). Surname sweeps 楊金虎/楊冠傑 returned zero corpus hits. Verified-saturated; SKIP-content, nothing new absorbable, no conflicts. -->

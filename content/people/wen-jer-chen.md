@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-07
 ---
 # Wen Jer Chen (陳文哲)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-10-06
 
 - Corpus re-grep 2026-10-01 (deepen-x slice 09261000-30): full ZH+EN grep (陳文哲/Wen Jer Chen) of works/ + articles/ returns only whos1402, eulogy mystories484 and the works index — hit set unchanged; verified saturated, SKIP with reason (nothing new absorbable).
 <!-- deepen-x slice 10051143-3 (2026-10-06): saturated re-verify — fresh ZH+EN grep (works/articles/sources/events/topics) hit set unchanged (whos1402, mystories484, works index); all absorbed above. SKIP-content. -->
+<!-- deepen-x slice 10060900-3 (2026-10-07): fresh ZH+EN grep (works/articles/sources/events/topics) — hit set unchanged (whos1402, eulogy mystories484, works index); mentor sweep Sansaricq returns only mystories484 (already linked); 2026 news-tag 文哲 hits remain substring noise. Verified-saturated; SKIP-content, nothing new absorbable, no conflicts. -->
