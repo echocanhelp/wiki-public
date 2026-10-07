@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-07
 ---
 # Fred Fung (馮耀祥)
 
@@ -43,6 +43,9 @@ _No filled family fields on the TAH profile._
 - No memoir or article corpus mentions found beyond the Who's Who record itself (re-grepped
   2026-09-21, 2026-09-25 and 2026-09-26 slice 09251039-26: only own band-B record + works/index); no community
   roles beyond the press-kit Employment table could be absorbed (no invented biography).
+- 2026-10-07 (slice 10052007-16): surname-only grep surfaced 'Fung' hits in three
+  taiwaneseamerican-org pieces, all false positives (Din Tai Fung restaurant references;
+  Esther Fung, PangoBooks marketing director). Confirmed: no 馮耀祥/Fred Fung mentions.
 
 ## Sources
 - [TAH #1470 encyclopedia: 1470. Fred Fung 馮耀祥 / 2017/01](https://taiwaneseamericanhistory.org/whoswho1470/)

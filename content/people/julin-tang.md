@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Julin Tang (湯竹林)
 
@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - **TAH community record.** His TAH Who's Who encyclopedia entry (#1309) is held in the vault as [[works/taiwaneseamericanhistory-org/whoswho1309|TAH #1309, published 2016-10-09]]; the vault copy is a bibliographic record only — the full biography text stays in the source archive, so no further corpus facts are absorbable in-vault at this time.
 - 2026-09-18 / 2026-09-20 / 2026-09-21 / 2026-09-22 (slice 09210900-16) / 2026-09-25 (slice 09231400-29) / 2026-09-26 (slice 09251039-26) deepen-x passes found no other corpus mentions in works/ or articles/ (only hit each time: the band-B record above plus the works index).
+- 2026-10-07 (slice 10052007-16): one new article hit — a taiwanjustice.net translation mentioning "Julian Tang 陳偉志", a Leicester University clinical virologist. HOLD: distinct person (different hanzi 陳偉志 vs 湯竹林, different institution); do NOT merge. No absorbable facts.
 
 ## Sources
 - [TAH #1309 encyclopedia: 1309. Julin Tang 湯竹林 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1309/)
