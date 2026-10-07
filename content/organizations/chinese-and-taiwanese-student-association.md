@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-07
 ---
 # Chinese and Taiwanese Student Association
 
@@ -29,3 +29,4 @@ The Chinese and Taiwanese Student Association (CATSA) is a recognized student or
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-swept deepen-x slice 09251054-17 (2026-09-26): fresh grep CATSA / Chinese and Taiwanese Student Association — zero hits in content/works or content/articles. SKIP: no community-authored material.
+<!-- deepen-x slice 10052158-11 (2026-10-07): re-verify — fresh five-dir grep (CATSA|Chinese and Taiwanese Student) hits only sources/taiwaneseamericanhistory-org.md (directory row). Boulder/科羅拉多 hits are unrelated news wires and one music column. No community-authored material. SKIP persists. -->

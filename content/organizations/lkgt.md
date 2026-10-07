@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # LKGT 「」 (老康健)
 
@@ -23,6 +23,7 @@ LKGT (老康健) is an informal senior social group of Taiwanese Americans in th
 - The recurring public output of the group is the bimonthly member speech at a Taiwanese church in San Leandro — an informal but sustained senior-professional presence in the Bay Area Taiwanese community.
 - Corpus check (2026-09-21, re-run) found no other memoir or article mentions beyond this record; a `grep` hit in a taiwanjustice.net article proved to be a coincidental substring inside an archive-hash string, not a real mention. No additional facts absorbable. Re-confirmed 2026-09-25 (deepen-x 09231200-9): the only articles/ hit remains the taiwanjustice.net archive-hash substring (coincidental), so the corpus yields nothing further.
 - Corpus check re-run 2026-09-25 (deepen-x 09250500-17): the three new-looking articles/ hits are all coincidental — one is the same archive-hash substring (`...6WLKGTYDQXBVLK`), the other two are the unrelated Chinese word 臨港 (Shanghai 臨港 semiconductor park; and 「法國軍艦臨港壓境」 in a Tamsui history article). No real mentions; nothing absorbable — SKIP-with-reason.
+- Re-swept 2026-10-07 (deepen-x slice 10052158-11): fresh five-dir grep (LKGT|老康健) across works/articles/sources/events/topics hits only own record #26, works/index.md, the sources directory row, and the known coincidental archive-hash substring in a taiwanjustice.net article. No real mentions. SKIP persists.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/lkgt/)
