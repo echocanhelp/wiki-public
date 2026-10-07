@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-07
 ---
 # Henry Lee (李豐隆)
 
@@ -40,3 +40,4 @@ Henry Lee (李豐隆) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 2026-09-22 re-check: corpus re-grep (Henry Lee / 李豐隆) returned only the works already cited above (ourjourneys 75/75-eng/245/268/329, whoswho1467) — no new absorbable facts. Re-confirmed 2026-09-23 (slice 09221300-11), 2026-09-24 (slice 09230700-28), and 2026-09-25 (slice 09240800-26) — hit set identical, verified-saturated. Re-verified 2026-09-26 (slice 09251400-14) — same 6-file hit set, all cited above; SKIP. Re-verified 2026-10-06 (slice 10051143-6) — same 6-file hit set (works: ourjourneys75/75-eng/245/268/329, whoswho1467), all facts already absorbed above; SKIP.
+<!-- deepen-x slice 10060900-1 (2026-10-07): saturated re-verify — fresh grep (李豐隆 / Henry Lee / 豐隆) hit set unchanged (works: ourjourneys75/75-eng/245/268/329, whoswho1467); the lone articles/ hit (2020 區域立委名單) is 苗豐隆 — different person, noise. All facts absorbed above; HOLD on 1990-07 vs 1990-05 date conflict stands. SKIP-content. -->

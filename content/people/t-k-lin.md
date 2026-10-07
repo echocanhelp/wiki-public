@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-07
 ---
 # T. K. Lin (林宗光)
 
@@ -40,7 +40,7 @@ last_reviewed: 2026-10-06
 
 ## Role in the Community
 
-- **1986-10-01 — NATPA 克城分會成立:** during a visit by 林宗光, 周烒明, 洪明勳 and 黃昭淵 founded the Cleveland chapter of the North American Taiwanese Professors' Association at 周烒明's home; 15 professors attended, 5 of them doctors ([[works/taiwaneseamericanhistory-org/ourjourneys74|74. 1983至1990的北美洲台灣人醫師協會 / 周烒明]]).
+- **1986-10-01 — NATPA 克城分會成立:** during a visit by 林宗光, 周烒明, 洪明勳 and 黃昭淵 founded the Cleveland chapter of the North American Taiwanese Professors' Association at 周烒明's home; 15 professors attended, 5 of them doctors ([[works/taiwaneseamericanhistory-org/ourjourneys74|74. 1983至1990的北美洲台灣人醫師協會 / 周烒明]]；另見英文版 [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|74. NATPA Cleveland / ENG]]).
 - **1989-12 — 觀選團:** joined the NATPA election-observation delegation (with 陳文彥, 廖述宗, 張旭成) for Taiwan's 立委/縣市長/省議員 elections; the delegation issued a statement criticizing KMT abuse of public power, non-neutral military, money politics and PRC interference ([[works/taiwaneseamericanhistory-org/ourjourneys47|47. 北美洲台灣人敎授協會首度回台召開年會的經緯和歷史意義 / 林靜竹]]).
 - **NATPA 第六屆會長**; in the planning of NATPA's first in-Taiwan annual meeting he served as 政治組召集人 ([[works/taiwaneseamericanhistory-org/ourjourneys47|OJ #47]]).
 - **Academic forum speaker:** among the scholars (彭明敏, 林宗義, 張旭成, 林衡哲, 陳芳明…) who presented at the 台灣協志會-hosted academic conference at Syntek Hall Center, Palo Alto ([[works/taiwaneseamericanhistory-org/ourjourneys37|37. 台灣協志會成立與大事記 / 紀哲嘉]]).
@@ -59,3 +59,4 @@ last_reviewed: 2026-10-06
 <!-- deepen-x slice 09260600-30 (2026-09-27): saturated re-verify — fresh grep hit set unchanged (OJ #37, #47, #74, mystories293, TAH #813); all absorbed above. SKIP-content. -->
 <!-- deepen-x slice 09270700-21 (2026-10-03): saturated re-verify — fresh grep hit set unchanged (OJ #37, #47, #74 ZH+ENG, mystories293, TAH #813, index); all absorbed above. SKIP-content. -->
 <!-- deepen-x slice 10051143-3 (2026-10-06): saturated re-verify — fresh grep hit set unchanged (OJ #37, #47, #74 ZH+ENG, mystories293, TAH #813, index); all absorbed above. SKIP-content. -->
+<!-- deepen-x slice 10060900-1 (2026-10-07): saturated re-verify — fresh grep (林宗光 / T. K. Lin / 宗光) across works+articles+sources+events+topics returns the unchanged hit set (OJ #37, #47, #74 ZH+ENG, mystories293, TAH #813, index); all absorbed above. Added explicit wikilink to the OJ #74 English edition. SKIP-content. -->
