@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 <!-- deepen-x slice 09231300-8: verified-saturated 2026-09-25 — re-grepped works+articles for 胡正明/Chenming Hu: hit set unchanged, only own band-B records (whoswho1157, pride4) + index; already absorbed, no memoir material. -->
 # Chenming Hu (胡正明)
@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Corpus re-verify 2026-09-26 (slice 09251031-17): fresh grep 胡正明/Chenming Hu — hit set unchanged (own records [[works/taiwaneseamericanhistory-org/whoswho1157|TAH #1157]], [[works/taiwaneseamericanhistory-org/pride4|TAH Pride #4]]); no memoir material. SKIP.
+>
+> Corpus re-verify 2026-10-07 (slice 10051400-15): 5-dir grep 胡正明/Chenming Hu/正明 — beyond own records, 正明 hits are 李正明 (whoswho1887) and 鍾正明 (whoswho606), different persons, plus one article false positive (「正明顯升高」substring). No new material; SKIP re-verified.
