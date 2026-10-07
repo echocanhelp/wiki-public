@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Lisa C. Williamson (李貞瑩)
 
@@ -43,3 +43,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10051948-20 2026-10-07: re-grep (李貞瑩/李贞莹/Lisa C. Williamson + surname-only) across works/articles/sources/events/topics — hit set identical: own #1971 record + works/index + unrelated Williamson articles. SKIP verified-saturated. -->

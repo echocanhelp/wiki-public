@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # William Yeh (葉振忠)
 
@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10051948-20 2026-10-07: re-grep (葉振忠/叶振忠/William Yeh/surname 振忠) across all five corpus dirs — 振忠 hit in ourjourneys81.md is 楊振忠 (台大醫學院生化), a different person; rest = own #1900 record + works/index. No 美東玉山科技協會 hits. SKIP verified-saturated. -->
