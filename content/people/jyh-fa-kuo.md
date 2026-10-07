@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Jyh-Fa Kuo (郭智化)
 
@@ -58,3 +58,5 @@ SKIP-with-reason (2026-09-18): the sole corpus record is his own TAH encyclopedi
 > Re-check (deepen-x 09250600-10, 2026-09-25): fresh ZH+EN grep of content/works + content/articles — hit set identical to prior passes (own record + works/index only). SKIP confirmed; nothing new absorbable, no biography invented.
 
 > Re-check (deepen-x 09261100-20, 2026-10-01): fresh ZH+EN grep (郭智化 / Jyh-Fa Kuo) of content/works + content/articles — hit set unchanged (own bibliographic record [[works/taiwaneseamericanhistory-org/whoswho1322|1322. Jyh – Fa Kuo 郭智化 / 2016/10]] plus the works index only). A second grep for the named family members (Alexandra W.H. Lou, Calvin Kuo, Frances Kuo) returned zero corpus hits, so there is no memoir, directory, or chapter record naming this family anywhere in the corpus — the family layer above stays press-kit only, uncorroborated by community sources. SKIP confirmed; nothing absorbable, no biography invented.
+
+> Re-check (deepen-x slice 10051909-29, 2026-10-07): exact-name greps (郭智化 / Jyh-Fa Kuo / 智化) across all five corpus dirs — the only non-own-record hit is a guan-renjian media-criticism essay where 智化 appears inside the word 弱智化, not the person. Surname-only 郭 hits belong to other Kuos. SKIP confirmed; verified saturated.

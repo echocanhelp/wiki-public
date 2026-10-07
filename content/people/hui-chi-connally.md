@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Hui-Chi Connally (徐慧姬)
 
@@ -53,3 +53,5 @@ last_reviewed: 2026-10-01
 <!-- deepen-x slice 09252123-13 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/ + articles/ returns only the already-cited own TAH record(s) + works index; no memoir/community material. -->
 
 <!-- deepen-x slice 09261000-15 (2026-10-01): SKIP re-verified — fresh ZH+EN grep (grep -rlE) of works/ + articles/ returns only the already-cited own TAH record(s) + works index; no memoir/community material. -->
+
+<!-- deepen-x slice 10051909-29 (2026-10-07): SKIP re-verified — exact-name greps (徐慧姬 / Hui-Chi Connally / Connally / husband 康威廉) across all five corpus dirs return only own whoswho1298 record + indexes. Verified saturated. -->

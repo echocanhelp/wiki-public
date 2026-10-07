@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: reviewed
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Prof. Teh-Hui Kao (高德輝教授)
 
@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09252123-13 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/ + articles/ returns only the already-cited own TAH record(s) + works index; no memoir/community material. -->
 
 <!-- deepen-x slice 09261000-15 (2026-10-01): SKIP re-verified — fresh ZH+EN grep (grep -rlE) of works/ + articles/ returns only the already-cited own TAH record(s) + works index; no memoir/community material. -->
+
+<!-- deepen-x slice 10051909-29 (2026-10-07): SKIP re-verified — broad surname grep (Kao/高) surfaced ourjourneys memoir hits but they resolve to 陳德輝 (Chen De-Hui, a different person) on inspection; exact-name greps (高德輝 / Teh-Hui Kao) across all five corpus dirs return only own TAH #2038 record + indexes. Verified saturated. -->
