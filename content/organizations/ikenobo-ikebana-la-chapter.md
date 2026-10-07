@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-06
 ---
 # Ikenobo Ikebana LA Chapter
 
@@ -34,5 +34,5 @@ last_reviewed: 2026-09-26
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
-<!-- DEEPEN-X SKIP 2026-09-25: corpus grep (台美池坊 / Ikenobo Ikebana, works+articles) returns only own bibliographic record taiwanese-american-ikebana + index listings. No absorbable community facts. -->
+<!-- DEEPEN-X SKIP 2026-10-06 (slice 10051314-8): 台美池坊 = own bibliographic record + index only. ourjourneys298 (松年學院, Houston) mentions 池坊 as a flower-school taught there — different entity, not this LA chapter; no link asserted. -->
 <!-- DEEPEN-X SKIP re-verified 2026-09-26 (slice -16): fresh ZH+EN grep of works+articles -> own record + index only; nothing new absorbable. -->

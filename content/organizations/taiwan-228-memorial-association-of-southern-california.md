@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-06
 ---
 # Taiwan 228 Memorial Association of Southern California
 
@@ -31,3 +31,4 @@ last_reviewed: 2026-09-26
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+<!-- DEEPEN-X SKIP 2026-10-06 (slice 10051314-8): re-grep 二二八平反促進會 / 加州二二八 / '228 Memorial' across works/articles/sources/events/topics — no passage names this SoCal association; hits are unrelated DC/TAFNC/DFW memorial-concert records and a 台灣演義 video listing. Nothing absorbable. -->

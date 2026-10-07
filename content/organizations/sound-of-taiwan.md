@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-06
 ---
 # Sound Of Taiwan
 
@@ -32,3 +32,4 @@ last_reviewed: 2026-09-26
 
 - [[organizations/taiwan-center||Taiwan Center]]
 - [[sources/taiwancenter-org||taiwancenter.org]]
+<!-- DEEPEN-X SKIP 2026-10-06 (slice 10051314-8): 台灣之歌 now zero corpus hits; Sound of Taiwan hits limited to works/index + the mismatched concerts10 (台灣旋律 ≠ 台灣之歌). Nothing absorbable. -->
