@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Davy Liu (劉大偉)
 
@@ -47,6 +47,7 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09210831-29: re-verify 2026-09-22 — fresh grep 'Davy Liu|劉大偉': only own record whoswho1523 + index. Nothing new absorbable. -->
 <!-- deepen-x 09231300-1: re-verify 2026-09-25 — fresh grep 'Davy Liu|劉大偉' works/+articles/: hit set unchanged (own record whoswho1523 + index only). Still SKIP-with-reason. -->
 <!-- deepen-x 09250600-9: re-verify 2026-09-25 — fresh grep 'Davy Liu|劉大偉' works/+articles/: only own record whoswho1523 + index. SKIP-with-reason; no memoir/community text. -->
+<!-- deepen-x 10051918-24: re-verify 2026-10-07 — fresh grep 'Davy Liu'/劉大偉/Kendu across works/articles/sources/events/topics: own record whoswho1523 + index; news hit is 李大偉 (Li Dawei, unrelated). Verified-saturated; nothing absorbable. -->
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
