@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-07
 ---
 # Prof. Lan-Bo Chen (陳良博教授)
 
@@ -40,7 +40,10 @@ _No filled family fields on the TAH profile._
 - Community record also notes him as a key figure in the 蔡英文宇昌案 controversy (per the same memoir; press-account detail, pending independent verification).
 - Biographical record held at [[works/taiwaneseamericanhistory-org/whos-who-1994-lan-bo-chen|1994. Prof. Lan-Bo Chen 陳良博教授]].
 
-- Corpus records are bibliographic (band B): beyond the memoir detail above, the works index carries only his own Who's Who record. Re-grep 2026-09-22 (slice 09211507-5): no new corpus material — verified saturated.
+- **2007 — TACEC community patronage.** At TACEC 2007 the Wang Kang-Lu Memorial Concert (王博士紀念音樂會) was jointly provided by the Wang Kang-Lu Foundation and Dr. Chen and his wife — a community sponsorship recorded in the convention report ([[works/taiwaneseamericanhistory-org/tacec-2007|TACEC 2007]]).
+- **2013 — Preface for Lin Heng-cheh's 「黎剎傳」.** In the acknowledgments of 林衡哲's biography of Philippine national hero José Rizal, Chen — described as "我新潮文庫時代的同鄉老朋友" (the author's old township friend from the 新潮文庫 era) — "retook up the pen" (重拾舊筆) to write the preface 〈台灣的黎剎先生在哪裡？〉, contrasting Rizal's achieved nationhood dream with Taiwan's unfinished one ([[works/taiwaneseamericanhistory-org/435-e8-8f-b2-e5-88-a9-e8-b3-93-e5-9c-8b-e7-88-b6-e9-bb-8e-e5-89-8e-e5-82-b3-e6-9|435. 菲利賓國父 — 黎剎傳 / 林衡哲 / 2013/12]]).
+- **2015 — Nominator of 蔡立慧 for Academia Sinica.** Per a 2017 profile of 蔡立慧 (Li-Huei Pee), Chen — then a Harvard Medical School professor — nominated her for Academia Sinica membership two years earlier and presented her research at the general assembly; she was elected with the highest vote ([[works/taiwaneseamericanhistory-org/mystories606|606. 蔡立慧教授的人生故事 / 謝明玲 / 11/2017]]).
+- Earlier passes (through slice 09211507-5, 2026-09-22) judged the corpus "bibliographic band B only, saturated" — that verdict is VOID: those greps missed the TACEC convention reports, the 435 biography acknowledgments, and the mystories profile, where the material above sits.
 
 ## Sources
 - [TAH #1994 encyclopedia: 1994. Prof. Lan-Bo Chen 陳良博教授](https://taiwaneseamericanhistory.org/whos-who-1994-lan-bo-chen/)

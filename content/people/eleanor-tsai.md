@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Eleanor Tsai (謝婉香)
 
@@ -32,6 +32,7 @@ Eleanor Tsai (謝婉香) is listed in the TAH Foundation Who's Who Taiwanese Ame
 - **2017-01-12 — 北美女力行 (new, verified 2026-10-01).** Tsai **authored** the NATWA 台灣女力行 account, published on the source site as #73 — its slug is `social-tw-natwa`, so cite it by slug, not by number (the *73* number is doubled in the corpus: it also names "73. Rober Chen 陳慕融, Violinist" and a 73-dollar donation campaign — see [[works/taiwaneseamericanhistory-org/social-tw-natwa|73. NATWA 台灣女力行]]).
 - **2017-01-12 — 北美女力行 (new, verified 2026-10-01).** Tsai authored **73. NATWA 台灣女力行** — the *73* corpus number is doubled here too (it also names "73. Rober Chen 陳慕融, Violinist" and a 73-dollar donation campaign), so cite it by slug, not by number. She was a participant-author, not a subject of a profile. Full text is the first-person account of the 六天五夜 "台灣女力行" study tour she joined with 北美洲台灣婦女會 (NATWA), 29 members visiting 台北/台中/彰化/南投 cultural and civic sites: 蔡瑞月舞蹈基金會 (Chairman 蕭渥廷), 大稻埕導覽「性別與空間」, an exchange with 周婉窈 and 陳翠蓮 on the 反課綱_microcosm struggle, 林仁惠 Echo on "post-FAPA", 主婦聯盟台中分會與合作社 (菜籃子革命), 魚麗人文主題書店, 彰化縣立美術館 (陳來興畫展) and 賴和紀念館. Full text in the vault (`knowledge/web-archives/taiwaneseamericanhistory-org/posts/social-tw-natwa.md`); the `content/works/` copy is a bibliographic stub only.
 - This makes her one of the few people on this wiki with **authored** primary material rather than only a profile written about her.
+- **2016 — NATWA Southern California chapter activity.** Tsai served as the named contact for the chapter's "Team Taiwan" entry in the Susan G. Komen Orange County Race for the Cure (Newport Beach, 2016-09-25), handling registration questions alongside Jennifer Fan, in the chapter's own newsletter record ([[works/taiwaneseamericanhistory-org/natwa-southern-california-chapter|NATWA 南加州分會]]).
 
 ## Sources
 - [TAH #797 encyclopedia: 797. Eleanor Tsai 謝婉香/ 2016/02](https://taiwaneseamericanhistory.org/800-eleanor-tsai-%e8%ac%9d%e5%a9%89%e9%a6%99-201602/)
