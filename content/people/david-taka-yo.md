@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # David Taka Yo (楊兆隆)
 
@@ -41,3 +41,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09230900-18 re-grep 2026-09-24: same hit set (ourjourneys311/-eng, our-journeys-391, #28 profile, works index) — verified saturated, SKIP. -->
 <!-- deepen-x slice 09240900-11 re-grep 2026-09-25: same hit set (ourjourneys311/-eng, our-journeys-391, #28 profile, works index) — verified saturated, SKIP. -->
 <!-- deepen-x slice 09251417-4 re-grep 2026-09-26: fresh ZH+EN grep works+articles — hit set identical to already-cited records; no new corpus material. Verified-saturated, SKIP new content. -->
+<!-- deepen-x slice 10051340-6 re-grep 2026-10-06: fresh ZH+EN grep (楊兆隆 / Taka Yo / David Yo) across works/articles/sources/events/topics — hit set identical (ourjourneys311/-eng, our-journeys-391, #28 profile, sources roster); no new corpus material. Verified-saturated, SKIP. -->

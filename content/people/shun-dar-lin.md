@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-06
 ---
 # Shun Dar Lin (林舜達)
 
@@ -58,3 +58,5 @@ Re-verified 2026-09-26 (slice 09251023-12): grep hit set unchanged (same 5 work 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Re-grep 2026-10-06 (deepen-x slice 10051340-6): fresh grep (林舜達 / Shun Dar Lin / 林滋盛) across works/articles/sources/events/topics returned only the 5 already-cited work pages plus the sources roster row — verified saturated, SKIP.
