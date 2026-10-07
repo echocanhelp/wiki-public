@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-07
 ---
 # Dr. Chi-Pang Wen (溫啟邦博士)
 
@@ -48,6 +48,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-24（slice 09230800-32）第七次語料複核：命中仍僅自身出處頁 [[works/taiwaneseamericanhistory-org/whos-who-2096-chi-pang-wen|TAH #2096]] 與 works index，無回憶錄提及，維持 SKIP-with-reason。
 - 2026-09-25（slice 09240800-26）第八次語料複核：命中仍僅自身出處頁 TAH #2096 與 works index，無可吸收事實，維持 SKIP-with-reason。
 - 2026-09-26（slice 09251400-10）第九次語料複核：命中仍僅自身出處頁 TAH #2096 與 works index，無可吸收事實，維持 SKIP-with-reason。
+- 2026-10-07（slice 10051909-22）第十次語料複核：新增啟邦／Chi Pang Wen／Wen, Chi 等變體比對，命中仍僅自身出處頁 [[works/taiwaneseamericanhistory-org/whos-who-2096-chi-pang-wen|TAH #2096]] 與 index/sources rollup，無回憶錄提及，維持 SKIP-with-reason（verified-saturated）。
 
 ## Sources
 - [TAH #2096 encyclopedia: 2096. Dr. Chi-Pang Wen 溫啟邦博士](https://taiwaneseamericanhistory.org/whos-who-2096-chi-pang-wen/)

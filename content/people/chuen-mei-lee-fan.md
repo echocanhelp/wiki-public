@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-07
 ---
 # Chuen-Mei Lee Fan (范李春美教授)
 
@@ -39,7 +39,10 @@ last_reviewed: 2026-09-30
 ## Role in the Community
 - Profiled in the TAHS community encyclopedia: her entry [[works/taiwaneseamericanhistory-org/738-chuen-mei-lee-fan-e8-8c-83-e6-9d-8e-e6-98-a5-e7-be-8e-201512|738. Chuen-Mei Lee Fan 范李春美 / 2015-12]] was published 2015-12-20 and is held in the corpus as community historical record — an economist (NTU 1961, University of Minnesota 1964/1967) who taught at Colorado State University 1978–2010.
 - From 謝伯芳's community memoir [[works/taiwaneseamericanhistory-org/ourjourneys-369|369. 懷憶六十年代前期的明市]] (band A, 2021-03): as 李春美 she came to Minneapolis in spring 1959 to join her Taiwan-betrothed 殷宗舜; she and four others (殷宗舜、陳秉虔、蘇惠美、謝伯芳) co-founded the weekly Friday 「Mpls 台灣人祈禱查經會」 in fall 1960, which grew from about ten to over twenty Taiwanese students — an early student community institution in Minneapolis.
+- Timeline detail from the same memoir [[works/taiwaneseamericanhistory-org/ourjourneys-369|369. 懷憶六十年代前期的明市]]: married 殷宗舜 on 1959-06-20 at Albert Lea Presbyterian Church, the wedding arranged and hosted by the Barr family after the couple had waited three years apart in Taiwan; about 100 guests attended, including a dozen Taiwanese students who drove from Minneapolis. Their first child Evelyn was born in May 1960. (Corpus-side record supporting the 殷宗舜 side of the husband conflict; HOLD below stands until reconciled.)
+- Widened 2026-10-07 (slice 10051909-22): fresh grep also surfaced [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|33. History of Taiwanese American Foundation]], where her 1959-betrothed 殷宗舜 appears as "Dr. John Ying (殷宗舜) of Indiana", remembered among the early MFCF-TAF (台美協進會) retreat contributors — places her early Minneapolis network one step further into the documented movement record.
 - Re-verified 2026-09-22 (slice 09220700-11): fresh grep (范李春美 / 李春美 / Chuen-Mei Lee Fan) returns only the profile #738 and memoir #369 already absorbed above; page saturated, HOLD on 范良信 vs 殷宗舜 stands.
+- Re-verified 2026-10-07 (slice 10051909-22): fresh ZH+EN+surname grep across works/articles/sources/events/topics — hit set (738, ourjourneys-369, ourjourneys33-eng, index) now fully absorbed above; HOLD (范良信 vs 殷宗舜) stands.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chuen-mei-lee-fan/)
