@@ -5,9 +5,10 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Taiwanese Dental Association
+<!-- deepen-x slice 10052158-14 re-verified 2026-10-07: SKIP — five-dir grep (works/articles/sources/events/topics) for 'Taiwanese Dental Association' / 台灣牙醫 / 台灣人牙醫 hits: tmdaoc (different org, noted below), works/index row, and one ZH near-miss — [[works/taiwaneseamericanhistory-org/ourjourneys208|208. 台灣公論報 1984 editorial]] proposes forming a 台灣人牙醫及藥劑師協會 as a future pan-North-American professional association; that is a professional-society proposal, NOT this contemporary Penn dental-school student group — distinguished, not absorbed. -->
 <!-- deepen-x slice 09261400-23 re-verified 2026-10-01: SKIP — fresh grep 'Taiwanese Dental Association' + '\bTDA\b' across content/works + content/articles: zero content hits. Only near-miss is a different org, TMDAOC [[works/taiwaneseamericanhistory-org/tmdaoc|18. Taiwanese Medical & Dental Association of Orange County (TMDAOC)]], already cited on its own page; nothing absorbable. -->
 
 <!-- deepen-x slice 09251054-8 re-verified 2026-09-26: SKIP — fresh ZH+EN grep of content/works + content/articles; hits are own TAH record page only (or false-positive TDA inside wayback archive_digest hashes), no absorbable memoir/community narrative. -->
