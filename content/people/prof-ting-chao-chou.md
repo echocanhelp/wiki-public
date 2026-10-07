@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Prof. Ting-Chao Chou (周廷潮教授)
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 
 > Deepen pass 2026-09-25 (slice 09231300-5): VERIFIED — fresh ZH+EN grep of works/ + articles/ returns only own TAH #1844 record and works/index; no memoir mentions. SKIP (nothing absorbable).
 > Re-verify 2026-09-25 (slice 09250600-12): fresh ZH+EN grep returns the identical hit set (whos-who-1844 + index) — SKIP (nothing absorbable).
+> SKIP re-check (deepen-x slice 10051918-27, 2026-10-07): exact 周廷潮 + 廷潮 + EN-variant greps across all five corpus dirs (works/articles/sources/events/topics) return only own [[works/taiwaneseamericanhistory-org/whos-who-1844-ting-chao-chou|TAH #1844]] record + source index line — verified-saturated, nothing absorbable.
 ## Sources
 - [TAH #1844 encyclopedia: 1844. Prof. Ting-Chao Chou 周廷潮教授](https://taiwaneseamericanhistory.org/whos-who-1844-ting-chao-chou/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-ting-chao-chou/)

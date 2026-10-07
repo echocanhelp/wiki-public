@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # David Chu (朱欽騏)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09250600-16: re-verified 2026-09-25 — grep returns #177, works index, Our Journeys 305 (牧師 David Chun-Ming Lai, different person). Nothing absorbable. -->
+> SKIP re-check (deepen-x slice 10051918-27, 2026-10-07): exact 朱欽騏/朱钦骐 + EN greps across all five corpus dirs return only own [[works/taiwaneseamericanhistory-org/177-david-chu-e6-9c-b1-e6-ac-bd-e9-a8-8f|TAH #177]] record + index lines; loose 'Nautica' substring hits resolve to 'nautical' (SeaGuardian drone articles), not the brand — verified-saturated, nothing absorbable.

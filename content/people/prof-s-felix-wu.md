@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Prof. S. Felix Wu (吳士駿教授)
 
@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 
 - SKIP re-verify (2026-09-25, deepen-x slice 09231300-9): fresh grep 吳士駿/Felix Wu returns only [[works/taiwaneseamericanhistory-org/whos-who-2030-s-felix-wu|TAH #2030]] and index lines — no memoir mentions; nothing absorbable.
 - SKIP re-verify (2026-09-25, slice 09250600-8): fresh grep 吳士駿/Felix Wu — own record + index only; nothing absorbable.
+- SKIP re-verify (2026-10-07, slice 10051918-27): exact 吳士駿/吴士骏/Felix Wu greps across all five corpus dirs return only own [[works/taiwaneseamericanhistory-org/whos-who-2030-s-felix-wu|TAH #2030]] + index lines; loose 士駿 substring hits resolve to 陳士駿 (Steven Shih Chen, different person) — verified-saturated, nothing absorbable.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
