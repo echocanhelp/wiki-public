@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Charlene Bos Alexander (莫霞琳)
 
@@ -48,3 +48,4 @@ Charlene Bos Alexander 莫霞琳 – History of Taiwanese American (T.A. Archive
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10051909-6: re-verify 2026-10-07 — fresh grep 莫霞琳/Charlene Bos/Bos Alexander/霞琳 (works/articles/sources/events/topics) returns only whos-who-2148 + works/index + source hub. Other Charlene hits are Charlene Chen 陳怡林 (230/125/210/footsteps-26) — different person, not absorbed. Verified saturated; SKIP-no-new-facts. -->

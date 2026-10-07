@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dr. Kuen-Shii Tsay (蔡坤喜醫師)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- DEEPEN-X SKIP re-verified 2026-09-26 (slice -16): fresh ZH+EN grep of works+articles -> own record + index only; nothing new absorbable. -->
+<!-- deepen-x slice 10051909-6: re-verify 2026-10-07 — fresh grep 蔡坤喜/Kuen-Shii/坤喜 (works/articles/sources/events/topics) returns only whos-who-2098 + works/index + source hub. Surname sweep (Tsay) surfaces Ruey S. Tsay / Andy Tsay / Jonathan Tsay — no corpus evidence linking any to Kuen-Shii; NOT merged. Verified saturated; SKIP-no-new-facts. -->
