@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Henry Cheng (鄭煥壁)
 
@@ -58,3 +58,4 @@ last_reviewed: 2026-10-01
 - Corpus re-scan 2026-09-26 (deepen-x slice 09251000-17): fresh grep 鄭煥壁/鄭煥璧/Henry Cheng — hit set unchanged; all hits already wikilinked with facts absorbed (604/605/606, #391, #175, works index) plus the 85℃ USA 2024 press record held as same-name-different-person. SKIP-deepen.
 - Corpus re-scan 2026-09-26 (deepen-x slice 09260500-18): fresh grep 鄭煥壁/鄭煥璧/Henry Cheng — hit set unchanged; all hits already wikilinked with facts absorbed (604/605/606, #391, #175, works index) plus the 85℃ USA 2024 press record held as same-name-different-person. SKIP-deepen.
 - Corpus re-scan 2026-10-01 (deepen-x slice 09270315-2): fresh grep 鄭煥壁/鄭煥璧/Henry Cheng over works+articles — hit set unchanged (604/605/606, #391, #175, works index, 85℃ USA 2024 press record). No new material; 85℃ USA held as same-name-different-person. SKIP-deepen; verified saturated.
+- Corpus re-scan 2026-10-06 (deepen-x slice 10051340-12): fresh grep 鄭煥壁/鄭煥璧/鄭焕璧/Henry Cheng/Huan Bi Cheng across works+articles+sources+events+topics — hit set unchanged (604/605/606, #391, #175, works index, plus the 85℃ USA 2024 press record held as same-name-different-person). All hits already wikilinked with facts absorbed. Verified-saturated SKIP.

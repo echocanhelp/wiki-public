@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-06
 ---
 # Prof. Felix T. Hong (洪正幸教授)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-25 (slice 09250700-29): fresh ZH+EN re-grep returned the identical set again — verified-saturated, SKIP-with-reason.
 - Re-grep 2026-09-26 (slice 09260500-15): fresh ZH+EN re-grep returned the identical set (ourjourneys321 + 321-eng + ourjourneys123 + whos-who-1864 + index) — verified-saturated, SKIP-with-reason.
 - Re-grep 2026-09-30 (slice 09260854-19): fresh ZH+EN re-grep (洪正幸 / Felix T. Hong) returned the identical set (ourjourneys321 + 321-eng + ourjourneys123 + whos-who-1864 + index) — verified-saturated, SKIP-with-reason; no new community facts, no conflicts.
+- Re-grep 2026-10-06 (slice 10051340-12): fresh ZH+EN re-grep (洪正幸 / Felix T. Hong) across works+articles+sources+events+topics returned the identical set (ourjourneys321 + 321-eng + ourjourneys123 + whos-who-1864 + index) — verified-saturated, SKIP-with-reason; no new community facts, no conflicts.

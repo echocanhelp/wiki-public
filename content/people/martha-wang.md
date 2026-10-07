@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-06
 ---
 # Martha Wang (鄞美珠)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-09-30
 - **TAHS encyclopedia record:** [[works/taiwaneseamericanhistory-org/64-mrs-martha-wang-e9-84-9e-e7-be-8e-e7-8f-a0-e5-a5-b3-e5-a3-ab|64. Martha Wang 鄞美珠]] (2014-10-19).
 - **Husband's memorial record:** [[works/taiwaneseamericanhistory-org/ourjourneys334|334. 故王康陸秘書長告別式及骨灰佈撒行程記事]] (陳宏達, 06/2018) documents the farewell of her husband 王康陸, identified in the record by the title 秘書長.
 - **Annual memorial concert:** since 王康陸's sudden death, the 美東台灣人夏令會 has held a 「王康陸紀念音樂會」 each early July; 遺孀Martha或兒子常出席追溯他的事蹟, and the concert closes with his favorite 「流浪者之歌」 ([[works/taiwaneseamericanhistory-org/ourjourneys302|302. 王康陸紀念音樂會記事]])。
+- **Husband's own records (family layer):** 王康陸's TAH encyclopedia record [[works/taiwaneseamericanhistory-org/63-dr-kang-lu-wang-e7-8e-8b-e5-ba-b7-e9-99-b8|63. Kang-Lu Wang 王康陸]] and the memorial photo-album record [[works/taiwaneseamericanhistory-org/photo-albums-activities-26|26. In memory of Dr. Kang-Lu Wang 王康陸博士生命禮讚]] (2014-11-27) — both surface in corpus greps alongside Martha and corroborate the memorial context above.
 
 ## Sources
 - [TAH #64 encyclopedia: 64. Martha Wang 鄞美珠](https://taiwaneseamericanhistory.org/64-mrs-martha-wang-%e9%84%9e%e7%be%8e%e7%8f%a0%e5%a5%b3%e5%a3%ab/)
@@ -57,3 +58,4 @@ Corpus re-check 2026-09-25 (deepen-x slice 09240700-21): fresh ZH+EN grep — hi
 Corpus re-check 2026-09-26 (deepen-x slice 09251000-11): fresh ZH+EN grep — hit set unchanged (#64 mirror, ourjourneys58 18-worker Manhattan roster line, mystories641, works index); all already linked and absorbed. Verified-saturated SKIP.
 Corpus re-check 2026-09-26 (deepen-x slice 09260500-15): fresh ZH+EN grep — hit set unchanged (#64 mirror, ourjourneys58 roster line, mystories641, works index); all already linked and absorbed. Verified-saturated SKIP.
 Corpus re-check 2026-09-30 (deepen-x slice 09260854-16): fresh ZH+EN grep — hit set unchanged (#64 mirror, ourjourneys58 18-worker Manhattan roster line, mystories641, works index); all already linked and absorbed. Verified-saturated SKIP.
+Corpus re-check 2026-10-06 (deepen-x slice 10051340-12): widened grep 鄞美珠/Martha Wang/王康陸/Kang-Lu Wang across works+articles+sources+events+topics — 王康陸-side hits surfaced that were not previously linked from this page: 63. Kang-Lu Wang 王康陸 (TAH encyclopedia record) and 26. In memory of Dr. Kang-Lu Wang 王康陸博士生命禮讚 (photo-album memorial record, 2014-11-27), both now wikilinked under Role in the Community. Other Martha hits are different people (Martha Hsu 許秀聰 #1071/#137, Martha Vineyard 637) — correctly not linked. No conflicts to hold.
