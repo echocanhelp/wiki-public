@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-07
 ---
 # Brown Taiwan Society
 
@@ -19,7 +19,7 @@ last_reviewed: 2026-09-26
 The Brown Taiwan Society (BTS) is a student organization at Brown University in Providence, Rhode Island, focused on sharing Taiwanese culture with the broader campus community. Listed as a recognized student group in Brown University’s official Student Activities directory, BTS welcomes anyone interested in and respectful of Taiwanese culture, regardless of background or heritage.
 
 ## Corpus Coverage
-- SKIP-with-reason (2026-09-22 deep pass; re-verified deepen-x 09240400-20, 09251100-5, 2026-09-26, 2026-10-01 slice 09261419-15): **exact-name** sweep re-run with fixed greps (`grep -rn -F 'Brown Taiwan Society'` over works/, articles/, sources/, knowledge/) — still **zero** corpus hits. No memoir or article text names the society, so nothing absorbable; page retains TAH directory + Brown student-activities facts only.
+- SKIP-with-reason (2026-09-22 deep pass; re-verified deepen-x 09240400-20, 09251100-5, 2026-09-26, 2026-10-01 slice 09261419-15, and 2026-10-07 slice 10052045-32): **exact-name** sweep re-run with fixed greps (`grep -rn -F 'Brown Taiwan Society'` over works/, articles/, sources/, knowledge/) — still **zero** corpus hits. No memoir or article text names the society, so nothing absorbable; page retains TAH directory + Brown student-activities facts only. (2026-10-07 five-dir re-grep: the lone 'Brown'-adjacent hit [[works/taiwaneseamericanhistory-org/ourjourneys328|ourjourneys328]] is "The Brown Foundation Performing Arts Theater" in Houston — false positive, not Brown University and not BTS.)
 - **Near-miss disambiguation (do not absorb as BTS history):** three Brown University items exist in the corpus but do **not** mention BTS and belong to other subjects —
   - [[works/taiwaneseamericanhistory-org/ourjourneys338|Our Journeys — 美東台灣人夏令會 at Brown]] (1977): the 第8屆美東台灣人夏令會 was held at Brown University in Providence, organised by the **Boston Taiwan Association (波士頓台灣同鄉會)** under 會長 張啟典 — not by BTS.
   - [[works/taiwaneseamerican-org/inspire-empower-and-activate-itasas-coming-of-age|ITASA's "Coming of Age"]] (2013): the **ITASA 2000 East Coast Conference** was hosted at Brown U., with Sandra Liu Huang (ITASA officer) recounting arriving through a winter blizzard to screen the conference closing video — a student-network event, not BTS.

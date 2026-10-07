@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-07
 ---
 # Southeast Bay Taiwanese Association SEBTA (北加州)
 
@@ -22,6 +22,7 @@ The Southeast Bay Taiwanese Association (SEBTA, 東南灣台灣同鄉會) is a r
 - The chapter has its own record in the TAH story corpus: [[works/taiwaneseamericanhistory-org/south-east-bay-taiwanese-association-sebta|South East Bay Taiwanese Association (SEBTA) 北加州東南灣台灣同鄉會]].
 - 2015-05-06 — memoirist Leona Chen names SEBTA (with TAFNC and TACL-LYF) among the "fabulous role models" in Taiwanese American organizations who shaped her turn to social activism: [[works/taiwaneseamerican-org/taiwanese-americans-in-solidarity|Taiwanese Americans in Solidarity]].
 - 2015-05-27 — the same mentorship testimony recurs in a second first-person record: [[works/taiwaneseamerican-org/in-honor-of-taiwanese-ancestry-and-identity|In Honor of Taiwanese Ancestry and Identity]]. Next-generation memoir corroborates the chapter's youth-mentorship role beyond directory data.
+- 2021-05-01 — SEBTA president Danny Chen is listed among the signatories of the Taiwanese American community response demanding the Pew Research Center restore an explicit "Taiwanese" data category: [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]]. Places SEBTA's leadership among the TAA-chapter voices in the 2021 identity-data protest.
 
 ## Worklog
 - 2026-09-22 deepen-x slice 09210500-21: VERIFY — fresh grep of content/works + content/articles returns only the three files already cited here (own directory record, Leona Chen's two mentorship testimonies); no new corpus facts to absorb.
@@ -30,6 +31,7 @@ The Southeast Bay Taiwanese Association (SEBTA, 東南灣台灣同鄉會) is a r
 - 2026-09-25 deepen-x slice 09230900-27: VERIFY — fresh grep (SEBTA / 東南灣台灣同鄉會) again returns only the three cited files (own directory record, Leona Chen's two testimonies) + works/index; verified saturated, no new facts.
 - 2026-09-26 deepen-x slice 09251527-7: VERIFY — fresh grep (SEBTA / 東南灣台灣同鄉會) again returns exactly the three cited files + works/index; verified saturated, SKIP-no-new-facts.
 - 2026-09-30 deepen-x slice 09260900-2: VERIFY — fresh grep (SEBTA / 東南灣台灣同鄉會) again returns only the three cited files (own directory record, Leona Chen's two testimonies) + works/index; verified saturated, SKIP-no-new-facts.
+- 2026-10-07 deepen-x slice 10052045-32: DEEPENED — fresh five-dir grep additionally surfaces the 2021 Pew-response statement, where SEBTA president Danny Chen appears as a signatory (not previously cited here); absorbed above. Remaining hits unchanged (own directory record, Leona Chen's two testimonies, index).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/southeast-bay-taiwanese-association-sebta/)
