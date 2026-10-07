@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Judy Huang (陳東蘭)
 
@@ -47,3 +47,5 @@ last_reviewed: 2026-10-01
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-grep 2026-10-07 (slice 10052007-9): five-dir sweep (works/articles/sources/events/topics) for 陳東蘭 / Judy Huang returned only the own-record catalog lines in works/index.md and sources/taiwaneseamericanhistory-org.md — no memoir or community material outside [[works/taiwaneseamericanhistory-org/whos-judy-huang|1920. Judy Huang 陳東蘭]]. SKIP stands.
