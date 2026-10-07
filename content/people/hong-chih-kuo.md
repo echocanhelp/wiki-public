@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Hong-Chih Kuo (郭泓志)
 
@@ -53,3 +53,4 @@ Corpus re-grep 2026-09-21 (slice 09210051-10; prior 09202214 series, 09191100-10
 Corpus re-check (deepen-x slice 09250400-14, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only the own records / memoir passages already wikilinked above and the works index — verified saturated, nothing new absorbable, no conflicts to hold.
 Corpus re-check (deepen-x slice 09252123-6, 2026-09-26): fresh ZH+EN grep returned only own records / memoir passages already wikilinked above + works index — verified saturated, SKIP, no conflicts.
 Corpus re-check (deepen-x slice 09260900-31, 2026-10-01): fresh ZH+EN grep of content/works + content/articles returned the same saturated hit set — own TAH entry #1743, the LA support-game record (already linked), and the works index. Nothing new absorbable; no conflicts to hold. SKIP.
+<!-- deepen-x slice 10051340-26 (2026-10-07): SKIP re-verified — fresh ZH+EN grep (郭泓志 / Hong-Chih Kuo) across all five corpus dirs returns own #1743 + the LA support-game record (both already linked) + index. False-positive guard: loose 郭泓 surname hits in articles/taiwanjustice-net (2021/2022/2026 pieces) are 郭泓均 (Raymond Kuo), a RAND/NBR China-military analyst — DIFFERENT person, not merged. Verified-saturated, no conflicts. -->
