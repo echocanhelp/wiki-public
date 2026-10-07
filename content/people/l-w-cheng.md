@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # L. W. Cheng (鄭良偉)
 
@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 09250500-20: re-verify 2026-09-25 — fresh grep ZH+EN over works+articles: hit set identical to prior passes (RTGSA hits are false positives: 萊斯大學=old Rice student gen, 提姆·萊斯=Tim Rice, 克萊斯勒=Kreisler). Nothing new absorbable. SKIP-no-new-material. -->
+
+<!-- deepen-x slice 10051200-32 recheck 2026-10-06: grep 鄭良偉/L. W. Cheng over all corpus dirs — hits confined to 608, 609, 904 + sources index, all already absorbed. Verified saturated, SKIP-no-new-material. -->

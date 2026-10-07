@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Rice Taiwanese Graduate Student Association
 
@@ -32,3 +32,5 @@ The Rice Taiwanese Graduate Student Association (RTGSA) is a student organizatio
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 09250500-20: re-verify 2026-09-25 — fresh grep ZH+EN over works+articles: hit set identical to prior passes (RTGSA hits are false positives: 萊斯大學=old Rice student gen, 提姆·萊斯=Tim Rice, 克萊斯勒=Kreisler). Nothing new absorbable. SKIP-no-new-material. -->
+
+<!-- deepen-x slice 10051200-32 recheck 2026-10-06: grep RTGSA/萊斯/賴斯/Rice/graduate student association over works+articles+sources+events+topics — zero literal RTGSA hits; Rice/萊斯 hits are false positives (萊斯大學=old Houston student gen, 提姆·萊斯=Tim Rice, 大同電鍋=Rice cooker). Hit set identical to prior passes. Verified saturated, SKIP-no-new-material. -->
