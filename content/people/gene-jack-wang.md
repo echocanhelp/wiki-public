@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Gene-Jack Wang (王俊傑)
 
@@ -38,7 +38,7 @@ last_reviewed: 2026-10-01
 
 ## Family
 
-_No filled family fields on the TAH profile._
+- **Wife:** 邱綉雅 (Show-Ya Wang) — her own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whos-who-1659-show-ya-wang|1659. Show-Ya Wang 邱綉雅 / 2017-05-15]], page [[people/show-ya-wang|Show-Ya Wang (邱綉雅)]]. The couple appears jointly in 張理美's St. Louis church history as 王俊傑邱綉雅夫婦 ([[works/taiwaneseamericanhistory-org/ourjourneys305|305. 美國聖路易台灣人基督長老教會的歷史簡略 / 2017-07]]).
 
 ## Role in the Community
 - Named (王俊傑邱綉雅夫婦) among the remaining senior Taiwanese-American members of the 美國聖路易台灣人基督長老教會 in 張理美's church history ([[works/taiwaneseamericanhistory-org/ourjourneys305|305. 美國聖路易台灣人基督長老教會的歷史簡略 / 2017-07]]) — elders who "以愛，熱心支持與關懷年輕一代". This places the family in St. Louis before his 1990 move to Brookhaven (NY), consistent with the employment table.
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-24 (slice 09230700-31): same hit set (own #581 record + ourjourneys305 + index). Verified saturated. SKIP.
 - Re-grep 2026-09-25 (slice 09240800-24): same hit set (own #581 record + ourjourneys305 + index); both absorbed above. Verified saturated. SKIP.
 - Re-grep 2026-09-26 (slice 09251400-10): same hit set (own #581 record + ourjourneys305 + index); both absorbed above. Verified saturated. SKIP.
+- Re-grep 2026-10-07 (slice 10051340-17, 王俊傑 / Gene-Jack / 邱綉雅 / Brookhaven): NEW material — wife 邱綉雅's own Who's Who record #1659 (page [[people/show-ya-wang]]) now linked under Family; ourjourneys305 passage already absorbed. No conflicts.
