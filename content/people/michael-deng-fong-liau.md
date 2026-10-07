@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Michael Deng Fong Liau (廖登豐博士)
 
@@ -47,6 +47,7 @@ Michael Deng Fong Liau 廖登豐 – History of Taiwanese American (T.A. Archive
 
 - Corpus re-check 2026-09-25 (slice 09250500-11): fresh ZH+EN grep 廖登豐 / Michael Deng Fong Liau / Deng-Fong returns the identical hit set (two authored essays + own Who's Who record 195 + index) — nothing new absorbable.
 - Corpus re-verified 2026-10-01 (slice 09261100-9): fresh ZH+EN grep of works/ + articles/ still returns only the four hits above — the two authored essays 116/170, own Who's Who record 195, and the works index listing. No third-party memoir or article mentions him — verified saturated, nothing absorbable.
+<!-- deepen-x slice 10052158-9 (2026-10-07): SKIP re-verified — fresh five-dir grep (廖登豐/Michael Deng Fong Liau) returns only authored essays 116/170, own Who's Who record 195, and index; 朱秀華 absent from corpus. Verified-saturated. -->
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michael-deng-fong-liau/)

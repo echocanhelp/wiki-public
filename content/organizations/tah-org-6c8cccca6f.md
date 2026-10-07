@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-07
 ---
 # 大堪薩斯針灸及東方醫學學會
 
@@ -28,3 +28,4 @@ The Greater Kansas Acupuncture and Oriental Medicine Association is a community 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10052158-9 (2026-10-07): SKIP re-verified — fresh five-dir grep (大堪薩斯針灸/GKCA/Greater Kansas Acupuncture) returns only own directory record gkca-acom, works index, and one taiwanjustice mask article matching only on the GKCA hash substring; 楊立典/Yang Li-Dian absent from corpus. Verified-saturated. -->
