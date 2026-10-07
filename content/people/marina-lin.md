@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Marina Lin (林淨媺)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x slice 09250400-2 (2026-09-25): re-verified — fresh ZH+EN grep returns only whoswho1624 / musician394 / ourjourneys301 (already absorbed) + works index; no new material. -->
 <!-- deepen-x slice 09251527-21 (2026-09-26): re-verified — fresh grep (Marina Lin/林淨媺) → only whoswho1624 / musician394 / ourjourneys301 (memoir passage already absorbed) + works index; nothing new absorbable — verified-saturated, SKIP content-deepen. -->
+<!-- deepen-x slice 10051340-15 (2026-10-06): re-verified — fresh ZH+EN+collaborator grep (Marina Lin / 林淨媺 / 吳上峰) returns only whoswho1624 / musician394 / ourjourneys301 (memoir passage already absorbed) + works index; the 華府台語學校 hit in ourjourneys150 is a generic parade-attendance mention with no Marina Lin reference — not absorbable. Nothing new; no conflicts. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Dr. Chiung T. Ling (林安息)
 
@@ -51,3 +51,4 @@ _Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230700-24; prior 09221200-25; 2026-
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10051340-15 (2026-10-06): re-verified — fresh ZH+EN+alias grep (林安息 / Chiung T. Ling / 炯東 / 春陽堂 / 王振明) returns only ourjourneys285, whos-who-1852, work #22, index. The 春陽堂/王振明 hits resolve to whoswho1848 (James David King 王振明 — already the 留美 counterpart named in ourjourneys285) and the 1925 medical-professor work, both outside this page's claim set. HOLD retained: work #22 1935 milestone vs 1952 Hopkins Ph.D., not merged. Verified-saturated. -->
