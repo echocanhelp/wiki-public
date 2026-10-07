@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Lirong Wang (黃麗蓉)
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-10-01
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10051200-31 recheck 2026-10-06: SKIP — fresh ZH+EN grep across works/articles/sources/events/topics (incl. 麗蓉-only sweep) returns only own [[works/taiwaneseamericanhistory-org/431-lirong-wang-e9-bb-83-e9-ba-97-e8-93-89201506|TAH #431]], works index, source hub. Family link to [[people/prof-chin-hsien-jim-wang|王進賢]] confirmed intact on his page. Verified saturated. -->

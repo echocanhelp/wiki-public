@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Kuo-Ching Su (蘇國慶)
 
@@ -49,3 +49,4 @@ last_reviewed: 2026-10-01
 <!-- deepen-x 09231200-21: re-verify — fresh ZH+EN grep of works/+articles/; hit set identical to prior passes, all hits already linked; no new absorbable corpus facts. -->
 <!-- deepen-x 09250600-3: re-verify — fresh ZH+EN grep of works/+articles/; hit set identical to prior passes, all hits already linked; no new absorbable corpus facts. -->
 <!-- deepen-x slice 09261100-30 recheck 2026-10-01: SKIP — fresh ZH+EN grep of works/+articles re-run; hit sets identical to prior passes (all hits already linked; 蘇國慶 article hit = same 同名戲曲演員 HOLD, already recorded). No new absorbable corpus facts. -->
+<!-- deepen-x slice 10051200-31 recheck 2026-10-06: SKIP — fresh ZH+EN grep across works/articles/sources/events/topics; hit set identical to prior passes (own TAH #348/#569 records + works index + source hub + the same 同名戲曲演員 taiwanjustice-net article covered by the existing HOLD). No new absorbable corpus facts. -->
