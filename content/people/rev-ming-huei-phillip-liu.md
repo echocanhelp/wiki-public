@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 # Rev. Ming Huei Phillip Liu (劉銘輝牧師)
 
@@ -36,6 +36,7 @@ Rev. Ming Huei Phillip Liu 劉銘輝牧師 – History of Taiwanese American (T.
 - Corpus record: [[works/taiwaneseamericanhistory-org/whos-who-1627-ming-huei-liu|1627. Rev. Ming Huei Phillip Liu 劉銘輝牧師]] (TAH Who's Who, 2017-04-23).
 - 2026-09-18 through 2026-09-25 re-checks (incl. slices 09211507 series, 09231100-15, 09250500-27): corpus grep hits only his own Who's Who entry ([[works/taiwaneseamericanhistory-org/whos-who-1627-ming-huei-liu|TAH #1627]]) via the works index — no memoir/community material beyond the TAH profile; no facts invented.
 - Re-verified 2026-10-01 (slice 09261200-25): fresh -E grep (`劉銘輝|Ming Huei` + 銘輝 alone) over `works/` + `articles/` still returns only his own bibliographic record [[works/taiwaneseamericanhistory-org/whos-who-1627-ming-huei-liu|TAH #1627]] and the `works/index.md` directory row. No memoir/community material; nothing absorbable. SKIP.
+- Re-verified 2026-10-07 (slice 10051918-13): five-dir grep (works/articles/sources/events/topics; 劉銘輝 / Ming Huei / 銘輝 / Princeton Christian) returns only own record [[works/taiwaneseamericanhistory-org/whos-who-1627-ming-huei-liu|TAH #1627]], works/index row, and sources page. No memoir/community material. Verified saturated. SKIP.
 
 ## Family
 

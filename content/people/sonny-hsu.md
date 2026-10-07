@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Sonny Hsu (徐嵩宜)
 
@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-25 (deepen-x slice 09231200-4): works/ and articles/ again returned only the subject record + works index — no community-authored material to absorb (SKIP).
 - 2026-09-25 deepen-x slice 09231200-4 (retry run): fresh ZH+EN grep verified-saturated — hit set identical to prior passes; nothing new absorbable.
 - 2026-09-26 deepen-x slice 09252123-30: fresh ZH+EN grep (works+articles) — hit set identical to prior passes, all already linked; verified saturated (SKIP).
+- 2026-10-07 deepen-x slice 10051918-13: five-dir grep (works/articles/sources/events/topics; 徐嵩宜 / Sonny Hsu / surname+employer variants) returns only own record [[works/taiwaneseamericanhistory-org/whos-who-1630-sonny-hsu|TAH #1630]], works/index row, and sources page — no community-authored material. Verified saturated (SKIP).
