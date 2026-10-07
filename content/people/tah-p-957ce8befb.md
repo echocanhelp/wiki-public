@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-06
 ---
 # 石青如
 
@@ -39,6 +39,7 @@ From the movement memoir [[works/taiwaneseamericanhistory-org/ourjourneys287|Our
 - 居住在 San Jose，被record作者稱為「台灣人作曲家的新起之秀」，評為蕭泰然之後的接班人；作品題材涵蓋獨奏、獨唱、室內樂、合唱、管弦樂，作曲風格投入對台灣的熱情。
 - 台美夏令會音樂節目中，作者安排她的三首小提琴編曲作品：〈思慕的人〉、〈伊是咱的寶貝〉、〈天黑黑〉，向南加司儀陳隆介紹給西岸鄉親；晚會並由鄭麗伶（時任北美洲台灣人教授協會副會長兼秘書長）同台。
 - Record作者藉此場合讓善友樂團後代（鄭麗伶、陳純寶）與石青如互相認識，視之為善友樂團歷史的一部分。
+- 附錄「作曲家石青如簡介」收於同一紀錄 [[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys 287]]：來自音樂家庭，曾獲高雄市及台灣區音樂比賽獎項，以全國榜首考取國立台灣師範大學音樂系；赴美後於波士頓大學雙主修作曲及鋼琴演奏，隨後在紐約市立大學攻讀作曲博士。重要作品包括《破曉》鋼琴小提琴雙協奏曲、《那些天，蔣渭水在牢裡》清唱劇、《土地的歌》無伴奏合唱組曲、《生命的頌歌》鋼琴三重奏、《台灣幻想曲》（小提琴）、《青春》豎笛五重奏；以《台灣風情畫》專輯獲行政院金鼎獎最佳編曲獎，作品於紐約、波士頓、多倫多、新加坡、日本及台北國家音樂廳等地演出，近年多次返台舉辦音樂講座。
 
 Her two TAH story records are held in the corpus: [[works/taiwaneseamericanhistory-org/19334|TAH #276 Cing-Ru Shih 石青如, Composer / 08/2015]] and [[works/taiwaneseamericanhistory-org/549-e7-9f-b3-e9-9d-92-e5-a6-82-201508|TAH #549 石青如 / 08/2015]] (both bibliographic records, full text in vault).
 
@@ -59,3 +60,4 @@ HOLD: conflict — TAH #276 titles her profile "Cing-Ru Shih 石青如, Composer
 <!-- deepen-x slice 09240800-15 (2026-09-25): saturated re-verify — fresh grep (石青如/Cing-Ru Shih) returns own TAH #276/#549 records + already-absorbed OurJourneys 287 (作曲家簡介, 三首小提琴編曲, 善友後代聚會) + index. HOLD stands; nothing new. -->
 <!-- deepen-x slice 09251023-4 (2026-09-26): saturated re-verify — fresh grep (石青如/Cing-Ru Shih) hit set unchanged (own TAH #276/#549 + OurJourneys 287 already absorbed + index). Nothing new absorbable. -->
 <!-- deepen-x slice 09260600-18 (2026-09-27): saturated re-verify — fresh grep (石青如/Cing-Ru Shih) hit set unchanged (own TAH #276/#549 + OurJourneys 287 already absorbed + index). HOLD stands; nothing new absorbable. -->
+<!-- deepen-x slice 10051200-18 (2026-10-06): DEEPENED — composer bio appendix from OurJourneys 287 absorbed (works/education/awards); grep hit set = own TAH #276/#549 + OurJourneys 287 + index, HOLD stands -->

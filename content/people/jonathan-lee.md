@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-06
 ---
 # Jonathan Lee
 
@@ -49,8 +49,11 @@ last_reviewed: 2026-09-27
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/taiwanese-american-perspectives||Taiwanese American Perspectives]] — host of the 228 discussion panel where Lee is listed as FAPA-YPG Advisor ([[works/taiwaneseamerican-org/a-personal-discussion-panel-in-sf-on-the-events-of-228-taiwanese-american-perspe|record]])
+- [[organizations/taiwan-american-foundation||Taiwan American Foundation]] — also named in the same panel record
 
 - Corpus re-check 2026-09-23 (deepen-x slice 09221300-21): fresh grep of works+articles returns the same hit set (whoswho1397, Pew statement, 228 discussion panel, 2008 election piece); all already wikilinked and absorbed above. Verified-saturated.
 - Corpus re-check 2026-09-25 (deepen-x slice 09240800-19): fresh grep returns the same hit set (whoswho1397, Pew statement, 228 panel, 2008 election piece, index) — all already wikilinked above. SKIP, verified-saturated.
 - Corpus re-check 2026-09-26 (deepen-x slice 09251400-5): fresh grep of works/ + articles/ returns the same hit set (whoswho1397, Pew statement, 228 panel, 2008 election piece, index) — all already wikilinked above. SKIP, verified-saturated.
 > Corpus re-scan 2026-09-27 (deepen-x slice 09260600-26): fresh ZH+EN grep of works/+articles/ — hit set identical to records already cited/absorbed on this page; verified-saturated, nothing new absorbable. SKIP-deepen.
+<!-- deepen-x slice 10051200-18 (2026-10-06): verified-saturated — fresh ZH+EN+surname grep (incl. false-positive disambiguation) hit set unchanged, all hits already linked; nothing new absorbable -->
