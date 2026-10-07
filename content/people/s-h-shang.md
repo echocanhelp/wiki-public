@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # S. H. Shang (商夏會)
 
@@ -34,7 +34,7 @@ last_reviewed: 2026-10-01
 
 ## Role in the Community
 - 本人：corpus grep（2026-09-22 複核，ZH+EN）僅見於本人傳記書目頁 [[works/taiwaneseamericanhistory-org/1162-s-h-shang-e5-95-86-e5-a4-8f-e6-9c-83-201607|TAH #1162 商夏會 / 2016-07]] 及 works/index，回憶錄/社運文本無直接記述。
-- 配偶視角（inferred）：夫 [[people/peter-su|蘇國雄]]（Peter Su）見於「Our Journey」系列回憶錄 —— 1981 年後洛杉磯台美信用合作社工作人員之一（見 [[works/taiwaneseamericanhistory-org/ourjourneys244|Our Journey 244]]），並列名 1985-04-15 台灣公論報「台美公民協會」籌備委員會顧問名單（見 [[works/taiwaneseamericanhistory-org/ourjourneys186|Our Journey 186]]）。HOLD: 該等記述之蘇國雄與本頁配偶 Peter Su 之同一性為推定，未經直接證據確認。
+- 配偶視角（inferred）：夫 [[people/peter-su|蘇國雄]]（Peter Su）見於「Our Journey」系列回憶錄 —— 1981 年後洛杉磯台美信用合作社工作人員之一（見 [[works/taiwaneseamericanhistory-org/ourjourneys244|Our Journey 244]]），並列名 1985-04-15 台灣公論報「台美公民協會」籌備委員會顧問名單（見 [[works/taiwaneseamericanhistory-org/ourjourneys186|Our Journey 186]]）。另有更早之社運記述：1969 年夏與洪哲勝、林銘德、梁文盛、林資深、洪博學等六位於 Colorado State University 求學之留學生共同策劃發行通訊《望春風》（見 [[works/taiwaneseamericanhistory-org/ourjourneys307|Our Journey 307]]）；一九七四年後加入以柑縣（Orange County）為中心之南區「生活座談會」會員名單（見 [[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journey 212]]）；世台會與全美會第三屆年會中作者與之「通信而未見面」後始相逢（見 [[works/taiwaneseamericanhistory-org/ourjourneys283|Our Journey 283]]）。HOLD: 該等記述之蘇國雄與本頁配偶 Peter Su 之同一性為推定，未經直接證據確認。
 - 2026-09-26（slice 09251039-11）重查：ZH+EN grep（商夏會 / S. H. Shang）命中集不變，僅本人傳記書目頁與 works/index，回憶錄/社運文本仍無直接記述，無可吸收史料。
 
 ## Sources
