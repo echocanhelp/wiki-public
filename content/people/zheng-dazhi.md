@@ -96,3 +96,5 @@ Zheng was not a member of the Geneva Presbyterian Church congregation in Laguna 
 <!-- TJJ-A10040700-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-3 article 8c20569762592915 (南加州教會槍殺案駐處查證, 2022-05-16刊): 鄭達志醫師挺身對峙中彈身亡獲誉英雄 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060500-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060500-2 article 117bdbbd9b362236 (周文偉槍擊案報導, 2022-05-16): 鄭達志 (John Cheng, hero physician killed confronting gunman) subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060800-9: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-9 article 8c20569762592915 (南加州教會槍殺案駐處查證中央社報導, 2022-05-16刊, 2022-07-05快照): 鄭達志醫師挺身對峙中彈身亡獲誉英雄 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

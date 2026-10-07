@@ -85,3 +85,5 @@ Visiting Professor of World Religion
 
 
 <!-- TJJ-A10040700-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-3 article c4d413fd5efb8a9c (FAHR 41週年年會報導, 2017-11-29刊, 2017-12-20快照): 「林天民教授講宗教新聞@20171214」相關報導條目 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060800-9: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-9 article c4d413fd5efb8a9c (FAHR 41週年年會報導, 2017-11-29刊, 2017-12-20快照): 「林天民教授講宗教新聞@20171214」相關報導條目 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -207,3 +207,5 @@ Notable quotes and mentions of **鄭文龍** in Taiwan Justice articles:
 <!-- TJJ-A10030400-4: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-4 article 996879ac7a006acf（FAHR第44屆年會暨鄭南榕紀念獎頒獎, 2020-11-25）: subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-19: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-19 article 996879ac（FAHR第44屆年會, 鄭文龍名列2017年得獎人）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060800-9: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-9 article c4d413fd5efb8a9c (FAHR 41週年年會報導, 2017-11-29刊): Subjects 為林天民／王廷宜兩連結 re-checked vs 正文 this attempt, real, no wrong/spurious links; 本傳主以標題得獎人身分見於該文，Works/Timeline 欄已有含该文 wikilink 的 2017-11-29 條目 — saturated, no new material. -->

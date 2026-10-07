@@ -77,3 +77,5 @@ last_reviewed: 2026-10-01
 
 <!-- TJJ-A10040700-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-3 article 03754005e8506b45 (陳文成紀念廣場募款報導, 2019-11-02刊): 周婉窈台大歷史系教授出席記者會 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060400-6: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-6 article 24119694 刺蔣案50週年線上對談報導（台大歷史系教授對談、指王文宏屬刺蔣未遂確認見於正文）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060800-9: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-9 article 03754005e8506b45 (陳文成紀念廣場募款報導, 2019-11-02刊, 2022-04-15快照): 周婉窈台大歷史系教授出席記者會 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
