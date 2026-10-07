@@ -29,3 +29,4 @@ The Boston University Taiwanese Student Association (BUTSA, 波士頓大學台�
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-scan 2026-09-25 (BUTSA / 波士頓大學台灣同學會 / Boston University Taiwanese): still zero hits in works/ or articles/; SKIP stands.
+Corpus re-scan 2026-10-06 (slice 10051200-12): BUTSA / butsaa / 波士頓大學台灣同學會 — only hit is the directory link in sources/; Boston University hits remain unrelated (musician interviews, 2020 espionage item). SKIP stands.

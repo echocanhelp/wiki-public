@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Doris Hsieh (謝必行)
 
@@ -34,6 +34,7 @@ last_reviewed: 2026-10-01
 - Named in the North California (北加州) blacklist of Taiwanese Americans whose visa applications were refused or obstructed — see [[works/taiwaneseamericanhistory-org/ourjourneys106|106. Our Journeys]]. Her husband 林武男 appears on the same list.
 - Remembered in a community memoir by 楊惠喬: [[works/taiwaneseamericanhistory-org/mystories521|521. 懷念好友 Doris-謝必行博士 / 楊惠喬 / 2017/02]].
 - Own encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho1517|1517. Doris Hsieh 謝必行 / 2017/02]].
+- 夫家與台美人運動圈：夫 林武男 曾任北美台灣人教授協會（NATPA）會長（見 [[works/taiwaneseamericanhistory-org/ourjourneys37|37. 台灣協志會成立與大事記 / 紀哲嘉]] 幹部榜），於 NATPA 首度回台年會任副會長兼募款負責人（[[works/taiwaneseamericanhistory-org/ourjourneys47|47. 北美洲台灣人敎授協會首度回台召開年會 / 林靜竹]]）——夫妻二人同列黑名單（見上），屬同一個北加州運動社群。
 
 ## Sources
 - [TAH #1517 encyclopedia: 1517.  Doris Hsieh 謝必行/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1517/)
