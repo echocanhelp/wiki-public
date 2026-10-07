@@ -75,3 +75,5 @@ Re-grep 黃瑞雅|Peggy Huang: works hit set unchanged (ota-292, whos-who-2199, 
 <!-- TJJ-A09260400-6: verified 2026-09-26 — subject link 117bdbbd9b362236 confirmed real; dated fact w/ wikilink already in From the record — saturated. -->
 
 <!-- TJJ-A10040500-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-6 article 117bdbbd9b362236: 黃瑞雅 (Yorba Linda 台裔市議員/加州副檢察長) CNA interview relaying eyewitness detail re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060500-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060500-2 article 117bdbbd9b362236 (周文偉槍擊案報導, 2022-05-16): 黃瑞雅/Peggy Huang subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

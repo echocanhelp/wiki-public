@@ -64,3 +64,5 @@ Corpus re-grep 2026-09-22 (DEEPEN-X slice 09212352-24): hits are only the record
 <!-- TJJ-A10040500-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-6 article 1d72b2ae61640747: 殷清隆 (殷勤文教公益基金會創辦人) among 領銜籌備 group re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-7: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-7 articles (79291dad808ef7f7 大洛杉磯台灣會館會訊 2018-06 / 69b4f44f9c019bd5 陳水扁台中監獄自縊專訪 / 760a0bc942e1676b 台灣祝賀拜登賀錦麗就職 / 097b5750fcf3091a 花蓮震災台館勸募): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060500-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060500-2 article 1d72b2ae61640747 (2020海外小英後援會LA造勢, 2019-10-10): 殷清隆/c-l-yin subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

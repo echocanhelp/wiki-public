@@ -62,3 +62,5 @@ HOLD: conflict in name — the corpus record titles the organization "Taiwanese 
 <!-- TJJ-A10040500-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-6 article 162effa713237818: TACL as co-launcher/issuing body (35 yrs, PIP etc.) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-9: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-9 articles (2c5d3c7d4f5acccc 戴琪鄧振中TIFA / 81e80ba38969bf88 皮尤區隔台裔 / 9412105875987041 以立Mayfield交流 / 92917d4c9a88eba2 自救宣言59週年): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060500-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060500-2 article 162effa713237818 (TASF COVID-19 紓困獎學金, 2020-06-16): TACL subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

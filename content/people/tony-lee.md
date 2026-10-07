@@ -115,3 +115,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10040500-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-6 article c62f5c50846fe267: 李賢群 as 228系列活動召集人, hosted + 不義遺址 report re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-14: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-14 articles (b7327dcf 台美史料中心March2021通訊, 2021-02-28 / 95fd8186 二二八77週年大洛杉磯台灣會館追思紀念大會, 2024-02-25 / 26f76359 糖尿病與你王秉訓演講記錄, 2019-10-31 / a1b56965 彭明敏研討會跨世代對談, 2023-09-24): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060500-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060500-2 article c62f5c50846fe267 (台館228追思紀念大會, 2025-02-24): 李賢群/tony-lee subject link re-checked vs 正文 (召集人主持+不義遺址報告), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

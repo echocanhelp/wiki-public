@@ -299,3 +299,5 @@ Notable quotes and mentions of **楊嘉猷** in Taiwan Justice articles:
 <!-- TJJ-A10040500-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-6 article c62f5c50846fe267: 楊嘉猷 attended as TAHS 會長 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-10: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-10 — subject link in article 20053f0a17b89c07 (Tag: 大洛杉磯台灣會館耆老講座, 2025-02-16 存檔) re-checked vs 正文: 「8/17 洪茂澤、楊嘉猷談返台參選經驗」條目具名確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. (頁首 authors 清單屬全站作者欄位, 非本篇主題.) -->
+
+<!-- TJJ-A10060500-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060500-2 article c62f5c50846fe267 (台館228追思紀念大會, 2025-02-24): 楊嘉猷 subject link re-checked vs 正文 (TAHS會長出席), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
