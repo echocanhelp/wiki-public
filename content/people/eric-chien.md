@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Eric Chien (簡綸廷)
 
@@ -45,3 +45,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10051948-31 2026-10-07: five-dir re-grep (ZH+EN+奇幻森林/Fantasy Forest variants) — own record whos-who-2200 + index/source rows only; no memoir/community material. SKIP. -->

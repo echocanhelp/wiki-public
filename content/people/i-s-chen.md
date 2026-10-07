@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # I. S. Chen (陳以信博士)
 
@@ -45,3 +45,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10051948-31 2026-10-07: five-dir re-grep (ZH+EN+隱形眼鏡/contact lens/Bauch variants) — own record #931 + index rows only; winners31 hit is 林以信 (Joseph Lin, 不同人), contact-lens hits are other people; 立委陳以信新聞維持同名不同人判定. No absorbable community material. SKIP. -->
