@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Yang Yang (楊陽)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09250400-20 re-check 2026-09-25: still saturated — grep returns only whoswho1568, 836-yang-yang, catching-the-invisible-light (all already linked) + works/index.md. -->
 
 <!-- deepen-x slice 09252123-14 (2026-09-26): verified-saturated — fresh ZH+EN re-grep hit set unchanged (whoswho1568, 836-yang-yang, works index — all already linked; catching-the-invisible-light also already cited); no new absorbable facts. -->
+<!-- deepen-x slice 10051200-28 (2026-10-06): verified-saturated — fresh ZH+EN grep of works/+articles/+sources/+events/+topics returns the identical hit set (whoswho1568, 836-yang-yang, catching-the-invisible-light, sources hub, works index — all already linked/cited on this page); no new absorbable material. -->
