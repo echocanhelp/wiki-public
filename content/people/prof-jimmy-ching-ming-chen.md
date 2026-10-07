@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Prof. Jimmy Ching-Ming Chen
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 SKIP (verified saturated) — fresh ZH+EN grep returns only own record [[works/taiwaneseamericanhistory-org/whos-who-1764-jimmy-ching-ming-chen|TAH #1764]], the 鄭靜旻 near-name works (different person, HOLD above), and works/index — no new absorbable facts.
 <!-- deepen-x slice 09250400-22 (2026-09-25): SKIP re-verified — fresh grep returns only own TAH #1764, the 鄭靜旻 near-name works (different person, HOLD), + index; no new material. -->
 <!-- deepen-x slice 09252123-18 (2026-09-26): SKIP re-verified — fresh ZH+EN grep returns only own TAH #1764, the 鄭靜旻 near-name works (different person, HOLD), + index; no new absorbable material. Verified saturated. -->
+<!-- deepen-x slice 10051918-3 (2026-10-07): SKIP re-verified — fresh grep Jimmy Chen / Ching-Ming Chen across all corpus dirs returns only own TAH #1764 + the 鄭靜旻 near-name works (different person, HOLD) + index. Other Jimmy hits (Jimmy Lee/ISSI in ourjourneys19, YouTuber Jimmy Wang) are different people. Verified saturated. -->

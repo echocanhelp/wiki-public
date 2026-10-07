@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # C. R. Huang (黃朝榮)
 
@@ -49,6 +49,7 @@ SKIP-with-reason (deepen-x slice 09171500-8, re-verified 2026-09-20 slice 091815
 - Corpus re-verified 2026-09-25 (deepen-x slice 09231100-29): grep 黃朝榮 / "C. R. Huang" again returns only [[works/taiwaneseamericanhistory-org/whoswho1417|whoswho1417]] + index row — remains saturated, nothing absorbable.
 - Corpus re-verified 2026-09-25 (deepen-x slice 09250400-31): grep re-run returns the identical hit set (own [[works/taiwaneseamericanhistory-org/whoswho1417|whoswho1417]] record + index row) — SKIP-with-reason stands, nothing absorbable.
 - Corpus re-verified 2026-09-26 (deepen-x slice 09252123-23): fresh ZH+EN grep re-run returns the identical hit set — own [[works/taiwaneseamericanhistory-org/whoswho1417|whoswho1417]] record + index row only. SKIP-with-reason stands; verified-saturated, nothing absorbable.
+- Corpus re-verified 2026-10-07 (deepen-x slice 10051918-3): fresh grep 黃朝榮 / "C. R. Huang" across works/articles/sources/events/topics returns only own [[works/taiwaneseamericanhistory-org/whoswho1417|whoswho1417]] record + index rows. Verified saturated; nothing absorbable.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

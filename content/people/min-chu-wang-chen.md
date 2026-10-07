@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Min-Chu Wang Chen (王陳明珠)
 
@@ -52,3 +52,4 @@ Accomplishment
 - Re-grepped corpus 2026-09-25 (slice 09231000-31): still only whos-who-1928 + index rows; no new memoir material — SKIP-with-reason stands.
 <!-- deepen-x slice 09250400-28 (2026-09-25): SKIP re-verified — fresh ZH+EN re-grep of works/+articles/ returns only the hit set already recorded on this page; no new memoir/community material. Verified saturated. -->
 <!-- deepen-x slice 09252123-17 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/+articles/ returns hit set identical to prior passes (own records + index only); no new memoir/community material. Verified saturated. -->
+<!-- deepen-x slice 10051918-3 (2026-10-07): SKIP re-verified — fresh grep 王陳明珠 / Min-Chu Wang across all corpus dirs returns only own whos-who-1928 record + index rows. Bare-明珠 hits in ourjourneys memos are other people (吳明珠, 廖玫琪掌上明珠 idiom, 黃柯明珠, 蔡明珠, 王明珠) — name collisions, nothing absorbable. Verified saturated. -->
