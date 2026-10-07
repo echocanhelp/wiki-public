@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Yi-Miao Huang (黃怡妙)
 
@@ -63,3 +63,5 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep (slice 09260854-9, 2026-09-30): fresh ZH+EN grep — hit set identical to records already absorbed and linked above (verified by re-grep this run). No new absorbable community facts. SKIP: verified-saturated.
 
 Corpus re-grep (slice 09300500-3, 2026-10-04): fresh ZH+EN grep of works+articles — hit set identical to records already absorbed and linked above; no new absorbable community facts. SKIP: verified-saturated.
+
+Corpus re-grep 2026-10-06 (slice 10051314-13, 黃怡妙 / Yi-Miao Huang): fresh ZH+EN grep — hit set identical (own record 22-welly-yang, ILF announcement, sources index) — all already absorbed. SKIP: verified-saturated; STUF vs Starside HOLD stands.

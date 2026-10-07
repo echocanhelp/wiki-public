@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-06
 ---
 # W. J. James Chung (鍾文忠)
 
@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-grep 2026-10-06 (slice 10051314-13, grep 鍾文忠/James Chung/James Chuang/文忠): hit-set identical (whos-who-1932, ff344, our-journeys-360, sources index; the ourjourneys58 match is 林文忠 of Massachusetts — a different person). SKIP-content: verified-saturated; Chung/Chuang and NY/NJ HOLDs stand.
