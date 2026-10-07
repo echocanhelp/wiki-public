@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Taiwanese Scholar Society
 
@@ -32,6 +32,8 @@ Disambiguation (deepen-x recheck 2026-09-25): fresh ZH+EN grep matches 台灣學
 Recheck (deepen-x 09250500-1, 2026-09-25): fresh CMU/TSS grep adds only tangential mentions — [[works/taiwaneseamericanhistory-org/ourjourneys321-eng|Our Journeys #321]] and [[works/taiwaneseamericanhistory-org/ourjourneys292-eng|Our Journeys #292]] name Carnegie Mellon in the 陳文成 / Pittsburgh Taiwanese Association context, and [[works/taiwaneseamerican-org/green-island-secrets|Green Island Secrets]] mentions CMU incidentally. None concern this club; SKIP-with-reason stands.
 
 Recheck (deepen-x 09260900-25, 2026-10-01): fresh ZH+EN grep of works/ + articles/ for "Taiwanese Scholar Society" / Carnegie Mellon returns the same tangential set (陳文成 testimony #8-eng and its Pittsburgh-context retellings #292/#321, the Erin Li interview, and two taiwanjustice-net tech columns where Carnegie Mellon appears only as a researcher's affiliation — Adobe co-founder Warnock/Geschke and the 2025 Trump AI-energy announcement). Zero corpus material about this CMU club itself; SKIP-with-reason stands.
+
+Re-grep (deepen-x 10052158-6, 2026-10-07): five-dir grep for "Taiwanese Scholar Society" / 台灣學者協會 / TSS returns the TSA-STL works trio already disambiguated above plus works/index; the TSS matches in taiwanjustice-net articles are bare archive-digest hash strings, not the society. Zero corpus material on CMU TSS; SKIP-with-reason stands.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-scholar-society/)

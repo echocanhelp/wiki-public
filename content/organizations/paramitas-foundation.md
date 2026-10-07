@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-07
 ---
 # Paramitas Foundation
 
@@ -26,6 +26,8 @@ Paramitas Foundation was founded by Winston Chen in 1992. The Foundation support
 - 語料比對：本機構的 coverage 限於機構紀錄 #25、創辦人陳文雄事蹟（ourjourneys19、ourjourneys216、#267、#892、#100、#1073）與 works index——皆已吸收於上。Re-grepped 2026-09-24 → 2026-09-26 (slices 09230700-24, 09221200-25, 09240700-25, 09251000-14, this slice 09260500-23): fresh grep Paramitas of works/ + articles/ returns only org record #25 + works index — verified-saturated, no new unabsorbed corpus facts (292/Charlie Chern matches 陳文雄, not Paramitas — HOLD below).
 - HOLD: 同名異人——[[works/taiwaneseamericanhistory-org/292-wen-s-charlie-chern-e9-99-b3-e6-96-87-e9-9b-84201502|292. Wen S. (Charlie) Chern 陳文雄]]（TAH 2015/02 紀錄）為另一位同名人士，勿與 Paramitas 創辦人 Winston Chen 自動合併。
 - 陳文雄事蹟另見 [[works/taiwaneseamericanhistory-org/892-an-immigrants-experience-on-air-force-one-the-story-of-winston-chen-nicole-a|892. An Immigrant's Experience on Air Force One]]、[[works/taiwaneseamericanhistory-org/photo-albums-activities-100|100. An Immigrant's Experience on Air Force One – Dr. Winston Chen]] 及傳記《美國奇蹟：台灣留學生陳文雄搭上空軍一號的故事》([[works/taiwaneseamericanhistory-org/publications1073|1073]])。
+- 創辦人參與北加州台灣協志會會務與創業網絡之旁證見 [[works/taiwaneseamericanhistory-org/ourjourneys37|37. 台灣協志會成立與大事記（紀哲嘉，2014/09）]]：陳文雄列名該會會員攜手合資創業的成功例子（Solectron，與林典謨、林瑞松等），並曾任全美台灣工商會會長；江南案報導中亦被點名為灣區台獨幹部（該文屬報導引述，非本協會紀錄）。此為創辦人活動面向之新增語料，Paramitas 機構本身紀錄未變。
+- Re-grep 2026-10-07 (slice 10052158-6): fresh grep Paramitas across works/articles/sources/events/topics returns only org record #25 + works index + sources rollup — institution-level coverage verified-saturated; the new material above concerns founder-level activity only.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/paramitas-foundation/)
