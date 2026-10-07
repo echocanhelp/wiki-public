@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Hua-San Chi (紀華山)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-22: fresh grep still returns only the own TAH record and works index; no community-record material. SKIP stands.
 - Re-verified 2026-09-25 (deepen-x slice 09231500-14): fresh ZH+EN grep returns only his own record [[works/taiwaneseamericanhistory-org/whoswho1739|whoswho1739]]; no memoir material. SKIP stands.
 - Re-verified 2026-09-26 (deepen-x slice 09251039-6): fresh ZH+EN grep returns only own record + works index. SKIP stands.
+- Re-verified 2026-10-07 (deepen-x slice 10051948-29): fresh greps (紀華山 / Hua-San Chi / 紀華) across all five corpus dirs return only own record [[works/taiwaneseamericanhistory-org/whoswho1739|whoswho1739]] + works index; bare 華山 hits are 陳華山 (Henty Chen) and 林華山 — different people. SKIP stands.
