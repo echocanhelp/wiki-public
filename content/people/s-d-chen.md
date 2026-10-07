@@ -48,3 +48,4 @@ S. D. Chen (陳士東) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Corpus check 2026-10-07 (slice 10052007-21, five dirs + 士東/S.D. Chen/Chen Shih variants): own record whoswho923 + index only; the sole variant hit is Chen Shih-chung 陳時中 (health minister) — different person. Verified-saturated, no absorbable material.
