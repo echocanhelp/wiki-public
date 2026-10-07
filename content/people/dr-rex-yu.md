@@ -90,3 +90,5 @@ Accomplishment
 
 <!-- TJJ-A10020900-1: verified 2026-10-05 — slice 10020900-1 articles (ad7f737b 第55回世界臺灣文化論壇大佛普拉斯 / c1e60306 蕭美琴缺席僑界活動 / 3246c11d 洛僑中心台灣藝術講座 / 88c15e54 蘇姿丰PCAST顧問) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10040700-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-2 — article 23da543a315a1fa1（228七十週年紀念公告轉會館會訊, 2024-05-30快照）: subject link re-checked vs 正文「台灣會館聘請室內專家余忠村博士主持海外的佈展」, real, no wrong/spurious links; 2017-02-17 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-18: verified 2026-10-07 — wave-2 re-check of slice 10060400-18 article 3246c11d0909b4fe (洛僑中心攜手台灣會館「台灣‧藝象」首場講座公告, 2018-08-25) 正文再驗證——余忠村博士任主講人分享民俗戲曲音樂確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2018-08-31 條目已在庫 — saturated, no new material. -->

@@ -355,3 +355,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10060400-19: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-19 articles f6ed9463（2013-04-12 贊成名單列蕭美琴）＋0258611f（2024-05-19 520就職報導）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-20: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-20 articles (06510e79 南加州林榮松獲聘行政院政務顧問 2020-11-19 / 63257725 FAHR研討會敗選檢討迎戰2024 2023-01-24 / 77328a2c 會館第十屆董事會選舉 2016-06-12 / 4c65a9af 520就職報導快照 2024-05-19): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-18: verified 2026-10-07 — wave-2 re-check of slice 10060400-18 article c1e603063718b409 (返台選舉傳聞缺席僑界活動報導, 2023-11-11) 正文再驗證——本頁為報導主角，subject 連結為真（同文另掛 michael-fonte 亦為真）；含該文 wikilink 的 2023-11-11 條目已在庫 — saturated, no new material. -->

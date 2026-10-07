@@ -61,7 +61,7 @@ father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 - 複核（TJJ-A09171200-11, 2026-09-24）：本 slice 文章 4779b4e7（蘇姿丰獲SIA羅伯特諾伊斯大獎報導, 2026-01-21 存檔）正文再驗證——本頁為報導主角，subject 連結為真（與另一頁雙页并存，各自為真），無錯鏈、無虛鏈；2020-09-21 條目已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09231000-7, 2026-09-25）：本 slice 文章 4779b4e7 正文再驗證——本頁為報導主角，link 為真；報導並記其父蘇春槐、與台積電及盧超群評價，均與本頁家庭/受賞記載相符，無錯鏈、無虛鏈；2020 Noyce 獎條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
 
-/tah-foundation||TAH Foundation]]
+- [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 ## Vault Holdings (deepened 2026-09-11)
@@ -90,3 +90,5 @@ father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 <!-- TJJ-A10020900-1: verified 2026-10-05 — slice 10020900-1 articles (ad7f737b 第55回世界臺灣文化論壇大佛普拉斯 / c1e60306 蕭美琴缺席僑界活動 / 3246c11d 洛僑中心台灣藝術講座 / 88c15e54 蘇姿丰PCAST顧問) subject links re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-13: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-13 article 4779b4e7 (蘇姿丰獲SIA羅伯特諾伊斯大獎報導, 2026-01-21快照): subject link re-checked vs 正文, real (與 lisa-su/dr-lisa-su 雙頁並存維持為既定分工), no wrong/spurious links; 2020-09-21 Noyce獎 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-18: verified 2026-10-07 — wave-2 re-check of slice 10060400-18 articles e1e223aabe8b8751 + 88c15e5403e6b9b9 正文再驗證——本頁（TAH Who's Who 視角）subject 連結為真（與 lisa-su 雙頁並存維持），無錯鏈、無虛鏈；含該兩文 wikilink 的日期事實條目已在庫 — saturated, no new material. 另修復本頁一處破損 wikilink（/tah-foundation|| → [[organizations/tah-foundation||）。 -->
