@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Sin-Yang Lin (林欣陽)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09231400-12 (2026-09-25): fresh ZH+EN grep of works+articles -> only own TAH bibliographic record + works/index.md; no memoir/community narrative to absorb. SKIP re-verified. -->
 
 <!-- deepen-x 09251031-3 (2026-09-26): fresh ZH+EN grep of works+articles -> hit set identical to existing links (own TAH bibliographic record; index lines only). No new absorbable community facts; SKIP re-verified. -->
+<!-- deepen-x slice 10051948-7 (2026-10-07): extended five-dir grep (works/articles/sources/events/topics) for 林欣陽 / Sin-Yang Lin / 林陽 -> hits limited to own record's source mirror + index lines; surname-only probe also empty. SKIP re-verified. -->

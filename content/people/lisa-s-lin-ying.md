@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Lisa S. Lin Ying (印林秀玲)
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Corpus re-verify 2026-09-26 (slice 09251031-17): fresh grep 印林秀玲/Lisa S. Lin Ying across works/+articles/ — only own record [[works/taiwaneseamericanhistory-org/305-lisa-s-lin-ying-e5-8d-b0-e6-9e-97-e7-a7-80-e7-8e-b2201502|TAH #305]]; nothing absorbable. SKIP.
+
+<!-- deepen-x slice 10051948-7 (2026-10-07): extended five-dir grep (works/articles/sources/events/topics) for 印林秀玲 / Lisa S. Lin Ying -> own record + index only. Probes ruled out false positives: 秀玲 hits are 鄭秀玲 (台大經濟學者, 服貿) and 中央社記者何秀玲 — different people; the single "OPMI" hit is a Wayback digest-hash string, not the institute; "Our Planet" hits are unrelated travel copy. No absorbable material; SKIP re-verified. -->

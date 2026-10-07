@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-07
 ---
 <!-- deepen-x slice 09190300-11: SKIP — corpus grep for 黃慶安/Andy Hwang (works+articles) hits only the own TAH Who's Who record (works/taiwaneseamericanhistory-org/whos-who-2286-andy-hwang.md) and index pages; no memoir/community material to absorb. -->
 # Dr. Andy Hwang (黃慶安博士)
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10051948-7 (2026-10-07): extended five-dir grep (works/articles/sources/events/topics) for 黃慶安 / Andy Hwang -> own record + index only. Substring probe 慶安 surfaced several works, but every hit is 楊慶安 / Prof. Alexander K. Young (紐約州立大學, d. 2015; see works/taiwaneseamericanhistory-org/409-alexander-k-young-e6-a5-8a-e6-85-b6-e5-ae-89-201505.md) — a different person, NOT this page's subject. No absorbable material; SKIP re-verified. -->

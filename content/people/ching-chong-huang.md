@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Ching-Chong Huang (黃慶鍾醫師)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 
 ## Work log
 - SKIP (deepen-x slice 09251031-9, 2026-09-26): fresh ZH+EN grep of content/works + content/articles returned only the hit set already absorbed by this page (own TAH record + index, plus previously cited works); nothing new absorbable.
+- SKIP (deepen-x slice 10051948-7, 2026-10-07): extended five-dir grep (works/articles/sources/events/topics) for 黃慶鍾 / Ching-Chong Huang / 慶鍾 -> hit set identical to the three sources already cited above (CTA 50-year roster, own TAH record, 2018 連署聲明) + index/source mirrors; nothing new absorbable.
