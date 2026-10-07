@@ -71,3 +71,5 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/ourjourneys85-eng|Our Journeys 85 (EN) — 3F founding]]
 
 <!-- TJJ-A10040500-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-4 article c251f8fc65ac83e0 (去殖民化—正常化（下）, 獨傲村夫, 2023-06-02 刊, 2023-09-23 快照): 陳以德與林榮勳、盧主義創3F re-checked vs 正文, real, no wrong/spurious links（文中1959改名年份與本頁Our Journeys 33之1958說法的分歧已在條目內註明）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060600-3: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-3 article c251f8fc65ac83e0 (去殖民化—正常化（下）): subject link re-checked vs 正文 this attempt (與林榮勳、盧主義創3F；文中1959改名年份與本頁Our Journeys 33之1958說法的分歧已在條目內註明), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
