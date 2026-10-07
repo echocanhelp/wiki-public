@@ -7,8 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
+<!-- deepen-x slice 10051400-25: SKIP re-verified 2026-10-07 — fresh ZH+EN+variant greps (鍾俊賢 / J. S. Chung / JS Chung / J.S. Chung) across works/articles/sources/events/topics: hits = own winners40 + whoswho-1555 records + index/source lists only; no absorbable community material -->
 # J. S. Chung (鍾俊賢)
 
 ## Identity Snapshot

@@ -7,8 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
+<!-- deepen-x slice 10051400-25: SKIP re-verified 2026-10-07 — fresh greps (張謙益 / C. Y. Chang / 張中益) across all five corpus dirs: hits = own #1418/#1545 records + index/source only; HOLD on 張謙益 vs 張中益 identity conflict stands -->
 # C. Y. Chang (張謙益)
 
 ## Identity Snapshot
