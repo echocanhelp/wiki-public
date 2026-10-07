@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Walter H Shiau (蕭鴻模)
 
@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Deepen-x 10051948-17 re-verified 2026-10-07: exact-name ZH+EN grep across all five corpus dirs returns only own record 709 + works index + source roster; surname-only probe (蕭/Shiau) hits unrelated Shiaus (丁曉雯 Shiau-uen Ding record, John Shiau, Yih-Fu Shiau 蕭逸夫) — verified-saturated, SKIP stands.

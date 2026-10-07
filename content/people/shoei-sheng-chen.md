@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Shoei-Sheng Chen (陳水生)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 Corpus re-scan 2026-09-26 (deepen-x 09251047-1): fresh ZH+EN grep — still only own TAH record 750 + index; SKIP, nothing absorbable.
 
 <!-- deepen-x re-verified SKIP 2026-10-02 (slice 09261400-6): fresh ZH+EN grep (full-corpus scope: works/ + articles/ + knowledge/) -> only own Who's Who record + works index + source roster link; no third-party memoir material. SKIP stands. -->
+Deepen-x 10051948-17 re-verified 2026-10-07: exact-name ZH+EN grep across all five corpus dirs (works/articles/sources/events/topics) returns only own record 750 + works index + source roster; broad-substring probe (水生) matched only unrelated text (e.g. 水生物) in taiwanjustice articles — verified-saturated, SKIP stands.

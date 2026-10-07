@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-07
 ---
 # Min-Jen Chen (陳明真)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/639-min-jen-chen-e9-99-b3-e6-98-8e-e7-9c-9f-201509|639. Min-Jen Chen 陳明真 (TAH Who's Who, 2015/09)]]
 
 - 2026-10-02 re-verified (deepen-x slice 09261400-15, closed): fresh ZH+EN grep over works/ + articles/ returns only the own TAH record entry in works/index.md — SKIP-with-reason unchanged: this is a band-B bibliographic record only; no memoir or community-organizing facts in the vault to absorb.
+- 2026-10-07 re-verified (deepen-x slice 10051948-17, closed): exact-name ZH+EN grep across all five corpus dirs (works/articles/sources/events/topics) returns only own record 639 + works index + source roster; broad-substring probes (e.g. 明真) matched only unrelated 真相 strings in taiwanjustice articles — verified-saturated, SKIP stands.
