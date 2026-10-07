@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Taiwanese American of Dayton (戴頓台灣同鄉會)
 
@@ -30,3 +30,5 @@ Taiwanese American of Dayton (戴頓台灣同鄉會) is a local chapter of the T
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10052158-17 recheck 2026-10-07: fresh five-dir sweep (Dayton / 戴頓) — beyond the already-linked chapter record [[works/taiwaneseamericanhistory-org/dayton-ohio-chapter-taa|Dayton, Ohio Chapter / TAA]], hits are unrelated Dayton people (Mark Dayton, Keith Dayton news). SKIP (verified-saturated); title-vs-record HOLD stands. -->
