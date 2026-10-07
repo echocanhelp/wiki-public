@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-07
 ---
 # Alice Yu (游陳鈴津)
 
@@ -47,6 +47,7 @@ Distinguished Chair Professor
 - Corpus re-grep 2026-09-22 (slice 09211500-27): ZH+EN scan of works/articles again returns only the Who's Who record whoswho1533 and its index adjacency; no memoir or article coverage. Verified-saturated, no conflicts.
 - Corpus re-grep 2026-09-21 (slice 09201500-26): still only the Who's Who record whoswho1533; no memoir/article coverage. Verified-saturated.
 - Corpus re-grep 2026-09-23 (slice 09221000-21): fresh ZH+EN scan of works/articles again returns only own record whoswho1533 + index; no memoir or article coverage. Verified-saturated, no conflicts.
+- **2020 ASCO award (corpus record, absorbed 2026-10-07):** [[works/taiwaneseamericanhistory-org/74-prof-alice-lin-tsing-yu-received-2020-pediatric-oncology-award|TAH #74 — Prof. Alice Lin-Tsing Yu, MD, Ph.D. (陳鈴津) Received 2020 Pediatric Oncology Award and Lecture by American Society of Clinical Oncology, ASCO, 06/2020]] (published 2020-06-22). The record names her under the maiden-name form 陳鈴津 / Lin-Tsing — same given name as 游陳鈴津 — consistent with the pediatric hematology/oncology career documented above (UCSD Professor and Chief, 2001–2003). Bibliographic record only; full text stays in the vault.
 
 ## Sources
 - [TAH #1533 encyclopedia: 1533. Alice Yu 游陳鈴津/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1533/)

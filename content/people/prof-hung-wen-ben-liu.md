@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-07
 ---
 # Prof. Hung-Wen Ben Liu (劉鴻文教授)
 
@@ -59,3 +59,5 @@ _No filled family fields on the TAH profile._
 
 > SKIP-note (deepen-x slice 09240400-11, 2026-09-25): corpus re-grep (劉鴻文|Hung-Wen) hit set identical again — own TAH #1784 record + corpus index only; no new absorbable corpus facts. (別名衝突已標注: 劉斌碩 Ben Liu ≠ 本人)
 > SKIP-note (deepen-x slice 09260600-29, 2026-09-27): corpus re-grep (劉鴻文|Hung-Wen) hit set identical again — own TAH #1784 record + corpus index only; no new absorbable corpus facts.
+
+> SKIP-note (deepen-x slice 10051909-15, 2026-10-07): fresh 鴻文 grep across corpus returns only other persons — 陳鴻文 (journalist), 蔡鴻文 (politician), 劉斌碩 (Ben Liu, already flagged as different person above); no new material naming 劉鴻文 / Hung-Wen.
