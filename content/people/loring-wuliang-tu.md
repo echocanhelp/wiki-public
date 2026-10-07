@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Loring Wuliang Tu (杜武亮)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09250400-28 (2026-09-25): SKIP re-verified — fresh ZH+EN re-grep of works/+articles/ returns only the hit set already recorded on this page; no new memoir/community material. Verified saturated. -->
 <!-- deepen-x slice 09252123-17 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/+articles/ returns hit set identical to prior passes (own records + index only); no new memoir/community material. Verified saturated. -->
+<!-- deepen-x slice 10051314-32 (2026-10-06): SKIP re-verified — fresh ZH+EN grep across works/articles/sources/events/topics returns the identical set (own memoir #593, Pew 連署名單, index, sources rollup); no new corpus material. Verified saturated. -->

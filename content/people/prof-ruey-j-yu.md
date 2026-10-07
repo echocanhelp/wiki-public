@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Prof. Ruey J. Yu (余瑞錦教授)
 
@@ -39,7 +39,8 @@ Publication(Non-professional)
 
 
 ## Role in the Community
-- His 2017 autobiography is held as a band-A community-history record in the TAH story corpus: [[works/taiwaneseamericanhistory-org/publications1218|1218. Journey of a Thousand Miles / Ruey Yu /10/2017/自傳]] (written with Kate Jaimet). The foreword, by his Temple University research collaborator, records that after Temple failed to patent their initial discovery of DOPA-ester compounds promoting skin pigmentation, Yu taught himself patent drafting and thereafter drafted all of their applications himself.
+- His 2017 autobiography is held as a band-A community-history record in the TAH story corpus: [[works/taiwaneseamericanhistory-org/publications1218|1218. Journey of a Thousand Miles / Ruey Yu /10/2017/自傳]] (written with Kate Jaimet). The foreword, by his Temple University research collaborator, records that after Temple failed to patent their initial discovery of DOPA-ester (dihydroxyphenylalanine) compounds promoting skin pigmentation, Yu taught himself patent drafting and thereafter drafted all of their applications himself.
+- **From the collaborator's foreword in the 自傳 record** ([[works/taiwaneseamericanhistory-org/publications1218|1218]]): after the dermatology department hosting their joint research was abolished, Yu taught himself business operations to keep the research funded — leading to Neostrata/TriStrata; the company distinguished itself by scientifically testing products against comparators and publishing results for open scrutiny. The foreword also records that he grew up severely nutritionally deprived, which the author ties to his lifelong commitment to finding preventatives and cures, and quotes his motto: "We do not need to have good luck. We do need to have the absence of bad luck."
 - HOLD: conflict — page text "Journey of Thousand Miles" vs corpus record title "Journey of a Thousand Miles"; not merged.
 - Encyclopedia entry in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-2126-ruey-j-yu|2126. Prof. Ruey J. Yu 余瑞錦教授]].
 - No further 余瑞錦 / Ruey Yu mentions elsewhere in works/articles (re-grepped 2026-09-22 slice 09211507-9: hits limited to the two records already absorbed above) — verified saturated; re-grep 2026-09-23 (slice 09221500-19) confirms the same two records only.
@@ -55,3 +56,4 @@ Publication(Non-professional)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09251527-19 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/+articles/ returns only the records already absorbed/linked on this page (own TAH record + index listings); no new community material. -->
+<!-- deepen-x slice 10051314-32 (2026-10-06): DEEPENED — absorbed foreword details from corpus record 1218 (DOPA-ester expansion, dermatology-dept abolition → business pivot, childhood-nutrition origin, motto quote); HOLD title-conflict line retained; last_reviewed bumped. -->
