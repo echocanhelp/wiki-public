@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dr. Chuan Chang (張仲權博士)
 
@@ -53,3 +53,4 @@ Publication(Non-professional)
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10051909-31 re-check 2026-10-07: verified-saturated. Fresh ZH+EN+surname grep of works/ articles/ sources/ events/ topics/ returns only own TAH record whos-who-2278 + index/source-hub rollups; no new absorbable corpus material. -->

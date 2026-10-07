@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Dr. Min Hsiung Tsai (蔡敏雄博士)
 
@@ -52,3 +52,4 @@ Accomplishment
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10051909-31 re-check 2026-10-07: verified-saturated. Fresh ZH+EN grep of works/ articles/ sources/ events/ topics/ returns only own TAH record whos-who-1915 + index/source-hub rollups. Surname-given grep 敏雄 hits only different people (紀敏雄, 郭敏雄, 鄭敏雄) in unrelated records. Spouse HOLD (邱淑媛 vs 王梅鳳) stands; no corpus material resolves it. -->

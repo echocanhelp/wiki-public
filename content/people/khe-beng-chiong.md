@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-07
 ---
 # Khe-Beng Chiong (鍾啟明)
 
@@ -54,3 +54,4 @@ Sergeant, Lieutenant, Captain
 <!-- deepen-x 09250400-21 re-check 2026-09-25: verified-saturated. Fresh ZH+EN grep of works/ + articles/ returns only own TAH bibliographic records, works/index.md, or pages already wikilinked/HOLDed in Role in the Community; no new absorbable corpus material. -->
 
 <!-- deepen-x slice 09252123-10 re-check 2026-09-26: verified-saturated. Fresh ZH+EN grep of works/ + articles/ hit set identical to records already wikilinked/HOLDed on this page; no new absorbable corpus material. -->
+<!-- deepen-x slice 10051909-31 re-check 2026-10-07: verified-saturated. Fresh ZH+EN+surname grep of works/ articles/ sources/ events/ topics/ returns only own TAH record whos-who-1856 + index/source-hub rollups. Given-name grep 啟明 hits only different people (曾啟明, 黃啟明, 楊啟明) in unrelated records. HOLD on era 1912–1958 stands. -->
