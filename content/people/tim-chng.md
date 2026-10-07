@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-06
 ---
 # Tim Chng (莊騰程)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-09-27
 - 2026-09-25 deepen-x slice 09240800-7: re-verified — fresh grep 莊騰程/Tim Chng returns exactly the linked set (whoswho1688, Pew statement, 228 oral-history page, open letter); no new corpus material. Verified-saturated, SKIP.
 - 2026-09-26 deepen-x slice 09251000-26: re-grep returns the identical linked set (whoswho1688, works index, open letter, Pew statement, 228 oral-history page); no new corpus material. Verified-saturated, SKIP.
 - 2026-09-27 deepen-x slice 09260600-11: fresh grep (莊騰程 / Tim Chng, works+articles) — hit set identical (whoswho1688, works index, open letter, Pew statement, 228 oral-history page), all linked above. Verified-saturated, SKIP.
+- 2026-10-06 deepen-x slice 10051340-14: fresh grep across works/articles/sources/events/topics (莊騰程 / Tim Chng / Chng surname) — hit set identical (whoswho1688, open letter, Pew statement, 228 oral-history page, sources index); surname-only sweep found no additional person. Verified-saturated, SKIP.
 
 ## Sources
 - [TAH #1688 encyclopedia: 1688. Tim Chng 莊騰程 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1688/)
