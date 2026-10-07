@@ -1,0 +1,4 @@
+people/kelly-lin.md
+people/frank-m-hsu.md
+people/jean-cheng.md
+organizations/stc-management.md

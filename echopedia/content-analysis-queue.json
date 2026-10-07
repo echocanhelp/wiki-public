@@ -1,10 +1,39 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "standards_version": 10,
   "total_pages_scanned": 2930,
-  "pages_with_findings": 6,
-  "auto_queued": 0,
-  "queue": [],
-  "suppressed_findings": 2253,
-  "fp_history_entries": 2322
+  "pages_with_findings": 8,
+  "auto_queued": 2,
+  "queue": [
+    {
+      "path": "people/chih-y-kuo.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_HIGH_DENSITY"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/felix-liu.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    }
+  ],
+  "suppressed_findings": 2248,
+  "fp_history_entries": 2324
 }

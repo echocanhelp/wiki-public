@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-06",
+  "total_actions": 4,
+  "priorities": {
+    "high": 0,
+    "medium": 4,
+    "low": 0
+  },
+  "evaluated": [
+    {
+      "page": "people/felix-liu.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "page_type": "people",
+      "inbound_links": 6,
+      "type_weight": 1.5,
+      "finding_weight": 1.0,
+      "score": 9.0,
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/chih-y-kuo.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "page_type": "people",
+      "inbound_links": 3,
+      "type_weight": 1.5,
+      "finding_weight": 1.0,
+      "score": 4.5,
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/chih-y-kuo.md",
+      "finding": "LINKS_HIGH_DENSITY",
+      "finding_prefix": "LINKS_HIGH_DENSITY",
+      "action": "UNKNOWN_FINDING_TYPE",
+      "detail": "No action mapping for finding: LINKS_HIGH_DENSITY",
+      "playbook": "P8",
+      "page_type": "people",
+      "inbound_links": 3,
+      "type_weight": 1.5,
+      "finding_weight": 1.0,
+      "score": 4.5,
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/felix-liu.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "page_type": "people",
+      "inbound_links": 6,
+      "type_weight": 1.5,
+      "finding_weight": 0.5,
+      "score": 4.5,
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    }
+  ]
+}

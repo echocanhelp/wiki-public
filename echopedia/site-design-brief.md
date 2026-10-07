@@ -1,6 +1,6 @@
-## Site design audit — 2026-10-06 00:30
+## Site design audit — 2026-10-07 00:30
 
-- pages_md=15116
+- pages_md=15105
 - critical=0 high=2 medium=1
 - heals_suggested=publish
 
@@ -8,27 +8,18 @@
 - **SITE_DESIGN_STATUS: ACTION**
 
 ### HIGH (2)
-- **A3** MD without HTML: 13 (recent≤7d: 12) `[heal:publish]`
-  - `people/dr-ching-k-lin.md.md`
-  - `people/dr-tong-y-chen.md.md`
-  - `people/dr-ying-yuan-lee.md.md`
-  - `people/grace-lin.md.md`
-  - `people/james-hu.md.md`
-  - `people/k-h-huang.md.md`
-  - `people/kenneth-wang.md.md`
-  - `people/li-lin-cheng.md.md`
+- **A3** MD without HTML: 2 (recent≤7d: 1) `[heal:publish]`
+  - `people/林芸.md`
 - **B3** new/changed MD missing HTML (≤7d) `[heal:publish]`
-  - `people/dr-ching-k-lin.md.md`
-  - `people/dr-tong-y-chen.md.md`
-  - `people/dr-ying-yuan-lee.md.md`
-  - `people/grace-lin.md.md`
-  - `people/james-hu.md.md`
-  - `people/k-h-huang.md.md`
-  - `people/kenneth-wang.md.md`
-  - `people/li-lin-cheng.md.md`
+  - `people/林芸.md`
 
 ### MEDIUM (1)
 - **F4** people/index.html is 1514464 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
+
+### LOW (1)
+- **C1** spelling signals (sample): 2 `[AGENT_SUGGESTED]`
+  - `dr-ei-shun-lin.md: teh→the`
+  - `june-lin.md: ?substring`
 
 ### INFO (2)
 - **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
@@ -38,7 +29,7 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 1534
+- **B1** person/org touched ≤7d (rely on recency featured window): 1558
   - `people/a-n-liu.md`
   - `people/abby-hong.md`
   - `people/adam-chang.md`

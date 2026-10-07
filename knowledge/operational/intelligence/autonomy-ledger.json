@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
@@ -23,7 +23,7 @@
       "n": 40
     },
     "kanban.blocked": {
-      "n": 16
+      "n": 17
     },
     "kanban.auto_go": {
       "enabled": false
@@ -38,17 +38,19 @@
     },
     "cron.fail": [
       "memory-audit",
+      "echopedia-ci-heal",
       "go-router-monthly-audit"
     ]
   },
   "telegram_auto_lines": [
     "✅ AUTO analyzer scanned 2930 queued 0 suppressed 2253",
     "🟡 QUEUE janitor HOLD leftover 40",
-    "🟡 QUEUE kanban blocked 16",
-    "🔴 NEED YOU cron fail: memory-audit, go-router-monthly-audit"
+    "🟡 QUEUE kanban blocked 17",
+    "🔴 NEED YOU cron fail: memory-audit, echopedia-ci-heal, go-router-monthly-audit"
   ],
   "cron_fail_names": [
     "memory-audit",
+    "echopedia-ci-heal",
     "go-router-monthly-audit"
   ]
 }
