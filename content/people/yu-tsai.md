@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # Yu Tsai (蔡羽)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 > Re-verified 2026-10-01 (slice 09261300-2): fresh ZH+EN grep re-run over content/works + content/articles — hit-set unchanged (TAH #916 + Our Journeys #37 + index). OJ #37 body text checked in full: TAI/Bay Area organizational history, no 蔡羽 narrative; his name is a subject-tag on the record only. Nothing new absorbable — CLOSING as saturated.
+> Re-verified 2026-10-06 (slice 10051314-2): fresh grep (蔡羽/Yu Tsai) across works/articles/sources/events/topics — hit-set unchanged (TAH #916 + OJ #37 subject-tag + index/sources). Verified saturated.
