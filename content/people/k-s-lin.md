@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-06
 ---
 # K. S. Lin (林高山)
 
@@ -46,6 +46,8 @@ _No filled family fields on the TAH profile._
 > Corpus re-verified 2026-09-25 (slice 09231200-31): fresh grep 林高山/K. S. Lin of works/ + articles/ returned only works/index.md pointing at the already-linked essays #1090/#1137/#1138 and biography #1528; no new absorbable material — SKIP-with-reason.
 
 > Corpus re-verified 2026-10-01 (slice 09261100-9): fresh ZH+EN grep of works/ + articles/ returns the identical hit set — essay records 1090/1137/1138, biography #1528, and the works/index.md listings. No third-party memoir or article names him; verified saturated, no new absorbable material — SKIP-with-reason.
+
+> Corpus re-verified 2026-10-06 (slice 10051200-6): fresh ZH+EN grep 林高山/K. S. Lin across works/articles/sources/events/topics returns the identical hit set — essay records #1090/#1137/#1138, biography #1528, and index listings. No third-party memoir or article names him — verified saturated, no new absorbable material.
 
 ## Sources
 - [TAH #1528 encyclopedia: 1528. K. S. Lin 林高山 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1528/)
