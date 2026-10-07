@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-07
 ---
 # Michellee Shaw Chen (陳美真理)
 
@@ -48,6 +48,7 @@ last_reviewed: 2026-09-30
 - Corpus re-scan 2026-09-25 (deepen-x slice 09230900-27): fresh grep (Michellee / 陳美真理) — hit set identical (#871 + works index); verified saturated, SKIP content-deepen.
 - Corpus re-scan 2026-09-25 (deepen-x slice 09250317-24): fresh grep (Michellee / 陳美真理) across works + articles — hit set unchanged (#871 + works index only); saturated, no new facts.
 - Corpus re-scan 2026-09-26 (deepen-x slice 09251527-14): fresh grep (Michellee / 陳美真理) — hit set identical (#871 + works index); verified saturated, SKIP content-deepen.
+- Corpus re-scan 2026-10-07 (deepen-x slice 10051400-27): fresh ZH+EN grep across works/articles/sources/events/topics — hit set unchanged (#871 + sources digest). The other 'Shaw Chen' hits (蕭永真 / Enchin Shaw Chen family records: whos-who-473, senior-taiwanese-american-3, ff343, ff292, photo-albums-111) contain no Michellee/陳美真理 mention — they belong to her grandfather's line, already covered by the family wikilinks above. Verified-saturated; no new facts, no conflicts.
 
 ## Sources
 - [TAH #871 encyclopedia: 871. Michellee Shaw Chen 陳美真理/ 2016/03](https://taiwaneseamericanhistory.org/whos871-michellee-shaw-chen/)
