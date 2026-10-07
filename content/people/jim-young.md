@@ -68,3 +68,4 @@ For more bio information, please click link in Who’s Who: 971. Cheng-I (Jim) Y
 - 覆核（deepen-x slice 09250800-4, 2026-09-25）：fresh grep 楊正義／Jim Young／Cheng-I — hit set unchanged (ourjourneys76/-eng, our-journeys-378, whoswho971, atists62, index)；378 之 1997 條目已吸收並保留 HOLD。驗證已飽和 — SKIP。
 
 <!-- TJJ-A10040600-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-5 article 2777c88877eee2c5（Tag: 長青教室 標籤彙整頁, 2024-06-20 快照, 正文條目 2016-11-19〜2017-05-25）: subject link re-checked vs 正文 this attempt — 「楊正義博士講『攝影的藝術』(2 videos)◎長青教室」條目具名，真實提及，無錯鏈、無虛鏈；含該文 wikilink 之日期事實條目已在庫 — saturated, no new material. -->
+<!-- TJJ-A10060800-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-1 article 2777c88877eee2c5 (Tag: 長青教室 p3, 2024-06-20 快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
