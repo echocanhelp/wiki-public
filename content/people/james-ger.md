@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # James Ger (葛原隆醫師)
 
@@ -58,3 +58,5 @@ Re-verified 2026-09-25 (deepen-x slice 09250400-10): identical hit set (own-byli
 Re-verified 2026-09-26 (deepen-x slice 09252123-8): identical hit set (own-bylines #625, #385 + works index) — corpus-saturated, SKIP.
 
 <!-- deepen-x slice 10051918-2 (2026-10-07): deepened — added corpus link 386. Janice Ger 吳瑩瑛 (2015-04-27, same-day publication as his #385), previously uncited in this page; grep otherwise confirms own-bylines-only footprint (#625, #385, #386, mystories236 + index). -->
+
+<!-- deepen-x slice 10070500-7 (2026-10-08): SKIP re-verified — grep (葛原隆/James Ger/吳瑩瑛/Janice Ger) returns only own-bylines #625, #385, #386, mystories236 + sources rollup — all already wikilinked above. No third-party memoir mentions. Verified saturated. -->

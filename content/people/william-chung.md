@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # William Chung (鍾桂榮博士)
 
@@ -54,3 +54,5 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 10051909-30 re-grep 2026-10-07: ZH+EN grep across all five corpus dirs returns hit set identical to prior runs (ourjourneys-138, ourjourneys58, own record 673, sources rollup) — all already wikilinked; 桂榮 hits are 王桂榮 (different person). Verified saturated — SKIP-with-reason stands. -->
+
+<!-- deepen-x slice 10070500-7 (2026-10-08): SKIP re-verified — ZH+EN grep (鍾桂榮/William Chung/William K. Chung) returns hit set identical to prior runs (ourjourneys-138, ourjourneys58, own record 673, sources rollup) — all already wikilinked; 桂榮 hits are 王桂榮 (different person). Verified saturated. -->

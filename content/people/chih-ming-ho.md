@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chih-Ming Ho (何志明)
 
@@ -55,3 +55,5 @@ His TAH Foundation Who's Who entry is held in the corpus as [[works/taiwaneseame
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 10051909-30 re-grep 2026-10-07: fresh ZH+EN+surname(志明) grep across works/articles/sources/events/topics returns only own whoswho1475 + works/sources index rollups; surname hits belong to others (陳志明 in ourjourneys219 NJIT talk, 王桂榮 elsewhere). Verified saturated — SKIP-with-reason stands. -->
+
+<!-- deepen-x slice 10070500-7 (2026-10-08): SKIP re-verified — ZH+EN+surname(志明) grep across all five corpus dirs returns only own whoswho1475 + sources rollup; 志明 hits belong to 陳志明 (ourjourneys219 NJIT talk, whos-who-1938 Chih-Ming Chen) — different person. Verified saturated. -->
