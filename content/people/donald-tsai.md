@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Donald Tsai (蔡豪智)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- DEEPEN-X SKIP 2026-10-01: corpus re-grep (ZH+EN names, works+articles) — hits are only own TAH record + index co-listings. No third-party memoir mentions. SKIP-deepen stands; page saturated at HEAD. -->
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070700-15): five-dir grep (works/articles/sources/events/topics) for 蔡豪智 / Donald Tsai / 豪智 — hits are only own TAH record whoswho1468, works/index, sources listing. No third-party memoir mentions anywhere. SKIP-deepen stands; page saturated. -->

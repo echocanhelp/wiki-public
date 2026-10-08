@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Ching-Yu Soar Huang (黃菁瑜)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whowwho1215|TAH #1215: Ching-Yu Soar Huang 黃菁瑜]]
 
 <!-- deepen-x slice 09251031-18 2026-09-26: re-grep (ZH+EN) — hits remain only own record whowwho1215 + works index; 胡瀞云 (Ching-Yun Hu) still a different person. SKIP: no new corpus material. -->
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070700-15): five-dir grep (works/articles/sources/events/topics) for 黃菁瑜 / Ching-Yu Soar Huang / Soar Huang / 菁瑜 — hits are only own TAH record whowwho1215, works/index, sources listing. 胡瀞云 (Ching-Yun Hu, TAH #572) confirmed different person again. No absorbable corpus material; page saturated. -->

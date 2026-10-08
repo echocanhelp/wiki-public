@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Forest Yang (楊舜惠)
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070700-15): five-dir grep for Forest Yang / 楊舜惠 / 舜惠 — only own record whoswo1786, works/index, sources listing, plus 舜惠 in 楊嘉猷's 「咱的故鄉 咱的故事」 memoirs (author's eldest daughter, different person — disambiguation holds). No absorbable corpus material; page saturated. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Prof. Tien-Her Wang (王天合教授)
 
@@ -45,3 +45,5 @@ last_reviewed: 2026-10-01
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070700-15): five-dir grep for 王天合 / Tien-Her / 天合 — 王天合 and Tien-Her hits are only own record whos-who-2261 + works/index + sources listing. The bare surname-given grep 天合 returns false positives only (「今天合辦」= "co-hosted today" in taiwanjustice news articles, e.g. 歐盟亞洲研究所今天合辦論壇) — NOT this person. Do not absorb those hits. Page saturated. -->
