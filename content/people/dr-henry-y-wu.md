@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Dr. Henry Y. Wu (吳銀鏤醫師)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x 09300321-3: re-verify 2026-10-04 — fresh ZH+EN grep (works+articles): hits = OJ#24, OJ#24-eng, OJ#53-eng, own TAH #1875, works/index — identical to prior re-verifies, all absorbed+wikilinked; articles/ tree adds 0 hits. Verified-saturated; SKIP-no-new-facts. -->
 - Corpus re-grep 2026-10-06 (slice 10051340-2): fresh ZH+EN grep across works/articles/sources/events/topics returns the hit set already absorbed+wikilinked above. Verified-saturated; SKIP-no-new-facts.
+- Corpus re-grep 2026-10-08 (slice 10062334-2): fresh ZH+EN grep (吳銀鏤 / Henry Y. Wu) across works/articles/sources/events/topics returns the identical hit set (ourjourneys24/-eng, ourjourneys53-eng, whos-who-1875, index), all already absorbed+wikilinked above. Verified-saturated; SKIP-no-new-facts.

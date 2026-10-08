@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Y. T. Yan (顏裕庭)
 
@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - 2026-09-26 (slice 09251500-3): corpus re-grepped — identical hit set (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863), all already linked above; saturated, SKIP.
 - 2026-10-04 (slice 09300321-10): corpus re-grepped — identical 6 hits (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863), all already linked above; saturated, SKIP.
 - Corpus re-grep 2026-10-06 (slice 10051340-2): fresh ZH+EN grep across works/articles/sources/events/topics returns the hit set already absorbed+wikilinked above. Verified-saturated; SKIP-no-new-facts.
+- Corpus re-grep 2026-10-08 (slice 10062334-2): fresh ZH+EN grep (顏裕庭 / Y. T. Yan) across works/articles/sources/events/topics returns the identical hit set (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863), all already absorbed+wikilinked above. Verified-saturated; SKIP-no-new-facts.
