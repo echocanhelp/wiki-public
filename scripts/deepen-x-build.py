@@ -78,30 +78,59 @@ def demand_counts():
 SATURATED_RE = re.compile(r'(hits.?hash|verified.?saturation|SATURATION)', re.I)
 
 
+SECTIONS = ('Works', 'Timeline', 'Network', 'Quotes')
+# Pages that are NOT thin by byte count but still lack structure. The byte gate alone was
+# the reason DEEPEN-X reported "0 deepened, 4 skipped" repeatedly: it selects pages that are
+# SHORT, while the real gap is pages that are long and unstructured. Measured 2026-10-08:
+# Works 4.0% / Timeline 17.4% / Network 6.3% / Quotes 3.5% of 2,430 person pages, and the
+# top-ranked candidate (lai-ching-te, ~23 KB) is invisible to a <5000-byte selector.
+SECTION_AWARE = os.environ.get('DEEPEN_SECTION_AWARE', '1') != '0'
+
+
+def missing_sections(text: str) -> list[str]:
+    return [s for s in SECTIONS
+            if not any(re.match(r'^##\s+' + s, line) for line in text.splitlines())]
+
+
 def thin_pages(mentions, inlinks):
-    """Returns (value-ranked thin pages, saturated_skipped, no_material_skipped)."""
+    """Returns (value-ranked pages, saturated_skipped, no_material_skipped).
+
+    Two selection paths, both gated on corpus material existing:
+      A. thin by size (<THIN_BYTES)  -- the historical rule
+      B. structurally incomplete     -- missing >=1 of Works/Timeline/Network/Quotes,
+         regardless of length. This is what actually moves the coverage numbers.
+    """
     rows = []
     saturated = 0
     no_material = 0
+    seen = set()
     for pat in ('content/people/*.md', 'content/organizations/*.md'):
-        for f in glob.glob(str(REPO / pat)):
+        for f in sorted(glob.glob(str(REPO / pat))):
             size = os.path.getsize(f)
-            if size >= THIN_BYTES:
-                continue
             rel = os.path.relpath(f, REPO / 'content')
             slug = Path(f).stem
+            if rel in seen:
+                continue
             text = Path(f).read_text(errors='replace')
+            thin = size < THIN_BYTES
+            miss = missing_sections(text) if SECTION_AWARE else []
+            if not thin and not miss:
+                continue                      # long AND structured: nothing to do
+            if not thin and len(miss) < 2:
+                continue                        # one gap on a big page is not a card
+            seen.add(rel)
             if SATURATED_RE.search(text):
                 saturated += 1  # verified-saturated: re-grep is SKIP work, not progress
                 continue
             mat = mentions.get(slug, 0)
             if mat == 0:
-                no_material += 1  # thin by byte count only; deepening = invented bio
+                no_material += 1  # no corpus material; deepening here = invented bio
                 continue
-            # material first (can we do the work?), demand next, size as tie-break
-            rows.append((-mat, -inlinks.get(slug, 0), -size, rel))
+            # material first (can we do the work?), then how much structure is missing,
+            # then demand, then size as tie-break
+            rows.append((-mat, -len(miss), -inlinks.get(slug, 0), -size, rel))
     rows.sort()
-    return [rel for _m, _d, _s, rel in rows], saturated, no_material
+    return [rel for *_k, rel in rows], saturated, no_material
 
 
 # --- 2. dedupe on PAGE PATHS held by open cards ------------------------------
