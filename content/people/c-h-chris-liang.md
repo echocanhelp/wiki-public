@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # C.H. Chris Liang (梁志宏)
 
@@ -43,6 +43,7 @@ Accomplishment
 - 語料複核（deepen-x 09250400-30, 2026-09-25）：再檢 content/works + content/articles（中英雙查），命中集僅自身條目 whos-who-2055 與 index，無新增可吸收材料。Verified-saturated.
 - 語料複核（deepen-x 09252123-23, 2026-09-26）：再檢 content/works + content/articles（中英雙查），命中集僅自身條目 [[works/taiwaneseamericanhistory-org/whos-who-2055-c-h-liang|whos-who-2055]] 與 index，無新增可吸收材料。TACPA 會長的既有記述已是語料全部佐證。Verified-saturated.
 - 語料複核（deepen-x slice 10051918-1, 2026-10-07）：再檢 content/works + articles + sources + events + topics（中英雙查＋姓氏查），命中集僅自身條目 whos-who-2055 與 index，無任何其他命中。Verified-saturated.
+- 語料複核（deepen-x slice 10070500-14, 2026-10-08）：再檢 works/articles/sources/events/topics（中英＋姓氏「志宏」雙查），命中集僅自身條目 [[works/taiwaneseamericanhistory-org/whos-who-2055-c-h-liang|whos-who-2055]] 與 index；其餘「志宏」命中為 詹志宏、梁文傑 等台灣內政新聞人物，非本人。Verified-saturated.
 
 ## Sources
 - [TAH #2055 encyclopedia: 2055.  C.H. (Chris) Liang 梁志宏](https://taiwaneseamericanhistory.org/whos-who-2055-c-h-liang/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # HsinKuang Chen (陳信光)
 
@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 
 > SKIP re-check (deepen-x 09261200-10, 2026-10-01): ERE grep of content/works + content/articles for `HsinKuang Chen|陳信光` returns only [[works/taiwaneseamericanhistory-org/whoswho1494|TAH #1494]] + the works index — identical hit set, both already linked above. CTAI org page and #1494 wikilinks verified resolvable (files exist). No memoir names him; saturated.
 > SKIP re-check (deepen-x 10051918-10, 2026-10-07): fresh grep of works/articles/sources/events/topics for `陳信光|HsinKuang` (+ surname-given-name variants) returns only [[works/taiwaneseamericanhistory-org/whoswho1494|TAH #1494]], the works index, and the sources hub. The one extra 信光 hit (taiwanjustice article) is a substring in 深信光靠選舉路線, not a name; the other is 謝信光 (Rev. Xie Xinguang, NTPC), a different person. No memoir material; saturated.
+
+> SKIP re-check (deepen-x 10070500-14, 2026-10-08): fresh grep 陳信光|HsinKuang (+surname-only 信光) across works/articles/sources/events/topics returns only own [[works/taiwaneseamericanhistory-org/whoswho1494|TAH #1494]], the works index, and the sources hub. The 信光 substring hits are 謝信光 (different person) and 深信光靠選舉路線 (not a name). No memoir material; verified-saturated.
