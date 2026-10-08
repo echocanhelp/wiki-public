@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Peter C. Y. Chow (周鉅原博士)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-check 2026-10-01 (slice 09261000-31): fresh grep of works/ + articles/ for 周鉅原 / Peter C. Y. Chow — still only mystories257, the 225 profile record, and the index. Verified saturated; nothing new to absorb.
 - 2026-10-07 覆核（deepen-x slice 10051918-5）：ZH+EN+變體名再查 works/articles/sources/events/topics 五庫，命中集合與前次相同（自身 TAH 檔案與已 wikilink 紀錄），飽和無新料可吸收。
+- 2026-10-08 re-check (deepen-x slice 10070500-18): fresh five-dir grep (周鉅原 / Peter C. Y. Chow) returned only mystories257, the 225 profile record, works/index and the sources page — all already linked; verified saturated, nothing new to absorb.

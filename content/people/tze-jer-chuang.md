@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Tze-jer Chuang (莊子哲)
 
@@ -58,3 +58,5 @@ _No filled family fields on the TAH profile._
 > SKIP re-check (deepen-x 09261100-22, 2026-10-01): fresh ZH+EN grep (莊子哲/Tze-jer Chuang) of content/works + content/articles returned only own record 741 + works/index.md — no memoir or community mentions; SKIP stands.
 
 > SKIP re-check (deepen-x 10051918-11, 2026-10-07): fresh grep (莊子哲 / Tze-jer / 子哲 / Chuang) across all five corpus dirs returned only own record 741 + index; other Chuang hits are distinct people (莊承業 ourjourneys318, Eddie Chuang our-journeys-370, 莊六雄 ourjourneys-138, Henry Chuang 莊英煌 whos-who-2302). No memoir or community mentions; SKIP stands.
+
+> SKIP re-check (deepen-x 10070500-18, 2026-10-08): fresh five-dir grep (莊子哲 / Tze-jer Chuang / 子哲) returned only own record 741 + works/index; remaining hits are substring false positives (老子「子哲」學 in publications1143, ourjourneys39) with no true mentions of this person. No memoir or community material; SKIP stands.

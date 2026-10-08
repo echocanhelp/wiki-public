@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Zwu-Shi Lin (林竹信)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09250600-21 recheck 2026-09-25: SKIP — fresh ZH+EN grep (林竹信/Zwu-Shi) matched only own whoswho1343 work page and works index; no independent memoir/article material. -->
 <!-- deepen-x slice 09261200-6 recheck 2026-10-01: SKIP — fresh ZH+EN grep (林竹信/Zwu-Shi) of works/+articles again matched only this person's own TAH Who's Who work page (whoswho1343) and the works index; hit set identical, no independent memoir/article material to absorb. -->
 <!-- deepen-x slice 10051918-13 recheck 2026-10-07: SKIP — expanded five-dir grep (works/articles/sources/events/topics, 林竹信 + Zwu-Shi + surname) returns only own record whoswho1343, works/index row, and sources/taiwaneseamericanhistory-org.md; the taiwanjustice-net article hits are false positives (substring 林保華/林, zero 林竹信 occurrences on content match). Verified saturated. -->
+<!-- deepen-x slice 10070500-18 recheck 2026-10-08: SKIP — fresh five-dir grep (林竹信 / Zwu-Shi Lin) again matched only own whoswho1343 work page, works/index, and sources page; hit set identical to prior passes. Verified saturated, nothing new to absorb. -->
