@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Che-Hsuan Lin (林哲瑄)
 
@@ -35,6 +35,7 @@ Corpus check (2026-09-22 re-verify, deepen-x 09210900-13; re-verified 2026-09-25
 
 - Re-verified 2026-10-01 (deepen-x slice 09261400-15): fresh ZH+EN grep over works/ + articles/ returns only the own Who's Who entry in works/index.md — SKIP-with-reason unchanged: no memoir/movement material to absorb.
 - Re-swept 2026-10-07 (deepen-x slice 10051948-24): fresh ZH+EN+given-name grep (林哲瑄 / Che-Hsuan Lin / 哲瑄) across all five corpus dirs (works/articles/sources/events/topics) — hits limited to own record [[works/taiwaneseamericanhistory-org/whos-who-1747-che-hsuan-lin|1747. Che-Hsuan Lin 林哲瑄]] (band B, published 2017-07-07), works/index.md, and the roster listing in sources/taiwaneseamericanhistory-org.md. No memoir/movement material to absorb. SKIP (verified-saturated).
+- Re-swept 2026-10-08 (deepen-x slice 10070600-13): fresh ZH+EN+given-name grep (林哲瑄 / Che-Hsuan Lin / 哲瑄) across all five corpus dirs — hits limited to own record [[works/taiwaneseamericanhistory-org/whos-who-1747-che-hsuan-lin|1747. Che-Hsuan Lin 林哲瑄]], works/index.md, and the roster in sources/taiwaneseamericanhistory-org.md. SKIP (verified-saturated).
 
 ## Family
 
