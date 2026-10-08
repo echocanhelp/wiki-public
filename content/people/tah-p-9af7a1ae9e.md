@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # 陳金松
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09250600-5: SKIP — fresh ZH+EN grep (陳金松/Jin Song Chen) of works/+articles/: hit set identical (own #223/#463 records + works/index.md only); nothing absorbable; HOLD (roles) stands. -->
 <!-- deepen-x 09261100-22: SKIP — fresh ZH+EN grep (陳金松/Jin Song Chen) of works/+articles/: hit set identical (own #223/#463 records + works/index.md only); no external corpus coverage; nothing absorbable; HOLD (roles) stands. -->
 <!-- deepen-x 10051400-8: SKIP — fresh ZH+EN grep across works/articles/sources/events/topics (陳金松/Jin Song Chen/Jinsong Chen): hit set identical (own #223/#463 + index + source page only); verified-saturated; HOLD (roles) stands. -->
+<!-- deepen-x 10070315-16: re-verify 2026-10-08 — fresh grep (陳金松/Jin Song Chen/Jinsong, plus 金松 surname sweep) across all five corpus dirs: only own #223/#463 + index/source. Peabody/Antioch/Catonsville anchors return no third-party mentions. Verified-saturated, SKIP; HOLD (artist-educator vs Tenor/Conductor) stands. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # C. H. Chen (陳初雄)
 
@@ -44,3 +44,4 @@ Grep (ZH+EN, works/+articles): 陳宜蓁/Yi-Chen Chen → own TAH records 244+50
 RESULT: 0 deepened, 4 SKIP-with-reason (pages saturated at HEAD; nothing new absorbable in corpus).
 
 <!-- deepen-x 10051400-8: SKIP — fresh ZH+EN grep across all five corpus dirs (陳初雄/C. H. Chen): hits = own whoswho1734 + ourjourneys260 + index/source pages only; both records already absorbed in Role in the Community; verified-saturated. -->
+<!-- deepen-x 10070315-16: re-verify 2026-10-08 — fresh grep (陳初雄/C. H. Chen) across all five corpus dirs: own whoswho1734 + ourjourneys260 + index/source only, both already absorbed. Cross-checked 2014 East Stroudsburg 夏令會 memoirs (ourjourneys153/159, summer-camps) — they credit 林素梅 as 總召集人 and do not name him; no additional third-party attribution. Verified-saturated, SKIP. -->
