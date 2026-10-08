@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. B. S. Lu (呂邦雄醫師)
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-10-07
 - 2026-09-26 deepen-x slice 09251039-13: re-grep (ZH+EN) again zero new corpus mentions — same two hits (own record + works index). Nothing absorbable this pass.
 
 - 2026-10-07 deepen-x slice 10051948-28: fresh five-dir grep (ZH+EN+surname/variant probes) — hit set unchanged (own encyclopedia record + works index + sources page only); nothing absorbable, SKIP re-confirmed.
+- 2026-10-08 deepen-x slice 10070700-5: knowledge/web-archives sweep (posts + person JSON) adds nothing beyond the press-kit profile (residence IL, wife 林渝英, Chicago-area practice — all already on page); 邦雄 substring hits are 黃邦雄/呂姓 other people. Verified-saturated, SKIP re-confirmed.
 
 ## Family
 

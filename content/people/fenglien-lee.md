@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Fenglien Lee (李鳳霖)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- DEEPEN-X SKIP 2026-10-07 (slice 10052007-1): fresh five-dir grep (ZH+EN+鳳霖 substring+variant spellings) — only own #814 record + index; affiliation probes (University of Guam/Winston-Salem) hit unrelated articles. Verified-saturated; SKIP stands. -->
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070700-5): knowledge/web-archives sweep (posts + person JSON) adds no community material beyond the press-kit profile (residence Mangilao Guam, career table already absorbed); content/ greps unchanged. Verified-saturated. -->
