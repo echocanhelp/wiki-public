@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Shih Pao Lin (林世寶)
 
@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10070315-32 2026-10-08: re-scan ZH+EN (林世寶/Shih-Pao Lin/世寶) across all five corpus dirs — hits = own artist8 + whoswho1102 + index/source lists only; no other community mentions. SKIP. -->

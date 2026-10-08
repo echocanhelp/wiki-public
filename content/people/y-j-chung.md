@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Y. J. Chung (鍾宜君)
 
@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10070315-32 2026-10-08: re-scan ZH+EN+surname across all five corpus dirs — hit set unchanged (mystories100, ourjourneys245, whoswho1164, index), all already linked above. 宜君 surname hits are 姜宜君 (鄉音合唱團指揮), a different person — excluded. Nothing further absorbable. SKIP. -->
