@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Jin-Shei Lai (賴金雪教授)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09250500-29: re-verify 2026-09-25 — fresh ZH+EN grep: own whos-who-1997 record + works index only; nothing new absorbable. -->
 <!-- deepen-x 10051918-24: re-verify 2026-10-07 — fresh grep 賴金雪/Jin-Shei/金雪 across works/articles/sources/events/topics: own whos-who-1997 record + index only. Verified-saturated; nothing absorbable. -->
+<!-- DEEPEN-X re-check 2026-10-08 (slice 10070600-9): fresh five-dir ZH+EN greps (賴金雪 / Jin-Shei Lai / 金雪) — hit set unchanged: own [[works/taiwaneseamericanhistory-org/whos-who-1997-jin-shei-lai|TAH #1997]] + works/index + source page. Verified-saturated; nothing absorbable, no conflicts. -->

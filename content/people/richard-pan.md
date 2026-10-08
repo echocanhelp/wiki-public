@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Richard Pan (潘君達博士)
 
@@ -48,3 +48,5 @@ Member, Committee on Agriculture, Committee on Appropriations, and Committee on 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- DEEPEN-X re-check 2026-10-08 (slice 10070600-9): fresh five-dir ZH+EN greps (潘君達 / Richard Pan) across works/articles/sources/events/topics — hit set unchanged: own TAH record #127 + works/index + source page. Verified-saturated; nothing absorbable, no conflicts. -->
