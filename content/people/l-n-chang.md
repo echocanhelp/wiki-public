@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # L. N. Chang (張麗娜)
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 - 2026-09-26 re-verified (deepen-x slice 18): fresh grep again returns only TAH #1941 own record — SKIP-with-reason: nothing absorbable.
 
 <!-- deepen-x 10051948-31 2026-10-07: five-dir re-grep (ZH+EN+Cincinnati VA/Western Dental variants) — own record whos-ln-chang + index rows only; 麗娜 hits are 黃麗娜 (TACF/促進會 officer, 不同人) and 陳麗娜 (2020 國民黨立委候選人, 不同人). No absorbable community material. SKIP. -->
+- Re-verified 2026-10-08 (deepen-x slice 10070600-30): five-dir sweep (張麗娜 / L. N. Chang / 麗娜) — same hit set: own record [[works/taiwaneseamericanhistory-org/whos-ln-chang|#1941]] + index rows; 麗娜 hits remain 黃麗娜 (首府區促進會 officer, 不同人) and unrelated articles. SKIP stands.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Benjamin Wu (吳旭淳博士)
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 SKIP-with-reason (re-verified 2026-10-07, slice 10052007-8): greps '吳旭淳' / 'Benjamin Wu' / given-name '旭淳' across works/, articles/, sources/, events/, topics/ return only his own TAH record [[works/taiwaneseamericanhistory-org/11028|301. Benjamin Wu 吳旭淳 (bibliographic stub)]] and the works index. No community memoirs or movement records mention him; nothing absorbable; no biography invented.
+- Re-verified 2026-10-08 (deepen-x slice 10070600-30): five-dir sweep again — same hit set (own record + index rows); the lone fuzzy article hit is 吳旭智 (2020 國會政黨聯盟 candidate, 不同人). SKIP stands.
