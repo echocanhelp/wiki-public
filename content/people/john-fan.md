@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # John Fan (樊立勳博士)
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-10-07
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-25 (deepen-x slice 09250500-9): fresh ZH+EN grep returns the same set — whoswho1269, inside-piccollage, works index, John Fanestil article (different person). SKIP-with-reason: no new community material.
+<!-- deepen-x 10070315-4: verified-saturated — wide ZH+EN grep 2026-10-08 across works/articles/sources/events/topics: hit set = whoswho1269 + inside-piccollage + works index + sources hub + John Fanestil article (different person, 約翰·法內斯蒂爾牧師). Surname-only 樊 grep adds only 樊豐美/樊豐忠-family records (ourjourneys27/304, 56, 2041) — no 立勳 mention in any memoir; no new community material. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Esther Chou Lu (周慧香)
 
@@ -43,6 +43,7 @@ last_reviewed: 2026-10-07
 
 - Corpus re-grep 2026-09-26 (slice 09252123-2): fresh ZH+EN grep of works/articles returns only the records already wikilinked above (musician411, whoswho1731, index). Verified saturated; SKIP-content.
 - Corpus re-grep 2026-10-07 (slice 10051340-27): wide ZH+EN grep across works/ + articles/ + sources/ + events/ + topics/ returns only the records already wikilinked above (musician411, whoswho1731 + index/sources hubs). Verified saturated; SKIP-content.
+<!-- deepen-x 10070315-4: verified-saturated — wide ZH+EN grep 2026-10-08 across works/articles/sources/events/topics: hit set = musician411 + whoswho1731 + works index + sources hub, all already wikilinked/absorbed. Alias greps (Chou Lu, 慧香; choir ensembles 明德/知音/風鈴) add nothing. No new community material. -->
 ## Family
 
 _No filled family fields on the TAH profile._
