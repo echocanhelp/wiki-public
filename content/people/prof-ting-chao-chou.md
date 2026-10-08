@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Ting-Chao Chou (周廷潮教授)
 
@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Re-check (deepen-x 10070600-5, 2026-10-08): fresh five-dir grep (周廷潮/廷潮/EN variants) returns only own [[works/taiwaneseamericanhistory-org/whos-who-1844-ting-chao-chou|TAH #1844]] + index/source rows; the two ourjourneys substring hits are Suy-Ming Chou ([[works/taiwaneseamericanhistory-org/ourjourneys74-eng|OJ74]]) and Wei Ting-chao 魏廷超 ([[works/taiwaneseamericanhistory-org/ourjourneys69-eng|OJ69]]) — different people, not absorbed. Verified-saturated, SKIP stands.

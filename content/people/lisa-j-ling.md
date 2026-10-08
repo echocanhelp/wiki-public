@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Lisa J. Ling (凌志慧)
 
@@ -50,3 +50,5 @@ Host of National Geographic Explorer, reality television show, The Job, reporter
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Re-check (deepen-x 10070600-5, 2026-10-08): fresh five-dir grep (凌志慧/Lisa J. Ling/Lisa Ling) returns only own [[works/taiwaneseamericanhistory-org/132-lisa-j-ling-e5-87-8c-e5-bf-97-e6-85-a7|TAH #132]] + index/source rows + sibling page [[people/laura-g-ling|Laura G. Ling 凌志美]]; 凌-only hits in taiwanjustice-net articles are generic news text, not this person. Verified-saturated, SKIP stands.

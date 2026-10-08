@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chih-Wei Hu (胡智為)
 
@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-26 (slice 09251047-3): fresh ZH+EN grep of works/ and articles/ returned only the own TAH record, the works index, and previously-noted mentions (incl. the Marina Lu 盧雅文 name-collision essay) — nothing new absorbable; page held at prior state (SKIP-deepened).
 - Corpus re-grep 2026-10-01 (slice 09261341-11): fresh ZH+EN grep of works/ and articles/ again returned only the own record [[works/taiwaneseamericanhistory-org/whos-who-1746-chih-wei-hu|1746]] and the works index entry — no community-organizing material; SKIP-deepened, no conflicts found.
 - Re-grep 2026-10-07 (deepen-x slice 10051918-28): five-dir grep (works/articles/sources/events/topics, ZH+EN+surname) returned only own TAH #1746 record + index row. Substring hit 胡智 resolves to 胡智博 (Centrum Communications / AltiGen, Our Journeys #19) — a different person, not absorbed. Verified-saturated, SKIP stands.
+
+> Re-check (deepen-x 10070600-5, 2026-10-08): fresh five-dir grep (胡智為/Chih-Wei Hu/simplified 胡智为) returns only own [[works/taiwaneseamericanhistory-org/whos-who-1746-chih-wei-hu|TAH #1746]] + index/source rows; full-name hits outside own record are the people index and sibling page [[people/chin-lung-hu|Chin-Lung Hu 胡金龍]] (roster cross-reference). Verified-saturated, SKIP stands.
