@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Grace Yang (楊蕙安)
 
@@ -51,3 +51,5 @@ Re-swept 2026-10-02 (slice 09261341-30, QA-verify): fresh ZH+EN grep of works/ +
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 10051909-5 recheck 2026-10-07: SKIP — fresh ZH+EN+firm-name grep of all five corpus dirs matched only own record whoswho1300, works/index, and the source hub; 蕙安 surname grep returns zero third-party hits. Verified-saturated, nothing absorbable. -->
+
+<!-- deepen-x slice 10070400-13 recheck 2026-10-08: SKIP — fresh ZH+EN+variant grep across works/articles/sources/events/topics matched only own TAH record, works/index, and the source hub; surname/variant greps returned zero third-party hits. Verified-saturated, nothing absorbable. -->

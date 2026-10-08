@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-08
 ---
 # Julie Su Young (蘇秋莉)
 
@@ -45,3 +45,5 @@ last_reviewed: 2026-09-25
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-25 (deepen-x 09250500-19): fresh ZH+EN grep of works/+articles/ returns the identical hit set already absorbed above (own TAH records + index; David Chan page additionally the chef David Chang false positive). No new community material; page saturated. SKIP-with-reason.
+
+<!-- deepen-x slice 10070400-13 recheck 2026-10-08: SKIP — fresh ZH+EN+variant grep across works/articles/sources/events/topics matched only own TAH record, works/index, and the source hub; surname/variant greps returned zero third-party hits. Verified-saturated, nothing absorbable. -->
