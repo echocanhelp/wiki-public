@@ -18,6 +18,127 @@ Listen below; every piece is listed (not a teaser).
 
 ## Featured pieces
 
+### Leonard Master Test. Master  <a href="#top">#</a>
+
+- slug: leonard-master-test.master · kind: MUSIC · language: zh-TW · produced: 2026-08-28
+- link: [[#slug-leonard-master-test.master|Leonard Master Test. Master]]
+
+- Download: [leonard-master-test.master.wav](/home/leedt/media-outputs/jobs/leonard-master-test.master.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/leonard-master-test.master.wav">
+              Leonard Master Test. Master · MUSIC · zh-TW (2026-08-28)
+            </audio>
+
+### Leonard Instr Clip3  <a href="#top">#</a>
+
+- slug: leonard-instr-clip3 · kind: MUSIC · language: zh-TW · produced: 2026-08-28
+- link: [[#slug-leonard-instr-clip3|Leonard Instr Clip3]]
+
+- Download: [leonard-instr-clip3.wav](/home/leedt/media-outputs/jobs/leonard-instr-clip3.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/leonard-instr-clip3.wav">
+              Leonard Instr Clip3 · MUSIC · zh-TW (2026-08-28)
+            </audio>
+
+### Leonard Instr Clip2  <a href="#top">#</a>
+
+- slug: leonard-instr-clip2 · kind: MUSIC · language: zh-TW · produced: 2026-08-28
+- link: [[#slug-leonard-instr-clip2|Leonard Instr Clip2]]
+
+- Download: [leonard-instr-clip2.wav](/home/leedt/media-outputs/jobs/leonard-instr-clip2.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/leonard-instr-clip2.wav">
+              Leonard Instr Clip2 · MUSIC · zh-TW (2026-08-28)
+            </audio>
+
+### Leonard Instr Clip1  <a href="#top">#</a>
+
+- slug: leonard-instr-clip1 · kind: MUSIC · language: zh-TW · produced: 2026-08-28
+- link: [[#slug-leonard-instr-clip1|Leonard Instr Clip1]]
+
+- Download: [leonard-instr-clip1.wav](/home/leedt/media-outputs/jobs/leonard-instr-clip1.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/leonard-instr-clip1.wav">
+              Leonard Instr Clip1 · MUSIC · zh-TW (2026-08-28)
+            </audio>
+
+### Leonard Hsu Jr Instrumental 48k Master  <a href="#top">#</a>
+
+- slug: leonard-hsu-jr-instrumental-48k-master · kind: MUSIC · language: zh-TW · produced: 2026-08-28
+- link: [[#slug-leonard-hsu-jr-instrumental-48k-master|Leonard Hsu Jr Instrumental 48k Master]]
+
+- Download: [leonard-hsu-jr-instrumental-48k-master.wav](/home/leedt/media-outputs/jobs/leonard-hsu-jr-instrumental-48k-master.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/leonard-hsu-jr-instrumental-48k-master.wav">
+              Leonard Hsu Jr Instrumental 48k Master · MUSIC · zh-TW (2026-08-28)
+            </audio>
+
+### Leonard Hsu Jr Instrumental 210s Mastered  <a href="#top">#</a>
+
+- slug: leonard-hsu-jr-instrumental-210s-mastered · kind: MUSIC · language: zh-TW · produced: 2026-08-28
+- link: [[#slug-leonard-hsu-jr-instrumental-210s-mastered|Leonard Hsu Jr Instrumental 210s Mastered]]
+
+- Download: [leonard-hsu-jr-instrumental-210s-mastered.wav](/home/leedt/media-outputs/jobs/leonard-hsu-jr-instrumental-210s-mastered.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/leonard-hsu-jr-instrumental-210s-mastered.wav">
+              Leonard Hsu Jr Instrumental 210s Mastered · MUSIC · zh-TW (2026-08-28)
+            </audio>
+
+### Leonard Hsu Jr Instrumental 210s Arc  <a href="#top">#</a>
+
+- slug: leonard-hsu-jr-instrumental-210s-arc · kind: MUSIC · language: zh-TW · produced: 2026-08-28
+- link: [[#slug-leonard-hsu-jr-instrumental-210s-arc|Leonard Hsu Jr Instrumental 210s Arc]]
+
+- Download: [leonard-hsu-jr-instrumental-210s-arc.wav](/home/leedt/media-outputs/jobs/leonard-hsu-jr-instrumental-210s-arc.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/leonard-hsu-jr-instrumental-210s-arc.wav">
+              Leonard Hsu Jr Instrumental 210s Arc · MUSIC · zh-TW (2026-08-28)
+            </audio>
+
+### Acestep Master. Master  <a href="#top">#</a>
+
+- slug: acestep-master.master · kind: MUSIC · language: zh-TW · produced: 2026-08-28
+- link: [[#slug-acestep-master.master|Acestep Master. Master]]
+
+- Download: [acestep-master.master.wav](/home/leedt/media-outputs/jobs/acestep-master.master.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/acestep-master.master.wav">
+              Acestep Master. Master · MUSIC · zh-TW (2026-08-28)
+            </audio>
+
+### Leonard Instrumental Test  <a href="#top">#</a>
+
+- slug: leonard-instrumental-test · kind: MUSIC · language: zh-TW · produced: 2026-08-27
+- link: [[#slug-leonard-instrumental-test|Leonard Instrumental Test]]
+
+- Download: [leonard-instrumental-test.wav](/home/leedt/media-outputs/jobs/leonard-instrumental-test.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/leonard-instrumental-test.wav">
+              Leonard Instrumental Test · MUSIC · zh-TW (2026-08-27)
+            </audio>
+
+### Leonard Hsu Jr Instrumental 210s  <a href="#top">#</a>
+
+- slug: leonard-hsu-jr-instrumental-210s · kind: MUSIC · language: zh-TW · produced: 2026-08-27
+- link: [[#slug-leonard-hsu-jr-instrumental-210s|Leonard Hsu Jr Instrumental 210s]]
+
+- Download: [leonard-hsu-jr-instrumental-210s.wav](/home/leedt/media-outputs/jobs/leonard-hsu-jr-instrumental-210s.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/leonard-hsu-jr-instrumental-210s.wav">
+              Leonard Hsu Jr Instrumental 210s · MUSIC · zh-TW (2026-08-27)
+            </audio>
+
+### Leonard Hsu Jr Instrumental  <a href="#top">#</a>
+
+- slug: leonard-hsu-jr-instrumental · kind: MUSIC · language: zh-TW · produced: 2026-08-27
+- link: [[#slug-leonard-hsu-jr-instrumental|Leonard Hsu Jr Instrumental]]
+
+- Download: [leonard-hsu-jr-instrumental.wav](/home/leedt/media-outputs/jobs/leonard-hsu-jr-instrumental.wav)
+
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/leonard-hsu-jr-instrumental.wav">
+              Leonard Hsu Jr Instrumental · MUSIC · zh-TW (2026-08-27)
+            </audio>
+
 ### Leonard Hsu Jr  <a href="#top">#</a>
 
 - slug: leonard-hsu-jr · kind: MUSIC · language: en · produced: 2026-08-27
@@ -29,15 +150,15 @@ Listen below; every piece is listed (not a teaser).
               Leonard Hsu Jr · MUSIC · en (2026-08-27)
             </audio>
 
-### Smoke Instrumental  <a href="#top">#</a>
+### Large Test  <a href="#top">#</a>
 
-- slug: _smoke-instrumental · kind: MUSIC · language: zh-TW · produced: 2026-08-26
-- link: [[#slug-_smoke-instrumental|Smoke Instrumental]]
+- slug: large-test · kind: MUSIC · language: zh-TW · produced: 2026-08-27
+- link: [[#slug-large-test|Large Test]]
 
-- Download: [_smoke-instrumental.wav](/home/leedt/media-outputs/jobs/_smoke-instrumental.wav)
+- Download: [large-test.wav](/home/leedt/media-outputs/jobs/large-test.wav)
 
-<audio controls preload="none" src="/home/leedt/media-outputs/jobs/_smoke-instrumental.wav">
-              Smoke Instrumental · MUSIC · zh-TW (2026-08-26)
+<audio controls preload="none" src="/home/leedt/media-outputs/jobs/large-test.wav">
+              Large Test · MUSIC · zh-TW (2026-08-27)
             </audio>
 
 ### Shante Taigi Chorus a  <a href="#top">#</a>
