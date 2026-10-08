@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Y. H. Liang (梁琰華)
 
@@ -49,3 +49,5 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whoswho1471|1471. Y. H. Liang 梁琰華 / 2017/01]] — TAH 百科紀錄
 <!-- deepen-x sweep 2026-10-07 (slice 10051909-7): fresh ZH+EN grep of works/articles/sources/events/topics for 梁琰華 / Y. H. Liang / General Atomics -> only own record whoswho1471 + works/index + sources registry; no independent corpus material. Verified-saturated, SKIP stands. -->
+
+<!-- deepen-x 10070400-16 (2026-10-08): verified-saturated — fresh grep across works/articles/sources/events/topics for 梁琰華 / Y. H. Liang / 許正餘 returns own record whoswho1471 + index/registry rows only; husband James J. Y. Hsu's page cross-link already reflected under Family. SKIP stands. -->

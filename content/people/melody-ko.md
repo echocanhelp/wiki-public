@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Melody Ko (柯頌恩)
 
@@ -45,3 +45,5 @@ last_reviewed: 2026-10-01
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- Re-verified deepen-x 09251031-15 (2026-09-26): fresh ZH+EN grep of works/ + articles/ — hit set unchanged: own record [[works/taiwaneseamericanhistory-org/whos-who-1831-melody-ko|1831. Melody Ko 柯頌恩]] + works index only; no memoir/community material. SKIP stands. -->
+
+<!-- deepen-x 10070400-16 (2026-10-08): verified-saturated — fresh grep works/articles/sources/events/topics for 柯頌恩 / Melody Ko / 柯吉文 / 王瑞玲 returns only own record whos-who-1831 + index/registry rows. No memoir/community material. SKIP stands. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Rong-hu Lu (盧榮富)
 
@@ -48,3 +48,5 @@ SKIP-with-reason (deepen-x slice 09171400-8, 2026-09-18): corpus grep over `work
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+
+<!-- deepen-x 10070400-16 (2026-10-08): verified-saturated — fresh grep across works/articles/sources/events/topics for 盧榮富 / Rong-hu Lu finds own record whoswho1316 + index/registry rows + the PCT org roster link (already present). SKIP stands. -->
