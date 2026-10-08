@@ -52,3 +52,5 @@ last_reviewed: 2026-10-01
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+
+<!-- deepen-x slice 10070400-12 recheck 2026-10-08: SKIP — fresh grep (陳浩德 / H. D. Chen) across all five corpus dirs returned only own TAH #1824 record + indexes; the org hits (NTPPC Past-Chairs roster 2020 中原區, PCT clergy roster) are already absorbed in Role in the Community — verified saturated. -->

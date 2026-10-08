@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Raymond Jeng (鄭英松)
 
@@ -33,6 +33,8 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 - 台大農學院農工系水利組 1962 級。2018-07 以南加州台大校友身分（署名「鄭英松(農工)」）連署抗議南加州台大校友會邀管中閔來年會做專題演講，見 [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|台灣社會正義連線 2018-07-20 抗議聲明]]（連署逾百人）。
 - Corpus record: [[works/taiwaneseamericanhistory-org/769-raymond-jeng-e9-84-ad-e8-8b-b1-e6-9d-be-201601|TAH #769（2016-01）]]（bibliographic record only，全文在 vault）。
+- TAHS founding participant: attended the 2013-08-28 preparatory meeting in Southern California organized by [[people/yang-jia-you|Charles Yang 楊嘉猷]] alongside 黃根深, 周實, 鄭炳全, 王廷宜, 楊子清, 洪珠美, 陳隆, 周威霖 and others, per [[people/yang-jia-you|Charles Yang's TAHS Founding section]] — the founding conference followed 2013-12-11 at the Hilton San Gabriel.
+- Speaker at [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church]] (ITPC): delivered the lecture 「The role and position of Taiwanese Americans」 in its educational lecture series, and appears repeatedly in the church's 2009–2026 notable-speakers roster as Prof. 鄭英松.
 - Re-grepped 2026-09-22 (slice 09211507-24): corpus hits remain only his own TAH record, the works index, and the 2018-07 連署聲明 already cited above — verified-saturated, nothing further absorbable.
 
 - Re-grepped 2026-09-25 (slice 09231200-25): corpus hit set identical to the 2026-09-22 pass (own TAH #769 record, works index, the 2018-07 連署聲明 already cited) — verified-saturated; SKIP, nothing absorbable.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chue-Jen Huang (楊純貞)
 
@@ -49,3 +49,5 @@ last_reviewed: 2026-10-07
 <!-- deepen-x slice 09231500-6 recheck 2026-09-25: SKIP — fresh ZH+EN grep matched only own work page 566 (+ husband 565 already linked) and works/index; no new memoir material. -->
 
 <!-- deepen-x slice 09251031-32 recheck 2026-09-26: SKIP — fresh ZH+EN grep matched only own work page 566 and works/index (neighbour entries 565/5 already linked or non-memoir); no new material. -->
+
+<!-- deepen-x slice 10070400-12 recheck 2026-10-08: SKIP — fresh ZH+EN grep (Chue-Jen Huang / 純貞 / 黃純貞) across works/articles/sources/events/topics again matched only own work page 566, works/index, the 懷念彭昕醫師 memoir (already cited as HOLD candidate above), and sources hub; no new material. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # John Yu (游正博博士)
 
@@ -52,3 +52,5 @@ last_reviewed: 2026-10-07
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070400-12 recheck 2026-10-08: SKIP — fresh ZH+EN grep (John Yu / 游正博 / 游陳鈴津) across all five corpus dirs returned only own records 1534/1533 + works/sources index entries — verified saturated. -->
