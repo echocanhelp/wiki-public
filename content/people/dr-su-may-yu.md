@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Su-May Yu (余淑美博士)
 
@@ -60,3 +60,5 @@ _No filled family fields on the TAH profile._
 Corpus re-check (deepen-x 09250800-32, 2026-09-25): grep 余淑美 / Su-May Yu works+articles → only own TAH #2045 source page + works index — no new material. SKIP: verified saturated.
 
 <!-- deepen-x slice 10051909-28 (2026-10-07): verified-saturated — exact grep 余淑美/Su-May across all five corpus dirs returns ZERO hits outside own TAH #2045 record; earlier ourjourneys matches were 淑美 substrings of other people (張淑美, 廖淑美, 陳淑美 etc.), none this person. SKIP. -->
+
+<!-- deepen-x slice 10070500-4 (2026-10-08): verified-saturated — exact grep 余淑美/Su-May Yu across all five corpus dirs returns only own TAH #2045 record + works/sources indexes. No memoir or community material. SKIP. -->

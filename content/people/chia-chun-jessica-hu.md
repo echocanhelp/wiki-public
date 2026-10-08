@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Chia Chun Jessica Hu (胡佳君)
 
@@ -58,3 +58,5 @@ _No filled family fields on the TAH profile._
 > Deepen pass 2026-09-25 (slice 09240500-28): SKIP — fresh grep (胡佳君/Jessica Hu) still returns only her own TAH Who's Who record ([[works/taiwaneseamericanhistory-org/whos1290-chia-chun-jessica-hu|TAH #1290]]) and the works index; nothing absorbable.
 
 > Deepen pass 2026-10-07 (slice 10051909-26): SKIP — fresh grep (胡佳君/Jessica Hu/Chia Chun Hu) across ALL five corpus dirs (works/articles/sources/events/topics) returns only the works index and sources roster; surname 胡 sweep of events/+topics/ = zero hits. Verified saturated.
+
+> Deepen pass 2026-10-08 (slice 10070500-4): SKIP — fresh grep (胡佳君/Jessica Hu/Chia Chun Hu) across all five corpus dirs returns only own TAH #1290 record + works/sources indexes; nearby-name hits resolve to 鍾佳君 (Dear Taiwan translator) and 郭佳君 (金管會證期局副局長), neither this person. Verified saturated.

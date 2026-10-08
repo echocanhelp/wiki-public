@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Wen-Hsien Wu (吳聞咸醫師)
 
@@ -51,6 +51,7 @@ Corpus grep found no memoir or other community mentions of 吳聞咸 beyond the 
 - Re-verify 2026-09-26 (slice 09252123-5): fresh ZH+EN grep — sole corpus hit remains whoswho2006 + works index; verified saturated, nothing new absorbable.
 - Re-verify 2026-10-01 (slice 09261000-2): fresh ZH+EN grep (works/ + articles/) — still only whoswho2006 plus the works index cross-link rows. No memoir or community mention of 吳聞咸. Verified saturated, SKIP.
 - Re-verify 2026-10-07 (slice 10051909-25): fresh ZH+EN grep (吳聞咸/聞咸/Wen-Hsien Wu) across works/articles/sources/events/topics returns only whoswho2006 + works index + sources cross-link; verified saturated, nothing new absorbable.
+- Re-verify 2026-10-08 (slice 10070500-4): fresh ZH+EN grep (吳聞咸/聞咸/Wen-Hsien Wu) across all five corpus dirs again returns only whoswho2006 + works/sources indexes; 美洲中華醫學會/CAMS sweep of corpus dirs = zero hits, no standalone CAMS material. Verified saturated, SKIP.
 
 ## Sources
 - [TAH #2006 encyclopedia: 2006. Dr. Wen-Hsien Wu 吳聞咸醫師](https://taiwaneseamericanhistory.org/whoswho2006/)
