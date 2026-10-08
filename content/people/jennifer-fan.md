@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Jennifer Fan (方碧霞)
 
@@ -46,3 +46,4 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 SKIP-with-reason (re-verified 2026-10-07, slice 10052007-8): greps '方碧霞' / 'Jennifer Fan' / '碧霞' across works/, articles/, sources/, events/, topics/ return only her own TAH record [[works/taiwaneseamericanhistory-org/whoswho968|968. Jennifer Fan 方碧霞 (bibliographic stub)]] plus index listings. All other 碧霞 hits are false positives — 鍾碧霞 ([[works/taiwaneseamericanhistory-org/mystories591|591. 十年在美隨夫波折的歲月]], [[works/taiwaneseamericanhistory-org/396-e8-a8-b1-e4-bf-a1-e8-89-af-e8-a8-80-e8-ab-96-e9-81-b8-e9-9b-86-e8-a8-b1-e4-b|396. 許信良言論選集]]) and 賴碧霞 (客家山歌藝師, taiwanjustice article) — different people, no merge. Nothing absorbable; no biography invented.
+SKIP-with-reason (re-verified 2026-10-08, slice 10070600-8): fresh five-dir greps 方碧霞 / Jennifer Fan / 碧霞 across works/, articles/, sources/, events/, topics/ return only her own TAH record [[works/taiwaneseamericanhistory-org/whoswho968|968. Jennifer Fan 方碧霞 (band B bibliographic stub)]] plus works/index and the roster listing in sources/taiwaneseamericanhistory-org. Other 碧霞 hits again confirmed as 鍾碧霞 and 賴碧霞 — different people. Verified-saturated; nothing absorbable, no merge, no invented biography.

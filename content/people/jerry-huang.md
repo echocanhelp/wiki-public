@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Jerry Huang (黃金利)
 
@@ -53,3 +53,4 @@ last_reviewed: 2026-10-07
 - 2026-09-26 re-sweep (slice 09251039-9): fresh ZH+EN grep — hits remain only own record [[works/taiwaneseamericanhistory-org/whoswho1061|1061. Jerry Huang 黃金利]] + works index; SKIP-deepen stands.
 - 2026-10-01 re-sweep (slice 09261341-9): fresh ZH+EN grep — hits remain only own record [[works/taiwaneseamericanhistory-org/whoswho1061|1061. Jerry Huang 黃金利]] + works/index. SKIP-deepen stands.
 - 2026-10-07 re-sweep (slice 10051948-3): fresh ZH+EN grep across all five corpus dirs returns only own record [[works/taiwaneseamericanhistory-org/whoswho1061|1061. Jerry Huang 黃金利]] + sources index. Substring 金利 hits are 金融 ("finance") in unrelated taiwanjustice-net economic articles — not mentions of this person. Verified-saturated — SKIP stands.
+SKIP-with-reason (re-verified 2026-10-08, slice 10070600-8): fresh five-dir greps 黃金利 / Jerry Huang across works/, articles/, sources/, events/, topics/ return only his own TAH record [[works/taiwaneseamericanhistory-org/whoswho1061|1061. Jerry Huang 黃金利 (band B bibliographic stub)]] plus works/index and the roster listing in sources/taiwaneseamericanhistory-org. 金利 substring hits remain 金融 in unrelated economic articles. Verified-saturated — nothing absorbable.

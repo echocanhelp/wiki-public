@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Jawshing Arthur Liou (劉肇興)
 
@@ -35,6 +35,7 @@ Jawshing (Arthur) Liou 劉肇興 – History of Taiwanese American (T.A. Archive
 - Timeline: 2016-03-27 — recorded in the TAH Foundation encyclopedia (#908).
 - Re-verified 2026-10-02 (deepen-x 09261400-3): fresh ZH+EN grep (劉肇興 + Jawshing Arthur Liou) across works+articles returned no corpus hits. SKIP: nothing absorbable.
 - Re-swept 2026-10-07 (deepen-x slice 10051948-24): fresh ZH+EN+given-name grep (劉肇興 / Jawshing / Arthur Liou / 肇興) across all five corpus dirs (works/articles/sources/events/topics) — hits limited to own record [[works/taiwaneseamericanhistory-org/908-jawshing-arthur-liou-e5-8a-89-e8-82-87-e8-88-88-201603|908. Jawshing (Arthur) Liou 劉肇興 / 2016/03]] (band B bibliographic stub), works/index.md, and the roster listing in sources/taiwaneseamericanhistory-org.md. No memoir or movement material. SKIP (verified-saturated).
+SKIP-with-reason (re-verified 2026-10-08, slice 10070600-8): fresh five-dir greps 劉肇興 / Jawshing / Arthur Liou / 肇興 across works/, articles/, sources/, events/, topics/ yield zero prose hits — only the works/index row for his own record [[works/taiwaneseamericanhistory-org/908-jawshing-arthur-liou-e5-8a-89-e8-82-87-e8-88-88-201603|908. Jawshing (Arthur) Liou 劉肇興 / 2016/03]] (band B bibliographic stub) and the roster link in sources/taiwaneseamericanhistory-org. No memoir or movement material names him. Verified-saturated — nothing absorbable.
 
 ## Family
 
