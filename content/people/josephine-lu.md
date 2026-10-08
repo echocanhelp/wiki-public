@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Josephine Lu (沈雲冰)
 
@@ -43,3 +43,4 @@ last_reviewed: 2026-10-06
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+# deepen-x slice 10062334-27: SKIP re-verified 2026-10-08 — exact 沈雲冰/Josephine Lu hits = own paired records whoswho1144/whoswho1142 + source-hub backlink only; HOLD on husband-name conflict (盧建治 vs 盧健治) stands. No new material.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Henty Chen (陳華山)
 
@@ -49,3 +49,4 @@ last_reviewed: 2026-10-06
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 10051314-8 2026-10-06: re-scan ZH+EN+surname across works/articles/sources/events/topics — full-name hits = own record #461 + index + source hub only; surname 華山 hits are different people (林華山醫師 in ourjourneys107, 紀華山 whoswho1739). No memoir material. SKIP. -->
+# deepen-x slice 10062334-27: SKIP re-verified 2026-10-08 — fresh ZH+EN+surname grep across works/articles/sources/events/topics: exact 陳華山/Henty Chen hits = own record #461 + source-hub backlink only; surname 華山 hits are other people (林華山醫師 ourjourneys107, 紀華山 whoswho1739). No memoir material.

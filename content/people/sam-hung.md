@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Sam Hung (洪南山)
 
@@ -42,3 +42,4 @@ Sam Hung (洪南山) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 # deepen-x slice 10051314-9: SKIP re-verified 2026-10-06 — fresh ZH+EN grep across works/articles/sources/events/topics returned only own record(s) + index backlinks; no new absorbable corpus material.
+# deepen-x slice 10062334-27: SKIP re-verified 2026-10-08 — exact 洪南山/Sam Hung hits = own record #867 + source-hub backlink only; surname 南山 hits are other people (賴南山醫師 ourjourneys107). No memoir material.
