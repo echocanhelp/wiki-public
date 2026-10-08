@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 skip_note: "deepen-x 2026-09-19 / re-verified 2026-09-26 (slice 09251039-23): corpus re-verified — sole hit is own band-B TAH bibliographic record whoswho1191; no absorbable community facts"
 ---
 # Chun-Nan Hsu (許鈞南)
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- DEEPEN-X SKIP 2026-10-01: corpus re-grep (ZH+EN names, works+articles) — hits are only own TAH record + index co-listings. No third-party memoir mentions. SKIP-deepen stands; page saturated at HEAD. -->
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070700-14): five-dir sweep (許鈞南 / Chun-Nan Hsu / 鈞南) — hits remain only own TAH #1191 record, works/index, and sources hub. Nothing further absorbable. -->

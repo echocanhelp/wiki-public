@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Shida Kuo (郭旭達)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-scan 2026-10-07 (deepen-x slice 10052007-5): five-dir sweep (ZH 郭旭達/旭達 + EN Shida Kuo) — hits remain only the own TAH #1817 record, works/index, and the sources hub. SKIP — nothing further absorbable.
+Corpus re-scan 2026-10-08 (deepen-x slice 10070700-14): five-dir sweep re-run — same result; SKIP stands.

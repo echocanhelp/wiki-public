@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Shan Lin (林上祺)
 
@@ -49,3 +49,4 @@ Corpus review 2026-09-19 (re-grep 2026-09-22, same result): the only corpus ment
 <!-- DEEPEN-X SKIP 2026-09-26: corpus re-grep (林上祺 / Shan Lin, works+articles) again returned only own TAH #1328 record + index. Nothing absorbable. -->
 
 <!-- DEEPEN-X SKIP 2026-10-01: corpus re-grep (ZH+EN names, works+articles) — hits are only own TAH record + index co-listings. No third-party memoir mentions. SKIP-deepen stands; page saturated at HEAD. -->
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070700-14): five-dir sweep (林上祺 / Shan Lin / 上祺) — hits remain only own TAH #1328 record, works/index, and sources hub. Nothing further absorbable. -->

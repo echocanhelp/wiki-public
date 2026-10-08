@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Prof. Jessica Y. Ho
 
@@ -55,3 +55,4 @@ No community/memoir material found → no biography added (no invented biography
 
 ## Work log
 - SKIP (deepen-x slice 09251031-10, 2026-09-26): fresh grep of works/+articles/ again returns only her own #1926 record + index; no community/memoir material; saturated.
+- SKIP (deepen-x slice 10070700-14, 2026-10-08): five-dir sweep (works/articles/sources/events/topics; EN "Jessica Y. Ho", "Ho Y", ZH variants) — hits remain only own TAH #1926 record, works/index, and the sources hub. Nothing further absorbable.
