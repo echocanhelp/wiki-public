@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chia-Ching Liu (劉嘉慶)
 
@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > SKIP re-check (deepen-x 10051918-31, 2026-10-07): fresh grep across works/articles/sources/events/topics (ZH 劉嘉慶 + EN Chia-Ching Liu + variants) returned only own TAH #1654 record + index/source rows; the knowledge/web-archives hits are the same TAAGWC panel listing already absorbed above. Verified-saturated.
+
+> SKIP re-check (deepen-x slice 10070600-7, 2026-10-08): fresh five-dir grep (劉嘉慶 / Chia-Ching Liu / Chiaching Liu) returned only own TAH #1654 record + index/source rows; web-archives sweep hits are the same whoswho1654 mirror + the TAAGWC panel listing already absorbed. Verified-saturated.
