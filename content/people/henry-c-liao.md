@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Henry C Liao (廖政森)
 
@@ -47,3 +47,5 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 10051909-10 sweep 2026-10-07: ZH+EN+surname grep across works/articles/sources/events/topics returned only this person own TAH Who' Who record and index listings. Verified-saturated; no absorbable community material. -->
+
+<!-- deepen-x 10070400-19 sweep 2026-10-08: ZH+EN+surname+maiden-name grep across works/articles/sources/events/topics returned only own TAH record and index listings. Verified-saturated; no absorbable community material. -->

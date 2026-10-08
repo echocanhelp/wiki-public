@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Amenda Wu
 
@@ -44,3 +44,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified SKIP (deepen-x 09251054-23, 2026-09-26): fresh grep — hit set unchanged (own work page + works index only); nothing absorbable.
+
+<!-- deepen-x 10070400-19 sweep 2026-10-08: ZH+EN+surname+maiden-name grep across works/articles/sources/events/topics returned only own TAH record and index listings. Verified-saturated; no absorbable community material. -->

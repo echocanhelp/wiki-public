@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Marian Miaw-ju Chen (陳林妙珠)
 
@@ -32,7 +32,8 @@ last_reviewed: 2026-10-07
 
 - Profiled in the TAH encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho1032|1032. Marian Miaw-ju Chen 陳林妙珠 / 2016/05]] (2016-05-28).
 - Corpus record is bibliographic only (band B); corpus grep (works/ + articles/) re-verified 2026-09-25, 2026-09-26 (slice 09251054-15) and 2026-10-01 (slice 09261405-28, corrected ERE grep `陳林妙珠|Marian Miaw-ju Chen`, full vault): own-record + works index only, no memoir text. SKIP — nothing further absorbable from works/articles.
-- Re-swept 2026-10-07 (slice 10051909-9): ZH+EN grep across all five corpus dirs hits only own record #1032 and the works index — SKIP stands.
+- Co-founder of the Taiwan Gospel Church (台語福音教會), Los Angeles, established October 1970 by a group that split from the Alhambra Presbytery church — the founding roster names her by her maiden name 林妙珠 alongside her husband [[people/c-j-chen||陳銓仁]], 丁昭昇, 陳慶霖, 盧淑貞 and 許和瑞 ([[works/taiwaneseamericanhistory-org/ourjourneys257|257. 洛杉磯台福基督教會, 2016/10]]). The church later grew into the 台福 network (東安/南灣/聖谷/柑縣 congregations).
+- Note: earlier passes grepped only 陳林妙珠/Marian Miaw-ju Chen and missed the memoir mention under her maiden name 林妙珠; corrected 2026-10-08 (slice 10070400-19).
 
 ## Family
 
