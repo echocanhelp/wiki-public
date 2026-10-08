@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Chun Hsiang Lu (盧俊雄醫師)
 
@@ -49,3 +49,4 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-26 re-sweep (slice 09251039-9): fresh ZH+EN grep — hits remain only own record [[works/taiwaneseamericanhistory-org/whos-who-2225-chun-hsiang-lu|2225. Dr. Chun Hsiang Lu 盧俊雄醫師]] + works index; nothing absorbable; SKIP-deepen stands.
 - 2026-10-07 re-sweep (slice 10051948-21): fresh ZH+EN grep of works/articles/sources/events/topics plus whole-tree sweep — hits remain only own encyclopedia record + works index + source page; no new corpus mentions; SKIP-deepen stands.
+- 2026-10-08 re-sweep (slice 10070600-27): fresh five-dir grep (盧俊雄 / Chun Hsiang Lu / 俊雄) — only own record [[works/taiwaneseamericanhistory-org/whos-who-2225-chun-hsiang-lu|TAH #2225]] + index + source page. Given-name-only hits are false matches (張俊雄 in a 2020 Kaohsiung election article; 黃俊雄 in a puppet-theatre essay) — not this physician. SKIP-deepen stands.

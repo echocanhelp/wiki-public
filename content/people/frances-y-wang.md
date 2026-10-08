@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Frances Y. Wang (王怡芳)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-26 re-sweep (slice 09251039-9): fresh ZH+EN grep of works/+articles/ — hits remain only own record [[works/taiwaneseamericanhistory-org/whoswho1989|1989. Frances Y. Wang 王怡芳]] + works index; no new community facts; SKIP-deepen stands.
 - 2026-10-07 re-sweep (slice 10051948-21): fresh ZH+EN grep of works/articles/sources/events/topics plus whole-tree sweep — hits remain only own encyclopedia record + works index + source page; no new corpus mentions; SKIP-deepen stands.
+- 2026-10-08 re-sweep (slice 10070600-27): fresh five-dir grep (王怡芳 / Frances Y. Wang / 怡芳) — only own record [[works/taiwaneseamericanhistory-org/whoswho1989|TAH #1989]] + index + source page. Given-name-only hit is a false match (洪怡芳, a 台灣亮起來 2021 entrepreneur) — not this judge. SKIP-deepen stands.

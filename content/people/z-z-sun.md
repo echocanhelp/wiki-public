@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Z.Z. Sun (孫足枝)
 
@@ -47,3 +47,4 @@ Her TAH Who's Who record is in the corpus at [[works/taiwaneseamericanhistory-or
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-10-07 re-sweep (slice 10051948-21): fresh ZH+EN grep of works/articles/sources/events/topics plus whole-tree sweep — hits remain only own encyclopedia record + works index + source page; no new corpus mentions; SKIP-deepen stands.
+- 2026-10-08 re-sweep (slice 10070600-27): fresh five-dir grep (孫足枝 / Z.Z. Sun / 足枝) — only own record [[works/taiwaneseamericanhistory-org/whoswho1621|TAH #1621]] + index + source page; knowledge/ sweep returns only registry metadata (family.json, priority lexicon), no memoir text. SKIP-deepen stands.
