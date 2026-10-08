@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Mei-Shi Chu (徐梅熙)
 
@@ -48,4 +48,4 @@ last_reviewed: 2026-10-07
 - SKIP (deepen-x slice 09231500-7, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only the person's own TAH Who's Who record + index (no memoir/community material beyond what is already cited); page saturated, nothing absorbable.
 - SKIP (deepen-x slice 09251031-10, 2026-09-26): fresh ZH+EN grep returned the same set (own #1537 record, index, Pew statement) — all already wikilinked above; no memoir/community material; saturated.
 - SKIP (deepen-x slice 09261300-15, 2026-10-01): fresh ZH+EN grep again returned only her own #1537 record, the Pew statement, and the works index — all already wikilinked above; saturated, nothing absorbable.
-- SKIP (deepen-x slice 10051918-23, 2026-10-07): fresh ZH+EN+spouse grep (徐梅熙 / Mei-Shi Chu / 朱修明) across all five corpus dirs returned only her own #1537 record, the works index, and the already-wikilinked Pew statement. The NATWA chapter files that surfaced on an acronym-only sweep match "NATWA" but contain none of her name strings — not new material. Saturated.
+- SKIP (deepen-x slice 10070500-32, 2026-10-08): fresh five-dir ZH+EN+spouse grep (徐梅熙 / Mei-Shi Chu / 朱修明) — hit set unchanged: own #1537 record, sources index, and the already-wikilinked Pew statement. Verified-saturated.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Lynn Y.S. Lin (林英祥博士)
 
@@ -50,4 +50,4 @@ _No filled family fields on the TAH profile._
 
 <!-- DEEPEN-X RECHECK 2026-10-01 (slice 09261300-3): corpus grep re-run (ZH+EN, works+articles) — hit set unchanged: own TAH bibliographic record + index only (Yeh: also Our Journey 343, already cited). SKIP stands; nothing new absorbable. -->
 
-<!-- DEEPEN-X RECHECK 2026-10-07 (slice 10051918-20): five-dir grep (works/articles/sources/events/topics) for 林英祥 / 英祥 / Lynn Y.S. Lin variants — only hit set is own TAH #1972 record + works index; no EN-name hits elsewhere. Verified-saturated; SKIP stands. -->
+<!-- DEEPEN-X RECHECK 2026-10-08 (slice 10070500-32): five-dir grep (林英祥 / 英祥 / Lynn Y.S. Lin / Lynn Lin) — only hit is own TAH #1972 record via sources index; no memoir/club material. Verified-saturated; SKIP stands. -->

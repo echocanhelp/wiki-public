@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Yu-Ming Huang (黃昱銘)
 
@@ -48,4 +48,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09210831-14: re-verify 2026-09-22 — fresh grep: own whoswho1474 record + index digests only; nothing new absorbable. -->
 <!-- deepen-x 09231200-6: re-verify 2026-09-25 — fresh ZH+EN grep: own whoswho1474 record + index digest only; nothing new absorbable. -->
 <!-- deepen-x 09250500-29: re-verify 2026-09-25 — fresh ZH+EN grep (黃昱銘): own whoswho1474 record + index only; nothing new absorbable. -->
-<!-- deepen-x 10051918-23: re-verify 2026-10-07 — fresh ZH+EN grep (黃昱銘/黃昱/Yu-Ming Huang) across works+articles+sources+events+topics: own whoswho1474 record + index/source only; sole substring hit 黃昱中律師 in a 2025 taiwanjustice article is a different person (false positive). Nothing new absorbable. SKIP-no-new-material. -->
+<!-- deepen-x 10070500-32: re-verify 2026-10-08 — fresh five-dir grep (黃昱銘/Yu-Ming Huang/黃昱): own whoswho1474 record + sources index only; sole substring hit 黃昱中律師 in a 2025 taiwanjustice article remains a different person (false positive). Verified-saturated. SKIP. -->
