@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Wei-Shou Hu (胡維碩)
 
@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09250500-20: re-verify 2026-09-25 — fresh grep ZH+EN over works+articles: hit set identical to prior passes (RTGSA hits are false positives: 萊斯大學=old Rice student gen, 提姆·萊斯=Tim Rice, 克萊斯勒=Kreisler). Nothing new absorbable. SKIP-no-new-material. -->
 
 <!-- deepen-x slice 10051200-32 recheck 2026-10-06: grep 胡維碩/Wei-Shou Hu over all corpus dirs — exact-name hits confined to ourjourneys123 (+ENG) and whoswho1509, both already absorbed; surname-only 胡 hits have zero co-occurrence with this person. Verified saturated, SKIP-no-new-material. -->
+
+<!-- deepen-x slice 10062334-12 recheck 2026-10-08: fresh grep 胡維碩/Wei-Shou Hu over works/articles/sources/events/topics — exact-name hits confined to ourjourneys123 (+ENG) + whoswho1509 + indexes, all already absorbed; surname-only 胡 co-occurrence probe (人工肝臟/Minnesota/明州) returns only ourjourneys58 Kansas roster 胡啓年 (different person). Verified saturated, SKIP-no-new-material. -->
