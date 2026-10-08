@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Taiwanese American Soft Tennis Association
 
@@ -28,6 +28,7 @@ last_reviewed: 2026-10-06
 - Re-verified 2026-09-24 (deepen-x slice 09230317-27): fresh grep (台美軟式網球 / Soft Tennis / 軟式網球) returns the TAH record, the works index, the three 鄭炳全 memoir copies above, and the 謝伯芳 1960s memoir now linked — no further absorbable material.
 - Re-verified 2026-09-25 (deepen-x slice 09240317-30): fresh grep again returns the same hit set already absorbed above — SKIP: no new corpus material.
 - Re-verified 2026-10-06 (deepen-x slice 10051200-3): whole-tree grep (軟式網球 / 軟網 / Soft Tennis) adds only the Taiwan Center group-members roster row and index listings — all corpus hits (TAH record #17, 鄭炳全 memoir copies ×3, 謝伯芳 #369) already absorbed above. SKIP-with-reason: verified-saturated.
+- Re-verified 2026-10-08 (deepen-x slice 10062218-11): fresh grep (台美軟式網球 / Soft Tennis / 軟式網球 / 軟網) across works/articles/sources/events/topics returns exactly the hit set already absorbed above — TAH record #17, 鄭炳全 memoir copies ×3 (旅美五十周年 2025, 父親節省思 2020, 2024-03-02 archive copy), 謝伯芳 #369, plus index/roster listings. No new corpus material. SKIP-with-reason: verified-saturated.
 
 ## Source Notes
 

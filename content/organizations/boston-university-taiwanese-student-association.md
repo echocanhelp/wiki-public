@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-08
 ---
 # Boston University Taiwanese Student Association
 
@@ -30,3 +30,4 @@ The Boston University Taiwanese Student Association (BUTSA, 波士頓大學台�
 
 Corpus re-scan 2026-09-25 (BUTSA / 波士頓大學台灣同學會 / Boston University Taiwanese): still zero hits in works/ or articles/; SKIP stands.
 Corpus re-scan 2026-10-06 (slice 10051200-12): BUTSA / butsaa / 波士頓大學台灣同學會 — only hit is the directory link in sources/; Boston University hits remain unrelated (musician interviews, 2020 espionage item). SKIP stands.
+Corpus re-scan 2026-10-08 (slice 10062218-11): BUTSA / butsaa / 波士頓大學台灣同學會 / 同學會-near-波士頓 patterns — zero BUTSA hits anywhere. The only 波士頓大學 references in works/ are alumni-degree biographies with no BUTSA connection: 石青如 ([[works/taiwaneseamericanhistory-org/ourjourneys338|TAHS #338]], BU double-major composition/piano), 林天民 ([[works/taiwaneseamericanhistory-org/ourjourneys61|TAHS #61]], BU system-theology PhD), 張啟典 ([[works/taiwaneseamericanhistory-org/ourjourneys287|TAHS #287]], BU medical school). None describe the student association itself. SKIP stands: verified-saturated.
