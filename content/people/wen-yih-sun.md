@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-08
 ---
 # Wen-Yih Sun (商文義)
 
@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09260600-28 (2026-09-27): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns the hit-set already absorbed on this page; no new corpus facts, no conflicts. -->
+
+Corpus re-grep 2026-10-08 (deepen-x slice 10062334-3): fresh ZH+EN grep (商文義 / Wen-Yih Sun) across works/ articles/ sources/ events/ topics/ returned the identical hit set (1579 bio, ourjourneys69/-eng, ourjourneys47, sources index); the lone extra hit (台積電法說會 article) is a false positive on 商文曄, a different person. Verified saturated, SKIP-with-reason, no new absorbable facts, no conflicts.
