@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Amelia Wu (吳姍姍)
 
@@ -51,3 +51,5 @@ last_reviewed: 2026-10-07
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09251031-19 2026-09-26: re-grep (吳姍姍 / Amelia Wu) — hit set identical: own record whoswho1274 + works/index only. SKIP confirmed; no new community material. -->
+
+<!-- deepen-x slice 10070500-15 (2026-10-08): five-dir sweep (吳姍姍/Amelia Wu/姍姍) — exact-name hits remain own record whoswho1274 + index/source listings only. 姍姍 hits re-inspected: ourjourneys43 is prose 姍姍來遲 (unrelated); mystories504 byline 姍姍 is a different author. SKIP confirmed; nothing absorbable. -->

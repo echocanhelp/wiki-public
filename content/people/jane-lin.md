@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Jane Lin (許淑貞)
 
@@ -52,3 +52,5 @@ Corpus re-scan 2026-09-25: re-verified — no mentions outside her own record; n
 Corpus re-scan 2026-09-26 (deepen-x 09251047-1): fresh ZH+EN grep — still only own record + whoswho1595 (Sue-Jane Lin, different person); SKIP, nothing absorbable.
 
 Corpus re-scan 2026-10-07 (deepen-x slice 10052007-5): five-dir sweep — 許淑貞 / Jane Lin exact: own record + whoswho1595 only. Given-name probe 淑貞 hits 高淑貞/黃淑貞/蔡淑貞 etc. — all different people, excluded. Husband probe 林俊育: found in TJJ 2016海外台語研習會 announcement + video record — absorbed above with HOLD on identity. DEEPENED (1 corpus-linked fact).
+
+Corpus re-scan 2026-10-08 (deepen-x slice 10070500-15): five-dir sweep — exact 許淑貞/Jane Lin hits unchanged (own record + whoswho1595); 林俊育 probe returns the same two TJJ docs already absorbed plus a duplicate video-record article (20240522050500) of the same 2016-06-04 session — no new fact, HOLD on identity maintained.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Izabel S. H. Chuang (莊捷筠博士)
 
@@ -58,3 +58,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09252123-14 (2026-09-26): verified-saturated — fresh ZH+EN corpus re-grep (works/ + articles/) hits only the already-cited records (own TAH #2233 entry + works index); no new absorbable facts. -->
 
 <!-- deepen-x slice 10051918-2 (2026-10-07): verified-saturated — fresh ZH+EN corpus re-grep (莊捷筠/Izabel/捷筠) hits only own TAH #2233 record + works index; surname-only Chuang hits are distinct people; nothing absorbable. -->
+
+<!-- deepen-x slice 10070500-15 (2026-10-08): five-dir sweep (莊捷筠/Izabel/Chuang/捷筠) — hits remain own TAH #2233 record + works index only; 捷筠 alone returns zero hits; surname-only Chuang hits (Tze-Jer Chuang, Henry Chuang, etc.) are distinct people. Verified-saturated; nothing absorbable. -->

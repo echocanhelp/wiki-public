@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Larry Hsu (許中強)
 
@@ -54,3 +54,5 @@ last_reviewed: 2026-10-07
 > Re-check (deepen-x 09261100-11, 2026-10-01): fresh ZH+EN grep of content/works + content/articles — hit set identical to prior passes (own TAH bibliographic record whoswho1365 + works/index only). SKIP confirmed; no community/memoir material to absorb, no biography invented.
 
 > Re-check (deepen-x 10051918-6, 2026-10-07): fresh ZH+EN+variant grep (許中強/许中强/Larry Hsu/中強) across works/articles/sources/events/topics — hit set identical to prior passes (own record whoswho1365 + index/source listings; 中強 matches are false positives in unrelated prose, e.g. 許維德認為). SKIP confirmed; nothing absorbable, no biography invented.
+
+> Re-check (deepen-x 10070500-15, 2026-10-08): five-dir sweep (許中強/许中强/Larry Hsu/中強) — exact-name hits remain own record whoswho1365 + index/source listings only; 中強 hits re-inspected (our-journeys-357, ourjourneys63, solidarity-with-migrants) and confirmed unrelated prose. SKIP confirmed; nothing absorbable, no biography invented.
