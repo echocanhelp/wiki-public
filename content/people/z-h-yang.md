@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Z. H. Yang (楊日信博士)
 
@@ -62,3 +62,5 @@ Corpus memoirs (吳朱實) record 楊日信 as a central builder of the Taiwanes
 <!-- deepen-x slice 09260600-30 (2026-09-27): saturated re-verify — fresh grep hit set unchanged (mystories433, ourjourneys15/322/123, whoswho1504); all absorbed above. SKIP-content. -->
 <!-- deepen-x slice 09270700-21 (2026-10-03): saturated re-verify — fresh grep of works/ + articles/ hit set unchanged (mystories433, ourjourneys15/322/123, whoswho1504, index); all absorbed above. SKIP-content. -->
 <!-- deepen-x slice 10051909-13: re-verify 2026-10-07 — fresh grep (楊日信/Z. H. Yang, works+articles+sources+events+topics): hit set unchanged (mystories433, ourjourneys15/322/123, whoswho1504, index); all absorbed above. Verified-saturated; SKIP-no-new-facts. -->
+
+<!-- deepen-x slice 10070400-22: re-verify 2026-10-08 — fresh grep (楊日信/Z. H. Yang, works+articles+sources+events+topics): hit set unchanged (mystories433, ourjourneys15/322/123, whoswho1504, index); all absorbed above. Verified-saturated; SKIP-no-new-facts. -->
