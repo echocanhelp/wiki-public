@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # L. C. Chen (陳麗村)
 
@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070315-21 (2026-10-08): SKIP verified-saturated — fresh ZH+EN grep across works/articles/sources/events/topics returns only the already-absorbed/linked hit set (own TAH record(s), memoir/index backlinks); no new corpus material. -->

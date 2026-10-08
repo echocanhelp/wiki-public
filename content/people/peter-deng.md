@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Peter Deng (鄧培德)
 
@@ -49,3 +49,5 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-26 (slice 09251047-3): fresh ZH+EN grep of works/ and articles/ returned only the own TAH record, the works index, and previously-noted mentions (incl. the Marina Lu 盧雅文 name-collision essay) — nothing new absorbable; page held at prior state (SKIP-deepened).
 <!-- deepen-x slice 10051400-13 (2026-10-07): SKIP verified-saturated — fresh ZH+EN grep across works/articles/sources/events/topics returns only own record #1231, the OJ #378 FCA presidential roster (already absorbed), and index backlinks; other Chicago-club records do not name him. Nothing new absorbable. -->
+
+<!-- deepen-x slice 10070315-21 (2026-10-08): SKIP verified-saturated — fresh ZH+EN grep across works/articles/sources/events/topics returns only the already-absorbed/linked hit set (own TAH record(s), memoir/index backlinks); no new corpus material. -->
