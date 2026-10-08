@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Wilfred Su (蘇文隆牧師)
 
@@ -49,3 +49,4 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 10051918-17 (2026-10-07): fresh ZH+EN+variant grep across works/articles/sources/events/topics -> hits identical to prior sweeps: own record [[works/taiwaneseamericanhistory-org/whoswho977|whoswho977]] + works index only; 'Wilfred' hits in taiwanjustice articles are unrelated persons. SKIP re-verified, page saturated. -->
+<!-- deepen-x slice 10070500-26 (2026-10-08): five-dir grep (蘇文隆/Wilfred Su/文隆) re-run -> only own whoswho977 + works/index + sources page; all 文隆 hits across works/ resolve to 王文隆 (Wayne L. Wang) and 張文隆, different persons. Verified-saturated, SKIP stands. -->

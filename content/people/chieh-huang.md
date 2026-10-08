@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chieh Huang
 
@@ -51,3 +51,4 @@ Corpus records for Chieh Huang are limited to his own TAH Who's Who entry; no me
 - Corpus re-grep 2026-09-25 (deepen-x slice 09231200-13): hit set identical to prior passes (own TAH record + works index only); no community-authored material to absorb (verified-saturated, SKIP).
 - Corpus re-grep 2026-09-25 (deepen-x slice 09250500-14): hit set unchanged — own TAH record [[works/taiwaneseamericanhistory-org/whos-who-1993-chieh-huang|TAH #1993]], works index, and taiwanjustice-net articles matching 黃世傑 ([[people/shih-chieh-huang|shih-chieh-huang]], different person); no absorbable community material (verified-saturated, SKIP).
 - Corpus re-grep 2026-10-07 (deepen-x slice 10051918-12): hit set identical — own TAH #1993 + works index only; variant sweep (Boxed, Astro Ape, Jeff Huang, 黃杰中) across all five corpus dirs finds nothing — verified-saturated, SKIP stands.
+- Corpus re-grep 2026-10-08 (deepen-x slice 10070500-26): five-dir sweep (Chieh Huang/Boxed/Astro Ape/Zynga/黃杰中) re-run -> only own TAH #1993 record + works/index + sources page; Boxed/Astro Ape/Zynga/黃杰中 return zero corpus hits. Verified-saturated, SKIP stands.

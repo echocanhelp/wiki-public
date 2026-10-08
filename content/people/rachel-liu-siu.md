@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Rachel Liu Siu (劉廣然)
 
@@ -49,4 +49,5 @@ _No filled family fields on the TAH profile._
 
 <!-- Re-verified deepen-x 09251031-15 (2026-09-26): fresh ZH+EN grep — hit set unchanged (own record [[works/taiwaneseamericanhistory-org/whos-who-2090-rachel-liu-siu|2090. Rachel Liu Siu 劉廣然]] + works index only); still no memoir/community-narrative material beyond the TAH profile. SKIP stands. -->
 <!-- Re-verified deepen-x 09261200-25 (2026-10-01): fresh ZH+EN grep (`劉廣然|Rachel Liu Siu`) — hit set unchanged (own record [[works/taiwaneseamericanhistory-org/whos-who-2090-rachel-liu-siu|2090. Rachel Liu Siu 劉廣然]] + works/index.md directory row only). Still no memoir/community-narrative material beyond the TAH Who's Who profile. SKIP stands. -->
-<!-- deepen-x slice 10051918-13 recheck 2026-10-07: SKIP — five-dir grep (works/articles/sources/events/topics; 劉廣然 / Rachel Liu Siu / APAHC) returns only own record, works/index row, and sources page. No memoir/community material. Verified saturated. -->
+<!-- deepen-x slice 10051918-13 recheck 2026-10-07: SKIP — five-dir grep (works/articles/sources/events/topics; 劉廣然 / Rachel Liu Siu / APAHC) returns only own record, works/index row, and sources page. No memoir/community material. Verified-saturated. -->
+<!-- deepen-x slice 10070500-26 (2026-10-08): five-dir grep (劉廣然/Rachel Liu Siu/廣然/SurgiLight/APAHC) re-run -> only own #2090 record, works/index, sources page; loose 'Rachel' hits are other Rachels (Chao/Lin/Ku/Chang), no SurgiLight/APAHC narrative hits. Verified-saturated, SKIP stands. -->
