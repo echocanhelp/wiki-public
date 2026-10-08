@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-08
 ---
 # Szu-Ning Tai (戴思寧)
 
@@ -34,7 +34,7 @@ Szu-Ning Tai is a Taiwanese harpist who currently serves as teaching assistant a
 
 Tai appears in the TAH corpus as part of the cohort of young Taiwanese musicians profiled by the foundation in mid-2015:
 
-- Profiled as a harpist in [[works/taiwaneseamericanhistory-org/219-szu-ning-tai-e6-88-b4-e6-80-9d-e5-af-a7-harpist-201506|TAH #219: Szu-Ning Tai 戴思寧, Harpist (2015/06)]], alongside fellow Taiwanese musicians such as 趙君婷 (soprano) and 蘇毓婷 (French horn) profiled the same month.
+- Profiled as a harpist in [[works/taiwaneseamericanhistory-org/219-szu-ning-tai-e6-88-b4-e6-80-9d-e5-af-a7-harpist-201506|TAH #219: Szu-Ning Tai 戴思寧, Harpist (2015/06)]], alongside fellow Taiwanese musicians such as [[works/taiwaneseamericanhistory-org/454-amy-chun-ting-chao-e8-b6-99-e5-90-9b-e5-a9-b7-201506|趙君婷 (soprano)]] and [[works/taiwaneseamericanhistory-org/453-tina-su-e8-98-87-e6-af-93-e5-a9-b7-201506|蘇毓婷 (French horn)]] profiled the same month.
 - A companion profile is archived as [[works/taiwaneseamericanhistory-org/455-szu-ning-tai-e6-88-b4-e6-80-9d-e5-af-a7-201506|TAH #455: Szu-Ning Tai 戴思寧 (2015/06)]].
 
 No further community-activity records found in the corpus beyond these two profiles (re-grep 2026-09-18 and 2026-09-20 [DEEPEN-X slice 09191000-18]: identical hit set — #219, #455, index; cohort peers 趙君婷/蘇毓婷 already named above). Re-grep 2026-09-21 (slice 09210051-9): identical hit set (#219, #455, index) — SKIP, nothing new absorbable.
@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10070315-7 (2026-10-08): re-grepped ZH+EN+surname across works/articles/sources/events/topics — hit set unchanged (#219, #455, works index); the taiwanjustice-net 2023 hit is 戴思棠 (UK MP Tanmanjeet Singh Dhesi transliteration), NOT this person — name-collision excluded. Deepened: cohort peers 趙君婷/蘇毓婷 now wikilinked to their existing work records. No new facts absorbable. -->

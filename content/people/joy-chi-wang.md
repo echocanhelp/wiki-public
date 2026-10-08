@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Joy Chi Wang (王琦)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10070315-7 (2026-10-08): re-grepped ZH+EN across works/articles/sources/events/topics with corrected -E syntax — hit set unchanged: own #365/#1288 records + index rows only; no third-party memoir/church/event text. SKIP, nothing absorbable. -->

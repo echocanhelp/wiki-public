@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Feng-Jen Lu (路鳳真)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09252123-4 (2026-09-26): re-verified — fresh ZH+EN grep of works/ + articles/ returns only own already-linked records + works/index rollup; saturated, nothing absorbable; no conflicts. -->
 <!-- deepen-x slice 10051340-29 (2026-10-07): re-verified — widened grep (路鳳真/Feng-Jen Lu/路凤真/鳳真) across works/articles/sources/events/topics returns only own already-linked records (#1638, #399) + index rollup; verified-saturated, nothing absorbable; no conflicts. -->
+<!-- deepen-x slice 10070315-7 (2026-10-08): re-grepped ZH+EN+surname (路鳳真/鳳真/Feng-Jen Lu) across works/articles/sources/events/topics — hit set unchanged: own #1638/#399 records + index rows only; verified-saturated, nothing absorbable; no conflicts. -->
