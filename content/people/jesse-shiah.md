@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Jesse Shiah
 
@@ -59,3 +59,4 @@ HOLD: possible relation to community organiser SueAnn Shiah 夏叔安 ([[works/t
 <!-- deepen-x slice 09250317-20: re-verify 2026-09-25 — fresh ZH+EN grep (works+articles): identical hit set to prior slices, all already absorbed. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 09251527-10: re-verify 2026-09-26 — fresh ZH+EN grep (works+articles): hit set identical to prior slices, all already absorbed. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 10051909-23: re-verify 2026-10-07 — fresh ZH+EN+variant grep (Jesse Shiah / Shiah / 夏叔安 / AgilePoint) across works/ + articles/ + sources/ + events/ + topics/: identical hit set to prior slices (own #1359 record + SueAnn Shiah's own essays + index + source page), all already absorbed. Verified saturated; SKIP-no-new-facts; HOLD on Shiah relation stands. -->
+<!-- deepen-x slice 10070400-31: re-verify 2026-10-08 — fresh grep (Jesse Shiah / AgilePoint / 夏叔安) across all five corpus dirs: identical hit set to prior slices (own #1359 record + SueAnn Shiah's own essays + index + source page), all already absorbed. Verified saturated; SKIP-no-new-facts; HOLD on Shiah relation stands. -->
