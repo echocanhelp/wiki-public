@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Victor Liu (劉亮華)
 
@@ -57,3 +57,5 @@ last_reviewed: 2026-10-07
 > Re-check (deepen-x 09261100-11, 2026-10-01): fresh ZH+EN grep of content/works + content/articles — hit set identical to prior passes (own TAH bibliographic record whoswho1551 + works/index only; plus the unrelated 紅通-family taiwanjustice article, whose text confirms that Victor Liu is US-born and a Georgetown sophomore, i.e. not this person). SKIP confirmed; nothing absorbable, no biography invented.
 
 > Re-check (deepen-x slice 10051918-1, 2026-10-07): fresh ZH+EN grep across works/ + articles/ + sources/ + events/ + topics/ — hit set identical to prior passes (own record whoswho1551 + works/index + sources index; plus the unrelated 紅通-family taiwanjustice article, confirmed not this person). SKIP confirmed; nothing absorbable, no biography invented.
+
+<!-- deepen-x slice 10070500-10 re-check 2026-10-08: verified-saturated. Fresh ZH+EN+surname grep of works/ articles/ sources/ events/ topics/ returns only own TAH record + index/source-hub rollups plus confirmed false positives (other people sharing the name, Taigi romanization hits); no new absorbable corpus material. -->

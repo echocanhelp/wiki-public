@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 # deepen-x 09232232-2 / 09251039-32: SKIP re-verified 2026-09-25 and 2026-09-26 — fresh grep 陳士東/S. D. Chen matched only own whoswho923 record + works/index listing; no absorbable community material
 ---
 # S. D. Chen (陳士東)
@@ -49,3 +49,5 @@ S. D. Chen (陳士東) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus check 2026-10-07 (slice 10052007-21, five dirs + 士東/S.D. Chen/Chen Shih variants): own record whoswho923 + index only; the sole variant hit is Chen Shih-chung 陳時中 (health minister) — different person. Verified-saturated, no absorbable material.
+
+<!-- deepen-x slice 10070500-10 re-check 2026-10-08: verified-saturated. Fresh ZH+EN+surname grep of works/ articles/ sources/ events/ topics/ returns only own TAH record + index/source-hub rollups plus confirmed false positives (other people sharing the name, Taigi romanization hits); no new absorbable corpus material. -->
