@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-08
 ---
 # Spencer Chen
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09251527-6: re-verify 2026-09-26 — fresh grep (ZH+EN, works+articles): hit set identical to prior absorptions, all already linked in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 10051200-23: re-verify 2026-10-06 — fresh grep Spencer Chen (works/articles/sources/events/topics) returns only whos-who-1957 + ourjourneys33-eng + indexes (taiwanjustice hits are false positives: 斯賓格勒/法斯賓達/斯賓拉德, unrelated); employer-name probe (Anesivas/TriReme/etc.) hits only an unrelated bitcoin article. Verified saturated; SKIP-no-new-facts. -->
+<!-- Corpus re-grep 2026-10-08 (slice 10062248-3): fresh ZH+EN grep Spencer Chen / Anesivas / TriReme across works/articles/sources/events/topics returns only whos-who-1957 + ourjourneys33-eng + indexes — all already absorbed. Verified saturated; SKIP-no-new-facts. -->

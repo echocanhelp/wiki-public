@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-08
 ---
 # 蕭樂善
 
@@ -58,3 +58,4 @@ last_reviewed: 2026-09-30
 - Re-verified 2026-09-25 (slice 09250317-27): fresh ZH+EN grep returns only [[works/taiwaneseamericanhistory-org/whos866|TAH #866]] + the daughter' memoir [[works/taiwaneseamericanhistory-org/ourjourneys215|#215]] + works index — both already absorbed. SKIP-with-reason (verified-saturated).
 <!-- deepen-x slice 09251527-6: re-verify 2026-09-26 — fresh grep (ZH+EN, works+articles): hit set identical to prior absorptions, all already linked in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 10051200-23: re-verify 2026-10-06 — fresh grep 蕭樂善/蕭樂 (ZH+EN, works/articles/sources/events/topics) returns only whos866 + ourjourneys215 + indexes, all already absorbed; surname/alias probe (L.S. Shaw, 蕭永真-adjacent records) adds nothing on him. Verified saturated; SKIP-no-new-facts. -->
+<!-- Corpus re-grep 2026-10-08 (slice 10062248-3): fresh ZH+EN grep 蕭樂善/蕭樂/L.S. Shaw across works/articles/sources/events/topics returns only whos866 + ourjourneys215 + indexes — all already absorbed. Verified saturated; SKIP-no-new-facts. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Wen. H. Chang (張文旭)
 
@@ -59,3 +59,4 @@ Our own memoir corpus records 張文旭 as a founding pillar of the Taiwanese Am
 > Corpus re-grep 2026-10-01 (slice 09260900-32): fresh ZH+EN grep of works/ + articles/ — hit set identical to prior slices (own TAH record + works index + already-linked article/memoir pages); verified-saturated, SKIP-with-reason, no new absorbable material.
 
 Corpus re-grep 2026-10-06 (slice 10051200-24): fresh grep 張文旭/Wen. H. Chang across works/articles/sources/events/topics returns the same set — ourjourneys43 (聖恩長老教會 committee member, whole-family commitment), ourjourneys58 (only bare 文旭 = 黃文旭, unrelated), own TAH #1643 record, indexes. Verified saturated; SKIP-content, no new absorbable material.
+<!-- Corpus re-grep 2026-10-08 (slice 10062248-3): fresh ZH+EN grep 張文旭/Wen. H. Chang across works/articles/sources/events/topics returns only ourjourneys43 + own TAH #1643 record + indexes — all already absorbed. Verified saturated; SKIP-content. -->
