@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Chang-Jang Hsieh (謝常彰教授)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 10051340-23 re-grep 2026-10-07: fresh ZH+EN grep (謝常彰/Chang-Jang Hsieh/常彰) across works/articles/sources/events/topics returns only Our Journeys 321 (TC + EN), own TAH #1876 mirror, works index, sources mirror — facts already absorbed; no new memoir material — verified saturated, SKIP content-deepen. -->
+<!-- deepen-x slice 10070034-7 re-grep 2026-10-08: fresh ZH+EN grep (謝常彰/Chang-Jang Hsieh/常彰) across works/articles/sources/events/topics returns only Our Journeys 321 (TC + EN — 1981–82 Chen Wen-Chen Memorial second-drive fundraising roster, already absorbed above), own TAH #1876 mirror, works index, sources mirror — verified saturated, SKIP content-deepen. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Li-Shan Hung (洪儷珊)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09251527-12 re-grep 2026-09-26: fresh ZH+EN grep of works+articles returns only own-name records already wikilinked on this page (plus works index); no new third-party corpus material — verified saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 09260854-31 re-grep 2026-09-30: fresh ZH+EN grep of works+articles returns only own-name records already wikilinked on this page (plus works index); no new third-party corpus material — verified saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 10051340-23 re-grep 2026-10-07: fresh ZH+EN+surname grep (洪儷珊/Li-Shan Hung/儷珊) across works/articles/sources/events/topics returns only own-name records #328/#819 + works index + sources mirror; no new third-party corpus material — verified saturated, SKIP content-deepen. -->
+<!-- deepen-x slice 10070034-7 re-grep 2026-10-08: fresh ZH+EN+surname grep (洪儷珊/Li-Shan Hung/儷珊) across works/articles/sources/events/topics returns only own-name records #328/#819 + works index + sources mirror; no third-party corpus material — verified saturated, SKIP content-deepen. -->

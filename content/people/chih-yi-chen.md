@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chih-Yi Chen (陳志毅)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09240900-10 (2026-09-25): re-verified — fresh grep hit set identical to material already absorbed/cited on this page (own records + index only); no new memoir/community material. SKIP. -->
 <!-- deepen-x slice 09251400-12 (2026-09-26): re-verified — fresh grep hit set identical to material already absorbed/cited on this page (own records + index only); no new memoir/community material. SKIP. -->
 <!-- deepen-x slice 10051340-23 re-grep 2026-10-07: fresh ZH+EN grep (陳志毅/Chih-Yi Chen/智毅) across works/articles/sources/events/topics returns only own #305/#675 records + works index + sources mirror; no third-party corpus mentions — verified saturated, SKIP content-deepen. -->
+<!-- deepen-x slice 10070034-7 re-grep 2026-10-08: fresh ZH+EN grep (陳志毅/Chih-Yi Chen/志毅) across works/articles/sources/events/topics returns only own #305/#675 records + works index + sources mirror; no third-party corpus mentions — verified saturated, SKIP content-deepen. -->
