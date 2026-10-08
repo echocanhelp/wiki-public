@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Yunn-Mei Lin (林詠梅)
 
@@ -42,6 +42,7 @@ last_reviewed: 2026-10-06
 - Sweep 2026-09-26 (deepen-x slice 09251047-30): fresh ZH+EN grep of works/+articles/ — hits limited to own TAH directory record + works index; no new absorbable community facts. SKIP.
 - 2026-10-06 re-grep (slice 10051200-11): ZH+EN grep returns only her own #217 record and the index — nothing naming her independently in the memoirs.
 - Reconciled with the family layer: her husband [[people/dr-fu-tong-hsu||Dr. Fu-Tong Hsu 徐福棟博士]]'s vault page lists her as wife and their son Eric, matching the Family section above; his own encyclopedia records sit in the corpus: [[works/taiwaneseamericanhistory-org/ota-251|251. Dr. Fu-Tong Hsu 徐福棟博士]] and [[works/taiwaneseamericanhistory-org/ff224|224. Dr. Fu-tong Hsu 徐福棟博士 / The first president of TAA/NY / 1964]].
+- 2026-10-08 re-grep (slice 10062218-10): ZH+EN sweep across works/articles/sources/events/topics (林詠梅 / Yunn-Mei / 詠梅 variants) returns only her own #217 record, the works index, and the source-hub listing — 詠 hits elsewhere belong to 馬水龍 (Yunn-Shan Ma) and unrelated news. Nothing naming her independently in the memoirs; SKIP stands, family layer already reconciled above.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Taiwanese Overseas Student Association at the University of Washington
 
@@ -24,6 +24,7 @@ The Taiwanese Overseas Student Association at the University of Washington (TOSA
 - **2014-10-12** — TAH Foundation recorded the organization under its Chinese name 華大海外同學會 in the community historical record — [[works/taiwaneseamericanhistory-org/tosa-taiwnanese-overseas-students-association|Taiwanese Overseas Students Association (TOSA) 華大海外同學會]].
 - Re-verified 2026-09-22 (deepen-x slice 09220700-18) and 2026-09-23 (slice 09221500-20): fresh grep of works/ and articles/ for TOSA / TOSAUW / 華大海外同學會 hits only the two corpus records already absorbed above plus the works index — no new absorbable material (re-verified 2026-09-25, slices 09231000-26 and 09250400-15; and 2026-09-26, slice 09252123-26 — same hit set).
 - Re-verified 2026-10-06 (deepen-x slice 10051200-6): fresh grep TOSA / TOSAUW / 華大海外同學會 across works/articles/sources/events/topics returns only the two corpus records already absorbed — the 2012-05-19 Seattle night-market record and the 2014-10-12 TAH directory record — plus index listings — same hit set; verified saturated, no new absorbable material.
+- 2026-10-08 re-grep (slice 10062218-10): same saturated hit set. Contextualized against the UW sister-org records in the corpus: [[works/taiwaneseamericanhistory-org/tsa-taiwanese-student-association-at-the-university-of-washington|TSA 華大台灣學生會]] (2014 directory record) and [[works/taiwaneseamericanhistory-org/uw-itaiwan-graduate-students-and-professional-association|UW iTAIWAN Graduate Students and Professional Association 西雅圖華大台灣研究生社]] (2015 record) document the parallel UW Taiwanese student bodies TOSA coexisted with; the 2012 night-market record shows TOSA's joint outreach with TSA. No new TOSA-specific facts beyond the two records above.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-overseas-student-association-at-the-university-of-washington/)

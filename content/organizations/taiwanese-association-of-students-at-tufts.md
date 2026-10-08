@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Taiwanese Association of Students at Tufts
 
@@ -32,3 +32,4 @@ The Taiwanese Association of Students at Tufts (TAST) is a culture-oriented stud
 
 - 2026-09-26 re-verify (deepen-x 09251031-18): fresh grep — no TAST hit in works/articles ("TAST" matches are TASTA 華府台灣產業科技協會, unrelated). SKIP stands.
 - 2026-10-06 re-verify (deepen-x 10051200-10): fresh grep — no TAST hit; Tufts hits remain Tiao/Chang bios + unrelated news; "TAST" matches remain TASTA. SKIP stands.
+- 2026-10-08 re-verify (deepen-x 10062218-10): fresh grep across works/articles/sources/events/topics for "Taiwanese Association of Students at Tufts" / TAST — only hit is the source-hub directory listing itself; Tufts hits remain the Will Tiao / Anita Chang alumni bios and unrelated Taiwanjustice news transcriptions. No TAST-specific corpus material; SKIP stands, page rests on the TAH directory entry and JumboLife profile.
