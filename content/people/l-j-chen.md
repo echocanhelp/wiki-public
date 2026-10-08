@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # L. J. Chen (陳柳江)
 
@@ -44,3 +44,5 @@ last_reviewed: 2026-10-06
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- Re-verified 2026-10-08 (deepen-x slice 10061023-2): fresh grep (陳柳江 / L. J. Chen) across works/articles/sources/events/topics — identical hit set: ourjourneys53 pair (台灣會館遷址回憶, both language versions), own record whoswho1062, works/index, sources hub. The memoir's community detail (洪美和's 「心弦交響」 Wednesdays, the couple's 營費午餐) is already absorbed above. Verified-saturated, SKIP. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Flora Kao (高微婷)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grepped corpus 2026-09-26 (slice 09252123-6): same hit set — own four TAH pages + works index only; verified saturated, SKIP.
 - Re-verified 2026-10-06 (deepen-x slice 10051143-22): fresh grep ZH+EN (高微婷 / Flora Kao) across works/articles/sources/events/topics — same hit set: her own four TAH pages (621/622/artist35/whos319) plus works/sources index. No memoir text. Verified-saturated, SKIP.
+- Re-verified 2026-10-08 (deepen-x slice 10061023-2): fresh grep ZH+EN (高微婷 / Flora Kao) across works/articles/sources/events/topics — identical hit set: own four TAH pages (621/622/artist35/whos319) plus works/sources index. Verified-saturated, SKIP.
