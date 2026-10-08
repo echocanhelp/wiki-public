@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Winston Wen (溫隆志)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- DEEPEN-X SKIP 2026-10-07 (slice 10052007-28 re-verify): five-dir greps (溫隆志 / Winston Wen / 隆志) return only own record [[works/taiwaneseamericanhistory-org/whoswho1488|TAH #1488]], works index, and sources registry; 隆志 hits are 陳隆志 (Lung-Chi Chen, different person). Verified-saturated. -->
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070700-23 re-verify): five-dir greps (溫隆志 / Winston Wen / 隆志) — all 隆志 hits are 陳隆志 (Lung-Chi Chen, different person); zero 溫隆志/Winston Wen hits beyond own record + index/registry. Verified-saturated. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Lily Chiang (姜萊莉)
 
@@ -40,6 +40,7 @@ last_reviewed: 2026-10-07
 ## Role in the Community
 - Profiled in the TAH Foundation Who's Who encyclopedia: [[works/taiwaneseamericanhistory-org/300-lily-chaing-201502|300. Lily Chiang 姜萊莉 / 2015/02]] (2015-02-15), the only corpus record so far. The entry documents an entrepreneurship path from 高雄 to Arizona (林氏集團、Meto地產、室內設計顧問); no movement/activity records found in the memoir corpus beyond this profile (re-verified 2026-09-22; re-swept 2026-09-25 and 2026-09-26 (slice 09251047-16): ZH+EN grep of works/ and articles/ returns only her own encyclopedia record #300 and the works index — SKIP: no corpus material to absorb).
 - Sweep 2026-10-07 (deepen-x slice 10052007-25): five-dir grep for 姜萊莉/Lily Chiang/Chaing — 萊莉 hit in taiwanjustice 2024 article is 喜萊莉 (Hillary Clinton, false positive); publications542–544 are 姜西淋 Sie Ling Chiang (different person). No new material. SKIP: verified-saturated.
+- Sweep 2026-10-08 (deepen-x slice 10070700-23): five-dir grep (works/articles/sources/events/topics) for 姜萊莉/Lily Chiang/萊莉 — hits limited to own record [[works/taiwaneseamericanhistory-org/300-lily-chaing-201502|TAH #300]], works index, sources registry, and the taiwanjustice 2024 false positive (喜萊莉 = Hillary Clinton). No new absorbable material. SKIP: verified-saturated.
 
 ## Sources
 - [TAH #300 encyclopedia: 300. Lily Chiang 姜萊莉 / 2015/02](https://taiwaneseamericanhistory.org/300-lily-chaing-201502/)
