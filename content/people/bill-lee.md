@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Bill Lee (李君偉)
 
@@ -47,4 +47,5 @@ last_reviewed: 2026-10-07
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+> Re-verified 2026-10-08 (deepen-x slice 10070600-22): fresh five-dir greps (李君偉 / Bill Lee / 君偉) return only own TAH record [[works/taiwaneseamericanhistory-org/whoswho1601|#1601]] + index rows. Checked this pass: [[works/taiwaneseamericanhistory-org/whos-who-1672-bill-h-c-lee|1672. Rev. Bill H. C. Lee 李信彰牧師]] is a DIFFERENT person (李信彰, not 李君偉) — not absorbed. SKIP stands.
 > Re-verified 2026-10-07 (deepen-x slice 10051948-29): fresh five-dir greps (李君偉 / Bill Lee / 李清木) return only own TAH record [[works/taiwaneseamericanhistory-org/whoswho1601|#1601]] + index rows. The 李清木 hit is a 2023 taiwanjustice-net article about his father's 世界台灣文化論壇 lectures — belongs on [[people/chingmhu-lee|李清木]], not here. No new material for Bill Lee. SKIP stands.

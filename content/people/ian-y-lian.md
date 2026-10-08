@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 # deepen-x 09180800-22: SKIP — corpus grep matched only his own TAH record 1370 (bibliographic stub) plus index listings; no absorbable community material
 # deepen-x 09200939-12: SKIP re-verified — fresh 2026-09-21 grep matched only own TAH #1370 stub + works/index; no absorbable community material
 # deepen-x 09210920-24: SKIP re-verified 2026-09-22 — grep "Ian Y. Lian" matched only own whoswho1370 stub + index; broad 連 grep hits were false positives (連續/連署/連瑪玉); nothing absorbable
@@ -49,4 +49,4 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-SKIP-with-reason (re-verified 2026-10-07, slice 10052007-6): exact-name grep 'Ian Y. Lian' / 'Ian Lian' across works/, articles/, sources/, events/, topics/ returns only his own TAH record [[works/taiwaneseamericanhistory-org/whoswho1370|record 1370 (bibliographic stub)]] and the works index. Broad 連 hits remain false positives (連續/連署/連瑪玉 etc.). No community memoirs or movement records mention him; nothing absorbable; no biography invented.
+SKIP-with-reason (re-verified 2026-10-08, slice 10070600-22; also 2026-10-07, slice 10052007-6): exact-name grep 'Ian Y. Lian' / 'Ian Lian' across works/, articles/, sources/, events/, topics/ returns only his own TAH record [[works/taiwaneseamericanhistory-org/whoswho1370|record 1370 (bibliographic stub)]] and the works index. Broad 連 hits remain false positives (連續/連署/連瑪玉 etc.). No community memoirs or movement records mention him; nothing absorbable; no biography invented. This pass also checked the bare-'Ian' hit [[works/taiwaneseamericanhistory-org/ourjourneys262|ourjourneys262]] — that Ian is named there as 丁博生夫婦之公子 (the Ding sons' circle), not Lian; not absorbed.
