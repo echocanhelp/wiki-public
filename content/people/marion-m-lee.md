@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Marion M Lee (李明瑱教授)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 <!-- DEEPEN-X re-check 2026-10-01 (slice 09261341-11): ZH+EN grep of works+articles again returned only own record [[works/taiwaneseamericanhistory-org/whoswho1017|TAHS #1017]] + works index. SKIP — nothing absorbable, no conflicts. -->
 
 <!-- DEEPEN-X re-check 2026-10-07 (slice 10051948-1): fresh five-dir greps (李明瑱 / Marion M Lee) returned only own [[works/taiwaneseamericanhistory-org/whoswho1017|TAHS #1017]] + index/source rows. SKIP — nothing absorbable, no conflicts. -->
+<!-- DEEPEN-X re-check 2026-10-08 (slice 10070600-16): fresh five-dir greps (李明瑱 / Marion M Lee / Marion Lee) returned only own [[works/taiwaneseamericanhistory-org/whoswho1017|TAHS #1017]] + works/index + sources row. SKIP — verified-saturated, nothing absorbable, no conflicts. -->

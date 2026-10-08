@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Albert G. Chang (章錦華)
 
@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- DEEPEN-X re-check 2026-10-08 (slice 10070600-16): fresh five-dir greps (章錦華 / Albert G. Chang / Albert Chang, works+articles+sources+events+topics) returned only own [[works/taiwaneseamericanhistory-org/whos-who-2069-albert-g-chang|TAH #2069]] + works/index + sources row. SKIP — verified-saturated, nothing absorbable, no conflicts. -->

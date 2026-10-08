@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Robert G. Chu (朱靜懷)
 
@@ -50,3 +50,5 @@ last_reviewed: 2026-10-07
 <!-- DEEPEN-X RECHECK 2026-09-25 (slice 09250600-28): corpus grep re-run (ZH+EN, works+articles) — hit set unchanged: own TAH #2144 record + index only. SKIP stands. -->
 
 <!-- DEEPEN-X RECHECK 2026-10-07 (slice 10051918-32): corpus grep re-run (朱靜懷 / Robert G. Chu / 朱明威 / 蔡珠美, all five corpus dirs) — hit set unchanged: own TAH #2144 record + index only. SKIP stands, verified-saturated. -->
+
+<!-- DEEPEN-X RECHECK 2026-10-08 (slice 10070600-16): five-dir greps (朱靜懷 / Robert G. Chu / Robert Chu) returned own [[works/taiwaneseamericanhistory-org/whos-who-2144-robert-g-chu|TAH #2144]] + index + sources row, plus a FALSE match on [[works/taiwaneseamericanhistory-org/whoswho1411|whoswho1411]] — that record is Robert Chung 鐘博盈 (substring 'Chu' collision), not Chu. No new material. SKIP stands, verified-saturated. -->
