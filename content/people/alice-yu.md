@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Alice Yu (游陳鈴津)
 
@@ -60,3 +60,4 @@ Distinguished Chair Professor
 <!-- deepen-x slice 09240700-32 (2026-09-25): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns the hit-set already absorbed on this page; no new corpus facts, no conflicts. -->
 <!-- deepen-x slice 09251023-6 (2026-09-26): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns only whoswho1533 + index, already absorbed on this page; no new corpus facts, no conflicts. -->
 <!-- deepen-x slice 09260600-28 (2026-09-27): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns the hit-set already absorbed on this page; no new corpus facts, no conflicts. -->
+<!-- deepen-x slice 10070400-21 (2026-10-08): fresh ZH+EN grep (游陳鈴津/陳鈴津/Alice Yu/Lin-Tsing) returns only whoswho1533, work #74 (ASCO award, absorbed 2026-10-07), works index, sources index — all already absorbed on this page; no new corpus facts, no conflicts. Verified-saturated. -->
