@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Susan Chuang (莊士晟)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 
 - 2026-10-02 re-verified (deepen-x slice 09261400-15, closed): fresh ZH+EN grep over works/ + articles/ returns only the own TAH record entry in works/index.md — SKIP-with-reason unchanged: no memoir material to absorb.
 - 2026-10-07 re-verified (deepen-x slice 10051948-25): 莊士晟/Susan Chuang grep returns only own record + index; substring 士晟 hits are 曾士晟 (unrelated suspect in a taiwanjustice.net news article, not this person) — SKIP-with-reason unchanged.
+- 2026-10-08 re-verified (deepen-x slice 10070600-29): five-dir ZH+EN grep returns only own record [[works/taiwaneseamericanhistory-org/whos-who-2271-susan-chuang|whos-who-2271]] + works/sources index rows. SKIP verified-saturated.
