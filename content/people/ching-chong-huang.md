@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Ching-Chong Huang (黃慶鍾醫師)
 
@@ -32,7 +32,7 @@ last_reviewed: 2026-10-07
 ## Role in the Community
 
 - **2011–2012 — 會長, 芝加哥台灣同鄉會 (Chicago Taiwanese Association)**, per the association's 50-year officers roster in [[works/taiwaneseamericanhistory-org/our-journeys-378|378. 芝加哥台灣同鄉會50年的歳月 / 10/2021]]. Consistent with his University of Chicago residency noted above.
-- **2018-07** — Signatory (listed as 黃慶鍾・醫學) of the open letter from NTU alumni protesting 南加州台大校友會's invitation of 管中閔 to the annual meeting [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|台灣正義網 2018-07 校友連署聲明]].
+- **2018-07** — Signatory (listed as 黃慶鍾・醫學) of the open letter from NTU alumni protesting 南加州台大校友會's invitation of 管中閔 to the annual meeting [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|台灣正義網 2018-07 校友連署聲明]]. The signatory roster in the same article lists him as 黃慶鍾(醫學), independently corroborating the 台大 M.D. (醫學) noted in Education.
 - Corpus check (deepen-x 09231400-22, 2026-09-25): fresh grep returns only the 3 already-absorbed sources (CTA 50-year officers roster, own record, 2018 台大校友連署聲明) — nothing new.
 - Own TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whoswho1234|1234. Ching-Chong Huang 黃慶鍾 / 2016/08]].
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 ## Work log
 - SKIP (deepen-x slice 09251031-9, 2026-09-26): fresh ZH+EN grep of content/works + content/articles returned only the hit set already absorbed by this page (own TAH record + index, plus previously cited works); nothing new absorbable.
 - SKIP (deepen-x slice 10051948-7, 2026-10-07): extended five-dir grep (works/articles/sources/events/topics) for 黃慶鍾 / Ching-Chong Huang / 慶鍾 -> hit set identical to the three sources already cited above (CTA 50-year roster, own TAH record, 2018 連署聲明) + index/source mirrors; nothing new absorbable.
+- 2026-10-08 (deepen-x slice 10070600-14): five-dir grep re-run — hit set unchanged. The 2018 article's signatory roster appendix lists him as 黃慶鍾(醫學), corroborating the 台大 M.D.; that corroboration absorbed into Role in the Community. No other new material.

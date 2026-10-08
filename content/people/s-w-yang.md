@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # S. W. Yang (楊筱薇)
 
@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-25 (deepen-x slice 09231500-14): fresh ZH+EN grep returns only her own record [[works/taiwaneseamericanhistory-org/whos-who-1713-s-w-yang|whos-who-1713]]; no article or memoir mentions. SKIP stands.
 - Re-verified 2026-09-26 (deepen-x slice 09251039-1): fresh ZH+EN grep of works/ + articles/ again returns only [[works/taiwaneseamericanhistory-org/whos-who-1713-s-w-yang|whos-who-1713]] + works/index; no new material. SKIP.
 - Re-verified 2026-10-07 (deepen-x slice 10051948-19): five-dir grep (楊筱薇/筱薇/S. W. Yang) — apparent article hits are false positives: 台南市議員蔡筱薇 (tjn 2026 二二八紀念館 article) and 華裔市議員邵陽 Yang Shao (tjn 2025 華運會 article), both different people. Only own record [[works/taiwaneseamericanhistory-org/whos-who-1713-s-w-yang|whos-who-1713]] + index. Verified-saturated; SKIP stands.
+- Re-verified 2026-10-08 (deepen-x slice 10070600-14): five-dir grep re-run — same false-positive set ([articles/taiwanjustice-net/2026/20260118100109_日治台南州會整修_受難家屬盼作二二八紀念館_0555cd9064286427|tjn 2026 二二八紀念館 article] = 台南市議員蔡筱薇, a different person); only own record + sources mirror. Verified-saturated; SKIP.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
