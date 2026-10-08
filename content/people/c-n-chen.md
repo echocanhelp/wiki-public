@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # C. N. Chen (陳建南)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - **deepen-x re-grep 2026-09-26 (slice 09251023-14):** fresh grep returns identical hit set (ourjourneys-138, ourjourneys107, ourjourneys217, whoswho1770, index) — verified-saturated, nothing new absorbable.
 - **deepen-x re-grep 2026-10-06 (slice 10051143-21):** fresh ZH+EN grep -rl across works/articles/sources/events/topics returns identical hit set (ourjourneys-138, ourjourneys107, ourjourneys217, whoswho1770, index, sources) — verified-saturated, nothing new absorbable. SKIP-with-reason.
+- **deepen-x re-grep 2026-10-08 (slice 10060950-2):** given-name sweep (建南) surfaces two new corpus hits, both false positives — a 2026 TJJ 台積電 article matches 建南 inside 「興建南科3奈米廠」, and recent TJJ essays name 黎建南, a pro-Beijing commentator (surname 黎 ≠ 陳; e.g. [[articles/taiwanjustice-net/2025/20250216032743_這個國度_人們為何扭曲如蛆_-_-余杰_60f418e52339a61a|這個國度，人們為何扭曲如蛆？(余杰)]] 2025-02). Neither links to this page. Full-name grep (陳建南 / C. N. Chen) returns the unchanged four records above — verified-saturated, nothing new absorbable. SKIP.
