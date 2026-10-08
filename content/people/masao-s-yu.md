@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Masao S. Yu (游祥修醫師)
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - HOLD: HCR 88 date conflict (no auto-merge). Our Journeys #228 (楊遠薰, 2016-05) narrates the HCR 88 case as current; the taiwanjustice article places House passage on 2016-05-16 but says Chabot drafted and introduced it in 2015 (「去年提出草擬」), and its opening line credits the bill's passage to the **Congressional Taiwan Caucus**, with Chabot as drafter — so "Chabot personally introduced it this time" vs "the Caucus introduced it; Chabot drafted it" is an unresolved source conflict, as is whether Brown ever co-sponsored HCR 88 or only earlier Taiwan resolutions.
 - Own TAH Who's Who profile record: [[works/taiwaneseamericanhistory-org/whos-masao-s-yu|671. Masao S. Yu 游祥修 / 2015/10]].
 - Corpus re-verified 2026-09-25 (deepen-x slice 09250600-26) and 2026-10-01 (slice 09261200-9): grep confirms the Cleveland founding roster (25 人, 北醫 contingent), the NATMA 1984-07-14 attendance, and the Cleveland-delegation by-name roster already absorbed above. The only non-self corpus hits are ourjourneys74 / -eng and ourjourneys228; no other memoir carries 游祥修 (the FAPA 克里夫蘭分會 organization page itself is still absent from the vault, so the Cleveland hubs above are the closest in-vault pages).
+- Corpus re-grep 2026-10-08 (deepen-x slice 10062334-8): fresh 游祥修 / Masao Yu grep across works/ articles/ sources/ events/ topics/ returned the identical hit set (ourjourneys74 / -eng, ourjourneys228, whos-masao-s-yu #671, works/index, sources index) — all absorbed above. SKIP: verified-saturated, no new facts, no conflicts.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/masao-s-yu/)

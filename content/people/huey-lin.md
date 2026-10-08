@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Huey Lin (林惠洲)
 
@@ -56,3 +56,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-check 2026-09-26 (deepen-x slice 09260500-30): fresh ZH+EN grep of works/ + articles/ — hit set identical to the records already linked and absorbed on this page (plus index listings). No new community-corpus material. SKIP-deepen; verified-saturated.
+
+- Corpus re-grep 2026-10-08 (deepen-x slice 10062334-8): fresh ZH+EN grep across works/ articles/ sources/ events/ topics/ returned 7 hits — ourjourneys186/-eng (TACL consultant roster), our-journeys-388 (耆老講座), whoswho1401, the 林佳惠 disambig entry, works/index, sources/taiwaneseamericanhistory-org — all already absorbed and wikilinked above. No new community facts. SKIP: verified-saturated.
