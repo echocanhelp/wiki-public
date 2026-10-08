@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Kung-Ming Jan (詹恭明醫師)
 
@@ -51,3 +51,4 @@ He appears in the same 2018-02-06 corpus tranche as fellow Taiwanese-American ph
 
 <!-- deepen-x slice 09251031-21 recheck 2026-09-26: SKIP — fresh ZH+EN grep of works/+articles matched only the pages already wikilinked here (+ works/index). No new memoir/community material. -->
 <!-- deepen-x slice 10051909-4 2026-10-07: re-verify — fresh ZH+EN grep (詹恭明/Kung-Ming Jan/恭明): own record whos-who-2014 + index only (Dr. Jan Popper hit = musicologist, not this Jan); SKIP persists. -->
+<!-- deepen-x slice 10070400-14 recheck 2026-10-08: SKIP — fresh grep (詹恭明/Kung-Ming Jan/kungming/恭明) across all five corpus dirs returned only own record whos-who-2014, works/index, source hub. No memoir or community material. Verified-saturated. -->
