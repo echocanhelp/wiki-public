@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Miriam Liu Wu (劉逸青)
 
@@ -37,6 +37,7 @@ last_reviewed: 2026-10-07
 - deepen-x slice 09251047-5 (2026-09-26): fresh ZH+EN grep (-E) of works/ + articles/ — hits limited to own record [[works/taiwaneseamericanhistory-org/1214-miriam-liu-wu-e5-8a-89-e9-80-b8-e9-9d-92-201608|#1214]] + works index; SKIP, nothing absorbable.
 
 - 2026-10-07 deepen-x slice 10051948-28: fresh five-dir grep (ZH+EN+surname/variant probes) — hit set unchanged (own encyclopedia record + works index + sources page only); nothing absorbable, SKIP re-confirmed.
+- 2026-10-08 deepen-x slice 10070700-4: five-dir grep + knowledge/web-archives sweep — 逸青 hits outside own record belong to Prof. Carol Ou 歐逸青 (a different person); only hits are #1214 + index. Nothing new; SKIP re-confirmed.
 
 ## Family
 

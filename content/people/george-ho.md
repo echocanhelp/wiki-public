@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # George Ho (何震輝)
 
@@ -22,6 +22,7 @@ last_reviewed: 2026-10-01
 
 ## Role in the Community
 - Profiled in the TAH community encyclopedia: [[works/taiwaneseamericanhistory-org/whoswho1503|1503. George Ho 何震輝 / 2017/02]] (published 2017-02-12, band B, no article text). Physician (Northwestern Feinberg 1988); no community/memoir mentions beyond the own record (re-verified 2026-09-26, deepen-x 09251039-28).
+- 1999 — As 何震輝醫師, delivered the talk 「攝護腺癌及其他與泌尿有關的疾病」 (prostate cancer and other urological conditions) on the Medicine & Health program of MTSC 1999, alongside Dr. 曹昌榮's stroke-prevention talk, per the conference report preserved in the vault (work page [[works/taiwaneseamericanhistory-org/mtsc-1999|MTSC 1999]]). Exact ZH-name match against this page's physician profile (Northwestern 1988 → active practice by 1999); earlier SKIP verdicts swept content/ only — the talk surfaces in the knowledge/web-archives full text.
 
 ## Identity Snapshot
 - **English:** George Ho
