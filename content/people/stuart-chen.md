@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Stuart Chen (陳照雄)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-10-07 re-sweep (slice 10051948-21): fresh ZH+EN grep of works/articles/sources/events/topics plus whole-tree sweep — hits remain only own encyclopedia record + works index + source page; no new corpus mentions; SKIP-deepen stands.
+- 2026-10-08 re-verified (deepen-x slice 10070600-28): five-dir grep (陳照雄/Stuart Chen/照雄) — substring hits are distinct persons: 曾照雄 (TAI 總幹事, ourjourneys37), 吳照雄 (Dr. Chau H. Wu, ourjourneys47/whos-who-1966), 楊照雄 (NATPA symposium attendee, ourjourneys47). No third-party mention of Stuart Chen himself. SKIP stands.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Joseph Chang (張玉明牧師)
 
@@ -38,6 +38,7 @@ last_reviewed: 2026-10-07
 - Corpus record is consistent with the church-planting and theological-education lines above (布蘭諾華人宣道會 founder, 美國台福神學院博士班主任, 台福爾灣基督教會主任牧師); no conflicts.
 - Re-check 2026-09-22 (slice 09210500-31): corpus grep of content/works + content/articles for 張玉明/Joseph Chang again returned only this own entry — no additional community-authored material to absorb. Re-grepped 2026-09-25 (slices 09231300-3, 09250600-32): hit set unchanged — verified saturated.
 - Re-grepped 2026-10-07 (slice 10051948-22, all five corpus dirs): only own record + indexes. Note: 陳玉明 (ch. 313/314, 東田納西台灣同鄉會 founding president) is a **different person** — not absorbed. SKIP stands.
+- 2026-10-08 re-verified (deepen-x slice 10070600-28): five-dir grep (張玉明/Joseph Chang/玉明) — only own record + indexes; substring hits are 陳玉明 (ourjourneys313/314, different person, as noted) and 戴玉明 (PRC diplomat, taiwanjustice.net news). SKIP stands.
 
 ## Family
 

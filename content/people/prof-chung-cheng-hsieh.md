@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Chung-Cheng Hsieh (謝中誠教授)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - Re-grepped 2026-09-21 (slice 09201503-20) and 2026-09-22 (slice 09211507-31): no memoir/article mentions beyond this own-record and the works index; nothing further absorbable.
 - 2026-09-25 re-grep (slice 09231300-29) and 2026-09-26 (slice 09251031-2): hit set unchanged (own record + works/index only) — SKIP, nothing absorbable.
 - 2026-10-07 re-verified (deepen-x slice 10051948-25): 謝中誠/Chung-Cheng Hsieh grep across all five corpus dirs returns only the own record + index; substring 中誠/中诚 hits are unrelated taiwanjustice.net news articles with no personal mention — SKIP, nothing absorbable.
+- 2026-10-08 re-verified (deepen-x slice 10070600-28): five-dir grep confirms — only own record + index; substring hits are 中誠信國際 (Fitch rating agency) and 誠品, unrelated. SKIP stands.
 
 ## Sources
 - [TAH #2004 encyclopedia: 2004. Prof. Chung-Cheng Hsieh 謝中誠教授](https://taiwaneseamericanhistory.org/whos-who-2004-chung-cheng-hsieh/)
