@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-08
 ---
 # Vincent C. Lai (賴經都)
 
@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x re-verified SKIP 2026-10-07 (slice 10051400-17): fresh ZH+EN grep across works/articles/sources/events/topics -> own TAH record stubs + works index only; other hits are false-positive substrings (歷「經都」柏林) or unrelated same-name persons (2022 taiwanjustice 王自立 = Air Force officer, already HOLDed). No memoir material. Nothing absorbable. -->
+<!-- DEEPEN-X re-verified SKIP 2026-10-08 (slice 10070315-23): fresh 5-dir grep (賴經都 / Vincent C. Lai / surname Lai) — hit set unchanged: 陳淮崇 memoir ourjourneys-138 + own TAH #1380 record + index/sources hubs. Other Lai hits (ourjourneys240 = UCLA 同鄉會 memoir, taiwanjustice articles) are different persons or substring false positives. Already absorbed above. No new material. -->

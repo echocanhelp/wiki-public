@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-08
 ---
 # Prof. Elaine Hsiao (蕭夷年教授)
 
@@ -47,3 +47,4 @@ SKIP-with-reason (corpus check 2026-09-18, re-verified 2026-09-20, 2026-09-21, 2
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x re-verified SKIP 2026-10-07 (slice 10051400-17): fresh ZH+EN grep across works/articles/sources/events/topics -> own TAH record stubs + works index only; other hits are false-positive substrings (歷「經都」柏林) or unrelated same-name persons (2022 taiwanjustice 王自立 = Air Force officer, already HOLDed). No memoir material. Nothing absorbable. -->
+<!-- DEEPEN-X re-verified SKIP 2026-10-08 (slice 10070315-23): fresh 5-dir grep (蕭夷年 / Elaine Hsiao / Hsiao) — hit set unchanged: own TAH #840 + #264 records (two entries, same person, both preserved as sources) + index/sources hubs. Other Hsiao hits = different persons (frank-s-t-hsiao etc.). No memoir or movement records mention her. Nothing absorbable. -->

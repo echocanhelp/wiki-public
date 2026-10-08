@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Monica Su (蘇千芳)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09231300-32: re-verify — fresh ZH+EN grep of works/ + articles/: hit set unchanged (own record + already-absorbed works only); SKIP persists. -->
 <!-- deepen-x 09251023-29 (2026-09-26): re-verify — fresh -E grep (蘇千芳|Monica Su) hits only musician360, whoswho1266, index.md — both works already linked above; SKIP persists. -->
 <!-- deepen-x 10051400-15 (2026-10-07): re-verify — 5-dir grep (蘇千芳|Monica Su|monica-su): musician360, whoswho1266, index, sources hub + one taiwanjustice article whose only match is 「花千芳」(unrelated internet figure), a false positive. No new material; SKIP re-verified. -->
+<!-- DEEPEN-X re-verified SKIP 2026-10-08 (slice 10070315-23): fresh 5-dir grep (蘇千芳 / Monica Su / 千芳) — hit set unchanged: musician360 + whoswho1266 + index/sources hubs, both already linked above. Other 千芳 hits = 「花千芳」 internet figure, false positive. No memoir material; bibliographic-only record stands. -->
