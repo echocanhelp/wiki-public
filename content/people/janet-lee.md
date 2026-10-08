@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Janet Lee (李慧芝)
 
@@ -43,3 +43,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check 2026-10-08 (deepen-x slice 10062334-1): fresh ZH+EN grep across works/articles/sources/events/topics — hit set identical (own TAH records #38/#706 + works index + the unrelated taiwanjustice-net 行政院發言人 articles). Disambiguation holds; verified-saturated; SKIP-for-new-facts; collision HOLD stands.

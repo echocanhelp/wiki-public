@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Ye-Ming Wu (吳怡明)
 
@@ -61,3 +61,4 @@ Corpus re-check 2026-09-26 (deepen-x slice 09251000-27): fresh grep of works/+ar
 
 Corpus re-check 2026-09-27 (deepen-x slice 09260600-16): fresh ZH+EN grep of works/+articles/ — hit set unchanged, all hits already wikilinked with facts absorbed. SKIP-deepen; verified saturated.
 Corpus re-check 2026-10-06 (deepen-x slice 10051340-1): fresh ZH+EN grep — hit set unchanged (ourjourneys24/53 ±EN, whoswho1184); surname sweep 怡明 hits only 劉怡明 records (ourjourneys-364, mystories331), a different person — not merged. Verified-saturated; SKIP.
+Corpus re-check 2026-10-08 (deepen-x slice 10062334-1): fresh ZH+EN grep plus 怡明 sweep across works/articles/sources/events/topics — hit set unchanged (ourjourneys24/53 ±EN, whoswho1184, index); 怡明 sweep still only 劉怡明 records (different person). Verified-saturated; SKIP-for-new-facts.

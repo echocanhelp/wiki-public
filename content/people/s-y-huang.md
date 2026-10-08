@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # S. Y. Huang (黃森元)
 
@@ -58,3 +58,5 @@ last_reviewed: 2026-10-06
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-check 2026-10-08 (deepen-x slice 10062334-1): fresh 黃森元／S. Y. Huang grep across works/articles/sources/events/topics — hit set identical (#186/-eng, #253, #212, #1197, #422, #903, index), all already absorbed and linked. Verified-saturated; SKIP-for-new-facts.
