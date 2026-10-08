@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Gene-Jack Wang (王俊傑)
 
@@ -47,6 +47,8 @@ last_reviewed: 2026-10-07
 ## Sources
 - [TAH #581 encyclopedia: 581. Gene-Jack Wang 王俊傑 / 2015/09](https://taiwaneseamericanhistory.org/581-gene-jack-wang-%e7%8e%8b%e4%bf%8a%e5%82%91-201509/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gene-jack-wang/)
+
+<!-- deepen-x slice 10070034-1 (2026-10-08): SKIP re-verified — fresh ZH+EN grep (王俊傑 / Gene-Jack) across works/articles/sources/events/topics returns only own TAH #581 record + ourjourneys305 + index, all already absorbed and linked above (incl. wife 邱綉雅 #1659 link). No new corpus material, no conflicts. Verified-saturated. -->
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

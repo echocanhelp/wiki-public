@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Ei-Shun Lin (林益顯醫師)
 
@@ -45,6 +45,8 @@ From the community corpus (memoirs outrank the press-kit profile):
 ## Sources
 - [TAH #2027 encyclopedia: 2027. Dr. Ei-Shun Lin 林益顯醫師](https://taiwaneseamericanhistory.org/whos-who-2027-ei-shun-lin/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-ei-shun-lin/)
+
+<!-- deepen-x slice 10070034-1 (2026-10-08): SKIP re-verified — fresh grep (林益顯 / Ei-Shun Lin / 益顯) hit set unchanged: whos-who-2027 + ourjourneys74 中/EN + index, all linked. The two extra 益顯 article hits are substring false positives (日益顯見 / 日益顯示), not person mentions. Verified-saturated. -->
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # H. J. Chen (陳小娟)
 
@@ -49,6 +49,8 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #1597 encyclopedia: 1597. H. J. Chen 陳小娟 / 2017/04](https://taiwaneseamericanhistory.org/whoswho1597/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/h-j-chen/)
+
+<!-- deepen-x slice 10070034-1 (2026-10-08): SKIP re-verified — fresh ZH+EN grep (陳小娟 / H. J. Chen) returns only own whoswho1597 stub + 長青教室 tag page 2777c88877eee2c5 + index, all absorbed and linked (2017-03-29 聽力測試問答 華語主持 fact already in From the record). No new material. Verified-saturated. -->
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

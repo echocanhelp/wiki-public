@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chung H. Wu (吳忠修)
 
@@ -54,6 +54,8 @@ HOLD: conflict in romanization — Chung H. Wu (this page, TAH #1347) vs Chung-H
 - [TAH #833 encyclopedia: 833. A tribute to our  “ 貴人（Benefactor）”  Chung-Hsiu Wu, M.D. （吳忠修） | 05/2022](https://taiwaneseamericanhistory.org/my-stories-833/)
 - [TAH #1347 encyclopedia: 1347. Chung H. Wu 吳忠修 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1347/)
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/chung-h-wu/)
+
+<!-- deepen-x slice 10070034-1 (2026-10-08): SKIP re-verified — fresh ZH+EN grep (吳忠修 / Chung H. Wu / Chung-Hsiu / 吴忠修) returns only #833 tribute, #1347 Who's Who, #1348 (wife 吳陳芳容, page linked) + index, all absorbed. Loose 'Chung H' pattern matched 3 taiwanjustice-net articles but those name DIFFERENT people (Chung Hsing / Chung-Hoon), not merged. No new community material. Verified-saturated. -->
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
