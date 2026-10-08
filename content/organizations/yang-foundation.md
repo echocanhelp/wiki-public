@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Yang Foundation (楊文傑紀念基金會)
 
@@ -44,3 +44,5 @@ Re-grep 2026-09-25 (slice 09250317-15): same hit set again (yang-foundation, sch
 Re-grep 2026-09-26 (slice 09251500-5): same hit set (yang-foundation, scholarship, ping-pong tournament, Who's Who #2296, index) — saturated; no new corpus facts.
 
 Re-grep 2026-10-07 (slice 10051909-23): fresh grep 楊文傑 / Yang Foundation / Wen-Jei Yang / Wen Yang across works/ + articles/ + sources/ + events/ + topics/ — same hit set (yang-foundation, scholarship, ping-pong tournament, Who's Who #2163/#2296, index, source page) — saturated; no new corpus facts.
+
+Re-grep 2026-10-08 (slice 10070500-2): SKIP re-verified — fresh ZH+EN grep (楊文傑 / Yang Foundation / Wen-Jei Yang / Wen Yang) across all five corpus dirs returns the identical hit set (overview, scholarship, ping-pong tournament, Who's Who #2163/#2296, index, source roster). Loose ping-pong/乒乓球 hits in articles/ are unrelated (乒乓外交 diplomacy essays, LA 傳統週 events) — not this foundation. Verified saturated; nothing new absorbable.

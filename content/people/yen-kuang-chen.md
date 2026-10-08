@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Yen-Kuang Chen
 
@@ -56,3 +56,4 @@ Re-verified 2026-10-01 (slice 09261300-13): fresh grep (Yen-Kuang Chen / 陳彥�
 <!-- deepen-x slice 09231400-30 2026-09-25: re-grep (Yen-Kuang Chen) — only own record whoswho1363 + works/index. SKIP: still no memoir/article mentions. -->
 <!-- deepen-x slice 09251031-29 2026-09-26: fresh ZH+EN grep (Yen-Kuang Chen / 陳彥光) of works+articles — hit set identical: own record [[works/taiwaneseamericanhistory-org/whoswho1363|TAH #1363]] + works/index digest line. SKIP: corpus-saturated, nothing absorbable. -->
 <!-- deepen-x slice 10051909-26 (2026-10-07): SKIP re-verified — fresh grep (Yen-Kuang Chen / 陳彥光) across ALL five corpus dirs (works/articles/sources/events/topics) = own record whoswho1363 + index/roster only; surname 陳 sweep of events/+topics/ returns only unrelated Chens (陳奕齊, 陳如媜, 陳文溪). Verified saturated. -->
+<!-- deepen-x slice 10070500-2 (2026-10-08): SKIP re-verified — fresh grep (Yen-Kuang Chen / 陳彥光) across all five corpus dirs: own record whoswho1363 + index/roster only; full-name 陳彥光 returns ZERO corpus hits. Bare 彥光 hits remain 林彥光 (迦南教會 elder) — different person, disconfirmed earlier. Verified saturated; nothing absorbable. -->

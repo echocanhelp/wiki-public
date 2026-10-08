@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Texas Taiwanese Biotechnology Association (德州台灣生物科技協會)
 
@@ -35,3 +35,4 @@ The Texas Taiwanese Biotechnology Association is a young organization establishe
 <!-- deepen-x slice 09250400-1 (2026-09-25): SKIP re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already cited on this page; nothing new absorbable. -->
 <!-- deepen-x slice 09251527-19 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/+articles/ returns only the records already absorbed/linked on this page (own TAH record + index listings); no new community material. -->
 <!-- deepen-x slice 10051909-26 (2026-10-07): SKIP re-verified — fresh ZH+EN grep (Texas Taiwanese Bio / 德州台灣生物) across ALL five corpus dirs (works/articles/sources/events/topics) returns only the directory entry and the 2018 symposium record already linked on this page + index/roster listings. Verified saturated. -->
+<!-- deepen-x slice 10070500-2 (2026-10-08): SKIP re-verified — fresh ZH+EN grep (Texas Taiwanese Biotechnology / 德州台灣生物科技 / 生物科技協會) across all five corpus dirs: only own directory entry + 2018 symposium record already linked, plus index/roster. The broader 生物科技協會 sweep hits sibling associations (Boston TBA, SoCal TBA) which contain NO Texas cross-references. Verified saturated; nothing new absorbable. -->
