@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Pauline Huang (黃百齡)
 
@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09250500-7: SKIP — corpus re-scan (works/articles) fresh 2026-09-25: hit set identical to prior passes (own TAH records / already-absorbed coverage); no new community material. -->
 <!-- deepen-x 09261100-8: SKIP - corpus re-scan (works/articles) fresh 2026-10-01: full ZH+EN grep hit set identical to prior passes (own TAH records / already-absorbed coverage); no new community material. -->
 <!-- deepen-x slice 10051918-7 recheck 2026-10-07: SKIP — fresh grep 黃百齡/Pauline Huang across all five corpus dirs (works/articles/sources/events/topics) returns only her own bibliographic record 2162 + index/source rows. Verified saturated, no changes. -->
+
+<!-- deepen-x slice 10070500-21 recheck 2026-10-08: fresh ZH+EN grep (王思眾/David Wang, 邱輝煌/HH Chiu, 黃百齡/Pauline Huang, 吳照雄/Chau H. Wu) across all five corpus dirs — hit set unchanged: own TAH bibliographic record + works/index + sources digest lines only. Verified-saturated; nothing absorbable. -->

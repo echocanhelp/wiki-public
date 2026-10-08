@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Emeritus HH Chiu (邱輝煌)
 
@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070500-21 recheck 2026-10-08: fresh ZH+EN grep (王思眾/David Wang, 邱輝煌/HH Chiu, 黃百齡/Pauline Huang, 吳照雄/Chau H. Wu) across all five corpus dirs — hit set unchanged: own TAH bibliographic record + works/index + sources digest lines only. Verified-saturated; nothing absorbable. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # David Wang (王思眾)
 
@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09261300-11 recheck 2026-10-01: fresh ZH+EN grep (David Wang / 王思眾) of works/+articles — hit set unchanged (own record whos-who-2282 + works/index digest line). No independent memoir material. SKIP-with-reason stands. -->
 <!-- deepen-x slice 10051918-14 recheck 2026-10-07: fresh ZH+EN grep (王思眾/王思众/David Wang) across all five corpus dirs — hit set unchanged (own record #2282 + index/source digest lines). '王思' substring hits in taiwanjustice articles are unrelated people (王思涵 handbag brand, 王思聰/王健林 China-wealth context); BioIntelliSense/Striiv greps return nothing. SKIP: verified-saturated. -->
+
+<!-- deepen-x slice 10070500-21 recheck 2026-10-08: fresh ZH+EN grep (王思眾/David Wang, 邱輝煌/HH Chiu, 黃百齡/Pauline Huang, 吳照雄/Chau H. Wu) across all five corpus dirs — hit set unchanged: own TAH bibliographic record + works/index + sources digest lines only. Verified-saturated; nothing absorbable. -->

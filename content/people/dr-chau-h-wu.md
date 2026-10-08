@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Chau H. Wu (吳照雄博士)
 
@@ -54,3 +54,5 @@ SKIP-with-reason (corpus-first pass 2026-09-18): corpus grep for 吳照雄 / Cha
 <!-- DEEPEN-X RECHECK 2026-10-01 (slice 09261300-3): corpus grep re-run (ZH+EN, works+articles) — hit set unchanged: own TAH bibliographic record + index only (Yeh: also Our Journey 343, already cited). SKIP stands; nothing new absorbable. -->
 
 <!-- DEEPEN-X RECHECK 2026-10-07 (slice 10051918-20): five-dir grep (works/articles/sources/events/topics) for 吳照雄 / 照雄 / Chau H. Wu. Substring hits resolve to other people: 曾照雄 (TAI 台灣協志會 founding 總幹事, [[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys 37]]) and 楊照雄 (台大教授, NATPA 1990 attendee, [[works/taiwaneseamericanhistory-org/ourjourneys47|Our Journeys 47]]) — neither is Dr. Chau H. Wu. No hits under his own name. Verified-saturated; SKIP stands. -->
+
+<!-- deepen-x slice 10070500-21 recheck 2026-10-08: fresh ZH+EN grep (王思眾/David Wang, 邱輝煌/HH Chiu, 黃百齡/Pauline Huang, 吳照雄/Chau H. Wu) across all five corpus dirs — hit set unchanged: own TAH bibliographic record + works/index + sources digest lines only. Verified-saturated; nothing absorbable. -->
