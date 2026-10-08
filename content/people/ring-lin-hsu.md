@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Ring Lin Hsu (許林碖)
 
@@ -52,3 +52,5 @@ last_reviewed: 2026-10-01
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10062218-9 (2026-10-08): fresh grep 許林碖/林碖/Ring Lin across works+articles+sources+events+topics — hits = own #809 record + works/index + source hub only. Husband 許鴻源 appears in unrelated community-build records (ourjourneys173 鶴園老人公寓 1988, his own encyclopedia records) with no mention of her — not absorbed. Saturated; nothing new absorbable. -->

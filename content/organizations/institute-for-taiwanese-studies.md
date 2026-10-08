@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Institute for Taiwanese Studies
 
@@ -34,6 +34,9 @@ last_reviewed: 2026-10-06
 - Re-verified 2026-09-25 (slice 09250600-6): SKIP — fresh grep (美國台灣研究院/Institute for Taiwanese Studies) returns only the two own records, the works index, and the 王克雄 專訪 already cited above; nothing new absorbable.
 - Re-verified 2026-10-01 (slice 09261100-17): SKIP — fresh grep (美國台灣研究院 / Institute for Taiwanese Studies / 台灣研究院) over content/works + content/articles returns only the two own records (#13 美國台灣研究院 2014-10-12, #1 南加州台灣研究院), the works index, and the 王克雄 專訪 already cited above. HOLD: the three 2026 taiwanjustice-net articles that match on "台灣研究院" name **PRC think-tanks**, not this US body — 北大台灣研究院 (院長李義虎), 廈門大學台灣研究院 (劉國深), 北京聯合大學台灣研究院 (朱松嶺). Grep artifact; do not absorb or wikilink. No new absorbable fact.
 - Re-verified 2026-10-06 (deepen-x slice 10051200-3): whole-tree ZH+EN grep — hits are own records, index rows, the 王克雄 專訪 (co-founder + board director, already cited), the TAFSD page's parallel citation of the same interview, and 林純容's researcher listing now absorbed above. The three 2026 taiwanjustice-net 台灣研究院 articles re-confirmed as PRC think-tank grep artifacts (北大/廈門/北京聯合大學), not absorbed.
+- New lead 2026-10-08 (deepen-x slice 10062218-9): the 2018-06 大洛杉磯台灣會館會訊 records that the 會館圖書館 "委託台灣研究院收集有關台灣的政治、文化、經濟及社會的英文書籍" shown at the members' assembly — [[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7|2018-06 會館會訊, taiwanjustice.net]]. HOLD: the bare "台灣研究院" is not identified as either 美國台灣研究院 or 南加州台灣研究院 in the source — attribution unresolved, not merged.
+
+<!-- deepen-x slice 10062218-9 (2026-10-08): whole-tree ZH+EN grep — prior hit set unchanged (own records, index, 王克雄 專訪, PRC think-tank artifacts); one new attribution-HOLD candidate absorbed above (2018 會館會訊 圖書館 book-collection reference). -->
 
 ## Sources
 - [TAH directory](https://taiwaneseamericanhistory.org/organization/institute-for-taiwanese-studies/)
