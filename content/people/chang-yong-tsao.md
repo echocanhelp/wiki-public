@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chang-Yong Tsao (曹昌榮)
 
@@ -52,3 +52,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09231200-22: re-verify 2026-09-25 — fresh grep ZH+EN over works+articles: hit set identical to prior passes (own TAH record(s) + harvest index only). Nothing new absorbable. SKIP-no-new-material. -->
 <!-- deepen-x 09250500-21: re-verify 2026-09-25 — fresh grep ZH+EN: same hit set (whoswho1502 + index only). SKIP-no-new-material. -->
 <!-- deepen-x 10051918-23: re-verify 2026-10-07 — fresh ZH+EN+surname grep (曹昌榮/曹昌/Chang-Yong Tsao) across works+articles+sources+events+topics: hit set identical to prior passes (own whoswho1502 record + index/source only). Nothing new absorbable. SKIP-no-new-material. -->
+
+<!-- deepen-x 10070600-4: re-verify 2026-10-08 — fresh ZH+EN+variant+substring-guard grep across works/articles/sources/events/topics: hit set = own TAH record + index rows only. Extra hits were false matches (昌榮←韓國瑜新聞市運昌榮; 明仁←James Yang 楊明仁; Chyang←林環牆#720; 料總←材料總量/預料總計). No memoir or community material. SKIP-no-new-material, verified-saturated. -->

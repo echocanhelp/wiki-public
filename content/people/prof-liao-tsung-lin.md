@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Liao-Tsung Lin (林料總教授)
 
@@ -49,3 +49,5 @@ SKIP: corpus check found no community material beyond the person's own TAH encyc
 > SKIP re-check (deepen-x 09231300-28, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only own TAH record + works index — no community/memoir material to absorb.
 > SKIP re-check (deepen-x 09250600-30, 2026-09-25): fresh ZH+EN grep returned hit set identical to prior deepen records ([[works/taiwaneseamericanhistory-org/whos-who-2110-liao-tsung-lin|TAH #2110]] + works index) — saturated, nothing to absorb.
 > SKIP re-check (deepen-x slice 10051918-27, 2026-10-07): exact 林料總 + EN-variant greps across all five corpus dirs (works/articles/sources/events/topics) return only own [[works/taiwaneseamericanhistory-org/whos-who-2110-liao-tsung-lin|TAH #2110]] record + source/person index lines — verified-saturated, nothing absorbable.
+
+<!-- deepen-x 10070600-4: re-verify 2026-10-08 — fresh ZH+EN+variant+substring-guard grep across works/articles/sources/events/topics: hit set = own TAH record + index rows only. Extra hits were false matches (昌榮←韓國瑜新聞市運昌榮; 明仁←James Yang 楊明仁; Chyang←林環牆#720; 料總←材料總量/預料總計). No memoir or community material. SKIP-no-new-material, verified-saturated. -->

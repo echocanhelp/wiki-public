@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Oliver Chyan (錢明仁教授)
 
@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Re-check (deepen-x 10051948-2, 2026-10-07): fresh ZH+EN+surname grep across works/articles/sources/events/topics — hits are only this page's own record [[works/taiwaneseamericanhistory-org/whos-who-1922-oliver-chyan|TAH #1922]], the works/sources index listings, and a "Chyang" spelling false match on 林環牆's page (720. Hwan-Chyang Lin). No memoir or community coverage. SKIP confirmed; page saturated.
+
+<!-- deepen-x 10070600-4: re-verify 2026-10-08 — fresh ZH+EN+variant+substring-guard grep across works/articles/sources/events/topics: hit set = own TAH record + index rows only. Extra hits were false matches (昌榮←韓國瑜新聞市運昌榮; 明仁←James Yang 楊明仁; Chyang←林環牆#720; 料總←材料總量/預料總計). No memoir or community material. SKIP-no-new-material, verified-saturated. -->
