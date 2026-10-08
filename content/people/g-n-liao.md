@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # G. N. Liao (廖光男)
 
@@ -48,6 +48,7 @@ Corpus re-check 2026-09-24 (slice 09230800-32): fresh grep hit set unchanged (#2
 Corpus re-check 2026-09-25 (slice 09240800-29): fresh grep hit set unchanged (#253, #2256, works index) — verified saturated; SKIP, nothing absorbable.
 Corpus re-check 2026-09-26 (slice 09251400-15): fresh grep (廖光男 / G. N. Liao) hit set unchanged (#253, #2256, works index) — verified saturated; SKIP, nothing absorbable.
 Corpus re-check 2026-10-06 (slice 10051200-24): fresh grep (廖光男 / G. N. Liao) across works/articles/sources/events/topics hit set unchanged (#253, #2256, works index) — verified saturated; SKIP, nothing absorbable.
+Corpus re-check 2026-10-08 (slice 10062248-7): fresh grep (廖光男 / G. N. Liao) across works/articles/sources/events/topics — hit set unchanged (#253, #2256, works index); surname/alias probes found nothing additional. Verified saturated; SKIP, nothing absorbable.
 
 ## Sources
 - [TAH #2256 encyclopedia: 2256. G. N. Liao 廖光男/04/2020](https://taiwaneseamericanhistory.org/whos-who-2256-g-n-liao/)

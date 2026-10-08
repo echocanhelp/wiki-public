@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Shuching Liao (廖郭淑卿)
 
@@ -57,3 +57,4 @@ last_reviewed: 2026-10-06
 > Corpus re-scan 2026-09-26 (deepen-x slice 09251000-31): fresh grep 廖郭淑卿 / Shuching Liao — hit-set unchanged (own #478 + works/index only); facts in Role in the Community already absorbed. SKIP-deepen.
 > Corpus re-scan 2026-09-27 (deepen-x slice 09260600-21): fresh grep re-run — hit-set unchanged (own #478 + works/index only). SKIP-deepen.
 > Corpus re-scan 2026-10-06 (deepen-x slice 10051200-19): fresh grep 廖郭淑卿 / Shuching Liao / 郭淑卿 across works/articles/sources/events/topics — own #478 + index only; husband-name 廖述宗 hits are all about him (NATPA award articles in taiwanjustice-net), already reflected in the family/community facts above, none adding her own new facts. Verified-saturated; SKIP-deepen.
+> Corpus re-scan 2026-10-08 (deepen-x slice 10062248-7): fresh grep 廖郭淑卿 / Shuching Liao / 郭淑卿 across works/articles/sources/events/topics — hit set unchanged (own #478 + index only). Verified-saturated; SKIP-deepen.
