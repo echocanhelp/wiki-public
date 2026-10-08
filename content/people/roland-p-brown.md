@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Roland P. Brown (薄柔纜醫生)
 
@@ -58,3 +58,4 @@ last_reviewed: 2026-10-07
 Corpus re-check (deepen-x 09250800-32, 2026-09-25): fresh ZH+EN grep 薄柔纜 / Roland|Rowland Brown → only already-absorbed TAH #88 / My Stories #159 + works index. SKIP: verified saturated.
 Corpus re-check (deepen-x 09260900-24, 2026-10-01): fresh ZH+EN grep 薄柔纜 / Roland P. Brown / Rowland Brown → same hits (#88, mystories159 — title spellings "Roland"/"Rowland" conflict still held, see HOLD above — plus works/index). Nothing new absorbable. SKIP — verified saturated.
 Corpus re-check (deepen-x 10051909-19, 2026-10-07): fresh ZH+EN grep 薄柔纜 / Roland|Rowland Brown across works/articles/sources/events/topics → same hits (#88, mystories159, works/index). Loose 門諾 hits in taiwanjustice articles are Hualien news noise (太魯閣號, vaccine stations), no Brown name match; \bBrown\b article hits are unrelated US news. Nothing new absorbable. SKIP — verified saturated.
+Corpus re-check (deepen-x 10070400-28, 2026-10-08): fresh ZH+EN grep 薄柔纜 / Roland|Rowland Brown across works/articles/sources/events/topics → only #88, mystories159, works/sources rollups (all absorbed). Loose 門諾 hits (videos-169, publications1058, our-journeys-380, ourjourneys301, 黃兄返台擔任門諾) contain no Brown name — adjacent Menno-network works, no new Brown material. SKIP — verified saturated.

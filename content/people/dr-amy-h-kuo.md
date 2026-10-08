@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Amy H Kuo (郭惠美醫師)
 
@@ -33,6 +33,7 @@ last_reviewed: 2026-10-07
 - A movement memoir records 郭惠美 among the New York–area contact persons (紐約地區聯絡員) in the Taipei Peace Church (和平契友) network used to mobilize participants for the first ECI 夏令會 (Summer Institute) — the organizer names her alongside 許登龍, 黃賢理, 李豐明, 林靜竹, 張富雄, 林千千 and the 黃 sisters. Source: [[works/taiwaneseamericanhistory-org/ourjourneys268|Our Journeys #268 memoir]].
 - Her Who's Who biographical record itself exists in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-2319-amy-h-kuo|TAH #2319 — Dr. Amy H Kuo 郭惠美醫師]].
 - Detail from the same memoir (absorbed 2026-09-20): the紐約地區聯絡員 roster names the 黃 sisters individually as 黃雪鳳、黃瑞鳳、黃春鳳、黃碧鳳、黃凰鳳; the memoir also credits 黃凰鳳 (with 張初穗) with later locating the first-cohort group photo. Corpus re-checks (2026-09-21, slice 09201503-2) found no other works/articles mentions of 郭惠美 beyond [[works/taiwaneseamericanhistory-org/whos-who-2319-amy-h-kuo|#2319]] and the #268 memoir — verified-saturated.
+- Husband 陳彰醫師 (Dr. Patrick C. Chen) has his own encyclopedia record in the corpus: [[works/taiwaneseamericanhistory-org/whos-who-2016-patrick-chen|TAH #2016 — Dr. Patrick C. Chen 陳彰醫師]] (corroborates the Family entry; the record itself is a stub with no family fields, so no further detail absorbed).
 
 ## Family
 

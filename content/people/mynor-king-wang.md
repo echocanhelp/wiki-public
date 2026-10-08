@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Mynor King Wang (王華東博士)
 
@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-25 (slice 09250400-5): same hit set (whos288, ourjourneys123 painter-lecture, publications466 art book); engineer-vs-painter HOLD stands, nothing new absorbable.
 - Corpus re-grep 2026-09-26 (slice 09252123-3): same substantive hit set; 'King Wang' now also matches [[works/taiwaneseamerican-org/two-perspectives-on-late-life-the-chien-ming-wang-story]] — false positive on a 王建民 (Chien-Ming Wang, MLB pitcher) film review, not this person. Do not absorb. engineer-vs-painter HOLD stands.
 - Corpus re-grep 2026-10-07 (slice 10051909-18): fresh grep (王華東 / Mynor / King Wang) across works/ articles/ sources/ events/ topics/ returns only whos288, ourjourneys123 (+ -eng), publications466 (all already linked) + index/source rollups. Verified-saturated; engineer-vs-painter HOLD stands.
+- Corpus re-grep 2026-10-08 (slice 10070400-28): fresh grep (王華東 / Mynor / 華東) across works/articles/sources/events/topics → substantive hits only whos288, ourjourneys123 (+ -eng), publications466 (all linked); 華東 substring hits in taiwanjustice articles verified to contain no 王華東/Mynor (noise). engineer-vs-painter HOLD stands. Verified-saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mynor-king-wang/)
