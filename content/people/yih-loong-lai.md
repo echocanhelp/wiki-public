@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Yih-Loong Lai (賴義隆博士)
 
@@ -58,3 +58,4 @@ All four are bibliographic records in the corpus; corpus re-checks 2026-09-21, 2
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-10-07 (deepen-x slice 10051918-12): five-dir grep (賴義隆 / Yih-Loong Lai / 七十自述) returns only the four linked works above + works index — verified-saturated, nothing new absorbable.
+- Corpus re-grep 2026-10-08 (deepen-x slice 10070500-27): five-dir grep (賴義隆 / Yih-Loong Lai / 義隆) — same four linked works + index/source digest; the only extra hit (taiwanjustice 2023-03 top-500 article) is substring noise — 義隆電子/ELAN Microelectronics, an unrelated company. Verified-saturated, SKIP.

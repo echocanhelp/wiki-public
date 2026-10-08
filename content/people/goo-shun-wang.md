@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Goo-Shun Wang (王谷神)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whos-who-1639-goo-shun-wang|1639. Goo-Shun Wang 王谷神 (TAH Who's Who, 2017/05)]]
 <!-- deepen-x slice 10051918-14 recheck 2026-10-07: fresh ZH+EN grep (王谷神/Goo-Shun/Goo Shun/谷神) across all five corpus dirs — hit set unchanged (own record #1639 + index/source digest lines); ZH-only grep of articles/events/topics returns nothing. SKIP: verified-saturated. -->
+<!-- deepen-x slice 10070500-27 recheck 2026-10-08: five-dir grep (王谷神 / Goo-Shun Wang / 谷神 / 王谷) — hit set identical (own record #1639 + works index + source digest). Verified-saturated; SKIP. -->

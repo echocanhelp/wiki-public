@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # I-Chunn Lee
 
@@ -43,3 +43,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > SKIP re-check (deepen-x 10051918-31, 2026-10-07): fresh grep across all five corpus dirs (I-Chunn Lee + romanization variants) returned only own TAH #267 record + index rows. Flag for triage (out of slice scope): sibling page [[people/i-chuun-lee]] carries a separate TAH table (NTNU B.M. 1987, LACM M.M. 1992, USC DMA 1997; Yamaha examiner 1997–now, Irvine Valley College lecturer 1997–98, USC lecturer 1992–97) — same education dates as this page's Education section, likely the same person under alternate romanization; no auto-merge performed.
+
+> SKIP re-check (deepen-x slice 10070500-27, 2026-10-08): five-dir grep (I-Chunn Lee / I-Chunn variants / 533-i-chuun-lee romanization) — hit set unchanged: own TAH #267 record, sibling work 533 (same person, alternate romanization — triage flag stands, no auto-merge), index/source digest lines. Verified-saturated.
