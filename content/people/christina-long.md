@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Christina Long (隆愛真教授)
 
@@ -50,3 +50,4 @@ Prof. Christina Long 隆愛真教授 – History of Taiwanese American (T.A. Arc
 - Verified-saturated: re-grep for 隆愛真 / Christina Long returns only works-index rows pointing at the two archive records already absorbed ([[works/taiwaneseamericanhistory-org/musician-christina-long|418]] and [[works/taiwaneseamericanhistory-org/whos-who-1772-christina-long|1772]]). No memoir material; SKIP-for-deepening. Re-verified 2026-09-23 (slice 09221000-26): hit set unchanged; both corpus hits are bibliographic records of the person's own TAH entries. SKIP. Re-verified 2026-09-24 (slice 09230900-13): hit set unchanged (418 + 1772 + index only). SKIP. Re-verified 2026-09-25 (slice 09240900-13): hit set unchanged (same two work pages + works/index only). SKIP. Re-verified 2026-09-26 (slice 09251417-7): hit set unchanged (418 + 1772 + index only). SKIP.
 - Corpus re-verified 2026-10-01 (deepen-x slice 09260900-29): fresh grep of works/ + articles/ (Christina Long / 隆愛真) returns only the two archive-record pages already linked (musician-christina-long, whos-who-1772) + index rollup — verified-saturated, SKIP-for-deepening.
 <!-- deepen-x slice 10051340-26 (2026-10-07): SKIP re-verified — fresh ZH+EN grep (隆愛真 / Christina Long) across works/ articles/ sources/ events/ topics/ returns only the two archive records already linked ([[works/taiwaneseamericanhistory-org/musician-christina-long|#418]] + [[works/taiwaneseamericanhistory-org/whos-who-1772-christina-long|#1772]]) plus index/source rollups. No memoir material; verified-saturated, nothing new absorbable. -->
+<!-- deepen-x slice 10070315-2 (2026-10-08): SKIP re-verified — fresh ZH+EN grep across works/ articles/ sources/ events/ topics/ returns only the archive records already linked plus index/source rollups. No memoir material; verified-saturated, nothing new absorbable, no conflicts to hold. -->

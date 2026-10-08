@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Ching-Shui Cheng (鄭清水教授)
 
@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 10051340-26 (2026-10-07): SKIP re-verified — fresh ZH+EN grep (鄭清水 / Ching-Shui Cheng) across all five corpus dirs returns only the two duplicate harvests of #2024 + index/source. False-positive guard: loose 清水 hits (ourjourneys334/81/222, magazine-css) are place/publication names (清水隧道, 台中清水, 清水溪雜誌) — not this person. Verified-saturated, nothing new absorbable. -->
+<!-- deepen-x slice 10070315-2 (2026-10-08): SKIP re-verified — fresh ZH+EN grep across works/ articles/ sources/ events/ topics/ returns only the archive records already linked plus index/source rollups. No memoir material; verified-saturated, nothing new absorbable, no conflicts to hold. -->

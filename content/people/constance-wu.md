@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Constance Wu (吳恬敏)
 
@@ -64,3 +64,4 @@ Corpus material is bibliographic only (full text stays in the vault); no communi
 - Slice 09251417-3 re-verify (2026-09-26): fresh grep 吳恬敏/Constance Wu returned only OTA #240, Who's Who #2183, and works index — verified-saturated, SKIP-deepen.
 - Slice 09260900-2 re-verify (2026-09-30): fresh grep 吳恬敏/Constance Wu returned only OTA #240, Who's Who #2183, and works index — verified-saturated, SKIP-deepen.
 - Slice 10051340-24 re-verify (2026-10-07): widened grep 吳恬敏/Constance Wu across works+articles+sources+events+topics returned only OTA #240, Who's Who #2183, works index, and sources register — verified-saturated, SKIP-deepen.
+<!-- deepen-x slice 10070315-2 (2026-10-08): SKIP re-verified — fresh ZH+EN grep across works/ articles/ sources/ events/ topics/ returns only the archive records already linked plus index/source rollups. No memoir material; verified-saturated, nothing new absorbable, no conflicts to hold. -->
