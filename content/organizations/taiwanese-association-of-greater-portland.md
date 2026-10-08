@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Taiwanese Association of Greater Portland (大波特蘭)
 
@@ -36,3 +36,4 @@ The Taiwanese Association of Greater Portland (TAGP) is a chapter of the Taiwane
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus check 2026-10-06 (slice 10051340-15): fresh grep (TAGP / 大波特蘭 / Greater Portland / 波特蘭台灣) again returns exactly the four linked records + works/index; all four are bibliographic-record stubs ("Full text stays in the vault"), so no chapter-author prose is absorbable in-corpus. No person page exists for author Chen-ya Chiu. Verified-saturated, no new facts.
+- Corpus check 2026-10-08 (deepen-x slice 10070018-6): fresh grep (TAGP / 大波特蘭 / Greater Portland / 波特蘭台灣) across works/articles/sources/events/topics returns exactly the four linked records + sources index; no chapter-author prose, no new facts. Verified-saturated, SKIP content-deepen.
