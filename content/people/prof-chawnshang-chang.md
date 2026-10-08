@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Chawnshang Chang (張傳祥教授)
 
@@ -60,3 +60,4 @@ Prof. Chawnshang Chang 張傳祥教授 – History of Taiwanese American (T.A. A
 - Corpus re-grep 2026-09-27 (slice 09260600-29): hit set unchanged (TAH #22/#77/#2047 + index only), all already cited. SKIP: saturated.
 <!-- deepen-x slice 10051340-20 (2026-10-07): verified-saturated SKIP — fresh grep 張傳祥/Chawnshang/傳祥/Whipple across works+articles+sources+events+topics returns the identical set (TAH #22/#77/#2047 + works/index + sources/taiwaneseamericanhistory-org); no person/org page elsewhere references him; nothing new absorbable; HOLDs stand. -->
 <!-- deepen-x slice 09270700-22 (2026-10-03): saturated re-verify — fresh ERE grep (zh+en+variant names, -rlE probe self-checked non-vacuous) over content/works + content/articles returns the identical hit set (person-specific TAH records + index only), all already absorbed/wikilinked above. SKIP-content; HOLDs stand. -->
+<!-- deepen-x slice 10070034-4 (2026-10-08): verified-saturated SKIP — fresh grep 張傳祥/Chawnshang Chang/Whipple across works+articles+sources+events+topics returns the identical set (TAH #22/#77/#2047 + works/index + sources/taiwaneseamericanhistory-org only); no community-activity material beyond the three TAH entries; HOLDs stand. -->

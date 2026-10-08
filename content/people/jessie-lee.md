@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Jessie Lee (李潔晞)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-25 (slice 09250800-16): identical hit set (TAH #2083, NATWA2con) — no new coverage; HOLD stands. Verified-saturated.
 - Corpus re-grep 2026-09-27 (slice 09260500-27): identical hit set (TAH #2083, NATWA2con, index) — no new coverage; the film-attribution HOLD stands. Verified-saturated.
 <!-- deepen-x slice 10051340-20 (2026-10-07): verified-saturated SKIP — fresh grep 李潔晞/Jessie Lee/潔晞/Never Let You Go/Fishbowl across works+articles+sources+events+topics returns the identical set (TAH #2083, NATWA2con program, works/index, sources/taiwaneseamericanhistory-org); no other person/org page references her; nothing new absorbable; film-attribution HOLD stands. -->
+<!-- deepen-x slice 10070034-4 (2026-10-08): verified-saturated SKIP — fresh grep 李潔晞/Jessie Lee/Never Let You Go across works+articles+sources+events+topics returns the identical set (TAH #2083, NATWA2con program, index/sources); no other person/org page references her; film-attribution HOLD stands. -->

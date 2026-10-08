@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Yuh-Huey Grace Lin (林玉惠)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09251023-7 re-verify 2026-09-26: fresh grep (林玉惠 / Yuh-Huey) — hit set unchanged (whoswho1756, musician413, works index); verified-saturated, no new absorbable facts; HOLD on [[people/grace-lin]] stands -->
 > Corpus re-scan 2026-09-27 (deepen-x slice 09260600-26): fresh ZH+EN grep of works/+articles/ — hit set identical to records already cited/absorbed on this page; verified-saturated, nothing new absorbable. SKIP-deepen.
 > Corpus re-scan 2026-10-07 (deepen-x slice 10051340-21): fresh grep 林玉惠/Yuh-Huey/Grace Lin/玉惠 across all corpus dirs — her records remain whoswho1756 + musician413 only. Sibling "Grace Lin" hits (#987 林珮思, #613 吳瑞惠, chi-ching 林季蓉, ourjourneys107 商玉惠) are distinct people — not merged. HOLD on [[people/grace-lin]] stands. Verified-saturated; SKIP-deepen.
+<!-- deepen-x slice 10070034-4 (2026-10-08): verified-saturated SKIP — fresh grep 林玉惠/Yuh-Huey across all corpus dirs returns her records whoswho1756 + musician413 only. Resolved this run: the other "Grace Lin" corpus hits are distinct people — ourjourneys85/85-eng "Ms. Ching-tzu Tung (Grace Lin)" (John Lin's fiancée, not this subject) and publication1321/1322 + ourjourneys306 "Chi-Ching Grace Lin" (percussion instructor, cf. #93/#408 林季蓉) — none merged. HOLD on [[people/grace-lin]] stands. -->
