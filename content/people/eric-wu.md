@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Eric Wu (吳爾融)
 
@@ -38,6 +38,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - 南灣生活座談會 later-joining member (創會後加入) — the chapter was founded by 陳惠亭、黃森元、陳立宗、林正善、許清煌、廖政秀、林本晃、游銘泉、蔡銘祿、王秋森、江昭儀; other later joiners include 鄭良光、柯清隆、呂俊宇、蕭華銓、許善惠、李博仁、游高常、黃月葉、許文宏、林麥玲、王洪政. The chapter was over eleven years old at the time of writing; its members' community service spans 同鄉會、台美學校、公民協會、醫師協會、報紙 (from [[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys 212]]).
 - Own TAH encyclopedia bibliographic record: [[works/taiwaneseamericanhistory-org/whoswho1385|1385. Eric Wu 吳爾融 / 2016/11]] — no further memoir narrative in the corpus.
+- Re-grep 2026-10-08 (slice 10062334-14): 吳爾融 / Eric Wu across works/articles/sources/events/topics — hits unchanged: [[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys 212]] (南灣生活座談會 later-joiner roster, absorbed above) + [[works/taiwaneseamericanhistory-org/whoswho1385|TAH #1385]] self-record. No new absorbable facts. Saturated.
 
 <!-- deepen-x slice 09251039-5 recheck 2026-09-26: fresh grep 吳爾融/Eric Wu — corpus hits remain only ourjourneys212 (南灣生活座談會 later-joiner roster, already absorbed above) and whoswho1385 (own bibliographic record). No new absorbable facts. -->
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Rui-feng Hsu (許瑞峰)
 
@@ -45,6 +45,7 @@ last_reviewed: 2026-10-06
 
 - [[works/taiwaneseamericanhistory-org/whoswho-700|700. 許瑞峰 Rui-feng Hsu / 2015/11]] — TAH Who's Who profile record.
 - [[works/taiwaneseamericanhistory-org/ourjourneys2|《台灣之音》的回顧／張富雄]] — memoir naming him as the calligrapher of the 1977 NYT ad. Re-verified 2026-09-25 (deepen-x slice 09231200-23) and 2026-09-26 (slice 09251023-24): corpus grep (ZH+EN) returns only these two records plus the index; no additional community facts to absorb.
+- Re-grep 2026-10-08 (slice 10062334-14): 許瑞峰 / Rui-feng Hsu across works/articles/sources/events/topics — hits unchanged: [[works/taiwaneseamericanhistory-org/ourjourneys2|《台灣之音》的回顧]] (1977 NYT ad calligrapher, absorbed above) + [[works/taiwaneseamericanhistory-org/whoswho-700|TAH #700]] self-record. No new absorbable facts. Saturated.
 
 ## Sources
 - [TAH #700 encyclopedia: 700. 許瑞峰 Rui-feng Hsu/ 2015/11](https://taiwaneseamericanhistory.org/whoswho-700/)

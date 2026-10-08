@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Portia Wu
 
@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - Profiled in the TAHS corpus as a Pride of T.A. feature, Ms. Portia Wu, Assistant Secretary of Labor (2015-09) — [[works/taiwaneseamericanhistory-org/342-pride-of-t-a-ms-portia-wu-assistant-secretary-of-labor-portia-wu-201509|TAHS #342]]
 - Held a TAH Foundation historical-record entry (2019) — [[works/taiwaneseamericanhistory-org/ota-232|OTA #232]] — and a Who's Who encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-who-2186-portia-wu|TAH #2186]]
 - Photo record: Portia Wu in Washington D.C. — [[works/taiwaneseamericanhistory-org/portia-wu|Portia Wu in Washington D.C.]]
+- Corpus re-grep 2026-10-08 (slice 10062334-14): 'Portia' across works/articles/sources/events/topics returns the same four band-B records linked above plus the taiwanjustice-net 《威尼斯商人》 essay (Shakespeare's Portia — not this person). No narrative or memoir material. Saturated; SKIP.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/portia-wu/)
