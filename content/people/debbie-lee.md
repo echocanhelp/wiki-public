@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Debbie Lee
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-10-01
 - **Era:** -
 - **Geography:** -/-/-
 - **Core roles:** educator
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 ## Role in the Community
 
@@ -45,8 +45,10 @@ Debbie Lee started playing the piano since the age of six. As a child, she enjoy
 _No filled family fields on the TAH profile._
 
 ## Sources
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/debbie-lee/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/debbie-lee/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Corpus re-verify 2026-10-08 (slice 10070315-25): fresh 5-dir grep Debbie Lee/黛比 across works/articles/sources/events/topics — exact-name hits unchanged ([[works/taiwaneseamericanhistory-org/musician147|musician147]], [[works/taiwaneseamericanhistory-org/whoswho1224|whoswho1224]] + index/source co-listings); 黛比 article hits are Debbie Stabenow and Debbie Glickman, different persons. No new facts absorbable; SKIP re-verified.

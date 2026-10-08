@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 <!-- deepen-x slice 09231300-8: verified-saturated 2026-09-25 — re-grepped works+articles for 胡正明/Chenming Hu: hit set unchanged, only own band-B records (whoswho1157, pride4) + index; already absorbed, no memoir material. -->
 # Chenming Hu (胡正明)
@@ -18,7 +18,7 @@ last_reviewed: 2026-10-07
 - **Era:** 1947
 - **Geography:** -/-
 - **Core roles:** engineer, entrepreneur, professor, educator
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 
 <!-- tah-tables:start -->
@@ -42,7 +42,7 @@ _No filled family fields on the TAH profile._
 - His National Medal of Technology and Innovation was celebrated in the TAH "pride" community series ([[works/taiwaneseamericanhistory-org/pride4|TAH Pride #4: 國家科技創新獎章 / Chenming Hu, 2016]]); corpus records are band B bibliographic entries — no memoir material beyond the directory biography.
 ## Sources
 - [TAH #1157 encyclopedia: 1157. Chenming Hu 胡正明 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1157/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chenming-hu/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/chenming-hu/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 > Corpus re-verify 2026-09-26 (slice 09251031-17): fresh grep 胡正明/Chenming Hu — hit set unchanged (own records [[works/taiwaneseamericanhistory-org/whoswho1157|TAH #1157]], [[works/taiwaneseamericanhistory-org/pride4|TAH Pride #4]]); no memoir material. SKIP.
 >
 > Corpus re-verify 2026-10-07 (slice 10051400-15): 5-dir grep 胡正明/Chenming Hu/正明 — beyond own records, 正明 hits are 李正明 (whoswho1887) and 鍾正明 (whoswho606), different persons, plus one article false positive (「正明顯升高」substring). No new material; SKIP re-verified.
+>
+> Corpus re-verify 2026-10-08 (slice 10070315-25): fresh 5-dir grep 胡正明/Chenming Hu/Chenming across works/articles/sources/events/topics — hits unchanged (own records [[works/taiwaneseamericanhistory-org/whoswho1157|TAH #1157]], [[works/taiwaneseamericanhistory-org/pride4|TAH Pride #4]] plus index/source co-listings); variant greps surfaced no third-party memoir material. No new facts absorbable; SKIP re-verified.

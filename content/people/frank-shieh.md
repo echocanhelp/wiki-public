@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Frank Shieh (沈培志)
 
@@ -16,10 +16,10 @@ last_reviewed: 2026-10-07
 - **Chinese:** 沈培志
 - **Era:** 1955-2016
 - **Geography:** 台灣彰化
-- **Core roles:** Taiwanese American (TAH Who’s Who)
-- **Source:** TAH Foundation Who’s Who
+- **Core roles:** Taiwanese American (TAH Who's Who)
+- **Source:** TAH Foundation Who's Who
 
-Frank Shieh (沈培志) is listed in the TAH Foundation Who’s Who Taiwanese American profiles.
+Frank Shieh (沈培志) is listed in the TAH Foundation Who's Who Taiwanese American profiles.
 
 ## Family
 
@@ -34,7 +34,7 @@ _No filled family fields on the TAH profile._
 
 ## Sources
 - [TAH #1211 encyclopedia: 1211. Frank Shieh 沈培志 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1211/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/frank-shieh/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/frank-shieh/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
@@ -42,3 +42,4 @@ _No filled family fields on the TAH profile._
 
 <!-- DEEPEN-X SKIP 2026-10-01: corpus re-grep (ZH+EN names, works+articles) — hits are only own TAH record + authored 聖東同鄉會 parade piece #125 + index co-listings. No third-party memoir mentions. SKIP-deepen stands; page saturated at HEAD. -->
 <!-- DEEPEN-X SKIP 2026-10-07 (slice 10051400-16): re-grep 沈培志/Frank Shieh + surname variants across all five corpus dirs — surname-only hits (justina-shieh, tao-shih-shieh, etc.) verified to be other Shiehs; exact-name hits unchanged (own record #1211 + authored #125). SKIP persists; page saturated. -->
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070315-25): fresh 5-dir grep 沈培志/Frank Shieh across works/articles/sources/events/topics — hits unchanged (own record [[works/taiwaneseamericanhistory-org/whoswho1211|#1211]] + authored parade piece [[works/taiwaneseamericanhistory-org/125-e6-b4-9b-e6-9d-89-e7-a3-af-e8-81-96-e6-9d-b1-e5-8f-b0-e7-81-a3-e5-90-8c-e9-8|#125]] + index/source co-listings). No new facts absorbable; SKIP re-verified. -->

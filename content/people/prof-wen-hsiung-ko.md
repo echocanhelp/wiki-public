@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-08
 ---
 # Prof. Wen-Hsiung Ko (柯文雄教授)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-25
 - **Era:** 1939
 - **Geography:** Taiwan
 - **Core roles:** scientist, professor, educator
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 3. Professor of Univ. of Hawaii College of Tropical Agriculture and Human Resource
 
@@ -44,9 +44,11 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #2197 encyclopedia: 2197. Prof. Wen-Hsiung Ko 柯文雄教授](https://taiwaneseamericanhistory.org/whos-who-2197-wen-hsiung-ko/)
 - [TAH #103 encyclopedia: 103. Prof. Wen-Hsiung Ko 柯文雄教授](https://taiwaneseamericanhistory.org/103-prof-wen-hsiung-ko/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-wen-hsiung-ko/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/prof-wen-hsiung-ko/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-25 (deepen-x slice 09250500-4): hits = mystories193 + #103/#2197 + index only — identical to absorbed set. Verified saturated, SKIP.
+
+> Corpus re-verify 2026-10-08 (slice 10070315-25): fresh 5-dir grep 柯文雄/Wen-Hsiung Ko across works/articles/sources/events/topics — hits unchanged ([[works/taiwaneseamericanhistory-org/mystories193|mystories193]], [[works/taiwaneseamericanhistory-org/103-prof-wen-hsiung-ko|#103]], [[works/taiwaneseamericanhistory-org/whos-who-2197-wen-hsiung-ko|#2197]] + index/source co-listings); surname-adjacent hits (李文雄, 李文華) are different persons. No new facts absorbable; SKIP re-verified.
