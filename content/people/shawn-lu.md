@@ -7,9 +7,10 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 # deepen-x slice 09210920-26: SKIP re-verified 2026-09-22 — corpus hit is only own TAH #940 stub (band B, bibliographic only)
 ---
+<!-- deepen-x slice 10070700-27 re-verified 2026-10-08: five-dir grep (works/articles/sources/events/topics) for full name (ZH+EN) + 紹翔/呂紹 substrings. Hits resolve only to own TAH record [[works/taiwaneseamericanhistory-org/whoswho940|whoswho940]], works/index, sources registry; the 呂紹 hits are 呂紹嘉 (conductor), a different person. No memoir/community narrative. SKIP (verified-saturated). -->
 <!-- deepen-x slice 09251054-11: SKIP re-verified 2026-09-26 — fresh ZH+EN grep of works/articles: zero hits beyond own record -->
 <!-- deepen-x slice 09232337-14: SKIP re-verified 2026-09-25 — fresh ZH+EN grep of works/articles: only own TAH stub + works/index -->
 

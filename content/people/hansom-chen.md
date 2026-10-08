@@ -7,8 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
+<!-- deepen-x slice 10070700-27 re-verified 2026-10-08: five-dir grep (works/articles/sources/events/topics) for full name (ZH+EN) + 翰申/陳翰 substrings. Hits resolve only to own TAH record [[works/taiwaneseamericanhistory-org/whoswho1547|whoswho1547]], works/index, sources registry; the 陳翰 hit is 陳翰傑 (陳文成之子), a different person. No memoir/community narrative. SKIP (verified-saturated). -->
 # Hansom Chen (陳翰申)
 
 ## Identity Snapshot

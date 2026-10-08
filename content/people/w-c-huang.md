@@ -7,8 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
+<!-- deepen-x slice 10070700-27 re-verified 2026-10-08: five-dir grep (works/articles/sources/events/topics) for full name (ZH+EN) + 維城/黃醫師 substrings. Hits resolve only to own TAH record [[works/taiwaneseamericanhistory-org/whoswho2084|whoswho2084]], works/index, sources registry; the 黃醫師 hits are TARSA's 黃勝雄醫師, a different person. No memoir/community narrative. SKIP (verified-saturated). -->
 # W. C. Huang (黃維城)
 <!-- deepen-x slice 09251054-8 re-verified 2026-09-26: SKIP — fresh ZH+EN grep of content/works + content/articles; hits are own TAH record page only (or false-positive TDA inside wayback archive_digest hashes), no absorbable memoir/community narrative. -->
 

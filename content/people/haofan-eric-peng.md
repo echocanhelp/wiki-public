@@ -7,8 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
+<!-- deepen-x slice 10070700-27 re-verified 2026-10-08: five-dir grep (works/articles/sources/events/topics) for full name (ZH+EN) + 浩帆/彭浩 substrings. Hits resolve only to own TAH record [[works/taiwaneseamericanhistory-org/whoswho1372|whoswho1372]], works/index, sources registry; the sole 浩帆 article hit is 飛官劉浩帆 (幻象2000 crash, 2001), a different person. No memoir/community narrative. SKIP (verified-saturated). -->
 # Haofan Eric Peng (彭浩帆)
 
 ## Identity Snapshot
