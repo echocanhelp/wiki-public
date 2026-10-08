@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Gail Lee (李秀文)
 
@@ -69,3 +69,5 @@ Corpus re-grep 2026-09-26 (slice 09260400-18, 李秀文 / Gail Lee): hit set unc
 Corpus re-grep 2026-10-04 (slice 09300315-23, 李秀文 / Gail Lee): fresh ZH+EN grep across works/ + articles/. hit set unchanged (musician63, whoswho1115-2, works index only) — SKIP, verified-saturated; HOLD on degree field (M.S. vs M.M.) stands.
 
 Corpus re-grep 2026-10-06 (slice 10051314-13, 李秀文 / Gail Lee): fresh ZH+EN grep across works/articles/sources/events/topics — hit set unchanged (musician63, whoswho1115-2, sources index only) — SKIP, verified-saturated; HOLD on degree field (M.S. vs M.M.) stands.
+
+Corpus re-grep 2026-10-08 (slice 10062334-18, 李秀文 / Gail Lee): fresh ZH+EN grep across works/articles/sources/events/topics — hit set unchanged (musician63, whoswho1115-2, sources index) — SKIP, verified-saturated; HOLD on degree field (M.S. vs M.M.) stands.

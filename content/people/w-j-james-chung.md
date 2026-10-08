@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # W. J. James Chung (鍾文忠)
 
@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 - The corpus additionally profiles him as a famous restaurateur of sushi food: [[works/taiwaneseamericanhistory-org/ff344|344. James Chuang 鍾文忠 / Famous Restaurateur of Sushi Food "Ichiban Japanese Catering" in New York]] (2017-11-06) — the Ichiban record in the corpus predates/complements the TAH employment entry (Japanese Ichiban Catering, owner 1995–2000).
 - Community leadership: President, New Jersey Taiwanese Chamber of Commerce (per TAH employment record).
 - 2020 pandemic record: after COVID-19 closed his NYC catering business, he used the downtime to procure and donate medical supplies to Queens hospitals, framed as "bring[ing] voice to let people know Taiwanese are good and helpful to the whole world"; the record recalls he left Taiwan to study in the US around 35 years earlier "with nothing, relying on the goodwill and generosity of others" and describes him and others loading a van to deliver supplies to Queens' hospitals — he framed the donating as paying that goodwill back. Recorded in [[works/taiwaneseamericanhistory-org/our-journeys-360|360. Taiwanese Americans use coronavirus as moment to create own narrative]] (2020-09-17, band A).
+- Same 2020 record adds the operational detail of his effort: he first worked his business contacts in late March to secure masks for several thousand students from Taiwan studying in the tri-state area; then, working with several other Taiwanese American groups, pulled together 10,000 surgical masks and assembled 200 lunches for donation in early April, with donations reaching NYC Health+Hospitals Jacobi and Lincoln in the Bronx. It also states he lives in New Jersey while his catering business operated in New York City — the two locations coexist rather than conflict.
 - Same corpus record identifies him as an adviser to Taiwan's Overseas Community Affairs Council (僑務委員會) in New York — an official community-facing role not on the TAH profile.
 - HOLD: name-romanization conflict — corpus record ff344 spells him "James Chuang", TAH profile "James Chung"; also HOLD location — ff344 places Ichiban Japanese Catering in New York while his chamber presidency is New Jersey.
 - Re-grepped 2026-09-23 (slice 09221100-32): verified saturated — corpus hits remain exactly the three records already cited (whos-who-1932, ff344, our-journeys-360); every passage matched was already absorbed. No new absorbable community facts.
