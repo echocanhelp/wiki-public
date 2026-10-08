@@ -14,7 +14,7 @@ Already-saturated pages (they carry a hits-hash / verified-saturation stamp) are
 excluded — re-grepping an unchanged corpus is SKIP work, not progress.
 
 Env overrides:
-  DEEPEN_SLICE   pages per card      (default 4)
+  DEEPEN_SLICE   pages per card      (default 1)
   DEEPEN_NCARDS  max cards per run   (default 32)
   DEEPEN_DRY     set to 1 to print the plan without writing anything
 """
@@ -29,7 +29,10 @@ from pathlib import Path
 
 REPO = Path('/home/leedt/echo-system')
 OUT = REPO / 'knowledge/operational'
-SLICE = int(os.environ.get('DEEPEN_SLICE', '4'))
+# 1 page per card -- same rationale as tjj-card-build.py: 4-item cards land in the
+# p90 run-duration tail and exhaust agent.max_turns=30. Override with DEEPEN_SLICE=2
+# if per-claim dispatch overhead ever shows up.
+SLICE = int(os.environ.get('DEEPEN_SLICE', '1'))
 NCARDS = int(os.environ.get('DEEPEN_NCARDS', '32'))
 DRY = os.environ.get('DEEPEN_DRY') == '1'
 

@@ -1316,6 +1316,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/l-n-chang|L. N. Chang (張麗娜)]]
 [[people/l-w-cheng|L. W. Cheng (鄭良偉)]]
 [[people/lai-ching-te|Lai Ching-te (賴清德)]]
+[[people/lai-ting-yu|Lai Ting-yu (賴廷與)]]
 [[people/lanhee-j-chen|Lanhee J. Chen (陳仁宜)]]
 [[people/larry-hsu|Larry Hsu (許中強)]]
 [[people/larry-jang|Larry Jang (鄭龍光)]]

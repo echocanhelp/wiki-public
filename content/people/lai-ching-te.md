@@ -11,6 +11,15 @@ last_reviewed: 2026-10-01
 deepened: diaspora-relationship layer 2026-09-26
 name_en: "Lai Ching-te"
 name_zh: "賴清德"
+relations:
+  spouse: people/wu-mei-ju
+  spouse_status: sourced
+  spouse_source: sources/zh-wikipedia-lai-ching-te.md
+  children:
+    - people/lai-ting-yu
+  children_status: sourced
+  children_count_claim: "兩子 (second son unnamed in our sources)"
+  children_source: sources/zh-wikipedia-lai-ching-te.md
 ---
 # Lai Ching-te (賴清德)
 
@@ -23,7 +32,9 @@ name_zh: "賴清德"
 - **Born:** 1959-10-06, 萬里鄉六坑煤礦區 (今新北市萬里區) — miner father 賴朝金 died of mine gas poisoning 1960-01-08, aged 33; raised single-parent by mother 賴童好 ([sourced](../sources/zh-wikipedia-lai-ching-te.md))
 - **Training:** 國立成功大學 M.D.; internist (內科醫師) before politics
 - **Roles:** 總統 2024– · 副總統 2020–2024 · 行政院院長 2017–2019 · 臺南市長 2010–2017 · 國大代表/立委 1996– · [[organizations/democratic-progressive-party||DPP]] 主席 2022–
-- **Family:** spouse 吳玫如, two sons (zh.wp)
+- **Family:** spouse 吳玫如 (*sourced*, zh.wp comparator); two sons, eldest
+  [[people/lai-ting-yu|Lai Ting-yu (賴廷與)]] (*sourced*, zh.wp "兩子"; second son unnamed in our
+  sources — *unknown*, do not infer)
 - **Echopedia scope:** Taiwan politics coverage via taiwanjustice.net + diaspora memoir record; not himself a Taiwanese-American diaspora profile
 
 ## Role in the Community (corpus record)

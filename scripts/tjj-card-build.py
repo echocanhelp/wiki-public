@@ -13,7 +13,12 @@ from pathlib import Path
 
 REPO = Path("/home/leedt/echo-system")
 OUT = REPO / "knowledge/operational"
-SLICE = 4
+# 1 article per card. 4-item cards (SLICE=4) needed link+deepen work on 4 pages
+# inside agent.max_turns=30 and landed in the p90 tail (31-77 min), exhausting the
+# turn budget -- the 8 timed_out + 64 reclaimed runs on 2026-10-07. Single-item
+# cards do the same work well inside budget; dispatch overhead per claim is cheap.
+# Fallback if per-claim overhead ever shows up: SLICE = 2.
+SLICE = 1
 NCARDS = 32
 STAMP = subprocess.run(["date", "+%m%d%H%M"], capture_output=True, text=True).stdout.strip()
 

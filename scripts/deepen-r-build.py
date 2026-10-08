@@ -7,7 +7,10 @@ from pathlib import Path
 
 REPO = Path('/home/leedt/echo-system')
 OUT = REPO / 'knowledge/operational'
-SLICE = 4
+# 1 page per card -- same rationale as tjj-card-build.py: multi-item cards land in the
+# p90 run-duration tail and exhaust agent.max_turns=30. Dormant builder (last run 09-14);
+# kept consistent so a manual re-run inherits the fix.
+SLICE = 1
 flagged = json.load(open('knowledge/operational/revisit-flagged.json'))  # already sorted desc by mentions
 
 # rebuild sorted list (json lost sizes; re-sort by mention count stored implicitly — order preserved)

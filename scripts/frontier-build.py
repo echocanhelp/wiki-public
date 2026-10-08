@@ -26,7 +26,10 @@ from pathlib import Path
 
 HUB = 50
 BASELINE = 288
-SLICE = 4
+# 1 page per card -- same rationale as tjj-card-build.py: multi-item cards land in the
+# p90 run-duration tail and exhaust agent.max_turns=30. This builder has never emitted a
+# card (no cron/systemd/shell refs); kept consistent so a first real run inherits the fix.
+SLICE = 1
 LINK_RE = re.compile(r"\[\[([^\]|#]+)(?:#[^\]|]*)?(?:\|([^\]]*))?\]\]")
 TA_ANCHOR = re.compile(r"Taiwan|Taiwanese|台灣|台美")
 TIER_RE = re.compile(r"^tier:\s*[\"']?([Mm12])[\"']?\s*$", re.M)

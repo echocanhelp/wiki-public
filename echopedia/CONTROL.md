@@ -77,7 +77,18 @@ Canon homepage: Echopedia documents people, congregations, and organizations tha
 | **B** | Taiwan people who shaped TA life (e.g. TAH.org subjects, visiting pastors) | Yes | Dossier; describe the *relationship*, do not fake 台美 identity |
 | **C** | Allies in **our** sources (TJ/RFA columnists the community read and kept) | Yes, usually thin | **Ally / contributor in the archive.** Never stamp “not Taiwanese American.” |
 | **D** | Famous names whose story is **about them, not us** — celebrity, culture, general news, or a Taiwan headline with no community party to it | Out | Do not ingest. Cite the reporting if it matters; create no page |
-| **E** | **Living memory of transnational repression** — cases where the community is a **party**: diaspora members targeted on US soil, or officials' families surveilled here, so the case *is* our record of an operation reaching us (Leonard ruling 2026-10-07, Wanying "Heather" Zhang case) | Yes | Dossier as **current-history event record**: allegation language, court posture, community relevance line; never a biography of the accused |
+| **E** | **Living memory of transnational repression** — cases where the community is a **party**: diaspora members targeted on US soil, or officials' families surveilled here, so the case *is* our record of an operation reaching us (Leonard ruling 2026-10-07, Wanying "Heather" Zhang case) | Yes | Dossier as **current-history event record**: allegation language, court posture, community relevance line |
+
+**Biography standard (Leonard ruling 2026-10-08).** Echopedia is a **living archive, not a news
+agency and not a politically-correct encyclopedia.** We get personal and we do not withhold
+high-value information — education, employment, residence, family, relationships, and the
+texture of a life are exactly what a community archive exists to hold, and what no public
+record will preserve for us later. The guardrail is **labeling, never omission**: every claim
+carries its status (sourced / inferred / alleged / unknown) and its source line, allegations
+stay allegations until proven, and we do not publish a verdict we did not earn. Recording that
+someone is accused of an offense is not defamation when it is attributed to the charging
+document; recording it *without* attribution is. Silence about a person is not neutrality —
+it is the archive forgetting them, which is the failure this project exists to prevent.
 
 **D↔E discriminator (harmonized 2026-10-08).** Both tiers can involve a famous name in the
 news, so the test is not fame and not prominence — it is **whether the community is a party to

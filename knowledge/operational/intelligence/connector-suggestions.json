@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T07:00:27.845925",
-  "pages_scanned": 2936,
+  "generated_at": "2026-10-08T07:00:36.415466",
+  "pages_scanned": 2950,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 5187,
-    "co_mention_count": 10745,
+    "co_citation_count": 5223,
+    "co_mention_count": 10765,
     "shared_tags_count": 0,
     "orphan_folder_count": 3,
     "kept_co_citation": 80,
@@ -75,7 +75,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens for Taiwan (西雅圖美台會)",
-        "shared_targets_count": 2611
+        "shared_targets_count": 2612
       },
       {
         "type": "CO-CITATION",
@@ -84,7 +84,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
-        "shared_targets_count": 2611
+        "shared_targets_count": 2612
       },
       {
         "type": "CO-CITATION",
@@ -93,7 +93,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "shared_targets_count": 2611
+        "shared_targets_count": 2612
       },
       {
         "type": "CO-CITATION",
@@ -682,6 +682,15 @@
       },
       {
         "type": "CO-CITATION",
+        "page1": "organizations/association-of-taiwanese-students-at-mit.md",
+        "page2": "sources/taiwaneseamericanhistory-org.md",
+        "shared_target": "people/prof-kang-lung-wang",
+        "page1_title": "Association of Taiwanese Students at MIT",
+        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
+        "shared_targets_count": 2
+      },
+      {
+        "type": "CO-CITATION",
         "page1": "organizations/asu-taiwanese-international-student-association.md",
         "page2": "people/carrie-y-tseng.md",
         "shared_target": "organizations/taiwanese-student-association-at-arizona-state-university",
@@ -722,15 +731,6 @@
         "page2": "sources/taiwaneseamericanhistory-org.md",
         "shared_target": "organizations/taiwanese-american-association-of-arizona",
         "page1_title": "ASU Taiwanese International Student Association",
-        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
-        "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/north-america-taiwanese-womens-association-arizona-chapter.md",
-        "page2": "sources/taiwaneseamericanhistory-org.md",
-        "shared_target": "organizations/taiwanese-american-association-of-arizona",
-        "page1_title": "North America Taiwanese Women’s Association – Arizona Chapter (北美洲台灣婦女會亞利桑那分會)",
         "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
         "shared_targets_count": 3
       }
@@ -979,6 +979,14 @@
       {
         "type": "CO-MENTION",
         "page1": "organizations/association-of-taiwanese-students-at-mit.md",
+        "page2": "people/lisa-wang.md",
+        "page1_title": "Association of Taiwanese Students at MIT",
+        "page2_title": "Lisa Wang",
+        "mention_text": "Lisa Wang"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/association-of-taiwanese-students-at-mit.md",
         "page2": "sources/taiwaneseamericanhistory-org.md",
         "page1_title": "Association of Taiwanese Students at MIT",
         "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
@@ -1047,14 +1055,6 @@
         "page1_title": "ASU Taiwanese International Student Association",
         "page2_title": "Taiwanese Student Association",
         "mention_text": "Taiwanese Student Association"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/asu-taiwanese-international-student-association.md",
-        "page2": "organizations/taiwanese-students-association.md",
-        "page1_title": "ASU Taiwanese International Student Association",
-        "page2_title": "Taiwanese Students Association",
-        "mention_text": "Taiwanese Students Association"
       }
     ],
     "shared_tags": []

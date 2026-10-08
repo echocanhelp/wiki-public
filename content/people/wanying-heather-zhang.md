@@ -13,7 +13,7 @@ aka: "Heather"
 ---
 # Wanying Zhang aka "Heather"
 
-**Community relevance (Tier E — living memory of transnational repression, CONTROL §1b):** This page is the community's **current-history event record** of the 2025–2026 FBI case alleging a PRC-directed surveillance operation on U.S. soil targeting the family of a senior Taiwanese official — the first such prosecution of its kind reaching the Taiwanese American community directly. It is **not a biography of the accused**. All facts below are **allegations** from the criminal complaint and affidavit; the defendant is presumed innocent until proven guilty.
+**Community relevance (Tier E — living memory of transnational repression, CONTROL §1b):** This page is the community's **current-history event record** of the 2025–2026 FBI case alleging a PRC-directed surveillance operation on U.S. soil targeting the family of a senior Taiwanese official — the first such prosecution of its kind reaching the Taiwanese American community directly. Per the **biography standard** (Leonard ruling 2026-10-08) this page records her life and work as fully as our sources allow — we do not withhold high-value information from a living archive. What it does not do is convert allegations into findings: all facts below carry their status and are attributed to the charging document, and the defendant is presumed innocent until proven guilty.
 
 ## Identity Snapshot
 
@@ -58,7 +58,7 @@ aka: "Heather"
 These are context for the event, not judgments on the persons named:
 
 - **[[people/lai-ching-te|Lai Ching-te (賴清德)]]** — whose son's family was the alleged surveillance target. Presidential office condemned "brutal acts of suppression, intimidation … against families"; "Taiwan will continue to cooperate with democratic allies to combat illegal cross-border repression."
-- **Lai Ting-Yu (賴廷與)** — source-identified target (CBS/TOC); not an Echopedia page subject (private individual, U.S. resident).
+- **[[people/lai-ting-yu|Lai Ting-yu (賴廷與)]]** — source-identified target (CBS/TOC). Now holds his own page: community tie documented via father [[people/lai-ching-te|Lai Ching-te]], and he is a U.S.-resident engineer, so the case record of what was done *to* him belongs in the archive.
 - **AACA (All American Chinese Association)** — diaspora org with leadership tied to CCP United Front bodies per CBS investigation (leader Cai Chenghua, ex-vice-chair of CCPIT-affiliated groups; board member Tian Jun, Overseas Chinese Affairs Office). Zhang's contact surface with "officials who had deep ties to the Chinese government."
 - **Eileen Wang (王高玲?)** — former Arcadia mayor, pleaded guilty May 2026 as a Chinese agent — same wave of CA foreign-agent cases.
 - **Shujun Wang (NY, convicted 2024)** and **Operation Fox Hunt** sentencing (Quanzhong An, Mar 2025) — the national transnational-repression pattern this case extends.

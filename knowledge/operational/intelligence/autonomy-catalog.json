@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-07T07:00:29",
+  "updated": "2026-10-08T07:00:38",
   "nodes": [
     {
       "id": "cron.crons",
       "enabled": true,
       "human": false,
       "ssot": "pinto cron/jobs.json",
-      "count": 30
+      "count": 32
     },
     {
       "id": "janitor.first_mention",
@@ -93,35 +93,35 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-06T21:06:37.337041-07:00"
+      "last_run_at": "2026-10-07T21:06:13.662099-07:00"
     },
     {
       "name": "vault-morning-brief",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-06T07:01:01.817766-07:00"
+      "last_run_at": "2026-10-07T07:00:55.452243-07:00"
     },
     {
       "name": "vllm-thermal-scaler",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-07T06:58:54.101591-07:00"
+      "last_run_at": "2026-10-08T07:00:00.642904-07:00"
     },
     {
       "name": "Echopedia content analysis",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-06T21:11:38.284360-07:00"
+      "last_run_at": "2026-10-07T21:11:14.384325-07:00"
     },
     {
       "name": "unified-watchdog",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-07T06:50:08.500378-07:00"
+      "last_run_at": "2026-10-08T06:57:16.894840-07:00"
     },
     {
       "name": "echopedia-digest",
@@ -135,21 +135,21 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "error",
-      "last_run_at": "2026-10-07T00:51:35.038698-07:00"
+      "last_run_at": "2026-10-08T00:51:14.863381-07:00"
     },
     {
       "name": "echopedia-nightly-audit",
       "enabled": true,
       "no_agent": true,
-      "last_status": "ok",
-      "last_run_at": "2026-10-06T21:51:52.001137-07:00"
+      "last_status": "error",
+      "last_run_at": "2026-10-07T21:49:18.935053-07:00"
     },
     {
       "name": "echopedia-janitor",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-06T21:41:46.721132-07:00"
+      "last_run_at": "2026-10-07T21:41:17.054219-07:00"
     },
     {
       "name": "echopedia-weekly-improvement",
@@ -163,14 +163,14 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-07T00:32:22.483878-07:00"
+      "last_run_at": "2026-10-08T00:30:06.174578-07:00"
     },
     {
       "name": "echopedia-site-design",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-07T00:31:21.338674-07:00"
+      "last_run_at": "2026-10-08T00:31:07.067515-07:00"
     },
     {
       "name": "vault-search-index-rebuild",
@@ -184,70 +184,70 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-06T21:41:47.385420-07:00"
+      "last_run_at": "2026-10-07T21:41:17.777920-07:00"
     },
     {
       "name": "echopedia-extract-actions",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-06T22:00:57.317096-07:00"
+      "last_run_at": "2026-10-07T22:01:20.938112-07:00"
     },
     {
       "name": "echopedia-evaluate-actions",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-06T22:21:08.380246-07:00"
+      "last_run_at": "2026-10-07T22:21:28.521526-07:00"
     },
     {
       "name": "echopedia-generate-cards",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-06T22:41:19.110878-07:00"
+      "last_run_at": "2026-10-07T22:41:30.972513-07:00"
     },
     {
       "name": "echopedia-docs-sync",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-07T01:11:50.979392-07:00"
+      "last_run_at": "2026-10-08T01:11:28.077402-07:00"
     },
     {
       "name": "echopedia-person-works-linker",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-06T23:00:49.681514-07:00"
+      "last_run_at": "2026-10-07T23:00:39.209661-07:00"
     },
     {
       "name": "cron-audit",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-07T00:46:31.686828-07:00"
+      "last_run_at": "2026-10-08T00:46:12.593532-07:00"
     },
     {
       "name": "echopedia-timeline-builder",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-06T23:30:50.223288-07:00"
+      "last_run_at": "2026-10-07T23:30:40.234283-07:00"
     },
     {
       "name": "echopedia-quote-extractor",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-06T23:15:49.725086-07:00"
+      "last_run_at": "2026-10-07T23:15:39.433517-07:00"
     },
     {
       "name": "echopedia-backlink-auditor",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-06T21:50:46.774009-07:00"
+      "last_run_at": "2026-10-07T21:50:36.356038-07:00"
     },
     {
       "name": "echopedia-source-continuity",
@@ -261,7 +261,7 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-07T00:41:28.399315-07:00"
+      "last_run_at": "2026-10-08T00:40:43.259343-07:00"
     },
     {
       "name": "go-router-monthly-audit",
@@ -275,28 +275,42 @@
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-06T21:45:46.291523-07:00"
+      "last_run_at": "2026-10-07T21:45:36.145206-07:00"
     },
     {
       "name": "echopedia-interaction-absorb",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-06T22:50:49.036692-07:00"
+      "last_run_at": "2026-10-07T22:50:38.342803-07:00"
     },
     {
       "name": "pair-miner-growth",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-06T23:50:00.671318-07:00"
+      "last_run_at": "2026-10-07T23:49:43.043146-07:00"
     },
     {
       "name": "echopedia-board-brief",
       "enabled": true,
       "no_agent": true,
       "last_status": "ok",
-      "last_run_at": "2026-10-06T12:00:31.101941-07:00"
+      "last_run_at": "2026-10-07T12:00:24.817034-07:00"
+    },
+    {
+      "name": "echopedia-news-scan",
+      "enabled": true,
+      "no_agent": true,
+      "last_status": "ok",
+      "last_run_at": "2026-10-08T06:44:21.945404-07:00"
+    },
+    {
+      "name": "echopedia-news-digest",
+      "enabled": true,
+      "no_agent": true,
+      "last_status": null,
+      "last_run_at": null
     }
   ]
 }

@@ -255,3 +255,9 @@
 {"ts": 1791442324.509, "src": "line_pre_llm", "decision": "allow", "text_sha": "36fc06dd4fe1", "text": "@Echo許 AI助理 please check following feedback, take corrective action and provide updated page links.  \"你所提及的審聽頁（包括英文頁），似乎跟以前一樣，沒有更新，沒有變化。 你註明「已改…」這部分，似呼也沒有改。 「作者簡介」也沒有加在全書前面，「目錄」 、「參考資料」、「版權頁/CIP」也沒有接上"}
 {"ts": 1791442324.509, "src": "line_pre_llm", "decision": "allow", "text_sha": "01db01f441b0", "text": "手提供的中英文全書的連接點都打不開，包括中英文的備用也打不開。 請檢查並提供新的鏈結"}
 {"ts": 1791442324.509, "src": "line_pre_llm", "decision": "allow", "text_sha": "96d0849917cf", "text": "所提供的中、英文全書的連接點都打不開，連不上，包括中英文的備用也打不開。 請檢查並提供新的鏈結"}
+{"ts": 1791471673.219, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1791471674.662, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1791471702.096, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1791471706.92, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1791471714.6, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1791471716.201, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
