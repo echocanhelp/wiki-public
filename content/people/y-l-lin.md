@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Y. L. Lin (林玉郎)
 
@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 10051918-9: re-verified 2026-10-07 — fresh five-dir grep (works/articles/sources/events/topics, ZH+EN+variants) returns only already-cited records; verified-saturated, nothing absorbable. -->
+
+Corpus re-check (deepen-x slice 10070400-11, 2026-10-08): fresh ZH+EN+initials grep across works/articles/sources/events/topics returned the same already-cited records (whoswho1326, ourjourneys245, and the two same-initials other-person records whoswho1711/1432) plus one new file, [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Taiwanese American statement]], whose only match is "Jenny YL Lin, IMC" — a different person with the same initials, not this 林玉郎; do not conflate. Verified saturated, SKIP.

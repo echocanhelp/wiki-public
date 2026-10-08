@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Tien-Chang Lee (李典常)
 
@@ -40,6 +40,7 @@ Prof. Tien-Chang Lee 李典常教授 – History of Taiwanese American (T.A. Arc
 - SKIP re-check (deepen-x 09251031-25, 2026-09-26): grep again returned only own record + works index — still no absorbable material.
 - Community activity (deepen-x 09261341-8 re-grep, 2026-10-01): [[organizations/irvine-taiwanese-presbyterian-church|Irvine Taiwanese Presbyterian Church]] (ITPC) lists him among Notable Speakers (2009–2026) as "Mr. 李典常" (listed twice in the speaker roster) — a community-engagement signal beyond the Who's Who record; the lecture topics in that section do not name a talk of his, so no talk subject added.
 - Re-check (deepen-x 10051909-2, 2026-10-07): fresh ZH+EN grep across works/articles/sources/events/topics returns only own [[works/taiwaneseamericanhistory-org/2301-prof-tien-chang-lee|TAH #2301]] record + works/sources index entries — still no memoir material to absorb; verified saturated, SKIP.
+- Re-check (deepen-x slice 10070400-11, 2026-10-08): fresh ZH+EN grep across all five corpus dirs again returns only own [[works/taiwaneseamericanhistory-org/2301-prof-tien-chang-lee|TAH #2301]] record + works/sources index entries — no memoir material to absorb; verified saturated, SKIP.
 
 ## Family
 

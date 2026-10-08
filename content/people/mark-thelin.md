@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Mark Thelin (練馬可博士)
 
@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 - The TAH encyclopedia holds a dedicated record of his life and work among the Taiwanese community: [[works/taiwaneseamericanhistory-org/139-mark-thelin-e7-b7-b4-e9-a6-ac-e5-8f-af|139. Mark Thelin 練馬可]] (published 2014-12-04). His long teaching career at Tunghai University (東海大學) and Tainan Theological College & Seminary (台南神學院), including heading the Department of Sociology and the Graduate Institute of Religious Social Work, is the community-recorded core of his biography.
 - Re-grepped corpus for 練馬可/Mark Thelin 2026-09-19, re-verified 2026-09-21 and 2026-09-25 (slice 09250500-23), and 2026-10-01 (slice 09261200-19): no memoir or article mentions beyond his own record above and the [[organizations/presbyterian-church-in-taiwan|PCT]] page roster row; nothing further absorbable this pass (SKIP).
 - Re-check (deepen-x 10051909-2, 2026-10-07): fresh ZH+EN+surname grep across works/articles/sources/events/topics returns only own record [[works/taiwaneseamericanhistory-org/139-mark-thelin-e7-b7-b4-e9-a6-ac-e5-8f-af|139. Mark Thelin 練馬可]] + works/sources index entries — verified saturated, SKIP.
+- Re-check (deepen-x slice 10070400-11, 2026-10-08): fresh ZH+EN grep across all five corpus dirs again returns only own record [[works/taiwaneseamericanhistory-org/139-mark-thelin-e7-b7-b4-e9-a6-ac-e5-8f-af|139. Mark Thelin 練馬可]] + works/sources index entries — verified saturated, SKIP.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mark-thelin/)
