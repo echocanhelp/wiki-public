@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Jerry Jan (詹春孟博士)
 
@@ -38,7 +38,14 @@ last_reviewed: 2026-10-07
 
 
 ## Role in the Community
-The corpus holds his TAH Who's Who encyclopedia record #763 (published 2016-01-17) as the community record of his career: [[works/taiwaneseamericanhistory-org/763-jerry-jan-e8-a9-b9-e6-98-a5-e5-ad-9f-201601|763. Jerry Jan 詹春孟 / 2016/01]]. His corpus-documented role bridges the U.S. engineering career (Gibbs & Hill, Foster Wheeler) and service back to Taiwan's nuclear research establishment (行政院原子能委員會核能研究所顧問). The corpus record is bibliographic (full text stays at TAH); no movement-activity appearances beyond the Who's Who entry were found.
+The corpus holds his TAH Who's Who encyclopedia record #763 (published 2016-01-17) as the bibliographic record of his career: [[works/taiwaneseamericanhistory-org/763-jerry-jan-e8-a9-b9-e6-98-a5-e5-ad-9f-201601|763. Jerry Jan 詹春孟 / 2016/01]]. His corpus-documented role bridges the U.S. engineering career (Gibbs & Hill, Foster Wheeler) and service back to Taiwan's nuclear research establishment (行政院原子能委員會核能研究所顧問).
+
+Two community appearances were recovered from the archived TAH.org posts (2026-10-08, deepen-X slice 10070700-21), which raise his record above the press-kit biography:
+
+- **TACEC 2011 speaker (2011/07).** At the 美東台灣人夏令會 he gave the lecture 「從日本核災來探討世界各國及台灣的核能發電」, arguing that Taiwan's plants could not withstand a Fukushima-scale quake and tsunami, that their placement in densely populated areas made evacuation impossible, and that no permanent safe repository for waste exists — so the fundamental remedy was alternative energy and a 非核家園. The corpus records him as "哥倫比亞大學耐震結構工程博士，曾在全世界各地設計多家核電廠", i.e. his engineering authority was deployed on the anti-nuclear side of the community agenda. [[works/taiwaneseamericanhistory-org/tacec-2011|TACEC 2011]]
+- **西溫莎台美人協會 cultural festival (1999/11/20).** In 楊遠薰's account of the 溫莎區台美協會 "A Short Trip to Taiwan" open house at the West Windsor senior center, 詹春孟 and 江正吉 ran the fortune-telling booth (抽簽卜杯、解籤語) that drew the largest crowd of the evening — a grassroots volunteer role in the association's community-building work among American neighbours. [[works/taiwaneseamericanhistory-org/71-e6-ba-ab-e8-8e-8e-e5-8d-80-e5-8f-b0-e7-be-8e-e5-8d-94-e6-9c-83-e5-9c-a8-e7-95|71. 溫莎區台美協會在當地多項活動記實 / 楊遠薰 / 1999/11/20]]
+
+No date or age conflicts arise between these and the Who's Who table.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jerry-jan/)
