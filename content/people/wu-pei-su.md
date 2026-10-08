@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Wu-Pei Su (蘇武沛)
 
@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09250400-24 (2026-09-25): verified-saturated — fresh ZH+EN re-grep of works/ + articles/ returns no absorbable material beyond already-cited records. -->
 <!-- deepen-x slice 09252123-22 (2026-09-26): fresh grep 蘇武沛/Wu-Pei Su/武沛 across works/ + articles/ hits only own TAH #833 record + works/index.md; SKIP, nothing new absorbable. -->
 <!-- deepen-x slice 10051909-28 (2026-10-07): verified-saturated — fresh grep 蘇武沛/Wu-Pei Su/武沛 across works/articles/sources/events/topics hits only own TAH #833 record + sources/taiwaneseamericanhistory-org.md. SKIP, nothing new absorbable. -->
+
+<!-- deepen-x slice 10070500-8 (2026-10-08): verified-saturated — fresh grep (ZH+EN+romanization variants+given-name fragments) across all five corpus dirs returns only own TAH record + index/source rows. SKIP, nothing new absorbable. -->

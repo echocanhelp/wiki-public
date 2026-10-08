@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Chang-Yang Wang (王昌洋醫師)
 
@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09250400-1 (2026-09-25): SKIP re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already cited on this page; nothing new absorbable. -->
 <!-- Corpus re-grep 2026-09-26 (slice 09251527-20): fresh ZH+EN grep of works/+articles/ returns only the records already wikilinked/absorbed on this page; verified saturated; SKIP-content. -->
 <!-- deepen-x slice 10051909-27 (2026-10-07): verified-saturated — fresh grep across works/articles/sources/events/topics for 王昌洋/Chang-Yang Wang returns only own TAH #1967 record + works/index + sources page. SKIP-with-reason. -->
+
+<!-- deepen-x slice 10070500-8 (2026-10-08): verified-saturated — fresh grep (ZH+EN+romanization variants+given-name fragments) across all five corpus dirs returns only own TAH record + index/source rows. SKIP, nothing new absorbable. -->
