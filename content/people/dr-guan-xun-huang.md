@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Guan-Xun Huang (黃冠勳博士)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-25 (slice 09232232-17): fresh ZH+EN grep of works/ and articles/ returned no mentions outside the subject's own TAH record — nothing new absorbable; page held at prior state (SKIP-deepened). Re-grep 2026-09-26 (slice 09251047-4): only hit is the own-record catalog line in works/index.md — still nothing absorbable.
 - Corpus re-grep 2026-10-07 (slice 10052007-9): five-dir sweep for 黃冠勳 / Guan-Xun plus surname variant 冠勳 returned only the own-record catalog lines (works/index.md, sources index) — the nearby mystories-760/759 index hits are same-date neighboring entries, not mentions. Nothing absorbable; SKIP stands.
+- Corpus re-grep 2026-10-08 (slice 10070700-10): five-dir sweep (works/articles/sources/events/topics) for 黃冠勳 / Guan-Xun / 冠勳 — same hit-set: own record whos-who-2285 + works/index + sources registry only. Verified-saturated; SKIP stands.

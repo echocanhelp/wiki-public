@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Hwei-Ling Chen (涂惠鈴)
 
@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 
 - Her TAH Who's Who entry is held in the corpus as [[works/taiwaneseamericanhistory-org/whoswho1510|1510. Hwei-Ling Chen 洪惠鈴 / 2017/02]] (published 2017-02-12). No further community/memoir material found in works or articles.
 - HOLD: conflict in 漢名 surname — person page has 涂惠鈴, work record title has 洪惠鈴 (same English name, same TAH source). Never auto-merged.
+- 2021-01: quoted as 「惠鈴」 in the 花絮 of the 北卡台灣同鄉會 contingent at the 2020 全美台灣同鄉會 online New Year's Eve singing contest (Webex/YouTube; cheering contestants 莊文龍 and 秋月) — [[works/taiwaneseamericanhistory-org/our-journeys-365|365. 花絮-北卡台灣同鄉會參加 2020全美台灣同鄉會跨年活動]]. Likely the same person (subject is Wake Tech / North Carolina; the 北卡 community context fits), but the reference is given-name-only with no surname shown — unconfirmed, so not merged into the 涂/洪 surname reconciliation.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/hwei-ling-chen/)
