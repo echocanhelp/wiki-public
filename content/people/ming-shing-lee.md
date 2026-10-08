@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Ming-Shing Lee (李明星)
 
@@ -51,3 +51,5 @@ SKIP-with-reason (corpus check 2026-09-18, re-verified 2026-09-20 and 2026-09-21
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- DEEPEN-X RECHECK 2026-10-07 (slice 10051918-20): five-dir grep (works/articles/sources/events/topics) for 李明星 / 明星 / Ming-Shing Lee. The 明星 substring hits in ourjourneys256/123/39/389 are all the common noun 「明星」(movie/baseball star) or 黃明星, a different Indiana 同鄉 artisan ([[works/taiwaneseamericanhistory-org/our-journeys-389|Our Journeys 389]]) — none refer to this person. No EN-name hits outside own record. Verified-saturated; SKIP stands. -->
+
+- 2026-10-08 deepen-x slice 10070500-23: five-dir grep (李明星 / Ming-Shing Lee / 明星 across works/articles/sources/events/topics) returns only own record [[works/taiwaneseamericanhistory-org/whos-who-1893-ming-shing-lee|TAH #1893]], works/index row, and sources page; 明星 substring hits elsewhere are the common noun or 黃明星. Verified saturated (SKIP).

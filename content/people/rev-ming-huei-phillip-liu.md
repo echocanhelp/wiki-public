@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Rev. Ming Huei Phillip Liu (劉銘輝牧師)
 
@@ -52,3 +52,5 @@ Rev. Ming Huei Phillip Liu 劉銘輝牧師 – History of Taiwanese American (T.
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 2026-10-08 deepen-x slice 10070500-23: five-dir grep (劉銘輝 / Ming Huei / Phillip Liu / 銘輝牧師 across works/articles/sources/events/topics) returns only own record [[works/taiwaneseamericanhistory-org/whos-who-1627-ming-huei-liu|TAH #1627]], works/index row, and sources page. No memoir/community material. Verified saturated (SKIP).
