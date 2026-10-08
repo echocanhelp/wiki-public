@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chi-Chen Wu (吳紀禛)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 SKIP (re-confirmed) — fresh grep for 吳紀禛 / Chi-Chen Wu still limited to the two own-profile encyclopedia records plus the works index. Verified saturated. Re-grep 2026-09-26 (slice 09251023-21): same hit set — verified saturated.
 
 <!-- deepen-x 10051400-8: SKIP — fresh ZH+EN grep across all five corpus dirs (吳紀禛/Chi-Chen Wu/Chi Chen Wu): hits = own #311/#685 + index/source pages only; verified-saturated. -->
+<!-- deepen-x 10070315-19: SKIP — fresh ZH+EN grep 2026-10-08 across works/articles/sources/events/topics (吳紀禛/Chi-Chen Wu/Chi Chen Wu): hits = own #311/#685 + index/source only; no memoir material. Verified-saturated. -->

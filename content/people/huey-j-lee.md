@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Huey J. Lee (李惠仁醫師)
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-10-07
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - SKIP re-verify (2026-10-07, deepen-x slice 10051400-9): corpus grep across all five dirs returns only ourjourneys12, ourjourneys153 (同名衝突維持 HOLD), and own record 900. No new absorbable material; saturated.
+- SKIP re-verify (2026-10-08, deepen-x slice 10070315-19): fresh 李惠仁/Huey J. Lee grep across all five dirs returns only ourjourneys12, ourjourneys153 (同名衝突維持 HOLD), and own record 900 plus index/source pages. No new absorbable material; saturated.
