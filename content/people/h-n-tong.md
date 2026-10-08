@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-08
 ---
 # H. N. Tong (童海南)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 10062218-3: re-verified 2026-10-08 — fresh ZH+EN+surname sweep of works/articles/sources/events/topics; hit set unchanged (whoswho1631, ourjourneys296, our-journeys-351, index). Surname-only sweep (童) returned false positives only (兒童/童玩 — common word, not the person); 海南 matches are 東海南海 geography. Nothing new absorbable. SKIP. -->

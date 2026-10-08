@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-08
 ---
 # Arthur H. Wu (吳漢南)
 
@@ -53,3 +53,4 @@ last_reviewed: 2026-09-25
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09250600-16: re-verified 2026-09-25 — corpus grep (ZH+EN) hits = own records (712, ourjourneys47, winners10) only, all already absorbed into Role in the Community. SKIP. -->
+<!-- deepen-x 10062218-3: re-verified 2026-10-08 — fresh ZH+EN sweep of works/articles/sources/events/topics; hit set unchanged (712, ourjourneys47, winners10, index) plus one false positive (ourjourneys265 "Arthur Chan" ≠ Arthur H. Wu). Nothing new absorbable. SKIP. -->
