@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Polly Chang (何佩宜)
 
@@ -50,3 +50,5 @@ Heartland Institute Financial Education, CPP-College Planning Program
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x recheck 2026-09-26 (slice 09251023-27): fresh ZH+EN grep of works/+articles/ — hit set identical to prior sweeps (own TAH record + index only; Julan: own works + 婦女信箱 roster already cited). No new absorbable material. SKIP stands. -->
 <!-- deepen-x recheck 2026-10-07 (slice 10051918-29): fresh grep (何佩宜 / Polly Chang / 何君麟) across all five corpus dirs — 何佩宜 hits: own record #1172 + index + source page only. 何君麟: zero corpus hits. Jason Chang / 張君麟 hits resolve to the pastel artist 張哲雄 (#118, #141, footsteps-13/30, artist1) — a different Jason Chang, not this person's spouse; the existing 何君麟 vs 張君麟 HOLD stands unchanged. Verified-saturated. -->
+
+<!-- deepen-x slice 10070500-31 (2026-10-08): fresh five-dir greps (何佩宜 / Polly Chang / 何君麟 / Heartland) across works/articles/sources/events/topics — only own record #1172 + spousal companion record #1171 + indexes. 何君麟: zero corpus hits. Existing 何君麟 vs 張君麟 HOLD stands unchanged. Verified-saturated; SKIP. -->

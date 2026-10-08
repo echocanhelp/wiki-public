@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 <!-- deepen-x slice 09211507-26: verified-saturated 2026-09-22 — re-grepped works+articles for 白樂崎/Bellocchi: only own TAH #839 record + index row; SKIP-with-reason in 'Role in the Community' stands. -->
 # Nat Bellocchi (白樂崎)
@@ -49,3 +49,5 @@ SKIP (2026-09-18): corpus grep for 白樂崎 / Bellocchi across content/works an
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 10051918-18 (2026-10-07): fresh ZH+EN+family greps (白樂崎/Bellocchi/白麗蘭/賈桂林) across works/articles/sources/events/topics — only hit is the taiwaneseamericanhistory.org source index listing; zero corpus/memoir mentions. Verified-saturated; SKIP. -->
+
+<!-- deepen-x slice 10070500-31 (2026-10-08): fresh five-dir greps (白樂崎 / Bellocchi / 白麗蘭 / 賈桂林) across works/articles/sources/events/topics — only own TAH #839 record + indexes. Corpus AIT mentions (ourjourneys320, my-stories-897, TRA-40 pieces) reference other AIT figures (Richard Bush, Dr. Stanton), not Bellocchi himself. Verified-saturated; SKIP. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Nellie Gephardt Amondson ‧ (納莉)
 
@@ -48,3 +48,5 @@ Nellie Gephardt Amondson 納莉‧艾默森 – History of Taiwanese American (T
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Re-check (deepen-x 10051918-19, 2026-10-07): fresh five-dir grep (works/articles/sources/events/topics) for Amondson / Gephardt / 納莉‧艾默森 / 艾默森 — hit set unchanged: own TAH #1614 profile, works/index, sources index only. No new first-person corpus material. Saturated.
+
+<!-- deepen-x slice 10070500-31 (2026-10-08): fresh five-dir greps (Amondson / Gephardt / 艾默森 / 納莉) across works/articles/sources/events/topics — hit set unchanged: own TAH #1614 record, works/index, daughter-linked pages, and Typhoon-Nashi news articles. "Nellie" hits resolve to opera singer Nellie Melba (false positives). Verified-saturated; SKIP. -->

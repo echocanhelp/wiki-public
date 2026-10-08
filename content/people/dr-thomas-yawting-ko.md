@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Thomas Yawting Ko (柯耀庭醫師)
 
@@ -50,3 +50,5 @@ Dr. Thomas Yawting Ko 柯耀庭醫師 – History of Taiwanese American (T.A. Ar
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 10051918-18 (2026-10-07): fresh ZH+EN+family greps (柯耀庭/Yawting/柯昭安) across works/articles/sources/events/topics — only hit is the taiwaneseamericanhistory.org source index listing; zero corpus/memoir mentions. Verified-saturated; SKIP. -->
+
+<!-- deepen-x slice 10070500-31 (2026-10-08): fresh five-dir ZH+EN+family greps (柯耀庭 / Yawting / Thomas Ko / 柯昭安) plus variant probes (Doctors Community, Yaw-Ting) across works/articles/sources/events/topics — hit set unchanged: own TAH #1889 record, works/index, sources index only. No memoir/community material. Verified-saturated; SKIP. -->
