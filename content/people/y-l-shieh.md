@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Y. L. Shieh (沈郁良)
 
@@ -42,6 +42,7 @@ last_reviewed: 2026-10-07
 
 > Corpus re-verified 2026-10-01 (slice 09261200-10): ERE grep of content/works + content/articles for `Y. L. Shieh|沈郁良` returns only [[works/taiwaneseamericanhistory-org/ourjourneys-138|ourjourneys-138]] (創會先鋒獎 caption, already absorbed above), [[works/taiwaneseamericanhistory-org/whoswho1243|#1243]] (bibliographic), and the works index. Identical hit set across four consecutive passes — saturated, nothing new absorbable.
 > Corpus re-verified 2026-10-07 (slice 10051400-3): exact 沈郁良 / `Y. L. Shieh` greps return only ourjourneys-138 + #1243 + index (absorbed set). The near-miss 沈郁芳 hits in ourjourneys263/233/36 are a **different person** — a Houston Taiwan-school principal/textbook convener — not this Baltimore nephrologist. Verified saturated, SKIP.
+> Corpus re-verified 2026-10-08 (slice 10070315-10): exact 沈郁良 / `Y. L. Shieh` greps across works/articles/sources/events/topics return only ourjourneys-138 + #1243 + index (absorbed set). Shieh-surname sweep hits (Esther Shieh, J.H. Justina Shieh, Rosalyne Shieh, Tao-Shih Shieh, etc.) are different persons. Verified saturated, SKIP.
 
 ## Sources
 - [TAH #1243 encyclopedia: 1243.  Y. L. Shieh 	 沈郁良 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1243/)

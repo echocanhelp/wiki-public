@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Fang-Yi Sheu (許芳宜)
 
@@ -22,6 +22,7 @@ Earlier SKIP note (slice 09180400-23) is superseded: a work page for TAH #1499 n
 - Re-grepped 2026-09-25 (slice 09250500-2): ZH+EN hits identical again (own TAH #1499 record, works index, *Salute* review — all already cited) — saturated; SKIP, nothing absorbable.
 - Re-grepped 2026-10-01 (slice 09261100-6): fresh ZH+EN grep returns the identical hit set (own TAH #1499 record, works index, *Salute* review in [[works/taiwaneseamerican-org/taiwan-films-that-imagine-taiwanese-america|Taiwan Films That Imagine Taiwanese American]] — already cited above) — verified-saturated; SKIP, nothing absorbable.
 - Re-grepped 2026-10-07 (slice 10051340-32): fresh ZH+EN grep across works/articles/sources/events/topics returns the identical hit set (own TAH #1499 record, works index, *Salute* review — all already cited) — verified-saturated; SKIP, nothing absorbable.
+- Re-grepped 2026-10-08 (slice 10070315-10): fresh ZH+EN grep returns the identical hit set (own TAH #1499 record, works index, *Salute* review — all already cited); surname sweep (Sheu/Sheuh) hits Danny Sheu / S. F. Sheuh — different persons, already noted above. Verified-saturated; SKIP, nothing absorbable.
 
 ## Identity Snapshot
 - **English:** Fang-Yi Sheu

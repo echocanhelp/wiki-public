@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chun San Lee (李隼三博士)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x recheck 2026-09-25 (slice 09250600-30): fresh ZH+EN grep — hit set identical (ourjourneys76 + ourjourneys76-eng + TAH #1563 + works index); memoir passage re-read matches absorbed text (1971 第二任會長, 領事館恫嚇). Saturated, no conflict. -->
 <!-- deepen-x recheck 2026-10-01 (slice 09261200-3): fresh ZH+EN grep (李隼三/Chun San Lee/Chun-San) over works/ + articles/ — hit set unchanged (ourjourneys76 + -eng + whoswho1563 + works index), all already wikilinked above; both memoir copies (ZH/EN) re-read and match the absorbed text verbatim. Saturated, nothing new absorbable. -->
 <!-- deepen-x 10051400-6: re-verified 2026-10-07 — fresh ZH+EN+surname grep (李隼三/Chun San/Chun-San) over works/articles/sources/events/topics returns ourjourneys76 + -eng + whoswho1563 + index + source page only; surname-only hits are unrelated Lee entries. Memoir passage (1971 第二任會長, 領事館恫嚇「維持了台灣人的尊嚴」) already absorbed verbatim. Saturated, nothing new absorbable, no conflicts. -->
+<!-- deepen-x 10070315-10: re-verified 2026-10-08 — fresh ZH+EN grep (李隼三/Chun San Lee/Chun-San Lee) over works/articles/sources/events/topics returns ourjourneys76 + -eng + whoswho1563 + index only; ZH/EN memoir copies re-read and match the absorbed text verbatim. Surname sweep finds no other Austin-era Lee. Saturated, nothing new absorbable, no conflicts. -->

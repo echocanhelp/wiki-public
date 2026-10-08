@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # C. K. Kuo (郭重國)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-25 (deepen-x slice 09250500-4): hits = own TAH record #1480 + ourjourneys245 + index only — identical to absorbed set; 1996/1997 夏令會 political-speaker facts already in place. Verified saturated, SKIP.
 - Corpus re-grep 2026-10-01 (deepen-x slice 09261100-2): same hit set (#1480, ourjourneys245, index). False-positive pattern 重創 reconfirmed (substring hit in a 民主運動 file, not 郭重國). Verified saturated, SKIP.
 - Corpus re-grep 2026-10-07 (deepen-x slice 10051400-3): exact 郭重 / `C. K. Kuo` greps return only #1480 + ourjourneys245 + index (absorbed set). Surname-only sweep (Kuo) hits are different people — Ching-chiang Kuo (LA THHCA), Mike/Chung-liang Kuo (TCC fundraising), Keng-nan Kuo (NATPA delegation) — none this person. Verified saturated, SKIP.
+- Corpus re-grep 2026-10-08 (deepen-x slice 10070315-10): exact 郭重國 / `C. K. Kuo` greps across works/articles/sources/events/topics return only #1480 + ourjourneys245 + index (absorbed set); surname sweep (Kuo) hits are other people (Ching-chiang Kuo, Mike Kuo, Keng-nan Kuo). Verified saturated, SKIP.
