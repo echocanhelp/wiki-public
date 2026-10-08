@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 skip_note: "deepen-x 2026-09-22 (slice 09210500-31; earlier 2026-09-21): corpus hits re-verified (fresh grep works+articles) — own band-B TAH bibliographic records (whos-who-2239, senior-taiwanese-american-36) only, no full text in vault; no absorbable community facts. Husband 林瑞雄 has no separate page in the vault to wikilink."
 ---
 # Lin Chang-Chien Chu (林張簡菊)
@@ -48,3 +48,4 @@ skip_note: "deepen-x 2026-09-22 (slice 09210500-31; earlier 2026-09-21): corpus 
 
 <!-- deepen-x 09251031-3 (2026-09-26): fresh ZH+EN grep of works+articles -> hit set identical to existing links (own TAH bibliographic record; index lines only). No new absorbable community facts; SKIP re-verified. -->
 <!-- deepen-x 10051400-15 (2026-10-07): re-verify — 5-dir grep (林張簡菊|張簡菊|Chang-Chien Chu|林瑞雄): only own records (senior-taiwanese-american-36, whos-who-2239) + index + sources hub. 林瑞雄 still has no vault page to wikilink. No new material; SKIP re-verified. -->
+<!-- deepen-x re-verified SKIP 2026-10-08 (slice 10070315-24): fresh ZH+EN+surname grep (林張簡菊|張簡菊|Chang-Chien Chu|林瑞雄) across all five corpus dirs -> hit set unchanged: own band-B records only + index + sources hub. 林瑞雄 still has no vault page to wikilink. Nothing absorbable. -->

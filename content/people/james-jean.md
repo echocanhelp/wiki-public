@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # James Jean
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x re-verified SKIP 2026-10-01 (slice 09261400-8): fresh ZH+EN grep (works+articles) -> own record stubs + works index only; no memoir/newsletter material beyond them; taiwanjustice 2022 王自立 = Air Force officer, conflict already HOLDed. Nothing absorbable. -->
 <!-- deepen-x re-verified SKIP 2026-10-07 (slice 10051400-17): fresh ZH+EN grep across works/articles/sources/events/topics -> own TAH record stubs + works index only; other hits are false-positive substrings (歷「經都」柏林) or unrelated same-name persons (2022 taiwanjustice 王自立 = Air Force officer, already HOLDed). No memoir material. Nothing absorbable. -->
+<!-- deepen-x re-verified SKIP 2026-10-08 (slice 10070315-24): fresh EN grep across all five corpus dirs -> own band-B TAH records (whoswho903, 46-james-jean201505) + works index + sources hub only. No memoir/newsletter material beyond the two record entries. Nothing absorbable. (Note: the two prior SKIP comments above were mis-copied from tom-wangs.md in an earlier slice and do not describe this page — corrected here.) -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Tom Wang’s (王自立)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x re-verified SKIP 2026-10-01 (slice 09261400-8): fresh ZH+EN grep (works+articles) -> own record stubs + works index only; no memoir/newsletter material beyond them; taiwanjustice 2022 王自立 = Air Force officer, conflict already HOLDed. Nothing absorbable. -->
 <!-- deepen-x re-verified SKIP 2026-10-07 (slice 10051400-17): fresh ZH+EN grep across works/articles/sources/events/topics -> own TAH record stubs + works index only; other hits are false-positive substrings (歷「經都」柏林) or unrelated same-name persons (2022 taiwanjustice 王自立 = Air Force officer, already HOLDed). No memoir material. Nothing absorbable. -->
+<!-- deepen-x re-verified SKIP 2026-10-08 (slice 10070315-24): fresh ZH+EN+surname grep across all five corpus dirs -> own band-B TAH record (whowho1362) + works index + sources hub only; sole other hit = 2022 taiwanjustice 王自立 (空軍司令部公共事務組長, F-16V salvage) = unrelated Air Force officer, conflict already HOLDed. No memoir material. Nothing absorbable. -->
