@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chih-cheng Wang (王志成)
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-10-07
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 10051400-4: SKIP — corpus re-scan (works/articles/sources/events/topics) fresh 2026-10-07: ZH+EN grep returns identical hit set (own TAH #1975, ourjourneys212 founding list, works index); all already linked. Verified-saturated, nothing new absorbable. -->
+<!-- deepen-x slice 10070315-12 recheck 2026-10-08: SKIP — fresh grep (王志成/Chih-cheng Wang; also 阮厝/輕鬆生活座談會 co-founder sweep) across all five corpus dirs returns identical hit set (own TAH #1975, ourjourneys212, sources hub); easy-shingwa-society is a bibliographic-only record with no name text. Verified saturated. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # C. C. Hsieh (謝正忠)
 
@@ -47,3 +47,4 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-26 deepen-x slice 09252123-20: fresh ZH+EN grep of works+articles — hit set unchanged (own TAH record + Our Journeys 305); no new absorbable material (SKIP-content).
 - 2026-10-07 deepen-x slice 10051400-2: widened grep (謝正忠/谢正忠/C. C. Hsieh/沈香園) across works+articles+sources+events+topics — hit set unchanged (ourjourneys305, whoswho1420, works index); no new absorbable material (SKIP-content).
+- 2026-10-08 deepen-x slice 10070315-12: fresh grep (謝正忠/C. C. Hsieh/谢正忠/Cheng-chung/正忠) across all five corpus dirs — hits remain ourjourneys305, whoswho1420, sources hub, plus one unrelated taiwanjustice article (false positive on 正忠 in unrelated context); no new absorbable material. Verified saturated.

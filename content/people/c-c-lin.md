@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # C. C. Lin (林振昌)
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-10-07
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - SKIP re-verify (2026-10-07, deepen-x slice 10051400-9): grep across all five corpus dirs returns only the three already-absorbed records ([[works/taiwaneseamericanhistory-org/ourjourneys256|ourjourneys256]], [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|ourjourneys33-eng]], [[works/taiwaneseamericanhistory-org/whoswho1267|TAH #1267]]) plus index; Kristin C. C. Lin hit is a different person. Existing HOLDs retained. Verified-saturated.
+- 2026-10-08 deepen-x slice 10070315-12: fresh grep (林振昌/C. C. Lin/C.C. Lin/林靜竹/世真/Se-Ching) across all five corpus dirs — identical hit set (ourjourneys256, whoswho1267, ourjourneys33-eng caption, Kristin C. C. Lin article = different person); no new absorbable material. Existing HOLDs retained. Verified saturated.
