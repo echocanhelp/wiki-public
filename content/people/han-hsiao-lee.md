@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Han-Hsiao Lee (李含笑)
 
@@ -48,3 +48,4 @@ _Corpus check 2026-09-22, re-confirmed 2026-09-25: sole works/articles hits are 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus check 2026-09-26 (slice -21): grep 李含笑 / Han-Hsiao Lee returns only own record #161 + works index; still SKIP, no conflicts.
 - Corpus check 2026-10-07 (slice -21 re-run, five dirs + 李含笑/Han-Hsiao variants): same hit set — own record + index only; no memoir/press material. Verified-saturated.
+- Corpus re-check 2026-10-08 (slice 10070700-29): five-dir grep incl. 含笑 substring — substring hits in ourjourneys memoirs are idiomatic (含笑而眠 etc.), not this person. Only own record + index remain. Verified-saturated, nothing absorbable.
