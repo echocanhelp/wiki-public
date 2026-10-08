@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Adam Chang (張耀元博士)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-10-01 (slice 09261341-15): fresh ZH+EN grep of works/ and articles/ — hits unchanged (own record + works index only). No memoir, committee role, or event record anywhere in the corpus; still SKIP-deepened (saturated).
 - Corpus re-grep 2026-09-26 (slice 09251047-5): fresh ZH+EN grep (-E) of works/ and articles/ — hits limited to own record [[works/taiwaneseamericanhistory-org/whoswho1338|1338. Adam Chang 張耀元 / 2016/10]] + works index; SKIP, nothing absorbable.
 - 2026-10-07 覆核（deepen-x 10051948-6）：五目錄再查（張耀元 / 耀元 / Adam Chang）。非自身命中皆為葉耀元教授（他人，非本人）；無 memoir、委員會或活動紀錄，SKIP（saturated）。
+- 2026-10-08 re-verified (deepen-x slice 10070600-20): five-dir ZH+EN grep + substring probe (耀元) — non-self hits are Prof. Yao-Yuan Yeh 葉耀元 (different person) and unrelated taiwanjustice text; own record whoswho1338 + index only; verified-saturated, SKIP stands.

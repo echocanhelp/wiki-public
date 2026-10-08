@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Shoei-Sheng Chen (陳水生)
 
@@ -50,3 +50,4 @@ Corpus re-scan 2026-09-26 (deepen-x 09251047-1): fresh ZH+EN grep — still only
 
 <!-- deepen-x re-verified SKIP 2026-10-02 (slice 09261400-6): fresh ZH+EN grep (full-corpus scope: works/ + articles/ + knowledge/) -> only own Who's Who record + works index + source roster link; no third-party memoir material. SKIP stands. -->
 Deepen-x 10051948-17 re-verified 2026-10-07: exact-name ZH+EN grep across all five corpus dirs (works/articles/sources/events/topics) returns only own record 750 + works index + source roster; broad-substring probe (水生) matched only unrelated text (e.g. 水生物) in taiwanjustice articles — verified-saturated, SKIP stands.
+- 2026-10-08 re-verified (deepen-x slice 10070600-20): five-dir ZH+EN grep + substring probes (水生/Shui) — non-self hits are unrelated 水生物/水產 text in taiwanjustice articles; own record 750 + works index + source roster only; verified-saturated, SKIP stands.
