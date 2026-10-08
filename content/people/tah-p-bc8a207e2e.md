@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # 洪輝雄
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 10051918-14 recheck 2026-10-07: fresh grep (洪輝雄 / Hui-Hsiung / surname variants) across works+articles+sources+events+topics — hit set unchanged: own record #178 + index/source digest lines. The other 'Hui-Hsiung' hit, [[works/taiwaneseamericanhistory-org/496-hui-hsiung-kuo-e9-83-ad-e8-bc-9d-e9-9b-84201507|496. Hui-Hsiung Kuo 郭輝雄]], is a DIFFERENT person (surname 郭, not 洪) — not absorbable. SKIP: verified-saturated. -->
+<!-- deepen-x slice 10070500-17 recheck 2026-10-08: fresh grep (洪輝雄 / 洪輝 / Wilson-style variants) across works+articles+sources+events+topics — hit set identical: own record #178 (bibliographic-only) + index/source digests. Verified-saturated; SKIP stands. -->

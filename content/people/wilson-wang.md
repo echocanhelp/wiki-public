@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Wilson Wang (王唯昇)
 
@@ -62,3 +62,5 @@ Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HS21FC
 <!-- deepen-x 09261100-21 re-verify 2026-10-01: fresh ZH+EN full-corpus grep of content/works + content/articles — hits = own record [[works/taiwaneseamericanhistory-org/whoswho2044|TAH #2044]] + works/index only (identical to 09231200-18 / 09250600-10). Corpus-saturated; SKIP stands, nothing new absorbable. -->
 
 > Re-check (deepen-x 10051918-6, 2026-10-07): fresh ZH+EN+variant grep (王唯昇/王唯升/Wilson Wang) across works/articles/sources/events/topics — hits = own record [[works/taiwaneseamericanhistory-org/whoswho2044|TAH #2044]] + index/source listings only. SKIP confirmed; nothing new absorbable, no biography invented.
+
+> Re-check (deepen-x 10070500-17, 2026-10-08): fresh ZH+EN grep across works/articles/sources/events/topics — hit set identical to all prior passes (own record [[works/taiwaneseamericanhistory-org/whoswho2044|TAH #2044]] + index/source digests only; record is bibliographic-only, full text in vault). Verified-saturated; SKIP stands.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Matthew Lin (林元清博士)
 
@@ -46,3 +46,5 @@ last_reviewed: 2026-10-07
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Re-check (deepen-x 10070500-17, 2026-10-08): fresh ZH+EN grep across works/articles/sources/events/topics — hits = own record [[works/taiwaneseamericanhistory-org/467-matthew-lin-e6-9e-97-e5-85-83-e6-b8-85-201506|TAH #467]] + index/source digests + the 2017-publication index row only; record is bibliographic-only. Verified-saturated; SKIP stands. The identity-split HOLD vs [[people/lin-yuan-ching|Lin Yuan-qing (林元清)]] remains open (needs the source publication itself, not in vault).
