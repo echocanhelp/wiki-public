@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-08
 ---
 # Chu C. Falling-Star (黃初娟)
 
@@ -50,3 +50,5 @@ last_reviewed: 2026-09-25
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070315-29 2026-10-08: fresh grep (黃初娟 / Chu C. Falling-Star / Falling) across works/articles/sources/events/topics — hits remain only own records ff319 + whoswho1569 + index/source-hub; the two "Falling" hits in taiwaneseamerican-org works ("Falling Apart and Coming Together" shorts block, Isa Ho's "Girls Falling") are unrelated titles, not her. SKIP: nothing further absorbable. -->

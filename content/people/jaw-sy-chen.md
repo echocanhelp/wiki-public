@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Jaw Sy Chen (陳昭司)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09251031-18 2026-09-26: re-grep (ZH+EN) — hits remain ourjourneys311 (officer line 1982.5 會長 陳昭司, already absorbed) + own whoswho1661. SKIP: nothing further absorbable. -->
+<!-- deepen-x slice 10070315-29 2026-10-08: fresh grep (陳昭司 / Jaw Sy Chen / 昭司) across works/articles/sources/events/topics — hits remain only ourjourneys311 (officer line, already absorbed) + own whoswho1661 + index/source-hub. SKIP: nothing further absorbable. -->

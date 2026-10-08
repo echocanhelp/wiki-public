@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Charlie Wang (王清圻)
 
@@ -50,3 +50,5 @@ last_reviewed: 2026-10-07
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070315-29 2026-10-08: fresh grep (王清圻 / Charlie Wang / 清圻) across works/articles/sources/events/topics — hits remain only his own essay #182, profile #267, plus index/source-hub listings. SKIP: nothing further absorbable in-vault. -->

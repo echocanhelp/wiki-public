@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Lindsay Yang (楊瑩瓊)
 
@@ -44,3 +44,5 @@ _Re-grepped 2026-09-22 (slice 15), 2026-09-25 (slice 09231400-4), 2026-09-26 (sl
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070315-29 2026-10-08: fresh grep (楊瑩瓊 / Lindsay Yang / 瑩瓊) across works/articles/sources/events/topics — hits remain only own records whoswho1179 + musician351 + index/source-hub. SKIP: nothing absorbable in-vault. -->
