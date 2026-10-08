@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chia-Hsuan Lee (李佳璇)
 
@@ -69,3 +69,5 @@ _No filled family fields on the TAH profile._
 複核（deepen-x slice 09260854-19, 2026-09-30）：re-grep 結果與前次相同 — corpus 僅本人書目 #561/#282 與 index 條目，無可吸收社群材料，維持 SKIP。
 
 複核（deepen-x slice 10051340-18, 2026-10-07）：re-grep 結果與前次相同 — corpus 僅本人書目 #561/#282 與 index 條目（publications301 命中為吳佳璇《葉英堃傳記》，非本人），無可吸收社群材料，維持 SKIP。
+
+複核（deepen-x slice 10070034-2, 2026-10-08）：re-grep 結果與前次相同 — corpus 僅本人書目 #561/#282 與 index 條目，無可吸收社群材料，維持 SKIP。

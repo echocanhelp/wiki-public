@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # W. S. Lee (李武雄)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-26 (slice 09251000-20): fresh grep 李武雄|W. S. Lee again returns only #1878, ourjourneys268, and index rows — no new material. Verified saturated; SKIP-deepen, HOLD retained.
 - Corpus re-grep 2026-09-26 (slice 09260500-31): fresh grep 李武雄|W. S. Lee again returns only [[works/taiwaneseamericanhistory-org/whoswh1878|#1878]], [[works/taiwaneseamericanhistory-org/ourjourneys268|ourjourneys268]], and index rows — no new material. Verified saturated; SKIP-deepen, HOLD retained.
 - Corpus re-grep 2026-10-07 (slice 10051340-19): fresh grep 李武雄|W. S. Lee across works/articles/sources/events/topics returns only [[works/taiwaneseamericanhistory-org/whoswh1878|#1878]], [[works/taiwaneseamericanhistory-org/ourjourneys268|ourjourneys268]], and index rows. Surname-only hits resolved as different persons: 李武達 (W.D. Lee, ourjourneys110) and 李武陵 (西點軍校 news article). No new material. Verified saturated; SKIP-deepen, HOLD retained.
+- Corpus re-grep 2026-10-08 (slice 10070034-2): fresh grep 李武雄|W. S. Lee again returns only #1878, ourjourneys268, and index rows — all memoir passages (和平契友 circle, 《Herein Is Love》 testimony, 1972特務事件, 第三屆合影, Poconos冬令會) remain absorbed above. Verified saturated; SKIP-deepen, HOLD retained.
