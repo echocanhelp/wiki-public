@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chuen-Mei Lee Fan (范李春美教授)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-10-07
 - Re-verified 2026-09-24 (slice 09230900-8): identical hit set (738, ourjourneys-369, index) — saturated; HOLD (范良信 vs 殷宗舜) stands.
 - Re-verified 2026-09-25 (slice 09240900-8): identical hit set (738, ourjourneys-369, index) — verified-saturated; HOLD (范良信 vs 殷宗舜) stands.
 - Re-verified 2026-09-26 (slice 09251400-13): identical hit set (738, ourjourneys-369, index) — verified-saturated; HOLD (范良信 vs 殷宗舜) stands.
+- Re-verified 2026-10-08 (deepen-x slice 10070400-20): fresh ZH+EN grep (范李春美 / 李春美 / Chuen-Mei) across works/articles/sources/events/topics returned the identical hit set (738, ourjourneys-369, ourjourneys33-eng, index) — all already absorbed. SKIP: verified-saturated; HOLD (范良信 vs 殷宗舜) stands.

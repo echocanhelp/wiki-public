@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # 須藤正子
 
@@ -45,3 +45,5 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 10051909-10 sweep 2026-10-07: ZH+EN+surname grep across works/articles/sources/events/topics returned only this person own TAH Who' Who record and index listings. Verified-saturated; no absorbable community material. -->
+
+- Re-verified 2026-10-08 (deepen-x slice 10070400-20): fresh grep (須藤正子) across works/articles/sources/events/topics returned only own whoswho1425 record + index listings — all already absorbed. SKIP: verified-saturated, no conflicts.

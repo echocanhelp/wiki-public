@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. May Chiu (邱鈺琳醫師)
 
@@ -48,3 +48,5 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x 10051909-10 sweep 2026-10-07: ZH+EN+surname grep across works/articles/sources/events/topics returned only this person own TAH Who' Who record and index listings. Verified-saturated; no absorbable community material. -->
+
+- Re-verified 2026-10-08 (deepen-x slice 10070400-20): fresh ZH+EN grep (邱鈺琳 / May Chiu) across works/articles/sources/events/topics returned only own whos-who-2139 record + index listings — all already absorbed. SKIP: verified-saturated, no conflicts.

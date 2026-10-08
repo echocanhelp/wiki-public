@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Rev. Chung Hsin Cho (卓忠信牧師)
 
@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-30 (deepen-x slice 09260800-17): fresh ZH+EN re-grep of works/ + articles/ returned the identical hit set already absorbed and wikilinked above — no new community facts, no conflicts. SKIP: verified-saturated.
 - Re-verified 2026-10-04 (deepen-x slice 09300315-26): fresh ZH+EN grep (卓忠信 / Chung Hsin Cho / Choung Shing) returned the identical hit set (ourjourneys268, ourjourneys33-eng, whos-who-1620, works index) — all already absorbed. SKIP: verified-saturated.
 - Re-verified 2026-10-07 (deepen-x slice 10051909-11): fresh ZH+EN grep (卓忠信 / Chung Hsin Cho / Choung Shing) across works/articles/sources/events/topics plus knowledge/web-archives posts — identical hit set (ourjourneys268, ourjourneys33-eng, whos-who-1620, works index), all already absorbed and wikilinked. SKIP: verified-saturated, no conflicts.
+- Re-verified 2026-10-08 (deepen-x slice 10070400-20): fresh ZH+EN grep (卓忠信 / Chung Hsin Cho / Choung Shing) across works/articles/sources/events/topics returned the identical hit set (ourjourneys268, ourjourneys33-eng, whos-who-1620, index) — all already absorbed and wikilinked. SKIP: verified-saturated, no conflicts.
