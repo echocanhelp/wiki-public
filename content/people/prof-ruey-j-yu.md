@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Prof. Ruey J. Yu (余瑞錦教授)
 
@@ -57,3 +57,4 @@ Publication(Non-professional)
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09251527-19 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/+articles/ returns only the records already absorbed/linked on this page (own TAH record + index listings); no new community material. -->
 <!-- deepen-x slice 10051314-32 (2026-10-06): DEEPENED — absorbed foreword details from corpus record 1218 (DOPA-ester expansion, dermatology-dept abolition → business pivot, childhood-nutrition origin, motto quote); HOLD title-conflict line retained; last_reviewed bumped. -->
+<!-- deepen-x slice 10062334-19 (2026-10-08): SKIP re-verified — fresh ZH+EN grep (余瑞錦 / Ruey Yu) across works/articles/sources/events/topics returns only the two records already absorbed/linked ([[works/taiwaneseamericanhistory-org/publications1218|1218]], [[works/taiwaneseamericanhistory-org/whos-who-2126-ruey-j-yu|2126]]) plus index/source listings; no new community material. Verified saturated. -->

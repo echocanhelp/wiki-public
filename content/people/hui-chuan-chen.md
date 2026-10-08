@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Hui-Chuan Chen (陳慧娟)
 
@@ -56,3 +56,5 @@ Corpus re-grep 2026-09-21 (slice 09201400-27): hit set identical — only #27 / 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-grep (deepen-x slice 10062334-19, 2026-10-08): fresh ZH+EN grep (陳慧娟 / Hui-Chuan Chen) across works/articles/sources/events/topics returns only own records [[works/taiwaneseamericanhistory-org/musician27|#27]], [[works/taiwaneseamericanhistory-org/whoswho1093|#1093]] plus index/source listings — verified saturated, nothing new absorbable.
