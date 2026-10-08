@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Kenneth Kuo (郭虔哲)
 
@@ -58,3 +58,5 @@ Kuo appears twice in the TAH encyclopedia corpus as a Taiwanese American classic
 - SKIP 2026-09-25 (slice 09250800-23): re-grep hit set again identical (#319, #699, index) — saturated.
 > Corpus re-scan 2026-09-27 (deepen-x slice 09260600-26): fresh ZH+EN grep of works/+articles/ — hit set identical to records already cited/absorbed on this page; verified-saturated, nothing new absorbable. SKIP-deepen.
 > Corpus re-scan 2026-10-07 (deepen-x slice 10051340-21): fresh ZH+EN+alias grep across all corpus dirs — hit set again identical (#319, #699, index, source page). Verified-saturated; SKIP-deepen.
+
+<!-- deepen-x slice 10070034-5: re-verify 2026-10-08 — grep (郭虔哲/Kenneth Kuo/虔哲) across all corpus dirs returns only own records #319 + #699 + works index. Kenneth hits elsewhere (ourjourneys69) are Kenneth K. Wu, a different person. Verified-saturated; SKIP. -->
