@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-08
 ---
 # Nai-Shin Chu (朱迺欣)
 
@@ -58,3 +58,4 @@ Related: [[organizations/irvine-taiwanese-presbyterian-church|Irvine台灣長老
 <!-- deepen-x slice 09250317-19: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): hit set identical to prior absorptions, all already linked in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 09251527-7: re-verify 2026-09-26 — fresh grep (朱迺欣/Nai-Shin Chu, works+articles): hit set unchanged (ourjourneys107 長青教室 lectures + TAH #626 + works index). Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 10051200-23: re-verify 2026-10-06 — fresh grep 朱迺欣/Nai-Shin Chu/迺欣 (works/articles/sources/events/topics) returns only 626 + ourjourneys107 + indexes, all already absorbed. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 10062248-6 (2026-10-08): re-verify — fresh grep 朱迺欣/Nai-Shin Chu/迺欣 (works/articles/sources/events/topics) returns only 626 + ourjourneys107 + indexes, all already absorbed. Verified saturated; SKIP-no-new-facts. -->
