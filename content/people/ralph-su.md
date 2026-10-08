@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Ralph Su (蘇惠智牧師)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/national-taiwanese-presbyterian-council||NTPC]] 51st (2025 Houston): session host with 蔡尚男、莊雅棠 ([TCNN](https://tcnn.org.tw/archives/239132))
 
 > Deepen pass 2026-10-06 (slice 10051143-15): re-grepped 蘇惠智/Ralph Su across works/articles/sources/events/topics — hits: whoswho1724, ourjourneys43, works/index, sources/ntpc-usa-org, sources/taiwaneseamericanhistory-org. New link absorbed: NTPC-USA source hub roster mention. No other new material.
+> Deepen pass 2026-10-08 (slice 10060950-4): re-grepped 蘇惠智/Ralph Su/惠智 — identical hit set, all already cited above (whoswho1724, ourjourneys43, works/index, ntpc-usa-org, taiwaneseamericanhistory-org). Saturated, SKIP-with-reason; pastoral-line dates (Aug 2004–Dec 2007, charter status) already absorbed from ourjourneys43.

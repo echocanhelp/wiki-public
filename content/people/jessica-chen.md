@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Jessica Chen (陳英惠)
 
@@ -47,3 +47,4 @@ last_reviewed: 2026-10-06
 - Re-run 2026-09-25 (slice 09250500-9): same result — #328 (bibliographic), #1257 陳品蓁 (distinct Jessica Chen), Jessica Cheng guest-contributor pieces (distinct teen contributor), plus Ecomax/Hult PR mentions. No 陳英惠 community/memoir trace. SKIP-with-reason.
 - Re-run 2026-10-01 (slice 09261100-2): full-corpus re-grep same result — #328 + index (bibliographic), #1257 陳品蓁, and the Jessica Chen Weiss (白潔曦) taiwanjustice pieces (distinct; their entity link to this page remains an error, still flagged). One additional ambiguity noted, not merged: in the Hsu-Nami album interview, the violinist called "Jessica Chen (Hsu)" is described as married to violist Andy Lin — unlike this subject (Ecomax CEO, married to Andy Lin); [[people/dr-wei-yang-andy-lin|Andy Lin]]'s page already holds the case. Verified saturated, SKIP-with-reason.
 - Re-run 2026-10-06 (slice 10051143-21): full ZH+EN grep -rl across works/articles/sources/events/topics returns identical hit set — #328 (bibliographic), #1257 陳品蓁 (distinct), taiwaneseamerican-org guest-contributor "Jessica Cheng" pieces (distinct teen contributor), works/index. No 陳英惠 community/memoir trace. Verified-saturated, SKIP-with-reason.
+- Re-run 2026-10-08 (slice 10060950-4): ZH+EN+英惠 grep — identical hit set again (#328, #1257 陳品蓁, Jessica Cheng guest-contributor pieces, works/index). No 陳英惠 community/memoir trace anywhere in corpus. Verified-saturated, SKIP-with-reason.
