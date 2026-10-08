@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Hui-Hsiung Kuo (郭輝雄)
 
@@ -58,4 +58,5 @@ last_reviewed: 2026-10-07
 <!-- deepen-x slice 09221300-29 re-verify 2026-09-23: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed on this page; verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09230800-20 re-verify 2026-09-24: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed; verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09240800-14 re-verify 2026-09-25: fresh grep of works/+articles/ — hit set identical to records already cited/absorbed; verified-saturated, no new absorbable facts -->
+<!-- deepen-x slice 10070400-29 re-verify 2026-10-08: fresh ZH+EN grep across all five corpus dirs — hit set identical (own TAH #496 record, source hub, 2018 連署信 already absorbed); partial 輝雄 matches only 洪輝雄 (pianist, different surname 洪≠郭). Verified-saturated, no new absorbable facts. -->
 <!-- deepen-x slice 10051909-21 re-verify 2026-10-07: fresh ZH+EN grep across all five corpus dirs returns own TAH #496 record, works index, the 2018 連署信 (already absorbed), and a false-positive on 輝雄 via TAH #178 洪輝雄, Pianist — a different person (洪 not 郭). No new absorbable facts. SKIP. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-08
 ---
 # Deborah Ma (馬佳美醫師)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x slice 09231400-27 recheck 2026-09-25: fresh ZH+EN grep of works/+articles matched only own TAH bibliographic record + works/index; no independent memoir material. SKIP-with-reason stands. -->
 <!-- deepen-x slice 09251031-12 recheck 2026-09-26: re-grep matches identical set (own record, works index, Deborah Mason false positive); SKIP stands. -->
+<!-- deepen-x slice 10070400-29 recheck 2026-10-08: whole-corpus grep 馬佳美|Deborah Ma returns own record + ITPC org page (lecture credit already absorbed above) + false positives: Deborah Mason (UK drug dealer, romanisation collision), 馬佳士/馬佳世 (Joshua Eisenman, Notre Dame), 佳美 in 金馬獎 winner lists. No new material. SKIP verified-saturated. -->

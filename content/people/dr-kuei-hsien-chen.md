@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-08
 ---
 # Dr. Kuei-Hsien Chen (陳貴賢博士)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-09-27
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-27 (slice 09260600-13) re-grep (Kuei-Hsien Chen): hits remain only TAH #1827 and works/index.md. SKIP-content: no absorbable new facts.
+- 2026-10-08 (slice 10070400-29) re-grep (陳貴賢 / Kuei-Hsien Chen / variant 貴賢): hits unchanged — own TAH #1827 record + source hub; the variant 貴賢 match is 高貴賢淑 prose in a Qin Xuehua fiction piece, a false positive. SKIP-content: verified-saturated, no absorbable new facts.
