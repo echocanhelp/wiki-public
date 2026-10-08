@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Clement C.S.Hsu (許清曉)
 
@@ -55,3 +55,4 @@ SKIP (verified saturated) — fresh ZH+EN grep of works/+articles/ returns only 
 
 <!-- deepen-x slice 09252123-12 (2026-09-26): verified-saturated — fresh ZH+EN corpus re-grep (works/ + articles/) hits only the already-cited records (own TAH record + works index); no new absorbable facts. -->
 <!-- deepen-x slice 10051918-1 (2026-10-07): verified-saturated — fresh ZH+EN grep across works/ + articles/ + sources/ + events/ + topics/ (incl. surname-wide sweep) hits only the already-cited own TAH #1400 record + indexes; no other Clement-Hsu or 許清曉 match anywhere. No new absorbable facts. -->
+<!-- deepen-x slice 10070500-13 (2026-10-08): verified-saturated — fresh ZH+EN grep across all five corpus dirs returns only own TAH #1400 record + works index + sources hub; surname sweep 許清 matches are other people (Julius Shu, ourjourneys authors). Nothing new absorbable. -->

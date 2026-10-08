@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. F. S. Shih (謝復生教授)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09250400-28 (2026-09-25): SKIP re-verified — fresh ZH+EN re-grep of works/+articles/ returns only the hit set already recorded on this page; no new memoir/community material. Verified saturated. -->
 <!-- deepen-x slice 09252123-17 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/+articles/ returns hit set identical to prior passes (own records + index only); no new memoir/community material. Verified saturated. -->
 <!-- deepen-x slice 10051918-3 (2026-10-07): SKIP re-verified — fresh grep 謝復生 / F. S. Shih across works/articles/sources/events/topics returns only own TAH #1719 record + index rows; surname-only 'Shih' hits are other people (Paul Pai-Shih Lee, Shih-Yaw Lai). Verified saturated. -->
+<!-- deepen-x slice 10070500-13 (2026-10-08): SKIP re-verified — fresh ZH+EN grep across all five corpus dirs returns only own TAH #1719 record + index/source rows; 謝+復生 sweep finds no other match. Verified saturated. -->

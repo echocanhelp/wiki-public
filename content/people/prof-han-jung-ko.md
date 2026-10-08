@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Han-Jung Ko (柯涵容教授)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 
 - 2026-10-01 deepen-x slice 09261000-30: fresh ZH+EN grep (柯涵容/Han-Jung Ko/Han Jung Ko) — hit set identical (Pew response statement where the name does not actually occur, whos-who-1665, index). Verified saturated (SKIP).
 - 2026-10-07 deepen-x slice 10051918-4: fresh ZH+EN grep across all five corpus dirs — hit set identical ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew response statement]] (name absent from body text), [[works/taiwaneseamericanhistory-org/whos-who-1665-han-jung-ko|whos-who-1665]], index/source rows). Verified saturated (SKIP).
+- 2026-10-08 deepen-x slice 10070500-13: fresh ZH+EN grep across all five corpus dirs — hit set identical (whos-who-1665, Pew response statement, index/source rows); surname 柯 sweep finds no other Ko. Verified saturated (SKIP).
