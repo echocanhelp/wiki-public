@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Universal Door Foundation (美音基金會)
 
@@ -33,3 +33,4 @@ The foundation's flagship event is on the community record: the Formosan America
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10070400-27 (2026-10-08): SKIP re-verified — fresh ZH+EN grep (美音基金會 / Universal Door) across works/ articles/ sources/ events/ topics/ returns only concerts35, self-entry, works/index, sources rollup. Verified-saturated. -->
