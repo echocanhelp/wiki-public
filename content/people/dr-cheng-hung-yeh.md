@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Cheng-Hung Yeh (葉澄鴻博士)
 
@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- DEEPEN-X SKIP 2026-10-07 (slice 10052007-1): fresh five-dir grep (ZH+EN+澄鴻 substring+variant spellings) — only own #2124 record + index; employer-name probes (Monsanto/Honda Research/Apple) hit unrelated taiwanjustice articles. Verified-saturated; SKIP stands. -->
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070700-3): fresh five-dir grep (葉澄鴻/Cheng-Hung Yeh/澄鴻) — only own #2124 record + index/source pages. Verified-saturated; SKIP stands. -->

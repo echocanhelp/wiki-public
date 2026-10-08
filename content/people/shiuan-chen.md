@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Shiuan Chen (陳瑄)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-sweep 2026-09-26 (slice 09251047-2): fresh grep of works/ + articles/ — hits unchanged (own record / already-cited material only); no new absorbable facts. SKIP.
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070700-3): fresh five-dir grep (陳瑄/Shiuan Chen) — unchanged: own #780 record + index/source pages + 228 Inheritance footnote citing Yaut Yi-Shiuan Chen (different person). Verified-saturated; SKIP stands. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Joshua C. Chang (張嘉熙)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070700-3): fresh five-dir grep (ZH+EN) — only own record [[works/taiwaneseamericanhistory-org/whoswho1369]] + works/index + sources page. Verified-saturated; SKIP stands. -->
