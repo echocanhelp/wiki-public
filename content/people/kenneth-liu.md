@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-08
 ---
 # Kenneth Liu (劉光道)
 
@@ -56,3 +56,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 10051143-26 recheck 2026-10-06: SKIP — fresh ZH+EN grep of works/articles/sources/events/topics; hit set identical to prior passes (whoswho1456, publications1046, mystories386, ourjourneys14 — all already linked). Rev. Kenneth Liu clergy-vs-engineer HOLD retained. No new absorbable corpus facts. -->
+<!-- deepen-x slice 10060950-3 recheck 2026-10-08: SKIP — fresh ZH+EN grep (劉光道 / Kenneth Liu / 光道) of works/articles/sources/events/topics; hit set identical to prior passes (whoswho1456, publications1046, mystories386, ourjourneys14 — all already linked). The lone extra article hit (taiwanjustice-net 2024 op-ed) is a false positive — 陽光道 substring, not the person. Rev. Kenneth Liu clergy-vs-engineer HOLD retained. No new absorbable corpus facts. -->
