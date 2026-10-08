@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Shug-Hong Young (楊士宏醫師)
 
@@ -48,6 +48,7 @@ Accomplishment
 - Corpus re-grep 2026-09-22 / 2026-09-23 (slice 09221400-27): fresh grep (EN+ZH, works/+articles/) again returns only [[works/taiwaneseamericanhistory-org/whos-who-1841-shug-hong-young|TAH #1841]] and the index — no memoir material. SKIP-content.
 - Corpus re-grep 2026-09-25 (slice 09231000-24): fresh grep (楊士宏 / Shug-Hong Young, works/+articles/) returns only his own encyclopedia page [[works/taiwaneseamericanhistory-org/whos-who-1841-shug-hong-young|TAH #1841]] plus works/index.md — verified saturated, nothing new absorbable.
 - Corpus re-grep 2026-10-07 (slice 10051400-29): broadened grep across works/articles/sources/events/topics (full name, 士宏, plus his org names FOSPA / 福爾摩沙表演藝術協會 / 紐約福爾摩沙合唱團) — the org-name greps surface two sibling TAH records documenting the very organizations he leads: [[works/taiwaneseamericanhistory-org/14-new-york-formosa-chorus|14. New York Formosa Chorus 紐約福爾摩沙合唱團]] (2014-12-22) and [[works/taiwaneseamericanhistory-org/formosan-society-for-performing-arts-inc-fospa|Formosan Society for Performing Arts Inc. (FOSPA) 福爾摩沙表演藝術協會]] (2017-07-19). Neither record names him directly (band-B organizational records), but they corroborate his head/president roles with independent corpus entries. No memoir or third-party mentions; name-grep hit set unchanged.
+- Deepened 2026-10-08 (slice 10070400-5): org-name grep (FOSPA / 福爾摩沙表演藝術協會 / 紐約福爾摩沙合唱團) surfaces two concert records evidencing the performance activity of the chorus/society he heads — [[works/taiwaneseamericanhistory-org/concerts55|55. CIRCLE OF LIFE 聲聲不息 (紐約福爾摩沙合唱團歡慶十週年音樂會) by Formosan Society for Performing Arts, Flushing, NY on 07/16/2016]] and [[works/taiwaneseamericanhistory-org/concerts126|126. 全球榮星樂展 by 福爾摩沙表演藝術協會, New York, NY on 07/11/2009]]. Both band-B event records; they corroborate continuous FOSPA/NYFC programming under his leadership but do not name him personally. Timeline anchor: 2009 (全球榮星樂展) → 2016 (chorus 10th-anniversary concert) → 2017 (FOSPA org record). No memoir or third-party mentions; name-grep hit set unchanged.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

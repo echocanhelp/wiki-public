@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof.Hsiu-San Lin (林秀三教授)
 
@@ -55,3 +55,4 @@ Assistant to Full Professor of Radiation Oncology
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09251527-17 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/ + articles/ hit set identical to prior absorption (own TAH record + works index only); nothing new absorbable; verified saturated. -->
 <!-- deepen-x slice 10051400-27 (2026-10-07): SKIP re-verified — fresh ZH+EN+alias grep across works/articles/sources/events/topics: hit set unchanged (own record whoswho1421 + works/index digest only). Verified saturated; no memoir/bulletin material; SKIP-no-new-facts. -->
+<!-- deepen-x slice 10070400-5 (2026-10-08): SKIP re-verified — fresh ZH+EN grep across works/articles/sources/events/topics returns only own record [[works/taiwaneseamericanhistory-org/whoswho1421|TAH #1421]], works index, and sources index listing. Hit set unchanged; verified saturated; no memoir/bulletin material absorbable. -->

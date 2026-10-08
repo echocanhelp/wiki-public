@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-08
 ---
 # Laura G. Ling (凌志美)
 
@@ -48,3 +48,5 @@ Co-author, Somewhere Inside: One Sister's Captivity in North Korea and the Other
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070400-5 (2026-10-08): SKIP re-verified — fresh ZH+EN grep across works/articles/sources/events/topics returns only own record [[works/taiwaneseamericanhistory-org/133-laura-g-ling-e5-87-8c-e5-bf-97-e7-be-8e|TAH #133]], works index, and sources index listing (other "Laura" hits are unrelated Laura Huang / Laura & Olivia Project EMplify entries). Hit set unchanged; verified saturated; no third-party memoir or movement mention absorbable. -->
