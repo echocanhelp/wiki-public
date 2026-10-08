@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # D. L. Yang (楊東龍)
 
@@ -39,3 +39,4 @@ D. L. Yang (楊東龍) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- DEEPEN-X slice 10070400-18 2026-10-08: re-verified SKIP. Fresh grep (楊東龍 / D. L. Yang / 東龍 across works/articles/sources/events/topics) hits only own record #1166 + index/sources; the sole 東龍 hit elsewhere is 徐東龍 (Prof. Chen Relief Fund, ourjourneys321), a different person. No absorbable corpus material. -->

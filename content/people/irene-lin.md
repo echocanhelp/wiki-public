@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Irene Lin (林晃宇)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 # deepen-x 09251047-25: SKIP re-verified 2026-09-26 — fresh ZH+EN grep matched only own TAH Who's Who record + index; no absorbable memoir material
 <!-- DEEPEN-X slice 10051909-8 2026-10-07: re-verified SKIP. Fresh grep (林晃宇 / 李晃宇 / Irene Lin / 晃宇 across all five corpus dirs) hits only own record whoswho1283 + index/sources. HOLD on 李/林 surname conflict stands. No absorbable corpus material. -->
+<!-- DEEPEN-X slice 10070400-18 2026-10-08: re-verified SKIP. Fresh grep (林晃宇 / 李晃宇 / Irene Lin / 晃宇 across works/articles/sources/events/topics) hits only own record whoswho1283 + index/sources. HOLD on 李/林 surname conflict stands. -->
