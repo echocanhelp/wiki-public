@@ -38,6 +38,9 @@ last_reviewed: 2026-10-07
 
 ## Role in the Community
 - Profiled in the TAH Foundation story corpus: [[works/taiwaneseamericanhistory-org/627-chao-hsiung-hsu-e8-a8-b1-e6-98-ad-e9-9b-84-201509|627. Chao-Hsiung Hsu 許昭雄 / 2015-09]] (published 2015-09-19, band B — bibliographic record; full text stays in the vault).
+- NATMA leadership (北美洲台灣人醫師協會): signed the president's message in the 2012 總會暨南加州分會年刊 ([[works/taiwaneseamericanhistory-org/854-e5-8c-97-e7-be-8e-e6-b4-b2-e5-8f-b0-e7-81-a3-e4-ba-ba-e9-86-ab-e5-b8-ab-e5-8|854. NATMA 2012 年刊]], "會長 許昭雄敬上") and contributed the 總會長的話 to the 2013 年刊 ([[works/taiwaneseamericanhistory-org/855-e5-8c-97-e7-be-8e-e6-b4-b2-e5-8f-b0-e7-81-a3-e4-ba-ba-e9-86-ab-e5-b8-ab-e5-8|855. NATMA 2013 年刊]]) — i.e. led the association across its 2012 Dominican Republic international medical mission (48-person team, 4,000+ patient visits, dental/medical outreach framed as "義診外交") and its WHO-participation advocacy, including mobilizing physicians to the World Health Assembly. Full text in the vault archive (posts/854-*, posts/855-*).
+- 2007: credited in the NATMA 南加分會暨總會年會特刊 ([[works/taiwaneseamericanhistory-org/849-e5-8c-97-e7-be-8e-e6-b4-b2-e5-8f-b0-e7-81-a3-e4-ba-ba-e9-86-ab-e5-b8-ab-e5-8|849. NATMA 2007 特刊]]) with completing the long-overdue membership-roster update alongside 許宗邦 and 林榮松.
+- HOLD: the 2013 年刊 also credits "前總會長…許正雄醫師" in its medical-mission acknowledgements — 許正雄 vs 許昭雄 may be an OCR variant of the same name or a different person; not merged.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/chao-hsiung-hsu/)

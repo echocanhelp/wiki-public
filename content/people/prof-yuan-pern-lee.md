@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Yuan-Pern Lee (李遠鵬教授)
 
@@ -40,8 +40,8 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-1859-yuan-pern-lee|TAH #1859, 08/2017]] — the only corpus mention in works/articles besides index listings.
-- Corpus re-grep 2026-09-19 / 2026-09-21 / 2026-09-25 (deepen-x slice 09231300-13): hit set unchanged (own TAH #1859 record + index row); nothing absorbable this pass, no conflicts found. Re-grep 2026-09-26 (deepen-x 09251031-11): same hit set, still nothing absorbable.
-- 2026-10-07 re-verified (deepen-x slice 10051948-25): 李遠鵬/Yuan-Pern Lee grep across all five corpus dirs returns only the own #1859 record, works/index, and the sources page — SKIP-with-reason unchanged.
+- 2015: named in the memoir of 林舜達 (Stan Lin), [[works/taiwaneseamericanhistory-org/mystories366|366. 一個鄉下孩子由台灣台南到芝加哥 / 林舜達 / 2015-11]] (English edition: [[works/taiwaneseamericanhistory-org/mystories366-eng|366 (eng)]]) — in recounting his wife's 李 family, 林舜達 lists 三兄弟 李遠川、李遠哲、李遠鵬 as all holding doctorates, singling out 李遠哲 (Yuan T. Lee) as the Nobel laureate formerly of UC Berkeley Chemistry. The memoir situates 李遠鵬 within one of Taiwan's most prominent academic families; consistent with his own Berkeley Chemistry Ph.D. (1975–1979) recorded above, but the memoir does not itself detail his career. Full text in vault archive (posts/mystories366.md).
+- Corpus re-grep 2026-09-19 / 09-21 / 09-25 / 09-26 / 10-07 (works/articles/sources/events/topics): only own #1859 record + index/sources rows. 2026-10-08 (slice 10070600-32): first pass to sweep knowledge/web-archives — found the 林舜達 memoir mention above; no other corpus hits.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
