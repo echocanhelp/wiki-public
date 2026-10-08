@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Michael C. Lu
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-25 (deepen-x 09250500-19): fresh ZH+EN grep of works/+articles/ returns the identical hit set already absorbed above (own TAH records + index; David Chan page additionally the chef David Chang false positive). No new community material; page saturated. SKIP-with-reason.
 - SKIP re-verify (2026-10-07, deepen-x slice 10051400-9): grep for Michael C. Lu / 呂淳祺 across all five corpus dirs returns only own record [[works/taiwaneseamericanhistory-org/844-michael-c-lu-201602|TAH #844]], [[works/taiwaneseamericanhistory-org/our-journeys-387|Our Journeys 387]] and index. Existing HOLD retained; saturated.
+- SKIP re-verify (2026-10-08, deepen-x slice 10070315-17): fresh ZH+EN grep across all five corpus dirs returns the identical hit set (own record + index/source pages only). HOLD on HHS-vs-Berkeley dean chronology retained; saturated, SKIP stands.
