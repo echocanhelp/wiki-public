@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Ian Lin (林毅安)
 
@@ -38,6 +38,7 @@ last_reviewed: 2026-10-07
   *(re-grep 2026-09-25 slice -25, 2026-09-26 slice 09251039-1 and 2026-10-01 slice 09261341-7: hit set unchanged — only [[works/taiwaneseamericanhistory-org/whoswho1546|whoswho1546]] + works/index; SKIP-with-reason re-confirmed.)*
 
 - 2026-10-07 deepen-x slice 10051948-28: fresh five-dir grep (ZH+EN+surname/variant probes) — hit set unchanged (own encyclopedia record + works index + sources page only); nothing absorbable, SKIP re-confirmed.
+- 2026-10-08 deepen-x slice 10070700-6: five-dir grep extended into the knowledge/ vault (oral-stories, web-archives, interactions) with 林毅安/毅安/Ian Lin variants — hit set still unchanged; SKIP re-confirmed, page saturated.
 
 ## Family
 
