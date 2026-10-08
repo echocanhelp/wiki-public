@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # BorCheng Hsu (許伯丞)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x 09260854-22: re-verify 2026-09-30 — fresh grep (works/articles) with fixed alternation: identical hit set (whos-who-1175, 117, 中央社 2022-06-19 article, works index); saturated, no new absorbable facts. -->
 <!-- deepen-x slice 10051200-21 re-grep 2026-10-06: fresh ZH+EN grep (許伯丞 / BorCheng / TaiwanFest) across works+articles+sources+events+topics returns the identical hit set (whos-who-1175, 117, 中央社 2022-06-19 article, sources hub, index); verified-saturated, no new absorbable facts. -->
+<!-- deepen-x slice 10062248-2 re-grep 2026-10-08: fresh ZH+EN grep (許伯丞 / BorCheng / 伯丞 / TaiwanFest) across works+articles+sources+events+topics returns the identical hit set — whos-who-1175, 117-bro-cheng-hsu (both bibliographic B-band records, full text in vault), the 中央社 2022-06-19 TaiwanFest Park Slope article (quote already absorbed in Timeline/Role), sources hub, index. No memoir material. Verified-saturated; SKIP. -->

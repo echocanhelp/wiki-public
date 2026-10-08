@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Vania King (金久慈)
 
@@ -35,6 +35,7 @@ Vania King (金久慈) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 - Re-verified 2026-09-26 (slice 09252123-2): fresh ZH+EN grep returns only #705, #49/#921, the 2013 interview, and the works index — all absorbed above; saturated, SKIP-with-reason.
 - Re-verified 2026-09-30 (slice 09260900-9): fresh ZH+EN grep returns only #705, #49/#921, the 2013 interview, and the works index — all absorbed above; saturated, SKIP-with-reason.
 - Re-verified 2026-10-06 (slice 10051200-22): fresh ZH+EN grep ('Vania King', 金久慈, plus Wimbledon/Benhabiles context sweep) across works/articles/sources/events/topics returns only #705, #49/#921, the 2013 interview, and the works index. The lone extra Wimbledon hit ([[works/taiwaneseamerican-org/into-the-forest-szu-chieh-yun|Into The Forest]]) is Szu-Chieh Yun's Wimbledon College of Arts MFA — not Vania. All absorbed above; saturated, SKIP-with-reason.
+- Re-verified 2026-10-08 (slice 10062248-2): fresh ZH+EN grep ('Vania King' / 金久慈 / 久慈) across works+articles+sources+events+topics returns the identical hit set — #705, #49/#921 (bibliographic B-band records, full text in vault), the 2013-08-21 Stringing Together interview (full first-person text in corpus; every biographical fact already absorbed in Role/Family above), sources hub, index. No new memoir material. Verified-saturated; SKIP-with-reason.
 ## Family
 - Father — tennis coach of Vania and her brother Phillip.
 - Siblings: brother Phillip (eldest, top-ranked junior, later went to college); twin older sisters Ivana and Mindy (per the 2013 interview).
