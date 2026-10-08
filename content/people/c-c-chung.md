@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # C. C. Chung (鍾振乾)
 
@@ -52,3 +52,4 @@ From the community record (our memoirs, primary material):
 - Corpus re-grep 2026-09-25 (deepen-x slice 09250500-3): works/+articles/ hit set identical to absorbed records above — SKIP (saturated, nothing new absorbable).
 - Corpus re-grep 2026-10-01 (deepen-x slice 09261100-11): fresh ZH+EN grep of content/works + content/articles — hit set identical to the absorbed records above (ourjourneys110 + -eng companion, ourjourneys290, whoswho1394, works/index backlink). No new material; verified saturated.
 - Re-verified 2026-10-06 (deepen-x slice 10051143-13): ZH+EN grep across works/articles/sources/events/topics returns ourjourneys290 (roster + email cchung@carollo.com), ourjourneys110/-eng (President C. C. Chung / Chiung-rung Teng, San Jose), whoswho1394, works/index and sources hub backlinks — all already absorbed above. Saturated, SKIP.
+- Re-verified 2026-10-08 (deepen-x slice 10060950-1): ZH+EN+cchung grep identical hit set (ourjourneys290, ourjourneys110/-eng, whoswho1394, indexes/backlinks). Saturated, SKIP.
