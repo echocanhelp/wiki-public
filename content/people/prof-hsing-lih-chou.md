@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Hsing-Lih Chou (周興立教授)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 10051909-28 (2026-10-07): verified-saturated — fresh grep 周興立/Hsing-Lih/立人學苑 across all five corpus dirs hits only own record #1933 + sources page; the taiwanjustice-net 2022 article hit is a false substring match (立陶宛 context, no person mention). SKIP. -->
+<!-- deepen-x slice 10070500-5 (2026-10-08): verified-saturated — fresh grep 周興立/Hsing-Lih/立人學苑/興立 across all five corpus dirs returns only own record #1933 + index/sources pages; 興立 substring hits false-match unrelated contexts. Nothing new absorbable. SKIP. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # C. H. Lin (林建宏)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - 2026-10-01 覆核（deepen-x 09261200-23）：works/、articles/ 全庫再查（含 791 號解釋檔），僅見自身 TAH 檔案、index 與同名消歧紀錄，無新社群事蹟可吸收。
 - 2026-10-01 覆核（deepen-x 09261200-23 執行補查）：重跑 ZH+EN grep — 僅命中自身 whos-who-1935 檔案、works/index、people/index、sources 索引與 791 號解釋檔（該檔兩處 林建宏 皆指高雄通姦罪案聲請人三，非本人）。同名消歧維持，勿合併。飽和已達，勿再派同一頁。
 - 2026-10-07 覆核（deepen-x slice 10051918-5）：新增 ff345（C & L Imperial 北港台菜館書目紀錄）社群連結一則；其餘命中集合與前次相同，飽和。
+- 2026-10-08 覆核（deepen-x slice 10070500-5）：全庫再查，命中僅自身檔案、index、sources 與 791 號解釋檔（聲請人三＝高雄通姦案當事人，非本人）；「建宏」變體另見 董建宏（ourjourneys245 講者）、沈建宏（電影演員）、孟建宏（灣區罷免志工），皆巧合同名非本人，勿合併。飽和維持。

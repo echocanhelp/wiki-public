@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Tom Thomas Shih (石聰賢)
 
@@ -62,3 +62,5 @@ Corpus re-check (deepen-x 09250317-24, 2026-09-25): fresh grep (Tom Thomas Shih 
 
 Corpus re-check (deepen-x 09251527-14, 2026-09-26): fresh grep (Tom Thomas Shih / 石聰賢) returns only own entry #1877 + works index — verified-saturated, nothing new absorbable.
 Corpus re-check (deepen-x 10051909-25, 2026-10-07): fresh ZH+EN grep across works/articles/sources/events/topics returns only own entry #1877 + works index + sources cross-link — verified-saturated, nothing new absorbable.
+
+Corpus re-check (deepen-x slice 10070500-5, 2026-10-08): fresh ZH+EN grep across all five corpus dirs returns only own entry #1877 + index/sources; 聰賢 substring hits are 林聰賢（農委會主委／中央畜產會董事長）— a different person, not linked. Verified-saturated, nothing new absorbable.
