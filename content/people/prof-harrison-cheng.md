@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Prof. Harrison Cheng (鄭學成教授)
 
@@ -46,3 +46,4 @@ His own TAH encyclopedia entry is held in the vault at [[works/taiwaneseamerican
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09251023-28: re-verify — fresh ZH+EN grep of works/ + articles/: hit set unchanged (own record + index only); SKIP persists. -->
+<!-- deepen-x 10070700-8 re-verified SKIP 2026-10-08: five-dir grep for 鄭學成|Harrison Cheng — only own record [[works/taiwaneseamericanhistory-org/whos-who-1912-harrison-cheng|TAH #1912]], works index, roster row. Bare "Harrison" hits verified as false positives (West Harrison NY, Harrison Bay State Park in ourjourneys245, Harrison Lin 林貞棟 in whoswho1596). 鄭教授 conflict note (鄭良福 Milwaukee) unchanged. SKIP stands. -->

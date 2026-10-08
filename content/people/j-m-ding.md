@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # J. M. Ding (丁紀明)
 
@@ -39,3 +39,4 @@ Corpus check (2026-09-20, re-verified 2026-09-22): the only corpus record naming
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 10070700-8 re-verified SKIP 2026-10-08: five-dir grep for 丁紀明|J.M. Ding (incl. regex variants) — only own record [[works/taiwaneseamericanhistory-org/whoswho2052|TAH #2052]], works index, roster row. Other Ding hits verified unrelated: 丁曉雯 Shiau-uen/Shiao-uen Ding pianist records #64/#92, 陳定南 Chen Ding-nan (ourjourneys123-eng), Dinghao Wellcome (ourjourneys31-eng). No third-party corpus material. SKIP stands. -->
