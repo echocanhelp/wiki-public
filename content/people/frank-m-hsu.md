@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Frank M. Hsu (徐民忠)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-verified 2026-10-01 (deepen-x slice 09260900-29): fresh ZH+EN grep of works/ + articles/ returned the identical hit set already linked/absorbed above (or empty) — verified-saturated, nothing new absorbable.
 - Corpus re-verified 2026-10-06 (deepen-x slice 10051143-12): fresh ZH+EN grep (徐民忠 / Frank M. Hsu) across works/ + articles/ + sources/ + events/ + topics/ returned the identical hit set (#290 EN/ZH, #252 EN, #640, plus HOLDed same-name #335/#1701) — verified-saturated, nothing new absorbable.
+- Corpus re-verified 2026-10-08 (deepen-x slice 10060911-2, run 3): fresh ZH+EN grep (徐民忠 / Frank M. Hsu) across works/ + articles/ + sources/ + events/ + topics/ returned the identical hit set (#290 ZH/EN own-authored history, #252 EN roster, #640, sources index, plus HOLDed same-name #335/#1701) — verified-saturated, SKIP, no new absorbable material.

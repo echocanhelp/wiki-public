@@ -7,7 +7,7 @@ tags:
   - real-estate
   - los-angeles-area
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # STC Management (順天 · Sung Tien Collaboration)
 
@@ -47,3 +47,4 @@ A documented example of Taiwanese-American presence in a sector (commercial real
 - Corpus re-grep 2026-10-01 (slice 09270315-2): fresh grep (STC Management / Sung Tien / 順天) over works+articles — the 順天 hits are the unrelated 順天美術館 (Sun Ten Museum, Taipei art collection — see [[organizations/sun-ten-museum|Sun Ten Museum]]) and 順天沙龍/Sheng-Tien Salon, NOT this SGV firm; zero hits for STC Management itself. Nothing absorbable. SKIP-content.
 - Corpus re-grep 2026-10-06 (slice 10051143-1): expanded grep (STC Management / Sung Tien / STC Center / Yes Plaza / 許惠欽 / John Hsu) over works+articles+sources+events+topics — the only John Hsu hits are two DIFFERENT people: TAH #2262 John Hsu 許作初 and #873/ota-287 Dr. John Hsu 徐新宏博士, neither this firm's CEO; zero corpus hits for STC Management / Sung Tien / 許惠欽 themselves. Nothing absorbable. SKIP-content (verified-saturated).
 - Corpus re-grep 2026-10-07 (slice 10060911-2): fresh grep (STC Management / Sung Tien / 順天 / 許惠欽) across works/ + articles/ + sources/ + events/ + topics/ — 順天 hits remain the unrelated Taipei 順天美術館 (Sun Ten Museum) and 順天沙龍/Sheng-Tien Salon records, NOT this SGV firm; zero hits for STC Management / Sung Tien / 許惠欽 themselves. Verified-saturated, SKIP-with-reason, no new absorbable material.
+- Corpus re-grep 2026-10-08 (slice 10060911-2, run 3): expanded grep (STC Management / Sung Tien / 順天 / 許惠欽 / Yes Plaza / STC Center) across works/ + articles/ + sources/ + events/ + topics/ — only hits remain the source hub and the east-SGV topic page (Yes Plaza countdown + STC Rowland Legacy, both already wikilinked above); 順天 hits elsewhere remain the unrelated Taipei records. Verified-saturated, SKIP, no new absorbable material.

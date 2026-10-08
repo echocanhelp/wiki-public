@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Kelly Lin (林雨潔博士)
 
@@ -56,3 +56,5 @@ _No filled family fields on the TAH profile._
 > Corpus re-grep 2026-10-06 (slice 10051143-12): fresh ZH+EN grep (林雨潔 / Kelly Lin) across works/ + articles/ + sources/ + events/ + topics/ — hit set identical to prior slices (own TAH records whoswho1301/musician367 + works/sources index + the three already-linked/HOLDed works pages); verified-saturated, SKIP-with-reason, no new absorbable material.
 
 > Corpus re-grep 2026-10-07 (slice 10060911-2): fresh ZH+EN grep (林雨潔 / Kelly Lin) across works/ + articles/ + sources/ + events/ + topics/ — hit set identical to prior slices (own TAH records whoswho1301/musician367 + works index + the three already-linked/HOLDed works pages); verified-saturated, SKIP-with-reason, no new absorbable material.
+
+> Corpus re-grep 2026-10-08 (slice 10060911-2, run 3): fresh ZH+EN grep (林雨潔 / Kelly Lin) across works/ + articles/ + sources/ + events/ + topics/ — hit set identical (own TAH records whoswho1301/musician367, works/sources index, and the already-linked/HOLDed works pages; new-age-old-ways' Chicago illustrator Kelly Lin remains a name-collision HOLD; 林雨蒼 hit is a different 林姓 individual). Verified-saturated, SKIP, no new absorbable material.
