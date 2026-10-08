@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chou-Long Huang (黃朝龍)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x 09261100-24: re-verify 2026-10-01 — fresh full-corpus ZH+EN grep (people/ works/ articles/): hit set unchanged vs prior passes (own TAH records + index + cross-mentions only, all already wikilinked or triaged as false positives); no new corpus facts absorbable. verified-saturated, SKIP. -->
 <!-- deepen-x 10051918-8: re-verify 2026-10-07 — fresh ZH+EN grep of works/articles/sources/events/topics (黃朝龍/Chou-Long/朝龍) returns only own TAH #1366 record + sources page; surname-only 朝龍 hits = works index only. No community-authored material. verified-saturated, SKIP. -->
+<!-- deepen-x slice 10070500-19 recheck 2026-10-08: SKIP — fresh ZH+EN grep (黃朝龍/Chou-Long/Chao-Long Huang/Chaolong) across all five corpus dirs returns only own TAH #1366 record + works index + sources hub. Surname-only 朝龍 hit in ourjourneys231 resolved: it is the wikilink [[people/chaolong-kao|Chaolong Kao 高昭龍]] — a DIFFERENT person, false positive triaged. No community-authored material. Verified-saturated. -->

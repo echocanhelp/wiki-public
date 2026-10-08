@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Matthew Tsai (蔡茂堂博士)
 
@@ -56,3 +56,5 @@ Publications: 信仰之路 (2005), 忠心管家 (2006), 活出真愛 (2007), 與
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070500-19 recheck 2026-10-08: SKIP — fresh grep 蔡茂堂/Matthew Tsai/Mao-Tong/MaoTong across works/articles/sources/events/topics returns the identical hit set (#302, #34 退休感言, mystories402 羅以, plus works index + sources hub), all already wikilinked above. No memoir or movement material beyond what is recorded. Verified-saturated. -->

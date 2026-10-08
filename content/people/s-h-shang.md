@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # S. H. Shang (商夏會)
 
@@ -45,3 +45,5 @@ last_reviewed: 2026-10-07
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-10-01（slice 09261341-9）重查：ZH+EN grep（商夏會 / S. H. Shang）命中集不變 — 僅本人傳記書目頁 [[works/taiwaneseamericanhistory-org/1162-s-h-shang-e5-95-86-e5-a4-8f-e6-9c-83-201607|TAH #1162 商夏會 / 2016-07]] 與 works/index，無可吸收史料；配偶視角記述維持 HOLD（蘇國雄同一性未证实）。
+
+<!-- deepen-x slice 10070500-19 recheck 2026-10-08: SKIP — fresh grep 商夏會/S. H. Shang across all five corpus dirs returns only own TAH #1162 record, works index, sources hub. Surname-only 'Shang' hits (180-li-ying-shang-conductor, 17-los-angeles-formosan-master-chorale, ourjourneys43) are transliterations of other names, not 商夏會 — false positives triaged. Spouse-視角 Peter Su/蘇國雄 material remains under HOLD (identity unconfirmed). Verified-saturated. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Joker L. Jenkins (簡傑克)
 
@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-10-07 覆核（deepen-x slice 10051918-5）：ZH+EN+變體名再查 works/articles/sources/events/topics 五庫，命中集合與前次相同（自身 TAH 檔案與已 wikilink 紀錄），飽和無新料可吸收。
+
+<!-- deepen-x slice 10070500-19 recheck 2026-10-08: SKIP — fresh ZH+EN grep across all five corpus dirs returns only own record 704 + works index + sources hub, plus taiwanjustice articles. Precision: the 'Joker' grep hit in the 2025-12-05 Oscar article is the film title 《小丑》(Joker), NOT the person — false positive triaged. Charles Jenkins (2025-03-27 Korea-crosser piece) and Andrea Jenkins (2025-12-07 AFP 唐鳳 piece) confirmed as different people; HOLD stands. Verified-saturated. -->
