@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Julan Jau (趙珠蘭)
 
@@ -51,4 +51,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x recheck 2026-09-26 (slice 09251023-27): fresh ZH+EN grep of works/+articles/ — hit set identical to prior sweeps (own TAH record + index only; Julan: own works + 婦女信箱 roster already cited). No new absorbable material. SKIP stands. -->
 
-<!-- Re-verified 2026-10-06 (deepen-x slice 10051143-27): ZH+EN grep across works/articles/sources/events/topics returns publications121, mystories511, ourjourneys161 (1996~1997 底特律分會、趙珠蘭 roster line), whos143, works/index + sources hub backlinks — all already absorbed above. Saturated, SKIP. -->
+<!-- Re-verified 2026-10-08 (deepen-x slice 10061023-1): fresh grep (趙珠蘭 / Julan Jau / 珠蘭) across works/articles/sources/events/topics returns publications121, mystories511, ourjourneys161 (1996~1997 底特律分會、趙珠蘭 roster line), whos143, plus index/sources backlinks — all already absorbed above. Verified-saturated, SKIP. -->

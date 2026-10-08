@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Chun-Yung Lin (林純容)
 
@@ -42,3 +42,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- Re-verified 2026-10-08 (deepen-x slice 10061023-1): fresh grep ZH+EN (林純容 / Chun-Yung Lin) across works/articles/sources/events/topics returns the same hit set — ourjourneys75 (+EN copy, 2014 FAHRR 理事 roster line), own record whoswho1732, plus index/sources backlinks. All absorbed above; the 2014-roster-vs-2000-memoir-date HOLD stands. Verified-saturated, SKIP. -->
