@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Joseph Kho (許隼夫博士)
 
@@ -57,4 +57,4 @@ last_reviewed: 2026-10-07
 <!-- deepen-x 09251527-5: re-verify 2026-09-26 — fresh ZH+EN grep (works/articles): hit set identical to prior absorption waves; all corpus facts already absorbed in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
 
 <!-- deepen-x 09260854-22: re-verify 2026-09-30 — fresh ZH+EN grep (works/articles): hit set identical to prior absorption waves (#175, #351, index rows); all corpus facts already absorbed in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
-<!-- deepen-x 10051400-28: re-verify 2026-10-07 — fresh 許隼夫/Joseph Kho grep across works/articles/sources/events/topics: hit set identical (#175, #351, index rows); all corpus facts already absorbed. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x 10070400-6: re-verify 2026-10-08 — fresh ZH+EN grep (works/articles/sources/events/topics): hit set identical (#175, #351, index rows); all corpus facts already absorbed in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
