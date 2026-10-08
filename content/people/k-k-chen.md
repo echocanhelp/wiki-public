@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # K. K. Chen (陳國坤)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09231300-32: re-verify — fresh ZH+EN grep of works/ + articles/: hit set unchanged (own record + already-absorbed works only); SKIP persists. -->
 <!-- deepen-x 09251023-28: re-verify — fresh ZH+EN grep: own record whoswho1350 + ourjourneys12 (already absorbed) + index only; SKIP persists. -->
 <!-- deepen-x 10051400-16: re-verify 2026-10-07 — fresh ZH+EN+alias grep across works/articles/sources/events/topics: hit set unchanged (own record whoswho1350 + ourjourneys12, both absorbed) + index only. SKIP persists; page saturated. -->
+<!-- deepen-x slice 10070315-26 recheck 2026-10-08: fresh ZH+EN+alias grep (K. K. Chen / 陳國坤 / 國坤) across all five corpus dirs — hit set unchanged (own record whoswho1350 + ourjourneys12, both already absorbed) + index. K.K.-pattern variant hits (ourjourneys305/384/38-eng) resolve to other Chens, not 陳國坤. SKIP persists; page saturated. -->

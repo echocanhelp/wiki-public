@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Liang-Ping How
 
@@ -44,3 +44,4 @@ Corpus reviews 2026-09-19 and 2026-09-21 (deepen-x 09191200-6): fresh grep again
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-10-07 (deepen-x slice 10051400-14): fresh ZH+EN grep — same two bibliographic records (#428, #2103) plus source index only; 何 surname pass adds nothing. Verified-saturated, SKIP.
+<!-- deepen-x slice 10070315-26 recheck 2026-10-08: fresh ZH+EN+surname grep (Liang-Ping How / How / Orpheus) across works+articles+sources+events+topics — hit set unchanged: own bibliographic records #428 (musician428) + #2103 + source index only. Bare-How hits are the English word "how"; Orpheus hits resolve to "Morpheus" in a music essay — both false positives. No memoir material. Verified-saturated, SKIP. -->

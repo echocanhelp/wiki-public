@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Abraham Lee (李伯晃教授)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-10-07 (deepen-x slice 10051400-14): grep hits limited to own profile records (#206 OTA, #2193) + source index; other "Abraham" hits are Lincoln/Abraham Young — false positives. Verified-saturated, SKIP.
+<!-- deepen-x slice 10070315-26 recheck 2026-10-08: fresh ZH+EN grep (Abraham Lee / 李伯晃 / 伯晃) across all five corpus dirs — hits limited to own profile records (#206 OTA, #2193) + source index; 伯晃 pass zero new hits; other Lee/Abraham hits are different persons (false positives). Verified-saturated, SKIP persists. -->

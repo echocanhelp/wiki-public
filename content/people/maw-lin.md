@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Maw Lin (林茂雄)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09261300-11 recheck 2026-10-01: fresh ZH+EN grep (Maw Lin / 林茂雄) of works/+articles — hit set unchanged (own records whoswho1024 + #28 + works/index digest lines). No memoir material. SKIP-with-reason stands. -->
+<!-- deepen-x slice 10070315-26 recheck 2026-10-08: fresh ZH+EN grep (Maw Lin / 林茂雄 / 茂雄) across all five corpus dirs — hit set unchanged (own records whoswho1024 + #28 + index). 茂雄 pass hits are 曾茂雄 (NATMA founding attendee, ourjourneys74 — surname 曾, different person) and 陳茂雄 (考試委員教授, ourjourneys123/245 — own page [[people/chen-maoxiong]]); neither is artist Maw Lin 林茂雄. No memoir material. SKIP persists. -->
