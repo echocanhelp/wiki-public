@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Richard R. Hwang (黃瑞煊醫師)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 > SKIP re-check (deepen-x 09231300-28, 2026-09-25): fresh ZH+EN grep of content/works + content/articles returned only own TAH record + works index — no community/memoir material to absorb.
 > SKIP re-check (deepen-x 09250600-31, 2026-09-25): fresh ZH+EN grep (黃瑞煊 / Richard R. Hwang) returned only own record [[works/taiwaneseamericanhistory-org/whos-who-1998-richard-r-hwang|TAH #1998]] + index — verified-saturated.
 > SKIP re-check (deepen-x slice 10051918-28, 2026-10-07): five-dir grep (黃瑞煊 / 黄瑞煊 / Richard R. Hwang / 瑞煊) returned zero corpus hits beyond own TAH #1998 record + index row — verified-saturated, SKIP persists.
+> SKIP re-check (deepen-x slice 10070600-12, 2026-10-08): five-dir grep (黃瑞煊 / 黄瑞煊 / Richard R. Hwang / 瑞煊 / Bronx-Lebanon / St. Barnabas) returned zero corpus hits beyond own TAH #1998 record + index/source hub — verified-saturated, SKIP persists.

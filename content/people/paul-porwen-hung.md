@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Paul Porwen Hung (洪伯文)
 
@@ -52,4 +52,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09251023-32 2026-09-26: fresh ZH+EN grep works/+articles/ — hit set identical to already-absorbed records; no new corpus material. SKIP stands. -->
-<!-- deepen-x slice 10051948-10 2026-10-07: fresh five-dir grep (works/articles/sources/events/topics) for 洪伯文 / Porwen Hung / Paul Hung + RDNA/環球基因 variants — only his own TAH #752 record + works index + source hub (a 'RDNA' match in a taiwanjustice article is a base64 ID fragment, not the company). Verified saturated, SKIP stands. -->
+<!-- deepen-x slice 10051948-10 2026-10-07: fresh five-dir grep (洪伯文 / Porwen Hung / Paul Hung + RDNA/環球基因 variants) — only his own TAH #752 record + works index + source hub (a 'RDNA' match in a taiwanjustice article is a base64 ID fragment, not the company). Verified saturated, SKIP stands. -->
+<!-- deepen-x slice 10070600-12 2026-10-08: fresh five-dir grep (洪伯文 / Porwen Hung / Paul Hung + RDNA Corp/環球基因/Wyeth variants) — only own TAH #752 record + index/source hub. Verified saturated, SKIP stands. -->

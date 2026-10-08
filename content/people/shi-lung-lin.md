@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Shi-Lung Lin (林希龍)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - 2026-10-07 re-sweep (slice 10051948-3): fresh ZH+EN+surname grep across works/ + articles/ + sources/ + events/ + topics/ returns only own record [[works/taiwaneseamericanhistory-org/945-shi-lung-lin-e6-9e-97-e5-b8-8c-e9-be-8d-201604|TAH #945]] + sources index. Verified-saturated — SKIP stands.
+- 2026-10-08 re-sweep (slice 10070600-12): fresh ZH+EN+variant grep (林希龍 / 林希龙 / Shi-Lung Lin / W&L Institute / Stem Cell Research) across works/ + articles/ + sources/ + events/ + topics/ returns only own record [[works/taiwaneseamericanhistory-org/945-shi-lung-lin-e6-9e-97-e5-b8-8c-e9-be-8d-201604|TAH #945]] + index/source hub. Verified-saturated — SKIP stands.
