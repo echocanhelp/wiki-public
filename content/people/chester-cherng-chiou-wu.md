@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chester Cherng Chiou Wu (吳澄秋博士)
 
@@ -51,3 +51,5 @@ Chester Cherng Chiou Wu 吳澄秋博士 – History of Taiwanese American (T.A. 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- DEEPEN-X SKIP 2026-10-07 (slice 10052007-18): five-dir grep (吳澄秋 / 澄秋 / Chester Wu) across works/articles/sources/events/topics -> own TAH #1959 record + index + source page only. No memoir/community hits; saturated. -->
+
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070700-24 re-verify): five-dir greps (吳澄秋 / 澄秋 / Cherng) — 吳澄秋 appears only in own record [[works/taiwaneseamericanhistory-org/whos-who-1959-cherng-chiou-wu|TAH #1959]], works index, and sources registry; the other Cherng hits (ourjourneys37, videos70, whoswho1140, 60-dr-cherng-jia-hwang) are Yi-Cherng Lin 林健安 and Cherng-Jia Hwang, different people. Verified-saturated. -->

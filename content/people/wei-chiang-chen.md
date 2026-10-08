@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Wei-Chiang Chen
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - Recognition noted on the TAH profile: 3rd prize, APEC Entrepreneurship Competition, 2004.
 - Re-swept 2026-09-26 (deepen-x 09251054-2): fresh grep 'Wei-Chiang Chen' returns only own record [[works/taiwaneseamericanhistory-org/whoswho1371|TAH #1371]] and the works index; still SKIP-with-reason.
 - Corpus sweep 2026-10-07 (slice 10052007-26, five-dir EN+ZH+surname probes): hits confined to own record [[works/taiwaneseamericanhistory-org/whoswho1371|TAH #1371]], the works index, and a false positive (Shih-Wei Chiang, unrelated translator credit). Still saturated — verified-saturated, SKIP.
+- Sweep 2026-10-08 (deepen-x slice 10070700-24): five-dir grep (works/articles/sources/events/topics) for Wei-Chiang / 陳威昌 — hits limited to own record [[works/taiwaneseamericanhistory-org/whoswho1371|TAH #1371]], works index, and sources registry. No new absorbable material. SKIP: verified-saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/wei-chiang-chen/)
