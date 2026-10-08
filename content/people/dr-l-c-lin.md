@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. L. C. Lin (林麗瓊博士)
 
@@ -59,3 +59,6 @@ SKIP (verified saturated) — fresh 林麗瓊+EN grep again returns only own rec
 
 ## Corpus check (deepen-x 10051909-32, 2026-10-07)
 SKIP (verified saturated) — fresh ZH+EN+variant grep of all five corpus dirs returns own record [[works/taiwaneseamericanhistory-org/whos-who-1828-l-c-lin|TAH #1828]] + index/source only; the sole extra hit (台大凝態科學研究中心國際會議廳 as venue in a 2019 六四 anniversary article) is a location mention, not a fact about her — not absorbed. Spouse #1827 already linked. No new material.
+
+## Corpus check (deepen-x 10070500-6, 2026-10-08)
+SKIP (verified saturated) — fresh 林麗瓊 / L. C. Lin grep of all five corpus dirs returns only own record [[works/taiwaneseamericanhistory-org/whos-who-1828-l-c-lin|TAH #1828]] plus works/index and source-hub rollups; no memoir or community text to absorb.
