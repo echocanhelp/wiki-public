@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # S. Y. Lee (李嵩義)
 
@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09231300-26: re-verified 2026-09-25 — fresh ZH+EN grep of content/works + content/articles returns the same hit set (mystories463, whoswho1616, works index), both already linked on-page; SKIP-with-reason, nothing new absorbable. -->
 <!-- deepen-x 09250600-18: re-verified 2026-09-25 — fresh ZH+EN grep of content/works + content/articles returns the same hit set already linked on-page; SKIP-with-reason, nothing new absorbable. -->
 <!-- deepen-x 10051314-2: re-verified 2026-10-06 — fresh ZH+EN grep (李嵩義/S. Y. Lee/李嵩) across works/articles/sources/events/topics returns only mystories463, whoswho1616, index, and sources page — all already linked on-page. 李嵩 surname sweep hits 李嵩斌 (Dr. Song-Ping Lee, different person). South-Florida/FAPA sweep found no other memoir mentions. Verified saturated. -->
+<!-- deepen-x 10062334-17: re-verified 2026-10-08 — fresh grep (李嵩義/S. Y. Lee/李嵩) across works/articles/sources/events/topics/organizations returns only mystories463, whoswho1616, index, sources page (all linked on-page) plus 李嵩斌 (Dr. Song-Ping Lee, different person) and the TASF org page cross-link, which already cites him via mystories463. Nothing new absorbable. SKIP, saturated. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Sheng-Yuan Kuan (官聖媛)
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 10051314-2: re-verified 2026-10-06 — fresh grep (官聖媛/Sheng-Yuan Kuan/官圣媛/聖媛) across works/articles/sources/events/topics returns only the two work pages already linked plus index/sources lines. No memoir or article mentions. Verified saturated. -->
+<!-- deepen-x 10062334-17: re-verified 2026-10-08 — fresh grep (官聖媛/Sheng-Yuan Kuan/官) across works/articles/sources/events/topics returns only the two work pages already linked plus index/sources; 官 matches are prose false positives (官員, 神岡, etc.). Nothing new absorbable. SKIP, saturated. -->

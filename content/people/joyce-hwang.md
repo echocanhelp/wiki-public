@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Joyce Hwang
 
@@ -55,3 +55,4 @@ Associate Professor
 Corpus re-scan 2026-09-26 (deepen-x 09251047-1): fresh ZH+EN grep of works/+articles/ — no new mentions beyond own record/index; SKIP, nothing absorbable.
 
 - 2026-10-06 re-sweep (deepen-x slice 10051314-5): grep Joyce Hwang / Ants of the Prairie across all corpus dirs — only own records ([[works/taiwaneseamericanhistory-org/26-creative-mvp-2016-prof-joyce-hwang|Creative MVP 2016]], [[works/taiwaneseamericanhistory-org/whoswho1388|Whos Who 1388]]) + works index; 'Prairie' matches were false positives (Prairieville, LA in Hurricane Ida news coverage). Nothing absorbable. SKIP, saturated.
+<!-- deepen-x 10062334-17: re-verified 2026-10-08 — fresh grep (Joyce Hwang/Hwang) across works/articles/sources/events/topics returns only her two TAH records + index/sources; surname sweep hits other Hwang individuals (Chi-Shun, Catherine, Cherng-Jia). Nothing new absorbable. SKIP, saturated. -->
