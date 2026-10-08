@@ -7,8 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
+<!-- deepen-x slice 10070400-1: SKIP re-verified 2026-10-08 — fresh greps (尤中正 / Castor Yu) across all five corpus dirs: hits = own 2 records + index/source rows only; no absorbable material -->
 <!-- deepen-x slice 10051400-25: SKIP re-verified 2026-10-07 — fresh greps (尤中正 / Castor Yu / surname 尤) across all five corpus dirs: 尤中正 hits = own 2 records only; surname 尤 hits are unrelated (Jamy R.M. Liu 尤瑞美 etc.); no absorbable material -->
 <!-- deepen-x slice 09251054-11: SKIP re-verified 2026-09-26 — fresh ZH+EN grep of works/articles: zero hits beyond own 2 records -->
 

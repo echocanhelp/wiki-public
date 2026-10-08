@@ -7,8 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
+<!-- deepen-x slice 10070400-1: SKIP re-verified 2026-10-08 — fresh greps (孟祥璐 / Lulu Meng / LuLu Meng) across all five corpus dirs: hits = own 2 Who's Who records + index/source rows only; no absorbable material -->
 <!-- deepen-x slice 10051400-25: SKIP re-verified 2026-10-07 — fresh greps (孟祥璐 / Lulu Meng / surname 孟) across all five corpus dirs: 孟祥璐 hits = own two Who's Who records only; surname 孟 hits unrelated (孟德爾頌=Mendelssohn, 孟憲安 pianist, 孟芬); no absorbable material -->
 # Lulu Meng (孟祥璐)
 

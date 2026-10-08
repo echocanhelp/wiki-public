@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-08
 ---
 # Chong Ming Lee (李聰敏)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-10-02
 - Encyclopedia record in the corpus: [[works/taiwaneseamericanhistory-org/188-chong-ming-lee-e6-9d-8e-e8-81-b0-e6-95-8f|188. Chong Ming Lee 李聰敏]] (2015-01-03).
 - Re-swept 2026-09-26 (slice -24): ZH+EN grep of works/articles returns only these two own-name records plus the works index listing; no memoir or essay mentions to absorb.
 - Re-verified 2026-10-02 (slice 09261400-22): fresh ZH+EN grep returns the same hit set (#188 + Fastech piece + index rows) — saturated, SKIP.
+- Re-verified 2026-10-08 (slice 10070400-1): fresh ZH+EN+variant greps (李聰敏 / Chong Ming Lee / Fastech) across all five corpus dirs — hit set unchanged (#188 + Fastech piece + index/source rows); no memoir or essay mentions. SKIP.
 
 ## Sources
 - [TAH #188 encyclopedia: 188. Chong Ming Lee 李聰敏](https://taiwaneseamericanhistory.org/188-chong-ming-lee-%e6%9d%8e%e8%81%b0%e6%95%8f/)

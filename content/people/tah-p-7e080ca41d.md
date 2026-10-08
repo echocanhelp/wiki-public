@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # 李中志
 
@@ -31,7 +31,9 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 - Author of commentary on 台大校史與學術自由, cited in the corpus article on the 四六事件 and 傅斯年: 李中志〈傅斯年，獻祭這所大學于政治〉(思想坦克, 2018-06-03) and〈蔡元培、傅斯年是我們的典範嗎？〉(思想坦克, 2018-05-20), both quoted in [[articles/taiwanjustice-net/2024/20240523001702_root_d717aa524a3911af|台灣justice.net 台大班底文章]].
 - His own Who's Who record: [[works/taiwaneseamericanhistory-org/whoswho647|647. 李中志 / 2015/10]].
-- Re-sweep 2026-09-25 (slice 09232232-7): sole corpus hit remains the 台灣justice.net 台大班底文章 quoting his two 思想坦克 columns (already cited above); no new absorbable facts.
+- Bylined as "Dr. Chung-Chih Li, Professor, Illinois State University, President of North America Taiwanese Professors' Association (NATPA)" in [[works/taiwaneseamerican-org/green-island-secrets|Green Island Secrets]] (2018-02-26) — essay on 228/White Terror testimony with the NATPA-president byline.
+- Cited as contributor ("Green Island Secrets | Dr. Chung-Chih Li") in the 228 resource compilations [[works/taiwaneseamerican-org/the-228-inheritance-taiwans-revolution-is-here|The 228 Inheritance]] and [[works/taiwaneseamerican-org/remembrance-resources-learning-about-228|Remembrance Resources: Learning about 228]].
+- Re-sweep 2026-10-08 (slice 10070400-1): fresh greps (李中志 / Chung-Chih Li) across all five corpus dirs — beyond own record + already-cited 思想坦克 quotes, found the Green Island Secrets byline (NATPA president, Illinois State) and two 228-resource listings, absorbed above.
 
 ## Family
 
