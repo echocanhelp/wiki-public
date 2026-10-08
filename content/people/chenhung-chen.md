@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Chenhung Chen (陳貞宏)
 
@@ -34,6 +34,7 @@ Chenhung Chen is an artist living and working in Los Angeles. She was born in Be
 
 ## Role in the Community
 - 2019-09-14 — two-person exhibition “Time. Timeless” with Echo Lew at OCCCA, recorded in the TAH story corpus: [[works/taiwaneseamericanhistory-org/art-exhibitions-42|42. “Time. Timeless”/Echo Lew & Chenhung Chen, at OCCCA/2019]]. Community-side activity beyond the press-kit profile.
+- **NEW (2026-10-08, deepen-x slice 10062218-6):** co-exhibitor Echo Lew (劉白) is a full community person-page in our registry — [[people/echo-lew|Echo Lew 劉白]] — with her own TAH records [[works/taiwaneseamericanhistory-org/whos223-echo-lew|TAH #223 Who's Who]] and [[works/taiwaneseamericanhistory-org/artist7-echo-lew|TAH #7 artist profile]]; the “Time. Timeless” pairing is a documented peer link in the LA Taiwanese artist community, not just a gallery credit.
 - Corpus record pages: [[works/taiwaneseamericanhistory-org/whos387-chenhung-chen|TAH #387 Who's Who profile]] and [[works/taiwaneseamericanhistory-org/artist39-chenhung-chen|TAH #39 artist profile]]. Corpus re-greps 2026-09-18 and 2026-09-20 (DEEPEN-X slice 09191000-18): only hit beyond her own records is the OCCCA exhibition record [[works/taiwaneseamericanhistory-org/art-exhibitions-42|TAH #42 "Time. Timeless"]] already cited above — no memoir/bulletin narrative coverage. Re-grepped 2026-09-21 (slice 09210051-7): same result — only her own records (TAH #39, #387) and the OCCCA exhibition record TAH #42; SKIP-with-reason: no new absorbable community facts. Re-grepped again 2026-09-22 (slice 09212352-28): identical — corpus hits remain her own records plus [[works/taiwaneseamericanhistory-org/art-exhibitions-42|TAH #42]] (already cited) and the works index. SKIP unchanged. Re-grepped 2026-09-23 (slice 09221200-26): identical — her own records (#39, #387), TAH #42 (already cited), works index. SKIP unchanged.
 
 ## Sources

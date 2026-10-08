@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Jack Chen
 
@@ -42,7 +42,9 @@ _No filled family fields on the TAH profile._
   - [[works/taiwaneseamericanhistory-org/ota-272|OTA 272 — Jack Chen]] (2019-03-26) — OTA profile record
   - [[works/taiwaneseamericanhistory-org/678-team-sea-to-see-launch-day-jack-chen-03-2019|678 — Team Sea to See, Launch Day/Jack Chen/03/2019]] (2019-03-25) — photo record of the team's launch day
 - The team's race itself is also in the corpus: [[works/taiwaneseamericanhistory-org/137-team-sea-to-sea-bicycle-race-across-america-in-7-days|137 — Team Sea to Sea: Bicycle Race Across America in 7 Days]] (2019-03-25)
-- Beyond these bibliographic/photo records there are no memoir or article body-mentions of him in the corpus; all three record pages auto-list him alongside [[people/jack-j-chen]] and [[people/dr-jack-j-chen]] — HOLD: subject tagging conflates three distinct "Jack Chen" slugs, no evidence yet that they are the same person.
+- Beyond these bibliographic/photo records there are no memoir or article body-mentions of him in the corpus; all three record pages auto-list him alongside [[people/jack-j-chen]] and [[people/dr-jack-j-chen]].
+- **RESOLVED (2026-10-08, deepen-x slice 10062218-6):** the earlier three-Jack-Chen conflation HOLD resolves as **distinct people, not the same person**. [[people/jack-j-chen|Jack J. Chen]] and [[people/dr-jack-j-chen|Dr. Jack J. Chen]] are both 陳宏傑 — born South Bend, Indiana, UC San Diego Animal Physiology + MCPHS PharmD, clinical neurology/pharmacotherapy professor in Southern California — which contradicts this page's subject (Harvard A.B. Computer Science 1997, Berkeley M.S., Fordham J.D., Google Product Counsel, Bay Area/LA). The record pages' auto-subject tagging over-links them; do not merge.
+- **False-positive note (2026-10-08):** a 2022 article hit on "RAAM" in a grep sweep is the AIM-120 **AMRAAM** air-to-air missile text, unrelated to the Bicycle Race Across America. No additional race coverage exists in the corpus.
 - Corpus re-scan 2026-09-23 (deepen-x slice 09221400-13): fresh grep of works/ + articles/ — hit set unchanged (own records whos-who-2182, ota-272, 678 + works index; the 137 race record above carries the team name, not his name). SKIP-deepen; nothing absorbable.
 - Corpus re-scan 2026-09-24 (deepen-x slice 09230800-22): fresh grep of works/ + articles/ for "Jack Chen" — hit set identical (whos-who-2182, ota-272, 678 + works index), all already wikilinked above. SKIP-deepen; verified-saturated.
 - Corpus re-scan 2026-09-25 (deepen-x slice 09240800-12): fresh grep of works/ + articles/ — hit set identical (whos-who-2182, ota-272, 678 + works index), all already wikilinked. SKIP-deepen; verified-saturated.
