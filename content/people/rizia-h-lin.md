@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Rizia H. Lin (洪文鳳)
 
@@ -63,3 +63,5 @@ last_reviewed: 2026-10-07
 <!-- deepen-x slice 09260900-1 (2026-09-30): re-verified — fresh grep (洪文鳳/Rizia) returns only own TAH #317/#694 records + index listings; no third-party corpus mentions. Verified saturated; SKIP. -->
 
 <!-- deepen-x slice 10051340-24 (2026-10-07): re-verified — widened grep (洪文鳳/洪文凤/Rizia/洪文) across works+articles+sources+events+topics. Non-index hits: own #317/#694 records; ourjourneys161/186 list 洪文治/洪文雄/洪文華 (different persons, substring matches only); taiwanjustice hits on "Rizia" are "Patrizia" substrings. No third-party mentions of 洪文鳳. Verified saturated; SKIP. -->
+
+<!-- deepen-x slice 10070315-1 (2026-10-08): re-verified — fresh ZH+EN grep (洪文鳳/Rizia) across works/articles/sources/events/topics returns only own TAH #317/#694 records + index listings; no third-party corpus mentions. Verified saturated; SKIP-no-new-facts. -->

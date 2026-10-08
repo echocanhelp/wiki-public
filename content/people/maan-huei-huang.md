@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Maan-Huei Huang (黃滿惠)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - 2026-09-26 deepen-x slice 09251527-8: SKIP (re-verified) — fresh grep (黃滿惠 / Maan-Huei) again returns only #1977, #ff353 and the works index, all linked above; no third-party memoir narrative; SKIP stands.
 - 2026-09-30 deepen-x slice 09260900-2: SKIP (re-verified) — fresh grep (黃滿惠 / Maan-Huei) of works/ + articles/ again returns only #1977, #ff353 and the works index, all already linked; no third-party memoir narrative; SKIP stands.
 - 2026-10-07 deepen-x slice 10051340-24: SKIP (re-verified) — widened grep across works/articles/sources/events/topics (黃滿惠 / Maan-Huei / Hung surname) returns only her own #1977/#353 records, the works index, and the sources register; surname hits (e.g. Luh-Maan Chang 張陸滿) are other people. Verified saturated; SKIP stands.
+- 2026-10-08 deepen-x slice 10070315-1: SKIP (re-verified) — fresh ZH+EN grep (黃滿惠 / Maan-Huei) across works/articles/sources/events/topics again returns only #1977, #ff353 and the works index, all linked above; no third-party memoir narrative; SKIP stands.

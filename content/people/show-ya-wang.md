@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Show-Ya Wang (邱綉雅)
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-10-07
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-25 (deepen-x slice 09250500-9): fresh ZH+EN grep returns only whos-who-1659, ourjourneys305, index — all absorbed above. SKIP-with-reason: saturated.
+- Re-verified 2026-10-08 (slice 10070315-1): widened ZH+EN grep (邱綉雅/Show-Ya/王俊傑) across works/articles/sources/events/topics returns only whos-who-1659, ourjourneys305, the works index, and spouse record 581 — all absorbed above. The 秀雅 substring hit in ourjourneys311 is 黃秀雅 (2000 award roster, different person). Verified saturated; SKIP-no-new-facts.
