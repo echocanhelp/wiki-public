@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Jimenez Lai (賴彥吉)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 10051340-31 re-check 2026-10-07: verified-saturated. Fresh ZH+EN+surname grep across works/articles/sources/events/topics: only #110/#588 bibliographic records + works index; articles hits are CNN reporter Omar Jimenez (namesake, unrelated). No absorbable corpus material. -->
+<!-- deepen-x slice 10070315-9 re-check 2026-10-08: verified-saturated. Fresh ZH+EN+surname grep across all five corpus dirs: only #110/#588 bibliographic records + works index + sources rollup; articles hits remain CNN reporter Omar Jimenez (namesake, unrelated). No absorbable corpus material (SKIP-content). -->
