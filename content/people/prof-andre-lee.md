@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Prof. Andre Lee (李延志教授)
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 10070700-13 re-verified SKIP 2026-10-08: five-dir greps (李延志/延志/Andre Lee/NIST/Michigan State/Lockheed) → own record #1951 + indexes only; career rests solely on TAH Who's Who. No corpus material, no conflicts. -->

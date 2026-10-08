@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # KEN CHEN
 
@@ -48,3 +48,4 @@ last_reviewed: 2026-10-01
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x re-verified SKIP 2026-09-26 (slice 09251047-9): fresh grep (KEN CHEN, works+articles) -> only own record 325 + index; still no memoir material. -->
 <!-- deepen-x re-verified SKIP 2026-10-01 (slice 09261400-8): fresh ZH+EN grep (works+articles) -> own record stubs + works index only; no memoir/newsletter material beyond them; taiwanjustice 2022 王自立 = Air Force officer, conflict already HOLDed. Nothing absorbable. -->
+<!-- deepen-x 10070700-13 re-verified SKIP 2026-10-08: five-dir greps (KEN CHEN/Ken Chen/Sheng Hsing/Hui Sheng Chen) -> own record 325 + indexes only; no memoir/newsletter material. -->
