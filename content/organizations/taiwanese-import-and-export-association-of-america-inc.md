@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Taiwanese Import and Export Association of America, Inc. (美國台灣人進出口公會)
 
@@ -32,3 +32,5 @@ The Taiwanese Import and Export Association of America is a business association
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 2026-10-08 (slice 10070500-22) 覆核：fresh five-dir grep（美國台灣人進出口公會 / "Taiwanese Import and Export" / 進出口公會）僅回傳兩筆已連結的 directory records + works/sources index 行；變體「進出口工會」命中僅 our-journeys-389 旁證（已於上條記載，名稱同一性 HOLD 續留）。無新語料 — verified-saturated。

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Ariel Wei
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-grep 2026-10-08 (slice 10070500-22): exact 'Ariel Wei' grep across all five corpus dirs returns only own record [[works/taiwaneseamericanhistory-org/whoswho1170|1170]] + works/sources index lines; broader 'Wei/Wee' hits (ourjourneys128/194/266/321, 593, 297, whos-who-804) re-confirmed as unrelated surname collisions (van der Wees, 魏姓人物等). Degree conflict B.F.A./M.A. vs B.S./M.S. remains HOLD. Verified-saturated, SKIP.
