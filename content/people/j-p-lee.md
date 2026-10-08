@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # J. P. Lee (李金波)
 
@@ -47,5 +47,6 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - 2026-10-06 re-verify (deepen-x 10051200-10): fresh grep 李金波/金波/J. P. Lee — hit set identical (ourjourneys26 ZH+EN, whoswho1519, index adjacency). No new corpus material. SKIP stands.
+- 2026-10-08 re-verify (deepen-x 10062218-2): fresh grep 李金波/金波/J. P. Lee across works/articles/sources/events/topics — hit set identical (ourjourneys26 ZH+EN, whoswho1519, index adjacency). The two 金波 hits in taiwanjustice-net articles are Kimbal Musk (金波．馬斯克), a false positive unrelated to this person. Verified saturated, nothing new absorbable.
 
 <!-- deepen-x slice 09251023-32 2026-09-26: fresh ZH+EN grep works/+articles/ — hit set identical to already-absorbed records; no new corpus material. SKIP stands. -->

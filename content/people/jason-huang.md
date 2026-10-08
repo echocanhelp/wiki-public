@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Jason Huang (黃仁宗)
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09261300-22: re-verify — fresh grep (ZH+EN) over works/ + articles/: hits are only [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生]] (founding roster + 民進黨海外黨部 camp passage, both already absorbed), [[works/taiwaneseamericanhistory-org/our-journeys-379|379. 十年東南夏令憶感]], own record [[works/taiwaneseamericanhistory-org/whoswho1682|1682]], and works/index. No new absorbable community material. Verification saturated; nothing merged. -->
+
+Re-verified 2026-10-08 (deepen-x slice 10062218-2): fresh ZH+EN grep of 黃仁宗/Jason Huang across works/articles/sources/events/topics returns the identical hit set — founding roster + 民進黨海外黨部 camp passage in [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生]], 1991 camp memoir [[works/taiwaneseamericanhistory-org/our-journeys-379|379. 十年東南夏令憶感]], own record [[works/taiwaneseamericanhistory-org/whoswho1682|#1682]], plus index/source listings. All corpus material already absorbed above — verified saturated, nothing new.
