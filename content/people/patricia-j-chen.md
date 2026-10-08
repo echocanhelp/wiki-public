@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Patricia J. Chen
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09250317-25 re-grep 2026-09-25: fresh ZH+EN grep of works+articles returns hit set identical to prior absorption waves (own TAH record + already-wikilinked works only); verified saturated, nothing new absorbable. -->
 <!-- deepen-x slice 09251527-11 re-grep 2026-09-26: fresh grep (Patricia J. Chen / Patricia Chen) of works+articles returns the identical set (mystories53, 40-patricia-j-chen, 615, index); verified saturated; 615 author-name HOLD stands; nothing new absorbable. -->
 <!-- deepen-x slice 10051200-21 re-grep 2026-10-06: fresh ZH+EN grep (Patricia J. Chen / Patricia Chen / 律師 Patricia) across works+articles+sources+events+topics returns the identical record set — mystories53, 40-patricia-j-chen, 615, sources hub, index — all already wikilinked above; verified-saturated, nothing new absorbable; 615 author-name HOLD stands. -->
+<!-- deepen-x slice 10062248-1 re-grep 2026-10-08: fresh grep (Patricia J. Chen / Patricia Chen) across works+articles+sources+events+topics returns the identical record set — mystories53, 40-patricia-j-chen, 615, index — all already wikilinked above; hit pages bibliographic-only (full text stays in vault), no new community-activity material; verified-saturated; 615 author-name HOLD stands. -->
