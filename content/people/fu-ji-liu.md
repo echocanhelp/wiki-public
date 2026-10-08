@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Fu-Ji Liu (劉富吉)
 
@@ -54,3 +54,4 @@ AA five-year junior college program graduate
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10070400-26 re-grep 2026-10-08: fresh ZH+EN+surname grep (劉富吉 / Fu-Ji Liu / 富吉) across all five corpus dirs returns only own TAH #2243 record + works/sources index; ESGV chapter records already wikilinked from slice 10051948-10. Verified-saturated; SKIP-no-new-facts. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Dr. K. P. Fu (傅康平博士)
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-10-01
 <!-- deepen-x slice 09231400-3 recheck 2026-09-25: SKIP — fresh ZH+EN grep of works/+articles matched only this person's own TAH Who's Who work page and the works index; hit set identical to prior re-verifications, no independent memoir/article material to absorb. -->
 <!-- deepen-x slice 09250600-20 recheck 2026-09-25: SKIP — fresh ZH+EN grep matched own TAH #2299 record, the 傅康平紀念獎學金 work page (already linked above), and the works index; nothing new absorbable. -->
 <!-- deepen-x slice 09261200-2 recheck 2026-10-01: verified saturated — same hit set. Added the 2015-07-22 scholarship-batch context and a HOLD on the 1995 death-year conflict with [[people/vivian-y-g-fu]]. No biography added. -->
+<!-- deepen-x slice 10070400-26 re-grep 2026-10-08: fresh ZH+EN grep (傅康平 / K. P. Fu / 康平) across all five corpus dirs returns only own TAH #2299 record + #16 memorial scholarship + indexes; the other 康平 hits are false positives (小康平靜 in memoir prose, 康平操演 naval drill in taiwanjustice news). 1995 HOLD stands. Verified-saturated; SKIP-no-new-facts. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Justina Hwang (黃貞琪博士)
 
@@ -60,3 +60,4 @@ The TAH story corpus carries her Who's Who entry 「2042. Dr. Justina Hwang 黃�
 <!-- deepen-x 09250317-16: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): hit set identical to prior re-verifies, all already absorbed/wikilinked (STSA hits = 2025 archive_digest hash false positives). Verified saturated; SKIP-no-new-facts. -->
 - 2026-09-26 deepen-x slice 09251435-1: SKIP (re-verified) — fresh grep (黃貞琪 / Justina Hwang, works+articles) returns only own record #2042 + works index; saturated.
 <!-- deepen-x slice 10051909-17 (2026-10-07): re-verified — fresh ZH+EN grep across works/articles/sources/events/topics plus full knowledge/web-archives sweep returns only own record #2042 + indexes; the lone "Justina" near-miss (newsletter-of-t-a-archives-january-2018 "Mrs. Justina Wu") is a different person. Verified saturated, SKIP. -->
+<!-- deepen-x slice 10070400-26 re-grep 2026-10-08: fresh ZH+EN grep (黃貞琪 / Justina Hwang) across all five corpus dirs returns only own TAH #2042 record + indexes; the other "Justina" hits are J. H. Justina Shieh 謝節惠 (#106/#1217, different person). Verified-saturated; SKIP-no-new-facts. -->
