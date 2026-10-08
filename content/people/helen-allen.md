@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Helen Allen (趙夏蓮)
 
@@ -54,3 +54,5 @@ last_reviewed: 2026-10-06
 - Corpus re-check 2026-09-30 (deepen-x slice 09260800-27): fresh grep — hit set identical (ourjourneys-138 roster line, TAH #310, TAH #625, works/index), all already absorbed and linked above. SKIP.
 
 Corpus re-check (deepen-x slice 10051340-10, 2026-10-06): fresh ZH+EN grep returned the identical hit set (ourjourneys-138 roster line, TAH #310, TAH #625, works/index), all already absorbed and linked above — verified saturated, SKIP, no conflicts.
+
+Corpus re-check (deepen-x slice 10070018-1, 2026-10-08): fresh ZH+EN grep of works/articles/sources/events/topics returned only the own records / passages already wikilinked above plus the works index — verified saturated, SKIP, no conflicts.

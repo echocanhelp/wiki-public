@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Fong Chung Fan (樊豐忠)
 
@@ -50,3 +50,5 @@ Corpus re-check (deepen-x slice 09252123-6, 2026-09-26): fresh ZH+EN grep return
 Corpus re-check (deepen-x slice 09260900-31, 2026-10-01): fresh ZH+EN grep of content/works + content/articles returned the same saturated hit set — own TAH record(s) plus the memo/article passages already wikilinked above, plus the works index. Nothing new absorbable; no conflicts to hold. SKIP.
 
 Corpus re-check (deepen-x slice 10051340-10, 2026-10-06): fresh ZH+EN+surname grep of works/articles/sources/events/topics returned only the own records / passages already wikilinked above (ourjourneys228, whos-fong-chung-fan, taiwanjustice report) plus works index; surname hits for 樊 are distinct persons (John Fan 樊立勳 #1269, 樊豐美 in ourjourneys27) — verified saturated, SKIP, no conflicts.
+
+Corpus re-check (deepen-x slice 10070018-1, 2026-10-08): fresh ZH+EN grep of works/articles/sources/events/topics returned only the own records / passages already wikilinked above plus the works index — verified saturated, SKIP, no conflicts.
