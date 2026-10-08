@@ -63,3 +63,5 @@ _No filled family fields on the TAH profile._
 - 2025-04-18 — CNA（TJJ 轉載）就川普「交易式」外交重塑美中台關係報導引述智庫「美國台灣觀測站」（US Taiwan Watch）董事葉介庭：「川普就職之後，他的對話重點已經從民主、人權等共享價值觀，轉向談判能力。」（[[articles/taiwanjustice-net/2025/20250418063539_洛時_川普交易式外交-正重塑美中台關係_233e8d1ba6658bf5|TJJ/CNA, 2025-04-18]]）。
 
 - Corpus re-grep 2026-09-23 (slice 09221000-10): hit set = own TAH #425 biblio entry, works index, and the already-linked TJJ/CNA archives (裴洛西訪台 2022, 川普外交 2025) — no memoir narrative beyond what is absorbed above; nothing new (SKIP-with-reason).
+
+<!-- TJJ-A10060900-1: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060900-1 article(s) c692a70646f3af76（舊金山台裔市議員莊吳明芳「外國不能干預美國官員出訪」CNA專電, 2022-08-05刊）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

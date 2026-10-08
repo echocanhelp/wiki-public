@@ -277,4 +277,5 @@ Notable quotes and mentions of **葉思雅** in Taiwan Justice articles:
 
 <!-- TJJ-A10060400-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-5 articles (a1be6b82 圓滿的100 慶賀葉思雅張信惠週末漫談音樂, 2022-01-10): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
+<!-- TJJ-A10060900-1: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060900-1 article(s) a244776e9eb57979（會館台灣學校古典音樂欣賞・海頓場, 2016-06-06刊, 2023-01-29快照）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060800-8: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060800-8 article ced695235dbeb850 (大洛杉磯台灣會館 tag p13, 2023-02-05快照): subject link re-checked vs 正文 this attempt (「十月音樂欣賞課10月9日舉行 ◎葉思雅、張信惠 主持」具名), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

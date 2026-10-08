@@ -160,3 +160,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10060600-3: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-3 articles dd1007a640e39b91 / 35d25fb4bdf39cd8 / c251f8fc65ac83e0: subject link re-checked vs 正文 this attempt (與彭明敏、魏廷朝共同發表1964-09-20自救宣言，兩篇反攻大陸存檔＋去殖民化（下）均見於正文), real, no wrong/spurious links; dated facts w/ all three article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060600-4: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-4 articles c03323d28f95e9ea / 2d725102f4e64118（同文兩存檔快照「從二戰後全球去殖民化，到台灣國家正常化（下）」, 2023-06-02 刊）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060900-1: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060900-1 article(s) 8842b0e0aad8032f（唐培理牧師GWU座談「美知台白色恐怖但保持緘默」VOA報導, 2011-11-23）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

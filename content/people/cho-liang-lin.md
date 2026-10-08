@@ -127,3 +127,5 @@ Facts already present in vault pages citing Cho-Liang Lin (no new sources):
 
 <!-- TJJ-A10040700-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-4 articles d0d03097ac759900 (AIT處長孫曉雅口罩亮點, 2021-07-18) / 8842b0e0aad8032f (唐培理GWU座談VOA報導, 2011-11-23) / 040657477c37c6cf (游朝凱國家圖書獎綜合報導, 2020-11-19) / a244776e9eb57979 (會館台灣學校古典音樂欣賞・海頓場, 2016-06-06): subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060600-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-5 article 04f32b14d8cf8f12 (台灣會館會訊 #11, 2016-12-17): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060900-1: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060900-1 article(s) a244776e9eb57979（會館台灣學校古典音樂欣賞・海頓場, 2016-06-06刊, 2023-01-29快照）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

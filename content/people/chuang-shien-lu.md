@@ -119,3 +119,5 @@ last_reviewed: 2026-09-27
 
 <!-- TJJ-A10040700-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-4 articles d0d03097ac759900 (AIT處長孫曉雅口罩亮點, 2021-07-18) / 8842b0e0aad8032f (唐培理GWU座談VOA報導, 2011-11-23) / 040657477c37c6cf (游朝凱國家圖書獎綜合報導, 2020-11-19) / a244776e9eb57979 (會館台灣學校古典音樂欣賞・海頓場, 2016-06-06): subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060400-11: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-11 article bfc5f319a036a339 (黃瑞芬訃聞, 2022-01-29 刊): 呂泉生〈搖嬰仔歌〉見於該音樂會節目 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060900-1: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060900-1 article(s) a244776e9eb57979（會館台灣學校古典音樂欣賞・海頓場, 2016-06-06刊, 2023-01-29快照）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
