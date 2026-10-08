@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Steven Fan (范盛裕)
 
@@ -36,6 +36,9 @@ last_reviewed: 2026-10-01
 - **Wife:** Mei-Lyn
 - **Daughter:** Michael
 
+## Role in the Community
+- **Fall 2018 — guest lecturer, 長青教室 (Evergreen Class), Irvine Taiwanese Presbyterian Church:** presented 「城市污水處理介紹」 (Introduction to Municipal Wastewater Treatment) on 11/14, with session notes and video recorded — consistent with his career managing the Hyperion Treatment Plant for the City of Los Angeles. Source: archived ITPC senior-class schedule (knowledge/web-archives/itpc_senior_class.md); see [[organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca|Evergreen Class, Irvine TPC]].
+- 2026-10-08 (slice 10070700-31): first non-self corpus hit via the web-archives sweep — prior verified-saturated SKIP superseded.
 
 ## Sources
 - [TAH #2171 encyclopedia: 2171. Steven Fan 范盛裕](https://taiwaneseamericanhistory.org/whos-who-2171-steven-fan/)
