@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Tzu-Wei Lin (林子偉)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-10-06
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09260900-10 re-grep 2026-10-01: fresh ZH+EN grep of works/+articles/ — hit set unchanged (own records + already-linked/absorbed pages + works/index rollup only); no new community material, no conflicts to hold. Verified-saturated; SKIP content-deepen. -->
+<!-- deepen-x slice 10062334-22 re-grep 2026-10-08: fresh ZH+EN grep across works/articles/sources/events/topics returns the identical hit set already cited on this page (own TAH records + already-absorbed links + index/sources rollups); no new community material, no conflicts to hold. Verified-saturated; SKIP content-deepen. -->

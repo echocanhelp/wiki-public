@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Dr. Charles Chiu (邱華彥醫師)
 
@@ -56,3 +56,4 @@ Internal medicine residency, infectious diseases fellowship & Postdoctoral Resea
 - 2026-09-25 deepen-x slice 09240900-8: re-verify — identical hit set (#2250, index, COVID article, all cited). Verified-saturated; SKIP.
 - 2026-09-26 deepen-x slice 09251400-14: re-verify — identical hit set (#2250, index, COVID article, all cited). Verified-saturated; SKIP.
 - 2026-10-06 deepen-x slice 10051314-32: re-verify — fresh ZH+EN grep across works/articles/sources/events/topics returns the identical hit set (#2250, index, the taiwanjustice-net COVID article, sources rollup), all already cited on this page. Verified-saturated; SKIP.
+<!-- deepen-x slice 10062334-22 re-grep 2026-10-08: fresh ZH+EN grep across works/articles/sources/events/topics returns the identical hit set already cited on this page (own TAH records + already-absorbed links + index/sources rollups); no new community material, no conflicts to hold. Verified-saturated; SKIP content-deepen. -->
