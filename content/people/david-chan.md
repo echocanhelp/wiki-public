@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # David Chan (詹曉昀)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-22 (deepen-x 09210900-29): only the two encyclopedia records above plus a false positive — the taiwaneseamerican-org blog post [[works/taiwaneseamerican-org/jen-che-delights-readers-with-her-tiny-urban-kitchen|Jen-Ché … Tiny Urban Kitchen]] mentions chef David Chang (Momofuku), not this David Chan. No new community material.
 - HOLD: conflict in Chinese given name across records — 詹曉盷 (record #307 title) vs 詹曉昀 (this page and record #679). Not merged.
 - Corpus re-grep 2026-09-25 (deepen-x 09231300-1): hit set identical to prior passes — own records #307/#679 + index, plus the chef David Chang (Momofuku) false positive in the taiwaneseamerican-org blog. No new community material; page saturated.
+- Re-verify 2026-10-08 (slice 10070315-22): fresh ZH+EN grep across all five corpus dirs returns the identical hit set (#307/#679 + index/source, plus the chef David Chang false positive) — SKIP (nothing absorbable); HOLD on 詹曉盷 vs 詹曉昀 stands.
 
 ## Sources
 - [TAH #679 encyclopedia: 679. David Chan 詹曉昀 / 2015/10](https://taiwaneseamericanhistory.org/679-david-chan-%e8%a9%b9%e6%9b%89%e6%98%80-201510/)
