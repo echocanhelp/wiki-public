@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # George Hsu (許啟勇)
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070600-18 (2026-10-08): fresh five-dir grep (許啟勇 / George Hsu / 啟勇) across works/articles/sources/events/topics — hit set unchanged: own band-B record [[works/taiwaneseamericanhistory-org/whoswho1201|1201]] + works/index + sources/taiwaneseamericanhistory-org roster. Keyword probes (Universal Polymer, 埤頭) return only unrelated 張啟典 / Boston-Northeastern memoir text, not this person. No new material. SKIP re-verified, verified-saturated. -->
