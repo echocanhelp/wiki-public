@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Allen Chao (趙宇天博士)
 
@@ -55,3 +55,5 @@ Accomplishment
 > Re-check (deepen-x 10051909-23, 2026-10-07): fresh ZH+EN+company grep (趙宇天 / Allen Chao / Tanvex / Newport Healthcare) across works/ + articles/ + sources/ + events/ + topics/ — hit set unchanged (own bibliographic record [[works/taiwaneseamericanhistory-org/624-allen-chao-e8-b6-99-e5-ae-87-e5-a4-a9-201509|624. Allen Chao 趙宇天 / 2015/09]] + works index + source page only). SKIP confirmed; nothing absorbable, no biography invented.
 
 > Re-check (deepen-x 09261100-20, 2026-10-01): fresh ZH+EN grep (趙宇天 / Allen Chao) of content/works + content/articles — hit set unchanged (own bibliographic record [[works/taiwaneseamericanhistory-org/624-allen-chao-e8-b6-99-e5-ae-87-e5-a4-a9-201509|624. Allen Chao 趙宇天 / 2015/09]] plus the works index only). A second grep for the named family members (Lee Hwa-Chao, Michael Chao) returned zero corpus hits, so no community record corroborates the Inland Empire pharmacy/biotech roles above. Note for the next pass: [[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys 名錄]] carries no 趙 surname anywhere in its 1967 rosters, so the Inland Empire business layer above sits outside the community corpus rather than being merely unabsorbed. SKIP confirmed; nothing absorbable, no biography invented.
+
+> Re-check (deepen-x slice 10070400-30, 2026-10-08): fresh grep (趙宇天 / Allen Chao / Tanvex / Newport Healthcare / Searle) across works/articles/sources/events/topics — hit set unchanged (own record [[works/taiwaneseamericanhistory-org/624-allen-chao-e8-b6-99-e5-ae-87-e5-a4-a9-201509|624. Allen Chao 趙宇天 / 2015/09]] + works index + sources mirror only). SKIP confirmed; nothing absorbable, no biography invented.

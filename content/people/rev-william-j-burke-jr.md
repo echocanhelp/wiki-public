@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Rev. William J. Burke Jr.
 
@@ -55,3 +55,4 @@ The corpus holds one record of Rev. Burke: his own TAH Who's Who encyclopedia en
 
 <!-- deepen-x 09261000-1 re-check 2026-10-01: verified-saturated. Fresh grep of works/ + articles/ returns own record whos-who-2269 + works/index.md + taiwanjustice-net "Burke" hits, which are Arleigh Burke-class destroyer articles (USS Dewey DDG-105 抵日; 伯克級神盾艦 軍購報導), not this person. No new absorbable corpus material. SKIP. -->
 <!-- deepen-x slice 10051909-21 re-check 2026-10-07: verified-saturated. Fresh grep across works/articles/sources/events/topics for Burke/柏克 returns only Berkeley-related hits in Our Journeys memoirs (柏克萊大學/UC Berkeley, 柏克萊加大的『台灣寮』) and destroyer articles — zero hits for this person beyond own TAH #2269 record. Nothing absorbable. SKIP. -->
+<!-- deepen-x slice 10070400-30 re-check 2026-10-08: verified-saturated. Fresh grep Burke across works/articles/sources/events/topics returns only own TAH #2269 mirror, works index, and Our Journeys 柏克萊/UC Berkeley mentions — zero hits for this person. Nothing absorbable. SKIP. -->
