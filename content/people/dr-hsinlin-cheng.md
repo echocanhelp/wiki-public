@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-08
 ---
 # Dr. Hsinlin Cheng (鄭新霖醫師)
 
@@ -51,3 +51,4 @@ Assistant Professor of Neurology
 <!-- deepen-x 09210831-19: SKIP — fresh grep: only own TAH #2223 record + works index; no community-authored coverage. -->
 <!-- deepen-x 09231200-18: SKIP — fresh grep: only own TAH #2223 record; nothing absorbable beyond press-kit bio. -->
 <!-- deepen-x 09250600-14: SKIP — fresh grep (works/articles): hit set identical to prior passes (own TAH #2223 record + works index only); no community-authored coverage. -->
+<!-- deepen-x slice 10070600-26 2026-10-08: five-dir grep (鄭新霖/Hsinlin) + whole-tree sweep — hit set unchanged: own #2223 record, works/people index, sources page, and wife [[people/jennifer-rorie-cheng|Jennifer Rorie Cheng]]'s page (reciprocal family cross-link, her own #2224 entry). No memoir/community coverage; verified-saturated. -->

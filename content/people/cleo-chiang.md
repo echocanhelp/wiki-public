@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Cleo Chiang (江詩怡)
 
@@ -48,3 +48,4 @@ last_reviewed: 2026-10-07
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 10051948-20 2026-10-07: re-grep (江詩怡/江诗怡/Cleo Chiang) across all five corpus dirs — hit set identical: own #78 record + works/index + Pew statement signatory list (already linked). SKIP verified-saturated. -->
+<!-- deepen-x slice 10070600-26 2026-10-08: five-dir grep + whole-tree sweep — hit set unchanged: own #78 record, works/index, Pew statement signatory list (already linked), and daughter [[people/leona-chen|Leona Chen 陳文羿]]'s page (reciprocal family cross-link, her own #2075 record). No new community facts; verified-saturated. -->
