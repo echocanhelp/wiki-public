@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Richard J. Shih (石正岡醫師)
 
@@ -45,4 +45,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-<!-- DEEPEN-X SKIP 2026-10-07 (slice 10052007-24 re-verify): five-dir greps (石正岡 / Richard J. Shih / Richard Shih / Cheng-kang / partial 正岡) return only own record [[works/taiwaneseamericanhistory-org/whoswho1221|TAH #1221]], works index, and sources registry. Verified-saturated. -->
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070700-22 re-verify): five-dir greps (石正岡 / Richard J. Shih / Richard Shih / partial 正岡) plus knowledge/web-archives sweep return only own record [[works/taiwaneseamericanhistory-org/whoswho1221|TAH #1221]], works index, sources roster, and registry files. Verified-saturated. -->
