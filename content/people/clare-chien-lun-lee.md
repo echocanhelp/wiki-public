@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Clare Chien-Lun Lee (李阡綸)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - Re-grepped corpus 2026-09-25 (slice 09231000-31): still only whoswho1289 + musician366 + index rows; 李阡綸 absent elsewhere — SKIP-with-reason stands.
 <!-- deepen-x slice 09250400-22 (2026-09-25): SKIP re-verified — fresh grep (李阡綸/Chien-Lun Lee) returns only own whoswho1289 + musician366 + index rows; Clare hits remain false positives. -->
 <!-- deepen-x slice 09252123-16 (2026-09-26): SKIP re-verified — fresh ZH+EN grep returns only whoswho1289 + musician366 + index rows; no new corpus material. -->
+<!-- deepen-x slice 10070315-18 (2026-10-08): SKIP re-verified — fresh grep across all five corpus dirs returns only her own two TAH records + index/source rows; Chien-Lun/Clare hits remain false positives. No new absorbable facts. -->

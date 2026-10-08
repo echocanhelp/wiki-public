@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Andre Chen (陳安哲醫師)
 
@@ -56,3 +56,4 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09251031-32 recheck 2026-09-26: SKIP — fresh ZH+EN grep of works/+articles matched only own entries #869 and #215 (both already linked) and works/index; no independent memoir material. -->
+<!-- deepen-x slice 10070315-18 (2026-10-08): SKIP re-verified — fresh grep across all five corpus dirs returns only #869 + #215 (both linked) + index/source rows; 安哲 hits are 安哲毅 (film jury secretary, different person). HOLD on the two-entry discrepancy stands. No new absorbable facts. -->

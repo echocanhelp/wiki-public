@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Jack J. Jou (周哲伍)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 ## Corpus check (2026-09-23)
 - No new absorbable facts: fresh grep of works/ and articles/ (2026-09-22; re-runs 2026-09-23 slice 09221400-23, 2026-09-25 slices 09230900-32 and 09250400-9) returned only the TAH/index records already wikilinked above; no memoir or article mentions beyond them.
 <!-- deepen-x slice 09252123-19 (2026-09-26): verified-saturated — fresh ZH+EN re-grep of content/works+content/articles returns only the already-cited records; no new absorbable facts. -->
+<!-- deepen-x slice 10070315-18 (2026-10-08): verified-saturated — fresh grep across all five corpus dirs returns only whoswho1046 + artist12 (both already cited); Jou-pattern hits are 'Journey' titles and pianist Jonathan Jou (#297, no stated family link). No new absorbable facts. -->
