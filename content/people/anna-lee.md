@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Anna Lee (李宛蓉)
 
@@ -55,3 +55,4 @@ Corpus sweeps 2026-09-20, 2026-09-21, 2026-09-22, 2026-09-23 (incl. slices 09220
 - Corpus sweep 2026-10-01 (deepen-x slice 09261000-31): full-corpus ZH+EN re-grep of works/ + articles/ for Anna Lee/李宛蓉 — hit set unchanged (Lunchbox release interview + TAH #2295 profile + works index only, both already absorbed with links above). SKIP-saturated, no new material.
 
 <!-- deepen-x slice 10051340-32 (2026-10-07): fresh ZH+EN+surname grep across works/articles/sources/events/topics — hit set unchanged (own TAH #2295 record, Lunchbox release interview, works index, sources hub). The 林宛蓉 hits in a 2022 TJJ election article are a Kaohsiung DPP councillor, not this person — false positive, not merged. Verified-saturated; SKIP, nothing absorbable. -->
+<!-- deepen-x slice 10070315-8 (2026-10-08): fresh ZH+EN+surname grep across all five corpus dirs — hit set unchanged (TAH #2295, Lunchbox release interview, works index, sources hub). Verified-saturated; SKIP, nothing absorbable. -->
