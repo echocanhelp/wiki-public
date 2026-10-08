@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Min-An Huang (黃民安)
 
@@ -39,6 +39,7 @@ last_reviewed: 2026-10-06
 - Contributed his personal story to the TAH encyclopedia story collection, published 2015-09-02 (bibliographic record; full text stays in the vault): [[works/taiwaneseamericanhistory-org/565-min-an-huang-e9-bb-83-e6-b0-91-e5-ae-89-201509||565. Min-An Huang 黃民安 / 2015/09]].
 - Corpus grep 2026-09-26 (slice 09251039-21): fresh ZH+EN grep (-E) of content/works + content/articles returns only his own record [[works/taiwaneseamericanhistory-org/565-min-an-huang-e9-bb-83-e6-b0-91-e5-ae-89-201509|TAH #565]] and works/index rows. SKIP-with-reason stands.
 - Corpus grep 2026-10-06 (slice 10051314-4): repeat ZH+EN sweep across works/articles/sources/events/topics — still only his own record [[works/taiwaneseamericanhistory-org/565-min-an-huang-e9-bb-83-e6-b0-91-e5-ae-89-201509|TAH #565]] and index rows; no memoir/community material naming him. SKIP stands.
+- Corpus grep 2026-10-08 (slice 10062334-25): fresh ZH+EN sweep across all five corpus dirs — hit set unchanged (own TAH #565 + index + sources hub). The lone extra 民安 hit (ourjourneys246) was inspected and dismissed: it is 「人民安危」 in 陳美麗's essay prose, not 黃民安. Verified-saturated; SKIP.
 - Corpus grep 2026-09-25 (slice 09231500-18, SKIP-with-reason): repeat rescan — still only his own record and the works index; no community/memoir material.
 - Corpus grep (2026-09-21, SKIP-with-reason): only hit is his own TAH encyclopedia record and the works index — self-referential directory entry; no memoir/community material in `content/works` or `content/articles` beyond it.
 

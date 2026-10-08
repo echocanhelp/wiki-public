@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Kenneth Ko (柯吉文)
 
@@ -42,6 +42,7 @@ last_reviewed: 2026-10-01
 - Corpus re-scan 2026-09-26 (slice 31): fresh ZH+EN greps of works+articles returned hit sets identical to the records above (whos-who-1830 + daughter's 1831); no memoir or movement-activity material beyond the encyclopedia record.
 
 - Corpus re-grep 2026-10-01 (deepen-x slice 09261200-24): fresh ZH+EN grep of works+articles returned a hit set identical to the records above (own TAH #1830 + daughter's #1831 + index row only) — saturated, nothing absorbable.
+- Corpus re-grep 2026-10-08 (slice 10062334-25): fresh ZH+EN grep (-E) across works/articles/sources/events/topics → hit set unchanged (own TAH #1830 + index + sources hub); surname/given-name sweeps (柯/吉文) hit only daughter [[people/melody-ko|Melody Ko]]'s page and unrelated Kenneth Kuo/Kenneth Liu index rows. Verified-saturated; SKIP.
 
 ## Sources
 - [TAH #1830 encyclopedia: 1830. Kenneth Ko 柯吉文](https://taiwaneseamericanhistory.org/whos-who-1830-kenneth-ko/)

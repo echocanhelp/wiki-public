@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Ho Chu Yao (姚張和珠)
 
@@ -42,6 +42,7 @@ last_reviewed: 2026-10-06
 - Corpus connects her to her husband [[people/ching-jang-yao|姚慶章]]'s own TAH records: [[works/taiwaneseamericanhistory-org/41-e5-a7-9a-e6-85-b6-e7-ab-a0-ching-jang-yao201504|TAH record #41 (2015-04)]] and [[works/taiwaneseamericanhistory-org/whoswho907|TAH encyclopedia record #997 (2016-05-20)]] — a documented couple pair in the Taiwanese American community record.
 
 - Corpus re-grep 2026-09-21: hits unchanged (own TAH record only); no new community facts absorbed.
+- Emigration timeline corroborated by the couple record on [[people/ching-jang-yao|姚慶章]]'s vault page: both were 台灣師範大學 art students (she B.A. Art 1963, he 1965) and emigrated to the USA together in 1970 — consistent with her Education table row above; see also his record [[works/taiwaneseamericanhistory-org/whoswho907|TAH #997]].
 ## Sources
 - [TAH #304 encyclopedia: 304. Ho Chu Yao 姚張和珠/2015/02](https://taiwaneseamericanhistory.org/304-ho-chu-yao-%e5%a7%9a%e5%bc%b5%e5%92%8c%e7%8f%a0201502/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ho-chu-yao/)
