@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Y. C. Jeng (鄭逸群教授)
 
@@ -21,6 +21,8 @@ last_reviewed: 2026-10-07
 
 Accomplishment
 1. Associate Editor of the IEEE Transactions on Circuits and Systems
+2. Received ten U.S. patents
+3. IEEE Andrew R. Chi Prize Paper Award, 1998
 
 <!-- tah-tables:start -->
 ## Education
@@ -50,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09250600-14: SKIP — fresh grep: only own TAH #2168 record + works index; nothing absorbable. -->
+<!-- deepen-x slice 10070500-30 (2026-10-08): DEEPENED (modest) — content-dir greps confirm saturation (own #2168 record + index only), but the vault web-archive person JSON (knowledge/web-archives/taiwaneseamericanhistory-org/person/prof-y-c-jeng.json) carries two accomplishments missing from the page: ten U.S. patents and the IEEE Andrew R. Chi Prize Paper Award (1998); absorbed above. Still zero community/memoir material. -->

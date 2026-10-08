@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chin Chih Yang (楊金池)
 
@@ -33,6 +33,8 @@ Deepen-x 10051948-27 (2026-10-07): the five-dir grep still resolves to the self-
 
 - 2010 — as 知名的現代裝置藝術家, a headline 講員 at the 美東台灣人夏令會 (TACEC) in [[works/taiwaneseamericanhistory-org/tacec-2010|TACEC 2010]], described there as part of the 「文化與傳承」 track alongside documentary director 陳麗貴 and 作家 黃娟.
 - 2016 — listed among the exhibiting artists of the 台灣會館 contemporary-art show in [[works/taiwaneseamericanhistory-org/projects3-52|52. TAAC 2016 Art Benefit GALA 台美文藝協會藝術盛宴]], alongside 廖修平, 王湘靈, 孟祥璐 et al.
+
+Deepen-x slice 10070500-30 (2026-10-08): re-verified both hits against the archive (tacec-2010.md, projects3-52.md) — confirmed. Added from the archive person JSON: extensive coverage and critical acclaim in *The Wall Street Journal*, and attribution 來源自 Taiwanese American Arts Council (TAAC); residence New York, NY. No conflicts.
 
 
 <!-- tah-tables:start -->
