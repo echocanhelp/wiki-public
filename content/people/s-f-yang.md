@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # S. F. Yang (楊雪鳳)
 
@@ -37,6 +37,8 @@ last_reviewed: 2026-10-07
 - Re-verified 2026-09-26 (deepen-x slice 09251031-23): fresh ZH+EN grep of works/ + articles/ — hit set unchanged (own TAH record + works index only); no third-party memoir material; SKIP stands.
 
 _Re-grepped 2026-10-07 (slice 10051948-18): five-dir sweep, ZH+EN+substring. The 雪鳳 substring hit in [[works/taiwaneseamericanhistory-org/ourjourneys268|ourjourneys268 (徐頌鵬 夏令會回憶)]] is 黃雪鳳, a different person (grep confirms 0 occurrences of 楊雪鳳 in that work); 陳玲銖/楊淑詠/楊金虎 hits resolve to the daughters' own Who's Who records already linked above. Exact-name hit set unchanged. SKIP: corpus-saturated._
+
+_Re-grepped 2026-10-08 (slice 10070600-11): five-dir sweep, ZH+EN+substring 雪鳳 — same result: exact-name hits = own record + roster listing only; the sole 雪鳳 substring hit remains 黃雪鳳 in ourjourneys268 (different person). SKIP stands (verified-saturated)._
 ## Sources
 - [TAH #1530 encyclopedia: 1530. S. F. Yang 楊雪鳳 / 2017/02](https://taiwaneseamericanhistory.org/whoswho1530/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-f-yang/)

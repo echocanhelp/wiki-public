@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-08
 ---
 # Taiwanese Association of Tampa Bay (佛州天霸市台灣同鄉會)
 
@@ -22,8 +22,12 @@ The Taiwanese Association of Tampa Bay (佛州天霸市台灣同鄉會) is a reg
 
 - The chapter has its own historical record in the TAH story corpus: [[works/taiwaneseamericanhistory-org/ta-tampa-bay-fl|Taiwanese Association of Tampa Bay, FL 佛州天霸市台灣同鄉會]] (published 2014-10-12, value band B), which documents the chapter within the national TAA network.
 - The Tampa Bay area also hosted a parallel community institution, the Taiwanese Chamber of Commerce of Tampa Bay Florida (天柏灣台灣商會), recorded at [[works/taiwaneseamericanhistory-org/taiwanese-chamber-of-commerce-of-tampa-bay-florida|35. Taiwanese Chamber of Commerce of Tampa Bay Florida 天柏灣台灣商會]] (2016-05-06) — a business association distinct from this hometown association.
+- The Tampa Bay movement scene included a FAPA (台灣人公共事務會) chapter, recorded at [[works/taiwaneseamericanhistory-org/18-florida-tampa-chapter-fapa|18. Florida Tampa Chapter / FAPA 台灣人公共事務會佛羅里達坦帕分會]] (2015-12-14) — a public-affairs organization alongside the hometown association.
+- Community activism in Tampa is also documented by a 2010 public screening of *Formosa Betrayed*: [[works/taiwaneseamerican-org/screening-of-formosa-betrayed-in-tampa-fl|Screening of Formosa Betrayed in Tampa, FL]] (2010-07-23, taiwaneseamerican.org).
 
 _Note (2026-09-25, deepen-x slice 09250500-11): re-verified — fresh grep 佛州天霸市台灣同鄉會 / "Taiwanese Association of Tampa" in works+articles returns only the chapter's own record ta-tampa-bay-fl + index line (already absorbed); no memoir material. Verified-saturated._
+
+_Note (2026-10-08, deepen-x slice 10070600-11): broadened the probe from the exact chapter name to "Tampa" across all five corpus dirs — two new community records surfaced and are now linked above: the FAPA Florida Tampa Chapter (2015) and the 2010 Formosa Betrayed screening in Tampa. Still no memoir text naming the chapter itself; no conflicts held._
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-tampa-bay/)

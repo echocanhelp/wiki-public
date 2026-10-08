@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Shuin-Lin Yang (楊勳琳)
 
@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - Corpus material is limited to this profile (transplant-surgery career, Pittsburgh/Philadelphia); no additional community roles found in works/articles. Re-checked deepen-x 2026-09-25 and 2026-09-26 (slice 09251047-19): hits unchanged — own encyclopedia record and index listing only. SKIP.
 - Re-swept 2026-10-01, deepen-x slice 09261405-7: fresh ZH+EN grep (Shuin-Lin Yang / 楊勳琳) across works+articles — hits unchanged: own record [[works/taiwaneseamericanhistory-org/whoswho1351|1351. Shuin-Lin Yang 楊勳琳 / 2016/10]] (a bibliographic stub, no article text) + works/index.md only. No memoir or article names her; nothing absorbable. SKIP (verified-saturated).
 - Re-swept 2026-10-07 (deepen-x slice 10051948-24): fresh ZH+EN+given-name grep (楊勳琳 / Shuin-Lin Yang / 勳琳) across all five corpus dirs (works/articles/sources/events/topics) — hit set unchanged: own record [[works/taiwaneseamericanhistory-org/whoswho1351|1351. Shuin-Lin Yang 楊勳琳 / 2016/10]] (band B bibliographic stub, no article text), works/index.md, and the roster listing in sources/taiwaneseamericanhistory-org.md. No new material. SKIP (verified-saturated).
+- Re-swept 2026-10-08 (deepen-x slice 10070600-11): five-dir grep (楊勳琳 / Shuin-Lin Yang / 勳琳) — hit set unchanged (own record + roster listing only). SKIP (verified-saturated).
 
 ## Sources
 - [TAH #1351 encyclopedia: 1351. Shuin-Lin Yang 楊勳琳 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1351/)
