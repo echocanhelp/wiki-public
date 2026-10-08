@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Carole Huang (陳春華)
 
@@ -53,3 +53,4 @@ Name-variant: corpus uses both "Carole Huang" and "Carol Huang" for her. HOLD: [
 2026-09-30 re-check (slice 09260800-25): fresh grep (陳春華 / Carole Huang / Carol Huang) hit set identical (ourjourneys-138, ourjourneys263, ff306, whos1383) — verified-saturated, SKIP; 黃欣怡 name-collision HOLD stands.
 2026-10-04 re-check (slice 09300321-1): fresh grep (陳春華 / Carole Huang / Carol Huang) hit set identical (ourjourneys-138, ourjourneys263, ff306, whos1383, works index) — verified-saturated, SKIP; 黃欣怡 name-collision HOLD stands.
 2026-10-06 re-check (slice 10051340-13): fresh grep (陳春華 / Carole Huang / Carol Huang) over works/articles/sources/events/topics hit set identical (ourjourneys-138, ourjourneys263, ff306, whos1383, works index, sources page) — verified-saturated, SKIP; 黃欣怡 name-collision HOLD stands. ff306/whos1383 are bibliographic stubs (full text in vault), no new absorbable facts.
+2026-10-08 re-check (slice 10070018-4): fresh grep (陳春華 / Carole Huang / Carol Huang) over works/articles/sources/events/topics — full hit set is exactly the six already cited (ourjourneys-138, ourjourneys263, ff306, whos1383, works index, sources page); no articles/events/topics hits. The ourjourneys263 passage re-read verbatim confirms it is the Taiwan Language School 黃欣怡 (Carol Huang Scholarship, 1988 car accident) — name-collision HOLD stands, not merged. Verified-saturated, SKIP.

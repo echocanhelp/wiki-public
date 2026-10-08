@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Prof. Shih-Wen Huang (黃碩文教授)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 
 - Corpus re-grep 2026-10-03 (slice 09270700-17): hit set unchanged (ourjourneys-138, winners, whos-who-2062, 136, 653-2) — SKIP (saturated; HOLD 1936 vs age-81 stands).
 - Corpus re-grep 2026-10-06 (slice 10051340-13): fresh grep 黃碩文 / Shih-Wen Huang over works/articles/sources/events/topics returns the identical hit set (ourjourneys-138, winners, whos-who-2062, 136, 653-2, index) — SKIP (saturated; HOLD 1936 vs age-81 stands).
+- Corpus re-grep 2026-10-08 (slice 10070018-4): fresh grep 黃碩文 / Shih-Wen Huang over works/articles/sources/events/topics — full hit set is exactly the seven already cited/linked (ourjourneys-138, winners-shih-wen-huang, whos-who-2062, 136, 653-2, works index, sources page); no articles/events/topics hits. The ourjourneys-138 Baltimore/DC roster passage re-read verbatim confirms Huang's listing unchanged. SKIP (saturated; HOLD 1936 vs age-81 stands).
