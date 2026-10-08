@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Connie Shiau (蕭潔恒)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x 10051948-31 2026-10-07: five-dir re-grep (ZH+EN+variants) — own record whos-who-1982 + index/source rows only; 'Connie' hits are other people (Connie Huang #1242, Connie Lu #1258, Connie Tsai #179); no memoir/community material. SKIP. -->
 <!-- deepen-x 09251039-7 2026-09-26: re-scan ZH+EN — only own record #1982 + index hit; no new corpus material. SKIP. -->
+<!-- deepen-x slice 10070700-2 2026-10-08: five-dir re-grep + vault sweep (蕭潔恒 / Connie Shiau / Shiau variants) -> own #1982 record + index/source rows only; other Shiau/Chiou hits are different people (丁_shiau_iam piano, Prof. Shiou-Ping Liao). Verified-saturated, SKIP. -->

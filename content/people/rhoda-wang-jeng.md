@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Rhoda Wang Jeng
 
@@ -52,3 +52,5 @@ last_reviewed: 2026-10-07
 
 ***
 *Deepen-x audit 2026-10-07 (slice 10052007-12): five-dir greps (works/articles/sources/events/topics; EN+ZH+surname+family-name probes incl. Clifford Jeng, Mian-Chang Wang) return only her own Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-2134-rhoda-wang-jeng|#2134]], the works/index.md co-listing, and unrelated Jeng records — no community material. SKIP.*
+
+*Deepen-x slice 10070700-2 re-grep 2026-10-08: five-dir + vault sweep (Rhoda Wang Jeng / Rhoda / Clifford Jeng) — own #2134 record, index co-listing, and unrelated "Rhoda Yanow" (US pastel artist, [[works/taiwaneseamericanhistory-org/mystories10|mystories10]] / publications389) only. No community material. SKIP.*
