@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Michele Cheng
 
@@ -59,4 +59,4 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whoswho1235|TAH 1235 — Michele Cheng]]
 <!-- deepen-x slice 09251417-4 re-grep 2026-09-26: fresh ZH+EN grep works+articles — hit set identical to already-cited records; no new corpus material. Verified-saturated, SKIP new content. -->
 
-<!-- deepen-x slice 10051314-31 re-grep 2026-10-06: fresh grep (Michele Cheng / Michele / surname Cheng) across works+articles+events+topics — hits are only own records (musician355, whoswho1235) + index; "Michele" in taiwanjustice articles = Steele/Flournoy (different people), "Cheng" hits = J.C./Shu-Ching/Franklin Cheng (different people). Verified-saturated, SKIP. -->
+<!-- deepen-x slice 10062334-21 re-grep 2026-10-08: fresh ZH+EN grep (Michele Cheng / Michele / Cheng) across works+articles+sources+events+topics — exact-phrase hits are only own records (musician355, whoswho1235) + index; surname-only hits are J.C./Shu-Ching/Franklin Cheng (different people). Verified-saturated, SKIP. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Jacob Lu (盧能榮)
 
@@ -54,4 +54,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09240400-15: SKIP — corpus re-scan (works/articles) fresh 2026-09-25: hits are only own TAH records (#691, #314) + works/index.md, all already wikilinked; no new community material. -->
 <!-- deepen-x 09261000-1: SKIP — corpus re-scan (works/articles) fresh 2026-10-01 (ZH+EN, 盧能榮 / Jacob Lu): hits are only own TAH records (#691, #314) + works/index.md, all already wikilinked in Role in the Community; no new community material. -->
 
-<!-- deepen-x slice 10051314-31 re-grep 2026-10-06: fresh ZH+EN grep (盧能榮 / Jacob Lu / 泉音) across works+articles+sources+events+topics — hits are only own TAH records (#691, #314) + index; 泉音 appears nowhere else in corpus. Verified-saturated, SKIP. -->
+<!-- deepen-x slice 10062334-21 re-grep 2026-10-08: fresh ZH+EN grep (盧能榮 / Jacob Lu / 泉音) across works+articles+sources+events+topics — hits are only own TAH records (#691, #314) + index; 泉音 appears nowhere else in corpus; surname-only 盧 hits are different people. Verified-saturated, SKIP. -->
