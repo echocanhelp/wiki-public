@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-08
 ---
 # Sue Chen (陳禹辛)
 
@@ -35,6 +35,7 @@ last_reviewed: 2026-10-04
 - Her own TAH encyclopedia entry is held as a work record — [[works/taiwaneseamericanhistory-org/426-sue-chen-e9-99-b3-e7-a6-b9-e8-be-9b-201505|427. Sue Chen 陳禹辛 / 2015-05]].
 - Signed the Pew-recorded North American Taiwanese Women's Association (北台美人婦女會) community statement as "Sue Chen, North America Taiwanese Women's Association" — one of the named organization representatives on the statement. See [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew 台美人團體聲明]]. (The same statement also lists a "Sue Cheng" among individual signers — surname romanization differs; not merged.)
 - HOLD: conflict 陳禹辛 vs 廖淑清 — the TAF/MFCF founding-history memoirs ([[works/taiwaneseamericanhistory-org/ourjourneys33-eng|33. TAF history (EN)]], [[works/taiwaneseamericanhistory-org/ourjourneys33-2|33. TAF history (中)]]) name a "Sue Chen (廖淑清)" among MFCF founding members (circa-1990 photo front row; credited with junior arts/music programs alongside Carol Cho 林秋菊). The corpus glosses that Sue Chen as 廖淑清, not 陳禹辛 — likely a different person; not auto-merged pending verification.
+- **Strengthening the disambiguation (2026-10-08, deepen-x 10062334-5)**: 廖淑清 is independently attested in the corpus as its own person — she authored [[works/taiwaneseamericanhistory-org/ourjourneys258|258. TAF一個台美人自辨的夏令營 / 廖淑清 / 2016-10]] (her own TAF summer-camp memoir), and Yang Yuan-hsun's (楊遠薰) TAF history for 卓甫良 names 廖淑清 alongside 林秋菊、廖幸瑛 as long-term volunteer mothers ('當年，林秋菊、廖淑清、廖幸瑛等許多太太們都是長期的義工') — see [[articles/taiwanjustice-net/2025/20250323083207_卓甫良與taf的故事-_-楊遠薰_e7aad53f3e593fde|卓甫良與TAF的故事 (楊遠薰)]]. Two distinct corpus trails for 廖淑清 vs the 陳禹辛 TAH record; HOLD stands, now better evidenced.
 - 2026-09-22 corpus re-check (deepen-x slice 21): grep 陳禹辛/Sue Chen returns only already-absorbed records (own #427 entry, ourjourneys33 EN/中 MFCF founding photo, Pew statement signer list) — HOLD 陳禹辛 vs 廖淑清 unchanged, nothing new absorbable.
 - 2026-09-23 corpus re-check (deepen-x slice 09221400-19): grep unchanged (own #427 entry, ourjourneys33 EN/中, Pew statement, works index) — HOLD unchanged, nothing new absorbable.
 - 2026-09-24 corpus re-check (deepen-x slice 09230900-11): grep unchanged (own #427 entry, ourjourneys33 EN/中, Pew statement, works index) — HOLD 陳禹辛 vs 廖淑清 unchanged, verified-saturated.

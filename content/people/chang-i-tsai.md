@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Chang-I Tsai (蔡正一)
 
@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09240900-10 (2026-09-25): re-verified — fresh grep hit set identical to material already absorbed/cited on this page (own records + index only); no new memoir/community material. SKIP. -->
 <!-- deepen-x slice 09251400-12 (2026-09-26): re-verified — fresh grep hit set identical to material already absorbed/cited on this page (own records + index only); no new memoir/community material. SKIP. -->
 <!-- deepen-x slice 10051340-5 re-verify 2026-10-06: fresh ZH+EN+partial-name grep (works/articles/sources/events/topics) — hit set identical to prior absorptions (own TAH records + already-linked work pages + index); partial-name hits resolved to different people. Verified-saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 10062334-5 re-verify 2026-10-08: fresh ZH+EN+partial-name grep (works/articles/sources/events/topics) — hit set identical to prior absorptions (442/443/444 畫冊, artist15, whoswho1052 + sources rollup). Partial-name 正一 hits are different people (陳正一 in ourjourneys244/212 co-op & 生活座談會 rosters — not this artist). Verified-saturated; SKIP-no-new-facts. -->
