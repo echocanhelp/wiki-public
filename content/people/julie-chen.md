@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Julie Chen (許春惠)
 
@@ -47,6 +47,7 @@ last_reviewed: 2026-10-06
 - 2026-09-25 (deepen-x slice 22): corpus grep adds two family-linked community records for the couple's household — the 陳哲夫紀念獎學金 scholarship fund record [[works/taiwaneseamericanhistory-org/41-the-jeff-chen-memorial-fund-scholarship-awards|TAH #41, 2015/08]] (the Jeff Chen Memorial Fund, indicating the family's endowment giving to the community after 陳哲夫's passing), and [[works/taiwaneseamericanhistory-org/263-e9-99-b3-e5-93-b2-e5-a4-ab-e5-8f-b0-e5-8d-97-e4-b8-80-e4-b8-ad-e6-a0-a1-e5-8|TAH #263, 陳哲夫 / 台南一中校友會創會會長 / 1987]] documenting the husband as founding chair of the 台南一中 alumni association. Both are bibliographic records; full text stays in the vault.
 
 - Re-verify 2026-10-01 (slice 09261000-2): fresh ZH+EN grep (works/ + articles/) — corpus hits remain ourjourneys186, 630 (her own Who's Who stub), ff264, the works index, and the Pew statement name list already recorded above. No new community-authored material; the unconfirmed "Julie Chen" on the Pew list stays HOLD. Verified saturated, SKIP.
+- Husband's own encyclopedia record: [[works/taiwaneseamericanhistory-org/629-jeff-chen-e9-99-b3-e5-93-b2-e5-a4-ab-201509|TAH #629, Jeff Chen 陳哲夫, 2015/09]] — surfaced by the 陳哲夫 sweep in the 2026-10-08 (slice 10070018-2) re-grep; bibliographic record, full text stays in the vault. Same couple, no new facts beyond the joint record set already held.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/julie-chen/)

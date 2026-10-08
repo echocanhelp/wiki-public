@@ -56,3 +56,5 @@ last_reviewed: 2026-10-06
 <!-- deepen-x slice 09251527-18 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/+articles/ returns only the records already linked/absorbed in Role in the Community (plus works/index rollup); no new corpus material, no conflicts to hold. -->
 
 Corpus re-check (deepen-x slice 10051340-10, 2026-10-06): fresh ZH+EN+surname grep returned only #2135, #652, #42 and works/index, all already linked above; surname hits for 王進 are a distinct person (Prof. Chin-Hsien Jim Wang 王進賢, #244/#418, ourjourneys352) — verified saturated, SKIP, no conflicts.
+
+Corpus re-check (deepen-x slice 10070018-2, 2026-10-08): fresh ZH+EN grep (王進益 / Ching Ih Wang, plus partial-name 進益 sweep) across works/articles/sources/events/topics returns only #2135, #652, #42, works/index and the sources hub — all already linked above. Verified saturated, SKIP, no new facts absorbable, no conflicts.

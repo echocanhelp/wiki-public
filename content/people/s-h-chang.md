@@ -53,3 +53,5 @@ last_reviewed: 2026-10-06
 
 <!-- deepen-x slice 09250400-3 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already linked/absorbed above (plus works/index rollup); nothing new absorbable; no conflicts. SKIP-with-reason (verified saturated). -->
 <!-- deepen-x slice 09251527-16 (2026-09-26): re-verified — fresh ZH+EN grep returns only ourjourneys160, whoswho1037, the 2018 連署 article (all absorbed) + works/index. SKIP-with-reason (verified saturated). -->
+
+Corpus re-check (deepen-x slice 10070018-2, 2026-10-08): fresh exact 張舜華 grep across works/articles/sources/events/topics returns only ourjourneys160, whoswho1037, the 2018 連署 article, works/index and the sources hub — all already absorbed above. Husband-name sweep (郭倍宏) adds nothing beyond ourjourneys238 (already absorbed) and works/index. The 「SH Chang」 author-signature collision (see HOLD above) stays excluded. Verified saturated, SKIP, no conflicts.
