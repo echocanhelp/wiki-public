@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Gary Lee (李桂銳)
 
@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- 2026-10-08 deepen-x slice 10070500-16 re-check: fresh ERE grep (name ZH+EN+variants) across all five corpus dirs returns the identical hit set — own record + works/sources index listings only. Verified-saturated, nothing absorbable.

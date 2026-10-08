@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Shiou-Chuan Sheryl Tsai (蔡秀娟)
 
@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-25 deepen-x slice 09231200-4 (retry run): fresh ZH+EN grep verified-saturated — hit set identical to prior passes; nothing new absorbable.
 - 2026-10-07 deepen-x slice 10051918-6 re-check: fresh ZH+EN+variant grep (蔡秀娟/Shiou-Chuan/Sheryl Tsai/秀娟) across works/articles/sources/events/topics returns the identical hit set — own record [[works/taiwaneseamericanhistory-org/whoswho1439|TAH #1439]] + index/source listings only (秀娟 hits are unrelated articles). Verified-saturated, nothing absorbable.
+
+- 2026-10-08 deepen-x slice 10070500-16 re-check: fresh ERE grep (name ZH+EN+variants) across all five corpus dirs returns the identical hit set — own record + works/sources index listings only. Verified-saturated, nothing absorbable.

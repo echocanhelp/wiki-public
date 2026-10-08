@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Vincent Wah-Sang Yeung (楊華生醫師)
 
@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Deepen pass 2026-10-08 (slice 10070500-16): SKIP-with-reason — fresh ERE grep (楊華生/Wah-Sang/Vincent Yeung/華生) across all five corpus dirs returns only own TAH #2008 record + index. Extra 華生 hits verified false positives: photo-albums-activities-68 title 「許永華生命的禮讚」 substring, and 豪華生日/奢華生活 substrings in taiwanjustice-net news articles. Nothing absorbable.
