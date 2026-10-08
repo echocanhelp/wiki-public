@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Nicholas C. Huang (黄文郁)
 
@@ -53,3 +53,4 @@ Accomplishment
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09252123-19 (2026-09-26): verified-saturated — fresh ZH+EN re-grep of content/works+content/articles returns only the already-cited records; no new absorbable facts. -->
+<!-- deepen-x 10060950-5: SKIP — corpus re-scan (works/articles/sources/events/topics) fresh 2026-10-08: ZH+EN grep hit set identical to prior passes (own record + already-absorbed works + index listings); false-positive substring hits excluded (趙明昊 Fudan professor in taiwanjustice 2023 article; 久香 substring in BNO news). No new community material. -->

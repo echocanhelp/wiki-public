@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Elaine Liu (黃久香)
 
@@ -49,3 +49,4 @@ last_reviewed: 2026-10-06
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 10051143-24: SKIP — corpus re-scan (works/articles/sources/events/topics) fresh 2026-10-06: 黃久香/Elaine Liu grep returns only already-absorbed records (winners19 殊榮, ourjourneys212 合照, memorial scholarship, whos930) plus index listings; no new corpus facts. -->
+<!-- deepen-x 10060950-5: SKIP — corpus re-scan (works/articles/sources/events/topics) fresh 2026-10-08: ZH+EN grep hit set identical to prior passes (own record + already-absorbed works + index listings); false-positive substring hits excluded (趙明昊 Fudan professor in taiwanjustice 2023 article; 久香 substring in BNO news). No new community material. -->
