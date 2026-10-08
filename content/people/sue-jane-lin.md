@@ -48,3 +48,4 @@ SKIP-with-reason: the only corpus hit is the work page for this same TAH Who's W
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 # deepen-x 09251047-25: SKIP re-verified 2026-09-26 — fresh ZH+EN grep matched only own TAH Who's Who record + index; no absorbable memoir material
 # deepen-x 10052007-23: SKIP re-verified 2026-10-07 — five-dir grep (works/articles/sources/events/topics; 林素貞 / Sue-Jane) matched only own whoswho1595 record, works/index, and sources page; the 素貞 hits in ourjourneys/mystories works are 陳素貞 (Chen Su-jen, different person). Nothing absorbable.
+# deepen-x 10070700-20: SKIP re-verified 2026-10-08 — fresh five-dir greps (林素貞 / Sue-Jane / Sue.Jane) hit only own whoswho1595 record + index + sources registry; knowledge/web-archives sweep also matched only own person JSON/post. Verified-saturated.

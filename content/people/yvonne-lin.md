@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Yvonne lin (林韻玉)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+# deepen-x 10070700-20: SKIP re-verified 2026-10-08 — fresh five-dir greps (林韻玉 / Yvonne lin) hit only own whoswho1583 record + index + sources registry; other Yvonne hits are 程如碧 / 王亦凢 / 蔡依芳 (different people); knowledge/web-archives sweep matched only own person JSON/post. Verified-saturated.

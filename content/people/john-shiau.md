@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # John Shiau
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+# deepen-x 10070700-20: SKIP re-verified 2026-10-08 — fresh five-dir greps (John Shiau / Shiau) hit only own record 111-dr-john-shiau + index + sources registry; other Shiau hits are Walter H / Yih-Fu / Connie Shiau / Ding / Liao (different people); knowledge/web-archives sweep matched only own person JSON/post. Verified-saturated.
