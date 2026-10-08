@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Kim Wang-Neal (王劭文律師)
 
@@ -53,3 +53,4 @@ Accomplishment
 - SKIP re-confirmed 2026-10-07 (deepen-x slice 10051918-16): extended grep 王劭文/Kim Wang-Neal/劭文 across all five corpus dirs returns only own my-story-674 essay + whos-who-988 record + index rows; NY Chamber hits (our-journeys-360, chamber-upstate #23) name Joey Chiang, not her. Verified-saturated.
 
 <!-- deepen-x 10051918-16: 2026-10-07 verified-saturated, nothing absorbable. -->
+<!-- deepen-x 10070600-6: 2026-10-08 re-grep 王劭文/Kim Wang-Neal across five dirs — own my-story-674 essay + whos-who-988 record + index/source rows only; verified-saturated, nothing absorbable. -->

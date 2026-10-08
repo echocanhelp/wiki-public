@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Charles Hsiao (蕭俊雄)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - Corpus grep (works/, articles/) re-verified 2026-09-22: hits remain only this person's own TAH Who's Who bibliographic record [[works/taiwaneseamericanhistory-org/whos-charles-hsiao|1937. Charles Hsiao 蕭俊雄 /11/2017]] and the works index — no memoir or community-history text carrying additional facts. SKIP: nothing absorbable.
 - Re-verified 2026-09-25 (deepen-x slice 09250600-20): fresh ZH+EN grep of content/works + content/articles — hit set unchanged (own TAH #1937 record + index row); SKIP stands.
 - Re-grep 2026-10-07 (deepen-x slice 10051918-28): five-dir grep for 蕭俊雄/Charles Hsiao returned only own TAH #1937 record + index row. Substring 俊雄 hits (蘇俊雄, 呂俊雄, 林俊雄, 張俊雄 in Our Journeys #53/#263/#316/#350) are all different people — not absorbed. Verified-saturated, SKIP stands.
+- Re-grep 2026-10-08 (deepen-x slice 10070600-6): five-dir grep for 蕭俊雄/Charles Hsiao returned only own TAH #1937 record + index/source rows. SKIP stands; verified-saturated.

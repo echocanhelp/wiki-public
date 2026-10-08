@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Kenneth J. Kao (高永仁)
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-10-07
 - Corpus re-grep 2026-09-26 (slice 09251047-3): fresh ZH+EN grep of works/ and articles/ returned only the own TAH record, the works index, and previously-noted mentions (incl. the Marina Lu 盧雅文 name-collision essay) — nothing new absorbable; page held at prior state (SKIP-deepened).
 - Corpus re-grep 2026-10-01 (slice 09261341-11): fresh ZH+EN grep of works/ and articles/ again returned only the own record [[works/taiwaneseamericanhistory-org/whoswho2077|2077]] and the works index entry — no memoir/community narrative; SKIP-deepened, no conflicts found.
 - Corpus re-grep 2026-10-07 (slice 10051918-30): fresh ZH+EN grep across all five corpus dirs (works/articles/sources/events/topics) returned only the own record whoswho2077 + works index (broad 'Kao' hits elsewhere are Kaohsiung/publication false positives, not the subject) — nothing new absorbable; page held at prior state (SKIP-deepened).
+- Corpus re-grep 2026-10-08 (slice 10070600-6): fresh five-dir grep (高永仁 / Kenneth J. Kao / Kenneth Kao) returned only the own record [[works/taiwaneseamericanhistory-org/whoswho2077|whoswho2077]] + index/source rows — nothing new absorbable; verified-saturated, SKIP stands.
