@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 # deepen-x 09251039-31: SKIP re-verified 2026-09-26 — fresh grep: 林茂修/Mao-Shiu hits = own whoswho721 + works index only; nothing absorbable
 # deepen-x 09261400-3: re-grep 2026-10-02 (林茂修 + Mao-Shiu Lin, works+articles) — 0 hits; SKIP stands, nothing absorbable
 ---
@@ -52,3 +52,5 @@ Professor of Electrical & Computer Engineering
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070600-17 2026-10-08: five-dir sweep, exact probes 林茂修 / Mao-Shiu Lin — only own TAH #721 record + works/index + source hub. 茂修 substring hits again resolve to 王茂修牧師 (charity45/46, different person — HOLD stands). Verified-saturated, SKIP stands. -->

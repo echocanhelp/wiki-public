@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # H. T. Chen (陳學同)
 
@@ -53,3 +53,5 @@ _Re-grepped 2026-10-07 (slice 10051948-18): five-dir sweep (works/articles/sourc
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070600-17 2026-10-08: five-dir sweep (works/articles/sources/events/topics), exact-name probes 陳學同 / H. T. Chen — hit set identical (own TAH #967 record + works/index + source hub). Broader regex hits (Chin-Feng Chen, Ching-Ching Cheng, Jimmy Ching-Ming Chen, etc.) are different people; 學同 substrings remain 大學同學 false positives. Verified-saturated, SKIP stands. -->

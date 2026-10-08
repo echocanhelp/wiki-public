@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Judy Jeng (洪秀芬)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 10051948-10 2026-10-07: fresh five-dir grep (works/articles/sources/events/topics) for 洪秀芬 / Judy Jeng — only her own TAH #104 record + works index + source hub. Surname-only sweep 'Jeng' hits Y.C./Cherie/Raymond/Rhoda Jeng records, none reference her. Verified saturated, SKIP stands. -->
+<!-- deepen-x slice 10070600-17 2026-10-08: five-dir sweep re-run, ZH+EN+surname probes — 洪秀芬/Judy Jeng hits = own TAH #104 record + works/index + source hub only; 'Jeng' surname hits are Y.C./Cherie/Raymond/Rhoda Jeng (鄭姓 family, different people); zero hits in articles/events/topics. Verified-saturated, SKIP stands. -->
