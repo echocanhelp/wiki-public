@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Leona Yi-Fan Su (蘇怡帆教授)
 
@@ -43,6 +43,7 @@ Prof. Leona Yi-Fan Su 蘇怡帆教授 – History of Taiwanese American (T.A. Ar
 - Corpus re-grep 2026-09-25 (slice 09231000-8): hit set unchanged — her own record [[works/taiwaneseamericanhistory-org/whos-who-1950-yi-fan-su|whos-who-1950]] plus index lines. Verified saturated, SKIP content-deepen.
 - Corpus re-grep 2026-09-25 (slice 09250317-13): hit set unchanged — own record 1950 plus index lines. Verified saturated, SKIP content-deepen.
 - Corpus re-grep 2026-09-26 (slice 09251527-7): hit set unchanged — own record [[works/taiwaneseamericanhistory-org/whos-who-1950-yi-fan-su|whos-who-1950]] plus index lines. Verified saturated, SKIP content-deepen.
+- Corpus re-grep 2026-10-08 (slice 10070400-7, "蘇怡帆 / Yi-Fan Su / Leona" across works/ articles/ sources/ events/ topics/): hit set unchanged — her own record whos-who-1950 plus index/sources rollups; the other "Leona" hits are Leona Chen 陳文羿 and unrelated org pages. Verified saturated, SKIP content-deepen.
 
 ## Sources
 - [TAH #1950 encyclopedia: 1950. Prof. Leona Yi-Fan Su 蘇怡帆教授](https://taiwaneseamericanhistory.org/whos-who-1950-yi-fan-su/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Pin-Shan Peter Chen (陳品山教授)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-26 (deepen-x slice 09252123-8): fresh grep for 陳品山/Pin-Shan returns only his own TAH #2127 record and the works index — corpus-saturated, SKIP.
 - Re-verified 2026-10-07 (deepen-x slice 10051400-31): fresh grep for 陳品山/Pin-Shan/Peter Chen across all five corpus dirs returns his own TAH #2127 record, works index, the 陳正義 Peter Chen records (different person, HOLD stands — see above), and a Pew statement author-list mention of "Peter Chen" with no identifying context (cannot attribute to either person). Verified-saturated, SKIP.
+- Re-verified 2026-10-08 (deepen-x slice 10070400-7): fresh grep 陳品山/Pin-Shan across all five corpus dirs returns only his own TAH #2127 record + works/index + sources rollup. The broader "Peter Chen" hits (TAH #424, Our Journeys #235/#228, taiwanjustice-net articles) all resolve to 陳正義 (TACL), per the HOLD above — attribution confirmed again in the 2025-08-08 TACL dinner report, which links Peter Chen → [[people/peter-chen]]. No material attributable to 陳品山. Verified-saturated, SKIP.
