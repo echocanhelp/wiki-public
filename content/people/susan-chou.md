@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Susan Chou (周淑慧牧師)
 
@@ -59,3 +59,4 @@ last_reviewed: 2026-10-07
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 <!-- deepen-x slice 09221500-11 re-grep 2026-09-23: fresh grep returns only TAH #350/#508 + index — verified saturated, SKIP content-deepen. -->
+<!-- deepen-x slice 10070400-4 re-grep 2026-10-08: fresh grep 周淑慧/Susan Chou/淑慧 across works/articles/sources/events/topics — own records TAH #350/#508 + index only, all absorbed above. Other 淑慧 hits (吳淑慧, 陳淑慧, Tracy淑慧, 蔡淑慧 #644) are different people. Verified-saturated; SKIP content-deepen. -->

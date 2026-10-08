@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Michellee Shaw Chen (陳美真理)
 
@@ -36,11 +36,16 @@ last_reviewed: 2026-10-07
 - **Husband:** Kris Motola
 - **Son:** Lincoln
 - **Son:** Lucas
-- **Father:** 陳哲仁 Mother:蕭永真
+- **Father:** [[people/donald-c-j-chen|陳哲仁醫師 (Dr. Donald C.J. Chen)]]
+- **Mother:** [[people/enchin-shaw-chen|蕭永真 (Enchin Shaw Chen)]] — recorded at [[works/taiwaneseamericanhistory-org/whos-who-473-enchin-shaw-chen|TAH #473]]
 
 
 ## Role in the Community
 - Corpus material is limited to her own TAH Who's Who entry ([[works/taiwaneseamericanhistory-org/whos871-michellee-shaw-chen|TAH #871 Michellee Shaw Chen 陳美真理 / 2016-03]]); no memoir/community activity found in works/articles beyond the press-kit bio.
+- Maternal 蕭-lineage is documented in the corpus: mother [[people/enchin-shaw-chen|蕭永真 (Enchin Shaw Chen)]] — daughter of 蕭安居牧師, b. 1930, 淡江英專 1952, San Diego State College B.A. (Psychology) 1957, University of Pennsylvania M.S.W. 1960, married 陳哲仁醫師 in 1965 — per [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-3|Senior Taiwanese American 3]].
+- Her mother's archive is held in the corpus: [[works/taiwaneseamericanhistory-org/collection-of-mrs-enchin-shaw-chen|Collection of Mrs. Enchin Shaw Chen 蕭永真女士的收藏]] — placing Michellee in a multi-generation community lineage (pastor-grandfather era + mother's collection + sibling entries #869/#870/#872).
+- HOLD: an earlier wave note called the 'Shaw Chen' hits "her grandfather's line"; the tah-tables Family line (Mother: 蕭永真) and the 1965 marriage record in Senior Taiwanese American 3 place 蕭永真 as her mother — treated as maternal, not auto-merged.
+- Corpus re-scan 2026-10-08 (slice 10070400-4): fresh grep (Michellee / 陳美真理 / Shaw Chen) across all five dirs — no personal memoir mention beyond #871; the 'Shaw Chen' hits are maternal-lineage records, now absorbed above.
 - Family link absorbed from the Who's Who entity graph: father 陳哲仁 is Dr. Donald C.J. Chen ([[people/donald-c-j-chen]]), whose entry [[works/taiwaneseamericanhistory-org/ff309|TAH #309]] records the first private medical practice by a Taiwanese American in the area (ENT specialist, Camp Spring, Maryland). Siblings also documented: [[people/angellee-shaw-chen|陳安仁理]] ([[works/taiwaneseamericanhistory-org/whos872-angellee-shaw-chen|TAH #872]]), 陳善哲 ([[works/taiwaneseamericanhistory-org/whos-who-870-shante-shaw-chen|TAH #870]]), 陳安哲醫師 ([[works/taiwaneseamericanhistory-org/whos-who-869-andre-chen|TAH #869]]).
 
 - Corpus re-check (2026-09-21, slice 09210317-18): fresh grep across works + articles returns only the records already absorbed above (own entry #871, works index) — no new community facts to absorb.
