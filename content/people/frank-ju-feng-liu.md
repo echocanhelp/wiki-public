@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Frank Ju-Feng Liu (劉如峰)
 
@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-grep 2026-10-07 (slice 10052007-9): five-dir sweep for 劉如峰 / Ju-Feng / surname variant 如峰 — the only 如峰 matches outside the own record are CNA wire stories by reporter 沈如峰 (Shen Rufeng, taiwanjustice-net), a substring false positive unrelated to the subject. No memoir or community material; SKIP stands.
+
+Corpus re-grep 2026-10-08 (deepen-x slice 10070700-7): five-dir sweep (works/articles/sources/events/topics), ZH+EN+surname variants — hit set unchanged: own TAH record + works/index + sources hub only. SKIP stands — nothing absorbable beyond the TAH profile.

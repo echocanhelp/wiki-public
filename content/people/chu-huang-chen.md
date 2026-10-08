@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chu-Huang Chen (陳珠璜)
 
@@ -48,3 +48,5 @@ SKIP (2026-09-17, re-verified 2026-09-19, 2026-09-21, re-grep 2026-09-25 deepen-
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-grep 2026-10-08 (deepen-x slice 10070700-7): five-dir sweep (works/articles/sources/events/topics), ZH+EN+surname variants — hit set unchanged: own TAH record + works/index + sources hub only. SKIP stands — nothing absorbable beyond the TAH profile.

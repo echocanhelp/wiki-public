@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Joey Chang (張亦喬)
 
@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Corpus re-grep 2026-10-08 (deepen-x slice 10070700-7): five-dir sweep (works/articles/sources/events/topics), ZH+EN+surname variants — hit set unchanged: own TAH record + works/index + sources hub only. SKIP stands — nothing absorbable beyond the TAH profile.
