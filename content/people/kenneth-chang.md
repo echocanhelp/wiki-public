@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Kenneth Chang (張學賢)
 
@@ -46,3 +46,5 @@ Source from Taiwanese Association of American Greater Washington Chapter Special
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Re-grep 2026-10-06 (deepen-x slice 10051340-6): fresh ERE grep (張學賢|Kenneth Chang) across works/articles/sources/events/topics returned only ourjourneys-138, ourjourneys47, whoswho1381 plus the sources roster row — all already absorbed above. Verified-saturated, SKIP.
+
+Re-grep 2026-10-08 (deepen-x slice 10062334-6): fresh ERE grep (張學賢|Kenneth Chang|Hsueh-hsien Chang) across works/articles/sources/events/topics returned only ourjourneys-138 (1972 會長 roll), ourjourneys47 (1990-08 林口長庚 visit), whoswho1381, plus roster/index rows — all already absorbed above. Verified-saturated, SKIP.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Linda Yi-Fang Yau (劉義芳)
 
@@ -58,3 +58,5 @@ Re-grep 2026-09-26 (slice 09251023-14): hit set identical (#1566, #290, #382, #3
 Corpus re-check (deepen-x slice 09260900-31, 2026-10-01): fresh ZH+EN grep of content/works + content/articles returned the same saturated hit set — own TAH record(s) plus the memo/article passages already wikilinked above, plus the works index. Nothing new absorbable; no conflicts to hold. SKIP.
 
 Re-grep 2026-10-06 (deepen-x slice 10051340-6): fresh grep (劉義芳 / Linda Yi-Fang Yau / Linda Y. Yau) across works/articles/sources/events/topics returned only #1566, #290, #382, #383 plus the sources roster row — verified saturated, SKIP.
+
+Re-grep 2026-10-08 (deepen-x slice 10062334-6): fresh grep (劉義芳 / Yi-Fang Yau / Linda Y. Yau) across works/articles/sources/events/topics returned only #1566 own record, #290 HAPA-NA 理事 roster, #382/#383 2022 回台參訪團 photo captions, plus roster/index rows — all already absorbed above. Verified-saturated, SKIP.

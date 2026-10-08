@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Shun Dar Lin (林舜達)
 
@@ -60,3 +60,5 @@ Re-verified 2026-09-26 (slice 09251023-12): grep hit set unchanged (same 5 work 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Re-grep 2026-10-06 (deepen-x slice 10051340-6): fresh grep (林舜達 / Shun Dar Lin / 林滋盛) across works/articles/sources/events/topics returned only the 5 already-cited work pages plus the sources roster row — verified saturated, SKIP.
+
+Re-grep 2026-10-08 (deepen-x slice 10062334-6): fresh grep (林舜達 / Shun Dar Lin / Stan Lin / 林滋盛) across works/articles/sources/events/topics returned only the 5 already-cited work pages (mystories366/-eng, publications1042, collection-of-prof-shun-dar-lin, whos-shun-dar-lin) plus roster/index rows; family-name greps (林滋盛/林滋琍/林章美玲) found no corpus material. Verified-saturated, SKIP.
