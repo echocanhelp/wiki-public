@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 <!-- deepen-x slice 10051200-4 (2026-10-06): fresh grep (Henry C. Liu / Henry Liu / 劉敏) of works/articles/sources/events/topics -> same hit set (whoswho1374 own record; ourjourneys37/38-eng + Formosa Betrayed pieces all refer to writer 江南/劉敏 per HOLD). No new work names this engineer. Verified-saturated, SKIP. -->
 # Henry C. Liu
@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Corpus re-scan 2026-10-08 (deepen-x slice 10061023-3): fresh grep (Henry C. Liu / Henry Liu / 劉敏) across works/ + articles/ + sources/ + events/ + topics/ — same hit set (whoswho1374 own record; ourjourneys37-eng / ourjourneys38-eng / Formosa Betrayed pieces all refer to writer 江南/劉敏 per the identity HOLD, not this engineer). No new work names this person. SKIP: verified-saturated.
