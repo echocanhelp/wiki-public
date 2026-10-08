@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Prof. Hsian-Rong Tseng (曾憲榮)
 
@@ -60,3 +60,4 @@ He is also linked from the community index record [[works/taiwaneseamericanhisto
 <!-- deepen-x 09251527-3: re-verify 2026-09-26 — fresh grep (ZH+EN, works+articles): hit set identical to prior re-verifies, all already absorbed/wikilinked. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 09260800-29: re-verify 2026-09-30 — fresh grep (曾憲榮/Hsian-Rong Tseng, works+articles): hits = own records (#729, ota-283, moonshot essay) + works/index only, all already wikilinked. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 10051340-14: re-verify 2026-10-06 — fresh grep (曾憲榮/Hsian-Rong Tseng, works/articles/sources/events/topics): hits = own records (#729, ota-283, moonshot essay) + works/index only, all already wikilinked. 憲榮-alias sweep matched only 李憲榮 (Shane-Rong Lee, a different person — see whoswho-1901 / our-journeys-379) and a stale cross-reference on huai-shion-tsai's page (already resolved there); never conflate. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x 10070018-5: re-verify 2026-10-08 — fresh grep (曾憲榮/Hsian-Rong, works/articles/sources/events/topics): hits = own records (#729, ota-283, moonshot essay) + works/index + sources rollup only, all already wikilinked. Verified saturated; SKIP-no-new-facts. -->

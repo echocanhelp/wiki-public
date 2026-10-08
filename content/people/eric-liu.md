@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Eric Liu (劉柏川)
 
@@ -55,6 +55,7 @@ _No filled family fields on the TAH profile._
 
 - Corpus re-check 2026-10-01 (slice 09260900-16): fresh ZH+EN grep 劉柏川 / Eric Liu over `works/` + `articles/` returns only #179, the works index, and the two already-absorbed essays (「What are you?」, On Stubborn Roots) — SKIP, verified-saturated. Liu is cited in the corpus as a *literary source* for second-generation identity essays, not as a community participant; no primary community record exists for him locally.
 - Corpus re-check 2026-10-06 (slice 10051340-14): fresh ZH+EN grep 劉柏川 / Eric Liu across works/articles/sources/events/topics returns only #179, the works index, and the two already-absorbed essays — alias sweep (柏川) hit one unrelated Honduras-election article. SKIP, verified-saturated.
+- Corpus re-check 2026-10-08 (slice 10070018-5): fresh ZH+EN grep 劉柏川 / Eric Liu across works/articles/sources/events/topics returns only #179, the works index, and the two already-absorbed essays (「What are you?」, On Stubborn Roots). SKIP, verified-saturated.
 
 ## Sources
 - [TAH #179 encyclopedia: 179. Eric Liu 劉柏川](https://taiwaneseamericanhistory.org/179-eric-liu-%e5%8a%89%e6%9f%8f%e5%b7%9d/)
