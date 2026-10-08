@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Y. W. Cheng (鄭義為教授)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 
 > Re-check (deepen-x 09250600-11, 2026-09-25): fresh ZH+EN grep of content/works + content/articles — hit set identical to prior passes (own TAH bibliographic record + works/index only; for Victor Liu also the unrelated 紅通-family article). SKIP confirmed; nothing absorbable, no biography invented.
 > Re-check (deepen-x 10051918-19, 2026-10-07): fresh five-dir grep (works/articles/sources/events/topics) for 鄭義為 / Y. W. Cheng / simplified 郑义为 — hits are only own TAH #1718 record, works/index, sources index. The 義為 substring hits (ourjourneys70, video57 "仗義為台灣", ourjourneys126, taiwanjustice article) are unrelated prose, not this person. Saturated; nothing absorbable.
+> Re-check (deepen-x slice 10070500-25, 2026-10-08): fresh grep 鄭義為 / 郑义为 / Y. W. Cheng / YW Cheng across all five corpus dirs returns only own TAH #1718 record + index/source rows. Verified-saturated, no changes.
