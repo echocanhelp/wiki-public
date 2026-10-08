@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # H. Y. ChenCheng (陳鄭弘堯)
 
@@ -28,7 +28,9 @@ last_reviewed: 2026-10-01
 
 ## Role in the Community
 
-From 台灣台中烏日 (era 1972); B.S. New Jersey 醫學學院, M.S. 語言 Montclair State University.
+From 台灣台中烏日 (era 1972); B.S. New Jersey 醫學學院, M.S. 語言 Montclair State University. Arrived in the U.S. 1973.
+
+The full archived record (knowledge/web-archives/taiwaneseamericanhistory-org/posts/whoswho1888.md, sourced from 美東台灣人夏令會 07/2002) lists his community accomplishments: **Cornell 台灣學生會會長** (president of the [[organizations/cornell-taiwanese-student-association|Cornell Taiwanese Student Association]]) and **李雅彥醫師紀念基金會獎助金執行長** (executive director of the scholarship fund commemorating Dr. Ya-Yen Lee, see [[works/taiwaneseamericanhistory-org/dr-ya-yen-lee-memorial-foundation-scholarship]]).
 
 Corpus sweep (re-verified 2026-09-26, 2026-09-25 slice 09231400-4, 2026-09-22, 2026-09-21): the only hits in content/works / content/articles are the own Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1888|TAH #1888 H. Y. ChenCheng 陳鄭弘堯]] (bibliographic stub; full text stays in the vault) and the index. No memoir, article, or community-activity mention found — nothing further absorbable. Note (2026-09-22): corpus grep also hits [[works/taiwaneseamericanhistory-org/whoswho1669|TAH #1669 H. Y. Chen 陳弘毅]] — a different person (initial-collision on "H. Y. Chen"), not this subject.
 

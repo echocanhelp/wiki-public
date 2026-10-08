@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Yue-Juan Joanne Guo (郭玥娟)
 
@@ -32,6 +32,7 @@ last_reviewed: 2026-10-01
 
 ## Role in the Community
 - Her community record is preserved in the TAH encyclopedia corpus entry [[works/taiwaneseamericanhistory-org/whos-who-2170-yue-juan-guo|TAH Who's Who #2170]]; the reciprocal mention in her husband's encyclopedia record (#151) confirms the family linkage from a second corpus source.
+- The full archived record (knowledge/web-archives/taiwaneseamericanhistory-org/posts/whos-who-2170-yue-juan-guo.md) lists her as artist/sociologist, first U.S. residence New York/NY, with one listed accomplishment: a **Fellowship at the New York Foundation of the Arts**.
 - In her husband Dr. Lung-Fong Chen's book 台灣與國際組織 (archived copy under knowledge/web-archives/taiwaneseamericanhistory-org/posts/, file 308-…-陳隆豐-200402-政治.md) she is named in the author's dedication — 「受到作者的牽手陳郭玥娟百分之百不多不少的支持，不僅是鼓勵，更是鞭策」 — and the book is dedicated to both mothers, hers listed as 岳母大人郭孫雪娥 (married-name form 陳郭玥娟).
 
 ## Sources
