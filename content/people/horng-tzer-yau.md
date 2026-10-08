@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Horng-Tzer Yau (姚鴻澤)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x recheck 2026-09-25 (slice 09231300-22): fresh ZH+EN grep — hit set identical (own TAH #1552 + works index). SKIP stands. -->
 <!-- deepen-x recheck 2026-09-26 (slice 09251023-27): fresh ZH+EN grep of works/+articles/ — hit set identical to prior sweeps (own TAH record + index only; Julan: own works + 婦女信箱 roster already cited). No new absorbable material. SKIP stands. -->
 <!-- deepen-x recheck 2026-10-07 (slice 10051918-29): fresh ZH+EN+surname grep (姚鴻澤 / Horng-Tzer / 姚) across all five corpus dirs — exact-name hits: own record #1552 + works index + source page only; other 姚 matches are name collisions (姚嘉文 in our-journeys-350/mystories-778, 姚煒廉 author of mystories-778 — unrelated persons). Verified-saturated; nothing absorbable. -->
+<!-- deepen-x slice 10070600-2 recheck 2026-10-08: SKIP — fresh five-dir grep (姚鴻澤 / Horng-Tzer Yau / 姚 surname): exact-name hits remain own record #1552 + works index + source page only; surname 姚 matches are collisions (姚嘉文, 姚煒廉 — unrelated persons). Verified-saturated; nothing absorbable. -->

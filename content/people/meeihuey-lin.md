@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Meeihuey Lin (林許美惠)
 
@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09261200-16: SKIP — fresh grep (works/articles): no hit beyond own record; hit set unchanged, no new material. -->
 
 <!-- deepen-x slice 10051918-21 recheck 2026-10-07: SKIP — fresh five-dir grep (works/articles/sources/events/topics; ZH+EN+surname): own TAH record + works index only; surname hits belong to other Hsieh / 何宗勳 individuals; no memoir or third-party material absorbable. -->
+
+<!-- deepen-x slice 10070600-2 recheck 2026-10-08: SKIP — fresh five-dir grep (林許美惠 / Meeihuey Lin / 許美惠, plus 園藝治療 topic sweep): hits remain own record #1686 + works index + source page only; 園藝治療/tag-page matches are unrelated (馮美惠 tag pages, gardening category pages) with no mention of her. Verified-saturated; nothing absorbable. -->

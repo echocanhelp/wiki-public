@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # L. B. Chou (周聯彬醫師)
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 
 ## Corpus Check Log
 - Corpus re-grep 2026-10-07 (slice 10051918-30): fresh ZH+EN grep across all five corpus dirs returned the same hit set as prior passes — own record whswho1427, works index, and the two 朱真一/陳永興 謝娥考證 articles (material already absorbed above, including the HOLD on 「台灣人第一位公共衛生博士」謝娥 vs 周聯彬) — saturated, nothing new absorbable.
+- Corpus re-grep 2026-10-08 (slice 10070600-2): fresh five-dir grep (周聯彬 / L. B. Chou; variants 周聯斌/周連彬) — hit set identical (own record, works index, source page, plus the two 朱真一/陳永興 謝娥考證 articles, content already absorbed with the HOLD intact). Other 周聯 hits are 周聯華 (蔣介石御用牧師), a different person. Verified-saturated; nothing new absorbable.
