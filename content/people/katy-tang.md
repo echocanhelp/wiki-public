@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Katy Tang (湯凱蒂)
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10070700-9 2026-10-08: five-dir re-grep (Katy Tang / 湯凱蒂) across works/articles/sources/events/topics -> unchanged hit set: [[works/taiwaneseamericanhistory-org/katy-tang|2020/07 profile]] + [[works/taiwaneseamericanhistory-org/whos-who-2280-katy-tang|#2280]] + index/sources rows; both remain bibliographic (band B), no narrative to absorb. Verified-saturated, SKIP stands. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Elaine Kate Liu
 
@@ -45,3 +45,4 @@ last_reviewed: 2026-10-01
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10070700-9 2026-10-08: five-dir re-grep (Elaine Kate Liu / Elaine Liu / 劉協同) -> "Elaine Kate" appears only in own [[works/taiwaneseamericanhistory-org/whos-who-1980-elaine-kate-liu|#1980]] + index rows; other Elaine Liu hits are 黃久香 ([[works/taiwaneseamericanhistory-org/elaine-liu-memorial-scholarships|82]]) — different person, no link asserted; father 劉協同's memoir appearance ([[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys 123]], 2010 同鄉會會長 / Honeywell 終身成就獎) already absorbed above. Verified-saturated, SKIP stands. -->

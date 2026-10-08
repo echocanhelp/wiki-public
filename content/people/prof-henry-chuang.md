@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Henry Chuang (莊英煌教授)
 
@@ -51,3 +51,4 @@ SKIP (deepen-x 2026-09-22 re-verify): corpus grep found only his own bibliograph
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 10051948-32 2026-10-07: five-dir re-grep (莊英煌 / Henry Chuang / Chuang) across works/articles/sources/events/topics -> only own TAH #2302 record + index/sources收录行. Verified-saturated, SKIP. -->
+<!-- deepen-x slice 10070700-9 2026-10-08: re-grep incl. 英煌/Ying-Huang variants — substring hits (Tony Tung Ying-Huang 董英煌 etc.) are different people; only own [[works/taiwaneseamericanhistory-org/whos-who-2302-henry-chuang|#2302]] + index rows. Verified-saturated, SKIP stands. -->
