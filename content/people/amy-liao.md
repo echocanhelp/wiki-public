@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Amy Liao (廖允民)
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Re-verified 2026-10-08 (deepen-x slice 10070315-27): fresh grep Amy Liao / 廖允民 across all five corpus dirs — hits remain own #1693 record, the Stephanie Chang interview, index/source hub; surname sweep returns only distinct Liaos. HOLD (Ontario/Canada vs 2013 Philadelphia byline note) stands unresolved. Verified-saturated, SKIP stands.

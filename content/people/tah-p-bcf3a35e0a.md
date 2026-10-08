@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # 劉文章
 
@@ -48,3 +48,5 @@ last_reviewed: 2026-10-07
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/whos1097|1097. 劉文章]]
+
+- Re-verified 2026-10-08 (deepen-x slice 10070315-27): fresh grep 劉文章 across all five corpus dirs — hit set unchanged (own whos1097 + ourjourneys245 (12th TA Summer Institute convener, absorbed above) + index/source hub). Verified-saturated, SKIP stands.

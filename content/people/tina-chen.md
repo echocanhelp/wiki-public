@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 # deepen-x 09232232-2: SKIP re-verified 2026-09-25 — 吳富子 hits = own whoswho1738 + index only; "Tina Chen" hits = actress in Almost Perfect (different person); nothing absorbable
 # deepen-x 09251039-31: SKIP re-verified 2026-09-26 — fresh grep: same hits only (own whoswho1738, works index, Almost Perfect actress); nothing absorbable
 ---
@@ -49,3 +49,5 @@ _Disambiguation: the only other corpus mention of "Tina Chen" is the actress cre
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Re-verified 2026-10-08 (deepen-x slice 10070315-27): fresh grep Tina Chen / 吳富子 across all five corpus dirs — hits only own whoswho1738, works index, source hub, and the Almost Perfect actress (different person). Verified-saturated, SKIP stands.
