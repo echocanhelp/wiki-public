@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Lirong Wang (黃麗蓉)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-10-06
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 10051200-31 recheck 2026-10-06: SKIP — fresh ZH+EN grep across works/articles/sources/events/topics (incl. 麗蓉-only sweep) returns only own [[works/taiwaneseamericanhistory-org/431-lirong-wang-e9-bb-83-e9-ba-97-e8-93-89201506|TAH #431]], works index, source hub. Family link to [[people/prof-chin-hsien-jim-wang|王進賢]] confirmed intact on his page. Verified saturated. -->
+<!-- deepen-x slice 10062334-24 (2026-10-08): SKIP re-verified — full 5-dir grep (works/articles/sources/events/topics) of 黃麗蓉/Lirong Wang/麗蓉 returns only own #431 record + index/source hub. Husband sweep 王進賢/Chin-Hsien/Jim Wang hits whos-who-418, ota-244, ourjourneys352 — all three already wikilinked on this page via the husband's record; no new material naming 黃麗蓉. Verified saturated. -->

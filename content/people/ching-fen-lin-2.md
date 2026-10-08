@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Ching Fen Lin (林青棻)
 
@@ -50,3 +50,4 @@ Accomplishment
 - 2026-09-25 deepen-x slice 09250400-29: fresh ZH+EN grep of works/+articles/ — hit set identical to prior passes (own whoswho record + index only, plus already-absorbed memoir/statement mentions). Verified saturated; nothing new absorbable.
 <!-- deepen-x slice 09252123-17 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/+articles/ returns hit set identical to prior passes (own records + index only); no new memoir/community material. Verified saturated. -->
 <!-- deepen-x slice 10051200-29 (2026-10-06): SKIP re-verified — fresh grep 林青棻/Ching Fen Lin/Ching-Fen Lin across works/articles/sources/events/topics: hit set identical to prior passes (own whos-who-1737 record + index/sources listings only); 張靜芬 vocal pages remain the other Ching-Fen Lin, correctly disambiguated above. Verified saturated. -->
+<!-- deepen-x slice 10062334-24 (2026-10-08): SKIP re-verified — full 5-dir grep (works/articles/sources/events/topics) of 林青棻/Ching Fen Lin/Ching-Fen Lin: hit set identical to prior passes (own whos-who-1737 record + index/source listings; 張靜芬 vocal pages #524/#255 = the other Ching-Fen Lin, correctly disambiguated above). Husband sweep 高健元/Chien Yuan Kao adds nothing beyond his own whos-who-1736 record already linked. Verified saturated. -->

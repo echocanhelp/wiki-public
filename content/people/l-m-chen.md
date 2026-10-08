@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # L. M. Chen (陳麗美)
 
@@ -53,3 +53,4 @@ last_reviewed: 2026-10-06
 - Re-verified 2026-09-22: fresh grep still returns only the own TAH record and works index; no community-record material. SKIP stands.
 - Re-verified 2026-09-25 (slice 09231500-10) and 2026-09-26 (slice 09251031-30): grep '陳麗美' / 'L. M. Chen' returns only own record [[works/taiwaneseamericanhistory-org/whos-who-1881-l-m-chen|1881. L. M. Chen 陳麗美]] + works index. SKIP stands.
 - Re-verified 2026-10-01 (slice 09261341-26): fresh grep '陳麗美' / 'L. M. Chen' across works/ and articles/ — zero hits. SKIP stands.
+<!-- deepen-x slice 10062334-24 (2026-10-08): SKIP re-verified — full 5-dir grep (works/articles/sources/events/topics) of 陳麗美/L. M. Chen returns only own record whos-who-1881 + index/source hub. Husband sweep 郭順良: zero hits corpus-wide, so the 1989 文化之夜 attribution HOLD above stands unchanged; surname sweeps 郭雋/Melody/Ingrid hit only the daughters' own records (#118/#119), ourjourneys301 (already linked), and unrelated name-twins (Melody Chang in our-journeys-370, Ingrid Tseng in whoswho1434). Verified saturated. -->
