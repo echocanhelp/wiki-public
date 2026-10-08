@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 <!-- deepen-x slice 10051200-4 (2026-10-06): fresh ZH+EN grep (柯哲洋/Jackson Ko) of works/articles/sources/events/topics -> hit set unchanged (whoswho1768 own record, ourjourneys12 already absorbed, works index). Verified-saturated, SKIP. -->
 # J. Y. Jackson Ko (柯哲洋)
@@ -49,3 +49,4 @@ last_reviewed: 2026-10-06
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-09-25 (deepen-x slice 09250400-11): fresh ZH+EN grep hit set identical to already-absorbed/already-held records -- saturated, SKIP.
 - Re-verified 2026-09-26 (deepen-x slice 09252123-8): fresh grep hits remain whoswho1768, ourjourneys12 (already absorbed), and the works index — corpus-saturated, SKIP.
+- Re-verified 2026-10-08 (deepen-x slice 10061023-4): fresh ZH+EN grep (柯哲洋/Jackson Ko/柯哲) across works/articles/sources/events/topics returns only whoswho1768, ourjourneys12 (already absorbed), and the index — corpus-saturated, SKIP.

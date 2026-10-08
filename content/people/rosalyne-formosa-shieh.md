@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Rosalyne Formosa Shieh (謝泊欣)
 
@@ -51,3 +51,4 @@ Rosalyne Formosa Shieh 謝泊欣 – History of Taiwanese American (T.A. Archive
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-10-06 (deepen-x slice 10051143-22): fresh grep ZH+EN (謝泊欣 / Rosalyne / 泊欣 / Formosa Shieh) across works/articles/sources/events/topics — hit set unchanged (TAH #124, 2021 Pew statement, works/sources index). No new community material. Verified-saturated, SKIP.
+- Re-verified 2026-10-08 (deepen-x slice 10061023-4): fresh ZH+EN+alias grep (謝泊欣 / Rosalyne / 泊欣 / Formosa Shieh) across works/articles/sources/events/topics — hit set unchanged (TAH #124, 2021 Pew statement, works/sources index). Verified-saturated, SKIP.
