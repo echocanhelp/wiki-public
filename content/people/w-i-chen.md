@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # W. I. Chen (陳石溫愛)
 
@@ -53,5 +53,6 @@ last_reviewed: 2026-10-01
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10062218-5 (2026-10-08): saturated re-verify — fresh grep (陳石溫愛 / W. I. Chen) across works/articles/sources/events/topics returns our-journeys-350 (模範母親 citation, absorbed), #1030 (bibliographic, linked), #1041 陳文英 (different person — HOLD stands) + index. Nothing new absorbable. -->
 <!-- deepen-x 09250500-29: re-verify 2026-09-25 — fresh ZH+EN grep: our-journeys-350, #1030, #1041 (different person, HOLD stands), index only; nothing new absorbable. -->
 <!-- deepen-x 09261100-25: re-verified 2026-10-01 — fresh ZH+EN grep (陳石溫愛 / W. I. Chen) returns only our-journeys-350 (模範母親 citation, absorbed), #1030 (bibliographic, linked), #1041 陳文英 (different person — HOLD above stands) + index. Nothing new absorbable. -->

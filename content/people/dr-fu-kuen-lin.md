@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Dr. Fu-Kuen Lin (林福坤博士)
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-10-06
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10062218-5 (2026-10-08): saturated re-verify — fresh grep (林福坤 / Fu-Kuen Lin) across works/articles/sources/events/topics hit set unchanged: mystories263 + #8 + #109 + #1449 (all already linked/absorbed) + index. Nothing new absorbable. -->

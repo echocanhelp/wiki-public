@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Nick Wu (吳仲輝)
 
@@ -43,5 +43,6 @@ last_reviewed: 2026-10-06
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10062218-5 (2026-10-08): saturated re-verify — fresh grep (吳仲輝 / Nick Wu) hit set unchanged: ourjourneys212 (joining-cohort passage, absorbed) + whoswho1128 (bibliographic, linked) + index. SKIP stands. -->
 
 - 2026-10-06 re-verify (deepen-x 10051200-10): surname sweep 仲輝 surfaced ourjourneys39 — that is 陳仲輝, 會長 of the Bay Area 協志會/蓬萊歌劇團 theater circle, a DIFFERENT person; no match for 吳仲輝/Nick Wu. Hit set unchanged (ourjourneys212 + whoswho1128). SKIP stands.
