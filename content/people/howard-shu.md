@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Howard Shu (舒之顥)
 
@@ -46,3 +46,4 @@ last_reviewed: 2026-10-01
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- DEEPEN-X SKIP 2026-09-25, re-verified 2026-09-26 (deepen-x 09251039-15): corpus grep (舒之顥 / Howard Shu, works+articles) returns only own records ff301 + whos1248 (both band B, already linked in Role section) + index listings. Nothing absorbable. -->
+<!-- deepen-x slice 10070400-2: SKIP re-verified 2026-10-08 — fresh greps (舒之顥 / Howard Shu / 羽球 / badminton / Olympic) across all five corpus dirs: exact-name hits = own ff301 + whos1248 records only (already linked); badminton/Olympic hits elsewhere are unrelated articles (麟洋 pair, 陳清晨, Formosa Prix menu) with no Shu connection. Nothing absorbable. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Y. C. Chen (陳英燦)
 
@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10070400-2: SKIP re-verified 2026-10-08 — fresh greps (陳英燦 / 英燦 / Y. C. Chen) across all five corpus dirs: only own #924 record + index/source listings; 陳義志 (#1393) and 鄭翼宗 (#1853) confirmed separate persons. No memoir material. SKIP confirmed. -->

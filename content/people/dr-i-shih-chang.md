@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Dr. I-Shih Chang (張倚石博士)
 
@@ -47,3 +47,4 @@ Corpus check (2026-09-20): the vault holds two TAH records for Chang — his Who
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10070400-2: SKIP re-verified 2026-10-08 — fresh greps (張倚石 / I-Shih / 倚石) across all five corpus dirs: only own Who's Who record + 1998 winners28 award record, both already linked above. No new corpus material. -->
