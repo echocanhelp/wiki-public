@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Anne H. Chow
 
@@ -49,3 +49,5 @@ The vault's community record for Anne H. Chow is the TAH Who's Who entry itself,
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 10051918-9: re-verified 2026-10-07 — fresh five-dir grep (works/articles/sources/events/topics, ZH+EN+variants) returns only already-cited records; verified-saturated, nothing absorbable. -->
+
+- 2026-10-08 re-sweep (slice 10070500-24): fresh five-dir grep (Anne H. Chow / Anne Chow / Chow variants) returns only [[works/taiwaneseamericanhistory-org/whos-who-1981-anne-h-chow|Who's Who 1981]] + sources index. Chow/Chou hits in ourjourneys60/81 are Annette Lu, Grace Wu Chou, Suy-Ming Chou — different people. Verified-saturated — SKIP stands.

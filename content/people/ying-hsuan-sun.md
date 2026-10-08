@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Ying-Hsuan Sun (孫英玄)
 
@@ -59,3 +59,5 @@ SKIP-with-reason: corpus scan of `works/` and `articles/` found no primary commu
 <!-- deepen-x 09261100-16: re-verified 2026-10-01 — fresh grep (ZH+EN) of content/works+content/articles: hits only own TAH record #1325 + works/index rollup. SKIP stands, nothing absorbable. -->
 
 <!-- deepen-x 10051918-11: re-verified 2026-10-07 — fresh grep (孫英玄 / Ying-Hsuan / 英玄 / Sun surname sweep) across all five corpus dirs (works/articles/sources/events/topics): hits only own TAH record #1325 + index rollups. SKIP stands, nothing absorbable. -->
+
+- 2026-10-08 re-sweep (slice 10070500-24): fresh five-dir grep (孫英玄 / Ying-Hsuan Sun / Yinghsuan variants) returns only own record [[works/taiwaneseamericanhistory-org/whoswho1325|TAH record #1325]] + index rollups. The Ying-hsuan hit in [[works/taiwaneseamericanhistory-org/ourjourneys38-eng|Our Journeys 38]] is Ying-hsuan Hsieh, a 1970s TAFNC activist (different person). Verified-saturated — SKIP stands.

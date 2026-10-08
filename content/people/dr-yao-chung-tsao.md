@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Yao-Chung Tsao (卓耀宗博士)
 
@@ -51,3 +51,5 @@ A recipient of Alexander C. Williams, Jr Award from Human Factors and Ergonomics
 
 - 2026-10-01 re-sweep (slice 09261341-9): fresh ZH+EN grep for 卓耀宗 / Yao-Chung Tsao across works/ + articles/ returns only record 756 (already linked) + works/index. Corpus-saturated — SKIP stands.
 - 2026-10-07 re-sweep (slice 10051948-3): fresh ZH+EN grep across all five corpus dirs (works/articles/sources/events/topics) returns only own record [[works/taiwaneseamericanhistory-org/756-dr-yao-chung-tsao-e5-8d-93-e8-80-80-e5-ae-97-201601|record 756]] + sources index. Substring 耀宗 hits disambiguate to different people — 陳耀宗 (UT Austin MBA, co-founder 東田納西台灣同鄉會, [[works/taiwaneseamericanhistory-org/ourjourneys239|Our Journeys 239]]) and 柯耀宗/Daniel Ko ([[works/taiwaneseamericanhistory-org/ota-299|OTA #299]], [[works/taiwaneseamericanhistory-org/publications-1373|pub 1373]]) — not this Dr. Yao-Chung Tsao. Verified-saturated — SKIP stands.
+
+- 2026-10-08 re-sweep (slice 10070500-24): fresh five-dir grep (卓耀宗 / Yao-Chung / Yaochung variants across works/articles/sources/events/topics) returns only own record [[works/taiwaneseamericanhistory-org/756-dr-yao-chung-tsao-e5-8d-93-e8-80-80-e5-ae-97-201601|record 756]] + sources index. Tsao-surname hits disambiguate to different people (Chin-Hui Tsao 曹錦輝, Rocky/Yung-kai/Daphne Tsao). Verified-saturated — SKIP stands.
