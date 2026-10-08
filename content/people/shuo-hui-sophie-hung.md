@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Shuo-Hui Sophie Hung (洪碩徽)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09261100-26: re-verified 2026-10-01 — fresh full-corpus ZH+EN grep (洪碩徽/Shuo-Hui/Sophie Hung) of content/works + content/articles hits only musician145 + whoswho1226 + works index, all already wikilinked above. Verified-saturated; nothing new absorbable, no conflicts. -->
 <!-- deepen-x 10051400-6: re-verified 2026-10-07 — fresh full-corpus ZH+EN grep (洪碩徽/Shuo-Hui/Sophie Hung) of works/articles/sources/events/topics returns only musician145 + whoswho1226 + index + source page, all already wikilinked above. Saturated, nothing new absorbable, no conflicts. -->
+<!-- deepen-x 10070315-13: re-verified 2026-10-08 — fresh full-corpus ZH+EN grep (洪碩徽 / Shuo-Hui / Sophie Hung) of works/articles/sources/events/topics returns only musician145 + whoswho1226 + index + source page, all already wikilinked above. Verified-saturated, nothing new absorbable, no conflicts. -->
