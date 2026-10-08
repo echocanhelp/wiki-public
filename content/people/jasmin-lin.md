@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Jasmin Lin (林允白)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10070315-5 (2026-10-08): re-verified — fresh ZH+EN grep (林允白/Jasmin Lin/Jasmine Lin) across works/articles/sources/events/topics returns only #479, #230 plus works-index/source-hub rollups; no new memoir or article narrative. Romanisation HOLD (Jasmin vs Jasmine) and publication-date HOLD (title 2017/05 vs record 2015-07-05) both stand. Verified-saturated, SKIP. -->

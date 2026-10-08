@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # ALEXANDER M. LEE (李豪台)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified 2026-10-01 (deepen-x slice 09261000-10): fresh full-corpus ZH+EN grep (`李豪台|ALEXANDER M. LEE|Alexander M. Lee|Alex Lee`, regex-escaped) across content/works + content/articles returns the identical hit set — TAH #46, #611, works/index.md, and the 2022-08-15 臺灣Justice article. Re-read #611 this pass: it is a **bibliographic-record-only** stub ("Bibliographic record only. Full text stays in the vault") whose `## Subjects` block already names this page, so the title/slug mismatch with David Ti 戴金星 stays HOLD, not merged. The 2022 Alex Lee remains **李天明**, the CA assemblyperson — not this NJ lawyer. Verified saturated; nothing new absorbable.
+<!-- deepen-x slice 10070315-5 (2026-10-08): re-verified — fresh ZH+EN grep (李豪台/ALEXANDER M. LEE/Alexander Lee) across works/articles/sources/events/topics returns the identical hit set: TAH #46, #611 (bibliographic-record stub; title/slug David Ti 戴金星 mismatch stays HOLD), works index, source hub. No new corpus material; the 2022 Alex Lee 李天明 CA-assemblyperson disambiguation stands. Verified-saturated, SKIP. -->

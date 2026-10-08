@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Linda Wang (王琳琦)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 10051340-29 (2026-10-07): re-verified — fresh ZH+EN+variant+surname-only grep across works/articles/sources/events/topics (王琳琦/Linda Wang/琳琦) returns only own already-linked records (#362, #1278, ourjourneys301) + index rollup; verified-saturated, nothing absorbable; no conflicts. -->
+<!-- deepen-x slice 10070315-5 (2026-10-08): re-verified — fresh ZH+EN+variant grep (王琳琦/Linda Wang/琳琦) across works/articles/sources/events/topics returns only own already-linked records (#362, #1278, ourjourneys301) + index/source-hub rollups; all absorbed. TUF Juilliard-scholarship memoir fact (ourjourneys301, 林衡哲) and its Geneva-win/USC-dates HOLD stand. Verified-saturated, SKIP. -->

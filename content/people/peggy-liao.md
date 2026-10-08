@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Peggy Liao (廖碧玉)
 
@@ -58,3 +58,4 @@ last_reviewed: 2026-10-07
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10070315-5 (2026-10-08): re-verified — fresh ZH+EN+surname-only grep (廖碧玉/Peggy Liao/碧玉) across works/articles/sources/events/topics returns only own records #79 + #257 plus works-index/source-hub rollups; surname-only hits are different people (林碧玉 of the 聖東生活座談會 roster in ourjourneys212, 黃碧玉 in ourjourneys102, Peggy Cooley in whos-who-2161), none is this Peggy Liao. Verified-saturated, SKIP, no conflicts. -->
