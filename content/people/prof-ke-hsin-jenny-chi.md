@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Ke-Hsin Jenny Chi (紀可欣教授)
 
@@ -49,3 +49,4 @@ _SKIP-with-reason (deepen-x 0917-25; re-grepped slices 09171100-11, 09180200-31)
 <!-- deepen-x 09231200-21: re-verify — fresh ZH+EN grep of works/+articles/; hit set identical to prior passes, all hits already linked; no new absorbable corpus facts. -->
 <!-- deepen-x slice 09261100-19 recheck 2026-10-01: SKIP — fresh ZH+EN grep of content/works + content/articles returned only own TAH #1986 record + the Jenny Chiu 邱正鵑 disambiguation hit (different person, already handled above) + index entries; no new memoir or third-party material. -->
 <!-- deepen-x slice 10051918-17 (2026-10-07): fresh grep (紀可欣/Ke-Hsin/可欣) across all five corpus dirs -> 紀可欣 hits only own TAH #1986 record + index; loose variants match unrelated taiwanjustice music essays (許石音樂圖書館/Liszt recital columns). SKIP re-verified. -->
+<!-- deepen-x slice 10070500-29 recheck 2026-10-08: SKIP — fresh grep (紀可欣/Ke-Hsin/可欣) across all five corpus dirs returns only own record [[works/taiwaneseamericanhistory-org/whos-who-1986-ke-hsin-chi|TAH #1986]] + index rows; loose 可欣 variants match unrelated taiwanjustice music-essay columns (許石音樂圖書館/Liszt/Einstein pieces). Verified-saturated. -->
