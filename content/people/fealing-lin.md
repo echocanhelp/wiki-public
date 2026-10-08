@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Fealing Lin (林暉怜)
 
@@ -29,6 +29,7 @@ Award-winning watercolorist, Fealing Lin of San Marino, California, was born in 
 ## Corpus Check
 
 - 2026-09-18 deepen-x: the only corpus hits are her own TAH bibliographic records — [[works/taiwaneseamericanhistory-org/whoswho1104|1104. Fealing Lin 林暉怜]] and [[works/taiwaneseamericanhistory-org/artist11|11. 林暉怜 Fealing Lin]] — both band-B bibliographic records only (full text stays in the vault); no memoir/corpus prose to absorb (SKIP).
+- 2026-10-08 deepen-x: she appears as a community adjacency in [[people/jack-j-jou|Jack J. Jou]]'s record — both preserved in the same TAH artist series (Jou #12, Lin #11), i.e. documented together in the foundation's Taiwanese American artistic record.
 
 ## Family
 

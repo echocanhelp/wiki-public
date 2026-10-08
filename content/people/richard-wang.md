@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Richard Wang
 
@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- DEEPEN-X SKIP 2026-10-07 (slice 10051400-24 re-verify): fresh grep (Richard Wang) across works/articles/sources/events/topics returned only own record whoswho1605, the works index, the source page, and the TACL 25-year legacy article — all facts already absorbed in Role in the Community. No new corpus material. -->
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070315-30 re-verify): fresh grep (Richard Wang) across works/articles/sources/events/topics matched only own record whoswho1605, works/index, the TACL 25-year legacy article, and sources/taiwaneseamericanhistory-org — all already absorbed. No new corpus material. -->
