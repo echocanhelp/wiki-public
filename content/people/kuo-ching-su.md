@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Kuo-Ching Su (蘇國慶)
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-10-06
 <!-- deepen-x 09250600-3: re-verify — fresh ZH+EN grep of works/+articles/; hit set identical to prior passes, all hits already linked; no new absorbable corpus facts. -->
 <!-- deepen-x slice 09261100-30 recheck 2026-10-01: SKIP — fresh ZH+EN grep of works/+articles re-run; hit sets identical to prior passes (all hits already linked; 蘇國慶 article hit = same 同名戲曲演員 HOLD, already recorded). No new absorbable corpus facts. -->
 <!-- deepen-x slice 10051200-31 recheck 2026-10-06: SKIP — fresh ZH+EN grep across works/articles/sources/events/topics; hit set identical to prior passes (own TAH #348/#569 records + works index + source hub + the same 同名戲曲演員 taiwanjustice-net article covered by the existing HOLD). No new absorbable corpus facts. -->
+<!-- deepen-x slice 10062334-11 recheck 2026-10-08: SKIP — fresh ZH+EN grep (蘇國慶/Kuo-Ching Su) across works/articles/sources/events/topics returns the identical hit set: own TAH #348 profile + #569 山居筆記 record + index/source hubs, plus the single taiwanjustice-net 2020 苗栗文藝得獎 article already covered by the existing 同名戲曲演員 HOLD. No new absorbable corpus facts. -->
