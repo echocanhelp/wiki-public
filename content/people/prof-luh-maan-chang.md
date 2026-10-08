@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Prof. Luh-Maan Chang (張陸滿教授)
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09250600-18: re-verified 2026-09-25 — fresh ZH+EN grep of content/works + content/articles returns the same hit set already linked on-page; SKIP-with-reason, nothing new absorbable. -->
+
+- deepen-x recheck 2026-10-08 (slice 10070600-10): fresh ZH+EN grep (Luh-Maan / 張陸滿 / 陸滿) across all five corpus dirs matched only his own record #2203 + the indexes — verified-saturated, nothing absorbable.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Dr. Po-Chun Chen (陳柏均博士)
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whos-who-2146-po-chun-chen|2146. Dr. Po-Chun Chen 陳柏均博士]] — TAH Who's Who record (2018-07-10)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- deepen-x recheck 2026-10-08 (slice 10070600-10): fresh grep (Po-Chun / 陳柏均 / 柏均) across all five corpus dirs returns only his own record #2146, the indexes, and the 總統文化獎 coverage naming HRC舞蹈工作室創辦人陳柏均 already under HOLD above — conflict still held, no merge; nothing new absorbable.

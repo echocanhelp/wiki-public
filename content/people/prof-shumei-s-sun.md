@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Shumei S. Sun
 
@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- deepen-x recheck 2026-10-08 (slice 10070600-10): fresh ZH+EN grep (Shumei / 孫淑眉 / 淑眉) across works/articles/sources/events/topics matched only her own record #2003 + the works/sources indexes — verified-saturated, nothing absorbable.
