@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Sam Huang (黃興貫)
 
@@ -54,3 +54,4 @@ _Disambiguation: TAH Who's Who #2251 "Dr. Sam Huang" is 黃森茂, a different p
 <!-- deepen-x 09231200-7: re-verified 2026-09-25 — fresh ZH+EN corpus grep hit set identical to records already absorbed above; no new material. -->
 - Re-verified 2026-10-01 (slice 09261100-17): SKIP — fresh ZH+EN grep (黃興貫 / Sam Huang) returns the same set — own #1240, the 2016 遊行記 #232, and the #2251 黃森茂 disambiguation — all already absorbed; verified-saturated, nothing new absorbable.
 <!-- deepen-x 09261100-17: verified-saturated 2026-10-01; disambiguation HOLD (黃興貫 #1240 vs 黃森茂 #2251) and family-name HOLD (黃康玲 vs 黃康妮) both intact. -->
+<!-- deepen-x 10062334-7: re-grep 2026-10-08 — fresh ZH+EN grep across works/articles/sources/events/topics: hit set identical to prior passes (own #1240, ourjourneys232 2016 遊行記, #2251 黃森茂 disambig, index); all absorbed+wikilinked. Verified-saturated; SKIP-no-new-facts. -->

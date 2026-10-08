@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-08
 ---
 # John Chang (張景祥牧師)
 
@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
+<!-- deepen-x 10062334-7: re-grep 2026-10-08 — fresh ZH+EN grep across all corpus dirs: hit set identical (own bio 943, the two church work records, Audubon 57 / 55 Taiwan Independence Cup / 2 Presented by Dr. John Chang under ambiguity HOLD, index). Verified-saturated; SKIP-no-new-facts. -->
