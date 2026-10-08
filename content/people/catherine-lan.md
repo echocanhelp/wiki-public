@@ -7,13 +7,15 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Catherine Lan (藍巧茹)
 
 ## Role in the Community
 - Self-submitted her profile to the TAH Foundation Who's Who encyclopedia; the community record is held at [[works/taiwaneseamericanhistory-org/whswho1590|1590. Catherine Lan 藍巧茹 (2017/03)]] (band B story record, published 2017-03-29).
+- **TAAC 2016 Art Benefit GALA (台美文藝協會藝術募款盛宴, Flushing NY, 2016-09-22)** — named among the 14 New York artists invited to contribute works for on-site installation, exhibition, and purchase by donors: see [[works/taiwaneseamericanhistory-org/projects3-52|52. TAAC 2016 Art Benefit GALA]].
 - Corpus record positions her as a Taipei-born artist and teaching artist documenting the Taiwanese American art-education community; no further memoir/essay text in the corpus (bibliographic record only — full text stays in the TAH vault).
+- First arrival in the U.S.: New York, NY; residence New York, NY (TAH profile fields). Source line on her profile reads "Source from Taiwanese American Arts Council" — consistent with the TAAC gala roster link above.
 
 ## Identity Snapshot
 - **English:** Catherine Lan

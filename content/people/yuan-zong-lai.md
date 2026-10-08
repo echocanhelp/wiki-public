@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Yuan Zong Lai (賴元榮)
 
@@ -43,3 +43,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- DEEPEN-X SKIP 2026-10-07 (slice 10052007-28 re-verify): five-dir greps (賴元榮 / Yuan Zong Lai / 元榮) return only own record [[works/taiwaneseamericanhistory-org/411-yuan-zong-lai-e8-b3-b4-e5-85-83-e6-a6-ae-201505|TAH #411]], works index, and sources registry; 元榮 hits are 呂元榮 (僑委會副委員長, different person) and 胡乃元榮獲 substring noise. Verified-saturated. -->
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070700-16 re-verify): five-dir greps (賴元榮 / Yuan Zong Lai / 元榮) + vault web-archives sweep return only own record [[works/taiwaneseamericanhistory-org/411-yuan-zong-lai-e8-b3-b4-e5-85-83-e6-a6-ae-201505|TAH #411]] + index/source rows; 元榮 hits re-confirmed as 呂元榮 (僑委會副委員長, different person — appears alongside 陳建仁 in taiwanjustice-net 2022-11-27) and 胡乃元榮獲 substring noise. Profile JSON adds only residence Fayetteville NY. Verified-saturated. -->

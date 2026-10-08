@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-08
 ---
 # Prof. Ta-Chiang Liu (劉大強教授)
 
@@ -50,3 +50,4 @@ Corpus re-check (2026-09-25, deepen-x slices 09231300-31 and 09250600-25): fresh
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070700-16 re-verify): five-dir greps (劉大強 / Ta-Chiang Liu / 大強) + vault web-archives sweep return only own record [[works/taiwaneseamericanhistory-org/whos-who-2122-ta-chiang-liu|TAH #2122]] + index/source rows; 大強 hits re-confirmed as substring noise (兩大強權 etc. in taiwanjustice-net news articles). No community/memoir material. Verified-saturated. -->
