@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Chiao-jung Wang (王巧蓉)
 
@@ -35,6 +35,7 @@ last_reviewed: 2026-10-06
 - Re-check 2026-09-25 (slice 09231100-12; fresh grep 王巧蓉 / Chiao-jung Wang): corpus hits are exactly the four works already wikilinked above (ourjourneys228, mystories539, ourjourneys-138, whoswho1712) plus the works index — verified-saturated, no new absorbable testimony.
 - Re-check 2026-09-26 (slice 09252123-28; fresh grep 王巧蓉 / Chiao-jung Wang): identical hit set — verified-saturated, no new absorbable testimony.
 - Re-check 2026-10-06 (slice 10051143-25): fresh ZH+EN grep across works/articles/sources/events/topics — hit set unchanged (ourjourneys228, mystories539, ourjourneys-138, whoswho1712 + index/hub links). New material absorbed this pass: the ourjourneys-138 roster entry read in full context — she is listed as **2001 Vice-President** of TAA Greater Washington Chapter (not merely a supporter name), upgraded above.
+- Re-check 2026-10-08 (slice 10062218-1): fresh grep 王巧蓉 / Chiao-jung Wang / alias "Chiao Jung Wang" (unhyphenated roster spelling, appears only in ourjourneys-138) across works/articles/sources/events/topics — hit set identical (ourjourneys228, mystories539, ourjourneys-138, whoswho1712). Verified-saturated; no new corpus facts.
 
 ## Family
 

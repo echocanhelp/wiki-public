@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # J. H. Liang (梁見後)
 
@@ -40,6 +40,7 @@ last_reviewed: 2026-10-06
 - 補充：美超市值生成式AI浪潮，市值由約44億美元推升至2025年3月的約670億美元；路透社審閱招標文件發現中國實體透過經銷商取得美超微伺服器內嵌的輝達高階晶片（同上 2025-11-07 報導）。
 
 > Re-verified 2026-10-06 (deepen-x slice 10051200-7): fresh grep (梁見後|J. H. Liang|美超微) across works/articles/sources/events/topics — the 2025-11-07 Hindenburg/DOJ piece is new material, absorbed above; all other hits (whoswho1570, ourjourneys19, 立報 2025-03-28 / 2025-10-08) already linked. No new memoir material.
+> Re-verified 2026-10-08 (deepen-x slice 10062218-1): fresh grep (梁見後|J. H. Liang|Supermicro|美超微) across works/articles/sources/events/topics — hit set unchanged (whoswho1570, ourjourneys19, 立報 2025-03-28 / 2025-10-08 / 2025-11-07); no new corpus facts.
 
 ## Family
 
