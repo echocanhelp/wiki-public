@@ -7,8 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
+<!-- deepen-x slice 10070400-3: SKIP re-verified 2026-10-08 — fresh greps (徐麗芬 / 麗芬 / Monica Hsu) across all five corpus dirs: hits = own #19 record + publications1043 calendar (both linked above) + index/source listings. Near-miss ruled out: 李麗芬 (衛福部政務次長, TJC WHA articles) is a different person. Nothing absorbable. -->
 # Monica Hsu (徐麗芬)
 
 ## Identity Snapshot

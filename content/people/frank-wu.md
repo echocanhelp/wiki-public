@@ -7,8 +7,9 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
+<!-- deepen-x slice 10070400-3: SKIP re-verified 2026-10-08 — fresh greps (吳登鈐 / 登鈐 / Frank Wu) across all five corpus dirs: exact-ZH hits = own whos-frank-wu record + index/source listings only. HOLD stands: #846 Frank Wu 吳哲民 is a different person, never merge on EN name. -->
 # Frank Wu (吳登鈐博士)
 
 ## Identity Snapshot
