@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Joseph Lin (林以信)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-26 (slice 09251527-8): hit set again unchanged (#299/#650, winners31 總統學者獎 1996, #1236 林永青 HOLD, works index) — verified saturated; SKIP-with-nothing-absorbable.
 
 <!-- deepen-x 10051200-2 (2026-10-06): fresh ZH+EN grep of works/ + articles/ returns own profiles #299/#650, winners31 總統學者獎 1996, #1236 林永青 HOLD, sources index — identical hit set; verified-saturated, SKIP-with-reason. -->
+<!-- deepen-x 10060958-1 (2026-10-08): fresh ZH+EN grep across works/articles/sources/events/topics returns #299/#650, winners31, #1236 林永青 HOLD, works+sources index — identical hit set; alias sweep (Juilliard/朱利亞/弦樂四重奏) hits (ourjourneys339, ff13, ourjourneys123) contain no 林以信/Joseph Lin mention — verified-saturated, SKIP-with-reason. -->

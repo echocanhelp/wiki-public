@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Qun Tsai (蔡昆)
 
@@ -31,6 +31,7 @@ last_reviewed: 2026-10-06
 ## Role in the Community
 - Preserved family history first-hand: 蔡昆 gathered the whole family and used a Video camera to record his own oral account of his experiences in Japan, including WWII Allied air raids; the family turned the recording into DVDs distributed to each household for preservation. His son 蔡靜輝教授 reported this family method at the 台美人檔案座談會 at the 2015 US-South Summer Camp in Dallas ([[works/taiwaneseamericanhistory-org/ourjourneys155|155. 台美人檔案座談會/2015美南夏令會]]).
 - His own TAH oral-history records exist in the corpus: [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-33|33. Qun Tsai (蔡昆)]] (2019) and [[works/taiwaneseamericanhistory-org/whos-who-2121|2121. Qun Tsai 蔡昆/06/2018]].
+- The family's story-telling continues in the next generation: his son 蔡靜輝 has his own corpus story [[works/taiwaneseamericanhistory-org/my-stories-705|705. 阮的多桑 / 蔡靜輝 / 10-2019]] (2019-10-15) — author identified via the family page's 靜輝 listing; the work's own page does not name 蔡昆 as a subject (bibliographic record only), so no relationship claim beyond authorship is made.
 - HOLD: the press-kit snapshot lists "Era: 1919" with no corroborating corpus source; treat birth year as unverified.
 
 ## Family
@@ -58,3 +59,4 @@ Corpus re-check (deepen-x 09231000-12, 2026-09-25): fresh grep of works/ + artic
 <!-- deepen-x 09251527-16 (2026-09-26): fresh grep (蔡昆/Qun Tsai) returns only ourjourneys155 (absorbed), own records (senior-taiwanese-american-33, whos-who-2121), works index — verified-saturated, SKIP-with-reason. -->
 
 <!-- deepen-x 10051200-2 (2026-10-06): fresh ZH+EN grep returns only ourjourneys155 (absorbed), own records (senior-taiwanese-american-33, whos-who-2121), sources index — verified-saturated, SKIP-with-reason. -->
+<!-- deepen-x 10060958-1 (2026-10-08): DEEPENED — surname sweep (靜輝) surfaced my-stories-705 (阮的多桑 / 蔡靜輝 / 2019-10-15), a new corpus work by the son already listed on this page; absorbed into Role in the Community with wikilink, relationship claim limited to authorship (work page names no subjects). All other hits unchanged — verified otherwise saturated. -->

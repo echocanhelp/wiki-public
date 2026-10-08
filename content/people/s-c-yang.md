@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # S. C. Yang (楊淑卿)
 
@@ -55,3 +55,4 @@ last_reviewed: 2026-10-06
 <!-- deepen-x slice 09251527-17 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/ + articles/ hit set identical to prior absorption (own TAH record + works index only); nothing new absorbable; verified saturated. -->
 
 <!-- deepen-x 10051200-2 (2026-10-06): fresh ZH+EN grep returns own record whos-s-c-yang, mystories267, sources index — identical hit set; verified-saturated, SKIP-with-reason. -->
+<!-- deepen-x 10060958-1 (2026-10-08): fresh ZH+EN grep across all five corpus dirs returns own record whos-s-c-yang, mystories267, works+sources index — identical hit set; alias sweep (固德/黃再添) hits are husband Patrick Huang's own records (193, ff52, mystories48, ourjourneys12/27) with no new 楊淑卿 material — verified-saturated, SKIP-with-reason. -->

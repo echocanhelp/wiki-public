@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Y. S. Huang (黃炎松)
 
@@ -55,3 +55,4 @@ HOLD: conflict on Chinese name — this page and TAH #1074 say 黃炎松, while 
 <!-- deepen-x 09251527-15: SKIP re-verified 2026-09-26 — fresh ZH+EN grep returns #1962, #1074, OJ#19, index — identical hit set; HOLD on 黃炎松 vs 黃永勝 stands. -->
 
 <!-- deepen-x 10051200-2 (2026-10-06): fresh ZH+EN grep returns #1962 黃永勝, #1074, Our Journeys #19, plus taiwanjustice 油脂與人體健康 lecture by 黃永勝博士 (third person, health lecturer) — HOLD on 黃炎松 vs 黃永勝 stands; verified-saturated, SKIP-with-reason. -->
+<!-- deepen-x 10060958-1 (2026-10-08): fresh ZH+EN+surname (炎松/永勝) grep across all five corpus dirs returns #1962, #1074, OJ#19, index, plus the same taiwanjustice 黃永勝 lecture record — identical hit set; alias sweep (ECAD/Pic Design/Quickturn) adds only publications-1103 (NATPA decade review, no 黃炎松 mention) — verified-saturated, SKIP-with-reason; HOLD stands. -->
