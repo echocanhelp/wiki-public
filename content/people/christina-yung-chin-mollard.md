@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Christina Yung-Chin Mollard (謝永芹)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09250317-15 (2026-09-25): re-verified — fresh grep 謝永芹/Mollard/Yung-Chin hit set unchanged (own #26 + #1058 + works index); verified-saturated. SKIP. -->
 <!-- deepen-x slice 09251500-5 (2026-09-26): re-verified — fresh grep 謝永芹/Mollard/Yung-Chin hit set unchanged (own #26 + #1058 + works index); verified-saturated. SKIP. -->
 <!-- deepen-x slice 10051340-26 (2026-10-07): SKIP re-verified — fresh grep (謝永芹 / Mollard / Yung-Chin / 永芹) across all five corpus dirs returns only own #26 (maiden name Hsieh) + #1058 records + index/source. Verified-saturated, nothing new absorbable. -->
+<!-- deepen-x slice 10070315-3 (2026-10-08): SKIP re-verified — fresh grep (謝永芹 / Mollard / Yung-Chin / 永芹) across all five corpus dirs returns only own #26 (maiden name Hsieh) + #1058 records + works/sources index hubs. Verified-saturated, nothing new absorbable. -->

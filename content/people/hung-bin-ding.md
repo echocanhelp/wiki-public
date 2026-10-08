@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Hung-bin Ding (丁弘彬)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 
 > Corpus re-grep 2026-10-01 (slice 09260900-32): fresh ZH+EN grep of works/ + articles/ — hit set identical to prior slices (own TAH record + works index + already-linked article/memoir pages); verified-saturated, SKIP-with-reason, no new absorbable material.
 > Corpus re-grep 2026-10-07 (slice 10051340-27): wide ZH+EN+surname grep across works/ + articles/ + sources/ + events/ + topics/ — hit set identical to prior slices (own TAH #1048 record + works/sources index hubs + already-linked 姊妹市協會 article); verified-saturated, SKIP-with-reason; dateline HOLD (2025 filing vs 1121201) retained.
+> Corpus re-grep 2026-10-08 (slice 10070315-3): fresh ZH+EN+surname grep across all five corpus dirs — hit set identical again (TAH #1048 + works/sources index hubs + already-linked 姊妹市協會 article); verified-saturated, SKIP-with-reason, nothing new absorbable; dateline HOLD retained.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Tiffany Ma (馬翊庭)
 
@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x slice 10051340-32 (2026-10-07): fresh ZH+EN grep across works/articles/sources/events/topics — hit set unchanged (own TAH #2072 record, works index, sources hub, TJJ/CNA 2020-09-22 article beff9b8cd9711c3d with the Bower Group Asia quote — all already cited). Other Bower/Project 2049 hits in TJJ articles are 薛瑞福 et al. context, not this person. Verified-saturated; SKIP, nothing absorbable. -->
 <!-- TJJ-A10060600-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-5 article beff9b8cd9711c3d (2020全球最佳領導人 彭博盛讚蔡英文, 2020-09-22): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- deepen-x slice 10070315-3 (2026-10-08): fresh ZH+EN grep across works/articles/sources/events/topics — hit set unchanged (own TAH #2072 record, works index, sources hub, TJJ/CNA 2020-09-22 article beff9b8cd9711c3d with the Bower Group Asia quote — all already cited); verified-saturated, SKIP, nothing absorbable. -->
