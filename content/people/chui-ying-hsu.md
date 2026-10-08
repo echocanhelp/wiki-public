@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chui Ying Hsu (黃翠英)
 
@@ -48,3 +48,4 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x re-verified SKIP 2026-10-01 (slice 09261400-8): fresh ZH+EN grep (works+articles) -> own record stubs + works index only; no memoir/newsletter material beyond them; taiwanjustice 2022 王自立 = Air Force officer, conflict already HOLDed. Nothing absorbable. -->
 <!-- deepen-x slice 10051909-4 2026-10-07: deepened — husband 許盛男 memoir-corpus context absorbed (ourjourneys9 founding president 紐約紐澤西台灣人社團聯合會; FAPA #174/#176). -->
+<!-- deepen-x slice 10070400-8 2026-10-08: SKIP re-check — fresh ZH+EN grep returned own TAH #309 stub, works index, and husband-side records already cited above (nothing new). '翠英' substring hits are different people (劉翠英, 財務副總會長 全美中文學校聯合總會/佛州, in taiwanjustice 2021/2025 articles; 宋翠英, 蔣經國基金會主任秘書, in taiwanjustice 2022) — no relation, do not merge. Verified-saturated. -->

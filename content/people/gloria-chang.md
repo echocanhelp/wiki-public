@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Gloria Chang
 
@@ -47,3 +47,4 @@ Note (2026-09-25): [[works/taiwaneseamericanhistory-org/ourjourneys2|2. 《台�
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 10051400-32: re-verify 2026-10-07 — fresh ZH+EN grep (Gloria Chang / 張信行 / 黃美星) across works/articles/sources/events/topics: hit set identical to prior passes — own who830 record, parental records 199/195/558, family memoirs (ourjourneys53/24-eng) all already cited; other Gloria hits are different people (Chien/Chuang/Shaw/Chen). Verified-saturated, SKIP content-deepen. -->
+<!-- deepen-x slice 10070400-8 2026-10-08: SKIP re-check — fresh EN grep (Gloria Chang / Gloria; plus 張信行 / 黃美星) across works/articles/sources/events/topics: hit set identical to prior passes — own who830 record, parental records 199/195/558, family memoirs (ourjourneys53/24-eng) all already cited. Other Gloria hits are different people (Gloria Chao, Gloria Hu, Gloria Hsieh Garver, Gloria Star children's choir, Sister Mary Gloria in ourjourneys2). Verified-saturated, SKIP content-deepen. -->

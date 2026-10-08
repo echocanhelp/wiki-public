@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # A. N. Liu (劉安諾)
 
@@ -43,6 +43,7 @@ Accomplishment
 - Corpus re-grep 2026-09-25 (slice 09240500-29): hit set unchanged — only own record + works index. SKIP-deepen: verified saturated.
 - Corpus re-grep 2026-09-26 (slice-19): hit set unchanged — only own record [[works/taiwaneseamericanhistory-org/whos-who-1865-a-n-liu|TAH #1865]] + works index. SKIP-deepen: verified saturated.
 - Corpus re-grep 2026-10-07 (deepen-x slice 10051400-31): fresh ZH+EN grep across works/articles/sources/events/topics returns only own record + works index; other 安諾 substring hits are unrelated people (吉里巴斯總統湯安諾, 馬克安諾/J. McEnroe, 安諾斯·拉斯穆森). SKIP-deepen: verified saturated.
+- Corpus re-grep 2026-10-08 (deepen-x slice 10070400-8): fresh ZH+EN grep across works/articles/sources/events/topics returns only own record [[works/taiwaneseamericanhistory-org/whos-who-1865-a-n-liu|TAH #1865]], adjacent husband record [[works/taiwaneseamericanhistory-org/whoswho1866|TAH #1866 S. B. Liu 劉西北]] (same 2017-08-22 batch), and works index. '安諾' substring hits remain unrelated (吉里巴斯總統湯安諾, 馬克安諾/J. McEnroe, 安諾斯·拉斯穆森); '西北' hits are TANLA/NATMA chapter text and 台大/休大 degree lines, not 劉西北. SKIP-deepen: verified saturated.
 
 ## Sources
 - [TAH #1865 encyclopedia: 1865. A. N. Liu 劉安諾](https://taiwaneseamericanhistory.org/whos-who-1865-a-n-liu/)
