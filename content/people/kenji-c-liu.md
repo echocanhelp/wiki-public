@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Kenji C. Liu
 
@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09251527-10: re-verify 2026-09-26 — fresh ZH+EN grep (works+articles): hit set identical to prior slices, all already absorbed. Verified saturated; SKIP-no-new-facts. -->
 
 Corpus re-grep 2026-10-06 (slice 10051200-24): fresh grep Kenji across works/articles/sources/events/topics returns the same set — whoswho904, his own TaiwaneseAmerican.org interview, the Leona Chen citation, index listings. No new memoir mentions. Verified saturated; SKIP-content.
+
+Corpus re-grep 2026-10-08 (slice 10062248-4): fresh grep Kenji across works/articles/sources/events/topics returns the identical set (whoswho904, his own interview, Leona Chen citation, index/source hubs); surname-only 劉 sweep returns unrelated Liu/Yau/Lin families only. Verified saturated; SKIP-content.

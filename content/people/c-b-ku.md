@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # C. B. Ku (辜澄彬)
 
@@ -42,4 +42,6 @@ C. B. Ku (辜澄彬) is listed in the TAH Foundation Who’s Who Taiwanese Ameri
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-25 deepen-x slice 09250400-29: fresh ZH+EN grep of works/+articles/ — hit set identical to prior passes (own whoswho record + index only, plus already-absorbed memoir/statement mentions). Verified saturated; nothing new absorbable.
 - 2026-09-26 deepen-x slice 09252123-16: fresh ZH+EN grep — hit set identical (ourjourneys09 memoir + whoswho1039 + index, all already absorbed); 華府台灣同鄉會四十週年特刊 subject listing re-confirmed. Verified saturated.
+Corpus re-grep 2026-10-08 (slice 10062248-4): fresh ZH+EN grep (辜澄彬／C. B. Ku) across works/articles/sources/events/topics returns the identical hit set — ourjourneys09 memoir (verbatim match: 1983-11-23 chairmanship, 副主委 with 蔡明峰, 地點工程組, $500k/6-month goal, 黃武東牧師 advisor), whoswho1039, works/index, sources hub. All already absorbed above. Verified saturated; nothing new absorbable.
+
 <!-- deepen-x slice 10051200-28 (2026-10-06): verified-saturated — fresh ZH+EN grep of works/+articles/+sources/+events/+topics: 辜澄彬 appears verbatim only in ourjourneys09 (黃再添 memoir, already absorbed: 1983-11-23 chairmanship, 副主委, 地點工程組) + whoswho1039 + index + sources hub. The other 辜-surname hits (ourjourneys311/81/282/357/368) are 辜寬敏/辜振甫/辜嘉勇 — different persons, correctly not attributed. Nothing new absorbable. -->
