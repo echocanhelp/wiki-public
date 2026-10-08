@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Peter Wang (王武聰牧師)
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10070700-12 2026-10-08: five-dir re-grep (王武聰 / Peter Wang / surname 王 variants) across works/articles/sources/events/topics — hits limited to own record whoswho1330 + index/source rows; no memoir/community material. SKIP. -->

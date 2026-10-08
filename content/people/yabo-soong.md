@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Yabo Soong (宋亞伯)
 
@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10070700-12 2026-10-08: five-dir re-grep (宋亞伯 / 宋冀康 / Yabo Soong / Soong surname) — only unrelated Soongs (宋盛照 whoswho1482, Soong Mei-ling in ourjourneys74, 宋依珊) plus own record + index rows; no memoir material. SKIP. -->
