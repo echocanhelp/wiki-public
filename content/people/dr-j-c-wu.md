@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. J. C. Wu (巫建嶔博士)
 
@@ -60,3 +60,5 @@ last_reviewed: 2026-10-07
 > Corpus re-grep 2026-10-01 (slice 09260900-32): fresh ZH+EN grep of works/ + articles/ — hit set identical to prior slices (own TAH record + works index + already-linked article/memoir pages); verified-saturated, SKIP-with-reason, no new absorbable material.
 
 > Corpus re-grep 2026-10-07 (slice 10051909-23): fresh ZH+EN+family-name grep (巫建嶔 / J. C. Wu / 巫英雄 / 張麗珠) across works/ + articles/ + sources/ + events/ + topics/ — hit set identical to prior slices (own TAH #1879 record + works index + source page only). Verified-saturated, SKIP, nothing new absorbable.
+
+> Corpus re-grep 2026-10-08 (slice 10070400-32): fresh ZH+EN grep across all five corpus dirs — hit set identical to prior slices (own [[works/taiwaneseamericanhistory-org/whos-who-1879-j-c-wu|TAH #1879]] record + sources rollup only). Verified-saturated, SKIP, nothing new absorbable.
