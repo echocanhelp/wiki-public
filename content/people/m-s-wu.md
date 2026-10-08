@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # M.S. Wu (吳銘賢博士)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-10-06
 <!-- deepen-x slice 09261300-11 recheck 2026-10-01: fresh ZH+EN grep (M.S. Wu / 吳銘賢) of works/+articles — hit set unchanged (ourjourneys26 piano sponsorship + ourjourneys162 2009-09-19 award, both already absorbed, + own record 881 + works/index digest line). No new corpus facts. SKIP-with-reason stands. -->
 
 <!-- deepen-x slice 10051200-32 recheck 2026-10-06: grep 吳銘賢/銘賢/M.S. Wu over all corpus dirs — hit set unchanged (ourjourneys26 piano sponsorship, ourjourneys162 2009-09-19 award, own record 881, sources index), all already absorbed. Verified saturated, SKIP-no-new-material. -->
+<!-- deepen-x slice 10062334-15 recheck 2026-10-08: fresh grep 吳銘賢/銘賢/M.S. Wu/Pacific Biotech/Wyntek across all corpus dirs — hit set unchanged (ourjourneys26, ourjourneys162, own record 881, index backlinks), all already absorbed. Saturated, SKIP-no-new-material. -->

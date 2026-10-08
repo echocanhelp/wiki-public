@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Ejen Chuang
 
@@ -51,3 +51,4 @@ Her cosplay documentation (published 2010, expanded 2015) is held in the corpus 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 # deepen-x slice 10051314-9: SKIP re-verified 2026-10-06 — fresh ZH+EN grep across works/articles/sources/events/topics returned only own record(s) + index backlinks; no new absorbable corpus material.
+# deepen-x slice 10062334-15: SKIP re-verified 2026-10-08 — fresh grep 'Ejen' across all corpus dirs: hits remain only her own works 1133/1132/1857 + sources hub + index backlinks, all already absorbed. Surname-only hits (Chuang) are distinct people (e.g. Tze-Jer Chuang, Henry Chuang) — HOLD: not this Ejen Chuang. No new material.

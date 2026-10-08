@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # W. D. Lee 李 (李武達)
 
@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09251031-28 recheck 2026-09-26: no new material — corpus hits remain ourjourneys110/ourjourneys110-eng roster + own whoswho1403, all already absorbed into Role in the Community. -->
 
 # deepen-x slice 10051314-9: SKIP re-verified 2026-10-06 — fresh ZH+EN grep across works/articles/sources/events/topics returned only own record(s) + index backlinks; no new absorbable corpus material.
+# deepen-x slice 10062334-15: SKIP re-verified 2026-10-08 — fresh grep 李武達/W. D. Lee/武達 across all corpus dirs: hits remain ourjourneys110(-eng) roster + own whoswho1403 + index backlinks, all already absorbed. One false positive: a taiwanjustice-net Intel article matched 武達 via 陳立武 (different person). No new material.
