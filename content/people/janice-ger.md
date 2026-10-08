@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Janice Ger (吳瑩瑛)
 
@@ -49,3 +49,4 @@ last_reviewed: 2026-10-06
 <!-- deepen-x 09250600-18: re-verified 2026-09-25 — fresh ZH+EN grep of content/works + content/articles returns the same hit set already linked on-page; SKIP-with-reason, nothing new absorbable. -->
 <!-- deepen-x 09261200-3: re-verified 2026-10-01 — repeat full grep (吳瑩瑛/Janice Ger) still returns only the four linked records + works index; 晚風習習木長青 and 父親的國畫之路 re-read (byline/title hits only, no new body facts). Still saturated. -->
 <!-- deepen-x 10051143-25: re-verified 2026-10-06 — fresh ZH+EN grep (吳瑩瑛/Janice Ger) across all corpus dirs returns only the four linked records (#625, mystories236, #386, hub); #386/#625 confirmed bibliographic-record-only (full text stays in vault), no body facts to absorb. Still saturated. -->
+<!-- deepen-x 10062218-4: re-verified 2026-10-08 — fresh ZH+EN grep (吳瑩瑛/Janice Ger) across all corpus dirs returns the same closed set (#625 晚風習習木長青, mystories236 父親的國畫之路, #386, #385 James Ger, hub/index); all already linked on-page. Still saturated, nothing absorbable. -->

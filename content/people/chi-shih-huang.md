@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Chi Shih Huang (黃及時)
 
@@ -54,3 +54,5 @@ last_reviewed: 2026-10-06
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-25 (deepen-x slice 09250500-3): works/+articles/ hit set identical to absorbed records above — SKIP (saturated, nothing new absorbable).
+
+Re-verified 2026-10-08 (deepen-x slice 10062218-4): fresh whole-corpus grep (黃及時/Chi Shih Huang) across works/articles/sources/events/topics returns the same closed set — own TAH record #1129, video interview #52, the 管碧玲 氣爆 座談 report (group-level 僑民 mention only), plus index/hub listings. No memoir or community-authored material names him individually. Still saturated, nothing absorbable.

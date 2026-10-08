@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # K. D. Wang (王康德)
 
@@ -44,3 +44,5 @@ K. D. Wang (王康德) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+Re-verified 2026-10-08 (deepen-x slice 10062218-4): fresh whole-corpus grep (王康德/K. D. Wang) across works/articles/sources/events/topics returns the same three records (publications-1372 王永宗家族口述, ourjourneys316 TASC 義工老師芳名錄, whos-who-1726) plus index/hub listings — all facts above already absorbed. Surname-only sweeps add unrelated 王姓 members. Still saturated, nothing absorbable.
