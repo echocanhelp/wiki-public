@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Shang-Fa Yang (楊祥發教授)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 10051400-32: re-verify 2026-10-07 — fresh ZH+EN grep (楊祥發 / Shang-Fa Yang) across all five corpus dirs: hit set identical to prior passes (own #1833 + #743 band-B records + index rows, both already cited above). Verified-saturated, SKIP content-deepen. Duplicate-page HOLD vs people/shang-fa-yang stands. -->
+<!-- deepen-x 10070400-10: re-verify 2026-10-08 — fresh grep (楊祥發 / Shang-Fa Yang / 祥發) across all five corpus dirs: hit set identical (own #1833 + #743 band-B records + index rows). Variant grep surfaced 吳祥發教授 in ourjourneys155 — DIFFERENT person (Wu, not Yang), false positive, not absorbed. Verified-saturated, SKIP content-deepen. Duplicate-page HOLD vs people/shang-fa-yang stands. -->

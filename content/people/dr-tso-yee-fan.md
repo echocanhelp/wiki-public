@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Tso-Yee Fan (范佐怡博士)
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09251031-19 2026-09-26: re-grep (范佐怡 / Tso-Yee Fan) — hit set identical: own record whos-who-2287 + works/index only. SKIP confirmed; nothing absorbable beyond TAH press-kit record. -->
 <!-- deepen-x slice 10051909-4 2026-10-07: deepened — father 范良政 memoir-corpus context absorbed (ourjourneys33/58); own-record grep (范佐怡/Tso-Yee Fan/范佐/佐怡) unchanged. -->
+<!-- deepen-x slice 10070400-10 2026-10-08: re-verify — fresh grep (范佐怡 / Tso-Yee Fan / 范佐 / 佐怡) across all five corpus dirs: hit set identical (own whos-who-2287 record + index rows only). Verified-saturated, SKIP content-deepen. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Y. C. Eric Shen (沈耀初教授)
 
@@ -46,3 +46,4 @@ Prof. Y. C. (Eric) Shen 沈耀初教授 – History of Taiwanese American (T.A. 
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09261100-25: re-verified 2026-10-01 — fresh ZH+EN grep (沈耀初 / Eric Shen / Y. C. Shen) returns only our-journeys-378 + own Who's Who #1825 + index, all already absorbed above. Nothing new absorbable. -->
 <!-- deepen-x 10051400-32: re-verify 2026-10-07 — fresh ZH+EN grep (沈耀初 / Eric Shen / Y. C. Shen) across all five corpus dirs: hit set identical to prior passes (our-journeys-378 + own whos-who-1825 + index rows, all already absorbed above). Verified-saturated, SKIP content-deepen. -->
+<!-- deepen-x 10070400-10: re-verify 2026-10-08 — fresh grep (沈耀初 / Eric Shen / Y. C. Shen / 耀初) across all five corpus dirs: hit set identical (our-journeys-378 + own whos-who-1825 + index rows, all already absorbed above). Verified-saturated, SKIP content-deepen. -->
