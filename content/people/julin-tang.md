@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Julin Tang (湯竹林)
 
@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070700-18: verified-saturated 2026-10-08 — five-dir grep (湯竹林 / Julin Tang / 竹林): exact-name hits = own TAH #1309 record + index + sources roster only. 竹林 substring hits are 謝竹林 (TAA/Oklahoma, ourjourneys296), bamboo-grove scenery/lyric mentions, and 竹林七賢 in a 王康 essay — none are this person. No absorbable facts. -->

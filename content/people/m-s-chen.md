@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # M.S. Chen (陳明憲)
 
@@ -46,3 +46,5 @@ Corpus check (re-verified 2026-09-25, slice 09232232-20): the only corpus record
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070700-18: verified-saturated 2026-10-08 — five-dir grep (陳明憲 / M.S. Chen / 明憲): exact-name hits = own TAH #849 record + index + sources roster only. 明憲 substring hits are 蔡明憲 (同鄉, our-journeys-392/ourjourneys66) and 高明憲 (婦癌教授) — different persons; 1615 陳茂山 HOLD stands. -->

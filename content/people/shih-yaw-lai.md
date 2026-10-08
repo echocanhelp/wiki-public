@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Shih Yaw Lai (賴世耀博士)
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070700-18: verified-saturated 2026-10-08 — five-dir grep (賴世耀 / Shih Yaw Lai / 世耀): hit set unchanged — own TAH #662 submission + works index + sources roster only. Nothing new absorbable. -->

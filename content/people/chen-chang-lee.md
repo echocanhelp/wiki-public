@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chen Chang Lee (李振昌)
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 10052007-15: SKIP re-verified 2026-10-07 — five-dir grep (李振昌/Chen Chang Lee/振昌): only own TAH #1749 record + sources index; the 振昌 passages in OJ #49/#256 belong to 林振昌 (C. C. Lin), a different person. No absorbable community material. -->
+
+<!-- deepen-x slice 10070700-18: verified-saturated 2026-10-08 — five-dir grep (works/articles/sources/events/topics; 李振昌 / Chen Chang Lee / 振昌): exact-name hits = own TAH #1749 record + works index + sources roster only. 振昌 substring hits resolve to 林振昌 (C. C. Lin — ourjourneys49/256, whoswho1267) and 賴振昌 (ex-legislator, taiwanjustice 監院名單 article) — different persons, not merged. No absorbable community material. -->
