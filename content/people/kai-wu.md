@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Kai Wu (吳開智)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09252123-19 (2026-09-26): verified-saturated — fresh ZH+EN re-grep of content/works+content/articles returns only the already-cited records; no new absorbable facts. -->
 <!-- deepen-x slice 10051400-2 (2026-10-07): verified-saturated — widened grep (吳開智/Kai Wu/吴开智/surname) across works+articles+sources+events+topics returns only whoswho-e5-90-b3-e9-96-8b, musician359, works index; no memoir or article mentions. SKIP. -->
+<!-- deepen-x slice 10070315-11 (2026-10-08): re-verified — fresh grep (吳開智/Kai Wu/吴开智) returns only the two already-cited encyclopedia pages + works/sources index lines. Surname-fuzzy sweep (開智) matched only 楊開智 (楊開慧之兄, unrelated CCP-history article) — false positive, not this pianist. 993-vs-1993 HOLD stands. Saturated, SKIP. -->

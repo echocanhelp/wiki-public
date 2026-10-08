@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # S. L. Chen (陳世霖)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 10051400-2 (2026-10-07): verified-saturated — widened grep (陳世霖/陈世霖/S. L. Chen/Borealis) across works+articles+sources+events+topics returns only own bibliographic records (#1390, #372), the #1477 陳晳憐 collision entry, and works index; no memoir content to absorb. SKIP. -->
+<!-- deepen-x slice 10070315-11 (2026-10-08): re-verified — fresh grep (陳世霖/陈世霖/S. L. Chen/Borealis) over works+articles+sources+events+topics returns only whoswho1390, musician372, the #1477 陳晳憐 collision entry, sources index line, and works index. No memoir content. Saturated, SKIP. -->

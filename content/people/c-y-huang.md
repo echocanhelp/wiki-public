@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # C.Y. Huang (黃清燕)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 10051400-6: re-verified 2026-10-07 — fresh grep (黃清燕/C.Y. Huang) over works/articles/sources/events/topics returns only #2314, the 黃主義 collision record #1855 (HOLD above), plus ourjourneys270 where 黃主義牧師 appears (confirms the two-person split — different person, do not merge). No memoir mentions of 黃清燕. Saturated, nothing new absorbable. -->
+<!-- deepen-x slice 10070315-11 (2026-10-08): re-verified — fresh grep (黃清燕/黄清燕/C.Y. Huang) over works+articles+sources+events+topics returns only whos-who-2314, the 黃主義 collision record whos-who-1855 (HOLD above), and index lines. No memoir mentions. Saturated, SKIP. -->
