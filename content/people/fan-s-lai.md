@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Fan S. Lai (賴芳雄)
 
@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 
 ***
 *Deepen-x audit 2026-10-07 (slice 10052007-12): five-dir greps (Fan S. Lai / 賴芳雄 / 芳雄) return only Who's Who [[works/taiwaneseamericanhistory-org/719-fan-s-lai-e8-b3-b4-e8-8a-b3-e9-9b-84-201512|#719]] plus index/source listings; loose substring hits elsewhere are unrelated text — no community material. SKIP.*
+
+<!-- deepen-x slice 10070700-11: re-verified 2026-10-08 — fresh five-dir greps (Fan S. Lai / 賴芳雄 / 芳雄): only Who's Who #719 + index/source listings; no community material. SKIP, verified-saturated. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Dr. Ching-Rong Cheng (鄭清榮醫師)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09210831-19: re-verify — only own TAH #1678 record + works index; Role section already reflects corpus state. -->
 <!-- deepen-x 09251023-28: re-verify — fresh ZH+EN grep: own record whos-who-1678 + index only; SKIP persists. -->
+<!-- deepen-x slice 10070700-11: re-verified 2026-10-08 — five-dir greps (Ching-Rong / 鄭清榮 / 清榮): own record whos-who-1678 + index/source listings only; 清榮 hits elsewhere are 張清榮 (張我軍本名) and 張清榮 (大樹農會總幹事), different people. SKIP, verified-saturated. -->

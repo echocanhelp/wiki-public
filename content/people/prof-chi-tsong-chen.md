@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Prof. Chi-Tsong Chen (陳啓宗教授)
 
@@ -45,3 +45,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070700-11: re-verified 2026-10-08 — five-dir greps (Chi-Tsong / 陳啓宗 / 启宗 / 啓宗) return only own record [[works/taiwaneseamericanhistory-org/whos-who-2173-chi-tsong-chen|TAH #2173]] plus works-index/source listings; no other corpus mentions. SKIP, verified-saturated. -->
