@@ -3794,7 +3794,6 @@
     "2026-09-26"
   ],
   "organizations/taiwanese-american-student-association-at-uc-berkeley.md|STRUCT_NO_HISTORY": [
-    "2026-08-21",
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
@@ -3803,7 +3802,8 @@
     "2026-09-24",
     "2026-09-25",
     "2026-10-05",
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "organizations/taiwanese-american-student-association-at-uc-san-diego.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -3860,7 +3860,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-05",
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "organizations/taiwanese-american-students-association-at-johns-hopkins-university.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -4187,7 +4188,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-05",
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "organizations/taiwanese-association-of-west-michigan.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -5895,7 +5897,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-05",
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "people/chihmei-lin-chen.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -7646,7 +7649,8 @@
     "2026-09-24",
     "2026-09-25",
     "2026-09-26",
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "people/dr-tsann-wang-yu.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -8066,7 +8070,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-05",
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "people/fenglien-lee.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -9015,7 +9020,8 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-07"
   ],
   "people/jane-marie-chen.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -16599,13 +16605,15 @@
     "2026-09-24",
     "2026-09-25",
     "2026-09-26",
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "people/dr-tong-y-chen.md|STRUCT_NO_RELATED": [
     "2026-09-24",
     "2026-09-25",
     "2026-09-26",
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "people/dr-yeongchi-wu.md|LINKS_NO_RELATED": [
     "2026-09-24",
@@ -16625,24 +16633,28 @@
   "people/jensen-huang.md|LINKS_NO_RELATED": [
     "2026-09-24",
     "2026-09-25",
-    "2026-09-26"
+    "2026-09-26",
+    "2026-10-07"
   ],
   "people/jensen-huang.md|STRUCT_NO_RELATED": [
     "2026-09-24",
     "2026-09-25",
-    "2026-09-26"
+    "2026-09-26",
+    "2026-10-07"
   ],
   "people/lisa-su.md|LINKS_NO_RELATED": [
     "2026-09-24",
     "2026-09-25",
     "2026-09-26",
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "people/lisa-su.md|STRUCT_NO_RELATED": [
     "2026-09-24",
     "2026-09-25",
     "2026-09-26",
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "people/min-kao.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-09-24",
@@ -17000,28 +17012,236 @@
   ],
   "organizations/taiwanese-american-student-association-at-uc-berkeley.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-05",
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "organizations/taiwanese-american-student-association.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-05",
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "organizations/taiwanese-association-of-the-greater-salt-lake.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-05",
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "people/chih-y-kuo.md|LINKS_HIGH_DENSITY": [
     "2026-10-05",
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "people/felix-liu.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-05",
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "people/dr-tong-y-chen.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "people/lisa-su.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
+  ],
+  "people/chun-chieh-chiu.md.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-07"
+  ],
+  "people/chun-chieh-chiu.md.md|FRESHNESS_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/chun-chieh-chiu.md.md|LINKS_LOW_DENSITY": [
+    "2026-10-07"
+  ],
+  "people/chun-chieh-chiu.md.md|LINKS_NO_RELATED": [
+    "2026-10-07"
+  ],
+  "people/chun-chieh-chiu.md.md|STRUCT_NO_TYPE": [
+    "2026-10-07"
+  ],
+  "people/chun-chieh-chiu.md.md|STRUCT_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/david-yang.md.md|FRESHNESS_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/david-yang.md.md|LINKS_LOW_DENSITY": [
+    "2026-10-07"
+  ],
+  "people/david-yang.md.md|LINKS_NO_RELATED": [
+    "2026-10-07"
+  ],
+  "people/david-yang.md.md|STRUCT_NO_TYPE": [
+    "2026-10-07"
+  ],
+  "people/david-yang.md.md|STRUCT_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/dr-lisa-su.md.md|FRESHNESS_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/dr-lisa-su.md.md|LINKS_LOW_DENSITY": [
+    "2026-10-07"
+  ],
+  "people/dr-lisa-su.md.md|LINKS_NO_RELATED": [
+    "2026-10-07"
+  ],
+  "people/dr-lisa-su.md.md|STRUCT_NO_TYPE": [
+    "2026-10-07"
+  ],
+  "people/dr-lisa-su.md.md|STRUCT_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/dr-long-song-simon-lin.md.md|FRESHNESS_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/dr-long-song-simon-lin.md.md|LINKS_LOW_DENSITY": [
+    "2026-10-07"
+  ],
+  "people/dr-long-song-simon-lin.md.md|LINKS_NO_RELATED": [
+    "2026-10-07"
+  ],
+  "people/dr-long-song-simon-lin.md.md|STRUCT_NO_TYPE": [
+    "2026-10-07"
+  ],
+  "people/dr-long-song-simon-lin.md.md|STRUCT_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/dr-tong-y-chen.md.md|FRESHNESS_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/dr-tong-y-chen.md.md|LINKS_LOW_DENSITY": [
+    "2026-10-07"
+  ],
+  "people/dr-tong-y-chen.md.md|LINKS_NO_RELATED": [
+    "2026-10-07"
+  ],
+  "people/dr-tong-y-chen.md.md|STRUCT_NO_TYPE": [
+    "2026-10-07"
+  ],
+  "people/dr-tong-y-chen.md.md|STRUCT_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/dr-yeongchi-wu.md.md|FRESHNESS_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/dr-yeongchi-wu.md.md|LINKS_LOW_DENSITY": [
+    "2026-10-07"
+  ],
+  "people/dr-yeongchi-wu.md.md|LINKS_NO_RELATED": [
+    "2026-10-07"
+  ],
+  "people/dr-yeongchi-wu.md.md|STRUCT_NO_TYPE": [
+    "2026-10-07"
+  ],
+  "people/dr-yeongchi-wu.md.md|STRUCT_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/ing-hui-lai.md.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-07"
+  ],
+  "people/ing-hui-lai.md.md|FRESHNESS_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/ing-hui-lai.md.md|LINKS_LOW_DENSITY": [
+    "2026-10-07"
+  ],
+  "people/ing-hui-lai.md.md|LINKS_NO_RELATED": [
+    "2026-10-07"
+  ],
+  "people/ing-hui-lai.md.md|STRUCT_NO_TYPE": [
+    "2026-10-07"
+  ],
+  "people/ing-hui-lai.md.md|STRUCT_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/jane-lin.md|DESC_TOO_SHORT": [
+    "2026-10-07"
+  ],
+  "people/jensen-huang.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-07"
+  ],
+  "people/li-mutong.md.md|FRESHNESS_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/li-mutong.md.md|LINKS_LOW_DENSITY": [
+    "2026-10-07"
+  ],
+  "people/li-mutong.md.md|LINKS_NO_RELATED": [
+    "2026-10-07"
+  ],
+  "people/li-mutong.md.md|STRUCT_NO_TYPE": [
+    "2026-10-07"
+  ],
+  "people/li-mutong.md.md|STRUCT_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/lisa-su.md.md|FRESHNESS_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/lisa-su.md.md|LINKS_LOW_DENSITY": [
+    "2026-10-07"
+  ],
+  "people/lisa-su.md.md|LINKS_NO_RELATED": [
+    "2026-10-07"
+  ],
+  "people/lisa-su.md.md|STRUCT_NO_TYPE": [
+    "2026-10-07"
+  ],
+  "people/lisa-su.md.md|STRUCT_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/paul-chen.md.md|FRESHNESS_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/paul-chen.md.md|LINKS_LOW_DENSITY": [
+    "2026-10-07"
+  ],
+  "people/paul-chen.md.md|LINKS_NO_RELATED": [
+    "2026-10-07"
+  ],
+  "people/paul-chen.md.md|STRUCT_NO_TYPE": [
+    "2026-10-07"
+  ],
+  "people/paul-chen.md.md|STRUCT_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/peter-chen.md.md|FRESHNESS_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/peter-chen.md.md|LINKS_LOW_DENSITY": [
+    "2026-10-07"
+  ],
+  "people/peter-chen.md.md|LINKS_NO_RELATED": [
+    "2026-10-07"
+  ],
+  "people/peter-chen.md.md|STRUCT_NO_TYPE": [
+    "2026-10-07"
+  ],
+  "people/peter-chen.md.md|STRUCT_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/wanying-heather-zhang.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-07"
+  ],
+  "people/wanying-heather-zhang.md|LINKS_LOW_DENSITY": [
+    "2026-10-07"
+  ],
+  "people/wanying-heather-zhang.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-07"
+  ],
+  "people/yang-xin.md.md|FRESHNESS_NO_REVIEW_DATE": [
+    "2026-10-07"
+  ],
+  "people/yang-xin.md.md|LINKS_LOW_DENSITY": [
+    "2026-10-07"
+  ],
+  "people/yang-xin.md.md|LINKS_NO_RELATED": [
+    "2026-10-07"
+  ],
+  "people/yang-xin.md.md|STRUCT_NO_TYPE": [
+    "2026-10-07"
+  ],
+  "people/yang-xin.md.md|STRUCT_NO_REVIEW_DATE": [
+    "2026-10-07"
   ]
 }

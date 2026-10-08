@@ -76,8 +76,18 @@ Canon homepage: Echopedia documents people, congregations, and organizations tha
 | **A** | 台美人 (diaspora / US life / TA orgs & churches) | Core | Full dossier |
 | **B** | Taiwan people who shaped TA life (e.g. TAH.org subjects, visiting pastors) | Yes | Dossier; describe the *relationship*, do not fake 台美 identity |
 | **C** | Allies in **our** sources (TJ/RFA columnists the community read and kept) | Yes, usually thin | **Ally / contributor in the archive.** Never stamp “not Taiwanese American.” |
-| **D** | Famous names with **no** tie to a TAHS/community source | Out | Do not ingest |
-| **E** | **Living memory of transnational repression** — persons whose case is the community's record of foreign-intelligence/repression operations touching Taiwan's diaspora or officials' families on US soil (Leonard ruling 2026-10-07, Wanying "Heather" Zhang case) | Yes | Dossier as **current-history event record**: allegation language, court posture, community relevance line; never a biography of the accused |
+| **D** | Famous names whose story is **about them, not us** — celebrity, culture, general news, or a Taiwan headline with no community party to it | Out | Do not ingest. Cite the reporting if it matters; create no page |
+| **E** | **Living memory of transnational repression** — cases where the community is a **party**: diaspora members targeted on US soil, or officials' families surveilled here, so the case *is* our record of an operation reaching us (Leonard ruling 2026-10-07, Wanying "Heather" Zhang case) | Yes | Dossier as **current-history event record**: allegation language, court posture, community relevance line; never a biography of the accused |
+
+**D↔E discriminator (harmonized 2026-10-08).** Both tiers can involve a famous name in the
+news, so the test is not fame and not prominence — it is **whether the community is a party to
+the event**. Tier D is a story *about* someone; Tier E is a story that *happened to us*. A
+repression or surveillance case on US soil touching diaspora lives or officials' families here
+is Tier E even if the named person is famous, because the record belongs to the community. A
+celebrity, cultural, or ordinary Taiwan news item is Tier D even when the person is well known,
+because we hold no stake in it. Practical tell: **if the story resolves to at least one page we
+already hold, we have shown the tie** — that is the difference between citing something we are
+part of and copying a headline. News volume is never a reason to ingest.
 
 **Voice:** grateful and specific (“work the community read and kept”). Exclusion labels are rude and off-mission.
 

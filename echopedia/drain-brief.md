@@ -1,4 +1,4 @@
-## Queue drain — 2026-10-07
+## Queue drain — 2026-10-08
 - Items: **40**
 
 - `people/bai-peiyu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -9,6 +9,18 @@
 - `people/nanfang-shuo.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/tang-peili.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/wang-qiaoling.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/chun-chieh-chiu.md.md`: add Related Pages stub, WROTE
+- `people/david-yang.md.md`: add Related Pages stub, WROTE
+- `people/dr-long-song-simon-lin.md.md`: add Related Pages stub, WROTE
+- `people/dr-tong-y-chen.md.md`: add Related Pages stub, WROTE
+- `people/dr-yeongchi-wu.md.md`: add Related Pages stub, WROTE
+- `people/ing-hui-lai.md.md`: add Related Pages stub, WROTE
+- `people/paul-chen.md.md`: add Related Pages stub, WROTE
+- `people/peter-chen.md.md`: add Related Pages stub, WROTE
+- `people/yang-xin.md.md`: add Related Pages stub, WROTE
+- `people/dr-lisa-su.md.md`: add Related Pages stub, WROTE
+- `people/li-mutong.md.md`: add Related Pages stub, WROTE
+- `people/lisa-su.md.md`: add Related Pages stub, WROTE
 - `people/dr-hsing-chi-chuck-chang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/george-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/huang-yongcheng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -16,7 +28,6 @@
 - `people/kuan-cheng-lu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/po-wei-lai.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/dr-wei-yang-andy-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/huang-diyin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/li-jian.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/fan-jiang-ti-ang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/yuan-zhihui.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -30,16 +41,5 @@
 - `people/karen-chia-ling-ho.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `organizations/global-hakka-un-ngo-applying-committee-un-ngo.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `organizations/north-america-pastel-artist-association.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `organizations/westchester-taiwanese-womens-associationwtwa.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/mei-li-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/agnes-hsu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/hsien-ann-meng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/grace-chung.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/vera-hui-pin-hsu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/dr-min-chin-mary-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/dr-yung-san-liang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/jerry-jean.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/zheng-qinren.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 
 Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link batch.

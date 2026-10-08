@@ -1,14 +1,14 @@
 {
-  "at": "2026-10-07T08:10:53.581925+00:00",
+  "at": "2026-10-08T07:28:14.706716+00:00",
   "status": "WARN",
   "fail": 0,
   "warn": 1,
   "ok": 13,
-  "cron_count": 30,
+  "cron_count": 32,
   "agent_crons": 0,
   "bad_deliver": 0,
   "link_missing": 0,
   "issues": [
-    "WARN: WHERE_WE_ARE last_reviewed 2026-09-06 is 31d old (>14d)"
+    "WARN: WHERE_WE_ARE last_reviewed 2026-09-06 is 32d old (>14d)"
   ]
 }

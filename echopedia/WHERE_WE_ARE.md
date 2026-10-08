@@ -82,6 +82,7 @@ SSOT times: `hermes cron list` / SYSTEM_STATUS generated table. Narrative summar
 | **Sun 05:30** | **source-continuity** | **Live-site watch (TC/GSTPC/ITPC/PCT) → delta AUTO → next-ingest tips** |
 | Sun 06:00 | weekly-improvement | Review gate + pack |
 | **07:00** | **vault-morning-brief** | **Primary human surface** (+ SOURCE CONTINUITY / NEXT INGEST) |
+| every 1h | echopedia-news-scan | Live news → hot-topic brief (self-delivers TG+LINE; silent when quiet) — script `echopedia-news-scan.py`, state `~/.hermes/cache/news-brief-state.json` |
 | `knowledge/operational/incidents/` | Failures |
 
 ---

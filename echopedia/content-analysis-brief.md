@@ -1,22 +1,32 @@
-## Echopedia Content Analysis — 2026-10-06
+## Echopedia Content Analysis — 2026-10-07
 - Standards v10
-- Pages scanned: **8** with findings
-- Auto-queued for remediation: **2** (score ≥ 3)
-- Wall time: 2.12s
+- Pages scanned: **22** with findings
+- Auto-queued for remediation: **17** (score ≥ 3)
+- Wall time: 1.71s
 
 ### Top 10 pages needing attention:
-- `people/chih-y-kuo.md` score=3 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, LINKS_HIGH_DENSITY
-- `people/felix-liu.md` score=3 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_4
-- `organizations/taiwanese-american-student-association-at-uc-berkeley.md` score=2 — STRUCT_NO_HISTORY, READABILITY_MANY_LONG_SENTENCES_4
-- `organizations/taiwanese-american-student-association.md` score=2 — STRUCT_NO_HISTORY, READABILITY_MANY_LONG_SENTENCES_4
-- `organizations/taiwanese-association-of-the-greater-salt-lake.md` score=2 — STRUCT_NO_HISTORY, READABILITY_MANY_LONG_SENTENCES_5
-- `people/chinying-rachel-chang.md` score=1 — LINKS_HIGH_DENSITY
-- `people/dr-tong-y-chen.md` score=1 — READABILITY_MANY_LONG_SENTENCES_5
-- `people/lisa-su.md` score=1 — READABILITY_MANY_LONG_SENTENCES_4
+- `people/chun-chieh-chiu.md.md` score=7 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE
+- `people/ing-hui-lai.md.md` score=7 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE
+- `people/david-yang.md.md` score=5 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/dr-lisa-su.md.md` score=5 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/dr-long-song-simon-lin.md.md` score=5 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/dr-tong-y-chen.md` score=5 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_RELATED, READABILITY_MANY_LONG_SENTENCES_6
+- `people/dr-tong-y-chen.md.md` score=5 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/dr-yeongchi-wu.md.md` score=5 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/li-mutong.md.md` score=5 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/lisa-su.md.md` score=5 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
 
 ### Auto-queued for P13 remediation:
 - `people/chih-y-kuo.md` (medium) — DESC_NO_TITLE_MENTION, LINKS_HIGH_DENSITY
+- `people/chun-chieh-chiu.md.md` (high) — DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE
+- `people/david-yang.md.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/dr-lisa-su.md.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/dr-long-song-simon-lin.md.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/dr-tong-y-chen.md` (high) — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_RELATED, READABILITY_MANY_LONG_SENTENCES_6
+- `people/dr-tong-y-chen.md.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/dr-yeongchi-wu.md.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
 - `people/felix-liu.md` (medium) — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_4
+- `people/ing-hui-lai.md.md` (high) — DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_TYPE
 
-- Log: `knowledge/operational/content-analysis/2026-10-06.jsonl`
+- Log: `knowledge/operational/content-analysis/2026-10-07.jsonl`
 - Queue: `echopedia/content-analysis-queue.json`
