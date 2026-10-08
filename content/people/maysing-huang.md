@@ -59,6 +59,7 @@ last_reviewed: 2026-09-27
 - 2021-10-30 — 「台文通訊30冬紀念獎」頒獎典禮（線上）公布來賓名單，楊黃美幸以陳文成紀念基金會名義與前文化部長鄭麗君、世界台灣文化論壇共同發起人鄭良光同列來賓；典禮由周佳穎主持，主辦為陳文成博士紀念基金會（[[articles/taiwanjustice-net/2021/20211207125658_2021_10_28_台文通訊30冬紀念獎-頒獎典禮part130日舉行_753347eb4cf48066|TJJ, 2021-10-28]]）。
 - 複核（TJJ-A09240800-11, 2026-09-25）：本 slice 文章 6fd9d16befa5a33a／5f12408ab340f912 正文再驗證——楊黃美幸以楊呈偉之母（前無任所大使）身分被提及，確認見於正文，subject link 為真（無錯鏈、無虛鏈）；2022-08-08 條目（已雙掛兩文 wikilink）已在庫 — SKIP，無新材料。
 
+<!-- TJJ-A10061000-3: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10061000-3 article d6441ab32ea8636d (陳文成事件40週年座談報導, 2021-09-25 刊): 楊黃美幸 — 楊黃美幸以陳文成博士紀念基金會董事長致詞 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

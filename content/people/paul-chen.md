@@ -298,6 +298,7 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 - 2021-01-12 — 以大洛杉磯台灣會館董事長身分與紐約（方秀蓉）、華府（黃泰郎）、聖地牙哥（歐春美）、北加州（陳德輝）四大會館首長聯署聲明，就萊豬爭議主張「反對科學議題政治化」，並稱美國使用瘦肉精20年台美人社區未見不良反應、期待此步能讓我美經貿關係更密切（[[articles/taiwanjustice-net/2021/20210121172817_2021_01_12_美國五大台灣會館評萊豬_反對科學議題政治化_1251d9ed43ef6e32|TJJ, 2021-01-12]]）。
 - 2020-11-18 — 以大洛杉磯台灣會館董事長身分，偕副董事長蔡漢成、秘書長吳兆峯等赴駐洛杉磯經文處出席林榮松獲聘行政院政務顧問致頒聘書儀式觀禮（[[articles/taiwanjustice-net/2020/20201126144045_2020_11_19_南加州林榮松僑務諮詢委員獲聘行政院政務顧問_06510e79e7a07f48|TJJ 洛僑中心, 2020-11-19]]）。
 
+<!-- TJJ-A10061000-3: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10061000-3 article f4bc88a293a5ec0d (二二八77周年會館追思紀念報導, 2024-02-24): 陳柏宇 — 陳柏宇以大洛杉磯台灣會館董事長致辭 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 ## Sources
 - TAHS 2025 organization chart (roles only)
 - [TAH #1788 encyclopedia: 1788. Paul Y. Chen 陳柏宇](https://taiwaneseamericanhistory.org/whos-who-1788-paul-y-chen/)

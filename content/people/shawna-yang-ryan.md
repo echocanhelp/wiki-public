@@ -119,3 +119,5 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 
 <!-- TJJ-A10060600-6: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-6 article 15fc4a3e5664504e（2016-12-09 Shawna Yang Ryan Washington Post op-ed 轉載）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060800-8: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060800-8 article 23da543a315a1fa1 (228七十週年紀念公告轉會館會訊, 2024-05-30快照): subject link re-checked vs 正文 this attempt (「台美人第二代作家楊小娜(Green Island的作者)…3月4日會館演講、3月5日Tustin台灣人長老教會演講」), real, no wrong/spurious links; 2017-03-04/05 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10061000-3: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10061000-3 article 5b6cede86851b2ba (游朝凱創意寫作獎報導, 2021-02-14): 楊小娜 — 楊小娜列名首屆評委 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
