@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Ker-Chau Li (李克昭博士)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09250600-2 recheck 2026-09-25: SKIP — fresh ZH+EN grep of works/+articles returned only own TAH work-page records + harvest index (already linked on this page); no new memoir or third-party material. -->
 
 <!-- deepen-x slice 10051918-21 recheck 2026-10-07: SKIP — fresh five-dir grep (works/articles/sources/events/topics; ZH+EN+surname): own TAH record + works index only; surname hits belong to other Hsieh / 何宗勳 individuals; no memoir or third-party material absorbable. -->
+<!-- deepen-x slice 10070600-1 recheck 2026-10-08: SKIP — fresh five-dir grep for 李克昭/Ker-Chau Li/'K. C. Li': own TAH #2068 record + indexes only; 'K. C. Li' pattern hit resolves to 883. K. C. Liao 廖國仲 (different person); Purdue/statistics co-greps zero hits. Nothing absorbable; verified-saturated. -->

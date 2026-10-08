@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # 劉青藜博士
 
@@ -42,3 +42,5 @@ last_reviewed: 2026-10-07
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070600-1 recheck 2026-10-08: SKIP — fresh five-dir grep (works/articles/sources/events/topics) for 劉青藜/surname 劉青: own TAH #2260 record + works/sources index only. Substring hits resolve to other people — 劉青眼牧師 (Our Journeys 270), NY-based 中國人權活動人士劉青 (taiwanjustice articles), 劉青松 (仁壽醫院 article). Nothing absorbable; verified-saturated. -->
