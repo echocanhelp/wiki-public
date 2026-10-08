@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Ru-Pei Yen (葉儒沛)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 10051400-7 recheck 2026-10-07: fresh ZH+EN+surname/variant grep (葉儒沛/Ru-Pei/Rupei/儒沛) across works/articles/sources/events/topics returned only her own #481 + #231 records already cited. SKIP stands, verified saturated. -->
+<!-- deepen-x slice 10070315-15 recheck 2026-10-08: fresh ZH+EN+variant grep (葉儒沛/Ru-Pei Yen/Ru-Pei Yeh/Rupei/儒沛) across works/articles/sources/events/topics returned only her own #481 + #231 records already cited (+ index/sources pages). SKIP stands, verified saturated. -->
