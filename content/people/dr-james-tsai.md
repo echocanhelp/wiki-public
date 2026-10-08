@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. James Tsai (蔡育智醫師)
 
@@ -61,3 +61,4 @@ HOLD: the 2022 announcement lists 秘書長 James Tsai; publication-era vs. curr
 
 <!-- deepen-x slice 09252123-10 re-check 2026-09-26: verified-saturated. Fresh ZH+EN grep of works/ + articles/ hit set identical to records already wikilinked/HOLDed on this page; no new absorbable corpus material. -->
 <!-- deepen-x 10051909-32: SKIP — fresh 2026-10-07 grep: 蔡育智/James Tsai/jamesytsai hits = own TAH #2065 record + the two NATMA 基金會獎學金公告 (2022/2025) already wikilinked here + index/source pages; surname-only Tsai hits are other Tsais (Tron-Rong, J.Y., Ho-Chie, Susan Shu-Ai, Long-Tsung). Verified-saturated. The 秘書長 tenure HOLD stands — undated in corpus, not merged. -->
+<!-- deepen-x 10070500-9 (2026-10-08): SKIP — fresh ZH+EN grep (蔡育智 / James Tsai / jamesytsai / 育智) across all five corpus dirs returns own TAH #2065 record + the two NATMA 獎學金公告 (2022/2025) already wikilinked here + index/source rows only. Verified-saturated; 秘書長 tenure HOLD stands. -->

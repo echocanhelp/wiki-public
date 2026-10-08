@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Hui-Chi Connally (徐慧姬)
 
@@ -40,6 +40,7 @@ last_reviewed: 2026-10-07
 - 2026-09-20 re-verified: corpus grep still returns only this record and the story index — no new material to absorb.
 - 2026-09-21 re-verified again (slice -21): grep returns the same [[works/taiwaneseamericanhistory-org/whoswho1298|1298. Hui-Chi Connally 徐慧姬/ 2016/10]] record and the index batch entry only — nothing absorbable beyond what is above.
 - 2026-09-22 re-verified (slice -27): fresh grep still returns only the whoswho1298 record and the index entry — no memoir material.
+- **2015 Chicago stage record (absorbed 2026-10-08).** Listed as **徐慧姫** (variant spelling of 姬) among the 舞蹈指導 (dance instructors) — and later in the cast roster — for 「咱的鄉土咱的歌」, the 芝城台灣文化促進會 (Chicago Taiwan Cultural Promotion Association) stage production covered in [[works/taiwaneseamericanhistory-org/ourjourneys167|167. 咱的鄉土咱的歌–芝城台灣文化促進會公演記實 / 林中 / 2015/08]]. Attribution only: the roster carries no biographical detail, so no dates or tenure are inferred. Prior exact-character greps missed this because the corpus writes 姫, not 姬.
 
 ## Sources
 - [TAH #1298 encyclopedia: 1298. Hui-Chi Connally 徐慧姬/ 2016/10](https://taiwaneseamericanhistory.org/whoswho1298/)
@@ -55,3 +56,4 @@ last_reviewed: 2026-10-07
 <!-- deepen-x slice 09261000-15 (2026-10-01): SKIP re-verified — fresh ZH+EN grep (grep -rlE) of works/ + articles/ returns only the already-cited own TAH record(s) + works index; no memoir/community material. -->
 
 <!-- deepen-x slice 10051909-29 (2026-10-07): SKIP re-verified — exact-name greps (徐慧姬 / Hui-Chi Connally / Connally / husband 康威廉) across all five corpus dirs return only own whoswho1298 record + indexes. Verified saturated. -->
+<!-- deepen-x 10070500-9 (2026-10-08): DEEPENED — variant-character sweep (徐慧姫) surfaced ourjourneys167 (band A, 2015/08): dance instructor + cast member for the Chicago 「咱的鄉土咱的歌」 production, absorbed above. whoswho1298 + index hits unchanged. -->

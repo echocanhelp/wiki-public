@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Jen-Tzaw Huang (黃健造博士)
 
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-10-01 (deepen-x slice 09261200-29): fresh ZH+EN grep of content/works + content/articles unchanged — 159 + 451 Lizard Rock + the taiwanjustice.net 2018 open letter + index lines only; the letter hit is the same signatory list already recorded above. Nothing new absorbable; identity HOLD stands. SKIP-with-reason.
 
 <!-- deepen-x 10051909-32: SKIP — fresh 2026-10-07 grep of all five corpus dirs: 黃健造/Jen-Tzaw/蜥蜴岩/Lizard hits = 159 + 451 Lizard Rock + the 2018 taiwanjustice.net 台大校友會 open letter (signatory 黃健造(藥學)) + index/source only. No new material. Identity HOLD (UT-Houston biomedical Ph.D. vs 藥學 signatory) remains unconfirmed, deliberately not auto-merged. -->
+<!-- deepen-x 10070500-9 (2026-10-08): SKIP — fresh grep (黃健造 / Jen-Tzaw Huang / 健造 / 蜥蜴岩 / Lizard Rock) across all five corpus dirs returns 159 + 451 Lizard Rock + the 2018 台大校友會 open letter + index/source only. DISAMBIGUATION: the 仁昭 hits in the 2024/2025 taiwanjustice articles are 台積電財務長 黃仁昭 (TSMC CFO) — different person, not this subject; do not merge. Identity HOLD stands. -->
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-jen-tzaw-huang/)
