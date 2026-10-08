@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Marina Lu (呂惠秋)
 
@@ -41,3 +41,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-26 (slice 09251047-3): fresh ZH+EN grep of works/ and articles/ returned only the own TAH record, the works index, and previously-noted mentions (incl. the Marina Lu 盧雅文 name-collision essay) — nothing new absorbable; page held at prior state (SKIP-deepened).
 - Corpus re-grep 2026-10-06 (slice 10051314-3): fresh grep of 呂惠秋/Marina Lu/惠秋 across works/articles/sources/events/topics → same hit set (own TAH #1222, index, 盧雅文 collision essay already HOLD-linked); surname/alias sweep 惠秋 returned zero additional hits. Verified-saturated; SKIP.
+- Corpus re-grep 2026-10-08 (slice 10062334-13): fresh ZH+EN grep of works/articles/sources/events/topics → same hit set (own TAH #1222, works index, 盧雅文 collision essay already HOLD-linked); 惠秋 surname sweep returned zero additional hits. Verified saturated; SKIP.
