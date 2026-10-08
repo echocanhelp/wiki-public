@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Emily X.R. Pan (潘相如)
 
@@ -57,3 +57,4 @@ Corpus records show Pan's debut novel entered the Taiwanese American community r
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10070500-3 (2026-10-08): SKIP re-verified — exact ZH+EN grep across all five corpus dirs returns identical hit set (#2107, #1242, 2018-09-25 interview, index) — all absorbed above; 潘 sweep of topics/ = 潘意玲 (different person, AI教育基金會). Verified saturated. -->

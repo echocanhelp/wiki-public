@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Dr. Chi-chia Hsieh (謝其嘉博士)
 
@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09250317-31 (2026-09-25): SKIP re-verified — fresh ZH+EN grep returns only own record whos-who-2066 + index; no memoir/community-body mentions; verified saturated. -->
 <!-- deepen-x slice 09251527-19 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/+articles/ returns only the records already absorbed/linked on this page (own TAH record + index listings); no new community material. -->
 <!-- deepen-x slice 10051909-26 (2026-10-07): SKIP re-verified — fresh ZH+EN+surname grep across ALL five corpus dirs (works/articles/sources/events/topics) returns only own record whos-who-2066 + index/roster listings; surname 謝 sweep of events/+topics/ = zero hits. Verified saturated. -->
+<!-- deepen-x slice 10070500-3 (2026-10-08): SKIP re-verified — fresh ZH+EN+surname grep across all five corpus dirs returns only own record whos-who-2066 + index/sources listings; 謝 sweep of events/+topics/ = zero hits. Verified saturated. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Cheng-Yin Janine Lin (林政穎博士)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09250317-31 (2026-09-25): SKIP re-verified — fresh ZH+EN grep returns only musician427, Who's Who 2063, and the index (all already absorbed); no memoir/community mentions; verified saturated. -->
 <!-- deepen-x slice 09251527-17 (2026-09-26): SKIP re-verified — fresh ZH+EN grep of works/ + articles/ hit set identical to prior absorption (own TAH record + works index only); nothing new absorbable; verified saturated. -->
 <!-- deepen-x slice 10051909-25 (2026-10-07): SKIP re-verified — fresh ZH+EN grep across works/articles/sources/events/topics returns only musician427, Who's Who 2063, the sources page, and works index (all already absorbed); no memoir/community mentions; verified saturated. -->
+<!-- deepen-x slice 10070500-3 (2026-10-08): SKIP re-verified — fresh ZH+EN grep across works/articles/sources/events/topics returns only musician427, Who's Who 2063, sources page, works index (all already absorbed); 林 surname sweep of events/+topics/ = unrelated (林江邁, 228 topic). Verified saturated. -->
