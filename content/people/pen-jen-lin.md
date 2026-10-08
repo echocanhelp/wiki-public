@@ -7,12 +7,14 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Pen-Jen Lin (林本仁)
 
 ## Role in the Community
-- Corpus record: [[works/taiwaneseamericanhistory-org/whoswho1051|TAH #1051（2016-06）]]（bibliographic record only，全文在 vault）. Corpus grep over works/articles found no memoir or article material beyond this record — nothing absorbable; page left as TAH Who's Who baseline. Fresh greps 2026-09-21, 2026-09-25, and 2026-09-26 (slice 09251047-20; 林本仁 / Pen-Jen Lin, works+articles) returned only own TAH #1051 record + index entry — confirmed SKIP.
+- **Founding member, Texas College Station Taiwan Study Club 德州卡城台灣研究社** — listed among the 創始會員 (with 黃界清教授夫婦、黃嘉敏、陳敬銘、林桓億 and others) in the club's own record ([[works/taiwaneseamericanhistory-org/texas-college-station-taiwan-study-club|34. Texas College Station Taiwan Study Club]], published 2015-12-01; full text in the vault web archive `knowledge/web-archives/taiwaneseamericanhistory-org/posts/texas-college-station-taiwan-study-club.md`). The club's stated purpose — 認識台灣歷史文化、討論台灣政經社會、關心台灣民主人權、推廣台灣主體意識 — places him in the student-professional activist orbit around Texas A&M; his later TAH profile lists residence Chino Hills, CA, so the Texas trail predates the California move (no date conflict recorded; HOLD exact years of Texas residence).
+- Corpus record: [[works/taiwaneseamericanhistory-org/whoswho1051|TAH #1051（2016-06）]]（bibliographic record only，全文在 vault）.
+- Earlier greps (2026-09-21 through 2026-10-07) returned only his own record because the club article's full text lives only in the vault web archive, not under content/works.
 - Re-swept 2026-10-01, deepen-x slice 09261405-7: fresh ZH+EN grep (林本仁 / Pen-Jen Lin) across works+articles — hits unchanged (own record [[works/taiwaneseamericanhistory-org/whoswho1051|TAH #1051]], a bibliographic stub with no article text, + works/index.md). No memoir or article names him; nothing absorbable. SKIP (verified-saturated).
 - 2026-10-07 re-swept (deepen-x slice 10051948-26): five-dir grep (林本仁 / Pen-Jen Lin / 本仁) across works+articles+sources+events+topics — hits unchanged (own record [[works/taiwaneseamericanhistory-org/whoswho1051|TAH #1051]], works/index.md, sources hub). No memoir or article material. SKIP (verified-saturated).
 
@@ -46,3 +48,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10070600-24 2026-10-08: DEEPENED — founding member, Texas College Station Taiwan Study Club, found in vault web archive (posts/texas-college-station-taiwan-study-club.md); prior content/works greps missed it. -->

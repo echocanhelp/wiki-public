@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Kenneth C. Liao
 
@@ -47,6 +47,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-21 / 2026-09-22 / 2026-09-25（slice 09211507-32、09231400-19）重查：hit set unchanged，仍僅見同姓人士紀錄（廖坤塗 #165/#672、廖光男 #253、Our Journeys 各篇），無可吸收之社群運動史料。
 
 - 2026-10-01 (slice 09261341-10) 重查：grep（Kenneth C. Liao / Kenneth Liao / 廖姓全庫）命中集不變，僅 own TAH #1897 + works index；同姓 Kenneth Chang 張學賢（#1381）、Kenneth C. Yang 楊基規（#1944）與 Kenneth Chen 標籤頁皆為不同人士，排除。無可吸收史料，維持 SKIP。
+- 2026-10-08（slice 10070600-24）：vault person JSON（`knowledge/web-archives/taiwaneseamericanhistory-org/person/kenneth-c-liao.json`，擷取於 2026-06-02）補兩項社群歸屬事實：本檔「Source from 美東台灣人夏令會 07/2000」——其 Who's Who 紀錄經美東台灣人夏令會這個台灣人社團進入檔案庫；residence Fort Lee, NJ；Accomplishment「American Board of Anesthesiology」。內容目錄仍無第三方提及，維持無可吸收之社群運動史料。
 
 
 ## Sources
@@ -55,3 +56,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10070600-24 2026-10-08: minor deepen — vault person JSON adds 美東台灣人夏令會 source attribution + Fort Lee NJ residence + American Board of Anesthesiology; no third-party corpus mentions. -->
