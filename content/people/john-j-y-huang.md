@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-08
 ---
 # John J.Y. Huang (黃仲義)
 
@@ -52,6 +52,7 @@ Work pages touched:
 - [[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys #37（含台灣協志會會史）]]
 - [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys #106（含台灣協志會會史）]]
 - [[works/taiwaneseamericanhistory-org/84-john-j-y-huang-e9-bb-83-e4-bb-b2-e7-be-a9|TAH #84. John J.Y. Huang 黃仲義]]
+- [[works/taiwaneseamericanhistory-org/ourjourneys37-eng|Our Journeys #37（英文版）]] — 雙語旁證：該台灣協志會會史英文版指名 "John J. Y. Huang" 為 1973-04 七人籌備委員之一（Tu Chen 召集、姚嘉文顧問）及 1973-05-18 協志會創會會長（Founding President，Tu Chen 任副會長），與中文版記載一一對應。無衝突。
 
 Re-verified 2026-09-24 (slice 09230700-25): fresh grep (黃仲義 / John J.Y. Huang) hit set unchanged — ourjourneys37, ourjourneys106, TAH #84, works index only. Verified-saturated; nothing new absorbable.
 

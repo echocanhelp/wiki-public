@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Paul Kuo (郭博修)
 
@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-26 (deepen-x slice 09250800-25): fresh ZH+EN re-grep — hit set identical (#27, #276, #497, art-show-13, Pew response, index). Verified-saturated, SKIP-with-reason.
 - Re-verified 2026-09-27 (deepen-x slice 09260600-21): fresh ZH+EN re-grep — hit set identical (#27, #276, #497, art-show-13, Pew response, index). Verified-saturated, SKIP-with-reason.
 <!-- deepen-x slice 10051340-5 re-verify 2026-10-06: fresh ZH+EN+partial-name grep (works/articles/sources/events/topics) — hit set identical to prior absorptions (own TAH records + already-linked work pages + index); partial-name hits resolved to different people. Verified-saturated; SKIP-no-new-facts. -->
+
+Re-verified 2026-10-08 (deepen-x slice 10062334-4): fresh ZH+EN grep (郭博修 / Paul Kuo) across works/articles/sources/events/topics — hit set identical (#27, #276, #497, art-show-13, Pew response, sources index). One partial-name match (博修 in a 2021 taiwanjustice Blue Origin article) resolved to 博修仁 (Chris Boshuizen), not 郭博修. Verified-saturated; SKIP-no-new-facts.

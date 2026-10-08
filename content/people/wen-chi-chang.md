@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Wen Chi Chang (張文祺)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-10-06
 - 與其「台獨聯盟專職人員」紀錄相符：盟內担任行动/执行层级，属1960–70年代台独运动北美组织核心干部之一
 - 本人傳記記錄：[[works/taiwaneseamericanhistory-org/whoswho1455|TAH #1455 張文祺 / 2017-01]]
 - HOLD（2026-10-06，slice 10051340-4）：[[works/taiwaneseamericanhistory-org/ourjourneys186-eng|Our Journeys #186（台美公民協會 TACL 籌備委員會簡介，英文版）]] 籌備委員名單中的 "Wen-chi Chang" 係romanization撞名——中文版 [[works/taiwaneseamericanhistory-org/ourjourneys186|#186（中）]] 該委員作**張文志**（志≠祺），非本頁張文祺。此條不併入本頁，勿因英文拼寫相同而誤併。
+- HOLD擴充（2026-10-08，slice 10062334-4）：[[works/taiwaneseamericanhistory-org/ourjourneys272-eng|Our Journeys #272（英文版）]] 記 1984-12-01 SCTAI 主持之 TACL 籌備座談會十二人名單及五人籌備委名單中之 "Wen-chih Chang"（負責總務），中文版 [[works/taiwaneseamericanhistory-org/ourjourneys272|#272（中文版）]] 同段作**張文志**（志≠祺）——與上述 #186 情形相同，屬同一 romanization 撞名，非本頁張文祺，勿因英文拼寫相近而誤併。
 - SKIP-with-reason (re-verified 2026-09-22): a fresh corpus grep (張文祺 / Wen Chi Chang) returns only Our Journeys #81 中文版／英文版 (already absorbed above) plus the works index — no additional memoir or community text to absorb. Re-verified 2026-09-23 (slice 09221300-8): fresh grep hit set unchanged (ourjourneys81, ourjourneys81-eng, whoswho1455). Re-verified 2026-09-24 (slice 09230700-25): hit set still unchanged — verified-saturated. Re-verified 2026-09-25 (slice 09240700-31): hit set unchanged (OJ #81 ZH/EN, TAH #1455) — saturated. Re-verified 2026-09-26 (slice 09251023-9): hit set unchanged (OJ #81 ZH/EN, TAH #1455) — saturated.
 
 ## Sources
