@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Dr. Paul Chen
 
@@ -52,3 +52,5 @@ Re-grep 2026-09-25 (deepen-x slice 09231200-30): ZH-name 陳柏宇 hits in taiwa
 Re-grep 2026-09-25 (deepen-x slice 09250500-2): fresh grep returns only [[works/taiwaneseamericanhistory-org/whoswho1484|TAH #1484]]（書目記錄のみ）+ works index; attribution HOLD stands — SKIP.
 
 <!-- deepen-x 10051143-14 (2026-10-06): SKIP — fresh grep across works/articles/sources/events/topics. The 保羅陳 hit in ourjourneys249 is a FALSE POSITIVE: the text reads 「聖保羅陳隆星同鄉」 (a São Paulo 同鄉 named 陳隆星), not Paul Chen. whoswho1484 remains bibliographic-record-only; all 陳柏宇 article hits attributable to TAHS officer [[people/paul-chen|Paul Chen (陳柏宇)]]. Attribution HOLD stands — nothing absorbable. -->
+
+<!-- deepen-x 10060950-6 (2026-10-08): SKIP — fresh grep across works/articles/sources/events/topics; hit set identical (whoswho1484 bibliographic-only + ourjourneys249 聖保羅陳隆星 false positive + 陳柏宇-attributable article hits). Alias sweep for 保羅/Paul Y./Preefer adds only unrelated hits (聖保羅 = Saint Paul in church/music texts, 保羅·皮科維茨 = Paul G. Pickowicz). Attribution HOLD stands — nothing absorbable. -->

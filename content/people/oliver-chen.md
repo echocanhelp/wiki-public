@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Oliver Chen (陳奧利佛)
 
@@ -56,3 +56,4 @@ Accomplishment
 - Corpus re-scan 2026-09-26 (slice 09252123-21): fresh ZH+EN greps return only own TAH #239/#676 records + works index — still saturated. SKIP-with-reason.
 - Corpus re-scan 2026-10-01 (slice 09261000-22): fresh ZH+EN re-grep (Oliver Chen / 陳奧利佛) returns only own TAH #239/#676 records + works/index — verified saturated, nothing new absorbable. SKIP-with-reason.
 - Corpus re-scan 2026-10-06 (slice 10051143-21): fresh ZH+EN grep -rl across works/articles/sources/events/topics returns only own TAH #239/#676 records + works/index + sources — verified-saturated, nothing new absorbable. SKIP-with-reason.
+- Corpus re-scan 2026-10-08 (slice 10060950-6): fresh ZH+EN grep across works/articles/sources/events/topics returns only own TAH #239/#676 records + works/index + sources. Alias check: 'Cowen' hits are the investment bank mentioned generically (no Oliver Chen named), and the Blue Origin article's Oliver is Oliver Daemen (荷蘭) — false positives. Verified saturated; nothing new absorbable. SKIP-with-reason.

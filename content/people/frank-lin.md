@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Frank Lin (林俊甫)
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-10-06
 - 2026-09-25 deepen-x slice 09250400-29: fresh ZH+EN grep of works/+articles/ — hit set identical to prior passes (own whoswho record + index only, plus already-absorbed memoir/statement mentions). Verified saturated; nothing new absorbable.
 - 2026-09-26 deepen-x slice 09252123-16: fresh ZH+EN grep — hit set identical (ourjourneys19 + whoswho1489 + index + pew statement, all already absorbed). HOLD on the two-Frank-Lin identity conflict stands; verified saturated.
 - 2026-10-06 deepen-x slice 10051143-23: fresh ZH+EN grep across works/articles/sources/events/topics — hit set identical (ourjourneys19 + whoswho1489 + pew statement + indexes). Verified saturated; HOLD stands.
+- 2026-10-08 deepen-x slice 10060950-6: fresh ZH+EN grep across works/articles/sources/events/topics — hit set identical (ourjourneys19 + whoswho1489 + pew statement + indexes, all already absorbed). Verified saturated; HOLD on the two-Frank-Lin identity conflict stands.
