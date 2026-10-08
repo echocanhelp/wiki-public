@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Doris Lu-Anderson (呂佳霙博士)
 
@@ -44,3 +44,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-10-08 re-verified (slice 10070700-26): fresh five-dir grep (呂佳霙 / 佳霙 / Doris Lu-Anderson / Doris Lu) found only own whoswho1469 record, works/index, sources page, and the bare-name "Doris Lu" signatory listing in the 2021 Pew response statement — HOLD on that identity stands, nothing new absorbable.
