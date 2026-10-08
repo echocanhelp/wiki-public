@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Hoyuan Liu (劉和元)
 
@@ -58,3 +58,5 @@ Corpus re-check (deepen-x 09231000-12, 2026-09-25): fresh grep of works/ + artic
 
 <!-- deepen-x 09250317-23: fresh grep (劉和元/Hoyuan Liu) returns only own TAH entry + works index — verified-saturated, nothing absorbable. -->
 <!-- deepen-x 09251527-15: SKIP re-verified 2026-09-26 — fresh ZH+EN grep returns only own entry #2221 + works index; verified-saturated, nothing absorbable. -->
+
+<!-- deepen-x slice 10070400-9 (2026-10-08): fresh grep (Hoyuan Liu / 劉和元 / 和元) across all five corpus dirs — only own TAH #2221 + works index; 和元 matches in taiwanjustice-net articles are cross-word false positives (「習和元老」), not the person. Verified-saturated; SKIP-deepen. -->

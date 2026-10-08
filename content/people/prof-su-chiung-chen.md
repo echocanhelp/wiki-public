@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Su-Chiung Chen (陳素瓊教授)
 
@@ -56,3 +56,5 @@ Prof. Su-Chiung Chen 陳素瓊教授 – History of Taiwanese American (T.A. Arc
 <!-- deepen-x slice 09230900-24 (2026-09-25): re-verified — grep hit set unchanged (own TAH #2214 + works index only). SKIP. -->
 <!-- deepen-x slice 09250317-30 (2026-09-25): re-verified — fresh ZH+EN grep returns only own TAH #2214 + works index; hit set identical to prior absorption. SKIP-with-reason (saturated). -->
 <!-- deepen-x slice 09251527-16 (2026-09-26): re-verified — fresh ZH+EN grep (陳素瓊/Su-Chiung Chen) returns only own TAH #2214 + works index. SKIP-with-reason (saturated). -->
+
+<!-- deepen-x slice 10070400-9 (2026-10-08): fresh grep (Prof. Su-Chiung Chen / 陳素瓊 / 素瓊) across all five corpus dirs — only own TAH #2214 record + works index + sources page; no memoir narrative absorbable. Verified-saturated; SKIP-deepen. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Joseph H. Chen (陳河田教授)
 
@@ -49,3 +49,5 @@ last_reviewed: 2026-10-07
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070400-9 (2026-10-08): fresh grep (Joseph H. Chen / 陳河田 / 河田) across works/articles/sources/events/topics — hit set identical to prior passes (own whos-joseph-h-chen, ourjourneys310 ZH+EN memoir fully absorbed, index); other 河田 hits = 河田烈 (Japanese diplomat, unrelated). Verified-saturated; SKIP-deepen. -->
