@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Stephen S. Chu (朱石象)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10070500-20 recheck 2026-10-08: SKIP — fresh grep 朱石象 / Stephen S. Chu / Shih-Hsiang / 石象 across all five corpus dirs returns only TAH #1295, the works index, and the sources hub. No memoir mentions. Verified-saturated. -->

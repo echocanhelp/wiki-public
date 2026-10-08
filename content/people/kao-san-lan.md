@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Kao San Lan (高山嵐)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Deepen recheck 2026-10-01 (slice 09261100-21): fresh ZH+EN grep — own record [[works/taiwaneseamericanhistory-org/whos-who-2273-kao-san-lan|TAH #2273]] + works/index only; no memoir/article mentions. SKIP stands.
+<!-- deepen-x slice 10070500-20 recheck 2026-10-08: SKIP — fresh grep 高山嵐 / 髙山嵐 / Kao San Lan / San Lan Kao across all five corpus dirs returns only own records (TAH #2273, artist69) + index/source rows; surname-only 高山 hits are unrelated place names (太平山 etc.). Verified-saturated. -->
