@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Sophia Yen
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09252123-4 (2026-09-26): re-verified — fresh ZH+EN grep of works/ + articles/ returns only own already-linked records + works/index rollup; saturated, nothing absorbable; no conflicts. -->
 - Corpus re-verified 2026-10-01 (deepen-x slice 09260900-29): fresh ZH+EN grep of works/ + articles/ returned the identical hit set already linked/absorbed above (or empty) — verified-saturated, nothing new absorbable.
 - Corpus re-verified 2026-10-07 (deepen-x slice 10051909-22): fresh EN + surname-only grep across works/articles/sources/events/topics returned only whoswho990 + index/sources rollup (a Sophia's Choice film reference in an unrelated 台灣公論報 essay is not this person) — verified-saturated, nothing new absorbable.
+<!-- deepen-x slice 10070500-1 (2026-10-08): re-verified — fresh case-insensitive grep (Sophia Yen / Yen) across works/articles/sources/events/topics returns only whoswho990 + index rollups; alias probes (Carafem, Pass The Pill) empty. Verified-saturated; nothing absorbable; no conflicts. -->

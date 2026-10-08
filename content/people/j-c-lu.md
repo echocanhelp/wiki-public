@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # J. C. Lu (盧健治)
 
@@ -43,3 +43,4 @@ last_reviewed: 2026-10-01
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10070500-1 (2026-10-08): re-verified — fresh ZH+EN grep across works/articles/sources/events/topics returns only own record whoswho1142 + index rollups. Surname-only grep (盧健治/健治) surfaces only 游健治 (明州同鄉會會長) and 陳健治 (台北市議會議長), both DIFFERENT people, not this subject. Wife 沈雲冰 appears only in her own record whoswho1144, already linked under Family. Verified-saturated; nothing absorbable; no conflicts. -->

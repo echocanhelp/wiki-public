@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Michael Yeh (葉明青)
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- DEEPEN-X SKIP 2026-09-26 (re-check of 2026-09-25 pass, slice 09251054-18): corpus re-grep (葉明青 / Michael Yeh, works+articles) again returned only own TAH #2313 Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-2313-michael-yeh|2313. Michael Yeh 葉明青]] (band B, bibliographic) + index entry. No memoir/community records; nothing absorbable. No bio invented. -->
 <!-- DEEPEN-X SKIP 2026-10-02 (slice 09261405-32 re-verify): corpus re-grep (葉明青 / Michael Yeh, works+articles) again returned only own TAH #2313 Who's Who record [[works/taiwaneseamericanhistory-org/whos-who-2313-michael-yeh|2313. Michael Yeh 葉明青]] + index entry. No memoir/community records; nothing absorbable. No bio invented. -->
+<!-- deepen-x slice 10070500-1 (2026-10-08): re-verified — exact-string grep (葉明青 / Michael Yeh) across works/articles/sources/events/topics returns only own record whos-who-2313 + index rollups. The substring hits (明青) in ourjourneys153 and a taiwanjustice article are false positives from 證明+青年, not this subject. Memoir material (週末漫談音樂 series) is already absorbed under Role in the Community. Verified-saturated; nothing new absorbable; no conflicts. -->
