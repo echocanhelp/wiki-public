@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Karen Chiang
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09250317-32: SKIP re-verified 2026-09-25 — fresh grep of works/+articles/ returns only own records #1169/#346 + works index; no memoir text; nothing absorbable. -->
 <!-- Corpus re-grep 2026-09-26 (slice 09251527-20): fresh ZH+EN grep of works/+articles/ returns only the records already wikilinked/absorbed on this page; verified saturated; SKIP-content. -->
 <!-- deepen-x slice 10051340-28 (2026-10-07): verified-saturated — name_zh empty, so widened to EN-only + surname greps across all five corpus dirs: hits remain only own records #1169/#346 + works index; no memoir text; nothing absorbable. -->
+<!-- deepen-x slice 10070315-6 (2026-10-08): verified-saturated — fresh EN grep across all five corpus dirs returns only own records #1169/#346 + works index; both works are bibliographic-record-only stubs (full text in vault); no memoir text; nothing absorbable. -->

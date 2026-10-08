@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Carol Kuo (簡雁齡)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09231200-6: re-verify 2026-09-25 — fresh ZH+EN grep: hits remain #2259, #379, #245 — all already absorbed; no new material. -->
 <!-- deepen-x 09250500-28: re-verify 2026-09-25 — fresh ZH+EN grep returned identical hit set (#2259, #379, #245, works index); saturated, no new material. -->
+<!-- deepen-x slice 10070315-6 (2026-10-08): verified-saturated — fresh ZH+EN grep (-E, 簡雁齡 / Carol Kuo) across all five corpus dirs returns only #2259, #379, #245 + works index (all already absorbed above); no new corpus material. -->
