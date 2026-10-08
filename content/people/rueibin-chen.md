@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Rueibin Chen (陳瑞斌)
 
@@ -50,3 +50,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09250317-19: re-verify 2026-09-25 — fresh grep (ZH+EN, works+articles): hit set identical to prior absorptions, all already linked in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 09251527-6: re-verify 2026-09-26 — fresh grep (ZH+EN, works+articles): hit set identical to prior absorptions, all already linked in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 10051340-9: re-verify 2026-10-06 — fresh ZH+EN+surname grep (works/articles/sources/events/topics): hit set unchanged (#324, #506, works/index, two already-linked TaiwanJustice records). One NEW hit surfaced: 林瑞斌 (高院法官) in a 2023 taiwanjustice judicial-reform article — name-similarity collision, NOT this person; disambiguation guard added above. No new absorbable biography facts. -->
+
+> Re-verify 2026-10-08 (deepen-x slice 10062334-9): fresh ZH+EN grep (陳瑞斌/Rueibin Chen) of works/ + articles/ + sources/ + events/ + topics/ — hit set unchanged (#324, #506, two already-linked TaiwanJustice records, sources index), all already wikilinked with facts absorbed. Verified saturated; SKIP-with-nothing-absorbable.

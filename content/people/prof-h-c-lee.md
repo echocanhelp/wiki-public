@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-08
 ---
 # Prof. H. C. Lee (李弘祺教授)
 
@@ -58,3 +58,5 @@ _No filled family fields on the TAH profile._
 - 2026-09-25 deepen-x slice 09240900-8: re-verify — identical hit set; verified-saturated; SKIP.
 - 2026-09-26 deepen-x slice 09251400-15: re-verify — identical hit set (#889, #101, ourjourneys2, disambiguated #1672, index); ourjourneys2 《高雄事件專輯》note re-read in full, already fully absorbed; verified-saturated; SKIP.
 <!-- deepen-x slice 09260900-1 (2026-09-30): re-verified — fresh ZH+EN grep (works+articles) returns only already-linked files: own TAH #889 entry, own collection #101, ourjourneys2 (《高雄事件專輯》note), disambiguated #1672 Bill H. C. Lee (different person), plus index. Verified-saturated; SKIP. -->
+
+> Re-verify 2026-10-08 (deepen-x slice 10062334-9): fresh ZH+EN grep (李弘祺/H. C. Lee) of works/ + articles/ + sources/ + events/ + topics/ — hit set unchanged (#889 own entry, #101 collection, ourjourneys2 《高雄事件專輯》note, disambiguated #1672 Bill H. C. Lee, sources index); ourjourneys2 passage re-read in full, fully absorbed. Verified saturated; SKIP-with-nothing-absorbable.

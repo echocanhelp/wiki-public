@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-08
 ---
 # Mark Jong (鍾茂萃)
 
@@ -64,3 +64,5 @@ Corpus re-check 2026-09-25 (deepen-x slice 09240800-6): fresh grep of works/+art
 Corpus re-check 2026-09-26 (deepen-x slice 09251000-27): fresh grep of works/+articles/ — hit set unchanged, all hits already wikilinked with facts absorbed. SKIP-deepen; verified saturated.
 
 Corpus re-check 2026-09-27 (deepen-x slice 09260600-15): fresh grep of works/+articles/ (鍾茂萃 / Mark Jong) — hit set unchanged (ourjourneys296, our-journeys-351, #740 + works index), all already wikilinked with facts absorbed. SKIP-deepen; verified saturated.
+
+> Re-verify 2026-10-08 (deepen-x slice 10062334-9): fresh ZH+EN grep (鍾茂萃/Mark Jong, incl. family names 廖美滿/鍾約儀/鍾啟台) of works/ + articles/ + sources/ + events/ + topics/ — hit set unchanged (ourjourneys296, our-journeys-351, #740, sources index), all already wikilinked with facts absorbed. Verified saturated; SKIP-with-nothing-absorbable.

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-08
 ---
 # Taiwanese Sporting Association, New Jersey (紐澤西台灣人運動協會)
 
@@ -36,3 +36,5 @@ The Taiwanese Sporting Association of New Jersey is a community organization cen
 > Re-verify 2026-09-25 (deepen-x slice 09240800-23): fresh grep — hit set = own record, ourjourneys356 (+eng), works/index; all absorbed. SKIP.
 > Re-verify 2026-09-26 (deepen-x slice 09251023-12): fresh grep — hit set unchanged (own record, ourjourneys356 +eng, index); all absorbed. SKIP.
 > Re-verify 2026-09-30 (deepen-x slice 09260854-28): fresh ZH+EN grep — hit set unchanged (own record, ourjourneys356 +eng, works/index); all already wikilinked. SKIP; nothing new absorbable.
+
+> Re-verify 2026-10-08 (deepen-x slice 10062334-9): fresh ZH+EN grep (紐澤西台灣人運動協會/Taiwanese Sporting Association) of works/ + articles/ + sources/ + events/ + topics/ — hit set unchanged (own record, ourjourneys356 +eng, sources index); all already wikilinked. Verified saturated; SKIP-with-nothing-absorbable.
