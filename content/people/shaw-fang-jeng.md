@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Shaw Fang Jeng (鄭劭方)
 
@@ -42,6 +42,7 @@ last_reviewed: 2026-10-07
 - TAH encyclopedia profile: [[works/taiwaneseamericanhistory-org/585-shaw-fang-jeng-e9-84-ad-e5-8a-ad-e6-96-b9-201509|TAH #585, Shaw Fang Jeng 鄭劭方, 2015/09]].
 - Signed the 2019-09-03 joint overseas-Taiwanese-organizations statement "拒一國兩制" in solidarity with Hong Kong's pro-democracy protests, listed as **Shawfang Jeng, President, Taiwanese Association of America** — one of ~15 diaspora org presidents co-signing alongside NATPA, WUFI-USA, FAPA, WTC, and NATWA leadership. See [[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|Joint TA Organizations' Hong Kong Solidarity Statement (2019-09)]].
 - HOLD: conflict — page Era lists 1961 while the page snapshot gives Geography 台灣/新竹/竹北 and no confirming date in the corpus; era year left unmerged pending source.
+- Re-verified 2026-10-08 (slice 10070315-20): fresh grep across all five corpus dirs confirms the hit set above is complete — own TAH #585 record plus the two cited articles only; no new community material.
 
 ## Sources
 - [TAH #585 encyclopedia: 585. Shaw Fang Jeng 鄭劭方 / 2015/09](https://taiwaneseamericanhistory.org/585-shaw-fang-jeng-%e9%84%ad%e5%8a%ad%e6%96%b9-201509/)

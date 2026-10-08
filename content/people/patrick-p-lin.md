@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Patrick P. Lin (林博智)
 
@@ -49,3 +49,4 @@ last_reviewed: 2026-10-07
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 10051400-13 (2026-10-07): SKIP verified-saturated — fresh ZH+EN grep (林博智/Patrick P. Lin/林芳仁) across works/articles/sources/events/topics returns only directory records 2187 + OTA-262 and index backlinks; 林芳仁 appears nowhere else; employer-name greps were substring false positives. Nothing absorbable. -->
+<!-- deepen-x slice 10070315-20 (2026-10-08): SKIP re-verified — fresh grep (林博智/Patrick P. Lin/林芳仁) across all five corpus dirs returns only directory records 2187 + OTA-262 + index backlinks; 林芳仁 appears nowhere else. Nothing absorbable. -->
