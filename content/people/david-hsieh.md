@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # David Hsieh (謝漢強)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070315-31 re-verify): fresh grep across all five corpus dirs returns own award record #35, own profile whoswho1491, index, and source page. The regex hits in ourjourneys321/293/69-eng resolve to Chang-Jang Hsieh 謝長江 (verified: zero occurrences of 謝漢強/David Hsieh in those files) — different person, do not link. No new corpus material; page saturated. -->

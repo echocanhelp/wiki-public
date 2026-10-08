@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Chao W Chen (陳昭文)
 
@@ -42,3 +42,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070315-31 re-verify): fresh grep (陳昭文/Chao W Chen/Chao-Wei Chen) across all five corpus dirs returns own record whoswho2091, the already-absorbed ourjourneys233-eng, index, and source page. Other 昭文 hits are 孟昭文 (Grace Meng) and unrelated taiwanjustice articles — different persons. No new corpus material; page saturated. -->

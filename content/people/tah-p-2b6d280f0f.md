@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # 陳建賓
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- DEEPEN-X SKIP 2026-10-08 (slice 10070315-31 re-verify): fresh grep (陳建賓/建賓/Chien-Pin Chen) across works+articles+sources+events+topics returns own record #430, the already-absorbed Our Journeys #382 (3 mentions, all photo-caption credits), index, and source page. The taiwanjustice-net hits are 黃建賓 (KMT 立委) — different person, not to be linked. No new corpus material; page saturated. -->
