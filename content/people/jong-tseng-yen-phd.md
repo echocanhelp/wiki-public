@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Jong-Tseng Yen PhD (顏榮增博士)
 
@@ -48,3 +48,5 @@ SKIP: corpus check found no community material beyond the person's own TAH encyc
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10070600-15: SKIP — fresh grep 2026-10-08 (works/articles/sources/events/topics, ZH+EN+surname+alias): own TAH record(s) + index digests only; full-tree sweep outside own pages = index listings only. Verified-saturated. -->

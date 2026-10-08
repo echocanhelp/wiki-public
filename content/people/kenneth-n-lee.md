@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Kenneth N. Lee (李乃恭)
 
@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09250600-13: SKIP — fresh grep 2026-09-25 (works/articles): own TAH #1884 record + works-index digest only; no memoir or community material. -->
 
 <!-- deepen-x 10051918-26: SKIP — fresh grep 2026-10-07 (works/articles/sources/events/topics, ZH+EN+surname): own TAH record + works-index digest only; no memoir or community material. -->
+
+<!-- deepen-x 10070600-15: SKIP — fresh grep 2026-10-08 (works/articles/sources/events/topics, ZH+EN+surname+alias): own TAH record(s) + index digests only; full-tree sweep outside own pages = index listings only. Verified-saturated. -->
