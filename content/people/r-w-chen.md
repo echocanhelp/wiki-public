@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # R. W. Chen (陳瑞玟)
 
@@ -52,3 +52,4 @@ SKIP (re-verified 2026-09-25, deepen-x 09231500-1): fresh ZH+EN greps of works/ 
 
 > Re-check (deepen-x 09250600-11, 2026-09-25): fresh ZH+EN grep of content/works + content/articles — hit set identical to prior passes (own TAH bibliographic record + works/index only; for Victor Liu also the unrelated 紅通-family article). SKIP confirmed; nothing absorbable, no biography invented.
 <!-- deepen-x slice 10051918-18 (2026-10-07): five-dir grep (works/articles/sources/events/topics) for 陳瑞玟/R. W. Chen — zero hits outside own page + own TAH #1063 record. Broad surname-stem 陳瑞 hits are all different people: 陳瑞斌 (TAH #324 pianist), 陳瑞珠, 陳瑞超, 陳瑞寶. Verified-saturated; SKIP. -->
+<!-- deepen-x 10070500-28: SKIP — fresh five-dir grep 2026-10-08: zero hits outside own page + own TAH #1063 record; Ruiwen/Ruey-Wen variant probes zero hits; 陳瑞 stem hits all different persons. Verified-saturated. -->

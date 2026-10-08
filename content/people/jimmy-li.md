@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Jimmy Li (李正明)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09251031-13 recheck 2026-09-26: fresh ZH+EN grep matches only own record whoswho1887 + works/index + the Jimmy Liu false positive in american-born-chinese-disney. No new corpus facts; SKIP-with-reason stands. -->
 <!-- deepen-x slice 09261300-11 recheck 2026-10-01: fresh ZH+EN grep (Jimmy Li / 李正明) of works/+articles — hit set unchanged (own record whoswho1887 + works/index + Jimmy Liu false positive in american-born-chinese-disney, different person). No new corpus facts. SKIP-with-reason stands. -->
 <!-- deepen-x slice 10051918-19 recheck 2026-10-07: fresh five-dir grep (works/articles/sources/events/topics) for Jimmy Li / 李正明 — hit set unchanged (own record whoswho1887 + works/index + sources index + Jimmy Liu false positive in american-born-chinese-disney, different person). No new corpus facts. SKIP-with-reason stands. -->
+<!-- deepen-x 10070500-28: SKIP — fresh five-dir grep 2026-10-08: hit set unchanged (own record whoswho1887 + indexes + Jimmy Liu false positive, different person); romanization variant probes zero hits. Verified-saturated. -->
