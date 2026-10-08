@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Pofu Hsieh (謝博夫醫師)
 
@@ -58,3 +58,4 @@ Corpus re-check 2026-09-22 (deepen-x slice 09220400-26): fresh grep for 謝博�
 <!-- deepen-x slice 09251000-31 (2026-09-26): saturated re-verify — fresh grep 謝博夫 / Pofu Hsieh returns whos-who-1904 + works index + the 2021 WHO forum article, all already absorbed above. SKIP-deepen. -->
 <!-- deepen-x slice 09260600-22 re-verify 2026-09-27: fresh grep 謝博夫/Pofu — hit set identical (whos-who-1904, works index, 2021 WHO forum article), all absorbed. SKIP-deepen. -->
 <!-- deepen-x slice 10051909-15 re-verify 2026-10-07: fresh ZH+EN+surname grep — new candidate hits all identity-rejected: '謝醫師' in 2022 TJJ music column = substring of '感謝醫師'; '謝博' in 2023 TJJ article = substring of '感謝博達安'; whoswho1237/50948/ourjourneys-138 = 謝博六 (Paul B. Hshieh), different person. Hit set otherwise identical, all absorbed. SKIP-deepen. -->
+<!-- deepen-x slice 10070400-23 re-verify 2026-10-08: fresh grep 謝博夫 / Pofu Hsieh across all five corpus dirs returns only whos-who-1904 + works index + sources listing + the 2021 WHO forum article (names him as NATMA 總會長) — all already absorbed above. Hit set identical to prior slices. SKIP-deepen. -->

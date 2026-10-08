@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Nancy Fan-Paul (樊意琪醫師)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-10-07
 <!-- deepen-x slice 09231400-3 recheck 2026-09-25: SKIP — fresh ZH+EN grep of works/+articles matched only this person's own TAH Who's Who work page and the works index; hit set identical to prior re-verifications, no independent memoir/article material to absorb. -->
 <!-- deepen-x slice 09250600-21 recheck 2026-09-25: SKIP — fresh ZH+EN grep (樊意琪/Fan-Paul/Nancy Fan) matched only own whos-who-2041 work page and works index; no independent memoir/article material. -->
 <!-- deepen-x slice 10051909-15 recheck 2026-10-07: SKIP — fresh grep 樊 surname across corpus returns only other Fan individuals (樊中原 2022 TJJ, 樊冬寧 2025/2026 TJJ, 樊立勳 whoswho1269) plus already-absorbed family hits (樊豐美 ourjourneys27/304/28, 蒲仲強 華運會 article). No new material naming 樊意琪 / Fan-Paul. -->
+<!-- deepen-x slice 10070400-23 re-verify 2026-10-08: fresh grep 樊意琪 / Fan-Paul / Nancy Fan across all five corpus dirs returns only own whos-who-2041 work page + works index + sources listing — no independent memoir/article material naming her. Verified saturated; SKIP-deepen. -->
