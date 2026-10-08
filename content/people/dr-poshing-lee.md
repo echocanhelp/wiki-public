@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Dr. Poshing Lee (李勃興醫師)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 
 - 2026-09-30 corpus re-check (deepen-x slice 09260854-22): fresh grep '李勃興|Poshing Lee' (fixed alternation, -rl + -h -m2 -A2) over works+articles returns only his own whos-who-2007 record and works/index — identical to prior waves. Verified-saturated; SKIP-no-new-facts.
 <!-- deepen-x slice 10051909-16 re-grep 2026-10-07: fresh ZH+EN+surname grep (李勃興 / Poshing / 勃興) across all five corpus dirs returns own whos-who-2007 record + sources index. Surname-only 勃興 additionally hits our-journeys-379 but there it is the common word 「社會運動勃興」(rise of social movements), NOT this person — false positive, not absorbed. Verified-saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 10070400-24 (2026-10-08): re-verified — fresh ZH+EN+surname grep (李勃興 / Poshing / 勃興) across works/articles/sources/events/topics returns the identical hit set: own whos-who-2007 record + works/sources index. Surname-only 勃興 again hits only our-journeys-379 as the common word 「勃興」(rise), not this person. Verified-saturated; SKIP-no-new-facts. -->

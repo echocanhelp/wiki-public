@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-08
 ---
 # Prof. Lily Yeh Ja (葉公杼教授)
 
@@ -56,3 +56,4 @@ Re-grepped 2026-09-25 (slice 09240700-30): hits unchanged (#1907, #33, #315 + in
 <!-- deepen-x slice 09251000-32 (2026-09-26): saturated re-verify — fresh ZH+EN grep hit set unchanged (#1907, #33, #315 + index); all absorbed above. SKIP-content. -->
 <!-- deepen-x slice 09260600-31 (2026-09-27): saturated re-verify — fresh ZH+EN grep hit set unchanged; all records already absorbed above. SKIP-content. -->
 <!-- deepen-x slice 09270700-22 (2026-10-03): saturated re-verify — fresh ERE grep (zh+en+variant names, -rlE probe self-checked non-vacuous) over content/works + content/articles returns the identical hit set (person-specific TAH records + index only), all already absorbed/wikilinked above. SKIP-content; HOLDs stand. -->
+<!-- deepen-x slice 10070400-24 (2026-10-08): re-verified — fresh grep (葉公杼 / Lily Yeh Ja / Lily Jan / Yuh-Nung Jan / 詹裕農) across all five corpus dirs returns the identical set (#1907, #33, #315 + index), all already absorbed/wikilinked above. HOLD (Ja vs Jan name-variant) stands. Verified-saturated; SKIP-no-new-facts. -->

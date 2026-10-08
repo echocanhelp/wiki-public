@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Robert Yien (顏善邦教授)
 
@@ -56,3 +56,4 @@ Accomplishment
 
 <!-- deepen-x 09260900-23: re-checked 2026-10-01 — fresh grep (顏善邦 / Robert Yien) works+articles: hits remain only [[works/taiwaneseamericanhistory-org/whos-who-2120-robert-yien|TAH #2120 self-record]] + works/index. SKIP-with-reason stands: no memoir/community-body facts beyond the TAH press-kit record. -->
 <!-- deepen-x 10051909-19: re-checked 2026-10-07 — fresh ZH+EN+surname grep (顏善邦 / Robert Yien / Yien) across works/articles/sources/events/topics: hits remain only [[works/taiwaneseamericanhistory-org/whos-who-2120-robert-yien|TAH #2120 self-record]] + works/index. Loose hits verified as noise: 善邦 in a taiwanjustice article is 改「善邦」交 substring; Yien-hwei (Franklin) Lee 李彥輝 (works #2/#436) is a different person sharing the romanization. SKIP-with-reason stands: no community facts beyond the TAH press-kit record. -->
+<!-- deepen-x slice 10070400-24 (2026-10-08): re-verified — fresh grep (顏善邦 / Robert Yien / 善邦) across all five corpus dirs returns only own TAH #2120 record + index; the 善邦 substring hit in the taiwanjustice article remains unrelated text (改「善邦」交). Verified-saturated; SKIP-no-new-facts. -->
