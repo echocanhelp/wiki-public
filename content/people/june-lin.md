@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # June Lin (林倢)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-verified 2026-09-26 (deepen-x slice 09251023-15): fresh ZH+EN grep returned only the already-absorbed records (record 320, TAH #1925, Pew statement) plus false substring matches (works index, Goohana "June line-up"). SKIP — verified-saturated.
 - Corpus re-verified 2026-10-01 (deepen-x slice 09260900-25): fresh ZH+EN grep of works/ + articles/ for 林倢 / June Lin returns the identical saturated set — record 320, TAH #1925 (both already linked above; the #1925 page is bibliographic-only, no new biography), the Pew statement signature, the works index, and the Go!Ohana "June line-up" false substring match (a month word, and Cynthia Lin — a different person). SKIP — verified-saturated, nothing new absorbable.
 - Corpus re-verified 2026-10-07 (deepen-x slice 10051340-22): widened grep (林倢 / June Lin) across works+articles+sources+events+topics returns the identical set — record 320 essay, TAH #1925, Pew statement signature, works index, plus the Go!Ohana "June line-up" false substring match. Verified-saturated; SKIP — nothing new absorbable.
+> Corpus re-grep 2026-10-08 (deepen-x slice 10070034-6): fresh ZH+EN grep (林倢 / June Lin) across works/articles/sources/events/topics returns the identical saturated set — record 320 essay, TAH #1925, Pew statement signature, works index, plus the Go!Ohana "June line-up" false substring match (month word; Cynthia Lin = different person). Verified-saturated; SKIP-content.

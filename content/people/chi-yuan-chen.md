@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chi-Yuan Chen (陳麒元)
 
@@ -55,3 +55,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09251527-12 re-grep 2026-09-26: fresh ZH+EN grep of works+articles returns only own-name records already wikilinked on this page (plus works index); no new third-party corpus material — verified saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 09260854-30 re-grep 2026-10-01: fresh ZH+EN grep (陳麒元 / Chi-Yuan Chen) of works+articles returns only musician390 + whoswho-1571 + works index — verified saturated, nothing new absorbable, SKIP content-deepen. -->
 <!-- deepen-x slice 10051340-23 re-grep 2026-10-07: fresh ZH+EN grep (陳麒元/Chi-Yuan Chen/麒元) across works/articles/sources/events/topics returns only musician390 + whoswho-1571 + works index + sources mirror; the 麒元 article hit is 財經作家盧麒元 (different person, confirmed 2026-09-21) — verified saturated, SKIP content-deepen. -->
+> Corpus re-grep 2026-10-08 (deepen-x slice 10070034-6): fresh ZH+EN grep (陳麒元 / Chi-Yuan Chen / 麒元) across works/articles/sources/events/topics returns only musician390 + whoswho-1571 + works/sources index; the 麒元 article hit is 財經作家盧麒元 (different person). Verified-saturated; SKIP-content.

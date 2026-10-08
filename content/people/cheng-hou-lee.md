@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Cheng-Hou Lee (李振豪)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09260900-13 re-grep 2026-09-30: fresh ZH+EN grep of works+articles — hit set unchanged (own records 286/569 + index only); no new absorbable corpus material. Verified-saturated; SKIP content-deepen. -->
 <!-- deepen-x slice 09260900-13 re-grep 2026-10-01 (re-run): fresh ZH+EN grep re-run this session — hit set unchanged (286/569 + index only). Verified saturated; SKIP. -->
 <!-- deepen-x slice 10051340-22: re-verify 2026-10-07 — widened grep (李振豪/Cheng-Hou Lee/振豪) across works+articles+sources+events+topics returns only own records 286/569 + works/sources index listings. No memoir or first-person material in corpus. Verified-saturated; SKIP. -->
+> Corpus re-grep 2026-10-08 (deepen-x slice 10070034-6): fresh grep (李振豪 / Cheng-Hou Lee / 振豪) across works/articles/sources/events/topics returns only own records 286/569 + works/sources index listings. No memoir or first-person material. Verified-saturated; SKIP-content.
