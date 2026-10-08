@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Alexander Yeh (葉怡平)
 
@@ -53,3 +53,4 @@ Corpus re-scan 2026-09-26 (deepen-x 09251047-8): SKIP re-confirmed — fresh gre
 
 <!-- deepen-x re-verified SKIP 2026-10-02 (slice 09261400-6): fresh ZH+EN grep (full-corpus scope: works/ + articles/ + knowledge/) -> only own Who's Who record + works index + source roster link; no third-party memoir material. SKIP stands. -->
 <!-- deepen-x re-verified SKIP 2026-10-07 (slice 10051948-16): fresh ZH+EN+variant grep across works/articles/sources/events/topics -> only [[works/taiwaneseamericanhistory-org/whoswho1392|own record #1392]] + index; no third-party mentions. -->
+<!-- deepen-x re-verified SKIP 2026-10-08 (slice 10070600-23): extended sweep now includes knowledge/web-archives (vault) — 葉怡平 / Alexander Yeh hits only own record whoswho1392, person JSON, index.jsonl. No memoir or community material anywhere in corpus. SKIP stands. -->
