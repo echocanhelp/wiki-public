@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Angellee Shaw Chen (陳安仁理博士)
 
@@ -60,3 +60,4 @@ Family-layer corpus context (absorbed 2026-09-21): she is part of the Shaw Chen 
 <!-- deepen-x 09250317-18: re-verify 2026-09-25 — fresh ZH+EN grep (works/articles): hit set identical to prior absorption waves; all corpus facts already absorbed in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 09251527-5: re-verify 2026-09-26 — fresh ZH+EN grep (works/articles): hit set identical to prior absorption waves; all corpus facts already absorbed in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 09300321-6: re-verify 2026-10-04 — fresh ZH+EN grep (安仁理 / Angellee Shaw Chen): hit set identical (whos872 + family records + index); nothing new absorbable. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x 10062334-28: re-verify 2026-10-08 — fresh ZH+EN grep (安仁理 / Angellee / 陳安仁) across works/articles/sources/events/topics: only whos872 + index/source hubs; family-record set unchanged. Verified saturated; SKIP-no-new-facts. -->

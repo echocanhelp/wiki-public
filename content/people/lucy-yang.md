@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-08
 ---
 # Lucy Yang (楊淑詠)
 
@@ -45,3 +45,4 @@ last_reviewed: 2026-10-06
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 10062334-28: re-verify 2026-10-08 — fresh grep (Lucy Yang / 楊淑詠 / 淑詠) across works/articles/sources/events/topics: only her own entry whos1095 + index/source hubs. No memoir or community-activity text. Verified saturated; SKIP-no-new-facts. -->

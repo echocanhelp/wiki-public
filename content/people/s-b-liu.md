@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # S. B. Liu (劉西北)
 
@@ -48,3 +48,4 @@ last_reviewed: 2026-10-01
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 10062334-28: re-verify 2026-10-08 — fresh grep (S. B. Liu / 劉西北 / 西北) across works/articles/sources/events/topics: own record whoswho1866 + index/source hubs only. All other 西北 matches are place names (TANLA 西北區, NATMA 西北(西雅圖)分會, 西北大學/西北路州大學, internment-camp 西北部) — not this person. Verified saturated; SKIP-no-new-facts. -->

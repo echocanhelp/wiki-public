@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-08
 ---
 # Prof. Pei-Jung Lin
 
@@ -44,3 +44,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x 10062334-28: re-verify 2026-10-08 — fresh grep (Pei-Jung Lin / 林佩* / 佩容) across works/articles/sources/events/topics: own record whos-who-1999 + index only. Non-self hits are different people (林佩君 觀光局副組長, 林佩霓 黑沃咖啡執行長, 林佩璇 in ourjourneys107) — not this person. Verified saturated; SKIP-no-new-facts. -->
