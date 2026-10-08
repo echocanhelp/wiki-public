@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Marcy Leroy Ditmanson (戴德森醫師)
 
@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-26 (slice 09251047-10): fresh ZH+EN grep — hits remain only the two own records (whoswho1346, whowho1357) plus the works index; no memoir material. SKIP stands.
 - Re-verified 2026-10-02 (slice 09261400-5): fresh ZH+EN grep (戴德森 / Ditmanson / Marcy) — hits remain only the two own records (whoswho1346, whowho1357) + works index. SKIP stands.
 - Re-verified 2026-10-07 (slice 10051400-21): fresh grep (戴德森 / Ditmanson / Marcy) across works/articles/sources/events/topics — hits remain only the two own records + works index + source hub; no memoir material. SKIP stands.
+- Re-verified 2026-10-08 (slice 10070315-28): fresh grep (戴德森 / Ditmanson / Marcy) across all five corpus dirs — hits remain only the two own records ([[works/taiwaneseamericanhistory-org/whoswho1346|1346]], [[works/taiwaneseamericanhistory-org/whowho1357|1357]]) + works index + source hub; no memoir material. SKIP stands.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
