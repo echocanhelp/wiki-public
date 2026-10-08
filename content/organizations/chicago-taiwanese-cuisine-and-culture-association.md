@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Chicago Taiwanese Cuisine and Culture Association (芝加哥台灣美食文化交流協會)
 
@@ -23,6 +23,7 @@ The Chicago Taiwanese Cuisine and Culture Association promotes Taiwanese traditi
 - Recorded in the TAH story corpus as a directory entry on 2017-04-21 ([[works/taiwaneseamericanhistory-org/chicago-taiwanese-cuisine-and-culture-association|Chicago Taiwanese Cuisine and Culture Association 芝加哥台灣美食文化交流協會]]).
 - Hosted the Family Fun Fest 台灣小吃與童玩遊園會 — a Taiwanese street-food and traditional-children's-games carnival for families, recorded as story #62 in the same corpus batch ([[works/taiwaneseamericanhistory-org/family-fun-fest-chicago|62. Family Fun Fest 台灣小吃與童玩遊園會]]), showing the association's outreach beyond cooking classes into family-oriented cultural events, alongside the wider 芝加哥台灣傳統週 (Taiwanese American Heritage Week of Chicago) ecosystem ([[works/taiwaneseamericanhistory-org/taiwanese-american-heritage-week-of-chicago|TAH: Taiwanese American Heritage Week of Chicago 芝加哥台灣傳統週]]).
 - Corpus re-check 2026-09-22: fresh grep of works/articles returns only the directory entry and the Family Fun Fest story #62 record (both already absorbed) — no new community facts.
+- **Family Fun Fest 台灣小吃與童玩遊園會 — venue & organizers (new, from full text of story #62, 2026-10-08).** The carnival was held **5/12 Saturday, 11:30am–3:00pm at 芝加哥台灣文教中心 (Chicago Taiwan Cultural Center), 55 E. 63rd St., Westmont, IL 60559**; 主辦單位: 芝加哥台灣美食文化交流協會, 贊助單位: 芝加哥台灣文教中心. Named contacts on the flyer: **陳美麗 (630-772-9396)** and **程秀鳳 (630-660-3394)** — first named individuals tied to this association in the corpus. Cooking-class enrollment contact: tobywu@yahoo.com (per directory entry full text); teacher cited as 陳老師 ("Teacher Chen"). HOLD: 陳老師's full name not established in corpus — do not conflate with 陳美麗 (flyer contact).
 > Re-verified 2026-09-23 (slice 09221500-13) and 2026-09-25 (slice 09230900-23): fresh grep 芝加哥台灣美食文化交流協會 across works/ + articles/ returns only the directory entry and Family Fun Fest #62 (both absorbed); verified saturated.
 
 - Re-verified 2026-09-25 (slice 09250400-4): fresh grep 芝加哥台灣美食文化交流協會/Chicago Taiwanese Cuisine over works+articles returns only the directory entry, Family Fun Fest #62, and the works index — all absorbed; saturated.
