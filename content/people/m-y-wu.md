@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # M. Y. Wu (吳美雲)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 <!-- deepen-x sweep 2026-10-07 (slice 10051909-7): fresh ZH+EN grep of works/articles/sources/events/topics for 吳美雲 / M. Y. Wu -> only own record whoswho1435 + works/index + sources registry; 美雲 hits belong to 黃美雲 (whoswho1463/1773, musician419) and 唐美雲歌仔戲團 (article) — different persons. Verified-saturated, SKIP stands. -->
+<!-- deepen-x slice 10070400-15: re-verify 2026-10-08 — fresh ZH+EN grep of works/articles/sources/events/topics returns only own record(s) + works/index + sources registry; no memoir narrative. Verified-saturated; SKIP stands. -->

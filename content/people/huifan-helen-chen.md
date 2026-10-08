@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Huifan Helen Chen
 
@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 10051909-6: re-verify 2026-10-07 — fresh grep Huifan/Huifang/慧帆/Helen Chen (works/articles/sources/events/topics) returns only own records #184/#381 + index + Pew statement bare Helen Chen signatory (already HOLDed). Violin+Chen hits are Ray Chen / Chi-Yin Chen / Kuan-Cheng Lu — different people. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 10070400-15: re-verify 2026-10-08 — fresh ZH+EN grep of works/articles/sources/events/topics returns only own record(s) + works/index + sources registry; no memoir narrative. Verified-saturated; SKIP stands. -->

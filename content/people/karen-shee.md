@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Karen Shee (施卿柔)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 10051909-6: re-verify 2026-10-07 — fresh grep 施卿柔/Karen Shee/卿柔 (works/articles/sources/events/topics) returns only whos-who-1934 + works/index + source hub. Surname sweep (Shee) hits Dr. Sam Shee 施哲三 — no relation evidence, not merged. AACPAC/華人書畫 association grep: zero other hits. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 10070400-15: re-verify 2026-10-08 — fresh ZH+EN grep of works/articles/sources/events/topics returns only own record(s) + works/index + sources registry; no memoir narrative. Verified-saturated; SKIP stands. -->
