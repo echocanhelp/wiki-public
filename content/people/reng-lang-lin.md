@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Reng-Lang Lin (林祁郎)
 
@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Featured in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/786-reng-lang-lin-e6-9e-97-e7-a5-81-e9-83-8e-201601|788. Reng-Lang Lin 林祁郎 /2016/01]] (published 2016-01-31).
 - Corpus check 2026-09-18: no community activity beyond this bibliographic record; no additional facts absorbable. Re-checked 2026-09-21 / 2026-09-25 / 2026-09-26 / 2026-10-07 (deepen-x slices, five-dir greps incl. 祁郎 substring): 林祁郎 / Reng-Lang Lin returns only this record + works/index — SKIP stands, verified-saturated.
+- Re-checked 2026-10-08 (deepen-x 10070700-28): the web-archive corpus was swept in addition to the five content dirs — 祁郎 hits there are limited to his own post file, person JSON, and index.jsonl. No memoir, org, or event material exists. SKIP stands.
 
 ## Sources
 - [TAH #788 encyclopedia: 788. Reng-Lang Lin 林祁郎 /2016/01](https://taiwaneseamericanhistory.org/786-reng-lang-lin-%e6%9e%97%e7%a5%81%e9%83%8e-201601/)
