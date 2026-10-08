@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # K. S. Chao (趙坤山)
 
@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whoswho1195|1195. K. S. Chao 趙坤山 / 2016/07]] — own record in the TAH story corpus (deepen-x 09180900-30: only corpus hit; bibliographic, no memoir facts to absorb)
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070500-12 re-grep 2026-10-08: five-dir grep (works/articles/sources/events/topics) resolves to own [[works/taiwaneseamericanhistory-org/whoswho1195|#1195]] + works/index + sources rollup only. Vault web-archive community material (St. Louis TAA chairmanship roll in project-3-37, NATAA 大紐約分會 signing in related-tw-81, 高醫美國校友會 history essay) already absorbed 2026-10-07 (slice 10051948-27) above. Verified saturated — SKIP stands. -->

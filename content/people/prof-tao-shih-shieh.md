@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Tao-Shih Shieh (謝道時教授)
 
@@ -52,3 +52,4 @@ Prof. Tao-Shih Shieh 謝道時教授 – History of Taiwanese American (T.A. Arc
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-grep 2026-09-25 (deepen-x 09250600-29): hit set unchanged (own TAH #1838 + index only); HOLD stands; no new community facts absorbable.
+<!-- deepen-x slice 10070500-12 (2026-10-08): SKIP re-verified — exact ZH+EN grep across all five corpus dirs returns zero content hits for 謝道時/Tao-Shih Shieh; surname-only `Shieh` hits (ourjourneys-138, 250-esther-shieh, 106-j-h-justina-shieh, etc.) are other Shiehs, verified false positives. Hit set = own TAH #1838 + index/sources rollups only. Verified saturated; HOLD stands. -->

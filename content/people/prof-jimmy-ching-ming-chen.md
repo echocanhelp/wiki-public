@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. Jimmy Ching-Ming Chen
 
@@ -53,3 +53,4 @@ SKIP (verified saturated) — fresh ZH+EN grep returns only own record [[works/t
 <!-- deepen-x slice 09250400-22 (2026-09-25): SKIP re-verified — fresh grep returns only own TAH #1764, the 鄭靜旻 near-name works (different person, HOLD), + index; no new material. -->
 <!-- deepen-x slice 09252123-18 (2026-09-26): SKIP re-verified — fresh ZH+EN grep returns only own TAH #1764, the 鄭靜旻 near-name works (different person, HOLD), + index; no new absorbable material. Verified saturated. -->
 <!-- deepen-x slice 10051918-3 (2026-10-07): SKIP re-verified — fresh grep Jimmy Chen / Ching-Ming Chen across all corpus dirs returns only own TAH #1764 + the 鄭靜旻 near-name works (different person, HOLD) + index. Other Jimmy hits (Jimmy Lee/ISSI in ourjourneys19, YouTuber Jimmy Wang) are different people. Verified saturated. -->
+<!-- deepen-x slice 10070500-12 (2026-10-08): SKIP re-verified — fresh five-dir grep returns only own TAH #1764 + 鄭靜旻 near-name works #85/#49 (different person, HOLD) + works/index + sources rollup. No new absorbable material. Verified saturated. -->

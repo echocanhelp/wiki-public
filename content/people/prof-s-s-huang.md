@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Prof. S. S. Huang (黃壽山教授)
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 10051909-30 re-grep 2026-10-07: hit set = own #2086 + 349 memoir (外野手 roster line) + sources rollup, all already linked; no new mention of 黃壽山. Verified saturated — SKIP stands. -->
+<!-- deepen-x slice 10070500-12 re-grep 2026-10-08: hit set unchanged — own [[works/taiwaneseamericanhistory-org/whos-who-2086-s-s-huang|#2086]] + [[works/taiwaneseamericanhistory-org/349-our-journeys|349 memoir]] roster line + works/index + sources rollup, all already linked. No new memoir/event mention of 黃壽山. Verified saturated — SKIP stands. -->
