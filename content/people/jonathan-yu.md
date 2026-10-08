@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-08
 ---
 # Jonathan Yu (余裕義)
 
@@ -39,6 +39,9 @@ _No filled family fields on the TAH profile._
 - deepen-x 09232232-10 于 2026-09-25 複查 works/articles：ZH+EN 雙查僅本身 TAH Who's Who 條目與 index 收錄行命中，無獨立語料可吸收。
 - deepen-x 09251047-11 于 2026-09-26 複查：ZH+EN 雙查仍僅命中 [[works/taiwaneseamericanhistory-org/whoswho1331|1331. Jonathan Yu 余裕義 / 2016/10]] 與 index 收錄行（index 鄰行 Michael K. Yu 游貴森為另一人），語料已飽和，SKIP-with-reason。
 - deepen-x 10051948-30 于 2026-10-07 五目錄複查（ZH+EN）：僅本身條目與 index/sources 收錄行命中，無獨立語料可吸收，SKIP。
+- **PCT clergy pipeline:** named among the seven PCT pastors serving the 1980-12-07 plant of 好牧師台灣基督長老教會 Good Shepherd Taiwanese Presbyterian Church (Monterey Park) in the GSTPC40 40th-anniversary account — recorded there as 「余裕義 later deceased」at that writing. See [[organizations/good-shepherd-taiwanese-presbyterian-church|Good Shepherd TPC]] and [[organizations/tpc|TPC]].
+- HOLD: living-status conflict — GSTPC40 (2020) lists 余裕義 among pastors later deceased, while TAH Who's Who (2016 record) lists him as present 主任 of 洛杉磯「家庭希望線」and pastor of 洛杉磯台灣基督敎會. Not merged; needs corroboration before any date/death assertion.
+- deepen-x 10070700-17 于 2026-10-08 複查：首次於 works 目錄之外命中——content/organizations/tpc.md 與 good-shepherd-taiwanese-presbyterian-church.md 之 GSTPC40 敘述提及 余裕義（牧職脈絡），已吸收如上；works/articles/sources/events/topics 仍僅本身條目與 index 收錄行。
 
 ## Sources
 - [TAH #1331 encyclopedia: 1331. Jonathan Yu 余裕義 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1331/)
