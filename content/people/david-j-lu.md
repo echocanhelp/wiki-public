@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # David J. Lu (盧焜熙)
 
@@ -64,3 +64,4 @@ PhD, International Law and International Relations
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-26 (slice 09260500-32): fresh ZH+EN grep — hit set identical to records already absorbed (see above). Verified-saturated SKIP.
 - Corpus re-grep 2026-10-08 (slice 10070034-2): fresh grep 盧焜熙/David J. Lu/David Lu returns only the two wikilinked band-B records (109, 590), works/index, and the Our Journeys 43 memoir where "David Luck (Kingston Church)" again reads as the PCSA 新澤西中會 member (1999), not Lu. Kinship note (brother of John Lai 盧明, added slice 10051340-20) stands. Verified saturated; SKIP-no-new-facts.
+- Corpus re-grep 2026-10-09 (slice 10080735-32): fresh grep 盧焜熙/David J. Lu/David Lu/盧焜 — hit set unchanged (109, 590, works/index, sources page, Our Journeys 43 David Luck ≠ Lu). Verified saturated; SKIP-no-new-facts.
