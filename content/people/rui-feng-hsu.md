@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Rui-feng Hsu (許瑞峰)
 
@@ -55,3 +55,4 @@ last_reviewed: 2026-10-08
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-sweep 2026-10-06 (slice 10051314-6): fresh ZH+EN grep across works/ articles/ sources/ events/ topics — hits unchanged (self-record + index only); no new absorbable facts. SKIP.
+- Re-grep 2026-10-09 (slice 10080720-31): 許瑞峰 / Rui-feng Hsu across all 5 corpus dirs — true hits unchanged ([[works/taiwaneseamericanhistory-org/ourjourneys2|《台灣之音》的回顧]] + [[works/taiwaneseamericanhistory-org/whoswho-700|TAH #700]]). Disambiguation: fuzzy `Rui.*Hsu` greps also surface **Ho Rui Hsu 許和瑞** (ourjourneys76/81-eng, whoswho1071, [[people/ho-rui-hsu]]) — a DIFFERENT person; do not merge. Saturated.
