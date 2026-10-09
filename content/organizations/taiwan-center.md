@@ -10,7 +10,7 @@ tags:
   - Taiwan-School
   - Alhambra
 verification_status: published
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-09
 ---
 # Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)
 
@@ -65,6 +65,10 @@ From our own TAH corpus — the Center's footprint in the movement record:
 - **TAH record — 大洛杉磯台灣會館的活動** (2019-02-14) — published record of the Center's community activities ([[works/taiwaneseamericanhistory-org/activities-of-tcgla|TAH activities record]])
 - **TAH record — 洛杉磯台灣會館二二八紀念活動** (2018-02-13) — the Center's 228 commemoration programming ([[works/taiwaneseamericanhistory-org/la228|TAH 228 record]])
 - **2017 — Hurricane Harvey relief.** The Center joined a joint donation to the Houston mayor's Hurricane Harvey Relief Fund totaling ~US$87,459, of which **洛杉磯台灣會館 contributed $35,450** — the largest single contribution in the coalition ([[works/taiwaneseamericanhistory-org/ourjourneys328|TAH #328]]).
+- **TAH #163 — 林榮松 / 南加州台灣會館第一任會長 / 1998** — [[people/simon-lin||林榮松 (Simon Lin)]], listed on the current board as 執行長, is recorded in the TAH encyclopedia as the Center's **first 會長 (1998)** under its founding name 南加州台灣會館 ([[works/taiwaneseamericanhistory-org/ff163|TAH #163]]).
+- **Choir & concert record.** The Center's chorus (台灣會館合唱團 / Taiwan Center Chorus of Greater LA) is documented across the TAH concert corpus: 莫拉克風災募款音樂晚會, Rosemead, 2009-09-13 ([[works/taiwaneseamericanhistory-org/concerts74|TAH #74]]); 花想四季, 2019 ([[works/taiwaneseamericanhistory-org/musical-concerts-151|TAH #151]]); and the Center as host of the Asian Choral Festival (亞洲合唱節), Arcadia, 2017-05-07 / 2018-05-05 ([[works/taiwaneseamericanhistory-org/concerts98|TAH #98]]).
+- **Published yearbooks & photo albums.** 台灣會館2006年鑑 / 南加州台灣會館 ([[works/taiwaneseamericanhistory-org/718-e5-8f-b0-e7-81-a3-e6-9c-83-e9-a4-a82006-e5-b9-b4-e9-91-91-e5-8a-a0-|TAH #718]]); 台灣會館2014年鑑 / 南加州台灣會館 ([[works/taiwaneseamericanhistory-org/722-e5-8f-b0-e7-81-a3-e6-9c-83-e9-a4-a82014-e5-b9-b4-e9-91-91-e5-8a-a0-|TAH #722]]); Taiwan Center Foundation of Greater Los Angeles photo album, 2015-01 ([[works/taiwaneseamericanhistory-org/photo-albums-activities-43|TAH #43]]).
+- **2010 — Miss Taiwanese American Pageant.** The 2010 台美親善小姐 pageant program was published by 大洛杉磯台灣會館 ([[works/taiwaneseamericanhistory-org/744-2010-e5-8f-b0-e7-be-8e-e8-a6-aa-e5-96-84-e5-b0-8f-e5-a7-90-miss-taiwanese-am|TAH #744]]).
 - **Sister centers in the corpus:** 北加州台灣會館 yearbooks 2005 / 2007 ([[works/taiwaneseamericanhistory-org/723-e5-8c-97-e5-8a-a0-e5-b7-9e-e5-8f-b0-e7-81-a3-e6-9c-83-e9-a4-a82005-e5-b9-b4-|TAH #723]], [[works/taiwaneseamericanhistory-org/e5-8c-97-e5-8a-a0-e5-b7-9e-e5-8f-b0-e7-81-a3-e6-9c-83-e9-a4-a82007-e5-b9-b4-e5-8|TAH #380]]), 紐約台灣會館, 西雅圖台灣會館 — distinct organizations, cross-link only, do not merge.
 
 ### New building (2025–)
@@ -257,3 +261,5 @@ Official: **36** directors; 董事長兼會館會長; 正副監事長 / 財務�
 <!-- TJJ-A10070900-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-3 article c05e2d53013fcd15 (2020-06-23 會館疫情濟困報導): subject link re-checked vs 正文 this attempt, real (本會館為報導主體), no wrong/spurious links; 2020-06-23 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607003-c: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607003-c article 2a543ddc9301b7b3 (大洛杉磯台灣會館24週年募款年會公告, 2022-09-13發文／20220924快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10080949-24: deepened 2026-10-09 — fresh ZH+EN grep across works/articles/sources/events/topics surfaced previously-unabsorbed records: TAH #163 (林榮松 first 會長 1998, distinct role from #162 吳澧培 董事長), choir concerts #74/#151/#98, yearbooks #718/#722, photo album #43, pageant #744. No conflicts; no dates merged. -->
