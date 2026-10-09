@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Taiwanese International Student Association
 
@@ -33,3 +33,5 @@ The Taiwanese International Student Association (TiSA) at the University of Texa
 - Re-verified 2026-09-25 (deepen-x slice 09231400-2): same grep, still zero corpus hits; SKIP stands.
 - Re-verified 2026-09-26 (deepen-x slice 09251031-7): case-sensitive grep for TiSA / Taiwanese International Student Association / 台灣國際學生會 again zero real hits (case-insensitive matches were false positives on "artisanal"-type substrings); SKIP stands.
 - Re-verified 2026-10-07 (deepen-x slice 10052158-14): five-dir grep (works/articles/sources/events/topics) for TiSA / full name / 台灣國際學生會 / 德州大學台灣 — only hit is the TAH directory index itself. Near-miss checked and distinguished: the Austin memoir corpus [[works/taiwaneseamericanhistory-org/ourjourneys45-eng|45. Founding of Taiwanese Association of Austin]], [[works/taiwaneseamericanhistory-org/ourjourneys76-eng|76. 全美台灣同鄉會]], and [[works/taiwaneseamericanhistory-org/ourjourney-343|343. Taiwanese Americans in Austin, Texas]] describe the historical UT-Austin Taiwanese Association (~1970 era), not this contemporary HornsLink-registered student org — not absorbed. SKIP stands.
+
+- Verified-saturated 2026-10-09 (deepen-x slice 10070717-19): five-dir grep — case-sensitive `TiSA` returns ZERO hits anywhere; all case-insensitive matches confirmed as false positives on "bi**partisan**" (news wires, topics/transnational-repression.md) and "ar**tisa**nal" substrings; 台灣國際學生會 / 德州大學台灣 / uttisa also zero. Historical Austin records (ourjourneys45/76, ourjourney-343) concern the ~1970 UT-Austin Taiwanese Association, not this HornsLink-registered org — not absorbed. SKIP stands.

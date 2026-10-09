@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Wellesley Taiwanese Cultural Organization
 
@@ -34,3 +34,5 @@ The Wellesley Taiwanese Cultural Organization (TCO) is a student organization at
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Verified-saturated 2026-10-09 (deepen-x slice 10070717-19): fresh five-dir grep (works/articles/sources/events/topics) for Wellesley + `\bTCO\b` — same unrelated hits only (Wellesley Asian Alliance co-signer of the Taiwanese American statement; Flour Bakery interview's Wellesley, MA town mention); zero `TCO` hits outside the directory row. SKIP-with-reason (no corpus material).

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # LKGT 「」 (老康健)
 
@@ -31,3 +31,5 @@ LKGT (老康健) is an informal senior social group of Taiwanese Americans in th
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+- Verified-saturated 2026-10-09 (deepen-x slice 10070717-19): five-dir grep (LKGT|老康健) — sole corpus hit is the coincidental archive-hash substring `...D6WLKGTYDQXBVLK` in the frontmatter digest of a 2024-02-21 taiwanjustice.net root-page capture (verified: line 8 `archive_digest:` field, not prose); 老康健 zero hits outside own record #26. No real mentions; nothing absorbable. SKIP persists.
