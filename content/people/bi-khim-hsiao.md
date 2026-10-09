@@ -371,3 +371,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10070700-5: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-5 article 20240527031819_root_3dfb23f1f86ac707 (前白宮官員肯定台灣新國安團隊, 中央社記者華盛頓報導, 2024-05-14 刊): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-8: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-8 article 4a5080befc342f69 (戴琪與鄧振中視訊、美台重啟TIFA, 2021-06-10): subject link re-checked vs 正文（駐美大使蕭美琴出席台美視訊會議確認見於正文）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-9: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-9 articles 2c5d3c7d4f5acccc (戴琪鄧振中TIFA, 2021-06-10) / 81e80ba38969bf88 (皮尤區隔台裔, 2021-09-26) / 9412105875987041 (以立合唱團 Mayfield, 2024-05-29) / 6d16f9e35d9e3188 (戴琪貿易倡議, 2022-06-28): subject links re-checked vs 正文 this attempt — all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
