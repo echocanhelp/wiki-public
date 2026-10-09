@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Nai-Shin Chu (朱迺欣)
 
@@ -59,3 +59,4 @@ Related: [[organizations/irvine-taiwanese-presbyterian-church|Irvine台灣長老
 <!-- deepen-x slice 09251527-7: re-verify 2026-09-26 — fresh grep (朱迺欣/Nai-Shin Chu, works+articles): hit set unchanged (ourjourneys107 長青教室 lectures + TAH #626 + works index). Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 10051200-23: re-verify 2026-10-06 — fresh grep 朱迺欣/Nai-Shin Chu/迺欣 (works/articles/sources/events/topics) returns only 626 + ourjourneys107 + indexes, all already absorbed. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 10062248-6 (2026-10-08): re-verify — fresh grep 朱迺欣/Nai-Shin Chu/迺欣 (works/articles/sources/events/topics) returns only 626 + ourjourneys107 + indexes, all already absorbed. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 10080735-21 (2026-10-09): re-verify — fresh grep 朱迺欣/Nai-Shin Chu/迺欣 across works/articles/sources/events/topics returns only 626 + ourjourneys107 + indexes, all already absorbed. Checked ourjourneys107 lecture lines in full: 朱迺欣醫師 appears only in 優雅的銀髮歲月 + 醫學人文 (already linked); other 朱 names there (朱耀源教授) are a different person, not absorbed. Verified saturated; SKIP-no-new-facts. -->
