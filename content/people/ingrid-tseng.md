@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Ingrid Tseng (曾暎貴)
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-10-08
 - Re-verified 2026-09-26: fresh grep (曾暎貴 / Ingrid Tseng) across works+articles returned exactly the four records already linked above plus the works index — corpus-saturated, nothing new absorbable.
 - Re-verified 2026-10-06 (deepen-x slice 10051143-14): same four first-person records; the only new corpus material is husband 劉俊宏's own records, now cross-linked under Family — no new first-person facts for Ingrid herself.
 - Re-verified 2026-10-08 (deepen-x slice 10060950-2): fresh grep (曾暎貴 / Ingrid Tseng / given-name-only 暎貴) across works+articles+sources+events+topics returns exactly the four first-person records already linked above plus the works index — #1434, ourjourneys60 (921震災認養學童計劃組, NATWA提包, 2000/08 臺美論壇 with 婉如基金會), ourjourneys161 (婦女信箱 1995–1996 主筆), and the 2018 台大護理系校友抗議公開信. Saturated, SKIP.
+- Re-verified 2026-10-09 (deepen-x slice 10080400-9): fresh grep (曾暎貴 / Ingrid Tseng / 暎貴) across works+articles+sources+events+topics returns the identical hit set — whoswho1434, ourjourneys60, ourjourneys161, the 2018 抗議公開信, plus works index and sources stub. No new first-person material; all four records already wikilinked. Saturated, no edit beyond this note.
 
 ## Family
 
