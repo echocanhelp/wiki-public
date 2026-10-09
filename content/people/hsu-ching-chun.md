@@ -259,3 +259,5 @@ Do not write her as a Taiwanese American biography. The U.S. nodes are **(1) TAH
 <!-- TJJ-A10060800-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-2 articles (00354cf6ba9cf607 台美人台加人 featured p358): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607008-b: verified 2026-10-09 — wave-2 link+deepen re-check of article 98a26ee3b1ad82ac (台美人台加人 p356, 2024-05-27 快照): subject link 許景淳 re-checked vs 正文 this attempt, real (「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段/2011-10-30」條目見於正文), no wrong/spurious links; 2011-10-30 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10071300-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071300-1 article 00354cf6ba9cf607（台美人台加人 featured p358, 2024-06-19快照）read fresh this attempt: subject link 許景淳 re-checked vs 正文 —「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段/2011-10-30」條目確認見於正文, real, no wrong/spurious links; 2011-10-30 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
