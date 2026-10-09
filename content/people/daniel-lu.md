@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Daniel Lu (盧以樂)
 
@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Listed in the TAHS / TAH Who's Who community directory and in the TAH story corpus: [[works/taiwaneseamericanhistory-org/whoswho1216|1216. Daniel Lu 盧以樂 (2016-08-06)]] — a community directory story record held in the vault (bibliographic record; - Corpus-search re-verified 2026-09-25: no additional corpus mentions.
 - Corpus-search note: a taiwanjustice-net article match on "Daniel Lu" refers to epidemiologist 丹尼爾·盧西 (Daniel Lucey), a different person — excluded, not absorbed.
+- Corpus sweep 2026-10-09 (slice 10070714-18): re-verified — 盧以樂 exact matches only own record [[works/taiwaneseamericanhistory-org/whoswho1216|1216]] plus index listings; the sole "Daniel Lu" article hit remains the Daniel Lucey false positive above — verified-saturated, nothing to absorb.
 
 ## Sources
 - [TAH #1216 encyclopedia: 1216. Daniel Lu 盧以樂 / 2016/08](https://taiwaneseamericanhistory.org/whoswho1216/)
