@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Walter Dunn (陳梧水醫師)
 
@@ -39,6 +39,7 @@ last_reviewed: 2026-10-07
 
 SKIP (re-verified 2026-10-07, 2026-09-26, 2026-09-25, 2026-09-22; first noted 2026-09-20): corpus grep found only the TAH profile record itself ([[works/taiwaneseamericanhistory-org/781-walter-dunn-e9-99-b3-e6-a2-a7-e6-b0-b4-201601|781. Walter Dunn 陳梧水 / 2016/01]]) and the works index — no memoir/community material beyond the TAH profile already reflected above.
 - Corpus sweep 2026-10-07 (slice 10052045-19): fresh five-dir greps (works/articles/sources/events/topics; 梧水 / Walter Dunn / romanization probes) return only this record's own entry plus unrelated namesakes — verified-saturated, nothing to absorb.
+- Corpus sweep 2026-10-09 (slice 10070714-17): fresh five-dir greps (梧水 / Walter Dunn; surname probes hit only unrelated Dunns — Ellie Dunn adoption piece, taiwanjustice.net articles) — only this record's own entry plus the works index. Verified-saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/walter-dunn/)
