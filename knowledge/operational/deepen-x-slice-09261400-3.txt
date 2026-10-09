@@ -1,4 +1,0 @@
-people/mao-shiu-lin.md
-people/karen-shee.md
-people/jawshing-arthur-liou.md
-people/wang-gstpc.md

@@ -1,4 +1,0 @@
-people/prof-ming-min-peng.md
-people/elizabeth-s-chen.md
-people/ching-fen-lin.md
-people/dr-vincent-chuang.md

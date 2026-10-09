@@ -1,4 +1,0 @@
-people/peggy-cooley.md
-organizations/taiwanese-association-of-syracuse.md
-organizations/asian-senior-concerns-foundation.md
-people/cheng-yan-kao.md

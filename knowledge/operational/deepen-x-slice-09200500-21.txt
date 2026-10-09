@@ -1,4 +1,0 @@
-people/nien-tzu-kuo.md
-people/frank-lin.md
-people/dr-nancy-fan-paul.md
-people/patricia-j-chen.md

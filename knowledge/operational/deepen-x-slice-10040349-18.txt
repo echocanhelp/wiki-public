@@ -1,4 +1,0 @@
-organizations/taiwanese-student-association-at-georgia-tech.md
-people/robert-lee.md
-organizations/taiwanese-association-of-america-hawaii.md
-people/prof-ruey-jen-sung.md

@@ -1,4 +1,0 @@
-people/peter-lin.md
-people/samantha-yu.md
-people/feng-hsu-lee.md
-people/ya-fei-chuang.md

@@ -1,4 +1,0 @@
-people/tai-cheng-chen.md
-people/ming-liang-lee.md
-people/san-nan-chen.md
-people/i-fang-tsai.md

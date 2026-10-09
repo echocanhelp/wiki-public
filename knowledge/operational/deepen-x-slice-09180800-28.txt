@@ -1,4 +1,0 @@
-people/shang-fa-yang.md
-people/philip-s-chen.md
-people/ho-rui-hsu.md
-people/c-c-lin.md

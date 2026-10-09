@@ -1,4 +1,0 @@
-people/dr-poshing-lee.md
-people/dr-joseph-kho.md
-people/borcheng-hsu.md
-organizations/asu-taiwanese-international-student-association.md

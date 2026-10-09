@@ -1,4 +1,0 @@
-people/remii-huang.md
-people/dr-cecelia-tsai.md
-organizations/taiwanese-undergraduate-student-organization.md
-people/nancy-yang.md

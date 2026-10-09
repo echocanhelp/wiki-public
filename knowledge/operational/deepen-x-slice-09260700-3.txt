@@ -1,4 +1,0 @@
-organizations/rutgers-taiwan-study-association.md
-organizations/formosa-foundation.md
-organizations/huntsville-taiwanese-american-association.md
-people/charles-ting.md

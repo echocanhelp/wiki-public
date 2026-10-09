@@ -1,4 +1,0 @@
-people/susan-chou.md
-people/prof-su-chiung-chen.md
-people/lisa-peng.md
-people/hoyuan-liu.md

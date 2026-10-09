@@ -1,4 +1,0 @@
-people/anne-ku.md
-people/peter-kuo.md
-people/min-an-huang.md
-organizations/jhb-foundation.md

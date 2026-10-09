@@ -1,4 +1,0 @@
-people/prof-liao-tsung-lin.md
-people/hsinkuang-chen.md
-people/f-z-chen-wu.md
-people/chun-san-lee.md

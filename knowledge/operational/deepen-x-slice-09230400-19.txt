@@ -1,4 +1,0 @@
-people/dr-jheng-yan.md
-people/yea-hwang-uang.md
-organizations/houston-taiwanese-golden-club.md
-people/j-y-tsai.md

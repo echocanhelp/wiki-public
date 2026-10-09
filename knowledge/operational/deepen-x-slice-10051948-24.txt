@@ -1,4 +1,0 @@
-people/shuin-lin-yang.md
-people/jawshing-arthur-liou.md
-people/george-hsu.md
-people/che-hsuan-lin.md

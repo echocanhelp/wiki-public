@@ -1,8 +1,0 @@
-# deepen-x slice 09301000-26 — hits-hash (audit close 2026-10-05, fresh ERE grep works/ + articles/, md5 of sorted non-index hit-file list)
-
-organizations/the-chuan-lyu-foundation.md :: 川流基金會|Chuan Lyu :: hits=7 (30-chair, 38-lecture, 39-fellowship, uc-santa-barbara-chair, our-journeys-384, our-journeys-385, own-directory-page) :: hits-hash=5a6e173070da
-people/winnie-lan-in-yang.md :: 楊嵐茵|Winnie Lan-In Yang :: hits=2 (236, 491) :: hits-hash=94291cd6cae6
-people/fon-may-fan.md :: 樊豐美|Fon-May Fan :: hits=5 (essay #28, ourjourneys27-eng, ourjourneys27, ourjourneys304, whos-who-56) :: hits-hash=91cf17a62f79
-people/dawen-wang.md :: 王大文|Dawen Wang :: hits=3 (whoswho1305, checking-dawen, dawen-in-taiwan) :: hits-hash=a0826c1cf515
-
-All 4 verified-saturated — hit sets identical to prior slices; nothing new absorbable. 0 deepened, 4 skipped, 0 new corpus links. HOLDs retained: fon-may-fan (陳隆豐 vs 陳隆), dawen-wang (1981 Boston/MA vs Universal Music singer-songwriter).

@@ -1,4 +1,0 @@
-people/john-m-yeh.md
-people/doris-t-chang.md
-people/kuei-i-wu.md
-people/kenneth-p-chen.md

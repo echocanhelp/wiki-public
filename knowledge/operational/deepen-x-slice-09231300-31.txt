@@ -1,4 +1,0 @@
-people/ting-lan-ma.md
-people/eric-lee.md
-people/prof-ta-chiang-liu.md
-people/julie-su-young.md

@@ -1,4 +1,0 @@
-organizations/boston-taiwanese-christian-church.md
-people/prof-liang-shih-fan.md
-people/dr-wen-y-chen.md
-people/c-l-yin.md

@@ -1,4 +1,0 @@
-people/agnes-hsu.md
-people/prof-yu-chong-tai.md
-people/kuo-hsiung-lee.md
-people/guo-yingyan.md

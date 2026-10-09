@@ -1,4 +1,0 @@
-people/jenny-chiu.md
-people/hung-yi-shau.md
-organizations/ching-ying-cultural-and-educational-foundation.md
-people/c-w-wu.md

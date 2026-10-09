@@ -1,4 +1,0 @@
-people/raymond-t-chen.md
-people/jenny-wang.md
-people/prof-clark-chen.md
-organizations/taiwanese-american-science-and-technology-association-tasta.md

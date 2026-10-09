@@ -1,4 +1,0 @@
-people/winston-wen.md
-people/william-shu.md
-people/huifan-helen-chen.md
-people/h-wu.md

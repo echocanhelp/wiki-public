@@ -1,4 +1,0 @@
-organizations/boston-taiwanese-christian-church.md
-people/prof-shi-shung-huang.md
-people/jeff-yang.md
-people/prof-nai-chang-yeh.md

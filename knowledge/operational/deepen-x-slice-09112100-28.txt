@@ -1,4 +1,0 @@
-people/prof-young-chang-chen.md
-people/tahs-member-onboarding.md
-people/nami-yang.md
-people/dr-hong-yen-hsu.md

@@ -1,4 +1,0 @@
-people/dr-chung-chiu.md
-people/dr-gichiong-khu.md
-people/ni-chi-chang.md
-people/peggy-chen.md

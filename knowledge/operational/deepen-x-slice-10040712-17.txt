@@ -1,4 +1,0 @@
-people/y-s-lee.md
-organizations/taiwanese-american-aeronautics-and-space-association.md
-people/chun-chiu.md
-people/gail-lee.md

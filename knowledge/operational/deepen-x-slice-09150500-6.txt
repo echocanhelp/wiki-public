@@ -1,4 +1,0 @@
-people/phoenix-ko.md
-people/amanda-shumin-yang.md
-people/eileen-lo.md
-people/keng-wei-william-kuo.md

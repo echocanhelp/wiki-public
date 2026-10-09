@@ -1,4 +1,0 @@
-people/c-b-chien.md
-people/shu-ting-yao.md
-people/max-c-chiang.md
-people/david-wu.md

@@ -1,4 +1,0 @@
-people/yi-cheng-wang.md
-people/prof-tien-chang-lee.md
-people/mark-thelin.md
-people/john-yu.md

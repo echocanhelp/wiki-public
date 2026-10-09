@@ -1,4 +1,0 @@
-people/jeffrey-lee.md
-people/gordon-s-w-chin.md
-people/yi-miao-huang.md
-people/tsong-yue-lai.md

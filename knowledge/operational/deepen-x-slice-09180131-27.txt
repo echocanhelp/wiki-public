@@ -1,4 +1,0 @@
-people/hui-chuan-chen.md
-people/irvin-lin.md
-organizations/miss-taiwanese-american-foundation.md
-people/ying-ying-chen.md

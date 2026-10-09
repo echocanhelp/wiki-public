@@ -1,4 +1,0 @@
-people/wen-yih-sun.md
-people/c-j-chang.md
-people/heng-liong-lin.md
-people/winston-t-dang.md

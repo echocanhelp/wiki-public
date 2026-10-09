@@ -1,4 +1,0 @@
-people/prof-li-hui-tsai.md
-people/lisa-wang.md
-people/paul-kuo.md
-people/i-uen-wang-hwang.md

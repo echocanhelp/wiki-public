@@ -1,4 +1,0 @@
-organizations/hakka-foundation.md
-people/tze-jer-chuang.md
-people/stephen-s-chu.md
-people/tah-p-9af7a1ae9e.md

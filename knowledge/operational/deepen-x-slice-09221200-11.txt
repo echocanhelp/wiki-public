@@ -1,4 +1,0 @@
-people/mei-xinyi.md
-people/fpcla.md
-organizations/silicon-valley-taiwanese-american-association.md
-organizations/lapc-music-foundation.md

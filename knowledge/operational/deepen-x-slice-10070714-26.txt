@@ -1,4 +1,0 @@
-people/tai-yen-chen.md
-people/grace-liu.md
-people/huei-pei-kuo.md
-people/mei-ying-chen.md

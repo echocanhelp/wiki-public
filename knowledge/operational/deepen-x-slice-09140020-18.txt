@@ -1,4 +1,0 @@
-organizations/penghu-info.md
-people/yu-an-chang.md
-people/helen-wang.md
-people/yu-han-yeh.md

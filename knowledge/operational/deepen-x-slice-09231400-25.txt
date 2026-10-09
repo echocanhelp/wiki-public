@@ -1,4 +1,0 @@
-organizations/uf-society-of-taiwanese-and-hong-kong-students.md
-people/shih-chen-hsu.md
-people/min-jen-chen.md
-people/ian-lin.md

@@ -1,4 +1,0 @@
-people/ching-fen-hsiao.md
-people/david-yang.md
-organizations/taiwanese-united-fund.md
-people/kenneth-wang.md

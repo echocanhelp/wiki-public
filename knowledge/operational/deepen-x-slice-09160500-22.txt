@@ -1,4 +1,0 @@
-people/amy-chun-ting-chao.md
-people/ted-lieu.md
-people/chia-wei-lee.md
-people/jau-ching-lai.md

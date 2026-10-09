@@ -1,4 +1,0 @@
-people/dr-sam-shee.md
-people/kuo-chang-chen.md
-people/dr-y-c-simon-liu.md
-people/dr-ray-wang.md

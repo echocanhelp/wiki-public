@@ -1,4 +1,0 @@
-people/tong-liang-larry-chen.md
-people/ing-hour-lin.md
-people/fu-te-ni.md
-people/tzu-wei-lin.md

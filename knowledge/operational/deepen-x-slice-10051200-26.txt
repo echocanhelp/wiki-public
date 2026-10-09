@@ -1,4 +1,0 @@
-people/dr-chiung-t-ling.md
-people/h-j-chen.md
-people/cheng-wu.md
-organizations/liu-kwee-family-association-usa.md

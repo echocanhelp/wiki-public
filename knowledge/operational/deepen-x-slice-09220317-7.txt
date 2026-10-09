@@ -1,4 +1,0 @@
-people/prof-grace-chen-huang.md
-organizations/tennessee-taiwanese-association.md
-people/patrick-huang.md
-people/norman-chen.md

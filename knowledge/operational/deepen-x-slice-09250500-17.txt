@@ -1,4 +1,0 @@
-people/doris-t-chang.md
-people/chi-chin-huang.md
-people/ying-ming-huang.md
-organizations/lkgt.md

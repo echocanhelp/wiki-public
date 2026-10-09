@@ -1,4 +1,0 @@
-people/beatrice-long.md
-people/dr-tehming-liang.md
-people/james-chin-chun-su.md
-people/ted-anderson.md

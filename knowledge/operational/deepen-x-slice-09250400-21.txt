@@ -1,4 +1,0 @@
-people/kelly-lin.md
-people/timothy-s-wu.md
-people/khe-beng-chiong.md
-organizations/wellbrook-foundation.md

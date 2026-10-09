@@ -1,4 +1,0 @@
-people/prof-michi-fu.md
-organizations/stanford-taiwanese-student-association.md
-people/mien-chie-hung.md
-people/dr-sie-tung-liu.md

@@ -1,4 +1,0 @@
-people/prof-chih-chung-yang.md
-people/irvin-lin.md
-people/hui-chuan-chen.md
-people/ying-ying-chen.md

@@ -1,4 +1,0 @@
-people/charlie-wang.md
-people/c-y-chang.md
-people/yuan-zong-lai.md
-organizations/taiwanese-american-of-dayton.md

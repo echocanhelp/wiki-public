@@ -1,4 +1,0 @@
-people/janet-hsieh.md
-people/john-chin-jung-cheng.md
-people/masao-s-yu.md
-people/keng-chi-wu.md

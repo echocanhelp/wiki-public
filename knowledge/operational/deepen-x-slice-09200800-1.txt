@@ -1,4 +1,0 @@
-people/chi-tien-chang.md
-organizations/taiwanese-american-federation-of-n-california.md
-organizations/taiwanese-student-association-at-uc-irvine.md
-organizations/taiwanese-association-of-america-greater-philadelphia.md

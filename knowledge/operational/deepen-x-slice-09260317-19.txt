@@ -1,4 +1,0 @@
-people/stephen-lin.md
-organizations/ny-taiwanese-golf-club-nytgc.md
-organizations/ann-arbor-taiwanese-association.md
-people/dr-tsann-wang-yu.md

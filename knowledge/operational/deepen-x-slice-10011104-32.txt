@@ -1,4 +1,0 @@
-people/alex-hsuan-yu-lee.md
-organizations/columbia-university-taiwanese-graduate-student-association.md
-people/chih-y-kuo.md
-people/sheng-wang.md

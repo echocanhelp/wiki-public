@@ -1,4 +1,0 @@
-organizations/miss-taiwanese-american-pageant.md
-people/prof-grace-chen-huang.md
-people/c-c-yang.md
-people/yi-ting-hsieh.md

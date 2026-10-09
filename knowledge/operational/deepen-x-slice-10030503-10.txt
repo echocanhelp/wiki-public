@@ -1,4 +1,0 @@
-organizations/the-yinchin-foundation.md
-people/chih-y-kuo.md
-people/michael-chong.md
-organizations/alumni-association-of-chia-yi-high-school-worldwide.md

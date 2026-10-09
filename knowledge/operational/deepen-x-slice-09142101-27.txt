@@ -1,4 +1,0 @@
-people/dr-yeongchi-wu.md
-people/dr-chris-fan.md
-people/cheng-yin-janine-lin.md
-people/fu-mei-chang.md

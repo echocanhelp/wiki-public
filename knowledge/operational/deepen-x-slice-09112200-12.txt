@@ -1,4 +1,0 @@
-people/min-feng-hsin.md
-people/dr-minze-chien.md
-people/audrey-lo.md
-people/hsien-ann-meng.md

@@ -1,4 +1,0 @@
-people/morisan-lu.md
-people/c-s-hsu.md
-people/charles-tu.md
-organizations/kaohsiung-hotel-association.md

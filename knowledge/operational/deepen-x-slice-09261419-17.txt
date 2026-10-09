@@ -1,4 +1,0 @@
-people/ruby-chen.md
-people/robert-chung.md
-people/george-lai.md
-people/s-w-hung.md

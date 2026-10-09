@@ -1,4 +1,0 @@
-people/prof-hsing-lih-chou.md
-people/raymond-t-chen.md
-people/ching-ju-cheng.md
-people/dr-joseph-kho.md

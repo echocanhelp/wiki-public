@@ -1,4 +1,0 @@
-people/alex-hsuan-yu-lee.md
-people/dr-soo-chen-cheng.md
-organizations/kaohsiung-high-school-alumni-association.md
-organizations/taiwanese-american-cultural-association.md

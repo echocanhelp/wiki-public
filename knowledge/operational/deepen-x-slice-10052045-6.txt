@@ -1,4 +1,0 @@
-people/samuel-kao.md
-people/ming-chi-wang.md
-people/cheng-yu-wei.md
-people/l-h-chen.md

@@ -1,4 +1,0 @@
-people/austin-ko.md
-people/c-y-liu.md
-people/peter-deng.md
-people/serena-chen.md

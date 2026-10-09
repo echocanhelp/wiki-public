@@ -1,4 +1,0 @@
-people/dr-chi-chia-hsieh.md
-people/yen-kuang-chen.md
-organizations/texas-taiwanese-biotechnology-association.md
-people/chia-chun-jessica-hu.md

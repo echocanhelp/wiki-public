@@ -1,4 +1,0 @@
-people/donald-j-liu.md
-people/chia-wei-lee.md
-people/tah-p-4e2cc68fdc.md
-people/john-j-y-huang.md

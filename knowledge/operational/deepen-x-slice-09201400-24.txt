@@ -1,4 +1,0 @@
-people/dr-jason-wang.md
-people/prof-perry-p-j-yang.md
-people/tsong-yue-lai.md
-organizations/taiwanese-american-lawyers-association.md

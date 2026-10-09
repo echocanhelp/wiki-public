@@ -1,4 +1,0 @@
-people/mei-xinyi.md
-organizations/taiwanese-american-council-of-greater-new-york.md
-organizations/kaohsiung-high-school-alumni-association.md
-people/y-c-hsu.md

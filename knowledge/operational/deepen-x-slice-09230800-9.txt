@@ -1,4 +1,0 @@
-organizations/the-yinchin-foundation.md
-people/s-j-lin.md
-people/agnes-hsiao.md
-people/weiko-lin.md

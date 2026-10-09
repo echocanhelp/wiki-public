@@ -1,4 +1,0 @@
-people/lovell-park-chang.md
-people/robert-lee.md
-organizations/yale-taiwanese-student-association.md
-people/philip-s-chen.md

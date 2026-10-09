@@ -1,4 +1,0 @@
-people/jacy-chen.md
-people/hsiu-chine-yeh-wang.md
-organizations/columbia-university-taiwanese-graduate-student-association.md
-people/ching-yung-lee.md

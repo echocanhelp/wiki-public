@@ -1,4 +1,0 @@
-people/gail-lee.md
-people/rachel-lin.md
-people/yi-miao-huang.md
-people/w-j-james-chung.md

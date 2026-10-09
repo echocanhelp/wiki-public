@@ -1,4 +1,0 @@
-people/leroy-chiao.md
-people/yvonne-lin.md
-people/lindsay-yang.md
-organizations/global-education-fund.md

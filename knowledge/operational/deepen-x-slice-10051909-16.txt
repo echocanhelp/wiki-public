@@ -1,4 +1,0 @@
-people/j-c-chen.md
-people/dr-poshing-lee.md
-people/prof-shung-wu-lee.md
-people/dr-wen-chang-yang.md

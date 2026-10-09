@@ -1,4 +1,0 @@
-people/yu-chien-benny-tseng.md
-people/rev-ai-chih-tsai.md
-organizations/greater-washington-taiwan-culture-center.md
-people/dr-henry-h-yu.md

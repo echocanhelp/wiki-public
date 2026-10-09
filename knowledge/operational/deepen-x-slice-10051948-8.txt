@@ -1,4 +1,0 @@
-people/shiuan-chen.md
-people/andrew-chen.md
-people/george-ho.md
-people/theresa-l-chung.md

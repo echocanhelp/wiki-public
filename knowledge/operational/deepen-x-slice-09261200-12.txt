@@ -1,4 +1,0 @@
-people/polly-chang.md
-people/julan-jau.md
-people/chin-hui-lee.md
-people/l-b-chou.md

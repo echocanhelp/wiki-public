@@ -1,4 +1,0 @@
-people/miriam-liu-wu.md
-people/h-j-chen.md
-people/chia-ching-liu.md
-people/m-y-wu.md

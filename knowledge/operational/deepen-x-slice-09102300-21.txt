@@ -1,4 +1,0 @@
-people/si-fei-cheng.md
-people/ching-fen-lin.md
-people/yung-hwa-hsu.md
-people/prof-ping-hui-liao.md

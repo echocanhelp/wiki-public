@@ -1,4 +1,0 @@
-people/prof-ben-liu.md
-people/wang-yao-ting.md
-people/chi-yin-chen.md
-people/dr-chris-fan.md

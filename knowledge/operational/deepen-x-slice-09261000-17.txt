@@ -1,4 +1,0 @@
-people/prof-chimei-m-lee.md
-people/doug-chiang.md
-organizations/north-america-taiwanese-medical-association-foundation.md
-people/tiffany-ma.md

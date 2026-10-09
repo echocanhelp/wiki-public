@@ -1,4 +1,0 @@
-people/jecoliah-wang.md
-people/yu-fang-chang.md
-people/shih-peng-chang.md
-people/samuel-lin.md

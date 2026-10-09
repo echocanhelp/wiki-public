@@ -1,4 +1,0 @@
-organizations/the-yinchin-foundation.md
-people/chih-y-kuo.md
-people/michael-chong.md
-people/morisan-lu.md

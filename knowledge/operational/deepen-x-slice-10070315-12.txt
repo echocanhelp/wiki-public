@@ -1,4 +1,0 @@
-people/c-c-hsieh.md
-people/jen-chan.md
-people/c-c-lin.md
-people/chih-cheng-wang.md

@@ -1,4 +1,0 @@
-people/prof-andy-tsay.md
-people/joseph-lin.md
-people/keng-yuen-tseng.md
-people/christina-yung-chin-mollard.md

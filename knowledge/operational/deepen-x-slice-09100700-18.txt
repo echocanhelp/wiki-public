@@ -1,4 +1,0 @@
-people/dr-or-hsieh.md
-people/prof-wen-hwa-lee.md
-people/prof-young-chang-chen.md
-people/prof-mingchi-wu.md

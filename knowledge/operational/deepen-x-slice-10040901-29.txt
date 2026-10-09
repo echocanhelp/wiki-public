@@ -1,4 +1,0 @@
-people/hsiu-chine-yeh-wang.md
-organizations/columbia-university-taiwanese-graduate-student-association.md
-people/prof-f-frank-chen.md
-people/ching-yung-lee.md

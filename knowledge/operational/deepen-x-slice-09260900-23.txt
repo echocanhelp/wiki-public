@@ -1,4 +1,0 @@
-people/dr-amy-h-kuo.md
-people/prof-lu-yu-hwang.md
-people/prof-robert-yien.md
-people/wenlan-chia.md

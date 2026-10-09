@@ -1,4 +1,0 @@
-people/albert-g-chang.md
-people/tsuann-kuo.md
-people/joanna-chen-cham.md
-people/dr-charles-chiu.md

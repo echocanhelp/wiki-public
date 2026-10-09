@@ -1,4 +1,0 @@
-people/wan-lin-tsai.md
-people/prof-ruey-s-tsay.md
-people/hsin-yun-huang.md
-people/hui-chuan-chen.md

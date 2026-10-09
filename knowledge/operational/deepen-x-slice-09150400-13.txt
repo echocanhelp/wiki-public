@@ -1,4 +1,0 @@
-people/prof-tien-sung-tom-lin.md
-people/jui-wen-ginger-chen.md
-people/eileen-lo.md
-people/nan-cheng-chen.md

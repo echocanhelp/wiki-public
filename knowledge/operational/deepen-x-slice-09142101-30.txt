@@ -1,4 +1,0 @@
-people/rachel-lin.md
-people/min-mei-chen.md
-people/dr-ming-cheng-liau.md
-people/cheng-hou-lee.md

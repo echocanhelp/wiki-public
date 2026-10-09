@@ -1,4 +1,0 @@
-people/sen-maw-woody-fang.md
-organizations/rice-taiwanese-association.md
-people/jerry-jan.md
-people/william-yau.md

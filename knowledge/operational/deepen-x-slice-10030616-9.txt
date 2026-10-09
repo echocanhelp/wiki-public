@@ -1,4 +1,0 @@
-people/chun-chiu.md
-organizations/taiwanese-american-science-and-technology-association-tasta.md
-people/ted-anderson.md
-people/jien-hua-charles-chuang.md

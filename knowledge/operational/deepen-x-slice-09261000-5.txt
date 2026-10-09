@@ -1,4 +1,0 @@
-people/dr-c-john-won.md
-organizations/the-life-enrichment-club.md
-people/mien-chien.md
-people/joseph-huang.md

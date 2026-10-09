@@ -1,4 +1,0 @@
-people/shan-lin.md
-people/chun-nan-hsu.md
-people/frank-shieh.md
-people/donald-tsai.md

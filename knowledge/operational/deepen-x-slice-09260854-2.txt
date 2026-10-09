@@ -1,4 +1,0 @@
-people/jacy-chen.md
-people/bao-tyan-wang.md
-people/miaw-shang-su-lin.md
-people/chinying-rachel-chang.md

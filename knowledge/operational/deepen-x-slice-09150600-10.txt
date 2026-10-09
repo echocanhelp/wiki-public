@@ -1,4 +1,0 @@
-people/chin-yi-lee.md
-people/jonathan-tsay.md
-people/parris-hsu-cheng-chang.md
-people/prof-howard-yuan-hao-chang.md

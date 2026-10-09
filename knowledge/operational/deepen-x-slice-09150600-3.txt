@@ -1,4 +1,0 @@
-people/prof-hsing-jien-kung.md
-people/prof-liang-tseng-fan.md
-people/ni-chi-chang.md
-people/prof-frank-chiang.md

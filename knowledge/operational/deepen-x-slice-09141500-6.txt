@@ -1,4 +1,0 @@
-people/dr-gichiong-khu.md
-people/kevin-lee.md
-people/yunn-shan-ma.md
-people/i-chen-wang.md

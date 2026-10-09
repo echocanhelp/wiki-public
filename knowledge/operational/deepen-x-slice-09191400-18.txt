@@ -1,4 +1,0 @@
-people/prof-tao-shih-shieh.md
-people/b-n-huang.md
-people/dr-chang-yang-wang.md
-people/shawn-c-chou.md

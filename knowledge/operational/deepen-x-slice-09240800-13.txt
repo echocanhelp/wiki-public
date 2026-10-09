@@ -1,4 +1,0 @@
-people/chun-chiu.md
-people/ching-ju-cheng.md
-people/peter-yang.md
-people/evonne-hsu.md

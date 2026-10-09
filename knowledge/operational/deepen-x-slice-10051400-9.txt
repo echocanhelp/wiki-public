@@ -1,4 +1,0 @@
-people/julie-kuo.md
-people/c-c-lin.md
-people/huey-j-lee.md
-people/michael-c-lu.md

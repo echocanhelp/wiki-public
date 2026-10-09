@@ -1,4 +1,0 @@
-people/esther-shieh.md
-people/jeffrey-tsung.md
-people/weiyin-chen.md
-people/prof-m-s-wang.md

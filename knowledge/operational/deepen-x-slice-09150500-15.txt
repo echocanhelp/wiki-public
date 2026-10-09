@@ -1,4 +1,0 @@
-people/dr-chung-chiu.md
-people/ching-ching-chen.md
-people/nancy-jan.md
-people/ni-chi-chang.md

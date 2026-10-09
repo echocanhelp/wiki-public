@@ -1,4 +1,0 @@
-people/shawn-lu.md
-people/his-ho-chou.md
-people/arnold-j-lee.md
-people/shi-kaung-peng.md

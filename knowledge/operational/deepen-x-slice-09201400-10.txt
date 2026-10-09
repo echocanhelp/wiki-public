@@ -1,4 +1,0 @@
-people/ih-foo-lin.md
-people/j-s-chien.md
-people/michael-s-k-chen.md
-people/dr-ming-tang-lai.md

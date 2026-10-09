@@ -1,4 +1,0 @@
-people/jecoliah-wang.md
-people/jun-ching-lin.md
-organizations/penghu-info.md
-organizations/harvard-gsas-taiwanese-roc-student-club.md

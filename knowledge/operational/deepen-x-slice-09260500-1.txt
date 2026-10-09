@@ -1,4 +1,0 @@
-people/george-kao.md
-organizations/the-yinchin-foundation.md
-people/prof-ruey-jen-sung.md
-people/bao-tyan-wang.md

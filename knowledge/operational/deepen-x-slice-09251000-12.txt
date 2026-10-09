@@ -1,4 +1,0 @@
-people/jeffrey-lee.md
-people/michael-chong.md
-people/erh-ping-tsai.md
-people/j-w-huang-lee.md

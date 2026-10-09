@@ -1,1 +1,0 @@
-hits-hash (md5 of sorted non-index hit-file list, fresh 2026-10-03): z-h-yang=2ad1a2ded656 / hui-chuan-chen=f0d028f6d0b8 / t-k-lin=0689d570cb62 / prof-david-liu=b938d91bbda1 (all 4 verified-saturated; prof-david-liu set includes Olympian-memoir HOLD file, different person)

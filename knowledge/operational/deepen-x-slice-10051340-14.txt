@@ -1,4 +1,0 @@
-people/tim-chng.md
-people/richard-lin.md
-people/eric-liu.md
-people/hsian-rong-tseng.md

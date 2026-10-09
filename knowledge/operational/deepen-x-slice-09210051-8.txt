@@ -1,4 +1,0 @@
-people/zhang-aihui.md
-people/dr-min-hsiung-tsai.md
-people/ching-ih-wang.md
-people/sheng-hsin-lin.md

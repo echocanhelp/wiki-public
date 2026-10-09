@@ -1,4 +1,0 @@
-people/pauline-choiu.md
-people/roger-huang.md
-people/k-l-hung.md
-people/dr-yao-tseng-chen.md

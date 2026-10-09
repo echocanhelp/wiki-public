@@ -1,4 +1,0 @@
-people/emily-muramoto.md
-organizations/taiwanese-scholar-association-in-st-louis-tsa-stl.md
-people/jenny-lin.md
-people/prof-sheng-cheng-hu.md

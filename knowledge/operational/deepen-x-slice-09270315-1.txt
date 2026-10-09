@@ -1,4 +1,0 @@
-people/john-hsu.md
-people/c-j-chen.md
-people/chuck-lee.md
-organizations/taiwanese-undergraduate-student-organization.md

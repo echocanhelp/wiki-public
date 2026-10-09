@@ -1,4 +1,0 @@
-organizations/formosa-foundation.md
-people/dr-tehming-liang.md
-people/min-kao.md
-people/george-tseng.md

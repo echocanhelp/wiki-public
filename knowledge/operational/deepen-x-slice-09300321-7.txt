@@ -1,4 +1,0 @@
-people/weiko-lin.md
-people/tong-liang-larry-chen.md
-people/herbert-t-chen.md
-people/w-c-lin.md

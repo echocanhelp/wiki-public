@@ -1,4 +1,0 @@
-people/prof-liao-tsung-lin.md
-people/david-chu.md
-people/danny-sheu.md
-people/h-n-tong.md

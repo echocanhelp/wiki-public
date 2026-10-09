@@ -1,4 +1,0 @@
-people/adrian-lin.md
-people/c-s-hsu.md
-people/stephanie-wan-hsiu-lan.md
-people/hsien-ching-ko.md

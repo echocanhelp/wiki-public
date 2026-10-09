@@ -1,4 +1,0 @@
-people/l-j-ho.md
-organizations/penn-taiwanese-student-association.md
-people/eva-hsia.md
-people/charles-lu.md

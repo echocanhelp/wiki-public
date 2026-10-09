@@ -1,4 +1,0 @@
-organizations/taiwanese-american-lawyers-association.md
-people/tsaiyuan-terry-hsu.md
-people/dr-s-f-sheuh.md
-people/jen-shyu.md

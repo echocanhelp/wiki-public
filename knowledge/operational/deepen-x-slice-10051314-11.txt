@@ -1,4 +1,0 @@
-organizations/ching-ying-cultural-and-educational-foundation.md
-organizations/cord-blood-bank.md
-people/joe-chou.md
-people/josephine-lu.md

@@ -1,4 +1,0 @@
-people/charles-tu.md
-people/dr-chiung-t-ling.md
-people/adrian-lin.md
-people/keng-chi-wu.md

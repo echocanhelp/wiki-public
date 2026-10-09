@@ -1,4 +1,0 @@
-people/prof-liang-shih-fan.md
-people/dr-s-t-cheng.md
-people/rung-fang-chen.md
-people/charles-c-hsu.md

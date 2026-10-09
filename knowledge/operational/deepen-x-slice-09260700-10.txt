@@ -1,4 +1,0 @@
-people/sharon-s-hsu.md
-organizations/taiwanese-student-association-all-university.md
-people/chi-tien-chang.md
-people/stephen-lin.md

@@ -1,4 +1,0 @@
-people/lirong-wang.md
-people/debra-liu.md
-people/prof-a-lien-lu-chang.md
-people/s-t-liu.md

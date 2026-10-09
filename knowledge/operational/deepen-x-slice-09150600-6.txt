@@ -1,4 +1,0 @@
-people/dr-chung-chiu.md
-people/felicia-tang.md
-people/ming-franz.md
-people/ted-kuo.md

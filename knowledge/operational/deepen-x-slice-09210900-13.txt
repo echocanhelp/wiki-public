@@ -1,4 +1,0 @@
-people/chin-hui-lee.md
-people/prof-hsu-te-cheng.md
-people/che-hsuan-lin.md
-organizations/taiwanese-association-of-students-at-tufts.md

@@ -1,4 +1,0 @@
-organizations/stanford-taiwanese-student-association.md
-organizations/columbia-university-taiwanese-graduate-student-association.md
-people/lirong-wang.md
-people/julin-tang.md

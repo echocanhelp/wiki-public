@@ -1,4 +1,0 @@
-people/thomas-c-t-chiu.md
-people/yensan-simon-wang.md
-people/s-c-wu.md
-people/w-s-lin.md

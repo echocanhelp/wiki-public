@@ -1,4 +1,0 @@
-people/dr-c-john-won.md
-people/qun-tsai.md
-people/prof-chih-hao-lucas-chang.md
-people/prof-lu-yu-hwang.md

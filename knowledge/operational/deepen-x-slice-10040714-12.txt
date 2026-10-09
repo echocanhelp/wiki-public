@@ -1,4 +1,0 @@
-people/harrison-lin.md
-people/prof-yang-en-cheng.md
-people/rev-shirley-lin.md
-people/john-hsieh.md

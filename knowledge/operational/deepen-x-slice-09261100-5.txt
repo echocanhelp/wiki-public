@@ -1,4 +1,0 @@
-people/cheng-yung-kuo.md
-people/yuan-chuan-lee.md
-people/wei-shou-hu.md
-people/wilfred-su.md

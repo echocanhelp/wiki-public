@@ -1,4 +1,0 @@
-people/julin-tang.md
-people/richard-wang.md
-people/yuan-shuh-lii.md
-people/kenny-leu.md

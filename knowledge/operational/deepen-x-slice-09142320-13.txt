@@ -1,4 +1,0 @@
-people/tina-shao.md
-people/winnie-chiu.md
-organizations/the-north-america-taiwanese-students-association-tsa-na.md
-people/janet-tsai.md

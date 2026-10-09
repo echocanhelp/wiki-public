@@ -1,4 +1,0 @@
-people/matthew-lin.md
-people/m-r-tsai.md
-people/jate-h-pan.md
-organizations/brown-taiwan-society.md

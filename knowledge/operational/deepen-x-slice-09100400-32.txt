@@ -1,4 +1,0 @@
-people/prof-ju-shey-ho.md
-people/dean-chang.md
-people/rose-chen.md
-organizations/north-american-taiwanese-medical-association-foundation.md

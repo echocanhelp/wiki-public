@@ -1,4 +1,0 @@
-people/dr-hsinlin-cheng.md
-people/simon-c-kuo.md
-people/su-hsun-sue-hsiao.md
-people/cleo-chiang.md

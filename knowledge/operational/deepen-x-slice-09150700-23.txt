@@ -1,4 +1,0 @@
-people/ahhee-hsu.md
-people/jen-hao-lee.md
-people/amanda-wu.md
-organizations/golden-eagle-institute.md

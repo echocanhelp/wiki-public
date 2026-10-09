@@ -1,4 +1,0 @@
-people/prof-jimmy-ching-ming-chen.md
-organizations/columbia-university-taiwanese-graduate-student-association.md
-organizations/universal-door-foundation.md
-people/jason-tsai.md

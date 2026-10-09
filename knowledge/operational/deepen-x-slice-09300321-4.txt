@@ -1,4 +1,0 @@
-people/hsian-rong-tseng.md
-people/prof-shung-wu-lee.md
-people/helen-allen.md
-people/yu-wen-chen.md

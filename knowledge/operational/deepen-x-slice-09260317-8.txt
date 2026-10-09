@@ -1,4 +1,0 @@
-people/felix-fan.md
-organizations/taiwanese-american-association-greater-cleveland.md
-organizations/san-diego-taiwanese-cultural-association.md
-people/min-tenmilton-lee.md

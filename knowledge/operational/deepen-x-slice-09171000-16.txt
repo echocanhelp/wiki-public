@@ -1,4 +1,0 @@
-people/prof-shiou-chuan-sheryl-tsai.md
-people/dr-alex-hung.md
-organizations/georgetown-taiwanese-american-student-association.md
-people/tzu-wei-lin.md

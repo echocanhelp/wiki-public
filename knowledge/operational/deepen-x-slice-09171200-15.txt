@@ -1,4 +1,0 @@
-people/prof-ta-chiang-liu.md
-people/prof-jessica-y-ho.md
-people/minlu-chai.md
-organizations/natea-southern-california.md

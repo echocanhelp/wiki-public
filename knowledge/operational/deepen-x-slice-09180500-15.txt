@@ -1,4 +1,0 @@
-people/adrian-lin.md
-people/prof-wen-hsiung-ko.md
-people/felix-fan.md
-people/prof-andy-tsay.md

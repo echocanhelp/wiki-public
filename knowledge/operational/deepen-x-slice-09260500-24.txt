@@ -1,4 +1,0 @@
-people/prof-nai-chang-yeh.md
-people/chih-y-kuo.md
-people/prof-james-c-liao.md
-people/xie-xinguang.md

@@ -1,4 +1,0 @@
-people/cady-tsai.md
-people/charles-cheng-chu-wu.md
-people/alan-su.md
-people/hyden-shen.md

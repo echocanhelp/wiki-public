@@ -1,4 +1,0 @@
-people/dr-scott-changchien.md
-organizations/taiwanese-american-professionals-los-angeles.md
-people/dr-sheng-yi-chuang.md
-people/joyce-weng.md

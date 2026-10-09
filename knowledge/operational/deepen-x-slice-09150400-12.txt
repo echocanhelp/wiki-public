@@ -1,4 +1,0 @@
-people/ding-yi-wang.md
-people/rachel-chao.md
-people/helen-wang.md
-people/dr-ming-j-lee.md

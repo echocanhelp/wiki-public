@@ -1,4 +1,0 @@
-people/peter-lin.md
-people/zhou-wei-liang.md
-people/yvonne-yifang-wang.md
-people/marlene-tseng-yu.md

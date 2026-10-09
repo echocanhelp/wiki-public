@@ -1,4 +1,0 @@
-people/esther-shieh.md
-people/kaiyin-huang.md
-people/cindy-chen.md
-people/jecoliah-wang.md

@@ -1,4 +1,0 @@
-people/sien-mo-lin.md
-people/prof-frank-mau-chung-chang.md
-organizations/taiwanese-american-cpa-association-tacpa.md
-people/kai-li-cheng.md

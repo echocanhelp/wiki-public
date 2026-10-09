@@ -1,4 +1,0 @@
-people/si-fei-cheng.md
-people/ron-chen.md
-people/henry-huan-bi-cheng.md
-people/dr-chung-chiu.md

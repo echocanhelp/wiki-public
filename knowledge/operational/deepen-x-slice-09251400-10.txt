@@ -1,4 +1,0 @@
-people/prof-wentai-liu.md
-people/gene-jack-wang.md
-people/dr-chi-pang-wen.md
-people/debbie-carlson.md

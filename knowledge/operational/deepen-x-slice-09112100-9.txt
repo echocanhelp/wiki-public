@@ -1,4 +1,0 @@
-people/yvonne-cheng.md
-people/samantha-yu.md
-people/feng-hsu-lee.md
-people/ming-hsiu-yen.md

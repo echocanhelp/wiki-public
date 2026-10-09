@@ -1,4 +1,0 @@
-people/samuel-lee.md
-people/chu-chi-chen.md
-people/josephine-lu.md
-people/joseph-yang.md

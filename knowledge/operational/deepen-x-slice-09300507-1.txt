@@ -1,4 +1,0 @@
-people/michael-chong.md
-people/dr-peter-wu.md
-people/s-t-liu.md
-people/rev-shirley-lin.md

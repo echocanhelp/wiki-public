@@ -1,4 +1,0 @@
-people/prof-pei-jung-lin.md
-people/s-b-liu.md
-organizations/north-american-taiwan-association-of-social-workers.md
-people/carol-lee.md

@@ -1,4 +1,0 @@
-people/ju-cheng-lee.md
-people/dr-ching-jen-wang.md
-people/dr-seifu-ryu.md
-people/dr-chia-fu-chou.md

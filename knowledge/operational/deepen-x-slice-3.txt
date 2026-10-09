@@ -1,6 +1,0 @@
-people/liao-ji-chun.md
-people/simon-lin.md
-people/prof-helen-lee.md
-people/te-chiang-bacco-liu.md
-people/prof-w-s-william-wei.md
-people/bob-cheng.md

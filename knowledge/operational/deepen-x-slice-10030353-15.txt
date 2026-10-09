@@ -1,4 +1,0 @@
-people/maw-kuen-wu.md
-people/dr-hui-ling-chen.md
-organizations/taiwanese-american-lawyers-association.md
-people/yi-ming-liu.md

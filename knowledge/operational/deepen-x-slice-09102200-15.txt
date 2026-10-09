@@ -1,4 +1,0 @@
-people/agnes-hsu.md
-people/ying-chen-kao.md
-people/prof-chen-s-tsai.md
-people/bob-cheng.md

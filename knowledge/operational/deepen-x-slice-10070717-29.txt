@@ -1,4 +1,0 @@
-people/c-h-sun.md
-people/c-c-su.md
-organizations/taiwanese-graduate-and-professional-student-association.md
-people/h-j-lin.md

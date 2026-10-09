@@ -1,4 +1,0 @@
-people/dr-m-y-chou.md
-people/liang-chuan-peng.md
-people/alex-hsuan-yu-lee.md
-people/anna-chang.md

@@ -1,4 +1,0 @@
-people/dr-daniel-c-hsu.md
-people/sam-chang.md
-people/david-loong-hsing-wen.md
-people/prof-chen-s-tsai.md

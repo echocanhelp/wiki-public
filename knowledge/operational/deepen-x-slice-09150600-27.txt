@@ -1,4 +1,0 @@
-people/dr-sie-ling-chiang.md
-people/james-david-king.md
-people/dr-jack-j-chen.md
-organizations/houston-formosan-evergreen-association.md

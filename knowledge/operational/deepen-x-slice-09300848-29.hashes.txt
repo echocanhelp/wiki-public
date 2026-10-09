@@ -1,7 +1,0 @@
-# Slice audit 2026-10-04 13:20 (worker run 19830) — DEEPEN-X09300848-29
-# Method: fresh `grep -rlE '<NAME_EN>|<NAME_ZH>'` over content/works + content/articles (exact page name_zh/name_en keys), re-run this session.
-# Result: all 4 pages verified-saturated — every hit is an own-record (whos-who/encyclopedia) page, the already-absorbed memoir/article material, or works/index. Nothing new absorbable; no new wikilinks needed; no new conflicts to HOLD.
-dr-jui-yuan-raymond-cheng hits-hash=0aad1929a68c
-lovell-park-chang hits-hash=bc363618de0d
-anna-chang hits-hash=8fe4ad1d079d
-sandra-wright-shen hits-hash=8b5a2a74b4a6

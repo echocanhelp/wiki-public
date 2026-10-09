@@ -1,4 +1,0 @@
-people/tim-chng.md
-organizations/taiwanese-chambers-of-commerce-of-orange-county.md
-people/james-hu.md
-organizations/miss-taiwanese-american-pageant.md

@@ -1,4 +1,0 @@
-people/m-y-huang.md
-people/ai-jen-poo.md
-people/paul-kuo.md
-people/anne-ku-2.md

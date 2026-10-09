@@ -1,4 +1,0 @@
-people/lin-yushu.md
-people/david-t-k-chen.md
-people/c-c-chung.md
-people/shin-ruh-liu.md

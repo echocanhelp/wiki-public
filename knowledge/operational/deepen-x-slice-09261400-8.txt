@@ -1,4 +1,0 @@
-people/ken-chen.md
-people/james-jean.md
-people/tom-wangs.md
-people/chui-ying-hsu.md

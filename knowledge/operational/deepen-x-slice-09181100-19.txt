@@ -1,4 +1,0 @@
-people/william-shu.md
-people/shi-kaung-peng.md
-people/andy-yang.md
-organizations/mid-hudson-taiwanese-association.md

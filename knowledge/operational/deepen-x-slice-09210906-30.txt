@@ -1,4 +1,0 @@
-people/austin-ko.md
-people/peter-deng.md
-people/steven-chien.md
-people/carol-lee.md

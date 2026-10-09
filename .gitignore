@@ -48,7 +48,16 @@ secrets/
 .worktrees/
 
 
-# deepen-x worker scratch: per-slice work files, regenerated every pass.
-# These MUST stay untracked: git add -A swept ~32k of them into one commit and the
-# Pages deployer timed out polling updating_pages. 2026-10-08.
+# Worker scratch: per-slice work files, regenerated every pass. These MUST stay
+# untracked. Two lessons, both learned the hard way:
+#   2026-10-08  git add -A swept ~32k of them into one commit and the Pages deployer
+#             timed out polling updating_pages.
+#   2026-10-09  a gitignore rule added AFTER files are committed does nothing —
+#             ignore only applies to untracked paths. 34,722 slice files stayed
+#             tracked and churned on every commit until `update-index --force-remove`.
+# Covers every builder: tjj-a / deepen-x / deepen-r / deepen-wave / tah-a.
 knowledge/operational/deepen-x-slice-*.txt
+knowledge/operational/tjj-a-slice-*.txt
+knowledge/operational/deepen-r-slice-*.txt
+knowledge/operational/deepen-wave-slice-*.txt
+knowledge/operational/tah-a-slice-*.txt

@@ -1,4 +1,0 @@
-people/kevin-lin.md
-people/ben-mezrich.md
-people/jenny-y-yang.md
-people/j-y-lin.md

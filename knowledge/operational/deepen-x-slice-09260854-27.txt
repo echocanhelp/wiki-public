@@ -1,4 +1,0 @@
-people/hui-hsiung-kuo.md
-organizations/taiwanese-american-student-association-at-ucla.md
-people/spencer-chen.md
-people/dr-kopin-liu.md

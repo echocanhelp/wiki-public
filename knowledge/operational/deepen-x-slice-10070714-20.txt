@@ -1,4 +1,0 @@
-people/l-h-chen.md
-people/ignatius-lin.md
-people/c-c-tsai.md
-people/pei-lin.md

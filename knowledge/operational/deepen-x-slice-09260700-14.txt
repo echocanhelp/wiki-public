@@ -1,4 +1,0 @@
-people/ing-hour-lin.md
-people/alvina-ling.md
-people/dr-john-tsuang.md
-people/joseph-hong.md

@@ -1,4 +1,0 @@
-people/chiuder-hsiao.md
-people/jason-huang.md
-people/frank-ju-feng-liu.md
-people/bernard-huang.md

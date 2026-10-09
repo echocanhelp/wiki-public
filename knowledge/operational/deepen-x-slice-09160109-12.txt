@@ -1,4 +1,0 @@
-people/dr-wayne-lung-wang.md
-organizations/the-north-america-taiwanese-students-association-tsa-na.md
-people/wudong-huang.md
-people/russell-hsiao.md

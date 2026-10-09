@@ -1,4 +1,0 @@
-people/dr-jane-h-hsiao-2.md
-people/dr-ei-shun-lin.md
-people/remii-huang.md
-organizations/chicago-taiwanese-architecture-institute-ctai.md

@@ -1,4 +1,0 @@
-people/prof-lily-yeh-ja.md
-organizations/taiwanese-student-association-at-ucla.md
-people/t-k-lin.md
-people/prof-chih-ping-yeh.md

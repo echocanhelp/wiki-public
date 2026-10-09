@@ -1,4 +1,0 @@
-people/david-hsieh.md
-people/ya-hui-chiu.md
-people/yun-tse-tsai.md
-people/shuin-lin-yang.md

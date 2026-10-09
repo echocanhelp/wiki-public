@@ -1,4 +1,0 @@
-people/s-j-chen.md
-people/ian-chen.md
-people/chin-h-liao.md
-people/pauline-huang.md

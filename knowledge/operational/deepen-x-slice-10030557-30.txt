@@ -1,4 +1,0 @@
-people/winston-t-dang.md
-people/ju-cheng-lee.md
-people/richard-chen.md
-organizations/taiwanese-student-association-at-arizona-state-university.md

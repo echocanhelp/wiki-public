@@ -1,4 +1,0 @@
-people/cheng-yung-kuo.md
-people/kenneth-n-lee.md
-people/dr-jim-lin.md
-people/ian-chen.md

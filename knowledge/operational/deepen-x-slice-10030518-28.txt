@@ -1,4 +1,0 @@
-people/peter-lee.md
-people/henry-cheng.md
-organizations/kaohsiung-high-school-alumni-association.md
-people/prof-liang-shih-fan.md

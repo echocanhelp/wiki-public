@@ -1,4 +1,0 @@
-people/s-j-chen.md
-people/chi-chin-huang.md
-people/kenneth-liu.md
-people/wu-lang-lee.md

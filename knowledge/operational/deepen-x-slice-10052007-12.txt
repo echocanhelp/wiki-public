@@ -1,4 +1,0 @@
-people/rhoda-wang-jeng.md
-people/dr-min-yen-han.md
-people/dr-shan-p-tsai.md
-people/fan-s-lai.md

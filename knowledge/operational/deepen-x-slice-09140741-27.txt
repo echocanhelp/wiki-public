@@ -1,4 +1,0 @@
-people/ching-fen-lin.md
-organizations/the-board-of-taiwanese-american-conferences-west-coast-tac-wc.md
-people/dr-john-hsu.md
-people/nan-cheng-chen.md

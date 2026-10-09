@@ -1,4 +1,0 @@
-people/nancy-yang.md
-people/a-n-liu.md
-people/jason-tsai.md
-people/fong-jen-lin.md

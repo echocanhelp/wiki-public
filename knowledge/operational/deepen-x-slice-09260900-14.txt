@@ -1,4 +1,0 @@
-people/prof-hsiu-san-lin.md
-people/s-h-chang.md
-people/hwei-mei-amyhuang.md
-people/tom-thomas-shih.md

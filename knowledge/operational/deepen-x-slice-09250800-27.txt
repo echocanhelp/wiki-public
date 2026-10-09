@@ -1,4 +1,0 @@
-people/cindy-liu.md
-people/prof-sue-mei-wu.md
-people/lina-huang.md
-people/ben-hong.md

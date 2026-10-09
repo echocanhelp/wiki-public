@@ -1,4 +1,0 @@
-people/alexander-m-lee.md
-people/jasmin-lin.md
-people/szu-ning-tai.md
-people/joy-chi-wang.md

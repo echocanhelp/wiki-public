@@ -1,4 +1,0 @@
-people/prof-tao-shih-shieh.md
-people/nellie-gephardt-amondson.md
-people/b-n-huang.md
-people/i-chunn-lee.md

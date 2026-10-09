@@ -1,4 +1,0 @@
-people/victoria-linchong.md
-people/chi-shih-huang.md
-organizations/oxford-taiwanese-american-student-association.md
-people/j-c-chen.md

@@ -1,4 +1,0 @@
-people/prof-tien-cheng-chang.md
-people/matthew-tsai.md
-people/chin-h-liao.md
-people/pauline-huang.md

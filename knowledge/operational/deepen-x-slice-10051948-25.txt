@@ -1,4 +1,0 @@
-people/rev-jim-huang.md
-people/susan-chuang.md
-people/prof-chung-cheng-hsieh.md
-people/prof-yuan-pern-lee.md

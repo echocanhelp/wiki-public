@@ -1,4 +1,0 @@
-people/sien-mo-lin.md
-people/dr-chang-yang-wang.md
-people/karen-chiang.md
-organizations/brooklyn-artists-studio.md

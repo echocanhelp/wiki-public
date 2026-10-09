@@ -1,4 +1,0 @@
-organizations/dartmouth-taiwanese-student-association.md
-people/tah-p-5e9ef27eba.md
-organizations/taiwanese-american-student-association-at-case-western-reserve-university.md
-organizations/global-education-fund.md

@@ -1,4 +1,0 @@
-people/remii-huang.md
-people/rev-j-c-cheng.md
-people/keng-chi-wu.md
-people/m-wang.md

@@ -1,4 +1,0 @@
-people/l-w-cheng.md
-organizations/taiwanese-student-association-at-uiuc.md
-people/stuart-chen.md
-people/dr-amy-h-kuo.md

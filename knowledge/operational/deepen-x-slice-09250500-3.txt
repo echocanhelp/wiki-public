@@ -1,4 +1,0 @@
-people/joker-l-jenkins.md
-people/chi-shih-huang.md
-people/c-c-chung.md
-people/b-michael-yeun.md

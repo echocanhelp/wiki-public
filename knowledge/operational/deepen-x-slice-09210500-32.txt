@@ -1,4 +1,0 @@
-people/jason-huang.md
-people/chun-long-jerry-tsung.md
-people/fred-fung.md
-people/ian-lin.md

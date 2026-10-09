@@ -1,4 +1,0 @@
-people/jennifer-fan.md
-people/philip-yang.md
-people/connie-huang.md
-organizations/sound-of-taiwan.md

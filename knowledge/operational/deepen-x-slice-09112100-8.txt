@@ -1,4 +1,0 @@
-people/dr-ya-yen-lee.md
-people/tai-lin.md
-people/dr-hong-tien-lai.md
-people/sam-chang.md

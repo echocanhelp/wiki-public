@@ -1,4 +1,0 @@
-people/peter-yang.md
-people/dr-kei-hsiung-yang.md
-people/allen-chang.md
-people/tammy-chang.md

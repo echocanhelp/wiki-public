@@ -1,4 +1,0 @@
-people/chris-cn-chang.md
-people/miriam-liu-wu.md
-people/dr-b-s-lu.md
-people/ian-lin.md

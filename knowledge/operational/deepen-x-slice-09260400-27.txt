@@ -1,4 +1,0 @@
-people/yung-lo-lin.md
-people/dr-kuo-shih-yeh.md
-organizations/taiwanese-american-cultural-association.md
-organizations/greater-los-angeles-hotel-motel-association.md

@@ -1,4 +1,0 @@
-people/john-hsieh.md
-people/prof-yang-en-cheng.md
-people/dr-stephen-chen.md
-people/morisan-lu.md

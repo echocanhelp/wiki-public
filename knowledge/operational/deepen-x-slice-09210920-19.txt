@@ -1,4 +1,0 @@
-people/freeman-lin.md
-people/eric-wei.md
-people/yih-nan-chiou.md
-people/jen-sheen.md

@@ -1,4 +1,0 @@
-people/i-chun-catherine-chang.md
-people/c-y-tsai.md
-organizations/kaohsiung-high-school-alumni-association.md
-organizations/lapc-music-foundation.md

@@ -1,4 +1,0 @@
-people/hsin-yun-huang.md
-people/chia-wei-lee.md
-people/dr-david-hong.md
-people/dr-su-may-yu.md

@@ -1,4 +1,0 @@
-people/ching-nan-ou.md
-people/j-y-jackson-ko.md
-people/rosalyne-formosa-shieh.md
-organizations/harvard-taiwanese-cultural-society.md

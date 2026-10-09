@@ -1,4 +1,0 @@
-people/dr-i-shih-chang.md
-organizations/taiwanese-american-students-association.md
-people/han-han-cho.md
-people/ejen-chuang.md

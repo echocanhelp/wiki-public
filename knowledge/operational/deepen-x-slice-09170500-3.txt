@@ -1,4 +1,0 @@
-people/prof-sheng-cheng-hu.md
-people/jenny-lin.md
-people/prof-ming-chiang-lin.md
-people/ted-fan.md

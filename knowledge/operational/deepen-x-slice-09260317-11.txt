@@ -1,4 +1,0 @@
-people/kico-lin.md
-people/john-enger-cheng.md
-people/t-c-cheng.md
-people/jiann-tsyh-ken-lin.md

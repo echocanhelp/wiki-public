@@ -1,4 +1,0 @@
-organizations/silicon-valley-taiwanese-american-association.md
-people/karen-lin.md
-organizations/taiwanese-student-association-at-georgia-tech.md
-organizations/taiwanese-american-student-association.md

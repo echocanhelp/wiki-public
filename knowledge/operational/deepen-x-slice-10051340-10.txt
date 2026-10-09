@@ -1,4 +1,0 @@
-people/fong-chung-fan.md
-people/jeffrey-liang.md
-people/helen-allen.md
-people/ching-ih-wang.md

@@ -1,4 +1,0 @@
-people/dr-soo-chen-cheng.md
-people/victor-hung.md
-organizations/taiwanese-graduate-student-association-at-uc-davis.md
-people/dr-steve-huang.md

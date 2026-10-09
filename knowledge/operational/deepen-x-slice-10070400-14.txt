@@ -1,4 +1,0 @@
-people/zai-xing-wang.md
-people/dr-kung-ming-jan.md
-people/dr-kuen-shii-tsay.md
-people/hung-jen-wu.md

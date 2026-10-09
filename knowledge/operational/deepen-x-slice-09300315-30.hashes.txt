@@ -1,6 +1,0 @@
-# deepen-x slice 09300315-30 — hits-hash (audit close 2026-10-04, fresh grep works/ + articles/)
-# format: <page-path> :: <patterns> :: hits=<N files> :: hash=<12hex>
-content/people/dr-sie-tung-liu.md :: 劉協同|Sie-Tung Liu :: hits=4 (ourjourneys123-eng, ourjourneys123, whos-who-155-sie-tung-liu, works/index) :: hits-hash=fa84422a2dfe
-content/people/suing-wang.md :: 王淑英|Suing Wang :: hits=5 (155-first-farm, publication945, 842-suing-wang, publication944, works/index) :: hits-hash=970b38539ad4
-content/people/ching-ching-cernada.md :: 陳清清|陳晴晴|Ching Ching Cernada :: hits=3 (465-for-whom-these-tales-toll, whos-who-80, works/index) :: hits-hash=c9983c98e981
-content/people/joanna-yan.md :: 石正暖|Joanna Yan :: hits=4 (artist31, whoswho1023, portrait-painting, works/index) :: hits-hash=193daedfec11

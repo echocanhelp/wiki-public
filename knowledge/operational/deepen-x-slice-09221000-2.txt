@@ -1,4 +1,0 @@
-people/christina-hu.md
-people/stella-chen.md
-people/chiu-sen-wang.md
-people/robert-chen.md

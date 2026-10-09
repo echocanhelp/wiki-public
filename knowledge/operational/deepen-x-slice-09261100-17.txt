@@ -1,4 +1,0 @@
-people/edward-k-wang.md
-people/raymond-jeng.md
-organizations/institute-for-taiwanese-studies.md
-people/sam-huang.md

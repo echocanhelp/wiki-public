@@ -1,4 +1,0 @@
-people/tun-hou-lee.md
-people/bernard-huang.md
-people/t-h-ying.md
-people/caleb-tsai.md

@@ -1,4 +1,0 @@
-people/hu-gstpc.md
-organizations/sound-of-taiwan.md
-people/dr-kuen-shii-tsay.md
-people/c-m-fan.md

@@ -1,4 +1,0 @@
-people/liu-hsiung-chuang.md
-organizations/taiwanese-american-association-of-pharmaceutics.md
-people/meiyin-wang.md
-people/m-y-huang.md

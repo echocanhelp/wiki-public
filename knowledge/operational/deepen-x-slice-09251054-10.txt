@@ -1,4 +1,0 @@
-people/grace-tseng.md
-people/l-f-tang.md
-people/y-s-tseng.md
-people/s-y-wong.md

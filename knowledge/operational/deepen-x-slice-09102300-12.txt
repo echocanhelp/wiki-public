@@ -1,4 +1,0 @@
-people/paul-c-tsai.md
-people/prof-bernard-travis-lee.md
-people/symeon-woo.md
-people/min-feng-hsin.md

@@ -1,4 +1,0 @@
-people/prof-helen-lee.md
-people/wei-boji.md
-people/tai-lin.md
-people/shirley-yu.md

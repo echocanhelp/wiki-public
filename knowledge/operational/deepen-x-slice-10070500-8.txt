@@ -1,4 +1,0 @@
-people/dr-chang-yang-wang.md
-people/wu-pei-su.md
-people/dr-alex-yen.md
-people/joseph-huang.md

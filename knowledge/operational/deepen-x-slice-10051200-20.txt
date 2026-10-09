@@ -1,4 +1,0 @@
-people/eric-liu.md
-people/hsian-rong-tseng.md
-people/tsaiyuan-terry-hsu.md
-people/dr-jim-lin.md

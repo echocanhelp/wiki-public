@@ -1,4 +1,0 @@
-people/dr-alex-yen.md
-people/chia-jen-lo.md
-people/prof-tao-shih-shieh.md
-people/prof-han-jung-ko.md

@@ -1,4 +1,0 @@
-people/thomas-chen.md
-people/prof-je-chin-han.md
-people/joseph-hong.md
-organizations/taiwanese-american-religious-study-association.md

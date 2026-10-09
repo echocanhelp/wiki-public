@@ -1,4 +1,0 @@
-people/c-t-lee.md
-people/shu-ting-yao.md
-people/amber-liao.md
-people/maan-huei-huang.md

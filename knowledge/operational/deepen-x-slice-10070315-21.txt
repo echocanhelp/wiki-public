@@ -1,4 +1,0 @@
-people/kenneth-p-chen.md
-people/peter-deng.md
-people/mei-hua-huang.md
-people/l-c-chen.md

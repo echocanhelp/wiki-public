@@ -1,4 +1,0 @@
-people/chia-yu-hsu.md
-people/c-c-hsiao.md
-people/prof-yie-hwa-chang.md
-people/joey-chang.md

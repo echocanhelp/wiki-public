@@ -1,4 +1,0 @@
-organizations/taiwanese-association-of-the-greater-salt-lake.md
-people/herng-shinn-hwang.md
-people/jim-t-r-chen.md
-organizations/the-yinchin-foundation.md

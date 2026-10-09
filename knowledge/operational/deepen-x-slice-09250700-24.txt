@@ -1,4 +1,0 @@
-people/janet-hsieh.md
-people/rev-chung-hsin-cho.md
-people/charles-c-hsu.md
-people/isaiah-lee.md

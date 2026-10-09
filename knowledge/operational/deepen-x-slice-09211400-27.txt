@@ -1,4 +1,0 @@
-people/sing-nan-wang.md
-people/rev-shirley-lin.md
-people/prof-s-s-huang.md
-people/dr-g-c-huang.md

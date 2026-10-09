@@ -1,4 +1,0 @@
-people/peggy-kuo.md
-people/yali-chen.md
-people/dr-lisa-su.md
-people/kevin-shue.md

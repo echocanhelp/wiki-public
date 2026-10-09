@@ -1,4 +1,0 @@
-people/dr-daniel-th-liu.md
-people/jennifer-chen.md
-people/raymond-t-chen.md
-people/daniel-lin.md

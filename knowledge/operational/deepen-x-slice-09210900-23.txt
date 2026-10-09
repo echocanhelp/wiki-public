@@ -1,4 +1,0 @@
-people/chang-kuo-hsin.md
-people/wenhui-cai.md
-people/kenneth-p-chen.md
-people/joseph-chow.md

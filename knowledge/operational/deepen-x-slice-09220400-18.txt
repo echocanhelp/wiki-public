@@ -1,4 +1,0 @@
-people/jeffrey-lee.md
-people/alan-t-chen.md
-people/dr-tehming-liang.md
-people/ting-an-lin.md

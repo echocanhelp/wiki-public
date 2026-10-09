@@ -1,4 +1,0 @@
-people/shang-c-chiou.md
-people/y-s-tseng.md
-people/benny-lee.md
-people/y-s-chen.md

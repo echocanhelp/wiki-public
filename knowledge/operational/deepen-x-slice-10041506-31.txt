@@ -1,4 +1,0 @@
-people/masao-s-yu.md
-people/dr-seifu-ryu.md
-people/s-y-huang.md
-organizations/global-alliance-for-democracy-and-peace.md

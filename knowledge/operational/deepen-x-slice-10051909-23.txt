@@ -1,4 +1,0 @@
-people/dr-j-c-wu.md
-people/allen-chao.md
-organizations/yang-foundation.md
-people/jesse-shiah.md

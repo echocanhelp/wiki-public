@@ -1,4 +1,0 @@
-people/danny-sheu.md
-people/peter-deng.md
-people/patrick-p-lin.md
-people/mei-hua-huang.md

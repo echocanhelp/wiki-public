@@ -1,4 +1,0 @@
-people/prof-yu-chong-tai.md
-people/kuo-chang-chen.md
-people/prof-ken-s-huang.md
-people/dr-ray-wang.md

@@ -1,4 +1,0 @@
-people/huey-li-liu.md
-people/andy-chang.md
-people/prof-yao-yuan-yeh.md
-people/rev-burton-tan.md

@@ -1,4 +1,0 @@
-people/gloria-chang.md
-people/shin-ruh-liu.md
-people/show-ya-wang.md
-organizations/vanderbilt-tssa.md

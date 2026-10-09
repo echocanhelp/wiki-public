@@ -1,4 +1,0 @@
-people/grace-liu.md
-people/zhuang-xinde.md
-people/huei-pei-kuo.md
-people/abby-hong.md

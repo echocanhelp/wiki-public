@@ -1,4 +1,0 @@
-people/patricia-j-chen.md
-organizations/chicago-taiwanese-cuisine-and-culture-association.md
-people/prof-wen-yaw-chan.md
-people/jenny-wang.md

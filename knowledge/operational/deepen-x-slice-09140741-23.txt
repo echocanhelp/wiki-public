@@ -1,4 +1,0 @@
-people/danny-chen.md
-people/ying-chen-kao.md
-people/keng-wei-william-kuo.md
-people/yali-chen.md

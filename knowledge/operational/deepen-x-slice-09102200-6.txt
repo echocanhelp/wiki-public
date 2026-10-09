@@ -1,4 +1,0 @@
-people/feng-hsu-lee.md
-people/lin-chao-quan.md
-people/prof-davis-l-s-chang.md
-people/ya-fei-chuang.md

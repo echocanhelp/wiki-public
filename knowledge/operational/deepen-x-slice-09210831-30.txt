@@ -1,4 +1,0 @@
-people/chia-chun-jessica-hu.md
-people/patricia-j-chen.md
-people/goo-shun-wang.md
-people/h-l-hung.md

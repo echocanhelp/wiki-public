@@ -1,4 +1,0 @@
-people/benjamin-wu.md
-organizations/taiwan-national-organization-at-uci.md
-people/k-l-hung.md
-people/c-c-chao.md

@@ -1,4 +1,0 @@
-people/fenglien-lee.md
-people/tiencheng-arthur-chang.md
-people/leroy-chiao.md
-people/fan-s-lai.md

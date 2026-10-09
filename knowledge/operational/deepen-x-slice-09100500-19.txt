@@ -1,4 +1,0 @@
-people/prof-c-t-james-huang.md
-people/joshepine-chuang.md
-people/melvin-chen.md
-people/esther-shieh.md

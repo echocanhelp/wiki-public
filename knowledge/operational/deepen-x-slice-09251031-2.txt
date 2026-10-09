@@ -1,4 +1,0 @@
-people/walter-h-shiau.md
-people/m-s-wu.md
-organizations/taiwanese-graduate-student-association-at-uva.md
-people/prof-chung-cheng-hsieh.md

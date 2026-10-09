@@ -1,4 +1,0 @@
-people/dr-mu-sheng-wu.md
-people/prof-shi-kuei-wu.md
-people/wei-ling-chen.md
-people/paul-c-tsai.md

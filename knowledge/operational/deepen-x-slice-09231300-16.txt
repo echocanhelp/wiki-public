@@ -1,4 +1,0 @@
-people/jan-yung-lin.md
-people/chang-kuo-hsin.md
-people/paul-porwen-hung.md
-people/walter-h-shiau.md

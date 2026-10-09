@@ -1,4 +1,0 @@
-people/dawen-wang.md
-people/daniel-lin.md
-people/m-c-cheng-lee.md
-people/dr-ching-shen-lin.md

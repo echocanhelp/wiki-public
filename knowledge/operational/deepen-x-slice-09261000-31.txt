@@ -1,4 +1,0 @@
-people/anna-lee.md
-people/henry-tseng.md
-people/k-h-huang.md
-people/peter-c-y-chow.md

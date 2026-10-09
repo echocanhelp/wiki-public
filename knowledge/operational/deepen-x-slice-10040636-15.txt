@@ -1,4 +1,0 @@
-people/y-s-lee.md
-people/dr-peter-wu.md
-organizations/taiwanese-american-aeronautics-and-space-association.md
-people/chun-chiu.md

@@ -1,4 +1,0 @@
-people/k-t-wu.md
-people/j-p-lee.md
-people/nick-wu.md
-organizations/taiwanese-association-of-students-at-tufts.md

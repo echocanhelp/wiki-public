@@ -1,4 +1,0 @@
-people/stephen-s-chu.md
-people/l-c-chen.md
-organizations/taiwanese-association-of-cincinnati.md
-people/samuel-wu.md

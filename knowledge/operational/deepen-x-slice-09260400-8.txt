@@ -1,4 +1,0 @@
-people/peter-lee.md
-organizations/east-bay-taiwanese-americans-community-service-center-ebtacsc.md
-people/ping-wang.md
-organizations/taiwanese-american-student-association-at-emory-university.md

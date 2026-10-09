@@ -1,4 +1,0 @@
-people/john-j-y-huang.md
-people/jason-jung.md
-people/sue-chen.md
-people/wen-chi-chang.md

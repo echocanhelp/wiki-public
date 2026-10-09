@@ -1,4 +1,0 @@
-people/dr-tehming-liang.md
-people/james-chin-chun-su.md
-organizations/taiwanese-american-science-and-technology-association-tasta.md
-organizations/joint-chinese-university-alumni-association-of-southern-california.md

@@ -1,4 +1,0 @@
-people/dr-thomas-yawting-ko.md
-people/dr-ming-liang-pan.md
-people/nat-bellocchi.md
-people/r-w-chen.md

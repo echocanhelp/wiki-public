@@ -1,4 +1,0 @@
-organizations/taiwanese-student-association-at-georgia-tech.md
-organizations/taiwanese-american-student-association.md
-people/charles-c-hsu.md
-people/c-y-chen.md

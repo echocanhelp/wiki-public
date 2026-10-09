@@ -1,4 +1,0 @@
-people/hu-gstpc.md
-people/l-m-chen.md
-people/joshua-c-chang.md
-organizations/georgetown-taiwanese-american-student-association.md

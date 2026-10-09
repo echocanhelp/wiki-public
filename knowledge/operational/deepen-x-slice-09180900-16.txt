@@ -1,4 +1,0 @@
-people/felicia-chou.md
-people/karen-chiang.md
-people/doug-chiang.md
-people/li-shun-lu.md

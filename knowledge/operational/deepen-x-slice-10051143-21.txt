@@ -1,4 +1,0 @@
-people/jessica-chen.md
-people/c-n-chen.md
-organizations/taiwanese-american-charity-and-education-association.md
-people/oliver-chen.md

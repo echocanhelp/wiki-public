@@ -1,4 +1,0 @@
-people/dr-tom-f-lue.md
-people/chiao-jung-wang.md
-people/george-k-liu.md
-people/fong-chung-fan.md

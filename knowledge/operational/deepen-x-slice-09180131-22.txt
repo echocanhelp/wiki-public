@@ -1,4 +1,0 @@
-people/christina-lai.md
-people/dr-m-y-chou.md
-people/gin-ru-yeh.md
-organizations/taiwanese-student-association-at-uc-davis.md

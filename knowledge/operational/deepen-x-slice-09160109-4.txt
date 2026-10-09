@@ -1,4 +1,0 @@
-people/parris-hsu-cheng-chang.md
-people/chin-yi-lee.md
-people/jonathan-tsay.md
-people/mavis-hsieh.md

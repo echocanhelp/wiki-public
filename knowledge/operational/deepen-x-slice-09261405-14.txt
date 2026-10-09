@@ -1,4 +1,0 @@
-people/sam-hung.md
-people/y-s-tseng.md
-people/pi-pai-wang.md
-people/benny-lee.md

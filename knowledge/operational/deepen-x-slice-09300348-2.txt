@@ -1,4 +1,0 @@
-people/robert-lee.md
-people/prof-ruey-jen-sung.md
-people/c-k-lee.md
-people/yang-ming-ren.md

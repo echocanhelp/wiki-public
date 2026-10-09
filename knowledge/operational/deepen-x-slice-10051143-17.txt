@@ -1,4 +1,0 @@
-people/john-j-y-huang.md
-people/paul-pai-shih-lee.md
-people/huey-lin.md
-people/jason-jung.md

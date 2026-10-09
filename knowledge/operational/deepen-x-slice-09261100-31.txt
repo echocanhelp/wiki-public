@@ -1,4 +1,0 @@
-people/kenneth-p-chen.md
-organizations/pine-green-institutes.md
-people/yu-ming-huang.md
-people/prof-jin-shei-lai.md

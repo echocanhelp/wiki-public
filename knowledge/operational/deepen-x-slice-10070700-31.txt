@@ -1,4 +1,0 @@
-people/chin-feng-chen.md
-people/samuel-lee.md
-people/steven-fan.md
-people/tiencheng-arthur-chang.md

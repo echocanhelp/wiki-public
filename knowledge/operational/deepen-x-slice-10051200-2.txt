@@ -1,4 +1,0 @@
-people/joseph-lin.md
-people/qun-tsai.md
-people/s-c-yang.md
-people/y-s-huang.md

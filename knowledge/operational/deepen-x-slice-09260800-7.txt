@@ -1,4 +1,0 @@
-people/dr-min-hsiung-liang.md
-people/felix-liu.md
-people/m-k-wei.md
-people/dr-hui-ling-chen.md

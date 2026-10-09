@@ -1,4 +1,0 @@
-people/dr-jheng-yan.md
-people/ben-hong.md
-people/chi-lin-oyoung.md
-people/chiu-ling-lin.md

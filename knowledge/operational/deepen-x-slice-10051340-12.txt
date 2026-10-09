@@ -1,4 +1,0 @@
-people/k-h-huang.md
-people/henry-cheng.md
-people/martha-wang.md
-people/prof-felix-t-hong.md

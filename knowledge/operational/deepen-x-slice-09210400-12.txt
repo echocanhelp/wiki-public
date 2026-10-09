@@ -1,4 +1,0 @@
-people/dr-chiung-t-ling.md
-people/nancy-yang.md
-people/adrian-lin.md
-people/keng-chi-wu.md

@@ -1,4 +1,0 @@
-people/kenneth-j-kao.md
-people/l-b-chou.md
-people/chun-yen-chang.md
-people/h-w-wu.md

@@ -1,4 +1,0 @@
-people/erh-jen-lee.md
-people/ray-chen.md
-people/prof-frank-chiang.md
-people/dean-chang.md

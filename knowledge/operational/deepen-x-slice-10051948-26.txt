@@ -1,4 +1,0 @@
-people/pen-jen-lin.md
-people/tony-li-cheng-yeh.md
-people/mao-shiu-lin.md
-people/erh-lin.md

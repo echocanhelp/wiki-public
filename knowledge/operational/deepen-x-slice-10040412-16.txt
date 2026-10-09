@@ -1,4 +1,0 @@
-people/chun-chiu.md
-people/gail-lee.md
-people/peter-lee.md
-people/rachel-lin.md

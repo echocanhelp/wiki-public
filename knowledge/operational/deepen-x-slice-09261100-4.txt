@@ -1,4 +1,0 @@
-people/david-chan.md
-organizations/rice-taiwanese-graduate-student-association.md
-people/l-w-cheng.md
-people/dr-paul-chen.md

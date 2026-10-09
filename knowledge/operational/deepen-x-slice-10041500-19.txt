@@ -1,4 +1,0 @@
-organizations/taiwanese-association-of-america-hawaii.md
-people/j-w-huang-lee.md
-people/chuck-lee.md
-organizations/sun-ten-museum.md

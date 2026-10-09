@@ -1,4 +1,0 @@
-people/peggy-liao.md
-people/prof-a-lien-lu-chang.md
-people/judy-wang.md
-people/marlon-chen.md

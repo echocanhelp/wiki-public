@@ -1,4 +1,0 @@
-organizations/taiwanese-association-of-america-dallas-fort-worth.md
-people/clyde-kiang.md
-people/matthew-tsai.md
-people/j-w-huang-lee.md

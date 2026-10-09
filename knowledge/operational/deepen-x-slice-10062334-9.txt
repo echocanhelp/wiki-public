@@ -1,4 +1,0 @@
-people/rueibin-chen.md
-people/mark-jong.md
-people/prof-h-c-lee.md
-organizations/taiwanese-sporting-association-new-jersey.md

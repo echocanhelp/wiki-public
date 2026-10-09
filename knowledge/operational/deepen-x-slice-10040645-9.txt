@@ -1,4 +1,0 @@
-people/dr-soo-chen-cheng.md
-organizations/kaohsiung-high-school-alumni-association.md
-organizations/taiwanese-american-cultural-association.md
-people/i-ling-chen.md

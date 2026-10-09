@@ -1,4 +1,0 @@
-people/philip-s-chen.md
-people/dr-soo-chen-cheng.md
-people/liang-chuan-peng.md
-organizations/taiwanese-student-association-at-georgia-tech.md

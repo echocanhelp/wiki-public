@@ -1,4 +1,0 @@
-people/john-hsu.md
-people/alan-t-chen.md
-people/professor-schuman-s-tu.md
-organizations/asian-american-social-welfaer-foundation.md

@@ -1,4 +1,0 @@
-people/chu-chi-chen.md
-people/charles-cheng-chu-wu.md
-people/i-chuun-lee.md
-people/howard-ho.md

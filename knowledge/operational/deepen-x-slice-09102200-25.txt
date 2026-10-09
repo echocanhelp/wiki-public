@@ -1,4 +1,0 @@
-people/dr-john-hsu.md
-people/ting-yee-wang.md
-people/anita-wen-shin-chang.md
-people/charles-yu.md

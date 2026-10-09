@@ -1,4 +1,0 @@
-people/teresa-dreyfuss.md
-organizations/duke-taiwanese-student-association.md
-people/lulu-meng.md
-people/zhuang-xinde.md

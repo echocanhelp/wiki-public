@@ -1,4 +1,0 @@
-people/cpaul-huang.md
-people/sharon-s-hsu.md
-people/donald-c-j-chen.md
-organizations/taiwanese-cultural-society-at-stanford-university.md

@@ -1,4 +1,0 @@
-people/isaiah-lee.md
-people/yung-lo-lin.md
-people/ed-lin.md
-organizations/the-kee-jen-education-of-arts-foundation.md

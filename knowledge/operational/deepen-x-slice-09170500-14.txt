@@ -1,4 +1,0 @@
-people/mei-shing-wang.md
-people/grace-fong.md
-people/tony-tung-ying-huang.md
-organizations/sacramento-taiwanese-culture-foundation.md

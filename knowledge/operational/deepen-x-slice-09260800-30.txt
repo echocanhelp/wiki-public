@@ -1,4 +1,0 @@
-organizations/dfw-taiwanese-american-heritage-foundation.md
-people/prof-frank-mau-chung-chang.md
-people/sue-chen.md
-people/xu-shihuan.md

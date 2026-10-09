@@ -1,4 +1,0 @@
-people/michael-luo.md
-people/fan-ming-lin.md
-people/wei-chiang-chen.md
-people/dr-sing-san-yang.md

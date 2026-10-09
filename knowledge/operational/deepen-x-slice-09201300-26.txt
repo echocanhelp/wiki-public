@@ -1,4 +1,0 @@
-people/shin-tson-wu.md
-people/ming-yen-hsu.md
-people/howard-w-moore.md
-people/theresa-l-chung.md

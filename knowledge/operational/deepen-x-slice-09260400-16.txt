@@ -1,4 +1,0 @@
-people/dr-stephen-chen.md
-organizations/taiwanese-american-student-association.md
-people/dr-s-t-cheng.md
-people/jiunn-yann-genetang.md

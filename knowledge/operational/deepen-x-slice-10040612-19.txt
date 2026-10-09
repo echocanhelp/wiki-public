@@ -1,4 +1,0 @@
-people/shun-hua-yu.md
-people/robert-lee.md
-people/ho-yang-lin.md
-organizations/taiwanese-association-of-america-hawaii.md

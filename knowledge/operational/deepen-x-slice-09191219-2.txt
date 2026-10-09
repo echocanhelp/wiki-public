@@ -1,4 +1,0 @@
-people/eric-chien.md
-people/po-hu.md
-organizations/boston-taiwanese-christian-church.md
-people/shing-lung-tseng.md

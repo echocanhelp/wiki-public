@@ -1,4 +1,0 @@
-people/c-c-chung.md
-people/b-michael-yeun.md
-people/victor-liu.md
-people/larry-hsu.md

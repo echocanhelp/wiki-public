@@ -1,4 +1,0 @@
-people/amanda-wu.md
-people/prof-sheng-cheng-hu.md
-people/karen-i-chang-wu.md
-people/grace-fong.md

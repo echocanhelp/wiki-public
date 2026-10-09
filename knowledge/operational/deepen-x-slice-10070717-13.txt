@@ -1,4 +1,0 @@
-organizations/paramitas-foundation.md
-people/paul-b-hshieh.md
-organizations/socal-taiwanese-biotechnology-association-socal-tba.md
-organizations/l-a-study-group.md

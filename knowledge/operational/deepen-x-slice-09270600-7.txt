@@ -1,4 +1,0 @@
-people/john-j-y-huang.md
-people/dr-kei-hsiung-yang.md
-people/jack-chen.md
-people/justin-lin.md

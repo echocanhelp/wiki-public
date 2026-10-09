@@ -1,4 +1,0 @@
-people/james-yang.md
-people/prof-shenglin-chang.md
-people/yi-fang-huang.md
-people/gloria-h-shaw.md

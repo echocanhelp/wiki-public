@@ -1,4 +1,0 @@
-people/prof-jimmy-ching-ming-chen.md
-people/dr-l-c-lin.md
-people/dr-ketty-w-chen.md
-people/yi-cheng-wang.md

@@ -1,4 +1,0 @@
-organizations/penn-taiwanese-student-association.md
-people/charles-lu.md
-people/ruby-chen.md
-people/robert-chung.md

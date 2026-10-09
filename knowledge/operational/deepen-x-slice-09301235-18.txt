@@ -1,4 +1,0 @@
-people/felix-liu.md
-people/c-y-tsai.md
-people/walter-m-yang.md
-people/isaiah-lee.md

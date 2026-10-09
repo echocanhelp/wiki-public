@@ -1,4 +1,0 @@
-people/prof-liang-shih-fan.md
-people/rung-fang-chen.md
-people/charles-c-hsu.md
-organizations/yale-taiwanese-student-association.md

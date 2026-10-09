@@ -1,4 +1,0 @@
-people/cindy-huang.md
-people/dr-john-wu.md
-people/s-y-wong.md
-people/larry-jang.md

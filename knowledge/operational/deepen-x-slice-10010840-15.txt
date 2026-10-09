@@ -1,4 +1,0 @@
-people/dr-hui-ling-chen.md
-organizations/taiwanese-american-lawyers-association.md
-people/yi-ming-liu.md
-people/helen-huang.md

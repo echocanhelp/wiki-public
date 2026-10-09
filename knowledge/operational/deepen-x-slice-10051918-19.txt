@@ -1,4 +1,0 @@
-people/prof-y-w-cheng.md
-people/nellie-gephardt-amondson.md
-people/jimmy-li.md
-people/chern-hsiung-lai.md

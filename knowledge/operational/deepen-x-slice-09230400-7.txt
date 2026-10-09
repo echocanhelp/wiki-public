@@ -1,4 +1,0 @@
-organizations/taiwanese-american-professionals-seattle.md
-people/wang-jinping.md
-people/rev-s-y-lin.md
-people/rev-c-y-huang.md

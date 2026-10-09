@@ -1,4 +1,0 @@
-people/hansom-chen.md
-people/w-c-huang.md
-people/shawn-lu.md
-people/haofan-eric-peng.md

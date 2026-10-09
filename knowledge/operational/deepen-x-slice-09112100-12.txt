@@ -1,4 +1,0 @@
-people/jeremy-lin.md
-people/simon-lin.md
-people/prof-ken-s-huang.md
-people/sheng-ching-angel-hsu.md

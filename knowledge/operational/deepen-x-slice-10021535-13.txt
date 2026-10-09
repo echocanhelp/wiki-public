@@ -1,4 +1,0 @@
-people/herng-shinn-hwang.md
-people/jim-t-r-chen.md
-organizations/the-yinchin-foundation.md
-people/chih-y-kuo.md

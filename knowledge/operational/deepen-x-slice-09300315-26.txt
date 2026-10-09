@@ -1,4 +1,0 @@
-organizations/taiwanese-american-cultural-association.md
-people/janet-hsieh.md
-people/rev-chung-hsin-cho.md
-people/charles-c-hsu.md

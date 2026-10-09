@@ -1,4 +1,0 @@
-people/lien-hwa-chow.md
-people/samantha-yu.md
-people/chungchin-chen.md
-people/prof-chin-c-lee.md

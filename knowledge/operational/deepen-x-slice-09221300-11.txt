@@ -1,4 +1,0 @@
-people/prof-chih-ping-yeh.md
-organizations/university-of-maryland-taiwanese-student-association.md
-people/richard-lin.md
-people/henry-lee.md

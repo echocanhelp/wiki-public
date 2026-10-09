@@ -1,4 +1,0 @@
-organizations/taiwanese-american-chamber-la.md
-people/helen-allen.md
-organizations/kaohsiung-high-school-alumni-association.md
-people/li-fa-xie.md

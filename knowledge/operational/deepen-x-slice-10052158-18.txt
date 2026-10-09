@@ -1,4 +1,0 @@
-organizations/mid-hudson-taiwanese-association.md
-people/m-s-chi.md
-people/chih-wei-logan-hsu.md
-people/po-hu.md

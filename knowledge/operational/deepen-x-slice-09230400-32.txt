@@ -1,4 +1,0 @@
-people/prof-robert-yien.md
-people/hsien-ching-ko.md
-people/chio-zong-frank-chen.md
-people/dr-c-f-huang.md

@@ -1,4 +1,0 @@
-people/s-j-chen.md
-people/sue-chen.md
-people/james-cheng.md
-people/j-y-lin.md

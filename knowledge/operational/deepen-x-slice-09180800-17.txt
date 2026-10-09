@@ -1,4 +1,0 @@
-people/dr-steve-lee.md
-people/tiencheng-arthur-chang.md
-people/davy-liu.md
-people/hung-jen-wu.md

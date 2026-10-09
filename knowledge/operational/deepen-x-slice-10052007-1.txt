@@ -1,4 +1,0 @@
-people/katherine-jui-chang.md
-people/chao-hsiung-hsu.md
-people/dr-cheng-hung-yeh.md
-people/fenglien-lee.md

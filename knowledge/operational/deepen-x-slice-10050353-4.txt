@@ -1,4 +1,0 @@
-people/stephanie-chuang.md
-people/alex-hsuan-yu-lee.md
-organizations/kaohsiung-high-school-alumni-association.md
-organizations/taiwanese-american-cultural-association.md

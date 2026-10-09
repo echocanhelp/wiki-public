@@ -1,4 +1,0 @@
-people/prof-yu-chong-tai.md
-people/lin-chao-chi.md
-people/zhou-wei-liang.md
-people/pin-huey-wang.md

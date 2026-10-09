@@ -1,4 +1,0 @@
-people/prof-liang-shih-fan.md
-people/june-wang.md
-people/morisan-lu.md
-people/winston-t-dang.md

@@ -1,4 +1,0 @@
-organizations/ucr-united-taiwanese-student-association.md
-organizations/taiwanese-graduate-and-professional-student-association.md
-people/h-j-lin.md
-people/p-j-mao.md

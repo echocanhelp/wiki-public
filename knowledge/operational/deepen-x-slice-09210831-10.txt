@@ -1,4 +1,0 @@
-people/fu-ji-liu.md
-people/peter-hsu.md
-people/gou-chung-chi.md
-organizations/taiwanese-american-student-association.md

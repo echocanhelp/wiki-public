@@ -1,4 +1,0 @@
-people/tina-shao.md
-people/kaiyin-huang.md
-people/prof-shirley-cheng-tsai.md
-people/r-f-huang.md

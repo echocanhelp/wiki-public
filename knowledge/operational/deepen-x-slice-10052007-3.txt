@@ -1,4 +1,0 @@
-people/fei-tau-kung.md
-people/ming-yen-hsu.md
-people/reng-lang-lin.md
-people/hansom-chen.md

@@ -1,4 +1,0 @@
-organizations/taiwanese-american-arts-council-taac.md
-people/marisa-lin.md
-organizations/yin-chin-foundation-of-u-s-a.md
-people/harrison-lin.md

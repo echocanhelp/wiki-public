@@ -1,4 +1,0 @@
-people/sue-jane-lin.md
-people/yvonne-lin.md
-people/john-shiau.md
-people/kun-wang-chao.md

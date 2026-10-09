@@ -1,4 +1,0 @@
-people/jerry-jan.md
-people/s-b-liu.md
-organizations/north-american-taiwan-association-of-social-workers.md
-people/j-s-chung.md

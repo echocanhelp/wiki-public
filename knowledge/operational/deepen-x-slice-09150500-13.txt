@@ -1,4 +1,0 @@
-people/tao-yu.md
-people/i-chen-wang.md
-people/prof-liang-tseng-fan.md
-people/prof-hsing-jien-kung.md

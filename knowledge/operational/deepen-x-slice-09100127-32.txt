@@ -1,4 +1,0 @@
-people/wen-s-charlie-chern.md
-people/joli-wu.md
-people/wei-ling-chen.md
-people/dr-robert-y-lai.md

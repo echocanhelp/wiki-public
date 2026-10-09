@@ -1,4 +1,0 @@
-people/paul-hsu.md
-people/ting-ing-lai-okajima.md
-people/connie-huang.md
-people/philip-yang.md

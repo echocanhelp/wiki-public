@@ -1,4 +1,0 @@
-people/elaine-liu.md
-people/peter-c-y-chow.md
-people/y-l-lin.md
-people/ching-chih-chen.md

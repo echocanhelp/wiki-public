@@ -1,4 +1,0 @@
-people/amanda-wu.md
-people/dr-bernard-tsai.md
-organizations/taiwanese-scholar-association-in-st-louis-tsa-stl.md
-organizations/taiwanese-american-elite-foundation.md

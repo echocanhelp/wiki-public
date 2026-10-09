@@ -1,4 +1,0 @@
-people/dr-alex-yen.md
-people/hsinkuang-chen.md
-people/f-z-chen-wu.md
-people/y-l-shieh.md

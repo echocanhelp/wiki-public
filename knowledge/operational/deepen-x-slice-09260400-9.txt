@@ -1,4 +1,0 @@
-people/john-hsieh.md
-organizations/taiwanese-association-of-oklahoma.md
-people/y-c-hsu.md
-people/stephanie-chuang.md

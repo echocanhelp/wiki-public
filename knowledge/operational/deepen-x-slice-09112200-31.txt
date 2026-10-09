@@ -1,4 +1,0 @@
-people/yali-chen.md
-people/prof-shenglin-chang.md
-people/suhua-low.md
-people/yi-hsin-lin.md

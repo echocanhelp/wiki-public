@@ -1,4 +1,0 @@
-people/dr-james-tsai.md
-people/fan-rong-k-chung-graham.md
-people/dew-chin-ghi-chang.md
-organizations/taiwanese-student-society.md

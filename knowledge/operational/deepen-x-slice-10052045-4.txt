@@ -1,4 +1,0 @@
-people/c-c-chao.md
-people/c-y-liu.md
-people/emily-hsieh.md
-people/doris-lu-anderson.md

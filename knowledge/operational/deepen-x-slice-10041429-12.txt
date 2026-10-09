@@ -1,4 +1,0 @@
-people/erh-ping-tsai.md
-people/dr-kuo-shih-yeh.md
-organizations/kaohsiung-hotel-association.md
-people/charles-tu.md

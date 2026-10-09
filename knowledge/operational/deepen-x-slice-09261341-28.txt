@@ -1,4 +1,0 @@
-people/ming-yen-hsu.md
-people/tiencheng-arthur-chang.md
-people/steven-fan.md
-people/hansom-chen.md

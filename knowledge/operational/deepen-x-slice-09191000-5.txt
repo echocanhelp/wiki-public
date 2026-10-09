@@ -1,4 +1,0 @@
-people/michelle-wu.md
-people/irene-lee.md
-people/dr-henry-h-yu.md
-people/john-chun-liu.md

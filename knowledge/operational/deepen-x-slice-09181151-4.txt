@@ -1,4 +1,0 @@
-people/serena-chen.md
-people/marina-lu.md
-people/amenda-wu.md
-people/elaine-kate-liu.md

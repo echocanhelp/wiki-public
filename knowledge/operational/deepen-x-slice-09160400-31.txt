@@ -1,4 +1,0 @@
-people/prof-f-frank-chen.md
-people/dr-ming-daw-tsai.md
-people/prof-ming-chiang-lin.md
-people/ted-fan.md

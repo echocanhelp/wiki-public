@@ -1,4 +1,0 @@
-people/shin-tson-wu.md
-people/ming-yen-hsu.md
-people/david-hsieh.md
-people/wen-shean-young.md

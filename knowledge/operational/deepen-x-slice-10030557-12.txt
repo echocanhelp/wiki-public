@@ -1,4 +1,0 @@
-people/robert-lee.md
-people/ed-lin.md
-organizations/taiwanese-association-of-america-hawaii.md
-organizations/acevedo-music-and-art-education-foundation-inc.md

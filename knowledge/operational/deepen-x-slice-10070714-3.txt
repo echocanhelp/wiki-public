@@ -1,4 +1,0 @@
-people/joseph-chow.md
-people/tse-feng-chuang.md
-people/leroy-chiao.md
-people/paul-hsu.md

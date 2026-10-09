@@ -1,4 +1,0 @@
-people/dr-keith-wang.md
-organizations/taiwanese-association-of-america-northern-new-jersey.md
-organizations/taiwanese-american-professionals-new-york.md
-people/wei-shou-hu.md

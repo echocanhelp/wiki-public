@@ -1,4 +1,0 @@
-organizations/good-shine-kitchen.md
-people/yi-miao-huang.md
-people/chung-chi-chou.md
-people/li-ying-chang.md

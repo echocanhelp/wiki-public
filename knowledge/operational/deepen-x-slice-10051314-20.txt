@@ -1,4 +1,0 @@
-people/prof-david-liu.md
-people/rev-sheng-to-shih.md
-people/dr-joseph-kho.md
-people/shui-lian-fang.md

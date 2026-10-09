@@ -1,4 +1,0 @@
-people/christina-long.md
-people/hong-chih-kuo.md
-people/ching-shui-cheng.md
-people/constance-wu.md

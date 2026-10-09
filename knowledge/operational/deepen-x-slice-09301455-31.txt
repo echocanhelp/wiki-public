@@ -1,4 +1,0 @@
-people/stephanie-chuang.md
-people/jacy-chen.md
-organizations/kaohsiung-hotel-association.md
-people/alex-hsuan-yu-lee.md

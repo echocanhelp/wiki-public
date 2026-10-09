@@ -1,4 +1,0 @@
-people/prof-w-k-young.md
-people/anny-yun-an.md
-people/dr-chun-c-tsai.md
-people/evonne-hsu.md

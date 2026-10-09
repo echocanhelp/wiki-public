@@ -1,4 +1,0 @@
-people/peter-wang.md
-people/tah-p-02202e862f.md
-people/prof-andre-lee.md
-people/hung-jen-wu.md

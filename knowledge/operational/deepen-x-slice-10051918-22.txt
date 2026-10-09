@@ -1,4 +1,0 @@
-people/weiting-liu.md
-people/ting-lan-ma.md
-people/matthew-lin.md
-people/prof-shu-li-chen.md

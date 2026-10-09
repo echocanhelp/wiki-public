@@ -1,4 +1,0 @@
-people/raymond-jeng.md
-people/rev-dave-alexander.md
-people/rev-h-d-chen.md
-people/julie-su-young.md

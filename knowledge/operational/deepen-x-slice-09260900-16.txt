@@ -1,4 +1,0 @@
-people/jean-cheng.md
-people/eric-liu.md
-people/chung-h-wu.md
-organizations/taiwanese-american-arts-association.md

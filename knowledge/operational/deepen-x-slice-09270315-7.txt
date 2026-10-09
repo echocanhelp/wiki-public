@@ -1,4 +1,0 @@
-organizations/ai-education-foundation.md
-organizations/forus-foundation.md
-people/jay-liao.md
-people/susan-hsu.md

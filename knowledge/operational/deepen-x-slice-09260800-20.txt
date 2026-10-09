@@ -1,4 +1,0 @@
-people/seng-jaw-soong.md
-people/lina-huang.md
-people/suing-wang.md
-people/d-y-liu.md

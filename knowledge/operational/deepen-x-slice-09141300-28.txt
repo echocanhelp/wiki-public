@@ -1,4 +1,0 @@
-people/weiyin-chen.md
-people/shu-ching-cheng.md
-people/tzu-yi-chen.md
-people/rose-chen.md

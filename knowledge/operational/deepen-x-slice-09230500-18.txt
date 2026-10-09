@@ -1,4 +1,0 @@
-people/joyce-weng.md
-organizations/taiwanese-association-of-south-florida.md
-people/donald-c-j-chen.md
-organizations/taiwan-care-inc.md

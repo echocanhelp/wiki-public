@@ -1,4 +1,0 @@
-people/jen-hao-lee.md
-people/dr-jack-j-chen.md
-organizations/golden-eagle-institute.md
-people/emily-muramoto.md

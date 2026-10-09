@@ -1,4 +1,0 @@
-people/dr-fu-kuen-lin.md
-people/michael-c-lu.md
-organizations/universal-door-foundation.md
-people/huey-lin.md

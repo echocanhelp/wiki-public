@@ -1,4 +1,0 @@
-people/hsiu-chine-yeh-wang.md
-organizations/kaohsiung-hotel-association.md
-people/alex-hsuan-yu-lee.md
-organizations/columbia-university-taiwanese-graduate-student-association.md

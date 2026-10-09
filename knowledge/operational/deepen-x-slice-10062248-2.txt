@@ -1,4 +1,0 @@
-people/emma-chen.md
-people/borcheng-hsu.md
-people/vania-king.md
-people/ling-yeng-young.md

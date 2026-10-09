@@ -1,4 +1,0 @@
-people/gary-marvin-davison.md
-people/c-h-chris-liang.md
-people/victor-liu.md
-people/clement-c-s-hsu.md

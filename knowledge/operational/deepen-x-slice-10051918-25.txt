@@ -1,4 +1,0 @@
-people/kenneth-c-liao.md
-people/pauline-choiu.md
-organizations/taiwanese-import-and-export-association-of-america-inc.md
-people/dr-hsinlin-cheng.md

@@ -1,4 +1,0 @@
-people/frank-t-shu.md
-people/grace-fong.md
-people/kevin-wu.md
-people/clyde-kiang.md

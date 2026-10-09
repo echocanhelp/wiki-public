@@ -1,4 +1,0 @@
-people/andrew-yang.md
-people/quei-lih-chen.md
-people/hannah-hsu-wang.md
-people/sonia-lee.md

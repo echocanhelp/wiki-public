@@ -1,4 +1,0 @@
-people/dr-chung-chiu.md
-people/ray-chen.md
-people/dr-rex-yu.md
-people/kai-ching-chang.md

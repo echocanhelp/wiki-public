@@ -1,4 +1,0 @@
-people/andy-chang.md
-people/judy-hsin-chen-tsai.md
-people/wen-chi-lee.md
-people/richard-chen.md

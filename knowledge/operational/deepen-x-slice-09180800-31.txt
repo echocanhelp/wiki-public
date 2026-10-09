@@ -1,4 +1,0 @@
-people/doris-hsieh.md
-people/c-y-lee.md
-people/shih-yaw-lai.md
-people/sam-hung.md

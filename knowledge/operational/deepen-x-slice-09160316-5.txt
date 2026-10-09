@@ -1,4 +1,0 @@
-people/prof-chin-an-li.md
-people/yuhsuan-liu-aldridge.md
-organizations/hsinchu-high-school-alumni-association-of-north-america.md
-organizations/penghu-info.md

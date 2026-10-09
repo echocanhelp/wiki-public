@@ -1,4 +1,0 @@
-people/chuck-lee.md
-organizations/taiwanese-student-association-at-ucla.md
-people/c-k-lee.md
-people/rev-chung-hsin-cho.md

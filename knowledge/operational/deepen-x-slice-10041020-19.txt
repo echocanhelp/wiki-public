@@ -1,4 +1,0 @@
-people/jeffrey-lee.md
-people/rachel-lin.md
-people/yi-miao-huang.md
-organizations/united-taiwanese-association-at-uc-san-diego.md

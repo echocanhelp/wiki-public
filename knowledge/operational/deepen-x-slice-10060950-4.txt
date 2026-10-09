@@ -1,4 +1,0 @@
-people/mike-lin.md
-people/ralph-su.md
-people/shin-ruh-liu.md
-people/jessica-chen.md

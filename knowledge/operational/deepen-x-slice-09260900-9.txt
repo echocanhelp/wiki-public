@@ -1,4 +1,0 @@
-people/dr-chih-ming-chen.md
-people/ching-ih-wang.md
-people/vania-king.md
-people/szu-ning-tai.md

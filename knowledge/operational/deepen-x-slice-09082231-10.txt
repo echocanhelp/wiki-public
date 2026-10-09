@@ -1,4 +1,0 @@
-people/chungchin-chen.md
-people/julia-tai.md
-people/annie-chuan.md
-people/shih-hui-chen.md

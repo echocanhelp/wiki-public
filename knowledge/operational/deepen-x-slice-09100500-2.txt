@@ -1,4 +1,0 @@
-people/ingrid-chun.md
-people/ming-hsiu-yen.md
-people/prof-w-s-william-wei.md
-people/prof-helen-lee.md

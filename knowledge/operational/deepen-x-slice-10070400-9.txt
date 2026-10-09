@@ -1,4 +1,0 @@
-people/joseph-h-chen.md
-people/prof-su-chiung-chen.md
-people/hoyuan-liu.md
-people/rev-dave-alexander.md

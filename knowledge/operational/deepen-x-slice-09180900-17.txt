@@ -1,4 +1,0 @@
-people/dr-l-c-lin.md
-people/joseph-huang.md
-people/joker-l-jenkins.md
-people/hofu-wu.md

@@ -1,4 +1,0 @@
-people/dr-hui-ling-chen.md
-people/richard-chen.md
-people/michelle-kuo.md
-organizations/taiwanese-american-cultural-association.md

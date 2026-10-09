@@ -1,4 +1,0 @@
-people/prof-chang-jang-hsieh.md
-people/dr-chih-chien-adam-chou.md
-people/tzu-wei-lin.md
-people/prof-albert-b-jeng.md

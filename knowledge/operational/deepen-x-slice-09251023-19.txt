@@ -1,4 +1,0 @@
-people/prof-a-lien-lu-chang.md
-people/joseph-h-chen.md
-people/a-n-liu.md
-people/simon-shiao.md

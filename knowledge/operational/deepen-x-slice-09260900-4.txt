@@ -1,4 +1,0 @@
-people/chuen-mei-lee-fan.md
-people/jolan-hsieh.md
-organizations/socal-taiwanese-biotechnology-association-socal-tba.md
-organizations/yang-foundation.md

@@ -1,4 +1,0 @@
-people/dr-kei-hsiung-yang.md
-people/dr-chia-fu-chou.md
-people/dr-min-hsiung-ko.md
-people/david-wu.md

@@ -1,4 +1,0 @@
-people/kevin-lee.md
-people/dr-jung-t-tsai.md
-organizations/senior-taiwanese-association-of-northern-california.md
-people/prof-ting-kuo-lee.md

@@ -1,4 +1,0 @@
-people/c-c-hsieh.md
-people/dr-jackson-chiu.md
-organizations/aj-wang-foundation-scholarship-fund.md
-organizations/hsu-shih-memorial-foundation.md

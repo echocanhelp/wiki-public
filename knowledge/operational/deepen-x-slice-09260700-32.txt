@@ -1,4 +1,0 @@
-organizations/silicon-valley-taiwanese-american-association.md
-people/dr-soo-chen-cheng.md
-people/peter-lee.md
-people/cindy-liu.md

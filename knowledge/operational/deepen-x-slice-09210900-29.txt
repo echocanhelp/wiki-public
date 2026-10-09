@@ -1,4 +1,0 @@
-people/jong-tseng-yen-phd.md
-people/david-chan.md
-organizations/georgetown-taiwanese-american-student-association.md
-people/s-w-yang.md

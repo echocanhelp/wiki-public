@@ -1,4 +1,0 @@
-people/charles-tu.md
-organizations/kaohsiung-hotel-association.md
-people/chin-cha-cheng.md
-people/c-l-hong.md

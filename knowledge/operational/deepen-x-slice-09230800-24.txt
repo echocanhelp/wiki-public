@@ -1,4 +1,0 @@
-people/prof-wei-kung-wang.md
-people/francie-lin.md
-organizations/taiwanese-sporting-association-new-jersey.md
-people/fumi-chen.md

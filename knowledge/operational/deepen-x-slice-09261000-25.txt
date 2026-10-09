@@ -1,4 +1,0 @@
-people/matthew-tsai.md
-people/y-l-lin.md
-people/ring-lin-hsu.md
-people/susan-suying-lee.md

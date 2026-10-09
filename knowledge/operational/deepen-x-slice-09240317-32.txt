@@ -1,4 +1,0 @@
-organizations/taiwanese-american-arts-association.md
-people/jean-cheng.md
-organizations/liu-kwee-family-association-usa.md
-people/c-n-chen.md

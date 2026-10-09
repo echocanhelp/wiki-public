@@ -1,4 +1,0 @@
-people/mao-sheng-chen.md
-people/yi-ho-cheng.md
-people/suhua-low.md
-people/dr-ching-tsang-hou.md

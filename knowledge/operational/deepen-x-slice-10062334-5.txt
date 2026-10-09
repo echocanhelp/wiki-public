@@ -1,4 +1,0 @@
-people/jay-chen.md
-people/chang-i-tsai.md
-people/sue-chen.md
-people/h-l-hung.md

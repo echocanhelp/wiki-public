@@ -1,4 +1,0 @@
-people/dr-guei-yun-yang.md
-people/eric-teng-kuan-huang.md
-people/julie-wong.md
-organizations/taiwan-environmental-action-network-tean.md

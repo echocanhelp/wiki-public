@@ -1,4 +1,0 @@
-people/hwei-ling-chen.md
-people/m-s-chen.md
-people/william-shu.md
-people/lily-chiang.md

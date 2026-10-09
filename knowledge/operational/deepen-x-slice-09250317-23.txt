@@ -1,4 +1,0 @@
-people/adrian-lin.md
-people/prof-andy-tsay.md
-people/hoyuan-liu.md
-people/qun-tsai.md

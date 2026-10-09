@@ -1,4 +1,0 @@
-people/prof-tai-chang-chiang.md
-people/prof-kuo-nan-liou.md
-people/prof-shirley-cheng-tsai.md
-people/lester-tsai.md

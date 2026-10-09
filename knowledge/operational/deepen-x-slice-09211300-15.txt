@@ -1,4 +1,0 @@
-organizations/miss-taiwanese-american-foundation.md
-people/minlu-chai.md
-people/paul-lin.md
-people/professor-schuman-s-tu.md

@@ -1,4 +1,0 @@
-people/prof-hsiu-san-lin.md
-people/laura-g-ling.md
-organizations/chicago-taiwanese-architecture-institute-ctai.md
-people/dr-shug-hong-young.md

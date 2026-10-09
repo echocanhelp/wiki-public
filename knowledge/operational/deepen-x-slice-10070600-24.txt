@@ -1,4 +1,0 @@
-people/lisa-c-williamson.md
-people/pen-jen-lin.md
-people/tony-li-cheng-yeh.md
-people/kenneth-c-liao.md

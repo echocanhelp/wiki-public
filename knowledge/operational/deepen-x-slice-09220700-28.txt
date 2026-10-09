@@ -1,4 +1,0 @@
-people/judy-wang.md
-people/lung-wen-tsai.md
-people/doug-chiang.md
-people/julie-wu.md

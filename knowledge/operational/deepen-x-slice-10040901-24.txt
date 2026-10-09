@@ -1,4 +1,0 @@
-organizations/taiwanese-student-association-at-ucla.md
-people/echo-lew.md
-people/c-k-lee.md
-people/zheng-quansheng.md

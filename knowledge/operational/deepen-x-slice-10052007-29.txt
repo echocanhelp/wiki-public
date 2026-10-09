@@ -1,4 +1,0 @@
-people/haofan-eric-peng.md
-people/m-k-lin.md
-people/j-c-hong.md
-people/rev-tsu-kung-chuang.md

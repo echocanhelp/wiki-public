@@ -1,4 +1,0 @@
-people/marina-lu.md
-people/patrick-wang.md
-people/yu-tsai.md
-people/nien-tzu-kuo.md

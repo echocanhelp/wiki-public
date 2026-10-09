@@ -1,4 +1,0 @@
-people/julia-huang.md
-organizations/chunglun-presbyterian-church.md
-people/janice-ger.md
-people/chiao-jung-wang.md

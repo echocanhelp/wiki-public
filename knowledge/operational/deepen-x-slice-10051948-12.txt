@@ -1,4 +1,0 @@
-people/dr-matthew-m-yeh.md
-people/prof-chi-tsong-chen.md
-people/dr-ching-rong-cheng.md
-people/peter-wang.md

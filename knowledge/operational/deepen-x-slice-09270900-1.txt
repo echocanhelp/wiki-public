@@ -1,4 +1,0 @@
-organizations/lapc-music-foundation.md
-people/san-john-huang.md
-people/raymond-kuo.md
-organizations/tass-eb.md

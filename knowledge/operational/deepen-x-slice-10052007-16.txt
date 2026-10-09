@@ -1,4 +1,0 @@
-people/ya-hui-chiu.md
-people/dr-jenta-shen.md
-people/julin-tang.md
-people/fred-fung.md

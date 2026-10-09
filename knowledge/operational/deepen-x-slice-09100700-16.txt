@@ -1,4 +1,0 @@
-people/harmony-yang.md
-people/andrew-yang.md
-people/dr-vincent-chuang.md
-people/wei-shuan-yu.md

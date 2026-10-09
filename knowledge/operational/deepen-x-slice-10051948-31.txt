@@ -1,4 +1,0 @@
-people/connie-shiau.md
-people/eric-chien.md
-people/i-s-chen.md
-people/l-n-chang.md

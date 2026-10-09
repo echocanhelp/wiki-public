@@ -1,1 +1,0 @@
-hits-hash (md5 of sorted non-index hit-file list, fresh 2026-10-04): sandra-wright-shen=8b5a2a74b4a6 / peter-lee=fc989c87d9a4 / kaohsiung-high-school-alumni-association=c37aa529b9ab / prof-liang-shih-fan=6e08f949c900 (all 4 verified-saturated; hit sets identical to prior slices — no new corpus material to absorb)

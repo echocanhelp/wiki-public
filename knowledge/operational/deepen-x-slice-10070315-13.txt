@@ -1,4 +1,0 @@
-people/edward-k-wang.md
-people/ian-chen.md
-people/nancy-ho.md
-people/shuo-hui-sophie-hung.md

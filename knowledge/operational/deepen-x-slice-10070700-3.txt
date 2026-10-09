@@ -1,4 +1,0 @@
-people/joshua-c-chang.md
-people/dr-cheng-hung-yeh.md
-people/katherine-jui-chang.md
-people/shiuan-chen.md

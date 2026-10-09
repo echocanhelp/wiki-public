@@ -1,4 +1,0 @@
-organizations/penn-taiwanese-society.md
-people/t-s-hsu.md
-people/joseph-yang.md
-people/yih-fu-shiau.md

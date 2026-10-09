@@ -1,4 +1,0 @@
-people/w-d-lee.md
-people/mingkong-chen.md
-people/jennifer-rorie-cheng.md
-people/hyden-shen.md

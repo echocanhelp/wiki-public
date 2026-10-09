@@ -1,4 +1,0 @@
-people/dr-c-john-won.md
-people/helen-huang.md
-people/elena-ling.md
-people/tsong-yue-lai.md

@@ -1,4 +1,0 @@
-organizations/taiwanese-american-council.md
-people/dr-john-chieu.md
-people/dr-r-palmer-beasley.md
-people/dr-hwalin-lee.md

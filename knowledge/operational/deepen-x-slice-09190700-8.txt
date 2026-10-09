@@ -1,4 +1,0 @@
-people/sing-nan-wang.md
-people/whe-lan-wu-detrick.md
-organizations/houston-taiwanese-golden-club.md
-people/chee-hway-tsai.md

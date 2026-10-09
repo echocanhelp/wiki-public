@@ -1,4 +1,0 @@
-people/lucas-chen.md
-people/mingkong-chen.md
-people/charles-lu.md
-people/m-l-tong.md

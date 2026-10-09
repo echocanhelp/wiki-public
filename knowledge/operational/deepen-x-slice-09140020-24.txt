@@ -1,4 +1,0 @@
-people/prof-chin-hsien-jim-wang.md
-people/dr-ming-hong-chow.md
-people/morgan-chang.md
-people/dr-lily-wang.md

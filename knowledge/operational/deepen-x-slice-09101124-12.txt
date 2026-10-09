@@ -1,4 +1,0 @@
-people/yvonne-cheng.md
-people/bob-cheng.md
-people/che-yen-chen.md
-people/olive-wujen-chen.md

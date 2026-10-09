@@ -1,4 +1,0 @@
-people/linda-wang.md
-organizations/taiwanese-association-of-america-south-jersey-chapter.md
-organizations/paramitas-foundation.md
-people/chung-chi-chou.md

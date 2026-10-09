@@ -1,4 +1,0 @@
-people/dr-chi-shiang-chen.md
-people/ingrid-tseng.md
-organizations/taiwaneseamericanhistory-org.md
-people/m-s-wu.md

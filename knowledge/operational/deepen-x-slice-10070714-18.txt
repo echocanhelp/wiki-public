@@ -1,4 +1,0 @@
-people/eric-ling.md
-people/dr-christopher-shih.md
-people/daniel-lu.md
-people/dennis-lin.md

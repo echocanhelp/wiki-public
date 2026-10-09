@@ -1,4 +1,0 @@
-people/henry-cheng.md
-people/prof-felix-t-hong.md
-people/masa-c-w-chen.md
-people/steve-wei.md

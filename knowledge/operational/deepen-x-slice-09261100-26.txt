@@ -1,4 +1,0 @@
-people/shuo-hui-sophie-hung.md
-people/ja-hsieh.md
-people/dr-chi-shiang-chen.md
-organizations/mountain-view-taiwanese-golf-association.md

@@ -1,4 +1,0 @@
-people/jia-ru-li.md
-people/ku-gstpc.md
-people/hu-gstpc.md
-people/t-t-dean-su.md

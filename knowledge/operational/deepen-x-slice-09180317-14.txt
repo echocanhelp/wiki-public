@@ -1,4 +1,0 @@
-people/dr-chin-b-su.md
-organizations/taiwanese-american-student-association-at-emory-university.md
-people/ben-mezrich.md
-organizations/greater-sacramento-taiwanese-association-gsta.md

@@ -1,4 +1,0 @@
-people/min-jen-chen.md
-people/dr-keith-wang.md
-people/adam-chang.md
-people/shoei-sheng-chen.md

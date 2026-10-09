@@ -1,4 +1,0 @@
-people/jenny-lin.md
-people/jinwun-winston-lue.md
-people/shiao-uen-ding.md
-people/rev-c-y-huang.md

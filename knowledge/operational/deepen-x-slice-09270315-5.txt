@@ -1,4 +1,0 @@
-people/darice-lee.md
-people/hwan-chyang-lin.md
-people/david-j-lu.md
-organizations/american-chinese-dance-association.md

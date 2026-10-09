@@ -1,4 +1,0 @@
-people/dr-steve-lee.md
-people/ian-y-lian.md
-people/howard-w-moore.md
-people/caleb-tsai.md

@@ -1,4 +1,0 @@
-people/prof-der-tsai-lee.md
-people/dr-mei-ann-chen.md
-people/david-loong-hsing-wen.md
-people/cherie-jeng.md

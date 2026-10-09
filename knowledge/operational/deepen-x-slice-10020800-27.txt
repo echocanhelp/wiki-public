@@ -1,4 +1,0 @@
-people/fon-may-fan.md
-people/dawen-wang.md
-organizations/taiwanese-american-student-association-at-uc-berkeley.md
-organizations/taiwanese-american-student-association.md

@@ -1,4 +1,0 @@
-people/yi-fang-huang.md
-organizations/taiwanese-senior-citizen-center.md
-people/yen-sen-chen.md
-people/dr-ming-lon-young.md

@@ -1,4 +1,0 @@
-people/sam-hung.md
-people/i-jen-chen.md
-people/grace-yang.md
-people/serena-chen.md

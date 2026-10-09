@@ -1,4 +1,0 @@
-people/jessie-lee.md
-organizations/ucla-taiwanese-american-union.md
-people/david-j-lu.md
-people/r-l-low.md

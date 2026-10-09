@@ -1,4 +1,0 @@
-people/andrew-lin.md
-people/tah-p-de93a9fd26.md
-organizations/emory-tsa.md
-people/ming-liang-chi.md

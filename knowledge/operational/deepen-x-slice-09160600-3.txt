@@ -1,4 +1,0 @@
-people/prof-tuan-hua-david-ho.md
-people/pei-ning-ku.md
-people/tzu-yi-chen.md
-people/esther-shieh.md

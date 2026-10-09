@@ -1,4 +1,0 @@
-people/robert-lee.md
-organizations/the-chuan-lyu-foundation.md
-people/c-k-lee.md
-organizations/taiwanese-american-student-association-at-uc-berkeley.md

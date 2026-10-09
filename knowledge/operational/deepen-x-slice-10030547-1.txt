@@ -1,4 +1,0 @@
-people/eric-yang.md
-people/yuan-chuan-lee.md
-people/dawen-wang.md
-people/c-y-chen.md

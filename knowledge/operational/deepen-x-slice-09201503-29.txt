@@ -1,4 +1,0 @@
-people/yun-tse-tsai.md
-people/pen-jen-lin.md
-people/larry-jang.md
-people/kenneth-c-liao.md

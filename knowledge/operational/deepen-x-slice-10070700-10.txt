@@ -1,4 +1,0 @@
-people/dr-guan-xun-huang.md
-people/chia-lin-charles-liu.md
-people/dr-matthew-m-yeh.md
-people/hwei-ling-chen.md

@@ -1,4 +1,0 @@
-people/alan-su.md
-people/frank-wu.md
-people/peter-lu.md
-people/eric-ting.md

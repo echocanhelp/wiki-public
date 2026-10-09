@@ -1,4 +1,0 @@
-organizations/houston-taiwanese-golden-club.md
-people/echo-lew.md
-people/c-k-lee.md
-people/zheng-quansheng.md

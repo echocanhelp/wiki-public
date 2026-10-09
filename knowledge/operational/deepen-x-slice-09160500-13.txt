@@ -1,4 +1,0 @@
-people/amanda-wu.md
-people/chao-yuh-yang.md
-people/yung-chiao-wei.md
-people/david-weng.md

@@ -1,4 +1,0 @@
-organizations/new-world-art-center.md
-organizations/vanderbilt-tssa.md
-organizations/hakka-foundation.md
-organizations/emory-tsa.md

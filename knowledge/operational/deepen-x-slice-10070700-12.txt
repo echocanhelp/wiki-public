@@ -1,4 +1,0 @@
-people/peter-wang.md
-people/yabo-soong.md
-people/eric-chien.md
-people/wenhui-cai.md

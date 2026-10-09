@@ -1,4 +1,0 @@
-people/yu-wen-chen.md
-people/george-h-kerr.md
-organizations/career-taiwan-usa-association.md
-organizations/american-citizens-of-taiwan-origin-acto.md

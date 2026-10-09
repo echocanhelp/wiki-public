@@ -1,4 +1,0 @@
-people/chihmei-lin-chen.md
-people/john-pang-yu.md
-people/dr-jia-huey-lin-yu.md
-organizations/neo-art-league.md

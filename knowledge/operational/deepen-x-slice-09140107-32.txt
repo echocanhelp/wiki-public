@@ -1,4 +1,0 @@
-people/ken-lee.md
-organizations/northern-california-taiwanese-medical-association-nctma.md
-people/tim-wu.md
-people/ying-ying-chen.md

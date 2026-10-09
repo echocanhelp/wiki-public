@@ -1,4 +1,0 @@
-organizations/yale-taiwanese-student-association.md
-people/winston-t-dang.md
-people/john-chang.md
-people/charles-tsai.md

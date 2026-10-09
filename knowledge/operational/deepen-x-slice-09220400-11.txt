@@ -1,4 +1,0 @@
-people/ed-lin.md
-people/rung-fang-chen.md
-people/ing-hour-lin.md
-organizations/taiwanese-american-chamber-la.md

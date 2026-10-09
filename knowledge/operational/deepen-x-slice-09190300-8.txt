@@ -1,4 +1,0 @@
-people/prof-harrison-cheng.md
-people/gary-marvin-davison.md
-people/rev-h-d-chen.md
-people/ja-hsieh.md

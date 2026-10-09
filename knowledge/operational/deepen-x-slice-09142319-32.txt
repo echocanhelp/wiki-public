@@ -1,4 +1,0 @@
-people/gloria-chuang.md
-people/ted-kuo.md
-people/prof-hsing-jien-kung.md
-people/jannet-jah.md

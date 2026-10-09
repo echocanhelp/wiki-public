@@ -1,4 +1,0 @@
-people/dr-kuen-shii-tsay.md
-organizations/uf-taiwanese-student-association.md
-people/forest-yang.md
-people/connie-huang.md

@@ -1,4 +1,0 @@
-people/kim-wang-neal.md
-people/joey-chang.md
-people/shuo-hui-sophie-hung.md
-people/nam-yeung.md

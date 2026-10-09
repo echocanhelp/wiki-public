@@ -1,4 +1,0 @@
-organizations/taiwanese-student-association-at-uc-berkeley.md
-people/christina-lai.md
-people/whe-lan-wu-detrick.md
-people/henry-cheng.md

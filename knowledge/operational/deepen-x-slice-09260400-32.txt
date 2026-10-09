@@ -1,4 +1,0 @@
-people/anna-chang.md
-people/yu-han-yeh.md
-people/prof-liang-shih-fan.md
-people/c-l-hong.md

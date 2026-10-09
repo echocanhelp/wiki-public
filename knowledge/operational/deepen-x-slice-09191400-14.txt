@@ -1,4 +1,0 @@
-people/joanna-chen-cham.md
-people/dr-chih-ming-chen.md
-people/dr-charles-chiu.md
-organizations/texas-taiwanese-biotechnology-association.md

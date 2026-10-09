@@ -1,4 +1,0 @@
-people/rung-fang-chen.md
-organizations/chicago-taiwanese-architecture-institute-ctai.md
-people/rev-burton-tan.md
-people/dr-jane-h-hsiao-2.md

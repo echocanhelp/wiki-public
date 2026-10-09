@@ -1,4 +1,0 @@
-people/charles-c-hsu.md
-people/c-y-chen.md
-organizations/taiwanese-graduate-student-association-at-uc-davis.md
-organizations/acevedo-music-and-art-education-foundation-inc.md

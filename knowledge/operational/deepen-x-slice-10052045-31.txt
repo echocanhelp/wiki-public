@@ -1,4 +1,0 @@
-organizations/emory-tsa.md
-organizations/duke-taiwanese-student-association.md
-organizations/penn-taiwanese-student-association.md
-organizations/taiwanese-american-student-association-at-georgia-tech.md

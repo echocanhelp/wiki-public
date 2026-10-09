@@ -1,4 +1,0 @@
-people/angie-chen-button.md
-people/sam-s-weng.md
-people/mo-chao-tsai.md
-people/monty-wang.md

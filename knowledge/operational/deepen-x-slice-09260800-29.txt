@@ -1,4 +1,0 @@
-people/sally-tsai.md
-people/hsian-rong-tseng.md
-people/dr-alex-hung.md
-people/yu-wen-chen.md

@@ -1,4 +1,0 @@
-people/yu-han-yeh.md
-people/s-t-liu.md
-people/li-ying-chang.md
-people/richard-chen.md

@@ -1,4 +1,0 @@
-people/dr-jeffrey-tsai.md
-people/amy-hsu.md
-people/dr-john-tsuang.md
-people/ing-hour-lin.md

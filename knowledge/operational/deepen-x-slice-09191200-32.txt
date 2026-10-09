@@ -1,4 +1,0 @@
-people/wang-gstpc.md
-people/wen-ling-tu.md
-people/l-f-tang.md
-people/jason-su.md

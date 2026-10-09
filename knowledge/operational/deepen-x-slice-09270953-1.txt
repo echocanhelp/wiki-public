@@ -1,4 +1,0 @@
-people/dr-jia-huey-lin-yu.md
-people/dr-virginia-s-shen.md
-organizations/boston-taiwanese-biotechnology-association.md
-people/prof-chih-chung-yang.md

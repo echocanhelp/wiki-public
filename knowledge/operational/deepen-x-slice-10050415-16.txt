@@ -1,4 +1,0 @@
-organizations/taiwanese-student-association-at-ucla.md
-organizations/houston-taiwanese-golden-club.md
-people/echo-lew.md
-people/zheng-quansheng.md

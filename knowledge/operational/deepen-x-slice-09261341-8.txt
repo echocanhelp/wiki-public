@@ -1,4 +1,0 @@
-people/prof-chung-cheng-hsieh.md
-organizations/mid-hudson-taiwanese-association.md
-people/prof-tien-chang-lee.md
-people/prof-yuan-pern-lee.md

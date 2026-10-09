@@ -1,4 +1,0 @@
-people/stuart-chen.md
-people/portia-wu.md
-people/frances-y-wang.md
-people/eric-cheng.md

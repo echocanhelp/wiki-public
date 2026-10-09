@@ -1,4 +1,0 @@
-people/prof-chih-hao-lucas-chang.md
-people/kelvin-yu.md
-people/chun-fan-chen.md
-people/yi-miao-huang.md

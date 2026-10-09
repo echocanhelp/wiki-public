@@ -1,4 +1,0 @@
-people/ping-wang.md
-people/hanna-huang.md
-people/prof-james-c-liao.md
-organizations/modern-taiwanese-language-association.md

@@ -1,4 +1,0 @@
-people/heng-liong-lin.md
-people/jonathan-lee.md
-people/shun-hua-yu.md
-people/agnes-hsiao.md

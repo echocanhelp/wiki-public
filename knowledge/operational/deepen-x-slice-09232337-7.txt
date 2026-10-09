@@ -1,4 +1,0 @@
-people/xie-dali.md
-people/ku-gstpc.md
-people/janet-allen.md
-people/h-m-jiang.md

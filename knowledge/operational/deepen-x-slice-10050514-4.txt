@@ -1,4 +1,0 @@
-people/peter-lee.md
-organizations/taiwanese-american-cultural-association.md
-organizations/taiwanese-student-association-at-arizona-state-university.md
-people/s-t-liu.md

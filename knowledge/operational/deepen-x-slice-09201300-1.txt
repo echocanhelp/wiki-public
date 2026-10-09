@@ -1,4 +1,0 @@
-people/jenny-lin.md
-people/wan-lin-tsai.md
-people/hui-mei-lin.md
-people/tzutsai-cheng.md

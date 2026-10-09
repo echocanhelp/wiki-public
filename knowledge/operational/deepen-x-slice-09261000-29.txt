@@ -1,4 +1,0 @@
-people/yih-loong-lai.md
-people/sonny-hsu.md
-people/rev-dave-alexander.md
-people/frederic-wang.md

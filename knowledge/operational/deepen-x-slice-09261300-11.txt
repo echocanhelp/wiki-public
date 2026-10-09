@@ -1,4 +1,0 @@
-people/david-wang.md
-people/maw-lin.md
-people/m-s-wu.md
-people/jimmy-li.md

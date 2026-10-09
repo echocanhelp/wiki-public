@@ -1,4 +1,0 @@
-people/pamela-hung.md
-people/rui-mu-lee.md
-people/rachel-ku.md
-people/prof-oliver-chyan.md

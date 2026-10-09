@@ -1,4 +1,0 @@
-people/i-jen-chen.md
-people/p-f-yu-name.md
-people/jamy-r-m-liu.md
-people/jeff-hou.md

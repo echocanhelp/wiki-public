@@ -1,4 +1,0 @@
-people/kjell-n-lindgren.md
-people/joseph-h-chen.md
-people/dr-izabel-s-h-chuang.md
-people/frank-lin.md

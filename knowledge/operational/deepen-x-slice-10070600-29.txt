@@ -1,4 +1,0 @@
-people/susan-chuang.md
-people/hua-san-chi.md
-people/i-s-chen.md
-people/cherry-chi.md

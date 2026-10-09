@@ -1,4 +1,0 @@
-people/david-tsay.md
-people/chuan-kwang-yang.md
-people/dr-jen-tai-tsai.md
-people/chien-tai-chen.md

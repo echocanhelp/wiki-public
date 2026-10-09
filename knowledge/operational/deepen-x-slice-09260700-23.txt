@@ -1,4 +1,0 @@
-organizations/taiwanese-american-association-of-arizona.md
-people/mei-fun-tsai.md
-people/martha-hsu.md
-people/long-lee.md

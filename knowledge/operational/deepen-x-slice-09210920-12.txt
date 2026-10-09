@@ -1,4 +1,0 @@
-people/m-r-tsai.md
-people/lily-chen.md
-people/monica-hsu.md
-people/t-s-hsu.md

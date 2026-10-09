@@ -1,4 +1,0 @@
-people/james-hu.md
-people/heng-liong-lin.md
-people/i-chun-catherine-chang.md
-people/anna-chang.md

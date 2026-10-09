@@ -1,4 +1,0 @@
-people/ching-ming-cheng.md
-people/cai-weiren.md
-people/willy-pan.md
-people/zheng-shaoliang.md

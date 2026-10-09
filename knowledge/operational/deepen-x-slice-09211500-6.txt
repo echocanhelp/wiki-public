@@ -1,4 +1,0 @@
-people/robert-chen.md
-people/john-chun-liu.md
-people/kenneth-wang.md
-people/chun-chieh-chiu.md

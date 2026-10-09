@@ -1,4 +1,0 @@
-people/joyce-hwang.md
-people/wang-gstpc.md
-people/jane-lin.md
-people/shoei-sheng-chen.md

@@ -1,4 +1,0 @@
-organizations/taiwanese-undergraduate-student-organization.md
-people/stephanie-chuang.md
-people/jacy-chen.md
-organizations/kaohsiung-hotel-association.md

@@ -1,4 +1,0 @@
-people/samuel-lin.md
-people/prof-frank-chiang.md
-people/felicia-tang.md
-people/yi-ming-chen.md

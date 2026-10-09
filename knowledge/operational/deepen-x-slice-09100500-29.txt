@@ -1,4 +1,0 @@
-people/janet-tsai.md
-people/chi-yin-chen.md
-people/prof-frank-chiang.md
-people/yiwei-lin.md

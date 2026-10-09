@@ -1,4 +1,0 @@
-people/dr-ming-tang-lai.md
-people/jensen-huang.md
-people/elena-ling.md
-people/cpaul-huang.md

@@ -1,4 +1,0 @@
-people/chenhung-chen.md
-people/prof-james-c-liao.md
-people/michael-chong.md
-organizations/los-angeles-life-forum.md

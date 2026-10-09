@@ -1,4 +1,0 @@
-people/cindy-hsu-chung.md
-people/prof-chong-maw-chen.md
-people/prof-ruey-s-tsay.md
-people/peter-lee.md

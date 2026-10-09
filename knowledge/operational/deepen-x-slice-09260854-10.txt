@@ -1,4 +1,0 @@
-organizations/boston-taiwanese-christian-church.md
-people/jeff-yang.md
-organizations/north-america-chang-hua-association.md
-people/dr-jheng-yan.md

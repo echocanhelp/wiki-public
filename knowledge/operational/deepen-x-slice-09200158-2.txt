@@ -1,4 +1,0 @@
-people/cheng-shen-fang.md
-people/chi-shun-hwang.md
-people/c-c-chung.md
-people/ingrid-tseng.md

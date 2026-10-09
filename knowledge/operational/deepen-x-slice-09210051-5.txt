@@ -1,4 +1,0 @@
-people/paul-pai-shih-lee.md
-people/dr-dan-kai-liu.md
-people/jang-yen-wu.md
-people/dr-jin-l-lin.md

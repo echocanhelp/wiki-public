@@ -1,4 +1,0 @@
-people/tzuying-huang.md
-people/nancy-jan.md
-people/kai-ching-chang.md
-people/i-chen-wang.md

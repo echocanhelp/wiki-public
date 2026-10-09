@@ -1,4 +1,0 @@
-people/gene-jack-wang.md
-people/chung-h-wu.md
-people/h-j-chen.md
-people/dr-ei-shun-lin.md

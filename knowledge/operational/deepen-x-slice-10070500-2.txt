@@ -1,4 +1,0 @@
-organizations/yang-foundation.md
-people/jong-l-chen.md
-people/yen-kuang-chen.md
-organizations/texas-taiwanese-biotechnology-association.md

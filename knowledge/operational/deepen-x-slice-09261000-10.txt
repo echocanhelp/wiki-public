@@ -1,4 +1,0 @@
-people/c-s-huang.md
-people/alexander-m-lee.md
-organizations/taiwanese-american-cultural-society-of-california.md
-people/samuel-wu.md

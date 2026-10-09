@@ -1,4 +1,0 @@
-people/patricia-j-chen.md
-people/rueibin-chen.md
-organizations/taiwanese-sporting-association-new-jersey.md
-people/jay-chen.md

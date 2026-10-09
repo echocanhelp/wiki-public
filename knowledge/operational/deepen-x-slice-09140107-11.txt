@@ -1,4 +1,0 @@
-people/vera-hui-pin-hsu.md
-people/april-lin.md
-people/andrew-yang.md
-people/joseph-teng.md

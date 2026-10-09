@@ -1,4 +1,0 @@
-people/jerry-jan.md
-people/arnold-j-lee.md
-people/ho-yangpeter-tsai.md
-people/fred-fung.md

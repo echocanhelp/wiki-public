@@ -1,4 +1,0 @@
-people/prof-david-liu.md
-people/steve-wei.md
-people/edward-liu.md
-people/prof-lily-yeh-ja.md

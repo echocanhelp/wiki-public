@@ -1,4 +1,0 @@
-people/thomas-c-t-chiu.md
-people/goo-shun-wang.md
-people/ching-chih-chen.md
-people/arnold-j-lee.md

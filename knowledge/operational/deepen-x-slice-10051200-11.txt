@@ -1,4 +1,0 @@
-people/eric-cheng.md
-people/chun-long-jerry-tsung.md
-organizations/taiwan-hakka-language-system.md
-people/yunn-mei-lin.md

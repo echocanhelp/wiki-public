@@ -1,4 +1,0 @@
-people/prof-ta-chiang-liu.md
-people/pauline-hsiao-ye.md
-people/jason-huang.md
-people/chun-long-jerry-tsung.md

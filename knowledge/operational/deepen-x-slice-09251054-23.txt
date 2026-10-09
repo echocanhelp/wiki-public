@@ -1,4 +1,0 @@
-people/cady-tsai.md
-people/amenda-wu.md
-people/c-c-tsai.md
-people/xu-wenkai.md

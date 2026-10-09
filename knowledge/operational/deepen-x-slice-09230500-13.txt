@@ -1,4 +1,0 @@
-organizations/taiwanese-student-society.md
-people/echo-lin.md
-organizations/taiwanese-student-association-at-syracuse-university.md
-people/prof-je-chin-han.md

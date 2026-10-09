@@ -1,4 +1,0 @@
-people/cleo-chiang.md
-organizations/taiwanese-graduate-student-association-at-uva.md
-people/wang-gstpc.md
-people/chue-jen-huang.md

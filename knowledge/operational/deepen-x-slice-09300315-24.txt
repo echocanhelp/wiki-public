@@ -1,4 +1,0 @@
-people/richard-chen.md
-organizations/taiwanese-student-association-at-arizona-state-university.md
-organizations/taiwanese-american-aeronautics-and-space-association.md
-people/chin-hsin-jason-liu.md

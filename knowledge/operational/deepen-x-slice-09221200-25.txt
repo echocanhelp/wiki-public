@@ -1,4 +1,0 @@
-organizations/paramitas-foundation.md
-people/j-w-huang-lee.md
-people/dr-chiung-t-ling.md
-organizations/l-a-study-group.md

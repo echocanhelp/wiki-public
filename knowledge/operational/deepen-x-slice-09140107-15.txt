@@ -1,4 +1,0 @@
-people/thomas-barclay.md
-people/linda-chen.md
-people/hannah-hsu-wang.md
-people/prof-chien-te-chen.md

@@ -1,4 +1,0 @@
-people/peirong-lo.md
-organizations/taiwanese-student-association-at-georgia-tech.md
-people/robert-lee.md
-people/ed-lin.md

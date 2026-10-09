@@ -1,4 +1,0 @@
-people/kenneth-liu.md
-people/joyce-hwang.md
-people/jonathan-yu.md
-people/jimmy-li.md

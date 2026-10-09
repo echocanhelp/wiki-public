@@ -1,4 +1,0 @@
-people/strong-chuang.md
-people/portia-wu.md
-organizations/world-taiwan-foundation.md
-organizations/taiwanese-association-of-america.md

@@ -1,4 +1,0 @@
-people/dr-peter-wu.md
-people/j-y-tsai.md
-people/tzu-ling-sarana-chou.md
-organizations/taiwanese-american-student-association-at-uc-berkeley.md

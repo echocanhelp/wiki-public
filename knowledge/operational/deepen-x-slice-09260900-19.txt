@@ -1,4 +1,0 @@
-people/prof-chih-hao-lucas-chang.md
-people/prof-su-chiung-chen.md
-people/dr-chiung-t-ling.md
-people/hsin-yun-huang.md

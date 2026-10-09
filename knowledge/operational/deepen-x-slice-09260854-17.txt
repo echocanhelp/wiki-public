@@ -1,4 +1,0 @@
-people/john-chang.md
-people/s-t-liu.md
-people/john-chin-jung-cheng.md
-people/scott-lee.md

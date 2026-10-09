@@ -1,4 +1,0 @@
-organizations/taiwan-formosa.md
-people/p-f-yu-name.md
-people/i-jen-chen.md
-people/dr-sing-san-yang.md

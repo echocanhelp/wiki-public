@@ -1,4 +1,0 @@
-people/r-l-low.md
-people/mark-jong.md
-people/tim-chng.md
-people/richard-lin.md

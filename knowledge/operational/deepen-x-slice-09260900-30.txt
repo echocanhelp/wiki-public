@@ -1,4 +1,0 @@
-organizations/new-world-art-center.md
-people/prof-s-s-huang.md
-people/dr-min-hsiung-tsai.md
-people/chen-xialian.md

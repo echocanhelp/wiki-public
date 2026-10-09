@@ -1,4 +1,0 @@
-people/cpaul-huang.md
-organizations/taiwanese-overseas-students-association-at-boston-university.md
-organizations/taiwanese-american-religious-study-association.md
-organizations/north-shore-club.md

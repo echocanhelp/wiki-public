@@ -1,4 +1,0 @@
-people/kim-lai-huang.md
-people/mou-chinlin.md
-people/ling-ling-chang.md
-people/chi-yuan-chen.md

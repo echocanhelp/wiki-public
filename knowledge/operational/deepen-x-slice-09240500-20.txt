@@ -1,4 +1,0 @@
-people/emily-lin-lee.md
-people/chinying-rachel-chang.md
-people/jessie-lee.md
-organizations/taiwanese-american-arts-council-taac.md

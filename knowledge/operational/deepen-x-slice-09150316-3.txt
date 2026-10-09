@@ -1,4 +1,0 @@
-people/jolie-lin.md
-people/peggy-kuo.md
-people/harmony-yang.md
-people/stella-landauer.md

@@ -1,4 +1,0 @@
-people/dr-may-chiu.md
-people/s-c-lin.md
-people/s-c-wu.md
-people/john-shiau.md

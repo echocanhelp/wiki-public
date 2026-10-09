@@ -1,4 +1,0 @@
-people/lily-li-jan-lin.md
-people/shih-chieh-huang.md
-people/lin-chao-chi.md
-people/ju-ying-song.md

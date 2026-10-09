@@ -1,4 +1,0 @@
-people/prof-li-hui-tsai.md
-people/b-h-chen.md
-organizations/houston-taiwanese-golden-club.md
-people/chiu-ling-lin.md

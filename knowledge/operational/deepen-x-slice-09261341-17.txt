@@ -1,4 +1,0 @@
-people/bill-lee.md
-people/k-l-hung.md
-people/prof-w-s-winston-ho.md
-people/hua-san-chi.md

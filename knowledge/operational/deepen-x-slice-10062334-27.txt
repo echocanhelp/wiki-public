@@ -1,4 +1,0 @@
-people/henty-chen.md
-people/sam-hung.md
-people/h-m-jiang.md
-people/josephine-lu.md

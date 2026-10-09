@@ -1,4 +1,0 @@
-people/hsinkuang-chen.md
-people/c-h-chris-liang.md
-people/c-r-huang.md
-people/prof-hsiu-lang-chen.md

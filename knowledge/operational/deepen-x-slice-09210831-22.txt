@@ -1,4 +1,0 @@
-people/bill-lee.md
-people/hsinkuang-chen.md
-people/f-z-chen-wu.md
-people/chun-yen-chang.md

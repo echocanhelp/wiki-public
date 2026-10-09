@@ -1,4 +1,0 @@
-people/hanna-huang.md
-people/scott-lee.md
-organizations/chicago-taiwanese-architecture-institute-ctai.md
-people/marie-hsiao-mree.md

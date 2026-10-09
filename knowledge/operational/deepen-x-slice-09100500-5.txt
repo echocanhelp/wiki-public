@@ -1,4 +1,0 @@
-people/steven-wu.md
-people/winnie-cheng-wen-lai.md
-people/te-chiang-bacco-liu.md
-people/lin-chao-quan.md

@@ -1,4 +1,0 @@
-people/brian-lee.md
-people/shing-lung-tseng.md
-people/k-s-chao.md
-people/chin-chih-yang.md

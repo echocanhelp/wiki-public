@@ -1,4 +1,0 @@
-organizations/taiwanese-american-aeronautics-and-space-association.md
-people/chinying-rachel-chang.md
-people/chin-hsin-jason-liu.md
-people/harrison-lin.md

@@ -1,4 +1,0 @@
-people/steven-lin.md
-people/gloria-chuang.md
-people/daphne-tsao.md
-people/amanda-shumin-yang.md

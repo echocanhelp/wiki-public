@@ -1,4 +1,0 @@
-people/prof-shung-wu-lee.md
-people/dr-g-c-huang.md
-people/dr-kuang-chi-liang.md
-people/angellee-shaw-chen.md

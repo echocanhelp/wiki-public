@@ -1,4 +1,0 @@
-people/eric-lee.md
-people/prof-pai-hsiang-chou.md
-people/shawn-c-chou.md
-people/mei-hua-huang.md

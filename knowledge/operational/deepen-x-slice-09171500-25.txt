@@ -1,4 +1,0 @@
-people/yih-fu-shiau.md
-people/rui-feng-hsu.md
-people/janet-lee.md
-people/henry-c-liao.md

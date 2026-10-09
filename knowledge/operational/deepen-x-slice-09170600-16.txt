@@ -1,4 +1,0 @@
-people/dr-jong-huang.md
-organizations/manhattan-ks-chapter-taa.md
-people/prof-liang-shih-fan.md
-organizations/taiwan-care-inc.md

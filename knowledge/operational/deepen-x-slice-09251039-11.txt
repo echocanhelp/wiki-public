@@ -1,4 +1,0 @@
-organizations/uf-taiwanese-student-association.md
-organizations/georgetown-taiwanese-american-student-association.md
-people/s-h-shang.md
-people/kenneth-c-liao.md

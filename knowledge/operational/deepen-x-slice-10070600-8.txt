@@ -1,4 +1,0 @@
-people/jennifer-fan.md
-people/jerry-huang.md
-people/jawshing-arthur-liou.md
-people/dr-henry-k-tsai.md

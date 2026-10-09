@@ -1,4 +1,0 @@
-people/freeman-lin.md
-people/cady-tsai.md
-people/c-c-su.md
-people/ming-jer-kuo.md

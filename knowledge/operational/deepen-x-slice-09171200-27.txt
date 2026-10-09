@@ -1,4 +1,0 @@
-people/jason-jung.md
-people/ho-yangpeter-tsai.md
-organizations/nyu-taiwanese-american-student-society.md
-people/jyh-fa-kuo.md

@@ -1,4 +1,0 @@
-organizations/bald-eagle-society.md
-organizations/taiwanese-dental-association.md
-organizations/georgetown-taiwanese-student-association.md
-people/chien-feng-jeffrey-wang.md

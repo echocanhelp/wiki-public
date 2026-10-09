@@ -1,4 +1,0 @@
-people/sharon-cheng.md
-people/ya-fei-chuang.md
-people/jeremy-lin.md
-people/prof-ken-s-huang.md

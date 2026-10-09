@@ -1,4 +1,0 @@
-organizations/global-hakka-un-ngo-applying-committee-un-ngo.md
-people/mao-chung-lee.md
-people/hsien-ann-meng.md
-people/prof-carol-ou.md

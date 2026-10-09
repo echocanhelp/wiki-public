@@ -1,4 +1,0 @@
-people/katy-tang.md
-people/adam-chang.md
-people/dr-b-s-lu.md
-people/tonya-c-mezrich.md

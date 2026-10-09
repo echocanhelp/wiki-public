@@ -1,4 +1,0 @@
-people/prof-tao-shih-shieh.md
-people/dr-daniel-th-liu.md
-people/dr-chih-ming-chen.md
-people/charles-tu.md

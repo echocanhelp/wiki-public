@@ -1,4 +1,0 @@
-people/hui-hsiung-kuo.md
-people/ching-ju-cheng.md
-people/a-n-liu.md
-organizations/tah-org-d422648fd1.md

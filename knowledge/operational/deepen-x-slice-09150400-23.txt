@@ -1,4 +1,0 @@
-people/kevin-lee.md
-people/yi-ming-chen.md
-people/prof-hsing-jien-kung.md
-people/dr-chung-chiu.md

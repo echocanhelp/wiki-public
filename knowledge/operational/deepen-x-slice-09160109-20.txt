@@ -1,4 +1,0 @@
-people/emily-muramoto.md
-people/prof-ben-liu.md
-people/shih-han-erika-chiu.md
-people/dr-jack-j-chen.md

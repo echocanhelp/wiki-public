@@ -1,4 +1,0 @@
-people/dan-lin.md
-people/dr-jacob-huang.md
-organizations/taiwanese-american-student-association-ohio-state-university.md
-organizations/lkgt.md

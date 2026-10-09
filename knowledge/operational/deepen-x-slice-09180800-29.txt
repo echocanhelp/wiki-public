@@ -1,4 +1,0 @@
-people/peter-deng.md
-people/chang-kuo-hsin.md
-people/frank-m-hsu.md
-people/richard-wang.md

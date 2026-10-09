@@ -1,4 +1,0 @@
-people/dr-virginia-s-shen.md
-organizations/boston-taiwanese-biotechnology-association.md
-people/prof-chih-chung-yang.md
-organizations/clear-lake-taiwanese-association.md

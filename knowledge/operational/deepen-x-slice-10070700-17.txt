@@ -1,4 +1,0 @@
-people/jonathan-yu.md
-people/kenneth-fu.md
-people/s-c-lin.md
-people/l-f-tang.md

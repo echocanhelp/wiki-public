@@ -1,4 +1,0 @@
-people/marilyn-fu.md
-people/dr-fu-kuen-lin.md
-people/arthur-h-wu.md
-people/h-n-tong.md

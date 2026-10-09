@@ -1,4 +1,0 @@
-people/howard-w-moore.md
-people/theresa-l-chung.md
-organizations/uf-taiwanese-student-association.md
-people/charlie-wang.md

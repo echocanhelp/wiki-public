@@ -1,4 +1,0 @@
-people/nien-tzu-kuo.md
-people/maw-lin.md
-people/dr-nancy-fan-paul.md
-people/zwu-shi-lin.md

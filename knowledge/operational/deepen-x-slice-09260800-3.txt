@@ -1,4 +1,0 @@
-people/ke-wenze.md
-people/dr-jen-tai-tsai.md
-organizations/taiwanese-student-association-at-uc-santa-barbara.md
-people/prof-edward-h-lee.md

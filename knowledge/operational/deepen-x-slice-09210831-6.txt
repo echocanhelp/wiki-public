@@ -1,4 +1,0 @@
-people/chi-shih-huang.md
-organizations/taiwan-external-trade-development-council.md
-people/rui-feng-hsu.md
-people/julia-huang.md

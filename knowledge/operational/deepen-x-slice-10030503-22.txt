@@ -1,4 +1,0 @@
-people/prof-ruey-jen-sung.md
-people/j-w-huang-lee.md
-people/chuck-lee.md
-organizations/joint-chinese-university-alumni-association-of-southern-california.md

@@ -1,4 +1,0 @@
-people/walter-dunn.md
-people/eric-ling.md
-people/yi-cheng-liu.md
-people/hyden-shen.md

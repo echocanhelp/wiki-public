@@ -1,4 +1,0 @@
-people/b-michael-yeun.md
-people/liang-ping-how.md
-people/prof-abraham-lee.md
-people/lung-wen-tsai.md

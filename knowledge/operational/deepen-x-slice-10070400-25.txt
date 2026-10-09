@@ -1,4 +1,0 @@
-people/eleanor-tsai.md
-organizations/chicago-taiwanese-cuisine-and-culture-association.md
-people/dr-chih-ming-chen.md
-people/dr-wen-chang-yang.md

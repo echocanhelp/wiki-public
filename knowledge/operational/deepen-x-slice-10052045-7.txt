@@ -1,4 +1,0 @@
-people/c-c-tsai.md
-people/pei-lin.md
-people/cady-tsai.md
-people/alan-su.md

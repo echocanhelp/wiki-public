@@ -1,4 +1,0 @@
-organizations/taiwanese-american-arts-council-taac.md
-people/marisa-lin.md
-people/li-ying-chang.md
-people/richard-chen.md

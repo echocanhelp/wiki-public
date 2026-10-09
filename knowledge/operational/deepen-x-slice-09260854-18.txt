@@ -1,4 +1,0 @@
-people/keng-chi-wu.md
-people/hofu-wu.md
-organizations/chicago-taiwanese-architecture-institute-ctai.md
-people/s-y-huang.md

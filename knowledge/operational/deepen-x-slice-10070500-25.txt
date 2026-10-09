@@ -1,4 +1,0 @@
-people/dr-chi-shiang-chen.md
-people/ssu-yu-huang.md
-people/c-lee-chang.md
-people/prof-y-w-cheng.md

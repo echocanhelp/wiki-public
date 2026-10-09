@@ -1,4 +1,0 @@
-people/prof-chih-hao-lucas-chang.md
-people/rev-prof-joseph-wang.md
-people/doug-chiang.md
-people/dr-chang-yang-wang.md

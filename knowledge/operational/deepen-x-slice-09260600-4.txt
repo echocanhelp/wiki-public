@@ -1,4 +1,0 @@
-people/jensin-w-sommer.md
-people/prof-frank-hsu.md
-people/lian-huo-wu.md
-organizations/taiwanese-american-professionals-atlanta.md

@@ -1,4 +1,0 @@
-people/alan-t-chen.md
-organizations/formosa-foundation.md
-organizations/taiwanese-student-association-tsa.md
-people/pearl-pi-chu-yang-wu.md

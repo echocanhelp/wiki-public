@@ -1,4 +1,0 @@
-people/c-n-chen.md
-people/c-s-hsu.md
-people/liang-ping-how.md
-organizations/global-alliance-for-democracy-and-peace-la.md

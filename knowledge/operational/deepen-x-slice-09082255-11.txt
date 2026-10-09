@@ -1,4 +1,0 @@
-people/sonia-lee.md
-people/ying-chen-kao.md
-people/yi-ju-chen.md
-people/ching-jang-yao.md

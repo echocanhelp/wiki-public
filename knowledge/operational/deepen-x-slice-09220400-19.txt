@@ -1,4 +1,0 @@
-organizations/joint-chinese-university-alumni-association-of-southern-california.md
-people/dr-jeffrey-tsai.md
-people/c-k-lee.md
-people/prof-wen-chan.md

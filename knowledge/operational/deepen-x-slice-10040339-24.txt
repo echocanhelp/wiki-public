@@ -1,4 +1,0 @@
-people/prof-nai-chang-yeh.md
-organizations/taiwanese-undergraduate-student-organization.md
-people/jacy-chen.md
-people/hsiu-chine-yeh-wang.md

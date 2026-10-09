@@ -1,4 +1,0 @@
-people/rev-thomas-h-chen.md
-organizations/fapa-los-angeles.md
-organizations/taiwanese-american-foundation.md
-people/lisa-wang.md

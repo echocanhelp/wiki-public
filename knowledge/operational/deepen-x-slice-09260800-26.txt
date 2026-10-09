@@ -1,4 +1,0 @@
-people/pi-kwang-tsung.md
-people/dr-henry-y-wu.md
-people/allen-chang.md
-people/david-kuang-tzu-lin.md

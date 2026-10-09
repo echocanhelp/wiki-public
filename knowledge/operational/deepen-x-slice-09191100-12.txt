@@ -1,4 +1,0 @@
-people/jim-t-r-chen.md
-people/dr-kuei-hsien-chen.md
-people/steven-chou.md
-people/chung-h-wu.md

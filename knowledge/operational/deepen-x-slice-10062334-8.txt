@@ -1,4 +1,0 @@
-people/huey-lin.md
-people/janet-hsieh.md
-people/masao-s-yu.md
-people/keng-chi-wu.md

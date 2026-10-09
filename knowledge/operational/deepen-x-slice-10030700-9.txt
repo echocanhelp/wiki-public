@@ -1,4 +1,0 @@
-people/c-s-hsu.md
-people/chin-cha-cheng.md
-people/dr-peter-wu.md
-people/chun-chiu.md

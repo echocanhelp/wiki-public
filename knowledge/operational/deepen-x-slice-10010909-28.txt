@@ -1,4 +1,0 @@
-people/prof-yang-en-cheng.md
-organizations/taiwanese-american-arts-council-taac.md
-people/dr-stephen-chen.md
-people/morisan-lu.md

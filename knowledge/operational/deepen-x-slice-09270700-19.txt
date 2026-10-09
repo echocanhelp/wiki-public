@@ -1,4 +1,0 @@
-people/heng-liong-lin.md
-people/alice-yu.md
-organizations/l-a-study-group.md
-people/s-j-lin.md

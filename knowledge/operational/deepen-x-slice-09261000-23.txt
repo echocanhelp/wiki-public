@@ -1,4 +1,0 @@
-people/hui-ling-hsu.md
-people/elaine-liu.md
-people/chih-cheng-wang.md
-people/dr-c-f-huang.md

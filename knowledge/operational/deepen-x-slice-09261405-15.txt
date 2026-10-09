@@ -1,4 +1,0 @@
-people/c-y-liu.md
-people/c-c-chao.md
-organizations/taiwanese-graduate-and-professional-student-association.md
-people/emily-hsieh.md

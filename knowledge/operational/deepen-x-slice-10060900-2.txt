@@ -1,4 +1,0 @@
-people/liang-shing-fan.md
-people/sandy-yen.md
-people/john-liu.md
-people/shih-chen-hsu.md

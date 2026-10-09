@@ -1,4 +1,0 @@
-people/david-chiu.md
-people/jackson-kuo.md
-organizations/taiwanese-student-association-all-university.md
-people/i-ling-chen.md

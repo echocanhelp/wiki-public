@@ -1,4 +1,0 @@
-people/prof-a-lien-lu-chang.md
-people/prof-li-hui-tsai.md
-people/anna-lee.md
-people/marlon-chen.md

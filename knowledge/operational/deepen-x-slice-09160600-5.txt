@@ -1,4 +1,0 @@
-people/chi-yin-chen.md
-people/hui-ting-yang.md
-people/dr-bernard-tsai.md
-people/wang-yao-ting.md

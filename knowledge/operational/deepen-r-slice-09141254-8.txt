@@ -1,2 +1,0 @@
-people/joe-hu.md
-organizations/taiwan-center.md

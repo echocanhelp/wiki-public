@@ -1,4 +1,0 @@
-people/dr-jeffrey-tsai.md
-people/min-kao.md
-people/thomas-chen.md
-people/sin-i-hsiao.md

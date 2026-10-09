@@ -1,4 +1,0 @@
-people/kim-wang-neal.md
-people/cheng-yung-kuo.md
-people/prof-y-c-jeng.md
-people/christopher-lin.md

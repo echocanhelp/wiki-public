@@ -1,4 +1,0 @@
-people/rosalyne-formosa-shieh.md
-people/dr-james-tsai.md
-organizations/tah-org-6c8cccca6f.md
-organizations/brown-risd-taiwanese-graduate-student-association.md

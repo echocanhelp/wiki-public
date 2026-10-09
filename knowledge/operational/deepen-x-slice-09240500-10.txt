@@ -1,4 +1,0 @@
-organizations/formosa-foundation.md
-people/andrew-y-lee.md
-organizations/taiwanese-association-of-south-florida.md
-people/echo-lin.md

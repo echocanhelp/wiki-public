@@ -1,4 +1,0 @@
-people/donald-tsai.md
-people/l-f-tang.md
-people/alan-su.md
-people/doris-lu-anderson.md

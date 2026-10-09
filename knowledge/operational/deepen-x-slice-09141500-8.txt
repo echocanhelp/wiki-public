@@ -1,4 +1,0 @@
-people/ching-wen-hsiao.md
-people/komi-chen.md
-people/prof-shirley-cheng-tsai.md
-people/ming-franz.md

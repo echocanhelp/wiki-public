@@ -1,4 +1,0 @@
-people/yu-hui-chang.md
-people/chiun-teng-cheng.md
-people/po-wei-lai.md
-people/alice-chen.md

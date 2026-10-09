@@ -1,4 +1,0 @@
-organizations/yes-plaza.md
-organizations/rowland-heights-chinese-association.md
-organizations/stc-rowland-legacy.md
-people/pan-yi-ling.md

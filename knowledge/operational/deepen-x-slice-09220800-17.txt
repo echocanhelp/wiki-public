@@ -1,4 +1,0 @@
-people/prof-chao-yuan-huang.md
-organizations/taiwanese-graduate-student-association-at-uc-davis.md
-people/dr-soo-chen-cheng.md
-people/jeffrey-j-tsay.md

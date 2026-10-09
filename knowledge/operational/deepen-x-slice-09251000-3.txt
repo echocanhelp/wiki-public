@@ -1,4 +1,0 @@
-people/chin-hsin-jason-liu.md
-people/dr-hui-ling-chen.md
-people/sim-ti-lim.md
-organizations/the-chuan-lyu-foundation.md

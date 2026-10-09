@@ -1,4 +1,0 @@
-people/helen-loo.md
-people/mei-lu.md
-people/michael-chong.md
-people/tsai-ying-ju.md

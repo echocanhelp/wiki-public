@@ -1,4 +1,0 @@
-organizations/taiwanese-american-science-and-technology-association-tasta.md
-people/dr-hong-chien-lin.md
-people/jien-hua-charles-chuang.md
-people/yung-lo-lin.md

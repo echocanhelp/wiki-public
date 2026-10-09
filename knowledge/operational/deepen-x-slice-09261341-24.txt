@@ -1,4 +1,0 @@
-people/fenglien-lee.md
-people/dr-cheng-hung-yeh.md
-people/tun-hou-lee.md
-people/bernard-huang.md

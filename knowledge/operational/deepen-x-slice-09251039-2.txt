@@ -1,4 +1,0 @@
-organizations/dartmouth-taiwanese-student-association.md
-people/cleo-chiang.md
-people/h-w-wu.md
-people/tien-chen-lin.md

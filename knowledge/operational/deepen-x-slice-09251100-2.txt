@@ -1,4 +1,0 @@
-people/freeman-lin.md
-people/charles-ke.md
-people/mingkong-chen.md
-people/connie-lu.md

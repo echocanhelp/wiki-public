@@ -1,4 +1,0 @@
-people/william-yeh.md
-people/haluko-lin.md
-people/tiencheng-arthur-chang.md
-people/dr-jen-tzaw-huang.md

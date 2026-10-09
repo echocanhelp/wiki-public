@@ -1,4 +1,0 @@
-people/john-wuo.md
-people/howard-w-moore.md
-people/yue-juan-joanne-guo.md
-people/h-y-chencheng.md

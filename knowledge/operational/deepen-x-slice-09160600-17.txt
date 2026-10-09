@@ -1,4 +1,0 @@
-people/jessie-chang.md
-people/leslie-ho.md
-organizations/taiwan-hotel-motel-association-of-southern-california.md
-organizations/taiwanese-american-ma-ma-class-dc.md

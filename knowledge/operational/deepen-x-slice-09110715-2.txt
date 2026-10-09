@@ -1,4 +1,0 @@
-people/prof-mingchi-wu.md
-people/prof-young-chang-chen.md
-people/peggy-kuo.md
-people/min-yen-chien.md

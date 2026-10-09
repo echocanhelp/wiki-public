@@ -1,4 +1,0 @@
-people/jane-marie-chen.md
-people/j-c-lu.md
-people/castor-yu.md
-people/c-y-chang.md

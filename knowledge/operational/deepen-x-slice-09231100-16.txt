@@ -1,4 +1,0 @@
-organizations/pine-green-institutes.md
-people/peirong-lo.md
-people/kuei-i-wu.md
-people/rev-h-d-chen.md

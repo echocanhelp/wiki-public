@@ -1,4 +1,0 @@
-people/prof-tien-cheng-chang.md
-people/kenneth-chang.md
-people/jen-chan.md
-people/chang-yong-tsao.md

@@ -1,4 +1,0 @@
-people/c-k-lee.md
-people/zheng-quansheng.md
-people/rev-chung-hsin-cho.md
-people/dr-s-t-cheng.md

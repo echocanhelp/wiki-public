@@ -1,4 +1,0 @@
-people/li-ying-chang.md
-people/richard-chen.md
-people/harrison-lin.md
-people/prof-yang-en-cheng.md

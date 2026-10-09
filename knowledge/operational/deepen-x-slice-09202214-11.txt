@@ -1,4 +1,0 @@
-organizations/greater-washington-taiwan-culture-center.md
-people/jackson-kuo.md
-people/chuan-kwang-yang.md
-people/peter-su.md

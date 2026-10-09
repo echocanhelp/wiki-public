@@ -1,4 +1,0 @@
-people/tiencheng-arthur-chang.md
-people/lorenzo-chun-han-chang.md
-people/dr-wen-y-chen.md
-people/andrew-y-lee.md

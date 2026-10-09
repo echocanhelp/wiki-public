@@ -1,4 +1,0 @@
-people/timothy-s-wu.md
-people/ralph-su.md
-people/dr-paul-chen.md
-people/prof-chimei-m-lee.md

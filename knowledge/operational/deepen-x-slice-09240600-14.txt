@@ -1,4 +1,0 @@
-people/mei-xinyi.md
-people/dr-tehming-liang.md
-organizations/taiwan-elite-alliance.md
-people/c-l-yin.md

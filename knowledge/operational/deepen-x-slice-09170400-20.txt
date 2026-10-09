@@ -1,4 +1,0 @@
-people/kang-lu-wang.md
-people/fuh-sheng-shieu.md
-people/jolan-hsieh.md
-people/herbert-t-chen.md

@@ -1,4 +1,0 @@
-people/ting-kuei-tsay.md
-people/kevin-wu.md
-organizations/taiwanese-american-pen-club.md
-people/ho-rui-hsu.md

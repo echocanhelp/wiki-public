@@ -1,4 +1,0 @@
-people/yang-ming-ren.md
-people/janet-hsieh.md
-people/dr-fu-yuan-hsu.md
-organizations/the-chuan-lyu-foundation.md

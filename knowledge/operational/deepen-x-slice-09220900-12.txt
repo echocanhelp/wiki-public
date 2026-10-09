@@ -1,4 +1,0 @@
-people/min-tenmilton-lee.md
-people/thomas-tzu-shen-lin.md
-people/raymond-kuo.md
-people/rev-c-y-huang.md

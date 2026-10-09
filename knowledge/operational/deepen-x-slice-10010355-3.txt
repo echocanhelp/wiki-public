@@ -1,4 +1,0 @@
-people/li-shun-lu.md
-people/tony-chen.md
-people/long-lee.md
-people/c-y-chen.md

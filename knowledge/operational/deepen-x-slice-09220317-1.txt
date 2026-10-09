@@ -1,4 +1,0 @@
-people/dr-tan-sun-mark-chen.md
-people/coen-blaauw.md
-people/powen-wang.md
-people/ho-rui-hsu.md

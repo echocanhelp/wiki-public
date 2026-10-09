@@ -1,4 +1,0 @@
-people/dr-tehming-liang.md
-organizations/taiwanese-american-science-and-technology-association-tasta.md
-people/ted-anderson.md
-people/dr-hong-chien-lin.md

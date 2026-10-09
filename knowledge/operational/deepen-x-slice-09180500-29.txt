@@ -1,4 +1,0 @@
-people/eric-wu.md
-people/michael-luo.md
-people/h-y-chencheng.md
-people/cheng-shen-fang.md

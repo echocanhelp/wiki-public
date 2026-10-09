@@ -1,4 +1,0 @@
-people/prof-f-s-shih.md
-people/min-chu-wang-chen.md
-people/loring-wuliang-tu.md
-organizations/columbia-university-taiwanese-graduate-student-association.md

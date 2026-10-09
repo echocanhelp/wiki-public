@@ -1,4 +1,0 @@
-people/dennis-wang.md
-people/lin-chang-chien-chu.md
-people/peter-kuo.md
-people/dr-andy-hwang.md

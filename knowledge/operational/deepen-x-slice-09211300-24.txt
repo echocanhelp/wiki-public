@@ -1,4 +1,0 @@
-people/katy-tang.md
-people/amelia-wu.md
-people/w-c-jen.md
-people/r-w-chen.md

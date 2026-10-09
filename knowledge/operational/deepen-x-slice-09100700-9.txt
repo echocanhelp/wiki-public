@@ -1,4 +1,0 @@
-people/kevin-shue.md
-people/gary-hong.md
-people/ming-liang-lee.md
-people/dr-john-hsu.md

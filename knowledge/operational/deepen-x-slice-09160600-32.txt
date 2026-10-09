@@ -1,4 +1,0 @@
-people/kenneth-kuo.md
-people/prof-shung-wu-lee.md
-people/dr-s-f-sheuh.md
-people/dr-g-c-huang.md

@@ -1,4 +1,0 @@
-people/m-l-tong.md
-organizations/emory-tsa.md
-people/s-s-wu.md
-people/rockwell-hsu.md

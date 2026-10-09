@@ -1,4 +1,0 @@
-people/dr-mike-kuo.md
-people/peter-lin.md
-people/kuan-cheng-lu.md
-people/dr-fu-tong-hsu.md

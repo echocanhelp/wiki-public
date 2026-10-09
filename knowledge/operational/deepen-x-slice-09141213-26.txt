@@ -1,4 +1,0 @@
-people/prof-shih-i-chu.md
-people/prof-tien-sung-tom-lin.md
-people/dr-y-c-cheng.md
-organizations/overseas-taiwanese-for-democracy.md

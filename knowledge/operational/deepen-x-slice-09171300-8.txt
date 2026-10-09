@@ -1,4 +1,0 @@
-people/amelia-wu.md
-organizations/uf-taiwanese-student-association.md
-organizations/distinguished-citizens-society-international-southern-california.md
-people/kenneth-c-liao.md

@@ -1,4 +1,0 @@
-people/dr-jim-lin.md
-people/zhang-aihui.md
-people/shui-lian-fang.md
-people/dr-shug-hong-young.md

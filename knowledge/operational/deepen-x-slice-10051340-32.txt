@@ -1,4 +1,0 @@
-people/kjell-n-lindgren.md
-people/anna-lee.md
-people/fang-yi-sheu.md
-people/tiffany-ma.md

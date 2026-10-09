@@ -1,4 +1,0 @@
-people/ming-shing-lee.md
-people/mike-lin.md
-people/nien-tzu-kuo.md
-people/doris-t-chang.md

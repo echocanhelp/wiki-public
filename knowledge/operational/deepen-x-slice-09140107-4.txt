@@ -1,4 +1,0 @@
-people/sam-chang.md
-people/ingrid-chun.md
-people/he-sumei.md
-people/rev-james-i-cheng.md

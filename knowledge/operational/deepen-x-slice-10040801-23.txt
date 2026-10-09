@@ -1,4 +1,0 @@
-people/j-w-huang-lee.md
-people/chuck-lee.md
-organizations/sun-ten-museum.md
-people/michelle-kuo.md

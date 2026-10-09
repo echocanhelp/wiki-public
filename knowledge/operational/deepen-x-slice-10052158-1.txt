@@ -1,4 +1,0 @@
-people/wang-gstpc.md
-organizations/wellbrook-foundation.md
-organizations/brown-risd-taiwanese-graduate-student-association.md
-organizations/taiwanese-association-of-america-south-jersey-chapter.md

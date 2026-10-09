@@ -1,4 +1,0 @@
-people/dr-chung-chiu.md
-people/tao-yu.md
-people/chi-yi-chen.md
-people/ming-franz.md

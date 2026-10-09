@@ -1,4 +1,0 @@
-people/john-chang.md
-people/s-y-huang.md
-people/john-chin-jung-cheng.md
-organizations/chicago-taiwanese-architecture-institute-ctai.md

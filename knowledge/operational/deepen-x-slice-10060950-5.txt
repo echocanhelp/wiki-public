@@ -1,4 +1,0 @@
-people/elaine-liu.md
-people/b-michael-yeun.md
-people/fong-jen-lin.md
-people/nicholas-c-huang.md

@@ -1,4 +1,0 @@
-people/raymond-wu.md
-people/elena-ling.md
-people/lisa-wang.md
-people/kang-lu-wang.md

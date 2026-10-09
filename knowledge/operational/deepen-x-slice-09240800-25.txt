@@ -1,4 +1,0 @@
-people/joanna-yan.md
-people/raymond-t-chen.md
-people/prof-wentai-liu.md
-people/helen-allen.md

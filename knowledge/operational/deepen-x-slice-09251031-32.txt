@@ -1,4 +1,0 @@
-people/dr-andre-chen.md
-people/chue-jen-huang.md
-people/yu-chieh-jack-wang.md
-people/david-hsieh.md

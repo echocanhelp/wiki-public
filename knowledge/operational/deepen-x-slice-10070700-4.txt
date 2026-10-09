@@ -1,4 +1,0 @@
-people/andrew-chen.md
-people/chris-cn-chang.md
-people/george-ho.md
-people/miriam-liu-wu.md

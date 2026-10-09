@@ -1,4 +1,0 @@
-people/chiao-jung-wang.md
-people/julia-huang.md
-people/j-h-liang.md
-people/ching-chih-chen.md

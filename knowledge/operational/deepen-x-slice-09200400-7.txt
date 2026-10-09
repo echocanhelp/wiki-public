@@ -1,4 +1,0 @@
-people/jennie-wang.md
-people/shu-ting-yao.md
-people/sheng-wang.md
-people/bao-tyan-wang.md

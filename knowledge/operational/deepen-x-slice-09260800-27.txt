@@ -1,4 +1,0 @@
-people/helen-allen.md
-people/paul-b-hshieh.md
-people/francie-lin.md
-people/margaret-liu.md

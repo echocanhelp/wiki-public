@@ -1,4 +1,0 @@
-people/prof-cheng-few-lee.md
-people/ching-jang-yao.md
-people/wan-lung-chuang.md
-people/gloria-chien.md

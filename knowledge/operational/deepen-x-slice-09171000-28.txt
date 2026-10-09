@@ -1,4 +1,0 @@
-people/prof-pai-hsiang-chou.md
-people/debbie-lee.md
-organizations/taiwanese-cultural-and-sports-association.md
-organizations/taiwanese-american-professionals-orange-county.md

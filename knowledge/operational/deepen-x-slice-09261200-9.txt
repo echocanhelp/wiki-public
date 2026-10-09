@@ -1,4 +1,0 @@
-people/prof-ting-chao-chou.md
-people/prof-s-felix-wu.md
-people/charles-hsiao.md
-people/masao-s-yu.md

@@ -1,4 +1,0 @@
-organizations/taiwanese-american-science-and-technology-association-tasta.md
-people/kailin-gow.md
-people/g-n-liao.md
-people/carole-huang.md

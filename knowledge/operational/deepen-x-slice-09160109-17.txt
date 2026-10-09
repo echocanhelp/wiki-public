@@ -1,4 +1,0 @@
-people/dr-alex-yang.md
-people/ahhee-hsu.md
-people/melvin-chen.md
-people/melinda-tang.md

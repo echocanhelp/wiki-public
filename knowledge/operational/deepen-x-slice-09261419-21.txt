@@ -1,4 +1,0 @@
-people/jen-kao.md
-people/m-j-wang.md
-people/alexander-macdonald.md
-people/ming-liang-chi.md

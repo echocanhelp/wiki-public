@@ -1,4 +1,0 @@
-people/morisan-lu.md
-people/sandra-wright-shen.md
-people/stephanie-chuang.md
-organizations/kaohsiung-hotel-association.md

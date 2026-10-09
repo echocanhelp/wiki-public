@@ -1,4 +1,0 @@
-people/lily-chiang.md
-people/william-shu.md
-people/michael-luo.md
-people/winston-wen.md

@@ -1,4 +1,0 @@
-people/powen-wang.md
-organizations/neo-art-league.md
-people/coen-blaauw.md
-people/chen-ho-wu.md

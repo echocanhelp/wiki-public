@@ -1,4 +1,0 @@
-people/dr-christopher-shih.md
-people/janet-allen.md
-people/dennis-lin.md
-people/daniel-lu.md

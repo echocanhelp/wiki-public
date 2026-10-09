@@ -1,4 +1,0 @@
-people/wen-jer-chen.md
-people/t-k-lin.md
-people/j-z-lee.md
-organizations/taiwanese-american-cpa-association-tacpa.md

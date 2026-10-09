@@ -1,4 +1,0 @@
-people/june-lin.md
-people/prof-david-liu.md
-people/chi-yuan-chen.md
-people/cheng-hou-lee.md

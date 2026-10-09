@@ -1,4 +1,0 @@
-people/donald-tsai.md
-organizations/taiwan-formosa.md
-people/chu-chi-chen.md
-people/joseph-yang.md

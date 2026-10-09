@@ -1,4 +1,0 @@
-people/evonne-hsu.md
-people/paul-kuo.md
-people/jennie-wang.md
-people/dr-pofu-hsieh.md

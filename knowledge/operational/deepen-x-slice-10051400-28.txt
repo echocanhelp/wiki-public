@@ -1,4 +1,0 @@
-organizations/chicago-taiwanese-architecture-institute-ctai.md
-people/yung-tsai-yen.md
-people/rev-sheng-to-shih.md
-people/dr-joseph-kho.md

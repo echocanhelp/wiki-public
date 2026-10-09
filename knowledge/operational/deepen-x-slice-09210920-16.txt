@@ -1,4 +1,0 @@
-people/teresa-dreyfuss.md
-people/hanna-liao.md
-people/eric-wu.md
-people/matthew-lin.md

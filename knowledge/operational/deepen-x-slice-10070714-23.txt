@@ -1,4 +1,0 @@
-people/joseph-yang.md
-people/t-s-hsu.md
-people/yih-fu-shiau.md
-people/shan-tai-yeh.md

@@ -1,4 +1,0 @@
-people/christina-lai.md
-organizations/houston-taiwanese-golden-club.md
-people/echo-lew.md
-people/gordon-s-w-chin.md

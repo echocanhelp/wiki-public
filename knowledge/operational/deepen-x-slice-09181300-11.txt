@@ -1,4 +1,0 @@
-organizations/hakka-foundation.md
-people/samuel-wu.md
-people/chi-shih-huang.md
-organizations/austin-taiwanese-association.md

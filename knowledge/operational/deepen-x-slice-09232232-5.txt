@@ -1,4 +1,0 @@
-people/steven-fan.md
-people/melody-ko.md
-people/pi-pai-wang.md
-people/tze-ming-benson-chen.md

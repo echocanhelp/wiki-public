@@ -1,4 +1,0 @@
-people/jeffrey-lee.md
-people/gordon-s-w-chin.md
-people/dr-khang-loon-ho.md
-organizations/houston-taiwanese-golden-club.md

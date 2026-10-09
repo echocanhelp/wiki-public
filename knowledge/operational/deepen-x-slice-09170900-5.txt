@@ -1,4 +1,0 @@
-people/dr-hwalin-lee.md
-people/charles-chiang.md
-people/coen-blaauw.md
-people/june-wang.md

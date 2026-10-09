@@ -1,4 +1,0 @@
-people/nobu-lu.md
-people/dr-wylie-i-lee.md
-people/alice-chen.md
-people/chia-ling-chien.md

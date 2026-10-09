@@ -1,4 +1,0 @@
-people/bob-cheng.md
-people/che-yen-chen.md
-people/yvonne-cheng.md
-people/prof-trong-rong-tsai.md

@@ -1,4 +1,0 @@
-people/james-yang.md
-people/caroline-chien.md
-people/yi-hsin-lin.md
-people/dr-or-hsieh.md

@@ -1,4 +1,0 @@
-people/reng-lang-lin.md
-people/yuan-tsong-chen.md
-people/ming-yen-hsu.md
-people/dr-shin-s-chen.md

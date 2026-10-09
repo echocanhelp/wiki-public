@@ -1,4 +1,0 @@
-people/gloria-chien.md
-people/wang-rongyi.md
-people/irwin-chu.md
-people/chia-yi-tseng.md

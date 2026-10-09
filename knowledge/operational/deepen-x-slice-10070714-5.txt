@@ -1,4 +1,0 @@
-people/dr-jenta-shen.md
-people/thomas-c-t-chiu.md
-people/dr-jen-tse-cheng.md
-people/yensan-simon-wang.md

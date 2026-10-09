@@ -1,4 +1,0 @@
-people/dr-kung-ming-jan.md
-people/amelia-wu.md
-people/rui-feng-hsu.md
-people/h-t-chen.md

@@ -1,4 +1,0 @@
-people/prof-w-k-young.md
-people/chiu-ling-lin.md
-people/m-y-huang.md
-organizations/taiwanese-american-association-of-arizona.md

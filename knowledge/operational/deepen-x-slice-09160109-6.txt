@@ -1,4 +1,0 @@
-people/prof-shih-i-chu.md
-people/prof-m-s-wang.md
-people/leon-chang.md
-organizations/harvard-gsas-taiwanese-roc-student-club.md

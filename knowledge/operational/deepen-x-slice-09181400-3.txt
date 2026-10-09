@@ -1,4 +1,0 @@
-organizations/taiwanese-american-arts-association.md
-organizations/east-bay-taiwanese-association.md
-people/agnes-wu.md
-people/c-y-tsai.md

@@ -1,4 +1,0 @@
-organizations/cord-blood-bank.md
-people/c-k-lo.md
-people/f-m-huang.md
-people/l-j-ho.md

@@ -1,4 +1,0 @@
-people/dr-kuo-shih-yeh.md
-organizations/greater-los-angeles-hotel-motel-association.md
-people/dr-min-hsiung-liang.md
-people/k-c-du.md

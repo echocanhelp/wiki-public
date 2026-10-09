@@ -1,4 +1,0 @@
-people/kailin-gow.md
-organizations/taiwanese-american-student-association-at-uc-berkeley.md
-organizations/taiwanese-american-student-association.md
-people/john-hsieh.md

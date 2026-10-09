@@ -1,4 +1,0 @@
-people/dr-tehming-liang.md
-people/kris-hsu.md
-people/julius-shu-05.md
-people/dr-jeffrey-tsai.md

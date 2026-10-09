@@ -1,4 +1,0 @@
-organizations/new-world-art-center.md
-people/ching-ih-wang.md
-people/h-y-chen.md
-people/cheng-hou-lee.md

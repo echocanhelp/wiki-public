@@ -1,4 +1,0 @@
-people/jason-chung.md
-people/benjamin-wu.md
-people/brian-lee.md
-people/l-n-chang.md

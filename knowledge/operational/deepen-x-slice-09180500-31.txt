@@ -1,4 +1,0 @@
-people/hansom-chen.md
-people/eric-lee.md
-people/sandy-yen.md
-people/chun-san-lee.md

@@ -1,4 +1,0 @@
-people/gloria-chuang.md
-organizations/taiwanese-student-association-for-public-affairs.md
-people/prof-chien-te-chen.md
-people/joel-fan.md

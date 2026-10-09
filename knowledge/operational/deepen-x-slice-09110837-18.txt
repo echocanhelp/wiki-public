@@ -1,4 +1,0 @@
-people/wang-rongyi.md
-people/jolie-lin.md
-people/joseph-teng.md
-people/prof-wen-hwa-lee.md

@@ -1,3 +1,0 @@
-people/ju-cheng-lee.md
-people/wenlan-chia.md
-organizations/ucla-taiwanese-american-union.md

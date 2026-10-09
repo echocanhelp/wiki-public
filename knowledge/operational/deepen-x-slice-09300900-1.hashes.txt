@@ -1,8 +1,0 @@
-# deepen-x slice 09300900-1 — hits-hash (audit close 2026-10-05, fresh grep works/ + articles/)
-
-people/eric-yang.md :: 楊一哲|Eric Yang :: hits=3 (1156-eric-yang…, nyc-cravings food-truck [HOLDed other-person], index) :: hits-hash=025afa29ef70 (unchanged)
-people/yuan-chuan-lee.md :: 李遠川|Yuan Chuan Lee :: hits=2 (598-yuan-chuan-lee…, index) :: hits-hash=e4b71fcd1a29 (unchanged)
-people/tah-p-2cc9076139.md :: 陳美津 :: hits=5 (whos805, mystories418, ourjourneys-138, TJJ-228-report, index) :: hits-hash=a85bf48ccdf2 (unchanged)
-people/dr-jia-huey-lin-yu.md :: 林佳惠博士|Dr. Jia-Huey Lin Yu :: hits=2 (whos-who-152…, index) :: hits-hash=321abdb1b199 (unchanged)
-
-All 4 verified-saturated; no new corpus material; 0 deepened, 4 skipped, 0 corpus-linked.

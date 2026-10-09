@@ -1,4 +1,0 @@
-people/jasmin-lin.md
-people/shida-kuo.md
-people/dou-hwei-su-liu.md
-people/karen-shee.md

@@ -1,4 +1,0 @@
-people/victor-liu.md
-people/pauline-huang.md
-people/julia-chenzu-tsai.md
-people/walter-h-shiau.md

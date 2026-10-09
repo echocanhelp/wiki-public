@@ -1,4 +1,0 @@
-people/eric-lee.md
-people/paul-porwen-hung.md
-people/dr-richard-r-hwang.md
-people/shi-lung-lin.md

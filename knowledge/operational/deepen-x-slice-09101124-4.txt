@@ -1,4 +1,0 @@
-people/dr-tsing-fang-chen.md
-people/cho-liang-lin.md
-people/prof-sze-ya-yeh.md
-people/ching-jang-yao.md

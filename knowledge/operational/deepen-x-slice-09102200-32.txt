@@ -1,4 +1,0 @@
-people/prof-shi-kuei-wu.md
-people/suhua-low.md
-people/cai-weiren.md
-people/prof-carol-ou.md

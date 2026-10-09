@@ -1,4 +1,0 @@
-people/danny-sheu.md
-people/frances-y-wang.md
-people/tun-hou-lee.md
-people/jyh-fa-kuo.md
