@@ -93,3 +93,5 @@ The one title-authored column preserved in the harvest — *台灣、烏克蘭�
 - 2016-12-05 — TJJ English Pages 目錄頁收錄其 National Interest 轉載評論「Donald Trump Has Disrupted Years of Broken Taiwan Policy」。（[[articles/taiwanjustice-net/2024/20240224194137_root_b1e144ecc18e460f|TJJ, 2013-07-30 快照]]）。
 
 <!-- TJJ-A10040600-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-3 article b1e144ecc18e460f (English Pages 分類隨機頁, 2024-02-24快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607006-b: verified 2026-10-09 — wave-2 link+deepen re-check of article b1e144ecc18e460f (English Pages 分類隨機頁 p1, 2024-02-24快照) read fresh this attempt: 「Donald Trump Has Disrupted Years of Broken Taiwan Policy ◎John J. Tkacik(譚慎格)/The National Interest 2016-12-05」條目確認見於正文, subject link 為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
