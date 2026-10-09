@@ -104,3 +104,5 @@ last_reviewed: 2026-09-24
 <!-- TJJ-A10060800-9: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-9 article 8216e7ca508266e9 (蕭美琴父親蕭清芬牧師在美過世標籤頁, 2021-11-27頭條, 2022-05-21快照): 蕭清芬訃聞享壽86歲 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070900-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-2: article 9d523cc5290c997b (我的女兒美琴, 蕭清芬署名, 2020-07-26刊, 2025-03-24快照): 本篇署名作者即本人 real; article 28b0cc4e52acece2 (2021北美洲聯合228紀念報導, 2021-03-03刊, 2026-02-10快照): 蕭清芬牧師開幕祝禱+默哀+父女同台 re-checked vs 正文, real; all subject links real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607007-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 2a3226a1b19c5a46 (中央社記者蕭美琴副手專稿轉載, 2023-11-20刊, 2023-12-08快照): subject link re-checked vs 正文 this attempt — 「蕭美琴的父親蕭清芬從事神學教育，從美國返台後擔任台南神學院院長」見於正文, real, no wrong/spurious links; dated fact w/ article wikilink (2023-11-20) already in From the record — saturated, no new material. -->

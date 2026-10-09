@@ -179,3 +179,5 @@ Comparative frame from [[sources/zh-wikipedia-lai-ching-te||zh.wp]]; movement-re
 <!-- TJJ-A10070700-20: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-20 article 4c65a9af (520就職典禮報導, 中央社記者, 2024-05-19 刊／2024-06-13 快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100606005-c: verified 2026-10-09 — wave-2 link+deepen re-check of article 1fbc7a8aff9cd26e (藍綠台北衝選情, 自由時報 2019-12-22): subject link re-checked vs 正文 this attempt (率車隊繞行雙北、民生社區直播同場吳怡農/許淑華), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607007-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 2a3226a1b19c5a46 (中央社記者蕭美琴副手專稿轉載, 2023-11-20刊, 2023-12-08快照): subject link re-checked vs 正文 this attempt — 「賴清德代表民進黨角逐2024總統大選」並確定蕭美琴為副手搭檔之記述確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink (2023-11-20) already in From the record — saturated, no new material. -->

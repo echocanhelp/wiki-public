@@ -387,3 +387,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A100607006-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 20240425083432_root_99aaa4abcb78ff6d (台美人台加人分類存檔 p2, 2024-04-25快照): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607007-b: verified 2026-10-09 — wave-2 link+deepen re-check of article fa11a6eb346678c2 (大洛杉磯台灣會館標籤頁, 2021-01-17快照): subject link re-checked vs 正文 this attempt — 「大洛杉磯台灣會館等台美人團體和領袖祝賀蕭美琴履任台灣駐美大使」條目見於清單, real, no wrong/spurious links; dated fact w/ article wikilink (2020-08-08) already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607007-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 2a3226a1b19c5a46 (中央社記者蕭美琴副手專稿轉載, 2023-11-20刊, 2023-12-08快照): subject link re-checked vs 正文 this attempt — 通篇主角蕭美琴（獲賴清德選定為副手搭檔、翻轉花蓮選區、駐美代表黃金時刻、彭博2021全球最重要8人之一評選記述均見於正文）, real, no wrong/spurious links; dated fact w/ article wikilink (2023-11-20) already in From the record — saturated, no new material. -->
