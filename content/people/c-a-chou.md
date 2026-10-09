@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # C. A. Chou 哲 安 (周明安博士)
 
@@ -48,6 +48,8 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070717-15 (2026-10-09): verified-saturated — fresh five-dir grep (周明安 / C. A. Chou / 周明(哲)安 / 周哲安 / 明安) returns only the three absorbed records (ourjourneys81, ourjourneys65, #934) plus index/sources hubs; the 明安 substring hits in taiwanjustice-net news prose are unrelated text, not C.A. Chou. No new absorbable facts. -->
 
 ## Role in the Community — corpus re-check
 - Re-verified 2026-09-25 (deepen-x slice 09250400-25): fresh grep for 周明安 / C. A. Chou still returns only the three absorbed records ([[works/taiwaneseamericanhistory-org/ourjourneys81|ourjourneys81]], [[works/taiwaneseamericanhistory-org/ourjourneys65|ourjourneys65]], [[works/taiwaneseamericanhistory-org/934-c-a-chou-e5-91-a8-e6-98-8e-e5-93-b2-e5-ae-89-201604|#934]]) plus the works index — corpus-saturated, nothing new.
