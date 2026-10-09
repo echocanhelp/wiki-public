@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Fong Chung Fan (樊豐忠)
 
@@ -52,3 +52,5 @@ Corpus re-check (deepen-x slice 09260900-31, 2026-10-01): fresh ZH+EN grep of co
 Corpus re-check (deepen-x slice 10051340-10, 2026-10-06): fresh ZH+EN+surname grep of works/articles/sources/events/topics returned only the own records / passages already wikilinked above (ourjourneys228, whos-fong-chung-fan, taiwanjustice report) plus works index; surname hits for 樊 are distinct persons (John Fan 樊立勳 #1269, 樊豐美 in ourjourneys27) — verified saturated, SKIP, no conflicts.
 
 Corpus re-check (deepen-x slice 10070018-1, 2026-10-08): fresh ZH+EN grep of works/articles/sources/events/topics returned only the own records / passages already wikilinked above plus the works index — verified saturated, SKIP, no conflicts.
+
+Corpus re-check (deepen-x slice 10080600-7, 2026-10-09): fresh ZH+EN+surname grep of works/articles/sources/events/topics returned the same saturated hit set — own TAH record whos-fong-chung-fan, the 昆布勞 memoir ourjourneys228, the taiwanjustice 後援會 report, works index, plus distinct 樊-surname persons (樊豐美 ourjourneys27/304/whos-who-56, 樊立勳 whoswho1269, 樊意琪 Dr. Nancy Fan-Paul whos-who-2041 — daughter 樊意琪 is recorded on her own page, no joint material). The 2024 taiwanjustice hit is a false positive ("FONG" inside the wayback archive_digest string, not content). Verified saturated, SKIP, no conflicts.
