@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Theodore Ted Wing (溫庭宇)
 
@@ -31,7 +31,7 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 
 - Profiled in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1375|1375. Theodore (Ted) Wing 溫庭宇]] (2016-11-05, band B). Corpus holds the bibliographic record only; no memoir/narrative corpus material beyond the TAH profile.
-- SKIP (re-verified 2026-09-25/26, slices 09232337-21, 09251054-20): fresh ZH+EN grep found only this record and index co-listings; nothing absorbable.
+- SKIP (re-verified 2026-09-25/26, 2026-10-09, slices 09232337-21, 09251054-20, 10070714-28): fresh ZH+EN grep (Ted Wing / Theodore Wing / 溫庭宇 / Gradalis) found only this record and index co-listings; nothing absorbable.
 
 ## Family
 
