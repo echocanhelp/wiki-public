@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Emma Chen (陳怡邁)
 
@@ -61,3 +61,4 @@ Accomplishment
 <!-- deepen-x slice 09260900-1 (2026-09-30): re-verified — fresh grep returns identical set: award + #216 + #2179 TAH records, index, and the context-free "Emma Chen STT" credit line in Pew statement (already noted, not absorbed). Verified saturated; SKIP. -->
 <!-- deepen-x slice 10051200-21 re-grep 2026-10-06: fresh ZH+EN grep (Emma Chen / 陳怡邁 / 怡邁) across works+articles+sources+events+topics returns the identical set — award-emma-chen, 216, whos-who-2179, sources hub, index, plus the context-free "Emma Chen STT" credit line in Pew statement (noted, not absorbed). Verified-saturated; SKIP. -->
 <!-- deepen-x slice 10062248-2 re-grep 2026-10-08: fresh ZH+EN grep (Emma Chen / 陳怡邁 / 怡邁) across works+articles+sources+events+topics returns the identical hit set — award-emma-chen (2011 award record), 216, whos-who-2179 (both bibliographic B-band records, full text in vault), works index rows, sources hub, and the context-free "Emma Chen STT" credit line in Pew statement (unverifiable contributor credit, not absorbed). No memoir material. Verified-saturated; SKIP. -->
+<!-- deepen-x slice 10080700-17 re-grep 2026-10-09: fresh ZH+EN+surname grep (Emma Chen / 陳怡邁 / 怡邁 / 陳) across works+articles+sources+events+topics returns the identical hit set — award-emma-chen, 216, whos-who-2179, works index rows, sources hub, and the context-free "Emma Chen STT" credit line in Pew statement (noted, not absorbed). No memoir material. Verified-saturated; SKIP. -->
