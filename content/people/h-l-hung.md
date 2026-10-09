@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # H. L. Hung (洪榮隆)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09260900-10 re-grep 2026-10-01: fresh ZH+EN grep of works/+articles/ — hit set unchanged (own records + already-linked/absorbed pages + works/index rollup only); no new community material, no conflicts to hold. Verified-saturated; SKIP content-deepen. -->
 <!-- deepen-x slice 10051340-5 re-verify 2026-10-06: fresh ZH+EN+partial-name grep (works/articles/sources/events/topics) — hit set identical to prior absorptions (own TAH records + already-linked work pages + index); partial-name hits resolved to different people. Verified-saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 10062334-5 re-verify 2026-10-08: fresh ZH+EN+partial-name grep (works/articles/sources/events/topics) — hit set identical to prior absorptions (ourjourneys75 FAHR roster + whoswho1239 + sources rollup). Partial-name 榮隆 hit is 陳榮隆 in a DPP 廉政委員 list — different person. Verified-saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 10080500-19 re-verify 2026-10-09: fresh ZH+EN+partial-name grep (works/articles/sources/events/topics) — hit set unchanged (ourjourneys75 FAHR 2014 roster + whoswho1239 + sources/index rollups); partial-name 榮隆 hits resolve to 陳榮隆 (DPP list) and other Hungs — different people. Verified-saturated; SKIP-no-new-facts. -->
