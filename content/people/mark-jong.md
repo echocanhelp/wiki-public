@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Mark Jong (鍾茂萃)
 
@@ -66,3 +66,5 @@ Corpus re-check 2026-09-26 (deepen-x slice 09251000-27): fresh grep of works/+ar
 Corpus re-check 2026-09-27 (deepen-x slice 09260600-15): fresh grep of works/+articles/ (鍾茂萃 / Mark Jong) — hit set unchanged (ourjourneys296, our-journeys-351, #740 + works index), all already wikilinked with facts absorbed. SKIP-deepen; verified saturated.
 
 > Re-verify 2026-10-08 (deepen-x slice 10062334-9): fresh ZH+EN grep (鍾茂萃/Mark Jong, incl. family names 廖美滿/鍾約儀/鍾啟台) of works/ + articles/ + sources/ + events/ + topics/ — hit set unchanged (ourjourneys296, our-journeys-351, #740, sources index), all already wikilinked with facts absorbed. Verified saturated; SKIP-with-nothing-absorbable.
+
+> Re-verify 2026-10-09 (deepen-x slice 10080600-15): fresh grep 鍾茂萃/Mark Jong/茂萃 across works/ + articles/ + sources/ + events/ + topics/ — hit set unchanged (ourjourneys296, our-journeys-351, #740, works index, sources index). Context read fresh: ourjourneys296 confirms 1990 Emporia KS host "Chung, M.T. 鍾茂萃" (already absorbed); our-journeys-351 camp roster lists him for 1990 only. No new material. Verified saturated; nothing absorbable.
