@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # C. H. Kuo (郭忠豪)
 
@@ -46,6 +46,7 @@ Assistant Professor
 - Re-verified 2026-10-01 (deepen-x slice 09261100-28): fresh ZH+EN full-corpus grep — hit set unchanged (mystories550, mystories540, publications1084, own TAH #1189 record, index); nothing new absorbable.
 - Re-verified 2026-10-06 (deepen-x slice 10051200-6): fresh ZH+EN grep of works/articles/sources/events/topics returns the identical hit set — essays [[works/taiwaneseamericanhistory-org/mystories550|#550]] / [[works/taiwaneseamericanhistory-org/mystories540|#540]], co-authored book [[works/taiwaneseamericanhistory-org/publications1084|#1084]], own TAH record [[works/taiwaneseamericanhistory-org/whoswho1189|#1189]], plus index listings. No third-party memoir names him — verified saturated, nothing new absorbable.
 - Re-verified 2026-10-08 (deepen-x slice 10062218-2): fresh ZH+EN grep of works/articles/sources/events/topics returns the identical hit set (mystories550, mystories540, publications1084, whoswho1189, index/source listings). No third-party memoir names him — verified saturated, nothing new absorbable.
+- Re-verified 2026-10-09 (deepen-x slice 10080500-27): fresh ZH+EN+surname grep (郭忠豪 / C. H. Kuo / 忠豪) across all corpus dirs returns the identical hit set (mystories550, mystories540, publications1084, whoswho1189, index, source listing); wife 曾齡儀 grep finds no corpus hits. Verified saturated, nothing new absorbable.
 
 ## Sources
 - [TAH #1189 encyclopedia: 1189. C. H. Kuo 郭忠豪 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1189/)
