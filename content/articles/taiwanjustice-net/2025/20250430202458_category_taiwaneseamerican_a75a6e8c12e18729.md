@@ -279,3 +279,5 @@ Page 1 of 158
 
 （TJJ-A09260400-21 複核 2026-09-26：三條 subject link（黃邦雄、鄭麗伶、李應元博士）經正文再驗證均為真實提及——黃邦雄醫師 HPV 疫苗講堂條目／NATPA 鄭麗伶會長敬弔李應元弔文條目，無錯鏈、無虛鏈；各頁日期事實條目（含本檔 wikilink）已在庫 — 已飽和。）
 
+<!-- TJJ-A10071500-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071500-1 article a75a6e8c12e18729 (台美人台加人 popular 分類頁, 2025-04-30快照): 3 subject links re-checked vs 正文 — 黃邦雄醫師「人類乳突病毒與疫苗的認識[影]」條目／「哲人日已遠：敬弔李應元博士 ◎NATPA鄭麗伶會長暨全體理事」弔文條目, all real, no wrong/spurious links; dated facts w/ article wikilink already in From the record on bang-h-hwang / li-lin-cheng / dr-ying-yuan-lee — saturated, no new material. -->
+
