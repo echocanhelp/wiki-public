@@ -111,3 +111,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10060800-8: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060800-8 article 49d912cc449367f0 (長青教室 tag p2, 2024-06-21快照): subject link re-checked vs 正文 this attempt (「2017 婦女癌症認知系列講座-沉默的殺手──卵巢癌 ◎黃邦雄婦產科醫師 2017-10-25」), real, no wrong/spurious links; 2017-10-25 dated fact w/ article wikilink already in From the record — 婦科醫師 vs 解剖學者 HOLD 不變; saturated, no new material. -->
 
 <!-- TJJ-A10071100-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071100-1 articles (11aa2dfa5f64d7e4 楊子清 tag頁 / 2490b18e8f37ea79 第166回世界台灣文化論壇 / 89e6683c93156205 台美人台加人 p356 / 79b5f26fdef89d22 2023台美小姐選拔賽): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607004-c: verified 2026-10-09 — wave-2 link+deepen re-check of article 89e6683c93156205 (台美人台加人 p356, 2024-05-20快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
