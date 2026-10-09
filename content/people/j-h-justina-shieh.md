@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # J. H. Justina Shieh (謝節惠)
 
@@ -33,6 +33,7 @@ HOLD: no memoir text in the corpus; the two encyclopedia entries have not been c
 - Corpus re-grep 2026-09-25: hit set unchanged (own two Who's Who records + works index only); no memoir or community-organizing text names her — nothing new absorbable (re-grep 2026-09-25, slice 09250600-28: same hit set — own two Who's Who records + index; SKIP stands).
 - Re-verified 2026-10-06 (deepen-x slice 10051200-9): fresh ZH+EN grep (謝節惠 / Justina Shieh / J. H. Shieh) across works/articles/sources/events/topics plus whole-repo sweep — only new absorbable item is the husband-record San Diego Taiwan Center cross-reference above; her own hit set unchanged (two Who's Who records + index).
 - Corpus re-scan 2026-10-08 (deepen-x slice 10062218-7): fresh grep (謝節惠 / Justina Shieh / J. H. Shieh) across works/articles/sources/events/topics — own hit set unchanged (Who's Who #106, #1217, index); surname Shieh hits are distinct records (Esther Shieh pianist, Rosalyne Formosa Shieh, Tao-Shih Shieh, ourjourneys records). SKIP; verified-saturated.
+- Corpus re-grep 2026-10-09 (deepen-x slice 10080735-10): fresh ZH+EN+surname grep (謝節惠 / Justina Shieh / J. H. Shieh / Shieh) across all 5 corpus dirs — direct-name hit set identical (#106, #1217, works index); surname hits are distinct records (Esther Shieh, Rosalyne Formosa Shieh, Tao-Shih Shieh, Jii James Shieh, Parker Shieh, Perry B. Shieh). Indirect sweep (吳銘賢 / 聖地牙哥台美基金會) confirms the husband-record material already absorbed (ourjourneys26 piano sponsorship, ourjourneys162 opening) plus unrelated TAFSD records (Chunmei Ou Lin CEO 2024–2025, scholarship/library records) — no text names her. SKIP: verified-saturated.
 
 ## Family
 
