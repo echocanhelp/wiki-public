@@ -53,3 +53,5 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/global-taiwan-institute||Global Taiwan Institute 全球台灣研究中心]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- TJJ-A10070900-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-1 article 2c9cb76838702dd7 (海台青與黑客松, 楊遠薰, 2017-07-24): GTI執行長蕭良其(Russell Hsiao)受邀演講記述再驗證見於正文, real mention; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
