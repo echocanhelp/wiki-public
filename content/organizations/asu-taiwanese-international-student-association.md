@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # ASU Taiwanese International Student Association
 
@@ -39,3 +39,4 @@ The ASU Taiwanese International Student Association (TISA), known in Chinese as 
 
 - 2026-09-30 (deepen-x slice 09260854-22) corpus re-check: fixed-alternation grep for 'Taiwanese International Student Association' / 亞利桑那州立大學台灣國際學生會 / 'ASU' returns zero true mentions (Arizona State University hits are unrelated science/tech quotes; earlier 'TISA' substrings are noise inside 'partisan'/'artisans'). SKIP-with-reason stands.
 - 2026-10-07 (deepen-x slice 10052045-30) corpus re-check: five-dir grep (works/articles/sources/events/topics) for 'Taiwanese International Student Association' / 亞利桑那州立大學台灣國際學生會 / word-boundary 'TISA' returns zero true mentions — the only hits are wikilink lists in works/index.md and our-journeys-372 (org cross-references, not memoir text); standalone-word TISA grep is clean. Verified-saturated, SKIP.
+- 2026-10-09 (deepen-x slice 10070717-5) corpus re-check: fresh five-dir grep — zero true mentions again; the two taiwanjustice-net hits are base32 archive_digest hash false positives (…TISA… inside digest strings), the rest is the source-directory index line. Verified-saturated, SKIP.

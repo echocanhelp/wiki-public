@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Dr. Jane H. Hsiao (許照惠博士)
 
@@ -62,3 +62,4 @@ _No filled family fields on the TAH profile._
 > Corpus re-scan 2026-09-30 (deepen-x slice 09260854-13): fresh ZH+EN grep — hit set unchanged (85, whos-who-1465, ff346, mystories600, 684) + index, all already linked. SKIP-deepen; duplicate-person HOLD vs [[people/jane-h-hsiao]] stands.
 
 > Corpus re-grep 2026-10-07 (slice 10052045-29): fresh five-dir grep (許照惠 / Jane H. Hsiao / Innotech / IVAX / OPKO) — hit set unchanged (85, whos-who-1465, ff346, mystories600, 684), all already linked; the two taiwanjustice 'OPKO' matches are archive_digest hash false positives. SKIP-deepen; duplicate-person HOLD vs [[people/jane-h-hsiao]] stands.
+> Corpus re-grep 2026-10-09 (slice 10070717-5): fresh five-dir grep (許照惠 / Jane H. Hsiao / Innotech / IVAX / OPKO) — hit set unchanged (85, whos-who-1465, ff346, mystories600, 684) + index, all already wikilinked with facts absorbed. SKIP-deepen; duplicate-person HOLD vs [[people/jane-h-hsiao]] stands.
