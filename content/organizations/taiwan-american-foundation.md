@@ -7,7 +7,7 @@ tags:
   - philanthropy
   - awards
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-09
 
 ---
 # Taiwanese American Foundation (TAF)
@@ -41,6 +41,7 @@ HOLD: corpus records titled "台美協進會" — [[works/taiwaneseamericanhisto
 - [[works/taiwaneseamericanhistory-org/ourjourneys29-eng|Our Journeys 29 (EN)]] records the founding act of this foundation: [[people/wang-gui-rong|Kenjohn Wang (王桂榮)]], after donating one million dollars, established the Taiwanese American Foundation, which awards yearly scholarships to extraordinary talents in the US and overseas; the Wang family later donated its over-20,000-square-foot Rosemead estate to the Taiwan Center. The same memoir records 李培吾 (Li Pei Wu) — a $1M donor to the Taiwanese United Fund and Chilin Foundation — being elected Chairman of the Foundation and general convener of the Taiwan Center preparatory committee.
 - The foundation's own publications are held in the corpus: [[works/taiwaneseamericanhistory-org/573-taiwanese-american-foundation-2005-2006tafmagazines-e9-9b-9c-e8-aa-8c|573. Taiwanese American Foundation 2005-2006 / TAF Magazines 雜誌]] and an earlier [[works/taiwaneseamericanhistory-org/785-e5-8f-b0-e7-be-8e-e5-9f-ba-e9-87-91-e6-9c-831995-e9-a0-92-e7-8d-8e-e7-89-b9-|785. 台美基金會1995頒獎特刊 / 1995/11]] — the foundation's own 1995 awards special issue, evidence the award ceremony ran continuously into the mid-1990s.
 - 王桂榮's wider movement record appears in the corpus as [[works/taiwaneseamericanhistory-org/344-e7-ac-ac-e4-ba-8c-e4-bb-bb-e6-9c-83-e9-95-b7-e7-8e-8b-e6-a1-82-e6-a6-ae-e5-b|344. 第二任會長王桂榮 將公會會務發揚光大 / 2015/10]] (bibliographic record; which 公會 is unreconciled).
+- Tsai Trong-rong's memoir records the founder of this foundation at the 1982 Los Angeles meeting that produced FAPA: [[people/wang-gui-rong|Kenjohn Wang (王桂榮)]], then President of the Chamber of Commerce, served as treasurer ("responsible for finances") on FAPA's founding executive committee alongside [[people/peng-ming-min|Ming Min Peng]] (honorary president), [[people/dr-tan-sun-mark-chen|Mark Chen]] (WFTA president, vice-president) and [[people/dr-tu-chen|Tu Chen]] (TAA president, organizing) — [[works/taiwaneseamericanhistory-org/ourjourneys65-eng|Our Journeys 65 (EN): The Birth of FAPA by Tsai Trong-rong]]. This places the TAF founder's community standing in the diplomatic-organization generation of 1982, before the foundation's own founding that same year.
 
 ## From the record
 
