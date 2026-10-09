@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # I-Chuun Lee
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 TAH encyclopedia entry #533 (2015-08) documents her profile: [[works/taiwaneseamericanhistory-org/533-i-chuun-lee-201508|533. I-Chuun Lee / 2015-08]]. No further community-corpus material found beyond the TAH press-kit record. Re-verified 2026-09-26: grep of works/ + articles/ returns only the own record — SKIP: no memoir/journal material to absorb. Re-verified 2026-10-07 (slice 10052045-16): five-dir grep (I-Chuun / I-Chun Lee / 依純·伊純·宜純 variants) — the sole non-self hit, reporter 李依純 in a taiwanjustice.net news file, is a different person. SKIP stands.
+- Re-verified 2026-10-09 (slice 10070714-16): wider-variant grep (Lee I-Chuun / I-Chuan Lee / I-Chun + 依純·伊純·宜純) — non-self hits all resolve to other people: choir leader Yi-chun Chiang in ourjourneys123, pianist I-Chun (Catherine) Chang 張儀君 in [[works/taiwaneseamericanhistory-org/whos-who-2129-i-chun-chang|TAH #2129]], and violinist Pei-Chun Tsai in musical-concerts-153. No memoir material on I-Chuun Lee herself. SKIP stands (verified-saturated).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/i-chuun-lee/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 <!-- deepen-x slice 09251054-11: SKIP re-verified 2026-09-26 — fresh ZH+EN+Embrace grep of works/articles: zero hits beyond own record -->
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - Recognized in the TAHS/TAH community record: [[works/taiwaneseamericanhistory-org/whoswho1182|1182. Jane Marie Chen / 2016/7]] (2016-07-28) — her Who's Who entry is held in the corpus as community historical record.
 - Schwab Social Entrepreneur of the Year, World Economic Forum 2013 (per TAH profile above).
 - Corpus scan 2026-09-21: no memoir/article mentions (also searched Embrace Innovations) beyond the encyclopedia record; nothing further absorbable (SKIP).
+- Re-verified 2026-10-09 (slice 10070714-16): five-dir grep (Jane Marie Chen / Jane Chen / Embrace Incubat / Embrace Innovations) — only hits beyond the own record [[works/taiwaneseamericanhistory-org/whoswho1182|TAH #1182]] are index/source listings; a bare "embrace" sweep returns only the English verb usages in unrelated memoirs (Taiwan Center, Silicon Valley essays, Michelle Kuo interview), not her company. SKIP stands (verified-saturated).
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jane-marie-chen/)

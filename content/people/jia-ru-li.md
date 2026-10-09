@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Jia-Ru Li (李佳儒)
 
@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 - Listed in the TAH Foundation Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1181|TAH #1181: Jia-Ru Li 李佳儒 (2016/07)]].
 - Corpus grep (works/ + articles/) re-verified 2026-09-25 (ZH+EN 李佳儒|Jia-Ru Li): 李佳儒 appears only in the own-record above and the works index; no memoir or movement material beyond the profile itself. SKIP.
 - Corpus sweep 2026-10-07 (slice 10052045-17; 李佳儒/Jia-Ru Li/佳儒 probes across works/articles/sources/events/topics): hits limited to the own bibliographic record and the works index. No memoir or movement material. Verified-saturated.
+- Re-verified 2026-10-09 (slice 10070714-16): five-dir grep with wider variants (李佳儒 / Jia-Ru Li / JiaRu / LILEE) — zero hits beyond the own record [[works/taiwaneseamericanhistory-org/whoswho1181|TAH #1181]], the works index, and the source page. SKIP stands (verified-saturated).
 
 ## Sources
 - [TAH #1181 encyclopedia: 1181.  Jia-Ru Li 李佳儒 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1181/)
