@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # C. P. Huang (黃澄波)
 
@@ -30,7 +30,7 @@ _No filled family fields on the TAH profile._
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-p-huang/)
 
 ## Role in the Community
-- Corpus record: [[works/taiwaneseamericanhistory-org/whoswho2100|2100. C. P. Huang 黃澄波]] (TAH Who’s Who entry, published 2018-04-21). Bibliographic record only — corpus re-scan deepen-x 10052045-27 (2026-10-07, ZH+EN+surname probes) again found no memoir/corpus narrative beyond the profile itself. 澄波 substring hits were 陳澄波 (the painter, separate person). SKIP-with-reason.
+- Corpus record: [[works/taiwaneseamericanhistory-org/whoswho2100|2100. C. P. Huang 黃澄波]] (TAH Who’s Who entry, published 2018-04-21). Bibliographic record only — five-dir re-grep (ZH+EN+surname, 2026-10-09) again found no memoir/corpus narrative beyond the profile itself. 澄波 substring hits were all 陳澄波 (the painter, separate person). SKIP-with-reason.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-09
 ---
 # L. J. Ho (何麗珍)
 
@@ -27,7 +27,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Her story is held in the community record as TAH Foundation Who's Who entry 2089, published 2018-04-13: [[works/taiwaneseamericanhistory-org/whoswho|2089. L. J. Ho 何麗珍 / 04/2018]] (band B, story).
-- SKIP (re-verified 2026-09-26 and 2026-10-02): fresh ZH+EN grep of works/ + articles/ matched only the own-record above and the works index — bibliographic only, no memoir or movement material to absorb.
+- SKIP (re-verified through 2026-10-09): five-dir grep (ZH+EN+麗珍 substring) matched only the own-record above, the works index, and unrelated same-name third parties in taiwanjustice-net news (郭麗珍 / 王麗珍 — different persons) — bibliographic only, no memoir or movement material to absorb.
 
 ## Sources
 - [TAH #2089 encyclopedia: 2089. L. J. Ho 何麗珍 / 04/2018](https://taiwaneseamericanhistory.org/whoswho/)
