@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Janet Lee (李慧芝)
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-check 2026-10-08 (deepen-x slice 10062334-1): fresh ZH+EN grep across works/articles/sources/events/topics — hit set identical (own TAH records #38/#706 + works index + the unrelated taiwanjustice-net 行政院發言人 articles). Disambiguation holds; verified-saturated; SKIP-for-new-facts; collision HOLD stands.
+Corpus re-check 2026-10-09 (deepen-x slice 10080500-1): fresh ZH+EN grep returns the identical set — own TAH records #38/#706, works/index rows, and the 2025 taiwanjustice-net articles where 李慧芝 appears only as running prose for the 行政院發言人 (not a named subject). Also probed Lafayette/IN footprint: no movement-corpus hits tying this person to any work beyond her own TAH profile records. Nothing absorbable; verified-saturated; collision HOLD stands.
