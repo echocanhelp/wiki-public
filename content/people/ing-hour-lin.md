@@ -62,3 +62,5 @@ Corpus re-check (slice 09260700-14, 2026-09-27): fresh 林英侯|Ing-Hour greps 
 <!-- TJJ-A10040500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-5 article 039ccce4163c57a9（航空宣教使團Joyce Lin墜湖身亡, 2020-05-15 刊）: subject link re-checked vs 正文（NATPA訃告：2009-2010 NATPA會長、Joyce之父）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060600-4: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-4 article 039ccce4163c57a9（航空宣教使團台裔美籍女機師Joyce Lin墜湖身亡, 2020-05-15 刊）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070800-4: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-4: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
