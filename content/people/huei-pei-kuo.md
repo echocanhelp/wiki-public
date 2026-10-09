@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Huei Pei Kuo (郭惠沛博士)
 
@@ -31,6 +31,7 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 - Profiled in the TAH Foundation Who's Who community encyclopedia, record 1361, published 2016-11-02 — [[works/taiwaneseamericanhistory-org/whoswho1361|1361. Huei Pei Kuo 郭惠沛 / 2016/11]].
 - Corpus records to date are limited to this bibliographic profile; her HP Labs research career (1978–2013, from the TAH table) is the only employment detail held in the vault. SKIP (slices 09232337-22 / 09251054-16, re-grepped 2026-09-26 ZH+EN): 郭惠沛/Huei Pei Kuo hits are only her own record + the works index — no memoir or movement material to absorb.
+- Re-verified 2026-10-09 (deepen-x slice 10070714-26): 郭惠沛 / Huei Pei Kuo / 惠沛 across works/articles/sources/events/topics — only her own record and the source roster line. No new corpus material.
 
 ## Family
 

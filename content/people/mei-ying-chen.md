@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Mei-Ying Chen (陳美瑩)
 
@@ -35,6 +35,8 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - 个人资料存档于 TAHS 故事语料库；语料库目前无其他署名纪录可吸收（deepen-x 09181300-27 于 2026-09-20、09210051-13 于 2026-09-21 复查 works/articles：除本身纪录与 index 收录行外零命中，无独立语料可吸收；deepen-x-31 于 2026-09-25 三度复查仍零命中），待后续深度素材：[[works/taiwaneseamericanhistory-org/whoswho1285|TAH #1285（2016/09）]]
+
+- 2026-10-09 (deepen-x slice 10070714-26) 覆核: works/articles/sources/events/topics 檢索 陳美瑩 / Mei-Ying Chen / 美瑩 — 除本身紀錄與來源名冊列舉外零命中, 無可吸收語料。
 
 ## Sources
 - [TAH #1285 encyclopedia: 1285. Mei-Ying Chen 陳美瑩](https://taiwaneseamericanhistory.org/whoswho1285/)

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Tai-Yen Chen
 
@@ -34,6 +34,7 @@ last_reviewed: 2026-10-01
 SKIP (deepen-x 09251054-25, 2026-09-26): fresh grep 'Tai-Yen Chen' across works/ and articles/ — zero hits. Corpus sweep of works/articles found only his own TAH Who's Who entry — no memoir or movement material in the community record beyond the press-kit profile. Physical chemistry researcher (NTHU B.S./M.S. → Texas A&M Ph.D. 2010), University of Houston chemistry faculty from 2016.
 
 - [[works/taiwaneseamericanhistory-org/whos-who-2209-tai-yen-chen|2209. Tai-Yen Chen]] — TAH Who's Who record, 2019-07-04 (band B)
+- Re-verified 2026-10-09 (deepen-x slice 10070714-26): fresh grep across works/articles/sources/events/topics for Tai-Yen Chen / 泰燕 / 太燕 — only this record plus the source-page roster line. No memoir or movement material to absorb.
 
 ## Family
 
