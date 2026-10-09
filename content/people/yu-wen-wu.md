@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Yu-Wen Wu
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10070717-25 2026-10-09: five-dir re-sweep (Yu-Wen / Wu variants) — new candidate hits are different people: Yu-Wen Chen 陳郁雯 (whoswho1815, musician423 — pianist, not this artist) and director 吳郁瑩 (2022 campus-tour article). Own hit set unchanged: #42/#996/#1020 + index. SKIP: verified-saturated. -->

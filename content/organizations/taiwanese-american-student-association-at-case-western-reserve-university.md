@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Taiwanese American Student Association at Case Western Reserve University
 
@@ -27,3 +27,4 @@ SKIP (2026-09-18 corpus sweep; re-checked 2026-09-19, 2026-09-21, 2026-09-25, 20
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10070717-25 2026-10-09: five-dir re-sweep (Case Western/CWRU/Cleveland) — Cleveland-dir hits are unrelated chapters (TAA/NATMA/NATPA Cleveland chapters, Our Journeys); zero Case Western/CWRU mentions in any of them. SKIP: verified-saturated. -->

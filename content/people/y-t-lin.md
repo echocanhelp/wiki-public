@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Y.T.LIN (林又新博士)
 
@@ -50,4 +50,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-<!-- deepen-x 09250600-18: re-verified 2026-09-25 — fresh ZH+EN grep of content/works + content/articles returns the same hit set already linked on-page; SKIP-with-reason, nothing new absorbable. -->
+<!-- deepen-x slice 10070717-25 2026-10-09: five-dir re-sweep (林又新 / Y.T.LIN) — hit set unchanged: own TAH #761, own article TAH #306, ourjourneys245 (18th 美東台灣人夏令會 政治組), all already absorbed on-page; events/topics greps empty. SKIP: verified-saturated. -->
