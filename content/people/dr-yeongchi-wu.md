@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A10040600-13: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-13 article 14114a89 (陳東榮麻醉演講心得報告, 2024-06-14快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060800-7: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-7 article 14114a89e393f958 (摘下口罩談麻醉醫師角色心得報告, 2024-06-14 存檔): 吳永吉 link re-checked vs 普世醫學段, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- TJJ-A10071400-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071400-2 article 14114a89e393f958 (摘下口罩談麻醉醫師角色心得報告, 2024-06-14 存檔): 吳永吉 link re-checked vs 普世醫學段「有一位吳永吉醫師為普世醫學全心奔走」, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
