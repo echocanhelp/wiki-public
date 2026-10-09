@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-09
 ---
 # Jeremy Lin (林書豪)
 
@@ -53,6 +53,16 @@ Growing up, Jeremy realized that teammates on his basketball team all came from 
 
 - All six TAH encyclopedia records cited above are held in the vault (see the works links under Related Pages), including [[works/taiwaneseamericanhistory-org/21-jeremy-lin-e6-9e-97-e6-9b-b8-e8-b1-aa-the-first-t-a-professional-basketball-p|TAH #21 — the first T.A. professional basketball player (2012)]] and [[works/taiwaneseamericanhistory-org/195-e6-9e-97-e6-9b-b8-e8-b1-aa-jeremy-lin-the-first-person-to-be-recruited-by-nb|TAH #195 — first recruited by an NBA team (Golden State Warriors, 7/16/2010)]].
 - The tah-tables above carry his full team sequence (Warriors 2010–2011 through Raptors 2019; New Taipei Kings 2023–2025), the Knicks "Linsanity" season (2011–2012), and his founding of the Jeremy Lin Foundation.
+
+## Role in the Community
+
+Jeremy Lin is a recurring subject — not just a mention — across the community record:
+
+- **Community biography:** [[works/taiwaneseamericanhistory-org/publications293-2|TAH #296 — 台灣之子 福爾摩沙之光: 林書豪的成功故事]] (曾恆利 / Henry Tseng, 2013, biography), with Tseng's companion essays on writing it: [[works/taiwaneseamericanhistory-org/mystories8|TAH #8 — 編寫新書之心路歷程]] and [[works/taiwaneseamericanhistory-org/mystories69|TAH #69 — 林書豪邁入美職籃的辛酸成功奮鬥史]] (2014). See [[people/henry-tseng|曾恆利]].
+- **Tribute art:** [[works/taiwaneseamericanhistory-org/footstep-20|TAH #20 — A tribute to Jeremy Lin (向林書豪致敬)]] by artist Susan Hsiu-fang Liu (陳秀芳), 2015.
+- **Linsanity in the press:** [[works/taiwaneseamericanhistory-org/photo-albums-historical-24|TAH #24 — Linsanity on the TIME cover]] (2012/02/27); taiwaneseamerican.org coverage through his rise: [[works/taiwaneseamerican-org/jeremy-lin-one-step-closer-to-nba-contract|one step closer to an NBA contract]], [[works/taiwaneseamerican-org/all-eyes-on-nba-sensation-jeremy-lin|All Eyes on NBA Sensation Jeremy Lin]], [[works/taiwaneseamerican-org/friday-night-linsanity-jeremy-lin-vs-the-lakers-in-nyc|Friday Night Linsanity!]], [[works/taiwaneseamerican-org/dear-jeremy-lin|Dear Jeremy Lin…]], and [[works/taiwaneseamerican-org/warriors-asian-heritage-night-post-game-qa-with-jeremy-lin|Warriors Asian Heritage Night post-game Q&A]].
+- **Cultural footprint:** [[works/taiwaneseamerican-org/eremy-lin-the-musical-a-journey-to-linsanity|Jeremy Lin: The Musical (a Journey to LinSanity)]]; appeared with [[works/taiwaneseamerican-org/johnny-hi-fis-eric-hsu-and-nba-player-jeremy-lin-at-kollaboration-sf|Johnny Hi-Fi's Eric Hsu at Kollaboration SF]]; named among "Taiwan zhiguang" athletes in [[works/taiwaneseamerican-org/taiwan-zhiguang-taiwanese-taiwanese-american-athletes-to-root-for|Taiwan zhiguang: athletes to root for]].
+- **Asian-American advocacy:** in [[works/taiwaneseamericanhistory-org/videos-171|TAH #171]], Lin said violence towards Asian Americans was "hitting differently" amid the pandemic — the community record of him as a voice on anti-Asian hate.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
