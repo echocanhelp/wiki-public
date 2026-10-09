@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09270600-1 (2026-10-03): fresh ZH+EN grep (works+articles) — hit set identical to prior passes (own TAH record + already-wikilinked works/index + absorbed TJJ articles); no new community material. verified-saturated, SKIP-no-new-facts. hits-hash=8b258dbd6f2e -->
 
 <!-- TJJ-A10040600-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-3 article 99aaa4abcb78ff6d (台美人台加人分類存檔 p2, 2024-04-25快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- TJJ-A100607006-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 20240425083432_root_99aaa4abcb78ff6d (台美人台加人分類存檔 p2, 2024-04-25快照): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
