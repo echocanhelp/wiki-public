@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Jean Cheng (鄭如珍)
 
@@ -66,3 +66,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 > Corpus re-grep 2026-10-08 (slice 10060911-2, run 3): fresh ZH+EN grep (鄭如珍 / Jean Cheng) across works/ + articles/ + sources/ + events/ + topics/ — hit set identical (#283, film record, UCSD 2022-12 donor note in our-journeys-384, sources index); verified-saturated, SKIP, no new absorbable material.
+
+> Corpus re-grep 2026-10-09 (slice 10080400-25): fresh ZH+EN grep (鄭如珍 / Jean Cheng / 如珍) across works/ + articles/ + sources/ + events/ + topics/ — hit set identical (#283, film record, UCSD 2022-12 donor note in our-journeys-384, ourjourneys210 related-people link, works/sources index); the 如珍 hits in a 2026-01 taiwanjustice bubble-tea article and the 蕭如珍 prisoner mention are false positives (different persons/words), not Jean Cheng. Verified-saturated, SKIP, no new absorbable material.
