@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Gene-Jack Wang (王俊傑)
 
@@ -60,3 +60,4 @@ last_reviewed: 2026-10-08
 - Re-grep 2026-09-25 (slice 09240800-24): same hit set (own #581 record + ourjourneys305 + index); both absorbed above. Verified saturated. SKIP.
 - Re-grep 2026-09-26 (slice 09251400-10): same hit set (own #581 record + ourjourneys305 + index); both absorbed above. Verified saturated. SKIP.
 - Re-grep 2026-10-07 (slice 10051340-17, 王俊傑 / Gene-Jack / 邱綉雅 / Brookhaven): NEW material — wife 邱綉雅's own Who's Who record #1659 (page [[people/show-ya-wang]]) now linked under Family; ourjourneys305 passage already absorbed. No conflicts.
+- Re-grep 2026-10-09 (slice 10080735-8, 王俊傑 / Gene-Jack / 邱綉雅 / Brookhaven / Show-Ya): same hit set (own TAH #581 record + ourjourneys305 + works/index + sources page); all absorbed above, incl. wife #1659 link. No new material, no conflicts. Verified saturated. SKIP.
