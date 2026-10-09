@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # George K. Liu (劉寬平)
 
@@ -56,3 +56,4 @@ Corpus re-grep 2026-10-01 (slice 09261200-6): fresh grep of works/ + articles/ f
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 10062334-11 recheck 2026-10-08: SKIP — fresh ZH+EN grep (劉寬平/George K. Liu/寬平) across works/articles/sources/events/topics returns the identical hit set — ourjourneys59 (蔡同榮 memoir, 1980 Massachusetts fruit-company VP → Kennedy introduction) + own #776 + index/source hubs — all already absorbed above. United Brand vs. fruit-company employer records remain on HOLD. No new absorbable corpus facts. -->
+<!-- deepen-x slice 10080720-9 recheck 2026-10-09: SKIP — fresh ZH+EN grep (劉寬平/George K. Liu/寬平) across works/articles/sources/events/topics returns the identical hit set (ourjourneys59 + whos-who776 + works/index + sources hub); memoir passage and #776 already absorbed; United Brand vs. fruit-company conflict remains on HOLD. No new absorbable corpus facts. -->
