@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Eric Wu (吳爾融)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-sweep 2026-10-06 (slice 10051314-6): fresh ZH+EN grep across works/ articles/ sources/ events/ topics — hits unchanged (self-record + index only); no new absorbable facts. SKIP.
+- Re-grep 2026-10-09 (slice 10080720-30): 吳爾融 / Eric Wu / 爾融 across works/articles/sources/events/topics — hits unchanged: [[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys 212]] (南灣生活座談會 later-joiner roster, absorbed above) + [[works/taiwaneseamericanhistory-org/whoswho1385|TAH #1385]] self-record + index listings. No new absorbable facts. Saturated.
