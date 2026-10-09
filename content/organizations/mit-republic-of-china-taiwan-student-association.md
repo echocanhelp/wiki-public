@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # MIT Republic of China Taiwan Student Association
 
@@ -32,3 +32,4 @@ _SKIP (2026-09-18 deepen-x; re-verified 2026-09-21 twice, incl. ROCSA/"ROC stude
 <!-- deepen-x slice 09250500-32 recheck 2026-09-25: SKIP — fresh ZH+EN grep of works/+articles returned no new material (see above); verified saturated, no changes. -->
 <!-- deepen-x slice 09261100-30 recheck 2026-10-01: SKIP — fresh ZH+EN grep of works/+articles re-run; hit sets identical to prior passes (all hits already linked; 蘇國慶 article hit = same 同名戲曲演員 HOLD, already recorded). No new absorbable corpus facts. -->
 <!-- deepen-x slice 10052158-11 (2026-10-07): re-verify — fresh five-dir grep (ROCSA|Republic of China Taiwan Student|中華民國.*學生|麻省理工) across works/articles/sources/events/topics: zero hits for this org. 中華民國 hits concern the UW Formosan Club story (ourjourneys205/81); 麻省理工 hits are unrelated bios (ourjourneys256, taiwanjustice news wires). Nothing absorbable. SKIP persists. -->
+<!-- deepen-x slice 10070717-18 (2026-10-09): re-verify — fresh five-dir grep (ROCSA|Republic of China Taiwan Student|中華民國.*學生會|麻省理工.*學生) across works/articles/sources/events/topics: zero hits for this org itself; 中華民國學生 hits = UW Formosan Club story (ourjourneys81/205), 麻省理工 hits = Harvard/MIT lawsuit wire + 清大華語計劃 news wires. Nothing absorbable. SKIP persists. -->

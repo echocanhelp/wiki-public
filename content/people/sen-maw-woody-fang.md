@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Sen Maw Woody Fang (方森茂教授)
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-10-07
 <!-- deepen-x 09251023-29 (2026-09-26): re-verify — fresh -E grep (方森茂|Woody Fang|Sen Maw) hits only ourjourneys239, whos-sen-maw-woody-fang, index.md — both already absorbed above; SKIP persists. -->
 <!-- deepen-x 09261200-25 (2026-10-01): re-verify — fresh -E grep (方森茂|Woody Fang|Sen Maw) over works/ + articles/ still hits only ourjourneys239, whos-sen-maw-woody-fang, and the works/index.md directory row; all three already reflected above (the $10,000 夏令會 donation fact is quoted in full at [[works/taiwaneseamericanhistory-org/ourjourneys239|Our Journeys #239]]). No new corpus material. SKIP persists. -->
 <!-- deepen-x slice 10052158-11 (2026-10-07): re-verify — fresh five-dir grep (works/articles/sources/events/topics; 方森茂|Sen Maw|Woody Fang) hits only ourjourneys239, whos-sen-maw-woody-fang, works/index.md, sources/taiwaneseamericanhistory-org.md — all already absorbed. Surname-only 方 probe hits (方秋好/方素碧 etc.) are different people. No new corpus material. SKIP persists. -->
+<!-- deepen-x slice 10070717-18 (2026-10-09): re-verify — fresh five-dir grep (方森茂|Sen Maw|Woody Fang) hits only ourjourneys239, whos-sen-maw-woody-fang, works/index.md, sources/taiwaneseamericanhistory-org.md — all already absorbed (the US$10,000 夏令會 donation quote re-confirmed verbatim in ourjourneys239 this pass). No new corpus material. SKIP persists. -->
