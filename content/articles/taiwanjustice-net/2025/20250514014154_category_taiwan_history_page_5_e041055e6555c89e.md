@@ -282,3 +282,5 @@ Page 5 of 29
 
 
 <!-- TJJ-A10040700-5: verified 2026-10-06 — Subjects re-checked vs 正文（「台灣演義」分類存檔頁第5頁，2025-05-14 快照）：「台灣演義 20230709 AI教父 黃仁勳」（2023-07-09）與「台灣演義 20210307 開台西醫 世紀傳愛-馬雅各」（2021-03-07）兩集條目確認見於正文清單；jensen-huang／james-laidlaw-maxwell 兩連結為真，無錯鏈、無虛鏈；兩頁含本檔 wikilink 之日期事實條目已在庫 — saturated。frontmatter authors 為全站作者清單，非本文主體。 -->
+
+<!-- TJJ-A10080401-15: verified 2026-10-09 — Wave-2 re-check vs 正文（「台灣演義」分類存檔頁第5頁，2025-05-14 快照）：黃仁勳「AI教父」條目（2023-07-09）與馬雅各「開台西醫 世紀傳愛」條目（2021-03-07）再次逐字確認見於正文清單；兩 Subjects 連結為真，無錯鏈、無虛鏈；兩頁「From the record」含本檔 wikilink 之日期事實條目已在庫 — saturated，無內容改動。 -->
