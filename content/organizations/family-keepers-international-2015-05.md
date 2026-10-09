@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Family Keepers International /2015/05 (國際真愛家庭協會)
 
@@ -30,3 +30,5 @@ Family Keepers International is a nonprofit organization founded in 2001 in Los 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> Corpus re-verified 2026-10-09 (deepen-x slice 10070717-16): fresh five-dir sweep (國際真愛 / Family Keepers / 葉高芳 / Ye Gaofang) returns the identical hit set — own directory record [[works/taiwaneseamericanhistory-org/7-family-keepers-international]], founder profile work [[works/taiwaneseamericanhistory-org/417-kaofang-yeh-e8-91-89-e9-ab-98-e8-8a-b3201505]] (already linked above), works/index, sources index. No new memoir material. SKIP — verified-saturated.
