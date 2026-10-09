@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Nan-Jae Lin (林能傑)
 
@@ -35,6 +35,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Corpus presence is limited to his own TAH encyclopedia entry, held locally as [[works/taiwaneseamericanhistory-org/whowho1318|1318. Nan-Jae Lin 林能傑 / 2016/10]]; no other memoir or community record names him (verified by corpus grep, 2026-09-22 and 2026-09-26; 09251100-6 re-scan returned only the index line for this entry).
+- Re-verified 2026-10-09 (deepen-x slice 10070714-29): fresh five-dir grep (林能傑/能傑/Nan-Jae) — 能傑 substring hits are 施能傑 (ROC civil service personnel chief, unrelated cabinet article) and prose; 林能傑 appears only in his own whowho1318 record + index lines. Verified-saturated, nothing absorbable.
 
 ## Sources
 - [TAH #1318 encyclopedia: 1318. Nan-Jae Lin 林能傑/ 2016/10](https://taiwaneseamericanhistory.org/whowho1318/)

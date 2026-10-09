@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Harold M. Otness (歐獻文)
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-10-01
 
 ## Role in the Community
 - SKIP note (2026-09-20, re-verified through 2026-09-26 ZH+EN grep): corpus grep matched only the own-profile record [[works/taiwaneseamericanhistory-org/148-harold-m-otness-e6-ad-90-e7-8d-bb-e6-96-87|TAH #148, 2014-12-09]]; no memoir/article material beyond the existing TAH snapshot (SoO library-science professorship, 1966–1999, already recorded).
+- Re-verified 2026-10-09 (deepen-x slice 10070714-29): fresh five-dir grep (歐獻文 + Otness) returns only the own-record index lines in works/index.md and sources/taiwaneseamericanhistory-org.md — verified-saturated, nothing absorbable.
 
 ## Sources
 - [TAH #148 encyclopedia: 148. Harold M. Otness 歐獻文](https://taiwaneseamericanhistory.org/148-harold-m-otness-%e6%ad%90%e7%8d%bb%e6%96%87/)

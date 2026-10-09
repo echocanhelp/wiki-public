@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Kathay Rai
 
@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - Own TAH Who's Who encyclopedia record is in the corpus: [[works/taiwaneseamericanhistory-org/whoswho1399|1399. Kathay Rai / 2016/11]] (published 2016-11-13). This is the only corpus appearance; no narrative community record beyond the bibliographic entry — nothing further absorbable. Re-verified 2026-09-22 (deepen-x slice 09211100-4); re-verified 2026-09-25 (slice 09232337-26) and 2026-09-26 (slice 09251054-32): fresh grep of works/ + articles/ returns only this own record.
+- Re-verified 2026-10-09 (deepen-x slice 10070714-29): fresh five-dir grep — 'Kathay' appears only in the own whowho1399 record + index lines; 'Rai' substring hits were unrelated prose. Verified-saturated, nothing absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/kathay-rai/)
