@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # S. J. Lin (林宣繼)
 
@@ -62,3 +62,4 @@ last_reviewed: 2026-10-08
 <!-- deepen-x slice 09260600-28 (2026-09-27): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns the hit-set already absorbed on this page; no new corpus facts, no conflicts. -->
 - Corpus re-grep 2026-10-06 (slice 10051340-2): fresh ZH+EN grep across works/articles/sources/events/topics returns the hit set already absorbed+wikilinked above. Verified-saturated; SKIP-no-new-facts.
 - Corpus re-grep 2026-10-08 (slice 10062334-2): fresh ZH+EN grep (林宣繼 / S. J. Lin) across works/articles/sources/events/topics returns the identical hit set (our-journeys-378, ourjourneys47, mystories471, whoswho2112, index), all already absorbed+wikilinked above. Verified-saturated; SKIP-no-new-facts; HOLD on 憶吾妻 wife-identity stands.
+- Corpus re-grep 2026-10-09 (slice 10080500-8): fresh ZH+EN grep (林宣繼 / S. J. Lin / surname) across works/articles/sources/events/topics returns the identical hit set (our-journeys-378, ourjourneys47, mystories471, whoswho2112, index, sources), all already absorbed+wikilinked above; the two Sheng-Ching Angel Hsu hits are substring noise (Sheng-Chi ⊂ Sheng-Ching), unrelated. Verified-saturated; SKIP-no-new-facts; HOLD on 憶吾妻 wife-identity stands.
