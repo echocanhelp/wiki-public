@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Chung H. Wu (吳忠修)
 
@@ -67,3 +67,4 @@ HOLD: conflict in romanization — Chung H. Wu (this page, TAH #1347) vs Chung-H
 
 <!-- deepen-x slice 10051340-17 (2026-10-07): SKIP re-verified — fresh ZH+EN grep (吳忠修 / Chung H. Wu / Chung-Hsiu / 吳陳芳容) returns only #833, #1347, #1348 (wife 吳陳芳容, page already linked) + index, all absorbed. Loose 'Chen Wu' hits (ourjourneys243/74-eng/229, 311/685 — Chi-Chen Wu pianist records) are a DIFFERENT person, not merged. No new community material. -->
 <!-- deepen-x slice 09260900-16 (2026-10-02): SKIP re-verified (CWD sweep) — fixed-pattern grep (吴忠修|Chung H. Wu|Chung-Hsiu) re-run. False-positive guard applied: the loose `Chung H` pattern matched `ourjourneys53-eng` and `ourjourneys186-eng`, but those names are DIFFERENT people — #53 lists **Chung-hsiung Yu** (opera-appreciation / travel-knowledge teacher) and **Chun-hsiung Lin** (qigong master) as Canaan-Church / Center program leaders, and #186 lists **Shih-chung Huang** among TACL Preparatory Committee consultants. None is Chung-Hsiu Wu M.D. No new community material for this page; verified-saturated. -->
+<!-- deepen-x slice 10080735-7 (2026-10-09): SKIP re-verified — first full 5-dir sweep (works/articles/sources/events/topics; patterns 吳忠修 / Chung H. Wu / Chung-Hsiu Wu / 忠修) returns only #833 tribute, #1347 Who's Who, works index, and the source page link — all already absorbed and wikilinked above. No events/topics hits. Verified-saturated. -->
