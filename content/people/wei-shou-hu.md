@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Wei-Shou Hu (胡維碩)
 
@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 10051200-32 recheck 2026-10-06: grep 胡維碩/Wei-Shou Hu over all corpus dirs — exact-name hits confined to ourjourneys123 (+ENG) and whoswho1509, both already absorbed; surname-only 胡 hits have zero co-occurrence with this person. Verified saturated, SKIP-no-new-material. -->
 
 <!-- deepen-x slice 10062334-12 recheck 2026-10-08: fresh grep 胡維碩/Wei-Shou Hu over works/articles/sources/events/topics — exact-name hits confined to ourjourneys123 (+ENG) + whoswho1509 + indexes, all already absorbed; surname-only 胡 co-occurrence probe (人工肝臟/Minnesota/明州) returns only ourjourneys58 Kansas roster 胡啓年 (different person). Verified saturated, SKIP-no-new-material. -->
+
+<!-- deepen-x slice 10080720-16 recheck 2026-10-09: fresh grep 胡維碩/Wei-Shou Hu/維碩 over works/articles/sources/events/topics — exact-name hit set identical (ourjourneys123 +ENG + whoswho1509 + indexes), all already absorbed in Role in the Community. Surname-only 胡 co-occurrence probe (人工肝臟/Minnesota/明州) adds one taiwanjustice-net 2020 BLM article — false positive: 雙城市 (Twin Cities) match, no 胡 surname or person reference. Verified saturated, SKIP-no-new-material. -->
