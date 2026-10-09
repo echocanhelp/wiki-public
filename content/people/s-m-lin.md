@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # S. M. Lin (林素敏)
 
@@ -47,3 +47,4 @@ last_reviewed: 2026-10-01
 
 ## Work log
 - SKIP (deepen-x slice 09251031-10, 2026-09-26): fresh ZH+EN grep returned the same set (couple-story work 368, own #1541, index) — both work pages are bibliographic-only records, already reflected in Role in the Community; nothing absorbable.
+- Verified-saturated re-check (deepen-x slice 10080735-16, 2026-10-09): fresh 林素敏/S. M. Lin grep across works/articles/sources/events/topics returned the identical set — couple-story work 368, own #1541, works/index, source page; husband grep adds only #1135. All bibliographic-only, all already reflected above; no new corpus facts.
