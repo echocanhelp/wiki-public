@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Tsaiyuan Terry Hsu (許財源)
 
@@ -57,3 +57,4 @@ last_reviewed: 2026-10-08
 - Re-grep 2026-10-04 (slice 09300321-10): fresh ZH+EN grep matches exactly the three linked works (#644, #68, #1507) + index. Verified-saturated, no conflicts. SKIP-content.
 - Re-grep 2026-10-06 (slice 10051340-15): fresh ZH+EN grep (許財源 / Tsaiyuan / Terry Hsu / 廖明惠) across works/articles/sources/events/topics matches exactly the three linked works (#644 widow memoir, #68 couple collection, #1507 Who's Who) + index/source rollups. The other 廖明惠/Emily Hsu hits are the Exit Clov twin musicians Susan & Emily Hsu (taiwaneseamerican-org works) — romanization/homonym collision, not this person, never merge. Verified-saturated, no new facts, no conflicts.
 - Re-grep 2026-10-08 (slice 10070018-5): fresh ZH+EN grep (許財源 / Tsaiyuan / Terry Hsu) across works/articles/sources/events/topics matches exactly the three linked works (#644, #68, #1507) + index/source rollups. Verified-saturated, SKIP-content, no conflicts.
+- Re-grep 2026-10-09 (slice 10080700-19): fresh ZH+EN+partial (許財源 / Tsaiyuan / Terry Hsu / 財源) grep across works/articles/sources/events/topics returned only the three linked works (#644 widow memoir, #68 couple collection, #1507 Who's Who) + index rollups. The 財源 hits (ourjourneys26/37/265/311) are the common word 財源 = "funding sources" (財源有限, 開闢財源, 財源籌備), not this person — homonym false positive, never merge. Verified-saturated, no new facts, no conflicts.
