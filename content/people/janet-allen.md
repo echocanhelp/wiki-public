@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Janet Allen (安美莉)
 
@@ -47,3 +47,5 @@ Corpus sweep of works/articles found only her own TAH Who's Who entry — no mem
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10070714-19 re-verify 2026-10-09: fresh grep across works/ articles/ sources/ events/ topics/ (安美莉 / Janet Allen) returns only this person's own Who's Who record (whoswho1276) and the works-index backlink — no memoir or movement material. Verified saturated; SKIP. -->

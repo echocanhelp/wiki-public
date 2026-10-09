@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Ming Chi Wang
 
@@ -46,3 +46,5 @@ last_reviewed: 2026-10-01
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10070714-19 re-verify 2026-10-09: fresh grep across works/ articles/ sources/ events/ topics/ (Ming Chi Wang + ZH variants) returns only this person's own Who's Who record (whoswho939) and the works-index backlink — no memoir or movement material. Verified saturated; SKIP. -->

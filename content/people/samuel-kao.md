@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Samuel Kao (高榮彬)
 
@@ -48,3 +48,5 @@ SKIP: corpus re-grep (works/ + articles/) for 高榮彬/Samuel Kao found only th
 - [[works/taiwaneseamericanhistory-org/whoswho2076|2076. Samuel Kao 高榮彬 / 03/2018]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10070714-19 re-verify 2026-10-09: fresh grep across works/ articles/ sources/ events/ topics/ (高榮彬 / Samuel Kao) returns only this person's own Who's Who record (whoswho2076) and the works-index backlink — no memoir or movement material. Verified saturated; SKIP. -->
