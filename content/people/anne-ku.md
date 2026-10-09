@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Anne Ku
 
@@ -38,6 +38,7 @@ HOLD: 語料庫另有同姓小提琴手 Rachel Ku（推測為家人），但無�
 - 同姓小提琴手 Rachel Ku 於語料庫有獨立條目 [[works/taiwaneseamericanhistory-org/192-rachel-ku-violist-201505|192. Rachel Ku, Violist]]、[[works/taiwaneseamericanhistory-org/394-rachel-ku-201504|394. Rachel Ku]]；與 Anne Ku 之親屬關係仍無文件確認（HOLD，維持不併入 Family）。
 - 本條目另有同檔名重複頁 [[people/anne-ku-2|Anne Ku]]（Who's Who 重複檔案）；兩者為同一人可能性高，但未经人工確認，暂不併檔。
 - 2026-10-06 重扫（slice 10051314-4）：ZH+EN grep works/articles/sources/events/topics 僅回傳上述自身條目、Rachel Ku 條目與 index 行，無新事實。
+- 2026-10-09 重扫（slice 10080735-26）：fresh ZH+EN grep 跨 corpus 目錄，hit set 不變（自身 #193/#395、index 行）。唯一新連接點：中提琴家 [[people/youming-chen||You-Ming Chen]] 之傳記將 Anne Ku 列為「同為茱麗亞訓練之台美人音樂家」互見參照（其頁指向重複檔 [[people/anne-ku-2|Anne Ku]]），屬互見連結而非傳記事實；已在 Related Pages 補上反向連結，重複檔併檔仍 HOLD 待人工確認。
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/anne-ku/)
@@ -45,6 +46,7 @@ HOLD: 語料庫另有同姓小提琴手 Rachel Ku（推測為家人），但無�
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[people/youming-chen||You-Ming Chen]] — 中提琴家傳記互見參照（同為茱麗亞訓練之台美人音樂家）
 
 > Corpus re-verify 2026-09-26 (slice 09251031-17): fresh grep Anne Ku — own records [[works/taiwaneseamericanhistory-org/193-anne-ku-violist-201505|TAH #193]], [[works/taiwaneseamericanhistory-org/395-anne-ku-201505|TAH #395]] + the 2015 音樂人群像 already noted; no new memoir/report mentions. SKIP.
 >
