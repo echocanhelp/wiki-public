@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # W. B. Liu (劉文彬)
 
@@ -56,3 +56,4 @@ last_reviewed: 2026-10-08
 - Corpus re-check 2026-09-27 (deepen-x slice 09260600-17): fresh grep (劉文彬 / W. B. Liu) hits = whoswho1396 + works/index + the 2024-07-16 TJJ reception article — identical set, all already linked. Saturated; SKIP.
 <!-- deepen-x slice 10051200-18 (2026-10-06): verified-saturated — fresh ZH+EN+surname grep (incl. false-positive disambiguation) hit set unchanged, all hits already linked; nothing new absorbable -->
 <!-- deepen-x slice 10062218-9 (2026-10-08): fresh grep 劉文彬/W. B. Liu/劉弘威/Goodwin across works+articles+sources+events+topics — hit set unchanged (whoswho1396, the Goodwin Liu record cluster, works/index); Goodwin Liu son-record wikilinks consolidated above. Saturated; nothing new absorbable. -->
+<!-- deepen-x slice 10080735-17 (2026-10-09): verified-saturated — fresh grep 劉文彬/W. B. Liu across works+articles+sources+events+topics hit set unchanged (whoswho1396, works/index, 2024-07-16 TJJ reception article, sources/taiwaneseamericanhistory-org registry backlink); nothing new absorbable -->
