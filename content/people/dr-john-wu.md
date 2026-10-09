@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # deepen-x 09232337-1: SKIP re-verified 2026-09-25 — fresh ZH+EN grep (吳正義/John Wu) matched only own TAH #1647 record + works/index; #1155 John Wuo 鄂志超 is a different person (already noted below); nothing absorbable
 # Dr. John Wu (吳正義醫師)

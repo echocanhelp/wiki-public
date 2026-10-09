@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Cindy Huang (黃心怡)
 
@@ -33,6 +33,7 @@ last_reviewed: 2026-10-01
 
 - Profiled in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1241|1241. Cindy Huang 黃心怡]] (2016-08-14, band B). Corpus holds the bibliographic record only; no memoir/narrative corpus material beyond the TAH profile (re-verified SKIP 2026-09-25, slice 09232337-4: fresh 黃心怡/Cindy Huang grep returned only own record + index). Father 黃興貫 has his own profile [[works/taiwaneseamericanhistory-org/whoswho1240|1240. Sam Huang 黃興貫]].
 - Re-grepped 2026-09-26 (slice 09251047-31): 黃心怡/Cindy Huang hits limited to own record whoswho1241 + works index — SKIP.
+- Re-grepped 2026-10-09 (slice 10070714-14, works/articles/sources/events/topics, 黃心怡/Cindy Huang): still only own TAH #1241 record + indexes — no memoir material on Cindy herself. Father 黃興貫's community-organizing work is documented in the movement record [[works/taiwaneseamericanhistory-org/ourjourneys232|Our Journeys #232]] (Greater Washington parade logistics support).
 
 ## Family
 
