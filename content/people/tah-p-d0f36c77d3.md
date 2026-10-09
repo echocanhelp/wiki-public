@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # 李彥秀
 
@@ -67,3 +67,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10020600-1: verified 2026-10-05 — wave-2 re-check of slice articles d4a7f9e55282396a 北市區域立委號次抽籤 / 10e3a027ce22991c 汽車晶片短缺·美國會議員向蕭美琴求助 / 735744492226b90c 2016台美小姐開訓記者會 / bfc5f319a036a339 黃瑞芬訃聞: subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-10: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-10 articles (fd270f41202454d7 美駐聯合國大使克拉夫特挺台, 2020-09-30 / d4a7f9e55282396a 北市區域立委號次抽籤, 2019-12-18 / 10e3a027ce22991c 汽車晶片短缺·美國會議員向蕭美琴求助, 2021-02-25 / 735744492226b90c 2016台美小姐選拔開訓記者會, 2016-06-14): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- deepen-x slice 10080949-18: verified 2026-10-09 — fresh ZH+EN+surname re-grep (李彥秀 / Li Yen-Hsiu / Yen-hsiu Li / 彥秀) across works/articles/sources/events/topics: non-TJJ hits unchanged (whoswho921 already linked; index pages; han-guoyu page carries only the same-name HOLD note); all TJJ hits are the KMT legislator 李彥秀, already covered by the identity HOLD above — SKIP-with-reason: still no corpus material for the Illinois physician himself. -->
