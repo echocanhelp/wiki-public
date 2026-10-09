@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Leroy Chiao (焦立中)
 
@@ -43,7 +43,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Featured in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1386|1386. Leroy Chiao 焦立中 / 2016/11]] (published 2016-11-06).
-- Corpus check 2026-09-18: no community/movement activity beyond this bibliographic record in works+articles; no additional facts absorbable, no conflicts. Corpus re-scan 2026-09-22 (slice 11), 2026-09-25 (slice 17), and 2026-09-26 (slice 14): no new material — SKIP.
+- Corpus check 2026-09-18: no community/movement activity beyond this bibliographic record in works+articles; no additional facts absorbable, no conflicts. Corpus re-scan 2026-09-22 (slice 11), 2026-09-25 (slice 17), 2026-09-26 (slice 14), and 2026-10-09 (slice 10070714-3): no new material — SKIP. Surname hits under 焦 (Yung Chiao Wei, Ming Chiao Lai) and 'Leroy' (Marcy Leroy Ditmanson) are different people.
 
 ## Sources
 - [TAH #1386 encyclopedia: 1386. Leroy Chiao 焦立中/ 2016/11](https://taiwaneseamericanhistory.org/whoswho1386/)

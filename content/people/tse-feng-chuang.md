@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Tse feng Chuang (莊澤豐)
 
@@ -43,6 +43,8 @@ Fresh greps 2026-09-21 / 2026-09-22 / 2026-09-25 (莊澤豐 / Tse feng Chuang, d
 Corpus presence is limited to his TAH encyclopedia bibliographic record — no memoir or article mentions found in content/works or content/articles beyond it:
 
 - [[works/taiwaneseamericanhistory-org/979-tse-feng-chuang-e8-8e-8a-e6-be-a4-e8-b1-90-201605|TAH #979 encyclopedia record 莊澤豐]] (2016/05)
+
+Re-verified 2026-10-09 (deepen-x slice 10070714-3): fresh grep across works/articles/sources/events/topics for 莊澤豐 / Tse feng Chuang / 澤豐 returns only his own record and the index — SKIP confirmed, nothing absorbable.
 
 ## Sources
 - [TAH #979 encyclopedia: 979. Tse feng Chuang 莊澤豐 / 2016/05](https://taiwaneseamericanhistory.org/979-tse-feng-chuang-%e8%8e%8a%e6%be%a4%e8%b1%90-201605/)
