@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Felicia Chou (周馥亞)
 
@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Corpus re-scan 2026-10-08 (slice 10062248-5): fresh ZH+EN grep across works/ + articles/ + sources/ + events/ + topics/ returns the identical hit set (#168 own entry, mislinked #1823 許蕙茹, unconfirmed #1438, works index) — verified saturated; SKIP-deepen, HOLD on the #1823 hanzi conflict stands.
+- Corpus re-scan 2026-10-09 (slice 10080720-7): fresh ZH+EN grep across works/ + articles/ + sources/ + events/ + topics/ returns the identical hit set. Wider 'Felicia' sweep checked and distinguished: 'Feliciano Lopez' (article, tennis) and 'Felicia Lin' (works/taiwaneseamerican-org pieces) are different people — not absorbed. Verified saturated; SKIP-deepen, HOLD on the #1823 hanzi conflict stands.
