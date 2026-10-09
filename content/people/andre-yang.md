@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Andre Yang (楊基定)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09261100-7: verified-saturated (2026-10-01) — fresh ZH+EN grep of content/works + content/articles returns only already-absorbed records (ourjourneys244/256, whoswho1076) + index; no new community material. SKIP stands. -->
+<!-- deepen-x slice 10080720-20 (2026-10-09): verified-saturated re-check — fresh ZH+EN+surname grep (楊基定 / Andre Yang / 基定) across works/articles/sources/events/topics returns the identical hit set (ourjourneys244, ourjourneys256, whoswho1076, works/index, sources index) — all already absorbed above. No new material. -->
