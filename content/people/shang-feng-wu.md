@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Shang-Feng Wu (吳上峯)
 
@@ -46,4 +46,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-<!-- deepen-x recheck 2026-09-26 (slice 09251023-27): fresh ZH+EN grep of works/+articles/ — hit set identical to prior sweeps (own TAH record + index only; Julan: own works + 婦女信箱 roster already cited). No new absorbable material. SKIP stands. -->
+<!-- deepen-x recheck 2026-09-26 (slice 09251023-27): fresh ZH+EN grep of works/+articles/ — hit set identical to prior sweeps (own works + 婦女信箱 roster already cited). No new absorbable material. SKIP stands. -->
+<!-- deepen-x recheck 2026-10-09 (slice 10080735-24): fresh grep across works/articles/sources/events/topics for 吳上峯/吳上峰/吴上峰/Shang-Feng Wu — hits are only the two already-cited TAH records (#335, #922), the already-absorbed Our Journeys #301 memoir passage, and index lines. Verified saturated; SKIP stands. -->
