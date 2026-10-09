@@ -177,3 +177,5 @@ Comparative frame from [[sources/zh-wikipedia-lai-ching-te||zh.wp]]; movement-re
 
 <!-- TJJ-A10070700-18: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-18 articles a20fb275（刺蔣案策劃者登記總統連署, 2023-09-18）/ f6ed9463（2013-04-12 核四表決公督盟名單）/ 996879ac（FAHR第44屆年會暨鄭南榕紀念獎頒獎, 2020-11-25）/ 0258611f（520就職報導, 2024-05-19）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10070700-20: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-20 article 4c65a9af (520就職典禮報導, 中央社記者, 2024-05-19 刊／2024-06-13 快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100606005-c: verified 2026-10-09 — wave-2 link+deepen re-check of article 1fbc7a8aff9cd26e (藍綠台北衝選情, 自由時報 2019-12-22): subject link re-checked vs 正文 this attempt (率車隊繞行雙北、民生社區直播同場吳怡農/許淑華), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
