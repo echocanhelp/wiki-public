@@ -112,3 +112,5 @@ last_reviewed: 2026-09-24
 
 <!-- TJJ-A10060400-3: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-3 articles (A1: 23a52af3 「記憶的神經科學」標籤頁: 主講黃勝雄、文字紀錄吳瑞惠 真實見於條目; frontmatter authors[] 16 人是標籤頁模板帶出的全站專欄作者, 非本篇參與者): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060800-6: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-6 article be7ac05c58e6eab6 (黃勝雄醫師「老人的記憶與記憶的神經科學」講座全文, 2017-02-23): subject link re-checked vs 正文 this attempt (「◎講師 黃勝雄醫師」主講人記述確認見於正文), real, no wrong/spurious links; 2017-02-23 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-4: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-4 article 23a52af3dcf8a6ce (「記憶的神經科學」標籤頁, 2024-07-23 快照): subject link re-checked vs 正文 (本人為 2017-02-23「老人的記憶與記憶的神經科學」演講主講人), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

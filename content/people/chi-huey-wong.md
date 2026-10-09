@@ -72,3 +72,5 @@ CORPUS SCAN (2026-09-23, slice 09221100-15; re-run 2026-09-24, slice 09230600-6)
 <!-- TJJ-A10020500-1: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10020500-1 article 59a68b9cd855c1bf (司法不公國耻之最：聲援翁啟惠連署, 2021-09-10): subject link re-checked vs 正文 (本人為連署聲援對象, 浩鼎案2018-12獲無罪仍遭彈劾), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-3: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-3 articles (A3: 59a68b9c 司法不公國耻之最聲援翁啟惠連署, 2021-09-10刊: 聯絡人梁耕三/號召人謝清志博士/聲援對象翁啟惠 真實見於正文): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-4: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-4 article 59a68b9cd855c1bf (司法不公國耻之最：聲援翁啟惠連署, 2021-09-10): subject link re-checked vs 正文 (本人為連署聲援對象, 浩鼎案獲無罪仍遭監院彈劾), real, no wrong/spurious links; dated fact w/ article wikilink already in section above (Role in the Community) — saturated, no new material. -->

@@ -71,3 +71,5 @@ Michelle Wu was born in 1985 in Chicago, Illinois to Taiwanese immigrant parents
 <!-- TJJ-A10030500-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-2 articles (58ad9964 TIME100Next 吳怡農/吳弭 / 0c56e79f 園藝分類頁 / f631078d 海外小英後援會助選團 / 8fc11ca0 韓國瑜預算協商): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-3: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-3 articles (A4: 58ad9964 TIME 100 Next 報導, 2022-09-28刊: 吳怡農入選/吳弭同榜 真實見於正文): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-4: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-4 article 58ad99649eba6f6f (TIME 100 Next, 2022-09-28): subject link re-checked vs 正文 (波士頓市長吳弭同榜入選, Pressley撰文介紹), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

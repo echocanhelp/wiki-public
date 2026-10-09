@@ -97,3 +97,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10060800-3: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-3 article 11761bdaa78af55f (台灣頭條 category p3, 2020-06-25 快照): 「陳其邁21日偕吳怡農見邁粉 拉近與年輕人距離」清單條目確認見於正文, subject link 為真, 無錯鏈、無虛鏈; 2020-06-20 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070600-2: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10070600-2 article f631078d99d9924d (2020海外小英後援會助選團返台助選, 2020-01-06刊): subject link(s) re-checked vs 正文 this attempt (田詒鴻會長世代交替談話、吳怡農高嘉瑜顏值組合掃街), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-4: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-4 article 58ad99649eba6f6f (TIME 100 Next, 2022-09-28): subject link re-checked vs 正文 (本人以壯闊台灣聯盟發起人身分入選), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
