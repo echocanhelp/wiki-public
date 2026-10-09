@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # J. Y. Lin (林哲也)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 
 > Deepen pass 2026-10-06 (slice 10051143-15): re-grepped 林哲也/J. Y. Lin across works/articles/sources/events/topics — hits exactly the already-linked set (ourjourneys76 ZH/EN, ourjourneys58, ourjourneys293 ZH/EN, whoswho1202); ourjourneys225 match is a false positive (阿哲也, story narrator 阿哲, not this person). Nothing new absorbable.
 > Deepen pass 2026-10-08 (slice 10060950-1): re-grepped — hit set identical (ourjourneys76 ZH/EN, ourjourneys58, ourjourneys293, whoswho1202, indexes). Saturated, SKIP.
+> Deepen pass 2026-10-09 (slice 10080400-4): re-grepped 林哲也/J. Y. Lin across works/articles/sources/events/topics — hit set identical again (ourjourneys76 ZH/EN, ourjourneys293 ZH/EN, ourjourneys58, whoswho1202, index/source stubs). Verified saturated.
