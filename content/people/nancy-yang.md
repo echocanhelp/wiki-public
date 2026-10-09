@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Nancy Yang (陳玲銖)
 
@@ -38,7 +38,7 @@ Nancy Yang graduated from the University of California, Berkeley, with a Master�
 
 - **First woman graduate of the U.S. Naval Academy:** The community record honors her as "First Woman graduate of Navy Academy of U.S. / 1983" ([[works/taiwaneseamericanhistory-org/194-nancy-yang-first-woman-graduate-of-navy-academy-of-u-s-1983|TAH record #194]]). HOLD: conflict — TAH record #194 credits the 1983 U.S. Naval Academy graduation while the press-kit bio states a UC Berkeley B.A. Mathematics / M.A. Statistics; the tah-tables Employment entry 舊金山海軍航空基地 corroborates a Navy path. Not auto-merged.
 - **Profiled twice in the TAH story corpus:** featured pieces [[works/taiwaneseamericanhistory-org/858-nancy-yang-201602|TAH record #858]] (dated 2016-02-28) and [[works/taiwaneseamericanhistory-org/whoswho1025|TAH record #1025]] (dated 2016-05-27), plus an early directory entry [[works/taiwaneseamericanhistory-org/25-e9-99-b3-e7-8e-b2-e9-8a-96-nancy-yang|TAH record #25]] (dated 2014-12-24); the first-woman-graduate honor itself is record #194, dated 2016-02-10. Full texts remain in the vault; corpus entries are bibliographic records only. Re-grepped 2026-09-25 (slices 09231000-28, 09250400-12): hit set unchanged (#194, #858, #1025, #25, index; whos-s-c-yang/mystories267 matched only the loose EN pattern, no 陳玲銖 body text) — verified-saturated, SKIP.
-- **Family:** granddaughter of 楊金虎 (per Family section; father 楊冠傑, mother 楊雪鳳).
+- **Family:** granddaughter of 楊金虎 (per Family section; father 楊冠傑, mother 楊雪鳳). Mother 楊雪鳳 (S. F. Yang) holds her own TAH Who's Who record — [[works/taiwaneseamericanhistory-org/whoswho1530|1530. S. F. Yang 楊雪鳳 / 2017/02]] (2017-02-26) — and is cross-linked on [[people/s-f-yang|her vault page]], which names Nancy as her daughter.
 
 ## Sources
 - [TAH #1025 encyclopedia: 1025.  Nancy Yang 陳玲銖 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1025/)
@@ -52,3 +52,4 @@ Nancy Yang graduated from the University of California, Berkeley, with a Master�
 <!-- deepen-x slice 09252123-14 (2026-09-26): verified-saturated — fresh ZH+EN re-grep hit set unchanged (#194, #858, #1025, #25, index; all bibliographic band-B records already cited in Role in the Community); no new absorbable facts. -->
 <!-- deepen-x slice 10051143-4 recheck 2026-10-06: SKIP — fresh ZH+EN re-grep hit set unchanged (#194, #858, #1025, #25, works/sources index; all bibliographic records already cited in Role in the Community); no new absorbable corpus facts. -->
 <!-- deepen-x slice 10060900-3 (2026-10-07): fresh ZH+EN re-grep of works/articles/sources/events/topics — hit set unchanged (#194, #858, #1025, #25, works index; all bibliographic records already cited). Surname sweeps 楊金虎/楊冠傑 returned zero corpus hits. Verified-saturated; SKIP-content, nothing new absorbable, no conflicts. -->
+<!-- deepen-x slice 10071520-2 (2026-10-09): deepened — fresh ZH+EN+surname grep: 楊雪鳳 sweep returns whoswho1530 (S. F. Yang's own record, 2017-02-26) which cross-names Nancy as daughter on [[people/s-f-yang]]; added mother cross-link to Role in the Community. Hit set otherwise unchanged (#194, #858, #1025, #25, index) — rest verified-saturated. -->

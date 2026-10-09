@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Charles Huang (黃啟仁)
 
@@ -40,7 +40,7 @@ last_reviewed: 2026-10-07
 
 ## Family
 
-- **Wife:** Judy Huang 陳東蘭 — herself recorded in the TAH encyclopedia as #1920. ([[works/taiwaneseamericanhistory-org/whos-judy-huang|TAH Who's Who #1920 Judy Huang]])
+- **Wife:** Judy Huang 陳東蘭 — herself recorded in the TAH encyclopedia as #1920, with her own vault page [[people/judy-huang|Judy Huang]]. ([[works/taiwaneseamericanhistory-org/whos-judy-huang|TAH Who's Who #1920 Judy Huang]])
 - **Daughter:** Kelly
 - **Son:** Nicholas
 
@@ -55,3 +55,4 @@ last_reviewed: 2026-10-07
 <!-- deepen-x 09251527-15: SKIP re-verified 2026-09-26 — fresh ZH+EN grep returns exactly OJ#33, story #749, own entry #1919 + works index, all already linked; verified-saturated. -->
 - Corpus re-grep (slice 10051143-5, 2026-10-06): fresh 黃啟仁/Charles Huang grep of works/articles/sources/events/topics — hit set unchanged (OJ#33-eng, mystories-749, whos-who-1919 + works/index); all already linked above; verified-saturated, nothing new absorbable.
 - Corpus re-grep (deepen-x slice 10060900-3, 2026-10-07): fresh 黃啟仁/Charles Huang grep of works/articles/sources/events/topics — hit set unchanged (OJ#33-eng incl. his own 01/2018 MFCF→TAF account, mystories-749, whos-who-1919, works index). Org-name sweep 台美協進會 hits (ff160, taf-summer-conference, activities-of-taf, etc.) do not name him personally. Verified-saturated; SKIP-content, nothing new absorbable, no conflicts.
+<!-- deepen-x slice 10071520-2 (2026-10-09): deepened — fresh 黃啟仁/Charles Huang grep hit set unchanged (OJ#33-eng, mystories-749, whos-who-1919, works index); added vault cross-link to wife [[people/judy-huang|Judy Huang 陳東蘭]]'s existing page. No new community facts; no conflicts. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Wen Jer Chen (陳文哲)
 
@@ -37,9 +37,9 @@ last_reviewed: 2026-10-07
 
 ## Family
 
-- **Wife:** Patsy Fang方秀蓉
-- **Daughter:** Wendy Fang Chen 陳丹蘋.
-- **Daughter:** Justine Fang Chen 陳潔思
+- **Wife:** Patsy Fang 方秀蓉 — [[people/patsy-fang-chen|Patsy Fang Chen]], pianist/educator (NYU M.S. Music Education, 1980), TAH Who's Who.
+- **Daughter:** Wendy Fang Chen Tilp 陳丹蘋 — [[people/wendy-fang-chen-tilp|Wendy Fang Chen Tilp]], pianist/composer, Juilliard faculty.
+- **Daughter:** Justine Fang Chen 陳潔思 — [[people/dr-justine-fang-chen|Dr. Justine Fang Chen]], artist/educator (T.A. Archives, 台美史料中心).
 
 
 ## Sources
@@ -53,3 +53,4 @@ last_reviewed: 2026-10-07
 - Corpus re-grep 2026-10-01 (deepen-x slice 09261000-30): full ZH+EN grep (陳文哲/Wen Jer Chen) of works/ + articles/ returns only whos1402, eulogy mystories484 and the works index — hit set unchanged; verified saturated, SKIP with reason (nothing new absorbable).
 <!-- deepen-x slice 10051143-3 (2026-10-06): saturated re-verify — fresh ZH+EN grep (works/articles/sources/events/topics) hit set unchanged (whos1402, mystories484, works index); all absorbed above. SKIP-content. -->
 <!-- deepen-x slice 10060900-3 (2026-10-07): fresh ZH+EN grep (works/articles/sources/events/topics) — hit set unchanged (whos1402, eulogy mystories484, works index); mentor sweep Sansaricq returns only mystories484 (already linked); 2026 news-tag 文哲 hits remain substring noise. Verified-saturated; SKIP-content, nothing new absorbable, no conflicts. -->
+<!-- deepen-x slice 10071520-2 (2026-10-09): deepened — fresh ZH+EN grep hit set unchanged (whos1402, mystories484, works index; Sansaricq sweep = mystories484 only). Family section now wikilinks the three existing vault pages [[people/patsy-fang-chen|Patsy Fang Chen]], [[people/wendy-fang-chen-tilp|Wendy Fang Chen Tilp]], [[people/dr-justine-fang-chen|Dr. Justine Fang Chen]] — reciprocal links verified present on all three children's/spouse's pages. Corpus content saturated. -->
