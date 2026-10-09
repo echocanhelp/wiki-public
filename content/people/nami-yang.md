@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Nami Yang (李淑櫻)
 
@@ -140,3 +140,10 @@ Her own writings/records additionally held in the vault (existing pages, no new 
 
 <!-- TJJ-A10070900-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-2 article cd2062fe6528223c (台灣之美‧亞洲之心LA展報導, 2017-03-14刊, 2024-07-24快照): subject link re-checked vs 正文 this attempt — 本篇圖/文作者、以新藝畫會會員受邀參展確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10071500-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071500-2 — article c48e08c7f2c3bf8d (Covid-19 浩劫餘生錄分類頁, 2020-11-20 存檔) 「人生的海嘯 ◎李淑櫻」署名; subject link re-checked vs 正文 this attempt — 真實提及, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## Deepen pass 2026-10-09 (corpus re-grep, slice 10080949-14)
+Fresh ZH+EN grep across works/articles/sources/events/topics surfaced 18 additional TAH works authored by her (李淑櫻 / Nami Lee / Nami Yang) not previously wikilinked on this page — her column/interview output as journalist, plus her own art records:
+- Art works of her own: [[works/taiwaneseamericanhistory-org/162-e5-8f-b0-e7-be-8e-e8-97-9d-e8-a1-93-e5-ae-b6-e8-81-af-e5-b1-95-e6-9d-8e-e6-b|TAH #162: 台美藝術家聯展 / 2004-09]], [[works/taiwaneseamericanhistory-org/161-e6-9d-8e-e6-b7-91-e6-ab-bb-e7-95-ab-e5-86-8a-e6-9d-8e-e6-b7-91-e6-ab-bb20080|TAH #161: 李淑櫻畫冊 / 2008-02]], [[works/taiwaneseamericanhistory-org/mystories17|TAH #17: 繪畫的心路歷程]], [[works/taiwaneseamericanhistory-org/51032|TAH #661: 無法忘懷 / 2018-11]]
+- Interviews/profiles she wrote: [[works/taiwaneseamericanhistory-org/mystories150|TAH #150: 張超英這個人 / 2018-11]], [[works/taiwaneseamericanhistory-org/mystories164|TAH #163: 專訪方幸七 / 2014-12]], [[works/taiwaneseamericanhistory-org/mystories201|TAH #201: 音樂、繪畫、牧會——專訪李仁豪牧師 / 2015-02]], [[works/taiwaneseamericanhistory-org/mystories120|TAH #120: 專訪葉思雅醫師 / 2014-10]], [[works/taiwaneseamericanhistory-org/mystories119-william-ko-railroad|TAH #119: 柯威霖博士的鐵道故事畫集 / 2014-10]], [[works/taiwaneseamericanhistory-org/mystories110|TAH #110: 琴韻傑出的康瑋倫]], [[works/taiwaneseamericanhistory-org/mystories112|TAH #112: 仙杜拉琴韻心聲 / 2014-10]], [[works/taiwaneseamericanhistory-org/mystories117|TAH #117: 琴韻真善美——訪鋼琴家陳丹怡]], [[works/taiwaneseamericanhistory-org/mystories127|TAH #127: 訪鋼琴家陳泰成]], [[works/taiwaneseamericanhistory-org/mystories128|TAH #128: 人物專訪——陳河源]], [[works/taiwaneseamericanhistory-org/mystories131|TAH #131: 追思台美人爵士樂泰斗李奎然教授]], [[works/taiwaneseamericanhistory-org/mystories-743|TAH #743: 緬懷鄭寶鼎先生 / 2020-09]], [[works/taiwaneseamericanhistory-org/mystories603|TAH #603: 由小看大——好奇寶寶 / 2017-11]]
+- From her 千楓藝術台 program: [[works/taiwaneseamericanhistory-org/footsteps-36|TAH footsteps #36: 余忠村博士與布袋戲偶 / 2021]], [[works/taiwaneseamericanhistory-org/footsteps-29|TAH footsteps #29: Dr. George Tseng's First Pitch / 2019]]
+- Note: [[works/taiwaneseamericanhistory-org/150-the-person-of-chang-chao-ing]] and [[works/taiwaneseamericanhistory-org/133-remembering-simeon]] are duplicate catalog pages of mystories #150 / #133 already linked above. Her community footprint (TAAA, Neo Art League, NATWA S. CA, 台美人筆會) unchanged and already wikilinked; no conflicting dates found — no HOLD.
