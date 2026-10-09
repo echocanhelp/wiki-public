@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Chi-Chin Huang (黃際鑫)
 
@@ -44,6 +44,7 @@ Source from Taiwanese Association of American Greater Washington Chapter Special
 - 複核（2026-10-01, deepen-x slice 09261100-28）：fresh ZH+EN full-corpus grep（黃際鑫 / Chi-Chin Huang）僅見 ourjourneys-138、ourjourneys76（含 -eng 版）、own TAH #1382、works/index — 已全數吸收；另組織頁與同人頁（TAA Greater Cleveland、TAA Houston、donald-c-j-chen、yi-ho-cheng）仅重複引用同批回憶錄，無新事实。
 - 複核（2026-10-06, deepen-x slice 10051143-24）：再 grep works/articles/sources/events/topics 僅見同一組已吸收記錄（ourjourneys76／76-eng 全美會登記、ourjourneys-138 華府回憶、TAH #1382、index），無新语料 — SKIP-with-reason.
 - 複核（2026-10-08, deepen-x slice 10060950-3）：fresh ZH+EN full-corpus grep（黃際鑫 / Chi-Chin Huang / 際鑫，works/articles/sources/events/topics）僅見 ourjourneys76（含 -eng）、ourjourneys-138、own TAH #1382、index — 已全數吸收，無新语料 — SKIP-with-reason.
+- 複核（2026-10-09, deepen-x slice 10080400-16）：fresh ZH+EN full-corpus grep（黃際鑫 / Chi-Chin Huang / Chi Chin Huang / 際鑫）命中集不變（ourjourneys76 含 -eng、ourjourneys-138、whoswho1382、index、sources 頁）— 已全數吸收；「Chi Chin」變體僅指向同名他人（林哲玲 percussionist）與 ourjourneys306 無關記錄，無新语料 — SKIP-with-reason.
 
 ## Sources
 - [TAH #1382 encyclopedia: 1382. Chi-Chin Huang 黃際鑫 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1382/)
