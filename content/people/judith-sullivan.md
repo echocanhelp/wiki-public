@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-09
 ---
 # Judith Sullivan (林秀華)
 
@@ -36,6 +36,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - Corpus sweep 2026-09-18: no memoir/community-record hits beyond her own TAH Who's Who entry — no absorbable community facts (SKIP-content). TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/whos-who-2054-judith-sullivan||2054. Judith Sullivan 林秀華]]（2018-03-06, bibliographic record only）. Re-verified 2026-09-25 (deepen-x 09231400-23) and 2026-09-26 (deepen-x 09251039-29): fresh ZH+EN greps return only this record.
+- Re-swept 2026-10-09 (deepen-x 10070714-7): all five corpus dirs re-grepped for Judith Sullivan / 林秀華 / Sullivan. Full names appear only in own record [[works/taiwaneseamericanhistory-org/whos-who-2054-judith-sullivan|TAH #2054]] + index; "Sullivan" hits are Jake/蘇利文 in taiwanjustice news wires and Kara Sullivan in an Erin-Li film interview — different people, rejected. Verified-saturated: nothing absorbable.
 
 ## Sources
 - [TAH #2054 encyclopedia: 2054.  Judith Sullivan 林秀華](https://taiwaneseamericanhistory.org/whos-who-2054-judith-sullivan/)

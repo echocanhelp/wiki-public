@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Kenny Leu (呂蔡嶸)
 
@@ -41,6 +41,8 @@ Corpus scans (2026-09-18, re-verified 2026-09-20, 2026-09-21, 2026-09-25 and 202
 - [[works/taiwaneseamericanhistory-org/whos-who-1985-kenny-leu|1985. Kenny Leu 呂蔡嶸]] (2017-12-28) — his TAH Who's Who entry
 
 Rejected match: the "Dr. & Mrs. Fei-Tung & Shiu-Jen Chiu Leu" family of TPC-St. Louis ([[works/taiwaneseamericanhistory-org/ourjourneys305|Our Journeys 305]]) is a different Leu family — not absorbed.
+
+Re-swept 2026-10-09 (deepen-x 10070714-7): all five corpus dirs re-grepped for Kenny Leu / 呂蔡嶸 / Leu. Full name appears only in own record [[works/taiwaneseamericanhistory-org/whos-who-1985-kenny-leu|TAH #1985]] + index; "Leu" hits (Rebecca Leu in the Pew statement, Ken Leung in a Bertha Bay-Sa Pan bio, Leukemia in a DJ interview) are unrelated — rejected. Verified-saturated: nothing absorbable.
 
 ## Sources
 - [TAH #1985 encyclopedia: 1985. Kenny Leu 呂蔡嶸](https://taiwaneseamericanhistory.org/whos-who-1985-kenny-leu/)
