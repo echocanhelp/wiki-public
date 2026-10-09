@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Jeff Hou (侯志仁博士)
 
@@ -46,3 +46,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-swept deepen-x slice 10070714-12 (2026-10-09): fresh grep 侯志仁/Jeff Hou/志仁 across all five corpus dirs — hit set unchanged (own record [[works/taiwaneseamericanhistory-org/259-jeff-hou-e4-be-af-e5-bf-97-e4-bb-81201502|259. Jeff Hou 侯志仁 / 2015/02]] + index only). The 志仁 hits are 蘇志仁/曹志仁/柯志仁 in unrelated taiwanjustice articles — false positives. SKIP: nothing new absorbable.

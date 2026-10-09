@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # I-Jen Chen (陳一仁醫師)
 
@@ -40,3 +40,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-swept deepen-x slice 09251054-17 (2026-09-26): fresh grep 陳一仁/I-Jen Chen — hit set unchanged (own memoir [[works/taiwaneseamericanhistory-org/ourjourneys281|281. 如是，我為]] + own Whos Who record only). SKIP: nothing new absorbable.
+- Re-swept deepen-x slice 10070714-12 (2026-10-09): fresh grep 陳一仁/I-Jen Chen/一仁 across works/articles/sources/events/topics — hit set unchanged (own memoir [[works/taiwaneseamericanhistory-org/ourjourneys281|281. 如是，我為：自己的老年狄斯耐樂園自己建造！]], own Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1452|1452. I-Jen Chen 陳一仁 / 2017/01]], index listings only). SKIP: nothing new absorbable.

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Jamy R.M. Liu (尤瑞美)
 
@@ -45,3 +45,4 @@ last_reviewed: 2026-10-01
 - Personal record in corpus: [[works/taiwaneseamericanhistory-org/73-jamy-r-m-liu-e5-b0-a4-e7-91-9e-e7-be-8e|73. Jamy R.M. Liu 尤瑞美]] (published bibliographic record, band B).
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- Re-swept deepen-x slice 10070714-12 (2026-10-09): fresh grep 尤瑞美/Jamy/尤*Liu/瑞美 across all five corpus dirs — hit set unchanged (own record [[works/taiwaneseamericanhistory-org/73-jamy-r-m-liu-e5-b0-a4-e7-91-9e-e7-be-8e|73. Jamy R.M. Liu 尤瑞美]] + index only). The 瑞美 hit in [[works/taiwaneseamericanhistory-org/ourjourneys154|ourjourneys154]] is 林瑞美, a different person (2002 點心擔 column editor) — false positive. HOLD on the John Chun Liu family-field conflict above stands. SKIP: nothing new absorbable.

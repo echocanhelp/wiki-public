@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # P. F. Yu Name (喻鵬飛)
 
@@ -43,3 +43,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-swept deepen-x slice 09251054-17 (2026-09-26): fresh grep 喻鵬飛/P. F. Yu — hit set unchanged (own TAH record [[works/taiwaneseamericanhistory-org/whoswho948|949. P. F. Yu Name 喻鵬飛]] + works index only). SKIP: nothing new absorbable.
+- Re-swept deepen-x slice 10070714-12 (2026-10-09): fresh grep 喻鵬飛/P. F. Yu/鵬飛 across all five corpus dirs — hit set unchanged (own TAH record [[works/taiwaneseamericanhistory-org/whoswho948|949. P. F. Yu Name 喻鵬飛 / 2016/04]] + index only). Other 鵬飛 hits are Canadian foreign minister 商鵬飛 (François-Philippe Champagne) in unrelated taiwanjustice articles — false positives. SKIP: nothing new absorbable.
