@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # L. W. Cheng (鄭良偉)
 
@@ -55,3 +55,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 10051200-32 recheck 2026-10-06: grep 鄭良偉/L. W. Cheng over all corpus dirs — hits confined to 608, 609, 904 + sources index, all already absorbed. Verified saturated, SKIP-no-new-material. -->
 
 <!-- deepen-x slice 10062334-12 recheck 2026-10-08: fresh grep 鄭良偉/L. W. Cheng over all corpus dirs — hits confined to 608, 609, 904 + indexes, all already absorbed. Verified saturated, SKIP-no-new-material. -->
+
+<!-- deepen-x slice 10080720-23 recheck 2026-10-09: fresh grep 鄭良偉/L. W. Cheng/良偉 over all 5 corpus dirs — hit set identical to prior passes (608, 609, 904 + works/index + sources index, all already absorbed; no articles/events/topics hits). Verified saturated, SKIP-no-new-material. -->
