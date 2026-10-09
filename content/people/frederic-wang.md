@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Frederic Wang (王穎裕)
 
@@ -56,3 +56,4 @@ Corpus sweeps 2026-09-20, 2026-09-21, 2026-09-22 and 2026-09-23: the only works 
 - 2026-09-26 deepen-x slice 09252123-30: fresh ZH+EN grep (works+articles) — hit set identical to prior passes, all already linked; verified saturated (SKIP).
 - 2026-10-06 deepen-x slice 10051200-31 recheck: fresh ZH+EN grep across works/articles/sources/events/topics (incl. 穎裕-only sweep) — only [[works/taiwaneseamericanhistory-org/ourjourneys-138|OJ#138]] + own [[works/taiwaneseamericanhistory-org/whoswho1379|#1379]] + index/hub; all already linked. Verified saturated (SKIP).
 <!-- deepen-x slice 10062334-11 recheck 2026-10-08: SKIP — fresh ZH+EN grep (王穎裕/Frederic Wang, plus 穎裕-only sweep) across works/articles/sources/events/topics returns the identical hit set: OJ#138 (華府巴城TAA founding memoir, 創會先鋒獎 president list) + own #1379 + index/source hubs. A broader ITI sweep matched only unrelated tech articles with no 王穎裕 mention — false positives. Verified saturated. -->
+- 2026-10-09 deepen-x slice 10080720-13 recheck: fresh ZH+EN+surname grep (王穎裕 / Frederic Wang / 穎裕) across works/articles/sources/events/topics — identical hit set: OJ#138 + own #1379 + index/source hubs, all already linked. Broader 'Frederic' sweep matched only unrelated items (Frederic Coyett in the Bergvelt interview, music-essay composers) — false positives. Verified saturated (SKIP).
