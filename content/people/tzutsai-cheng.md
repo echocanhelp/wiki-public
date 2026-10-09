@@ -93,3 +93,5 @@ last_reviewed: 2026-10-01
 <!-- TJJ-A10060400-19: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-19 articles a20fb275（刺蔣案策劃者登記總統連署, 2023-09-18）＋996879ac（FAHR第44屆年會暨鄭南榕紀念獎頒獎, 2020-11-25）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060600-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-1 articles (e3440fec3eed8107 籌謀台灣不流血革命: 鄭自才 link (1975 歐台會萊茵遊船初見、與田台仁書信提及) — subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-6: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-6 articles 24119694 刺蔣案50週年線上對談報導（事件主角、刺蔣案意義論述確認見於正文）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

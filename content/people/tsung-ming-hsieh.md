@@ -164,3 +164,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10060900-1: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060900-1 article(s) 8842b0e0aad8032f（唐培理牧師GWU座談「美知台白色恐怖但保持緘默」VOA報導, 2011-11-23）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-1: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10070700-1 articles 9a39a754d2a3b236 (吳澧培回憶錄前言「一個堅持和無數的巧合」, 2015-10-12) / 5d471dbe6e4efbde & 74f89ee82c85dc78 (唐培禮訃聞+鄭世璋新使者文, 兩存檔, 2017-03-12) / 9c6973783db0011a (中央社記者黃淑芳游朝凱游銘泉專訪, 2024-07-06): subject links re-checked vs 正文 this attempt, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-6: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-6 articles da7f84e2 人民自救宣言59週年報導（謝秀美與會、林本原引述阿部悠輔訊問筆錄為其生前追查史料，確認見於正文）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
