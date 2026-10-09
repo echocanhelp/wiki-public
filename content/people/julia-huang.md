@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Julia Huang (黃馨儀)
 
@@ -39,6 +39,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-check 2026-09-26 (slice 09251023-23): 再次 ZH+EN 全庫比對，hit set 不變（#1254 書目、Our Journeys #128、同名異人報導）；無新材料可吸收。SKIP。
 - Corpus re-check 2026-10-01 (slice 09261200-25): fresh ZH+EN grep (`黃馨儀|Julia Huang`) — hit set unchanged (#1254 書目、Our Journeys #128、works/index.md 目錄列、黃儀嬙報導). No new memoir material; SKIP stands, HOLD 保留（黃儀嬙 confirmed 同名異人 — 中央社 2025-04-27 專電指其為廣告公司 Intertrend 執行長、來自台灣、任長堤市文化與藝術委員會主席，與本頁 neurologist 黃馨儀 非同一人）.
 - Corpus re-check 2026-10-08 (slice 10062218-1): fresh ZH+EN grep (`黃馨儀|Julia Huang`) across works/articles/sources/events/topics — hit set unchanged (#1254 書目、Our Journeys #128 音樂會名單、黃儀嬙同名異人報導、sources hub 目錄列); no new memoir material. SKIP stands; HOLD on 黃儀嬙 identity mixup retained.
+- Corpus re-check 2026-10-09 (slice 10080400-30): fresh ZH+EN grep (`黃馨儀|Julia Huang`) across works/articles/sources/events/topics — hit set unchanged (#1254 書目、Our Journeys #128 音樂會名單、index/sources 目錄列、黃儀嬙同名異人報導); 無新回憶錄材料可吸收。SKIP stands; HOLD on 黃儀嬙 identity mixup retained.
 - HOLD: 身份混淆風險 — [[articles/taiwanjustice-net/2025/20250420095306_洛杉磯奧運長堤市聚焦文化活力-舵手黃儀嬙來自台_0016cba25b93f8cb|台灣時報轉錄（2025-04）]] 之「Julia Huang 黃儀嬙」（Intertrend 執行長、長堤市文化與藝術委員會主席）漢名與本頁 黃馨儀 不同，疑似同名異人，未合併。
 
 ## Sources
