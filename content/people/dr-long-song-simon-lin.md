@@ -107,3 +107,5 @@ Role anchors already on this page's TAH table map to vault pages: [[organization
 <!-- TJJ-A10060800-7: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-7 article 9de57bf0b60501a7 (Tag: 林榮松, 2023-05-30 存檔): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070900-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-1 article 71a7c64663ea03b6 (大洛杉磯台灣會館疫情濟困報導, 2020-06-23 發文 / 2021-01-17 快照, twin c05e2d53): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article or twin wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070900-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-3 article c05e2d53013fcd15 (2020-06-23 大洛杉磯台灣會館疫情濟困報導): subject link re-checked vs 正文 this attempt, real (執行長林榮松醫師捐贈250面罩予Whittier Hospital、與蔡漢成主導文獻數位化方案確認見於正文), no wrong/spurious links; 2020-06-23 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

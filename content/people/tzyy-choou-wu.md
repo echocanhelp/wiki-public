@@ -91,3 +91,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10040500-9: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-9 article 29faf54b8c9e2d10 (2017美東台灣人夏令會報導/楊遠薰, 2021-12-05快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060600-6: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-6 article d2dbfe220e437602（2017 美東台灣人夏令會報導（楊遠薰, 29faf54b8c9e2d10 同文再存檔副本））: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070900-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-3 article d2dbfe220e437602 (2017美東台灣人夏令會報導, twin 29faf54b): subject link re-checked vs 正文 this attempt, real (吳子丑以新科中央研究院院士、JHU醫學教授暨巴爾的摩台灣同鄉會鄉親身分專題演講確認見於正文), no wrong/spurious links; 2017-07 dated fact w/ article or twin wikilink already in From the record — saturated, no new material. -->

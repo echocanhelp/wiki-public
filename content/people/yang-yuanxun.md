@@ -10941,3 +10941,5 @@ Notable quotes and mentions of **楊遠薰** in Taiwan Justice articles:
 <!-- TJJ-A10060800-8: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060800-8 article e38ae3f755e47f77 (楊遠薰 tag p2, 2024-05-27快照): subject link re-checked vs 正文 this attempt (2016 年八篇專欄清單), real, no wrong/spurious links; 2016-08-19 dated fact present — wikilink to e38ae3f755e47f77 ADDED this attempt (previously cited the 2024-05-27 snapshot in prose only, linked solely to the 2021-12-07 early-crawl copy 23197ebf177d0b6a) — otherwise saturated, no new material. -->
 
 <!-- TJJ-A10070800-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-1: 本文為 e3440fec3eed8107 與彭昕三副本之作者頁（frontmatter authors 連結），非 subject 條目；正文再驗證作者歸屬為真，無錯鏈、無虛鏈；本頁非事實承載頁 — saturated, no new material. -->
+
+<!-- TJJ-A10070900-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-3 article d2dbfe220e437602 (2017美東台灣人夏令會報導, twin 29faf54b): author/byline link re-checked vs 正文 this attempt, real (本文即楊遠薰報導, 署名見於標題與首行), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
