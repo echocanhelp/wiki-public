@@ -100,3 +100,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10071400-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071400-2 article 9de57bf0b60501a7 (Tag: 林榮松, 2023-05-30 存檔): 楊熾勳 link re-checked vs 2021-05-06 五人世衛論壇影音條目, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10071400-1: verified 2026-10-09 — wave-2 link+deepen re-check of article 80c0a825a7a661b6 (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, 2025-11-08快照): subject link 楊熾勳 re-checked vs 正文 this attempt (楊熾勳 列名共同發起人清單, 漢名與本頁標題相符), real, no wrong/spurious links; 2021-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10080501-4: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080501-4 article cd646b8698e12d2b (Tag: 台灣加入世衛組織的歷程與展望, 2021-06-20 存檔): 楊熾勳 link re-checked vs 正文 this attempt (焦點影音條目「林榮松+許正雄+邱俊杰+楊熾勳+吳兆峯 談台灣加入世衛組織的歷程與展望[影]」確認見於正文), real, no wrong/spurious links; 2021-05-06 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
