@@ -47,3 +47,8 @@ secrets/
 # GitHub Pages checkout (`submodules: recursive` → exit 128)
 .worktrees/
 
+
+# deepen-x worker scratch: per-slice work files, regenerated every pass.
+# These MUST stay untracked: git add -A swept ~32k of them into one commit and the
+# Pages deployer timed out polling updating_pages. 2026-10-08.
+knowledge/operational/deepen-x-slice-*.txt
