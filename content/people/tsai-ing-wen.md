@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 name_en: "Tsai Ing-wen"
 ---
 # Tsai Ing-wen (蔡英文)
@@ -27,7 +27,15 @@ name_en: "Tsai Ing-wen"
 - **Tracked in diaspora-org chronicles:** her 2016 campaign headquarters press conference (蔡英文、陳建仁總部記者會) is entered in the 北美臺灣客家公共事務協會 (NTAKA) institutional timeline ([[works/taiwaneseamericanhistory-org/ourjourneys290|290. 北美臺灣客家公共事務協會 / 徐民忠 / 05/2017]]) — i.e. her candidacy is recorded inside our own community organizations' histories, not only in press reposts.
 - Other diaspora-recorded facts (Travel Act essay, Chicago 50-year memoir, 助選演唱會) sit in "From the record" below with their work links.
 - **HOLD:** president-term and policy labels stay as taiwanjustice.net coverage only; expand with primary sources, not press knowledge.
+- **2015 campaign trail in our own records:** her 2015-05-31 Chicago welcome rally (Midwest + Ontario diaspora driving in, ~1,000 attendees, framed as "把台灣赢回來") is a first-person account in the Our Journeys record [[works/taiwaneseamericanhistory-org/journey-149|journey-149]]; a 2015-06-04 Washington DC rally video [[works/taiwaneseamericanhistory-org/videos46|videos46]] and artist Susan Hsiu-fang Liu's painting of the 2015 US visit [[works/taiwaneseamericanhistory-org/footsteps-21|footsteps-21]] keep the campaign in visual record.
+- **2016 election as a community milestone:** an elder memoir recounts the 2016 win (3.08M votes, congress majority) as "歷史上台灣人跨出民主的第一大步" after decades of struggle against party assets and vote-buying — a diaspora-internal reading, not press coverage ([[works/taiwaneseamericanhistory-org/ourjourneys216|216]]); Lin Jingxian's essay "守信的蔡英文總統" (06/2016) is a diaspora trust endorsement [[works/taiwaneseamericanhistory-org/mystories445|mystories445]]; "Vote Tsai Ing-wen 2016" vest and flag are held as movement artifacts [[works/taiwaneseamericanhistory-org/artifacts-83|artifacts-83]].
+- **First US visit as president, June 2016, in community video:** the Los Angeles welcome (千人歡迎, 2016-06-30) is recorded on video [[works/taiwaneseamericanhistory-org/videos39|videos39]], alongside the dedicated TAH record of the whole trip ([[works/taiwaneseamericanhistory-org/4-president-tsai-ing-wen-of-taiwan-first-time-visited-u-s-a-on-june-24-30-2016|TAH #4]]).
+- **2016-12-02 Trump phone call, held in TAH record:** the first president-elect/president call since 1976 is archived as an important-2016 document [[works/taiwaneseamericanhistory-org/important2016-21|important2016-21]] — the WaPo "bargaining chip" lament below is the diaspora-side reaction to this event.
+- **Inauguration-eve congressional record:** HCR 88 (Taiwan Relations Act + Six Assurances as the 基石 of US policy) passed unanimously in the House on 2016-05-16, on the eve of her inauguration — an FAPA achievement (Coen Blaauw) told from inside the movement [[works/taiwaneseamericanhistory-org/ourjourneys228|228]].
+- **Taiwanese-language policy in Yang Yuanxun's memoir:** in 2018-05 President Tsai traveled south to unveil the 台灣語文園區 (Taiwanese-language park, converted from an artillery barracks, championed by 關懷文教基金會's 周清玉), addressing the neglect of 台語 vs. 客語/原住民語 [[works/taiwaneseamericanhistory-org/our-journeys-383|383]].
+- **WHO exclusion noted in diaspora record:** the Our Journeys record attributes Taiwan's non-invitation to the World Health Assembly since 2017 to Beijing's pressure after Tsai's election [[works/taiwaneseamericanhistory-org/our-journeys-360|360]].
 - Corpus re-grep 2026-09-22 (slice 09211123-2, via alias stub [[people/cai-yingwen]]): content/works hits videos47, ourjourneys320, our-journeys-378, ourjourneys290, 12-26, 4-president-tsai — all now wikilinked.
+- Corpus re-grep 2026-10-09 (slice 10080949-9): fresh ZH+EN sweep of content/works|articles|sources|events|topics — new primary/community records journey-149, videos39, videos46, important2016-21, ourjourneys228, ourjourneys216, mystories445, artifacts-83, footsteps-21, our-journeys-383, our-journeys-360 absorbed and wikilinked above.
 
 ## Source Notes
 
@@ -199,3 +207,5 @@ name_en: "Tsai Ing-wen"
 <!-- TJJ-A100607007-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 2a3226a1b19c5a46 (中央社記者蕭美琴副手專稿轉載, 2023-11-20刊, 2023-12-08快照): subject link re-checked vs 正文 this attempt — 賴蕭配「延續蔡英文路線」及「蕭美琴和蔡英文關係深厚」記述確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink (2023-11-20) already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10080401-12: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-12 article b63290424caedcf7 (LA Times「Law scholar nominated for Taiwan presidency, could be 1st woman to lead island」, Ralph Jennings, 2015-04-16 發文 / 2024-06-16 快照) read fresh this attempt: subject link re-checked vs 正文 — 蔡英文為本文主角、民進黨週三提名其參選2016年1月總統選舉、民調領先至少10百分點、2012敗馬51%對46%、Cornell Law＋LSE 學歷、或為首位女性領導人等論述確認見於正文, real, no wrong/spurious links; 2015-04-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10080949-9: deepened 2026-10-09 — fresh corpus-only sweep (ZH+EN+surname across works/articles/sources/events/topics) surfaced 11 TAH community/primary records absent from the page: 2015 Chicago rally memoir (journey-149) + DC rally video (videos46) + 2015 US-visit painting (footsteps-21); 2016 elder election memoir (ourjourneys216), Lin Jingxian essay (mystories445), campaign vest/flag (artifacts-83); LA welcome video (videos39); Trump-call document (important2016-21); HCR 88 inauguration-eve FAPA record (ourjourneys228); 2018 台語文園區 unveiling in Yang Yuanxun memoir (our-journeys-383); WHO exclusion note (our-journeys-360). All absorbed into Role in the Community with wikilinks to existing slugs. No date/age conflicts found to HOLD; press-knowledge labels untouched per existing HOLD. -->
