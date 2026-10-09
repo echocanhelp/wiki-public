@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # S. Y. Huang (黃森元)
 
@@ -60,3 +60,5 @@ last_reviewed: 2026-10-08
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 Corpus re-check 2026-10-08 (deepen-x slice 10062334-1): fresh 黃森元／S. Y. Huang grep across works/articles/sources/events/topics — hit set identical (#186/-eng, #253, #212, #1197, #422, #903, index), all already absorbed and linked. Verified-saturated; SKIP-for-new-facts.
+
+Corpus re-check 2026-10-09 (deepen-x slice 10080500-4): fresh 黃森元／S. Y. Huang／森元 grep across works/articles/sources/events/topics — hit set identical (#186/-eng, #253, #212, #1197, #422, #903, index); every matched passage already absorbed and wikilinked above. Verified-saturated; SKIP-for-new-facts.
