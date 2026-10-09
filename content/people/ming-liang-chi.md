@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Ming-Liang Chi (溫明亮)
 
@@ -34,7 +34,7 @@ last_reviewed: 2026-10-07
 
 
 ## Role in the Community
-- SKIP-with-reason: corpus re-scan (deepen-x 10052045-27, 2026-10-07; prior scans 09251100-12 ZH+EN, 09240400-23, 09210920-31) again found no memoir/article material beyond her own bibliographic Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1536|TAH #1536, 2017/02]] — no absorbable community facts. Substring hits on 明亮 were 李明亮 (separate person) or prose, not 溫明亮.
+- SKIP-with-reason: corpus re-scan (deepen-x slice 10070714-30, 2026-10-09; prior scans 10052045-27, 09251100-12 ZH+EN, 09240400-23, 09210920-31) again found no memoir/article material beyond her own bibliographic Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1536|TAH #1536, 2017/02]] — no absorbable community facts. Substring hits on 明亮 were 李明亮 (separate person) or prose, not 溫明亮; husband name 紀達雄 also grepped this pass, no hits.
 
 ## Sources
 - [TAH #1536 encyclopedia: 1536. Ming-Liang Chi 溫明亮/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1536/)

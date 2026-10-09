@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # J. E. Wu (吳榮二)
 
@@ -35,7 +35,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - TAHS 故事檔案庫收有本人的紀錄: [[works/taiwaneseamericanhistory-org/whoswho1667|1667. J. E. Wu 吳榮二（TAH故事記錄, 2017-05-21）]]。
-- 語料庫檢索（2026-09-21, 中英名雙查; re-verified 2026-10-01, deepen-x 09261419-20）僅命中此條 TAH Who's Who 書目紀錄與 works/index.md 目錄條目, 無其他回憶錄或社運文本可吸收。
+- 語料庫檢索（2026-09-21, 中英名雙查; re-verified 2026-10-09, deepen-x slice 10070714-30）僅命中此條 TAH Who's Who 書目紀錄、sources 索引與 works/index.md 目錄條目；本輪另以「榮二」全庫检索, 唯一非目錄命中為 [[works/taiwaneseamericanhistory-org/ourjourneys253|Our Journeys #253]] 的 Related Pages 連結, 屬互聯而非敘述內容, 無其他回憶錄或社運文本可吸收。
 
 ## Sources
 - [TAH #1667 encyclopedia: 1667.  J. E. Wu 吳榮二 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1667/)
