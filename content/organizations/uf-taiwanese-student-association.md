@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # UF Taiwanese Student Association
 
@@ -23,6 +23,8 @@ The UF Taiwanese Student Association (TWSA) is a student organization at the Uni
 - Re-scan (deepen-x 09231500-19, 2026-09-25): grep for "UF Taiwanese Student" / "Florida Taiwanese Student" / 佛州 variants across works/ and articles/ again returned zero hits.
 - Re-scan (deepen-x 09251039-11, 2026-09-26): grep for "TWSA" / "UF Taiwanese" / "uftwsa" across works/ and articles/ again returned zero hits. SKIP stands.
 - Re-scan (deepen-x 10052158-19, 2026-10-07): fresh sweep of all five corpus dirs (works/articles/sources/events/topics) for "UF Taiwanese Student" / "Florida Taiwanese Student" / "uftwsa" / "Gainesville" / "University of Florida" — hits remain only [[works/taiwaneseamericanhistory-org/winners-shih-wen-huang|黃碩文 UF College of Medicine award]] (unrelated individual) and the Gainesville *Georgia* chamber record (wrong Gainesville); events/ and topics/ zero. No club material. SKIP stands.
+
+- Re-scan (deepen-x 10070717-22, 2026-10-09): fresh five-dir sweep (works/articles/sources/events/topics) for "UF Taiwanese"/"TWSA"/"uftwsa"/"University of Florida"/佛州臺灣/Gainesville — hits remain only [[works/taiwaneseamericanhistory-org/winners-shih-wen-huang|黃碩文 UF College of Medicine award]] (unrelated individual), the Gainesville *Georgia* chamber record (wrong Gainesville), and unrelated taiwanjustice-net news mentions of University of Florida. No club material. SKIP stands.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/uf-taiwanese-student-association/)

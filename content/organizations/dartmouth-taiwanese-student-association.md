@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Dartmouth Taiwanese Student Association
 
@@ -22,6 +22,8 @@ last_reviewed: 2026-10-07
 - **Core roles:** Community organization (TAH directory)
 
 The Dartmouth Taiwanese Student Association (TSA) is the current Taiwanese student organization at Dartmouth College in Hanover, New Hampshire. It is listed under its full name — Dartmouth Taiwanese Student Association — in the official DartmouthGroups platform, which serves as the college’s central hub for recognized student organizations. The organization is also listed among groups advised by Dartmouth’s Office of Pluralism and Leadership (OPAL), which supports pan-Asian student organizations on campus.
+
+<!-- deepen-x slice 10070717-22 recheck 2026-10-09: fresh five-dir grep (works/articles/sources/events/topics) for 'Dartmouth'/達特茂/漢諾威/Hanover — hits remain the same unrelated mentions (East Hanover NJ office memoir passage, Jeremy Lin Harvard-vs-Dartmouth game, Dartmouth Tuck MBA 來台研習, Hanover Germany energy article, Hanover Chopin-festival recital, FASCA-LA 二代分享 talk by Dartmouth student Nathaniel Chen). Nothing names the TSA. SKIP stands. -->
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/dartmouth-taiwanese-student-association/)

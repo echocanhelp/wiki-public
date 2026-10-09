@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Mid-Hudson Taiwanese Association (哈德遜中區臺灣同鄉會)
 
@@ -24,6 +24,8 @@ The Mid-Hudson Taiwanese Association (MHTA) is a regional chapter of the Taiwane
 - Re-check 2026-09-25 (slice 20): grep 哈德遜中區/Mid-Hudson in works+articles still zero hits; SKIP-with-reason stands.
 - Re-check 2026-09-26 (slice 09251031-29): fresh grep Mid-Hudson/哈德遜中區 of works+articles — zero hits again; SKIP-with-reason stands.
 - Re-check 2026-10-07 (slice 10052158-18): fresh grep Mid-Hudson/Mid Hudson/哈德遜中區/中哈德遜/MHTA over works+articles+sources+events+topics — hits only the FAPA NY Mid-Hudson record [[works/taiwaneseamericanhistory-org/37-new-york-mid-hudson-chapter-fapa|37]] (already linked above), index/source-hub rollups, and unrelated taiwanjustice-net articles mentioning Hudson geographically. No MHTA-specific memoir material; SKIP-with-reason stands.
+
+- Re-check 2026-10-09 (slice 10070717-22): fresh five-dir grep (works/articles/sources/events/topics) for Mid-Hudson/Mid Hudson/哈德遜中區/中哈德遜/MHTA — hits only the FAPA NY Mid-Hudson record [[works/taiwaneseamericanhistory-org/37-new-york-mid-hudson-chapter-fapa|37]] (already linked above), works/index rollups, and unrelated taiwanjustice-net articles. No MHTA-specific memoir material; SKIP-with-reason stands.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/mid-hudson-taiwanese-association/)

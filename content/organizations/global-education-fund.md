@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Global Education Fund (美國環球教育基金會)
 
@@ -30,4 +30,4 @@ The Global Education Fund (美國環球教育基金會) was established in April
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 09251031-21 recheck 2026-09-26: SKIP — fresh ZH+EN grep of works/+articles matched only the pages already wikilinked here (+ works/index). No new memoir/community material. -->
-<!-- deepen-x slice 10052158-15 recheck 2026-10-07: fresh five-dir grep (works/articles/sources/events/topics) for 'Global Education Fund'/環球教育/環球基金會 — hits are only the own TAH #28 record already wikilinked here, plus works/index and the sources registry line. No further memoir or community mention. SKIP stands. -->
+<!-- deepen-x slice 10070717-22 recheck 2026-10-09: fresh five-dir grep (works/articles/sources/events/topics) for 'Global Education Fund'/環球教育/環球基金會 — hits are only the own TAH #28 record already wikilinked here, plus works/index and the sources registry line. No further memoir or community mention. SKIP stands. -->
