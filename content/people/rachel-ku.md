@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Rachel Ku
 
@@ -49,6 +49,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-verified 2026-10-01 (deepen-x slice 09260900-24): fresh grep for 'Rachel Ku' across works/ + articles/ unchanged — only her own index entries [[works/taiwaneseamericanhistory-org/192-rachel-ku-violist-201505|#192]] / [[works/taiwaneseamericanhistory-org/394-rachel-ku-201504|#394]] + works/index. SKIP — page saturated, nothing absorbable.
 - Corpus re-verified 2026-10-06 (deepen-x slice 10051200-22): fresh ZH+EN grep ('Rachel Ku', surname 顧 with viola/費城管弦/Philadelphia Orchestra context) across works/articles/sources/events/topics returns only #192/#394 + the works index; 顧 hits elsewhere are unrelated (邱義昌 memoir's 照顧, unrelated Kuo/Ku names). No memoir or community-body mentions to absorb. SKIP — page saturated.
 - Corpus re-verified 2026-10-08 (deepen-x slice 10062248-6): fresh grep for 'Rachel Ku' across works/articles/sources/events/topics returns only her own index entries [[works/taiwaneseamericanhistory-org/192-rachel-ku-violist-201505|#192]] / [[works/taiwaneseamericanhistory-org/394-rachel-ku-201504|#394]] + sources hub; surname probe 顧 hits elsewhere are unrelated. SKIP — page saturated, nothing absorbable.
+- Corpus re-verified 2026-10-09 (deepen-x slice 10080735-19): fresh ZH+EN+surname sweep ('Rachel Ku', alias probes 蕾秋/顧蕾秋, 顧 with viola/Philadelphia context) across works/articles/sources/events/topics returns only her own index entries [[works/taiwaneseamericanhistory-org/192-rachel-ku-violist-201505|#192]] / [[works/taiwaneseamericanhistory-org/394-rachel-ku-201504|#394]] + works/index + sources hub; 顧 hits elsewhere are unrelated (照顧/顧台灣 titles). SKIP — page saturated, nothing absorbable.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
