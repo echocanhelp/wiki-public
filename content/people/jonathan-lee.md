@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Jonathan Lee
 
@@ -58,3 +58,4 @@ last_reviewed: 2026-10-08
 > Corpus re-scan 2026-09-27 (deepen-x slice 09260600-26): fresh ZH+EN grep of works/+articles/ — hit set identical to records already cited/absorbed on this page; verified-saturated, nothing new absorbable. SKIP-deepen.
 <!-- deepen-x slice 10051200-18 (2026-10-06): verified-saturated — fresh ZH+EN+surname grep (incl. false-positive disambiguation) hit set unchanged, all hits already linked; nothing new absorbable -->
 - Corpus re-scan 2026-10-08 (deepen-x slice 10062218-7): fresh EN+surname grep across works/articles/sources/events/topics — hit set unchanged (whoswho1397, Pew statement, 228 panel, 2008 election piece, index); surname 李 hits are distinct Lee records (Paul Pai-Shih Lee, Becky Lee, 228 吳樂之 record), not this Jonathan Lee. Verified-saturated. SKIP.
+- Corpus re-scan 2026-10-09 (deepen-x slice 10080700-10): fresh grep across all 5 corpus dirs — 'Jonathan Lee' returns the same closed set (whoswho1397, index, Pew statement, 228 panel, 2008 election piece, sources/taiwaneseamericanhistory-org), all already wikilinked above; surname 李 sweep hits carry no 'Jonathan' match and are distinct Lee records. Verified-saturated. SKIP.
