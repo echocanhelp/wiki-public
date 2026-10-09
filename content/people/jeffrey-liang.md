@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Jeffrey Liang (梁兆豐博士)
 
@@ -61,3 +61,5 @@ Corpus re-check (deepen-x slice 09260900-31, 2026-10-01): fresh ZH+EN grep of co
 Corpus re-check (deepen-x slice 10051340-10, 2026-10-06): fresh ZH+EN grep (incl. 梁兆 partial-name probe) returned only the four own-archive records already wikilinked above (#96, #354, #530, #531) plus works index — no third-party memoir mentions; verified saturated, SKIP, no conflicts.
 
 Corpus re-check (deepen-x slice 10070018-1, 2026-10-08): fresh ZH+EN grep of works/articles/sources/events/topics returned only the own records / passages already wikilinked above plus the works index — verified saturated, SKIP, no conflicts.
+
+Corpus re-check (deepen-x slice 10080600-17, 2026-10-09): fresh ZH+EN+partial-name (梁兆) grep of works/articles/sources/events/topics returned the same saturated hit set — the four own-archive records already wikilinked above (#96, #354, #530, #531) plus the works index and sources page; no third-party memoir mentions. Verified saturated, SKIP, no conflicts.
