@@ -173,3 +173,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10070800-4: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-4: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070800-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-1 article e3440fec3eed8107 (籌謀台灣「不流血革命」的獻策高手原來是他 ◎ 陳昭南, TJJ 2022-05-09): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070800-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-3 articles dd1007a640e39b91 / 35d25fb4bdf39cd8 (反攻大陸（下）兩存檔, 2017-09-10) & c251f8fc65ac83e0 (去殖民化—正常化（下）, 2023-06-02): subject links re-checked vs 正文 this attempt (1964-09-20 與彭明敏、魏廷朝共同發表自救宣言各節), real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
