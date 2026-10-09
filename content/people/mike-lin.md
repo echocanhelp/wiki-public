@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Mike Lin (林健華博士)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-10-08
 
 <!-- deepen-x slice 10051143-26 recheck 2026-10-06: SKIP — fresh ZH+EN grep of works/articles/sources/events/topics; hit set identical to prior passes (mystories206, whoswho1134, ourjourneys33 ZH+EN — all already linked); the articles/ hit is Mike Lindell — unrelated false positive. Caption-date vs 1980-founding HOLD retained. No new absorbable corpus facts. -->
 <!-- deepen-x slice 10060950-4 recheck 2026-10-08: SKIP — ZH+EN+健華 grep across works/articles/sources/events/topics returns the identical hit set (mystories206, whoswho1134, ourjourneys33 ZH+EN — all linked; works/index; the single articles/ hit is the Mike Lindell false positive). mystories206 is a bibliographic-only record. No new corpus material; saturated. Caption-date vs 1980-founding HOLD retained. -->
+<!-- deepen-x slice 10080400-17 recheck 2026-10-09: verified-saturated. Fresh 林健華/Mike Lin/健華 grep across works/articles/sources/events/topics returns the identical hit set (mystories206, whoswho1134, ourjourneys33 ZH+EN — all linked above; works/index; sources hub; the single articles/ hit is the Mike Lindell false positive, unrelated). whoswho1134 and mystories206 are bibliographic-only records (full text stays in vault), so no absorbable prose remains. No new corpus material. Caption-date ("circa 1990") vs 1980-founding HOLD retained. -->
