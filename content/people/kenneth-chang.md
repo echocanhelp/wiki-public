@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Kenneth Chang (張學賢)
 
@@ -48,3 +48,5 @@ Source from Taiwanese Association of American Greater Washington Chapter Special
 Re-grep 2026-10-06 (deepen-x slice 10051340-6): fresh ERE grep (張學賢|Kenneth Chang) across works/articles/sources/events/topics returned only ourjourneys-138, ourjourneys47, whoswho1381 plus the sources roster row — all already absorbed above. Verified-saturated, SKIP.
 
 Re-grep 2026-10-08 (deepen-x slice 10062334-6): fresh ERE grep (張學賢|Kenneth Chang|Hsueh-hsien Chang) across works/articles/sources/events/topics returned only ourjourneys-138 (1972 會長 roll), ourjourneys47 (1990-08 林口長庚 visit), whoswho1381, plus roster/index rows — all already absorbed above. Verified-saturated, SKIP.
+
+Re-grep 2026-10-09 (deepen-x slice 10080600-3): ERE grep (張學賢|Kenneth Chang|Hsueh-?hsien Chang|Xue-?xian Zhang) across works/articles/sources/events/topics returned the identical hit set — ourjourneys-138, whoswho1381, ourjourneys47, works/index.md, sources/taiwaneseamericanhistory-org.md. Content spot-checked against the page: the 創會先鋒獎 caption (1972會長張學賢) and the 吳德朗 memoir passage (林口長庚 臨床硏究部主任, 由華府回台微生物學退休教授) are already absorbed verbatim in Role in the Community + Timeline. No new corpus material. Verified-saturated, SKIP.
