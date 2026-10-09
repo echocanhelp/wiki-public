@@ -410,3 +410,7 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 <!-- TJJ-A10070900-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-1 article 71a7c64663ea03b6 (大洛杉磯台灣會館疫情濟困報導, 2020-06-23 發文 / 2021-01-17 快照, twin c05e2d53): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article or twin wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607003-a: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607003-a article c3e762826a7e42d2 (大洛杉磯台灣會館基金會22週年線上募款年會公告, 2020-11-17刊／20201126快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070900-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-3 article c05e2d53013fcd15 (2020-06-23 會館疫情濟困報導): subject link re-checked vs 正文 this attempt, real (董事長田詒鴻/皇佳商業銀行捐贈3900份口罩確認見於正文), no wrong/spurious links; 2020-06-23 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607003-c: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607003-c article 2a543ddc9301b7b3 (大洛杉磯台灣會館24週年募款年會公告, 2022-09-13發文／20220924快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

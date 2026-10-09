@@ -398,3 +398,7 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 <!-- TJJ-A10071100-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071100-1 articles (11aa2dfa5f64d7e4 楊子清 tag頁 / 2490b18e8f37ea79 第166回世界台灣文化論壇 / 89e6683c93156205 台美人台加人 p356 / 79b5f26fdef89d22 2023台美小姐選拔賽): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607003-a: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607003-a article c3e762826a7e42d2 (大洛杉磯台灣會館基金會22週年線上募款年會公告, 2020-11-17刊／20201126快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070900-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-3 article c05e2d53013fcd15 (2020-06-23 會館疫情濟困報導): subject link re-checked vs 正文 this attempt, real (副董事長陳柏宇代轉1200份口罩予柔斯密市府確認見於正文), no wrong/spurious links; 2020-06-23 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607003-c: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607003-c article 2a543ddc9301b7b3 (大洛杉磯台灣會館24週年募款年會公告, 2022-09-13發文／20220924快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

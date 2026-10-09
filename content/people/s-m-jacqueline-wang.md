@@ -71,3 +71,5 @@ S. M. (Jacqueline) Wang 王賽美 – History of Taiwanese American (T.A. Archiv
 <!-- TJJ-A10040500-8: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-8 article c3e762826a7e42d2 (大洛杉磯台灣會館22週年募款年會公告, 2020-11-17刊): subject link re-checked vs 正文 — 會館土地及建築物1998年由王桂榮永久榮譽董事長與夫人王賽美女士捐獻見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607003-a: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607003-a article c3e762826a7e42d2 (大洛杉磯台灣會館基金會22週年線上募款年會公告, 2020-11-17刊／20201126快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607003-c: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607003-c article 2a543ddc9301b7b3 (大洛杉磯台灣會館24週年募款年會公告, 2022-09-13發文／20220924快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
