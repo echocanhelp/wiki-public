@@ -5,7 +5,7 @@ redirect_to: taiwan-center
 tags:
   - redirect
 verification_status: redirect
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 
 # Moved
@@ -30,3 +30,5 @@ TAH directory slug. Same org.
 Corpus re-check 2026-10-06 (deepen-x slice 10051143-4): fresh ZH+EN grep again returns only canonical-page material — choral/event records ([[works/taiwaneseamericanhistory-org/concerts74|TAH #74]] 莫拉克風災募款音樂晚會 by 大洛杉磯台灣會館合唱團 Rosemead 2009-09-13; [[works/taiwaneseamericanhistory-org/concerts98|TAH #98]] 亞洲合唱節 Arcadia 2017/2018; [[works/taiwaneseamericanhistory-org/photo-albums-activities-43|photo-albums-activities-43]]) plus the already-noted pageant/Harvey-relief items — nothing new absorbable on this redirect.
 
 Corpus re-check 2026-10-07 (deepen-x slice 10060900-4): fresh ZH+EN grep again returns only canonical-page and sibling 會館 material — 紐約/西雅圖會館 event records ([[works/taiwaneseamericanhistory-org/concerts117|TAH #117]] Hello Taiwan Flushing 2017-11-05; [[works/taiwaneseamericanhistory-org/ourjourneys30|TAH #30]] 西雅圖台灣會館/王虹妮 2014-09]) plus the already-noted Harvey-relief item in [[works/taiwaneseamericanhistory-org/ourjourneys328|TAH #328]] — nothing new absorbable on this redirect.
+
+Escalate-to-canonical note (deepen-x slice 10071520-3, 2026-10-09): [[works/taiwaneseamericanhistory-org/publications1200|TAH #1200]] 大洛杉磯台灣會館 台文學校教材(二) / 溫惠雄 (2018) — the Center's own language-school teaching materials — is not yet linked on the canonical page [[organizations/taiwan-center|taiwan-center]]; recommend absorbing there. No other new material: remaining hits are opening-era (#29, already absorbed at canonical) and chorus/pageant records already catalogued above.

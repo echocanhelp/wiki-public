@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Taiwanese American CPA Association, TACPA (台美會計師協會)
 
@@ -35,3 +35,4 @@ TAH's organization directory preserves two records on TACPA: [[works/taiwaneseam
 <!-- deepen-x slice 09260854-25 (2026-09-30): re-verified — fresh grep 台美會計師協會/TACPA: hit set unchanged (tacpa.md, act-org-cpaa.md, works index); no memoir material. SKIP. -->
 <!-- deepen-x slice 10051143-3 (2026-10-06): re-verified — fresh grep 台美會計師協會/TACPA hit set unchanged (tacpa.md, act-org-cpaa.md, works index); no memoir material. SKIP. -->
 <!-- deepen-x slice 10060900-4 (2026-10-07): re-verified — fresh grep 台美會計師協會/TACPA hit set unchanged (tacpa.md, act-org-cpaa.md, works index, sources index); no memoir material. SKIP. -->
+<!-- deepen-x slice 10071520-3 (2026-10-09): DEEPENED — founder Charles Chiang 江昭儀 now carries a people page and corpus records not previously linked here: [[people/charles-chiang|Charles Chiang]] (tah-tables list him as "Taiwanese American CPA Association — President") and [[works/taiwaneseamericanhistory-org/whos-who-2217-charles-chiang|whos-who #2217]]. HOLD: charles-chiang.md already flags a conflict between the TAH profile's TACPA-president role and the TAA-MN chapter-president listing in [[works/taiwaneseamericanhistory-org/ourjourneys123-eng|TAH #123-eng]] — not merged here either. -->
