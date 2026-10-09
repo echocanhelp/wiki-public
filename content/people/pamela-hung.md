@@ -7,8 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
-reviewed_by_slice: deepen-x-09251400-17
+last_reviewed: 2026-10-09
+reviewed_by_slice: deepen-x-10080735-11
 ---
 # Pamela Hung (洪聚佐)
 
@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-verified 2026-09-22 (deepen-x slice 09211507-18), 2026-09-24 (slice 09230400-27), 2026-09-25 (slice 09240800-31), and 2026-09-26 (slice 09251400-17): grep (洪聚佐|Pamela Hung) across works/ + articles/ returns only the own TAH #2235 record, the index row, and the Pew response statement (already wikilinked above; her signer entry confirmed verbatim) — no memoir material; page remains saturated.
 - Re-verified 2026-10-06 (deepen-x slice 10051200-7): fresh ZH+EN grep across works/articles/sources/events/topics returns the same hit set (whos-who-2235, index row, Pew response statement, sources record) — all facts already absorbed, nothing new; saturated.
 - Corpus re-scan 2026-10-08 (deepen-x slice 10062218-7): fresh grep across works/articles/sources/events/topics — hit set unchanged (whos-who-2235, index row, Pew response statement, sources record); all facts already absorbed. Verified-saturated. SKIP.
+- Corpus re-scan 2026-10-09 (deepen-x slice 10080735-11): fresh ZH+EN+surname grep across works/articles/sources/events/topics — hit set unchanged (whos-who-2235 record, index row, Pew response statement signer entry, sources hub record); surname-only 洪聚 adds nothing new. No memoir material. Verified-saturated.
 
 ## Sources
 - [TAH #2235 encyclopedia: 2235. Pamela Hung 洪聚佐](https://taiwaneseamericanhistory.org/whos-who-2235-pamela-hung/)
