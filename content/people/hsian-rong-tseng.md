@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Prof. Hsian-Rong Tseng (曾憲榮)
 
@@ -61,3 +61,4 @@ He is also linked from the community index record [[works/taiwaneseamericanhisto
 <!-- deepen-x 09260800-29: re-verify 2026-09-30 — fresh grep (曾憲榮/Hsian-Rong Tseng, works+articles): hits = own records (#729, ota-283, moonshot essay) + works/index only, all already wikilinked. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 10051340-14: re-verify 2026-10-06 — fresh grep (曾憲榮/Hsian-Rong Tseng, works/articles/sources/events/topics): hits = own records (#729, ota-283, moonshot essay) + works/index only, all already wikilinked. 憲榮-alias sweep matched only 李憲榮 (Shane-Rong Lee, a different person — see whoswho-1901 / our-journeys-379) and a stale cross-reference on huai-shion-tsai's page (already resolved there); never conflate. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 10070018-5: re-verify 2026-10-08 — fresh grep (曾憲榮/Hsian-Rong, works/articles/sources/events/topics): hits = own records (#729, ota-283, moonshot essay) + works/index + sources rollup only, all already wikilinked. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x 10080700-18: re-verify 2026-10-09 — fresh grep (曾憲榮/Hsian-Rong/憲榮, works/articles/sources/events/topics): hits = own records (#729, ota-283, moonshot essay) + works/index + sources rollup only, all already wikilinked. 憲榮-alias sweep matched only 李憲榮 (Shane Lee — whoswho-1901, our-journeys-230/245, taiwanjustice articles; a different person, never conflate). Verified saturated; SKIP-no-new-facts. -->
