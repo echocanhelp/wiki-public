@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Peter Kuo (郭博資)
 
@@ -55,3 +55,4 @@ last_reviewed: 2026-10-08
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 10062334-11 recheck 2026-10-08: SKIP — fresh ZH+EN grep (郭博資/Peter Kuo, plus Supro/Kennex sweeps) across works/articles/sources/events/topics returns the identical hit set: own artist #30 / whos #315 / 旅途、旅圖 #568 + index/source hubs. The 同姓畫家 郭博修 Paul Kuo HOLD stands (different 漢名, judged separate person). No new absorbable corpus facts. -->
+<!-- deepen-x slice 10080720-15 recheck 2026-10-09: SKIP — fresh ZH+EN grep (郭博資/Peter Kuo) across works/articles/sources/events/topics returns the identical hit set (artist #30 / whos #315 / 旅途、旅圖 #568 + index/source hubs). 郭博 surname sweep adds only unrelated 郭博安/郭清江/郭勝也/郭俊明 (ourjourneys212 life-group rosters) and the separate-person Paul Kuo 郭博修 records — none are this person. No new absorbable corpus facts, no conflicts. -->
