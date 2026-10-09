@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Qun Tsai (蔡昆)
 
@@ -33,6 +33,7 @@ last_reviewed: 2026-10-08
 - His own TAH oral-history records exist in the corpus: [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-33|33. Qun Tsai (蔡昆)]] (2019) and [[works/taiwaneseamericanhistory-org/whos-who-2121|2121. Qun Tsai 蔡昆/06/2018]].
 - The family's story-telling continues in the next generation: his son 蔡靜輝 has his own corpus story [[works/taiwaneseamericanhistory-org/my-stories-705|705. 阮的多桑 / 蔡靜輝 / 10-2019]] (2019-10-15) — author identified via the family page's 靜輝 listing; the work's own page does not name 蔡昆 as a subject (bibliographic record only), so no relationship claim beyond authorship is made.
 - HOLD: the press-kit snapshot lists "Era: 1919" with no corroborating corpus source; treat birth year as unverified.
+- Name-match leads on the sons (identity NOT confirmed, held as leads only): 蔡靜輝 signs as 北美洲台灣人教授協會會長 in the 2024 solidarity statement [[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|Joint TAO statement, 2024-02]] — same name and professor title as the son who reported the family's video-archive method, but no source states they are the same person (HOLD: name match only). Separately, a 蔡靜煌 is listed as 秘書長 of the 台灣人權協會 national roster in [[works/taiwaneseamericanhistory-org/ourjourneys75|75. 台灣人權協會的開始與現況/張丁蘭/2014-12]] — surname-only match to the son 蔡靜煌, no corroborating link to this family (HOLD: unconfirmed).
 
 ## Family
 
@@ -60,3 +61,5 @@ Corpus re-check (deepen-x 09231000-12, 2026-09-25): fresh grep of works/ + artic
 
 <!-- deepen-x 10051200-2 (2026-10-06): fresh ZH+EN grep returns only ourjourneys155 (absorbed), own records (senior-taiwanese-american-33, whos-who-2121), sources index — verified-saturated, SKIP-with-reason. -->
 <!-- deepen-x 10060958-1 (2026-10-08): DEEPENED — surname sweep (靜輝) surfaced my-stories-705 (阮的多桑 / 蔡靜輝 / 2019-10-15), a new corpus work by the son already listed on this page; absorbed into Role in the Community with wikilink, relationship claim limited to authorship (work page names no subjects). All other hits unchanged — verified otherwise saturated. -->
+
+<!-- deepen-x 10080600-31 (2026-10-09): DEEPENED — surname sweep (蔡靜輝/蔡靜煌) surfaced two new corpus hits beyond prior saturation: the 2024 Joint-TAO solidarity statement (蔡靜輝 as NATPA president signatory) and ourjourneys75 (a 蔡靜煌 as 台灣人權協會 secretary-general). Both absorbed as explicitly-held name-match leads, no identity claims. 蔡昆/Qun Tsai hits unchanged — verified otherwise saturated. -->
