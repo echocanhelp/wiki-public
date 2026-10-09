@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-09
 ---
 # UCR United Taiwanese Student Association
 
@@ -28,3 +28,5 @@ SKIP: no corpus hits (re-verified 2026-09-21 and 2026-09-25 slice 09232232-24; r
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10070717-28 re-sweep 2026-10-09: five-dir greps — strict \bUTSA\b / 'United Taiwanese Student Association' hit only the sources registry row; 'Riverside' matches are NYC Riverside Church / Riverside Dr (ourjourneys266, ourjourneys300), and the one genuine UC Riverside mention (ourjourneys274) is UCR undergrads volunteering at a NATMA Cambodia medical mission, not this chapter's record. Verified-saturated; still SKIP. -->

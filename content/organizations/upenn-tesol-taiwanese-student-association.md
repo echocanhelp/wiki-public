@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # UPenn TESOL Taiwanese Student Association
 
@@ -26,3 +26,5 @@ The UPenn TESOL Taiwanese Student Association (UTTSA) is a Taiwanese student org
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10070717-28 re-sweep 2026-10-09: five-dir greps — strict \bUTTSA\b / \bTESOL\b hit only the sources registry row; broad matches are Fu-Chen Lo's UPenn-PhD/Pittsburgh-TA memoir (ourjourneys292-eng, a different org) and taiwanjustice substring noise. Nothing absorbable for this org. Verified-saturated; still SKIP. -->
