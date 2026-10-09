@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Taiwanese Association of Greater Portland (大波特蘭)
 
@@ -23,6 +23,8 @@ The Taiwanese Association of Greater Portland (TAGP) is a chapter of the Taiwane
 - [[works/taiwaneseamericanhistory-org/project-3-30|30. 大波特蘭台灣同鄉會的簡介 / Brief History of TAGP（2017-12-01）]] — chapter brief history written by Chen-ya Chiu (chapter-authored institutional memoir, held as bibliographic record; full text in vault).
 - [[works/taiwaneseamericanhistory-org/project-3-30-2|30. 大波特蘭台灣同鄉會的簡介（2017-12-01 重複著錄）]]。
 - [[works/taiwaneseamericanhistory-org/activities-of-tagp|波特蘭台灣同鄉會的活動（2019-01-12）]] — record of chapter community activities.
+- [[works/taiwaneseamericanhistory-org/taiwanese-american-heritage-week-of-portland-or|Taiwanese American Heritage Week of Portland, OR 波特蘭台美人傳統週（2018）]] — Portland-area Taiwanese American Heritage Week work (era 2018), consistent with the chapter's annual TA Heritage Week participation noted above.
+- HOLD (founding conflict, never auto-merged): [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys 76 — TAA history]] lists **Portland (Tsung-min Lin / 林宗民)** among the **28 founding chapters of the TAA at its 1971 formation**, which conflicts with this page's "founded 1992, 63rd chapter" claim. Both may be true of different institutions (a 1971 Portland chapter vs. the 1992 TAGP re-affiliation) — unresolved, held for review.
 - Corpus check 2026-09-21 (deepen-x slice 25): re-grepped works+articles for TAGP / 大波特蘭 / Greater Portland — hits are exactly the four records above + works/index; all four are already linked here. No chapter-author prose in the harvested corpus beyond titles/dates, and no person page exists for author Chen-ya Chiu (no new pages per protocol). Page retained with existing founding facts (1992, 63rd TAA chapter).
 - Corpus check 2026-09-23 (deepen-x slice 09221400-31): fresh grep again returns exactly the four linked records + works/index; verified saturated, no new facts.
 - Corpus check 2026-09-25 (deepen-x slice 09230900-30): fresh grep (TAGP / 大波特蘭 / Greater Portland) again returns exactly the four linked records + works/index; verified saturated, no new facts.
