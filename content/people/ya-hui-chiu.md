@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Ya-hui Chiu (邱雅惠博士)
 
@@ -43,7 +43,7 @@ last_reviewed: 2026-10-07
 ## Role in the Community (deepened 2026-09-19, corpus)
 - Own encyclopedia record in the TAH Who's Who corpus: [[works/taiwaneseamericanhistory-org/whoswho71|70. Ya-hui Chiu 邱雅惠]] (published 2014-10-23).
 - Community/corpus record is confined to this profile entry (physics training at Yale, Bell Labs / Western Union engineering, then Asia Satellite Telecommunications CEO 1989–2011); no other movement activity found in works/articles.
-- Re-checked 2026-09-25 (deepen-x slice 17), 2026-09-26 (slice 09251039-28) and 2026-10-07 (slice 10052007-16): corpus grep returns only this own record — no new absorbable community facts. SKIP.
+- Re-checked 2026-09-25 (deepen-x slice 17), 2026-09-26 (slice 09251039-28), 2026-10-07 (slice 10052007-16) and 2026-10-09 (slice 10070714-4): corpus grep (邱雅惠 / Ya-hui Chiu / 方美玲 / 邱如敏 / 邱如珍) returns only this own record — 雅惠 hits are 詹雅惠/王雅惠 (different persons); no new absorbable community facts. SKIP.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ya-hui-chiu/)
