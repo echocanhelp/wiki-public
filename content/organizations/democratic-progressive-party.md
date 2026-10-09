@@ -191,3 +191,5 @@ In 2006, the party ended official recognition of factions, though they remain re
 
 <!-- TJJ-A10060700-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060700-1 article becb39f917174438 (The Economist via TJJ): subject link re-checked vs 正文 (DPP揚彈劾/罷免馬、批評ICAO邀請出於中國建議), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060800-6: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-6 article b63290424caedcf7 (LA Times蔡英文參選轉載, Ralph Jennings, 2015-04-16): subject link re-checked vs 正文 this attempt (DPP提名蔡英文參選2016、2000–2008執政時期主張台獨之背景記述), real, no wrong/spurious links; 2015-04-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-8: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-8 article adc931e5b99bb0a9 (van der Wees 評2012大選, 2012-01-29): subject link re-checked vs 正文（ICFET觀察團會晤包括民進黨在內三大政黨確認見於正文）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
