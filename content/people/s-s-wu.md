@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # S. S. Wu (吳炫三)
 
@@ -29,7 +29,7 @@ last_reviewed: 2026-10-07
 <!-- tah-tables:end -->
 
 ## Role in the Community
-Artist (畫家、雕塑家), from 羅東, 宜蘭; NTNU B.S. 美術. Recorded in the TAH Foundation Who's Who encyclopedia as entry 1549, published 2017-03-15: [[works/taiwaneseamericanhistory-org/whoswho1549|1549. S. S. Wu 吳炫三 / 2017/03]] — the vault holds the bibliographic record only (full text stays in the TAH archive), so no further community facts are absorbable from the corpus.
+Artist (畫家、雕塑家), from 羅東, 宜蘭; NTNU B.S. 美術. Recorded in the TAH Foundation Who's Who encyclopedia as entry 1549, published 2017-03-15: [[works/taiwaneseamericanhistory-org/whoswho1549|1549. S. S. Wu 吳炫三 / 2017/03]] — the vault holds the bibliographic record only (full text stays in the TAH archive), so no further community facts are absorbable from the corpus. Five-dir re-grep (2026-10-09, incl. 炫三 substring) confirms: only the entry itself plus index/source listings — no memoir or community mentions.
 
 ## Family
 
