@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Lynn Huang (黃令先)
 
@@ -179,3 +179,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10070700-24: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-24 articles (4119cffe264101c6 楊子清音樂短講第13集快速音 / 2b2e0ebccd1c5edd 以立學生王子 / 7214b273dfcb59ce 以立拯救我 / 753347eb4cf48066 台文通訊30冬無涉本人): subject link(s) re-checked vs 正文 this attempt (泛音特別講座、音樂總監、鋼琴), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-25: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-25 articles (526ee7d662ebe432 以立「拯救我」原稿: 鋼琴 / 80b33cf1846bc005 同稿2024存檔: 鋼琴 / f985012b1ed56ad0「末日之淚」存檔: 鋼琴 / 928db8aa40e881b2 以立「森林王子」: 音樂總監): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated facts w/ all four article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10080949-10: verified 2026-10-09 — fresh corpus sweep (黃令先/Lynn Huang/以立 across works/articles/sources/events/topics; 55 hits): all corpus material already absorbed on-page (以立 concert works #134「以歌會會友」2018-06-23 Arcadia and #161「普契尼的跨國浪漫」2019-09-21 are on-page via the Elite Chorus vault record; TAH #19/#488 encyclopedia works already linked). No new material — saturated. -->
