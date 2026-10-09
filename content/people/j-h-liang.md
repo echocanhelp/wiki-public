@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # J. H. Liang (梁見後)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-10-08
 
 > Re-verified 2026-10-06 (deepen-x slice 10051200-7): fresh grep (梁見後|J. H. Liang|美超微) across works/articles/sources/events/topics — the 2025-11-07 Hindenburg/DOJ piece is new material, absorbed above; all other hits (whoswho1570, ourjourneys19, 立報 2025-03-28 / 2025-10-08) already linked. No new memoir material.
 > Re-verified 2026-10-08 (deepen-x slice 10062218-1): fresh grep (梁見後|J. H. Liang|Supermicro|美超微) across works/articles/sources/events/topics — hit set unchanged (whoswho1570, ourjourneys19, 立報 2025-03-28 / 2025-10-08 / 2025-11-07); no new corpus facts.
+> Re-verified 2026-10-09 (deepen-x slice 10080500-24): fresh grep (梁見後|J. H. Liang|梁见后|Supermicro|美超微) across works/articles/sources/events/topics — hit set unchanged (whoswho1570, ourjourneys19, works/index, 立報 2025-03-28 / 2025-10-08 / 2025-11-07); no new corpus facts. Verified-saturated.
 
 ## Family
 
