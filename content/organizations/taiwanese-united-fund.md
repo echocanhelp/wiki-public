@@ -56,3 +56,5 @@ last_reviewed: 2026-09-25
 
 <!-- TJJ-A10040600-12: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-12 article 7dfa96523779391d (第161回世界台灣文化論壇 Huang Yi & Kuka 座談會, 2024-12-17 發文 / 2025-04-25 快照): subject link re-checked vs 正文 (台灣人聯合基金會贊助／主辦記述), real, no wrong/spurious links; 2024-12-21 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060800-6: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-6 article 7dfa96523779391d (第161回世界台灣文化論壇 Huang Yi & Kuka 座談會, 2024-12-17): subject link re-checked vs 正文 this attempt (台灣人聯合基金會贊助／主辦記述＋主持人鄭良光所屬單位), real, no wrong/spurious links; 2024-12-21 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10080401-17: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-17 article 7dfa96523779391d (第161回世界台灣文化論壇 Huang Yi & Kuka 座談會, 2024-12-17 發文 / 2025-04-25 快照) read fresh this attempt: subject link re-checked vs 正文 (贊助／主辦記述＋主持人鄭良光所屬單位), real, no wrong/spurious links; 2024-12-21 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
