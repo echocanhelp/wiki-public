@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Jeffrey L. Chen (陳大立)
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 10062334-12 recheck 2026-10-08: fresh grep 陳大立/Jeffrey L. Chen/Jeffrey Chen over all corpus dirs — hits: whsosho1355, pew statement signatory (already HOLDed name-only), two taiwanjustice columns (陳大立委 = segmentation of 立委陳以信, false attribution already HOLDed), indexes. No new material. Verified saturated, SKIP-no-new-material. -->
+<!-- deepen-x slice 10080720-19 recheck 2026-10-09: fresh grep 陳大立/Jeffrey L. Chen/Jeffrey Chen over works/articles/sources/events/topics — identical hit set (whsosho1355 record, works/index + sources index entries, pew statement signatory name-only HOLD stands, two taiwanjustice columns where 陳大立委 is segmentation of 立委陳以信 — false-attribution HOLD stands). No new corpus material. Verified saturated, SKIP-no-new-material. -->
