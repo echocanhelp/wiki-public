@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Michael K. Yu (游貴森醫師)
 
@@ -34,7 +34,7 @@ last_reviewed: 2026-10-01
 _No filled family fields on the TAH profile._
 
 ## Role in the Community
-- _record link: TAH encyclopedia entry 1329 (published 2016-10-22) is held in the corpus as community historical record; corpus re-scan deepen-x 09251100-12 (2026-09-26, ZH+EN) found no memoir/article text beyond [[works/taiwaneseamericanhistory-org/whoswho1329|TAH #1329]] — SKIP-with-reason._
+- _record link: TAH encyclopedia entry 1329 (published 2016-10-22) is held in the corpus as community historical record; corpus re-scans (deepen-x 09251100-12, 2026-09-26; five-dir ZH+EN+surname 游 re-grep 2026-10-09) found no memoir/article text beyond [[works/taiwaneseamericanhistory-org/whoswho1329|TAH #1329]] — SKIP-with-reason._
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/michael-k-yu/)
