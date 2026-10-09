@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # J. C. Hong (洪濬正)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-10-07
 
 ## Corpus note (deepen-x 09171100-25)
 SKIP: only corpus hit is the bibliographic stub of his own Who's Who entry ([[works/taiwaneseamericanhistory-org/whos-who-1777-j-c-hong|1777. J. C. Hong 洪濬正]], published 2017-07-24) — no additional community/corpus facts to absorb. Re-verified 2026-09-22 (slice 09210906-18), 2026-09-25 (slice 09231500-13), 2026-09-26 (slice 09251047-12), and 2026-10-07 (slice 10052007-29): fresh five-dir greps (洪濬正 / 濬正 / J.C. Hong) still return only the index stub of this record; 達欣 hits in taiwanjustice-net articles refer to 達欣工程 the company, not coach Hong.
+- Re-swept 2026-10-09 (slice 10070714-2): wider five-dir grep (洪濬正 / 濬正 / J. C. Hong / 康汝華 / 洪其佳 / 洪其新 / 石牌禮拜堂 / 達欣工程籃球隊 / 台灣銀行籃球隊) — one new name-level hit: 洪其安 appears as a 男高音 in [[works/taiwaneseamericanhistory-org/15-e7-be-85-e5-be-b9-e6-96-af-e7-89-b9-e8-87-ba-e7-81-a3-e5-90-88-e9-84-95-e6-9c|15. 羅徹斯特臺灣同鄕會愛鄕合唱團 / 2014-12]]. HOLD: the roster 洪其安 matches the name of a listed daughter, but the choir is in Rochester, NY with no stated link to the family — not attributable; not absorbed. Otherwise own record + index only. Verified-saturated, SKIP.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
