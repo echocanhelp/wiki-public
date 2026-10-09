@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Mingkong Chen
 
@@ -42,3 +42,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070714-32 re-verify 2026-10-09: five-dir grep (EN + 陳明孔/明孔 ZH probes) matched only own whoswho1996 stub + works/index + source page. SKIP: no new corpus material. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # M. L. Tong (湯銘倫)
 
@@ -40,3 +40,5 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whoswho1233|1233. M. L. Tong 湯銘倫 / 2016/08]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070714-32 re-verify 2026-10-09: five-dir grep (湯銘倫/M. L. Tong) matched only own whoswho1233 stub + works/index + source page. SKIP: bibliographic-only, no absorbable corpus material. -->

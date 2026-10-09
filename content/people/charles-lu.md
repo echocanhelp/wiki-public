@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-09
 # deepen-x 09200939-12 / re-verified 2026-09-26 slice 09251100-4 and 2026-10-02 slice 09261419-16: SKIP — fresh ZH+EN grep matched only own TAH #48 stub (band B, bibliographic only; already wikilinked below) + works/index; no absorbable memoir material
 ---
 # Charles Lu (盧常吉)
@@ -34,3 +34,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070714-32 re-verify 2026-10-09: five-dir grep matched only own TAH #48 stub + works/index + source page; surname-only hits (常吉) belong to 李常吉 / Dr. Chanchi Lee — different person, excluded. SKIP: bibliographic-only. -->

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Lucas Chen (陳薰洋)
 
@@ -41,3 +41,5 @@ last_reviewed: 2026-10-01
 - [[works/taiwaneseamericanhistory-org/whoswho1139|1139. Lucas Chen 陳薰洋／2016/07]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070714-32 re-verify 2026-10-09: five-dir grep (ZH/EN/given-name) matched only own whoswho1139 stub + works/index + source page. SKIP: bibliographic-only, no absorbable corpus material. -->
