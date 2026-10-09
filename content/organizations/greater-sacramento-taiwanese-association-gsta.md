@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-09
 ---
 # Greater Sacramento Taiwanese Association GSTA (大沙加偭度台灣同鄉會)
 
@@ -28,3 +28,5 @@ SKIP-with-reason (re-verified 2026-09-25, deepen-x slice 09231300-26; earlier 20
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 09251031-19 2026-09-26: re-grep (GSTA / 大沙加) of works+articles — zero hits. SKIP stands: Sacramento corpus material belongs to sibling orgs (SAFA / FAPA Sacramento / STCF), not GSTA. -->
+
+Corpus re-scan 2026-10-09 (deepen-x 10070717-10): five-dir grep (GSTA / 大沙加 / Greater Sacramento / Sacramento + chapter·同鄉) — still zero GSTA-specific hits. The TAA national history memoir ([[works/taiwaneseamericanhistory-org/ourjourneys76-eng|ourjourneys76 — TAA/Mu-Sheng Wu]]) lists the 28 founding chapters and their presidents; Sacramento is not among them, confirming GSTA's chapter lineage is not documented in the corpus. Sacramento-area material continues to belong to sibling organizations ([[works/taiwaneseamericanhistory-org/sacramento-area-formosan-association-safa|SAFA]], [[works/taiwaneseamericanhistory-org/9-california-sacramento-chapter-fapa|FAPA Sacramento chapter]], [[works/taiwaneseamericanhistory-org/sacramento-taiwanese-culture-foundation|Sacramento Taiwanese Culture Foundation]]) — do not merge. SKIP, verified-saturated.

@@ -7,7 +7,7 @@ tags:
 provisional: true
 verification_status: provisional
 needs_source: true
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Brother Wang (GSTPC)
 
@@ -40,3 +40,5 @@ Brother Wang appears in GSTPC bulletin records. This is a provisional stub pendi
 Corpus re-scan 2026-09-26 (deepen-x 09251047-1): fresh grep for "Brother Wang" — still only the film-title collision; SKIP, nothing absorbable.
 
 Corpus re-scan 2026-10-07 (deepen-x 10052158-1): fresh five-dir grep (王弟兄 / Brother Wang / GSTPC / 好牧者) over works+articles+sources+events+topics — hit set unchanged: the film-title collision, the GSTPC bibliographic record, and unrelated Sydney "Good Shepherd Church" news articles. No named-member material anywhere. SKIP, verified-saturated.
+
+Corpus re-scan 2026-10-09 (deepen-x 10070717-10): five-dir grep again (王弟兄 / Brother Wang / GSTPC / 好牧者 / Good Shepherd). Hits are unchanged — the [[works/taiwaneseamerican-org/directors-picks-ten-films-from-taiwan-to-watch|film-title collision]], the bibliographic GSTPC work record, the Arcadia / Sydney "good shepherd" church mentions in other congregations' news, and the NTPC-USA source page cross-link. A wider surname probe (Wang + elder/執事/長老) surfaced only the TASA El Monte builders' roster ([[works/taiwaneseamericanhistory-org/ourjourneys173-eng|ourjourneys173]]) where "Kenjohn Wang" is a named Southern California community leader — a different person, not this church member; do not merge. Still no named-member material. SKIP, verified-saturated.

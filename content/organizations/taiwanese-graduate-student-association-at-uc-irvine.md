@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Taiwanese Graduate Student Association at UC Irvine
 
@@ -29,3 +29,5 @@ SKIP-with-reason (2026-09-18; re-grep 2026-09-21 and 2026-09-22: still zero TGSA
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x recheck 2026-09-25 (slice 09231300-22): fresh grep TGSA/研究生學生會/graduate student association — still zero hits in works+articles. SKIP stands. -->
 <!-- deepen-x recheck 2026-09-25 (slice 09250600-31): fresh grep again zero hits in works+articles. SKIP persists. -->
+
+Corpus re-scan 2026-10-09 (deepen-x 10070717-10): five-dir grep (TGSA / ucitgsa / 研究生學生會 / graduate student association / UCI台灣) — still zero org-specific hits; the only matches are directory cross-links to sibling TGSA pages ([[organizations/brown-risd-taiwanese-graduate-student-association|Brown/RISD TGSA]], [[organizations/columbia-university-taiwanese-graduate-student-association|Columbia TGSA]] — separate campuses, do not merge). UC Irvine corpus material remains exclusively about TAO, the undergraduate organization — see [[works/taiwaneseamerican-org/college-students-party-with-uc-irvines-taiwanese-american-organization|TAO college party]]. SKIP, verified-saturated.
