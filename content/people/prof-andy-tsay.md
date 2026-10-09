@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Prof. Andy Tsay (蔡安達教授)
 
@@ -56,3 +56,4 @@ Accomplishment
 <!-- deepen-x 2026-09-26 slice 09251527-13: fresh grep (蔡安達/Andy Tsay) of content/works+articles returns the identical hit set (whos-who-2175, 52891/#205, mystories482, works index) — verified-saturated, SKIP-no-new-facts. -->
 <!-- deepen-x slice 10051200-23: re-verify 2026-10-06 — fresh grep 蔡安達/Andy Tsay (works/articles/sources/events/topics) returns only whos-who-2175 + 52891/#205 + mystories482 + ourjourneys233-eng, all already absorbed. Surname-only probe (Tsay) surfaces Ruey S. Tsay 蔡瑞胸, Kuen-Shii Tsay 蔡坤喜, Jonathan Tsay 蔡宇明, and the 蔡淑媛 collection — no corpus evidence linking any of them to Andy beyond the already-noted 蔡淑媛 translation credit; NOT merged (HOLD: relationship unconfirmed). Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 10062248-6 (2026-10-08): re-verify — fresh grep 蔡安達/Andy Tsay (works/articles/sources/events/topics) returns only whos-who-2175, 52891/#205, mystories482, ourjourneys233-eng + indexes, all already absorbed. Verified saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 10080735-20 (2026-10-09): re-verify — fresh grep 蔡安達/Andy Tsay (works/articles/sources/events/topics) returns only whos-who-2175, 52891/#205, mystories482, works/sources indexes, all already absorbed. Verified saturated; SKIP-no-new-facts. -->
