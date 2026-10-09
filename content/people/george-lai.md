@@ -7,13 +7,14 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-09
 ---
 # George Lai (賴忠智)
 
 ## Role in the Community
 
 - SKIP: 語料庫檢索（2026-09-22 中英名雙查；2026-09-26 覆核）僅命中本人 TAH Who's Who 書目紀錄（[[works/taiwaneseamericanhistory-org/815-george-lai-e8-b3-b4-e5-bf-a0-e6-99-ba-201602|815. George Lai 賴忠智 / 2016-02]]）與 works index，無其他回憶錄或社運文本可吸收。
+- 2026-10-09 (deepen-x slice 10070717-3) SKIP: five-dir re-grep (賴忠智/忠智/George Lai) again returns only the cited record + index listings — no new corpus material.
 
 ## Identity Snapshot
 - **English:** George Lai

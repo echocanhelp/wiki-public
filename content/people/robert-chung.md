@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-09
 ---
 # Robert Chung (鐘博盈)
 
@@ -35,6 +35,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Profiled in the TAH encyclopedia story corpus: [[works/taiwaneseamericanhistory-org/whoswho1411|1411. Robert Chung 鐘博盈]] (published 2016-11-20). Corpus record is bibliographic only; no memoir prose beyond the existing tah-tables to absorb.
+- 2026-10-09 (deepen-x slice 10070717-3) SKIP: five-dir grep (鐘博盈/博盈/Robert Chung) hits only the already-cited record and index listings; surname-only probe (Chung) matches unrelated persons (翁錦鐘, Chia-Chun Chung, Walter Chung) — no new corpus material.
 
 ## Sources
 - [TAH #1411 encyclopedia: 1411. Robert Chung 鐘博盈 / 2016/11](https://taiwaneseamericanhistory.org/whoswho1411/)
