@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-09
 ---
 # S. H. Chang (張舜華)
 
@@ -54,4 +54,5 @@ last_reviewed: 2026-10-06
 <!-- deepen-x slice 09250400-3 (2026-09-25): re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already linked/absorbed above (plus works/index rollup); nothing new absorbable; no conflicts. SKIP-with-reason (verified saturated). -->
 <!-- deepen-x slice 09251527-16 (2026-09-26): re-verified — fresh ZH+EN grep returns only ourjourneys160, whoswho1037, the 2018 連署 article (all absorbed) + works/index. SKIP-with-reason (verified saturated). -->
 
+Corpus re-check (deepen-x slice 10080600-30, 2026-10-09): exact 張舜華 / S. H. Chang grep across works/articles/sources/events/topics returns only the records already absorbed above (ourjourneys160, whoswho1037, ourjourneys238, the 2018 連署 article, works/index). Surname-only sweep 「舜華」 additionally hits [[works/taiwaneseamericanhistory-org/ourjourneys38|ourjourneys38]], ourjourneys106, ourjourneys24 and whoswho1066 — all of them 余舜華 (Shun Hua Yu, 北加州聯合會會長), a different person; HOLD: 永不合併. Verified saturated, SKIP.
 Corpus re-check (deepen-x slice 10070018-2, 2026-10-08): fresh exact 張舜華 grep across works/articles/sources/events/topics returns only ourjourneys160, whoswho1037, the 2018 連署 article, works/index and the sources hub — all already absorbed above. Husband-name sweep (郭倍宏) adds nothing beyond ourjourneys238 (already absorbed) and works/index. The 「SH Chang」 author-signature collision (see HOLD above) stays excluded. Verified saturated, SKIP, no conflicts.
