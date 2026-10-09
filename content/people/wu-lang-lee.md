@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Wu-Lang Lee (李五郎博士)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-10-08
 <!-- deepen-x slice 09261100-30 recheck 2026-10-01: SKIP — fresh ZH+EN grep of works/+articles re-run; hit sets identical to prior passes (all hits already linked; 蘇國慶 article hit = same 同名戲曲演員 HOLD, already recorded). No new absorbable corpus facts. -->
 <!-- deepen-x slice 10051143-26 recheck 2026-10-06: SKIP — fresh ZH+EN grep of works/articles/sources/events/topics; hit set identical to prior passes (228, 179/180, 486, photo-albums-48 — all already linked). No new absorbable corpus facts. -->
 <!-- deepen-x slice 10060950-3 recheck 2026-10-08: SKIP — fresh ZH+EN grep (李五郎 / Wu-Lang Lee / 五郎) of works/articles/sources/events/topics; hit set identical to prior passes (228, 179/180, 486, photo-albums-48 — all already linked). No new absorbable corpus facts. -->
+<!-- deepen-x slice 10080400-18 recheck 2026-10-09: verified-saturated — fresh grep (李五郎 / Wu-Lang Lee / 五郎) across works/articles/sources/events/topics returned 6 files (228, 486, 180, photo-albums-48, works/index, sources/taiwaneseamericanhistory-org); all substantive hits already wikilinked in Role in the Community; no new absorbable corpus facts. Page remains at saturation. -->
