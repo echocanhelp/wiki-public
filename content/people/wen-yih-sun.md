@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Wen-Yih Sun (商文義)
 
@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09260600-28 (2026-09-27): saturated re-verify — fresh ZH+EN grep of works/ + articles/ returns the hit-set already absorbed on this page; no new corpus facts, no conflicts. -->
 
 Corpus re-grep 2026-10-08 (deepen-x slice 10062334-3): fresh ZH+EN grep (商文義 / Wen-Yih Sun) across works/ articles/ sources/ events/ topics/ returned the identical hit set (1579 bio, ourjourneys69/-eng, ourjourneys47, sources index); the lone extra hit (台積電法說會 article) is a false positive on 商文曄, a different person. Verified saturated, SKIP-with-reason, no new absorbable facts, no conflicts.
+
+Corpus re-grep 2026-10-09 (deepen-x slice 10080500-9): fresh ZH+EN grep (商文義 / Wen-Yih Sun) across works/ articles/ sources/ events/ topics/ returned the identical hit set (1579 bio record, ourjourneys69/-eng, ourjourneys47, works/index, sources hub). The 1579 work file is bibliographic-record-only (full text stays in vault); ourjourneys69 NATPA founding roster (16 professors, 1980-02-16, Chicago) and ourjourneys47 14th-term presidency (1994, 商文義會長) facts both already absorbed above. Verified-saturated, SKIP-with-reason, no new absorbable facts, no conflicts.
