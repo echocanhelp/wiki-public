@@ -9,7 +9,7 @@ tags:
   - media
   - taiwanese-american-org
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-09
 ---
 # Ho Chie Tsai (蔡和杰)
 
@@ -40,7 +40,7 @@ Community-organizing activity around his founding of Taiwanese American Professi
 
 ## Community Involvement
 
-- **Taiwanese American Foundation (TAF)** — Board member
+- **Taiwanese American Foundation (TAF)** — Board member **1996–2019**; **President from 2019** (per 林壽英's account in [[works/taiwaneseamericanhistory-org/our-journeys-377|Our Journeys #377]])
 - **[[organizations/taiwanese-american-professionals-san-francisco|Taiwanese American Professionals in San Francisco]]** — Founder
 - **TaiwaneseAmerican.org** — Founder
 
@@ -87,3 +87,8 @@ Facts already present in vault pages (no new sources):
 - Cross-linked the org layer: TAP San Francisco, which he founded, has its own page — [[organizations/taiwanese-american-professionals-san-francisco|Taiwanese American Professionals San Francisco]]; the [[organizations/taiwan-american-foundation|TAF]] link and all work-page links above verified to exist.
 - His 2017 TAHS Publication profile was written by 楊遠薰 — linked to her vault author page [[people/yang-yuanxun|Yang Yuan-xun (楊遠薰)]].
 - No new biographical facts absorbable from vault-internal sources beyond those already recorded; nothing invented, no web used, nothing published.
+
+## Deepen-x 2026-10-09 (slice 10080949-6, corpus-only)
+- From his own first-person account in [[works/taiwaneseamericanhistory-org/mystories554|My Stories #554]]: parents immigrated to the U.S. in 1972 (father as a physician-in-training, mother with twin boys); grew up in the Midwestern Taiwanese American community of the 1970s–80s. In the late 1980s–1990s he helped run Taiwanese American youth summer camp programs in the Midwest and East Coast, helped found one of the first Taiwanese American student organizations at his university, and built early intercollegiate networks and conferences.
+- TAF tenure detail (board member 1996–2019, President from 2019) absorbed into Community Involvement above from 林壽英's record in [[works/taiwaneseamericanhistory-org/our-journeys-377|Our Journeys #377]]; TAF青少年夏令營 running since 1980 is credited there to him and other second-generation volunteers.
+- No conflicts found between corpus sources; nothing published.
