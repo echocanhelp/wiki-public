@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Dr. Patrick C. Chen (陳彰醫師)
 
@@ -33,7 +33,7 @@ last_reviewed: 2026-10-01
 ## Role in the Community
 
 - **2016** — 獲選 TAH Foundation Who's Who（年度人物），紀錄以傳記形式發表於 2018-02-06：[[works/taiwaneseamericanhistory-org/whos-who-2016-patrick-chen|2016. Dr. Patrick C. Chen 陳彰醫師]]。該紀錄為書目級記錄（value band B），全文存於原始站。
--  corpus 掃描（content/works、content/articles）僅見此傳記紀錄及 works index 條目，無其他社區一手材料可吸收（deepen-x slice 09191200-14, 2026-09-21 重新 grep 確認；SKIP-with-reason）。
+-  corpus 掃描（content/works、content/articles）僅見此傳記紀錄及 works index 條目，無其他社區一手材料可吸收（deepen-x slice 09191200-14, 2026-09-21 重新 grep 確認；SKIP-with-reason）。2026-10-09 再次覆核（deepen-x 10070714-8）：以 陳彰/Patrick C. Chen 於五個 corpus 目錄重新 grep，僅見本傳記紀錄與 index 條目，無可吸收之一手材料 → SKIP。
 
 ## Family
 

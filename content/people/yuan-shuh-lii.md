@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Yuan-Shuh Lii (李元恕)
 
@@ -38,7 +38,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Profiled in the TAH Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1441|1441. Yuan-Shuh Lii 李元恕 / 2016/12]] (published 2016-12-26; bibliographic record only, full text stays in the TAH vault).
-- No memoir or community-activity record beyond the TAH profile found in corpus (no SDTCA/聖地牙哥台灣同鄉會 activity beyond the cited article link). Re-verified 2026-09-25 (deepen-x 09231400-23) and 2026-09-26 (deepen-x 09251039-29): fresh ZH+EN greps return only this record.
+- No memoir or community-activity record beyond the TAH profile found in corpus (no SDTCA/聖地牙哥台灣同鄉會 activity beyond the cited article link). Re-verified 2026-09-25 (deepen-x 09231400-23), 2026-09-26 (deepen-x 09251039-29) and 2026-10-09 (deepen-x 10070714-8): fresh ZH+EN+variant greps (李元恕/Yuan-Shuh/Lii) across all five corpus dirs return only this record + index listings — nothing absorbable → SKIP.
 
 ## Sources
 - [TAH #1441 encyclopedia: 1441. Yuan-Shuh Lii 李元恕 / 2016/12](https://taiwaneseamericanhistory.org/whoswho1441/)
