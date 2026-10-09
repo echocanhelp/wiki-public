@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # S. C. Yang (楊淑卿)
 
@@ -56,3 +56,4 @@ last_reviewed: 2026-10-08
 
 <!-- deepen-x 10051200-2 (2026-10-06): fresh ZH+EN grep returns own record whos-s-c-yang, mystories267, sources index — identical hit set; verified-saturated, SKIP-with-reason. -->
 <!-- deepen-x 10060958-1 (2026-10-08): fresh ZH+EN grep across all five corpus dirs returns own record whos-s-c-yang, mystories267, works+sources index — identical hit set; alias sweep (固德/黃再添) hits are husband Patrick Huang's own records (193, ff52, mystories48, ourjourneys12/27) with no new 楊淑卿 material — verified-saturated, SKIP-with-reason. -->
+<!-- deepen-x slice 10080735-9 (2026-10-09): fresh ZH+EN+淑卿 grep across all five corpus dirs — new candidate hits (whos-who-882/478/1-shu-cheng, ourjourneys26/270/275, taiwanjustice WHA letter) are all DIFFERENT people (賴淑卿, 廖郭淑卿, 張幸吉妻淑卿, 林淑卿), not this S. C. Yang 楊淑卿; surname sweep adds nothing. Verified-saturated, SKIP-with-reason. -->
