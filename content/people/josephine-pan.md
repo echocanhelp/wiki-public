@@ -129,3 +129,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10070700-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-2 article c62f5c50846fe267 (台館等24社團228追思紀念大會, 2025-02-24刊/2025-03-20快照): 潘掬慧 subject link re-checked vs 正文 this attempt (台館董事、與召集人李賢群共同主持儀式), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10071100-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071100-1 articles (11aa2dfa5f64d7e4 楊子清 tag頁 / 2490b18e8f37ea79 第166回世界台灣文化論壇 / 89e6683c93156205 台美人台加人 p356 / 79b5f26fdef89d22 2023台美小姐選拔賽): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607004-b: verified 2026-10-09 — wave-2 link+deepen re-check of article 2490b18e8f37ea79 (第166回世界台灣文化論壇：試論台美人 ê 文化遺產 kap 傳承, 2025-01-22刊/論壇2025-01-25) read fresh this attempt: 潘掬慧以「與談人 TUF 228 心靈日 & 台灣文化之夜委員長」具名見於正文, subject link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
