@@ -98,4 +98,6 @@ Corpus-absorbed (deepen-x slice 28, 2026-09-14) from 鍾澄文's column [[articl
 
 <!-- TJJ-A10060400-27: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-27 article a40b37bc03b2b9cb（以立合唱團世界首演「希望之光」影音）: subject link re-checked vs 正文 (鋼琴：陳慧如 Rose Chen), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
+<!-- TJJ-A10070700-23: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-23 articles (025f6ed9 以立希望之光影音 / 6ba229d2 以立末日之淚 / 8c6aeada 以立致死的震怒近了 / e7e0fe18 末日之淚2023存檔副本): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links (吳渭榮／廖健榮／Vahagn Hovents 正文提及但無頁面, 維持純文字不造鏈); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 <!-- TJJ-A10070700-26: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-26 article a40b37bc03b2b9cb（以立「希望之光」世界首演, 2024-02-28 快照）: subject link re-checked vs 正文 this attempt (鋼琴：陳慧如 Rose Chen), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

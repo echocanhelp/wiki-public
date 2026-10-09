@@ -109,6 +109,8 @@ Jennet Jah is the daughter of the noted composter, Professor Kenneth Lee. She gr
 
 <!-- TJJ-A10060400-23: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-23 articles (025f6ed9 以立希望之光影音 / 6ba229d2 以立末日之淚 / 8c6aeada 以立致死的震怒近了 / e7e0fe18 末日之淚2023存檔副本): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links (吳渭榮／廖健榮／Vahagn Hovents 正文提及但無頁面, 維持純文字不造鏈); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
+<!-- TJJ-A10070700-23: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-23 articles (025f6ed9 以立希望之光影音 / 6ba229d2 以立末日之淚 / 8c6aeada 以立致死的震怒近了 / e7e0fe18 末日之淚2023存檔副本): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links (吳渭榮／廖健榮／Vahagn Hovents 正文提及但無頁面, 維持純文字不造鏈); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 <!-- TJJ-A10070700-21: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-21 articles b7ec76fa6b673920 / 2b3d5a363a2935eb（以立合唱團「致死的震怒近了」同稿兩存檔副本）: 女高音獨唱李俊玲（Jennet Jah）飾 Abigaille subject link re-checked vs 正文 this attempt, real, no wrong/spurious links (吳渭榮／廖健榮／葉健／Juneseok Cho 正文提及但無頁面, 維持純文字不造鏈); dated fact w/ both article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-24: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-24 articles 2b2e0ebccd1c5edd（學生王子：聲樂指導）/ 7214b273dfcb59ce（拯救我：女高音獨唱）: subject link(s) re-checked vs 正文, real, no wrong/spurious links (鄭兆翔／白慈莉 正文提及但無頁面, 維持純文字不造鏈); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
