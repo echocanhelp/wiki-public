@@ -86,3 +86,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10070700-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-3 article c691e327b9133c1a (心得報告標籤頁, 2024-07-19 快照): 「長青教室心得報告—許盛男醫師講『台灣話的源流』 11/16/2016」確認見於條目; subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10071300-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071300-1 article c6f9dbff48b39366（台美人台加人 popular 分類頁, 2024-02-21快照）read fresh this attempt: subject link 許盛男 re-checked vs 正文 —「長青教室心得報告—許盛男醫師講『台灣話的源流』 11/16/2016」條目確認見於正文, real, no wrong/spurious links; 2016-11-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10071400-1: verified 2026-10-09 — wave-2 link+deepen re-check of article 2777c88877eee2c5 (Tag 長青教室 標籤彙整頁, 2024-06-20快照): subject link 許盛男 re-checked vs 正文 this attempt (「長青教室心得報告—許盛男醫師講『台灣話的源流』」條目確認見於正文), real, no wrong/spurious links; 2016-11-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -125,3 +125,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10070700-18: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-18 articles a20fb275（刺蔣案策劃者登記總統連署, 2023-09-18）/ f6ed9463（2013-04-12 核四表決公督盟名單）/ 996879ac（FAHR第44屆年會暨鄭南榕紀念獎頒獎, 2020-11-25）/ 0258611f（520就職報導, 2024-05-19）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070800-4: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-4: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10071400-1: verified 2026-10-09 — wave-2 link+deepen re-check of article 2777c88877eee2c5 (Tag 長青教室 標籤彙整頁, 2024-06-20快照): subject link 黃文雄 re-checked vs 正文 this attempt (「3/15 長青教室…人際關係 by 黃文雄醫師」條目確認見於正文), real, no wrong/spurious links; 2017-03-15 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

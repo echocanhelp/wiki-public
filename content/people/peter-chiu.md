@@ -114,3 +114,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A100607006-c: verified 2026-10-09 — wave-2 link+deepen re-check of article f454eda084b7ca99 (園藝分類熱門頁, 2024-02-25快照): subject link re-checked vs 正文 this attempt (「Sadako與Peter Chiu(邱勝宗夫婦)講EM酵素及製作@20170924」條目具名), real, no wrong/spurious links; 2017-09-24 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607009-d: verified 2026-10-09 — wave-2 link+deepen re-check of article bb7f9d54ae93bbef (園藝分類頁, 2024-02-25快照) this attempt: subject link re-checked vs 正文 (「Sadako與Peter Chiu(邱勝宗夫婦)講EM酵素及製作@20170924」及「探訪邱勝宗和邱貞夫婦的百草園-台美人歷史協會人物專訪@07082016」條目具名), real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10071400-1: verified 2026-10-09 — wave-2 link+deepen re-check of article 8bf4798dd2771f38 (大洛杉磯台灣會館 分類存檔頁, 2024-02-21快照): subject link 邱勝宗 re-checked vs 正文 this attempt (「Sadako與Peter Chiu(邱勝宗夫婦)講EM酵素及製作@20170924」條目確認見於正文), real, no wrong/spurious links; 2017-09-24 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -103,3 +103,5 @@ Led FORMOSAT-1 (福衛一號) launch team as head of launch group at National Sc
 
 <!-- TJJ-A100607005-a: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607005-a article 9907500dda4f33bb (斯人已逝其德可追-緬懷鄭寶鼎博士 ◎林宏容, 2020-09-30刊/2026-01-21快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10071500-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071500-2 — article 20053f0a17b89c07 (Tag 大洛杉磯台灣會館耆老講座, 2025-02-16 存檔) 「9/7 耆老講座…謝清志」條目具名; subject link re-checked vs 正文 this attempt — 真實提及, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10071400-1: verified 2026-10-09 — wave-2 link+deepen re-check of article 2777c88877eee2c5 (Tag 長青教室 標籤彙整頁, 2024-06-20快照): subject link 謝清志 re-checked vs 正文 this attempt (「5/24 長青教室: 講真話 博真情 ◎謝清志博士主講」條目確認見於正文), real, no wrong/spurious links; 2017-05-24 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

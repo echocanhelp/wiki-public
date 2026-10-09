@@ -97,3 +97,5 @@ last_reviewed: 2026-09-23
 
 <!-- TJJ-A100607006-d: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607006-d article b1d58af16c0a5e5b (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, 2021-06-16快照): subject link re-checked vs 正文 this attempt, real (賴英慧 列名共同發起人清單, 漢名與本頁標題相符), no wrong/spurious links; 2021-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10071400-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071400-2 article 8c5d12035d4e1a54 (台美人社區領袖力挺朴銀珠競選連任, 2022-08-13 存檔): 賴英慧 link re-checked vs 與會名單, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10071400-1: verified 2026-10-09 — wave-2 link+deepen re-check of article 80c0a825a7a661b6 (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, 2025-11-08快照): subject link 賴英慧 re-checked vs 正文 this attempt (賴英慧 列名共同發起人清單, 漢名與本頁標題相符), real, no wrong/spurious links; 2021-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

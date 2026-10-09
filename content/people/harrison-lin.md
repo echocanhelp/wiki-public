@@ -67,3 +67,5 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A10040600-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-5 article 2777c88877eee2c5（Tag: 長青教室 標籤彙整頁, 2024-06-20 快照, 正文條目 2016-11-19〜2017-05-25）: subject link re-checked vs 正文 this attempt — 「3/29 長青教室 1)聽力損失: 林貞棟醫師/教授, (英語)」條目具名，真實提及，無錯鏈、無虛鏈；含該文 wikilink 之日期事實條目已在庫 — saturated, no new material. -->
 <!-- TJJ-A10060800-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-1 article 2777c88877eee2c5 (Tag: 長青教室 p3, 2024-06-20 快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10071400-1: verified 2026-10-09 — wave-2 link+deepen re-check of article 2777c88877eee2c5 (Tag 長青教室 標籤彙整頁, 2024-06-20快照): subject link 林貞棟 re-checked vs 正文 this attempt (「3/29 長青教室…林貞棟醫師/教授」條目確認見於正文), real, no wrong/spurious links; 2017-03-29 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
