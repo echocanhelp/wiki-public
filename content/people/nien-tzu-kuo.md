@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Nien-Tzu Kuo (郭念慈)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09231400-3 recheck 2026-09-25: SKIP — fresh ZH+EN grep of works/+articles matched only this person's own TAH Who's Who work page and the works index; hit set identical to prior re-verifications, no independent memoir/article material to absorb. -->
 <!-- deepen-x slice 09250600-21 recheck 2026-09-25: SKIP — fresh ZH+EN grep hit set identical: own #405 work page, works index, plus the Our Journeys #219 seminar record and TAA/NNJ org page, whose facts (OPT/H-1B panel at 北澤西同鄉會 2016-04-16 就業座談會) are already absorbed above; nothing new. -->
 <!-- deepen-x slice 10062334-13 recheck 2026-10-08: SKIP — fresh ZH+EN grep hit set unchanged (own #405 page, OJ #219 seminar record already absorbed, sources index). New: 念慈 sweep matched the 翁啟惠/浩鼎內線交易 article — that is 浩鼎董事長 張念慈, a DIFFERENT person from 郭念慈; HOLD name-collision, do not merge. -->
+<!-- deepen-x slice 10080720-26 (2026-10-09): verified-saturated re-check — fresh ZH+EN+surname grep (郭念慈 / Nien-Tzu Kuo / 念慈 / 郭念) across works/articles/sources/events/topics returns the identical hit set (own #405 work page, ourjourneys219 seminar record already absorbed, works/index, sources index). The 念慈 match in the 2025 翁啟惠/浩鼎 article is 浩鼎董事長 張念慈 — DIFFERENT person, HOLD name-collision stands. No new material. -->
