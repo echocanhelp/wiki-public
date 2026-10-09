@@ -109,3 +109,5 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 
 <!-- TJJ-A10060700-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060700-1 articles 2c9cb76838702dd7 + 3260cd0bdf2f84d7 (海台青與黑客松, 楊遠薰, 2017-07-24, 兩存檔): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink(s) already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060800-3: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-3 article d2d01925bc6bbba3 (English Pages p5, 2024-07-18 快照): 「US pressure on 'specific outcomes' feels unjust ◎Mark Kao 高龍榮/Taipei Times」清單條目確認見於正文, subject link 為真, 無錯鏈、無虛鏈; 2015-03-27 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-5: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-5 article 20240522053244_root_042939d886040651 (高龍榮 Mark Kao Taipei Times 專欄 US pressure on "specific outcomes", 2015-03-27 刊): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

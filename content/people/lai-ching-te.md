@@ -172,3 +172,5 @@ Comparative frame from [[sources/zh-wikipedia-lai-ching-te||zh.wp]]; movement-re
 
 <!-- TJJ-A10060400-20: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-20 articles (06510e79 南加州林榮松獲聘行政院政務顧問 2020-11-19 / 63257725 FAHR研討會敗選檢討迎戰2024 2023-01-24 / 77328a2c 會館第十屆董事會選舉 2016-06-12 / 4c65a9af 520就職報導快照 2024-05-19): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060600-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-5 article 1fbc7a8aff9cd26e (藍綠台北衝選情 陳建仁領軍車隊掃街, 2019-12-22): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-5: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-5 article taiwanjustice-net/index (存檔索引頁): subject link(s) re-checked vs 正文 this attempt (列名於 Key Entities／Column Authors), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

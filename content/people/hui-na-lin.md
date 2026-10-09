@@ -140,3 +140,5 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A10060800-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-5 article c9dd9fb782cc99b8（Covid-19 浩劫餘生錄 分類popular頁, 2021-11-29快照）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060800-8: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060800-8 article 23da543a315a1fa1 (228七十週年紀念公告轉會館會訊, 2024-05-30快照): subject link re-checked vs 正文 this attempt (「籌備會由董事賴慧娜擔任召集人」), real, no wrong/spurious links; 2017-02-17 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-5: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-5 article 20220127025846 (圓滿的100-慶賀葉思雅張信惠週末漫談音樂專欄, 2022-01-10 刊): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
