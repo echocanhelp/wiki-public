@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Charles Tsai (蔡其芳)
 
@@ -60,3 +60,4 @@ Re-grepped again 2026-09-24 (slice 09230700-16): hit set unchanged (392, 43, 305
 - Corpus re-grep 2026-09-26 (slice 09251000-13): fresh ZH+EN grep of content/works + content/articles — hit set identical to all prior passes; every hit already absorbed above. SKIP-with-reason: no new absorbable material (verified-saturated).
 - Corpus re-grep 2026-09-26 (slice 09260500-17): fresh ZH+EN grep of content/works + content/articles — hit set identical to all prior passes; every hit already absorbed and linked above. SKIP-with-reason: no new absorbable material (verified-saturated).
 <!-- deepen-x 10062334-7: re-grep 2026-10-08 — fresh ZH+EN grep across all corpus dirs: hit set identical (392, 43, 305, whoswho961, index); all absorbed+linked; St. Louis Cheng-Chang Charles Tsai HOLD stands. Verified-saturated; SKIP-no-new-facts. -->
+<!-- deepen-x 10080600-10: re-grep 2026-10-09 — fresh ZH+EN grep across all corpus dirs: hit set identical (392, 43, 305, whoswho961, index, sources); all absorbed+linked; St. Louis Cheng-Chang Charles Tsai HOLD stands. Verified-saturated; SKIP-no-new-facts. -->
