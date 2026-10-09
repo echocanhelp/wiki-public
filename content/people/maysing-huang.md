@@ -93,3 +93,5 @@ last_reviewed: 2026-09-27
 <!-- TJJ-A10060400-24: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-24 articles (4119cffe264101c6 楊子清音樂短講第13集快速音 / 2b2e0ebccd1c5edd 以立學生王子 / 7214b273dfcb59ce 以立拯救我 / 753347eb4cf48066 台文通訊30冬紀念獎頒獎典禮): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060800-9: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-9 article 03754005e8506b45 (陳文成紀念廣場募款報導, 2019-11-02刊, 2022-04-15快照): 楊黃美幸以陳文成基金會董事長宣布募款捐款100萬 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-12: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-12 article 6fd9d16befa5a33a (曾為裴洛西募款餐會獻唱·音樂劇演員楊呈偉返台, 2022-08-08刊): 楊黃美幸 subject link re-checked vs 正文 (以楊呈偉之母、前無任所大使身分被提及), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

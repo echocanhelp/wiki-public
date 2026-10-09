@@ -125,3 +125,5 @@ last_reviewed: 2026-09-27
 <!-- TJJ-A10061000-3: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10061000-3 article 64302d51d03b3c5f (黃瑞芬訃聞, 2022-01-29 刊): 呂泉生 — 呂泉生作曲〈搖嬰仔歌〉於1995-07-29 TUF LA音樂會演出 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070600-2: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10070600-2 article b4e27e98036e15d0 (會館台灣學校古典音樂欣賞・海頓/台灣人音樂家專場報導, 2016-06-06刊, 2024-05-22快照): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-12: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-12 article bfc5f319a036a339 (黃瑞芬訃聞, 2022-01-29刊): 呂泉生 subject link re-checked vs 正文 (作曲〈搖嬰仔歌〉於1995-07-29 TUF LA音樂會演出), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -111,3 +111,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10060400-25: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-25 article e1412ed9 台灣民謠之夜 TUF 1995: 弦樂四重奏中提琴 吳昭麗: subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10061000-3: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10061000-3 article 64302d51d03b3c5f (黃瑞芬訃聞, 2022-01-29 刊): 吳昭麗 — 1995-07-29 TUF LA音樂会同台中提琴記述 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-12: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-12 article bfc5f319a036a339 (黃瑞芬訃聞, 2022-01-29刊): 吳昭麗 subject link re-checked vs 正文 (列名1995-07-29 TUF LA音樂会同台中提琴), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

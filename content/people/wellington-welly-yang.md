@@ -72,3 +72,5 @@ Wellington (Welly) Yang 楊呈偉 – History of Taiwanese American (T.A. Archiv
 
 <!-- TJJ-A10030400-2: verified 2026-10-05 — wave-2 link+deepen re-check of slice 10030400-2 article 6fd9d16befa5a33a (曾為裴洛西募款餐會獻唱·楊呈偉返台, 2022-08-08): 本傳主體即報導主角, subject 連結為真, 無錯鏈、無虛鏈; 2022-08-08 條目（已雙掛兩存檔 wikilink）已在庫 — saturated, no new material. -->
 <!-- TJJ-A10060400-13: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-13 articles (0832558e3b4e5ac7 台美史料中心 March 2021 Newsletter, 2021-02-28 / c082b03671e7c8ee 慈林海內外人權救援聯展, 2024-06-08 / 5f12408ab340f912 楊呈偉返台夢幻愛程, 2022-08-08 / 483521594640641a 紐約台灣會館蘇春槐接理事長, 2021-04-07): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-12: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-12 article 6fd9d16befa5a33a (曾為裴洛西募款餐會獻唱·音樂劇演員楊呈偉返台, 2022-08-08刊): 楊呈偉 subject link re-checked vs 正文 (報導主角：百老匯音樂劇演員，曾於裴洛西主持募款餐會獻唱美國國歌、獲國發會就業金卡、返台參加「夢幻愛程」排練), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
