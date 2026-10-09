@@ -106,3 +106,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10070800-5: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-5 article c1e603063718b409 (蕭美琴返台選舉傳聞·華府台灣同鄉會感恩節餐會報導, 2023-12-01快照): subject link re-checked vs 正文 this attempt (彭光理致詞「美台最好/最危險時刻」確認見於正文), real, no wrong/spurious links; 2023-11-11 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070900-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-3 article d2dbfe220e437602 (2017美東台灣人夏令會報導, 29faf54b8c9e2d10 同文存檔副本): subject link re-checked vs 正文 this attempt, real (彭光理以民進黨華府代表處主任身分演講、以「不穩定」「不可預測」評川普確認見於正文), no wrong/spurious links; 2017-07 dated fact w/ article + twin wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607003-b: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607003-b article 29faf54b8c9e2d10 (2017年美東台灣人夏令會報導／楊遠薰, 2021-12-05快照): subject link re-checked vs 正文 this attempt, real (彭光理以民進黨華府代表處主任身分演講、以「不穩定」「不可預測」形容川普確認見於正文), no wrong/spurious links; 2017-07 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
