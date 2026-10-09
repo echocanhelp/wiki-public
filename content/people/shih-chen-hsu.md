@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Shih-Chen Hsu (許世真)
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-10-07
 <!-- deepen-x 09251031-6: fresh grep 許世真/Shih-Chen Hsu → hit set identical to already-linked works (my-stories-654, whos-who-2140, ourjourneys18/-eng); all WTWA facts absorbed. No new material. -->
 
 2026-10-06 re-grep (deepen-x slice 10051143-9): fresh ZH+EN grep (許世真 / Shih-Chen Hsu) over works/articles/sources/events/topics returned the identical hit set (my-stories-654, whos-who-2140, ourjourneys18/-eng, works index, sources index) — all already linked. Verified-saturated, nothing new absorbable, no conflicts.
+<!-- deepen-x slice 10071520-1 re-verify 2026-10-09: fresh ZH+EN grep (許世真 / Shih-Chen Hsu) over all five corpus dirs — hit set identical (my-stories-654, whos-who-2140, ourjourneys18/-eng, works/sources index); all WTWA 創會召集人 facts already absorbed. Verified-saturated, nothing new absorbable. -->

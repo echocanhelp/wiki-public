@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # John Liu (劉宗憲)
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-10-07
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 2026-10-06 re-grep (deepen-x slice 10051143-9): fresh ZH+EN grep (劉宗憲 / John Liu) over works/articles/sources/events/topics returned the identical hit set — own record #1458, 自傳 contribution #1046 (both absorbed), plus the 劉醇逸 disambiguation hits (ota-148, dinner-with-john-liu, ourjourneys5 捐款 record — held). Verified-saturated, nothing new absorbable, existing HOLDs maintained.
+<!-- deepen-x slice 10071520-1 re-verify 2026-10-09: fresh ZH+EN grep (劉宗憲 / John Liu) over all five corpus dirs — identical hit set: own record #1458, 自傳 contribution #1046 (both absorbed), plus 劉醇逸 disambiguation hits (ota-148, dinner-with-john-liu, ourjourneys5 捐款 record — HOLD maintained). No new community material. Verified-saturated. -->
