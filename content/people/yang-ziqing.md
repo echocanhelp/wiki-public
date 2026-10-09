@@ -11124,3 +11124,5 @@ Notable quotes and mentions of **楊子清** in Taiwan Justice articles:
 <!-- TJJ-A10070700-21: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-21 articles b7ec76fa6b673920 / 2b3d5a363a2935eb（以立合唱團「致死的震怒近了」同稿兩存檔副本）: subject/author link re-checked vs 正文 this attempt (指揮 Cliff Yang 楊子清；authors frontmatter 楊子清), real, no wrong/spurious links; dated fact w/ both article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-26: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-26 article a40b37bc03b2b9cb（以立「希望之光」影音, author 楊子清提供影音）: author/subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-24: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-24 articles (4119cffe264101c6 音樂短講第13集主講兼作者 / 7214b273dfcb59ce 以立拯救我指揮; 2b2e0ebc 學生王子與753347eb 台文通訊30冬正文無涉本人): subject/author link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

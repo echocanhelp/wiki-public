@@ -127,3 +127,5 @@ last_reviewed: 2026-09-23
 
 <!-- TJJ-A10070700-15: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-15 article 52a71221d3029866 (台文通訊30週年慶祝會ONLINE公告, 2021-06-29): 鄭良光以【台文通訊】01-50期總編輯名列特別來賓名單 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10070700-20: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-20 article 2b4b26ff (English Pages 目錄頁, 2017-11-09 快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-24: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-24 article 753347eb4cf48066（台文通訊30冬紀念獎頒獎典禮公告）: 鄭良光以世界台灣文化論壇共同發起人來賓身分 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
