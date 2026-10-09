@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-09
 ---
 # Jensen Huang (黃仁勳)
 
@@ -69,6 +69,10 @@ Jensen Huang founded NVIDIA in 1993 and has served since its inception as presid
 
 - 複核（TJJ-A09171200-11, 2026-09-24）：本 slice 文章 923dad71（「台灣新聞」分類頁, 2023-12-01 存檔）正文再驗證——本頁所涉條目確認見於清單，subject 連結為真，無錯鏈、無虛鏈。（TJJ-A09231000-7 補掛：此前複核note所稱日期事實實際未在庫，下方 2023-12-01 條目為本次補齊）
 - 2023-12-01 — 台灣公義報「台灣新聞」分類存檔頁收「Catch大錢潮 20231201 黃仁勳『晶片純美製造』還要20年?」頭條條目，記錄其關於晶片純美製造時程的輿論關注（[[articles/taiwanjustice-net/2023/20231201231656_root_923dad711fb49f07|TJJ 台灣新聞存檔頁, 2023-12-01]]）。
+
+- 2023-05-27 — 應邀於台灣大學畢業典禮致詞：先「秀了一小段台語」（與上方台語復興指標相互印證——其台語使用已見於公開典禮場合），再以英語勉勵畢業生「要試著去追逐獵物，否則你自己就會成為獵物」，並連講輝達三次瀕倒挫折、稱 1984 與 2023 同為完美之年、青年正站在 AI 起跑線（[[articles/taiwanjustice-net/2023/20230923042746_2023_05_27_黃仁勳台大畢典致詞_畢業生站在ai起跑線-前景和40_f899ae200c599c7e|TJJ 台大畢典致詞報導, 2023-05-27]]；另見同日報導 [[articles/taiwanjustice-net/2023/20230923043416_2023_05_27_黃仁勳分享輝達3度受挫故事-鼓勵台大畢業生想成功_9abeb3e80a217e1c|TJJ「想成功別怕認錯」報導]]）。
+
+- 2025-04-17 — 美中關稅戰升級之際，應中國國際貿易促進委員會邀請訪問北京，與主管經濟事務的副總理何立峰會面，並會見 DeepSeek 創辦人梁文鋒，討論為中國開發符合雙方監管要求的新晶片；身著西裝（非慣常黑色皮衣）成為媒體話題（[[articles/taiwanjustice-net/2025/20250518201145_黃仁勳關稅戰烽火下訪北京-與中國副總理及梁文鋒_e43112de2451fa52|TJJ 訪北京報導, 2025-04-17]]）。此為 2026-01 北京下令中企停購輝達 AI 晶片一條的先前脈絡。
 
 - 複核（deepen-x 2026-09-25, slice 09240317-21）：fresh ZH+EN re-grep（黃仁勳 / Jensen Huang, works+articles）命中集合不變（ota-221、whos-who-226、award-79、fortune-business-person-of-the-year、our-journeys-387、TAIGI interview、TJJ 存檔頁），全數已吸收並 wikilink。SKIP-with-reason（saturated）。
 
