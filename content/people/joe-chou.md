@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Joe Chou (周景聲)
 
@@ -48,3 +48,4 @@ Deepen-x 2026-10-06 (slice 10051314-11): corpus grep (周景聲 / Joe Chou) surf
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 10062334-17: re-verified 2026-10-08 — fresh grep (周景聲/Joe Chou) across works/articles/sources/events/topics returns only whoswho1020-2, whoswho1360, index, sources, plus the ITPC org page already absorbed in slice 10051314-11 (on-page). 周 surname sweep hits other Chows (周明宏, 周慧香, 周滿惠). Nothing new absorbable. SKIP, saturated. -->
+<!-- deepen-x 10080735-31: verified-saturated re-check 2026-10-09 — fresh grep (周景聲/Joe Chou) across works/articles/sources/events/topics hits only the two Who's Who bibliographic records (whoswho1020-2, whoswho1360 — both already wikilinked on-page), index/sources hubs, and the ITPC org page (Rev. 周景聲, Religion-and-science instructor + notable speaker 2009–2026, already absorbed in slice 10051314-11). No memoir/letter mentions. Nothing new absorbable. SKIP, saturated. -->
