@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Doris Hsieh (謝必行)
 
@@ -43,4 +43,4 @@ last_reviewed: 2026-10-08
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-<!-- deepen-x 10062218-3: re-verified 2026-10-08 — fresh ZH+EN sweep of works/articles/sources/events/topics; hit set unchanged (ourjourneys106 blacklist roster + husband records ourjourneys37/47, mystories521, whoswho1517 — the latter two bibliographic records, full text stays in vault). 必行 substring hits elsewhere are the common phrase 事在必行, not the person. Nothing new absorbable. SKIP. -->
+<!-- deepen-x 10080600-20: re-verified 2026-10-09 — fresh 謝必行/Doris Hsieh/林武男 sweep of works/articles/sources/events/topics; hit set unchanged (ourjourneys106 blacklist roster incl. husband 林武男 + ourjourneys37/47 NATPA records, mystories521 memoir stub, whoswho1517 encyclopedia stub — full texts stay in vault). 必行 substring hits elsewhere are the common phrase 事在必行, not the person. Page already saturated; nothing new absorbable. SKIP. -->
