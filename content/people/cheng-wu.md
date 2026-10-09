@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Cheng Wu (吳錦城)
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-10-08
 - Corpus re-check 2026-09-23 (slice 09221400-26): grep -E over works/ and articles/ returns the same three records (TAH #1423, ourjourneys233 roster, 2025 台杉 quote under HOLD) — nothing new absorbable. Corpus re-check 2026-09-24 (slice 09230900-18): same three records — verified saturated, SKIP. Corpus re-check 2026-09-25 (slice 09240900-13): same three records + works/index — nothing new absorbable, SKIP. Corpus re-check 2026-09-26 (slice 09251417-7): same three records + works/index — nothing new absorbable, SKIP (台杉 quote remains on HOLD).
 - Corpus re-grep 2026-10-06 (deepen-x slice 10051340-16): fresh ZH+EN+variant grep (吳錦城 / Cheng Wu / 錦城) across works/articles/sources/events/topics — hit set identical (TAH #1423, ourjourneys233 roster, 2025 台杉 quote under HOLD, + index); nothing new absorbable. Verified-saturated, SKIP.
 - Corpus re-grep 2026-10-08 (deepen-x slice 10070018-6): fresh ZH+EN grep (吳錦城 / Cheng Wu) across works/articles/sources/events/topics — hit set identical (TAH #1423, ourjourneys233 roster, 2025 台杉 quote under HOLD, + sources index); nothing new absorbable. Verified-saturated, SKIP; 台杉 attribution remains on HOLD.
+- Corpus re-grep 2026-10-09 (deepen-x slice 10080720-5): fresh ZH+EN grep (吳錦城 / Cheng Wu / 錦城) across works/articles/sources/events/topics — hit set identical (whoswho1423, ourjourneys233 roster, 2025 台杉 quote under HOLD, + works/index + sources index); nothing new absorbable. Verified-saturated, SKIP; 台杉 attribution remains on HOLD.
 
 ## Family
 
