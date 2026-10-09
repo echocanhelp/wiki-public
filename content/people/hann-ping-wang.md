@@ -68,3 +68,5 @@ last_reviewed: 2026-09-25
 - Re-check 2026-09-25 (slice 09240600-12): fresh grep 王漢平/Hann-Ping Wang returns the identical set — TAH #200, TAH #753, Our Journeys 107, TJJ memorial essay, works index — all absorbed; no new community facts. SKIP-with-reason.
 
 <!-- TJJ-A10040600-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-2 article 9907500dda4f33bb (斯人已逝其德可追-緬懷鄭寶鼎博士 ◎林宏容, 2020-09-30): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607005-a: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607005-a article 9907500dda4f33bb (斯人已逝其德可追-緬懷鄭寶鼎博士 ◎林宏容, 2020-09-30刊/2026-01-21快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

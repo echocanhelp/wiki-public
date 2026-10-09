@@ -66,3 +66,5 @@ Re-verified 2026-09-21 (slice 09201400-23): corpus re-grep (works/articles) retu
 <!-- TJJ-A09250800-4: verified 2026-09-26 — subject links in slice 09250800-4 articles (6f2b431c / 08b82976 / 1a2bdc08 / 53455d7e) re-checked vs 正文; all real (1a2bdc08 Subjects links fixed: stray .md suffix removed); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-2 article 6f2b431c9cb0cca9 (台美人台加人頻道索引 p354, 2024-05-20 快照): subject links re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607005-d: verified 2026-10-09 — wave-2 link+deepen re-check of article 6f2b431c9cb0cca9 (台美人台加人頻道索引 p354, 2024-05-20快照): subject link re-checked vs 正文 this attempt — 「耳聰目明聲如洪鐘，她，黃蔡瑞雲才102歲」鄭炳全專訪條目 2015-10-26 real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
