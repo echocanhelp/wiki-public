@@ -73,3 +73,5 @@ last_reviewed: 2026-09-21
 <!-- TJJ-A10040700-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-7 article c30596cc1ea6e337 (「導讀台灣」標籤頁p2, 2024-06-20快照): subject link re-checked vs 正文 (「導讀台灣 20231210 被打壓的那場改選…郭雨新落選」條目確認見於清單), real, no wrong/spurious links; 2023-12-10 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10080401-20: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-20 article c30596cc1ea6e337 (「導讀台灣」標籤頁p2, 2024-06-20快照) read fresh this attempt: subject link re-checked vs 正文 (「導讀台灣 20231210 被打壓的那場改選…郭雨新落選」條目確認見於清單), real, no wrong/spurious links; 2023-12-10 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10080401-30: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-30 article 20250525051634_tag_導讀台灣_page_2_073ea211088c8fae (Tag: 導讀台灣 p2, 2025-05-25快照) read fresh this attempt: subject link re-checked vs 正文 (「導讀台灣 20231210 被打壓的那場改選…郭雨新落選」條目確認見於清單), real, no wrong/spurious links; 2023-12-10 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
