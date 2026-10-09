@@ -54,3 +54,5 @@ HOLD: corpus records titled "台美協進會" — [[works/taiwaneseamericanhisto
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]
 
 <!-- TJJ-A10060600-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-2 articles b4206bcf0ec508d6／f06677a469620539／e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》三存檔副本, TAF台灣人協進會辨析): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070800-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-2 articles b4206bcf0ec508d6／f06677a469620539／e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》三存檔副本, 同文): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
