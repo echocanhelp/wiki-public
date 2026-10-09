@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Jason Tsai (蔡智行)
 
@@ -53,3 +53,4 @@ last_reviewed: 2026-10-08
 <!-- deepen-x slice 09252123-18 (2026-09-26): verified-saturated — fresh ZH+EN grep returns only whoswho1608, index, and the two already-linked LID/JTASA works (context re-read: no facts beyond what Role in the Community already records); nothing new absorbable. -->
 <!-- deepen-x slice 10051200-28 (2026-10-06): verified-saturated — fresh ZH+EN grep returns the identical hit set (whoswho1608, the LID-camp and JTASA works, sources hub, works index); excerpt re-read of both works confirms the co-director + handbook facts already recorded in Role in the Community; nothing new absorbable. -->
 <!-- deepen-x slice 10062248-5 (2026-10-08): verified-saturated — fresh ZH+EN grep across works/+articles/+sources/+events/+topics returns the identical hit set (whoswho1608, the LID-camp and JTASA works, sources hub, works index); nothing new absorbable. -->
+<!-- deepen-x slice 10080720-11 (2026-10-09): verified-saturated — fresh ZH+EN+surname grep across all 5 corpus dirs returns the identical hit set (whoswho1608, LID-camp + JTASA works, sources hub, works index); excerpt re-read of both works confirms co-director + handbook facts already recorded; mentioned peers (Monica Chen, John Wang, Brian Tseng, Erica Ling et al.) have no existing pages, so no new wikilinks permitted; nothing new absorbable. -->
