@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Dr. Jacob Huang (黃正雅醫師)
 
@@ -48,4 +48,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10080720-21 recheck 2026-10-09: SKIP — fresh ZH+EN+surname-only grep (黃正雅|Jacob Huang|正雅 across works/articles/sources/events/topics) returns the identical hit set: own [[works/taiwaneseamericanhistory-org/whos-who-1681-jacob-huang|TAH #1681]], [[works/taiwaneseamericanhistory-org/ourjourneys12|Our Journeys 12]] (2008 會章 revision, consistent with 林淑麗 譯稿), works index, source hub — all absorbed. Verified saturated. -->
 <!-- deepen-x slice 10051200-31 recheck 2026-10-06: SKIP — fresh ZH+EN grep (works/articles/sources/events/topics, incl. 正雅-only sweep) returns only [[works/taiwaneseamericanhistory-org/ourjourneys12|Our Journeys 12]], own [[works/taiwaneseamericanhistory-org/whos-who-1681-jacob-huang|TAH #1681]], works index, source hub — all already absorbed. Verified saturated. -->
