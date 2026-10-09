@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Yi-Ting Christine Hsieh
 
@@ -51,3 +51,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09250500-26: re-verified 2026-09-25 — fresh ZH+EN corpus grep of works+articles returned only records already absorbed on this page; no new material. -->
 <!-- deepen-x 09261100-23: re-verify 2026-10-01 — fresh full-corpus ZH+EN grep of content/works + content/articles: hit set identical to prior passes (own TAH records + works index; other-name matches are different people). Verified corpus-saturated; no new absorbable material. SKIP content-deepen. -->
 <!-- deepen-x 10052158-10: verified-saturated (2026-10-07) — five-dir sweep (works/articles/sources/events/topics) yi-ting/christine/hsieh variants + clarinet cross-probe. Extra hits are different people or unrelated: TPC roster 'Ya-Hueh Tina Chang Hsieh'/'Christine Shen Shieh' (ourjourneys305), Yi-Ting Chang @ Chiayi Univ (2018/2006 studies), Jen Chan clarinet record (musician series, not her). Only own records 430/2141 + index remain. Duplicate-page HOLD with [[people/yi-ting-hsieh]] stays. -->
+<!-- deepen-x 10070717-17: verified-saturated (2026-10-09) — five-dir sweep (Yi-Ting/Christine Hsieh variants + clarinet cross-probe): extra hits are different people (Yi-Ting Chang @ Chiayi Univ in tourism paper, Yi-Ting Chung historian, Jen Chan clarinet record). Only own records musician430/whos-who-2141 + index remain. Duplicate-page HOLD with [[people/yi-ting-hsieh]] stays. -->

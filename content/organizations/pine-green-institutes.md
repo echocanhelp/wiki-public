@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Pine Green Institutes (松青學院)
 
@@ -32,3 +32,4 @@ Pine Green Institute (松青學院) is a Taiwanese American community learning p
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09250600-3: re-verify — fresh ZH+EN grep of works/+articles/; hit set identical to prior passes, all hits already linked; no new absorbable corpus facts. -->
 <!-- deepen-x 10052158-12 (2026-10-07): re-verify — five-dir grep (works/articles/sources/events/topics) for 松青/Pine Green: hits unchanged = own work record pine-green-institutes + works/index + sources index. No new corpus facts. SKIP stands, verified-saturated. -->
+<!-- deepen-x slice 10070717-21 (2026-10-09): re-verify — fresh five-dir grep for 松青學院/Pine Green/松青: hit set identical (own work record + works/index + sources index). No new absorbable corpus material. Verified-saturated SKIP. -->

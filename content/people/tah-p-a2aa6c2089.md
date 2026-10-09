@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # 李泰雄筆名
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09231100-32: verified-saturated — re-grep 2026-09-25 (李泰雄|南鄉泰, works+articles): same 3 own records + index; nothing new absorbable. -->
 <!-- deepen-x 09261100-7: verified-saturated (2026-10-01) — re-grep 李泰雄 / 南鄉泰 / 南乡泰 (works+articles): only publications65, 非異鄉人, own record 362 + index. HOLD on name-form conflict stays. -->
 <!-- deepen-x 10052158-10: verified-saturated (2026-10-07) — five-dir sweep (works/articles/sources/events/topics) 李泰雄/南鄉泰/南乡泰 + substring probes 泰雄/南鄉/南乡. Substring hits are false positives (台南鄉親, 湖南鄉勇 in taiwanjustice-net; unrelated 鄉勇 context in ourjourneys304). Only own records (publications65, 非異鄉人, 362) + index remain. HOLD on name-form conflict stays. -->
+<!-- deepen-x 10070717-17: verified-saturated (2026-10-09) — five-dir sweep 李泰雄/南鄉泰/南乡泰 + surname probe 泰雄: surname hits are only the own records publications65 and 362. No new material. HOLD on name-form conflict (李泰雄筆名 vs 李泰雄 real name, pen name 南鄉泰) stays. -->

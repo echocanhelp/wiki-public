@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # AJ WANG FOUNDATION – SCHOLARSHIP FUND
 
@@ -32,3 +32,4 @@ The AJ Wang Foundation is a 501(c)(3) non-profit organization established in Nov
 ## Corpus check (deepen-x 09230400-29, 2026-09-24)
 SKIP (re-confirmed) — fresh grep of works/ + articles/ for "AJ Wang" returns only the own-records and the works index; no new corpus facts absorbable. Re-grep 2026-09-26 (slice 09251023-21): the only extra hits (ourjourneys278, whoswho1572) are 王震昭 / Chen-Chao Wang — a substring false positive on 王震, unrelated to this Foundation; founder still unrecorded in corpus (HOLD stands).
 - Verified-saturated 2026-10-07 (slice 10052158-10): five-dir sweep (works/articles/sources/events/topics) with control probes (`aj[ ._-]*wang`, `wang.*foundation`, `獎學金`). Scholarship-name hits (Andrew Lee Memorial, Cenzone/SDTCA, awards77/79, ourjourneys entries) contain no AJ Wang reference — false positives on the shared term. Only own records 13/90 + works index + sources directory remain. SKIP.
+<!-- deepen-x 10070717-17: verified-saturated (2026-10-09) — five-dir sweep (AJ Wang variants + scholarship cross-probe): extra hits are unrelated scholarship records (Andrew Lee Memorial, Cenzone/SDTCA, awards77/79) with no AJ Wang reference, plus substring false positives in taiwanjustice-net articles. Founder still unrecorded (HOLD stands). -->
