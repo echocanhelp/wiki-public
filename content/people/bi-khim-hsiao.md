@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Bi-khim Hsiao (蕭美琴)
 
@@ -407,3 +407,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10080401-24: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-24 article 20220705131026_2022_05_16_南加州教會槍殺案_駐處查證_凶嫌為台灣移民_8c20569762592915 (南加州教會槍殺案 中央社報導, 2022-05-16刊/2022-07-05快照): 黃敏境代表政府、外交部長吳釗燮及駐美代表蕭美琴向鄭達志家屬哀悼之記述 re-checked vs 正文, subject 連結為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10080401-30: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-30 article 20250525051634_tag_導讀台灣_page_2_073ea211088c8fae (Tag: 導讀台灣 p2, 2025-05-25快照) read fresh this attempt: subject link re-checked vs 正文 (「導讀台灣 20231203 蕭美琴的從政之路!」條目確認見於清單), real, no wrong/spurious links; 2023-12-03 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10080949-3: verified 2026-10-09 — page read fresh; fresh corpus sweep (蕭美琴/Bi-khim/蕭 across works/articles/sources/events/topics): every Bi-khim-corpus work already wikilinked in TAH story corpus section (#990 autobiography, #391 profile story, #757 encyclopedia, #816 father obit, #866 NYT profile, events2021-2 inauguration); remaining 蕭-only hits are unrelated Hsiao/蕭 surnames (e.g. whos-who-1558 Frank S.T. Hsiao) — no new material, saturated. last_reviewed bumped. -->
