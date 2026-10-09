@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Taiwanese American Student Association at UCR
 
@@ -36,3 +36,5 @@ The Taiwanese American Student Association at UCR (TASA @ UCR) is a student cult
 <!-- deepen-x slice 09260900-1 (2026-09-30): re-verified — fresh grep: "TASA" hits = seniors-association (Our Journeys #173) + ITASA records (#276/#157/history-of-itasa), no UCR TASA material; UC Riverside appears only as unaffiliated undergrads in the Cambodia medical-mission memoir (Our Journeys #274) — not absorbed (identity unverifiable). Verified saturated; SKIP. -->
 
 <!-- deepen-x slice 10052158-5 (2026-10-07): saturated re-verify — five-dir grep (TASA/UCR/Riverside + full-name 'Taiwanese American Student Association' probe): TASA hits = Seniors Association (#173) + ITASA/PTASA/RTSA/JTASA campus records only, no UCR entry in any campus roster; 'Riverside' hits remain NY Riverside Church / UC Riverside unaffiliated undergrads (#274). No UCR TASA material. SKIP. -->
+
+<!-- deepen-x slice 10070717-14 (2026-10-09): saturated re-verify — five-dir grep (works/articles/sources/events/topics) for TASA / UCR / full name 'Taiwanese American Student Association': hits = Seniors Association of SoCal (#173), ITASA/PTASA/RTSA campus rosters, and the OFTaiwan award article only; no UCR campus entry in any roster, no UCR-specific material. Verified saturated; SKIP. -->

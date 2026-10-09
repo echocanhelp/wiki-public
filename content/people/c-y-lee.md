@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # C. Y. Lee (李欽勇博士)
 
@@ -45,6 +45,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-26 corpus re-check (slice 09252123-2): hit set unchanged (TAH #1444 李欽勇, the 2020 李宗穎 record, the Shanghai Expo article, index). Verified-saturated; both HOLDs stand; SKIP-content.
 - 2026-10-01 corpus re-grep (slice 09260900-15): fresh grep (李欽勇 / 李宗穎 / C. Y. Lee) across works/ + articles/ returns only records already cited above — the two bibliography-only TAH records (#1444, #2020: 'Bibliographic record only. Full text stays in the vault' — no absorbable body text), the Shanghai Expo article, and index rollup rows. SKIP: verified-saturated, no new corpus facts; both HOLDs stand.
 - 2026-10-07 corpus re-grep (slice 10052158-6): five-dir grep (李欽勇 / 李宗穎 / C. Y. Lee across works/articles/sources/events/topics) returns the identical hit set — two TAH records, Shanghai Expo article, MANIFEST/index rollups, and the taiwanjustice-net 李宗穎 column already cited. Verified-saturated; both HOLDs stand; SKIP-content.
+- 2026-10-09 corpus re-grep (slice 10070717-14): five-dir grep (李欽勇 / 李宗穎 / C. Y. Lee across works/articles/sources/events/topics) returns the identical hit set — two TAH records (#1444, #2020), Shanghai Expo article, MANIFEST/index rollups, taiwanjustice-net 李宗穎 column. Verified-saturated; both HOLDs stand; SKIP-content.
 ## Sources
 - [TAH Who's Who](https://taiwaneseamericanhistory.org/person/c-y-lee/)
 
