@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-09
 ---
 # Yih-Fu Shiau (蕭逸夫)
 
@@ -37,7 +37,7 @@ _No filled family fields on the TAH profile._
 ## Corpus footprint
 
 - [[works/taiwaneseamericanhistory-org/whoswho1341|1341. Yih-Fu Shiau 蕭逸夫 / 2016/10]] — TAH Who's Who profile record (bibliographic only; no additional community facts in the corpus).
-- SKIP note (2026-09-18; re-scans 2026-09-25 deepen-x-27, 2026-09-26 slice 09251054-15): corpus grep (ZH+EN) found no memoir/article material beyond this own-profile record; nothing absorbable beyond the existing TAH snapshot.
+- SKIP note (2026-09-18; re-scans 2026-09-25 deepen-x-27, 2026-09-26 slice 09251054-15, 2026-10-09 slice 10070714-23): corpus grep (ZH+EN) found no memoir/article material beyond this own-profile record; nothing absorbable beyond the existing TAH snapshot. Grep caveat for future passes: substring 逸夫 matches 邵逸夫 (Run Run Shaw, unrelated HK figure) in taiwanjustice-net articles — false positive, not this person.
 
 ## Sources
 - [TAH #1341 encyclopedia: 1341. Yih-Fu Shiau 蕭逸夫 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1341/)
