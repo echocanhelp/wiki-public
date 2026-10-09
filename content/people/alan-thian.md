@@ -416,3 +416,5 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 <!-- TJJ-A100607003-c: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607003-c article 2a543ddc9301b7b3 (大洛杉磯台灣會館24週年募款年會公告, 2022-09-13發文／20220924快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607006-d: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607006-d article b1d58af16c0a5e5b (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, 2021-06-16快照): subject link re-checked vs 正文 this attempt, real (田詒鴻 列名共同發起人清單, 漢名與本頁標題相符), no wrong/spurious links; 2021-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607008-c: verified 2026-10-09 — wave-2 link+deepen re-check of article 74a9c518e681a3de (台美人台加人 分類存檔 p2, 2020-06-26快照): subject link 田詒鴻 re-checked vs 正文 this attempt (「田詒鴻代表桃園市捐贈防疫物資，關懷友好城市長堤市」條目確認見於正文), real, no wrong/spurious links; 2020-05-30 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
