@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 deepened: diaspora-relationship layer 2026-09-26
 name_en: "Lai Ching-te"
 name_zh: "賴清德"
@@ -94,6 +94,7 @@ Comparative frame from [[sources/zh-wikipedia-lai-ching-te||zh.wp]]; movement-re
 - **Diaspora actors named in the new layer:** [[people/lin-rongsong|林榮松]] (海外助選團團長, 2020) · 吳兆峯 (大洛杉磯信賴之友會副總幹事 — no page yet, 1-mention) · 彭光理 Michael Fonte (AIT-DC, 賴頒獎章 — no page yet) · 童振源 (僑委會, 2021 228 — no page yet) · [[people/bi-khim-hsiao|蕭美琴]] (駐美代表→2024搭檔, strengthened)
 - **Vault people links:** [[people/tsai-ing-wen|蔡英文]] (任命閣揆、2020搭檔) · [[people/bi-khim-hsiao|蕭美琴]] (2024搭檔) · [[people/yi-ho-cheng|鄭義和]] (FCA 2022接見) · [[people/freeman-huang|Freeman Huang]] (TJJ publisher)
 - **Press:** [[organizations/taiwanjustice-net||台灣公義網]] — 211 article hits, hub at [[articles/taiwanjustice-net/index||TJJ archive index]]
+- **Current-history (family, Tier E living record):** the transnational-repression case touching his son [[people/lai-ting-yu|賴廷與]] is held as live event records: [[topics/t-跨國鎮壓-到了賴清德之子-台灣激憤-網民肉搜張婉瑩的奢侈生活|跨國鎮壓到了賴清德之子 (RFI)]] · [[topics/t-監視賴清德之子賴廷與不只1人-fbi突襲加州華商豪宅-疑似共犯已搭機返中國-上報up|FBI突襲加州華商豪宅 (上報)]] · [[topics/t-討論牆-中國女間諜跟監賴清德兒子-洛杉磯機場遭美fbi逮捕-長相首度曝光-line|中國女間諜跟監 (LINE TODAY)]] · [[topics/t-沈伯洋-賴清德兒子遭跨國鎮壓頻傳-政院-正密集討論-反滲透法-修法|政院討論反滲透法修法 (Yahoo)]] — all allegations recorded as reported, not verified; biography detail lives on the son's page, not here.
 
 ## From the record
 
@@ -181,3 +182,5 @@ Comparative frame from [[sources/zh-wikipedia-lai-ching-te||zh.wp]]; movement-re
 <!-- TJJ-A100606005-c: verified 2026-10-09 — wave-2 link+deepen re-check of article 1fbc7a8aff9cd26e (藍綠台北衝選情, 自由時報 2019-12-22): subject link re-checked vs 正文 this attempt (率車隊繞行雙北、民生社區直播同場吳怡農/許淑華), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607007-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 2a3226a1b19c5a46 (中央社記者蕭美琴副手專稿轉載, 2023-11-20刊, 2023-12-08快照): subject link re-checked vs 正文 this attempt — 「賴清德代表民進黨角逐2024總統大選」並確定蕭美琴為副手搭檔之記述確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink (2023-11-20) already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10080949-2: 2026-10-09 slice re-grep (賴清德/Lai Ching-te/surname 賴 across works/articles/sources/events/topics). works hits unchanged (ourjourneys181, ourjourneys192, our-journeys-382, a-republic-of-taiwan-chloe-shih — all already wikilinked). NEW material found: 4 Tier-E living event records under topics/ on the transnational-repression case touching his son 賴廷與 (created 2026-10-08/09 by news-scan, not yet linked from this page) — linked into Network as current-history, allegations kept as reported per CONTROL §1b Tier E labeling rule; biography facts stay on [[people/lai-ting-yu]], no dates/ages merged here. No conflicts to HOLD. -->
