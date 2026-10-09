@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Tsung Ming Hsieh (謝聰敏)
 
@@ -32,6 +32,18 @@ last_reviewed: 2026-10-01
 ## Family
 
 _No filled family fields on the TAH profile._
+
+## Role in the Community
+
+Corpus (Our Journeys) material beyond the press coverage below:
+
+- **Co-author of the 1964-09-20 「台灣人民自救宣言」** with 彭明敏 and 魏廷朝; the text was rendered into English for overseas circulation — 楊宗昌 translated it in 1965 for circulation among Taiwanese students and American friends ([[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys #33, 張炎憲]], and 陳以德 of the 聯盟 produced bilingual leaflets and the 1965-11-20 New York Times ad ([[works/taiwaneseamericanhistory-org/ourjourneys7|Our Journeys #7, 張燦鍙]]).
+- **Voice from prison / after imprisonment.** Described in the 美東南區台灣人夏令會 history as the 「黨外」 figure who had been jailed 十多年 for the 自救宣言 and who gave the 1984 (第六屆) theme address 「由台灣的政治案件看台灣的未來」 at Francis Marion College, S.C. ([[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys #245, 劉格正]]).
+- **Blacklist return, 1986-11-30.** With 許信良 and 林水泉 he flew from Narita to 桃園機場 for the blacklist-home campaign, the crowd-welcoming that produced the 桃園機場事件 ([[works/taiwaneseamericanhistory-org/ourjourneys230|Our Journeys #230, 邱萬興]]; see also the 台民主黨/返鄉 account in [[works/taiwaneseamericanhistory-org/our-journeys-363|Our Journeys #363]]).
+- **Community speaking circuit in the U.S.** 黨外謝聰敏 came to the Minnesota 同鄉會 in 1984 ([[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys #123, 曾啟明]]); on 1985-03-02 he lectured 「二二八當代人物」 at the Bay Area 人權會 二二八 commemoration ([[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357, 何義麟]]).
+- **Post-1980s media work.** 吳木盛's 1986 essay records him actively pushing to launch an overseas Chinese-language daily (「海外日報」催生), after the 美麗島週報 era ([[works/taiwaneseamericanhistory-org/ourjourneys222|Our Journeys #222, 吳木盛]]).
+- **Remembered by the community.** 何來美's tribute 「反抗台灣獨裁政權的勇士-謝聰敏先生」 (2019-09-16) and his own oral history are held in the corpus ([[works/taiwaneseamericanhistory-org/my-stories-696|My Stories #696]]; [[works/taiwaneseamericanhistory-org/videos58|Videos #58 謝聰敏口述歷史]]).
+- HOLD: sentence length conflicts — 10 years under 「預備顛覆政府」 (Thornberry memorial / TJJ 2017-03-12) vs eight years (去殖民化 essay, TJJ 2023-06-02). Not auto-merged.
 
 ## From the record
 
