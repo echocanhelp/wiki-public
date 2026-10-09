@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Marilyn Fu
 
@@ -25,6 +25,7 @@ last_reviewed: 2026-10-08
 - Related cast link: [[works/taiwaneseamerican-org/sisterhood-of-night-catherine-huang|Catherine Huang record]] (the teen lead whose role Fu wrote).
 - The film adapts Steven Millhauser's short story of the same name; its cast includes Louis Ozawa Changchien (*Predators*), Hudson Yang (*Fresh Off the Boat*) and David Chen — all of Taiwanese heritage — alongside Willa Cuthrell as the teen lead Catherine Huang. Fu stated the film has "absolutely nothing to do with race/ethnicity," but that the diverse casting lets Taiwanese American audiences see themselves on screen. Absorbed from the band-A community interview [[works/taiwaneseamerican-org/marilyn-fu|Meet Marilyn Fu]] (2015-03-20).
 - Her own TAH story-corpus encyclopedia entry is held in the corpus: [[works/taiwaneseamericanhistory-org/403-marilyn-fu-201505|403. Marilyn Fu / 2015/05]] (2015-05-10, band B; bibliographic record — full text stays in the vault). Corpus re-check 2026-10-01 (slices 09231100-32, 09250500-12, 09261200-1): fresh ZH+EN grep of works+articles returns the same 5 work pages already linked above (own TAH record, both interviews, NATWA 2015, Catherine Huang) plus works/index; no new community material.
+- Corpus re-check 2026-10-09 (slice 10080500-30): fresh grep of 'Marilyn Fu' / 'Sisterhood of Night' across works/articles/sources/events/topics returns only the pages already linked above plus works/index and the sources register; the surname-Fu hits (e.g. [[works/taiwaneseamericanhistory-org/whos-who-2299-k-p-fu|Dr. K. P. Fu 傅康平博士]]) are a different person — no relation asserted; verified saturated, no new community material.
 
 <!-- tah-tables:start -->
 ## Education
