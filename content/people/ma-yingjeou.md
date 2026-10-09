@@ -193,4 +193,6 @@ last_reviewed: 2026-10-01
 
 <!-- TJJ-A10070900-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-1 articles becb39f917174438 / 2c9cb76838702dd7 / 3260cd0bdf2f84d7 / 71a7c64663ea03b6: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact(s) w/ article wikilink(s) already in From the record — saturated, no new material. -->
 
+<!-- TJJ-A100607003-d: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607003-d article f19de8f9d3b53071 (Chen Shui-bian's return to prison / Michael Richardson, 2013-04-22; 2024-04-25快照): subject link re-checked vs 正文 this attempt — Healey「莫讓馬英九謀殺陳水扁」、馬政府復仇政治與涉入司法、民調支持度創新低等論述確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 <!-- TJJ-A10070900-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-3 article 795e52aadf3797a0 (2015-01-07 Richardson評述轉載): subject link re-checked vs 正文 this attempt, real (馬被論為保外就醫為呂秀蓮絕食所迫、同一法官判扁清馬、蔣經國翻譯背景等記述確認見於正文), no wrong/spurious links; 2015-01-07 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -198,4 +198,6 @@ In 2006, the party ended official recognition of factions, though they remain re
 
 <!-- TJJ-A10070900-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-1 article becb39f917174438 (The Economist via TJJ, 2013-10-06): subject link re-checked vs 正文 this attempt (DPP揚彈劾/罷免馬、批評ICAO邀請出於中國建議), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
+<!-- TJJ-A100607003-d: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607003-d article f19de8f9d3b53071 (Chen Shui-bian's return to prison / Michael Richardson, 2013-04-22; 2024-04-25快照): subject link re-checked vs 正文 this attempt — DPP主席蘇貞昌會見護台聯盟Aquia Tsay後入監探視扁、黨譴責移監之論述確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 <!-- TJJ-A10070900-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-3 article 795e52aadf3797a0 (2015-01-07 Richardson評述轉載): subject link re-checked vs 正文 this attempt, real (評述反駁SCMP「分裂民進黨」論、認為扁釋放證明和平革命確認見於正文), no wrong/spurious links; 2015-01-07 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
