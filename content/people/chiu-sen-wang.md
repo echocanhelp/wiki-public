@@ -82,3 +82,5 @@ last_reviewed: 2026-09-27
 <!-- TJJ-A10030500-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-4 article f4bc88a293a5ec0d (二二八事件77周年大洛杉磯台灣會館追思紀念報導, 2024-02-25 刊, 2024-02-25 刊): 王秋森教授主講「二七部隊」 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-14: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-14 articles (b7327dcf 台美史料中心March2021通訊, 2021-02-28 / 95fd8186 二二八77週年大洛杉磯台灣會館追思紀念大會, 2024-02-25 / 26f76359 糖尿病與你王秉訓演講記錄, 2019-10-31 / a1b56965 彭明敏研討會跨世代對談, 2023-09-24): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10080501-5: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080501-5 article f4bc88a293a5ec0d (二二八事件77周年大洛杉磯台灣會館追思紀念報導, 2024-02-25刊／2025-02-13快照) read fresh this attempt: 王秋森教授主講「二七部隊」確認見於正文; subject link re-checked, real, no wrong/spurious links; 2024-02-24 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
