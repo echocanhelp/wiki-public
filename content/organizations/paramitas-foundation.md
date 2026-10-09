@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Paramitas Foundation
 
@@ -28,6 +28,7 @@ Paramitas Foundation was founded by Winston Chen in 1992. The Foundation support
 - 陳文雄事蹟另見 [[works/taiwaneseamericanhistory-org/892-an-immigrants-experience-on-air-force-one-the-story-of-winston-chen-nicole-a|892. An Immigrant's Experience on Air Force One]]、[[works/taiwaneseamericanhistory-org/photo-albums-activities-100|100. An Immigrant's Experience on Air Force One – Dr. Winston Chen]] 及傳記《美國奇蹟：台灣留學生陳文雄搭上空軍一號的故事》([[works/taiwaneseamericanhistory-org/publications1073|1073]])。
 - 創辦人參與北加州台灣協志會會務與創業網絡之旁證見 [[works/taiwaneseamericanhistory-org/ourjourneys37|37. 台灣協志會成立與大事記（紀哲嘉，2014/09）]]：陳文雄列名該會會員攜手合資創業的成功例子（Solectron，與林典謨、林瑞松等），並曾任全美台灣工商會會長；江南案報導中亦被點名為灣區台獨幹部（該文屬報導引述，非本協會紀錄）。此為創辦人活動面向之新增語料，Paramitas 機構本身紀錄未變。
 - Re-grep 2026-10-07 (slice 10052158-6): fresh grep Paramitas across works/articles/sources/events/topics returns only org record #25 + works index + sources rollup — institution-level coverage verified-saturated; the new material above concerns founder-level activity only.
+- 創辦人陳文雄早期社會運動面向之新增語料（機構紀錄本身未變）：1975 年與黃介山共同創立蓬萊歌劇團、1976-02-14 於南灣同鄉會年會首演——見 [[works/taiwaneseamericanhistory-org/ourjourneys38|38. 北加州台灣同鄉聯合會三十年回顧 / 石清正 / 2014/10]]；該文並列陳文雄為協志會歷任會長之一（黑名單世代）。陳文雄名列中華民國黑名單（協志會會長欄）之紀錄另見 [[works/taiwaneseamericanhistory-org/ourjourneys106|106. Political Activities of Taiwanese Americans: 2, 中華民國的黑名單 / 何文亮、莊峻華 / 2015/02]]。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/paramitas-foundation/)

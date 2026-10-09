@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Paul B. Hshieh 六 (謝博六博士)
 
@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 09300321-3: re-verify 2026-10-04 — fresh ZH+EN grep (works+articles): hits = ourjourneys-138, whoswho1237, 50948, works/index — identical to prior passes; roster column title still absent in our copy, HOLD on exact office retained. Verified-saturated; SKIP-no-new-facts. -->
 
 <!-- deepen-x slice 10052158-5 (2026-10-07): saturated re-verify — five-dir grep (謝博六/Hshieh + surname/博六/Paul B probes): hit set identical to prior passes (ourjourneys-138 roster, whoswho1237, 50948); the extra 'Paul B' hit is Paul Bo Yi Lin 林博逸 (videos94, false positive). Roster column title still absent from our copy, HOLD retained. SKIP. -->
+
+<!-- deepen-x slice 10070717-13 (2026-10-09): saturated re-verify — five-dir grep (謝博六/Hshieh/surname/Paul B): hit set identical to prior passes (ourjourneys-138 roster, whoswho1237, 50948, videos94 false positive, works/index, sources rollup); the two new articles/ hits are Paul Bailey (AU Financial Review editor) and Jean Paul Benavente (Cusco official) — substring false positives, not absorbed. Roster column title still absent, HOLD retained. SKIP. -->
