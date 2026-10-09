@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # B. C. Hsu (許炳堅博士)
 
@@ -32,7 +32,7 @@ last_reviewed: 2026-10-07
 <!-- tah-tables:end -->
 
 ## Role in the Community
-- Corpus sweep (works/articles) found no community narrative material beyond his own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whoswho1404|1404. B. C. Hsu 許炳堅 / 2016/11]]（bibliographic record only, band B）. Nothing absorbable; no biography invented.（復核語料比對 2026-09-22、2026-09-25、slice 09251054-31 2026-09-26、slice 10052158-22 2026-10-07：仍無可吸收社群記述。）
+- Corpus sweep (works/articles) found no community narrative material beyond his own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whoswho1404|1404. B. C. Hsu 許炳堅 / 2016/11]]（bibliographic record only, band B）. Nothing absorbable; no biography invented.（復核語料比對 2026-09-22、2026-09-25、slice 09251054-31 2026-09-26、slice 10052158-22 2026-10-07、slice 10070717-30 2026-10-09：仍無可吸收社群記述。）
 
 ## Family
 
