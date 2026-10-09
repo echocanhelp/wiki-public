@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # 黃秀華
 
@@ -53,4 +53,5 @@ last_reviewed: 2026-10-08
 <!-- deepen-x 09231200-22: re-verify 2026-09-25 — fresh grep ZH+EN over works+articles: hit set identical to prior passes (own TAH record(s) + harvest index only). Nothing new absorbable. SKIP-no-new-material. -->
 <!-- deepen-x 09250500-21: re-verify 2026-09-25 — fresh grep 黃秀華 over works+articles: same hit set (#1660, #147, essay 人間煉獄四月天, index) — all already linked. SKIP-no-new-material. -->
 <!-- deepen-x 09261100-16: re-verify 2026-10-01 — fresh grep 黃秀華/S. H. Huang over content/works+content/articles: hit set identical to prior passes (own records #1660, #147, essay 人間煉獄四月天, works/index rollup only). Nothing new absorbable. SKIP-no-new-material. -->
+<!-- deepen-x 10080720-14: re-verified 2026-10-09 — fresh grep 黃秀華/S. H. Huang/秀華 over all 5 corpus dirs: only true hits are her own records (#1660, #147, essay 人間煉獄四月天) — all linked. Other hits are name collisions (沈秀華 sociologist, 曾秀華 文化組, 吳秀華 台東議長, 張秀華, 黃欣怡) — not this person. Nothing new absorbable. SKIP-no-new-material. -->
 <!-- deepen-x 1006 slice 30: re-verified 2026-10-06 — alias sweep (黃秀華/S. H. Huang/Oliver Chen/陳富美) adds only her son Oliver Chen's own records ([[works/taiwaneseamericanhistory-org/ota-239|239. Oliver Chen 陳奧利佛]], [[works/taiwaneseamericanhistory-org/whos-who-676-oliver-chen|676. Oliver Chen]]) which contain no mention of her. Ambiguous lead: 陳富美 appears once in [[works/taiwaneseamericanhistory-org/ourjourneys161|Our Journeys #161]] (2000~2001 婦女信箱 editor list) — name collision with the husband field unreconciled, HOLD (never auto-merge). No new absorbable material. -->
