@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Shu Hua Wai (韋黃淑華)
 
@@ -40,7 +40,7 @@ last_reviewed: 2026-10-01
 - [TAH #593 encyclopedia: 593. Shu Hua Wai 韋黃淑華](https://taiwaneseamericanhistory.org/593-shu-hua-wai-%e9%9f%8b%e9%bb%83%e6%b7%91%e8%8f%af/) — corpus mirror: [[works/taiwaneseamericanhistory-org/593-shu-hua-wai-e9-9f-8b-e9-bb-83-e6-b7-91-e8-8f-af|593. Shu Hua Wai 韋黃淑華]]
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/shu-hua-wai/)
 
-> SKIP (deepen-x 09172104-7, 2026-09-18; re-grepped 2026-09-21, 2026-09-25, and 2026-09-26 slice 09251054-15): only corpus hit is her own TAH encyclopedia entry (self-referential directory record) plus the works index; no memoir/community material — nothing absorbable.
+> SKIP (deepen-x 09172104-7, 2026-09-18; re-grepped 2026-09-21, 2026-09-25, 2026-09-26 slice 09251054-15, and 2026-10-09 slice 10070714-27): only corpus hit is her own TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/593-shu-hua-wai-e9-9f-8b-e9-bb-83-e6-b7-91-e8-8f-af|593. Shu Hua Wai 韋黃淑華]] (self-referential directory record) plus the works index; no memoir/community material — nothing absorbable. The 2026-10-09 five-dir sweep's 淑華 substring hits were all other people (顏淑華 of NATWA月曆銷售, 許淑華 立委候選人, 方淑華 台積電法務長); exact-name 韋黃淑華 appears nowhere else. Verified saturated.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
