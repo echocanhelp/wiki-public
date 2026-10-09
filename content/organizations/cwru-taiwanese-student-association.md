@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # CWRU Taiwanese Student Association
 
@@ -28,3 +28,5 @@ The CWRU Taiwanese Student Association (CWRUTSA) is a student organization at Ca
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070717-26 2026-10-09: five-dir re-sweep (works/articles/sources/events/topics; ZH+EN+variant names) — hit set identical to all prior passes. CWRU/Case Western: presidential-debate news (venue false match) + digest-hash false match + sources registry row only. 何達夫/Ta-Fu Ho: own whoswho1264 + memorial-scholarship work 34 + index/registry rows only. 胡博文/Po Hu/Axxion: own record 329 + works index + Pew statement signatory list (already linked) only. 蘇藤宗/Dean Su: own records whos-dean-su #1280 + 331 文學 piece + index/registry rows only. No new absorbable corpus material; verified-saturated. -->
