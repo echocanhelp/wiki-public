@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Joseph Lin (林以信)
 
@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 
 <!-- deepen-x 10051200-2 (2026-10-06): fresh ZH+EN grep of works/ + articles/ returns own profiles #299/#650, winners31 總統學者獎 1996, #1236 林永青 HOLD, sources index — identical hit set; verified-saturated, SKIP-with-reason. -->
 <!-- deepen-x 10060958-1 (2026-10-08): fresh ZH+EN grep across works/articles/sources/events/topics returns #299/#650, winners31, #1236 林永青 HOLD, works+sources index — identical hit set; alias sweep (Juilliard/朱利亞/弦樂四重奏) hits (ourjourneys339, ff13, ourjourneys123) contain no 林以信/Joseph Lin mention — verified-saturated, SKIP-with-reason. -->
+<!-- deepen-x 10080500-21 (2026-10-09): fresh ZH+EN+alias grep (林以信/Joseph Lin/Juilliard) — name hits unchanged (#299/#650, winners31, #1236 林永青 HOLD, indexes); new Juilliard-alias hits (juliana-wayne-interview, michelle-young-the-art-spy, taiwanjustice music columns) all concern other musicians, zero 林以信 mentions — verified-saturated, SKIP-with-nothing-absorbable. -->
