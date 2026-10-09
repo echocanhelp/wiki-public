@@ -110,3 +110,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10070700-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-3 article dc44b297e6225e64 (郝龍斌倡導阿扁保外就醫論評全文, 2024-07-19 快照): 文末「記錄: 吳瑞惠」確認見於正文; subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-4: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-4 article 23a52af3dcf8a6ce (「記憶的神經科學」標籤頁, 2024-07-23 快照): subject link re-checked vs 正文 (本人為 2017-02-23 報導之文字紀錄撰寫人吳瑞惠, 蕭慶和攝製), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10080401-14: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-14 article be7ac05c58e6eab6 (黃勝雄醫師「老人的記憶與記憶的神經科學」全文, 2017-02-23 發文 / 2024-06-13 快照) read fresh this attempt: subject link re-checked vs 正文 (文末「(吳瑞惠 紀錄)」署名確認見於正文), real, no wrong/spurious links; 2017-02-23 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
