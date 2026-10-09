@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # B. N. Huang (黃邦男)
 
@@ -37,7 +37,8 @@ last_reviewed: 2026-10-08
 
 
 ## Role in the Community
-- 1970年代參與陳文成紀念基金會募款（安雅堡、蘭辛、底特律同鄉義舉之一），見許永華回憶錄 [[works/taiwaneseamericanhistory-org/ourjourneys321|321. 由陳文成紀念基金會的創立談起 / 許永華 /11/2017]]；同一回憶錄存有英文版 [[works/taiwaneseamericanhistory-org/ourjourneys321-eng|321-eng（英文版）]]。
+- 1970年代參與 [[organizations/professor-chen-wen-chen-memorial-foundation|陳文成紀念基金會]] 募款（安雅堡、蘭辛、底特律同鄉義舉之一），見許永華回憶錄 [[works/taiwaneseamericanhistory-org/ourjourneys321|321. 由陳文成紀念基金會的創立談起 / 許永華 /11/2017]]；同一回憶錄存有英文版 [[works/taiwaneseamericanhistory-org/ourjourneys321-eng|321-eng（英文版）]]。
+- 許永華原文列名募款同鄉：黃邦男、莊兆枋、林宜雄、許幹男、林金地、黃慧惠、謝常彰（後者見 [[people/prof-chang-jang-hsieh|謝常彰教授]]）；捐款名單存於陳文成紀念資料庫。
 - 1979年與密西根同鄉林宜雄二人親赴匯款，以安雅堡台灣同鄉會名義匯至台北第一銀行指定給施明德（款項令施明德受國民黨干擾，見同文；郭雨新《台灣民主通訊》曾報導）。
 - 本人檔案收藏入庫 TAH：[[works/taiwaneseamericanhistory-org/collection-of-dr-bernie-huang|20. Collection of Dr. Bernie Huang 黃邦男博士的收藏]]。
 - TAH Who's Who 紀錄：[[works/taiwaneseamericanhistory-org/whoswho1035|1035. B. N. Huang 黃邦男 / 2016/05]]。
@@ -55,3 +56,4 @@ last_reviewed: 2026-10-08
 
 - Corpus re-grep 2026-10-01 (deepen-x slice 09261000-30): hits identical to prior passes (ourjourneys321 ±eng, collection page, Who's Who 1035, works/index); nothing new absorbable; verified saturated, SKIP. Bernie-vs-B.N. naming HOLD maintained.
 - Corpus re-grep 2026-10-06 (deepen-x slice 10051200-29): fresh grep 黃邦男/B. N. Huang/Bernie Huang across all corpus dirs — hit set identical (ourjourneys321 ±eng, collection-of-dr-bernie-huang, whoswho1035, index/sources); 1979 匯款 and 募款 facts re-checked against memoir original, no new material. Verified saturated, SKIP; Bernie-vs-B.N. HOLD maintained.
+- Corpus re-grep 2026-10-09 (deepen-x slice 10080720-17): fresh 黃邦男/B. N. Huang/Bernie Huang/邦男 grep across all 5 corpus dirs — hit set identical (ourjourneys321 ±eng, collection-of-dr-bernie-huang, whoswho1035, works/index, sources); no new documents. Deepened in place: 許永華原文列名募款同鄉名單吸收進正文、陳文成紀念基金會改接既有 org 連結、謝常彰連結既有 people 頁。Bernie-vs-B.N. 署名 HOLD 維持。
