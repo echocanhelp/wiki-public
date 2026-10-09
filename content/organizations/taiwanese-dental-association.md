@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Taiwanese Dental Association
 <!-- deepen-x slice 10052158-14 re-verified 2026-10-07: SKIP — five-dir grep (works/articles/sources/events/topics) for 'Taiwanese Dental Association' / 台灣牙醫 / 台灣人牙醫 hits: tmdaoc (different org, noted below), works/index row, and one ZH near-miss — [[works/taiwaneseamericanhistory-org/ourjourneys208|208. 台灣公論報 1984 editorial]] proposes forming a 台灣人牙醫及藥劑師協會 as a future pan-North-American professional association; that is a professional-society proposal, NOT this contemporary Penn dental-school student group — distinguished, not absorbed. -->
@@ -31,3 +31,5 @@ The Taiwanese Dental Association (TDA) is a Taiwanese student organization based
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+> SKIP re-check (deepen-x 10070717-20, 2026-10-09): five-dir grep for 'Taiwanese Dental Association' / 台灣人牙醫 / 台灣牙醫 — hits unchanged: own index lines + [[works/taiwaneseamericanhistory-org/ourjourneys208|208. 台灣公論報 1984 editorial]] (pan-North-American professional-association *proposal*, already distinguished above as a different matter). Nothing absorbable. SKIP stands, verified-saturated.

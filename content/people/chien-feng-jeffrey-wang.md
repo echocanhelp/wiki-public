@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Chien-Feng Jeffrey Wang (王劍峯博士)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 09261300-22: re-verify (4th) — fresh grep (ZH+EN: 王劍峯／Chien-Feng／Jeffrey Wang) over works/ + articles/: only hits are own bibliographic record [[works/taiwaneseamericanhistory-org/whoswho1321|whoswho1321]] and works/index. No memoir or community narrative. SKIP persists — verification saturated. -->
 <!-- deepen-x 10052158-12 (2026-10-07): 5th re-verify — five-dir grep (works/articles/sources/events/topics) for 王劍峯／Chien-Feng／Jeffrey Wang plus surname/alias probes (劍峯, 剑峰): hits unchanged = own record whoswho1321 + indexes. No absorbable material. SKIP persists — verification saturated. -->
+<!-- deepen-x 10070717-20 (2026-10-09): 6th re-verify — five-dir grep for 王劍峯／Chien-Feng／Jeffrey Wang／劍峯: hits unchanged = own record [[works/taiwaneseamericanhistory-org/whoswho1321|whoswho1321]] + index lines only (index co-lists [[people/chao-huei-jeffrey-wang|Chao-Huei Jeffrey Wang 王肇輝]], a different person). No absorbable material. SKIP persists — verification saturated. -->
