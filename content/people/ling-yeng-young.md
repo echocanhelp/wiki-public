@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Ling-Yeng Young (陳玲瑛)
 
@@ -58,3 +58,5 @@ Corpus re-check 2026-09-30 (deepen-x slice 09260854-25): fresh ZH+EN grep of wor
 Corpus re-check 2026-10-06 (deepen-x slice 10051200-21): fresh ZH+EN grep (玲瑛 / Ling-Yeng / Ling Yeng / 陳玲瑛) across works+articles+sources+events+topics returns the identical three-record hit set (whos65, artist26, publications354) + sources hub + index — verified-saturated, SKIP stands.
 
 Corpus re-check 2026-10-08 (deepen-x slice 10062248-2): fresh ZH+EN grep (玲瑛 / Ling-Yeng / Ling Yeng / 陳玲瑛) across works+articles+sources+events+topics returns the identical three-record hit set (whos65, artist26, publications354 — all bibliographic B-band records, full text in vault) + sources hub + index. The ourjourneys85 rows visible in index context are 盧主義/3F records with no 玲瑛 content. No memoir material. Verified-saturated; SKIP stands.
+
+Corpus re-check 2026-10-09 (deepen-x slice 10080700-24): fresh ZH+EN grep (玲瑛 / Ling-Yeng / Ling Yeng / 陳玲瑛) across works+articles+sources+events+topics returns the identical three-record hit set (whos65, artist26, publications354 — all bibliographic B-band records, full text in vault) + sources hub + index. No new memoir or article material. Verified-saturated; SKIP stands.
