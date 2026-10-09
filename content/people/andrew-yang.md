@@ -95,3 +95,5 @@ Coverage in the taiwanjustice-net corpus harvested into this vault extends his p
 <!-- TJJ-A09250800-4: verified 2026-09-26 — subject links in slice 09250800-4 articles (6f2b431c / 08b82976 / 1a2bdc08 / 53455d7e) re-checked vs 正文; all real (1a2bdc08 Subjects links fixed: stray .md suffix removed); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-6 article 1a2bdc08b6c7bf6c (台美人台加人 p3, 2025-04-26 快照): subject link 楊安澤 re-checked vs 正文 (「台裔楊安澤新書批美國制度失靈，擬下月組新政黨'), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607008-d: verified 2026-10-09 — wave-2 link+deepen re-check of article 1a2bdc08b6c7bf6c (台美人台加人 分類隨機頁 p3, 2025-04-26快照) read fresh this attempt: subject link re-checked vs 正文 — 「台裔楊安澤新書批美國制度失靈，擬下月組新政黨」確認見於收錄清單, real, no wrong/spurious links; dated fact w/ article wikilink (2021-01-25) already in From the record — saturated, no new material. -->

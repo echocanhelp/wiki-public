@@ -189,3 +189,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10070800-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-3 articles dd1007a640e39b91 & 35d25fb4bdf39cd8 (獨傲村夫〈反攻大陸：蔣介石的美夢，美國人的噩夢（下）〉, 民報 2017-09-10, 兩存檔): subject link re-checked vs 正文 this attempt (1964-09-20「台灣人民自救宣言」共同發表人、台灣人的先知評語), real, no wrong/spurious links; dated facts w/ both article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607003-c: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607003-c article 2a543ddc9301b7b3 (大洛杉磯台灣會館24週年募款年會公告, 2022-09-13發文／20220924快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607008-d: verified 2026-10-09 — wave-2 link+deepen re-check of article 1a2bdc08b6c7bf6c (台美人台加人 分類隨機頁 p3, 2025-04-26快照) read fresh this attempt: subject link re-checked vs 正文 — 「美國加州各界追思彭明敏教授紀念會紀實 ◎ 陳天令」確認見於收錄清單, real, no wrong/spurious links; dated fact w/ article wikilink (2021-01-25) already in From the record — saturated, no new material. -->
