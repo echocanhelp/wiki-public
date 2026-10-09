@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Vanderbilt TSSA (范德堡大學臺灣同學會)
 
@@ -24,6 +24,7 @@ Corpus grep re-run (works + articles, 2026-09-25) found no community record of t
 - Re-verified 2026-09-25 (slice 09250500-30): fresh ZH+EN grep ("Vanderbilt TSSA" / 范德堡大學臺灣同學會) across content/works + content/articles returned zero hits — SKIP-with-reason, directory entry remains the sole record.
 - Re-verified 2026-10-01 (deepen-x slice 09261100-14): fresh ZH+EN grep ("Vanderbilt" / 范德堡大學臺灣同學會) across works/ + articles/ finds only incidental university mentions — 托馬斯·施瓦茨 (20260208201010 cnn clipping) — and nothing about the student association itself. SKIP-with-reason; TAH directory entry remains the sole record.
 - Re-verified 2026-10-07 (deepen-x slice 10052045-30): five-dir grep for "Vanderbilt TSSA" / 范德堡大學臺灣同學會 / 范德堡大學 returns only two 2025 taiwanjustice.net clippings citing 范德堡大學歷史學教授托馬斯·施瓦茨 (incident professor mention, not the association) plus the sources index. Verified-saturated, SKIP.
+- Re-verified 2026-10-09 (slice 10070717-6): five-dir grep (Vanderbilt / 范德堡大學臺灣同學會 / 范德堡) returns only incidental university mentions — a Houston HTISC teacher's Vanderbilt M.A. (Our Journeys 298), Justine Ker's alma mater, 范德比 family lineage in a 2026 CNN translation, professor mentions in news clippings — plus the sources index; zero hits for the student association itself. Verified-saturated, SKIP.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/vanderbilt-tssa/)

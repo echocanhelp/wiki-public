@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # NEW WORLD ART CENTER – (紐約市陳錦芳文化館)
 
@@ -26,6 +26,7 @@ The New World Art Center (NWAC) is an international art gallery and management c
 - Re-verified 2026-09-25 (slice 09250400-4): fresh grep NEW WORLD ART/陳錦芳文化館/New World Art Center over works+articles returns only the directory record and the works index; nothing absorbable.
 - Re-verified 2026-09-26 (slice 09252123-3): identical hit set (directory record + works index only); SKIP-with-nothing-absorbable.
 - Re-verified 2026-10-07 (slice 10052045-30): five-dir grep (works/articles/sources/events/topics) for 'NEW WORLD ART' / 'New World Art Center' / 陳錦芳文化館 returns only the directory record itself, works/index.md, and sources/taiwaneseamericanhistory-org.md — nothing beyond already-absorbed records. Verified-saturated, SKIP.
+- Re-verified 2026-10-09 (slice 10070717-6): five-dir grep (NEW WORLD ART / New World Art Center / 陳錦芳文化館) returns the identical hit set (directory record, works/index.md, sources index) — nothing beyond already-absorbed records. Verified-saturated, SKIP.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/new-world-art-center/)
