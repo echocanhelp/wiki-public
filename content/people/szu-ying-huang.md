@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 # deepen-x 09232232-2: SKIP re-verified 2026-09-25 — fresh grep 黃思穎/Szu-Ying Huang: zero corpus hits beyond own encyclopedia record 1210; nothing absorbable
 # deepen-x 09251047-4: SKIP re-verified 2026-09-26 — fresh grep 黃思穎/Szu-Ying Huang: only hit is own catalog line in works/index.md; nothing absorbable
 ---
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10070714-1: SKIP re-verified 2026-10-09 — exact-name grep 黃思穎/Szu-Ying Huang across works/articles/sources/events/topics returns only own record 1210 + index/source stubs (other 思穎 hits = unrelated 曾思穎/常思穎); nothing absorbable -->

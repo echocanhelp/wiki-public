@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Pauline Hsiao Ye (蕭百忍)
 
@@ -47,3 +47,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10070714-1: SKIP re-verified 2026-10-09 — exact-name grep 蕭百忍/百忍/Pauline Hsiao Ye across five corpus dirs returns only own record 791 + index/source stubs (other Pauline hits = unrelated Huey-Fen Hsu / Pauline Huang); nothing absorbable -->

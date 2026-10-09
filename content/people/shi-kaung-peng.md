@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Shi-Kaung Peng (彭旭光)
 
@@ -50,3 +50,5 @@ last_reviewed: 2026-10-07
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10070714-1: SKIP re-verified 2026-10-09 — exact-name grep 彭旭光/Shi-Kaung across five corpus dirs returns only own record whoswho1038 + index/source stubs (surname-only Peng hits = unrelated Ming-Min Peng et al.); nothing absorbable -->
