@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # S. H. Lin (林聖賢)
 
@@ -38,6 +38,12 @@ _No filled family fields on the TAH profile._
 ## Sources
 - [TAH #955 encyclopedia: 955.  S. H. Lin 林聖賢 / 2016/04](https://taiwaneseamericanhistory.org/whoswho955/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/s-h-lin/)
+
+## Role in the Community
+
+- **1995 台美基金會科技工程獎 (Taiwanese American Foundation Science & Engineering Award)** — he is listed on the foundation's all-time winners roster under 【科技工程獎】 as 林聖賢(1995), alongside 莊明哲(1995), per [[works/taiwaneseamericanhistory-org/winners20|20. 王桂榮台美文教基金會得獎人名單]]. The 1995 award-issue feature confirms the 台美基金會 named its 「人才成就獎」 trio modeled on the Nobel and honored him among five laureates that year: [[works/taiwaneseamericanhistory-org/785-e5-8f-b0-e7-be-8e-e5-9f-ba-e9-87-91-e6-9c-831995-e9-a0-92-e7-8d-8e-e7-89-b9-|台美基金會1995頒獎特刊]].
+- **20世紀台灣代表性人物講座**: named among the living Taiwanese figures invited by Dr. 林衡哲 to lecture at the Mennonite Hospital (門諾醫院) 「台灣名人文化講座」 series, later published as DVD/book 《智慧交響曲》 — per 林衡哲's memoir in [[works/taiwaneseamericanhistory-org/publications302|302. 智慧交響曲 / 林衡哲 / 2008/06]]. This places him in the movement's public-intellectual circuit, not just the academy.
+- New material from the knowledge/web-archives sweep (2026-10-09, slice 10070700-19); prior SKIP-with-reason entries below are superseded by these finds.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]

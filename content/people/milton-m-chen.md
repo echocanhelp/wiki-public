@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Milton M. Chen (程孟郎教授)
 
@@ -41,7 +41,11 @@ last_reviewed: 2026-10-01
 
 
 ## Role in the Community
-SKIP-with-reason (deepen-x 09171500-12, 2026-09-18): corpus grep (程孟郎 / Milton M. Chen in content/works + content/articles) hit only his own TAH record [[works/taiwaneseamericanhistory-org/742-milton-m-chen-e7-a8-8b-e5-ad-9f-e9-83-8e-201512|742. Milton M. Chen 程孟郎 2015/12]] — a band-B bibliographic entry (full text stays in the vault), no memoir or community material to absorb. No facts added beyond the TAH press-kit record above. Re-verified 2026-09-20 (deepen-x slice 09181500-21): re-grep across content/works + content/articles — hit set unchanged (own TAH record + index row only); SKIP-with-reason stands. Re-verified 2026-09-22 (deepen-x slice 09211507-30) and 2026-09-25 (deepen-x slice 09231300-18): re-grep ZH+EN — hit set unchanged (own TAH record + index row only); no memoir/community material. Re-verified 2026-09-26 (deepen-x slice 09251031-8): re-grep ZH+EN — hit set unchanged; SKIP-with-reason stands.
+
+- **NATPA leadership**: served as **Chapter President of the NATPA Southern California chapter (北美洲台灣人教授協會南加分會) 1997–1998**, listed in the chapter's own presidential roster in [[works/taiwaneseamericanhistory-org/natpa-s-cals-pearl-anniversary|26. Brief History of NATPA – S CAL]]. He is also referred to in the corpus as **former president of the NATPA national body (前NATPA總會會長)** — in Prof. 何汝諧's memoir acknowledgments in [[works/taiwaneseamericanhistory-org/publication1270|1270. The Truth Behind Seafood]], where his wife 張美喜 is cited as a loyal reader of the chapter newsletter 「南加學壇」.
+- **2004 NATPA annual conference**: the Costa Mesa conference (7/30–8/1/2004) carried the theme/presentation *Developing Taiwan into a Modern State (建構台灣的國家發展)* with 程孟郎 named on the program, per [[works/taiwaneseamericanhistory-org/activities-of-natpa|North America Taiwanese Professors' Association (NATPA) 活動]].
+- His own TAH Who's Who record [[works/taiwaneseamericanhistory-org/742-milton-m-chen-e7-a8-8b-e5-ad-9f-e9-83-8e-201512|742. Milton M. Chen 程孟郎 2015/12]] remains a band-B bibliographic entry; the NATPA material above comes from the web-archives corpus sweep (2026-10-09, slice 10070700-19).
+- HOLD: national-body presidency dates not stated in any corpus document — roster confirms only the S. Cal chapter term 1997–1998.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/milton-m-chen/)
