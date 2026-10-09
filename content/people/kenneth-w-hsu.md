@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Kenneth W. Hsu (許根旺)
 
@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-10-02 (slice 09261000-26): fresh ZH+EN grep of content/works + content/articles returns the identical hit set again (TAH #413 encyclopedia entry, the 華府FAPA forum report + root copy, works/index). Corpus-saturated; nothing new to absorb.
 - Re-grep 2026-10-06 (slice 10051200-27): fresh ZH+EN grep across works/ + articles/ + sources/ + events/ + topics/ returns the identical hit set. One new candidate hit checked and distinguished: the 1980 Chicago preparatory-meeting roster in [[works/taiwaneseamericanhistory-org/ourjourneys69-eng|Our Journeys 69 (EN)]] lists **Kenneth K. Wu**, not Kenneth W. Hsu — false positive, not absorbed. Verified saturated.
 - Re-grep 2026-10-08 (slice 10062248-4): fresh ZH+EN grep (許根旺／Kenneth W. Hsu) across works/ + articles/ + sources/ + events/ + topics/ returns the identical hit set (TAH #413 encyclopedia entry 14167, 華府FAPA forum report + root copy, works/index, sources hub). Corpus-saturated; nothing new to absorb.
+- Re-grep 2026-10-09 (slice 10080720-6): fresh ZH+EN+surname grep (許根旺／Kenneth W. Hsu／根旺／Kenneth.*Hsu) across works/ + articles/ + sources/ + events/ + topics/ returns the identical hit set. Checked [[works/taiwaneseamericanhistory-org/14167|TAH #413]] directly — bibliographic record only, no narrative text to absorb. Verified saturated.
 
 ## Sources
 - [TAH #413 encyclopedia: 413. Kenneth W. Hsu 許根旺 / 2015/05](https://taiwaneseamericanhistory.org/413/)
