@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Wen-Ling Tu (杜文苓)
 
@@ -44,3 +44,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-10-09 deepen-x slice 10070714-25 re-verify: five-dir grep (杜文苓/Wen-Ling Tu/文苓) — only self record whoswho950 + index listings; no memoir mentions — SKIP: verified-saturated.

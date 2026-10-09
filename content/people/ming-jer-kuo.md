@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Ming Jer Kuo (郭明哲)
 
@@ -43,3 +43,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-10-07 deepen-x slice 10052045-26 re-check: five-dir grep (works/articles/sources/events/topics; ZH+EN+surname+substring probes) returned only this person's own record and index listings — SKIP: verified-saturated, no new corpus material.
+- 2026-10-09 deepen-x slice 10070714-25 re-verify: five-dir grep (郭明哲/Ming Jer Kuo/surname) — only non-self hit works/taiwaneseamericanhistory-org/ourjourney-343 is a false positive (Kuo-Hsiung Wang 王國雄 / Kuo-Ming-Tang, not this person) — SKIP: verified-saturated.

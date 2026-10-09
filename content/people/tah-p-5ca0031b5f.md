@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # 莊林素芳
 
@@ -49,3 +49,4 @@ last_reviewed: 2026-10-01
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-10-09 deepen-x slice 10070714-25 re-verify: five-dir grep (莊林素芳/素芳/莊剛健/ABC Jewelry) — only self record whoswho596 + index; works/taiwaneseamericanhistory-org/publications498 title matches 林素芳 (different person, 素心吟 author) — SKIP: verified-saturated.

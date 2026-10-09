@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Andrew Lin (林昇彬牧師)
 
@@ -45,3 +45,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-10-09 deepen-x slice 10070714-25 re-verify: five-dir grep (林昇彬/Andrew Lin/昇彬) — only self record whoswho1717 + index listings — SKIP: verified-saturated.
