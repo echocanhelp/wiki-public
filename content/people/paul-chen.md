@@ -402,3 +402,5 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 <!-- TJJ-A10070900-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-3 article c05e2d53013fcd15 (2020-06-23 會館疫情濟困報導): subject link re-checked vs 正文 this attempt, real (副董事長陳柏宇代轉1200份口罩予柔斯密市府確認見於正文), no wrong/spurious links; 2020-06-23 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607003-c: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607003-c article 2a543ddc9301b7b3 (大洛杉磯台灣會館24週年募款年會公告, 2022-09-13發文／20220924快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607004-d: verified 2026-10-09 — wave-2 link+deepen re-check of article 79b5f26fdef89d22 (「2023台美小姐選拔賽」盛大舉行·宋依珊奪后, TJJ 2023-08-06刊／20250614快照): subject link re-checked vs 正文 this attempt — 陳柏宇以台館基金會董事長致辭確認見於正文 — real, no wrong/spurious links; 2023-08-06 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
