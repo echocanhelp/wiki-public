@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Hung-Yi Shau (蕭鴻宜博士)
 
@@ -48,3 +48,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10070714-15: 2026-10-09 re-verify. Five-dir sweep (works/articles/sources/events/topics; 蕭鴻宜 / Hung-Yi Shau / Hung-Yi / 鴻宜 probes) — only own record [[works/taiwaneseamericanhistory-org/whoswho1562|1562]] + index/source listings. Broad 蕭 grep hits were unrelated names. SKIP: verified-saturated. -->

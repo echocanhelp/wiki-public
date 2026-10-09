@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # C. W. Wu (吳成文)
 
@@ -48,3 +48,5 @@ last_reviewed: 2026-10-01
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10070714-15: 2026-10-09 re-verify. Five-dir sweep (works/articles/sources/events/topics; 吳成文 / C. W. Wu / CW Wu / 成文 probes) — exact-name hits only own record [[works/taiwaneseamericanhistory-org/whoswho954|954]] + index/source listings; 成文 broad hits were the common word in taiwanjustice news articles (false positives). SKIP: verified-saturated. -->

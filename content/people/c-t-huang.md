@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # C. T. Huang (黃昭騰)
 
@@ -48,3 +48,5 @@ last_reviewed: 2026-10-07
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10070714-15: 2026-10-09 re-verify. Five-dir sweep (works/articles/sources/events/topics; 黃昭騰 / C. T. Huang / CT Huang / 昭騰 probes) — only own record [[works/taiwaneseamericanhistory-org/whoswho1512|1512]] + index/source listings. SKIP: verified-saturated. -->

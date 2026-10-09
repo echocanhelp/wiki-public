@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Lily Chen (陳佳俐)
 
@@ -44,3 +44,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x 10070714-15: 2026-10-09 re-verify. Five-dir sweep (works/articles/sources/events/topics; 陳佳俐 / Lily Chen / 佳俐 probes) — only own record [[works/taiwaneseamericanhistory-org/404-lily-chen-e9-99-b3-e4-bd-b3-e4-bf-90-201505|404]] + index/source listings. SKIP: verified-saturated. -->
