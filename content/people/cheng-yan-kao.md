@@ -75,3 +75,5 @@ last_reviewed: 2026-09-27
 <!-- TJJ-A10030500-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10030500-4 article d6441ab32ea8636d (陳文成事件40週年報導, 2021-09-25 刊, 2021-09-25 刊): 高成炎出席座談會發言（陳文成差一屆學長） re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10061000-3: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10061000-3 article d6441ab32ea8636d (陳文成事件40週年座談報導, 2021-09-25 刊): 高成炎 — 高成炎出席座談會發言（陳文成差一屆學長） re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10080501-8: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080501-8 article d6441ab32ea8636d (陳文成事件 人權醫師陳永興盼儘速釐清真相, 2021-09-25刊／2021-10-23快照) read fresh this attempt: 高成炎出席座談會發言（陳文成差一屆學長、盼釐清真相）確認見於正文, subject link real, no wrong/spurious links; 2021-09-25 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
