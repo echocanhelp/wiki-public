@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # H. H. Chen (陳惠華)
 
@@ -34,6 +34,7 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - SKIP note (2026-09-26 re-verified; first 2026-09-22): corpus grep matched only the own-profile record [[works/taiwaneseamericanhistory-org/whos-who-1903-h-h-chen|TAH #1903, 2017-09-20]]; no memoir/article material beyond the existing TAH snapshot (4A founding already recorded).
+- Slice 10070714-13 re-verify 2026-10-09 (five-dir grep, ZH 陳惠華/惠華 + EN H. H. Chen / Hui-Hua Chen + 4A / For-Advancement probes): same saturation — only own record [[works/taiwaneseamericanhistory-org/whos-who-1903-h-h-chen|TAH #1903]]; 惠華 hits remain 嘉惠華人患者 false positives; no 4A material in corpus. SKIP — verified-saturated.
 - Slice 10052045-18 re-verify 2026-10-07 (five-dir grep, ZH 陳惠華/惠華 + EN H.H. Chen): 惠華 hits are false positives — 嘉惠華人患者 ("benefit Chinese patients") in 鄭炳全's 旅美五十周年 memoir and a 2024 article, not this person. No 4A/For-Advancement material in corpus. SKIP — verified-saturated.
 
 ## Sources

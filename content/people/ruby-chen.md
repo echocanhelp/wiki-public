@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Ruby Chen (李惠末)
 
@@ -37,6 +37,7 @@ last_reviewed: 2026-10-07
 - TAHS 故事檔案庫收有本人的紀錄: [[works/taiwaneseamericanhistory-org/29-ruby-chen-e6-9d-8e-e6-83-a0-e6-9c-ab201504|29. Ruby Chen 李惠末（TAH故事記錄, 2014-10-04）]]。
 - 語料庫檢索（2026-09-21, 中英名雙查）僅命中此條 TAH Who's Who 書目紀錄, 無其他回憶錄或社運文本可吸收。
 - 2026-10-02 (deepen-x 09261419-17) 覆核: 全語料 sweep 仍僅本人書目紀錄一筆與 index 條目, SKIP: 無可吸收材料。
+- 2026-10-09 (deepen-x 10070714-13) 覆核: 五-dir sweep（李惠末/Ruby Chen/惠末; 另查先生 陳正村 無命中）— 僅本人書目紀錄 [[works/taiwaneseamericanhistory-org/29-ruby-chen-e6-9d-8e-e6-83-a0-e6-9c-ab201504|TAH #29]]；李惠 hits 為李惠美/李惠仁 他人名字。SKIP: verified-saturated。
 - 2026-10-07 (deepen-x 10052045-15) 覆核: 五-dir sweep（works/articles/sources/events/topics; 李惠末/Ruby Chen/惠末; 另查先生 陳正村 無命中）— 僅本人書目紀錄與 index 條目。SKIP: verified-saturated。
 
 ## Sources
