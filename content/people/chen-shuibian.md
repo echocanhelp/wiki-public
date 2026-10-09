@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Chen Shui-bian (陳水扁)
 
@@ -18,7 +18,7 @@ last_reviewed: 2026-10-01
 - **English:** Chen Shui-bian
 - **Chinese:** 陳水扁
 - **Role (as covered):** President of the ROC (Taiwan), 2000–2008
-- **Echopedia scope:** Taiwan politics coverage via taiwanjustice.net; not a Taiwanese-American diaspora profile
+- **Echopedia scope:** Taiwan politics coverage via taiwanjustice.net, plus documented diaspora touchpoints (overseas campaign support club, 1993 Bay Area visit, 2003 New York award ceremony) from the taiwaneseamericanhistory.org record
 
 ## Source Notes
 
@@ -124,6 +124,15 @@ last_reviewed: 2026-10-01
 - 2011-09-18 — TJJ 收錄陳水扁專欄「你不知道的真相(23)－對美國而言，台灣的地位是未定的」（[[articles/taiwanjustice-net/2017/20171109043154_2011_09_aed95a2363a25319|TJJ archive]]）。
 - 2013-06-05 — 獄中自殺未遂案經全球媒體跟進報導（新頭殼整理 Google News 引述）（[[articles/taiwanjustice-net/2022/20220627104549_2013_06_04_台灣前總統陳水扁自殺未遂-全球媒體關注-_新頭殼_26605159f6952d1f|TJJ，2013-06-05]]；與上節 2013-04 移送案同為醫療處遇爭議系列）。
 - 2018–2020 — TJJ「陳水扁」標籤頁收錄其言論紀錄：2018-11-21「九二共識根本不存在」、2019 推動成立「一邊一國行動黨」、2020-01-20 宣布退出政壇、該黨解散（[[articles/taiwanjustice-net/2022/20221130170832_tag_陳水扁_29afeb2e3a82502f|TJJ tag：陳水扁]]）。
+
+### From the taiwaneseamericanhistory.org record (2026-10-09 吸收)
+
+- 1993 — 立委陳水扁專程赴灣區祝賀協志會成立二十周年，肯定協志會二十年來對台灣民主運動的貢獻（[[works/taiwaneseamericanhistory-org/ourjourneys38|Our Journeys #38]]）。
+- 1999 — 競選台北市長連任失敗後赴芝加哥造訪造勢，翌年於 2000 年總統大選以些微差距勝出、完成首次政黨輪替（[[works/taiwaneseamericanhistory-org/our-journeys-378|Our Journeys #378 芝加哥台灣同鄉會50年]]；參 [[works/taiwaneseamericanhistory-org/milestones40|Milestones #40 2000 當選總統]]）。
+- 2000 — 海外陳水扁競選總統後援會暨北美洲阿扁之友會（North America Friends of A-Bien）為其競選之北美組織紀錄（[[works/taiwaneseamericanhistory-org/north-america-friends-of-a-bien|Our Journeys #10]]）。
+- 2000 — 總統就職慶典之後激發台僑籌組台灣會館／會中心的紀錄：友人於就職慶典後鼓勵創立 Taiwanese American Center（[[works/taiwaneseamericanhistory-org/ourjourneys24-eng|Our Journeys #24 (EN) 北加州台灣會館的誕生]]）。
+- 2001 — 世台會聖保羅大會獲現任陳水扁總統賀電（[[works/taiwaneseamericanhistory-org/ourjourneys249|Our Journeys #249 歡樂中的傷痛-記世台會]]）。
+- 2003-11 — 以總統身分赴紐約接受聯合國國際人權聯盟頒獎，台美人到場歡迎（[[works/taiwaneseamericanhistory-org/12-47|TAH record #47]]；[[works/taiwaneseamericanhistory-org/photo-albums-activities-72|Photo albums #72]]）。
 
 ## Related Pages
 
