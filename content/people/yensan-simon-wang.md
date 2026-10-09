@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-09
 ---
 # Yensan Simon Wang (王燕山)
 
@@ -37,7 +37,7 @@ last_reviewed: 2026-10-02
 
 
 ## Role in the Community
-- Documented in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1132|1132. Yensan (Simon) Wang 王燕山 / 2016/07]] (published 2016-07-10, value band B). The vault copy is a bibliographic record only; the biographical full text stays at the TAH source, so no memoir-corpus details are absorbable here. Corpus re-check 2026-09-25 (slice 09232337-2) and 2026-09-26 (slice 09251054-1): ZH+EN grep hits only this record and the works index. Re-sweep 2026-10-01 (slice 09261405-22): unchanged — grep hits only whoswho1132 + works/index; note [[people/wang-yao-ting|王耀廷]] #1133 warns 王燕山 is a different person (adjacent entry, do not confuse) — no merge, no conflict to hold.
+- Documented in the TAH Foundation Who's Who encyclopedia record [[works/taiwaneseamericanhistory-org/whoswho1132|1132. Yensan (Simon) Wang 王燕山 / 2016/07]] (published 2016-07-10, value band B). The vault copy is a bibliographic record only; the biographical full text stays at the TAH source, so no memoir-corpus details are absorbable here. Corpus re-check 2026-09-25 (slice 09232337-2) and 2026-09-26 (slice 09251054-1): ZH+EN grep hits only this record and the works index. Re-sweep 2026-10-01 (slice 09261405-22) and 2026-10-09 (slice 10070714-5): unchanged — grep hits only whoswho1132 + works/index (a 燕山大學 hit in a taiwanjustice article is Yan Shan University, unrelated); note [[people/wang-yao-ting|王耀廷]] #1133 warns 王燕山 is a different person (adjacent entry, do not confuse) — no merge, no conflict to hold.
 
 ## Sources
 - [TAH #1132 encyclopedia: 1132. Yensan (Simon) Wang 王燕山 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1132/)
