@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Brown Taiwan Society
 
@@ -33,3 +33,4 @@ The Brown Taiwan Society (BTS) is a student organization at Brown University in 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- Corpus re-grep 2026-10-09 (slice deepen-x-10070717-8): fresh five-dir sweep — exact 'Brown Taiwan Society' still ZERO corpus hits; Brown×Taiwan co-occurrence sweep over works/articles/events/topics returns only known false positives (Senator Sherrod Brown in FAPA Taiwan Travel Act records, Brown literature professor Carole Maso / MFA alum Shawna Yang Ryan in the alvin-lu-daydreamers interview, Strait Talk / ITASA / 1977 夏令會 at Brown already disambiguated above). No society-level material anywhere. SKIP: verified saturated, nothing new absorbable, no conflicts. -->

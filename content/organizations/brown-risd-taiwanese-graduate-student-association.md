@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Brown/RISD Taiwanese Graduate Student Association
 
@@ -31,3 +31,4 @@ SKIP: no corpus hits. Corpus grep for Brown/RISD found nothing in works/ or arti
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- Corpus re-grep 2026-10-09 (slice deepen-x-10070717-8): fresh five-dir grep (TGSA / graduate student association / RISD / Rhode Island School of Design / Providence) — zero genuine hits; RISD appears only as substring in unrelated text, Providence hits remain the unrelated Providence University alumni association + geography memoirs. No association-level material. SKIP stands, verified saturated, no conflicts. -->

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Taiwanese-American Foundation of Boston (波士頓台美基金會)
 
@@ -37,3 +37,4 @@ Corpus re-grep 2026-09-20 (slice 09190130-18), re-verified 2026-09-21 (slice 092
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- Corpus re-grep 2026-10-09 (slice deepen-x-10070717-8): fresh five-dir grep (works/articles/sources/events/topics; 波士頓台美基金會 / TAF Boston / full EN name / 台美基金會) returns only its own TAH #17/#26 records + index, plus sibling orgs that share the 台美基金會 name but are NOT this foundation — 大西雅圖區台美基金會 (Seattle Taiwan Center, ourjourneys30/547), 聖地牙哥台美基金會 (our-journeys-386, 陳秋山 first chair), the parent Taiwanese American Foundation (TAF magazines/publications 784/785/787, Miss TAF, summer camp), and a generic 「台美基金會」 donor line. Zero Boston-specific hits in any memoir. SKIP: verified saturated, nothing new absorbable, no conflicts. -->

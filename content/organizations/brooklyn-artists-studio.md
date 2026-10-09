@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Brooklyn Artists Studio (布魯克林藝站)
 
@@ -30,3 +30,4 @@ BAS is documented twice in the TAH story corpus: a record on its predecessor, th
 <!-- deepen-x slice 09250400-1 (2026-09-25): SKIP re-verified — fresh ZH+EN grep of works/ + articles/ returns only the records already cited on this page; nothing new absorbable. -->
 <!-- Corpus re-grep 2026-10-01 (slice deepen-x-09260900-22): fresh ZH+EN grep of works/+articles/ (Brooklyn Artists / 布魯克林藝站 / Taiwanese Artists Center) returns only the two band-B records already wikilinked above + works/index.md; no new absorbable material — verified saturated, SKIP. -->
 <!-- Corpus re-grep 2026-10-07 (slice deepen-x-10052045-32): fresh five-dir grep (works/articles/sources/events/topics; Brooklyn Artists Studio / 布魯克林藝站 / Taiwanese Artists Center / 黃明錫) returns only the two band-B records already wikilinked above + sources index; no new absorbable material — verified saturated, SKIP. -->
+<!-- Corpus re-grep 2026-10-09 (slice deepen-x-10070717-8): fresh five-dir grep (布魯克林藝站 / Brooklyn Artists / Taiwanese Artists Center / 黃明錫 / 黃明川 / Huang Ming-chuan / Huang Tsai-tian / 楊書琴) returns only the two band-B records already wikilinked above + works/index + sources index. No director/donor names appear in any memoir. SKIP: verified saturated, nothing new absorbable, no conflicts. -->
