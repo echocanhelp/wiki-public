@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Taiwanese Association of America (全美台灣同鄉會)
 
@@ -37,6 +37,9 @@ The Taiwanese Association of America (TAA, 全美台灣同鄉會) is a national 
 - 1990 — TAA president 蔡銘祿 (Los Angeles) hosted the census-campaign joint meetings (2/25 & 3/11) and TAA distributed the campaign videotapes nationwide; TAA was one of the twelve organizations in the joint 1990 census project — [[works/taiwaneseamericanhistory-org/ourjourneys253|TAH Our Journeys #253 (1990人口普查運動)]]
 - Oral history: 王博文 Powen Wang, advisor of the TAA Greater Philadelphia Chapter — [[works/taiwaneseamericanhistory-org/video-187|187. Advisor of TAAGPC – 王博文 Powen Wang's Journey | TAH Oral History Project]]
 - Published 台灣通訊 / The Taiwan News jointly with 世界台灣同鄉會聯合會 (WFTA 世台會) — [[works/taiwaneseamericanhistory-org/taiwan-bulletin-the-taiwan-news|Taiwan Bulletin record]]; chapter journal [[works/taiwaneseamericanhistory-org/houston-taiwanese-american-journal|休士頓台灣鄉訊]]
+- 2015-05 — 范振聲's organizational profile 「全美台灣同鄉會簡介 / The Formosan Club of America」 documents the association's history within the TAH story corpus — [[works/taiwaneseamericanhistory-org/135-e5-85-a8-e7-be-8e-e5-8f-b0-e7-81-a3-e5-90-8c-e9-84-89-e6-9c-83-e7-b0-a1-e4-b|TAH #135 (范振聲, 2015/05)]]
+- 2021-09-18 — 蔡英文总统以录影方式为「全美台灣同鄉會成立50週年庆祝大会」致辞（台语），称成立50年为台美人大事，并谈台美关系、TIFA与疫情下口罩疫苗互助的「善的循环」；报道注明为2020年成立的50周年，庆祝大会因疫情于2021年举行（与本页1970 founding record consistent）— [[articles/taiwanjustice-net/2021/20211025203803_2021_09_18_全美台灣同鄉會50週年慶_蔡總統_挺台聲音更多_e627210e8be41c22|TJJ report, 2021-09-18]]
+- Chapter 50-anniversary milestone: TAA Greater Washington Chapter (華府台灣同鄉會, TAA-GWC) celebrated its 50th in Gaithersburg, MD on 2018-11-10 — [[works/taiwaneseamericanhistory-org/15-taagwc-50|TAH #15]]
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america/)
