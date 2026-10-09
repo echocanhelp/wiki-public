@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-08T08:10:44.529727+00:00",
+  "at": "2026-10-09T07:25:28.018958+00:00",
   "status": "WARN",
   "fail": 0,
   "warn": 1,
@@ -9,6 +9,6 @@
   "bad_deliver": 0,
   "link_missing": 0,
   "issues": [
-    "WARN: WHERE_WE_ARE last_reviewed 2026-09-06 is 32d old (>14d)"
+    "WARN: WHERE_WE_ARE last_reviewed 2026-09-06 is 33d old (>14d)"
   ]
 }

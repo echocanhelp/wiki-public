@@ -1,6 +1,6 @@
-## Site design audit — 2026-10-08 00:30
+## Site design audit — 2026-10-09 00:25
 
-- pages_md=15118
+- pages_md=15119
 - critical=0 high=0 medium=1
 - heals_suggested=none
 
@@ -8,7 +8,7 @@
 - **SITE_DESIGN_STATUS: WARN**
 
 ### MEDIUM (1)
-- **F4** people/index.html is 1521557 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
+- **F4** people/index.html is 1522686 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
 
 ### INFO (2)
 - **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
@@ -18,15 +18,15 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 1626
+- **B1** person/org touched ≤7d (rely on recency featured window): 1424
   - `people/a-n-liu.md`
   - `people/abby-hong.md`
   - `people/adam-chang.md`
   - `people/adrian-lin.md`
   - `people/agnes-hsiao.md`
-  - `people/agnes-wu.md`
   - `people/ai-jen-poo.md`
-  - `people/alan-su.md`
+  - `people/alan-t-chen.md`
+  - `people/albert-chapter1-audiobook-taiwanese-female.md`
 
 ### Programmable heals
 - (none)
