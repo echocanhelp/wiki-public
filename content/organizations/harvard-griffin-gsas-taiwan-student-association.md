@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Harvard Griffin GSAS Taiwan Student Association
 
@@ -33,3 +33,5 @@ SKIP: no genuine hits in the works/articles corpus (grep matches were unrelated 
 <!-- deepen-x slice 09251039-5 recheck 2026-09-26: fresh grep 哈佛臺灣學生會 / Harvard Taiwan Student / GSAS — sole hit is unrelated taiwanjustice news copy; no community-corpus facts. SKIP. -->
 
 <!-- deepen-x slice 10052158-3 recheck 2026-10-07: five-dir greps (ZH 哈佛臺灣學生 + EN + GSAS) — corpus hits are unrelated NHTSA press-name news copy plus the 1960s Harvard Taiwanese Cultural Society memoir ([[works/taiwaneseamericanhistory-org/harvard-taiwanese-cultural-society|TAH #18]], a different historical org, not this GSAS association); no absorbable facts. Verified-saturated. -->
+
+<!-- deepen-x slice 10070717-9 recheck 2026-10-09: five-dir greps (哈佛臺灣學生/Harvard Taiwan Student/Harvard Taiwanese/GSAS/哈佛台灣/Taiwan Student Association) — same hit set: unrelated NHTSA press-name news copy plus the 1960s Harvard Taiwanese Cultural Society record (TAH #18, different org, already linked on its own page); no absorbable facts, no conflicts. Verified-saturated. -->

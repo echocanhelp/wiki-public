@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Wellbrook Foundation (美國美溪慈善基金會)
 
@@ -38,3 +38,5 @@ The Wellbrook Foundation is a charitable foundation established in the United St
 <!-- deepen-x slice 09252123-10 re-check 2026-09-26: verified-saturated. Fresh ZH+EN grep of works/ + articles/ hit set identical to records already wikilinked/HOLDed on this page; no new absorbable corpus material. -->
 
 <!-- deepen-x slice 10052158-1 re-check 2026-10-07: verified-saturated. Fresh ZH+EN grep (Wellbrook/美溪/Chung-Chi Chou/周重吉) over works+articles+sources+events+topics returns only the three already-linked records (directory entry, memoir 485, encyclopedia 1406) plus index/source pages; no new absorbable corpus material. -->
+
+<!-- deepen-x slice 10070717-9 re-check 2026-10-09: verified-saturated. Five-dir grep (Wellbrook/美溪/Chung-Chi Chou/周重吉/Chou Chung) returns only the three already-linked records (directory entry, memoir 485, encyclopedia 1406) plus works/index and source hub; no new absorbable corpus material, no conflicts. -->

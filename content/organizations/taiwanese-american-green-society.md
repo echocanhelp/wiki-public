@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-09
 ---
 # Taiwanese American Green Society (台美人生活綠化促進會)
 
@@ -24,6 +24,8 @@ The Taiwanese American Green Society is a nonprofit organization founded by Taiw
 - Founding president Lin Yong-yuan, a former president of the Los Angeles Taiwanese American Chamber of Commerce, frames the society's mission as lifestyle-level change: green energy, renewable resources, reduced overconsumption, and carbon reduction within the Taiwanese American community of Southern California.
 
 Corpus grep found no further memoir or organizational mentions of the society beyond its own TAH directory record (re-verified 2026-09-21 slice 09210600-20, 2026-09-22 slice 09220600-11, 2026-09-23 slice 09221500-26, 2026-09-25 slice 09231000-28, 2026-09-25 slice 09250400-18, and 2026-09-26 slice 09252123-28: exact-phrase greps for 台美人生活綠化促進會 / Taiwanese American Green Society hit only this record and the works index — nothing absorbable; page judged saturated).
+
+Corpus re-check 2026-10-09 (slice 10070717-9): five-dir grep (台美人生活綠化促進會 / Taiwanese American Green Society / Lin Yong-yuan / 林永源 / 生活綠化) over works+articles+sources+events+topics — hits identical to the already-linked set (own directory record, works/index, source hub); no new absorbable corpus material, no conflicts. Verified-saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-green-society/)

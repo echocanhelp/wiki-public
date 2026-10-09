@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Taiwanese Association of America – South Jersey Chapter (南澤西台灣同鄉會)
 
@@ -36,3 +36,5 @@ Corpus re-check 2026-09-21 → 2026-09-25 (slices 09200700-24, 09210700-29, 0922
 Corpus re-check 2026-09-26 (this slice 09260500-23): fresh grep 南澤西/South Jersey over works/ + articles/ — zero hits beyond the already-linked records above. SKIP-deepen; verified saturated.
 
 Corpus re-check 2026-10-07 (slice 10052158-1): fresh grep 南澤西 / South Jersey / Cherry Hill over works+articles+sources+events+topics — zero hits beyond the already-linked records (own TAA record, Our Journeys 356 EN/ZH, index/source pages). SKIP-deepen; verified-saturated.
+
+Corpus re-check 2026-10-09 (slice 10070717-9): five-dir grep surfaced one adjacent record not previously linked — [[works/taiwaneseamericanhistory-org/nj-elections-1997|27. 州長候選人之夜 by 新澤西台灣同鄉會 1997]] (published 2017-02-17, band B), a 1997 New Jersey governor-candidate night hosted by the **新澤西台灣同鄉會** (statewide NJ TAA chapter, see [[organizations/taiwanese-association-of-america-new-jersey|TAA – New Jersey (紐澤西)]]). HOLD: this record names the statewide 新澤西 chapter, not the 南澤西 South Jersey chapter — no attribution to this page's chapter is supported; noted as NJ-community civic context only. No other new hits; page otherwise saturated.
