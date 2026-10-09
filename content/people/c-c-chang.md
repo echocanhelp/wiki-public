@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # C. C. Chang (張健昌醫師)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09252123-12 (2026-09-26): verified-saturated — fresh ZH+EN corpus re-grep (works/ + articles/) hits only the already-cited records (own TAH record + works index); no new absorbable facts. -->
 <!-- deepen-x slice 10051200-28 (2026-10-06): verified-saturated — fresh ZH+EN grep of works/+articles/+sources/+events/+topics returns the identical hit set (whoswho1196, publication1297 memoir record, namesake HOLD whoswho1473 張志群, sources hub, works index — all already linked); memoir 從中國革命少年到台灣建國老兵 stays bibliographic-record-only in corpus; no new absorbable material. -->
 <!-- deepen-x slice 10062248-5 (2026-10-08): fresh ZH+EN grep across works/+articles/+sources/+events/+topics returns the already-linked hit set (whoswho1196, publication1297, namesake HOLD whoswho1473 張志群, sources hub, works index) plus one new namesake candidate: 1723. Eric C.C. Chang (2017-07, whos-who-1723-eric-c-c-chang) — different person sharing the initials, no 張健昌 hanzi; HOLD, do not conflate. Otherwise verified saturated; no new absorbable material. -->
+<!-- deepen-x slice 10080720-4 (2026-10-09): verified-saturated — fresh ZH+EN+surname grep (張健昌/C. C. Chang/健昌/C.C. Chang) across works/+articles/+sources/+events/+topics returns the identical hit set (whoswho1196, publication1297 memoir record, namesake HOLDs whoswho1473 張志群 + whos-who-1723 Eric C.C. Chang, sources hub, works index) — all already linked; no new absorbable material. -->
