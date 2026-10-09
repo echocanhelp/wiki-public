@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Georgetown Taiwanese American Student Association
 
@@ -22,7 +22,7 @@ The Georgetown Taiwanese American Student Association (TASA) is a student organi
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/georgetown-taiwanese-american-student-association/)
 
 ## Corpus scan note (2026-09-18)
-SKIP-deepen: no corpus mentions. All "Georgetown" hits in works/articles are unrelated (a Georgetown University Press book, journalist enrolled at Georgetown, and Georgetown, Guyana) — nothing absorbable about this student association. Re-verified 2026-09-21 (deepen-x slice 22), 2026-09-22 (slice 29), and 2026-09-25 (slice 09231500-10), and 2026-09-26 (slice 09251039-11): same — no hit names this TASA (hits are an unrelated Georgetown journalist, Georgetown, Texas, a Georgetown University Press book, and Georgetown, Guyana). Re-verified 2026-10-07 (deepen-x slice 10052158-3): same result — Georgetown hits remain a journalist's graduate program, Georgetown University Press, Georgetown Texas/Guyana place names, and law faculty quotes; nothing naming this TASA.
+SKIP-deepen: no corpus mentions. All "Georgetown" hits in works/articles are unrelated (a Georgetown University Press book, journalist enrolled at Georgetown, and Georgetown, Guyana) — nothing absorbable about this student association. Re-verified 2026-09-21 (deepen-x slice 22), 2026-09-22 (slice 29), and 2026-09-25 (slice 09231500-10), and 2026-09-26 (slice 09251039-11): same — no hit names this TASA (hits are an unrelated Georgetown journalist, Georgetown, Texas, a Georgetown University Press book, and Georgetown, Guyana). Re-verified 2026-10-07 (deepen-x slice 10052158-3): same result — Georgetown hits remain a journalist's graduate program, Georgetown University Press, Georgetown Texas/Guyana place names, and law faculty quotes; nothing naming this TASA. Re-verified 2026-10-09 (deepen-x slice 10070717-11): five-dir grep 'Georgetown'/'TASA' — all 19 Georgetown files are unrelated (Texas/Guyana place names, Georgetown University faculty quoted in news translations, university press book); 'TASA' hits are the Taiwanese American Seniors Association of Southern California (Flamingo Garden memoir) and ITASA — different organizations. Verified-saturated.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
