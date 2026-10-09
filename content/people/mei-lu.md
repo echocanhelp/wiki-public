@@ -59,3 +59,5 @@ HOLD: TAF（台灣人協進會）會史紀念照中的 "Mei Lu"（MFCF 1990 前�
 <!-- TJJ-A10040500-8: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-8 article 28b0cc4e52acece2 (2021北美洲聯合228紀念活動報導, 2021-03-03刊): subject link re-checked vs 正文 — 陳香梅與張秀滿、吳惠芳同以婦女會姊妹朗誦陳雷「痛苦的三月天」見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060700-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060700-2 article 28b0cc4e52acece2 (2021北美洲聯合228紀念活動報導, 2021-03-03刊, 2026-02-10快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070900-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-2 article 28b0cc4e52acece2 (2021北美洲聯合228紀念報導, 2021-03-03刊, 2026-02-10快照): subject link re-checked vs 正文 this attempt — 與張秀滿、吳惠芳同以婦女會姊妹朗誦陳雷「痛苦的三月天」見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

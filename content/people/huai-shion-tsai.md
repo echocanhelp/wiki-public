@@ -92,3 +92,5 @@ Huai-Shion Tsai was born in Tainan, Taiwan in 1947. She graduated from the Natio
 <!-- TJJ-A10040500-8: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-8 article cd2062fe6528223c (台灣之美‧亞洲之心巡迴展報導, 2017-03-14刊): subject link re-checked vs 正文 — 蔡蕙香以新藝畫會會員受邀參展點名於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060700-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060700-2 article cd2062fe6528223c (台灣之美‧亞洲之心國際巡迴展LA展報導, 2017-03-14刊, 2024-07-24快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070900-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-2 article cd2062fe6528223c (台灣之美‧亞洲之心LA展報導, 2017-03-14刊, 2024-07-24快照): subject link re-checked vs 正文 this attempt — 以新藝畫會會員受邀參展點名於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -83,3 +83,5 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 <!-- TJJ-A10060700-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060700-2 article 064fe05a08d0aecf (宋娣专栏 自由限時批 台美關係準國家, 2017-02-17刊, 2024-05-22快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060900-1: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060900-1 article(s) c692a70646f3af76（舊金山台裔市議員莊吳明芳「外國不能干預美國官員出訪」CNA專電, 2022-08-05刊）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070900-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-2 article 064fe05a08d0aecf (宋娣专栏 自由限時批 台美關係準國家, 2017-02-17刊, 2024-05-22快照): subject link re-checked vs 正文 this attempt — GTI＝楊甦棣(Stephen Young)華府致詞之智庫確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
