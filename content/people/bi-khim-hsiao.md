@@ -399,3 +399,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10071400-1: verified 2026-10-09 — wave-2 link+deepen re-check of article 5dd0106e892b8f96 (台灣新聞 分類存檔頁3, 2020-07-13快照): subject link 蕭美琴 re-checked vs 正文 this attempt (「蕭美琴專訪」三則——創新推動全面台美關係／美中戰略競爭科技安全／台美高層互動與個人夢想——確認見於正文), real, no wrong/spurious links; 2020-07-11 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10080401-9: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-9 article 20240421184918_root_9a66943e68f1e0ef（台美人台加人隨機頁 p353, 2024-04-21快照）: 「美媒專訪 蕭美琴：區域穩定美台有共同責任」條目確認見於正文, subject link 為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10080401-20: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-20 article c30596cc1ea6e337 (「導讀台灣」標籤頁p2, 2024-06-20快照) read fresh this attempt: subject link re-checked vs 正文 (「導讀台灣 20231203 蕭美琴的從政之路!」條目確認見於清單), real, no wrong/spurious links; 2023-12-03 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
