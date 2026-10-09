@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Yih-Nan Chiou (邱義男)
 
@@ -41,3 +41,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-10-07 deepen-x slice 10052045-26 re-check: five-dir grep (works/articles/sources/events/topics; ZH+EN+surname+substring probes) returned only this person's own record and index listings — SKIP: verified-saturated, no new corpus material.
+- 2026-10-09 deepen-x slice 10070714-24 re-check: fresh five-dir grep (邱義男/邱义男/EN variants/義男 substring) again returned only own record [[works/taiwaneseamericanhistory-org/whoswho1229]] plus index listings — SKIP: verified-saturated, no new corpus material.

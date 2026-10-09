@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Jenntyng Chern (陳振庭)
 
@@ -47,3 +47,4 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- 2026-10-09 deepen-x slice 10070714-24 re-check: five-dir grep (陳振庭/陈振庭/Jenntyng Chern/振庭 substring) returned only own record [[works/taiwaneseamericanhistory-org/whoswho1174]] plus index listings — SKIP: verified-saturated, no new corpus material.

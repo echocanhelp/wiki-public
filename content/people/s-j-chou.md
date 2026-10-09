@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # S. J. Chou (周信結博士)
 
@@ -36,3 +36,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-10-07 deepen-x slice 10052045-26 re-check: five-dir grep (works/articles/sources/events/topics; ZH+EN+surname+substring probes) returned only this person's own record and index listings — SKIP: verified-saturated, no new corpus material.
+- 2026-10-09 deepen-x slice 10070714-24 re-check: fresh five-dir grep (周信結/周信结/EN variants/周信 substring) again returned only own record [[works/taiwaneseamericanhistory-org/whoswho1246]] plus index listings — SKIP: verified-saturated, no new corpus material.
