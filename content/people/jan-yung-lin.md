@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Jan-Yung Lin (林政原博士)
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - **TAH 名人錄記載** — TAH #1186 條目（2016-07），見 [[works/taiwaneseamericanhistory-org/whoswho1186|TAH #1186 Jan-Yung Lin 林政原]]；此人亦為 Our Journeys 352 明列的參與者之一。
 - Re-check (deepen-x 09231300-16, 2026-09-25): fresh grep of content/works + content/articles for 林政原 / Jan-Yung Lin — hits limited to [[works/taiwaneseamericanhistory-org/ourjourneys352|Our Journeys 352]] and his own record [[works/taiwaneseamericanhistory-org/whoswho1186|TAH #1186]], both already absorbed above. No new community facts. Re-check (slices 09250500-10, 09261200-1, 2026-09-25 / 2026-10-01): identical hit set — verified-saturated.
 - Re-grep 2026-10-08 (slice 10062334-14): 林政原 / Jan-Yung Lin across works/articles/sources/events/topics — hits unchanged: [[works/taiwaneseamericanhistory-org/ourjourneys352|Our Journeys 352]] (TAC-WC 2016 co-chair, absorbed above) and [[works/taiwaneseamericanhistory-org/whoswho1186|TAH #1186]] self-record, plus index listings. No new community facts. Saturated.
+- Re-grep 2026-10-09 (slice 10080720-27): 林政原 / Jan-Yung Lin / surname probe across all 5 corpus dirs — exact-name hits unchanged (Our Journeys 352 + TAH #1186 + index listings); surname-only broadening matched only unrelated strings (e.g. 鍾肇政「原」身 in taiwanjustice articles), no new community facts. Saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/jan-yung-lin/)
