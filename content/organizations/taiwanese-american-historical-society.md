@@ -7,7 +7,7 @@ tags:
   - TAHS
   - historical-preservation
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-09
 ---
 
 # Taiwanese American Historical Society (TAHS)
@@ -68,6 +68,7 @@ Not on the 2025 paper org chart. Owner-confirmed for public leadership listing (
 ## History & public activity (in-vault records)
 
 - 2016-02-24 — the society is listed in the TAH encyclopedia as 「台美人歷史協會 / Taiwanese American History Society」 with its original site http://www.tahistory.org/ : [[works/taiwaneseamericanhistory-org/3-taiwanese-american-history-society||TAH #3]].
+- 2014-12-02 — in a letter to 台灣出版社 shareholders, 林衡哲 records that shareholder 楊嘉猷 was then in Southern California 「推動成立海外台美人歷史協會」, with the mission of having the generation of overseas Taiwanese Americans record the history they have walked — 「給當代台美人歷史做一個交代，並留給下一代台美人做參考」 ([[works/taiwaneseamericanhistory-org/ourjourneys70||林衡哲, 股東同仁公開信, 2014-12-02]]). This places the founding push of TAHS (創會會長 [[people/yang-jia-you||Charles Yang 楊嘉猷]]) in late 2014, consistent with the society's first encyclopedia listing in 2016.
 - 2015-12 — the 「台美人的腳跡」/ Taiwanese American Journey to the West autobiography-collection project is recorded in the vault at [[works/taiwaneseamericanhistory-org/pub-928||TAH #928]] — context for TAHS's memoir-documentation mission.
 - 2021-05-13 — TAHS (台美人歷史協會) is listed as a 共同發起單位 of the 2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, announced at a press conference at 洛杉磯華僑文教服務中心; TAHS co-initiated alongside 大洛杉磯台灣會館, NATMA chapters, FAPA chapters, 台美公民協會 and ~40 SoCal groups ([[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b||TJJ, WHA 聯合聲明, recorded 2021-06-16]]).
 - 2023-03-25 — TAHS 舉辦「如何寫回憶錄(自傳)座談會」 at 大洛杉磯台灣會館第五教室; 講員: 國策顧問、前國科會副主委 [[people/xie-qingzhi-xie-poyi||謝清志]]（回憶錄《生命的震動》）, 顧問 [[people/gene-tsai||蔡錦榮 Gene Tsai]]（自傳《我的奮鬥人生及美國夢》）, and 會長 [[people/yang-jia-you||楊嘉猷 Charles Yang]]（《咱的故鄉咱的故事》）— report archived at [[articles/taiwanjustice-net/2023/20230601053743_2023_03_20_台美人歷史協會3-25舉辦_如何寫回憶錄自傳座談會_e0c8343cf2888d43||taiwanjustice.net, 2023-06-01]].
