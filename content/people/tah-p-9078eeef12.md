@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # 王惠津
 
@@ -46,6 +46,8 @@ _No filled family fields on the TAH profile._
 - （再查 slice 09251527-14 2026-09-26：語料庫再查（王惠津／Hui-Jin Wang）僅既存已吸收紀錄 ourjourneys316、whoswho927、#338；ourjourneys316 義工老師芳名段已全文吸收，無新增社群敘事，SKIP-content）
 - （再查 slice 10051200-24 2026-10-06：語料庫再查（王惠津／Hui-Jin Wang）於 works/articles/sources/events/topics 僅既存已吸收紀錄 ourjourneys316、whoswho927、#338 與索引，無新增社群敘事，SKIP-content）
 - （再查 slice 10062248-4 2026-10-08：語料庫再查（王惠津／Hui-Jin Wang／王惠）於 works/articles/sources/events/topics 僅既存已吸收紀錄 ourjourneys316、whoswho927、#338 與索引。近似名再辨別兩筆：ourjourneys26 之「王惠美」女士（台灣中心募款／大華超市禮券）與 whoswho944 之「王惠鈞 H. J. (Andrew) Wang」皆為他人，非本頁主體，不予歸屬。無新增社群敘事，SKIP-content）
+
+- （再查 slice 10080700-30 2026-10-09：語料庫再查（王惠津／Hui-Jin Wang／惠津）於 works/articles/sources/events/topics 僅既存已吸收紀錄 ourjourneys316、whoswho927、#338 與索引，無新增社群敘事，SKIP-content）
 
 ## Sources
 - [TAH #338 encyclopedia: 338. Hui-Jin Wang王惠津,Voval / 2016/04](https://taiwaneseamericanhistory.org/338-%e7%8e%8b%e6%83%a0%e6%b4%a5voval-201604/)
