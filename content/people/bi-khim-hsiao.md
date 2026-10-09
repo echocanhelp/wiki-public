@@ -385,3 +385,5 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A100607005-d: verified 2026-10-09 — wave-2 link+deepen re-check of article 6f2b431c9cb0cca9 (台美人台加人頻道索引 p354, 2024-05-20快照): subject link re-checked vs 正文 this attempt — 「蕭美琴：為加速取得250萬劑疫苗，台灣自行派機取貨[影]」條目 2021-06-19 real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A100607006-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 20240425083432_root_99aaa4abcb78ff6d (台美人台加人分類存檔 p2, 2024-04-25快照): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607007-b: verified 2026-10-09 — wave-2 link+deepen re-check of article fa11a6eb346678c2 (大洛杉磯台灣會館標籤頁, 2021-01-17快照): subject link re-checked vs 正文 this attempt — 「大洛杉磯台灣會館等台美人團體和領袖祝賀蕭美琴履任台灣駐美大使」條目見於清單, real, no wrong/spurious links; dated fact w/ article wikilink (2020-08-08) already in From the record — saturated, no new material. -->

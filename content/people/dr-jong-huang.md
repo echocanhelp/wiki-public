@@ -73,3 +73,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10040600-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-4 article fa11a6eb346678c2 (大洛杉磯台灣會館標籤頁, 2021-01-17 快照): subject link re-checked vs 正文, real (「健康講座-黃重德醫師2/1在橙僑中心，2/2在大洛杉磯台灣會館主講『認識武漢肺炎』」條目見於清單), no wrong/spurious links; dated fact w/ article wikilink (2020-01-31) already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-7 article 08b829765b2a5939 (NATMA tag頁, 2021-12-05快照): 「健康講座-黃重德醫師2/1在橙僑中心，2/2在大洛杉磯台灣會館主講『認識武漢肺炎』」re-checked vs 正文, real, no wrong/spurious links; 2020-01-31 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607007-b: verified 2026-10-09 — wave-2 link+deepen re-check of article fa11a6eb346678c2 (大洛杉磯台灣會館標籤頁, 2021-01-17快照): subject link re-checked vs 正文 this attempt — 「健康講座-黃重德醫師2/1在橙僑中心，2/2在大洛杉磯台灣會館主講『認識武漢肺炎』」條目見於清單, real, no wrong/spurious links; dated fact w/ article wikilink (2020-01-31) already in From the record — saturated, no new material. -->
