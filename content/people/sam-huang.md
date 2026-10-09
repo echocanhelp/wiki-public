@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Sam Huang (黃興貫)
 
@@ -30,8 +30,8 @@ last_reviewed: 2026-10-08
 
 ## Family
 
-- **Daughter:** Cindy黃心怡
-- **Son:** Connie黃康玲
+- **Daughter:** Cindy黃心怡 — own profile [[people/cindy-huang|Cindy Huang]], Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1241|1241. Cindy Huang 黃心怡]].
+- **Son:** Connie黃康玲 — see HOLD below; the corresponding Who's Who record [[works/taiwaneseamericanhistory-org/whoswho1242|1242. Connie Huang 黃康妮]] is profiled as [[people/connie-huang|Connie Huang]], whose page lists 黃興貫 as **Father**.
 
 _HOLDER (name form): the separate Who's Who cluster record [[works/taiwaneseamericanhistory-org/whoswho1242|1242. Connie Huang 黃康妮]] (Drexel B.S.; 陸軍上尉 → 德國訊號部隊 IT顧問) is the closest match to this son's name+credential but spells the given name 黃康妮, not 黃康玲, and no corpus source names a son at all. HOLD: do not auto-merge the two name forms or the relationship until the original TAH #1240 text (full text stays in the vault) is read._
 
@@ -55,3 +55,4 @@ _Disambiguation: TAH Who's Who #2251 "Dr. Sam Huang" is 黃森茂, a different p
 - Re-verified 2026-10-01 (slice 09261100-17): SKIP — fresh ZH+EN grep (黃興貫 / Sam Huang) returns the same set — own #1240, the 2016 遊行記 #232, and the #2251 黃森茂 disambiguation — all already absorbed; verified-saturated, nothing new absorbable.
 <!-- deepen-x 09261100-17: verified-saturated 2026-10-01; disambiguation HOLD (黃興貫 #1240 vs 黃森茂 #2251) and family-name HOLD (黃康玲 vs 黃康妮) both intact. -->
 <!-- deepen-x 10062334-7: re-grep 2026-10-08 — fresh ZH+EN grep across works/articles/sources/events/topics: hit set identical to prior passes (own #1240, ourjourneys232 2016 遊行記, #2251 黃森茂 disambig, index); all absorbed+wikilinked. Verified-saturated; SKIP-no-new-facts. -->
+<!-- deepen-x 10080600-5: re-grep 2026-10-09 — same hit set (whoswho1240, ourjourneys232, whos-who-2251 disambig, index, sources). NEW: family cluster now reciprocal — [[people/cindy-huang]] (whoswho1241) and [[people/connie-huang]] (whoswho1242, lists 黃興貫 as Father) both exist and are wikilinked here; 康玲 vs 康妮 name-form HOLD retained, no auto-merge. -->
