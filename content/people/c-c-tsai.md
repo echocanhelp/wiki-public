@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # C. C. Tsai (蔡清枝)
 
@@ -41,3 +41,4 @@ last_reviewed: 2026-10-01
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified SKIP (deepen-x 09251054-23, 2026-09-26): fresh grep 蔡清枝 / C. C. Tsai — hit set unchanged (own entry + works index only); nothing absorbable.
+- Slice 10070714-20 re-verify 2026-10-09 (five-dir grep, ZH 蔡清枝/清枝 + EN C. C. Tsai + Ching-chih variants): no new hits — own entry whswho1152, works/index, sources page only (Ching-chih hits in ourjourneys credits are other people). SKIP — verified-saturated.

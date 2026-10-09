@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # L. H. Chen (陳隆旭)
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - Community record: his TAH Who's Who encyclopedia entry is held in the story corpus as [[works/taiwaneseamericanhistory-org/whoswho1898|1898. L. H. Chen 陳隆旭]] (published 2017-09-20, value band B).
 - Corpus scan 2026-09-25 (ZH+EN grep works/articles): hits limited to this own record listing in works/index.md; no memoir or article mentions beyond the encyclopedia record itself; pharmaceutical-research roles above remain press-kit sourced.
 - Re-swept 2026-09-26: fresh ZH+EN grep returned only own record + index — SKIP.
+- Slice 10070714-20 re-verify 2026-10-09 (five-dir grep, ZH 陳隆旭/隆旭 + EN L. H. Chen + romanization probes Lung-hsu/Lung-chi): no new hits — own record whoswho1898, works/index, sources page only. (Note: ourjourneys62-eng "Chen Lung-chi" is a different person, Yale professor 陳隆麒 — not this profile.) SKIP — verified-saturated.
 
 ## Sources
 - [TAH #1898 encyclopedia: 1898. L. H. Chen 陳隆旭 / 09/2017](https://taiwaneseamericanhistory.org/whoswho1898/)
