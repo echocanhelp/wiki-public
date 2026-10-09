@@ -300,3 +300,5 @@ Load more
 - [[people/alan-yang|楊維榕]] — mentioned in this record
 - [[people/bi-khim-hsiao|蕭美琴]] — mentioned in this record
 
+<!-- TJJ-A10080401-10: verified 2026-10-09 — wave-2 link+deepen re-check: all 3 Subjects links (father-brendan-oconnell/alan-yang/bi-khim-hsiao) re-checked vs 正文 headline list this attempt — 「甘惠忠神父奉獻台灣半世紀 紐約過世享壽84歲[影]」「『虎尾』登上Netflix，台裔導演楊維榕新片談移民艱辛[影]」「蕭美琴辭別花蓮將駐美，支持者送祝福」確認見於正文，連結為真，無錯鏈、無虛鏈；3 頁含本檔 wikilink 之日期事實條目（2020-04-16／2020-04-10／2020-06-28）已在庫 — saturated, no new material。 -->
+
