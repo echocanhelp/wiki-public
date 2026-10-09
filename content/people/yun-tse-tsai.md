@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Yun-Tse Tsai
 
@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 - Held in the TAH Foundation Who's Who community record as encyclopedia entry #2207 ([[works/taiwaneseamericanhistory-org/whos-who-2207-yun-tse-tsai|TAH #2207: Yun-Tse Tsai, 2019-07-04]]).
 - The 2018 line above (award for outstanding experimentalists on Fermilab neutrino experiments) is the corpus-side citation recorded in the TAH #2207 bibliographic entry; no absorbable memoir material. Re-verified 2026-09-26 (deepen-x slice 26): fresh grep (-E 'Yun-Tse Tsai') over works/ + articles/ returns no hits beyond the own record — SKIP-with-reason.
+- Slice 10070714-10 re-verify 2026-10-09 (five-dir grep, Yun-Tse Tsai + fuzzy variants): only own record [[works/taiwaneseamericanhistory-org/whos-who-2207-yun-tse-tsai|2207. Yun-Tse Tsai]] + works index. Single fuzzy hit ("Li Yun-tseng" in [[works/taiwaneseamerican-org/taiwanese-soy-milk-migration|Taiwanese Soy Milk Migration]]) is the 1955 Yonghe soy-milk founder — false positive, unrelated. SKIP — verified-saturated.
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/yun-tse-tsai/)
 

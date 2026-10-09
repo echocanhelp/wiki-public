@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-09
 ---
 # Jennifer Rorie Cheng
 
@@ -44,3 +44,4 @@ last_reviewed: 2026-10-02
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- DEEPEN-X SKIP 2026-10-02 (slice 09261405-32 re-verify): corpus re-grep (Jennifer Rorie Cheng / Rorie / 鄭新霖) returned only own entry 2224, husband entry 2223, and the works index. No community material beyond bibliographic records; page already saturated at HEAD. -->
+<!-- DEEPEN-X SKIP 2026-10-09 (slice 10070714-10 re-verify): five-dir corpus grep (Jennifer Rorie Cheng / Rorie / Hsinlin / 鄭新霖 + variants) returned only own entry 2224, husband entry 2223, and the works index. Verified-saturated. -->
