@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Mike Lee (李振生博士)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-10-08
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- Re-verified 2026-10-08 (deepen-x slice 10061023-2): fresh grep (李振生 / Mike Lee) across works/articles/sources/events/topics — identical hit set: own record TAH #208, works/index, and taiwanjustice-net articles naming U.S. Senator Mike Lee (R-Utah) — different person, excluded. No movement/memoir material beyond the directory record. Verified-saturated, SKIP. -->
+<!-- Re-verified 2026-10-09 (deepen-x slice 10080400-22): fresh grep (李振生 / Mike Lee / 振生) across works/articles/sources/events/topics — same hit set: own record [[works/taiwaneseamericanhistory-org/208-mike-lee-e6-9d-8e-e6-8c-af-e7-94-9f201501|TAH #208]], works/index, and taiwanjustice-net articles naming U.S. Senator Mike Lee (R-Utah) — different person, excluded. No new corpus material. Verified-saturated, SKIP. -->
