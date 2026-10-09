@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Scott Lee (李捷琦)
 
@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - Corpus check (deepen-x slice-09260500-13, 2026-09-26): fresh ZH+EN re-grep (李捷琦 / Scott Lee) hit set identical (#568, #285, works index); no new corpus material. SKIP: verified-saturated.
 - Corpus check (deepen-x slice 10051340-16, 2026-10-06): fresh ZH+EN+variant grep (李捷琦 / Scott Lee / 捷琦) across works/articles/sources/events/topics — hit set identical (#568, #285, works index); no new corpus material. SKIP: verified-saturated.
 - Corpus check (deepen-x slice 10070018-7, 2026-10-08): fresh ZH+EN+variant grep (李捷琦 / Scott Lee / 捷琦) across works/articles/sources/events/topics — hit set identical (#568, #285, works index, sources page); no new corpus material. SKIP: verified-saturated.
+- Corpus check (deepen-x slice 10080735-3, 2026-10-09): fresh ZH+EN+variant grep (李捷琦 / Scott Lee / 捷琦) across all 5 corpus dirs — direct hit set identical (#568, #285, works index, sources page). Expanded surname/family greps (李慶榮 / 黃巽婷) surface only the father's memoir-adjacent records (ourjourneys 291/311/391, mystories397, #658) and I-Ting Huang's own records — all already reflected in the existing Role-in-the-Community bullets; no Scott Lee-specific community material. SKIP: verified-saturated.
