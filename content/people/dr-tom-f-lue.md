@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Dr. Tom F. Lue (呂福泰教授)
 
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 
 - Corpus re-grep 2026-09-21 (deepen-x slice 09210400-31): works/ and articles/ again returned only [[works/taiwaneseamericanhistory-org/578-dr-tom-f-lue-e5-91-82-e7-a6-8f-e6-b3-b0-201509|578. Dr. Tom F. Lue 呂福泰 / 2015/09]] and the works index — no community-authored material to absorb (SKIP).
 - Corpus re-grep 2026-09-25 (slice 09250600-19): identical hit set (578 + works index); no new memoir/community material (SKIP).
+- Re-verify 2026-10-09 (deepen-x slice 10070717-27): five-dir greps for 呂福泰 / Tom F. Lue return only own record 578 + index/sources rows. The loose "Lue" hits in [[works/taiwaneseamericanhistory-org/ourjourneys162|Our Journeys 162]] ("Dr. Winston Lue", plaque at the San Diego center remodeling) and [[works/taiwaneseamericanhistory-org/ourjourneys313-eng|Our Journeys 313]] ("J. W. Lue", elected VP of the Knoxville Taiwanese Association, ~1975) belong to 呂錦文 / Jinwun Winston Lue ([[people/jinwun-winston-lue]]) — a different individual. HOLD: do not attribute the Knoxville or San Diego community activity to this subject. No absorbable material; verified-saturated.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-tom-f-lue/)
