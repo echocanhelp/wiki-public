@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Jenny Y Yang (楊又芳)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 
 <!-- Re-verified 2026-10-06 (deepen-x slice 10051143-27): ZH+EN grep across works/articles/sources/events/topics returns whpswho1490, PECASE record 34, works/index, and the Blacklava/Vickie Wang essays (comedian Jenny Yang — mislink HOLD stands). No new scientist-side material. Saturated, SKIP. -->
 <!-- Re-verified 2026-10-08 (deepen-x slice 10061023-2): fresh ZH+EN grep (楊又芳 / Jenny Yang / Jenny Y Yang) across works/articles/sources/events/topics — identical hit set: whpswho1490, PECASE record 34, works/index, and the Blacklava/Vickie Wang essays. The Vickie Wang essay text confirms its "Jenny Yang" is a stand-up comedian headliner — comedian-mislink HOLD stands. Verified-saturated, SKIP. -->
+<!-- Re-verified 2026-10-09 (deepen-x slice 10080400-19): fresh ZH+EN grep (楊又芳 / Jenny Yang / Jenny Y Yang) across works/articles/sources/events/topics returns the identical hit set — whpswho1490, PECASE record 34, works/index, and the three Blacklava/Vickie Wang essays (comedian-mislink HOLD stands). Both scientist-side records already absorbed above with wikilinks. No new corpus facts. Verified-saturated, SKIP. -->
