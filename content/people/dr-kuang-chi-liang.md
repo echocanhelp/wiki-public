@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Dr. Kuang Chi Liang (梁礦琪醫師)
 
@@ -59,3 +59,4 @@ Corpus re-grep 2026-09-19 (both spellings + English name): hit set in `content/w
 
 - Corpus re-check 2026-10-06 (deepen-x slice 10051200-19): fresh grep both spellings 梁礦琪/梁鑛琪 + English name across works/articles/sources/events/topics — identical hit set (#8, #121, #1741, index), all linked above; surname-only 梁鑛/梁礦 sweep adds nothing beyond the same three records. Verified-saturated; SKIP. HOLD on 礦/鑛 spelling conflict stands.
 - Corpus re-check 2026-10-08 (deepen-x slice 10062248-1): fresh grep both spellings 梁礦琪/梁鑛琪 + Kuang Chi Liang across works/articles/sources/events/topics — identical hit set (#8, #121, #1741, index, sources hub), all linked above; all hit pages are bibliographic-only records, no memoir/community material. Verified-saturated; SKIP. HOLD on 礦/鑛 stands.
+- Corpus re-check 2026-10-09 (deepen-x slice 10080700-16): fresh grep both spellings 梁礦琪/梁鑛琪 + Kuang Chi Liang + surname-only 梁礦/梁鑛 across works/articles/sources/events/topics — identical hit set (#8, #121, #1741, index, sources hub), all linked above. Extra surname-梁 hits in ourjourneys memoirs are unrelated Liang-surname individuals (Liang Chuan Peng, James Liang 梁政吉, 梁見後, Liang-tse Chang fund, etc.) — no Kuang Chi Liang content. Verified-saturated; SKIP. HOLD on 礦/鑛 stands.
