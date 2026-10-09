@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-09
 ---
 # Andy Yang
 
@@ -40,6 +40,7 @@ _No filled family fields on the TAH profile._
 - No memoir/community narrative beyond the Who's Who record found in the corpus at review time.
 - 2026-09-25 / 2026-09-26 (slice 09251047-32) re-sweeps: fresh grep returned only own record whos-who-2277 + index — SKIP (nothing absorbable).
 - 2026-10-01 (slice 09261405-22) re-sweep: fresh ZH+EN grep of works/ + articles/ again returned only whos-who-2277 + works/index — SKIP (bibliographic record only; no community/memoir narrative to absorb).
+- 2026-10-09 (slice 10070714-9) re-sweep: five-dir grep (works/ articles/ sources/ events/ topics/; EN 'Andy Yang') returned only whos-who-2277 + works/index + sources page — verified-saturated, nothing absorbable.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/andy-yang/)
