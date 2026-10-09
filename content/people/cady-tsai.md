@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Cady Tsai (蔡暉玲)
 
@@ -48,3 +48,4 @@ last_reviewed: 2026-10-01
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verified SKIP (deepen-x 09251054-23, 2026-09-26): fresh ZH+EN grep — hit set unchanged (own record + works index only); nothing absorbable.
+- Re-verified 2026-10-09 (slice 10070714-21): five-dir grep (蔡暉玲 / Cady Tsai / 暉玲 + broad Cady variant) — non-self hits resolve to other people: the ourjourneys-138 yearbook entry "Cady C. Chung 鍾傻成" (class of 1980) is a different person. No memoir material. SKIP stands (verified-saturated).
