@@ -65,3 +65,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10040500-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-2: article e3440fec 籌謀台灣不流血革命(陳昭南 2022-05-09): 洪哲勝 link (台灣革命黨總書記、《鮭台》紀念專書主角) — confirmed in 正文 re-checked vs 正文 this attempt, link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060600-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-1 articles (e3440fec3eed8107 籌謀台灣不流血革命(陳昭南 2022-05-09): 洪哲勝 link (革命黨總書記、WUFI 主席改選風波退盟、《鮭台》紀念專書緣起) — subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070800-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-1 article e3440fec3eed8107 (籌謀台灣「不流血革命」的獻策高手原來是他 ◎ 陳昭南, TJJ 2022-05-09): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

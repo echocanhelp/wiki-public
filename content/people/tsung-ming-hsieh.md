@@ -171,3 +171,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10070700-17: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-17 articles (ad7f737b9872262d 第55回世界臺灣文化論壇「大佛普拉斯」, 2022-10-03 / 1251d9ed43ef6e32 美國五大台灣會館評萊豬, 2021-01-12 / 92ff3ef6b0b74b9c 彭明敏紀念研討會跨世代對談, 2023-09-24 / 6e021ae439684a11 台裔吳修銘任拜登特助, 2021-03-05): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070800-4: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-4: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070800-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-1 article e3440fec3eed8107 (籌謀台灣「不流血革命」的獻策高手原來是他 ◎ 陳昭南, TJJ 2022-05-09): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
