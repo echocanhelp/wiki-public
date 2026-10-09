@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Duke Taiwanese Student Association
 
@@ -28,3 +28,4 @@ The Duke Taiwanese Student Association (DTSA) is a graduate and professional stu
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Re-verified 2026-10-07 (slice 10052045-31): fresh grep (Duke Taiwanese / DTSA / 杜克 / Duke) across works/articles/sources/events/topics — hits are unrelated individuals and venues only (ourjourneys70 杜克大學東亞圖書館 anecdote, ourjourneys256 exhibition-venue list, our-journeys-381 NC universities note, whos-who Duke PhD bio, TaiwanJustice news mentions); zero records of this association itself. Verified-saturated, SKIP.
+- Re-verified 2026-10-09 (slice 10070717-7): fresh five-dir grep (Duke Taiwanese / DTSA / 杜克 / Duke / duke.*tasa) — identical hit set: Duke-alumni individual bios (healthy-living-and-eating, taiwanese-american-film, the-big-picture Anna Wu, whos-who-1840 Soo-Chen Cheng), venue notes (our-journeys-381, ourjourneys256), and unrelated TaiwanJustice news articles; zero records of this association. Verified-saturated, SKIP.

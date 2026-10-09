@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Southeast Bay Taiwanese Association SEBTA (北加州)
 
@@ -32,6 +32,7 @@ The Southeast Bay Taiwanese Association (SEBTA, 東南灣台灣同鄉會) is a r
 - 2026-09-26 deepen-x slice 09251527-7: VERIFY — fresh grep (SEBTA / 東南灣台灣同鄉會) again returns exactly the three cited files + works/index; verified saturated, SKIP-no-new-facts.
 - 2026-09-30 deepen-x slice 09260900-2: VERIFY — fresh grep (SEBTA / 東南灣台灣同鄉會) again returns only the three cited files (own directory record, Leona Chen's two testimonies) + works/index; verified saturated, SKIP-no-new-facts.
 - 2026-10-07 deepen-x slice 10052045-32: DEEPENED — fresh five-dir grep additionally surfaces the 2021 Pew-response statement, where SEBTA president Danny Chen appears as a signatory (not previously cited here); absorbed above. Remaining hits unchanged (own directory record, Leona Chen's two testimonies, index).
+- 2026-10-09 deepen-x slice 10070717-7: VERIFY — fresh five-dir grep (SEBTA / 東南灣台灣同鄉會 / Southeast Bay Taiwanese) returns exactly the same set (own directory record, Leona Chen's two testimonies, 2021 Pew statement, works index, sources page); all already cited above. Verified-saturated, SKIP-no-new-facts.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/southeast-bay-taiwanese-association-sebta/)
