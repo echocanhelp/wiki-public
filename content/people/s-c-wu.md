@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # S. C. Wu (吳西謙)
 
@@ -44,6 +44,8 @@ last_reviewed: 2026-10-01
 - SKIP注記（2026-09-21 複核）：再grep（含 Hsi-chien Wu、配偶 黃素滿 變體）無傳記/文章提及；驗證飽和。
 
 - SKIP confirmed (2026-09-25 re-grep; re-confirmed 2026-09-26, deepen-x 09251039-24): corpus hits remain only own entry [[works/taiwaneseamericanhistory-org/whoswho1472|1472. S. C. Wu 吳西謙]] + works/index; no absorbable memoir facts.
+
+- Re-verified 2026-10-09 (deepen-x slice 10070714-6): fresh grep across works/articles/sources/events/topics for 吳西謙 / 西謙 / S. C. Wu / Hsi-chien Wu — sole hits remain own record [[works/taiwaneseamericanhistory-org/whoswho1472|1472. S. C. Wu 吳西謙/ 2017/01]], works/index, sources index. No memoir or community mentions absorbable; no conflicts to hold. SKIP-with-reason stands.
 
 ## Sources
 - [TAH #1472 encyclopedia: 1472.  S. C. Wu 吳西謙/ 2017/01](https://taiwaneseamericanhistory.org/whoswho1472/)

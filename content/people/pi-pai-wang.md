@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Pi-Pai Wang (黃碧白)
 
@@ -35,6 +35,8 @@ _Timeline:_
 - 2018-05-01 — TAH encyclopedia entry #2106 published.
 
 _Corpus checks 2026-09-25 and 2026-09-26 (ZH+EN grep re-runs): sole works/articles hits remain the own TAH record above and the works index; no additional memoir/press mentions. Earlier checks 2026-09-22/23: same. No conflicts to hold; SKIP-with-reason stands. Re-verified 2026-10-01 (deepen-x slice 09261405-14): fresh ZH+EN grep of works/ + articles/ (黃碧白 / Pi-Pai Wang) — no new hits beyond own TAH #2106 record and works/index._
+
+- Re-verified 2026-10-09 (deepen-x slice 10070714-6): fresh grep across works/articles/sources/events/topics for 黃碧白 / 碧白 / Pi-Pai Wang — sole hits remain own record [[works/taiwaneseamericanhistory-org/whoswho2106|2106. Pi-Pai Wang 黃碧白 / 05/2018]], works/index, sources index. No new mentions; SKIP-with-reason stands.
 
 ## Sources
 - [TAH #2106 encyclopedia: 2106.  Pi-Pai Wang 黃碧白 / 05/2018](https://taiwaneseamericanhistory.org/whoswho2106/)

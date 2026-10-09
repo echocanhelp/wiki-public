@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Jen-Jong Lai (賴振榮)
 
@@ -34,6 +34,7 @@ last_reviewed: 2026-10-01
 
 - Community record held in the corpus as TAH encyclopedia entry #349, published 2015-03-24: [[works/taiwaneseamericanhistory-org/349-jen-jong-lai-e8-b3-b4-e6-8c-af-e6-a6-ae201503|349. Jen-Jong Lai 賴振榮/2015/03]]. Corpus grep found no memoir/feature mentions beyond this bibliographic record — no further community facts absorbable yet.
 - Deepen pass 2026-09-26 (slice 18): SKIP — grep re-confirmed: sole hits are own entry 349 and index listings; no new community facts absorbable.
+- Re-verified 2026-10-09 (deepen-x slice 10070714-6): exact-name grep 賴振榮 hits only own record [[works/taiwaneseamericanhistory-org/349-jen-jong-lai-e8-b3-b4-e6-8c-af-e6-a6-ae201503|349. Jen-Jong Lai 賴振榮/2015/03]] plus indexes. Surname/alias sweep (振榮) matched different people only — 許振榮 ([[people/chen-jung-hsu|許振榮]]) and 林振榮 (休士頓同鄉會人物; no page tie) — correctly NOT attributed here. No absorbable community facts; SKIP-with-reason stands.
 
 ## Family
 
