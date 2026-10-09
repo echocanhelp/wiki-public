@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # R. C. Chen (陳瑞珠)
 
@@ -48,3 +48,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-10-06 (slice 10051314-3): fresh grep of 陳瑞珠/"R. C. Chen"/瑞珠 across works/articles/sources/events/topics → hit set unchanged (TAC-L roster #186 ZH+EN, own TAH #1148, index) — all already absorbed. One near-miss checked: a 2024 taiwanjustice.net art-roster essay mentions "林瑞珠" (painter 林玉山's daughter, wife of 林顯宗) — different surname, different person; not a match. Verified-saturated; SKIP.
 
 <!-- deepen-x slice 10062334-12 recheck 2026-10-08: fresh grep 陳瑞珠/R. C. Chen/瑞珠 over all corpus dirs — hit set unchanged: TAC-L roster #186 ZH+EN + own TAH #1148 + indexes, all absorbed; 林瑞珠 (2024 art roster, painter 林玉山's daughter) remains a different-person near-miss. Verified saturated, SKIP-no-new-material. -->
+<!-- deepen-x slice 10080720-22 recheck 2026-10-09: fresh grep 陳瑞珠/"R. C. Chen"/瑞珠 across works/articles/sources/events/topics — hit set identical (ourjourneys186 ZH+EN roster, whoswho1148, indexes; 林瑞珠 near-miss re-confirmed different person). No new corpus material; page already carries all three hits with wikilinks. Verified saturated, SKIP-no-new-material. -->
