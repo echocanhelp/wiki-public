@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # S.S. Huang (黃申生)
 
@@ -48,6 +48,7 @@ last_reviewed: 2026-10-08
 - Re-grepped 2026-09-23 (slice 09221500-25), 2026-09-25 (slices 09231000-28, 09250400-18) and 2026-09-26 (slice 09252123-26): corpus hits remain only #2109, #636, #79 and the #2086 黃壽山 disambiguation record already noted above — verified-saturated, nothing absorbable.
 - Corpus re-check 2026-10-06 (deepen-x slice 10051143-14): fresh ZH+EN grep surfaces two further works authored by his wife 楊詠絮 — her 台灣公論報 column [[works/taiwaneseamericanhistory-org/columns18|18. 美居絮談(台灣公論報) / 楊詠絮 / 2016-10]] and her edited 千禧年專輯 [[works/taiwaneseamericanhistory-org/publications115|115. 北美台灣婦女信箱千禧年專輯 / 楊詠絮 主編 / 04/2001]] — both corroborate the NATWA record above; the #636/#2109/#2086 hit set is otherwise unchanged.
 - Corpus re-check 2026-10-08 (deepen-x slice 10060950-2): fresh ZH+EN grep (黃申生 / 申生 / S.S. Huang) across works+articles+sources+events+topics returns only #2109, #636, ourjourneys79 and the #2086 黃壽山 disambiguation record — hit set unchanged from the records already linked above. #636 remains bibliographic-only (full text in vault), so no absorbable prose. Saturated, SKIP.
+- Corpus re-check 2026-10-09 (deepen-x slice 10080400-8): fresh ZH+EN grep (黃申生 / S.S. Huang / 申生) across works+articles+sources+events+topics returns the identical hit set — #2109, #636, ourjourneys79, the #2086 黃壽山 disambiguation record, plus index/source listings. No new corpus material; all hits already reflected in the links above. Verified-saturated.
 
 
 ## Sources
