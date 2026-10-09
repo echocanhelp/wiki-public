@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-09
 ---
 # Prof. Ming Min Peng (彭明敏教授)
 
@@ -55,7 +55,11 @@ Accomplishment
 - **FAPA 創會長者讓賢（1983）：** 創會籌備會上彭明敏與陳唐山（Mark Chen）、蔡仲勳三人被提名出任首任會長；彭以本人住西岸、會長應住東岸為由推辭，最終蔡仲勳自薦經無記名投票當選 —— 本人回憶見 [[works/taiwaneseamericanhistory-org/ourjourneys65-eng|TAH #65：FAPA的誕生 The Birth of FAPA／蔡仲勳]]。
 - **1988 人口普查運動：** TACL 邀眾院人口普查小組主席戴謀利議員（Rep. Mervyn Dymally）於 USC 附近希爾頓飯店演講座談，「從東部來的彭明敏和蔡同榮二位先生」亦出席支持台美人普查自列一欄之訴求 —— 見 [[works/taiwaneseamericanhistory-org/ourjourneys253|TAH #253：1990年美國人口普查—TACL的角色／周實]]。
 - **美東族群活動加持：** 紐約首府區台灣同鄉會美東壘球賽 1984 年將總冠軍命名為「彭明敏杯」，表揚其推動台灣民主獨立運動之貢獻；1986 年 7 月彭親抵奧伯尼觀賽頒獎 —— 見 [[works/taiwaneseamericanhistory-org/ourjourneys311|TAH #311：紐約首府區台灣同鄉會及台美文化促進會簡介／陳仲欽]]。
-- **本會收錄著作：** [[works/taiwaneseamericanhistory-org/publications1081|TAH #1081：寫給台灣的備忘錄——彭明敏教授文集（2017/03）]] · [[works/taiwaneseamericanhistory-org/mystories543|TAH #543：回憶錄重新出版，彭明敏未完心願：台灣正名制新憲／李秉芳（2017/04）]]。
+- **建國聯合陣線（1979）：** 美麗島事件後的大逮捕引發抗議，「臺灣建國聯合陣線」1979-12-15 於紐約成立，「臺美協會」以彭明敏名義列名參加團體 —— 見 [[works/taiwaneseamericanhistory-org/our-journeys-357|TAH #357：台灣協志會廿年回顧／石清正]]。
+- **1979 Hamline 大學演講：** 1979 年以「Ming Min Peng, Hamline University Professor」名義於明尼蘇達 Hamline 大學發表演說「Taiwan's Political Situation」 —— 見 [[works/taiwaneseamericanhistory-org/ourjourneys123-eng|TAH #123（英）]]。
+- **FAPA 義務秘書（翁登山）：** 彭擔任總部設於華府的台灣人公共事務會（FAPA）主席那幾年，翁登山（台寮留學生、後任職聯邦食品藥物管理局）曾出任彭的義務秘書 —— 見 [[works/taiwaneseamericanhistory-org/ourjourneys152|TAH #152：我在紐約的台灣寮／楊遠薰]]。
+- **北加州 FAPA 分會（1981）：** 1981-06-19 北加州 FAPA 分會在彭親赴灣區鼓勵下成立，楊肇福任第一屆分會長 —— 見 [[works/taiwaneseamericanhistory-org/ourjourneys38|TAH #38：台灣協志會／石清正]]；彭亦曾於灣區同鄉聯合會演講會系列發表演說（[[works/taiwaneseamericanhistory-org/ourjourneys38|TAH #38]]）。
+- **本會收錄著作：** [[works/taiwaneseamericanhistory-org/publications1081|TAH #1081：寫給台灣的備忘錄——彭明敏教授文集（2017/03）]] · [[works/taiwaneseamericanhistory-org/mystories543|TAH #543：回憶錄重新出版，彭明敏未完心願：台灣正名制新憲／李秉芳（2017/04）]] · [[works/taiwaneseamericanhistory-org/publications456|TAH #456：自由的滋味——彭明敏回憶錄（1988/09）]] · [[works/taiwaneseamericanhistory-org/ourjourneys194|TAH #194：彭明敏教授逃離台灣的過程——倒數計時／唐培禮（2011/12）]] · [[works/taiwaneseamericanhistory-org/photo-albums-historical-41|TAH #41：台灣人民自救運動宣言照片專輯（1964/09/20）]] · [[works/taiwaneseamericanhistory-org/12-71|TAH #71：北美洲彭明敏總統支援會（1996）]]。
 
 ## Family
 
