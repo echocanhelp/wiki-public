@@ -67,3 +67,5 @@ Research/Teaching Specialist
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- TJJ-A10040600-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-7 article 23e163f71d3f2ba5 (長青教室標籤頁, 2024-05-23快照): 「漫談記憶的奧祕與阿茲海默症 -長青教室心得報告◎何德淵博士 9/26/2018」re-checked vs 正文, real, no wrong/spurious links; 2018-09-26 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A100607009-b: verified 2026-10-09 — wave-2 link+deepen re-check of article 23e163f71d3f2ba5 (長青教室標籤頁, 2024-05-23快照) read fresh this attempt: subject link re-checked vs 正文 — 「漫談記憶的奧祕與阿茲海默症 -長青教室心得報告◎何德淵博士 9/26/2018」確認見於正文, real, no wrong/spurious links; 2018-09-26 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
