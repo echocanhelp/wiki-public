@@ -403,3 +403,5 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 <!-- TJJ-A10070700-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-2 article 1d72b2ae61640747 (2020海外小英後援會洛杉磯造勢大會報導, 發文 2019-10-10): 田詒鴻 subject link re-checked vs 正文 this attempt (以會長/國策顧問領銜身分說明民調上揚與「總統連任、國會過半」立場), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-12: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-12 article afdbd8b27a42563d (洛杉磯台灣會館重建動土, 2025-05-04刊/2025-05-18快照): 田詒鴻 subject link re-checked vs 正文 (台灣會館董事長、總統府國策顧問主持2025-05-03動土典禮盼世代傳承), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-15: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-15 article fa7c957f552d76e9 (總統府公布遴聘及新聘資政27人國策顧問70人名單, 2022-09-02): 田詒鴻列入國策顧問名單 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

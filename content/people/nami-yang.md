@@ -135,3 +135,5 @@ Her own writings/records additionally held in the vault (existing pages, no new 
 <!-- TJJ-A10060800-4: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-4 — article c48e08c7f2c3bf8d (Covid-19 浩劫餘生錄分類頁, 2020-11-20 存檔) 「人生的海嘯 ◎李淑櫻」署名; subject link re-checked vs 正文 this attempt — 真實提及, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060800-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-5 article c9dd9fb782cc99b8（Covid-19 浩劫餘生錄 分類popular頁, 2021-11-29快照）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-15: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-15 article c76f11ecd2598ecb (2017台美文藝出版·台美人筆會發表會報導, 2017-06-11): 李淑櫻以筆會會長身分宣布2017台美文藝出版及6/17發表會 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -124,3 +124,5 @@ last_reviewed: 2026-09-23
 
 <!-- TJJ-A10070700-8: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-8 article 24ebe5f065076949 (2016海外台語研習會公告, 2016-05-10): subject link re-checked vs 正文（鄭良光開台語文學寫作及欣賞課程並介紹陳雷與游朝凱確認見於正文）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10070700-17: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-17 articles (ad7f737b9872262d 第55回世界臺灣文化論壇「大佛普拉斯」, 2022-10-03 / 1251d9ed43ef6e32 美國五大台灣會館評萊豬, 2021-01-12 / 92ff3ef6b0b74b9c 彭明敏紀念研討會跨世代對談, 2023-09-24 / 6e021ae439684a11 台裔吳修銘任拜登特助, 2021-03-05): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-15: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-15 article 52a71221d3029866 (台文通訊30週年慶祝會ONLINE公告, 2021-06-29): 鄭良光以【台文通訊】01-50期總編輯名列特別來賓名單 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
