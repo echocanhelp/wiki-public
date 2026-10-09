@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Taiwanese American Student Association at UCLA
 
@@ -31,3 +31,4 @@ SKIP-with-reason (deepen-x slice 09171300-3; re-checked 2026-09-20 in slice 0919
 <!-- deepen-x slice 09250317-29 re-grep 2026-09-25: fresh ZH+EN grep of works+articles returns hit set identical to prior absorption waves (own records + works index only; UCLA TASA: zero direct hits, TASA = Seniors Assoc/ITASA). SKIP content-deepen: saturated. -->
 <!-- deepen-x slice 09251527-8 re-grep 2026-09-26: fresh grep returns hit set identical to prior waves (own records + index; UCLA TASA zero direct hits; UCLA+TASA hits = ITASA conference/reunion works at UCLA, Seniors Assoc). SKIP content-deepen: saturated. -->
 <!-- deepen-x slice 10052045-28 re-grep 2026-10-07: five-dir grep (works/articles/sources/events/topics) for UCLA TASA / TASA+UCLA / zh campus name — hits remain own records + works index + ITASA-at-UCLA works (2013 WCC, alumni reunion, community panel; ITASA org, no UCLA-TASA chapter named) + unrelated news. SKIP content-deepen: verified saturated. -->
+<!-- deepen-x slice 10070717-4 (2026-10-09) re-grep: five-dir grep for UCLA TASA / TASA+UCLA — hit set unchanged from prior waves: ITASA-at-UCLA works (2013 WCC, 20th-anniversary alumni reunion, community panel w/ TAP; ITASA org, no UCLA chapter named) + works index + unrelated news. Zero direct UCLA-TASA corpus hits. SKIP content-deepen: verified saturated. -->

@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # United Taiwanese Association at UC San Diego
 
@@ -45,3 +45,4 @@ The United Taiwanese Association (UTA) at UC San Diego — known in Chinese as �
 Corpus re-grep (slice 09300500-3, 2026-10-04): fresh ZH+EN grep of works+articles — hit set identical to records already absorbed and linked above; no new absorbable community facts. SKIP: verified-saturated.
 
 > Corpus re-grep 2026-10-07 (slice 10052045-29): fresh five-dir grep (works/articles/sources/events/topics; United Taiwanese / 台灣學友會 / UCSD) — hit set = own work record ucsd-united-taiwanese-association + index + already-linked our-journeys records above; no new absorbable community facts. SKIP: verified-saturated.
+> Corpus re-grep (deepen-x slice 10070717-4, 2026-10-09): five-dir grep (United Taiwanese / 台灣學友會 / UCSD) — hit set = own work record ucsd-united-taiwanese-association + index + source hub + already-linked our-journeys records; broader San Diego probe hits (SDTCA, SDTTA, Chuan Lyu chair) belong to other orgs, not UTA. Nothing new absorbable. SKIP: verified-saturated.

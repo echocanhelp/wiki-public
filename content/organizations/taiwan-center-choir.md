@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Taiwan Center Choir
 
@@ -30,6 +30,9 @@ The choir (also listed as **大洛杉磯台灣會館合唱團 / Taiwan Center Ch
 - 2017-10-28 會館年度大會及募款餐會（近 600 人）：合唱團演唱兩首台灣歌曲，同台有台美小姐登台與台美舞團表演: [[articles/taiwanjustice-net/2017/20171108102850_2017_11_01_大洛杉磯台灣會館會訊-_-2017-10-31_c19a43ebd71c00aa|會訊 2017-10-31]]
 - 2020 疫情期間：團員每週日下午線上練唱不中斷；推出虛擬合唱團影音「熱情的沙漠 2020 Quarantine Edition」，由指揮 Rose Chen 編製: [[articles/taiwanjustice-net/2021/20210119001936_2020_10_17_週末漫談音樂37_異想天開的游泳池音樂會-_信_e9c589e34b8229d2|週末漫談音樂37, 2020-10-17]]
 - 2021：適逢創團 30 週年（ Anniversary 慶典因疫情無法舉行）；農曆年期間發布第二支音樂影片「台灣啤酒 Taiwan Beer」（拉丁曲風；首支為 2020-10 的「熱情的沙漠」）。招募資訊：團長 Joe Pan, 626-297-3702: [[articles/taiwanjustice-net/2021/20210419123303_2021_02_11_農曆新年快樂_大洛杉磯台灣會館合唱團第二支音_8ac8be008b89f04e|TJJ, 2021-02-11]]
+- 2016-06-06 台灣學校「古典音樂欣賞」講座報導：北美洲台灣人醫師協會會歌由台灣會館合唱團演唱，馬水龍聽錄音大為稱讚（該會歌系馬水龍應葉思雅醫師之邀創作、不取分文）: [[articles/taiwanjustice-net/2023/20230129123134_2016_06_06_大洛杉磯台灣會館台灣學校_古典音樂欣賞_-六月_a244776e9eb57979|TJJ, 2016-06-06]]
+- 團員視角（鄭炳全回憶錄《旅美五十周年》）：其六十歲時加入台灣會館合唱團，由陳慧如指揮、黃令先伴奏，退休後持續參與——合唱團是會館第一代會員的社群活動之一: [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|鄭炳全《旅美五十周年》]]
+- 合唱團自身的 TAH 書目記錄：[[works/taiwaneseamericanhistory-org/5-e5-a4-a7-e6-b4-9b-e6-9d-89-e7-a3-af-e5-8f-b0-e7-81-a3-e6-9c-83-e9-a4-a8-e5-90-|record #5, 2014/10（大洛杉磯台灣會館合唱團）]]
 
 - 2026-09-22 corpus re-check: grep for 台灣會館合唱團 / Taiwan Center Choir / Taiwan Center Chorus returns only the concert records already linked above (concerts #72–#74, #95, musical concerts #151) and the New York record #4. No new corpus facts.
 - 2026-09-23 (slice 09221400-26) corpus re-check: grep for 台灣會館合唱團 / Taiwan Center Choir / Taiwan Center Chorus again returns only concerts #72–#74, #95, musical concerts #151 and the New York record #4. No new corpus facts.
@@ -50,3 +53,4 @@ Note: the New York group 紐約台灣會館合唱團 ([[works/taiwaneseamericanh
 <!-- deepen-x slice 09240900-10 (2026-09-25): re-verified — fresh grep hit set identical to material already absorbed/cited on this page (own records + index only); no new memoir/community material. SKIP. -->
 <!-- deepen-x slice 09251400-12 (2026-09-26): re-verified — fresh grep hit set identical to material already absorbed/cited on this page (own records + index only); no new memoir/community material. SKIP. -->
 <!-- deepen-x slice 10052045-28 (2026-10-07): DEEPENED — broadened grep into content/articles (taiwanjustice-net) found genuine new material absent from prior hit sets: 會訊 2017-10-31, 週末漫談音樂37 2020-10-17 (Virtual Choir / Rose Chen), TJJ 2021-02-11 (創團 30 週年 / Taiwan Beer / 團長 Joe Pan). Absorbed into Role in the Community above. Prior "no new corpus facts" lines were works-dir-only greps; the articles dir had not been probed before. -->
+<!-- deepen-x slice 10070717-4 (2026-10-09): DEEPENED — articles-dir probe found three new corpus items absent from prior hit sets: 2016-06-06 古典音樂欣賞 report (NATPDA 會歌 sung by the choir, Ma Shui-long praised), 鄭炳全 memoir 《旅美五十周年》 (member perspective, conductor 陳慧如 / accompanist 黃令先), and own bibliographic record #5. Absorbed into Role in the Community. -->

@@ -8,7 +8,7 @@ tags:
   - clerk
   - Taiwanese-American
 verification_status: published
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Rev. Xie Xinguang (謝信光)
 
@@ -70,3 +70,4 @@ Per the same 執委 letter and 2026 Annual Meeting invitation: written reports f
 > Corpus re-grep (deepen-x slice 09270400-2, 2026-10-03): zero hits for 謝信光 / Xie Xinguang / frankhsieh7 across content/works + content/articles (grep -rl exit-clean). SKIP — sole source remains the NTPC 2025/26 執委 letter (already absorbed above); no memoir material to absorb. No facts invented.
 >
 > Corpus re-grep (deepen-x slice 10052045-28, 2026-10-07): five-dir grep (works/articles/sources/events/topics) for 謝信光 / Xie Xinguang / frankhsieh7 plus surname 謝 probe in events+topics: sole hit remains sources/ntpc-usa-org.md (own 執委 roster, already absorbed); surname probes returned unrelated sources only. SKIP: verified saturated.
+> Corpus re-grep (deepen-x slice 10070717-4, 2026-10-09): five-dir grep (works/articles/sources/events/topics) for 謝信光 / Xie Xinguang / frankhsieh7 — sole hit remains sources/ntpc-usa-org.md (own 執委 roster, already absorbed); surname/romanization probes returned only unrelated Frank Hsieh records (politician 謝長廷, pianist 謝明志). SKIP: verified saturated; no memoir material to absorb. No facts invented.
