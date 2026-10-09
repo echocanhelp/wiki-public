@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Tonya C Mezrich (陳糖亞)
 
@@ -33,6 +33,7 @@ last_reviewed: 2026-10-08
 - Corpus scan 2026-09-22 (re-verify): the only corpus records naming her are her own TAH directory entries ([[works/taiwaneseamericanhistory-org/whos-who-2180-tonya-c-mezrich|TAH #2180]], [[works/taiwaneseamericanhistory-org/ota-263|TAH #263]], both bibliographic records already cited below). No memoir or community-history material found — nothing absorbable. SKIP.
 - Re-grep 2026-10-06 (slice 10051314-7): still no text naming her directly. What the corpus does carry is her family's movement record: her father [[people/ron-chen|Ron Chen 陳榮成]] appears in the UFAI memoir as 許正義/Ron Chen, organizer of the 1967 UFAI directory drive and募款組負責人 — [[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys #58]] — with his own feature record [[works/taiwaneseamericanhistory-org/326-ron-chen-e9-99-b3-e6-a6-ae-e6-88-90201503|TAH #326 Ron Chen 陳榮成]]; ron-chen's Family lists her as daughter Tonya Chen. Her husband [[people/ben-mezrich|Ben Mezrich 賓梅立克]] holds his own records ([[works/taiwaneseamericanhistory-org/whos-who-2181-ben-mezrich|TAH #2181]], [[works/taiwaneseamericanhistory-org/ota-273|TAH #273]]). Context links only — no new biography about her personally.
 - 2026-10-08 re-grep (slice 10062334-16): fresh sweep across works/articles/sources/events/topics — still only her own directory records (#2180/#263) + index; no memoir or community text names her. SKIP stands; family context links above remain the record.
+- 2026-10-09 re-grep (slice 10080735-28): fresh ZH+EN+surname sweep — hits are only her own directory records ([[works/taiwaneseamericanhistory-org/whos-who-2180-tonya-c-mezrich|TAH #2180]], [[works/taiwaneseamericanhistory-org/ota-263|TAH #263]]), husband Ben Mezrich's records (#2181/#273), and index pages. No memoir or community-history material names her. Verified-saturated SKIP; family context links above remain the record.
 
 ## Family
 <!-- deepen-x 09231500-3 2026-09-25: re-scan ZH+EN — only own records TAH #2180 / #263 + index hit; no memoir/community material. SKIP. -->
