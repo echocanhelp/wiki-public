@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Heng-Liong Lin (林興隆)
 
@@ -59,3 +59,5 @@ last_reviewed: 2026-10-08
 - Corpus re-check 2026-09-27 (deepen-x slice 09260600-25): fresh grep works/+articles/ — hit set identical (897, ourjourneys12/256/338 + index); HOLD stands. SKIP-content; saturated.
 
 Corpus re-grep 2026-10-08 (deepen-x slice 10062334-3): fresh ZH+EN grep (林興隆 / Heng-Liong Lin) returned the identical hit set (897 bio, ourjourneys12/256/338, sources index) — all already cited above; no new absorbable material. HOLD (pen-club presidency since 2008, term end unrecorded) stands. Verified saturated, SKIP-with-reason.
+
+Corpus re-grep 2026-10-09 (deepen-x slice 10080500-11): first full five-dir sweep (works/articles/sources/events/topics) per new spec — hit set unchanged (897, ourjourneys12/256/338 + works index). The five taiwanjustice-net article hits matched only via bare 興隆 substring, not 林興隆 — false positives, nothing absorbable. No new pages, no conflicts. HOLD stands. Verified saturated, SKIP-with-reason.
