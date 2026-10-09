@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Evonne Hsu (許慧欣)
 
@@ -56,3 +56,4 @@ Evonne Hsu is a Taiwanese American Mandopop singer. Hsu is managed by Music Nati
 - Corpus re-scan 2026-09-27 (slice 09260600-23): fresh grep of works/+articles/ — hit set unchanged (TAH #90, #137, back-stage write-up, index). SKIP; nothing absorbable; HOLD on album-count drift stands.
 <!-- deepen-x slice 10051200-18 (2026-10-06): verified-saturated — fresh ZH+EN+surname grep (incl. false-positive disambiguation) hit set unchanged, all hits already linked; nothing new absorbable -->
 - Corpus re-scan 2026-10-08 (deepen-x slice 10062218-7): fresh grep across works/articles/sources/events/topics — hit set unchanged (TAH #90, #137, back-stage write-up, works index, sources record). SKIP-deepen; nothing absorbable; HOLD on album-count drift stands.
+- Corpus re-scan 2026-10-09 (deepen-x slice 10080700-26): fresh grep 許慧欣/Evonne Hsu/慧欣/Hsu Hui-hsin across all 5 corpus dirs — two new article hits (taiwanjustice-net BTA pieces, 2025) are 顏慧欣 (Yen Hui-hsin, deputy director of a Taiwan economic think tank), a DIFFERENT person; disambiguated, not absorbed. Real hit set unchanged (TAH #90, #137, back-stage write-up, works index). Verified-saturated; nothing absorbable; HOLD on album-count drift stands.
