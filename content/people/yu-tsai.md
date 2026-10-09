@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Yu Tsai (蔡羽)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 > Re-verified 2026-10-01 (slice 09261300-2): fresh ZH+EN grep re-run over content/works + content/articles — hit-set unchanged (TAH #916 + Our Journeys #37 + index). OJ #37 body text checked in full: TAI/Bay Area organizational history, no 蔡羽 narrative; his name is a subject-tag on the record only. Nothing new absorbable — CLOSING as saturated.
 > Re-verified 2026-10-06 (slice 10051314-2): fresh grep (蔡羽/Yu Tsai) across works/articles/sources/events/topics — hit-set unchanged (TAH #916 + OJ #37 subject-tag + index/sources). Verified saturated.
 > Re-verified 2026-10-08 (slice 10062334-13): fresh ZH+EN grep across works/articles/sources/events/topics — hit-set unchanged (TAH #916 + OJ #37 subject-tag + sources index). Verified saturated.
+> Re-verified 2026-10-09 (slice 10080720-29): exact-match grep (蔡羽 / "Yu Tsai") across all 5 corpus dirs returns only TAH #916 + OJ #37 subject-tags + the person page itself; surname-only (Tsai) hits are all other Tsais (Tron R. Tsai, Ho-Chie Tsai, Long-Tsung Tsai, Susan Shu-Ai Tsai, J. Y. Tsai) — no 蔡羽 content. Verified saturated.
