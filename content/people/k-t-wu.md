@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-09
 ---
 # K. T. Wu (吳告祖)
 
@@ -52,3 +52,4 @@ No narrative memoir text beyond these bibliographic records; no community-role f
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - 2026-10-06 re-verify (deepen-x 10051200-10): fresh grep 吳告祖/告祖/K. T. Wu across works/articles/sources/events/topics — hit set unchanged (whoswho1135 + 368 夫婦故事 + index adjacency). SKIP stands.
+- 2026-10-09 re-verify (deepen-x 10080735-15): fresh grep 吳告祖/告祖/K. T. Wu across all 5 corpus dirs — same hit set; the one new-looking article hit (taiwanjustice 2024) is a false positive on the substring 告祖 inside 「報告祖厝」, not about this person. SKIP-with-reason stands; page saturated.
