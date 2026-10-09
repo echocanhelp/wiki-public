@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Taiwanese American Citizens League
 
@@ -27,6 +27,10 @@ The corpus documents TACL's founding leadership and chapter network across the T
 
 - **Founding-era primary records (re-grep 2026-09-21, slice 09201400-2).** The founding 籌備委員會's own 簡介 is preserved with its four founding purposes (civic participation, inter-ethnic coalition, citizen-duty programs, cultural promotion), its non-profit/non-partisan character, and its member-assembly/board structure — [[works/taiwaneseamericanhistory-org/ourjourneys186|186. 台美公民協會簡介 / 台美公民協會籌備委員會]]. A 1991 community-safety initiative is recorded as [[works/taiwaneseamericanhistory-org/projects8-21|21. 台美公民協會成立熱線 協助警方掃除惡徒 1991]] (hotline set up with police against crime), and a youth program as [[works/taiwaneseamericanhistory-org/11-e5-8f-b0-e7-be-8e-e5-85-ac-e6-b0-91-e5-8d-94-e6-9c-83-e5-86-ac-e4-bb-a4-e7-87|11. 台美公民協會冬令營]] (2015-08-26, bibliographic only). TACL is also recorded as one of the standing host bodies of the nationwide Taiwanese American Community Scholarship Awards for local high-school graduates, organised by chapters alongside 同鄉會/會館/婦女會 groups ([[works/taiwaneseamericanhistory-org/ourjourneys303|303. 台美社區高中生獎學金方案簡介 / T.A. Archives]]).
 - **Corpus re-grep 2026-09-21** (slice 09201400-2): prior hit set (Houston chapter, ff347, OJ 253, TACL/TAP newsletter, LID Camp, record 33) already linked above.
+- **TACL's own newsletters (re-grep 2026-10-09, slice 10080949-17).** TACL published its own 通訊 in the late 1980s–1991 — three issues are preserved in the corpus as magazine records: [[works/taiwaneseamericanhistory-org/758-e5-8f-b0-e7-be-8e-e5-85-ac-e6-b0-91-e5-8d-94-e6-9c-83-e9-80-9a-e8-a8-8a1988-|758. 台美公民協會通訊 1988/03]], [[works/taiwaneseamericanhistory-org/759-e5-8f-b0-e7-be-8e-e5-85-ac-e6-b0-91-e5-8d-94-e6-9c-83-e9-80-9a-e8-a8-8a1990-|759. 台美公民協會通訊 1990/09]], and [[works/taiwaneseamericanhistory-org/760-e5-8f-b0-e7-be-8e-e5-85-ac-e6-b0-91-e5-8d-94-e6-9c-83-e9-80-9a-e8-a8-8a1991-|760. 台美公民協會通訊 1991/09]] — the institutional record between the 1985 founding and the census-era campaigns.
+- **Institutional-growth memoir by the second president.** Beyond his OJ 253 census essay, 周實's organizational history of TACL's first decade is preserved as [[works/taiwaneseamericanhistory-org/ourjourneys272|272. 台美公民協會的成長：從孕育到發芽 / 周實 /01/2017]].
+- **Chapter network, expanded.** The New Jersey chapter is documented both as a chapter record ([[works/taiwaneseamericanhistory-org/new-jersey-tacl|3. New Jersey Chapter / TACL 台美公民協會紐澤西分會]], 2014-12-29) and inside community memoirs: the NJ chapter (with 溫莎區台美協會) co-founded the 紐澤西壘球公開賽 in 1993 for the second generation, and the chapter's first softball tournament is recorded in the corpus alongside the ff347 tournament account. A 大洛杉磯東南區分會 (Southeast LA district chapter) hosted the 喜瑞都族裔文化節 — [[works/taiwaneseamericanhistory-org/festivals34|34. 喜瑞都族裔文化節 / 台美公民協會大洛杉磯東南區分會]] (2016-10-14). TACL is also named among the bodies staffing the 台美人活動中心 committee alongside 同鄉會/台灣學校/台商會/長春會/基金會 members.
+- Note: the corpus titles the NJ chapter record "Taiwanese American Citizen League" (singular) — same name conflict as the HOLD below; the record link stands, not merged.
 
 HOLD: conflict in name — the corpus record titles the organization "Taiwanese American Citizen League" (singular) while this page and the TAH directory use "Taiwanese American Citizens League"; never merged.
 
