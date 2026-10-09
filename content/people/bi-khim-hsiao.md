@@ -397,3 +397,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10071500-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071500-2 — articles 004420da7bd583a2 (新聞觀測站分類頁, 2024-04-25 快照)「準副總統蕭美琴選後專訪」2024-02-10 條目 與 f6213c1937fa956d (全美會2021年228完滿報導, 2021-03-14)「駐美大使蕭美琴隔洋致詞」; both subject links re-checked vs 正文 this attempt — 真實提及, real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10071400-1: verified 2026-10-09 — wave-2 link+deepen re-check of article 5dd0106e892b8f96 (台灣新聞 分類存檔頁3, 2020-07-13快照): subject link 蕭美琴 re-checked vs 正文 this attempt (「蕭美琴專訪」三則——創新推動全面台美關係／美中戰略競爭科技安全／台美高層互動與個人夢想——確認見於正文), real, no wrong/spurious links; 2020-07-11 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10080401-9: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-9 article 20240421184918_root_9a66943e68f1e0ef（台美人台加人隨機頁 p353, 2024-04-21快照）: 「美媒專訪 蕭美琴：區域穩定美台有共同責任」條目確認見於正文, subject link 為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

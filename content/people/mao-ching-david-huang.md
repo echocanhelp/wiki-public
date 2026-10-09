@@ -81,3 +81,5 @@ Mao-ching (David) Huang 黃茂清 – History of Taiwanese American (T.A. Archiv
 <!-- TJJ-A10040600-11: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-11 article 9a66943e68f1e0ef (台美人台加人隨機頁 p353, 2024-04-21快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060800-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-5 article 9a66943e68f1e0ef（台美人台加人隨機頁 p353, 2024-04-21快照）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10080401-9: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-9 article 20240421184918_root_9a66943e68f1e0ef（台美人台加人隨機頁 p353, 2024-04-21快照）: 「台美人物誌-謙卑、博愛、勇往直前-黃茂清律師專訪-美洲台灣日報社長李木通主持 20161130」條目確認見於正文, subject link 為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
