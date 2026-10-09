@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-09
 ---
 # Ben Mezrich (賓梅立克)
 
@@ -53,3 +53,4 @@ press-kit accomplishment above.
 - 2026-09-26 re-sweep (slice 09251039-10): fresh grep returns 2181, 273 (Ben), 2180, 263 (Tonya C Mezrich duplicate bibliographic record) + index — all band-B press-kit records; no new Ben biography in the community corpus.
 - 2026-10-06 re-sweep (deepen-x slice 10051314-5): fresh grep across all corpus dirs — hits remain the four band-B bibliographic records (2181/273 Ben, 2180/263 Tonya C Mezrich) + works index; no new biography in the community corpus. SKIP, saturated.
 - 2026-10-08 re-sweep (deepen-x slice 10062334-16): fresh grep across works/articles/sources/events/topics — hit set unchanged (2181/273/2180/263 + index + source page); no Mezrich mention outside his own directory records. SKIP stands.
+- 2026-10-09 re-sweep (deepen-x slice 10080735-13): fresh ZH+EN+surname grep across all 5 corpus dirs — hit set unchanged (2181/273 Ben, 2180/263 Tonya C Mezrich + works index + source hub); surname-only grep adds only unrelated 梅-name noise. No biography material in the community corpus beyond the band-B press-kit records. SKIP, saturated.
