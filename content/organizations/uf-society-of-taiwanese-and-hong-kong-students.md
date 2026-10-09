@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # UF Society of Taiwanese and Hong Kong Students
 
@@ -28,3 +28,5 @@ The UF Society of Taiwanese and Hong Kong Students (STAHKS) is a student organiz
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 10052158-17 recheck 2026-10-07: fresh five-dir sweep (STAHKS / 'Society of Taiwanese and Hong Kong' / ZH variants over works+articles+sources+events+topics) — zero hits beyond the TAH directory source; Florida/Gainesville hits are unrelated (黃碩文 UF award, South-FL chapter). SKIP (verified-saturated). -->
+
+<!-- deepen-x slice 10070717-24 recheck 2026-10-09: fresh five-dir sweep (STAHKS / 'Society of Taiwanese and Hong Kong' / ZH variants) — sole hit is the TAH directory source listing itself; zero corpus records. SKIP (verified-saturated). -->

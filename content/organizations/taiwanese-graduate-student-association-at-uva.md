@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Taiwanese Graduate Student Association at UVa
 
@@ -29,3 +29,5 @@ TGSA is one node in the university Taiwanese graduate-student association networ
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 <!-- deepen-x slice 10052158-17 recheck 2026-10-07: fresh five-dir sweep (TGSA / Graduate Student Association / UVa / Virginia) — 研究生協會 hits are NTU 台大研究生協會 (陳文成廣場 articles), unrelated; Virginia hits are FAPA chapter lists, residency memoirs, West Virginia mentions — zero for UVa TGSA. SKIP (verified-saturated). -->
+
+<!-- deepen-x slice 10070717-24 recheck 2026-10-09: fresh five-dir sweep (TGSA / Graduate Student Association at UVa / UVa / Virginia) — sole hit is the TAH directory source listing itself; zero corpus (works/articles/events/topics) records naming this chapter. SKIP (verified-saturated). -->

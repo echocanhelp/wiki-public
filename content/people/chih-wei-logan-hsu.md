@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Chih-Wei Logan Hsu
 
@@ -49,3 +49,5 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x slice 10070717-24 recheck 2026-10-09: fresh five-dir sweep (Logan Hsu / Chih-Wei / 許志威 / 志威) — hits are own record whoswho1373 (already linked), distinct person 1746 Chih-Wei Hu 胡智為, and unrelated HK police officer 黃志威 in taiwanjustice-net. Band B bibliographic record remains sole community record. SKIP (verified-saturated). -->
