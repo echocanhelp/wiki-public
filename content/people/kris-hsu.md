@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # Kris Hsu (徐謙讓)
 
@@ -71,4 +71,6 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A10060400-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-1 articles (77b0891e 信雅古典音樂珍藏啟用致詞 / 3be67f6e 台美人台加人存檔頁2 / 2e141df6 蔬果園藝標籤頁 / 2fa1c26a 台美人台加人存檔頁359): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
-<!-- TJJ-A10081501-1: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10081501-1 article 77b0891ec24689f9 (週末漫談音樂(88) 信雅古典音樂珍藏啟用儀式致詞, 2021-10-16): Kris徐謙讓 link (來訪代探詢捐贈方案) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- TJJ-A10081501-1: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10081501-1 article 77b0891ec24689f9 (週末漫談音樂(88) 信雅古典音樂珍藏啟用儀式致詞, 2021-10-16): Kris徐謙讓 link (來訪代探詢捐贈方案) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- slice 10091316-30: verified 2026-10-10 — fresh grep 徐謙讓/Kris Hsu/謙讓 across works+articles+sources+events+topics returns the identical saturated set (own [[works/taiwaneseamericanhistory-org/whos-who-2157-kris-hsu|TAH #2157]], works index, TJJ 週末漫談音樂 38 & 88), all absorbed above. The 2025-03-28 金溥聰/郭台銘 article hit is a false positive — 謙讓 used as a common word («若能謙讓，當個稱職的Kingmaker»), not this person. SKIP — verified-saturated. -->
