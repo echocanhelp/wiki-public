@@ -9,7 +9,7 @@ tags:
   - politician
   - dpp-founder
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-10-09
 ---
 # Peng Ming-min (彭明敏)
 
@@ -81,6 +81,12 @@ Through these connections, Yang came to see Peng as a model of Taiwanese intelle
 > "He was benevolent — he had great love for Taiwan and its homeland, leading the way in promoting Taiwan's independence, democracy, progress, and development. He was brave — when Taiwan faced crises, when Taiwanese suffered, when Taiwanese Americans encountered disasters, he always demonstrated moral courage and stepped forward."
 > — 楊嘉猷 (Charles Yang), 2014
 
+### Community Recognition in the United States
+
+- **1979 — Taiwan State-Building United Front (臺灣建國聯合陣線):** After the KMT's mass arrests following the 美麗島 incident (December 1979), the United Front was founded in New York on December 15. Peng's organization, the Taiwan Association (臺美協會), was among the founding groups, alongside the Formosan Independence League, the Taiwan Democratic Movement Overseas Alliance, and others. ([[works/taiwaneseamericanhistory-org/our-journeys-357|舊金山灣區臺灣人的社團活動與家國意識之形成]])
+- **1984 — Peng Ming-min Trophy (彭明敏杯):** The championship trophy of the annual Taiwan-student softball tournament in upstate New York (centered in Albany) was named the "Peng Ming-min Cup" in 1984 to honor his contributions to the democratic and independence movements. He traveled to Albany in July 1986 to present the award in person. ([[works/taiwaneseamericanhistory-org/ourjourneys311|紐約首府區台灣同鄉會及台美文化促進會簡介]])
+- **1988 — Census recognition campaign:** Peng and 蔡同榮 traveled from the East Coast to Los Angeles for Rep. Mervyn Dymally's talk at the USC Hilton, organized by TACL in support of a self-identified "Taiwanese" line in the U.S. Census — a visible show of national-community solidarity behind the effort. ([[works/taiwaneseamericanhistory-org/ourjourneys253|Our Journeys #253 — TACL memoir]])
+
 ## Death and Memorial
 
 Peng Ming-min died on April 8, 2022. A memorial tribute was written by 楊嘉猷 (Charles Yang), describing him as "典型在夙昔" (a model of enduring character).
@@ -90,6 +96,7 @@ Peng Ming-min died on April 8, 2022. A memorial tribute was written by 楊嘉猷
 - **Content priority A:** 2023 TAHS Publication (profile, Part 1, ~58 lines), written by 楊嘐猷 (Charles Yang)
 - **Content priority A:** Contains extensive biographical narrative from birth through escape, academic career, DPP founding, and 2000 presidential campaign
 - **Hub:** [[sources/2023-tahs-publication||2023 TAHS Publication]]
+- **Corpus (2026-10-09 pass):** [[works/taiwaneseamericanhistory-org/whos-who-285-ming-min-peng|Who's Who #285 — Prof. Ming Min Peng]], [[works/taiwaneseamericanhistory-org/publications1081|寫給台灣的備忘錄：彭明敏教授文集]], [[works/taiwaneseamericanhistory-org/photo-albums-historical-41|台灣人民自救運動宣言 (1964)]], [[works/taiwaneseamericanhistory-org/ourjourneys253|Our Journeys #253 (Dymally/TACL census)]], [[works/taiwaneseamericanhistory-org/ourjourneys311|NY Capital District 同鄉會 memo (彭明敏杯)]]
 - **Note:** The full text includes detailed biographical information including the 1964 Self-Salvation Movement, escape to Sweden, academic career at University of Michigan, DPP founding, and presidential campaign
 
 ## Sources
