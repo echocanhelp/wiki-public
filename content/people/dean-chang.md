@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-09
 ---
 # Dean Chang (張怡仁)
 
@@ -61,6 +61,7 @@ Accomplishment
 
 - （複掃 2026-09-15，slice 09150316-15）重跑語料 grep（張怡仁／Dean Chang，works+articles）：命中 ff44、相簿 #106／#18、Our Journeys #62（英文版）、檔案彙整 #73、#616——全數為本頁已連結之書目／相簿／回憶錄記錄（威廉波特馬鈴薯刻印軼事已吸收），無新事實可吸收，無衝突須 HOLD。
 - （複掃 2026-09-15，slice 09150400-5）重跑語料 grep：命中集合不變（ff44、#106、#18、ourjourneys62-eng、#73、#616），無新事實可吸收，無衝突須 HOLD——SKIP-with-reason。
+- （複掃 2026-10-09，slice 10081009-15）重跑語料 grep（張怡仁／Dean Chang／怡仁，works+articles+sources+events+topics）：命中 13 檔全數為本頁已連結之書目／相簿／回憶錄記錄（ff44、ff45、#106、#18、ourjourneys62 中英版、檔案彙整 #73、mystore-755、#616、#13、ourfootstapes-24）及索引頁，無新事實可吸收，無衝突須 HOLD——SKIP-with-reason（saturated）。
 
 ## Sources
 - [TAH #24 encyclopedia: 24. Dean Chang ( 張怡仁) Presenting the West Point Yearbook to President Reagan  By](https://taiwaneseamericanhistory.org/ourfootstapes-24/)
