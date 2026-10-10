@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # Peggy Cooley (邱碧玉)
 
@@ -54,6 +54,7 @@ last_reviewed: 2026-10-01
 - Her TAH Foundation encyclopedia entry is preserved as a work page: [[works/taiwaneseamericanhistory-org/whos-who-2161-peggy-cooley|2161. Peggy Cooley 邱碧玉]] (TAH Who's Who, 2018-10-07).
 - Married into the family of [[people/ching-fen-hsiao|蕭清芬]], the PCT pastor/educator who served at Tainan Theological College and Seminary; the family lived in Tainan during her husband's service there, tying her to the PCT elder-pastor community of southern Taiwan.
 - At daughter [[people/bi-khim-hsiao|蕭美琴]]'s 2024-05-20 就職典禮, reporting noted that although she is a U.S. citizen, she speaks fluent 台語 and was described by relatives as 「比台灣人更像台灣人」— a marker of deep insertion into the local church-and-community milieu ([[articles/taiwanjustice-net/2025/20250213214800_520就職典禮賴清德家人將出席-蕭美琴母親返台觀禮_0258611f5f824a5d|TJJ 轉載中央社]]).
+- 2026-10-10（slice 10091404-19）語料grep新事實：編劇 [[people/marilyn-fu|Marilyn Fu]]（《The Sisterhood of Night》）受訪表示，數年前她與 [[people/jean-j-fang|Jean Fang]] 共同製作了一檔關於 Peggy Hsiao（蕭美琴之母）的廣播節目，稱其「has such an interesting life story」，並說她的人生「definitely very present」於《Sisterhood》之中（[[works/taiwaneseamerican-org/interview-with-marilyn-fu-screenwriter-of-the-sisterhood-of-night|TAH 訪談原文]]）——她的人生故事進入了台灣裔美國人的影視敘事，屬社群影響之直接佐證。
 - 2026-09-22（slice 09220500-9）語料再grep（邱碧玉／Peggy Cooley）：命中僅本身出處頁 [[works/taiwaneseamericanhistory-org/whos-who-2161-peggy-cooley|TAH #2161]]、works index，以及已吸收之 TJJ 520 報導兩份存檔；無回憶錄提及、無新事實可吸收、無衝突須 HOLD。SKIP-content（verified-saturated）。
 
 - 2026-09-23（slice 09221300-6）語料再grep（邱碧玉／Peggy Cooley）：命中集與前次相同（出處頁、works index、已吸收之 520 報導兩份存檔），無回憶錄提及、無新事實、無衝突。SKIP-content（verified-saturated）。
