@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-09
 ---
 # Simon Cheng (鄭良光)
 
@@ -35,6 +35,8 @@ last_reviewed: 2026-09-23
 - 其個人收藏以「29. Collection of Mr. Simon Cheng 鄭良光先生的收藏」入藏 TAH 檔案庫（2017）（[[works/taiwaneseamericanhistory-org/collection-of-mr-simon-cheng|TAH 收藏 #29]]）。
 - 撰寫「565. 台灣人的文化遺產」（2017-08），論述台美人文化遺產傳承（[[works/taiwaneseamericanhistory-org/mystories565|My Stories #565]]）。
 - 以台灣人聯合基金會（TUF）資源身分，其相關紀錄（含林昭亮、曾宇謙、劉孟捷等音樂文化事項）見於 Our Journeys 專輯（[[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys 212]]）。
+- 以《台文通訊》創辦人身份與「台文雞絲麵」「台文博覽會」發起人吳家銘共同發起《台文通訊——30冬紀念特刊》計畫（2021），邀歷任總編輯與全球聯絡處負責人重寫回顧文章（[[articles/taiwanjustice-net/2021/20210920152903_2021_07_16_過鹹水30冬_一張寫ho_台語文e批_台文通訊-30冬_9137c09367146af6|TJJ 過鹹水30冬, 2021-07-16]]）。
+- 世界台灣文化論壇共同發起人，並長期擔任論壇線頂聚會主持人與論壇消息提供窗口（历回公告多署名「鄭良光 提供」）；2017年歌仔戲「遇見台灣」郭懷一北美巡演投書亦以台灣人聯合基金會（www.tufusa.org）名義具名發表（[[articles/taiwanjustice-net/2024/20240530130213_root_01ad569bd00893d3|TJJ 遇見台灣原文, 2017-07-06]]）。
 
 ## Family
 
@@ -135,3 +137,9 @@ last_reviewed: 2026-09-23
 <!-- TJJ-A100607004-b: verified 2026-10-09 — wave-2 link+deepen re-check of article 2490b18e8f37ea79 (第166回世界台灣文化論壇：試論台美人 ê 文化遺產 kap 傳承, 2025-01-22刊/論壇2025-01-25) read fresh this attempt: 鄭良光以TUF會長任主講人具名見於正文, subject link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10080401-17: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-17 article 7dfa96523779391d (第161回世界台灣文化論壇 Huang Yi & Kuka 北美巡演迴響座談會, 2024-12-17 發文 / 2025-04-25 快照) read fresh this attempt: subject link re-checked vs 正文 (「主持人 鄭良光 美國台灣人聯合基金會」確認見於正文), real, no wrong/spurious links; 2024-12-21 dated fact w/ article wikilink already in From the record — saturated, no new material. 黃翊/Michael Alexander(Caltech)/簡德源(文化部台灣書院)具名見於正文但無對應 vault 頁（簡德源≠蘇德源，alan-su 頁已再驗證為子字串誤配）— 不造鏈、不誤併。 -->
+
+- 2024-12-12 — 以世界台灣文化論壇消息提供人身分提供第160回論壇「Kiù bó-gí, tuì ka-tîng tsò-khí（救母語，對家庭做起）」母語家庭主題公告（[[articles/taiwanjustice-net/2025/20250417220118_第160回世界台灣文化論壇_母語家庭_8344fb5f4231aba6|TJJ, 2025-04-17 快照]]）。
+- 2024-03-11 — 以世界台灣文化論壇消息提供人身分宣布論壇歇息三個月後於 2024-03-16 恢復每週六線頂聚會，場次為林淑敏教授「佇(異)地老化：台灣共美國日照中心的社會語言學田野紀錄」（[[articles/taiwanjustice-net/2024/20240530132253_root_ca27b3b0d34ed502|TJJ 原始快照]]；同文另存 [[articles/taiwanjustice-net/2025/20250328055619_世界台灣文化論壇-佇異地老化-台灣共美國日照中_6fe20f88b76e6d29|2025-03-28 快照]]）。
+- 2022-03-11 — 擔任第24回世界台灣文化論壇「母語拋荒 ê 世代，chhiau-chhoe 台文人」線頂聚會主持人（開場與話尾均由其主持）（[[articles/taiwanjustice-net/2022/20220706125927_2022_03_11_24回-世界台灣文化論壇-ti-母語拋荒e世代-chhiau-chhoe-台文人_a38f477e71016614|TJJ, 2022-07-06 快照]]；2026-02-11 再刊同文 [[articles/taiwanjustice-net/2026/20260211102431_24回-世界台灣文化論壇-ti-母語拋荒e世代-chhiau-chhoe-台文人_9abf6253e6898781|TJJ, 2026-02-11]]）。
+- 2022-02-02 — 第19回世界台灣文化論壇「台灣文學欣賞會—戀戀」以「世界台灣文化論壇共同發起人、台文通訊創辦人」身分列名特別來賓（同场陳雷）（[[articles/taiwanjustice-net/2022/20220207204451_2022_02_02_第19回世界台灣文化輪壇-2-5台灣文學欣賞會-戀戀_d64677687bf8468d|TJJ, 2022-02-07 快照]]）。
+- 2022-01-25 — 第18回台灣文化論壇「lai kap 阮劇團開講：做伙來解決台語文危機」與汪兆謙（阮劇團）對談，以與談人身分出席（[[articles/taiwanjustice-net/2022/20220207200117_2022_01_25_第18回台灣文化論壇_lai-kap阮劇團開講_做伙來解決台_dbfd9bb39e824217|TJJ, 2022-02-07 快照]]）。
