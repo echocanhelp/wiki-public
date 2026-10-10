@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Tony Lee (李賢群)
 
@@ -24,6 +24,15 @@ last_reviewed: 2026-09-25
 
 - **228系列活動召集人** — at the 2025 追思紀念大會 hosted by 大洛杉磯台灣會館 together with 24 台美社團 (2025-02-24, Taiwan Justice Net report preserved in the quote archive of [[people/roger-tsai||Roger Tsai (蔡漢成)]]), 李賢群 served as convener of the 228 series events and, with 董事 [[people/josephine-pan||Josephine Pan (潘掬慧)]], presided over the memorial ceremony.
 - **WHA 聯合聲明的共同發起人** — named among the 共同發起人 of the 2021 南加州僑界支持台灣參與世界衛生大會 (WHA) 聯合聲明 (Taiwan Justice Net, 2021-05-17, preserved in the vault article archive).
+
+## Role in the Community
+
+- **Co-author of 「1947台灣二二八革命」** — in the 1980s, then-blacklisted 陳婉真 stayed in Los Angeles (1979–1989), wrote books, opened 東方書局, and joined the publishing program of 已故旅美教授王秋森's 台灣文化事業有限公司. 李賢群 participated in collecting the source materials for 「1947台灣二二八革命」 and is listed among its 共同作者, assisting with史料整理; he later recalled her as「台獨才女」 in a 中央社記者 interview after her passing in 清邁 (2025-07-11, aged 75) ([[articles/taiwanjustice-net/2025/20250713202243_陳婉真昔旅美10年-友人李賢群追思_台獨才女_7d0b3e3cc07bf7fd|TJJ 追思報導, 2025-07-13]]); ([[articles/taiwanjustice-net/2025/20250713205946_洛杉磯台僑追思陳婉真-感念_最勇敢的抗爭先鋒_532486e0930de784|洛杉磯台僑追思報導]]).
+- **全美台灣人權協會 (FAHR)** — described in the 2025 追思報導 as 前會長; the 2014 FAHR 理事名單 preserved in our memoirs lists him as 財務 and as 理事 (appearing twice in the roster) ([[works/taiwaneseamericanhistory-org/ourjourneys75|ourjourneys75]], [[works/taiwaneseamericanhistory-org/ourjourneys75-eng|ourjourneys75-eng]], sourced from 張丁蘭的故事 2000). HOLD: 「前會長」 (2025 news) vs 「財務/理事」 (2014 roster) — both may be true across years; not auto-merged.
+- **TAC-WC (Taiwanese American Council – World Congress) Board** — one of the first five regional directors when the TAC-WC Board was formed (2016–2017), representing the Los Angeles region alongside Jim Wang, John Chou, Ken Wang and Ed Huang; the Board announced founding in May 2017 with a five-city, five-year rotation ([[works/taiwaneseamericanhistory-org/ourjourneys352|ourjourneys352]]).
+- **2025 大罷免連署行動** — as a 志工 of the 洛杉磯聖東台灣同鄉會 recall-station effort, noted that ~40% of signers were young people; in the 聖東同鄉會 station write-up he is listed as the contact person (Tony Lee, 310-383-6702) ([[articles/taiwanjustice-net/2025/20250418064812_海外台灣人參與罷免-洛杉磯匯集350份連署書_ddc59bf9ac5ac277|TJJ, 2025-04-18]]; [[articles/taiwanjustice-net/2025/20250418065344_聖東台灣同鄉會發起的洛杉磯大罷免賣台立委站開_c91ad665000378ed|聖東站開報導]]).
+- **2024 台灣會館第26周年年會晚宴** — listed among the 38 台館董事 whose ticket-sales contacts were published for the 2024-11-02 annual gala/fundraiser ([[articles/taiwanjustice-net/2025/20250420093345_2024大洛杉磯台灣會館第26周年年會晚宴暨募款活動11月2_2f4af86847559b66|TJJ, 2025-04-20]]).
+- **Name disambiguation:** the "Tony Lee 李嘉晉醫師" of the Cambodia/Guatemala NATMA medical missions ([[works/taiwaneseamericanhistory-org/ourjourneys274|ourjourneys274]]) is a different person — NOT this page's subject.
 
 ## From the record
 - 複核（TJJ-A09260400-7, 2026-09-26）：本 slice 文章 c62f5c50846fe267 正文再驗證——subject 連結為真（無錯鏈、無虛鏈）；對應日期條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
