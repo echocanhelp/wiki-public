@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-09
 ---
 # Nai-Yuan Hu (胡乃元)
 
@@ -44,7 +44,8 @@ Since winning the First Prize of the prestigious Queen Elisabeth International C
 ## Role in the Community
 
 - Childhood training in Taiwan: as told in [[works/taiwaneseamericanhistory-org/ourjourneys287|TAH Our Journeys #287 (2015 美西夏令會 / 善友樂團第二代)]], 胡乃元 (like 林昭亮) trained as a boy in the **3B Youth Orchestra** in Tainan, founded by 鄭昭明 after the amateur 善友管弦樂團 dissolved in 1960 — a direct line from a post-war southern-Taiwan amateur orchestra to two international soloists.
-- First artist of the 台灣人聯合基金會's 「台灣名家演奏系列」: in 1992, sponsored by [[people/wu-lipei|吳澧培]], his violin recital opened the series in LA, which over the years brought 林昭亮、陳慕融、蘇顯達、陳泰成、陳毓襄、葉綠娜、陳麗嬋、曾道雄 and others to US stages, catalysed three 蕭泰然 concertos, and led to the 1997 228紀念音樂會 — [[works/taiwaneseamericanhistory-org/ourjourneys294|TAH Our Journeys #294 (TUF 三十年)]]; the series is also recalled in [[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys #287]]. See [[organizations/taiwanese-united-fund|Taiwanese United Fund]].
+- First artist of the 台灣人聯合基金會's 「台灣名家演奏系列」: on 1992-01-26 his violin recital at the 日美劇場 (Nichibgeki) in Los Angeles opened the series, sponsored by [[people/wu-lipei|吳澧培]]; over the years it brought 林昭亮、陳泰成、陳慕融、蘇顯達、陳毓襄、葉綠娜、陳麗嬋、曾道雄 and others to US stages, catalysed three 蕭泰然 concertos, and led to the 1997 228紀念音樂會 — [[works/taiwaneseamericanhistory-org/ourjourneys294|TAH Our Journeys #294 (TUF 三十年)]] and [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]]; the series is also recalled in [[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys #287]]. See [[organizations/taiwanese-united-fund|Taiwanese United Fund]].
+- 1985 Queen Elisabeth win recorded in the TAH winners archive: [[works/taiwaneseamericanhistory-org/winners12|TAH #12 台灣青年胡乃元榮獲伊麗莎白皇后小提琴演奏獎 1985]].
 - Bay Area: invited by the 19th 北加州台灣同鄉聯合會 to perform at Stanford on 1992-02-08 under president 吳啓昌 — [[works/taiwaneseamericanhistory-org/ourjourneys38|TAH Our Journeys #38 北加州台灣同鄉聯合會三十年回顧]].
 - Dedicated community-biography records in the vault: [[works/taiwaneseamericanhistory-org/mystories478|TAH #478 第一位贏得伊莉莎白皇后大賽的台灣小提琴家胡乃元（1961-）/ 林衡哲 / 2016-11]] and [[works/taiwaneseamericanhistory-org/publications1055|TAH #1055 弓在弦上：胡乃元與Taiwan Connection的故事 / 吳錦勳 / 2014-11]].
 
