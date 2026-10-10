@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-09
 ---
 # Sing-Nan Wang (王幸男)
 
@@ -60,3 +60,4 @@ last_reviewed: 2026-10-07
 - 新鏈（2026-10-06，deepen-x 10051143-1）：兩筆此前未鏈之 corpus 紀錄入列——陳銘城《王幸男郵包爆炸案》史記（2015-02-26，書目紀錄、全文存於 vault）（[[works/taiwaneseamericanhistory-org/mystories204|204. 王幸男郵包爆炸案／陳銘城]]）；張丁蘭《返鄉記》（2016-03）記其探視綠島政治犯行程中「本來計劃去綠島探望王幸男，因時間緊迫，無法成行」，改於台北見其弟與弟婦，屬海外同志與綠島監禁網絡之互動記錄（[[works/taiwaneseamericanhistory-org/ourjourneys210|210. 返鄉記／張丁蘭]]）。
 
 > Re-grep（deepen-x slice 10060911-1，2026-10-07）：fresh ZH+EN grep（works/articles/sources/events/topics）— hit set identical（photo-albums-activities-107、ourjourneys123/-eng、ourjourneys315、mystories407、ourjourneys223、mystories204、ourjourneys210、851 條目）；all already absorbed. SKIP: verified-saturated.
+> Re-grep（deepen-x slice 10081018-7，2026-10-09）：fresh ZH+EN grep across all 5 corpus dirs — the only new candidate hits were taiwanjustice articles referencing 枝野幸男（Edano Yukio, Japanese politician; substring 幸男 false positive）. Hit set identical to prior runs; all memoir links intact. SKIP: verified-saturated.
