@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Linda Gail Arrigo (艾琳達)
 
@@ -43,6 +43,8 @@ _No filled family fields on the TAH profile._
 - 同鄉大會講者紀錄：1988 年第十屆台灣人台灣同鄉聯合會年會（南卡 Converse College，主題「台灣社會改革與婦女運動」）以婦女運動來賓身分與張富美、黃美惠、鄭至慧同台；1995 年第十七屆年會再以環保主題發表演說（[[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys 245]]）。
 - 2026-09-23 corpus re-grep（DEEPEN-X slice 09221100-3）：命中集不變 —— 語料庫內凡提及艾琳達/Arrigo 的 work 紀錄（OJ 38／142／321／357／381、TAH 百科 810、本人收藏條目）均已 wikilink 於上；其餘文字命中為無關歌劇文章（Arrigo Boito）。VERIFIED-SATURATED，無新可吸收素材。
 - 2026-09-24 corpus re-grep（DEEPEN-X slice 09230500-1）：命中集不變（OJ 38／142／321／357／381、TAH 百科 810 全數已連結）。VERIFIED-SATURATED。
+- 英文版視角補強（DEEPEN-X slice 10080958-25）：1979 年匯款細節英文版載明款項由密西根州台灣人 I-hsiung Lin 與 Bernie Huang 兩人匯前口頭確認後、以安雅堡台灣同鄉會名義匯入台北第一銀行給施明德，匯款收據存於陳文成資料庫，且郭容信（Kuo Yu-hsin）《台灣民主通訊》報導此款招致國民黨打壓施明德，艾琳達抱怨反害施明德（[[works/taiwaneseamericanhistory-org/ourjourneys321-eng|Our Journeys 321 (English)]]）。
+- 1979-12-28 機場歡迎事件英文版載明：她自 1974 年即為協志會（Taiwanese Alliance for Interculture）會員；女特務撤回控訴前曾控告在場同鄉涂曾（Tu Chen）、Winston H. Chen、張富美、Thomas H. Chen、謝永浩（Yung-hao Hsieh）等人（[[works/taiwaneseamericanhistory-org/ourjourneys38-eng|Our Journeys 38 (English)]]）。
 
 ## From the record
 
