@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # James Liang (梁政吉)
 
@@ -66,3 +66,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A100607006-d: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607006-d article b1d58af16c0a5e5b (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, 2021-06-16快照): subject link re-checked vs 正文 this attempt, real (梁政吉 列名共同發起人清單, 漢名與本頁標題相符), no wrong/spurious links; 2021-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10071400-1: verified 2026-10-09 — wave-2 link+deepen re-check of article 80c0a825a7a661b6 (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, 2025-11-08快照): subject link 梁政吉 re-checked vs 正文 this attempt (梁政吉 列名共同發起人清單, 漢名與本頁標題相符), real, no wrong/spurious links; 2021-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- slice 10081009-29: verified 2026-10-09 — idempotent re-verify. Fresh grep 梁政吉/James Liang/政吉 across works+articles+sources+events+topics: hits limited to records already linked above (194, 727, ourjourneys186/186-eng, ourjourneys110/110-eng) + works index + sources registry + the two already-linked TJJ WHA 聲明 snapshots. One near-hit (2025 FASCA 新生培訓 article, 2025-09-15) is 梁政均 — a different person caught only by surname 梁; correctly NOT absorbed. No new corpus facts. Verified-saturated SKIP. -->
