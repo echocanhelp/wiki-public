@@ -9,7 +9,7 @@ tags:
   - semiconductor
   - ceo
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-09
 ---
 # Lisa T. Su (蘇姿丰)
 
@@ -126,3 +126,7 @@ Pages that link to **lisa-su** (lisa-su):
 <!-- TJJ-A10060800-7: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-7 article 4779b4e7bc06941e (蘇姿丰獲美半導體協會大獎, 2026-01-21 存檔): subject link re-checked vs 正文 (報導主角), real, no wrong/spurious links; 2020-09-21 Noyce 獎 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10070800-5: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-5 articles e1e223aabe8b8751 (標普企業執行長年薪排行榜, 2020-06-02) + 88c15e5403e6b9b9 (蘇姿丰出任PCAST科技顧問, 2021-09-22): subject links re-checked vs 正文 this attempt, real (報導主角; 與 dr-lisa-su 雙頁並存維持), no wrong/spurious links; 2020-06-02 / 2021-09-22 dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
 <!-- TJJ-A10071400-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071400-2 article 4779b4e7bc06941e (蘇姿丰獲美半導體協會大獎, 2026-01-21 存檔): subject link re-checked vs 正文 (報導主角), real, no wrong/spurious links; 2020-09-21 Noyce 獎 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 2022-12-06 — 台積電亞利桑那州鳳凰城廠移機典禮，蘇姿丰以超微董事長暨執行長身份與蘋果執行長庫克同場出席；其致詞稱「台積電使得超微能夠專注於最擅長的事情，設計改變世界的創新晶片」，並表明超微將成為台積電亞利桑那州廠重要用戶（[[articles/taiwanjustice-net/2022/20221208134413_2022_12_06_台積電_在美建半導體生態系-提供客戶更好服務_5d96cd237efb9542|TJJ 轉載中央社報導, 2022-12-06]]；另見同事件報導 [[articles/taiwanjustice-net/2022/20221207173633_2022_12_06_apple-amd及qualcomm承諾下單台積電亞利桑那州廠_蘋果將是最_9ef7112426e37cac|蘋果/超微/高通承諾下單台積電亞州廠]]）。
+- 2021-06-02 — 超微攜手台積電開發三維小晶片（3D chiplet）技術，蘇姿丰表示此為「封裝方面的突破」，hybrid bond 結合超微 chiplet 架構與 3D 堆疊，互連密度較 2D chiplet 高出逾 200 倍（[[articles/taiwanjustice-net/2022/20220810000012_2021_06_02_超微攜台積電開發三維小晶片技術_年底前可望量_aa0bfd40d782f41a|TJJ 轉載報導, 2021-06-02]]）。
+- 2026-01-18 — 台股 AMD 個股亮點報導註記：「CEO 是台南人，蘇姿豐博士（她三歲時隨父母來美，在 MIT 獲得 PhD）」——台美媒體圈持續以台南出身＋MIT 書寫其身分敘事（[[articles/taiwanjustice-net/2026/20260118233952_股市亮點-_139_amd-advanced-micro-devices-inc_4b2f157fa4c0b06a|TJJ 股市亮點 #139, 2026-01-18]]；名字以變體「蘇姿豐」出現，參見 [[people/dr-lisa-su|Dr. Lisa Su]] 雙頁分工）。
