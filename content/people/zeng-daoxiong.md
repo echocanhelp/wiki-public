@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-10-10
 ---
 # Zeng Dao-xiong (曾道雄)
 
@@ -21,6 +21,18 @@ last_reviewed: 2026-08-30
 - **Articles:** 6
 
 
+
+## Role in the Community
+
+In the movement record Zeng is not primarily a press-kit bio — he is a **performer-arranger who supplied cultural infrastructure for Southern California Taiwanese institutions**, especially the 台灣名家演奏系列 and the 台灣文化之夜 under the 南加州台灣人聯合基金會 (TUF).
+
+- **台灣名家演奏系列 (1992–1993, Los Angeles).** Zeng performed as a vocalist in this series alongside 林昭亮, 胡乃元, 陳泰成, 陳毓襄 and 陳麗嬋. The series was initiated by Dr. 林衡哲 and launched in 1992 with 吳澧培's sponsorship ([[people/wu-lipei|吳澧培]]), with the stated purpose of introducing Taiwanese musicians and composers to American mainstream society; programs paired performers with works by 蕭泰然 and 許常惠. → [[works/taiwaneseamericanhistory-org/ourjourneys287|287. 台南善友樂團之後代首次在夏令會聚會 (黃東昇, 05/2017)]]
+- **TUF institutional history.** The foundation's own retrospective lists Zeng among the vocalists invited across the演奏系列 years. → [[works/taiwaneseamericanhistory-org/ourjourneys294|294. 南加州台灣人聯合基金會的簡介 (06/2017)]]
+- **Localization of Western opera.** The TUF 台灣文化之夜 account credits 歐秀雄 with working **with Zeng to localize Western opera** (「與曾道雄合作把西洋歌劇本土化」) — a movement-side claim that his operatic work was deliberately indigenized, not merely staged. → [[works/taiwaneseamericanhistory-org/ourjourneys301|301. 南加州臺灣人聯合基金會的誔生、回顧與展望 (林衡哲, 07/2017)]]
+- **Arranger for a homecoming moment.** The same TUF history records that Zeng arranged 「我要回去故鄉」 for 王秋梨's encore at a concert marking 彭明敏's return to Taiwan after 22 years in the United States ([[people/peng-ming-min|彭明敏]]). HOLD: the passage's internal dating is ambiguous (放逐22年 / 「今年11月底」) — do not assert a year until reconciled with 彭明敏's own timeline.
+- **President's Office 資政.** Named in the 總統府 資政 list (27) published 2022-09-02; appointment term stated as 民國111-09-01 to 113-05-19. → [[articles/taiwanjustice-net/2025/20251013095227_總統府公布遴聘及新聘資政27人國策顧問70人名單_fa7c957f552d76e9|總統府公布遴聘及新聘資政27人國策顧問70人名單]]
+- **Opinion writer.** Beyond the 6 archived columns, the corpus carries his essay 「台灣生死的抉擇」 (2020-01-10, sourced from 自由時報), arguing against reliance on external guarantees for Taiwan's future through the Hong Kong and Xinjiang cases. → [[articles/taiwanjustice-net/2025/20250618184758_199287_5916b4e992bb6156|台灣生死的抉擇 ◎ 曾道雄]]
+- **Pedagogical lineage.** 楊子清 ([[people/yang-ziqing|楊子清]])'s 音樂短講 series 18–19 build on Zeng's own 年表 to introduce his teachers — notably the founding teachers of the UCLA Opera Workshops and Dr. Jan Popper — indicating a UCLA opera lineage behind his stage work.
 
 ## TJ Citations
 
