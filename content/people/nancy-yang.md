@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Nancy Yang (陳玲銖)
 
@@ -53,3 +53,4 @@ Nancy Yang graduated from the University of California, Berkeley, with a Master�
 <!-- deepen-x slice 10051143-4 recheck 2026-10-06: SKIP — fresh ZH+EN re-grep hit set unchanged (#194, #858, #1025, #25, works/sources index; all bibliographic records already cited in Role in the Community); no new absorbable corpus facts. -->
 <!-- deepen-x slice 10060900-3 (2026-10-07): fresh ZH+EN re-grep of works/articles/sources/events/topics — hit set unchanged (#194, #858, #1025, #25, works index; all bibliographic records already cited). Surname sweeps 楊金虎/楊冠傑 returned zero corpus hits. Verified-saturated; SKIP-content, nothing new absorbable, no conflicts. -->
 <!-- deepen-x slice 10071520-2 (2026-10-09): deepened — fresh ZH+EN+surname grep: 楊雪鳳 sweep returns whoswho1530 (S. F. Yang's own record, 2017-02-26) which cross-names Nancy as daughter on [[people/s-f-yang]]; added mother cross-link to Role in the Community. Hit set otherwise unchanged (#194, #858, #1025, #25, index) — rest verified-saturated. -->
+<!-- deepen-x slice 10090900-21 (2026-10-10): fresh ZH+EN re-grep (陳玲銖/Nancy Yang/玲銖) across works/articles/sources/events/topics — hit set unchanged (#194, #858, #1025, #25, works+sources index; all band-B bibliographic records already cited in Role in the Community). Surname sweeps 楊雪鳳/楊金虎/楊冠傑 returned only whoswho1530 + index (already absorbed 10-09). Verified-saturated; SKIP, nothing new absorbable, no conflicts. -->
