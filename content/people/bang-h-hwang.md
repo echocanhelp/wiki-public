@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Bang H. Hwang (黃邦雄)
 
@@ -50,6 +50,7 @@ Assistant Professor of Anatomy
 - Corpus re-check 2026-09-16 (deepen-x slice 09160600-10): re-grep hit set unchanged (own #834、our-journeys-389 歷任會長名錄 黃邦雄 1992–1993 已載、taiwanjustice-net「黃邦雄醫師」articles、works/index). SKIP — 無新可吸收事實；name-collision HOLD 不變。
 - Corpus re-check 2026-09-16 (deepen-x slice 09160700-6): re-grep hit set unchanged (own #834、our-journeys-389 歷任會長名錄＋FAPA 印州遊說群組名單 黃邦雄 已載、taiwanjustice-net「黃邦雄醫師」2021 醫療講座影片剪輯／HPV 講題記錄、works/index). SKIP — 無新可吸收事實；name-collision HOLD 不變。
 - Corpus re-check 2026-09-16 (deepen-x slice 09162138-2): re-grep 黃邦雄|Bang H. Hwang — hit set unchanged (own #834、our-journeys-389 歷任會長名錄 1992–1993＋FAPA 遊說群組名單已載、taiwanjustice-net「黃邦雄醫師」articles、works/index). SKIP — 無新可吸收事實；name-collision HOLD 不變。
+- Deepen-x re-grep 2026-10-09 (slice 10081009-7): the 2018-11-02 長青教室心得報告〈黃金年華膀胱的呼聲〉 was previously cited only through tag/category snapshot pages; the **primary article** is now linked — [[articles/taiwanjustice-net/2024/20240620174041_root_82de51fde6a7f531|TJJ primary article, 2024-06-20 snapshot]] — and the 2017-10-25 卵巢癌 講座 entry is now anchored to its **earliest** snapshots in-corpus, [[articles/taiwanjustice-net/2017/20171109043914_category_health_53cca1e9b9cf1ab4|2017-11-09 health category page]] and [[articles/taiwanjustice-net/2017/20171109045249_category_taiwaneseamerican_e46c9be7b004d32c|2017-11-09 台美人台加人 category page]] (both published 2017-11-03, i.e. ~8 years before the 2024/2025 tag snapshots already cited). A dedicated tag archive 「黃邦雄醫師」 is also confirmed in-corpus — [[articles/taiwanjustice-net/2021/20211205055502_tag_黃邦雄醫師_613dee623369ba04|TJJ tag 黃邦雄醫師, 2021-12-05 snapshot]] — listing 人類乳突病毒與疫苗的認識[影] (2021-10-09) under 焦點影音. Name-collision HOLD unchanged; no new biographical fact.
 
 ## Family
 
