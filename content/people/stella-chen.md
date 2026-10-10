@@ -88,3 +88,5 @@ B.S. Dept. of Adult & Continuing Education(社教系)
 <!-- TJJ-A10070800-4: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-4: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- DEEPEN-X10080951-20: deepened 2026-10-09 — fresh ZH+EN grep surfaced 3 previously-unabsorbed corpus records: Our Journeys #230 (1988-07-24 攔截驅離 / 1989 翻牆返鄉 / 「有路無厝」絕食設籍抗爭), TJJ 2018-04-28 台建組織記錄 (1991 召集人 / 偵字第一號內亂罪 / 21 天行使抵抗權), 中央社 2025 兩篇追思 (2025-06-11 清邁辭世享壽 75 / 洛杉磯十年 / 《1947台灣二二八革命》與王秋森合著). Added 1993-vs-1989 返台年份 HOLD. -->
+
+<!-- TJJ-A10090601-5: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-5 article 31b7081a5d37939f（化作千風－懷念台美人的人權鬥士、台獨先鋒王泰和 [追思會影音], 2022-07-12 刊）: subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

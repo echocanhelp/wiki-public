@@ -108,3 +108,5 @@ _Corpus-absorbed 2026-09-14 (slice 09141300-17); primary material from our own m
 <!-- TJJ-A10060800-9: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-9 article c4d413fd5efb8a9c (FAHR 41週年年會報導, 2017-11-29刊, 2017-12-20快照): 得獎人王泰和即本傳主（王廷宜／泰和）re-checked vs 正文 this attempt, real, no wrong/spurious links; 2017-12-09 獲獎演講條目 w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070800-4: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-4: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090601-5: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-5 article 31b7081a5d37939f（化作千風－懷念台美人的人權鬥士、台獨先鋒王泰和 [追思會影音], 2022-07-12 刊）: subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
