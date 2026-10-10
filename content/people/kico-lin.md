@@ -68,3 +68,5 @@ last_reviewed: 2026-10-01
 <!-- TJJ-A10060400-6: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-6 article 43b81b6b 世台基金會公益晚宴報導（世台副董事長與會名單確認見於正文）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-6: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-6 articles 43b81b6b 世台基金會公益晚宴報導（世台副董事長與會名單確認見於正文）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090501-5: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-5 article 43b81b6b 世台基金會公益晚宴報導（世台副董事長與會名單確認見於正文）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
