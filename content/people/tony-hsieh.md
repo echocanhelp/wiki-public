@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Tony Hsieh (謝家華)
 
@@ -59,3 +59,4 @@ last_reviewed: 2026-10-01
 - Corpus re-grep 2026-09-24 (slice 09230500-10): verified-saturated — hit set identical to 2026-09-23 log (whos261, ff288, my-stories-772, our-journeys-384, maggie-hsu-mochimag, works/index), all linked above; no new absorbable material.
 - Corpus re-grep 2026-09-25 (slice 09250800-3): verified-saturated — fresh ZH+EN grep returns the same six-file hit set, all linked above; UCSD 384 same-name entry still HOLD-disambiguated; no new absorbable material.
 - Corpus re-grep 2026-09-26 (slice 09260317-1): SKIP — hit set unchanged (whos261, ff288, my-stories-772, our-journeys-384, maggie-hsu-mochimag, works index), all linked above; UCSD 384 same-name entry still HOLD; no new absorbable material.
+- Corpus re-grep 2026-10-09 (slice 10081009-26): three new tag-archive records link back to this page — [[articles/taiwanjustice-net/2025/20250708120312_tag_zappos_ea237122875c075e|Tag: Zappos]], [[articles/taiwanjustice-net/2025/20250708205818_tag_砸錢養酒肉朋友_c954a7cb357b483a|Tag: 砸錢養酒肉朋友]], [[articles/taiwanjustice-net/2025/20250710043505_tag_台裔創辦人謝家華_8bc053743eb7982d|Tag: 台裔創辦人謝家華]] (taiwanjustice.net wayback tag pages, 2025-07 fetch) — index hubs for the same 2021-03-27 WSJ follow-up already cited above; no new biographical content, UCSD 384 same-name entry still HOLD.
