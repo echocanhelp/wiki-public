@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-09
 ---
 # Dr. Or. Hsieh (謝娥醫師)
 
@@ -70,3 +70,11 @@ _No filled family fields on the TAH profile._
 - Our own memoir corpus places her among the founding cohort of the Capital District (Albany) Taiwanese community. 陳仲欽's history of the association, [[works/taiwaneseamericanhistory-org/ourjourneys311||TAH #311《紐約首府區台灣同鄉會及台美文化促進會簡介》]], records: at the Christmas 1970 gathering of ten-plus Taiwanese families the 紐約州首府區台灣人聯誼會 (New York State Capital District Formosan Fellowship) was founded; in its 1971 roster of 20 family members and 5 single members, 謝娥醫生 was one of the singles, then **服務於州政府衛生部** (serving in the NY State government's health department). English text at [[works/taiwaneseamericanhistory-org/ourjourneys311-eng||TAH #311 (Eng)]].
 - The fellowship was reorganized as the Capital District Formosan Club (1971, chartered with NY State) and renamed **Taiwanese American Association of the Capital District** in 1984 — see [[organizations/taiwanese-american-association-of-capital-district-new-york||TAA-CDNY]]. Her documented presence in Albany by 1971 corroborates the profile's NY State Albany Regional Office directorship (1973–).
 - HOLD: profile table lists 1967– at Oregon State Hospital while the 1971 memoir already places her at the NY State health department in Albany; employment overlap 1967–1973 not auto-merged.
+
+### 朱真一＋陳永興 biographical sketch (corpus-absorbed, deepen 2026-10-09)
+
+- 朱真一 and 陳永興's profile of her, held in our corpus at [[articles/taiwanjustice-net/2025/20250808015559_台灣第一位外科女醫生謝娥-1949年離台移民美國有_a3608b31f14db754|TJJ 2025-08-08]] (earlier snapshot [[articles/taiwanjustice-net/2022/20220815035652_2022_07_26_台灣第一位外科女醫生謝娥-1949年離台移民美國有_9388a12b28bea71e|2022-08-15]]), adds the pre-1949 record the TAH tables lack: born 1918 in 台北萬華; 台北第三高女; Tokyo Women's Medical Specialist School, graduated 1940, then surgical training in Tokyo; returned to Taiwan 1943 to serve at 台北醫院 (or possibly the Red Cross Hospital — authors flag this as unresolved).
+- **Anti-Japanese imprisonment:** arrested May 1944 after being informed on for organizing student meetings against Japan, with dozens of others; held until after the war. Post-war she opened 康樂醫院 on 延平北路 and entered politics: 台北市參議員, organizer and first president of the 台灣省婦女會, and a women's-seat 制憲國民大會代表; elected 立法委員 in the early-1949 election.
+- **228:** asked to broadcast to the public during the incident, she later said she "廣播說錯了兩句話"; an angry crowd destroyed the furniture and instruments at her hospital, yet she still won the legislature seat the following year. The authors note her role in 228 is described very differently across sources.
+- **US career detail:** left Taiwan 1949 via Europe; entered Columbia's School of Public Health. 朱/陳 state she received the **MPH in 1952** and the **DrPH later** — HOLD: the page's timeline and [[works/taiwaneseamericanhistory-org/ff311|TAH #311]] record the doctorate itself as 1952; not auto-merged. 朱真一's own book [[works/taiwaneseamericanhistory-org/ourjourneys270|《早期留學歐美醫界人士》]] devotes two chapters to her. From the US physician registry: psychiatric practice, 1967 appointment at the Oregon state mental hospital, then the NY State Health Department; from 1973 her correspondence address is listed at the Albany regional office, and she reportedly rose to head a county health department. Claims that she was NY State Health Department's Public Health Bureau Chief, or deputy director of the Rockefeller Medical Center, were checked by 朱/陳 and could not be confirmed — treat as unconfirmed.
+- **Later years:** retired at 65 to Long Island; suffered a stroke in 1991 and returned to Taiwan by wheelchair, residing there until her death in 1995. The sketch calls her a pioneer of women's political participation in Taiwan and the trailblazer of the tens of thousands of Taiwanese Americans who followed.
