@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-10
 ---
 # Taiwanese American Outreach Association (台美人交流協會)
 
@@ -20,7 +20,7 @@ The Taiwanese American Outreach Association (TAOA) is a volunteer-driven, not-fo
 
 ## Role in the Community
 - Sponsors the DC-area 『台美親善大使』Taiwanese American Friendship Ambassador selection contest, documented in [[works/taiwaneseamericanhistory-org/dc-taiwanese-american-friendship-ambassador|30. 台美親善大使選拔賽]] and [[works/taiwaneseamericanhistory-org/136-e8-8f-af-e5-ba-9c-e3-80-8c-e5-8f-b0-e7-be-8e-e4-ba-ba-e4-ba-a4-e6-b5-81-e5-8|136. 華府台美親善大使選拔賽 / 2015-05]].
-- Per 謝榮春's memoir of the 2016 July 4 parade ([[works/taiwaneseamericanhistory-org/ourjourneys232|232. 華府台美人參加2016年度獨立紀念日遊行記]]), the parade permit was secured by 台美人交流協會, the entry was co-organized with 費郡舞蹈藝術學院 (founder 李清秀, daughter 蔡玉慧) with logistics support from 華府台灣同鄉會 (TAA-GWC); the Taiwanese American Independence Day Parade Committee handled actual operations, with supporters incl. Charles Kuo, Gilbert Wang, Beatrice Tsai (蔡碧珠), 王能祥 (fundraising), 黃興貫 ([[people/sam-huang|黃興貫]]), and 陳明賢 (truck transport).
+- Per 謝榮春's memoir of the 2016 July 4 parade ([[works/taiwaneseamericanhistory-org/ourjourneys232|232. 華府台美人參加2016年度獨立紀念日遊行記]]), the parade permit was secured by 台美人交流協會, the entry was co-organized with 費郡舞蹈藝術學院 (founder 李清秀, daughter 蔡玉慧) with logistics support from 華府台灣同鄉會 (TAA-GWC); the Taiwanese American Independence Day Parade Committee handled actual operations, with supporters incl. OCAC, TECRO, Charles Kuo, Gilbert Wang, Beatrice Tsai (蔡碧珠), 王能祥 (fundraising, with son Gilbert Wang), 黃興貫 ([[people/sam-huang|黃興貫]]) (logistics), 陳明賢 (truck transport), and 張懷德 (with 蔡碧珠 built and installed the monument hanging the Declaration of Independence and Constitution articles on the float); TAA-GWC president 劉美齡 and board members led late-stage volunteer recruitment.
 - HOLD: conflict in acronym — the 2016 memoir names the permit holder 台美人交流協會 as "Taiwanese American Interaction Association, TAIA", while the directory record says "Taiwanese American Outreach Association, TAOA".
 - The TAH directory entry itself is held in the vault as its own work record: [[works/taiwaneseamericanhistory-org/taiwanese-american-outreach-association|Taiwanese American Outreach Association 台美人交流協會]] (matches the TAOA naming above; does not resolve the HOLD).
 - Corpus re-grep 2026-09-21: hit set unchanged from the 2026-09-20 check (directory work record, the two 親善大使 selection records, 謝榮春's ourjourneys232) — all real hits already linked; page verified saturated, HOLD on the TAOA/TAIA acronym stands.
@@ -36,3 +36,4 @@ The Taiwanese American Outreach Association (TAOA) is a volunteer-driven, not-fo
  Slice deepen-x-slice-09231000-5 (2026-09-25): fresh re-grep (ZH+EN, works+articles) — identical hit set to prior checks; all hits already wikilinked/absorbed; nothing new absorbable. SKIP (saturated).
  Slice deepen-x-slice-09250317-4 (2026-09-25): fresh ZH+EN re-grep (works+articles) — identical hit set to prior checks; all hits already wikilinked/absorbed (TAIA string-match in taiwanjustice article is an archive_digest false positive). Nothing new absorbable. SKIP (saturated).
  Slice deepen-x-slice-09251500-1 (2026-09-26): fresh ZH+EN re-grep (works+articles) — identical hit set (directory record, 親善大使 x2, ourjourneys232, ourjourneys150, index); all already absorbed. HOLD on TAOA/TAIA acronym stands. SKIP (saturated).
+ Slice deepen-x-slice-10091316-20 (2026-10-10): fresh ZH+EN+acronym re-grep (台美人交流協會 / Outreach / Interaction / TAOA / TAIA across works+articles+sources+events+topics) — identical hit set (directory record, 親善大使 x2, ourjourneys232, ourjourneys150, index); all already wikilinked. Absorbed residual detail from ourjourneys232: OCAC/TECRO listed as supporters, 張懷德 (with 蔡碧珠) built the float monument, TAA-GWC president 劉美齡 led late-stage volunteer recruitment. No new corpus material. HOLD on TAOA/TAIA acronym stands.
