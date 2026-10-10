@@ -99,3 +99,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A100607004-d: verified 2026-10-09 — wave-2 link+deepen re-check of article 79b5f26fdef89d22 (「2023台美小姐選拔賽」盛大舉行·宋依珊奪后, TJJ 2023-08-06刊／20250614快照): subject link re-checked vs 正文 this attempt — 陳西園以台語老歌「望春風」編排佳麗出場開幕舞確認見於正文 — real, no wrong/spurious links; 2023-08-06 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090501-1: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-1 article 735744492226b90c (2016台美小姐選拔開訓記者會@大洛杉磯台灣會館, 2016-06-14 刊): subject link re-checked vs 正文 this attempt — 陳西園擔綱舞蹈指導（與 TAH 頁舞蹈老師身分相符）確認見於正文 — real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090701-24: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-24 article 79b5f26fdef89d22 (「2023台美小姐選拔賽」盛大舉行·宋依珊奪后, TJJ 2023-08-06刊／2025-06-14快照) read fresh this attempt: 陳西園以台語老歌「望春風」編排佳麗出場開幕舞確認見於正文; subject link re-checked, real, no wrong/spurious links; 2023-08-06 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
