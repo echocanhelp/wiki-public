@@ -75,6 +75,8 @@ last_reviewed: 2026-10-10
 - 2024-07-06 — Video interview with 中央社記者黃淑芳 alongside son Charles Yu: emigrated to the US around 1965, engineer; laments the language gap across three generations (grandfather Qing-era, father Japanese-era education, his own Mandarin schooling) and says not taking his sons back to Taiwan often enough was his regret; has spent 10+ years returning to Taiwan to coach SME upgrading ([[articles/taiwanjustice-net/2024/20240715085116_root_9c6973783db0011a|TJJ/CNA, 2024-07-06]]).
 - 2021-02-11 — 與其妻游玲娟獲兒子游朝凱以兩人命名設立創意寫作獎，表彰兩人創設 TACL LID 青年營、共同創辦南灣台美學校、成立 NATEA-SC 等服務台裔社區的貢獻（[[articles/taiwanjustice-net/2026/20260211084131_全國圖書獎得主游朝凱charles-yu為台美人青年創意作家_5b6cede86851b2ba|TJJ, 2021-02-14]]）。
 - 2020-11-19 — TJJ 報導其子游朝凱（Charles Yu）以《唐人街內部》獲美國國家圖書獎最佳小說獎，文中記游銘泉與妻林玲娟均來自台灣（[[articles/taiwanjustice-net/2020/20201205142348_2020_11_19_台美人之光-游朝凱_charles-yu_榮獲美國最高榮譽的國_040657477c37c6cf|TJJ, 2020-11-19]]）。
+- 2018-07-20 — 以「游銘泉（農工）」署名於國立台灣大學校友連署聲明，抗議南加州台大校友會邀請管中閔到校年會專題演講（連署名單逾兩百人，按學系排列）（[[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ, 2018-07-21]]）；與其台大農工（農業工程）學歷背景相符。
+- 2022 — Betty L. Yu and Jin C. Yu Creative Writing Prizes 徵件（第二年，開放台美人青年創意作家投稿）（[[works/taiwaneseamerican-org/now-accepting-submissions-2022-betty-l-yu-and-jin-c-yu-creative-writing-prizes-c|2022 徵件公告]]）。
 
 
 <!-- TJJ-A09260600-5: verified 2026-09-27 — wave-2 re-check of slice articles f4bc88a2 二二八77周年會館追思 / 5b6cede8 游朝凱寫作獎 / 64302d51 黃瑞芬訃聞 / d6441ab3 陳文成40週年: subject links re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
