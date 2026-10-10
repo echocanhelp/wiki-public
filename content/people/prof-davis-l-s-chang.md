@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Prof. Davis L. S. Chang (張祿生教授)
 
@@ -38,7 +38,7 @@ _Sourced from the TAH Who's Who profile above; no external material added._
 - Academic career: Assistant Professor at State Univ. of New York at Buffalo, later Professor in the Accounting Dept. at San Jose State Univ.
 - Practised public accounting: Senior Auditor at Coope & LyBrand Accounting Firm; Staff at Charles Metcaf Accounting Firm; Principal of Chang & Lin Accountancy Corp. from 1981.
 - President of the [[organizations/taiwanese-american-cpa-association-tacpa||Taiwanese American CPA Association (台美會計師協會)]], 2001–2002.
-- President of the Taiwanese Hakka Associations of America (全美台灣客家同鄉會); Vice President of the [[organizations/taiwanese-hakka-association-of-the-world||Taiwanese Hakka Associations of the World (世界台灣客家聯合會)]].
+- President of the Taiwanese Hakka Associations of America (全美台灣客家同鄉會) — recorded in [[works/taiwaneseamericanhistory-org/ourjourneys110|TAH #110]] as the association's **7th president** (Northern California); Vice President of the [[organizations/taiwanese-hakka-association-of-the-world||Taiwanese Hakka Associations of the World]].
 - President of the [[organizations/taiwanese-american-federation-of-n-california||TAFNC (北加州台灣同鄉會)]].
 
 ## Family
@@ -59,6 +59,17 @@ From the Our Journeys accounts already held in the vault:
 - 2003 — as chairman (會長), launched the 台灣會館 fundraising drive at the Spring Festival gala (raised $30,000; preparatory committee formed Feb 16, convened by 張信行), per [[works/taiwaneseamericanhistory-org/ourjourneys38|TAH #38]].
 - Early 2003 — encouraged the founding of the Northern California 台灣會館 and joined its preparatory committee alongside 陳德輝, 石清正, 陳光博, 施天墩, 林典謨, 李華林, 翁嘉盛, 邱俊邦 and 張信行; the 會館 opened in Fremont in March 2003, per [[works/taiwaneseamericanhistory-org/ourjourneys24|TAH #24]] and [[works/taiwaneseamericanhistory-org/ourjourneys53|TAH #53]].
 - A chairman-era record appears in [[works/taiwaneseamericanhistory-org/ourjourneys110|TAH #110 (張祿生會長)]].
+
+## THA-USA presidency and Hakka conferences (absorbed 2026-10-10, corpus-only)
+
+From 王興富, 話說 美洲台灣客家社團 ([[works/taiwaneseamericanhistory-org/ourjourneys110|TAH #110]]):
+
+- He is listed as the **7th president of the 全美台灣客家會 (THA-USA)**, based in Northern California — the first dated term record for that presidency on this page (the TAH Who's Who profile lists the office without a term number).
+- **Aug 2000** — co-hosted the 3rd Global Hakka Cultural Summer Conference (第三屆全球客家文化夏令會) in Toronto with 黄春發 (Chun-fa Huang), under the theme "Let's Work Together to Welcome a New Century for the Hakka People."
+
+From the Federation memoir ([[works/taiwaneseamericanhistory-org/ourjourneys38|TAH #38]]), the 2003 台灣會館 drive in more detail:
+
+- Early 2003 — as Federation president he advised the Center planners to start by **renting** a property funded by a $30,000 drive, sustained for two years while a permanent site was sought, and suggested announcing the Center's opening at the Federation's thirtieth-anniversary gala; his encouragement prompted the organizer to gather ten $2,500 pledges within a week. He then joined the Taiwanese American Center Preparation Committee alongside 陳德輝, 石清正, 陳光博, 施天墩, 林典謨, 李華林, 翁嘉盛, 邱俊邦 and 張信行 ([[people/dr-shinn-sheng-chang|Dr. Shinn-Sheng Chang]]). No conflict with the 2003年春節晚會募捐 record in [[works/taiwaneseamericanhistory-org/ourjourneys37|TAH #37]] ("會長張祿生發起台灣會館募捐") — both place him as the driving Federation officer that spring.
 
 ## Sources
 - [TAH #1873 encyclopedia: 1873. Prof. Davis L. S. Chang 張祿生教授](https://taiwaneseamericanhistory.org/whos-who-1873-davis-l-s-chang/)
