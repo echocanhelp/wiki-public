@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Maurice Hsu (許盛男醫師)
 
@@ -58,13 +58,14 @@ last_reviewed: 2026-09-25
 - 2016-11-16 — 於長青教室演講「台灣話的源流」，聽眾心得報告見台灣公義報「台美人台加人」分類存檔紀錄（2024-02-21 存檔）—— [[articles/taiwanjustice-net/2024/20240221121052_root_c6f9dbff48b39366|TJJ 台美人台加人存檔頁]]。
 - 2016-11-16 — 於長青教室演講「台灣話的源流」之心得報告另見台灣公義報「心得報告」標籤彙整頁（2024-07-19 存檔），與陳正義、陳東榮、胡宏仁等長青教室講席並列（[[articles/taiwanjustice-net/2024/20240719125457_root_c691e327b9133c1a|TJJ tag 心得報告, 2024-07-19 存檔]]）。
 - 2016-11-16 — 同一心得報告之長青教室標籤彙整頁存檔副本（2024-06-20 快照）—— [[articles/taiwanjustice-net/2024/20240620173328_root_2777c88877eee2c5|TJJ tag 長青教室, 2024-06-20 存檔]]。
+- 2017-11-06 — 「台灣人文藝術」人氣榜再列「長青教室心得報告—許盛男醫師講『台灣話的源流』 11/16/2016」條目（2024-02-21 存檔快照；此前僅於 Related Pages 以散文提及，現補條目連結）—— [[articles/taiwanjustice-net/2024/20240221122250_root_b443a0c486df9b57|TJJ 台灣人文藝術人氣榜, 2024-02-21 存檔]]。
 
 ## Role in the Community
 
 - 1981 — 台灣人公共事務協會（FAPA）紐約分會創會會長（first president）—— [[works/taiwaneseamericanhistory-org/174-dr-maurice-hsu-e8-a8-b1-e7-9b-9b-e7-94-b7-first-president-of-fapanew-york-ch|TAH 檔案 174, 1981]]。
 - 1982 — FAPA 紐澤西分會會長；分會涵蓋紐約市以西的北紐澤西地區—— [[works/taiwaneseamericanhistory-org/176-dr-maurice-hsu-e8-a8-b1-e7-9b-9b-e7-94-b7-president-of-fapanew-jersey-chapte|TAH 檔案 176, 1982]]、[[works/taiwaneseamericanhistory-org/308-maurice-hsu-e8-a8-b1-e7-9b-9b-e7-94-b7201502|TAH 檔案 308, 2015-02]]。
 - Our Journeys #356 記載：FAPA 紐澤西分會「由許盛男（創會會長）等人於 1981 年設立」—— [[works/taiwaneseamericanhistory-org/ourjourneys356-eng|Our Journeys #356 ENG]]。HOLD: conflict — TAH 檔案 176 標 1982 會長，Our Journeys #356 稱 1981 創會會長；兩說未併合。
-- 1981 — 台灣人同鄉會北紐澤西分會（TAA/North Jersey）創會會長（First President）—— [[works/taiwaneseamericanhistory-org/175-dr-maurice-hsu-e8-a8-b1-e7-9b-9b-e7-94-b7-first-president-of-taanorth-jersey|TAH 檔案 175, 1981]]；與 FAPA 北紐澤西分會 1981 創會（TAH 檔案 308、Our Journeys #356 中文版：「許盛男醫師(首屆會長)等人於1981年創立」）並列。
+- 1981 — 台灣人同鄉會北紐澤西分會（TAA/North Jersey）創會會長（First President）—— [[works/taiwaneseamericanhistory-org/175-dr-maurice-hsu-e8-a8-b1-e7-9b-9b-e7-94-b7-first-president-of-taanorth-jersey|TAH 檔案 175, 1981]]；與 FAPA 北紐澤西分會 1981 創會（TAH 檔案 308、[[works/taiwaneseamericanhistory-org/ourjourneys356|Our Journeys #356 ZH]]：「許盛男醫師(首屆會長)等人於1981年創立」）並列。
 - 倡組「紐約紐澤西台灣人社團聯合會」（Taiwanese Community Council, NY/NJ）並公推為創會會長。成員社團包括大紐約區台灣同鄉會、紐澤西台灣同鄉會、陳文成教授紀念基金會、台灣人権協會紐約分會、FAPA 紐約分會、台灣研究會。聯合會被視為台灣會館催生過程中的重要分水嶺—— [[works/taiwaneseamericanhistory-org/ourjourneys09|Our Journeys #09（回忆紐約台灣會館）]]、[[works/taiwaneseamericanhistory-org/ourjourneys9-eng|Our Journeys #09 ENG]]。
 
 ## Related Pages
@@ -88,3 +89,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10071300-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071300-1 article c6f9dbff48b39366（台美人台加人 popular 分類頁, 2024-02-21快照）read fresh this attempt: subject link 許盛男 re-checked vs 正文 —「長青教室心得報告—許盛男醫師講『台灣話的源流』 11/16/2016」條目確認見於正文, real, no wrong/spurious links; 2016-11-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10071400-1: verified 2026-10-09 — wave-2 link+deepen re-check of article 2777c88877eee2c5 (Tag 長青教室 標籤彙整頁, 2024-06-20快照): subject link 許盛男 re-checked vs 正文 this attempt (「長青教室心得報告—許盛男醫師講『台灣話的源流』」條目確認見於正文), real, no wrong/spurious links; 2016-11-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- deepen-x slice 10080958-16, 2026-10-09: fresh grep 許盛男|Maurice Hsu across works/articles/sources/events/topics = 16 hits. New links absorbed: TJJ 台灣人文藝術 popular snapshot b443a0c486df9b57 (2017-11-06 榜上條目, previously prose-only) wikilinked into From the record; OJ#356 ZH slug (ourjourneys356) wikilinked in Role. All other hits (TAH 檔案 174/175/176/308, OJ#09/#09ENG/#356ENG, TJJ tag pages, sources/index) already linked. FAPA 創會 1981 vs 1982 冲突仍 HOLD. -->
