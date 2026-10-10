@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-10-10
 ---
 # Prof. Ming Chiang Lin (林明璋教授)
 
@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - slice 09170500-3 recheck (2026-09-17): hit set unchanged (#124, #1416, ourjourneys-138, winners30, conrad award page, works index), all already absorbed and linked; HOLD (林明璋 vs 林明彰) maintained. SKIP-no-new-material.
 - slice 09180131-2 recheck (2026-09-18): hit set unchanged (#124, #1416, ourjourneys-138, winners30, conrad award page, works index), all already absorbed and linked; HOLD (林明璋 vs 林明彰) maintained. SKIP-no-new-material.
 - slice 09181500-1 recheck (2026-09-20): hit set unchanged (#124, #1416, ourjourneys-138, winners30, conrad award page, works index), all already absorbed and linked; HOLD (林明璋 vs 林明彰) maintained. SKIP-no-new-material.
+- slice 10090500-29 recheck (2026-10-10): full 5-dir grep (林明璋/林明彰/Ming Chiang Lin) — hit set unchanged. Broad 明璋/明彰 sweep found only false positives: 黃明彰 in ourjourneys253 (1990 Census committee member, different person) and 利明璋 (Bill Bishop) in taiwanjustice articles. No new community material; HOLD maintained. SKIP-verified-saturated.
