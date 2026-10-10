@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Ling Ling Chang (張玲玲)
 
@@ -41,6 +41,8 @@ last_reviewed: 2026-09-25
 - 2018-06-25 — sworn in for California's 29th Senate District, the first woman Taiwanese American state senator in California history (see From the record).
 - 2018-07-20 — featured in the TAH story corpus "Ling Ling Chang in California" ([[works/taiwaneseamericanhistory-org/ling-ling-chang-in-california|Ling Ling Chang 張齡玲 in California]]) — HOLD: that record's title spells 張齡玲 vs 張玲玲 elsewhere; name-spelling conflict, not auto-merged.
 - 2020-06-27 — re-featured in the corpus as "Ling Ling Chang 張玲玲 in S. CA" ([[works/taiwaneseamericanhistory-org/ling-ling-chang|Ling Ling Chang 張玲玲 in S. CA]]).
+- 2018-06-25 (full-text record) — the TJJ English Pages record carrying the full article text (not just the headline snapshots cited above) describes the swearing-in in detail: Chang won the seat as top choice of a tri-county district in a mid-term recall election driven by objections to the new gas tax, and California Chief Justice Cantil-Sakauye administered the oath; the record frames her as "the first Taiwan-born Female Senator in California History" ([[articles/taiwanjustice-net/2024/20240221124850_root_aae5718d8361a9f9|TJJ full-text record, 2024-02-21 snapshot]]).
+- 2025-03-17 — TJJ tag archive 「Ling Ling Chang」 captured with "No posts to display" — the tag had been emptied by that snapshot, so tag-page coverage of her is only via the 2024 category snapshots; no new headline facts there ([[articles/taiwanjustice-net/2025/20250317180642_tag_ling-ling-chang_22829de57f4f372c|TJJ tag snapshot, 2025-03-17]]).
 
 _Corpus re-grep 2026-09-22: same hits (Who's Who #1016, both in-CA/CA work records, TJJ English-Pages snapshots incl. 2023-12-08 tag page); 張齡玲 vs 張玲玲 HOLD stands, nothing new._
 
@@ -55,6 +57,7 @@ _Corpus re-grep 2026-09-22: same hits (Who's Who #1016, both in-CA/CA work recor
 _Corpus re-grep 2026-09-23: same hits (whoswho1016, both in-CA work records, TJJ snapshots); 張齡玲 vs 張玲玲 HOLD stands, nothing new._
 _Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230600-29): hit-set identical (whoswho1016, ling-ling-chang, ling-ling-chang-in-california, works index, TJJ snapshots incl. 2023-12-08) — verified saturated; 張齡玲 vs 張玲玲 HOLD unchanged, nothing new absorbable._
 _Corpus re-grep 2026-09-25 (DEEPEN-X slice 09240600-1): fresh ZH+EN grep of works+articles returned the same hit set (whoswho1016, both in-CA work records, works index, TJJ snapshots + MANIFEST) — SKIP: saturated, 張齡玲 vs 張玲玲 HOLD stands, nothing new absorbable._
+_Corpus re-grep 2026-10-09 (DEEPEN-X slice 10081009-10): fresh ZH+EN grep (張玲玲/張齡玲/Ling Ling Chang/玲玲) across works+articles+sources+events+topics surfaced 2 previously-unabsorbed records now linked into Role in the Community: the full-text TJJ swearing-in article (aae5718d, 2024-02-21 snapshot — recall-election/gas-tax context + Chief Justice oath detail) and the 2025-03-17 empty tag-page snapshot (22829de5). Other new hits triaged as noise: Pew work hits are Ling Ling Juang/Ling-Ling Lee (different persons); 2018 管中閔 signatory list is 楊玲玲(園藝) (false positive); 2024 category-root pages (9cb85cda/3c79bf46/980be67c/4774e3f0/73570645) are directory listings of the same already-cited headline. 張齡玲 vs 張玲玲 HOLD unchanged._
 
 ## From the record
 
