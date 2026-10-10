@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # Chien-Ting Yeh (葉介庭)
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - 與 TaiwaneseAmerican.org 總編輯 Leona 等自 2019 年起合作設計台美學生社團討論式教材，促成 OFTaiwan Award 補助（[[works/taiwaneseamerican-org/introducing-the-oftaiwan-award-new-funding-for-taiwanese-american-student-progra|Introducing the OFTaiwan Award]]）。
 - 在 Clubhouse 對談中從後殖民框架論述 Taiwan/Wakanda 類比（[[works/taiwaneseamerican-org/on-clubhouse-e8-87-bakanda-taiwans-wakanda-fantasies|On Clubhouse — Wakanda]]）。
 - Formosa Foundation（台美人社區贊助基金會）Ambassador Program 校友（AP Class of 2005）、曾任該計畫 coordinator；2016 年與多位前大使共同創辦 Global Taiwan Institute（公共政策 incubator）——此段更早的社群源頭見於基金會回顧文（[[works/taiwaneseamerican-org/farewell-formosa-foundation|Farewell, Formosa Foundation]]），補充上述 GTI 共同創辦人紀錄的前因。
+- Corpus re-grep 2026-10-10 (slice 10091400-8): 新增兩條社群紀錄——(a) 228 事件台美人觀點線上論壇（2019-10-09）作者欄記其為「1.5 generation Taiwanese American」、The Notebook TW 部落格創辦人、曾任 ITASA（台灣島州協會）全國董事會成員（[[works/taiwaneseamerican-org/a-personal-discussion-panel-in-sf-on-the-events-of-228-taiwanese-american-perspe|228 論壇專輯]]）；該文傳記並述其於台灣與紐約成長、 fluent 台語/國語/日語/英語、文字刊於 Foreign Policy、Apple Daily、《商業周刊》與英國 Glass 雜誌、長住矽谷。(b) 為台美人組織翻譯 BLM 相關圖文（「Justice for Breonna Taylor」「How to Refocus the Conversation」 infographic 譯者）（[[works/taiwaneseamerican-org/chinese-english-understanding-black-lives-matter-chinese-english-resources|Chinese-English Understanding BLM]]）。ITASA 董事會成員身分與上列 Harvard Asia Law Society 聯席主席並列，無日期衝突；GTI 副董事長頭銜與傳記一致。
 - 曾任「Write in Taiwanese Census Campaign」（台語書寫人口調查）媒體總監（Media Director），見於台美人團體對皮尤研究中心報告的聲明（[[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew 調查聲明]]）；拼寫作 Chieh-Ting Yeh。
 - 本人傳記條目：[[works/taiwaneseamericanhistory-org/425-chien-ting-yeh-e8-91-89-e4-bb-8b-e5-ba-ad-201505|425. Chien-Ting Yeh 葉介庭 / 2015/05]]。
 - Corpus re-grep 2026-09-24 (slice 09230500-19): 新增吸收 Formosa Foundation 大使計畫與台語書寫人口普查媒體總監兩條社群紀錄（上列）；其餘命中仍為本傳條目、works index 及已掛鏈的 OFTaiwan/Clubhouse/TJJ 檔案。無日期衝突新增。
