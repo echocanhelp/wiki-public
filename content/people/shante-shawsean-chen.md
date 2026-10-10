@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Shante Shaw Sean Chen (陳善哲)
 
@@ -38,9 +38,10 @@ Industrial-design trained artist (Carnegie-Mellon B.S. 1990) working in Washingt
 - **Mother:** [[people/enchin-shaw-chen||蕭永真]]
 
 ## Role in the Community
-*(revisit pass 2026-09-14 — corpus-link only)*
 
-- Corpus scan (works/ + articles/) found a single mention: his own TAH artist encyclopedia entry, held in the vault as a **bibliographic record only** ("Full text stays in the vault") — [[works/taiwaneseamericanhistory-org/artist61-shante-shawsean-chen|TAH #61 陳善哲 Shante Shaw(Sean) Chen]]. No memoir or community narrative in the corpus to absorb — **SKIP-with-reason**: the only absorbable action was linking his own work page; TAH #209/#870 have no corresponding work pages in the vault.
+- **TAH encyclopedia record (three entries, all bibliographic records in the vault):** [[works/taiwaneseamericanhistory-org/artist61-shante-shawsean-chen|TAH #61 陳善哲 Shante Shaw(Sean) Chen]] (2016-03-25), [[works/taiwaneseamericanhistory-org/whos-who-870-shante-shaw-chen|TAH #870 Shante Shaw(Sean) Chen 陳善哲]] (2016-03-06), and [[works/taiwaneseamericanhistory-org/52904|TAH #209 Shante Shaw(Sean) Chen 陳善哲]] (2019-01-02). An earlier revisit pass recorded #209/#870 as having no vault work pages — that was incorrect; both pages exist and are linked here.
+- **Family in the movement record:** his father 陳哲仁 (Dr. Donald C.J. Chen, ENT physician in the Washington D.C. area) is documented as the founding president of the Washington D.C. chapter of 全美會 (World Association of Formosan Associations) in the memoir record [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys #76]], alongside other D.C.-area Taiwanese physicians, and appears in the family photo album [[works/taiwaneseamericanhistory-org/photo-albums-activities-111|TAH #111 Family Life of Dr. Donald C.J. Chen and Mrs. Enchin Chen 陳哲仁醫師與蕭永真女士的家庭生活照]] with his mother [[people/enchin-shaw-chen|蕭永真 (Enchin Shaw Chen)]] — whose own entry is [[works/taiwaneseamericanhistory-org/whos-who-473-enchin-shaw-chen|TAH #473]]. His D.C. upbringing is therefore rooted in the first-generation Taiwanese professional community there.
+- No first-person memoir or bylined community narrative by/under Shante Chen himself was found in the corpus (works/articles/events/topics) beyond the three TAH encyclopedia records above.
 
 
 ## Sources
