@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Chia-Chun Chung (鍾佳君)
 
@@ -80,5 +80,7 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10060400-15: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-15 articles (b5e568ec43e787f1 《好國好民》美國巡迴放映座談會, 2011-10-15 / c76f11ecd2598ecb 2017台美文藝出版·台美人筆會發表會, 2017-06-11 / 52a71221d3029866 台文通訊30週年慶祝會ONLINE, 2021-06-29 / fa7c957f552d76e9 總統府公布資政27人國策顧問70人名單, 2022-09-02): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-8: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-8 article 1f001897255f71a7 (《好國好民》全美放映座談會公告, 2011-11-08): subject link re-checked vs 正文（鍾佳君以本片英文翻譯身分主持全美放映座談會確認見於正文）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10090500-13: verified 2026-10-10 — fresh ZH+EN+surname(佳君) re-grep across works/articles/sources/events/topics; hit set unchanged (whos-who-1721, Pew TA statement, TA youths' self-determination statement, 2 TJJ Dear Taiwan tour notices, 228 memory interview) — all already linked above. The whos1290 胡佳君 (Chia Chun Jessica Hu) hit is a surname-only false positive, different person. No memoir/club material beyond FAPA Mass presidency — verified-saturated, 0 new links. -->
 
 <!-- TJJ-A10070700-15: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-15 article b5e568ec43e787f1 (《好國好民》Dear Taiwan美國巡迴放映座談會, 2011-10-15): 鍾佳君以本片英文翻譯身分與張皓博主持全美放映座談會 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
