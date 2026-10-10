@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-10-09
 ---
 # Chungchin Chen (陳仲欽)
 
@@ -42,6 +42,12 @@ Accomplishment
 - 第一位得到都市計畫學系碩士的台美人（UC Berkeley，1965/06）— see [[works/taiwaneseamericanhistory-org/241-e9-99-b3-e4-bb-b2-e6-ac-bd-e7-ac-ac-e4-b8-80-e4-bd-8d-e5-be-97-e5-88-b0-e9-8|TAH #241]]
 - 主導興建全國首座跨多縣市青少年安全拘留中心 — see [[works/taiwaneseamericanhistory-org/196-e9-99-b3-e4-bb-b2-e6-ac-bd-built-the-first-in-the-nation-a-multi-county-juve|TAH #196]]
 - 任 Capital District Regional Planning Commission（Albany, NY）執行長 33 年（1970–2003）；僑務委員會顧問 — see [[organizations/overseas-community-affairs-council|OCAC 僑務委員會]]
+
+## Role in the Community
+- **Capital District Formosan fellowship — founding member and president** — From the 1970-12 Christmas-eve dinner that founded the "NY State Capital District Formosan Fellowship" (later 首府區台灣同鄉會 / TAA of the Capital District), he helped lead the association through its first decades; as 同鄉會會長 he co-hosted the 1983-08-22 welcome banquet for Lee Teng-hui's first US-visit stop at RPI, Albany (~200 attendees, 陳仲欽致詞歡迎) ([[works/taiwaneseamericanhistory-org/ourjourneys152|OJ #152 柏克萊加大的「台灣寮」]], [[works/taiwaneseamericanhistory-org/our-journeys-375|OJ #375]], [[works/taiwaneseamericanhistory-org/our-journeys-391|OJ #391]]); he later authored the association's own history, 《紐約首府區台灣同鄉會及台美文化促進會簡介》 (2017/09) ([[works/taiwaneseamericanhistory-org/ourjourneys311|OJ #311]]; [[organizations/taiwanese-american-association-of-capital-district-new-york|TAA of Capital District NY]])
+- **Taiwanese American Cultural Society of the Capital District** — As a board member of the "New York Association of Nonprofits" he recommended the lawyer who drafted the Certificate of Incorporation and by-laws that won the Society its 501(c)(3) status (2003, 36 founding donors at $200 each); elected Vice President at its first general assembly, 2004-08 ([[organizations/taiwanese-american-cultural-society-of-the-capital-district|TA Cultural Society of the Capital District]])
+- **Civic participation** — Attended the 2004 Democratic National Convention ([[works/taiwaneseamericanhistory-org/mystories305|OJ #305]]); witnessed the 2016-06 520 inauguration ceremony, writing 「見證台灣人完全當家作主」 ([[works/taiwaneseamericanhistory-org/mystories447|OJ #447]]); documented the Capital District Festival of Nations, Albany ([[works/taiwaneseamericanhistory-org/ourjourneys151|OJ #151]])
+- **Memoirist / TAH contributor** — His own writings: 八十自述—哈得遜河畔隨筆 (2015/05, autobiography), 公職三十八年心路歷程 (2020/08), 半工半讀 (2015/08), 把握機會更上一層樓 (2015/07) ([[works/taiwaneseamericanhistory-org/publications762|#762]], [[works/taiwaneseamericanhistory-org/my-stories-735|#735]], [[works/taiwaneseamericanhistory-org/mystories315|#315]], [[works/taiwaneseamericanhistory-org/mystories303|#303]]); his personal papers are archived at TAH as "Collection of Mr. ChungChin Chen" ([[works/taiwaneseamericanhistory-org/collection-of-mr-chungchin-chen|#4]])
 
 ## Timeline
 - **1935** — Born in Hsinchu, Taiwan (台灣新竹)
