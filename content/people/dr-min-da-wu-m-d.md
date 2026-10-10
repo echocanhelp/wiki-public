@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-10
 ---
 # Dr. Min-Da Wu M.D. (吳明達)
 
@@ -42,6 +42,9 @@ last_reviewed: 2026-09-30
 - 再核（deepen-x slice 09230900-6, 2026-09-24）：fresh grep 僅既存 158 書目頁、TJJ 二文（均已著錄）、index；SKIP — 無新增可吸收事實，真理大學同名人 HOLD 維持。
 - 再核（deepen-x slice 09240900-4, 2026-09-25）：fresh grep 命中集不變（158 書目頁、TJJ 2021-01-12 張良澤一文、TJJ/CNA 2021-03-05 吳修銘一文、index）。張良澤回忆原文細節已在庫：吳明達任內與繼任校長林文昌均親赴麻豆巡視台文館，2018 陳奇銘接任後預算遭砍光 — 惟該语境仍屬真理大學校長同名人，與本页 TAH 醫師／教授档案的 HOLD 冲突旗標維持，不并档。SKIP — 無新增可吸收事實。
 - 再核（deepen-x slice 09251400-2, 2026-09-26）：fresh grep 吳明達|Min-Da Wu 命中集不變（158 書目頁、TJJ 二文、index）；真理大學同名人 HOLD 維持 — SKIP，無新增可吸收事實。
+- 台僑社群敘事（經其子吳修銘語境轉述）：2021-07-18 台灣會館 HELLO TAIWAN Rock！活動後，立委陳柏惟公開提及吳修銘加入白宮國家經濟委員會時，強調其父「過去即是黑名單的一員，還曾發行地下刊物『望春風』」——此為社群對本頁 subject 社會運動背景的主要口述紀錄（[[articles/taiwanjustice-net/2021/20210724183958_2021_07_18_ait處長孫曉雅口罩亮眼_陳柏惟曝台僑暖心故事_d0d03097ac759900|AIT處長孫曉雅口罩亮點，陳柏惟曝台僑暖心故事（2021-07-18）]]）；惟黑名單／『望春風』細節屬回憶性轉述，與 TAH press-kit 式履歷（台大醫學系、威斯康辛／柏克萊／多倫多任教）詳略不同，維持 HOLD 不併檔、不補日期。
+- 其子吳修銘的兩筆 TAH 書目記錄本頁 subject 的父親身分：朱真一〈台獨父親身教 台裔吳修銘競選紐約副州長〉（2015/03 作、2015-05-27 刊，以「身教」框架置於台獨運動世代敘事）與白宮宣布吳修銘任國家經濟會議特助（2021-03-08）（[[works/taiwaneseamericanhistory-org/mystories274|274. 台獨父親身教／朱真一／2015]]；[[works/taiwaneseamericanhistory-org/my-stories-788|788. Tim Wu 任 NEC 特助／2021-03]]）。
+- 再核（deepen-x slice 10090700-28, 2026-10-10）：全語料庫 fresh grep 於既存命中集（158 書目頁、TJJ 二文、index）外新增 tim-wu 父子互鏈頁與 274／788 書目頁；吸收上列社群敘事與書目連結各 1 筆，真理大學同名人 HOLD 與黑名單／望春風 HOLD 均維持。
 
 ## Sources
 - [TAH #154 encyclopedia: 154. Dr. Min-Da Wu 吳明達 M.D.](https://taiwaneseamericanhistory.org/158-dr-min-da-wu-%e5%90%b3%e6%98%8e%e9%81%94-m-d/)
