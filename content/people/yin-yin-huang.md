@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-10
 ---
 # Yin Yin Huang (黄煐媖)
 
@@ -64,3 +64,9 @@ Yin Yin Huang, pianist, born in Taiwan, began her piano lessons at the age of 8 
 - The vault holds two TAH encyclopedia records for her: [[works/taiwaneseamericanhistory-org/whos-who-433-yin-yin-huang||Who's Who #433]] and the earlier [[works/taiwaneseamericanhistory-org/202-yin-yin-huang-e9-bb-84-e7-85-90-e5-aa-96-pianist-201505||#202 pianist profile (2015/05)]]; both were harvested under [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]] via [[organizations/tah-foundation||TAH Foundation]].
 - Her pre-emigration post in the cited tables — Assistant Professor at 臺南神學院 — sits in the [[organizations/presbyterian-church-in-taiwan||PCT]] school system (see Network).
 - Her U.S. base since 2000 is [[organizations/acevedo-music-and-art-education-foundation-inc||Acevedo Music & Art Education Foundation (惜台社)]], which she has led as President / Artistic Director since 2005 alongside her CSULA Department of Music faculty post; her sons (Elliot and Evan Jung Acevedo) are listed in the same record.
+
+## Role in the Community (corpus pass 2026-10-10)
+- **2017** — As head of the Acevedo Music & Art Education Foundation, her organization staged the **Two Cranes International Music Festival (雙鶴國際音樂節)** in Pasadena, CA (8/3–15/2017), documented in [[works/taiwaneseamericanhistory-org/concerts104||TAH #104 concert record]].
+- **2024-02-28** — Performed at the 228 77th-anniversary memorial concert (「台灣介心靈日」, 17th edition, TUF/優設), soloing on piano in 《龍舞》 and premiering 《心路歷程》 and 《毫無畏懼》 with the 和諧三重奏 (Harmony Trio), per taiwanjustice-net coverage of the event ([[events/ev-d6e9be681e||紀念音樂會]]).
+- HOLD: the trio's pianist is written 黃煐煐 in the article text vs 黃煐媖 for the solo credit — likely a typo for the same person, unconfirmed; not auto-merged.
+- The vault also holds a separate 2018 story record, [[works/taiwaneseamericanhistory-org/65-yin-yin-huang||TAH #65 Yin Yin Huang 黃煐媖]] (traditional 黃), not previously linked from this page.
