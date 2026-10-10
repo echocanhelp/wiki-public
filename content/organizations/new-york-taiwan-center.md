@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-10-09
 ---
 # New York Taiwan Center (紐約台灣會館)
 
@@ -26,7 +26,11 @@ New York Taiwan Center (紐約台灣會館) is a non-profit 501(c)(3) organizati
 - The Center's own community organ is held in the corpus: [[works/taiwaneseamericanhistory-org/newslettertaiwan-centernew-york|紐約台灣會館通訊 / Taiwanese American Community Newsletter]] (2015-07-28).
 - The movement memoir record includes institutional histories of the Center: Chia-lung Cheng's "紐約台灣會館: 在困境中更新 / Rebirth in the Midst of Hardship" (band A, 2014-09-05), [[works/taiwaneseamericanhistory-org/ourjourneys27-eng|Our Journeys 27]], and the 社團篇 excerpt "紐約台灣會館" from 咱要出頭天, [[works/taiwaneseamericanhistory-org/ourjourneys181|Our Journeys 181]] (2015-10-19), which names 劉蘇多惠 and 賴清德 in connection with the Center. See also the directory record [[works/taiwaneseamericanhistory-org/new-york-taiwan-center|New York Taiwan Center 紐約台灣會館]].
 - A further corpus chronicle of the Center is held: [[works/taiwaneseamericanhistory-org/35-taiwan-center-new-york-e7-b4-90-e7-b4-84-e5-8f-b0-e7-81-a3-e6-9c-83-e9-a4-a8-|35. Taiwan Center / New York — The First Taiwanese American Center in New York / 1986]], and the 26th-anniversary special issue [[works/taiwaneseamericanhistory-org/382-e7-b4-90-e7-b4-84-e5-8f-b0-e7-81-a3-e6-9c-83-e9-a4-a826-e5-91-a8-e5-b9-b4-e7|382. 台灣會館26周年紀念特刊 (2012)]]. HOLD: the 1986 title date is a third origin-era claim alongside the directory's 1987 and the 1996 retrospective's ~1983; never auto-merged.
-- A second senior-center record: [[works/taiwaneseamericanhistory-org/ourjourneys316|316. 紐約台灣會館老人中心 / 林炎誠, 2017-10]].
+- A second senior-center record: [[works/taiwaneseamericanhistory-org/ourjourneys316|316. 紐約台灣會館老人中心 / 林炎誠, 2017-10]], alongside the institutional sketch [[works/taiwaneseamericanhistory-org/history-of-taiwanese-american-senior-center|19. Brief History of Taiwanese American Senior Center 紐約台灣會館老人中心簡介]] (2017).
+- The Center's own early history is told from the inside by Chao-ping Huang: [[works/taiwaneseamericanhistory-org/ourjourneys304-eng|304. 心心念念一間厝 紐約台灣會館起家 / Longing for a Place — Early Years of New York Taiwan Center]] (band A, 2017) — a first-person account of the founding generation's "longing for a place" that complements the retrospective fundraising narrative above.
+- Anniversary chronicles continue through the corpus: [[works/taiwaneseamericanhistory-org/381-e7-b4-90-e7-b4-84-e5-8f-b0-e7-81-a3-e6-9c-83-e9-a4-a82000-e5-b9-b4-e6-84-9f-|381. 台灣會館2000年感恩暨整修特刊]] (2000-10), [[works/taiwaneseamericanhistory-org/375-e5-8f-b0-e7-81-a3-e6-9c-83-e9-a4-a825-e5-91-a8-e5-b9-b4-e7-b4-80-e5-bf-b5-e7|375. 台灣會館25周年紀念特刊]] (2011), and [[works/taiwaneseamericanhistory-org/publications1047|1047. Taiwan Center's Special Commemorative 30th Anniversary Edition 台灣會館30週年紀念特刊]] (2016-11). A historical photo album is held as [[works/taiwaneseamericanhistory-org/photo-albums-historical-21|21. Taiwan Center in New York / 天下第一館 — 紐約台灣會館]] (2016).
+- The Center's performing-arts record documents its fundraising function directly: [[works/taiwaneseamericanhistory-org/concerts112|112. 紐約台灣會館鋼琴募款演奏會]], three piano benefit concerts at the Flushing center on 1999-05-30, 1999-06-02 and 1999-06-19, and [[works/taiwaneseamericanhistory-org/concerts96|96. 張清郎、黃醒民台灣歌曲演唱會]] (Flushing, 1998-04-11).
+- The Center also served as a venue for the wider movement's commemorative calendar: the 1993-06-22 memorial gathering for the tenth anniversary of 陳文成 was held there, remembered in the 美東文成杯 tennis memoir [[works/taiwaneseamericanhistory-org/ourjourneys329|Our Journeys 329]].
 - Co-hosts 台灣海外留學生新年聚餐晚會 with the 宜蘭同鄉會 ([[works/taiwaneseamericanhistory-org/lunar-new-year-dinner-to-tw-students|75. 留學生新年聚餐, 2017-02-02]]), and hosts club-level events such as the 中秋節乒乓球友誼賽 ([[works/taiwaneseamericanhistory-org/nytc-table-tennis-2017|中秋乒乓球友誼賽, 2017-10]]).
 - 蔡明峰, founder of 台灣海外網, is remembered in the 紐約筆會 decade memoir as 紐約台灣會館前董事長 who repeatedly praised the pen association ([[works/taiwaneseamericanhistory-org/ourjourneys12|Our Journeys 12, 紐約筆會十年]]).
 
