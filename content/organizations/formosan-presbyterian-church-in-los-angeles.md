@@ -12,7 +12,7 @@ tags:
   - diaspora-ministry
   - immigrant-church
 verification_status: published
-last_reviewed: 2026-07-15
+last_reviewed: 2026-10-09
 ---
 # Formosan Presbyterian Church in Los Angeles (FPCLA)
 
@@ -217,6 +217,27 @@ The church served as a space where Formosan immigrants could negotiate their ide
 - **Between Christians and non-Christians:** Half of church attendees were non-Christians searching for fellowship and the enlightenment of Christian faith
 - **Between integration and differentiation:** The church affirmed that "without differentiation, there is no integration" — cultural integrity required both maintaining identity and engaging with the broader society
 - **Between the personal and the political:** The church provided a space where the political tensions of the independence movement could be held alongside spiritual formation
+
+## Later History and Community Record
+
+### Acceptance as a Session (1973)
+
+The church's own memoir material records that on **May 20, 1973** FPCLA became the first Taiwanese church in the United States accepted as a session (堂會) by the PC(USA) — [[works/taiwaneseamericanhistory-org/ff295|TAH record 295]]. This is a later organizational stage than the Presbytery's September 28, 1971 approval of the proposed organization documented above.
+
+### First-Elder Testimony (Prof. Sze-Ya Yeh)
+
+Co-founder [[people/prof-sze-ya-yeh||Prof. Sze-Ya Yeh (葉思雅教授)]] recalled that after moving to Los Angeles in 1969 and organizing the Taiwanese-language congregation with fellow Formosan Christians, the group chose to join the American Presbyterian Church "because their organization is solid and their thought is open" (組織堅固，思想開通). When FPCLA was accepted as a formal member by the **Pacific Presbytery (太平洋中會)**, Yeh was elected its **first ruling elder (第一任長老)** — [[works/taiwaneseamericanhistory-org/ourjourneys61|TAH record 61, "創設 TARSA 的心路歷程"]].
+- HOLD: presbytery name — the founding account above names the Presbytery of Los Angeles Southwest (1971 approval), while Yeh's memoir names the Pacific Presbytery (formal membership). Presbytery reorganization may reconcile these; not auto-merged.
+
+### Evergreen Fellowship (長青會) and the林天民 Lectureship
+
+From the mid-2000s, returnee members formed **長青會 (Evergreen Fellowship)**, a fellowship of retreat (退修會) alumni that met weekly Thursday with open, non-sectarian study themes. [[people/prof-tian-min-lin||Prof. Tian-Min Lin (林天民教授)]] lectured monthly on the world's five religions, drawing large crowds — and, per Yeh's memoir, a 2009 session ruling declaring his faith "heterodox" that led the fellowship's officers to resign in protest. See [[works/taiwaneseamericanhistory-org/ourjourneys61|record 61]] and [[works/taiwaneseamericanhistory-org/2-formosan-presbyterian-church-in-los-angeles|TAH record 2 (退修會)]]; also [[works/taiwaneseamericanhistory-org/presbyterian-church-la|presbyterian-church-la]].
+
+### Music and Anniversary Record
+
+- **January 21, 1995** — the **Joint Formosan Presbyterian Church Choir (福爾摩沙長老教會聯合合唱團)** performed Mendelssohn's *Saint Paul* (孟德爾頌 神劇-聖保羅) in Los Angeles, evidence of the church-music network FPCLA seeded across Southern California — [[works/taiwaneseamericanhistory-org/concerts71|TAH record 71]].
+- **2020** — the 50th-anniversary history *The Path of Grace* was published for FPCLA's golden jubilee — [[works/taiwaneseamericanhistory-org/ourjourneys231|TAH record 231]] / [[works/taiwaneseamericanhistory-org/ourjourneys231-eng|English edition]].
+- The church's building stood near the intersection of **Olympic Boulevard and La Brea Avenue** in west Los Angeles, described in the 50th-anniversary retrospective as a towering church "standing here for 50 years" — [[works/taiwaneseamericanhistory-org/ourjourneys231|record 231]].
 
 ## Related Pages
 
