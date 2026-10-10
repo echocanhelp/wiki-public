@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Ingrid Chun (郭雋音)
 
@@ -75,3 +75,4 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A10071100-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071100-1 articles (11aa2dfa5f64d7e4 楊子清 tag頁 / 2490b18e8f37ea79 第166回世界台灣文化論壇 / 89e6683c93156205 台美人台加人 p356 / 79b5f26fdef89d22 2023台美小姐選拔賽): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A100607004-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 11aa2dfa5f64d7e4 (楊子清 tag頁, 2021-01-17快照): 「TUF 台灣文化之夜 1994 – …郭雋音…」條目確認見於正文; subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- DEEPEN-X10090600-14: verified 2026-10-10 — ZH+EN re-grep (郭雋音 / Ingrid Chun / surname 郭 + violin variants) across works/articles/sources/events/topics: only hits are ourjourneys301 + TJJ 楊子清 tag頁, both already absorbed above; all other 'Ingrid' hits are distinct persons (Ingrid Ho/NATWA, Ingrid Liu/NATWA, Ingrid Tseng/TAH#1434, Ingrid Lunden/Bloomberg, Ingrid Larson/AIT) — not this subject. Saturated, no new material. -->
