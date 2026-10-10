@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-10
 ---
 # Sharon S. Hsu (許聖美)
 
@@ -61,3 +61,4 @@ last_reviewed: 2026-09-27
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 複核（deepen-x slice 09260700-10, 2026-09-27）: fresh ZH+EN re-grep works/+articles/ hit set identical to absorbed records — SKIP (verified-saturated), no new corpus material.
+- 複核（deepen-x slice 10090500-11, 2026-10-10）: fresh grep across works/articles/sources/events/topics — hit set unchanged (own TAH #36/#42/#165/#263, Our Journeys 264, works index, all already linked). The taiwanjustice-net hits are a different person 許聖梅 (variant spelling, not 許聖美) — not a match. SKIP (verified-saturated), nothing new to absorb.
