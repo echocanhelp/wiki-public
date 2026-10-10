@@ -102,3 +102,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10070700-12: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-12 article bfc5f319a036a339 (黃瑞芬訃聞, 2022-01-29刊): 黃瑞芬 subject link re-checked vs 正文 (本人為訃聞主角，2022-01-15因心肌梗塞過世享年58歲), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10080501-7: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080501-7 article 64302d51d03b3c5f (黃瑞芬訃聞轉載, 2022-01-29 刊, 2024-02-25 存檔): 黃瑞芬 link re-checked vs 正文 this attempt (本人為訃聞主角, 2022-01-15因心肌梗塞過世享年58歲), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090501-22: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-22 article bfc5f319a036a339 (黃瑞芬訃聞, taiwanjustice.net, 2022-01-29 刊/2022-05-19 快照): 黃瑞芬 — 本人為訃聞主角，訃聞事實與1995 TUF LA演出回憶俱見正文 re-checked vs 正文 this attempt, real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

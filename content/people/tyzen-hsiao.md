@@ -192,6 +192,9 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 - 1995-07-29 — 其作品〈嘸通嫌台灣〉在台灣人聯合基金會（TUF）「台灣名家演奏系列」洛杉磯音樂會上由黃瑞芬等演出（[[articles/taiwanjustice-net/2022/20220519130616_2022_01_29_台灣女聲樂家_資深古典音樂節目主持人黃瑞芬過_bfc5f319a036a339|TJJ 轉載訃聞，2022-01-29]]；[[articles/taiwanjustice-net/2024/20240225012121_root_64302d51d03b3c5f|2024 存檔copy]]）。
 
 <!-- TJJ-A10061000-3: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10061000-3 article 64302d51d03b3c5f (黃瑞芬訃聞, 2022-01-29 刊): 蕭泰然 — 蕭泰然作曲〈嘸通嫌台灣〉於1995-07-29 TUF LA音樂會演出 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090501-22: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-22 article bfc5f319a036a339 (黃瑞芬訃聞, taiwanjustice.net, 2022-01-29 刊/2022-05-19 快照): 蕭泰然 — 作曲〈嘸通嫌台灣〉於1995-07-29 TUF LA音樂會由黃瑞芬等演出記述 re-checked vs 正文 this attempt, real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 ## Sources
 1. [Wikipedia: Tyzen Hsiao](https://en.wikipedia.org/wiki/Tyzen_Hsiao)
 2. [維基百科：蕭泰然](https://zh.wikipedia.org/wiki/蕭泰然)
