@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-10
 ---
 # Wendy Fang Chen Tilp (陳丹蘋)
 
@@ -52,8 +52,9 @@ A pianist and composer born in Brooklyn of Taiwanese descent, she earned her B.M
 ## Connected in the Vault (vault-internal)
 - Mother [[people/patsy-fang-chen||Patsy Fang Chen 方秀蓉]] is Artistic Director of the [[organizations/youth-orchestra-cycny||Youth Orchestra, CYCNY]] and was president of KYVAS Arts Management Inc. — the family's performing-arts career spans both Taiwan and New York.
 - Sister [[people/dr-justine-fang-chen||Dr. Justine Fang Chen 陳潔思]], violinist and composer — see her archived profiles [[works/taiwaneseamericanhistory-org/67-justine-f-chen-e9-99-b3-e6-bd-94-e6-80-9d-violin-and-composer|TAH #66]] and [[works/taiwaneseamericanhistory-org/whos-who-164-justine-fang-chen|TAH #164]].
-- Father [[people/wen-jer-chen||Wen Jer Chen 陳文哲]] holds his own TAH Who's Who profile.
-- Her own TAH encyclopedia records: [[works/taiwaneseamericanhistory-org/182-wendy-fang-chen-e9-99-b3-e4-b8-b9-e8-98-8b-pianist|TAH #182, Pianist]] · [[works/taiwaneseamericanhistory-org/whos-who-355-wendy-fang-chen-tilp|TAH #355]].
+- Father [[people/wen-jer-chen||Wen Jer Chen 陳文哲]] holds his own TAH Who's Who profile — his 2016-11-18 encyclopedia record is held in the vault as [[works/taiwaneseamericanhistory-org/whos1402|TAH #1402]].
+- Mother [[people/patsy-fang-chen||Patsy Fang Chen 方秀蓉]]'s archival papers are catalogued in the corpus as [[works/taiwaneseamericanhistory-org/collection-of-mrs-patsy-chen|TAH #36, Collection of Mrs. Patsy Chen 方秀蓉女士的收藏]].
+- Her own TAH encyclopedia records: [[works/taiwaneseamericanhistory-org/182-wendy-fang-chen-e9-99-b3-e4-b8-b9-e8-98-8b-pianist|TAH #182, Pianist]] · [[works/taiwaneseamericanhistory-org/whos-who-355-wendy-fang-chen-tilp|TAH #355]] · [[works/taiwaneseamericanhistory-org/213-3|TAH #213 (2019)]] — three encyclopedia passes, 2015/2019.
 - 1990 recording: [[works/taiwaneseamericanhistory-org/520-grieg-schumann-piano-concertoswendy-fang-chen1990-music-e9-9f-b3-e6-a8-82cd|TAH #520 Grieg/Schumann Piano Concertos]].
 
 ## Related Pages
