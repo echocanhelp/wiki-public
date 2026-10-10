@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-18
+last_reviewed: 2026-10-09
 ---
 # Orange County Taiwanese Association
 
@@ -46,6 +46,10 @@ OCTA（柑縣台灣同鄉會，南加州）是橙縣歷史悠久的台美人同�
 - **2021-05** — 副會長黃而明代表出席南加州僑胞車隊遊行聲援台灣參與 WHA（taiwanjustice.net 報導 2021-05-13）。
 - **2022-09-24** — 自辦「萬人挺台灣參與聯合國及世界衛生組織」健行活動（taiwanjustice.net 記錄 2022-09）。
 - **2024** — 大洛杉磯 228 追思紀念會聯合社團清單內社团之一（taiwanjustice.net 2025-03 刊）。
+- **2016-02-20** — 於 Santa Ana 主辦「台灣好聲音新春演唱會」（[[works/taiwaneseamericanhistory-org/concerts2|TAH 音樂記錄 #2]]）。
+- **2019-02-20** — 柑縣（橙縣）228 紀念會記錄（[[works/taiwaneseamericanhistory-org/e6-9f-91-e7-b8-a3228-e7-b4-80-e5-bf-b5-e6-9c-83|柑縣228紀念會/2019]]；HOLD: 該 TAH 記錄未標明主辦單位，勿逕歸 OCTA）。
+- 社團記錄：金桔會（[[works/taiwaneseamericanhistory-org/seniororg19|TAH 社團記錄 #19 金桔會 by 柑縣台灣同鄉會 OCTA]]）。
+- 獎學金專案另檔：OCTA/TACL 社區獎學金專案相簿（[[works/taiwaneseamericanhistory-org/photo-albums-activities-7|TAH #7]]）與會訊月刊記錄（[[works/taiwaneseamericanhistory-org/10-newsletter-octa|Monthly Newsletter, 2015]]）。
 - 社團場地：金桔會、合唱團、舞蹈社定期於 TAH 台美史料中心活動；歷任會長見語料：廖光男（創會）、王健椎（紀念文稱「前加州柑縣台灣同鄉會會長王健椎博士」）（[[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|緬懷鄭寶鼎博士文]]）。
 - HOLD: 社區獎學金主办方用字 — TAH #5 記錄作「TACL 共同辦理」；鄭寶鼎紀念文作「台美公民協會（TACS）主辦、柑縣台灣同鄉會協辦，2005–2014 共 10 年，歷經陳立明、黃河芬、許新民等會長」。兩缩写未確認為同一組織，勿逕行合併。
 
