@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-10
 ---
 # Dr. Jane H. Hsiao (許照惠博士)
 
@@ -60,3 +60,10 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[people/dr-jane-h-hsiao-2||Dr. Jane H. Hsiao (duplicate TAH profile)]] — second TAH Who's Who entry for the same person (born 1947, Changhua; NTU B.S. Pharmacy 1969; Univ. of Illinois Ph.D. 1973; founder of Innotech Laboratory 1981 and co-founder of IVAX 1986)
+
+## Role in the Community (deepen pass 2026-10-10, vault-only)
+- Covered in three TAH "My Stories" feature essays, which document her standing as a prominent figure in the Taiwanese American community:
+  - [[works/taiwaneseamericanhistory-org/ff346||TAH #346 — Jane H. Hsiao 許照惠: Renowned Entrepreneur in Bio-tech Business Worldwide]] (2017-11-06, band B)
+  - [[works/taiwaneseamericanhistory-org/mystories600||TAH #600 — 許照惠的創業傳奇 / 楊玲華]] (2017-11-08, band B)
+  - [[works/taiwaneseamericanhistory-org/684-my-stories||TAH #684 — 許照惠博士：與藥劑相戀一生的傳奇 / 刹塵子]] (2019-06-03, band B)
+- Note: a grep hit in [[works/taiwaneseamericanhistory-org/ourjourneys244||TAH #244 曇花一現的南加信用合作社]] was checked and is a false positive — that passage names 許照信, a different person (Southern California credit union founder), not 許照惠.
