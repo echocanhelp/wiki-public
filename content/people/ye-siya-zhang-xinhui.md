@@ -9,7 +9,7 @@ tags:
   - physician
   - musician
 verification_status: pending
-last_reviewed: 2026-07-23
+last_reviewed: 2026-10-10
 ---
 # Ye Siya & Zhang Xinhui (葉思雅、[[people/grace-h-yeh||張信惠]])
 
@@ -59,6 +59,16 @@ The couple co-founded TARSA ([[organizations/taiwanese-american-religious-study-
 3. Their daughter Carol (Ye Mingyi) graduated from Yale and studied American Sign Language at Gallaudet University, serving the deaf community in their church.
 4. Both are devout Christians; Ye was baptized by Rev. Hugh MacMillan and joined the faith through the YMCA George Williams Fellowship.
 5. In 2004, Ye visited Japan's Yasukuni Shrine with Dr. Liu Yangchuan and Dr. Honda Hiroshi, seeking closure about his father's death in WWII; the visit confirmed his father Ye Bing-song was killed when the SS Buenger was torpedoed by USS Hake in 1944.
+
+## Role in the Community (Corpus Records)
+
+- **1970 — Los Angeles Presbyterian church founding.** Ye Siya is named among those who actively supported Rev. Chang Juei-hsiung's pioneering of the first Taiwanese Presbyterian congregation in Los Angeles (with Ko Kuo-min, Chen Chao-chun, Lee Zong-pai, Hsu Wen-pin, Wang Chun-hsiung, Wu Cheng-yen, and Lai Hsin-hsiung), which was received by the PCUSA in 1973 as the first Taiwanese church in the United States to do so. [[works/taiwaneseamericanhistory-org/ourjourneys231|Our Journeys 231 — LA Church founding history]]
+- **2014 — Retrospective essay.** Ye authored a personal account of more than thirty years in America, [[works/taiwaneseamericanhistory-org/140-e4-be-86-e7-be-8e-e4-b8-89-e5-8d-81-e5-a4-9a-e5-b9-b4-e7-9a-84-e5-9b-9e-e9-a|Retrospective and Reflections on Over Thirty Years in America]].
+- **2014 — Interview on the record collection.** Li Shu-ying interviewed Ye Siya "starting from the more than ten thousand records in his collection," [[works/taiwaneseamericanhistory-org/mystories120|Interview with Dr. Ye Siya — Starting from His Collection of Over Ten Thousand Records]].
+- **2019 — Donation coverage.** An October 2019 news item reported the half-century collection of ten thousand vinyl records and CDs donated to Taiwan, [[works/taiwaneseamericanhistory-org/my-stories-703|Famed Taiwanese-American Doctor's Half-Century Collection: Ten Thousand Vinyl Records and CDs Donated to Taiwan]]. HOLD: this 2019/10 coverage vs the 2021 "Ye-Xinhui Classical Music Collection" date on this page — donation coverage and collection establishment may be separate events; not merged.
+- **2015 — Zhang Xinhui profile.** Grace H. Yeh / 張信惠 profile record, [[works/taiwaneseamericanhistory-org/448-grace-h-yeh-e5-bc-b5-e4-bf-a1-e6-83-a0201506|Grace H. Yeh 張信惠 (2015/06)]].
+- **Zhang Xinhui essay.** "Love Is the Best Medicine" / 愛是最佳良藥 by 張信惠, [[works/taiwaneseamericanhistory-org/146-e6-84-9b-e6-98-af-e6-9c-80-e4-bd-b3-e8-89-af-e8-97-a5-love-is-the-best-medic|Love Is the Best Medicine]].
+- **Medical profiles.** Two biographical records on Ye Siya (Sze-Ya Yeh) in the archive: [[works/taiwaneseamericanhistory-org/134-dr-sze-ya-yeh-e8-91-89-e6-80-9d-e9-9b-85-e9-86-ab-e5-b8-ab-e5-8f-83-e8-88-87|Dr. Sze-Ya Yeh — Participation and Advocacy]] and [[works/taiwaneseamericanhistory-org/135-dr-sze-ya-yeh-e8-91-89-e6-80-9d-e9-9b-85-e9-86-ab-e5-b8-ab-e7-ac-ac-e4-b8-80|Dr. Sze-Ya Yeh — The First]].
 
 ## Source Notes and Confidence
 - **Content priority A:** 2023 TAHS Publication (profile, "典範‧傷逝" section, ~2720 lines)
