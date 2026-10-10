@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Dr. Hong-Yen Hsu (許鴻源博士)
 
@@ -77,3 +77,9 @@ Additional vault records about him (existing pages, no new biography):
 - **Educator of the next generation of pharmaceutical researchers.** TAHS-affiliated memoirist 鄭炳全's 旅美五十周年 memoir ([[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|taiwanjustice.net record]]) recalls 許鴻源 as director of the Institute of Medicinal Plants at the Chinese Culture College (中國文化學院藥用植物研究所所長) in the mid-1960s, where the memoirist studied before moving to the U.S. in 1970.
 - **Art-collecting diplomacy with painters.** A press record held in the vault ([[articles/taiwanjustice-net/2021/20210415101917_2021_04_07_許鴻源和畫家搏感情_李梅樹感動買一送一_6035fe1926bfd258|許鴻源和畫家搏感情，李梅樹感動買一送一]], 2021) documents that he collected some 670 works by Taiwanese artists and related to painters as more than buyer: knowing pioneer painter 李梅樹 suffered from stomach illness, he repeatedly sent him medicinal materials, moving Li to paint portraits of the Hsu couple — which Li, seeking perfection, painted twice, so both versions now hang side-by-side at the National Museum of Fine Arts' 海外存珍—順天美術館藏品歸鄉展. This corroborates his own account of collecting in [[works/taiwaneseamericanhistory-org/685-my-stories|TAH #685: 收集美術畫]].
 - **Additional encyclopedia record in-vault:** [[works/taiwaneseamericanhistory-org/ff280|TAH #280: Dr. Hong-yen Hsu 許鴻源博士 / Father of Scientific Oriental Medicine「科學中藥之父」]] — a second encyclopedia entry alongside the already-linked pride #19 record of the same title.
+
+## Deepen pass 2026-10-10 (deepen-x slice 10081100-25, corpus re-grep)
+Fresh ZH+EN+variant (許鴻源/許鴻原/Hong-Yen Hsu) grep across all five corpus dirs returned the same hit set as prior passes; two records not previously cited add corroboration only, no new biography:
+- **Corroborates the institute directorship date.** The 2024 vault record of 鄭炳全's 旅美五十周年 memoir ([[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|taiwanjustice.net 2024 record]]) — the same memoir as the 2025 record already cited above — dates it precisely: the memoirist graduated from 台北醫學大學 in 1965, then entered the 中國文化學院藥用植物研究所 whose director (所長) was 許鴻源博士, before 那琦 returned from Kyoto to 北醫 about a year later. This places the directorship at circa 1965–1966, consistent with the mid-1960s wording already held.
+- **Collecting record indexed in the art-history stream.** The taiwanjustice culture/art-history category index ([[articles/taiwanjustice-net/2021/20210619030754_category_culture_arthistory_5acbcfec4a52ccb9|台灣美術史, 2021]]) lists 「許鴻源和畫家搏感情，李梅樹感動買一送一」 among its 台灣美術史 entries — i.e. his collecting is being treated as part of the published Taiwan art-historical record, not just a profile piece.
+- No conflicts found; the 許鴻原/許鴻源 spelling variance in ourjourneys173 was already flagged in the prior pass and is unchanged.
