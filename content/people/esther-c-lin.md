@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Esther C. Lin (林陳春蘭)
 
@@ -42,12 +42,13 @@ Esther C. Lin is a versatile Taiwanese American artist. President of Taiwan Cent
 ## Family
 
 - **Husband:** 林光榮
-- **Son:** Eward林恩哲
+- **Son:** Edward Lin 林恩哲（TAH Who's Who #1513, 2017-02-19 刊）
 
 
 ## Role in the Community（deepen-x 09142319-23，自本會史料吸収）
 - **台灣會館老人中心（TASC）**：2003 年底紐約台灣會館設老人中心管理委員會，陳春蘭以會館理事身份任委員（另兩位會館理事蔡明峰、尤欽德，及四位原各老人會代表）；2004 年 1 月中心及管委會開始運作 — 見 [[works/taiwaneseamericanhistory-org/ourjourneys316|Our Journeys #316（大紐約區台灣會館老人中心史）]]，與本頁所載「President of Taiwan Center」相互佐證
 - 其餘語料命中皆為本人書目/演出記錄頁（[[works/taiwaneseamericanhistory-org/musician337|#337]]、[[works/taiwaneseamericanhistory-org/whoswho925|#925]]、[[works/taiwaneseamericanhistory-org/artist55-esther-lin|#55]]、[[works/taiwaneseamericanhistory-org/concerts17|#17]]），已列於 Vault Holdings，無新增事實
+- 複核（deepen-x slice 10090700-10, 2026-10-10）：全庫再 grep（林陳春蘭／Esther C. Lin／陳春蘭）除既有書目頁外，新增命中 [[works/taiwaneseamericanhistory-org/whoswho1513|Who's Who #1513 Edward Lin 林恩哲（2017-02-19 刊）]]，與本頁 Family 欄之子 林恩哲 相符，已吸收於該欄。注意：該 work 頁 Subjects 連結指向 [[people/edward-j-s-lin|Edward J. S. Lin（林敬賢）]]，係同名 Edward Lin 之另一人（芝加哥／屏東），非本頁之子 — 未據此改動親屬關係。無其他新事實
 
 ## Sources
 - [TAH #337 encyclopedia: 337. Esther C. Lin  林陳春蘭, Soprano / 2016/04](https://taiwaneseamericanhistory.org/musician337/)
