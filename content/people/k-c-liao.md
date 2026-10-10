@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # K. C. Liao (廖國仲)
 
@@ -46,6 +46,8 @@ last_reviewed: 2026-09-25
 - 2026-09-23 re-grep (deepen-x slice 09221000-13): SKIP — fresh grep (廖國仲, works+articles) hit set unchanged: own records (#883, 老猴集 #154, 楊遠薰傳 mystories264), 台灣之音回憶 ourjourneys2, 李彥禎 essay ourjourneys264, and the 2021/2024/2025 彭昕 memorial memo (2014 NY 追思會) — all already cited above; no new absorbable facts. The HOLD (TAH 「-2005」 vs 2014 memorial) stands.
 
 ## From the record
+
+- 2026-10-10 re-grep (deepen-x slice 10081100-18): SKIP — fresh ZH+EN grep across all 5 corpus dirs returned the previously cited hit set (#883/#154 老猴集 / mystories264 / ourjourneys2 / ourjourneys264 / sources index) plus one new name-clash hit: Anne Hu's Lunchbox interview names 「KC Liao」 as the Chinese-school principal who became an associate producer and father of actress Audrey Liao ([[works/taiwaneseamerican-org/lunchbox-anne-hu-release|Lunchbox release interview]]) — identity with 廖國仲 unconfirmed (school principal vs 雲林西螺 entrepreneur/Wellmore 董事長); HOLD, not merged. No other new absorbable facts; 「-2005」 vs 2014 memorial HOLD stands.
 
 - 覆核（TJJ-A09240600-1, 2026-09-25）：本 slice 文章 299c00bb18030b81（懷念彭昕醫師(楊遠薰 2021-09-23)）正文再驗證——主體連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
