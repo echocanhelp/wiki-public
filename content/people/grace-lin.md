@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Grace Lin (吳瑞惠)
 
@@ -112,3 +112,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10070700-4: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-4 article 23a52af3dcf8a6ce (「記憶的神經科學」標籤頁, 2024-07-23 快照): subject link re-checked vs 正文 (本人為 2017-02-23 報導之文字紀錄撰寫人吳瑞惠, 蕭慶和攝製), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10080401-14: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-14 article be7ac05c58e6eab6 (黃勝雄醫師「老人的記憶與記憶的神經科學」全文, 2017-02-23 發文 / 2024-06-13 快照) read fresh this attempt: subject link re-checked vs 正文 (文末「(吳瑞惠 紀錄)」署名確認見於正文), real, no wrong/spurious links; 2017-02-23 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- Corpus re-grep 2026-10-09 (slice 10080949-29)：本人（吳瑞惠）命中集與前次相同 — #613、concerts81、mystories132、#284 四筆 TAH 檔，加上 TJJ 演講記錄六檔（be7ac05c / 2c109418 / cc3dcc87 / 26f76359 / dc44b297 / 23a52af3），全部已掛 wikilink，無新的本人社群語料。新增消歧收斂：`taiwaneseamerican-org` 檔群（[[works/taiwaneseamerican-org/an-online-chat-with-taiwanese-american-childrens-author-grace-lin|與童書作家 Grace Lin 線上對談]]、[[works/taiwaneseamerican-org/a-generation-of-new-taiwanese-american-writers-emerge|新世代台美作家]]、[[works/taiwaneseamerican-org/this-is-why-you-must-read-this-is-not-my-home|This Is Not My Home 書評]]）之 "Grace Lin" 皆指童書作家 **林珮思**（同上方 publication1321/1322 檔），與本頁 吳瑞惠 無關；另 ourjourneys85-eng 之 "Ching-tzu Tung (Grace Lin)" 指 [[people/tom-yang|童靜梓]]，非本頁。消歧段至此覆蓋 corpus 全部同名檔群。
