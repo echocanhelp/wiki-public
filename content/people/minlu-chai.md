@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Minlu Chai (蔡銘祿)
 
@@ -34,6 +34,9 @@ From TAH community records and memoirs (primary material):
 - **Organizer of the first coordination meeting among Taiwanese American organizations** — recorded in TAH Who's Who story #222 (1992) ([[works/taiwaneseamericanhistory-org/222-mr-minlu-chai-e8-94-a1-e9-8a-98-e7-a5-bf-the-organizer-of-first-coordination|TAH #222]]); the coordination-meeting work itself is separately catalogued under his name in [[works/taiwaneseamericanhistory-org/140-e5-85-a8-e7-be-8e-e5-8f-b0-e7-81-a3-e4-ba-ba-e7-a4-be-e5-9c-98-e5-8d-94-e8-a|TAH #140 全美台灣人社團協調會 / 蔡銘祿 / 2015/06]].
 - **1985 movement roster.** Named among overseas Taiwanese community figures in a 台灣公論報 list of 1985-04-15 (record compiled from 台灣公論報 #369) ([[works/taiwaneseamericanhistory-org/ourjourneys186|Our Journeys 186]]).
 - **Posthumous memoir.** A community biographical sketch 故人歷略 – 蔡銘祿先生 was written by 蔡宗立 and published 2015/11 ([[works/taiwaneseamericanhistory-org/363-e6-95-85-e4-ba-ba-e6-ad-b7-e7-95-a5-e8-94-a1-e9-8a-98-e7-a5-bf-e5-85-88-e7-9|TAH #363]]).
+- **1989 黑名單返鄉 action.** As 副會長 of 世台會, on 1989-08-11 he and 會長李憲榮 — both on the overseas blacklist — 偷渡闖關回台 to attend the 世台會 annual meeting in 高雄, joining 鄉親 in a demonstration demanding the blacklist be abolished; the action is described in the movement chronicle as the most shocking 世台會 action ever held on Taiwan soil ([[works/taiwaneseamericanhistory-org/ourjourneys230|Our Journeys 230]]).
+- **Founding member, 南灣生活座談會.** Listed among the founding members (with 陳惠亭, 黃森元, 陳立宗, 林正善, 許清煌, 廖政秀, 林本晃, 游銘泉, 王秋森, 江昭儀) of the South Bay Living Seminar ([[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys 212]]).
+- **Memorial essay.** A 追思紀念文 for 蔡銘祿先生 was written by 蘇貞昌 and published 2015/12 ([[works/taiwaneseamericanhistory-org/374-e8-94-a1-e9-8a-98-e7-a5-bf-e5-85-88-e7-94-9f-e8-bf-bd-e6-80-9d-e7-b4-80-e5-b|TAH #374]]); his Who's Who encyclopedia entry is catalogued as [[works/taiwaneseamericanhistory-org/whoswho1028|TAH #1028 (2016/05)]].
 
 - Corpus check 2026-09-20 (slice 09181500-15): re-grepped content/works + content/articles — hit set identical to the records already wikilinked above; no new absorbable material.
 - Corpus check 2026-09-21 (slice 09201400-13): re-grepped again — same hit set; no new absorbable material.
