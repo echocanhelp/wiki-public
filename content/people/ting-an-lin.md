@@ -79,3 +79,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10060700-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060700-1 articles 2c9cb76838702dd7 + 3260cd0bdf2f84d7 (海台青與黑客松, 楊遠薰, 2017-07-24, 兩存檔): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink(s) already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070900-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-1 articles 2c9cb76838702dd7 + 3260cd0bdf2f84d7 (海台青與黑客松, 楊遠薰, 2017-07-24, twin copies): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink(s) already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090701-10: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-10 article 2c9cb76838702dd7 (海台青與黑客松, 楊遠薰, TJJ 2017-07-24, 2021-12-07 snapshot): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

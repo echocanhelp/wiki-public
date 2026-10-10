@@ -91,3 +91,5 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 <!-- TJJ-A10070900-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-1 articles 2c9cb76838702dd7 + 3260cd0bdf2f84d7 (海台青與黑客松, 楊遠薰, 2017-07-24, twin copies): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink(s) already in From the record — saturated, no new material. -->
 
 - 2026-10-09 (deepen-x slice 10080951-10) — 本輪新增社群記錄：Russell Hsiao 入藏 TAH Who's Who #1550、葉介庭 2015/05 訪談條目 #425（早於 GTI 創立）、GTI 刊載 Hsin-I Cheng〈Model Minority Myth〉訪談、葉介庭以 GTI 共同創辦人/副主席身分見於社群專文兩篇。見「Role in the Community」。
+
+<!-- TJJ-A10090701-10: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-10 article 2c9cb76838702dd7 (海台青與黑客松, 楊遠薰, TJJ 2017-07-24, 2021-12-07 snapshot): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
