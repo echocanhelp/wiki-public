@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Christina Shuyu Hsu (許吳漱玉)
 
@@ -77,3 +77,6 @@ last_reviewed: 2026-09-15
 
 ## Deepen note (DEEPEN-X09141300-21, 2026-09-14)
 - 本輪語料庫掃描（works + articles）發現上述本人親筆回憶錄 #302 一則（先前本頁僅連結百科條目 #44、#437），已收錄並 wikilink；語料庫中另有 hits 皆為本頁既有条目或索引頁，無可再吸收之新事實，無衝突需 HOLD。
+
+## Deepen note (DEEPEN-X10091404-32, 2026-10-10)
+- 本輪重掃（許吳漱玉／Christina Shuyu Hsu／Christina Hsu／漱玉）跨五個語料庫目錄，hits 仍為已收錄之三則本人條目 —— [[works/taiwaneseamericanhistory-org/artist44-christina-hsu|#44]]、[[works/taiwaneseamericanhistory-org/whos437-christina-hsu|#437]]、親筆回憶錄 [[works/taiwaneseamericanhistory-org/mystories302|#302]] —— 及索引頁與來源頁之反向連結。無新事實可吸收，無衝突需 HOLD；僅刷新 last_reviewed。
