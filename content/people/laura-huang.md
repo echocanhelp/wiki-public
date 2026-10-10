@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-10
 ---
 # Laura Huang (黃月桂)
 
@@ -76,3 +76,5 @@ _Corpus re-grep 2026-09-27 (slice 09260700-12): SKIP — hit-set identical (TAH 
 <!-- TJJ-A10060400-6: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-6 article efea1ad2 哲人日已遠：敬弔李應元博士（牽手黃月桂致哀句確認見於正文）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-6: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-6 articles efea1ad2 哲人日已遠：敬弔李應元博士（牽手黃月桂致哀句確認見於正文）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+_Corpus re-grep 2026-10-10 (slice 10090500-4): hit-set identical (TAH #767, works index, sources page, Project EMplify 同名異人 record under HOLD, both TJJ 李應元敬弔/辭世 records). SKIP — verified-saturated, nothing new absorbable._
