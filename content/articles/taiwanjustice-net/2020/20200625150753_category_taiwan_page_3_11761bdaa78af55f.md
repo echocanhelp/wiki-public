@@ -302,3 +302,5 @@ Load more
 
 <!-- TJJ-A10071500-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071500-1 article 11761bdaa78af55f (台灣頭條 p3, 2020-06-25快照): 2 subject links re-checked vs 正文 — 「陳其邁21日偕吳怡農見邁粉 拉近與年輕人距離」條目／「蕭美琴辭別花蓮將駐美，支持者送祝福」條目, both real, no wrong/spurious links; dated facts w/ article wikilink already in From the record on enoch-wu / bi-khim-hsiao — saturated, no new material. -->
 
+
+<!-- TJJ-A10090701-32: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-32 article 11761bdaa78af55f (台灣頭條 category p3, 2020-06-25快照) read fresh this attempt: 2 subject links re-checked vs 正文 — 「陳其邁21日偕吳怡農見邁粉 拉近與年輕人距離」條目（2020-06-20）／「蕭美琴辭別花蓮將駐美，支持者送祝福」條目（2020-06-21）, both逐字確認見於正文, real, no wrong/spurious links; dated facts w/ article wikilink already in From the record on enoch-wu / bi-khim-hsiao — saturated, no content edits. -->
