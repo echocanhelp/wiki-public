@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Julia Huang (黃馨儀)
 
@@ -41,6 +41,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-check 2026-10-08 (slice 10062218-1): fresh ZH+EN grep (`黃馨儀|Julia Huang`) across works/articles/sources/events/topics — hit set unchanged (#1254 書目、Our Journeys #128 音樂會名單、黃儀嬙同名異人報導、sources hub 目錄列); no new memoir material. SKIP stands; HOLD on 黃儀嬙 identity mixup retained.
 - Corpus re-check 2026-10-09 (slice 10080400-30): fresh ZH+EN grep (`黃馨儀|Julia Huang`) across works/articles/sources/events/topics — hit set unchanged (#1254 書目、Our Journeys #128 音樂會名單、index/sources 目錄列、黃儀嬙同名異人報導); 無新回憶錄材料可吸收。SKIP stands; HOLD on 黃儀嬙 identity mixup retained.
 - HOLD: 身份混淆風險 — [[articles/taiwanjustice-net/2025/20250420095306_洛杉磯奧運長堤市聚焦文化活力-舵手黃儀嬙來自台_0016cba25b93f8cb|台灣時報轉錄（2025-04）]] 之「Julia Huang 黃儀嬙」（Intertrend 執行長、長堤市文化與藝術委員會主席）漢名與本頁 黃馨儀 不同，疑似同名異人，未合併。
+- Corpus re-check 2026-10-10 (slice 10090900-28): fresh ZH+EN grep (`黃馨儀|Julia Huang|馨儀`) across works/articles/sources/events/topics — hit set unchanged (#1254 書目、Our Journeys #128 音樂會名單、index/sources 目錄列、黃儀嬙同名異人報導); 無新回憶錄材料可吸收。SKIP stands; HOLD on 黃儀嬙 identity mixup retained.
 
 ## Sources
 - [TAH #1254 encyclopedia: 1254. Julia Huang 黃馨儀 / 2016/08](https://taiwaneseamericanhistory.org/1254-julia-huang-%e9%bb%83%e9%a6%a8%e5%84%80-201608/)
