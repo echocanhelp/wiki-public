@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-09
 ---
 # Simon Lin (林榮松)
 
@@ -90,6 +90,17 @@ Pages that link to **simon-lin** (simon-lin):
 - [[people/wei-boji||Wei Boji (魏博基)]]
 - [[people/xu-shitan||Xu Shitan (徐士坦)]]
 - [[people/wang-rongyi||Wang Rongyi (王榮義)]]
+
+## Role in the Community (corpus absorb, deepen-x slice 10080958-19, 2026-10-09)
+
+Fresh ZH+EN grep (林榮松|Simon Lin) across works/articles/sources/events/topics surfaced five previously-unabsorbed community records, all attributable to the anesthesiologist-organizer 林榮松 (Dr. Simon Lin) of the TAH Who's Who record [[people/dr-long-song-simon-lin||Dr. Long Song (Simon) Lin]]:
+
+- **2003 — advising the Northern California center:** invited, as "director of the Taiwan Center of Southern California," together with the Taiwanese Canadian Center's former president, to share operating experience during the founding of the Taiwanese American Center of Northern California: [[works/taiwaneseamericanhistory-org/ourjourneys24-eng|TAH #24 (Our Journeys, 2003)]] — the work already wikilinks him; the record confirms cross-regional center-building as an acknowledged community role.
+- **2014 — election-week photography:** as an anesthesiologist at Whittier Hospital, photographed the 2014 presidential campaign rallies (Tsai Ing-wen, Eric Chu) for the overseas Taiwanese community delegation: [[works/taiwaneseamericanhistory-org/ourjourneys192|TAH #192 (Our Journeys)]] — consistent with his photo-album record-keeping.
+- **2015 — NATMA documentation:** provided the NATMA photo album "North American Taiwanese Medical Association photographed by Dr. Simon Lin": [[works/taiwaneseamericanhistory-org/photo-albums-activities-38|TAH #38 (2015-01-05)]].
+- **2003 — 鄉土之美 photography exhibition:** held a solo photography show 「鄉土之美」 alongside 陳文石's 「台灣之美—水的世界」 painting exhibition, El Monte, CA, 02/2003: [[works/taiwaneseamericanhistory-org/artshow26|TAH #26]].
+- **Doctor-wave oral history (date unspecified):** as 台灣會館執行長 he hosted a 耆老講座 on Taiwanese doctors in America, recalling that most of KMU's 1967 class (40+ of 72 graduates) moved to the U.S. to practice, and that his son followed him into anesthesiology: [[works/taiwaneseamericanhistory-org/our-journeys-388|TAH #388]]. The KMU connection corroborates the M.D. (Kaohsiung Medical Univ., 1975) in the TAH table on [[people/dr-long-song-simon-lin]].
+- HOLD: the TAH table on [[people/dr-long-song-simon-lin]] lists him as **President** of the Taiwan Center Foundation while this page's board source lists **執行長** — same person, different titles across sources; flag retained, not auto-merged.
 
 ## Vault re-check 2026-09-14 (deepen-x slice 6, vault-only)
 - All 37 wikilink targets re-verified to exist in the vault. The board role (執行長, TWCLA), the 2016 當選董事長 record, the 2020 僑務諮詢委員獲聘行政院政務顧問 record, and the 2025 228追思 roll-call note were all absorbed from the taiwanjustice.net tier2 archive in prior passes; no further biography exists in the vault source set.
