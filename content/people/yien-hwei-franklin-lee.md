@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Yien-hwei Franklin Lee (李彥輝醫師)
 
@@ -67,3 +67,7 @@ His Who's Who entry is archived in-vault as [[works/taiwaneseamericanhistory-org
 ## Deepen-x 2026-09-14 (slice 09141300-2) — SKIP with reason
 
 Corpus grep over content/works and content/articles for 李彥輝 / Franklin Lee hits only the works index plus records this page already links (encyclopedia #229–#232, essays [[works/taiwaneseamericanhistory-org/mystories287|#287]] / [[works/taiwaneseamericanhistory-org/mystories480|#480]] / [[works/taiwaneseamericanhistory-org/144-e6-95-91-e6-8f-b4-e9-bb-83-e9-84-ad-e5-85-a9-e6-b0-8f-e5-91-bc-e5-96-9a-e6-9|#144]], and his papers collection). No third-party memoir or article mentions him — nothing new absorbable. No web, no new pages.
+
+## Deepen-x 2026-10-10 (slice 10090315-20) — SKIP with reason
+
+Fresh grep across all 5 corpus dirs (李彥輝 / Franklin Lee / Yien-hwei / 彥輝) returns the identical saturated hit set already linked on this page: encyclopedia #229–#232, essays #287/#480/#144, Who's Who #436, and his papers collection. Surname-variant sweep (李彥) surfaced only 李彥禎 (a different author — My Stories #70/#191/#239/#715/#781 etc.) and 李彥秀 (#921), not this person. No new third-party memoir material. No web, no new pages, nothing published.
