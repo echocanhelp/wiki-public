@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-10
 ---
 # Tina Shih (施雅婷)
 
@@ -92,3 +92,5 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A10060400-10: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-10 articles (fd270f41202454d7 美駐聯合國大使克拉夫特挺台, 2020-09-30 / d4a7f9e55282396a 北市區域立委號次抽籤, 2019-12-18 / 10e3a027ce22991c 汽車晶片短缺·美國會議員向蕭美琴求助, 2021-02-25 / 735744492226b90c 2016台美小姐選拔開訓記者會, 2016-06-14): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060400-11: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-11 article cc3bbdbfc662fe66 (2016台美小姐選拔開訓記者會, 2016-06-14 刊): 施雅婷開訓首日講解選美須知、「身、心、靈俱美」 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- deepen-x 10090400-10 (2026-10-10): fresh 5-dir grep (施雅婷／Tina Shih／雅婷, plus surname sweep 施+Tina) — hit set unchanged and fully absorbed: own TAH #1137／#173／#202 + 2016台美小姐開訓稿 735744492226b90c 及其 2024 存檔 cc3bbdbf, all linked. Non-self matches excluded on identity check: 楊雅婷 (時代力量, OTD黑客松稿 2c9cb768／3260cd0b) ≠ 本人; 「雅婷歷史小教室」(教育部臉書 persona, ab35c2a3) ≠ 本人; Senator Tina Smith (b754b942) ≠ 本人. SKIP — saturated, no new community material; last_reviewed refreshed. -->
