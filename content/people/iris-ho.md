@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # Iris Ho (何燕青)
 
@@ -50,6 +50,8 @@ Fresh grep of content/works + content/articles returned only records already abs
 - 2016-04-20 — 楊遠薰's 「亂世奇緣」 record: a Taiwanese colleague at FAPA who fell in love with and married Coen Blaauw in 2006 — twelve years his junior, mirroring how his mother Loes Vemer was twelve years younger than his father ([[articles/taiwanjustice-net/2024/20240723022135_root_d3c8399729f03df5|TJJ, 2016-04-20]]).
 - 2016-04-17 — TAH encyclopedia profile: [[works/taiwaneseamericanhistory-org/935-iris-ho-e4-bd-95-e7-87-95-e9-9d-92-201604|TAH #935, 2016-04]].
 - Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230700-21): hit-set gained [[works/taiwaneseamericanhistory-org/mystories464|TAH #464]] and [[works/taiwaneseamericanhistory-org/ourjourneys228|TAH #228]] (husband 昆布勞's own FAPA records) — absorbed into Family above; no further facts about Iris Ho herself.
+- 2017-11 — 楊遠薰's 「昆布勞與FAPA的奇緣」 names her as Coen Blaauw's wife: 「He is married to Iris Yenching Ho and is thus a Taiwan Kiansai」 — her own full romanized name (Iris Yenching Ho) and her role as the link anchoring Coen into the Taiwan family ([[works/taiwaneseamericanhistory-org/mystories608|TAH #608 楊遠薰, 2017/11]]; see also the TaiwaneseAmerican.org 「Taiwan Sons-in-Law」 interview with Gerrit van der Wees and Coen Blaauw, which carries the same marriage note ([[works/taiwaneseamerican-org/a-conversation-with-the-taiwan-sons-in-law|TA.org conversation, Sons-in-Law]])).
+- Corpus re-grep 2026-10-10 (DEEPEN-X slice 10081400-6): hit-set gained [[works/taiwaneseamericanhistory-org/mystories608|TAH #608]] and [[works/taiwaneseamerican-org/a-conversation-with-the-taiwan-sons-in-law|TA.org Sons-in-Law interview]] — both name Iris Yenching Ho as Coen Blaauw's wife; absorbed above. Other hits (2678886a 六四何燕然, 058ba2dc/58777e44 燕青 bylines, 2021_06_03 葉燕青) are unrelated same-name persons — not linked.
 
 ## Sources
 - [TAH #935 encyclopedia: 935. Iris Ho 何燕青 2016/04](https://taiwaneseamericanhistory.org/935-iris-ho-%e4%bd%95%e7%87%95%e9%9d%92-201604/)
