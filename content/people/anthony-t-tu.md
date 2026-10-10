@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-09
 ---
 # Prof. Anthony T. Tu (杜祖健教授)
 
@@ -58,6 +58,7 @@ Further self-authored records in the TAH story corpus surface his public intelle
 - [[works/taiwaneseamericanhistory-org/publications1240||TAH #1240: サリン事件死刑囚 中川智正との対話 (2018-07)]] — his dialogue with Aum sarin-matter death-row inmate Tomomasa Nakagawa, continuing the #1106 thread.
 - [[works/taiwaneseamericanhistory-org/publications1241||TAH #1241: 沖縄と台湾を愛したジョージ・H・カー先生の思い出 / 比嘉辰雄 杜祖健 (2018-03)]] — co-authored reminiscence of George H. Kerr with Higa Tatsuo.
 - [[works/taiwaneseamericanhistory-org/publications1105||TAH #1105: In Loving Memory of Kazuko Yamamoto Tu (2013-08)]] — his own memoir piece for his wife (Family above), which places her death by 2013-08; existing Family field lists her without dates, so no conflict to HOLD.
+- [[works/taiwaneseamericanhistory-org/publications1239||TAH #1239: Chemical and Biological Weapons and Terrorism / Anthony Tu (2018-08-23)]] — his 2018 book-length work on chemical/biological weapons, extending the toxinology-public-engagement thread of #1106 (Tokyo Subway/Matsumoto sarin) and #1240 (Nakagawa dialogue) into a consolidated 2018 publication.
 
 ## Timeline
 - 1930 — born in Taipei (Era per TAH directory)
@@ -68,6 +69,7 @@ Further self-authored records in the TAH story corpus surface his public intelle
 - 1967–1998 — Professor, Colorado State University (Fort Collins); Professor Emeritus from 1998
 - 2009 — 旭日中綬章 (Gold Rays with Neck Ribbon)
 - 2013 — Lifetime Achievement Award, Indian Society of Toxinology
+- 2018-08-23 — published Chemical and Biological Weapons and Terrorism (TAH #1239)
 
 ## Sources
 - [TAH #2 encyclopedia: 2. Prof. T. Anthony Tu (杜祖健教授)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-2/)
