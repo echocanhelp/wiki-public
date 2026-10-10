@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-09
 ---
 # Hui Na Lin (賴慧娜)
 
@@ -104,6 +104,9 @@ _No filled family fields on the TAH profile._
 - 2018-07-20 — Signed as 賴慧娜(圖館) among the ~170 台大校友 co-signatories of the open letter protesting 南加州台大校友會 inviting 管中閔 to speak at its 2018 annual meeting amid the disputed 校長遴選 case ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ, 2018-07-20]]).
 - 2017-02-17 — 大洛杉磯台灣會館暨南加及拉斯維加斯75個社團2月25日在洛杉磯華僑文教中心聯合紀念228七十週年並揭幕國紀館特展「沉冤、真相、責任」；籌備會由董事賴慧娜擔任召集人，為海外最盛大的228紀念活動（[[articles/taiwanjustice-net/2024/20240530134421_root_23da543a315a1fa1|TJJ 轉載台灣會館會訊，2017-02-17]]）。
 - 2022-01-09 — 與鄭炳全、林文政、黃樹人連袂拜訪筆會會員葉思雅、張信惠伉儷，慶賀其「週末漫談音樂」專欄滿100期；賴慧娜以水果派致賀（[[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd|TJJ, 2022-01-10]]）。
+- 2020-03-14 — 信雅「週末漫談音樂（7）女指揮家」記述：台美人筆會（TAPC）會長賴慧娜在筆會LINE群組介紹電影《The Conductor》（女指揮家 Antonia Brico 傳記片），促成該專欄取材（[[articles/taiwanjustice-net/2022/20220122115314_2020_03_14_週末漫談音樂-_7_女指揮家-_-信雅_ad6fc1062e6ac80d|TJJ, 2020-03-14]]）。
+- 2021-01-23 — 信雅「週末漫談音樂（51）」記述：筆會會長賴慧娜提起「維也納新年音樂會」資訊自 YouTube 消失一事，作者建議她改由 PBS 網站觀看，並延伸出 PBS「Passport」捐款制度的介紹——筆會長與文化資訊流通的互動細節（[[articles/taiwanjustice-net/2021/20210415110434_2021_01_23_週末漫談音樂-51_從-the-magic-of-callas-談-pbs-節目_the-great-performances_4e3dabaca4a7939b|TJJ, 2021-01-23]]）。
+- 柯金寅《大紐約區海外台灣人筆會十週年》（2014-09）提及「太平洋時報主編慧娜」來電邀稿美東夏令會報導——HOLD: 「主編慧娜」是否即本頁賴慧娜未獲第二來源確認（同文另有筆會會長交接等脈絡），暫記待證（[[works/taiwaneseamericanhistory-org/ourjourneys12|Our Journeys #12]]）。
 
 - 2026-09-22 — 正文點名其負責 228 七十週年系列——連結為真；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|台灣會館會訊 #11, 2016-12-17]]，本輪不重複。
 - 2026-09-22 — TJJ-A09220700-3 re-verify: 正文點名其負責 228 七十週年系列，連結為真；日期事實已見上條，不重複。
