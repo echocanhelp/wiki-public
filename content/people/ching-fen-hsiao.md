@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Ching-Fen Hsiao (蕭清芬)
 
@@ -91,6 +91,7 @@ last_reviewed: 2026-09-24
 - Obituary record: [[works/taiwaneseamericanhistory-org/my-stories-816|816. 蕭清芬在美辭世 蕭美琴悼父親：一生守護台灣本土意識 12-2021]] (2021-12-16) — 蕭美琴's memorial framing his life as a lifelong defense of Taiwanese local consciousness.
 - Who's Who entry in corpus: [[works/taiwaneseamericanhistory-org/whoswho1433|1433. Ching-Fen Hsiao 蕭清芬 / 2016/12]].
 - Corpus re-grep 2026-09-21 / 2026-09-22 / 2026-09-23 (slice 09230317-1): hit set unchanged (mystories434, my-stories-816, ourjourneys268, whoswho1433, plus the three taiwanjustice.net pieces already cited under "From the record" and a duplicate tag-page snapshot of 「我的女兒美琴」) — all substantive hits linked above; nothing further absorbable (verified-saturated).
+- Corpus re-grep 2026-10-09 (slice 10081018-31): 蕭清芬/Ching-Fen hits across all five corpus dirs resolve to the same already-linked set (mystories434, my-stories-816, ourjourneys268, whoswho1433, taiwanjustice.net 2a3226a1/9d523cc5/28b0cc4e/8216e7ca + two tag-page snapshots 27e39004/f19df657). Two false positives excluded on inspection: [[works/taiwaneseamericanhistory-org/ourjourneys126-eng|ourjourneys126-eng]] names Ching-Fen *Mao* (毛清芬, a different person in a 2002 group photo with Tsu-Yi Jay Loo 呂忠濟/駱復真), and the Ching-Fen *Lin* (林清芬, 255/524/whos-who-1737) works are a singer, not this subject. The 蕭美琴-only works (mystories391 「蕭美琴的故事」, publications990 《一個人也可以》, whos-who-757, events2021-2, my-stories-866) carry no 蕭清芬 text of their own — they document the daughter, not him, so they are not linked as his works. Saturated; no new material.
 
 
 <!-- TJJ-A10040500-8: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-8: article 9d523cc5290c997b (我的女兒美琴, 2020-07-26刊) 本篇署名作者即本人 real; article 28b0cc4e52acece2 (2021北美洲聯合228紀念活動報導, 2021-03-03刊) 蕭清芬牧師開幕祝禱+默哀 real; both subject links re-checked vs 正文, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
