@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-10-10
 ---
 # Jenny Lin (林佳靜)
 
@@ -45,6 +45,8 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 - Performed at a Formosan Chamber Music Society concert on 2002-10-25 (Jenny Lin, piano) — a Taiwanese community arts event preserved in the TAH corpus as [[works/taiwaneseamericanhistory-org/musical-concerts-159|TAH #159 Formosan Chamber Music Society / Jenny Lin Piano (10/25/2002)]]. This places her within the Formosan/Taiwanese-American musical community circuit in the early 2000s, alongside peers like Gwhyneth Chen and the Chiang twins documented in the same concert series.
+- The corpus also records her as a performer of new work by Taiwanese-American composer Ying-Chen Kao 高盈真 — Kao's TAH encyclopedia entries [[works/taiwaneseamericanhistory-org/21-ying-chen-kao-e9-ab-98-e7-9b-88-e7-9c-9f-composer|TAH #21 Ying-Chen Kao, Composer]] and [[works/taiwaneseamericanhistory-org/518-ying-chen-kao-e9-ab-98-e7-9b-88-e7-9c-9f-201507|TAH #518 高盈真 (2015/07)]] list "pianist Jenny Lin" among the musicians who have performed her commissions, alongside cellist Michael Kannen and the Peabody circle. This is a community-connection fact: she is archived as an interpreter of the movement's own composers, not only as a recitalist.
+- Catalog placement: her Who's Who entry sits in the same musician-series batches as [[people/min-kuei-yang|Min-Kuei Yang 楊閔貴]] ([[works/taiwaneseamericanhistory-org/whoswho1091|TAH #1091]]) — the roster of pianists the TAH Foundation chose to archive.
 
 ## Vault Record Notes
 - TAH story records held in vault: [[works/taiwaneseamericanhistory-org/whoswho1089|TAH #1089 Jenny Lin 林佳靜 (2016/06)]], [[works/taiwaneseamericanhistory-org/musician16|TAH #16 Jenny Lin 林佳靜, Pianist (2014/10)]], [[works/taiwaneseamericanhistory-org/520-jenny-lin-e6-9e-97-e4-bd-b3-e9-9d-9c-201507|TAH #520 林佳靜 (2015/07)]], [[works/taiwaneseamericanhistory-org/musical-concerts-159|TAH #159 Formosan Chamber Music Society / Jenny Lin Piano (2002-10-25)]]
@@ -65,3 +67,4 @@ Re-check 2026-09-17 (slice 09170500-3): hit set again unchanged (own #16/#159/#1
 Re-check 2026-09-18 (slice 09180131-2): hit set again unchanged (own #16/#159/#1089 records + works index; #520 linked above). SKIP: no new absorbable facts.
 Re-check 2026-09-20 (slice 09181500-1): hit set again unchanged (own #16/#159/#1089 records + works index; #520 linked above). SKIP: no new absorbable facts.
 Re-check 2026-09-21 (slice 09201300-1): hit set again unchanged (own #16/#159/#1089 records + works index; #520 linked above). SKIP: no new absorbable facts.
+Re-check 2026-10-10 (slice 10090700-31): widened grep beyond 林佳靜/Jenny Lin to surname/variant forms across all five corpus dirs. Two previously uncited community connections found and absorbed into Role in the Community: (1) she is named as a performer of Ying-Chen Kao 高盈真's commissions in Kao's own TAH records #21/#518 — archived as an interpreter of movement composers; (2) same-batch catalog placement with Min-Kuei Yang 楊閔貴 (#1091). No date/age conflicts to hold. Disambiguation stands: "Jenny Lin" hits in [[people/jenny-m-lin-chang|Jenny M. Lin Chang 張美華]] context refer to a different person.
