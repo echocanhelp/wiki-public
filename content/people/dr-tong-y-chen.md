@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Dr. Tong Y. Chen (陳東榮醫師)
 
@@ -48,7 +48,7 @@ His material culture of the diaspora is itself a historical source: TAH encyclop
 - Published essays archived in-vault: [[works/taiwaneseamericanhistory-org/125-e5-90-b3-e6-b0-b8-e5-90-89-e5-b8-b6-e8-91-97-e4-b8-80-e8-a2-8b-e6-84-9b-e5-b||TAH #125, 吳永吉——帶著一袋愛心走天涯 (2014-10)]], [[works/taiwaneseamericanhistory-org/mystories483||TAH #483, 感恩節的火雞大餐 (2016-11)]] and [[works/taiwaneseamericanhistory-org/mystories496||TAH #496, 聖誕假期的三溫暖 (2016-12)]]; his writings are also listed in the 台美人醫師 contributor roster of [[works/taiwaneseamericanhistory-org/ourjourneys291||TAH #291, 台美人醫師 overview / 黃哲陽 (2017-05)]].
 - Co-founder of the Taiwanese American Association of Charlotte (1992); chapter activity is recorded at [[works/taiwaneseamericanhistory-org/activities-of-taa-nc||TAA/NC activities]].
 - Career trail absorbed from the TAH Who's Who tables above: Kaohsiung Medical University M.D. 1968 → surgical training Taipei Veterans General Hospital (1969), Lloyd Noland Hospital Alabama (1972), University of Rochester (1973) → Temple University 1974-1978 → Presbyterian Anesthesia Associates and chair of anesthesia, Presbyterian Matthews Hospital, Charlotte 1978-2008.
-- He appears in the in-vault lecture/contributor roster of [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]] (Dr. 陳東榮, including a talk titled 瀕死經驗); treat as a name match pending confirmation of identity.
+- He appears in the in-vault lecture/contributor roster of [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]] (Dr. 陳東榮, including a talk titled 瀕死經驗); the 2015-02 長青教室 roster of [[works/taiwaneseamericanhistory-org/ourjourneys107||TAH #107, 長青教室 sponsored by Irvine台灣長老教會 (2015-02)]] carries a direct wikilink to this page, confirming the identity match.
 
 ## From the record
 
@@ -60,6 +60,8 @@ His material culture of the diaspora is itself a historical source: TAH encyclop
 - 複核（TJJ-A09250400-9, 2026-09-25）：本 slice 文章 14114a89（陳東榮醫師麻醉演講心得報告, 2024-06-14 存檔）正文再驗證——本頁 subject 連結為真，無錯鏈、無虛鏈；2018-03-14 條目（已補掛該文快照 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09240500-5, 2026-09-25）：本 slice 文章 23e163f71d3f2ba5（長青教室標籤頁, 2024-05-23 快照）正文再驗證——「【長青教室心得報告】摘下口罩，談麻醉醫師的角色 ◎ 陳東榮醫師 2018-03-14」確認見於正文，連結為真；上方 2018-03-14 日期事實已在庫（引 c691e327b9133c1a 快照）— SKIP，無新材料。
+- 2015-04 — 譯著：Charlene Chen 著《一位台美人第二代在非洲的故事——走出溫室，挑戰未知 / Beyond the Comfort Zone》漢文版（陳東榮 譯）—— [[works/taiwaneseamericanhistory-org/mystories230-2||TAH #230 漢文版 (2015-04)]] 與 [[works/taiwaneseamericanhistory-org/230-e4-b8-80-e4-bd-8d-e5-8f-b0-e7-be-8e-e4-ba-ba-e7-ac-ac-e4-ba-8c-e4-bb-a3-e5-9||TAH #230 English version (2015-04)]]。作者 Charlene Chen 疑似 [[people/charlene-chen|Charlene Chen (陳怡林)]]（Bit Pesa 共同創辦人，非洲跨境支付）——HOLD: name match pending confirmation, not auto-merged.
+- 2015-02 — 於 Irvine台灣長老教會（ITPC）贊助之長青教室主講「冠狀動脈疾病」與「望遠鏡看非洲」兩場（[[works/taiwaneseamericanhistory-org/ourjourneys107||TAH #107, 長青教室 (2015-02)]]；該記錄掛有本頁 wikilink）。
 - 2018-03-14 — 於長青教室演講「摘下口罩，談麻醉醫師的角色」，聽眾心得報告刊於台灣公義報「台美人台加人」分類（2018-03-21 刊登，後附影音）（[[articles/taiwanjustice-net/2024/20240719125457_root_c691e327b9133c1a|TJJ tag 心得報告, 2024-07-19 存檔]]；TJJ-A09231000-7 補掛同文快照 [[articles/taiwanjustice-net/2024/20240614152841_root_14114a89e393f958|14114a89, 2024-06-14 存檔]]）。
 - 複核（TJJ-A09171200-11, 2026-09-24）：本 slice 文章 14114a89（陳東榮醫師麻醉演講心得報告, 2024-06-14 存檔）正文再驗證——本頁相關提及確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09230400-4, 2026-09-24）：本 slice 文章 23e163f71d3f2ba5（長青教室標籤頁, 2024-05-23 快照）正文再驗證——「【長青教室心得報告】摘下口罩，談麻醉醫師的角色 ◎ 陳東榮醫師 2018-03-14」確認見於正文，連結為真；上方 2018-03-14 條目原僅掛 c691e327b9133c1a 快照，本快照連結補記於此（[[articles/taiwanjustice-net/2024/20240523001759_root_23e163f71d3f2ba5|TJJ 長青教室標籤頁, 2024-05-23 快照]]）。
