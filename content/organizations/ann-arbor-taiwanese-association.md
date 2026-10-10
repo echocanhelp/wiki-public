@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-10
 ---
 # Ann Arbor Taiwanese Association (安雅堡)
 
@@ -26,6 +26,11 @@ The Ann Arbor Taiwanese Association (AATA) is a community organization serving T
 - 2016-11-20 — the adjacent Ann Arbor Taiwanese Church marked its 40th anniversary ([[works/taiwaneseamericanhistory-org/important2016-30|30. 40th Anniversary of Ann Arbor Taiwanese Church on 11/20/2016.]]), indicating a 1976 founding; church and 同鄉會 formed overlapping pillars of Ann Arbor community life (church record page: [[works/taiwaneseamericanhistory-org/ann-arbor-taiwanese-church|Ann Arbor Taiwanese Church]]).
 - _Corpus re-scan 2026-09-23: fresh grep of works/articles for AATA/安雅堡/Ann Arbor Taiwanese returns the same hits (ann-arbor-democratic, ourjourneys321 & -eng, ourjourneys8, news-ann-arbor, important2016-30, ann-arbor-taiwanese-church); all absorbed above — verified saturated, no new community facts._
 - Corpus re-grep 2026-09-25 (slice 09240500-11): hit set identical to absorbed records (ann-arbor-democratic, ourjourneys321 & -eng, ourjourneys8, news-ann-arbor, important2016-30); no new corpus material; verified saturated.
+- Early campus baseball / Formosan Cup origin: the memoir credits Ann Arbor as the **first** university campus where early Taiwanese graduate students played baseball in the U.S. ("首推Ann Arbor"), later spreading to East Lansing, Detroit, and Syracuse — the memoir calls this the origin of the early Taiwanese-in-North-America softball/league play, the **福杯 (F.C., Formosan Cup)** ([[works/taiwaneseamericanhistory-org/ourjourneys185|Our Journeys 185]]).
+- Mutual aid in crisis: when a car accident injured members of the community, Ann Arbor residents **鄭明智 and 鄭蓮香 (married couple)** stayed behind to visit the injured in the hospital daily "for the sake of fellow Taiwanese, not kin or duty" (per memoir [[works/taiwaneseamericanhistory-org/ourjourneys249|Our Journeys 249]]) — a community-remembered instance of the chapter's personal-aid ethos.
+- Chapter publications: beyond the 快訊, the chapter's print record includes [[works/taiwaneseamericanhistory-org/newsletters-of-ann-arbor-formosan-club|Newsletters of Ann Arbor Formosan Club 安雅堡台灣同鄉會鄉訊]], [[works/taiwaneseamericanhistory-org/newsletters-of-formosan-club-univ-of-michigan|Newsletters of Formosan Club, Univ. of Michigan]], and the local paper [[works/taiwaneseamericanhistory-org/taiwan-forum-ann-arbor-mi|Taiwan Forum, Ann Arbor 台灣論壇(安雅堡)]]; Ann Arbor also co-published the regional newspaper [[works/taiwaneseamericanhistory-org/taiwan-monitor|Taiwan Monitor 台風眼]] with the Detroit and Lansing chapters.
+- 1981 — the Ann Arbor network was one of the Mid-western regional groups (alongside Chicago, Lake Geneva, Cedar Lake, Iowa, Twin Cities, Cleveland, St. Louis, Toronto) that grew out of Christian Fellowship groups and jointly attended the 1981 National Taiwanese Conference at Calvin College, Michigan — described in memoir [[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys 81]] as the turning point for TAF's existence.
+- Corpus re-grep 2026-10-10 (slice 10090700-30): hit set gained seven not-yet-linked records — ourjourneys185, ourjourneys249, ourjourneys81, taiwan-monitor, taiwan-forum-ann-arbor-mi, newsletters-of-ann-arbor-formosan-club, newsletters-of-formosan-club-univ-of-michigan — all absorbed above; no date/age conflicts to HOLD. Remaining hits (ann-arbor-democratic, ourjourneys321 & -eng, ourjourneys76 & -eng, ourjourneys8, news-ann-arbor, important2016-30, ann-arbor-taiwanese-church, ann-arbor-chapter-taa) already absorbed.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/ann-arbor-taiwanese-association/)
