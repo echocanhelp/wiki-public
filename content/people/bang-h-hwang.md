@@ -116,3 +116,7 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A100607004-c: verified 2026-10-09 — wave-2 link+deepen re-check of article 89e6683c93156205 (台美人台加人 p356, 2024-05-20快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607009-b: verified 2026-10-09 — wave-2 link+deepen re-check of article 23e163f71d3f2ba5 (長青教室標籤頁, 2024-05-23快照) read fresh this attempt: subject link re-checked vs 正文 — 「長青教室心得報告-黃金年華膀胱的呼聲 ◎ 黃邦雄醫師 2018-11-02」確認見於正文, real, no wrong/spurious links; 2018-11-02 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090701-23: verified 2026-10-10 — wave-2 link+deepen re-check of article 89e6683c93156205 (台美人台加人 p356, TJJ 2016-05-17 條目 / 2024-05-20 快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090701-27: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-27 article a75a6e8c12e18729 (台美人台加人 popular 分類頁, 2025-04-30 快照) read fresh this attempt: 「人類乳突病毒與疫苗的認識[影] ◎ 黃邦雄醫師」條目確認見於正文; subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
