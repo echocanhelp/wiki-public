@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Dr. Gichiong Khu (邱義昌博士)
 
@@ -49,6 +49,8 @@ Accomplishment
 - 英文版對照：[[works/taiwaneseamericanhistory-org/ourjourneys8-eng||TAH #8 (EN) founding-account of the Chen Wen-Chen Memorial Foundation]]。
 - 本人 TAH 百科記錄亦已入 vault：[[works/taiwaneseamericanhistory-org/whos-who-1460-gichiong-khu||TAH #1460 Dr. Gichiong Khu 邱義昌博士]]（書目紀錄；與上列傳記/回憶錄記錄互為對照）。
 - Reciprocal: [[people/sue-chiu||Sue Chiu 黃雪香]]'s page lists Husband 邱義昌; her own TAH page records a NTU 植物病蟲害 B.S. — the couple share the same NTU phytopathology academic background.
+- [[works/taiwaneseamericanhistory-org/ourjourneys329||TAH #329 回憶三十三年來美東文成杯網球賽的活動 (邱義昌自述, 12/2017)]] — 邱義昌親撰回憶錄：文成杯创办四旨（表揚陳文成崇尚體育群育、促進團隊精神、以球技會友擴增友誼並提高台灣意識認同、協助基金會募款）；他於 1993-07-03（台灣公論報1171期）發表〈十歲的美東文成網球杯簡介〉紀念陳文成遇害十週年，基金會同年 6-22 於紐約台灣會館辦十週年紀念會。
+- [[works/taiwaneseamericanhistory-org/ourjourneys5-9-11-donations-2002||TAH #5 911捐款義助受難者家屬 (邱義昌, 2014/09, 原載2002-04-16公論報1925期)]] — 以其 TAA 會長任內視角自述：全美近五十個分會兩三個月內募得十八萬餘美元（2.4萬餘捐國防大廈遺屬），16.6萬餘美元於 2002-02-02 大紐約同鄉會年會經劉醇逸（John Liu）安排、3-21 於紐約市議會正式捐給 911 世貿受難消防員遺寡孤基金會。
 
 Club/foundation roles on this page map to vault pages: [[organizations/taiwanese-association-of-america||TAA]], [[organizations/taiwanese-association-of-america-new-jersey||TAA New Jersey]], [[organizations/professor-chen-wen-chen-memorial-foundation||Professor Chen Wen-Chen Memorial Foundation]].
 
@@ -65,3 +67,4 @@ All facts above are absorbed from vault pages of the cited TAH encyclopedia entr
 （複掃 2026-09-15，slice 09150400-19：SKIP）再掃結果不變——邱義昌／Gichiong Khu 於 works／articles 命中仍僅 ourjourneys8（含 EN）、ourjourneys156、mystories-791、publications284、whos-who-1460 五筆已連結出處頁，無新增社群一手材料。
 （複掃 2026-09-15，slice 09150500-10：SKIP）重掃結果不變——命中仍僅上述五筆已連結出處頁，無新增社群一手材料——維持 **SKIP（出處已全數連結）**。
 （覆核 deepen-x slice 09150600-2，2026-09-15：SKIP）重掃結果不變——命中仍僅 ourjourneys8（含 EN）、ourjourneys156、mystories-791、publications284、whos-who-1460 五筆已連結出處頁，無新增社群一手材料——維持 **SKIP（出處已全數連結）**。
+（deepen-x slice 10091316-19，2026-10-10：**DEEPENED**）本輪全語料重掃（邱義昌／Gichiong／義昌）新命中兩筆本人親撰一手材料，先前輪次未收——ourjourneys329（2017 年文成杯三十三週年自述回憶錄：创办四旨、1993 十週年紀念文與紀念會）與 ourjourneys5-9-11-donations-2002（2002 年 911 捐款自述，以 TAA 會長身分經劉醇逸安排移交 16.6 萬美元予受難消防員遺眷基金會）——已吸收於 Vault record 並連結原文頁。無衝突資料需 HOLD。
