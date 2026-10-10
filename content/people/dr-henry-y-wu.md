@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Dr. Henry Y. Wu (吳銀鏤醫師)
 
@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-10-06 (slice 10051340-2): fresh ZH+EN grep across works/articles/sources/events/topics returns the hit set already absorbed+wikilinked above. Verified-saturated; SKIP-no-new-facts.
 - Corpus re-grep 2026-10-08 (slice 10062334-2): fresh ZH+EN grep (吳銀鏤 / Henry Y. Wu) across works/articles/sources/events/topics returns the identical hit set (ourjourneys24/-eng, ourjourneys53-eng, whos-who-1875, index), all already absorbed+wikilinked above. Verified-saturated; SKIP-no-new-facts.
 <!-- deepen-x 10080500-7: re-verify 2026-10-09 — fresh ZH+EN grep (works/articles/sources/events/topics): hit set identical (OJ#24/-eng, OJ#53/-eng, TAH #1875, works/index); no new facts. Link repair: added missing wikilink to the ZH original ourjourneys53 (only its -eng twin was linked before). Verified-saturated. -->
+
+<!-- deepen-x 10090900-7: re-verify 2026-10-10 — fresh ZH+EN grep (吳銀鏤 / Henry Y. Wu) across works/articles/sources/events/topics: hit set identical (ourjourneys24/-eng, ourjourneys53/-eng, whos-who-1875, works/index, sources registry stub); all facts absorbed+wikilinked; no new community facts. Verified-saturated; SKIP-no-new-facts. -->
