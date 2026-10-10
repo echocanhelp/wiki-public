@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Dr. Rex Yu (余忠村博士)
 
@@ -94,3 +94,9 @@ Accomplishment
 <!-- TJJ-A10060400-18: verified 2026-10-07 — wave-2 re-check of slice 10060400-18 article 3246c11d0909b4fe (洛僑中心攜手台灣會館「台灣‧藝象」首場講座公告, 2018-08-25) 正文再驗證——余忠村博士任主講人分享民俗戲曲音樂確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2018-08-31 條目已在庫 — saturated, no new material. -->
 <!-- TJJ-A10060800-8: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060800-8 article 23da543a315a1fa1 (228七十週年紀念公告轉會館會訊, 2024-05-30快照): subject link re-checked vs 正文 this attempt (「台灣會館聘請室內專家余忠村博士主持海外的佈展」), real, no wrong/spurious links; 2017-02-17 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10070800-5: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-5 article 3246c11d0909b4fe (洛僑中心攜手台灣會館「台灣‧藝象」講座公告, 2018-08-25 刊／2024-05-22 快照): subject link re-checked vs 正文 this attempt (余忠村博士任主講人分享民俗戲曲音樂確認見於正文), real, no wrong/spurious links; 2018-08-31 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## Role in the Community (corpus-absorbed, deepen-x slice 10081500-15)
+
+- 1997 — 台灣人權鬥士王泰和創設「台灣之友社」(Friends of Taiwan) 之初，余忠村博士時任副會長；他認為美國獅子會總部派來協助創辦台灣人獅子會的 Ted Anderson 更為適任，「願意讓賢」把副會長位置讓給 Anderson，Anderson 後出任台灣之友社會長歷十餘年（王泰和 2022-07-12 追思專訪口述，見 [[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ 專訪]]；社團頁 [[organizations/friends-of-taiwan|Friends of Taiwan]]）。此為本頁首條台灣之友社記載，與既有獅子會記載同屬創會期社團史。
+- 2023-06-10 — 大洛杉磯台灣會館年度會員大會當日（8號會議室），余忠村老師特製藝術品義賣活動舉行，展出其精心設計的寶石裝飾品、檯燈組合、油畫及古典典藏裝飾藝術品，每件獨一無二限量收藏；義賣所得全數捐給台灣會館（[[articles/taiwanjustice-net/2025/20250215233138_余忠村老師特製藝術品義賣活動6月10大洛杉磯台灣_67af8b6cf986ed4f|TJJ 報導, 2023-06-07 刊]]；另快照 [[articles/taiwanjustice-net/2024/20240225021610_root_7e6eedc07f34fb1a|2024-02-25 存檔]]）。
+- 2024-11-16–22 — 台灣會館會訊標題載「余忠村夫婦義賣多年珍藏藝術品支持台灣會館」——夫婦二人連年以收藏義賣支持台灣會館，與 2023 年義賣同屬其一貫的會館支持紀錄（標題見 [[articles/taiwanjustice-net/2025/20250514013542_category_taiwancenter_page_3_df5ddf626338d791|台灣會館 category 頁]]；全文未入庫，僅標題級佐證）。
