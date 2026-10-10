@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-10-10
 ---
 # Jung Lin (林容光)
 
@@ -59,3 +59,7 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/musician400||400. Jung Lin 林容光, Pianist & Composer / 05/2017]] — TAH encyclopedia #400
 - [[works/taiwaneseamericanhistory-org/whos-who-1664-jung-lin||1664. Jung Lin 林容光]] — TAH Who's Who #1664
 - Disambiguation: not to be confused with violinist Anita Chia Jung Lin 林佳蕙 ([[people/anita-chia-jung-lin|Anita Chia Jung Lin]]) or [[people/prof-pei-jung-lin|Prof. Pei-Jung Lin]].
+
+## Corpus Sweep Notes
+
+- Corpus re-grep (slice 10091404-27, 2026-10-10): 林容光／Jung Lin／surname 與作品關鍵詞（The Black Wedding、Medtner、Gala Chopin、Harth-Bedoya、David Diamond）全庫再掃——命中面不變：本人百科記錄 [[works/taiwaneseamericanhistory-org/musician400|TAH #400]] 與 [[works/taiwaneseamericanhistory-org/whos-who-1664-jung-lin|TAH #1664]]、works/index 與 sources 索頁，以及同儕條目互列（[[people/charles-w-tang|Charles W. Tang]] 記為同門 Martin Canin 茱莉亞鋼琴學生）。注意假性命中面：[[sources/ntcpetv-ptsi-bio]] 與 [[sources/conbrio-board-bio]] 的 "Martin Canin" 命中屬鋼琴家陳毓襄傳記之師承敘述，非本頁人物；"Jung Lin" 子串另命中 Prof. Pei-Jung Lin、Anita Chia-Jung Lin 等姓名相近之另一人。無新增回憶錄／社群一手語料可吸收，無衝突須 HOLD，SKIP-with-reason。
