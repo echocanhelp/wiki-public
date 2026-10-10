@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Dr. Chi-Wan Lai (賴其萬醫師)
 
@@ -55,3 +55,9 @@ Assistant Professor, Director of Epilepsy Center, Director of EEG Physiology, As
 ## 醫學人文與翻譯（deepen-x 2026-09-14、vault-only）
 
 - 林衡哲的TAH回憶錄記載：賴其萬與廖運範、林克明、胡海國、文榮光、葉頌壽、王溢嘉等台灣醫學界理想主義者一起，為志文出版社「新潮文庫」譯介佛洛伊德等精神醫學大師作品，並創刊「當代醫學雜誌」；賴其萬本人譯出佛氏經典「夢的解析」，被林衡哲稱為國內醫學人文教育的領航者，並長期擔任新潮文庫的股東同仁。出處：[[works/taiwaneseamericanhistory-org/ourjourneys70||TAH #70 各位敬愛的股東同仁平安 / 林衡哲]]（2014-12-02）。
+
+## 台灣的語言論戰的回響（deepen-x 2026-10-10、vault-only）
+
+- 本人著作「台灣的語言－我的心路歷程」（TAH #200）出版後，引發 2016 年 3 月台美人醫師圈的语言論戰：[[works/taiwaneseamericanhistory-org/ourjourneys201||TAH #201 也談「台灣的語言」/ 李汝城]] 記述 1997-04-19 費城北美洲台灣人醫師協會年會「聽無宰仔」爭議與新州中美醫學會以英語發言的對照，並回應賴其萬對母語溝通的主張。
+- [[works/taiwaneseamericanhistory-org/ourjourneys203||TAH #203 我對母語的看法及所持的態度 / 林榮松]] 明言「我所尊敬的賴其萬教授曾兩度為文」才投入母語立場的討論，可見本人文章對台美人醫師母語認同議題的觸發作用。
+- 本人的專欄文章也收錄於黃哲陽匯編的台美人醫師文選：[[works/taiwaneseamericanhistory-org/ourjourneys291||TAH #291 台美人醫師 overview / 黃哲陽]]（該書第 20 篇即本人的「一對使我以台大人為榮的學長」，與已連結的 [[works/taiwaneseamericanhistory-org/mystories324||TAH #324]] 同篇）。
