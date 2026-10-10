@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-09
 ---
 # Gin Ru Yeh (葉錦如)
 
@@ -42,6 +42,9 @@ Accomplishment
 - 2004 — Received the 「2004年美國遠景獎」 (2004 Vision in America Award): [[works/taiwaneseamericanhistory-org/winners13|TAH Winners #13]].
 - 2017-03-21 — In Houston, hosted and accompanied Houston Arts Alliance folklorife/civic-engagement director Pat Jasper and program manager Angel Quesada on their first visit to the 台灣人活動中心, arranged via the 台灣人傳統基金會 ([[works/taiwaneseamericanhistory-org/ourjourneys328|TAH Our Journeys #328 休士頓台灣人傳統基金會對大休士頓地區社區服務的參與, 蕭文源 12/2017]]).
 - 1991 — Named to the 募款委員會 formed after the 休士頓台灣人活動中心 (Taiwanese Community Center of Houston) building purchase closed 1991-07-17; one of 17 committee members under 召集人楊朝諭. She is later thanked (with 莊勝義、郭珠貞、林秋成) for reviewing the center's retrospective memoir ([[works/taiwaneseamericanhistory-org/ourjourneys233|TAH Our Journeys #233 回顧休士頓台灣人活動中心的成立, 2002/07]]).
+- 1991–1992 & 1997–1998 — One of the hosts (主持人) of the NATWA 「婦女信箱」 advice column in 《台灣公論報》 (later also 《自立週報》海外版), per the column's own history by 阿香(吳美芬) ([[works/taiwaneseamericanhistory-org/ourjourneys161|TAH Our Journeys #161 婦女信箱的歷史, 阿香 2015/08]]).
+- c. 1988–1990 (undated recollection) — Instrumental in the founding of 休士頓台灣語文學校: 蔡淑媛 recalls meeting her by chance at 「小美冰果室」 in the 頂好商圈, where she introduced her husband 李雅彥醫師 — who, learning 蔡淑媛 taught Chinese at Ballaire High School, opened with 「咱著愛來辦一間學校。」 The encounter is told in the school's founding memoir ([[works/taiwaneseamericanhistory-org/ourjourneys36|TAH Our Journeys #36 此情可待成追憶—休士頓台灣語文學校創建記, 蔡淑媛 09/2014]]). HOLD: the encounter's date is not fixed in the source (「兩年後」 after 蔡淑媛's teaching post; no year given).
+- 2004-08 — Hosted/moderated the 「兩代對談」 (two-generation dialogue) Sunday session at the 2004 美南夏令會 (Southern U.S. Taiwanese summer camp), credited by camp secretary-general 王明珠 as 「一個好兮開始」 for台美人's future direction ([[works/taiwaneseamericanhistory-org/ourjourneys319|TAH Our Journeys #319 2004年美南夏令會, 王明珠 10/2017]]).
 
 ## Sources
 - [TAH #176 encyclopedia: 176. Gin Ru Yeh 葉錦如](https://taiwaneseamericanhistory.org/176-gin-ru-yeh/)
@@ -49,6 +52,7 @@ Accomplishment
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/gin-ru-yeh/)
 
 ## From the record
+- 複核（DEEPEN-X10080958-13, 2026-10-09）：fresh grep 葉錦如|Gin Ru Yeh across works/articles/sources/events/topics (14 files) surfaced 3 previously-unabsorbed records — ourjourneys161 (婦女信箱主持人 1991–92, 1997–98), ourjourneys36 (休士頓台灣語文學校創建記, 李雅彥「咱著愛來辦一間學校」encounter), ourjourneys319 (2004 美南夏令會兩代對談主持) — all absorbed into Role in the Community with wikilinks. Other hits (ourjourneys112/233 ±EN/328/60, winners13, 176/823, a428dceb) already cited. 1 HOLD: 語文學校 founding-encounter date undated in source.
 - 複核（TJJ-A09250400-3, 2026-09-25）：本 slice 文章 a428dceb 正文再驗證——gin-ru-yeh 對應真實（記述確認見於正文），無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 
 
