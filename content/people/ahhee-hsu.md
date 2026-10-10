@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Ahhee Hsu (許丕龍)
 
@@ -35,11 +35,12 @@ Accomplishment
 - Producer-side figure in the recorded music corpus: the 蕭泰然作品專輯《台灣人的詩篇》tape (1987/06) is catalogued under his name [[works/taiwaneseamericanhistory-org/649-e5-8f-b0-e7-81-a3-e4-ba-ba-e7-9a-84-e8-a9-a9-e7-af-87-e8-95-ad-e6-b3-b0-e7-8|649. 台灣人的詩篇 / 許丕龍 / 1987/06 / TAPE]].
 - Father–daughter two-generation music story with daughter 許景淳 documented by 林蓮華 [[works/taiwaneseamericanhistory-org/258-e8-a8-b1-e4-b8-95-e9-be-8d-e8-88-87-e8-a8-b1-e6-99-af-e6-b7-b3-e5-85-a9-e4-b|258. 許丕龍與許景淳 兩代音樂傳奇 / 林蓮華 / 2015/05]].
 - Named as a consultant on the Taiwanese American Citizens League preparatory committee roster (台灣公論報 #369, 1985-04-15), alongside 王桂榮, 江昭儀, 陳惠亭, 蕭泰然 and 蔡銘祿 [[works/taiwaneseamericanhistory-org/ourjourneys186|186]] [[works/taiwaneseamericanhistory-org/ourjourneys186-eng|186 (English)]].
-- Early movement funding: donated US$1,000 at the launch of the 「台灣之音」 phone line from Los Angeles; his elder brother 許登龍醫師 was godfather at the author's daughter's baptism [[works/taiwaneseamericanhistory-org/ourjourneys2|Our Journeys 2]].
+- Early movement funding: donated US$1,000 at the launch of the 「台灣之音」 phone line from Los Angeles; his elder brother 許登龍醫師 was godfather at the author's daughter's baptism [[works/taiwaneseamericanhistory-org/ourjourneys2|Our Journeys 2]]. The same memoir's fundraising account lists the Hsu brothers' contributions together — 許登龍's brother 許左龍医师 supplied 50 copies of the 《大家唱》 songbook as donor gifts [[works/taiwaneseamericanhistory-org/ourjourneys2|OJ 2]].
 - The first 感恩節音樂會 (1982-11-12, Crystal Cathedral) is recorded as having led to the founding of the 南加州台灣人聯合基金會 (TUF) [[works/taiwaneseamericanhistory-org/ourjourneys70|Our Journeys 70]]; the TUF founding memoir records one of TUF's first acts as a Juilliard-scholarship benefit for violinist Linda Wang's sisters, hosted under 許丕龍 [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys 301]].
 - TACL founding: the first preparatory-committee meeting was held in his Monterey Park office (attended by incoming 萬通銀行 president 吳澧培); 許丕龍 declared himself an observer at that meeting [[works/taiwaneseamericanhistory-org/ourjourneys272|Our Journeys 272]] — read together with the consultant-roster note above (HOLD: roster credit vs his own account of attending only as observer).
 - 2018: his own memo of 2018-08-20 records him producing the 2018-08-09 蕭泰然音樂節 at Walt Disney Concert Hall with the NTSO under 劉玄詠, the U.S. premiere of the 蕭泰然鋼琴協奏曲 by 陳毓襄 — whom his wife 蔡瀛如 had introduced to 蕭泰然 [[works/taiwaneseamericanhistory-org/ourjourneys340|340. 寫在泰然音樂節前夕 / 2018-08]]; the companion record notes ~2,300 listeners and that the 出頭天進行曲 (蕭泰然作曲、許丕龍作詞, adapted from We Shall Overcome) was a 黨外 campaign staple [[works/taiwaneseamericanhistory-org/ourjourneys339|Our Journeys 339]].
-- He writes that he returned to Taiwan for public office in the 1990s and was abroad 20+ years [[works/taiwaneseamericanhistory-org/ourjourneys340|#340]] — consistent with the National Assembly service in his TAH table.
+- He writes that he returned to Taiwan for public office in the 1990s and was abroad 20+ years [[works/taiwaneseamericanhistory-org/ourjourneys340|#340]] — consistent with the National Assembly service in his TAH table. In the same 2018 memo he recalls producing **two** Southern California 感恩節音樂會 at the 3,000-seat Crystal Cathedral «三十六年前，筆者策劃的兩次南加州感恩節音樂會» [[works/taiwaneseamericanhistory-org/ourjourneys340|OJ 340]] — the corpus dates the first (1982-11-12); the second is attested only in his own account (HOLD: single-source count).
+- 2018 蕭泰然音樂節 (Walt Disney Concert Hall): named as one of three 召集人 — 田詒鴻 [[people/alan-thian|Alan Thian (田詒鴻)]], 陳文石 [[people/chen-wenshi|Stone Chen (陳文石)]], and himself — with 蕭傑文夫婦 running the 蕭泰然基金會 side and the 南加州教會合唱團 in long-term co-performance [[works/taiwaneseamericanhistory-org/ourjourneys339|Our Journeys 339]].
 - Memorial author/producer on record: his father 許贊育 profile #275, the 蕭泰然 南加州追思會 reminiscence #277, and the 許贊育教師追思禮拜 CD #655 (all band B, bibliographic) [[works/taiwaneseamericanhistory-org/mystories275|275]] [[works/taiwaneseamericanhistory-org/mystories277|277]] [[works/taiwaneseamericanhistory-org/655-e8-a8-b1-e8-b4-8a-e8-82-b2-e6-95-99-e5-b8-ab-e8-bf-bd-e6-80-9d-e7-a6-ae-e6-8|655]].
 - Who's Who entry archived as [[works/taiwaneseamericanhistory-org/whos-who-2267-ahhee-hsu|2267. Ahhee Hsu 許丕龍]].
 
@@ -114,6 +115,7 @@ Accomplishment
 - Corpus re-check 2026-09-16 (deepen-x slice 09160600-7): re-grep 許丕龍/Ahhee Hsu hit set identical again (#2267, #649 tape, #258, #172, ourjourneys186 ZH/EN) — all already absorbed in Role in the Community. SKIP-with-reason; page saturated.
 - Corpus re-check 2026-09-16 (deepen-x slice 09160700-3): re-grep widened the hit set — OJ 2 (台灣之音 US$1,000 early donation), OJ 70 (1982-11-12 concert date + TUF genesis), OJ 272 (TACL first prep meeting in his Monterey Park office), OJ 301 (TUF Linda Wang Juilliard benefit), OJ 339 + #340 (2018 蕭泰然音樂節 at Disney Hall; 出頭天進行曲 lyric credit). All absorbed into Role in the Community; one HOLD recorded (TACL roster credit vs observer self-account). 1982 Crystal Cathedral ~3,000 vs 2018 Disney ~2,300 are different events, not a conflict.
 - Re-verify 2026-09-22 (TJJ-A09220400-7): link-check against slice article 2fa1c26a7ca674e2 body — mention confirmed real, dated fact above stands; no new material.
+- Corpus re-check 2026-10-09 (deepen-x slice 10080951-9): re-grep 許丕龍/Ahhee across works+articles+sources+events+topics (24 hits) — hit set otherwise identical to prior checks, but three details in OJ 339/340/2 not previously absorbed: (1) his own 2018 memo says he produced **two** Crystal Cathedral 感恩節音樂會 (second one single-source → HOLD); (2) he was one of three 召集人 of the 2018 蕭泰然音樂節 with 田詒鴻 [[people/alan-thian|Alan Thian]] and 陳文石 [[people/chen-wenshi|Stone Chen]]; (3) brother 許左龍's 《大家唱》 songbook donation in the 台灣之音 fund drive. All three absorbed above.
 
 ## Related Pages
 - [[people/c-y-hsu||Tsan Yu Hsu 許贊育]] — father
