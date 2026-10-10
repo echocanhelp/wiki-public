@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-09
 ---
 # Eileen Chang (楊宜宜)
 
@@ -78,6 +78,10 @@ Facts absorbed from the TAH encyclopedia entries already cited on this page:
 
 - 2024-06-08 — 慈林教育基金會「撕開黑幕的光：海內外人權救援暨北美台灣之音聯展」設「台灣之音—在縫隙裡聽見自由」單元，向1977年由張富雄、楊宜宜夫妻在紐約以電話答錄系統創立的「台灣之音 The Voice of Taiwan」致敬（[[articles/taiwanjustice-net/2025/20250814164746_海內外人權救援聯展-慈林教育基金會登場_向北美_c082b03671e7c8ee|TJJ, 2024-06-08]]）。
 - 2024-06-08 — Second TJJ copy of the CNA report (中央社記者沈如峰) on the 慈林教育基金會联展（至年底）: the exhibition also covers 彭明敏's 1964 「台灣人民自救運動宣言」 arrest and the 1970 「X計畫」 escape aided by 宗像隆幸's forged Japanese passport ([[articles/taiwanjustice-net/2024/20240622115321_root_2a0ba680f2b8720a|TJJ, 2024-06-08]]).
+
+- 2014-08-18 — 楊宜宜 published her own essay 「歸家」 in the My Stories corpus ([[works/taiwaneseamericanhistory-org/mystories3|My Stories #3, 歸家 / 楊宜宜, 2014-08-18]]); a second essay 「橄欖山頂的醒悟」 followed on 2014-08-19 ([[works/taiwaneseamericanhistory-org/mystories4|My Stories #4, 橄欖山頂的醒悟 / 楊宜宜, 2014-08-19]]). Both are first-person writings by her, held as bibliographic records in the vault.
+- 2014-12 — 楊宜宜 authored 「『台灣宣教基金會』緣起」, her own account of the origins of Taiwan Mission, recorded in the corpus ([[works/taiwaneseamericanhistory-org/73-e3-80-8c-e5-8f-b0-e7-81-a3-e5-ae-a3-e6-95-99-e5-9f-ba-e9-87-91-e6-9c-83-e3-80|corpus #73, 楊宜宜, 2014/12]]).
+- 1977-05-01–1982-02-26 — the New York 「台灣之音」 hotline founded by 張富雄 and 楊宜宜 ran from 1977-05-01 to 1982-02-26 (nearly five years), per the community-history essay in Our Journeys #357; the essay credits the phone-answering-machine concept to the New York couple ("這個創意，來自紐約的張富雄、楊宜宜夫婦") and frames it as an appropriation of new technology that built an overseas Taiwanese "訊息圈" — the same reading appears again in the essay's concluding passage ([[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]]). The same record notes the Bay Area 「灣區協志會台灣之音」 branch (1979-04-01–1982-12-31) as the most prominent satellite station inspired by the New York original.
 <!-- TJJ-A09240800-10: verified 2026-09-25 — subject links in slice 09240800-10 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A09240800-12: verified 2026-09-25 — subject links in slice 09240800-12 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
