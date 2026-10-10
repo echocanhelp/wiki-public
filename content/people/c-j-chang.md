@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # C. J. Chang (張家禎)
 
@@ -55,3 +55,5 @@ last_reviewed: 2026-10-09
 Corpus re-grep 2026-10-08 (deepen-x slice 10062334-3): fresh ZH+EN grep (張家禎 / C. J. Chang) returned the identical record set (TAH #1807, works index, 台灣 justice UNLV 槍擊案 coverage 2023/2024/2025 + manifest) — all already cited above; no memoir or movement material to absorb. HOLD stands (TAH #1807 台大農機/OADS vs 報導海洋大學/UNLV). Verified saturated, SKIP-with-reason.
 
 Corpus re-grep 2026-10-09 (deepen-x slice 10080500-10): fresh ZH+EN grep (張家禎 / C. J. Chang / 家禎) across works/articles/sources/events/topics returned the identical 8-file record set — TAH #1807, works index, 台灣 justice UNLV 槍擊案 coverage 2023/2024/2025 + MANIFEST, and sources/taiwaneseamericanhistory-org (backlink only) — all already cited above; no memoir or movement material to absorb. HOLD stands. Verified saturated, SKIP-with-reason.
+
+Corpus re-grep 2026-10-10 (deepen-x slice 10090900-10): fresh ZH+EN grep (張家禎 / C. J. Chang / 家禎) across works/articles/sources/events/topics returned the identical record set — TAH #1807, works index, 台灣 justice UNLV 槍擊案 coverage 2023/2024/2025 + MANIFEST — all already cited above; no memoir or movement material to absorb. HOLD stands (TAH #1807 台大農機/OADS vs 報導海洋大學/UNLV). Verified saturated, SKIP-with-reason.
