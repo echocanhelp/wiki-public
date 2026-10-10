@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # Victor Hung (洪家棟)
 
@@ -36,13 +36,16 @@ _No filled family fields on the TAH profile._
 
 ## Role in the Community
 
-Victor Hung is active in the Los Angeles Taiwanese American community both as president of the American Six Kuen Brotherhood Association (美國六桂宗親會) and as a classical guitarist. In June 2024, as Six Kuen president, he hosted the photography exhibition 「台灣攝影經典展—龍躍台南400年」 at the Korean Cultural Center Los Angeles as part of the 2024 Greater Los Angeles Taiwanese American Heritage Week series (per the Taiwan Justice record of the festival). His own guitar recordings are held in the TAH encyclopedia: a 2003 guitar introduction CD and the 2003 music CD 「台北捷運狂想曲」.
+Victor Hung is active in the Los Angeles Taiwanese American community both as president of the American Six Kuen Brotherhood Association (美國六桂宗親會) and as a classical guitarist. In June 2024, as Six Kuen president, he hosted the photography exhibition 「台灣攝影經典展—龍躍台南400年」 at the Korean Cultural Center Los Angeles as part of the 2024 Greater Los Angeles Taiwanese American Heritage Week series (per the Taiwan Justice record of the festival). His own guitar recordings are held in the TAH encyclopedia: a 2003 guitar introduction CD and the 2003 music CD 「台北捷運狂想曲」. His association lineage runs deeper than his presidency: the 美國六桂文教基金會 published the 台灣歌樂經典系列展 music CD in 2004 ([[works/taiwaneseamericanhistory-org/541-e5-8f-b0-e7-81-a3-e6-ad-8c-e6-a8-82-e7-b6-93-e5-85-b8-e7-b3-bb-e5-88-97-e5-b|541. 台灣歌樂經典系列展 2004]]) and staged the 台灣歌樂經典系列展 expositions in El Monte across 2010–2017 ([[works/taiwaneseamericanhistory-org/concerts25|concerts25. Taiwanese Music Exposition]]) — records of the Six Kuen organization, not of Hung personally. Under his presidency the association kept a steady Heritage-Week presence: an online photography exhibition on 2021-06-05 during the pandemic-year Heritage Week ([[articles/taiwanjustice-net/2021/20210608030909_2021_05_25_2021年台美人傳統週及系列活動5月29日起跑_8531ec4cf23144a1|TJJ, 2021傳統週系列活動]]) and the 台灣攝影經典系列展 at the 洛杉磯華僑文教中心 on 2025-05-31 ([[articles/taiwanjustice-net/2025/20250518185808_2025大洛杉磯台美人傳統週隆重登場-文化融合綻放台_3ea94b0c1ab03c3e|TJJ, 2025傳統週]]).
 
 ## Timeline
 - 2003 — released guitar music CDs (吉他介紹片; 台北捷運狂想曲), archived in the TAH encyclopedia
 - 2014 — profiled in the TAH encyclopedia (60. Victor Hung 洪家棟) and in 李品高's essay 「吉他家洪家棟」
 - 2022-05-14~15 — as 美國六桂宗親會 president, hosted 「2022大洛杉磯台美人傳統週系列活動——美國加州登山越野攝影展」 at the 洛杉磯華僑文教中心; the show was his own photography — five years of California mountain/desert/rock scenery and Milky Way camping shots — shared with hikers and 鄉親 ([[articles/taiwanjustice-net/2022/20220519105743_2022_05_13_美國加州登山越野攝影展5月14-15日於洛僑中心展出_5702b6cdc12e8f54|TJJ, 2022登山越野攝影展]])
 - 2024-06 — as 美國六桂宗親會 president, hosted 台灣攝影經典展—龍躍台南400年 at the LA Korean Cultural Center during Taiwanese American Heritage Week (corroborated twice: 6月1-2日, 洛僑中心 — [[articles/taiwanjustice-net/2025/20250617113511_2024年大洛杉磯台美人傳統週系列活動4-20登場_5-18園遊_b5215d0aa05ace35|TJJ, 2024傳統週系列活動]] and [[articles/taiwanjustice-net/2024/20240429065124_root_55dbc6c8f41b2ad0|TJJ, 2024傳統週預告]])
+- 2021-06-05 — 六桂宗親會 online photography exhibition held as part of the 2021 大洛杉磯台美人傳統週 series (pandemic-year online programming; association-level event, Hung as president — [[articles/taiwanjustice-net/2021/20210608030909_2021_05_25_2021年台美人傳統週及系列活動5月29日起跑_8531ec4cf23144a1|TJJ, 2021傳統週系列活動]])
+- 2025-05-31 — 美國六桂宗親會 台灣攝影經典系列展 at the 洛杉磯華僑文教中心, one of two cultural events that day in the 2025 Heritage Week series ([[articles/taiwanjustice-net/2025/20250518185808_2025大洛杉磯台美人傳統週隆重登場-文化融合綻放台_3ea94b0c1ab03c3e|TJJ, 2025傳統週]])
+- 2004-05 / 2010–2017 — 美國六桂文教基金會 (Six Kuen lineage organization) issued the 台灣歌樂經典系列展 music CD ([[works/taiwaneseamericanhistory-org/541-e5-8f-b0-e7-81-a3-e6-ad-8c-e6-a8-82-e7-b6-93-e5-85-b8-e7-b3-bb-e5-88-97-e5-b|541. 2004 music CD]]) and ran the 台灣歌樂經典系列展 expositions in El Monte (2010/2011/2012/2017 — [[works/taiwaneseamericanhistory-org/concerts25|concerts25]]); organizational context, not Hung's own works
 
 ## Corpus re-check
 - Re-check (deepen-x slice 09260317-31, 2026-09-26): fresh ZH+EN re-grep 洪家棟／Victor Hung found TWO article hits not previously absorbed — TJJ 2022-05 登山越野攝影展 notice (absorbed into Timeline above) and TJJ 2024-04 傳統週預告 (second corroboration for the 2024 exhibition). Work hits (#522、#521、#104、whos-who-60) unchanged.
@@ -65,3 +68,4 @@ Victor Hung is active in the Los Angeles Taiwanese American community both as pr
 - Re-check (deepen-x 2026-09-22): re-grep（洪家棟 / Victor Hung）hit set unchanged（522、521、104、whos-who-60、works index、TJJ 傳統週）— 飽和，無新增社群材料。
 - Re-check (deepen-x slice-09230317-17, 2026-09-24): re-grep（洪家棟 / Victor Hung）hit set unchanged（522、521、104、whos-who-60、works index、TJJ 傳統週 record）— SKIP: verified-saturated；Role in the Community / Timeline 已含全部語料事實。
 - Re-check (deepen-x slice-09250700-12, 2026-09-25): fresh re-grep（洪家棟 / Victor Hung, works+articles）hit set identical（#522、#521、#104、whos-who-60、works index、TJJ 傳統週 record）— 全部已吸收。SKIP: verified-saturated.
+- Re-check (deepen-x slice 10081400-1, 2026-10-10): broadened grep to 六桂 across all 5 corpus dirs surfaced NEW material — 2021 TJJ 傳統週 (六桂 online photo exhibition 6/5) and 2025 TJJ 傳統週 (六桂 攝影經典系列展 5/31) absorbed into Timeline; works 541 (2004 六桂文教基金會 music CD) and concerts25 (2010–17 El Monte expositions) linked as Six Kuen organizational context (attribution: org records, not Hung personally). HOLD note: 六桂文教基金會 vs 美國六桂宗親會 naming — treated as related-but-distinct lineage, no date/role auto-merged.
