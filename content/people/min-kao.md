@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-10
 ---
 # Dr. Min Kao (高民環博士)
 
@@ -56,3 +56,4 @@ last_reviewed: 2026-09-27
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-27 corpus re-grep (slice 09260700-11): fresh grep 高民環 / Min Kao over works/ + articles/ — hit set unchanged (313/313-eng, 102, 351, 296, 66, whos-min-kao, 184, index, plus the 2020 TJJ Garmin stock item = press coverage); all linked above. SKIP (verified-saturated).
+- 2026-10-10 corpus re-grep (slice 10091400-27): fresh grep 高民環 / Min Kao across works/ + articles/ + sources/ + events/ + topics/ — hit set unchanged (313/313-eng, 102, 351, 296, 66, whos-min-kao, 184, index, plus the 2020 TJJ Garmin stock item = press coverage); all linked above. SKIP (verified-saturated).
