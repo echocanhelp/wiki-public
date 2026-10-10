@@ -8,7 +8,7 @@ tags:
   - tahs-leadership
   - entrepreneur
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-10
 ---
 # Wang Gui-rong (王桂榮)
 
@@ -78,7 +78,9 @@ In 1997, he established the **Kenjohn Wang Scholarship** at the University of So
 
 - Founded the **Taiwan Hotel and Motel Association of Southern California** (1974)
 - Founded the **Taiwanese Chambers of Commerce of North America** (1987)
-- Funded and published a commerce-oriented Taiwanese American community newspaper (1980)
+- Funded and published a commerce-oriented Taiwanese American community newspaper — 亞洲商報 (Asia Business News), which emerged in Southern California around the 1978 post-美麗島 press wave; the 2017 publication dates it 1980. HOLD: 1978 vs 1980
+- Commissioner of the Overseas Community Affairs Council (OCAC, 僑務委員) — title used for him in both 2014 and 2020 corpus sources
+- President of the Southern California Credit Cooperative (南加州信用合作社), c. late 1979, succeeding founder 周實
 - Appointed to the Finance Committee by DNC Chairman Ronald H. Brown (1989)
 - President of FAPA (Formosan Association for Public Affairs) (1989)
 - Decade Award from the White House (via Asia-Pacific American Heritage Committee)
@@ -107,6 +109,11 @@ He left behind two books, including his memoirs published in 1999. His three son
 - 複核（TJJ-A09221200-3, 2026-09-23）：subject link 經本 slice 再驗證為真實對應，對應 From-the-record 條目已在庫（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 2022-09-13 — A TJJ notice for the 大洛杉磯台灣會館 24th-anniversary fundraising gala records that 洛杉磯台美人 built the Taiwan Center thanks to permanent honorary chairman 王桂榮 and his wife 王賽美 generously donating the center's land and building in 1998 — the founding basis of the organization's 2018 rebuilding-fund campaign ([[articles/taiwanjustice-net/2022/20220924222953_2022_09_13_10-22大洛杉磯台灣會館-24-週年募款年會_紀政擔任主講_2a543ddc9301b7b3|TJJ, 2022-09-13]]).
+- 2014 — 王桂榮's own account of the first overseas Taiwanese senior apartment, 鶴園, published in the 南加州台灣人老人會 20th anniversary issue ([[works/taiwaneseamericanhistory-org/ourjourneys54-eng|Our Journeys #54, 2014-10]]).
+- 2014 — 周實's memoir of the 南加州信用合作社 records that founding members joined the 1979-02-10 first annual meeting (王桂榮 among the new recruits), and that 王桂榮 took over as 社長 at the end of 1979, moving monthly meetings to his Holiday Inn in Montebello; deposits peaked around $250–360k with ~390 members ([[works/taiwaneseamericanhistory-org/ourjourneys244|Our Journeys #244, 2016-08]]).
+- 2015 — Profile piece "第二任會長王桂榮 將公會會務發揚光大" on his leadership of the Taiwan Hotel-Motel Association ([[works/taiwaneseamericanhistory-org/344-e7-ac-ac-e4-ba-8c-e4-bb-bb-e6-9c-83-e9-95-b7-e7-8e-8b-e6-a1-82-e6-a6-ae-e5-b|Our Journeys #344, 2015-10]]).
+- 2014 — 林衡哲's Taiwan Center history records that Kenjohn Wang "generously donated the entire train": the Wang family donated its entire 20,000+ sq ft Rosemead property; first preparatory meeting 1998-02-19, Center opened for business 1998-06-12, with 吳澧培 as preparatory-committee convener — corroborated by the 2020 TJJ TASF notice ([[works/taiwaneseamericanhistory-org/ourjourneys29-eng|Our Journeys #29]]).
+- 2016 — 民報 editorial "追憶一個台美人的奮鬥傳奇～王桂榮" commemorating his life ([[works/taiwaneseamericanhistory-org/mystories449|mystories #449, 2016-07]]).
 
 ## Network
 
