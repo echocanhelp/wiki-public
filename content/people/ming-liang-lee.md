@@ -154,3 +154,5 @@ TAH records held in this vault:
 <!-- TJJ-A10070700-15: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-15 article fa7c957f552d76e9 (總統府公布遴聘及新聘資政27人國策顧問70人名單, 2022-09-02): 李明亮列入資政名單 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10081501-1: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10081501-1 article 77b0891ec24689f9 (週末漫談音樂(88) 信雅古典音樂珍藏啟用儀式致詞, 2021-10-16): 李明亮 link (同班同學從台北專程赴台南代表伉儷出席啟用儀式) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090401-32: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-32 article a1be6b822ac7cdcd (圓滿的100-慶賀葉思雅張信惠週末漫談音樂專欄滿100期, 2022-01-10 刊 / 2022-01-27 快照): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

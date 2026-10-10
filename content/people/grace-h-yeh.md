@@ -115,3 +115,5 @@ TAH lists her as the first appointed organist of [[organizations/formosan-presby
 
 <!-- TJJ-A10070700-5: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-5 article 20220127025846 (圓滿的100-慶賀葉思雅張信惠週末漫談音樂專欄, 2022-01-10 刊): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A100607006-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 20240425083432_root_99aaa4abcb78ff6d (台美人台加人分類存檔 p2, 2024-04-25快照): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090401-32: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-32 article a1be6b822ac7cdcd (圓滿的100-慶賀葉思雅張信惠週末漫談音樂專欄滿100期, 2022-01-10 刊 / 2022-01-27 快照): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
