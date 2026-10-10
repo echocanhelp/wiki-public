@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Tzutsai Cheng (鄭自才)
 
@@ -69,6 +69,11 @@ last_reviewed: 2026-10-01
 - 1975 — In 田台仁's 2022-03-03 letter appended to 陳昭南's memoir, Cheng is named among the people he first met (with 彭明敏、張維嘉、趙有源) aboard the Rhine cruise at the 1975 歐台會 in Cologne ([[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|TJJ column, 2022-05-09]]).
 - Pre-1970 — Working as an engineer in the Washington DC area with other Taiwanese professionals (林再進、楊友垣、黃文興、陳松竹 and others) before the 刺蔣 case ([[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys #138]]).
 - 2023-09-18 — 中選會公告第16任總統、副總統選舉被連署人名單，台澎黨主席鄭自才與副手黃聖峰搭檔正式登記連署參選「中華民國流亡政權總統」，表明要取得比郭台銘更多的連署書；報導並回顧1970-04-24刺蔣案與1991年翻牆回台判徒刑1年（[[articles/taiwanjustice-net/2023/20230930222522_2023_09_18_刺蔣案_策劃者鄭自才登記總統連署-拚超越郭台_a20fb275b89c3fb7|TJJ 轉載中央社, 2023-09-18]]）。
+- Mid-1960s — At the Baltimore (巴地摩爾) campus he was among the graduate students distributing 《台灣青年》《台灣通訊》 for ideological enlightenment, alongside peers at Kansas, Oklahoma, Houston, USC, LA, Harvard, and Minnesota ([[works/taiwaneseamericanhistory-org/ourjourneys234|Our Journeys #234]]).
+- 1968 — After UFAI resolved to move its headquarters from Philadelphia to New York, Cheng was among the movement's主力幹部 (with 張燦鍙、羅福全、蔡同榮、賴文雄、王秋森、許富淵 et al.) who reported to the NY headquarters upon completing their studies ([[works/taiwaneseamericanhistory-org/ourjourneys234|Our Journeys #234]]).
+- 1970-04-24 — Cheng's own first-person account of the 刺蔣 attempt: his task was to distribute leaflets at the Plaza Hotel entrance to draw security attention and cover 黃文雄; when it rained, 蔣經國 came by car instead of walking, and Cheng glimpsed him in the back seat from beyond the security cordon. Both were arraigned that afternoon, held, and that night sent to "The Tomb" (Manhattan) — the account is excerpted from 刺蔣：鄭自才回憶錄 ([[works/taiwaneseamericanhistory-org/ourjourneys330|Our Journeys #330, 驚天動地的一槍]]).
+- 2016-07-18 — 陳婉真 profiles him as "刺客 畫家 建築師──鄭自才的繽紛人生" (TAH #448), framing the triple identity of assassin, painter, and architect ([[works/taiwaneseamericanhistory-org/mystories448|TAH #448]]).
+- UFI regional roster — listed under New Jersey (with 黃呈嘉、郭來哲、郭伯惠) in a regional membership roster ([[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys #58]]). HOLD: conflict — this roster places him in New Jersey, while other records place him in Maryland / Baltimore (21-signatory letter from Maryland; Baltimore delegate at the 1966 Philadelphia talks); not auto-merged.
 - His own writings are in the corpus: 刺蔣：鄭自才回憶錄 (鄭自才、張文隆, 01/2018, autobiography — [[works/taiwaneseamericanhistory-org/publications1201|TAH #1201]]) and 晴美與我 (03/2018 — [[works/taiwaneseamericanhistory-org/mystories632|TAH #632]]). HOLD: conflict — the TAH family field lists his wife as 吳清桂, while the memoir title 晴美與我 points to 晴美; not auto-merged.
 
 複核（deepen-x slice 09181500-3, 2026-09-20）：re-grep 命中 publications1201、mystories632、ourjourneys-138、our-journeys-357、ourjourneys81、ourjourneys62-eng——全部已吸收進上方「From the record」並 wikilink；語料飽和，無新材料。wife-vs-晴美 HOLD 仍有效。
