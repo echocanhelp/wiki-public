@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-10
 ---
 # Amy Hsu (蘇惠美)
 
@@ -58,3 +58,4 @@ last_reviewed: 2026-09-27
 - Corpus re-grep 2026-09-26 (DEEPEN-X slice 09250900-23): same set plus two new files — the 2019 year-in-review 「19 Things」 hit is "Amy Hsuan Chiu" (false positive, different name); the 2021 Pew-response statement [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]] carries an "Amy Hsu" in its endorser list with no 漢名 or affiliation given — HOLD: cannot verify identity (at least one same-name 蘇惠美 already in corpus); not absorbed.
 - Corpus re-grep 2026-09-26 (DEEPEN-X slice 09260317-28): SKIP — fresh ZH+EN grep returns the same set (ourjourneys-369 / 123-eng / 147, mystories533, whos-who-508, works index, plus the Pew-response endorser file); nothing new absorbable, both HOLDs stand (Minnesota-1960 vs 政大-1963; 師大 蘇惠美 same-name different person; Pew endorser identity unverifiable).
 - Corpus re-grep 2026-09-27 (DEEPEN-X slice 09260700-5): fresh ZH+EN grep (works+articles) returns the identical hit set already absorbed above; SKIP-with-reason: verified saturated, no new absorbable material, existing HOLDs unchanged.
+- Corpus re-grep 2026-10-10 (DEEPEN-X slice 10081300-1): SKIP — fresh ZH+EN grep across all 5 corpus dirs returns the identical saturated set (ourjourneys-369 / 123-eng / 147, mystories533, whos-who-508, works index, 19-things false positive, Pew endorser file, taiwanjustice 師大 蘇惠美); surname/alias probes (Sui-mei / 蘇慧美 / 許永華-side works) surface nothing naming her. Nothing new absorbable; all three HOLDs stand (Minnesota-1960 vs 政大-1963; 師大 蘇惠美 same-name different person; Pew endorser identity unverifiable).
