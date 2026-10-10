@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 deepened: diaspora-relationship layer 2026-09-26
 name_en: "Lai Ching-te"
 name_zh: "賴清德"
@@ -94,7 +94,8 @@ Comparative frame from [[sources/zh-wikipedia-lai-ching-te||zh.wp]]; movement-re
 - **Diaspora actors named in the new layer:** [[people/lin-rongsong|林榮松]] (海外助選團團長, 2020) · 吳兆峯 (大洛杉磯信賴之友會副總幹事 — no page yet, 1-mention) · 彭光理 Michael Fonte (AIT-DC, 賴頒獎章 — no page yet) · 童振源 (僑委會, 2021 228 — no page yet) · [[people/bi-khim-hsiao|蕭美琴]] (駐美代表→2024搭檔, strengthened)
 - **Vault people links:** [[people/tsai-ing-wen|蔡英文]] (任命閣揆、2020搭檔) · [[people/bi-khim-hsiao|蕭美琴]] (2024搭檔) · [[people/yi-ho-cheng|鄭義和]] (FCA 2022接見) · [[people/freeman-huang|Freeman Huang]] (TJJ publisher)
 - **Press:** [[organizations/taiwanjustice-net||台灣公義網]] — 211 article hits, hub at [[articles/taiwanjustice-net/index||TJJ archive index]]
-- **Current-history (family, Tier E living record):** the transnational-repression case touching his son [[people/lai-ting-yu|賴廷與]] is held as live event records: [[topics/t-跨國鎮壓-到了賴清德之子-台灣激憤-網民肉搜張婉瑩的奢侈生活|跨國鎮壓到了賴清德之子 (RFI)]] · [[topics/t-監視賴清德之子賴廷與不只1人-fbi突襲加州華商豪宅-疑似共犯已搭機返中國-上報up|FBI突襲加州華商豪宅 (上報)]] · [[topics/t-討論牆-中國女間諜跟監賴清德兒子-洛杉磯機場遭美fbi逮捕-長相首度曝光-line|中國女間諜跟監 (LINE TODAY)]] · [[topics/t-沈伯洋-賴清德兒子遭跨國鎮壓頻傳-政院-正密集討論-反滲透法-修法|政院討論反滲透法修法 (Yahoo)]] — all allegations recorded as reported, not verified; biography detail lives on the son's page, not here.
+- **Current-history (family, Tier E living record):** the transnational-repression case touching his son [[people/lai-ting-yu|賴廷與]] is held as live event records: [[topics/t-跨國鎮壓-到了賴清德之子-台灣激憤-網民肉搜張婉瑩的奢侈生活|跨國鎮壓到了賴清德之子 (RFI)]] · [[topics/t-監視賴清德之子賴廷與不只1人-fbi突襲加州華商豪宅-疑似共犯已搭機返中國-上報up|FBI突襲加州華商豪宅 (上報)]] · [[topics/t-討論牆-中國女間諜跟監賴清德兒子-洛杉磯機場遭美fbi逮捕-長相首度曝光-line|中國女間諜跟監 (LINE TODAY)]] · [[topics/t-沈伯洋-賴清德兒子遭跨國鎮壓頻傳-政院-正密集討論-反滲透法-修法|政院討論反滲透法修法 (Yahoo)]] · [[topics/t-41j肉聲-中共女間諜不只跟監賴清德兒-再爆監視另一-反共台灣民選官員-鏡報|監視擴大到另一反共民選官員 (鏡報, filed 2026-10-10)]] — all allegations recorded as reported, not verified; biography detail lives on the son's page, not here.
+- **Current-history (2026-10 Double Ten wire records):** the 國慶演說 word-count report [[topics/t-快訊-賴清德國慶演說-喊台灣42次-中華民國2次-中華民國台灣0次|喊台灣42次、中華民國台灣0次 (ETtoday)]] and the PRC 國台辦 response [[topics/t-taiwan-affairs-office-spokesperson-slams|國台辦抨擊雙十演說 (Global Times via TAO)]] are held as living wire records, facts as reported.
 
 ## From the record
 
@@ -192,3 +193,5 @@ Comparative frame from [[sources/zh-wikipedia-lai-ching-te||zh.wp]]; movement-re
 <!-- TJJ-A10090601-13: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-13 article 20240613095611_root_4c65a9afe4934086 (520就職典禮賴清德家人將出席·蕭美琴母親返台觀禮, 中央社記者, 2024-05-19 刊／2024-06-13 快照) read fresh this attempt: subject link (賴清德 總統當選人 家人與萬里鄉親近500人出席) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090601-31: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-31 article 20250213214800_0258611f5f824a5d (520就職典禮賴清德家人將出席·蕭美琴母親返台觀禮, taiwanjustice.net 中央社記者葉素萍/賴于榛報導, 刊 2024-05-19 / 快照 2025-02-13) read fresh this attempt: subject link re-checked vs 正文 — 賴清德以總統當選人身份明日宣誓就職、妻子吳玫如將出席典禮（選期間拍片力挺屬罕見曝光）、故鄉萬里與新北鄉親師友近500人包車北上參加慶祝大會之記述逐字確認見於正文, real, no wrong/spurious links; 2024-05-20 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10091531-2: 2026-10-10 slice re-grep (賴清德/Lai Ching-te/surname 賴 across works/articles/sources/events/topics). works hits unchanged (ourjourneys181, ourjourneys192, our-journeys-382, a-republic-of-taiwan-chloe-shih — all already wikilinked). NEW material found: 3 topics/ event records filed 2026-10-10 by news-scan, not previously linked from this page — t-41j肉聲 (監視案擴大到另一反共台灣民選官員, extends the existing Tier-E 賴廷與 cluster) linked into Network current-history; t-快訊 國慶演說 + t-taiwan-affairs-office-spokesperson-slams (雙十演說 word-count + 國台辦回應) recorded as living wire records, allegations/statements kept as reported per CONTROL §1b Tier E labeling rule. Remaining non-TJJ hit (t-國慶焰火台東) is domestic-event coverage with no diaspora-community fact — not absorbed. No dates/ages merged, no conflicts to HOLD. -->
