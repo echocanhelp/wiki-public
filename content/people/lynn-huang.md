@@ -185,3 +185,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090401-21: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-21 article 9412105875987041（以立 Mayfield 校園文化交流）: subject link re-checked vs 正文 this attempt（攜電子鍵盤伴奏＋改編〈Oh My Goodness〉確認見於正文）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090601-24: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-24 article 426d2811d4065134 (楊子清老師音樂短講第13集：美聲唱法的技巧(7)快速音 Agilita, 發文 2020-12-13): 2/2 subject links re-checked vs 正文 this attempt — 「本集有黃令先老師和王亦凡博士的特別講座『泛音』」確認見於正文，均為真實對應，無錯鏈、無虛鏈；含該文 wikilink 的 2020-12-13 條目已在 lynn-huang / yvonne-yifang-wang / yang-ziqing 之 From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090601-32: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-32 article e7e2a1e1a71524ce (以立「希望之光」世界首演, 發文 2022-12-02): subject link re-checked vs 正文 this attempt, real (作曲、指揮：黃令先 Lynn Huang, L34), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
