@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-10
 ---
 # Sung-Peng Hsu (徐頌鵬博士)
 
@@ -65,3 +65,4 @@ _Corpus re-scan 2026-09-22: fresh grep works/articles returns the same hits (#12
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 2026-09-29 語料複核（slice 09260700-15）：fresh grep（徐頌鵬／Sung-Peng Hsu）hit set identical（OJ 123/123-eng/268/15、mystories486、whoswho18）— 全數已吸收掛鏈。SKIP-with-reason, verified saturated.
+- 2026-10-10 語料複核（slice 10090400-26）：fresh 5-dir grep（徐頌鵬／Sung-Peng Hsu／頌鵬，works+articles+sources+events+topics）hit set identical（OJ 123/123-eng/268/15、mystories486、whoswho18，加 index/sources 掛鏈行）— 全數已吸收掛鏈。SKIP-with-reason, verified saturated.
