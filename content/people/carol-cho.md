@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Carol Cho (林秋菊)
 
@@ -68,6 +68,7 @@ last_reviewed: 2026-09-25
 - 1994 TAF 青少年夏令營: taught the 小學組 singing 台灣頌 and English hymns, per husband 卓甫良's memoir ([[works/taiwaneseamericanhistory-org/ourjourneys262|TAH #262 意外的收獲, 2016-10]]) — matches the TJJ record of her as a long-term TAF volunteer mother staffing the youth camps.
 - HOLD: conflict in origin — the TJJ 楊遠薰 TAF history and this page give her as a daughter of Hualien physician 林安生, while 卓甫良's own memoir writes she 來自南台灣一個很有名望的家族. Not merged.
 - 1981 TAF 青少年夏令營 (Midwest participants): her daughter Elsa 卓慧麗, then a college student, co-led the Junior Camp with Bob (son of 楊忠正) and was beloved by the kids; the camp's founder-council sequence recorded in the same memoir lists husband 卓甫良 as TAF's fourth president (1989–1991), after 莊明哲, 張信義, and 鄭天助 ([[works/taiwaneseamericanhistory-org/our-journeys-377|Our Journeys 377 回憶一九八一年TAF青少年夏令營, 10/2021]]).
+- The MFCF English founding memoir records a fundraising piano recital at DePaul University, Chicago performed by the couple's second daughter Esther Cho, who volunteered to play on her 18th birthday upon graduating high school and raised $750 for the TAF Fund — the Cho family's musical service feeding directly into the movement's youth-work funding ([[works/taiwaneseamericanhistory-org/ourjourneys33-eng|#33 EN]]).
 - TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/205-carol-cho|TAH #205, 2015-01]].
 
 ## Related Pages
