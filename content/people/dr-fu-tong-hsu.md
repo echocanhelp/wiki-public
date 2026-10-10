@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-12
+last_reviewed: 2026-10-10
 ---
 # Dr. Fu-Tong Hsu (徐福棟博士)
 
@@ -39,6 +39,10 @@ last_reviewed: 2026-09-12
 - Chairman, Lin Mao-sheng Cultural Foundation (1997–); Vice President, Changjung Christian University (1996–2002); President, Vision Youth Action Network (2003–2009)
 - Economic Advisor for President Clinton, White House (1994–1996)
 - President, TAA/New Jersey Chapter — the chapter's own vault page: [[organizations/taiwanese-association-of-america-new-jersey||TAA New Jersey (紐澤西台灣同鄉會)]]; his Oklahoma M.S. years (1961–1962) coincide with the [[organizations/taiwanese-association-of-oklahoma||Taiwanese Association of Oklahoma]] era, though no personal membership is documented.
+- Invited speaker in the Capital Region (NY) Taiwanese American Heritage Week lecture series — talk 「邁向尊嚴之路－新台灣人與台灣文化的認同」 (*The Road to Dignity — The New Taiwanese Identity and Culture*), recorded in the Capital Region Taiwanese Cultural Society history: [[works/taiwaneseamericanhistory-org/ourjourneys311||Our Journeys #311 (陳仲欽, 2017-09)]]; the society hosted him alongside Wen-cheng Lin, Chungchin Chen, Joyce Weng and others.
+- Listed (starred entry) under **Ohio** in the first *All-Taiwanese American Directory* compiled by 陳希寬 — [[works/taiwaneseamericanhistory-org/ourjourneys58||Our Journeys #58 (2014-11)]]. HOLD: the Ohio listing vs his documented NY/NJ chapter presidencies — plausibly reflects his Ohio years after Case Institute of Technology (Cleveland), but the directory entry is not independently confirmed as the same person.
+- 2015 — profiled in the "Care for Taiwan by Taiwanese American" (台美人顧台灣) series, no. 26: 「白宮經貿顧問徐福棟 身體『漸凍』愛台灣心永熾熱」 (2015-05-31) — his White House economic-advisor role recalled publicly, and his ALS (漸凍症) diagnosis documented: [[works/taiwaneseamericanhistory-org/mystories279||mystories #279]].
+- Memorial record: 「91. In memory of Dr. Fu-Tong Hsu 徐福棟生命的禮讚」 (2015/02, published 2015-07-08) — [[works/taiwaneseamericanhistory-org/photo-albums-activities-91||photo-albums-activities #91]] — consistent with his Era 1936–2015.
 
 ## Family
 
