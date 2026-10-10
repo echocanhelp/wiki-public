@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # Kuo Chang Chen (陳國昌)
 
@@ -69,6 +69,8 @@ Accomplishment
 - 複核（TJJ-A09170400-11, 2026-09-23）：subject link 對照 slice 文章 63717cb2b99ce3c3（台美人台加人 page 3, 2024-04-25 存檔）正文再驗證——「(美國)2013年終稅法新知 ◎ 陳國昌會計師 12/15/2013」確認見於正文，連結為真；2013-12-15 條目已在庫 — SKIP，無新材料。
 
 - 2013-12-15 — 以會計師身分撰寫「(美國)2013年終稅法新知」专栏（12/15/2013），台灣公義報「台美人台加人」分類存檔（2024-04-25 快照）收錄該篇（[[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|TJJ 台美人台加人存檔頁]]）。
+- 2018-07 — 台大校友聯署抗議南加州台大校友會邀管中閔於年會做專題演講之記錄中，列有「陳國昌（政治）」於聯署校友名冊（政治學系，與本人台大政治系 1976 學歷相符；名字常見，歸屬為高度可能而非確證）（[[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|2018-07-21 TJJ 抗議記錄]]）。
+- 2020-12-30 — 撰寫「幸好有網購」專欄（台灣公義報），該文在本庫以本人為 subject 收錄（[[articles/taiwanjustice-net/2021/20210121183054_2020_12_30_幸好有網購-陳國昌_58a262740300cee5|2020-12-30 TJJ 專欄記錄]]）——繼 2013 稅法專欄後第二篇本人執筆的 corpus 文章。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
