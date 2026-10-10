@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-10
 ---
 # Ing-Hour Lin (林英侯博士)
 
@@ -43,6 +43,8 @@ last_reviewed: 2026-09-29
 - Listed in the TAH Who's Who encyclopedia as record 1580 (published 2017-03-23): [[works/taiwaneseamericanhistory-org/whoswho1580|1580. Ing-Hour Lin 林英侯]].
 - 2018-07 — Signed the 台大校友 joint protest letter against 南加州台大校友會 inviting 管中閔 to give a keynote at its annual meeting, listed as 林英侯(物理); his wife 洪淑卿(藥學) also appears in the signatory list ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ, 2018-07-20]]). Corroborates his NTU physics background.
 
+- 2020-05-18 — TAH published the memorial video **162. Remembering Joyce Lin**, honoring his daughter 林才欣 (Joyce Lin), the MAF missionary pilot who died 2020-05-12 delivering COVID-19 supplies in Papua, Indonesia ([[works/taiwaneseamericanhistory-org/videos-162|162. Remembering Joyce Lin / 2020-05]]). Corroborates the family note above.
+
 Corpus re-check (deepen-x 2026-09-23, slice 09221200-32; re-run 2026-09-24, slice 09230700-14; re-run 2026-09-25, slice 09240700-16): fresh Ing-Hour / 林英侯 greps return only the work pages already linked above (ourjourneys-138, ourjourneys47, whoswho1580, both TJJ articles) plus the harvest index — verified-saturated, no unabsorbed material.
 
 ## Sources
@@ -58,6 +60,8 @@ Corpus re-check (slice 09260317-28, 2026-09-26): fresh 林英侯|Ing-Hour greps 
 
 Corpus re-check (slice 09260700-14, 2026-09-27): fresh 林英侯|Ing-Hour greps return only the pages already linked above (ourjourneys-138, ourjourneys47, whoswho1580, both TJJ articles) plus the harvest index — verified-saturated, no unabsorbed material.
 - Corpus re-check (slice 09260700-14, 2026-09-29): fresh 林英侯|Ing-Hour greps return only the pages already linked above (ourjourneys-138, ourjourneys47, whoswho1580, both TJJ articles) plus the harvest index — verified-saturated, no unabsorbed material.
+
+Corpus re-check (slice 10090500-21, 2026-10-10): fresh 林英侯|Ing-Hour|英侯 greps across works/articles/sources/events/topics return the pages already linked above plus videos-162 (Joyce Lin memorial video, absorbed this pass) — no other unabsorbed material.
 
 <!-- TJJ-A10040500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-5 article 039ccce4163c57a9（航空宣教使團Joyce Lin墜湖身亡, 2020-05-15 刊）: subject link re-checked vs 正文（NATPA訃告：2009-2010 NATPA會長、Joyce之父）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
