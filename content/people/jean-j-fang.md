@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-09
 ---
 # Jean J. Fang (黃靜枝)
 
@@ -43,7 +43,8 @@ Accomplishment
 - Husband 方菊雄 (Jyu-Hsiung Fang, professor) has his own corpus records: [[works/taiwaneseamericanhistory-org/186-prof-jyu-hsiung-fang|186. Prof. Jyu-Hsiung Fang]], [[works/taiwaneseamericanhistory-org/whos-who-714-jyu-hsiung-fan|WHO'S WHO 714. Jyu-Hsiung Fang]], and profile piece [[works/taiwaneseamericanhistory-org/371-e5-a6-99-e5-8d-9a-e5-a3-ab-e6-96-b9-e8-8f-8a-e9-9b-84-e4-bb-a5-e6-a0-a1-e7-8|371. 妙博士方菊雄 以校為家 永不畢業 (陳美羿, 2015/11)]].
 - As NATWA president (1999–2000) she commissioned the book-length collection of the 婦女信箱 advice column (long written by 阿香 and carried in 台灣公論報); the editor's memoir recalls her request to compile the year's columns into a volume — [[works/taiwaneseamericanhistory-org/ourjourneys79|Our Journeys 79]].
 - Early movement record: recalled in [[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys 58]] as one of the Manhattan, Kansas staff who sold movement books (alongside 陳希寬, 莊秋雄, 方菊雄 and others) in the UFAI-related book drive whose accounts totalled US$2,069 in receipts.
-- As NATWA president she also began issuing the NATWA newsletter and created a "Networking Committee", and in the 2000 and 2004 Presidential elections she led NATWA delegations back to Taiwan to participate in election campaigns — [[works/taiwaneseamericanhistory-org/ourjourneys60-eng|Our Journeys 60 (EN), NATWA history]].
+- As NATWA president she also began issuing the NATWA newsletter and created a "Networking Committee" (聯手組), and in the 2000 and 2004 Presidential elections she led NATWA delegations back to Taiwan to participate in election campaigns — [[works/taiwaneseamericanhistory-org/ourjourneys60-eng|Our Journeys 60 (EN), NATWA history]]; the Chinese edition [[works/taiwaneseamericanhistory-org/ourjourneys60|Our Journeys 60]] preserves the committee name 聯手組 and names her alongside 葉寶桂 for the 2000/2004 返臺助選 delegations.
+- The 1983 play record exists in Chinese as well: [[works/taiwaneseamericanhistory-org/ourjourneys8|Our Journeys 8 (ZH)]] — 黄靜枝演陳素貞, with the narrator and wife 黃美惠 (elena-ling) also acting; same event as the EN memoir cited above.
 - Media/cultural work: screenwriter Marilyn Fu recalls producing a radio show with Jean Fang about Peggy Hsiao — 蕭美琴's mother, "who has such an interesting life story" — material Fu says informed her play Sisterhood — [[works/taiwaneseamerican-org/interview-with-marilyn-fu-screenwriter-of-the-sisterhood-of-night|Interview with Marilyn Fu]].
 - Corpus re-grep 2026-09-16 (slices 09160700-19, 09162138-14, 09162200-11): hits = ourjourneys8-eng, ourjourneys79, ourjourneys58, ourjourneys60-eng (NATWA newsletter + delegations, absorbed above), own #163/#827 records, works index — no further new material. SKIP-no-new-material; page saturated.
 
@@ -60,3 +61,5 @@ Corpus re-grep 2026-09-17 (slice 09170500-7): identical hit set — ourjourneys8
 
 Corpus re-grep 2026-09-21 (slice 09201300-2): identical hit set — ourjourneys8-eng, ourjourneys58, ourjourneys60-eng, ourjourneys79, Marilyn Fu interview, works index — all already linked above. SKIP-no-new-material; page saturated.
 Corpus re-grep 2026-09-22 (slice 09211300-1): hit set unchanged — ourjourneys8-eng, ourjourneys58, ourjourneys60-eng, ourjourneys79, Marilyn Fu interview, own #163/#827 records, works index — all already linked above. SKIP-no-new-material; page saturated.
+
+Corpus re-grep 2026-10-09 (slice 10081100-7): ZH+EN+alias sweep (黃靜枝 / Jean J. Fang / Ching-chih / 靜枝) across all 5 corpus dirs. Hit set same, but two records not previously cited carried new detail now absorbed: ourjourneys60 (ZH NATWA history — committee name 聯手組, 2000/2004 返臺助選 with 葉寶桂) and ourjourneys8 (ZH memoir of the 1983 補破網 play, 黄靜枝演陳素貞, narrator + 黃美惠 also acting). No date/age conflicts; no HOLD needed.
