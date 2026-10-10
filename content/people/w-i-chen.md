@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # W. I. Chen (陳石溫愛)
 
@@ -45,6 +45,7 @@ last_reviewed: 2026-10-09
 - Her own TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/whoswho1030|1030. W. I. Chen 陳石溫愛 / 2016-05]].
 - HOLD: name collision — TAH #1041 is a *different* person also named "W. I. Chen" (陳文英, [[works/taiwaneseamericanhistory-org/whoswho1041|whoswho1041]]); do not merge records.
 - Corpus re-verified 2026-09-25 (slice 09231300-4): fresh ZH+EN greps return only our-journeys-350 (模範母親 citation, absorbed), #1030 (bibliographic, linked), and #1041 陳文英 (different person — HOLD above stands). No new material.
+- Family network: her husband [[people/m-l-chen|陳夢蘭]]'s pre-immigration finance-industry background (consistent with his 第一銀行 role) is corroborated in the SCTFCU memoir — he joined the second preparation meeting of 南加州台灣人聯邦信用合作社 and later served as 顧問. Source: [[works/taiwaneseamericanhistory-org/ourjourneys244|244. 曇花一現的南加信用合作社 (周實)]].
 
 ## Sources
 - [TAH #1030 encyclopedia: 1030. W. I. Chen 陳石溫愛 / 2016/05](https://taiwaneseamericanhistory.org/whoswho1030/)
