@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-10-09
 ---
 # Min-Mei Chen (吳明美)
 
@@ -48,6 +48,7 @@ Accomplishment
 - Her papers/archive: [[works/taiwaneseamericanhistory-org/collection-of-mrs-min-mei-chen|47. Collection of Mrs. Min-mei Chen 吳明美女士的收藏 / 2017-10]]; a second memorial notice exists as [[works/taiwaneseamericanhistory-org/138-min-mei-wu-chen|138. In Memory of Mrs. Min-Mei Wu Chen 懷念吳明美女士]].
 - 複核（deepen-x slice 28, 2026-09-16）：full corpus re-grep (no head-truncation) surfaced the band-A cruise memoir, five further essay pages, the collection record #47, a second memorial #138, and the Ken Lee portrait — all absorbed above.
 - SKIP-with-reason (slice 09160500-5, 2026-09-16): grep re-run (吳明美／Min-Mei Chen, untruncated) returns the identical 17-file hit set; every hit is either already wikilinked above or is her own catalogue record (#199/#268, in Sources). No new absorbable community facts; page remains fully deepened.
+- 複核（deepen-x slice 10080958-7, 2026-10-09）: fresh untruncated grep (吳明美／Min-Mei Chen／Min-mei Chen／明美) across works/articles/sources/events/topics — all substantive hits already wikilinked above (21 TAH corpus pages). New apparent hits are false positives: ourjourneys69 matches 明美 only inside 明美癌症研究中心 (NATPA founding-room name, unrelated), ourjourneys74 inside 說明美麗島, ourjourneys333 inside 註明美國, and taiwanjustice-net articles match 明美 inside 特朗普. No new absorbable community facts.
 
 ## Sources
 - [TAH #141 encyclopedia: 141. In Memory of Mrs. Min-Mei Wu Chen 吳明美 生命的禮讚](https://taiwaneseamericanhistory.org/photo-albums-activities-141/)
