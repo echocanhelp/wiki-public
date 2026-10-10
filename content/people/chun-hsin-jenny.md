@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Chun Hsin Jenny (伍君心)
 
@@ -72,3 +72,5 @@ Both cited TAH encyclopedia records now carry a reciprocal Subjects link to this
 Re-check 2026-09-14 (slice 8): vault-wide mention sweep found her only in the two cited TAH encyclopedia records plus the people/works/source index pages — no new absorbable facts.
 
 Deepen-x 09141300-3 (2026-09-14): SKIP-with-reason — corpus sweep of works/ and articles/ again returns only her own two cited TAH encyclopedia records ([[works/taiwaneseamericanhistory-org/musician4|TAH #4]], [[works/taiwaneseamericanhistory-org/whoswho1082|TAH #1082]]) plus index pages; no memoir/community material beyond what this page already absorbs.
+
+Deepen-x 10090700-7 (2026-10-10): SKIP-with-reason — corpus sweep of works/articles/sources/events/topics across all name variants (伍君心, Chun Hsin Jenny, Chun-Hsin, Chunhsin, Jenny Wu, surname 伍, ensemble "Piove") returns only her own two cited TAH encyclopedia records plus index pages; no memoir or community material. Nothing new to absorb; no conflicts; last_reviewed refreshed.
