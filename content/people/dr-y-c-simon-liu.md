@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-10-10
 ---
 # Dr. Y. C. Simon Liu (劉耀經博士)
 
@@ -39,7 +39,7 @@ Dr. Y. C. (Simon) Liu 劉耀經博士 – History of Taiwanese American (T.A. Ar
 
 
 ## Career & Community (from vault record)
-- Federal science-administration career: Director at USDA Agriculture Research Service (ARS) from 2000; Director of the National Agricultural Library (USDA) from 2010; earlier Information Manager at NASA.
+- Federal science-administration career: Director at USDA Agriculture Research Service (ARS) from 2000; Director of the National Agricultural Library (USDA) from 2010; earlier Information Manager at NASA. In 2023 USDA named him Administrator of the Agricultural Research Service, the agency's top post — recorded in the community corpus at [[works/taiwaneseamericanhistory-org/my-stories-868|TAH #868 (2023-02-27)]].
 - Five degrees spanning mathematics, computing, and administration: Chung Yuan Christian Univ. (B.S. Mathematics), Indiana Univ. (M.S. Computer), Johns Hopkins Univ. (M.S. Government Administration), Univ. of Maryland (M.S. Corporate Management), Univ. of Washington (Ph.D. Computer Science & Higher Education).
 - Community: Coordinator, Taiwanese American Conference, East Coast (2007); President, Greater Washington DC Chapter, North American Taiwanese Professors' Association.
 - His life record is held by 台美史料中心 (T.A. Archives), per the TAH encyclopedia entry cited above.
@@ -56,6 +56,7 @@ Dr. Y. C. (Simon) Liu 劉耀經博士 – History of Taiwanese American (T.A. Ar
 - 2000 — Appointed Director, Agriculture Research Service (ARS), USDA.
 - 2007 — Coordinator, Taiwanese American Conference, East Coast.
 - 2010 — Appointed Director, National Agricultural Library, USDA.
+- 2023-02-27 — Named Administrator, USDA Agricultural Research Service (ARS), per [[works/taiwaneseamericanhistory-org/my-stories-868|TAH #868]].
 - President, Greater Washington DC Chapter, [[organizations/north-america-taiwanese-professors-sc||北美洲台灣人教授協會]].
 - Family: wife 柯淑靜 (no vault page yet).
 
@@ -71,4 +72,5 @@ Dr. Y. C. (Simon) Liu 劉耀經博士 – History of Taiwanese American (T.A. Ar
 
 ## Vault Holdings
 - His own encyclopedia records are held in the vault: [[works/taiwaneseamericanhistory-org/ota-250|TAH #250: Dr. Y. C. Simon Liu 劉耀經博士]], [[works/taiwaneseamericanhistory-org/whos-who-1238-y-c-liu|TAH #1238 (Who's Who)]] and the "Pride of Taiwanese Americans" profile [[works/taiwaneseamericanhistory-org/226-e5-8f-b0-e7-be-8e-e4-ba-ba-e7-9a-84-e6-a6-ae-e8-80-80-pride-of-taiwanese-ame|TAH #226 (2015/04)]].
+- The 2023 news of his USDA ARS Administrator appointment is held as a corpus record: [[works/taiwaneseamericanhistory-org/my-stories-868|TAH #868: USDA Names Simon Liu as New ARS Administrator (2023-02-27)]].
 - His 2010 appointment at the National Agricultural Library falls in the Washington-area Taiwanese community documented in the vault: [[organizations/greater-washington-taiwan-culture-center|Greater Washington Taiwan Culture Center]]; his TAH profile does not record personal membership.
