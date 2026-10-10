@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-10
 ---
 # Houston Taiwan Institute for Senior Citizens (休士頓台灣松年學院)
 
@@ -42,3 +42,4 @@ Re-grep '休士頓台灣松年學院 / HTISC / Houston Taiwan Institute' against
  Re-check slice 09231000-4 (2026-09-25): fresh grep 休士頓台灣松年學院|HTISC|Houston Taiwan Institute — identical six-record hit set (directory, activities, golf cup, concerts106, musical-concerts-167, Our Journeys 298); saturated, SKIP.
  Slice deepen-x-slice-09250317-4 (2026-09-25): fresh ZH+EN re-grep (works+articles) — identical hit set to prior checks; all hits already wikilinked/absorbed (TAIA string-match in taiwanjustice article is an archive_digest false positive). Nothing new absorbable. SKIP (saturated).
  Slice deepen-x-slice-09251500-1 (2026-09-26): fresh ZH+EN re-grep (works+articles) — identical six-record hit set (directory, activities, golf cup, concerts106, musical-concerts-167, Our Journeys 298); all already wikilinked/absorbed. Nothing new absorbable. SKIP (saturated).
+ Re-check slice deepen-x-slice-10091414-31 (2026-10-10): fresh ZH+EN grep across works/articles/sources/events/topics — identical six-record hit set (directory, activities, golf cup, concerts106, musical-concerts-167, Our Journeys 298). Non-index matches are 松年 substring noise on unrelated records (大西雅圖台灣同鄉松年會, 松年詩班 elder choir, 松年大學 Silver College church program) — none is HTISC. Saturated, SKIP.
