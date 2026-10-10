@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Heng-Liong Lin (林興隆)
 
@@ -61,3 +61,5 @@ last_reviewed: 2026-10-09
 Corpus re-grep 2026-10-08 (deepen-x slice 10062334-3): fresh ZH+EN grep (林興隆 / Heng-Liong Lin) returned the identical hit set (897 bio, ourjourneys12/256/338, sources index) — all already cited above; no new absorbable material. HOLD (pen-club presidency since 2008, term end unrecorded) stands. Verified saturated, SKIP-with-reason.
 
 Corpus re-grep 2026-10-09 (deepen-x slice 10080500-11): first full five-dir sweep (works/articles/sources/events/topics) per new spec — hit set unchanged (897, ourjourneys12/256/338 + works index). The five taiwanjustice-net article hits matched only via bare 興隆 substring, not 林興隆 — false positives, nothing absorbable. No new pages, no conflicts. HOLD stands. Verified saturated, SKIP-with-reason.
+
+Corpus re-grep 2026-10-10 (deepen-x slice 10090900-11): fresh five-dir sweep (林興隆 / Heng-Liong / heng.liong) — identical hit set (897 bio, ourjourneys12/256/338, works index, sources/taiwaneseamericanhistory-org); all already cited. Memoir detail re-read (柯金寅, ourjourneys12): 林興隆's pen-club tenure spans 2008–2012 in-text (2009/2010 book events under his presidency; 2012 「台灣在呼喚」 Taipei meeting credited to him and wife), consistent with the existing HOLD (term end unrecorded). No new absorbable material. Verified saturated, SKIP-with-reason.
