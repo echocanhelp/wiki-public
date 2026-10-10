@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Dr. Fu-Kuen Lin (林福坤博士)
 
@@ -55,3 +55,4 @@ last_reviewed: 2026-10-09
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 10062218-5 (2026-10-08): saturated re-verify — fresh grep (林福坤 / Fu-Kuen Lin) across works/articles/sources/events/topics hit set unchanged: mystories263 + #8 + #109 + #1449 (all already linked/absorbed) + index. Nothing new absorbable. -->
+<!-- deepen-x slice 10091500-30 (2026-10-10): saturated re-verify — fresh grep (林福坤 / 福坤 / Fu-Kuen / Fu-kun / fu.kuen) across all 5 corpus dirs returned the identical closed set: mystories263 + #8 + #109 + #1449 + works index + 2017-tahs-publication roster (all already linked/absorbed; sibling page lin-fu-kun cross-linked, not merged). No new memoir/article mentions. Verified-saturated. -->
