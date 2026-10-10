@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Sonia Lee (王淑女)
 
@@ -39,7 +39,7 @@ Gifted with perfect pitch and agility, Ms. Lee won numerous piano competitions s
 - Church music in southern California: 崇拜司琴及詩班 accompaniment at 愛恩台福教會 (Evangelical Formosan Church of Irvine — the church that hosts [[organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu||Evergreen Senior University]]) and at [[organizations/irvine-taiwanese-presbyterian-church||Irvine Taiwanese Presbyterian Church]], per her TAH employment table.
 - President of the Evangelical Formosan Church of Irvine Orchestra; conductor of 愛恩交響樂團; accompanist for 爾灣聖樂團 (harpsichord), 吾鳴合唱團, 中文學校兒童合唱團, and 爾灣華聲合唱團.
 - Later studies: hand bell with Nancy Jessup and pipe organ with Esther Johns at Concordia University.
-- **1998/05** — music CD 《乘著歌聲的翅膀》 with 李秀麗 — vault record [[works/taiwaneseamericanhistory-org/publications538||TAH #538]]
+- **1998/05** — music CD 《乘著歌聲的翅膀》 with 李秀麗 — vault record [[works/taiwaneseamericanhistory-org/publications538||TAH #538]]; co-performer [[people/elizabeth-s-chen|李秀麗 (Elizabeth S. Chen)]]'s own page confirms the collaboration from the reciprocal side.
 - **《台灣人的歌》合唱專案** — co-responsible (with 賴美芬) for the Irvine 台美人團 rehearsal cluster in the 216-musician five-region project — vault record [[works/taiwaneseamericanhistory-org/ourjourneys340||Our Journeys #340]]
 
 ## Family
@@ -68,3 +68,7 @@ _No filled family fields on the TAH profile._
 
 ## Deepen-x 2026-09-14 (slice 09141300-7)
 - Corpus grep (王淑女 / Sonia Lee) returns only records already linked here: her own profiles [[works/taiwaneseamericanhistory-org/115-sonia-lee-e7-8e-8b-e6-b7-91-e5-a5-b3-pianist-201501|TAH #115]] / [[works/taiwaneseamericanhistory-org/230-230-sonia-lee-e7-8e-8b-e6-b7-91-e5-a5-b3-201501|TAH #230]], the 1998 CD [[works/taiwaneseamericanhistory-org/publications538|TAH #538]], and the 2018 蕭泰然音樂節 account [[works/taiwaneseamericanhistory-org/ourjourneys340|TAH #340]] where she co-ran the Irvine 台美人團 rehearsal cluster with 賴美芬. All facts already absorbed — no new absorbable corpus material.
+
+## Deepen-x 2026-10-10 (slice 10090600-20)
+- Fresh ZH+EN+surname re-grep across all corpus dirs: 王淑女 hits remain only the already-linked [[works/taiwaneseamericanhistory-org/ourjourneys340|Our Journeys #340]], [[works/taiwaneseamericanhistory-org/publications538|TAH #538]] and index files; 愛恩/爾灣華聲/爾灣聖樂團/吾鳴合唱團 grep surfaces no new person-level records. Other 王淑芬 / 王淑鶴 hits are different people — not merged.
+- New link absorbed: reciprocal mention on [[people/elizabeth-s-chen|Elizabeth S. Chen 李秀麗]]'s page, which names Sonia as her co-performer on the 1998 CD 《乘著歌聲的翅膀》 ([[works/taiwaneseamericanhistory-org/publications538|TAH #538]]) — cross-confirmed from both sides, added to the community section above.
