@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Jeffrey Tsung (鄭瑞雄醫師)
 
@@ -64,3 +64,4 @@ last_reviewed: 2026-09-15
   - **本人親筆（新增）**：[[works/taiwaneseamericanhistory-org/mystories209|My Stories #209 釣魚]]（2015/03，生活隨筆）；[[works/taiwaneseamericanhistory-org/587-dr-cheng-biography|TAH #587 旅美醫師 鮭魚返鄉]]（2015/03，傳記）；[[works/taiwaneseamericanhistory-org/publications1203|TAH #1203 漂泊半世 看盡世態]]（2018/03，自傳）；[[works/taiwaneseamericanhistory-org/938-e9-84-ad-e7-91-9e-e9-9b-84-e6-a8-99-e6-9c-ac-e7-8f-8d-e8-97-8f-e9-84-ad-e7-9|TAH #938 鄭瑞雄標本珍藏]]（2015/07）；[[works/taiwaneseamericanhistory-org/6-e9-84-ad-e7-91-9e-e9-9b-84-e9-86-ab-e5-b8-ab-e7-9a-84-e5-8b-95-e7-89-a9-e6-a8-|TAH #6 鄭瑞雄醫師的動物標本]]（2015/03）。
   - **社群他人記述**：黃哲陽 [[works/taiwaneseamericanhistory-org/ourjourneys291|Our Journeys #291 台美人醫師 overview]]（2017/05）記其為「多才多藝的病理學家，業餘作出來的動物標本維妙維肖、栩栩如生」，並列於台美人醫師回饋母國（鮭魚返鄉，1999 和信醫院、2010 羅東聖母醫院任職可互證）一脈；[[works/taiwaneseamericanhistory-org/ourjourneys101|Our Journeys #101 美東南區台灣人海上夏令會]]（吳明美，2015/02）記其在遊輪開幕式主持（李雪玟教授聲樂演唱揭幕）。
   - 覆核（deepen-x slice 09150700-4）：命中集合 = 本人自身语料 + 上列新吸收五檔親筆 + 兩檔他人記述 + index，全數吸收完畢；無衝突日期需 HOLD，verification 仍待對照 TAH 原頁。
+- deepen-x 10090500-20（2026-10-10 覆核）：再 grep（鄭瑞雄／Jeffrey Tsung／Tsung 全五 corpus dirs）命中集合不變 — 全數為本人已連結自身语料（#11/#61/#114/#273/#314/#587/#938/#1203/#209/#211/#216/#212、photo-albums-61、ourjourneys101/#291）或姓名相近他人（張瑞雄牧師 — 張姓牧師，非本人；曾碧光 Tsung、蔡長龍 Long Tsung Tsai 等 Tsung-* 假陽性）。維持 **SKIP（無未吸收社群材料）**，無衝突需 HOLD。
