@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Chun-Yung Lin (林純容)
 
@@ -44,3 +44,4 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- Re-verified 2026-10-08 (deepen-x slice 10061023-1): fresh grep ZH+EN (林純容 / Chun-Yung Lin) across works/articles/sources/events/topics returns the same hit set — ourjourneys75 (+EN copy, 2014 FAHRR 理事 roster line), own record whoswho1732, plus index/sources backlinks. All absorbed above; the 2014-roster-vs-2000-memoir-date HOLD stands. Verified-saturated, SKIP. -->
 <!-- Re-verified 2026-10-09 (deepen-x slice 10080400-10): fresh ZH+EN grep (林純容 / Chun-Yung Lin) across works/articles/sources/events/topics returns the identical hit set — ourjourneys75 (+EN copy) and whoswho1732, both absorbed above. A loose regex pass (Chun.*Yung) surfaced ourjourneys74-eng but the match there is 「Chen Yung-hsing」 — not this person; rejected as false positive. No new facts. Verified-saturated, SKIP. -->
+<!-- Re-verified 2026-10-10 (deepen-x slice 10090800-21): fresh ZH+EN+variant grep (林純容 / Chun-Yung Lin / 純容 / Chun.Yung.Lin) across works/articles/sources/events/topics returns the identical hit set — ourjourneys75 (+EN copy, 2014 FAHRR 理事 roster line) and own record whoswho1732, both absorbed above. Loose-variant sweep found no additional pages. 2014-roster-vs-2000-memoir-date HOLD stands. No new facts. Verified-saturated, SKIP. -->
