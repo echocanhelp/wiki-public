@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # K.H. Huang (黃國雄)
 
@@ -68,3 +68,5 @@ Corpus re-check (deepen-x slice 10070018-2, 2026-10-08): fresh grep '黃國雄'/
 Corpus re-check (deepen-x slice 10080600-29, 2026-10-09): fresh grep '黃國雄'/'K.H. Huang' plus surname-only '國雄' across works+articles+sources+events+topics. The surname-only sweep surfaced only distinct individuals — 蘇國雄 (ourjourneys186/244), 尤國雄牧師 (ourjourneys241), 林國雄 (ourjourneys313) — none are K.H. Huang; correctly excluded. His hit set is again unchanged: own #848 profile, own essay 759, works index, TJJ tag page b35038dda7fa4bcf, sources hub. Verified saturated, SKIP, no conflicts.
 
 <!-- TJJ-A10090401-10: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-10 article b35038dda7fa4bcf (長青教室心得報告標籤頁, 2024-07-23 快照) read fresh this attempt: 「回教崛起對基督教的影響 ◎黃國雄博士」(2019-06-07) 及「長青教室心得報告-前總統李登輝先生的兵法與軍隊國家化 (+video)◎講師 黃國雄博士 2017-11-08」確認見於正文; subject link re-checked, real, no wrong/spurious links; dated facts w/ article wikilink already in From the record — saturated, no new material. -->
+
+Corpus re-check (deepen-x slice 10091500-22, 2026-10-10): fresh grep '黃國雄'/'K.H. Huang' across works+articles+sources+events+topics returned the unchanged hit set (own #848 profile, own essay 759, works index, TJJ tag page b35038dda7fa4bcf, sources hub). Surname-only '國雄' sweep again surfaced only distinct individuals — 蘇國雄 (ourjourneys283/307/212), 蔡國雄 (ourjourneys305), 林國雄 (ourjourneys102), 王國雄 (ourjourney-343), 陳國雄 (728), 楊國雄/楊教授國雄 (my-stories-784, TJJ 2021-03 newsletter) — none are K.H. Huang; correctly excluded. Verified saturated, SKIP, no conflicts.
