@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Frank M. Hsu (徐民忠)
 
@@ -49,3 +49,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-verified 2026-10-06 (deepen-x slice 10051143-12): fresh ZH+EN grep (徐民忠 / Frank M. Hsu) across works/ + articles/ + sources/ + events/ + topics/ returned the identical hit set (#290 EN/ZH, #252 EN, #640, plus HOLDed same-name #335/#1701) — verified-saturated, nothing new absorbable.
 - Corpus re-verified 2026-10-08 (deepen-x slice 10060911-2, run 3): fresh ZH+EN grep (徐民忠 / Frank M. Hsu) across works/ + articles/ + sources/ + events/ + topics/ returned the identical hit set (#290 ZH/EN own-authored history, #252 EN roster, #640, sources index, plus HOLDed same-name #335/#1701) — verified-saturated, SKIP, no new absorbable material.
 - Corpus re-verified 2026-10-09 (deepen-x slice 10080400-6): fresh ZH+EN grep (徐民忠 / Frank M. Hsu / Frank Hsu) across works/ + articles/ + sources/ + events/ + topics/ returned the identical hit set (#290 ZH/EN own-authored history, #252 EN roster, #640, sources index, works/index, plus HOLDed same-name #335/#1701) — verified-saturated, nothing new absorbable.
+- Corpus re-verified 2026-10-10 (deepen-x slice 10090800-17): fresh ZH+EN grep (徐民忠 / Frank M. Hsu / Frank Hsu) across works/ + articles/ + sources/ + events/ + topics/ returned the identical hit set (#290 ZH/EN, #252 EN, #640, #335/#1701 HOLDed, sources index, works/index) plus one new file: [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research Center Taiwanese American statement]] signs "Frank Hsu, Taiwanese Hakka Association of North(ern) California" ×3 — HOLD: THANC (Northern California) is a different association from HAPA-NA; attribution to this 徐民忠 unconfirmed, do not merge. Verified-saturated otherwise.
