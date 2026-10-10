@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-10
 ---
 # Jennifer Hung (洪錦鈺)
 
@@ -79,3 +79,5 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A10040700-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-6 article e9ec20fd58bf6b1c (長青教室標籤頁 p6, 2024-06-21快照): subject link re-checked vs 正文 (「長青教室 心得報告: 植牙與口腔的再春/ 講員:洪錦鈺與洪遠相兩位醫師/ 11-07-2012」條目確認見於正文), real, no wrong/spurious links; 2012-11-07 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10080401-32: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-32 article e9ec20fd58bf6b1c (長青教室標籤頁 p6, 2024-06-21快照): subject link 洪錦鈺 re-checked vs 正文 this attempt (「長青教室 心得報告: 植牙與口腔的再春/ 講員:洪錦鈺與洪遠相兩位醫師/ 11-07-2012」條目確認見於正文), real, no wrong/spurious links; 2012-11-07 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 2026-10-10 DEEPEN-X10081300-5: fresh grep (洪錦鈺/Jennifer Hung, all 5 corpus dirs, + 洪遠相 probe) hit set identical to records already cited here (ourjourneys265 2009-08-16 美西夏令會籌備會議, ourjourneys107 植牙講者, whoswho1485, TJJ e9ec20fd58bf6b1c, TJJ 8362234ba338aea7, category page 8a33fbaac2009654 = same 2022-05-17 投書的 category listing) — verified-saturated, SKIP-no-new-facts; last_reviewed bumped.
