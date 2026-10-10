@@ -147,3 +147,5 @@ last_reviewed: 2026-10-09
 <!-- TJJ-A10090501-8: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-8 article 24ebe5f065076949 (2016海外台語研習會公告, 2016-05-10) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090501-29: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-29 article 52a71221d3029866 (台文通訊30週年慶祝會ONLINE公告, 2021-06-29刊/2021-09-20快照) read fresh this attempt: 鄭良光以【台文通訊】01-50期總編輯名列特別來賓名單 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090601-16: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-16 article ad7f737b9872262d (第55回世界臺灣文化論壇「大佛普拉斯」, 2022-10-03 發文/2025-09-06 快照) read fresh this attempt: subject link re-checked vs 正文 (「主持人 鄭良光」確認見於正文), real, no wrong/spurious links; 2022-10-03 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
