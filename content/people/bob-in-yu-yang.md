@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # Bob In-Yu Yang (楊英育)
 
@@ -61,3 +61,4 @@ Note: TAH bio lists NAPTKA Kansas Chapter president 1993-95, 2006-07; the commun
 - **Corpus re-grep 2026-09-23** (slice 09230317-3): 楊英育 across works + articles — hit set identical to records already linked above (#660, OJ #228/#234/#296/#351); loose romanization hits (e.g. hsin-yun-huang) are false positives; no new absorbable material. SKIP。
 - **Corpus re-grep 2026-09-25** (slice 09231100-1): 楊英育 / In-Yu Yang across works + articles — hit set identical to records already linked above (#660, OJ #228/#234/#296/#351); no new absorbable material. SKIP.
 - **Corpus re-grep 2026-09-26** (slice 09251417-1): 楊英育 / In-Yu Yang across works + articles — hit set identical to records already linked above (#660, OJ #228/#234/#296/#351); no new absorbable material. SKIP.
+- **Corpus re-grep 2026-10-10** (slice 10081500-2): 楊英育 / In-Yu Yang / surname across all 5 corpus dirs (works/articles/sources/events/topics) — hit set identical to records already linked above (#660, OJ #228/#234/#296/#351, plus index/sources directory listings); no new absorbable material. Verified-saturated. SKIP.
