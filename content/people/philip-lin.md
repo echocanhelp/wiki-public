@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Philip Lin (林水泉)
 
@@ -69,7 +69,7 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 - 1986-03 — When overseas Taiwanese supporters declared the 台灣民主黨 in New York, 許信良 joined the party together with 謝聰敏 and 林水泉; 梅心怡 served as English spokesperson ([[works/taiwaneseamericanhistory-org/our-journeys-363|Our Journeys #363]]).
 - 1986-11-30 — One of the blacklisted figures (with 許信良、謝聰敏) who flew from Tokyo Narita to force entry back to Taiwan; over ten thousand met them at Taoyuan Airport and the KMT riot police response turned it into the 桃園機場事件 ([[works/taiwaneseamericanhistory-org/ourjourneys230|Our Journeys #230]]; the same episode is also recounted in [[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys #74]], where 林水泉 is named alongside 許信良 in the 闖關 that triggered the incident).
-- The TAH corpus preserves the contemporary record of the return: [[works/taiwaneseamericanhistory-org/2-e8-ac-9d-e6-b8-85-e5-bf-97-e3-80-81-e6-9e-97-e6-b0-b4-e6-b3-89-e7-ad-89-e4-b8-|2. 謝清志、林水泉等七人回台無故被毆，被迫離境]] — beaten without cause upon returning to Taiwan and forced to leave.
+- The TAH corpus preserves the contemporary record of the return: [[works/taiwaneseamericanhistory-org/2-e8-ac-9d-e6-b8-85-e5-bf-97-e3-80-81-e6-9e-97-e6-b0-b4-e6-b3-89-e7-ad-89-e4-b8-|2. 謝清志、林水泉等七人回台無故被毆，被迫離境]] — beaten without cause upon returning to Taiwan and forced to leave. The other named returnee in that record, 謝清志, is profiled at [[people/xie-qingzhi-xie-poyi|謝清志 (Ching Sze Hsieh)]].
 - His own TAH encyclopedia entries profile him as the first Taiwanese American Taipei City Councillor: [[works/taiwaneseamericanhistory-org/ff303|303. Philip Lin 林水泉 / The First T.A. to be the City Councillor of Taipei]] and [[works/taiwaneseamericanhistory-org/whos1287|1287. Philip Lin 林水泉 / 2016-09]].
 - Photographed in the front row (林水泉，許信良，謝聰敏，艾琳達，許國泰) of the overseas democracy-movement group portrait in [[works/taiwaneseamericanhistory-org/our-journeys-363|Our Journeys #363]].
 - Corpus re-grep 2026-09-21 (slice 09210317-4): SKIP-new-facts — hit set unchanged (Our Journeys #74 桃園機場事件, #363, ff303/whos1287 encyclopedia entries, 陳昭南 TJJ memoir); all already absorbed above.
@@ -89,3 +89,4 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10060600-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-1 articles (e3440fec3eed8107 籌謀台灣不流血革命: 林水泉 link (從台灣赴美加入洛杉磯美麗島週報社) — subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070800-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-1 article e3440fec3eed8107 (籌謀台灣「不流血革命」的獻策高手原來是他 ◎ 陳昭南, TJJ 2022-05-09): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- DEEPEN-X10081000-3: re-grep 2026-10-09 — ZH+EN+surname (林水泉/Philip Lin/philip-lin) across works/articles/sources/events/topics returns the saturated hit set (ourjourneys74 + eng, ourjourneys230, our-journeys-363, ff303, whos1287, 謝清志林水泉回台被毆 record, TJJ 2023-03-16 / 2025-07-18 / 3be67f6e / e3440fec); no new absorbable material. Reciprocal link added to 謝清志 (people/xie-qingzhi-xie-poyi) in the 回台被毆 record line; last_reviewed bumped. -->
