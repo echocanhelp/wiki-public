@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # S. Y. Huang (黃森元)
 
@@ -62,3 +62,5 @@ last_reviewed: 2026-10-09
 Corpus re-check 2026-10-08 (deepen-x slice 10062334-1): fresh 黃森元／S. Y. Huang grep across works/articles/sources/events/topics — hit set identical (#186/-eng, #253, #212, #1197, #422, #903, index), all already absorbed and linked. Verified-saturated; SKIP-for-new-facts.
 
 Corpus re-check 2026-10-09 (deepen-x slice 10080500-4): fresh 黃森元／S. Y. Huang／森元 grep across works/articles/sources/events/topics — hit set identical (#186/-eng, #253, #212, #1197, #422, #903, index); every matched passage already absorbed and wikilinked above. Verified-saturated; SKIP-for-new-facts.
+
+Corpus re-check 2026-10-10 (deepen-x slice 10090900-5): fresh 黃森元／S. Y. Huang／森元 grep across works/articles/sources/events/topics — hit set identical (#186/-eng, #253, #212, #1197, #422, #903, index, sources page); all matched passages (census committee 理事會 roster, 19-person census 工作委員會, 生活座談會 founding/西區 rosters, 太平洋時報 發行人/社長 rescue, TACL consultants list) already absorbed and wikilinked above. Verified-saturated; SKIP-for-new-facts.
