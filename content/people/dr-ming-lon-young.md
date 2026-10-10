@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Dr. Ming-Lon Young (楊明倫醫師)
 
@@ -65,3 +65,5 @@ Clinical career in South Florida: after posts at the University of Iowa and the 
 - Slice 09150400-10 語料複核（2026-09-15）：SKIP-with-reason——重跑 grep 楊明倫/Ming-Lon Young（works＋articles）命中集合不變（#279、#1299、#80 書目記錄＋works/index）；memoir 語料無新社區事實，無衝突須 HOLD。
 
 - Slice 09150500-1 語料複核（2026-09-15）：SKIP-with-reason——重跑 grep 楊明倫/Ming-Lon Young（works＋articles）命中仍僅 #279、#1299、#80 三條書目記錄（均已連結）＋works/index；memoir 語料無新社區事實，無衝突須 HOLD。
+
+- Slice 10091414-4 語料複核（2026-10-10）：SKIP-with-reason——重跑 grep 楊明倫／Ming-Lon Young／明倫＋ surname 遍 hits（works＋articles＋sources＋events＋topics）命中集合仍僅 #279、#1299、#80 三條書目記錄（均已連結）＋works/index＋sources 頁；ourjourneys107 命中為吳明倫先生（理財專欄，非本人）、TJJ 20260209 命中為董明倫 Doug McMillon（誤命中），皆非本人語料。memoir 語料無新社區事實，無衝突須 HOLD。
