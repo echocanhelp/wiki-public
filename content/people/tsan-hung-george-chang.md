@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # Tsan-hung George Chang (張燦鍙教授)
 
@@ -68,6 +68,15 @@ Tsan-hung George Chang 張燦鍙 – History of Taiwanese American (T.A. Archive
 - 《台灣公論報》founding era: in 張月英's oral history he quipped that even he was told 《台獨月刊》「拿去廁所看還看不下去」, prompting the movement to publish an easier-to-read paper, and he proposed a 「三日刊」 cadence for it: [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys #49 — 《台灣公論報》創刊]].
 - The KMT prosecution in the 美麗島/Kaohsiung Incident named him a 「暴力分子」 whose alleged work-funds ($5,000 carried by Rev. 張瑞雄 to 姚嘉文) were branded WUFI donations — regime-side evidence of his WUFI fundraising reach: [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys #350 — 舊金山灣區台灣基督教會史料]].
 - Memorialized alongside 林永生 and 王康陸 in the community's remembrance of 王康陸: [[works/taiwaneseamericanhistory-org/ourjourneys302|Our Journeys #302 — 台美人沒有忘記王康陸]].
+- 1961–1965 — As a Rice Ph.D. student in Houston he was the acknowledged leader of the local student group — 呂理順's memoir recalls his Ford Falcon, Galveston fishing/crabbing trips, and Memorial Park mid-autumn moon-viewing parties: [[works/taiwaneseamericanhistory-org/our-journeys-359|Our Journeys #359 — 一九七零年前休城臺灣人的狀況]].
+- 1966-07-04 — As part of the Houston delegation (with 廖明徵) he attended the Philadelphia talks that founded UFAI, the 台獨聯盟 predecessor; the 「自由長征」 assigned to him and 陳榮成 to crisscross the university towns distributing 《台灣青年》/《Formosagram》 is described there, and his own account of the 八千哩 run is in [[works/taiwaneseamericanhistory-org/ourjourneys7|Our Journeys #7 — 八千哩路自由長征]]: [[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys #81]].
+- 1971 — At the Little League World Series in Williamsport, as WUFI chair he rented a banner plane 「台灣獨立萬歲 / GO GO TAIWAN」 over the stadium ($260) against KMT flag-mobilization, and devised the salt-in-pocket countermeasure for the PhDs facing naval veterans: [[works/taiwaneseamericanhistory-org/ourjourneys62-eng|Our Journeys #62 — 博士與水手在威廉波特的對陣]]. HOLD: this account names him WUFI chair in 1971 while the tah-tables and 張炎憲's account date his first election as U.S. headquarters chair to 1973 — not auto-merged.
+- 1979-12-15 — The 臺灣獨立聯盟 (represented by him) was among the founding groups of the 臺灣建國聯合陣線 in New York after the 美麗島 arrests: [[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]].
+- 二萬名移民額 campaign — 蔡同榮 credits him, as 聯盟主席, with 「功不可沒」: constant strategy consultation and support throughout the immigration-quota fight: [[works/taiwaneseamericanhistory-org/ourjourneys59|Our Journeys #59 — 二萬名移民額]].
+- 1981 — He invited 月英 into the聯盟's New York office (the 「咖啡廳」 cover name), where she copied/mailed 《台獨月刊》 and helped prepare 《台灣公論報》 — corroborating his role in that paper's founding era already cited via [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys #49]]: [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys #33 — 一家人做伙來打拼]].
+- 九月廿八日「台獨聯盟遷台餐會」 in New York (year not stated in the memoir) — he walked his octogenarian mother onstage for the crowd's tribute and announced the first list of聯盟 members returning to Taiwan with him: [[works/taiwaneseamericanhistory-org/ourjourneys280|Our Journeys #280 — 那一夜，在紐約]].
+- 2017-03 — Returned to the U.S. to talk with T.A. organizations: [[works/taiwaneseamericanhistory-org/2017-05|TAH photo record — Prof. Tsan-hung Chang came to the U.S. and talked to T.A. organizations, March 2017]]; a colleague's portrait of his mayoral years: [[works/taiwaneseamericanhistory-org/mystories412|My Stories #412 — 他所認識的張燦鍙市長]].
+- His own political writings in the corpus: [[works/taiwaneseamericanhistory-org/publications1179|台灣建國藍圖概略 (1983-04)]], [[works/taiwaneseamericanhistory-org/319-e5-8f-b0-e7-81-a3-e8-88-8a-e7-9a-84-e7-a5-9e-e8-a9-b1-e5-92-8c-e6-96-b0-e7-9|台灣：舊的神話和新的現實 (1987-10)]], [[works/taiwaneseamericanhistory-org/317-e5-bb-ba-e8-a8-ad-e6-9d-b1-e6-96-b9-e7-91-9e-e5-a3-ab-e5-bc-b5-e7-87-a6-e9-8|建設東方瑞士 (1989-06)]], [[works/taiwaneseamericanhistory-org/172-e5-8f-b0-e7-81-a3-e7-8d-a8-e7-ab-8b-e9-81-8b-e5-8b-95-e4-b8-89-e5-8d-81-e5-b|台灣獨立運動三十年(上) (1991-10)]], [[works/taiwaneseamericanhistory-org/publications316|文化—台灣問題的根源 (2003-06)]], [[works/taiwaneseamericanhistory-org/315-e5-8f-b0-e7-81-a3-e5-9c-8b-e5-ae-b6-e4-b9-8b-e9-81-93-e5-bc-b5-e7-87-a6-e9-8|台灣國家之道 (2009-11)]]; undated record of a State Department talk on the Taiwan question: [[works/taiwaneseamericanhistory-org/12-17|TAH #17 — 張燦鍙教授於美國國務院演講台灣問題]].
 
 ## From the record
 
