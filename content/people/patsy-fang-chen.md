@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-09
 ---
 # Patsy Fang Chen (方秀蓉)
 
@@ -94,6 +94,19 @@ Absorbed from the on-page bio and tah-tables (no external sources):
 
 - 2021-01-12 — 以紐約台灣會館理事長身分與華府、洛杉磯、聖地牙哥、北加州四大會館首長署名聯合聲明，就萊豬開放爭議主張「反對科學議題政治化」，呼籲朝野協商機制下認真看待執行面（[[articles/taiwanjustice-net/2021/20210121172817_2021_01_12_美國五大台灣會館評萊豬_反對科學議題政治化_1251d9ed43ef6e32|TJJ, 2021-01-12]]）。
 - 2021-04-07 — 自2017年起出任紐約台灣會館理事長兩任4年屆滿，於交接典禮將理事長職位交予蘇春槐並轉任副理事長；任內積極舉辦台美文化活動、號召賑災捐款，疫情期間協助紐約僑胞取得台灣製口罩；她表示台灣會館在紐約聲望水漲船高，希望更上好幾層樓（[[articles/taiwanjustice-net/2021/20210415111016_2021_04_07_紐約台灣會館-蘇春槐接理事長盼永續經營_483521594640641a|TJJ/CNA, 2021-04-07]]）。
+
+## Writings by 方秀蓉 (TAH corpus, deepen-x 2026-10-09)
+
+Her own essays and reports in the TAH corpus — previously unlinked from this page — document her community role beyond the press-kit bio:
+
+- 2014 — [[works/taiwaneseamericanhistory-org/99-e6-87-b7-e5-bf-b5-e5-91-a8-e7-a7-80-e7-90-b4-e5-a7-90-e6-96-b9-e7-a7-80-e8-93|TAH #99, 懷念周秀琴姐]] — memoir essay.
+- 2014 — [[works/taiwaneseamericanhistory-org/105-e6-88-91-e4-b9-9f-e6-98-af-e6-bc-94-e5-93-a1-e6-96-b9-e7-a7-80-e8-93-89|TAH #105, 我也是演員]] — essay.
+- 2014 — [[works/taiwaneseamericanhistory-org/107-e9-ae-ad-e9-ad-9a-e7-9a-84-e7-ac-91-e8-88-87-e7-9c-bc-e6-b7-9a-e6-96-b9-e7-a|TAH #107, 鮭魚的笑與眼淚]] — essay.
+- 2015-03 — [[works/taiwaneseamericanhistory-org/121-e7-b4-90-e7-b4-84-e5-b9-bc-e7-8d-85-e9-9d-92-e5-b0-91-e5-b9-b4-e7-ae-a1-e5-b|TAH #121, 紐約幼獅青少年管弦樂團於台灣會館舉辦移民]] — report on the youth orchestra's immigration-themed concert at the Taiwan Center.
+- 2015-05 — [[works/taiwaneseamericanhistory-org/131-e9-97-9c-e6-96-bc-e5-8f-b0-e7-81-a3-e6-9c-83-e9-a4-a8-e4-b8-89-e6-9e-b6-e9-8|TAH #131, 關於台灣會館三架鋼琴的故事]] — account of the three pianos at the Taiwan Center.
+- 2017-08 — [[works/taiwaneseamericanhistory-org/ourjourneys306|TAH OJ #306, 紐約幼獅青少年管弦樂團的簡介]] — introduction to the NY Lions Youth Orchestra, consistent with her Artistic Director role at [[organizations/youth-orchestra-cycny||CYCNY]].
+- 2020-09 — [[works/taiwaneseamericanhistory-org/mystories-742|TAH #742, 懷念鄭寶鼎博士]] — memorial essay.
+- 2020-09 — quoted in [[works/taiwaneseamericanhistory-org/our-journeys-360|TAH OJ #360, Taiwanese Americans use coronavirus as moment to create own narrative]] as president of the Taiwan Center in Queens, on pandemic donations. NOTE: that record names her as president of the Taiwan Center *in Queens*; the CNA record below has her as 紐約台灣會館理事長/副理事長 — same community post, org naming differs by source. HOLD: "Taiwan Center in Queens" (OJ #360, EN) vs "紐約台灣會館" (TJJ/CNA, ZH).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
