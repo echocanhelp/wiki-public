@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-09
 ---
 # Fang-Yuh Rita Chen (陳芳玉)
 
@@ -71,3 +71,9 @@ Absorbed from the TAH profile above:
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen pass 2026-10-09 (vault-only)
+- WTWA's own association history names her as **founder/initiator** (發起人) of the 威郡台灣婦女會 in **fall 1974**, alongside convener 林許世真 (deceased) — [[works/taiwaneseamericanhistory-org/ourjourneys18|TAH #18]] / [[works/taiwaneseamericanhistory-org/ourjourneys18-eng|TAH #18 EN]]. HOLD: founder (per WTWA history) vs co-founder (per TAH Who's Who bio) — kept as co-founder above pending reconciliation.
+- 1994 — performed at the Scarsdale Women's Club "East Meets West" cultural exchange as WTWA's pianist, playing modern Taiwanese composers' works with members singing folk/nursery rhymes alongside the Club Chorus ([[works/taiwaneseamericanhistory-org/ourjourneys18|TAH #18]]).
+- 1999-04-11 — the 25th-anniversary charity piano recital (see above) raised funds donated to the **Taiwan Center** toward its **Steinway Concert Grand Piano** and to the **Music Conservatory of Westchester Scholarship Fund** — the WTWA history adds the recipients behind [[works/taiwaneseamericanhistory-org/concerts111|TAH #111]] ([[works/taiwaneseamericanhistory-org/ourjourneys18|TAH #18]]).
+- 2005 — SWC's second "East Meets West" exchange: she played three piano arrangements of Taiwanese folk songs alongside the "Sun Moon Lake" puppet show and members' chorus ([[works/taiwaneseamericanhistory-org/ourjourneys18-eng|TAH #18 EN]]).
