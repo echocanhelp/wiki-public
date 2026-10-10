@@ -54,6 +54,8 @@ name_en: "Tsai Ing-wen"
 
 ## From the record
 
+- 複核（TJJ-A10090401-30, 2026-10-10）：本 slice 文章 taiwanjustice-net/index（存檔索引頁）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09251400-4, 2026-09-26）：本 slice 文章 fd270f41202454d7（美駐聯合國大使克拉夫特挺台） 正文再驗證——蔡總統轉推感謝克拉夫特挺台全文確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09251000-13, 2026-09-26）：本 slice 文章 760a0bc942e1676b（VOA：台灣祝賀拜登、賀錦麗就職）正文再驗證——蔡總統發推祝賀全文確認見於正文，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
@@ -215,3 +217,5 @@ name_en: "Tsai Ing-wen"
 <!-- TJJ-A10090401-20: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-20 article 760a0bc942e1676b (VOA「台灣祝賀拜登、賀錦麗就任美國總統、副總統」, 2021-01-20 發文 / 2021-02-27 快照) read fresh this attempt: subject link re-checked vs 正文 — 蔡總統於拜登賀錦麗就職後發推祝賀全文「台灣已準備好作為全球一股良善力量與你們合作」(#BetterTogether) 確認見於正文, real, no wrong/spurious links (Biden/Harris 為祝賀對象非本庫論述人物未掛鏈, 正確處理); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090401-25: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-25 article fd270f41202454d7 (美駐聯合國大使克拉夫特挺台，蔡總統蕭美琴謝 台灣黑熊也入鏡, taiwanjustice.net, 2020-09-30 發文 / 20201113 快照) read fresh this attempt: subject link re-checked vs 正文 — 蔡總統轉推克拉夫特推文感謝肯定台灣公共衛生與經濟貢獻、回文「若台灣能進一步參與國際社會，就可以為全世界做出更多貢獻」及本人推文引文確認見於正文, real, no wrong/spurious links (克拉夫特 Kelly Craft 為本文主角報導對象非本庫論述人物未掛鏈, 正確處理); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090401-31: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-31 article 20240522053244_root_042939d886040651 (高龍榮 Mark Kao Taipei Times 專欄「US pressure on 'specific outcomes' feels unjust」, 2015-03-27 刊 / 2024-05-22 快照) read fresh this attempt: subject link re-checked vs 正文 — 蔡英文時任 DPP 主席暨 2012 總統參選人、2011-09 訪美被 AIT 前主管 Barbara Schrage 批「強調民主 process 而未給 specific outcome」、專欄反譏美方自身政策亦只講 process 之記述確認見於正文, real, no wrong/spurious links (Schrage／習近平為評論對象非本庫論述人物未掛鏈, 正確處理); dated fact w/ article wikilink (2015-03-27) already in From the record — saturated, no new material. -->

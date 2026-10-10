@@ -27,6 +27,8 @@ last_reviewed: 2026-09-24
 
 
 ## From the record
+
+- 複核（TJJ-A10090401-30, 2026-10-10）：本 slice 文章 taiwanjustice-net/index（存檔索引頁）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
 - 複核（TJJ-A10030400-5, 2026-10-05）：本 slice 四篇（[[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|17835ad9]]／[[articles/taiwanjustice-net/2025/20250213030340_以立合唱團_演唱_末日之淚_-選自威爾第的_6ba229d2998bbfa4|6ba229d2]]／[[articles/taiwanjustice-net/2024/20240228151341_root_8c6aeada16c1e8ba|8c6aeada]]／[[articles/taiwanjustice-net/2023/20230202201307_2022_12_14_以立合唱團_演唱_末日之淚_-選自威爾第的_e7e0fe18037cc328|e7e0fe18]]）正文再驗證——涉本人各篇（以立指揮、末日之淚兩存檔副本 author/指揮）subject 連結為真，無錯鏈、無虛鏈；[[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|17835ad9]] 正文與 Subjects 均無涉本人；含各文 wikilink 的 2016-06-11 與 2022-10-01／10-08 條目均已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09260600-4, 2026-09-27）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240622135632_root_54dd66fe454bf899|54dd66fe]] 正文再驗證——以立合唱團總指揮楊子清率團赴 Mayfield 交流並稱「國民外交」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2024-05-13 條目已在庫 — SKIP，無新材料。
