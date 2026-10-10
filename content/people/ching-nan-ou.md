@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 <!-- deepen-x slice 10051200-4 (2026-10-06): fresh ZH+EN grep (歐清南/Ching-Nan Ou) of works/articles/sources/events/topics -> hit set unchanged (ourjourneys233 / -eng / own record 816 + index). All corpus facts already absorbed in Role in the Community. Verified-saturated, SKIP. -->
 # Ching-Nan Ou (歐清南)
@@ -62,3 +62,4 @@ His own memoir/record is held at [[works/taiwaneseamericanhistory-org/816-ching-
 <!-- deepen-x slice 09261200-18 (2026-10-01): fresh ZH+EN grep (潘銘梁/Ming Liang Pan) of works+articles -> own record whos-who-2060 + works index only; no memoir/community material absorbable. SKIP re-verified. -->
 <!-- deepen-x slice 10061023-4 (2026-10-08): fresh ZH+EN grep (歐清南/Ching-Nan Ou) across works/articles/sources/events/topics -> hit set unchanged (ourjourneys233 / -eng / own record 816 + index). All corpus facts already absorbed in Role in the Community. Verified-saturated, SKIP. -->
 <!-- deepen-x slice 10080500-25 (2026-10-09): fresh ZH+EN+surname grep (歐清南/Ching-Nan Ou/清南) across works/articles/sources/events/topics -> hit set unchanged (ourjourneys233 / -eng / own record 816 + index; taiwanjustice hit is substring false-positive 忠清南道/慶尚南道). All corpus facts already absorbed in Role in the Community. Verified-saturated, SKIP. -->
+<!-- deepen-x slice 10091316-4 (2026-10-10): fresh ZH+EN+surname grep (歐清南/Ching-Nan Ou/清南) across works/articles/sources/events/topics -> hit set unchanged (ourjourneys233 / -eng / own record 816 + index; taiwanjustice hit is substring false-positive 忠清南道/慶尚南道; 816 record is bibliographic-only, no absorbable text). All corpus facts already absorbed in Role in the Community. Verified-saturated, SKIP. -->
