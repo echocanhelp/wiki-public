@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # S.S. Huang (黃申生)
 
@@ -49,6 +49,7 @@ last_reviewed: 2026-10-09
 - Corpus re-check 2026-10-06 (deepen-x slice 10051143-14): fresh ZH+EN grep surfaces two further works authored by his wife 楊詠絮 — her 台灣公論報 column [[works/taiwaneseamericanhistory-org/columns18|18. 美居絮談(台灣公論報) / 楊詠絮 / 2016-10]] and her edited 千禧年專輯 [[works/taiwaneseamericanhistory-org/publications115|115. 北美台灣婦女信箱千禧年專輯 / 楊詠絮 主編 / 04/2001]] — both corroborate the NATWA record above; the #636/#2109/#2086 hit set is otherwise unchanged.
 - Corpus re-check 2026-10-08 (deepen-x slice 10060950-2): fresh ZH+EN grep (黃申生 / 申生 / S.S. Huang) across works+articles+sources+events+topics returns only #2109, #636, ourjourneys79 and the #2086 黃壽山 disambiguation record — hit set unchanged from the records already linked above. #636 remains bibliographic-only (full text in vault), so no absorbable prose. Saturated, SKIP.
 - Corpus re-check 2026-10-09 (deepen-x slice 10080400-8): fresh ZH+EN grep (黃申生 / S.S. Huang / 申生) across works+articles+sources+events+topics returns the identical hit set — #2109, #636, ourjourneys79, the #2086 黃壽山 disambiguation record, plus index/source listings. No new corpus material; all hits already reflected in the links above. Verified-saturated.
+- Corpus re-check 2026-10-10 (deepen-x slice 10090800-19): fresh ZH+EN grep (黃申生 / S.S. Huang / 申生 / 楊詠絮) surfaces two wife-side works not previously linked — [[works/taiwaneseamericanhistory-org/ourjourneys161|161. Our Journeys / NATWA 婦女信箱 history]], whose editor roster places 楊詠絮 as a 婦女信箱 host/editor in 1999–2000 (and records her 2000 compilation of that year's 單行本), and [[works/taiwaneseamericanhistory-org/22-e9-97-9c-e6-87-b7-e6-96-87-e9-9b-862002-e5-b9-b4-e5-b0-88-e8-bc-af-e6-9d-8e-e|22. 關懷文集 2002 年專輯 / 李芬芬、楊詠絮 / 2002-04]], which she co-edited. Both corroborate the NATWA record above; the 黃申生 hit set (#2109, #636, ourjourneys79, #2086 黃壽山 disambiguation) is unchanged. Verified-saturated for 黃申生 himself.
 
 
 ## Sources
