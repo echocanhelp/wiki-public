@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Nobu Lu (呂信也)
 
@@ -84,3 +84,4 @@ last_reviewed: 2026-09-25
 
 <!-- TJJ-A10060400-18: verified 2026-10-07 — wave-2 re-check of slice 10060400-18 article 3246c11d0909b4fe (洛僑中心「台灣‧藝象」首場講座公告) 正文再驗證——呂信也任監製及總策畫、1964/1966/1970 年經歷均確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2018-08-31 條目已在庫 — saturated, no new material. -->
 <!-- TJJ-A10070800-5: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-5 article 3246c11d0909b4fe (洛僑中心「台灣‧藝象」首場講座公告, 2018-08-25): subject link re-checked vs 正文 this attempt (呂信也任監製及總策畫; 1964/1966/1970 經歷均確認見於正文), real, no wrong/spurious links; 2018-08-31 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- DEEPEN-X10090600-13: verified 2026-10-10 — fresh ZH+EN re-grep (呂信也/吕信也/Nobu Lu/蕭美霓/Trykar) across works/articles/sources/events/topics: hit set unchanged (whos339 / art-show-1997 / nobu-lu-conductor works, works/index, 3246c11d article, sources/taiwaneseamericanhistory-org) — all already absorbed in Timeline/Vault Holdings/From the record. 呂泉生-adjacent records (ourjourneys301, 2023 會館台灣學校音樂課 article) mention 呂泉生 only, not 呂信也 — no new material — saturated, skipped. -->
