@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-10
 ---
 # Dr. Justine Fang Chen (陳潔思博士)
 
@@ -63,3 +63,4 @@ Read together, the corpus places her career inside the community's own ensembles
 - Corpus re-grep 2026-09-20 (slice 09181500-4): hit set unchanged (#62, #66, #164, #208, #519 + works index) — all already wikilinked above. SKIP — saturated.
 - Corpus re-grep 2026-09-21 (slice 09201300-3): hit set unchanged (#62, #66, #164, #208, #519 + works index) — all already wikilinked above. SKIP — saturated; no third-party memoir mentions, nothing new absorbable, no conflicts.
 - Corpus re-grep 2026-09-22 (slice 09211123-1): hit set unchanged (#62, #66, #164, #208, #519 + works index) — all already wikilinked above. SKIP — saturated; no third-party memoir mentions, nothing new absorbable, no conflicts.
+- Corpus re-grep 2026-10-10 (slice 10090400-23): 5-dir grep (陳潔思/Justine Fang Chen/Justine F. Chen/潔思) across works+articles+sources+events+topics returned the identical saturated set (#62, #66, #164, #208, #519 + index — all wikilinked). Broad 'justine' sweep confirms the remaining hits are different people (Justine Ker whos1124/justineker/representation-apa, Justine Kao roots-and-leaves, HK activist 賈斯汀 taiwanjustice 2025). SKIP — saturated, nothing new absorbable, no conflicts.
