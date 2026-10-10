@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Dr. Wu Hsiung Tsai (蔡武雄博士)
 
@@ -42,6 +42,7 @@ Corpus records (memoirs and movement histories in the vault) document a substant
 
 These corpus facts are consistent with the TAH employment record (Cornell, Princeton, and Federal Government / Library of Congress service; Ph.D. Library Science, Univ. of Chicago 1970). No date or name conflicts found. (Note: 蔡文雄, a Washington D.C. lawyer among the 1971 TAA registrants in the same memoir, is a different person.)
 
+- **1993 闖關返台 statement drafting (DC):** When 郭倍宏, 李應元, 張燦鍙, 王康陸, 陳婉真 and others staged return-to-Taiwan protests, the 全美台灣人權會 (National Alliance of Taiwan Human Rights, 王泰和 president) appealed to Amnesty International; the statements of principle for the arrested returnees were drafted by 蔡武雄 at the DC-based Center for Taiwan International Relations (國關中心) and issued by the Los Angeles human-rights group, with the detained activists then taken up by Amnesty chapters worldwide. See [[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|化作千風：懷念王泰 (2025)]].
 - **2018 NTU alumni open letter (管中閔 controversy):** The 2018/07 taiwanjustice.net record of NTU alumni protesting the invitation of 管中閔 to the Southern California NTU Alumni Association lists 「蔡武雄(外文)」 among the signatories — see [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|抗議南加州台大校友會邀管中閔 (2018/07)]]. HOLD: the signatory is tagged 外文系 while this profile's education record is Library Science (Univ. of Chicago); undergrad department unrecorded here, so identity not auto-merged.
 
 _Corpus re-scan 2026-09-23: fresh grep of works/articles for 蔡武雄/Wu Hsiung Tsai returns the same hits (ourjourneys76 & -eng, ourjourneys254, ourjourneys63, ourjourneys47, whos-who-1703); all absorbed above — verified saturated, no new community facts._
@@ -58,3 +59,4 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-25 (slice 09240500-12): hit set identical to prior scans (ourjourneys76 & -eng, 254, 63, 47, whos-who-1703); no new corpus material; verified saturated.
+- Corpus re-grep 2026-10-10 (slice 10090600-2): one new hit — 2025/08 taiwanjustice.net 化作千風 tribute to 王泰, which records 蔡武雄's 國關中心 drafting the 1993 returnee statements; absorbed above. Prior hit set unchanged.
