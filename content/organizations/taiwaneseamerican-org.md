@@ -11,7 +11,7 @@ tags:
   - story-corpus
 website: https://www.taiwaneseamerican.org/
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-09
 ---
 # TaiwaneseAmerican.org
 
@@ -27,6 +27,17 @@ last_reviewed: 2026-09-27
 ## History
 
 Founded in **2006** as a web portal highlighting people, events, and organizations that make up Taiwanese America. About (2026-08-20 archive): it is both a volunteer-driven website and a nonprofit that intends to connect and promote those who identify with Taiwanese identity, heritage, or culture. The staff page states volunteers are based around the country. Founder [[people/ho-chie-tsai||Ho Chie Tsai]] is listed under Executive Board / Founder; [[people/leona-chen||Leona Chen]] as Editor-in-Chief on the masthead.
+
+## Role in the Community
+
+In founder Ho Chie Tsai's own account ([[works/taiwaneseamericanhistory-org/mystories554|mystories554]]), the site was created in 2006 "to bring together the growing 2nd generation Taiwanese American community by highlighting the events, organizations, and emerging celebrities and voices of our community." Beyond publishing, the organization has **spearheaded or supported community campaigns** documented in the corpus:
+
+- **"Write in Taiwanese" 2010 Census campaign** — encouraging Taiwanese Americans to write in their ethnic identity on the U.S. Census.
+- **100 Passionate People Project** — profile series of community figures.
+- **Our Taiwanese American Story archive** — community story archive aligned with the site's stated value of "preserving and archiving an evolving history and legacy."
+- Platform support for artists, musicians, and actors in non-traditional career paths.
+
+The organization was profiled in the TAH.org Who's Who corpus circa 2015 as a community institution in its own right — see [[works/taiwaneseamericanhistory-org/12-taiwaneseamerican-org|TAH Who's Who entry 12]] and [[works/taiwaneseamericanhistory-org/4taiwaneseamerican-org|entry 4]] (duplicate numbering across corpus editions).
 
 ## Mission
 
