@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Dr. Ching-Tsang Hou (侯景滄博士)
 
@@ -41,10 +41,12 @@ A Chiayi-born agricultural chemist, Dr. Ching-Tsang Hou built a four-decade rese
 - 1989– — Lead Scientist, National Center for Agricultural Utilization Research, ARS, USDA, Peoria, IL
 - 1999– — US Side Chairperson, Biochemistry and Biotechnology Area, US-Japan program
 - 2015-01-23 — published his eightieth-birthday memoir 八十自述：出生在台灣 從日本人，中國人，到美國人 (Eighty Years-Old Memoir: Born in Taiwan, from Japanese, Chinese, to American) in the TAH story corpus: [[works/taiwaneseamericanhistory-org/mystories183|TAH #183]] (vault copy; full text stays in the vault). The memoir's framing — one life spanning three citizenships on one island — is his own account of the 1935-Chiayi generation; consistent with the 1935 birth year above (2015 − 1935 = 80).
+- 2015-01-22 — English edition of the same memoir carried in the story corpus: [[works/taiwaneseamericanhistory-org/68345-eng|TAH #68345 (English edition)]]; its record dates publication 2015-01-22. HOLD: publication-date conflict — the English-edition record says 2015-01-22, the Chinese-edition record says 2015-01-23; not auto-merged.
 
 ## Role in the Community
 - Left his personal papers with the TAH archive as a donated collection: [[works/taiwaneseamericanhistory-org/collection-of-dr-ching-tsang-hou|TAH #58, Collection of Dr. Ching-Tsang Hou 侯景滄博士的收藏]].
 - His memoir [[works/taiwaneseamericanhistory-org/mystories183|TAH #183, 八十自述 (2015)]] is held by the community as first-person movement-era history, alongside the encyclopedia records [[works/taiwaneseamericanhistory-org/58-dr-ching-tsang-hou|TAH #58]] and [[works/taiwaneseamericanhistory-org/whos-who-1837-ching-tsang-hou|TAH #1837]].
+- The memoir also reached the corpus in English translation as [[works/taiwaneseamericanhistory-org/68345-eng|TAH #68345]], so both language editions of his 八十自述 are indexed under his name — his account of "從日本人，中國人，到美國人" is one of the corpus's first-person framings of the 1935 Chiayi generation's citizenship transitions.
 
 ## Recognition & Service
 - American Oil Chemists Society Foundation — Vice Chairperson
