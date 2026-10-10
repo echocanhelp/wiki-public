@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Dr. Jung T. Tsai (蔡榮聰醫師)
 
@@ -73,3 +73,5 @@ Accomplishment
   - HOLD: 衝突 — 筆會創設年份 corpus 記 2003-11-29（ourjourneys12）vs TAH 表列 2005（該年實為第一屆年會，2005-01-01），不自動合併。
 - **義診**：本人親撰 [[works/taiwaneseamericanhistory-org/83-e7-be-a9-e8-a8-ba-e7-9a-84-e5-91-bc-e5-8f-ac-e9-9b-a3-e5-bf-98-e7-9a-84-e6-b5|TAH #83 義診的呼召：難忘的海地與多明尼加]]（2015/01）， firsthand 記錄加勒比海海外義診經歷。
 - **著作**：另有親撰散文 [[works/taiwaneseamericanhistory-org/185-e5-a5-b3-e5-85-92-e7-b5-90-e5-a9-9a-e6-84-9f-e8-a8-80-e8-94-a1-e6-a6-ae-e8-8|TAH #185 女兒結婚感言]]（2015/01），與 Family 欄女兒蔡華珊相呼應。
+- **著作（專書）**：[[works/taiwaneseamericanhistory-org/201-war-against-cancer|TAH #201 決戰癌症]]（2003/05，Life/生活），本人署名之癌症專書。
+- **台語文推廣**：以僑務委員身份主辦 2014-08-30～09-01 北澤西佳壇台語教會三天台語教師研習會（僑務委員會台語專家鄭安住老師來美巡迴演講），協辦含台灣駐紐約文教中心、北澤西台灣同鄉會、大紐約區海外台灣人筆會、北美洲台灣人醫師協會大紐約分會、福爾摩莎新澤西州醫師協會，八十多位鄉親參與 — [[works/taiwaneseamericanhistory-org/ourjourneys42|Our Journeys 42]]。
