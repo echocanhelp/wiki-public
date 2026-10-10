@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Prof. Young-Chang Chen (陳榮昌教授)
 
@@ -68,6 +68,10 @@ Re-verified all cross-references above against the vault: the memorial scholarsh
 - English twin of the prize essay now linked in-line above: [[works/taiwaneseamericanhistory-org/mystories142-eng|TAH #142-eng]] — disk-verified.
 - All organization links re-verified on disk: [[organizations/north-america-taiwanese-professors-sc|北台教授協會南加分會]], [[organizations/north-american-taiwan-studies-associationnatsa|NATSA]], [[organizations/taiwanese-association-of-america|TAA]].
 - No new biography, no web used, no new pages created, nothing published.
+
+## Deepen pass 2026-10-10 (deepen-x slice 10091404-24, vault-only)
+- Fresh ZH+EN+surname grep across all five corpus dirs (works/articles/sources/events/topics): no new corpus material beyond the documents already linked above. The only additional hits are index/registry listings ([[works/index]] and [[sources/taiwaneseamericanhistory-org]]) and false positives on unrelated names (黃榮昌 in [[works/taiwaneseamericanhistory-org/ourjourneys-139|TAH #139]], 李榮昌 in a taiwanjustice article) — not this person.
+- One clarification absorbed from the in-vault essay title: his 2014 prize essay [[works/taiwaneseamericanhistory-org/mystories142-eng|TAH #142-eng]] is titled "Coming Home—in Humble Acceptance of the **Distinguished Alumni Award**", confirming the award he accepted in 歸巢 was a Distinguished Alumni Award. No date/age conflicts; nothing auto-merged.
 
 ## Sources
 - [TAH #125 encyclopedia: 125. Prof. Young-Chang Chen 陳榮昌教授](https://taiwaneseamericanhistory.org/125-prof-young-chang-chen/)
