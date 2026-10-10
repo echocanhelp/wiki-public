@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Peter Chiu (邱勝宗)
 
@@ -69,6 +69,7 @@ last_reviewed: 2026-09-25
 - 複核（TJJ-A09220500-6, 2026-09-22）：王廷宜追思會稿 subject link（連絡人邱勝宗）經原文正文再驗證為真實對應，引用条目已在库（无错链、无虚链）— SKIP，无新材料。
 - 2018-07-20 — Signed as 邱勝宗(法律) among the ~170 台大校友 co-signatories of the open letter protesting 南加州台大校友會 inviting 管中閔 to speak at its 2018 annual meeting amid the disputed 校長遴選 case ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ, 2018-07-20]]).
 - 2017-09-24 — 與夫人 Sadako 同講大洛杉磯台灣會館九月份園藝講座「EM酵素及製作」，由台灣公義電子報攝錄（[[articles/taiwanjustice-net/2017/20171109043038_category_gardenning_0c56e79f9989639c|TJJ 台灣公義網園藝類存檔, 2017-11-09 快照]]；同一紀錄另見 [[articles/taiwanjustice-net/2024/20240225031504_root_f454eda084b7ca99|園藝分類 2024-02-24 快照]]、園藝分類頁 [[articles/taiwanjustice-net/2024/20240225023227_root_bb7f9d54ae93bbef|2024-02-25 快照]]、大洛杉磯台灣會館分類頁 [[articles/taiwanjustice-net/2024/20240221114044_root_8bf4798dd2771f38|2024-02-21 快照]]）。
+- 2017-09-20 — 大洛杉磯台灣會館發布九月份園藝講座預告「Sadako與Peter Chiu講EM酵素」：講座於 9/24 舉行，主講人署名 Sadako 與 Peter Chiu，內容述及 EM 酵素自製、以根本解決土壤問題（[[articles/taiwanjustice-net/2024/20240522225753_root_24747a60e81dd89a|TJJ 原公告, 2024-05-22 快照]]）。該講座條目亦見於「園藝講座」標籤頁與台灣會館分類頁較新快照（[[articles/taiwanjustice-net/2024/20240421191103_root_c9acc5b2b0de608a|Tag 園藝講座, 2024-04-21 快照]]、[[articles/taiwanjustice-net/2024/20240522045855_root_9cad85f51f52e417|大洛杉磯台灣會館分類, 2024-05-22 快照]]）。
 - 2016-07-08 — 台美人歷史協會人物專訪探訪邱勝宗和邱貞夫婦的百草園，影音報導「探訪邱勝宗和邱貞夫婦的百草園-台美人歷史協會人物專訪」刊於台美人台加人分類（2016-07-14 刊登）（[[articles/taiwanjustice-net/2024/20240225023227_root_bb7f9d54ae93bbef|TJJ 園藝分類, 2024-02-25 快照]]）。
 - 2022-06-25 — Friends of TAIWAN 及相關社團為王廷宜（泰和）先生舉辦追思會（15:00–17:00 在台灣會館），邱勝宗列名連絡人並附電話（[[articles/taiwanjustice-net/2025/20250719153120_王廷宜_-泰和-_先生追思會6-25舉行_c83c2315ab0b3e26|TJJ, 2022-06-24 預告]]）。
 - 2020-06-21 — 邱勝宗執筆訃聞「慟！王泰和廷宜先生往生，台美人痛失良友及鬥士」，以「◎ 邱勝宗」署名：「咱的老朋友王泰和先生今晨與世長辭，享壽80歲」（[[articles/taiwanjustice-net/2020/20200708044832_2020_06_21_慟_王泰和廷宜先生往生_台美人痛失良友及鬥士_aa462c72fbd88529|TJJ, 2020-07-08 存檔]]；2025 年重刊 [[articles/taiwanjustice-net/2025/20251206004028_慟_王泰和廷宜先生往生_台美人痛失良友及鬥士_43377164729ac3e4|TJJ, 2025-12-06]]）。與上述 2022 追思會連絡人身份互證：邱勝宗與王廷宜為運動圈子緊密同夥。
@@ -82,6 +83,7 @@ last_reviewed: 2026-09-25
 - His own TAH encyclopedia record is held in the corpus: 2246. Peter Chiu 邱勝宗, era 2020 ([[works/taiwaneseamericanhistory-org/whos-who-2246-peter-chiu|whos-who-2246]]) — its Subjects list cross-links 黃三榮, 陳銓仁, 陳夢蘭, 王廷宜 as co-mentioned figures.
 
 - 複核 2026-09-23（DEEPEN-X slice 09220900-3 重跑，前次 run stale-lock 回收）：fresh ZH+EN corpus re-grep（content/works content/articles）hit set 與 2026-09-22 完全一致，全部命中已連結於本頁；無新回憶錄、社團或報導材料可吸收 — verified-saturated。
+- 2026-10-09 深化（DEEPEN-X10081000-18）：fresh ZH+EN grep 於 2024 年快照中發現 3 筆先前未連結之同講座紀錄並已補入 From the record — 台灣會館原公告（24747a60e81dd89a）、「園藝講座」標籤頁（c9acc5b2b0de608a）、台灣會館分類頁（9cad85f51f52e417）。原公告補出 2017-09-20 預告署名「Sadako與Peter Chiu」與講座內容細節。無新回憶錄或社團材料；無衝突需 HOLD。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
