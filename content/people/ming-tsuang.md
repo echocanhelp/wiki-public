@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Ming Tsuang (莊明哲教授)
 
@@ -101,6 +101,8 @@ last_reviewed: 2026-09-25
 - 傳記文稿：楊遠薰撰 [[works/taiwaneseamericanhistory-org/mystories81|TAH #81 奇異恩典－精神遺傳學大師莊明哲教授的奇妙歷程]]（2014）为其專文。
 - UCSD Taiwan Studies Center 創所支持圈：[[works/taiwaneseamericanhistory-org/our-journeys-384|TAH #384 UCSD台灣研究中心主任年終信]]（2022-12-23 刊，band A）載其與夫人 Snow 對台灣相關活動貢獻良多，且其為推动哈佛大學**台灣語文計畫（Taiwanese Language Program）**成立之關鍵人物，後又參與促成 UCSD **Chuan Lyu 台灣研究講座（Endowed Chair in Taiwan Studies）**之設立；同文另載 Snow 於 2022-10-10 安詳過世。
 - HOLD：本輪語料（#384）夫人僅記英文名「Snow」，與本頁及子頁所載「柯惠香」之對應尚無語料庫內證，不逕行認定為同一姓名，不合併。
+- TAF 創會文書（英文回憶錄）：[[works/taiwaneseamericanhistory-org/ourjourneys33-eng|TAH #33 英文 TAF 回憶錄]]載 1980-10-18 首屆 TAF 理事會（理事含莊明哲、張信義、陳植哲、洪宏謨、楊忠正、卓甫良，於芝加哥）以章程將 MFCF 更名 TAF；其為首任會長（First President），力倡親子溝通（Parents and Youths Communication），使對話場次成為每年 TAF 夏令營核心。HOLD：該文記更名日 1980-10-18，與本頁既有「1980年11月芝加哥理事會推選」（楊遠薰文）日期不完全一致，不合併。
+- 演講影音：[[works/taiwaneseamericanhistory-org/whos-who-1924-john-tsuang|TAH #1924 莊文宗醫師頁]]所附新聞摘記載「精神科名譽教授莊明哲講述『焦慮與煩惱』（Anxiety and worry）—影音」，見於南加州台美急難救助協會關懷耆英活動報導（同頁相邻条目日期 2011-11-21，本講確切日期無內證）；另 [[articles/taiwanjustice-net/2024/20240527024815_root_98a26ee3b1ad82ac|TJJ「台美人台加人」欄 2024-05-27 快照]]同載此條。
 
 ## Vault note (deepen-x 2026-09-14)
 本輪僅自 vault 既有頁面吸收：兒子頁 [[people/dr-john-tsuang]]  reciprocity 補入 Family；未新增外部傳記。
