@@ -85,3 +85,5 @@ last_reviewed: 2026-10-05
 <!-- TJJ-A10060400-21: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-21 articles 08cd200c3a58e6b7 / fc48810253f4912f（第14回世界台灣文化論壇「布袋戲kap歌仔戲文學ê人生智慧」同稿兩存檔副本）: 節目單訪問王寶田博士 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ both article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-21: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-21 articles 08cd200c3a58e6b7 / fc48810253f4912f（第14回世界台灣文化論壇「布袋戲kap歌仔戲文學ê人生智慧」同稿兩存檔副本）: 節目單訪問王寶田博士 subject link re-checked vs 正文 this attempt, real, no wrong/spurious links (郭月霞長老娘 正文提及但無頁面, 維持純文字不造鏈); dated fact w/ both article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090901-21: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-21 article fc48810253f4912f（第14回世界台灣文化論壇「布袋戲kap歌仔戲文學ê人生智慧」線頂聚會）: 節目單「訪問王寶田博士 郭月霞長老娘–現代歌仔戲」subject link re-checked vs 正文 this attempt, real, no wrong/spurious links (郭月霞長老娘 正文提及但無頁面, 維持純文字不造鏈); dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
