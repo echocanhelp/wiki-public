@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # John J.Y. Huang (黃仲義)
 
@@ -68,3 +68,4 @@ Re-verified 2026-09-24 (slice 09230700-25): fresh grep (黃仲義 / John J.Y. Hu
 - 2026-09-27 deepen-x slice 09260600-7: fresh grep (黃仲義|John J.Y. Huang) hit set unchanged — ourjourneys37, ourjourneys106, TAH #84, works index only; all facts already absorbed. SKIP, no new material.
 - 2026-10-04 deepen-x slice 09270600-7: fresh grep (黃仲義|John J.Y. Huang) — hit set identical (ourjourneys37, ourjourneys106, TAH #84, works index), all already absorbed and wikilinked. SKIP; verified-saturated, nothing new absorbable.
 - 2026-10-09 deepen-x slice 10080500-14: fresh grep (黃仲義 / John J.Y. Huang / 仲義) across works/articles/sources/events/topics. New hit: articles/taiwanjustice-net/20250514020236 (台裔美國人小心被捕，洪博學) — FALSE POSITIVE: that article's 仲義 match is 吳仲義 (中研院環境變遷研究所，千人計畫 case), a different person; 黃 does not appear. No new material. SKIP; verified-saturated. Future workers: exclude the 吳仲義 hit.
+- 2026-10-10 deepen-x slice 10090900-14: fresh ZH+EN grep (黃仲義 / John J.Y. Huang / 仲義) across works/articles/sources/events/topics returned the identical record set (ourjourneys37, ourjourneys106, TAH #84, works index, sources/taiwaneseamericanhistory-org; the 仲義-only taiwanjustice hit is the known 吳仲義 false positive). All TAI 協志會 founding facts already absorbed and wikilinked. SKIP; verified-saturated, nothing new absorbable.
