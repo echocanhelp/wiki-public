@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-10-10
 ---
 # 陳炳衡
 
@@ -52,6 +52,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-sweep 2026-09-16 (slice 09160600-10): re-grep 陳炳衡|BING-HENG CHEN — hit set unchanged (TAH #562／#283 書目頁、ourjourneys316 義工芳名名單、works/index)。**SKIP: 無新的可吸収事実**，無衝突需 HOLD。
 - Corpus re-sweep 2026-09-16 (slice 09160700-6): re-grep 陳炳衡|BING-HENG CHEN — hit set unchanged (TAH #562／#283 書目頁、[[works/taiwaneseamericanhistory-org/ourjourneys316|ourjourneys316 義工芳名名單（含合唱團時段活動）]]、works/index)。**SKIP: 無新的可吸収事実**，無衝突需 HOLD。
 - Corpus re-sweep 2026-09-16 (slice 09162138-2): re-grep 陳炳衡|BING-HENG CHEN — hit set unchanged (TAH #562／#283 書目頁、ourjourneys316 義工芳名名單、works/index)。**SKIP: 無新的可吸収事実**，無衝突需 HOLD。
+- Corpus re-sweep 2026-10-10 (slice 10091404-7): re-grep 陳炳衡|BING-HENG CHEN|炳衡 across works/articles/sources/events/topics — hit set unchanged (TAH #562／#283 書目頁、[[works/taiwaneseamericanhistory-org/ourjourneys316|ourjourneys316 老人中心義工芳名名單（含合唱團時段活動）]]、works/index 收錄列舉）。ourjourneys316 名單原文再確認：陳炳衡列名於紐約台灣會館老人中心義工老師芳名，與本頁所載吻合。**SKIP: verified-saturated — 無新的可吸收事實**，無衝突需 HOLD。
 
 ## Sources
 - [TAH #562 encyclopedia: 562. 陳炳衡 / 2015/08](https://taiwaneseamericanhistory.org/562-%e9%99%b3%e7%82%b3%e8%a1%a1-201508/)
