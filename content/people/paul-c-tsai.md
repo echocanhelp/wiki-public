@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Paul C. Tsai (蔡正驊)
 
@@ -61,6 +61,7 @@ Paul C. Tsai is a graduate of Chinese Culture University in Taiwan. He was educa
 - Slice deepen-x-09142101-5 re-sweep: same result — only his own TAH #253/#139 records plus index listings; SKIP-with-reason stands.
 - Deepen re-check 2026-09-14 (vault-only): no vault page yet exists for the Houston Chinese Children's Choir / Youth Orchestra / Christian Chorus or for 北美中華福音神學院 itself, but the 中華福音神學院 teaching network he belongs to is recorded via colleagues — [[people/timothy-s-wu||Timothy S. Wu]] (中華福音神學院 professor, 研發部部長) and [[people/s-t-liu||S. T. Liu]] (中華福音神學院 M.S. 聖經, 1987). Institutional affiliation only; no direct collaboration recorded.
 - Corpus grep (slice 09150316-5, 2026-09-15): the only non-bibliographic hit is the church-planting memoir [[works/taiwaneseamericanhistory-org/ourjourneys43|TAH #43：聖恩長老敎會設敎經過／劉照男]], which records「Rev. Paul Tsai (March 1999–June 2002)」as the first organized pastor of Grace Taiwanese PC (NJ, chartered 2005-12-06). HOLD: identity vs this baritone/music-educator subject unverified — that memoir's Paul Tsai is titled "Rev." and served New Jersey, while this page's record is a Houston choral posts / 北美中華福音神學院 baritone. No merge. Other hits were his own TAH #253/#139 records and index lines; the taiwanjustice-net hit is "Paul Tsai China Center" (蔡中曾中心), unrelated. Nothing absorbable; SKIP-with-reason stands.
+- Slice deepen-x-10090600-31 re-sweep (2026-10-10): full-corpus grep (蔡正驊 / Paul C. Tsai / Paul Tsai / 蔡正华 / Houston choral org names / 北美中華福音神學院) returns the identical hit set — ourjourneys43 (Rev. Paul Tsai, NJ pastorate; HOLD stands, no merge), the taiwanjustice-net article (Paul Tsai China Center / 蔡中曾中國中心, Yale — unrelated namesake), plus his own TAH #253/#139 records and index listings. No new community/memoir material. SKIP-with-reason confirmed.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
