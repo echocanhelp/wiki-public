@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-10-09
 ---
 # Tina Chang (張丁蘭)
 
@@ -46,6 +46,8 @@ Corpus records place Tina Chang at the founding of the North American Taiwanese 
 
 Blacklisted by the KMT, she was among the overseas Taiwanese who smuggled themselves back to Taiwan on altered passports during the 1988–89 返鄉潮, per the movement memoir [[works/taiwaneseamericanhistory-org/ourjourneys230|Our Journeys #230]]; her own first-person account of that return, 返鄉記 (03/2016), is held at [[works/taiwaneseamericanhistory-org/ourjourneys210|TAH #210: 返鄉記]]. A memorial tribute by 毛清芬, 為台灣無怨無悔的張丁蘭 (2015/09), is at [[works/taiwaneseamericanhistory-org/329-e7-82-ba-e5-8f-b0-e7-81-a3-e7-84-a1-e6-80-a8-e7-84-a1-e6-82-94-e7-9a-84-e5-b|TAH #329]]. HOLD: [[works/taiwaneseamericanhistory-org/whos-who-1762-tina-chang|TAH #1762 "Tina Chang 張瑞菊"]] shares the English name but is a different person (張瑞菊) — not merged into this page.
 
+Beyond the human-rights movement, she served the community in a social-work capacity: she was one of the 顧問 (advisors) of the 北美台灣婦女會 (NATWA) "婦女信箱" advice column in the 台灣公論報 — listed as 「張丁蘭：社工碩士，紐約州心理衛生部工作十二年」 — per the column's 2001 千禧年專刊 collected in [[works/taiwaneseamericanhistory-org/ourjourneys79|TAH #79: 婦女信箱 (2014/12)]]. The 2014 Chinese edition of her FAHR founding account is also preserved as [[works/taiwaneseamericanhistory-org/ourjourneys75|TAH #75 (ZH): 台灣人權協會的開始與現況 / 張丁蘭 / 2014/12]].
+
 She also contributed personal memoir to the corpus: an autobiography 張丁蘭的故事 written 2000-11 ([[works/taiwaneseamericanhistory-org/253-e5-bc-b5-e4-b8-81-e8-98-ad-e7-9a-84-e6-95-85-e4-ba-8b-e5-bc-b5-e4-b8-81-e8-9|TAH #253: 張丁蘭的故事]]) and the essay 力爭上游 / Striving up in the World ([[works/taiwaneseamericanhistory-org/mystories37-eng|TAH #37]]). The community commemorated her after her passing in 2015-09 with the tribute 張丁蘭女士生命的禮讚 ([[works/taiwaneseamericanhistory-org/photo-albums-activities-97|TAH #97: In memory of Mrs. Tina Chang]]). See also her second encyclopedia entry [[works/taiwaneseamericanhistory-org/94-tina-chang-e5-bc-b5-e4-b8-81-e8-98-ad|TAH #94]].
 
 
@@ -67,3 +69,5 @@ She also contributed personal memoir to the corpus: an autobiography 張丁蘭�
 **SKIP 2026-09-16 (slice 09160500-6):** re-grep returned the identical 6-file hit set (#64, #94, #253, mystories37-eng, ourjourneys75-eng, photo-albums-activities-97) — everything already absorbed in Role in the Community; no new material, no conflicts.
 
 **SKIP 2026-09-16 (slice 09160600-2):** re-grep 張丁蘭/Tina Chang returned the identical 6-file hit set (#64, #94, #253, mystories37-eng, ourjourneys75-eng, photo-albums-activities-97) — all already absorbed in Role in the Community; no new material, no conflicts.
+
+**DEEPEN 2026-10-09 (slice 10080951-29):** re-grep 張丁蘭/Tina Chang across works/articles/sources/events/topics (16 hits) surfaced 2 previously-unabsorbed records: ourjourneys79 (NATWA 婦女信箱 advisor roster, 2001 千禧年專刊) and ourjourneys75 (ZH edition of the FAHR founding account) — both absorbed into Role in the Community. Other hits (#64/#94/#253/#37/#97/#210/#230/#329, ourjourneys305 = different person Ya-Hueh Tina Chang Hsieh, whos-who-1762 = 張瑞菊) already covered or held. No new conflicts.
