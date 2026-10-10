@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-09
 ---
 # F.S. Shen (沈富雄)
 
@@ -45,7 +45,9 @@ Corpus memoirs place 沈富雄 in the Taiwan independence / blacklist-era moveme
 - **1996 台灣文化之夜, Los Angeles:** TUF president 賴英慧 personally traveled to Seattle to invite 沈富雄立委 as a speaker for the 1996 《台灣文化之夜》 co-hosted with 北美洲台灣人教授協會 (the other speaker: 李遠哲); the author's recollection notes 沈富雄's lecture was 幽默風趣但比較沒有實質的內涵 ([[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]]).
 - **中國名單庫：** TJJ 報導中國深圳振華數據庫（Zhenhua Data）系統性建檔台灣人（含政界、民運人士）時，前立委沈富雄與沈智慧、段宜康、蔡丁貴、黃崑輝、金美齡等並列榜上，連同其涉訟紀錄——黑名單之後的另一代監控記錄 — [[articles/taiwanjustice-net/2026/20260125054856_中國深圳振華數據庫裡的台灣名單都有什麼_a0348c55ac74eb7d|TJJ / 2026-01-25]]。
 - **2021 年仍為台灣政局話題人物：** 2021-02-08 趙少康宣布爭取國民黨提名參選 2024 總統，媒體追問副手人選時點名前立委沈富雄，趙少康公開回應「沈富雄這兩天要跟他約吃飯，他要趕快去約沈富雄」——沈富雄退出立法院多年後仍被視為跨泛藍／本土光谱的評估人選 — [[articles/taiwanjustice-net/2026/20260210182109_趙少康宣布爭取國民黨提名參選2024總統_國民黨_72ce6a9f780b533a|TJJ / 2021-02-08]]。
-- Corpus re-grep（deepen-x 2026-09-22）：命中集為 ourjourneys 350/8/8-eng/259/212/301、TJJ 振華數據庫、TAH #785 自有記錄，全數已吸收；新增上述趙少康報導一筆。
+- **2024 立委罷免戰評論：** 中山大學退休教授、台灣安全促進會會長陳茂雄的評論記述，戰鬥藍的趙少康批評國民黨罷免連署戰力弱時，沈富雄也在 TVBS 節目《少康戰情室》中砲火猛批朱立倫，稱朱讓他「擲筆三嘆」；文中並回顧「沈富雄原來是民進黨明星級的政治人物」——顯示其於罷免議題上仍活躍於名嘴／評論角色 — [[articles/taiwanjustice-net/2025/20250320203025_趙少康何須生氣_-_-陳茂雄_36d1f3acafb9c074|TJJ / 2025-03-20]]。
+- **國民黨評論角色（2024）：** 同庫另一報導標題記「傅崐萁『微調』訪中時間，沈富雄：國民黨『3笨咖』不退場 2028 就泡湯！」——沈富雄持續以時評人身份就國民黨路線公开发聲 — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2|TJJ / 2024-04-25]]。
+- Corpus re-grep（deepen-x 2026-10-09）：命中集為 ourjourneys 350/8/8-eng/259/212/301、TAH #785 自有記錄、TJJ 振華數據庫、TJJ 趙少康 2024/2021 兩筆，全數已吸收；新增 2025-03-20 陳茂雄罷免評論與 2024-04-25 「3笨咖」報導兩筆。
 - His own TAH #785 encyclopedia record (2016-01) is held as a corpus work page: [[works/taiwaneseamericanhistory-org/785-f-s-shen-e6-b2-88-e5-af-8c-e9-9b-84-201601|785. F.S. Shen 沈富雄 / 2016/01]].
 
 ## Family
