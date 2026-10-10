@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-09
 ---
 # Jason Chang (張哲雄)
 
@@ -60,6 +60,15 @@ Jason Chang, President of [[organizations/north-america-pastel-artist-associatio
 - 協助 NTAEC 組織贊助「國際粉畫名家邀請展」；作品於台、中、歐、美展出，並由台北99度藝術中心及紐約 Hwang's Art Gallery 代理。
 - 1999年8月參與林肯中心聯展（見 TAH #18 展覽紀錄）；曾任 Allied Artists of America 及 Audubon Artists Society 董事兼評審。
 - 教育：國立臺灣大學（1966 圖畫系學士）、School of Visual Arts（1990）、College of New Rochelle（1993 美術碩士）。條目見「Who's Who in America Arts」。
+
+## Role in the Community
+
+- 2014-08-25 — 於 TAH「My Stories」專欄發表〈推廣粉彩繪畫二十年〉，回顧二十年推廣粉彩繪畫之路：[[works/taiwaneseamericanhistory-org/mystories10|推廣粉彩繪畫二十年（2014）]]
+- 2014-12-05 — 「Passport to Taiwan（台灣傳統週）」：[[works/taiwaneseamericanhistory-org/footsteps-13|Passport to Taiwan（2014）]]
+- 2009-06 — 出版《粉彩畫技法入門及作品欣賞》：[[works/taiwaneseamericanhistory-org/publications390|粉彩畫技法入門及作品欣賞（2009）]]
+- 2017 — Audubon Artists Society 頒授榮譽會員（Honorary Member）；紀錄標題作「John Chang 張哲雄」，漢名與本頁相符，John 疑為 Jason 之誤。HOLD: John Chang vs Jason Chang 別名衝突：[[works/taiwaneseamericanhistory-org/honorary-member-by-audubon-artists-society-john-chang-2017|Audubon Artists Society 榮譽會員（2017）]]
+- 2019-05-29 — Kean University 個展：[[works/taiwaneseamericanhistory-org/footsteps-30|Kean University 個展（2019）]]
+- 名稱衝突註記：[[works/taiwaneseamericanhistory-org/whoswho1171|Who's Who #1171 Jason Chang 張君麟]] 為另一位同名 Jason Chang（張君麟），非本頁人物。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
