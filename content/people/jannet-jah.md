@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Jannet Jah (李俊玲)
 
@@ -116,3 +116,5 @@ Jennet Jah is the daughter of the noted composter, Professor Kenneth Lee. She gr
 <!-- TJJ-A10070700-24: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-24 articles 2b2e0ebccd1c5edd（學生王子：聲樂指導）/ 7214b273dfcb59ce（拯救我：女高音獨唱）: subject link(s) re-checked vs 正文, real, no wrong/spurious links (鄭兆翔／白慈莉 正文提及但無頁面, 維持純文字不造鏈); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-25: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-25 articles (526ee7d662ebe432 以立「拯救我」原稿: 女高音獨唱 / 80b33cf1846bc005 同稿2024存檔: 女高音獨唱 / 928db8aa40e881b2 以立「森林王子」: 聲樂指導; f985012b1ed56ad0「末日之淚」無涉本人): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links (鄭兆翔／白慈莉 正文提及但無頁面, 維持純文字不造鏈); dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- deepen-x slice 10081018-27 (2026-10-09): fresh ZH+EN grep (李俊玲／Jannet Jah／Jennet Jah) across all 5 corpus dirs returned 12 files — TAH #132/#245 works, works index, sources page, and the 以立合唱團 article set (拯救我／致死的震怒近了／學生王子／森林王子, incl. all 存檔副本). All hits already absorbed and wikilinked in Role in the Community / From the record; no new material. HOLD (Jennet vs Jannet spelling; father Kenneth Lee vs 江奎然) unchanged. -->
