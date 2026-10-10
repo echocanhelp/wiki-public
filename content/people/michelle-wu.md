@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Michelle Wu (吳彌)
 
@@ -44,6 +44,8 @@ Michelle Wu was born in 1985 in Chicago, Illinois to Taiwanese immigrant parents
 - 報導視角補證：TJJ 專題標籤「台灣移民之女吳弭Michelle Wu可能成為波士頓市長」（鄭炳全專欄，2021-09-13）以「台灣移民之女」框架追蹤其選情，報導通行漢名作「吳弭」——為 HOLD（吳彌 vs 吳弭）再添社群報導佐證（[[articles/taiwanjustice-net/2021/20211023214533_tag_台灣移民之女吳弭michelle-wu可能成為波士頓市長_09ee9b97dc0e254c|TJJ tag, 2021-10-23]]）。
 - 再複核（slice 09231000-3，2026-09-25）：fresh grep 吳彌|吳弭|Michelle Wu（works+articles）命中集不變（whos-who-2166、ota-220、michelle-wu profile、my-stories-809、my-stories-876、bonnie-jin、TJJ tag），全數已連結；漢名 HOLD（吳彌 vs 吳弭）維持。SKIP。
 - 再複核（slice 09250317-2，2026-09-25）：fresh grep（works+articles）命中集不變（whos-who-2166、ota-220、michelle-wu profile、my-stories-809、my-stories-876、index）— saturated，SKIP；漢名 HOLD（吳彌 vs 吳弭）維持。
+
+- 再複核（slice 10081400-28，2026-10-10）：fresh grep 吳彌|吳弭|Michelle Wu（works+articles+sources+events+topics）命中集與既往一致，惟首次直接連結民調原文報導：2021-09-13 薩福克大學民調以 31% 支持率居市長選舉之首，報導稱其為首位擔任波士頓市議員的亞裔美國女性（[[articles/taiwanjustice-net/2021/20210927012858_2021_09_13_台灣移民之女吳弭michelle-wu民調居首_可能成為波士頓市_c7b4abdf546ddaee|TJJ 民調報導, 2021-09-13]]）；漢名 HOLD（吳彌 vs 吳弭）維持，其餘命中已全數吸收。
 
 ## Family
 
