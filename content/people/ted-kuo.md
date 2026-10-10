@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Ted Kuo (郭來哲博士)
 
@@ -66,3 +66,4 @@ last_reviewed: 2026-09-15
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - （deepen-x slice 09150700-2 覆核 2026-09-15：重抓 works+articles，命中集合與既往各 pass 相同（ourjourneys12/17/58、mystories75、故事 #8、#272 記錄頁），全部已吸收並連結於上方，無新材料。）
+- （deepen-x slice 10090315-26 覆核 2026-10-10：重抓 works/articles/sources/events/topics 五目錄（郭來哲/Ted Kuo/來哲/简体变体/rootopedia），命中集合與既往各 pass 完全相同，全部已吸收並連結於上方，無新材料；另核 people/tzutsai-cheng 頁僅為其 UFI 名冊交叉提及，非新語料。）
