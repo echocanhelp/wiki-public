@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Rev. James I. Cheng (鄭義勇牧師)
 
@@ -74,3 +74,13 @@ Re-checked this page's cited TAH records; no new external facts, two additional 
 - His Yale Divinity School years (M.Div. 1967, S.T.M. 1968) are additionally contextualized by the vault's [[organizations/taiwanese-american-society-at-yale||Taiwanese American Society at Yale]], which documents the same Yale Taiwanese community alongside the [[organizations/yale-taiwanese-student-association||Yale Taiwanese Student Association]].
 - His FAPA/Pennsylvania Chapter founding sits within the same FAPA chapter structure recorded in the vault at [[organizations/fapa-los-angeles||FAPA Los Angeles]] and [[organizations/fapa-orange-county||FAPA Orange County]].
 - His 美東台灣人夏令會 convener role has no East-Coast conference page in the vault (only the west-coast counterpart [[organizations/the-board-of-taiwanese-american-conferences-west-coast-tac-wc||TAC-WC]] exists); his source record is [[works/taiwaneseamericanhistory-org/whos-who-1691-james-i-cheng||TAH Who's Who #1691]] and his denominational root is [[organizations/presbyterian-church-in-taiwan||PCT]] — cross-link pass DEEPEN-X09140107-4, no new pages created.
+
+## Deepen — 2026-10-10 (corpus pass)
+
+Fresh ZH grep (鄭義勇) across works/articles/sources/events/topics found four substantive memoir mentions — community-record material, not press-kit:
+
+- **Yale seminary circle (1960s):** 徐頌鵬's memoir of the first 美東台灣人夏令會 recalls knowing 鄭義勇 among the Yale Divinity School Taiwanese students/pastors — the group that, though not directly involved in the 1970 founding, made "非常大的貢獻" to later East-Coast conferences as invited main speakers ([[works/taiwaneseamericanhistory-org/ourjourneys268|回憶第一屆美東台灣人夏令會 / 徐頌鵬 /11/2016]]).
+- **TAC-EC preacher (1977 era):** 張啟典's account of the 1977 TAC/EC lists 鄭義勇 among the preachers (吳明雄、鄭義勇、郭榮敏、王成章、林興隆) at a conference that then balanced religious and hometown-association programming ([[works/taiwaneseamericanhistory-org/ourjourneys338|張啟典醫師的回憶—1977年TAC/EC / 楊遠薰 /07/2018]]).
+- **45th TAC-EC (2014):** 翁進治's 備忘錄 records that the final-day Sunday worship was presided over by 鄭義勇牧師 ([[works/taiwaneseamericanhistory-org/ourjourneys260|第四十五屆美東夏令會備忘錄 / 翁進治 /10/2016]]).
+- **1977 Midwest conference — attribution nuance:** 【自覺與認同】 states the 1977-07-22~24 Midwest Taiwanese Summer Institute (Grand Rapids, MI; theme 「海外台灣基督徒的使命」) was "由鄭義勇等主持"; the 中西部夏令會簡史 author adds that, as Midwest Taiwanese understand it, this was a Taiwanese-Christians retreat rather than the mainstream conference. HOLD: book attribution vs. community recollection — recorded, not merged. ([[works/taiwaneseamericanhistory-org/our-journeys-376|中西部台灣人夏令會簡史 / 08/2021]])
+- **Name-collision note:** work [[works/taiwaneseamericanhistory-org/37-james-cheng-e9-84-ad-e4-b9-83-e6-a6-ae|37. James Cheng 鄭乃榮]] links this page as a subject, but its text contains no mention of 鄭義勇 — the "James Cheng" there is 鄭乃榮. HOLD: the subject link appears to be a name collision; not treated as evidence.
