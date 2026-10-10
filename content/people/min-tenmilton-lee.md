@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # Min Ten Milton Lee (李明典)
 
@@ -38,6 +38,7 @@ last_reviewed: 2026-10-01
 - Longest-continuous member of the Taiwanese Association of America / Greater Washington Chapter (TAA-GWC 華府台灣同鄉會), 1971–2018 — recalled in his own memoir [[works/taiwaneseamericanhistory-org/dr-minten-lee|381. Dr. Min-Ten (Milton) Lee: Own the Longest Membership of A Taiwanese American Association]].
 - Filmed appearance in the DC community: 華府台美人參加2007年度獨立紀念日大遊行, credited as Dr. Ming Lee 李明典 ([[works/taiwaneseamericanhistory-org/videos72|videos72]]).
 - Contributor to the TAH archive's history collection: 蔣渭水和他的時代 / 李明典 / 2016/History/歷史/DVD ([[works/taiwaneseamericanhistory-org/publications999|publications999]]).
+- Donated history DVD set to the TAH collection: 863. 台灣崛起-台灣的歷史 (6 DVDs) / 李明典 / 2015/History/歷史/DVD ([[works/taiwaneseamericanhistory-org/863-e5-8f-b0-e7-81-a3-e5-b4-9b-e8-b5-b7-e5-8f-b0-e7-81-a3-e7-9a-84-e6-ad-b7-e5-8|863]]) — surfaced by the 2026-10-10 all-dir re-grep (prior passes covered only works+articles of other name patterns); listed as subject in the work record.
 - Filmed appearance, DC community, 2017 年度獨立紀念日大遊行, again credited as Dr. Ming Lee 李明典 ([[works/taiwaneseamericanhistory-org/videos71|videos71]]) — same filming credit pattern as the 2007 record, consistent with the HOLD note below.
 - Personal archive donated to the TAH collection: 84. 李明典博士的收藏 / Collection of the Dr. Min-Ten (Milton) Lee ([[works/taiwaneseamericanhistory-org/private-collections-84|private-collections-84]], era 2019) — his own papers are primary material in the corpus.
 - His own TAH encyclopedia record is held in the corpus: 972. Min Ten(Milton) Lee 李明典 / 2016/05 ([[works/taiwaneseamericanhistory-org/whoswho972|whoswho972]]).
@@ -68,3 +69,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (2026-09-25, slice 09250700-8)
 - SKIP: ZH+EN re-grep（李明典 / Min-Ten / Milton / Ming Lee）— genuine hit-set unchanged (dr-minten-lee、private-collections-84、whoswho972、videos71/72、publications999)，全數已吸收。本輪新增的三个 "Ming Lee" 命中皆為假陽性：ourjourneys76-eng 與 whos-who-1780 指 Franklin Fong-Ming Lee 李豐明（TAA 創始成員／上州紐約），188 指 Chong Ming Lee 李聰敏 — 皆非本人，不吸收。
+
+## Corpus re-grep (2026-10-10, slice 10081300-14)
+- DEEPENED: all-5-dir re-grep (李明典 / Min-Ten / Milton Lee / Ming Lee) surfaced one unabsorbed genuine hit: 863. 台灣崛起-台灣的歷史 (6 DVDs) / 李明典 / 2015 — donated history DVD set, now absorbed with wikilink. Other hits already linked (dr-minten-lee, private-collections-84, whoswho972, videos71/72, publications999); Franklin Fong-Ming Lee / Chong Ming Lee / Milton Stern hits remain false positives, not absorbed. Dr. Ming Lee spelling HOLD maintained.
