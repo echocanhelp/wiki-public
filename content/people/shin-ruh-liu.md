@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Shin-Ruh Liu (劉新祿)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-10-09
 - Re-verified 2026-10-06 (deepen-x slice 10051143-13): broad grep across works/articles/sources/events/topics hits the four cited records (#57, #999, #377, mystories376) plus five works by his son 劉兆民 (footsteps-3, footsteps-6, mystories14, publications122, collection-of-dr-chao-min-liu) — those match on the son's name only and carry no facts about 劉新祿 himself; the son's page [[people/dr-chao-min-liu]] already cross-links him as father. No new material; saturated, SKIP.
 - Re-verified 2026-10-08 (deepen-x slice 10060950-4): ZH+EN+新祿 grep across works/articles/sources/events/topics returns only the four cited records (#57, #999, #377 小傳 / 洪嘉惠, mystories376 / 劉兆民) plus works/index and the source hub — saturated; SKIP, nothing absorbable.
 - Re-verified 2026-10-09 (deepen-x slice 10080400-26): fresh ZH+EN+新祿 grep across works/articles/sources/events/topics again returns only the four cited records (#57, #999, #377 小傳 / 洪嘉惠, mystories376 / 劉兆民) plus works/index and the source hub — saturated; SKIP, nothing absorbable.
+- Re-verified 2026-10-10 (deepen-x slice 10090900-24): fresh ZH+EN+新祿 grep across works/articles/sources/events/topics again returns only the four cited records (#57, #999, #377 小傳 / 洪嘉惠, mystories376 / 劉兆民) plus works/index and the source hub — saturated; SKIP, nothing absorbable.
 
 ## Sources
 - [TAH #999 encyclopedia: 999. Shin-Ruh Liu 劉新祿 / 2016/05](https://taiwaneseamericanhistory.org/whoswho999/)
