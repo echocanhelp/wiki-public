@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-10
 ---
 # Prof. Chin-Teh Sun (孫錦德教授)
 
@@ -51,6 +51,7 @@ From the NATPA founding memoir (創會首十年紀事) preserved in our corpus a
 - Corpus re-grep 2026-09-26 (deepen-x slice 09260400-26): same hit set (ourjourneys69 +EN, TAH #40/#737, works index); verified-saturated, nothing new absorbable, no conflicts.
 - Corpus re-grep 2026-10-06 (deepen-x slice 10051200-15): fresh ZH+EN grep of works/articles/sources/events/topics — hit set identical to all prior passes (ourjourneys69 +EN, TAH #40/#737, works index); memoir text confirms only the already-absorbed 1980-02-16 創會十六人 and 1981-07 中西區區域理事 facts. SKIP-deepen; verified-saturated, nothing new absorbable, no conflicts.
 - Corpus re-grep 2026-10-08 (deepen-x slice 10062218-6): fresh ZH+EN grep of works/articles/sources/events/topics — hit set identical (ourjourneys69 +EN, TAH #40/#737, works index, sources/taiwaneseamericanhistory-org); the 1980-02-16 attendee roster and 1981-07-02–05 中西區區域理事 election in ourjourneys69 were re-verified verbatim against the absorbed bullets. SKIP-deepen; verified-saturated, nothing new absorbable, no conflicts.
+- Corpus re-grep 2026-10-10 (deepen-x slice 10091400-26): fresh ZH+EN grep (孫錦德/Chin-Teh Sun/surname 孫) of works/articles/sources/events/topics — hit set identical (ourjourneys69 +EN, TAH #40/#737, works index, sources/taiwaneseamericanhistory-org); ZH and EN memoir text re-verified verbatim against the absorbed 1980-02-16 創會十六人 roster and 1981-07-02–05 中西區區域理事 election bullets. SKIP-deepen; verified-saturated, nothing new absorbable, no conflicts.
 
 ## Sources
 - [TAH #40 encyclopedia: 40. Prof. Chin-Teh Sun 孫錦德教授](https://taiwaneseamericanhistory.org/40-prof-chin-teh-sun/)
