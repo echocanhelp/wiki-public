@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-09
 ---
 # Martin Tsai (蔡明峰)
 
@@ -53,6 +53,13 @@ _No filled family fields on the TAH profile._
 - **NY Taiwan Center elder-care governance:** in the 2003 reorganisation of the Center's senior center (老人中心管理委員會, operating from 2004-01), 蔡明峰 sat as one of three board-of-director commissioners alongside 陳春蘭 and 尤欽德 ([[works/taiwaneseamericanhistory-org/ourjourneys316||Our Journeys 316]]).
 - **Pen Club patron:** the Pen Club's ten-year memoir records him — as 海外台灣網 founder and former 紐約台灣會館董事長 — repeatedly telling its photographer that few club annual meetings he had attended matched the Pen Club's success; the memoirist also recalls late-night manuscript checks at the Tsai home and 蔡夫人's beef noodles ([[works/taiwaneseamericanhistory-org/ourjourneys12||Our Journeys 12 — Pen Club ten-year history]]).
 - **Seattle visit:** invited to the Seattle Taiwan Center's opening period, his earlier skepticism about the dilapidated预定地 turned into admiration — "兩對夫婦30多年都這麼熱心，令人感動！" ([[works/taiwaneseamericanhistory-org/ourjourneys30||Our Journeys 30 — 西雅圖台灣會館]]; English edition [[works/taiwaneseamericanhistory-org/ourjourneys30-eng||Our Journeys 30, English edition]]).
+
+### Corpus re-sweep (slice 10080958-4, 2026-10-09)
+- **Voice of Formosa (台灣之音) patronage:** as the second president of the Taiwanese American Association of New York, succeeding [[people/stephen-lin|林俊提 (Stephen Lin)]], his administration backed the telephone-radio station with a US$500 donation at the time it was becoming financially independent of the association — recorded in the station founder's memoir ([[works/taiwaneseamericanhistory-org/ourjourneys2||Our Journeys 2]]).
+- **Taigi-language media advocacy:** as founder of 台灣海外網 (Taiwanus.net), he stated at the closing reception of a Cultural & Education Center Taigi seminar that his site would broadcast teacher 鄭安住's Taigi-language instruction to the wider community ([[works/taiwaneseamericanhistory-org/ourjourneys42||Our Journeys 42]]).
+- **45th US Taiwanese Congress speaker:** listed among the invited speakers as "Taiwanus.net 創辦主持人蔡明峰" at the 45th Congress (theme: U.S. security & Taiwan's freedom) ([[works/taiwaneseamericanhistory-org/ourjourneys260||Our Journeys 260]]).
+- **Formosa Betrayed essay (2015-03):** authored "台美人全力支持的電影 FORMOSA BETRAYED (被出賣的台灣)" in the *Care for Taiwan by Taiwanese American* series ([[works/taiwaneseamericanhistory-org/119-care-for-taiwan-by-taiwanese-american-e5-8f-b0-e7-be-8e-e4-ba-ba-e9-a1-a7-e5||record 119]]).
+- **Name-collision note:** corpus hits for **蔡明殿 (Ming Ten Dan Tsai)** — works #13, #124, whos841, and the 蔡明憲/蔡明學 mentions in Our Journeys 392/66/206 — are *different* persons (a 人權工作者/文學 writer and unrelated namesakes), not this page's subject. HOLD: no merge.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
