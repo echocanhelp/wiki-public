@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Joyce Weng (黃娟)
 
@@ -37,6 +37,7 @@ last_reviewed: 2026-09-25
 - Invited speaker at the New York Capital District 傳統週 events (TAA-CDNY / 台美文化促進會): 「文學裏的歷史－談楊梅三部曲的創作」 ([[works/taiwaneseamericanhistory-org/ourjourneys311|311. 紐約首府區台灣同鄉會及台美文化促進會簡介]], 2017).
 - Her own writings held in the corpus as community record: [[works/taiwaneseamericanhistory-org/mystories31|31. 伴隨著一支筆 / 黃娟]], [[works/taiwaneseamericanhistory-org/90-e5-bf-83-e6-87-b7-e6-95-85-e9-84-89-2-e9-bb-83-e5-a8-9f-1994-05-e6-96-87-e5-a|心懷故鄉（2）／黃娟／1994／05／文學]], [[works/taiwaneseamericanhistory-org/91-e4-b8-96-e7-b4-80-e7-9a-84-e7-97-85-e4-ba-ba3-e9-bb-83-e5-a8-9f-1994-05-e6-96|世紀的病人（3）／黃娟／1994／05／文學]], [[works/taiwaneseamericanhistory-org/94-e5-a9-9a-e8-ae-8a-6-e9-bb-83-e5-a8-9f-1994-08-e6-96-87-e5-ad-b8|94. 婚變 (6)／黃娟／1994／08／文學]]. Her serialized fiction/essay run in 台美文藝 spans 1992–2005 in the corpus — 山腰的雲（7）／1992, 我在異鄉（1）／故鄉來的冤人（5）／邂逅（4）／政治與文學之間（8）／1994, 楊梅的女孩（9）／寡婦（11）／鳥鳥的世界（12）／1996–98, 愛莎的女孩（10）／1998, 失落的影子（13）／姐妹（14）／歷史的腳印（15）／2000–01, 毒蟯（16）／2003, 落蒂蕨芽（17）／2005 — a 17-year serialized footprint as one of the most-published Taiwanese American novelists (matching the TAH #10 subtitle 「出版最多小說的台美人作家」).
 - **1989 — co-hosted the first International Conference on Taiwanese Literature** at Tsukuba University, Japan, alongside Chang Liang-ze 張良澤, per the memoir of a founder of the era's first overseas 台灣文學研究會 ([[works/taiwaneseamericanhistory-org/ourjourneys70|ourjourneys70]]): the study society ran 11 years, hosted 10+ visiting writers, and published 100+ papers, with this conference as its landmark event.
+- **2024 — her Capital District 傳統週 lecture is counted in the society's own 20-year retrospective**: the 紐約州首府區台美文化促進會二十週年回顧 record lists 「文學裏的歷史－談楊梅三部曲的創作」 among the society's landmark invited lectures of 2004–2024, alongside 徐福棟, 楊遠薰 and others ([[works/taiwaneseamericanhistory-org/our-journeys-391|391. 紐約州首府區台美文化促進會二十週年回顧]], 2024-06) — the English president roster of 北美客協 also confirms her 1996–1997 term ([[works/taiwaneseamericanhistory-org/ourjourneys290-eng|290 (EN). HAPA-NA founding history]]).
 - **1993 — literature speaker at the 15th Formosan Association of Public Affairs/TAAS summer camp** (台美人夏令會, University of Georgia, theme 「迎接台灣的新時代」, per the convention-history record [[works/taiwaneseamericanhistory-org/ourjourneys245|ourjourneys245]]).
 - Personal-network portrait from a Capital District memoir: 翁登山 (Ding-Shan Weng, FDA statistician, later FDA retiree in Maryland) and 黃娟 are recorded as 楊梅客家人, 「很有才華，富有台灣意識的女作家」 with 17 books (楊梅三部曲, 我在異鄉, 媳婦, 世紀的病人, 邂逅 …), 吳濁流文學獎 and 客家終身成就獎 honors, and a 2007-09 invited talk at the 台美文化促進會 annual meeting in Albany — the memoir's author calls the two families 相識半世紀的至交 ([[works/taiwaneseamericanhistory-org/ourjourneys152|ourjourneys152]]). HOLD: this memoir dates an Albany 促進會 lecture to 2007-09 while the ourjourneys311 record of the same 「文學裏的歷史」 lecture series is dated 2017 — two appearances or a date conflict, not merged.
 - Interviewed on her writing life by 楊遠薰: [[works/taiwaneseamericanhistory-org/mystories472|472. 寂寞的文學之旅——訪黃娟談寫作生涯 / 楊遠薰 / 2016-10]] — a first-person account of the literary vocation that underpins her community roles above.
@@ -45,6 +46,7 @@ last_reviewed: 2026-09-25
 - Corpus re-grep 2026-09-23 (slice 09221000-8): SKIP — hit set unchanged (her essays 伴隨著一支筆/心懷故鄉/世紀的病人/婚變, ourjourneys252/290/311 +eng); nothing new to absorb; surname HOLD stands.
 - Corpus re-grep 2026-09-24 (slice 09230500-18): SKIP — hit set unchanged (own essays mystories31/心懷故鄉/世紀的病人, ourjourneys290/311 +eng); nothing new to absorb; surname HOLD stands. Verified saturated.
 - Deepened 2026-09-25 (slice 09240500-14): fresh grep surfaced previously unabsorbed records now integrated above — the 1989 筑波國際台灣文學會議 co-hosting (ourjourneys70), the 1993 夏令會 speaker roster (ourjourneys245), the husband/family portrait memoir (ourjourneys152), the 2016 楊遠薰 interview (mystories472), and the full 1992–2005 serialized-fiction run in the corpus. Surname HOLD stands; new lecture-date HOLD (2007 vs 2017) recorded above.
+- Deepened 2026-10-10 (slice 10081400-27): fresh grep surfaced the previously unabsorbed 2024 促進會二十週年回顧 ([[works/taiwaneseamericanhistory-org/our-journeys-391|our-journeys-391]]) confirming the 傳統週 「文學裏的歷史」 lecture in the society's own 20-year retrospective, and the English HAPA-NA roster ([[works/taiwaneseamericanhistory-org/ourjourneys290-eng|ourjourneys290-eng]]) confirming the 1996–97 presidency. 2 corpus-linked, 1 deepened. Surname HOLD stands.
 
 ## Sources
 - [TAH #98 encyclopedia: 98. Joyce Weng 黃娟](https://taiwaneseamericanhistory.org/98-weng/)
