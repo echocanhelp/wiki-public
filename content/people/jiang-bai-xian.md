@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-10-09
 ---
 # Jiang Bai-xian (江百顯)
 
@@ -18,6 +18,17 @@ last_reviewed: 2026-08-30
 - **Chinese:** 江百顯
 - **Role:** Columnist
 - **Source:** taiwanjustice.net column category
+
+## Role in the Community
+
+江百顯 is the pen name of 廖清山, a Taiwanese American writer living in the U.S. — the TAH Foundation Who's Who entry records the pairing directly: [[works/taiwaneseamericanhistory-org/whos-who-2056-b-s-jiang|TAH Who's Who #2056 — B. S. Jiang 江百顯(廖清山)]]. See also [[people/liao-qingshan|Liao Qing-shan (廖清山)]], whose page carries the same disambiguation note.
+
+His literary work is preserved in the TAH story corpus:
+
+- [[works/taiwaneseamericanhistory-org/120-e5-b9-b4-e8-bc-aa-e9-82-8a-e7-b7-a3-e5-bb-96-e6-b8-85-e5-b1-b1-1997-09-e6-96|年輪邊緣 — 廖清山 — 1997.09 — 文學]] — creative work, 1997.09
+- [[works/taiwaneseamericanhistory-org/21-e5-bb-96-e6-b8-85-e5-b1-b1-e7-ad-86-e4-b8-8b-e9-a3-84-e6-b3-8a-e7-9a-84-e5-8f|廖清山筆下飄泊的台灣人（解說）— 彭瑞金 — 2014.12]] — 彭瑞金's critical commentary on his writing about the Taiwanese diaspora
+
+Alongside the literary record, he is a prolific taiwanjustice.net political columnist (13 title hits, 476 body mentions in the harvest; see Works below), covering Taiwanese politics, the 賴清德 and 蔡英文 presidencies, and community affairs such as the 大洛杉磯台灣會館 bulletin notices.
 
 
 
