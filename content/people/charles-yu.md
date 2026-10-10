@@ -139,3 +139,5 @@ The corpus records show Yu's community role extends well beyond his own fiction:
 - **Kelvin Yu's Emmy record.** [[works/taiwaneseamericanhistory-org/emmy-award-for-outstanding-animated-program-kelvin-yu|TAH #48 Emmy for Outstanding Animated Program / Kelvin Yu (游朝敏) / 2017]] corroborates the brother record already linked above.
 
 HOLD: the prize's founding date is given as 2021-02-11 in the TAHS notice and TAH #93 (already in the timeline), while community write-ups state it without a year — kept as-is, not merged.
+
+<!-- TJJ-A10090401-4: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-4 article 9c6973783db0011a (中央社記者黃淑芳游朝凱游銘泉專訪, 2024-07-06): subject link re-checked vs 正文 this attempt (游朝凱為專訪主角，真實提及), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

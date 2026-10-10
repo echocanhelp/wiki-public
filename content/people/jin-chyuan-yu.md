@@ -95,3 +95,5 @@ last_reviewed: 2026-10-10
 <!-- TJJ-A10070700-1: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10070700-1 articles 9a39a754d2a3b236 (吳澧培回憶錄前言「一個堅持和無數的巧合」, 2015-10-12) / 5d471dbe6e4efbde & 74f89ee82c85dc78 (唐培禮訃聞+鄭世璋新使者文, 兩存檔, 2017-03-12) / 9c6973783db0011a (中央社記者黃淑芳游朝凱游銘泉專訪, 2024-07-06): subject links re-checked vs 正文 this attempt, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10080501-6: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080501-6 article 5b6cede86851b2ba (游朝凱設立創意寫作獎報導, 2021-02-14 刊): 游銘泉（與妻游玲娟）為獎項命名對象 re-checked vs 正文 this attempt, real, no wrong/spurious links; 2021-02-11 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090401-4: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-4 article 9c6973783db0011a (中央社記者黃淑芳游朝凱游銘泉專訪, 2024-07-06): subject link re-checked vs 正文 this attempt (游銘泉與子同受視訊專訪、三代語言隔閡慨嘆), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
