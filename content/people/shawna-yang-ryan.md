@@ -8,7 +8,7 @@ tags:
   - novelist
   - literature
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-09
 ---
 # Shawna Yang Ryan (楊小娜)
 
@@ -106,6 +106,15 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 - 2016-12-09 — Ryan's Washington Post op-ed, republished on TJJ, opens with her third-grade interview of her Taiwanese mother about being "from China," then uses her research for the novel *Green Island* to argue that treating Taiwan's history as beginning in 1949 is "a second silencing" after 38 years of martial law ([[articles/taiwanjustice-net/2024/20240721112815_root_15fc4a3e5664504e|TJJ republication of WaPo op-ed, 2016-12-09]]).
 - 2021-02-11 — 受邀擔任首屆游玲娟、游銘泉創意寫作獎（Betty L. Yu and Jin C. Yu Creative Writing Prizes，TaiwaneseAmerican.org）評委（[[articles/taiwanjustice-net/2026/20260211084131_全國圖書獎得主游朝凱charles-yu為台美人青年創意作家_5b6cede86851b2ba|TJJ, 2021-02-14]]）。
 - 2017-03-04 / 03-05 — 大洛杉磯台灣會館會訊公告：3月4日下午一時應台美人筆會等社團之邀在會館演講《綠島》創作經驗，3月5日下午三點在橙縣Tustin台灣人長老教會演講「Legacy: Seventy Years after 2-28」；會訊並記其為夏威夷大學文學教授、以七年寫成《綠島》獲NYT與LA Times推介（[[articles/taiwanjustice-net/2024/20240530134421_root_23da543a315a1fa1|TJJ 轉載台灣會館會訊，2017-02-17]]）。
+
+- 2007-12-02 — 以「Locke 1928」作者身分在 TaiwaneseAmerican.org 發表「What are you?」台美認同專文（[[works/taiwaneseamerican-org/e2-80-9cwhat-are-you-e2-80-9d-thoughts-on-taiwanese-american-identity|What are you? 專文]]）；HOLD: 該早期作品「Locke 1928」本頁生平未列，形式待核，未自動併入。
+- 2018 — Kristin Chang 訪談中 Ryan 就台僑認同提問，Chang 答以「更像船而非錨」的母系認同論（[[works/taiwaneseamerican-org/past-lives-future-bodies-kristin-chang-interview|Past Lives, Future Bodies 訪談]]）。
+- 2009 — 首部小說是 Water Ghosts（Penguin Press 2009），TaiwaneseAmerican.org 刊訪談/評介記錄其寫作與亞裔美國文學語境（[[works/taiwaneseamerican-org/shawna-yang-ryan-brings-water-ghosts-an-asian-american-novel-to-life|Water Ghosts 訪談]]）。
+- 2009-02-28 — 與 Ho Chie Tsai、Anna Wu 合撰 Formosa Betrayed 影評報導，將 228/白恐怖史帶上大銀幕的社區討論（[[works/taiwaneseamerican-org/formosa-betrayed-giving-voice-to-history-via-the-big-screen|Formosa Betrayed 報導]]）。
+- 2010 — 獲 Page Turner Fest Award 提名，TaiwaneseAmerican.org 專文祝賀（[[works/taiwaneseamerican-org/congrats-to-shawna-yang-ryan-nominee-for-the-page-turner-fest-award|Page Turner Fest 提名]]）。
+- 2016 — 《綠島》出版前後，TaiwaneseAmerican.org 兩度專文介紹（[[works/taiwaneseamerican-org/green-island-novel|GREEN ISLAND 新小說]]、[[works/taiwaneseamerican-org/syr-tour|GREEN ISLAND Author on Tour]]）。
+- 2022 / 2023 / 2024 / 2026 — 續任 TaiwaneseAmerican.org 游玲娟、游銘泉創意寫作獎評委（2021 首屆之後），與 Charles Yu、Alvina Ling 等共同選定歷屆得獎人：[[works/taiwaneseamerican-org/2022-creative-writing-recipients|2022]]、[[works/taiwaneseamerican-org/2023-creative-writing-prize-winners|2023]]、[[works/taiwaneseamerican-org/2024-creative-writing-prize-2|2024]]、[[works/taiwaneseamerican-org/2026-creative-writing-prize-winners|2026]]。
+- 2025-08-11 — 與作家盧彦勳（Alvin Lu）就《Daydreamers》對談（[[works/taiwaneseamerican-org/alvin-lu-daydreamers|Light as Insistent 對談]]）；該文作者簡介列其獲 Association for Asian American Studies 最佳書獎（創意寫作）、Elliot Cades 新興作家獎、American Book Award，並稱其「曾任夏威夷大學創意寫作計畫主任」。HOLD: 本頁稱現任主任 vs 2025 簡介稱「曾任」——任職現況待核，未自動合併。
 
 - 複核（TJJ-A09230700-7, 2026-09-24）：slice 文章 23da543a315a1fa1（南加2/25聯合紀念228七十週年公告）正文再驗證——「台美人第二代作家楊小娜(Green Island的作者)…3月4日會館演講、3月5日Tustin台灣人長老教會演講」確認見於正文，連結為真；2017-03-04/05 條目已在庫 — SKIP，無新材料。
 
