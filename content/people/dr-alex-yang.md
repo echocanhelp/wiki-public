@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-10-10
 ---
 # Dr. Alex Yang (楊青博士)
 
@@ -62,3 +62,4 @@ Re-verified (deepen-x slice 09160400-12, 2026-09-16): re-grep hit set unchanged 
 Re-verified (deepen-x slice 09160500-8, 2026-09-16): re-grep hit set unchanged (own TAH records #270/#1958 + works/index + the held Jeremy Lin-acknowledgements page); no new community material; SKIP.
 Re-verified (deepen-x slice 09160600-6, 2026-09-16): re-grep hit set unchanged (own TAH records #270/#1958 + 楊青矗 novelist mentions in OJ 38/69/245/292/357); no new community material; SKIP.
 Re-verified (deepen-x slice 09160700-3, 2026-09-16): re-grep hit set unchanged (own TAH records #270/#1958 + works/index + the held Jeremy Lin-acknowledgements "Alex Yang" page + 楊青矗 novelist mentions); no new community material; SKIP.
+Re-verified (deepen-x slice 10091414-16, 2026-10-10): full-corpus re-grep (楊青 / Alex Yang / Xelay / Sage Nexxus / Affymax across works/articles/sources/events/topics) hit set unchanged — own TAH records [[works/taiwaneseamericanhistory-org/ota-270|#270]]/[[works/taiwaneseamericanhistory-org/whos-alexyang|#1958]] + 楊青矗 novelist mentions (OJ 38/69/123/245/292/301/357 + the taiwanjustice TUF-night tag page, which is the novelist's context) + the held Jeremy Lin-acknowledgements "Alex Yang" page; no new community material; SKIP.
