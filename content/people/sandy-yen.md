@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Sandy Yen (莊和子)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-10-09
 <!-- deepen-x 09261100-21 re-verify 2026-10-01: fresh ZH+EN full-corpus grep — identical hit set (my-stories-852/853, ourjourneys19/236, whoswho1163, works/index); 853 also names Cogito/Magnex/Genoa (1982 慶豐 Group Silicon Valley venture cluster, not a 莊和子 fact) — no new personal/community fact. Corpus-saturated; SKIP stands. -->
 <!-- deepen-x 10051143-6 re-verify 2026-10-06: fresh ZH+EN grep over all five corpus dirs — identical hit set (my-stories-852/853, ourjourneys19/236, whoswho1163, works/index); all facts already absorbed above. Corpus-saturated; SKIP. -->
 <!-- deepen-x slice 10071520-1 re-verify 2026-10-09: fresh ZH+EN grep (莊和子 / Sandy Yen) over all five corpus dirs — hit set identical (my-stories-852/853, ourjourneys19/236, whoswho1163, works/sources index); all facts (MLI 1981 創辦, pellicle 全球最大製造商, 僑務委員, 台加文化中心, 我的故事專欄) already absorbed and wikilinked. Verified-saturated, nothing new absorbable. -->
+<!-- deepen-x slice 10090800-8 re-verify 2026-10-10: fresh ZH+EN grep over all five corpus dirs — hit set identical (my-stories-852/853, ourjourneys19/236, whoswho1163, works/index); 853's Cogito/Magnex/Genoa passage is the 慶豐 Group cluster, not a 莊和子 fact. All facts absorbed and wikilinked; corpus-saturated, SKIP stands. -->
