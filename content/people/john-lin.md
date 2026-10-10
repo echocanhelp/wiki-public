@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # John Lin (林榮勳)
 
@@ -41,7 +41,8 @@ _No filled family fields on the TAH profile._
 - Memoir detail: Lin grew up in a Taipei physician family; in 1949 he was president of the NTU student council (台大學生自治會會長), was seized by secret police during a campus raid, and was released only after President 傅斯年 intervened — an experience that turned him against the KMT's reign of terror; he later read international relations at the University of Pennsylvania with 陳以德: [[works/taiwaneseamericanhistory-org/ourjourneys85|Our Journeys #85]].
 - Founding-member composition per the English edition of the same memoir: of the five 3F founders (Tom Yang, John Lin, Edward Chen, Echo Lin, Tsu-Yi Jay Loo), all but Lin were graduates of 台南一中 (Tainan First Senior High), and all but Echo (林錫湖, a doctoral student in organic chemistry) were Christians; Lin and Chen rented a room near UPenn with Yang (then entering UPenn's radiology graduate program) and worked at a church and a textile factory to cover living expenses: [[works/taiwaneseamericanhistory-org/ourjourneys85-eng|Our Journeys #85 (EN)]].
 - Encyclopedia entry honoring him as an enlightenment figure of the independence movement: [[works/taiwaneseamericanhistory-org/275-e6-9e-97-e6-a6-ae-e5-8b-b3-e5-8d-9a-e5-a3-ab-e7-8d-a8-e7-ab-8b-e9-81-8b-e5-8|275. 林榮勳博士 / 獨立運動的啟蒙者 / 1950年代]].
-- HOLD: conflict in the reorganisation date of 3F into 台灣獨立聯盟 (UFI) — 1958 per [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys #33]] vs 1959 per the TJJ essay below. Not auto-merged.
+- 3F membership roster work: [[works/taiwaneseamericanhistory-org/198-e6-9e-97-e6-a6-ae-e5-8b-b3-e3-80-81-e6-9e-97-e9-8c-ab-e6-b9-96-e3-80-81-e9-9|TAH #198 「林榮勳、林錫湖、陳以德、楊東傑和盧主義 — members of Formosans' Free Formosa (3F)」]] — records the 1956 Philadelphia founding by 陳以德、盧主義、林榮勳、楊東傑、林錫湖 (the movement's shift from Japan to the US), the 1958 reorganisation into 台灣獨立聯盟 (UFI), and the wave of later student recruits (e.g. 楊宗昌 1964) who joined despite KMT surveillance and passport threats.
+- HOLD: conflict in the reorganisation date of 3F into 台灣獨立聯盟 (UFI) — 1958 per [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys #33]], TAH #198, and TAH #1011 vs 1959 per the TJJ essay below. Not auto-merged.
 - Note: [[works/taiwaneseamericanhistory-org/whoswho1069|TAH #1070 "John Lin" 林釗永]] is a different person, not linked here.
 - His own TAH encyclopedia card is in-corpus: [[works/taiwaneseamericanhistory-org/whoswho1011|TAH #1011 「John Lin 林榮勳」]], which also records the 3F→UFI reorganisation as 1958 (matching #33, against the 1959 essay date — HOLD above unchanged).
 
