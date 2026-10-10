@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # James Hu (胡宏仁)
 
@@ -45,6 +45,7 @@ last_reviewed: 2026-09-25
 - 2015 — 於愛臨市台灣長老教會（ITPC）主辦的「長青教室」擔任生活技能課程講師，授「重要電腦技巧」23堂課之一（[[works/taiwaneseamericanhistory-org/ourjourneys107|107. 長青教室 / 2015-02]]，band A 社區一手紀錄）。
 - 2016-03-13 — 列入 TAH Foundation Who's Who 故事紀錄 #887（[[works/taiwaneseamericanhistory-org/887-james-hu-e8-83-a1-e5-ae-8f-e4-bb-81-201603|887. James Hu 胡宏仁]]）。
 - 2017-11-29 — 應邀於長青教室演講「建造健康奇蹟的食用好油」（見下方 From the record，與 2015 電腦技巧課程同屬長青教室講師群）。
+- 2026 — 列入 [[organizations/irvine-taiwanese-presbyterian-church|ITPC（爾灣台灣基督長老教會）]] 2026 事工委員會名冊：信徒教育組（B 組）成員、財務管理會（J 組）成員；配偶鍾瑞美同屬該會，任靈修宣道組（C 組）召集人及姊妹會同工。本頁長青教室講師工作即於該會主辦之社區服務組長青教室（H1）進行。
 
 2026-09-24 re-check (DEEPEN-X slice 09230600-30): corpus re-grep (James Hu / 胡宏仁) hit-set unchanged — 887, ourjourneys107 課程名單, index 目錄, plus held lunchbox/James Huang false-identity hits and TJJ 黃瑞雅頁 — verified-saturated, nothing new absorbable.
 
@@ -87,3 +88,4 @@ HOLD: 「Liyen James Hu」在 [[works/taiwaneseamerican-org/lunchbox-anne-hu-rel
 <!-- TJJ-A10060500-3: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060500-3 article c691e327b9133c1a (心得報告標籤頁, 2024-07-19 快照): subject link re-checked vs 正文 this attempt (「長青教室心得報告-建造健康奇蹟的食用好油 ◎ 講師 胡宏仁教授 2017-11-29」確認見於條目), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material; James Hu/Liyen James Hu 同名異人 HOLD 不變. -->
 <!-- TJJ-A10060800-8: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060800-8 article 49d912cc449367f0 (長青教室 tag p2, 2024-06-21快照): subject link re-checked vs 正文 this attempt (「長青教室心得報告-建造健康奇蹟的食用好油 ◎講師 胡宏仁教授 2017-11-29」), real, no wrong/spurious links; 2017-11-29 dated fact w/ article wikilink already in From the record — James Hu/Liyen James Hu 同名異人 HOLD 不變; saturated, no new material. -->
 <!-- TJJ-A10070700-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-3 article c691e327b9133c1a (心得報告標籤頁, 2024-07-19 快照): 「長青教室心得報告-建造健康奇蹟的食用好油 ◎ 講師 胡宏仁教授 2017-11-29」確認見於條目; subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — James Hu/Liyen James Hu 同名異人 HOLD 不變; saturated, no new material. -->
+<!-- DEEPEN-X10081400-8: deepened 2026-10-10 — broadened grep (鍾瑞美 / Louisiana) surfaced ITPC 2026 事工委員會名冊 (organizations/irvine-taiwanese-presbyterian-church): 胡宏仁 = 信徒教育組成員 + 財務管理會成員; 鍾瑞美 = 靈修宣道組召集人 + 姊妹會同工. New Role-in-the-Community bullet w/ org wikilink; ties 長青教室 H1 講師 work to ITPC org layer. James Hu/Liyen James Hu 同名異人 HOLD 不變. -->
