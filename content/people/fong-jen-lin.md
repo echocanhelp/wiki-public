@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Fong-Jen Lin (林豐仁)
 
@@ -57,3 +57,4 @@ last_reviewed: 2026-10-09
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x 10060950-5: SKIP — corpus re-scan (works/articles/sources/events/topics) fresh 2026-10-08: ZH+EN grep hit set identical to prior passes (own record + already-absorbed works + index listings); false-positive substring hits excluded (趙明昊 Fudan professor in taiwanjustice 2023 article; 久香 substring in BNO news). No new community material. -->
 <!-- deepen-x slice 10080600-25 re-grep 2026-10-09: fresh grep (林豐仁/Fong-Jen Lin/豐仁) across works+articles+sources+events+topics returns only the same hit set (own record #614, ourjourneys107, works index, sources/taiwaneseamericanhistory-org); verified saturated — no new corpus facts. -->
+<!-- deepen-x slice 10091500-18 re-grep 2026-10-10: fresh grep (林豐仁/Fong-Jen Lin/豐仁) across works+articles+sources+events+topics returns the identical hit set (own record #614, ourjourneys107, works index, sources/taiwaneseamericanhistory-org); verified saturated — no new corpus facts. -->
