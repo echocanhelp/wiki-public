@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # Huai Shion Tsai (蔡蕙香)
 
@@ -94,3 +94,5 @@ Huai-Shion Tsai was born in Tainan, Taiwan in 1947. She graduated from the Natio
 <!-- TJJ-A10060700-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060700-2 article cd2062fe6528223c (台灣之美‧亞洲之心國際巡迴展LA展報導, 2017-03-14刊, 2024-07-24快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070900-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-2 article cd2062fe6528223c (台灣之美‧亞洲之心LA展報導, 2017-03-14刊, 2024-07-24快照): subject link re-checked vs 正文 this attempt — 以新藝畫會會員受邀參展點名於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10081500-11: verified 2026-10-10 — fresh ZH+EN grep across works/articles/sources/events/topics returned the identical hit set already wikilinked on this page (TAH #19/#163/#164/#460/#729 + TJJ cd2062fe6528223c exhibition report). New lead checked: organizations/neo-art-league.md already carries her 2017 新藝畫會 member invitation; TAH #371 (2021, 後藝情國際交流展) names 新藝畫會 only, not 蔡蕙香 — no personal fact, nothing absorbed. Saturated, no new material. -->
