@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Josephine Pan (潘掬慧)
 
@@ -47,6 +47,13 @@ last_reviewed: 2026-09-25
 - 2025-02-22 — 再度以台館董事身份與228系列活動召集人李賢群共同主持台館「228追思紀念大會」（主題「不義遺址的保存」，24社團協辦）；該場為台館拆除重建前最後一次在台館舉辦的228系列活動（[[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ report, 2025-02-24]]）。
 
 - 2024-02-28 — 以TUF前會長身份於第17屆「台灣介心靈日」228紀念音樂會（Arcadia Community Church）受訪表示，自二二八60周年起TUF與優社堅持2月28當晚以音樂會悼念、至今已17屆，紀念228心繫台灣、勿忘犧牲的台灣菁英與歷史正義的追求（[[articles/taiwanjustice-net/2024/20240522044953_root_47725345581e0f61|TJJ 影音報導, 2024-03-04]]）。
+
+## Role in the Community
+
+- **2011 — 台灣茶大使（ITASA 2011 Midwest Conference）** — 與夫 [[people/thomas-shu|Thomas Shu 許正龍]] 以「ambassadors of Taiwan tea」身分在 [[organizations/taiwanese-american-students-association-of-northwestern-university|Northwestern]] 舉行的 ITASA 2011 Midwest Conference 上受 [[organizations/taiwaneseamerican-org|TaiwaneseAmerican.org]] Esther Hou 專訪；兩人皆出身新竹（東方美人/Formosa Champagne Oolong 產地），透過茶藝工作坊與台灣參訪團向各年齡層推廣台灣茶文化（[[works/taiwaneseamerican-org/ambassadors-of-taiwan-tea|TaiwaneseAmerican.org「Ambassadors of Taiwan Tea」]]）。
+- **2013-05 — 萬國節推廣台灣好茶** — 與台灣茶大使許正龍同赴明尼蘇達州雙城萬國節（Minnesota State Fair）台灣攤位推廣台灣好茶，見於明州台美人百年大事紀（[[works/taiwaneseamericanhistory-org/ourjourneys123|TAH #123 明州台美人百年大事, 曾啟明, 2015-03]]）。
+- **2021-05 — Taiwan Elite Alliance 連署署名** — 以 [[organizations/taiwan-elite-alliance|Taiwan Elite Alliance]] 名義署名反 Pew Research 掩蓋台灣認同連署「We made it count. Now tell our stories.」（[[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|TaiwaneseAmerican.org 連署聲明, 2021-05-01]]）。
+- **2022-02-24 — 228 75周年 Podcast 與談** — 與 Wei-Wei Chang、Michi Fu、Tsuann Kuo 同場，以不同背景與世代的台灣人女性身分分享各自與228的個人經驗與社會影響觀點（[[works/taiwaneseamerican-org/remembering-the-228-massacre-readings-resources-on-taiwans-white-terror-era|TaiwaneseAmerican.org「Remembering the 228 Massacre」, 2022-02-24]]；同場與談人見 [[people/prof-michi-fu|Michi Fu]]、[[people/tsuann-kuo|Tsuann Kuo]]）。
 
 ## Source Notes and Confidence
 
