@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-10
 ---
 # Prof. Tender Lin (林天德教授)
 
@@ -48,6 +48,8 @@ Absorbed from the TAH profile above:
 - His own essays in the TAH corpus are harvested as vault works: [[works/taiwaneseamericanhistory-org/publications438||438. 台灣人, 別再隨緣認命 (1994)]], [[works/taiwaneseamericanhistory-org/publications439||439. 你我都贏才是贏 (1995)]], [[works/taiwaneseamericanhistory-org/publications440||440. 變態心理學 (1998)]], [[works/taiwaneseamericanhistory-org/publications441||441. 聊療心：它的理論與應用 (2000)]], [[works/taiwaneseamericanhistory-org/mystories438||438. 台灣十年教學有感 (2016)]], and [[works/taiwaneseamericanhistory-org/mystories560||560. 恩澤滋潤無常人生 (2017)]].
 - [[works/taiwaneseamericanhistory-org/mystories199||199. 迷失在競爭學路上 Got Lost in Competitive Schooling (2015)]] — education critique from his counseling background.
 - [[works/taiwaneseamericanhistory-org/on-my-ten-year-span-of-teaching-in-taiwan||18. 林天德教授返台任教 (1989)]] — covers his return to teach in Taiwan, matching the 1989–1990 teachers-college posts above.
+- Later essays/memoirs in the corpus, now linked: [[works/taiwaneseamericanhistory-org/publications903||903. 命問我答 Life Asks. I Answer. (2014)]], [[works/taiwaneseamericanhistory-org/mystories278||278. 回顧來時路 (2015)]] (retrospective memoir), [[works/taiwaneseamericanhistory-org/publications1112||1112. Live to Win 贏在生活 (2017)]], [[works/taiwaneseamericanhistory-org/mystories578||578. 蕃薯落土生根 (2017)]], [[works/taiwaneseamericanhistory-org/mystories574||574. 生活靠能力也靠運氣 (2017)]], and [[works/taiwaneseamericanhistory-org/mystories733||733. 老伴在疫情中凸顯其重要 (2020)]] — written during the pandemic, on the importance of life partners.
+- The corpus also holds the East Bay community record [[works/taiwaneseamericanhistory-org/tass-eb||23. 北加州東灣台美人長樂會〈TASS-EB〉 (2015)]]; its text does not name him directly (title-level match on 東灣台美人 only) — HOLD: no confirmed TASS-EB role.
 
 ## Timeline
 
