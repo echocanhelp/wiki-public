@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-10
 ---
 # Chiu-Sen Wang (王秋森教授)
 
@@ -49,6 +49,13 @@ last_reviewed: 2026-09-27
 - 2015-04 — TAH 收錄其個人紀錄「377. Chiu-Sen Wang 王秋森/2015/04」（[[works/taiwaneseamericanhistory-org/377-chiu-sen-wang|TAH #377]]）。
 - 1966 — 以 UCLA 為中心的台灣留學生每週輪流演講、讀書報告小組成員（與陳嶄新、李木通、黃根深、陳松貞等），此小組即 1971 年正式誕生的「生活座談會」的前身；他後來亦繼續參加南區（橙縣）生活座談會（[[works/taiwaneseamericanhistory-org/ourjourneys212|TAH #212]]）。
 - 1968 — 全美台灣獨立聯盟決議將總部自費城遷往紐約後，鼓勵盟員到聯合國所在地及華府附近就業定居；他與張燦鍙、羅福全、蔡同榮、賴文雄、鄭自才、許富淵、陳伸夫、洪哲勝、張文棋、王康陸等主力幹部在完成學業後陸續赴紐約總部報到（[[works/taiwaneseamericanhistory-org/ourjourneys234|TAH #234]]）。
+- 1983 — 在洛杉磯創立「台灣文化事業有限公司」；戒嚴時期陳婉真滯留美國期間參與其出版計畫，系統性整理二二八史料之《1947台灣二二八革命》即由陳婉真、王秋森執筆，李賢群協助整理史料、列名共同作者（[[articles/taiwanjustice-net/2025/20250713202243_陳婉真昔旅美10年-友人李賢群追思_台獨才女_7d0b3e3cc07bf7fd|TJJ 陳婉真追思報導]]；[[articles/taiwanjustice-net/2025/20250713205946_洛杉磯台僑追思陳婉真-感念_最勇敢的抗爭先鋒_532486e0930de784|同事件另篇報導]]）。
+- 1991–2003 — 因投入台獨運動上了國民黨黑名單；返台後各校系不敢聘用有「記錄」者，獲台大醫學院公衛系錄用，後公衛系自醫學院獨立為公衛學院，其於 1991–2003 年間先後任教醫學院及公衛學院，並三度出任公衛學院院長（[[articles/taiwanjustice-net/2024/20240523001702_root_d717aa524a3911af|TJJ 謝伯芳訪問戰後台大同窗紀錄]]）。HOLD: 訪談記 1991–2003 任教／院長，與 TAH tables 記 1993 系主任、1996 院長之起始年不完全一致，不逕調合。
+- 1956–1960 — 台大化工系時代（保送入學，屆內台灣人與外省人約各半，另有約四十名僑生）；據其台大回憶，因讀到「武漢大旅社」命案始知教工業化學之陳華洲教授系被誣陷入獄身亡（[[articles/taiwanjustice-net/2024/20240523001702_root_d717aa524a3911af|TJJ 台大同窗紀錄]]）。
+- 2017-10-26 — 於《民報》發表「光復劫系列3」〈越南人民做到了，台灣人民還須繼續打拚〉（[[articles/taiwanjustice-net/2017/20171109045235_category_history_e46328a877e48794|TJJ 歷史必讀索引]]；[[articles/taiwanjustice-net/2024/20240225005903_root_69f1e03c883fdd3b|TJJ 歷史必讀另篇索引]]，語料庫僅存索引、未含全文）。
+- 2024-10-23 — 朱真一撰評傳「台獨聯盟的要角：公共衛生界的王秋森博士」刊於台美人台加人专栏（[[articles/taiwanjustice-net/2025/20250215221604_category_taiwaneseamerican_page_3_98bf76da5c3ac86d|TJJ 专栏索引]]，語料庫僅存篇目索引）。
+- 2018-07-20 — 以化工系校友名列南加州台大校友會反邀管中閔來年會專題演講之連署名單（[[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ 連署報導]]）。
+- 讀書會／生活座談會傳承：六十年代 UCLA 台灣人留學生讀書會成員（劉天良、黃根深、李木通、陳嶄新、王秋森、陳松楨等），劉天良述其為生活座談會前身；曾參加生活座談會者如郭清江、謝清志、王秋森、蘇育德、蔡滄波、江昭儀等後來多回台貢獻（[[works/taiwaneseamericanhistory-org/ourjourneys240|TAH #240 劉天良訪問]]；與 [[works/taiwaneseamericanhistory-org/ourjourneys212|TAH #212]] 互補）。
 - Corpus re-grep 2026-09-22 (slice 09212352-3): hit set = ourjourneys81(-eng)、ourjourneys76(-eng)、ourjourneys212、ourjourneys234、publications1092、TAH #235 追思文、#377 個人紀錄 — 全部已吸收；本次補上 #81 英文版連結，其餘語料已飽和。
 
 ## Sources
