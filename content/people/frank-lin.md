@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Frank Lin (林俊甫)
 
@@ -53,3 +53,4 @@ last_reviewed: 2026-10-09
 - 2026-10-06 deepen-x slice 10051143-23: fresh ZH+EN grep across works/articles/sources/events/topics — hit set identical (ourjourneys19 + whoswho1489 + pew statement + indexes). Verified saturated; HOLD stands.
 - 2026-10-08 deepen-x slice 10060950-6: fresh ZH+EN grep across works/articles/sources/events/topics — hit set identical (ourjourneys19 + whoswho1489 + pew statement + indexes, all already absorbed). Verified saturated; HOLD on the two-Frank-Lin identity conflict stands.
 - 2026-10-09 deepen-x slice 10080600-22: fresh ZH+EN+surname (林俊甫/Frank Lin/俊甫) grep across all 5 corpus dirs — hit set identical (ourjourneys19 + whoswho1489 + pew statement + works index + sources page, all already absorbed). Verified saturated; HOLD on the two-Frank-Lin identity conflict stands.
+- 2026-10-10 deepen-x slice 10091500-15: fresh ZH+EN+surname (林俊甫/Frank Lin/俊甫) grep across all 5 corpus dirs — hit set identical (ourjourneys19 + whoswho1489 + pew statement + works index + sources page, all already absorbed). Re-read ourjourneys19 passage (Genoa co-founder 1982, Trident Microsystems founder 1987, IPO 1992) — no new detail beyond what is absorbed. Verified saturated; HOLD on the two-Frank-Lin identity conflict stands.
