@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-09
 ---
 # Kin Ko (柯金寅)
 
@@ -65,6 +65,7 @@ M.S., Aerospace Engineering; Ph.D. Course Program
 - His 緬懷楊教授國雄兄 also exists as a TAH My Stories work record ([[works/taiwaneseamericanhistory-org/my-stories-784|784. 緬懷楊教授國雄兄, 02/2021]]) — same text as the TAA Archives newsletter piece in ## From the record; no date conflict.
 - Continued contributor to 台美史料中心 in later years: 9/11二十週年紀念 ([[articles/taiwanjustice-net/2021/20211205055120_2021_09_18_9-11二十週年紀念-_-柯金寅_28555391f3678c80|TJJ, 2021-09-18]]) and 教會旁邊搭戲台：福音和歌仔戲結合的（紐約報導，劉南芳教授於北澤西佳壇台語基督長老教會演講「在台灣以歌仔戲傳福音的經驗」）([[articles/taiwanjustice-net/2025/20250807042625_教會旁邊搭戲台_福音_和_歌仔戲_結合的_66aba4129064773b|TJJ, 2025-08]])。
 - Corpus re-grep 2026-09-23 (slice 09230317-8; 柯金寅 / Kin Ko): beyond the previously linked records, newly absorbed above are ourjourneys91, ourjourneys153, photo-albums-activities-51, mystories118, my-stories-784 + two TJJ captures; remaining hits are index/tag pages (works/index.md, TJJ tag:柯金寅) — nothing further absorbable.
+- Corpus re-grep 2026-10-09 (slice 10080951-14; 柯金寅 / Kin Ko across works/articles/sources/events/topics): hit set identical to the records already wikilinked above, plus the bibliographic work record of his own TAH Who's Who entry — [[works/taiwaneseamericanhistory-org/whos-who-901-kin-ko|901. Kin Ko 柯金寅, 2016-03-20]] (value band B), now linked here; remaining hits are index/tag pages (works/index.md, TJJ tag:柯金寅). No other new absorbable material.
 
 ## From the record
 
