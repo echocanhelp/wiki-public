@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-10-10
 ---
 # Dr. David Ho (何大一醫師)
 
@@ -68,3 +68,6 @@ Accomplishment
 
 ## Corpus re-grep (slice 09170130-1)
 - 2026-09-17: re-grep 何大一 / David Ho — hit set unchanged: own already-linked TAH records (#118、#196、#228、#32), the HOLD-flagged name-collision [[works/taiwaneseamericanhistory-org/whos-who-1892-david-hong|#1892 洪德生 (different person)]], works/index rows, and the known David Hockney false positive in the 2025-04 Taiwan Justice auction article. No new community/corpus facts absorbable. **SKIP-with-reason**; HOLD (David Hong collision) still stands.
+
+## Corpus re-grep (slice 10090500-26)
+- 2026-10-10: re-grep 何大一 / David Ho / 何步基 / 江雙如 across all 5 corpus dirs — hit set unchanged: own already-linked TAH records (#118、#196、#228、#32), #1892 HOLD collision, tag page, works/index rows. Two substring false positives confirmed as non-matches: the 2025-06-14 Joyce Lin / MAF crash article matches *David Holsten* (MAF chair), not this person. No new community/corpus facts absorbable. **SKIP-with-reason**; last_reviewed bumped.
