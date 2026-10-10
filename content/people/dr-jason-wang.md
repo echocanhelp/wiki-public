@@ -70,3 +70,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10010400-1: verified 2026-10-05 — wave-2 re-check of slice 10010400-1 article d94cecdd 史丹佛論壇陳建仁防疫模式 (2020-05-08 轉載): subject link re-checked vs 正文, real, no wrong/spurious links; 2020-05-07 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - Corpus re-grep 2026-10-10 (slice 10081400-31): fresh ZH+EN grep (王智弘 / Jason Wang / surname 王) across all 5 corpus dirs returns the identical hit set already linked above (publications13, whos-who-281, 1281, whos-who-2011 王凱傑 disambiguation, Pew statement, works index, sources registry, plus the two TJJ epidemic-forum articles under From the record). Also probed romanization variants 智弘 / Chih-hung Wang — no additional hits. SKIP, verified-saturated.
+
+<!-- TJJ-A10090401-5: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-5 article d94cecddadd6f167 (史丹佛論壇分享防疫 陳建仁：台灣模式貴在透明, 2020-05-07): subject link re-checked vs 正文 this attempt — 「史丹佛醫學院台裔教授王智弘（Jason Wang）」與談人身份確認見於正文, real, no wrong/spurious links; 2020-05-07 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
