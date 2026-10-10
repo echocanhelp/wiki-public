@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-10
 ---
 # Ing-Hui Lai (賴英慧)
 
@@ -100,3 +100,5 @@ last_reviewed: 2026-09-23
 
 <!-- TJJ-A10071400-1: verified 2026-10-09 — wave-2 link+deepen re-check of article 80c0a825a7a661b6 (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, 2025-11-08快照): subject link 賴英慧 re-checked vs 正文 this attempt (賴英慧 列名共同發起人清單, 漢名與本頁標題相符), real, no wrong/spurious links; 2021-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10080501-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080501-3 article 2fc3294ed01f2d2a (台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連任報導, 2025-08-08快照) read fresh this attempt: 賴英慧列名與會名單確認見於正文; subject link re-checked, real, no wrong/spurious links; 2022-07-02 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- deepen-x slice 10081300-2: verified 2026-10-10 — fresh ZH+EN grep (賴英慧/Ing-Hui Lai/英慧) across all 5 corpus dirs returned the identical already-absorbed hit set: ourjourneys301 (TUF memoir, 第五任會長 sequence + 台灣民謠之夜/1996文化之夜 details fully absorbed in Role in the Community), 4 taiwanjustice-net articles (2490b18e 論壇與談人 / b1d58af1+80c0a825 WHA聲明共同發起人 / 8c5d1203+2fc3294e 募款餐會), works/index + sources index. Zero new absorbable material — SKIP, verified saturated. -->
