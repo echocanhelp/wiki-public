@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-10
 ---
 # Prof. Jun-Yi Lin (林俊義教授)
 
@@ -70,6 +70,20 @@ The TAH archive carries this person under both romanizations — Edgar (TAH #174
 - 覆核（TJJ-A09251300-3, 2026-09-26）：本 slice 兩份同文文章 0832558e3b4e5ac7 / b7327dcf888cee82（台美史料中心 March 2021 Newsletter）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含兩文 wikilink 的 2021-02-28 條目已在庫 — SKIP，已飽和。
 
 - 2021-02-28 — 台美史料中心（T. A. Archives）3月通訊重刊林俊義〈活出淋漓盡致的生命〉自述（2015-02），記其赴美後由美國文學轉讀生物、於 Indiana Goshen College 重新起步的經歷（[[articles/taiwanjustice-net/2021/20210419132127_2021_02_28_march-2021-newsletter-t-a-archives-台美史料中心_0832558e3b4e5ac7|TJJ, 2021-02-28]]；同文另存 [[articles/taiwanjustice-net/2026/20260208202549_march-2021-newsletter-t-a-archives-台美史料中心_b7327dcf888cee82|2026-02-08 快照]]）。
+
+## Role in the Community
+
+His own first-person accounts are held in the TAH story corpus, written for the 台美人顧台灣 series and the 活出淋漓盡致的生命 memoir set — community record, not press-kit biography:
+
+- 1971/01 — first Taiwanese volunteer to work in Kenya, Africa: [[works/taiwaneseamericanhistory-org/167-prof-edgar-lin-e6-9e-97-e4-bf-8a-e7-be-a9-first-volunteer-to-work-in-kenya-a|167. Prof. Edgar Lin 林俊義 / First volunteer to work in Kenya, Africa]] — predates his Tunghai appointment; the African posting is a distinct episode of his biography.
+- 2015/01 — [[works/taiwaneseamericanhistory-org/mystories187|187. 搭上貨輪 航向美國]] — how he left Taiwan for the U.S. by cargo ship.
+- 2015/02 — [[works/taiwaneseamericanhistory-org/mystories191|191. 初抵美國呷漢堡和乘灰狗巴士99元暢遊全美]] — first arrival in America; the $99 Greyhound trip across the U.S.
+- 2015/03 — [[works/taiwaneseamericanhistory-org/mystories219|219. 非洲大草原的奇遇]] — encounters on the African savanna, companion piece to the Kenya posting.
+- 2015/03 — [[works/taiwaneseamericanhistory-org/mystories214|214. Care for Taiwan by Taiwanese American (台美人顧台灣): 13, 回去效力故鄉]] — his statement of return-to-service, the through-line from the Kenya years to the EPA years.
+
+These fill gaps the employment table cannot: the 1971 Kenya volunteer year sits before the 1975 Tunghai record, and the cargo-ship departure explains the Indiana/Goshen re-start noted in the 台美史料中心 self-account above.
+
+<!-- DEEPEN-X10081500-10 (2026-10-10): grep across works/articles/sources/events/topics surfaced five uncited 林俊義 first-person story records (167 Kenya 1971, mystories 187/191/219/214, 2015) — absorbed above with wikilinks. ourjourneys8/53 hits were 林俊提/林俊雄 (other persons), not links. No date/age conflicts introduced. -->
 
 ## Sources
 - [TAH #174 encyclopedia: 174. Prof. Edgar Lin 林俊義教授](https://taiwaneseamericanhistory.org/174-prof-edgar-lin/)
