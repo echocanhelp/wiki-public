@@ -9,7 +9,7 @@ tags:
   - wufi
   - uzi
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # Bei Hung Kuo (郭倍宏博士)
 
@@ -42,6 +42,11 @@ last_reviewed: 2026-09-24
 - **1981 年東南區夏令會初登场：** 第三屆夏令會（北卡威爾孫學院）第一次參加即四處拍照，曾被留學生誤以為國民黨特務（[[works/taiwaneseamericanhistory-org/ourjourneys245|245. 東南區夏令會史]]）。
 - **土城書簡與從政紀錄：** 出獄前後與李應元的土城書簡有紀念文章（林又新，1993/10，[[works/taiwaneseamericanhistory-org/306-e6-b0-b8-e9-81-a0-e7-9a-84-e6-88-b0-e5-a3-ab-e9-83-ad-e5-80-8d-e5-ae-8f-e6-9|306. 永遠的戰士]]）；1993 年代表「新國家連線」路線參選台南市長，競選總部位於台南（[[works/taiwaneseamericanhistory-org/publication1313|1313. 自由戰士實現台南夢／1993 競選文宣]]）；後轉入民視，《郭倍宏的傳奇人生～會把民視帶向何方？》（曹長青，2016/08，[[works/taiwaneseamericanhistory-org/mystories455|455]]）。TAH 百科人物條另見 [[works/taiwaneseamericanhistory-org/whoswho1036|TAH #1036 / 2016/05]]。
 - 2026-09-24（slice 09230800-18）再grep：於上述六篇之外新吸收 8 篇（234/230/245/238/376/306/455/1313/1036），見上條。
+- **盟主席交接與代理（1990–1991）：** 張炎憲口述歷史載：1990 年郭倍宏續任美國本部主席、楊宗昌出任副主席；1991-01-09 郭倍宏決定回台，楊宗昌乃代理美國本部主席；同年 12 月聯盟總部遷回台灣（與上條 280「遷台」相互印證，主席交接細節為新增事實）（[[works/taiwaneseamericanhistory-org/ourjourneys33|33. 一家人做伙來打拼／張炎憲 2014]]）。
+- **洛杉磯《台灣公論報》：** 廖清山回憶錄稱「土木工程博士郭倍宏夫婦放棄賺大錢的機會，在洛杉磯『台灣公論報』沒日沒夜的工作」，並指其後「經營事業有成，擁有龐大財力可以入主民視」——與本頁妻子張舜華條目互證，為公論報工作之旁證（[[articles/taiwanjustice-net/2024/20240421190316_root_39b87795c51b5977|TJJ／廖清山 2017-01，2024-04-21 存檔]]）。
+- **2023 高雄立委參選：** 表態參選高雄第六選區區域立委，於住家附近發傳單時被民眾檢舉違反「脅制人安全法」道安條例、遭警方包圍；陳茂雄撰文〈中國國民黨整慘郭倍宏？〉質疑民進黨「綠色恐怖」（[[articles/taiwanjustice-net/2025/20250328162256_中國國民黨整慘郭倍宏-_-陳茂雄_3b65eec085db6b8f|TJJ／陳茂雄 2023-04-19，2025-03-28 存檔]]）。
+- **蒙面公開露面影像（1989）：** 歷史相冊收錄「39. Dr. B.H. Kuo (郭倍宏) Appeared in a Public Gathering with Mask in Taiwan 1989」，為 1989 年突破黑名單期間公開露面之影像記錄（[[works/taiwaneseamericanhistory-org/photo-albums-historical-39|歷史相冊 #39]]）。
+- 2026-10-10（slice 10090315-21）再grep（郭倍宏／Bei Hung Kuo／郭倍）：於既往 14 篇之外新吸收 4 篇（ourjourneys33 主席交接、TJJ 廖清山公論報、TJJ 陳茂雄 2023 參選、歷史相冊 #39）；陳東榮投書（蔡英文獨裁論戰）與王泰和悼文（「闖關返台」群像）屬他人脈絡、無本人事實可吸收。
 
 ## Family
 
