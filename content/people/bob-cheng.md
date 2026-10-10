@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-09
 ---
 # Dr. Bob Cheng (鄭寶鼎博士)
 
@@ -82,3 +82,9 @@ Multiple further vault records mention him and were not yet linked from this pag
 <!-- TJJ-A10040600-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-2 article 9907500dda4f33bb (斯人已逝其德可追-緬懷鄭寶鼎博士 ◎林宏容, 2020-09-30): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607005-a: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607005-a article 9907500dda4f33bb (斯人已逝其德可追-緬懷鄭寶鼎博士 ◎林宏容, 2020-09-30刊/2026-01-21快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## Deepen pass 2026-10-09 (deepen-x slice 10081000-14, corpus-linked)
+Fresh ZH+EN grep (鄭寶鼎/Bob Cheng) across works/articles/sources/events/topics surfaced 7 previously-unlinked in-vault records, now absorbed:
+- **Community-history urging** — [[works/taiwaneseamericanhistory-org/our-journeys-376||#376 中西部台灣人夏令會簡史 / 洪國治 (2021-08)]]: the MTSC (Midwest Taiwanese Summer Conference, 1971–2020) history was written at the explicit urging of T.A. Archives founder Bob Cheng — he prompted 洪國治 to continue the 1971–1988 list first printed in the 1988 Michigan State University conference handbook, extending it to 2018. Evidence Cheng used his Archives to drive community historiography, not just collect.
+- **Memorial-essay cluster (2020-09, 台美史料中心 memorial series)** — six more tributes not previously linked: [[works/taiwaneseamericanhistory-org/mystories-742||#742 懷念鄭寶鼎博士 / 方秀蓉]], [[works/taiwaneseamericanhistory-org/mystories-743||#743 緬懷鄭寶鼎先生 / 李淑櫻]], [[works/taiwaneseamericanhistory-org/mystories-745||#745 感念台美史料中心創辦人鄭寶鼎先生 / 劉惠麗]], [[works/taiwaneseamericanhistory-org/mystories-752||#752 追念鄭寶鼎博士 / 歐春美]], [[works/taiwaneseamericanhistory-org/mystories-753||#753 追憶鄭寶鼎博士 / 王漢平]], [[works/taiwaneseamericanhistory-org/mystories-754||#754 鄭寶鼎博士和 THSH/TA Fund / 葉郁如]]. #754 ties him to THSH/TA Fund work. Together with the already-linked #744/#747/#755/#756/#767/#807, the corpus now holds a 13-essay memorial cluster — an unusually dense community record.
+- No dates/ages asserted; no conflicts to HOLD (all consistent with 2020-09-20 passing / 1940–2020); no web used; no new pages; nothing published.
