@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Ming-che Lin (林明哲)
 
@@ -59,3 +59,4 @@ last_reviewed: 2026-09-25
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 複核 2026-09-24 (DEEPEN-X slice 09230400-2): fresh ZH+EN corpus re-grep (content/works content/articles) hit set identical to prior check; all hits already linked on this page; no new memoir or club material absorbable. verified-saturated.
 - 複核 2026-09-25 (DEEPEN-X slice 09240317-1): fresh ZH+EN re-grep（林明哲 / Ming-che Lin）hit set identical（ourjourneys65/-eng、ourjourneys76/-eng、our-journeys-378、mystories587、ourjourneys315、ourjourneys249、ourjourneys59、whos1099、index）；全數已吸收，含 NANSTAAN 任期 1981 vs 1980 及 Chicago namesake 兩處 HOLD。verified-saturated.
+- 複核 2026-10-09 (DEEPEN-X slice 10081000-5): fresh ZH+EN re-grep across works/articles/sources/events/topics — hit set identical, all 10 hits already absorbed and wikilinked. One new near-miss surfaced: 「我是李明哲」(Lee Ming-che, 李明哲 — mainland democracy activist imprisoned in China) appears in the-228-inheritance book excerpt; NOT this person, excluded. verified-saturated.
