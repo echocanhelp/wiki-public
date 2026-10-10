@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # Prof. Ben Liu (劉斌碩教授)
 
@@ -76,3 +76,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10040600-11: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-11 article 53455d7e13136092 (海外台灣人社團拒一國兩制挺港聯合聲明, 2024-02-21快照, 2019-09-04發布): subject link re-checked vs 正文中英署名清單, real, no wrong/spurious links; 2019-09-03 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060800-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-5 article 53455d7e13136092（拒一國兩制！海外台灣人社團聯合聲明支持香港, 2019-09-04刊）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- Corpus re-grep 2026-10-10 (slice 10091316-23): 劉斌碩 / Ben Liu / 斌碩 across works+articles+sources+events+topics returns the identical hit set — own TAH 百科 records [[works/taiwaneseamericanhistory-org/whos-who-736-ben-liu|#736]] / [[works/taiwaneseamericanhistory-org/ota-288|#288]], works index, and the 2019 挺港 joint statement [[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|聯合聲明]] (byline 陳文成教授紀念基金會 會長劉斌碩 教授 / President, Professor Chen Wen-Chen's Memorial Foundation). All already absorbed in Role in the Community above; nothing new, no conflicts to HOLD.
