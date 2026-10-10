@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Chi Shih Huang (黃及時)
 
@@ -58,3 +58,5 @@ last_reviewed: 2026-10-09
 Re-verified 2026-10-08 (deepen-x slice 10062218-4): fresh whole-corpus grep (黃及時/Chi Shih Huang) across works/articles/sources/events/topics returns the same closed set — own TAH record #1129, video interview #52, the 管碧玲 氣爆 座談 report (group-level 僑民 mention only), plus index/hub listings. No memoir or community-authored material names him individually. Still saturated, nothing absorbable.
 
 Re-verified 2026-10-09 (deepen-x slice 10080600-32): fresh ZH+EN+partial grep across works/articles/sources/events/topics. Two new candidate hits in 2025 taiwanjustice-net articles (川普疫情 / 武漢市長 pieces) are false positives — the string matches 不及時 ("not timely") in Pompeo/武漢疫情 prose, not 黃及時. Real hit set unchanged and closed: TAH record #1129, video interview #52, 管碧玲 氣爆 座談 report (group-level 僑民 mention, already absorbed), index listings. Verified-saturated, nothing absorbable.
+
+Re-verified 2026-10-10 (deepen-x slice 10091500-25): fresh ZH+EN grep (`黃及時`/`Chi Shih Huang`/`chi-shih-huang`) across works/articles/sources/events/topics returns the identical closed set — own TAH record #1129, video interview #52, the 管碧玲 氣爆 座談 report (group-level 僑民 mention "演講後，黃及時等僑民也紛紛建言…", already absorbed), plus index/hub listings. No memoir or community-authored material names him individually. Verified-saturated, nothing absorbable.
