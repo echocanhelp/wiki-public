@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-10
 ---
 # Shih-Ting Huang (黃詩婷)
 
@@ -63,3 +63,8 @@ Synthesized from the TAH profile text above (no external sourcing). Huang Shih-t
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[organizations/houston-taiwan-institute-for-senior-citizens||Houston Taiwan Institute for Senior Citizens (休士頓台灣松年學院)]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Role in the Community
+
+- **HTISC music-appreciation program lead.** HTISC's own institutional record ([[works/taiwaneseamericanhistory-org/ourjourneys298|TAH #298, Houston Taiwan Institute for Senior Citizens 休士頓松年學院, 06/2017]]) lists the 音樂欣賞 (music appreciation) course as "介紹古今音樂名曲作家及演奏由黃詩婷簡韶芹博士銜領的音樂家" — i.e. the course is taught by a team of musicians led by Dr. Shih-Ting Huang and Dr. Shao-Chin Jian (簡韶芹), alongside the institute's other faculty. This confirms, from the community side rather than the press-kit bio, that her teaching role at the senior institute (2003–present) is a program-leadership role, not just a single course assignment.
+- Corpus-linked via her two TAH encyclopedia records: [[works/taiwaneseamericanhistory-org/523-shih-ting-huang-e9-bb-83-e8-a9-a9-e5-a9-b7-201508|TAH #523]] and [[works/taiwaneseamericanhistory-org/254-e9-bb-83-e8-a9-a9-e5-a9-b7violinist-201508|TAH #254]] (2015/08), and via HTISC record #298.
