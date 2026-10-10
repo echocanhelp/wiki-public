@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # Maggie Hsu
 
@@ -38,7 +38,7 @@ Chief of Staff and Vice President, Business Development
 ## Role in the Community
 Her own 2015 community interview ([[works/taiwaneseamerican-org/maggie-hsu-mochimag|Maggie Hsu — Co-founder of Mochi Magazine]], TaiwaneseAmerican.org, band A memoir) is the primary record: she co-founded Mochi Magazine in 2008 with fellow Taiwanese American Stephanie Wu, motivated by the lack of Asian American representation in teen media; the idea originated in 2004 and the inaugural issue featured Brenda Song as cover star. Community formation ran through Taiwanese American student organizations — her older brother was in ITASA, she herself found belonging in the Taiwanese Cultural Society (TCS) at Phillips Exeter Academy (which she calls her "second family"), then Harvard's TCS and ITASA, where organizing Winterfest for ~300 was her first lesson in large-scale project management. She spent a year at Taipei American School in Taiwan, the experience she credits with connecting her to her Taiwanese heritage. professionally she cold-emailed [[people/tony-hsieh|Tony Hsieh]] in 2013 and became his Chief of Staff at Downtown Project (listed in TAH Who's Who record [[works/taiwaneseamericanhistory-org/whos905|905. Maggie Hsu]], 2016/03).
 
-Community-organizational records: she served as a Taiwanese American mentor for SPARK Accel, the volunteer-run virtual accelerator for Taiwanese American entrepreneurs ([[works/taiwaneseamerican-org/spark-accel-a-virtual-accelerator-for-taiwanese-american-entrepreneurs|SPARK Accel]], listed alongside Kevin Lin, Patrick Lee and Holly Liu as a founding-community mentor), and appears as a signatory in the Pew Research Center-era Taiwanese American community statement ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Taiwanese American statement]]).
+Community-organizational records: she served as a Taiwanese American mentor for SPARK Accel, the volunteer-run virtual accelerator for Taiwanese American entrepreneurs ([[works/taiwaneseamerican-org/spark-accel-a-virtual-accelerator-for-taiwanese-american-entrepreneurs|SPARK Accel]], listed alongside Kevin Lin, Patrick Lee and Holly Liu as a founding-community mentor); that record also credits her as co-founder of Gold House, which the TAH Who's Who entry does not mention. She appears as a signatory in the Pew Research Center-era Taiwanese American community statement ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Taiwanese American statement]]).
 
 HOLD: conflict in Mochi founding date — her interview says the concept originated in 2004 (pre-senior prom) while the TAH profile dates the co-founder role from 2008 (inaugural issue); both kept, not merged.
 
@@ -67,3 +67,5 @@ Corpus re-grep 2026-09-25 (slice deepen-x-slice-09231100-2): hit set identical�
 Slice 09250317-4 corpus re-grep (2026-09-25): hit set identical (whos905、maggie-hsu-mochimag、SPARK Accel、Pew-era statement、Formosa Betrayed、index) — saturated, SKIP, 無新材料; HOLD on 2004-vs-2008 founding dates stands.
 
 Slice deepen-x-slice-09251500-1 corpus re-grep (2026-09-26): hit set identical (whos905, maggie-hsu-mochimag, SPARK Accel, Pew-era statement, Formosa Betrayed, index) — saturated, SKIP, 無新材料; HOLD on 2004-vs-2008 founding dates stands.
+
+Slice deepen-x-slice-10091400-32 corpus re-grep (2026-10-10): hit set identical (whos905, maggie-hsu-mochimag, SPARK Accel, Pew-era statement, Formosa Betrayed, index) — one new absorbable fact: SPARK Accel record credits her as Gold House co-founder (not in the TAH Who-Who entry), absorbed into Role in the Community; HOLD on 2004-vs-2008 founding dates stands.
