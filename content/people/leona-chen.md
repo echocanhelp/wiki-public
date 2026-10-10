@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Leona Chen (陳文羿)
 
@@ -52,6 +52,11 @@ last_reviewed: 2026-09-25
 - 2019 年起與 Ketagalan Media 共同創辦人 Chieh-Ting Yeh 合作，為台裔美國學生組織設計同儕教學課程，並共同發起 OFTaiwan Award 奨助學生成創活動（[[works/taiwaneseamerican-org/introducing-the-oftaiwan-award-new-funding-for-taiwanese-american-student-progra|Introducing the OFTaiwan Award]]）。
 - 本人訪談紀錄：[[works/taiwaneseamerican-org/interview-leona-chen|For the (Re)Cord: An Interview with Leona Chen, 2018-01-28]]；TAH 名人錄條目：[[works/taiwaneseamericanhistory-org/whos-leona-chen|2075. Leona Chen 陳文羿 / 03/2018]]。
 - 血統：自述為台灣人頭族（Ketagalan）部落頭目的曾孫女（great grand-daughter），2015 年 TA.org 專欄自我介紹中記載（[[works/taiwaneseamerican-org/in-honor-of-taiwanese-ancestry-and-identity|In Honor of Taiwanese Ancestry and Identity, 2015-05-27]]）。
+- 出版詩集 BOOK OF CORD：以碎片式英文抒情詩穿插台語（Hokkien），書寫國家正統敘事、移民與家族故事形塑／再形塑的台灣人認同；228 紀念閱讀資源專文收錄其書評，小說家 Shawna Yang Ryan 為之作序（[[works/taiwaneseamerican-org/remembering-the-228-massacre-readings-resources-on-taiwans-white-terror-era|Remembering the 228 Massacre: Readings & Resources]]）。
+- 2021-09 Pew 報告事件另見 TA.org 自身報導：她以 Write in Taiwanese Census Campaign 創意總監身分列名，與 Christina Hu 及 TACL 並列（[[works/taiwaneseamerican-org/pew-research-reissues-report-on-asian-americans-after-misrepresenting-taiwanese-|Pew Research reissues report...]]）。
+- 2024-08 為 Taiwanese American Foundation Parents Weekend 彙編台裔教養資源指南（[[works/taiwaneseamerican-org/community-resources-for-taiwanese-american-parents-families|Community Resources for Taiwanese American Parents & Families, 2024-08]]）。
+- 以編輯／主持身份多次出現於 TA.org 活動紀錄：Emeryville「Good to Eat」台裔聚會座談（與 Elizabeth Wang 等同台，[[works/taiwaneseamerican-org/gathering-taiwanese-american-community-at-emeryvilles-good-to-eat|Gathering Taiwanese American community at Emeryville's "Good to Eat"]]）；「A Tale of Two Islands」× Fire EX 論壇主持人，致詞「身為第二代台裔美國人，我有歸屬感，因為長輩為我建設了這個社區」（[[works/taiwaneseamerican-org/a-tale-of-two-islands-fire-ex-ignite-community|'A Tale of Two Islands' & Fire EX Ignite Community]]）；與創辦人 Ho Chie Tsai 同入 Clubhouse 節目談「臺kanda」（@leonawchen，[[works/taiwaneseamerican-org/on-clubhouse-e8-87-bakanda-taiwans-wakanda-fantasies|On Clubhouse, '臺kanda']]）。
+- 擔任 TA.org 編輯：為 James Y. Shih 的回憶散文《Memories of my Yaba Great Aunt》潤稿（[[works/taiwaneseamerican-org/memories-of-my-yaba-great-aunt|Memories of my Yaba Great Aunt]]）；編註陳文成事件相關文獻 Dr. Chung-Chih Li《Green Island Secrets》（[[works/taiwaneseamerican-org/green-island-secrets|Green Island Secrets]]）；並與 Jeff Yang、Michelle Young 對談（[[works/taiwaneseamerican-org/michelle-young-the-art-spy|Michelle Young ("The Art Spy") in conversation]]）。
 
 - Corpus re-grep 2026-09-24 (slice 09230500-12): fresh ZH+EN grep — hit set matches the records already linked above, plus in-honor-of-taiwanese-ancestry-and-identity (Ketagalan descent, 2015), now absorbed; no other new material.
 
