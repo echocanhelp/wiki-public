@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # James Yang (楊榮勝)
 
@@ -32,6 +32,7 @@ last_reviewed: 2026-09-15
 - **2026-09-15 slice-13 recheck:** corpus grep 楊榮勝/杨荣胜/James Yang again returns only the 楊明仁 (violinist) records disambiguated above plus works/index — no memoir material for this person; SKIP, nothing absorbable.
 - **2026-09-15 slice-10 recheck:** corpus grep 楊榮勝/杨荣胜 again returns only the already-cited taiwanjustice.net 會館26周年年會報導（38 董事名單）— no memoir material for this person; SKIP, nothing absorbable.
 - **2026-09-15 slice 09150400-5 recheck:** corpus grep 楊榮勝/杨荣胜 (works+articles) again returns solely the already-cited taiwanjustice.net 會館報導; no other person mentions. SKIP-with-reason: 無可吸收新事實，無衝突須 HOLD。
+- **2026-10-10 slice 10081500-20 recheck:** corpus grep 楊榮勝/James Yang across all 5 corpus dirs returns only the 楊明仁 (violinist) TAH records already disambiguated above, the works index, and the already-cited 會館26周年報導. One apparent new hit (2025-06-18 taiwanjustice 澳洲反滲透法 article) is a false positive — 「周澤榮勝訴」 substring, not this person. SKIP, nothing absorbable; verified-saturated.
 
 ## Sources
 - [Taiwan Center board](https://www.taiwancenter.org/board)
