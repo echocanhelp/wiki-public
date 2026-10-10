@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-10
 ---
 # Yvonne Yifang Wang (王亦凡博士)
 
@@ -95,3 +95,5 @@ Second vault-only pass: all cited-source facts remain fully absorbed (incl. the 
 <!-- TJJ-A10060400-22: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-22 articles (c83c2315ab0b3e26 王廷宜（泰和）先生追思會, 2022-06-24 / 426d2811d4065134 楊子清老師音樂短講第13集, 2020-12-13 / 17835ad9519f9cfe 台灣會館第十屆董事會選出新任董事長林榮松, 2016-06-12 / e7e2a1e1a71524ce 以立合唱團世界首演「希望之光」, 2022-12-02): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-24: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-24 article 4119cffe264101c6（音樂短講第13集 2025 存檔重刊）: 王亦凡博士特別講座「泛音」re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10090600-23: verified 2026-10-10 — full-corpus re-grep (王亦凡/Yvonne Yifang/Yifang Wang/亦凡 across works/articles/sources/events/topics): hits = works/index.md + sources/taiwaneseamericanhistory-org.md (bibliographic index rows for TAH #18/#487, already linked in Vault Records) + 426d2811/4119cffe 音樂短講第13集 (already linked in Role in the Community); 亦凡 hit in d0736e86 趙薇封殺 article = 吳亦凡 (Chinese pop star), NOT subject — false positive. No new material — saturated. -->
