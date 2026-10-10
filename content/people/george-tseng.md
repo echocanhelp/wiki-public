@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-10
 ---
 # Dr. George Tseng (曾水福博士)
 
@@ -53,6 +53,8 @@ last_reviewed: 2026-09-27
 - Corpus re-grep 2026-09-26 (slice 09260317-26): SKIP — fresh ZH+EN grep 曾水福/George Tseng hit set again unchanged (#96, #76, #70, mystories683, #380, footsteps-29, + whoswho1478-2, #128, works index), all already linked above; no new absorbable material. HOLD on the S. George vs George S. name-order conflict stands.
 
 - Corpus re-grep 2026-09-27 (slice 09260700-7): SKIP — fresh ZH+EN grep 曾水福/George Tseng hit set unchanged (#96, #76, #70, mystories683, #380, footsteps-29, whoswho1478-2, #128), all already linked above; no new absorbable material. HOLD on the S. George vs George S. name-order conflict stands.
+
+- Corpus re-grep 2026-10-10 (slice 10081200-18): SKIP — full-corpus grep (all 5 dirs, ZH+EN+both name-order variants) returned the identical 8-work hit set (#96, #76, #70, mystories683, #380, footsteps-29, whoswho1478-2, #128) plus the sources/works index files, all already linked above; verified-saturated. HOLD on the S. George vs George S. name-order conflict stands.
 
 ## Sources
 - [TAH #683 encyclopedia: 683. 永遠的專注-曾水福博士 / 刹塵子 /05/2019](https://taiwaneseamericanhistory.org/mystories683/)
