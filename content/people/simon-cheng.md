@@ -145,3 +145,5 @@ last_reviewed: 2026-10-09
 - 2022-01-25 — 第18回台灣文化論壇「lai kap 阮劇團開講：做伙來解決台語文危機」與汪兆謙（阮劇團）對談，以與談人身分出席（[[articles/taiwanjustice-net/2022/20220207200117_2022_01_25_第18回台灣文化論壇_lai-kap阮劇團開講_做伙來解決台_dbfd9bb39e824217|TJJ, 2022-02-07 快照]]）。
 
 <!-- TJJ-A10090501-8: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-8 article 24ebe5f065076949 (2016海外台語研習會公告, 2016-05-10) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090501-29: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-29 article 52a71221d3029866 (台文通訊30週年慶祝會ONLINE公告, 2021-06-29刊/2021-09-20快照) read fresh this attempt: 鄭良光以【台文通訊】01-50期總編輯名列特別來賓名單 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
