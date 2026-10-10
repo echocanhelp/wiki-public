@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Dr. Chung Chiu (邱強博士)
 
@@ -72,3 +72,4 @@ _No filled family fields on the TAH profile._
 - （複掃 2026-09-15，slice 09150500-15：SKIP）結果不變——命中僅上述三筆已連結出處頁及 works/index 目錄列，無可吸收之新增社群事實。
 - （複掃 2026-09-15，slice 09150600-6：SKIP）結果不變——`邱強|Chung Chiu|Chong Chiu` 命中僅已連結之本人出處頁 #1910、#100、#585 及 works/index 目錄列，無新增社群事實。
 - （覆核 2026-09-15，slice 09150700-1）：全語料重掃命中集不變——僅本人自有出處頁與 works 索引條目行，無回憶錄／社群第一手材料可吸收。維持 **SKIP-with-reason**。
+- （複掃 2026-10-10，slice 10091414-9：SKIP）`邱強|Chung Chiu|Chong Chiu|邱强` 全五語料目錄重掃，命中集不變——僅已連結之本人出處頁 #1910、#100、#585、works/index 目錄列及 sources 彙總頁；別名/主題補掃（Performance Improvement International、Error-Free、Desert Storm、危機化解）亦無他人書寫材料。維持 **SKIP-with-reason**。
