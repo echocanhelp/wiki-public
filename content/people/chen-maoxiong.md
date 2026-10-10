@@ -11854,3 +11854,9 @@ Notable quotes and mentions of **陳茂雄** in Taiwan Justice articles:
 <!-- TJJ-A10060400-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-5 articles (taiwanjustice-net/index 存檔索引頁): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-5: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-5 article taiwanjustice-net/index (存檔索引頁): subject link(s) re-checked vs 正文 this attempt (列名於 Key Entities／Column Authors), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20201230091024_wp-content_uploads_2011_12_chen-mao-xiung1陳茂雄](../images/people--chen-maoxiong.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20201230091024）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

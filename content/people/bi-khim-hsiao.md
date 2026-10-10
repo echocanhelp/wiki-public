@@ -452,3 +452,9 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090801-31: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-31 article 8216e7ca508266e9 (蕭美琴父親蕭清芬牧師在美過世標籤頁, 2022-05-21快照: 父女關係標題提及): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090901-11: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-11 article 8c20569762592915 (南加州教會槍殺案駐處查證中央社報導, 2022-05-16刊/2022-07-05快照) read fresh this attempt: 「他於第一時間代表政府、外交部長吳釗燮、駐美代表蕭美琴向家屬表達哀悼」記述逐字確認見於正文, subject link 為真, 無錯鏈、無虛鏈; 2022-05-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20200618105032_wp-content_uploads_2020_06_總統任命蕭美琴為駐美代表-696x4](../images/people--bi-khim-hsiao.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20200618105032）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

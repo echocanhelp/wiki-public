@@ -11774,3 +11774,9 @@ Notable quotes and mentions of **陳昭南** in Taiwan Justice articles:
 <!-- TJJ-A10070700-5: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-5 article taiwanjustice-net/index (存檔索引頁): subject link(s) re-checked vs 正文 this attempt (列名於 Key Entities／Column Authors), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090701-1: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-1 article e3440fec3eed8107: author link 陳昭南 (本文作者、台灣最後一個政治犯自述) re-checked vs 正文 this attempt, real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20221208073503_wp-content_uploads_2022_10_到底誰要_抗中保台_反正說謊又不必繳](../images/people--chen-zhaonan.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20221208073503）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
