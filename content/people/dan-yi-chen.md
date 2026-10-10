@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Dan-Yi Chen (陳丹怡)
 
@@ -50,6 +50,7 @@ _No filled family fields on the TAH profile._
 - Corpus sweep (slice 09141213-4): full grep (陳丹怡／Dan-Yi Chen) hits only the three already-linked records — [[works/taiwaneseamericanhistory-org/69-dan-yi-chen-e9-99-b3-e4-b8-b9-e6-80-a1-piano|TAH #69]], [[works/taiwaneseamericanhistory-org/130-dan-yi-chen-e9-99-b3-e4-b8-b9-e6-80-a1|TAH #130]] (bibliographic) and [[works/taiwaneseamericanhistory-org/mystories117|TAH #117 琴韻真善美—訪鋼琴家陳丹怡]] (李淑櫻訪談報導; vault copy is a bibliographic stub — full text stays at the source, nothing further absorbable) — plus works/index.md catalogue rows. No other corpus mention.
 - Corpus recheck (slice 09150316-2, 2026-09-15): grep re-run (陳丹怡／Dan-Yi Chen／Dan Yi Chen) — hits unchanged: the same three already-linked records (#69, #130, mystories117) plus index rows; no memoir or press narrative mentions. SKIP-with-reason: nothing new absorbable.
 - Corpus recheck (slice 09142319-6, 2026-09-15): grep re-run (陳丹怡／Dan-Yi Chen／Dan Yi Chen) — hits unchanged: the same three already-linked records plus index rows. SKIP-with-reason: no new absorbable corpus facts.
+- Corpus recheck (slice 10091414-7, 2026-10-10): grep re-run (陳丹怡／Dan-Yi Chen／Dan Yi Chen／丹怡) across works+articles+sources+events+topics — hits unchanged: the same three already-linked records (#69, #130, mystories117) plus index rows and the cross-link in [[people/nami-yang]] (李淑櫻 is mystories117's interviewer — already captured, no new facts). SKIP-with-reason: corpus saturated; no absorbable community material beyond the already-linked records.
 
 ## Sources
 - [TAH #130 encyclopedia: 130. Dan-Yi Chen 陳丹怡](https://taiwaneseamericanhistory.org/130-dan-yi-chen-%e9%99%b3%e4%b8%b9%e6%80%a1/)
