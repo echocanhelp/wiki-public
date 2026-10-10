@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Wen S. Charlie Chern (陳文雄博士)
 
@@ -86,3 +86,15 @@ Absorbed from this page's own cited TAH records; no new external facts:
 - Wrote the T.A. Archives (台美史料中心) history piece recorded as [[works/taiwaneseamericanhistory-org/292-wen-s-charlie-chern-e9-99-b3-e6-96-87-e9-9b-84201502|TAH #292: Wen S. (Charlie) Chern 陳文雄 (2015/02)]]; the vault holds the companion community-archive context at [[works/taiwaneseamericanhistory-org/introduction-of-the-ta-archives|Introduction of the T.A. Archives]].
 - Community record from his own cited encyclopedia entries: the first Taiwanese American to board Air Force One with President George W. Bush (1991-12-30) — see TAH #267 above and [[works/taiwaneseamericanhistory-org/892-an-immigrants-experience-on-air-force-one-the-story-of-winston-chen-nicole-a|TAH #892]].
 - HOLD: conflicting source naming — TAH #35 / #896 / #267 title him "Dr. Winston H. Chen" while TAH #292 titles him "Wen S. (Charlie) Chern". Both recorded as-is from the sources; not auto-merged.
+
+## Role in the Community (corpus pass, 2026-10-10)
+
+Story-corpus essays under the byline 陳文雄, consistent with his T.A. Archives contribution (#292, 2015/02):
+
+- [[works/taiwaneseamericanhistory-org/197-e8-90-bd-e8-91-89-e6-ad-b8-e6-a0-b9-e9-99-b3-e6-96-87-e9-9b-84201502|TAH #197: 落葉歸根 / 陳文雄 (2015/02)]] — same 2015/02 slot as his #292 piece.
+- [[works/taiwaneseamericanhistory-org/ourjourneys216|TAH #216: 台美人對故鄉的殷殷期望 (04/2016)]] — community-history essay on the Bay Area Taiwanese association movement.
+- [[works/taiwaneseamericanhistory-org/mystories427|TAH #427: 七年抗爭及控告台電的紀實 (04/2016)]] — seven-year struggle and lawsuit against Taipower, as recorded.
+- [[works/taiwaneseamericanhistory-org/publications1035|TAH #1035: 矽谷成功經濟學 (03/2016)]] — co-authored with 童振源 and 方頌仁.
+
+- HOLD: name collision with the Bay Area entrepreneur — [[works/taiwaneseamericanhistory-org/ourjourneys216|#216]] names a Silicon Valley "陳文雄 (Winston Chen)" who founded Compression Lab (1976) and joined Solectron (1978), and [[works/taiwaneseamericanhistory-org/ourjourneys38|#38]] / [[works/taiwaneseamericanhistory-org/ourjourneys37|#37]] list a 陳文雄 among 協志會 and 蓬萊歌劇團 figures. The biography on this page (Univ. of Florida 1969 → Florida Dept. of Citrus 1973–74 → Oak Ridge 1974–81) does not place him in the Bay Area in those years, so the entrepreneur and the 協志會/歌劇團 references are NOT merged into this page without verification.
+- HOLD: [[works/taiwaneseamericanhistory-org/ourjourneys299|#299]] records a "陳文雄博士" as 長輩會 (Senior Citizens' Association) 永遠名譽會長 since 1988 — plausible for the same doctor but unconfirmed; recorded as-is.
