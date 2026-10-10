@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # William Cho (卓甫良)
 
@@ -39,6 +39,7 @@ last_reviewed: 2026-09-25
 - The corpus history of the Taiwanese American Foundation ([[works/taiwaneseamericanhistory-org/ourjourneys33-2|33. 台美協進會的歷史]]; English version [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|33. History of TAF]]) names Cho a founding member of the Midwest Formosan Christian Foundation (photo of MFCF founders incl. Carol Cho and Bill Cho, circa 1990) and one of the six first-board directors who passed the by-law renaming MFCF to TAF in Chicago on October 18, 1980 — alongside 莊明哲, 張信義, 陳植哲, 洪宏謨, and 楊忠正 — after which TAF launched its first youth programs.
 - In retirement he gave back as a teacher in the community's lifelong-learning programs: the Irvine 台灣長老教會 (ITPC) 長青教室 curriculum lists Cho as the lecturer for 「人生下半場」 ([[works/taiwaneseamericanhistory-org/ourjourneys107|107. 長青教室 sponsored by Irvine台灣長老教會(ITPC) / 2015/02]]).
 - He also wrote from inside the movement: his own memoir of the 1994 TAF youth summer camp, 「意外的收獲」, is preserved in the corpus ([[works/taiwaneseamericanhistory-org/ourjourneys262|262. 意外的收獲 記1994年TAF青少年夏令營活動 / 卓甫良 /10/2016]]), complementing the 1981 camp memoir written by a camper's parent.
+- Name-collision note: the roundtable in the 2024 TAF–Hong Konger community event report [[works/taiwaneseamerican-org/a-tale-of-two-islands-fire-ex-ignite-community|A Tale of Two Islands: Fire-ex Ignite Community]] names a "Pastor William Chou" of the Formosan United Methodist Church — a different person (clergy, not the engineer/nuclear-safety specialist Cho 卓甫良). Not merged.
 
 ## Family
 
@@ -88,3 +89,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10060600-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-2 articles b4206bcf0ec508d6／f06677a469620539／e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》三存檔副本, 同文): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070800-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-2 articles b4206bcf0ec508d6／f06677a469620539／e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》三存檔副本, 同文): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10080958-3: 2026-10-09 — fresh ZH+EN grep (卓甫良|William Cho|Bill Cho) across works/articles/sources/events/topics: 23 hits, all previously-absorbed records re-confirmed; 1 new finding absorbed = name collision with Pastor William Chou (FUMC) in the TAF–HK community event report, flagged not merged. Other new hits (TJJ tag/category/root index pages 20211023203908／20231208132712／20240302035910／20240302023953／20240425152858／20230530140153) are listing pages whose only mention is the article title 卓甫良與TAF的故事 — no new facts. -->
