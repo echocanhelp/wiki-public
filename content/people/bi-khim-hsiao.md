@@ -450,3 +450,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090801-27: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-27 article 20240421184918_root_9a66943e68f1e0ef（台美人台加人隨機頁 p353, 2024-04-21快照）read fresh this attempt: 「美媒專訪 蕭美琴：區域穩定美台有共同責任」條目逐字確認見於正文, subject link 為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090801-31: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-31 article 8216e7ca508266e9 (蕭美琴父親蕭清芬牧師在美過世標籤頁, 2022-05-21快照: 父女關係標題提及): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090901-11: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-11 article 8c20569762592915 (南加州教會槍殺案駐處查證中央社報導, 2022-05-16刊/2022-07-05快照) read fresh this attempt: 「他於第一時間代表政府、外交部長吳釗燮、駐美代表蕭美琴向家屬表達哀悼」記述逐字確認見於正文, subject link 為真, 無錯鏈、無虛鏈; 2022-05-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
