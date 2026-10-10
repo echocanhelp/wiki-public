@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Gloria H. Shaw (李雪芬)
 
@@ -53,6 +53,7 @@ _Sourced from the TAH Who's Who profile above; no external material added._
   - [[works/taiwaneseamericanhistory-org/publicationautobiography983|TAH #983 經歷生命的錘鍊]]（2016-04-04 發布，自傳 Autobiography，band B）
 - Both vault records are bibliographic (full text stays in the TAH vault); the essay titles record her own retrospective voice on her life in Taiwanese America.
 - 2021-05-01 — 以個人名義 **Gloria H. Shaw**（語料署名名單無社團附註）連署 taiwaneseamerican.org 針對皮尤研究中心將台灣人數據併入「中國人」分類的公開聲明《We made it count. Now tell our stories.》（「MY name My Right」行動），見 [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew 聲明（2021-05-01）]]（band A 第一手連署名單）。
+- 達拉斯教會社群：TAH 語料另有 [[works/taiwaneseamericanhistory-org/formosan-christian-church-of-dallas|達拉斯台灣基督教會 Formosan Christian Church of Dallas]] 條目（2016-05-10 發布，band B 文獻記錄），與 Who's Who 記載的 1978 年共同創辦人身分相互印證；該條目尚無具名主體欄位，她的創辦人連結以本頁 Who's Who 來源為準。
 
 ## Family
 
