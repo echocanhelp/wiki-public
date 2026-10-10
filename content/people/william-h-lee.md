@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # William H. Lee (李錫洋)
 
@@ -48,6 +48,7 @@ Accomplishment
 - **Re-check (slice 09150600-12, 2026-09-15):** corpus re-grep returned the identical hit set (Our Journeys #311 +EN, #391, TAH #2174, works index) — no new community material. SKIP (no new facts).
 - **Growth and founding board (absorbed from [[works/taiwaneseamericanhistory-org/our-journeys-391|Our Journeys #391]]).** Membership grew from the 20 families of 1971 to nearly 80 households by 1985, with activities expanding accordingly. At the Cultural Society's first general meeting (August 2004) the founding board was elected: 會長 李錫洋, 副會長 陳仲欽, 秘書 楊偉實, 財務 陳麗玲, plus directors 陳仁煌、柯錦霞、廖文榜、黃麗娜、何玲姍; the incorporation was drafted by a professional lawyer referred via the New York Nonprofit Council, on the recommendation of 陳仲欽, then a director of that council. The 1966-vs-1967 settlement-year HOLD above stands (1967 in #311, 1966 in #391).
 - Re-check (slice 09150700-8, 2026-09-15): corpus re-grep hit set unchanged; the two facts above were the only absorbable residue from #391.
+- **First TACS president, term recorded (absorbed from the TACS 20th-anniversary retrospective, [[works/taiwaneseamericanhistory-org/our-journeys-391|Our Journeys #391]], via [[organizations/taiwanese-american-cultural-society-of-the-capital-district|TACS]]).** The retrospective's president list records Lee's term as 會長 as **2004–05** (succeeded by 陳仲欽 in 2006), consistent with his election at the August 2004 first general meeting. (HOLD: middle-initial discrepancy — the person page and TAH directory render him "William H. Lee" while the TACS org page glosses him "William C. Lee" in the same 2004 officer list; not auto-merged.)
 
 ## Sources
 - [TAH #2174 encyclopedia: 2174. William H. Lee 李錫洋](https://taiwaneseamericanhistory.org/whos-who-2174-william-h-lee/)
