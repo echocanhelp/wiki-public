@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # John Chen (陳榮儒)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-09-25
 - **1991 FAPA 年會演講.** 以 FAPA President 身分於 1991 年 FAPA 大會發表演說（見 [[works/taiwaneseamericanhistory-org/ourjourneys123-eng|123. Our Journeys 台美人歷史紀錄片文字紀要（英文版）]]）。
 - **草根外交的亲历写作者.** 撰文回顧 1982 年 FAPA 成立後的國會遊說與台灣民主化鬥爭：《一個草根外交工作者的回顧》（2016/02，A 級親述史料，見 [[works/taiwaneseamericanhistory-org/ourjourneys197|197. 一個草根外交工作者的回顧]]）；早期政論《台美人的民間外交》（2001/06，見 [[works/taiwaneseamericanhistory-org/166-e8-87-aa-e7-94-b1-e7-9a-84-e5-91-bc-e5-96-9a-e6-9d-8e-e5-a4-a9-e7-a6-8f-e6-9|167. 台美人的民間外交]]）；另撰《FAPA與國會外交》（2004/05，政治類，見 [[works/taiwaneseamericanhistory-org/901-fapa-e8-88-87-e5-9c-8b-e6-9c-83-e5-a4-96-e4-ba-a4-e9-99-b3-e6-a6-ae-e5-84-92|901. FAPA與國會外交]]）——三篇文章構成其民間外交思想 2001→2004→2016 的連續記錄。
 - **1991 明州同鄉活動.** 以 FAPA 總會會長身分在明州台美人活動上演講（與獨盟郭倍宏同場），載於曾啟明《明州台美人百年大事》（2015/03，見 [[works/taiwaneseamericanhistory-org/ourjourneys123|123. 明州台美人百年大事（中文版）]]）。
+- **2021 Pew 連署.** 以「John Chen, Laguna Woods Taiwanese Club」名義連署台美人團體對 Pew Research 隱去台灣人認同報告的聲明（2021/05，見 [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]]）。HOLD: 連署名單未附漢名，是否即陳榮儒（Laguna Woods 台美俱樂部會員）未經第二來源確認。
 - **Corpus records:** his TAH Who's Who encyclopedia entry [[works/taiwaneseamericanhistory-org/687-e9-99-b3-e6-a6-ae-e5-84-92-201511|687. John Chen 陳榮儒/2015/11]]；另見 [[works/taiwaneseamericanhistory-org/ourjourneys123-eng|123. Our Journeys（英文版）]] 中的 FAPA 會長序列記載。Note: [[works/taiwaneseamericanhistory-org/910-carnegie-hero-fund-commission-john-cheng-and-billy-chang-09-2024|910. Carnegie Hero Fund (John Cheng)]] is a different person (Cheng, not Chen) — not linked.
 
 ## Sources
