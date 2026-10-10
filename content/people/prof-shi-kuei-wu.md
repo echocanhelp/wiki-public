@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Prof. Shi-Kuei Wu (吳錫圭教授)
 
@@ -23,7 +23,7 @@ last_reviewed: 2026-09-15
 - Educated in biology at National Taiwan Normal University (B.S.) and at the University of Michigan (M.D., Ph.D.).
 - Curator of the Zoological Hall and Professor at the University of Colorado Museum, University of Colorado Boulder (1973–1999); Professor Emeritus from 1973 onward.
 - Served on the Academic Advisory Committee of the Institute of Zoology, Academia Sinica (1991–2000).
-- Community leadership: President of the North America Taiwanese Professors' Association (NATPA, 北美洲台灣人教授協會); Founding President of the Colorado Taiwanese community association; Principal of the Taiwanese School run by that association in Denver; Coordinator of the 3rd Plains Fall Conference in Estes Park, Colorado; President of the FAPA Colorado chapter.
+- Community leadership: President of the North America Taiwanese Professors' Association (NATPA, 北美洲台灣人教授協會); Founding President of the Colorado Taiwanese community association; Principal of the Taiwanese School run by that association in Denver; Coordinator of the 3rd Plains Fall Conference in Estes Park, Colorado — per the 1987 camp roster in [[works/taiwaneseamericanhistory-org/ourjourneys296|童海南's Plains Region Fall Camp history]] the 3rd (1987) camp convened by Wu was held Aug. 15–17 in Denver, CO under the theme 「民主進步愛台灣 / Democracy in Taiwan」, hosted by TAA/Colorado (HOLD: Estes Park vs Denver venue conflict with the TAH bio); President of the FAPA Colorado chapter.
 
 ## Network
 - **Professionals' association:** led the [[organizations/north-america-taiwanese-professors-sc||北美洲台灣人教授協會 NATPA]] movement; the association's publications are held in the TAH archive ([[works/taiwaneseamericanhistory-org/newsletters-of-north-america-taiwanese-professors-association||NATPA newsletters]]).
@@ -65,3 +65,10 @@ last_reviewed: 2026-09-15
 - Corpus re-check (slice 09142319-11, 2026-09-15): grep 再核，命中僅本人 TAH #10/#13/#1561 書目級工作頁（均已連結於 Vault records 區）；no memoir or newsletter narrative adds facts. SKIP-with-reason: nothing absorbable; last_reviewed refreshed.
 - Corpus re-check (slice 09150316-5, 2026-09-15): grep 四核，命中僅 works/index.md 書目相鄰行（本人 #10/#13 條目及相鄰噪声），無敘述性材料。SKIP-with-reason 維持。
 - Corpus re-check (slice 09150400-3, 2026-09-15): grep 五核，命中僅本人 TAH #10/#13/#1561 書目級工作頁（均已連結於 Vault records 區）；無敘述性語料新增事實。SKIP-with-reason 維持；last_reviewed 現行。
+
+## Corpus re-check (slice 10091414-8, 2026-10-10) — DEEPENED
+
+- First pass to hit narrative material: 童海南《平原區台灣人秋令會的介紹》([[works/taiwaneseamericanhistory-org/ourjourneys296|ourjourneys296]], band A, 2017-06-20) carries the camp roster. Wu is listed as convener of the **1987 (3rd) Plains Region Fall Camp** — Aug. 15–17, Denver, CO, theme 「民主進步愛台灣 / Democracy in Taiwan」, hosted by TAA/Colorado. This corroborates the TAH Who's Who "Coordinator of the 3rd Plains Fall Conference" entry and ties it to his Colorado-community leadership.
+- The same article dates the **1st camp to 1985** at Rock Spring (4-H Club, Manhattan, KS), convened by 林啓東, theme 「大家來，來做堆」 — useful dating context for the 3rd conference = 1987.
+- HOLD: venue conflict — TAH bio says the 3rd Plains Fall Conference was at Estes Park, Colorado; 童海南's roster says Aug. 15–17, **Denver, CO** (Rock Spring is the 1st-camp venue from 1985). Both retained; not auto-merged.
+- Also confirmed: 平原區秋令會 roster lists "Wu, S.K. Wu 錫圭" — consistent with the existing page. No other new facts; index.md/sources hits are bibliographic adjacency.
