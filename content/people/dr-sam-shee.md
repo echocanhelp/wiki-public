@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Dr. Sam Shee (施哲三醫師)
 
@@ -64,3 +64,13 @@ last_reviewed: 2026-09-14
 
 ## Vault re-check 2026-09-14 (deepen-x slice 09140845-1, vault-only)
 - Re-verified all wikilink targets exist (Musée Highland, Karen Shee, TASA Northwestern, TAH #79 / #1105 / artist9 work pages); no new vault-internal facts absorbable — his cited work pages remain bibliographic-only records and no further vault page names him beyond those already linked. Wife 陳維琳 still has no vault page; left as plain text. No web used, nothing published.
+
+## Published works in the vault (deepen-x slice 10091316-17, 2026-10-10)
+- Beyond his encyclopedia entries, the vault holds six of his own authored/published works, which document the artist career the snapshot's "artist" role refers to:
+  - [[works/taiwaneseamericanhistory-org/150-e6-96-bd-e5-93-b2-e4-b8-89-e6-88-90-e5-8a-9f-e7-9a-84-e4-ba-ba-e7-94-9f-e8-a||TAH #150: 施哲三《成功的人生變奏曲》(傳記, 1998.11)]] — his own autobiography.
+  - [[works/taiwaneseamericanhistory-org/158-e6-96-bd-e5-93-b2-e4-b8-89-e6-b2-b9-e7-95-ab-e9-81-b8-e9-9b-86-e4-b8-80-e6-9||TAH #158: 施哲三油畫選集一 (1996.07)]]
+  - [[works/taiwaneseamericanhistory-org/159-e6-96-bd-e5-93-b2-e4-b8-89-e6-b2-b9-e7-95-ab-e9-81-b8-e9-9b-86-e4-ba-8c-e6-9||TAH #159: 施哲三油畫選集二 (1998.02)]]
+  - [[works/taiwaneseamericanhistory-org/160-e6-96-bd-e5-93-b2-e4-b8-89-e6-b2-b9-e7-95-ab-e5-b1-95-e9-9b-86-e4-b8-89-e6-9||TAH #160: 施哲三油畫展集三 (2002.09)]]
+  - [[works/taiwaneseamericanhistory-org/publications-1353||TAH #1353: 施哲三 油畫、雕塑、瓷品及織錦 — 施哲三海嵐美術館 exhibition publication (05/2021)]]
+- Character sketch from 黃哲陽's physician survey [[works/taiwaneseamericanhistory-org/ourjourneys291||TAH #291: 台美人醫師 overview]]: 施哲三 is described as a pathology physician who was self-taught in painting (無師自通), painting by inspiration and eventually "棄醫從畫" — turning from medicine to become a successful painter. This corroborates the medicine-to-arts arc of the timeline above; the "棄醫從畫" phrasing is the survey author's characterization, and his vault record still lists continuing pathology appointments (Meriter, 1976–), so no date is inferred for the career shift.
+- His published-art record now spans 1996–2021 in-vault (three oil-painting collections, the autobiography, and the museum exhibition publication), consistent with the Musée Highland founding dates above. No conflicts found to HOLD. No web used, nothing published.
