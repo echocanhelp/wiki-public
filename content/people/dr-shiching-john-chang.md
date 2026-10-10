@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-10-10
 ---
 # Dr. Shiching John Chang (張錫清博士)
 
@@ -72,3 +72,16 @@ His Kansas City community roles are corroborated by existing vault records:
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/26-dr-shiching-john-chang|TAH #26 encyclopedia]] · [[works/taiwaneseamericanhistory-org/whos-who-75-shiching-john-chang|TAH #75 Who's Who]]
+
+## Corpus re-grep (2026-10-10, deepen-x slice 10090600-28)
+Full-corpus scan (張錫清 / Shiching / John Chang across works/articles/sources/events/topics) — two previously unlinked records absorbed:
+
+- **His own archival collection at TAH.** [[works/taiwaneseamericanhistory-org/collection-of-dr-shiching-john-chang|TAH #1: Collection of Dr. Shiching (John) Chang 張錫清博士的收藏 (2016-09-22)]] — he is a *donor/archivist*, not only a subject: TAH holds a named collection of his materials, the first numbered item in the story corpus.
+- **Chapter-authored TAKC brief.** [[works/taiwaneseamericanhistory-org/project-3-15-eng|15. 堪薩斯台灣同鄉會簡介 / Brief History of TAKC / 2017-10]] — he authored the institutional history of his own chapter under the romanization **Hsi-chi Chang**, the key primary source for TAKC's origins (also linked on [[organizations/taiwanese-association-of-greater-kansas-city-takc|TAKC]]). Note: this byline variant is corroborated as the same person by the chapter context.
+
+Disambiguation (same-name records NOT this person, kept to prevent conflation):
+- [[works/taiwaneseamericanhistory-org/honorary-member-by-audubon-artists-society-john-chang-2017|John Chang 張哲雄 (Audubon Artists Society, 2017)]] — different John Chang.
+- [[works/taiwaneseamericanhistory-org/943-john-chang-e5-bc-b5-e6-99-af-e7-a5-a5-201604|943. John Chang 張景祥 (2016-04)]] — different John Chang (links to [[people/john-chang]]).
+- Articles hits on 張錫聰 / 張錫銘 — unrelated Taiwan-island namesakes.
+
+Other hits (ourjourneys137, our-journeys-351, 55-taiwan-independence-cup, mystories327, 26/75 encyclopedia) already linked above; no new biography beyond existing records.
