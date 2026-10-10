@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-10
 ---
 # Rose Chen (陳慧如)
 
@@ -47,7 +47,8 @@ Corpus-absorbed (deepen-x slice 28, 2026-09-14) from 鍾澄文's column [[articl
 
 - During the COVID-19 quarantine she conducted [[organizations/taiwan-center-choir||台灣會館合唱團 (Taiwan Center Choir)]] — a group member of [[organizations/taiwan-center||大洛杉磯台灣會館]] — in producing its Virtual Choir video 「熱情的沙漠 2020 Quarantine Edition」, with members singing from home; the column praises the result as 相當好聽 and notes the choir members are familiar 同鄉. The same event is also described first-hand in 信雅's column [[articles/taiwanjustice-net/2020/20201205152750_2020_10_31_異想天開的游泳池音樂會-_信雅_183fd40dcc55cada|異想天開的游泳池音樂會 (twjustice 2020-12)]] — 「合唱團指揮 Rose Chen 老師所作的」.
 - Pianist for 以立合唱團世界首演〈希望之光〉(world premiere of "Hope Light", composed/conducted by 黃令先 Lynn Huang, edited by 廖健榮 Louis Liao): 钢琴 accompaniment credited as 「鋼琴：陳慧如 Rose Chen」 in the event records [[articles/taiwanjustice-net/2023/20230202214624_2022_12_02_以立合唱團世界首演_希望之光_影音_e7e2a1e1a71524ce|twjustice 2023-02 (event 2022-12-02)]], [[articles/taiwanjustice-net/2024/20240228144919_root_a40b37bc03b2b9cb|twjustice 2024-02 (第三樂章：希望)]] and [[articles/taiwanjustice-net/2025/20250524200224_以立合唱團世界首演_希望之光_影音_025f6ed990dc9e2c|twjustice 2025-05]]. 以立合唱團 is held as vault record [[works/taiwaneseamericanhistory-org/18-elite-chorus||TAH Encyclopedia #18: Elite Chorus 以立合唱團]] (no separate organizations page yet).
-- HOLD: role labels conflict across the vault's own TAH entries for this slug — #169 titles her "Conductor", #30 "Soprano", while the Who's Who bio here describes a pianist/chamber musician. Never auto-merged; treat as pending reconciliation.
+- 鄭炳全 (Ping-Chuan Cheng, pharmacist/TAH co-founder) 的 2025 回憶錄 「旅美五十周年」 records him joining 「台灣會館由陳慧如指揮黃令先伴奏的合唱團」 — first-hand confirmation from a community elder of her 台灣會館 choir conductor role with 黃令先 (Lynn Huang) as accompanist, independent of the twjustice columns: [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|鄭炳全 旅美五十周年 (twjustice 2025-02)]] (earlier snapshot [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|2024-03]]).
+- HOLD: role labels conflict across the vault's own TAH entries for this slug — #169 titles her "Conductor", #30 "Soprano", while the Who's Who bio here describes a pianist/chamber musician. Never auto-merged; treat as pending reconciliation. Note: the two independent community memoirs above (鍾澄文/信雅 columns + 鄭炳全 2025) both attest the Conductor role at 台灣會館, corroborating #169 over the pianist-only press-kit bio.
 
 ## Vault records（deepen pass 2026-09-14）
 - New corpus link from this pass: 2020 Virtual Choir 指揮 activity in the taiwanjustice article above (first third-party community mention beyond her own TAH pages).
