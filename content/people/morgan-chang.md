@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-09
 ---
 # Morgan Chang (張富雄)
 
@@ -53,6 +53,13 @@ Accomplishment
 - **訪談回憶（同文記錄）**：1969年赴哥倫比亞大學留學時，在校園宿舍見到標語「Free China is neither free nor China」，引發其反思成長過程、走上自我認同追尋之路。
 - **台灣會館憧憬**：與陳隆豐、彭良治、魏瑞明、陳阿火、辜澄彬等弟兄在談話中同抱「台灣樓」「台灣會館」的的共同夢（海外遊子共同願景，後發展為台灣會館運動）。出處：[[works/taiwaneseamericanhistory-org/ourjourneys09||TAH Our Journeys #09（台灣會館回憶錄）]]。
 - **和平契友聯絡網**：台北和平教會契友紐約地區主要聯絡員之一，參與歷屆夏令會聯繫，並參與第一屆夏令會教材（Herein Is Love）年份考證。出處：[[works/taiwaneseamericanhistory-org/ourjourneys268||TAH Our Journeys #268（和平契友夏令會回憶）]]。
+- **台灣之音親撰回顧（2014-09）**：張富雄親撰《台灣之音的回顧》（TAH Our Journeys #2，2014-09，value band A）自述全過程：1977年初於紐約台灣同鄉會幹部會議提議以電話答錄機成立「台灣之音」，會中決議交他辦理，會長林俊提親送設備至其皇后區Woodside住所；4月1日試播、5月1日正式開播（電話 (212)726-3023），節目由他撰稿、妻子宜宜修改後錄音。出處：[[works/taiwaneseamericanhistory-org/ourjourneys2||TAH Our Journeys #2（張富雄親撰・台灣之音的回顧）]]。
+- **1977-09-21 紐約時報連名廣告**：鄭兒玉牧師託其三姐張惠真從台灣快遞「人權宣言」予他，他在台灣之音數度播送後，邀集68個同鄉會、教會及美國教派神職人員聯名在紐約時報購買廣告（page A14，約美金一萬元全靠樂捐），英文標題「Listen!! Outcry Within Taiwan: "A New and Independent Country"」由許登龍醫師擬定、許瑞峰書寫中文毛筆字。出處：[[works/taiwaneseamericanhistory-org/ourjourneys2||Our Journeys #2]]。
+- **戰時式服務**：1977-11-19中壢事件後台灣政情報導大增，曾一日更換節目5次、半夜接長途電話製作節目至凌晨；高雄事件遊行当天實況轉播高雄端（張俊宏之妹張美貞）催淚彈爆炸聲；1979-08陳婉真於北美事務協調會紐約辦事處絕食抗爭12天，宜宜一連12天留守傳遞消息，他把廣播與聲明全文轉錄給施明德分送島內。出處：[[works/taiwaneseamericanhistory-org/ourjourneys2||Our Journeys #2]]。
+- **監控、竊聽與FBI約談**：高雄事件後遭可疑人士監視，遂將答錄機遷至Forest Hills電話接線服務公司；紐約電話公司後通知其家用電話曾經法院申請遭竊聽33個月；FBI並約談詢問台灣之音「幕後組織與經費來源」，他答：負責人即他與宜宜（Morgan & Eileen Chang），經費全來自聽眾樂捐、不屬任何組織。出處：[[works/taiwaneseamericanhistory-org/ourjourneys2||Our Journeys #2]]。
+- **經費、分台與任務結束**：初期由紐約同鄉會支付，1978年因對方付費電話費高漲改向聽眾勸捐而漸獨立（首筆千元捐款來自廖國仲、許丕龍亦早期捐千元）；1979年前分台達29台，歐洲法國、德國各設一分台；1981-12因機器故障與體力耗盡，委託舊金山灣區主持人黃介山接手製作，紐約台任務於1982年初結束——與本頁「1977-05-01開播至1982-02-26結束」相符。出處：[[works/taiwaneseamericanhistory-org/ourjourneys2||Our Journeys #2]]。
+- **錄音帶返台**：1995至1998年間他回台時陸續帶回台灣之音所有錄音帶原帶，交哥大同學吳成三全權處理，經國史館館長張炎憲安排由吳三連台灣史料基金會整理，並於高雄事件紀念日（12月10日）出書。出處：[[works/taiwaneseamericanhistory-org/ourjourneys2||Our Journeys #2]]。
+- **HOLD：職涯記載**：本頁 Employment 欄記「Goldman Sachs — Vice President」，而其親撰回憶自述1977年於華爾街E.F. Hutton公司上班——或為前後任職（E.F. Hutton在前、Goldman Sachs在後），未自動合併。
 
 ## Sources
 - [TAH #2195 encyclopedia: 2195. Morgan Chang 張富雄](https://taiwaneseamericanhistory.org/whos-who-2195-morgan-chang/)
