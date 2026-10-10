@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-10
 ---
 # Justin Lin (林詣彬)
 
@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 - Corpus re-scan 2026-10-04 (slice 09270600-7): fresh grep (林詣彬|Justin Lin) — identical hit set (#166, taiwanese-american-film, director-justin-lin essay, blacklava retrospective, works index), all already wikilinked. SKIP; verified-saturated.
 - Corpus re-scan 2026-10-06 (deepen-x slice 10051143-30): fresh ZH+EN grep (林詣彬 / Justin Lin) across works/ + articles/ + sources/ + events/ + topics/ — identical hit set (#166 encyclopedia record, taiwanese-american-film, director-justin-lin-on-asian-american-filmmaking, Blacklava 20-year retrospective, works index); whole-repo sweep adds only [[people/kevin-wu|吳凱文]]'s echo of the same Blacklava visibility line. No new corpus facts. SKIP: verified-saturated.
 - Corpus re-scan 2026-10-08 (deepen-x slice 10061023-3): fresh ZH+EN grep across works/ + articles/ + sources/ + events/ + topics/ — identical hit set (#166 encyclopedia record, taiwanese-american-film, director-justin-lin-on-asian-american-filmmaking, Blacklava retrospective, works/sources index); all already wikilinked with facts absorbed. No new corpus facts. SKIP: verified-saturated.
+- His Fast & Furious franchise work entered the Taiwan sovereignty discourse in the corpus record: [[articles/taiwanjustice-net/2025/20251115182004_john-cena宣傳_玩命關頭9_稱台灣是國家-引中國網民不滿_83cafec5d46703bb|John Cena宣傳「玩命關頭9」稱台灣是國家 引中國網民不滿被迫道歉 (2021-05-25)]] records that during promotion of *F9* (玩命關頭9) — which he directed — co-star John Cena told a Taiwanese outlet "台灣是第一個看到『玩命關頭9』的國家," drawing Chinese netizen backlash and a forced Chinese-language apology on his Weibo, while Taiwan had been slated as the franchise's global opening market. The article does not name Lin himself; the attribution to his franchise is by franchise identity (he is credited above with the Fast & Furious films).
+- Corpus re-scan 2026-10-10 (deepen-x slice 10090600-9): ZH+EN grep across works/ + articles/ + sources/ + events/ + topics/ — same four linked works; franchise sweep (Better Luck Tomorrow / Fast & Furious / 玩命關頭) surfaced the 2021 taiwanjustice.net F9 John Cena article, absorbed above.
