@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Nicholas C. Huang (黄文郁)
 
@@ -55,3 +55,4 @@ Accomplishment
 <!-- deepen-x slice 09252123-19 (2026-09-26): verified-saturated — fresh ZH+EN re-grep of content/works+content/articles returns only the already-cited records; no new absorbable facts. -->
 <!-- deepen-x 10060950-5: SKIP — corpus re-scan (works/articles/sources/events/topics) fresh 2026-10-08: ZH+EN grep hit set identical to prior passes (own record + already-absorbed works + index listings); false-positive substring hits excluded (趙明昊 Fudan professor in taiwanjustice 2023 article; 久香 substring in BNO news). No new community material. -->
 <!-- deepen-x slice 10080600-27 (2026-10-09): verified-saturated — fresh ZH+EN re-grep (黄文郁/黃文郁/Nicholas C. Huang/Nicholas Huang/文郁) across all 5 corpus dirs returns only the already-cited records (whos-who-1940, 52924, works/index, sources hubs, Anna Wu snapshot). Ourjourneys 37/58/76/106 hits are false positives on 蔡文郁 (Baton Rouge / N. California 同鄉會 figure — different person, surname 蔡), excluded per HOLD discipline. No new absorbable facts. -->
+<!-- deepen-x slice 10091500-20 (2026-10-10): verified-saturated — fresh ZH+EN+surname re-grep (黄文郁/黃文郁/Nicholas C. Huang/Nicholas Huang/文郁) across all 5 corpus dirs returns the identical hit set already absorbed above; ourjourneys 37/58/76/106 remain 蔡文郁 false positives. No new material. -->
