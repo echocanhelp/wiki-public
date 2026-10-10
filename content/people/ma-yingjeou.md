@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Ma Ying-jeou (馬英九)
 
@@ -132,6 +132,8 @@ last_reviewed: 2026-10-01
 - 2014 太陽花學運：corpus 紀錄指學生佔據立法院反對馬英九政府主推的海峽兩岸服務貿易協議 — [[works/taiwaneseamerican-org/the-228-inheritance-taiwans-revolution-is-here|The 228 Inheritance（TA 雜誌）]]。
 - FAPA「六項保證」案即因美方對馬英九親中政策的憂慮與對蔡英文的期待而順勢推出（2015-10），並在蔡英文就職總統前夕獲眾議院全體無異議通過 — [[works/taiwaneseamericanhistory-org/ourjourneys228|Our Journeys 228（FAPA 與六項保證）]]。
 - 社運藝術紀錄：太陽花藝展作品中出現「頭長鹿角的馬英九」圖像，以「Illuminating Darkness」刻畫佔領期的黑暗 — [[works/taiwaneseamerican-org/art-for-advocacy-2|Art for Advocacy（TA 雜誌）]]。
+- 228 紀念文獻（TAHS 社群紀錄）：文中指出「KMT 總統李登輝與馬英九已代表政府正式道歉」（KMT presidents Lee Teng-hui and Ma Ying-jeou have already offered formal apologies on behalf of the government），於藍綠對照脈絡中記述其對轉型正義議題之定位 — [[works/taiwaneseamerican-org/remember-228|Remember 228（TA 雜誌）]]。
+- 國家典禮演出紀錄：鋼琴家 [[people/gwhyneth-chen|Gwhyneth Chen]] 之 NTSO/MOCA 藝術家檔案載其曾於李登輝（1997）、吳淑珍（2002）、馬英九（2008）等國典場合演出，並含 2008 北京奧運音樂會紀錄 — [[sources/ntso-moca-bio|NTSO MOCA 藝術家檔案]]。
 
 ## Related Pages
 
