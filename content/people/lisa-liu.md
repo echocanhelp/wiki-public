@@ -8,7 +8,7 @@ tags:
   - board
   - chamber-of-commerce
 verification_status: published
-last_reviewed: 2026-09-08
+last_reviewed: 2026-10-10
 ---
 # Lisa Liu (劉雅薇)
 
@@ -38,6 +38,10 @@ Do not merge this person with Linda Liu / 劉玲華 (副董事長) or invent edu
 - **2021-09-08 (reported 2021-09-11)** — as 洛杉磯台美商會會長, joins a chamber visit to Lollicup USA / Karat Packaging headquarters in Chino; comments on a Taiwanese American firm entering U.S. mainstream foodservice packaging. Source: [[articles/taiwanjustice-net/2021/20210927005058_2021_09_11_靠波霸奶茶發跡洛杉磯_飲料小店做到美股上市_7570d10402d2fc4c||靠波霸奶茶發跡洛杉磯，飲料小店做到美股上市]].
 - **2022-07 (reported 2022-07-02)** — named among 台美人社區領袖 at a 柑縣 fundraiser for Rep. Michelle Steel’s 第45區 reelection; quoted supporting Steel as 會長 alongside 陳柏宇. Source: [[articles/taiwanjustice-net/2022/20220813052744_2022_07_02_台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連_8c5d12035d4e1a54||台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連任]].
 - **Later 會館 年會 / Palms Resort copy (vault, sibling people pages)** — 劉雅薇 appears in the 38-director contact list with 田詒鴻, 陳柏宇, 林榮松, 蔡漢成, 劉玲華, and others. Treat as **same-name board listing**, not a new office.
+
+## From the record
+
+- 2022-07-02 — 以洛杉磯台美商會會長身分與台灣會館董事長陳柏宇等台美人社區領袖於柑縣為國會眾議員 Michelle Steel（朴銀珠）第45區連任舉辦募款餐會，公開呼籲支持其連任（[[articles/taiwanjustice-net/2022/20220813052744_2022_07_02_台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連_8c5d12035d4e1a54|TJJ, 2022-07-02]]；另見 [[articles/taiwanjustice-net/2025/20250808005844_台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連_2fc3294ed01f2d2a|2025-08-08 快照]]）。
 
 ## Quotes
 
@@ -103,3 +107,5 @@ From the 2022 Steel fundraiser:
 - [[people/wei-boji||Wei Boji (魏博基)]]
 - [[people/xu-shitan||Xu Shitan (徐士坦)]]
 - [[people/wang-rongyi||Wang Rongyi (王榮義)]]
+
+<!-- TJJ-A10091401-7: verified 2026-10-10 — wave-2 link+deepen of slice 10091401-7 article 2fc3294ed01f2d2a (台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連任第45區國會議員, 發文 2022-07-02／快照 2025-08-08): 劉雅薇以洛杉磯台美商會會長身分具名並公開呼籲支持連任，確認見於正文（本文與同文 8c5d1203 快照版皆然），subject link real, no wrong/spurious links; 2022-07-02 dated fact w/ article wikilinks newly added to From the record. -->

@@ -8,7 +8,7 @@ tags:
   - FAPA
   - community leader
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-10
 sources:
   - https://en.wikipedia.org/wiki/Ken_Wu
   - https://www.taiwancenter.org/
@@ -109,6 +109,7 @@ A business card shared during onboarding identifies Ken Wu (吳兆峯) as Secret
 - 複核（TJJ-A09221400-8, 2026-09-23）：第53回世界台灣文化論壇稿（[[articles/taiwanjustice-net/2022/20221127045936_2022_09_25_第53回世界台灣文化論壇_ti美國點光台灣高龍榮-吳_e9faa17a0a7ea61c|e9faa17a0a7ea61c]]）subject link（與談人 Ken Wu 吳兆峯）經正文再驗證為真實對應，2022-09-25 條目已在庫 — SKIP，无新材料。
 - 再核（TJJ-A09221200-15, 2026-09-23）：本 slice 文章 097b5750fcf3091a 正文再驗證——吳兆峯於台館董事會臨時動議議決賑災勸募並代表台館受訪主流媒體，連結為真；2024-04-04 條目已在庫，無新材料。
 - 2024-04-04 — 花蓮0403地震後適逢大洛杉磯台灣會館董事會，臨時動議議決賑災勸募並代表台館受訪NBC、ABC、KTLA；台館並聯繫經文處協調海外美元捐款專戶（[[articles/taiwanjustice-net/2024/20240527024358_root_097b5750fcf3091a|TJJ, 2024-04-04]]）。
+- 2022-07-02 — 列名出席柑縣為國會眾議員 Michelle Steel（朴銀珠）第45區連任舉辦的台美人募款餐會（與會名單：楊信夫婦、王家培夫婦、陳柏宇、劉雅薇、李木通、賴英慧、汪俊宇、陳慶恩、溫玉玲、Peter Chen、Garvin Li、吳兆峯等）（[[articles/taiwanjustice-net/2022/20220813052744_2022_07_02_台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連_8c5d12035d4e1a54|TJJ, 2022-07-02]]；另見 [[articles/taiwanjustice-net/2025/20250808005844_台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連_2fc3294ed01f2d2a|2025-08-08 快照]]）。
 - 2022-09-25 — 以與談人（Ken Wu 吳兆峯）身份出席第53回世界台灣文化論壇「Tī美國點光台灣」，與主講人高龍榮（Long Rong (Mark) Kao, PhD）、主持人陳正義（Peter Chen）對談台灣對美國的地緣政治重要性、美國對台關鍵政策、「維持現狀」與「戰略模糊」的轉變、以及 FAPA 與 FAPR 為台灣發聲的角色（[[articles/taiwanjustice-net/2022/20221127045936_2022_09_25_第53回世界台灣文化論壇_ti美國點光台灣高龍榮-吳_e9faa17a0a7ea61c|TJJ, 2022-09-25]]）。
 
 ## Works
@@ -602,3 +603,5 @@ Articles from taiwanjustice.net mentioning **Ken Wu (吳兆峯)**:
 <!-- TJJ-A10060400-25: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-25 article e9faa17a 第53回世界台灣文化論壇: 與談人 Ken Wu 吳兆峯: subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090501-31: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-31 article e9faa17a0a7ea61c (第53回世界台灣文化論壇 Tī美國點光台灣, 2022-09-25刊/2022-11-27快照) read fresh this attempt: subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; 2022-09-25 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10091401-7: verified 2026-10-10 — wave-2 link+deepen of slice 10091401-7 article 2fc3294ed01f2d2a (台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連任第45區國會議員, 發文 2022-07-02／快照 2025-08-08): 吳兆峯（Ken Wu）列名與會名單確認見於正文，subject link real, no wrong/spurious links; 2022-07-02 dated fact w/ article wikilinks newly added to From the record. -->

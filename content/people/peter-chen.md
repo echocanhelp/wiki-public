@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Peter Chen (陳正義)
 
@@ -121,3 +121,5 @@ last_reviewed: 2026-10-09
 <!-- TJJ-A10090401-11: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-11 article c691e327b9133c1a (心得報告標籤頁, 2024-07-19 快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090501-31: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-31 article e9faa17a0a7ea61c (第53回世界台灣文化論壇 Tī美國點光台灣, 2022-09-25刊/2022-11-27快照) read fresh this attempt: subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; 2022-09-25 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10091401-7: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10091401-7 article 2fc3294ed01f2d2a (台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連任第45區國會議員, 發文 2022-07-02／快照 2025-08-08) read fresh this attempt: 「台美公民協會(TACL) Peter Chen」與會名單記述確認見於正文（TAH #424 存檔頁佐證 TACL 總會副會長身分）, subject link real, no wrong/spurious links; 2022-07-02 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->

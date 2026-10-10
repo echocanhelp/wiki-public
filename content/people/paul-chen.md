@@ -11,7 +11,7 @@ name_en: "Paul Chen"
 name_zh_hanzi: "陳柏宇"
 name_zh: "陳柏宇"
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-10
 source_note: "TAHS 2025 organization chart (roles only; no private contacts)"
 ---
 # Paul Chen (陳柏宇)
@@ -426,3 +426,5 @@ Notable quotes and mentions of **陳柏宇** in Taiwan Justice articles:
 <!-- TJJ-A10090701-30: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-30 article 80c0a825a7a661b6 (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, TJJ 2021-05-17刊 / 2025-11-08 快照, twin b1d58af16c0a5e5b) read fresh this attempt: subject link re-checked vs 正文 — 「陳柏宇」列名共同發起人清單確認見於正文, real, no wrong/spurious links; 2021-05-13 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10091401-9: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10091401-9 article f4bc88a293a5ec0d (二二八事件77周年 大洛杉磯台灣會館舉辦追思紀念大會, TJJ 發文 2024-02-25／2025-02-13 快照) read fresh this attempt: 陳柏宇以大洛杉磯台灣會館董事長身分致辭（主題「二二八的反抗」）確認見於正文; subject link re-checked, real (非 dr-paul-chen), no wrong/spurious links; 2024-02-24 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10091401-7: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10091401-7 article 2fc3294ed01f2d2a (台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連任第45區國會議員, 發文 2022-07-02／快照 2025-08-08) read fresh this attempt: 陳柏宇以台灣會館董事長身分列名並公開呼籲支持連任確認見於正文, subject link real (非 dr-paul-chen), no wrong/spurious links; 2022-07-02 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->

@@ -120,3 +120,5 @@ last_reviewed: 2026-10-10
 <!-- TJJ-A10080501-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080501-3 article 2fc3294ed01f2d2a (台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連任報導, 2025-08-08快照) read fresh this attempt: 李木通以台灣會館前董事長身分列名與會確認見於正文; subject link re-checked, real, no wrong/spurious links; 2022-07-02 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090701-23: verified 2026-10-10 — wave-2 link+deepen re-check of article 89e6683c93156205 (台美人台加人 p356, TJJ 2016-05-17 條目 / 2024-05-20 快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10091401-7: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10091401-7 article 2fc3294ed01f2d2a (台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連任第45區國會議員, 發文 2022-07-02／快照 2025-08-08) read fresh this attempt: 李木通以台灣會館前董事長身分列名與會確認見於正文, subject link real, no wrong/spurious links; 2022-07-02 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
