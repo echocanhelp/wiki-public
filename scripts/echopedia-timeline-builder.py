@@ -354,6 +354,19 @@ def add_timeline_to_person_page(slug, events, dry_run=False):
     with open(page_path, "w", encoding="utf-8") as f:
         f.write(content)
 
+    # Fold after every write (2026-10-11): the builder's "updated" path replaces
+    # the whole ## Timeline section, which would silently UNFOLD pages cleaned by
+    # scripts/timeline-fold-noise.py. Re-applying the fold here keeps the rule in
+    # the generator instead of relying on someone remembering the cleanup script.
+    try:
+        import importlib.util as _ilu
+        _spec = _ilu.spec_from_file_location(
+            "foldnoise", Path(__file__).resolve().parent / "timeline-fold-noise.py")
+        _f = _ilu.module_from_spec(_spec); _spec.loader.exec_module(_f)
+        _f.process(str(page_path))
+    except Exception as _e:
+        print(f"  fold-after-write skipped for {slug}: {_e}")
+
     print(f"  {action.upper()}: {slug} — {len(events)} events in ## Timeline")
     return True
 
