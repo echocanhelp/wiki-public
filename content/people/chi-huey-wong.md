@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Dr. Chi-Huey Wong (翁啟惠博士)
 
@@ -49,6 +49,7 @@ Corpus record of Dr. Wong's standing in the Taiwanese American community, held o
 - 2022-07 — 獲頒化學界四面體獎, 表揚醣科學開創研究 (Tetrahedron Prize for glycoscience) ([[works/taiwaneseamericanhistory-org/my-stories-846|TAH #846]])
 - 2021-08/09 — Press coverage archived in the corpus covers both his Welsh Prize win ([[articles/taiwanjustice-net/2021/20210927013814_2021_09_08_翁啟惠革命性成就獲威爾許化學獎肯定_感謝合作_64b1e979ca17cf09|TJJ 2021-09-08, 威爾許化學獎肯定]]) and the contemporaneous 翁啟惠案 legal opinion-letter dispute ([[articles/taiwanjustice-net/2021/20210814031824_2021_08_13_翁啟惠案意見書鬧雙胞_王美玉蔡崇義各自表述_2964a974bf3fb0b1|TJJ 2021-08-13, 意見書鬧雙胞]]).
 - Case aftermath archived in the corpus: the 監察院's third investigation report (2021-03) found 翁啟惠 made no false asset declarations and violated no conflict-of-interest law, with 監委王美玉 filing a dissent ([[articles/taiwanjustice-net/2025/20250621224606_監院三查翁啟惠案_認無不實申報_王美玉提不同_c1f56ce912d35fbb|TJJ archive, 監院三查翁啟惠案]]); later corpus press also records him being honored as 台大傑出校友 (2022-11) ([[articles/taiwanjustice-net/2022/20221205042705_2022_11_14_黃春明施崇棠獲台大名譽博士-翁啟惠獲傑出校友_6463ca4f49f172e9|TJJ 2022-11-14]]).
+- 2021-09-08 — the Welch Foundation announcement names him as 前中央研究院院長、國家生技醫療產業策進會會長, praised by 董事會主席 Carin Barth for 促進未來數年的新藥與疫苗開發 research methods ([[articles/taiwanjustice-net/2021/20211023204156_2021_09_08_威爾許化學獎公布_台灣前中研院長翁啟惠獲獎_0d313f0931a1d4b3|TJJ 2021-09-08, 威爾許化學獎公布]]) — same award as the 獲頒 entry above, with his concurrent 生技策進會 role recorded.
 - 2021-09-10 — the 翁啟惠案 drew a community mobilization in its own right: a 海內外台灣人聲援翁啟惠連署活動 (petition of Taiwanese at home and abroad denouncing the prosecution as 司法不公，國耻之最) is archived in the corpus ([[articles/taiwanjustice-net/2023/20230530145556_2021_09_10_司法不公_國耻之最_海內外台灣人聲援翁啟惠連_59a68b9cd855c1bf|TJJ 2021-09-10, 聲援翁啟惠連署]]) — one of the clearest instances of the diaspora community taking a position on his legal case.
 - 2020-04 — corpus press credits the SARS protease-inhibitor program he backed as 中研院長 (with 台大方俊民團隊's drug synthesis and 中研院王惠鈞's co-crystal structure work) as the foundation of Taiwan's COVID-19 antiviral research ([[articles/taiwanjustice-net/2025/20251205024909_武漢肺炎_台灣中研院找到抑制病毒關鍵_效果比_8a107543726c80c2|TJJ archive, 武漢肺炎 中研院關鍵抑制劑]]).
 - 2022-10 — ahead of that year's announcement, corpus press reported him as a leading contender for the Nobel Prize in Chemistry ([[articles/taiwanjustice-net/2022/20221204222005_2022_10_02_諾貝爾化學獎本週揭曉-中研院士翁啟惠呼聲高_a708110fef3ac395|TJJ 2022-10-02, 諾貝爾化學獎呼聲高]]).
@@ -76,3 +77,5 @@ CORPUS SCAN (2026-09-23, slice 09221100-15; re-run 2026-09-24, slice 09230600-6)
 <!-- TJJ-A10070700-4: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-4 article 59a68b9cd855c1bf (司法不公國耻之最：聲援翁啟惠連署, 2021-09-10): subject link re-checked vs 正文 (本人為連署聲援對象, 浩鼎案獲無罪仍遭監院彈劾), real, no wrong/spurious links; dated fact w/ article wikilink already in section above (Role in the Community) — saturated, no new material. -->
 
 <!-- TJJ-A10090401-16: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-16 article 59a68b9cd855c1bf (司法不公，國耻之最：海內外台灣人聲援翁啟惠連署活動, taiwanjustice.net 2021-09-10刊/2023-05-30快照) read fresh this attempt: 本人為連署聲援對象（浩鼎案2018-12獲無罪仍遭監院彈劾）確認見於正文; subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record (Role in the Community) — saturated, no new material. -->
+
+<!-- DEEPEN-X10090500-17: 2026-10-10 — fresh grep 翁啟惠/Chi-Huey Wong/浩鼎 across all 5 corpus dirs: 6 TAH work pages already linked unchanged; TJJ hits = already-linked archive articles + tag/category index pages + 2017 政經看民視 roundup pages whose only 浩鼎 mention is a sidebar link to the 浩鼎案開庭 article (no new facts). One new biographical fact absorbed: 2021-09-08 Welch announcement article (0d313f09) records his concurrent 國家生技醫療產業策進會會長 role + Barth quote — added to Role in the Community. 謝金河 2025 vaccine article mentions 浩鼎 only as a stock-history example, not about 翁啟惠 — not linked. -->
