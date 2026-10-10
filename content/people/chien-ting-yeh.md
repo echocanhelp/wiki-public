@@ -65,3 +65,5 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-23 (slice 09221000-10): hit set = own TAH #425 biblio entry, works index, and the already-linked TJJ/CNA archives (裴洛西訪台 2022, 川普外交 2025) — no memoir narrative beyond what is absorbed above; nothing new (SKIP-with-reason).
 
 <!-- TJJ-A10060900-1: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060900-1 article(s) c692a70646f3af76（舊金山台裔市議員莊吳明芳「外國不能干預美國官員出訪」CNA專電, 2022-08-05刊）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090801-7: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-7 article c692a70646f3af76（舊金山台裔市議員莊吳明芳「外國不能干預美國官員出訪」CNA專電, 2022-08-05刊）read fresh this attempt: subject link re-checked vs 正文 — 葉介庭引述紐時談裴洛西訪台逐字確認見於正文, real, no wrong/spurious links; 2022-08-05 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
