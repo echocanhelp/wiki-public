@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Nick Wu (吳仲輝)
 
@@ -47,3 +47,4 @@ last_reviewed: 2026-10-09
 
 - 2026-10-06 re-verify (deepen-x 10051200-10): surname sweep 仲輝 surfaced ourjourneys39 — that is 陳仲輝, 會長 of the Bay Area 協志會/蓬萊歌劇團 theater circle, a DIFFERENT person; no match for 吳仲輝/Nick Wu. Hit set unchanged (ourjourneys212 + whoswho1128). SKIP stands.
 <!-- deepen-x slice 10080700-6 (2026-10-09): saturated re-verify — fresh ZH+EN grep (吳仲輝 / Nick Wu / 仲輝) across all 5 corpus dirs: hit set unchanged — ourjourneys212 (joining-cohort passage, absorbed above), whoswho1128 (bibliographic, linked), ourjourneys39 (陳仲輝 ≠ 吳仲輝), index/sources link listings only. Wife 宋素心: zero corpus hits. SKIP stands. -->
+<!-- deepen-x slice 10091500-32 (2026-10-10): saturated re-verify — fresh ZH+EN+surname grep (吳仲輝 / Nick Wu / 仲輝) across all 5 corpus dirs returned the identical closed set (ourjourneys212 absorbed, whoswho1128 linked, ourjourneys39 = 陳仲輝 ≠ 吳仲輝, index/sources listings); wife 宋素心 still zero hits. No new material. SKIP stands. -->
