@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Dr. Fei-Kuang Tseng (曾輝光博士)
 
@@ -47,8 +47,9 @@ last_reviewed: 2026-09-25
 - Corpus re-check (2026-09-22, deepen-x slice 09211400-3, vault-only): re-grep 曾輝光/Fei-Kuang Tseng — hit set (mystories124, whos-fei-kuang-tseng, ourjourneys244, collection, ourjourneys173/173-eng) is fully linked above; no new absorbable facts, no conflicts. Verify-saturated.
 - Corpus re-check (2026-09-22, deepen-x slice 09220800-8, vault-only): fresh grep 曾輝光|Fei-Kuang Tseng — same hit set (mystories124, whos-fei-kuang-tseng, ourjourneys244, collection, ourjourneys173/173-eng, 179, publications898), all linked above; no new absorbable facts, no conflicts. SKIP.
 - Corpus re-check (2026-09-23, deepen-x slice 09230317-4, vault-only): fresh grep 曾輝光|Fei-Kuang Tseng — same hit set (mystories124, whos-fei-kuang-tseng, ourjourneys244, collection, ourjourneys173/173-eng, publications898), all linked above; no new absorbable facts, no conflicts. SKIP.
-- **TASA 會史作者／第八任會長**：他本人撰寫的會史「50. 『南加州台灣長輩會』的成立」（[[works/taiwaneseamericanhistory-org/ourjourneys50|Our Journeys 50]], 2014-10, band A）是 TASA 史的主材料：TASA 前身為 1978 年賴占鰲等十數人發起的「台灣老人會」，**1979-05-05 正式成立「南加州台灣老人會」**（借用洛杉磯台語福音教會，會員 100 名，首任會長陳夢蘭）；1980 年第二任蕭華銓任內改名「南加州台灣長輩會」；1988-03-05 遷入艾爾蒙地市鶴園會館（6 萬平方呎，破土 1987-03-17，政府零補助，賴高安賜＋蕭華銓號召建成）；1997 年成立長輩基金會。文內自述其任內（列為**第八任會長，1996**）致力充實月刊內容、加強月例會與慶生會，並加入聯合國註冊的國際資深公民協會，且理事會通過成立永久會員基金管理會；TASA 亦積極參與台灣會館籌備、率先成為團體創會會員。HOLD: 會長年份 — TAH Who's Who 欄記 1995、1997 vs 本人會史記第八任 1996，未合併。
+- **TASA 會史作者／第八任會長**：他本人撰寫的會史「50. 『南加州台灣長輩會』的成立」（[[works/taiwaneseamericanhistory-org/ourjourneys50|Our Journeys 50]], 2014-10, band A）是 TASA 史的主材料：TASA 前身為 1978 年賴占鰲等十數人發起的「台灣老人會」，**1979-05-05 正式成立「南加州台灣老人會」**（借用洛杉磯台語福音教會，會員 100 名，首任會長陳夢蘭）；1980 年第二任蕭華銓任內改名「南加州台灣長輩會」；1988-03-05 遷入艾爾蒙地市鶴園會館（6 萬平方呎，破土 1987-03-17，政府零補助，賴高安賜＋蕭華銓號召建成）；1997 年成立長輩基金會。文內自述其第八任任內（1996）致力充實月刊內容、加強月例會與慶生會，並加入聯合國註冊的國際資深公民協會，且理事會通過成立永久會員基金管理會；TASA 亦積極參與台灣會館籌備、率先成為團體創會會員。會史另記他**第十度出任會長（1998）**，任內申請籌建「愛滿地成人日間照顧中心」，設於愛爾蒙地市 — 即他兩度執掌會務（第八、第十任），非僅一任。HOLD: 會長年份 — TAH Who's Who 欄記 1995、1997 vs 本人會史記第八任 1996、第十任 1998，兩組年份未合併。
 - Corpus re-check (2026-09-25, deepen-x slice 09231000-2, vault-only): fresh grep 曾輝光|Fei-Kuang Tseng — one new hit **ourjourneys50** (his own TASA 會史, absorbed above); all other hits (mystories124, whos-fei-kuang-tseng, ourjourneys244, collection, ourjourneys173/173-eng, 179, publications898, 379) already linked. Page now saturated.
+- Corpus re-check (2026-10-10, deepen-x slice 10090500-3, vault-only): fresh grep 曾輝光|Fei-Kuang Tseng|曾國哲|曾千育 — same hit set, no new works. New absorbable fact from ourjourneys50: 會史記他 **第十任會長（1998）**，任內申請籌建愛滿地成人日間照顧中心（愛爾蒙地市）— absorbed above; two-term detail was previously missing. No conflicts beyond the existing year HOLD.
 
 ## Sources
 - [TAH #179 encyclopedia: 179. Dr. Fei-Kuang Tseng 曾輝光博士](https://taiwaneseamericanhistory.org/179-dr-fei-kuang-tseng/)
