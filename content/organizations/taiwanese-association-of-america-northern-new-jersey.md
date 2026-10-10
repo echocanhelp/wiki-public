@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-10
 ---
 # Taiwanese Association of America Northern New Jersey (北澤西)
 
@@ -35,6 +35,11 @@ The corpus holds these TAA/NNJ community records:
 - Corpus re-check (2026-09-23, deepen-x slice 09230317-4, vault-only): fresh grep 北澤西|TAA-NNJ|Northern New Jersey — hit set identical to prior re-checks, all linked above; no new absorbable facts, no conflicts. SKIP.
 - Corpus re-check (2026-09-25, deepen-x slice 09231000-3, vault-only): fresh grep 北澤西|TAA-NNJ|Northern New Jersey — hit set identical to prior re-checks (history, activities, projects-5-15, pine-green-institutes, OJ#219, OJ#12), all linked above; no new absorbable facts, no conflicts. SKIP.
 - Corpus re-check (2026-09-26, deepen-x slice 09251417-1, vault-only): fresh grep 北澤西|TAA-NNJ|Northern New Jersey — hit set identical to prior re-checks (history, activities, projects-5-15, pine-green-institutes, OJ#219, OJ#12), all linked above; no new absorbable facts, no conflicts. SKIP.
+- Founding: 許盛男醫師 (Dr. Maurice Hsu, first president) and associates founded the chapter in 1981; the northern New Jersey area west of the New York metro had many Taiwanese Americans commuting to jobs in New York City. Recorded in [[works/taiwaneseamericanhistory-org/ourjourneys356-eng|Our Journeys #356 (紐澤西州的台美團體)]] and [[works/taiwaneseamericanhistory-org/175-dr-maurice-hsu-e8-a8-b1-e7-9b-9b-e7-94-b7-first-president-of-taanorth-jersey|Work #175, Dr. Maurice Hsu — First President of TAA/North Jersey (1981)]].
+- Chapter profile: [[works/taiwaneseamericanhistory-org/northern-new-jersey-chapter-taa|The Taiwanese Association of America Northern New Jersey Chapter 北澤西台灣同鄉會]] — dedicated chapter record held in the corpus.
+- Earlier scholarship record: [[works/taiwaneseamericanhistory-org/18-taiwanese-association-of-america-northern-new-jersey-chapter-taa-nnj-scholars|Work #18, TAA-NNJ Scholarship Award scholars]] (bibliographic record, predates the 2017 award record above).
+- 2014 language seminar: the 紐澤西台灣人社團 台語教師研習會 (2014-08-30 to 09-01, three days) was held at 北澤西佳壇台語教會, with 僑務委員蔡榮聰醫師 hosting and 鄭安住老師 as featured lecturer; co-organizers included 北澤西台灣同鄉會, 大紐約區海外台灣人筆會, NATMDA 大紐約分會, and 福爾摩莎新澤西州醫師協會. Recorded in [[works/taiwaneseamericanhistory-org/ourjourneys42|Our Journeys #42 (《台語文之美妙》台語教師研習會, 柯金寅報導 2014-10)]].
+- Corpus re-check (2026-10-10, deepen-x slice 10090700-26, vault-only): fresh grep 北澤西|TAA-NNJ|Northern New Jersey found four previously unlinked records now absorbed above — OJ#356 (founding, 許盛男, 1981), OJ#42 (2014 seminar at 佳壇教會), work #18 (scholars), and the chapter-profile work; no date/office conflicts (2014 vs 2016 seminars are distinct events).
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-northern-new-jersey/)
