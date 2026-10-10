@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Charles Huang (黃啟仁)
 
@@ -56,3 +56,4 @@ last_reviewed: 2026-10-09
 - Corpus re-grep (slice 10051143-5, 2026-10-06): fresh 黃啟仁/Charles Huang grep of works/articles/sources/events/topics — hit set unchanged (OJ#33-eng, mystories-749, whos-who-1919 + works/index); all already linked above; verified-saturated, nothing new absorbable.
 - Corpus re-grep (deepen-x slice 10060900-3, 2026-10-07): fresh 黃啟仁/Charles Huang grep of works/articles/sources/events/topics — hit set unchanged (OJ#33-eng incl. his own 01/2018 MFCF→TAF account, mystories-749, whos-who-1919, works index). Org-name sweep 台美協進會 hits (ff160, taf-summer-conference, activities-of-taf, etc.) do not name him personally. Verified-saturated; SKIP-content, nothing new absorbable, no conflicts.
 <!-- deepen-x slice 10071520-2 (2026-10-09): deepened — fresh 黃啟仁/Charles Huang grep hit set unchanged (OJ#33-eng, mystories-749, whos-who-1919, works index); added vault cross-link to wife [[people/judy-huang|Judy Huang 陳東蘭]]'s existing page. No new community facts; no conflicts. -->
+- Corpus re-grep (deepen-x slice 10090900-22, 2026-10-10): fresh 黃啟仁/Charles Huang grep of works/articles/sources/events/topics — hit set unchanged (OJ#33-eng, mystories-749, whos-who-1919, sources index); all already linked above; verified-saturated, SKIP-content, no conflicts.
