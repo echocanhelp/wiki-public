@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-10
 ---
 # Rev. Thomas H. Chen (陳宏文牧師)
 
@@ -47,7 +47,7 @@ _No filled family fields on the TAH profile._
 - 2009-06 — 南灣台灣基督長老教會出版「設教二十周年暨陳宏文牧師榮退感恩禮拜紀念」專輯，與其南灣長老教會1989–2009牧養任期吻合（[[works/taiwaneseamericanhistory-org/610-e5-8d-97-e7-81-a3-e5-8f-b0-e7-81-ba-e7-9d-a3-e9-95-b7-e8-80-81-e6-9|TAH #610]]）。
 - 2016-02 — 具名「陳宏文」之〈堅韌的愛－王幸男夫人〉人生紀錄（[[works/taiwaneseamericanhistory-org/mystories407|TAH #407]]）。HOLD: 該文作者是否即本頁牧師，僅具名相符，未確認。
 - 灣區協志會／蓬萊歌劇團紀錄：「陳宏文會長」在蓬萊歌劇團排演「火燒法統記」期間擔憂劇本來不及完成、私下問編導能否如期上演，顯示其時任協志會會長並關注團務（[[works/taiwaneseamericanhistory-org/ourjourneys39|Our Journeys 39]]）。HOLD: 此任會長與本頁明州／南灣牧者是否同一人未確認，不自動合併。
-- 1979-12-28 — 灣區紀錄：施明德太太艾琳達被驅逐出境抵達舊金山機場、百餘同鄉迎接並扭送監視之女特務，女特務控訴在場同鄉後撤回；被指名者含陳宏文（[[works/taiwaneseamericanhistory-org/ourjourneys38|Our Journeys 38]]）。陳宏文亦列名歷任灣區協志會會長中的黑名單人物（[[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys 106]]）。HOLD: 此1979灣區時期的陳宏文與本頁明州／南灣牧者是否同一人未確認，不自動合併。
+- 1979-12-28 — 灣區紀錄：施明德太太艾琳達被驅逐出境抵達舊金山機場、百餘同鄉迎接並扭送監視之女特務，女特務控訴在場同鄉後撤回；被指名者含陳宏文（[[works/taiwaneseamericanhistory-org/ourjourneys38|Our Journeys 38]]；英文版同案記述點名 Thomas H. Chen 為被訴者之一，[[works/taiwaneseamericanhistory-org/ourjourneys38-eng|Our Journeys 38 (EN)]]）。陳宏文亦列名歷任灣區協志會會長中的黑名單人物（[[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys 106]]）。HOLD: 此1979灣區時期的陳宏文與本頁明州／南灣牧者是否同一人未確認，不自動合併。
 
 ## Sources
 - [TAH #2133 encyclopedia: 2133. Rev. Thomas H. Chen 陳宏文牧師](https://taiwaneseamericanhistory.org/whos-who-2133-thomas-h-chen/)
@@ -66,6 +66,8 @@ _No filled family fields on the TAH profile._
 - Corpus re-check (2026-09-22, deepen-x slice 09211400-1, vault-only): grep of works + articles for 陳宏文 / Thomas H. Chen returns the identical hit set (#307, mystories407, ourjourneys38, #610, ourjourneys106, whos-who-2133) already absorbed above; no new absorbable material; both灣區-person HOLDs stand.
 - Retirement commemorative album record: [[works/taiwaneseamericanhistory-org/610-e5-8d-97-e7-81-a3-e5-8f-b0-e7-81-ba-e7-9d-a3-e9-95-b7-e8-80-81-e6-9|TAH #610 設教二十周年暨陳宏文牧師榮退感恩禮拜紀念]], 2009-06 — matches the 1989–2009 南灣長老教會 tenure in the employment table.
 - Disambiguation: corpus record [[works/taiwaneseamericanhistory-org/307-thomas-chen-e9-99-b3-e7-a7-8b-e8-b2-b4201502|TAH #307 Thomas Chen 陳秋貴]] is a different Thomas Chen (陳秋貴); not merged.
+- English counterpart of the 1979 airport case: [[works/taiwaneseamericanhistory-org/ourjourneys38-eng|Our Journeys 38 (EN), TAFNC Thirty Year Review]] names "Thomas H. Chen" among the accused (Tu Chen, Winston H. Chen, Fu-Mei Chang, Thomas H. Chen, Yung-hao Hsieh) — same event as ourjourneys38 ZH; identity HOLD with the 明州／南灣牧師 stands.
+- Corpus re-check (2026-10-10, deepen-x slice 10081500-12, vault-only): ZH+EN grep across works/articles/sources/events/topics — new hit set adds only [[works/taiwaneseamericanhistory-org/ourjourneys38-eng|Our Journeys 38 (EN)]] (absorbed above) and [[works/taiwaneseamericanhistory-org/ota-275|OTA #275 Thomas Chen 陳秋貴]], whose Subjects list carries a rev-thomas-h-chen link though its body is the 陳秋貴 record — likely a mis-subject link on that work page; HOLD, not absorbed. All other hits identical to prior re-checks; both灣區-person HOLDs stand.
 
 <!-- TJJ-A10010400-1: verified 2026-10-05 — wave-2 re-check of slice 10010400-1 article ff4731d4 台灣介心靈日228-77週年紀念音樂會影音全集 (2024-03-04): subject link re-checked vs 正文, real, no wrong/spurious links; 2024-02-28 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
