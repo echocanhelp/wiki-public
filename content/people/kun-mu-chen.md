@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-09
 ---
 # Prof. Kun-Mu Chen (陳坤木博士)
 
@@ -40,7 +40,9 @@ Director of Electrical Engineering Research Department
 - **Father of the Taiwanese American softball game.** Organized the first T.A. softball team at the University of Michigan in 1960, per the community record — [[works/taiwaneseamericanhistory-org/15-softball-team-university-of-michigan-the-first-softball-team-organized-by-pro|Softball Team / University of Michigan / 1960]] and [[works/taiwaneseamericanhistory-org/274-e9-99-b3-e5-9d-a4-e6-9c-a8-e6-95-99-e6-8e-88-prof-kun-mu-chen-the-father-of-|陳坤木教授 — The father of T.A. Softball game]]. HOLD: team located at University of Michigan (1960) in the works, while his employment record places him at Michigan State from 1964 — campuses not reconciled, no auto-merge.
 - **Movement memoir portrait (全美會 movement history).** Our Journeys #185 recalls him as the 60年代留美世代之中的杏壇聞人：1955 畢業台大電機、1957 以魯氏獎學金入哈佛、1960 取得博士後任教密西根大學（University of Michigan, Ann Arbor）學術研究 40 餘年、指導出 46 位博士；每逢週末照顧台灣留學生、購買壘球用具與學生同打球、賽後共享晚餐「共敘鄉愁」，被推為「北美洲台灣壘球之父」，台灣壘球由此在校園茁壯為台美人唯一的全國性球類活動 — [[works/taiwaneseamericanhistory-org/ourjourneys185|Our Journeys #185（全美會運動史・台美壘球）]]. Memoir places his post-1960 faculty post at University of Michigan, siding with the works record in the campus HOLD above; employment table's Michigan State entry retained unresolved.
 - **Biography in the corpus:** [[works/taiwaneseamericanhistory-org/111-e9-99-b3-e5-9d-a4-e6-9c-a8-e6-95-99-e6-8e-88-e5-82-b3-e8-a8-98-e9-99-b3-e6-b|111. 陳坤木教授傳記 / 陳洵洵]] (relationship of author 陳洵洵 to the family not established).
-- （deepen-x slice 09150400-27 覆核 2026-09-15：重抓 works+articles，命中集合與既往 pass 相同（ourjourneys76/76-eng、ourjourneys162-eng、作品 #15、#274、#111），全部已吸收並連結於上方，無新材料。）
+- **Named in the first national Taiwanese directory.** 陳希寬's memoir of compiling the first 《全美台灣同鄉通訊錄》 (1966–67, organized from Manhattan, Kansas via the Kansas Formosan Group and UFAI) lists him among the Michigan contributors who supplied names and addresses — [[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys #58（回憶編印第一本全美台灣同鄉通訊錄）]]. Places him in the movement's first nationwide contact network by 1966-67.
+- **Harvard "first" and doctoral productivity (TAH record works).** Work #16 records him as 哈佛大學電機博士第一人 (first Harvard Ph.D. holder in Electric Engineering, 1960) — [[works/taiwaneseamericanhistory-org/16-kun-mu-chen-e9-99-b3-e5-9d-a4-e6-9c-a8-e6-95-99-e6-8e-88-first-ph-d-holder-of|TAH work #16]]; consistent with the employment/education table (Harvard Ph.D. 1960). Work #14 credits him with producing the most Ph.D. graduates (57) at Michigan State University — [[works/taiwaneseamericanhistory-org/14-kun-mu-chen-e9-99-b3-e5-9d-a4-e6-9c-a8-e6-95-99-e6-8e-88-produce-most-ph-d-de|TAH work #14]]. HOLD: 57 Ph.D. (work #14, Michigan State) vs 46 指導出博士 (Our Journeys #185 memoir) — counts not reconciled; also #17 dates "Organizer of the First Softball Team" to **1981** ([[works/taiwaneseamericanhistory-org/17-prof-kun-mu-chen-e9-99-b3-e5-9d-a4-e6-9c-a8-e6-95-99-e6-8e-88-organizer-of-th|TAH work #17]]) vs 1960 in works #15/#274 — retain both, no auto-merge.
+- （deepen-x slice 10081018-26 覆核 2026-10-09：重抓 works+articles+sources+events+topics，命中 17 檔；新增 ourjourneys58 名單、work #16/#14/#17 已吸收並 wikilink；work #89/#17/whos-who-61/senior-17 為同人的 record stubs 無新內文。兩處 HOLD 如上。）
 
 ## Family
 
