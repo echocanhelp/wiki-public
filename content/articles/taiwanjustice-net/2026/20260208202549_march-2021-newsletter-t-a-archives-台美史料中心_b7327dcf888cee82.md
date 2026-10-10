@@ -34,3 +34,4 @@ There are 31 new subjects collected in February and the total posts are 9521.
 - [[people/edgar-chun-yi-lin|林俊義]] — mentioned in this record
 
 <!-- TJJ-A10060400-14: verified 2026-10-07 — Subjects links re-checked vs 正文: yung-hwa-hsu（許永華撰由陳文成紀念基金會創立談起見於正文）、adrian-lin/miaw-shang-su-lin（Ken Lee「不怕死的病西施」蘇妙香與林宣緒Adrian Lin婚事記述見於正文）、kin-ko（柯金寅撰緬懷楊教授國雄兄見於正文）、edgar-chun-yi-lin（林俊義Edgar Lin活出淋漓盡致的生命自述見於正文）均真實提及，無錯鏈、無虛鏈；楊國雄見於正文但未列subject；dated facts 已在庫 — saturated. -->
+<!-- TJJ-A10090501-16: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-16 article b7327dcf888cee82 (台美史料中心 March 2021 Newsletter, TJJ 2021-02-28): all 5 subject links (yung-hwa-hsu / adrian-lin / kin-ko / miaw-shang-su-lin / edgar-chun-yi-lin) re-checked vs 正文 this attempt — 許永華撰由陳文成紀念基金會創立談起、Ken Lee「不怕死的病西施」蘇妙香與林宣緒婚事、柯金寅緬懷楊國雄、林俊義活出淋漓盡致的生命自述 — all real mentions, no wrong/spurious links; dated facts w/ article wikilink already in From the record — saturated, no new material. -->
