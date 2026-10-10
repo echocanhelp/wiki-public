@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Symeon Woo (吳西面)
 
@@ -53,9 +53,11 @@ last_reviewed: 2026-09-25
 - **TACL 籌備顧問（1984–85）** — At the 1984-12-1 round table hosted by SCTAI president 沈英忠 at a Holiday Inn near Chinatown, he was one of the twelve 同鄉 who agreed to revive the 台美公民協會 (TACL) preparatory committee: [[works/taiwaneseamericanhistory-org/ourjourneys272|TAH #272 台美公民協會的成長：從孕育到發芽 / 周實]]. The published consultant roster of the 台美公民協會籌備委員會 (台灣公論報 #369, 1985-04-15) lists him by name alongside 丁昭昇、王桂榮、蕭泰然 et al.: [[works/taiwaneseamericanhistory-org/ourjourneys186|TAH #186 台美公民協會簡介]], English roster at [[works/taiwaneseamericanhistory-org/ourjourneys186-eng|TAH #186 (EN)]]; the league itself: [[organizations/taiwanese-american-citizens-league|TACL]].
 - **TUF 首任南加州會長（1985）** — Co-initiated the Southern California 台灣人聯合基金會 with 林衡哲 et al., the fund-raising effort that led to founding 太平洋時報: [[works/taiwaneseamericanhistory-org/ourjourneys294|TAH #294]], [[works/taiwaneseamericanhistory-org/270-e5-90-b3-e8-a5-bf-e9-9d-a2-sei-mi-wu-e7-ac-ac-e4-b8-80-e4-bb-bb-e5-8d-97-e5-|TAH #270]].
 - **TASA／鶴園 Flamingo Garden（1984–88）** — Invited by third president 賴高安賜 onto the ~20-person advisory group that built the El Monte senior center and apartments; his recorded words at the 1988 opening: "The purpose of constructing the Flamingo Garden was not to make a profit, but to take care of the Taiwanese elders of our community. The Flamingo Garden and TASA are like hands and feet; we should help each other." ([[works/taiwaneseamericanhistory-org/ourjourneys173-eng|TAH #173 EN]], [[works/taiwaneseamericanhistory-org/ourjourneys173|TAH #173 ZH]]).
-- **太平洋時報創辦人／首任發行人** — His own memoir on the paper's turbulent early years: [[works/taiwaneseamericanhistory-org/ourjourneys211|TAH #211 太平洋時報的崎嶇前途 / 吳西面]].
+- **太平洋時報創辦人／首任發行人** — His own memoir on the paper's turbulent early years: [[works/taiwaneseamericanhistory-org/ourjourneys211|TAH #211 太平洋時報的崎嶇前途 / 吳西面]]. As 董事長 of the 25-shareholder paper he appointed pharmacist 鄭炳全 as 首任社長 — confirmed in 鄭炳全's own 旅美五十周年 memoir (2020-09-04): [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|鄭炳全 旅美五十周年]].
+- **1984-12-1 座談會 — English record** — 周實 (Frank Chou)'s English account of the round table names him among the twelve attendees convened by Y.C. Shen (沈英忠, SCTAI), and details the 12/13 first preparatory-committee meeting at Ahhee Hsu (許阿妹)'s office (five members: Ho Rui Hsu, Wen-chih Chang, Hsi-yuan Wu, Chia-yu Yang, and Chou himself): [[works/taiwaneseamericanhistory-org/ourjourneys272-eng|TAH #272 (EN) The Growth of TACL / Frank Chou]].
+- **追思文** — 李淑櫻 (Nami Lee) 的追思文「緬懷西面兄」: [[works/taiwaneseamericanhistory-org/mystories133|TAH #133 緬懷西面兄 / 李淑櫻]]（英文版 [[works/taiwaneseamericanhistory-org/133-remembering-simeon|Remembering Brother Simeon]]）；吳瑞惠「想念大哥」見上列 TAH #132。另：陳隆「追憶耿直豪爽默默奉獻的太平洋時報創辦人吳西面」（TJJ 陳隆開講專欄，2019-03-10）見於語料庫類別索引 [[articles/taiwanjustice-net/2020/20200628115510_category_history_page_3_61442bcc611b8510|history 類別頁]]，全文未入庫，僅存目。
 
-HOLD: no conflicts found between corpus records; the tah-tables 安星貿易公司 (founder) entry is the sole employment record and no corpus source contradicts it. Nothing published.
+HOLD: mystories133 刊載日期衝突 — 中文版 Timeline 記 2014-10-20 published，英文版標題記 11/2018，兩說並存未併。除此之外 corpus records 無衝突；the tah-tables 安星貿易公司 (founder) entry is the sole employment record and no corpus source contradicts it. Nothing published.
 ## Connected in the Vault（deepen pass 2026-09-10）
 
 - 太平洋時報創辦人／首任發行人：[[works/taiwaneseamericanhistory-org/project-09-pacific-times||TAH project 太平洋時報 Pacific Times]]、[[works/taiwaneseamericanhistory-org/31-sei-mi-wu-e5-90-b3-e8-a5-bf-e9-9d-a2-the-first-publisher-of-pacific-times-e5-||TAH #31 The first publisher of Pacific Times 創辦人 / 1987/06]]；本人論報社歷劫：[[works/taiwaneseamericanhistory-org/ourjourneys211||TAH #211 太平洋時報的崎嶇前途 / 2016/03]]。所任命的首任社長鄭炳全：[[people/zheng-bingquan||鄭炳全]]（其頁存 1986 年創刊回憶）。
