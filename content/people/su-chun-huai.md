@@ -114,3 +114,7 @@ Pages that link to **su-chun-huai** (su-chun-huai):
 <!-- TJJ-A09240800-10: verified 2026-09-25 — subject links in slice 09240800-10 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10030400-3: verified 2026-10-05 — wave-2 re-check of slice 10030400-3 article 48352159 (紐約台灣會館交接 CNA 報導, 2021-04-07): 蘇春槐接任理事長及永續經營基金記述再確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2021-04-07 條目已在庫 — saturated, no new material. -->
 <!-- TJJ-A10060400-13: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-13 articles (0832558e3b4e5ac7 台美史料中心 March 2021 Newsletter, 2021-02-28 / c082b03671e7c8ee 慈林海內外人權救援聯展, 2024-06-08 / 5f12408ab340f912 楊呈偉返台夢幻愛程, 2022-08-08 / 483521594640641a 紐約台灣會館蘇春槐接理事長, 2021-04-07): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 2020-08-07 — 中央社記者紐約專電人物特寫記述：其女蘇姿丰「1969年生於台南，3歲時跟著父親蘇春槐移居美國」——父女關係與赴美時間進入公共報導紀錄（[[articles/taiwanjustice-net/2026/20260121003520_蘇姿丰獲美半導體協會大獎_張忠謀後華裔第2人_4779b4e7bc06941e|TJJ 存檔報導, 快照 2026-01-21／特寫刊 2020-08-07]]）。
+
+<!-- TJJ-A10090901-7: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-7 article 4779b4e7bc06941e (2026-01-21 快照, 正文含 2020-09-21 Noyce 獎報導＋2020-08-07 WSJ 特寫兩節) read fresh this attempt: 本頁未列於該文 subject, 惟正文兩節皆記「蘇姿丰…3歲時跟著父親蘇春槐移居美國」, 提及為真且與本頁生平（生於台南、女兒蘇姿丰 AMD 執行長）相符, 無錯鏈、無虛鏈; 2020-08-07 條目本次補入 — deepened, 1 new dated fact. -->
