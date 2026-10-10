@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Cho-Liang Lin (林昭亮)
 
@@ -35,12 +35,15 @@ Absorbed from vault-internal works (no web):
 
 - **1992-11-13** — World premiere of [[people/tyzen-hsiao||Tyzen Hsiao (蕭泰然)]]'s Violin Concerto in D at the San Diego symphony hall; Lin wrote afterward that the concert "was the realization of a personal dream" (per [[works/taiwaneseamericanhistory-org/ourjourneys269]]).
 - **2001-02-10** — Performed the same concerto with the Akron Symphony Orchestra (conductor Ya-Hui Wang 王雅蕙) at E. J. Thomas Performing Arts Hall, Akron, Ohio, before 400+ Taiwanese audience members — described by 林衡哲 as the first overseas concert where conductor, soloist, and composer were all Taiwanese. See [[works/taiwaneseamericanhistory-org/concert-by-akron-symphony-orchestra-and-violent-cho-liang-lin-akron-oh-on-021120]] and [[works/taiwaneseamericanhistory-org/ourjourneys269]].
+- **1990** — Taiwan Cultural Night (台灣文化之夜, ~700 attendees): his first performance before a Taiwanese-American audience, accompanied by pianist 施大偉 — performed 蕭泰然's 《台灣頌》 for the first time to an audience, plus Kreisler, 馬思聰's 《跳龍燈》, and Ravel's 《吉普賽之歌》. At this event Tyzen Hsiao first met Lin and presented him with the Violin Concerto, which Lin told Hsiao the next day was "the most beautiful violin concerto an Easterner could write" — the encounter that led directly to the 1992-11-13–15 world premiere with the San Diego Symphony under Japanese conductor 大山平一郎. Per [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]].
+- **1992–** — Involved in the 「台灣名家演奏系列」 launched in 1992 with 吳澧培's sponsorship (opening recital by 胡乃元; the series later hosted 陳慕融, 蘇顯達, and others) — corroborates the OJ #287 account of the Los Angeles series. Per [[works/taiwaneseamericanhistory-org/ourjourneys294|Our Journeys #294]].
 
 ## Timeline
 - 1960 — 出生於新竹 (born Hsinchu, Taiwan)
 - 1975 — The Juilliard School — Violin
+- 1990 — 台灣文化之夜 (Taiwan Cultural Night): first performance for a Taiwanese-American audience, ~700 attendees; first meeting with 蕭泰然, per [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]]
 - 1991– — Instructor, The Juilliard School
-- 1992-11-13 — World premiere of [[people/tyzen-hsiao|Tyzen Hsiao (蕭泰然)]]'s Violin Concerto in D, San Diego symphony hall
+- 1992-11-13–15 — World premiere of [[people/tyzen-hsiao|Tyzen Hsiao (蕭泰然)]]'s Violin Concerto in D, San Diego Symphony (conductor 大山平一郎), San Diego symphony hall
 - 2001– — Music Director, La Jolla Music Society SummerFest
 - Artistic Director — Hong Kong International Chamber Music Festival; National Taiwan Symphony Orchestra's Youth Music Summer Camp
 - Performer — Chamber Music Society of Lincoln Center, Aspen Music Festival, Santa Fe Chamber Music Festival, Beijing Music Festival
@@ -72,6 +75,11 @@ Facts already present in vault pages citing Cho-Liang Lin (no new sources):
 - **2016-12-12** — Concert with the Taiwanese National Symphony Orchestra sponsored by the Taiwan Center / LA in Costa Mesa, CA, per [[works/taiwaneseamericanhistory-org/important2016-37|TAH #37]].
 - **Chamber collaboration** — Cited as a collaborator in pianist 王佩瑤's TAH biography ([[people/tah-p-0c2b755a64|王佩瑤]]).
 - The 2001-02-10 Akron performance was conducted by [[people/ya-hui-wang|Ya-Hui Wang (王雅惠)]].
+- **1990** — At 台灣文化之夜 (Taiwan Cultural Night), 林昭亮 was honored as 「第一位台灣人成名國際樂壇的小提琴家」 and gave his first performance for a Taiwanese-American audience; 蕭泰然 presented him the Violin Concerto that night, leading to the 1992 world premiere with conductor 大山平一郎, per [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]].
+- **2016-12-27** — The Akron 2001-02-10 concert is also catalogued as [[works/taiwaneseamericanhistory-org/concerts84|TAH #84]] (「Concert by Akron Symphony Orchestra and Violinist Cho-Liang Lin」) — same event as the ourjourneys269 account, no conflict.
+- **2014-11-30** — 李雪玟's report 「台美人名小提琴家林昭亮, 震撼內華達的一場演奏會」 recorded as [[works/taiwaneseamericanhistory-org/153-e5-8f-b0-e7-be-8e-e4-ba-ba-e5-90-8d-e5-b0-8f-e6-8f-90-e7-90-b4-e5-ae-b6-e6-9|TAH #153]] (2014 Nevada concert).
+- **1999-09** — Profile 「林昭亮-天籟的傳釋者」 by 晨曦, recorded as [[works/taiwaneseamericanhistory-org/70-e6-9e-97-e6-98-ad-e4-ba-ae-e5-a4-a9-e7-b1-9f-e7-9a-84-e5-82-b3-e9-87-8b-e8-80|TAH #70]].
+- **2015-02-10 / 2015-12-10 / 2018-09-12** — Who's Who / encyclopedia entries: [[works/taiwaneseamericanhistory-org/whos-who-289-cho-liang-lin|TAH #289]], [[works/taiwaneseamericanhistory-org/90-cho-liang-lin-e6-9e-97-e6-98-ad-e4-ba-ae-famous-violinist|TAH #90 "Famous violinist"]], [[works/taiwaneseamericanhistory-org/90-cho-liang-lin|TAH #90]].
 
 ## From the record
 
@@ -133,3 +141,5 @@ Facts already present in vault pages citing Cho-Liang Lin (no new sources):
 <!-- TJJ-A10070600-2: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10070600-2 article b4e27e98036e15d0 (會館台灣學校古典音樂欣賞・海頓/台灣人音樂家專場報導, 2016-06-06刊, 2024-05-22快照): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A100606005-b: verified 2026-10-09 — wave-2 link+deepen re-check of article 04f32b14d8cf8f12 (台灣會館會訊 #11, 2016-12-17刊): subject link re-checked vs 正文 this attempt (12/12 NSO 與林昭亮 Segerstrom Concert Hall 演出、會館共同主辦、董事黃群雁領軍), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A100607006-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 20240425083432_root_99aaa4abcb78ff6d (台美人台加人分類存檔 p2, 2024-04-25快照): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10080958-28: 2026-10-09 — fresh ZH+EN grep (林昭亮/Cho-Liang Lin) across corpus surfaced previously-unabsorbed material: OJ #301 (1990 台灣文化之夜 first US-TA performance + 蕭泰然 concerto handoff + 大山平一郎 link to 1992 premiere), OJ #294 (1992 台灣名家演奏系列 w/ 吳澧培 sponsorship), and catalog records TAH #84/#153/#70/#289/#90. Absorbed into Notable Performances, Timeline, and Vault records; no date/age conflicts found. -->
