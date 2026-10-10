@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Debra Liu (謝金朱)
 
@@ -48,3 +48,4 @@ Debra Liu (謝金朱) is listed in the TAH Foundation Who's Who Taiwanese Americ
 - Corpus re-grep (slice 10051143-5, 2026-10-06): fresh ZH+EN grep across works/articles/sources/events/topics — hit set identical (our-journeys-381, ourjourneys161, our-journeys-365, whos-who-2245); all already linked above; verified-saturated, nothing new absorbable.
 - Corpus re-grep (slice 10060900-1, 2026-10-07): fresh ZH+EN grep across works/articles/sources/events/topics — hit set identical (our-journeys-381, ourjourneys161, our-journeys-365, whos-who-2245); all already linked above; verified-saturated, nothing new absorbable.
 <!-- deepen-x slice 10071448-1 (2026-10-09): saturated re-verify — fresh ZH+EN grep (謝金朱 / Debra Liu) across works+articles+sources+events+topics — hit set identical (our-journeys-381, ourjourneys161, our-journeys-365, whos-who-2245); the 劉德華 tag hits are unrelated noise. All already linked above; verified-saturated, nothing new absorbable. SKIP-content. -->
+<!-- deepen-x slice 10090800-6 (2026-10-10): saturated re-verify — fresh ZH+EN grep (謝金朱 / Debra Liu) across works+articles+sources+events+topics — hit set identical (our-journeys-381, ourjourneys161, our-journeys-365, whos-who-2245, works/index, sources/taiwaneseamericanhistory-org); all already linked above; verified-saturated, nothing new absorbable. SKIP-content. -->
