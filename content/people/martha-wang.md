@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-10
 ---
 # Martha Wang (鄞美珠)
 
@@ -59,3 +59,4 @@ Corpus re-check 2026-09-26 (deepen-x slice 09251000-11): fresh ZH+EN grep — hi
 Corpus re-check 2026-09-26 (deepen-x slice 09260500-15): fresh ZH+EN grep — hit set unchanged (#64 mirror, ourjourneys58 roster line, mystories641, works index); all already linked and absorbed. Verified-saturated SKIP.
 Corpus re-check 2026-09-30 (deepen-x slice 09260854-16): fresh ZH+EN grep — hit set unchanged (#64 mirror, ourjourneys58 18-worker Manhattan roster line, mystories641, works index); all already linked and absorbed. Verified-saturated SKIP.
 Corpus re-check 2026-10-06 (deepen-x slice 10051340-12): widened grep 鄞美珠/Martha Wang/王康陸/Kang-Lu Wang across works+articles+sources+events+topics — 王康陸-side hits surfaced that were not previously linked from this page: 63. Kang-Lu Wang 王康陸 (TAH encyclopedia record) and 26. In memory of Dr. Kang-Lu Wang 王康陸博士生命禮讚 (photo-album memorial record, 2014-11-27), both now wikilinked under Role in the Community. Other Martha hits are different people (Martha Hsu 許秀聰 #1071/#137, Martha Vineyard 637) — correctly not linked. No conflicts to hold.
+Corpus re-check 2026-10-10 (deepen-x slice 10091400-10): fresh ZH+EN grep (鄞美珠 / Martha Wang / 美珠) across works+articles+sources+events+topics — hit set for 鄞美珠 unchanged (#64 mirror, ourjourneys58 18-worker Manhattan roster line, mystories641, ourjourneys334); all already linked and absorbed. Two new 美珠 matches (389. Prof Mei-Chu Wang Hsiao 王美珠教授, 1559. Prof. Mei-Chu Wang Hsiao 王美珠教授) are a different person — 王美珠 (economist, Univ. of Rochester Ph.D. 1967, NYU), not 鄞美珠 — correctly not linked. Verified-saturated SKIP.
