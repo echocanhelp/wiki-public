@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Dr. Tai-Cheng Chen (陳泰成博士)
 
@@ -64,8 +64,11 @@ Two further TAH story-corpus entries exist in the vault:
 - **1992–1993** — performed in the 「台灣名家演奏系列」 concerts in Los Angeles, the series launched in 1992 under 吳澧培's sponsorship (opening concert: 胡乃元 violin recital) and organized by a preparation committee led by Dr. 林衡哲, with 楊子淸 and 陳隆 as active committee members. Programs deliberately featured works by Taiwanese composers such as 蕭泰然 and 許常惠, aiming to introduce Taiwanese musicians and composers to US mainstream society — see [[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys #287 (黃東昇, 2017/05)]].
 - The 南加州台灣人聯合基金會 (TUF) history record lists him among the pianists invited to that ongoing series alongside 陳毓襄、葉綠娜、吳涵、劉孟捷 (violinists 林昭亮、陳慕融、蘇顯達; cellists 楊文信、范雅志、陳建安; vocalists 陳麗嬋、曾道雄) — [[works/taiwaneseamericanhistory-org/ourjourneys294|Our Journeys #294 — 南加州台灣人聯合基金會簡介 (2017/06)]].
 - **2014** — third TAH encyclopedia record in the vault: [[works/taiwaneseamericanhistory-org/81-taicheng-chen-e9-99-b3-e6-b3-b0-e6-88-90|TAH #81 — Dr. Tai-Cheng Chen 陳泰成 (2014)]]; also profiled in an interview by 李淑櫻 — [[works/taiwaneseamericanhistory-org/mystories127|My Stories #127 — 訪鋼琴家陳泰成 (2014)]].
+- **1989** — performed at the TUF 「台灣文化之夜」 concert (the year's music program featured the Juilliard piano doctorate Chen Tai-cheng, including US premieres of 馬水龍 works such as 《漁港素描》) — [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301 — 林衡哲, 南加州臺灣人聯合基金會的回顧與展望 (1986–1996, 2017/07)]].
+- **1992** — co-performed with soprano 王秋梨 (羅馬國立音樂學院) at a TUF 台灣文化之夜 during 吳澧培's presidency: Taiwan folk songs 《月夜愁》《阮若打開心內的門窗》《嘸通嫌台灣》《阿母的頭髮》 with Chen's piano accompaniment, in a program that also marked 彭明敏's imminent return to Taiwan after 22 years in exile — same source, [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]].
 
 Deepen 2026-09-14 (corpus sweep): no new biographical facts beyond the absorbed TAH #99/#111 text; community-performance and interview records above added from ourjourneys287/294, mystories127, and TAH #81.
+Deepen 2026-10-10 (corpus sweep): added the 1989 and 1992 TUF 「台灣文化之夜」 performances from ourjourneys301 (林衡哲's TUF history) — not previously on the page; 287/294 hits re-verified, no conflicts.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
