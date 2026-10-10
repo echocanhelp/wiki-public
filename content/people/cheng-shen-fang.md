@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-10
 ---
 # Cheng-Shen Fang (范振聲教授)
 
@@ -56,3 +56,5 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-09-30 (deepen-x slice 09260800-17): fresh ZH+EN re-grep of works/ + articles/ returned the identical hit set already absorbed and wikilinked above — no new community facts, no conflicts. SKIP: verified-saturated.
 
 - Corpus re-scan 2026-10-06 (deepen-x slice 10051143-30): fresh ZH+EN grep (范振聲 / Cheng-Shen Fang) across works/ + articles/ + sources/ + events/ + topics/ returned the identical hit set already absorbed and wikilinked above (ourjourneys76 + eng 創始大會會刊任命, ourjourneys-139 Houston circle, ourjourneys245 / our-journeys-379 十三屆夏令會環保講題, 135 全美台灣同鄉會簡介, TAH #286, #256 夢裡故鄉, works index). Whole-repo sweep adds only sibling-page echoes of the same facts — [[people/y-l-lin|林玉郎]] (1991 夏令會 roster), [[people/li-shun-lu|呂理順]] (same 139 Houston 連署名單), [[people/ruth-yeh|葉李麗貞]] (#379 program), [[people/ho-rui-hsu|許和瑞]] (officer list; the EN transcript there confirms "Cheng-Shen Fang as the journal editor", corroborating the 會刊 attribution above, no conflict to HOLD). No new community facts. SKIP: verified-saturated.
+
+- Corpus re-scan 2026-10-10 (deepen-x slice 10090500-28): fresh ZH+EN grep across all 5 corpus dirs returned the identical hit set already absorbed above, plus two surname-collision false positives checked and rejected: 范振修 (總統府資政/國策顧問 list, 2021 遴聘名單) and 范振宗 (前宜蘭縣長, 2024 柯美蘭競選站台) — different persons, NOT this page. No new community facts, no conflicts. SKIP: verified-saturated.
