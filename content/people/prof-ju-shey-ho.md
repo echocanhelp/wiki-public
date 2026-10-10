@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Prof. Ju-Shey Ho (何汝諧教授)
 
@@ -77,3 +77,5 @@ Accomplishment
 Deepen re-check 2026-09-14 (vault-only): re-read the cited vault records (#39/#285/#605 Who's Who, #428 得獎感言, #566 生涯自述, #1270, Monoculus 2011, #107 長青清單) — no further absorbable facts; TAH #1270 co-author Dr. Yu-Rong Cheng and CSULB have no vault pages, so no new wikilinks could be added without creating new pages.
 
 Deepen-x 2026-09-14 (slice 09141300-7): corpus grep found a new movement-record hit — [[works/taiwaneseamericanhistory-org/ourjourneys186|TAH #186 台美公民協會簡介]] (1985 籌備委員會顧問 roster), now absorbed into the Timeline above. Other hits (#39/#285/#428/#566/#605) were already linked.
+
+Deepen-x 2026-10-10 (slice 10090700-2): full corpus re-grep — all direct hits (#39/#285/#605 Who's Who, #428 得獎感言, #566 生涯自述, #107 長青教室, #186 公民協會顧問, Monoculus 2011) already linked; no new absorbable facts. New variant-name hit: 何汝蟄 appears in the 南區生活座談會 early-member roster in [[works/taiwaneseamericanhistory-org/ourjourneys212|TAH #212 生活座談會簡史 (劉天良, 2016-03)]] — HOLD: 何汝蟄 ≠ 何汝諧 (different given name; likely a typo in 劉天良's memoir but unconfirmed), not merged as a membership fact.
