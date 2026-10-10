@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Dr. Ching C. Shir (石清正博士)
 
@@ -65,7 +65,9 @@ Accomplishment
 - **編者／作者身分**：編有《臺灣協志會廿年回顧》（1994）與《三十而立：北加州同鄉聯合會成立三十周年特刊》（2003），並在其中發表〈聯合會三十年回顧〉（見 [[works/taiwaneseamericanhistory-org/our-journeys-357|TAH #357 何義麟：舊金山灣區臺灣人的社團活動與家國意識之形成]] 引文注 21、24、29）。
 - **協志會與讀書會**：1970 年前後與史丹佛任職的黃介山共同舉辦讀書會，為 1973 年台灣協志會（北加州）成立的前身；協志會在理事會中由本人代表（注 31 引本人訪談）。
 - **聯合會 1994 年內爭**：本人於聯合通訊發表〈聯合會章程修改之經過及報告〉，並代表協志會持有理事會一票；事件由時任會長 [[people/jiann-tsyh-ken-lin|林健次]] 記述，見 [[works/taiwaneseamericanhistory-org/ourjourneys142|TAH #142 1994年北加州台灣同鄉會聯合會的内部爭執]]。
-- **台灣會館共同創辦人**：與張信行、黃美星夫婦、陳德輝、邱俊邦、林典謨、翁嘉盛、施天墩、陳光博、李華林、張祿生等 2003 年 3 月在 Fremont 創立北加州台美人第一間「公厝」台灣會館，見 [[works/taiwaneseamericanhistory-org/ourjourneys53|TAH #53 台灣會館美夢成真（中文版）]] 及英文版 [[works/taiwaneseamericanhistory-org/ourjourneys53-eng|TAH #53 English]] — 與本页 employment 欄「Taiwan Center — Co-Founder」相互印證。
+- **台灣會館共同創辦人**：與張信行、黃美星夫婦、陳德輝、邱俊邦、林典謨、翁嘉盛、施天墩、陳光博、李華林、張祿生等 2003 年 3 月在 Fremont 創立北加州台美人第一間「公厝」台灣會館，見 [[works/taiwaneseamericanhistory-org/ourjourneys53|TAH #53 台灣會館美夢成真（中文版）]] 及英文版 [[works/taiwaneseamericanhistory-org/ourjourneys53-eng|TAH #53 English]]，會館籌備委員會成員名單亦見 [[works/taiwaneseamericanhistory-org/ourjourneys24|TAH #24 黃美星：北加州台灣會館的誕生]] — 與本页 employment 欄「Taiwan Center — Co-Founder」相互印證。
+- **聯合會長**：歷任北加州台灣同鄉會聯合會會長（黑名單名單列於第一屆陳都之後），見本人 2014 年撰文 [[works/taiwaneseamericanhistory-org/ourjourneys38|TAH #38 北加州台灣同鄉聯合會三十年回顧]] 及 [[works/taiwaneseamericanhistory-org/ourjourneys106|TAH #106 何文亮、莊峻華：台美人政治活動（中華民國黑名單）]]。後者並記本人名列國府黑名單——歷屆聯合會會長「都是國府黑名單上的榜上人物」。HOLD: 序次兩說——名單「經蔡文郁、石清正」似指第三任，本人自述三十年回顧未標明任期序。
+- **協志會前身讀書會（一手細節）**：1972 年 8 月 25 日多位同鄉在本人聖荷西住家舉行第一場專題座談會，專請史丹福研究員黃介山主講戶籍制度；因反響熱烈，眾人推舉本人与黃介山續辦，定為每月兩次，成為 1973 年協志會成立的前身。同年 4 月籌備委員會七人中本人与徐都共同起草章程，成立大會當選首屆董事。英文版見 [[works/taiwaneseamericanhistory-org/ourjourneys37-eng|TAH #37 English: Founding of the Taiwanese Alliance for Interculture]]。
 
 ## Deepen pass (2026-09-11)
 - 補上 vault 內既有本人記錄連結（#61、#296、個人收藏、#92 共同捐贈文物）。
