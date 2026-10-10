@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Taiwan Hakka Association for Public Affairs in North America (北美臺灣客家公共事務協會)
 
@@ -48,3 +48,7 @@ Same-movement (Hakka) pages in the vault, theme-linked only — no membership fa
 - 宗旨與任務：結合北美台灣客家人、協助台灣客家運動、爭取客家權益、延續客家語言文化、推展公共事務；任務四項——發展客家語言文化與權益、聯合海內外客家人及台灣各語系族群推展公共事務、特別法案研究与政策研擬、關心台灣客家人在北美權益。
 - 具體成果：成立後即與美洲台灣客家聯合會（前身全美台灣客家會）及台灣客協組團回台、共同發動一連串客家運動，促成國小母語教學（1993）、客家廣播電台（1994）、客家研究中心（1999）、客委會（2001）、客家學院（2003）、客家電視台（2003）相繼成立；並熱心參與台灣人/台美人愛台護台示威遊行（同前引 290）。
 - 另見 William Wei 對本會與美洲台灣客家聯合會（THAA）的簡介：[[works/taiwaneseamericanhistory-org/ourjourneys252|Our Journeys 252]]（英文版 [[works/taiwaneseamericanhistory-org/ourjourneys252-eng|252 (EN)]]）；本會《會訊》有 vault 書目頁：[[works/taiwaneseamericanhistory-org/publications1087|TAH #1087 — Newsletter 會訊（HAPA-NA，2016-12）]]，《台灣客協會訊》一名自此有連結。
+- 首任會長：陳秋鴻（Chiou-Hung Chen），1991 年出任本會（台灣客家公共事務協會）首任會長——見 [[works/taiwaneseamericanhistory-org/ff334|TAH #334（陳秋鴻，首任會長，1991）]]；與上文「籌備會由陳秋鴻擔任召集人」相符，補其首任會長身分。
+- 編年佐證：[[works/taiwaneseamericanhistory-org/ourjourneys110-eng|Our Journeys 110 (EN)]] 時間軸記「Nov. 1991 — Taiwan Hakka Association for Public Affairs in North America is established, President Chiou-hung Chen, California」，與本會 1991-11-01 成立、加州、首任會長陳秋鴻三點一致。
+- 本會《會訊》歷年書目（更新 2026-09-14 深讀備註「刊物於 vault 暫無獨立頁面」之舊述——現已有書目頁）：[[works/taiwaneseamericanhistory-org/731-e5-8c-97-e7-be-8e-e5-8f-b0-e7-81-a3-e5-ae-a2-e5-ae-b6-e5-85-ac-e5-85-b1-e4-b|TAH #731 — 1997 會訊]]、[[works/taiwaneseamericanhistory-org/732-e5-8c-97-e7-be-8e-e5-8f-b0-e7-81-a3-e5-ae-a2-e5-ae-b6-e5-85-ac-e5-85-b1-e4-b|TAH #732 — 1999/02 會訊]]、[[works/taiwaneseamericanhistory-org/733-e5-8c-97-e7-be-8e-e5-8f-b0-e7-81-a3-e5-ae-a2-e5-ae-b6-e5-85-ac-e5-85-b1-e4-b|TAH #733 — 1999/12 會訊]]、[[works/taiwaneseamericanhistory-org/734-e5-8c-97-e7-be-8e-e5-8f-b0-e7-81-a3-e5-ae-a2-e5-ae-b6-e5-85-ac-e5-85-b1-e4-b|TAH #734 — 2005 會訊]]、[[works/taiwaneseamericanhistory-org/publicationmagazines959|TAH #959 — 2006 會訊]]。
+- 另有一筆以本會為主題的記錄頁：[[works/taiwaneseamericanhistory-org/hapa-na|TAH — Taiwan Hakka Association For Public Affairs In North America（2016-04-11）]]。
