@@ -114,6 +114,7 @@ He left behind two books, including his memoirs published in 1999. His three son
 - 2015 — Profile piece "第二任會長王桂榮 將公會會務發揚光大" on his leadership of the Taiwan Hotel-Motel Association ([[works/taiwaneseamericanhistory-org/344-e7-ac-ac-e4-ba-8c-e4-bb-bb-e6-9c-83-e9-95-b7-e7-8e-8b-e6-a1-82-e6-a6-ae-e5-b|Our Journeys #344, 2015-10]]).
 - 2014 — 林衡哲's Taiwan Center history records that Kenjohn Wang "generously donated the entire train": the Wang family donated its entire 20,000+ sq ft Rosemead property; first preparatory meeting 1998-02-19, Center opened for business 1998-06-12, with 吳澧培 as preparatory-committee convener — corroborated by the 2020 TJJ TASF notice ([[works/taiwaneseamericanhistory-org/ourjourneys29-eng|Our Journeys #29]]).
 - 2016 — 民報 editorial "追憶一個台美人的奮鬥傳奇～王桂榮" commemorating his life ([[works/taiwaneseamericanhistory-org/mystories449|mystories #449, 2016-07]]).
+- 2020-06-16 — A TASF/TJJ press release for the Student Covid-19 Relief Scholarship Program records the late OCAC commissioner (故僑務委員) 王桂榮 (Ken John Wang) as the 愛台灣的 donor whose property gift started the 大洛杉磯台灣會館基金會 in 1998 — the foundation that co-launched the scholarship with TASF and TACL ([[articles/taiwanjustice-net/2020/20200622034426_2020_06_16_給台美人學生的-tasf-covid-19-疫情紓困獎學金接受申請_162effa713237818|TJJ, 2020-06-16]]).
 
 ## Network
 
