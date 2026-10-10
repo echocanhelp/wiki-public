@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # Dr. Ming Hong Chow (周明宏博士)
 
@@ -112,3 +112,6 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10070900-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-3 article d2dbfe220e437602 (2017美東台灣人夏令會報導, twin 29faf54b): subject link re-checked vs 正文 this attempt, real (周明宏以TAC/EC代理理事長身分7/2揭幕、7/4交接確認見於正文), no wrong/spurious links; 2017-07 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607003-b: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607003-b article 29faf54b8c9e2d10 (2017年美東台灣人夏令會報導／楊遠薰, 2021-12-05快照): subject link re-checked vs 正文 this attempt, real (周明宏以TAC/EC代理理事長身分與召集人簡明子7/2致歡迎詞揭幕、7/4交接會旗確認見於正文), no wrong/spurious links; 2017-07 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## Deepen-x sweep (slice 10090315-14, 2026-10-10)
+- 全語料再 grep（周明宏／Ming Hong Chow／Ming-Hong Chow／周明弘，works+articles+sources+events+topics 五目錄）：命中 10 檔——TAH #140、#589、works 索引、sources/taiwaneseamericanhistory-org、Our Journeys #138、2017 TAC/EC 報導兩存檔副本（29faf54b／d2dbfe22）、《好國好民》放映記錄兩存檔副本（1f001897／b5e568ec）、2019-09-04 挺港聯合聲明（53455d7e）——全部為本頁已吸收出處，無新增事實 — SKIP，已飽和。
