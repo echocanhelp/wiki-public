@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Wen Jer Chen (陳文哲)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-10-09
 <!-- deepen-x slice 10051143-3 (2026-10-06): saturated re-verify — fresh ZH+EN grep (works/articles/sources/events/topics) hit set unchanged (whos1402, mystories484, works index); all absorbed above. SKIP-content. -->
 <!-- deepen-x slice 10060900-3 (2026-10-07): fresh ZH+EN grep (works/articles/sources/events/topics) — hit set unchanged (whos1402, eulogy mystories484, works index); mentor sweep Sansaricq returns only mystories484 (already linked); 2026 news-tag 文哲 hits remain substring noise. Verified-saturated; SKIP-content, nothing new absorbable, no conflicts. -->
 <!-- deepen-x slice 10071520-2 (2026-10-09): deepened — fresh ZH+EN grep hit set unchanged (whos1402, mystories484, works index; Sansaricq sweep = mystories484 only). Family section now wikilinks the three existing vault pages [[people/patsy-fang-chen|Patsy Fang Chen]], [[people/wendy-fang-chen-tilp|Wendy Fang Chen Tilp]], [[people/dr-justine-fang-chen|Dr. Justine Fang Chen]] — reciprocal links verified present on all three children's/spouse's pages. Corpus content saturated. -->
+<!-- deepen-x slice 10091414-29 (2026-10-10): fresh ZH+EN grep (陳文哲/Wen Jer Chen/文哲) across works/articles/sources/events/topics — hit set unchanged (whos1402, eulogy mystories484, works index; 2026 taiwanjustice tag files remain 文哲 substring noise, excluded). Verified saturated; SKIP-content, nothing new absorbable, no conflicts. -->
