@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-09
 ---
 # Ruth Yeh (葉李麗貞)
 
@@ -55,6 +55,8 @@ Absorbed from the profile text, Employment table, and cited TAH encyclopedia ent
 ## Role in the Community
 - Absorbed from the TAH memoir corpus ([[works/taiwaneseamericanhistory-org/our-journeys-379|TAH Our Journeys #379]]): at the 東南夏令 gathering she led a 婚姻生活座談 (marriage-life discussion session), recalled by the author as one of the program's richly attended highlights alongside lectures by 魚夫, 李永熾, 范振聲, 江蓋世 and 黃文英 — community teaching, not just clinical practice.
 - Her family-therapy advocacy ran through the Taiwanese-American community press and publishing: the 路德信箱 column ([[works/taiwaneseamericanhistory-org/ruth-mail-box|路德信箱, 台灣公論報]]) and her 2010 book [[works/taiwaneseamericanhistory-org/107-e6-88-90-e5-8a-9f-e7-9a-84-e6-ba-9d-e9-80-9a-e4-b8-80-e5-be-9e-e5-ae-b6-e5-b|成功的溝通—從家庭開始]].
+- Her 路德信箱 columns were reused as seed material for the 台灣公論報 婦女信箱 advice column: when the new column's organizer canvassed experts and guarantors, 葉李麗眞 agreed to supply her old 路德信箱 drafts to launch it ([[works/taiwaneseamericanhistory-org/ourjourneys79|Our Journeys #79]]) — community institution-building through the movement press.
+- Family/community nexus: her husband 葉國勢 hosted the first 鄒型美南台灣人夏令營 (1976-04, Hilltop Reservoir near Houston, ~100 attendees; [[works/taiwaneseamericanhistory-org/ourjourneys318|Our Journeys #318]]) and served as the fourth president of 全美會 (1976-09–1978-12, succeeded by 莊承業; [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys #76]]); he also published his own memoir [[works/taiwaneseamericanhistory-org/my-stories-708|黑名單故事–一個基督徒的良心 (2019)]] and is profiled in [[works/taiwaneseamericanhistory-org/whoswho1122|TAH Who's Who #1122]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
