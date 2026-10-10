@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-10
 ---
 # H. F. Josephine Huang (黃河芬)
 
@@ -88,3 +88,5 @@ last_reviewed: 2026-09-23
 <!-- TJJ-A100607006-d: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607006-d article b1d58af16c0a5e5b (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, 2021-06-16快照): subject link re-checked vs 正文 this attempt, real (黃河芬 列名共同發起人清單, 漢名與本頁標題相符), no wrong/spurious links; 2021-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10071400-1: verified 2026-10-09 — wave-2 link+deepen re-check of article 80c0a825a7a661b6 (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, 2025-11-08快照): subject link 黃河芬 re-checked vs 正文 this attempt (黃河芬 列名共同發起人清單, 漢名與本頁標題相符), real, no wrong/spurious links; 2021-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- deepen-x slice-10081300-3: verified 2026-10-10 — fresh ZH+EN+variant re-grep (黃河芬/黄河芬/Josephine Huang) across all 5 corpus dirs: hit set identical (ourjourneys112 圓桌會議輪流主持, TAH #1167, TA.org Pew 聲明, TJJ WHA×2＋祝賀蕭美琴＋鄭寶鼎悼念文, index) — all already wikilinked; other 'Josephine' hits (Beethoven letters, SCMP Josephine Ma, Judge Josephine Stanton, Josephine Yang, Josephine Pan, Josephine Cheng) are distinct persons, not this subject — saturated, 0 new material, 0 links added. -->
