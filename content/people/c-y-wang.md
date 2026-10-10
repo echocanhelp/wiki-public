@@ -70,3 +70,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10070700-8: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-8 article 1f001897255f71a7 (《好國好民》全美放映座談會公告, 2011-11-08): subject link re-checked vs 正文（王振源列名製片及美國區協調人確認見於正文）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-15: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-15 article b5e568ec43e787f1 (《好國好民》Dear Taiwan美國巡迴放映座談會, 2011-10-15): 王振源列名製片（與陳麗貴）及美國區協調人 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090501-7: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-7 article 1f001897255f71a7 (《好國好民》美國各地放映座談會公告, 2011-11-08): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
