@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Charles Chiang (江昭儀)
 
@@ -39,6 +39,9 @@ last_reviewed: 2026-09-25
 - 1984 — led the 南加州台灣同鄉會回台訪問團 (9 persons) as 領隊, breaking the blacklist-era return ban. The nine who went were 蔡明憲、歐煌坤、李英男、林心智、張雲彥、許英智、江昭儀、蔡淑敏、謝清志; 謝清志 was the delegation's spokesperson, who records his wife's insistence on joining: 「無論發生什麼事, I will be there!」 ([[works/taiwaneseamericanhistory-org/ourjourneys66|66. 南加州同鄉會組團回台 – 1984突破黑名單, 謝清志, 2014-11]]).
 - 1985-04 — named among the consultants (顧問) of the 台美公民協會 (TACL) Preparatory Committee, alongside 丁昭昇、王桂榮、王慶滄 et al. (台灣公論報 #369, 1985-04-15) ([[works/taiwaneseamericanhistory-org/ourjourneys186|Our Journeys 186]] / [[works/taiwaneseamericanhistory-org/ourjourneys186-eng|EN]]).
 - 1987 — one of the 19 members of the working committee of the 「Joint Committee of Taiwanese Americans for 1990 U.S. Census」 convened out of TACL, which lobbied the Census Bureau's minority advisory committee and Congress ([[works/taiwaneseamericanhistory-org/ourjourneys253|253. 1990年美國人口普查 — TACL的角色, 周實, 2016-09]]).
+- c. 1992 — returned to Taiwan and, per 陳文石's memoir, asked him to arrange a meeting with 侯貞雄 (then concurrently chairman of 台翔) to warn against 台翔's planned ~US$2 billion, 40% investment in 麥克道格拉斯 (McDonnell Douglas); as a US CPA with friends close to aerospace-industry finances, Chiang had intelligence that the company's finances were unsound. The resulting dinner led 侯貞雄 to redirect 台翔 toward aircraft maintenance/repair; McDonnell Douglas later went bankrupt — an intervention 陳文石 credits with sparing Taiwan the US$2 billion loss ([[works/taiwaneseamericanhistory-org/ourjourneys261|261. 一頓飯 省下20億美元, 陳文石, 2016-10]]).
+- 1980s (est.) — founding member of the 南灣生活座談會 (South Bay Life Seminar), alongside 陳惠亭、黃森元、陳立宗、林正善、許清煌、廖政秀、林本晃、游銘泉、蔡銘祿、王秋森 ([[works/taiwaneseamericanhistory-org/ourjourneys212|212. 生活座談會簡史, 劉天良, 2016-03]]).
+- 1970s–80s — named by 李木通 and 劉天良 among 生活座談會 alumni who later returned to Taiwan and made contributions there, alongside 郭清江、謝清志、王秋森、蘇育德、蔡滄波 ([[works/taiwaneseamericanhistory-org/ourjourneys240|240. 半世紀前 UCLA的那些日子, 李木通 黃樹人, 2016-08]]).
 - 2011 — listed as president of the TAA Minnesota chapter in the chapter's centennial history ([[works/taiwaneseamericanhistory-org/ourjourneys123-eng|123. Brief History of TAA – Minnesota, 曾啟明]]; HOLD: conflict with the TAH profile's 「Taiwanese American CPA Association — President」 role vs chapter-office in the MN history — not merged).
 
 _Corpus re-scan 2026-09-25 (slice 09240600-5): fresh ZH+EN grep (江昭儀／Charles Chiang) again returns the identical hit set (#66 回台團領隊名單, #186/eng TACL顧問名單, #253 1990人口普查19人工作委員會, #123-eng TAA-MN社長名冊, whos-who-2217); corpus text verified verbatim against existing entries, nothing new absorbable — verified saturated._
