@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-09
 ---
 # May-Sing Chang (黃美星)
 
@@ -47,6 +47,8 @@ From her own memoirs in the corpus:
 
 - In [[works/taiwaneseamericanhistory-org/ourjourneys53|TAH Our Journeys #53 台灣會館美夢成真 (黃美星)]] she recounts moving from Oklahoma to the Bay Area in 1988 amid the Taiwanese民主運動 — her home hosted dozens of 鄉親 weekly for meetings — and, with husband 張信行, co-founding 北加州台美人第一間公厝「台灣會館」 in Fremont in March 2003 alongside 陳德輝、邱俊邦、林典謨、翁嘉盛、石清正、施天墩、陳光博、李華林、張祿生 (2,800 sq ft). See [[organizations/taiwan-center|Taiwan Center]].
 - In [[works/taiwaneseamericanhistory-org/ourjourneys301|TAH Our Journeys #301]] (TUF 台灣文化之夜 history): at the 1989 台灣文化之夜 she gave a 女高音 solo as an 奧克拉荷馬大學音樂碩士, alongside the 北美文協室內樂團 and the world premiere of 蕭泰然's violin concerto — the concert that opened the 1990s wave of Bay Area 台灣文化活動 also recalled in [[works/taiwaneseamericanhistory-org/ourjourneys38|Our Journeys #38]].
+- Her own account of the founding in [[works/taiwaneseamericanhistory-org/ourjourneys24|Our Journeys #24 北加州台灣會館的誕生]]: after the 2000 政黨輪替, friends urged her and 張信行 to organize; at the 北加州台灣同鄉聯合會 30周年慶, president [[people/prof-davis-l-s-chang|張祿生 (Prof. Davis L. S. Chang)]] encouraged the plan, and within a week she secured 十多位鄉親 each pledging $2,500. The 籌備委員會 gathered 陳德輝、石清正 ([[people/dr-ching-c-shir|Dr. Ching C. Shir]])、陳光博、施天墩、高淑貞、林典謨、張祿生、李華林 ([[people/dr-hwalin-lee|Dr. Hwalin Lee]])、翁嘉盛 ([[people/david-weng|David Weng]])、邱俊邦 ([[people/chun-chiu|Chun Chiu]])、邱光一、吳振和 ([[people/chen-ho-wu|Dr. Chen-Ho Wu]])、張信行; the first center opened May 1, 2003 in the first floor of [[people/ye-ming-wu|吳怡明醫師's]] clinic (introduced by [[people/dr-henry-y-wu|吳銀鏤醫師, Dr. Henry Y. Wu]]), with 34 teachers, 30+ volunteers, ~40 activities/month. HOLD: first-center size — Our Journeys #53 says 2,800 sq ft, Our Journeys #24 says ~3,000 sq ft.
+- From the same memoirs, the second-generation center: after 台灣會館 founded 全美第一所台灣學校 in 2004, space ran short; 張信行 handed the 理事長 post to 陳德輝 in 2007, and in March 2009 the center long-leased ~8,400 sq ft on the second floor of 迦南教會 in San Jose (400 parking spaces), with architect 趙世民 volunteering and Jason Wu funding the renovation. Her account also records the signature concerts — 神秘失控人聲樂團 (2006), Formosa之夢 with 師大合唱團及交響樂團 250+ musicians (2007), 采風樂坊 (2008) — each drawing 3,000+ at Jubilee Christian Church, with board members including [[people/dr-ming-tang-lai|賴明堂 (Dr. Ming Tang Lai)]].
 
 ## Family
 
