@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # Felix Fan (范雅志)
 
@@ -41,11 +41,12 @@ Felix Fan is a celebrated young cellist whose eclectic music-making and leadersh
 - 2026-09-24 re-grep (deepen-x slice 09230500-25): 范雅志/Felix Fan across works+articles returns exactly the already-linked records (TAH #50/#291, ourjourneys294, ourjourneys301, plus works/index) — verified saturated again, no new facts, no conflicts.
 - 2026-09-25 re-grep (slice 09240500-18): exact-name grep (范雅志／Felix Fan, works+articles) hit set unchanged — verified saturated, SKIP this round; no conflicts, no dates merged.
 - 2026-09-26 re-grep (slice 09260317-8): 范雅志/Felix Fan across works+articles returns exactly the already-linked records (TAH #50/#291, ourjourneys294, ourjourneys301, plus works/index) — SKIP: saturated, no new facts, no conflicts to HOLD.
+- 2026-10-10 re-grep (deepen-x slice 10090700-32): 范雅志/Felix Fan across works/articles/sources/events/topics returns exactly the already-linked records — verified saturated, no new facts, no conflicts. New structural link: father 范清亮 now has his own page [[people/fan-qingliang|范清亮 (Fan Qingliang)]] (listed in the TAH roster index under 第三代‧飛揚 alongside [[people/yang-zhengxiang|楊正光 Ethan Yang]]).
 - 2026-09-26 (deepen-x slice 09250800-15): direct-name hits unchanged, but the father 范清亮 has his own corpus footprint worth recording as family/community context: [[works/taiwaneseamericanhistory-org/16-e9-bb-83-e9-87-91-e7-99-bd-e5-85-94-e2-94-80-e7-94-9f-e7-89-a9-e7-a7-91-e6-8a|16. 黃金白兔─生物科技創業家范清亮等人的故事 (楊遠薰, 2014/09)]], [[works/taiwaneseamericanhistory-org/whos-who-880-chris-fan|880. Dr. Chris Fan 范清亮博士 (2016)]] and [[works/taiwaneseamericanhistory-org/32-dr-ching-liang-chris-fan|32. Dr. Ching Liang (Chris) Fan 范清亮博士]]; per [[works/taiwaneseamericanhistory-org/ourjourneys26|ourjourneys26]], 同鄉范清亮博士 was recommended by 陳秋山博士 to join the foundation's board of directors and was later elected its chairman (董事長). No conflicts to HOLD.
 
 ## Family
 
-- **Father:** 范清亮
+- **Father:** [[people/fan-qingliang|范清亮 (Fan Qingliang)]]
 - **Mother:** 陳淑雲
 
 
