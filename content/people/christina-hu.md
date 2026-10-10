@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # Christina Hu (胡若涵)
 
@@ -46,6 +46,8 @@ _No filled family fields on the TAH profile._
 - She is again credited as 「Director, Write in Taiwanese Census Campaign」 in TACL's statement on the Pew report reissue ([[works/taiwaneseamerican-org/pew-research-reissues-report-on-asian-americans-after-misrepresenting-taiwanese-|Pew reissue statement record]]).
 - Her own TAH Who's Who record: [[works/taiwaneseamericanhistory-org/whoswho1586|1586. Christina Hu 胡若涵]].
 - Corpus re-grep 2026-09-21 (slice 09191100-5 re-run): two previously unlinked corpus records absorbed (first-person census essay, Pew reissue statement); Blacklist-vs-corporate-career HOLD stands, no new evidence either way.
+- 2020-04-02 — As 「台美公民協會負責公民參與」 she told the Central News Agency (NY): she treats 「寫下我是台灣人」 as a duty to pass the identity on to future generations — 「我們正著眼建立台灣身分的社群意識」 — and noted that in the 2010 census ~230,000 people wrote in 「台灣人」, up 59% from 2000, reflecting growing confidence among Taiwanese Americans and a trend in Taiwan itself of more people identifying as Taiwanese rather than Chinese ([[articles/taiwanjustice-net/2025/20250621173006_2020美國人口普查_台美公民協會籲寫下台灣人_f3c7d95d2e28413b|TJJ 轉載中央社 census report, filed 2020-04-02]]). Consistent with her own 2019 first-person account of leading the campaign from 2019.
+- Corpus re-grep 2026-10-10 (slice 10081200-14): fresh ZH+EN grep across all 5 corpus dirs returned 11 files, 10 already linked; the one previously-unlinked record (TJJ reprint of the 2020-04-02 Censo census article quoting her as campaign voice) absorbed above; Blacklist-vs-corporate-career HOLD stands, no new evidence either way.
 - Corpus re-grep 2026-09-20 (slice 09191100-5): SKIP — hit set unchanged (own #1586, Blacklist film records, census/Pew TACL records, works index), all already linked; the Blacklist-vs-corporate-career HOLD stands, no new evidence either way.
 
 ## From the record
