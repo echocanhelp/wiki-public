@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Wenhsiung Luke Huang (黃文雄)
 
@@ -30,6 +30,18 @@ Wenhsiung (Luke) Huang 黃文雄 – History of Taiwanese American (T.A. Archive
 - New York Medical College - Metropolitan Hospital Center — Residency
 - Our Lady of Mercy Medical Center — Residency
 <!-- tah-tables:end -->
+
+## Role in the Community
+
+Corpus memoirs (primary material) add movement-side detail beyond the TAH physician profile. Identity caveat with the 4/24/1970 刺蔣 黃文雄 stands (see Notes on sources), but the following records describe the 刺蔣 protagonist by name and are retained as movement record:
+
+- **424刺蔣事件, first-hand account** — 鄭自才's own memoir recounts the operation in detail: 黃文雄 reconnoitred the Plaza Hotel beforehand while 鄭自才 distributed leaflets at the entrance as cover; when 蔣經國 entered, 黃文雄 slipped inside the security cordon and fired his .25 auto pistol, but security seized his wrist, the shot went wide into the revolving-door glass; he was pinned down and said "Let me stand up like a man!" ([[works/taiwaneseamericanhistory-org/ourjourneys330|Our Journeys #330 — 鄭自才 memoir]]).
+- **台獨聯盟 membership** — the 獨盟 history records that both 黃文雄 and 鄭自才 were members of 全美臺灣獨立聯盟, and that the 1970-04-24 case made the organization more daunting to outsiders ([[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]]).
+- **獨盟 fallout** — the case caused an internal split over how to handle 黃 and 鄭, with members leaving the league ([[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys #33 — 楊宗昌傳記（張炎憲口述歷史）]]).
+- **Cornell blacklist** — in the Ithaca 同鄉會 memoir, the attempted assassination got Cornell blacklisted for a time, so no one dared serve as association president until it was lifted ([[works/taiwaneseamericanhistory-org/ourjourneys310|Our Journeys #310]], English version [[works/taiwaneseamericanhistory-org/ourjourneys310-eng|#310-eng]]).
+- **世臺會年會** — Wu Musheng's report on the 2nd/3rd 世臺會 annual meetings lists 黃文雄 among the regional 同鄉會 leaders met at the welcome reception at NYU (Washington Square) ([[works/taiwaneseamericanhistory-org/ourjourneys283|Our Journeys #283 — 吳木盛, 世臺會第二、三屆年會報告]]).
+- **Impact on others** — one memoirist credits the 黃文雄 刺蔣事件 and 彭明敏's 民眾大會 with awakening his political Taiwan consciousness ([[works/taiwaneseamericanhistory-org/ourjourneys70|Our Journeys #70]]); another records that 張燦鍙 forfeited a house he had pledged as bail collateral for 黃文雄 ([[articles/taiwanjustice-net/2024/20240421190316_root_39b87795c51b5977|台灣公義報, 2024-04-21]]).
+- **Name-collision note** — vault works titled "Dr. Peter Huang 黃勝雄" ([[works/taiwaneseamericanhistory-org/46-dr-peter-huang|#46]], [[works/taiwaneseamericanhistory-org/whos-who-399-peter-huang|#399]], [[works/taiwaneseamericanhistory-org/mystories234-eng|#234]], [[works/taiwaneseamericanhistory-org/videos44|#44]], [[works/taiwaneseamericanhistory-org/collection-of-dr-peter-huang|#66]]) are about 黃勝雄, a different person; do not attribute them to this profile. HOLD: the English translation in [[works/taiwaneseamericanhistory-org/ourjourneys310-eng|#310-eng]] renders the 刺蔣 protagonist's name as "Peter Huang" yet links to [[people/dr-peter-huang]] — likely a mis-link, kept as-is pending verification.
 
 ## Timeline
 - 高雄醫學院 — B.S.
