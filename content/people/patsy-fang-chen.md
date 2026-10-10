@@ -80,6 +80,7 @@ Absorbed from the on-page bio and tah-tables (no external sources):
 - Her archival footprint recorded above — [[works/taiwaneseamericanhistory-org/collection-of-mrs-patsy-chen|TAH #36 collection]] plus encyclopedia records #14/#57/#67/#249 — sits alongside her daughters' TAH holdings, making the Chen family a multi-record TAH corpus: [[people/wendy-fang-chen-tilp||Wendy Fang Chen 陳丹蘋]] · [[people/dr-justine-fang-chen||Dr. Justine Fang Chen 陳潔思]] · husband [[people/wen-jer-chen||Wen Jer Chen 陳文哲]].
 
 ## From the record
+<!-- TJJ-A10090501-6: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-6 article 483521594640641a（紐約台灣會館蘇春槐接理事長, 2021-04-07）: subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10030500-6 (2026-10-06): wave-2 re-check of slice 文章 1251d9ed43ef6e32（美國五大台灣會館評萊豬, 2021-01-12）正文再驗證——方秀蓉以紐約台灣會館理事長聯署確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。 -->
 

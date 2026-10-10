@@ -76,6 +76,7 @@ Pages that link to **su-chun-huai** (su-chun-huai):
 1. [[sources/2017-tahs-publication||2017-tahs-publication]]
 
 ## From the record
+<!-- TJJ-A10090501-6: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-6 article 483521594640641a（紐約台灣會館蘇春槐接理事長, 2021-04-07）: subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - 覆核（TJJ-A09260500-8, 2026-09-27）：slice 文章 483521594640641a 正文再驗證——紐約台灣會館交接 CNA 報導（2021-04-07）：蘇春槐接任理事長及永續經營基金記述再確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
 
