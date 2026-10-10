@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # C. Y. Wang (王振源)
 
@@ -74,3 +74,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090501-7: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-7 article 1f001897255f71a7 (《好國好民》美國各地放映座談會公告, 2011-11-08): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090501-26: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-26 article b5e568ec43e787f1 (《好國好民》Dear Taiwan美國巡迴放映座談會, 2011-10-15刊/2024-07-18快照): 王振源列名製片（Producers: LK Chen, CY Wang 陳麗貴 王振源）及美國區協調人（TL Huang, MH Chow, CY Wang 黃泰郎 周明宏 王振源）re-checked vs 正文 this attempt, real, no wrong/spurious links; 2011-10-15 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 再核（DEEPEN-X 10091316-24, 2026-10-10）：本 slice 全新語料檢索（王振源／C. Y. Wang／CY Wang）命中集合不變——僅 [[works/taiwaneseamericanhistory-org/whoswho1577|TAH #1577]]、works/index、《好國好民》兩篇 TJJ 放映紀錄（[[articles/taiwanjustice-net/2024/20240718223218_root_b5e568ec43e787f1|TJJ 2011-10-15]]、[[articles/taiwanjustice-net/2024/20240719002430_root_1f001897255f71a7|TJJ 2011-11-08]]）、sources hub；正文確認製片（與陳麗貴）及美國區協調人（黃泰郎、周明宏、王振源）列名無誤；全部語料事實已吸收。SKIP — verified-saturated。
