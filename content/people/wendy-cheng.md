@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Wendy Cheng (鄭昕)
 
@@ -35,6 +35,9 @@ last_reviewed: 2026-09-25
 
 _No filled family fields on the TAH profile._
 
+- **Father:** [[people/dr-edward-cheng||Dr. Edward Cheng (鄭德昌)]] — 其女王溫蒂（Wendy Cheng）撰悼念文 [[works/taiwaneseamericanhistory-org/mystories300|TAH #300 In memory of Dr. Edward Cheng（2015/07）]]，據此確立父女關係。
+- **Mother:** [[people/shu-ching-cheng||賴淑卿 (Shu-ching Cheng)]] — 黃正源回憶錄記台美基金會董事會選出 賴淑卿 與 鄭德昌 夫婦為董事；與上條父職相合，推定為母（據夫婦關係＋同姓氏，未見直接「母女」字樣，屬高置信推定）。
+
 ## Role in the Community
 - TAH 收錄其著作兩部：[[works/taiwaneseamericanhistory-org/publications509|509. The Changs Next door to The Diazes（2013, 文學）]]、[[works/taiwaneseamericanhistory-org/publications510|510. A People's Guide to Los Angeles（2012, 文學）]]。
 - 學術研究被海外臺灣運動史引用：其 Amerasia Journal 論文〈The Taiwan Revolutionary Party and Sinophone Political Praxis in New York, 1970–1986〉（2019）見 [[works/taiwaneseamericanhistory-org/our-journeys-357|357. 舊金山灣區臺灣人的社團活動與家國意識之形成／何義麟]] 註腳，研究臺獨聯盟與刺蔣行動時期的臺灣民族主義。
@@ -49,6 +52,7 @@ _No filled family fields on the TAH profile._
 - 《Island X》另被 TAHS 社群推薦書單收錄：[[works/taiwaneseamerican-org/community-resources-for-taiwanese-american-parents-families|Community Resources for Taiwanese American Parents & Families]] 將其列為台美家庭認識臺灣/臺美人歷史的學術推薦（該紀錄並提及 [[people/grace-lin|Grace Lin]]、[[people/michelle-kuo|Michelle Kuo]] 等作者）。
 - Corpus re-verify (deepen-x 09230600-9, 2026-09-24): fresh scan works/ + articles/ — new hit community-resources 書單收錄 Island X，已吸收於上；其餘命中（whos/357/372/390/509/510/mystories300/island-x）皆已連結。無衝突須 HOLD。
 - Corpus re-scan（deepen-x slice 09240600-5, 2026-09-25）：新增命中 [[works/taiwaneseamerican-org/taiwanese-american-film|Taiwanese American Film（2007 影人專欄）]] 記「Wendy Seo-Ling Cheng」為 NYU Tisch 電影碩士生（Cornell 文學背景、獲兩項獎學金、劇作〈Moon Lady〉製作中）。HOLD: conflict — 該簡歷（Cornell/Tisch 電影創作）與本頁 TAH #275 學術簡歷（Harvard A.B.、UC Berkeley M.A.、USC Ph.D.）不合，同名未確認，不併入 Identity Snapshot。其餘命中（whos/357/372/390/509/510/mystories300/island-x/community-resources）皆已連結，無其他新材料。
+- Corpus re-verify（deepen-x slice 10081009-3, 2026-10-09）：fresh grep 鄭昕/Wendy Cheng across works/articles/sources/events/topics — 所有命中皆已連結（whos/357/372/390/509/510/mystories300/island-x/community-resources/taiwanese-american-film）。本輪新吸收：跨頁親屬關係 — 父 Dr. Edward Cheng（鄭德昌，mystories300 悼念文「其女王溫蒂」）與母 賴淑卿（黃正源回憶錄記鄭德昌夫婦同當選台美基金會董事），見 Family 節。無新衝突須 HOLD。
 
 ## Sources
 - [TAH #275 encyclopedia: 275. Wendy Cheng  鄭昕 / 2015/02](https://taiwaneseamericanhistory.org/whos-wendy-cheng/)
