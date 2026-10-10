@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # Ju-Ying Song (宋如音)
 
@@ -93,3 +93,5 @@ last_reviewed: 2026-09-24
 <!-- TJJ-A10060900-1: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060900-1 article(s) a244776e9eb57979（會館台灣學校古典音樂欣賞・海頓場, 2016-06-06刊, 2023-01-29快照）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070600-2: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10070600-2 article b4e27e98036e15d0 (會館台灣學校古典音樂欣賞・海頓/台灣人音樂家專場報導, 2016-06-06刊, 2024-05-22快照): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10090700-14: verified 2026-10-10 — full-corpus grep (works/articles/sources/events/topics) w/ name variants 宋如音/Ju-Ying/如音: hits = own-name TAH works #339/#969 + 2 TJJ copies of 2016-06-06 會館台灣學校音樂欣賞報導, all already absorbed above; variant matches (石青如音樂/如音樂) are substring false positives, not this person. No new material — saturated. -->
