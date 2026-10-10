@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Alan Yang (楊維榕)
 
@@ -39,6 +39,7 @@ Corpus records place Alan Yang as a touchstone for the Taiwanese American creati
 - His 2020 Netflix film *Tigertail* (虎尾), an immigrant-suffering story, was covered in TAH's own record — [[works/taiwaneseamericanhistory-org/our-journeys-353|353. 「虎尾」登上Netflix，台裔導演楊維榕新片談移民艱辛]] — and made Rolling Stone's Best 20 Movies of 2020 in TA.org's film roundup — [[works/taiwaneseamerican-org/best-of-the-best-2020-lists-taiwan|TA.org: Best of the Best 2020]].
 - Co-wrote the first episode of *Master of None* with Kelvin Yu and novelist Charles Yu; the episode is dedicated to Betty L. Yu and Jin C. Yu for their service to the Taiwanese American community (TACL LID Youth Camp, South Bay Taiwanese-American School, NATEA-SC) — [[works/taiwaneseamerican-org/american-born-chinese-disney|TA.org: American-born Chinese at Disney]].
 - Own TAH encyclopedia record — [[works/taiwaneseamericanhistory-org/whos-who-2253-alan-yang|2253. Alan Yang 楊維榕]].
+- In his April 2020 CNA interview (多倫多), 中央社記者胡玉立 records that *Tigertail* is his first feature film, self-written and self-directed, with the entire inspiration coming from his father — a retired obstetrician/gynecologist from 虎尾鎮, 雲林縣 — and that it is "迄今唯一一部橫跨台美兩地時空、探討台灣人移民美國艱辛歷程的電影," a claim he said he took pride in. He was then 36, already an Emmy-winning writer, described as 當紅炸子雞 in American TV — [[articles/taiwanjustice-net/2025/20251211220526_虎尾_登上netflix_台裔導演楊維榕新片談移民艱辛_d146c1620c07d1c8|TJJ: 「虎尾」登上Netflix (CNA 專訪全文)]], indexed under tag [[articles/taiwanjustice-net/2026/20260113130122_tag_台裔導演楊維榕_bbfec2c5f7203d76|Tag: 台裔導演楊維榕]].
 
 ## Family
 
