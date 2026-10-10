@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # C. M. Cecilia Huang (黃晴美)
 
@@ -46,6 +46,7 @@ last_reviewed: 2026-10-01
 
 - 為台美人獨立運動紀念記憶中的關鍵女性人物：刺蔣案（1970 四〇四事件）主角鄭自才之妻，案後獨自撫養子女（鄭日青、鄭日傑）、堅強面對丈夫遭遇，被community追悼為「咱台灣人最偉大的女性」（張文隆追悼文，見下）。
 - 張文隆〈咱台灣人最偉大的女性之–黃晴美女士—刺蔣案背後 一位堅強女性〉（2018-02）收入故事語料庫：[[works/taiwaneseamericanhistory-org/mystories624|My Stories #624 張文隆追悼文]]；另見上引台灣公義報存檔。
+- 丈夫鄭自才親撰回憶文〈晴美與我〉（2018-03）收入故事語料庫，自刺蔣案後夫妻共同面對遭遇之角度記述黃晴美：[[works/taiwaneseamericanhistory-org/mystories632|My Stories #632 晴美與我（鄭自才）]]。
 - 身故後社團編有紀念文集《天涯‧人間‧晴美：黃晴美紀念文集》（廖宜恩、陳豐惠編，2018-03，Literature/文學）：[[works/taiwaneseamericanhistory-org/publications1227|TAH publications #1227 紀念文集]]。
 - 收錄於 TAH Who's Who 百科紀錄：[[works/taiwaneseamericanhistory-org/whos-who-2114-c-m-huang|TAH #2114 C. M. (Cecilia) Huang 黃晴美]]（band B，2018-05-27）。
 - Education（National Taiwan Normal Univ. B.S., English）與Era 1938–2016 均出自 TAH Who's Who 紀錄，尚待第二來源驗證。
@@ -69,3 +70,5 @@ _Corpus re-check 2026-09-26 (deepen-x slice 09260317-13): fresh grep works/+arti
 
 <!-- TJJ-A10040600-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-3 article 99aaa4abcb78ff6d (台美人台加人分類存檔 p2, 2024-04-25快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A100607006-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 20240425083432_root_99aaa4abcb78ff6d (台美人台加人分類存檔 p2, 2024-04-25快照): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+_Corpus re-check 2026-10-10 (deepen-x slice 10090500-24): fresh grep works/+articles/+sources/+events/+topics/ for 黃晴美/Cecilia Huang/晴美 — hit set = records already wikilinked (publications1227, mystories624, TAH #2114, TJJ archive 99aaa4abcb78ff6d) + works/sources indexes. NEW: mystories632 鄭自才〈晴美與我〉(2018-03) — absorbed into Role in the Community. 1 new corpus link._
