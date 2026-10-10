@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Hsi-Min Lin (林希明)
 
@@ -85,3 +85,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090701-10: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-10 article 2c9cb76838702dd7 (海台青與黑客松, 楊遠薰, TJJ 2017-07-24, 2021-12-07 snapshot): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090701-11: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-11 article 3260cd0bdf2f84d7 (海台青與黑客松, 楊遠薰, TJJ 2017-07-24, 2024-05-23 snapshot) read fresh this attempt: subject link re-checked vs 正文 — 林希明以FAPA副會長受邀演講確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- deepen-x 10091316-29: verified 2026-10-10 — fresh ZH+EN re-grep (林希明 / Hsi-Min Lin / 希明) across works+articles+sources+events+topics: hit set unchanged (TJJ column 2c9cb76838702dd7 + Wayback copy 3260cd0bdf2f84d7, TAH #1314, index, source page). Two apparent 2017/2024 hits (0d95bdefa646ce68, 001fe75ccd01018b) are false matches on 布希「明知」 (Bush-family prose), NOT Lin — rejected, no link added. SKIP: verified-saturated, no new corpus material. -->
