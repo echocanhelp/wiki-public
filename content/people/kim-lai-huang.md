@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Kim Lai Huang (黃金來)
 
@@ -65,3 +65,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10060600-4: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-4 article 31b7081a5d37939f（化作千風－懷念台美人的人權鬥士、台獨先鋒王泰和, 2022-07-12 刊）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070800-4: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-4: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 複核（deepen-x slice 10081000-2, 2026-10-09）：corpus re-grep（works+articles+sources+events+topics，ZH+EN，黃金來/Kim Lai Huang/kim-lai-huang）命中集與前次完全相同 — mystories372、ourjourneys-138、ourjourneys8(-eng)、ourjourneys69(-eng)、our-journeys-351、ourjourneys296、725 書目條目、TJJ 王泰和追思報導 — 全部已吸收並連結；our-journeys-378、ourjourneys293 之「金來」命中經檢視為子字串偽命中（非本人），不吸收 — SKIP-with-reason：語料已飽和；KU vs KSU HOLD 維持。
