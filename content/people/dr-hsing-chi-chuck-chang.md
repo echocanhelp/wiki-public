@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-10
 ---
 # Dr. Hsing-Chi Chuck Chang (張幸吉博士)
 
@@ -47,6 +47,16 @@ Dr. Hsing-Chi (Chuck) Chang 張幸吉博士 – History of Taiwanese American (T
 - **2007–2008** — FAPA / NJ Chapter — 会长
 - **20+ 年** — Formosa Credit Union, NJ — 信贷委员会主席暨董事会成员
 - **19 年** — West Windsor Township Planning Board — 委员
+
+## Role in the Community（deepen pass 2026-10-10；corpus 吸收）
+
+- **西北大學時期（1960s 末–1972）**：據西北大學留美同學回憶錄 [[works/taiwaneseamericanhistory-org/ourjourneys275|Our Journeys #275]]，張幸吉與夫人淑卿（Soo-Ching）當時住 Evanston 校園較新的 Engel Hall 學生宿舍（與李明雄、秋英夫婦同棟），是西北大學台灣留學生圈的一員——與 1972 年西北大學博士學位相符。
+- **參選經驗（2015）**：撰文 [[works/taiwaneseamericanhistory-org/280-english|280. 雖敗猶榮—參選經驗談 / Honorable Defeat: My Campaign Experience]]（2015-06 刊），記錄其參選公職的經歷與心得；中文同名刊文見 [[works/taiwaneseamericanhistory-org/280-e9-9b-96-e6-95-97-e6-95-99-e7-8c-b6-e6-a6-ae-e5-8f-83-e9-81-b8-e7-b6-93-e9-a9-97-e8-a|280. 雖敗猶榮（中文版）]]。
+- **溫莎區台美協會史筆（2017）**：撰「溫莎區台美協會」簡史 [[works/taiwaneseamericanhistory-org/project-3-14|Project 3-14]]（2017-10-09 刊），與本页 1993–1994 創會長紀錄互證協會沿革。
+- **史料捐贈（2017）**：「張幸吉博士的收藏」[[works/taiwaneseamericanhistory-org/collection-of-dr-hsing-chi-chang|Collection of Dr. Hsing Chi Chang]] 於 2017-06-08 登錄於 TAH／台美史料中心。
+- **自傳（2022）**：著《我的足跡》（自傳，2022-10）[[works/taiwaneseamericanhistory-org/publications-1367|TAH #1367]]。
+
+夫人名：本页作 Soo-Ching，回憶錄作 淑卿——兩寫法相符，無衝突。
 
 ## Family
 
