@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Te-Chiang Bacco Liu (劉德強)
 
@@ -69,3 +69,12 @@ Vault-only pass: all facts from the cited TAH records (#194, #396) and Who's Who
 
 ## Vault re-check 2026-09-11 (deepen-x slice 15, vault-only)
 Every wikilink target on this page verified to exist in the vault; all facts from the cited TAH encyclopedia records (#194, #396) and Who's Who tables were already absorbed in the Career & Training section. No new vault facts found, no web used, no new pages created, nothing published.
+
+## Role in the Community
+
+Fresh corpus pass 2026-10-10 (Deepen-X10081400-7): beyond the TAH Who's Who biography, two 陳曼玲 concert reports in the TAH story corpus document his active participation in Minnesota's Taiwanese-American arts community as a first violinist:
+
+- **2015-04 — 明州「台灣之愛：鄉愁與四季」音樂會** ([[works/taiwaneseamericanhistory-org/ourjourneys128||TAH #128]]): as the University of Minnesota music doctorate then holding positions with the Minnesota Orchestra and Saint Paul Chamber Orchestra, he led the first violin in the "Autumn" movement of Vivaldi's *Four Seasons* paired with 月夜愁, described as "技巧純熟叫人目不轉睛" (flawless technique that holds the audience spellbound). The concert was under music director 鄭光生, with 王宗明's slides and translations; the Taiwan-distinguished musicians listed include 劉德強 alongside 林璇雯 ([[people/karen-lin||Karen Lin]]), 閔馨瑩, 魏萱慈, 林奕瑄, Michael Chu, 鄭仕侃, 陳怡名, 王騰寬, 黃馨儀, 梁沁茵, 周惠美, and 鄭如蜜.
+- **2016-04 — 明州「城市探險到台灣」** ([[works/taiwaneseamericanhistory-org/ourjourneys218||TAH #218]]): performed in the 30-minute chamber program of Taiwanese folk music (橄欖樹, 望春風, 月光光, 花樹下, 四季紅, 桃花鄉, 月夜愁, 牛犁歌, etc.) by local Taiwanese-American musicians at the Minneapolis Institute of Art's Landmark Center City Adventures festival — the report credits the joint effort of Minnesota 台美人 with raising Taiwan's visibility there.
+
+These confirm and extend the Minnesota-residency context already noted above: he is cited in community concert coverage, not only in the press-kit biography. No conflicts to hold; no dates/ages altered.
