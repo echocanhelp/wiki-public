@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Agnes Wu (姜瑞香)
 
@@ -45,6 +45,8 @@ last_reviewed: 2026-10-01
 - Contributor to the 公論報 點心擔 column of the North America Taiwanese Women's Association; described as a reader of 公論報 since its first issue and a recurring contributor, per fellow columnist 陳桂蘭 in [[works/taiwaneseamericanhistory-org/ourjourneys154|154. 完美的句點 / 陳桂蘭]] ([[organizations/north-america-taiwanese-womens-association|北美洲臺灣婦女會]]). When 公論報 ceased publication, she and 張秀滿 had just sent columns per prior arrangement and had to be told the news (per 陳桂蘭, same work).
 - 書源負責人 (book-source lead) of the 北美洲台灣婦女會〈贈書小組〉 book-donation project, which reached the 100,000-book milestone and presented at the American Library Association and IFLA conferences — recounted in 柯金寅's 書中包有台灣心, [[works/taiwaneseamericanhistory-org/ourjourneys91|91. 書中包有台灣心 / 柯金寅]] (2015/01). The essay memorialises her son 楊傑茂 (Keimay Yang), a fellow 贈書小組 volunteer who died young — corroborating memorial [[works/taiwaneseamericanhistory-org/176-in-memory-of-my-son-keimay-yang-a-devoted-supporter-of-itasa-by-mrs-agnes-wu|176]].
 - 2026-09-23 (slice 09221500-8): corpus re-grepped — new fact absorbed above (贈書小組 role from ourjourneys91); remaining hits (#310, mystories313/-eng, #176, ourjourneys154, mystories351) already linked; saturated.
+- Co-authored with 柯金寅 the NATWA 舊書價值再生回饋鄉里計畫小組 "Turn Trash Into Treasure" children's English book recycling project record: [[works/taiwaneseamericanhistory-org/photo-albums-activities-51|51. 北美洲台灣婦女會舊書價值再生回饋鄉里計畫小組 / 姜瑞香、柯金寅]] (2015-01-23) — companion record to the 贈書小組 milestone essay above.
+- 2026-10-09 (slice 10081018-8): fresh ZH+EN grep across all 5 corpus dirs returned 12 files; 10 already linked/absorbed, 2 index-only (works/index.md, sources hub); 1 new work link absorbed above (photo-albums-activities-51). Otherwise saturated.
 - 2026-09-25 (slice 09231000-6): corpus re-grep (姜瑞香 / Agnes Wu, works+articles) returns no new material — all 6 hits (#310, mystories313/-eng, #176, ourjourneys154, mystories351) already linked above; verified saturated, SKIP-no-new-facts.
 - **Signatory of the 2021 Pew Research community response**, listed as "Agnes Wu, North America Taiwanese Women's Association" among the Taiwanese American community leaders who demanded disaggregated "Taiwanese" census data — [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]] (2021-05-01).
 - Her Keimay memorial also exists in English in the movement corpus as first-person narrative: [[works/taiwaneseamerican-org/in-memory-of-my-son-keimay-yang-e2-80-93-a-devoted-supporter-of-itasa|In Memory of my Son, Keimay Yang — A Devoted Supporter of ITASA]] (taiwaneseamerican.org; same content as #176).
