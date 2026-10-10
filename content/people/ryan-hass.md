@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Ryan Hass (何瑞恩)
 
@@ -17,7 +17,7 @@ Echopedia lists this writer as a **voice in that archive** — work Taiwanese Am
 ## Identity Snapshot
 
 - **English:** Ryan Hass
-- **Chinese:** 何瑞恩
+- **Chinese:** 何瑞恩（中央社報導亦作 何瑞安）
 - **Role:** Commentator (columns in the taiwanjustice.net archive)
 - **How we list this writer:** Ally / contributor in a Taiwanese American media archive
 - **Source:** taiwanjustice.net column category
@@ -30,6 +30,10 @@ Echopedia lists this writer as a **voice in that archive** — work Taiwanese Am
 - 複核（TJJ-A09251300-1, 2026-09-26）：本 slice 文章 3dfb23f1（前白宮官員肯定台灣新國安團隊）正文再驗證——本人專文為報導主體，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
 - 覆核（TJJ-A09230800-5, 2026-09-24）：本 slice 文章 3dfb23f1（前白宮官員肯定台灣新國安團隊）正文再驗證——本人專文為報導主體，連結為真，無錯鏈、無虛鏈；2024-05-14 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
+- 2021-08-20 — 以布魯金斯研究所資深研究員（前白宮國安會中國、台灣及蒙古事務主任）身份接受中央社記者紐約報導訪問，解讀拜登將台日韓並列及蘇利文發言的目的：強調美國希望兩岸分歧和平解決的決心「既強韌且穩健」，並傳達若任何國家挑戰美國對安全夥伴（含台灣）的承諾恐付出高昂代價的訊息（[[articles/taiwanjustice-net/2021/20210821112224_2021_08_20_拜登並列台日韓_美學者指重申承諾釋疑才是目的_081111cd32f46e4e|TJJ 轉載中央社記者紐約報導, 2021-08-20]]）。
+
+- 2019-02-27 — 與前美國在台協會主席卜睿哲（Richard Bush）共同撰寫發布於布魯金斯學會的政策報告，指台灣「唯一的安全威脅是中華人民共和國」、中國利用台灣民主體制在兩極化政治中滲透分化成為台灣黨派之爭最大受益者，建議台灣主要政黨尋求中間共識共同面對中國挑戰；報告並分析李登輝、陳水扁、馬英九、蔡英文四任總統的兩岸路線（[[articles/taiwanjustice-net/2021/20210210231546_2019_02_27_美智庫報告_中國是台灣黨派之爭最大受益者_8300cc36e13674eb|TJJ 轉載中央社記者華盛頓報導, 2019-02-27]]）。
 
 - 2024-05-14 — 以布魯金斯研究所約翰桑頓中國中心主任（前白宮國安會中國、台灣及蒙古事務主任）身份在布魯金斯官網專文反駁「賴清德上任將使兩岸緊張」論述，判讀賴清德為務實政治人物、將延續蔡英文路線，並示警北京將在台灣內部及其盟友間製造分歧（[[articles/taiwanjustice-net/2024/20240527031819_root_3dfb23f1f86ac707|TJJ 轉載中央社記者華盛頓報導, 2024-05-14]]）。
 
