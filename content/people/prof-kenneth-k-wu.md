@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-10
 ---
 # Prof. Kenneth K. Wu (伍焜玉教授)
 
@@ -51,6 +51,7 @@ _No filled family fields on the TAH profile._
 
 - Corpus re-grep 2026-09-22 (slice 09211300-4): hit set unchanged (ourjourneys69, ourjourneys291, mystories320, TAH #659, TAH #251, TAH #112); all already absorbed; Academia Sinica 院士 cross-reference holds. SKIP-no-new-material.
 - Corpus re-grep 2026-09-22 (slice 09220800-2): fresh 伍焜玉 grep of works+articles returns exactly the absorbed set (mystories320, #112, ourjourneys69, ourjourneys291, #251, #659, TJJ 2025-07 院士國籍報導); broader Kenneth Wu grep adds only same-surname/unrelated profiles (Kenneth Kuo 涂陳珠欽, Wen-Chen Wu). Nothing new absorbable. SKIP-no-new-material.
+- Corpus re-grep 2026-10-10 (slice 10091404-4): fresh 伍焜玉/Kenneth K. Wu/surname grep across works+articles+sources+events+topics returns exactly the absorbed set (ourjourneys69 + its English counterpart ourjourneys69-eng, ourjourneys291, mystories320, #251, #659, #112, TJJ 2024-04 & 2025-07); the only nominal new hit is a second snapshot of the same 「新聞觀測站 20240420」 tag page ([[articles/taiwanjustice-net/2024/20240425143015_root_da0360a9116a4006|TJJ tag snapshot, 2024-04-25]]) listing the identical 血小板先生專訪 title — same event, no new content. SKIP-no-new-material.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/prof-kenneth-k-wu/)
