@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-10
 ---
 # Norman Chen
 
@@ -57,3 +57,4 @@ Norman Chen's community record in our corpus runs through his father, 陳唐山 
 - Corpus re-grep 2026-09-25 (slice 09250800-10): SKIP — fresh ZH+EN grep of works+articles returns a hit set identical to the records already absorbed above; nothing new to absorb; verified saturated.
 - Corpus re-grep 2026-09-26 (slice 09260317-20): fresh grep Norman Chen|陳唐山 (works+articles) returns the identical hit set already absorbed above; nothing new for the physician; 陳淮崇 HOLD stands; verified saturated.
 - Corpus re-grep 2026-09-27 (slice 09260700-9): SKIP — fresh ZH+EN grep returns the identical hit set already absorbed above; nothing new for the physician; HOLD stands; verified saturated.
+- Corpus re-grep 2026-10-10 (slice 10090600-5): SKIP — fresh grep Norman Chen|陳淮崇|陳唐山 across works/articles/sources/events/topics (52 files) inspected beyond the 11 already-absorbed hits: zero files mention Norman Chen or 陳淮崇; all remaining hits are 陳唐山-only (incl. TJJ news articles, e.g. 2025 陳唐山疑涉賄 coverage — unrelated to this page's record). Hit set identical to prior scans; 陳淮崇 HOLD stands; verified saturated.
