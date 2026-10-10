@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # Dr. R. Palmer Beasley (畢思理博士)
 
@@ -61,3 +61,4 @@ Dr. R. Palmer Beasley 畢思理博士 – History of Taiwanese American (T.A. Ar
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-26 (slice 09260317-6): SKIP — hit set again unchanged (own #245/#2188, 林壽英 tribute #662, works index, 這些人這些事 tag archive, TJJ root tag archive); nothing new to absorb.
+- Corpus re-grep 2026-10-10 (slice 10090315-12): SKIP — hit set unchanged (own #245/#2188, 林壽英 tribute #662, works index, taiwanjustice 這些人這些事 tag archive); the two 2025 TJJ hits are again David Beasley (UN WFP 烏克蘭糧食) and Angie Beasley 畢斯利 (Miss Great Britain) namesakes — false positives, not absorbed; no memoir narrative beyond the known entries; nothing new to absorb.
