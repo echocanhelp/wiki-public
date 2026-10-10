@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Wayne Lee (李家瑋)
 
@@ -65,3 +65,6 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/6-e7-a6-8f-e7-88-be-e6-91-a9-e6-b2-99-e5-9b-9b-e9-87-8d-e5-a5-8f||TAH #6: Formosa Quartet 福爾摩沙四重奏 / 2014-10]]
 - [[people/che-yen-chen||Che-Yen Chen 陳則言（Formosa Quartet 團員）]]
+
+## Corpus sweep (slice 10090600-15, 2026-10-10)
+- 本輪全語料 grep（李家瑋／Wayne Lee／李煒鈞／Formosa Quartet／Piedmont Chamber）hit set 與前輪完全一致：#733、#322、juliana-wayne-interview、whoswho1284（同名異人警示仍適用）、index 書目列舉、sources 頁反列——無可吸收之新增語料。狀態：飽和（saturated），僅更新 last_reviewed。
