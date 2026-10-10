@@ -128,3 +128,5 @@ See the source hub. Top mentions:
 <!-- TJJ-A100607004-c: verified 2026-10-09 — wave-2 link+deepen re-check of article 89e6683c93156205 (台美人台加人 p356, 2024-05-20快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090701-23: verified 2026-10-10 — wave-2 link+deepen re-check of article 89e6683c93156205 (台美人台加人 p356, TJJ 2016-05-17 條目 / 2024-05-20 快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090901-8: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-8 article 7226a5c64ba2f713 (美專家建議台灣恢復在太平島部署陸戰隊 ◎VOA 10-14-2016, 2024-05-20 快照, 原文 2016-10-13) read fresh this attempt: subject link re-checked vs 正文 — 易思安(Ian Easton)於 GTI 華盛頓美台海洋合作研討會主張重返太平島陸戰隊，確認見於正文，real, no wrong/spurious links（卡迪羅／艾小磊／安大維未列 subject，維持純文字）; 2016-10-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
