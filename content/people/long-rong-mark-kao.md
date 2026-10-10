@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Dr. Long-Rong Mark Kao (高龍榮)
 
@@ -49,6 +49,7 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 - **SETAA 夏令會專題講者（1998 第20屆）** — 南卡 Furman University 夏令會「咱的台灣、咱的夢」專題介紹〈陳文成事件的回顧與展望〉（[[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys #245 SETAA 20年回顧]]）。
 - **NCSU 台灣學生會第一任社長** — the North Carolina movement memoir recalls Kao as the first president of the NCSU Taiwanese Student Group during his doctoral studies, in the same circle as 林國慶, 郭倍宏 and 李應元 ([[works/taiwaneseamericanhistory-org/our-journeys-381|Our Journeys — 北卡運動紀事]]).
 - **FAPA 總會長 (2015)** — FAPA's 27-year staff veteran 昆布勞 (Coen Blaauw) counts Kao among the nine FAPA presidents he served under, recalling how each "sacrificed weekends and vacations" lobbying Congress and touring chapters; Kao appears as that year's 總會長 in the 2015 FAPA youth-camp photo ([[works/taiwaneseamericanhistory-org/ourjourneys228|Our Journeys — FAPA 紀事]]). Consistent with his 2015 Taipei Times column written as FAPA president (see From the record).
+- **黑名單三主角之一（黑名單紀實片）** — Christina Hu 紀錄片《黑名單》以賴鴻田、黃Patrick（Patrick Huang）與高龍榮三人為主軸：他們以研究生身分赴美、接觸戒嚴時期禁止的政治文獻，在校園創立台灣學生組織並倡導民主與台灣獨立，因而被中華民國政府列入黑名單、近二十年無法返台探親甚至不能歸弔雙親（[[works/taiwaneseamerican-org/blacklistfilm|Blacklist: A Film by Christina Hu, 2017-02-27]]）。與上文 NCSU 台灣學生會第一任社長記述互補（同一留學世代、同一校園組織脈絡）。
 - **新澤西台美同鄉會前會長** — the New Jersey community memoir lists Kao, president "back then," as "now New Jersey's most dedicated contributor to Taiwan" ([[works/taiwaneseamericanhistory-org/ourjourneys310|Our Journeys — 新澤西篇]] · [[works/taiwaneseamericanhistory-org/ourjourneys310-eng|English ed.]]); his own TAH encyclopedia record is also archived in-corpus ([[works/taiwaneseamericanhistory-org/whos1168|TAH #1168 profile]]).
 
 ## From the record
@@ -88,6 +89,9 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 - 2015-03-27 — Writing as president of the Formosan Association for Public Affairs, Kao's Taipei Times column (republished on TJJ) charges that US pressure on Taiwan for "specific outcomes" on cross-strait policy is itself unjust, since the US officially insists only on a "peaceful process" ([[articles/taiwanjustice-net/2024/20240522053244_root_042939d886040651|TJJ (Taipei Times), 2015-03-27]]; same column also archived in the English Pages category index: [[articles/taiwanjustice-net/2024/20240718230535_root_d2d01925bc6bbba3|TJJ English Pages 存檔頁, 2024-07-18 快照]]; re-archived 2024: [[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7|Wayback copy via TJJ]]).
 - 2022-09-25 — Main speaker ("主講人 Long Rong (Mark) Kao, PhD") at the 53rd 世界台灣文化論壇 "Tī美國點光台灣", arguing Taiwan's geopolitical importance to the US, key US policy toward Taiwan, and shifting away from "strategic ambiguity", with discussant Ken Wu (吳兆峯) and moderator Peter Chen (陳正義) ([[articles/taiwanjustice-net/2022/20221127045936_2022_09_25_第53回世界台灣文化論壇_ti美國點光台灣高龍榮-吳_e9faa17a0a7ea61c|TJJ, 2022-09-25]]).
 
+- 2013-04-25 — 以 FAPA 總會長身分對美台關係法（TPA, HR419）獲眾院亞太小組委員會一致通過表態：「這是十年來處理美台關係最重要的立法之一」，並宣布 FAPA 將動員全美會員遊說全院通過（[[articles/taiwanjustice-net/2024/20240718231403_root_765fbe9b708f7d8f|TJJ: FAPA Applauds Unanimous Passage of TPA in House Subcommittee, 2013-04-25]]）。HOLD: 該文署名欄作 "Formosan Association for Public Relations"，與本檔及其他紀錄之 "Public Affairs" 不一致（疑原文筆誤，未改）。
+- 2021-05-01 — 以 "Mark Kao, Formosan Association for Public Relations" 列名於 taiwaneseamerican.org 對皮尤研究中心隱匿台灣人認同報告的連署聲明「We made it in America. Now tell our stories.」（[[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew 聲明連署, 2021-05-01]]）。HOLD: 同上 "Public Relations" 拼法差異。
+- 2017-02-27 — Christina Hu 紀錄片《黑名單》公開以高龍榮為三主角之一，記述其與賴鴻田、Patrick Huang 因留美倡議被列黑名單、近二十年不得返台（[[works/taiwaneseamerican-org/blacklistfilm|Blacklist 影評, 2017-02-27]]）；黑名單身分屬跨事件史實，詳見上節 Role in the Community。
 - 2026-09-22 — 正文點名其為海台青籌辦人兼募款、前 FAPA 總會長——連結為真；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7|海台青與黑客松, 2017-07-24刊]]，本輪不重複。
 - 2026-09-22 — TJJ-A09220700-3 re-verify: 正文點名其為海台青籌辦人兼募款、前 FAPA 總會長，連結為真；日期事實已見上條，不重複。
 
