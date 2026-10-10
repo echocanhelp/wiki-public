@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-26
+last_reviewed: 2026-10-10
 ---
 # Taiwan Human Rights & Culture Association
 
@@ -45,3 +45,5 @@ last_reviewed: 2026-09-26
 <!-- deepen-x slice 09250900-4 re-verify 2026-09-25: fresh ZH+EN grep of works+articles — hit set identical to prior passes, all facts incl. HOLDs already absorbed; SKIP-with-reason: verified-saturated, no new absorbable facts -->
 
 <!-- deepen-x slice 09260317-7 re-verify 2026-09-26: fresh ZH+EN grep 台灣人權(及)文化協會/Taiwan Human Rights — same hit set (taiwan-cultural-association-for-human-rights, ourjourneys75/-eng, our-journeys-363 title-phrase only); all facts incl. naming HOLD already absorbed; no new absorbable facts -->
+
+<!-- deepen-x slice 10091414-32 re-verify 2026-10-10: fresh ZH+EN exact-name grep across works/articles/sources/events/topics — hit set unchanged (taiwan-cultural-association-for-human-rights, ourjourneys75/-eng, works/index title entry); broader 台灣人權協會 matches are the separate FAHR org, not this association. All facts incl. naming HOLD and 2014 FAHR slate already absorbed; SKIP-with-reason: verified-saturated, no new absorbable facts -->
