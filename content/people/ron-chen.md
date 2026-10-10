@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-09
 ---
 # Ron Chen (陳榮成)
 
@@ -51,7 +51,8 @@ last_reviewed: 2026-09-14
 - **《全美台灣人名錄》（1967）**：任 UFAI 通訊錄籌備會主持人（募款組負責人），任務後交 Manhattan, Kansas 的陳希寬（陳文山）與蔡一執行；名錄 1967 年底完成、收錄 3,095 人，至 1968-03-08 售出 1,158 本——見 [[works/taiwaneseamericanhistory-org/ourjourneys58||TAH Our Journeys #58]]。
 - **《被出賣的台灣》翻譯總負責（1967）**：1967 年 UFAI 決定翻譯 [[people/george-h-kerr||葛超智]]《Formosa Betrayed》，由陳榮成總負責，漢文譯本 1973 年正式出版——見 [[works/taiwaneseamericanhistory-org/ourjourneys33||TAH Our Journeys #33]]。
 - **FAPA 全國巡迴（1983）**：與彭明敏、黃彰輝及 FAPA 幹部（回憶文作者）分頭巡迴 51 個都市、歷 21 天，為台灣人公共事務會吸收新會員並募款——見 FAPA 回憶錄 [[works/taiwaneseamericanhistory-org/ourjourneys65||TAH Our Journeys #65（中）]]、[[works/taiwaneseamericanhistory-org/ourjourneys65-eng||#65（英）]]。
-- **著作**：與妻子 [[people/fu-mei-wu-chen||陳吳富美]] 合撰《1970四二四刺蔣案內情再公開》（2018），vault 內有兩份書目記錄：[[works/taiwaneseamericanhistory-org/publications1264||TAH #1264]]、[[works/taiwaneseamericanhistory-org/publication1280||TAH #1280（署名「府城石舂臼人，陳榮成」）]]。
+- **著作**：與妻子 [[people/fu-mei-wu-chen||陳吳富美]] 合撰《1970四二四刺蔣案內情再公開》（2018），vault 內有兩份書目記錄：[[works/taiwaneseamericanhistory-org/publications1264||TAH #1264]]、[[works/taiwaneseamericanhistory-org/publication1280||TAH #1280（署名「府城石舂臼人，陳榮成」）]]；另有陳榮成本人論述《我所知的四二四事件內情》（2015/02）——見 [[works/taiwaneseamericanhistory-org/516-e6-88-91-e6-89-80-e7-9f-a5-e7-9a-84-e5-9b-9b-e4-ba-8c-e5-9b-9b-e4-ba-8b-e4-b||TAH #516]]，與 2018 年專書同屬刺蔣案第一手記錄。
+- **《被出賣的台灣》譯本記錄**：除 1973 年漢文譯本（見上）外，vault 另存書目 [[works/taiwaneseamericanhistory-org/433-e8-a2-ab-e5-87-ba-e8-b3-a3-e7-9a-84-e5-8f-b0-e7-81-a3-e9-99-b3-e6-a6-ae-e6-8||TAH #433《被出賣的台灣／陳榮成翻譯》（1991/03）]]——**HOLD: 譯本出版年 1973（Our Journeys #33 回憶）vs 1991/03（#433 書目記錄），兩說並存**。
 
 ## Family
 
@@ -65,6 +66,8 @@ last_reviewed: 2026-09-14
 ## Works
 - Oral history — 53. George Chang , Long-Chen Chen & Wen Hsong Lai 張燦鍙, 陳榮成, 賴文雄 / The first long journey across the U.S.A. (1966) — [[works/taiwaneseamericanhistory-org/53-george-chang-long-chen-chen-wen-hsong-lai-e5-bc-b5-e7-87-a6-e9-8d-99-e9-99-b3|TAH #53 oral history]]; fellow interviewee [[people/tsan-hung-george-chang||George Chang 張燦鍙]]
 - 史論 — 1264 / 1280. 1970四二四刺蔣案內情再公開（與吳富美合撰，2018）— [[works/taiwaneseamericanhistory-org/publications1264||TAH #1264]]、[[works/taiwaneseamericanhistory-org/publication1280||TAH #1280]]
+- 史論 — 516. 我所知的四二四事件內情 / 陳榮成 / 2015/02 — [[works/taiwaneseamericanhistory-org/516-e6-88-91-e6-89-80-e7-9f-a5-e7-9a-84-e5-9b-9b-e4-ba-8c-e5-9b-9b-e4-ba-8b-e4-b||TAH #516]]
+- 翻譯 — 433. 被出賣的台灣 / 陳榮成翻譯 / 1991/03（**HOLD: 與 #33 回憶記 1973 年出版並存**）— [[works/taiwaneseamericanhistory-org/433-e8-a2-ab-e5-87-ba-e8-b3-a3-e7-9a-84-e5-8f-b0-e7-81-a3-e9-99-b3-e6-a6-ae-e6-8||TAH #433]]
 
 ## Connected in the Vault（deepen pass 2026-09-10）
 
