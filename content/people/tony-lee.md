@@ -127,3 +127,5 @@ last_reviewed: 2026-10-10
 
 <!-- TJJ-A10060500-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060500-2 article c62f5c50846fe267 (台館228追思紀念大會, 2025-02-24): 李賢群/tony-lee subject link re-checked vs 正文 (召集人主持+不義遺址報告), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10070700-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-2 article c62f5c50846fe267 (台館等24社團228追思紀念大會, 2025-02-24刊/2025-03-20快照): 李賢群 subject link re-checked vs 正文 this attempt (228系列活動召集人、與潘掬慧主持、揭25處不義遺址、談林江邁/陳文溪事件緣起), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090501-19: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-19 article 20240412192704_root_95fd81860bafb5bf (二二八事件77周年 大洛杉磯台灣會館舉辦追思紀念大會, TJJ 2024-02-25 刊) read fresh this attempt: 李賢群董事 (主講「陳篡地-斗六治安維持會」) subject link re-checked vs 正文, real, no wrong/spurious links; 2024-02-24 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
