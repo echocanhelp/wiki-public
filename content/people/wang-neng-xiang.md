@@ -9,7 +9,7 @@ tags:
   - taiwan-democracy
   - cpa
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-10-10
 ---
 # Wang Neng-xiang (王能祥)
 
@@ -36,7 +36,11 @@ Wang Neng-xiang was born in 1933 in Nanzikeng, Kaohsiung Prefecture, Taiwan, int
 
 In 1965, Wang left Taiwan to study in the United States, following the pattern of Taiwanese youth elites of that era. He first attended Kansas State University (Manhattan) for a master's degree in political science. In 1967, he transferred to the University of Texas at Austin for a PhD in political science. Two years later, out of practical considerations, he switched to accounting.
 
-He eventually opened a CPA firm in Washington, D.C., where he has practiced to the present day.
+At Kansas State, Wang was part of the "Kansas Suite Group" of students (莊秋雄, 蔡一, 王能祥, 黃石定, 呂天明, 方菊雄, 陳希寬) who met monthly to discuss the Taiwan question from 1964–1965, connecting with Taiwanese groups in Japan and the U.S. In June 1966 he represented Kansas State students at the Philadelphia conference that founded the United Formosans in America for Independence (UFAI); after he brought the resolution back, fellow students swore in collectively — earning Kansas State a reputation as the "West Point of the independence movement" ([[works/taiwaneseamericanhistory-org/ourjourneys33|ourjourneys33 — 陳希寬 memoir]]). He also fought the Chicago consulate openly during the campus reunification-vs-independence debates of 1966–1968.
+
+At Austin, his record shows a different posture: when Austin students founded their Taiwanese association in 1970 (吳木盛 as first president, ~40 members), Wang — by then known for his "strong political color" from the Kansas State consulate fights — was asked to stay away from the founding events so as not to leak information to KMT agents watching the isolated campus ([[works/taiwaneseamericanhistory-org/ourjourneys76|ourjourneys76 — Austin association memoir]]).
+
+He eventually opened a CPA firm in Washington, D.C., where he has practiced to the present day. His own work positions him as "the first political lobbyist in D.C." ([[works/taiwaneseamericanhistory-org/ff51|ff51 — first political lobbyist in D.C., 1972]]).
 
 ## Taiwan Democracy Advocacy
 
@@ -67,6 +71,8 @@ Wang was involved in discussions about restructuring the "China Lobby." When the
 
 Wang is a devout Christian and has been an elder of the **Taiwanese Presbyterian Church** near Washington, D.C., which he helped build with many Taiwanese American church members through fundraising and contributions. He has served as an elder of the church for many years, and Taiwanese Americans or Taiwanese immigrants in the greater Washington area who see him refer to him as "長老" (Elder).
 
+He also contributed on the street-organizing side of community life: in the Taiwan Independence Day Parade in the Washington area, his fundraising work — together with the varied help of his son Gilbert — was credited among the preparations that made the parade succeed ([[_works/taiwaneseamericanhistory-org/ourjourneys232|ourjourneys232 — Independence Day Parade record]]).
+
 ## Legacy
 
 Wang Neng-xiang is now in his eighties and still in excellent health. In addition to busily running his CPA firm, he continues to pursue Taiwan's international visibility and aspire to end Taiwan's colonial sufferings. His profile was co-authored by 楊嘉猷 (創會會長 of TAHS) and 周威霖, describing him as "心繫台灣、老驥扶櫪" (heart set on Taiwan, veteran horse still galloping).
@@ -91,6 +97,9 @@ Pages that link to **wang-neng-xiang** (wang-neng-xiang):
 
 - **Content priority A:** 2017 TAHS Publication (profile Part 1, ~66 lines), co-authored by 楊嘉猷 and 周威霖
 - **Content priority A:** Contains biographical narrative including education, CPA career, and decades of Taiwan democracy advocacy
+- **Corpus (2026-10-10 deepen):** Kansas Suite Group + 1966 UFAI conference from [[works/taiwaneseamericanhistory-org/ourjourneys33|ourjourneys33]]; Austin association founding (1970) from [[works/taiwaneseamericanhistory-org/ourjourneys76|ourjourneys76]]; "first political lobbyist in D.C." self-description from [[works/taiwaneseamericanhistory-org/ff51|ff51]]; Independence Day Parade fundraising from [[works/taiwaneseamericanhistory-org/ourjourneys232|ourjourneys232]]; biography "前進D.C. 國會外交的開拓者" (2012, with 張文隆) is [[works/taiwaneseamericanhistory-org/publications274|publications274]]
+- **HOLD:** ff51 labels Wang "the first political lobbyist in D.C. / 1972" while the 2017 profile dates his WUFI Foreign Affairs role to 1973 — likely the move year vs. the role start, not merged.
+- **HOLD:** ourjourneys33 prints the UFAI acronym as "MUFAI" in one passage (likely typo for UFAI); page keeps UFAI.
 - **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, education, and decades of advocacy work.
 
