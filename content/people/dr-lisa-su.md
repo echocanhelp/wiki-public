@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Dr. Lisa Su (蘇姿豐博士)
 
@@ -81,6 +81,9 @@ father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 - 2020 年獲半導體協會（SIA）Robert N. Noyce Award：[[works/taiwaneseamericanhistory-org/award-76||TAH #76（2020）]]；媒體跟進報導「張忠謀後華裔第 2 人」見 [[articles/taiwanjustice-net/2026/20260121003520_蘇姿丰獲美半導體協會大獎_張忠謀後華裔第2人_4779b4e7bc06941e|台灣時報_net 報導]]。
 - 父亲 [[people/su-chun-huai||蘇春槐]]（紐約台灣會館理事長）率團訪美東時，AIT 官員因她是 AMD 總裁而格外熱絡，並邀 Lisa 回台至 AIT 走走 —— 見社群回憶錄 [[works/taiwaneseamericanhistory-org/our-journeys-382|Our Journeys 382]]。此為本頁首要的社區第一手材料：她的成就在鄉親network中被直接視為家族與台灣會館的連結。
 - 2014 年升任 AMD 總裁兼執行長當時即被同儕記錄：[[works/taiwaneseamericanhistory-org/videos73-2|73. Dr. Lisa Su as AMD's new president and CEO!]]；台美人第二代視角專文見 [[works/taiwaneseamericanhistory-org/mystories84-dr-lisa-t-su|TAH mystories84（曾恆利）]]。
+- 2020-09 社群專欄以「全球最高薪女CEO出身台灣」專文記她成長中一本猶太經典的影響：[[works/taiwaneseamericanhistory-org/my-stories-741|TAH my-stories-741]]；同系列 2021-09-24 獨家專訪稱她「永遠的先鋒——來自台灣的矽谷半導體女王傳奇」：[[works/taiwaneseamericanhistory-org/my-stories-805|TAH my-stories-805]]。
+- 2022-05-25 — MIT 以台裔校友之名将納米（nano）大樓命名於她：[[works/taiwaneseamericanhistory-org/my-stories-838|TAH my-stories-838]]。此與本頁 MIT 三學歷（[[organizations/association-of-taiwanese-students-at-mit||AIT/MIT]]）一脈相承，為其母校層級的最高社群認可。
+- 社群投資專欄（扶丁·洪雅）記「AMD CEO 是台南人蘇姿豐博士，三歲時隨父母來美」：[[articles/taiwanjustice-net/2026/20260118233952_股市亮點-_139_amd-advanced-micro-devices-inc_4b2f157fa4c0b06a|TJJ 轉載，2020-10 專欄]]。HOLD: 「三歲隨父母來美」為單一二手專欄說法，本頁 Era 欄僅記 1969/Tainan，未載移居年齡，暫不自動併入傳記欄。
 
 
 <!-- TJJ-A09251400-9: verified 2026-09-26 — subject links in slice 09251400-9 articles re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
