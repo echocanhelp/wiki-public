@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Ting-An Lin (林庭安)
 
@@ -63,6 +63,7 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/whos-who-1803-ting-an-lin|TAH Who's Who #1803 — Ting-An Lin 林庭安]]
 
 ## Corpus check (2026-09-18, re-verified 2026-09-20)
 - SKIP: no absorbable community facts. Only corpus hit is 司法院釋字第791號（通姦除罪）一文中的「聲請人六 林庭安」— plain-text note in that article already flags it as an unconfirmed name-only match, not linked.
@@ -83,3 +84,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090701-10: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-10 article 2c9cb76838702dd7 (海台青與黑客松, 楊遠薰, TJJ 2017-07-24, 2021-12-07 snapshot): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090701-11: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-11 article 3260cd0bdf2f84d7 (海台青與黑客松, 楊遠薰, TJJ 2017-07-24, 2024-05-23 snapshot) read fresh this attempt: subject link re-checked vs 正文 — 林庭安為海台青召集人確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 複核（deepen-x slice 10091316-26, 2026-10-10）：fresh grep 林庭安／Ting-An Lin／庭安 across works/articles/sources/events/topics — hit set unchanged (whos-who-1803 work page, works index, both TJJ 海台青與黑客松 columns 2021+2024 snapshots, 釋字第791號聲請人六 record — name-only, still HOLD, not linked). Broadened sweep on 海台青／海外台灣青年／OTD surfaced no new named material for this subject. No new absorbable facts — SKIP, saturated. Added missing wikilink to [[works/taiwaneseamericanhistory-org/whos-who-1803-ting-an-lin|TAH Who's Who #1803]] work page (its Subjects section already links back; reciprocity fix only).
