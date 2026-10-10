@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-10
 ---
 # Taiwanese Association of Cincinnati (辛辛那提)
 
@@ -28,6 +28,13 @@ The Taiwanese Association of Cincinnati (辛辛那提 台灣同鄉會) is a regi
 - **Own newsletter.** The chapter publishes its own 鄉訊 — [[works/taiwaneseamericanhistory-org/newsletter-of-taiwanese-association-of-cincinnati|Newsletter of Taiwanese Association of Cincinnati 辛辛那提台灣同鄉會鄉訊]] (recorded 2017-06-22); 高惠陽's clubhouse proposal (see above) was published in this newsletter.
 - **Scholarship.** The chapter awards the 辛辛那提台灣同鄉會獎學金 (Taiwanese Association of America of Cincinnati Scholarship Award), documented 2015-08-13 — [[works/taiwaneseamericanhistory-org/46-e8-be-9b-e8-be-9b-e9-82-a3-e6-8f-90-e5-8f-b0-e7-81-a3-e5-90-8c-e9-84-89-e6-9c|46. 辛辛那提台灣同鄉會獎學金 / Cincinnati Scholarship Award]].
 - **Related community activity.** The Cincinnati Taiwanese Presbyterian Ministry 辛城基督長老教會 is recorded at [[works/taiwaneseamericanhistory-org/cincinnati-taiwanese-presbyterian-ministry|Cincinnati Taiwanese Presbyterian Ministry 辛城基督長老教會]] (2016-05-12). Cultural organizing is attested by the 台灣學生社/中西部台灣人夏令會 "Landscape of Formosa 台灣風情畫" concert held in Cincinnati, OH on 2000-07-07 — [[works/taiwaneseamericanhistory-org/concerts114|114. Landscape of Formosa 台灣風情畫, Cincinnati, OH, 07/07/2000]].
+- **Chapter directory record.** A dedicated TAA chapter record exists — [[works/taiwaneseamericanhistory-org/cincinnati-ohio-chapter-taa|Cincinnati, Ohio Chapter / TAA 辛城台灣同鄉會]] (2015-12-24; bibliographic record only, full text in the vault).
+- **Political organizing (FAPA).** Cincinnati is also home to the FAPA 台灣人公共事務會俄亥俄州辛辛那提分會 (Ohio Cincinnati Chapter) — [[works/taiwaneseamericanhistory-org/42-ohio-cincinnati-chapter-chapter-fapa|42. FAPA 俄亥俄州辛辛那提分會]] (2015). 楊遠薰's 2016 FAPA memoir credits the HCR 88 (美國對台六項保證) sponsorship by Rep. Steve Chabot to 「FAPA前總會長李青泰醫師與辛辛那提分會會員們共同努力的結果」 — [[works/taiwaneseamericanhistory-org/ourjourneys228|228. 美國對台六項保證決議案的推手 ─ 昆布勞與 FAPA 的故事 / 楊遠薰 / 2016-05]].
+- **International folk festival, ongoing.** Beyond the 1976 debut above, the chapter's Cincinnati International Folk Festivals (IFF) participation is documented in two 2015 records: [[works/taiwaneseamericanhistory-org/7-e8-be-9b-e5-9f-8e-e5-9c-8b-e9-9a-9b-e5-b1-95-cincinnati-international-folk-fes|7. 辛辛那堤國際展 Cincinnati International Folk Festivals (IFF) / TAA-Cincinnati, OH]] (2015-10-06) and photo album [[works/taiwaneseamericanhistory-org/photo-albums-activities-75|75. 辛城國際展 Cincinnati International Folk Festivals (IFF) / 2015-05]].
+- **2016 Midwest summer camp host.** The chapter hosted the 2016 中西部台灣人夏令會 at Beltera Casino Resorts in southeastern Indiana — [[works/taiwaneseamericanhistory-org/our-journeys-376|376. 中西部台灣人夏令會簡史 (2021-08)]].
+- **Arts patronage.** The Cincinnati chapter (with 莊秋雄) is thanked among the supporting associations of the cross-national 世界台灣人美術展覽會 (World Taiwanese Art Exhibition), conceived at the 1983 美東夏令會 — [[works/taiwaneseamericanhistory-org/ourjourneys256|256. 寫在畫展之前 / 黃根深 / 2016-10]].
+- **Taiwan Week '96.** Cincinnati hosted Taiwan Week '96 Tradition & Progress, Aug 5–10, 1996, documented on VHS by 莊秋芬 — [[works/taiwaneseamericanhistory-org/906-taiwan-week-96-tradition-progress-cincinnati-oh-usa-aug-5-10-1996-e8-8e-8a-e|906. Taiwan Week '96, Cincinnati, OH, USA / 莊秋芬 / 1996-08]].
+- **Sports.** A Cincinnati 辛城隊 team first competed in the East Coast 文成杯 tennis tournament in 1991 (8th edition), noted for 鄭武陽夫婦's mixed doubles — [[works/taiwaneseamericanhistory-org/ourjourneys329|329. 回憶三十三年來美東文成杯網球賽的活動 / 邱義昌 / 2017-12]].
 - HOLD: beyond the founding-chapter president and the clubhouse timeline above, the corpus does not state a chapter founding date or officer roster; none invented.
 
 ## Sources
