@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Career Taiwan USA Association
 
@@ -32,6 +32,7 @@ last_reviewed: 2026-09-25
 - 2016-12-09 — A second corpus record, a dedicated story page for the association ([[works/taiwaneseamericanhistory-org/career-taiwan-usa-association|Career Taiwan Usa Association 台灣青年美國職涯發展協會]]) — both records carry the 發展 name variant, corroborating the variant noted above.
 - 2016-11-05 — the association's annual general meeting (台灣青年美國職涯發展協會年會) at Cross Campus, downtown LA, appears in the Taiwan Center community calendar ([[articles/taiwanjustice-net/2024/20240721101942_root_04f32b14d8cf8f12|TJJ calendar record]]) — evidence of an established annual meeting cadence by 2016.
 - 2020-04-25 — Co-organized the Taiwan Center's first virtual event, attorney-director 陳啟耕's online immigration webinar (100+ participants), in the early pandemic when US immigration-policy shifts confused many overseas Taiwanese ([[articles/taiwanjustice-net/2020/20201126153300_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_c05e2d53013fcd15|TJJ, 2020-06-23]]；同一紀錄另見 [[articles/taiwanjustice-net/2021/20210117070450_2020_06_23_大洛杉磯台灣會館_疫情擋不住人情_濟困扶危挺_71a7c64663ea03b6|2021-01-17 快照]]).
+- 2021-04-16 — Joined the Taiwan Center board and eight other LA-area Taiwanese associations (長輩會、獅子會、NAATW 南加分會、NATMA 南加分會、高雄/雄女校友會、南加州台灣大專聯友會、師大聯友會、客家基金會、民進黨美西黨部) in a disaster-relief fundraiser for the Taroko gorge train accident victims, raising ~NT$1.5M within a week from 42 donors, forwarded via overseas offices to Taiwan's Ministry of Health and Welfare ([[articles/taiwanjustice-net/2022/20220929025100_2021_04_16_大洛杉磯台灣會館給太魯閣號受難家屬的慰問函_8dc770f6b801f241|TJJ, 2021-04-16 慰問函]]) — the association's name appears in the co-organizer roster, evidence of standing coalition membership beyond event co-hosting.
 - 2021-05-07 — Co-hosted the center's 生活座談六 on studying and job-hunting in the US with 顧宗浩 (ex-Facebook/Slack SWE) and 林沅融 (Lam Research process engineer), moderated by president Michael C.Y. Lin (USC PhD, Milken Institute urban economist) ([[articles/taiwanjustice-net/2021/20210616075349_2021_05_07_大洛杉磯台灣會館生活座談六-美國留學及求職經_e1fdfc4988f0e46e|TJJ, 2021-05-07]]).
 
 Community role: a career/professional-development association for young Taiwanese Americans in the US, active within the Taiwan Center Foundation of Greater Los Angeles orbit from at least 2014, providing practical services (immigration guidance, study/job-hunting mentorship) to the LA-area community.
