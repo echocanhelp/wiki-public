@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-10
 ---
 # Henry Cheng (鄭煥壁)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-10-08
 - 孫芝君 wrote a profile of him as 「吹口哨、向前行的合唱音樂家」 (2006-11): [[works/taiwaneseamericanhistory-org/604-e5-90-b9-e5-8f-a3-e5-93-a8-e3-80-81-e5-90-91-e5-89-8d-e8-a1-8c-e7-9a-84-e5-9|604. 吹口哨、向前行的合唱音樂家鄭煥璧]]. Note the corpus spells his name 鄭煥壁 / 鄭煥璧 / 鄭焕璧 across these three work pages (same person per TAH work records).
 - His TAH Who's Who encyclopedia record is [[works/taiwaneseamericanhistory-org/391henry-cheng|391. Henry Cheng 鄭煥壁 / 2015/04]] (band B); a companion 2015/03 record profiles him as a conductor: [[works/taiwaneseamericanhistory-org/175-henry-huan-bi-cheng-e9-84-ad-e7-85-a5-e7-92-a7-201503|175. Henry Huan Bi Cheng 鄭煥璧, conductor / 2015/03]] (band B).
 - HOLD: conflict — a taiwanjustice.net press record (2024-06-13) tags "Henry Cheng, Acting Chairman and CEO of 85℃ USA Division" against this page, but this page's Employment lists Lear Siegler (1979) and 美國東芝總部 (1987); likely same-name different person, not merged.
+- Identity cross-link: the corpus also carries this person under the 鄭煥璧 spelling as [[people/henry-huan-bi-cheng|Henry Huan Bi Cheng 鄭煥璧]] — that page records the same Yuanli-born choral conductor (trained under Prof. Lu Chuan-Hsin; conductor/teacher of 榮星兒童合唱團 1958–1976; founder of 瑞聲合唱團 1976–; four volumes of choir music). The 175. conductor record wikilinks that slug, not this one. Two pages, one person per the TAH work records (壁/璧/焕璧 spelling drift); not merged here.
 
 ## Worklog
 - 2026-09-22 deepen-x slice 09220400-32: re-verified — fresh grep 鄭煥壁/鄭煥璧/Henry Cheng over works+articles returns only the records already absorbed above (604/605, #391, #175, index) plus the 85℃ USA press record already held as same-name-different-person. Nothing further absorbable.
