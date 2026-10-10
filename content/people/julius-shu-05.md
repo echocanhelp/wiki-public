@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # Julius Shu 05 (許清煌)
 
@@ -44,7 +44,7 @@ last_reviewed: 2026-10-01
 Corpus memoirs place 許清煌 at the center of 1970s–80s Southern California Taiwanese community institution-building:
 
 - **南加州台灣人聯邦信用合作社（SCTFCU）**：1977-07-24 第一次籌備會（洛城台灣同鄉會會長任內召開）出席者之一，與劉丁榮、莊洸雄、謝清志、郭清江等十餘位同鄉一致同意成立信用合作社；合作社成立後出任**徵信會（Credit Committee）召集人（兼主席）**，謝清志兼秘書、王廷宜為委員（[[works/taiwaneseamericanhistory-org/ourjourneys244|244. 台灣人信用合作社的成立]]）。
-- **生活座談會**：1974 年以柑縣為中心的**南區生活座談會**創會會員之一（與李成奎、郭清江、周實、林勝井、蔡永基等）；後加入 1978-01 成立的**西區生活座談會**；1983-01 又為**南灣生活座談會**創會會員之一（與陳惠亭、黃森元、江昭儀等）（[[works/taiwaneseamericanhistory-org/ourjourneys212|212. 生活座談會的懷胎與成長]]）。
+- **生活座談會**：1974 年以柑縣為中心的**南區生活座談會**創會會員之一（與李成奎、郭清江、周實、林勝井、蔡永基等）；後加入 1978-01 成立的**西區生活座談會**；1983-01 又為**南灣生活座談會**創會會員之一（與陳惠亭、黃森元、陳立宗、林正善、廖政秀、林本晃、游銘泉、蔡銘祿、王秋森、江昭儀等）（[[works/taiwaneseamericanhistory-org/ourjourneys212|212. 生活座談會的懷胎與成長]]；另見 [[works/taiwaneseamericanhistory-org/south-bay-shingwa-society|南灣生活座談會]] 專頁）。
 - **TAH 本人紀錄頁**：[[works/taiwaneseamericanhistory-org/whos-julius-shu|429. Julius Shu 許清煌 / 2015/05]]。
 - **生活座談會理事會籌劃**：理事會於 1993-09 正式成立，但memoir 追記許清煌與黃森元、陳慶霖、李成奎、周實等十餘年前即在會後參與策劃（[[works/taiwaneseamericanhistory-org/ourjourneys212|212. 生活座談會的懷胎與成長]]）。
 
@@ -71,3 +71,5 @@ Corpus re-grep 2026-09-26 (deepen-x slice 09260317-6): fresh grep 許清煌/Juli
 <!-- TJJ-A10040600-10: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-10 — subject link in article 20053f0a17b89c07 (Tag: 大洛杉磯台灣會館耆老講座, 2025-02-16 存檔) re-checked vs 正文: 「大洛杉磯台灣會館9/7耆老講座-返台任職的心路歷程-謝清志、郭清江、許清煌」條目具名確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060800-4: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-4 — article 20053f0a17b89c07 (Tag 大洛杉磯台灣會館耆老講座, 2025-02-16 存檔) 「9/7 耆老講座…謝清志、郭清江、許清煌」條目具名; subject link re-checked vs 正文 this attempt — 真實提及, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10071500-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071500-2 — article 20053f0a17b89c07 (Tag 大洛杉磯台灣會館耆老講座, 2025-02-16 存檔) 「9/7 耆老講座…謝清志、郭清江、許清煌」條目具名; subject link re-checked vs 正文 this attempt — 真實提及, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+Corpus re-grep 2026-10-10 (deepen-x slice 10090315-10): full 5-dir grep 許清煌/Julius Shu/許清 — new candidate hits (ourjourneys101 許清政, whoswho1478/2025-04 article 許清松, whoswho1400 許清曉, 2025/2024 TJJ articles 許清光/許清楚) all resolved to other persons, not this subject. Substantive set unchanged (ourjourneys244 / ourjourneys212 / whos-julius-shu / 耆老講座標籤頁); one small enrichment absorbed: 南灣生活座談會 founding roster completed from ourjourneys212 (陳立宗、林正善、廖政秀、林本晃、游銘泉、蔡銘祿、王秋森 added) + wikilink to existing [[works/taiwaneseamericanhistory-org/south-bay-shingwa-society|南灣生活座談會]] page. Verified-saturated; no conflicts found.
