@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-10
 ---
 # Taiwanese Students Association
 
@@ -28,6 +28,8 @@ The Taiwanese Students Association (TSA) at Carnegie Mellon University is a stud
 
 - 複核吸收（deepen-x slice 09220800-6, 2026-09-22）: new corpus hit [[works/taiwaneseamericanhistory-org/ourjourneys205|Our Journeys #205 / 劉兆民]] supplies the lineage this name descends from: in 1963 周烒明 and fellow Taiwanese graduate students at the University of Wisconsin founded the UW Formosan Students Club — recalled in the memoir as the first 台灣人學生會 formed in the United States. The ROC government pressured UW not to charter it and then revoked Dr. 周烒明's passport, rendering him stateless; the 黃啟明 case followed (a UW education-history graduate student detained in Taiwan while collecting dissertation research, never allowed to return, with UW president Dr. W. Harrington filing a formal protest). KMT surveillance-era opposition to independently chartered Taiwanese student clubs is the common thread linking this name's 1963 founding generation to later chapters such as the CMU TSA. Context for the same-name network, not a CMU-chapter memoir.
 - HOLD: the memoir names the UW club, not the CMU chapter; no CMU-specific biography invented.
+
+- 複核吸收（deepen-x slice 10090500-25, 2026-10-10）: this name sits under a documented nationwide umbrella — [[works/taiwaneseamericanhistory-org/the-north-america-taiwanese-students-association-tsa-na|The North America Taiwanese Students' Association (TSA-NA) 北美台灣學生協會]] (2016-05-03, see also [[organizations/the-north-america-taiwanese-students-association-tsa-na|TSA-NA org page]]) — the coordinate body the campus chapters descend from, alongside the TSA-STL scholars association ([[works/taiwaneseamericanhistory-org/publications1220|TSA-STL 2017 symposium handbook]]) and the 台灣學生社冬令營 movement ([[works/taiwaneseamericanhistory-org/12-e5-8f-b0-e7-81-a3-e5-ad-b8-e7-94-9f-e7-a4-be-e5-86-ac-e4-bb-a4-e7-87-9f|台灣學生社冬令營]]). Pittsburgh-context reinforcement: [[works/taiwaneseamericanhistory-org/ourjourneys302|Our Journeys #302]] recalls that after the 1981 陳文成 Chen Wen-Chen killing, Carnegie Mellon's university president personally 挺身而出、仗義執言, pressuring the ROC government to open an investigation — the CMU administration's public stance in the campus's movement record. Still no CMU-TSA-chapter memoir; context for the same-name network, no biography invented.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-students-association/)
