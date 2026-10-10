@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-10-10
 ---
 # Dr. Chris Fan (范清亮博士)
 
@@ -41,6 +41,10 @@ Accomplishment
 - HOLD: conflict in pinyin rendering — Our Journeys 26 English translation writes "Dr. Fan Ching-ling" vs. TAH record 32's "Ching Liang" (范清亮, Ching-liang); treated as a translation typo, name forms not merged.
 - Community profiles: [[works/taiwaneseamericanhistory-org/32-dr-ching-liang-chris-fan|TAH record 32]], [[works/taiwaneseamericanhistory-org/whos-who-880-chris-fan|TAH Who's Who 880]].
 - Corpus re-grep 2026-09-16 (slice -14): hit set unchanged — [[works/taiwaneseamericanhistory-org/ourjourneys26|Our Journeys 26]] (+ EN), own records #32/#880, and 「黃金白兔」 are all already absorbed above. No new memoir material; the existing Ching-ling vs Ching-liang HOLD stands.
+- Under his chairmanship the board rewrote its bylaws: director seats expanded to thirty, terms lengthened from two to three years, the one-year-cooldown-on-re-election rule removed, and each director assigned an annual fundraising quota (NT$3,000–5,000) so the Center's ~NT$100,000/year fixed expenses were secured — directorship itself became a fundraising role [[works/taiwaneseamericanhistory-org/ourjourneys26|Our Journeys 26]].
+- Listed as a speaker (Mr. 范清亮) in the Irvine Taiwanese Presbyterian Church lecture roster 2009–2026 [[organizations/irvine-taiwanese-presbyterian-church|ITPC]].
+- Twin vault profile [[people/fan-qingliang|Fan Qingliang (范清亮)]] records the biotech origin story: Pacific Biotech (太平洋生物科技公司) grew from rabbit serum into a full biotech enterprise — the 「黃金白兔」 (golden rabbit) image in 楊遠薰's 2014 profile traces back to this [[works/taiwaneseamericanhistory-org/16-e9-bb-83-e9-87-91-e7-99-bd-e5-85-94-e2-94-80-e7-94-9f-e7-89-a9-e7-a7-91-e6-8a|黃金白兔]].
+- Corpus re-grep 2026-10-10 (slice 10081500-31): fresh ZH+EN sweep across all 5 corpus dirs; hit set same files, but content-level read surfaced the charter-reform passage in Our Journeys 26 (absorbed above) plus the ITPC speaker roster and twin-page rabbit-serum detail. Ching-ling vs Ching-liang HOLD stands.
 
 ## Family
 
