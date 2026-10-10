@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Susan Y. J. Chang (程韻如)
 
@@ -27,6 +27,8 @@ Accomplishment
 - Led the 1998 calendar 「未完成的夢」 with 楊美麗: 3,000 copies printed, sold out by Thanksgiving 1997 (per the calendar memoir [[works/taiwaneseamericanhistory-org/ourjourneys160|160. NATWA 月曆 / 林郁子 / 2015/08]]).
 - As a NATWA leader she co-founded the Foreign Organization of Taiwanese Women Association (FOTWA, 國外臺灣婦女聯合會) with women's associations in other regions of the world (per the NATWA history memoir).
 - **2015 Iguazu bus accident survivor:** a fellow survivor's memoir records her on the same tour bus in Brazil when the crash killed five Taiwanese compatriots; press reports wrongly listed her as dead («報上登說我死了»), and she helped doctors explain patients' conditions to families in hospital. Written from inside the tragedy by Chang herself in her own memoir 《巴西復活記》 (2015-07) — [[works/taiwaneseamericanhistory-org/298-e5-b7-b4-e8-a5-bf-e5-be-a9-e6-b4-bb-e8-a8-98-e7-a8-8b-e9-9f-bb-e5-a6-8220150|298. 巴西復活記 / 程韻如 / 2015-07]]; the episode is also recounted in [[works/taiwaneseamericanhistory-org/ourjourneys249|Our Journeys #249]]. HOLD: the #249/#298 memoirs call her 北美婦女會會長 during the 2015 trip, while the TAH table lists her NATWA presidency as 2001-2002 — possible later office or retrospective title, not merged.
+- **TAF founding generation (roster photo):** named in the back row of the 「第一代老將們合影於TAF夏令營」 group photograph in 楊遠薰's TAF origin story (前排: 陳植哲、卓甫良、林秋菊、廖淑清、陳東蘭；後排: 陳澤華、劉洋祐、**程韻如**、林健華、王謹、吳素津、張簡吉誠、黃啟仁、楊忠正) — [[works/taiwaneseamericanhistory-org/mystories205|205. TAF的傳承故事(1) TAF的創立─卓甫良的故事／楊遠薰／2015-02]]. This places her among the founding cohort of the Taiwanese American Federation, not only in the NATWA/WTC record.
+- **FOTWA chair:** per NATWA's memoir history, NATWA leaders (e.g. 程韻如) four times chaired the FOTWA annual meetings held at 世台會 (World Taiwanese Congress) venues — [[works/taiwaneseamericanhistory-org/ourjourneys60|60. 咱的故事—NATWA的歷史]]. HOLD: 世台聯合基金會 (Foundation) vs 世界台灣人大會/WTC (Congress) are adjacent but distinct bodies — see [[organizations/world-taiwan-foundation|World Taiwan Foundation]]; her 2019 WTC presidency signature (below) is the Congress, not the Foundation.
 - Org page: [[organizations/north-america-taiwanese-womens-association|NATWA]].
 - Encyclopedia entries in the corpus: [[works/taiwaneseamericanhistory-org/190-susan-chang|TAH #190 Y. R. Susan Chang 程韻如]] and [[works/taiwaneseamericanhistory-org/whos-who-1531-susan-chang|TAH #1531 Susan Y. J. Chang 程韻如]].
 - HOLD: name collision — the corpus also holds 「7. Collection of Mrs. Susan Chang Lee 張淑珍女士的收藏」 ([[works/taiwaneseamericanhistory-org/collection-of-mrs-susan-chang-lee|TAH #7]], 2016-09-22), a **different person** (Susan Chang Lee / 張淑珍, married surname Lee; this page's subject's husband is 張仲郎). No conflation.
