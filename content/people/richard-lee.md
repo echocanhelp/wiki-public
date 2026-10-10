@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-10-09
 ---
 # Richard Lee (李正三)
 
@@ -47,6 +47,10 @@ last_reviewed: 2026-09-16
 - A 228 survivor family (228受難家屬): his story of gratitude and resilience was written up by 楊遠薰 — see [[works/taiwaneseamericanhistory-org/mystories332|知恩與惜福]].
 - Donated personal archives: Collection of the Richard Cheng-San Lee 李正三的收藏 — see [[works/taiwaneseamericanhistory-org/private-collections-91|李家收藏]].
 - Essayist in the movement record: his memoir piece 西遷記 (published 2020-02) — see [[works/taiwaneseamericanhistory-org/my-stories-721|721. 西遷記]] — and his piece 紀念228在紐約, published in 台美人顧台灣 #14 (2015-03) — see [[works/taiwaneseamericanhistory-org/113-e7-b4-80-e5-bf-b5228-e5-9c-a8-e7-b4-90-e7-b4-84-e6-9d-8e-e6-ad-a3-e4-b8-8920|紀念228在紐約]]. Corroborates his NY-area 228 commemoration activism alongside his 228受難家屬 background.
+
+- Oral-history researcher of the independence movement: his essay 「李天福與蔣廷黻」, describing the 《外交季刊》/「中國死巷」 episode and his view of the Chiang-Tsong-yu rebuttal, was reprinted in 《自由的呼喚》 (李天福編, 前衛社 2000-12) and is cited in the 盧主義 account — see [[works/taiwaneseamericanhistory-org/ourjourneys126|Ourjourneys126]]. Corroborates his standing as a movement-record author beyond restaurant memoirs.
+- Memoirist of his own career: 「紐澤西的將軍日本餐廳」 (2014-09) — see [[works/taiwaneseamericanhistory-org/ourjourneys17|將軍日本餐廳]] — and 「無心插柳柳成蔭: 我的餐飲業生涯」 (2014) — see [[works/taiwaneseamericanhistory-org/mystories87|無心插柳柳成蔭]] — first-person accounts of the Shogun/Genroku restaurant years, complementing the buiness4 record above.
+- Essayist on friends and culture: 「廖修平教授的藝術歷程」 (2015-05) honoring printmaker [[people/prof-shiou-ping-liao|廖修平]] — see [[works/taiwaneseamericanhistory-org/mystories254|廖修平藝術歷程]] — and 「相知相惜五十年——緬懷至友林忠勝兄」 (2015-11) — see [[works/taiwaneseamericanhistory-org/mystories359|相知相惜五十年]] — a fifty-year friendship tribute to [[people/tah-p-3bba902925|林忠勝]].
 
 ## Sources
 - [TAH #201 encyclopedia: 201. Cheng-San Lee 李正三](https://taiwaneseamericanhistory.org/201-cheng-san-lee/)
