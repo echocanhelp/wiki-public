@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-09
 ---
 # Charles Ting (丁昭昇)
 
@@ -61,3 +61,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 2026-09-27 re-check (slice 09260700-3): fresh ZH+EN grep (丁昭昇／Charles Ting) returns the identical saturated set — Our Journeys #65/#65(EN)/#54(EN)/#173(EN)/#186/#917, works index — all already linked. SKIP, verified saturated.
+
+2026-10-09 re-check (slice 10080958-9): fresh ZH+EN grep (丁昭昇／Charles Ting) returns the identical saturated set — Our Journeys #65/#65(EN)/#54/#54(EN)/#173/#173(EN)/#186/#186(EN), works index — all already linked above. Verified saturated, no new corpus facts.
