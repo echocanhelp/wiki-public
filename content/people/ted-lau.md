@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # Ted Lau (劉重義)
 
@@ -38,6 +38,7 @@ last_reviewed: 2026-10-01
 - Profiled as one of the 「費城三傑」 movement cohort (with 李逢春、林泰源、陳志清 — his 風起雲湧 co-authors) in [[works/taiwaneseamericanhistory-org/369-e8-b2-bb-e5-9f-8e-e4-b8-89-e5-82-91-e6-9d-8e-e9-80-a2-e6-98-a5-e3-80-81-e6-9|369. 費城三傑 / 2015-11]].
 - Authored the memoir-piece 3F費城五傑 on the Philadelphia movement cohort — his own first-person account of the circle behind 風起雲湧: [[works/taiwaneseamericanhistory-org/380-3f|380. 3F費城五傑 / 劉重義 / 2015-12]].
 - After leaving WUFI-USA in 1986 he resurfaced in the movement as 召集人 of 臺灣民族同盟: keynote speaker at the morning session of the 第四十五屆美東夏令會 (Oct 2016), quoted there as holding 「民族運動是臺灣建國之必須條件」 — recalled in 翁進治's conference memoir [[works/taiwaneseamericanhistory-org/ourjourneys260|260. 第四十五屆美東夏令會備忘錄&聲明 / 翁進治 / 10/2016]].
+- Authored the essay 3F紀念音樂會的民族論述 (2016-01-05), on the nationhood discourse surrounding the 3F memorial concert — published alongside his 3F費城五傑 memoir piece: [[works/taiwaneseamericanhistory-org/188-3f-e7-b4-80-e5-bf-b5-e9-9f-b3-e6-a8-82-e6-9c-83-e7-9a-84-e6-b0-91-e6-97-8f-e|188. 3F紀念音樂會的民族論述 / 劉重義 / 2016/01]].
 - HOLD: conflict in TAH records — this page is 劉重義, but the encyclopedia entry [[works/taiwaneseamericanhistory-org/760-ted-lau-e5-8a-89-e8-81-b0-e5-be-b7-201601|760. Ted Lau 劉聰德 / 2016/01]] carries the same English name with Chinese name 劉聰德; do not merge until identity is resolved.
 
 ## Timeline
@@ -48,6 +49,7 @@ last_reviewed: 2026-10-01
 - 1985 — co-author of NARTE booklet 風起雲湧
 - 1986-01 — elected 第一副主席 (第十屆盟員代表大會, San Jose); withdrew from the alliance the same year
 - 2015-12 — authored 3F費城五傑 ([[works/taiwaneseamericanhistory-org/380-3f|380]])
+- 2016-01 — authored essay 3F紀念音樂會的民族論述 ([[works/taiwaneseamericanhistory-org/188-3f-e7-b4-80-e5-bf-b5-e9-9f-b3-e6-a8-82-e6-9c-83-e7-9a-84-e6-b0-91-e6-97-8f-e|188]])
 - 2016-10 — as 召集人 of 臺灣民族同盟, morning keynote at 第四十五屆美東夏令會 ([[works/taiwaneseamericanhistory-org/ourjourneys260|260]])
 
 ## Family
@@ -66,3 +68,4 @@ _Corpus re-grep 2026-09-25 (slice 09240700-15): two not-yet-absorbed records fou
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 _Corpus re-check 2026-09-26 (deepen-x slice 09251000-1): fresh grep works/+articles/ — hit set identical to records already wikilinked/absorbed above; no new absorbable facts. SKIP-with-reason: saturated._
 _Corpus re-check 2026-09-26 (deepen-x slice 09260317-12): fresh grep 劉重義|Ted Lau — hit set identical (publications1025, mystories297, ourjourneys238, 760 劉聰德 record, 369 費城三傑, ourjourneys234); 劉重義 vs 劉聰德 HOLD stands. SKIP-with-reason: saturated._
+_Corpus re-grep 2026-10-10 (deepen-x slice 10081200-1): fresh grep 劉重義|Ted Lau across all 5 corpus dirs — one not-yet-absorbed record found: 188. 3F紀念音樂會的民族論述 (2016-01-05, authored by him, bibliographic band-B record) — absorbed above. 劉重義 vs 劉聰德 HOLD stands._
