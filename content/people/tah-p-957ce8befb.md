@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-10
 ---
 # 石青如
 
@@ -62,3 +62,4 @@ HOLD: conflict — TAH #276 titles her profile "Cing-Ru Shih 石青如, Composer
 <!-- deepen-x slice 09251023-4 (2026-09-26): saturated re-verify — fresh grep (石青如/Cing-Ru Shih) hit set unchanged (own TAH #276/#549 + OurJourneys 287 already absorbed + index). Nothing new absorbable. -->
 <!-- deepen-x slice 09260600-18 (2026-09-27): saturated re-verify — fresh grep (石青如/Cing-Ru Shih) hit set unchanged (own TAH #276/#549 + OurJourneys 287 already absorbed + index). HOLD stands; nothing new absorbable. -->
 <!-- deepen-x slice 10051200-18 (2026-10-06): DEEPENED — composer bio appendix from OurJourneys 287 absorbed (works/education/awards); grep hit set = own TAH #276/#549 + OurJourneys 287 + index, HOLD stands -->
+<!-- deepen-x slice 10091404-5 (2026-10-10): saturated re-verify — fresh ZH+EN grep (石青如 / Cing-Ru Shih) across works/articles/sources/events/topics returns hit set already absorbed on this page (own TAH #276/#549 + OurJourneys 287 + index); musician395/whoswho1634 hits are Ching-Ju Cheng 鄭靜如, a different person (false positive). HOLD stands; nothing new absorbable. -->
