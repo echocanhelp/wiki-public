@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Strong Chuang (莊秋雄)
 
@@ -56,6 +56,8 @@ last_reviewed: 2026-09-24
 - HOLD: group-name conflict — his own memoir lineage and [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys #33]] call the Kansas circle the Kansas Suite Group (page above, 1964–65), while [[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys #58, 2014-11-02]] records it as Kansas Formosan Group (KFG), formed 1966-07-01 at Manhattan, Kansas, basic members 呂天民、莊秋雄、陳希寬、黃石定、蔡一 (later 王能祥、方菊堆), an affiliated basic club of UFAI; KFG also conceived the first nationwide 台灣人同鄉通訊錄. Name/roster/date variants never auto-merged. He is also listed as a 辛辛那提同鄉會 supporter in the published 通訊錄 acknowledgments ([[works/taiwaneseamericanhistory-org/ourjourneys256|Our Journeys #256]]) and among the K-State campus distributors of 《台灣青年》/《台灣通訊》 ([[works/taiwaneseamericanhistory-org/ourjourneys234|Our Journeys #234]]).
 - Author of corpus memoirs in his own hand: #130 同鄕會參加辛城國際展 (2015/04), [[works/taiwaneseamericanhistory-org/71-e6-b5-b7-e5-a4-96-e9-81-8a-e5-ad-90-e5-8f-b0-e7-8d-a8-e5-a4-a2-e8-8e-8a-e7-a7|71. 海外遊子台獨夢 (1993/04)]], [[works/taiwaneseamericanhistory-org/415-e6-b5-b7-e5-a4-96-e9-81-8a-e5-ad-90-e5-8f-b0-e7-8d-a8-e5-a4-a2-e7-ba-8c-e8-8|415. 海外遊子台獨夢-續]] (2002/12), and [[works/taiwaneseamericanhistory-org/mystories451|451. 兩項運動全能的鄭武陽]] (2016/07)
 - Subject of 林雙不's biography 深秋天涯異鄉人——安安穩穩莊秋雄 (2000) — [[works/taiwaneseamericanhistory-org/publications286|TAHS #286]]
+- 2022-02-24: interviewed by Rik Glauert (with his son Tim Chng) on transitional justice — recalls being blacklisted from returning to Taiwan while in the United States in 1965 — [[works/taiwaneseamerican-org/remembering-the-228-massacre-readings-resources-on-taiwans-white-terror-era|Remembering the 228 Massacre (NYT, 2022-02-24)]]
+- Family (affinal): his sister 莊芳華 (teacher and author) married poet 吳晟; 吳音寧 (北農總經理) is their daughter, and 吳志寧 (九二樂團主唱) is among their sons — 莊秋雄 is named as 吳音寧's 舅舅 (maternal uncle) in 余杰's essay [[articles/taiwanjustice-net/2025/20251207074642_種更多的樹_愛更多的人_純園種-_-余杰_7be9fd4f4d89bd70|種更多的樹，愛更多的人 (2020-06-24)]]
 
 ## Sources
 - [TAH #1297 encyclopedia: 1297. Strong Chuang 莊秋雄 / 2016/10](https://taiwaneseamericanhistory.org/whoswho1297/)
