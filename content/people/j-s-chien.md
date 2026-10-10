@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-09
 ---
 # J. S. Chien (簡忠松)
 
@@ -39,11 +39,15 @@ Community memoirs in the corpus describe 簡忠松 as a civil engineer who ran h
 
 His TAH catalog life-writing thread is broader than the two essays above: 簡勇 台語文自賞集 (1995-07, [[works/taiwaneseamericanhistory-org/474-e7-b0-a1-e5-8b-87-e5-8f-b0-e8-aa-9e-e6-96-87-e8-87-aa-e8-b3-9e-e9-9b-86-e7-b|474]]), 台語文 工程話 故人情 with 胡民祥 (1997-07, [[works/taiwaneseamericanhistory-org/477-e5-8f-b0-e8-aa-9e-e6-96-87-e5-b7-a5-e7-a8-8b-e8-a9-b1-e6-95-85-e4-ba-ba-e6-8|477]]), 颱 with 胡民祥 (2000, [[works/taiwaneseamericanhistory-org/478-e9-a2-b1-e7-b0-a1-e5-bf-a0-e6-9d-be-e8-83-a1-e6-b0-91-e7-a5-a5-e8-aa-9e-e8-a|478]]), 黑珍珠 (1999, [[works/taiwaneseamericanhistory-org/199-e5-8f-b0-e9-bb-91-e7-8f-8d-e7-8f-a0-e7-b0-a1-e5-bf-a0-e6-9d-be-e8-aa-9e-e8-a|199]]), 回頭來時路 (2011, [[works/taiwaneseamericanhistory-org/248-e5-9b-9e-e9-a0-ad-e4-be-86-e6-99-82-e8-b7-af-e7-b0-a1-e5-bf-a0-e6-9d-be-2011|248]]), and 順生善後—哀慟歷程 ([[works/taiwaneseamericanhistory-org/e7-b0-a1-e5-bf-a0-e6-9d-be-e9-a0-86-e7-94-9f-e5-96-84-e5-be-8c|480]]); the English edition of 愛河 is preserved at [[works/taiwaneseamericanhistory-org/mystories121-eng|My Stories 121 (EN)]]. The engineering-title essays (工程話, 颱) show his engineer's voice written into the Taiwanese-language literature record.
 
+The Austin Taiwanese Association memoir adds biographical and blacklist detail: **Jong-Song Chien (簡忠松), born in Yilan (宜蘭) in 1944, came to the United States in 1969 and earned his master's degree in engineering at Cincinnati. He was put on the KMT blacklist in 1970 for initiating the Taiwanese Association in Cleveland, Ohio, and later came to Austin to retire in the 2000s, listed alongside other blacklisted returnees there such as 陳希寬 and 張郁彬 ([[works/taiwaneseamericanhistory-org/ourjourney-343|Our Journey 343]]). HOLD: the blacklist attribution here (initiating the Cleveland association) is stated alongside — not against — the independence-movement rationale recorded in [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys 106]]; the two accounts are not in conflict on dates (both place the blacklisting in the early 1970s). His birth year 1944 is consistent with the NTU 1966 graduation date in the Education table.
+
 複核（deepen-x slice-09190130-4, 2026-09-20）：re-grep 簡忠松 / J. S. Chien hit set identical to the records already absorbed above (ourjourneys106, ourjourneys233 ±eng, mystories121, #475/476/479, #1364, #268) — SKIP, 無新材料。
 
 複核（deepen-x slice-09201400-10, 2026-09-21）：re-grep 簡忠松 / J. S. Chien hit set unchanged (ourjourneys106, ourjourneys233 ±eng, #1364, #479, mystories121) — SKIP, 無新材料。
 
 複核（deepen-x slice-09211300-13, 2026-09-22）：re-grep 簡忠松 / J. S. Chien hit set unchanged (ourjourneys106, ourjourneys233 ±eng, mystories121, #479, #1364) — saturated, SKIP, 無新材料。
+
+複核（deepen-x slice-10080951-24, 2026-10-09）：re-grep 簡忠松 / J. S. Chien surfaced one previously-unabsorbed record — ourjourney-343 (ATA memoir: birth Yilan 1944, arrived US 1969, blacklisted 1970 for initiating the Cleveland Taiwanese Association, retired to Austin in the 2000s) — absorbed above.
 
 ## Sources
 - [TAH #1364 encyclopedia: 1364. 宜中耆老憶往述今–簡忠松專輯 | 簡忠松 /02/2022/ Autobiography/自傳](https://taiwaneseamericanhistory.org/publications-1364/)
