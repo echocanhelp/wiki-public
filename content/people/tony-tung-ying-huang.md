@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Tony Tung-Ying Huang (黃東瀛)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep (slice deepen-x-slice-09230800-2, 2026-09-24): fresh grep 黃東瀛|Tung-Ying Huang — hit set unchanged (#153, #383, Our Journeys 306, index) — all absorbed above; saturated, SKIP-with-reason.
 - Corpus re-grep (slice deepen-x-slice-09240700-2, 2026-09-25): fresh grep 黃東瀛|Tung-Ying Huang — hit set unchanged (#153, #383, Our Journeys 306, index) — all absorbed above; saturated, SKIP-with-reason.
 - Corpus re-grep (slice deepen-x-slice-09250900-1, 2026-09-25): fresh grep 黃東瀛|Tung-Ying Huang — hit set unchanged (#153, #383, Our Journeys 306, index) — all absorbed above; saturated, SKIP-with-reason.
+- Corpus re-grep (slice deepen-x-slice-10091404-3, 2026-10-10): fresh grep 黃東瀛 / Tung-Ying Huang / 東瀛 / Tony Huang across works+articles+sources+events+topics — personal hit set unchanged (#153, #383, Our Journeys 306, index); surname-only 黃 widened to unrelated taiwanjustice articles (彭瑞麟, 楊嘉猷 東瀛歲月 = 'Japan' prose, not the person). No new absorbable material; saturated, SKIP-with-reason.
