@@ -9,7 +9,7 @@ tags:
   - presbyterian
   - FPCLA
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-09
 ---
 # Grace H. Yeh (張信惠)
 
@@ -80,6 +80,8 @@ TAH lists her as the first appointed organist of [[organizations/formosan-presby
 - 2022-01-09 — 台美人筆會會友拜訪張信惠、葉思雅伉儷，慶賀二人自2020-02-01起為台灣公義報撰寫的「週末漫談音樂」專欄滿100期（張信惠為音樂科班出身，是專欄知識底蘊的來源之一；二人2015年8月起另在大洛杉磯台灣會館開「古典音樂欣賞」課至2020年2月疫情停開）（[[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd|TJJ, 2022-01-10]]）。
 - Corpus 覆核（deepen-x slice 09180131-10, 2026-09-18）：re-grep 張信惠 / Grace H. Yeh 命中集不變（#448、#146、#144、Our Journeys 231 ±EN、index），全部已吸收於上列——SKIP-with-reason：無新增可吸收社群語料。Our Journeys 231 英文對應頁：[[works/taiwaneseamericanhistory-org/ourjourneys231-eng|Our Journeys 231 (EN)]]。
 - Re-verify 2026-09-23 (TJJ-A09221200-7): link-check against slice article ced695235dbeb850（會館標籤頁 p13, 2023-02-05 快照）body —「大洛杉磯台灣會館十月音樂欣賞課月9日舉行 ◎葉思雅、張信惠 主持」確認見於正文，連結為真；2016-10-04 日期事實已在庫，無新材料。
+- 2021-10-15 — 與夫婿葉思雅醫師將畢生古典音樂收藏一萬餘件（四千多件黑膠唱片、六千多件CD）捐贈台南許石音樂圖書館，該館於1樓設「信雅古典音樂珍藏」專區、B1增設「信雅古典音樂欣賞室」，台南市長黃偉哲主持啟用儀式並與二人自美國視訊連線致謝；報導記張信惠就讀國立藝專、主修鋼琴，二人移民美國後於賓州老人中心主持每週音樂欣賞節目、展開音樂教學第二人生 —— [[articles/taiwanjustice-net/2021/20211207113948_2021_10_15_台南許石音樂圖書館信雅古典音樂珍藏專區啟用_4e3b2180b83318fa|TJJ, 2021-12-07 刊（2021-10-15 啟用報導）]]。
+- 2020-03 — 台灣公義報藝文分類頁載「因應武漢肺炎危機，葉思雅、張信惠主持的音樂欣賞課 2020年3月課程取消」 —— [[articles/taiwanjustice-net/2025/20250417221918_category_literature_2bf783a2cbd3ac5a|TJJ literature 分類頁, 2025-04-17 快照]]。HOLD: 停課時間衝突——2022-01-10 專欄滿百期文記課程「至2020年2月疫情停開」，本條記2020年3月課程取消，兩說並存，不自動合併日期。
 - 覆核（TJJ-A09171200-9, 2026-09-24）：slice 09171200-9 四篇與 TJJ-A09170400-17 同文（北市議員缺額 93c0627d、全美會228 f6213c19、長青教室tag 2777c888、會館tag p13 ced69523）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 
 ## Related Pages
