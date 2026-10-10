@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-11
+last_reviewed: 2026-10-10
 ---
 # Peter Lin (林冠豪)
 
@@ -31,11 +31,12 @@ last_reviewed: 2026-09-11
 - **2026-09-10** — DEEPEN-X11 pass: page carries the full board-roster and 2024 gala context already on-page; namesake jazz-musician records held separate pending evidence.
 - **2026-09-11** — DEEPEN-X09102200-4 pass: re-verified on-page board/gala context; no new vault facts available in cited sources; namesake jazz-musician works held separate.
 - **2026-09-11** — DEEPEN-X09112100-2 pass: re-verified against the archived board page (`knowledge/web-archives/taiwancenter-org-board.md`) — currently listed there as 個人董事. Namesake jazz records remain held separate.
+- **2026-10-10** — DEEPEN-X10091404-13 pass: fresh ZH+EN grep across all five corpus dirs returned only the jazz-musician records and the 2024 gala roster already on-page; no new 林冠豪 director-side facts. Namesake jazz records remain held separate.
 - **2018-06-17** — the 第11屆 會員大會 會訊 report ([[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7||大洛杉磯台灣會館會訊，2018 年六月]]) names the 20 個人董事 elected that day; 林冠豪 is **not** among them (the 林-surnamed directors listed are 林榮松, 林國彥 and 林正賢). His current 個人董事 seat therefore post-dates the 2018 board renewal — the earliest vault record of his tenure remains the 2024-11-02 gala roster above.
 
 ## Possible-namesake records (identity not established)
 
-- The vault holds two interviews with a Taiwanese-American jazz trombonist **Peter Lin** (bandleader of "The Lintet", Rutgers jazz-studies graduate, NJ/NY area): [[works/taiwaneseamerican-org/the-lintet-jazz-band||The Lintet (2016)]] and [[works/taiwaneseamerican-org/new-age-old-ways-peter-lin-crosses-artistic-mediums-and-cultures-through-taiwane||New Age, Old Ways (2019)]]. No source in this set confirms this Peter Lin is the Taiwan Center director 林冠豪; held separate pending evidence.
+- The vault holds two interviews with a Taiwanese-American jazz trombonist **Peter Lin** (bandleader of "The Lintet", Rutgers jazz-studies graduate, NJ/NY area): [[works/taiwaneseamerican-org/the-lintet-jazz-band||The Lintet (2016)]] and [[works/taiwaneseamerican-org/new-age-old-ways-peter-lin-crosses-artistic-mediums-and-cultures-through-taiwane||New Age, Old Ways (2019)]]. The musician also appears in the 2019 year-in-review roundup ([[works/taiwaneseamerican-org/19-things-that-happened-in-taiwan-taiwanese-america-in-2019||19 Things That Happened in Taiwan / Taiwanese America in 2019]]) and in the community roll-call of creators/small businesses ([[works/taiwaneseamerican-org/roll-call-supporting-taiwanese-american-creators-small-businesses-during-covid-1||Roll Call: Supporting Taiwanese American Creators & Small Businesses During COVID-19]]), where he is listed under Yardbird Entertainment. No source in this set confirms this Peter Lin is the Taiwan Center director 林冠豪; held separate pending evidence.
 
 ## Source Notes and Confidence
 
