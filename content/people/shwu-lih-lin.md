@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-09
 ---
 # Shwu Lih Lin (林淑麗)
 
@@ -60,6 +60,7 @@ Her TAH encyclopedia entries are archived in the vault:
 - Author of two TAH literature entries under the pen name Sue Lin: [[works/taiwaneseamericanhistory-org/63-e6-99-ae-e6-9e-97-e6-96-af-e9-a0-93-e6-95-a3-e8-a8-98-e6-9e-97-e6-b7-91-e9-ba||TAH #63, 普林斯頓散記 (2007-07)]] and [[works/taiwaneseamericanhistory-org/67-nylon-panty-hose-journey-sue-shwu-lih-lin-e5-b0-bc-e9-be-8d-e7-b5-b2-e8-a5-aa||TAH #67, 尼龍絲襪之旅 / Nylon Panty Hose Journey]] — consistent with her pen-club co-founding role and with the 2002 Taiwanese-literature seminar and book-donation entries above.
 - Her Who's Who entry is archived in-vault: [[works/taiwaneseamericanhistory-org/whos-who-7-shwu-lih-lin||TAH Who's Who #7]].
 - Further in-vault writings under her name: [[works/taiwaneseamericanhistory-org/mystories65||TAH #65, My Journey across Two Cultures — the Cranbury Woman's Club talk text]], [[works/taiwaneseamericanhistory-org/my-stories-68||TAH #68, 也是失聲的一代? (2019-09)]] and [[works/taiwaneseamericanhistory-org/50298||TAH #655, 希望小城 (2018-10)]].
+- Additional story-corpus records in the vault, not previously linked: [[works/taiwaneseamericanhistory-org/mystories66||TAH mystories #66, Becoming an American (2014-09)]] — companion text to the 2002 Cranbury Woman's Club speech above; [[works/taiwaneseamericanhistory-org/mystories443||TAH mystories #443, 走過二ＯＯ一年 (2016-06)]] and its English version [[works/taiwaneseamericanhistory-org/my-stories-443||#443 Year 2001 (2019-09)]] — her account of the 2001 community year; [[works/taiwaneseamericanhistory-org/my-stories-716||TAH my-stories #716, 我的母親 (2020-01)]] — a memoir piece on her mother; and [[works/taiwaneseamericanhistory-org/private-collections-88||TAH private-collections #88, Sue Shwu Lih Lin 林淑麗的收藏 (2019-09)]] — her own private collection deposited with the archive, consistent with her book-donation and literature-promotion work.
 
 ## Organizing (in-vault activity records)
 - Chapter record for her NATEA presidency: [[works/taiwaneseamericanhistory-org/natea-greater-new-york-chapter||NATEA Greater New York Chapter]]; her pen club's own activity record: [[works/taiwaneseamericanhistory-org/activities-of-the-greater-new-york-region-overseas-taiwanese-pen-club||activities of the Greater New York Region Overseas Taiwanese Pen Club]].
