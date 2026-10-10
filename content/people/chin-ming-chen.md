@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Dr. Chin-Ming Chen (陳欽明醫師)
 
@@ -75,3 +75,14 @@ All wikilink targets (#102, #899, #17, GTI, pen-club pages) verified to exist in
 
 ## Vault re-check 2026-09-14 (deepen-x slice 09140845-3, vault-only)
 All wikilink targets re-verified to exist in the vault; all cited-source facts remain as absorbed in prior deepen passes. No new vault facts, no web used, no new pages, nothing published.
+
+## Deepen — 2026-10-10 (deepen-x slice 10081500-18, vault-only)
+
+Fresh ZH+EN grep across works/articles/sources/events/topics surfaced his own first-person writings in the story corpus, previously unlinked from this page:
+
+- 2017 — published in the TAH story corpus: [[works/taiwaneseamericanhistory-org/mystories547|出故鄉台灣之路]] (essay, 05/2017) and [[works/taiwaneseamericanhistory-org/mystories549|終身大事來臨時]] (essay, 05/2017).
+- 2017 — autobiography and travel writings: [[works/taiwaneseamericanhistory-org/publications1135|草地游子也憶錄]] (autobiography, 06/2017) and [[works/taiwaneseamericanhistory-org/publications1136|草地游子旅遊記]] (life/travel, 06/2017). "草地游子" (grassland wanderer) is his self-designated pen persona.
+- His donated archive is a vault record in its own right: [[works/taiwaneseamericanhistory-org/collection-of-dr-stephen-chen|陳欽明醫師的收藏 (TAH #14, Collection of Dr. Stephen Chen)]].
+- Pen Club history (ourjourneys12): the 大紐約區海外台灣人筆會 lists him as the **5th president**, after 林興隆 (2nd), 郭正昭 (3rd, late 2012), 李正三 (4th, early 2015) — corroborating the 2016–2017 presidency as membership-recorded.
+- HOLD: pen-club succession date conflict — the page/TAH bio says president **2016–2017**, but ourjourneys12 says 陳欽明醫師繼任 in **2015** ("2015年由陳欽明醫師繼任第五任會長至今年2017年底"). Not auto-merged.
+- Name disambiguation: [[works/taiwaneseamericanhistory-org/whos-who-1690-stephen-chen|TAH #1690 "Dr. Stephen Chen 陳貞華博士"]] is a **different person** (陳貞華) despite the shared English name — do not conflate with this page's Stephen Chen alias (陳欽明).
