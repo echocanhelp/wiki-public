@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Sean Wang (王雍翔博士)
 
@@ -67,3 +67,6 @@ Re-checked both cited TAH works (#246, #503) and the corpus: all absorbable biog
 ## Deepen-x 2026-09-14 (slice 09141300-9, corpus grep)
 - New corpus mention: in the ta.org interview [[works/taiwaneseamerican-org/vanessa-chen-until-the-sun-rises|Vanessa Chen — "Until the Sun Rises"]], artist Vanessa Chen credits "Sean Wang" (portfolio seanwang.format.com) as one of two artists who donated works to her thesis exhibition, describing his piece *Artist from Taiwan, China* as his own experience of being forced to append "China" to his nationality at a show in China. **HOLD:** the source describes a visual-art practice and gives no Chinese name; identity as violinist/musicologist 王雍翔 is unconfirmed — not merged into the timeline above.
 - Other corpus hits remain the already-absorbed records [[works/taiwaneseamericanhistory-org/246-sean-wang-e7-8e-8b-e9-9b-8d-e7-bf-94violinist-201507|TAH #246]] / [[works/taiwaneseamericanhistory-org/503-sean-wang-e7-8e-8b-e9-9b-8d-e7-bf-94-201507|TAH #503]] plus the works index; no Our Journeys memoir mentions.
+
+## Deepen-x 2026-10-10 (slice 10091404-30, corpus re-verify)
+Fresh ZH+EN+surname grep (王雍翔 / 王雍 / Sean Wang / Sean Y. Wang / Yongxiang) across all five corpus dirs returned the identical hit set as the 2026-09-14 passes: TAH #246 / #503 (biographical text already absorbed in Identity Snapshot + Timeline), the works index, the source page, and the [[works/taiwaneseamerican-org/vanessa-chen-until-the-sun-rises|Vanessa Chen interview]] — whose "Sean Wang" visual-art reference remains **HOLD** (no Chinese name, art practice unconfirmed against the violinist/musicologist). No new memoir, event, or topic mentions. Status: saturated, pending-verification.
