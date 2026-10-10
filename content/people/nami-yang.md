@@ -150,3 +150,5 @@ Fresh ZH+EN grep across works/articles/sources/events/topics surfaced 18 additio
 
 
 <!-- TJJ-A10090501-27: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-27 article c76f11ecd2598ecb (2017台美文藝出版·台美人筆會六月十七日舉辦發表會報導, 2017-06-11 刊 / 2022-11-27 快照) read fresh this attempt: subject link re-checked vs 正文 (筆會會長李淑櫻宣布2017台美文藝出版及6/17發表會; 第二代作家名單 游朝凱、梁凱琳、Julia Wu、Jennifer Chow、楊小娜; 編委名單 李彥禎、陳東榮、李芬芬、鄭炳全、秦雪華、林文政), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090701-13: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-13 article cd2062fe6528223c (The Beauty of Taiwan-Heart of Asia Exhibition & Art Talk, TJJ 2017-03-14刊, 2024-07-24快照): subject link re-checked vs 正文 this attempt — 圖/文作者即傳主本人、自述TUF現任理事兼藝展組，並自述與策展人蘇奐豪相識約10年、同屬藝展組, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -87,3 +87,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10060700-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060700-2 article cd2062fe6528223c (台灣之美‧亞洲之心國際巡迴展LA展報導, 2017-03-14刊, 2024-07-24快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070900-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-2 article cd2062fe6528223c (台灣之美‧亞洲之心LA展報導, 2017-03-14刊, 2024-07-24快照): subject link re-checked vs 正文 this attempt — 以新藝畫會會員受邀參展點名於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090701-13: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-13 article cd2062fe6528223c (The Beauty of Taiwan-Heart of Asia Exhibition & Art Talk, TJJ 2017-03-14刊, 2024-07-24快照): subject link re-checked vs 正文 this attempt — 以新藝畫會會員受邀參展點名於正文（與李淑櫻、劉白、蔡蕙香、陳文石同列）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
