@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-10
 ---
 # Dr. Tan-Sun Mark Chen (陳唐山博士)
 
@@ -45,7 +45,11 @@ Dr. Tan-Sun (Mark) Chen 陳唐山 – History of Taiwanese American (T.A. Archiv
 - **國會遊說**：與 Cheng Long Tsai、Chen Su-jen 一同在國會作證，證詞列入國會永久紀錄；兩次國會聽證累積的遊說信心直接催生 FAPA（台灣人公共事務會）— [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8（EN）]]。曾出席 15 人發起討論（2 月 13 日舉行，與會者含 Charles Ting、Kenjohn Wang、Philip Chen、Tu Chen 等；會中先討論設廣播台向島內宣傳，多數意見認為島內反國民黨刊物已多、且國民黨必將干擾而搁置，轉而討論成立專責外交事務組織，即 FAPA 前身），本人列席 — [[works/taiwaneseamericanhistory-org/ourjourneys65-eng|Our Journeys 65（EN）]]。
 - **社區媒體**：任全美會、世台會會長期間主動向《鄉訊》提供訊息，被該刊定期報導（主編：「差不多一個星期就要提到他一次」）；FAPA 成立後報導重心轉向蔡同榮 — [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys 49（鄉訊編輯回憶）]]。
 - **「回不了家」的經典故事**：留美期間因投入海外台灣民主化運動被列黑名單回不了台灣，因此在華盛頓成家立業；解嚴後返鄉，又因任外交部長而無法回華府探望兒孫——20 餘年兩頭「回不了家」，被視為台美人處境的寫照 — [[works/taiwaneseamericanhistory-org/ourjourneys320|Our Journeys 320（台灣旅行法與台美人故事）]]。
-- 本人回憶錄為上述社群文獻所引用：陳唐山，2016，《黑名單與外交部長 陳唐山回憶錄》（台北：前衛出版社）。
+- 本人回憶錄為上述社群文獻所引用：陳唐山，2016，《黑名單與外交部長 陳唐山回憶錄》（台北：前衛出版社）— [[works/taiwaneseamericanhistory-org/publications1053|TAH #1053（陳唐山回憶錄：黑名單與外交部長）]]；本人條目另見 [[works/taiwaneseamericanhistory-org/whos-tan-sun-chen|TAH #758（Dr. Tan-Sun (Mark) Chen 陳唐山）]]；2017-05-28 接受《台灣演義》專訪 — [[works/taiwaneseamericanhistory-org/videos65|TAH #65（台灣演義：陳唐山）]]。
+- **移民配額遊說**：1980-05-19 與彭明敏、魏瑞明一同赴甘迺迪辦公室商討台美斷交後的台灣人移民配額問題，甘迺迪其後於洛杉磯千人募款餐會演講中公開主張公平配額方案；1981-11-06 以世台會理事長身分、偕全美會會長林明哲邀請旅居美國台灣人各地代表赴華府拜會甘迺迪及索拉茲眾議員，重申「台灣關係法」應解釋為每年二萬名台灣人移民配額 — [[works/taiwaneseamericanhistory-org/ourjourneys59|Our Journeys 59（甘迺迪與台灣人移民／人權遊說）]]。
+- **夏令會與社團演講**：1981 年第三屆台灣人夏令會（北卡威爾孫學院，約 200 人）以全美會會長身分出席 — [[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys 245（台灣人夏令會史）]]；早年亦曾與陳隆志、史明、洪哲勝、蔡同榮等到北卡台灣同鄉會演講（聽眾多在私人客廳，避免情治打報告）— [[works/taiwaneseamericanhistory-org/our-journeys-381|Our Journeys 381（北卡同鄉會五十年）]]。
+- **黑名單解禁與返台**：1990 年前後北美洲台灣人教授協會台北年會的黑名單談判中，陳唐山以時任台南縣長身分列名返台後「政治舞台」要角（與張富美、蔡同榮、許添財等並列）— [[works/taiwaneseamericanhistory-org/ourjourneys259|Our Journeys 259（教授協會與黑名單解禁）]]；NATPA 年會回台期間，吳三連基金會歡宴中由「前世台會會長、後來擔任台南縣長的陳唐山」演講 — [[works/taiwaneseamericanhistory-org/ourjourneys47|Our Journeys 47（NATPA 年會回台紀實）]]。HOLD: OJ47 同文稱「曾任台獨聯盟主席的蔡同榮、陳唐山可以返台參加國是會議」，與本庫其他文獻（列其為台獨聯盟時期奧克拉荷馬代表／校園啟蒙圈成員）衝突，照錄未調和。
+- 妻子林純純的相識經過，本人有專文自述：[[works/taiwaneseamericanhistory-org/mystories502|TAH #502（補教人生：遇見林純純）]]。
 
 ## Family
 
