@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Chao-Nan Liu (劉照男)
 
@@ -76,6 +76,10 @@ last_reviewed: 2026-09-24
 - 2015-08 — wrote up the 2014 美東夏令會 from a participant's view（[[works/taiwaneseamericanhistory-org/ourjourneys159|159. 2014 美東夏令會觀感]]）。
 - 2018-09 — spoke with 台美人下一代（TANG）at a picnic gathering（[[works/taiwaneseamericanhistory-org/341-tang|341. 難忘的野餐—與台美人下一代歡談]]）。
 - 2018 — his personal archive is preserved as「劉照男教授的收藏」（[[works/taiwaneseamericanhistory-org/collection-of-prof-chao-nan-liu|72. Collection of Prof. Chao-Nan Liu]]）。
+- 2014-10 — essay 「飛越嘉南平原」（[[works/taiwaneseamericanhistory-org/mystories116|116. 飛越嘉南平原]]）。
+- 2015-07 — essay 「這世間值得居留，因為有你們!」（[[works/taiwaneseamericanhistory-org/mystories306|306. 這世間值得居留，因為有你們!]]）。
+- 2015-07 — account of the 美東夏令會返鄉之夢（[[works/taiwaneseamericanhistory-org/ourjourneys153|153. 美東夏令會的返鄉之夢]]，value band A）— companion piece to his 159 觀感.
+- 2021-05 — autobiography 「山中燈火入夢來」（[[works/taiwaneseamericanhistory-org/publications1358|1358. 山中燈火入夢來／自傳]]）。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
