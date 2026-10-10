@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Julie Chen (許春惠)
 
@@ -48,6 +48,7 @@ last_reviewed: 2026-10-09
 
 - Re-verify 2026-10-01 (slice 09261000-2): fresh ZH+EN grep (works/ + articles/) — corpus hits remain ourjourneys186, 630 (her own Who's Who stub), ff264, the works index, and the Pew statement name list already recorded above. No new community-authored material; the unconfirmed "Julie Chen" on the Pew list stays HOLD. Verified saturated, SKIP.
 - Husband's own encyclopedia record: [[works/taiwaneseamericanhistory-org/629-jeff-chen-e9-99-b3-e5-93-b2-e5-a4-ab-201509|TAH #629, Jeff Chen 陳哲夫, 2015/09]] — surfaced by the 陳哲夫 sweep in the 2026-10-08 (slice 10070018-2) re-grep; bibliographic record, full text stays in the vault. Same couple, no new facts beyond the joint record set already held.
+- 2026-10-10 (deepen-x slice 10091500-26): corpus grep surfaces one new community record — 黃美星's Taiwan House founding memoir [[works/taiwaneseamericanhistory-org/ourjourneys53|Our Journeys #53, 台灣會館美夢成真 / 2014-10-27]] lists "春惠" among the 台灣會館's "超級大義工" (super volunteers) credited in the new-house thank-you, alongside 張麗雪, 張漢忠, 鄧基碩 and others — HOLD: first-name-only listing, no surname or location context to confirm it is 許春惠 (the couple's TAH #264 record places them in the hotel business, not the Bay Area Taiwan House scene), identity unconfirmed, not absorbed as fact. Otherwise the hit set is unchanged from the 2026-10-09 re-verify (ourjourneys186, ff264, 629, 630, 263, 41, mystories343, Pew name list, works index).
 - Re-verify 2026-10-09 (slice 10080700-1): fresh ZH+EN+Jeff Chen grep across all 5 corpus dirs returns only records already linked above (ourjourneys186 + eng name list, mystories343, 629, 630, 263, 41) plus one new name-collision hit: [[works/taiwaneseamericanhistory-org/our-journeys-384|Our Journeys #384]] lists a "Jeff Chen" among the UCSD Taiwanese American Archives transitional-team donors (2022 year-end note) — HOLD: almost certainly a different Jeff Chen (archivist/UCSD context, not the hotel entrepreneur), identity unconfirmed, not absorbed. Verified saturated otherwise.
 
 ## Sources
