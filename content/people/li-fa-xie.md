@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Li–Fa Xie (謝里法)
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-09-24
 - Further corpus-held essay: 《重塑台灣的心靈》 (1988-07, 文學) — [[works/taiwaneseamericanhistory-org/publications130|130. 重塑台灣的心靈 / 1988-07]].
 - **Paris 三劍客 and 巴黎大獎** — with 廖修平 and 陳錦芳, the 1960s Paris-study "三劍客": they realized their student-era vow by founding「巴黎大獎」(Prix de Paris) to send young Taiwanese artists to study in Paris, and in 1993 co-founded 財團法人巴黎文教基金會 (廖修平 chairman; 謝里法 among directors) — the 「賣廟助學」 story; 1993 NYC SoHo photo of the three — [[works/taiwaneseamericanhistory-org/ourjourneys284|284. 紐約蘇荷巴黎三劍客 / 廖新田 / 2017-05]].
 - **1975 台灣文藝沙龍 co-founder** — 林衡哲's memoir records Xie among the four (陳錦芳、謝里法、洪銘水、林衡哲) who founded「台灣文藝沙龍」 after the 鄉土文學論戰, the turning point toward 台灣文學/台灣文化 for that NY circle ([[works/taiwaneseamericanhistory-org/ourjourneys70|Our Journeys 70 (林衡哲, 股東同仁平安)]]).
+- **Contributor to 《台灣文化》雙月刊** — the bimonthly 陳永興 founded in North America (2.5 years in print, notable for recording 228 Incident historical facts) lists 林俊提 and 謝里法 among its key contributors alongside 總編輯 陳芳明 and 社長 黃美幸 ([[works/taiwaneseamericanhistory-org/ourjourneys8|Our Journeys 8]]; EN: "Stephen Lin and Li-fa Hsieh… contributed much to the project" — [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8 EN]]).
 - **Cultural presence at overseas gatherings** — headliner alongside 陳永興、陳芳明、呂秀蓮 at the first 《台灣文化之夜》 in Los Angeles, May 1986 (500+ attendees; seeded 太平洋時報) ([[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys 301, 南加州台灣人聯合基金會]]); at the 1985 美東南夏令會 remembered as 文質彬彬, artist through and through — the anecdote of him pen-editing a 「TAIWAN,R.O.C」 T-shirt into 「ROOT」 to everyone's laughter ([[works/taiwaneseamericanhistory-org/our-journeys-379|Our Journeys 379, 十年東南夏令憶感]]).
 - Community action in the movement record: a 謝里法 oil-painting charity sale funded the Houston Taiwanese community center — 楊朝諄、李席舟、李雅彥 purchased works, raising 九千元 with half going to the 會館 ([[works/taiwaneseamericanhistory-org/ourjourneys233|233. 回顧休士頓台灣人活動中心的成立 / 莊承業 / 2016-07]]).
 - 2026-09-24 re-check (DEEPEN-X slice 09230700-4): corpus re-grep widened the hit set — NEW facts absorbed this pass: essay 130 重塑台灣的心靈, 巴黎大獎/巴黎文教基金會 (Our Journeys 284), 台灣文藝沙龍 1975 co-founding (Our Journeys 70), 台灣文化之夜 1986 (Our Journeys 301), 1985 夏令會 ROOT anecdote (Our Journeys 379). Prior verified-saturated status superseded.

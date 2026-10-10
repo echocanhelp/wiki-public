@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-09
 ---
 # Dr. William L. Ko (柯威霖博士)
 
@@ -61,6 +61,10 @@ _No filled family fields on the TAH profile._
 - **Honorary Citizenship of the Republic of Texas (1968)** — [[works/taiwaneseamericanhistory-org/winners16|TAH winners #16]].
 - **Pioneer record** — the vault holds him as the first Ph.D. holder in aerospace engineering — [[works/taiwaneseamericanhistory-org/ff119|TAH #119 — William Leslie Ko 柯威霖 / First Ph. D. Holder in Aerospace Engineering]].
 - Railroad art & literature: 鐵道短篇小說及鐵道美術畫集 (2008–) — [[works/taiwaneseamericanhistory-org/pub436-railroad-short-stories|TAH pub #436 — 鐵道短篇小說及鐵道美術畫集 (柯威霖)]].
+
+## Later Record (deepen pass 2026-10-09, vault-only)
+- **Death (2022-04)** — the corpus records his passing in the feature 從火車機關士到NASA科學家 馬偕第四代孫柯威霖辭世 (My Stories #830, 2022-04-20), which also situates him as a fourth-generation descendant of George Leslie Mackay (馬偕) — [[works/taiwaneseamericanhistory-org/my-stories-830|TAH My Stories #830 — 從火車機關士到NASA科學家 馬偕第四代孫柯威霖辭世 (2022/04)]]; see [[people/george-leslie-mackay|George Leslie Mackay]].
+- **Document collection** — a dedicated album of his important papers: [[works/taiwaneseamericanhistory-org/photo-albums-activities-113|TAH photo album #113 — Important Documents of Dr. William L. Ko (2016/03)]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
