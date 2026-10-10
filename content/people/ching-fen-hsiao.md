@@ -108,4 +108,6 @@ last_reviewed: 2026-10-09
 
 <!-- TJJ-A100607007-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 2a3226a1b19c5a46 (中央社記者蕭美琴副手專稿轉載, 2023-11-20刊, 2023-12-08快照): subject link re-checked vs 正文 this attempt — 「蕭美琴的父親蕭清芬從事神學教育，從美國返台後擔任台南神學院院長」見於正文, real, no wrong/spurious links; dated fact w/ article wikilink (2023-11-20) already in From the record — saturated, no new material. -->
 
+<!-- TJJ-A10090701-16: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-16 article 28b0cc4e52acece2 (2021北美洲海外台灣人二二八紀念活動報導, TJJ 2021-03-03刊, 2026-02-10快照) read fresh this attempt: subject link re-checked vs 正文 — 「蕭清芬牧師祝禱並請大家為亡靈默哀」及「父女同台」逐字確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 <!-- TJJ-A10090701-14: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-14 article 9d523cc5290c997b (我的女兒美琴, 蕭清芬署名, TJJ 2020-07-26刊 / 2025-03-24快照): subject links re-checked vs 正文 this attempt — 蕭清芬 本篇署名作者即本人 real; 蕭美琴 書寫對象（父親筆下的女兒）real; no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
