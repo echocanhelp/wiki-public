@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-10
 ---
 # Chihmei Lin Chen (林智美)
 
@@ -31,7 +31,7 @@ last_reviewed: 2026-09-27
 
 ## Family
 
-- **Husband:** 陳文彥
+- **Husband:** [[people/wen-yen-chen|陳文彥 (Wen Yen Chen)]] — 同為台大心理系出身（她 NYU 博士、他紐約州立大學博士），華府美京大學心理系教授、曾任 FAPA/NATPA 會長
 - **Daughter:** Katherine
 - **Mother:** [[people/ho-yang-lin||楊千鶴]]
 
@@ -69,6 +69,7 @@ last_reviewed: 2026-09-27
 
 <!-- TJJ-A09260400-9: verified 2026-09-26 — subject links in slice 09260400-9 articles (064fe05a08d0aecf / a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 - Corpus re-grep 2026-09-27 (DEEPEN-X slice 09260700-13): hit-set identical (same 5 files: whoswho1312, ourjourneys79, publications-111, works index, 2018 TJJ letter), all already cited above. Verified saturated — nothing new absorbable.
+- Corpus re-grep 2026-10-10 (DEEPEN-X slice 10081500-28): fresh ZH+EN grep (林智美|Chihmei Lin Chen|陳文彥) across all 5 corpus dirs — 林智美-name hits unchanged (same 5 files). One new absorption via the 陳文彥 thread: her husband 陳文彥 is a full subject page in his own right, [[people/wen-yen-chen|Wen Yen Chen]] — 台大心理系出身、華府美京大學心理系教授、第九屆 NATPA 會長（1988–89, [[works/taiwaneseamericanhistory-org/ourjourneys47|#47]]）及時任 FAPA 會長（1997）以會長身分赴美人口普查小組委員會作證爭取「台灣」欄位（[[works/taiwaneseamericanhistory-org/ourjourneys235|#235]]）— now wikilinked in Family, so the double-threaded family movement record (2018 TJJ 連署名單中 陳文彥(心理) 與 林智美(心理) 並列）is navigable both ways. 陳文賢 collision HOLD unchanged (同音异字, different person, never merged).
 
 <!-- TJJ-A10040500-10: verified 2026-10-06 — subject links in slice 10040500-10 articles (a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e / beff9b8cd9711c3d) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060600-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-5 article a428dcebbceacf38 (抗議南加州台大校友會邀管中閔年會演講, 國立台灣大學校友連署, 2018-07-20): subject link re-checked vs 正文 this attempt — name 確認見於連署名單, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
