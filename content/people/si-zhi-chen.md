@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-10
 ---
 # Si Zhi Chen (陳泗治)
 
@@ -58,6 +58,8 @@ Note: the on-page narrative ("25 years" at Tamkang) and the employment table (19
 - Re-verify 2026-09-22 (TJJ-A09220700-9): subject-link check against slice article 98bf76da5c3ac86d（台美人台加人分類頁 page 3）—「第155回世界台灣文化論壇：台灣音樂家陳泗治校長」確認見於正文條目清單，連結為真（Subjects .md 後綴連結已修正）；上方日期事實已引該快照，無新材料。
 
 - 2024-11-07 — 第155回世界台灣文化論壇以「台灣音樂家陳泗治校長」為題紀念其生平與音樂貢獻，活動訊息刊於台灣公義報「台美人台加人」分類（[[articles/taiwanjustice-net/2025/20250215221604_category_taiwaneseamerican_page_3_98bf76da5c3ac86d|TJJ 台美人台加人存檔頁3, 2025-02-15 快照]]）。
+- 2015-08 — 聖地牙哥台灣中心新會館開幕慶祝音樂會上，鋼琴家翁致理（Julie Wong）以陳泗治「龍舞」一曲開場，襯托台灣民間節慶的鄉土氣息 — 其作品持續在台美社區重大場合演出（[[works/taiwaneseamericanhistory-org/ourjourneys162|Our Journeys #162, 聖地牙哥台灣中心開幕典禮與慶祝音樂會]]）。
+- 2023-03-26 — 台灣演義節目以「音樂哲人 陳泗治」為題播出（與 TAH #371 卓甫見傳記標題「台灣音樂哲人」相呼應），見於台灣公義報網站節目存檔頁（[[articles/taiwanjustice-net/2024/20240520024049_root_f2815599fbe5954e|TJJ 存檔頁, 2024-05-20 快照]]）。
 
 ## Sources
 - [TAH #357 encyclopedia: 357. Si Zhi Chen 陳泗治, Composer & Educator / 2016/08](https://taiwaneseamericanhistory.org/musician357/)
