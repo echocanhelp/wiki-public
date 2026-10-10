@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Meng-Chieh Liu (劉孟捷)
 
@@ -73,3 +73,4 @@ _No filled family fields on the TAH profile._
 - **2026-09-15 (DEEPEN-X09150316-20):** re-sweep SKIP — 命中僅自有書目頁 #80、#103、ourjourneys294（台灣名家演奏系列列名，已吸收）及 works 索引；無新社群素材。
 - **2026-09-15 (DEEPEN-X09150400-16):** re-sweep SKIP — 命中集合不變，無新社群素材。
 - **2026-09-15 (DEEPEN-X09150500-12):** re-sweep SKIP — 命中僅自有書目頁 [[works/taiwaneseamericanhistory-org/80-meng-chieh-liu-e5-8a-89-e5-ad-9f-e6-8d-b7-pianist|#80]]、[[works/taiwaneseamericanhistory-org/103-meng-chieh-liu-e5-8a-89-e5-ad-9f-e6-8d-b7|#103]] 及 [[works/taiwaneseamericanhistory-org/ourjourneys294|TUF 簡介]]（台灣名家演奏系列列名，已吸收）；無新社群素材。
+- **2026-10-10 (DEEPEN-X10091404-16):** re-sweep SKIP — 全語料 ZH+EN 掃瞄（含 Meng Chieh / MengChieh 變體與「鋼琴家劉」共現）命中集合不變：自有書目頁 #80、#103、[[works/taiwaneseamericanhistory-org/ourjourneys294|TUF 簡介]]（台灣名家演奏系列列名，1992 年吳澧培贊助起，已吸收於 Timeline／Vault records）及 works 索引、sources 索引；無新社群素材。
