@@ -86,3 +86,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10070700-15: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-15 article b5e568ec43e787f1 (《好國好民》Dear Taiwan美國巡迴放映座談會, 2011-10-15): 鍾佳君以本片英文翻譯身分與張皓博主持全美放映座談會 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090501-7: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-7 article 1f001897255f71a7 (《好國好民》美國各地放映座談會公告, 2011-11-08): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090501-26: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-26 article b5e568ec43e787f1 (《好國好民》Dear Taiwan美國巡迴放映座談會, 2011-10-15刊/2024-07-18快照): 鍾佳君以本片英文翻譯身分（張皓博、鍾佳君兩位青年）拜訪美國各城市舉辦放映座談會 re-checked vs 正文 this attempt, real, no wrong/spurious links; 2011-10-15 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
