@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Dr. Guei-Yun Yang (楊貴運博士)
 
@@ -42,12 +42,15 @@ Accomplishment
 - 1979-02-10: 南加信用合作社第一次年會當選進入理事新生力軍（同批：王桂榮、朱光昱、李重宏、陳正一、許照信、蘇明敏、卓敏忠、翁瀛豊、歐煌坤），投入台美人社區互助金融。見 [[works/taiwaneseamericanhistory-org/ourjourneys244|Our Journey 244：南加信用合作社／周實]]。
 - 1988-09: 十餘位台灣客家同道於洛杉磯成立「全美台灣客家會」（THA-USA），推選楊貴運為首任會長，開啟美洲客家文化活動二十餘年（同鄉會聯誼、節慶聚會、民歌/採茶舞/客家菜課程）。見 [[works/taiwaneseamericanhistory-org/ourjourneys110-eng|Our Journey 110：美洲台灣客家運動（英文）]]。
 - 世界台灣客家聯合會創會會長。見 [[works/taiwaneseamericanhistory-org/233-e6-a5-8a-e8-b2-b4-e9-81-8b-e6-95-99-e6-8e-88-the-first-president-of-e4-b8-96|TAH #233：世界台灣客家聯合會創會長]]。
+- 任國策顧問期間積極爭取不分區立委客家名額、及將客語訂為「台灣四大官方語言」之一，並推動以台灣為中心的世界客家組織（中央社記者張雄風報導，2021-05-30）。見 [[articles/taiwanjustice-net/2025/20251110233517_台灣客家貢獻獎得主出爐_楊貴運獲終身貢獻獎_dd5bf8db78daee11|台灣justice網：第9屆客家貢獻獎報導]]。
+- 2021-05-30: 獲第9屆「客家貢獻獎」終身貢獻獎（與台灣客家研究學會創始人徐正光同獲），客委會表揚其團結海內外客家鄉親與推動世界客家組織之貢獻（同上引報導）。
 
 ## Vault records (deepen pass 2026-09-10)
 The umbrella bodies he founded or led appear in the TAH corpus at [[works/taiwaneseamericanhistory-org/taiwanese-hakka-associations-of-america|Taiwanese Hakka Associations of America 美洲台灣客家聯合會 / 全美臺灣客家會]] and [[works/taiwaneseamericanhistory-org/ushakka|全美台灣客家聯誼會]]; the world body's LA-area federation membership is recorded on [[organizations/taiwanese-hakka-association-of-the-world|THAW]]. His 1970 founding of the Taiwanese Hakka Association of California predates the wave of regional Hakka chapters catalogued across the corpus, e.g. [[works/taiwaneseamericanhistory-org/arkansas-taiwanese-hakka-association|Arkansas Taiwanese Hakka Association]] and the Southern California federation [[organizations/taiwanese-hakka-associations-of-southern-california|Taiwanese Hakka Associations of Southern California]]. The umbrella body's convention record is at [[works/taiwaneseamericanhistory-org/30-taiwanese-hakka-associations-of-america-conference|Taiwanese Hakka Associations of America conference]].
 
 - **2026-09-15 (DEEPEN-X09142319-21):** re-sweep SKIP — grep（楊貴運／Guei-Yun Yang）命中六頁（#874、#233、#147、Our Journey 244／309／110-eng）均已在上方 Role in the Community／Vault records 完整吸收；ourjourneys244 全文段僅為敘事者（周實）交棒细节，與本人無關，無新事實。
 - **2026-09-15 (slice 09150316-12):** re-grep 新增命中 ff373（TAH #373 夫妻家族故事），已吸收至上方 Family；其餘命中頁（#25、#147、#874、OJ 244／309／110-eng）均已吸收。
+- **2026-10-10 (DEEPEN-X10090315-23):** 擴充 grep（貴運／Guei-Yun）新命中 taiwanjustice-net 2021-05-30 客家貢獻獎報導——終身貢獻獎＋國策顧問任內爭取客家名額／客語官方語言化，已吸收至 Role in the Community； TAH 命中（#25/#147/#233/#333/#874、OJ 110/236/244/309、ff333/ff373）均為既有事實重複，無新內容。
 
 ## Sources
 - [TAH #25 encyclopedia: 25. Dr. Guei-Yun Yang (楊貴運博士)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-25/)
