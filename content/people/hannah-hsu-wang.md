@@ -59,3 +59,5 @@ SKIP note (deepen-x 09141300-16, 2026-09-14): corpus grep over content/works + c
 SKIP note (deepen-x 09142101-5): re-sweep returned the same six own-record hits (#4, #62, #131, #143, #161, #555) — no new memoir/community material, nothing absorbable.
 SKIP note (deepen-x 09150316-6, 2026-09-15): re-sweep returned the same six own-record hits (#4, #62, #131, #143, #161, #555) — no memoir/press material beyond the Performances & Community Record section already on this page; nothing absorbable.
 SKIP note (deepen-x 09150400-2, 2026-09-15): re-sweep returned the same six own-record hits — hit set unchanged; nothing absorbable; last_reviewed already today.
+
+SKIP note (deepen-x 10081500-7, 2026-10-10): re-sweep across works/articles/sources/events/topics returned only her own bibliographic records (#4, #62, #131, #143, #161, #555), already linked above; 許鴻源 hits are a different person (Dr. 許鴻源/Hong-Yen Hsu). No new memoir/community material; nothing absorbable.
