@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-10
 ---
 # [[organizations/taiwan-american-foundation||Taiwanese American Foundation]] of San Diego
 
@@ -38,6 +38,8 @@ last_reviewed: 2026-09-22
 - 2021-01: the center's 理事長 歐春美 joined the joint statement of the five major U.S. 台灣會館 (NY, DC, LA, San Diego, SF) opposing the politicisation of science in the 萊豬 controversy — [[articles/taiwanjustice-net/2021/20210121172817_2021_01_12_美國五大台灣會館評萊豬_反對科學議題政治化_1251d9ed43ef6e32|美國五大台灣會館評萊豬 (2021-01-12)]]. Predates the 2024–2025 CEO role in video-184; different title/period, not merged.
 - 2024 台美人物誌 interview of 王克雄 (Dr. Keh-hsiung Wang), **現任台美基金會董事長**, who runs 聖地牙哥台灣中心: the foundation bought its 13,000 sq-ft building through community fundraising (「透過向台灣鄉親募款購買地產並經營這所台灣人的家」); he also co-founded 美國台灣研究院 — [[articles/taiwanjustice-net/2024/20240905070707_root_a4f51e89fe5a4080|王克雄博士專訪 (2024)]]。His description treats 台美基金會 and 台灣中心 as one jointly-run institution, further corroborating the joint-operation reading below.
 - 2024-03: center hosted a 《BIG》讓孩子拯救世界 film screening with director 魏德聖 Q&A (7838 Wilkerson Court, San Diego) as one of four SoCal venues — [[articles/taiwanjustice-net/2024/20240412170843_root_9ee320b0c33a0f5b|BIG 南加放映 (2024-03)]]。
+- Founding memory: 楊禮朱 recalls the first formal meeting of the Taiwan Center / 台美基金會 in 1998, with the original signature list of participating 同鄉 — 陳秋山 among the names still without grey hair; 潘富鵬 insisted 「中華民國這四個字可不要出現在台灣中心」 — [[works/taiwaneseamericanhistory-org/ourjourneys337|337. 致我們過去的青春-憶台灣中心台美基金會1998 / 楊禮朱]].
+- 聖地牙哥台灣中心 opened 1997-02-28 after fundraising led by first chairman 陳秋山博士, with 潘富鵬博士 as center director — see [[people/dr-chiu-shan-chen|陳秋山]] and [[works/taiwaneseamericanhistory-org/ourjourneys26|26. 聖地牙哥台灣中心的前半生與轉型 / 黃正源]]. HOLD: opening date 1997-02-28 (黃正源 memoir / 會館紀事) vs 楊禮朱's memory of 「1998頭一次正式會議」 in work 337 — meeting vs opening may differ; not merged.
 - HOLD: naming conflict — this page lists 聖地牙哥台灣中心 as the Chinese name; the TAH directory work 72 lists 聖地牙哥台美基金會. Not auto-merged (may be related but distinct entities). The video-184 record treats San Diego Taiwan Center and the TA Foundation of San Diego as a joint leadership role, consistent with the two names operating as one institution; the 2018 anniversary record and YAM 季刊 likewise carry both names jointly.
 
 ## Sources
