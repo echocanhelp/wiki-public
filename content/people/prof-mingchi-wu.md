@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # Prof. Mingchi Wu (吳明基教授)
 
@@ -90,3 +90,5 @@ last_reviewed: 2026-09-24
 <!-- TJJ-A10040600-11: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-11 article 53455d7e13136092 (海外台灣人社團拒一國兩制挺港聯合聲明, 2024-02-21快照, 2019-09-04發布): subject link re-checked vs 正文中英署名清單, real, no wrong/spurious links; 2019-09-03 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060800-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-5 article 53455d7e13136092（拒一國兩制！海外台灣人社團聯合聲明支持香港, 2019-09-04刊）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+覆核（DEEPEN-X10090600-24, 2026-10-10）：全語料目錄（works/articles/sources/events/topics）以 吳明基／Mingchi Wu／Ming Chi Wu 重搜，命中 12 檔——ourjourneys76（1973 美東夏令會籌辦名單）、ourjourneys259（1990 黑名單減至三人：吳明基、李應元、郭榮桔）、ourjourneys47（年會講員吳明基＝現任FAPA會長、NAPTA理事、台獨聯盟中央委員，按兵不動不返台）、ourjourneys228（昆布勞歷任九位FAPA會長含吳明基）、ourjourneys292（1972 匹茲堡同鄉會會長自述，壘球風雲四十年）、TAH #203/#975 百科頁、TJJ 挺港聯合聲明——全部已於本頁 Timeline／Vault Holdings／Deepen pass 段落收錄並 wikilink，無新材料 — SKIP，已飽和。
