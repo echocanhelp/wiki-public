@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # Rev. Ben M.C. Hsieh (謝敏川牧師)
 
@@ -63,3 +63,5 @@ _Corpus re-scan 2026-09-25 (deepen-x slice 09240600-8): fresh grep 謝敏川/Hsi
 <!-- deepen-x slice 09250900-4 re-verify 2026-09-25: fresh ZH+EN grep of works+articles — hit set identical to prior passes, all facts incl. HOLDs already absorbed; SKIP-with-reason: verified-saturated, no new absorbable facts -->
 
 <!-- deepen-x slice 09260317-7 re-verify 2026-09-26: fresh ZH+EN grep of works+articles — hit set identical to prior passes (#144, #888, OJ14, OJ43, #186); all facts incl. mention-network line already absorbed; SKIP-with-reason: verified-saturated -->
+
+<!-- deepen-x slice 10081500-5 re-verify 2026-10-10: fresh ZH+EN grep across works/articles/sources/events/topics — hit set identical (#144, #888, OJ14, OJ43, #186, index, source page); two taiwanjustice-net surname-only hits confirmed false positives (謝 not followed by 敏川); SKIP-with-reason: verified-saturated, no new absorbable facts -->
