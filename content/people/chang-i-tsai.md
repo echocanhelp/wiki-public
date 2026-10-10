@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Chang-I Tsai (蔡正一)
 
@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 10051340-5 re-verify 2026-10-06: fresh ZH+EN+partial-name grep (works/articles/sources/events/topics) — hit set identical to prior absorptions (own TAH records + already-linked work pages + index); partial-name hits resolved to different people. Verified-saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 10062334-5 re-verify 2026-10-08: fresh ZH+EN+partial-name grep (works/articles/sources/events/topics) — hit set identical to prior absorptions (442/443/444 畫冊, artist15, whoswho1052 + sources rollup). Partial-name 正一 hits are different people (陳正一 in ourjourneys244/212 co-op & 生活座談會 rosters — not this artist). Verified-saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 10080500-18 re-verify 2026-10-09: fresh ZH+EN grep (蔡正一/Chang-I Tsai, works/articles/sources/events/topics) — hit set identical to prior absorptions (442/443/444 畫冊, artist15, whoswho1052 + index/sources rollups). Partial-name 正一 hits are different people (陳正一 in ourjourneys244/212 co-op & 生活座談會 rosters; 彭文正/「市政願景正一」 in taiwanjustice-net news text — not this artist). Verified-saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 10090900-18 re-verify 2026-10-10: fresh ZH+EN grep (蔡正一/Chang-I Tsai, works/articles/sources/events/topics) — hit set identical to prior absorptions (442/443/444 畫冊, artist15, whoswho1052 + works/index rollup only); no new memoir/community material. Verified-saturated; SKIP-no-new-facts. -->
