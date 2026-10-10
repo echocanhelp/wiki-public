@@ -196,4 +196,6 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A100607008-d: verified 2026-10-09 — wave-2 link+deepen re-check of article 1a2bdc08b6c7bf6c (台美人台加人 分類隨機頁 p3, 2025-04-26快照) read fresh this attempt: subject link re-checked vs 正文 — 「美國加州各界追思彭明敏教授紀念會紀實 ◎ 陳天令」確認見於收錄清單, real, no wrong/spurious links; dated fact w/ article wikilink (2021-01-25) already in From the record — saturated, no new material. -->
 
+<!-- TJJ-A10090401-3: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-3 article 20240302025810_root_74f89ee82c85dc78 (《撲火飛蛾》唐培禮訃聞+鄭世璋新使者文, TJJ 2017-03-12刊/2024-03-02快照): subject link 彭明敏教授 re-checked vs 正文 this attempt (1964-09-20與謝聰敏、魏廷朝印發台灣自救宣言一萬份、1965判刑、1970-01-03偷渡瑞典一說1月5日抵瑞、唐培禮夫婦為逃亡最大助力、2016總統候選人見於正文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 <!-- TJJ-A10090401-2: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-2 article 20220517051352_root_5d471dbe6e4efbde（《撲火飛蛾》唐培禮訃聞+鄭世璋新使者文, 2017-03-12刊/2022-05-17快照）read fresh this attempt: subject links (Milo Thornberry / 彭明敏教授 / 謝聰敏) re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

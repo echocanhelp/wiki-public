@@ -98,4 +98,6 @@ last_reviewed: 2026-10-09
 
 <!-- TJJ-A10080401-13: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-13 article 20240302035134_root_8842b0e0aad8032f（唐培理GWU座談VOA報導, 2011-11-23刊/2024-03-02快照）: subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
+<!-- TJJ-A10090401-3: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-3 article 20240302025810_root_74f89ee82c85dc78 (《撲火飛蛾》作者唐培禮訃聞+鄭世璋新使者文, TJJ 2017-03-12刊/2024-03-02快照): subject link re-checked vs 正文 this attempt — 本傳主體即訃聞主角（2017-03-08歿於奧瑞岡、Katy Thornberry McNulty唁電、1971-03-04以「恐怖份子」罪名驅逐、美簽黑名單19年）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 <!-- TJJ-A10090401-2: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-2 article 20220517051352_root_5d471dbe6e4efbde（《撲火飛蛾》唐培禮訃聞+鄭世璋新使者文, 2017-03-12刊/2022-05-17快照）read fresh this attempt: subject links (Milo Thornberry / 彭明敏教授 / 謝聰敏) re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
