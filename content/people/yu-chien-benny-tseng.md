@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # Yu-Chien Benny Tseng (曾宇謙)
 
@@ -64,6 +64,7 @@ _No filled family fields on the TAH profile._
 - Educational reach in the community: the 大洛杉磯台灣會館台灣學校 classical-music appreciation class (2016-05-08) used his award-winning concert recording as its finale feature (see From the record).
 - Own TAH encyclopedia entries: [[works/taiwaneseamericanhistory-org/whoswho1408|TAH #1408]], [[works/taiwaneseamericanhistory-org/musician374|TAH #374]], and interview video [[works/taiwaneseamericanhistory-org/videos111|【台灣演義】小提琴家 曾宇謙, TAH #111]].
 - Instrument lineage in the Taiwanese community: he began borrowing fine violins from 許文龍's 奇美博物館 collection at age 11, the loan TJJ's 許文龍 obituary singles out as the best-known story of 奇美 lending its 17th–18th-century instruments to Taiwanese violinists; he won silver at the 2015 International Tchaikovsky Competition ([[articles/taiwanjustice-net/2024/20240225153403_root_82368e853191a106|TJJ「不要為我造墓」許文龍專輯, 2024-02-25]]).
+- Broadcast coverage in the corpus: 公視日光大道曾宇謙專訪 (2015-07-03, around his Tchaikovsky Competition year) is indexed in TJJ's 公視 tag archive ([[articles/taiwanjustice-net/2022/20221127061010_tag_公視_4f09eaaf228f6144|TJJ 公視 tag index, 2022-11-27]]) — the only in-corpus record of a Taiwanese broadcast profile of him.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
@@ -84,3 +85,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10060900-1: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060900-1 article(s) a244776e9eb57979（會館台灣學校古典音樂欣賞・海頓場, 2016-06-06刊, 2023-01-29快照）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070600-2: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10070600-2 article b4e27e98036e15d0 (會館台灣學校古典音樂欣賞・海頓/台灣人音樂家專場報導, 2016-06-06刊, 2024-05-22快照): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+複核（deepen-x slice 10081200-13, 2026-10-10）：corpus re-grep（曾宇謙／Benny Tseng／Yu-Chien Tseng／曾宇，works+articles+sources+events+topics）命中集 10 檔，其中 9 檔（whoswho1408、ourjourneys294、videos111、musician374、index、兩篇會館台灣學校 TJJ 記錄、許文龍專輯、sources 清單）已吸收並 wikilink；新增吸收 1 檔——公視 tag 索引中 2015-07-03 公視日光大道曾宇謙專訪條目，已 wikilink 進 Role in the Community。events/topics 無命中。無衝突。
