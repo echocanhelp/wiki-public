@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # 王康厚
 
@@ -28,6 +28,7 @@ last_reviewed: 2026-09-24
 - 其任會長的王康陸紀念基金會是 2006 年「Taiwanese American Heritage Week」臺美人社團連署背書名單之一（同列 FAPA、FAHR、NATWA、NATPA、NATMA、TAA 等）：[[works/taiwaneseamerican-org/taiwanese-american-heritage-week|Taiwanese American Heritage Week（2006-05-13）]]。此為基金會最早有日期的公開背書紀錄；惟該文僅列基金會名，未具王康厚之名，2006 年時其是否已任會長 unknown。
 - Corpus re-verify (deepen-x 09221200-9, 2026-09-23): fresh scan works/ + articles/ — new hit taiwanese-american-heritage-week absorbed above; other hits (375 entry, 1372 narrative, TJJ obituary record) already linked.
 - Corpus re-verify (deepen-x 09230600-8, 2026-09-24): fresh scan works/+articles/「王康厚／Kang-Lu Wang」— hit set unchanged (375 entry, 63 + photo album 26 namesake records, foundation page, Our Journeys 356, 1372 narrative, TJJ obituary record), all absorbed above. Verified-saturated.
+- 會長血脈（deepen-x 10091316-25, 2026-10-10）：張炎憲回憶錄記載，陳希寬卸任台獨聯盟美國本部副主席後曾歷任「王康陸基金會會長」等職（[[works/taiwaneseamericanhistory-org/ourjourneys33|33. 一家人做伙來打拼／張炎憲／2014/09]]）——即王康陸紀念基金會會長一職在本頁 2019-09-03 署名紀錄之前另有前任（陳希寬）；兩說不衝突（前後任，非同期），惟陳希寬任期起迄年份庫內無載，無法銜接王康厚就任年份。本頁「其是否已任會長 unknown」條維持不變。
 - HOLD: conflict in the Who's Who snapshot Era 1932 (彰化鹿港 origin year) vs. the corpus's earliest record dated 2015/04 — birth year not corroborated by any memoir text; do not merge.
 
 ## Family
