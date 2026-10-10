@@ -104,3 +104,5 @@ Corpus-absorbed (deepen-x slice 28, 2026-09-14) from 鍾澄文's column [[articl
 <!-- TJJ-A10070700-26: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-26 article a40b37bc03b2b9cb（以立「希望之光」世界首演, 2024-02-28 快照）: subject link re-checked vs 正文 this attempt (鋼琴：陳慧如 Rose Chen), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090601-32: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-32 article e7e2a1e1a71524ce (以立「希望之光」世界首演, 發文 2022-12-02): subject link re-checked vs 正文 this attempt, real (鋼琴：陳慧如 Rose Chen, L35), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090901-22: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-22 article a40b37bc03b2b9cb（以立合唱團世界首演「希望之光」影音, 發文 2022-12-02 / 快照 2024-02-28）: author 楊子清（提供影音）＋ subjects 黃令先（作曲、指揮）／陳慧如（鋼琴）re-checked vs 正文 this attempt, all real, no wrong/spurious links (剪輯廖健榮 Louis Liao 正文提及但無頁面, 維持純文字不造鏈); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
