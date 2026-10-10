@@ -91,3 +91,5 @@ last_reviewed: 2026-10-09
 <!-- TJJ-A10071400-1: verified 2026-10-09 — wave-2 link+deepen re-check of article 2777c88877eee2c5 (Tag 長青教室 標籤彙整頁, 2024-06-20快照): subject link 許盛男 re-checked vs 正文 this attempt (「長青教室心得報告—許盛男醫師講『台灣話的源流』」條目確認見於正文), real, no wrong/spurious links; 2016-11-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- deepen-x slice 10080958-16, 2026-10-09: fresh grep 許盛男|Maurice Hsu across works/articles/sources/events/topics = 16 hits. New links absorbed: TJJ 台灣人文藝術 popular snapshot b443a0c486df9b57 (2017-11-06 榜上條目, previously prose-only) wikilinked into From the record; OJ#356 ZH slug (ourjourneys356) wikilinked in Role. All other hits (TAH 檔案 174/175/176/308, OJ#09/#09ENG/#356ENG, TJJ tag pages, sources/index) already linked. FAPA 創會 1981 vs 1982 冲突仍 HOLD. -->
+
+<!-- TJJ-A10090401-11: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-11 article c691e327b9133c1a (心得報告標籤頁, 2024-07-19 快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
