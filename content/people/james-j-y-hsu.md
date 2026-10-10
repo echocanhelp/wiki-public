@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-10-10
 ---
 # James J. Y Hsu (許正餘博士)
 
@@ -49,6 +49,7 @@ Adjunct Professor, Department of Engineering and System Science, National Tsing 
 - Re-verified (deepen-x slice 09160700-7, 2026-09-16): hit set identical (ourjourneys26, ourjourneys352, #397, 民富論 article, MANIFEST, works/index). SKIP: saturated; no new absorbable material, no conflicts to HOLD.
 - Re-verified (deepen-x slice 09162138-4, 2026-09-16): hit set identical again (ourjourneys26, ourjourneys352, #397, 民富論 article, MANIFEST, works/index). SKIP: saturated; no new absorbable material, no conflicts to HOLD.
 - Re-verified (deepen-x slice 09162200-2, 2026-09-16): hit set identical again ([[works/taiwaneseamericanhistory-org/ourjourneys26|ourjourneys26]], [[works/taiwaneseamericanhistory-org/ourjourneys352|ourjourneys352]], [[works/taiwaneseamericanhistory-org/397-james-j-y-hsu-e8-a8-b1-e6-ad-a3-e9-a4-98-201505|#397]], 民富論 article, MANIFEST, works/index). SKIP: saturated; no new absorbable material, no conflicts to HOLD.
+- Re-verified (deepen-x slice 10090400-31, 2026-10-10): fresh 5-dir grep (許正餘 / James J. Y Hsu) returns the same absorbed set. The English translation of the San Diego memoir, [[works/taiwaneseamericanhistory-org/ourjourneys26-eng|Our Journeys #26 (English)]], confirms the library account — 「Tsai-wei Huang and James J. Y. Hsu were the greatest contributors」, Library-of-Congress cataloguing, with Hsu 「gave some guidance on the software」 while 黃彩娓 keyed the records by hand — consistent with, and no conflict against, the ZH account already absorbed. Record #397 is bibliographic only (full text stays in the vault). No new absorbable material; no conflicts to HOLD.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/james-j-y-hsu/)
