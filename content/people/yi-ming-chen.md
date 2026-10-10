@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Yi-Ming Chen (陳怡名)
 
@@ -74,3 +74,5 @@ _No filled family fields on the TAH profile._
 - **SKIP（第四次重掃）：** `陳怡名|Yi-Ming Chen` 命中集不變——本人 TAH #332／#158 出處頁、已全數吸收之 #128 明州音樂會記錄、works/index 目錄列。無新社群事實可吸收。
 ## Deepen-x re-check (slice 09150500-14, 2026-09-15)
 - **SKIP（第五次重掃）：** 命中集不變＝本人出處頁 [[works/taiwaneseamericanhistory-org/332-yi-ming-chen-e9-99-b3-e6-80-a1-e5-90-8d|#332]]／[[works/taiwaneseamericanhistory-org/158-yi-ming-chen-e9-99-b3-e6-80-a1-e5-90-8d-violist201502|#158]]、已全數吸收之 [[works/taiwaneseamericanhistory-org/ourjourneys128|#128]] 明州音樂會記錄、works index。無新增可吸收事實、無衝突。
+## Deepen-x 2026-10-10 (slice 10090600-21)
+- **SKIP（第六次重掃）：** 以 陳怡名／Yi-Ming Chen／怡名 全語料重檢，命中集不變（本人出處頁 #332/#158、已吸收之 #128、sources 目錄頁、works/index）。variant 命中之「怡名」經查證皆屬 **劉怡明 Yi-Ming Liu**（[[people/yi-ming-liu]]），非本人——別名歧路已排除。無新社群事實、無衝突。
