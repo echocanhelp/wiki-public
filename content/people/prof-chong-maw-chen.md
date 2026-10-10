@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Prof. Chong-Maw Chen (陳正茂教授)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice-09220700-5, 2026-09-22）：re-grep 命中集不變（ourjourneys186 ±EN、#188、#1677、#299）— SKIP：已飽和，全部已 wikilink。
 - 複核（deepen-x slice-09230900-3, 2026-09-24）：re-grep 陳正茂|Chong-Maw Chen 命中集不變（ourjourneys186 ±EN、#188、#1677、#299、index）— SKIP：已飽和，無新回憶錄/社群材料可吸收。
 - 複核（deepen-x slice 09240900-1, 2026-09-25）：re-grep 陳正茂|Chong-Maw Chen 命中集不變（ourjourneys186 ±EN、#188、#1677、#299、index）— SKIP：已飽和，全部已 wikilink，無新回憶錄/社群材料可吸收。
+- 複核（deepen-x slice 10091400-30, 2026-10-10）：re-grep 陳正茂|Chong-Maw Chen 命中集不變（ourjourneys186 ±EN、#188、#1677、#299、index、sources/taiwaneseamericanhistory-org 目錄行）— SKIP：已飽和，全部已 wikilink，無新回憶錄/社群材料可吸收；確認 #299 wikilink 目標檔存在於 disk。
