@@ -446,3 +446,7 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A10090801-9: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-9 article 2ac7d75679fda7fe（台灣鄉情與文化 分類頁3, 2020-06-28快照）read fresh this attempt: subject link re-checked vs 正文 — 「蕭美琴辭別花蓮將駐美，支持者送祝福」逐字確認見於正文, real, no wrong/spurious links; 2020-06-28 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10090801-26: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-26 article f6213c1937fa956d (全美台灣同鄉會2021年二二八紀念系列活動圓滿落幕, 2021-03-14 刊 / 2025-04-30 快照) read fresh this attempt: subject link re-checked vs 正文 — 「駐美大使蕭美琴也表示，紀念二二八對了解歷史、思考未來意義重大」隔洋致詞記述逐字確認見於正文, real, no wrong/spurious links; 2021-02-28 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090801-27: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-27 article 20240421184918_root_9a66943e68f1e0ef（台美人台加人隨機頁 p353, 2024-04-21快照）read fresh this attempt: 「美媒專訪 蕭美琴：區域穩定美台有共同責任」條目逐字確認見於正文, subject link 為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090801-31: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-31 article 8216e7ca508266e9 (蕭美琴父親蕭清芬牧師在美過世標籤頁, 2022-05-21快照: 父女關係標題提及): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
