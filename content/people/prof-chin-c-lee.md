@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-10
 ---
 # Prof. Chin C. Lee (李金忠教授)
 
@@ -58,6 +58,11 @@ Professor of Electrical and Computer Dept., Director of Materials and Manufactur
 - **1980–1981** — President of the Pittsburgh Taiwanese association (TAA Pittsburgh Chapter): the first officers-meeting minutes for that year (附件9) name 李金忠 as 會長 and 馮世興 as 副會長 — 胡民祥's documentary chapter history, [[works/taiwaneseamericanhistory-org/ourjourneys292|TAH Our Journeys #292 早年匹茲堡台灣同鄉會歷屆會長考證]] ([[works/taiwaneseamericanhistory-org/ourjourneys292-eng|English edition]]). This dates his TAA Pittsburgh presidency to his Carnegie Mellon → UCI transition years.
 - **Irvine community:** listed as the scuba-diving (水肺潛水) instructor in the adult-education roster at [[organizations/irvine-taiwanese-presbyterian-church|ITPC 長老教會]].
 - **Bibliographic:** his profile is held twice in the vault — [[works/taiwaneseamericanhistory-org/57-prof-chin-c-lee|TAH #57]] and [[works/taiwaneseamericanhistory-org/whos-who-1245-chin-c-lee|TAH Who's Who #1245 (published 2016-08-14)]].
+
+### Deepen pass 2026-10-10
+
+- **Pittsburgh roster, English edition:** the English edition of 胡民祥's chapter history, [[works/taiwaneseamericanhistory-org/ourjourneys292-eng|TAH Our Journeys #292 (English)]], carries the same officers roster — 1980–1981: Chin C. Lee / Shih-hsing Feng (李金忠／馮世興) — corroborating the Chinese-edition minutes already cited above.
+- **HOLD: possible entity-extraction error elsewhere.** The memoir [[works/taiwaneseamericanhistory-org/mystories278-eng|Our Stories #278 (English)]] links this page as a subject because of a "Mr. Chin Lee, a provincial assembly man" who stood guarantee for the narrator's departure in the late 1960s. A sitting Taiwan Provincial Assembly member is not consistent with a Carnegie Mellon Ph.D. student / UCI engineering professor in the same years, and the Chinese edition of the same memoir does not name 李金忠 at all. Likely a different Chin Lee — held for registry reconciliation, not absorbed.
 
 ## Sources
 - [TAH #57 encyclopedia: 57. Prof. Chin C. Lee 李金忠教授](https://taiwaneseamericanhistory.org/57-prof-chin-c-lee/)
