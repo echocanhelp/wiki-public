@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Milo Thornberry (唐培禮牧師)
 
@@ -39,10 +39,12 @@ last_reviewed: 2026-09-25
 - Personal-side corpus record: [[works/taiwaneseamericanhistory-org/mystories396|396. 唐培禮夫婦最好的聖誕禮物 / 作者 唐培禮 譯者 賴秀如 / 2016/02]] — with wife Connie Meugniot Thornberry.
 - 2017 memorial coverage in the corpus: [[works/taiwaneseamericanhistory-org/mystories534|534. 撲火飛蛾：紀念為台灣民主犧牲奉獻的唐培禮牧師 / 阿圖賽 / 03/2017]]; his own TAH encyclopedia entry is [[works/taiwaneseamericanhistory-org/772-milo-thornberry-e5-94-90-e5-9f-b9-e7-a6-ae-201601|772. Milo Thornberry 唐培禮 / 2016/01]].
 - His memoir is recommended in our corpus as required White-Terror reading for the 228 commemoration reading list: 《Fireproof Moth: A Missionary in Taiwan's White Terror》is described there as a 65,000-word first-person account of his double life teaching church history at Presbyterian seminaries while he and his wife secretly aided Peng Ming-min and two former students in human-rights work that carried capital-crime risk under martial law — [[works/taiwaneseamerican-org/remembering-the-228-massacre-readings-resources-on-taiwans-white-terror-era|Remembering the 228 Massacre: Readings & Resources on Taiwan's White Terror Era]].
+- Honored publicly with 唐秋詩 (Judith Thomas) at a TAHS banquet in Irvine, CA, 2011-10-08 — around the period of the 《Fireproof Moth》/《不怕死的飛蛾》US promotion that also included the 2011-11-18 George Washington University panel — [[works/taiwaneseamerican-org/banquet-honoring-rev-milo-thornberry-judith-thomas-in-irvine-ca|Banquet Honoring Rev. Milo Thornberry & Judith Thomas in Irvine, CA]].
 
 ## Family
 
 - **Wife:** Connie Meugniot Thornberry
+- HOLD: conflict on spouse — the 2011 GWU panel account names his companion as 唐秋詩 (Judith Thomas), arrived Taiwan 1965, co-partner in the Peng Ming-min escape ([[articles/taiwanjustice-net/2024/20240302035134_root_8842b0e0aad8032f|VOA via TJJ, 2011-11-23]]), and the 2011 Irvine banquet honors the two of them together ([[works/taiwaneseamerican-org/banquet-honoring-rev-milo-thornberry-judith-thomas-in-irvine-ca|Banquet Honoring Rev. Milo Thornberry & Judith Thomas in Irvine, CA]]), while the corpus's own 2016 personal essay credits Connie Meugniot Thornberry ([[works/taiwaneseamericanhistory-org/mystories396|396. 唐培禮夫婦最好的聖誕禮物 / 2016/02]]). Possibly two marriages (Judith in the 1965–1971 Taiwan period, Connie later) — unconfirmed, not auto-merged.
 
 
 ## Sources
