@@ -96,3 +96,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10070600-2: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10070600-2 article 0c56e79f9989639c (園藝 category 頁, 2017-11-09快照): subject link(s) re-checked vs 正文 this attempt (王麗貝 2017-07-23 茶飲文化講座條目、Sadako與Peter Chiu EM酵素@20170924條目), real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607009-d: verified 2026-10-09 — wave-2 link+deepen re-check of article bb7f9d54ae93bbef (園藝分類頁, 2024-02-25快照) this attempt: subject link re-checked vs 正文 (王麗貝Lipei Lisa Wang 主講條目 2017-07-23 植物界的茶飲文化與饗宴、2016-09-25 秋天自家蔬果加工), real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10081501-7: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10081501-7 article 0c56e79f9989639c (園藝 category 頁, 2017-11-09快照): subject link(s) re-checked vs 正文 this attempt (王麗貝 2017-07-23 茶飲文化講座條目、Sadako與Peter Chiu EM酵素@20170924條目), real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
