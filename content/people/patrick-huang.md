@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Patrick Huang (黃再添)
 
@@ -47,6 +47,8 @@ Accomplishment
 - 2017, age-60s civic record: his own signed 聲明 for joining the 救扁 hunger strike ([[works/taiwaneseamericanhistory-org/mystories569|569. 紐約台僑黃再添參加救扁絕食聲明 / 黃再添 / 2017-08]]) and a profile by his son 黃兆平 of his 藝站 art-station path ([[works/taiwaneseamericanhistory-org/mystories564|564. 紐約爸爸 黃再添藝站之路無怨無悔 / 2017-08]]).
 - 鄭家隆's memoir exists in an English edition too, naming the four fundraising volunteers — Lung-Fong Chen, Fon-may Fan, Patrick Huang, Hong Tien Lai — who reported to the incoming director before the 1992 turnaround ([[works/taiwaneseamericanhistory-org/ourjourneys27-eng|Our Journeys #27 ENG]]).
 - His own TAH encyclopedia entry is held in the corpus as a work ([[works/taiwaneseamericanhistory-org/whos-who-884-patrick-huang|TAH #884 encyclopedia]]; bibliographic record only), alongside the record of the 2007 cross-U.S.A. motorcycle ride with his son ([[works/taiwaneseamericanhistory-org/ff52|TAH #52]]).
+- The 1988-06 tenth 台灣人年會 attendance is independently corroborated in 劉格正's institutional history of the 美東南區台灣人夏令會, which lists him among the overseas Taiwanese revolutionary-body representatives (史明, 張金策, 黃再添) at Converse College ([[works/taiwaneseamericanhistory-org/ourjourneys245|245. 美東南區台灣人夏令會簡史 / 劉格正 / 2016-09]]).
+- Named in the donor/acknowledgment roll of 黃根深's 2016-10 painting exhibition record, listed under 台灣研究社 — consistent with his standing as a collector and patron in the art community ([[works/taiwaneseamericanhistory-org/ourjourneys256|256. 寫在畫展之前 / 黃根深 / 2016-10]]).
 
 ## Sources
 - [TAH #193 encyclopedia: 193. Patrick Huang 黃再添](https://taiwaneseamericanhistory.org/193-patrick-huang/)
@@ -60,6 +62,7 @@ Accomplishment
 
 ## Re-grep log
 - Corpus re-grep 2026-09-24 (slice 09230500-10): fresh ZH+EN grep surfaced 13 non-index hit files; newly absorbed: blacklistfilm, ourjourneys09 (ZH original of #9 + Bowne/Northern Blvd detail), collection-of-mr-patrick-huang, mystories267, mystories564, mystories569, ourjourneys304. Remaining hits (193-patrick-huang bibliographic encyclopedia, already cited in Sources) add nothing absorbable.
+- Corpus re-grep 2026-10-09 (slice 10080951-6): fresh ZH+EN grep across works/articles/sources/events/topics returned 19 non-self hits; previously unabsorbed: ourjourneys245 (劉格正 夏令會簡史 — 1988 年會 corroboration) and ourjourneys256 (黃根深畫展 donor roll, 台灣研究社). All other hits already cited/absorbed.
 
 ## From the record
 
