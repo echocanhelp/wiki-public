@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Ting Yee Wang (王廷宜)
 
@@ -50,6 +50,9 @@ _Corpus-absorbed 2026-09-14 (slice 09141300-17); primary material from our own m
 - **Co-author of the movement's own FAHR history.** He is one of the three authors of [[works/taiwaneseamericanhistory-org/publications1040|TAH #1040 台灣人權協會 1970–1990年代的故事]] (with 黃根深 and 莊秋雄) — a first-person institutional history of the Formosan Association for Human Rights, not just a subject of TAH profiles.
 - **Co-founder, Taiwan Human Rights & Culture Association (LA).** Per [[works/taiwaneseamericanhistory-org/ourjourneys75-eng|TAH #75 台灣人權協會的開始與現況 (Tina Chang)]], the LA group that co-founded THRA with 許世楷、許千惠、郭清江、張綺石、鄭德和 and 王廷宜(泰和); the same record's 2014 officer roster lists him as an FAHR Director (Ting Yee Wang).
 - **Founding member, Southern California Taiwanese Federal Credit Union (南加州台灣人聯邦信用合作社, SCTFCU).** Per [[works/taiwaneseamericanhistory-org/ourjourneys244|TAH Our Journeys #244 曇花一現的南加信用合作社 (周實)]], he attended the first organising meeting (July 24, alongside 劉丁榮、許啓勇、曾輝光、許清煌 and others) — convened while 周實 was president of the Los Angeles Taiwanese Association in 1977 — and served on the credit union's 徵信會 (Credit Committee) under chair 許清煌.
+- **Author of his own movement memoirs and interviews in our corpus.** His 2017 FAHR award speech "人權建國的心路歷程" survives in our vault as [[works/taiwaneseamericanhistory-org/mystories618|TAH My Stories #618 人權建國的心路歷程 / 王泰和(廷宜) / 01-2018]]; Edda Huang's tribute [[works/taiwaneseamericanhistory-org/mystories-734|TAH My Stories #734 王泰和的故事 (2020-07)]] and the filmed interview [[works/taiwaneseamericanhistory-org/videos-165|TAH Videos #165 維護台灣人權推動建國 — 王泰和專訪 (2020-07)]] are first-person community records of his human-rights and statebuilding work.
+- **Participant in the 美西夏令會 (Western US Summer Assembly) convenings.** Per [[works/taiwaneseamericanhistory-org/ourjourneys265|TAH Our Journeys #265 2011年美西夏令會的回顧 (黃根深, 2016-11)]], he attended the first organizing meeting (2009-08-16, with 鄭瑞源、洪珠美、許輕甫、鄧昇東 and others) and the 2010-10-09 joint session with the 教授會 in Los Angeles (with 許輕甫、許和子、洪珠美、Daniel Lin).
+- **Footnote co-authorship, cross-checked.** [[works/taiwaneseamericanhistory-org/our-journeys-357|TAH Our Journeys #357]] cites his FAHR history as 黃根生、王廷宜、莊秋雄 — HOLD: the same work (TAH #1040) lists the first author as 黃根深 in the vault record; 根生 vs 深 discrepancy unresolved, kept as in source.
 
 ## Family
 
