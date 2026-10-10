@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-09
 ---
 # Dr. Fu-Chen Lo (羅福全博士)
 
@@ -53,6 +53,14 @@ last_reviewed: 2026-09-10
 - [[works/taiwaneseamericanhistory-org/dr-fu-chen-lo|TAH Who's Who profile: Dr. Fu-Chen Lo]]
 - [[works/taiwaneseamericanhistory-org/183-dr-fu-chen-lo-e7-be-85-e7-a6-8f-e5-85-a8|TAH record #183: 羅福全博士]]
 - [[works/taiwaneseamericanhistory-org/collection-of-dr-fu-chen-lo|Collection of Dr. Fu-Chen Lo papers]]
+
+## Role in the Community (corpus-absorbed 2026-10-09)
+
+- **UFAI founding, 1966:** his own memoir [[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys #81]] details the 1966-06-18 Philadelphia congress that merged the Taiwan Independence League (UFI) with the Formosans Association for Self-Government of Taiwan (FASG) into UFAI, formally established 1966-07-04 — he attended as a UFI delegate alongside Chen I-te, Wang Po-wen and Su Jin-chun, and later served as one of the central committee members working with Chou Shih-ming. He and Jian Jin-sheng / Li Teng-jun then set out from Philadelphia on the "Liberty Crusade" (自由長征) tour of the northeastern university towns. Consistent with the existing Co-Founder (1966) entry — [[organizations/united-formosans-for-independenceufi|UFAI]].
+- **Taiwan Tribune, 1981:** Hung Cheh-sheng's memoir [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys #49]] records the paper operating from July 15 with Hung as director and 羅福全 as publisher (發行人), and his wife [[people/tah-p-e00ace0a3a|毛清芬]] managing the accounts — corroborating the first-publisher record (TAH #1) already on this page.
+- **Early organizing meeting:** [[works/taiwaneseamericanhistory-org/ourjourneys65-eng|Our Journeys #65 (eng)]] lists him among 15 attendees (with Charles Ting, Kenjohn Wang, Ming-che Lin, Jen-Tai Tsai and C.C. Yang) at a February 13 meeting — year not stated in the record — that shelved a radio-station plan in favor of building a diplomatic-advocacy organization.
+- **His own writings:** [[works/taiwaneseamericanhistory-org/ourjourneys156|Our Journeys #156 — 公論報停刊感言 (2015-08)]] and [[works/taiwaneseamericanhistory-org/mystories382|My Stories #382 — 回首 (2015-12)]].
+- **Documentary:** [[works/taiwaneseamericanhistory-org/videos95|Videos #95 — 【台灣演義】羅福全之一生 (2017-12-17)]].
 
 ## Sources
 - [TAH #92 encyclopedia: 92. Dr. Fu-Chen Lo 羅福全博士](https://taiwaneseamericanhistory.org/92-dr-fu-chen-lo/)
