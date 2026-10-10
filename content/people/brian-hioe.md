@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # Brian Hioe (丘琦欣)
 
@@ -39,6 +39,11 @@ _No filled family fields on the TAH profile._
 - Commented on Taiwanese identity polling trends in a VOA email interview (as New Bloom founding editor and non-resident researcher, University of Nottingham Centre for Taiwan Studies): identity is never static, the long-term trend shows declining 中國人 identification, and the壓倒性 support for 維持現狀 is why every party now declares for some form of status quo — [[articles/taiwanjustice-net/2024/20240412184345_root_f957bbdd580d9d78|台灣最新民調：僅2.4%自認中國人 (VOA 電郵採訪)]]
 - Panelist (「破土」雜誌創辦人) at the NTU Journalism Institute / Foreign Correspondents' Club forum 「選後台灣：變動中的世界與新執政者們」 (2024-04-25), alongside 鄭閔聲 (天下雜誌), David Demes, 鬼島之音共同創辦人吳怡慈, and 英國上議院前議長德蘇莎女爵 (online) — [[articles/taiwanjustice-net/2024/20240425095609_root_7c12559ed65fdde8|台海局勢受矚 英國上議院前議長論壇]]
 - Quoted in corpus-translated CNN reporting on Pelosi's planned 2022 visit to Taiwan (as founder of 破土雜誌/New Bloom): 丘琦欣 observed that Chinese threats had become "background noise" (背景雜音) for Taiwanese people, so the public largely did not weigh dire consequences of the visit — [[articles/taiwanjustice-net/2025/20251010052413_cnn_裴洛西擬到訪_台灣低調應對_8b958abebb2e10c6|CNN：裴洛西擬到訪，台灣低調應對]]
+- New Bloom (破土) is held in Echopedia as a community historical work — [[works/taiwaneseamericanhistory-org/new-bloom-online-magazine|New Bloom 破土 (Online Magazine)]]
+- New Bloom's 228 reporting (「Historical Violence of the 228 Massacre is still Unanswered For」) is cited in TAH 228 reading/resource lists — [[works/taiwaneseamerican-org/remembrance-resources-learning-about-228|Remembrance: Resources Learning about 228]] and [[works/taiwaneseamerican-org/remembering-the-228-massacre-readings-resources-on-taiwans-white-terror-era|Remembering the 228 Massacre: Readings & Resources]]
+- New Bloom Magazine (@newbloommag) was cited as a reporting source in the corpus record on Taiwanese Americans helping report anti-AAPI discrimination (2021) — [[works/taiwaneseamerican-org/taiwanese-americans-help-report-anti-aapi-discrimination|Taiwanese Americans Help Report Anti-AAPI Discrimination]]
+- New Bloom is listed among the partner organizations of Taiwan Mixed, the student-run English-language Taiwan news aggregator — [[works/taiwaneseamerican-org/introducing-taiwan-mixed-an-aggregator-for-english-language-taiwan-news|Introducing Taiwan Mixed]]
+- In the Bonnie Jin profile, New Bloom is described as 「a radical media collective in Taiwan organizing between Taiwan and the international community」 whose advocacy transcends the national context — [[works/taiwaneseamerican-org/bonnie-jin-union-organizer|Bonnie Jin, Union Organizer]]
 - TAH encyclopedia entry — [[works/taiwaneseamericanhistory-org/whos-brian-hioe|1612. Brian Hioe 丘琦欣]]
 
 ## Sources
@@ -57,3 +62,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09230700-3 re-verify 2026-09-24: fresh grep — identical hit set (our-journeys-373, whos-brian-hioe, index, the-228-inheritance, laguna-woods shooting, taiwanjustice 2025); all absorbed; no new absorbable facts -->
 <!-- deepen-x slice 09240600-20 re-verify 2026-09-25: fresh grep 丘琦欣/Brian Hioe — identical hit set (our-journeys-373, whos-brian-hioe, works index, the-228-inheritance, laguna-woods shooting, taiwanjustice 民調 article); all absorbed above; no new absorbable facts -->
 <!-- deepen-x slice 09260317-12 re-verify 2026-09-26: fresh grep — identical hit set (our-journeys-373, whos-brian-hioe, works index, the-228-inheritance, laguna-woods shooting, taiwanjustice 民調 84a3fbcf); all absorbed above; SKIP-with-reason: verified-saturated -->
+<!-- deepen-x slice 10081100-14 re-verify 2026-10-10: fresh grep 丘琦欣/Brian Hioe/破土/New Bloom across 5 corpus dirs — real hits all absorbed; 破土 matches in ourjourneys 37/50/173/272/305 are "groundbreaking" false positives, not Hioe/New Bloom. NEW: linked 5 previously-uncited works carrying New Bloom material (new-bloom-online-magazine, 228 resource lists ×2, anti-AAPI reporting, Taiwan Mixed partners, Bonnie Jin profile description) -->
