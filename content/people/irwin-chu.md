@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Prof. Irwin Chu (朱耀源博士)
 
@@ -51,6 +51,10 @@ Absorbed from his TAH records (#17, #87, #99, #284) already in the vault:
 - 2015-12-10 — TAH #87 profile published
 - 2018-06-25 — TAH #67 collection record published ([[works/taiwaneseamericanhistory-org/collection-of-dr-irwin-chu|67. Collection of Prof. Irwin Chu]])
 - 2018-08-06 — TAH #17 profile published ([[works/taiwaneseamericanhistory-org/17-prof-irwin-chu|17. Prof. Irwin Chu 朱耀源教授]])
+- 2009-06 — His autobiography 漢堡 米漿 味增湯 – 我的人生故事 published ([[works/taiwaneseamericanhistory-org/publications275|TAH #275 自傳]])
+- 2013-08 — Essay KENBO與APO published ([[works/taiwaneseamericanhistory-org/publications1228|TAH #1228]])
+- 2016-10-24 — Essay 台灣人回國的三個階段 published ([[works/taiwaneseamericanhistory-org/ourjourneys259|TAH #259]])
+- 2016-11-15 — 東碰西撞 column piece published ([[works/taiwaneseamericanhistory-org/columns19|columns #19]])
 
 ## Sources
 - [TAH #87 encyclopedia: 87. Dr. Irwin Chu 朱耀源博士 / First president (not owner) of a business enterprise: ](https://taiwaneseamericanhistory.org/87-dr-irwin-chu-%e6%9c%b1%e8%80%80%e6%ba%90%e5%8d%9a%e5%a3%ab-first-president-not-owner-of-a-business-enterprise-twylord-plant-laboratories-ventura-ca-1986/)
@@ -62,10 +66,15 @@ Absorbed from his TAH records (#17, #87, #99, #284) already in the vault:
 - Corpus hub: [[sources/taiwaneseamericanhistory-org-story-corpus|TAH story corpus hub]]
 - Vault records about him: [[works/taiwaneseamericanhistory-org/17-prof-irwin-chu|17. Prof. Irwin Chu 朱耀源教授]] · [[works/taiwaneseamericanhistory-org/whos-who-99-irwin-chu|99. Dr. Irwin Chu 朱耀源博士]] · [[works/taiwaneseamericanhistory-org/collection-of-dr-irwin-chu|67. Collection of Prof. Irwin Chu 朱耀源教授的收藏]]
 - Community ties in the vault: [[organizations/taiwanese-association-of-indiana|Taiwanese Association of Indiana]] — the Indiana chapter network where he is listed as a founding member
+- His own published writings in the corpus: [[works/taiwaneseamericanhistory-org/publications275|275. 漢堡 米漿 味增湯 – 我的人生故事 (自傳, 2009-06)]] · [[works/taiwaneseamericanhistory-org/publications1228|1228. KENBO與APO (2013-08)]] · [[works/taiwaneseamericanhistory-org/ourjourneys259|259. 台灣人回國的三個階段 (2016-10)]] · [[works/taiwaneseamericanhistory-org/columns19|東碰西撞專欄 (2016-11)]]
 
 ## Vault deepening note (2026-09-14, vault-only)
 - Re-checked the cited vault records [[works/taiwaneseamericanhistory-org/17-prof-irwin-chu|TAH #17]] and [[works/taiwaneseamericanhistory-org/87-dr-irwin-chu-e6-9c-b1-e8-80-80-e6-ba-90-e5-8d-9a-e5-a3-ab-first-president-not|TAH #87]]: held as bibliographic records only (full text stays in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]); no biographical facts beyond those already absorbed in Career Notes and Timeline.
 - Family members 張純枝, 朱隆英, 朱仲英 have no vault pages; no existing-slug links apply and no new pages created. Status: saturated.
+
+## Vault deepening note (2026-10-10, vault-only)
+- Fresh 5-dir grep (朱耀源 / Irwin Chu) surfaced 4 corpus works by him not previously linked: his 2009 autobiography [[works/taiwaneseamericanhistory-org/publications275|#275 漢堡 米漿 味增湯 – 我的人生故事]], [[works/taiwaneseamericanhistory-org/publications1228|#1228 KENBO與APO (2013-08)]], [[works/taiwaneseamericanhistory-org/ourjourneys259|#259 台灣人回國的三個階段 (2016-10)]] and [[works/taiwaneseamericanhistory-org/columns19|東碰西撞專欄 (2016-11)]] — added to Timeline and Connected in the Vault.
+- These are bibliographic records only (full text stays in the [[sources/taiwaneseamericanhistory-org-story-corpus|TAH story corpus]]); no new biographical dates or facts asserted, so no conflicts to hold.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
