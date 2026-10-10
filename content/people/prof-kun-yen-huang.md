@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Prof. Kun-Yen Huang (黃崑巖教授)
 
@@ -67,6 +67,7 @@ Accomplishment
 - Corpus sweep (slice 09141400-5, 2026-09-14): full grep (黃崑巖／Kun-Yen Huang) hits only [[works/taiwaneseamericanhistory-org/ourjourneys-138|TAH #138]]（上文已吸收）及三筆百科書目記錄 #12／#294／#828（Vault Holdings 已列）。無新增可吸收語料。
 - Corpus re-grep (slice 09150316-10, 2026-09-15): 黃崑巖 hits remain [[works/taiwaneseamericanhistory-org/ourjourneys-138|TAH #138]]（上文已吸收）+ 本人百科記錄 #12／#294／#828 + works/index；無新增可吸收語料，SKIP-with-reason。
 - Corpus re-grep (slice 09150400-4, 2026-09-15): 命中面不變——[[works/taiwaneseamericanhistory-org/ourjourneys-138|TAH #138]]（已吸收）＋本人記錄 #12／#294／#828＋works/index；無新增社群語料，無衝突須 HOLD。
+- Corpus re-grep (slice 10091404-25, 2026-10-10): 黃崑巖／Kun-Yen Huang／surname 與變體（Kunyen、崑巖、黃崑岩）全庫再掃，命中面不變——[[works/taiwaneseamericanhistory-org/ourjourneys-138|TAH #138]]（已吸收）＋本人百科記錄 #12／#294／#828＋works/index 與 sources 索頁；無新增可吸收語料，無衝突須 HOLD，SKIP-with-reason。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
