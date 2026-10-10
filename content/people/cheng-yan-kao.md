@@ -79,3 +79,5 @@ last_reviewed: 2026-09-27
 <!-- TJJ-A10080501-8: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080501-8 article d6441ab32ea8636d (陳文成事件 人權醫師陳永興盼儘速釐清真相, 2021-09-25刊／2021-10-23快照) read fresh this attempt: 高成炎出席座談會發言（陳文成差一屆學長、盼釐清真相）確認見於正文, subject link real, no wrong/spurious links; 2021-09-25 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- DEEPEN-X10081100-21: verified 2026-10-10 — fresh ZH+EN grep (高成炎／Cheng-yan Kao) across all 5 corpus dirs: hit set unchanged (ourjourneys106/101/96, 617文, 415條目, works/index, TJJ 向心案彙整, 陳文成40週年報導, sources), all already absorbed on-page; HOLD (NASA vs GE 任職) maintained — SKIP-with-reason (verified-saturated). -->
+
+<!-- TJJ-A10091401-11: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10091401-11 article d6441ab32ea8636d (陳文成事件 人權醫師陳永興盼儘速釐清真相, 2021-09-25刊／2021-10-23快照) read fresh this attempt: 高成炎出席座談會發言（陳文成差一屆學長、盼釐清真相）確認見於正文, subject link real, no wrong/spurious links; 2021-09-25 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

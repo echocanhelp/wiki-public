@@ -111,3 +111,5 @@ last_reviewed: 2026-10-09
 <!-- TJJ-A10090501-23: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-23 article 6fd9d16befa5a33a (曾為裴洛西募款餐會獻唱·音樂劇演員楊呈偉返台, 2022-08-08刊): 楊黃美幸以「前無任所大使楊黃美幸之子」記述確認見於正文, subject link real, no wrong/spurious links; 2022-08-08 dated fact w/ 雙檔 wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090901-26: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-26 article 753347eb4cf48066 (台文通訊30冬紀念獎頒獎典禮part1公告, 發文 2021-10-28／快照 2021-12-07) read fresh this attempt: 楊黃美幸以陳文成紀念基金會來賓身分 re-checked vs 正文, real, no wrong/spurious links; 2021-10-30 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10091401-11: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10091401-11 article d6441ab32ea8636d (陳文成事件 人權醫師陳永興盼儘速釐清真相, 2021-09-25刊／2021-10-23快照) read fresh this attempt: 楊黃美幸以陳文成博士紀念基金會董事長致詞確認見於正文, subject link real, no wrong/spurious links; 2021-09-25 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
