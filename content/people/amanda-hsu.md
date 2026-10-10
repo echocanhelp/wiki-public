@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-10-10
 ---
 # Amanda Hsu (許惠敏)
 
@@ -61,3 +61,6 @@ Amanda H.M. Chen (Conductor). Amanda Chen holds a BS degree in Political Science
 - The vault holds two TAH encyclopedia records under different bylines: [[works/taiwaneseamericanhistory-org/whos-who-1707-amanda-hsu||Who's Who #1707 "Amanda Hsu"]] (journalist) and [[works/taiwaneseamericanhistory-org/musician407||#407 "Amanda Chen, conductor" (06/2017)]] — one person: NTU Political Science BS, Univ. of Maryland Journalism MS, married to [[people/frank-c-h-chen||陳治煌]].
 - Timeline absorbed from the cited tables: moved to Greater Washington D.C. 1986 → co-founded 海天合唱團 1989 (conductor, many terms) → 華府榮星兒童合唱團 faculty 1996–2003 (Training choir coach 3 years) → 北美世界日報 D.C. News Division lead journalist 1997–2015 → freelance from 2015; community highlight: ACDA Greater D.C. Honor Chorus under John Rutter, 2008.
 - **2026-09-11 re-check:** no vault pages exist for Haitien Chorus, Glorystar Children's Chorus, World Journal, ACDA, or Prof. Jin-Chuan Dai (戴金泉), so no further wikilinks were added under the deepen protocol; everything already present in the cited TAH tables is absorbed above.
+
+## Role in the Community (2026-10-10 corpus pass)
+- Cross-reference from the Greater D.C. choral circle: [[works/taiwaneseamericanhistory-org/36-butterfly-chong-e5-bc-b5-e7-bf-a0-e8-9d-b6-choral-conductor|| TAH #36 Butterfly Chong 張翠蝶, choral conductor]] records that Butterfly Chong conducted the Haitien chorus for two years starting 2000 and later directed the Gloria Star children's choir — the same ensemble Amanda co-founded (海天合唱團, 1989) and taught at (華府榮星兒童合唱團, 1996–2003). Consistent with the TAH bio's "conductor for many terms"; the two-year 2000 stint by [[people/butteryfly-chong||張翠蝶]] suggests rotating/sequential tenures rather than a single continuous one. No date conflict to hold.
