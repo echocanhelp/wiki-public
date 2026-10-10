@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Steven Lin (林易)
 
@@ -69,3 +69,6 @@ _No filled family fields on the TAH profile._
 
 ## Deepen-x re-check (slice 09150500-9, 2026-09-15)
 - 重掃（林易／Steven Lin）命中集合不變：本人書目頁 4 筆（#291、#575、#1173、#1587，均已連結）、works/index 目錄列、taiwanjustice 索引中繼資料，及同名誤配之時代力量林易瑩文章。無可吸收社群事實，維持 **SKIP**。
+
+## Deepen-x re-check (slice 10090600-19, 2026-10-10)
+- 重掃範圍擴至 works+articles+sources+events+topics，並加掃鋼琴賽事關鍵字（Van Cliburn／Elmaleh）：賽事命中為零；林易命中集合不變——本人書目頁 4 筆（均已連結）、索引／目錄列，及同名誤配之時代力量**林易瑩**（2017 講座、2025 決策委員改選等文皆指台南議員林易瑩，非本頁鋼琴家）。無可吸收社群事實，維持 **SKIP**。
