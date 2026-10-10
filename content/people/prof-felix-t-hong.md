@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-10
 ---
 # Prof. Felix T. Hong (洪正幸教授)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-30 (slice 09260854-19): fresh ZH+EN re-grep (洪正幸 / Felix T. Hong) returned the identical set (ourjourneys321 + 321-eng + ourjourneys123 + whos-who-1864 + index) — verified-saturated, SKIP-with-reason; no new community facts, no conflicts.
 - Re-grep 2026-10-06 (slice 10051340-12): fresh ZH+EN re-grep (洪正幸 / Felix T. Hong) across works+articles+sources+events+topics returned the identical set (ourjourneys321 + 321-eng + ourjourneys123 + whos-who-1864 + index) — verified-saturated, SKIP-with-reason; no new community facts, no conflicts.
 - Re-grep 2026-10-08 (slice 10070018-3): fresh ZH+EN re-grep (洪正幸 / Felix T. Hong / Felix Hong) across works+articles+sources+events+topics returned the identical set (ourjourneys321 + 321-eng + ourjourneys123 + whos-who-1864 + index + sources page) — memoir passages re-read verbatim this run (追悼會 drafting/posters/wreaths/連絡 with 林宜雄、許國助; 萬國節《教育》演講) — all already absorbed above. Verified-saturated SKIP.
+- Re-grep 2026-10-10 (slice 10091400-24): fresh ZH+EN re-grep (洪正幸 / Felix T. Hong / Felix Hong / 洪正) across works+articles+sources+events+topics returned the identical core set (ourjourneys321 + 321-eng + ourjourneys123 + whos-who-1864 + index + sources page). Two new apparent hits were surname-only false positives, rejected: ourjourneys212 names 洪正吉 (輕鬆生活座談會 founder, different person) and taiwanjustice-net articles name 洪正 (2020 立委 candidate, 台灣基進) and 洪正泰 (1981 botulism case) — none is Prof. Felix T. Hong. Verified-saturated, SKIP-with-reason; no new community facts, no conflicts.
