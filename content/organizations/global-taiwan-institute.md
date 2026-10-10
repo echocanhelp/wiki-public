@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Global Taiwan Institute (全球台灣研究中心)
 
@@ -24,7 +24,9 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 - 組織简介與通訊均入藏 TAH：「47. History of GTI (Global Taiwan Institute)全球台灣研究中心簡介」（[[works/taiwaneseamericanhistory-org/history-of-gti-global-taiwan-institute|TAH 檔案庫 #47]]）、GTI 通訊（[[works/taiwaneseamericanhistory-org/newsletter-of-global-taiwan-institute|GTI Newsletter]]）、GTI 條目（[[works/taiwaneseamericanhistory-org/global-taiwan-institute|TAH 檔案庫 GTI 頁]]）。
 - 2016年由駐紐西蘭前代表葉介庭（Chieh-Ting Yeh）與其他几位前大使共同創辦，定位為「public policy incubator」，以增進台灣與各國（尤其美國）之關係——此為 Formosa Foundation 回顧文所載之第一手社群記錄（[[works/taiwaneseamerican-org/farewell-formosa-foundation|Farewell, Formosa Foundation]]），與本页「From the record」2022-08-05 CNA 報導（葉介庭任職 GTI）互相印證。
 - 2020-10 GTI 主辦「GTI Taiwanese Film Week」，台美人電影節指南將放映活動註記「hosted by Global Taiwan Institute」（[[works/taiwaneseamerican-org/ta-film-festival-guide-2020|TA Film Festival Guide 2020]]）。
-- 台美人學習資源網收錄其委託 Thomas J. Shattuck 撰寫的轉型正義專文〈Transitional Justice in Taiwan: A Belated Reckoning with the White Terror〉，論白色恐怖時期真相調查不足與檔案開放法制改革（[[works/taiwaneseamerican-org/remembrance-resources-learning-about-228|228 紀念學習資源頁]]）。
+- 台美人學習資源網收錄其委託 Thomas J. Shattuck 撰寫的轉型正義專文〈Transitional Justice in Taiwan: A Belated Reckoning with the White Terror〉，論白色恐怖時期真相調查不足與檔案開放法制改革（[[works/taiwaneseamerican-org/remembrance-resources-learning-about-228|228 紀念學習資源頁]]；另見 [[works/taiwaneseamerican-org/remembering-the-228-massacre-readings-resources-on-taiwans-white-terror-era|228 紀念閱讀資源頁]] 同文轉載）。
+- GTI 執行長 Russell Hsiao 本人入藏 TAH Who's Who 檔案（[[works/taiwaneseamericanhistory-org/whos-who-1550-russell-hsiao|TAH Who's Who #1550 Russell Hsiao]]）；共同創辦人葉介庭另有 2015/05 訪談條目入藏（[[works/taiwaneseamericanhistory-org/425-chien-ting-yeh-e8-91-89-e4-bb-8b-e5-ba-ad-201505|TAH #425 葉介庭]]），早於 2016-09-14 GTI 創立。
+- GTI 亦為台美人社群論述的發表平台：Hsin-I Cheng 的〈Model Minority Myth〉訪談刊於 Global Taiwan Institute，談台灣議題不宜僅訴諸「精英路線」、應建立跨族跨階層支持（[[works/taiwaneseamerican-org/model-minority-myth-hsin-i-cheng|Model Minority Myth — Hsin-I Cheng]]）；葉介庭社群建構專文亦以 GTI 共同創辦人、副主席身分記述（[[works/taiwaneseamerican-org/a-tale-of-two-islands-fire-ex-ignite-community|A Tale of Two Islands: Fire EX 社群點火]]、[[works/taiwaneseamerican-org/no-double-ten-is-not-taiwans-independence-day|No, Double Ten Is Not Taiwan's Independence Day]]）。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/global-taiwan-institute/)
@@ -87,3 +89,5 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 <!-- TJJ-A10070900-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-2 article 064fe05a08d0aecf (宋娣专栏 自由限時批 台美關係準國家, 2017-02-17刊, 2024-05-22快照): subject link re-checked vs 正文 this attempt — GTI＝楊甦棣(Stephen Young)華府致詞之智庫確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070900-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-1 articles 2c9cb76838702dd7 + 3260cd0bdf2f84d7 (海台青與黑客松, 楊遠薰, 2017-07-24, twin copies): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink(s) already in From the record — saturated, no new material. -->
+
+- 2026-10-09 (deepen-x slice 10080951-10) — 本輪新增社群記錄：Russell Hsiao 入藏 TAH Who's Who #1550、葉介庭 2015/05 訪談條目 #425（早於 GTI 創立）、GTI 刊載 Hsin-I Cheng〈Model Minority Myth〉訪談、葉介庭以 GTI 共同創辦人/副主席身分見於社群專文兩篇。見「Role in the Community」。
