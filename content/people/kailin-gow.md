@@ -70,3 +70,6 @@ last_reviewed: 2026-10-03
 <!-- TJJ-A10060400-15: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-15 articles (b5e568ec43e787f1 《好國好民》美國巡迴放映座談會, 2011-10-15 / c76f11ecd2598ecb 2017台美文藝出版·台美人筆會發表會, 2017-06-11 / 52a71221d3029866 台文通訊30週年慶祝會ONLINE, 2021-06-29 / fa7c957f552d76e9 總統府公布資政27人國策顧問70人名單, 2022-09-02): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-15: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-15 article c76f11ecd2598ecb (2017台美文藝出版·台美人筆會發表會報導, 2017-06-11): 梁凱琳名列筆會已介紹之第二代作家清單 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+
+<!-- TJJ-A10090501-27: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-27 article c76f11ecd2598ecb (2017台美文藝出版·台美人筆會六月十七日舉辦發表會報導, 2017-06-11 刊 / 2022-11-27 快照) read fresh this attempt: subject link re-checked vs 正文 (筆會會長李淑櫻宣布2017台美文藝出版及6/17發表會; 第二代作家名單 游朝凱、梁凱琳、Julia Wu、Jennifer Chow、楊小娜; 編委名單 李彥禎、陳東榮、李芬芬、鄭炳全、秦雪華、林文政), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
