@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: published
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # Dr. Choan-Seng Song (宋泉盛)
 
@@ -46,6 +46,11 @@ Within this cluster, Dr. Song is treated as an intellectual reference rather tha
 - **Bay Area ministry and teaching.** Theology professor at Pacific School of Religion / Graduate Theological Union (Berkeley); appointed pastor of the Bay Area 灣區教會 in 1997, after which church–community cooperation in Northern California intensified; invited speaker 「台灣人民面臨抉擇的時刻」at the 北加州台灣同鄉聯合會 30th-anniversary event (2003-01-25). — Source: [[works/taiwaneseamericanhistory-org/our-journeys-350|Our Journeys #350]] (confidence B)
 - **Education network.** A 台大哲學系 senior of the author of [[works/taiwaneseamericanhistory-org/ourjourneys268|Our Journeys #268]]; moved in the 1960s East-Coast seminary circle (紐約: 周神耀、駱維道 et al.). — Source confidence B
 - Corpus encyclopedia entry: [[works/taiwaneseamericanhistory-org/800-choan-seng-song-e5-ae-8b-e6-b3-89-e7-9b-9b-201602|TAH #800: Choan-Seng Song 宋泉盛 (2016/02)]].
+- **Preacher for the Midwest retreat network.** Invited, together with Rev. 駱維仁 (Wei-jen Luo), to preach at the Midwest Formosan Christian family retreats at Lake Geneva, Wisconsin (1966–1973 series); these retreats were formally incorporated as the Midwest Formosan Christian Foundation (MFCF) in 1973 and converted in 1980 into the Taiwanese American Foundation (TAF) youth camps. — Source: [[articles/taiwanjustice-net/2025/20250323083207_卓甫良與taf的故事-_-楊遠薰_e7aad53f3e593fde|卓甫良與TAF的故事 (楊遠薰)]], [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|Our Journeys #33: History of TAF]] (confidence B)
+- **WFTA congress speaker.** Addressed 「台灣人的政治責任與要求」at the 世台會 (WFTA) 2nd/3rd annual congress. — Source: [[works/taiwaneseamericanhistory-org/ourjourneys283|Our Journeys #283: 世台會第二、三屆年會報告]] (confidence B)
+- **Later years.** Returned to Taiwan from the U.S. in 2013; his 90th-birthday gathering was held at 台中柳原教會 on 2019-10-16, where he presented his final work 《「謠言」是真的：啟示錄另解》. — Source: [[sources/tcnn-song-memorial-2024|TCNN memorial (謝陽一), 2024-12-25]] (confidence B)
+- **Published works in the TAH corpus.** 《安心之道》([[works/taiwaneseamericanhistory-org/178-e5-ae-89-e5-bf-83-e4-b9-8b-e9-81-93-e5-ae-8b-e6-b3-89-e7-9b-9b200204literatu|TAH #178, 2002/04]]) and 《人心裡的秘密》([[works/taiwaneseamericanhistory-org/188-e4-ba-ba-e5-bf-83-e8-a3-a1-e7-9a-84-e7-a7-98-e5-af-86-e5-ae-8b-e6-b3-89-e7-9|TAH #188, 2004/04]]).
+- HOLD: 台灣人民自決運動 launch date — Our Journeys #350 says 1972-03-19 (21 overseas representatives, joint-initiator petition) while Our Journeys #283 says 1972-12-25 in Washington; both attributed to 黃彰輝/黃武東/宋泉盛/林宗義. Not auto-merged.
 
 ## Network
 
