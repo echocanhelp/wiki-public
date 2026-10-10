@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Dr. Fu-Mei Chang (張富美博士)
 
@@ -48,6 +48,10 @@ last_reviewed: 2026-09-15
 - Community biographical note (婦女信箱 column): 「法學博士，史丹佛大學胡佛圖書館副館長」 — matches this profile's Hoover Institution employment — [[works/taiwaneseamericanhistory-org/ourjourneys79|Our Journeys 79]].
 - Deepen re-check (slice 09150600-12, 2026-09-15): absorbed the above from OA #38/#37/#47/#60/#69/#79/#106/#142/#245 + TAH #1263; 1993 國大代表 identity stays HOLD but is now corroborated by a third independent record (民進黨海外國大代表, OA #37). Recent press mention 陳文成紀念廣場簽約（張富美當面批管中閔, 2025）noted, identity unresolved.
 - 語料庫再比對（deepen-x slice-30，2026-09-15）：新增 ourjourneys259 佐證條目；1993 國民大會代表身分維持 HOLD，未自動併入。
+- 台灣出版社 co-editor: in the 台灣文庫 founding memoir, 林衡哲 names 張富美 (with 陳芳明) as his 「親密文化戰友」and co-editor when 台灣出版社 was established in Southern California (1983-10-31, Cerritos), publishing banned Taiwan books during martial law — [[works/taiwaneseamericanhistory-org/ourjourneys70|Our Journeys 70]]. Her 1987/04 政治 volume 「台灣問題論文集」 is catalogued in the TAH record — [[works/taiwaneseamericanhistory-org/450-e5-8f-b0-e7-81-a3-e5-95-8f-e9-a1-8c-e8-a8-8e-e8-ab-96-e9-9b-86-e5-bc-b5-e5-a|TAH record 450]].
+- 2003-04, as 僑委會委員長, she and 芝加哥辦事處處長陳俊賢 called on the Minnesota state government and met 僑胞 — corroborates the overseas-office career path for 張富美 — [[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys 123 (明州台美人百年大事)]].
+- NATPA retrospective (EN): after the 2000 political rotation, Directors 張富美 and 張旭成 returned to Taiwan — 張富美 as 僑委會委員長 (Minister, Overseas Community Affairs Council), 張旭成 as DPP 立委/NSC 副秘書長 — [[works/taiwaneseamericanhistory-org/ourjourneys69-eng|Our Journeys 69 (EN)]].
+- 2026-10-10 deepen-x re-check (slice 10090315-8): grep across all corpus dirs found no new person beyond the above three OA records + work #450; the 僑委會委員長 role is now corroborated by two independent memoir records (OA #69-eng, OA #123) and fits the 民進黨海外國大代表 path (OA #37) without forcing a merge of the 1993 HOLD.
 
 ## Family
 
