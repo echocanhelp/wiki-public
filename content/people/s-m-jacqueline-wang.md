@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # S. M. Jacqueline Wang (王賽美)
 
@@ -51,6 +51,7 @@ S. M. (Jacqueline) Wang 王賽美 – History of Taiwanese American (T.A. Archiv
 - No memoir material describing Jacqueline Wang's own community roles was found beyond the Taiwan Center donation credit; her Ramada Inn (Long Beach) CEO tenure stands as sourced (TAH #1973).
 - 2026-09-24 (slice 09230600-18): two husband-side memoirs place the family at the center of 南加 community organizing: 周實's history of the 南加信用合作社 records 王桂榮 joining the 1979 年會 as new blood, taking over as 社長 by end-1979, and moving the monthly meetings into his own hotel in Montebello (Holiday Inn) — the couple's hospitality business doubling as community infrastructure, consistent with her later Ramada Inn CEO role ([[works/taiwaneseamericanhistory-org/ourjourneys244|244. 曇花一現的南加信用合作社 / 周實 /08/2016]]); and the corpus preserves Ken John Wang's own account of founding the first overseas Taiwanese senior apartment 鶴園 ([[works/taiwaneseamericanhistory-org/ourjourneys54-eng|54. 海外台灣人第一所老人公寓一鶴園 / Kenjohn Wang]]).
 - Corpus re-grep 2026-09-25 (slice 09240600-5): hit set unchanged — own TAH #1973 work page, works index, and the two TJJ 會館 anniversary notices (22週年 c3e76282、24週年 2a543ddc), all already absorbed above; the 1998 捐獻會館土地建物記述 verified verbatim in both article bodies. SKIP-with-reason: verified-saturated, nothing new absorbable.
+- Corpus re-grep 2026-10-10 (slice 10091316-27): hit set unchanged — own [[works/taiwaneseamericanhistory-org/whos-who-1973-s-m-wang|TAH #1973]], works index, and the two TJJ 會館 anniversary notices (22週年 c3e76282、24週年 2a543ddc), all already absorbed above; 1998 捐獻會館土地建物記述 re-verified verbatim in both article bodies. The my-stories-823 hit is slug noise (a 'S. M. Wang' mention in the 陳楷雯 figure-skating piece, not 賽美). SKIP-with-reason: verified-saturated, nothing new absorbable.
 - Corpus re-grep 2026-09-23 (slice 09221100-29): hit set unchanged — own [[works/taiwaneseamericanhistory-org/whos-who-1973-s-m-wang|TAH #1973]], works index, and the two TJJ 台灣會館 anniversary notices already absorbed in 'From the record' (the [[works/taiwaneseamericanhistory-org/whos-m-wang|852. M. Wang 陳美霞]] hit is a slug collision, different person). SKIP-with-reason: verified-saturated, nothing new absorbable.
 
 ## From the record
