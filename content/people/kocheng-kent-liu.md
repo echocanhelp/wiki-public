@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Kocheng Kent Liu (劉格正)
 
@@ -56,6 +56,8 @@ _Facts absorbed from this page's own TAH tables and accomplishment note; no new 
 > 跨頁參照（deepen 2026-09-14，僅連結既有頁面）：其美東南區（S.E. TAA）會長與夏令會籌委會經歷對應 [[organizations/taiwanese-association-of-america||TAA 總會]]；田納西州同鄉會（就讀 Univ. of Tennessee 時期之地域連結）見 [[organizations/tennessee-taiwanese-association||Tennessee Taiwanese Association]]。
 
 > Corpus recheck（deepen-x slice 09141400-2，2026-09-14）：語料庫檢索命中 6 頁（私檔 #9、北卡同鄉會50年、#241、#245、#251、#782）皆已於上文收錄連結，無新素材 — SKIP-with-reason。
+
+- **KMT 警告公文與回台加簽註銷**：TAH 歷史相簿檔 #46 [[works/taiwaneseamericanhistory-org/photo-albums-historical-46||〈KMT警告公文與回台加簽註銷／劉格正〉]]（2021-01-11 收檔）保存了國民黨對其發出的警告公文與回台加簽註銷紀錄 — 與海報事件、FBI 約談同屬其被當權者監控盯梢之第一手證據鏈（deepen-x slice 10081400-2，2026-10-10 新增）。
 
 ## Family
 
