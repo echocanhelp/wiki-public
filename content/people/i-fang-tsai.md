@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # I-Fang Tsai (蔡宜芳)
 
@@ -61,3 +61,7 @@ SKIP-with-reason：corpus grep（蔡宜芳 / I-Fang Tsai，於 works/ 與 articl
 ## Deepen-X — 2026-09-14 (slice 09142101-2, corpus re-grep)
 
 SKIP-with-reason：復核語料檢索結果與本頁前輪（slice 09141300-12）一致——本人命中僅 [[works/taiwaneseamericanhistory-org/whoswho1050|TAH #1050]] 與 [[works/taiwaneseamericanhistory-org/artist-yvonne-i-fang-tsai|TAH #17]] 兩條已連結記錄（均為書目級，全文留 vault）；articles/ 命中（taiwanjustice 報導）皆為同名台灣政治人物蔡宜芳，維持 HOLD: no merge。無新增社群事實可吸收。
+
+## Deepen-X — 2026-10-10 (slice 10091400-13, corpus re-grep)
+
+SKIP-with-reason（verified-saturated）：本輪以 蔡宜芳 / I-Fang Tsai / Yvonne Tsai / 蔡宜 全語料檢索（works、articles、sources、events、topics），本人相關命中仍僅 [[works/taiwaneseamericanhistory-org/whoswho1050|TAH #1050]] 與 [[works/taiwaneseamericanhistory-org/artist-yvonne-i-fang-tsai|TAH #17]] 兩條已連結記錄；taiwanjustice 報導命中（2020/2025 立委選舉、蔡壁如遷籍案）皆為同名台灣民眾黨政治人物，維持 HOLD: no merge，與紐約粉彩畫家非同一人。sources/taiwaneseamericanhistory-org.md 僅為索引引用。無新增社群事實可吸收，last_reviewed 更新。
