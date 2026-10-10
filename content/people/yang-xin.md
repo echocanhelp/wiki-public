@@ -10,7 +10,7 @@ tags:
   - community-leader
 verification_status: pending
 featured: true
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-10
 ---
 # Yang Hsin (楊信)
 
@@ -180,6 +180,7 @@ Pages that link to **yang-xin** (yang-xin):
 - 複核（TJJ-A09162345-31, 2026-09-24）：slice 文章 20053f0a17b89c07（耆老講座標籤頁）正文再驗證——「第一代台美人創業甘苦談 楊信國策顧問 [影片]」條目再確認見於正文，連結為真；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 2023-03-14 — 台灣公義報刊「大洛杉磯台灣會館耆老講座第一代台美人創業甘苦談 楊信國策顧問 [影片]」，記其於大洛杉磯台灣會館耆老講座以國策顧問身分分享第一代台美人創業經歷（[[articles/taiwanjustice-net/2025/20250216032153_tag_大洛杉磯台灣會館耆老講座_20053f0a17b89c07|TJJ 耆老講座標籤頁，2025-02-16 存檔]]）。
+- 2015 — 以「前世界台商會會長」身分與吳澧培、楊黃美幸（台灣民主基金會副執行長）、邱月香（中華軟協理事長）及金門酒廠等合資 3,000 萬元，投資陳玫君紀錄片拍攝（取景台灣與金門）（[[works/taiwaneseamericanhistory-org/ourjourneys279|Our Journeys 279]]）。
 - 2022-07-02 — 以台美人社區領袖身分（率楊信夫婦）於柑縣為國會眾議員 Michelle Steel（朴銀珠）第45區連任舉辦募款餐會，公開呼籲台美人投票支持其連任，稱其親切、關心選民心聲、持續為中小企業主發聲（[[articles/taiwanjustice-net/2022/20220813052744_2022_07_02_台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連_8c5d12035d4e1a54|TJJ, 2022-07-02]]；另見 [[articles/taiwanjustice-net/2025/20250808005844_台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連_2fc3294ed01f2d2a|2025-08-08 快照]]）。
 
 ## Source Notes and Confidence
@@ -202,6 +203,11 @@ Pages that link to **yang-xin** (yang-xin):
 - [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]
 - [[people/huang-gen-shen||Huang Gen-shen (黃根深) — founding-era member]]
 - [[people/liao-shu-zong||Liao Shu-zong (廖述宗) — NATPA founder]]
+- [[works/taiwaneseamericanhistory-org/whos-who-203-jackson-yang||Who's Who 203: Jackson Yang 楊信]]
+- [[works/taiwaneseamericanhistory-org/my-stories-801||My Stories 801: 從窮孩子到億萬富豪（2021/09 創業分享）]]
+- [[works/taiwaneseamericanhistory-org/my-stories-869||My Stories 869: 甘苦都忘了 做人比做生意重要（2023/02）]]
+- [[works/taiwaneseamericanhistory-org/mystories175||My Stories 175: 楊信白手起家的故事（朱乙真, 2015/01）]]
+- [[works/taiwaneseamericanhistory-org/21-e5-8c-97-e7-be-8e-e5-bd-b0-e5-8c-96-e5-90-8c-e9-84-89-e6-9c-83-e6-a5-8a-e4-bf||北美彰化同鄉會楊信獎學金]]
 <!-- TJJ-A09260400-27: verified 2026-09-26 — subject links in slice 09260400-27 articles (e041055e 台灣演義分類頁 / cd646b86 WHO世衛專題頁 / 2fc3294e Michelle Steel募款餐會 / 432e1fca Ed Royce標籤頁) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-13: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-13 article 8c5d1203 (Michelle Steel朴銀珠募款餐會報導, 2022-08-13快照): subject link re-checked vs 正文 (與會/站台名單), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
