@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Rev. Martin C. Wang (王成章牧師)
 
@@ -59,3 +59,4 @@ last_reviewed: 2026-09-25
 
 複核（deepen-x slice 09230500-4, 2026-09-24）：corpus re-grep（works+articles，ZH+EN）命中仍僅 our-journeys-392、ourjourneys338、ourjourneys268、ourjourneys43、whoswho1429、index 六件，皆已吸收（含 #338 1977 大會間諜軼事）— SKIP-with-reason：語料已飽和，HOLD 三則未解。
 複核（deepen-x slice 09240500-1, 2026-09-25）：ZH+EN 再 grep 命中集不變（#392、#338、#268、#43、#1429、our-journeys 目錄行）— SKIP：語料飽和，無新事實，HOLD 未解。
+複核（deepen-x slice 10081100-29, 2026-10-10）：ZH+EN+surname 再 grep 全五語料目錄，命中集仍為 #392、#338、#268、#43、#14、#1429 與 index/sources 目錄行，無新命中檔；逐檔抽查（#392/#268）確認 1975 總召集人、普林斯頓神學生圈、和平契友聯絡網等事實皆已吸收於上文 — SKIP：語料飽和，三則 HOLD（出生年 1953 vs 1935、大學 台神 vs 南神、M.Th 1964 vs ~1967）仍未解，無新語料可裁決。
