@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-10
 ---
 # John J. Tkacik (譚慎格)
 
@@ -68,6 +68,15 @@ See the source hub. Top mentions:
 
 The one title-authored column preserved in the harvest — *台灣、烏克蘭與七十五週年* (2022-03-05) — compares Taiwan's situation to Ukraine's on a 75-year anniversary framing, an example of Tkacik's recurring theme as a Taipei-based commentator on Taiwan's international standing. His name also surfaces in body text of archive pieces on the Chen Shui-bian prosecution ([[people/chen-shuibian||Chen Shui-bian (陳水扁)]]'s forced court appearance, 2013), the 2018 impeachment-of-Ma judicial controversy by attorney [[people/huang-diyin||Huang Di-yin (黃帝穎)]], and Lee Teng-hui commemoration essays — placing him within the same Taiwanese-American media commentary circle preserved by [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]].
 
+## Role in the Community
+
+Tkacik appears in the corpus not only as a taiwanjustice.net columnist but as a recurring voice in the Taiwanese American movement's own record of policy debate:
+
+- **Sunflower Movement era (2014):** his Washington Times piece "Taiwan Struggles in China's Trade Grip" is preserved in the press roundup inside [[works/taiwaneseamerican-org/taiwans-sunflower-student-movement|Taiwan's Sunflower Student Movement]], alongside movement-press coverage of the legislative occupation.
+- **Institutional role:** the archive identifies him as director of the International Assessment and Strategy Center's **Future Asia Program** (美國國際評估暨戰略中心「未來亞洲計劃」主任), a former State Department official who served in Taiwan — see the VOA interview context with 游錫堃 in [[articles/taiwanjustice-net/2024/20240715145556_root_185fdc80c7d5764b|VOA專訪游錫堃]].
+- **Name-normalization debate:** in his own column [[articles/taiwanjustice-net/2026/20260211101639_台灣_烏克蘭與七十五週年-_譚慎格_ded2259fed416a9d|台灣、烏克蘭與七十五週年]] he recalls his 2018-10-05 *Liberty Times* essay 「台灣正名的另一條路」 (the Greece/Hellenic-Republic model for "中華民國亦稱為台灣") and his position that "要美國承認中華民國代表中國是不可能了，有可能的是承認一個獨立的台灣."
+- **Cross-strait deterrence debate (2021):** his *Liberty Times* essay 「戰爭意味著台灣獨立？」 (2021-08-01) challenged 游錫堃's "immediate diplomatic recognition if China attacks" formula, arguing Taiwan's "undefined" international status is the core of Washington's policy — the exchange is preserved in the same VOA record above.
+
 ## Source Notes
 
 - **Content priority A:** Article count (1) from Tier 2 title extraction
@@ -91,6 +100,8 @@ The one title-authored column preserved in the harvest — *台灣、烏克蘭�
 - 複核（TJJ-A09220400-5, 2026-09-22）：subject link 經本 slice 再驗證為真實對應，对应 From-the-record 条目已在库（无错链、无虚链）— SKIP，无新材料。
 
 - 2016-12-05 — TJJ English Pages 目錄頁收錄其 National Interest 轉載評論「Donald Trump Has Disrupted Years of Broken Taiwan Policy」。（[[articles/taiwanjustice-net/2024/20240224194137_root_b1e144ecc18e460f|TJJ, 2013-07-30 快照]]）。
+
+- HOLD: 「台灣、烏克蘭與七十五週年」的日期衝突 — 本頁 Archived column focus 記 2022-03-05，但 harvest 路徑與 frontmatter 為 2026-02-11（ts 2026-07-28 crawl）。未自動合併，保留兩處原文待複核。（DEEPEN-X10090400-7, 2026-10-10）
 
 <!-- TJJ-A10040600-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-3 article b1e144ecc18e460f (English Pages 分類隨機頁, 2024-02-24快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
