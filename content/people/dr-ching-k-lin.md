@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-21
+last_reviewed: 2026-10-10
 ---
 # Dr. Ching K. Lin (林清貴博士)
 
@@ -47,6 +47,7 @@ Our own story corpus holds three first-person records by/with Lin and his wife �
 - **2018-10-24** — book-launch/life-story record: [[works/taiwaneseamericanhistory-org/129-the-life-stories-of-dr-mrs-ching-k-lin|TAH #129, The Life Stories of Dr. & Mrs. Ching K Lin 挑戰與感恩：我們的人生路]] (林清貴詹正玉夫婦).
 - **2019-01-17** — couple memoir in the story corpus: [[works/taiwaneseamericanhistory-org/my-stories-671|TAH #671, 林清貴、詹正玉 的故事]].
 - **2020-05-18** — donated personal papers: [[works/taiwaneseamericanhistory-org/private-collections-99-ching-k-lin|TAH #99, Collection of the Dr. Ching K. Lin 林清貴博士的收藏]].
+- **2015-11-18** — named in the Evergreen Class lecture report 「中風的發現、治療、與預防」(講師 黃文英博士, GSK 副總裁退休): the report calls him **清貴兄** and records that Lin served as **主婚人 (wedding officiant) for 黃文英博士's marriage** — a personal-network link between Lin and the class's visiting science lecturers ([[articles/taiwanjustice-net/2024/20240425084631_root_7a0a59ccaab6bd78|TJJ report, archived 2024-04-25]]).
 
 Together with the encyclopedia records ([[works/taiwaneseamericanhistory-org/ota-248|TAH #248 夫妻合傳]], [[works/taiwaneseamericanhistory-org/whos-who-886-ching-k-lin|TAH Who's Who #886]]) this shows a decades-long pattern of community self-documentation matching his ITPC/Evergreen-class teaching record above.
 
