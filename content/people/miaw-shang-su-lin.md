@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-10
 ---
 # Miaw Shang Su Lin (林蘇妙香)
 
@@ -32,6 +32,8 @@ Miaw Shang Su Lin (林蘇妙香) is listed in the TAH Foundation Who’s Who Tai
 
 The 台美史料中心 March 2021 newsletter reprinted Ken Lee's memorial essay 不怕死的「病西施」("One Brave Woman", translated by Chung Lin Hsu), which recounts that her marriage to [[people/adrian-lin||林宣緒 Adrian Lin]] was arranged while the two lived half-way around the globe from each other — she in Taiwan, he in the United States.
 
+Ken Lee's essay (李彥禎, bylined Ken Lee in the English edition) is not new to 2021: it first appeared in the TAH story corpus as [[works/taiwaneseamericanhistory-org/mystories72|不怕死的病西施 (mystories #72)]] on 2014-09-05, two years before her passing, in the English edition as [[works/taiwaneseamericanhistory-org/mystories-72-eng|One Brave Woman]]; the newsletter reprinted this same piece.
+
 ## Sources
 - [TAH #1107 encyclopedia: 1107. Miaw Shang Su Lin 林蘇妙香 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1107/)
 - [TAH #290 encyclopedia: 290. Mrs. Miaw-Shang Su Lin (林蘇妙香) / A Taiwanese American bravely fought many il](https://taiwaneseamericanhistory.org/ff290/)
@@ -44,6 +46,8 @@ The 台美史料中心 March 2021 newsletter reprinted Ken Lee's memorial essay 
 - 覆核（TJJ-A09251300-3, 2026-09-26）：本 slice 兩份同文文章 0832558e3b4e5ac7 / b7327dcf888cee82（台美史料中心 March 2021 Newsletter）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含兩文 wikilink 的 2021-02-28 條目已在庫 — SKIP，已飽和。
 
 - 2021-02-28 — 台美史料中心3月通訊重刊 Ken Lee 撰〈不怕死的「病西施」One Brave Woman〉（許鍾琳譯），記林蘇妙香（I Miaw Shang Su）與林宣緒（Adrian Lin）由台灣與美國兩地牽成的婚事（[[articles/taiwanjustice-net/2021/20210419132127_2021_02_28_march-2021-newsletter-t-a-archives-台美史料中心_0832558e3b4e5ac7|TJJ, 2021-02-28]]；同文另存 [[articles/taiwanjustice-net/2026/20260208202549_march-2021-newsletter-t-a-archives-台美史料中心_b7327dcf888cee82|2026-02-08 快照]]）。
+
+- 2014-09-05 — Ken Lee（李彥禎）撰〈不怕死的病西施〉首次刊於 TAH 故事庫 mystories #72（[[works/taiwaneseamericanhistory-org/mystories72|中文版]]；英文版 [[works/taiwaneseamericanhistory-org/mystories-72-eng|One Brave Woman]]），早於 2021 年通訊重刊約六年半（deepen-x slice 10090315-7 覆核，2026-10-10）。
 
 Corpus re-check 2026-09-22 (deepen-x slice 09220400-28) and again 2026-09-23 (slice 09221200-31): fresh grep for 林蘇妙香 / Miaw Shang — hits remain only the records already linked above (#290, video #37, #1107, March 2021 newsletter ×2 snapshots; whoswho1032 is a different person, 陳林妙珠); no new memoir/community material. SKIP-deepen.
 - Corpus re-sweep 2026-09-24 (slice 09230700-26): hits remain only #290, video #37, #1107, the works index, and the two TJJ March-2021-newsletter snapshots — all already linked; verified-saturated.
