@@ -8,7 +8,7 @@ tags:
   - human-rights
   - FAHR
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # 梅心怡 (Lynn Alan Miles)
 
@@ -22,6 +22,8 @@ last_reviewed: 2026-09-25
 ## Role in the Community
 - **台灣民主黨 (1986).** When overseas supporters announced the party's founding in New York in March 1986, 梅心怡 — then in the U.S. — served as its English press secretary ([[works/taiwaneseamericanhistory-org/our-journeys-363|TAH #363, Our Journey]]). The same memoir records the wider effort: 許信良 returned to Taiwan and joined the party together with 謝聰敏 and 林水泉; Taiwanese Americans reportedly raised US$500,000 to fund at least 50 air tickets so that blacklisted figures — Fr. James Collignon 王澤民, Terry Caine, 艾琳達 and others — could attempt to force entry back to Taiwan in late November 1986, accompanied by Japanese journalist Kiyoshi Wakamiya, who had witnessed the assassination of Benigno Aquino Jr. firsthand.
 - **FAHR fundraiser (2014).** Diagnosed with mesothelioma mid-2014; 全美台灣人權協會 (FAHR) ran a fundraiser, reported by [[people/patrick-huang||黃再添]] and 艾琳達 ([[articles/taiwanjustice-net/2024/20240724005830_root_5b7741741c30e771|TJJ「梅心怡」標籤頁, 2024-07-24 快照]]).
+- **White Terror cross-border rescue & later life in Taiwan.** During the martial-law era he worked on the cross-border rescue of Taiwan's political prisoners, leaving behind a valuable archive of human-rights documentation; the KMT government blacklisted him. In his later years he settled in Taiwan, took up environmental and other social movements, and came to regard Taiwan as his second home. After his death in June 2015 (per the stele article's "去年六月"; HOLD: other records say 2014), the 台灣大地文教基金会 erected a memorial stele in his honor, unveiled on 2016-02-27 at the 草屯台灣聖山生態教育園區 alongside a 228 memorial, hailing the "American who became a Taiwan martyr" for human rights ([[articles/taiwanjustice-net/2024/20240724050809_root_dbbaf35fcaf40e57|TJJ「捍衛人權護台烈士梅心怡揭碑典禮」, 2016-02-27 報導快照]]).
+- **2014 cancer benefit concert.** After 輔大教授梅心怡 (Lynn Miles) was diagnosed with cancer, friends organized a benefit concert to cheer him on, reported by 自由時報 on 2014-06-15 ([[articles/taiwanjustice-net/2024/20240724030623_root_81d283322273a6aa|TJJ「輔大教授梅心怡」標籤頁, 2024-07-24 快照]]).
 - **Community memorials.** TAH holds a feature [[works/taiwaneseamericanhistory-org/228-prof-lynn-alan-miles-e6-a2-85-e5-bf-83-e6-80-a1-e6-95-99-e6-8e-88-e6-9c-89-e|228. Prof. Lynn Alan Miles 梅心怡教授 / 有名的人權鬥士 (2016-02-10)]], a 2015/06 memorial photo album [[works/taiwaneseamericanhistory-org/photo-albums-activities-81|81. In memory of Prof. Lynn Alan Miles 生命的禮讚]], a friend's memoir [[works/taiwaneseamericanhistory-org/my-stories-810|810. 良知不死–紀念好友梅心怡 (2021-11-04)]], and 林冠妙's tribute [[works/taiwaneseamericanhistory-org/my-stories-378|378. 守護台灣民主血脈　梅心怡比台灣人還愛台灣 (2015-12-16)]], which remembers him as a defender of Taiwan's democratic lineage who「比台灣人還愛台灣」.
 
 ## From the record
