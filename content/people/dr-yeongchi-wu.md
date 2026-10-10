@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Dr. Yeongchi Wu (吳永吉醫師)
 
@@ -38,6 +38,8 @@ Accomplishment
 - Independent testimony from a Chicago-area family who grew up next door: in an Exit Formosa-era interview Susan Hsu recalls a family friend "an MD but his specialty is in prosthetic limbs... Dr. Yeongchi Wu, and he's gotten recognition for his work helping victims of landmines whose legs or arms were blown off," with the note that his passion for sculpting and art made him uniquely suited to crafting prosthetics — non-TAH corroboration of his vacuum-forming rehabilitation work [[works/taiwaneseamerican-org/an-interview-with-twins-emily-and-susan-hsu-of-exit-clov|Exit interview, Emily & Susan Hsu]].
 - Held up in the community press as the embodiment of 「普世醫學」: in a 台灣公義報 essay on the role of anesthesiologists, 陳東榮醫師 cites him as 「有一位吳永吉醫師為普世醫學全心奔走」 who, seeing medical progress grow ever costlier and irrelevant to most of the world's 2 billion people without basic care, dedicated his R&D to medical technology and supplies that are 「更好、更便宜、更便捷、更環保」 — 「他就是這樣帶著滿滿的愛心走天涯」 [[articles/taiwanjustice-net/2024/20240614152841_root_14114a89e393f958|陳東榮醫師, 台灣公義報 2024-06]].
 - Community profiles: [[works/taiwaneseamericanhistory-org/67-yeongchi-wu|TAH record 67]], [[works/taiwaneseamericanhistory-org/whos-who-122-yeongchi-wu|TAH Who's Who 122]], [[works/taiwaneseamericanhistory-org/126-dr-yeongchi-wu|TAH record 126]].
+- Contributor list in the *Our Journeys* 世界台灣人美術展覽專刊 credits: 「吳永吉／嘉義人／高雄藝學院畢業／現在芝加哥西北大學醫學院做研究。曾因研究成就輝煌，在白宮接受卡特的『總統獎』。自少即愛雕刻。曾在今年Hinsdale Artists的畫展中獲得雕刻組第一名」 — corroborates the Northwestern affiliation in his employment record and his sculpting practice, and ties him to the art-funding network noted above [[works/taiwaneseamericanhistory-org/ourjourneys256|Our Journeys 256]].
+  - HOLD: 「高雄藝學院畢業」 (Our Journeys 256) vs. 「Kaohsiung Medical Univ. — 1968 — M.D.」 (TAH tables Education). Both could be true (medical degree + art college), but not auto-merged.
 
 ## Family
 
@@ -53,6 +55,8 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x 2026-09-25 slice 09240317-9）: fresh ZH+EN re-grep（吳永吉 / Yeongchi Wu）命中集不變（records 67/125/126、whos-who-122、ourjourneys 256/291、Exit 訪談、陳東榮文）, 全部已 wikilink 吸收 (saturated, SKIP)
 
 - 複核（deepen-x slice 09250700-5, 2026-09-25）: fresh ZH+EN re-grep（works+articles）hit set identical to prior deepen records — all hits already absorbed/wikilinked; SKIP: verified-saturated, no new corpus material.
+
+- 覆核（deepen-x slice 10090315-11, 2026-10-10）: fresh ZH+EN re-grep across all 5 corpus dirs — person hits unchanged (records 67/125/126, whos-who-122, ourjourneys 256/291, Exit interview, 陳東榮文), all already linked. New material absorbed: Our Journeys 256 contributor-list bio (高雄藝學院畢業 / 西北大學研究 / 卡特總統獎 / Hinsdale雕刻第一名) with HOLD on 高雄藝學院 vs Kaohsiung Medical Univ. M.D. Other grep hits (2021/2023 TJJ articles, 2025 虎林專案) are false positives — 記者陳永吉 byline / 永吉國小, not this person.
 
 <!-- TJJ-A10040600-13: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-13 article 14114a89 (陳東榮麻醉演講心得報告, 2024-06-14快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060800-7: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-7 article 14114a89e393f958 (摘下口罩談麻醉醫師角色心得報告, 2024-06-14 存檔): 吳永吉 link re-checked vs 普世醫學段, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
