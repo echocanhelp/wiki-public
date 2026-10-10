@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Helen Allen (趙夏蓮)
 
@@ -58,3 +58,5 @@ Corpus re-check (deepen-x slice 10051340-10, 2026-10-06): fresh ZH+EN grep retur
 Corpus re-check (deepen-x slice 10070018-1, 2026-10-08): fresh ZH+EN grep of works/articles/sources/events/topics returned only the own records / passages already wikilinked above plus the works index — verified saturated, SKIP, no conflicts.
 
 Corpus re-check (deepen-x slice 10080600-24, 2026-10-09): fresh ZH+EN grep of works/articles/sources/events/topics returned the identical hit set (ourjourneys-138 roster line 「1991 Helen K. Allen-趙夏蓮 / Kuo-Chang Jang-簡國璋」, TAH #310, TAH #625, works/index), all already absorbed and wikilinked above — verified saturated, SKIP, no conflicts.
+
+Corpus re-check (deepen-x slice 10091500-17, 2026-10-10): fresh ZH+EN grep (趙夏蓮/Helen Allen/夏蓮) of works/articles/sources/events/topics returned the identical hit set (ourjourneys-138 roster line, TAH #310, TAH #625, works/index, sources hub), all already absorbed and wikilinked above — verified saturated, SKIP, no conflicts.
