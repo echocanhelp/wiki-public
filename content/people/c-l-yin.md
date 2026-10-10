@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # C. L. Yin (殷清隆)
 
@@ -67,3 +67,5 @@ Corpus re-grep 2026-09-22 (DEEPEN-X slice 09212352-24): hits are only the record
 
 <!-- TJJ-A10060500-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060500-2 article 1d72b2ae61640747 (2020海外小英後援會LA造勢, 2019-10-10): 殷清隆/c-l-yin subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10070700-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-2 article 1d72b2ae61640747 (2020海外小英後援會洛杉磯造勢大會報導, 發文 2019-10-10): 殷清隆 subject link re-checked vs 正文 this attempt (以殷勤文教公益基金會創辦人身分列名共同響應與籌備名單), real, no wrong/spurious links; 2019-10-10 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10091316-15: corpus re-grep 2026-10-10 (殷清隆 / C. L. Yin / 殷勤文教, all corpus dirs): hit-set unchanged — works (whoswho1437, awards67, yin-chin-foundation-of-u-s-a, index), TJJ 會訊 2018-06-27 團體董事 roster, 小英後援會 2019-10-10 籌備名單, WHA聯合聲明 2021-05-17 + 2025-11-08 副本, sources/taiwaneseamericanhistory-org — all already absorbed above with wikilinks. SKIP-content: verified-saturated; last_reviewed bumped. -->
