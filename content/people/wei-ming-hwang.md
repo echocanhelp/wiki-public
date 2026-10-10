@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-10
 ---
 # Wei Ming Hwang (黃維明)
 
@@ -110,3 +110,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10070700-20: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-20 article e1412ed9 (台灣民謠之夜 TUF 1995 節目紀錄, 2024-05-20 快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10080501-7: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080501-7 article 64302d51d03b3c5f (黃瑞芬訃聞轉載, 2022-01-29 刊, 2024-02-25 存檔): 黃維明 link re-checked vs 正文 this attempt (列名1995-07-29 TUF LA音樂会同台小提琴), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10090400-14: verified 2026-10-10 — fresh 5-dir grep (黃維明/Wei Ming Hwang/Wei-Ming Hwang) returned the identical 8-file hit set (whoswho1279 / musician363 / ourjourneys301 / sources hub / 3 TJJ articles), all already linked on this page; surname sweep 維明 surfaced only 杜維明 (哲學家, ourjourneys70) and 陳維明 (雕塑家/中國民主人士, 2025 articles) — different persons, no new material — saturated, no new material. -->
