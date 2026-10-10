@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Taiwanese American Scholarship Fund (台美獎學金基金會)
 
@@ -29,6 +29,7 @@ The Taiwanese American Scholarship Fund (TASF) was created in 2014 to support ec
 - 2017-02-16 — the annual drive again ran as a project of the Asian Pacific Community Fund, targeted at economically-challenged students of Taiwanese descent in their first or second year of college, covered by TA.org as community record ([[works/taiwaneseamerican-org/2017-tasf|TA.org 2017 drive]]).
 - 2017-01-04 — scholarship awards notice ([[works/taiwaneseamericanhistory-org/awards-taiwanese-american-scholarship-fund|TAH #73]]).
 - 2020-03-07 — TASF Scholarship record ([[works/taiwaneseamericanhistory-org/50-tasf-scholarship-2020|TAH #50]]).
+- 2024-02-25 — the 2024 drive opened for applications: ten awards of US$7,500 each for economically disadvantaged U.S. high-school graduates or first-year college students entering in fall 2024, GPA 3.0+, deadline 2024-04-15; TJJ carried the notice, restating TASF's 2014 founding mission to support U.S. Taiwanese-descent students' access to higher education ([[articles/taiwanjustice-net/2024/20240225144823_root_8d147b0c82d30432|TJJ, 2024-02-25]]; reposted 2025-02-10 as a 2024-cycle notice, [[articles/taiwanjustice-net/2025/20250210094354_2024年_台美人獎學金基金會_獎助學金開放申請_7f73295490d7f65f|TJJ, 2025-02-10]]).
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
@@ -68,3 +69,5 @@ The Taiwanese American Scholarship Fund (TASF) was created in 2014 to support ec
 <!-- TJJ-A10070900-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-1 article 71a7c64663ea03b6 (大洛杉磯台灣會館疫情濟困報導, 2020-06-23 發文 / 2021-01-17 快照, twin c05e2d53): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article or twin wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070900-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070900-3 article c05e2d53013fcd15 (2020-06-23 會館疫情濟困報導): subject link re-checked vs 正文 this attempt, real (TASF與會館基金會協力推出COVID紓困獎學金確認見於正文), no wrong/spurious links; 2020-06-23 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X slice 10081100-32 (2026-10-10): fresh ZH+EN grep (TASF / Taiwanese American Scholarship Fund / 台美獎學金 / 余崇孝) across all 5 corpus dirs. New unabsorbed material found: the 2024 drive notice (TJJ 8d147b0c, 2024-02-25; repost 7f732954, 2025-02-10) — ten $7,500 awards, GPA 3.0+, deadline 2024-04-15 — absorbed into Timeline with article wikilinks. Prior hit set (ourjourneys303, TA.org 2015/2016/2017 drives, TAH #15/#73/#50, TJJ 2020 COVID-relief pages) already cited; category-listing pages (c79a3c49, 91fe051d, 3a00a14a, a6cc1569) carry no new facts beyond titles already covered. No conflicts to HOLD. -->
