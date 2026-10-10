@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Mike Lee (李振生博士)
 
@@ -34,7 +34,7 @@ last_reviewed: 2026-10-09
 
 ## Family
 
-- **Wife:** Susan 李淑英
+- **Wife:** Susan 李淑英 — has her own TAH story record: [[works/taiwaneseamericanhistory-org/209-susan-suying-lee-e6-9d-8e-e6-b7-91-e8-8b-b1|209. Susan, Suying Lee 李淑英 (2015-01-19)]]; see [[people/susan-suying-lee]]
 - **Son:** Brian
 - **Son:** Victor
 
@@ -53,3 +53,4 @@ last_reviewed: 2026-10-09
 
 <!-- Re-verified 2026-10-08 (deepen-x slice 10061023-2): fresh grep (李振生 / Mike Lee) across works/articles/sources/events/topics — identical hit set: own record TAH #208, works/index, and taiwanjustice-net articles naming U.S. Senator Mike Lee (R-Utah) — different person, excluded. No movement/memoir material beyond the directory record. Verified-saturated, SKIP. -->
 <!-- Re-verified 2026-10-09 (deepen-x slice 10080400-22): fresh grep (李振生 / Mike Lee / 振生) across works/articles/sources/events/topics — same hit set: own record [[works/taiwaneseamericanhistory-org/208-mike-lee-e6-9d-8e-e6-8c-af-e7-94-9f201501|TAH #208]], works/index, and taiwanjustice-net articles naming U.S. Senator Mike Lee (R-Utah) — different person, excluded. No new corpus material. Verified-saturated, SKIP. -->
+<!-- Re-verified 2026-10-10 (deepen-x slice 10090800-32): fresh grep (李振生 / Mike Lee / 振生 / 李淑英) across works/articles/sources/events/topics — same person-hit set (TAH #208, works/index, taiwanjustice-net Senator Mike Lee articles — excluded). New absorbable link: wife 李淑英 has her own corpus record [[works/taiwaneseamericanhistory-org/209-susan-suying-lee-e6-9d-8e-e6-b7-91-e8-8b-b1|TAH #209]] and page [[people/susan-suying-lee]] — wikilinked into Family. No biography material beyond directory records. -->
