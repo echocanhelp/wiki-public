@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Cheryl Lin Hong (林千千)
 
@@ -39,7 +39,7 @@ Ms. Cheryl Lin Hong started her piano lesson at 5, and was fascinated by music s
 
 ## Family
 
-- **Husband:** 洪正幸
+- **Husband:** [[people/prof-felix-t-hong||洪正幸 (Prof. Felix T. Hong)]] — Wayne State University; assisted in drafting the advertisement for the 陳文成 memorial gathering, putting up posters, purchasing flower wreaths, and communications ([[works/taiwaneseamericanhistory-org/ourjourneys123|TAH #123 追悼會記述]]); delivered a speech on "Education" at the 萬國節 cultural exhibition ([[works/taiwaneseamericanhistory-org/ourjourneys321|TAH #321]]).
 
 
 ## Sources
@@ -67,3 +67,8 @@ Ms. Cheryl Lin Hong started her piano lesson at 5, and was fascinated by music s
 ## Vault re-check 2026-09-14 (deepen-x slice 09132337-3, vault-only)
 - Wikilink targets verified: NATWA, NATWA Detroit Chapter, Cho-Liang Lin, Ya-Hui Wang, TAH #261 / #554, the Akron Symphony concert record, and the TAH #161 / #268 essays citing her.
 - NATMA, 輔仁大學, Columbia University and the Detroit 愛樂小集 named on this page have no vault pages; left as plain text, no new pages created. No web used, nothing published.
+
+## Role in the Community (deepen-x 10081200-15，語料吸收 2026-10-10)
+- **丈夫 洪正幸 補link**：原頁僅列名，現link至 [[people/prof-felix-t-hong||洪正幸教授]] 並補兩筆語料：陳文成追悼會籌備群（協助起草廣告文章、貼海報、購花圈、連絡，[[works/taiwaneseamericanhistory-org/ourjourneys123|TAH #123]]）；萬國節文化展覽「教育」專題演講（Wayne State University，[[works/taiwaneseamericanhistory-org/ourjourneys321|TAH #321]]）。兩筆均為台灣人運動紀錄，非生平補述。
+- **台語羅馬拼音佐證**：英文版 [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|TAH #33]] 記《流浪海外台灣人的心聲》譯者作 "Lin, Chhian-chihian (林千千)"，與鄭兒玉（Jyi-giokk）並列——本頁筆名紅番薯條目之拼音與歸屬獲得雙語互證。
+- 本輪 ZH+EN grep 全五語料目錄之其餘命中（#392/#268/#161/#33-eng、TAH #261/#554、Akron 音樂會紀錄）均已於先前各輪吸收，無新事實可併入，無衝突需 HOLD。未用網頁、未建新頁、未發佈。
