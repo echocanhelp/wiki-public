@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-10-09
 ---
 # Dr. Tu Chen (陳都博士)
 
@@ -42,11 +42,16 @@ Accomplishment
 - President of the [[organizations/taiwanese-association-of-america||Taiwanese Association of America (TAA)]], 1983–1984.
 - President of the World Federation of Taiwanese Associations (WFTA), 1983–1987.
 - Board of Director, Formosan Association for Public Affairs (FAPA), 1982–1986 and 2003–2007.
+- First chairman of the Northern California Federation of Taiwanese Associations (北加州台灣同鄉聯合會第一屆會長) — see [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys #106]]. HOLD: #106 lists him as 聯合會第一屆會長 while [[works/taiwaneseamericanhistory-org/ourjourneys38|Our Journeys #38]] records him as 協志會/北加州聯合會第四屆會長 (1977) — likely two different bodies (協志會 vs 北加州聯合會); not auto-merged.
+- 《臺灣政論》舊金山地區代表 (1975.12), one of 12 Northern American regional representatives — see [[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]].
+- Performer with the 協志會 Penglai Opera Troupe (蓬萊歌劇團): satirical skits such as 「新超西遊記」 were a standing joke that triggered extra 協調會 visa questioning — see [[works/taiwaneseamericanhistory-org/ourjourneys39|Our Journeys #39]].
+- Blacklisted by the KMT government: US visa offices would ask applicants 「你是陳都的朋友嗎？」 as a screening question — see [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys #106]].
 
 ## Other vault records（deepen 2026-09-10，僅彙整 vault 內既有記載）
 - [[works/taiwaneseamericanhistory-org/outstanding-achievement-award-umn-tu-chen||TAH #5：明尼蘇達大學傑出校友獎]] — 2015-11-16 獲 Outstanding Achievement Award by University of Minnesota。
 - [[works/taiwaneseamericanhistory-org/ourjourneys65||Our Journeys #65]]：1982 年初 FAPA 籌組會議（1/13–14，十五人與會）記載時任全美會會長陳都負責組織，並於 1982 年 6 月西海岸巡迴時同行奔走。
 - [[works/taiwaneseamericanhistory-org/ourjourneys9-eng||Our Journeys #9]]：1983-11-12 紐約台灣會館購館募款宴，以世台會（WFTA）理事長身份到场聲援。
+- [[works/taiwaneseamericanhistory-org/publication1296||TAH #1296：薄磁介質演進與資訊科技成長（2013）]] — 陳都署名之技術論文（The Evolution of Thin Film Magnetic Media…/Tu Chen/2013），與其 Komag 薄磁碟事業相互印證。
 
 ## Family
 
