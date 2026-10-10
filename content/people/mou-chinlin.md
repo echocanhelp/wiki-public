@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Mou-ChinLin (林茂清)
 
@@ -63,3 +63,5 @@ Re-verified 2026-09-22 (slices 09210600-14, 09220400-12), 2026-09-23 (slice 0922
 <!-- TJJ-A10060600-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-1 articles (6763e8f4ad9bcb7c / 80e2a87a17215263 / 299c00bb18030b81 懷念彭昕醫師(楊遠薰, triple copy): 林茂清 link (新澤西生活俱樂部會長、邀楊遠薰線上演講五場) — subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070800-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-1 articles 6763e8f4ad9bcb7c / 80e2a87a17215263 / 299c00bb18030b81 (懷念彭昕醫師 ◎ 楊遠薰, TJJ 2021-09-23 三副本): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ three-file wikilinks already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10081400-13: verified 2026-10-10 — fresh grep 林茂清/Mou-ChinLin across works/articles/sources/events/topics: hit set identical to records already absorbed (TAH #855, Our Journeys 14 教會歷史, 楊遠薰懷念彭昕醫師 triple copy 6763e8f4/80e2a87a/299c00bb, works/index roster); 茂清 surname-only hits are 黃茂清 (Mao-ching David Huang, different person — excluded). Saturated, no new material. -->
