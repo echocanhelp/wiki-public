@@ -210,3 +210,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090901-30: verified 2026-10-10 — wave-2 link+deepen re-check of article 80b33cf1846bc005（以立「拯救我」, 發文 2022-12-16 / 快照 2024-02-24）: subject link re-checked vs 正文 this attempt, real, no wrong/spurious links (同稿另補 楊子清 指揮 連結於文章端; 廖健榮無頁面維持純文字); 含該文 wikilink 的 2022-10-01／10-08 dated fact 已在 From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090901-29: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-29 article f985012b1ed56ad0（「以立合唱團」演唱「末日之淚」- 選自威爾第的「安魂曲」, 發文 2022-12-14 / 快照 2024-03-02）: subject links re-checked vs 正文 this attempt, all real, no wrong/spurious links (吳渭榮／Vahagn Hovents／廖健榮 正文提及但無頁面, 維持純文字不造鏈); 含該文 wikilink 的 2022-10-01／10-08 dated fact 已在 From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090901-23: verified 2026-10-10 — wave-2 link+deepen re-check of article 4119cffe264101c6（楊子清老師音樂短講第13集：美聲唱法的技巧(7)快速音 Agilita, 發文 2020-12-13 / 快照 2025-03-27）: 正文「本集有黃令先老師和王亦凡博士的特別講座『泛音』」確認見於正文, subject link 黃令先 real, no wrong/spurious links; 含該文 wikilink 的 2020-12-13 dated fact 已在 From the record — saturated, no new material. -->
