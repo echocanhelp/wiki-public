@@ -64,3 +64,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10040700-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040700-7 article a1056cd694ea21cb (台裔學者陳仁宜角逐加州主計長中央社專訪轉載, 2021-07-11刊, 2021-12-05快照): subject link re-checked vs 正文 (父陳崇廉1970年代自台赴美留學、北卡醫學訓練、遷羅蘭崗執業之敘述確認見於正文), real, no wrong/spurious links; 1970s／2021-07-11 dated facts w/ article wikilink already in From the record — saturated, no new material. 謝雅美、陳世榮 vault 暫無頁，維持純文字。 -->
 
 <!-- TJJ-A10080401-29: verified 2026-10-09 — wave-2 link+deepen re-check (slice 10080401-29) of article a1056cd694ea21cb: link re-checked vs 正文, real, no wrong/spurious links; 1970s／2021-07-11 dated facts w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090901-9: verified 2026-10-10 — wave-2 link+deepen re-check (slice 10090901-9) of article a1056cd694ea21cb read fresh this attempt: Subjects 再核 vs 正文 — 陳崇廉（父，1970年代自台赴美留學、北卡醫學訓練、遷羅蘭崗執業醫師，敘述確認見於正文）／陳仁宜（本文主角，宣布角逐2022加州主計長，確認見於正文）兩連結均為真，無錯鏈、無虛鏈；兩人含本檔 wikilink 之日期事實條目（1970s／2021-07-11）已在 From the record — saturated，無新條目需加。謝雅美、陳世榮 vault 暫無頁，維持純文字。 -->
