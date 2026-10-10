@@ -10,7 +10,7 @@ tags:
   - 1970s-present
   - republication
 verification_status: published
-last_reviewed: 2026-08-19
+last_reviewed: 2026-10-10
 ---
 # National Taiwanese Presbyterian Council (NTPC)
 
@@ -150,6 +150,19 @@ NTPC Historical Committee established this year; inaugural chair [[people/ching-
 24–26 Apr 2026, Atlanta Taiwanese Presbyterian Church, 3700 Pleasant Hill Rd, Duluth, GA. Theme **釘根於上帝—喜樂服事之鑰**; invited speaker 馬約翰. Invitation on [ntpc-usa.org](https://www.ntpc-usa.org/).
 
 ## Historical Role
+
+### Corpus Record (taiwaneseamericanhistory.org)
+
+The corpus holds community records touching the council and its regional feeder bodies:
+
+- [[works/taiwaneseamericanhistory-org/national-taiwanese-presbyterian-council-presbyterian-church-u-s-a||NTPC, PC(USA) — profile record (2016-05-12)]] — bibliographic record of the national council page, 美國基督長老教會全國台灣人教會聯合會.
+- [[works/taiwaneseamericanhistory-org/national-taiwanese-presbyterian-council||全美台灣人教會聯合會 — record (2017-02-20)]] — companion record under the 全美台灣人教會聯合會 name.
+- [[works/taiwaneseamericanhistory-org/southern-california-taiwanese-presbyterian-conference||南加州台灣人長老教會聯合會 — record (2016-05-12)]] — the Southern California conference; 西南區 is NTPC's largest district.
+- [[works/taiwaneseamericanhistory-org/conference32||1994 南加州台灣人長老教會聯合會夏令會]] — regional summer conference, 1994.
+- [[works/taiwaneseamericanhistory-org/newsletter-of-southern-california-taiwanese-presbyterian-conference||SCC newsletter 通訊]] — ongoing newsletter of the SoCal conference.
+- Concert records under the same SoCal conference banner: [[works/taiwaneseamericanhistory-org/concerts22||彌賽亞慈善演唱會 (2002)]], [[works/taiwaneseamericanhistory-org/concerts30||向大師致敬 蕭泰然音樂會 (2014)]], [[works/taiwaneseamericanhistory-org/concerts83||聖誕之聲 (2016)]].
+
+These regional records predate/supplement the national council's own paper trail; the 西南區 lineage runs through the Southern California conference into the NTPC district structure.
 
 ### FPCLA Founding Connection
 
