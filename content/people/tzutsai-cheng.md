@@ -104,3 +104,5 @@ last_reviewed: 2026-10-09
 <!-- TJJ-A10070700-18: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-18 articles a20fb275（刺蔣案策劃者登記總統連署, 2023-09-18）/ f6ed9463（2013-04-12 核四表決公督盟名單）/ 996879ac（FAHR第44屆年會暨鄭南榕紀念獎頒獎, 2020-11-25）/ 0258611f（520就職報導, 2024-05-19）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070800-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-1 article e3440fec3eed8107 (籌謀台灣「不流血革命」的獻策高手原來是他 ◎ 陳昭南, TJJ 2022-05-09): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090501-4: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-4 article 24119694dbb384c9 (鄭自才談424刺蔣案意義, TJJ 2020-04-24): subject link(s) re-checked vs 正文 this attempt (事件主角論述、凍結追回黨產/公開政治檔案主張確認見於正文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
