@@ -71,3 +71,5 @@ For more bio information, please click link in Who’s Who: 971. Cheng-I (Jim) Y
 <!-- TJJ-A10060800-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-1 article 2777c88877eee2c5 (Tag: 長青教室 p3, 2024-06-20 快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10071400-1: verified 2026-10-09 — wave-2 link+deepen re-check of article 2777c88877eee2c5 (Tag 長青教室 標籤彙整頁, 2024-06-20快照): subject link 楊正義 re-checked vs 正文 this attempt (「楊正義博士講『攝影的藝術』◎長青教室」條目確認見於正文), real, no wrong/spurious links; 2017-05-08 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090701-29: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-29 article 2777c88877eee2c5 (Tag: 長青教室 p3, 2024-06-20 快照) read fresh this attempt: subject link re-checked vs 正文 — 「楊正義博士講『攝影的藝術』(2 videos)◎長青教室」條目具名確認見於正文, real, no wrong/spurious links; 2017-05-08 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

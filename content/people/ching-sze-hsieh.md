@@ -115,3 +115,5 @@ Led FORMOSAT-1 (福衛一號) launch team as head of launch group at National Sc
 
 <!-- DEEPEN-X slice 10081200-4 (2026-10-10): fresh ZH+EN grep across all 5 corpus dirs (31 hits) surfaced the 國科會/南科減振 legal-and-honors record previously unabsorbed: 謝清志's own memoir essay (2025-08-14), 陳建仁 「功在南科」 exoneration (2024-05-27), 陳水扁 「護台神山」 (2025-02), 總統府 國策顧問 list, WHA joint statement co-initiator (2021-05-17), TAHS memoir seminar speaker (2023-03-25) — 5 new records wikilinked into Role in the Community. 謝世英 appears in the 國策顧問 list as a different person, not merged. -->
 
+<!-- TJJ-A10090701-29: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-29 article 2777c88877eee2c5 (Tag: 長青教室 p3, TJJ 2017-05-25 刊 / 2024-06-20 快照) read fresh this attempt: subject link re-checked vs 正文 — 「5/24 長青教室: 講真話 博真情 ◎謝清志博士主講」條目具名確認見於正文, real, no wrong/spurious links; 2017-05-24 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
