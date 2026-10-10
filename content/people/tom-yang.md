@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Tom Yang (楊東傑)
 
@@ -58,6 +58,7 @@ Primary material from fellow founders' memoirs in the TAHS corpus positions Yang
 - 2022-08-30 同志悼文〈懷念楊東傑醫師—Remembering Dr. Tom Yang〉收入 TAH 故事語料庫（[[works/taiwaneseamericanhistory-org/my-stories-851|851. 懷念楊東傑醫師 / 2022-08-30]]）。
 - HOLD: 3F 集會起始時間 — Jay Loo 自傳記 1955 年 9 月五人已每週聚會酝酿，既有記載為 1956 年費城成立；兩者未合併，各依出處。
 - Corpus re-pass 2026-09-26 (deepen-x slice 09260317-30): fresh ZH+EN grep returns the same 3F/UFI cluster PLUS two new records now absorbed above (my-stories-897 Jay Loo 自傳英文版、my-stories-851 悼文書目).
+- Corpus re-pass 2026-10-09 (deepen-x slice 10081009-21): SKIP — fresh ZH+EN+東傑 grep across works/articles/sources/events/topics returns 10 files, all already linked above (ourjourneys85 ZH+EN, ourjourneys33, 費城四傑 #10, 五人合影 #198, my-stories-851 悼文, my-stories-897 Jay Loo 自傳, whoswho913, plus works/index and source index listings); verified-saturated, no new corpus material, no conflicts.
 
 ## Sources
 - [TAH #913 encyclopedia: 913. Tom Yang  楊東傑/ 2016/05](https://taiwaneseamericanhistory.org/whoswho913/)
