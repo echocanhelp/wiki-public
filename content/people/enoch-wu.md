@@ -107,3 +107,5 @@ last_reviewed: 2026-10-09
 <!-- TJJ-A10070700-4: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-4 article 58ad99649eba6f6f (TIME 100 Next, 2022-09-28): subject link re-checked vs 正文 (本人以壯闊台灣聯盟發起人身分入選), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100606005-c: verified 2026-10-09 — wave-2 link+deepen re-check of article 1fbc7a8aff9cd26e (藍綠台北衝選情, 自由時報 2019-12-22): subject link re-checked vs 正文 this attempt (民生社區直播與許淑華同場、邀蔡英文1/5活動), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090401-17: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-17 article 58ad99649eba6f6f (TIME 100 Next, 2022-09-28): subject link re-checked vs 正文 this attempt (本人以壯闊台灣聯盟發起人身分入選、Campbell撰文介紹與後盾計畫皆確認見於正文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
