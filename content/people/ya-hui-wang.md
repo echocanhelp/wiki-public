@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-10
 ---
 # Ya-Hui Wang (王雅惠)
 
@@ -39,6 +39,9 @@ _No filled family fields on the TAH profile._
 - **Akron concert memory** — Our Journeys #269 recalls a concert at E. J. Thomas Performing Arts Hall (Akron, OH) with **王雅蕙 conducting** the Akron Symphony in 蕭泰然's 〈D調小提琴協奏曲〉, violin solo by [[people/cho-liang-lin||Cho-Liang Lin (林昭亮)]], before 400+ Taiwanese expatriates ([[works/taiwaneseamericanhistory-org/ourjourneys269||Our Journeys #269]]).
 - **First-person essay** — 「音樂與生活」 attributed to 王雅惠 in the TAH story corpus ([[works/taiwaneseamericanhistory-org/mystories26||My Stories #26]]).
 - **Name spelling note** — TAH records carry both **王雅惠** (#229, #266, #532) and **王雅蕙** (#355, Our Journeys #269); treated as the same person, spelling held unresolved pending owner confirmation.
+- **2001-02-11 — Akron concert, also as its own record** — the concert recalled in Our Journeys #269 (Akron Symphony with violinist [[people/cho-liang-lin||Cho-Liang Lin]], E. J. Thomas Performing Arts Hall) is held separately in the corpus as [[works/taiwaneseamericanhistory-org/concerts84||TAH #84]] and [[works/taiwaneseamericanhistory-org/concert-by-akron-symphony-orchestra-and-violent-cho-liang-lin-akron-oh-on-021120||concert record]] — the Akron Symphony's performance of 蕭泰然's D調小提琴協奏曲.
+  - HOLD: memoir date 「二月十日」 (Our Journeys #269) vs record date 02/11/2001 (TAH #84) — never auto-merged.
+- **Disambiguation note** — corpus hits for 黃雅惠 (TAH #76), 邱雅惠 (#70), 詹雅惠/Nancy Jan (#102, #1119), and 張雅惠 (Our Journeys #305 roster) are **different people**, not this page.
 
 ## Sources
 - [TAH #229 encyclopedia: 229. Ya-Hui Wang 王雅惠](https://taiwaneseamericanhistory.org/ota-229/)
