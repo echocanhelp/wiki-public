@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-09
 ---
 # Dr. Chao-Min Liu (劉兆民博士)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-14
 - **Era:** 1936
 - **Geography:** Chiayi, Taiwan
 - **Core roles:** scientist, professor, artist
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 2. Art Students League of New York, New York, 1982-1985 (Studio of H. Dinnerstein, H. Holms, D. Dickerson)
 
@@ -53,7 +53,7 @@ _Facts absorbed from this page's own TAH tables and encyclopedia entry; no new s
 ## Sources
 - [TAH #18 encyclopedia: 18. Dr. Chao-Min Liu 劉兆民博士](https://taiwaneseamericanhistory.org/18-dr-chao-min-liu/)
 - [TAH #3 encyclopedia: 3. Dr. Chao-Min Liu 劉兆民博士](https://taiwaneseamericanhistory.org/whos-who-3-chao-min-liu/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-chao-min-liu/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/dr-chao-min-liu/)
 
 ## Vault records (deepen pass 2026-09-10)
 
@@ -82,4 +82,11 @@ More in-vault works by or depicting him, newly linked (all disk-verified before 
 - Earlier art publication: [[works/taiwaneseamericanhistory-org/publications122|劉兆民油畫選集 (1998)]].
 - His own memoir: [[works/taiwaneseamericanhistory-org/mystories14|一九六三年離台留美記]].
 - Encyclopedia twins: [[works/taiwaneseamericanhistory-org/18-dr-chao-min-liu|TAH #18]], [[works/taiwaneseamericanhistory-org/whos-who-3-chao-min-liu|TAH #3]].
+No biography invented, no new pages created, nothing published.
+
+## Deepen pass 2026-10-09 (deepen-x slice 10081000-7, vault-only)
+Fresh ZH+EN grep (劉兆民 / Chao-Min Liu / Chaomin Liu) across works/articles/sources/events/topics surfaced 8 previously-unlinked in-vault records (all disk-verified before linking; no web used):
+- Paintings in the TAH footsteps story corpus: [[works/taiwaneseamericanhistory-org/footsteps-7|Summer Picnic (夏季野餐, 2000)]], [[works/taiwaneseamericanhistory-org/footsteps-8|Softball Game (壘球賽, 2000)]], [[works/taiwaneseamericanhistory-org/footsteps-10|Taiwanese American Summer Conference (TAC/EC 台美人美東夏令會, 2011)]] — movement-scene subjects, community record over press-kit bio.
+- His own essays/memoirs: [[works/taiwaneseamericanhistory-org/mystories568|藝術人生, 我的繪畫師友 (2017-08)]], [[works/taiwaneseamericanhistory-org/mystories495|繪畫隨筆 – 中央公園的女人 (2016-12)]], [[works/taiwaneseamericanhistory-org/mystories173|University of Wisconsin 的留學生活 (2015-01)]] — corroborates the 1963–1969 Wisconsin timeline entry, no date conflict — and [[works/taiwaneseamericanhistory-org/mystories637|到 Martha Vineyard 島見總統 Clinton]].
+- Exhibition record: [[works/taiwaneseamericanhistory-org/art-exhibitions-8|林保山、劉兆民雙個展 (2010-04)]] — two-person show with artist Lin Baoshan.
 No biography invented, no new pages created, nothing published.
