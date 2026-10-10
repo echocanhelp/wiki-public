@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-10
 ---
 # Huey Li Liu (劉惠麗)
 
@@ -76,3 +76,5 @@ last_reviewed: 2026-09-30
 <!-- TJJ-A10040500-10: verified 2026-10-06 — subject links in slice 10040500-10 articles (a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e / beff9b8cd9711c3d) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060600-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-5 article a428dcebbceacf38 (抗議南加州台大校友會邀管中閔年會演講, 國立台灣大學校友連署, 2018-07-20): subject link re-checked vs 正文 this attempt — name 確認見於連署名單, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A100606005-a: verified 2026-10-09 — wave-2 link+deepen re-check of article a428dcebbceacf38 (抗議 南加州台大校友會邀管中閔來年會做專題演講, 國立台灣大學校友連署, 2018-07-20): subject link re-checked vs 正文 this attempt — name 確認見於連署名單（含系所標註與本頁一致）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+Corpus re-grep 2026-10-10 (deepen-x slice 10081300-10): fresh ZH+EN grep 劉惠麗 / Huey Li Liu / 惠麗 across all 5 corpus dirs (works/articles/sources/events/topics) returned the unchanged saturated set — My Stories #503/#745/#761, Publications #1046 台美人生命腳跡, collection #77, own Who's Who #1479, and the 2018-07-20 台大校友連署公開信 (劉惠麗(心理), already linked above). The 2022-11-27 金馬獎第58屆得獎名單 hit is 廖惠麗 (緝魂 make-up crew), a different person — false positive, not absorbed. SKIP: verified-saturated, no new corpus material.
