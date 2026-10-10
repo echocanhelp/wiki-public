@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Ching-Chih Chen (陳清池)
 
@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - 2026-10-06 corpus re-check (slice 10051200-6): fresh grep for 陳清池 / Ching-Chih Chen across works/articles/sources/events/topics returns the identical hit set — the 麥迪遜結盟大會 memoir [[works/taiwaneseamericanhistory-org/ourjourneys81|#81]] (伊利諾 absentee note), the ITPC 長青教室 course record [[works/taiwaneseamericanhistory-org/ourjourneys107|#107]] (台灣史 I–IV), own TAH entry [[works/taiwaneseamericanhistory-org/whos-who-774-ching-chih-chen|#774]], plus index listings. Verified-saturated; no new corpus facts.
 - 2026-10-08 corpus re-check (slice 10062218-1): fresh grep for 陳清池 / Ching-Chih Chen / 清池 across works/articles/sources/events/topics — identical hit set (#81, #107, #774). Verified-saturated; no new corpus facts.
 - 2026-10-09 corpus re-check (slice 10080500-28): fresh grep for 陳清池 / Ching-Chih Chen / Ching Chih Chen / 清池 across works/articles/sources/events/topics — identical hit set: the 麥迪遜結盟大會 memoir [[works/taiwaneseamericanhistory-org/ourjourneys81|#81]] (伊利諾 absentee letter), the ITPC 長青教室 record [[works/taiwaneseamericanhistory-org/ourjourneys107|#107]] (台灣史 I–IV), own TAH entry [[works/taiwaneseamericanhistory-org/whos-who-774-ching-chih-chen|#774]], plus index listings. Verified-saturated; no new corpus facts.
+- 2026-10-10 corpus re-check (slice 10091316-3): fresh grep for 陳清池 / Ching-Chih Chen / Ching Chih Chen / 清池 across works/articles/sources/events/topics — identical hit set (#81 伊利諾 absentee note alongside 陳伯山/鄧仁守/鄭彩鶯/鄭自才/楊宗昌/陳紹紀/王秋森; #107 台灣史 I–IV course listing; #774 own entry; index listings). No new corpus facts; page remains verified-saturated.
 
 ## Sources
 - [TAH #774 encyclopedia: 774. Ching-Chih Chen 陳清池 / 2016/01](https://taiwaneseamericanhistory.org/whos-who-774-ching-chih-chen/)
