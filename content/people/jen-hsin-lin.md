@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # JEN HSIN LIN (林人信)
 
@@ -71,3 +71,4 @@ _No filled family fields on the TAH profile._
 - Slice 09141213-5 複核（2026-09-14）：corpus grep（content/works、content/articles）僅命中本人两条 TAH 書目記錄（artist60、whos891，均已連結於上）與 works/index；memoir 語料無新事實，本輪無可吸收內容。
 - Slice 09150316-14 複核（2026-09-15）：grep 林人信／JEN HSIN LIN（works＋articles）命中無變——僅本人三筆書目記錄 [[works/taiwaneseamericanhistory-org/artist60-jen-hsin-lin|artist #60]]、[[works/taiwaneseamericanhistory-org/whos891-jen-hsin-lin|Who's Who #891]]、[[works/taiwaneseamericanhistory-org/publications974|圖錄 #974（BOOTH 署名）]]（均已連結於上）與 works/index；memoir 語料無新事實，SKIP-with-reason（HOLD 姓名衝突維持）。
 - Slice 09150400-1 複核（2026-09-15）：命中集合再無變（僅本人三筆書目記錄＋works/index），SKIP-with-reason：無可吸收新事實；HOLD「JEN HSIN BOOTH vs JEN HSIN LIN」維持。
+- Slice 10091414-5 複核（2026-10-10）：首次全語料 grep（works＋articles＋sources＋events＋topics，含 JEN HSIN BOOTH 變體）命中集合無變——僅本人三筆書目記錄 [[works/taiwaneseamericanhistory-org/artist60-jen-hsin-lin|artist #60]]、[[works/taiwaneseamericanhistory-org/whos891-jen-hsin-lin|Who's Who #891]]、[[works/taiwaneseamericanhistory-org/publications974|圖錄 #974（BOOTH 署名）]] 與 index/sources 索引用途引用；memoir 語料無新事實，SKIP-with-reason；HOLD「JEN HSIN BOOTH vs JEN HSIN LIN」維持。
