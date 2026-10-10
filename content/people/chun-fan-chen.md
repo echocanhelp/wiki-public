@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # Prof. Chun-fan Chen (陳春帆博士)
 
@@ -61,3 +61,4 @@ Accomplishment
 - Re-verify 2026-09-25 (slice 09250700-4): fresh re-grep 陳春帆/Chun-fan Chen (works+articles) — same hit set (memoirs #189/#198/#588 EN+中文/#676, collection #46, encyclopedia #28+#198, 杏壇漫談 #907, 吳明美 ourjourneys101, index), all already wikilinked. Verified-saturated, no new material.
 - Deepened 2026-09-25 (slice 09240317-6): fresh re-grep found a new 7th authored work — [[works/taiwaneseamericanhistory-org/907-e6-9d-8f-e5-a3-87-e6-bc-ab-e8-ab-87-e6-bc-ab-e8-ab-87-e7-94-9f-e7-89-a9-e9-8|907. 杏壇漫談-漫談生物醫藥 / 陳春帆 / 2015/12]] — a popular-science essay on biomedicine, adding to his community-author record beyond memoirs.
 - Re-verify 2026-09-26 (slice 09260317-2): fresh re-grep 陳春帆/Chun-fan Chen (works+articles) — same hit set (#189, #198, #588 EN+中文, #676, collection #46, encyclopedia #28, 杏壇漫談 #907, 吳明美 ourjourneys101, index), all already wikilinked. Verified-saturated, no new material.
+- Re-verify 2026-10-10 (slice 10091400-15): fresh re-grep 陳春帆/Chun-fan Chen across works/articles/sources/events/topics — same hit set (#189, #198, #588 EN+中文, #676, collection #46, encyclopedia #28 + whos-who-198, 杏壇漫談 #907, 吳明美 ourjourneys101, index, source page), all already wikilinked. Verified-saturated, no new material.
