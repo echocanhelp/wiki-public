@@ -210,6 +210,13 @@ def find_timeline_events(slug, chinese_name):
             title = extract_title_from_frontmatter(content)
             if not title:
                 title = article_file.stem
+            # Tag: lines are tag-archive references, NOT life events (2026-10-11
+            # noise audit: 85% of heavy-page timeline bullets were Tag: refs —
+            # the builder keyword-matched article text and stamped them 🗳️/🏥,
+            # so they read as events). Never emit them; fold-noise script
+            # (scripts/timeline-fold-noise.py) cleans pages built before this.
+            if re.match(r"""^['"]?\s*Tag\s*:""", title):
+                continue
 
             # Determine event type based on content keywords
             event_type = "appearance"
