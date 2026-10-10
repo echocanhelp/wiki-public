@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Melody Kuo (郭雋律)
 
@@ -70,3 +70,4 @@ _No filled family fields on the TAH profile_ (see Family & Vault Connections bel
 
 <!-- TJJ-A10071100-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071100-1 articles (11aa2dfa5f64d7e4 楊子清 tag頁 / 2490b18e8f37ea79 第166回世界台灣文化論壇 / 89e6683c93156205 台美人台加人 p356 / 79b5f26fdef89d22 2023台美小姐選拔賽): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A100607004-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 11aa2dfa5f64d7e4 (楊子清 tag頁, 2021-01-17快照): 「TUF 台灣文化之夜 1994 – …郭雋律…」條目確認見於正文; subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- DEEPEN-X10090700-19: re-pass 2026-10-10 — full-corpus grep (works/articles/sources/events/topics, variants 郭雋律 / Melody Kuo / 郭雋音 / melody-kuo) hit 4 files: ourjourneys301 (1989+1994 TUF 文化之夜, both events already in Role in the Community with wikilinks), taiwanjustice tag 11aa2dfa5f64d7e4 (already in From the record ×6), works/index.md and sources/taiwaneseamericanhistory-org.md (index listings for TAH #119/#229, already wikilinked). No new material — SKIP, saturated. -->
