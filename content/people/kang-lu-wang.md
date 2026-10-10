@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Kang-Lu Wang (王康陸博士)
 
@@ -50,6 +50,11 @@ last_reviewed: 2026-09-24
 - 複核（deepen-x slice-09211300-6，2026-09-22）：re-grep 命中集不變（album-26、#302、#334、#49、#76-eng、#315）— 全數已吸收，saturated，SKIP-no-new-material。
 - 複核（deepen-x slice-09221500-3，2026-09-23）：re-grep 命中集新增 #349、#287、#63、紀念基金會頁、ourjourneys33（皆已於上列吸收）、ourjourneys76 中文版（與 #76-eng 同一記錄）— 其餘命中集不變，saturated。
 - HOLD: death circumstances — TAH source snippet says «died in a car accident»; corpus farewell record is dated 2018/06 while a 2014 memorial album exists (album may honor life/anniversary rather than death year). Not merged.
+- **Kansas years — 台灣同學會會長.** 王泰和's 2025 memoir recalls arriving at the University of Kansas and being sent to the home of 王康陸, then president of the campus 台灣同學會 — [[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|化作千風 — 懷念台美人的人權鬥士王泰和]]. A companion memoir of the 1968 league decision to move its headquarters from Philadelphia to New York lists 王康陸 among the主力幹部 (張燦鍙、羅福全、蔡同榮、洪哲勝 etc.) who reported to the NY headquarters after completing their studies — [[works/taiwaneseamericanhistory-org/ourjourneys234|234. 台獨聯盟紐約總部]].
+- **1968 UFAI sales roster (Manhattan).** The Manhattan/Kansas UFAI sales report records 王康陸 among the 18 named volunteers who sold 1,158 volumes through 1968-03-08, alongside his wife 鄞美珠 — [[works/taiwaneseamericanhistory-org/ourjourneys58|ourjourneys58]].
+- **1991 blacklist return and arrest.** The 黑名單返鄉 record lists 王康陸 among those who "翻牆" home in the 1988–1991 wave, and in October 1991 he was arrested and detained on Taiwan along with 陳婉真、林永生、賴貫一、江蓋世 and other 台建/聯盟 cadres after returning from overseas — [[works/taiwaneseamericanhistory-org/ourjourneys230|ourjourneys230]]. HOLD: ourjourneys230 places his post-return arrest in October 1991, while 315 records the 1992-10 fishing-boat crossing for the 臺灣獨立聯盟臺灣本部成立大會 — both records kept, dates not merged.
+- **Co-author, 《展現民力 — 非暴力的理論與實踐》.** Co-authored with 江蓋世 (1991/10, 政治) — [[works/taiwaneseamericanhistory-org/299-e5-b1-95-e7-8f-be-e6-b0-91-e5-8a-9b-e9-9d-9e-e6-9a-b4-e5-8a-9b-e7-9a-84-e7-9|299. 展現民力 — 非暴力的理論與實踐]].
+- **Commemoration after his death.** The [[works/taiwaneseamericanhistory-org/27-e5-8f-b0-e7-81-a3-e4-ba-ba-e6-ac-8a-e7-8e-8b-e5-ba-b7-e9-99-b8-e4-ba-ba-e6-ac|27. 王康陸人權獎]] is named for him; the award was presented at the 2017-12-09 全美台灣人權協會 annual meeting in San Diego (with the 鄭南榕紀念獎) to 鄭文龍、王泰和、黃根深 — [[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c|TJJ 2017-11-29]]. The 王康陸紀念文教基金會 published the 1995 memorial volume 王康陸博士紀念文集 — [[works/taiwaneseamericanhistory-org/publications8|8. 王康陸博士紀念文集]] — and the foundation issued its 王康陸博士紀念基金會獎學金頒發手册 (2015/11) — [[works/taiwaneseamericanhistory-org/publications931|931. 獎學金頒發手册]]. The 美東台灣人夏令會 has held a 「王康陸博士紀念音樂會」 — Ithaca NY 2005-07-02 and West Chester PA 2017-07-02 — [[works/taiwaneseamericanhistory-org/concerts23|23. 王康陸博士紀念音樂會]]; the 2017 concert included a live call-in from 正晶限時批 — [[works/taiwaneseamericanhistory-org/ourjourneys153|ourjourneys153]]. The 王康陸基金會 (WANG Foundation) appears in the New Jersey community-organizations list — [[works/taiwaneseamericanhistory-org/ourjourneys356|ourjourneys356]].
 
 ## From the record
 
