@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # Ting-kuei Tsay (蔡丁貴教授)
 
@@ -51,6 +51,8 @@ last_reviewed: 2026-09-24
 - 2025-07 — 大罷免期間，有網友在其「蔡丁貴教授－自由台灣黨（自由黨）後援會」臉書社團發文威脅立法院副院長江啟臣「斬首示眾」，江啟臣報案並譴責暴力威脅（[[articles/taiwanjustice-net/2025/20250713203136_網友發威脅貼文-江啟臣_譴責暴力已向警方報案_130c243775b36a24|TJJ，2025-07-13]]）——其後援會為台派mobilization場域的側證。
 - 本人 TAH 百科記錄：[[works/taiwaneseamericanhistory-org/whos-ting-kuei-tsay|227. Ting-kuei Tsay 蔡丁貴/2015/01]]（2015-01-23）。
 - 2026-09-23（slice 09221100-18）語料再核：works 命中集（ourjourneys310/245、whos-ting-kuei-tsay）均已收錄；新增吸收上方 2024/2025 兩筆 articles 記錄。
+- 2014-06-01 — 於大洛杉磯台灣會館發表演說「318 學潮與公投聯盟的互動報告」（台美人台加人欄目；[[articles/taiwanjustice-net/2022/20220929010218_tag_大洛杉磯台灣會館_page_16_db2e7784282ffdfc|TJJ 大洛杉磯台灣會館 tag 頁，2022-06-30 存檔]]）——318 學潮後其公投聯盟論述之南加州公開報告。
+- 2019-05-15 — 上「政經關不了」節目，標題稱「台獨街頭前鋒 蔡丁貴」（同 tag 頁標題級提及，未見內文；HOLD: 僅標題佐證，不展開內容敘述）。
 
 ## Family
 
@@ -71,3 +73,5 @@ last_reviewed: 2026-09-24
 <!-- TJJ-A10060400-19: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-19 article 996879ac（FAHR第44屆年會, 蔡丁貴名列2014年得獎人）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-18: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-18 articles a20fb275（刺蔣案策劃者登記總統連署, 2023-09-18）/ f6ed9463（2013-04-12 核四表決公督盟名單）/ 996879ac（FAHR第44屆年會暨鄭南榕紀念獎頒獎, 2020-11-25）/ 0258611f（520就職報導, 2024-05-19）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10090500-19: deepened 2026-10-10 — fresh grep (蔡丁貴/蔡丁贵/Ting-kuei Tsay) across works/articles/sources/events/topics. New absorb: 2014-06-01 大洛杉磯台灣會館「318 學潮與公投聯盟的互動報告」演講（tag 頁 db2e7784）+ 2019-05-15「政經關不了」標題提及（HOLD: title-only）. 其餘 hits 已在庫. -->
