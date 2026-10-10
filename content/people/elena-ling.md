@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-09
 ---
 # Elena Ling (黃美惠)
 
@@ -40,6 +40,7 @@ Vice President of International Federation of Business and Professional Women, T
 - 2018-07-19 以台大園藝系校友「黃美惠(園藝)」之名連署「抗議 南加州台大校友會邀管中閔來年會做專題演講」校友聲明 — [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ 存檔, 2018-07-21]]；与其 NTU 園藝學士（1965）學歷相符。
 - 以「Elena Ling NATWA」署名連署 TAH 對皮尤研究中心隱去台灣人身份的回應聲明 — [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research Reports Hiding Taiwanese Identity]]。
 - 與陳文成紀念基金會董事一職（TAH profile）與上述紀念專集、紀念活動紀錄相符。
+- 2020年武漢肺炎期間曾搭乘鑽石公主號郵輪，並在返美後於 Travis Air Force Base 接受隔離防疫；其親撰回憶〈在鑽石公主號和 Travis Air Force Base 的隔離防疫經歷〉以「台美人台加人」專欄發表於台灣善政網（2020-04-07），署名黃美惠 — [[articles/taiwanjustice-net/2025/20250512044643_tag_鑽石公主號_52c7253c875f4332|TJJ 鑽石公主號標籤存檔]]（該頁為標籤索引，原文全文未入庫，僅存標題與日期，屬旁證級別）。
 - 複核（deepen-x slice 09221500-3，2026-09-23）：re-grep 命中集新增 ourjourneys245、TJJ 2018 台大校友連署、pew 聲明（已於上列吸收）、ourjourneys60-eng／whos-who-2249（即已引用之 60 與 TAH #2249）— 其餘命中集不變，saturated。
 - 複核（deepen-x slice 09180131-13，2026-09-18）：re-grep 黃美惠|Elena Ling 命中 ourjourneys321、60、321-eng、8、our-journeys-379、58 — 六頁全部已於上列吸收（含英文版代號對照 Kan Tzu = Elena Ling）；無新增材料。SKIP-no-new-material。
 
