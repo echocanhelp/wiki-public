@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Wen Chi Chang (張文祺)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-10-09
 - Re-verify 2026-09-30 (deepen-x slice 09260800-28): fresh ZH+EN grep works/+articles/ — hit set identical to absorbed set (own TAH records + works index); verified-saturated, SKIP; nothing new absorbable.
 - Re-verify 2026-10-04 (deepen-x slice 09300321-6): fresh ZH+EN grep (張文祺 / Wen Chi Chang) — hit set unchanged (ourjourneys81, ourjourneys81-eng, whoswho1455, works index); verified-saturated, SKIP; nothing new absorbable.
 - Re-verify 2026-10-09 (deepen-x slice 10080500-12): fresh ZH+EN grep across works/articles/sources/events/topics (張文祺 / Wen Chi Chang / 文祺) — hit set identical to absorbed set (OJ #81 ZH/EN, TAH #1455, works index) plus the two known romanization-collision HOLDs (#186/#272 張文志, already flagged above); verified-saturated, nothing new absorbable.
+- Re-verify 2026-10-10 (deepen-x slice 10090900-12): fresh grep (張文祺 / Wen Chi Chang / 文祺) across works/articles/sources/events/topics — hit set unchanged (ourjourneys81 ZH/EN, whoswho1455, sources index, works index); verified-saturated, SKIP; nothing new absorbable.
