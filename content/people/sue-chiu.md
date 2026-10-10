@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-10
 ---
 # Sue Chiu (黃雪香)
 
@@ -63,3 +63,4 @@ Corpus re-grep (slice 09260854-11, 2026-09-30): fresh 黃雪香/Sue Chiu grep of
 
 Corpus re-grep (slice 09300500-3, 2026-10-04): fresh ZH+EN grep of works+articles — hit set identical to records already absorbed and linked above; no new absorbable community facts. SKIP: verified-saturated.
 Corpus re-grep (deepen-x slice 10060900-3, 2026-10-07): fresh ZH+EN grep of works/articles/sources/events/topics — primary hit set unchanged (#529, #65, #853, #154, works index). New surname-adjacent material found via 邱義昌: ourjourneys156 (公論報 2015-08 停刊 farewell signed by 發行人許世模 / 副發行人邱義昌) — absorbed into Role in the Community as her husband's 公論報 leadership tie-in. No conflicts to HOLD.
+Corpus re-grep (deepen-x slice 10090315-2, 2026-10-10): fresh 黃雪香/Sue Chiu grep of works/articles/sources/events/topics — hit set identical (#529, #65, #853, #154, works index, sources page); 點心擔 column-editor roster in #154 already absorbed. Verified-saturated; SKIP-content, nothing new absorbable, no conflicts to HOLD.
