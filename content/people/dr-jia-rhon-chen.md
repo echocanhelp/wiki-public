@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-09
 ---
 # Dr. Jia-Rhon Chen (陳家榮醫師)
 
@@ -30,6 +30,11 @@ Eleanor Heartney, a contributing editor to Art in America and author of Critical
 - **2001–2003** — President, National Taiwan University Medical College Alumni Association, Greater New York Chapter
 - **2003–2005** — Chairman of the Board of Directors, National Taiwan University Medical College Alumni Association of North America
 
+## Role in the Community
+- The community essay [[works/taiwaneseamericanhistory-org/ourjourneys291||Our Journeys (ourjourneys291)]] places him among the Taiwanese-American physician-artists — "陳家榮自小喜歡繪畫，一邊當醫師，一邊畫出自己的一片天" — alongside pathologist-painter 施哲三 and physician-painter 許明彥.
+- His wife 黃春英 authored two TAH stories on his art: [[works/taiwaneseamericanhistory-org/245-e9-99-b3-e5-ae-b6-e6-a6-ae-e9-86-ab-e5-b8-ab-e7-9a-84-e7-b9-aa-e7-95-ab-e5-a||#245 陳家榮醫師的繪畫境界 (2015/05)]] and [[works/taiwaneseamericanhistory-org/mystories573||#573 畫家陳家榮醫師為行醫與藝術兩全之奮鬥史 (2017/09)]].
+- The commemorative album [[works/taiwaneseamericanhistory-org/photo-albums-activities-101||#101 In memory of Dr. Jia-Rhon Chen — 陳家榮醫師生命的禮讚 (2015/11)]] indicates he died in late 2015, matching the end of his Formosa Chamber Music Society chairmanship tenure (1991–2015). HOLD: no explicit death record found in corpus; the date is inferred from the memorial album.
+
 <!-- tah-tables:start -->
 ## Education
 - National Taiwan Univ. — 1965 — MD, Medical
@@ -40,7 +45,7 @@ Eleanor Heartney, a contributing editor to Art in America and author of Critical
 
 ## Vault records
 
-His TAH encyclopedia entries are harvested in the vault: [[works/taiwaneseamericanhistory-org/59-dr-jia-rhon-chen||TAH #59]], [[works/taiwaneseamericanhistory-org/273-e9-99-b3-e5-ae-b6-e6-a6-ae-e9-86-ab-e5-b8-ab-dr-jia-rhon-chen-first-chairman||TAH #273 (life story, 陳黃春英, 2015/10)]], [[works/taiwaneseamericanhistory-org/355-the-life-story-of-dr-jia-rhon-chen-e9-99-b3-e5-ae-b6-e6-a6-ae-e9-86-ab-e5-b8||TAH #355]], and [[works/taiwaneseamericanhistory-org/whos-who-707-jia-rhon-chen||TAH #707]]. His chairmanship tenure and the society's founding year are corroborated on the [[works/taiwaneseamericanhistory-org/39-formosa-chamber-music-society||Formosa Chamber Music Society]] page. Wife 黃春英 appears in the #355 life-story title (陳黃春英).
+His TAH encyclopedia entries are harvested in the vault: [[works/taiwaneseamericanhistory-org/59-dr-jia-rhon-chen||TAH #59]], [[works/taiwaneseamericanhistory-org/273-e9-99-b3-e5-ae-b6-e6-a6-ae-e9-86-ab-e5-b8-ab-dr-jia-rhon-chen-first-chairman||TAH #273 (life story, 陳黃春英, 2015/10)]], [[works/taiwaneseamericanhistory-org/355-the-life-story-of-dr-jia-rhon-chen-e9-99-b3-e5-ae-b6-e6-a6-ae-e9-86-ab-e5-b8||TAH #355]], and [[works/taiwaneseamericanhistory-org/whos-who-707-jia-rhon-chen||TAH #707]]. His chairmanship tenure and the society's founding year are corroborated on the [[works/taiwaneseamericanhistory-org/39-formosa-chamber-music-society||Formosa Chamber Music Society]] page. Wife 黃春英 appears in the #355 life-story title (陳黃春英). Two further wife-authored works on his painting are linked above: [[works/taiwaneseamericanhistory-org/245-e9-99-b3-e5-ae-b6-e6-a6-ae-e9-86-ab-e5-b8-ab-e7-9a-84-e7-b9-aa-e7-95-ab-e5-a||#245]] and [[works/taiwaneseamericanhistory-org/mystories573||#573]]; the memorial album [[works/taiwaneseamericanhistory-org/photo-albums-activities-101||#101 (2015/11)]] and the community essay [[works/taiwaneseamericanhistory-org/ourjourneys291||ourjourneys291]] round out the corpus trail.
 
 ## Family
 
