@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Frank C.H. Chen (陳治煌)
 
@@ -35,6 +35,7 @@ Frank C.H. Chen (Conductor). Frank C.H. Chen holds a BS and MS degrees in Electr
 - While an NTU student: conductor and music teacher of the National Taiwan University Chorus (NTUC) for three years; directed, conducted and produced the first NTUC public opera performance, Gilbert & Sullivan's "Yeomen of the Guard"
 - University of California at Santa Barbara — M.S. Electrical Engineering
 - After moving to Maryland: co-founded the Haitien Chorus and served as conductor for nine terms
+- Haitien Chorus cross-corroboration: [[works/taiwaneseamericanhistory-org/36-butterfly-chong-e5-bc-b5-e7-bf-a0-e8-9d-b6-choral-conductor|Butterfly Chong's TAH entry]] records that she conducted the Haitien chorus for two years after 2000 — confirming Haitien as an active DC-area Taiwanese American ensemble with multiple conductors across the period of Mr. Chen's nine-term tenure
 - 2012–present — NTUAC-DC (臺大校友合唱團 DC) Chorus conductor together with his wife [[people/amanda-hsu||許惠敏 Amanda Hsu]]; accompanist on the same podium: [[people/eileen-lo||丁志清 Eileen Lo]]
 - Freddie Mac — Senior Engineer
 
@@ -72,3 +73,7 @@ Frank C.H. Chen (Conductor). Frank C.H. Chen holds a BS and MS degrees in Electr
 
 ## Corpus re-check (slice 09150316-1, 2026-09-15) — SKIP
 - SKIP-with-reason: fourth corpus grep pass (陳治煌／Frank C.H. Chen, works/ + articles/) again returns only his own TAH entry pages (#408/#1706/#1708, already linked and absorbed into Timeline/Vault Holdings) plus index.md rows. No memoir/community mentions; nothing absorbable, biography unchanged, last_reviewed current.
+
+## Corpus re-check (slice 10091404-15, 2026-10-10)
+- Fifth grep pass (陳治煌／Frank C.H. Chen, all five corpus dirs): same result — only his own TAH entries plus index rows. Two named near-misses re-ruled out on inspection: [[works/taiwaneseamericanhistory-org/whos-who-1911-f-frank-chen|TAH #1911 Prof. F. Frank Chen 陳鳳山]] is a different person, and the "Frank Chen" in the Chien-Ming Wang story is Taiwanese-Canadian director 陳惟揚, not this subject.
+- ONE absorbable community fact found this pass via Haitien-chorus grep (not the person name): [[works/taiwaneseamericanhistory-org/36-butterfly-chong-e5-bc-b5-e7-bf-a0-e8-9d-b6-choral-conductor|TAH entry for Butterfly Chong (洪郁雯)]] records she conducted the Haitien chorus for two years after 2000 — cross-corroborates Haitien Chorus as an active DC-area ensemble with multiple conductors during Mr. Chen's nine-term tenure. Added to Timeline with wikilink; no biography/date changes.
