@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Philip Wu (吳庭和)
 
@@ -70,3 +70,12 @@ Absorbed from [[works/taiwaneseamericanhistory-org/ourjourneys38-eng||TAH #38: T
 ## Vault re-check 2026-09-14 (deepen-x slice 09140845-1, vault-only)
 - All wikilink targets verified to exist (FAHHR, TAFNC, East Bay Taiwanese Association, May-Sing Chang, TAH #29 / #124 / #238 / #252 / ourjourneys38 work pages).
 - 全美台灣同鄉會 (Taiwanese American Association/USA) and wife 王秀蓉 have no vault pages; left as plain text, no new pages created. No web used, nothing published.
+
+## Corpus re-sweep 2026-10-10 (deepen-x slice 10081200-9, vault-only)
+Fresh ZH+EN sweep (`吳庭和|吴庭和|Philip Wu|Tien Ho Wu`) across works/articles/sources/events/topics.
+
+- [[works/taiwaneseamericanhistory-org/ourjourneys38|TAH #38 (中文原文)]] — the Chinese original of the TAFNC 30-year review carries the same passage as the English version already absorbed above, but names the singer as 「張信行夫人一黃美星與第二十八屆會長吳庭和皆是聲樂高手」. **HOLD: conflict — the ZH original names the vocalist 黃美星 (wife of 20th President 張信行) where the English translation renders her as May-Sing Chang.** The two may be the same person (married-surname rendering of a 黃 maiden name), but no vault document confirms the identity, so no merge is asserted and the existing May-Sing Chang link stands unverified.
+- Same ZH review records the cultural programme Wu's presidency is remembered alongside: 19th President 吳啓昌 bringing violinist [[people/nai-yuan-hu|胡乃元]] to Stanford on 1992-02-08, and 20th President 張信行 holding 台灣文化之夜 on 1992-07-12. Wu's own term (28th) follows this arc, not overlaps it — no date asserted for his concerts.
+- [[people/yi-cherng-lin|林一榮]] page carries the reciprocal note: "no direct vault link found (different generation/region of activity), so none asserted." Kept as plain text; no Wu–Lin link created.
+- False positives excluded, not absorbed: [[works/taiwaneseamericanhistory-org/ourjourneys-332|TAH #332 台美人的婚姻 (黃哲陽)]] and several taiwanjustice.net articles matched only the substring 庭和 inside 家庭和 ("family and children") — no reference to Wu.
+- Wikilink targets verified against disk (`people/dr-shinn-sheng-chang`, `people/shun-hua-yu`, `people/nai-yuan-hu`, `works/.../ourjourneys38`). No web, no new pages, nothing published.
