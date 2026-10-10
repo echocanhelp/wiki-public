@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Joanne Chang (張瓊文)
 
@@ -77,3 +77,9 @@ _No filled family fields on the TAH profile._
 ## Deepen pass 2026-09-15（slice deepen-x-slice-09150500-1，SKIP-with-reason）
 
 - 重掃 works/ + articles/（張瓊文|Joanne Chang）：命中仍僅本人 #313／#690 條目、#1598 張柔安 HOLD、Flour Bakery 兩篇同名異人報導、works/index.md——無新社群事證。HOLD 維持：同名英文 Joanne Chang、漢名不同（張瓊文 vs 張柔安），勿合併。
+
+## Deepen pass 2026-10-10（slice deepen-x-slice-10090400-18，SKIP-with-reason）
+
+- 五目錄重掃（張瓊文|Joanne Chang|瓊文）：命中仍僅本人自有 #313／#690 條目、#1598 張柔安 HOLD、Flour Bakery 兩篇同名異人報導、works/index.md。
+- 新增命中辨析：[[sources/taiwanjustice-net|taiwanjustice.net]] 收錄之司法院釋字第791號解釋（通姦除罪）文內「張瓊文」為**同漢名之司法院大法官**，非本頁鋼琴家，亦非張柔安——屬第三位同名人，勿合併。HOLD 維持：本頁張瓊文（鋼琴家）≠ 張柔安（Flour Bakery）≠ 張瓊文（大法官）。
+- 無可吸收之社群事證。
