@@ -11143,4 +11143,6 @@ Notable quotes and mentions of **楊子清** in Taiwan Justice articles:
 
 <!-- TJJ-A10090901-16: verified 2026-10-10 — wave-2 link+deepen re-check of article b7ec76fa6b673920（以立合唱團演唱威爾弟歌劇合唱選曲「致死的震怒近了」, 發文 2023-02-03 / 快照 2023-03-22; 同稿另存 8c6aeada／2b3d5a36）: authors frontmatter link 楊子清 re-checked vs 正文 this attempt (「Conductor 指揮：Cliff Yang 楊子清」確認見於正文), real, no wrong/spurious links; 含該文 wikilink 的 2022-10-01／10-08 dated fact 已在 From the record — saturated, no new material. -->
 
+<!-- TJJ-A10090901-19: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-19 article e7e0fe18037cc328（「以立合唱團」演唱「末日之淚」— 選自威爾第「安魂曲」, 發文 2022-12-14 / 快照 2023-02-02）: subject/authors link 楊子清 re-checked vs 正文 this attempt (frontmatter authors 楊子清 與正文「指揮：楊子清」確認相符), real, no wrong/spurious links (吳渭榮／Vahagn Hovents／廖健榮 正文提及但無頁面, 維持純文字不造鏈); 含該文 wikilink 的 2022-10-01／10-08 dated fact 已在 From the record — saturated, no new material. -->
+
 <!-- TJJ-A10090901-22: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-22 article a40b37bc03b2b9cb（以立合唱團世界首演「希望之光」影音, 發文 2022-12-02 / 快照 2024-02-28）: author 楊子清（提供影音）＋ subjects 黃令先（作曲、指揮）／陳慧如（鋼琴）re-checked vs 正文 this attempt, all real, no wrong/spurious links (剪輯廖健榮 Louis Liao 正文提及但無頁面, 維持純文字不造鏈); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
