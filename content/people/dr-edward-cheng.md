@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Dr. Edward Cheng (鄭德昌博士)
 
@@ -66,3 +66,6 @@ Accomplishment
   - 本人文學創作：[[works/taiwaneseamericanhistory-org/515-e7-b7-b4-e7-bf-92-e8-a9-a9-e9-84-ad-e5-be-b7-e6-98-8c201411literature-e6-96-|TAH #515 練習詩／鄭德昌（2014/11 文學）]] — 與既有随笔 #110《綠色瞬間》並列，證明其留有文學創作於故事庫。
   - 逝後追思影像專輯：[[works/taiwaneseamericanhistory-org/photo-albums-activities-94|TAH 活動相簿 #94 In memory of Dr. Edward Cheng 鄭德昌博士生命的禮讚（2015-07-23）]] — 與 #299／#300 追思文同日範圍發布，進一步支持歿於 2015 年之推定（HOLD: 確切歿日仍未見於史料）。
 - 其餘命中（#180、#347、#26、#26-eng、#299、#300、#110、works 索引）均已吸收於上方 Role in the Community，無新事實。
+## Deepen-x re-check (slice 10081500-29, 2026-10-10)
+- 語料再檢（漢名「鄭德昌」＋英文名「Edward Cheng」＋「德昌」）遍掃 works/articles/sources/events/topics：本人相關命中（#26、#26-eng、#110、#180、#299、#300、#347、#515、相簿 #94）全數已吸收，無新增事實。
+- 排除之偽命中：ourjourneys75／186／272 與 #718 所載為 **鄭德和**（[[people/tah-p-d699884bcd]]，FAK/TACL 創會同儕，另一人）；our-journeys-353 之「楊德昌」為導演楊德昌（Edward Yang）。本頁維持 verified-saturated。
