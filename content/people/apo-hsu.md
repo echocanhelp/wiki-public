@@ -11,7 +11,7 @@ tags:
   - tah-whos-who
   - Taiwanese-American
 verification_status: pending
-last_reviewed: 2026-08-18
+last_reviewed: 2026-10-10
 ---
 # Apo Hsu (許瀞心)
 
@@ -23,7 +23,7 @@ last_reviewed: 2026-08-18
 - **Born:** year not given on TAH; birthplace 基隆 / 台灣
 - **Geography:** Keelung → US training (Hartt) → US podiums → Taiwan (TAH address field: 台灣)
 - **Core roles:** conductor; NTNU symphony conductor (from 2003); US orchestra music director / artistic director posts
-- **Source layer:** TAH Who’s Who + TAH #369 / #1310; EN Wikipedia on [[people/tyzen-hsiao||Tyzen Hsiao]] / *Ilha Formosa*
+- **Source layer:** TAH Who’s Who + [[works/taiwaneseamericanhistory-org/musician369|TAH #369 (musician)]] / [[works/taiwaneseamericanhistory-org/whoswho1310|TAH #1310]]; EN Wikipedia on [[people/tyzen-hsiao||Tyzen Hsiao]] / *Ilha Formosa*
 
 ## Overview
 
@@ -43,7 +43,7 @@ Do not flatten these into one “Missouri symphony” or invent dates TAH left b
 | 密蘇里州春田市交響樂團 | 指揮 |
 | 奧瑞岡州 Eugene 莫札特室內樂團 | 音樂總監 |
 
-TAH source line on the card: 奧瑞岡日報 & 台灣公論報 第1239期, 1994/03. TAH also points to encyclopedia **#369** (musician) and **#1310**.
+TAH source line on the card: 奧瑞岡日報 & 台灣公論報 第1239期, 1994/03. TAH also points to encyclopedia [[works/taiwaneseamericanhistory-org/musician369|#369]] (musician) and [[works/taiwaneseamericanhistory-org/whoswho1310|#1310]].
 
 ## Tyzen Hsiao / *Ilha Formosa*
 
@@ -86,6 +86,8 @@ That is a **student/successor mention**, not a second biography. 林韡函 / 陳
 - [[organizations/tyzen-hsiao-foundation||Tyzen Hsiao Foundation]]
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[works/taiwaneseamericanhistory-org/musician369||369. Apo Hsu許瀞心, conductor]]
+- [[works/taiwaneseamericanhistory-org/whoswho1310||1310. Apo Hsu 許瀞心]]
 
 ## Sources
 
