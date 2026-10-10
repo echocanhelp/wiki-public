@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Dr. Binsiong Ou (胡民祥博士)
 
@@ -47,6 +47,12 @@ Corpus material shows Dr. Ou primarily as a Taiwan-language literature writer, c
   - [[works/taiwaneseamericanhistory-org/268-e5-a4-8f-e5-a8-83-e4-bc-8a-e6-84-8f-e7-b4-80-e9-81-8a-e8-83-a1-e6-b0-91-e7-a|268. 夏娃伊意紀遊]]
   - [[works/taiwaneseamericanhistory-org/269-e8-b5-b0-e6-8e-a2-e5-8f-b0-e7-81-a3-e6-96-87-e5-ad-b8-e7-97-95-e8-b7-a1-e8-8|269. 走探台灣文學痕跡]]
   - [[works/taiwaneseamericanhistory-org/270-e5-8f-b0-e8-aa-9e-e6-af-8d-e5-a5-b6-e6-83-85-e6-b7-b1-e8-83-a1-e6-b0-91-e7-a|270. 台語母奶情深]]
+  - [[works/taiwaneseamericanhistory-org/267-e5-8f-b0-e7-81-a3-e5-91-b3-e9-9d-92-e8-8d-89-e8-8c-b6-e8-83-a1-e6-b0-91-e7-a|267. 台灣味青草茶]]
+  - [[works/taiwaneseamericanhistory-org/273-e8-83-a1-e6-b0-91-e7-a5-a5-e8-a9-a9-e6-ad-8c-e8-81-b2-e8-a3-a1-e8-83-a1-e6-b|273. 胡民祥 詩歌聲裡]]
+  - [[works/taiwaneseamericanhistory-org/263-e7-b5-90-e6-9d-9f-e8-aa-9e-e8-a8-80-e4-ba-8c-e4-ba-8c-e5-85-ab-e7-be-8e-e6-b|263. 結束語言二二八（美洲版）]] — HOLD: 與 271（台灣版）疑同書雙版，不自動併頁
+- **Columns, 《台灣公論報》:** also [[works/taiwaneseamericanhistory-org/columns21|21. 台灣文化專刊(台灣公論報) by 胡民祥]] (alongside 文學園)
+- **Co-authored features in *Life* magazine:** [[works/taiwaneseamericanhistory-org/477-e5-8f-b0-e8-aa-9e-e6-96-87-e5-b7-a5-e7-a8-8b-e8-a9-b1-e6-95-85-e4-ba-ba-e6-8|477. 台語文 工程話 故人情（簡忠松 胡民祥, Life 1997/07）]] and [[works/taiwaneseamericanhistory-org/478-e9-a2-b1-e7-b0-a1-e5-bf-a0-e6-9d-be-e8-83-a1-e6-b0-91-e7-a5-a5-e8-aa-9e-e8-a|478. 颱（簡忠松 胡民祥, Life 2000）]] — engineering + literature voices in the Taiwanese American press
+- **Creative writing:** [[works/taiwaneseamericanhistory-org/713-e7-9b-b8-e6-80-9d-e8-9f-ac-e8-83-a1-e6-b0-91-e7-a5-a5201506literature-e6-96-|713. 相思蟬 (2015/06, Literature)]]
 - **Community historian of the Pittsburgh chapter:** his archival study of the early Pittsburgh chapter and its chapter presidents (band A, community history) — [[works/taiwaneseamericanhistory-org/ourjourneys292|292. 早年匹茲堡台灣同鄉會簡介與歷屆會長考證 (06/2017)]] — corroborates the Who's Who claim of TAA Pittsburgh Chapter presidency. English version: [[works/taiwaneseamericanhistory-org/ourjourneys292-eng|292-eng. Brief History of TAA Pittsburgh Chapter]].
 
 ## Family
@@ -69,3 +75,6 @@ Corpus material shows Dr. Ou primarily as a Taiwan-language literature writer, c
 
 ## Deepen-x 2026-09-15 (slice 09150600-4)
 - 語料庫復核：grep 胡民祥／Binsiong Ou 命中（columns20、260、264、265、271、272 等書目頁）已全部存在於本頁 Role in the Community 連結中，命中集合無新增；HOLD（261 vs 264 同標題別版疑雙重建頁）維持不變。無新事實可吸收。
+
+## Deepen-x 2026-10-10 (slice 10091400-21)
+- 語料庫重扫命中新增 7 筆並吸收：267 台灣味青草茶、273 胡民祥詩歌聲裡、263 結束語言二二八（美洲版，HOLD: 與 271 台灣版疑同書雙版）、columns21 台灣文化專刊（第二個台灣公論報專欄，除文學園外）、477/478 與簡忠松合著 Life 雜誌特稿（1997/2000）、713 相思蟬（2015 文學）。佐證「出版 14 本台灣人著作」與工程師×台語文學雙軌身分。
