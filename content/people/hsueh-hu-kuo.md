@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-10
 ---
 # Hsueh-Hu Kuo (郭雪湖)
 
@@ -70,5 +70,8 @@ For more bio information, please click link in Who's Who: 890. Hsueh-Hu Kuo 郭�
 - [[works/taiwaneseamericanhistory-org/artist59-hsueh-hu-kuo||TAH encyclopedia: 59. 郭雪湖 Hsueh-Hu Kuo (2016/03)]]
 - [[works/taiwaneseamericanhistory-org/mystories417||TAH encyclopedia: 417. 走過一百年 用台灣人的眼睛畫世界：郭雪湖 (張肇烜, 2016/03)]]
 
-## Family & Vault Connections (deepened 2026-09-10, vault-internal)
+## Family & Vault Connections (deepened 2026-10-10, corpus re-pass)
 - Wife: 林阿琴 — no vault page yet; the six encyclopedia entries wikilinked above (#9, #36, #59, #127, #417, and #890 Who's Who) are the vault's documentary corpus for his life and the 台灣畫派/雪湖派 legacy described above.
+- **晚年定居望海山莊 (Bay Area):** Per [[works/taiwaneseamericanhistory-org/our-journeys-357||Our Journeys #357]], Kuo spent his later years at 「望海山莊」 in Richmond, California (east Bay), named because from its windows he could see the ocean and a mountain silhouette resembling 觀音山 — "只要心裡有臺灣，站在舊金山也可以望見觀音山." The essay uses his late-life residency as an emblem of overseas Taiwanese 思鄉 sentiment among Bay Area Taiwanese-American community leaders.
+- **Purple Omiya-dori connection:** The 2016 三立電視臺 (SET TV) adaptation of [[people/li-fa-xie||謝里法 (Hsieh Li-fa)]]'s novel 《紫色大稻埕》 filmed a scene at Kuo's 望海山莊 in Richmond ([[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]]).
+
