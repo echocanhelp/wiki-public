@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-09
 ---
 # Chen-Ming Wang (王建民)
 
@@ -49,6 +49,12 @@ Accomplishment
 - 2018– CPBL pitcher coach
 - Documentary [[works/taiwaneseamericanhistory-org/late-life-the-chien-ming-wang-story||《後勁：王建民》Late Life]] nominated for 金馬 (Golden Horse) Best Documentary, per TAH encyclopedia #124
 - Family: wife 吳嘉姈; sons Justin Jesse Wang (王鵬硯) and Wellington Wang (王照升) — recorded in the [[organizations/tah-foundation||TAH Foundation]] Who's Who profile
+
+## Role in the Community
+
+Beyond his MLB career, Wang became a shared reference point in the Taiwanese American community — a "台灣之光" figure whose story circulated through community media and community arts. The 2013 台灣演義 feature [[works/taiwaneseamericanhistory-org/videos114||台灣之光．王建民]] framed him as a community symbol; the 2015 聖地牙哥台灣中心 opening concert program included 李智惠's song 「台灣之王(王建民棒球的故事)」, performed at the center's inauguration — i.e. his baseball story entered the community's own musical repertoire ([[works/taiwaneseamericanhistory-org/ourjourneys162||162. 聖地牙哥台灣中心開幕典禮與慶祝音樂會 2015-08]]). The documentary [[works/taiwaneseamericanhistory-org/late-life-the-chien-ming-wang-story||《後勁：王建民》Late Life]] and its Golden Horse nomination record ([[works/taiwaneseamericanhistory-org/124-e3-80-8a-e5-be-8c-e5-8b-81-ef-bc-9a-e7-8e-8b-e5-bb-ba-e6-b0-91-e3-80-8b-e5-8||124]]) document his comeback narrative as community history in its own right, alongside the 2016 MLB-return record ([[works/taiwaneseamericanhistory-org/softball51||51. 王建民重返大聯盟MLB, 2016]]) and his Who's Who profiles ([[works/taiwaneseamericanhistory-org/104-chen-ming-wang||104]], [[works/taiwaneseamericanhistory-org/39-chen-min-wang-e7-8e-8b-e5-bb-ba-e6-b0-91-famous-professional-baseball-player||39]]).
+
+- 2015-08 — his baseball story is set to music as 「台灣之王」 in the 聖地牙哥台灣中心 opening-concert program (per ourjourneys162 record)
 
 ## References in vault
 - [[works/taiwaneseamericanhistory-org/late-life-the-chien-ming-wang-story||紀錄片「後勁-王建民」]]
