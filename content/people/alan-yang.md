@@ -80,3 +80,5 @@ Corpus records place Alan Yang as a touchstone for the Taiwanese American creati
 <!-- TJJ-A10040600-11: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-11 article 2ac7d75679fda7fe (台灣鄉情與文化 p3, 2020-06-28快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060800-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-5 article 2ac7d75679fda7fe（台灣鄉情與文化 分類頁3, 2020-06-28快照）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090801-9: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-9 article 2ac7d75679fda7fe（台灣鄉情與文化 分類頁3, 2020-06-28快照）read fresh this attempt: subject link re-checked vs 正文 — 「『虎尾』登上Netflix，台裔導演楊維榕新片談移民艱辛」逐字確認見於正文, real, no wrong/spurious links; 2020-04-10 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
