@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-16
+last_reviewed: 2026-10-09
 ---
 # David Weng (翁嘉盛)
 
@@ -43,12 +43,15 @@ The same memoirs credit him with the Center's permanent-home campaign: together 
 
 His own encyclopedia record is preserved at [[works/taiwaneseamericanhistory-org/who-who-1870-david-weng|TAH #1870: David Weng 翁嘉盛]].
 
+The story corpus also holds records of the **Silicon Valley Taiwanese American Industrial Technology Association (矽谷台美產業科技協會)** — the association whose presidency his TAH Who's Who entry credits him with ([[works/taiwaneseamericanhistory-org/silicon-valley-taiwanese-american-industrial-technology-association|SVTAITA record]], [[works/taiwaneseamericanhistory-org/3-silicon-valley-taiwanese-american-industrial-technology-association|corpus index entry #3]]); both records are bibliographic stubs whose named-subjects lists do not yet name Weng. HOLD: the two association records date the work 2017-07-12 vs 2014 in the corpus index, and the Who's Who entry dates his presidency to 2005 — not auto-merged.
+
 - Corpus re-sweep 2026-09-16 (slice 09160109-24): corpus grep matched only records already absorbed above (ourjourneys53/24/38); loose 翁 matches carry no personal facts. **SKIP: no new absorbable facts**, no conflicts to HOLD.
 - Corpus re-sweep 2026-09-16 (slice 21): re-grep 翁嘉盛/David Weng — hit set unchanged (ourjourneys53 ZH+EN founding roster & site-search narrative, ourjourneys24 ZH+EN 籌備會 roster, ourjourneys38, own record TAH #1870). Roster detail re-confirmed: 張信行與陳德輝邀集的創會友名單及籌備委員名單均載翁嘉盛, but no facts beyond what is absorbed above. **SKIP: no new absorbable facts**, no conflicts to HOLD.
 - Corpus re-sweep 2026-09-16 (slice 16): re-grep 翁嘉盛/David Weng — hit set unchanged (ourjourneys53/24/38 ZH+EN rosters & narrative, own record TAH #1870). **SKIP: no new absorbable facts**, no conflicts to HOLD.
 - Corpus re-sweep 2026-09-16 (slice 09160500-13): re-grep 翁嘉盛/David Weng — hit set unchanged (ourjourneys53 ZH+EN, ourjourneys24 ZH+EN, ourjourneys38, TAH #1870). Rosters re-confirmed in full (黃美星 memoir's founding list 陳德輝、邱俊邦、林典謨、翁嘉盛、石清正、施天墩、陳光博、李華林、張祿生, and 張信行's 籌備會 roster with 張祿生、陳德輝、陳光博、李華林、林典謨、施天墩、石清正) — all already covered above. **SKIP: no new absorbable facts**, no conflicts to HOLD.
 - Corpus re-sweep 2026-09-16 (slice 09160600-6): re-grep 翁嘉盛/David Weng — hit set unchanged (ourjourneys53 ZH+EN, ourjourneys24 ZH+EN, ourjourneys38, TAH #1870); all founding/籌備會/site-search facts already absorbed in Role in the Community. **SKIP: no new absorbable facts**, no conflicts to HOLD.
 - Corpus re-sweep 2026-09-16 (slice 09160700-1): re-grep 翁嘉盛/David Weng — hit set unchanged (ourjourneys53 ZH+EN, ourjourneys24 ZH+EN, ourjourneys38 ZH+EN, TAH #1870; ourjourneys38-eng is the same committee record already linked via its ZH counterpart). **SKIP: no new absorbable facts**, no conflicts to HOLD.
+- Corpus re-sweep 2026-10-09 (slice 10081009-11): re-grep 翁嘉盛/David Weng — hit set unchanged (ourjourneys53/24/38 ZH+EN rosters & narrative, TAH #1870). Widened grep (矽谷台美產業科技協會/SVTAITA) surfaced 2 corpus records of the association whose presidency the Who's Who entry credits him with — bibliographic stubs, not naming Weng; linked in Role in the Community with date HOLD. 鄭芳彬 (wife) grep: no corpus hits. No other new absorbable facts.
 
 
 ## Sources
