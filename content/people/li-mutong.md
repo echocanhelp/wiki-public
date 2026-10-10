@@ -9,7 +9,7 @@ tags:
   - publisher
   - community-leader
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # 李木通 (Li Mutong)
 
@@ -83,6 +83,11 @@ last_reviewed: 2026-09-25
 
 - 2016-03-09 — 與[[people/thomas-liu||劉天良]]、黃根深同為「台美人物誌—半世紀前 UCLA 的那些日子」座談與談人（美洲台灣日報記錄），見台灣公義報「台美人台加人」分類存檔（2024-05-20 快照）—— [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|TJJ 台美人台加人存檔頁]]。
 - 2022-07-02 — 以台灣會館前董事長身分列名出席柑縣為國會眾議員 Michelle Steel（朴銀珠）第45區連任舉辦的台美人募款餐會（[[articles/taiwanjustice-net/2022/20220813052744_2022_07_02_台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連_8c5d12035d4e1a54|TJJ, 2022-07-02]]；另見 [[articles/taiwanjustice-net/2025/20250808005844_台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連_2fc3294ed01f2d2a|2025-08-08 快照]]）。
+- 1984-12-01 — 應 SCTAI 南加台獨協會會長沈英忠之邀，於中國城附近假日旅館參加十二位同鄉座談會，促成 TACL（台美人協會）籌備委員會成立（周實、楊子清、曾克中、李木通、楊惠喬、吳西面、楊嘉猷、洪義明、吳錫源、張文志、林洪權、許和瑞）——見 [[works/taiwaneseamericanhistory-org/ourjourneys272|Our Journeys #272（楊遠薰回憶錄）]]。
+- 2015-01 — 楊遠薰撰文記述與王瑾瑾的南加奮鬥史 —— [[works/taiwaneseamericanhistory-org/mystories269|My Stories #269]]。
+- 2015-11 — 台美人歷史資料庫人物專訪「Dr. Tom Lee 李木通」—— [[works/taiwaneseamericanhistory-org/whos-tom-lee|Who's Tom Lee? #703]]；另見 [[works/taiwaneseamericanhistory-org/101-dr-tom-lee|#101 Dr. Tom Lee 李木通博士（2018）]]。
+- 2016-11-30 — 以美洲台灣日報社長身分主持「台美人物誌」黃茂清律師專訪 —— [[works/taiwaneseamericanhistory-org/videos48|Videos #48]]。
+- 2020-05 — 口述回憶「從陳文成命案談起」—— [[works/taiwaneseamericanhistory-org/my-stories-730|My Stories #730]]（與上文 Political Engagement 第4點相互印證：陳文成案後其父禁止返台）。
 
 ## Source Notes and Confidence
 - **Content priority A:** 2023 TAHS Publication (profile, "奠基‧傳承" section, ~2720 lines)
