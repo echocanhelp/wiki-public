@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Peter Chen (陳正義)
 
@@ -51,6 +51,8 @@ last_reviewed: 2026-09-25
 - 2017-03-03 — authored the op-ed 「US must aid Taiwan's WHO entry」 (原刊 Taipei Times), arguing on WHO membership for Taiwan under the byline Peter Chen 陳正義 ([[articles/taiwanjustice-net/2024/20240620192015_root_21b9e011588cc725|TJJ archive, Taipei Times 2017-03-03]]).
 - 2018-01-09 — as FAPA 會長, welcomed the House's unanimous passage of the 台灣旅行法: it "延續了國防授權法案的能量…三個公報漸漸走入歷史的餘燾," with FAPA next lobbying the Senate ([[articles/taiwanjustice-net/2024/20240228170734_root_fabf881b08ac501c|TJJ archive — 美眾院通過台灣旅行法, 2018-01-09]]).
 - Community press maintains a dedicated author tag page for him: [[articles/taiwanjustice-net/2024/20240721094305_root_851401c9a92512bc|Tag: 陳正義律師]].
+- 2018-04-04 — in the 長青教室 lecture 「為什麼台美人對『台灣』重要」 he self-describes as an outstanding second-generation 台美人 and as having served as 會長 or 副會長 of 全美公民協會 (TAA), 全美台灣同鄉會 (NTCA) and FAPA; the lecture text recounts his family's identity story (a father who raised him as 「雖是美國公民卻永遠是台灣人」) and his census-based account of the 台美人 population — 2010: 358,000, 47% in California — and of the legislative milestones 台美人 organizing achieved (2012 visa waiver, 2016 Six Assurances, 2018 台灣旅行法) ([[articles/taiwanjustice-net/2024/20240620194633_root_1f6d7e8310d96d08|陳正義律師 lecture text, 台灣公義報 2018-04-06]]).
+- HOLD: the lecture text describes legal/commerce study at 「UCLA、華盛頓及牛津大學專攻青少年犯罪、密西根及倫敦等地大學攻商事領域」, while the TAH Who's Who education table lists UCLA B.A. 1998 / Michigan M.S. / George Washington Ph.D. 2002 — the Oxford and University of London references are not in the table; not merged.
 - Note: distinct from [[people/pin-shan-peter-chen|Pin-Shan Peter Chen]]; HOLD: possible cross-listing of 「Peter Chen」 signatories in the Pew statement record vs this profile — not merged.
 
 ## Sources
