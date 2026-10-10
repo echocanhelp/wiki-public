@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # C. C. Yang (楊朝諄)
 
@@ -60,3 +60,5 @@ HOLD: brother(s) with a near-identical name mentioned in blacklist lore ([[works
 <!-- deepen-x slice 09240600-8 re-verify 2026-09-25: fresh grep 楊朝諄/C. C. Yang across works+articles — same hit set (ourjourneys233, ourjourneys106, mystories423, ourjourneys81-eng, whos-c-c-yang, whos-c-c-yang-2); all facts incl. both HOLDs already in Role in the Community; verified-saturated -->
 <!-- deepen-x slice 09250900-4 re-verify 2026-09-25: fresh ZH+EN grep of works+articles — hit set identical to prior passes, all facts incl. HOLDs already absorbed; SKIP-with-reason: verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 09260317-4 re-verify 2026-09-26: fresh ZH+EN grep of works+articles — same hit set plus ourjourneys65-eng (roster confirms 'Tsung-chang Yang (C.C. Yang)' = 楊宗昌, now wikilinked in the disambiguation line); all other facts incl. HOLDs already absorbed -->
+
+<!-- deepen-x slice 10081100-9 re-verify 2026-10-09: fresh ZH+EN grep across all 5 corpus dirs (works/articles/sources/events/topics) — hit set identical to prior passes (ourjourneys233 募款組 roster + 謝里法義賣, ourjourneys106 黑名單 #29, mystories423, ourjourneys81-eng + ourjourneys65-eng = 楊宗昌 disambig, whos-c-c-yang, whos-c-c-yang-2, pew statement); excerpts re-read, all facts incl. both HOLDs already in Role in the Community; verified-saturated, no new absorbable facts -->
