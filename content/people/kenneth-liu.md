@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Kenneth Liu (劉光道)
 
@@ -58,3 +58,4 @@ last_reviewed: 2026-10-09
 <!-- deepen-x slice 10051143-26 recheck 2026-10-06: SKIP — fresh ZH+EN grep of works/articles/sources/events/topics; hit set identical to prior passes (whoswho1456, publications1046, mystories386, ourjourneys14 — all already linked). Rev. Kenneth Liu clergy-vs-engineer HOLD retained. No new absorbable corpus facts. -->
 <!-- deepen-x slice 10060950-3 recheck 2026-10-08: SKIP — fresh ZH+EN grep (劉光道 / Kenneth Liu / 光道) of works/articles/sources/events/topics; hit set identical to prior passes (whoswho1456, publications1046, mystories386, ourjourneys14 — all already linked). The lone extra article hit (taiwanjustice-net 2024 op-ed) is a false positive — 陽光道 substring, not the person. Rev. Kenneth Liu clergy-vs-engineer HOLD retained. No new absorbable corpus facts. -->
 <!-- deepen-x slice 10080400-14 recheck 2026-10-09: SKIP (verified-saturated) — fresh grep (劉光道 / Kenneth Liu / 光道) across works/articles/sources/events/topics returns the same hit set as all prior passes (whoswho1456, publications1046, mystories386, ourjourneys14 — all already wikilinked above). The taiwanjustice-net 2024 op-ed hit re-confirmed a false positive this pass (陽光道 substring, context: 「你走你的陽光道，我走我的獨木橋」). No new absorbable corpus facts; Rev. Kenneth Liu clergy-vs-engineer HOLD retained. -->
+<!-- deepen-x slice 10090800-25 recheck 2026-10-10: SKIP (verified-saturated) — fresh grep (劉光道 / Kenneth Liu / 光道) across works/articles/sources/events/topics returns the identical hit set (whoswho1456, publications1046, mystories386, ourjourneys14 — all already wikilinked above); surname-only variant grep adds nothing. taiwanjustice-net op-ed hit again a 陽光道 substring false positive. No new absorbable corpus facts; Rev. Kenneth Liu clergy-vs-engineer HOLD retained. -->
