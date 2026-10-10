@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-09
 ---
 # Karen Chen (陳楷雯)
 
@@ -46,6 +46,10 @@ Track of her coverage in the TAH community archive:
 - 2026-09-25 re-grep (slice 09250800-11): fresh grep (陳楷雯／Karen Chen, works+articles) hit set identical to linked records (#2/#240/#313/#1486/#1988, #823, #1204, #3) — SKIP, verified saturated; nothing new absorbable; existing HOLD kept, no dates merged.
 - 2026-09-26 re-grep (slice 09260317-17): fresh grep (陳楷雯／Karen Chen, works+articles) hit set identical to the linked records (#2/#240/#313/#1486/#1988, #823, #1204, #3) — SKIP, verified saturated; nothing new absorbable; existing HOLD kept, no dates merged.
 - 2026-09-27 re-grep (slice 09260700-4): fresh grep (陳楷雯／Karen Chen, works+articles) hit set identical to the linked records (#2/#240/#1486/#1988, #823, #1204) — SKIP, verified saturated; nothing new absorbable; existing HOLD kept, no dates merged.
+- **2005** — began ice skating, per the Taiwan Zhiguang athlete profile that lists her as the youngest of the Taiwanese(-American) athletes featured (age 20, POB Fremont, CA) ([[works/taiwaneseamerican-org/taiwan-zhiguang-taiwanese-taiwanese-american-athletes-to-root-for|Taiwan Zhiguang athletes-to-root-for]]).
+- **2018-02** — placed 11th at the Pyeongchang Winter Olympics (same profile); by then also two bronze medals at the CS U.S. International Figure Skating Classic, and studying at Cornell University while aiming at the 2022 Beijing Games.
+- **2017** — gold-medal moment also preserved as a video record in the TAH corpus, with her page linked as subject ([[works/taiwaneseamericanhistory-org/videos50|TAH #50]]).
+- 2026-10-09 re-grep (slice 10081018-29): fresh ZH+EN grep across all 5 corpus dirs returned 13 files; new vs prior rounds: videos50 (#50) and the Taiwan Zhiguang athlete feature (absorbed above). The taiwanjustice.net 翁啟惠連署 article's signer "Karen Chen <yichunchen@cox.net>" is 陳怡君 — a different Karen Chen, explicitly disambiguated in that record — not absorbable here. Existing HOLD kept, no dates merged.
 
 ## Family
 
