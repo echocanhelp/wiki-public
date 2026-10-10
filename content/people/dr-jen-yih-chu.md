@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # Dr. Jen-Yih Chu (朱真一博士)
 
@@ -52,6 +52,14 @@ Dr. Jen-Yih Chu (Albert Chu, chuj@slu.edu) is a prominent historian of the Taiwa
   - [[works/taiwaneseamericanhistory-org/mystories413|413. 廖坤塗醫師簡介 / 2016-03]] · [[works/taiwaneseamericanhistory-org/mystories96|96. 謝娥醫師；第一位女士台美人]] · [[works/taiwaneseamericanhistory-org/mystories274|274. 台獨父親身教 台裔吳修銘競選紐約副州長 / 2015-03]] · [[works/taiwaneseamericanhistory-org/mystories477|477. 探討歷史故事；學習求真及樂趣 / 2016-11]]
   - [[works/taiwaneseamericanhistory-org/publication1315|1315. 可敬可佩的醫界人物 / 2002]] · [[works/taiwaneseamericanhistory-org/publications211|211. 絕望的少數??(一)海外客家台灣人的心與情 / 2003-12]] · [[works/taiwaneseamericanhistory-org/publications-1333|1333. 登革熱的故事 / 2020-01]] · [[works/taiwaneseamericanhistory-org/publications-132|1362. 從歷史文化看台灣人尤其客家人的健康問題 / 2022-01]] · [[works/taiwaneseamericanhistory-org/publications-1363|1363. 客家台語詩–試驗試驗集 / 2022-01]]
   - co-author volume [[works/taiwaneseamericanhistory-org/publications1085|1085. 新時代的醫學人文 / 戴正德主編 / 2017-04]]
+  - [[works/taiwaneseamericanhistory-org/18-e5-be-9e-e9-86-ab-e7-95-8c-e7-9c-8b-e6-97-a9-e6-9c-9f-e5-8f-b0-e7-81-a3-e8-88|18. 從醫界看早期台灣與歐美的交流 (一) / 2007-11]] — the first installment of the same medical-exchange history series cited elsewhere on this page.
+- **Biographer of movement pioneers (taiwanjustice.net column record):**
+  - Co-authored with 陳永興 「台灣第一位外科女醫生謝娥——1949年離台移民美國有成於公共衛生界」 — the fullest account of 謝娥 in the corpus, corroborating his own sketch [[works/taiwaneseamericanhistory-org/mystories96|96. 謝娥醫師：第一位女士台美人]] — see [[articles/taiwanjustice-net/2025/20250808015559_台灣第一位外科女醫生謝娥-1949年離台移民美國有_a3608b31f14db754|TJJ, 2025-08-08]].
+  - 「台獨聯盟的要角：公共衛生界的王秋森博士」 — a movement profile of 王秋森 — [[articles/taiwanjustice-net/2025/20250215221604_category_taiwaneseamerican_page_3_98bf76da5c3ac86d|TJJ 台美人台加人 category page, 2025-02-15 快照]].
+  - 「周烒明英譯高木友枝的《台灣的衛生狀況》」 (民報, 2016-09-16) — documenting 周烒明's translation of Takagi Tomosuke's sanitation classic — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|TJJ 台美人台加人 category page, 2024-04-25 快照]].
+  - 「基於證據的醫學——要打帶狀疱疹（Herpes Zoster）疫苗？肺炎疫苗呢?」 — his evidence-based-medicine column — [[articles/taiwanjustice-net/2024/20240713154040_root_473da8876aec40e5|TJJ, 2024-07-13]].
+- **NTU alumni civic engagement:** signed the 2018-07-20 台大校友會抗議聲明 (against 南加州台大校友會邀請管中閔專題演講) listed as 朱真一（醫科） — consistent with his NTU College of Medicine M.D. (1965) — [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ, 2018-07-21]].
+  - HOLD: 「向史明先生致敬」 is dated 2015-05 in [[works/taiwaneseamericanhistory-org/132-care-for-taiwan-by-taiwanese-american-e5-8f-b0-e7-be-8e-e4-ba-ba-e9-a1-a7-e5|work 132 (台美人顧台灣 22)]] but 12/2017 in [[works/taiwaneseamericanhistory-org/mystories610|mystories 610]] — two dates for the same title, not auto-merged. A companion piece 「向彭明敏教授致敬」 (2015-05) exists in the same series — [[works/taiwaneseamericanhistory-org/134-care-taiwan-taiwanese-american-e5-8f-b0-e7-be-8e-e4-ba-ba-e9-a1-a7-e5-8f-b0-|work 134 (台美人顧台灣 23)]].
 
 ## Family
 
@@ -68,3 +76,5 @@ Dr. Jen-Yih Chu (Albert Chu, chuj@slu.edu) is a prominent historian of the Taiwa
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-verify note（deepen-x slice-09220800-15, 2026-09-22）：fresh grep 新增 TAH 檔案 8（本人百科頁）與 TAH 檔案 11（朱真一教授的收藏）— 已吸收至上；其餘 hit set 與已吸收一致。
+
+- 複核（deepen-x slice 10090700-24, 2026-10-10）：全語料 grep 命中 45 檔；新增吸收 1 檔作品記錄（work 18 從醫界看早期台灣與歐美的交流）、4 篇 taiwanjustice.net 朱真一專欄/著作條目（謝娥傳、王秋森傳、高木友枝譯作、疫苗專欄）、2018 台大校友聲明連署；並記 1 處 HOLD（向史明先生致敬 2015-05 vs 12/2017 兩處日期不一致）。其餘 hit set 與前次吸收一致。
