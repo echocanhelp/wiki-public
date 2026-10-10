@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-10
 ---
 # Jennie Wang (林靜娥)
 
@@ -62,3 +62,4 @@ last_reviewed: 2026-10-08
 - Corpus re-check 2026-09-27 (deepen-x slice 09260600-21): fresh grep (林靜娥 / Jennie Wang) returns only own record #47 + ourjourneys167 + index — verified saturated; SKIP.
 - Corpus re-check 2026-10-06 (deepen-x slice 10051200-19): surname/alias sweep (王文隆, 芝加哥文化促進會) surfaced Our Journeys #378 (芝加哥台灣同鄉會 歷年會長 list, 王文隆 1988) — absorbed into Role in the Community as a likely-but-unconfirmed link to [[people/dr-wayne-lung-wang]]; no other new hits.
 - Corpus re-check 2026-10-08 (deepen-x slice 10062248-1): fresh grep 林靜娥 / Jennie Wang / 王文隆 across works/articles/sources/events/topics — hit set identical to prior waves: own record #47 + ourjourneys167 (production text, performer list including 林靜娥, 王文隆 佈景, 廖述宗 慈淵 grant — all absorbed above), our-journeys-378 (absorbed), plus Wayne-Lung-Wang-side records (whos-who-1, publications290/291/1143/1144, footsteps-15) which are 王文隆's own bibliographic records with no 林靜娥 content. Verified-saturated; SKIP.
+- Corpus re-check 2026-10-10 (deepen-x slice 10091414-10): fresh grep 林靜娥 / Jennie Wang / 靜娥 across works/articles/sources/events/topics returns only own record #47 + ourjourneys167 + index + sources hub; surname/alias sweep (王文隆 / Wayne Lung Wang / 芝加哥文化促進會 / 芝加哥美麗島) adds only 王文隆's own bibliographic records (whos-who-1, publications289/290/291/1143/1144, footsteps-15, mystories628, ourjourneys245/256/260) — spot-checked: none contains a 林靜娥/Jennie mention (grep confirmed zero hits in those files). Hit set identical to all prior waves. Verified-saturated; SKIP.
