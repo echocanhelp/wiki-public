@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # Father Brendan O’Connell (甘惠忠神父)
 
@@ -75,3 +75,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10040600-11: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-11 article 2ac7d75679fda7fe (台灣鄉情與文化 p3, 2020-06-28快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060800-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-5 article 2ac7d75679fda7fe（台灣鄉情與文化 分類頁3, 2020-06-28快照）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+Corpus re-grep (2026-10-10, slice deepen-x-10081300-7): SKIP — hit set unchanged. Fresh ZH+EN grep (甘惠忠 / O’Connell / Brendan) across all 5 corpus dirs returns the saturated set: #2255 bibliography page, works/index, sources/taiwaneseamericanhistory-org, and 台灣正義網 listing/tag pages that re-list the already-cited obituary (2020-04-16) and 民視台灣學堂 memorial episode (2020-06-01). One new hit — [[articles/taiwanjustice-net/2026/20260210063846_澳媒關注坎培拉挺台決心_澳防長_盡力嚇阻中國_acea0631b747db38|2026-02-10 澳媒報導]] — is a false positive (Australian MP Brendan O’Connor, unrelated to the priest). No memoir narrative; nothing new absorbable; no conflicts to HOLD.
