@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-10
 ---
 # Echo Lin (林錫湖博士)
 
@@ -42,6 +42,7 @@ Echo Lin (林錫湖) was one of the five founding members of **Formosans' Free F
 - [[works/taiwaneseamericanhistory-org/ourjourneys33|33. 一家人做伙來打拼 / 張炎憲 / 2014-09]] — historian Chang Yan-shian's account dating the 3F founding to 1956 in Philadelphia, 1958 reorganization into UFI.
 - [[organizations/united-formosans-for-independenceufi|United Formosans for Independence UFI (台獨聯盟)]]
 - [[works/taiwaneseamericanhistory-org/whos-who-1894-echo-lin|1894. Echo Lin (Who's Who)]] and [[works/taiwaneseamericanhistory-org/whoswho1010|1010. Echo Lin 林錫湖 / 2016-05]] — his own encyclopedia entries.
+- [[works/taiwaneseamericanhistory-org/my-stories-897|897. Freedom Calling – American Journey of a Taiwan Expatriate / 2024-01]] — 2024 memoir: the author and Echo arrived at the University of Pennsylvania the same fall, with Echo pursuing a Ph.D. in Organic Chemistry; Echo was two years the author's senior at 台南一中 (Tainan First High), corroborating the 台南一中 connection in the Loo memoir. The five founders gathered virtually every weekend — meals in Chinatown, often ending in Echo's apartment — where venting about KMT corruption and repression hardened into the founding discussions that led to 3F.
 
 HOLD: conflict in Education — TAH table lists 新墨西哥州立大學 M.S. **1955** and 賓州州立大學 Ph.D. **1958**, but the Loo memoir (ourjourneys85) says he had already *received* his New Mexico master's when he started Penn doctoral work **in 1955**, and the tah-tables row "St. Joseph University" conflicts with "賓州州立大學" as the doctorate-granting institution. Also HOLD: father's hanzi — the Loo memoir's Chinese text gives **林全福** while an earlier ingest of the same memoir recorded **林傳福** (romanization Chuan-fu Lin matches both). Also HOLD: birth-era "1930" in the snapshot is unverified. Dates left as-is pending a second source.
 
