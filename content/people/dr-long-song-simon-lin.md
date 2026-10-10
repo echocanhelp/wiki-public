@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Dr. Long Song Simon Lin (林榮松醫師)
 
@@ -49,6 +49,12 @@ Dr. Long Song (Simon) Lin 林榮松醫師 – History of Taiwanese American (T.A
 - **WHO for Taiwan 倡議**：本人撰文〈台灣欲加入 WHO 十一年來的心路〉（NATMA 之 WHO for Taiwan，台美人顧台灣系列第 8 篇，2015/02，A-band）存於語料：[[works/taiwaneseamericanhistory-org/ourjourneys100|TAH #100]]；配套活動頁 [[works/taiwaneseamericanhistory-org/photo-albums-activities-54|TAH #54 WHO for Taiwan by NATMA]]——以 NATMA 會長身分記錄台灣參與 WHO 的社區倡議歷程。
 - **總統選舉助選紀錄**：提供 1996–2012 歷次台灣總統選舉台美人助選活動相片專輯（本人攝影）：[[works/taiwaneseamericanhistory-org/photo-albums-activities-34|TAH #34 台美人的助選活動]]（2015-01-03 刊）。
 - **家族回憶錄**：撰文〈父親完整地走完了他的一生〉（2017/02）：[[works/taiwaneseamericanhistory-org/mystories515|TAH #515]]。
+- **北加州台灣會館創設諮詢**：黃美星回憶錄（[[works/taiwaneseamericanhistory-org/ourjourneys24-eng|TAH #24 北加州台灣會館的誕生]]）載 2003 年籌設期間曾邀請「南加州台灣會館主任 Dr. Simon Lin」分享經營台灣會館之經驗，是其跨區社區會館角色之早期記錄。
+- **社區活動攝影與記錄**：提供台美小姐選美會與 NATMA 活動相片專輯（[[works/taiwaneseamericanhistory-org/photo-albums-activities-37|TAH #37 台美小姐選美會攝影]]、[[works/taiwaneseamericanhistory-org/photo-albums-activities-38|TAH #38 NATMA 攝影]]，2015/01 刊）；2003/02 於 El Monte 與陳文石「台灣之美—水的世界」畫展合辦「鄉土之美」攝影展（[[works/taiwaneseamericanhistory-org/artshow26|TAH #26]]）。
+- **NATMA 國際義診團**：撰文記述北美洲台灣人醫師協會國際義診團（2014/09）（[[works/taiwaneseamericanhistory-org/mystories35|TAH #35]]）；義診團獲第五屆國際醫療典範獎團體獎、其以執行長身分代表領獎之報導存於語料（[[articles/taiwanjustice-net/2026/20260125131405_第五屆國際醫療典範獎頒獎典禮_在台灣舉行_a8bd530e85c30548|TJJ 國際醫療典範獎報導]]；典禮日期正文作 9 月 25 日、COVID 語境，年份未明載，HOLD 待核）。
+- **移美醫師潮記錄與母語觀點**：撰文〈我對母語的看法及所持的態度〉（2016/03）（[[works/taiwaneseamericanhistory-org/ourjourneys203|TAH #203]]）；並經楊遠薰耆老講座記錄（2016/08）（[[works/taiwaneseamericanhistory-org/ourjourneys236|TAH #236 台灣人的移美潮]]）：以個人統計述 1960–1975 台灣醫師赴美潮（高醫 1967 年全班 72 名畢業生、四十餘人赴美開業），本人與兒子同為麻醉科醫師。
+- **口述歷史**：本人口述歷史「Director of TCFGLA — 林榮松 Simon Long Song Lin's Journey」收於 TAH 台美人口述歷史計畫（[[works/taiwaneseamericanhistory-org/video-186|TAH #186]]）。
+- **返台投票報導**：LA Times 記者 Julie Makinen 報導台美人返台投票助選潮（2016/01/13）（[[works/taiwaneseamericanhistory-org/ourjourneys192|TAH #192]]）記其為 Whittier Hospital 麻醉科醫師、以相機記錄選舉——與本頁 [[works/taiwaneseamericanhistory-org/photo-albums-activities-34|TAH #34 助選相片專輯]] 相互印證。
 - HOLD: 本頁 TAH 表載 林榮松 為 Taiwan Center Foundation President；[[people/simon-lin|Simon Lin（林榮松）]] 頁載同一人為執行長（title 不同），維持旗標，不自動合併。
 
 ## Vault record (TAH corpus)
