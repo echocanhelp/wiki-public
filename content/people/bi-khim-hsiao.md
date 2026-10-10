@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Bi-khim Hsiao (蕭美琴)
 
@@ -409,3 +409,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10080401-30: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-30 article 20250525051634_tag_導讀台灣_page_2_073ea211088c8fae (Tag: 導讀台灣 p2, 2025-05-25快照) read fresh this attempt: subject link re-checked vs 正文 (「導讀台灣 20231203 蕭美琴的從政之路!」條目確認見於清單), real, no wrong/spurious links; 2023-12-03 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- DEEPEN-X10080949-3: verified 2026-10-09 — page read fresh; fresh corpus sweep (蕭美琴/Bi-khim/蕭 across works/articles/sources/events/topics): every Bi-khim-corpus work already wikilinked in TAH story corpus section (#990 autobiography, #391 profile story, #757 encyclopedia, #816 father obit, #866 NYT profile, events2021-2 inauguration); remaining 蕭-only hits are unrelated Hsiao/蕭 surnames (e.g. whos-who-1558 Frank S.T. Hsiao) — no new material, saturated. last_reviewed bumped. -->
+
+<!-- TJJ-A10081501-2: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10081501-2 article 20250216000009_root_3be67f6e82d34da7 (台美人台加人分類存檔頁2, 2025-02-16快照) read fresh this attempt: subject link re-checked vs 正文 — 「美大選膠著 蕭美琴：無論誰勝選台美關係續深化」(2020-11-05)、「蕭美琴紐約大都會台灣日開球」、「台灣駐美代表蕭美琴」條目確認見於收錄清單, real, no wrong/spurious links; 2020-11-05 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
