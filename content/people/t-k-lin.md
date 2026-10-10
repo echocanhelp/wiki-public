@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # T. K. Lin (林宗光)
 
@@ -61,3 +61,4 @@ last_reviewed: 2026-10-09
 <!-- deepen-x slice 10051143-3 (2026-10-06): saturated re-verify — fresh grep hit set unchanged (OJ #37, #47, #74 ZH+ENG, mystories293, TAH #813, index); all absorbed above. SKIP-content. -->
 <!-- deepen-x slice 10060900-1 (2026-10-07): saturated re-verify — fresh grep (林宗光 / T. K. Lin / 宗光) across works+articles+sources+events+topics returns the unchanged hit set (OJ #37, #47, #74 ZH+ENG, mystories293, TAH #813, index); all absorbed above. Added explicit wikilink to the OJ #74 English edition. SKIP-content. -->
 <!-- deepen-x slice 10071448-1 (2026-10-09): saturated re-verify — fresh grep (林宗光 / T. K. Lin / 宗光) across works+articles+sources+events+topics returns the unchanged hit set (OJ #37, #47, #74 ZH+ENG, mystories293, TAH #813); all absorbed above. SKIP-content. -->
+<!-- deepen-x slice 10090800-3 (2026-10-10): saturated re-verify — fresh grep (林宗光 / T. K. Lin / 宗光) across works+articles+sources+events+topics returns the unchanged hit set (OJ #37, #47, #74 ZH+ENG, mystories293, TAH #813, index, sources hub); all absorbed above. Cross-checked OJ #47 roster (政治組召集人=第六屆會長 confirmed) and OJ #74 ZH+ENG NATPA Cleveland founding passage — no new facts, no conflicts. SKIP-content. -->
