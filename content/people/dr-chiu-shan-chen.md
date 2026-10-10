@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Dr. Chiu-Shan Chen (陳秋山博士)
 
@@ -38,7 +38,8 @@ Accomplishment
 - **UCSD 台灣研究中心捐助人**：UCSD 校友（物理博士），2021 年 11 月致電廖炳惠教授，表示願捐 500 萬美元於母校設立台灣研究中心；UCSD 後正式成立「台灣研究中心」。見 [[works/taiwaneseamericanhistory-org/our-journeys-386|UCSD 台灣研究中心創設紀事]]、[[works/taiwaneseamericanhistory-org/my-stories-793|793. 校友陳秋山捐母校500萬創建台灣中心]]。
   - HOLD: my-stories-793 標題標 05/2021，內文稱捐贈緣起於 2021 年 11 月電話 — 日期兩說，未合併。
   - **UCSD 台灣研究中心揭幕**：2023-05-06 與妻子 Rufina Chen 出席 Center for Taiwan Studies 落成典禮（創所 $5M 捐贈；廖炳惠為創所所長）— 見 [[works/taiwaneseamericanhistory-org/our-journeys-385|385. Grand Opening of the Center for Taiwan Studies at UCSD / 05/2023]]。
-- 語料並稱其為「太平洋生物科技公司創辦人」； tah-tables 職涯欄記為 Importer（自僱）。HOLD: conflict「Importer 自僱」vs「太平洋生物科技公司創辦人」，未自動合併。
+- 語料並稱其為「太平洋生物科技公司創辦人」； tah-tables 職涯欄記為 Importer（自僱）。HOLD: conflict「Importer 自僱」vs「太平洋生物科技公司創辦人」，未自動合併。公司英文名亦有三說：太平洋生技／Pacific Biotech（台美基金會組織頁）、Pacific Biotechnology（our-journeys-386 內文）、Pacific Biosciences（廖炳惠頁 TAH #1632 摘錄）——同為自「太平洋」起頭之生技公司，惟無一手文件定名，維持 HOLD。
+- **聖地牙哥台灣人協會（SDTA）會長時期**：協會組織頁記 1997 年台灣中心開幕募款時他為「會長 陳秋山」，與台美基金會第一任董事長身份並列（見 [[organizations/san-diego-taiwanese-cultural-association|聖地牙哥台灣人協會]]；會館紀事 [[works/taiwaneseamericanhistory-org/ourjourneys26-eng|26 (EN)]]）。
 - **台美基金會董事紀事**：中心memoir（作者Judy）recall早期董事名單中陳秋山最年輕（「名單上除了陳秋山，尚無人有白髮」）；僑務委員長焦仁和來訪時他穿短褲球鞋來當主人接待——寫出早期台灣中心志工以館為家的日常（見 [[works/taiwaneseamericanhistory-org/ourjourneys337|Our Journeys #337]]）。
 
 ## Family
@@ -59,3 +60,4 @@ Accomplishment
 - 複核（deepen-x 2026-09-22）：corpus re-grep（works+articles）命中集合與前次相同，全數已吸收並 wikilink，無新增社群材料；頁面維持飽和狀態。
 - 複核（deepen-x-slice-09230317-5, 2026-09-23）：re-grep（陳秋山／Chiu-Shan Chen，works+articles）命中集合不變（ourjourneys26/26-eng/337、our-journeys-385/386、my-stories-793、152 與 whos-who-290 本人記錄），全數已吸收並 wikilink；無新材料。SKIP-with-reason（飽和）。
 - 複核（deepen-x-slice-09231000-2, 2026-09-25）：re-grep（陳秋山／Chiu-Shan Chen，works+articles）命中集合再度不變（ourjourneys26/26-eng/337、our-journeys-385/386、my-stories-793、152、whos-who-290），全數已吸收並 wikilink。SKIP-with-reason（飽和，無新增社群材料）。
+- 複核（deepen-x-slice-10081100-15, 2026-10-10）：re-grep（陳秋山／Chiu-Shan Chen／太平洋生技）命中集合與前次大致相同，新增吸收兩點：(1) SDTA 協會組織頁記 1997 年他為「會長」主導台灣中心募款（與台美基金會董事長並列）；(2) 公司英文名三說（Pacific Biotech／Pacific Biotechnology／Pacific Biosciences）補入既有 HOLD，未定名。無其他新社群材料。
