@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-10
 ---
 # Sam Wei-Chih Sun (孫偉志)
 
@@ -61,3 +61,9 @@ Sam Wei-Chih Sun is a pianist, an accompanist and a music educator from Taiwan. 
 ## Vault Source Record
 
 The vault holds three TAH story-corpus records on Sun as a conductor and music educator: the 2015/01 profile 「孫偉志 音樂教師的故事」 by 陳美伶 ([[works/taiwaneseamericanhistory-org/183-e5-ad-ab-e5-81-89-e5-bf-97-e9-9f-b3-e6-a8-82-e6-95-99-e5-b8-ab-e7-9a-84-e6-9||TAH #183]]), the 2015/01 conductor profile ([[works/taiwaneseamericanhistory-org/111-sam-wei-chih-sun-e5-ad-ab-e5-81-89-e5-bf-97conductor-201501||TAH #111]]), and a later Who's Who entry ([[works/taiwaneseamericanhistory-org/157-sam-wei-chih-sun-e5-ad-ab-e5-81-89-e5-bf-97||TAH #157]]). All three are bibliographic records; full text stays in the vault.
+
+## Role in the Community
+
+- **Presbyterian church family** — His father, 孫武夫 (Sun Wu-Fu), served as the fourth pastor of the Los Angeles Taiwanese Presbyterian Church (1993–2003) per the church's own 50-year memoir [[works/taiwaneseamericanhistory-org/ourjourneys231|Our Journeys #231]]; the memoir describes him as formerly Moderator of the PCT General Assembly (長老教會總會議長) and notes the church's post-retirement vacancy (2003–2008). Sam's own music-directorship at 好牧者台灣基督長老敎會 (GSTPC, Monterey Park) from 2004 therefore sits inside a multi-generation Presbyterian ministry family — community context that outranks the Who's Who press-kit framing.
+- **Choral conducting network** — The corpus confirms his conducting posts only via the three TAH bibliographic records above; no separate Echopedia pages exist yet for 南加州台港客家合唱團, 雅音合唱團, 爾灣華裔合唱團, NOCCC, 台福聖樂團, or 中華歸主神學院, so those names are held as text, not wikilinks.
+- **HOLD: record numbering** — the vault work files carry internal titles 「181. 孫偉志 音樂教師的故事」 and 「153. Sam Wei-Chih Sun」 while their URLs/slugs read 183 and 157; the page's existing "TAH #183 / #157" labels follow the URL. Do not auto-merge the numbers until the story-corpus index is re-derived.
