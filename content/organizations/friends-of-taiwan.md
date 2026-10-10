@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Friends of Taiwan
 
@@ -39,6 +39,8 @@ last_reviewed: 2026-09-24
 - **2025-02** — 台灣之友社 is listed among the co-hosting LA-area 台美社團 of the 2024大洛杉磯228事件追思紀念會暨聯合社團系列活動 (with FAPA-洛杉磯分會, NATMA-南加分會, 台美人歷史協會 and others) — the LA chapter documented as an active 228-commemoration co-organizer ([[articles/taiwanjustice-net/2025/20250328132115_2024大洛杉磯228事件追思紀念會暨聯合社團系列活動邀_c41dfa01b8f3bcbb|TJJ report]]).
 - Disambiguation from corpus grep: 「台灣之友」 labels in US congressional records (e.g. Congressman McCaul, per an Austin FAPA memoir — [[works/taiwaneseamericanhistory-org/ourjourneys355|Our Journeys #355]]), 日本台灣之友會, 英國工黨台灣之友會, and 信賴台灣之友會 are separate bodies, not this organization — not absorbed.
 - **2010** — The LA group was active as a cultural presenter: Friends of Taiwan in LA presented the Bird & Water Dance Ensemble ([[works/taiwaneseamerican-org/friends-of-taiwan-in-la-presents-bird-water-dance-ensemble|event record]], era 2010), alongside its advocacy work.
+- **2014-10-02** — The group hosted a press conference for a lecture by political commentator 祈夫潤 (reported by 台灣公義網), an early instance of 台灣之友會 as a speaking-forum host alongside its advocacy work ([[articles/taiwanjustice-net/2023/20230607064649_tag_演講_079eeff81541fcbe|TJJ 演講 tag listing]]).
+- **2025-02-14** — 台灣之友會 held 「金蛇喜迎春－新春聯歡晚會」 at 大直典華飯店 (Taipei), attended by 蔡英文 (remarks urging support for President 賴清德), 林佳龍, 陳時中, 莊瑞雄 — the third dated instance of the annual Spring Festival banquet series (2021-02-20, 2022-03-13, 2025-02-14), confirming a recurring event rather than isolated engagements ([[articles/taiwanjustice-net/2025/20250428211134_蔡英文_台灣未來挑戰比過去8年困難-請支持賴總統_d73410f82818ab70|TJJ report]]); same HOLD applies on chapter attribution for the Taiwan-side event.
 - **2022-03-13** — 台灣之友會's 「感恩迎新春聯歡之夜」drew President 蔡英文 (with 沈榮津, 徐國勇, 鄭文燦); media figure 鄭弘儀 auctioned 蔡總統簽名的烏克蘭色口罩 for NT$52萬 donated to Ukraine, attendees chanting 「支持烏克蘭、台灣加油」([[articles/taiwanjustice-net/2026/20260209110102_台灣之友會晚宴_蔡總統簽名口罩義賣52萬捐烏克蘭_f720e8e1ae449c02|TJJ report]]). Shows the organization active in Taiwan itself in 2022; the Taiwan-side event is not documented as run by the LA chapter — HOLD: chapter attribution unclear.
 
 ## Related Pages
