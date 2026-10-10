@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-10
 ---
 # Prof. Je-Chin Han (黃界清教授)
 
@@ -59,3 +59,4 @@ _No filled family fields on the TAH profile._
 _Corpus re-grep 2026-09-26 (slice 09260317-24): SKIP — fresh ZH+EN grep hit set identical to previously absorbed records (own #52/#604, award-77, Our Journeys 129, works index, taiwanjustice.net echoes); verified saturated._
 _Corpus re-grep 2026-09-25 (slice 09250800-9): SKIP — hit set identical to previously absorbed records; no new corpus material; verified saturated._
 _Corpus re-grep 2026-09-27 (slice 09260700-12): SKIP — fresh ZH+EN grep hit set identical to previously absorbed records (own #52/#604, award-77, Our Journeys 129, works index, taiwanjustice.net echoes); verified saturated._
+_Corpus re-grep 2026-10-10 (slice 10090600-4): SKIP — fresh ZH+EN+email grep hit set identical to previously absorbed records (own #52/#604, award-77, Our Journeys 129, works index, taiwanjustice.net echoes of the 2012 op-ed and NATPA award notices); substring hits on 界立建/顧立雄 are other persons, not him; no memoir mentions; verified saturated._
