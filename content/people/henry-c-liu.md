@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 <!-- deepen-x slice 10051200-4 (2026-10-06): fresh grep (Henry C. Liu / Henry Liu / 劉敏) of works/articles/sources/events/topics -> same hit set (whoswho1374 own record; ourjourneys37/38-eng + Formosa Betrayed pieces all refer to writer 江南/劉敏 per HOLD). No new work names this engineer. Verified-saturated, SKIP. -->
 # Henry C. Liu
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 
 - Corpus re-scan 2026-10-08 (deepen-x slice 10061023-3): fresh grep (Henry C. Liu / Henry Liu / 劉敏) across works/ + articles/ + sources/ + events/ + topics/ — same hit set (whoswho1374 own record; ourjourneys37-eng / ourjourneys38-eng / Formosa Betrayed pieces all refer to writer 江南/劉敏 per the identity HOLD, not this engineer). No new work names this person. SKIP: verified-saturated.
 - Corpus re-verify 2026-10-09 (deepen-x slice 10080500-23): fresh grep (Henry C. Liu / Henry Liu / 劉敏) across works/ + articles/ + sources/ + events/ + topics/ — same hit set (whoswho1374 own record + works/index.md harvest listing; ourjourneys37-eng / ourjourneys38-eng / Formosa Betrayed pieces all refer to writer 江南/劉敏 per the identity HOLD, not this engineer). Secondary sweep (Lihpao / bioengineering) — zero corpus hits; no new work names this engineer. SKIP: verified-saturated.
+- Corpus re-verify 2026-10-10 (deepen-x slice 10091316-2): fresh grep (Henry C. Liu / Henry Liu / 劉敏) across works/ + articles/ + sources/ + events/ + topics/ — same hit set (whoswho1374 own record + works/index.md harvest listing; ourjourneys37-eng / ourjourneys38-eng / Formosa Betrayed pieces all refer to writer 江南/劉敏 per the identity HOLD, not this engineer). Secondary sweep: `Lihpao|利寶` — sole hit is taiwanjustice-net 2024-01-03 election-poll article, a false match on 「勝利寶座」 (not the company); `bioengineering` hits are unrelated tech articles. No new work names this engineer. SKIP: verified-saturated.
