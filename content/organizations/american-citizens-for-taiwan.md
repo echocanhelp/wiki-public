@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # American Citizens for Taiwan (西雅圖美台會)
 
@@ -27,6 +27,8 @@ American Citizens for Taiwan (ACT) is a U.S. nonprofit organization composed of 
 - Karen Lin, ACT Engagement Director and former executive director of the Taiwanese American Foundation, spoke on an SF 228-events discussion panel ([[works/taiwaneseamerican-org/a-personal-discussion-panel-in-sf-on-the-events-of-228-taiwanese-american-perspe|SF 228 panel]]).
 - Chieni McCullough signed the Pew-era Taiwanese American community statement listed as "Chieni McCullough, American Citizens for Taiwan" ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew-era community statement]]).
 - Directory record held in the corpus: [[works/taiwaneseamericanhistory-org/american-citizens-for-taiwan|ACT 西雅圖美台會 (TAH directory, 2018-06-26)]].
+- Disambiguation — a *different* organization, American Citizens of Taiwan Origin (ACTO) 美台公民協會, appears in the TAH corpus and must not be conflated with ACT 西雅圖美台會: see [[works/taiwaneseamericanhistory-org/american-citizens-of-taiwan-origin-acto|ACTO 美台公民協會 (2015-08-05)]] and its scholarship record [[works/taiwaneseamericanhistory-org/40-american-citizens-of-taiwan-origin-acto-realco-second-spring-scholarship-awar|ACTO Realco Second Spring Scholarship Award]].
+- Corpus check 2026-10-10 (slice 10090315-30): fresh 5-dir grep (EN + 西雅圖美台會) — person/org hit set identical to the records already wikilinked above + index only; loose 'ACT' substring matches unrelated records (FAPA chapters, ACTO above, 'ACT I/II/III' prose in memoirs) — SKIP (saturated), ACTO disambiguation added.
 - Corpus check 2026-09-21 (slice 09201400-13): re-grepped content/works + content/articles — hit set identical to the records already wikilinked above; no new absorbable material.
 - Corpus check 2026-09-22 (slice 09211300-14): re-grepped content/works + content/articles (EN + 美台會) — hit set identical to the records already wikilinked above (TAH directory, Heart-and-Soul intro, Pew statement, top-10 FB, SF 228 panel, Sunflower list) + index only; no new absorbable material — SKIP (saturated).
 - Corpus check 2026-09-22 (slice 09220800-11): re-grepped (EN + 美台會) — hit set identical (TAH directory, Pew statement, top-10 FB, SF 228 panel, Sunflower list) + index only — SKIP (saturated).
