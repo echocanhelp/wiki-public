@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-10-10
 ---
 # Chi-Jen Christopher Chung (鍾啓仁)
 
@@ -66,3 +66,14 @@ Facts already present in vault pages (no new sources):
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen-X10090600-11 pass (2026-10-10)
+
+Corpus re-grep found two additional TAH encyclopedia records held in the vault, not previously cited on this page:
+
+- [[works/taiwaneseamericanhistory-org/whoswho407|TAH #407 — Chijen Christopher Chung 鍾啟仁 (2015-04)]] — published 2015-05-10. Title uses the variant 鍾啟仁 for the same person as 鍾啓仁 (graphetic variant of the given name, not a conflict).
+- [[works/taiwaneseamericanhistory-org/muscian343|TAH #343 — Chijen Christopher Chung, Music Director/Conductor (2016-06)]] — published 2016-06-05; corroborates the Music Director and Conductor post at CYCNY from 2013- listed in the tah-tables.
+
+CYCNY activity records in the corpus that document the orchestra's concerts during his tenure (no personal-name mention inside, so listed as context only): [[works/taiwaneseamericanhistory-org/photo-albums-activities-87|CYCNY Annual Concert 2015-06]], [[works/taiwaneseamericanhistory-org/18-holiday-concert-2018-by-youth-orchstra-cycny-e7-b4-90-e7-b4-84-e5-b9-bc-e7-8d|Holiday Concert 2018, Bayside NY 2018-12-16]], [[works/taiwaneseamericanhistory-org/publications657|CYCNY 2015-04/05 Music TAPE]].
+
+No memoir/article hits under 鍾啓仁 / Christopher Chung / family names (鍾克紀, 顏惠美, Robert Delsite) outside the TAH encyclopedia entries already cited. No conflicts to hold.
