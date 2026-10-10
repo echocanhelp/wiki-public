@@ -162,3 +162,5 @@ Accomplishment
 <!-- TJJ-A10081501-5: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10081501-5 article 2fa1c26a7ca674e2 (台美人台加人 p359, 2024-07-18 快照) read fresh this attempt: subject link 許丕龍 re-checked vs 正文 —「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段/2011-10-30」條目確認見於正文, real, no wrong/spurious links; 2011-10-30 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090601-5: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-5 article 31b7081a5d37939f（化作千風－懷念台美人的人權鬥士、台獨先鋒王泰和 [追思會影音], 2022-07-12 刊）: subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090701-1: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-1 article e3440fec3eed8107 (籌謀台灣「不流血革命」的獻策高手原來是他 ◎ 陳昭南, TJJ 2022-05-09): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -74,3 +74,5 @@ _Corpus re-scan 2026-09-22: fresh grep works/articles returns the same hits (#66
 <!-- TJJ-A10060600-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-1 articles (e3440fec3eed8107 籌謀台灣不流血革命: 江昭儀 link (洛城在地、美國美麗島週報社共同組成團隊) — subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070800-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-1 article e3440fec3eed8107 (籌謀台灣「不流血革命」的獻策高手原來是他 ◎ 陳昭南, TJJ 2022-05-09): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090701-1: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-1 article e3440fec3eed8107 (籌謀台灣「不流血革命」的獻策高手原來是他 ◎ 陳昭南, TJJ 2022-05-09): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

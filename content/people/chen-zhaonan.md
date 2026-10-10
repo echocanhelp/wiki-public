@@ -11772,3 +11772,5 @@ Notable quotes and mentions of **陳昭南** in Taiwan Justice articles:
 <!-- TJJ-A10060400-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-5 articles (taiwanjustice-net/index 存檔索引頁): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-5: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-5 article taiwanjustice-net/index (存檔索引頁): subject link(s) re-checked vs 正文 this attempt (列名於 Key Entities／Column Authors), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090701-1: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-1 article e3440fec3eed8107: author link 陳昭南 (本文作者、台灣最後一個政治犯自述) re-checked vs 正文 this attempt, real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
