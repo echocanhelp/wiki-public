@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Thomas Shu (許正龍)
 
@@ -81,6 +81,7 @@ Founding member and board member of the American Premium Tea Institute (now merg
 ## Role in the Community
 
 - 台灣茶葉推廣：與妻潘掬慧以「台灣茶大使」身分在萬國節（International Festival）推廣台灣好茶（[[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys #123]]）；並曾在芝加哥主辦台灣茶實體工作坊（[[works/taiwaneseamerican-org/thomas-shu-ambassador-of-taiwan-tea-presents-a-hands-on-tea-workshop-in-chicago|TA 電子報, 2011-04-17]]；茶葉大使專題見 [[works/taiwaneseamerican-org/ambassadors-of-taiwan-tea|Ambassadors of Taiwan Tea]]）。
+- 茶產業專業：第三代茶業傳人，家族經營茶業60餘年，與亞洲、歐洲、美國多家茶公司及進口的合作經驗；受邀為 World Tea Expo 專業講師，並在美國各地會議與教育機構演講。2007年3月獲台灣製茶公會頒授「台灣茶葉大使」榮譽頭銜（[[works/taiwaneseamerican-org/ambassadors-of-taiwan-tea|TA 電子報專訪]]；與妻潘掬慧同為茶大使，皆出身新竹，產區以東方美人/膨風茶聞名）。
 - 社團連結：北美臺灣客家公共事務協會（徐民忠紀錄文）的網站設計及管理署名許正龍（Thomas C. Shu, abctea@gmail.com），顯示他以專長支援台美社團（[[works/taiwaneseamericanhistory-org/ourjourneys290|Our Journeys #290]]）。
 - 自傳頁見 TAH 人物傳記（[[works/taiwaneseamericanhistory-org/68-thomas-shu-e8-a8-b1-e6-ad-a3-e9-be-8d-the-first-ambassador-of-taiwan-tea-e7-a|TAH #68（2007，第一任台灣茶葉大使）]]、[[works/taiwaneseamericanhistory-org/114-thomas-shu-e8-a8-b1-e6-ad-a3-e9-be-8d|TAH #114]]）。
 
