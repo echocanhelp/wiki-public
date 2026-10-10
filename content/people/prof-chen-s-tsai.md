@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-10-10
 ---
 # Prof. Chen S. Tsai (蔡振水教授)
 
@@ -64,6 +64,13 @@ last_reviewed: 2026-09-11
 - Campus/community context already in the vault at his UCI post: [[organizations/taiwan-national-organization-at-uci||Taiwan National Organization at UCI]], alongside the TSA/TGSA/TAO pages noted in the 2026-09-11 pass above.
 - Family cross-link confirmed: daughter/son fields match the spouse page [[people/prof-shirley-cheng-tsai||Prof. Shirley Cheng Tsai (鄭秀蘭)]].
 - No new biography invented; no additional vault-sourced facts remained after this pass.
+
+## Role in the Community (deepen pass 2026-10-10, slice 10090315-3)
+
+- **Pittsburgh community leadership:** during his Carnegie-Mellon chairmanship (1969–1980) he served as president of the Pittsburgh chapter of the Taiwanese Association of America — 胡民祥's documentary study [[works/taiwaneseamericanhistory-org/ourjourneys292|292. 早年匹茲堡台灣同鄉會簡介與歷屆會長考證]] (2017-06, band A) places him as 會長 in the 1974–1975 台灣同鄉錄 roster (the roster lists no president explicitly; the 考證 infers the first-listed 幹事 as president by convention, so the exact year is 推定). See also [[organizations/taiwanese-association-of-america-pittsburgh|Taiwanese Association of America — Pittsburgh]].
+- **First-person writing in the corpus:** his 自傳 is held as [[works/taiwaneseamericanhistory-org/mystories177|177. 蔡振水自傳 (2015-01)]] — full text stays in the vault.
+- **Essay:** [[works/taiwaneseamericanhistory-org/mystories601|601. 獻給彰女傑出校友的讚美和感言 (2017-11)]] is attributed to 蔡振水 in the story corpus. HOLD: the 彰女 (Changhua Girls' High School) framing does not match the Miaoli birthplace on this page — attribution may be to a namesake; not merged.
+- No new biography invented; dates above are as stated in the cited corpus records.
 
 ## Sources
 - [TAH #27 encyclopedia: 27. Prof. Chen S. Tsai 蔡振水教授](https://taiwaneseamericanhistory.org/27-prof-chen-s-tsai/)
