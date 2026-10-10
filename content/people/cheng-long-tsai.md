@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Cheng Long Tsai (蔡正隆博士)
 
@@ -65,3 +65,5 @@ _Corpus re-grep 2026-09-24 (slice 09230500-6): works+articles hits for 蔡正隆
 - c. 1989-08 — During that return trip his wife 葉明霞 (Cecelia) joined the 「代夫出征」 campaign: standing on a propaganda car through the streets ahead of the 演講會 wearing the sash 「台灣獨立建國聯盟中央委員蔡正隆夫人」, the photo published on the front page of 自由時報 the next day — 張丁蘭 memoir [[works/taiwaneseamericanhistory-org/ourjourneys210|Our Journeys #210 返鄉記]].
 - 2016-10 — 梁金城's memorial essay 「追憶 蔡正隆—台灣獨立義士」 published in the TAH story corpus ([[works/taiwaneseamericanhistory-org/mystories469|TAH #469]], bibliographic record only).
 - Press photo-archive record: a 陳文成事件 42週年 「開箱老照片」 feature re-published the hearing-era photos in 2025 ([[articles/taiwanjustice-net/2025/20250521072528_開箱老照片_陳文成事件42週年_949795df4799ea38|台灣正義網絡, 2025-05-21]]; duplicate 2024-02-24 variant also filed) — corroborating press record, no new biographical facts.
+
+_Corpus re-grep 2026-10-10 (slice 10081300-29): ZH+EN+alias grep (蔡正隆 / Cheng Long Tsai / 蔡巫福) across all 5 corpus dirs returns the identical saturated hit set already absorbed above (Our Journeys #8 EN/ZH, #106, #106-timeline, #210, #230, #234, #292 EN+ZH, #321, mystories469, cheng-long-tsai-fund, TAH #262《燭火闖關》, plus the two 台灣正義網絡 press variants). The only delta vs the 2026-09-24 re-grep is the English translation [[works/taiwaneseamericanhistory-org/ourjourneys292-eng|Our Journeys #292-eng]], which restates the softball-captain passage already recorded — no new facts, no conflicts. Verified saturated; last_reviewed bumped._
