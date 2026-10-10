@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Rev. R. H. Chang (張瑞雄牧師)
 
@@ -79,3 +79,6 @@ Accomplishment
 - **舊金山灣區台語教會開拓者**：據 [[works/taiwaneseamericanhistory-org/our-journeys-357|TAH #357 舊金山灣區臺灣人的社團活動與家國意識之形成／何義麟（2020/08）]]（value band A），張牧師為灣區台灣教會開拓者，於舊金山神學院畢業後留加州任衛理公會神職人員並向灣區台灣人宣教；1971 年間灣區台灣人基督徒漸增、出現籌設教會之議，1975-08-10 衛理公會轄下灣區第一間台語教會「舊金山灣區臺灣基督教會」（FUMC）正式成立；1979 年後分北南兩區，1982 年部分信徒於 Walnut Creek 另設「東灣臺灣基督教會」（EBFUMC），南區 1983 年自購教堂、自衛理公會獨立為「迦南臺灣基督教會」（CTCC）。北加州三會系出同源，教徒多同時參加同鄉會、聯合會與協志會。何義麟並曾親訪張牧師，為該文文獻與採訪之重要來源。
 - **本人亦為本庫作者**：[[works/taiwaneseamericanhistory-org/my-stories-779|TAH #779 憶張村樑長老（2021/01）]]、[[works/taiwaneseamericanhistory-org/601-e5-8f-b0-e7-81-a3-e4-ba-ba-e7-9a-84-e5-85-88-e8-a6-ba-e9-bb-83-e5-bd-b0-e8-b|TAH #601 台灣人的先覺—黃彰輝傳記（2004/08）]]。
 - 紀念傳述：[[works/taiwaneseamericanhistory-org/my-stories-709|TAH #709 忠實於上主的僕人—張瑞雄牧師／廖安惠（2019/11）]]。
+- **本人傳記**：[[works/taiwaneseamericanhistory-org/72-e5-8f-b0-e7-81-a3-e4-ba-ba-e7-9a-84-e5-85-88-e8-a6-ba-e5-bc-b5-e7-91-9e-e9-9b|TAH #72 台灣人的先覺—張瑞雄（2004/08，傳記）]]——以他為傳主的專書傳記。
+- **灣區教會史料之關鍵受訪者**：據 [[works/taiwaneseamericanhistory-org/our-journeys-350|TAH #350 美國舊金山灣區台灣基督教會史料簡介／何義麟（2019/11）]]（value band A），何義麟自稱「最早在灣區宣教的張瑞雄牧師」為其文獻與採訪之最重要來源；文中含張牧師台南神學院就學時期照片（圖01）與 **2015 年於東灣台灣基督教會講道**照片（圖02）——顯示其 1991–1999 東京宣教之後仍持續於灣區教會講道事奉。
+- **英文名與 FPCLA 建堂細節**：據 [[works/taiwaneseamericanhistory-org/ourjourneys231-eng|TAH #231 英文版（2020/12）]]，張牧師英文名 **Rei-Hsiung Chang**；FPCLA 亦稱 Olympic Church；建堂程序：1970-08 首次聚會→1971-05 向 PCUSA 申請新堂監督→1971-09 禮聘首位 organizing pastor→1973-05-20 正式昇堂會；1971-07 起於 Wilshire Crest Presbyterian Church 聚會，1974 年該堂申請關閉後產業轉予 FPCLA。
