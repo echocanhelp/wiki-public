@@ -87,4 +87,6 @@ HOLD: conflict — spouse page linked as 江美惠 vs corpus work page listing �
 
 <!-- DEEPEN-X10081400-9: verified 2026-10-10 — fresh grep 盧志華/Matthias across all 5 corpus dirs (works/articles/sources/events/topics) returned the identical already-absorbed hit set (TAH #1077, Our Journeys #33 EN, 楊遠薰《卓甫良與TAF的故事》×3 存檔) plus the known false positive Matthias Warnig (Nord Stream 2, unrelated Biden–Putin coverage) — verified saturated, no new material. -->
 
+<!-- TJJ-A10090601-3: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-3 article f06677a469620539 (卓甫良與TAF的故事, 楊遠薰, 2021-06-22 刊, 2021-12-05 快照): subject link re-checked vs 正文 this attempt (盧志華任TAF第六任會長、1991年起啟用林志文等第二代), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 <!-- TJJ-A10090601-4: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-4 article e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

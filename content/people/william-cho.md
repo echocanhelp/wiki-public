@@ -92,4 +92,6 @@ last_reviewed: 2026-10-09
 
 <!-- DEEPEN-X10080958-3: 2026-10-09 — fresh ZH+EN grep (卓甫良|William Cho|Bill Cho) across works/articles/sources/events/topics: 23 hits, all previously-absorbed records re-confirmed; 1 new finding absorbed = name collision with Pastor William Chou (FUMC) in the TAF–HK community event report, flagged not merged. Other new hits (TJJ tag/category/root index pages 20211023203908／20231208132712／20240302035910／20240302023953／20240425152858／20230530140153) are listing pages whose only mention is the article title 卓甫良與TAF的故事 — no new facts. -->
 
+<!-- TJJ-A10090601-3: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-3 article f06677a469620539 (卓甫良與TAF的故事, 楊遠薰, 2021-06-22 刊, 2021-12-05 快照): subject link re-checked vs 正文 this attempt (卓甫良為MFCF共同創辦人兼TAF第四任會長, 1987年起倫理價值主題, 伊利諾州核安鑑定專家, 2002年底退休), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 <!-- TJJ-A10090601-4: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-4 article e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

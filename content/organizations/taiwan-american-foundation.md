@@ -57,3 +57,5 @@ HOLD: corpus records titled "台美協進會" — [[works/taiwaneseamericanhisto
 <!-- TJJ-A10060600-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-2 articles b4206bcf0ec508d6／f06677a469620539／e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》三存檔副本, TAF台灣人協進會辨析): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070800-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-2 articles b4206bcf0ec508d6／f06677a469620539／e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》三存檔副本, 同文): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090601-3: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-3 article f06677a469620539 (卓甫良與TAF的故事, 楊遠薰, 2021-06-22 刊, 2021-12-05 快照): Subjects 以純文字列出台灣人協進會 TAF（MFCF 延續之青少年夏令營團體）並標注與本獎座基金會為不同組織；Name collision 段辨析（含本檔 wikilink 與創會幹部連結）經正文比對為真, 維持現況, 無需獨立建頁 — saturated, no new material. -->

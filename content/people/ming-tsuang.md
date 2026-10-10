@@ -119,4 +119,6 @@ last_reviewed: 2026-10-09
 
 <!-- TJJ-A10070800-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-2 articles b4206bcf0ec508d6／f06677a469620539／e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》三存檔副本, 同文): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
+<!-- TJJ-A10090601-3: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-3 article f06677a469620539 (卓甫良與TAF的故事, 楊遠薰, 2021-06-22 刊, 2021-12-05 快照): subject link re-checked vs 正文 this attempt (莊明哲任TAF創會會長, 1980年11月芝加哥理事會推選, 1981–82主題溝通), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 <!-- TJJ-A10090601-4: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-4 article e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
