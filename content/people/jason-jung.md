@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Jason Jung (莊吉生)
 
@@ -59,3 +59,5 @@ Corpus re-check 2026-09-26 (deepen-x slice 09260500-30): fresh ZH+EN grep of wor
 Re-verified 2026-10-08 (deepen-x slice 10062334-4): fresh ZH+EN grep (莊吉生 / Jason Jung) across works/articles/sources/events/topics — hit set identical (own TAH #1936 record, Team Taiwan interview, taiwanjustice 網球戰士莊吉生 roundups, index). Two apparent extra hits (2024-07, 2026-02 Khashoggi files) carry no 莊吉生/Jung content — grep matched other strings. Verified-saturated; SKIP-no-new-facts.
 
 Re-verified 2026-10-09 (deepen-x slice 10080500-15): fresh ZH+EN grep (莊吉生 / Jason Jung) across works/articles/sources/events/topics — hit set unchanged: own TAH #1936 record, Team Taiwan interview, three taiwanjustice 網球戰士莊吉生 roundups, plus index/related-page listings and unrelated "Jung"-surname entries (Pei Jung Lin, Jung T. Tsai, Anita Chia-Jung Lin) that are not this person. No new memoir/community material. SKIP: verified-saturated.
+
+Re-verified 2026-10-10 (deepen-x slice 10090900-15): fresh ZH+EN+given-name grep (莊吉生 / Jason Jung / 吉生) across works/articles/sources/events/topics — hit set identical to prior audits: own TAH #1936 record, Team Taiwan interview, taiwanjustice 網球戰士莊吉生 roundups, index/related listings. The 2024-07 and 2026-02 Khashoggi-file hits match only the substring 吉生 inside 哈紹吉 — no 莊吉生 content. No new memoir/community material. SKIP: verified-saturated.
