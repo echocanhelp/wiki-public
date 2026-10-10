@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-10-10
 ---
 # Hsin-Cheng Hsiao (蕭新晟)
 
@@ -43,6 +43,18 @@ organizing scene and Taiwan's "Third Force" politics:
   at the National Archives, ~16,000 processed at launch, with plans to extend to
   Japanese and Dutch colonial-era archives. See
   [[articles/taiwanjustice-net/2024/20240425143841_root_d563b095f72513c7|TWJ 轉載自由時報：國家寶藏計畫]].
+- **國家寶藏 hackathon debut (2017 TACEC):** The project was premiered publicly as a
+  hackathon track at the 2017 U.S. East Coast Taiwanese Summer Camp (TACEC, 2017-07-01~04,
+  West Chester University, PA), run by 海外台灣青年陣線 (OTD); the 國家寶藏 team "搜索到所有
+  美國官方有關台灣議題的記錄文件" among 8 OTD projects, per 楊遠薰's eyewitness column
+  [[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|海台青與黑客松]].
+  Hsiao later led a 國家寶藏 project team at the OTD hackathon workshop
+  ([[organizations/overseas-taiwanese-for-democracy|海外台灣青年陣線]]). Community coverage:
+  "挖掘史料 台美人推國家寶藏計畫" ([[works/taiwaneseamericanhistory-org/tw-85|TAH story #85]],
+  2017-07-10) and "台青年探索台灣史 美國國家檔案局挖寶"
+  ([[works/taiwaneseamericanhistory-org/relate-tw-86|TAH story #86]], 2017-09-21). The effort
+  is recorded as [[organizations/taiwan-national-treasure-foundation|Taiwan National Treasure
+  Foundation 國家寶藏基金會]].
 - **Cafe Philo New York:** In the post-Sunflower years Cafe Philo's New York chapter
   was particularly active, holding weekly talks and forums near Times Square, using
   offices that Hsiao used for his company — a hub where passing Taiwanese experts
@@ -67,6 +79,11 @@ HOLD: conflict — the republication header dates the 國家寶藏 report 2017-0
 website went online "recently", implying a 2018 original; launch year not
 auto-merged.
 
+HOLD: conflict — this page said the 國家寶藏 project started "summer 2017"; the
+Taiwan National Treasure Foundation org page dates the launch (旅美台人蕭新晟、林育正、
+莊士杰) to summer 2016, with the site + app launching 2017-09. Kept both as-is;
+2016 start vs 2017 public debut (2017-07 TACEC hackathon) may reconcile.
+
 HOLD: conflict — the Our Journeys memoir says he "ran" for councillor in 2018
 (election outcome unstated); TAH Who's Who lists the NPP CTO role for the same
 period. Kept both as-is.
@@ -86,6 +103,16 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/whos-who-1927-hsin-cheng-hsiao|TAH Who's Who #1927]] — own entry
 - [[articles/taiwanjustice-net/2024/20240425143841_root_d563b095f72513c7|TWJ：國家寶藏計畫報導]] — mentioned in this record
 - [[articles/taiwanjustice-net/2023/20230930223545_2023_09_18_北市議員林亮君申請加入民進黨-推薦人為賴清德_1aaf45127a1ddb3e|TWJ：林亮君入黨報導]] — mentioned in this record
+- [[organizations/taiwan-national-treasure-foundation|Taiwan National Treasure Foundation]] — co-founded
+- [[organizations/overseas-taiwanese-for-democracy|海外台灣青年陣線 (OTD)]] — 2017 hackathon workshop
+- [[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|楊遠薰：海台青與黑客松]] — 2017 TACEC eyewitness
+- [[works/taiwaneseamericanhistory-org/tw-85|TAH story #85：挖掘史料 台美人推國家寶藏計畫]] — mentioned in this record
+- [[works/taiwaneseamericanhistory-org/relate-tw-86|TAH story #86：台青年探索台灣史 美國國家檔案局挖寶]] — mentioned in this record
 
-## Corpus re-grep (2026-09-20, slice 09181500-1)
-- Re-grep 蕭新晟/Hsin-Cheng Hsiao against content/works + content/articles: hits = our-journeys-373, own TAH #1927 record, works index, and the two TWJ articles (國家寶藏報導, 林亮君入黨報導) — all already absorbed in Role in the Community and wikilinked above. Re-read the #373 Cafe Philo passage and the 自由時報 國家寶藏計畫 passage: no facts beyond those already absorbed; both HOLD notes maintained. SKIP-no-new-material.
+## Corpus re-grep (2026-10-10, slice 10081500-32)
+- Re-grep 蕭新晟/Hsin-Cheng Hsiao/新晟 across works/articles/sources/events/topics: no
+  new person-name hits beyond those already absorbed (our-journeys-373, own TAH #1927,
+  works index, sources page, two TWJ articles). Related-project grep (國家寶藏 / National
+  Treasure / hackathon) surfaced 4 previously-unlinked records now absorbed above:
+  楊遠薰 海台青與黑客松 column, org page taiwan-national-treasure-foundation, TAH stories
+  #85 and #86. One new HOLD (2016 vs 2017 launch). 1 deepened.
