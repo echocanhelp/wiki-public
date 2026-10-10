@@ -86,3 +86,5 @@ HOLD: conflict — spouse page linked as 江美惠 vs corpus work page listing �
 <!-- TJJ-A10070800-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-2 articles b4206bcf0ec508d6／f06677a469620539／e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》三存檔副本, 同文): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- DEEPEN-X10081400-9: verified 2026-10-10 — fresh grep 盧志華/Matthias across all 5 corpus dirs (works/articles/sources/events/topics) returned the identical already-absorbed hit set (TAH #1077, Our Journeys #33 EN, 楊遠薰《卓甫良與TAF的故事》×3 存檔) plus the known false positive Matthias Warnig (Nord Stream 2, unrelated Biden–Putin coverage) — verified saturated, no new material. -->
+
+<!-- TJJ-A10090601-4: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-4 article e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
