@@ -264,7 +264,11 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 ## From the record
 - 複核（TJJ-A10030400-5, 2026-10-05）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|17835ad9]]（2016-06-12 會館第十屆董事會報導）正文再驗證——田詒鴻當選第一副董事長確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2016-06-11 條目已在庫 — SKIP，已飽和。
 
+- 複核（TJJ-A10081501-8, 2026-10-10）：本 slice 文章 f631078d99d9924d（海外小英後援會助選團返台助選, 2020-01-06）正文再驗證——田詒鴻以會長身分「世代交替非常正面成功」談話確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2020-01-06 條目已在庫 — SKIP，已飽和。
+
 - 複核（TJJ-A09260600-3, 2026-09-27）：本 slice 文章 f631078d99d9924d（海外小英後援會助選團返台助選, 2020-01-06）正文再驗證——田詒鴻以會長身分分享世代交替觀察確認見於正文，連結為真；2020-01-06 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
+
+<!-- TJJ-A10081501-8: verified 2026-10-10 — subject link f631078d re-checked vs 正文, real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - 複核（TJJ-A09260500-10, 2026-09-27）：本 slice 文章 afdbd8b27a42563d（洛杉磯台灣會館重建動土, 2025-05-04）正文再驗證——田詒鴻以董事長/國策顧問身分主持動土、盼世代傳承台灣認同，確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2025-05-03 日期事實條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
 
