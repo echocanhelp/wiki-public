@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Cheng Y. Chuang (莊承業)
 
@@ -45,6 +45,11 @@ last_reviewed: 2026-09-25
 - CORPUS SCAN (2026-09-23, slice 09221100-15): exact-name re-grep 「莊承業／Cheng Y. Chuang」 returns only his already-linked works (318, 233, 1124, 1252, ourjourneys244 memoir, TFCU album #39, OJ#370); remaining loose matches are same-surname distinct people (莊子賢 Tze-jer Chuang, Henry Chuang) — no new corpus facts to absorb.
 - CORPUS SCAN (2026-09-25, slice 09250900-2): exact-name re-grep 「莊承業／Cheng Y. Chuang」 over works/+articles/ returns the same linked set (318, 244, 233-eng, album #39, 1252, 1124) — hit set identical to all prior scans; verified saturated, SKIP-deepen.
 - CORPUS SCAN (2026-09-25, slice 09240600-7): exact-name re-grep 「莊承業／Cheng Y. Chuang／Eddie Chuang」 over works/+articles/ returns the same six works already linked above (318, #370, 244, 76-eng roster, 233-eng, album #39) — hit set identical to all prior scans; verified saturated, SKIP-deepen.
+- **Autobiography & credit-union record (CORPUS SCAN 2026-10-09, slice 10080951-17):** authored his own autobiography [[works/taiwaneseamericanhistory-org/publications-1356|1356. 莊承業的回憶錄]] (06/2021); the credit-union corpus runs deeper than the 2015 album — his 20-year history of the co-op [[works/taiwaneseamericanhistory-org/ourjournets86|86. The beginning and the end of TAFCU / 德州台灣信用合作社二十年的成長]] (01/2015), the documentary collection [[works/taiwaneseamericanhistory-org/publications-482|482. 德州台灣信用合作社專集]] (2014), and the anniversary video he supplied [[works/taiwaneseamericanhistory-org/videos5-taiwanese-american-federal-credit-union-twentieth-anniversary|TAFCU 20th-anniversary video]] (01/2015). His personal archive is catalogued as [[works/taiwaneseamericanhistory-org/collection-of-mr-cheng-y-chuang|17. Collections of Mr. Cheng Y. Chuang]].
+- **More authored histories:** [[works/taiwaneseamericanhistory-org/publications1161|1161. 休士頓的脚印(一)]] (01/2018, the first installment that later grew into 1252) and [[works/taiwaneseamericanhistory-org/ourjourneys307|307. 休士頓地區的台美人及團體發行的刊物簡介]] (08/2017, a survey of Houston Taiwanese-American publications).
+- **Career & political profile:** ourjourneys106's biographical roster records him as a 成大土木系 graduate with an M.S. from Missouri-Rolla working at Kellogg Engineering, who suffered for supporting the 台灣獨立聯盟 — "因支持台灣獨立聯盟得罪國民黨，並牽累其太座" — with the roster noting his wife 李惠美 "絲毫未涉及政治" (entirely uninvolved); it lists him as 七六年同鄉會長、七八年全美會會長, consistent with the 1976–1978 TAA presidency already stated above.
+- **Award:** received the United Way of Greater Houston's Commitment to Leadership Award 休士頓聯合公益基金會領導卓越獎 in 1999 ([[works/taiwaneseamericanhistory-org/winners52|winners52]]); his Who's Who entry itself is in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-266-cheng-y-chuang|266. Cheng Y. Chuang 莊承業]] (02/2015).
+- CORPUS SCAN (2026-10-09, slice 10080951-17): fresh ZH+EN grep over works/articles/sources/events/topics (20 hits) surfaced 8 previously-unlinked corpus records (1356, 482, 1161, 86, 307, collection #17, winners52, videos5) plus roster detail in ourjourneys106 — all absorbed above; no date/age conflicts found.
 
 ## Sources
 - [TAH #116 encyclopedia: 116. Cheng Y. (Eddie) Chuang 莊承業](https://taiwaneseamericanhistory.org/116-cheng-y-eddie-chuang/)
