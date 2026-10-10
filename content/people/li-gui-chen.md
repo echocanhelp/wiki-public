@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Li Gui Chen (陳麗貴)
 
@@ -81,3 +81,5 @@ Accomplishment
 <!-- TJJ-A10070700-8: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-8 article 1f001897255f71a7 (《好國好民》全美放映座談會公告, 2011-11-08): subject link re-checked vs 正文（陳麗貴導演兼製片身分確認見於正文）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-15: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-15 article b5e568ec43e787f1 (《好國好民》Dear Taiwan美國巡迴放映座談會, 2011-10-15): 陳麗貴以導演兼製片身分列名正文 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10090500-14: verified 2026-10-10 — fresh grep 陳麗貴/Li Gui Chen across works/articles/sources/events/topics: hit set identical to prior runs (whos-who-1835, 月舞玫瑰 2020-11-21 report, 《好國好民》 2011-10-15 + 2011-11-08 tour notices), all already wikilinked above; surname/alias re-grep (李泳泉 etc.) no new hits — verified-saturated, 0 deepened, 1 skipped. -->
