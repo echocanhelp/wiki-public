@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Thomas Ming-Chien Wu (吳明杰)
 
@@ -73,3 +73,7 @@ Deepen pass 2026-09-14 (早期注記): cited vault records were bibliographic st
 ## Corpus re-check (slice 09142319-3, 2026-09-15)
 - 命中檔全部已連結並吸收：TAH #327、#801、#157（ff157）、TAH #16（回台任教）、Our Journeys 29。
 - 排除（寬鬆 grep 假陽性，本輪逐一核對）：[[works/taiwaneseamericanhistory-org/ourjourneys85-eng|Our Journeys #85（英文版）]] 命中者為 Thomas Liao 與 Chen-nan Wu，非本頁人物；[[works/taiwaneseamericanhistory-org/ourjourneys186-eng|Our Journeys #186（英文版）]] 命中者為 Thomas Liu、Raymond Wu 等，非本頁人物。均不合併。
+
+## Corpus re-check (slice 10081300-24, 2026-10-10)
+- 再次以「吳明杰 / Thomas Ming-Chien Wu / Ming-Chieh Wu / 明杰」遍搜五個 corpus 目錄，命中集合與 0915 輪完全相同：TAH #327、#801、#157（ff157）、TAH #16（回台任教屏東大學）、Our Journeys 29，均已連結並吸收於上列章節，無新素材可吸收。
+- 同名排除再確認：[[articles/taiwanjustice-net/2024/20240721111210_root_01acab92f6a50d18|2024-07-21 台灣正義網報導]] 之攝影記者「吳明杰」為同名台灣記者（該報導另有記者張忠義），非本頁人物，不合併。
