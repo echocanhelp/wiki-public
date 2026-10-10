@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-10
 ---
 # Dr. Daniel C. Hsu (許正雄醫師)
 
@@ -47,6 +47,7 @@ Facts absorbed from this page's own TAH tables and accomplishment entry (no exte
 - **2006–2007** — President (總會長), North American Taiwanese Medical Association (NATMA).
 - **2008–2009** — President, [[organizations/north-american-taiwanese-medical-association-foundation||NATMA Foundation]].
 - **2010–2018** — President (董事長), NATMA Foundation / S. CA Chapter.
+- **2021** — Co-initiator (共同發起人) of the Southern California overseas community's joint statement supporting Taiwan's participation in the World Health Assembly; as one of three NATMA 總會長 who had led Geneva advocacy delegations (with 林榮松 and 邱俊杰), he joined the "Taiwan-in-WHO" forum at the 大洛杉磯台灣會館 (2021-04-18).
 
 ## Family
 
@@ -58,6 +59,7 @@ Facts absorbed from this page's own TAH tables and accomplishment entry (no exte
 
 - **Author** of the NATMA Foundation Southern California chapter's own history: [[works/taiwaneseamericanhistory-org/project-3-45|TAH #45 北美洲台灣人醫師協會基金會南加分會簡介]] ([[works/taiwaneseamericanhistory-org/project-3-45-eng|English version: History of NATMA Foundation]]) — he wrote the chapter record himself.
 - **2020 — WHA advocacy:** per the [[articles/taiwanjustice-net/2025/20250317171814_202776_fbaac1a916f7fe57|taiwanjustice.net report 北美醫界挺台灣參與WHO]], NATMA's Geneva advocacy delegations made five trips (up to 120 participants); 許正雄 is quoted as a former delegation leader (曾經率團出征).
+- **2021 — WHA coalition:** 2021-05-17 南加州僑界支持台灣參與世界衛生大會 WHA 聯合聲明 — [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|joint statement]] lists him as co-initiator (共同發起人); 2021-04-18 大洛杉磯台灣會館 "台灣入 WHO 論壇" — [[articles/taiwanjustice-net/2021/20210509160827_2021_04_18_大洛杉磯台灣會館生活講座_五_-台灣入who論壇5_6d9cd937dedb11f7|forum notice]] names him among the three delegation-leading 總會長 (林榮松、許正雄、邱俊杰).
 - **Church community:** listed as the Dentistry speaker in the medical health-lecture roster at [[organizations/irvine-taiwanese-presbyterian-church|ITPC 長老教會]].
 - His story is also told by 林蓮華 in [[works/taiwaneseamericanhistory-org/323-e8-a8-b1-e6-ad-a3-e9-9b-84-e7-89-99-e9-86-ab-e5-b8-ab-e7-9a-84-e6-95-85-e4-b|TAH #323 許正雄牙醫師的故事 (2015)]].
 
