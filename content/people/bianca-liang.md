@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Bianca Liang (梁沁茵)
 
@@ -49,6 +49,7 @@ Born in the United States, grow up in Taiwan, Bianca Liang started her musical t
 - This places her US performance activity in the Taiwanese American community circuit (Minnesota, 2015), alongside the TAH #156/#317 press-kit profile already on this page.
 
 ## Source Notes
+- Re-pass 2026-10-10 (deepen-x 10090700-3): corpus grep across works/articles/sources/events/topics found only ourjourneys128 + TAH #156/#317, all already absorbed and linked in the 2026-09-14 pass. No new corpus material; verification_status held at pending.
 - Deepen pass 2026-09-14: the timeline above is synthesized solely from the page's own TAH tables and the cited TAH #156 / #317 records (no web used); both vault copies are bibliographic stubs.
 - No vault pages exist for the music magnet school, Univ. of Minnesota, IU Jacobs School, Dr. Paul Shaw, Prof. Evelyne Brancart, or either scholarship, so no further wikilinks were added; university TSA/association pages exist but her membership is not stated in the sources, so they are not linked.
 
