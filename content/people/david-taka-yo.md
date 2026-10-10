@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # David Taka Yo (楊兆隆)
 
@@ -46,3 +46,5 @@ _No filled family fields on the TAH profile._
 Re-grep 2026-10-08 (deepen-x slice 10062334-6): fresh ZH+EN grep (楊兆隆 / Taka Yo / David Yo) across works/articles/sources/events/topics — hit set identical (ourjourneys311/-eng speaker lists for 「台灣自古對世界的貢獻」, our-journeys-391, #28 profile record, sources roster, index). Variant greps (Takahio Yo etc.) returned no additional material. Verified-saturated, SKIP new content.
 
 Re-grep 2026-10-09 (deepen-x slice 10080600-1): fresh ZH+EN grep (楊兆隆 / Taka Yo / David Yo / 兆隆) across works/articles/sources/events/topics — hit set identical to already-cited records (ourjourneys311/-eng, our-journeys-391, #28 profile, sources roster, works index); surname-variant sweep (David T*) returned only distinct people (David Chen 陳彥伯, David Tsay 蔡達). Verified-saturated, SKIP new content.
+
+Re-grep 2026-10-10 (deepen-x slice 10091400-1): fresh ZH+EN grep (楊兆隆 / Taka Yo / 兆隆) across works/articles/sources/events/topics — hit set identical (ourjourneys311/-eng speaker lists for 「台灣自古對世界的貢獻」, our-journeys-391, #28 profile record, sources roster, works index); surname sweep (楊遠薰 hits) returned only distinct people. Verified-saturated, SKIP new content.
