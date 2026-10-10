@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Jeffrey Liang (梁兆豐博士)
 
@@ -63,3 +63,5 @@ Corpus re-check (deepen-x slice 10051340-10, 2026-10-06): fresh ZH+EN grep (incl
 Corpus re-check (deepen-x slice 10070018-1, 2026-10-08): fresh ZH+EN grep of works/articles/sources/events/topics returned only the own records / passages already wikilinked above plus the works index — verified saturated, SKIP, no conflicts.
 
 Corpus re-check (deepen-x slice 10080600-17, 2026-10-09): fresh ZH+EN+partial-name (梁兆) grep of works/articles/sources/events/topics returned the same saturated hit set — the four own-archive records already wikilinked above (#96, #354, #530, #531) plus the works index and sources page; no third-party memoir mentions. Verified saturated, SKIP, no conflicts.
+
+Corpus re-check (deepen-x slice 10091500-10, 2026-10-10): fresh ZH+EN grep (梁兆豐 / Jeffrey Liang) of works/articles/sources/events/topics returned only the four own-archive records already wikilinked above (#96, #354, #530, #531) plus the works index. A broad 兆豐 probe surfaced only unrelated taiwanjustice-net stock articles about 兆豐銀行 (Mega Bank) — not this person. Verified saturated, SKIP, no conflicts.
