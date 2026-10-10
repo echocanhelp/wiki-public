@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-10
 ---
 # Jer-Shung Lin (林衡哲本名林哲雄)
 
@@ -38,6 +38,11 @@ last_reviewed: 2026-09-23
 - 1984 — 台灣醫界聯合總會（NATMA）南加分會催生者之一：與陳惠亭、陳政宏、洪章仁、陳清義召开數次籌備會議後於 9 月 15 日成立南加分會，為繼克城分會後第二個分會；不久即邀陳永興、洪奇昌演講，開啟「台美醫學交流研討會」構想（後成南加分會年會主節目）（[[works/taiwaneseamericanhistory-org/ourjourneys74|NATMA 會史簡述]]）。
 - Corpus preserves his own TAH essay series: 「追夢的人生」 memoir essays ([[works/taiwaneseamericanhistory-org/publications293|293. 追夢的人生, 傳記, 2014/04]]、[[works/taiwaneseamericanhistory-org/mystories115|115. 追夢的人生, 2014/10]])、醫師養成回憶「第一年駐院醫師的生活體驗」 ([[works/taiwaneseamericanhistory-org/mystories134|134]])、文化評論「雕出臺灣文化之夢」(1989/07)（[[works/taiwaneseamericanhistory-org/60-e9-9b-95-e5-87-ba-e8-87-ba-e7-81-a3-e6-96-87-e5-8c-96-e4-b9-8b-e5-a4-a2-e6-9e|60]])、「台灣音樂文化的永恆資產」 ([[works/taiwaneseamericanhistory-org/mystories311|311, 2015/07]])、家庭與子女成長回顧「我的另一半、與孩子們的成長」 ([[works/taiwaneseamericanhistory-org/52-e6-88-91-e7-9a-84-e5-8f-a6-e4-b8-80-e5-8d-8a-e8-88-87-e5-ad-a9-e5-ad-90-e5-80|52, 2014/10]])。
 - 2026-09-23（slice 09221100-18）語料再核：命中集仍為上方已收錄出處，新增 NATMA 南加分會會史與本人著作系列連結；無新衝突須 HOLD。
+- 主導「台灣名家演奏系列」：1992 與 1993 年於洛杉磯舉辦音樂會，邀請林昭亮、胡乃元、陳泰成、陳毓襄、陳麗嬋、曾道雄等台灣音樂家，節目常安插蕭泰然、許常惠等台灣作曲家作品，目的為向美國主流社會介紹台灣音樂家與作曲家；楊子淸、陳隆同為籌備會活躍委員（[[works/taiwaneseamericanhistory-org/ourjourneys287|287. 台南善友樂團之後代首次在夏令會聚會, 黃東昇, 2017/05]]）。該 memoir 亦記 1990 年代末他在舊金山夏令會被引薦給善友樂團成員並合照，此照可歸入善友樂團歷史。
+- 1985 — 「台美公民協會」（TAC League）籌備委員會顧問之一，名冊以本名 林哲雄 / Jer-Shung Lin 列名（[[works/taiwaneseamericanhistory-org/ourjourneys186|186. 台美公民協會簡介, 1985/04/15 台灣公論報]]）。
+- 1992 — 台灣協志會學術討論會（帕洛阿圖 Syntek Hall Center）論文發表學者之一，與彭明敏、林宗義、陳芳明、張旭成等列席（[[works/taiwaneseamericanhistory-org/ourjourneys37|37. 台灣協志會成立與大事記, 紀哲嘉, 2014/09]])；同會大事記以「Intellectual: Dr. Jer-Shung (Hon-Tze) Lin」記於明州台美人百年大事（[[works/taiwaneseamericanhistory-org/ourjourneys123-eng|ourjourneys123-eng]]）。
+- 著作新增：傳記《菲利賓國父——黎剎傳》（2013/12）（[[works/taiwaneseamericanhistory-org/435-e8-8f-b2-e5-88-a9-e8-b3-93-e5-9c-8b-e7-88-b6-e9-bb-8e-e5-89-8e-e5-82-b3-e6-9|435. 菲利賓國父 – 黎剎傳]]）；TAH 刊文「各位敬愛的股東同仁平安」（[[works/taiwaneseamericanhistory-org/ourjourneys70|70]])。
+- 2026-10-10（slice 10091400-19）語料再核：ZH+EN+本名（林衡哲/林哲雄/Jer-Shung/Hon-Tze）grep 命中 20+ 檔，新增吸收 ourjourneys287/186/37/123-eng/70 與 435；romanization 衝突（Jer-Shung vs Hon-Tze）維持 HOLD，無新衝突。
 
 ## Family
 
