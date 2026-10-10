@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Keng S. Liang (梁耕三)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-09-25
 
 - Corpus re-grep 2026-09-25 (DEEPEN-X slice 09240600-4): fresh ZH+EN grep hit-set identical to prior passes (Our Journeys 287, TAH #1520, index, 楊遠薰 懷念彭昕醫師 ×2 archives, 翁啟惠連署 call, TJJ memo) — verified saturated; SKIP-deepen.
 - Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230600-20): fresh ZH+EN grep returns the identical hit-set already cited (Our Journeys 287 善友 memoir, TAH #1520, 楊遠薰 懷念彭昕醫師 ×2 archives, 翁啟惠連署 call) — nothing new absorbable. Verified saturated.
+- Corpus re-grep 2026-10-10 (DEEPEN-X slice 10081400-25): fresh ZH+EN+surname grep (梁耕三 / Keng S. Liang / 耕三) across all 5 corpus dirs returned the identical hit-set already cited (Our Journeys 287, TAH #1520, 楊遠薰 懷念彭昕醫師 ×3 copies, 翁啟惠連署 call, index/sources) — no new material. Verified saturated; SKIP-deepen.
 
 ## Sources
 - [TAH #1520 encyclopedia: 1520. Keng S. Liang 梁耕三/ 2017/02](https://taiwaneseamericanhistory.org/whoswho1520/)
