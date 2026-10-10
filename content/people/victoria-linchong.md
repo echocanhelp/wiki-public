@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Victoria Linchong (林鍾維春)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-10-06 (deepen-x slice 10051143-22): fresh grep ZH+EN (林鍾維春 / Linchong / 維春) across works/articles/sources/events/topics — hit set unchanged: whoswho1466, NATWA 2015 panel, support appeal, 228 event ×2, plus index. Verified-saturated, SKIP.
 <!-- Re-verified 2026-10-08 (deepen-x slice 10061023-1): fresh grep ZH+EN (林鍾維春 / Victoria Linchong / Linchong) across works/articles/sources/events/topics — hit set unchanged: whoswho1466, NATWA 2015 panel, Almost Home support appeal, 228 event ×2, plus index backlink. No memoir or community-authored material names her. Verified-saturated, SKIP. -->
 - Re-verified 2026-10-09 (deepen-x slice 10080400-13): name greps (林鍾維春 / Victoria Linchong / Linchong / 維春) again return only the previously cited records, but a film-title grep (`Almost Home`) surfaced five additional community screening records for _Almost Home: Taiwan_ (advance 2011, Cambridge sneak preview 2012, work-in-progress + Boston previews 2013 ×2) not previously linked — absorbed into Role in the Community. No conflicts to HOLD.
+- Re-verified 2026-10-10 (deepen-x slice 10090800-22): fresh grep ZH+EN (林鍾維春 / Victoria Linchong / Linchong) plus surname/variant probes (維春 / 林鍾) and a film-title grep (`Almost Home`) across works/articles/sources/events/topics — hit set unchanged: whoswho1466, NATWA 2015 panel, support appeal, 228 event ×2, five _Almost Home_ screening records (all already wikilinked), plus index/source backlinks. No memoir or community-authored material names her. Verified-saturated, SKIP.
