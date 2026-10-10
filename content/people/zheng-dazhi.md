@@ -8,7 +8,7 @@ tags:
   - artist
   - sculptor
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Zheng Dazhi (鄭達志)
 
@@ -56,6 +56,11 @@ Zheng was not a member of the Geneva Presbyterian Church congregation in Laguna 
 - 2022-05-16 — 中央社駐洛杉磯辦事處查證報導：其於南加州台裔教會槍擊案中挺身與凶嫌對峙、中彈身亡，獲橘郡警長與檢察長公開記者會推崇為「英雄」、譽其英勇行為拯救眾多生命；辦事處長黃敏境代表政府、外交部長吳釗燮、駐美代表蕭美琴向家屬表達哀悼，並查證凶嫌周文偉為 1953 年在台出生之移民（[[articles/taiwanjustice-net/2022/20220705131026_2022_05_16_南加州教會槍殺案_駐處查證_凶嫌為台灣移民_8c20569762592915|TJJ 轉載中央社, 2022-05-16]]）。
 - 複核（TJJ-A09240800-11, 2026-09-25）：本 slice 文章 8362234ba338aea7（南加州槍擊案的省思, 2022-05-17）正文再驗證——鄭達志醫師挺身而出防止悲劇擴大而壯烈犧牲之事蹟確認見於正文，subject link 為真（無錯鏈、無虛鏈）；2022-05-17 條目（已掛該文 wikilink）已在庫 — SKIP，無新材料。
 
+- 2022-05 — 告別式備極哀榮，My Stories #839 以「超級英雄」報導其喪禮（[[works/taiwaneseamericanhistory-org/my-stories-839|My Stories #839, 05/2022]]）；同月 #836 記其於槍擊案中擋彈犧牲、「視病猶親」備受推崇（[[works/taiwaneseamericanhistory-org/my-stories-836|My Stories #836, 05/2022]]）。
+- 2024-09 — 與 [[people/zhang-xuanxin|張宣信牧師 (Billy Chang)]] 同獲 **Carnegie Hero Fund Commission** 表彰（[[works/taiwaneseamericanhistory-org/910-carnegie-hero-fund-commission-john-cheng-and-billy-chang-09-2024|Work #910, 09/2024]]）。
+- 張宣信牧師口述（[[works/taiwaneseamericanhistory-org/our-journeys-380|Our Journeys #380]]）：鄭家與教會長期有淵源（鄭俊郎、鄭俊曉兩位醫師與牧者相熟）；鄭達志當日因母親久未聚會而陪同前往，非該會會友 — 與本頁「not a member of the congregation」記述一致。**HOLD:** 牧師口述稱其兒女「尚在讀初中」，與媒體報導「兒子將入讀 UCLA pre-med」衝突，未定年齡，不採信合併。
+- 同名警示：[[works/taiwaneseamericanhistory-org/artist36-john-cheng|Work #36「鄭榮得 John Cheng」(2015)]] 為另一位同名人物（鄭榮得），非本傳主，未掛連結。
+
 ## Timeline (from facts on this page)
 
 - 1969 — born in Taiwan; immigrated to the US with his parents at age one, grew up in a small town in East Texas
@@ -64,6 +69,8 @@ Zheng was not a member of the Geneva Presbyterian Church congregation in Laguna 
 - Recognised in the 2023 TAHS Publication profile by [[people/zheng-bing-quan|鄭炳全]] for his wood carvings 「智者」 and 「富蘭克林」 (see attribution HOLD below)
 - 2022-02 (~3 months before) — father died; Zheng began accompanying his widowed mother to services
 - 2022-05-15 — killed at age 52 rushing the gunman at the [[works/taiwaneseamerican-org/laguna-woods-taiwanese-church-shooting|Laguna Woods church shooting]]; survived by his wife and two children
+- 2022-05 — memorial service held with full community honors, reported as a 「超級英雄」 farewell ([[works/taiwaneseamericanhistory-org/my-stories-839|My Stories #839, 05/2022]])
+- 2024-09 — jointly honoured by the Carnegie Hero Fund Commission with [[people/zhang-xuanxin|Billy Chang 張宣信]] ([[works/taiwaneseamericanhistory-org/910-carnegie-hero-fund-commission-john-cheng-and-billy-chang-09-2024|Work #910, 09/2024]])
 
 ## Source Notes and Confidence
 
@@ -101,5 +108,7 @@ Zheng was not a member of the Geneva Presbyterian Church congregation in Laguna 
 <!-- TJJ-A10070700-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-2 article 117bdbbd9b362236 (周文偉日內瓦長老教會槍擊案報導, 2022-05-16): 鄭達志 (John Cheng, 遇害醫師) subject link re-checked vs 正文 this attempt (Laguna Niguel 52歲醫師、挺身制伏中彈身亡、檢察長 Todd Spitzer「犧牲了自己讓別人得以存活」、留下妻與兩子), real, no wrong/spurious links; 2022-05-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090501-18: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-18 article 8362234ba338aea7 (南加州槍擊案的省思, 洪錦鈺社論, 2022-05-17): 鄭達志醫師挺身而出防止悲劇擴大而壯烈犧牲 re-checked vs 正文 this attempt, real, no wrong/spurious links; 2022-05-17 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10090600-12: deepened 2026-10-10 — corpus re-grep surfaced 4 previously unlinked works: My Stories #836/#839 (05/2022), Work #910 (Carnegie Hero Fund Commission, 09/2024, jointly w/ Billy Chang), Our Journeys #380 (張宣信牧師口述; HOLD on children's ages vs press report). artist36-john-cheng.md identified as 鄭榮得 (different person), flagged not linked. -->
 
 <!-- TJJ-A10080401-24: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-24 article 20220705131026_2022_05_16_南加州教會槍殺案_駐處查證_凶嫌為台灣移民_8c20569762592915 (南加州教會槍殺案 中央社報導, 2022-05-16刊/2022-07-05快照): 鄭達志醫師挺身對峙中彈身亡、獲記者會推崇為英雄之記述 re-checked vs 正文, subject 連結為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
