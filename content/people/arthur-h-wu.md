@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Arthur H. Wu (吳漢南)
 
@@ -55,3 +55,4 @@ last_reviewed: 2026-10-09
 <!-- deepen-x 09250600-16: re-verified 2026-09-25 — corpus grep (ZH+EN) hits = own records (712, ourjourneys47, winners10) only, all already absorbed into Role in the Community. SKIP. -->
 <!-- deepen-x 10062218-3: re-verified 2026-10-08 — fresh ZH+EN sweep of works/articles/sources/events/topics; hit set unchanged (712, ourjourneys47, winners10, index) plus one false positive (ourjourneys265 "Arthur Chan" ≠ Arthur H. Wu). Nothing new absorbable. SKIP. -->
 <!-- deepen-x 10080600-19: re-verified 2026-10-09 — fresh ZH+EN+surname sweep across all 5 corpus dirs; hit set unchanged (712, ourjourneys47, winners10, works/index, sources/taiwaneseamericanhistory-org). All three works already wikilinked and absorbed in Role in the Community. Verified-saturated. SKIP. -->
+<!-- deepen-x 10091500-11: re-verified 2026-10-10 — fresh ZH+EN sweep (吳漢南/Arthur H. Wu/漢南) across works/articles/sources/events/topics; hit set identical (712, ourjourneys47, winners10, works/index, sources/taiwaneseamericanhistory-org), no surname-only hits outside own records. All material already absorbed with wikilinks. Verified-saturated. SKIP. -->
