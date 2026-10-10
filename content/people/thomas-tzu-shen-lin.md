@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-10
 ---
 # Thomas Tzu-Shen Lin (林資深博士)
 
@@ -75,3 +75,6 @@ Research Associate
 
 ## Corpus re-grep (2026-09-26, slice 09260400-2)
 - SKIP: re-grep 林資深 / Tzu-Shen Lin（works+articles）命中集不變（ourjourneys12、ourjourneys307、mystories-114、mystories114-eng、176、115），全數已吸收並 wikilink，無新增社群材料（saturated）。
+
+## Corpus re-grep (2026-10-10, slice 10091404-8)
+- SKIP: ZH+EN re-grep（林資深 / Tzu-Shen Lin）across works/articles/sources/events/topics — hit-set unchanged（ourjourneys12、ourjourneys307、mystories-114、mystories114-eng、176、178、115），全數已吸收並 wikilink，無新增社群材料（saturated）。Broad 資深 / Thomas-Lin greps returned only false positives (資深 as "senior" in unrelated memoirs; Thomas Liao / Thomas Liu / Blind Thomas Wiggins — different people).
