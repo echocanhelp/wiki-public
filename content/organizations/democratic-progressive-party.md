@@ -8,7 +8,7 @@ tags:
   - Pan-Green-Coalition
   - Taiwanese-American-connection
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Democratic Progressive Party (民主進步黨)
 
@@ -152,6 +152,12 @@ In 2006, the party ended official recognition of factions, though they remain re
 - 2013-10-06 — The Economist (via TJJ) on the 馬王政爭: after the KMT revoked 王金平's party membership, the DPP threatened to impeach or recall Ma Ying-jeou — needing KMT defectors since it held only 40 of 113 legislative seats — and fiercely criticized Ma after ICAO council president Gonzalez said Taiwan's invitation came at China's suggestion; the article also credited Wang's willingness to make concessions to the DPP on major bills as a motive for Ma's move against him ([[articles/taiwanjustice-net/2024/20240530133623_root_becb39f917174438|The Economist via TJJ, 2013-10-06]]).
 - 2013-04-22 — TJJ 轉載 Michael Richardson 報導（陳水扁移送佩德診所風波）：民進黨主席蘇貞昌在監獄外與護台聯盟負責人 Aquia Tsay 等人會面後進入監獄探視陳水扁，稱當局對扁的處遇「造成台灣社會的不和諧」，呼籲人道對待（[[articles/taiwanjustice-net/2024/20240425113156_root_f19de8f9d3b53071|TJJ：Chen Shui-bian's return to prison（2013-04-22）]]）。
 - 2015-04-16 — TJJ 轉載 LA Times（Ralph Jennings）：民進黨提名蔡英文參選2016總統，文中以民進黨2000–2008執政時期主張台獨、陳水扁任內 advocated formal independence 為蔡英文溫和路線之對照背景（[[articles/taiwanjustice-net/2024/20240616133139_root_b63290424caedcf7|TJJ 轉載 LA Times, 2015-04-16]]）。
+- 2009-08-16 — 「建國行動聯盟」第一次會議於洛杉磯會館內的民進黨辦公室舉行，辦公室主任鄭瑞源協助免費借用場地；出席者含王泰和、洪珠美、留日台灣人 Mayumi Shira、許輕甫、鄧昇東、洪錦鈺、呂眾英、余文貴等（[[works/taiwaneseamericanhistory-org/ourjourneys265|Our Journeys #265]]）。
+- 2000 — 民進黨第一次執政後，因投入海外台灣民主化運動而被列為黑名單、二十餘年回不了台灣的陳唐山前部長終於能回到故鄉，卻因出任外交部長而無法回華盛頓探望兒孫——「回不了家」的雙向困境體現台灣國內外政治處境之複雜（[[works/taiwaneseamericanhistory-org/ourjourneys320|Our Journeys #320]]）。
+- 2000 — 民進黨執政後並未裁撤僑務委員會，而是調整僑務政策並擴大服務範圍，海外臺僑社團與島內各團體自此出現更緊密的聯繫（[[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]]）。
+- 2018-06 — 陳宏達記述故王康陸秘書長告別式及骨灰佈撒行程：花蓮地區同志組成迎靈車隊（包括民進黨花蓮縣黨部宣傳車）自三仙台、八仙洞經七星潭海濱繞行花蓮市區，於台灣最東端將骨灰撒入海裡（[[works/taiwaneseamericanhistory-org/ourjourneys334|Our Journeys #334, 2018-06]]）。HOLD: 撒葬日期僅記「十八日」，依文刊於 2018-06 推為 2018-06-18，待核。
+- 2018–2020 — 紐約海外台派組織網絡與島內選舉的連動：與紐約台灣人組織有連結者返台參選地方公職——謝佩芬 Hsieh Pei-fen（2020 台北市大安區市議員候選人，DPP）、Hsiao Hsin-cheng（2018 內湖·南港）、林彥甫 Lin Yen-fu（2018 新竹市東區，當選）等；DPP 與 KMT 總統候選人在選舉前均例行赴美向海外台灣人募款（[[works/taiwaneseamericanhistory-org/our-journeys-373|Our Journeys #373]]）。
+- 2015-08 — 羅福全在 Our Journeys 撰文憶述《台灣公論報》停刊：最後一期發行人許世模、副發行人邱義昌向讀者告別，「預祝民主進步黨在明年的台灣總統、立委選舉中大獲全勝，台灣早日獨立建國」（[[works/taiwaneseamericanhistory-org/ourjourneys156|Our Journeys #156, 2015-08]]）。HOLD: 停刊當年年份未於文中標明（依「明年總統選舉」推為 1995），待核。
 
 ## Related Pages
 
