@@ -7,7 +7,7 @@ tags:
   - archive
   - Taiwanese-American
 verification_status: published
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-09
 ---
 # TAH Foundation (台美史料中心)
 
@@ -75,3 +75,11 @@ Echopedia **v1** of this domain = CPT **graph** (people + orgs), **not** a recra
 - [[sources/taiwaneseamerican-org||taiwaneseamerican.org]] — different site (story-corpus)
 - [Official site](https://taiwaneseamericanhistory.org/)
 - [About Us](https://taiwaneseamericanhistory.org/about-us/)
+
+## In the corpus (2026-10-09)
+
+- **Founder:** [[people/bob-cheng|Bob Cheng (鄭寶鼎博士)]], who died 2020-09-20. His first-board member [[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|林宏容's memoir]] (2020-09-27, taiwanjustice.net) gives the founding history the official About does not: Bob convened the **first 籌備會議 in 2010** at 陳立明博士's home with 郭清江, 謝清志, and 王漢平, proposing a Jewish-museum-style institution to collect Taiwanese American history.
+  - HOLD: founding timeline — About says "six first-generation Americans agreed by phone in early 2013"; the memoir dates the first organizing meeting to 2010 and describes years of "議而不決" before the 2014 center. Both kept; not merged.
+- **Funding model:** per the same memoir, the 2014 Irvine office (17155 Von Karman Ave, ~4,000 sq ft) and the 2016 two-story Corporate Park building (~19,000 sq ft) were **Bob's sole funding (獨資)**; roles split across the first board (陳立明 furniture/equipment, 王漢平 audio/video, 林宏容 software/WiFi, 郭清江 hiring). The 2014 TACS scholarship awards ceremony was held at the Center.
+- **Newsletter corpus:** taiwanjustice.net carries T.A. Archives / 台美史料中心 newsletters as a standing tag (May 2020 – May 2021 issues, e.g. [[articles/taiwanjustice-net/2021/20210920142459_tag_taiwanese-american-archives_1d2a1adc7c67ab32|tag: Taiwanese American Archives]]) — the monthly newsletter since May 2015 is preserved there, not only on the TAH site.
+- **Who's Who cross-links:** the harvest under `content/works/taiwaneseamericanhistory-org/` includes biographical entries that themselves reference the Center (e.g. 吳朗, 吳明杰, 蘇芯, 鄭明憲), confirming the Center's role as a community hub in member accounts.
