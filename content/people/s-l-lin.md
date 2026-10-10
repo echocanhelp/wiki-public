@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # S. L. Lin (林幸隆)
 
@@ -113,4 +113,6 @@ last_reviewed: 2026-09-24
 
 <!-- TJJ-A10071300-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071300-1 article c6f9dbff48b39366（台美人台加人 popular 分類頁, 2024-02-21快照）read fresh this attempt: subject link 林幸隆 re-checked vs 正文 —「大洛杉磯台灣會館園藝講座-果樹培育密訣-by田土伯(林幸隆)-蔬果園藝交流在美洲-08282016」條目具名確認見於正文, real, no wrong/spurious links; 2016-08-28 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
-<!-- TJJ-A10071400-1: verified 2026-10-09 — wave-2 link+deepen re-check of article 8bf4798dd2771f38 (大洛杉磯台灣會館 分類存檔頁, 2024-02-21快照): subject link 林幸隆 re-checked vs 正文 this attempt (「果樹培育密訣-by田土伯(林幸隆)-08282016」條目確認見於正文), real, no wrong/spurious links; 2016-08-28 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- TJJ-A10071400-1: verified 2026-10-09 — wave-2 link+deepen re-check of article 8bf4798dd2771f38 (大洛杉磯台灣會館 分類存檔頁, 2024-02-21快照): subject link 林幸隆 re-checked vs 正文 this attempt (「果樹培育密訣-by田土伯(林幸隆)-08282016」條目確認見於正文), real, no wrong/spurious links; 2016-08-28 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
+
+<!-- deepen-x slice 10081009-9: verified 2026-10-09 — fresh grep (林幸隆/田土伯/S. L. Lin) over works/ articles/ sources/ events/ topics/ returned 20 files; the 4 hits not previously enumerated (2020 gardenning category p3, 果樹培育 tag 2024-07-23, 園藝講座 tag 2024-05-30, Tag:林幸隆 2024-07-18) all resolve to the same 「大洛杉磯台灣會館園藝講座-果樹培育密訣-by田土伯(林幸隆)-08282016」 record already cited in From the record — no new material. Saturated. -->
