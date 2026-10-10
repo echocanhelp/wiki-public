@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Paul Lin (林水波教授)
 
@@ -87,3 +87,4 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10070700-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-3 article dc44b297e6225e64 (郝龍斌倡導阿扁保外就醫論評全文/主講人林水波教授, 2024-07-19 快照): 主講人「林水波教授」確認見於標題與內文; subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A100607008-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 20240425074022_root_63717cb2b99ce3c3 (台美人台加人 p3, 2024-04-25快照): subject link 林水波教授 re-checked vs 正文 this attempt (「政黨輪替的優勢, 劣勢, 機會與威脅, w/a video/ 講師:林水波教授/ 長青教室/ 2017-10-18」清單條目確認見於正文), real, no wrong/spurious links; 2017-10-18 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10080401-32: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-32 article e9ec20fd58bf6b1c (長青教室標籤頁 p6, 2024-06-21快照): subject link 林水波教授 re-checked vs 正文 this attempt (「長青教室 心得報告: 郝龍斌倡導阿扁保外就醫論評/:主講人: 林水波教授/ 10-24-2012」條目確認見於正文), real, no wrong/spurious links; 2012-10-24 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- deepen-x-10081400-23: verified 2026-10-10 — fresh ZH+EN grep (林水波/Paul Lin/林年松) across all 5 corpus dirs. Two new hit files beyond the long-standing set (whoswho1085-2, ourjourneys107, ourjourneys296, works index, TJJ archives): (1) [[works/taiwaneseamericanhistory-org/our-journeys-351|Our Journeys 351]] mentions 林年松 (2000 Olathe, Kansas) — same separate person as the 1999 Kansas City HOLD above, 林年松 ≠ 林水波, HOLD stands, not merged; (2) 李麗華 hits in ourjourneys58 (1968 Kansas book-sale staff roster), ourjourneys29 (「台灣人的歌」錄影工作人員) and a 2024 TJJ column (1950s 製片人張善琨-era film star) are all distinct individuals, NOT Paul Lin's wife Lisa 李麗華 — no biographical material. Core hit set unchanged, all records already absorbed — verified-saturated, no new material. -->
