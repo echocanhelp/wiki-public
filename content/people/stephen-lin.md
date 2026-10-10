@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-09
 ---
 # Stephen Lin (林俊提)
 
@@ -52,6 +52,8 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
+- 2021-05 — signed the 2021-05-01 「We made it count. Now tell our stories.」 statement (byline Leona, taiwaneseamerican.org) responding to Pew Research Center reports obscuring Taiwanese identity, listed among North California community figures (Isabel Kao NATWA-NCA, Sophia Deng, et al.) — [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew response statement]].
+- Re-check (slice deepen-x-10081009-32, 2026-10-09): fresh ZH+EN grep 林俊提/Stephen Lin across all 5 corpus dirs — 9 files; Our Journeys 2/8/8-eng/19/352 + Who's Who #1821 unchanged, plus the Pew-response signatory record above (new link); no new memoir material.
 - Re-check (slice deepen-x-09230317-10, 2026-09-24): fresh grep Stephen Lin — same hit set (Our Journeys 2/8/8-eng/19/352, Who's Who #1821), all absorbed — verified-saturated, SKIP.
 - Re-check (slice deepen-x-09240317-7, 2026-09-25): fresh grep 林俊提/Stephen Lin — same hit set (Our Journeys 2/8/8-eng/19/352, Who's Who #1821), all absorbed — verified-saturated, SKIP.
 - Re-check (slice deepen-x-09250700-6, 2026-09-25): fresh grep 林俊提/Stephen Lin — same hit set (Our Journeys 2/8/8-eng/19/352, Who's Who #1821), all absorbed — verified-saturated, SKIP.
