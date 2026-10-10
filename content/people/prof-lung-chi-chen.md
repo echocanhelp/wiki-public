@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-20
+last_reviewed: 2026-10-10
 ---
 # Prof. Lung-Chi Chen (陳隆志教授)
 
@@ -50,7 +50,11 @@ Prof. Lung-Chi Chen (陳隆志, b. 1935, Tainan) was a central legal voice of th
 - **1995:** speaker (politics track, 「新台灣，新希望」) at the 17th Midwest Taiwanese Summer Conference, Spartanburg SC ([[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys 245]]).
 - **「大海洋」論述:** in a founding message for 台僑月刊 he urged Taiwanese on the island and in the US to embody a "大海洋" spirit and press the US government for Taiwanese independence and UN participation ([[works/taiwaneseamericanhistory-org/ourjourneys209|Our Journeys 209]]).
 - **Book record:** 《台灣的獨立與建國》(1971/1, Politics) is held as a bibliographic record in the TAH corpus — [[works/taiwaneseamericanhistory-org/727-e5-8f-b0-e7-81-a3-e7-9a-84-e7-8d-a8-e7-ab-8b-e8-88-87-e5-bb-ba-e5-9c-8b-e9-9|TAH #727]] — corroborating the 1971 dating above.
-- **Oral history:** TAH video interview 「國際法學家 陳隆志專訪」 ([[works/taiwaneseamericanhistory-org/videos64|TAH #64]]).
+- **Oral history:** TAH video interview 「國際法學家 陳隆志專訪」 ([[works/taiwaneseamericanhistory-org/videos64|TAH #64]]) — also circulated via the news-observation archive ([[articles/taiwanjustice-net/2023/20231208133221_root_340dfc11acf338d0|news observation: 國際法學家陳隆志專訪]]).
+- **Student of 彭明敏:** corpus chronology identifies him as 「彭明敏的學生陳隆志，著有《台灣的獨立與建國》一書」 who joined 全美台獨聯盟 after the 1966 founding ([[articles/taiwanjustice-net/2023/20230923051922_2023_06_02_從二戰後全球去殖民化_到台灣國家正常化-_下_c251f8fc65ac83e0|從二戰後全球去殖民化到台灣國家正常化(下)]]).
+- **1970-04 (424刺蔣案 aftermath):** per 王泰's memoir, after the Plaza Hotel protest and shooting attempt, 陳隆志 appeared on national US television as the movement's legal voice, 「侃侃而談」 the Taiwan problem for five or six minutes — the event that 「將台灣所遭遇的問題在全美國乃至於全世界前攤了開來」 ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|化作千風：台獨先鋒王泰]]).
+- **1999-04:** author of 「公民投票與台灣前途」 (Politics), held as TAH corpus record #1093 ([[works/taiwaneseamericanhistory-org/publications1093|TAH #1093]]) — an early referendum-advocacy text predating the constitutional referendum era.
+- **2021:** as 台灣新世紀文教基金會 董事長, set out the 「大工事」 of state normalization — 制憲正名（國家正名憲法化）, UN membership under the name Taiwan, and cultivating the national will of a normalized people — in a 陳茂雄 column on the 制憲 debate ([[articles/taiwanjustice-net/2021/20210509172700_2021_05_04_民進黨制憲_省省吧_-_-陳茂雄_89c9669a1446f080|民進黨制憲，省省吧！／陳茂雄]]).
 
 ## Sources
 - [TAH #108 encyclopedia: 108. Prof. Lung-Chi Chen 陳隆志教授](https://taiwaneseamericanhistory.org/108-prof-lung-chi-chen/)
