@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # C. N. Chen (陳建南)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - **deepen-x re-grep 2026-10-06 (slice 10051143-21):** fresh ZH+EN grep -rl across works/articles/sources/events/topics returns identical hit set (ourjourneys-138, ourjourneys107, ourjourneys217, whoswho1770, index, sources) — verified-saturated, nothing new absorbable. SKIP-with-reason.
 - **deepen-x re-grep 2026-10-08 (slice 10060950-2):** given-name sweep (建南) surfaces two new corpus hits, both false positives — a 2026 TJJ 台積電 article matches 建南 inside 「興建南科3奈米廠」, and recent TJJ essays name 黎建南, a pro-Beijing commentator (surname 黎 ≠ 陳; e.g. [[articles/taiwanjustice-net/2025/20250216032743_這個國度_人們為何扭曲如蛆_-_-余杰_60f418e52339a61a|這個國度，人們為何扭曲如蛆？(余杰)]] 2025-02). Neither links to this page. Full-name grep (陳建南 / C. N. Chen) returns the unchanged four records above — verified-saturated, nothing new absorbable. SKIP.
 - **deepen-x re-grep 2026-10-09 (slice 10080400-11):** fresh ZH+EN grep -rl across works/articles/sources/events/topics returns identical hit set (ourjourneys-138, ourjourneys107, ourjourneys217, whoswho1770, index, sources); 建南 sweep adds only the known false positives (黎建南 in 余杰 essays incl. a 2022 copy, 興建南科 match). The 募款小組（與李東壁）and 走Bethesda古道 details re-verified verbatim against ourjourneys217; Baltimore/DC 1960s physician roster re-confirmed against ourjourneys-138. Verified-saturated, nothing new absorbable. SKIP.
+- **deepen-x re-grep 2026-10-10 (slice 10090800-23):** fresh ZH+EN grep -rl across works/articles/sources/events/topics returns identical hit set (ourjourneys-138, ourjourneys107, ourjourneys217, whoswho1770, index, sources); 建南 sweep again adds only the known false positives (黎建南 in 余杰 essays ×2, 興建南科 TJJ match). All four corpus details (1960s Baltimore/DC physician roster, 募款小組與李東壁, 走Bethesda古道, 延年益壽的策略 lecture) re-verified verbatim against source memoirs. Verified-saturated, nothing new absorbable. SKIP.
