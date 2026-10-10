@@ -7,7 +7,7 @@ tags:
   - TAHS
   - historical-preservation
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 
 # Taiwanese American Historical Society (TAHS)
@@ -72,6 +72,10 @@ Not on the 2025 paper org chart. Owner-confirmed for public leadership listing (
 - 2015-12 — the 「台美人的腳跡」/ Taiwanese American Journey to the West autobiography-collection project is recorded in the vault at [[works/taiwaneseamericanhistory-org/pub-928||TAH #928]] — context for TAHS's memoir-documentation mission.
 - 2021-05-13 — TAHS (台美人歷史協會) is listed as a 共同發起單位 of the 2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, announced at a press conference at 洛杉磯華僑文教服務中心; TAHS co-initiated alongside 大洛杉磯台灣會館, NATMA chapters, FAPA chapters, 台美公民協會 and ~40 SoCal groups ([[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b||TJJ, WHA 聯合聲明, recorded 2021-06-16]]).
 - 2023-03-25 — TAHS 舉辦「如何寫回憶錄(自傳)座談會」 at 大洛杉磯台灣會館第五教室; 講員: 國策顧問、前國科會副主委 [[people/xie-qingzhi-xie-poyi||謝清志]]（回憶錄《生命的震動》）, 顧問 [[people/gene-tsai||蔡錦榮 Gene Tsai]]（自傳《我的奮鬥人生及美國夢》）, and 會長 [[people/yang-jia-you||楊嘉猷 Charles Yang]]（《咱的故鄉咱的故事》）— report archived at [[articles/taiwanjustice-net/2023/20230601053743_2023_03_20_台美人歷史協會3-25舉辦_如何寫回憶錄自傳座談會_e0c8343cf2888d43||taiwanjustice.net, 2023-06-01]].
+- 2025-09-03 — TAHS held the inauguration of new president [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] at the 台美人長輩會 office, followed by a board meeting on bylaw revision (president term set to one 3-year term, officer terms synced), finances, and work plan. Founding president [[people/yang-jia-you||Charles Yang 楊嘉猷]] framed the handover as 「世代傳承」, with the society turning to collect/interview/publish 台美人 second- and third-generation figures; TAHS had by then published two 「台美人菁英錄」 volumes. Attendees included 楊嘉猷, 許景鴻, 蔡漢成, 劉玲華, 李意盛, 楊錦忠, 沈梓在, 蔡淑女, 黃樹人. Hsu said that, budget permitting, TAHS would consider staffing Wikipedia entries for outstanding Taiwanese Americans ([[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74||taiwanjustice.net, 2025-11-07]]). *(The article dates the event 九月三日星期三; Sept 3, 2025 was a Wednesday — date taken as recorded.)*
+- 2025-07-05 — TAHS hosted a public-interest lecture, 《打造健康安全防護罩──身心保健與氣功養生》, by disaster-prevention expert / 交通大學環工博士 劉明哲, at 2:00 pm ([[articles/taiwanjustice-net/2025/20250713211830_台美人歷史協會講座-劉明哲主講_打造健康安全防_c8bf2e4620344f72||taiwanjustice.net, 2025-07-13]]). *(HOLD: 劉明哲 has no existing person page in the vault; no slug invented.)*
+- 2025-02-22 / 2026-02-27 — TAHS appears as a co-organizer (協辦單位) of the 大洛杉磯台灣會館 228 memorial series: 2025 「228追思紀念大會」 with 24 台美社團, attended by 會長 [[people/yang-jia-you||楊嘉猷]] and many elders ([[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267||2025-03-20]]); 2026 二二八紀念會轉型正義研討會 with TAHS listed among co-organizers alongside 南加州台灣人長輩會, 美國台灣文化協會, FAPA-洛杉磯, NATMA-南加州 and others ([[articles/taiwanjustice-net/2026/20260209105852_大洛杉磯台灣會館二二八紀念會轉型正義研討會暨_27ac84aea15e3211||2026-02-09]]).
+- 2017 — TAHS community site-visit series recorded in taiwanjustice.net category archives: 「蔡開倫(Kai Tsai)先生的百香果王國參觀記」 (2017-09-13) and 「Gina Lai 創造的世外桃源——參訪 Escondido 瑜珈禪園」 (2017-05-05) ([[articles/taiwanjustice-net/2017/20171109043038_category_gardenning_0c56e79f9989639c||taiwanjustice.net, 2017-11-09]]). *(HOLD: 蔡開倫 / Gina Lai have no existing person pages; no slugs invented.)*
 
 ## Related archives
 - [[organizations/tah-foundation||TAH Foundation (台美史料中心)]] — sibling organization; runs [taiwaneseamericanhistory.org](https://taiwaneseamericanhistory.org/). Not TAHS and not the 2017/2023 TAHS yearbooks（见 [[sources/2023-tahs-publication||2023 TAHS Publication]]）.
