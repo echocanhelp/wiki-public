@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Li-Lin Cheng (鄭麗伶)
 
@@ -93,6 +93,7 @@ BVM (Bachelor of Veterinary Medicine)
 
 - 2021 — 以 NATPA 會長身分偕全體理事署名人文〈哲人日已遠：敬弔李應元博士〉，刊於台灣公義報「台美人台加人」分類（2025-04-30 存檔）—— [[articles/taiwanjustice-net/2025/20250430202458_category_taiwaneseamerican_a75a6e8c12e18729|TJJ 台美人台加人存檔頁]]。
 - 2021-11-22 — 弔文登上台灣公義報「北美洲台灣人教授協會」標籤頁（同頁並列 2020-02-26 NATPA 武漢肺炎聲明、2020-04-13 TAPA/NATMA/NATPA 致 WHO 聯合公開信）（[[articles/taiwanjustice-net/2025/20250914125309_tag_北美洲台灣人教授協會_912bedafc3ae02b4|TJJ NATPA tag, 存檔 2025-09-14]]）。
+- 2021-11-22 — 以 NATPA 會長「鄭麗伶會長暨全體理事」名義具名發表反「反萊豬」公投聲明（中央社舊金山電：萊克多巴胺標準遵 Codex、與韓國一致且比日加美更嚴，籲國人反「反萊豬」公投以利台美貿易與 CPTPP 接軌）（[[articles/taiwanjustice-net/2021/20211207114038_2021_11_22_北美台灣人教授協會_萊克多巴胺是假議題_反萊_8c526b67e040e1fb|TJJ，2021-11-22]]）。
 
 複核（deepen-x slice 09181500-6, 2026-09-20）：corpus re-grep 命中 OJ 277、287、242、205、自身 TAH #1609 條目與 index — 全部已吸收於上方 Role in the Community／Family／From the record 各節，無新增社群材料，SKIP-with-reason：語料已飽和。
 
