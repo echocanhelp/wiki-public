@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-10
 ---
 # Austin Taiwanese Association (奧斯丁)
 
@@ -23,6 +23,8 @@ The Austin Taiwanese Association (ATA) is a regional chapter of the Taiwanese As
 - Community publication: [[works/taiwaneseamericanhistory-org/newsletter-of-austin-taiwanese-association|Newsletter of Austin Taiwanese Association]] (2016).
 - Material culture: [[works/taiwaneseamericanhistory-org/t-shirt-of-austin-taiwanese-association|31. T-Shirt of Austin Taiwanese Association]] (2017 artifact).
 - Austin's wider Taiwanese civic ecosystem also includes TAP 台美菁英協會奧斯丁(德州)分會 and 奧斯丁台灣商會, each documented as separate records in the corpus ([[works/taiwaneseamericanhistory-org/austin-chapter-tap|Austin Chapter / TAP]], 2014; [[works/taiwaneseamericanhistory-org/austin-chapter-of-taiwanese-chambers-of-commerce|Austin Chapter of Taiwanese Chambers of Commerce]], 2016).
+- Repression context at founding: immediately after the chapter's establishment, R.O.C. Consul General Mr. Chu (Houston/TX) sent a warning letter to the founding president Dr. Mu-Sheng Wu of TAA/Austin (1970-06-04) — the KMT-state surveillance side of the chapter's origin, corroborating Wu's founding memoir: [[works/taiwaneseamericanhistory-org/photo-albums-historical-40|40. Mr. Chu's Warning Letter to Dr. Musheng Wu, President of TAA/Austin, 06/04/1970]].
+- Second-generation activities: the Austin second-generation softball team is documented as its own community record: [[works/taiwaneseamericanhistory-org/photo-albums-activities-109|109. 奧斯汀壘球隊 (第二代) Softball Team (second generation) — Austin, Texas]].
 - Founding memoir: Mu-Sheng Wu's "45. Austin台灣同鄕會之成立" records the chapter's birth from UT Austin Taiwanese graduate students who gathered against KMT campus surveillance; the corpus calls UT Austin's association (c. 1970, when Austin had under 200,000 people) one of the two most typical campus associations of that wave alongside Ohio State: [[works/taiwaneseamericanhistory-org/ourjourneys45-eng|45. Founding of Taiwanese Association of Austin / Mu-Sheng Wu]].
 - Second-generation record: Pearl Wu 楊碧珠's memoir of 1980s–90s second-generation Taiwanese Americans in Austin documents community upbringing around the chapter: [[works/taiwaneseamericanhistory-org/ourjourneys243|243. Second Generation Taiwanese Americans in Austin / Pearl Wu]].
 - Adjacent organizing (distinct body, not merged): Pearl Wu — later FAPA Texas-Central chapter president — records FAPA TX-C's 2018-10-28 reactivation meeting in Austin (18 members reinstated, Wu elected president) and the push for Congressman John Carter to co-sponsor HCR 124: [[works/taiwaneseamericanhistory-org/our-journeys-370|370. FAPA TX-C中德州分會記事 / Pearl Wu]].
@@ -34,6 +36,7 @@ The Austin Taiwanese Association (ATA) is a regional chapter of the Taiwanese As
 - 1991–1993 — Peter Wu 吳宗憲 (b. 1947 台南; UT Austin Ph.D. in pharmaceutical science, arrived Austin 1974) served as chapter president, per the chapter's Our Journey history ([[works/taiwaneseamericanhistory-org/ourjourney-343|Our Journey]]).
 - 2013-02-02 — chapter's Lunar New Year celebration recorded in the community press: [[works/taiwaneseamerican-org/austin-taiwanese-association-2013-lunar-new-year-celebration|Austin Taiwanese Association 2013 Lunar New Year Celebration]].
 - 1984– — Austin listed among the美南 cities (休士頓、達拉斯、奧斯汀、大學城…) whose同鄉會 network coordinated the rotating美南台灣人夏令會 from its 1984 Sam Houston State University launch: [[works/taiwaneseamericanhistory-org/ourjourneys318|318. 漫談美南台灣人夏令會的濫觴 / 莊承業]].
+- 2002–2005 — the chapter participated in the Austin International Festival at Waterloo Park, documented as the chapter's community presence in public festivals: [[works/taiwaneseamericanhistory-org/projects13-32|32. Austin International Festival at Waterloo Park / 德州奧斯汀同鄉會 2002-2005]].
 - 2017 — photo-activity display panels documenting chapter activities 1970–2004 entered the corpus: [[works/taiwaneseamericanhistory-org/artifacts34|34. Display Panel for the Photo Activities of Austin Taiwanese Association]] and [[works/taiwaneseamericanhistory-org/photo-albums-activities-122|122. Display Panel for Photo Activities of Austin Taiwanese Association 1970~2004]].
 
 ## Sources
