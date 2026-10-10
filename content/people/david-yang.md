@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # David Yang (楊熾勳)
 
@@ -51,7 +51,7 @@ _No filled family fields on the TAH profile._
 - 覆核（TJJ-A09231000-7, 2026-09-25）：本 slice 文章 9de57bf0（「林榮松」標籤頁, 2023-05-30 存檔）正文再驗證——subject 連結為真，無錯鏈、無虛鏈；2021-05-06 條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09171200-11, 2026-09-24）：本 slice 文章 9de57bf0（「林榮松」標籤頁, 2023-05-30 存檔）正文再驗證——本頁所涉條目確認見於清單，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫 — SKIP，無新材料。
 
-1094729_root_8ba14835bbe8ec88|TJJ 2024-07-21 快照]]）。
+- 2020-02-21 — 北美洲台灣人醫師協會（NATMA）於大洛杉磯台灣會館舉行記者會，宣布 5 月組宣達團赴日內瓦呼籲各國支持台灣加入 WHO／參與 WHA，並發表給僑務委員會委員長吳新興的公開信；宣達團團長之一為楊熾勳（時年 75 歲），在美行醫 33 年、近 7 年在宜蘭羅東聖母醫院為偏鄉服務，二度退休返美後以推動台灣進入世界衛生組織為人生目標；楊熾勳並表示台灣 2300 萬人的健康不應因政治因素被排除在世衛之外（[[articles/taiwanjustice-net/2024/20240721094729_root_8ba14835bbe8ec88|TJJ 中央社報導, 2024-07-21 快照]]；[[articles/taiwanjustice-net/2025/20250317171814_202776_fbaac1a916f7fe57|同文 2025-03-17 快照]]）。
 - 2021-05-13 — 南加州僑界48個社團（含台美人歷史協會、台美律師協會）於洛杉磯華僑文教服務中心開發布會，連署聯合聲明支持台灣以制度化管理參與WHA/WHO，為聲明共同發起人之一（[[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ 2021-06-16 轉載]]；[[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2025-11-08 快照]]）。
 - 2021-05-06 — 台灣公義報為「台灣加入世衛組織的歷程與展望」建立專題頁，焦點影音欄收錄林榮松、許正雄、邱俊杰、楊熾勳、吳兆峯同場談台灣加入世衛組織的影片（[[articles/taiwanjustice-net/2021/20210620131911_tag_台灣加入世衛組織的歷程與展望_cd646b8698e12d2b|TJJ 專題頁, 2021-06-20 存檔]]）。
 - 2021-05-06 — TJJ「林榮松」標籤頁（2023-05-30 存檔）獨立收錄同一場「林榮松＋許正雄＋邱俊杰＋楊熾勳＋吳兆峯 談台灣加入世衛組織的歷程與展望」影音條目，佐證楊熾勳與會發言（[[articles/taiwanjustice-net/2023/20230530153327_tag_林榮松_9de57bf0b60501a7|TJJ tag 林榮松, 2023-05-30 存檔]]）。
@@ -74,6 +74,7 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/10-e6-a5-8a-e7-86-be-e5-8b-b3-e8-bf-94-e5-8f-b0-e4-bb-bb-e8-81-b7-e7-be-85-e6-9d|10. 楊熾勳返台任職羅東聖母醫院]] (2012) corroborates the 羅東聖母醫院 physician role in the TAH profile.
 - TAH Who's Who 收錄為第 1539 條（2017-02 刊），corpus 內有獨立紀錄：[[works/taiwaneseamericanhistory-org/whoswho1539|TAH #1539: David Yang 楊熾勳 / 2017/02]]。
 - NATMA（北美洲台灣人醫師協會）前南加州分會會長：2021-05 「台灣入WHO論壇」即以該身分與三位前總會長同場（見上方 From the record）。
+- NATMA 日內瓦世衛宣達團團長之一（2020）：以「台灣加入世界衛生組織」為退休後志業，隨團赴日內瓦宣傳台灣參與 WHA 的權利（見上方 2020-02-21 條目）。
 - Corpus re-grep 2026-09-20 / 2026-09-21 / 2026-09-22: hit set unchanged (whoswho1539, ourjourneys186/-eng, 338 鮭魚回歸, 10 返台任職羅東聖母醫院) — all corpus facts already absorbed above; no new material.
 - 連結複核（TJJ-A09251300-4, 2026-09-26）：本 slice 四篇 TJJ 文章（6d9cd937 台灣入WHO論壇公告／accbf8ee 劉雲平AZ疫苗信函／bff4c711 祝賀蕭美琴履任／ad7f737b 第55回世界臺灣文化論壇）subject 連結逐一正文再驗證——本頁人物確認見於正文，連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，已飽和。
 
