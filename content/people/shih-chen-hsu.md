@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Shih-Chen Hsu (許世真)
 
@@ -32,6 +32,7 @@ last_reviewed: 2026-10-09
 - 為紐約 Westchester 台美婦女協會（WTWA，威郡台灣婦女會）創會召集人：該會 1974 年秋由[[people/fang-yuh-rita-chen|陳芳玉]]發起、林許世真召集，為非營利、非政治性婦女團體，位置在 Manhattan 東北部約 30 哩處，至 2014 年已走過 40 年（見 [[works/taiwaneseamericanhistory-org/ourjourneys18|Our Journeys 18 – WTWA 40 年]]、英文版 [[works/taiwaneseamericanhistory-org/ourjourneys18-eng|18. WTWA]]）。
 - 2011 年逝世後，夫林靜竹撰文悼念：[[works/taiwaneseamericanhistory-org/my-stories-654|654. 懷念許世真]]（2018/10）。
 - 本人 TAH 記錄：[[works/taiwaneseamericanhistory-org/whos-who-2140-shih-chen-hsu|2140. Shih-Chen Hsu 許世真]]。
+- 夫林靜竹（CC Lin）出席台美協進會（TAF）紀念聚會合影，本人以「林靜竹/世真」之名入鏡：[[works/taiwaneseamericanhistory-org/ourjourneys33-eng|Our Journeys 33 – TAF 歷史（英文版）]]。
 
 ## Family
 
