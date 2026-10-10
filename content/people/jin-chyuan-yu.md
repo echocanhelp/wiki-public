@@ -97,3 +97,5 @@ last_reviewed: 2026-10-10
 <!-- TJJ-A10080501-6: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080501-6 article 5b6cede86851b2ba (游朝凱設立創意寫作獎報導, 2021-02-14 刊): 游銘泉（與妻游玲娟）為獎項命名對象 re-checked vs 正文 this attempt, real, no wrong/spurious links; 2021-02-11 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090401-4: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-4 article 9c6973783db0011a (中央社記者黃淑芳游朝凱游銘泉專訪, 2024-07-06): subject link re-checked vs 正文 this attempt (游銘泉與子同受視訊專訪、三代語言隔閡慨嘆), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10091401-10: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10091401-10 article 5b6cede86851b2ba (游朝凱設立創意寫作獎報導, 2021-02-14 刊 / 2026-02-11 快照) read fresh this attempt: subject link re-checked vs 正文 (游銘泉與妻游玲娟為獎項命名對象、創設TACL LID青年營/共同創辦南灣台美學校/成立NATEA-SC確認見於正文), real, no wrong/spurious links; 2021-02-11 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
