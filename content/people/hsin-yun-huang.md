@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # HSIN-YUN HUANG (黃心芸)
 
@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice 10051143-4, 2026-10-06）：fresh ZH+EN re-grep across works/articles/sources/events/topics hit set unchanged (#439/15064, #37, works index, sources index) — bibliographic records only, no absorbable community/memoir material — SKIP, 以既有連結為準。
 - 複核（deepen-x slice 10060900-4, 2026-10-07）：fresh ZH+EN re-grep across works/articles/sources/events/topics — hit set unchanged (#439/15064, #37, works index, sources index; surname-only hits are other Huangs) — bibliographic records only, no absorbable community/memoir material — SKIP，以既有連結為準。
 <!-- deepen-x slice 10071520-2 (2026-10-09): saturated re-verify — fresh ZH+EN grep (works/articles/sources/events/topics) hit set unchanged (#439/15064, #37, works index, sources index); student-name sweep (I-Ting Huang / Youming Chen) resolves to the students' own records (201, 326, 787, whos472) which contain no 黃心芸 body text — the reciprocal student links on this page already cover them. No absorbable community/memoir material — SKIP, 以既有連結為準. -->
+<!-- deepen-x slice 10091414-30 (2026-10-10): saturated re-verify — fresh ZH+EN grep (works/articles/sources/events/topics) hit set unchanged (#439/15064, #37, works index, sources index; whole-content sweep adds only people/chih-long-hu + people/index, both already-known reciprocal links); alias variants (黄心芸/Xin-Yun/心芸) add nothing; both work records are bibliographic-only (full text stays in the vault). No absorbable community/memoir material — SKIP, 以既有連結為準. -->
