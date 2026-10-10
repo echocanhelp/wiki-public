@@ -9,7 +9,7 @@ tags:
   - hotel-industry
   - community-leadership
 verification_status: pending
-last_reviewed: 2026-08-17
+last_reviewed: 2026-10-10
 ---
 # Chen Zhefu & Xu Chunhui (陳哲夫、許春惠)
 
@@ -72,7 +72,9 @@ Beyond business, the couple was deeply committed to community service and giving
 - **Lion's Club:** Xu joined the Lion's Club in 1997, served as treasurer and director, and was elected as a model mother by the Taiwanese American Lion's Club in 2010
 - **Taiwanese American seniors association:** Xu served as a board member
 - **North American Taiwanese Women's Association:** Xu served as treasurer of the Southern California chapter
-- **Educational philanthropy:** Established scholarships at the University of Texas at Austin's architecture department, Tainan First High School, and the Southern California Tainan Alumni Association
+- **Educational philanthropy:** Established scholarships at the University of Texas at Austin's architecture department, Tainan First High School, and the Southern California Tainan Alumni Association; the **Jeff Chen Memorial Fund Scholarship** is documented in the TAH archive ([[works/taiwaneseamericanhistory-org/41-the-jeff-chen-memorial-fund-scholarship-awards|TAH #41, 陳哲夫紀念獎學金]])
+- **Tainan First High School alumni:** Founding president (創會會長) of the 台南一中校友會 alumni association by 1987 ([[works/taiwaneseamericanhistory-org/263-e9-99-b3-e5-93-b2-e5-a4-ab-e5-8f-b0-e5-8d-97-e4-b8-80-e4-b8-ad-e6-a0-a1-e5-8|TAH #263, 1987]]; see also [[organizations/southern-california-alumni-association-of-tainan-first-senior-high-sch|Southern California Alumni Association of Tainan First Senior High School]])
+- **Community record:** Listed among the names in the 台灣公論報 page of April 15, 1985 preserved in [[works/taiwaneseamericanhistory-org/ourjourneys186|Our Journeys #186]] — evidence of his standing in the movement press of that period
 
 The couple's commitment to education was deeply personal — both had benefited from educational opportunities, and they sought to extend those opportunities to future generations.
 
@@ -119,3 +121,8 @@ Their story exemplifies the immigrant entrepreneur's journey — from a $2,000 i
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- [[works/taiwaneseamericanhistory-org/ff264|TAH #264 — 陳哲夫、許春惠夫婦 (以遙控經營外州大型旅館出名)]]
+- [[works/taiwaneseamericanhistory-org/mystories343|TAH #343 — 陳哲夫遙控式經營 獨到成功令人懷念]]
+- [[works/taiwaneseamericanhistory-org/629-jeff-chen-e9-99-b3-e5-93-b2-e5-a4-ab-201509|TAH #629 — Jeff Chen 陳哲夫 (Who's Who)]]
+- [[works/taiwaneseamericanhistory-org/630-julie-chen-e8-a8-b1-e6-98-a5-e6-83-a0-201509|TAH #630 — Julie Chen 許春惠 (Who's Who)]]
+- [[works/taiwaneseamericanhistory-org/ourjourneys186|Our Journeys #186 — 台灣公論報 1985-04-15 roster]]
