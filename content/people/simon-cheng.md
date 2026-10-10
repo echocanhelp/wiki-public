@@ -143,3 +143,5 @@ last_reviewed: 2026-10-09
 - 2022-03-11 — 擔任第24回世界台灣文化論壇「母語拋荒 ê 世代，chhiau-chhoe 台文人」線頂聚會主持人（開場與話尾均由其主持）（[[articles/taiwanjustice-net/2022/20220706125927_2022_03_11_24回-世界台灣文化論壇-ti-母語拋荒e世代-chhiau-chhoe-台文人_a38f477e71016614|TJJ, 2022-07-06 快照]]；2026-02-11 再刊同文 [[articles/taiwanjustice-net/2026/20260211102431_24回-世界台灣文化論壇-ti-母語拋荒e世代-chhiau-chhoe-台文人_9abf6253e6898781|TJJ, 2026-02-11]]）。
 - 2022-02-02 — 第19回世界台灣文化論壇「台灣文學欣賞會—戀戀」以「世界台灣文化論壇共同發起人、台文通訊創辦人」身分列名特別來賓（同场陳雷）（[[articles/taiwanjustice-net/2022/20220207204451_2022_02_02_第19回世界台灣文化輪壇-2-5台灣文學欣賞會-戀戀_d64677687bf8468d|TJJ, 2022-02-07 快照]]）。
 - 2022-01-25 — 第18回台灣文化論壇「lai kap 阮劇團開講：做伙來解決台語文危機」與汪兆謙（阮劇團）對談，以與談人身分出席（[[articles/taiwanjustice-net/2022/20220207200117_2022_01_25_第18回台灣文化論壇_lai-kap阮劇團開講_做伙來解決台_dbfd9bb39e824217|TJJ, 2022-02-07 快照]]）。
+
+<!-- TJJ-A10090501-8: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-8 article 24ebe5f065076949 (2016海外台語研習會公告, 2016-05-10) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
