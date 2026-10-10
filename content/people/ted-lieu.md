@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Ted Lieu (劉雲平)
 
@@ -38,6 +38,10 @@ The corpus documents Lieu's standing within the Taiwanese American community in 
 - The TAH story corpus also records his **2020 re-election**: [[works/taiwaneseamericanhistory-org/events-2020-12|TAH #12: Ted Lieu re-elected as U.S. Congressman (2020/11)]].
 - His path into politics is told in the memoir piece [[works/taiwaneseamericanhistory-org/my-stories-787|TAH #787: 出身台灣家庭，美國會議員劉雲平從政之路 (03/2021)]].
 - His TAH encyclopedia entries are archived as [[works/taiwaneseamericanhistory-org/4-congressman-mr-liu-in-s-ca|TAH #4: Congressman Mr. Ted Lieu 劉雲平 in S. CA.]] and [[works/taiwaneseamericanhistory-org/155-ted-lieu|TAH #155: Ted Lieu 劉雲平]].
+- **12/2022 — elected Vice Chair of the House Democratic Caucus**, recorded in [[works/taiwaneseamericanhistory-org/my-stories-862|TAH #862: 台裔眾議員劉雲平 當選民主黨團副主席 (12/2022)]].
+- **2/2021 — Trump impeachment trial:** appointed by Speaker Pelosi as one of the House impeachment managers, the only member from a Taiwanese family; the profile piece "反川大將出身台灣家庭，美國會議員劉雲平從政之路" describes him as a 反川大將 with ~1.5M social-media followers and an Air Force Reserve colonel with Defense Meritorious Service and Air Force Commendation medals ([[articles/taiwanjustice-net/2021/20210303213538_2021_02_21_反川大將出身台灣家庭_美國會議員劉雲平從政之_e033cc47707ce7b1|TJJ, 2021-02-21]]; the same 從政之路 memoir is also in [[works/taiwaneseamericanhistory-org/my-stories-787|TAH #787]]).
+- **2/2021 — Lunar New Year greeting:** in a pre-recorded video posted by the Los Angeles TCCO on 小年夜, he greeted overseas Taiwanese in Chinese ("我在台灣出生，3歲半來美國"), voiced support for Taiwan's participation in international organizations, said Taiwan's pandemic performance was worth emulating, and, as a House Foreign Affairs Committee member, backed U.S.–Taiwan friendly trade ties ([[articles/taiwanjustice-net/2026/20260210064842_洛杉磯多名國會議員賀年_不分黨派支持台美友誼_38379d94ad8b2f8a|TJJ 賀年報導存檔頁]]).
+- **4/2021 — WHA advocacy:** among the members of Congress who publicly backed Taiwan's participation in the World Health Assembly via tweet, alongside Senate/House Foreign Affairs leadership, in the push following Sherman/Kim's WHO-participation bill ([[articles/taiwanjustice-net/2025/20251117011126_美參眾院外委主席與議員推文挺台參與wha_c1691d642d835b9a|TJJ/CNA 推文挺台參與WHA存檔頁, 2021-04-28電]]).
 
 ## Family
 
