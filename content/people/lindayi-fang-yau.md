@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Linda Yi-Fang Yau (劉義芳)
 
@@ -62,3 +62,5 @@ Re-grep 2026-10-06 (deepen-x slice 10051340-6): fresh grep (劉義芳 / Linda Yi
 Re-grep 2026-10-08 (deepen-x slice 10062334-6): fresh grep (劉義芳 / Yi-Fang Yau / Linda Y. Yau) across works/articles/sources/events/topics returned only #1566 own record, #290 HAPA-NA 理事 roster, #382/#383 2022 回台參訪團 photo captions, plus roster/index rows — all already absorbed above. Verified-saturated, SKIP.
 
 Re-grep 2026-10-09 (deepen-x slice 10080600-4): fresh grep (劉義芳 / Yi-Fang Yau / Y. Yau / 義芳) across works/articles/sources/events/topics returned the same saturated hit set (#1566, #290, #382, #383, sources roster). One new article hit (TJJ 游錫堃當選院長, 2025) is a false positive — it names 施義芳 (施姓立委人選), not 劉義芳; no new material. Verified-saturated, SKIP.
+
+Re-grep 2026-10-10 (deepen-x slice 10091400-4): fresh grep (劉義芳 / Yi-Fang Yau / Y. Yau / 義芳) across works/articles/sources/events/topics returned the same saturated hit set (#1566 own record, #290 HAPA-NA 理事 roster, #382/#383 2022 回台參訪團 captions, index, sources roster). The TJJ 游錫堃 article hit is 施義芳 (false positive, flagged 2026-10-09). Nothing new absorbable; no conflicts. Verified-saturated, SKIP.
