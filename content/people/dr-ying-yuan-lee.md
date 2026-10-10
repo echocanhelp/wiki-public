@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # Dr. Ying-Yuan Lee (李應元博士)
 
@@ -96,6 +96,10 @@ last_reviewed: 2026-10-01
 
 - 2021 — 逝世後 NATPA 發表弔文〈哲人日已遠：敬弔李應元博士〉（鄭麗伶會長暨全體理事署名），見台灣公義報「台美人台加人」分類（2025-04-30 存檔）—— [[articles/taiwanjustice-net/2025/20250430202458_category_taiwaneseamerican_a75a6e8c12e18729|TJJ 台美人台加人存檔頁]]。
 - 2021-11 — 逝世後獲 NATPA 弔文〈哲人日已遠：敬弔李應元博士〉，列於台灣公義報「北美洲台灣人教授協會」標籤頁頭條（2021-11-22）（[[articles/taiwanjustice-net/2025/20250914125309_tag_北美洲台灣人教授協會_912bedafc3ae02b4|TJJ NATPA tag, 存檔 2025-09-14]]）。
+- 2020-08 — 駐泰國代表任內因病請辭、返台休養，代表職務懸缺至 2021-11 病逝後 2022-06 由莊碩漢接任（[[articles/taiwanjustice-net/2025/20250328150743_新任駐泰代表莊碩漢履新_綠能出發展開合作關係_e4311c2ae715cdb3|TJJ 莊碩漢履新報導]]）。
+- 2012-04-02 — 時為前駐美正副代表，與吳釗燮偕同柯建銘拜會 AIT 台北辦事處長司徒文，就美牛問題提出「歐盟模式」（比照歐盟買不含瘦肉精美牛、將瘦肉精阻絕境外），以拖待 7 月 Codex 標準（柯建銘口述）（[[articles/taiwanjustice-net/2026/20260118231907_柯建銘_反對或開放美豬美牛進口都是著眼國家利_2e906844e72061a9|TJJ 柯建銘美牛口述，2026-01-18]]）。
+- 2013-12-04 — 出席台北火車站音樂廳「自由的笑聲」台獨聯盟主席黃昭堂逝世 2 周年紀念音樂會（陳菊、蘇貞昌、蔡英文、姚嘉文、許世楷等獨派齊聚），以「李應元委員」列名出席名單（[[articles/taiwanjustice-net/2023/20230922220725_2013_12_05_20131204-2013-黃昭堂音樂會-_獨立媒體_91d9c24a58e5b602|TWIMI 獨立媒體報導]]）。
+- 2021-11-13 — 陳昭南專欄定稿時驚聞其辭世，文末「謹藉此表達無限默禱哀思」——友人執筆悼念之一例（[[articles/taiwanjustice-net/2021/20211207125250_2021_11_13_陳昭南專欄_習拜峰會-美中大國和平競爭的新_ded4a67f30b6103b|TJJ 陳昭南專欄]]）。
 
 <!-- TJJ-A09300400-25: verified 2026-10-04 — subject links in slice 09300400-25 articles (f1972734 我的肥皂箱 p1 / 131a1c8e 台美人台加人 p360 / ced69523 大洛杉磯台灣會館 tag p13 / 49d912cc 長青教室 tag p2) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10020400-1: verified 2026-10-05 — wave-2 re-check of slice 10020400-1 article efea1ad2 哲人日已遠：敬弔李應元博士: subject link re-checked vs 正文 (弔文主角確認), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
