@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-10
 ---
 # Shu Lai (賴淑遠)
 
@@ -59,12 +59,14 @@ last_reviewed: 2026-09-23
 - From our memoir corpus, [[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys #212 (生活座談會 history)]]: she co-founded the **聖東生活座談會** in October 1992 with 林富文夫婦, 孫嘉璘, 郭漢甫, and 許貞華; the group's members went on to serve in NATWA, 陳文成基金會, 同鄉會, FAPA, 公民協會 — matching her NATWA-LA presidency and FAPA board service.
 - Co-initiator of the May 2021 Southern California 僑界 joint statement supporting Taiwan's participation in WHA — [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021 WHA joint statement]] — initiated jointly with Taiwan Center (大洛杉磯台灣會館) and TAHS (台美人歷史協會), consistent with her vice-chairmanship there.
 - Signed the July 2018 open letter of NTU alumni protesting the invitation of 管中閔 by the SoCal NTU alumni council — [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|2018 alumni protest letter]] — listed as 賴淑遠(商學), corroborating her NTU 商學院 (accounting) degree. The letter also lists 賴聰域(數學), corroborating her husband's NTU math-alumnus background.
+- As **總召集人** of the Miss Taiwanese American Pageant, she fronted the 2016 training-camp press conference, stating the pageant's purpose is for winners to advance 台美人形象 and Taiwan's visibility internationally — [[articles/taiwanjustice-net/2023/20230204022253_2016_06_14_2016台美小姐選拔-開訓記者會大洛杉磯台灣會館06122016-_735744492226b90c|2016 開訓記者會]], and again in the 2017 registration announcement — [[articles/taiwanjustice-net/2024/20240522044212_root_9fa7a8e4d341d3e9|2017 選拔開跑]]. She also presented the pageant at the 2017 台美人傳統週 文化美食園遊會 — [[articles/taiwanjustice-net/2024/20240621165558_root_3d28ed5f3bda2d74|2017 傳統週報導]].
 
 ## From the record
 - 複核（TJJ-A10030400-5, 2026-10-05）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|17835ad9]]（2016-06-12 會館第十屆董事會報導）正文再驗證——賴淑遠當選第三副董事長確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2016-06-11 條目已在庫 — SKIP，已飽和。
 - 複核（TJJ-A09250400-14, 2026-09-25）：本 slice 文章 17835ad9（2016-06-12 會館第十屆董事會報導） 主體連結經正文再驗證為真實對應（無錯鏈、無虛鏈）；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 2016-06-11 — 大洛杉磯台灣會館會員大會選出第十屆董事31名，賴淑遠當選第三副董事長（董事長林榮松）（[[articles/taiwanjustice-net/2024/20240425081647_root_17835ad9519f9cfe|TJJ, 2016-06-12]]）。
+- 2018-06-17 — 大洛杉磯台灣會館會員大會選出第11屆個人董事20名（七位新聘），第一次董事會選出田詒鴻董事長，賴淑遠任第三副董事長（第一副董陳柏宇、第二副董蔡漢成、第四副董劉玲華）（[[articles/taiwanjustice-net/2020/20201118162555_2018_06_27_大洛杉磯台灣會館會訊_2018-年六月-_大洛杉磯台灣_79291dad808ef7f7|會館會訊, 2018-06-27]]）。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
