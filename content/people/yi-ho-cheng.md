@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-09
 ---
 # Yi-Ho Cheng (鄭義和)
 
@@ -53,7 +53,7 @@ His TAH encyclopedia entries are archived in the vault:
 - **2018-07** — Lifetime Achievement Award by Taiwanese Association of America — recorded in the vault: [[works/taiwaneseamericanhistory-org/lifetime-achievement-award-yi-ho-cheng|TAH #68, TAA Lifetime Achievement Award]], conferred by [[organizations/taiwanese-association-of-america||Taiwanese Association of America]].
 
 ## First-presidency detail (deepen pass 2026-09-10, absorbed from in-vault 全美會 histories)
-From [[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76 — 全美台灣同鄉會 (吳木盛, 2014/12)]], [[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]] and [[works/taiwaneseamericanhistory-org/22033|TAH #5 — The First president of Formosa Club of America (1970)]]:
+From [[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76 — 全美台灣同鄉會 (吳木盛, 2014/12)]] and its English text [[works/taiwaneseamericanhistory-org/ourjourneys76-eng|Our Journeys #76 (English)]], [[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]] and [[works/taiwaneseamericanhistory-org/22033|TAH #5 — The First president of Formosa Club of America (1970)]]:
 - **1970-01-28** — jointly proposed a national federation with 許和瑞 (Los Angeles 同鄉會, [[people/ho-rui-hsu|ho-rui-hsu]]) and 林錦弘 (Chicago 同鄉會), circular sent to all local clubs.
 - **1970-07-01** — 全美台灣同鄉會 founded in New York with 28 charter chapters; 鄭義和 elected **first president**, 許和瑞 vice president, 陳隆豐 ([[people/dr-lung-fong-chen|dr-lung-fong-chen]]) secretary, 吳錫賢 treasurer; term 1970-07-01 → 1972-06-30.
 - During his term 6 further chapters joined (Minneapolis, Baton Rouge, Dallas, Lawrence, Buffalo, Rochester) — 34 chapters at handover.
@@ -114,3 +114,5 @@ From [[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76 — 全美台灣
 
 <!-- TJJ-A10070700-12: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-12 article a1b5696539a4d641 (彭明敏研討會促跨世代對談共同探討民主價值, 2023-09-24刊/2025-02-13快照): 鄭義和 subject link re-checked vs 正文 (彭明敏文教基金會董事長致詞：1958年台大法律系畢業、彭明敏為其畢業論文指導教授), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10070700-17: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-17 articles (ad7f737b9872262d 第55回世界臺灣文化論壇「大佛普拉斯」, 2022-10-03 / 1251d9ed43ef6e32 美國五大台灣會館評萊豬, 2021-01-12 / 92ff3ef6b0b74b9c 彭明敏紀念研討會跨世代對談, 2023-09-24 / 6e021ae439684a11 台裔吳修銘任拜登特助, 2021-03-05): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10081009-22 (2026-10-09): fresh ZH+EN+surname grep (鄭義和/Yi-Ho Cheng/Yi-Ho) across works/articles/sources/events/topics returned 13 files — 12 already linked on this page; the only unabsorbed hit was the English text of TAH #76 (ourjourneys76-eng), now wikilinked in First-presidency detail. No new dated facts, no conflicts. Page verified-saturated otherwise. -->
