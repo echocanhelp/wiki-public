@@ -7,8 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
-absorbed: "timeline + wikilinks built from on-page TAH profile tables (deepen-x 09100316-24)"
+last_reviewed: 2026-10-10
+absorbed: "timeline + wikilinks built from on-page TAH profile tables (deepen-x 09100316-24); committee composition detail absorbed (deepen-x 10090400-17)"
 ---
 # Shiuho Lin (林秀合)
 
@@ -62,7 +62,7 @@ Built from the on-page TAH profile tables (no new facts added):
 - **Son:** Eric
 
 
-According to the TAH Our Journeys memoir (#316), the New York Taiwanese American Center (紐約台灣會館) formed a senior-center management committee at the end of 2003 with 林秀合 as 執行長 coordinating activities among the associations — consistent with her role as Executive Director of the NY Taiwanese American Senior Center.
+According to the TAH Our Journeys memoir (#316), the New York Taiwanese American Center (紐約台灣會館) formed a senior-center management committee at the end of 2003 with 林秀合 as 執行長 coordinating activities among the associations — consistent with her role as Executive Director of the NY Taiwanese American Senior Center. The committee was chaired by [[people/dr-hong-tien-lai|賴弘典醫師]], with seven members: three 會館 directors (陳春蘭, 蔡明峰, 尤欽德) and four representatives of the former senior associations (何錦華, 吳淑慧, 周秀琴, 吳發鎮). The center and its management committee began operations in January 2004 — see [[works/taiwaneseamericanhistory-org/ourjourneys316|Our Journeys #316]].
 
 ## Connected in the Vault (deepen pass 2026-09-10)
 
