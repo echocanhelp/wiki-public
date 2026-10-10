@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # 蔡佩君
 
@@ -37,7 +37,7 @@ last_reviewed: 2026-09-15
 - **1997** — 個人獨奏會，紐約卡內基獨奏廳
 - **學士 / 碩士** — 茱莉亞音樂學院（The Juilliard School）；曾於茱莉亞先修班任教四年；持有鈴木 (Suzuki) 小提琴教學法資格證書
 - **2010/06** — 博士學位，紐約市立大學 (CUNY)
-- **Present** — 聖地牙哥交響樂團小提琴手；活躍於本地室內樂演出；**2011 春**與鋼琴家張晶晶於聖地牙哥舉行獨奏會 — San Diego Taiwanese community: [[organizations/san-diego-taiwanese-cultural-association||San Diego Taiwanese Cultural Association]]
+- **Present** — 聖地牙哥交響樂團小提琴手；活躍於本地室內樂演出；**2011 春**與鋼琴家 [[people/jessie-chang||張晶晶（Jessie Chang）]] 於聖地牙哥舉行獨奏會 — San Diego Taiwanese community: [[organizations/san-diego-taiwanese-cultural-association||San Diego Taiwanese Cultural Association]]
 
 ## Source-Internal Discrepancy (HOLD)
 
@@ -74,3 +74,8 @@ _No filled family fields on the TAH profile._
 
 ## 再掃（slice deepen-x-slice-09150316-15 / 09150400-1，2026-09-15）
 - 重跑 corpus grep（蔡佩君／Pei Chung Tsai，works+articles）：命中僅自有條目 [[works/taiwaneseamericanhistory-org/228-e8-94-a1-e4-bd-a9-e5-90-9b-violinist-201507|#228]]、[[works/taiwaneseamericanhistory-org/16364|#476]]（均已連結）、works index，及 taiwanjustice.net 梨山新聞之**同名不同人**（台中梨山國中小美術老師，2025-06-17 虹霓新聞拍照者；HOLD 已列於上，不合併、不吸收）。SKIP-with-reason：命中集合兩輪無變，無可吸收新事實。
+
+## 再掃（slice deepen-x-10091404-26，2026-10-10）
+- 重跑 corpus grep（蔡佩君／Pei Chung Tsai／蔡佩，works+articles+sources+events+topics）：命中集合與前輪相同（自有 #228/#476、sources hub、index、taiwanjustice 同名不同人）。無新可吸收事實。
+- 結構性補強：2011 春聖地牙哥獨奏會之鋼琴搭檔張晶晶（Jessie Chang）原為純文字，現補上對向連結 [[people/jessie-chang||Jessie Chang 張晶晶]]——該頁已反向載有此連帶（同屬聖地牙哥交響樂團音樂圈），雙向連帶自此對稱。
+- 張晶晶 TAH 條目 [[works/taiwaneseamericanhistory-org/321-chang-e5-bc-b5-e6-99-b6-e6-99-b6-pianist-201512||#321]]／[[works/taiwaneseamericanhistory-org/731-jessie-chang-e5-bc-b5-e6-99-b6-e6-99-b6-201512||#731]] 內文未再提及蔡佩君，無新事實。
