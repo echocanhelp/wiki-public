@@ -159,3 +159,5 @@ Pages that link to **zhang-xuanxin** (zhang-xuanxin):
 
 <!-- TJJ-A10080401-24: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-24 article 20220705131026_2022_05_16_南加州教會槍殺案_駐處查證_凶嫌為台灣移民_8c20569762592915 (南加州教會槍殺案 中央社報導, 2022-05-16刊/2022-07-05快照): 張宣信牧師拿椅子丟向槍手頭部、教友合力制伏凶嫌之記述 re-checked vs 正文, subject 連結為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10080501-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080501-2 article 131a1c8ea05f85ea (台美人台加人 p360, 2024-07-15快照): 「VOA專訪張宣信牧師：政治傾向不同不是敵人」條目確認見於正文 this attempt; subject link re-checked, real, no wrong/spurious links; dated fact (2022-05-19) w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090501-18: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-18 article 8362234ba338aea7 (南加州槍擊案的省思, 洪錦鈺社論, 2022-05-17): 張宣信牧師與教友奮不顧身制服兇手 re-checked vs 正文 this attempt, real, no wrong/spurious links; 2022-05-17 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
