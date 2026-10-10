@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Jay Chen (陳介飛)
 
@@ -59,3 +59,4 @@ Mt. SAC Board Chen2-Jay Chen of the Mt. SAC Board of Trustees January 13, 2016.
 <!-- deepen-x slice 10051340-5 re-verify 2026-10-06: fresh ZH+EN+partial-name grep (works/articles/sources/events/topics) — hit set identical to prior absorptions (own TAH records + already-linked work pages + index); partial-name hits resolved to different people. Verified-saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 10062334-5 re-verify 2026-10-08: fresh ZH+EN+surname grep (works/articles/sources/events/topics) — hit set identical to prior absorptions: own TAH #2079, the four already-linked work pages (TACL 25-yr memoir mentor mention, congress kickoff, re-election fundraiser, school-board celebration) + sources rollup. No new corpus material. Verified-saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 10080500-17 re-verify 2026-10-09: fresh ZH+EN+partial-name grep (陳介飛 / Jay Chen / 介飛 across works/articles/sources/events/topics) — hit set identical to prior absorptions: own TAH #2079, the four already-linked work pages (TACL 25-yr memoir mentor mention, congress kickoff, re-election fundraiser, school-board celebration) + works index + sources rollup. 介飛-only hits resolve to the same person's own records. No new corpus material. Verified-saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 10090900-17 re-verify 2026-10-10: fresh ZH+EN+partial-name grep (陳介飛 / Jay Chen / 介飛 across works/articles/sources/events/topics) — hit set identical to prior absorptions: own TAH #2079, the four already-linked work pages (TACL 25-yr memoir mentor mention, congress kickoff, re-election fundraiser, school-board celebration) + works index + sources rollup. No new corpus material. Verified-saturated; SKIP-no-new-facts. -->
