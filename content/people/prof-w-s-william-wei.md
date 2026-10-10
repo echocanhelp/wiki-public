@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-12
+last_reviewed: 2026-10-10
 ---
 # Prof. W.S. William Wei (魏武雄教授)
 
@@ -36,6 +36,7 @@ Prof. W.S. (William) Wei 魏武雄教授 – History of Taiwanese American (T.A.
 - **Education** — NTU B.A. Economics (1966); Univ. of Oregon B.A. Mathematics (1969); Univ. of Wisconsin M.S. Statistics (1972), Ph.D. Statistics (1974)
 - **Civic leadership** — Founding president, Taiwanese Hakka Association of Greater Philadelphia (1999); president, [[organizations/taiwanese-association-of-america-greater-philadelphia|TAAGP 大費城台美協會]] (2001); president, Pennsylvania Branch of Taiwanese Association for Public Affairs (2002–2003); chair, TAAGP High School Scholarship Committee (2003–2004); president, Taiwanese Hakka Association – East Coast (2004–2005); president, [[organizations/taiwan-hakka-association-for-public-affairs-in-north-america|Taiwan Hakka Association for Public Affairs in North America]] (2005–2006); board member, [[organizations/north-america-taiwanese-professors-sc|North America Taiwanese Professors' Association]] (2006–2007; the vault page documents the Southern California chapter); president, Taiwanese Hakka Associations of America (2014–2015)
 - **Local education** — Member, Upper Dublin School District Education Advisory Committee (1993, 1994)
+- **Community memoirs** — His own accounts in the TAH corpus: [[works/taiwaneseamericanhistory-org/mystories479|479. 從看牛的孩子到美國大學教授 (11/2016)]] and [[works/taiwaneseamericanhistory-org/mystories562|562. 我的教書生涯 – 從台灣小學老師到美國大學教授 (07/2017)]] describe a rural childhood and teaching at a Taiwan elementary school before graduate study; [[works/taiwaneseamericanhistory-org/ourjourneys252|252. 續談美洲台灣客家聯合會並簡介北美台灣客家公共事務協會 (09/2016)]] is his own account of THAA and HAPA-NA, and the association roster in [[works/taiwaneseamericanhistory-org/ourjourneys290|290]] confirms his HAPA-NA presidency (2005–2006)
 
 ## Family
 
