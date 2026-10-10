@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Prof. Bernard Travis Lee (李伯寧教授)
 
@@ -71,3 +71,9 @@ Prof. Bernard Travis Lee 李伯寧教授 – History of Taiwanese American (T.A.
 
 ## Vault deepening note (slice 09140107-9, 2026-09-14, vault-only)
 - Absorbed only what the vault already holds: the father's own person page [[people/dr-ching-tse-lee]] is now linked directly (previously only his three TAH work pages were), and his Harvard/Tufts institution years are cross-linked to the existing campus-org pages. No new biographical facts invented; the three cited TAH records (#33/#285/#592) remain bibliographic stubs in the vault, so no further text could be absorbed. Status: pending-verification.
+
+## Role in the Community (corpus-absorbed, slice 10091400-14, 2026-10-10)
+- In the corpus's overview of the physician community, [[works/taiwaneseamericanhistory-org/ourjourneys291|291. 台美人醫師 overview (黃哲陽, 2017-05)]] names him as one of only two exemplars of the *second-generation* Taiwanese American physician cohort — alongside Chi-Cheng Huang (Kaya International, Bolivia) — singled out for his plastic-surgery skill "尤其 microsurgery，是世界一流" and for having recently been recruited to a faculty post at Harvard Medical School. The passage frames this generation as the successor to the first-generation physician cohort then nearing retirement, including via NATMA chapter boards largely taken over by the second generation.
+- That framing is a direct continuation of the family line already on this page: as the son of [[people/dr-ching-tse-lee|Dr. Ching-Tse Lee 李清澤博士]], he is cited as the corpus's example of 克紹其裘 (the first-generation physicians' hope that a child would carry on the trade) — see the same overview passage.
+- He is also the sole subject of a dedicated profile in the corpus: [[works/taiwaneseamericanhistory-org/288-e6-9d-8e-e4-bc-af-e5-af-a7-e9-86-ab-e5-b8-ab-e7-9a-84-e6-95-85-e4-ba-8b-e6-9|288. 李伯寧醫師的故事 (施長要, 2015-06)]], which 黃哲陽's overview cites as the source for the "world-class microsurgery" claim above.
+- No conflicts found between the corpus passages and the existing biographical text; nothing held.
