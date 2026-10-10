@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 
 
 ## From the record
+<!-- TJJ-A10090501-9: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-9 article 4a5080befc342f69 (戴琪與鄧振中首度視訊對話、美台重啟TIFA, taiwanjustice.net, 2021-06-10 刊 / 20210616081448 快照) read fresh this attempt: subject link re-checked vs 正文 — 「駐美大使蕭美琴也出席今晚台美視訊會議」之記述確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - 複核（TJJ-A09260600-4, 2026-09-27）：本 slice 文章 [[articles/taiwanjustice-net/2025/20250518232637_戴琪_台美貿易倡議盼在關鍵領域達高標準成果_6d16f9e35d9e3188|6d16f9e3]] 正文再驗證——駐美代表蕭美琴視訊出席美台21世紀貿易倡議首場會談並會後受訪確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2022-06-27 條目已在庫 — SKIP，無新材料。
 
