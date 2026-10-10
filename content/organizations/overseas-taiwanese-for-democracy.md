@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # Overseas Taiwanese for Democracy (海外台灣青年陣線)
 
@@ -46,12 +46,13 @@ Overseas Taiwanese for Democracy (海外台灣青年陣線) is a North American 
 - **2014** — Emerged from the transnational solidarity efforts surrounding Taiwan's Sunflower Movement, in which overseas Taiwanese students amplified international coverage of the occupation of Taiwan's Parliament in protest of the Cross-Strait Service Trade Agreement
 - **2014-08** — Founded per member 林子堯's account: while studying economics at the University of Maryland he was inspired by Taiwan's g0v zero-hour government data-visualisation platform during 318; that August he met like-minded youths from other U.S. states, and the group formed an online exchange platform, later named 海外台灣青年陣線 (海台青)
 - **2015** — Held an annual conference themed around cross-generational Taiwanese subjectivity
-- **2017** — Introduced a hackathon (黑客松) workshop and Mandarin- and Taiwanese-speaking youth at the U.S. East Coast Taiwanese Summer Camp (TACEC), injecting new blood into the nearly half-century-old camp
+- **2017** — Introduced a hackathon (黑客松) workshop and Mandarin- and Taiwanese-speaking youth at the U.S. East Coast Taiwanese Summer Camp (TACEC), injecting new blood into the nearly half-century-old camp; 楊遠薰's separate camp report puts OTD attendance at 80 within the TAC/EC's 400+ (alongside TANG's 300) — HOLD: 80 (2017-07-09 report) vs 67 participants/speakers (2017-07-01 general-meeting figure in the same author's column), never auto-merged
 - **Post-2014** — Conferences held under the auspices of Overseas Taiwanese for Democracy (OTD) connected Taiwanese students studying across the U.S.; organising was assisted by FAPA, the main Taiwanese lobbying organisation in the US. First-hand account: [[works/taiwaneseamericanhistory-org/our-journeys-373|TAH #373 海外台灣學生運動與太陽花學運後政治]]
 
 ## Role in the Community
 
 - Per the corpus memoir [[works/taiwaneseamericanhistory-org/our-journeys-373|TAH #373 海外台灣學生運動與太陽花學運後政治]], OTD conferences were the networking hub that connected Taiwanese students studying across the U.S., with organising support from FAPA (Formosan Association for Public Affairs); the same first-hand account situates this student network alongside the New York Cafe Philo scene, hosted by software engineer [[people/hsin-cheng-hsiao|蕭新晟 Hsin-cheng Hsiao]].
+- 楊遠薰's camp report [[articles/taiwanjustice-net/2021/20211205054150_2017_07_10_2017年美東台灣人夏令會-_-楊遠薰-報導-2017-07-09_29faf54b8c9e2d10|2017年美東台灣人夏令會]] (2017-07-09) sizes OTD at 80 of the TAC/EC's 400+ attendees — the community's own headcount of OTD's footprint inside the decades-old camp coalition.
 - 楊遠薰's column [[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|海台青與黑客松]] (taiwanjustice.net, 2017-07-24; same column re-archived 2024: [[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7|Wayback copy via TJJ]]) is the community's primary account of the founding, based on an interview with member 林子堯 (University of Maryland economics Ph.D. student); 林子堯 currently has no vault page.
 
 ## Standing activities
