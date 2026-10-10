@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Janice Ger (吳瑩瑛)
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-10-09
 <!-- deepen-x 10051143-25: re-verified 2026-10-06 — fresh ZH+EN grep (吳瑩瑛/Janice Ger) across all corpus dirs returns only the four linked records (#625, mystories236, #386, hub); #386/#625 confirmed bibliographic-record-only (full text stays in vault), no body facts to absorb. Still saturated. -->
 <!-- deepen-x 10062218-4: re-verified 2026-10-08 — fresh ZH+EN grep (吳瑩瑛/Janice Ger) across all corpus dirs returns the same closed set (#625 晚風習習木長青, mystories236 父親的國畫之路, #386, #385 James Ger, hub/index); all already linked on-page. Still saturated, nothing absorbable. -->
 <!-- deepen-x 10080600-28: re-verified 2026-10-09 — fresh ZH+EN+partial (吳瑩瑛/Janice Ger/瑩瑛) grep across all 5 corpus dirs returns the same closed set (#625, mystories236, #386, index/hub); all already linked on-page, hits are title/byline only, no new body facts. Still saturated. -->
+<!-- deepen-x 10091500-21: re-verified 2026-10-10 — fresh ZH+EN+partial grep across all 5 corpus dirs returns the identical closed set (#625 晚風習習木長青, mystories236 父親的國畫之路, #386, index/hub), all already linked on-page; the three work pages are bibliographic-record-only stubs (full text in vault), no body facts to absorb. Family-name sweep (葛原隆/Christine Ger/Michael Ger) outside their own records returns nothing. Still saturated. -->
