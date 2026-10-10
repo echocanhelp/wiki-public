@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Dr. Mike Kuo (郭正光博士)
 
@@ -70,7 +70,7 @@ Per his TAH Who's Who profile, Dr. Kuo led both the community and advocacy sides
 
 ## Connected in the Vault
 - Vault records about him: [[works/taiwaneseamericanhistory-org/157-dr-mike-kuo|157. Dr. Mike Kuo 郭正光博士]] · [[works/taiwaneseamericanhistory-org/whos-who-538-mike-kuo|538. Dr. Mike Kuo 郭正光博士]] · [[works/taiwaneseamericanhistory-org/249-e9-83-ad-e6-ad-a3-e5-85-89-e5-8d-9a-e5-a3-ab-dr-mike-kuo-e7-ac-ac-e4-b8-80-e|249. 郭正光博士 / 第一位廚師(郭大廚)擁有食品營養學博士 / 1980]] · [[works/taiwaneseamericanhistory-org/250-e9-83-ad-e6-ad-a3-e5-85-89-e5-8d-9a-e5-a3-ab-dr-mike-kuo-e7-ac-ac-e4-b8-80-e|250. 郭正光博士 / 第一位經歷無重力狀態飄浮空中的滋味]]
-- His own memoir in the story corpus: [[works/taiwaneseamericanhistory-org/mystories319|319. 從椰林大道到休士頓太空中心 / 郭正光 / 2015/08]]; his FAPA chapter presidency is recorded in the FAPA chapter chronicle [[works/taiwaneseamericanhistory-org/our-journeys-370|370. FAPA TX-C中徳州分會記事 2018- / Pearl Wu]].
+- His own memoir in the story corpus: [[works/taiwaneseamericanhistory-org/mystories319|319. 從椰林大道到休士頓太空中心 / 郭正光 / 2015/08]] (EN edition: [[works/taiwaneseamericanhistory-org/mystories319-eng|319 EN — From Royal Palm Boulevard to Space Center Houston]]); his FAPA chapter presidency is recorded in the FAPA chapter chronicle [[works/taiwaneseamericanhistory-org/our-journeys-370|370. FAPA TX-C中徳州分會記事 2018- / Pearl Wu]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
@@ -86,3 +86,4 @@ Per his TAH Who's Who profile, Dr. Kuo led both the community and advocacy sides
 <!-- TJJ-A10040600-11: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-11 article 53455d7e13136092 (海外台灣人社團拒一國兩制挺港聯合聲明, 2024-02-21快照, 2019-09-04發布): subject link re-checked vs 正文中英署名清單, real, no wrong/spurious links; 2019-09-03 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060800-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-5 article 53455d7e13136092（拒一國兩制！海外台灣人社團聯合聲明支持香港, 2019-09-04刊）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- deepen-x 10081100-1: 2026-10-09 — fresh ZH+EN grep (郭正光/Mike Kuo/Cheng-Kuang) across all 5 corpus dirs returned 17 files; every hit is an already-absorbed or already-linked work (memoir mystories319, Our Journeys #106/#233/#238/#307/#370/#382, My Stories #623, TAH #157/#249/#250/#538, TJJ 53455d7e) — saturated, no new biography material. Added the missing EN-edition link [[works/taiwaneseamericanhistory-org/mystories319-eng|319 EN]] to his memoir; last_reviewed bumped. No conflicts found. -->
