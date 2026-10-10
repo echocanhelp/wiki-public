@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-13
+last_reviewed: 2026-10-09
 ---
 # Prof. Helen Lee (李雪玟教授)
 
@@ -54,6 +54,17 @@ Structured from the TAH Who's Who biography and tables already mirrored on this 
 - University of Nevada–Reno campus 服務三十年貢獻獎 (30-year service contribution award), 2016-10 — see [[works/taiwaneseamericanhistory-org/7-university-of-nevada-reno-campus-helene-lee|TAH #7: UNR campus服務三十年貢獻獎 / Helene Lee 李雪玟 (10/2016)]]
 
 Education (per TAH encyclopedia tables): B.A. Music, Chinese Culture University; M.A. Music, Brigham Young University. Family (per TAH profile): husband 李明義; daughter Eileen Lee 世芳; son Felix Lee 世揚.
+
+## Role in the Community
+
+Corpus records beyond the press-kit bio show Lee as a published author and community chronicler within the Taiwanese American movement, not only a performer:
+
+- Author of personal essays in the MYStories memoir corpus: [[works/taiwaneseamericanhistory-org/mystories476|永遠感恩美國 永不忘母親台灣 (10/2016)]] and [[works/taiwaneseamericanhistory-org/mystories642|一位作母親的選擇 (06/2018)]] — memoir material on gratitude to the U.S. and mother-Taiwan themes, and a mother's choices.
+- Co-subject, with 郭敏俊 ([[people/jackson-kuo|Jackson Kuo]]), of [[works/taiwaneseamericanhistory-org/mystories453|the 08/2016 "Car for Taiwan" sketch-book donation to 繁華教會 in 屏東]] — her home-town church connection.
+- Speaker on Taiwan's status before the community: lecture "Taiwan Stands Tall" at the 美東南區台灣人海上夏令會 (Southeast-region Taiwanese cruise summer camp; account published in [[works/taiwaneseamericanhistory-org/ourjourneys101|Our Journeys #101, 吳明美, 2015/02]]), opening the assembly with vocal performance. She framed the then-upcoming 2008 presidential election as deciding whether "Taiwan" as a country would exist; fellow speakers named in the account include 林衡哲, 劉一德, 高成炎, 徐永明, 涂醒哲.
+- Performed at TAC/EC 2009 ("唱出臺灣人的心聲") — [[works/taiwaneseamericanhistory-org/videos43|video record #43]].
+- Published music catalog on TAH: early LP [[works/taiwaneseamericanhistory-org/526-early-lp-record-e6-9d-8e-e9-9b-aa-e7-8e-9f-helen-lee-music-e9-9f-b3-e6-a8-82|#526]], 1995/05 女高音獨唱會 [[works/taiwaneseamericanhistory-org/528-e6-9d-8e-e9-9b-aa-e7-8e-9f-e5-a5-b3-e9-ab-98-e9-9f-b3-e7-8d-a8-e5-94-b1-e6-9|#528]], 2013/12 世界名曲演唱會 [[works/taiwaneseamericanhistory-org/529-e6-9d-8e-e9-9b-aa-e7-8e-9f-e6-95-99-e6-8e-88-e4-b8-96-e7-95-8c-e5-90-8d-e6-9|#529]], 1982 TV/1989 news recordings [[works/taiwaneseamericanhistory-org/527-1982-taiwan-tv-show-and-1989-tv-4-news-king-i-e6-9d-8e-e9-9b-aa-e7-8e-9f-hel|#527]], and soprano profile [[works/taiwaneseamericanhistory-org/musician68|Musician #68 (10/2014)]].
+- Wrote the concert report [[works/taiwaneseamericanhistory-org/153-e5-8f-b0-e7-be-8e-e4-ba-ba-e5-90-8d-e5-b0-8f-e6-8f-90-e7-90-b4-e5-ae-b6-e6-9|台美人名小提琴家林昭亮：震撼內華達的一場演奏會]] — writing as well as performing about the Nevada Taiwanese American music scene.
 
 ## Sources
 - [TAH #16 encyclopedia: 16. Prof. Helen Lee 李雪玟教授](https://taiwaneseamericanhistory.org/16-prof-helen-lee/)
