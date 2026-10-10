@@ -4,7 +4,7 @@ type: person
 name_en: "Hung-Jen Liu"
 name_zh: "劉弘仁"
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 tags:
   - person
   - pastor
@@ -25,7 +25,7 @@ tags:
 - **Hung Jen Liu** — as printed by the TCCCNA PCUSA directory (primary source for the English form; Wade-Giles-style romanization of the Mandarin reading)
 - **John Hung Jen Liu** — TCCCNA listing includes the English given name "John"
 - **Hong Ren Liu / Hung-jen Liu / Liu Hung-jen** — pinyin and Tongyromaji-influenced variants of the same Chinese name; low confidence that the subject ever published under these forms
-- Not to be confused with: 吳泓仁 Hung-Jen Wu (engineer, [[people/hung-jen-wu]]); Dr. Hung-Jen Liu 劉弘仁 (child psychiatrist, Taipei — different person)
+- Not to be confused with: 吳泓仁 Hung-Jen Wu (engineer, [[people/hung-jen-wu]]); Dr. Hung-Jen Liu 劉弘仁 (child psychiatrist, Taipei — different person); **劉弘威 Goodwin Liu** (加州最高法院大法官 — grep collision on 劉弘~仁 in the corpus, different person); Rev. William Lew 劉靄泉 (英語部牧師 at [[organizations/formosan-presbyterian-church-in-los-angeles|Formosan Presbyterian Church in Los Angeles]], [[works/taiwaneseamericanhistory-org/ourjourneys231|TAH #231]] — another 劉牧師, different person)
 
 ## Ministry
 - **Taiwan (PCT)** — Moderator of the Changhua Presbytery (彰化中會議長), mid-1970s. On 1975-05-02 he officiated the founding and dedication (開設與獻堂感恩禮拜) of the Ren'ai Church (仁愛教會) of Xinbao village, Fangyuan, Changhua county, bringing it into the PCT. The church emerged from a split in the newly built Xinbao congregation (a cross-denominational pastoral intervention caused an ideological division); as a breakaway group it needed presbytery-level reception — which is why the Moderator himself officiated. The congregation built its own sanctuary in 1980, was elevated to full self-governing 堂會 status on 1984-08-04, and called its first settled pastor on 1984-12-30: [[sources/pct-renai-church-history||PCT church history]].
@@ -70,3 +70,4 @@ Please confirm or correct: birth year; seminary and ordination year (Taiwan and/
 ## Revision History
 - 2026-09-20 — Page created from web pass requested by Leonard Hsu Jr. (TAHS); identity merge (Changhua moderator) recorded as operator assessment, pending confirmation.
 - 2026-09-14 — Deepening pass (vault-first corpus grep + primary-source re-fetch): Ren'ai Church founding context expanded from PCT history; TCCCNA entry recorded at fact level (email/phone, no-pulpit format, Bay Area peer list); TCNN memorial expanded (Hsieh, Song's 2013 return constraint); Timeline section added; 3 fact-level source pages created; negative sweep result (psychiatrist homonym) logged.
+- 2026-10-10 — Deepen-X pass: full-corpus grep (works/articles/sources/events/topics) for 劉弘仁 / Hung Jen Liu hits only the 3 already-absorbed vault source pages (TCCCNA, TCNN, PCT Ren'ai). Two new grep collisions identified as DIFFERENT people and added to disambiguation: 劉弘威 Goodwin Liu (CA Supreme Court justice; works #3/#109/#160 + taiwanjustice article) and Rev. William Lew 劉靄泉 (英語部牧師, FPCLA 50-year history, [[works/taiwaneseamericanhistory-org/ourjourneys231|TAH #231]]). No new absorbable facts.
