@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Rue-Lin Hung (洪瑞麟)
 
@@ -68,3 +68,10 @@ last_reviewed: 2026-09-14
 - 回憶錄中提及：[[works/taiwaneseamericanhistory-org/ourjourneys256||TAH #256]]——記者在台時曾與洪瑞麟等會友創《紀美美術會》，並為台陽畫會會員（與本页「退出台陽美協」記載互證）；該回忆錄另載「洪瑞麟，1912年生，台北市人」，與本页 Era/地理欄一致，無新增事實。
 - 語料庫掃描（deepen-x 09141213-18）：corpus 命中僅本人事跡書目頁（#868/#10/#9）與已吸收之 #256，無其他可吸收社群事實。
 - publisher／語料庫：[[organizations/tah-foundation||TAH Foundation]]、[[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]]。
+
+## 語料掃描（deepen-x slice 10090500-6，2026-10-10）
+
+- 全語料重扫（works/articles/sources/events/topics）：實質命中僅已吸收之 [[works/taiwaneseamericanhistory-org/ourjourneys256||TAH #256]]、[[works/taiwaneseamericanhistory-org/whos868-rue-lin-hung||#868]]、[[works/taiwaneseamericanhistory-org/artist10-jui-lin-hung||#10]]、[[works/taiwaneseamericanhistory-org/art-show-9||#9]] 與樞紐頁，無新增可吸收社群事實。
+- 假陽性排除：TJJ 四篇「洪瑞」命中為台南記者**洪瑞琴**（非洪瑞麟）；「Mouve」命中為法文書名 *Le Mouvement Indépendantiste Taiwanais*（傑弗莉著），與 Mouve 行動美術集團無關。
+- 別名／親屬 grep（礦工畫家、端芳、懷山煤、洪鈞雄、洪白雪、洪梅紅、洪南山）：除已載來源外無新命中；[[works/taiwaneseamericanhistory-org/867-sam-hung-e6-b4-aa-e5-8d-97-e5-b1-b1-201603||TAH #867]] 為子洪南山之書目頁，無正文事實。
+- 本頁維持既有 HOLD 三則（紀美/紀元畫會、端芳/懷山/瑞芳礦名、「華府的華盛頓大學」），未擅自合併。
