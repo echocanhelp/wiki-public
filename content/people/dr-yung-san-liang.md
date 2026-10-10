@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Dr. Yung-San Liang (梁永三博士)
 
@@ -30,6 +30,10 @@ Accomplishment
 ## Employment
 - Univ. of Lowell — Research Foundation Biochemist — (1976-1995) — Biomedical Research Institute — Biochemist Researcher — (1995-2012) — Community — Taiwanese American Association of Great D.C. Areas — Board of Directors (2002-2003) — Washington D.C. Taiwan School — Volunteer Teacher of Japanese Language — Taiwan Youth Art Foundation in D.C. Area — Outstanding Service Award recipient (2002-2003)
 <!-- tah-tables:end -->
+
+## Role in the Community
+- Memorialized in the community record after his passing: [[works/taiwaneseamericanhistory-org/photo-albums-activities-138|TAH #138 In Memory of Dr. Yung-San Liang 梁永三博士生命的禮讚]] (2019-01-10) and the tribute profile [[works/taiwaneseamericanhistory-org/mystories670|TAH #670 梁永三阿伯人物誌 by 李宜軒]] (2019-01-06) — both in the TAH story corpus, confirming he is remembered by name in the Taiwanese American community record ("阿伯" = the affectionate elder form of address).
+- Board service and community roles per the on-page tables: see Timeline and the Vault records notes below.
 
 ## Timeline
 - **1931** — Born in Tamsui, Taiwan.
