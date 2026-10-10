@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-10
 ---
 # Prof. Ping-Hui Liao (廖炳惠教授)
 
@@ -88,6 +88,8 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10060400-17: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-17 articles (ad7f737b9872262d 第55回世界臺灣文化論壇「大佛普拉斯」, 2022-10-03 / 1251d9ed43ef6e32 美國五大台灣會館評萊豬, 2021-01-12 / 92ff3ef6b0b74b9c 彭明敏紀念研討會跨世代對談, 2023-09-24 / 6e021ae439684a11 台裔吳修銘任拜登特助, 2021-03-05): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060700-4: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060700-4 articles (11aa2dfa5f64d7e4 楊子清 tag頁 / 2490b18e8f37ea79 第166回世界台灣文化論壇 / 89e6683c93156205 台美人台加人 p356 / 79b5f26fdef89d22 2023台美小姐選拔賽): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10070700-17: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-17 articles (ad7f737b9872262d 第55回世界臺灣文化論壇「大佛普拉斯」, 2022-10-03 / 1251d9ed43ef6e32 美國五大台灣會館評萊豬, 2021-01-12 / 92ff3ef6b0b74b9c 彭明敏紀念研討會跨世代對談, 2023-09-24 / 6e021ae439684a11 台裔吳修銘任拜登特助, 2021-03-05): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10081300-28: verified 2026-10-10 — fresh ZH+EN grep (廖炳惠/廖炳輝/Ping-Hui Liao/Peng-hui Liao) across all 5 corpus dirs; hit set saturated vs existing Role/From-the-record entries. Two structural details absorbed from ceremony coverage: (1) The Center for Taiwan Studies is led by CO-Directors — Dr. Ping-Hui Liao and Dr. Nancy Guy — per the ceremony photo captions in [[works/taiwaneseamericanhistory-org/our-journeys-385|TAH Our Journeys #385]]; HOLD: page text "Founding director" vs OJ #385 caption "Co-Director" (same person, title granularity, not merged). (2) 2023-05-16 — 廖炳惠 gave a 大紀元 interview (聖地牙哥, 記者徐曼沅, reported 2023-05-19) sharing the Center's lecture programming and his framing of new directions for Taiwan Studies across different frames/fields, mirrored in [[works/taiwaneseamericanhistory-org/our-journeys-386|TAH Our Journeys #386]]. -->
 
 <!-- TJJ-A10071100-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071100-1 articles (11aa2dfa5f64d7e4 楊子清 tag頁 / 2490b18e8f37ea79 第166回世界台灣文化論壇 / 89e6683c93156205 台美人台加人 p356 / 79b5f26fdef89d22 2023台美小姐選拔賽): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
