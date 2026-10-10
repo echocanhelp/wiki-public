@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-10
+last_reviewed: 2026-10-09
 ---
 # Will Tiao (刁毓能)
 
@@ -59,6 +59,16 @@ Additional records about this person already held in the vault (taiwaneseamerica
 - [[works/taiwaneseamerican-org/will-tiao-speaking-at-emory-university-422||Will Tiao speaking at Emory University 4/22 (2010)]]
 - [[works/taiwaneseamericanhistory-org/10-formosa-betrayed-e8-a2-ab-e5-87-ba-e8-b3-a3-e7-9a-84-e5-8f-b0-e7-81-a3||TAH #10 — Formosa Betrayed (film record)]]
 - TAHS campus-network pages: [[organizations/taiwanese-association-of-students-at-tufts||Taiwanese Association of Students at Tufts]], [[organizations/columbia-university-taiwanese-student-association||Columbia University Taiwanese Student Association]]
+
+## Role in the Community (deepen pass 2026-10-09)
+Fresh corpus pass across works/articles/sources/events/topics surfaced record groups not previously linked:
+
+- **Early career — Formosa Foundation intern.** Before Capitol Hill, Tiao interned for the Formosa Foundation; the formosa-betrayed premiere write-up notes this alongside his Washington work on US–Taiwan legislation. He began his college career as a Music major before shifting to international relations.
+- **Formosa Betrayed, four-year arc.** [[works/taiwaneseamerican-org/introducing-will-tiao|Introducing Will Tiao (2006)]] first featured him during the film's early fundraising, when he had raised his first $50,000; he then raised capital in 60+ cities from investors worldwide. Director Justin Lin's 2009 reflection, [[works/taiwaneseamerican-org/director-justin-lin-on-asian-american-filmmaking|Director Justin Lin on Asian American Filmmaking]], describes rallying community investors to "multi-million" capital — "an amount unheard of by Asian American independent film standards" — and hiring seasoned actors and director Adam Kane, with co-producer David Allen Cluck and associate producer Jon Lee. The company behind the marketing-for-distribution strategy is named **Formosa Films** in Lin's account (vs. "Formosa Entertainment" in the TAH tables — HOLD: company-name variant across sources).
+- **Premiere, February 2010.** [[works/taiwaneseamerican-org/formosa-betrayed-giving-voice-to-history-via-the-big-screen|Formosa Betrayed: Giving Voice to History via the Big Screen]] describes the LA premiere (~400 guests, James Van Der Beek, Wendy Crewson, John Heard, Tzi Ma, Kenneth Tsang, Leslie Hope; most cast and crew took reduced pay), and [[works/taiwaneseamerican-org/remember-228-celebrate-identity-and-make-history|Remember 228 — Celebrate Identity and Make History]] frames the opening weekend as a community mobilization test — "four years of work by Will Tiao and his team."
+- **2009 ITASA conferences.** At the [[works/taiwaneseamerican-org/itasa-west-coast-and-midwest-conferences-2009|ITASA West Coast and Midwest Conferences (2009)]] Tiao screened clips of the film to second-generation students; attendee Jon Lee's line — "the story of our grandparents, funded by our parents" — is quoted there.
+- **2013 public voice.** In [[works/taiwaneseamerican-org/taiwanese-american-ang-lee-wins-best-director-academy-award-for-life-of-pi|the Ang Lee Oscar-win coverage (2013)]] Tiao posted as executive producer of Formosa Betrayed (2009), congratulating "Taiwan's Ang Lee."
+- HOLD: development timeline — three years (2006 feature → 2010 premiere, per the premiere write-up), four years (Justin Lin, 2009), five years (earlier vault note). Never auto-merged.
 
 ## Sources
 - [TAH #233 encyclopedia: 233. Will Tiao 刁毓能](https://taiwaneseamericanhistory.org/ota-233/)
