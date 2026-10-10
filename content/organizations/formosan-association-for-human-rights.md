@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Formosan Association for Human Rights
 
@@ -30,6 +30,15 @@ last_reviewed: 2026-09-24
 - **Chen Wen-cheng fund (許永華's memoir):** on 1976-08-12 the first public fund-drive issued under the name 「陳文成敎授紀念基金會」 was launched through the 台灣人權協會 chapters in 匹茲堡 (Pittsburgh), 安雅堡 (Ann Arbor), 蘭莘 (Lansing) and 底特律 (Detroit), answering dispersed Taiwanese demands to support the Chen Wen-cheng family; the appeal ran in the 世台會 journal 「台灣通訊」 and was reprinted in 美麗島週刊 and 台灣公論報, with all proceeds earmarked for the living and education costs of 陳文成's wife 陳素貞 and their young son — [[works/taiwaneseamericanhistory-org/ourjourneys321|321. 由陳文成紀念基金會的創立談起 (許永華, 2017-11)]].
 - **Publication record:** 新聞通訊 by 台灣人權協會, era 2017 — [[works/taiwaneseamericanhistory-org/news-fahr|新聞通訊]]; 張丁蘭's founding account also exists in English — [[works/taiwaneseamericanhistory-org/ourjourneys75-eng|75 (EN)]].
 - **Chapter record:** 南加州台灣人權協會 (FAHR S. California), era 2014 — [[works/taiwaneseamericanhistory-org/formosan-association-for-human-rights-s-california|3. FAHR (S. California) 南加州台灣人權協會]]; Michigan chapter listed at [[works/taiwaneseamericanhistory-org/michigan-taiwanese-association-for-human-rights|Michigan Taiwanese Association for Human Rights]].
+- **First president:** 張丁蘭 (Tina Chang) is recorded as the first president of 北美洲台灣人權協會 (1976) — [[works/taiwaneseamericanhistory-org/64-tina-chang-e5-bc-b5-e4-b8-81-e8-98-ad-the-first-president-of-e5-8c-97-e7-be-8|64. Tina Chang 張丁蘭 / First President / 1976]]; companion record [[works/taiwaneseamericanhistory-org/65-e5-8c-97-e7-be-8e-e6-b4-b2-e5-8f-b0-e7-81-a3-e4-ba-ba-e6-ac-8a-e5-8d-94-e6-9c|65. 北美洲台灣人權協會 / First human-rights organization / 1976]].
+- **Organizational histories in the corpus:** 台灣人權協會簡史 (2018; English version also exists) — [[works/taiwaneseamericanhistory-org/project-3-40|40. 台灣人權協會簡史]] / [[works/taiwaneseamericanhistory-org/project-3-40-eng|40 (EN) History of FAHR]]; 台灣人權協會 1970–1990年代的故事 by 黃根深、王廷宜(泰和)、莊秋雄 (2015) — [[works/taiwaneseamericanhistory-org/publications1040|TAH #1040]].
+- **高雄事件專輯 (1980):** published by 台灣人權協會 in the wake of the 美麗島/高雄事件 — [[works/taiwaneseamericanhistory-org/publicatoins1178|1178. 高雄事件專輯 / 台灣人權協會 / 11-1980]].
+- **Washington, D.C. chapter (華府台灣人權會):** 1987 fund-drive to erect a 228 memorial tombstone in Taiwan — [[works/taiwaneseamericanhistory-org/228-50|募捐在台籌設二二八紀念墓碑 by 華府台灣人權會 / 1987]].
+- **Houston chapter program:** 台灣民主鬥士子女獎學金 (scholarship for children of Taiwan democracy fighters) — [[works/taiwaneseamericanhistory-org/projects1-47|47. 台灣民主鬥士子女獎學金 by 台灣人權協會休士頓分會]].
+- **Canada branch:** 台灣人權協會加拿大本部 listed in 黃武東's 台灣人在北美洲 (2016), with the U.S. national office at 7813 Gabacho St., Carlsbad, CA — [[works/taiwaneseamericanhistory-org/ourjourneys266|266. 台灣人在北美洲 (黃武東)]].
+- **New York chapter:** founding member society of the 紐約紐澤西台灣人社團聯合會 (Taiwanese Community Council), alongside 陳文成敎授紀念基金會 and NTA New York — [[works/taiwaneseamericanhistory-org/ourjourneys09|9. 第一聲號角：台灣會館建館委員會的誕生 (黃再添)]].
+- **Officer record:** [[people/michael-s-k-chen||陳希寬 (Michael S. K. Chen)]] served as 會計 (treasurer) of 台灣人權協會 after stepping down as WUFI vice-chair — [[works/taiwaneseamericanhistory-org/ourjourneys33|33. 一家人做伙來打拼 (張炎憲)]].
+- **Predecessor note:** 加拿大「台灣人權委員會」委員長黃義明 attended the 1965 留美台灣人結盟大會 at Madison, WI — [[works/taiwaneseamericanhistory-org/ourjourneys81|81. 早期(1960〜1970年)威大台灣學生在台灣建國運動所扮演的角色 (周烒明)]]; relationship to the later FAHR Canada branch not stated in corpus.
 
 ## From the record
 
