@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-10
 ---
 # Andrew Y. Lee (李友義博士)
 
@@ -51,6 +51,7 @@ Corpus memoirs document Lee as a pillar of the Northern California Taiwanese gra
 - Early movement contact: listed as the Tennessee contact in the first 全美台灣同鄉通訊錄: [[works/taiwaneseamericanhistory-org/ourjourneys58|58. 回憶編印第一本《全美台灣同鄉通訊錄》/陳希寬]].
 - Posthumous community memorials: [[works/taiwaneseamericanhistory-org/376-e6-9d-8e-e5-8f-8b-e7-be-a9-e5-8d-9a-e5-a3-ab-e7-b4-80-e5-bf-b5-e9-9b-8620010|376. 李友義博士紀念集 / 2001-09]] and [[works/taiwaneseamericanhistory-org/63-andrew-lee-memorial-scholarship|63. Andrew Lee Memorial Scholarship 李友義博士紀念獎學金]]; own TAH record [[works/taiwaneseamericanhistory-org/whoswho20|20. Andrew Y. Lee 李友義]].
 - HOLD: conflict — TAH employment table lists Northrop Grumman through 2001, but corpus memoirs record his death in 2000; dates not merged.
+- Disambiguation: record [[works/taiwaneseamericanhistory-org/whos-who-2102-w-p-andrew-lee|2102. Dr. W.P. Andrew Lee 李為平醫師]] is a **different person** (a physician, era 2018) — that work's Subjects link to this page is a name-collision mislink, not a connection to this Lee. The English edition of the 聯合會 memoir confirms his place among the nine brave post-Rung-fang Chen presidents: [[works/taiwaneseamericanhistory-org/ourjourneys38-eng|ourjourneys38-eng]].
 
 _Corpus re-scan 2026-09-25: fresh grep of works/articles for 李友義/Andrew Lee returns the same hit set (63 紀念獎學金, ourjourneys-138, our-journeys-357 fn.39, ourjourneys37/38/106); all absorbed above — verified saturated, no new community facts._
 
