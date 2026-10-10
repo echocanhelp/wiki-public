@@ -8,7 +8,7 @@ tags:
   - pharmacist
   - neurology
 verification_status: pending
-last_reviewed: 2026-07-19
+last_reviewed: 2026-10-10
 ---
 # Jack J. Chen (陳宏傑)
 
@@ -82,6 +82,21 @@ His research focus includes:
   - California Society of Health-System Pharmacist Seminar Poster Session (1999–2005)
   - Member-at-Large for the APhA Academy of Pharmacy Practice and Management Hospital & Institutional Practice Section (2000–2002)
 - Served as committee chair within professional organizations including the San Gabriel Valley Society of Health-System Pharmacists (SGVSHP; 2002–2003), the Southeast Los Angeles Pharmacists Association (2001–2005), and the Southern California College of Clinical Pharmacy (2004–2006)
+
+## Role in the Community
+
+Dr. Chen's community footprint runs through TAHS and the TAH Foundation Who's Who corpus rather than movement organizing. His 2017 TAHS Publication self-profile (Part 2) is the primary biographical source on this page, with the editor's note rating self-profiles (Martha VanDriel, 陳宏傑, 黃愷怡, 吳瑞椿) as higher factual reliability for personal details — see [[sources/2017-tahs-publication||2017 TAHS Publication]].
+
+Corpus records naming him:
+
+- [[works/taiwaneseamericanhistory-org/53015|217. Dr. Jack J. Chen 陳宏傑教授]] — 2019-01-10 (TAH Who's Who profile)
+- [[works/taiwaneseamericanhistory-org/whos-who-642-jack-j-chen|642. Dr. Jack J. Chen 陳宏傑教授]] — 2015-09-29 (same profile, earlier capture)
+- [[works/taiwaneseamericanhistory-org/whos-who-2182-jack-chen|2182. Jack Chen]] — 2019-05-04 (name-form record; same person as 217/642)
+- [[works/taiwaneseamericanhistory-org/862-parkinsons-disease-jack-j-chen-199710life-e7-94-9f-e6-b4-bb|862. Parkinson's Disease / Jack J. Chen /1997/10/Life/生活]] — 2015-09-23 (his 1997 Life/生活 magazine article on Parkinson's disease, an early public-facing piece on his neurology pharmacotherapy work)
+
+- **HOLD:** Marshall B. Ketchum University start date — this page says 2014–present; the sibling page [[people/dr-jack-j-chen|Dr. Jack J. Chen]] records Professor and Department Chair from 2015. Never auto-merged.
+- **Note:** records [[works/taiwaneseamericanhistory-org/678-team-sea-to-see-launch-day-jack-chen-03-2019|678. Team Sea to See – Launch Day/Jack Chen/03/2019]] and [[works/taiwaneseamericanhistory-org/ota-272|272. Jack Chen]] name a *different* Jack Chen — the Harvard/Law engineer-entrepreneur organizer of Tandem Team Sea to See, documented at [[people/jack-chen|Jack Chen]]. Not attributed to this page.
+- Father: [[people/chen-zhefu-xu-chunhui||Jeff Chen 陳哲夫]] (1937–1995), per the sibling Who's Who page.
 
 ## Source Notes and Confidence
 
