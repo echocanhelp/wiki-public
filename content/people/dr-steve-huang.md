@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Dr. Steve Huang (黃文谷醫師)
 
@@ -57,3 +57,4 @@ last_reviewed: 2026-09-25
 - Corpus re-grep 2026-09-24 (slice 09230317-17, 黃文谷 / Steve Huang / Steven Huang): hit set unchanged（record 16, mystories-672, TAH #224/53222, TAH #2190, works index, 2025 傳統週 article）— SKIP: verified-saturated; HOLD on mayoral-term dates (TAH table 2015-2019 vs mystories-672 Jan-2019 assumption) stands.
 - Corpus re-grep 2026-09-25 (slice 09240317-12, 黃文谷 / Steve Huang): hit set = prior set + 2024 公義電子報新聞摘要存檔（2015-11-05 當選聖瑪利諾市議員報導，已吸收入 Role in the Community）— HOLD on mayoral-term dates stands.
 - Corpus re-grep 2026-09-25 (slice 09250700-4, 黃文谷 / Steve Huang / Steven Huang): hit set unchanged (record 16, mystories-672, TAH #224/53222, TAH #2190, works index, 2025 傳統週, 台美小姐選拔賽, 會館會訊 2018-06, 2024 公義電子報存檔) — SKIP: verified-saturated; HOLD on mayoral-term dates (TAH table 2015-2019 vs mystories-672 Jan-2019 assumption) stands.
+- Corpus re-grep 2026-10-10 (slice 10091316-13, 黃文谷 / Steve Huang / Steven Huang / 文谷): hit set unchanged (record 16, mystories-672, TAH #224/53222, TAH #2190, works index, 2025 傳統週, 台美小姐選拔賽, 會館會訊 2018-06, 2024 公義電子報存檔) — SKIP: verified-saturated; HOLD on mayoral-term dates stands.
