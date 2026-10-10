@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Prof. De-Min Wu (吳得民教授)
 
@@ -71,3 +71,6 @@ last_reviewed: 2026-09-14
 
 ## Corpus re-sweep — 2026-09-14 (slice 09141500-2)
 - 全庫 grep（吳得民／De-Min Wu）僅命中本頁已連結之作品：TAH #24、#135、#384、Our Journeys #47／#69（+#69-eng）——即上文 Role in the Community 已吸收之材料。無可吸收之新社群事實，SKIP-with-reason（已飽和）。
+
+## Corpus re-sweep — 2026-10-10 (slice 10091400-29)
+- 全庫 grep（吳得民／De-Min Wu／surname fragment 得民）命中集與上次相同：TAH #24、#135、#384、Our Journeys #47／#69／#205（+#69-eng）。Our Journeys #12、#59 兩檔為假陽性——僅因「得民」二字嵌於無關文句（「搞**得民**不聊生」等）而命中，實無提及吳得民本人。無新增社群事實，SKIP-with-reason（已飽和）。
