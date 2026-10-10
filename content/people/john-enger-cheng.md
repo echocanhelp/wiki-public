@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # John Enger Cheng (鄭榮得)
 
@@ -59,3 +59,4 @@ Accomplishment
 
 - 複核（deepen-x slice 09250700-5, 2026-09-25）: fresh ZH+EN re-grep（works+articles）hit set identical to prior deepen records — all hits already absorbed/wikilinked; SKIP: verified-saturated, no new corpus material.
 - 複核（deepen-x slice 09260317-11, 2026-09-26）: fresh ZH+EN re-grep hit set unchanged (mystories231, artist36, ota-227, whos-who-1019 + unrelated Dr. John Cheng 鄭達志 shooting records) — SKIP: verified-saturated, no absorbable new facts.
+- 複核（deepen-x slice 10090600-7, 2026-10-10）: fresh ZH+EN re-grep (works/articles/sources/events/topics) hit set same as prior records — own TAH records (#36/#227/#1019, mystories231 interview) already absorbed/wikilinked. One newer disambiguation-only hit now in corpus: [[articles/taiwanjustice-net/2025/20250808110534_眾議員朴銀珠提出法案_追授國會金質獎章表彰捨_a0cd1bdfcf3e02b9|Taiwan Justice, 2025-08-08 — Michelle Steel 跨黨派法案追授國會金質獎章給 鄭達志醫師 (Dr. John Cheng, Laguna Woods church shooting victim)]] — victim 鄭達志 (father 鄭俊曉, per prior records) ≠ this page's 鄭榮得 (father 鄭良光); linked as disambiguation evidence only, NOT merged. No new facts for this person — SKIP: verified-saturated.
