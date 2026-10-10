@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-10
 ---
 # John Pang Yu (余金榜)
 
@@ -42,6 +42,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-25 (slice 09250700-7): hit set unchanged (#610 + ourjourneys37/37-eng/39 + our-journeys-389 + works index — all linked above) — verified-saturated, SKIP this pass.
 - His TAH encyclopedia entry is preserved as [[works/taiwaneseamericanhistory-org/610-john-pang-yu-e4-bd-99-e9-87-91-e6-a6-9c-201509|TAH #610: John Pang Yu 余金榜 (2015/09)]].
 - Corpus re-grep 2026-09-26 (slice 09260317-23): hit set unchanged (#610 + ourjourneys37/37-eng/39 + our-journeys-389 + works index — all linked above) — verified-saturated, SKIP this pass.
+- Corpus re-grep 2026-10-10 (slice 10081100-24): hit set unchanged (#610 + ourjourneys37/37-eng/39 + our-journeys-389 + works index + sources/taiwaneseamericanhistory-org — all linked above). Fresh ZH+EN grep confirms no new corpus material; 印城台灣同鄉會紀要 president list, TAI 協志會 roster, and 蓬萊歌劇團 memoir all already absorbed. HOLD (wife 林秀鳳 vs empty family fields) still stands. Verified-saturated, SKIP this pass.
 
 ## Sources
 - [TAH #610 encyclopedia: 610. John Pang Yu 余金榜 / 2015/09](https://taiwaneseamericanhistory.org/610-john-pang-yu-%e4%bd%99%e9%87%91%e6%a6%9c-201509/)
