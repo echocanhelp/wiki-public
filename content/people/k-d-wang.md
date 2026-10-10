@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # K. D. Wang (王康德)
 
@@ -34,7 +34,7 @@ K. D. Wang (王康德) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 ## Family
 
 - **Wife:** [[people/helen-wang||方惠音]]
-- **Brother:** 王康厚（同為 1372 家族口述訪談口述人）— inferred from the joint oral-history record
+- **Brother:** 王康厚（同為 1372 家族口述訪談口述人）— inferred from the joint oral-history record; 王康厚自有 Who's Who 條目 [[works/taiwaneseamericanhistory-org/375-e7-8e-8b-e5-ba-b7-e5-8e-9a|375. 王康厚 / 2015/04]]（見 [[people/tah-p-8c5a93b3d4|王康厚]] 頁）
 
 
 ## Sources
@@ -47,3 +47,4 @@ K. D. Wang (王康德) is listed in the TAH Foundation Who’s Who Taiwanese Ame
 
 Re-verified 2026-10-08 (deepen-x slice 10062218-4): fresh whole-corpus grep (王康德/K. D. Wang) across works/articles/sources/events/topics returns the same three records (publications-1372 王永宗家族口述, ourjourneys316 TASC 義工老師芳名錄, whos-who-1726) plus index/hub listings — all facts above already absorbed. Surname-only sweeps add unrelated 王姓 members. Still saturated, nothing absorbable.
 Re-verified 2026-10-09 (deepen-x slice 10080700-4): fresh ZH+EN+surname grep (王康德 / K. D. Wang / 王康) across works/articles/sources/events/topics returns the same three records (publications-1372, ourjourneys316, whos-who-1726) plus index listings. Surname sweep 王康 hits are all 王康陸 (Dr. Kang-Lu Wang — a distinct person: 302/334/26/49/315/76), not 王康德; verified no conflation. Saturated, nothing absorbable.
+Re-verified 2026-10-10 (deepen-x slice 10091500-29): fresh ZH+EN+slug grep (王康德 / K. D. Wang / kd-wang) across works/articles/sources/events/topics returns the same three records (1372/316/1726) plus index/hub listings — no new corpus material. Two cross-links absorbed from sibling pages: (1) 王康厚's own Who's Who record #375 now wikilinked under Family (from [[people/tah-p-8c5a93b3d4]]); (2) #1726 publish date 2017-07-02, same day as wife 方惠音's #1728, noted in [[people/helen-wang]] — recorded here, no date conflict. Saturated.
