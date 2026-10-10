@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-09
 ---
 # Dr. Mu-Sheng Wu (吳木盛博士)
 
@@ -55,7 +55,10 @@ Accomplishment
 - **TAA 會長時期（1974–1976）**：1975 年 7 月 2 日，呂秀蓮經全美台灣同鄉會吳木盛引介，赴美東台灣人夏令會演講，因其維護國民黨政府之言論遭會眾圍剿（見 [[works/taiwaneseamericanhistory-org/our-journeys-392|TAH #392：1975 美東台灣人夏令會總召集人王成章牧師專訪]]）。
 - **會史撰文者**：親撰全美台灣同鄉會會史 [[works/taiwaneseamericanhistory-org/ourjourneys76-eng|TAH #76：全美台灣同鄉會／Taiwanese Association of America]] 及奧斯汀同鄉會會史 [[works/taiwaneseamericanhistory-org/ourjourneys45-eng|TAH #45：Austin 台灣同鄉會之成立]]。
 - **社區中心購置**：休士頓台灣人活動中心成立十周年 memoir 記載，1988 年當選七人購置委員會委員之一（與 Chao-Yuh Yang、Cheng-Yi Chuang 等）並參與看屋評估（[[works/taiwaneseamericanhistory-org/ourjourneys233-eng|TAH #233：回顧休士頓台灣人活動中心的成立]]）。HOLD: 該 memoir 為休士頓場景，與本頁 Austin 背景是否同一人未經證實，並記存疑。
-- **專欄作家／文學筆**：《台灣公論報》專欄〈吳木盛開講〉〈藝術的生活〉（[[works/taiwaneseamericanhistory-org/columns27|TAH #27]]、[[works/taiwaneseamericanhistory-org/columns26|TAH #26]]）；文學隨筆《小指隨筆》（[[works/taiwaneseamericanhistory-org/publications1099|TAH #1099：小指隨筆]]）；人物記錄稱「台美人第一筆」（[[works/taiwaneseamericanhistory-org/ff325|TAH #325：The Famous Writer]]）。
+- **專欄作家／文學筆**：《台灣公論報》專欄〈吳木盛開講〉〈藝術的生活〉（[[works/taiwaneseamericanhistory-org/columns27|TAH #27]]、[[works/taiwaneseamericanhistory-org/columns26|TAH #26]]）；另以筆名「牧生」主筆《台灣公論報》專欄〈有孔無榫〉（[[works/taiwaneseamericanhistory-org/columns24|TAH #24：有孔無榫(台灣公論報) by 吳木盛(牧生)]]），後結集成書《有孔無榫集》（[[works/taiwaneseamericanhistory-org/publications1098|TAH #1098：有孔無榫集]]）；文學隨筆《小指隨筆》（[[works/taiwaneseamericanhistory-org/publications1099|TAH #1099：小指隨筆]]）；人物記錄稱「台美人第一筆」（[[works/taiwaneseamericanhistory-org/ff325|TAH #325：The Famous Writer]]）。
+- **文學創作**：散文〈青草茶〉（[[works/taiwaneseamericanhistory-org/publications32|TAH #32：青草茶／1994-07／文學]]）、〈離鄉〉（[[works/taiwaneseamericanhistory-org/mystories55|TAH #55：離鄉]]）。
+- **TAA 第三任會長**：個人會史記錄自述為「全美台灣同鄉會第三屆會長」（[[works/taiwaneseamericanhistory-org/mystories544|TAH #544：全美台灣同鄉會第三屆會長—吳木盛博士的故事]]、英文版 [[works/taiwaneseamericanhistory-org/mystories544-2|TAH #544 英文版]]），與本頁 1974–1976 任期相互印證。
+- **會史章節作者**：撰〈全美臺灣同鄉會〉一章，收入張炎憲、曾秋美、陳朝海編《自覺與認同：1950-1990年海外臺灣人運動專輯》（頁333-370）；該文註記全美臺灣同鄉會英文名初為 The Formosan Club of America，後改為 Taiwanese Association of America（轉引自 [[works/taiwaneseamericanhistory-org/our-journeys-357|TAH #357]] 註解[17]）。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
@@ -71,3 +74,4 @@ Accomplishment
 - Corpus re-check (slice 09142319-9, 2026-09-15): grep of works/ + articles/ returns only pages already wikilinked above (#45/#26/#27/#76/#1099/#392); no new absorbable facts.
 - Corpus re-check (slice 09150316-5, 2026-09-15): grep 三核，命中仍僅上述已連結書目頁（#26/#27/#45/#76/#392/#1099 書名頁標題命中），無 memoir 敘述新增事實。SKIP-with-reason; nothing absorbable.
 - Corpus re-check (slice 09150400-2, 2026-09-15): grep 四核，命中集不變（僅上述已連結書目頁），無新事實，無衝突需 HOLD；last_reviewed 已是今日。
+- Deepen pass (slice 10081000-25, 2026-10-09): 再核發現四組先前未吸收記錄——筆名「牧生」專欄〈有孔無榫〉(#24) 與結集《有孔無榫集》(#1098)、散文〈青草茶〉(#32) 與〈離鄉〉(#55)、自述「第三屆會長」會史記錄 (#544/#544-2)、《自覺與認同》專章（Formosan Club of America → TAA 更名註記，經 #357 轉引）。已全數吸收並 wikilink；無日期/年齡衝突需 HOLD。
