@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Prof. Ming-Chiao Michael Lai (賴明詔教授)
 
@@ -47,6 +47,8 @@ Absorbed from vault pages already held for him (no web):
 - [[works/taiwaneseamericanhistory-org/ourjourneys186||TAH #186]] lists him among the advisors (顧問) of the 台美公民協會籌備委員會 (台灣公論報 #369, 1985-04-15)；同一記錄之英文姊妹檔見 [[works/taiwaneseamericanhistory-org/ourjourneys186-eng||TAH #186-eng]]（deepen-x slice 3, 2026-09-14 補連結）。
 - Corpus cross-check（deepen-x slice 3, 2026-09-14）：本輪檢索命中（mystories561／ourjourneys186／mystories321／94-／nikkei-asia-prize）均為本頁已收記錄，除上方 sister-record 連結外無新事實可吸收；無需 HOLD。
 - During his 1973–2007 USC years, the vault's USC Taiwanese-American community page is [[organizations/taiwanese-american-organization-at-the-university-of-southern-california||TAO at USC]].
+- [[works/taiwaneseamericanhistory-org/whos-who-370-ming-chiao-lai||TAH #370: 370. Prof. Ming-Chiao (Michael) Lai 賴明詔教授 / 2015-04-16]] — the second Who's Who encyclopedia entry (Era 2015, band B bibliographic record) alongside #94 above (deepen-x slice 8, 2026-10-10 補連結）.
+- Corpus cross-check（deepen-x slice 8, 2026-10-10）：本輪全語料檢索（works/articles/sources/events/topics）命中 mystories561／ourjourneys186／mystories321／94／370／nikkei-asia-prize／ourjourneys291／ff252 及兩篇 taiwanjustice 報導，除上方 #370 補連結外均為本頁已收記錄，無新事實可吸收；無需 HOLD。
 
 Absorbed from the taiwanjustice.net community-press corpus (2026-09-14 pass):
 
