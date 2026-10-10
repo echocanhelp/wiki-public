@@ -78,3 +78,5 @@ last_reviewed: 2026-09-25
 <!-- TJJ-A10071100-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071100-1 articles (11aa2dfa5f64d7e4 楊子清 tag頁 / 2490b18e8f37ea79 第166回世界台灣文化論壇 / 89e6683c93156205 台美人台加人 p356 / 79b5f26fdef89d22 2023台美小姐選拔賽): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607004-c: verified 2026-10-09 — wave-2 link+deepen re-check of article 89e6683c93156205 (台美人台加人 p356, 2024-05-20快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090701-23: verified 2026-10-10 — wave-2 link+deepen re-check of article 89e6683c93156205 (台美人台加人 p356, TJJ 2016-05-17 條目 / 2024-05-20 快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
