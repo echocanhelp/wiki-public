@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-08-30
+last_reviewed: 2026-10-10
 ---
 # Hong Ya (洪雅)
 
@@ -21,6 +21,11 @@ last_reviewed: 2026-08-30
 - **Articles:** 4
 
 
+## Role in the Community
+
+洪雅 writes the recurring investment column **股市亮點** on [[sources/taiwanjustice-net||taiwanjustice.net (台灣公義網)]], publishing under the byline **◎扶丁 洪雅** (扶丁 appears to be a pen name used alongside 洪雅). Across the taiwanjustice.net harvest, **54 archived articles** carry the 扶丁 byline — numbered installments roughly **#100–#196** of the column, spanning **2020–2026** (17 in 2020, 18 in 2025) — covering U.S.-listed technology and biotech names (TER, CHGG, CRL, AMD, TSLA, TSM, NFLX, ASML and others). HOLD: the harvest does not record 洪雅's professional background or the meaning of the 扶丁 pen name; nothing beyond the column corpus is asserted here.
+
+The column is a community-recognized investment reference: its AMD installment (2020-10) is cited on [[people/dr-lisa-su||Dr. Lisa Su]]'s page as a community-source note on her Tainan origins, and the column corpus is cross-indexed at [[sources/taiwanjustice-net||taiwanjustice.net]].
 
 ## TJ Citations
 
