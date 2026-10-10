@@ -8,7 +8,7 @@ tags:
   - democracy-movement
   - overseas-taiwanese
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Hsu Hsin-liang (許信良)
 
@@ -45,7 +45,7 @@ last_reviewed: 2026-09-24
 - 1980-03-29 — On invitation of the 協志會, spoke at San Jose State on 「高雄事件的啓示」; KMT-linked gangsters again caused disturbances outside and slashed tires (石清正, [[works/taiwaneseamericanhistory-org/ourjourneys38|38. 北加州台灣同鄉聯合會三十年回顧]]).
 - 1982 — Reported as 美麗島 representative to the 9th 世界台灣同鄉會 convention in Houston ([[works/taiwaneseamericanhistory-org/ourjourneys266|266. 台灣人在北美洲/黃武東]]).
 - 1982-12 (per the memoir account) / 1986 — Met visiting 黨外 figures in the US; the same Bay Area record notes 張燦鍙 and 許信良 speaking in the Bay Area (02.26 entry, [[works/taiwaneseamericanhistory-org/our-journeys-357|357]]).
-- 1986-11-30 — 許信良's 闖關回台 attempt (the 桃園機場事件, together with 林水泉 and the 23rd 北加州台灣人同鄉聯合會會長洪順五) failed, sparking police-citizen clashes at Taoyuan airport ([[works/taiwaneseamericanhistory-org/ourjourneys38|38. 北加州台灣同鄉聯合會三十年回顧]]; the event is also its own TAH record — its work page was not yet linked here before this pass).
+- 1986-11-30 — 許信良's 闖關回台 attempt (the 桃園機場事件, together with 林水泉 and the 23rd 北加州台灣人同鄉聯合會會長洪順五) failed, sparking police-citizen clashes at Taoyuan airport ([[works/taiwaneseamericanhistory-org/ourjourneys38|38. 北加州台灣同鄉聯合會三十年回顧]]); the event is also its own TAH record — press photo 「許信良化妝抵台，原機遣送到菲律賓」, 1986/12/2 ([[works/taiwaneseamericanhistory-org/1-e8-a8-b1-e4-bf-a1-e8-89-af-e5-8c-96-e5-a6-9d-e6-8a-b5-e5-8f-b0-ef-bc-8c-e5-8e-|1. 許信良化妝抵台，原機遣送到菲律賓 1986/12/2]]).
 - Also in the corpus: an overseas 台醫協會 letter recalls a 同鄉 telling 許信良 「你如果連台灣話都講不好，也不用來這裡與台灣同鄉溝通了」 — a window onto the language/identity debates inside overseas associations ([[works/taiwaneseamericanhistory-org/ourjourneys202|202. Our Journeys 文字紀要]]).
 
 Corpus re-grep 2026-09-22: above records newly absorbed from works/.
@@ -64,3 +64,5 @@ Corpus re-grep 2026-09-22: above records newly absorbed from works/.
 <!-- TJJ-A10060600-1: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-1 articles (e3440fec3eed8107 籌謀台灣不流血革命(陳昭南 2022-05-09): 許信良 link (獻策高手 1989 LA 會談、美麗島週報社創辦人、革命黨副總書記、1995 DPP 總統候選人) — subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070800-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-1 article e3440fec3eed8107 (籌謀台灣「不流血革命」的獻策高手原來是他 ◎ 陳昭南, TJJ 2022-05-09): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10080951-4 (2026-10-09): fresh ZH+EN grep across works/articles/sources/events/topics (47 hits). New material absorbed: the 桃園機場事件 press-photo record 「許信良化妝抵台，原機遣送到菲律賓」 1986/12/2 ([[works/taiwaneseamericanhistory-org/1-e8-a8-b1-e4-bf-a1-e8-89-af-e5-8c-96-e5-a6-9d-e6-8a-b5-e5-8f-b0-ef-bc-8c-e5-8e-|TAH work #1]]) — the work page the 1986-11-30 line had promised but never linked, now linked. ourjourneys123-eng (Tangwai timeline entries 1983/1986, Hsin-liang Hsu) confirms existing 1982–1986 record, no new dates. No conflicts to hold. -->
