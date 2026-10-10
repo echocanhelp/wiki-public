@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Andrew Yang (楊安澤)
 
@@ -38,6 +38,13 @@ Andrew Yang is an American entrepreneur, author, and politician born on January 
 - **2011** — Founded Venture for America, a nonprofit fellowship placing recent college graduates in startups in emerging cities.
 - **2012** — Named a White House Champion of Change by the Obama administration for the Venture for America work.
 - **2020–2021 / 2021–** — Founder, Humanity Forward Foundation; founder and co-chair, Forward Party.
+- **2019-06-28** — Participates in the second round of Democratic presidential debates, the field's only minority candidate of note ([[articles/taiwanjustice-net/2022/20220927220308_2019_06_28_民主黨參選人第二場辯論_批評特朗普並相互攻擊_590e15be9637d2f3|TJJ 中央社存檔, 2019-06-28]]).
+- **2019-12** — Ranked fourth among Democratic candidates as of 12/24; the 「freedom dividend」 UBI platform gains salience when Congress passes $1,200 adult relief checks in spring 2020 ([[works/taiwaneseamerican-org/19-things-that-happened-in-taiwan-taiwanese-america-in-2019|19 Things That Happened in 2019, item (16)]]).
+- **2020-11-21** — Rumored as Biden's Commerce Secretary (CNN via TJJ) — the first cabinet-level speculation following the presidential run ([[articles/taiwanjustice-net/2020/20201205142451_2020_11_21_拜登將公布內閣名單_台裔楊安澤傳有望出任商務_8ea8c3325dc958a3|拜登將公布內閣名單, 楊安澤傳有望出任商務部長 (2020-11-21)]]).
+- **2020-12-23** — NYC Campaign Finance Board confirms he has filed paperwork to run for NYC mayor, seeking Bill de Blasio's seat ([[articles/taiwanjustice-net/2022/20220927203131_2020_12_23_楊安澤參選紐約市長_紐約市競選財務委員會證實_40f7eee10bc6ccec|楊安澤參選紐約市長, 競選財務委員會證實 (2020-12-23)]]).
+- **2021-06-22** — Loses the NYC Democratic mayoral primary, placing 4th among 10+ contenders: 「我只看數字…這場選舉我認輸」 ([[articles/taiwanjustice-net/2021/20210920151613_2021_06_22_紐約市長初選投票-台裔參選人楊安澤宣布敗選_0151c2b91715a5b6|紐約市長初選投票 台裔參選人楊安澤宣布敗選 (2021-06-22)]]).
+- **2021-04** — During the mayoral campaign, posts on Twitter amid the rise in anti-Asian hate: 「旁觀者必須見義勇為，我們需要團結一致，在有人需要幫助時挺身而出」 — his most direct Asia-community statement in the corpus ([[articles/taiwanjustice-net/2025/20250617080538_美國仇視亞裔愈演愈烈_台僑嘆弱勢只能自求多福_2fa83bb09ad75beb|美國仇視亞裔愈演愈烈, 台僑嘆弱勢只能自求多福 (2021-04-01)]]).
+- **2022-07-28** — Announces the Forward Party as a merger of his own Forward organization with the Renew America Movement (Miles Taylor) and Serve America Movement (David Jolly); party leaders claim third-party status, slogan 「不傾左，不偏右，往前進」 ([[articles/taiwanjustice-net/2022/20220815025549_2022_07_28_美國前進黨稱已是第3大黨_台裔楊安澤號召排除政_f775b670edce99fa|美國前進黨稱已是第3大黨 (2022-07-28)]]).
 - **Works** — *The War on Normal People*; *Forward*.
 
 ## Family
@@ -59,6 +66,9 @@ TAH records held in this vault:
 - [[works/taiwaneseamericanhistory-org/ota-219|TAH #219 — Andrew Yang 楊安澤 (encyclopedia record)]]
 - [[works/taiwaneseamericanhistory-org/videos134|TAH #134 — 楊安澤筆會新年年會演說：台裔子弟入主美國總統啓動 (2019/01)]]
 - [[works/taiwaneseamericanhistory-org/my-story-674|TAH #674 — 我認識的楊安澤：首位亞裔美國總統參選人, 王劭文 (2019/02)]]
+- [[works/taiwaneseamericanhistory-org/2019-important-events-4|TAH 2019 events #4 — Andrew Yang participated in the 2020 Presidential primary campaign]]
+- [[works/taiwaneseamericanhistory-org/event2020-5|TAH 2020 events #5 — Andrew Yang, first Taiwanese American presidential candidate]]
+- [[works/taiwaneseamericanhistory-org/our-footsteps-31|TAH #31 — Andrew Yang in 2020 U.S. Presidential Election, artwork by 陳秀芳 Susan Hsiu-fang Liu (2020)]]
 
 ## Sources
 - [TAH #219 encyclopedia: 219. Andrew Yang 楊安澤](https://taiwaneseamericanhistory.org/ota-219/)
@@ -85,6 +95,7 @@ Coverage in the taiwanjustice-net corpus harvested into this vault extends his p
 
 - 覆核（TJJ-A09171200-4, 2026-09-24）：本 slice 四篇 TJJ 文章（台美人台加人索引 6f2b431c、NATMA 標籤頁 08b82976、挺港聯合聲明 53455d7e、台美人分類頁 1a2bdc08）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09170400-12, 2026-09-23）：本 slice TJJ 文章正文再驗證——subject 連結與本條目所載日期事實相符，無錯鏈、無虛鏈，無新材料— SKIP，已飽和。
+- During the 2020 presidential campaign — his wife Evelyn Yang (盧艾玲) publicly discloses a past sexual assault by an OB-GYN and sues alongside 31 other women; Yang: 「他為妻子驕傲，誰都不該遇到這種事」 — the corpus's only Evelyn Yang biographical record (report date not stated in the harvest; HOLD: article 內文稱「中央社華盛頓16日」, campaign context places it 2019) ([[articles/taiwanjustice-net/2025/20251110172136_台裔楊安澤角逐美總統-妻揭露遭性侵過往影_85edd78f26225c9b|台裔楊安澤角逐美總統 妻揭露遭性侵過往 (中央社存檔)]]).
 - 2021-01-25 — TJJ's 台美人台加人 channel index carries 「台裔楊安澤新書批美國制度失靈，擬下月組新政黨」 — coverage of his post-campaign book launch and the announced plan to form a new party (the Forward Party), the first Taiwan-media record of his third-party project ([[articles/taiwanjustice-net/2025/20250426142458_category_taiwaneseamerican_page_3_1a2bdc08b6c7bf6c|TJJ 台美人 category 索引, 2025-04-26 存檔]]).
 - 覆核（TJJ-A09221500-6, 2026-09-24）：本 slice 四篇（台美人台加人p354 6f2b431c、NATMA標籤頁 08b82976、拒一國兩制聯合聲明 53455d7e、台美人category p3 1a2bdc08）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 
