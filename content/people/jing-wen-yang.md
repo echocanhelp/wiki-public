@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-10-10
 ---
 # JING-WEN YANG (楊景文)
 
@@ -56,3 +56,4 @@ Re-grep 楊景文/JING-WEN YANG across works+articles: hit set unchanged (own #3
 - 2026-09-16 (slice 09162138-6): hit set again unchanged (#364, #148/#114/#113, Our Journeys #296, index); OJ #296 緣起 passage already absorbed into Role in the Community. Nothing new absorbable; no conflicts; era-1924 HOLD stands. **SKIP-with-reason.**
 - Corpus re-grep 2026-09-16 (slice 09162200-4): hits limited to Our Journeys #296 (already absorbed into Role in the Community) + own bibliography pages. SKIP — no new absorbable material; era-1924 HOLD stands.
 - Corpus re-grep 2026-09-17 (slice 09170130-2): hit set unchanged (#364, #148/#114/#113, Our Journeys #296, works index) — all already absorbed and wikilinked. No memoir-grade community material beyond what is absorbed; no new conflicts; era-1924 HOLD stands. **SKIP-with-reason.**
+- Corpus re-grep 2026-10-10 (slice 10090315-25): 5-dir grep (楊景文 / JING-WEN YANG / 景文) — surname-only hits are 鄒景文 (a different person, taiwanjustice-net articles), correctly excluded. Real hit set unchanged (#364, #148/#114/#113, Our Journeys #296, index); OJ #296 緣起 passage already absorbed. Nothing new absorbable; no conflicts; era-1924 HOLD stands. **SKIP-with-reason.**
