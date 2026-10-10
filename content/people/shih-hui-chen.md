@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-11
+last_reviewed: 2026-10-10
 ---
 # Shih-Hui Chen (陳士惠)
 
@@ -44,6 +44,12 @@ A citation accompanying Shih-Hui Chen’s Goddard Lieberson Fellowship from the 
 - 2000–present — 專任副教授, Rice University Shepherd School of Music ([[organizations/rice-taiwanese-association|Rice Taiwanese community]])
 - Honors: Koussevitzky Music Foundation Commission · Guggenheim Fellowship · American Academy in Rome Prize
 - 2023 — Goddard Lieberson Fellowship, American Academy of Arts and Letters (per [[works/taiwaneseamericanhistory-org/my-stories-870|TAH #870]])
+
+## Role in the Community
+- Her community footprint in the vault is as a **composing voice within the Taiwanese American music scene**: in 1999 the Formosan Chamber Music Society devoted a concert of new music to her — [[works/taiwaneseamericanhistory-org/musical-concerts-155|TAH #155, New Music By Shih-Hui Chen (10/22/1999)]] — evidence she was programmatic for the Formosan chamber-music community, not only for mainstream institutions.
+- 2015-05-03 — the TAH Foundation story corpus carried two biographical entries on her ([[works/taiwaneseamericanhistory-org/191-shih-hui-chen-composer|TAH #191]], [[works/taiwaneseamericanhistory-org/393-shih-hui-chen-e9-99-b3-e5-a3-ab-e6-83-a0-201505|TAH #393]]), part of the same 2015/01–05 batch of Taiwanese American musician profiles that also recorded [[people/anne-ku|Anne Ku]], Rachel Ku, and Pei-Ning Ku — she is counted among the corpus's community music-persona set.
+- 2023-03 — her Goddard Lieberson Fellowship was reported to the community in [[works/taiwaneseamericanhistory-org/my-stories-870|TAH #870 台裔作曲家陳士惠獲頒美國藝術文學院音樂獎]].
+- 2026-10-10 rescan (slice 10090700-5): ZH+EN grep across works/articles/sources/events/topics returned only her own TAH entries (#155/#191/#393/#870) and index lines — no memoir or press mentions with new biographical facts. No conflicts found; nothing to HOLD.
 
 ## Family
 
