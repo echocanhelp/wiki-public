@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Stephanie Chang (張理)
 
@@ -60,6 +60,12 @@ She represented Michigan House District 6 as State Representative for two terms 
 
 ## Detroit network (in-vault pages, deepened 2026-09-14)
 Her organizing geography and campus years both have vault pages: the Detroit-area Taiwanese women's network [[organizations/north-america-taiwanese-womens-association-detroit-chapter||NAWDET Detroit chapter]], the chapter network [[organizations/taiwanese-association-of-america-detroit-tagd||TAA Detroit TAGD]], and her undergrad campus groups [[organizations/taiwan-student-association-at-the-university-of-michigan||TSA at U-M]] and [[organizations/taiwanese-american-student-association-at-the-university-of-michigan||TASA at U-M]]. Her own coverage in the TaiwaneseAmerican.org corpus: [[works/taiwaneseamerican-org/stephanie-chang-representing-detroit||Stephanie Chang representing Detroit]].
+
+## Movement record mentions (corpus, deepened 2026-10-10)
+Her elections and district work are recorded in the taiwaneseamericanhistory.org story corpus:
+- [[works/taiwaneseamericanhistory-org/important2016-12||Important 2016 #12: won second term as State Representative, Michigan House District 6 (2016)]]
+- [[works/taiwaneseamericanhistory-org/photo-albums-activities-137||Photo Albums #137: First Taiwanese American State Senator Stephanie Chang, Michigan (2018)]]
+- [[works/taiwaneseamericanhistory-org/mystories532||My Stories #532: State Rep. Stephanie Chang Knocked on Every Door in Her District—Twice (Mattie Kahn, 2017)]]
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
