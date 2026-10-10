@@ -41,6 +41,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A10090501-17, 2026-10-10）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240522043642_root_cc3bbdbfc662fe66|cc3bbdbf]] 正文再驗證——施雅婷開訓首日講解選美須知、「身、心、靈俱美」及多年選美評審經驗確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2016-06-14 條目已在庫 — SKIP，無新材料；正文另涉 陳西園／賴淑遠，連結無虛鏈。
+
 - 複核（TJJ-A09260600-4, 2026-09-27）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240522043642_root_cc3bbdbfc662fe66|cc3bbdbf]] 正文再驗證——施雅婷開訓首日講解選美須知、「身、心、靈俱美」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2016-06-14 條目已在庫 — SKIP，無新材料；正文另涉 陳西園／賴淑遠，連結無虛鏈。
 
 - 複核（TJJ-A09251500-1, 2026-09-26）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240522043642_root_cc3bbdbfc662fe66|cc3bbdbf]]（2016台美小姐開訓記者會）正文再驗證——施雅婷老師開訓首日講解選美須知確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2016-06-14 條目已在庫 — SKIP，無新材料。
@@ -96,3 +98,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 10090400-10 (2026-10-10): fresh 5-dir grep (施雅婷／Tina Shih／雅婷, plus surname sweep 施+Tina) — hit set unchanged and fully absorbed: own TAH #1137／#173／#202 + 2016台美小姐開訓稿 735744492226b90c 及其 2024 存檔 cc3bbdbf, all linked. Non-self matches excluded on identity check: 楊雅婷 (時代力量, OTD黑客松稿 2c9cb768／3260cd0b) ≠ 本人; 「雅婷歷史小教室」(教育部臉書 persona, ab35c2a3) ≠ 本人; Senator Tina Smith (b754b942) ≠ 本人. SKIP — saturated, no new community material; last_reviewed refreshed. -->
 
 <!-- TJJ-A10090501-1: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-1 article 735744492226b90c (2016台美小姐選拔開訓記者會@大洛杉磯台灣會館, 2016-06-14 刊): subject link re-checked vs 正文 this attempt — 施雅婷開訓首日講解選美須知、「身、心、靈俱美」、多年選美評審與美姿美儀教學經驗記述確認見於正文 — real, no wrong/spurious links; 總召集人賴淑遠見於正文未列subject（shu-lai 頁已有會館董事記錄）, 不需補鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10090501-17: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-17 article cc3bbdbfc662fe66 (2016台美小姐選拔開訓記者會 2024 存檔copy, 2016-06-14 刊): subject link re-checked vs 正文 this attempt — 施雅婷開訓首日講解選美須知、「身、心、靈俱美」及多年選美評審經驗記述確認見於正文 — real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

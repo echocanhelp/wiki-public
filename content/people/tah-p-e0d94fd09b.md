@@ -38,6 +38,8 @@ _No filled family fields on the TAH profile._
 
 ## From the record
 
+- 複核（TJJ-A10090501-17, 2026-10-10）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240522043642_root_cc3bbdbfc662fe66|cc3bbdbf]] 正文再驗證——陳西園擔綱舞蹈指導（與 TAH 頁舞蹈老師身分相符）確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2016-06-14 條目已在庫 — SKIP，無新材料；正文另涉 施雅婷／賴淑遠，連結無虛鏈。
+
 - 複核（TJJ-A09260600-4, 2026-09-27）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240522043642_root_cc3bbdbfc662fe66|cc3bbdbf]] 正文再驗證——陳西園擔綱舞蹈指導（與 TAH 頁舞蹈老師身分相符）確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2016-06-14 條目已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09251500-1, 2026-09-26）：本 slice 文章 [[articles/taiwanjustice-net/2024/20240522043642_root_cc3bbdbfc662fe66|cc3bbdbf]] 正文再驗證——陳西園老師擔綱舞蹈指導確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2016-06-14 條目已在庫 — SKIP，無新材料。
