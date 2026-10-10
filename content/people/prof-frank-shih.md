@@ -67,3 +67,4 @@ Publication(Non-professional)
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 複核（deepen-x slice 09231100-1，2026-09-25）：re-grep 施永強 / Frank Shih 命中集不變（#64、#1990、#619、#1184、#722、#92，皆書目/收藏記錄）— saturated，SKIP，無新社群材料可吸收。
 - 複核（deepen-x slice 09250317-2，2026-09-25）：fresh re-grep 命中集相同（#619、#1184、#92、#722、#64、#1990）— saturated，SKIP，無新社群材料可吸收，無衝突需 HOLD。
+- 複核（deepen-x slice 10091400-23，2026-10-10）：fresh re-grep 施永強 / Frank Shih 命中集不變（#64、#1990、#619、#1184、#722、#92，皆書目/收藏記錄；our-journeys 命中經查為「施加壓力」等假阳性）— saturated，SKIP，無新社群材料可吸收，無衝突需 HOLD。
