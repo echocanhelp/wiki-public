@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # Michael S. K. Chen (陳希寬博士)
 
@@ -47,6 +47,8 @@ last_reviewed: 2026-09-24
 - 1967 年 12 月 9 日出版《全美台灣同鄉通訊錄》，為第一本台美出版的漢文书（[[works/taiwaneseamericanhistory-org/ff184|TAH 記錄 184]]）
 - 其與張郁彬的故事由孫女 Catelyn Spielman 描繪，收入《Surging Tides: A Journey for Independence》（[[works/taiwaneseamericanhistory-org/publications-1354|TAH publications 1354]]）
 - TAH Who's Who 記錄（2016/05）：[[works/taiwaneseamericanhistory-org/whos-michael-s-k-chen|Whos Michael S. K. Chen]]；press-kit 記載的 Shinkong 副總裁、Air Products、NATEA Austin 會長等經歷未見於回忆錄，維持 pending
+- 本人回憶文（2014）記 Kansas Formosan Group（KFG）1966-07 於 Manhattan, Kansas 組成，基本會員呂天民、莊秋雄、陳希寬、黃石定、蔡一（稍後王能祥、方菊堆加入），為 UFAI 基本社團之一；並自述編印《全美台灣同鄉通訊錄》之甘苦經過（[[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys 58：回憶編印第一本《全美台灣同鄉通訊錄》/ 陳希寬]]）
+- 黑名單記錄：與妻張郁彬（Alice Chen）1965 年因希寬任堪薩斯大學台灣人協會會長遭駐美使館列入黑名單，2000 年代移居奧斯汀退休（[[works/taiwaneseamericanhistory-org/ourjourney-343|Our Journey 343：Blacklists]]、[[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys 58]]）——「Mike Chen」經 343 明文標註＝陳希寬，強化 370「Mike Chen」（2019-02-20 Austin 遞連署信予 Senator Cornyn 事務所）同為本人之推定，惟 370 文本未直接標註，HOLD 維持
 - HOLD: the auto-link in [[works/taiwaneseamerican-org/magic-continues-at-tacl-lid-camp|Magic Continues at TACL-LID Camp (2013-09-04)]] names its author "Michael Chen", a 2013 TACL-LID Camp counselor who graduated from California State University, Los Angeles (Broadcast Journalism) — conflict with this page's 化工 Ph.D./台北 person: almost certainly a different, younger Taiwanese American; not merged.
 - Corpus re-grep（陳希寬 / Michael S. K. Chen，2026-09-21，slice 09201400-10）：hit set unchanged beyond the records above — SKIP, 無新材料。
 - Corpus re-grep（陳希寬 / Michael S. K. Chen，2026-09-22，slice 09211300-6）：hit set unchanged（ourjourneys33、81、ff184、whos-michael-s-k-chen、publications-1354、our-journeys-370）— 全數已吸收；370「Mike Chen」HOLD 維持。SKIP-no-new-material。
@@ -61,3 +63,4 @@ last_reviewed: 2026-09-24
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep（陳希寬 / Michael S. K. Chen，2026-09-24，slice 09230900-1）：hit set unchanged（ourjourneys33、81、ff184、whos-michael-s-k-chen、publications-1354、our-journeys-370）— 全數已吸收；370「Mike Chen」HOLD 維持。SKIP-no-new-material。
+- Corpus re-grep（陳希寬 / Michael S. K. Chen，2026-10-10，slice 10090315-22）：新吸收 ourjourneys58（本人回憶文，KFG 基本會員＋編印通訊錄自述）與 ourjourney-343（黑名單記錄，明文「Mike Chen(陳希寬)」＋妻 Alice Chen）兩筆此前未入頁之材料；其餘命中 unchanged；370「Mike Chen」HOLD 維持（343 標註強化同為本人之推定）。
