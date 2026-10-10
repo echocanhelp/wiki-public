@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Dr. Yuan-Tseh Lee (李遠哲博士)
 
@@ -70,3 +70,8 @@ M.S., Radiochemistry Group
 - Mother-tongue episode: [[works/taiwaneseamericanhistory-org/ourjourneys203|TAH #203 我對母語的看法 / 林榮松 /03/2016]] 記他在台美人教授協會年會首場演講改用北京話引場外抗議，其後所有演講改為「福佬話加英文」，作者視為從善如流的典範。
 - Community portrayals held in the vault: [[works/taiwaneseamericanhistory-org/ourfootsteps-23|TAH #23 油畫《李遠哲博士領取諾貝爾獎》/ 陳秀芳 /2018]]、[[works/taiwaneseamericanhistory-org/mystories166|TAH #166 專訪《立足小分子 縱情大宇宙》/ 林俊義 /2014-12]]、傳記書目 [[works/taiwaneseamericanhistory-org/publications1049|TAH #1049 藍麗娟《李遠哲傳》/11/2016]] 及 [[works/taiwaneseamericanhistory-org/important2016-26|TAH milestone #26 該傳 2016-11 於台出版]]。
 - HOLD: the TUF memoir cites the 1996 lecture title both as《回台工作一千零一夜》and《返台工作一千零一夜》in the same essay — title variant recorded, not merged.
+
+## Deepen-x re-check (slice 10090315-18, 2026-10-10)
+- Newly absorbed community record: [[works/taiwaneseamerican-org/taiwanese-nobel-prize-winner-yuan-tseh-lee-speaks-on-taiwanese-identity-in-berke|taiwaneseamerican.org 2012-03-15 report of his Berkeley talk on「Taiwanese Identity」]] — a dated record of his public speaking on Taiwanese identity in the Bay Area, from the TAHS-affiliated taiwaneseamerican.org corpus (value band B, bibliographic record only).
+- Photographic record of the Nobel moment already in the vault: [[works/taiwaneseamericanhistory-org/photo-albums-historical-12|TAH historical photo album #12 — the 1986 Nobel Prize (Chemistry) award ceremony for Prof. Yuan-tze Lee in Sweden]], corroborating the corpus anchor at [[works/taiwaneseamericanhistory-org/milestones31|milestone #31]].
+- Romanization variants unchanged by this pass (Yuan-Tseh / Yuan-tze / Yuan-Tze / Yan tze all still on record; HOLD maintained). No new biography absorbable beyond the above.
