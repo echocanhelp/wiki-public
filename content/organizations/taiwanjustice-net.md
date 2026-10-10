@@ -8,7 +8,7 @@ tags:
   - media
   - Wayback-archive
 verification_status: published
-last_reviewed: 2026-07-28
+last_reviewed: 2026-10-10
 ---
 # taiwanjustice.net (台灣公義網)
 
@@ -149,6 +149,16 @@ A systematic privacy gate scan was run on all 29,103 Tier 2 files. Content is sa
 - **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - **Article Archive:** [[articles/taiwanjustice-net/index||taiwanjustice.net Article Archive]] — 29,103 articles browseable by year and category
 - **GitHub archive:** [Tier 2 files](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
+
+## Role in the Community Record
+
+Beyond its own archive, taiwanjustice.net circulated as a **cited source inside the Taiwanese American story corpus** — the community's memoirs and news round-ups credit the site by name, which is how Echopedia's own works reference it:
+
+- [[works/taiwaneseamericanhistory-org/42-taiwanjustice|TaiwanJustice.net 台灣公義電子報]] (2015-10-22, band B) — a record in the taiwaneseamericanhistory.org story corpus citing the site by name, one of the earliest documentary anchors for the site's 2015 founding year.
+- [[works/taiwaneseamericanhistory-org/our-journeys-361|Our Journeys #361]] (posted 2020-11-30) — story syndicated with the credit line "Source from www.taiwanjustice.net/2020-11-14".
+- [[works/taiwaneseamericanhistory-org/our-journeys-366|Our Journeys #366]] (2021-02-03) — story credited "Source from Taiwan Justice 台灣公義報".
+
+**Alias note:** in corpus citations the site appears as **台灣公義電子報** and **台灣公義報** (not only 台灣公義網); searches for corpus mentions should try all three forms.
 
 ## Related Pages
 
