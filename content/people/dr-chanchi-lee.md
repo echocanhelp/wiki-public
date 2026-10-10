@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Dr. Chanchi Lee (李常吉醫師)
 
@@ -55,6 +55,10 @@ Accomplishment
 - [[works/taiwaneseamericanhistory-org/154-dr-chanchi-lee||TAH Encyclopedia #154: Dr. Chanchi Lee 李常吉醫師]]
 - [[works/taiwaneseamericanhistory-org/whos-who-1335-chanchi-lee||TAH Who's Who #1335: Dr. Chanchi Lee 李常吉醫師]]
 - [[works/taiwaneseamericanhistory-org/taiwanese-hakka-assoc-of-greater-philadelphia||TAH record: Taiwanese Hakka Assoc. of Greater Philadelphia]] — the Greater Philadelphia Hakka association he led as president, documented in the TAH corpus in the vault.
+- [[works/taiwaneseamericanhistory-org/ourjourneys202||Our Journeys #202: 台灣人集會的語言問題 (李常吉, 03/2016)]] — his own essay, band A.
+- [[works/taiwaneseamericanhistory-org/mystories668||My Stories #668: 我的女兒選擇教育生涯 (李常吉, 12/2018)]] — his own personal essay.
+- [[works/taiwaneseamericanhistory-org/ourjourneys252||Our Journeys #252: HAPA-NA institutional history (魏武雄, 09/2016)]] — corroborates his 2009–2012 presidency.
+- [[works/taiwaneseamericanhistory-org/ourjourneys290||Our Journeys #290: HAPA-NA 2016 council roster]] — lists him as 顧問 (advisor) post-presidency.
 - [[organizations/taiwanese-hakka-association-of-the-world||Taiwanese Hakka Association of the World]] — global Hakka umbrella in the vault's Hakka-association cluster; affiliation not asserted.
 
 ## Deepen pass 2026-09-10 (vault-only)
@@ -67,3 +71,14 @@ FAPA chapter presidency now wikilinked to the vault's existing FAPA page ([[orga
 ## Deepen — 2026-09-14 (vault-only pass)
 
 New link: the Greater Philadelphia Hakka association he presided over has its own TAH-corpus record now in the vault ([[works/taiwaneseamericanhistory-org/taiwanese-hakka-assoc-of-greater-philadelphia]]), linked from the Timeline and Related Pages. A contextual link to the Hakka umbrella [[organizations/taiwanese-hakka-association-of-the-world||Taiwanese Hakka Association of the World]] was added (affiliation not asserted). No new external biography.
+
+## Deepen — 2026-10-10 (corpus pass)
+
+Fresh 5-dir grep (李常吉 / Chanchi Lee / 常吉) surfaced four corpus records not previously linked:
+
+- **Author, 2016 —** his essay 台灣人集會的語言問題 ([[works/taiwaneseamericanhistory-org/ourjourneys202|Our Journeys #202]], 03/2016, band A). In it he recounts entering Taipei Medical University medical school after missing National Taiwan University because of his 國文 score, and argues from his Hakka position for a broad definition of "台灣人" including later (mainland-origin) settlers — primary-source material on his public voice within the movement.
+- **Author, 2018 —** 我的女兒選擇教育生涯 ([[works/taiwaneseamericanhistory-org/mystories668|My Stories #668]], 12/2018), a personal essay.
+- **Post-presidency advisory role, 2016 —** the HAPA-NA (北美客協) 2016 council roster lists him as 顧問 (advisor) alongside presidents-in-office ([[works/taiwaneseamericanhistory-org/ourjourneys290|Our Journeys #290]]). This extends his HAPA-NA service past the 2009–2012 presidency already on record.
+- **HAPA-NA presidency context —** Wei Wuxiong's institutional history of HAPA-NA ([[works/taiwaneseamericanhistory-org/ourjourneys252|Our Journeys #252]], 09/2016) confirms the 2009–2012 presidency on the unbroken presidential list (陳秋鴻 1991 → … → 李常吉 2009–2012 → 徐明忠 2013–2016), corroborating the page's existing dates. No conflict to hold.
+
+HAPA-NA presidency 2009–2012: corroborated by two independent corpus records; no date/age conflicts found.
