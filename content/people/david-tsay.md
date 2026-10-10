@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Dr. David Tsay (蔡丁財博士)
 
@@ -62,3 +62,4 @@ last_reviewed: 2026-09-25
 複核（deepen-x 2026-09-23, slice 09220900-7）：corpus re-grep（蔡丁財 / David Tsay，works+articles）新增命中 pew-research-center-taiwanese-american-statement（TAANJ 連署人，地理不符，記 HOLD 不併入）；其餘命中集合不變（ourjourneys69/-eng、ourjourneys233/-eng、whoswho2113、whos-who-2160、86-dr-david-tsay、index），已全數吸收。
 - 複核 2026-09-24 (DEEPEN-X slice 09230400-2): fresh ZH+EN corpus re-grep (content/works content/articles) hit set identical to prior check; all hits already linked on this page; no new memoir or club material absorbable. verified-saturated.
 - 複核 2026-09-25 (DEEPEN-X slice 09240317-1): fresh ZH+EN re-grep（蔡丁財 / David Tsay）hit set identical（ourjourneys69/-eng、ourjourneys233/-eng、whoswho2113、whos-who-2160、86-dr-david-tsay、pew 連署 HOLD、index）；全數已吸收。verified-saturated.
+- 複核 2026-10-10 (DEEPEN-X slice 10081500-30): fresh ZH+EN re-grep（蔡丁財 / David Tsay）跨 works/articles/sources/events/topics — hit set identical（ourjourneys69/-eng、ourjourneys233/-eng、whoswho2113、whos-who-2160、86-dr-david-tsay、pew 連署 HOLD、index）； surname-only 'Tsay' 命中皆為其他 Tsay 家族成員（andy/ruey-s/kuen-shii/jeffrey/shu-yuan/susan），非此人。全數已吸收。verified-saturated.
