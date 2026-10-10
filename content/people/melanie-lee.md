@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Melanie Lee (李玫蘭)
 
@@ -61,3 +61,4 @@ Accomplishment
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Re-check (slice 09250317-3, 2026-09-25): re-grep hit set unchanged (52913 / #1880 / person record / #337 + works index), all already linked; band-B bibliographic records only, no new absorbable material. SKIP.
+- Re-check (slice 10091404-9, 2026-10-10): fresh ZH+EN+full-name grep across all five corpus dirs returns the same hit set (52913 / #1880 / person record / #337 + works & sources index), all already linked as band-B bibliographic records. No new community/corpus material. SKIP (verified-saturated).
