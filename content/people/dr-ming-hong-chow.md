@@ -115,3 +115,4 @@ _No filled family fields on the TAH profile._
 
 ## Deepen-x sweep (slice 10090315-14, 2026-10-10)
 - 全語料再 grep（周明宏／Ming Hong Chow／Ming-Hong Chow／周明弘，works+articles+sources+events+topics 五目錄）：命中 10 檔——TAH #140、#589、works 索引、sources/taiwaneseamericanhistory-org、Our Journeys #138、2017 TAC/EC 報導兩存檔副本（29faf54b／d2dbfe22）、《好國好民》放映記錄兩存檔副本（1f001897／b5e568ec）、2019-09-04 挺港聯合聲明（53455d7e）——全部為本頁已吸收出處，無新增事實 — SKIP，已飽和。
+<!-- TJJ-A10090701-18: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-18 article d2dbfe220e437602（2017年美東台灣人夏令會報導/楊遠薰, 2024-05-22 快照, 29faf54b8c9e2d10 同文副本）subject link re-checked vs 正文 this attempt; real mention (代理理事長身分 7/2 揭幕致詞、7/4 交接會旗), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
