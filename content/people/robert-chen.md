@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Robert Chen (陳慕融)
 
@@ -92,3 +92,5 @@ Robert Chen (陳慕融; pinyin: Chén Mùróng) is a Taiwanese-born violinist wh
 <!-- TJJ-A10071100-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071100-1 articles (11aa2dfa5f64d7e4 楊子清 tag頁 / 2490b18e8f37ea79 第166回世界台灣文化論壇 / 89e6683c93156205 台美人台加人 p356 / 79b5f26fdef89d22 2023台美小姐選拔賽): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A100607004-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 11aa2dfa5f64d7e4 (楊子清 tag頁, 2021-01-17快照): 「陳慕融小提琴獨奏會 – TUF 台灣名家演奏系列 1994 ◎楊子清提供」條目確認見於正文; subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10080501-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080501-2 article 131a1c8ea05f85ea (台美人台加人 p360, 2024-07-15快照): 「陳慕融小提琴獨奏會 – TUF 台灣名家演奏系列 1994 ◎楊子清提供」條目確認見於正文 this attempt; subject link re-checked, real, no wrong/spurious links; dated fact (1994) w/ article wikilink already in From the record — saturated, no new material. -->
+
+- Corpus re-grep 2026-10-10 (slice 10090315-15; ZH 陳慕融 + EN Robert Chen across works/articles/sources/events/topics): hit set unchanged (73-rober-chen, 98-robert-chen, ourjourneys294, ourjourneys301, works index, pew statement, sources/taiwaneseamericanhistory-org, plus the two TJJ archive pages already cited) — verified saturated; no new community facts; Pew「Dr. Robert Chen, FAPA」same-name-different-person HOLD unchanged.
