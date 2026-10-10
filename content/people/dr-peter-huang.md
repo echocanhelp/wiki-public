@@ -112,6 +112,7 @@ last_reviewed: 2026-10-09
 
 <!-- TJJ-A10040600-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-7 article 23e163f71d3f2ba5 (長青教室標籤頁, 2024-05-23快照): 「5/16 長青教室 從基因學看老人的健康與長壽 【錄影】◎黃勝雄醫師」re-checked vs 正文, real, no wrong/spurious links; 2018-05-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
+<!-- TJJ-A10090401-14: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-14 article 23a52af3dcf8a6ce (「記憶的神經科學」標籤頁, 2024-07-23 快照) read fresh this attempt: subject link re-checked vs 正文 (本人為 2017-02-23「老人的記憶與記憶的神經科學」演講主講人), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10090401-8: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-8 article cc3dcc87b0a9ed2f (本人標籤彙整頁, 2024-05-30 快照) read fresh this attempt: 四場講座條目（2017-02-23 記憶的神經科學 / 2018-05-16 從基因學看長壽 / 憂鬱症講座延期至 2020-02-23 / 2021-08-27 SARS Cov 2 知多少）確認見於正文, subject link real, no wrong/spurious links; dated facts w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10040600-12: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-12 article be7ac05c58e6eab6 (黃勝雄醫師「老人的記憶與記憶的神經科學」全文存檔, 2017-02-23 發文 / 2024-06-13 快照): subject link re-checked vs 正文 (本人為該講座主講人), real, no wrong/spurious links; 2017-02-23 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
