@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-09
 ---
 # Tsu-Yi Jay Loo (盧主義)
 
@@ -98,3 +98,13 @@ His Source list's TAH #219 and #201 encyclopedia URLs resolve to existing vault 
 <!-- TJJ-A10070800-4: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-4: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070800-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-3 article c251f8fc65ac83e0 (去殖民化—正常化（下）, 2023-06-02): subject link re-checked vs 正文 this attempt (與林榮勳、陳以德創3F、UFI發行刊物遊說獲甘迺迪支持), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## Deepen-x 2026-10-09 (slice 10080951-12)
+
+Fresh ZH+EN grep across works/articles/sources/events/topics surfaced 4 previously-unabsorbed corpus records:
+
+- He authored his own essay on UFI history, 「台獨聯盟UFI / United Formosans for Independence」(2015/04) — held in the vault at [[works/taiwaneseamericanhistory-org/ourjourneys126||Our Journeys #126 (Chinese)]] and [[works/taiwaneseamericanhistory-org/ourjourneys126-eng||Our Journeys #126 (English)]].
+- A fellow organizer's memoir of an East Coast Taiwanese American camp at Penn State (ESU) records that Loo ("Jay") was designated as the camp's representative to negotiate the venue contract with university staff, and that he gave the closing-day keynote at the Independence Day opening on 「自由臺灣對於美國國家安全的重要性」 (the importance of a free Taiwan to U.S. national security) — [[works/taiwaneseamericanhistory-org/ourjourneys260||Our Journeys #260]].
+- His personal papers are held in the vault as a named collection — [[works/taiwaneseamericanhistory-org/private-collections-90||Private Collections #90: Collection of the Tsu-Yi Jay Loo (2019)]].
+- His pen name 李天福 is separately profiled as 「獨立運動的理論家」 — [[works/taiwaneseamericanhistory-org/277-e6-9d-8e-e5-a4-a9-e7-a6-8f-e5-85-88-e7-94-9f-e7-8d-a8-e7-ab-8b-e9-81-8b-e5-8||TAH Encyclopedia #277: 李天福先生]].
+- Corroboration of his first-presidency record: [[works/taiwaneseamericanhistory-org/ourjourneys234||Our Journeys #234]] dates the 3F founding to 1956/01 in Philadelphia (李天福、陳以德等輪流負責為主席) and the UFI founding to 1958/01 with 李天福 as chairman, succeeded by 陳以德 (1960/11–1966/06). HOLD: UFI reorganization date — 1958 (OJ #234, TAH #201) vs 1959 (the 去殖民化 essay's From-the-record entry) — not auto-merged.
