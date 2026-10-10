@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Dr. Chen-Ho Wu (吳振和博士)
 
@@ -57,3 +57,5 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 複核（deepen-x slice 09240500-1, 2026-09-25）：ZH+EN 再 grep works+articles 命中集與上文完全相同（#53 EN/TC、#24 EN/TC、#19、mystories82/304、publications761、whos-chen-ho-wu、#72、ff330、index）— SKIP-with-reason：語料飽和，唯一 HOLD（董事會加入年份）未解。
+
+再核（deepen-x slice 10081300-11, 2026-10-10）：ZH+EN grep（吳振和 / Chen-Ho Wu）遍 hit works+articles+sources+events+topics，命中集與 09-25 完全相同，無新語料可吸收；唯一未解 HOLD（董事會加入年份：TC 文 fram post-2008 vs EN memo「gradually over the years」）維持原狀，不做 auto-merge。
