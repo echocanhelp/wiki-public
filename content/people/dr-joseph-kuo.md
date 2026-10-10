@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Dr. Joseph Kuo (郭正昭博士)
 
@@ -64,3 +64,6 @@ last_reviewed: 2026-09-15
 
 ## Corpus re-check (slice 09142319-7, 2026-09-15)
 - Corpus grep (郭正昭／Joseph Kuo, works/ + articles/): all hits are records already absorbed into 'Role in the Community' / Vault Holdings above — TAH #69 林一洋醫師記念演講 record, 海外對話錄 series (publication1272–1276), Our Journey #12/#17/#104/#260, Who's Who #46. No new community material this pass; page remains deepened, HOLD on 博士 vs 教授 honorific preserved.
+
+## Corpus re-check (slice 10081300-15, 2026-10-10)
+- Fresh grep (郭正昭／Joseph Kuo／正昭, all 5 corpus dirs) returned the identical saturated hit set. Two apparent new hits are false positives, verified by context: ourjourneys212 references **楊正昭** (a different person in the 生活座談會 30th-anniversary photo, Garden Grove 2001-12), and the taiwanjustice.net 2025-11-15 Biden-budget article contains **正昭** only inside the verb 昭示 ("正昭示了…決心"), not a name. No new material; page remains deepened, HOLD on 博士 vs 教授 preserved.
