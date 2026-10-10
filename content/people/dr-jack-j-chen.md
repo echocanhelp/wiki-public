@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-17
+last_reviewed: 2026-10-10
 resweep: deepen-x-09170130-1
 ---
 # Dr. Jack J. Chen (陳宏傑教授)
@@ -67,4 +67,5 @@ resweep: deepen-x-09170130-1
 - Corpus re-grep 2026-09-16 (slice 09162200-4): hit set unchanged — own bibliography pages #217/#642/#862 + works/index only, all already linked. SKIP — no new absorbable material.
 
 ## Corpus re-grep (slice 09170130-1)
+- 2026-10-10 (slice 10081400-15): re-grep 陳宏傑 / Jack J. Chen across all 5 corpus dirs — own-bibliography hit set unchanged (#217/#642/#862 + 2019 Jack Chen records, all already linked). New family-context hits: father 陳哲夫 appears in [[works/taiwaneseamericanhistory-org/ourjourneys186|TAH ourjourneys186 名單（含陳哲夫）]], [[works/taiwaneseamericanhistory-org/mystories343|TAH mystories343「陳哲夫遙控式經營」]], [[works/taiwaneseamericanhistory-org/629-jeff-chen-e9-99-b3-e5-93-b2-e5-a4-ab-201509|TAH #629 Jeff Chen 陳哲夫 (2015-09)]], [[works/taiwaneseamericanhistory-org/41-the-jeff-chen-memorial-fund-scholarship-awards|TAH #41 陳哲夫紀念獎學金]] — corroborate the Family section (南加州飯店事業、紀念獎學金）; linked here, parents' pages remain SSOT. No new community material on Jack J. Chen himself; 2019 Jack Chen identity HOLD stands.
 - 2026-09-17: re-grep 陳宏傑 / Jack J. Chen — new bibliography hits beyond prior passes: [[works/taiwaneseamericanhistory-org/whos-who-2182-jack-chen|TAH #2182 Jack Chen (2019-05-04)]], [[works/taiwaneseamericanhistory-org/ota-272|TAH OTA-272 Jack Chen (2019-03-26)]], [[works/taiwaneseamericanhistory-org/678-team-sea-to-see-launch-day-jack-chen-03-2019|TAH #678 Team Sea to See – Launch Day/Jack Chen (2019-03-25)]]. All band B, bibliographic record only, no body text — plausibly the community-activity/OTA persona rather than the neurology professor, but no corpus text confirms identity. **HOLD: identity of the 2019 Jack Chen records (#2182/OTA-272/#678) vs the professor unresolved — recorded, not merged.** No memoir material; no new absorbable community facts.
