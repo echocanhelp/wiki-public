@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-09
 ---
 # Lekki Chua (蔡烈輝)
 
@@ -63,3 +63,4 @@ Accomplishment
 
 複核（deepen-x slice 09212352-1, 2026-09-22）：corpus re-grep 命中 my-stories-691/675/706、33-lekki-now-then、publications254、whos-who-lekki-chua 等皆已連結 — SKIP-with-reason：語料已飽和。
 複核（deepen-x slice 09221000-1, 2026-09-23）：fresh ZH+EN re-grep 命中集 18 檔（my-stories-691/675/706、33-lekki-now-then、publications254/1258、whos-who-lekki-chua、ota-246、artist51、mystories9/45/310/663、collection-of-mr-lekki-chua、footsteps-15、ourfootstapes-24、ourjourneys291、index）— 全部已連結於上方 — SKIP-with-reason：語料飽和再確認，無新社群語料。
+複核（deepen-x slice 10080958-18, 2026-10-09）：fresh ZH+EN re-grep（蔡烈輝|Lekki Chua|Liehue Chua|蔡吾一|林美棗）命中 17 檔 works + sources/index — 與前兩輪命中集相同，全部已以 wikilink 收錄於 Role in the Community — SKIP-with-reason：語料飽和，無新語料可吸收。
