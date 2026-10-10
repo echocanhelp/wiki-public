@@ -11,7 +11,7 @@ tags:
   - Long-term Care
   - Senior Education
 verification_status: published
-last_reviewed: 2026-09-20
+last_reviewed: 2026-10-10
 ---
 # Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 / ITPC)
 
@@ -28,6 +28,17 @@ ITPC was established around 2012 as a Taiwanese-language congregation for immigr
 The church has maintained a continuous presence for over a decade. The site lists a **2023 515紀念冊** ([Drive PDF](https://drive.google.com/file/d/1neFS8L5gwOi0AAQHpAROd75Gn1vrXaYE/view?usp=sharing)) — that is the booklet **title**, not a claim the church is 515 years old. The congregation is about **120** members; Sunday worship in 台語.
 
 In August 2025, Rev. [[people/li-furen||Li Fu-Jen]] (李輔仁牧師) began his pastoral ministry at ITPC, succeeding Rev. Chen Meihui (陳美蕙) and Rev. Zhang Xuanxin (張宣信), who had served the congregation in various capacities over the years.
+
+---
+
+## Role in the Community
+
+ITPC is a hub of the Taiwanese immigrant and retiree community in Orange County, documented across the TAH corpus record:
+
+- **長青教室 (Evergreen/Senior Class)** — the church's flagship community program, running from at least 2015 ([[works/taiwaneseamericanhistory-org/ourjourneys107|TAH #107, 2015/02]], sponsored by Irvine台灣長老教會), with its **10th anniversary** celebrated 11/27/2019 in Laguna Woods ([[works/taiwaneseamericanhistory-org/22-10th-anniversary-of-evergreen-class-e9-95-b7-e9-9d-92-e6-95-99-e5-ae-a4-by-ir|TAH #22, 2019]]); program records include [[works/taiwaneseamericanhistory-org/5-evergreen-by-irvine-taiwanese-presbyterian-church|TAH #5, 2017]], [[works/taiwaneseamericanhistory-org/evergreen-class-irvine-taiwanese-presbyterian-church|the Evergreen Class record, 2019]], and the [[works/taiwaneseamericanhistory-org/newsletter-of-evergreen-itpc|Evergreen newsletter]].
+- **2022-05-15 church shooting** — during a post-service lunch of ~40 congregants, a gunman (周文偉, a fellow Taiwanese immigrant) chained the doors and opened fire; visiting physician **John Cheng (鄭達志)** was killed shielding worshippers, and Rev. [[people/zhang-xuanxin||Zhang Xuanxin (張宣信)]] subdued the shooter with a chair mid-clip ([[works/taiwaneseamericanhistory-org/our-journeys-380|TAH #380, 2022/05]]; [[works/taiwaneseamericanhistory-org/910-carnegie-hero-fund-commission-john-cheng-and-billy-chang-09-2024|TAH #910 — Carnegie Hero Fund honoring Dr. Cheng and Billy Chang, 2024-09]]; [[works/taiwaneseamericanhistory-org/artist36-john-cheng|artist record: John Cheng]]; survivor account [[articles/taiwanjustice-net/2025/20250212080020_一把椅子制伏槍手-南加州教會槍擊案目擊者_勇敢_4a1c41c54468c213|Taiwan Justice, 2025-02-12]]; community grief statement [[works/taiwaneseamerican-org/laguna-woods-taiwanese-church-shooting|We grieve the May 15th Shooting]]). Member 陳建文's eyewitness account is in the Taiwan Justice report.
+- **Pastoral timeline** — HOLD: conflict — this page and [[people/li-furen]] both give Rev. Li Fu-Jen's start as **August 2025**, but [[people/li-furen]] also records Zhang Xuanxin leaving in **June 2020** after 21 years, with Chen Meihui called to continue ministry in between. Dates not auto-merged.
+- **Church records** — activity photos from 2015 onward ([[works/taiwaneseamericanhistory-org/photo-albums-activities-62|2015/03]], [[works/taiwaneseamericanhistory-org/irvine-taiwanese-presbyterian-church-activity|church activity record]]) and the church's own identity record ([[works/taiwaneseamericanhistory-org/irvine-taiwanese-presbyterian-church|2016]]).
 
 ---
 
