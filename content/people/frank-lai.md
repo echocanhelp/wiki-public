@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-09
 ---
 # Frank Lai (賴文雄)
 
@@ -58,6 +58,11 @@ _No filled family fields on the TAH profile._
 - WUFI 世界台獨聯盟棒球賽隊場景：賴文雄與鄭自才一同舉「台灣隊加油」橫幅，口述者立於中央。出處：[[works/taiwaneseamericanhistory-org/ourjourneys62-eng||Our Journeys #62（EN）]]；同期口述另見 [[works/taiwaneseamericanhistory-org/53-george-chang-long-chen-chen-wen-hsong-lai-e5-bc-b5-e7-87-a6-e9-8d-99-e9-99-b3||TAH #53 口述歷史]]。
 - 1979 後人權運動合影（文雄嫂與賴文雄並列第二排，同排有李登山、洪哲勝、艾琳達等）：[[works/taiwaneseamericanhistory-org/our-journeys-363||艾琳達《戒嚴時期關注台灣人權的國際力量》]]。
 - HOLD: existing vault note（黃根深頁）gives his UFI entry as a 1966 introduction by [[people/huang-gen-shen||黃根深]], while the corpus shows him already seated as an LA delegate and co-organizer at the 1966-06-18 founding talks — sequence of entry unreconciled, both kept.
+- 1966 USC 秘密會議（每月一次）：賴文雄與 [[people/prof-trong-rong-tsai||蔡同榮]]、[[people/tsan-hung-george-chang||張燦鍙]]、[[people/chiu-sen-wang||王秋森]]、黃根深等會面；1965-05 劉天良訪美時已拜訪過賴文雄、知其為「台獨人士」。出處：[[works/taiwaneseamericanhistory-org/ourjourneys240||Our Journeys #240]]。
+- 費城會議後任 UFAI 組織部負責人，與張燦鍙策劃「萬里自由長征」：西路 1966-11-16 由洛杉磯出發（張燦鍙、陳榮成先行，後簡金生與賴文雄加入），《台灣通訊》郵寄名單由 400 增至 4,000。出處：[[works/taiwaneseamericanhistory-org/ourjourneys234||Our Journeys #234]]、[[works/taiwaneseamericanhistory-org/ourjourneys7||Our Journeys #7]]。
+- 1966 年秋以組織部負責人身分巡迴各地區邀集同鄉籌建通訊錄，資料集中於 Manhattan 處理（後交陳希寬、蔡一執行）。出處：[[works/taiwaneseamericanhistory-org/ourjourneys58||Our Journeys #58]]。
+- 「台灣之音」廣播時期，賴文雄曾固定提供每週一股市行情分析節目。出處：[[works/taiwaneseamericanhistory-org/ourjourneys2||Our Journeys #2]]。
+- 洛杉磯校園圈與蔡同榮同為 USC 核心人物（後轉 UCLA 圈）。出處：[[works/taiwaneseamericanhistory-org/ourjourneys240||Our Journeys #240]]。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
