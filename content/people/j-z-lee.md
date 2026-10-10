@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # J. Z. Lee (李錦容)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 10051143-3 (2026-10-06): saturated re-verify — fresh grep (李錦容/J. Z. Lee) hit set unchanged (whoswho1304, ourjourneys106/79/210/270, publications26); all absorbed above. SKIP-content. -->
 <!-- deepen-x slice 10060900-1 (2026-10-07): saturated re-verify — fresh grep (李錦容 / J. Z. Lee / 錦容) hit set unchanged (whoswho1304, ourjourneys106/79/210/270, publications26); all absorbed above. SKIP-content. -->
 <!-- deepen-x slice 10071448-1 (2026-10-09): saturated re-verify — fresh grep (李錦容 / J. Z. Lee / 錦容) across works+articles+sources+events+topics hit set unchanged (whoswho1304, ourjourneys106/79/210/270, publications26); all absorbed above. SKIP-content. -->
+<!-- deepen-x slice 10090800-4 (2026-10-10): saturated re-verify — fresh grep (李錦容 / J. Z. Lee / 錦容 / JZ Lee / 李锦容) across works+articles+sources+events+topics hit set unchanged (whoswho1304, ourjourneys106/79/210/270, publications26, plus index/sources stubs); all absorbed above. SKIP-content. -->
