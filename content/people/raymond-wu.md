@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-09
 ---
 # Raymond Wu (吳瑞信)
 
@@ -40,7 +40,9 @@ Corpus memoirs place Raymond Wu in the movement's first rank from the 1970s onwa
 - **1985 organizational founding signatory:** he is among the signatories listed in 台灣公論報 第369期 (1985-04-15) reproduced in [[works/taiwaneseamericanhistory-org/ourjourneys186|Our Journeys 186]].
 - **Monterey Park city council campaign:** the community mobilization behind his run is documented in [[works/taiwaneseamericanhistory-org/projects8-20|20. 吳瑞信決定競選蒙市議員 南加州台灣人社團傾力支持]], corroborating the 1992 first-Taiwanese-American-council-candidate claim; his Who's Who entry itself is [[works/taiwaneseamericanhistory-org/whoswho1106|1106. Raymond Wu 吳瑞信 / 2016/06]]. He later gave his own account of the decision to run, 「我為何要參選蒙市議員」 (2016-06) — [[works/taiwaneseamericanhistory-org/mystories440|440. 我為何要參選蒙市議員 / 吳瑞信]].
 - **台灣出版社 founding supporter (1983):** 林衡哲's shareholder letter recalls that the 台灣出版社 — founded 1983-10-31 at 華國飯店 in Cerritos, which in 1984 published three KMT-banned books and grew into the 「台灣文庫」 project — was established with the help of shareholder and lawyer 吳瑞信 ([[works/taiwaneseamericanhistory-org/ourjourneys70|Our Journeys 70, 林衡哲 「台灣文庫」緣起, 2014-12]]).
-- **南加州台灣長輩會 legal counsel (1984–88):** the 長輩會 顧問團 assembled to build the 鶴園公寓 elder-housing project (會館 1988-03-05 開幕) included lawyer 吳瑞信 alongside 黃茂清 and 廖重遠 ([[works/taiwaneseamericanhistory-org/ourjourneys173|Our Journeys 173, 曾輝光 台美人移民史的首座里程碑, 2015-09]])
+- **南加州台灣長輩會 legal counsel (1984–88):** the 長輩會 顧問團 assembled to build the 鶴園公寓 elder-housing project (會館 1988-03-05 開幕) included lawyer 吳瑞信 alongside 黃茂清 and 廖重遠 ([[works/taiwaneseamericanhistory-org/ourjourneys173|Our Journeys 173, 曾輝光 台美人移民史的首座里程碑, 2015-09]]); the English counterpart [[works/taiwaneseamericanhistory-org/ourjourneys173-eng|Our Journeys 173 (English)]] names him as R. S. Wu among the ~20-member advisory group. HOLD: the Chinese text says 二位律師 while naming three lawyers; the English translation lists three — count discrepancy held, not merged.
+- **高雄中學 alumni network (LA hosting):** the 雄中校友 corpus record places 吳瑞信 among the Los Angeles hosts for the blacklist-era US speaking tour of 黃春明 ([[works/taiwaneseamericanhistory-org/ourjourneys283|Our Journeys 283, 吳木盛, 2017-04]]) — an alumni-network anecdote, individual chapter membership not asserted; see [[organizations/kaohsiung-high-school-alumni-association|高雄中學校友會]].
+- **TAH encyclopedia record #289:** his own 「first T. A. run for city councilman」 entry is preserved in-corpus at [[works/taiwaneseamericanhistory-org/ff289|289. Raymond Wu (吳瑞信) / The first T. A. run for city councilman (Monterey Park, CA in 1992), 2016]].
 
 - **洛杉磯同鄉會會長 / 世台會 (per 吳木盛 memoir):** 吳木盛's 世台會第二、三屆年會報告 recalls 吳瑞信 as then 洛杉磯同鄉會會長 — a 小同鄕 whose father was the author's friend, still recognizable with his 高雄中學 air — who met the author and 黃春明 at the Los Angeles airport en route to the third 世台會 annual conference at Pepperdine University ([[works/taiwaneseamericanhistory-org/ourjourneys283|Our Journeys 283, 吳木盛, 2017-04]]).
 - **TACL preparatory committee consultants:** the English record 台灣公論報 第269期 (1985-04-15) in [[works/taiwaneseamericanhistory-org/ourjourneys186-eng|Our Journeys 186 (English)]] lists Raymond Wu among the TACL Preparatory Committee consultants — corroborating the #186 signatory record above.
@@ -54,6 +56,7 @@ _No filled family fields on the TAH profile._
 
 - 複核（deepen-x slice 09211300-7，2026-09-22）：re-grep 吳瑞信 / Raymond Wu 命中集不變（ourjourneys76 / -eng、ourjourneys253、ourjourneys186、ourjourneys70、ourjourneys173、projects8-20、whoswho1106、mystories440）— 全數已吸收，HOLD（TA magazine 訪談同名人物）維持不併入，saturated，SKIP。
 - 複核（deepen-x slice 09220800-5，2026-09-22）：re-grep 命中集不變（ourjourneys253、ourjourneys76/-eng、ourjourneys186、whoswho1106、projects8-20 及索引行）— 全數已引用，saturated，SKIP-with-reason。
+- 複核（deepen-x slice 10080958-17，2026-10-09）：re-grep 吳瑞信 / Raymond Wu 命中集與前次相同（ourjourneys76/-eng、253、186/-eng、70、173、283、projects8-20、whoswho1106、mystories440、ff289、healthy-living-and-eating、sources index）— 新增吸收 3 條：ff289 由純 URL 升級為正文 wikilink、ourjourneys173-eng 英文版 R. S. Wu 顧問團記錄（含二位/三位律師 HOLD）、雄中校友會 org 頁交叉連結（雄中校友網絡軼事，非社員身分斷言）；HOLD（TA magazine 同名醫師）維持不併入。
 
 ## Sources
 - [TAH #1106 encyclopedia: 1106. Raymond Wu 吳瑞信 / 2016/06](https://taiwaneseamericanhistory.org/whoswho1106/)
