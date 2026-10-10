@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-10
 ---
 # Wellington Welly Yang (楊呈偉)
 
@@ -74,3 +74,4 @@ Wellington (Welly) Yang 楊呈偉 – History of Taiwanese American (T.A. Archiv
 <!-- TJJ-A10060400-13: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-13 articles (0832558e3b4e5ac7 台美史料中心 March 2021 Newsletter, 2021-02-28 / c082b03671e7c8ee 慈林海內外人權救援聯展, 2024-06-08 / 5f12408ab340f912 楊呈偉返台夢幻愛程, 2022-08-08 / 483521594640641a 紐約台灣會館蘇春槐接理事長, 2021-04-07): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070700-12: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-12 article 6fd9d16befa5a33a (曾為裴洛西募款餐會獻唱·音樂劇演員楊呈偉返台, 2022-08-08刊): 楊呈偉 subject link re-checked vs 正文 (報導主角：百老匯音樂劇演員，曾於裴洛西主持募款餐會獻唱美國國歌、獲國發會就業金卡、返台參加「夢幻愛程」排練), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- DEEPEN-X10081400-10: verified 2026-10-10 — fresh ZH+EN+alias re-grep (楊呈偉/Welly Yang/Wellington Yang; 森下迪納/Morishita) across works+articles+sources+events+topics: hit set identical to prior checks (TAH #63/#24/#537/#112/#238, works/index, source page, TJJ 6fd9d16b/5f12408a 同稿重複存檔) — all already wikilinked/absorbed. Verified-saturated, SKIP, no new material. -->
