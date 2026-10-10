@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Dr. Ming J. Lee (李銘正博士)
 
@@ -54,6 +54,7 @@ last_reviewed: 2026-09-15
 - **2026-09-15 (DEEPEN-X09150316-18):** re-sweep SKIP — grep 李銘正／Ming J. Lee again hits only his own #146/#657/#2165 records + works index (all already wikilinked here); no peer memoir mentions; nothing new absorbable.
 - **2026-09-15 (DEEPEN-X09150400-12):** re-sweep SKIP — hit set unchanged (own #146/#657/#2165 + index listing only); no peer memoir material to absorb.
 - **2026-09-15 (DEEPEN-X09150500-8):** re-sweep SKIP — hit set unchanged (own #146/#657/#2165 + index only). Broader '李明哲' matches in the corpus are the imprisoned Taiwan democracy activist Lee Ming-che（李明哲），a different person from 李銘正 — false positive, not absorbed. Nothing new absorbable.
+- **2026-10-10 (DEEPEN-X10090400-19):** re-sweep — fresh 5-dir grep (李銘正／Ming J. Lee／銘正) returns the same saturated hit set: his own #146/#657/#2165 records plus two video records, [[works/taiwaneseamericanhistory-org/videos71|TAH videos #71: 華府台美人參加2017年度獨立紀念日大遊行 / Dr. Ming Lee 李明典]] and [[works/taiwaneseamericanhistory-org/videos72|TAH videos #72: 華府台美人參加2007年度獨立紀念日大遊行 / Dr. Ming Lee 李明典]]. HOLD: those two records are ambiguous — the byline pairs "Dr. Ming Lee" with 李明典 (Min Tenmilton Lee), and the Washington D.C. parade context fits 李明典 rather than the Yilan/East-Coast-CPA profile of 李銘正; the Subjects-line wikilink to this page may be a mis-resolution of the shared romanization "Ming Lee." Not absorbed as this page's activity. Also confirmed false positives: 黃銘正 (director of the 尋找湯德章 documentary, 全美會 228 event coverage) and 郭台銘 — neither is 李銘正. Nothing new absorbable.
 
 ## Family
 
