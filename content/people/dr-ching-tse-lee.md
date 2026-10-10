@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-10
 ---
 # Dr. Ching-Tse Lee (李清澤博士)
 
@@ -33,7 +33,8 @@ Ching-Tse Lee, Ph.D., Professor Emeritus of Psychology at the City University of
 
 ## Role in the Community
 
-- 語料庫收有其本人多篇原始材料：TAH 百科 [[works/taiwaneseamericanhistory-org/167-dr-ching-tse-lee|TAH #167 李清澤博士]]、藝術家專輯 [[works/taiwaneseamericanhistory-org/artist18-ching-tse-lee|TAH #18 李清澤 Ching-Tse Lee]]、足跡紀錄 [[works/taiwaneseamericanhistory-org/footsteps-32|TAH #32 足跡（林榮峰撰文）]]
+- 語料庫收有其本人多篇原始材料：TAH 百科 [[works/taiwaneseamericanhistory-org/167-dr-ching-tse-lee|TAH #167 李清澤博士]]、[[works/taiwaneseamericanhistory-org/whos-who-435-ching-tse-lee|TAH #435 李清澤博士]]、藝術家專輯 [[works/taiwaneseamericanhistory-org/artist18-ching-tse-lee|TAH #18 李清澤 Ching-Tse Lee]]、足跡紀錄 [[works/taiwaneseamericanhistory-org/footsteps-32|TAH #32 足跡（林榮峰撰文）]]
+- 2015-06 — TAH「Care for Taiwan by T.A.」專欄第 27 篇專文介紹其推廣台灣本土文化：[[works/taiwaneseamericanhistory-org/145-care-for-taiwan-by-t-a-the-story-of-prof-chin-tse-lee-ef-bc-9a27-e6-8e-a8-e5|TAH #145 The Story of Prof. Ching Tse Lee：27 推廣台灣本土文化]]
 - 語料庫 NATPA 回憶錄（Our Journeys 系列）中的「李鎮源教授」為台大醫學院醫師、台灣民主運動前輩，與本頁心理學家李清澤同名異人，勿混
 
 ## Family
