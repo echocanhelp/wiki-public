@@ -1,10 +1,25 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "standards_version": 10,
   "total_pages_scanned": 2944,
-  "pages_with_findings": 21,
-  "auto_queued": 17,
+  "pages_with_findings": 22,
+  "auto_queued": 18,
   "queue": [
+    {
+      "path": "organizations/taiwanese-overseas-student-association-at-the-university-of-washington.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_34wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
     {
       "path": "people/chun-chieh-chiu.md.md",
       "findings": [
@@ -59,22 +74,6 @@
         "STRUCT_NO_REVIEW_DATE"
       ],
       "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/dr-tong-y-chen.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_RELATED",
-        "READABILITY_MANY_LONG_SENTENCES_6"
-      ],
-      "priority": "high",
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol",
         "Fix ONLY listed findings — no inventing biography",
@@ -147,7 +146,7 @@
       "findings": [
         "LINKS_NO_RELATED",
         "STRUCT_NO_RELATED",
-        "READABILITY_MANY_LONG_SENTENCES_5"
+        "READABILITY_MANY_LONG_SENTENCES_6"
       ],
       "priority": "medium",
       "instructions": [
@@ -173,11 +172,11 @@
       ]
     },
     {
-      "path": "people/lisa-su.md",
+      "path": "people/lisa-su.md.md",
       "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_RELATED",
-        "READABILITY_MANY_LONG_SENTENCES_7"
+        "FRESHNESS_NO_REVIEW_DATE",
+        "STRUCT_NO_TYPE",
+        "STRUCT_NO_REVIEW_DATE"
       ],
       "priority": "medium",
       "instructions": [
@@ -188,11 +187,10 @@
       ]
     },
     {
-      "path": "people/lisa-su.md.md",
+      "path": "people/marian-miaw-ju-chen.md",
       "findings": [
-        "FRESHNESS_NO_REVIEW_DATE",
-        "STRUCT_NO_TYPE",
-        "STRUCT_NO_REVIEW_DATE"
+        "DESC_TOO_SHORT",
+        "DESC_NO_TITLE_MENTION"
       ],
       "priority": "medium",
       "instructions": [
@@ -233,6 +231,20 @@
       ]
     },
     {
+      "path": "people/tim-chng.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "READABILITY_MANY_LONG_SENTENCES_5"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
       "path": "people/wanying-heather-zhang.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
@@ -263,6 +275,6 @@
       ]
     }
   ],
-  "suppressed_findings": 2251,
-  "fp_history_entries": 2395
+  "suppressed_findings": 2253,
+  "fp_history_entries": 2399
 }

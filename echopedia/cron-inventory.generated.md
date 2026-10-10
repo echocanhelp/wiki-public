@@ -15,11 +15,11 @@
 | 20 22 * * * | `echopedia-evaluate-actions` | no_agent | on | ok | `echopedia-evaluate-actions.py` |
 | 20 6 * * * | `echopedia-digest` | no_agent | OFF | ok | `echopedia-digest.sh` |
 | 25 0 * * * | `echopedia-ci-heal` | no_agent | on | ok | `echopedia-ci-heal-wrapper.sh` |
+| 30 */4 * * * | `echopedia-news-digest` | no_agent | on | ok | `echopedia-news-digest.py` |
 | 30 0 * * * | `echopedia-site-design` | no_agent | on | ok | `echopedia-site-design-wrapper.sh` |
 | 30 21 * * * | `echopedia-janitor` | no_agent | on | ok | `echopedia-janitor-wrapper.sh` |
 | 30 22 1 * * | `go-router-monthly-audit` | AGENT | on | error | `go-router` |
 | 30 23 * * * | `echopedia-timeline-builder` | no_agent | on | ok | `echopedia-timeline-builder-cron.sh` |
-| 30 8 * * * | `echopedia-news-digest` | no_agent | on | ok | `echopedia-news-digest.py` |
 | 40 0 * * * | `echopedia-tier1-sweep` | no_agent | on | ok | `echopedia-tier1-sweep.sh` |
 | 40 21 * * * | `echopedia-scout-live` | no_agent | on | ok | `echopedia-scout-live.sh` |
 | 40 22 * * * | `echopedia-generate-cards` | no_agent | on | ok | `echopedia-generate-cards.py` |

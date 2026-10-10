@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-10-08
+TAHS · Echopedia morning brief — 2026-10-09
 1 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
@@ -6,9 +6,9 @@ TAHS · Echopedia morning brief — 2026-10-08
      → Confirm identity / approve thin page / or dismiss
 
 🟡 QUEUE / identity (soft — no reply required)
-🟡 QUEUE Christine Hsu: soft pending aged out: capture_line_user_id_on_first_sender_message
 🟡 QUEUE Becky Yang: soft pending aged out: chinese_name
 🟡 QUEUE Charles Yang: soft pending aged out: capture_line_user_id_on_first_sender_message
+🟡 QUEUE Christine Hsu: soft pending aged out: capture_line_user_id_on_first_sender_message
 
 🟡 SOURCE CONTINUITY (live sites)
 ✅ AUTO  taiwancenter-org: +0 new / 4 changed; applied 6
@@ -27,7 +27,7 @@ TAHS · Echopedia morning brief — 2026-10-08
 🟡 QUEUE 11 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~15988 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~16163 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/ai-education-foundation.md ↔ organizations/stc-rowland-legacy.md
@@ -37,11 +37,11 @@ TAHS · Echopedia morning brief — 2026-10-08
 🟡 QUEUE 5. Link tip: organizations/ai-education-foundation.md ↔ organizations/american-chinese-dance-association.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 134 visits since cutoff · yday 2026-10-07 = 9 · /people/albert-zh-sku-b-publisher-review.html 22, /people/gwhyneth-chen 16, /people/albert-zh-sku-b-publish
+ℹ️  INFO  wiki 136 visits since cutoff · yday 2026-10-08 = 2 · /people/albert-zh-sku-b-publisher-review.html 22, /people/gwhyneth-chen 16, /people/albert-zh-sku-b-publish
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 2943 queued 17 suppressed 2244
-🟡 QUEUE janitor HOLD leftover 28
-🟡 QUEUE kanban blocked 15
-🔴 NEED YOU cron fail: memory-audit, echopedia-nightly-audit, go-router-monthly-audit
+✅ AUTO analyzer scanned 2944 queued 17 suppressed 2251
+🟡 QUEUE janitor HOLD leftover 40
+🟡 QUEUE kanban blocked 16
+🔴 NEED YOU cron fail: memory-audit, go-router-monthly-audit
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

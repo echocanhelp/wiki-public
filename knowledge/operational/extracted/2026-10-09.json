@@ -1,0 +1,538 @@
+{
+  "date": "2026-10-09",
+  "standards_version": 10,
+  "total_findings": 53,
+  "total_pages": 18,
+  "actions": [
+    {
+      "page": "organizations/taiwanese-overseas-student-association-at-the-university-of-washington.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-overseas-student-association-at-the-university-of-washington.md",
+      "finding": "READABILITY_LONG_SENTENCES_34wps",
+      "finding_prefix": "READABILITY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Average words per sentence exceeds 30. Break up long sentences for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwanese-overseas-student-association-at-the-university-of-washington.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/chun-chieh-chiu.md.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/chun-chieh-chiu.md.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "finding_prefix": "FRESHNESS_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/chun-chieh-chiu.md.md",
+      "finding": "STRUCT_NO_TYPE",
+      "finding_prefix": "STRUCT_NO_TYPE",
+      "action": "Add type: to frontmatter",
+      "detail": "Add type: person, type: organization, or type: source to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/chun-chieh-chiu.md.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "finding_prefix": "STRUCT_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter so the freshness checker can track it.",
+      "playbook": "P8",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/david-yang.md.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "finding_prefix": "FRESHNESS_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/david-yang.md.md",
+      "finding": "STRUCT_NO_TYPE",
+      "finding_prefix": "STRUCT_NO_TYPE",
+      "action": "Add type: to frontmatter",
+      "detail": "Add type: person, type: organization, or type: source to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/david-yang.md.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "finding_prefix": "STRUCT_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter so the freshness checker can track it.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-lisa-su.md.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "finding_prefix": "FRESHNESS_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-lisa-su.md.md",
+      "finding": "STRUCT_NO_TYPE",
+      "finding_prefix": "STRUCT_NO_TYPE",
+      "action": "Add type: to frontmatter",
+      "detail": "Add type: person, type: organization, or type: source to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-lisa-su.md.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "finding_prefix": "STRUCT_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter so the freshness checker can track it.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-long-song-simon-lin.md.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "finding_prefix": "FRESHNESS_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-long-song-simon-lin.md.md",
+      "finding": "STRUCT_NO_TYPE",
+      "finding_prefix": "STRUCT_NO_TYPE",
+      "action": "Add type: to frontmatter",
+      "detail": "Add type: person, type: organization, or type: source to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-long-song-simon-lin.md.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "finding_prefix": "STRUCT_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter so the freshness checker can track it.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-tong-y-chen.md.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "finding_prefix": "FRESHNESS_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-tong-y-chen.md.md",
+      "finding": "STRUCT_NO_TYPE",
+      "finding_prefix": "STRUCT_NO_TYPE",
+      "action": "Add type: to frontmatter",
+      "detail": "Add type: person, type: organization, or type: source to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-tong-y-chen.md.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "finding_prefix": "STRUCT_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter so the freshness checker can track it.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-yeongchi-wu.md.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "finding_prefix": "FRESHNESS_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-yeongchi-wu.md.md",
+      "finding": "STRUCT_NO_TYPE",
+      "finding_prefix": "STRUCT_NO_TYPE",
+      "action": "Add type: to frontmatter",
+      "detail": "Add type: person, type: organization, or type: source to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-yeongchi-wu.md.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "finding_prefix": "STRUCT_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter so the freshness checker can track it.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/ing-hui-lai.md.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/ing-hui-lai.md.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "finding_prefix": "FRESHNESS_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/ing-hui-lai.md.md",
+      "finding": "STRUCT_NO_TYPE",
+      "finding_prefix": "STRUCT_NO_TYPE",
+      "action": "Add type: to frontmatter",
+      "detail": "Add type: person, type: organization, or type: source to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/ing-hui-lai.md.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "finding_prefix": "STRUCT_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter so the freshness checker can track it.",
+      "playbook": "P8",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/jane-lin.md",
+      "finding": "DESC_TOO_SHORT",
+      "finding_prefix": "DESC_TOO_SHORT",
+      "action": "Expand the first paragraph to provide a meaningful summary of the page",
+      "detail": "First paragraph should be 50+ characters and mention the page subject. Add 1-2 sentences summarizing who/what this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/jane-lin.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/jensen-huang.md",
+      "finding": "LINKS_NO_RELATED",
+      "finding_prefix": "LINKS_NO_RELATED",
+      "action": "Add ## Related Pages section",
+      "detail": "Add a Related Pages section with wikilinks to connected people, organizations, and sources.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/jensen-huang.md",
+      "finding": "STRUCT_NO_RELATED",
+      "finding_prefix": "STRUCT_NO_RELATED",
+      "action": "Add ## Related Pages section",
+      "detail": "Add a Related Pages section with wikilinks ([[people/name|Name]]) to connected pages. Use first-mention convention.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/jensen-huang.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_6",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/li-mutong.md.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "finding_prefix": "FRESHNESS_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/li-mutong.md.md",
+      "finding": "STRUCT_NO_TYPE",
+      "finding_prefix": "STRUCT_NO_TYPE",
+      "action": "Add type: to frontmatter",
+      "detail": "Add type: person, type: organization, or type: source to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/li-mutong.md.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "finding_prefix": "STRUCT_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter so the freshness checker can track it.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/lisa-su.md.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "finding_prefix": "FRESHNESS_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/lisa-su.md.md",
+      "finding": "STRUCT_NO_TYPE",
+      "finding_prefix": "STRUCT_NO_TYPE",
+      "action": "Add type: to frontmatter",
+      "detail": "Add type: person, type: organization, or type: source to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/lisa-su.md.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "finding_prefix": "STRUCT_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter so the freshness checker can track it.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/marian-miaw-ju-chen.md",
+      "finding": "DESC_TOO_SHORT",
+      "finding_prefix": "DESC_TOO_SHORT",
+      "action": "Expand the first paragraph to provide a meaningful summary of the page",
+      "detail": "First paragraph should be 50+ characters and mention the page subject. Add 1-2 sentences summarizing who/what this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/marian-miaw-ju-chen.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/paul-chen.md.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "finding_prefix": "FRESHNESS_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/paul-chen.md.md",
+      "finding": "STRUCT_NO_TYPE",
+      "finding_prefix": "STRUCT_NO_TYPE",
+      "action": "Add type: to frontmatter",
+      "detail": "Add type: person, type: organization, or type: source to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/paul-chen.md.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "finding_prefix": "STRUCT_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter so the freshness checker can track it.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/peter-chen.md.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "finding_prefix": "FRESHNESS_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/peter-chen.md.md",
+      "finding": "STRUCT_NO_TYPE",
+      "finding_prefix": "STRUCT_NO_TYPE",
+      "action": "Add type: to frontmatter",
+      "detail": "Add type: person, type: organization, or type: source to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/peter-chen.md.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "finding_prefix": "STRUCT_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter so the freshness checker can track it.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/tim-chng.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/tim-chng.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_5",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/wanying-heather-zhang.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/wanying-heather-zhang.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "finding_prefix": "LINKS_LOW_DENSITY",
+      "action": "Add more wikilinks to related pages",
+      "detail": "This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/wanying-heather-zhang.md",
+      "finding": "READABILITY_MANY_LONG_SENTENCES_4",
+      "finding_prefix": "READABILITY_MANY_LONG_SENTENCES",
+      "action": "Break up long sentences",
+      "detail": "Multiple sentences exceed 50 words. Break them up for readability.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/yang-xin.md.md",
+      "finding": "FRESHNESS_NO_REVIEW_DATE",
+      "finding_prefix": "FRESHNESS_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/yang-xin.md.md",
+      "finding": "STRUCT_NO_TYPE",
+      "finding_prefix": "STRUCT_NO_TYPE",
+      "action": "Add type: to frontmatter",
+      "detail": "Add type: person, type: organization, or type: source to the page frontmatter.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/yang-xin.md.md",
+      "finding": "STRUCT_NO_REVIEW_DATE",
+      "finding_prefix": "STRUCT_NO_REVIEW_DATE",
+      "action": "Add last_reviewed: YYYY-MM-DD to frontmatter",
+      "detail": "Add a last_reviewed date to the page frontmatter so the freshness checker can track it.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    }
+  ]
+}

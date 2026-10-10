@@ -1,7 +1,7 @@
 # Connector suggestions (capped top 80)
 
-- co_citation total=5223 kept=80
-- co_mention total=10765 kept=40
+- co_citation total=5311 kept=80
+- co_mention total=10852 kept=40
 - shared_tags total=0 kept=0
 
 ## Top co-citation
@@ -17,9 +17,9 @@
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/chang-jung-girls-high-school-alumni-association-southern-california.md
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/formosa-senior-association.md
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/joint-chinese-university-alumni-association-of-southern-california.md
+- organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwan-center-choir.md
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwanese-american-arts-association.md
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md
-- organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwanese-american-pen-club.md
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwanese-american-soft-tennis-association.md
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ people/alan-t-chen.md
 - organizations/american-chinese-dance-association.md ↔ people/dr-steve-huang.md

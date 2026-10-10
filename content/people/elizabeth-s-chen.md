@@ -45,7 +45,7 @@ Elizabeth S. Chen was born in Kaohsiung, Taiwan in 1944. She was graduated from 
 
 - **費城和平契友世代：** 據 [[works/taiwaneseamericanhistory-org/ourjourneys268|TAH #268：回憶第一屆美東台灣人夏令會／徐頌鵬（2016/11）]] 親史，1970 年前她是費城台北和平長老教會學生契友圈成員（同圈有歐炯雄、張初穗夫婦、黃有輝、劉淳美、李武雄夫婦、莊文生等），該契友圈即 1970 年首屆美東台灣人夏令會三大源頭團體之一。
 - **親史所記家族關係：** 同文記「陳良平以後與李秀麗（李豐明與李豐隆的妹妹）結婚」，即她為李豐明、李豐隆之妹。HOLD: 配偶記載衝突 —— 本頁 Family 欄記 "Josephen Chen"，親史（TAH #268）記陳良平，兩說並存，不逕行併merge。
-- **出版與史料貢獻：** 2010/03 台語合唱精選專輯 [[works/taiwaneseamericanhistory-org/416-e9-98-bf-e6-af-8d-e6-88-91-e6-83-b3-e6-82-a8-e6-9d-8e-e7-a7-80-e9-b|TAH #416：阿母 我想念您——台語合唱精選專輯]]；亦為本會提供 2013 Laguna Woods 台灣合唱團音樂會紀錄 —— 見 [[works/taiwaneseamericanhistory-org/concerts26|TAH concerts #26：抱著咱的夢（2013 Laguna Woods Village 台灣合唱團音樂會）]]。
+- **出版與史料貢獻：** 2010/03 台語合唱精選專輯 TAH #416：阿母 我想念您——台語合唱精選專輯；亦為本會提供 2013 Laguna Woods 台灣合唱團音樂會紀錄 —— 見 [[works/taiwaneseamericanhistory-org/concerts26|TAH concerts #26：抱著咱的夢（2013 Laguna Woods Village 台灣合唱團音樂會）]]。
 - **1998 聯合音樂會與 CD：** 1998-02-28 與賴美芬合辦「乘著歌聲的翅膀」音樂會（Santa Ana, CA，見 [[works/taiwaneseamericanhistory-org/concerts61|TAH concerts #61]]）；同年 05 發行同名音樂 CD [[works/taiwaneseamericanhistory-org/publications538|TAH #538：乘著歌聲的翅膀／李秀麗 王淑女]]，同場合作人為 [[people/sonia-lee|王淑女 (Sonia Lee)]]。
 - **Laguna Woods 春風合唱團指揮：** 以 "Elizabeth Shiu-Lee Chen" 署名擔任 Laguna Woods Village 台灣人合唱團（春風合唱團）指揮，2014/11 親撰「Conductor's Footnote」記 2013 年團內四年來首次正式音樂會 —— 見 [[works/taiwaneseamericanhistory-org/10-laguna-woods-village-taiwanese-chorale|TAH #10：Laguna Woods Village Taiwanese Chorale 春風合唱團]]；與 [[organizations/laguna-woods-village-taiwanese-club|Laguna Woods Village Taiwanese Club]] 相關。
 

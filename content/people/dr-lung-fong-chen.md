@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-10
 ---
 # Dr. Lung-Fong Chen (陳隆豐博士)
 
