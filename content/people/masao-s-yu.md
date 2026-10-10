@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Masao S. Yu (游祥修醫師)
 
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-verified 2026-09-25 (deepen-x slice 09250600-26) and 2026-10-01 (slice 09261200-9): grep confirms the Cleveland founding roster (25 人, 北醫 contingent), the NATMA 1984-07-14 attendance, and the Cleveland-delegation by-name roster already absorbed above. The only non-self corpus hits are ourjourneys74 / -eng and ourjourneys228; no other memoir carries 游祥修 (the FAPA 克里夫蘭分會 organization page itself is still absent from the vault, so the Cleveland hubs above are the closest in-vault pages).
 - Corpus re-grep 2026-10-08 (deepen-x slice 10062334-8): fresh 游祥修 / Masao Yu grep across works/ articles/ sources/ events/ topics/ returned the identical hit set (ourjourneys74 / -eng, ourjourneys228, whos-masao-s-yu #671, works/index, sources index) — all absorbed above. SKIP: verified-saturated, no new facts, no conflicts.
 - Corpus re-grep 2026-10-09 (deepen-x slice 10080600-12): same identical hit set (ourjourneys74 / -eng, ourjourneys228, works/index, sources index); no new corpus material. Verified-saturated.
+- Corpus re-grep 2026-10-10 (deepen-x slice 10091500-6): fresh 游祥修 / Masao Yu / 游祥 grep across works/ articles/ sources/ events/ topics/ returned the identical hit set (ourjourneys74 / -eng, ourjourneys228, sources index) — all absorbed above, including the full 25-name Cleveland founding roster (北醫 contingent: 許世模、黃安仁、黃振南、游祥修、林一輝、粱俊華) and the NATMA 1984-07-14 Cleveland-delegation roster. Verified-saturated, no new facts, no new conflicts.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/masao-s-yu/)
