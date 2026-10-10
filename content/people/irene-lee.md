@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-01
+last_reviewed: 2026-10-10
 ---
 # Irene Lee (李智惠)
 
@@ -32,7 +32,7 @@ Irene Lee, is a composer, soprano, performer, and voice teacher. She attended Ma
 
 ## Family
 
-- **Sister:** 李秀芳 (instrumental accompaniment at Irene's 2015 San Diego recital); **brother-in-law:** 陳重光醫師, then vice chair of the San Diego Taiwanese American Association 聖地牙哥台灣同鄕會 — per [[works/taiwaneseamericanhistory-org/ourjourneys162|Our Journeys 162]].
+- **Sister:** 李秀芳 (instrumental accompaniment at Irene's 2015 San Diego recital); **brother-in-law:** 陳重光醫師, then vice chair of the San Diego Taiwanese American Association 聖地牙哥台灣同鄕會 — per [[works/taiwaneseamericanhistory-org/ourjourneys162|Our Journeys 162]]. He has a TAH profile: [[people/richard-chen|Richard Chen 陳重光]] ([[works/taiwaneseamericanhistory-org/whos1100|whoswho 1100, 2016-06]]). HOLD: that profile records a NY-based computer engineer (b. 1945, 基隆); whether it is the same 陳重光醫師 as the San Diego vice chair is unverified on both pages — not merged.
 
 ## Role in the Community
 - **1999-04-04** — sang at the founding thanksgiving service (創會感恩禮拜, Easter) of Grace Presbyterian Church 聖恩長老敎會 at the Slackwood church (NJ) before ~250 attendees, with Dexter Lai assisting — per [[works/taiwaneseamericanhistory-org/ourjourneys43|Our Journeys 43（聖恩長老敎會設教經過）]].
@@ -55,3 +55,4 @@ Irene Lee, is a composer, soprano, performer, and voice teacher. She attended Ma
 - Re-check (slice 09250317-3, 2026-09-25): re-grep hit set unchanged (ourjourneys43, ourjourneys162 + EN, whoswho1110, musician47, Pew statement, index), all absorbed, no new community material. SKIP.
 
 - Re-check (slice 09251417-2, 2026-09-26): re-grep hit set unchanged (ourjourneys43, ourjourneys162 + EN, whoswho1110, musician47, Pew statement, index), all absorbed, no new community material. SKIP-with-reason.
+- Re-check (slice 10081200-19, 2026-10-10): re-grep hit set unchanged (ourjourneys43, ourjourneys162 + EN, whoswho1110, musician47, Pew statement, index, source page), all previously absorbed. New: brother-in-law 陳重光醫師 cross-linked to his TAH profile [[people/richard-chen]] + whoswho 1100, with the same-person conflict held (profile = NY engineer b.1945; SD vice-chair 醫師 unverified — not merged).
