@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-10
 ---
 # Chien-An Chen (陳建安)
 
@@ -108,3 +108,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10070700-20: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-20 article e1412ed9 (台灣民謠之夜 TUF 1995 節目紀錄, 2024-05-20 快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10080501-7: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080501-7 article 64302d51d03b3c5f (黃瑞芬訃聞轉載, 2022-01-29 刊, 2024-02-25 存檔): 陳建安 link re-checked vs 正文 this attempt (列名1995-07-29 TUF LA音樂会同台大提琴), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10081300-20: re-verified 2026-10-10 — fresh ZH+EN grep (陳建安/Chien-An Chen/建安) across all 5 corpus dirs returned the identical saturated hit set (musician86, whoswho134, ourjourneys294, ourjourneys301, index, MANIFEST); all records already absorbed in Role in the Community / From the record with true wikilinks — no new material, last_reviewed bumped. -->
