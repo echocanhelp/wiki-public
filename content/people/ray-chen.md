@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-15
+last_reviewed: 2026-10-10
 ---
 # Ray Chen (陳銳)
 
@@ -89,3 +89,9 @@ _No filled family fields on the TAH profile._
 ## Corpus re-check（slice deepen-x-09150500-3，2026-09-15）
 
 語料重掃（works/ + articles/）：命中僅本人自有 TAH 書目記錄（均已連結於上）與索引頁，無其他 memoir／會刊提及——無可吸收之新增社群事實，SKIP-with-reason。
+
+## Deepen pass 2026-10-10（slice deepen-x-slice-10091414-6，SKIP-with-reason）
+
+- 全語料庫重掃（works/ + articles/ + sources/ + events/ + topics/，ZH+EN 雙名）：命中僅本人自有 TAH #244／#247／#505 傳記條目（均已連結於 Vault Holdings）與 works/index.md、sources 註冊表。
+- 追加全庫掃描（含 people/ 等其他目錄）：唯一旁證命中為 [[people/huifan-helen-chen|Helen Chen]] 頁內註記，屬「Ray Chen 與他人同為小提琴＋Chen 姓氏之誤配排除說明」，非本人之社群事實。
+- 結論：語料飽和，無可吸收之新增社群事實，維持 SKIP-with-reason；last_reviewed 更新為 2026-10-10。
