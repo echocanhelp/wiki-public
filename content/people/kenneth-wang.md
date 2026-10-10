@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-10
 ---
 # Kenneth Wang (王克雄博士)
 
@@ -66,6 +66,8 @@ last_reviewed: 2026-09-22
 - Corpus grep (re-run 2026-09-20): 王克雄 / Kenneth Wang hit set unchanged (publications1095, mystories409, ourjourneys213, ourjourneys192, whos-dr-kenneth-wang; whos-who-1694 remains a different Kenneth Wang 王文宏) — all already absorbed; SKIP new material.
 - Corpus grep (re-run 2026-09-21): 新增命中 ourjourneys352（TAC-WC 會史 / 黃東昇）— 已吸收為 TAC-WC 首任董事長紀事；其餘命中集合不變。
 - Corpus grep (re-run 2026-09-22): TJJ 語料新增多筆本人專欄與二二八平反紀錄 — 見下方逐條吸收；whos-who-1694 (王文宏) 命中集合不變。
+- 2023-05 — 獲選 2023 TAHS Publication（台美人菁英錄 第二輯）「奠基‧傳承」第 10 位profile（Wang Kexiong 王克雄）— 見 [[sources/2023-tahs-publication|2023 TAHS Publication]]；該輯傳記記其 1947 年生於台北、父王育霖 27 歲遭綁擄時為其出生之年（[[people/wang-kexiong|王克雄 (Wang Kexiong)]] 為同一人別名條目）。HOLD: 該條目稱本人「生於 1947」，與 LA Times 紀錄「1947 年祕警抓捕時年未滿 3 歲」（ourjourneys192）存在年齡衝突，未合併。
+- 2021-05 — 以「Dr. Kenneth Wang, The Institute of Taiwanese Studies」身分連署台灣人歷史協會回應 Pew Research 隱匿台灣人身分之聲明「We made it count. Now tell our stories.」— 見 [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research 回應聲明 (2021-05-01)]]。
 
 ## From the record (228 advocacy, 2020–2026)
 
