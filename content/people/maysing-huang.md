@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-09
 ---
 # Maysing Huang (楊黃美幸)
 
@@ -56,6 +56,10 @@ last_reviewed: 2026-09-27
 - 2019-11-02 — 以陳文成基金會董事長身份與台大師生及20多位教授開發布會，抗議台大拒分攤陳文成紀念廣場工程費，宣布發動1,200萬元募款；本人捐款100萬元、陳家已捐200萬元，並指促轉會檔案仍遮蓋此案真相（[[articles/taiwanjustice-net/2022/20220415221720_2019_11_02_校方反悔拒出陳文成紀念廣場工程費_-台大師生偕_03754005e8506b45|TJJ，2019-11-02]]）。
 - 2022-08-08 — 報導記載其子楊呈偉為台裔美籍百老匯音樂劇演員、曾為裴洛西募款餐會獻唱，並與妻獲國發會就業金卡率全家返台演出《夢幻愛程》（[[articles/taiwanjustice-net/2022/20221002104157_2022_08_08_曾為裴洛西募款餐會獻唱_音樂劇演員楊呈偉返台_6fd9d16befa5a33a|TJJ，2022-08-08]]、[[articles/taiwanjustice-net/2025/20251016213907_曾為裴洛西募款餐會獻唱_音樂劇演員楊呈偉返台_5f12408ab340f912|TJJ 2025 存檔]]）。
 - 2021-09-25 — 以陳文成博士紀念基金會董事長身份在台大陳文成事件 40 週年紀念座談會致詞，強調查明真相必能水落石出、家屬要的是國民黨道歉（[[articles/taiwanjustice-net/2021/20211023211116_2021_09_25_陳文成事件-人權醫師陳永興盼儘速釐清真相_d6441ab32ea8636d|TJJ/CNA, 2021-09-25]]）。
+- 2013-11-02 — 以台灣民主基金會副執行長身份出席陳破空《假如中美開戰》台北新書發布會（同場：張富美、高英茂、張炎憲、蘇正平、莊豐嘉、家博）（[[articles/taiwanjustice-net/2022/20220809232457_2013_11_02_陳破空_假如中美開戰_新書發布會在台北舉行-_4c706aaa6459cdb7|TJJ，2013-11-02]]）。
+- 2020-02-17 — 以陳文成博士紀念基金會董事長身份與台大校長管中閔共同簽訂陳文成事件紀念廣場捐贈契約，議定一年內完工（[[articles/taiwanjustice-net/2025/20250420010550_陳文成紀念廣場完成簽約-預計1年內完工_張富美當_69fece5d137eae46|TJJ，2020-02-17]]）。
+- 2021-03-29 — 以亞太自由婦女協會理事長身份與許文堂等本土社團駁斥楊潔篪「台灣自古不屬中國」論，引雍正上諭與趙翼《廿二史札記》反駁（[[articles/taiwanjustice-net/2022/20220626163803_2021_03_29_駁斥楊潔篪_本土社團_台灣不是中國的一部分_3799e13726671756|TJJ，2021-03-29]]、[[articles/taiwanjustice-net/2025/20250212070441_駁斥楊潔篪_本土社團_台灣不是中國的一部分_874628f50d29897a|2025 存檔]]）。
+- 2021-09-10 — 陳文成博士紀念基金會獲總統文化獎社會改革獎，受訪自述基金會自1981年創於美國、2000年正名、1987年邀紐約青少年弦樂團訪台演奏禁曲等歷程（[[articles/taiwanjustice-net/2021/20211020133215_2021_09_12_獲總統文化獎_陳文成基金會_40年來都走正確的路_22cd2740e3041fe9|TJJ/CNA，2021-09-12]]）。
 - 2021-10-30 — 「台文通訊30冬紀念獎」頒獎典禮（線上）公布來賓名單，楊黃美幸以陳文成紀念基金會名義與前文化部長鄭麗君、世界台灣文化論壇共同發起人鄭良光同列來賓；典禮由周佳穎主持，主辦為陳文成博士紀念基金會（[[articles/taiwanjustice-net/2021/20211207125658_2021_10_28_台文通訊30冬紀念獎-頒獎典禮part130日舉行_753347eb4cf48066|TJJ, 2021-10-28]]）。
 - 複核（TJJ-A09240800-11, 2026-09-25）：本 slice 文章 6fd9d16befa5a33a／5f12408ab340f912 正文再驗證——楊黃美幸以楊呈偉之母（前無任所大使）身分被提及，確認見於正文，subject link 為真（無錯鏈、無虛鏈）；2022-08-08 條目（已雙掛兩文 wikilink）已在庫 — SKIP，無新材料。
 
@@ -74,6 +78,8 @@ last_reviewed: 2026-09-27
 - 2022-10-24 — during the 全美會回台參訪, she (described there as 「1986年全美會會長暨前僑委會副委員長」) accompanied 創會會長鄭義和 at the dinner with 賴清德副總統 at 海霸王; she is also in the group photo with 蘇春槐 ([[works/taiwaneseamericanhistory-org/our-journeys-382|382. 2022年全美會回台參訪記]]). HOLD: conflict in TAA presidency year — the TAA roster/work [[works/taiwaneseamericanhistory-org/ourjourneys76-eng|76]] gives 1987–1988 while the 2022 memoir says 1986年全美會會長; not auto-merged.
 - 2017-03 — featured with 吳澧培 in a profile of their film ambition behind 《林北小舞》 ([[works/taiwaneseamericanhistory-org/ourjourneys279|279. 吳澧培、楊黃美幸的電影夢《林北小舞》 / 朱蒲青, 2017-03-09]]).
 - Named among 紐約同鄉會 donors thanked in the 台灣研究社/公論報 era fund-raising record ([[works/taiwaneseamericanhistory-org/ourjourneys256|256]]).
+- Her own account of the foundation's history: founded in the US after the 1981 陳文成事件; unable to bear 陳文成's name in Taiwan under the KMT, it was only after the 2000 transfer of power that the 台美文化交流中心 was renamed 陳文成博士紀念基金會; in summer 1987 it defied KMT opposition to host the first 台美交流活動 under its name, bringing the New York Youth Symphony Orchestra to Taiwan to perform the banned songs 「望春風」and「望您早歸」; from the 1980s its Taipei office served as a meeting place where 台權會, 台教會 and other groups planned social movements, and the foundation's agenda has spanned 二二八平反, 非核家園, 廢除刑法100條, 促轉會, 性別平權, 同性婚姻, 聲援圖博, 反媒體壟斷 and 反服貿 — for which it received the 總統文化獎（社會改革獎）in 2021 ([[articles/taiwanjustice-net/2021/20211020133215_2021_09_12_獲總統文化獎_陳文成基金會_40年來都走正確的路_22cd2740e3041fe9|TJJ, 2021-09-12]]).
+- Also served as 亞太自由婦女協會理事長 (2021, publicly rebutting 楊潔篪's 「台灣自古不屬中國」 claims on Qing-record grounds) and as 台灣民主基金會副執行長 (2013) — see dated entries under "From the record".
 
 - 複核（TJJ-A09260500-16, 2026-09-27）：本 slice 僅 753347eb（台文通訊30冬紀念獎頒獎典禮公告）涉本人——以陳文成紀念基金會來賓身分確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2021-10-30 條目已在庫 — SKIP，已飽和。
 
@@ -99,3 +105,5 @@ last_reviewed: 2026-09-27
 <!-- TJJ-A10070700-24: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-24 article 753347eb4cf48066（台文通訊30冬紀念獎頒獎典禮公告）: 楊黃美幸以陳文成紀念基金會來賓身分 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10080501-8: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080501-8 article d6441ab32ea8636d (陳文成事件 人權醫師陳永興盼儘速釐清真相, 2021-09-25刊／2021-10-23快照) read fresh this attempt: 楊黃美幸以陳文成博士紀念基金會董事長致詞確認見於正文, subject link real, no wrong/spurious links; 2021-09-25 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10080949-21: verified 2026-10-09 — fresh ZH+EN grep across works/articles/sources/events/topics; 4 previously-unabsorbed records absorbed (總統文化獎自述訪談 2021-09-12, 亞太自由婦女協會理事長駁楊潔篪 2021-03-29, 紀念廣場捐贈簽約 2020-02-17, 台灣民主基金會副執行長出席陳破空新書發布會 2013-11-02); no date/age conflicts introduced -->
