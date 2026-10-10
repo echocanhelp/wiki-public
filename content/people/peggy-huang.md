@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-10
 ---
 # Peggy Huang (黃瑞雅)
 
@@ -78,3 +78,5 @@ Re-grep 黃瑞雅|Peggy Huang: works hit set unchanged (ota-292, whos-who-2199, 
 
 <!-- TJJ-A10060500-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060500-2 article 117bdbbd9b362236 (周文偉槍擊案報導, 2022-05-16): 黃瑞雅/Peggy Huang subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10070700-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-2 article 117bdbbd9b362236 (周文偉日內瓦長老教會槍擊案報導, 2022-05-16): 黃瑞雅 subject link re-checked vs 正文 this attempt (加州副檢察長、約巴林達台裔市議員、中央社電話受訪轉述教友見聞與「我已經來這裡兩三次了」細節), real, no wrong/spurious links; 2022-05-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10081100-16: verified 2026-10-10 — fresh ZH+EN+surname (黃瑞雅|Peggy Huang|黃景安) grep across all 5 corpus dirs returned the identical hit set as prior passes (works: ota-292, whos-who-2199, ms-peggy-huang-for-u-s-representatives, our-journeys-380, peggy-huang, index; articles: 117bdbbd9b362236, ab91fdd76a1f4c9c, 2fd56236c9f861c6, tag_共和黨 af0278446ed1626b = index listing of the same 2019-12 台灣公義報 notice already absorbed, MANIFEST.jsonl) — every hit already cited on this page. SKIP, saturated; no new material, no conflicts to HOLD. -->
