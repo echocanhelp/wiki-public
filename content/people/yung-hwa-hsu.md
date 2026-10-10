@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-09
 ---
 # Yung Hwa Hsu (許永華)
 
@@ -91,3 +91,15 @@ Both TAH encyclopedia records (#170, #298) and his papers collection are absorbe
 <!-- TJJ-A10060400-13: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-13 articles (0832558e3b4e5ac7 台美史料中心 March 2021 Newsletter, 2021-02-28 / c082b03671e7c8ee 慈林海內外人權救援聯展, 2024-06-08 / 5f12408ab340f912 楊呈偉返台夢幻愛程, 2022-08-08 / 483521594640641a 紐約台灣會館蘇春槐接理事長, 2021-04-07): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-14: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-14 articles (b7327dcf 台美史料中心March2021通訊, 2021-02-28 / 95fd8186 二二八77週年大洛杉磯台灣會館追思紀念大會, 2024-02-25 / 26f76359 糖尿病與你王秉訓演講記錄, 2019-10-31 / a1b56965 彭明敏研討會跨世代對談, 2023-09-24): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## Deepen — 2026-10-09 (slice 10080951-8, corpus grep)
+
+Fresh ZH+EN grep across works/articles/sources/events/topics surfaced 7 previously-unlinked TAH corpus records authored by or about him:
+
+- **2008 — 自傳.** [[works/taiwaneseamericanhistory-org/publications1024|1024. 許永華自傳 (2008, autobiography)]] — his own autobiography in the TAH collection.
+- **2015-04 — 悼詞.** [[works/taiwaneseamericanhistory-org/235-e6-86-b6-e8-a8-b1-e6-b0-b8-e8-8f-af-e5-85-84-e7-8e-8b-e7-a7-8b-e6-a3-ae20150|235. 憶許永華兄 / 王秋森 / 2015-04]] — memoir by Prof. [[people/chiu-sen-wang|Chiu-Sen Wang 王秋森]] written after his death (2015), corroborating the 1936–2015 era.
+- **2015-06 — 悼念文.** [[works/taiwaneseamericanhistory-org/146-e6-87-b7-e5-bf-b5-e5-b9-be-e4-bd-8d-e5-90-8c-e4-b8-80-e7-b7-9a-e4-b8-8a-e7-9|146. 懷念幾位同一線上的朋友 / 許永華 / 2015-06]] — his own essay remembering friends on the same network.
+- **2016-09 — 兩篇專欄.** [[works/taiwaneseamericanhistory-org/ourjourneys250|250. 為「留美台灣人台獨運動史」催生 (2016-09)]] — on shepherding the publication of the movement history; and [[works/taiwaneseamericanhistory-org/mystories466|466. 要住在美國，就應該愛這個國家 (2016-09)]] — his essay on civic belonging.
+- **2017-11 — 基金會史.** [[works/taiwaneseamericanhistory-org/ourjourneys321|321. 由陳文成紀念基金會的創立談起 (2017-11)]] — the original essay, predating the 2021 newsletter republication already recorded above.
+- **基金會創立脈絡.** The English version [[works/taiwaneseamericanhistory-org/ourjourneys321-eng]] records that after Chen Wen-Chen's 1981 murder, the donation campaign's main organizers were **Yung Hwa Hsu in Ann Arbor and Chin-teh Lai (賴金德) in Pittsburgh**, and that Chen Su-jen asked him to establish the non-profit (in New Jersey) that became the Chen Wen-Chen Foundation — the strongest concrete role yet in his page: not just Co-Founder-adjacent but the Ann Arbor organizer of the memorial fund and founder of the foundation at Chen Su-jen's request. (No vault page exists for Chin-teh Lai; stays plain text.)
+
