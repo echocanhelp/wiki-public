@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Chanchi Lee (李常吉醫師)
 
@@ -82,3 +82,7 @@ Fresh 5-dir grep (李常吉 / Chanchi Lee / 常吉) surfaced four corpus records
 - **HAPA-NA presidency context —** Wei Wuxiong's institutional history of HAPA-NA ([[works/taiwaneseamericanhistory-org/ourjourneys252|Our Journeys #252]], 09/2016) confirms the 2009–2012 presidency on the unbroken presidential list (陳秋鴻 1991 → … → 李常吉 2009–2012 → 徐明忠 2013–2016), corroborating the page's existing dates. No conflict to hold.
 
 HAPA-NA presidency 2009–2012: corroborated by two independent corpus records; no date/age conflicts found.
+
+## Deepen — 2026-10-11 (corpus pass)
+
+Re-grep across all 5 corpus dirs (李常吉 / Chanchi Lee / 常吉) returned the same hit set, all already linked above; the English mirrors ([[works/taiwaneseamericanhistory-org/ourjourneys252-eng|Our Journeys #252-eng]] and [[works/taiwaneseamericanhistory-org/ourjourneys290-eng|#290-eng]]) carry the same presidential list and add nothing beyond the ZH originals. One hit is a surname collision, not this person: [[works/taiwaneseamericanhistory-org/48-charles-lu-e7-9b-a7-e5-b8-b8-e5-90-89|TAH #48: Charles Lu 盧常吉]] matches 常吉 but is a different individual — not linked, not absorbed. Page remains saturated; no new community facts to add.
