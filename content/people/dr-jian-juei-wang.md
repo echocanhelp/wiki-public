@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Jian-Juei Wang (王健椎博士)
 
@@ -71,6 +71,8 @@ His Golden Orange Club (金桔會)/OCTA project-management role recorded in the 
 - 複核（TJJ-A09220400-5, 2026-09-22）：subject link 經本 slice 再驗證為真實對應，对应 From-the-record 条目已在库（无错链、无虚链）— SKIP，无新材料。
 
 - 2026-10-10 — Corpus re-grep (slice 10090400-28, 王健椎/Jian-Juei Wang/健椎, 5 dirs): 5 previously unlinked essay records absorbed into the bibliography above — 5. 琴聲細語心歡喜 (2006/08, 文學), 73. 感恩的心, 76. 平安就是福 (mystories), 736. 隔空抓藥美國芥藍俏 (2020/08). Remaining hits are records already linked or the same essay republished on Taiwan Justice (新冠疫情真情五四三, already in the bibliography); no new conflicts.
+
+- 2026-10-11 — Corpus re-grep (slice 10101210-32, 王健椎/Jian-Juei Wang/健椎, 5 dirs): 22 works hits + TJJ article hits — every hit is a record already linked/absorbed in the bibliography above (own essays, TAH #156/#97 bios, private-collections-87, 2018 protest-letter article, 林宏容 memorial article); remaining hits are category/index pages (covid-19 category listings, works/index) and the same 新冠疫情真情五四三 essay republished on Taiwan Justice, already noted. Nothing new absorbable; no new conflicts. SKIP-no-new-material.
 
 - 2020-09-30 — In 林宏容's memorial essay for 鄭寶鼎博士 (TJJ), Wang — former president of the 柑縣台灣同鄉會 — is the one who phoned 林宏容 on the morning of Monday 2020-09-21 to break the news that Bob Cheng had died the previous evening, the call that prompted the essay ([[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|林宏容 via TJJ, 2020-09-30]]).
 
