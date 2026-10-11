@@ -7,7 +7,7 @@ tags:
   - archive
   - Taiwanese-American
 verification_status: published
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # TAH Foundation (台美史料中心)
 
@@ -59,7 +59,7 @@ Echopedia **v1** of this domain = CPT **graph** (people + orgs), **not** a recra
 | Cluster | Where |
 |---------|--------|
 | About / 簡介 / History / Mission | this page (cite About 2026-08-21) |
-| Source hub / directory index | [[sources/taiwaneseamericanhistory-org]]]] |
+| Source hub / directory index | [[sources/taiwaneseamericanhistory-org]] |
 | Who’s Who people | `content/people/` (`tah-whos-who`; 漢名-only = `tah-p-*`) |
 | Organizations | `content/organizations/` from TAH org CPT |
 | Education / Employment tables | harvest backfill on existing Who’s Who pages (Family skipped) |
@@ -83,3 +83,5 @@ Echopedia **v1** of this domain = CPT **graph** (people + orgs), **not** a recra
 - **Funding model:** per the same memoir, the 2014 Irvine office (17155 Von Karman Ave, ~4,000 sq ft) and the 2016 two-story Corporate Park building (~19,000 sq ft) were **Bob's sole funding (獨資)**; roles split across the first board (陳立明 furniture/equipment, 王漢平 audio/video, 林宏容 software/WiFi, 郭清江 hiring). The 2014 TACS scholarship awards ceremony was held at the Center.
 - **Newsletter corpus:** taiwanjustice.net carries T.A. Archives / 台美史料中心 newsletters as a standing tag (May 2020 – May 2021 issues, e.g. [[articles/taiwanjustice-net/2021/20210920142459_tag_taiwanese-american-archives_1d2a1adc7c67ab32|tag: Taiwanese American Archives]]) — the monthly newsletter since May 2015 is preserved there, not only on the TAH site.
 - **Who's Who cross-links:** the harvest under `content/works/taiwaneseamericanhistory-org/` includes biographical entries that themselves reference the Center (e.g. 吳朗, 吳明杰, 蘇芯, 鄭明憲), confirming the Center's role as a community hub in member accounts.
+- **Exhibition:** the Foundation's own exhibition work [[works/taiwaneseamericanhistory-org/honoring-the-taiwanese-american-journey-history-heritage-and-contributions|Honoring the Taiwanese American Journey]] (opened January 2025, on display as of 2026-08-06) presents its special collections with artifacts, photographs, and interpretive narratives, developed with exhibition design by 70 Degrees — the physical expression of the "permanent museum/history center" goal stated in the 2017/2020 About.
+- **Newsletter issues in corpus:** beyond the standing tag, individual issues are archived on taiwanjustice.net, e.g. the [[articles/taiwanjustice-net/2026/20260208202549_march-2021-newsletter-t-a-archives-台美史料中心_b7327dcf888cee82|March 2021 newsletter issue]] — corroborating the May-2015-onward monthly newsletter claim from About.
