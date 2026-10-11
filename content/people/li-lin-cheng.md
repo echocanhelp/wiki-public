@@ -128,3 +128,5 @@ BVM (Bachelor of Veterinary Medicine)
 <!-- TJJ-A10100501-30: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-30 article efea1ad2d8cb4d11 哲人日已遠：敬弔李應元博士（弔文主角李應元、牽手黃月桂致哀句、◎NATPA鄭麗伶會長暨全體理事署名皆確認見於正文）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - 複核（deepen-x slice 10100700-18, 2026-10-11）：ZH+EN 再 grep 全五語料目錄——命中集與歷次相同（OJ 277/287/242/205、自身 TAH #1609 條目、TJJ 弔文／標籤／分類頁）。注意：2026-01-23 i-Tek 起訴案報導之「屠麗玲（Li-Ling Tu）」為假陽性（非本人，勿掛鏈）。新增材料：OJ 287 回憶錄載善友 1960 解散後鄭昭明於台南創設 3B（BBB）青少年管弦樂團、林昭亮與胡乃元幼時受訓於該團——已吸收於 Family 節。無衝突，維持飽和判定。
+
+<!-- TJJ-A10100701-11: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-11 article 912bedafc3ae02b4 (「北美洲台灣人教授協會」標籤頁, 2025-09-14 快照): 「哲人日已遠：敬弔李應元博士 ◎NATPA鄭麗伶會長暨全體理事」署名確認見於正文; subject link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record (2021-11-22 NATPA tag entry) — saturated, no new material. -->

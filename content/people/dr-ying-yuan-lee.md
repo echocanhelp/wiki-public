@@ -128,3 +128,5 @@ last_reviewed: 2026-10-10
 <!-- TJJ-A10100401-23: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-23 article 23924f7ad0d93713 (李應元標籤頁, 2022-07-01 快照) read fresh this attempt: 本人為弔文主角及辭世家祭/植存報導主角，確認見於條目; subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100501-30: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-30 article efea1ad2d8cb4d11 哲人日已遠：敬弔李應元博士（弔文主角李應元、牽手黃月桂致哀句、◎NATPA鄭麗伶會長暨全體理事署名皆確認見於正文）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10100701-11: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-11 article 912bedafc3ae02b4 (「北美洲台灣人教授協會」標籤頁, 2025-09-14 快照): 本人為弔文〈哲人日已遠：敬弔李應元博士〉主角, 確認見於正文頭條條目; subject link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record (2021-11 NATPA tag entry) — saturated, no new material. -->
