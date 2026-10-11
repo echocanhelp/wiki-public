@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Maurice Hsu (許盛男醫師)
 
@@ -97,3 +97,5 @@ last_reviewed: 2026-10-09
 <!-- TJJ-A10090701-29: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-29 article 2777c88877eee2c5 (Tag: 長青教室 p3, 2024-06-20 快照) read fresh this attempt: subject link re-checked vs 正文 — 「長青教室心得報告—許盛男醫師講『台灣話的源流』 11/16/2016」條目具名確認見於正文, real, no wrong/spurious links; 2016-11-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090801-19: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-19 article c6f9dbff48b39366（台美人台加人 popular 分類頁, 2024-02-21快照）read fresh this attempt: subject link 許盛男 re-checked vs 正文 —「長青教室心得報告—許盛男醫師講『台灣話的源流』 11/16/2016」條目具名確認見於正文, real, no wrong/spurious links; 2016-11-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- deepen-x slice 10100400-24, 2026-10-10: fresh grep 許盛男|Maurice Hsu|盛男 across works/articles/sources/events/topics = 16 hits, hit set identical to already-absorbed links (TAH 檔案 174/175/176/308, OJ#09/#09ENG/#356/#356ENG, TJJ tag/categor snapshot pages, sources/index) — saturated, no new material; FAPA 創會 1981 vs 1982 冲突仍 HOLD. -->
