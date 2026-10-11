@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Paul Lin (林水波教授)
 
@@ -92,3 +92,4 @@ last_reviewed: 2026-10-10
 
 <!-- TJJ-A10090901-13: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-13 article e9ec20fd58bf6b1c (長青教室標籤頁 p6, 2024-06-21快照): subject link 林水波教授 re-checked vs 正文 this attempt (「長青教室 心得報告: 郝龍斌倡導阿扁保外就醫論評/:主講人: 林水波教授/ 10-24-2012」條目確認見於正文), real, no wrong/spurious links; 2012-10-24 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10100401-27: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-27 article dc44b297e6225e64 (長青教室心得報告: 郝龍斌倡導阿扁保外就醫論評/主講人林水波教授, 發文 2012-10-26 / 快照 2024-07-19) read fresh this attempt: 主講人「林水波教授」確認見於標題與正文; subject link re-checked vs 正文, real, no wrong/spurious links; 2012-10-24 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- deepen-x-10101100-18: verified 2026-10-11 — fresh ZH+EN+surname grep (林水波/Paul Lin/林年松) across all 5 corpus dirs. Hit set (10 files: whoswho1085-2, our-journeys-351, ourjourneys107, ourjourneys296, works index, TJJ MANIFEST + 3 archive pages, sources/taiwaneseamericanhistory-org) identical to the long-standing set; 林年松 (1999/2000 Kansas–Olathe) HOLD unchanged, 林年松 ≠ 林水波. All records already absorbed above — verified-saturated, no new material. -->
