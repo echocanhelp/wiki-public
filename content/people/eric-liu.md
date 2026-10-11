@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Eric Liu (劉柏川)
 
@@ -57,6 +57,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-check 2026-10-06 (slice 10051340-14): fresh ZH+EN grep 劉柏川 / Eric Liu across works/articles/sources/events/topics returns only #179, the works index, and the two already-absorbed essays — alias sweep (柏川) hit one unrelated Honduras-election article. SKIP, verified-saturated.
 - Corpus re-check 2026-10-08 (slice 10070018-5): fresh ZH+EN grep 劉柏川 / Eric Liu across works/articles/sources/events/topics returns only #179, the works index, and the two already-absorbed essays (「What are you?」, On Stubborn Roots). SKIP, verified-saturated.
 - Corpus re-check 2026-10-09 (slice 10080700-27): fresh ZH+EN+alias grep 劉柏川 / Eric Liu / 柏川 across works/articles/sources/events/topics returns only #179, the works index, and the two already-absorbed essays (「What are you?」, On Stubborn Roots); the alias sweep hit one unrelated Honduras-election article. SKIP, verified-saturated.
+- Corpus re-check 2026-10-10 (slice 10092054-8): fresh ZH+EN+alias grep 劉柏川 / Eric Liu / 柏川 across all 5 corpus dirs returns only #179, the works index, and the two already-absorbed essays; alias sweep again hits only the Honduras-election article (柏川德, Kilvett Bertrand — unrelated). SKIP, verified-saturated.
 
 ## Sources
 - [TAH #179 encyclopedia: 179. Eric Liu 劉柏川](https://taiwaneseamericanhistory.org/179-eric-liu-%e5%8a%89%e6%9f%8f%e5%b7%9d/)
