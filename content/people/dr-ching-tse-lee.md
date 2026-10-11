@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Ching-Tse Lee (李清澤博士)
 
@@ -36,6 +36,7 @@ Ching-Tse Lee, Ph.D., Professor Emeritus of Psychology at the City University of
 - 語料庫收有其本人多篇原始材料：TAH 百科 [[works/taiwaneseamericanhistory-org/167-dr-ching-tse-lee|TAH #167 李清澤博士]]、[[works/taiwaneseamericanhistory-org/whos-who-435-ching-tse-lee|TAH #435 李清澤博士]]、藝術家專輯 [[works/taiwaneseamericanhistory-org/artist18-ching-tse-lee|TAH #18 李清澤 Ching-Tse Lee]]、足跡紀錄 [[works/taiwaneseamericanhistory-org/footsteps-32|TAH #32 足跡（林榮峰撰文）]]
 - 2015-06 — TAH「Care for Taiwan by T.A.」專欄第 27 篇專文介紹其推廣台灣本土文化：[[works/taiwaneseamericanhistory-org/145-care-for-taiwan-by-t-a-the-story-of-prof-chin-tse-lee-ef-bc-9a27-e6-8e-a8-e5|TAH #145 The Story of Prof. Ching Tse Lee：27 推廣台灣本土文化]]
 - 語料庫 NATPA 回憶錄（Our Journeys 系列）中的「李鎮源教授」為台大醫學院醫師、台灣民主運動前輩，與本頁心理學家李清澤同名異人，勿混
+- 金鷹學院（本頁創辦人兼總裁）之 corpus 紀錄可旁證 1991 年創立：[[works/taiwaneseamericanhistory-org/185-e9-87-91-e9-b7-b9-e5-ad-b8-e9-99-a2golden-eagle-institute-new-york-e7-ac-ac-|TAH #185「金鷹學院／第一個老年學院」(1991/09)]]、[[works/taiwaneseamericanhistory-org/143-e8-a1-b7-e5-bf-83-e7-9a-84-e8-a9-b1-e9-87-91-e9-b7-b9-e5-ad-b8-e9-99-a2-e7-9|TAH #143 廖清愛「衷心的話——金鷹學院的創立歷程」(2015-06)]]；該兩篇以機構為題、未直接點名本人，屬機構旁證非傳記素材
 
 ## Family
 
