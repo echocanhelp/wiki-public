@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Chin-Ming Chen (陳欽明醫師)
 
@@ -86,3 +86,7 @@ Fresh ZH+EN grep across works/articles/sources/events/topics surfaced his own fi
 - Pen Club history (ourjourneys12): the 大紐約區海外台灣人筆會 lists him as the **5th president**, after 林興隆 (2nd), 郭正昭 (3rd, late 2012), 李正三 (4th, early 2015) — corroborating the 2016–2017 presidency as membership-recorded.
 - HOLD: pen-club succession date conflict — the page/TAH bio says president **2016–2017**, but ourjourneys12 says 陳欽明醫師繼任 in **2015** ("2015年由陳欽明醫師繼任第五任會長至今年2017年底"). Not auto-merged.
 - Name disambiguation: [[works/taiwaneseamericanhistory-org/whos-who-1690-stephen-chen|TAH #1690 "Dr. Stephen Chen 陳貞華博士"]] is a **different person** (陳貞華) despite the shared English name — do not conflate with this page's Stephen Chen alias (陳欽明).
+
+## Vault re-check 2026-10-11 (deepen-x slice 10101200-16, vault-only)
+
+Fresh ZH+EN+surname grep (陳欽明 / Chin-Ming / Stephen Chen / 欽明) across all 5 corpus dirs returned only records already fully absorbed in prior passes: TAH #14 (collection), #17 (影音紀錄頻道), #102, #899, ourjourneys12 (pen-club succession, HOLD stands), mystories547. Remaining hits were index/hub pages with no biographical material. No new vault facts, no web used, no new pages, nothing published.
