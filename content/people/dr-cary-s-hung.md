@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Cary S. Hung (洪哲勝博士)
 
@@ -49,12 +49,16 @@ _No filled family fields on the TAH profile._
 - **陳文成事件紀念集** — 1981 年《陳文成事件》紀念集編印時，洪哲勝太太參與打字（同書作者為避白色恐怖全用筆名，十年後十週年紀念集才陸續用真名）；1983 年週年被纪念舞台劇《補破網》於新澤西演出（memoir: [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8]]）。
 - **文物收藏入档** — 「洪哲勝博士的收藏」作為 TAH 館藏私人收藏列檔（Era: 2020，[[works/taiwaneseamericanhistory-org/private-collections-103|TAH #103]]），為其畢生台運文獻的機構化留存。
 - **悼念與生平記載** — 同人著有《職業革命家—洪哲勝》（TAH My Stories #740，2020-09，[[works/taiwaneseamericanhistory-org/my-stories-740|My Stories 740]]）；姚煒廉撰〈悼念洪哲勝〉（TAH My Stories #778，2020-12，[[works/taiwaneseamericanhistory-org/mystories-778|My Stories 778]]），與 Identity Snapshot 所載 2020 年辭世相符；劉格正撰〈紀念 楚也 洪哲勝〉（TAH My Stories #782，2021-01，[[works/taiwaneseamericanhistory-org/my-stories-782-caryhung|My Stories 782]]）。
-- **台獨聯盟副主席** — 1971 年蔡同榮辭去世界台灣獨立聯盟（WUFI）主席後，第三屆盟員大會選出鄭紹良為美國本部主席，洪哲勝與陳希寬同選為副主席（memoir: [[works/taiwaneseamericanhistory-org/publication1320|《台灣自救》洪哲勝著 1986]]）。
+- **台獨聯盟副主席** — 1971 年蔡同榮辭去世界台灣獨立聯盟（WUFI）主席後，第三屆盟員大會選出鄭紹良為美國本部主席，洪哲勝與陳希寬同選為副主席（memoir: [[works/taiwaneseamericanhistory-org/publication1320|《台灣自救》洪哲勝著 1986]]）。聯盟大會紀錄進一步指明：1971-07 Columbus, Ohio 盟員大會選出鄭紹良為主席、陳希寬第一副主席、洪哲勝第二副主席（此為最後一次盟員大會）；1977-08-26 Wheeling, Illinois 第四屆盟員代表大會再任第二副主席（主席張燦鍙、第一副主席楊宗昌）（[[works/taiwaneseamericanhistory-org/ourjourneys234|Our Journeys 234]]）。
+- **《望春風》共同創辦人** — 1969-08 在 Colorado State University（Ft. Collins）與林銘德、梁文盛、林資深、蘇國雄、洪博學六位留學生共同策劃創刊這份「有屁必放」的同鄉通訊，第一期僅發行 13 本；其後流浪全美編印，1973-11-20 成為全美台灣同鄉會會刊，共發行 136 期至 1980 停刊，並免費贈送全美百間大學圖書館（[[works/taiwaneseamericanhistory-org/ourjourneys307|Our Journeys 307]]、[[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys 76]]）。
+- **學生運動講員與招募者** — 1983-12「台灣學生」第一屆冬令會邀他與許信良、劉重義、林孝信座談，集結不同政治理念的領導人物；因與郭倍宏走得很近，「台灣學生」被國民黨單位與台獨聯盟劃上等號，而他寄出加入聯盟的表格予郭倍宏（[[works/taiwaneseamericanhistory-org/ourjourneys238|Our Journeys 238]] 郭倍宏傳記）。
+- **著作** — 除《台灣自救》（1986，[[works/taiwaneseamericanhistory-org/publication1320|TAH #1320]]）外，TAH 館藏另列其政論著作《台灣新思維》（1995-05，[[works/taiwaneseamericanhistory-org/publi168|TAH #168]]）與《民主火種》（1999-10，[[works/taiwaneseamericanhistory-org/68-e6-b0-91-e4-b8-bb-e7-81-ab-e7-a8-ae-e6-b4-aa-e5-93-b2-e5-8b-9d-1999-10-e6-94-|TAH #68]]）。
 - **美東台灣人夏令會講員** — 七十年代美東夏令會邀請洪哲勝與陳錦芳、李豐明等人作專題演講（memoir: [[works/taiwaneseamericanhistory-org/ourjourneys338|Our Journeys 338]] 張啟典口述）。
 
 - Corpus re-grep 2026-09-25 (slice 09240500-3): fresh ZH+EN grep — hit set identical to the memoirs already absorbed (Our Journeys 49/381/76-eng/8-eng, My Stories 740, My Stories 778, TAH #103 collection); verified-saturated, no new absorbable material.
 - Corpus re-grep 2026-09-24 (slice 09230500-14): fresh ZH+EN grep — hit set identical to the memoirs already absorbed (Our Journeys 49 with the 台灣公論報 masthead detail: 四記者、洪哲勝太太為打字員之一; Our Journeys 8-eng Chen Wen-Chen typesetting; My Stories 740/778; TAH #103 collection); verified-saturated, no new absorbable material.
 - Corpus re-grep 2026-09-23 (slice 09221000-4): fresh ZH+EN grep — hit set identical to the memoirs already absorbed above (Our Journeys 49/381/76-eng/8-eng, My Stories 740/778, TAH #103 collection); verified-saturated, no new absorbable material.
+- Corpus re-grep 2026-10-11 (slice 10100900-19): fresh ZH+EN grep (洪哲勝/洪哲胜/Cary Hung) across all 5 corpus dirs surfaced 6 previously-unlinked works pages now absorbed — Our Journeys 234 (WUFI 大會歷屆副主席名單：1971-07 Columbus 洪哲勝第二副主席、1977-08-26 Wheeling 再任)、Our Journeys 307 與 76 (《望春風》1969-08 Ft. Collins 六人共同創辦人)、Our Journeys 238 (郭倍宏傳記：1983-12 台灣學生冬令會講員、寄出聯盟入會表格)、TAH #168《台灣新思維》1995、TAH #68《民主火種》1999。Our Journeys 33 (張月英口述) 重述公論報社長細節，與既有 Our Journeys 49 記載一致，無新事實。無衝突需 HOLD。
 
 ## Sources
 - [TAH #1009 encyclopedia: 1009. Dr. Cary S. Hung 洪哲勝博士/2016/05](https://taiwaneseamericanhistory.org/whoswho1009/)
