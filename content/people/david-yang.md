@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # David Yang (楊熾勳)
 
@@ -109,3 +109,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090701-30: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-30 article 80c0a825a7a661b6 (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, TJJ 2021-05-17刊 / 2025-11-08 快照, twin b1d58af16c0a5e5b) read fresh this attempt: subject link re-checked vs 正文 — 「楊熾勳」列名共同發起人清單確認見於正文, real, no wrong/spurious links; 2021-05-13 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090901-3: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-3 article 9de57bf0 (Tag: 林榮松, 2023-05-30 存檔) read fresh this attempt: 「林榮松＋許正雄＋邱俊杰＋楊熾勳＋吳兆峯 談台灣加入世衛組織的歷程與展望」影音條目確認見於正文 tag 清單, 楊熾勳 subject link 為真, 無錯鏈、無虛鏈; 2021-05-06 日期事實（含該文 wikilink）已在 From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X slice 10100600-29: verified 2026-10-11 — fresh ZH+EN+surname grep (楊熾勳／David Yang／熾勳) across content/works articles sources events topics returned 14 corpus files, identical to the recorded hit set (whoswho1539, ourjourneys186/-eng 籌委會顧問名單, 338 鮭魚回歸 memoir, 10 返台任職羅東聖母醫院, 7 TJJ WHO/WHA articles, sources index); every hit already linked on this page — verified-saturated, no new material. -->
