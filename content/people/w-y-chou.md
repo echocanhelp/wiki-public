@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # W. Y. Chou (周婉窈)
 
@@ -88,3 +88,5 @@ last_reviewed: 2026-10-09
 <!-- DEEPEN-X10081000-21: 2026-10-09 — fresh ZH+EN grep across works/articles/sources/events/topics surfaced 2 previously-unlinked corpus records now absorbed into From the record: (1) 2021-12-16 「光—台灣文化的啟蒙與自覺」特展發言 (19b2ef3d454ad7b8, 正文含民國1101216電頭碼); (2) 文藝界連署力挺吳音寧 (abfd65e9be66877f, TJJ 快照 2024-01-04; 事件日期 HOLD — 快照日≠事件日, 未與任何現有日期合併). 2024-09 銅像言論另存快照 c831ee4fab6b3bc1 已掛鏈. No conflicts auto-merged. -->
 
 <!-- TJJ-A10090501-4: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-4 article 24119694dbb384c9 (刺蔣案50週年線上對談報導): subject link re-checked vs 正文 this attempt (台大歷史系教授對談、指王文宏屬刺蔣未遂確認見於正文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. Note: 王文宏 is a real co-panelist per 正文 but has no people page in corpus — correctly left unlinked, not a spurious-link issue. -->
+
+<!-- DEEPEN-X10100500-28: 2026-10-11 — fresh ZH+EN grep (周婉窈 / W. Y. Chou) across works/articles/sources/events/topics: 15 hits, hit set identical to prior saturation rounds (本人 #1198 檔、ourjourneys120、works/sources index、TJJ 存檔 2017/2019/2021/2022/2024/2025/2026 各筆). All records already absorbed + wikilinked in From the record; no new memoir narrative, no conflicts. Saturated. -->
