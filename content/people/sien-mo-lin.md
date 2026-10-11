@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Sien-Mo Lin (林顯模)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 <!-- Corpus re-grep 2026-09-26 (slice 09251527-20): fresh ZH+EN grep of works/+articles/ returns only the records already wikilinked/absorbed on this page; verified saturated; SKIP-content. -->
 <!-- Corpus re-grep 2026-10-08 (slice 10062248-3): fresh ZH+EN grep 林顯模/Sien-Mo Lin/SAM LIN across works/articles/sources/events/topics returns only artist5, 353 畫集, whoswho1103 + indexes — all already absorbed. Verified saturated; SKIP-content. -->
 <!-- Corpus re-grep 2026-10-09 (slice 10080700-28): fresh ZH+EN grep 林顯模/Sien-Mo Lin/SAM LIN/顯模 across works/articles/sources/events/topics returns only artist5, 353 畫集, whoswho1103 + works index + sources index — all already wikilinked/absorbed. Verified saturated; SKIP-content. -->
+<!-- Corpus re-grep 2026-10-10 (slice 10092054-9): fresh ZH+EN grep 林顯模/Sien-Mo Lin/SAM LIN/顯模/sien.mo across all 5 corpus dirs returns only artist5, 353 畫集, whoswho1103 + works/sources indexes — all already wikilinked. Context sweep (川端美專, 台塑) hits ourjourneys282/47 (王永慶/吳三連 context) and taiwanjustice articles — none reference Lin. Verified saturated; SKIP-content. -->
