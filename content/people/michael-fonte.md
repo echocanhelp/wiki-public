@@ -8,7 +8,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Michael Fonte (彭光理)
 
@@ -114,3 +114,5 @@ last_reviewed: 2026-10-09
 
 <!-- TJJ-A10090601-23: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-23 article 20231201224837_root_c1e603063718b409 (返台投入選舉傳聞引討論·蕭美琴臨時缺席僑界活動, taiwanjustice.net 轉載中央社記者華盛頓報導, 2023-11-11 刊 / 2023-12-01 快照) read fresh this attempt: subject link re-checked vs 正文 — 彭光理（Michael Fonte）以民進黨駐美代表處辦公室主任身份致詞「現在是美台最好的時刻，也是台灣最危險的時刻」、點名羅森柏格與AIT執行理事藍鶯Ingrid Larson、表信心賴清德將「凍蒜」確認見於正文, real, no wrong/spurious links; 2023-11-11 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10090701-18: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-18 article d2dbfe220e437602（2017年美東台灣人夏令會報導/楊遠薰, 2024-05-22 快照, 29faf54b8c9e2d10 同文副本）subject link re-checked vs 正文 this attempt; real mention (以民進黨華府代表處主任身分演講評川普), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10100600-14: verified 2026-10-11 — fresh grep 彭光理|Michael Fonte|Fonte across works/articles/sources/events/topics returned 14 files (1 false positive: 2a5bbda7e160cd44 = Kirsten Fontenrose, unrelated); every real hit (mystories432, ourjourneys123/-eng, whoswho962, works/index, 23197ebf, 29faf54b, c1e60306, 050ae06e, d2dbfe22, e68ffc76, e38ae3f7, sources/taiwaneseamericanhistory-org) already linked in Role in the Community / From the record — saturated, no new material. -->
