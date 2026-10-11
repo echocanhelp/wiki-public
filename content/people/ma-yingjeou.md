@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Ma Ying-jeou (馬英九)
 
@@ -30,6 +30,7 @@ last_reviewed: 2026-10-09
 
 ## From the record
 
+- 複核（TJJ-A10100315-21, 2026-10-10）：ZH+EN+surname grep（馬英九/Ma Ying-jeou/英九）遍掃 5 corpus 目錄——除已收錄 7 works＋ntso-moca-bio 外，新發現 taiwan-float-ny（TA 雜誌 2017-06-20）LGBTQ 紀錄 1 筆，已吸收掛鏈入 Role in the Community；餘皆已飽和。
 - 複核（TJJ-A10090401-30, 2026-10-10）：本 slice 文章 taiwanjustice-net/index（存檔索引頁）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09251300-2, 2026-09-26）：本 slice 文章 adc931e5b99bb0a9（van der Wees 評 2012 大選）正文再驗證——馬英九 2008 年黨產承諾未兌現及「恐懼票」論述確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2012-01-29 條目（已含該文 wikilink）已在庫 — SKIP，已飽和。
@@ -136,6 +137,7 @@ last_reviewed: 2026-10-09
 - 社運藝術紀錄：太陽花藝展作品中出現「頭長鹿角的馬英九」圖像，以「Illuminating Darkness」刻畫佔領期的黑暗 — [[works/taiwaneseamerican-org/art-for-advocacy-2|Art for Advocacy（TA 雜誌）]]。
 - 228 紀念文獻（TAHS 社群紀錄）：文中指出「KMT 總統李登輝與馬英九已代表政府正式道歉」（KMT presidents Lee Teng-hui and Ma Ying-jeou have already offered formal apologies on behalf of the government），於藍綠對照脈絡中記述其對轉型正義議題之定位 — [[works/taiwaneseamerican-org/remember-228|Remember 228（TA 雜誌）]]。
 - 國家典禮演出紀錄：鋼琴家 [[people/gwhyneth-chen|Gwhyneth Chen]] 之 NTSO/MOCA 藝術家檔案載其曾於李登輝（1997）、吳淑珍（2002）、馬英九（2008）等國典場合演出，並含 2008 北京奧運音樂會紀錄 — [[sources/ntso-moca-bio|NTSO MOCA 藝術家檔案]]。
+- LGBTQ 紀錄（2017-06-20）：紐約同志遊行台灣 FLOAT 車隊專題回顧台灣同志運動史，文中記馬英九（Ma Ying-Jeou）曾出席同志平權運動場合，且 1999 年任臺北市長時曾編列 100 萬美元預算支持同志平權 — [[works/taiwaneseamerican-org/taiwan-float-ny|Taiwan Float in NY Pride Parade（TA 雜誌）]]。
 
 ## Related Pages
 
