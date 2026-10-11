@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Che-Yang Huang (黃哲陽醫師)
 
@@ -59,6 +59,7 @@ Beyond the TAH corpus, his byline appears on taiwanjustice.net:
 
 - 2021-04-13 — his own pandemic memoir **疫情中爬禿頭山** (Climbing Baldy Mountain During the Pandemic), published on taiwanjustice.net in the *Covid-19 浩劫餘生錄* series — a first-person account of the lockdown year in Southern California: the Zoom-substituted community life, the four-person hike on the one-year anniversary of shelter-in-place up the Ice House Canyon trail, his two falls on the ice, and his closing reflection on the kindness of strangers on the trail ("仁者樂山" — the good-natured delight in mountains) ([[articles/taiwanjustice-net/2021/20210509170545_2021_04_13_疫情中爬禿頭山-_-黃哲陽_2406ab8b8672e151|TJJ, 2021-04-13]]; also tagged 黃哲陽 in the site archive [[articles/taiwanjustice-net/2021/20210621195348_tag_黃哲陽_050cd18387dcaa9b|tag archive]]).
 - 2018-07-20 — listed as a signatory 黃哲陽 (醫科) of the NTU alumni open letter protesting the Southern California NTU Alumni Association's invitation of 管中閔 to speak at its annual meeting — one of roughly two hundred alumni, including fellow TARSA co-founder 林天民 (哲學), who signed in defense of alumni harmony ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ, 2018-07-20]]).
+- 2018-02-08 — appeared as a physician panelist in the Q&A of the 台美人信仰與人文研習會 February session at 大洛杉磯台灣會館, alongside 葉思雅, 蔡米山, 蔡長宗 (Dr. Jeffrey Tsai), and 吳武雄 — the study-association sessions his TARSA-SC co-founding record describes, preserved in the archived taiwanjustice.net event listing ([[articles/taiwanjustice-net/2021/20210621195348_tag_黃哲陽_050cd18387dcaa9b|TJJ tag archive, listed 2018-02-13]]; cross-linked from [[people/dr-jeffrey-tsai]]).
 
 ## Sources
 - [TAH #1261 encyclopedia: 1261. Dr. Che-Yang Huang 黃哲陽醫師](https://taiwaneseamericanhistory.org/whos-who-1261-che-yang-huang/)
