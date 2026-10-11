@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Taiwanese American Center of Northern California (北加州台灣會館)
 
@@ -37,6 +37,7 @@ The center also appears as the subject of its own records: the 2014 feature [[wo
 - 2005 — publishes 年刊: [[works/taiwaneseamericanhistory-org/723-e5-8c-97-e5-8a-a0-e5-b7-9e-e5-8f-b0-e7-81-a3-e6-9c-83-e9-a4-a82005-e5-b9-b4-|723. 北加州台灣會館2005年刊]]
 - 2008-01 — [[works/taiwaneseamericanhistory-org/e5-8c-97-e5-8a-a0-e5-b7-9e-e5-8f-b0-e7-81-a3-e6-9c-83-e9-a4-a82007-e5-b9-b4-e5-8|380. 北加州台灣會館2007年刊]]
 - 2014-11-27 — [[works/taiwaneseamericanhistory-org/383-e5-8c-97-e5-8a-a0-e5-b7-9e-e5-8f-b0-e7-81-a3-e6-9c-83-e9-a4-a82010-e5-b9-b4-|383. 北加州台灣會館2010年刊]] archived by TAH
+- 2016-08-12~14 — hosted the 北加童玩節 (children's games festival) / visit-to-center event in Northern California, listed in the Taiwan Center newsletter calendar: [[articles/taiwanjustice-net/2023/20230601064453_2016_08_16_台灣會館會訊-taiwan-center-newsletter-6-2016-8-16_ef8673ed38ab2ce4|台灣會館會訊 2016-08-16]]
 - 2016-12-10 — 14th anniversary celebration held in Newark, CA: [[works/taiwaneseamericanhistory-org/important2016-38|38. 14th Anniversary of Taiwanese American Center of N. CA in Newark, CA]]
 - 2016 — set up the "TAC-DRF" donation account for Typhoon Nepartak disaster relief in Taitung: [[works/taiwaneseamericanhistory-org/tac-drf|60. TAC/N. CA TAC-DRF 捐款帳戶]]
 - 2021-01 — president Te-hui Chen 陳德輝 co-signed the "five Taiwan Centers" statement opposing the politicization of scientific issues in the 萊豬 controversy, alongside the NY, San Diego, LA, and DC centers: [[articles/taiwanjustice-net/2021/20210121172817_2021_01_12_美國五大台灣會館評萊豬_反對科學議題政治化_1251d9ed43ef6e32|五大台灣會館評萊豬聲明, 2021-01-12]]
@@ -53,3 +54,4 @@ The center also appears as the subject of its own records: the 2014 feature [[wo
 Corpus re-grep 2026-09-21 (slice 09201400-3): hit set = 2005/2007/2010 年刊 records, tac-drf, ourjourneys53-eng, video-181 — all already linked above; SKIP-with-reason: no new absorbable material beyond the 2026-09-20 pass. Fremont-vs-San Jose founding-place HOLD maintained.
 Corpus re-grep 2026-09-22 (slice 09211300-2): hit set = 年刊 723/380/383, tac-drf, ourjourneys53 (TC twin of the linked -eng), ourjourneys24-eng, video-181 — all already linked above. SKIP-with-reason: no new absorbable material; founding-place HOLD maintained.
 Corpus re-grep 2026-10-09 (slice 10081018-17): NEW absorbable material — the community chronicle ourjourneys38/-eng (2003 founding: $30,000 banquet fundraiser, 2003-02-16 prep committee under convener 張信行, events from 2003-05-01 onward, 40+ events/month), the center's own 2014 feature record, the 2015-01 photo album, the 2018 蕭泰然 memorial handbook (publications1244), twin 2010 年刊 record 725, plus two taiwanjustice articles: the 2021-01 five-centers 萊豬 statement (president 陳德輝 Te-hui Chen) and the 2022-02-06 台灣華語文學習中心 unveiling. Our-journeys 29/30/300/303/328/328 hits matched only via 台灣會館 mentions of other centers (LA/NY/DC), not this org. Founding-place HOLD maintained.
+Corpus re-grep 2026-10-11 (slice 10100700-24): NEW absorbable material — the 2016-08-16 Taiwan Center newsletter calendar lists the 2016-08-12~14 北加童玩節及拜訪北加州台灣會館 event (hosted in Northern California), now in Timeline. Remaining hits (年刊 723/380/383/724/725, ourjourneys24/38/53 ± twins, activities-of-tacnc, taiwan-school, photo-albums-activities-41, publications1244, video-181, tac-drf, passing-taiwanese-language [Taiwan School link only]) all already linked above. Founding-place HOLD maintained.
