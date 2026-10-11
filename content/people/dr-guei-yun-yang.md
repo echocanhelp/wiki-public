@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Guei-Yun Yang (楊貴運博士)
 
@@ -51,6 +51,7 @@ The umbrella bodies he founded or led appear in the TAH corpus at [[works/taiwan
 - **2026-09-15 (DEEPEN-X09142319-21):** re-sweep SKIP — grep（楊貴運／Guei-Yun Yang）命中六頁（#874、#233、#147、Our Journey 244／309／110-eng）均已在上方 Role in the Community／Vault records 完整吸收；ourjourneys244 全文段僅為敘事者（周實）交棒细节，與本人無關，無新事實。
 - **2026-09-15 (slice 09150316-12):** re-grep 新增命中 ff373（TAH #373 夫妻家族故事），已吸收至上方 Family；其餘命中頁（#25、#147、#874、OJ 244／309／110-eng）均已吸收。
 - **2026-10-10 (DEEPEN-X10090315-23):** 擴充 grep（貴運／Guei-Yun）新命中 taiwanjustice-net 2021-05-30 客家貢獻獎報導——終身貢獻獎＋國策顧問任內爭取客家名額／客語官方語言化，已吸收至 Role in the Community； TAH 命中（#25/#147/#233/#333/#874、OJ 110/236/244/309、ff333/ff373）均為既有事實重複，無新內容。
+- **2026-10-11 (DEEPEN-X10101204-29):** re-sweep SKIP — grep（楊貴運／Guei-Yun／Guei Yun／貴運）命中 14 檔；新增核對 ourjourneys110（中文版）與 110-eng 敘事相同（1988-09 洛杉磯十餘位客家菁英推選創會長＋聯誼/節慶/山歌/採茶舞/客家菜班活動），ff333 與 ourjourneys236 僅重複 1967 松山機場移民影像（已藉 OJ 309 吸收），#25/#147/#874 書目存根無新事實，無新內容可吸收。
 
 ## Sources
 - [TAH #25 encyclopedia: 25. Dr. Guei-Yun Yang (楊貴運博士)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-25/)
