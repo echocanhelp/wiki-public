@@ -129,3 +129,5 @@ Role anchors already on this page's TAH table map to vault pages: [[organization
 
 <!-- TJJ-A10090901-3: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-3 article 9de57bf0 (Tag: 林榮松, 2023-05-30 存檔) read fresh this attempt: 正文 11 條林榮松 tag 條目確認見於清單, subject link 為真, 無錯鏈、無虛鏈; 2017-02-25 日期事實（含該文 wikilink）已在 From the record — saturated, no new material. -->
 <!-- TJJ-A10100701-4: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-4 article c05e2d53013fcd15（2020-06-23 大洛杉磯台灣會館疫情濟困報導）: subject link re-checked vs 正文 this attempt, real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10100801-18: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-18 article 9de57bf0 (Tag: 林榮松, 2023-05-30 存檔) read fresh this attempt: 正文 tag 清單 11 條林榮松條目（2015-03-30 瓜地馬拉義診攝影 ～ 2022-05-19 台灣人教會槍擊記者會談話）確認見於正文, subject link 為真, 無錯鏈、無虛鏈; 2017-02-25 日期事實（含該文 wikilink）已在 From the record — saturated, no new material. -->
