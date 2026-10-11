@@ -79,6 +79,8 @@ last_reviewed: 2026-10-10
 
 <!-- TJJ-A10090901-21: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-21 article fc48810253f4912f（第14回世界台灣文化論壇「布袋戲kap歌仔戲文學ê人生智慧」線頂聚會）: 主講者 劉曉亭牧師 subject link re-checked vs 正文 this attempt (好消息電視台「劉三講古」主講者、San Diego 台灣教會主任牧師、主題演講「外省人講台語：布袋戲ê文學智慧」), real, no wrong/spurious links (郭月霞長老娘 正文提及但無頁面, 維持純文字不造鏈); dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
 
+<!-- TJJ-A10100901-17: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-17 article 08cd200c3a58e6b7（第14回世界台灣文化論壇「布袋戲kap歌仔戲文學ê人生智慧」線頂聚會, 發文 2021-12-31）: 主講者 劉曉亭牧師 subject link re-checked vs 正文 this attempt (好消息電視台「劉三講古」主講者、San Diego 台灣教會主任牧師、主題演講「外省人講台語：布袋戲ê文學智慧」), real, no wrong/spurious links (郭月霞長老娘 正文提及但無頁面, 維持純文字不造鏈); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 ## 照片
 
 ![20210821125040_wp-content_uploads_2021_08_後疫情的危機與轉機影音-_-劉曉亭-](../images/people--s-t-liu.png)
