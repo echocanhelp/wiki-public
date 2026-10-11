@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Steve Wei (魏十洲)
 
@@ -62,3 +62,4 @@ Accomplishment
 <!-- deepen-x slice 10051340-13 (2026-10-06): saturated re-verify — fresh grep (魏十洲 / 魏什洲 / Steve Wei) over works/articles/sources/events/topics returns the identical hit set (records 59, 60, whos-who-2050, sources page, works index), all already absorbed/wikilinked above. SKIP-content; 魏什洲/魏十洲 variant HOLD stands. -->
 <!-- deepen-x slice 10070018-3 (2026-10-08): saturated re-verify — fresh grep (魏十洲 / 魏什洲 / Steve Wei) over works/articles/sources/events/topics returns the identical hit set (records 59, 60, whos-who-2050, sources page, works index), all already absorbed/wikilinked above. SKIP-content; 魏什洲/魏十洲 variant HOLD stands. -->
 <!-- deepen-x slice 10080700-12 (2026-10-09): saturated re-verify — fresh grep (魏十洲 / 魏什洲 / Steve Wei / 魏立仁) over works/articles/sources/events/topics returns the identical 5-file hit set (records 59, 60, whos-who-2050, sources page, works index); surname sweep adds nothing. All already absorbed/wikilinked above. SKIP-content; 魏什洲/魏十洲 variant HOLD stands. -->
+<!-- deepen-x slice 10091531-21 (2026-10-10): saturated re-verify — fresh grep (魏十洲 / 魏什洲 / Steve Wei / 魏立仁) over works/articles/sources/events/topics returns the identical 5-file hit set (records 59, 60, whos-who-2050, sources page, works index), all already absorbed/wikilinked above. SKIP-content; 魏什洲/魏十洲 variant HOLD stands. -->
