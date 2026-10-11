@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Nai-Yuan Hu (胡乃元)
 
@@ -71,3 +71,5 @@ Trained at Indiana Univ., Nai-Yuan Hu turned his 1985 Queen Elisabeth First Priz
 - [[works/taiwaneseamericanhistory-org/whos-who-136-nai-yuan-hu||TAH Who's Who #136: Nai-Yuan Hu 胡乃元]]
 
 Deepen pass 2026-09-14: re-checked against the cited TAH #95 / #88 / #136 records linked above; all in-vault facts are already reflected on the page (no web used). No standalone vault org pages exist yet for Taiwan Connection, TC Chamber Orchestra, Indiana Univ., or the Queen Elisabeth Competition, so no further existing-slug links were available.
+
+Deepen pass 2026-10-11 (slice 10100700-21): fresh ZH+EN grep (胡乃元 / Nai-Yuan Hu) across all 5 corpus dirs returned 6 files — mystories478, whos-who-136, ourjourneys38, 95-nai-yuan-hu, ourjourneys287, publications1055 — every fact in them (3B/BBB youth-orchestra training, 1992-01-26 TUF Nichibgeki recital, 1992-02-08 Stanford 北加州同鄉會 performance, Queen Elisabeth win) already absorbed and wikilinked above. No new material, no conflicts.
