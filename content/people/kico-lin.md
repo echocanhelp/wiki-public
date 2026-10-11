@@ -72,3 +72,4 @@ last_reviewed: 2026-10-10
 <!-- TJJ-A10090501-5: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-5 article 43b81b6b 世台基金會公益晚宴報導（世台副董事長與會名單確認見於正文）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - Corpus re-grep 2026-10-10 (slice 10091400-5): hits（林貴香／Kico／Kicolin）仍僅 [[works/taiwaneseamericanhistory-org/whos-who-1729-kico-lin|TAH #1729]]、works index、sources 頁與已吸收的兩篇 TJJ 文章；2026 年多篇 TJJ 文章之「貴香」命中經核對皆為中央社記者溫貴香（不同人，已排除）——hit set identical，驗證已飽和 — SKIP-with-reason。
+- Corpus re-grep 2026-10-11 (slice 10100601-18): hits（林貴香／Kico）仍僅 [[works/taiwaneseamericanhistory-org/whos-who-1729-kico-lin|TAH #1729]]、works index 與已吸收的兩篇 TJJ 文章；hit set identical — 驗證已飽和 — SKIP-with-reason。
