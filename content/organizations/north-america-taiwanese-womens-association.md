@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # North America Taiwanese Women’s Association (北美洲臺灣婦女會)
 
@@ -39,6 +39,10 @@ NATWA's chapter-and-project record is held in the Echopedia work corpus:
 - Calendar holding: the corpus catalogue preserves the annual 北美洲台灣婦女會月曆 run for 1993–2018 (dozens of bound issues), corroborating the directory's "annual calendar since 1991" claim — [[works/taiwaneseamericanhistory-org/publications555|555. 北美洲台灣婦女會月曆, 1993–2018]].
 - Movement context: a community historian's survey places NATWA's 1988 founding in the wave of Taiwanese-American "ethnic politicization" after the 1979 高雄事件, alongside NATPA (1980), FAPA (1982) and the 全美臺灣客家會 (1988) — [[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys 357 臺美人認同的形成]].
 - Joint action with other groups: after Hurricane Harvey (2017) NATWA joined the TAH Foundation, 洛杉磯台灣會館, 聖地牙哥台灣會館 and 休士頓台聲合唱團 in donating ~$87,459 total to the Houston city Hurricane Harvey Relief Fund, NATWA's share $21,090 — [[works/taiwaneseamericanhistory-org/ourjourneys328|Our Journeys 328]]. NATWA was also one of the twelve groups (TAA, TACL, FAPA, TCCCNA, 人權會, NATMA, NATPA, 旅館公會, 客家會, 文藝協會, 學生會) that jointly canvassed ~12,000 Taiwanese households for the US census campaign in 1989-90 — [[works/taiwaneseamericanhistory-org/ourjourneys253|Our Journeys 253]].
+- Annual convention record (corpus holdings): handbook of the 2015 convention — [[works/taiwaneseamericanhistory-org/photo-albums-activities-66|NATWA 年會手冊, 2015-04]] — and of the 30th convention — [[works/taiwaneseamericanhistory-org/publications1216|第30屆年會手冊, 2018-04]]; convention memorabilia: [[works/taiwaneseamericanhistory-org/artifacts56|silk scarf, gift of the 29th Annual Convention, 2017]]; a Seattle-convention memoir visit — [[works/taiwaneseamericanhistory-org/ourjourneys226|Our Journeys 226]].
+- Chapter programming beyond service projects: 北美洲台灣婦女會紐約分會 member art show in Flushing, NY, 05/2018 — [[works/taiwaneseamericanhistory-org/art-show-28|art show 28]]; a 讀書研討會 co-hosted by the NJ chapter with the 紐約區台灣人筆會, 2018 — [[works/taiwaneseamericanhistory-org/study-group-nj|study group NJ]]; Kansas-chapter scholarship and meal-delivery project records — [[works/taiwaneseamericanhistory-org/3-taiwanese-american-community-scholarship-awards-kansas|Taiwanese American Community Scholarship Awards / NATWA-KS, 2015]], [[works/taiwaneseamericanhistory-org/2-meal-delivery-project-by-natwakansas|Meal delivery Project by NATWA/Kansas, 2015]]; NATWA community-service T-shirt — [[works/taiwaneseamericanhistory-org/14-e7-a4-be-e5-8d-80-e6-9c-8d-e5-8b-99-t-shirt-by-natwa|社區服務 T-Shirt by NATWA, 2015]].
+- Calendar contributors: the annual NATWA 月曆 carried named essays — 林郁子, 2015-08 ([[works/taiwaneseamericanhistory-org/ourjourneys160|Our Journeys 160]]) and 楊碧珠's 「最後的國民外交」 thanking Congressman Michael McCaul, 06/2020 ([[works/taiwaneseamericanhistory-org/ourjourneys355|Our Journeys 355]]) — showing the calendar's role as a public-diplomacy and civic-education outlet.
+- Leadership note: 張月英 (輔仁大學哲學系, Detroit) served as 北美洲台灣婦女會 secretary from 2002, handling annual-convention and registration work, after leading the 底特律婦女會 (1999) — [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys 33 一家人做伙來打拼 (張炎憲, 2014-09)]]. The corpus also preserves NATWA's 「點心擔」 identity via its logo in 聯誼通訊第四十六期 (2012-01) — [[works/taiwaneseamericanhistory-org/ourjourneys154|Our Journeys 154]] — and the 「台灣女力行」 feature — [[works/taiwaneseamericanhistory-org/social-tw-natwa|73. NATWA 台灣女力行, 2017]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
