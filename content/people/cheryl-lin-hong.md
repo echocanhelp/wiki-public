@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Cheryl Lin Hong (林千千)
 
@@ -72,3 +72,6 @@ Ms. Cheryl Lin Hong started her piano lesson at 5, and was fascinated by music s
 - **丈夫 洪正幸 補link**：原頁僅列名，現link至 [[people/prof-felix-t-hong||洪正幸教授]] 並補兩筆語料：陳文成追悼會籌備群（協助起草廣告文章、貼海報、購花圈、連絡，[[works/taiwaneseamericanhistory-org/ourjourneys123|TAH #123]]）；萬國節文化展覽「教育」專題演講（Wayne State University，[[works/taiwaneseamericanhistory-org/ourjourneys321|TAH #321]]）。兩筆均為台灣人運動紀錄，非生平補述。
 - **台語羅馬拼音佐證**：英文版 [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|TAH #33]] 記《流浪海外台灣人的心聲》譯者作 "Lin, Chhian-chihian (林千千)"，與鄭兒玉（Jyi-giokk）並列——本頁筆名紅番薯條目之拼音與歸屬獲得雙語互證。
 - 本輪 ZH+EN grep 全五語料目錄之其餘命中（#392/#268/#161/#33-eng、TAH #261/#554、Akron 音樂會紀錄）均已於先前各輪吸收，無新事實可併入，無衝突需 HOLD。未用網頁、未建新頁、未發佈。
+
+## Vault re-check 2026-10-11 (deepen-x slice 10100849-27, vault-only)
+- 本輪 ZH+EN grep（林千千／Cheryl Lin Hong／紅番薯）全五語料目錄命中 6 檔（#392、#268、#161、#33-eng、TAH #261、#554）——與前輪相同之飽和命中集；紅番薯筆名改编曲（#392）、第一屆美東夏令會聯絡員與合唱團合影（#268）、婦女信箱 1994–1995 主筆（#161）皆已於先前各輪吸收，無新事實可併入，無衝突需 HOLD。未用網頁、未建新頁、未發佈。
