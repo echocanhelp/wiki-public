@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Austin Taiwanese Association (奧斯丁)
 
@@ -28,7 +28,7 @@ The Austin Taiwanese Association (ATA) is a regional chapter of the Taiwanese As
 - Founding memoir: Mu-Sheng Wu's "45. Austin台灣同鄕會之成立" records the chapter's birth from UT Austin Taiwanese graduate students who gathered against KMT campus surveillance; the corpus calls UT Austin's association (c. 1970, when Austin had under 200,000 people) one of the two most typical campus associations of that wave alongside Ohio State: [[works/taiwaneseamericanhistory-org/ourjourneys45-eng|45. Founding of Taiwanese Association of Austin / Mu-Sheng Wu]].
 - Second-generation record: Pearl Wu 楊碧珠's memoir of 1980s–90s second-generation Taiwanese Americans in Austin documents community upbringing around the chapter: [[works/taiwaneseamericanhistory-org/ourjourneys243|243. Second Generation Taiwanese Americans in Austin / Pearl Wu]].
 - Adjacent organizing (distinct body, not merged): Pearl Wu — later FAPA Texas-Central chapter president — records FAPA TX-C's 2018-10-28 reactivation meeting in Austin (18 members reinstated, Wu elected president) and the push for Congressman John Carter to co-sponsor HCR 124: [[works/taiwaneseamericanhistory-org/our-journeys-370|370. FAPA TX-C中德州分會記事 / Pearl Wu]].
-- Further documented Austin Taiwanese civic bodies (separate corpus records, not merged with the chapter): [[works/taiwaneseamericanhistory-org/natea-austin-chapter|Austin Chapter / NATEA 北美台灣工程師協會奧斯汀分會]], [[works/taiwaneseamericanhistory-org/8-austin-tx-taiwanese-school|Austin Taiwanese School (Texas) 德州奧斯汀台語學校]], [[works/taiwaneseamericanhistory-org/austin-taiwanese-presbyterian-church|Austin Taiwanese Presbyterian Church 奧斯汀台灣基督長老教會]], [[works/taiwaneseamericanhistory-org/austin-hakka-association|Austin Hakka Association 德州奧斯汀客家會]].
+- Further documented Austin Taiwanese civic bodies (separate corpus records, not merged with the chapter): [[works/taiwaneseamericanhistory-org/natea-austin-chapter|Austin Chapter / NATEA 北美台灣工程師協會奧斯汀分會]], [[works/taiwaneseamericanhistory-org/8-austin-tx-taiwanese-school|Austin Taiwanese School (Texas) 德州奧斯汀台語學校]], [[works/taiwaneseamericanhistory-org/austin-taiwanese-presbyterian-church|Austin Taiwanese Presbyterian Church 奧斯汀台灣基督長老教會]], [[works/taiwaneseamericanhistory-org/austin-hakka-association|Austin Hakka Association 德州奧斯汀客家會]], and the Austin women's association fielding "Team Taiwan" at the Race for Cure (2016): [[works/taiwaneseamericanhistory-org/race-for-cure-austin-tx|德州奧斯汀婦女會組 Team Taiwan 參加 Race for Cure]].
 
 ## Timeline
 - The chapter's own community history (in [[works/taiwaneseamericanhistory-org/ourjourney-343|Our Journey — Austin Taiwanese Association]]) describes the chapter growing out of two graduate-student groups at UT Austin — a "Chinese National" group attending the UT Chinese Students Association, and Taiwanese students who formed their own community — the movement-record origin of the chapter.
@@ -36,6 +36,8 @@ The Austin Taiwanese Association (ATA) is a regional chapter of the Taiwanese As
 - 1991–1993 — Peter Wu 吳宗憲 (b. 1947 台南; UT Austin Ph.D. in pharmaceutical science, arrived Austin 1974) served as chapter president, per the chapter's Our Journey history ([[works/taiwaneseamericanhistory-org/ourjourney-343|Our Journey]]).
 - 2013-02-02 — chapter's Lunar New Year celebration recorded in the community press: [[works/taiwaneseamerican-org/austin-taiwanese-association-2013-lunar-new-year-celebration|Austin Taiwanese Association 2013 Lunar New Year Celebration]].
 - 1984– — Austin listed among the美南 cities (休士頓、達拉斯、奧斯汀、大學城…) whose同鄉會 network coordinated the rotating美南台灣人夏令會 from its 1984 Sam Houston State University launch: [[works/taiwaneseamericanhistory-org/ourjourneys318|318. 漫談美南台灣人夏令會的濫觴 / 莊承業]].
+- 1987–1992 — after TAA Houston president Cheng-Kuang Kuo 郭正光 united the Southwest regional chapters (Dallas, Austin, College Station, San Antonio, Denver, Oklahoma City, New Orleans, Baton Rouge) into the broadsheet 聯合鄉訊, Austin was part of that coordinated regional-newsletter network: [[works/taiwaneseamericanhistory-org/ourjourneys307|307. 休士頓地區的台美人及團體發行的刊物簡介 / 莊承業]].
+- 2019-08-30 — Austin-area Taiwanese Americans (FAPA members, ~20) participated in the Texas Asian Republican Assembly dinner in Austin with "Taiwan's friend" Congressman Michael McCaul, with a FAPA address and NATWA-calendar petition presentation as community diplomacy, recorded by Pearl Wu 楊碧珠: [[works/taiwaneseamericanhistory-org/ourjourneys355|355. NATWA月曆 最後的國民外交 / 楊碧珠]].
 - 2002–2005 — the chapter participated in the Austin International Festival at Waterloo Park, documented as the chapter's community presence in public festivals: [[works/taiwaneseamericanhistory-org/projects13-32|32. Austin International Festival at Waterloo Park / 德州奧斯汀同鄉會 2002-2005]].
 - 2017 — photo-activity display panels documenting chapter activities 1970–2004 entered the corpus: [[works/taiwaneseamericanhistory-org/artifacts34|34. Display Panel for the Photo Activities of Austin Taiwanese Association]] and [[works/taiwaneseamericanhistory-org/photo-albums-activities-122|122. Display Panel for Photo Activities of Austin Taiwanese Association 1970~2004]].
 
