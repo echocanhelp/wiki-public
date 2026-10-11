@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Jason Huang (黃仁宗)
 
@@ -51,3 +51,5 @@ _No filled family fields on the TAH profile._
 Re-verified 2026-10-08 (deepen-x slice 10062218-2): fresh ZH+EN grep of 黃仁宗/Jason Huang across works/articles/sources/events/topics returns the identical hit set — founding roster + 民進黨海外黨部 camp passage in [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生]], 1991 camp memoir [[works/taiwaneseamericanhistory-org/our-journeys-379|379. 十年東南夏令憶感]], own record [[works/taiwaneseamericanhistory-org/whoswho1682|#1682]], plus index/source listings. All corpus material already absorbed above — verified saturated, nothing new.
 
 Re-verified 2026-10-09 (deepen-x slice 10080500-29): fresh grep (黃仁宗 / Jason Huang / 仁宗) across all corpus dirs returns the same saturated set. One corroborating cross-reference noted: his then-colleague [[people/carole-huang|黃陳春華 (Carol Huang)]]'s page independently confirms he appears in the 1988 TAA Greater Washington founding roster as 黃仁宗 alongside "Carol Huang 陳春華" in [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生]] — consistent with the roster passage already absorbed above. No new absorbable material; verified saturated.
+
+Re-verified 2026-10-11 (deepen-x slice 10101322-29): fresh ZH+EN grep (黃仁宗 / Jason Huang / 仁宗) across works/articles/sources/events/topics returns the identical saturated hit set — founding roster in [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生]], 民進黨海外黨部 camp passage in [[works/taiwaneseamericanhistory-org/our-journeys-379|379. 十年東南夏令憶感]], own record [[works/taiwaneseamericanhistory-org/whoswho1682|#1682]], plus index/source listings. All corpus material already absorbed above; nothing new to merge.
