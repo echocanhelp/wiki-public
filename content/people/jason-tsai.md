@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Jason Tsai (蔡智行)
 
@@ -54,3 +54,4 @@ last_reviewed: 2026-10-09
 <!-- deepen-x slice 10051200-28 (2026-10-06): verified-saturated — fresh ZH+EN grep returns the identical hit set (whoswho1608, the LID-camp and JTASA works, sources hub, works index); excerpt re-read of both works confirms the co-director + handbook facts already recorded in Role in the Community; nothing new absorbable. -->
 <!-- deepen-x slice 10062248-5 (2026-10-08): verified-saturated — fresh ZH+EN grep across works/+articles/+sources/+events/+topics returns the identical hit set (whoswho1608, the LID-camp and JTASA works, sources hub, works index); nothing new absorbable. -->
 <!-- deepen-x slice 10080720-11 (2026-10-09): verified-saturated — fresh ZH+EN+surname grep across all 5 corpus dirs returns the identical hit set (whoswho1608, LID-camp + JTASA works, sources hub, works index); excerpt re-read of both works confirms co-director + handbook facts already recorded; mentioned peers (Monica Chen, John Wang, Brian Tseng, Erica Ling et al.) have no existing pages, so no new wikilinks permitted; nothing new absorbable. -->
+<!-- deepen-x slice 10092054-23 (2026-10-10): verified-saturated — fresh ZH+EN grep (蔡智行 / Jason Tsai) across works/articles/sources/events/topics returns the identical hit set (whoswho1608, LID-camp + JTASA works, sources hub, works index); surname-only grep hits are other Tsai individuals (Tron Rong Tsai, J.Y. Tsai, Ho Chie Tsai, Susan Shu Ai Tsai), not this person; nothing new absorbable. -->
