@@ -469,3 +469,5 @@ _No filled family fields on the TAH profile._
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20200618105032）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
 
 <!-- TJJ-A10100401-5: verified 2026-10-10 — wave-2 link+deepen re-check of article 8fc11ca0c5dbaebe (韓國瑜提預算協商盼柯建銘不要那麼硬·總統緩頰, 2025-01-16): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10100401-13: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-13 article 20250216000009_root_3be67f6e82d34da7 (台美人台加人分類存檔頁2, 2025-02-16快照) read fresh this attempt: subject link re-checked vs 正文 — 「美大選膠著 蕭美琴：無論誰勝選台美關係續深化」(2020-11-05)、「蕭美琴紐約大都會台灣日開球」條目逐字確認見於收錄清單, real, no wrong/spurious links; 2020-11-05 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
