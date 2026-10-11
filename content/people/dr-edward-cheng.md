@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Edward Cheng (鄭德昌博士)
 
@@ -69,3 +69,6 @@ Accomplishment
 ## Deepen-x re-check (slice 10081500-29, 2026-10-10)
 - 語料再檢（漢名「鄭德昌」＋英文名「Edward Cheng」＋「德昌」）遍掃 works/articles/sources/events/topics：本人相關命中（#26、#26-eng、#110、#180、#299、#300、#347、#515、相簿 #94）全數已吸收，無新增事實。
 - 排除之偽命中：ourjourneys75／186／272 與 #718 所載為 **鄭德和**（[[people/tah-p-d699884bcd]]，FAK/TACL 創會同儕，另一人）；our-journeys-353 之「楊德昌」為導演楊德昌（Edward Yang）。本頁維持 verified-saturated。
+## Deepen-x re-check (slice 10101200-25, 2026-10-11)
+- 語料再檢（漢名「鄭德昌」＋英文名「Edward Cheng」＋「德昌」）遍掃 works/articles/sources/events/topics：本人相關命中（#26、#26-eng、#110、#180、#299、#300、#347、#515、相簿 #94）全數已吸收於上列各欄，無新增事實。
+- 本輪新命中皆為索 listings（works/index、sources 頁）或他人偽命中（林德昌、楊德昌），維持 verified-saturated。
