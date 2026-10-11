@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-11
 ---
 # Jim Young (楊正義)
 
@@ -75,3 +75,5 @@ For more bio information, please click link in Who’s Who: 971. Cheng-I (Jim) Y
 <!-- TJJ-A10090701-29: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-29 article 2777c88877eee2c5 (Tag: 長青教室 p3, 2024-06-20 快照) read fresh this attempt: subject link re-checked vs 正文 — 「楊正義博士講『攝影的藝術』(2 videos)◎長青教室」條目具名確認見於正文, real, no wrong/spurious links; 2017-05-08 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100801-6: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-6 article 2777c88877eee2c5 (Tag: 長青教室 p3, TJJ 2017-05-25 刊 / 2024-06-20 快照) read fresh this attempt: subject link re-checked vs 正文 — 「楊正義博士講『攝影的藝術』(2 videos)◎長青教室」條目具名確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- deepen-x slice 10100849-20: verified 2026-10-11 — fresh ZH+EN grep 楊正義／Jim Young／Cheng-I across all 5 corpus dirs: hit set unchanged (ourjourneys76/-eng, our-journeys-378, whoswho971, atists62, TJJ a428dceb, TJJ 2777c888, sources index) — all already absorbed, 378 1997 entry retains its HOLD. Broad surname-only sweep (Young) matched only unrelated persons (Prof. Young Chang Chen 陳榮昌獎學金 #79, Ernest/E Alexander Young 楊納娜/納偕 #8/#409), correctly not this 楊正義. Saturated, no new material. -->
