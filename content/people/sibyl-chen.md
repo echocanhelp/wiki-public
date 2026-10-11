@@ -7,8 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
-resweep: deepen-x-10090315-27
+last_reviewed: 2026-10-11
+resweep: deepen-x-10101205-4
 ---
 # Sibyl Chen (陳世樸)
 
@@ -68,3 +68,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (slice 10090315-27)
 - 2026-10-10: re-grep 陳世樸 / Sibyl Chen / 世樸 / sibyl across all 5 corpus dirs — hit set unchanged (ourjourneys157 王淑芬 announcement, publications144, whos1450, ff312, works/index catalog rows, sources/taiwaneseamericanhistory-org), all already absorbed and wikilinked above. **SKIP-with-reason**; no new community/corpus facts, no conflicts to HOLD.
+
+## Corpus re-grep (slice 10101205-4)
+- 2026-10-11: re-grep 陳世樸 / Sibyl Chen / 世樸 / sibyl across all 5 corpus dirs — hit set unchanged (ourjourneys157 王淑芬 announcement, publications144, whos1450, ff312, works/index catalog rows, sources/taiwaneseamericanhistory-org), all already absorbed and wikilinked above. **SKIP-with-reason** (verified-saturated); no new corpus facts, no conflicts to HOLD.
