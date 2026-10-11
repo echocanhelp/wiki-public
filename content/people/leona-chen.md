@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Leona Chen (陳文羿)
 
@@ -59,6 +59,12 @@ last_reviewed: 2026-10-09
 - 擔任 TA.org 編輯：為 James Y. Shih 的回憶散文《Memories of my Yaba Great Aunt》潤稿（[[works/taiwaneseamerican-org/memories-of-my-yaba-great-aunt|Memories of my Yaba Great Aunt]]）；編註陳文成事件相關文獻 Dr. Chung-Chih Li《Green Island Secrets》（[[works/taiwaneseamerican-org/green-island-secrets|Green Island Secrets]]）；並與 Jeff Yang、Michelle Young 對談（[[works/taiwaneseamerican-org/michelle-young-the-art-spy|Michelle Young ("The Art Spy") in conversation]]）。
 
 - Corpus re-grep 2026-09-24 (slice 09230500-12): fresh ZH+EN grep — hit set matches the records already linked above, plus in-honor-of-taiwanese-ancestry-and-identity (Ketagalan descent, 2015), now absorbed; no other new material.
+- 2022-05 Laguna Woods 台裔長老教會槍擊案後，以 TaiwaneseAmerican.org 總編輯身分接受 Rik Glauert 訪問（NBC Asian America 引述）：分析案件源於台灣人／中國人認同與台中關係緊張的碰撞，但提醒「不要讓此事被用來助長反華情緒或對亞裔的獵巫」，亦勿因此淡化其他槍枝暴力（[[works/taiwaneseamerican-org/laguna-woods-taiwanese-church-shooting|We grieve the May 15th Shooting at Irvine TPC, 2022-05-16]]）。
+- 2024-02 228 事件 77 週年，以「北加州台灣同鄉聯合會副會長」身分擔任佛利蒙特（Fremont）公共圖書館 228 紀念書展主要策展人：一手撰寫 228 事件簡介、挑選展出書籍（含楊小娜《綠島》、蔡德本《蕃薯仔哀歌》等曾列禁書者），並製作短影音讓台裔第二、三代認識祖輩傷痕；這是 228 追思儀式首度進入美國主流社區圖書館，亦對美國圖書館禁書令風潮作出反思（[[articles/taiwanjustice-net/2024/20240412192937_root_085c20988e34c00a|中央社報導, 2024-02-25]]；另見 [[articles/taiwanjustice-net/2025/20250317190039_加州台美人紀念228-首赴圖書館策展反思禁書令_ba3fb59f555c1fbc|TJJ 轉載]]）。HOLD: 檔案檔名標 2025-03-17 存檔，惟內文明確為「77 週年」＝2024-02，以內文與 post_date 為準，未擅自併入 2025 事件。
+- 2019 任內擔任 TA.org 多篇專題之文字編輯：Tiffany Diane Tso 論台裔社群反黑人性（Addressing Anti-Blackness, 2019-03-09）、Joyce Chen 228 觀察《All Quiet》（2018-02-28）等，均署名「edited by Leona Chen」（[[works/taiwaneseamerican-org/addressing-anti-blackness-within-the-taiwanese-american-community|Addressing Anti-Blackness Within the TA Community, 2019-03-09]]；[[works/taiwaneseamerican-org/all-quiet-228-in-taiwan|All Quiet: An American in Taiwan's Perspective on 228, 2018-02-28]]）。
+- 2016-02-28 於 TA.org「228 and the Power of Storytelling」專題刊出 2015-12 手繪圖作，引「為那光榮超越自身的每一場抗爭而記得的我們」（[[works/taiwaneseamerican-org/228-storytelling|228 and the Power of Storytelling, 2016-02-28]]）——顯示其敘事實踐亦含視覺創作。
+- 2025-10-06 以總編輯身分主持與 Li、Kimberly 的台灣食物與小農跨國行動對談（Taiwan Food and Farm Delegation），談土地記憶、親緣與抵抗（[[works/taiwaneseamerican-org/taiwan-food-and-farm|Shared Meals, Fieldwork, Storytelling, 2025-10-06]]）。
+- 其專文〈What Taiwanese Americans Can Learn from Taiwanese Politics〉被列為 2019 年「From Wild Lilies to Sunflowers」民主專題的延伸閱讀，顯示其論述亦作為台裔學生認識台灣政治的教材（[[works/taiwaneseamerican-org/from-wild-lilies-to-sunflowers-discovering-taiwans-democracy|From Wild Lilies to Sunflowers: Discovering Taiwan's Democracy, 2019-03-18]]）。
 
 ## Sources
 - [TAH #2075 encyclopedia: 2075. Leona Chen 陳文羿 / 03/2018](https://taiwaneseamericanhistory.org/whos-leona-chen/)
