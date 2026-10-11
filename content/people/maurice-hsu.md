@@ -99,3 +99,5 @@ last_reviewed: 2026-10-10
 <!-- TJJ-A10090801-19: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-19 article c6f9dbff48b39366（台美人台加人 popular 分類頁, 2024-02-21快照）read fresh this attempt: subject link 許盛男 re-checked vs 正文 —「長青教室心得報告—許盛男醫師講『台灣話的源流』 11/16/2016」條目具名確認見於正文, real, no wrong/spurious links; 2016-11-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- deepen-x slice 10100400-24, 2026-10-10: fresh grep 許盛男|Maurice Hsu|盛男 across works/articles/sources/events/topics = 16 hits, hit set identical to already-absorbed links (TAH 檔案 174/175/176/308, OJ#09/#09ENG/#356/#356ENG, TJJ tag/categor snapshot pages, sources/index) — saturated, no new material; FAPA 創會 1981 vs 1982 冲突仍 HOLD. -->
+
+<!-- TJJ-A10100401-26: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-26 article c691e327b9133c1a (心得報告標籤頁, 發文 2018-04-06／快照 2024-07-19) read fresh this attempt: subject link 許盛男 re-checked vs 正文, 「長青教室心得報告—許盛男醫師講『台灣話的源流』 11/16/2016」條目確認見於正文, real, no wrong/spurious links; 2016-11-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
