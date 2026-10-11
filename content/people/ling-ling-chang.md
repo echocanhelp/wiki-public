@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Ling Ling Chang (張玲玲)
 
@@ -57,6 +57,7 @@ _Corpus re-grep 2026-09-22: same hits (Who's Who #1016, both in-CA/CA work recor
 _Corpus re-grep 2026-09-23: same hits (whoswho1016, both in-CA work records, TJJ snapshots); 張齡玲 vs 張玲玲 HOLD stands, nothing new._
 _Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230600-29): hit-set identical (whoswho1016, ling-ling-chang, ling-ling-chang-in-california, works index, TJJ snapshots incl. 2023-12-08) — verified saturated; 張齡玲 vs 張玲玲 HOLD unchanged, nothing new absorbable._
 _Corpus re-grep 2026-09-25 (DEEPEN-X slice 09240600-1): fresh ZH+EN grep of works+articles returned the same hit set (whoswho1016, both in-CA work records, works index, TJJ snapshots + MANIFEST) — SKIP: saturated, 張齡玲 vs 張玲玲 HOLD stands, nothing new absorbable._
+_Corpus re-grep 2026-10-11 (DEEPEN-X slice 10100600-17): fresh ZH+EN grep (張玲玲/張齡玲/Ling Ling Chang) across works+articles+sources+events+topics returned the identical hit set — whoswho1016, both in-CA work records, works index, TJJ full-text (aae5718d) + English Pages/tag snapshots, sources/taiwaneseamericanhistory-org. All substantive records already linked above; 2024 tag/category-root pages remain directory listings of the same 2018-06-25 headline (noise, triaged 2026-10-09). SKIP: saturated; 張齡玲 vs 張玲玲 HOLD unchanged, nothing new absorbable._
 _Corpus re-grep 2026-10-09 (DEEPEN-X slice 10081009-10): fresh ZH+EN grep (張玲玲/張齡玲/Ling Ling Chang/玲玲) across works+articles+sources+events+topics surfaced 2 previously-unabsorbed records now linked into Role in the Community: the full-text TJJ swearing-in article (aae5718d, 2024-02-21 snapshot — recall-election/gas-tax context + Chief Justice oath detail) and the 2025-03-17 empty tag-page snapshot (22829de5). Other new hits triaged as noise: Pew work hits are Ling Ling Juang/Ling-Ling Lee (different persons); 2018 管中閔 signatory list is 楊玲玲(園藝) (false positive); 2024 category-root pages (9cb85cda/3c79bf46/980be67c/4774e3f0/73570645) are directory listings of the same already-cited headline. 張齡玲 vs 張玲玲 HOLD unchanged._
 
 ## From the record
