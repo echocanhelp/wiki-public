@@ -61,6 +61,8 @@ Absorbed from vault pages already naming her (no web):
 - 2021– — Trade Representative, Office of the United States Trade Representative (nominated Jan 2021)
 
 ## From the record
+<!-- TJJ-A10100501-18: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-18 article 2c5d3c7d4f5acccc (戴琪與鄧振中首度視訊對話_美台未來數週重啟tifa, taiwanjustice.net, 2021-06-10 刊 / 20250719154043 快照; 同文快照 4a5080befc342f69 之重複存檔) read fresh this attempt: Subjects links re-checked line-by-line vs 正文 — 戴琪（與鄧振中約40分鐘視訊、強調台美貿易投資關係、承諾數週內於 AIT／TECRO 共同主持下召開第11屆TIFA）、蕭美琴（「駐美大使蕭美琴也出席今晚台美視訊會議」）均真實提及，無錯鏈、無虛鏈；正文另及鄧振中（無 subject 條目，維持純文字，正確處理）；dated facts w/ article wikilink 已在 katherine-tai / bi-khim-hsiao 兩頁 From the record — saturated, 無新材料. -->
+
 <!-- TJJ-A10100501-17: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-17 article 10e3a027ce22991c (汽車晶片短缺，美國會議員向蕭美琴求助, taiwanjustice.net, 2021-02-25 刊 / 20210419115654 快照) read fresh this attempt: subject link re-checked vs 正文 — 「美國貿易代表提名人戴琪（Katherine Tai）於參議院財政委員會的提名聽證會」逐字確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100501-9: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-9 article 4a5080befc342f69 (戴琪與鄧振中首度視訊對話、美台重啟TIFA, taiwanjustice.net, 2021-06-10 刊 / 20210616081448 快照) read fresh this attempt: subject link re-checked vs 正文 — 戴琪與鄧振中約40分鐘視訊會談、強調台美貿易投資關係重要性、承諾數週內於 AIT／TECRO 共同主持下召開第11屆TIFA確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
