@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # New York Taiwan Center (紐約台灣會館)
 
@@ -33,6 +33,8 @@ New York Taiwan Center (紐約台灣會館) is a non-profit 501(c)(3) organizati
 - The Center also served as a venue for the wider movement's commemorative calendar: the 1993-06-22 memorial gathering for the tenth anniversary of 陳文成 was held there, remembered in the 美東文成杯 tennis memoir [[works/taiwaneseamericanhistory-org/ourjourneys329|Our Journeys 329]].
 - Co-hosts 台灣海外留學生新年聚餐晚會 with the 宜蘭同鄉會 ([[works/taiwaneseamericanhistory-org/lunar-new-year-dinner-to-tw-students|75. 留學生新年聚餐, 2017-02-02]]), and hosts club-level events such as the 中秋節乒乓球友誼賽 ([[works/taiwaneseamericanhistory-org/nytc-table-tennis-2017|中秋乒乓球友誼賽, 2017-10]]).
 - 蔡明峰, founder of 台灣海外網, is remembered in the 紐約筆會 decade memoir as 紐約台灣會館前董事長 who repeatedly praised the pen association ([[works/taiwaneseamericanhistory-org/ourjourneys12|Our Journeys 12, 紐約筆會十年]]).
+- The founding generation is named in the press record: Flushing lawyer 陳隆豐 (NYU law, 台大法律系) co-founded the Center in 1986 as its first 理事長, serving ten years, and remained active at its fundraising events into his later years; he died 2024-03-28, and the Center issued its own tribute on his passing ([[articles/taiwanjustice-net/2025/20250324133340_紐約台灣會館創辦人陳隆豐逝世-享壽82歲_d47c06ef7a45156a|TJJ/CNA, 2025-03-31]]; see [[people/dr-lung-fong-chen|陳隆豐]]). The Center also served as venue for movement political organizing: the 海外信賴後援會 supporting 賴清德's 2024 presidential campaign held its founding press conference there on 2023-03-18 ([[articles/taiwanjustice-net/2023/20230322161425_2023_03_18_挺賴清德選總統-紐約僑界成立海外後援會_5233d52b6cfa8acb|TJJ/CNA, 2023-03-18]]).
+- Leadership transition of record: on 2021-04-07 蘇春槐 assumed the 理事長 chair from 方秀蓉, who had served two four-year terms since 2017 and became vice-chair; the incoming board established a sustainability donation fund (cash, stock, retirement accounts) intended to finance the Center's future building renovation ([[articles/taiwanjustice-net/2021/20210415111016_2021_04_07_紐約台灣會館-蘇春槐接理事長盼永續經營_483521594640641a|TJJ/CNA, 2021-04-07]]; see [[people/patsy-fang-chen|方秀蓉]], [[people/su-chun-huai|蘇春槐]]). HOLD: the 2021 press record dates 蘇春槐's 理事長 tenure from 2021, while the TAH oral-history record dates his NYTC president term 2024–2025; the two terms of office may be distinct roles — never auto-merged.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/new-york-taiwan-center/)
