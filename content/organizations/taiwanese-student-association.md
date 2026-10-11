@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Taiwanese Student Association
 
@@ -40,6 +40,11 @@ Chapter-foundations across the continent (sibling chapters, shared movement line
 - [[works/taiwaneseamericanhistory-org/taiwan-s-by-n-a-t-s-a|台灣同學 by N.A.T.S.A. 全美台灣同學會]] — the national federation's publication; the 全美台灣同學會 was itself born at the 1985-06 seventh 夏令會 (274 attendees, 55 visiting students — the largest cohort in 20 years) per [[works/taiwaneseamericanhistory-org/ourjourneys245|245. 夏令會 roster]].
 - [[works/taiwaneseamericanhistory-org/tsapa-taiwanese-student-association-for-public-affairs|16. Taiwanese Student Association for Public Affairs 台灣公共事務學生會華大分會]] — UW chapter public-affairs offshoot.
 - [[works/taiwaneseamerican-org/taiwanese-student-association-at-rice-university-first-general-meeting|TSA at Rice University — first general meeting]] — Texas chapter record.
+- [[works/taiwaneseamericanhistory-org/ourjourneys224|224. 斷情書 / 密西根台灣同學會會員 / 05/2016]] — a letter by a 密西根大學台灣同學會 member, a rare first-person chapter voice.
+- [[works/taiwaneseamericanhistory-org/north-carolina-state-university-newsletter|朴豆 – NCSU 台灣同學會會訊]] — the North Carolina State chapter's 2017 newsletter, complementing the 1980s-era 北卡海報事件 record above.
+- [[works/taiwaneseamerican-org/karaoke-contest-with-uc-berkeleys-taiwanese-student-association|Karaoke Contest with UC Berkeley's TSA]] — 2012 Berkeley chapter cultural event.
+- [[works/taiwaneseamericanhistory-org/our-journeys-379|379. 十年東南夏令憶感 — 1985 夏令會 co-hosted with 全美台灣同學會]] — the 1985 summer seminar co-organized with the national federation, remembered as the most culturally rich cohort (陳芳明, 林衡哲, 謝里法, 黃美惠).
+- [[works/taiwaneseamerican-org/david-chen-taiwanese-handbook|David Li-Wei Chen — Handbook of Romanized Taiwanese interview]] — an interviewee who credits being 「active in the Taiwanese Student Association」 in college, and specifically the UW TSA, as part of his identity formation — a present-day personal record of what the chapters gave members.
 
 Texas A&M-linked community records in our corpus:
 - [[works/taiwaneseamericanhistory-org/ourjourneys321-eng|321-eng. The Founding of Chen Wen-Chen Memorial Foundation (追述, EN)]] — the commemorative-book account names Professor Chieh-ching Huang (筆名「N先生」), then a Michigan colleague of 陳文成 and later a faculty member at Texas A&M University, as an author who "did not dare to use our real names."
@@ -49,6 +54,7 @@ HOLD: this page describes the Texas A&M University chapter (德州農工大學�
 Disambiguation: the corpus's 「台灣學生社」 records — [[works/taiwaneseamericanhistory-org/taiwanese-collegian-irvine-ca|Taiwanese Collegian 台灣學生(季刊) by 台灣學生社]] and [[works/taiwaneseamericanhistory-org/concerts114|114. Landscape of Formosa by Taiwanese Collegian/MTSC 台灣學生社/中西部台灣人夏令會 (Cincinnati, 07/07/2000)]] — name the Midwest Taiwanese Collegian/MTSC organization, not a Texas A&M chapter; do not merge into this page's lineage.
 - 複核（deepen-x slice 09230500-2, 2026-09-24）：fresh ZH+EN re-grep（台灣同學會 / Taiwanese Student Association）命中集不變——ff33、ourjourneys81/219/277/321、dumplings-usctsa 均已連結於上 — SKIP-with-reason：無新社群語料。
 - 複核（deepen-x slice 10080958-15, 2026-10-09）：fresh ZH+EN grep（台灣同學會 / Taiwanese Student Association / 台灣學生會 / Texas A&M / 農工大學）回 55 hits across works/articles/sources/events/topics. 13 previously-unlinked chapter records now wikilinked above (UCLA, Kansas State, UT Austin, NCSU ×2, UW ×3, OSU, 全美台灣同學會/NATSA, Rice, 「台灣學生」 launch). Also surfaced: [[works/taiwaneseamericanhistory-org/ourjourneys317|317. 彭明敏德州大會]] names 劉毅謀 as a Texas A&M student leading the KMT-side disruption of the 同鄉會大会 — the only A&M student name in the corpus, recorded as opposition to (not membership in) the community movement; noted here, not absorbed as a TSA member. The 台灣學生社 / 「台灣學生」 records remain disambiguated from chapter lineage per the note above.
+- 複核（deepen-x slice 10100400-23, 2026-10-10）：fresh ZH+EN grep（台灣同學會 / Taiwanese Student Association / 台灣學生會 / Texas A&M / 農工大學）回 56 hits across works/articles/sources/events/topics. 5 previously-unlinked records now wikilinked above (ourjourneys224 密西根會員「斷情書」, NCSU 朴豆會訊, UC Berkeley karaoke, our-journeys-379 1985 夏令會 co-hosted with 全美台灣同學會, David Li-Wei Chen handbook interview). ourjourneys317 (劉毅謀 / Texas A&M) remains noted-as-opposition per the prior review — no new A&M chapter material found; no date/age conflicts to HOLD.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association/)
