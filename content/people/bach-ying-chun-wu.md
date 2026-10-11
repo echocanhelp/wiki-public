@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Bach Ying-Chun Wu (吳英俊)
 
@@ -86,6 +86,8 @@ The preface quoted above was written by [[people/tyzen-hsiao||Tyzen Hsiao (蕭�
 - 1994 — 名列「TUF 台灣文化之夜 1994」演出名單（同場：李喬、楊青矗、李慧珍、郭雋律、郭雋音、蕭泰然），紀錄由楊子清提供（[[articles/taiwanjustice-net/2021/20210117071954_tag_楊子清_11aa2dfa5f64d7e4|TJJ 楊子清 tag, 2020-09-30]]）。
 
 - 2023-05-14 — 秦雪華（如蓮）台語詩「上媠的手」記述：吳英俊為該詩「精心譜寫混聲合唱曲」，由聲樂家李慧玲指揮合唱團多次公演（詩作者另編一支舞蹈，演唱時兩名女子伴舞、一位慈母台上縫衣演出）。此為詩作譜曲記錄，與四本 TAH 出版作品集分屬不同材料（[[articles/taiwanjustice-net/2023/20230927023506_2023_05_14_台語詩_上媠的手-_秦雪華_如蓮_9c3fd40a162ad4da|TJJ 台語詩「上媠的手」, 2023-05-14]]）。詩作者秦雪華與聲樂家李慧玲目前無 vault 頁面——不虛構 wikilink。
+
+- 1994（另載）— 林衡哲《南加州臺灣人聯合基金會（TUF）的誕生、回顧與展望（1986-1996）》記 1994「台灣文化之夜」壓軸：郭雋律演出「新秀作曲家**郭英俊**《台灣狂想曲》」（[[works/taiwaneseamericanhistory-org/ourjourneys301||OJ #301]]）。HOLD: 姓名衝突——本頁既有條目（楊子清 tag 頁）作「吳英俊」列同場名單，OJ #301 正文作「郭英俊」；同場同節目（姊妹花郭雋律/郭雋音、蕭泰然曲目）指向同一活動，惟姓氏不同，未经本人或二次來源確認前不併檔、不改寫。《台灣狂想曲》亦未見於本頁四本 TAH 出版作品集，暫不歸屬。
 
 <!-- TJJ-A10040500-11: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-11 articles (11aa2dfa5f64d7e4 楊子清 tag頁 / 2490b18e8f37ea79 第166回世界台灣文化論壇 / 89e6683c93156205 台美人台加人 p356 / 79b5f26fdef89d22 2023台美小姐選拔賽): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060700-4: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060700-4 articles (11aa2dfa5f64d7e4 楊子清 tag頁 / 2490b18e8f37ea79 第166回世界台灣文化論壇 / 89e6683c93156205 台美人台加人 p356 / 79b5f26fdef89d22 2023台美小姐選拔賽): subject link(s) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
