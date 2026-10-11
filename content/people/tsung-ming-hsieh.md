@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Tsung Ming Hsieh (謝聰敏)
 
@@ -42,6 +42,8 @@ Corpus (Our Journeys) material beyond the press coverage below:
 - **Blacklist return, 1986-11-30.** With 許信良 and 林水泉 he flew from Narita to 桃園機場 for the blacklist-home campaign, the crowd-welcoming that produced the 桃園機場事件 ([[works/taiwaneseamericanhistory-org/ourjourneys230|Our Journeys #230, 邱萬興]]; see also the 台民主黨/返鄉 account in [[works/taiwaneseamericanhistory-org/our-journeys-363|Our Journeys #363]]).
 - **Community speaking circuit in the U.S.** 黨外謝聰敏 came to the Minnesota 同鄉會 in 1984 ([[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys #123, 曾啟明]]); on 1985-03-02 he lectured 「二二八當代人物」 at the Bay Area 人權會 二二八 commemoration ([[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357, 何義麟]]).
 - **Post-1980s media work.** 吳木盛's 1986 essay records him actively pushing to launch an overseas Chinese-language daily (「海外日報」催生), after the 美麗島週報 era ([[works/taiwaneseamericanhistory-org/ourjourneys222|Our Journeys #222, 吳木盛]]).
+- **Overseas reverberation of the Declaration.** 周烒明's memoir of the early 1960s–70s 威大 (University of Wisconsin) 台灣學生 movement recalls that the 1964-09-20 「台灣人民自救宣言」 by 彭明敏、謝聰敏、魏廷朝 inspired the 「全美台灣獨立聯盟」 to place the 「台灣是台灣人的」 half-page New York Times ad, with 周烒明 chairing the fund-raising (郭泰成、辜寬敏、黃義明 each pledging US$500); the surplus funded the joint 「Independent Formosa」 publication ([[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys #81, 周烒明]]). HOLD: ad date conflicts — 周烒明's account says the ad ran 1966-11-20, while the 張燦鍙 account above gives 1965-11-20. Not auto-merged.
+- **The Declaration as archival record.** The 1964-09-20 「台灣人民自救運動宣言」 itself is held in the corpus photo-album record with 謝聰敏 named as co-author alongside 彭明敏 and 魏廷朝 ([[works/taiwaneseamericanhistory-org/photo-albums-historical-41|Photo Album: Historical #41]]).
 - **Remembered by the community.** 何來美's tribute 「反抗台灣獨裁政權的勇士-謝聰敏先生」 (2019-09-16) and his own oral history are held in the corpus ([[works/taiwaneseamericanhistory-org/my-stories-696|My Stories #696]]; [[works/taiwaneseamericanhistory-org/videos58|Videos #58 謝聰敏口述歷史]]).
 - HOLD: sentence length conflicts — 10 years under 「預備顛覆政府」 (Thornberry memorial / TJJ 2017-03-12) vs eight years (去殖民化 essay, TJJ 2023-06-02). Not auto-merged.
 
