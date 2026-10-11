@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Southern California
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Taiwanese Alliance for Interculture (S. California)
 
@@ -43,3 +43,4 @@ Corpus-linked records (absorbed 2026-09-20):
 - [[people/c-y-hsu||Tsan Yu Hsu 許贊育]]
 - [[people/ahhee-hsu||Ahhee Hsu 許丕龍]]
 - [[people/yang-jia-you||Charles Yang 楊嘉猷]]
+- 2026-10-11 corpus re-grep (DEEPEN-X slice 10100600-25): 29 files surfaced across all five corpus dirs. Hit set unchanged in substance — the additional Bay-Area-tagged files now visible (OJ 38/39 聯合會與協志會回忆, OJ 106 黑名單會長名录, OJ 206/208 社團多元化 survey, OJ 288 番薯會刊 2017/05, 29. 北加州協志會台灣話比賽) are all 灣區/北加州 material that reinforces the subject-tagging HOLD rather than this page's SoCal identity. No new SoCal-specific absorbable material. VERIFIED-SATURATED.
