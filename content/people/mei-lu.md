@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Mei Lu (陳香梅)
 
@@ -67,3 +67,5 @@ HOLD: TAF（台灣人協進會）會史紀念照中的 "Mei Lu"（MFCF 1990 前�
 <!-- TJJ-A10090701-16: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-16 article 28b0cc4e52acece2 (2021北美洲海外台灣人二二八紀念活動報導, TJJ 2021-03-03刊, 2026-02-10快照) read fresh this attempt: subject link re-checked vs 正文 — 「婦女會姊妹張秀滿、吳惠芳、陳香梅 朗誦陳雷的詩『痛苦的三月天』」逐字確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100701-2: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-2 article 28b0cc4e52acece2 (2021北美洲海外台灣人二二八紀念活動–人權博物館海外特展報導, TJJ 2021-03-03刊, 2026-02-10快照) read fresh this attempt: subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10101100-2: verified 2026-10-11 — fresh grep (陳香梅/Mei Lu/香梅) across works+articles+sources+events+topics returned the identical hit set (ourjourneys154, ourjourneys33 中英, whos-who-1699, index, sources, TJJ 228報導), all already wikilinked/absorbed; 點心擔 2003 主編、MFCF 約1990 合影、2021-02-28 朗誦記錄均在庫 — verified-saturated SKIP; 盧美惠同名 HOLD 維持. -->
