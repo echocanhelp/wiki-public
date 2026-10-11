@@ -11,7 +11,7 @@ tags:
   - education
   - certification
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Overseas Community Affairs Council (僑務委員會)
 
@@ -182,6 +182,8 @@ OCAC plays a significant role in the **Taiwanese-American experience** in Southe
 - 複核（DEEPEN-X10081000-1, 2026-10-09）：全庫 ZH+EN grep（僑務委員會／僑務委員／OCAC／王桂榮）於 works/articles/events/topics 再驗證——本頁既有 162effa7 條目為真實對應；另吸收 20 筆先前未鏈接的 corpus 記錄如上。HOLD: 徐佳青 appears in [[works/taiwaneseamericanhistory-org/our-journeys-382|全美會參訪團]] as 僑委會副委員長 during an undated October-24 visit — consistent with her later Jan-2023 ministership; no dates merged.
 
 - 複核（DEEPEN-X10080958-31, 2026-10-09）：全庫 ZH+EN grep（僑務委員會／僑務委員／OCAC／王桂榮）於 works/articles/sources/events/topics 再驗證——本頁於前輪 10081000-1 已吸收 20 筆 corpus 記錄，本輪補鏈 3 筆先前未鏈接記錄：王桂榮 2016 傳記（mystories449）、台美文教基金會得獎名單（winners20）、公會會務記述（344）。其餘 hits 為重複記述或僅 subject-link。無日期衝突需 HOLD。
+- OCAC as arts sponsor — the New York Young Lions Youth Orchestra (founded 1996, Beacon Program 1998–2007) records 僑務委員會 among its New York sponsors alongside 紐約臺北經濟文化辦事處 and 紐約華僑文教服務中心, i.e. OCAC underwrites overseas youth arts programs at the city level, not only Taipei-run tours ([[works/taiwaneseamericanhistory-org/ourjourneys306|紐約幼獅管弦樂團記]])
+- 複核（DEEPEN-X10100500-7, 2026-10-11）：全庫 ZH+EN grep（僑務委員會／僑務委員／OCAC／王桂榮／Kenjohn Wang）再驗證——本輪補鏈 1 筆先前未鏈接記錄（ourjourneys306 紐約幼獅贊助記）。其餘 hits 屬王桂榮個人傳記／FAPA 創立記（ourjourneys65：王桂榮以台美商會會長任 FAPA 財務，非 OCAC 職務）、鶴園老人公寓與信用合作社記述（ourjourneys173/54/244）、甘迺迪募款餐會（ourjourneys59）等 community-organization 材料，主體非 OCAC，留於王桂榮相關頁面。無日期衝突需 HOLD。
 
 ## Related Pages
 
