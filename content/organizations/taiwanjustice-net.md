@@ -8,7 +8,7 @@ tags:
   - media
   - Wayback-archive
 verification_status: published
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # taiwanjustice.net (台灣公義網)
 
@@ -159,6 +159,14 @@ Beyond its own archive, taiwanjustice.net circulated as a **cited source inside 
 - [[works/taiwaneseamericanhistory-org/our-journeys-366|Our Journeys #366]] (2021-02-03) — story credited "Source from Taiwan Justice 台灣公義報".
 
 **Alias note:** in corpus citations the site appears as **台灣公義電子報** and **台灣公義報** (not only 台灣公義網); searches for corpus mentions should try all three forms.
+
+### Reach across the corpus (2026-10-11 grep)
+
+A fresh full-corpus grep (taiwanjustice / 台灣公義) returns **511 corpus documents** outside the site's own article archive:
+
+- **490 records in the taiwaneseamerican.org news corpus** (2023-12-08 root crawl) — community event round-ups (Chicago TA Professionals, Alice Tong's west-coast tour, Jen Shyu in NY, La Asian Film Festival, etc.) all cross-link to a single taiwanjustice.net 2023-12-08 root article, showing the site served as a shared distribution hub for the diaspora's event calendar, not only as an opinion outlet.
+- **9 event records** carry `Hub: [[sources/taiwanjustice-net]]` — the site is Echopedia's registered hub source for those events.
+- **7 topic pages** cite the site, concentrated on **跨國鎮壓 / transnational-repression** coverage (強制送中, surveillance of 賴清德之子, 沈伯洋, the FBI arrest of a PRC operative at LAX), where Echopedia's own transnational-repression topic sources itself from a taiwanjustice.net 2021-12-02 report.
 
 ## Related Pages
 
