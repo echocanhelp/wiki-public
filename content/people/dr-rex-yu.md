@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Rex Yu (余忠村博士)
 
@@ -102,4 +102,5 @@ Accomplishment
 - 2023-06-10 — 大洛杉磯台灣會館年度會員大會當日（8號會議室），余忠村老師特製藝術品義賣活動舉行，展出其精心設計的寶石裝飾品、檯燈組合、油畫及古典典藏裝飾藝術品，每件獨一無二限量收藏；義賣所得全數捐給台灣會館（[[articles/taiwanjustice-net/2025/20250215233138_余忠村老師特製藝術品義賣活動6月10大洛杉磯台灣_67af8b6cf986ed4f|TJJ 報導, 2023-06-07 刊]]；另快照 [[articles/taiwanjustice-net/2024/20240225021610_root_7e6eedc07f34fb1a|2024-02-25 存檔]]）。
 - 2024-11-16–22 — 台灣會館會訊標題載「余忠村夫婦義賣多年珍藏藝術品支持台灣會館」——夫婦二人連年以收藏義賣支持台灣會館，與 2023 年義賣同屬其一貫的會館支持紀錄（標題見 [[articles/taiwanjustice-net/2025/20250514013542_category_taiwancenter_page_3_df5ddf626338d791|台灣會館 category 頁]]；全文未入庫，僅標題級佐證）。
 <!-- TJJ-A10100801-3: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-3 article 23da543a315a1fa1（228七十週年紀念公告轉會館會訊, 2024-05-30快照）: subject link re-checked vs 正文 this attempt（「台灣會館聘請室內專家余忠村博士主持海外的佈展」）, real, no wrong/spurious links; 2017-02-17 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- DEEPEN-X10101200-14: verified 2026-10-11 — fresh ZH+EN+brand grep (余忠村 / Rex Yu / Rexon) across all 5 corpus dirs: hits = works #19/#970/#71/#55/#36/#643 + works index + sources page + TJJ articles 23da543a / 3246c11d / 7e6eedc0 / 67af8b6c / df5ddf62 / 31b7081a + tag page 4208188a + 2023-12-08 會館 category listing (標題級, 同 2023-06-10 義賣事件) — 全部已於上文收錄連結, 無新社群事實 — saturated, no new material. -->
 <!-- TJJ-A10100901-24: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-24 article 3246c11d0909b4fe (洛僑中心攜手台灣會館「台灣‧藝象」首場講座公告, 2018-08-25 刊／2024-05-22 快照): subject link re-checked line-by-line vs 正文 this attempt (「邀請主講人郭曉玗小姐、余忠村博士…共同演出」＋「由余忠村博士分享具有台灣特色的民俗戲曲音樂(包含歌仔戲、布袋戲等南北管樂曲及樂器)」), real, no wrong/spurious links; 2018-08-31 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
