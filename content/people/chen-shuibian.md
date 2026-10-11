@@ -216,3 +216,5 @@ last_reviewed: 2026-10-10
 ![20240525225912_wp-content_uploads_2013_06_台灣前總統陳水扁被銬並高舉雙手_jp](../images/people--chen-shuibian.jpg)
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20240525225912）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+
+<!-- TJJ-A10100401-7: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-7 article c0530664ab4c2948 (Taipei Times 社論轉載「陳水扁的審判應受調查」, 2016-04-11 刊 / 2024-06-19 快照) read fresh this attempt: subject links re-checked vs 正文 — chen-shuibian/ma-yingjeou/tsai-ing-wen/democratic-progressive-party 均真實提及（扁案特赦爭議、26名DPP北市議員聯署、蔡承諾司法改革應重查扁案），無錯鏈、無虛鏈；正文另及江志銘、郝龍斌、周占春、蔡守訓、黃瑞華、洪英花、辜仲諒等人名 vault 暫無頁，維持純文字未掛鏈（正確處理）；dated fact w/ article wikilink already in From the record — saturated, no new material. -->
