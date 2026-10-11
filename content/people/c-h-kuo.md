@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # C. H. Kuo (郭忠豪)
 
@@ -48,6 +48,7 @@ Assistant Professor
 - Re-verified 2026-10-08 (deepen-x slice 10062218-2): fresh ZH+EN grep of works/articles/sources/events/topics returns the identical hit set (mystories550, mystories540, publications1084, whoswho1189, index/source listings). No third-party memoir names him — verified saturated, nothing new absorbable.
 - Re-verified 2026-10-09 (deepen-x slice 10080500-27): fresh ZH+EN+surname grep (郭忠豪 / C. H. Kuo / 忠豪) across all corpus dirs returns the identical hit set (mystories550, mystories540, publications1084, whoswho1189, index, source listing); wife 曾齡儀 grep finds no corpus hits. Verified saturated, nothing new absorbable.
 - Re-verified 2026-10-10 (deepen-x slice 10091316-7): fresh ZH+EN+surname grep (郭忠豪 / C. H. Kuo / 忠豪) across works/articles/sources/events/topics returns the identical hit set (mystories550, mystories540, publications1084, whoswho1189, index, source listing). No third-party memoir names him — verified saturated, nothing new absorbable.
+- Re-verified 2026-10-11 (deepen-x slice 10101322-28): fresh ZH+EN+surname grep (郭忠豪 / C. H. Kuo / 忠豪) across all 5 corpus dirs returns the identical hit set (mystories550, mystories540, publications1084, whoswho1189, index, source listing); wife 曾齡儀 grep still finds no corpus hits. Verified saturated, nothing new absorbable.
 
 ## Sources
 - [TAH #1189 encyclopedia: 1189. C. H. Kuo 郭忠豪 / 2016/07](https://taiwaneseamericanhistory.org/whoswho1189/)
