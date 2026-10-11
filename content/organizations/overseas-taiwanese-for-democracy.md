@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Overseas Taiwanese for Democracy (海外台灣青年陣線)
 
@@ -34,7 +34,7 @@ Overseas Taiwanese for Democracy (海外台灣青年陣線) is a North American 
 - 複核（TJJ-A09230400-1, 2026-09-24）：subject link 經本 slice 文章 2c9cb76838702dd7 正文再驗證為真實對應，對應 From-the-record 條目已在庫並掛鏈本檔（無錯鏈、無虛鏈）— SKIP，無新材料。
 
 - 複核（TJJ-A09170400-5, 2026-09-23）：本 slice 文章 2c9cb76838702dd7（楊遠薰〈海台青與黑客松〉原始存檔）正文再驗證——本篇主角組織，連結為真；2017-07-01 條目已掛本檔 wikilink 在庫 — SKIP，無新材料。
-- 2017-07-01 — OTD co-held its 2017 general meeting with the US East Coast Taiwanese Education Center (TACEC) summer camp at West Chester University, PA (7/1–4), bringing 67 participants/speakers from 17 states and running a 「黑客松」(Hackathon) workshop with projects incl. 國會觀測站、台美貿易資料庫、國家寶藏; convener 林庭安, founder-interviewee 林子堯, and fundraiser/前FAPA總會長 高龍榮 are named in 楊遠薰's column ([[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|楊遠薰 column via TJJ, 2017-07-24]]).
+- 2017-07-01 — OTD co-held its 2017 general meeting with the US East Coast Taiwanese Education Center (TACEC) summer camp at West Chester University, PA (7/1–4), bringing 67 participants/speakers from 17 states and running a 「黑客松」(Hackathon) workshop with projects incl. 國會觀測站、台美貿易資料庫、國家寶藏; convener 林庭安 ([[people/ting-an-lin|Ting-An Lin]], listed as OTD Executive Director 2017), founder-interviewee 林子堯, and fundraiser/前FAPA總會長 高龍榮 ([[people/long-rong-mark-kao|Mark Kao 高龍榮]], first president of the NCSU 台灣學生會 per [[works/taiwaneseamericanhistory-org/our-journeys-381|TAH #381]]) are named in 楊遠薰's column ([[articles/taiwanjustice-net/2021/20211207123518_2017_07_24_海台青與黑客松-_-楊遠薰-2017-07-24_2c9cb76838702dd7|楊遠薰 column via TJJ, 2017-07-24]]).
 
 - 2026-09-22 — 本篇主角組織——連結為真；該紀錄日期事實已見上條 [[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7|海台青與黑客松, 2017-07-24刊]]，本輪不重複。
 - 2026-09-22 — TJJ-A09220700-3 re-verify: 本篇主角組織，連結為真；日期事實已見上條，不重複。
@@ -82,3 +82,5 @@ Overseas Taiwanese for Democracy (海外台灣青年陣線) is a North American 
 <!-- TJJ-A10090701-10: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-10 article 2c9cb76838702dd7 (海台青與黑客松, 楊遠薰, TJJ 2017-07-24, 2021-12-07 snapshot): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090701-11: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-11 article 3260cd0bdf2f84d7 (海台青與黑客松, 楊遠薰, TJJ 2017-07-24, 2024-05-23 snapshot) read fresh this attempt: subject link re-checked vs 正文 — 本篇主角組織確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10101210-1 (2026-10-11): fresh corpus grep (海外台灣青年陣線/海台青/OTD/Overseas Taiwanese for Democracy) across works/articles/sources/events/topics — hits limited to already-linked 文獻頁. New material absorbed: wikilinked 林庭安 → [[people/ting-an-lin]] (vault page exists; listed as OTD Executive Director 2017) and 高龍榮 → [[people/long-rong-mark-kao]] (前FAPA總會長; first president of NCSU 台灣學生會 per [[works/taiwaneseamericanhistory-org/our-journeys-381|TAH #381]]) into the 2017-07-01 From-the-record entry. 林子堯 remains without a vault page (grep confirms no people/ page). -->
