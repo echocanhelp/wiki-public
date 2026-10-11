@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Hsiu-Fang Susan Liu (陳秀芳)
 
@@ -88,3 +88,11 @@ Accomplishment
 **Commissioned muralist in Minnesota public/campus space.** 曾啟明's chronology records two large murals she was commissioned to paint and unveiled: the Asian- nations mural for the University of Minnesota Asian Students Association at Coffman Memorial Union (March year, per the chronology), and a world-landmarks mural at Century College's多元文化中心 (August year, per the chronology). Both events are dated only by month within the chronology — HOLD: exact years not stated in the source.
 
 **Community award and writing.** Received the Minnesota Taiwanese Association's first **傑出貢獻獎 (Outstanding Contribution Award, Taiwan culture / community welfare) in January 2006**, cited for her community service and Festival-of-Nations cultural exhibitions ([[works/taiwaneseamericanhistory-org/ourjourneys123||明州台美人百年大事]]). Her essays in the corpus: [[works/taiwaneseamericanhistory-org/mystories15||談繪畫 — 我與台美人 (2014)]] on painting and the Taiwanese American community, and [[works/taiwaneseamericanhistory-org/my-stories-750||承先啟後 – 繼續Bob的遺志 (2020)]] continuing Dr. Bob Cheng's work after his death. She is also a listed participant in [[works/taiwaneseamericanhistory-org/ourjourneys218||明州「城市探險到台灣」(2016)]] and appears in the people index of [[works/taiwaneseamericanhistory-org/ourjourneys322||花轎記 (2017)]] — the flower sedan chair (花轎) her garage housed, per 吳朱實's account.
+
+## Deepen-X10100315-10 check (2026-10-10)
+
+- **2016 Festival-of-Nations 十二生肖 exhibition, credited in 湯原銘's account.** [[works/taiwaneseamericanhistory-org/ourjourneys223||負責2016明州萬國節台灣文化展的心路歷程 (2016)]] documents the Folklore-and-Fairytales theme year: the central oil painting telling the 12-zodiac story was composed by 育佳 and painted by Felix, with **秀芳 and 光生 assisting**, and 秀芳 also appears in the coordination group (啓明, 原銘, 秀芳) for the twelve individual zodiac paintings drawn by eleven Minnesota artists. This corroborates her continuous role on the cultural-exhibition design team through the 2010s, consistent with the 1990-onward record in [[works/taiwaneseamericanhistory-org/ourjourneys123||明州台美人百年大事]].
+- **Named "in particular" in the UCSD Taiwan Studies Center 2022 year-end message.** [[works/taiwaneseamericanhistory-org/our-journeys-384||A Year-end Message from the Founding Director (2022)]] singles her out ("and in particular, Susan Liu") from the two-year transitional team that incorporated the Taiwanese American Archives into the Center website and transferred related photo albums to the Geisel Library's digital resources — the strongest documentary confirmation of her Archives website-management role beyond the TAH Who's Who entry.
+- **Her painting reproduced in a survey work.** An oil painting of 留學生要離開台灣的情景, by 陳秀芳 (2013), is reproduced in [[works/taiwaneseamericanhistory-org/ourjourneys309||美國台灣移民簡史 (許維德, 2017)]] — her work used as illustrative material in a published migration-history survey.
+- **Footsteps #35 (Bob Cheng portrait, 2020)** is now linked directly: [[works/taiwaneseamericanhistory-org/footsteps-35||Footsteps #35 — Dr. Bob Cheng 鄭寶鼎博士 (2020)]].
+- **False-positive checked:** the "李秀芳" (soprano/伴奏) in [[works/taiwaneseamericanhistory-org/ourjourneys162||聖地牙哥台灣中心開幕典禮與慶祝音樂會 (2015)]] is a different person (sister of 李智惠) — not absorbed.
