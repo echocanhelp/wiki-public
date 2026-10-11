@@ -1,10 +1,11 @@
 # Connector suggestions (capped top 80)
 
-- co_citation total=5311 kept=80
-- co_mention total=10852 kept=40
+- co_citation total=5892 kept=80
+- co_mention total=11169 kept=40
 - shared_tags total=0 kept=0
 
 ## Top co-citation
+- organizations/taiwanese-american-council-of-greater-new-york.md ↔ organizations/taiwanese-american-council.md
 - organizations/ai-education-foundation.md ↔ organizations/stc-rowland-legacy.md
 - organizations/ai-education-foundation.md ↔ organizations/rowland-heights-chinese-association.md
 - organizations/ai-education-foundation.md ↔ organizations/stc-management.md
@@ -29,4 +30,3 @@
 - people/tah-p-e0d94fd09b.md ↔ people/tina-shih.md
 - organizations/american-chinese-dance-association.md ↔ sources/taiwaneseamericanhistory-org.md
 - organizations/american-chinese-dance-association.md ↔ organizations/forus-foundation.md
-- organizations/american-chinese-dance-association.md ↔ people/john-hsu.md

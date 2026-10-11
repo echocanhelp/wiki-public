@@ -1,0 +1,1820 @@
+# Photo candidate report
+
+- images scanned: 15313
+- matched: 1539 (HIGH 903 / MED 127 / LOW 509)
+- person pages with a HIGH match: 77
+
+HIGH = full hanzi name, single-person caption. MED = caption also names
+another known person (who-is-who ambiguity). LOW = do not link.
+
+## HIGH — linkable with standing unverified-photo label
+
+- `people/alan-yang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200623082729_wp-content_uploads_2020_04_電影新片_虎尾_全片靈感來自導演兼編劇楊維榕的父親_劇情充滿個人家庭色彩_-100x70_jpg_60e9485783483882.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/04/%E9%9B%BB%E5%BD%B1%E6%96%B0%E7%89%87%E3%80%8C%E8%99%8  (wayback 20200623082729)
+- `people/andrew-yang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065320_wp-content_uploads_2019_10_楊安澤_Andrew-Yang_的核心競選政見是提出名為_自由紅利_freedom-dividend_-_905c829f57285098.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E6%A5%8A%E5%AE%89%E6%BE%A4%EF%BC%88Andrew-Yang%EF%BC  (wayback 20191018065320)
+- `people/andrew-yang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191022072238_wp-content_uploads_2019_10_楊安澤談美中貿易戰_-美製造商與農民無辜受害-218x150_jpg_4cc726347a00d88c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E6%A5%8A%E5%AE%89%E6%BE%A4%E8%AB%87%E7%BE%8E%E4%B8%A  (wayback 20191022072238)
+- `people/andrew-yang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20211101071858_wp-content_uploads_2019_06_楊安澤-Andrew-Yang-100x70_jpg_c8f5d5e98cfe04df.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E6%A5%8A%E5%AE%89%E6%BE%A4-Andrew-Yang-100x70.jpg  (wayback 20211101071858)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045217_wp-content_uploads_2019_11_財團法人陳文成博士紀念基金會2日舉行陳文成事件紀念廣場工程募款記者會_自由時報記者簡榮豐攝_-80x60_904bdf9fb11115ef.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E8%B2%A1%E5%9C%98%E6%B3%95%E4%BA%BA%E9%99%B3%E6%96%8  (wayback 20191115045217)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045218_wp-content_uploads_2019_11_財團法人陳文成博士紀念基金會2日舉行陳文成事件紀念廣場工程募款記者會_自由時報記者簡榮豐攝_-696x4_b3bea68f891896f3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E8%B2%A1%E5%9C%98%E6%B3%95%E4%BA%BA%E9%99%B3%E6%96%8  (wayback 20191115045218)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045238_wp-content_uploads_2019_11_財團法人陳文成博士紀念基金會2日舉行陳文成事件紀念廣場工程募款記者會_自由時報記者簡榮豐攝_-218x1_759edf4eccd90237.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E8%B2%A1%E5%9C%98%E6%B3%95%E4%BA%BA%E9%99%B3%E6%96%8  (wayback 20191115045238)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045238_wp-content_uploads_2019_11_財團法人陳文成博士紀念基金會2日舉行陳文成事件紀念廣場工程募款記者會_自由時報記者簡榮豐攝_-265x1_91da52f8a2e3fc97.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E8%B2%A1%E5%9C%98%E6%B3%95%E4%BA%BA%E9%99%B3%E6%96%8  (wayback 20191115045238)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045239_wp-content_uploads_2019_11_財團法人陳文成博士紀念基金會2日舉行陳文成事件紀念廣場工程募款記者會_自由時報記者簡榮豐攝_-534x4_bd066af7a96fd130.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E8%B2%A1%E5%9C%98%E6%B3%95%E4%BA%BA%E9%99%B3%E6%96%8  (wayback 20191115045239)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608030711_wp-content_uploads_2021_03_贈給-Brahms-榮譽博士學位的德國-Breslau-大學_現在的波蘭Wroclaw-大學_圖採自-C_abe62bd06c194556.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/03/%E8%B4%88%E7%B5%A6-Brahms-%E6%A6%AE%E8%AD%BD%E5%8D%9A  (wayback 20210608030711)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608071837_wp-content_uploads_2021_06_美國國防部負責政策的次長科林_卡爾博士Dr_-Colin-Kahl_右_2021年4月28日宣誓就職後與_3ef91dcc6f796395.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/06/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E9%98%B2%E9%83%A8%E8%B2%A  (wayback 20210608071837)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20211212030013_wp-content_uploads_2021_03_前排左一林木土_-翁俊明旅日明星翁倩玉祖父_杜聰明-台灣首位醫學博士-魏清德_後排右一蔣渭水_jpg_a8e5bc1c247e7a82.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/03/%E5%89%8D%E6%8E%92%E5%B7%A6%E4%B8%80%E6%9E%97%E6%9C%A  (wayback 20211212030013)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323114747_wp-content_uploads_2022_03_林宏榮博士_正念-Mindfulness-對克失智-Dementia-與頑症的探討-218x150_pn_1e16c101c31e3752.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/03/%E6%9E%97%E5%AE%8F%E6%A6%AE%E5%8D%9A%E5%A3%AB%EF%BC%9  (wayback 20220323114747)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323114748_wp-content_uploads_2022_03_林宏榮博士_正念-Mindfulness-對克失智-Dementia-與頑症的探討-100x70_png_38d7ab794543345e.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/03/%E6%9E%97%E5%AE%8F%E6%A6%AE%E5%8D%9A%E5%A3%AB%EF%BC%9  (wayback 20220323114748)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323114903_wp-content_uploads_2022_03_林宏榮博士_正念-Mindfulness-對克失智-Dementia-與頑症的探討-265x198_pn_2a02aad7f4a23497.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/03/%E6%9E%97%E5%AE%8F%E6%A6%AE%E5%8D%9A%E5%A3%AB%EF%BC%9  (wayback 20220323114903)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323114904_wp-content_uploads_2022_03_林宏榮博士_正念-Mindfulness-對克失智-Dementia-與頑症的探討-485x360_pn_8406f21e112f9d54.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/03/%E6%9E%97%E5%AE%8F%E6%A6%AE%E5%8D%9A%E5%A3%AB%EF%BC%9  (wayback 20220323114904)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323114905_wp-content_uploads_2022_03_林宏榮博士_正念-Mindfulness-對克失智-Dementia-與頑症的探討-80x60_png_b3873a3d9f143f81.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/03/%E6%9E%97%E5%AE%8F%E6%A6%AE%E5%8D%9A%E5%A3%AB%EF%BC%9  (wayback 20220323114905)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323120313_wp-content_uploads_2022_03_林宏榮博士_正念-Mindfulness-對克失智-Dementia-與頑症的探討-324x400_pn_47bb78d6f299f4ec.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/03/%E6%9E%97%E5%AE%8F%E6%A6%AE%E5%8D%9A%E5%A3%AB%EF%BC%9  (wayback 20220323120313)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220411093345_wp-content_uploads_2022_04_林茂生博士與博士論文合影-324x400_jpg_1de14056aebe7b26.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E6%9E%97%E8%8C%82%E7%94%9F%E5%8D%9A%E5%A3%AB%E8%88%8  (wayback 20220411093345)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220415221728_wp-content_uploads_2022_04_林茂生博士與博士論文合影_jpg_bcc3950fcd428efd.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E6%9E%97%E8%8C%82%E7%94%9F%E5%8D%9A%E5%A3%AB%E8%88%8  (wayback 20220415221728)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220415221735_wp-content_uploads_2022_04_林茂生博士與博士論文合影-1068x601_jpg_01ec7fc3513e09ed.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E6%9E%97%E8%8C%82%E7%94%9F%E5%8D%9A%E5%A3%AB%E8%88%8  (wayback 20220415221735)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220415221735_wp-content_uploads_2022_04_林茂生博士與博士論文合影-1080x608_jpg_163247d85d57d8dc.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E6%9E%97%E8%8C%82%E7%94%9F%E5%8D%9A%E5%A3%AB%E8%88%8  (wayback 20220415221735)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220415221735_wp-content_uploads_2022_04_林茂生博士與博士論文合影-1536x864_jpg_d711c1483b70da63.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E6%9E%97%E8%8C%82%E7%94%9F%E5%8D%9A%E5%A3%AB%E8%88%8  (wayback 20220415221735)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220415221735_wp-content_uploads_2022_04_林茂生博士與博士論文合影-640x360_jpg_d3bce724a2df260b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E6%9E%97%E8%8C%82%E7%94%9F%E5%8D%9A%E5%A3%AB%E8%88%8  (wayback 20220415221735)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220415221736_wp-content_uploads_2022_04_林茂生博士與博士論文合影-696x385_jpg_6b98bf2082632176.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E6%9E%97%E8%8C%82%E7%94%9F%E5%8D%9A%E5%A3%AB%E8%88%8  (wayback 20220415221736)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220415221739_wp-content_uploads_2022_04_林茂生博士與博士論文合影-768x432_jpg_bf951571be21dcb3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E6%9E%97%E8%8C%82%E7%94%9F%E5%8D%9A%E5%A3%AB%E8%88%8  (wayback 20220415221739)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220415221740_wp-content_uploads_2022_04_林茂生博士與博士論文合影-747x420_jpg_0beb2c5dca9a8298.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E6%9E%97%E8%8C%82%E7%94%9F%E5%8D%9A%E5%A3%AB%E8%88%8  (wayback 20220415221740)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220929052821_wp-content_uploads_2022_09_高虹安博士論文爆涉抄襲-218x150_jpg_cdc188404b007a6f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/09/%E9%AB%98%E8%99%B9%E5%AE%89%E5%8D%9A%E5%A3%AB%E8%AB%9  (wayback 20220929052821)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930203455_wp-content_uploads_2022_09_高虹安博士論文爆涉抄襲-100x70_jpg_d39927668f545019.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/09/%E9%AB%98%E8%99%B9%E5%AE%89%E5%8D%9A%E5%A3%AB%E8%AB%9  (wayback 20220930203455)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221202100344_wp-content_uploads_2022_11_加州史丹佛大學台灣學生會會長林柏廷_右_和博士後研究員吳澍齊_左_談科技業凍結招聘-324x400_jp_1dbe09e75861d7f3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E5%8A%A0%E5%B7%9E%E5%8F%B2%E4%B8%B9%E4%BD%9B%E5%A4%A  (wayback 20221202100344)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221202183758_wp-content_uploads_2022_11_黃春明獲台大名譽博士-80x60_jpg_2237949a8b48222c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E9%BB%83%E6%98%A5%E6%98%8E%E7%8D%B2%E5%8F%B0%E5%A4%A  (wayback 20221202183758)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221203014242_wp-content_uploads_2022_11_黃春明獲台大名譽博士-265x198_jpg_c6e386d8afcba9b3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E9%BB%83%E6%98%A5%E6%98%8E%E7%8D%B2%E5%8F%B0%E5%A4%A  (wayback 20221203014242)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221207195006_wp-content_uploads_2022_11_加州史丹佛大學台灣學生會會長林柏廷_右_和博士後研究員吳澍齊_左_談科技業凍結招聘-100x70_jpg_930cc27a48cafdfa.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E5%8A%A0%E5%B7%9E%E5%8F%B2%E4%B8%B9%E4%BD%9B%E5%A4%A  (wayback 20221207195006)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221207212458_wp-content_uploads_2022_11_加州史丹佛大學台灣學生會會長林柏廷_右_和博士後研究員吳澍齊_左_談科技業凍結招聘-218x150_jp_20246eed31a0a5ac.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E5%8A%A0%E5%B7%9E%E5%8F%B2%E4%B8%B9%E4%BD%9B%E5%A4%A  (wayback 20221207212458)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230103132637_wp-content_uploads_2023_01_台灣中研院生物醫學科學研究所兼任研究員何美鄉博士最近出版一本新書_從一個沒有名字的病開始_美國之音記者陳_5b3a37520021bd70.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/01/%E5%8F%B0%E7%81%A3%E4%B8%AD%E7%A0%94%E9%99%A2%E7%94%9  (wayback 20230103132637)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230103132702_wp-content_uploads_2023_01_台灣中研院生物醫學科學研究所兼任研究員何美鄉博士最近出版一本新書_從一個沒有名字的病開始_美國之音記者陳_eea9c1ce88cdcdf1.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/01/%E5%8F%B0%E7%81%A3%E4%B8%AD%E7%A0%94%E9%99%A2%E7%94%9  (wayback 20230103132702)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230103132749_wp-content_uploads_2023_01_台灣中研院生物醫學科學研究所兼任研究員何美鄉博士最近出版一本新書_從一個沒有名字的病開始_美國之音記者陳_bd93118ed7f441c5.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/01/%E5%8F%B0%E7%81%A3%E4%B8%AD%E7%A0%94%E9%99%A2%E7%94%9  (wayback 20230103132749)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173635_wp-content_uploads_2022_04_林茂生博士與博士論文合影-100x70_jpg_d5e6f129e1920684.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E6%9E%97%E8%8C%82%E7%94%9F%E5%8D%9A%E5%A3%AB%E8%88%8  (wayback 20230222173635)
+- `people/angellee-shaw-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173637_wp-content_uploads_2022_11_黃春明獲台大名譽博士-100x70_jpg_c1ec338defa394c8.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E9%BB%83%E6%98%A5%E6%98%8E%E7%8D%B2%E5%8F%B0%E5%A4%A  (wayback 20230222173637)
+- `people/april-lin` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065318_wp-content_uploads_2019_09_April-林淑卿-100x70_jpg_9ded23ae656ad294.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/09/April-%E6%9E%97%E6%B7%91%E5%8D%BF-100x70.jpg  (wayback 20191018065318)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200618105032_wp-content_uploads_2020_06_總統任命蕭美琴為駐美代表-696x464_jpg_7b741d1a0bbc37bf.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E7%B8%BD%E7%B5%B1%E4%BB%BB%E5%91%BD%E8%95%AD%E7%BE%8  (wayback 20200618105032)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200622104240_wp-content_uploads_2020_06_蕭美琴辭別花蓮將駐美_支持者送祝福-696x385_jpg_a1155934e2c92f6a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E8%95%AD%E7%BE%8E%E7%90%B4%E8%BE%AD%E5%88%A5%E8%8A%B  (wayback 20200622104240)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200622154515_wp-content_uploads_2020_06_蕭美琴辭別花蓮將駐美_支持者送祝福-218x150_jpg_c0a37efa8c805a6a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E8%95%AD%E7%BE%8E%E7%90%B4%E8%BE%AD%E5%88%A5%E8%8A%B  (wayback 20200622154515)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200622203131_wp-content_uploads_2020_06_蕭美琴-324x400_jpg_d7e3ba63ae82c863.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E8%95%AD%E7%BE%8E%E7%90%B4-324x400.jpg  (wayback 20200622203131)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200623022620_wp-content_uploads_2020_06_蕭美琴-218x150_jpg_7f7b85f1c6145dff.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E8%95%AD%E7%BE%8E%E7%90%B4-218x150.jpg  (wayback 20200623022620)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200623031500_wp-content_uploads_2020_06_蕭美琴辭別花蓮將駐美_支持者送祝福-80x60_jpg_32b5ea88899fb915.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E8%95%AD%E7%BE%8E%E7%90%B4%E8%BE%AD%E5%88%A5%E8%8A%B  (wayback 20200623031500)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200623155047_wp-content_uploads_2020_06_蕭美琴辭別花蓮將駐美_支持者送祝福-696x522_jpg_cce51743c9a0a730.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E8%95%AD%E7%BE%8E%E7%90%B4%E8%BE%AD%E5%88%A5%E8%8A%B  (wayback 20200623155047)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200623235822_wp-content_uploads_2020_06_總統任命蕭美琴為駐美代表-324x400_jpg_3f383807f62ebbf3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E7%B8%BD%E7%B5%B1%E4%BB%BB%E5%91%BD%E8%95%AD%E7%BE%8  (wayback 20200623235822)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200624080701_wp-content_uploads_2020_06_總統任命蕭美琴為駐美代表-218x150_jpg_859efd48e0b7c5c3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E7%B8%BD%E7%B5%B1%E4%BB%BB%E5%91%BD%E8%95%AD%E7%BE%8  (wayback 20200624080701)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200625041903_wp-content_uploads_2020_06_蕭美琴辭別花蓮將駐美_支持者送祝福-100x70_jpg_fb99e8a8be75f457.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E8%95%AD%E7%BE%8E%E7%90%B4%E8%BE%AD%E5%88%A5%E8%8A%B  (wayback 20200625041903)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200625152819_wp-content_uploads_2020_06_蕭美琴辭別花蓮將駐美_支持者送祝福-265x198_jpg_0564b9c0c0cb37c9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E8%95%AD%E7%BE%8E%E7%90%B4%E8%BE%AD%E5%88%A5%E8%8A%B  (wayback 20200625152819)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200625213921_wp-content_uploads_2020_06_蕭美琴臉書-辭別花蓮將駐美_jpg_be99ff1dc77dd36e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E8%95%AD%E7%BE%8E%E7%90%B4%E8%87%89%E6%9B%B8-%E8%BE%  (wayback 20200625213921)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200626131831_wp-content_uploads_2020_06_總統任命蕭美琴為駐美代表-100x70_jpg_ed9c9c2c358306c8.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E7%B8%BD%E7%B5%B1%E4%BB%BB%E5%91%BD%E8%95%AD%E7%BE%8  (wayback 20200626131831)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200626143209_wp-content_uploads_2020_06_蕭美琴-265x198_jpg_68c8fa267f635b04.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E8%95%AD%E7%BE%8E%E7%90%B4-265x198.jpg  (wayback 20200626143209)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200626160434_wp-content_uploads_2020_06_蕭美琴-辭別花蓮將駐美_jpg_ca84698089253902.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E8%95%AD%E7%BE%8E%E7%90%B4-%E8%BE%AD%E5%88%A5%E8%8A%  (wayback 20200626160434)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200627003735_wp-content_uploads_2020_06_蕭美琴辭別花蓮將駐美_支持者送祝福-534x462_jpg_188680741ef5de8f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E8%95%AD%E7%BE%8E%E7%90%B4%E8%BE%AD%E5%88%A5%E8%8A%B  (wayback 20200627003735)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200720122755_wp-content_uploads_2020_07_新駐美大使蕭美琴-AIT處長酈英傑-出席臺美國會議員聯誼會成立大會-218x150_jpg_d9945a7d07cba96e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/07/%E6%96%B0%E9%A7%90%E7%BE%8E%E5%A4%A7%E4%BD%BF%E8%95%A  (wayback 20200720122755)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200724163344_wp-content_uploads_2020_06_總統任命蕭美琴為駐美代表-265x198_jpg_6025229ee0a1a081.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E7%B8%BD%E7%B5%B1%E4%BB%BB%E5%91%BD%E8%95%AD%E7%BE%8  (wayback 20200724163344)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200827032305_wp-content_uploads_2020_06_蕭美琴-100x70_jpg_d2acb7be1f71e790.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E8%95%AD%E7%BE%8E%E7%90%B4-100x70.jpg  (wayback 20200827032305)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200829172626_wp-content_uploads_2020_08_蕭美琴_jpg_fea7910acb7e100e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E8%95%AD%E7%BE%8E%E7%90%B4.jpg  (wayback 20200829172626)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200907072808_wp-content_uploads_2020_07_蕭美琴-2-265x198_jpg_32a4c40ee525e8c9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/07/%E8%95%AD%E7%BE%8E%E7%90%B4-2-265x198.jpg  (wayback 20200907072808)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200908065443_wp-content_uploads_2020_08_駐美代表蕭美琴3日與媒體茶敘-80x60_jpg_a4cdc6db09f8b64a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A8%E8%95%AD%E7%BE%8  (wayback 20200908065443)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200909101930_wp-content_uploads_2020_07_蕭美琴-265x198_jpg_4ced10856849e40e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/07/%E8%95%AD%E7%BE%8E%E7%90%B4-265x198.jpg  (wayback 20200909101930)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200921222356_wp-content_uploads_2020_07_蕭美琴-1-534x462_jpg_0673a3967014c31e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/07/%E8%95%AD%E7%BE%8E%E7%90%B4-1-534x462.jpg  (wayback 20200921222356)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201017085951_wp-content_uploads_2020_09_台灣駐美代表蕭美琴-2020年9月1日美國之音鍾辰芳拍攝-100x70_jpg_24647ac1c149c0c9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/09/%E5%8F%B0%E7%81%A3%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A  (wayback 20201017085951)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201017143344_wp-content_uploads_2020_08_蕭美琴-1-100x70_jpg_0b0c7cd2d1815226.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E8%95%AD%E7%BE%8E%E7%90%B4-1-100x70.jpg  (wayback 20201017143344)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201018050641_wp-content_uploads_2020_10_蕭美琴-100x70_jpg_3a07135a9583beb9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/10/%E8%95%AD%E7%BE%8E%E7%90%B4-100x70.jpg  (wayback 20201018050641)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201021175438_wp-content_uploads_2020_08_駐美代表蕭美琴3日與媒體茶敘-100x70_jpg_a00be41db0945e9e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A8%E8%95%AD%E7%BE%8  (wayback 20201021175438)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201023072320_wp-content_uploads_2020_09_駐美代表蕭美琴個人自我簡介為Taiwan-Ambassador-to-the-US_台灣駐美大使_-10_95b6d8a9782c6004.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/09/%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A8%E8%95%AD%E7%BE%8  (wayback 20201023072320)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201027070810_wp-content_uploads_2020_08_蕭美琴-1-218x150_jpg_36e4dc504e09de57.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E8%95%AD%E7%BE%8E%E7%90%B4-1-218x150.jpg  (wayback 20201027070810)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201113040911_wp-content_uploads_2020_11_蕭美琴-218x150_jpg_115e43115fd6ea81.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/11/%E8%95%AD%E7%BE%8E%E7%90%B4-218x150.jpg  (wayback 20201113040911)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608030924_wp-content_uploads_2021_02_蕭美琴-1-324x400_jpg_491584c133437734.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/02/%E8%95%AD%E7%BE%8E%E7%90%B4-1-324x400.jpg  (wayback 20210608030924)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608030958_wp-content_uploads_2021_06_駐美代表蕭美琴_左_當面向日本駐美大使富田浩司_右_表達感謝之意_謝謝日本雪中送炭-218x150_jp_53174a6c2effff6e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/06/%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A8%E8%95%AD%E7%BE%8  (wayback 20210608030958)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608043400_wp-content_uploads_2021_06_駐美代表蕭美琴_左_當面向日本駐美大使富田浩司_右_表達感謝之意_謝謝日本雪中送炭-696x392_jp_7a89b2c0d7f6211a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/06/%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A8%E8%95%AD%E7%BE%8  (wayback 20210608043400)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608043545_wp-content_uploads_2020_11_蕭美琴-3-100x70_jpg_8e5fa93b6ac1a42e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/11/%E8%95%AD%E7%BE%8E%E7%90%B4-3-100x70.jpg  (wayback 20210608043545)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608043549_wp-content_uploads_2021_04_蕭美琴-100x70_jpg_289f81d938e5439f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/04/%E8%95%AD%E7%BE%8E%E7%90%B4-100x70.jpg  (wayback 20210608043549)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608043552_wp-content_uploads_2021_06_駐美代表蕭美琴_左_當面向日本駐美大使富田浩司_右_表達感謝之意_謝謝日本雪中送炭-265x198_jp_75bf68f6932e2fc8.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/06/%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A8%E8%95%AD%E7%BE%8  (wayback 20210608043552)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608043610_wp-content_uploads_2021_02_蕭美琴-1-265x198_jpg_d9d548bc0e52e103.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/02/%E8%95%AD%E7%BE%8E%E7%90%B4-1-265x198.jpg  (wayback 20210608043610)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608071907_wp-content_uploads_2021_06_駐美代表蕭美琴_左_當面向日本駐美大使富田浩司_右_表達感謝之意_謝謝日本雪中送炭-100x70_jpg_36ee3ab57853b053.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/06/%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A8%E8%95%AD%E7%BE%8  (wayback 20210608071907)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608102224_wp-content_uploads_2021_02_蕭美琴-1-218x150_jpg_d67a539311079808.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/02/%E8%95%AD%E7%BE%8E%E7%90%B4-1-218x150.jpg  (wayback 20210608102224)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210821125021_wp-content_uploads_2020_09_台灣駐美代表蕭美琴-2020年9月1日美國之音鍾辰芳拍攝-218x150_jpg_161a975b4b7d71f4.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/09/%E5%8F%B0%E7%81%A3%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A  (wayback 20210821125021)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20211021231918_wp-content_uploads_2021_10_駐美代表蕭美琴-100x70_jpg_27fee50a67a00647.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/10/%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A8%E8%95%AD%E7%BE%8  (wayback 20211021231918)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20211022161333_wp-content_uploads_2021_10_美國國務院亞太助卿康達_Daniel-Kritenbrink_與蕭美琴會晤-265x198_jpg_69634a46053ae72f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/10/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E5%8B%99%E9%99%A2%E4%BA%9  (wayback 20211022161333)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20211101071918_wp-content_uploads_2021_10_駐美代表蕭美琴_白色外套_10日出席華府僑界國慶升旗典禮-100x70_jpg_680b917447339424.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/10/%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A8%E8%95%AD%E7%BE%8  (wayback 20211101071918)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220202164045_wp-content_uploads_2022_01_蕭美琴-324x400_png_1c22fcac9fc7b661.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/%E8%95%AD%E7%BE%8E%E7%90%B4-324x400.png  (wayback 20220202164045)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220207200155_wp-content_uploads_2022_01_蕭美琴-100x70_png_e61bfcef31bd3398.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/%E8%95%AD%E7%BE%8E%E7%90%B4-100x70.png  (wayback 20220207200155)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220301045357_wp-content_uploads_2022_02_Michele-Sison-晤-蕭美琴-696x482_png_8d961a35b43462a8.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/02/Michele-Sison-%E6%99%A4-%E8%95%AD%E7%BE%8E%E7%90%B4-6  (wayback 20220301045357)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220301084933_wp-content_uploads_2022_02_Michele-Sison-晤-蕭美琴-606x420_png_66d1ffe75ac380c9.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/02/Michele-Sison-%E6%99%A4-%E8%95%AD%E7%BE%8E%E7%90%B4-6  (wayback 20220301084933)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220301084950_wp-content_uploads_2022_02_Michele-Sison-晤-蕭美琴-100x70_png_eef60ef38d2d630d.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/02/Michele-Sison-%E6%99%A4-%E8%95%AD%E7%BE%8E%E7%90%B4-1  (wayback 20220301084950)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220301084950_wp-content_uploads_2022_02_Michele-Sison-晤-蕭美琴-218x150_png_0c9e831d985313c4.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/02/Michele-Sison-%E6%99%A4-%E8%95%AD%E7%BE%8E%E7%90%B4-2  (wayback 20220301084950)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220301085010_wp-content_uploads_2022_02_Michele-Sison-晤-蕭美琴-768x532_png_d25af24deaad5442.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/02/Michele-Sison-%E6%99%A4-%E8%95%AD%E7%BE%8E%E7%90%B4-7  (wayback 20220301085010)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220301101323_wp-content_uploads_2022_02_Michele-Sison-晤-蕭美琴_png_76a449c877637a58.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/02/Michele-Sison-%E6%99%A4-%E8%95%AD%E7%BE%8E%E7%90%B4.p  (wayback 20220301101323)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220301111601_wp-content_uploads_2022_02_Michele-Sison-晤-蕭美琴-640x444_png_d3b3448416386e37.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/02/Michele-Sison-%E6%99%A4-%E8%95%AD%E7%BE%8E%E7%90%B4-6  (wayback 20220301111601)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220306043812_wp-content_uploads_2022_02_Michele-Sison-晤-蕭美琴-324x400_png_754bce531ea2baf9.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/02/Michele-Sison-%E6%99%A4-%E8%95%AD%E7%BE%8E%E7%90%B4-3  (wayback 20220306043812)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220726140718_wp-content_uploads_2020_11_蕭美琴-3-218x150_jpg_6cc29977580d4276.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/11/%E8%95%AD%E7%BE%8E%E7%90%B4-3-218x150.jpg  (wayback 20220726140718)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220927085821_wp-content_uploads_2022_08_駐美代表蕭美琴-218x150_jpg_664654e41100b864.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A8%E8%95%AD%E7%BE%8  (wayback 20220927085821)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221001184744_wp-content_uploads_2022_09_蕭美琴-100x70_jpg_f6d2101c9a6f1412.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/09/%E8%95%AD%E7%BE%8E%E7%90%B4-100x70.jpg  (wayback 20221001184744)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221001184745_wp-content_uploads_2022_09_蕭美琴-218x150_jpg_c4cb363d52d31001.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/09/%E8%95%AD%E7%BE%8E%E7%90%B4-218x150.jpg  (wayback 20221001184745)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230103132645_wp-content_uploads_2023_01_駐美代表蕭美琴-324x400_jpg_277f6d61bf65e180.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/01/%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A8%E8%95%AD%E7%BE%8  (wayback 20230103132645)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230201064832_wp-content_uploads_2023_01_蕭美琴出席灣區僑界年會-696x392_jpg_9289293f2eba61d4.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/01/%E8%95%AD%E7%BE%8E%E7%90%B4%E5%87%BA%E5%B8%AD%E7%81%A  (wayback 20230201064832)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173434_wp-content_uploads_2023_02_駐美代表蕭美琴近日首度返台述職_7日下午與媒體茶敘_中央社記者游凱翔攝-112年2月7日-324x400_361c235eede3e0ea.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/02/%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A8%E8%95%AD%E7%BE%8  (wayback 20230222173434)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173633_wp-content_uploads_2023_01_蕭美琴出席灣區僑界年會-100x70_jpg_f81bd354c5dd61c6.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/01/%E8%95%AD%E7%BE%8E%E7%90%B4%E5%87%BA%E5%B8%AD%E7%81%A  (wayback 20230222173633)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173633_wp-content_uploads_2023_02_駐美代表蕭美琴近日首度返台述職_7日下午與媒體茶敘_中央社記者游凱翔攝-112年2月7日-100x70_9af5a0d7448f3dcc.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/02/%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A8%E8%95%AD%E7%BE%8  (wayback 20230222173633)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173638_wp-content_uploads_2023_01_駐美代表蕭美琴20日接受美聯社專訪表示_北京領導階層無權決定或定義台灣如何與世界打交道_美聯社_-100_1ce9285f2d612325.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/01/%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A8%E8%95%AD%E7%BE%8  (wayback 20230222173638)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230609044852_wp-content_uploads_2023_06_蕭美琴VOA-696x395_png_b4470e7133e19305.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E8%95%AD%E7%BE%8E%E7%90%B4VOA-696x395.png  (wayback 20230609044852)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716161206_wp-content_uploads_2023_06_台美21世紀貿易倡議首批協定於華府美國在台協會_AIT_總部_由駐美代表蕭美琴_前左_與AIT執行理事藍_5a7f2ee3a6d67a46.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E5%8F%B0%E7%BE%8E21%E4%B8%96%E7%B4%80%E8%B2%BF%E6%98  (wayback 20230716161206)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716161207_wp-content_uploads_2023_06_台美21世紀貿易倡議首批協定於華府美國在台協會_AIT_總部_由駐美代表蕭美琴_前左_與AIT執行理事藍_3c8138f99bd28e89.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E5%8F%B0%E7%BE%8E21%E4%B8%96%E7%B4%80%E8%B2%BF%E6%98  (wayback 20230716161207)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716200524_wp-content_uploads_2023_06_台美21世紀貿易倡議首批協定於華府美國在台協會_AIT_總部_由駐美代表蕭美琴_前左_與AIT執行理事藍_d2ce96f8d7504b1b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E5%8F%B0%E7%BE%8E21%E4%B8%96%E7%B4%80%E8%B2%BF%E6%98  (wayback 20230716200524)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20231206034020_wp-content_uploads_2020_07_蕭美琴在駐處門口的照片_jpg_09a4fb65a049ce2e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/07/%E8%95%AD%E7%BE%8E%E7%90%B4%E5%9C%A8%E9%A7%90%E8%99%9  (wayback 20231206034020)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20231206034023_wp-content_uploads_2020_07_蕭美琴在駐處門口的照片-265x198_jpg_53706f1933bb895b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/07/%E8%95%AD%E7%BE%8E%E7%90%B4%E5%9C%A8%E9%A7%90%E8%99%9  (wayback 20231206034023)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20231206034023_wp-content_uploads_2020_07_蕭美琴在駐處門口的照片-561x420_jpg_87d721900602021a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/07/%E8%95%AD%E7%BE%8E%E7%90%B4%E5%9C%A8%E9%A7%90%E8%99%9  (wayback 20231206034023)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20231206034023_wp-content_uploads_2020_07_蕭美琴在駐處門口的照片-640x479_jpg_a7da1486547bcd67.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/07/%E8%95%AD%E7%BE%8E%E7%90%B4%E5%9C%A8%E9%A7%90%E8%99%9  (wayback 20231206034023)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20231206034023_wp-content_uploads_2020_07_蕭美琴在駐處門口的照片-696x521_jpg_cea8e3856c81bb04.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/07/%E8%95%AD%E7%BE%8E%E7%90%B4%E5%9C%A8%E9%A7%90%E8%99%9  (wayback 20231206034023)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20231206034023_wp-content_uploads_2020_07_蕭美琴在駐處門口的照片-768x575_jpg_a75e836338519ffd.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/07/%E8%95%AD%E7%BE%8E%E7%90%B4%E5%9C%A8%E9%A7%90%E8%99%9  (wayback 20231206034023)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20231206034023_wp-content_uploads_2020_07_蕭美琴在駐處門口的照片-80x60_jpg_199fc483c4fc2845.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/07/%E8%95%AD%E7%BE%8E%E7%90%B4%E5%9C%A8%E9%A7%90%E8%99%9  (wayback 20231206034023)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104022422_wp-content_uploads_2020_07_新任駐美代表蕭美琴_左_與美國在台協會_AIT_處長酈英傑_Brent-Christensen_右_出席_954473375b2db450.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/07/%E6%96%B0%E4%BB%BB%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A  (wayback 20240104022422)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104122820_wp-content_uploads_2020_07_新任駐美代表蕭美琴_左_與美國在台協會_AIT_處長酈英傑_Brent-Christensen_右_出席_34b8cdca2074dbd5.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/07/%E6%96%B0%E4%BB%BB%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A  (wayback 20240104122820)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104123508_wp-content_uploads_2020_07_新任駐美代表蕭美琴_左_與美國在台協會_AIT_處長酈英傑_Brent-Christensen_右_出席_0e859e503b260796.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/07/%E6%96%B0%E4%BB%BB%E9%A7%90%E7%BE%8E%E4%BB%A3%E8%A1%A  (wayback 20240104123508)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240506194015_wp-content_uploads_2024_04_蕭美琴-1-696x385_jpg_520b84fb39a45d31.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/04/%E8%95%AD%E7%BE%8E%E7%90%B4-1-696x385.jpg  (wayback 20240506194015)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240730033456_wp-content_uploads_2024_07_副總統蕭美琴29日在台北賓館接見_對中政策跨國議會聯盟_IPAC_訪團_總統府提供_中央社記者葉素萍傳真_973b5363d3b1bd5c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/07/%E5%89%AF%E7%B8%BD%E7%B5%B1%E8%95%AD%E7%BE%8E%E7%90%B  (wayback 20240730033456)
+- `people/bi-khim-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240730033456_wp-content_uploads_2024_07_副總統蕭美琴29日接見_對中政策跨國議會聯盟_訪團_盼共同合作確保民主_和平與繁榮等價值_總統府提供_中_23418098ff770534.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/07/%E5%89%AF%E7%B8%BD%E7%B5%B1%E8%95%AD%E7%BE%8E%E7%90%B  (wayback 20240730033456)
+- `people/chao-nan-liu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173548_wp-content_uploads_2020_10_劉照男與夫人張秀美-100x70_png_ef68f6e5b05e9825.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/10/%E5%8A%89%E7%85%A7%E7%94%B7%E8%88%87%E5%A4%AB%E4%BA%B  (wayback 20230222173548)
+- `people/chen-maoxiong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201230091024_wp-content_uploads_2011_12_chen-mao-xiung1陳茂雄_jpg_0398dfa77fdcee9c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2011/12/chen-mao-xiung1%E9%99%B3%E8%8C%82%E9%9B%84.jpg  (wayback 20201230091024)
+- `people/chen-shuibian` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190529212431_wp-content_uploads_2014_09_陳水扁_jpg_19b2dcab82fec9e1.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2014/09/%E9%99%B3%E6%B0%B4%E6%89%81.jpg  (wayback 20190529212431)
+- `people/chen-shuibian` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065323_wp-content_uploads_2014_09_陳水扁-174x131_jpg_be0bcc44122766fb.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2014/09/%E9%99%B3%E6%B0%B4%E6%89%81-174x131.jpg  (wayback 20191018065323)
+- `people/chen-shuibian` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210107065747_wp-content_uploads_2020_12_陳水扁-218x150_jpg_f1958f5f830a953e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/12/%E9%99%B3%E6%B0%B4%E6%89%81-218x150.jpg  (wayback 20210107065747)
+- `people/chen-shuibian` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220615052342_wp-content_uploads_2022_06_吳淑珍染疫_服藥後仍反覆發燒退燒_阿扁十分擔憂_取自陳水扁新勇哥物語臉書_-218x150_jpg_b0fe442c41bdf47b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E5%90%B3%E6%B7%91%E7%8F%8D%E6%9F%93%E7%96%AB%EF%BC%8  (wayback 20220615052342)
+- `people/chen-shuibian` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220619011830_wp-content_uploads_2022_06_吳淑珍染疫_服藥後仍反覆發燒退燒_阿扁十分擔憂_取自陳水扁新勇哥物語臉書_-100x70_jpg_bea720c4256bb909.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E5%90%B3%E6%B7%91%E7%8F%8D%E6%9F%93%E7%96%AB%EF%BC%8  (wayback 20220619011830)
+- `people/chen-shuibian` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221130170829_wp-content_uploads_2017_02_1985年_陳水扁_黃天福中_李逸洋右因蓬萊島案文字獄_特別拍了入獄前歷史性照片-768x513_jpg_9073f941b69fac47.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2017/02/1985%E5%B9%B4%EF%BC%8C%E9%99%B3%E6%B0%B4%E6%89%81%E3%  (wayback 20221130170829)
+- `people/chen-shuibian` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221130170840_wp-content_uploads_2018_03_前總統陳水扁_前右_與兒子陳致中-324x160_jpg_44a2c8ad1df5dc26.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/03/%E5%89%8D%E7%B8%BD%E7%B5%B1%E9%99%B3%E6%B0%B4%E6%89%8  (wayback 20221130170840)
+- `people/chen-shuibian` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221130172334_wp-content_uploads_2018_03_前總統陳水扁_前右_與兒子陳致中-533x261_jpg_5a14b553f879d565.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/03/%E5%89%8D%E7%B8%BD%E7%B5%B1%E9%99%B3%E6%B0%B4%E6%89%8  (wayback 20221130172334)
+- `people/chen-shuibian` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221130172335_wp-content_uploads_2020_12_陳水扁-324x160_jpg_5614d1397823cf7e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/12/%E9%99%B3%E6%B0%B4%E6%89%81-324x160.jpg  (wayback 20221130172335)
+- `people/chen-shuibian` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240525225912_wp-content_uploads_2013_06_台灣前總統陳水扁被銬並高舉雙手_jpg_94f9d0e46c9f279d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2013/06/%E5%8F%B0%E7%81%A3%E5%89%8D%E7%B8%BD%E7%B5%B1%E9%99%B  (wayback 20240525225912)
+- `people/chen-shuibian` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240525233046_wp-content_uploads_2013_06_台灣前總統陳水扁被銬並高舉雙手-480x356_jpg_0fb692f56af74a87.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2013/06/%E5%8F%B0%E7%81%A3%E5%89%8D%E7%B8%BD%E7%B5%B1%E9%99%B  (wayback 20240525233046)
+- `people/chen-shuibian` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240526115018_wp-content_uploads_2013_06_台灣前總統陳水扁被銬並高舉雙手-800x594_jpg_35202efbe90a22ac.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2013/06/%E5%8F%B0%E7%81%A3%E5%89%8D%E7%B8%BD%E7%B5%B1%E9%99%B  (wayback 20240526115018)
+- `people/chen-shuibian` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240527004856_wp-content_uploads_2013_06_台灣前總統陳水扁被銬並高舉雙手-300x222_jpg_0763d3e4337d7989.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2013/06/%E5%8F%B0%E7%81%A3%E5%89%8D%E7%B8%BD%E7%B5%B1%E9%99%B  (wayback 20240527004856)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221207215637_wp-content_uploads_2022_10_到底誰要_抗中保台_反正說謊又不必繳稅_-_-陳昭南-100x70_jpg_99d9a5f881949d76.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/10/%E5%88%B0%E5%BA%95%E8%AA%B0%E8%A6%81%E3%80%8C%E6%8A%9  (wayback 20221207215637)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221208073503_wp-content_uploads_2022_10_到底誰要_抗中保台_反正說謊又不必繳稅_-_-陳昭南-218x150_jpg_e210f46a071eb7f9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/10/%E5%88%B0%E5%BA%95%E8%AA%B0%E8%A6%81%E3%80%8C%E6%8A%9  (wayback 20221208073503)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221214122818_wp-content_uploads_2022_12_陳昭南_台灣之危_-100x70_png_6842661071fbab7c.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/12/%E9%99%B3%E6%98%AD%E5%8D%97%E3%80%8C%E5%8F%B0%E7%81%A  (wayback 20221214122818)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221214122818_wp-content_uploads_2022_12_陳昭南_台灣之危_-218x150_png_9f7a5c91d3069851.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/12/%E9%99%B3%E6%98%AD%E5%8D%97%E3%80%8C%E5%8F%B0%E7%81%A  (wayback 20221214122818)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230103132635_wp-content_uploads_2022_12_郭台銘搖首擺尾舞文弄墨_可惜不懂用典自曝其短_陳昭南-560x420_jpg_8ebf2ef1fdae3d82.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/12/%E9%83%AD%E5%8F%B0%E9%8A%98%E6%90%96%E9%A6%96%E6%93%B  (wayback 20230103132635)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230103132636_wp-content_uploads_2022_12_郭台銘搖首擺尾舞文弄墨_可惜不懂用典自曝其短_陳昭南-80x60_jpg_6c0eecf00ab18b14.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/12/%E9%83%AD%E5%8F%B0%E9%8A%98%E6%90%96%E9%A6%96%E6%93%B  (wayback 20230103132636)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230103132639_wp-content_uploads_2022_12_郭台銘搖首擺尾舞文弄墨_可惜不懂用典自曝其短_陳昭南-640x480_jpg_1daee2ac3aa4e051.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/12/%E9%83%AD%E5%8F%B0%E9%8A%98%E6%90%96%E9%A6%96%E6%93%B  (wayback 20230103132639)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230103132640_wp-content_uploads_2022_12_郭台銘搖首擺尾舞文弄墨_可惜不懂用典自曝其短_陳昭南-485x360_jpg_a26ff26ac0b7338d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/12/%E9%83%AD%E5%8F%B0%E9%8A%98%E6%90%96%E9%A6%96%E6%93%B  (wayback 20230103132640)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230103132656_wp-content_uploads_2022_12_郭台銘搖首擺尾舞文弄墨_可惜不懂用典自曝其短_陳昭南_jpg_ba598a31c49170bd.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/12/%E9%83%AD%E5%8F%B0%E9%8A%98%E6%90%96%E9%A6%96%E6%93%B  (wayback 20230103132656)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230103132717_wp-content_uploads_2022_12_郭台銘搖首擺尾舞文弄墨_可惜不懂用典自曝其短_陳昭南-696x522_jpg_1888b13740c4cb01.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/12/%E9%83%AD%E5%8F%B0%E9%8A%98%E6%90%96%E9%A6%96%E6%93%B  (wayback 20230103132717)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230103132726_wp-content_uploads_2022_12_郭台銘搖首擺尾舞文弄墨_可惜不懂用典自曝其短_陳昭南-265x198_jpg_25bc8f1283c0f663.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/12/%E9%83%AD%E5%8F%B0%E9%8A%98%E6%90%96%E9%A6%96%E6%93%B  (wayback 20230103132726)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131623_wp-content_uploads_2023_05_嚴懲學生的歧視語言_卻輕縱政治人物的惡績_-_-陳昭南-640x480_jpg_b8f4c760d58bde16.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E5%9A%B4%E6%87%B2%E5%AD%B8%E7%94%9F%E7%9A%84%E6%AD%A  (wayback 20230605131623)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131623_wp-content_uploads_2023_05_嚴懲學生的歧視語言_卻輕縱政治人物的惡績_-_-陳昭南-80x60_jpg_f44d9e64452c56f6.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E5%9A%B4%E6%87%B2%E5%AD%B8%E7%94%9F%E7%9A%84%E6%AD%A  (wayback 20230605131623)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131624_wp-content_uploads_2023_05_嚴懲學生的歧視語言_卻輕縱政治人物的惡績_-_-陳昭南-485x360_jpg_d2aaa9ff34313e61.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E5%9A%B4%E6%87%B2%E5%AD%B8%E7%94%9F%E7%9A%84%E6%AD%A  (wayback 20230605131624)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131624_wp-content_uploads_2023_05_嚴懲學生的歧視語言_卻輕縱政治人物的惡績_-_-陳昭南-696x522_jpg_86ce698f4a08d504.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E5%9A%B4%E6%87%B2%E5%AD%B8%E7%94%9F%E7%9A%84%E6%AD%A  (wayback 20230605131624)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131625_wp-content_uploads_2023_05_嚴懲學生的歧視語言_卻輕縱政治人物的惡績_-_-陳昭南-560x420_jpg_f94dba0b24be8937.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E5%9A%B4%E6%87%B2%E5%AD%B8%E7%94%9F%E7%9A%84%E6%AD%A  (wayback 20230605131625)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131626_wp-content_uploads_2023_05_嚴懲學生的歧視語言_卻輕縱政治人物的惡績_-_-陳昭南-265x198_jpg_9b5f635d681c088d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E5%9A%B4%E6%87%B2%E5%AD%B8%E7%94%9F%E7%9A%84%E6%AD%A  (wayback 20230605131626)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131626_wp-content_uploads_2023_05_嚴懲學生的歧視語言_卻輕縱政治人物的惡績_-_-陳昭南_jpg_6daf0d39341d523a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E5%9A%B4%E6%87%B2%E5%AD%B8%E7%94%9F%E7%9A%84%E6%AD%A  (wayback 20230605131626)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230609044848_wp-content_uploads_2023_06_這種吃相的政治人物要選總統_台灣人丟不丟臉_-_陳昭南-560x420_jpg_d623978524c7ff18.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E9%80%99%E7%A8%AE%E5%90%83%E7%9B%B8%E7%9A%84%E6%94%B  (wayback 20230609044848)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230609044952_wp-content_uploads_2023_06_這種吃相的政治人物要選總統_台灣人丟不丟臉_-_陳昭南-696x522_jpg_5ba7ed80acb9b3e7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E9%80%99%E7%A8%AE%E5%90%83%E7%9B%B8%E7%9A%84%E6%94%B  (wayback 20230609044952)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230609045010_wp-content_uploads_2023_06_這種吃相的政治人物要選總統_台灣人丟不丟臉_-_陳昭南-485x360_jpg_ff8d7865bf617726.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E9%80%99%E7%A8%AE%E5%90%83%E7%9B%B8%E7%9A%84%E6%94%B  (wayback 20230609045010)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230609045018_wp-content_uploads_2023_06_這種吃相的政治人物要選總統_台灣人丟不丟臉_-_陳昭南-640x480_jpg_85bc7d4e1c1c7623.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E9%80%99%E7%A8%AE%E5%90%83%E7%9B%B8%E7%9A%84%E6%94%B  (wayback 20230609045018)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230609045508_wp-content_uploads_2023_06_這種吃相的政治人物要選總統_台灣人丟不丟臉_-_陳昭南_jpg_001e53b5eec91758.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E9%80%99%E7%A8%AE%E5%90%83%E7%9B%B8%E7%9A%84%E6%94%B  (wayback 20230609045508)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230609060009_wp-content_uploads_2023_06_這種吃相的政治人物要選總統_台灣人丟不丟臉_-_陳昭南-265x198_jpg_94b6a84c7d163a6e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E9%80%99%E7%A8%AE%E5%90%83%E7%9B%B8%E7%9A%84%E6%94%B  (wayback 20230609060009)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230610011508_wp-content_uploads_2023_06_這種吃相的政治人物要選總統_台灣人丟不丟臉_-_陳昭南-80x60_jpg_bf50b02acbc2ed14.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E9%80%99%E7%A8%AE%E5%90%83%E7%9B%B8%E7%9A%84%E6%94%B  (wayback 20230610011508)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104233624_wp-content_uploads_2023_06_這種吃相的政治人物要選總統_台灣人丟不丟臉_-_陳昭南-218x150_jpg_0954bd6c9b33c48f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E9%80%99%E7%A8%AE%E5%90%83%E7%9B%B8%E7%9A%84%E6%94%B  (wayback 20240104233624)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104233927_wp-content_uploads_2023_06_這種吃相的政治人物要選總統_台灣人丟不丟臉_-_陳昭南-100x70_jpg_c165e40d03bf90b5.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E9%80%99%E7%A8%AE%E5%90%83%E7%9B%B8%E7%9A%84%E6%94%B  (wayback 20240104233927)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104234321_wp-content_uploads_2023_05_嚴懲學生的歧視語言_卻輕縱政治人物的惡績_-_-陳昭南-100x70_jpg_4635bd90f0475072.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E5%9A%B4%E6%87%B2%E5%AD%B8%E7%94%9F%E7%9A%84%E6%AD%A  (wayback 20240104234321)
+- `people/chen-zhaonan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104234531_wp-content_uploads_2023_05_嚴懲學生的歧視語言_卻輕縱政治人物的惡績_-_-陳昭南-218x150_jpg_3874a77973021a66.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E5%9A%B4%E6%87%B2%E5%AD%B8%E7%94%9F%E7%9A%84%E6%AD%A  (wayback 20240104234531)
+- `people/ching-ching-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173615_wp-content_uploads_2022_11_藝術家鄭青青將於Pasadena圖書館舉辦三場台灣布袋戲偶製作免費教學活動-100x70_jpg_494ecfbfbf69ace2.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E8%97%9D%E8%A1%93%E5%AE%B6%E9%84%AD%E9%9D%92%E9%9D%9  (wayback 20230222173615)
+- `people/chingmhu-lee` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131440_wp-content_uploads_2023_06_李清木-100x70_jpg_95b862c2bb8c47f2.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E6%9D%8E%E6%B8%85%E6%9C%A8-100x70.jpg  (wayback 20230605131440)
+- `people/chingmhu-lee` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131440_wp-content_uploads_2023_06_李清木-218x150_jpg_31a9e630421e430a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E6%9D%8E%E6%B8%85%E6%9C%A8-218x150.jpg  (wayback 20230605131440)
+- `people/chingmhu-lee` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131506_wp-content_uploads_2023_06_李清木-265x198_jpg_5fdb6630df695057.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E6%9D%8E%E6%B8%85%E6%9C%A8-265x198.jpg  (wayback 20230605131506)
+- `people/chingmhu-lee` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131506_wp-content_uploads_2023_06_李清木-80x60_jpg_766f69ebfe8a54c1.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E6%9D%8E%E6%B8%85%E6%9C%A8-80x60.jpg  (wayback 20230605131506)
+- `people/chingmhu-lee` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230609045109_wp-content_uploads_2023_06_李清木-324x400_jpg_13bdf2e624d62abc.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E6%9D%8E%E6%B8%85%E6%9C%A8-324x400.jpg  (wayback 20230609045109)
+- `people/chuang-shien-lu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220912121750_wp-content_uploads_2022_08_杯底不可飼金魚這首歌由呂泉生_右2_作曲_陳大禹作詞_至今仍膾炙人口_中央社檔案照片_-265x198_b97aa6218b42c975.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E6%9D%AF%E5%BA%95%E4%B8%8D%E5%8F%AF%E9%A3%BC%E9%87%9  (wayback 20220912121750)
+- `people/chuang-shien-lu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220912121751_wp-content_uploads_2022_08_杯底不可飼金魚這首歌由呂泉生_右2_作曲_陳大禹作詞_至今仍膾炙人口_中央社檔案照片_-485x360_a475c855112e2ac9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E6%9D%AF%E5%BA%95%E4%B8%8D%E5%8F%AF%E9%A3%BC%E9%87%9  (wayback 20220912121751)
+- `people/chuang-shien-lu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220912121816_wp-content_uploads_2022_08_杯底不可飼金魚這首歌由呂泉生_右2_作曲_陳大禹作詞_至今仍膾炙人口_中央社檔案照片_-80x60_jp_0a31bd3ba56c0c94.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E6%9D%AF%E5%BA%95%E4%B8%8D%E5%8F%AF%E9%A3%BC%E9%87%9  (wayback 20220912121816)
+- `people/chuang-shien-lu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173641_wp-content_uploads_2022_08_杯底不可飼金魚這首歌由呂泉生_右2_作曲_陳大禹作詞_至今仍膾炙人口_中央社檔案照片_-100x70_j_249637722aa44455.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E6%9D%AF%E5%BA%95%E4%B8%8D%E5%8F%AF%E9%A3%BC%E9%87%9  (wayback 20230222173641)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190626060141_wp-content_uploads_2019_06_清大材料系教授_OLED照明團隊召集人周卓煇-80x60_jpg_6a72d2f7e2a5d22c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E6%B8%85%E5%A4%A7%E6%9D%90%E6%96%99%E7%B3%BB%E6%95%9  (wayback 20190626060141)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190626060152_wp-content_uploads_2019_06_清大材料系教授_OLED照明團隊召集人周卓煇-265x198_jpg_5385c721f407ad37.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E6%B8%85%E5%A4%A7%E6%9D%90%E6%96%99%E7%B3%BB%E6%95%9  (wayback 20190626060152)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190626060203_wp-content_uploads_2019_06_清大材料系教授_OLED照明團隊召集人周卓煇-485x360_jpg_3d24dd3faa9edd8f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E6%B8%85%E5%A4%A7%E6%9D%90%E6%96%99%E7%B3%BB%E6%95%9  (wayback 20190626060203)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200627131018_wp-content_uploads_2020_06_湖北大學教授梁艷萍-100x70_jpg_19a4a9b8791d7bfc.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E6%B9%96%E5%8C%97%E5%A4%A7%E5%AD%B8%E6%95%99%E6%8E%8  (wayback 20200627131018)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200720111836_wp-content_uploads_2020_07_中國清華大學法學教授許章潤-218x150_png_d9cd67d6b32203d5.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/07/%E4%B8%AD%E5%9C%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B  (wayback 20200720111836)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200829212440_wp-content_uploads_2020_08_中共中央黨校退休教授蔡霞-218x150_jpg_220b5fa97780ee33.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E9%BB%A8%E6%A0%A  (wayback 20200829212440)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210821115743_wp-content_uploads_2021_08_清華教授許章潤-218x150_jpeg_9fa63b7d73c58d97.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/08/%E6%B8%85%E8%8F%AF%E6%95%99%E6%8E%88%E8%A8%B1%E7%AB%A  (wayback 20210821115743)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220301045333_wp-content_uploads_2022_02_台裔教授喬榮治-324x400_jpg_0c59614d21e218ed.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/02/%E5%8F%B0%E8%A3%94%E6%95%99%E6%8E%88%E5%96%AC%E6%A6%A  (wayback 20220301045333)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220623072258_wp-content_uploads_2021_12_在駐舊金山辦事處處長賴銘琪_中_見證下_北美洲台灣人教授協會北加州分會現任會長葉俊雄於美西時間18日把印_e8e8d160fbac36e2.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/12/%E5%9C%A8%E9%A7%90%E8%88%8A%E9%87%91%E5%B1%B1%E8%BE%A  (wayback 20220623072258)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220726140718_wp-content_uploads_2022_07_總統為_北美洲台灣人教授協會第-42-屆年會_錄製致詞影片-100x70_png_c3acb69200ce00b5.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/07/%E7%B8%BD%E7%B5%B1%E7%82%BA%E3%80%8C%E5%8C%97%E7%BE%8  (wayback 20220726140718)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220726140719_wp-content_uploads_2022_07_總統為_北美洲台灣人教授協會第-42-屆年會_錄製致詞影片-218x150_png_30dd4d7dd8d7e812.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/07/%E7%B8%BD%E7%B5%B1%E7%82%BA%E3%80%8C%E5%8C%97%E7%BE%8  (wayback 20220726140719)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220813072150_wp-content_uploads_2022_08_中華民國駐菲代表處11日舉行歡送午宴_宴請錄取教育部_台灣外籍英語教師計畫_將赴台教授英語的菲律賓教師和_66fd241d4e586130.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E9%A7%90%E8%8F%B  (wayback 20220813072150)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220929025127_wp-content_uploads_2022_08_廖元甫教授-560x420_jpg_70c9b19c4de2ae94.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E5%BB%96%E5%85%83%E7%94%AB%E6%95%99%E6%8E%88-560x420  (wayback 20220929025127)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220929080134_wp-content_uploads_2022_08_廖元甫教授-640x480_jpg_cc86545894da49f0.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E5%BB%96%E5%85%83%E7%94%AB%E6%95%99%E6%8E%88-640x480  (wayback 20220929080134)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220929174026_wp-content_uploads_2022_08_廖元甫教授-1068x801_jpg_777c2cc0a1e33c69.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E5%BB%96%E5%85%83%E7%94%AB%E6%95%99%E6%8E%88-1068x80  (wayback 20220929174026)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220929174026_wp-content_uploads_2022_08_廖元甫教授-485x360_jpg_f6daf587533c2d54.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E5%BB%96%E5%85%83%E7%94%AB%E6%95%99%E6%8E%88-485x360  (wayback 20220929174026)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220929174027_wp-content_uploads_2022_08_廖元甫教授-80x60_jpg_d163b709778ab6b5.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E5%BB%96%E5%85%83%E7%94%AB%E6%95%99%E6%8E%88-80x60.j  (wayback 20220929174027)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220929185011_wp-content_uploads_2022_08_廖元甫教授_jpg_3608a24e6410aaae.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E5%BB%96%E5%85%83%E7%94%AB%E6%95%99%E6%8E%88.jpg  (wayback 20220929185011)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930145159_wp-content_uploads_2022_08_廖元甫教授-265x198_jpg_9252dcd9a5bd8e25.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E5%BB%96%E5%85%83%E7%94%AB%E6%95%99%E6%8E%88-265x198  (wayback 20220930145159)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930145159_wp-content_uploads_2022_08_廖元甫教授-696x522_jpg_ab14f4bd9a484f25.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E5%BB%96%E5%85%83%E7%94%AB%E6%95%99%E6%8E%88-696x522  (wayback 20220930145159)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930151322_wp-content_uploads_2022_08_廖元甫教授-768x576_jpg_191efa42e00ffccf.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E5%BB%96%E5%85%83%E7%94%AB%E6%95%99%E6%8E%88-768x576  (wayback 20220930151322)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930152010_wp-content_uploads_2022_08_廖元甫教授-1080x810_jpg_740ebcaacfeb7973.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E5%BB%96%E5%85%83%E7%94%AB%E6%95%99%E6%8E%88-1080x81  (wayback 20220930152010)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221202060245_wp-content_uploads_2022_03_日本東京外國語大學教授小笠原欣幸-80x60_jpg_d0556d9155aa7ccd.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/03/%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E5%A4%96%E5%9C%8  (wayback 20221202060245)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221202064937_wp-content_uploads_2022_03_日本東京外國語大學教授小笠原欣幸_jpg_5a11f12c9a85f869.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/03/%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E5%A4%96%E5%9C%8  (wayback 20221202064937)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221202074218_wp-content_uploads_2022_03_日本東京外國語大學教授小笠原欣幸-696x522_jpg_fa23d13454079f1a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/03/%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E5%A4%96%E5%9C%8  (wayback 20221202074218)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221202131527_wp-content_uploads_2022_03_日本東京外國語大學教授小笠原欣幸-265x198_jpg_44edfebcd5b1a273.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/03/%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E5%A4%96%E5%9C%8  (wayback 20221202131527)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221202141841_wp-content_uploads_2022_03_日本東京外國語大學教授小笠原欣幸-768x576_jpg_51493b20e2222de2.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/03/%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E5%A4%96%E5%9C%8  (wayback 20221202141841)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221203015837_wp-content_uploads_2022_03_日本東京外國語大學教授小笠原欣幸-640x480_jpg_f73d202e96186f6f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/03/%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E5%A4%96%E5%9C%8  (wayback 20221203015837)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221203110754_wp-content_uploads_2022_03_日本東京外國語大學教授小笠原欣幸-560x420_jpg_e8d3cf28f6c6e23c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/03/%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E5%A4%96%E5%9C%8  (wayback 20221203110754)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221203131100_wp-content_uploads_2022_03_日本東京外國語大學教授小笠原欣幸-485x360_jpg_b684225a01338d99.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/03/%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E5%A4%96%E5%9C%8  (wayback 20221203131100)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221207185838_wp-content_uploads_2022_10_黃昆輝教授教育基金會7日公布_全民國防教育民調_結果-218x150_jpg_fd8a9bac936d8b55.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/10/%E9%BB%83%E6%98%86%E8%BC%9D%E6%95%99%E6%8E%88%E6%95%9  (wayback 20221207185838)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221208022440_wp-content_uploads_2022_10_黃昆輝教授教育基金會7日公布_全民國防教育民調_結果-100x70_jpg_5a24e2c82f479eaa.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/10/%E9%BB%83%E6%98%86%E8%BC%9D%E6%95%99%E6%8E%88%E6%95%9  (wayback 20221208022440)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173623_wp-content_uploads_2022_08_廖元甫教授-100x70_jpg_c2ceaa91d1fba66f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E5%BB%96%E5%85%83%E7%94%AB%E6%95%99%E6%8E%88-100x70.  (wayback 20230222173623)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230609045144_wp-content_uploads_2023_04_台灣永社_台灣制憲基金會_台灣教授協會_台灣團結聯盟_台灣社27日召開_2023年轉型正義工程里程碑_撤_0d32880a48fede31.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/04/%E5%8F%B0%E7%81%A3%E6%B0%B8%E7%A4%BE%E3%80%81%E5%8F%B  (wayback 20230609045144)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230609045357_wp-content_uploads_2023_04_台灣永社_台灣制憲基金會_台灣教授協會_台灣團結聯盟_台灣社27日召開_2023年轉型正義工程里程碑_撤_75e10ab15b53bcc1.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/04/%E5%8F%B0%E7%81%A3%E6%B0%B8%E7%A4%BE%E3%80%81%E5%8F%B  (wayback 20230609045357)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230609045547_wp-content_uploads_2023_04_台灣永社_台灣制憲基金會_台灣教授協會_台灣團結聯盟_台灣社27日召開_2023年轉型正義工程里程碑_撤_0af0b7ab79195864.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/04/%E5%8F%B0%E7%81%A3%E6%B0%B8%E7%A4%BE%E3%80%81%E5%8F%B  (wayback 20230609045547)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240816034953_wp-content_uploads_2024_07_圖_芬蘭-Sibelius-音樂院指揮教授-Jorma-Panula-教學生的神態-_採自conduct_17eb78b5f131fc4b.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/07/%E5%9C%96%EF%BC%9A%E8%8A%AC%E8%98%AD-Sibelius-%E9%9F%  (wayback 20240816034953)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240816035605_wp-content_uploads_2024_07_圖_芬蘭-Sibelius-音樂院指揮教授-Jorma-Panula-教學生的神態-_採自conduct_7dd7e5f8c56855fd.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/07/%E5%9C%96%EF%BC%9A%E8%8A%AC%E8%98%AD-Sibelius-%E9%9F%  (wayback 20240816035605)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250718092208_wp-content_uploads_2024_06_台灣教授協會30日舉行第4屆新世代台灣精神獎頒獎典禮_得獎者為藝術創作者Mock-Mayson_左_以及_3d2fbbbec3d1f468.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2024/06/%E5%8F%B0%E7%81%A3%E6%95%99%E6%8E%88%E5%8D%94%E6%9C%8330%  (wayback 20250718092208)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250718092208_wp-content_uploads_2024_06_台灣教授協會30日舉行第4屆新世代台灣精神獎頒獎典禮_得獎者為藝術創作者Mock-Mayson_左_以及_d1723485e5ca85d9.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2024/06/%E5%8F%B0%E7%81%A3%E6%95%99%E6%8E%88%E5%8D%94%E6%9C%8330%  (wayback 20250718092208)
+- `people/chuen-mei-lee-fan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250718092208_wp-content_uploads_2024_06_台灣教授協會30日舉行第4屆新世代台灣精神獎頒獎典禮_得獎者為藝術創作者Mock-Mayson_左_以及_f334669129e2046f.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2024/06/%E5%8F%B0%E7%81%A3%E6%95%99%E6%8E%88%E5%8D%94%E6%9C%8330%  (wayback 20250718092208)
+- `people/coen-blaauw` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220927085821_wp-content_uploads_2016_05_2016年四月_昆布勞拜訪紐約上州-FAPA-Albany分會_與會員們合影-300x184_jpg_c5c58107276c688c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2016/05/2016%E5%B9%B4%E5%9B%9B%E6%9C%88%EF%BC%8C%E6%98%86%E5%  (wayback 20220927085821)
+- `people/dr-jason-wang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210821113324_wp-content_uploads_2021_08_童振源王智弘對談新冠病毒-218x150_png_a17d3190023181eb.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/08/%E7%AB%A5%E6%8C%AF%E6%BA%90%E7%8E%8B%E6%99%BA%E5%BC%9  (wayback 20210821113324)
+- `people/elena-ling` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190626060851_wp-content_uploads_2015_06_Elena-Lin-黃美惠_jpg_688c1130ea66de9d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/06/Elena-Lin-%E9%BB%83%E7%BE%8E%E6%83%A0.jpg  (wayback 20190626060851)
+- `people/enoch-wu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200629000637_wp-content_uploads_2020_06_民進黨_新境界文教基金會_智庫副執行長吳怡農_前中_出席霸韓活動-100x70_jpg_61dc148beb96c44e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E6%B0%91%E9%80%B2%E9%BB%A8%E3%80%8C%E6%96%B0%E5%A2%8  (wayback 20200629000637)
+- `people/enoch-wu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201017202852_wp-content_uploads_2020_01_吳怡農-265x198_jpg_486c59e876ba1775.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/01/%E5%90%B3%E6%80%A1%E8%BE%B2-265x198.jpg  (wayback 20201017202852)
+- `people/enoch-wu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220411093326_wp-content_uploads_2022_04_魏百谷-X-吳怡農_jpg_5847cda1852d5c68.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E9%AD%8F%E7%99%BE%E8%B0%B7-X-%E5%90%B3%E6%80%A1%E8%B  (wayback 20220411093326)
+- `people/enoch-wu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930134158_wp-content_uploads_2021_01_吳怡農-80x60_jpg_eab6931aba3c6d77.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/01/%E5%90%B3%E6%80%A1%E8%BE%B2-80x60.jpg  (wayback 20220930134158)
+- `people/enoch-wu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930171444_wp-content_uploads_2021_01_吳怡農-485x360_jpg_6c305dd1e9ce964f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/01/%E5%90%B3%E6%80%A1%E8%BE%B2-485x360.jpg  (wayback 20220930171444)
+- `people/enoch-wu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221001203115_wp-content_uploads_2021_01_吳怡農-534x462_jpg_eab65d96bc1b41bc.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/01/%E5%90%B3%E6%80%A1%E8%BE%B2-534x462.jpg  (wayback 20221001203115)
+- `people/enoch-wu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221002174430_wp-content_uploads_2021_01_吳怡農-265x198_jpg_c5b9a4f47d8a815f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/01/%E5%90%B3%E6%80%A1%E8%BE%B2-265x198.jpg  (wayback 20221002174430)
+- `people/enoch-wu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230103132631_wp-content_uploads_2022_11_吳怡農-1-265x198_jpg_557dd288e1bd48d9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E5%90%B3%E6%80%A1%E8%BE%B2-1-265x198.jpg  (wayback 20230103132631)
+- `people/enoch-wu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230103132636_wp-content_uploads_2022_11_吳怡農-1-640x479_jpg_2a963b58ddb85042.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E5%90%B3%E6%80%A1%E8%BE%B2-1-640x479.jpg  (wayback 20230103132636)
+- `people/enoch-wu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230103132639_wp-content_uploads_2022_11_吳怡農-1_jpg_cbbc5632af3bb81d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E5%90%B3%E6%80%A1%E8%BE%B2-1.jpg  (wayback 20230103132639)
+- `people/enoch-wu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230103132641_wp-content_uploads_2022_11_吳怡農-1-80x60_jpg_d4f64cfa4b75b3c1.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E5%90%B3%E6%80%A1%E8%BE%B2-1-80x60.jpg  (wayback 20230103132641)
+- `people/enoch-wu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230103132650_wp-content_uploads_2022_11_吳怡農-1-696x521_jpg_d07e5cc9f44cc5d3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E5%90%B3%E6%80%A1%E8%BE%B2-1-696x521.jpg  (wayback 20230103132650)
+- `people/enoch-wu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230103132659_wp-content_uploads_2022_11_吳怡農-1-485x360_jpg_58f0cc31f2a4f4d3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E5%90%B3%E6%80%A1%E8%BE%B2-1-485x360.jpg  (wayback 20230103132659)
+- `people/enoch-wu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230103142716_wp-content_uploads_2022_11_吳怡農-1-768x575_jpg_424fd3746691871d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E5%90%B3%E6%80%A1%E8%BE%B2-1-768x575.jpg  (wayback 20230103142716)
+- `people/enoch-wu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173513_wp-content_uploads_2023_01_公辦政見發表會-吳怡農-100x70_jpg_dd94f9c89edfeed4.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/01/%E5%85%AC%E8%BE%A6%E6%94%BF%E8%A6%8B%E7%99%BC%E8%A1%A  (wayback 20230222173513)
+- `people/enoch-wu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173627_wp-content_uploads_2022_11_吳怡農-1-100x70_jpg_55351eb9123cd23c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E5%90%B3%E6%80%A1%E8%BE%B2-1-100x70.jpg  (wayback 20230222173627)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065318_wp-content_uploads_2015_09_公孫樂政治動畫-宋叛宋叛你慢慢啊等-300x153_jpg_cd05b64f33df3e16.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/09/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E5%8B%9  (wayback 20191018065318)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065318_wp-content_uploads_2015_09_公孫樂政治動畫連爺爺飛越杜鵑窩柱子姊-300x152_jpg_aeb8afb7afdeaed7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/09/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E5%8B%9  (wayback 20191018065318)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065318_wp-content_uploads_2015_10_公孫樂政治動畫-300x158_jpg_d68819841664d3bd.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/10/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E5%8B%9  (wayback 20191018065318)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065319_wp-content_uploads_2015_08_公孫樂政治漫畫-ROC有一個昏君-174x98_jpg_d30b3c72f9cad6f0.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/08/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E6%BC%A  (wayback 20191018065319)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065321_wp-content_uploads_2015_08_公孫樂政治漫畫-300x155_jpg_d372e4e917885c68.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/08/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E6%BC%A  (wayback 20191018065321)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065321_wp-content_uploads_2015_08_公孫樂政治漫畫-民調搞成文創-頭殼真正破一孔-300x152_jpg_50c3977384dad235.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/08/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E6%BC%A  (wayback 20191018065321)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065321_wp-content_uploads_2015_08_公孫樂政治漫畫-獨裁者顧門_小弟-講伊始終如一-174x98_jpg_221ba6818df32a1c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/08/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E6%BC%A  (wayback 20191018065321)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065321_wp-content_uploads_2015_08_公孫樂政治漫畫-英雄出少年-174x98_jpg_a2d1643b2a1b29f7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/08/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E6%BC%A  (wayback 20191018065321)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065321_wp-content_uploads_2015_08_公孫樂政治漫畫-車輪黨前途濛濛渺渺-開始博歹茭-300x154_jpg_7c8cb6cc33cd88dc.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/08/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E6%BC%A  (wayback 20191018065321)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065321_wp-content_uploads_2015_08_公孫樂笑虧漫畫-這隻無腦無血_妖怪_無法無天耍無賴-300x154_jpg_00c551f15fcbdefc.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/08/%E5%85%AC%E5%AD%AB%E6%A8%82%E7%AC%91%E8%99%A7%E6%BC%A  (wayback 20191018065321)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045242_wp-content_uploads_2015_07_公孫樂笑虧漫畫-思華_你奈呀擱底hia_-174x98_jpg_97c1793d962b34a3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/07/%E5%85%AC%E5%AD%AB%E6%A8%82%E7%AC%91%E8%99%A7%E6%BC%A  (wayback 20191115045242)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045242_wp-content_uploads_2015_07_公孫樂笑虧漫畫-秀柱秀柱-妳不是白目-174x98_jpg_41dfa1cf562a5583.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/07/%E5%85%AC%E5%AD%AB%E6%A8%82%E7%AC%91%E8%99%A7%E6%BC%A  (wayback 20191115045242)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045243_wp-content_uploads_2015_07_公孫樂笑虧漫畫-失禮失禮真失禮_原來老K講他們才是頭家-174x98_jpg_47d8d59759ac8c2a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/07/%E5%85%AC%E5%AD%AB%E6%A8%82%E7%AC%91%E8%99%A7%E6%BC%A  (wayback 20191115045243)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045243_wp-content_uploads_2015_07_公孫樂笑虧漫畫1-174x98_jpg_deee711caea41959.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/07/%E5%85%AC%E5%AD%AB%E6%A8%82%E7%AC%91%E8%99%A7%E6%BC%A  (wayback 20191115045243)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200623043657_wp-content_uploads_2015_09_公孫樂政治動畫-宋叛宋叛你慢慢啊等_jpg_2d5096687fd49efd.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/09/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E5%8B%9  (wayback 20200623043657)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200625010354_wp-content_uploads_2015_09_公孫樂政治動畫連爺爺飛越杜鵑窩柱子姊_jpg_8c62f9e9238905dc.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/09/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E5%8B%9  (wayback 20200625010354)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200625022812_wp-content_uploads_2015_10_公孫樂政治動畫_jpg_90ee0c93ae9092f1.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/10/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E5%8B%9  (wayback 20200625022812)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200625022814_wp-content_uploads_2015_08_公孫樂政治漫畫-ROC有一個昏君_jpg_1fab72e804ce347e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/08/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E6%BC%A  (wayback 20200625022814)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200625220328_wp-content_uploads_2015_08_公孫樂政治漫畫-車輪黨前途濛濛渺渺-開始博歹茭_jpg_45ef21a94ea94647.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/08/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E6%BC%A  (wayback 20200625220328)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200625220330_wp-content_uploads_2015_08_公孫樂政治漫畫-獨裁者顧門_小弟-講伊始終如一_jpg_45335f32b8a1f2a5.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/08/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E6%BC%A  (wayback 20200625220330)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200625220335_wp-content_uploads_2015_08_公孫樂政治漫畫-英雄出少年_jpg_06acbe5bad1852ae.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/08/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E6%BC%A  (wayback 20200625220335)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200627194453_wp-content_uploads_2015_08_公孫樂政治漫畫_jpg_ef0fb19be87a1c71.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/08/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E6%BC%A  (wayback 20200627194453)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200627211806_wp-content_uploads_2015_08_公孫樂政治漫畫-民調搞成文創-頭殼真正破一孔_jpg_6ea316f57e3fe6a3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/08/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E6%BC%A  (wayback 20200627211806)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200629112906_wp-content_uploads_2015_08_公孫樂笑虧漫畫-這隻無腦無血_妖怪_無法無天耍無賴_jpg_9cae4f473cdee22f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/08/%E5%85%AC%E5%AD%AB%E6%A8%82%E7%AC%91%E8%99%A7%E6%BC%A  (wayback 20200629112906)
+- `people/gong-sun-le` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220927091318_wp-content_uploads_2015_08_公孫樂政治漫畫-ROC有一個昏君-600x337_jpg_3170fa07f7b7a806.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/08/%E5%85%AC%E5%AD%AB%E6%A8%82%E6%94%BF%E6%B2%BB%E6%BC%A  (wayback 20220927091318)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190626061820_wp-content_uploads_2019_04_韓國瑜-郭台銘-80x60_jpg_55919151ed1754c4.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/04/%E9%9F%93%E5%9C%8B%E7%91%9C-%E9%83%AD%E5%8F%B0%E9%8A%  (wayback 20190626061820)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190626061831_wp-content_uploads_2019_04_韓國瑜-郭台銘-300x225_jpg_f2da61a016df7592.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/04/%E9%9F%93%E5%9C%8B%E7%91%9C-%E9%83%AD%E5%8F%B0%E9%8A%  (wayback 20190626061831)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190626061843_wp-content_uploads_2019_04_韓國瑜-郭台銘-768x576_jpg_ff73d1cf7abf557d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/04/%E9%9F%93%E5%9C%8B%E7%91%9C-%E9%83%AD%E5%8F%B0%E9%8A%  (wayback 20190626061843)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190626061854_wp-content_uploads_2019_04_韓國瑜-郭台銘-640x480_jpg_c5af564aee91e43e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/04/%E9%9F%93%E5%9C%8B%E7%91%9C-%E9%83%AD%E5%8F%B0%E9%8A%  (wayback 20190626061854)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190626061905_wp-content_uploads_2019_04_韓國瑜-郭台銘-265x198_jpg_5a92a5fdab18955a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/04/%E9%9F%93%E5%9C%8B%E7%91%9C-%E9%83%AD%E5%8F%B0%E9%8A%  (wayback 20190626061905)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190626061917_wp-content_uploads_2019_04_韓國瑜-郭台銘-485x360_jpg_8e1cc6278439f74e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/04/%E9%9F%93%E5%9C%8B%E7%91%9C-%E9%83%AD%E5%8F%B0%E9%8A%  (wayback 20190626061917)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190626061927_wp-content_uploads_2019_04_韓國瑜-郭台銘-696x522_jpg_afd0066479897f78.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/04/%E9%9F%93%E5%9C%8B%E7%91%9C-%E9%83%AD%E5%8F%B0%E9%8A%  (wayback 20190626061927)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190626061938_wp-content_uploads_2019_04_韓國瑜-郭台銘-560x420_jpg_697909d1bce77f3b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/04/%E9%9F%93%E5%9C%8B%E7%91%9C-%E9%83%AD%E5%8F%B0%E9%8A%  (wayback 20190626061938)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190626061950_wp-content_uploads_2019_04_韓國瑜-郭台銘_jpg_820cd4e9aa9a451a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/04/%E9%9F%93%E5%9C%8B%E7%91%9C-%E9%83%AD%E5%8F%B0%E9%8A%  (wayback 20190626061950)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190717103752_wp-content_uploads_2019_04_高雄市長韓國瑜-218x150_jpg_5dce58f96e2887b1.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/04/%E9%AB%98%E9%9B%84%E5%B8%82%E9%95%B7%E9%9F%93%E5%9C%8  (wayback 20190717103752)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065315_wp-content_uploads_2019_10_韓國瑜民調再次下滑-80x60_png_0ac8b744c6f45aae.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E9%9F%93%E5%9C%8B%E7%91%9C%E6%B0%91%E8%AA%BF%E5%86%8  (wayback 20191018065315)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065316_wp-content_uploads_2019_09_韓國瑜-李佳芬-324x160_jpg_15efc2e759c42bd4.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/09/%E9%9F%93%E5%9C%8B%E7%91%9C-%E6%9D%8E%E4%BD%B3%E8%8A%  (wayback 20191018065316)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065316_wp-content_uploads_2019_10_吳敦義曾為韓國瑜造勢站台-324x160_png_fc768d080e17d153.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E5%90%B3%E6%95%A6%E7%BE%A9%E6%9B%BE%E7%82%BA%E9%9F%9  (wayback 20191018065316)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065316_wp-content_uploads_2019_10_韓國瑜民調再次下滑-218x150_png_1eba717fd2f28d84.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E9%9F%93%E5%9C%8B%E7%91%9C%E6%B0%91%E8%AA%BF%E5%86%8  (wayback 20191018065316)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065316_wp-content_uploads_2019_10_韓國瑜民調再次下滑-324x160_png_421615856c34873d.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E9%9F%93%E5%9C%8B%E7%91%9C%E6%B0%91%E8%AA%BF%E5%86%8  (wayback 20191018065316)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065318_wp-content_uploads_2019_09_韓國瑜-李佳芬-696x385_jpg_139a1868dee0981c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/09/%E9%9F%93%E5%9C%8B%E7%91%9C-%E6%9D%8E%E4%BD%B3%E8%8A%  (wayback 20191018065318)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065318_wp-content_uploads_2019_10_吳敦義曾為韓國瑜造勢站台-80x60_png_caf623f190cb2236.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E5%90%B3%E6%95%A6%E7%BE%A9%E6%9B%BE%E7%82%BA%E9%9F%9  (wayback 20191018065318)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065318_wp-content_uploads_2019_10_韓國瑜民調再次下滑-265x198_png_778ed08d6686d7de.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E9%9F%93%E5%9C%8B%E7%91%9C%E6%B0%91%E8%AA%BF%E5%86%8  (wayback 20191018065318)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065319_wp-content_uploads_2019_09_韓國瑜-李佳芬-218x150_jpg_f1c0ea156a3914b7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/09/%E9%9F%93%E5%9C%8B%E7%91%9C-%E6%9D%8E%E4%BD%B3%E8%8A%  (wayback 20191018065319)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065319_wp-content_uploads_2019_09_韓國瑜-李佳芬-534x462_jpg_150d09020214110d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/09/%E9%9F%93%E5%9C%8B%E7%91%9C-%E6%9D%8E%E4%BD%B3%E8%8A%  (wayback 20191018065319)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065319_wp-content_uploads_2019_09_韓國瑜-李佳芬-80x60_jpg_31f27b3cb0c08fc9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/09/%E9%9F%93%E5%9C%8B%E7%91%9C-%E6%9D%8E%E4%BD%B3%E8%8A%  (wayback 20191018065319)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065320_wp-content_uploads_2019_08_國民黨總統參選人韓國瑜負面消息不斷-100x70_jpg_93256192860e94bb.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/08/%E5%9C%8B%E6%B0%91%E9%BB%A8%E7%B8%BD%E7%B5%B1%E5%8F%8  (wayback 20191018065320)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065320_wp-content_uploads_2019_08_韓國瑜-100x70_png_08c590b167469eb1.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/08/%E9%9F%93%E5%9C%8B%E7%91%9C-100x70.png  (wayback 20191018065320)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065320_wp-content_uploads_2019_08_韓國瑜內外挑戰-100x70_jpg_4ef0377bd52dec0a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/08/%E9%9F%93%E5%9C%8B%E7%91%9C%E5%85%A7%E5%A4%96%E6%8C%9  (wayback 20191018065320)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065320_wp-content_uploads_2019_09_旺旺集團董事長蔡衍明批韓國瑜困境-100x70_jpg_de94f6cfd75bab1c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/09/%E6%97%BA%E6%97%BA%E9%9B%86%E5%9C%98%E8%91%A3%E4%BA%8  (wayback 20191018065320)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065320_wp-content_uploads_2019_09_韓國瑜-李佳芬-100x70_jpg_104b44b945ea4d0b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/09/%E9%9F%93%E5%9C%8B%E7%91%9C-%E6%9D%8E%E4%BD%B3%E8%8A%  (wayback 20191018065320)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065320_wp-content_uploads_2019_10_吳敦義曾為韓國瑜造勢站台-1-100x70_png_cfd857b1e61655dc.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E5%90%B3%E6%95%A6%E7%BE%A9%E6%9B%BE%E7%82%BA%E9%9F%9  (wayback 20191018065320)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065320_wp-content_uploads_2019_10_吳敦義曾為韓國瑜造勢站台-1-265x198_png_1d0c88c2ac02afa5.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E5%90%B3%E6%95%A6%E7%BE%A9%E6%9B%BE%E7%82%BA%E9%9F%9  (wayback 20191018065320)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065320_wp-content_uploads_2019_10_吳敦義曾為韓國瑜造勢站台-1-80x60_png_10e47fe17156d9e6.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E5%90%B3%E6%95%A6%E7%BE%A9%E6%9B%BE%E7%82%BA%E9%9F%9  (wayback 20191018065320)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065320_wp-content_uploads_2019_10_韓國瑜民調再次下滑-100x70_png_2951108aadc6e0f9.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E9%9F%93%E5%9C%8B%E7%91%9C%E6%B0%91%E8%AA%BF%E5%86%8  (wayback 20191018065320)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065320_wp-content_uploads_2019_10_韓國瑜民調再次下滑-534x462_png_1b540f3fbef71af7.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E9%9F%93%E5%9C%8B%E7%91%9C%E6%B0%91%E8%AA%BF%E5%86%8  (wayback 20191018065320)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065320_wp-content_uploads_2019_10_韓國瑜民調再次下滑-696x385_png_101e250d660dc977.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E9%9F%93%E5%9C%8B%E7%91%9C%E6%B0%91%E8%AA%BF%E5%86%8  (wayback 20191018065320)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065323_wp-content_uploads_2019_04_韓國瑜-郭台銘-100x70_jpg_48956f6065c75de4.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/04/%E9%9F%93%E5%9C%8B%E7%91%9C-%E9%83%AD%E5%8F%B0%E9%8A%  (wayback 20191018065323)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065324_wp-content_uploads_2019_07_韓國瑜_馬騮上樹_的政治秀_圖高雄市政府-100x70_jpg_977a54e2450b66b7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/07/%E9%9F%93%E5%9C%8B%E7%91%9C%E3%80%8C%E9%A6%AC%E9%A8%A  (wayback 20191018065324)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065324_wp-content_uploads_2019_09_韓國瑜-李佳芬-265x198_jpg_3d4df7bef1d3af44.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/09/%E9%9F%93%E5%9C%8B%E7%91%9C-%E6%9D%8E%E4%BD%B3%E8%8A%  (wayback 20191018065324)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065326_wp-content_uploads_2019_03_韓國瑜於受訪指出歪嘴雞不需要挑米吃-100x70_jpg_ca3b67e268bf6c1a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/03/%E9%9F%93%E5%9C%8B%E7%91%9C%E6%96%BC%E5%8F%97%E8%A8%A  (wayback 20191018065326)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045218_wp-content_uploads_2019_11_韓國瑜在家洗內衣褲-80x60_jpg_2924cfb96eec2bbe.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E9%9F%93%E5%9C%8B%E7%91%9C%E5%9C%A8%E5%AE%B6%E6%B4%9  (wayback 20191115045218)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045238_wp-content_uploads_2019_11_韓國瑜在家洗內衣褲-218x150_jpg_47d40e7154afdaf7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E9%9F%93%E5%9C%8B%E7%91%9C%E5%9C%A8%E5%AE%B6%E6%B4%9  (wayback 20191115045238)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045239_wp-content_uploads_2019_10_吳敦義曾為韓國瑜造勢站台-100x70_png_bc08529b56936845.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E5%90%B3%E6%95%A6%E7%BE%A9%E6%9B%BE%E7%82%BA%E9%9F%9  (wayback 20191115045239)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045239_wp-content_uploads_2019_11_韓國瑜在家洗內衣褲-265x198_jpg_5a8cae491a0136b1.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E9%9F%93%E5%9C%8B%E7%91%9C%E5%9C%A8%E5%AE%B6%E6%B4%9  (wayback 20191115045239)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045239_wp-content_uploads_2019_11_韓國瑜在家洗內衣褲-534x458_jpg_48eef0c63b0605e5.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E9%9F%93%E5%9C%8B%E7%91%9C%E5%9C%A8%E5%AE%B6%E6%B4%9  (wayback 20191115045239)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045243_wp-content_uploads_2019_11_國民黨總統參選人韓國瑜_左_副手10日提前曝光_由國政顧問團總召張善政_右_出線-100x70_jpg_f0031206d3746b0d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E5%9C%8B%E6%B0%91%E9%BB%A8%E7%B8%BD%E7%B5%B1%E5%8F%8  (wayback 20191115045243)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045243_wp-content_uploads_2019_11_民進黨立委林俊憲召開記者會_再爆韓國瑜7200萬購屋過程_找議員開3次協調會_令台肥轉彎借出13億元_記_8b08bf996bc0cd5d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E6%B0%91%E9%80%B2%E9%BB%A8%E7%AB%8B%E5%A7%94%E6%9E%9  (wayback 20191115045243)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045244_wp-content_uploads_2019_07_央視報導韓國瑜畫面-100x70_png_4d98b7ea992fe6ac.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/07/%E5%A4%AE%E8%A6%96%E5%A0%B1%E5%B0%8E%E9%9F%93%E5%9C%8  (wayback 20191115045244)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115094645_wp-content_uploads_2019_11_韓國瑜在家洗內衣褲-100x70_jpg_a8f1f94b85e4bce2.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E9%9F%93%E5%9C%8B%E7%91%9C%E5%9C%A8%E5%AE%B6%E6%B4%9  (wayback 20191115094645)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115094649_wp-content_uploads_2019_10_高雄市長韓國瑜27日晚間在台北出席_青年政策論壇_與年輕民眾近距離對話_記者羅沛德攝_-100x70_j_7db9b3f27d4a2f1d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E9%AB%98%E9%9B%84%E5%B8%82%E9%95%B7%E9%9F%93%E5%9C%8  (wayback 20191115094649)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115094651_wp-content_uploads_2019_10_總統候選人韓國瑜開始_傾聽之旅_-100x70_png_fb8fab180d4df384.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E9%9F%9  (wayback 20191115094651)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115094651_wp-content_uploads_2019_10_韓國瑜-吳敦義-100x70_jpeg_94944514b05114f3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E9%9F%93%E5%9C%8B%E7%91%9C-%E5%90%B3%E6%95%A6%E7%BE%  (wayback 20191115094651)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200506111857_wp-content_uploads_2020_05_罷免韓國瑜投開票所-218x150_jpg_82ab8d87fe6e873c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/05/%E7%BD%B7%E5%85%8D%E9%9F%93%E5%9C%8B%E7%91%9C%E6%8A%9  (wayback 20200506111857)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200516094647_wp-content_uploads_2020_04_韓國瑜罷免投票-218x150_jpeg_294b003b49557d2e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/04/%E9%9F%93%E5%9C%8B%E7%91%9C%E7%BD%B7%E5%85%8D%E6%8A%9  (wayback 20200516094647)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200618145128_wp-content_uploads_2020_03_國民黨主席江啟臣_前排右二_近日將安排與高雄市長韓國瑜_前排左二_會面-80x60_jpg_7dd50e2c3e26a692.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/03/%E5%9C%8B%E6%B0%91%E9%BB%A8%E4%B8%BB%E5%B8%AD%E6%B1%9  (wayback 20200618145128)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200619022827_wp-content_uploads_2020_04_韓國瑜罷免投票-534x462_jpeg_10a3aedaf84d42a6.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/04/%E9%9F%93%E5%9C%8B%E7%91%9C%E7%BD%B7%E5%85%8D%E6%8A%9  (wayback 20200619022827)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200620031329_wp-content_uploads_2020_04_韓國瑜-1-218x150_png_571b749759146ad6.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/04/%E9%9F%93%E5%9C%8B%E7%91%9C-1-218x150.png  (wayback 20200620031329)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200623032205_wp-content_uploads_2020_04_韓國瑜罷免投票-100x70_jpeg_4210b0fb4b8a309f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/04/%E9%9F%93%E5%9C%8B%E7%91%9C%E7%BD%B7%E5%85%8D%E6%8A%9  (wayback 20200623032205)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200624060240_wp-content_uploads_2020_04_韓國瑜罷免投票-265x198_jpeg_25d24f7d28317cf7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/04/%E9%9F%93%E5%9C%8B%E7%91%9C%E7%BD%B7%E5%85%8D%E6%8A%9  (wayback 20200624060240)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200624094318_wp-content_uploads_2020_06_韓國瑜成史上首名遭罷免市長-100x70_jpg_0a02939ba4c31fe1.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E9%9F%93%E5%9C%8B%E7%91%9C%E6%88%90%E5%8F%B2%E4%B8%8  (wayback 20200624094318)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200624221159_wp-content_uploads_2020_04_韓國瑜-1-100x70_png_2eec9ecdc362fe92.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/04/%E9%9F%93%E5%9C%8B%E7%91%9C-1-100x70.png  (wayback 20200624221159)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200625034409_wp-content_uploads_2020_03_國民黨主席江啟臣_前排右二_近日將安排與高雄市長韓國瑜_前排左二_會面-100x70_jpg_6a5cdb3be4184217.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/03/%E5%9C%8B%E6%B0%91%E9%BB%A8%E4%B8%BB%E5%B8%AD%E6%B1%9  (wayback 20200625034409)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200626100252_wp-content_uploads_2020_04_韓國瑜-100x70_png_c030ce599c49a4b6.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/04/%E9%9F%93%E5%9C%8B%E7%91%9C-100x70.png  (wayback 20200626100252)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200626191904_wp-content_uploads_2020_03_國民黨主席江啟臣_前排右二_近日將安排與高雄市長韓國瑜_前排左二_會面-265x198_jpg_c71cc5d1beec8f2d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/03/%E5%9C%8B%E6%B0%91%E9%BB%A8%E4%B8%BB%E5%B8%AD%E6%B1%9  (wayback 20200626191904)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200627051756_wp-content_uploads_2020_04_韓國瑜-1-534x462_png_c236a11c65d11465.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/04/%E9%9F%93%E5%9C%8B%E7%91%9C-1-534x462.png  (wayback 20200627051756)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200628184710_wp-content_uploads_2020_06_韓國瑜最後上班日淚別高雄市府-100x70_jpg_db994debd717e603.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E9%9F%93%E5%9C%8B%E7%91%9C%E6%9C%80%E5%BE%8C%E4%B8%8  (wayback 20200628184710)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200705190625_wp-content_uploads_2020_04_韓國瑜-265x198_png_03eaad22be3fe190.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/04/%E9%9F%93%E5%9C%8B%E7%91%9C-265x198.png  (wayback 20200705190625)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200706045745_wp-content_uploads_2020_06_韓國瑜成史上首名遭罷免市長-218x150_jpg_c7ab18ffff12466b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E9%9F%93%E5%9C%8B%E7%91%9C%E6%88%90%E5%8F%B2%E4%B8%8  (wayback 20200706045745)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200706125844_wp-content_uploads_2020_05_左為華春瑩_右為韓國瑜-_資料照_-100x70_jpg_f21b62635e81613f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/05/%E5%B7%A6%E7%82%BA%E8%8F%AF%E6%98%A5%E7%91%A9%EF%BC%8  (wayback 20200706125844)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200715163636_wp-content_uploads_2020_04_韓國瑜罷免投票-80x60_jpeg_7d2e8a6e3bb9913b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/04/%E9%9F%93%E5%9C%8B%E7%91%9C%E7%BD%B7%E5%85%8D%E6%8A%9  (wayback 20200715163636)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200726150345_wp-content_uploads_2020_06_韓國瑜成史上首名遭罷免市長-265x198_jpg_94ba4fabd58d17aa.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E9%9F%93%E5%9C%8B%E7%91%9C%E6%88%90%E5%8F%B2%E4%B8%8  (wayback 20200726150345)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200818035749_wp-content_uploads_2020_04_韓國瑜-1-265x198_png_fe08287af21f3bef.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/04/%E9%9F%93%E5%9C%8B%E7%91%9C-1-265x198.png  (wayback 20200818035749)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200822015537_wp-content_uploads_2020_08_韓國瑜為李眉蓁站台-218x150_jpg_96cdb09f6971a446.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E9%9F%93%E5%9C%8B%E7%91%9C%E7%82%BA%E6%9D%8E%E7%9C%8  (wayback 20200822015537)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200825084245_wp-content_uploads_2020_08_韓國瑜為李眉蓁站台-80x60_jpg_eb8535f99757a31a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E9%9F%93%E5%9C%8B%E7%91%9C%E7%82%BA%E6%9D%8E%E7%9C%8  (wayback 20200825084245)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200825103633_wp-content_uploads_2020_04_韓國瑜罷免投票-324x160_jpeg_6810d95d88d1431e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/04/%E9%9F%93%E5%9C%8B%E7%91%9C%E7%BD%B7%E5%85%8D%E6%8A%9  (wayback 20200825103633)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200825185816_wp-content_uploads_2020_08_韓國瑜為李眉蓁站台-324x160_jpg_61d2d83ebcc77271.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E9%9F%93%E5%9C%8B%E7%91%9C%E7%82%BA%E6%9D%8E%E7%9C%8  (wayback 20200825185816)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200826134522_wp-content_uploads_2020_08_韓國瑜為李眉蓁站台-100x70_jpg_b3a992e6df1898ae.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E9%9F%93%E5%9C%8B%E7%91%9C%E7%82%BA%E6%9D%8E%E7%9C%8  (wayback 20200826134522)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200904052328_wp-content_uploads_2019_04_韓國瑜-郭台銘-324x160_jpg_0b4a858d5a2a6cda.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/04/%E9%9F%93%E5%9C%8B%E7%91%9C-%E9%83%AD%E5%8F%B0%E9%8A%  (wayback 20200904052328)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210202014305_wp-content_uploads_2021_02_韓國瑜-趙少康-218x150_jpg_3d45472b2a452eae.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/02/%E9%9F%93%E5%9C%8B%E7%91%9C-%E8%B6%99%E5%B0%91%E5%BA%  (wayback 20210202014305)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240523162115_wp-content_uploads_2024_05_立法院會21日全天審查國會職權修正法案至深夜11時46分左右_立法院長韓國瑜宣布休息散會_改日續審_民進_4ac6aa07988db5e3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/05/%E7%AB%8B%E6%B3%95%E9%99%A2%E6%9C%8321%E6%97%A5%E5%85  (wayback 20240523162115)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240523171616_wp-content_uploads_2024_05_立法院會21日全天審查國會職權修正法案至深夜11時46分左右_立法院長韓國瑜宣布休息散會_改日續審_民進_b79532452f6a8457.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/05/%E7%AB%8B%E6%B3%95%E9%99%A2%E6%9C%8321%E6%97%A5%E5%85  (wayback 20240523171616)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240609164852_wp-content_uploads_2024_06_立法院會5月28日三讀修正通過立法院職權行使法部分條文_立法院長韓國瑜_前左2_敲下議事槌_中央社記者王_0e63016eefb01f9c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/06/%E7%AB%8B%E6%B3%95%E9%99%A2%E6%9C%835%E6%9C%8828%E6%9  (wayback 20240609164852)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240609185415_wp-content_uploads_2024_06_立法院會5月28日三讀修正通過立法院職權行使法部分條文_立法院長韓國瑜_前左2_敲下議事槌_中央社記者王_ca314e79ed05657c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/06/%E7%AB%8B%E6%B3%95%E9%99%A2%E6%9C%835%E6%9C%8828%E6%9  (wayback 20240609185415)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240609201307_wp-content_uploads_2024_06_立法院會5月28日三讀修正通過立法院職權行使法部分條文_立法院長韓國瑜_前左2_敲下議事槌_中央社記者王_779a342f7ee49655.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/06/%E7%AB%8B%E6%B3%95%E9%99%A2%E6%9C%835%E6%9C%8828%E6%9  (wayback 20240609201307)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240718235026_wp-content_uploads_2024_05_立法院會24日第3度挑燈夜戰審理國會職權相關修法_至深夜11時27分_立法院長韓國瑜_左2_宣布休息散會_c68ea08e689ef14b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/05/%E7%AB%8B%E6%B3%95%E9%99%A2%E6%9C%8324%E6%97%A5%E7%AC  (wayback 20240718235026)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240720234427_wp-content_uploads_2024_05_立法院會24日第3度挑燈夜戰審理國會職權相關修法_至深夜11時27分_立法院長韓國瑜_左2_宣布休息散會_67220f946ff14354.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/05/%E7%AB%8B%E6%B3%95%E9%99%A2%E6%9C%8324%E6%97%A5%E7%AC  (wayback 20240720234427)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241022072133_wp-content_uploads_2024_10_世台聯合基金會訪問團16日下午赴立法院拜會_院長韓國瑜_右7_副院長江啟臣_右6_及各政黨立委代表出席合_843dd4ff827511d4.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/10/%E4%B8%96%E5%8F%B0%E8%81%AF%E5%90%88%E5%9F%BA%E9%87%9  (wayback 20241022072133)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241022072801_wp-content_uploads_2024_10_世台聯合基金會訪問團16日下午赴立法院拜會_院長韓國瑜_右7_副院長江啟臣_右6_及各政黨立委代表出席合_2c724c7cf1f07be2.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/10/%E4%B8%96%E5%8F%B0%E8%81%AF%E5%90%88%E5%9F%BA%E9%87%9  (wayback 20241022072801)
+- `people/han-guoyu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250723193257_wp-content_uploads_2020_04_韓國瑜罷免投票-640x450_jpeg_94549c7bb1f59cb1.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2020/04/%E9%9F%93%E5%9C%8B%E7%91%9C%E7%BD%B7%E5%85%8D%E6%8A%95%E7  (wayback 20250723193257)
+- `people/helen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250522094116_wp-content_uploads_2025_05_洛杉磯郡高等法院16日為台裔法官黃海倫_右_舉行就職儀式_加州最高法院台裔法官劉弘威_Goodwin-L_d23004a05cbdafe8.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/05/%E6%B4%9B%E6%9D%89%E7%A3%AF%E9%83%A1%E9%AB%98%E7%AD%89%E6  (wayback 20250522094116)
+- `people/helen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250522161949_wp-content_uploads_2025_05_洛杉磯郡高等法院16日為台裔法官黃海倫_右_舉行就職儀式_加州最高法院台裔法官劉弘威_Goodwin-L_8c33808411c0496b.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/05/%E6%B4%9B%E6%9D%89%E7%A3%AF%E9%83%A1%E9%AB%98%E7%AD%89%E6  (wayback 20250522161949)
+- `people/helen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250522161949_wp-content_uploads_2025_05_洛杉磯郡高等法院16日為台裔法官黃海倫_右_舉行就職儀式_加州最高法院台裔法官劉弘威_Goodwin-L_d5b67fb00e8d8211.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/05/%E6%B4%9B%E6%9D%89%E7%A3%AF%E9%83%A1%E9%AB%98%E7%AD%89%E6  (wayback 20250522161949)
+- `people/helen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250522161949_wp-content_uploads_2025_05_洛杉磯郡高等法院16日為台裔法官黃海倫_右_舉行就職儀式_加州最高法院台裔法官劉弘威_Goodwin-L_e98530a97fb8d52f.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/05/%E6%B4%9B%E6%9D%89%E7%A3%AF%E9%83%A1%E9%AB%98%E7%AD%89%E6  (wayback 20250522161949)
+- `people/helen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250522172435_wp-content_uploads_2025_05_洛杉磯郡高等法院16日為台裔法官黃海倫_右_舉行就職儀式_加州最高法院台裔法官劉弘威_Goodwin-L_f7416d601f37cadd.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/05/%E6%B4%9B%E6%9D%89%E7%A3%AF%E9%83%A1%E9%AB%98%E7%AD%89%E6  (wayback 20250522172435)
+- `people/helen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250602072007_wp-content_uploads_2025_05_洛杉磯郡高等法院16日為台裔法官黃海倫_右_舉行就職儀式_加州最高法院台裔法官劉弘威_Goodwin-L_ded27c4a94ef39a3.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/05/%E6%B4%9B%E6%9D%89%E7%A3%AF%E9%83%A1%E9%AB%98%E7%AD%89%E6  (wayback 20250602072007)
+- `people/hsu-hsin-liang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230606154516_wp-content_uploads_2020_11_3-4-許信良在土城看守所-1080x714_jpg_414e8ab61c1a99b4.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/11/3-4-%E8%A8%B1%E4%BF%A1%E8%89%AF%E5%9C%A8%E5%9C%9F%E5%  (wayback 20230606154516)
+- `people/hsu-hsin-liang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230606154516_wp-content_uploads_2020_11_3-5-許信良偷渡在土城看守所-1080x712_jpg_3b0de7eb874f4d78.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/11/3-5-%E8%A8%B1%E4%BF%A1%E8%89%AF%E5%81%B7%E6%B8%A1%E5%  (wayback 20230606154516)
+- `people/hsueh-hu-kuo` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201018015856_wp-content_uploads_2020_10_台灣前輩畫家郭雪湖妻子林阿琴辭世-享嵩壽105歲-265x198_jpg_47c0af62ce56f857.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/10/%E5%8F%B0%E7%81%A3%E5%89%8D%E8%BC%A9%E7%95%AB%E5%AE%B  (wayback 20201018015856)
+- `people/hsueh-hu-kuo` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201021165644_wp-content_uploads_2020_10_台灣前輩畫家郭雪湖妻子林阿琴辭世-享嵩壽105歲-218x150_jpg_af731476bbce2dd8.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/10/%E5%8F%B0%E7%81%A3%E5%89%8D%E8%BC%A9%E7%95%AB%E5%AE%B  (wayback 20201021165644)
+- `people/hsueh-hu-kuo` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201117044433_wp-content_uploads_2020_10_台灣前輩畫家郭雪湖妻子林阿琴辭世-享嵩壽105歲-100x70_jpg_d49fd7051aa3a508.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/10/%E5%8F%B0%E7%81%A3%E5%89%8D%E8%BC%A9%E7%95%AB%E5%AE%B  (wayback 20201117044433)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131442_wp-content_uploads_2023_05_輝達_Nvidia_執行長黃仁勳受邀出席台大畢業典禮-100x70_jpg_14d036b97b34709f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E8%BC%9D%E9%81%94%EF%BC%88Nvidia%EF%BC%89%E5%9F%B7%E  (wayback 20230605131442)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131508_wp-content_uploads_2023_05_黃仁勳-356x220_jpg_c1ed4d1fec867045.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E9%BB%83%E4%BB%81%E5%8B%B3-356x220.jpg  (wayback 20230605131508)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131509_wp-content_uploads_2023_05_黃仁勳-640x394_jpg_1e70567959dc14d4.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E9%BB%83%E4%BB%81%E5%8B%B3-640x394.jpg  (wayback 20230605131509)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131509_wp-content_uploads_2023_05_黃仁勳-768x472_jpg_c143e98e6ad0ea97.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E9%BB%83%E4%BB%81%E5%8B%B3-768x472.jpg  (wayback 20230605131509)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131510_wp-content_uploads_2023_05_黃仁勳-683x420_jpg_f11fbbb0387f9f3a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E9%BB%83%E4%BB%81%E5%8B%B3-683x420.jpg  (wayback 20230605131510)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131510_wp-content_uploads_2023_05_黃仁勳-696x428_jpg_7b7b364e7ce0f2a8.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E9%BB%83%E4%BB%81%E5%8B%B3-696x428.jpg  (wayback 20230605131510)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131511_wp-content_uploads_2023_05_輝達_Nvidia_執行長黃仁勳受邀出席台大畢業典禮-356x220_jpg_41bfdcea3f04cf35.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E8%BC%9D%E9%81%94%EF%BC%88Nvidia%EF%BC%89%E5%9F%B7%E  (wayback 20230605131511)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131511_wp-content_uploads_2023_05_黃仁勳_jpg_230246b040f7b418.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E9%BB%83%E4%BB%81%E5%8B%B3.jpg  (wayback 20230605131511)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230908042926_wp-content_uploads_2023_09_時代雜誌7日公布_AI領域百大影響力人物_名單_數位部長_左_輝達執行長黃仁勳_右_皆在列_中央社檔案照_32110ba0e781d937.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/09/%E6%99%82%E4%BB%A3%E9%9B%9C%E8%AA%8C7%E6%97%A5%E5%85%  (wayback 20230908042926)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230908042927_wp-content_uploads_2023_09_時代雜誌7日公布_AI領域百大影響力人物_名單_數位部長_左_輝達執行長黃仁勳_右_皆在列_中央社檔案照_3619ee3349f50bbb.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/09/%E6%99%82%E4%BB%A3%E9%9B%9C%E8%AA%8C7%E6%97%A5%E5%85%  (wayback 20230908042927)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240702164209_wp-content_uploads_2024_06_輝達執行長黃仁勳14日在加州理工學院畢業典禮致詞_圖取自加州理工學院網頁caltech_edu_-100_4c8f97f49beaf76d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/06/%E8%BC%9D%E9%81%94%E5%9F%B7%E8%A1%8C%E9%95%B7%E9%BB%8  (wayback 20240702164209)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240702182220_wp-content_uploads_2024_06_輝達執行長黃仁勳14日在加州理工學院畢業典禮致詞_圖取自加州理工學院網頁caltech_edu_-218_b960e2fdc98466ef.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/06/%E8%BC%9D%E9%81%94%E5%9F%B7%E8%A1%8C%E9%95%B7%E9%BB%8  (wayback 20240702182220)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250516144531_wp-content_uploads_2025_04_輝達執行長黃仁勳_中央社檔案照片_-218x150_jpg_86beca1242b66914.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/04/%E8%BC%9D%E9%81%94%E5%9F%B7%E8%A1%8C%E9%95%B7%E9%BB%83%E4  (wayback 20250516144531)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250718092205_wp-content_uploads_2025_06_輝達執行長黃仁勳11日出席巴黎科技盛會VivaTech_路透社_-265x198_jpg_0240b8ebaadcfc1a.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/06/%E8%BC%9D%E9%81%94%E5%9F%B7%E8%A1%8C%E9%95%B7%E9%BB%83%E4  (wayback 20250718092205)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250718092206_wp-content_uploads_2025_06_輝達執行長黃仁勳11日出席巴黎科技盛會VivaTech_路透社_-485x360_jpg_e6404d841e13e631.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/06/%E8%BC%9D%E9%81%94%E5%9F%B7%E8%A1%8C%E9%95%B7%E9%BB%83%E4  (wayback 20250718092206)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250718092206_wp-content_uploads_2025_06_輝達執行長黃仁勳11日出席巴黎科技盛會VivaTech_路透社_-80x60_jpg_117729ea3a7e363b.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/06/%E8%BC%9D%E9%81%94%E5%9F%B7%E8%A1%8C%E9%95%B7%E9%BB%83%E4  (wayback 20250718092206)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250718092207_wp-content_uploads_2025_07_輝達_NVIDIA_執行長黃仁勳_中央社檔案照片_-265x198_jpg_2464ed924dd2b55e.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/07/%E8%BC%9D%E9%81%94%EF%BC%88NVIDIA%EF%BC%89%E5%9F%B7%E8%A1  (wayback 20250718092207)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250718092207_wp-content_uploads_2025_07_輝達_NVIDIA_執行長黃仁勳_中央社檔案照片_-640x479_jpg_08c6a4021cfd27a6.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/07/%E8%BC%9D%E9%81%94%EF%BC%88NVIDIA%EF%BC%89%E5%9F%B7%E8%A1  (wayback 20250718092207)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250718092207_wp-content_uploads_2025_07_輝達_NVIDIA_執行長黃仁勳_中央社檔案照片_-768x575_jpg_23d1edf29371c85c.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/07/%E8%BC%9D%E9%81%94%EF%BC%88NVIDIA%EF%BC%89%E5%9F%B7%E8%A1  (wayback 20250718092207)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250718092208_wp-content_uploads_2025_07_輝達_NVIDIA_執行長黃仁勳_中央社檔案照片_-485x360_jpg_5605dd695406f9a3.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/07/%E8%BC%9D%E9%81%94%EF%BC%88NVIDIA%EF%BC%89%E5%9F%B7%E8%A1  (wayback 20250718092208)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250718092208_wp-content_uploads_2025_07_輝達_NVIDIA_執行長黃仁勳_中央社檔案照片_-561x420_jpg_50c9d1f3f91b4160.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/07/%E8%BC%9D%E9%81%94%EF%BC%88NVIDIA%EF%BC%89%E5%9F%B7%E8%A1  (wayback 20250718092208)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250718092208_wp-content_uploads_2025_07_輝達_NVIDIA_執行長黃仁勳_中央社檔案照片_-696x521_jpg_8967168efcc756a4.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/07/%E8%BC%9D%E9%81%94%EF%BC%88NVIDIA%EF%BC%89%E5%9F%B7%E8%A1  (wayback 20250718092208)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250718092208_wp-content_uploads_2025_07_輝達_NVIDIA_執行長黃仁勳_中央社檔案照片_-80x60_jpg_8560883fa7c8094e.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/07/%E8%BC%9D%E9%81%94%EF%BC%88NVIDIA%EF%BC%89%E5%9F%B7%E8%A1  (wayback 20250718092208)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250718092208_wp-content_uploads_2025_07_輝達_NVIDIA_執行長黃仁勳_中央社檔案照片_jpg_d251c03f7547542c.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/07/%E8%BC%9D%E9%81%94%EF%BC%88NVIDIA%EF%BC%89%E5%9F%B7%E8%A1  (wayback 20250718092208)
+- `people/jensen-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250829192251_wp-content_uploads_2025_08_魏哲家與黃仁勳一同到店外分發餐盒給現場守候的媒體記者和粉絲_中央社記者鄭清元攝-114年8月22日-21_dce2ed8f42fce042.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/08/%E9%AD%8F%E5%93%B2%E5%AE%B6%E8%88%87%E9%BB%83%E4%BB%81%E5  (wayback 20250829192251)
+- `people/jeremy-lin` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200620231717_wp-content_uploads_2020_04_林書豪-80x60_png_810126885c62c580.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/04/%E6%9E%97%E6%9B%B8%E8%B1%AA-80x60.png  (wayback 20200620231717)
+- `people/jeremy-lin` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200623032933_wp-content_uploads_2020_04_林書豪_png_bef9b3bb02046e0f.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/04/%E6%9E%97%E6%9B%B8%E8%B1%AA.png  (wayback 20200623032933)
+- `people/jeremy-lin` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200828184221_wp-content_uploads_2020_08_林書豪取得中華民國護照-Jeremy-Lin-696x500_jpg_7149515a59f2d63d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E6%9E%97%E6%9B%B8%E8%B1%AA%E5%8F%96%E5%BE%97%E4%B8%A  (wayback 20200828184221)
+- `people/john-chiang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065319_wp-content_uploads_2016_04_John-Chiang-江俊輝-300x194_jpg_93125d4850a053f9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2016/04/John-Chiang-%E6%B1%9F%E4%BF%8A%E8%BC%9D-300x194.jpg  (wayback 20191018065319)
+- `people/john-chiang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200629102351_wp-content_uploads_2016_04_John-Chiang-江俊輝_jpg_9417f3ade763f011.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2016/04/John-Chiang-%E6%B1%9F%E4%BF%8A%E8%BC%9D.jpg  (wayback 20200629102351)
+- `people/juliar-wang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608043446_wp-content_uploads_2021_05_謝綉緞講多肉植物-534x462_png_c9373ac8182f143c.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/05/%E8%AC%9D%E7%B6%89%E7%B7%9E%E8%AC%9B%E5%A4%9A%E8%82%8  (wayback 20210608043446)
+- `people/juliar-wang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220207200019_wp-content_uploads_2021_05_謝綉緞講多肉植物-265x198_png_92aa61d01c7dc448.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/05/%E8%AC%9D%E7%B6%89%E7%B7%9E%E8%AC%9B%E5%A4%9A%E8%82%8  (wayback 20220207200019)
+- `people/juliar-wang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323114906_wp-content_uploads_2021_05_謝綉緞講多肉植物-485x360_png_e2b4a8fbbd5ce88c.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/05/%E8%AC%9D%E7%B6%89%E7%B7%9E%E8%AC%9B%E5%A4%9A%E8%82%8  (wayback 20220323114906)
+- `people/juliar-wang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323114907_wp-content_uploads_2021_05_謝綉緞講多肉植物-80x60_png_a27554241bc8693d.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/05/%E8%AC%9D%E7%B6%89%E7%B7%9E%E8%AC%9B%E5%A4%9A%E8%82%8  (wayback 20220323114907)
+- `people/juliar-wang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173647_wp-content_uploads_2021_05_謝綉緞講多肉植物-100x70_png_2bbfabed8325d818.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/05/%E8%AC%9D%E7%B6%89%E7%B7%9E%E8%AC%9B%E5%A4%9A%E8%82%8  (wayback 20230222173647)
+- `people/juliar-wang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104122517_wp-content_uploads_2021_05_謝綉緞講多肉植物-218x150_png_80f2d4a3fa5641fa.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/05/%E8%AC%9D%E7%B6%89%E7%B7%9E%E8%AC%9B%E5%A4%9A%E8%82%8  (wayback 20240104122517)
+- `people/katherine-tai` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230402231703_wp-content_uploads_2022_06_美國貿易代表戴琪_Katherine-Tai_-696x385_jpg_50c00941d193eef7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E7%BE%8E%E5%9C%8B%E8%B2%BF%E6%98%93%E4%BB%A3%E8%A1%A  (wayback 20230402231703)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065315_wp-content_uploads_2015_02_台北市長柯文哲-174x98_jpg_27c4b3b8b994ef07.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/02/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%AF%E6%96%8  (wayback 20191018065315)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065317_wp-content_uploads_2014_09_柯文哲-300x200_jpg_dfdd8ad3b36c37e6.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2014/09/%E6%9F%AF%E6%96%87%E5%93%B2-300x200.jpg  (wayback 20191018065317)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200623061822_wp-content_uploads_2015_04_台北市長柯文哲_左_與夫人陳佩琪_右_jpg_696ae6a5217ac371.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/04/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%AF%E6%96%8  (wayback 20200623061822)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200623082441_wp-content_uploads_2018_10_姚文智-諷柯文哲-100x70_jpg_265111b9c8db3008.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/10/%E5%A7%9A%E6%96%87%E6%99%BA-%E8%AB%B7%E6%9F%AF%E6%96%  (wayback 20200623082441)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200623090058_wp-content_uploads_2015_02_台北市長柯文哲_jpg_1a47aa35b7ed071f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/02/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%AF%E6%96%8  (wayback 20200623090058)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200623140350_wp-content_uploads_2020_04_台北市長柯文哲-1-100x70_png_38d2b45503251306.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/04/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%AF%E6%96%8  (wayback 20200623140350)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200625060045_wp-content_uploads_2015_05_柯文哲在公務體系看見的虛假文化_jpg_05c0c33595c04e87.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/05/%E6%9F%AF%E6%96%87%E5%93%B2%E5%9C%A8%E5%85%AC%E5%8B%9  (wayback 20200625060045)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200626002315_wp-content_uploads_2015_08_台北市長柯文哲19日下午在上海虹橋綜合商務區參訪後受訪_jpg_600f28c61685da9b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/08/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%AF%E6%96%8  (wayback 20200626002315)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200626030552_wp-content_uploads_2020_06_台北市長柯文哲表示將成立_港澳辦公室_-1-534x462_png_23ed90e823fed261.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%AF%E6%96%8  (wayback 20200626030552)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200626031310_wp-content_uploads_2015_02_台北市長柯文哲驚呼我的天阿_jpg_3d477cf9e6048196.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/02/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%AF%E6%96%8  (wayback 20200626031310)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200627055039_wp-content_uploads_2020_03_台灣民眾黨主席柯文哲-100x70_png_d85aa682f0a1fab6.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/03/%E5%8F%B0%E7%81%A3%E6%B0%91%E7%9C%BE%E9%BB%A8%E4%B8%B  (wayback 20200627055039)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200628043549_wp-content_uploads_2014_09_柯文哲_jpg_377d13f44f392202.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2014/09/%E6%9F%AF%E6%96%87%E5%93%B2.jpg  (wayback 20200628043549)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200629155846_wp-content_uploads_2020_06_台北市長柯文哲表示將成立_港澳辦公室_-1-218x150_png_88127b4f2a330968.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%AF%E6%96%8  (wayback 20200629155846)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200814142604_wp-content_uploads_2020_06_台北市長柯文哲表示將成立_港澳辦公室_-1-100x70_png_76d050d8313b00d4.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%AF%E6%96%8  (wayback 20200814142604)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200823203749_wp-content_uploads_2020_08_民進黨立委賴品妤批柯文哲_柯伯寡恩_編輯室合成_-218x150_png_f762bbe5458b3ec2.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E6%B0%91%E9%80%B2%E9%BB%A8%E7%AB%8B%E5%A7%94%E8%B3%B  (wayback 20200823203749)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200825185657_wp-content_uploads_2020_08_台北市捷運聯開案遭疑圖利廠商_時任副市長的監察委員陳景峻_左_遭台北市長柯文哲_右_送辦_中央社檔案照片_6ec7796fc3bf27be.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%8D%B7%E9%81%8B%E8%81%A  (wayback 20200825185657)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200827225845_wp-content_uploads_2020_08_民進黨立委賴品妤批柯文哲_柯伯寡恩_編輯室合成_-100x70_png_2c03f061c70c66a0.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E6%B0%91%E9%80%B2%E9%BB%A8%E7%AB%8B%E5%A7%94%E8%B3%B  (wayback 20200827225845)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200829112421_wp-content_uploads_2020_08_民進黨立委賴品妤批柯文哲_柯伯寡恩_編輯室合成_-265x198_png_71e0d7c9702ac782.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E6%B0%91%E9%80%B2%E9%BB%A8%E7%AB%8B%E5%A7%94%E8%B3%B  (wayback 20200829112421)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200904153949_wp-content_uploads_2020_08_民眾黨直轄市長選戰初登場慘敗-柯文哲光環黯淡-534x462_jpg_3c3546efd14b0039.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E6%B0%91%E7%9C%BE%E9%BB%A8%E7%9B%B4%E8%BD%84%E5%B8%8  (wayback 20200904153949)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200908090646_wp-content_uploads_2020_08_民眾黨直轄市長選戰初登場慘敗-柯文哲光環黯淡-80x60_jpg_bc21f7ee2d646583.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E6%B0%91%E7%9C%BE%E9%BB%A8%E7%9B%B4%E8%BD%84%E5%B8%8  (wayback 20200908090646)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201021020342_wp-content_uploads_2020_08_民眾黨主席柯文哲_圖左_在上週黨政會報中拋出_讓其妻子陳佩琪_圖右_擔任精神領袖的構想_-100x70_f693f131c8a12726.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E6%B0%91%E7%9C%BE%E9%BB%A8%E4%B8%BB%E5%B8%AD%E6%9F%A  (wayback 20201021020342)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608031848_wp-content_uploads_2021_02_國民黨主席江啟臣_左_邀請台北市長柯文哲-100x70_jpg_c116bd2c6243fa1d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/02/%E5%9C%8B%E6%B0%91%E9%BB%A8%E4%B8%BB%E5%B8%AD%E6%B1%9  (wayback 20210608031848)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210924075106_wp-content_uploads_2021_09_高虹安-柯文哲-218x150_jpg_40a58566a328568c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/09/%E9%AB%98%E8%99%B9%E5%AE%89-%E6%9F%AF%E6%96%87%E5%93%  (wayback 20210924075106)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210924075149_wp-content_uploads_2021_09_高虹安-柯文哲-100x70_jpg_a912f2f748bd1b80.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/09/%E9%AB%98%E8%99%B9%E5%AE%89-%E6%9F%AF%E6%96%87%E5%93%  (wayback 20210924075149)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20211021231922_wp-content_uploads_2020_04_台北市長柯文哲-1-218x150_png_b7027d328bee9d2e.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/04/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%AF%E6%96%8  (wayback 20211021231922)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323114824_wp-content_uploads_2022_01_柯文哲-218x150_jpg_a9ac6d3217fa8919.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/%E6%9F%AF%E6%96%87%E5%93%B2-218x150.jpg  (wayback 20220323114824)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323114925_wp-content_uploads_2022_01_柯文哲-100x70_jpg_38b0426586c9880d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/%E6%9F%AF%E6%96%87%E5%93%B2-100x70.jpg  (wayback 20220323114925)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323115020_wp-content_uploads_2022_01_柯文哲-265x198_jpg_3c822abbfde58fea.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/%E6%9F%AF%E6%96%87%E5%93%B2-265x198.jpg  (wayback 20220323115020)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323115020_wp-content_uploads_2022_01_柯文哲-485x360_jpg_7981f34c72d87efd.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/%E6%9F%AF%E6%96%87%E5%93%B2-485x360.jpg  (wayback 20220323115020)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323115021_wp-content_uploads_2022_01_柯文哲-80x60_jpg_2ce92d2ae4303d62.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/%E6%9F%AF%E6%96%87%E5%93%B2-80x60.jpg  (wayback 20220323115021)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323115141_wp-content_uploads_2018_10_姚文智-諷柯文哲-640x450_jpg_ce67a2a88a7c164a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/10/%E5%A7%9A%E6%96%87%E6%99%BA-%E8%AB%B7%E6%9F%AF%E6%96%  (wayback 20220323115141)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323115141_wp-content_uploads_2018_10_姚文智-諷柯文哲-768x540_jpg_302ffb7eaa103308.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/10/%E5%A7%9A%E6%96%87%E6%99%BA-%E8%AB%B7%E6%9F%AF%E6%96%  (wayback 20220323115141)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323115142_wp-content_uploads_2018_10_姚文智-諷柯文哲-218x150_jpg_8301fa80862ac6e8.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/10/%E5%A7%9A%E6%96%87%E6%99%BA-%E8%AB%B7%E6%9F%AF%E6%96%  (wayback 20220323115142)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323115143_wp-content_uploads_2018_10_姚文智-諷柯文哲-696x489_jpg_db908a805c0849ce.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/10/%E5%A7%9A%E6%96%87%E6%99%BA-%E8%AB%B7%E6%9F%AF%E6%96%  (wayback 20220323115143)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323115144_wp-content_uploads_2018_10_姚文智-諷柯文哲-597x420_jpg_db558f760a914e29.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/10/%E5%A7%9A%E6%96%87%E6%99%BA-%E8%AB%B7%E6%9F%AF%E6%96%  (wayback 20220323115144)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323115144_wp-content_uploads_2018_10_姚文智-諷柯文哲_jpg_edf7acb81d268d6b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/10/%E5%A7%9A%E6%96%87%E6%99%BA-%E8%AB%B7%E6%9F%AF%E6%96%  (wayback 20220323115144)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323115146_wp-content_uploads_2015_05_柯文哲在公務體系看見的虛假文化-300x157_jpg_e4489fe8f54c167a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/05/%E6%9F%AF%E6%96%87%E5%93%B2%E5%9C%A8%E5%85%AC%E5%8B%9  (wayback 20220323115146)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323115151_wp-content_uploads_2015_08_台北市長柯文哲19日下午在上海虹橋綜合商務區參訪後受訪-300x200_jpg_c3980caa3ab1f22a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/08/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%AF%E6%96%8  (wayback 20220323115151)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323115152_wp-content_uploads_2015_08_台北市長柯文哲19日下午在上海虹橋綜合商務區參訪後受訪-600x400_jpg_5b0c3d4baf914016.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/08/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%AF%E6%96%8  (wayback 20220323115152)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220411093312_wp-content_uploads_2022_04_兼任黨主席的台北市長柯文哲_右_以情緒用語批評黨內幹部_民眾黨立委賴香伶_左_9日在臉書要求柯文哲道歉-_a94940ed0e484721.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E5%85%BC%E4%BB%BB%E9%BB%A8%E4%B8%BB%E5%B8%AD%E7%9A%8  (wayback 20220411093312)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220411093316_wp-content_uploads_2022_04_兼任黨主席的台北市長柯文哲_右_以情緒用語批評黨內幹部_民眾黨立委賴香伶_左_9日在臉書要求柯文哲道歉-_62413752026bf52b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E5%85%BC%E4%BB%BB%E9%BB%A8%E4%B8%BB%E5%B8%AD%E7%9A%8  (wayback 20220411093316)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220411093317_wp-content_uploads_2022_04_兼任黨主席的台北市長柯文哲_右_以情緒用語批評黨內幹部_民眾黨立委賴香伶_左_9日在臉書要求柯文哲道歉-_1c9394e6b7fd6ac3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E5%85%BC%E4%BB%BB%E9%BB%A8%E4%B8%BB%E5%B8%AD%E7%9A%8  (wayback 20220411093317)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220411093321_wp-content_uploads_2022_04_兼任黨主席的台北市長柯文哲_右_以情緒用語批評黨內幹部_民眾黨立委賴香伶_左_9日在臉書要求柯文哲道歉-_c613f21fdf627b43.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E5%85%BC%E4%BB%BB%E9%BB%A8%E4%B8%BB%E5%B8%AD%E7%9A%8  (wayback 20220411093321)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220411093328_wp-content_uploads_2022_04_兼任黨主席的台北市長柯文哲_右_以情緒用語批評黨內幹部_民眾黨立委賴香伶_左_9日在臉書要求柯文哲道歉-_1d4dce9e924b15b8.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E5%85%BC%E4%BB%BB%E9%BB%A8%E4%B8%BB%E5%B8%AD%E7%9A%8  (wayback 20220411093328)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220411093337_wp-content_uploads_2022_04_兼任黨主席的台北市長柯文哲_右_以情緒用語批評黨內幹部_民眾黨立委賴香伶_左_9日在臉書要求柯文哲道歉_ce1731add0cefa47.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E5%85%BC%E4%BB%BB%E9%BB%A8%E4%B8%BB%E5%B8%AD%E7%9A%8  (wayback 20220411093337)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220411094029_wp-content_uploads_2022_04_兼任黨主席的台北市長柯文哲_右_以情緒用語批評黨內幹部_民眾黨立委賴香伶_左_9日在臉書要求柯文哲道歉-_3980d5a11697a2da.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E5%85%BC%E4%BB%BB%E9%BB%A8%E4%B8%BB%E5%B8%AD%E7%9A%8  (wayback 20220411094029)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220619152342_wp-content_uploads_2022_06_柯文哲-100x70_jpg_e9f6db50f244c9ad.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E6%9F%AF%E6%96%87%E5%93%B2-100x70.jpg  (wayback 20220619152342)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220621133638_wp-content_uploads_2022_06_柯文哲-218x150_jpg_c3b33425d3f3174b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E6%9F%AF%E6%96%87%E5%93%B2-218x150.jpg  (wayback 20220621133638)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220703075952_wp-content_uploads_2022_06_柯文哲-1-100x70_jpg_44c7eb934e1edaad.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E6%9F%AF%E6%96%87%E5%93%B2-1-100x70.jpg  (wayback 20220703075952)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220802070411_wp-content_uploads_2022_07_柯文哲_jpg_c474948fa92be03a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/07/%E6%9F%AF%E6%96%87%E5%93%B2.jpg  (wayback 20220802070411)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220802071228_wp-content_uploads_2022_07_陳時中_不怒而威_VS_柯文哲_怒而不威_jpg_c159aa14aeb10990.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/07/%E9%99%B3%E6%99%82%E4%B8%AD%E3%80%8C%E4%B8%8D%E6%80%9  (wayback 20220802071228)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220802071239_wp-content_uploads_2022_07_柯文哲-696x522_jpg_9eb976d65e614109.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/07/%E6%9F%AF%E6%96%87%E5%93%B2-696x522.jpg  (wayback 20220802071239)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220802072303_wp-content_uploads_2022_07_柯文哲-80x60_jpg_ebc02997106da34c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/07/%E6%9F%AF%E6%96%87%E5%93%B2-80x60.jpg  (wayback 20220802072303)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220802072617_wp-content_uploads_2022_07_陳時中_不怒而威_VS_柯文哲_怒而不威_-696x522_jpg_d3734501d42cedd0.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/07/%E9%99%B3%E6%99%82%E4%B8%AD%E3%80%8C%E4%B8%8D%E6%80%9  (wayback 20220802072617)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220802072918_wp-content_uploads_2022_07_陳時中_不怒而威_VS_柯文哲_怒而不威_-560x420_jpg_ad0d130af2b04a6b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/07/%E9%99%B3%E6%99%82%E4%B8%AD%E3%80%8C%E4%B8%8D%E6%80%9  (wayback 20220802072918)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220802131016_wp-content_uploads_2022_07_陳時中_不怒而威_VS_柯文哲_怒而不威_-485x360_jpg_601e04a5817a611e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/07/%E9%99%B3%E6%99%82%E4%B8%AD%E3%80%8C%E4%B8%8D%E6%80%9  (wayback 20220802131016)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220802143126_wp-content_uploads_2022_07_柯文哲-560x420_jpg_278cfd14fa8afcec.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/07/%E6%9F%AF%E6%96%87%E5%93%B2-560x420.jpg  (wayback 20220802143126)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220802145027_wp-content_uploads_2022_07_陳時中_不怒而威_VS_柯文哲_怒而不威_-80x60_jpg_6f17ae9c820b187f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/07/%E9%99%B3%E6%99%82%E4%B8%AD%E3%80%8C%E4%B8%8D%E6%80%9  (wayback 20220802145027)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220802151332_wp-content_uploads_2022_07_柯文哲-640x480_jpg_30d7e2a323cd893b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/07/%E6%9F%AF%E6%96%87%E5%93%B2-640x480.jpg  (wayback 20220802151332)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220803101844_wp-content_uploads_2022_07_陳時中_不怒而威_VS_柯文哲_怒而不威_-265x198_jpg_654cd27fab2db2de.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/07/%E9%99%B3%E6%99%82%E4%B8%AD%E3%80%8C%E4%B8%8D%E6%80%9  (wayback 20220803101844)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220803120006_wp-content_uploads_2022_07_陳時中_不怒而威_VS_柯文哲_怒而不威_-640x480_jpg_14c2f7e5ed6e99ca.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/07/%E9%99%B3%E6%99%82%E4%B8%AD%E3%80%8C%E4%B8%8D%E6%80%9  (wayback 20220803120006)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220804075733_wp-content_uploads_2022_07_柯文哲-265x198_jpg_7389e01d07fc85f6.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/07/%E6%9F%AF%E6%96%87%E5%93%B2-265x198.jpg  (wayback 20220804075733)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220928140220_wp-content_uploads_2019_07_柯文哲組台灣民眾黨_jpg_d341776ddb4e8c65.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/07/%E6%9F%AF%E6%96%87%E5%93%B2%E7%B5%84%E5%8F%B0%E7%81%A  (wayback 20220928140220)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220929042149_wp-content_uploads_2022_06_柯文哲-1-485x360_jpg_dbcfb18c102d0871.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E6%9F%AF%E6%96%87%E5%93%B2-1-485x360.jpg  (wayback 20220929042149)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220929205937_wp-content_uploads_2022_06_柯文哲-1-265x198_jpg_58882498316ad775.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E6%9F%AF%E6%96%87%E5%93%B2-1-265x198.jpg  (wayback 20220929205937)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930112337_wp-content_uploads_2019_07_柯文哲組台灣民眾黨-533x261_jpg_4c4d6797f43995a2.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/07/%E6%9F%AF%E6%96%87%E5%93%B2%E7%B5%84%E5%8F%B0%E7%81%A  (wayback 20220930112337)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930124211_wp-content_uploads_2022_06_柯文哲-1-218x150_jpg_bce460d6c17bb2dc.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E6%9F%AF%E6%96%87%E5%93%B2-1-218x150.jpg  (wayback 20220930124211)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930180858_wp-content_uploads_2015_02_台北市長柯文哲-580x326_jpg_3bd7e24aa86d24e7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/02/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%AF%E6%96%8  (wayback 20220930180858)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930181618_wp-content_uploads_2022_06_柯文哲-1-80x60_jpg_836f4a6a50cd6f8b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E6%9F%AF%E6%96%87%E5%93%B2-1-80x60.jpg  (wayback 20220930181618)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221001111551_wp-content_uploads_2019_07_柯文哲組台灣民眾黨-324x160_jpg_2ed91d06f61aee0b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/07/%E6%9F%AF%E6%96%87%E5%93%B2%E7%B5%84%E5%8F%B0%E7%81%A  (wayback 20221001111551)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221001202328_wp-content_uploads_2015_02_台北市長柯文哲-300x169_jpg_698a711d0b79a281.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/02/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%AF%E6%96%8  (wayback 20221001202328)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221002105850_wp-content_uploads_2015_02_台北市長柯文哲-600x337_jpg_739107bce721a972.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/02/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%AF%E6%96%8  (wayback 20221002105850)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221016104930_wp-content_uploads_2022_10_柯文哲_前右5_15日晚間為黨籍新竹市長參選人高虹安_前右4_站台-218x150_jpg_7fb85a45a1fe9a31.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/10/%E6%9F%AF%E6%96%87%E5%93%B2%EF%BC%88%E5%89%8D%E5%8F%B  (wayback 20221016104930)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230207070310_wp-content_uploads_2023_02_燈會開幕柯文哲站位惹議-100x70_jpg_8149b4f94ae63f63.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/02/%E7%87%88%E6%9C%83%E9%96%8B%E5%B9%95%E6%9F%AF%E6%96%8  (wayback 20230207070310)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230207070310_wp-content_uploads_2023_02_燈會開幕柯文哲站位惹議-218x150_jpg_f747be9c895ea428.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/02/%E7%87%88%E6%9C%83%E9%96%8B%E5%B9%95%E6%9F%AF%E6%96%8  (wayback 20230207070310)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173709_wp-content_uploads_2015_02_台北市長柯文哲驚呼我的天阿-300x273_jpg_bd442559ba7a51ef.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/02/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%AF%E6%96%8  (wayback 20230222173709)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173747_wp-content_uploads_2019_07_柯文哲_左_郭台銘-100x70_jpg_c35a63a98f019ed4.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/07/%E6%9F%AF%E6%96%87%E5%93%B2%EF%BC%88%E5%B7%A6%EF%BC%8  (wayback 20230222173747)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230508215052_wp-content_uploads_2023_01_柯文哲-218x150_jpg_e76f8e6a6f0de5a2.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/01/%E6%9F%AF%E6%96%87%E5%93%B2-218x150.jpg  (wayback 20230508215052)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230515231118_wp-content_uploads_2023_01_柯文哲-100x70_jpg_582df6500b7d56ac.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/01/%E6%9F%AF%E6%96%87%E5%93%B2-100x70.jpg  (wayback 20230515231118)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131452_wp-content_uploads_2023_06_柯文哲_右6_4至8日訪日_首站參拜台灣媽祖廟_該廟董事長詹德薰_左6_是_信賴台灣之友會_顧問-485_3803fc5a77482cae.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E6%9F%AF%E6%96%87%E5%93%B2%EF%BC%88%E5%8F%B36%EF%BC%  (wayback 20230605131452)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131452_wp-content_uploads_2023_06_柯文哲_右6_4至8日訪日_首站參拜台灣媽祖廟_該廟董事長詹德薰_左6_是_信賴台灣之友會_顧問-80x_0b31300bf058a5aa.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E6%9F%AF%E6%96%87%E5%93%B2%EF%BC%88%E5%8F%B36%EF%BC%  (wayback 20230605131452)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131453_wp-content_uploads_2023_06_柯文哲_右6_4至8日訪日_首站參拜台灣媽祖廟_該廟董事長詹德薰_左6_是_信賴台灣之友會_顧問-265_564294c9a77b739a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E6%9F%AF%E6%96%87%E5%93%B2%EF%BC%88%E5%8F%B36%EF%BC%  (wayback 20230605131453)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230609045143_wp-content_uploads_2023_06_柯文哲大嗆美國智庫_美中_等距外交_破功了_-696x385_jpg_d0a36e14c6481814.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E3%80%90%E6%9F%AF%E6%96%87%E5%93%B2%E5%A4%A7%E5%97%8  (wayback 20230609045143)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230609045232_wp-content_uploads_2023_06_柯文哲-218x150_jpg_ca2b5fc4cbef9f88.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E6%9F%AF%E6%96%87%E5%93%B2-218x150.jpg  (wayback 20230609045232)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230609045310_wp-content_uploads_2023_06_柯文哲-100x70_jpg_0033b830d258ed1d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E6%9F%AF%E6%96%87%E5%93%B2-100x70.jpg  (wayback 20230609045310)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716161018_wp-content_uploads_2023_06_柯文哲-6-100x70_jpg_db9d930059a563f3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E6%9F%AF%E6%96%87%E5%93%B2-6-100x70.jpg  (wayback 20230716161018)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716161117_wp-content_uploads_2023_06_柯文哲-6-218x150_jpg_8c2addaf439d07d0.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E6%9F%AF%E6%96%87%E5%93%B2-6-218x150.jpg  (wayback 20230716161117)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716161117_wp-content_uploads_2023_06_柯文哲大嗆美國智庫_美中_等距外交_破功了_-696x522_jpg_51ecf65595d9d823.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E3%80%90%E6%9F%AF%E6%96%87%E5%93%B2%E5%A4%A7%E5%97%8  (wayback 20230716161117)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716161119_wp-content_uploads_2023_06_柯文哲-6-265x198_jpg_a0b3d02f63d781e1.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E6%9F%AF%E6%96%87%E5%93%B2-6-265x198.jpg  (wayback 20230716161119)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716161120_wp-content_uploads_2023_06_柯文哲大嗆美國智庫_美中_等距外交_破功了_-640x480_jpg_9f2eef78a99de138.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E3%80%90%E6%9F%AF%E6%96%87%E5%93%B2%E5%A4%A7%E5%97%8  (wayback 20230716161120)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716161138_wp-content_uploads_2023_06_柯文哲-4-80x60_jpg_50e59825adaf3bfb.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E6%9F%AF%E6%96%87%E5%93%B2-4-80x60.jpg  (wayback 20230716161138)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716161208_wp-content_uploads_2023_06_柯文哲大嗆美國智庫_美中_等距外交_破功了_jpg_69b95dc800280718.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E3%80%90%E6%9F%AF%E6%96%87%E5%93%B2%E5%A4%A7%E5%97%8  (wayback 20230716161208)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716161213_wp-content_uploads_2023_06_柯文哲-6-485x360_jpg_142ab6c86d263dd8.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E6%9F%AF%E6%96%87%E5%93%B2-6-485x360.jpg  (wayback 20230716161213)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716161219_wp-content_uploads_2023_06_柯文哲-6-80x60_jpg_58d5d3bdf64f57b6.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E6%9F%AF%E6%96%87%E5%93%B2-6-80x60.jpg  (wayback 20230716161219)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716161222_wp-content_uploads_2023_06_柯文哲大嗆美國智庫_美中_等距外交_破功了_-560x420_jpg_543d55db85d53a9a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E3%80%90%E6%9F%AF%E6%96%87%E5%93%B2%E5%A4%A7%E5%97%8  (wayback 20230716161222)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716161228_wp-content_uploads_2023_06_柯文哲-4-485x360_jpg_5aa710c5fad70060.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E6%9F%AF%E6%96%87%E5%93%B2-4-485x360.jpg  (wayback 20230716161228)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716161239_wp-content_uploads_2023_06_柯文哲大嗆美國智庫_美中_等距外交_破功了_-485x360_jpg_5ce4ff472bacf9b6.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E3%80%90%E6%9F%AF%E6%96%87%E5%93%B2%E5%A4%A7%E5%97%8  (wayback 20230716161239)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716161355_wp-content_uploads_2023_05_鴻海創辦人郭台銘_左_30日與民眾黨主席柯文哲_右_在金門看海暢聊_圖取自facebook_com-Te_061bce7009fd1ed2.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E9%B4%BB%E6%B5%B7%E5%89%B5%E8%BE%A6%E4%BA%BA%E9%83%A  (wayback 20230716161355)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716161427_wp-content_uploads_2023_06_柯文哲-4-265x198_jpg_caa6e38fd4515405.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E6%9F%AF%E6%96%87%E5%93%B2-4-265x198.jpg  (wayback 20230716161427)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716171833_wp-content_uploads_2023_06_柯文哲大嗆美國智庫_美中_等距外交_破功了_-265x198_jpg_3ef20bf951339bdf.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E3%80%90%E6%9F%AF%E6%96%87%E5%93%B2%E5%A4%A7%E5%97%8  (wayback 20230716171833)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716214327_wp-content_uploads_2023_06_柯文哲大嗆美國智庫_美中_等距外交_破功了_-80x60_jpg_a18ce57ea2452b6b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/06/%E3%80%90%E6%9F%AF%E6%96%87%E5%93%B2%E5%A4%A7%E5%97%8  (wayback 20230716214327)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20231009042155_wp-content_uploads_2023_07_柯文哲-100x70_jpg_65f50011f92a6753.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/07/%E6%9F%AF%E6%96%87%E5%93%B2-100x70.jpg  (wayback 20231009042155)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20231220193632_wp-content_uploads_2023_12_民眾黨總統候選人柯文哲遭爆持分農牧用地卻收租當停車場_民進黨發言人卓冠廷今上午發文質疑柯_連續撒了3個大_010b585a9b6bd0a3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/12/%E6%B0%91%E7%9C%BE%E9%BB%A8%E7%B8%BD%E7%B5%B1%E5%80%9  (wayback 20231220193632)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20231220193633_wp-content_uploads_2023_11_柯文哲-3-80x60_jpg_0c91b3a710577f13.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/11/%E6%9F%AF%E6%96%87%E5%93%B2-3-80x60.jpg  (wayback 20231220193633)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20231220193642_wp-content_uploads_2023_11_柯文哲-3-485x360_jpg_adfc6ed9702a67c5.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/11/%E6%9F%AF%E6%96%87%E5%93%B2-3-485x360.jpg  (wayback 20231220193642)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20231220193645_wp-content_uploads_2023_11_柯文哲-3-265x198_jpg_8bc728297013299f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/11/%E6%9F%AF%E6%96%87%E5%93%B2-3-265x198.jpg  (wayback 20231220193645)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104122727_wp-content_uploads_2024_01_柯文哲桃園車隊掃街-696x522_jpg_e53c10fed30e3f4d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E6%9F%AF%E6%96%87%E5%93%B2%E6%A1%83%E5%9C%92%E8%BB%8  (wayback 20240104122727)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104122730_wp-content_uploads_2024_01_柯文哲-218x150_jpg_c9a21fa44550b157.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E6%9F%AF%E6%96%87%E5%93%B2-218x150.jpg  (wayback 20240104122730)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104122755_wp-content_uploads_2023_11_柯文哲-3-218x150_jpg_0f2ebd11e925b5d8.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/11/%E6%9F%AF%E6%96%87%E5%93%B2-3-218x150.jpg  (wayback 20240104122755)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104122819_wp-content_uploads_2024_01_柯文哲桃園車隊掃街-265x198_jpg_5f25741cc1954d09.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E6%9F%AF%E6%96%87%E5%93%B2%E6%A1%83%E5%9C%92%E8%BB%8  (wayback 20240104122819)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104122936_wp-content_uploads_2024_01_柯文哲桃園車隊掃街-485x360_jpg_4b0045398af2f522.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E6%9F%AF%E6%96%87%E5%93%B2%E6%A1%83%E5%9C%92%E8%BB%8  (wayback 20240104122936)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104122939_wp-content_uploads_2024_01_柯文哲桃園車隊掃街-768x576_jpg_a3ef7d46fecd78df.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E6%9F%AF%E6%96%87%E5%93%B2%E6%A1%83%E5%9C%92%E8%BB%8  (wayback 20240104122939)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104122959_wp-content_uploads_2024_01_柯文哲桃園車隊掃街-560x420_jpg_b8366b188553d770.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E6%9F%AF%E6%96%87%E5%93%B2%E6%A1%83%E5%9C%92%E8%BB%8  (wayback 20240104122959)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104123001_wp-content_uploads_2024_01_柯文哲桃園車隊掃街-640x480_jpg_e6590c3edc956632.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E6%9F%AF%E6%96%87%E5%93%B2%E6%A1%83%E5%9C%92%E8%BB%8  (wayback 20240104123001)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104123002_wp-content_uploads_2024_01_柯文哲-100x70_jpg_924aa4a003dee851.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E6%9F%AF%E6%96%87%E5%93%B2-100x70.jpg  (wayback 20240104123002)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104123159_wp-content_uploads_2024_01_柯文哲桃園車隊掃街-80x60_jpg_9eb458ddbad46e4b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E6%9F%AF%E6%96%87%E5%93%B2%E6%A1%83%E5%9C%92%E8%BB%8  (wayback 20240104123159)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104123347_wp-content_uploads_2024_01_柯文哲桃園車隊掃街_jpg_5969f2ee4cc6a293.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E6%9F%AF%E6%96%87%E5%93%B2%E6%A1%83%E5%9C%92%E8%BB%8  (wayback 20240104123347)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104123557_wp-content_uploads_2023_11_柯文哲-3-100x70_jpg_e1ba8c4b1f5abd76.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/11/%E6%9F%AF%E6%96%87%E5%93%B2-3-100x70.jpg  (wayback 20240104123557)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104123714_wp-content_uploads_2024_01_柯文哲桃園車隊掃街-100x70_jpg_6af1066eb35e2194.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E6%9F%AF%E6%96%87%E5%93%B2%E6%A1%83%E5%9C%92%E8%BB%8  (wayback 20240104123714)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104123718_wp-content_uploads_2024_01_柯文哲桃園車隊掃街-218x150_jpg_344abdfcdac294d9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E6%9F%AF%E6%96%87%E5%93%B2%E6%A1%83%E5%9C%92%E8%BB%8  (wayback 20240104123718)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240429065100_wp-content_uploads_2024_03_台智光案延燒_民進黨台北市議員28日質疑前市長郝龍斌_右_柯文哲_左_任內涉瀆職與圖利_中央社檔案照片_e23addab0456ad73.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/03/%E5%8F%B0%E6%99%BA%E5%85%89%E6%A1%88%E5%BB%B6%E7%87%9  (wayback 20240429065100)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240505183614_wp-content_uploads_2024_05_台灣民眾黨主席柯文哲_中右_與妻子陳珮琪_中左_4日到花蓮關心震後重建狀況_並前往重慶市場發送康乃馨撫慰_9a3fd64d9e0274a6.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/05/%E5%8F%B0%E7%81%A3%E6%B0%91%E7%9C%BE%E9%BB%A8%E4%B8%B  (wayback 20240505183614)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240505183648_wp-content_uploads_2024_05_台灣民眾黨主席柯文哲_中右_與妻子陳珮琪_中左_4日到花蓮關心震後重建狀況_並前往重慶市場發送康乃馨撫慰_5fdbb70908005c7e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/05/%E5%8F%B0%E7%81%A3%E6%B0%91%E7%9C%BE%E9%BB%A8%E4%B8%B  (wayback 20240505183648)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240505183649_wp-content_uploads_2024_05_台灣民眾黨主席柯文哲_中右_與妻子陳珮琪_中左_4日到花蓮關心震後重建狀況_並前往重慶市場發送康乃馨撫慰_0a2779aca5ddaaec.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/05/%E5%8F%B0%E7%81%A3%E6%B0%91%E7%9C%BE%E9%BB%A8%E4%B8%B  (wayback 20240505183649)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240505183705_wp-content_uploads_2024_01_民眾黨黨主席柯文哲_左_與新任總召黃國昌_右_-696x385_jpg_5b325308e4d8781d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E6%B0%91%E7%9C%BE%E9%BB%A8%E9%BB%A8%E4%B8%BB%E5%B8%A  (wayback 20240505183705)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240526082754_wp-content_uploads_2024_01_民眾黨黨主席柯文哲_左_與新任總召黃國昌_右_-218x150_jpg_cd528102a5f25b70.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E6%B0%91%E7%9C%BE%E9%BB%A8%E9%BB%A8%E4%B8%BB%E5%B8%A  (wayback 20240526082754)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240526094835_wp-content_uploads_2024_01_民眾黨黨主席柯文哲_左_與新任總召黃國昌_右_-100x70_jpg_adc1122686639838.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E6%B0%91%E7%9C%BE%E9%BB%A8%E9%BB%A8%E4%B8%BB%E5%B8%A  (wayback 20240526094835)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240609154413_wp-content_uploads_2024_01_民眾黨黨主席柯文哲_左_與新任總召黃國昌_右_-80x60_jpg_58bcf1fb59d73577.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E6%B0%91%E7%9C%BE%E9%BB%A8%E9%BB%A8%E4%B8%BB%E5%B8%A  (wayback 20240609154413)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240609162914_wp-content_uploads_2023_12_柯文哲-1-485x360_jpg_e3d1d2ec69db9a01.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/12/%E6%9F%AF%E6%96%87%E5%93%B2-1-485x360.jpg  (wayback 20240609162914)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240609163953_wp-content_uploads_2023_12_柯文哲-1-80x60_jpg_f2bc5005d8de7610.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/12/%E6%9F%AF%E6%96%87%E5%93%B2-1-80x60.jpg  (wayback 20240609163953)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240609164120_wp-content_uploads_2024_01_民眾黨黨主席柯文哲_左_與新任總召黃國昌_右_-265x198_jpg_03337b5f549eed93.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E6%B0%91%E7%9C%BE%E9%BB%A8%E9%BB%A8%E4%B8%BB%E5%B8%A  (wayback 20240609164120)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240609195350_wp-content_uploads_2024_01_民眾黨黨主席柯文哲_左_與新任總召黃國昌_右_-485x360_jpg_637d331421441168.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E6%B0%91%E7%9C%BE%E9%BB%A8%E9%BB%A8%E4%B8%BB%E5%B8%A  (wayback 20240609195350)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240619130945_wp-content_uploads_2023_12_柯文哲-1-100x70_jpg_af520cbd1db390f7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/12/%E6%9F%AF%E6%96%87%E5%93%B2-1-100x70.jpg  (wayback 20240619130945)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240619160503_wp-content_uploads_2023_12_柯文哲-1-218x150_jpg_e1e78fdb354f3b56.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/12/%E6%9F%AF%E6%96%87%E5%93%B2-1-218x150.jpg  (wayback 20240619160503)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240816010835_wp-content_uploads_2024_08_民眾黨主席柯文哲_圖_近日遭指總統大選政治獻金申報不實_另有廠商稱未收到款項等_柯文哲12日下午在台北舉_91aee73865b3f963.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/08/%E6%B0%91%E7%9C%BE%E9%BB%A8%E4%B8%BB%E5%B8%AD%E6%9F%A  (wayback 20240816010835)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240816011611_wp-content_uploads_2024_08_柯文哲-534x407_jpg_1fe67da8f39b74cd.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/08/%E6%9F%AF%E6%96%87%E5%93%B2-534x407.jpg  (wayback 20240816011611)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240816011715_wp-content_uploads_2024_08_柯文哲-485x360_jpg_da4ceadee78d9160.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/08/%E6%9F%AF%E6%96%87%E5%93%B2-485x360.jpg  (wayback 20240816011715)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240816013010_wp-content_uploads_2024_08_柯文哲-265x198_jpg_7b2e07982e4a7bc1.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/08/%E6%9F%AF%E6%96%87%E5%93%B2-265x198.jpg  (wayback 20240816013010)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240816014802_wp-content_uploads_2024_08_柯文哲-80x60_jpg_899d4c384da1b3c2.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/08/%E6%9F%AF%E6%96%87%E5%93%B2-80x60.jpg  (wayback 20240816014802)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240816020948_wp-content_uploads_2024_08_柯文哲_中央社檔案照片_-265x198_jpg_ef3d7a9a9c8e63b7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/08/%E6%9F%AF%E6%96%87%E5%93%B2%E3%80%82%EF%BC%88%E4%B8%A  (wayback 20240816020948)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240816025734_wp-content_uploads_2024_08_柯文哲_中央社檔案照片_-80x60_jpg_b6841a800e860e75.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/08/%E6%9F%AF%E6%96%87%E5%93%B2%E3%80%82%EF%BC%88%E4%B8%A  (wayback 20240816025734)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240816061144_wp-content_uploads_2024_08_柯文哲_中央社檔案照片_-485x360_jpg_1be5fefed7400219.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/08/%E6%9F%AF%E6%96%87%E5%93%B2%E3%80%82%EF%BC%88%E4%B8%A  (wayback 20240816061144)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905124555_wp-content_uploads_2024_09_前台北市長柯文哲涉京華城案聲押更裁_台北地方法院已定5日上午召開羈押庭_轄區警方預計派400名警力到場維_68e06f9165333873.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/09/%E5%89%8D%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%A  (wayback 20240905124555)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905124749_wp-content_uploads_2024_08_民眾黨主席柯文哲_圖_近日遭指總統大選政治獻金申報不實_另有廠商稱未收到款項等_柯文哲12日下午在台北舉_b0c20325a29f9beb.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/08/%E6%B0%91%E7%9C%BE%E9%BB%A8%E4%B8%BB%E5%B8%AD%E6%9F%A  (wayback 20240905124749)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905130009_wp-content_uploads_2024_09_8月31日凌晨將前台北市長柯文哲_中_移送北檢複訊_中央社記者趙世勳攝-113年8月31日-e17254_4d642d6ec77e3d15.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/09/8%E6%9C%8831%E6%97%A5%E5%87%8C%E6%99%A8%E5%B0%87%E5%8  (wayback 20240905130009)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905132943_wp-content_uploads_2024_09_8月31日凌晨將前台北市長柯文哲_中_移送北檢複訊_中央社記者趙世勳攝-113年8月31日-e17254_08242ed93070afcb.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/09/8%E6%9C%8831%E6%97%A5%E5%87%8C%E6%99%A8%E5%B0%87%E5%8  (wayback 20240905132943)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905133926_wp-content_uploads_2024_09_台北地院認為_檢察官舉證無法認定柯文哲犯罪嫌疑重大_2日凌晨裁定無保請回_-265x198_jpg_efe873544f716108.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/09/%E5%8F%B0%E5%8C%97%E5%9C%B0%E9%99%A2%E8%AA%8D%E7%82%B  (wayback 20240905133926)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905134116_wp-content_uploads_2023_11_柯文哲-3-696x385_jpg_2840ce60a7f42988.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/11/%E6%9F%AF%E6%96%87%E5%93%B2-3-696x385.jpg  (wayback 20240905134116)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905140601_wp-content_uploads_2024_09_台北地院認為_檢察官舉證無法認定柯文哲犯罪嫌疑重大_2日凌晨裁定無保請回_-485x360_jpg_6458c1bc9a88c9ea.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/09/%E5%8F%B0%E5%8C%97%E5%9C%B0%E9%99%A2%E8%AA%8D%E7%82%B  (wayback 20240905140601)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905142758_wp-content_uploads_2024_08_民眾黨主席柯文哲_圖_近日遭指總統大選政治獻金申報不實_另有廠商稱未收到款項等_柯文哲12日下午在台北舉_10178b07bc32b224.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/08/%E6%B0%91%E7%9C%BE%E9%BB%A8%E4%B8%BB%E5%B8%AD%E6%9F%A  (wayback 20240905142758)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905144004_wp-content_uploads_2024_09_8月31日凌晨將前台北市長柯文哲_中_移送北檢複訊_中央社記者趙世勳攝-113年8月31日-e17254_a6386163544f4d08.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/09/8%E6%9C%8831%E6%97%A5%E5%87%8C%E6%99%A8%E5%B0%87%E5%8  (wayback 20240905144004)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905144135_wp-content_uploads_2024_09_前台北市長柯文哲涉京華城案聲押更裁_台北地方法院已定5日上午召開羈押庭_轄區警方預計派400名警力到場維_43f913723fd8fce9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/09/%E5%89%8D%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%A  (wayback 20240905144135)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905144843_wp-content_uploads_2024_09_前台北市長柯文哲涉京華城案聲押更裁_台北地方法院已定5日上午召開羈押庭_轄區警方預計派400名警力到場維_1b380a8018f76285.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/09/%E5%89%8D%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%A  (wayback 20240905144843)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905163958_wp-content_uploads_2024_08_民眾黨主席柯文哲_圖_近日遭指總統大選政治獻金申報不實_另有廠商稱未收到款項等_柯文哲12日下午在台北舉_5d065846ba0befed.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/08/%E6%B0%91%E7%9C%BE%E9%BB%A8%E4%B8%BB%E5%B8%AD%E6%9F%A  (wayback 20240905163958)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240909053432_wp-content_uploads_2024_09_前台北市長_民眾黨主席柯文哲涉京華城案遭羈押禁見_有支持者發起6日晚間到台北看守所外集結靜坐_柯文哲胞妹_84d2ac83edbda3ab.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/09/%E5%89%8D%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E3%80%8  (wayback 20240909053432)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240909063138_wp-content_uploads_2024_09_台北地院認為_檢察官舉證無法認定柯文哲犯罪嫌疑重大_2日凌晨裁定無保請回_-100x70_jpg_d2cabe885a722e88.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/09/%E5%8F%B0%E5%8C%97%E5%9C%B0%E9%99%A2%E8%AA%8D%E7%82%B  (wayback 20240909063138)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240909065524_wp-content_uploads_2024_09_前台北市長柯文哲_中_涉京華城案遭聲押_北院5日再度開庭_更裁柯文哲羈押禁見_柯文哲戴上手銬_由法警戒護_27071cf3c4a452dd.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/09/%E5%89%8D%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%A  (wayback 20240909065524)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240909074403_wp-content_uploads_2024_09_前台北市長_民眾黨主席柯文哲涉京華城案遭羈押禁見_有支持者發起6日晚間到台北看守所外集結靜坐_柯文哲胞妹_788ad4565fb89371.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/09/%E5%89%8D%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E3%80%8  (wayback 20240909074403)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240909085159_wp-content_uploads_2024_09_前台北市長_民眾黨主席柯文哲_中白衣者_涉京華城案_北院5日下午再開羈押庭裁定柯文哲羈押禁見_柯文哲在法_203d850a25519371.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/09/%E5%89%8D%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E3%80%8  (wayback 20240909085159)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240909094522_wp-content_uploads_2024_09_前台北市長_民眾黨主席柯文哲_中白衣者_涉京華城案_北院5日下午再開羈押庭裁定柯文哲羈押禁見_柯文哲在法_40297268a51ec847.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/09/%E5%89%8D%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E3%80%8  (wayback 20240909094522)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240909111444_wp-content_uploads_2024_09_台北地院認為_檢察官舉證無法認定柯文哲犯罪嫌疑重大_2日凌晨裁定無保請回_-218x150_jpg_2bfe896311e78f6f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/09/%E5%8F%B0%E5%8C%97%E5%9C%B0%E9%99%A2%E8%AA%8D%E7%82%B  (wayback 20240909111444)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240909111954_wp-content_uploads_2024_09_前台北市長柯文哲_中_涉京華城案遭聲押_北院5日再度開庭_更裁柯文哲羈押禁見_柯文哲戴上手銬_由法警戒護_2780b68876e3dc04.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/09/%E5%89%8D%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9F%A  (wayback 20240909111954)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241022072040_wp-content_uploads_2024_10_柯文哲秘書許芷瑜-265x198_jpg_6abbe16880c0d827.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/10/%E6%9F%AF%E6%96%87%E5%93%B2%E7%A7%98%E6%9B%B8%E8%A8%B  (wayback 20241022072040)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241022072104_wp-content_uploads_2024_10_柯文哲秘書許芷瑜-80x60_jpg_5c8a075f1e767fc0.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/10/%E6%9F%AF%E6%96%87%E5%93%B2%E7%A7%98%E6%9B%B8%E8%A8%B  (wayback 20241022072104)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241022072818_wp-content_uploads_2024_10_柯文哲秘書許芷瑜-485x360_jpg_ee035b0d84f56b55.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/10/%E6%9F%AF%E6%96%87%E5%93%B2%E7%A7%98%E6%9B%B8%E8%A8%B  (wayback 20241022072818)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108212518_wp-content_uploads_2024_09_8月31日凌晨將前台北市長柯文哲_中_移送北檢複訊_中央社記者趙世勳攝-113年8月31日-e17254_44c67e5591a73c78.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/09/8%E6%9C%8831%E6%97%A5%E5%87%8C%E6%99%A8%E5%B0%87%E5%8  (wayback 20241108212518)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250718092209_wp-content_uploads_2024_03_台智光案延燒_民進黨台北市議員28日質疑前市長郝龍斌_右_柯文哲_左_任內涉瀆職與圖利_中央社檔案照片_3a2a0b7c12008ec8.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2024/03/%E5%8F%B0%E6%99%BA%E5%85%89%E6%A1%88%E5%BB%B6%E7%87%92%EF  (wayback 20250718092209)
+- `people/ke-wenze` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250718092209_wp-content_uploads_2024_03_台智光案延燒_民進黨台北市議員28日質疑前市長郝龍斌_右_柯文哲_左_任內涉瀆職與圖利_中央社檔案照片_57b9ba83c2df8794.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2024/03/%E5%8F%B0%E6%99%BA%E5%85%89%E6%A1%88%E5%BB%B6%E7%87%92%EF  (wayback 20250718092209)
+- `people/kin-ko` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220508202934_wp-content_uploads_2022_05_柯金寅-mom-100x70_jpg_ece76696f6b33000.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/05/%E6%9F%AF%E9%87%91%E5%AF%85-mom-100x70.jpg  (wayback 20220508202934)
+- `people/kin-ko` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221002204919_wp-content_uploads_2022_05_柯金寅-mom-218x150_jpg_724a6921b2148caf.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/05/%E6%9F%AF%E9%87%91%E5%AF%85-mom-218x150.jpg  (wayback 20221002204919)
+- `people/kuei-ling-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20211124171104_wp-content_uploads_2021_11_全美台灣同鄉會會長陳桂鈴_左3_23日邀集多位台美人團體會長召開記者會_呼籲台灣民眾1218反萊豬公投投_508a9c505e54b549.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/11/%E5%85%A8%E7%BE%8E%E5%8F%B0%E7%81%A3%E5%90%8C%E9%84%8  (wayback 20211124171104)
+- `people/lanhee-j-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108164228_wp-content_uploads_2024_11_川普當選美國總統_史丹佛大學胡佛研究所研究員陳仁宜_Lanhee-Chen_相信他的任期會做台灣的朋友_01c5a211bfe423dc.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/11/%E5%B7%9D%E6%99%AE%E7%95%B6%E9%81%B8%E7%BE%8E%E5%9C%8  (wayback 20241108164228)
+- `people/lanhee-j-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108164229_wp-content_uploads_2024_11_川普當選美國總統_史丹佛大學胡佛研究所研究員陳仁宜_Lanhee-Chen_相信他的任期會做台灣的朋友_64ca9ca0e083c100.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/11/%E5%B7%9D%E6%99%AE%E7%95%B6%E9%81%B8%E7%BE%8E%E5%9C%8  (wayback 20241108164229)
+- `people/lanhee-j-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108164238_wp-content_uploads_2024_11_川普當選美國總統_史丹佛大學胡佛研究所研究員陳仁宜_Lanhee-Chen_相信他的任期會做台灣的朋友_42d4c0b8bffb67b7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/11/%E5%B7%9D%E6%99%AE%E7%95%B6%E9%81%B8%E7%BE%8E%E5%9C%8  (wayback 20241108164238)
+- `people/lanhee-j-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108164259_wp-content_uploads_2024_11_川普當選美國總統_史丹佛大學胡佛研究所研究員陳仁宜_Lanhee-Chen_相信他的任期會做台灣的朋友_947743adf16be5ab.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/11/%E5%B7%9D%E6%99%AE%E7%95%B6%E9%81%B8%E7%BE%8E%E5%9C%8  (wayback 20241108164259)
+- `people/lanhee-j-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108164307_wp-content_uploads_2024_11_川普當選美國總統_史丹佛大學胡佛研究所研究員陳仁宜_Lanhee-Chen_相信他的任期會做台灣的朋友_ae2f16fb221ad11c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/11/%E5%B7%9D%E6%99%AE%E7%95%B6%E9%81%B8%E7%BE%8E%E5%9C%8  (wayback 20241108164307)
+- `people/li-fa-xie` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065319_wp-content_uploads_2019_09_謝里法-100x70_jpg_5b94399b8550f88d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/09/%E8%AC%9D%E9%87%8C%E6%B3%95-100x70.jpg  (wayback 20191018065319)
+- `people/liao-ji-chun` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220508192915_wp-content_uploads_2018_11_廖繼春寄給陳澄波的明信片_有椰子樹的風景_-300x211_jpg_c64779f713d21d6c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/11/%E5%BB%96%E7%B9%BC%E6%98%A5%E5%AF%84%E7%B5%A6%E9%99%B  (wayback 20220508192915)
+- `people/liao-ji-chun` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220508192916_wp-content_uploads_2018_11_廖繼春寄給陳澄波的明信片_有椰子樹的風景_jpg_55468746b8479721.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/11/%E5%BB%96%E7%B9%BC%E6%98%A5%E5%AF%84%E7%B5%A6%E9%99%B  (wayback 20220508192916)
+- `people/liao-ji-chun` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220508192917_wp-content_uploads_2018_11_廖繼春寄給陳澄波的明信片_有椰子樹的風景_-768x539_jpg_01ce7048a5da27d9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/11/%E5%BB%96%E7%B9%BC%E6%98%A5%E5%AF%84%E7%B5%A6%E9%99%B  (wayback 20220508192917)
+- `people/liao-ji-chun` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220508194425_wp-content_uploads_2018_11_廖繼春寄給陳澄波的明信片_有椰子樹的風景_-100x70_jpg_b2a04910ef7b551f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/11/%E5%BB%96%E7%B9%BC%E6%98%A5%E5%AF%84%E7%B5%A6%E9%99%B  (wayback 20220508194425)
+- `people/liao-ji-chun` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220508202931_wp-content_uploads_2018_11_廖繼春寄給陳澄波的明信片_有椰子樹的風景_-640x450_jpg_f4218bc01ab65b81.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/11/%E5%BB%96%E7%B9%BC%E6%98%A5%E5%AF%84%E7%B5%A6%E9%99%B  (wayback 20220508202931)
+- `people/liao-ji-chun` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220508202931_wp-content_uploads_2018_11_廖繼春寄給陳澄波的明信片_有椰子樹的風景_-696x489_jpg_64c8c9f032ddd8a1.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/11/%E5%BB%96%E7%B9%BC%E6%98%A5%E5%AF%84%E7%B5%A6%E9%99%B  (wayback 20220508202931)
+- `people/liao-ji-chun` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220508202933_wp-content_uploads_2018_11_廖繼春寄給陳澄波的明信片_有椰子樹的風景_-598x420_jpg_87c242575a575d0f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/11/%E5%BB%96%E7%B9%BC%E6%98%A5%E5%AF%84%E7%B5%A6%E9%99%B  (wayback 20220508202933)
+- `people/liao-qingshan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065315_wp-content_uploads_2017_09_台灣人支持愛德華參選總統的大圓盤_美麗島_-廖清山設計製作_1980年_洛杉磯--300x214_jpg_48bf6bd3008bffc8.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2017/09/%E5%8F%B0%E7%81%A3%E4%BA%BA%E6%94%AF%E6%8C%81%E6%84%9  (wayback 20191018065315)
+- `people/liao-qingshan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200625135418_wp-content_uploads_2017_09_台灣人支持愛德華參選總統的大圓盤_美麗島_-廖清山設計製作_1980年_洛杉磯-_jpg_059070ddef5466ee.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2017/09/%E5%8F%B0%E7%81%A3%E4%BA%BA%E6%94%AF%E6%8C%81%E6%84%9  (wayback 20200625135418)
+- `people/lin-jialong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065318_wp-content_uploads_2019_09_林佳龍_民主可以很觀光-80x60_jpg_ba48b0712fab3686.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/09/%E6%9E%97%E4%BD%B3%E9%BE%8D%EF%BC%9A%E6%B0%91%E4%B8%B  (wayback 20191018065318)
+- `people/lin-jialong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065319_wp-content_uploads_2019_09_林佳龍_民主可以很觀光-265x198_jpg_2ec9719d5f7f8227.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/09/%E6%9E%97%E4%BD%B3%E9%BE%8D%EF%BC%9A%E6%B0%91%E4%B8%B  (wayback 20191018065319)
+- `people/lin-jialong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065323_wp-content_uploads_2019_09_林佳龍_民主可以很觀光-100x70_jpg_7a6552991e3e3e5e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/09/%E6%9E%97%E4%BD%B3%E9%BE%8D%EF%BC%9A%E6%B0%91%E4%B8%B  (wayback 20191018065323)
+- `people/lin-jialong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220207200340_wp-content_uploads_2021_12_林佳龍-265x198_jpg_998cac042e416b04.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/12/%E6%9E%97%E4%BD%B3%E9%BE%8D-265x198.jpg  (wayback 20220207200340)
+- `people/lin-jialong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220724045348_wp-content_uploads_2022_03_林佳龍-218x150_jpg_ffe69a7323b10595.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/03/%E6%9E%97%E4%BD%B3%E9%BE%8D-218x150.jpg  (wayback 20220724045348)
+- `people/lin-jialong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220724045400_wp-content_uploads_2022_03_林佳龍-100x70_jpg_52f7df96b9fbb941.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/03/%E6%9E%97%E4%BD%B3%E9%BE%8D-100x70.jpg  (wayback 20220724045400)
+- `people/lin-jialong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220929015951_wp-content_uploads_2022_09_民進黨新北市長參選人林佳龍_右_接受寶島聯播網_新聞放鞭炮_廣播專訪-218x150_jpg_e3543ab33f5f1e56.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/09/%E6%B0%91%E9%80%B2%E9%BB%A8%E6%96%B0%E5%8C%97%E5%B8%8  (wayback 20220929015951)
+- `people/lin-jialong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221005044354_wp-content_uploads_2022_09_林佳龍-1-100x70_jpg_fae5eedf562d180f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/09/%E6%9E%97%E4%BD%B3%E9%BE%8D-1-100x70.jpg  (wayback 20221005044354)
+- `people/lin-jialong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221005044354_wp-content_uploads_2022_09_林佳龍-1-218x150_jpg_15f3aff9afe4eb74.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/09/%E6%9E%97%E4%BD%B3%E9%BE%8D-1-218x150.jpg  (wayback 20221005044354)
+- `people/lin-jialong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104122942_wp-content_uploads_2023_09_國史館24日舉行_台灣人民自救宣言案_史料彙編暨新書發表_總統府秘書長林佳龍_圖_致詞-218x150_efea3a8e9cc45802.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/09/%E5%9C%8B%E5%8F%B2%E9%A4%A824%E6%97%A5%E8%88%89%E8%A1  (wayback 20240104122942)
+- `people/lin-jialong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104123537_wp-content_uploads_2023_09_國史館24日舉行_台灣人民自救宣言案_史料彙編暨新書發表_總統府秘書長林佳龍_圖_致詞-100x70_j_23a217352479ac88.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/09/%E5%9C%8B%E5%8F%B2%E9%A4%A824%E6%97%A5%E8%88%89%E8%A1  (wayback 20240104123537)
+- `people/lin-jialong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240429065217_wp-content_uploads_2024_02_林佳龍-100x70_jpg_ccd90b5091f42951.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/02/%E6%9E%97%E4%BD%B3%E9%BE%8D-100x70.jpg  (wayback 20240429065217)
+- `people/linda-gail-arrigo` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200626225151_wp-content_uploads_2019_12_1979-8-美麗島雜誌社成員在仁愛路上合影_艾琳達-提供_-100x70_jpg_bcfbf70497619a5e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/12/1979-8-%E7%BE%8E%E9%BA%97%E5%B3%B6%E9%9B%9C%E8%AA%8C%  (wayback 20200626225151)
+- `people/linda-gail-arrigo` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221207185714_wp-content_uploads_2022_12_艾琳達獲頒鄭南榕紀念獎-陳菊恭賀獲得肯定-218x150_png_71967ab42aff5885.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/12/%E8%89%BE%E7%90%B3%E9%81%94%E7%8D%B2%E9%A0%92%E9%84%A  (wayback 20221207185714)
+- `people/linda-gail-arrigo` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221207213754_wp-content_uploads_2022_12_艾琳達獲頒鄭南榕紀念獎-陳菊恭賀獲得肯定-100x70_png_d6eba843e2caa94d.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/12/%E8%89%BE%E7%90%B3%E9%81%94%E7%8D%B2%E9%A0%92%E9%84%A  (wayback 20221207213754)
+- `people/linda-gail-arrigo` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221208042556_wp-content_uploads_2022_12_艾琳達獲頒鄭南榕紀念獎-陳菊恭賀獲得肯定-324x400_png_627d756292618380.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/12/%E8%89%BE%E7%90%B3%E9%81%94%E7%8D%B2%E9%A0%92%E9%84%A  (wayback 20221208042556)
+- `people/ling-ling-chang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065316_wp-content_uploads_2018_06_Sen_Chang_Takes_Oath_張玲玲州參議員-265x198_jpg_689599405c8e75a8.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/06/Sen_Chang_Takes_Oath_%E5%BC%B5%E7%8E%B2%E7%8E%B2%E5%B  (wayback 20191018065316)
+- `people/ling-ling-chang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323114943_wp-content_uploads_2018_06_Sen_Chang_Takes_Oath_張玲玲州參議員-485x360_jpg_3236dadfa7dc44e7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/06/Sen_Chang_Takes_Oath_%E5%BC%B5%E7%8E%B2%E7%8E%B2%E5%B  (wayback 20220323114943)
+- `people/ling-ling-chang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323114943_wp-content_uploads_2018_06_Sen_Chang_Takes_Oath_張玲玲州參議員-80x60_jpg_5268344917b46c4d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/06/Sen_Chang_Takes_Oath_%E5%BC%B5%E7%8E%B2%E7%8E%B2%E5%B  (wayback 20220323114943)
+- `people/lisa-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200623040639_wp-content_uploads_2020_06_AMD-執行長蘇姿丰_Lisa-Su_-324x400_jpg_1dc027c4cff1ea52.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/AMD-%E5%9F%B7%E8%A1%8C%E9%95%B7%E8%98%87%E5%A7%BF%E4%  (wayback 20200623040639)
+- `people/lisa-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200626025008_wp-content_uploads_2020_06_AMD-執行長蘇姿丰_Lisa-Su_-100x70_jpg_0e513d7c06cea1e5.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/AMD-%E5%9F%B7%E8%A1%8C%E9%95%B7%E8%98%87%E5%A7%BF%E4%  (wayback 20200626025008)
+- `people/lisa-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201021175437_wp-content_uploads_2020_09_超微_AMD_執行長蘇姿丰-Lisa-Su-100x70_jpg_bcfaae72ec8b53ac.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/09/%E8%B6%85%E5%BE%AE%EF%BC%88AMD%EF%BC%89%E5%9F%B7%E8%A  (wayback 20201021175437)
+- `people/lisa-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201219134458_wp-content_uploads_2020_06_AMD-執行長蘇姿丰_Lisa-Su_-218x150_jpg_7867862c80c1bb5f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/AMD-%E5%9F%B7%E8%A1%8C%E9%95%B7%E8%98%87%E5%A7%BF%E4%  (wayback 20201219134458)
+- `people/lisa-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608030801_wp-content_uploads_2020_09_超微_AMD_執行長蘇姿丰-Lisa-Su-534x462_jpg_7a2a93d0f00714b9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/09/%E8%B6%85%E5%BE%AE%EF%BC%88AMD%EF%BC%89%E5%9F%B7%E8%A  (wayback 20210608030801)
+- `people/lisa-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608072017_wp-content_uploads_2020_09_超微_AMD_執行長蘇姿丰-Lisa-Su-265x198_jpg_8a66f82fbd3ed036.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/09/%E8%B6%85%E5%BE%AE%EF%BC%88AMD%EF%BC%89%E5%9F%B7%E8%A  (wayback 20210608072017)
+- `people/lisa-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608100651_wp-content_uploads_2020_09_超微_AMD_執行長蘇姿丰-Lisa-Su-356x220_jpg_c3574c8a72d3ecbb.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/09/%E8%B6%85%E5%BE%AE%EF%BC%88AMD%EF%BC%89%E5%9F%B7%E8%A  (wayback 20210608100651)
+- `people/lisa-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20211109110614_wp-content_uploads_2020_08_蘇姿丰Lisa-Su-2-265x198_jpg_da81405c8da83a40.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E8%98%87%E5%A7%BF%E4%B8%B0Lisa-Su-2-265x198.jpg  (wayback 20211109110614)
+- `people/lisa-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220207200009_wp-content_uploads_2020_09_超微_AMD_執行長蘇姿丰-Lisa-Su-218x150_jpg_ec3d36678f93d15c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/09/%E8%B6%85%E5%BE%AE%EF%BC%88AMD%EF%BC%89%E5%9F%B7%E8%A  (wayback 20220207200009)
+- `people/lisa-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220207214435_wp-content_uploads_2020_09_超微_AMD_執行長蘇姿丰-Lisa-Su-324x400_jpg_43a76ad5974ecb43.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/09/%E8%B6%85%E5%BE%AE%EF%BC%88AMD%EF%BC%89%E5%9F%B7%E8%A  (wayback 20220207214435)
+- `people/lisa-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250416223144_wp-content_uploads_2025_04_超微_AMD_董事長暨執行長蘇姿丰Lisa-Su_圖_15日上午赴台大以_AMD轉型AI領導者_發表演講_01d5204f6c4e8de5.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/04/%E8%B6%85%E5%BE%AE%EF%BC%88AMD%EF%BC%89%E8%91%A3%E4%BA%8B  (wayback 20250416223144)
+- `people/lisa-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250522162014_wp-content_uploads_2025_04_超微_AMD_董事長暨執行長蘇姿丰Lisa-Su_圖_15日上午赴台大以_AMD轉型AI領導者_發表演講_0b2ca3d872e6b5d8.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/04/%E8%B6%85%E5%BE%AE%EF%BC%88AMD%EF%BC%89%E8%91%A3%E4%BA%8B  (wayback 20250522162014)
+- `people/lisa-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250522162014_wp-content_uploads_2025_04_超微_AMD_董事長暨執行長蘇姿丰Lisa-Su_圖_15日上午赴台大以_AMD轉型AI領導者_發表演講_8bc694fad71aac3b.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/04/%E8%B6%85%E5%BE%AE%EF%BC%88AMD%EF%BC%89%E8%91%A3%E4%BA%8B  (wayback 20250522162014)
+- `people/lisa-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250522162020_wp-content_uploads_2025_04_超微_AMD_董事長暨執行長蘇姿丰Lisa-Su_圖_15日上午赴台大以_AMD轉型AI領導者_發表演講_60201a1e55b423d9.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/04/%E8%B6%85%E5%BE%AE%EF%BC%88AMD%EF%BC%89%E8%91%A3%E4%BA%8B  (wayback 20250522162020)
+- `people/lisa-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250522162020_wp-content_uploads_2025_04_超微_AMD_董事長暨執行長蘇姿丰Lisa-Su_圖_15日上午赴台大以_AMD轉型AI領導者_發表演講_aae697e2a6b581a1.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/04/%E8%B6%85%E5%BE%AE%EF%BC%88AMD%EF%BC%89%E8%91%A3%E4%BA%8B  (wayback 20250522162020)
+- `people/lisa-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250522162020_wp-content_uploads_2025_04_超微_AMD_董事長暨執行長蘇姿丰Lisa-Su_圖_15日上午赴台大以_AMD轉型AI領導者_發表演講_f787c370265cea02.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/04/%E8%B6%85%E5%BE%AE%EF%BC%88AMD%EF%BC%89%E8%91%A3%E4%BA%8B  (wayback 20250522162020)
+- `people/lisa-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250522162021_wp-content_uploads_2025_04_超微_AMD_董事長暨執行長蘇姿丰Lisa-Su_圖_15日上午赴台大以_AMD轉型AI領導者_發表演講_b7cedf0fe1840be1.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/04/%E8%B6%85%E5%BE%AE%EF%BC%88AMD%EF%BC%89%E8%91%A3%E4%BA%8B  (wayback 20250522162021)
+- `people/long-rong-mark-kao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220912121758_wp-content_uploads_2014_03_FAPA會長高龍榮_jpg_b4edd2656d10863b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2014/03/FAPA%E6%9C%83%E9%95%B7%E9%AB%98%E9%BE%8D%E6%A6%AE.jpg  (wayback 20220912121758)
+- `people/long-rong-mark-kao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220929080133_wp-content_uploads_2014_03_FAPA會長高龍榮-800x697_jpg_6209f4be0798e636.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2014/03/FAPA%E6%9C%83%E9%95%B7%E9%AB%98%E9%BE%8D%E6%A6%AE-800  (wayback 20220929080133)
+- `people/long-rong-mark-kao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220929185011_wp-content_uploads_2014_03_FAPA會長高龍榮-480x418_jpg_2918b9fbcada2f36.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2014/03/FAPA%E6%9C%83%E9%95%B7%E9%AB%98%E9%BE%8D%E6%A6%AE-480  (wayback 20220929185011)
+- `people/long-rong-mark-kao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930152010_wp-content_uploads_2014_03_FAPA會長高龍榮-300x261_jpg_4f3e9874c1b86fe8.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2014/03/FAPA%E6%9C%83%E9%95%B7%E9%AB%98%E9%BE%8D%E6%A6%AE-300  (wayback 20220930152010)
+- `people/lung-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190626055929_wp-content_uploads_2019_05_陳隆3-356x220_jpg_5216de5c52490096.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/05/%E9%99%B3%E9%9A%863-356x220.jpg  (wayback 20190626055929)
+- `people/lung-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190626055940_wp-content_uploads_2019_06_陳隆-1-356x220_jpg_5cc2e35528a321a5.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E9%99%B3%E9%9A%86-1-356x220.jpg  (wayback 20190626055940)
+- `people/lung-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190626055951_wp-content_uploads_2019_06_陳隆-2-356x220_jpg_1060e36a51e03fc4.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E9%99%B3%E9%9A%86-2-356x220.jpg  (wayback 20190626055951)
+- `people/lung-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065317_wp-content_uploads_2019_07_陳隆-356x220_jpg_9f0d6f314edd014d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/07/%E9%99%B3%E9%9A%86-356x220.jpg  (wayback 20191018065317)
+- `people/lynn-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200823203933_wp-content_uploads_2020_08_黃令先演唱自己的作品-Praise-the-Lord-以立音樂基金會-Elite-Music-Found_80beec7db43790ee.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E9%BB%83%E4%BB%A4%E5%85%88%E6%BC%94%E5%94%B1%E8%87%A  (wayback 20200823203933)
+- `people/lynn-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201019174250_wp-content_uploads_2020_08_黃令先演唱自己的作品-Praise-the-Lord-以立音樂基金會-Elite-Music-Found_1f7f2b7612f03dc0.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E9%BB%83%E4%BB%A4%E5%85%88%E6%BC%94%E5%94%B1%E8%87%A  (wayback 20201019174250)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2018/20180804202611_wp-content_uploads_2013_09_馬英九民調破底_jpg_7d7a7676af2688a9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2013/09/%E9%A6%AC%E8%8B%B1%E4%B9%9D%E6%B0%91%E8%AA%BF%E7%A0%B  (wayback 20180804202611)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065318_wp-content_uploads_2015_01_馬英九政治獻金-300x197_jpg_ea338a702bea10eb.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/01/%E9%A6%AC%E8%8B%B1%E4%B9%9D%E6%94%BF%E6%B2%BB%E7%8D%B  (wayback 20191018065318)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065323_wp-content_uploads_2012_07_林益世馬英九-300x219_jpg_967e352fa60e8a36.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2012/07/%E6%9E%97%E7%9B%8A%E4%B8%96%E9%A6%AC%E8%8B%B1%E4%B9%9  (wayback 20191018065323)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115094650_wp-content_uploads_2013_09_全民公敵馬英九-300x200_jpg_d432be2ad4a117d9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2013/09/%E5%85%A8%E6%B0%91%E5%85%AC%E6%95%B5%E9%A6%AC%E8%8B%B  (wayback 20191115094650)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200623080037_wp-content_uploads_2019_01_馬英九-218x150_png_babe6d5c77536640.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/01/%E9%A6%AC%E8%8B%B1%E4%B9%9D-218x150.png  (wayback 20200623080037)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200626005950_wp-content_uploads_2015_01_馬英九政治獻金_jpg_46e959e52558c12e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/01/%E9%A6%AC%E8%8B%B1%E4%B9%9D%E6%94%BF%E6%B2%BB%E7%8D%B  (wayback 20200626005950)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200626095124_wp-content_uploads_2019_01_馬英九-534x378_png_2bdbf2e9646a9961.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/01/%E9%A6%AC%E8%8B%B1%E4%B9%9D-534x378.png  (wayback 20200626095124)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200628222256_wp-content_uploads_2012_07_林益世馬英九_jpg_5ac4704a02692840.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2012/07/%E6%9E%97%E7%9B%8A%E4%B8%96%E9%A6%AC%E8%8B%B1%E4%B9%9  (wayback 20200628222256)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200629083859_wp-content_uploads_2019_01_馬英九-265x198_png_78ed3965ed5087f8.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/01/%E9%A6%AC%E8%8B%B1%E4%B9%9D-265x198.png  (wayback 20200629083859)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200710135139_wp-content_uploads_2019_12_馬英九-218x150_png_14d20ef35b9fd555.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/12/%E9%A6%AC%E8%8B%B1%E4%B9%9D-218x150.png  (wayback 20200710135139)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200819203749_wp-content_uploads_2014_03_馬英九-鹿茸_png_bc712e6b4e8496d6.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2014/03/%E9%A6%AC%E8%8B%B1%E4%B9%9D-%E9%B9%BF%E8%8C%B8.png  (wayback 20200819203749)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200827072458_wp-content_uploads_2019_12_馬英九-100x70_png_83c865fb0955b159.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/12/%E9%A6%AC%E8%8B%B1%E4%B9%9D-100x70.png  (wayback 20200827072458)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200830120904_wp-content_uploads_2019_12_馬英九-534x462_png_992e6a9f10f2f553.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/12/%E9%A6%AC%E8%8B%B1%E4%B9%9D-534x462.png  (wayback 20200830120904)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200902120047_wp-content_uploads_2019_12_馬英九-324x160_png_b184336f8c2207fd.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/12/%E9%A6%AC%E8%8B%B1%E4%B9%9D-324x160.png  (wayback 20200902120047)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200902142309_wp-content_uploads_2019_12_馬英九-265x198_png_4bdeaea47df951fd.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/12/%E9%A6%AC%E8%8B%B1%E4%B9%9D-265x198.png  (wayback 20200902142309)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200903202349_wp-content_uploads_2014_03_黑衫軍下一步-挑戰馬英九執政權_jpg_8a7ea0e5a5ee3b39.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2014/03/%E9%BB%91%E8%A1%AB%E8%BB%8D%E4%B8%8B%E4%B8%80%E6%AD%A  (wayback 20200903202349)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200905175039_wp-content_uploads_2020_08_新黨召開記者會力挺馬英九-80x60_png_61e93de7eb9451c1.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E6%96%B0%E9%BB%A8%E5%8F%AC%E9%96%8B%E8%A8%98%E8%80%8  (wayback 20200905175039)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200906054418_wp-content_uploads_2019_12_馬英九-80x60_png_4fb726ef3fd8ac7d.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/12/%E9%A6%AC%E8%8B%B1%E4%B9%9D-80x60.png  (wayback 20200906054418)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200914150458_wp-content_uploads_2019_01_馬英九-100x70_png_bc8f2fb42c66d107.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/01/%E9%A6%AC%E8%8B%B1%E4%B9%9D-100x70.png  (wayback 20200914150458)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20211107004005_wp-content_uploads_2021_03_馬英九-218x150_jpg_207012b45d75c275.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/03/%E9%A6%AC%E8%8B%B1%E4%B9%9D-218x150.jpg  (wayback 20211107004005)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20211107004016_wp-content_uploads_2021_03_馬英九-100x70_jpg_907da0a27018b382.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/03/%E9%A6%AC%E8%8B%B1%E4%B9%9D-100x70.jpg  (wayback 20211107004016)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220207204407_wp-content_uploads_2019_12_馬英九-696x385_png_7f4cdfde038c59b9.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/12/%E9%A6%AC%E8%8B%B1%E4%B9%9D-696x385.png  (wayback 20220207204407)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220929195204_wp-content_uploads_2019_12_馬英九-768x576_png_32ef5a6bedcc6874.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/12/%E9%A6%AC%E8%8B%B1%E4%B9%9D-768x576.png  (wayback 20220929195204)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930101847_wp-content_uploads_2019_12_馬英九_png_e3a21194e30aad5f.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/12/%E9%A6%AC%E8%8B%B1%E4%B9%9D.png  (wayback 20220930101847)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930175741_wp-content_uploads_2019_12_馬英九-640x480_png_22e3839db5821e28.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/12/%E9%A6%AC%E8%8B%B1%E4%B9%9D-640x480.png  (wayback 20220930175741)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221001022549_wp-content_uploads_2019_12_馬英九-560x420_png_61169e2b379b43ad.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/12/%E9%A6%AC%E8%8B%B1%E4%B9%9D-560x420.png  (wayback 20221001022549)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221001100432_wp-content_uploads_2019_01_馬英九-80x60_png_3fac7d0be14b6f0c.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/01/%E9%A6%AC%E8%8B%B1%E4%B9%9D-80x60.png  (wayback 20221001100432)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221001102228_wp-content_uploads_2019_12_馬英九-485x360_png_62ae7a4103905d8c.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/12/%E9%A6%AC%E8%8B%B1%E4%B9%9D-485x360.png  (wayback 20221001102228)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221001102229_wp-content_uploads_2019_12_馬英九-696x522_png_7b106508c0a8919a.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/12/%E9%A6%AC%E8%8B%B1%E4%B9%9D-696x522.png  (wayback 20221001102229)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221001103000_wp-content_uploads_2019_01_馬英九-485x360_png_c1e1d0db5814255a.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/01/%E9%A6%AC%E8%8B%B1%E4%B9%9D-485x360.png  (wayback 20221001103000)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221202060446_wp-content_uploads_2022_11_郭台銘切割高虹安_馬英九又發表_歧視_謬論_-696x522_jpg_6ef2c83f33201626.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E3%80%90%E9%83%AD%E5%8F%B0%E9%8A%98%E5%88%87%E5%89%B  (wayback 20221202060446)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221202112935_wp-content_uploads_2022_11_郭台銘切割高虹安_馬英九又發表_歧視_謬論_-560x420_jpg_732971470e12a9fe.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E3%80%90%E9%83%AD%E5%8F%B0%E9%8A%98%E5%88%87%E5%89%B  (wayback 20221202112935)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221202155111_wp-content_uploads_2022_11_郭台銘切割高虹安_馬英九又發表_歧視_謬論_-485x360_jpg_08af2dcee281b46c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E3%80%90%E9%83%AD%E5%8F%B0%E9%8A%98%E5%88%87%E5%89%B  (wayback 20221202155111)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221202170214_wp-content_uploads_2022_11_郭台銘切割高虹安_馬英九又發表_歧視_謬論_-80x60_jpg_e27aa8bc13b11841.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E3%80%90%E9%83%AD%E5%8F%B0%E9%8A%98%E5%88%87%E5%89%B  (wayback 20221202170214)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221202171654_wp-content_uploads_2022_11_郭台銘切割高虹安_馬英九又發表_歧視_謬論_-265x198_jpg_7d62bf64a3e45222.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E3%80%90%E9%83%AD%E5%8F%B0%E9%8A%98%E5%88%87%E5%89%B  (wayback 20221202171654)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221202194854_wp-content_uploads_2022_11_郭台銘切割高虹安_馬英九又發表_歧視_謬論_jpg_48e1126b033c644f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E3%80%90%E9%83%AD%E5%8F%B0%E9%8A%98%E5%88%87%E5%89%B  (wayback 20221202194854)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221202233110_wp-content_uploads_2022_11_郭台銘切割高虹安_馬英九又發表_歧視_謬論_-640x480_jpg_2ec236a7d0d5c958.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/11/%E3%80%90%E9%83%AD%E5%8F%B0%E9%8A%98%E5%88%87%E5%89%B  (wayback 20221202233110)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173558_wp-content_uploads_2015_05_李登輝-馬英九-150x150_jpg_6d79eddbc09a33a7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/05/%E6%9D%8E%E7%99%BB%E8%BC%9D-%E9%A6%AC%E8%8B%B1%E4%B9%  (wayback 20230222173558)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173605_wp-content_uploads_2013_10_馬英九江宜樺羅智強黃世銘-218x300_jpg_b53a953b3d83b430.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2013/10/%E9%A6%AC%E8%8B%B1%E4%B9%9D%E6%B1%9F%E5%AE%9C%E6%A8%B  (wayback 20230222173605)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173746_wp-content_uploads_2022_07_馬英九-100x70_jpg_548fcf439aa53aef.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/07/%E9%A6%AC%E8%8B%B1%E4%B9%9D-100x70.jpg  (wayback 20230222173746)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230328213525_wp-content_uploads_2023_03_馬英九抵達上海-696x385_jpg_a5144f869ae83331.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/03/%E9%A6%AC%E8%8B%B1%E4%B9%9D%E6%8A%B5%E9%81%94%E4%B8%8  (wayback 20230328213525)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230328213635_wp-content_uploads_2023_03_馬英九抵達上海-485x360_jpg_966e024b7b103249.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/03/%E9%A6%AC%E8%8B%B1%E4%B9%9D%E6%8A%B5%E9%81%94%E4%B8%8  (wayback 20230328213635)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230328213923_wp-content_uploads_2023_03_馬英九抵達上海-80x60_jpg_eca12dc521068f5f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/03/%E9%A6%AC%E8%8B%B1%E4%B9%9D%E6%8A%B5%E9%81%94%E4%B8%8  (wayback 20230328213923)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230328214259_wp-content_uploads_2019_12_馬英九-324x400_png_12cd4c85c84a464e.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/12/%E9%A6%AC%E8%8B%B1%E4%B9%9D-324x400.png  (wayback 20230328214259)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230328220514_wp-content_uploads_2023_03_馬英九抵達上海-265x198_jpg_49b8ae205516b4e3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/03/%E9%A6%AC%E8%8B%B1%E4%B9%9D%E6%8A%B5%E9%81%94%E4%B8%8  (wayback 20230328220514)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230330195253_wp-content_uploads_2023_03_馬英九南京謁陵-1-218x150_jpg_b5d31b660b20344a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/03/%E9%A6%AC%E8%8B%B1%E4%B9%9D%E5%8D%97%E4%BA%AC%E8%AC%8  (wayback 20230330195253)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230330195418_wp-content_uploads_2023_03_馬英九南京謁陵-1-100x70_jpg_907a9fae63e72044.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/03/%E9%A6%AC%E8%8B%B1%E4%B9%9D%E5%8D%97%E4%BA%AC%E8%AC%8  (wayback 20230330195418)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230402083146_wp-content_uploads_2023_03_馬英九南京謁陵-1-485x360_jpg_3d60d4020e17caf7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/03/%E9%A6%AC%E8%8B%B1%E4%B9%9D%E5%8D%97%E4%BA%AC%E8%AC%8  (wayback 20230402083146)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230402155251_wp-content_uploads_2023_03_馬英九南京謁陵-1-80x60_jpg_46b8817762589827.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/03/%E9%A6%AC%E8%8B%B1%E4%B9%9D%E5%8D%97%E4%BA%AC%E8%AC%8  (wayback 20230402155251)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230402205030_wp-content_uploads_2023_03_馬英九南京謁陵-1-265x198_jpg_8e5fba3fbaec1f65.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/03/%E9%A6%AC%E8%8B%B1%E4%B9%9D%E5%8D%97%E4%BA%AC%E8%AC%8  (wayback 20230402205030)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240724051235_wp-content_uploads_2024_07_公民團體將馬英九圖卡改為_挺罷樑_和_南興市場握手會_讀者提供_中央社記者王朝鈺傳真-113年7月21日_23cf37000914c4fc.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/07/%E5%85%AC%E6%B0%91%E5%9C%98%E9%AB%94%E5%B0%87%E9%A6%A  (wayback 20240724051235)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240724230249_wp-content_uploads_2024_07_公民團體將馬英九圖卡改為_挺罷樑_和_南興市場握手會_讀者提供_中央社記者王朝鈺傳真-113年7月21日_d45024af4e3fe12f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/07/%E5%85%AC%E6%B0%91%E5%9C%98%E9%AB%94%E5%B0%87%E9%A6%A  (wayback 20240724230249)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240816013008_wp-content_uploads_2024_04_繼2015年新加坡_馬習會_後_前總統馬英九與中共總書記習近平10日在北京人民大會堂再度見面_這次馬習會_03cd026a5f09008f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/04/%E7%B9%BC2015%E5%B9%B4%E6%96%B0%E5%8A%A0%E5%9D%A1%E3%  (wayback 20240816013008)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240816044657_wp-content_uploads_2024_04_繼2015年新加坡_馬習會_後_前總統馬英九與中共總書記習近平10日在北京人民大會堂再度見面_這次馬習會_3510b29c7b21c1ac.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/04/%E7%B9%BC2015%E5%B9%B4%E6%96%B0%E5%8A%A0%E5%9D%A1%E3%  (wayback 20240816044657)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241022072034_wp-content_uploads_2024_10_前總統馬英九_中_12日在台北出席華僑救國聯合總會第72屆華僑節大會表示_民進黨對中華民國的態度讓他憂心_f06c22941c5e773c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/10/%E5%89%8D%E7%B8%BD%E7%B5%B1%E9%A6%AC%E8%8B%B1%E4%B9%9  (wayback 20241022072034)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241022072036_wp-content_uploads_2024_10_前總統馬英九_中_12日在台北出席華僑救國聯合總會第72屆華僑節大會表示_民進黨對中華民國的態度讓他憂心_60c3601757e09b47.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/10/%E5%89%8D%E7%B8%BD%E7%B5%B1%E9%A6%AC%E8%8B%B1%E4%B9%9  (wayback 20241022072036)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241022072043_wp-content_uploads_2024_10_前總統馬英九_中_12日在台北出席華僑救國聯合總會第72屆華僑節大會表示_民進黨對中華民國的態度讓他憂心_75fe86a42837da9c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/10/%E5%89%8D%E7%B8%BD%E7%B5%B1%E9%A6%AC%E8%8B%B1%E4%B9%9  (wayback 20241022072043)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241022072045_wp-content_uploads_2024_10_前總統馬英九_中_12日在台北出席華僑救國聯合總會第72屆華僑節大會表示_民進黨對中華民國的態度讓他憂心_d992ba5d7e197971.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/10/%E5%89%8D%E7%B8%BD%E7%B5%B1%E9%A6%AC%E8%8B%B1%E4%B9%9  (wayback 20241022072045)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241022072109_wp-content_uploads_2024_10_前總統馬英九_中_12日在台北出席華僑救國聯合總會第72屆華僑節大會表示_民進黨對中華民國的態度讓他憂心_680b9a5c6a9b3400.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/10/%E5%89%8D%E7%B8%BD%E7%B5%B1%E9%A6%AC%E8%8B%B1%E4%B9%9  (wayback 20241022072109)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241022072117_wp-content_uploads_2024_10_前總統馬英九_中_12日在台北出席華僑救國聯合總會第72屆華僑節大會表示_民進黨對中華民國的態度讓他憂心_3daa900401d50cde.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/10/%E5%89%8D%E7%B8%BD%E7%B5%B1%E9%A6%AC%E8%8B%B1%E4%B9%9  (wayback 20241022072117)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241022072746_wp-content_uploads_2024_10_前總統馬英九_中_12日在台北出席華僑救國聯合總會第72屆華僑節大會表示_民進黨對中華民國的態度讓他憂心_ef194fc6d37c873e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/10/%E5%89%8D%E7%B8%BD%E7%B5%B1%E9%A6%AC%E8%8B%B1%E4%B9%9  (wayback 20241022072746)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241022072849_wp-content_uploads_2024_10_前總統馬英九_中_12日在台北出席華僑救國聯合總會第72屆華僑節大會表示_民進黨對中華民國的態度讓他憂心_d54f31047c50f70f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/10/%E5%89%8D%E7%B8%BD%E7%B5%B1%E9%A6%AC%E8%8B%B1%E4%B9%9  (wayback 20241022072849)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250216161429_wp-content_uploads_2024_10_前總統馬英九_中_12日在台北出席華僑救國聯合總會第72屆華僑節大會表示_民進黨對中華民國的態度讓他憂心_fffc03a0c90cdeac.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2024/10/%E5%89%8D%E7%B8%BD%E7%B5%B1%E9%A6%AC%E8%8B%B1%E4%B9%9D%EF  (wayback 20250216161429)
+- `people/ma-yingjeou` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250217112245_wp-content_uploads_2024_10_前總統馬英九_中_12日在台北出席華僑救國聯合總會第72屆華僑節大會表示_民進黨對中華民國的態度讓他憂心_ec3e0b6168826e6b.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2024/10/%E5%89%8D%E7%B8%BD%E7%B5%B1%E9%A6%AC%E8%8B%B1%E4%B9%9D%EF  (wayback 20250217112245)
+- `people/maysing-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240828151830_wp-content_uploads_2014_12_達賴-楊黃美幸-300x200_jpg_98aeb7c4a2e04c1d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2014/12/%E9%81%94%E8%B3%B4-%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%  (wayback 20240828151830)
+- `people/maysing-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240828151830_wp-content_uploads_2016_09_楊黃美幸_jpg_807708563a12e385.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2016/09/%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%B8.jpg  (wayback 20240828151830)
+- `people/maysing-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240828151832_wp-content_uploads_2014_12_達賴-楊黃美幸_jpg_d75c6321b8b69a60.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2014/12/%E9%81%94%E8%B3%B4-%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%  (wayback 20240828151832)
+- `people/maysing-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240828151833_wp-content_uploads_2016_09_楊黃美幸-300x210_jpg_d50168bc3110110c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2016/09/%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%B8-300x210.jpg  (wayback 20240828151833)
+- `people/mei-xinyi` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240724020144_wp-content_uploads_2014_06_梅心怡2_jpg_0eedc99bb226570d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2014/06/%E6%A2%85%E5%BF%83%E6%80%A12.jpg  (wayback 20240724020144)
+- `people/mei-xinyi` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240724050438_wp-content_uploads_2014_06_梅心怡_jpg_0a6bc002dd1c3737.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2014/06/%E6%A2%85%E5%BF%83%E6%80%A1.jpg  (wayback 20240724050438)
+- `people/mei-xinyi` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240725035255_wp-content_uploads_2014_06_梅心怡2-300x169_jpg_6125cc9aac0aef00.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2014/06/%E6%A2%85%E5%BF%83%E6%80%A12-300x169.jpg  (wayback 20240725035255)
+- `people/peng-ming-min` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2018/20181027101517_wp-content_uploads_2017_03_彭明敏_jpg_9694611930769920.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2017/03/%E5%BD%AD%E6%98%8E%E6%95%8F.jpg  (wayback 20181027101517)
+- `people/peng-ming-min` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220411093311_wp-content_uploads_2022_04_彭明敏辭世-享耆壽98歲-324x400_jpg_cb87f5fdd0929532.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E5%BD%AD%E6%98%8E%E6%95%8F%E8%BE%AD%E4%B8%96-%E4%BA%  (wayback 20220411093311)
+- `people/peng-ming-min` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220411093312_wp-content_uploads_2022_04_彭明敏_前右_2017年在出席_自由的滋味_逃亡_兩本書籍的重版紀念簽書會-485x360_jpg_c0801297cbfaf912.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E5%BD%AD%E6%98%8E%E6%95%8F%EF%BC%88%E5%89%8D%E5%8F%B  (wayback 20220411093312)
+- `people/peng-ming-min` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220411093319_wp-content_uploads_2022_04_彭明敏_前右_2017年在出席_自由的滋味_逃亡_兩本書籍的重版紀念簽書會-80x60_jpg_2d797f8a813a7b5a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/04/%E5%BD%AD%E6%98%8E%E6%95%8F%EF%BC%88%E5%89%8D%E5%8F%B  (wayback 20220411093319)
+- `people/peng-ming-min` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220929123402_wp-content_uploads_2022_05_彭明敏-218x150_jpg_646a2028eb2f96c5.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/05/%E5%BD%AD%E6%98%8E%E6%95%8F-218x150.jpg  (wayback 20220929123402)
+- `people/peng-ming-min` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930045401_wp-content_uploads_2022_05_彭明敏-100x70_jpg_c0eaeed8752b3977.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/05/%E5%BD%AD%E6%98%8E%E6%95%8F-100x70.jpg  (wayback 20220930045401)
+- `people/peng-ming-min` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221023090206_wp-content_uploads_2022_05_彭明敏-1080x607_jpg_82db968ef49b6c84.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/05/%E5%BD%AD%E6%98%8E%E6%95%8F-1080x607.jpg  (wayback 20221023090206)
+- `people/peng-ming-min` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240505183550_wp-content_uploads_2024_01_宗像隆幸與彭明敏書信-密存銀行保險箱50年首度公開-80x60_jpg_4242fa0b59baf6f8.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E5%AE%97%E5%83%8F%E9%9A%86%E5%B9%B8%E8%88%87%E5%BD%A  (wayback 20240505183550)
+- `people/peng-ming-min` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240505183601_wp-content_uploads_2024_01_宗像隆幸與彭明敏書信-密存銀行保險箱50年首度公開-265x198_jpg_9fd5024a73a280f9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E5%AE%97%E5%83%8F%E9%9A%86%E5%B9%B8%E8%88%87%E5%BD%A  (wayback 20240505183601)
+- `people/peng-ming-min` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240505183602_wp-content_uploads_2024_01_宗像隆幸與彭明敏書信-密存銀行保險箱50年首度公開-768x584_jpg_7779af886839a212.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E5%AE%97%E5%83%8F%E9%9A%86%E5%B9%B8%E8%88%87%E5%BD%A  (wayback 20240505183602)
+- `people/peng-ming-min` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240505183611_wp-content_uploads_2024_01_宗像隆幸與彭明敏書信-密存銀行保險箱50年首度公開-553x420_jpg_3a9d10c4414a6c9d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E5%AE%97%E5%83%8F%E9%9A%86%E5%B9%B8%E8%88%87%E5%BD%A  (wayback 20240505183611)
+- `people/peng-ming-min` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240505183631_wp-content_uploads_2024_01_宗像隆幸與彭明敏書信-密存銀行保險箱50年首度公開-696x529_jpg_3809459cb14c3d10.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E5%AE%97%E5%83%8F%E9%9A%86%E5%B9%B8%E8%88%87%E5%BD%A  (wayback 20240505183631)
+- `people/peng-ming-min` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240505183650_wp-content_uploads_2024_01_宗像隆幸與彭明敏書信-密存銀行保險箱50年首度公開-640x486_jpg_2c6ee1af14e71364.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E5%AE%97%E5%83%8F%E9%9A%86%E5%B9%B8%E8%88%87%E5%BD%A  (wayback 20240505183650)
+- `people/peng-ming-min` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240505183701_wp-content_uploads_2024_01_宗像隆幸與彭明敏書信-密存銀行保險箱50年首度公開-485x360_jpg_854096728ceb3a7b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E5%AE%97%E5%83%8F%E9%9A%86%E5%B9%B8%E8%88%87%E5%BD%A  (wayback 20240505183701)
+- `people/peng-ming-min` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240505183714_wp-content_uploads_2024_01_宗像隆幸與彭明敏書信-密存銀行保險箱50年首度公開_jpg_bebed667ed605e1d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/01/%E5%AE%97%E5%83%8F%E9%9A%86%E5%B9%B8%E8%88%87%E5%BD%A  (wayback 20240505183714)
+- `people/peng-ming-min` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250216161121_wp-content_uploads_2024_09_彭明敏文教基金會等團體10日在立法院外_召開_世代流轉_民主承啟_自救宣言60週年的未竟之業_記者會_中_532e278cf2380fd8.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2024/09/%E5%BD%AD%E6%98%8E%E6%95%8F%E6%96%87%E6%95%99%E5%9F%BA%E9  (wayback 20250216161121)
+- `people/peng-ming-min` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250216181021_wp-content_uploads_2024_09_彭明敏文教基金會等團體10日在立法院外_召開_世代流轉_民主承啟_自救宣言60週年的未竟之業_記者會_中_5a6b290aa923f86b.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2024/09/%E5%BD%AD%E6%98%8E%E6%95%8F%E6%96%87%E6%95%99%E5%9F%BA%E9  (wayback 20250216181021)
+- `people/philip-lin` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230609045246_wp-content_uploads_2023_03_林水泉-100x70_jpg_8d1811b35d4f9931.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/03/%E6%9E%97%E6%B0%B4%E6%B3%89-100x70.jpg  (wayback 20230609045246)
+- `people/philip-lin` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230609172304_wp-content_uploads_2023_03_林水泉-218x150_jpg_e613712c0ba18a94.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/03/%E6%9E%97%E6%B0%B4%E6%B3%89-218x150.jpg  (wayback 20230609172304)
+- `people/ping-wang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045239_wp-content_uploads_2019_10_糖尿病-王秉訓-100x70_jpg_c330e2e7eea51c05.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E7%B3%96%E5%B0%BF%E7%97%85-%E7%8E%8B%E7%A7%89%E8%A8%  (wayback 20191115045239)
+- `people/raymond-kuo` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230120044827_wp-content_uploads_2023_01_郭泓均_Raymond-Kuo_-218x150_jpg_472d853fe21bd40b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/01/%E9%83%AD%E6%B3%93%E5%9D%87%EF%BC%88Raymond-Kuo%EF%BC  (wayback 20230120044827)
+- `people/rev-edward-bin-tanng` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230408021909_wp-content_uploads_2014_03_鄭成功為何要屠殺荷蘭牧師_jpg_f6fd11c3bb974996.jpg`
+  - src: http://taiwanjustice.net/wp-content/uploads/2014/03/%E9%84%AD%E6%88%90%E5%8A%9F%E7%82%BA%E4%BD%95%E8%A6%81%E5%  (wayback 20230408021909)
+- `people/rev-edward-bin-tanng` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250519041922_wp-content_uploads_2025_02_1980年2月28日林宅血案案發_案發地後經牧師奔走集資買下成為義光教會_中央社檔案照片_-218x15_fe49663406146b71.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/02/1980%E5%B9%B42%E6%9C%8828%E6%97%A5%E6%9E%97%E5%AE%85%E8%A  (wayback 20250519041922)
+- `people/rev-edward-bin-tanng` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250520111643_wp-content_uploads_2025_02_1980年2月28日林宅血案案發_案發地後經牧師奔走集資買下成為義光教會_中央社檔案照片_-100x70_7fcf7c98e5821f6b.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2025/02/1980%E5%B9%B42%E6%9C%8828%E6%97%A5%E6%9E%97%E5%AE%85%E8%A  (wayback 20250520111643)
+- `people/rueibin-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065317_wp-content_uploads_2019_07_陳瑞斌-100x70_jpg_02a350bd18781ef0.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/07/%E9%99%B3%E7%91%9E%E6%96%8C-100x70.jpg  (wayback 20191018065317)
+- `people/rueibin-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065323_wp-content_uploads_2019_09_台裔鋼琴家陳瑞斌-100x70_jpg_32ad640b36dcec52.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/09/%E5%8F%B0%E8%A3%94%E9%8B%BC%E7%90%B4%E5%AE%B6%E9%99%B  (wayback 20191018065323)
+- `people/rueibin-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191203203605_wp-content_uploads_2019_07_陳瑞斌_png_848c2d9806f4eb28.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/07/%E9%99%B3%E7%91%9E%E6%96%8C.png  (wayback 20191203203605)
+- `people/s-t-liu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210821125040_wp-content_uploads_2021_08_後疫情的危機與轉機影音-_-劉曉亭-218x150_png_49dbf313623bfab3.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/08/%E5%BE%8C%E7%96%AB%E6%83%85%E7%9A%84%E5%8D%B1%E6%A9%9  (wayback 20210821125040)
+- `people/si-zhi-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108164210_wp-content_uploads_2024_11_陳泗治ham伊早期教-e鋼琴佇淡江中學八角塔頭前翕相-696x522_jpg_ec934824aab3f26c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/11/%E9%99%B3%E6%B3%97%E6%B2%BBham%E4%BC%8A%E6%97%A9%E6%9  (wayback 20241108164210)
+- `people/si-zhi-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108164220_wp-content_uploads_2024_11_陳泗治ham伊早期教-e鋼琴佇淡江中學八角塔頭前翕相-485x360_jpg_8b55f48cf36abb2e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/11/%E9%99%B3%E6%B3%97%E6%B2%BBham%E4%BC%8A%E6%97%A9%E6%9  (wayback 20241108164220)
+- `people/si-zhi-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108164226_wp-content_uploads_2024_11_陳泗治ham伊早期教-e鋼琴佇淡江中學八角塔頭前翕相-560x420_jpg_ae21918f7af136a9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/11/%E9%99%B3%E6%B3%97%E6%B2%BBham%E4%BC%8A%E6%97%A9%E6%9  (wayback 20241108164226)
+- `people/si-zhi-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108164232_wp-content_uploads_2024_11_陳泗治ham伊早期教-e鋼琴佇淡江中學八角塔頭前翕相-640x480_jpg_1c7e5247ea5c6212.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/11/%E9%99%B3%E6%B3%97%E6%B2%BBham%E4%BC%8A%E6%97%A9%E6%9  (wayback 20241108164232)
+- `people/si-zhi-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108164243_wp-content_uploads_2024_11_陳泗治ham伊早期教-e鋼琴佇淡江中學八角塔頭前翕相-768x576_jpg_f5516a2fc4005d99.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/11/%E9%99%B3%E6%B3%97%E6%B2%BBham%E4%BC%8A%E6%97%A9%E6%9  (wayback 20241108164243)
+- `people/si-zhi-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108164246_wp-content_uploads_2024_11_陳泗治ham伊早期教-e鋼琴佇淡江中學八角塔頭前翕相-218x150_jpg_13252ef1106c36df.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/11/%E9%99%B3%E6%B3%97%E6%B2%BBham%E4%BC%8A%E6%97%A9%E6%9  (wayback 20241108164246)
+- `people/si-zhi-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108164250_wp-content_uploads_2024_11_陳泗治ham伊早期教-e鋼琴佇淡江中學八角塔頭前翕相-100x70_jpg_8fdf8c092c393b42.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/11/%E9%99%B3%E6%B3%97%E6%B2%BBham%E4%BC%8A%E6%97%A9%E6%9  (wayback 20241108164250)
+- `people/si-zhi-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108164252_wp-content_uploads_2024_11_陳泗治ham伊早期教-e鋼琴佇淡江中學八角塔頭前翕相-1068x801_jpg_68d610a96282fa4f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/11/%E9%99%B3%E6%B3%97%E6%B2%BBham%E4%BC%8A%E6%97%A9%E6%9  (wayback 20241108164252)
+- `people/si-zhi-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108164257_wp-content_uploads_2024_11_陳泗治ham伊早期教-e鋼琴佇淡江中學八角塔頭前翕相-265x198_jpg_a6c05f9e60e76f03.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/11/%E9%99%B3%E6%B3%97%E6%B2%BBham%E4%BC%8A%E6%97%A9%E6%9  (wayback 20241108164257)
+- `people/si-zhi-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108164258_wp-content_uploads_2024_11_陳泗治ham伊早期教-e鋼琴佇淡江中學八角塔頭前翕相_jpg_9e6e9c5d68003470.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/11/%E9%99%B3%E6%B3%97%E6%B2%BBham%E4%BC%8A%E6%97%A9%E6%9  (wayback 20241108164258)
+- `people/si-zhi-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108164300_wp-content_uploads_2024_11_陳泗治ham伊早期教-e鋼琴佇淡江中學八角塔頭前翕相-80x60_jpg_d0c94c69cd2abcf7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/11/%E9%99%B3%E6%B3%97%E6%B2%BBham%E4%BC%8A%E6%97%A9%E6%9  (wayback 20241108164300)
+- `people/stephanie-chang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20190729014004_wp-content_uploads_2018_09_張理_jpeg_34d5bbd11e4d4104.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/09/%E5%BC%B5%E7%90%86.jpeg  (wayback 20190729014004)
+- `people/symeon-woo` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065312_wp-content_uploads_2019_10_吳西面_jpg_e0a2bfcce94b57b6.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E5%90%B3%E8%A5%BF%E9%9D%A2.jpg  (wayback 20191018065312)
+- `people/symeon-woo` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045239_wp-content_uploads_2017_08_吳西面-300x220_jpg_e7075645c694a4ac.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2017/08/%E5%90%B3%E8%A5%BF%E9%9D%A2-300x220.jpg  (wayback 20191115045239)
+- `people/tang-peili` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065318_wp-content_uploads_2017_03_Milo-Thornberry-唐培理_jpg_7eff71a5e68a90a7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2017/03/Milo-Thornberry-%E5%94%90%E5%9F%B9%E7%90%86.jpg  (wayback 20191018065318)
+- `people/tang-peili` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323120301_wp-content_uploads_2017_03_Milo-Thornberry-唐培理-150x150_jpg_fe277305bf4c772f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2017/03/Milo-Thornberry-%E5%94%90%E5%9F%B9%E7%90%86-150x150.j  (wayback 20220323120301)
+- `people/tang-peili` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323120302_wp-content_uploads_2017_03_Milo-Thornberry-唐培理-45x45_jpg_2e64274fec5efd84.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2017/03/Milo-Thornberry-%E5%94%90%E5%9F%B9%E7%90%86-45x45.jpg  (wayback 20220323120302)
+- `people/ted-lieu` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608043548_wp-content_uploads_2021_05_洛杉磯地區選出的台裔聯邦眾議員劉雲平_Ted-Lieu_-100x70_jpg_5de7cb72189b6d22.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/05/%E6%B4%9B%E6%9D%89%E7%A3%AF%E5%9C%B0%E5%8D%80%E9%81%B  (wayback 20210608043548)
+- `people/tina-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220709190657_wp-content_uploads_2022_06_吳富子女士1937-2022與女兒Angela合影於2019年生日宴上_-696x392_png_3eedb82fb8654b27.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E5%90%B3%E5%AF%8C%E5%AD%90%E5%A5%B3%E5%A3%AB1937-202  (wayback 20220709190657)
+- `people/tina-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221001032510_wp-content_uploads_2022_06_吳富子女士1937-2022與女兒Angela合影於2019年生日宴上_-534x438_png_7506d328fd8e1e28.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E5%90%B3%E5%AF%8C%E5%AD%90%E5%A5%B3%E5%A3%AB1937-202  (wayback 20221001032510)
+- `people/tina-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221001054924_wp-content_uploads_2022_06_吳富子女士1937-2022與女兒Angela合影於2019年生日宴上_-218x150_png_2ccc0fa220a71889.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E5%90%B3%E5%AF%8C%E5%AD%90%E5%A5%B3%E5%A3%AB1937-202  (wayback 20221001054924)
+- `people/tina-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221002055821_wp-content_uploads_2022_06_吳富子女士1937-2022與女兒Angela合影於2019年生日宴上_-100x70_png_dfbe376caf72a61c.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E5%90%B3%E5%AF%8C%E5%AD%90%E5%A5%B3%E5%A3%AB1937-202  (wayback 20221002055821)
+- `people/tina-chen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221202190921_wp-content_uploads_2022_06_吳富子女士1937-2022與女兒Angela合影於2019年生日宴上_-324x400_png_7535b6e861f546f4.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E5%90%B3%E5%AF%8C%E5%AD%90%E5%A5%B3%E5%A3%AB1937-202  (wayback 20221202190921)
+- `people/tsung-ming-hsieh` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065322_wp-content_uploads_2019_09_謝聰敏-265x198_jpeg_61a9fc979a9e5428.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/09/%E8%AC%9D%E8%81%B0%E6%95%8F-265x198.jpeg  (wayback 20191018065322)
+- `people/tsung-ming-hsieh` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115094645_wp-content_uploads_2019_09_謝聰敏-100x70_jpeg_aa909f9cd6e80e60.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/09/%E8%AC%9D%E8%81%B0%E6%95%8F-100x70.jpeg  (wayback 20191115094645)
+- `people/tyzen-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2018/20180714050857_wp-content_uploads_2018_06_蕭泰然音樂節-sm_jpg_aea11acfeb2c4b05.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/06/%E8%95%AD%E6%B3%B0%E7%84%B6%E9%9F%B3%E6%A8%82%E7%AF%8  (wayback 20180714050857)
+- `people/tyzen-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2018/20180913002522_wp-content_uploads_2018_07_蕭泰然音樂節-revised-4_jpg_6ebce8f7e9991b58.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/07/%E8%95%AD%E6%B3%B0%E7%84%B6%E9%9F%B3%E6%A8%82%E7%AF%8  (wayback 20180913002522)
+- `people/tyzen-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201018002745_wp-content_uploads_2015_02_蕭泰然_jpg_69a230173a074be1.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/02/%E8%95%AD%E6%B3%B0%E7%84%B6.jpg  (wayback 20201018002745)
+- `people/tyzen-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716161205_wp-content_uploads_2023_07_2018迪士尼音樂廳的台美音樂饗宴國立交響樂團光臨蕭泰然音樂節記盛-545x385_png_d215fb8f259d5835.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/07/2018%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%9F%B3%E6%A8%82%E5%  (wayback 20230716161205)
+- `people/tyzen-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716161249_wp-content_uploads_2023_07_2018迪士尼音樂廳的台美音樂饗宴國立交響樂團光臨蕭泰然音樂節記盛-324x389_png_8f22d8880d197967.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/07/2018%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%9F%B3%E6%A8%82%E5%  (wayback 20230716161249)
+- `people/tyzen-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230716175542_wp-content_uploads_2023_07_2018迪士尼音樂廳的台美音樂饗宴國立交響樂團光臨蕭泰然音樂節記盛-100x70_png_8eb13b7479134af6.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/07/2018%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%9F%B3%E6%A8%82%E5%  (wayback 20230716175542)
+- `people/tyzen-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20231220193626_wp-content_uploads_2023_07_2018迪士尼音樂廳的台美音樂饗宴國立交響樂團光臨蕭泰然音樂節記盛-80x60_png_b13a4a24c0fb3c65.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/07/2018%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%9F%B3%E6%A8%82%E5%  (wayback 20231220193626)
+- `people/tyzen-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20231220193634_wp-content_uploads_2023_07_2018迪士尼音樂廳的台美音樂饗宴國立交響樂團光臨蕭泰然音樂節記盛-265x198_png_5c3341d6171ad3cb.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/07/2018%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%9F%B3%E6%A8%82%E5%  (wayback 20231220193634)
+- `people/tyzen-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250718092209_wp-content_uploads_2023_07_2018迪士尼音樂廳的台美音樂饗宴國立交響樂團光臨蕭泰然音樂節記盛-218x150_png_352b74150791b1e4.png`
+  - src: https://taiwanjustice.net/wp-content/uploads/2023/07/2018%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%9F%B3%E6%A8%82%E5%BB%B  (wayback 20250718092209)
+- `people/tyzen-hsiao` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250718092210_wp-content_uploads_2023_07_2018迪士尼音樂廳的台美音樂饗宴國立交響樂團光臨蕭泰然音樂節記盛_png_358f5a7405f1f440.png`
+  - src: https://taiwanjustice.net/wp-content/uploads/2023/07/2018%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%9F%B3%E6%A8%82%E5%BB%B  (wayback 20250718092210)
+- `people/wang-dan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200625013214_wp-content_uploads_2020_06_六四天安門事件31週年-美國務卿蓬佩奧會見王丹等人-265x198_jpg_f5845e5e5afba288.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E5%85%AD%E5%9B%9B%E5%A4%A9%E5%AE%89%E9%96%80%E4%BA%8  (wayback 20200625013214)
+- `people/wang-dan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200829023237_wp-content_uploads_2020_06_六四天安門事件31週年-美國務卿蓬佩奧會見王丹等人-100x70_jpg_4e8590798fbd8394.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E5%85%AD%E5%9B%9B%E5%A4%A9%E5%AE%89%E9%96%80%E4%BA%8  (wayback 20200829023237)
+- `people/wang-dan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220929123335_wp-content_uploads_2022_06_王丹-方政-100x70_jpg_76b362f341922515.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E7%8E%8B%E4%B8%B9-%E6%96%B9%E6%94%BF-100x70.jpg  (wayback 20220929123335)
+- `people/wang-dan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930050157_wp-content_uploads_2022_06_王丹與LA香港手足見面會-100x70_jpg_abb784f05e220f0c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E7%8E%8B%E4%B8%B9%E8%88%87LA%E9%A6%99%E6%B8%AF%E6%89  (wayback 20220930050157)
+- `people/wang-dan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930051800_wp-content_uploads_2022_06_王丹與LA香港手足見面會-218x150_jpg_0642da3ab1453714.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E7%8E%8B%E4%B8%B9%E8%88%87LA%E9%A6%99%E6%B8%AF%E6%89  (wayback 20220930051800)
+- `people/wang-dan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2025/20250726214346_wp-content_uploads_2020_06_六四天安門事件31週年-美國務卿蓬佩奧會見王丹等人-218x150_jpg_d22d44105c40e5bf.jpg`
+  - src: https://taiwanjustice.net/wp-content/uploads/2020/06/%E5%85%AD%E5%9B%9B%E5%A4%A9%E5%AE%89%E9%96%80%E4%BA%8B%E4  (wayback 20250726214346)
+- `people/wang-gui-rong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2018/20180821174131_wp-content_uploads_2018_08_王桂榮座談會sm_jpg_a3ed4f8b74d34f44.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/08/%E7%8E%8B%E6%A1%82%E6%A6%AE%E5%BA%A7%E8%AB%87%E6%9C%8  (wayback 20180821174131)
+- `people/wang-gui-rong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191214133303_wp-content_uploads_2018_08_王桂榮_jpg_0b152a7209e3551f.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/08/%E7%8E%8B%E6%A1%82%E6%A6%AE.jpg  (wayback 20191214133303)
+- `people/wang-jinping` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065312_wp-content_uploads_2015_07_王金平宋楚瑜-300x203_jpg_0a946c7aeb46711e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/07/%E7%8E%8B%E9%87%91%E5%B9%B3%E5%AE%8B%E6%A5%9A%E7%91%9  (wayback 20191018065312)
+- `people/wang-jinping` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045242_wp-content_uploads_2019_11_宋楚瑜_寧可撕掉_門票_-也不給王金平-100x70_jpg_59e09787c2f0a161.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E5%AE%8B%E6%A5%9A%E7%91%9C%EF%BC%9A%E5%AF%A7%E5%8F%A  (wayback 20191115045242)
+- `people/wang-jinping` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200625124749_wp-content_uploads_2015_07_王金平宋楚瑜_jpg_c6b415767d6f7efc.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/07/%E7%8E%8B%E9%87%91%E5%B9%B3%E5%AE%8B%E6%A5%9A%E7%91%9  (wayback 20200625124749)
+- `people/wang-jinping` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200626085517_wp-content_uploads_2019_11_宋楚瑜_寧可撕掉_門票_-也不給王金平-265x198_jpg_d13ac2d8a6f9b0d4.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E5%AE%8B%E6%A5%9A%E7%91%9C%EF%BC%9A%E5%AF%A7%E5%8F%A  (wayback 20200626085517)
+- `people/wang-jinping` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200716064241_wp-content_uploads_2019_11_宋楚瑜_寧可撕掉_門票_-也不給王金平-80x60_jpg_b7236a92d8478b17.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E5%AE%8B%E6%A5%9A%E7%91%9C%EF%BC%9A%E5%AF%A7%E5%8F%A  (wayback 20200716064241)
+- `people/wang-jinping` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200911072606_wp-content_uploads_2019_11_宋楚瑜_寧可撕掉_門票_-也不給王金平-218x150_jpg_d7d1669726b0e9a1.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E5%AE%8B%E6%A5%9A%E7%91%9C%EF%BC%9A%E5%AF%A7%E5%8F%A  (wayback 20200911072606)
+- `people/wang-jinping` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323120627_wp-content_uploads_2015_07_王金平宋楚瑜-600x405_jpg_14849c86a3b62606.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2015/07/%E7%8E%8B%E9%87%91%E5%B9%B3%E5%AE%8B%E6%A5%9A%E7%91%9  (wayback 20220323120627)
+- `people/wang-jinping` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104122944_wp-content_uploads_2019_06_王金平-218x150_jpg_389c8fddf25898cf.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E7%8E%8B%E9%87%91%E5%B9%B3-218x150.jpg  (wayback 20240104122944)
+- `people/wang-jinping` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104122950_wp-content_uploads_2019_06_王金平-485x360_jpg_2531c1c190e6f358.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E7%8E%8B%E9%87%91%E5%B9%B3-485x360.jpg  (wayback 20240104122950)
+- `people/wang-jinping` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104123429_wp-content_uploads_2019_06_王金平-265x198_jpg_96f8287626090fd6.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E7%8E%8B%E9%87%91%E5%B9%B3-265x198.jpg  (wayback 20240104123429)
+- `people/wang-jinping` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104123452_wp-content_uploads_2019_06_王金平-80x60_jpg_491d4cf439c67a24.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E7%8E%8B%E9%87%91%E5%B9%B3-80x60.jpg  (wayback 20240104123452)
+- `people/wang-jinping` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104123708_wp-content_uploads_2019_06_王金平-100x70_jpg_fada3e7954a731cd.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E7%8E%8B%E9%87%91%E5%B9%B3-100x70.jpg  (wayback 20240104123708)
+- `people/wang-jinping` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104233556_wp-content_uploads_2019_06_王金平-640x473_jpg_b49167ea977356e3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E7%8E%8B%E9%87%91%E5%B9%B3-640x473.jpg  (wayback 20240104233556)
+- `people/wang-jinping` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104233557_wp-content_uploads_2019_06_王金平-696x514_jpg_791ee2985d97ef83.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E7%8E%8B%E9%87%91%E5%B9%B3-696x514.jpg  (wayback 20240104233557)
+- `people/wang-jinping` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104233717_wp-content_uploads_2019_06_王金平-568x420_jpg_5653320a4ab9d71c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E7%8E%8B%E9%87%91%E5%B9%B3-568x420.jpg  (wayback 20240104233717)
+- `people/wang-jinping` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104234018_wp-content_uploads_2019_06_王金平-768x568_jpg_0edc4381d6ac9598.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E7%8E%8B%E9%87%91%E5%B9%B3-768x568.jpg  (wayback 20240104234018)
+- `people/wang-jinping` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104234616_wp-content_uploads_2019_06_王金平-300x222_jpg_b77a5e5936a30467.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E7%8E%8B%E9%87%91%E5%B9%B3-300x222.jpg  (wayback 20240104234616)
+- `people/wang-jinping` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104234744_wp-content_uploads_2019_06_王金平_jpg_b4e412494a88a50c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E7%8E%8B%E9%87%91%E5%B9%B3.jpg  (wayback 20240104234744)
+- `people/wang-kexiong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230328213534_wp-content_uploads_2023_03_王克雄新書-一個二-二-八一數的奮鬥-324x400_jpeg_f7b87df8bd3deab8.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/03/%E7%8E%8B%E5%85%8B%E9%9B%84%E6%96%B0%E6%9B%B8-%E4%B8%  (wayback 20230328213534)
+- `people/wang-kexiong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230605131441_wp-content_uploads_2023_05_王克雄新書-100x70_jpg_d5f16ad6b30402f9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E7%8E%8B%E5%85%8B%E9%9B%84%E6%96%B0%E6%9B%B8-100x70.  (wayback 20230605131441)
+- `people/wang-kexiong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230609044755_wp-content_uploads_2023_05_王克雄新書-324x400_jpg_abc5da5e9048f609.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/05/%E7%8E%8B%E5%85%8B%E9%9B%84%E6%96%B0%E6%9B%B8-324x400  (wayback 20230609044755)
+- `people/wang-kexiong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104234344_wp-content_uploads_2023_03_228受難者家屬-王克雄回憶慘案-218x150_png_bcf9822de910bf21.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/03/228%E5%8F%97%E9%9B%A3%E8%80%85%E5%AE%B6%E5%B1%AC-%E7%  (wayback 20240104234344)
+- `people/wang-kexiong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104234718_wp-content_uploads_2023_03_228受難者家屬-王克雄回憶慘案-100x70_png_3ed1510141fc47d9.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/03/228%E5%8F%97%E9%9B%A3%E8%80%85%E5%AE%B6%E5%B1%AC-%E7%  (wayback 20240104234718)
+- `people/wang-kexiong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905071231_wp-content_uploads_2016_02_王克雄與夫人淑惠遊聖地牙哥港-80x60_jpg_5c491a0ee7335d0e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2016/02/%E7%8E%8B%E5%85%8B%E9%9B%84%E8%88%87%E5%A4%AB%E4%BA%B  (wayback 20240905071231)
+- `people/wang-kexiong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905071536_wp-content_uploads_2016_02_王克雄與母親王陳仙槎女士遊烏山頭水庫-80x60_jpg_1753016421368ae5.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2016/02/%E7%8E%8B%E5%85%8B%E9%9B%84%E8%88%87%E6%AF%8D%E8%A6%A  (wayback 20240905071536)
+- `people/wang-kexiong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905073855_wp-content_uploads_2016_02_王克雄與夫人淑惠遊聖地牙哥港_jpg_bd38726562cacec3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2016/02/%E7%8E%8B%E5%85%8B%E9%9B%84%E8%88%87%E5%A4%AB%E4%BA%B  (wayback 20240905073855)
+- `people/wang-kexiong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905080056_wp-content_uploads_2016_02_王克雄與母親王陳仙槎女士遊烏山頭水庫_jpg_4c773a3e98b8526c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2016/02/%E7%8E%8B%E5%85%8B%E9%9B%84%E8%88%87%E6%AF%8D%E8%A6%A  (wayback 20240905080056)
+- `people/wang-kexiong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905082617_wp-content_uploads_2016_02_王克雄與夫人淑惠遊聖地牙哥港-300x226_jpg_4fbd172c245318f8.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2016/02/%E7%8E%8B%E5%85%8B%E9%9B%84%E8%88%87%E5%A4%AB%E4%BA%B  (wayback 20240905082617)
+- `people/wang-kexiong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905082834_wp-content_uploads_2016_02_王克雄與母親王陳仙槎女士遊烏山頭水庫-326x245_jpg_aa3af673cba91994.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2016/02/%E7%8E%8B%E5%85%8B%E9%9B%84%E8%88%87%E6%AF%8D%E8%A6%A  (wayback 20240905082834)
+- `people/wang-kexiong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905092548_wp-content_uploads_2016_02_王克雄與夫人淑惠遊聖地牙哥港-326x245_jpg_c4f05397c2654d9c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2016/02/%E7%8E%8B%E5%85%8B%E9%9B%84%E8%88%87%E5%A4%AB%E4%BA%B  (wayback 20240905092548)
+- `people/wang-kexiong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240905134849_wp-content_uploads_2016_02_王克雄與母親王陳仙槎女士遊烏山頭水庫-300x226_jpg_bc498a8fbb4e6b61.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2016/02/%E7%8E%8B%E5%85%8B%E9%9B%84%E8%88%87%E6%AF%8D%E8%A6%A  (wayback 20240905134849)
+- `people/wang-neng-xiang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065316_wp-content_uploads_2019_10_王能祥-100x70_jpg_b212cecbb15302e9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/10/%E7%8E%8B%E8%83%BD%E7%A5%A5-100x70.jpg  (wayback 20191018065316)
+- `people/wang-shufen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220123060619_wp-content_uploads_2022_01_suefen-王淑芬_jpg_251f01aeef2806c2.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/suefen-%E7%8E%8B%E6%B7%91%E8%8A%AC.jpg  (wayback 20220123060619)
+- `people/wang-shufen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220207214510_wp-content_uploads_2022_01_suefen-王淑芬-534x462_jpg_e09b1619f9111416.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/suefen-%E7%8E%8B%E6%B7%91%E8%8A%AC-534x462.jpg  (wayback 20220207214510)
+- `people/wang-shufen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323120310_wp-content_uploads_2022_01_suefen-王淑芬-324x400_jpg_ef50d46c3d4f8303.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/suefen-%E7%8E%8B%E6%B7%91%E8%8A%AC-324x400.jpg  (wayback 20220323120310)
+- `people/wang-shufen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930214437_wp-content_uploads_2022_01_suefen-王淑芬-265x198_jpg_a81518097e9d10e0.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/suefen-%E7%8E%8B%E6%B7%91%E8%8A%AC-265x198.jpg  (wayback 20220930214437)
+- `people/wang-shufen` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20221001032508_wp-content_uploads_2022_01_suefen-王淑芬-80x60_jpg_1a375162afaefaa4.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/suefen-%E7%8E%8B%E6%B7%91%E8%8A%AC-80x60.jpg  (wayback 20221001032508)
+- `people/wang-taihe` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045218_wp-content_uploads_2019_11_王泰和會長左二邀請僑民欣賞七國文化藝術表演-324x400_jpg_8e07af34e425df6d.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E7%8E%8B%E6%B3%B0%E5%92%8C%E6%9C%83%E9%95%B7%E5%B7%A  (wayback 20191115045218)
+- `people/wang-taihe` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045239_wp-content_uploads_2019_11_王泰和會長左二邀請僑民欣賞七國文化藝術表演-218x150_jpg_85e0f525a827c908.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E7%8E%8B%E6%B3%B0%E5%92%8C%E6%9C%83%E9%95%B7%E5%B7%A  (wayback 20191115045239)
+- `people/wang-taihe` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045239_wp-content_uploads_2019_11_王泰和會長左二邀請僑民欣賞七國文化藝術表演-265x198_jpg_739bb0c008a89f89.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E7%8E%8B%E6%B3%B0%E5%92%8C%E6%9C%83%E9%95%B7%E5%B7%A  (wayback 20191115045239)
+- `people/wang-taihe` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115094644_wp-content_uploads_2019_11_王泰和會長左二邀請僑民欣賞七國文化藝術表演-534x462_jpg_618e5589034c7525.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/11/%E7%8E%8B%E6%B3%B0%E5%92%8C%E6%9C%83%E9%95%B7%E5%B7%A  (wayback 20191115094644)
+- `people/wang-taihe` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200623231434_wp-content_uploads_2020_06_王泰和去世-scaled_jpg_3e3810214031acc1.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E7%8E%8B%E6%B3%B0%E5%92%8C%E5%8E%BB%E4%B8%96-scaled.  (wayback 20200623231434)
+- `people/wang-taihe` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200708052548_wp-content_uploads_2020_06_王泰和去世-1080x1399_jpg_121196d028ad51d7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/06/%E7%8E%8B%E6%B3%B0%E5%92%8C%E5%8E%BB%E4%B8%96-1080x13  (wayback 20200708052548)
+- `people/wang-yao-ting-xie-xiulan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108164224_wp-content_uploads_2024_10_台美音樂學者訪問團拜訪僑委會_謝秀緞提供-218x150_jpg_c1e64370b5be3ee3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/10/%E5%8F%B0%E7%BE%8E%E9%9F%B3%E6%A8%82%E5%AD%B8%E8%80%8  (wayback 20241108164224)
+- `people/wang-yao-ting-xie-xiulan` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20241108164240_wp-content_uploads_2024_10_台美音樂學者訪問團拜訪僑委會_謝秀緞提供-100x70_jpg_b9606f4de46be6ec.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2024/10/%E5%8F%B0%E7%BE%8E%E9%9F%B3%E6%A8%82%E5%AD%B8%E8%80%8  (wayback 20241108164240)
+- `people/wellington-welly-yang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220929162447_wp-content_uploads_2022_08_楊呈偉-218x150_jpg_c129ba992aa0b4dc.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E6%A5%8A%E5%91%88%E5%81%89-218x150.jpg  (wayback 20220929162447)
+- `people/wellington-welly-yang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930095411_wp-content_uploads_2022_08_楊呈偉-100x70_jpg_d3901cc5fd2d8565.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/08/%E6%A5%8A%E5%91%88%E5%81%89-100x70.jpg  (wayback 20220930095411)
+- `people/wu-lipei` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220616163738_wp-content_uploads_2022_06_20220612_吳澧培簽書-218x150_jpg_48d94eadee662ca0.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/20220612_%E5%90%B3%E6%BE%A7%E5%9F%B9%E7%B0%BD%E6%9B%B  (wayback 20220616163738)
+- `people/wu-lipei` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220929032645_wp-content_uploads_2022_06_20220612_吳澧培簽書-100x70_jpg_6ef9f5671d3e6ee7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/20220612_%E5%90%B3%E6%BE%A7%E5%9F%B9%E7%B0%BD%E6%9B%B  (wayback 20220929032645)
+- `people/wu-lipei` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220929213752_wp-content_uploads_2022_06_徐副委員長出席吳澧培資政新書簽書會-218x150_jpg_3b8af9ba64734ab6.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E5%BE%90%E5%89%AF%E5%A7%94%E5%93%A1%E9%95%B7%E5%87%B  (wayback 20220929213752)
+- `people/wu-lipei` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220930045401_wp-content_uploads_2022_06_徐副委員長出席吳澧培資政新書簽書會-100x70_jpg_c3ae714855601e9c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/06/%E5%BE%90%E5%89%AF%E5%A7%94%E5%93%A1%E9%95%B7%E5%87%B  (wayback 20220930045401)
+- `people/yang-jia-you` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200606223714_wp-content_uploads_2018_03_Ethan-Yang-和祖父楊嘉猷_jpg_26e5935cdc6737c9.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2018/03/Ethan-Yang-%E5%92%8C%E7%A5%96%E7%88%B6%E6%A5%8A%E5%98  (wayback 20200606223714)
+- `people/yang-xin` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210401201854_wp-content_uploads_2019_08_Yoba-Linda-市議員-Peggy-Huang-頒贈獎狀給創會會長楊信-sm-1080x1233_70fb9baee75c380a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/08/Yoba-Linda-%E5%B8%82%E8%AD%B0%E5%93%A1-Peggy-Huang-%E  (wayback 20210401201854)
+- `people/yang-xin` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230119104657_wp-content_uploads_2023_01_02112023-耆英講座楊信董事長-scaled_jpg_11862e6339476c46.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/01/02112023-%E8%80%86%E8%8B%B1%E8%AC%9B%E5%BA%A7%E6%A5%8  (wayback 20230119104657)
+- `people/yang-xin` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173638_wp-content_uploads_2023_01_02112023-耆英講座楊信董事長-100x70_jpg_48b11cbbd7bbdcca.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/01/02112023-%E8%80%86%E8%8B%B1%E8%AC%9B%E5%BA%A7%E6%A5%8  (wayback 20230222173638)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200821155322_wp-content_uploads_2020_08_楊子清父子二重唱-218x150_jpg_05f198664c915f59.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E6%A5%8A%E5%AD%90%E6%B8%85%E7%88%B6%E5%AD%90%E4%BA%8  (wayback 20200821155322)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200825073225_wp-content_uploads_2020_08_楊子清-1-356x220_jpg_9a3d37b29171fac5.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E6%A5%8A%E5%AD%90%E6%B8%85-1-356x220.jpg  (wayback 20200825073225)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200826134924_wp-content_uploads_2020_08_楊子清-100x70_jpg_33918dc24b158fdd.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E6%A5%8A%E5%AD%90%E6%B8%85-100x70.jpg  (wayback 20200826134924)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200827152857_wp-content_uploads_2020_08_楊子清父子二重唱-356x220_jpg_5678ba8a97931a9c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E6%A5%8A%E5%AD%90%E6%B8%85%E7%88%B6%E5%AD%90%E4%BA%8  (wayback 20200827152857)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200827231608_wp-content_uploads_2020_08_楊子清父子二重唱-1080x569_jpg_2d9a3999fde1626c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E6%A5%8A%E5%AD%90%E6%B8%85%E7%88%B6%E5%AD%90%E4%BA%8  (wayback 20200827231608)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200828212009_wp-content_uploads_2020_08_楊子清父子二重唱-100x70_jpg_708cf14b025911b7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E6%A5%8A%E5%AD%90%E6%B8%85%E7%88%B6%E5%AD%90%E4%BA%8  (wayback 20200828212009)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200829112319_wp-content_uploads_2020_08_楊子清-1-534x462_jpg_471ecf60f9b5f448.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E6%A5%8A%E5%AD%90%E6%B8%85-1-534x462.jpg  (wayback 20200829112319)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200829124106_wp-content_uploads_2020_03_楊子清-cliff-yang-100x70_jpg_ae968e95754d67e5.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/03/%E6%A5%8A%E5%AD%90%E6%B8%85-cliff-yang-100x70.jpg  (wayback 20200829124106)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201017085941_wp-content_uploads_2020_08_楊子清-1-100x70_jpg_dd6095262829b3dc.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E6%A5%8A%E5%AD%90%E6%B8%85-1-100x70.jpg  (wayback 20201017085941)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201018054341_wp-content_uploads_2020_09_cliff-yang-楊子清-1-100x70_jpg_d2bdfa7d8b340abc.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/09/cliff-yang-%E6%A5%8A%E5%AD%90%E6%B8%85-1-100x70.jpg  (wayback 20201018054341)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201019133727_wp-content_uploads_2020_09_楊子清-534x462_jpg_19b3d7a7f8f4c947.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/09/%E6%A5%8A%E5%AD%90%E6%B8%85-534x462.jpg  (wayback 20201019133727)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201019151028_wp-content_uploads_2020_09_cliff-yang-楊子清-265x198_jpg_3b247aefdb3c2325.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/09/cliff-yang-%E6%A5%8A%E5%AD%90%E6%B8%85-265x198.jpg  (wayback 20201019151028)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201020063451_wp-content_uploads_2020_09_cliff-yang-楊子清-1-265x198_jpg_5783af9da64b945b.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/09/cliff-yang-%E6%A5%8A%E5%AD%90%E6%B8%85-1-265x198.jpg  (wayback 20201020063451)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201021232846_wp-content_uploads_2020_08_楊子清-1-265x198_jpg_a1672d7a75227085.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/08/%E6%A5%8A%E5%AD%90%E6%B8%85-1-265x198.jpg  (wayback 20201021232846)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201117040115_wp-content_uploads_2020_10_楊子清老師音樂短講第8集-100x70_jpg_f72980a476b71946.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/10/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20201117040115)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201117043444_wp-content_uploads_2020_10_楊子清老師音樂短講第9集-265x198_jpg_5065ad8f6c797880.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/10/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20201117043444)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20201117043958_wp-content_uploads_2020_10_楊子清老師音樂短講第-10-集-265x198_jpg_80508320c155a4b3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/10/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20201117043958)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210202091633_wp-content_uploads_2021_01_楊子清老師音樂短講第-15-集-265x198_jpg_32f5b2483bd87054.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/01/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210202091633)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210202091635_wp-content_uploads_2020_10_楊子清老師音樂短講第9集-100x70_jpg_89127168ebdbc1ba.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/10/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210202091635)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210202094554_wp-content_uploads_2020_12_楊子清老師音樂短講第13集-265x198_jpg_25cb79a31a45b824.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/12/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210202094554)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210202095313_wp-content_uploads_2020_11_楊子清老師音樂短講第8集-100x70_jpg_9cff025277935ab2.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/11/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210202095313)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210202101814_wp-content_uploads_2021_01_楊子清老師音樂短講第-14-集-265x198_jpg_7e8fc93b1f00c489.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/01/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210202101814)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210202102833_wp-content_uploads_2020_11_楊子清老師音樂短講第-7-集-100x70_jpg_1d4bdd6ea0f17246.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/11/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210202102833)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210202102844_wp-content_uploads_2021_01_楊子清老師音樂短講第-16-集-534x462_jpg_6ffa13fde301e934.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/01/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210202102844)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210202103754_wp-content_uploads_2020_11_楊子清老師音樂短講第6集-100x70_jpg_63adaedb08918384.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/11/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210202103754)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210202104342_wp-content_uploads_2020_10_楊子清老師音樂短講第-10-集-100x70_jpg_dacbedef09af1780.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/10/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210202104342)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210202150149_wp-content_uploads_2020_11_楊子清老師音樂短講第5集-100x70_jpg_0662b0289840e29e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/11/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210202150149)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210203061031_wp-content_uploads_2020_12_楊子清老師音樂短講第12集-265x198_jpg_ebf1b8133b2eb47a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/12/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210203061031)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210205095820_wp-content_uploads_2020_12_楊子清老師音樂短講第9集-100x70_jpg_229649fe69dc1bde.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/12/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210205095820)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608030919_wp-content_uploads_2021_03_楊子清-5-356x220_jpg_521c2f7d52918a8a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/03/%E6%A5%8A%E5%AD%90%E6%B8%85-5-356x220.jpg  (wayback 20210608030919)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608100703_wp-content_uploads_2021_05_楊子清老師音樂短講22-356x220_png_8be491dc619a3a27.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/05/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210608100703)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608105614_wp-content_uploads_2021_03_楊子清-3-100x70_jpg_3c30ec2961bb93f6.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/03/%E6%A5%8A%E5%AD%90%E6%B8%85-3-100x70.jpg  (wayback 20210608105614)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608105615_wp-content_uploads_2021_01_楊子清老師音樂短講第-15-集-100x70_jpg_1e160d509a185c45.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/01/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210608105615)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608105616_wp-content_uploads_2020_12_楊子清老師音樂短講第12集-100x70_jpg_f9198da74b5ff511.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/12/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210608105616)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608105617_wp-content_uploads_2021_01_楊子清老師音樂短講第-16-集-100x70_jpg_d77e84c010ffe518.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/01/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210608105617)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608105620_wp-content_uploads_2021_03_楊子清-1-100x70_jpg_d00e12dc306f9f6c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/03/%E6%A5%8A%E5%AD%90%E6%B8%85-1-100x70.jpg  (wayback 20210608105620)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608105620_wp-content_uploads_2021_05_楊子清老師音樂短講22-265x198_png_b0fcc2901d8d8e48.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/05/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210608105620)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608105622_wp-content_uploads_2021_03_楊子清-4-265x198_jpg_df073b7f15e7a7a3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/03/%E6%A5%8A%E5%AD%90%E6%B8%85-4-265x198.jpg  (wayback 20210608105622)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608105625_wp-content_uploads_2021_03_楊子清-5-265x198_jpg_f12fa4ef382a01f0.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/03/%E6%A5%8A%E5%AD%90%E6%B8%85-5-265x198.jpg  (wayback 20210608105625)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608105628_wp-content_uploads_2020_12_楊子清老師音樂短講第13集-100x70_jpg_a59b3f0d1a3398c7.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/12/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210608105628)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20210608105632_wp-content_uploads_2021_01_楊子清老師音樂短講第-14-集-100x70_jpg_4968e248eb045ca0.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/01/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20210608105632)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20211103152041_wp-content_uploads_2021_03_楊子清-5-100x70_jpg_2db263af637dd9f2.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/03/%E6%A5%8A%E5%AD%90%E6%B8%85-5-100x70.jpg  (wayback 20211103152041)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20211103152043_wp-content_uploads_2021_03_楊子清-4-100x70_jpg_7ff387cd040ca2b6.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/03/%E6%A5%8A%E5%AD%90%E6%B8%85-4-100x70.jpg  (wayback 20211103152043)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20211106034655_wp-content_uploads_2021_07_楊子清老師音樂短講第-24-集-534x462_png_96c1e7ed93ce3ef1.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/07/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20211106034655)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2021/20211106214342_wp-content_uploads_2021_07_楊子清老師音樂短講第-23-集-265x198_png_99c4718edb854af5.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/07/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20211106214342)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220123055451_wp-content_uploads_2021_07_楊子清老師音樂短講第-23-集-356x220_png_099e114ef08d4a3d.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/07/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20220123055451)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220123055516_wp-content_uploads_2021_07_楊子清老師音樂短講第-24-集-356x220_png_bc9f647db46ad030.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/07/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20220123055516)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220207200345_wp-content_uploads_2021_07_楊子清老師音樂短講第-24-集-265x198_png_d921fcce7feff05d.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/07/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20220207200345)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220207200359_wp-content_uploads_2021_05_楊子清老師音樂短講22-100x70_png_8dc2095d7f71f6bf.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/05/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20220207200359)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323120447_wp-content_uploads_2021_07_楊子清老師音樂短講第-24-集-485x360_png_8edfd6fe06c5bdda.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/07/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20220323120447)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323120448_wp-content_uploads_2021_07_楊子清老師音樂短講第-24-集-80x60_png_2e505ba866768bc3.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/07/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20220323120448)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323120450_wp-content_uploads_2021_07_楊子清老師音樂短講第-23-集-485x360_png_8fbfcd140302b2ac.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/07/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20220323120450)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323120450_wp-content_uploads_2021_07_楊子清老師音樂短講第-23-集-80x60_png_ed974aa19a4d3276.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/07/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20220323120450)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323120457_wp-content_uploads_2021_05_楊子清老師音樂短講22-218x150_png_6ccb3cee3e4c8d70.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/05/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20220323120457)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323120500_wp-content_uploads_2021_03_楊子清-5-218x150_jpg_f10b9d0314be64f2.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/03/%E6%A5%8A%E5%AD%90%E6%B8%85-5-218x150.jpg  (wayback 20220323120500)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323120501_wp-content_uploads_2021_03_楊子清-4-218x150_jpg_8e3cae48b34f88a2.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/03/%E6%A5%8A%E5%AD%90%E6%B8%85-4-218x150.jpg  (wayback 20220323120501)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323120502_wp-content_uploads_2021_03_楊子清-3-218x150_jpg_5345e35fed4ebd6e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/03/%E6%A5%8A%E5%AD%90%E6%B8%85-3-218x150.jpg  (wayback 20220323120502)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323120503_wp-content_uploads_2021_03_楊子清-1-218x150_jpg_449f96b4a343629c.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/03/%E6%A5%8A%E5%AD%90%E6%B8%85-1-218x150.jpg  (wayback 20220323120503)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323120505_wp-content_uploads_2021_01_楊子清老師音樂短講第-16-集-218x150_jpg_485510679fe3caa2.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/01/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20220323120505)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323120507_wp-content_uploads_2021_01_楊子清老師音樂短講第-15-集-218x150_jpg_f473417b8ceefcaf.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/01/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20220323120507)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323120508_wp-content_uploads_2021_01_楊子清老師音樂短講第-14-集-218x150_jpg_c5c6af4fab722fe2.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/01/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20220323120508)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220323120510_wp-content_uploads_2020_12_楊子清老師音樂短講第13集-218x150_jpg_89c2dc9a6e7dc2ff.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/12/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20220323120510)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173614_wp-content_uploads_2021_07_楊子清老師音樂短講第-23-集-100x70_png_485ce1ea5a1fa7af.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/07/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20230222173614)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173615_wp-content_uploads_2021_07_楊子清老師音樂短講第-24-集-100x70_png_1a7ea7cf3f170b4a.png`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2021/07/%E6%A5%8A%E5%AD%90%E6%B8%85%E8%80%81%E5%B8%AB%E9%9F%B  (wayback 20230222173615)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173619_wp-content_uploads_2020_09_cliff-yang-楊子清-100x70_jpg_56888c357f83a9fb.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/09/cliff-yang-%E6%A5%8A%E5%AD%90%E6%B8%85-100x70.jpg  (wayback 20230222173619)
+- `people/yang-ziqing` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2023/20230222173619_wp-content_uploads_2020_09_楊子清-100x70_jpg_32b8b515318a59d2.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2020/09/%E6%A5%8A%E5%AD%90%E6%B8%85-100x70.jpg  (wayback 20230222173619)
+- `people/yu-chien-benny-tseng` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220207200442_wp-content_uploads_2022_01_曾宇謙演奏貝多芬小提琴協奏曲-100x70_jpg_48978aa4dc57bc47.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/%E6%9B%BE%E5%AE%87%E8%AC%99%E6%BC%94%E5%A5%8F%E8%B2%9  (wayback 20220207200442)
+- `people/yu-chien-benny-tseng` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2024/20240104123405_wp-content_uploads_2023_11_小提琴家曾宇謙_左_2015年前往奇美博物館續借_奇美集團創辦人許文龍_右_稱讚他是台灣驕傲_兩人現場合_7ef605f103cab42a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2023/11/%E5%B0%8F%E6%8F%90%E7%90%B4%E5%AE%B6%E6%9B%BE%E5%AE%8  (wayback 20240104123405)
+- `people/yu-jie` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191018065318_wp-content_uploads_2019_06_余杰新作_顛倒的民國_-265x198_jpg_4e6ea47e744275c3.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E4%BD%99%E6%9D%B0%E6%96%B0%E4%BD%9C%E3%80%8A%E9%A1%9  (wayback 20191018065318)
+- `people/yu-jie` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200618230803_wp-content_uploads_2014_04_中國旅美獨立作家余杰_jpg_08b209d7142ef811.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2014/04/%E4%B8%AD%E5%9C%8B%E6%97%85%E7%BE%8E%E7%8D%A8%E7%AB%8  (wayback 20200618230803)
+- `people/yu-jie` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2020/20200626152919_wp-content_uploads_2019_06_余杰新作_顛倒的民國_-100x70_jpg_999ea6159ea66dba.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2019/06/%E4%BD%99%E6%9D%B0%E6%96%B0%E4%BD%9C%E3%80%8A%E9%A1%9  (wayback 20200626152919)
+- `people/yuhan-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220228033326_wp-content_uploads_2022_02_台灣旅美鐵琴手蘇郁涵-218x150_jpg_1b17575464a4be5a.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/02/%E5%8F%B0%E7%81%A3%E6%97%85%E7%BE%8E%E9%90%B5%E7%90%B  (wayback 20220228033326)
+- `people/yuhan-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220301045345_wp-content_uploads_2022_02_台灣旅美鐵琴手蘇郁涵-696x414_jpg_65ac10269d6b5777.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/02/%E5%8F%B0%E7%81%A3%E6%97%85%E7%BE%8E%E9%90%B5%E7%90%B  (wayback 20220301045345)
+- `people/yuhan-su` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220306043812_wp-content_uploads_2022_02_台灣旅美鐵琴手蘇郁涵-324x400_jpg_e8bd9bdcfbbbf5fe.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/02/%E5%8F%B0%E7%81%A3%E6%97%85%E7%BE%8E%E9%90%B5%E7%90%B  (wayback 20220306043812)
+- `people/zeng-daoxiong` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2019/20191115045239_wp-content_uploads_2012_02_曾道雄-300x189_jpg_3c7aecd352d9a267.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2012/02/%E6%9B%BE%E9%81%93%E9%9B%84-300x189.jpg  (wayback 20191115045239)
+- `people/zoe-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220202164005_wp-content_uploads_2022_01_資深古典音樂節目主持人黃瑞芬過世-80x60_jpg_0a43561e1aa43f30.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/%E8%B3%87%E6%B7%B1%E5%8F%A4%E5%85%B8%E9%9F%B3%E6%A8%8  (wayback 20220202164005)
+- `people/zoe-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220202164024_wp-content_uploads_2022_01_資深古典音樂節目主持人黃瑞芬過世-485x360_jpg_76c389df3fb331d0.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/%E8%B3%87%E6%B7%B1%E5%8F%A4%E5%85%B8%E9%9F%B3%E6%A8%8  (wayback 20220202164024)
+- `people/zoe-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220202164037_wp-content_uploads_2022_01_資深古典音樂節目主持人黃瑞芬過世-356x220_jpg_194d99bde298f344.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/%E8%B3%87%E6%B7%B1%E5%8F%A4%E5%85%B8%E9%9F%B3%E6%A8%8  (wayback 20220202164037)
+- `people/zoe-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220202164103_wp-content_uploads_2022_01_資深古典音樂節目主持人黃瑞芬過世-265x198_jpg_7fb95dad40d23cba.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/%E8%B3%87%E6%B7%B1%E5%8F%A4%E5%85%B8%E9%9F%B3%E6%A8%8  (wayback 20220202164103)
+- `people/zoe-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220207200346_wp-content_uploads_2022_01_資深古典音樂節目主持人黃瑞芬過世-534x462_jpg_b8ad7782810ea14e.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/%E8%B3%87%E6%B7%B1%E5%8F%A4%E5%85%B8%E9%9F%B3%E6%A8%8  (wayback 20220207200346)
+- `people/zoe-huang` ← `knowledge/web-archives/taiwanjustice-net/raw-html/2022/20220207214447_wp-content_uploads_2022_01_資深古典音樂節目主持人黃瑞芬過世-100x70_jpg_d6eb925ca75344c4.jpg`
+  - src: https://www.taiwanjustice.net/wp-content/uploads/2022/01/%E8%B3%87%E6%B7%B1%E5%8F%A4%E5%85%B8%E9%9F%B3%E6%A8%8  (wayback 20220207214447)
+
+## MED — needs a human who-is-who call
+
