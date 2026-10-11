@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Prof. Tsung-Yi Lin (林宗義教授)
 
@@ -32,7 +32,7 @@ last_reviewed: 2026-10-10
 
 ## Family
 
-- **Wife:** Mei-Chen Lin(林李美貞)
+- **Wife:** Mei-Chen Lin(林李美貞) — daughter-in-law of 林茂生 (disappeared in the 228 Incident); reported to have died peacefully in Vancouver at age 99, in a 228-tribute article published 2024-02-25 ([[articles/taiwanjustice-net/2025/20250213222739_77年前_長榮中學最傷心的事件林茂生在228失蹤犧_0536f1fe192bce4e|77年前，長榮中學最傷心的事件…林茂生在228失蹤犧牲 (台灣頭條)]]). Exact death date not in source; age as reported.
 - **Daughter:** Lillian Lin Miao, Elizabeth Lin, Joy Lin Salzberg
 - **Son:** Siong-Chi Lin, David Lin
 
@@ -47,9 +47,9 @@ last_reviewed: 2026-10-10
 - Listed as a supporter of the 自決運動 in the 全美台灣同鄉會 record: 支持1973年3月20日黃彰輝、黃武東、林宗義與宋泉盛發起的台灣人民自決運動 ([[works/taiwaneseamericanhistory-org/ourjourneys76|76. 全美台灣同鄉會 / 吳木盛]]).
 - Also recorded in that association's record as having participated in the preparations for the World Federation of Taiwanese Associations (世台會/WFTA) during 吳木盛's presidency ([[works/taiwaneseamericanhistory-org/ourjourneys76-eng|76-eng. 全美台灣同鄉會 (English) / 吳木盛]]).
 - **WHO mental-health veteran in the Taiwan-WHO campaign:** 林榮松's NATMA record of the 1997–2007 台灣叩關WHO effort lists him (with 謝獻臣, 許子秋) among the Taiwanese physicians who had served as WHO consultants, whose Geneva-network contacts became the backbone of the 台灣醫界宣達團 from 1997 ([[works/taiwaneseamericanhistory-org/ourjourneys100|100. WHO for Taiwan by NATMA / 林榮松 / 2015-02]]).
-- **Televised profile:** the 【台灣演義】 documentary 「台灣精神科先驅 林宗義」 (2018-09-09) is held in-corpus at [[works/taiwaneseamericanhistory-org/50013|122. Prof. Tsung-yi Lin【台灣演義】台灣精神科先驅 林宗義]].
-- Corpus re-grep 2026-09-21: hit set unchanged (our-journeys-350, our-journeys-357, ourjourneys37, ourjourneys74, ourjourneys76, whos-who-1974-tsung-yi-lin, 50013, ourjourneys100) — new links above absorb the last two; the 1972 launch-date HOLD stands, no other new material.
-- Corpus re-grep 2026-10-10: hit set same plus the English counterpart ourjourneys76-eng, which adds the WFTA (世台會) preparation participation note linked above. No other new material; 1972 launch-date HOLD stands.
+- **228 memory link through family:** the 2024 tribute record names 林宗義's wife 林李美貞 as 林茂生's daughter-in-law — i.e. 林宗義 is 林茂生's son, whose disappearance in the 228 Incident is the family's defining historical wound; she died at 99 in Vancouver in Feb 2024 ([[articles/taiwanjustice-net/2025/20250213222739_77年前_長榮中學最傷心的事件林茂生在228失蹤犧_0536f1fe192bce4e|台灣頭條 228 tribute / 02/2024]]). This corroborates the page's existing claim that he was a major advisor to the 228 investigation and reconciliation initiatives.
+- **Televised profile:** the 【台灣演義】 documentary 「台灣精神科先驅 林宗義」 (2018-09-09) is held in-corpus at [[works/taiwaneseamericanhistory-org/50013|122. Prof. Tsung-yi Lin【台灣演義】台灣精神科先驅 林宗義]]; taiwanjustice.net's 林宗義 tag page mirrors the same broadcast listing ([[articles/taiwanjustice-net/2024/20240721110552_root_7f96d0a7af1cebf5|taiwanjustice.net 台灣演義 tag / 07/2024]]).
+- Corpus re-grep 2026-10-11: hit set unchanged (our-journeys-350, our-journeys-357, ourjourneys37, ourjourneys74, ourjourneys74-eng, ourjourneys76, ourjourneys76-eng, whos-who-1974-tsung-yi-lin, 50013, ourjourneys100); new material this pass is the taiwanjustice.net 228 tribute line (family/228 link above) and the 台灣演義 tag mirror. No other new material; 1972 launch-date HOLD stands.
 
 ## Sources
 - [TAH #1974 encyclopedia: 1974. Prof. Tsung-Yi Lin 林宗義教授](https://taiwaneseamericanhistory.org/whos-who-1974-tsung-yi-lin/)
