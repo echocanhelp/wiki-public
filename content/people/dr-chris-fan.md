@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Chris Fan (范清亮博士)
 
@@ -45,6 +45,8 @@ Accomplishment
 - Listed as a speaker (Mr. 范清亮) in the Irvine Taiwanese Presbyterian Church lecture roster 2009–2026 [[organizations/irvine-taiwanese-presbyterian-church|ITPC]].
 - Twin vault profile [[people/fan-qingliang|Fan Qingliang (范清亮)]] records the biotech origin story: Pacific Biotech (太平洋生物科技公司) grew from rabbit serum into a full biotech enterprise — the 「黃金白兔」 (golden rabbit) image in 楊遠薰's 2014 profile traces back to this [[works/taiwaneseamericanhistory-org/16-e9-bb-83-e9-87-91-e7-99-bd-e5-85-94-e2-94-80-e7-94-9f-e7-89-a9-e7-a7-91-e6-8a|黃金白兔]].
 - Corpus re-grep 2026-10-10 (slice 10081500-31): fresh ZH+EN sweep across all 5 corpus dirs; hit set same files, but content-level read surfaced the charter-reform passage in Our Journeys 26 (absorbed above) plus the ITPC speaker roster and twin-page rabbit-serum detail. Ching-ling vs Ching-liang HOLD stands.
+- Listed among the 第二代 roster figures (范清亮 / Fan Qingliang, slug `fan-qingliang`) in the 2023 TAHS publication index [[sources/2023-tahs-publication|2023 TAHS publication]]; roster entry, no new biographical detail beyond the twin-page profile already absorbed.
+- Corpus re-grep 2026-10-11 (slice 10101200-31): fresh ZH+EN+surname sweep (范清亮/Chris Fan/Ching Liang/Fan Ching) across all 5 corpus dirs — hit set unchanged (Our Journeys 26 +EN, records #32/#880, 「黃金白兔」, index/roster listings). Content-level read confirms all memoir detail already absorbed above; page verified saturated. Ching-ling vs Ching-liang HOLD stands.
 
 ## Family
 
