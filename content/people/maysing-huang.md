@@ -116,6 +116,8 @@ last_reviewed: 2026-10-10
 
 <!-- DEEPEN-X10100315-2: verified 2026-10-10 — fresh ZH+EN grep (楊黃美幸/Maysing) across all 5 corpus dirs returned 29 hits, all already absorbed or linked: 13 works (incl. TAA roster 76, NATWA 60, 黑名單回台 66, 陳文成廣場 366, 東區cruise 101, 回台參訪 382, 電影夢 279, 捐款record 256, Who's Who 1575), 14 TJJ articles (each dated fact already in From the record w/ wikilink), plus source page; only unlinked works are EN mirrors (ourjourneys37-eng/60-eng) of works already wikilinked — SKIP, verified-saturated, no new material. -->
 
+<!-- TJJ-A10100501-31: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-31 article 6fd9d16befa5a33a (曾為裴洛西募款餐會獻唱·音樂劇演員楊呈偉返台, TJJ 發文 2022-08-08／20221002104157 快照; 與 5f12408ab340f912 同稿重複存檔) read fresh this attempt: 楊黃美幸以「台裔美籍的楊呈偉是前無任所大使楊黃美幸之子」記述確認見於正文, subject link re-checked line-by-line, real, no wrong/spurious links; 2022-08-08 dated fact w/ 雙檔 wikilink already in From the record — saturated, no new material. -->
+
 ## 照片
 
 ![20240828151830_wp-content_uploads_2016_09_楊黃美幸_jpg_807708563](../images/people--maysing-huang.jpg)
