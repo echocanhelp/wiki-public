@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Stephanie Chang (張理)
 
@@ -66,6 +66,11 @@ Her elections and district work are recorded in the taiwaneseamericanhistory.org
 - [[works/taiwaneseamericanhistory-org/important2016-12||Important 2016 #12: won second term as State Representative, Michigan House District 6 (2016)]]
 - [[works/taiwaneseamericanhistory-org/photo-albums-activities-137||Photo Albums #137: First Taiwanese American State Senator Stephanie Chang, Michigan (2018)]]
 - [[works/taiwaneseamericanhistory-org/mystories532||My Stories #532: State Rep. Stephanie Chang Knocked on Every Door in Her District—Twice (Mattie Kahn, 2017)]]
+
+## Mother's memoir (corpus, deepened 2026-10-11)
+Mother [[people/sarolina-chang||沈麗華]] (Sarlina Shen Chang) writes for the TAH story corpus; her essay **"女兒從政" (Daughter in Politics)** was published 2018-11-08 — days after the November 2018 midterms in which Stephanie won her State Senate seat — as the family's community record of her political career:
+- [[works/taiwaneseamericanhistory-org/50875||658. 女兒從政 / 沈麗華 (思理) — 2018-11-08]]
+Her other in-corpus essays (68. 投票日那天, 2014; 453. Duck prints in the April snow) do not name Stephanie in the bibliographic record — HOLD: relevance unconfirmed, not linked.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
