@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Dr. Or. Hsieh (謝娥醫師)
 
@@ -78,3 +78,7 @@ _No filled family fields on the TAH profile._
 - **228:** asked to broadcast to the public during the incident, she later said she "廣播說錯了兩句話"; an angry crowd destroyed the furniture and instruments at her hospital, yet she still won the legislature seat the following year. The authors note her role in 228 is described very differently across sources.
 - **US career detail:** left Taiwan 1949 via Europe; entered Columbia's School of Public Health. 朱/陳 state she received the **MPH in 1952** and the **DrPH later** — HOLD: the page's timeline and [[works/taiwaneseamericanhistory-org/ff311|TAH #311]] record the doctorate itself as 1952; not auto-merged. 朱真一's own book [[works/taiwaneseamericanhistory-org/ourjourneys270|《早期留學歐美醫界人士》]] devotes two chapters to her. From the US physician registry: psychiatric practice, 1967 appointment at the Oregon state mental hospital, then the NY State Health Department; from 1973 her correspondence address is listed at the Albany regional office, and she reportedly rose to head a county health department. Claims that she was NY State Health Department's Public Health Bureau Chief, or deputy director of the Rockefeller Medical Center, were checked by 朱/陳 and could not be confirmed — treat as unconfirmed.
 - **Later years:** retired at 65 to Long Island; suffered a stroke in 1991 and returned to Taiwan by wheelchair, residing there until her death in 1995. The sketch calls her a pioneer of women's political participation in Taiwan and the trailblazer of the tens of thousands of Taiwanese Americans who followed.
+
+### Milestone record (corpus-absorbed, deepen 2026-10-11)
+
+- The TAH milestones series records her arrival as the movement's founding datum: [[works/taiwaneseamericanhistory-org/milestones3|TAH milestone #3 (2016-02-03)]] — "1949 / Dr. Or Hsieh (謝娥醫師) arrived in America and later obtained her citizenship. She is considered to be the first Taiwanese American." — i.e. the "first Taiwanese American" claim is framed around **arrival + naturalization**, not merely residence; her 1949 departure is also held at [[works/taiwaneseamericanhistory-org/1949-dr-or-hsieh|TAH #1949]] and the first-woman-M.D. framing at [[works/taiwaneseamericanhistory-org/22031|TAH #4 mirror (2015-11-20)]].
