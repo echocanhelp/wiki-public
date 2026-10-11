@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Enoch Wu (吳怡農)
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-10-09
 
 ## Role in the Community
 - Carried in the TAH story corpus by his 2020 legislator campaign record: [[works/taiwaneseamericanhistory-org/videos-158|158. 吳怡農參選立委 / 02-2020]], [[works/taiwaneseamericanhistory-org/my-stories-719|719. 吳怡農的生涯簡介 / 02-2020]] and [[works/taiwaneseamericanhistory-org/my-stories-720|720. 吳怡農參選4個月創造高聲量 / 02-2020]]; campaign artifacts at [[works/taiwaneseamericanhistory-org/artifacts-82|TAH #82 競選文宣品與贈品]]; TIME 100 Next coverage at [[works/taiwaneseamericanhistory-org/my-stories-858|858. 吳怡農推動緊急應變訓練 入選2022時代雜誌次世代百大人物]]. All band B bibliographic records — full text stays in the vault.
+- 2022-11〜12 — 以壯闊台灣聯盟理事長身分投入台北市第3選舉區（中山、北松山）立委補選（1/8投票）；選戰期間以台北市黨部主委經歷回應黑道入黨與黑金質疑，並三度進入媒體「首都之戰」人選名單（見上條時間線，2022-11-27／12-04／12-22／12-25／2021-05-08 條目）。
 
 ## Sources
 - [TAH #82 encyclopedia: 82. Enoch Wu Campaign Materials and Gifts for 2020 Legislator 吳怡農2020立法委員競選文宣品與贈](https://taiwaneseamericanhistory.org/artifacts-82/)
@@ -81,6 +82,11 @@ last_reviewed: 2026-10-09
 - 2021-05-02 — 以民進黨台北市黨部主委身分就黑道入黨爭議接受聯訪，稱應重新檢視黨內排黑條款不夠嚴謹之處，並指處理過程與黨主席蔡英文、秘書長林錫耀多次溝通、照流程進行（中央社記者報導 via [[articles/taiwanjustice-net/2021/20210621185558_2021_05_02_外界關切黑道入黨問題_吳怡農_應重新檢視排黑_8c95914277635e85|TJJ, 2021-05-02]]）。
 - 2022-11-27 — 九合一選舉後蔣萬安辭立委就任台北市長，北市第3選舉區（中山、北松山）立委缺額補選（1/8投票）；他以壯闊台灣聯盟理事長身分與台北市議員阮昭雄並列有意爭取民進黨徵召人選（中央社記者報導 via [[articles/taiwanjustice-net/2023/20230601051944_2022_11_27_北市立委補選-吳怡農阮昭雄拚參選梁文傑也被點名_f5f182c819b7f17b|TJJ, 2022-11-27]]）。
 - 2022-12-04 — 民進黨北市立委補選參選人身分於台北捷運劍南路站舉行首場街口演講，支持者携上次立委競選旗幟小物打氣；就黑道黨員爭議稱處置處分已做過、盼「適可而止」，並稱接下來五週選戰更加努力、盼再給一次機會（中央社記者報導 via [[articles/taiwanjustice-net/2023/20230202220353_2022_12_04_吳怡農首場街口演講-盼黑道黨員爭議適可而止_cf9540e3b0e6446b|TJJ, 2022-12-04]]）。
+- 2019-12-16 — 「台灣大凱旋」演唱會（閃靈主辦凱道開唱）公布嘉賓名單含立委參選人吳怡農及賴品妤，總統蔡英文亦將出席；團長葉湘怡談初衷「台灣站在第一線面對中國，要保護自由的生活方式」（中央社記者報導 via [[articles/taiwanjustice-net/2026/20260115080251_閃靈週末凱道開唱_主唱林昶佐同場造勢_95cb24c082328e2a|TJJ, 2019-12-16]]）。
+- 2021-05-08 — 台北市長選舉「首都之戰」列為超級戰區，民進黨內被點名的熱門人選除鄭麗君外，包括衛福部長陳時中、台北市黨部主委吳怡農以及基隆市長林右昌（中央社記者報導 via [[articles/taiwanjustice-net/2021/20210616063748_2021_05_08_角逐台北市長_鄭麗君_最重要是忠於理想_4313f1f6a0ccfb31|TJJ, 2021-05-08]]）。
+- 2022-12-22 — 呼應副總統賴清德「民進黨要誠實面對黑金質疑」談話，於中山市場拜票時稱「不能已讀不回」，是民進黨重新爭取社會信任的第一步；並稱任台北市黨部主委時逐份重審入黨申請、落實入黨規範，不希望因一個人案件污衊北市2.5萬名黨員的努力（中央社記者報導 via [[articles/taiwanjustice-net/2023/20230930230159_2022_12_22_賴清德談誠實面對黑金_吳怡農呼應_不能已讀不_978b5b5af725c7eb|TJJ, 2022-12-22]]）。
+- 2022-12-25 — 北市第3選區立委補選首場「頭家來發問」與選民對談：支持者建議找正選黨主席的賴清德同台輔選召喚基本盤、對抹黑應按鈴申告反擊；一位年輕選民指其網路聲量薄弱、淪為笑柄，應走出同溫層（中央社記者報導 via [[articles/taiwanjustice-net/2023/20230922205517_2022_12_25_與吳怡農座談_選民建議找賴清德輔選召喚基本盤_473ded9bc191f565|TJJ, 2022-12-25]]）。
+- 2022-12-04 — 同（補選）日，國民黨北市議員徐巧芯與立委補選參選人王鴻薇影射其與黑道有關係；前立委謝欣霓反駁天道盟老大羅福助之子羅明才現為國民黨立委，指「可以嘲笑民進黨被滲透，不能指責民進黨是黑道」（綜合報導 via [[articles/taiwanjustice-net/2023/20230202211258_2022_12_04_王鴻薇抹黑吳怡農與黑道有關係_謝欣霓_天道盟_886d0cfcd141be61|TJJ, 2022-12-04]]）。
 
 <!-- TJJ-A09260400-9: verified 2026-09-26 — subject links in slice 09260400-9 articles (064fe05a08d0aecf / a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
@@ -113,6 +119,8 @@ last_reviewed: 2026-10-09
 <!-- TJJ-A10090401-24: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-24 article d4a7f9e55282396a (北市區域立委號次，蔣萬安4吳怡農2，藍綠造勢互有攻防, taiwanjustice.net, 2019-12-17 發文 / 2025-11-15 快照): subject link re-checked vs 正文 this attempt (本人於第三選區「中山、北松山」抽得2號，對手4號蔣萬安等，見於正文第3選區名單), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090701-32: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-32 article 11761bdaa78af55f (台灣頭條 category p3, 2020-06-25快照) read fresh this attempt: subject link re-checked vs 正文 — 「陳其邁21日偕吳怡農見邁粉 拉近與年輕人距離」清單條目逐字確認見於正文, real, no wrong/spurious links; 2020-06-20 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 複核＋加深（DEEPEN-X10091531-5, 2026-10-10）：本頁以 吳怡農/Enoch Wu/怡農 三式 grep 遍掃 works/articles/sources/events/topics 五庫，works 端命中（videos-158、my-stories-719/720/858、artifacts-82、whos-who-2244）與既記一致；articles 端新命中 5 篇正文含本人且日期事實原未入庫，已逐篇對照正文後補入 From the record（2019-12-16 閃靈「台灣大凱旋」凱道演唱會嘉賓名單、2021-05-08 台北市長「首都之戰」民進黨人選點名、2022-12-22 呼應賴清德黑金談「不能已讀不回」、2022-12-25「頭家來發問」選民座談、2022-12-04 王鴻薇／徐巧芯黑道影射與謝欣霓反駁），連結皆為正文真實提及，無錯鏈、無虛鏈。無日期或年齡衝突需 HOLD。
 
 ## 照片
 
