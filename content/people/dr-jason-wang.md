@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Jason Wang (王智弘)
 
@@ -74,6 +74,8 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090401-5: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-5 article d94cecddadd6f167 (史丹佛論壇分享防疫 陳建仁：台灣模式貴在透明, 2020-05-07): subject link re-checked vs 正文 this attempt — 「史丹佛醫學院台裔教授王智弘（Jason Wang）」與談人身份確認見於正文, real, no wrong/spurious links; 2020-05-07 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100401-6: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-6 article d94cecddadd6f167 (史丹佛論壇分享防疫 陳建仁：台灣模式貴在透明, 2020-05-07): subject link re-checked vs 正文 this attempt — 「史丹佛醫學院台裔教授王智弘（Jason Wang）」與談人身份確認見於正文, real, no wrong/spurious links; 2020-05-07 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- Corpus re-grep 2026-10-11 (slice 10101100-25): fresh ZH+EN grep (王智弘 / Jason Wang / 智弘) across all 5 corpus dirs returns the identical hit set already linked above (publications13, whos-who-281, 1281, whos-who-2011 王凱傑 disambiguation, Pew statement, works index, sources registry, plus the two TJJ epidemic-forum articles under From the record). SKIP, verified-saturated.
 
 ## 照片
 
