@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Shu-Yuan Susan Tsay (蔡淑媛)
 
@@ -55,6 +55,10 @@ Shu-Yuan (Susan) Tsay 蔡淑媛 (翠屏) – History of Taiwanese American (T.A.
 
 ## Role in the Community（deepen pass 2026-10-09，語料全庫重掃）
 - **散文序列補錄（全庫重掃新發現兩篇）：**[[works/taiwaneseamericanhistory-org/my-stories-718|TAH #718 母語的故事（2020/02）]]——主題與其實際雙語教學生涯（Bellaire HS 漢語教學、台灣語文學校教材編寫）直接互證；[[works/taiwaneseamericanhistory-org/259-e8-88-87-e9-a2-a8-e6-b0-b4-e5-b9-be-e5-ba-a6-e7-9b-b8-e9-80-a2-e8-94-a1-e6-b|TAH #259 與風水幾度相逢（2011/01，文學，筆名翠屏）]]——補入其文學創作序列，將可考散文發表年表上溯至 2011。
+
+## Role in the Community（deepen pass 2026-10-10，語料全庫重掃）
+- **台灣正義網「台美人台加人」專欄再補一篇：**〈記得當時年紀小〉◎ 翠屏（post 2020-05-19）刊於台美線專欄，見 [[articles/taiwanjustice-net/2020/20200628200117_category_taiwaneseamerican_page_3_ac95b4bde9c91f00|台美人台加人頁 3 存檔]]——與既有〈夏日湖畔〉同屬其台美媒體散文線，可考專欄發表期為 2020 年。
+- **HOLD：同名同筆名誤配排除（本次全庫重掃判定）**——語料中另有「蔡淑媛」為《自由時報》台中地方記者（如 [[articles/taiwanjustice-net/2025/20250616220625_冬至吃湯圓-主食宜減量_4顆包餡湯圓等於1碗飯熱_7d09d976b6f8fe9d|2019-12-19 冬至湯圓營養報導]]、2022-03-20 空污報導），署名格式為「記者蔡淑媛／台中報導」，與本頁旅居休士頓之蔡淑媛非同一人；「翠屏」亦見於中國四川宜賓翠屏區公安單位帳號（2022-05 李克強新聞轉述），非筆名。以上皆不入本頁事跡，供後續加深者勿誤掛。
 
 ## Sources
 - [TAH #24 encyclopedia: 24.  Susan Tsay 蔡淑媛](https://taiwaneseamericanhistory.org/24-susan-tsay/)
