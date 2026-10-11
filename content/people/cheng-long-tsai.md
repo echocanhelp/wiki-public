@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Cheng Long Tsai (蔡正隆博士)
 
@@ -67,3 +67,5 @@ _Corpus re-grep 2026-09-24 (slice 09230500-6): works+articles hits for 蔡正隆
 - Press photo-archive record: a 陳文成事件 42週年 「開箱老照片」 feature re-published the hearing-era photos in 2025 ([[articles/taiwanjustice-net/2025/20250521072528_開箱老照片_陳文成事件42週年_949795df4799ea38|台灣正義網絡, 2025-05-21]]; duplicate 2024-02-24 variant also filed) — corroborating press record, no new biographical facts.
 
 _Corpus re-grep 2026-10-10 (slice 10081300-29): ZH+EN+alias grep (蔡正隆 / Cheng Long Tsai / 蔡巫福) across all 5 corpus dirs returns the identical saturated hit set already absorbed above (Our Journeys #8 EN/ZH, #106, #106-timeline, #210, #230, #234, #292 EN+ZH, #321, mystories469, cheng-long-tsai-fund, TAH #262《燭火闖關》, plus the two 台灣正義網絡 press variants). The only delta vs the 2026-09-24 re-grep is the English translation [[works/taiwaneseamericanhistory-org/ourjourneys292-eng|Our Journeys #292-eng]], which restates the softball-captain passage already recorded — no new facts, no conflicts. Verified saturated; last_reviewed bumped._
+
+_Corpus re-grep 2026-10-11 (slice 10101000-18): ZH+EN+alias grep (蔡正隆 / Cheng Long Tsai / 蔡巫福) across all 5 corpus dirs again returns the identical hit set (17 files: same 15 works + 2 台灣正義網絡 press variants + sources index) already fully absorbed above — no new material, no conflicts. Verified saturated; last_reviewed bumped._
