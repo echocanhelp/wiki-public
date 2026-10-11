@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Li-Lin Cheng (鄭麗伶)
 
@@ -44,7 +44,7 @@ BVM (Bachelor of Veterinary Medicine)
 ## Family
 
 - **Husband:** 小林博仁（台日混血，學建築；UW-Madison 布袋戲團舞台設計者）（[[works/taiwaneseamericanhistory-org/ourjourneys277|Our Journeys 277]]）。
-- **Father:** 鄭昭明（善友管弦樂團指揮）。
+- **Father:** 鄭昭明（善友管弦樂團指揮及主要幹部）；1960 年善友解散後於台南市創立 3B（BBB）青少年管弦樂團，林昭亮、胡乃元等小時曾於該團受訓（[[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys 287]]）。
 - TAH 個人檔案欄位原無家人資料；上述取自 Our Journeys 回憶錄。
 
 ## Sources
@@ -126,3 +126,5 @@ BVM (Bachelor of Veterinary Medicine)
 <!-- TJJ-A10100401-23: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-23 article 23924f7ad0d93713 (李應元標籤頁, 2022-07-01 快照) read fresh this attempt: 「哲人日已遠：敬弔李應元博士 ◎NATPA鄭麗伶會長暨全體理事」署名確認見於條目; subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100501-30: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-30 article efea1ad2d8cb4d11 哲人日已遠：敬弔李應元博士（弔文主角李應元、牽手黃月桂致哀句、◎NATPA鄭麗伶會長暨全體理事署名皆確認見於正文）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 複核（deepen-x slice 10100700-18, 2026-10-11）：ZH+EN 再 grep 全五語料目錄——命中集與歷次相同（OJ 277/287/242/205、自身 TAH #1609 條目、TJJ 弔文／標籤／分類頁）。注意：2026-01-23 i-Tek 起訴案報導之「屠麗玲（Li-Ling Tu）」為假陽性（非本人，勿掛鏈）。新增材料：OJ 287 回憶錄載善友 1960 解散後鄭昭明於台南創設 3B（BBB）青少年管弦樂團、林昭亮與胡乃元幼時受訓於該團——已吸收於 Family 節。無衝突，維持飽和判定。
