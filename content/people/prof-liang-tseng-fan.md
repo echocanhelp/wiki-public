@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Prof. Liang-Tseng Fan (范良政教授)
 
@@ -47,6 +47,7 @@ Prof. Liang-Tseng Fan 范良政教授 – History of Taiwanese American (T.A. Ar
 ## Role in the Community（deepen pass 2026-09-14）
 
 - **全美台灣同鄉通訊錄的第一位買主**：陳希寬回憶，1967 年 12 月 23 日Kansas City 台灣同鄉會年終晚會，當晚賣出的**第一本**《全美台灣同鄉通訊錄》——美國台灣人社區第一本有數據性的全美通訊錄——就在晚會停車場賣給他的指導教授范良政博士（每本售價 2 美元）。出處：[[works/taiwaneseamericanhistory-org/ourjourneys58|TAH #58 陳希寬《回憶編印第一本全美台灣同鄉通訊錄的甘苦經過》]]。
+- **平原區台灣人秋令會的創始推手之一**：1983 年在 Manhattan, Kansas 與林啓東（CD Lin）、刁明華（Joe Tiao）、黃金來（K.L. Huang）等堪大教授聚會，討論將台灣人營會改於勞動節週末舉行，促成 1985 年首屆平原區台灣人秋令會在 Rock Spring（4-H Club）創辦，範圍橫跨中部平原六州。出處：[[works/taiwaneseamericanhistory-org/our-journeys-351|TAH #351 平原區秋令會歷史簡介]]；中文版記「范良正」（「正」為「政」之異寫）與楊景文等為當時Kansas同鄉先覺前輩：[[works/taiwaneseamericanhistory-org/ourjourneys296|TAH #296 平原區秋令會回憶]]。HOLD: 「L.C. Fan」縮寫與「范良正」異寫皆指范良政教授，惟縮寫無全名佐證，採高可能性標注而非斷言。
 - **兩代台籍研究生的指導教授**：陳希寬 1964 年入堪薩斯州立大學即由范良政指導（其大哥志青曾就讀堪大、指導教授即是范，故推薦希寬入其門下，見 [[works/taiwaneseamericanhistory-org/ourjourneys33|TAH #33 一家人做伙來打拼]]）；同期堪大台籍學生圈（莊秋雄、陳希寬等）正投入校園統獨論戰並於學生報刊登二二八廣告，范與台僑學生社群關係密切。
 
 ## Sources
