@@ -21,8 +21,7 @@ echopedia/last-good-deploy.json
 # Audiobook production masters (still in vault for Obsidian; not for public git)
 audiobook-albert-lai/
 
-# Large media files (>20MB Obsidian limit)
-albert-ch01-en-christopher-v1-scratch.mp3
+# Large media files: never gitignore by filename — silent 404s on gh-pages. Track normally.
 
 # OS / editor
 .DS_Store
