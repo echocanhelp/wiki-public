@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # George K. Liu (劉寬平)
 
@@ -57,3 +57,4 @@ Corpus re-grep 2026-10-01 (slice 09261200-6): fresh grep of works/ + articles/ f
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 10062334-11 recheck 2026-10-08: SKIP — fresh ZH+EN grep (劉寬平/George K. Liu/寬平) across works/articles/sources/events/topics returns the identical hit set — ourjourneys59 (蔡同榮 memoir, 1980 Massachusetts fruit-company VP → Kennedy introduction) + own #776 + index/source hubs — all already absorbed above. United Brand vs. fruit-company employer records remain on HOLD. No new absorbable corpus facts. -->
 <!-- deepen-x slice 10080720-9 recheck 2026-10-09: SKIP — fresh ZH+EN grep (劉寬平/George K. Liu/寬平) across works/articles/sources/events/topics returns the identical hit set (ourjourneys59 + whos-who776 + works/index + sources hub); memoir passage and #776 already absorbed; United Brand vs. fruit-company conflict remains on HOLD. No new absorbable corpus facts. -->
+<!-- deepen-x slice 10092054-24 recheck 2026-10-10: SKIP — fresh ZH+EN grep (劉寬平/George K. Liu/寬平/劉寬/K. Liu) across works/articles/sources/events/topics returns the identical substantive hit set (ourjourneys59 + whos-who776 + works/index + sources hub); the two extra regex hits (ourjourneys257 — Pastor Felix Liu/George Chua; arthur-chu essay — George Takei/Lucy Liu) are false positives on unrelated names. Memoir passage and #776 already absorbed; United Brand vs. fruit-company conflict remains on HOLD. No new absorbable corpus facts. -->
