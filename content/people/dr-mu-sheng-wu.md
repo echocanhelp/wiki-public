@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Dr. Mu-Sheng Wu (吳木盛博士)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-10-09
 - **Era:** 1934
 - **Geography:** Kaohsiung, Taiwan
 - **Core roles:** engineer, journalist
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 Accomplishment
 1. President of Taiwanese Association of America (全美台灣同鄉會會長) 1974-1976
@@ -49,7 +49,7 @@ Accomplishment
 - [TAH #14 encyclopedia: 14. Dr. Mu-Sheng Wu (吳木盛博士)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-14/)
 - [TAH #74 encyclopedia: 74. Dr. Mu-Sheng Wu 吳木盛博士 / The first retiree from his professional career / 198](https://taiwaneseamericanhistory.org/ff74/)
 - [TAH #36 encyclopedia: 36. Dr. Mu-Sheng Wu 吳木盛博士](https://taiwaneseamericanhistory.org/whos-who-36-mu-sheng-wu/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/dr-mu-sheng-wu/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/dr-mu-sheng-wu/)
 
 ## Role in the Community（吸收自语料庫 2026-09-14）
 - **TAA 會長時期（1974–1976）**：1975 年 7 月 2 日，呂秀蓮經全美台灣同鄉會吳木盛引介，赴美東台灣人夏令會演講，因其維護國民黨政府之言論遭會眾圍剿（見 [[works/taiwaneseamericanhistory-org/our-journeys-392|TAH #392：1975 美東台灣人夏令會總召集人王成章牧師專訪]]）。
@@ -59,6 +59,10 @@ Accomplishment
 - **文學創作**：散文〈青草茶〉（[[works/taiwaneseamericanhistory-org/publications32|TAH #32：青草茶／1994-07／文學]]）、〈離鄉〉（[[works/taiwaneseamericanhistory-org/mystories55|TAH #55：離鄉]]）。
 - **TAA 第三任會長**：個人會史記錄自述為「全美台灣同鄉會第三屆會長」（[[works/taiwaneseamericanhistory-org/mystories544|TAH #544：全美台灣同鄉會第三屆會長—吳木盛博士的故事]]、英文版 [[works/taiwaneseamericanhistory-org/mystories544-2|TAH #544 英文版]]），與本頁 1974–1976 任期相互印證。
 - **會史章節作者**：撰〈全美臺灣同鄉會〉一章，收入張炎憲、曾秋美、陳朝海編《自覺與認同：1950-1990年海外臺灣人運動專輯》（頁333-370）；該文註記全美臺灣同鄉會英文名初為 The Formosan Club of America，後改為 Taiwanese Association of America（轉引自 [[works/taiwaneseamericanhistory-org/our-journeys-357|TAH #357]] 註解[17]）。
+- **黑名單三十年**：1970 年代初與數名年輕留學生籌組奧斯汀台灣同鄉會並任首任會長後，遭駐外使館列入黑名單、禁止返台探親約三十年，直至戒嚴結束、民選總統時期方解除（[[works/taiwaneseamericanhistory-org/ourjourneys58|TAH #58：回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過／陳希寬]]）。同文並記簡忠松、陳希寬夫婦等后续入列／解禁案例。HOLD: 同文稱其「1975 年任 TAA 首任會長」，與 [[works/taiwaneseamericanhistory-org/mystories544|#544]] 自述「第三屆會長」及本頁 1974–1976 任期記載存在頭銜/屆次衝突，不自動合併。
+- **世台會年會報告作者**：撰〈世台會第二、三屆年會報告〉（[[works/taiwaneseamericanhistory-org/ourjourneys283|TAH #283：世台會第二、三屆年會報告／2017-04]]），自述 1974 年秋為籌辦世台會第二屆年會奔走，得紐約台灣同鄉會會長陳隆豐提議承辦並負責籌備。
+- **專欄與著作擴充**：《台灣公論報》專欄〈青草茶〉（[[works/taiwaneseamericanhistory-org/columns25|TAH #25]]）、〈吳木盛講笑話〉（[[works/taiwaneseamericanhistory-org/coulumns28|TAH #28]]）、〈追憶之頁〉（[[works/taiwaneseamericanhistory-org/coulumns29|TAH #29]]，結集 [[works/taiwaneseamericanhistory-org/publications1096|TAH #1096]]）；專欄／隨筆〈秀才造反〉（[[works/taiwaneseamericanhistory-org/ourjourneys222|TAH #222：2016-05]]）、〈職業洗碗生〉（[[works/taiwaneseamericanhistory-org/mystories123|TAH #123：2014-10]]）、〈再會 台灣公論報〉（[[works/taiwaneseamericanhistory-org/mystories528|TAH #528：2017-03]]）、〈稀有動物〉（[[works/taiwaneseamericanhistory-org/ourjourneys96|TAH #96：2015-02]]）；英文自傳 A Commoner's Story（[[works/taiwaneseamericanhistory-org/publications1080|TAH #1080：2014-03]]）、《旅台三十日記》（[[works/taiwaneseamericanhistory-org/publications1097|TAH #1097]]）、《笑話集》（[[works/taiwaneseamericanhistory-org/publications1079|TAH #1079：2007-08]]）；散文〈離鄉難，回井更難〉（[[works/taiwaneseamericanhistory-org/mystories56|TAH #56]]、英文版 [[works/taiwaneseamericanhistory-org/mystories56-2|TAH #56-2]]）。
+- **NATWA 關連**：北美台灣婦女協會（NATWA）「婦女信箱」千禧年專刊（2001-04）鳴謝其為該專輯重要作者與諮詢者，並列名專輯捐助人（[[works/taiwaneseamericanhistory-org/ourjourneys79|TAH #79：北美婦女信箱／千禧年專刊]]）。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
@@ -75,3 +79,4 @@ Accomplishment
 - Corpus re-check (slice 09150316-5, 2026-09-15): grep 三核，命中仍僅上述已連結書目頁（#26/#27/#45/#76/#392/#1099 書名頁標題命中），無 memoir 敘述新增事實。SKIP-with-reason; nothing absorbable.
 - Corpus re-check (slice 09150400-2, 2026-09-15): grep 四核，命中集不變（僅上述已連結書目頁），無新事實，無衝突需 HOLD；last_reviewed 已是今日。
 - Deepen pass (slice 10081000-25, 2026-10-09): 再核發現四組先前未吸收記錄——筆名「牧生」專欄〈有孔無榫〉(#24) 與結集《有孔無榫集》(#1098)、散文〈青草茶〉(#32) 與〈離鄉〉(#55)、自述「第三屆會長」會史記錄 (#544/#544-2)、《自覺與認同》專章（Formosan Club of America → TAA 更名註記，經 #357 轉引）。已全數吸收並 wikilink；無日期/年齡衝突需 HOLD。
+- Deepen pass (slice 10100500-29, 2026-10-11): 五目錄全量再 grep，命中 44 頁 works/，其中 15 筆先前未吸收——黑名單三十年記錄（#58）、世台會第二、三屆年會報告（#283）、NATWA 婦女信箱專刊（#79）、專欄 #25/#28/#29/#96/#123/#222/#528、著作 #1079/#1080/#1096/#1097、散文 #56/#56-2，已全數吸收並 wikilink。一項頭銜衝突（#58「首任會長」vs #544「第三屆會長」）記於上文 HOLD，未自動合併。
