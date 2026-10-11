@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Prof. Tian-Min Lin (林天民教授)
 
@@ -91,3 +91,5 @@ Visiting Professor of World Religion
 <!-- DEEPEN-X10081300-23: verified 2026-10-10 — fresh ZH+EN+surname grep across all 5 corpus dirs returned the identical saturated hit set (TAH #189/#183/#462/#463/#464, Our Journeys #268/#107/#61, TJJ 2017-12-20 + 2018-07-20 articles) — all already linked and absorbed in Role in the Community. One extra hit (filmmaker-timothy-tau-pays-tribute-to-pioneer-actor-keye-luke) is a false positive on "Timothy Tau", not our subject — SKIP, no new material. -->
 
 <!-- TJJ-A10100801-9: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-9 article c4d413fd5efb8a9c (全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮報導, 2017-11-29刊, 2017-12-20快照) read fresh this attempt: subject link re-checked vs 正文 — 「林天民教授講宗教新聞@20171214」條目確認見於正文 RELATED ARTICLES 段, real, no wrong/spurious links; 2017-12-14 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10101000-7: verified 2026-10-11 — fresh ZH+EN grep (林天民／Tian-Min Lin／Timothy Tian-Min) across all 5 corpus dirs returned the identical saturated hit set (TAH #189/#183/#462/#463/#464, Our Journeys #268/#107/#61, TJJ 2017-12-20 + 2018-07-20 articles); remaining hits (works/index.md, sources/taiwaneseamericanhistory-org.md) are index listings only, not new material. All corpus works already linked and absorbed in Role in the Community — SKIP, saturated, no new material. -->
