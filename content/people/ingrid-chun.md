@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Ingrid Chun (郭雋音)
 
@@ -46,6 +46,8 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/222-ingrid-chun-e9-83-ad-e9-9b-8b-e9-9f-b3201501||TAH #222 encyclopedia: Ingrid Chun 郭雋音 (2015/01)]]
 - [[works/taiwaneseamericanhistory-org/118-ingrid-chun-e9-83-ad-e9-9b-8b-e9-9f-b3-violinist201501||TAH #118 encyclopedia: Ingrid Chun 郭雋音, Violinist (2015/01)]]
+- [[works/taiwaneseamericanhistory-org/119-melody-kuo-e9-83-ad-e9-9b-8b-e5-be-8b-piano-accompanist||TAH #119 encyclopedia: Melody Kuo 郭雋律, Pianist (2015/01)]]
+- [[works/taiwaneseamericanhistory-org/229-melody-kuo-e9-83-ad-e9-9b-8b-e5-be-8b-pianist-201501||TAH #229 encyclopedia: Melody Kuo 郭雋律 (2015/01)]]
 - [[people/melody-kuo||Melody Kuo (郭雋律)]]
 
 ## Timeline (absorbed 2026-09-10 from profile text on this page)
@@ -79,3 +81,4 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090701-21: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-21 article 11aa2dfa5f64d7e4 (楊子清 tag頁, TJJ 2020-09-30 / 2021-01-17 快照): 「TUF 台灣文化之夜 1994 – …郭雋音…」條目確認見於正文; subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100701-10: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-10 article 11aa2dfa5f64d7e4 (楊子清 tag頁, TJJ 2020-09-30 / 2021-01-17 快照): 「TUF 台灣文化之夜 1994 – …郭雋音…」條目確認見於正文; subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- DEEPEN-X10101400-3: verified 2026-10-11 — fresh ZH+EN+surname grep (郭雋音 / Ingrid Chun / 郭雋) across works/articles/sources/events/topics: hits = ourjourneys301 + TAH #118/#222 (both already absorbed) + Melody Kuo encyclopedia entries #119/#229 (sister 郭雋律 — same duo, corpus material confirmed, not new biography). ourjourneys301 正文 confirms 1989 北美文協室內樂團 lineup (郭雋律、郭雋音、林俊信、吳昭麗、劉召岑) and 1994 姊妹花 five-piece program incl. 蕭泰然《夢幻的恆春小調》+沙拉沙第《流浪者之歌》— all facts already on page. Added missing sibling-work links #119/#229 to Related Pages. Saturated, no new dated facts. -->
