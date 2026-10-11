@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Suy Ming Sam Chou (周烒明博士)
 
@@ -81,6 +81,9 @@ Dr. Suy Ming (Sam) Chou 周烒明博士 – History of Taiwanese American (T.A. 
 - As a founding-generation speaker at his first New York 同鄉會 gathering he shared the platform with 陳隆志 and 林榮勲 — the 「五位博士」 whose lectures awakened a later memoirist's Taiwanese political consciousness ([[works/taiwaneseamericanhistory-org/ourjourneys70|Our Journeys #70]]).
 - The NATMA founding memoir adds the 1984 detail: he 「振臂一呼」 to establish the association with 40 chapters, and the photo record of the 1970 Morgantown, West Virginia rally places him among the four renowned T.A. speakers ([[works/taiwaneseamericanhistory-org/ourjourneys291|Our Journeys #291]]; [[works/taiwaneseamericanhistory-org/photo-albums-historical-15|Photo Album #15]]).
 - At NATPA's landmark 1990 Taipei annual meeting he served as 生物醫學組召集人, personally inviting 彭明聰 and 吳昭新 to the biomedical session ([[works/taiwaneseamericanhistory-org/ourjourneys47|Our Journeys #47]]).
+- In 1963 at UW-Madison he co-founded the UW Formosan Students Club — reportedly the first officially registered Taiwanese student organization in the US — after the ROC government pressured the university to block it; when that failed, his ROC passport was revoked, leaving him stateless and unable to return to Taiwan ([[works/taiwaneseamericanhistory-org/ourjourneys205|Our Journeys #205]]; biographical profile [[works/taiwaneseamericanhistory-org/publications285|TAH #285: 北美阿里山—周烒明與吳秀惠 (林雙不, 10/2000)]]).
+- He translated 高木友枝's 「台灣的衛生狀況」 into English (noted by 朱真一, 民報 2016-09-16, archived in the taiwanjustice.net corpus).
+- A 2016 tribute by 陳茂雄 recalls him playing violin in the 台大醫學院絃樂團 as a student, and — after retirement brought a Parkinson's diagnosis, the condition behind his co-founding of 台美人柏金森互助會 — continuing to play; at a NATMA annual dinner he asked to perform to show listeners how he was coping with PD, but 周夫人 吳秀惠 persuaded him not to go on stage ([[articles/taiwanjustice-net/2023/20230530144551_2016_08_16_低調的偉人-周烒明醫師-_-陳茂雄-08-16-2016_4b09efb6233259d4|低調的偉人—周烒明醫師 (陳茂雄, 08/2016)]]).
 
 ## Deepen — 2026-09-14 (vault-only re-check)
 - Wikilink targets above (NATMA Foundation, NATMA – Southern California Chapter, UFI, and the TAH #121 memorial record) re-verified against live vault slugs; no broken links.
