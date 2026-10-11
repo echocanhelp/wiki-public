@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # 黃蔡瑞雲
 
@@ -69,3 +69,5 @@ Re-verified 2026-09-21 (slice 09201400-23): corpus re-grep (works/articles) retu
 <!-- TJJ-A10040600-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-2 article 6f2b431c9cb0cca9 (台美人台加人頻道索引 p354, 2024-05-20 快照): subject links re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607005-d: verified 2026-10-09 — wave-2 link+deepen re-check of article 6f2b431c9cb0cca9 (台美人台加人頻道索引 p354, 2024-05-20快照): subject link re-checked vs 正文 this attempt — 「耳聰目明聲如洪鐘，她，黃蔡瑞雲才102歲」鄭炳全專訪條目 2015-10-26 real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- deepen-x slice 10100849-29: verified 2026-10-11 — fresh ZH+EN sweep (黃蔡瑞雲|Ray-Yun|蔡瑞雲) across all 5 corpus dirs: hit set unchanged (works #32/#277/#338/#365/#698 + ourjourneys50; TJJ 台美人台加人 index snapshots 6f2b431c / d8ee269d / 7deac993 / f7c07fcb / cd5cade0 / b6e6c25a all carry the same 2015-05-30 阿嬷致贈及 2015-10-26 鄭炳全專訪 items already in From the record). New 2025 tag page f79ff1d5 (Tag: 102歲的蔡瑞雲阿嬷) shows 「No posts to display」 — tag archive only, no material. SKIP, verified-saturated. -->
