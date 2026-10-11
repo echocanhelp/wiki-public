@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Chien-An Chen (陳建安)
 
@@ -117,3 +117,4 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A10091401-8: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10091401-8 article 64302d51d03b3c5f (黃瑞芬訃聞, taiwanjustice.net, 2022-01-29 刊/2024-02-25 快照): Subjects re-read vs 正文 this attempt — all 6 links real (1995-07-29 TUF「台灣名家演奏系列」LA音樂會: 聲樂黃瑞芬, 鋼琴葉綠娜, 小提琴蘇顯達/黃維明, 中提琴吳昭麗, 大提琴陳建安; 節目含呂泉生〈搖嬰仔歌〉、蕭泰然〈嘸通嫌台灣〉), no wrong/spurious links; 蘇顯達/葉綠娜 mentioned in 正文 but have no people/ pages (grep-verified), correctly absent from Subjects; all 6 subject pages dated facts w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10100601-24: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-24 article bfc5f319a036a339 (黃瑞芬訃聞, taiwanjustice.net, 2022-01-29 刊/2022-05-19 快照): 陳建安 — 1995-07-29 TUF LA音樂会同台大提琴記述 re-checked vs 正文 this attempt, real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- DEEPEN-X10101000-6: re-verified 2026-10-11 — fresh grep (陳建安/Chien-An Chen/建安) across all 5 corpus dirs returned the identical saturated hit set (musician86, whoswho134, ourjourneys294, ourjourneys301, works/index, MANIFEST, bfc5f319/64302d51/e1412ed9 articles); remaining 建安 hits confirmed false positives (建安全屏障; 外甥賴建安醫師, a different person — not absorbed). All records already in Role in the Community / From the record with true wikilinks — no new material, last_reviewed bumped. -->
