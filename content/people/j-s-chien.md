@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # J. S. Chien (簡忠松)
 
@@ -48,6 +48,8 @@ The Austin Taiwanese Association memoir adds biographical and blacklist detail: 
 複核（deepen-x slice-09211300-13, 2026-09-22）：re-grep 簡忠松 / J. S. Chien hit set unchanged (ourjourneys106, ourjourneys233 ±eng, mystories121, #479, #1364) — saturated, SKIP, 無新材料。
 
 複核（deepen-x slice-10080951-24, 2026-10-09）：re-grep 簡忠松 / J. S. Chien surfaced one previously-unabsorbed record — ourjourney-343 (ATA memoir: birth Yilan 1944, arrived US 1969, blacklisted 1970 for initiating the Cleveland Taiwanese Association, retired to Austin in the 2000s) — absorbed above.
+
+複核（deepen-x slice-10100315-32, 2026-10-10）：re-grep 簡忠松 / J. S. Chien / Jong-Song / 忠松 across all 5 corpus dirs returned the same hit set already absorbed above (ourjourneys106, ourjourneys233 ±eng, ourjourney-343, mystories121 ±eng, #474–480, #199, #248, #1364, #268); the lone nominally-new hit our-journeys-370 (FAPA TX-C 中德州分會記事) matched only on 簡單, a false positive. Saturated — SKIP, 無新材料。
 
 ## Sources
 - [TAH #1364 encyclopedia: 1364. 宜中耆老憶往述今–簡忠松專輯 | 簡忠松 /02/2022/ Autobiography/自傳](https://taiwaneseamericanhistory.org/publications-1364/)
