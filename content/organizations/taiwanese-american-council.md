@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Taiwanese American Council (紐約紐澤西台灣人社團聯合會)
 
@@ -40,6 +40,7 @@ From the community record (member memoirs):
 - **May 2021** — 大紐約區台灣人社團聯合會 (Taiwanese American Council of Greater New York) co-signed the "大紐約地區支持台灣參與WHO共同宣言" with 大紐約區台灣同鄉會, 紐約台灣會館, 紐約台灣商會 and 27 other groups (31 groups total in the final declaration; 30 in the earlier joint-statement draft), condemning China's obstruction of Taiwan's participation in the 74th World Health Assembly. The Council's convenor 賴弘典 (Lai Hung-Tien) spoke at the online forum hosted by 僑務委員莊振輝, alongside NATMA president-dr. 謝博夫 and 紐約台灣會館理事長蘇春槐 ([[articles/taiwanjustice-net/2025/20251110223518_大紐約地區31個僑團挺台參與who_台灣駐紐約辦事處_4c312d1526674bdf|taiwanjustice.net — 31 僑團挺台參與 WHO]]).
 - The earlier joint-statement draft (same month) shows the same coalition at 30 signatory groups before the final 31-group declaration ([[articles/taiwanjustice-net/2025/20251115175151_挺台參與世衛_紐約芝加哥僑界踴躍發聲影_7ad74b80e91d2125|taiwanjustice.net — 挺台參與世衛]]).
 - Corpus re-grep 2026-10-10 (slice 10081200-29): fresh ZH+EN grep surfaced the two taiwanjustice-net WHA-campaign articles above — newly absorbed; prior hit set (ourjourneys9/-eng, ourjourneys09, ourjourneys356 ±eng, directory pages) unchanged.
+- Corpus re-grep 2026-10-11 (slice 10100900-10): SKIP — fresh ZH+EN grep hit set identical again (ourjourneys9/-eng, ourjourneys09, ourjourneys356 ±eng, both directory work pages, taiwanjustice WHA pair); verified-saturated, no new absorbable material.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-council/)
