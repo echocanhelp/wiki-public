@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Prof. Chin-Chu Lin M.D. (林靜竹教授)
 
@@ -71,6 +71,11 @@ Prof. Chin-Chu Lin M.D. 林靜竹教授 – History of Taiwanese American (T.A. 
 - Fresh ZH+EN grep across all five corpus dirs: 22 hits, 14 previously-unlinked works now absorbed above (memoirs, autobiographies, NATPA founding record). Two of them — [[works/taiwaneseamericanhistory-org/ourjourneys69|Our Journeys #69]] and [[works/taiwaneseamericanhistory-org/ourjourneys268|Our Journeys #268]] — carry first-party movement-organizing detail not present on the page before.
 - HOLD: wife-name conflict — the TAH Who's Who table on this page gives **Jane Shwu-Ching Hahn (韓淑清)**, but the photo caption in [[works/taiwaneseamericanhistory-org/ourjourneys33-eng|Our Journeys #33 (EN)]] reads "Dr. C.C. Lin & his wife, **Se-Ching (世真)**", and his own memoir [[works/taiwaneseamericanhistory-org/my-stories-654|TAH #654: 懷念許世真]] memorializes a 許世真. Not auto-merged; both readings preserved pending confirmation.
 - No other date/age conflicts encountered.
+
+## Deepen-x 2026-10-11 (corpus pass)
+- Re-grepped ZH+EN+initials across all five corpus dirs: 27 hits, all genuine hits already linked above — page verified saturated, no new material to absorb.
+- **Name-collision guard:** the grep hit [[works/taiwaneseamericanhistory-org/whoswho1267|TAH #1267: C. C. Lin 林振昌（09/2016）]] matches the initials "C. C. Lin" but is a **different person** (林振昌, not 林靜竹) — do NOT link it here.
+- English NATPA roster in [[works/taiwaneseamericanhistory-org/ourjourneys69-eng|Our Journeys #69 (EN)]] confirms the 1980-02-16 sixteen-professor founding list (Chin-Chu Lin among them) — same fact as the ZH record already cited, no new detail.
 
 ## Family
 
