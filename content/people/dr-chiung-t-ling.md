@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Dr. Chiung T. Ling (林安息)
 
@@ -51,6 +51,7 @@ _Corpus re-grep 2026-09-24 (DEEPEN-X slice 09230700-24; prior 09221200-25; 2026-
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+<!-- deepen-x slice 10091531-25 (2026-10-10): re-verified — fresh ZH+EN+alias grep (林安息 / Chiung T. Ling / 炯東 / 春陽堂 / 林似蘭) across works/articles/sources/events/topics returns the identical closed hit set: ourjourneys285, whos-who-1852, work #22, index, sources — all already absorbed above. ourjourneys285's full <10 留歐美 roster (李晏/郭松根 法國; 王受祿/高敬遠/王通明 德國; 林安息/王振明 美國; 官派 杜聰明) confirms the page's 留美 framing; 林似蘭 returns no corpus hits. HOLD retained: work #22 1935 milestone vs 1952 Hopkins Ph.D., not merged. Verified-saturated. -->
 <!-- deepen-x slice 10051340-15 (2026-10-06): re-verified — fresh ZH+EN+alias grep (林安息 / Chiung T. Ling / 炯東 / 春陽堂 / 王振明) returns only ourjourneys285, whos-who-1852, work #22, index. The 春陽堂/王振明 hits resolve to whoswho1848 (James David King 王振明 — already the 留美 counterpart named in ourjourneys285) and the 1925 medical-professor work, both outside this page's claim set. HOLD retained: work #22 1935 milestone vs 1952 Hopkins Ph.D., not merged. Verified-saturated. -->
 <!-- deepen-x slice 10080700-25 (2026-10-09): re-verified — fresh ZH+EN+alias grep (林安息 / Chiung T. Ling / 炯東 / 春陽堂 / 王振明) across works/articles/sources/events/topics returns only ourjourneys285, whos-who-1852, work #22, work #38 (王振明/1925), whoswho1848, index, sources — all already accounted for above. ourjourneys285 narrative (1,888 總督府醫學校 physicians 1889–1945, <10 留歐美; 林安息 the 留美 figure alongside 王振明; 劉清風 1926 unable to settle) already absorbed. HOLD retained: work #22 1935 milestone vs 1952 Hopkins Ph.D., not merged. Verified-saturated. -->
 <!-- deepen-x slice 10070018-5 (2026-10-08): re-verified — fresh ZH+EN+alias grep (林安息 / Chiung T. Ling / 炯東 / 春陽堂 / 王振明) across works/articles/sources/events/topics returns only ourjourneys285, whos-who-1852, work #22, work #38 (王振明/1925), whoswho1848, index — all already accounted for. ourjourneys285 narrative (1,888 總督府醫學校 physicians, <10 留歐美; 林安息 as the 留美 figure alongside 王振明) already absorbed above. HOLD retained: work #22 1935 milestone vs 1952 Hopkins Ph.D., not merged. Verified-saturated. -->
