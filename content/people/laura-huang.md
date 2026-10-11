@@ -80,3 +80,5 @@ _Corpus re-grep 2026-09-27 (slice 09260700-12): SKIP — hit-set identical (TAH 
 _Corpus re-grep 2026-10-10 (slice 10090500-4): hit-set identical (TAH #767, works index, sources page, Project EMplify 同名異人 record under HOLD, both TJJ 李應元敬弔/辭世 records). SKIP — verified-saturated, nothing new absorbable._
 
 <!-- TJJ-A10090501-2: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-2 article efea1ad2 哲人日已遠：敬弔李應元博士（弔文主角李應元、牽手黃月桂致哀句、NATPA鄭麗伶會長署名皆確認見於正文）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10100501-30: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-30 article efea1ad2d8cb4d11 哲人日已遠：敬弔李應元博士（弔文主角李應元、牽手黃月桂致哀句、◎NATPA鄭麗伶會長暨全體理事署名皆確認見於正文）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
