@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Karen Chen (陳楷雯)
 
@@ -31,7 +31,7 @@ last_reviewed: 2026-10-09
 ## Role in the Community
 Track of her coverage in the TAH community archive:
 - **2015-01** — first TAH record as a junior figure-skating prospect ([[works/taiwaneseamericanhistory-org/whos-karen-chen|TAH #240]]).
-- **2017-01** — gold at the U.S. Figure Skating Championships at age 17 (Fremont, CA), celebrated in the community record ([[works/taiwaneseamericanhistory-org/2017-2|TAH #2]]) ([[works/taiwaneseamericanhistory-org/whoswho1486|TAH #1486]]).
+- **2017-01** — gold at the U.S. Figure Skating Championships at age 17 (Fremont, CA), celebrated in the community record ([[works/taiwaneseamericanhistory-org/2017-2|TAH #2]]) ([[works/taiwaneseamericanhistory-org/whoswho1486|TAH #1486]]) ([[works/taiwaneseamericanhistory-org/ff313|TAH #313]]).
 - **2017-11** — autobiography *Finding the Edge: My Life on the Ice* catalogued in the TAH publications record ([[works/taiwaneseamericanhistory-org/publications1204|TAH #1204]]).
 - **2022-02** — at the Beijing Winter Olympics she performed 梁祝 (The Butterfly Lovers) and helped the U.S. team take silver in the team event; the community record highlights the Taiwanese-identity reading of the program ([[works/taiwaneseamericanhistory-org/my-stories-823|TAH #823]]).
 - 2026-09-21 re-grep (deepen-x slice 09191400-8): corpus hits still confined to the already-linked records — no new absorbable facts.
@@ -49,6 +49,7 @@ Track of her coverage in the TAH community archive:
 - **2005** — began ice skating, per the Taiwan Zhiguang athlete profile that lists her as the youngest of the Taiwanese(-American) athletes featured (age 20, POB Fremont, CA) ([[works/taiwaneseamerican-org/taiwan-zhiguang-taiwanese-taiwanese-american-athletes-to-root-for|Taiwan Zhiguang athletes-to-root-for]]).
 - **2018-02** — placed 11th at the Pyeongchang Winter Olympics (same profile); by then also two bronze medals at the CS U.S. International Figure Skating Classic, and studying at Cornell University while aiming at the 2022 Beijing Games.
 - **2017** — gold-medal moment also preserved as a video record in the TAH corpus, with her page linked as subject ([[works/taiwaneseamericanhistory-org/videos50|TAH #50]]).
+- 2026-10-11 re-grep (slice 10100800-7): fresh ZH+EN grep across all 5 corpus dirs returned the same 13-file hit set as the 10-09 round; only new absorbable item was the TAH #313 encyclopedia record, now wikilinked on the 2017-01 line. No new narrative facts; existing HOLD kept, no dates merged.
 - 2026-10-09 re-grep (slice 10081018-29): fresh ZH+EN grep across all 5 corpus dirs returned 13 files; new vs prior rounds: videos50 (#50) and the Taiwan Zhiguang athlete feature (absorbed above). The taiwanjustice.net 翁啟惠連署 article's signer "Karen Chen <yichunchen@cox.net>" is 陳怡君 — a different Karen Chen, explicitly disambiguated in that record — not absorbable here. Existing HOLD kept, no dates merged.
 
 ## Family
