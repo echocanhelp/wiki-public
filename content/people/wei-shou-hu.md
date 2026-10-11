@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Wei-Shou Hu (胡維碩)
 
@@ -59,3 +59,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 10062334-12 recheck 2026-10-08: fresh grep 胡維碩/Wei-Shou Hu over works/articles/sources/events/topics — exact-name hits confined to ourjourneys123 (+ENG) + whoswho1509 + indexes, all already absorbed; surname-only 胡 co-occurrence probe (人工肝臟/Minnesota/明州) returns only ourjourneys58 Kansas roster 胡啓年 (different person). Verified saturated, SKIP-no-new-material. -->
 
 <!-- deepen-x slice 10080720-16 recheck 2026-10-09: fresh grep 胡維碩/Wei-Shou Hu/維碩 over works/articles/sources/events/topics — exact-name hit set identical (ourjourneys123 +ENG + whoswho1509 + indexes), all already absorbed in Role in the Community. Surname-only 胡 co-occurrence probe (人工肝臟/Minnesota/明州) adds one taiwanjustice-net 2020 BLM article — false positive: 雙城市 (Twin Cities) match, no 胡 surname or person reference. Verified saturated, SKIP-no-new-material. -->
+
+<!-- deepen-x slice 10092054-29 recheck 2026-10-10: fresh grep 胡維碩/Wei-Shou Hu/WeiShou/維碩 over works/articles/sources/events/topics — exact-name hit set identical (ourjourneys123 +ENG + whoswho1509 + indexes), all already absorbed. Surname-only 胡 co-occurrence probe (人工肝臟/Minnesota/明州) confirms both prior false positives: ourjourneys58 Kansas roster 胡啓年 (different person) and taiwanjustice-net 2020 BLM article (雙城市 match, no 胡 reference). Verified saturated, SKIP-no-new-material. -->
