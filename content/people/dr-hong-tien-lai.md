@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Hong Tien Lai (賴弘典醫師)
 
@@ -45,7 +45,11 @@ Absorbed from the on-page biography and tables (no external sources):
 - 2003-03-12 — installed as first 理事長 of the merged 大紐約區台灣老人聯合會 (Taiwanese Senior Citizen Center), which became the Taiwan Center Senior Center (TASC); chaired its management committee from late 2003 — [[works/taiwaneseamericanhistory-org/ourjourneys27|Our Journey #27]]
 - 2004–2018 — Coordinator, [[organizations/taiwanese-american-council-of-greater-new-york|大紐約區台灣人社團聯合會 (Taiwanese American Council of Greater New York)]].
 - 2015-02 — 台灣會館副理事長 for the UN for Taiwan / Keep Taiwan Free activity record — [[works/taiwaneseamericanhistory-org/photo-albums-activities-55|Photo Album #55 (2015)]]
-- 2015 — as Center vice chairman, proposed the purchase of a 9-foot Steinway D grand piano for the Taiwan Center, funded by the community and described by [[people/fang-yuh-rita-chen|陳芳玉 (Fang-Yuh Rita Chen)]] — [[works/taiwaneseamericanhistory-org/photo-albums-activities-55|Photo Album #55]]
+- 2015 — as Center vice chairman, proposed the purchase of a 9-foot Steinway D grand piano for the Taiwan Center, funded by the community and described by [[people/fang-yuh-rita-chen|陳芳玉 (Fang-Yuh Rita Chen)]] — [[works/taiwaneseamericanhistory-org/photo-albums-activities-55|Photo Album #55]] / [[works/taiwaneseamericanhistory-org/ourjourneys3|Our Journey #3]]
+- 2015 — authored the essay 漫談「台灣加入聯合國」運動, published in the OJ "Care for Taiwan by Taiwanese American" series — [[works/taiwaneseamericanhistory-org/ourjourneys104|Our Journey #104]]
+- 2021-01-02 — spoke at the online memorial for 洪哲勝 as 民進黨美東黨部主任委員 (DPP U.S. East Coast Party Committee chair) — [[articles/taiwanjustice-net/2022/20220228012423_2021_01_02_追思洪哲勝_王丹致詞_陳破空主持_眾多民運大_9206c320850ac026|TJJ: 追思洪哲勝]]
+- 2021-05-21 — as 大紐約區台灣人社團聯合會召集人, spoke at the WHO-participation online seminar hosted by 僑務委員莊振輝 (~50 community reps) — [[articles/taiwanjustice-net/2025/20251110223518_大紐約地區31個僑團挺台參與who_台灣駐紐約辦事處_4c312d1526674bdf|TJJ: 大紐約僑團挺台參與WHO]]
+- 2023-03-18 — as 前民進黨美東黨部主任委員, endorsed 賴清德's presidential campaign at the founding of the 紐約僑界海外後援會 ("只有民進黨繼續執政，才能繼續維持台灣民主") — [[articles/taiwanjustice-net/2023/20230322161425_2023_03_18_挺賴清德選總統-紐約僑界成立海外後援會_5233d52b6cfa8acb|TJJ: 挺賴清德海外後援會]]
 - Coordinator — Taiwanese American Conference / East Coast (美東台灣人夏令會); practiced as a dentist at a New York dental clinic.
 - Family: wife 林吟珍; son Jonathan.
 
@@ -64,7 +68,8 @@ Absorbed from the on-page biography and tables (no external sources):
 
 ## Connected in the Vault
 - Archival profiles: [[works/taiwaneseamericanhistory-org/2-dr-hong-tien-lai|TAH #2]] · [[works/taiwaneseamericanhistory-org/whos-who-1159-hong-tien-lai|TAH #1159]] · [[works/taiwaneseamericanhistory-org/168-dr-hong-tien-lai-e8-b3-b4-e5-bc-98-e5-85-b8-first-president-of-e5-8f-b0-e7-8|TAH #168 (1992, UN for Taiwan)]] · [[works/taiwaneseamericanhistory-org/6-presented-by-dr-hong-tien-lai-in-2015|TAH #6 (2015)]]
-- Community memoirs: [[works/taiwaneseamericanhistory-org/ourjourneys09|Our Journey #9 (建館委員會, 1983)]] · [[works/taiwaneseamericanhistory-org/ourjourneys27|Our Journey #27 (會館 memoires)]] · [[works/taiwaneseamericanhistory-org/ourjourneys27-eng|Our Journey #27 English]] · [[works/taiwaneseamericanhistory-org/photo-albums-activities-55|Photo Album #55 (2015 piano/UN for Taiwan)]]
+- Community memoirs: [[works/taiwaneseamericanhistory-org/ourjourneys09|Our Journey #9 (建館委員會, 1983)]] · [[works/taiwaneseamericanhistory-org/ourjourneys27|Our Journey #27 (會館 memoires)]] · [[works/taiwaneseamericanhistory-org/ourjourneys27-eng|Our Journey #27 English]] · [[works/taiwaneseamericanhistory-org/photo-albums-activities-55|Photo Album #55 (2015 piano/UN for Taiwan)]] · [[works/taiwaneseamericanhistory-org/ourjourneys3|Our Journey #3 (2015 piano memoir)]] · [[works/taiwaneseamericanhistory-org/ourjourneys104|Our Journey #104 (2015 UN-membership essay)]] · [[works/taiwaneseamericanhistory-org/ourjourneys316|Our Journey #316 (2003 老人聯合會 memoir)]]
+- Press records: [[articles/taiwanjustice-net/2022/20220228012423_2021_01_02_追思洪哲勝_王丹致詞_陳破空主持_眾多民運大_9206c320850ac026|TJJ 2021-01 洪哲勝追思]] · [[articles/taiwanjustice-net/2025/20251110223518_大紐約地區31個僑團挺台參與who_台灣駐紐約辦事處_4c312d1526674bdf|TJJ 2021-05 WHO研討會]] · [[articles/taiwanjustice-net/2023/20230322161425_2023_03_18_挺賴清德選總統-紐約僑界成立海外後援會_5233d52b6cfa8acb|TJJ 2023-03 賴清德後援會]]
 - Community hub: [[sources/taiwaneseamericanhistory-org-story-corpus|TAH story corpus hub]]
 
 ## Related Pages
@@ -86,3 +91,9 @@ Absorbed from the on-page biography and tables (no external sources):
 - HOLD: Employment table lists him as New York Taiwan Center "Chairman"; the 2015 memoir text says 副理事長 (vice chairman) and ourjourneys27 dates his senior-center 理事長 term to 2003. Likely different roles/periods, not auto-merged.
 - TAH #6 ("Presented by Dr. Hong Tien Lai / West Harrison, NY / 2015") is a bibliographic record with no additional biographical text.
 - Wikilinks added to existing slugs only; 大紐約區台灣老人聯合會/TASC has no standalone vault page — plain text per slice rules.
+
+## Deepen pass 2026-10-11 (corpus pass)
+- Fresh ZH+EN grep across all 5 corpus dirs returned 16 files; NEW unabsorbed material now in the Timeline: (1) 民進黨美東黨部主任委員 role — 2021-01 洪哲勝追思 and 2023-03 賴清德後援會 endorsement (TJJ press records, absent from the TAH tables); (2) 2015-02 essay 漫談「台灣加入聯合國」運動 in OJ #104; (3) 2021-05-21 WHO-participation webinar as 聯合會召集人.
+- Steinway piano proposal text also appears in [[works/taiwaneseamericanhistory-org/ourjourneys3|Our Journey #3]] (same record as Photo Album #55) — linked.
+- 2003 老人聯合會/TASC text also appears in [[works/taiwaneseamericanhistory-org/ourjourneys316|Our Journey #316]] (same memoir text as OJ #27) — no new facts, linked only.
+- No new conflicts this pass; prior 2026-10-10 HOLD (Chairman vs 副理事長) stands. Wikilinks to existing slugs only.
