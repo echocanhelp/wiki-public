@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Chiu-Shan Chen (陳秋山博士)
 
@@ -61,3 +61,4 @@ Accomplishment
 - 複核（deepen-x-slice-09230317-5, 2026-09-23）：re-grep（陳秋山／Chiu-Shan Chen，works+articles）命中集合不變（ourjourneys26/26-eng/337、our-journeys-385/386、my-stories-793、152 與 whos-who-290 本人記錄），全數已吸收並 wikilink；無新材料。SKIP-with-reason（飽和）。
 - 複核（deepen-x-slice-09231000-2, 2026-09-25）：re-grep（陳秋山／Chiu-Shan Chen，works+articles）命中集合再度不變（ourjourneys26/26-eng/337、our-journeys-385/386、my-stories-793、152、whos-who-290），全數已吸收並 wikilink。SKIP-with-reason（飽和，無新增社群材料）。
 - 複核（deepen-x-slice-10081100-15, 2026-10-10）：re-grep（陳秋山／Chiu-Shan Chen／太平洋生技）命中集合與前次大致相同，新增吸收兩點：(1) SDTA 協會組織頁記 1997 年他為「會長」主導台灣中心募款（與台美基金會董事長並列）；(2) 公司英文名三說（Pacific Biotech／Pacific Biotechnology／Pacific Biosciences）補入既有 HOLD，未定名。無其他新社群材料。
+- 複核（deepen-x-slice-10100800-16, 2026-10-11）：re-grep（陳秋山／Chiu-Shan Chen／太平洋生技／Pacific Bio）命中集合與前次相同（ourjourneys26/26-eng/337、our-journeys-385/386、my-stories-793、152、whos-who-290），全數已吸收並 wikilink；另以 surname-only「秋山」擴大比對，僅命中兩篇 taiwanjustice-net 文章，經查為日本老年學者秋山博子（Hiroko Akiyama），非本人，屬偽命中。無新增社群材料，頁面維持飽和。SKIP-with-reason（飽和）。
