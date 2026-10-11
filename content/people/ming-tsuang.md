@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Ming Tsuang (莊明哲教授)
 
@@ -124,3 +124,5 @@ last_reviewed: 2026-10-09
 <!-- TJJ-A10090601-4: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-4 article e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100501-2: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-2 article f06677a469620539 (卓甫良與TAF的故事, 楊遠薰, 2021-06-22 刊, 2021-12-05 快照): 莊明哲任TAF創會會長（1980年11月芝加哥理事會推選，1981–82主題溝通）re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10100700-23: verified 2026-10-11 — fresh ZH+EN+surname grep (莊明哲／Ming Tsuang／Ming T. Tsuang／Tsuang) across all 5 corpus dirs returned 17 files (TAH #16/#82/#14/#161/#398/#377/#384/#386/#33-eng/#81/#1924, TJJ TAF stories f06677a4／e7aad53f／b4206bcf／98a26ee3, index/sources) — hit set identical to material already absorbed in Role in the Community + From the record. TAF founding-president facts (1980 MFCF→TAF by-law, Iowa, 溝通 camps), UCSD Taiwan Studies Center 聯席主席, Harvard 台灣語文計畫, Chuan Lyu 講座, Snow 2022-10-10 — all present, no new material; both existing HOLDs (Snow↔柯惠香 無內證; 10-18 vs 11月 更名日) retained — saturated, no new material. -->
