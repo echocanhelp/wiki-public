@@ -11,7 +11,7 @@ tags:
   - story-corpus
 website: https://www.taiwaneseamerican.org/
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # TaiwaneseAmerican.org
 
@@ -37,7 +37,7 @@ In founder Ho Chie Tsai's own account ([[works/taiwaneseamericanhistory-org/myst
 - **Our Taiwanese American Story archive** — community story archive aligned with the site's stated value of "preserving and archiving an evolving history and legacy."
 - Platform support for artists, musicians, and actors in non-traditional career paths.
 
-The organization was profiled in the TAH.org Who's Who corpus circa 2015 as a community institution in its own right — see [[works/taiwaneseamericanhistory-org/12-taiwaneseamerican-org|TAH Who's Who entry 12]] and [[works/taiwaneseamericanhistory-org/4taiwaneseamerican-org|entry 4]] (duplicate numbering across corpus editions).
+The organization was profiled in the TAH.org Who's Who corpus circa 2015 as a community institution in its own right — see [[works/taiwaneseamericanhistory-org/12-taiwaneseamerican-org|TAH Who's Who entry 12]] and [[works/taiwaneseamericanhistory-org/4taiwaneseamerican-org|entry 4]] (duplicate numbering across corpus editions). In his own Who's Who profile [[works/taiwaneseamericanhistory-org/43-dr-ho-chie-tsai-e8-94-a1-e5-92-8c-e6-9d-b0-e9-86-ab-e5-b8-ab-the-founder-of-w|entry 43]], Ho Chie Tsai situates the site's founding within a longer personal arc: parents who immigrated in 1972 and were active in the Midwestern Taiwanese American community of the 1970s–80s; youth summer camp programs he helped run in the late 1980s–1990s (Midwest and East Coast); co-founding one of the first Taiwanese American student organizations at his university and networking them into the first intercollegiate networks and conferences. By the mid-2010s the site's Facebook page had passed 16,000 followers, doubling in three years.
 
 ## Mission
 
