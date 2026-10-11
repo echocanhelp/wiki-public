@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Bob In-Yu Yang (楊英育)
 
@@ -40,7 +40,7 @@ _No filled family fields on the TAH profile._
 - **FAPA 會長**: Listed among the nine FAPA chairmen served under by longtime FAPA HQ staffer Coen Blaauw (27 years at HQ), in 楊遠薰's profile of Blaauw — [[works/taiwaneseamericanhistory-org/ourjourneys228|228. 美國對台六項保證決議案的推手 — 昆布勞與FAPA的故事]]. A photo caption identifies him as 前FAPA總會長 楊英育教授 拜會堪薩斯州議員 Kevin Yoder.
 - **FAPA 會長 — public statements on Taiwan's UN participation**: As FAPA President he issued dated statements on two UN-related Congressional actions — welcoming Rep. Garrett's UN-for-Taiwan resolution introduced on the day the UN General Assembly opened ("the 23 million people of Taiwan are left out of the family of nations"; "Taiwan is ready, willing, able and eager to fully contribute"), in [[works/taiwaneseamerican-org/u-s-representatives-introduce-un-for-taiwan-resolution|U.S. Representatives Introduce UN for Taiwan Resolution]], and warning that WHA attendance "with permission from China" would become "a slippery slope for Taiwan" since "the Chinese leadership cannot be trusted," in [[works/taiwaneseamerican-org/u-s-representative-calls-for-full-membership-for-taiwan-in-international-organiz|U.S. Representative Calls for Full Membership for Taiwan in International Organizations]].
 - **台獨聯盟美國本部副主席**: Elected by the Central Committee on 1999-09-03 after 鄭智雄 resigned as vice-chairman of the 18th盟員代表大會 — [[works/taiwaneseamericanhistory-org/ourjourneys234|234. 台獨聯盟美國本部]].
-- **平原區台灣人秋令會 host**: Hosted the Plains Region Fall Camp at Metro Kansas City in 1986 and at Overland Park, Kansas in 1993 — [[works/taiwaneseamericanhistory-org/ourjourneys296|296. 平原區台灣人秋令會的介紹 / 童海南]] and [[works/taiwaneseamericanhistory-org/our-journeys-351|351. Brief note of The Plains Region Fall Camp / 張錫清]].
+- **平原區台灣人秋令會 host**: Hosted the Plains Region Fall Camp at Metro Kansas City in 1986 and at Overland Park, Kansas in 1993 — [[works/taiwaneseamericanhistory-org/ourjourneys296|296. 平原區台灣人秋令會的介紹 / 童海南]] and [[works/taiwaneseamericanhistory-org/our-journeys-351|351. Brief note of The Plains Region Fall Camp / 張錫清]]. The 1986 camp (Aug 29-31, Rock Spring, KS) carried the theme 人人愛人權，大家來努力 (Human Rights in Taiwan), convened under the Taiwanese Association of Greater Kansas City.
 - **TAH Who's Who record**: [[works/taiwaneseamericanhistory-org/660-bob-in-yu-yang-e6-a5-8a-e8-8b-b1-e8-82-b2-201510|660. Bob In-Yu Yang 楊英育 / 2015/10]].
 
 - **Corpus re-grep 2026-09-20** (slice 09190130-2): 楊英育 / In-Yu Yang across content/works + content/articles — hit set identical to records already linked above (#660 Who's Who record, OJ #228/#234/#296/#351); no new absorbable material.
@@ -62,3 +62,4 @@ Note: TAH bio lists NAPTKA Kansas Chapter president 1993-95, 2006-07; the commun
 - **Corpus re-grep 2026-09-25** (slice 09231100-1): 楊英育 / In-Yu Yang across works + articles — hit set identical to records already linked above (#660, OJ #228/#234/#296/#351); no new absorbable material. SKIP.
 - **Corpus re-grep 2026-09-26** (slice 09251417-1): 楊英育 / In-Yu Yang across works + articles — hit set identical to records already linked above (#660, OJ #228/#234/#296/#351); no new absorbable material. SKIP.
 - **Corpus re-grep 2026-10-10** (slice 10081500-2): 楊英育 / In-Yu Yang / surname across all 5 corpus dirs (works/articles/sources/events/topics) — hit set identical to records already linked above (#660, OJ #228/#234/#296/#351, plus index/sources directory listings); no new absorbable material. Verified-saturated. SKIP.
+- **Corpus re-grep 2026-10-11** (slice 10101100-31): 楊英育 / In-Yu Yang / Bob Yang across all 5 corpus dirs — same hit set (#660, OJ #228/#234/#296/#351, two taiwaneseamerican-org UN/WHA articles, sources index). One absorbable detail: OJ #296 lists the 1986 camp host entry with theme 人人愛人權，大家來努力 under Taiwanese Association of Greater Kansas City — absorbed into Role in the Community. No date conflicts.
