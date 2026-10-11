@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Rui Mu Lee (李瑞木)
 
@@ -59,3 +59,4 @@ last_reviewed: 2026-10-09
 - Corpus re-verified 2026-10-06 (deepen-x slice 10051200-27): fresh ZH+EN grep across works/ + articles/ + sources/ + events/ + topics/ returns the identical hit set (Our Journeys 123 chronicle pair, Who's Who #1564, index rows) — verified-saturated, nothing new absorbable.
 - Corpus re-verified 2026-10-08 (deepen-x slice 10062248-5): fresh ZH+EN grep across works/ + articles/ + sources/ + events/ + topics/ returns the identical hit set (Our Journeys 123 chronicle pair, Who's Who #1564, index rows) — verified-saturated, nothing new absorbable.
 - Corpus re-verified 2026-10-09 (deepen-x slice 10080720-10): fresh ZH+EN+alias grep (李瑞木 / Rui Mu Lee / 瑞木) across works/ + articles/ + sources/ + events/ + topics/ returns the identical hit set (Our Journeys 123 chronicle pair, Who's Who #1564, index rows) — verified-saturated, nothing new absorbable.
+- Corpus re-verified 2026-10-10 (deepen-x slice 10092054-25): fresh ZH+EN+alias grep (李瑞木 / Rui Mu Lee / 瑞木) across works/ + articles/ + sources/ + events/ + topics/ returns the identical hit set (Our Journeys 123 chronicle pair, Who's Who #1564, index rows) — verified-saturated, nothing new absorbable.
