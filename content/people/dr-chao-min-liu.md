@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Dr. Chao-Min Liu (劉兆民博士)
 
@@ -89,4 +89,11 @@ Fresh ZH+EN grep (劉兆民 / Chao-Min Liu / Chaomin Liu) across works/articles/
 - Paintings in the TAH footsteps story corpus: [[works/taiwaneseamericanhistory-org/footsteps-7|Summer Picnic (夏季野餐, 2000)]], [[works/taiwaneseamericanhistory-org/footsteps-8|Softball Game (壘球賽, 2000)]], [[works/taiwaneseamericanhistory-org/footsteps-10|Taiwanese American Summer Conference (TAC/EC 台美人美東夏令會, 2011)]] — movement-scene subjects, community record over press-kit bio.
 - His own essays/memoirs: [[works/taiwaneseamericanhistory-org/mystories568|藝術人生, 我的繪畫師友 (2017-08)]], [[works/taiwaneseamericanhistory-org/mystories495|繪畫隨筆 – 中央公園的女人 (2016-12)]], [[works/taiwaneseamericanhistory-org/mystories173|University of Wisconsin 的留學生活 (2015-01)]] — corroborates the 1963–1969 Wisconsin timeline entry, no date conflict — and [[works/taiwaneseamericanhistory-org/mystories637|到 Martha Vineyard 島見總統 Clinton]].
 - Exhibition record: [[works/taiwaneseamericanhistory-org/art-exhibitions-8|林保山、劉兆民雙個展 (2010-04)]] — two-person show with artist Lin Baoshan.
+No biography invented, no new pages created, nothing published.
+
+## Deepen pass 2026-10-11 (deepen-x slice 10100500-13, vault-only)
+Fresh ZH+EN grep (劉兆民 / Chao-Min Liu / Chaomin Liu) across works/articles/sources/events/topics surfaced 4 previously-unlinked in-vault records (all disk-verified before linking; no web used):
+- Art writings: [[works/taiwaneseamericanhistory-org/mystories13|習畫自述 (2014)]] and [[works/taiwaneseamericanhistory-org/mystories625|巴黎繪畫隨筆 (2018-02)]] — his own accounts of learning to paint and Paris sketch-notes, companion pieces to the existing mystories568/495 essays.
+- Press profile: [[works/taiwaneseamericanhistory-org/mystories667|Chao-Min Liu Complements Science with Artistry / Meredith Brennan (2018-12)]] — a third-party feature on the scientist-artist duality.
+- Wisconsin memoir twin: [[works/taiwaneseamericanhistory-org/ourjourneys205|掌握可疑綫索 – University of Wisconsin, Madison留學生活的回憶 (2016-03)]] — the Our Journeys publication of the same Wisconsin reminiscence already linked as mystories173 (2015-01); same content, two publication venues, no date conflict.
 No biography invented, no new pages created, nothing published.
