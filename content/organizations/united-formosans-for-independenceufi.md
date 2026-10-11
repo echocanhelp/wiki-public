@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # United Formosans for Independence UFI (台獨聯盟)
 
@@ -32,7 +32,11 @@ World United Formosans for Independence (WUFI) is a global advocacy organization
 - 公論報風暴：1985 年「四腳仔官司」求償 435 萬美元，辯護律師拉姆齊·克拉克（前美國司法部長）以「外國政府在美國國土干涉美國公民自由」得勝訴，台鄉掀起不屈支持（[[works/taiwaneseamericanhistory-org/ourjourneys156|Our Journeys 156]]）。美麗島事件後「公論報」與「美麗島週報」「亞洲商報」在南加州應運而生（[[works/taiwaneseamericanhistory-org/ourjourneys70|Our Journeys 70]]）。
 - 聯盟與其他人權／社區組織的關聯：1976 年張瑪久與紐約 UFI 成員等十餘人成立台灣人權委員會，經建議改名台灣人權促進會（FAHUR）（[[works/taiwaneseamericanhistory-org/ourjourneys75-eng|Our Journeys 75 (EN)]]）；WUFI 亦為「Team Taiwan」參加 Race for the Cure 的創隊社團之一（NATWA、TAA 等並列）（[[works/taiwaneseamericanhistory-org/ourjourneys6|Our Journeys 6]]）。
 - 聯盟名人在公開場合的發聲：1992 郭倍宏、1996 黃昭堂以 WUFI 名義演說（[[works/taiwaneseamericanhistory-org/ourjourneys123-eng|Our Journeys 123 (EN)]]）；莊承業因支持台灣獨立聯盟得罪國民黨，曾任 1976 同鄉會長、1978 全美會會長（[[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys 106]]）。
-- 《台灣公論報》籌備內幕（deepen 2026-09-14，absorb 自 [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys 49]]）：報社 1981-07-15 起運作、星期二／五出刊（星期一／四送印），社內四位記者；定名源自李萬居《公論報》，「公論」意在替台灣發聲；版面曾激辯直寫（被視為國民黨式）vs 橫寫、三日刊（被譏「做三天就沒了」），最終拍板橫寫小版面以便攜帶。1982-02-13  RADIO 董事會（本頁上載）另記：1982-01-27 去函 Joshua Yapp 將「國民外交」列入議程（其主張最力）；RADIO 計畫因島內反國民黨雜誌已興盛、且國民黨必干擾廣播而暫置，會後轉向籌組專責國民外交之組織（即 FAPA 前聲）（[[works/taiwaneseamericanhistory-org/ourjourneys65-eng|Our Journeys 65 (EN)]]）。
+- 《台灣公論報》籌備內幕（deepen 2026-09-14，absorb 自 [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys 49]]）：報社 1981-07-15 起運作、星期二／五出刊（星期一／四送印），社內四位記者；定名源自李萬居《公論報》，「公論」意在替台灣發聲；版面曾激辯直寫（被視為國民黨式）vs 橫寫、三日刊（被譏「做三天就沒了」），最終拍板橫寫小版面以便攜帶。1982-02-13 RADIO 董事會（本頁上載）另記：1982-01-27 去函 Joshua Yapp 將「國民外交」列入議程（其主張最力）；RADIO 計畫因島內反國民黨雜誌已興盛、且國民黨必干擾廣播而暫置，會後轉向籌組專責國民外交之組織（即 FAPA 前聲）（[[works/taiwaneseamericanhistory-org/ourjourneys65-eng|Our Journeys 65 (EN)]]）。
+- 更早前身與更早主席（deepen 2026-10-11）：1958-01-01 費城成立「台灣獨立建國聯盟」（United Formosans for Independence），首任主席盧主義——見 TAH #200 [[works/taiwaneseamericanhistory-org/200-e5-8f-b0-e7-81-a3-e7-8d-a8-e7-ab-8b-e5-bb-ba-e5-9c-8b-e8-81-af-e7-9b-9funite|TAH #200]] 與 TAH #201 [[works/taiwaneseamericanhistory-org/201-e7-9b-a7-e4-b8-bb-e7-be-a9-the-first-president-of-united-formosans-for-indep|TAH #201]]；1966-06 費城「全美台灣獨立聯盟」（UFAI）首年會址與組織——見 TAH #202 [[works/taiwaneseamericanhistory-org/202-e5-85-a8-e7-be-8e-e5-8f-b0-e7-81-a3-e7-8d-a8-e7-ab-8b-e8-81-af-e7-9b-9funite|TAH #202]]，首任主席陳以德另見 TAH #203 [[works/taiwaneseamericanhistory-org/203-e9-99-b3-e4-bb-a5-e5-be-b7-the-first-president-of-united-formosans-in-americ|TAH #203]]（與本頁上載 OJ 81 口述互為印證）。聯盟史專文見 TAH #31 [[works/taiwaneseamericanhistory-org/ufi-united-formosans-for-independence|TAH #31 UFI]] 與 TAH #38 [[works/taiwaneseamericanhistory-org/history-of-united-formosans-in-american-for-independence|TAH #38 UFAI 史]]；聯盟刊物《ILHA FOFMOSA》見 [[works/taiwaneseamericanhistory-org/ilha-fofmosa-by-united-formosans-for-independence|ILHA FOFMOSA]]。
+- 遷台里程碑：1991-10-20 UFI 台獨聯盟將主要運作自美國成功遷至台灣、設置台灣總部——見 TAH 里程碑 #38 [[works/taiwaneseamericanhistory-org/milestones38|TAH 里程碑 38]]（與 1987 更名案分屬兩事：更名在前、總部遷設在後；上載 OJ 280 之 1990s「遷台餐會」敘事與此時間線相容）。
+- 洪哲勝辭世：2020-12-19 民主亞洲基金會會長、曾任台獨聯盟美國本部副主席之洪哲勝（本頁上載《台灣公論報》社長）於紐約辭世，享壽 81；獨盟舉辦追思會，國史館館長陳儀深、前台南市長張燦鍙等故友與會——見 [[articles/taiwanjustice-net/2022/20220228033245_2020_12_26_民主亞洲基金會會長洪哲勝辭世_獨盟辦追思會_44c486d870e08028|中央社報導存檔]]。
+- 史料保存：2021 年台獨聯盟史料 36 箱捐贈國立台灣歷史博物館並將數位化保存——見 [[articles/taiwanjustice-net/2021/20211025194333_tag_36箱台獨聯盟史料捐贈台史博_e162da3a35fcfbea|台史博捐贈報導存檔]]。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/united-formosans-for-independenceufi/)
