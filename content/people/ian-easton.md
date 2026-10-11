@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Ian Easton (易思安)
 
@@ -18,7 +18,7 @@ Echopedia lists this writer as a **voice in that archive** — work Taiwanese Am
 
 - **English:** Ian Easton
 - **Chinese:** 易思安
-- **Role:** Commentator (columns in the taiwanjustice.net archive)
+- **Role:** 2049 項目研究所（Project 2049 Institute）資深研究員、作者；以專欄與受訪形式發表於 taiwanjustice.net 存檔
 - **How we list this writer:** Ally / contributor in a Taiwanese American media archive
 - **Source:** taiwanjustice.net column category
 - **Articles:** 3
@@ -111,6 +111,8 @@ See the source hub. Top mentions:
 - 2021-11-24 — 《外交政策》報導引述 2049 項目研究所資深研究員易思安：戰略模糊政策未能阻擋朝鮮入侵韓國、北越入侵南越、薩達姆入侵科威特，「也阻擋不了北京入侵台灣」；主張美國對台政策「越透明越好」（[[articles/taiwanjustice-net/2021/20211207112605_2021_11_24_因應台海軍力失衡_拜登總統任內美軍在台人數翻_67e078eb4f93989c|TJJ/VOA, 2021-11-24]]）。
 - 2026-01-23 — 金融時報報導（TJJ 轉載「中國威脅台灣：被世界忽視的危險」）：《中國侵略威脅》作者、2049 計畫研究所研究人員易思安認為「中國可能對台灣開戰，世界低估了這一爆發點的嚴重性」——此條此前未收錄於本页（[[articles/taiwanjustice-net/2026/20260123224246_中國威脅台灣_被世界忽視的危險_13dce34eeff7c30a|TJJ/FT, 2026-01-23]]）。
 - 2026-01-25 — 金融時報報導（TJJ 轉載）：《中共攻台大解密》作者易思安談台灣後備軍力：「這些年輕人是一股可以力挽狂瀾的潛在力量。萬一遭到入侵，後備軍人是他們最大的希望之一」；現行教召訓練程度「不足以應對挑戰」（[[articles/taiwanjustice-net/2026/20260125121238_金融時報_中國軍事施壓_台灣宜強化後備軍力_615fbbe836970647|TJJ/FT, 2026-01-25]]）。
+- 2021-08-13 — VOA 專訪（TJJ 轉載）：易思安（時為 2049 項目研究所資深研究員）發表研究報告《Hostile Harbors: Taiwan's Ports and PLA Invasion Plans》（敵對的港口：台灣的港口與解放軍入侵計劃），援引解放軍公開研究指其多年謀劃奪取台灣港口、需動員一百餘萬至二百餘萬兵力，建議關閉中國航運代表處、更換中國製造的智能港口吊車、加強港口防衛並為最壞情況做準備；新華社與《環球時報》轉發攻擊該報告並進行人身攻擊，易思安以推特回應「我感受到極大的恭維。新華是中國共產黨喉舌。」（[[articles/taiwanjustice-net/2021/20210814031813_2021_08_13_voa專訪易思安_北京對台威脅正迫使美國準備應付_68fa54960aa8dae5|TJJ/VOA 專訪, 2021-08-13]]）。
+- 2022-07-31 — 自由時報專欄（TJJ 轉載，孫宇青譯）：論「台灣為何在美中理念之爭中舉足輕重」，主張美國應考慮派駐特種作戰部隊與陸戰隊在台執行訓練任務作為「戰略絆索」（trip-wire），以及美艦停台、美台聯合巡邏台海等選項；文末作者介紹為 2049 計畫室資深主任、《中共攻台大解密》與《最後的鬥爭：中國全球戰略大揭密》（The Final Struggle, Eastbridge Books, 2022）作者（[[articles/taiwanjustice-net/2025/20251016095015_台灣為何在美中理念之爭中舉足輕重_易思安_7a16cbddd9de7832|TJJ/自由時報, 2022-07-31]]）。
 
 ## Related Pages
 
