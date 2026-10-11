@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Charles Chiang (江昭儀)
 
@@ -76,3 +76,5 @@ _Corpus re-scan 2026-09-22: fresh grep works/articles returns the same hits (#66
 <!-- TJJ-A10070800-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-1 article e3440fec3eed8107 (籌謀台灣「不流血革命」的獻策高手原來是他 ◎ 陳昭南, TJJ 2022-05-09): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090701-1: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-1 article e3440fec3eed8107 (籌謀台灣「不流血革命」的獻策高手原來是他 ◎ 陳昭南, TJJ 2022-05-09): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10100500-21: re-grepped 2026-10-11 — fresh ZH+EN grep (江昭儀／Charles Chiang／昭儀) across works/articles/sources/events/topics returns the identical saturated hit set (#66 回台團領隊名單, #186/eng TACL顧問名單, #253 1990人口普查19人工作委員會, #261 麥克道格拉斯interventions, #212/#240 生活座談會, #123-eng TAA-MN社長名冊, whos-who-2217, TJJ e3440fec); one false positive — 2026-01-12 立委當選名單 article hits 「李昭儀」 (台灣革命黨 candidate, a different person, correctly NOT linked). All dated facts with wikilinks already in Role in the Community / From the record — no new material. -->
