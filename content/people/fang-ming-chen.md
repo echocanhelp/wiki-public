@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Fang-Ming Chen (陳芳明博士)
 
@@ -44,6 +44,7 @@ Author of numerous publications on Taiwanese history and literature, including w
 - **228 Incident Academic Symposium convener** — convened the 228學術討論會 organized by the Taiwanese Alliance for Interculture (台灣協志會, TAI), with the papers presented Feb 28 at Syntek Hall Center, Palo Alto, alongside scholars 彭明敏、林宗義、林宗光、張旭成、蕭欽義、簡烟仁、謝善元、林衡哲、張富美 — a landmark in breaking the 228 taboo through overseas scholarship ([[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys 37, 台灣協志會]], English counterpart [[works/taiwaneseamericanhistory-org/ourjourneys37-eng|Our Journeys 37 (EN)]]).
 - **Summer-conference voice of the movement generation** — keynote speaker (主題演講) at the 7th 美東南區台灣人夏令會 in 1985, the largest international-student gathering in twenty years that helped give birth to 全美台灣同學會 ([[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys 245, 美東南夏令會簡史]]); also among the 陳芳明、林衡哲、謝里法、黃美惠 visitors at the culture-heavy 1985 seminar recalled in [[works/taiwaneseamericanhistory-org/our-journeys-379|Our Journeys 379, 十年東南夏令憶感]].
 - **Featured at overseas cultural events** — headliner alongside 陳永興、謝里法、呂秀蓮 at the first 《台灣文化之夜》 in Los Angeles, May 1986, which drew 500+ and seeded 太平洋時報 ([[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys 301, 南加州台灣人聯合基金會]]); invited to the 鄉情座談會 with 張富美、艾琳達 at the 1994 北加州台灣同鄉會聯合會 ([[works/taiwaneseamericanhistory-org/ourjourneys142|Our Journeys 142]]).
+- **Public-education lecturer on 台灣新文學史 / 台灣政治運動史** — the taiwanjustice-net archive preserves listings for his recurring 民視台灣學堂 lecture series: 《台灣新文學史》 episodes 2017–2019 (e.g. 20171130 「人文精神發揚：靜態知識思維轉為具體國家關懷」, 20181115 「台灣新文學先行者賴和」, 20190627 「國際局勢變化影響台灣70年代文壇風景」) and 《台灣政治運動史》 20180823 「翁澤生假第三國際之名 跨海指導台共方針」 ([[articles/taiwanjustice-net/2017/20171204045719_category_videos_民視台灣學堂_4b4cf349f41aed9f|民視台灣學堂 20171130]], [[articles/taiwanjustice-net/2023/20230607051221_tag_國際局勢_32aed99f599ce875|20190627 listing]]); the 10th anniversary of 《台灣新文學史》 (2020) is quoted with his line 「文學讓人和解」 ([[articles/taiwanjustice-net/2023/20230930234205_category_taiwan-news_03096fa670cef518|taiwan-news listing]]).
 
 ## Family
 
@@ -60,3 +61,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09220500-3 re-verify 2026-09-22: fresh grep — identical hit set re-read (台灣文化 editorship, 1992 Midwest conference volume, work 461, TAH 190); all absorbed; no new facts -->
 <!-- deepen-x slice 09221300-3 re-verify 2026-09-23: fresh grep — identical hit set (ourjourneys8/76/123-eng, ourjourneys76, 461, whoswho190); all absorbed; no new facts -->
 <!-- deepen-x slice 10081100-8 2026-10-09: fresh ZH+EN grep across 5 corpus dirs — new material absorbed: 協志會 (TAI) 228學術討論會 convener role (ourjourneys37/-eng); other hits (ourjourneys8/106/142/238/245/301/379, works 397-401/461, whoswho190, index) already absorbed; ourjourneys58 hit is 林芳明 (different person, not linked) -->
+<!-- deepen-x slice 10100800-20 2026-10-11: fresh ZH+EN grep across 5 corpus dirs — all 23 works/ hits already absorbed in prior passes; NEW material absorbed from articles/taiwanjustice-net: 民視台灣學堂 《台灣新文學史》/《台灣政治運動史》 lecture-series listings 2017–2019 + 「文學讓人和解」 10th-anniversary quote (2020) -->
