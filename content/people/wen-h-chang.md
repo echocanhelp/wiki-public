@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Wen. H. Chang (張文旭)
 
@@ -62,3 +62,5 @@ Corpus re-grep 2026-10-06 (slice 10051200-24): fresh grep 張文旭/Wen. H. Chan
 <!-- Corpus re-grep 2026-10-08 (slice 10062248-3): fresh ZH+EN grep 張文旭/Wen. H. Chang across works/articles/sources/events/topics returns only ourjourneys43 + own TAH #1643 record + indexes — all already absorbed. Verified saturated; SKIP-content. -->
 
 Corpus re-grep 2026-10-09 (slice 10080720-1): fresh grep 張文旭/Wen. H. Chang/文旭 across works/articles/sources/events/topics returns the identical set — ourjourneys43 (聖恩長老教會 committee record, already absorbed + wikilinked), ourjourneys58 (bare 文旭 = 黃文旭, unrelated), own TAH #1643 record, indexes. Verified saturated; SKIP-content, no new absorbable material.
+
+Corpus re-grep 2026-10-10 (slice 10092054-12): fresh ZH+EN grep 張文旭/Wen. H. Chang/文旭 across works/articles/sources/events/topics returns the identical hit set — ourjourneys43 (新教會發展委員會 1999 member, whole-family commitment, already absorbed + wikilinked), ourjourneys58 (bare 文旭 = 黃文旭 Virginia, unrelated), own TAH #1643 record, works index, sources index. Verified saturated; SKIP-content, no new absorbable material.
