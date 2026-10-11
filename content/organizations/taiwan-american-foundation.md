@@ -7,7 +7,7 @@ tags:
   - philanthropy
   - awards
 verification_status: published
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 
 ---
 # Taiwanese American Foundation (TAF)
@@ -42,6 +42,10 @@ HOLD: corpus records titled "台美協進會" — [[works/taiwaneseamericanhisto
 - The foundation's own publications are held in the corpus: [[works/taiwaneseamericanhistory-org/573-taiwanese-american-foundation-2005-2006tafmagazines-e9-9b-9c-e8-aa-8c|573. Taiwanese American Foundation 2005-2006 / TAF Magazines 雜誌]] and an earlier [[works/taiwaneseamericanhistory-org/785-e5-8f-b0-e7-be-8e-e5-9f-ba-e9-87-91-e6-9c-831995-e9-a0-92-e7-8d-8e-e7-89-b9-|785. 台美基金會1995頒獎特刊 / 1995/11]] — the foundation's own 1995 awards special issue, evidence the award ceremony ran continuously into the mid-1990s.
 - 王桂榮's wider movement record appears in the corpus as [[works/taiwaneseamericanhistory-org/344-e7-ac-ac-e4-ba-8c-e4-bb-bb-e6-9c-83-e9-95-b7-e7-8e-8b-e6-a1-82-e6-a6-ae-e5-b|344. 第二任會長王桂榮 將公會會務發揚光大 / 2015/10]] (bibliographic record; which 公會 is unreconciled).
 - Tsai Trong-rong's memoir records the founder of this foundation at the 1982 Los Angeles meeting that produced FAPA: [[people/wang-gui-rong|Kenjohn Wang (王桂榮)]], then President of the Chamber of Commerce, served as treasurer ("responsible for finances") on FAPA's founding executive committee alongside [[people/peng-ming-min|Ming Min Peng]] (honorary president), [[people/dr-tan-sun-mark-chen|Mark Chen]] (WFTA president, vice-president) and [[people/dr-tu-chen|Tu Chen]] (TAA president, organizing) — [[works/taiwaneseamericanhistory-org/ourjourneys65-eng|Our Journeys 65 (EN): The Birth of FAPA by Tsai Trong-rong]]. This places the TAF founder's community standing in the diplomatic-organization generation of 1982, before the foundation's own founding that same year.
+- The foundation's publication record now extends back to its first decade: [[works/taiwaneseamericanhistory-org/publications784|784. 台美基金會1986季刊 / 1986/06]] — a quarterly issue from 1986, evidence the foundation was already publishing within four years of its 1982 founding (earlier than the 1995/2005–2006 issues recorded above).
+- [[works/taiwaneseamericanhistory-org/winners20|20. 王桂榮台美文教基金會得獎人名單]] (2016-04-22) preserves the laureate list of the founder's foundation. HOLD: the record's title renders the name as 台美文教基金會 rather than 台美基金會; same Wang Gui-rong foundation, naming variant unreconciled.
+- The founder's own life record in the corpus: [[works/taiwaneseamericanhistory-org/3-e4-b8-80-e4-bd-8d-e5-8f-b0-e7-be-8e-e4-ba-ba-e7-9a-84-e5-a5-ae-e9-ac-a5-e5-82-|3. 一位台美人的奮鬥傳奇 / 王桂榮 / 2005/10 (傳記)]] (biography) and [[works/taiwaneseamericanhistory-org/mystories449|449. 追憶一個台美人的奮鬥傳奇～王桂榮 / 民報編輯部 / 2016/07]] (retrospective, 2016-07-19) — both bibliographic records; they document how the foundation founder's story is told back to the community.
+- The founder's cooperative-era community work predates TAF: a credit-union memoir records 王桂榮 joining the board at the 1979-02-10 annual meeting and taking over as 社長 in late 1979, holding meetings at his Holiday Inn in Montebello ([[works/taiwaneseamericanhistory-org/ourjourneys244|Our Journeys 244]]) — the business-and-community standing that fed into the 1982 founding year.
 
 ## From the record
 
