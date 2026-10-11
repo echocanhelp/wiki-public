@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Andrew Y. Lee (李友義博士)
 
@@ -44,7 +44,7 @@ last_reviewed: 2026-10-10
 
 ## Role in the Community
 Corpus memoirs document Lee as a pillar of the Northern California Taiwanese grassroots movement:
-- **北加州台灣同鄉聯合會會長** — listed among the brave post-threat presidents who took the chair knowing it meant the KMT blacklist, after the Chen Wen-chen and Liu Kong-biao (江南) assassinations: [[works/taiwaneseamericanhistory-org/ourjourneys38|38. 北加州台灣同鄉聯合會三十年回顧/石清正]] and [[works/taiwaneseamericanhistory-org/ourjourneys106|106. 中華民國的黑名單/何文亮、莊峻華]].
+- **北加州台灣同鄉聯合會會長** — listed among the brave post-threat presidents who took the chair knowing it meant the KMT blacklist, after the Chen Wen-chen and Liu Kong-biao (江南) assassinations: [[works/taiwaneseamericanhistory-org/ourjourneys38|38. 北加州台灣同鄉聯合會三十年回顧/石清正]] and [[works/taiwaneseamericanhistory-org/ourjourneys106|106. 中華民國的黑名單/何文亮、莊峻華]]. The English edition of the 協志會/TAI memoir lists him in the full roll-call of TAFNC (北加州台灣同鄉聯合會) presidents alongside the movement's other cross-association leaders: [[works/taiwaneseamericanhistory-org/ourjourneys37-eng|ourjourneys37-eng]].
 - **台灣人協志會會長** — in the succession of 協志會 presidents (黑名單 figures) who promoted Taiwanese culture and trained the second generation: [[works/taiwaneseamericanhistory-org/ourjourneys37|37. 台灣協志會成立與大事記/紀哲嘉]]; also named as a 聯合會-alumni leader in [[works/taiwaneseamericanhistory-org/ourjourneys37|同鄉運動 leadership roll-call]].
 - **灣區人權會負責人** — died in a traffic accident in Brazil in 2000 while attending the World Taiwanese Congress (世臺會); his death drove 灣區人權會 into suspension and most of its records were lost: [[works/taiwaneseamericanhistory-org/our-journeys-357|357. 舊金山灣區臺灣人的社團活動與家國意識之形成/何義麟]] (fn. 39). Mourned on-scene at the 世臺會 memorial: [[works/taiwaneseamericanhistory-org/ourjourneys249|249. 歡樂中的傷痛-記世台會/許永華]].
 - **華府/巴城台灣同鄉會早期會長 (1975)** — the TAA Greater Washington chapter's own founding memoir (陳淮崇, 40th-anniversary history) lists him in the presidents' roll for **1975**, placing him among the first-generation organisers who built the DC/Baltimore chapter out of the 1966 Baltimore 新年聚會 lineage: [[works/taiwaneseamericanhistory-org/ourjourneys-138|138. 華府與巴城TAA的誕生/陳淮崇]].
@@ -66,3 +66,4 @@ _Corpus re-scan 2026-09-26 (slice 09260317-23): fresh grep (李友義／Andrew L
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-27 (DEEPEN-X slice 09260700-5): fresh ZH+EN grep (works+articles) returns the identical hit set already absorbed above; SKIP-with-reason: verified saturated, no new absorbable material, existing HOLDs unchanged.
+- Corpus re-grep 2026-10-11 (DEEPEN-X slice 10100849-23): full 5-dir grep (李友義／Andrew Lee) returns the known hit set plus one unabsorbed item — ourjourneys37-eng (English edition of the 協志會/TAI memoir), whose TAFNC presidents' roll-call now linked above. All other hits already on-page; HOLD (Northrop-through-2001 vs death-2000) unchanged.
