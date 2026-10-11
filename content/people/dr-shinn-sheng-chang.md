@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Dr. Shinn-Sheng Chang (張信行醫師)
 
@@ -44,6 +44,7 @@ Dr. Shinn-Sheng Chang 張信行醫師 – History of Taiwanese American (T.A. Ar
 - His TAH encyclopedia records are preserved at [[works/taiwaneseamericanhistory-org/199-dr-shinn-sheng-chang|TAH #199]] and [[works/taiwaneseamericanhistory-org/whos-who-893-shinn-sheng-chang|TAH #893]].
 - **HOLD: Preparation Committee convener.** The association's own history ([[works/taiwaneseamericanhistory-org/ourjourneys38|38]]) names 張信行 as the Feb 16, 2003 Preparation Committee's 召集人, while his wife's memoirs ([[works/taiwaneseamericanhistory-org/ourjourneys24-eng|24]] / [[works/taiwaneseamericanhistory-org/ourjourneys53|53]]) present the founding as her-led with him among the organizers and credit the stage announcement to her. Kept both attributions side by side; not auto-merged.
 - Corpus re-check (2026-10-09, deepen-x slice 10081018-9): fresh grep (張信行／Shinn-Sheng) across all five corpus dirs — one false positive (ourjourneys76, 書信行之) and three records not previously linked: [[works/taiwaneseamericanhistory-org/ourjourneys38|38. 北加州台灣同鄉聯合會會史]] (20th-president term, 1992 台灣文化之夜; and the 2003 Spring Festival fundraising, where president 張祿生's drive raised US$30,000 and the Feb 16 Preparation Committee named Dr. Chang as **召集人 (convener)** with 陳光博 as 總幹事 — absorbed above), [[works/taiwaneseamericanhistory-org/ourjourneys37-eng|37 (EN)]] (his name in the former-presidents and 全美會美西理事長 lists — absorbed above), and [[works/taiwaneseamericanhistory-org/mystories21|21. 張信行、黃美星 台灣會館主要推手 / 楊寧茵 2014-09]] — a published feature naming the couple as the Taiwan House's principal movers (bibliographic record only in the corpus). One detail newly absorbed: the launch was timed to the North American Taiwanese Association's 30th anniversary celebration, where — on the advice of Federation President Davis Chang (rent first, fundraise US$30,000 for two years) — May-Sing Chang announced from the stage that the Center would open within three months, after she secured pledges of US$2,500 each from more than ten community members; the first Fremont site was Dr. Ye-Ming Wu's donated 3,000 sq ft clinic floor, leased from April 2003.
+- Corpus re-check (2026-10-11, deepen-x slice 10100700-14): fresh grep (張信行／Shinn-Sheng／Chang) across all five corpus dirs — hit set (14 files) identical to the 2026-10-09 pass, all already linked above. One new detail absorbed from the English edition of the association history ([[works/taiwaneseamericanhistory-org/ourjourneys38-eng|38 (EN)]]): the Feb 16, 2003 Preparation Committee divided its work — Kuang-po Chen as Secretary General, with May-Sing Chang, Shu-chen Kao and Yeh-chin (Te-hui Chen's wife) each taking charge of administration, programs, and finances respectively; the Center began hosting events on May 1, 2003 and soon held more than 40 events a month.
 
 ## Sources
 - [TAH #199 encyclopedia: 199. Dr. Shinn-Sheng Chang 張信行醫師](https://taiwaneseamericanhistory.org/199-dr-shinn-sheng-chang/)
