@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Kelvin Yu (游朝敏)
 
@@ -54,6 +54,7 @@ _No filled family fields on the TAH profile._
 - 覆核（TJJ-A09230400-5, 2026-09-24）：slice 文章 040657477c37c6cf 正文再驗證——其兄游朝凱獲獎報導對游朝敏之提及為真實，對應條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 - 複核（TJJ-A09171100-1, 2026-09-24）：subject link 對照 slice 文章 9c6973783db0011a 正文再驗證——游朝敏（Kelvin Yu）獲艾美獎最佳動畫獎之記述確認見於正文，連結為真；2024-07-06 條目已在庫 — SKIP，無新材料。
 
+- 2021-02-11 — TaiwaneseAmerican.org announces the inaugural Betty L. Yu and Jin C. Yu Creative Writing Prizes, co-founded by brother Charles Yu to honor the family's community service (TACL LID Youth Camp in SoCal, co-founding the South Bay Taiwanese-American School, NATEA-SC, support for FAPA/NATWA/TAA); the announcement record names the family service legacy behind the prize Kelvin's own career-path story references ([[articles/taiwanjustice-net/2026/20260211084131_全國圖書獎得主游朝凱charles-yu為台美人青年創意作家_5b6cede86851b2ba|TJJ, 2021-02-14]]).
 - 2024-07-06 — Father 游銘泉 recalls in a TJJ/CNA interview that his first-ever interview was prompted by Kelvin winning the Emmy for best animation; both brothers chose creative careers against immigrant-parent expectations ([[articles/taiwanjustice-net/2024/20240715085116_root_9c6973783db0011a|TJJ/CNA, 2024-07-06]]).
 - 2020-11-19 — TJJ 報導其兄游朝凱（Charles Yu）獲美國國家圖書獎最佳小說獎，文中記錄游朝敏為演員兼電視劇作家、所製作的《開心漢堡店》獲美國電視艾美獎最佳動畫節目獎項（[[articles/taiwanjustice-net/2020/20201205142348_2020_11_19_台美人之光-游朝凱_charles-yu_榮獲美國最高榮譽的國_040657477c37c6cf|TJJ, 2020-11-19]]）。
 
