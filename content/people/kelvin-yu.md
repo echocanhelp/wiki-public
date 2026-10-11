@@ -80,3 +80,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090401-4: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-4 article 9c6973783db0011a (中央社記者黃淑芳游朝凱游銘泉專訪, 2024-07-06): subject link re-checked vs 正文 this attempt (游朝敏獲艾美獎最佳動畫之記述), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100401-4: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-4 article 9c6973783db0011a (中央社記者黃淑芳游朝凱游銘泉專訪, 2024-07-06 刊 / 2024-07-15 快照) read fresh this attempt: subject link re-checked vs 正文 (游朝敏獲艾美獎最佳動畫、父親首次受訪即因此獎之記述確認見於正文), real, no wrong/spurious links; 2024-07-06 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10100801-10: verified 2026-10-11 — wave-2 link+deepen slice 10100801-10 article 040657477c37c6cf (台美人之光 游朝凱榮獲美國國家圖書獎, 2020-11-19 刊 / 2020-12-05 快照) read fresh this attempt: subject link re-checked vs 正文 (弟游朝敏、演員兼電視劇作家、《開心漢堡店》獲艾美獎最佳動畫節目 — 確認見於正文), real, no wrong/spurious links; 2020-11-19 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
