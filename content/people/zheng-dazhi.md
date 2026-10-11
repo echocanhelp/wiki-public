@@ -8,7 +8,7 @@ tags:
   - artist
   - sculptor
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Zheng Dazhi (鄭達志)
 
@@ -58,6 +58,9 @@ Zheng was not a member of the Geneva Presbyterian Church congregation in Laguna 
 
 - 2022-05 — 告別式備極哀榮，My Stories #839 以「超級英雄」報導其喪禮（[[works/taiwaneseamericanhistory-org/my-stories-839|My Stories #839, 05/2022]]）；同月 #836 記其於槍擊案中擋彈犧牲、「視病猶親」備受推崇（[[works/taiwaneseamericanhistory-org/my-stories-836|My Stories #836, 05/2022]]）。
 - 2024-09 — 與 [[people/zhang-xuanxin|張宣信牧師 (Billy Chang)]] 同獲 **Carnegie Hero Fund Commission** 表彰（[[works/taiwaneseamericanhistory-org/910-carnegie-hero-fund-commission-john-cheng-and-billy-chang-09-2024|Work #910, 09/2024]]）。
+- 2022-05-18 / 2022-06-23 — 聯邦眾議員朴銀珠於眾院發表講話悼念其英勇對抗槍手而犧牲，並提出法案**追授國會金質獎章**表彰捨身抵擋槍手的鄭達志醫師（[[articles/taiwanjustice-net/2022/20220701171250_2022_05_18_眾議員朴銀珠在眾院發表講話_悼念英勇對抗槍手_59fff26bdea1774d|TJJ, 2022-05-18]]；[[articles/taiwanjustice-net/2022/20220627130649_2022_06_23_眾議員朴銀珠提出法案_追授國會金質獎章表彰捨_12580163fa82c7ef|TJJ, 2022-06-23]]；2025-08 法案再提報導 [[articles/taiwanjustice-net/2025/20250808110534_眾議員朴銀珠提出法案_追授國會金質獎章表彰捨_a0cd1bdfcf3e02b9|TJJ, 2025-08-08]]）。
+- 2023-03-20 — [[people/zhang-xuanxin|張宣信牧師]]為槍擊案編製**中英文紀念冊**，送台灣、台南、玉山神學院、台灣教授協會、總會歷史檔案館等典藏，盼台美人第二、三代「不致失去這一段歷史記憶」；並籲請牧長持續為鄭達志遺族代禱，稱「若沒有鄭醫師，那場槍擊案的傷亡恐怕難以想像」。紀念冊亦收花蓮門諾醫院前院長黃勝雄回憶錄（[[articles/taiwanjustice-net/2023/20230530143708_2023_03_20_irvine-台灣基督長老教會槍擊案紀念冊-為台美人下一代_76cab17abde5b880|TJJ, 2023-03-20]]）。
+- 2022-05-16 — [[people/zhang-xuanxin|張宣信牧師]]親筆寫下案發現場記述：目擊鄭醫師背部三處槍傷倒於台前；述及鄭家與教會長期淵源（堂叔鄭俊郎醫師為其 Venture 牧會時摯友、鄭俊曉醫師亦至交），並確認「年輕的 John Cheng 並不在我們教會」，當日係陪同喪夫憂鬱的母親前來——與本頁「not a member of the congregation」記述互證（[[articles/taiwanjustice-net/2022/20220517043046_2022_05_16_張宣信牧師親筆寫下-laguna-wood-台灣老教會遭槍手攻擊經_548ad91fd21ab0c5|TJJ, 2022-05-16]]；與 Our Journeys #380 口述同源，兒女年齡 HOLD 仍存）。
 - 張宣信牧師口述（[[works/taiwaneseamericanhistory-org/our-journeys-380|Our Journeys #380]]）：鄭家與教會長期有淵源（鄭俊郎、鄭俊曉兩位醫師與牧者相熟）；鄭達志當日因母親久未聚會而陪同前往，非該會會友 — 與本頁「not a member of the congregation」記述一致。**HOLD:** 牧師口述稱其兒女「尚在讀初中」，與媒體報導「兒子將入讀 UCLA pre-med」衝突，未定年齡，不採信合併。
 - 同名警示：[[works/taiwaneseamericanhistory-org/artist36-john-cheng|Work #36「鄭榮得 John Cheng」(2015)]] 為另一位同名人物（鄭榮得），非本傳主，未掛連結。
 
@@ -69,7 +72,10 @@ Zheng was not a member of the Geneva Presbyterian Church congregation in Laguna 
 - Recognised in the 2023 TAHS Publication profile by [[people/zheng-bing-quan|鄭炳全]] for his wood carvings 「智者」 and 「富蘭克林」 (see attribution HOLD below)
 - 2022-02 (~3 months before) — father died; Zheng began accompanying his widowed mother to services
 - 2022-05-15 — killed at age 52 rushing the gunman at the [[works/taiwaneseamerican-org/laguna-woods-taiwanese-church-shooting|Laguna Woods church shooting]]; survived by his wife and two children
+- 2022-05-16 — 張宣信牧師親筆記述案發現場，確認其非該會會友、當日陪同母親前往，並述鄭家與教會長期淵源（鄭俊郎／鄭俊曉兩位醫師）
+- 2022-05-18 — 聯邦眾議員朴銀珠於眾院講話悼念；2022-06-23 提出法案追授國會金質獎章（2025-08 再提）
 - 2022-05 — memorial service held with full community honors, reported as a 「超級英雄」 farewell ([[works/taiwaneseamericanhistory-org/my-stories-839|My Stories #839, 05/2022]])
+- 2023-03-20 — 爾灣教會槍擊案中英文紀念冊編成典藏，張宣信牧師籲持續為鄭達志遺族代禱
 - 2024-09 — jointly honoured by the Carnegie Hero Fund Commission with [[people/zhang-xuanxin|Billy Chang 張宣信]] ([[works/taiwaneseamericanhistory-org/910-carnegie-hero-fund-commission-john-cheng-and-billy-chang-09-2024|Work #910, 09/2024]])
 
 ## Source Notes and Confidence
