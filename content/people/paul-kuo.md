@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Paul Kuo (郭博修)
 
@@ -61,3 +61,5 @@ Re-verified 2026-10-08 (deepen-x slice 10062334-4): fresh ZH+EN grep (郭博修 
 Re-verified 2026-10-09 (deepen-x slice 10080500-16): fresh ZH+EN+partial-name grep (郭博修 / Paul Kuo / 博修) across works/articles/sources/events/topics — hit set identical to prior absorptions (#27, #276, #497, art-show-13, Pew response, works + sources indexes); partial-name hits again resolve only to 博修仁 (Chris Boshuizen) in the 2021 taiwanjustice item, not 郭博修. Verified-saturated; SKIP-no-new-facts.
 
 Re-verified 2026-10-10 (deepen-x slice 10090900-16): fresh ZH+EN grep (郭博修 / Paul Kuo) across works/articles/sources/events/topics — hit set identical to prior absorptions (497 Phoenix 個展, artist file #27, Who's Who #276, art-show-13 Alhambra, Pew response, works index). No new community material. Verified-saturated; SKIP-no-new-facts.
+
+Re-verified 2026-10-11 (deepen-x slice 10101205-13): fresh ZH+EN+partial-name grep (郭博修 / Paul Kuo / 博修) across works/articles/sources/events/topics — hit set identical to prior absorptions (#27, #276, #497, art-show-13, Pew response, works index); partial-name hit resolves only to 博修仁 (Chris Boshuizen) in the 2021 taiwanjustice item, not 郭博修. Verified-saturated; SKIP-no-new-facts.
