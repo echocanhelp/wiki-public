@@ -8,7 +8,7 @@ tags:
   - novelist
   - literature
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Shawna Yang Ryan (楊小娜)
 
@@ -138,3 +138,8 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 <!-- TJJ-A10090701-20: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-20 article 15fc4a3e5664504e (2016-12-09 Shawna Yang Ryan Washington Post op-ed 轉載, 2024-07-21 快照): subject link re-checked vs 正文 this attempt, real (本文作者即Ryan本人, 三年級訪母親開篇、《Green Island》論述、「1949起算即第二次消音」確認見於正文), no wrong/spurious links; 2016-12-09 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10091401-10: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10091401-10 article 5b6cede86851b2ba (游朝凱設立創意寫作獎報導, 2021-02-14 刊 / 2026-02-11 快照) read fresh this attempt: subject link re-checked vs 正文 (「2021年獎項的評委是：Shawna Yang Ryan 楊小娜」確認見於正文), real, no wrong/spurious links; 2021-02-11 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 2009-03-21 — 在台美人協會台美電影節 Ang Lee《Lust, Caution》特別放映會 Q&A 提問：「你什麼時候打算把台灣的故事搬上銀幕？」Lee 答「找到對的故事就會拍」（[[works/taiwaneseamerican-org/ang-lee-lust-caution-a-special-screening-co-presented-by-taiwaneseamerican-org|Ang Lee 放映會報導]]）。
+- 2017-06-11 — 台美人筆會（1998 創立）《台美文藝》2017 期發表會報導：筆會多年來向社區介紹第二代作家，名列游朝凱、梁凱琳、Julia Wu、Jennifer Chow、楊小娜等（[[articles/taiwanjustice-net/2022/20221127052725_2017_06_11_2017台美文藝出版-台美人筆會六月十七日舉辦發表會_c76f11ecd2598ecb|TJJ 轉載，2022-11-27]]）。
+- 2018-01-28 — 以《綠島》作者身分專訪 Leona Chen 詩集《Book of Cord》（TaiwaneseAmerican.org），並為該書撰寫導讀：「她描繪的歷史是被暗示與體現的……是對被抹除歷史的有力刻寫」（[[works/taiwaneseamerican-org/interview-leona-chen|Leona Chen 專訪]]、[[works/taiwaneseamerican-org/remembering-the-228-massacre-readings-resources-on-taiwans-white-terror-era|228 閱讀資源專文引其導讀]]）。
+- 2025-03-24 — 《綠島》與蔡德本《蕃薯仔哀歌》等白恐怖背景著作，由北加州台灣同鄉聯合會副會長陳文羿策展，陳列於佛利蒙特市公共圖書館 228 七十七週年紀念展（部分著作過往曾被視為「禁書」）——其作品成為台美人社區將 228 紀念帶入主流公共圖書館的核心展品（[[articles/taiwanjustice-net/2025/20250317190039_加州台美人紀念228-首赴圖書館策展反思禁書令_ba3fb59f555c1fbc|中央社報導，TJJ 轉載]]）。
