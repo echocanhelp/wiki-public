@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Joyce Lin (林才欣)
 
@@ -70,3 +70,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090601-8: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-8 article 039ccce4163c57a9（航空宣教使團台裔美籍女機師Joyce Lin墜湖身亡, 2020-05-15 刊）: subject link re-checked vs 正文（傳主本人，MAF墜機報導）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100501-8: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-8 article 039ccce4163c57a9（航空宣教使團台裔美籍女機師Joyce Lin墜湖身亡, 2020-05-15 刊）: subject link re-checked vs 正文 this attempt（傳主本人，MAF墜機報導）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- Corpus re-check 2026-10-11 (deepen-x slice 10101300-8): fresh 5-dir grep (林才欣 / 才欣 / Joyce Lin / 林喬伊斯 / surname-variant) — hit set identical to the saturated set ([[works/taiwaneseamericanhistory-org/videos-162|videos-162]], [[works/taiwaneseamericanhistory-org/whos-who-2270-joyce-lin|whos-who-2270]], TJJ 039ccce4163c57a9 report, [[works/taiwaneseamericanhistory-org/ourjourneys305|ourjourneys305]] different-person HOLD, works/index, sources/taiwaneseamericanhistory-org). Two new-name false positives screened and rejected: the interWellness Hult-Prize profile matches only "Joyce Chen" + co-founder "Ruby Lin" (different people), and ourjourneys305 remains "Dr. & Mrs. Yi-Ming & Loon-Mei Joyce Chen Lin" (different person). SKIP: no new absorbable material.
