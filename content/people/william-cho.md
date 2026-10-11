@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # William Cho (卓甫良)
 
@@ -40,6 +40,8 @@ last_reviewed: 2026-10-09
 - In retirement he gave back as a teacher in the community's lifelong-learning programs: the Irvine 台灣長老教會 (ITPC) 長青教室 curriculum lists Cho as the lecturer for 「人生下半場」 ([[works/taiwaneseamericanhistory-org/ourjourneys107|107. 長青教室 sponsored by Irvine台灣長老教會(ITPC) / 2015/02]]).
 - He also wrote from inside the movement: his own memoir of the 1994 TAF youth summer camp, 「意外的收獲」, is preserved in the corpus ([[works/taiwaneseamericanhistory-org/ourjourneys262|262. 意外的收獲 記1994年TAF青少年夏令營活動 / 卓甫良 /10/2016]]), complementing the 1981 camp memoir written by a camper's parent.
 - Name-collision note: the roundtable in the 2024 TAF–Hong Konger community event report [[works/taiwaneseamerican-org/a-tale-of-two-islands-fire-ex-ignite-community|A Tale of Two Islands: Fire-ex Ignite Community]] names a "Pastor William Chou" of the Formosan United Methodist Church — a different person (clergy, not the engineer/nuclear-safety specialist Cho 卓甫良). Not merged.
+- The English TAF history names Cho and Dr. James "Jim" Chen as the founders of MFCF, with origins in the mid-1960s wave of Taiwanese graduate students who settled in the Midwest after their studies — HOLD: origins 1966 (History of TAF) vs founding 1973 (楊遠薰); plausibly retreat origins 1966, formal MFCF founding 1973. The same account adds that Cho served as Executive Director of MFCF/TAF from 1973 to 1987, before his fourth presidency ([[works/taiwaneseamericanhistory-org/ourjourneys33-eng|33. History of TAF]]).
+- Family involvement in the foundation's first fund-raising program after the October 18, 1980 rename: his second daughter Esther 卓慧文 gave a fund-raising piano recital at DePaul University, Chicago, upon her 18-year high-school graduation, raising $750 for the TAF Fund; wife Carol 林秋菊 is named among the women who launched the Junior/Junior-High art and musical programs under Dr. 張信義's vision ([[works/taiwaneseamericanhistory-org/ourjourneys33-eng|33. History of TAF]]).
 
 ## Family
 
@@ -95,3 +97,5 @@ last_reviewed: 2026-10-09
 <!-- TJJ-A10090601-3: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-3 article f06677a469620539 (卓甫良與TAF的故事, 楊遠薰, 2021-06-22 刊, 2021-12-05 快照): subject link re-checked vs 正文 this attempt (卓甫良為MFCF共同創辦人兼TAF第四任會長, 1987年起倫理價值主題, 伊利諾州核安鑑定專家, 2002年底退休), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090601-4: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-4 article e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10100400-11: 2026-10-10 — fresh ZH+EN grep (卓甫良|William Cho|Bill Cho) across works/articles/sources/events/topics: 23 hits. 1 previously-unabsorbed substantive source = ourjourneys33-eng (History of TAF): absorbed Cho + Dr. James "Jim" Chen as MFCF founders w/ mid-1960s origins (HOLD: origins 1966 vs founding 1973 per 楊遠薰), Cho as MFCF/TAF Executive Director 1973–1987, daughter Esther 卓慧文's DePaul piano recital raising $750 for the TAF Fund, Carol 林秋菊 in the Junior/JH arts programs. Other hits (210-william-cho bibliographic record; TJJ tag/category/root listing pages) carry no new facts. -->
