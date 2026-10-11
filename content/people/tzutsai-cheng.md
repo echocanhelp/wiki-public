@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Tzutsai Cheng (鄭自才)
 
@@ -112,3 +112,5 @@ last_reviewed: 2026-10-09
 <!-- TJJ-A10090601-28: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-28 article a20fb275b89c3fb7（「刺蔣案」策劃者鄭自才登記總統連署 拚超越郭台銘, CNA 中央社記者葉素萍, 刊 2023-09-18 / Wayback 快照 2023-09-30）: subject link re-checked line-by-line vs 正文 this attempt — 本人為報導主角，見於「台澎黨主席鄭自才」「與副手黃聖峰搭檔，正式登記連署參選『中華民國流亡政權總統』」「要取得比郭台銘更多的連署書」及 1991 翻牆回台判刑 1 年記述，真實對應，無錯鏈、無虛鏈；含該文 wikilink 的 2023-09-18 日期事實條目已在 From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090701-1: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-1 article e3440fec3eed8107 (籌謀台灣「不流血革命」的獻策高手原來是他 ◎ 陳昭南, TJJ 2022-05-09): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+覆核（deepen-x slice 10100315-5, 2026-10-10）：fresh ZH+EN grep（鄭自才/Tzutsai Cheng/自才）跨全部 5 corpus dirs 命中 26 檔——除已吸收檔（publications1201、mystories632、ourjourneys-138/-357/81/62-eng/234/330/58、mystories448、24119694、e3440fec、a20fb275、996879ac）外，新增命中僅為 whos-tzutsai-cheng（TAH #469 百科頁，正文來源已列於 Sources）、ourjourneys62（中文版同一威廉波特賽事，已經 62-eng 吸收）、4cd64e74（2023-09-23 TJJ 節目彙編頁，僅列刺蔣案策劃者登記連署標題，已由 a20fb275 條目涵蓋）、5 檔 2021 電視節目彙編頁（話時代人物「鄭自才親自策劃刺蔣案」等，僅標題提及、屬 1970 刺蔣案紀錄範圍，無新事實）、index/sources 目錄頁與 MANIFEST——無新材料，語料飽和 — SKIP。wife-vs-晴美 HOLD 與 NJ-vs-Maryland HOLD 仍有效。
