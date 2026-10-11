@@ -150,3 +150,5 @@ Pages that link to **lisa-su** (lisa-su):
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20250522162021）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
 
 <!-- TJJ-A10100801-31: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-31 article 88c15e5403e6b9b9 (超微台裔總裁兼執行長蘇姿丰出任美國總統科技顧問, TJJ 轉載中央社記者江今葉專電, 刊 2021-09-22 / 快照 2021-10-28) read fresh this attempt: 正文逐行再驗證——本頁為報導主角，兩條 subject 連結（本頁與 [[people/dr-lisa-su|Dr. Lisa Su]] 同人之雙頁既定分工）皆為真實提及，無錯鏈、無虛鏈；編輯陳正健僅為內文署名、非報導主角，未掛鏈，正確；含該文 wikilink 的 2021-09-22 PCAST 入選條目已在庫 — saturated, no new material. -->
+
+<!-- TJJ-A10100901-22: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-22 article e1e223aabe8b8751 (標普企業執行長年薪排行榜 超微蘇姿丰奪冠, TJJ 轉載中央社/CNN Business, 刊 2020-06-02 / 快照 2025-05-15) read fresh this attempt: 正文逐行再驗證——本頁為報導主角，兩條 subject 連結（本頁與 [[people/dr-lisa-su|Dr. Lisa Su]] 同人之雙頁既定分工）皆為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的 2020-06-02 條目（5850萬美元榜首、2011年調查以來首位女性榜首、小檔案台南出身/MIT/IBM 13年/2014首位女性執行長）已在庫 — saturated, no new material. 正文另提及札斯拉夫（David Zaslav, Discovery Inc，無關連他人，不建鏈）與張忠謀（於小檔案獎項欄出現一次，暫不建鏈）。 -->
