@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Jiang Bai-xian (江百顯)
 
@@ -29,6 +29,8 @@ His literary work is preserved in the TAH story corpus:
 - [[works/taiwaneseamericanhistory-org/21-e5-bb-96-e6-b8-85-e5-b1-b1-e7-ad-86-e4-b8-8b-e9-a3-84-e6-b3-8a-e7-9a-84-e5-8f|廖清山筆下飄泊的台灣人（解說）— 彭瑞金 — 2014.12]] — 彭瑞金's critical commentary on his writing about the Taiwanese diaspora
 
 Alongside the literary record, he is a prolific taiwanjustice.net political columnist (13 title hits, 476 body mentions in the harvest; see Works below), covering Taiwanese politics, the 賴清德 and 蔡英文 presidencies, and community affairs such as the 大洛杉磯台灣會館 bulletin notices.
+
+Corpus evidence shows his taiwanjustice.net columns first ran under his real name: the site carried a dedicated 廖清山專欄 category (harvest snapshot, 2017-11) and the 〈洛杉磯看台〉 column 「從槍手到門神」 was published as ◎ 廖清山 on 2017-10-23. The pen-name 江百顯 appears in later title hits (2024–2025, see Works) — i.e. 廖清山 is the byline used in the earlier archive record, consistent with the TAH Who's Who pairing 江百顯(廖清山).
 
 
 
