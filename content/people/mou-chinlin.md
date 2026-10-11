@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Mou-ChinLin (林茂清)
 
@@ -73,3 +73,5 @@ Re-verified 2026-09-22 (slices 09210600-14, 09220400-12), 2026-09-23 (slice 0922
 <!-- TJJ-A10100601-4: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-4 article 20240302024930_root_299c00bb18030b81 (懷念彭昕醫師 ◎ 楊遠薰, TJJ 2021-09-23刊/2024-03-02快照) read fresh this attempt: subject link re-checked vs 正文, real mention, no wrong/spurious links; dated fact w/ three-file wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100701-1: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-1 article 80e2a87a17215263 (懷念彭昕醫師 ◎ 楊遠薰, TJJ 2021-09-23, triple copy w/ 6763e8f4ad9bcb7c / 299c00bb18030b81): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ three-file wikilinks already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10101000-32: verified 2026-10-11 — fresh grep 林茂清／Mou-ChinLin／翁玉屏 across works/articles/sources/events/topics (7 files): hit set identical to records already absorbed (TAH #855, Our Journeys 14 教會歷史, works/index roster, 楊遠薰懷念彭昕醫師 triple copy 6763e8f4/80e2a87a/299c00bb, sources page). Saturated, no new material. -->
