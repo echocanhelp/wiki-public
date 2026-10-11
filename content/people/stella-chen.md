@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Stella Chen (陳婉真)
 
@@ -62,6 +62,8 @@ B.S. Dept. of Adult & Continuing Education(社教系)
 - HOLD: 命名衝突 — NATWA 2006-07 紀念文追思「Stella Chen Landauer」（自稱創辦「台灣人婦女自主運動」、突破黑名單）為「1988 年 8 月中旬病逝台灣」（[[works/taiwaneseamericanhistory-org/ourjourneys60-eng|TAH #60 ENG]]），與本人 1993 年返台及 2020–2022 年活動紀錄不符，應為同名另一人；該 work 頁現行指向本頁的連結宜消歧，不併入。
 - 1979–1989 洛杉磯十年：黑名單滯美期間寫書、開書店、辦活動，是凝聚海外台灣民主運動能量的核心人物之一；著作含《1947台灣二二八革命》（與王秋森合著、李賢群共同整理史料）與《勇者不懼》《啊!黑名單》《建國路上死與生》等政治論述。2018 年大洛杉磯台灣會館座談中親述台灣建國運動組織那段歷史（[[articles/taiwanjustice-net/2022/20220810021842_2018_04_28_張晉作提問-陳婉真談台灣建國運動組織的一段歷史_fc31028dfb4249a0|TJJ 記錄]]）；2025 年辭世後被洛杉磯台僑追認為「最勇敢的抗爭先鋒」（見「From the record」2025-06-11 條）。
 - HOLD: 返台年份衝突 — 王泰和追思文（[[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ, 2022-07-12]]）將她列為 1993 年闖關返台名單之一，但 Our Journeys #230 明確記載 1988-07-24 攔截驅離、1989 年成功返鄉並出席 5/19 鄭南榕出殯——兩說並存於語料，日期未定論，不自動併入。
+- 2004 — 以「婉真姊」身份自台灣赴休士頓參加美南夏令會（與黃建義先生、林玉夏牧師娘同行），帶來台灣陀螺與古早建築報導；同場「兩代對談」是該會亮點——她與第二代台美人直接對話的紀錄（[[works/taiwaneseamericanhistory-org/ourjourneys319|Our Journeys #319]]）。
+- 2017 — 任 TAHS《台美人_profile》年刊編輯/編撰群成員（與周威廉、周威霖、鄭炳全、楊遠薰等編纂第一代與第二代台美人檔案），是她投入社區史料整理的一環（[[sources/2017-tahs-publication|2017 TAHS Publication]]）。
 - Corpus re-grep 2026-09-22 (slice 09212352-2)：驗證飽和 — 命中集全部已連結（#311、#513、#545、#448、#173、our-journeys-357、ourjourneys2、ourjourneys60-eng）；無新的可吸收語料。
 
 ## Sources
