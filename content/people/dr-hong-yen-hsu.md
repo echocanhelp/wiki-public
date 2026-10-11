@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Hong-Yen Hsu (許鴻源博士)
 
@@ -83,3 +83,8 @@ Fresh ZH+EN+variant (許鴻源/許鴻原/Hong-Yen Hsu) grep across all five corp
 - **Corroborates the institute directorship date.** The 2024 vault record of 鄭炳全's 旅美五十周年 memoir ([[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3|taiwanjustice.net 2024 record]]) — the same memoir as the 2025 record already cited above — dates it precisely: the memoirist graduated from 台北醫學大學 in 1965, then entered the 中國文化學院藥用植物研究所 whose director (所長) was 許鴻源博士, before 那琦 returned from Kyoto to 北醫 about a year later. This places the directorship at circa 1965–1966, consistent with the mid-1960s wording already held.
 - **Collecting record indexed in the art-history stream.** The taiwanjustice culture/art-history category index ([[articles/taiwanjustice-net/2021/20210619030754_category_culture_arthistory_5acbcfec4a52ccb9|台灣美術史, 2021]]) lists 「許鴻源和畫家搏感情，李梅樹感動買一送一」 among its 台灣美術史 entries — i.e. his collecting is being treated as part of the published Taiwan art-historical record, not just a profile piece.
 - No conflicts found; the 許鴻原/許鴻源 spelling variance in ourjourneys173 was already flagged in the prior pass and is unchanged.
+
+## Deepen pass 2026-10-11 (deepen-x slice 10100849-5, corpus re-grep)
+Fresh ZH+EN+variant grep across all five corpus dirs returned the same hit set as prior passes; one detail not previously cited on this page:
+- **Full 1988 builder roster in the English translation.** The English text of the same memoir ([[works/taiwaneseamericanhistory-org/ourjourneys173-eng|Our Journeys #173 ENG]]) names the 1988 Flamingo Garden/Taiwanese Senior Center group as community leaders An-Su Gao Lai 賴高安賜, Kenjohn Wang 王桂榮, Charles Ting 丁昭昇, Ming-chung Zhuo 卓敏忠, **Hong-yen Hsu 許鴻源**, **Cheng-tsung Chang 張正宗**, **Chia-yu Yang 楊嘉猷** and Symeon Woo 吳西面 — 張正宗 and 楊嘉猷 were not previously listed on this page's Role section, which named only five of the consultants. The ZH original's 許鴻原 vs 許鴻源 variance (flagged in prior passes) is unchanged.
+- No new biography, no conflicts found.
