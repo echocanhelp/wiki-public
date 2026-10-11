@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Dr. Ya Yen Lee (李雅彥醫師)
 
@@ -56,10 +56,13 @@ From his own TAH employment table and encyclopedia entries (#149, #128, #21):
 - **Dr. Ya-Yen Lee Memorial Foundation Scholarship 李雅彥醫師紀念基金會獎助金** (2018-01-03): [[works/taiwaneseamericanhistory-org/dr-ya-yen-lee-memorial-foundation-scholarship||TAH #83]].
 - **Taiwanese American Fund in Professor Ya Yen Lee Memorial Library**, managed by the [[organizations/taiwanese-heritage-society-of-houston||Taiwanese Heritage Society of Houston]] (2016-02-25): [[works/taiwaneseamericanhistory-org/8-taiwanese-american-fund-in-professor-ya-yen-lee-memorial-library-managed-by-ta||TAH #8]].
 - Memorial essay 長留遺愛在人間 – 紀念李雅彥醫師 by 蔡淑媛(翠屏) (2016-04): [[works/taiwaneseamericanhistory-org/mystories426||TAH #426]].
+- Memorial essay 望會館憶雅彥 by 吳美惠 (2014-11-09): [[works/taiwaneseamericanhistory-org/137-e6-9c-9b-e6-9c-83-e9-a4-a8-e6-86-b6-e9-9b-85-e5-bd-a5-e5-90-b3-e7-be-8e-e6-8||TAH #137]].
+- **Dr. Ya-Yen Lee Memorial Foundation 李雅彥醫師紀念基金會** (2018): [[works/taiwaneseamericanhistory-org/dr-ya-yen-lee-memorial-foundation||TAH Memorial Foundation record]].
 - His 1992 founding-committee role for the 休士頓台灣人活動中心 is recalled firsthand in 莊承業's memoir of the center's founding: [[works/taiwaneseamericanhistory-org/ourjourneys233||TAH #233 回顧休士頓台灣人活動中心的成立]] (2016-07-28).
 
 ## Role in the community (memoir-sourced, deepen-x 2026-10-09)
 
+- **Organizer, 台灣會館籌備會 (1987)** — 莊承業's memoir of the Houston Taiwan Community Center founding records that in September 1987, amid the Houston real-estate slump, 李雅彥「花很大力氣」organized the 台灣會館籌備會 when the push to buy a clubhouse had stalled, chairing its 章程組 (with 謝貴分、蔡丁財、楊朝諭). See [[works/taiwaneseamericanhistory-org/ourjourneys233||TAH #233 回顧休士頓台灣人活動中心的成立]].
 - **Co-founder, 休士頓台灣語文學校 (Houston Taiwan Language School)** — 蔡淑媛's founding memoir records the chance encounter at 頂好商圈's 「小美冰果室」where his wife [[people/gin-ru-yeh||葉錦如]] introduced him; his first words to her were 「咱著愛來辦一間學校」— he rallied the community ("他振臂一呼，因緣由此聚合") to organize, teach, and fund the school, telling her 「錢的問題嘸免煩惱，大家手ńg bih起來作伙打拼」. See [[works/taiwaneseamericanhistory-org/ourjourneys36||TAH #36 此情可待成追憶—休士頓台灣語文學校創建記]] (蔡淑媛, 09/2014).
 - **NATPA member & donor** — 林靜竹's memoir of NATPA's first homecoming annual meeting (Chicago 1990 planning) lists him among donors: 會員李雅彥兩千元 toward the ~$80k drive for the 1990 Taipei年会. See [[works/taiwaneseamericanhistory-org/ourjourneys47||TAH #47 北美洲台灣人敎授協會首度回台召開年會的經緯和歷史意義]] (林靜竹, 2014-10).
 - **Photo memorial** — "30. In memory of Dr. Ya-Yen Lee 李雅彥教授生命的禮讚" in the photo-album/activities series: [[works/taiwaneseamericanhistory-org/photo-albums-activities-30||TAH photo album #30]] (2014).
