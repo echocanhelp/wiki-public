@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Rev. R. H. Chang (張瑞雄牧師)
 
@@ -82,3 +82,7 @@ Accomplishment
 - **本人傳記**：[[works/taiwaneseamericanhistory-org/72-e5-8f-b0-e7-81-a3-e4-ba-ba-e7-9a-84-e5-85-88-e8-a6-ba-e5-bc-b5-e7-91-9e-e9-9b|TAH #72 台灣人的先覺—張瑞雄（2004/08，傳記）]]——以他為傳主的專書傳記。
 - **灣區教會史料之關鍵受訪者**：據 [[works/taiwaneseamericanhistory-org/our-journeys-350|TAH #350 美國舊金山灣區台灣基督教會史料簡介／何義麟（2019/11）]]（value band A），何義麟自稱「最早在灣區宣教的張瑞雄牧師」為其文獻與採訪之最重要來源；文中含張牧師台南神學院就學時期照片（圖01）與 **2015 年於東灣台灣基督教會講道**照片（圖02）——顯示其 1991–1999 東京宣教之後仍持續於灣區教會講道事奉。
 - **英文名與 FPCLA 建堂細節**：據 [[works/taiwaneseamericanhistory-org/ourjourneys231-eng|TAH #231 英文版（2020/12）]]，張牧師英文名 **Rei-Hsiung Chang**；FPCLA 亦稱 Olympic Church；建堂程序：1970-08 首次聚會→1971-05 向 PCUSA 申請新堂監督→1971-09 禮聘首位 organizing pastor→1973-05-20 正式昇堂會；1971-07 起於 Wilshire Crest Presbyterian Church 聚會，1974 年該堂申請關閉後產業轉予 FPCLA。
+
+## 同名辨析（deepen re-grep 2026-10-11, slice 10100849-14）
+- 語料庫另有 5 篇以 **鄭瑞雄（Jeffrey Tsung）** 為作者之作品——[[works/taiwaneseamericanhistory-org/mystories212|TAH #212 面紗內外]]、[[works/taiwaneseamericanhistory-org/114-e5-85-ad-e3-80-81-e4-b8-83-e3-80-87-e5-b9-b4-e4-bb-a3-e5-88-b0-e7-be-8e-e5-9|TAH #114 六、七〇年代到美國發展的臺灣醫師]]、[[works/taiwaneseamericanhistory-org/273-e5-85-92-e5-ad-90-e7-9a-84-e5-bf-83-e8-81-b2-e9-84-ad-e7-91-9e-e9-9b-8420150|TAH #273 兒子的心聲]]、[[works/taiwaneseamericanhistory-org/314-jeffrey-tsung-e9-84-ad-e7-91-9e-e9-9b-84201502|TAH #314 Jeffrey Tsung 鄭瑞雄]]、[[works/taiwaneseamericanhistory-org/11-e9-84-ad-e7-91-9e-e9-9b-84-e5-85-88-e7-94-9f-e8-b4-88-e9-80-81-e7-9a-84-e6-a8|TAH #11 鄭瑞雄先生贈送的標本]]。鄭瑞雄為另一人（姓氏鄭≠張），僅名字「瑞雄」相同，**非本頁人物**，特此辨析以免誤連。
+- 本輪全語料 re-grep（張瑞雄／Rei-Hsiung Chang／R. H. Chang，五個語料目錄）確認既有吸收內容之真實命中集不變（#231 中英、#357、#350、#779、#709、#72、#601、#142、#2227），未發現需新增之社群事實。
