@@ -107,3 +107,5 @@ A systematic privacy gate scan was run on all 29,103 files. Content is safe to p
 - [[people/chen-maoxiong|Chen Mao-xiong]] — mentioned in this record
 - [[people/yu-jie|Yu Chieh]] — mentioned in this record
 
+
+<!-- TJJ-A10100501-23: verified 2026-10-11 — wave-2 link+deepen re-check (slice 10100501-23): all 10 ## Subjects links re-checked line-by-line vs 正文 this attempt (Key Entities Column Authors: 陳茂雄475/陳昭南398/何清漣50/廖清山37/余杰99/楊子清65; Political Figures: 蔡英文222/賴清德211/馬英九109; 發行人黃樹人於正文開篇) — all real, no wrong/spurious links. 正文另列 chen-po-kong/lin-baohua/fan-jiang-ti-ang/huang-diyin/ke-wenze/han-guoyu 等列名人物（未列本文 Subjects 項，維持前波判定於正文純文字/既有條目處理）；含本文 wikilink 的日期事實條目已在 10 個 subject 頁 From the record — saturated, 0 deepened, 11 pages stamped. -->

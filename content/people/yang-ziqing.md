@@ -10360,3 +10360,5 @@ Notable quotes and mentions of **楊子清** in Taiwan Justice articles:
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20200821155322）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
 <!-- TJJ-A10100401-21: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-21 article 9412105875987041（以立合唱團 Mayfield 校園文化交流, 發文 2024-05-29 / 快照 2025-06-17）read fresh this attempt: 總指揮楊子清率團赴 Mayfield 交流並稱「國民外交」確認見於正文; subject link re-checked, real, no wrong/spurious links; 2024-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10100501-23: verified 2026-10-11 — wave-2 link+deepen re-check (slice 10100501-23) article taiwanjustice-net/index (存檔索引頁) read fresh this attempt: subject link re-checked vs 正文 — Key Entities Column Authors 列名「Yang Zi-qing (楊子清) — 65 articles」見於正文 — real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
