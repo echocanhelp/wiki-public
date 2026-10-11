@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Thomas Chen (陳秋貴)
 
@@ -57,6 +57,7 @@ last_reviewed: 2026-10-10
 - 2022-10-02 — 以世台聯合基金會（STUF United Fund）董事長身份出席該會公益合作晚宴並致詞，報告基金會自2009年成立以來已在33國推展慈善公益計畫，並於2016年獲聯合國經社理事會特殊諮詢地位（前副總統陳建仁、勞動部長許銘春與會盛讚）—— [[articles/taiwanjustice-net/2022/20221127053109_2022_10_02_出席世台基金會公益晚宴-陳建仁_國民外交最好見_43b81b6b892fea96|TJJ/CNA, 2022-10-02]]。
 
 ## Worklog
+- 2026-10-11 deepen-x slice 10101300-7: verified-saturated re-verify — fresh ZH+EN+org-name grep (陳秋貴/Thomas Chen/Crystal Window) across all 5 corpus dirs returned the identical hit set already linked or held above (mystories129, ota-275, 307, crystal-window org entry, works/index, TJJ 2022 世台晚宴, Pew statement signatory under HOLD, sources index); nothing new absorbable.
 - 2026-10-10 deepen-x slice 10090500-1: deepened — fresh ZH+EN grep surfaced 4 previously-unlinked corpus works: Crystal Window & Door Systems 協和集團 (2017 org entry), World Taiwan Foundation 世台聯合基金會 ×2 (2015 #26 + 2017 eNewsletter), TJJ/CNA 2024 UN Go！報導 (attributed via 世台董事長 role, article does not name him — flagged inline). Added 4 wikilinks to Role in the Community; HOLD noted on World Taiwan Foundation vs STUF United Fund naming. Pew "Thomas Cheng" signatory HOLD unchanged.
 - 2026-09-26 deepen-x slice 09260317-24: verified-saturated re-verify — fresh ZH+EN grep hit set identical (mystories129, ota-275, 307, index, TJJ 2022 世台晚宴, Pew statement signatory under HOLD); nothing new absorbable.
 - 2026-09-26 deepen-x slice 09250900-21: verified-saturated re-verify — same hit set (mystories129, ota-275, 307, TJJ 2022, Pew statement signatory under HOLD); nothing new absorbable.
