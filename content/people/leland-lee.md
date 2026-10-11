@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Leland Lee (李柏毅)
 
@@ -66,6 +66,9 @@ TAH records held in this vault:
 
 ## Corpus recheck（deepen-x slice 10081018-3, 2026-10-09）
 - SKIP-with-reason：重掃（李柏毅／Leland Lee／柏毅）命中不變——本人三筆 TAH 記錄（#14、#267、#172，均已 wikilink 載入）、同名異人 HOLD 條目 [[works/taiwaneseamericanhistory-org/our-journeys-373|#373]]、index 目錄行與 MANIFEST 書目行。新增命中皆為同名異人政治人物報導，無本人社群事實：[[articles/taiwanjustice-net/2023/20230922213011_category_videos_筱君-台灣-plus_9a2c31b964d30687|筱君台灣PLUS 2023-09-20]]、[[articles/taiwanjustice-net/2025/20250317175735_傳左營建魚叉飛彈營區-陳其邁_不適合用民粹討論_ed9621638415ddd6|中央社 2023-11-13]]、[[articles/taiwanjustice-net/2025/20250906041408_拚民進黨高市長初選_邱議瑩_許智傑與市民座談_b61bea0ab0c6e6c2|中央社 2025-09-06]]、[[articles/taiwanjustice-net/2025/20251008105252_蔡總統高雄輔選黃捷_李柏毅_把台灣帶向成功_20554470023174f3|中央社 2023-10-17]] 之「李柏毅」為民進黨高雄市立委參選人；[[articles/taiwanjustice-net/2025/20251010064857_黃珊珊擬8-28辭職參選_柯文哲_不能拖過9-2_49a395a1e0b14fd1|中央社 2022-08-17]] 之「李柏毅」為國民黨籍台北市議員（與既有 HOLD 同一人）。與本頁 1989 年生洛杉磯自閉症藝術家生平無法對應，不併入本頁。
+
+## Corpus recheck（deepen-x slice 10100700-10, 2026-10-11）
+- SKIP-with-reason：重掃（李柏毅／Leland Lee／柏毅）命中不變——本人三筆 TAH 記錄（#14、#267、#172，均已 wikilink 載入）、同名異人 HOLD 條目 [[works/taiwaneseamericanhistory-org/our-journeys-373|#373]]、index 目錄行與 MANIFEST 書目行。新增命中皆為同名異人政治人物報導：[[articles/taiwanjustice-net/2023/20230922213011_category_videos_筱君-台灣-plus_9a2c31b964d30687|筱君台灣PLUS 2023-09-20（邦聯制激辯）]] 與 [[articles/taiwanjustice-net/2025/20251207060214_人呢_佔領立法院_吳斯懷和葉毓蘭中暑了嗎_938bdaae35eb13c3|太陽花佔立院報導]] 之「李柏毅」分別為政論節目來賓與國民黨台北市議員（與既有 HOLD 同一人），與本頁 1989 年生洛杉磯自閉症藝術家生平無法對應，不併入本頁。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
