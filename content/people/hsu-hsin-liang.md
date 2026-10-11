@@ -8,7 +8,7 @@ tags:
   - democracy-movement
   - overseas-taiwanese
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Hsu Hsin-liang (許信良)
 
@@ -29,6 +29,9 @@ last_reviewed: 2026-10-09
 
 ## From the record
 
+- 1973 — Nominated by the KMT for the Taiwan Provincial Assembly and elected — the 「愛將」 Chiang Ching-kuo had actively cultivated ([[articles/taiwanjustice-net/2026/20260210185236_書摘_蔣經國日記評陳菊許信良等黨外人士_把美_8992ada1e7a6c5a0|蔣經國日記書摘, TJJ 2026-02-10]]).
+- 1977 — Published 風雨之聲 and 當仁不讓, sharply criticizing the KMT; ran as a 違紀 candidate for 桃園縣長 against the party's nominee 歐憲瑜, was expelled from the party, and won the election 22萬 to 13萬 votes amid the 中壢事件 (same diary book excerpt).
+- 1979 — Chiang Ching-kuo's diary (1979-01-06) blamed 「反動派（許信良等）」 for the protests against Christopher's断交 negotiation team; after 許信良's support of the 橋頭事件 / 余登發父子, he was 彈劾 by the 監察院 on 4/20 and sentenced by the 公務員懲戒委員會 to 休職兩年 — the 停職案 whose news reached the 世臺會 convention on 1979-06-30 (see below) [[articles/taiwanjustice-net/2026/20260210185236_書摘_蔣經國日記評陳菊許信良等黨外人士_把美_8992ada1e7a6c5a0|蔣經國日記書摘, TJJ 2026-02-10]].
 - 覆核（TJJ-A09240600-1, 2026-09-25）：本 slice 文章 e3440fec3eed8107（籌謀台灣不流血革命(陳昭南 2022-05-09)）正文再驗證——主體連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 覆核（TJJ-A09230500-1, 2026-09-24）：本 slice 文章 e3440fec3eed8107（籌謀台灣不流血革命(陳昭南 2022-05-09)） 正文再驗證——主體連結為真實提及（無錯鏈、無虛鏈），對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
@@ -41,6 +44,11 @@ last_reviewed: 2026-10-09
 
 ## Overseas movement record (TAH corpus)
 
+- 1983 — As 「流浪美國的黨外人士」, his lecture at the 5th 美東南區台灣人夏令會 (Presbyterian College, Clinton S.C.) 「轟動全場」 alongside 許榮淑、周清玉、張良澤、史明 ([[works/taiwaneseamericanhistory-org/ourjourneys245|245. 美東南區台灣人夏令會簡史]])。
+- 1986 — The 黑名單 record notes 陳明昭 escorted 許信良's 返台闖關 that year and was later stripped of passport/visa by the KMT for his conduct there ([[works/taiwaneseamericanhistory-org/ourjourneys106|106. 中華民國的黑名單]]).
+- 1988–1991 — Named among the overseas 黑名單 who 「翻牆」 home in the 闖關回台 wave (with 陳翠玉、羅益世、陳昭南、陳婉真、郭倍宏 et al.) ([[works/taiwaneseamericanhistory-org/ourjourneys230|230. 海外黑名單闖關回台的故事]])。
+- 1992 — 許信良言論選集 (with 鍾碧霞) appears in the TAH corpus as work #396 ([[works/taiwaneseamericanhistory-org/396-e8-a8-b1-e4-bf-a1-e8-89-af-e8-a8-80-e8-ab-96-e9-81-b8-e9-9b-86-e8-a8-b1-e4-b|396. 許信良言論選集]])。
+- Attribution note — a corpus memoir credits the 美麗島周報 as 「由許信良創辦」, while other records (incl. 陳昭南's memoir) describe him as co-founder with 陳昭南/許丕龍. HOLD: founder vs co-founder attribution; dates/roles otherwise consistent.
 - 1979-06-30 — At the 世臺會 (World Taiwanese Association) convention in Seattle, news of 許信良's 停職案 arrived and the convention strongly condemned KMT dictatorship; after the 美麗島事件 many 世臺會 cadres were blacklisted (何義麟's Bay Area study, [[works/taiwaneseamericanhistory-org/our-journeys-357|357. 舊金山灣區臺灣人的社團活動與家國意識之形成]]).
 - 1980-03-29 — On invitation of the 協志會, spoke at San Jose State on 「高雄事件的啓示」; KMT-linked gangsters again caused disturbances outside and slashed tires (石清正, [[works/taiwaneseamericanhistory-org/ourjourneys38|38. 北加州台灣同鄉聯合會三十年回顧]]).
 - 1982 — Reported as 美麗島 representative to the 9th 世界台灣同鄉會 convention in Houston ([[works/taiwaneseamericanhistory-org/ourjourneys266|266. 台灣人在北美洲/黃武東]]).
@@ -68,6 +76,8 @@ Corpus re-grep 2026-09-22: above records newly absorbed from works/.
 <!-- DEEPEN-X10080951-4 (2026-10-09): fresh ZH+EN grep across works/articles/sources/events/topics (47 hits). New material absorbed: the 桃園機場事件 press-photo record 「許信良化妝抵台，原機遣送到菲律賓」 1986/12/2 ([[works/taiwaneseamericanhistory-org/1-e8-a8-b1-e4-bf-a1-e8-89-af-e5-8c-96-e5-a6-9d-e6-8a-b5-e5-8f-b0-ef-bc-8c-e5-8e-|TAH work #1]]) — the work page the 1986-11-30 line had promised but never linked, now linked. ourjourneys123-eng (Tangwai timeline entries 1983/1986, Hsin-liang Hsu) confirms existing 1982–1986 record, no new dates. No conflicts to hold. -->
 
 <!-- TJJ-A10090701-1: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-1 article e3440fec3eed8107 (籌謀台灣「不流血革命」的獻策高手原來是他 ◎ 陳昭南, TJJ 2022-05-09): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10100315-12 (2026-10-10): fresh ZH+EN grep (許信良/Hsin-liang) across all 5 corpus dirs — 47 hits. New material absorbed: (1) 蔣經國日記書摘 (TJJ 2026-02-10) — 愛將變叛徒 arc: 1973 KMT 省議員提名當選, 1977 風雨之聲/當仁不讓 + 違紀參選桃園縣長被開除黨籍後高票當選, 1979 diary blame for Christopher-visit protests + 彈劾/休職兩年 (= the 停職案 on the 世臺會 line); (2) 245 美東南區夏令會簡史 — 1983 Clinton S.C. lecture; (3) 106 黑名單 — 陳明昭 escort record; (4) 230 邱萬興 — 闖關回台 wave listing; (5) work #396 許信良言論選集 1992, first wikilink. HOLD: founder vs co-founder of 美麗島周報 (one memoir 「由許信良創辦」, others co-founder). No date/age conflicts. -->
 
 ## 照片
 
