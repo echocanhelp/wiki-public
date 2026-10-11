@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Chuan-Kwang Yang (楊傳廣)
 
@@ -73,3 +73,5 @@ last_reviewed: 2026-10-10
 <!-- TJJ-A100607003-c: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607003-c article 2a543ddc9301b7b3 (大洛杉磯台灣會館24週年募款年會公告, 2022-09-13發文／20220924快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 複核（deepen-x 2026-10-10 slice-10090500-23）：全語料 re-grep（楊傳廣 / Chuan-Kwang Yang / C.K. Yang / 傳廣, works+articles+sources+events+topics）命中集合不變：ff374、videos115、whos-who-2152、works/index、sources/taiwaneseamericanhistory-org、TJJ 紀政告 — 全數已吸收並 wikilink。新增 4 篇 TJJ 命中（血棉花×2、中國外宣、台灣藝人統戰）經 check 均為「宣傳廣告／對外宣傳」字串誤命中（「傳廣」為「宣傳」子字串），非本傳主材料 — 飽和，無新材料。
+
+複核（deepen-x 2026-10-11 slice-10101322-2）：全語料 re-grep（楊傳廣 / Chuan-Kwang Yang / C.K. Yang, works+articles+sources+events+topics）命中集合不變：ff374、videos115、whos-who-2152、works/index、sources/taiwaneseamericanhistory-org、TJJ 紀政告 — 全數已吸收並 wikilink，命中內容比對無新增社群事實 — 飽和，無新材料。
