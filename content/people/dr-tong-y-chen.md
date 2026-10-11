@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Dr. Tong Y. Chen (陳東榮醫師)
 
@@ -40,7 +40,7 @@ His material culture of the diaspora is itself a historical source: TAH encyclop
 ## Family
 
 - **Wife:** 李芬芬
-- **Daughter:** 3
+- **Daughter:** 3 — the eldest is 陳怡安 [[people/prof-grace-chen-huang||Prof. Grace Chen Huang]], who graduated from Stanford (English & Biochemistry), earned her M.D. at Washington University in St. Louis, interned at Beth Israel Deaconess, joined Harvard Medical School in 2003 and was promoted to associate professor in 2013 (confirmed in the 台美人之光 profile record of 2021-05-12).
 
 
 ## Letters and community in the vault
