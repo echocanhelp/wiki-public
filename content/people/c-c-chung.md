@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # C. C. Chung (鍾振乾)
 
@@ -55,3 +55,4 @@ From the community record (our memoirs, primary material):
 - Re-verified 2026-10-08 (deepen-x slice 10060950-1): ZH+EN+cchung grep identical hit set (ourjourneys290, ourjourneys110/-eng, whoswho1394, indexes/backlinks). Saturated, SKIP.
 - Re-verified 2026-10-09 (deepen-x slice 10080400-3): exact-pattern grep 鍾振乾/cchung across works/articles/sources/events/topics returns the identical hit set (ourjourneys290 roster + email, ourjourneys110/-eng President 會長 entry, whoswho1394, works/index + sources hub backlinks) — all absorbed above. Broad 'Chung' grep pulls only other surnames (chih-chung-yang, chia-chun-chung, wen-y-chung, etc.), not this person. Saturated, nothing new absorbable.
 - Re-verified 2026-10-10 (deepen-x slice 10090800-13): 鍾振乾/cchung/振乾 grep across works/articles/sources/events/topics returns the identical hit set — ourjourneys290 (roster: 鍾振乾 Charles Chung, cchung@carollo.com, Tel 925-465-4612), ourjourneys110/-eng (會長 鍾振乾 / 鄧瓊如, 加州聖荷西), whoswho1394, works/index + sources hub backlinks — all already absorbed above. Saturated, SKIP.
+- Re-verified 2026-10-11 (deepen-x slice 10101200-6): 鍾振乾/C. C. Chung/cchung/振乾 grep across works/articles/sources/events/topics returns the identical hit set (ourjourneys290 roster + email, ourjourneys110/-eng 會長 entry, whoswho1394, works/index + sources hub backlinks) — all already absorbed above. Saturated, nothing new absorbable.
