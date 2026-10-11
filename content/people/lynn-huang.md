@@ -227,3 +227,7 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10100401-21: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-21 article 9412105875987041（以立合唱團 Mayfield 校園文化交流, 發文 2024-05-29 / 快照 2025-06-17）read fresh this attempt: 黃令先攜電子鍵盤與小道具隨團伴奏、改編〈Oh My Goodness〉確認見於正文; subject link re-checked, real, no wrong/spurious links; 2024-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100901-4: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-4 article e7e2a1e1a71524ce (以立合唱團世界首演「希望之光」[影音], 發文 2022-12-02): subject link re-checked vs 正文 this attempt, real (作曲、指揮：黃令先 Lynn Huang, L34), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10100901-19: verified 2026-10-11 — wave-2 link+deepen re-check of article 025f6ed990dc9e2c（以立合唱團世界首演「希望之光」影音, 發文 2022-12-02 / 快照 2025-05-24）: subject link re-checked vs 正文 this attempt, real (作曲、指揮：黃令先 Lynn Huang, L32), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10100901-18: verified 2026-10-11 — wave-2 link+deepen re-check of article 8c6aeada16c1e8ba（以立合唱團「致死的震怒近了」, 發文 2023-02-03 / 快照 2024-02-28）: subject link re-checked vs 正文 this attempt（「Pianist 鋼琴：Lynn Huang 黃令先」L33）, real, no wrong/spurious links (吳渭榮／Juneseok Cho／葉健／廖健榮 正文提及但無頁面, 維持純文字不造鏈); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
