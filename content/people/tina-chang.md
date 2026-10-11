@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Tina Chang (張丁蘭)
 
@@ -48,8 +48,9 @@ Blacklisted by the KMT, she was among the overseas Taiwanese who smuggled themse
 
 Beyond the human-rights movement, she served the community in a social-work capacity: she was one of the 顧問 (advisors) of the 北美台灣婦女會 (NATWA) "婦女信箱" advice column in the 台灣公論報 — listed as 「張丁蘭：社工碩士，紐約州心理衛生部工作十二年」 — per the column's 2001 千禧年專刊 collected in [[works/taiwaneseamericanhistory-org/ourjourneys79|TAH #79: 婦女信箱 (2014/12)]]. The 2014 Chinese edition of her FAHR founding account is also preserved as [[works/taiwaneseamericanhistory-org/ourjourneys75|TAH #75 (ZH): 台灣人權協會的開始與現況 / 張丁蘭 / 2014/12]].
 
-She also contributed personal memoir to the corpus: an autobiography 張丁蘭的故事 written 2000-11 ([[works/taiwaneseamericanhistory-org/253-e5-bc-b5-e4-b8-81-e8-98-ad-e7-9a-84-e6-95-85-e4-ba-8b-e5-bc-b5-e4-b8-81-e8-9|TAH #253: 張丁蘭的故事]]) and the essay 力爭上游 / Striving up in the World ([[works/taiwaneseamericanhistory-org/mystories37-eng|TAH #37]]). The community commemorated her after her passing in 2015-09 with the tribute 張丁蘭女士生命的禮讚 ([[works/taiwaneseamericanhistory-org/photo-albums-activities-97|TAH #97: In memory of Mrs. Tina Chang]]). See also her second encyclopedia entry [[works/taiwaneseamericanhistory-org/94-tina-chang-e5-bc-b5-e4-b8-81-e8-98-ad|TAH #94]].
+She also contributed personal memoir to the corpus: an autobiography 張丁蘭的故事 written 2000-11 ([[works/taiwaneseamericanhistory-org/253-e5-bc-b5-e4-b8-81-e8-98-ad-e7-9a-84-e6-95-85-e4-ba-8b-e5-bc-b5-e4-b8-81-e8-9|TAH #253: 張丁蘭的故事]]) and the essay 力爭上游 / Striving up in the World ([[works/taiwaneseamericanhistory-org/mystories37-eng|TAH #37]]; Chinese edition at [[works/taiwaneseamericanhistory-org/mystories37|TAH #37 (ZH): 力爭上游 / 張丁蘭]]). The community commemorated her after her passing in 2015-09 with the tribute 張丁蘭女士生命的禮讚 ([[works/taiwaneseamericanhistory-org/photo-albums-activities-97|TAH #97: In memory of Mrs. Tina Chang]]). See also her second encyclopedia entry [[works/taiwaneseamericanhistory-org/94-tina-chang-e5-bc-b5-e4-b8-81-e8-98-ad|TAH #94]].
 
+Movement-activity record outside FAHR: 陳宏達's account of the 故王康陸秘書長告別式及骨灰佈撒行程 (published 2018/06) records her — addressed as 「丁蘭女士」/「丁蘭姐」 — among the speakers at the memorial gathering at 高雄勞工公園 (「丁蘭女士，相繼上台演説，生動感人，頗受好評」), and later carrying a bag of ashes to scatter on the coastal rocks at her native 宜蘭 during the ash-scattering tour, per [[works/taiwaneseamericanhistory-org/ourjourneys334|TAH #334: 故王康陸秘書長告別式及骨灰佈撒行程記事 / 陳宏達 / 2018/06]]. HOLD: the account does not state whose ashes she carried at 宜蘭; not asserted to be her husband 張燦鍙's.
 
 ## Sources
 - [TAH #64 encyclopedia: 64. Tina Chang 張丁蘭 / The First President of 北美洲台灣人權協會 / 1976](https://taiwaneseamericanhistory.org/64-tina-chang-%e5%bc%b5%e4%b8%81%e8%98%ad-the-first-president-of-%e5%8c%97%e7%be%8e%e6%b4%b2%e5%8f%b0%e7%81%a3%e4%ba%ba%e6%ac%8a%e5%8d%94%e6%9c%83-1976/)
@@ -71,3 +72,5 @@ She also contributed personal memoir to the corpus: an autobiography 張丁蘭�
 **SKIP 2026-09-16 (slice 09160600-2):** re-grep 張丁蘭/Tina Chang returned the identical 6-file hit set (#64, #94, #253, mystories37-eng, ourjourneys75-eng, photo-albums-activities-97) — all already absorbed in Role in the Community; no new material, no conflicts.
 
 **DEEPEN 2026-10-09 (slice 10080951-29):** re-grep 張丁蘭/Tina Chang across works/articles/sources/events/topics (16 hits) surfaced 2 previously-unabsorbed records: ourjourneys79 (NATWA 婦女信箱 advisor roster, 2001 千禧年專刊) and ourjourneys75 (ZH edition of the FAHR founding account) — both absorbed into Role in the Community. Other hits (#64/#94/#253/#37/#97/#210/#230/#329, ourjourneys305 = different person Ya-Hueh Tina Chang Hsieh, whos-who-1762 = 張瑞菊) already covered or held. No new conflicts.
+
+**DEEPEN 2026-10-10 (slice 10100400-5):** re-grep 張丁蘭/Tina Chang/丁蘭 across all 5 corpus dirs (16 hits) surfaced 1 previously-unabsorbed record: ourjourneys334 (陳宏達, 王康陸告別式及骨灰佈撒行程記事, 2018/06) — her as 「丁蘭女士/丁蘭姐」 speaking at the 高雄勞工公園 memorial and scattering ashes at native 宜蘭; absorbed with a HOLD on whose ashes. mystories37 (ZH edition of #37) also noted. Remaining hits all previously absorbed or held. 1 new corpus link.
