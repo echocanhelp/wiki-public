@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Dr. Long Song Simon Lin (林榮松醫師)
 
@@ -90,6 +90,11 @@ Role anchors already on this page's TAH table map to vault pages: [[organization
 - 2022-09-13 — A TJJ notice for the 大洛杉磯台灣會館 24th-anniversary gala identifies 林榮松 as 執行長 and former 董事長 who organized the 2018 rebuilding-fund campaign under then-董事長 田詒鴻 ([[articles/taiwanjustice-net/2022/20220924222953_2022_09_13_10-22大洛杉磯台灣會館-24-週年募款年會_紀政擔任主講_2a543ddc9301b7b3|TJJ, 2022-09-13]]).
 - 2017-02-25 — TJJ's 「林榮松」 tag page (2023-05-30 snapshot) lists his opening address as 大洛杉磯台灣會館董事長 at the 228 七十週年紀念會 (2017-02-25, 洛僑中心) among eleven dated items cred him spanning 2015–2022, including his 2022 statement condemning the 台灣人教會槍擊案 as a hate crime and his 2016 photo essay of the 蔡英文就職典禮 ([[articles/taiwanjustice-net/2023/20230530153327_tag_林榮松_9de57bf0b60501a7|TJJ tag 林榮松, 2023-05-30 存檔]]).
 - 2018-04-18 — TJJ's NATMA tag index credits 「北美洲台灣人醫師協會(NATMA)國際義診 播愛宏都拉斯 ◎林榮松醫師攝影報導 2018-04-18」 — his photo report of NATMA's Honduras medical mission ([[articles/taiwanjustice-net/2021/20211205054918_tag_natma_08b829765b2a5939|TJJ Tag: NATMA, 2021-12-05 存檔]]).
+- 2016-06-12 — 大洛杉磯台灣會館第十屆董事會選出林榮松為新任董事長（第一副董田詒鴻、第二副董陳柏宇等）；報導並回溯 18 年前創會宗旨「服務，和諧，懷鄉」即由當時擔任會長的林榮松提出，他復任董事長時主張加入「回饋」（[[articles/taiwanjustice-net/2023/20230129123056_2016_06_12_台灣會館第十屆董事會選出新任董事長林榮松-_大_77328a2c6454177f|TJJ, 2016-06-12]])——與本頁 執行長/董事長 稱謂旗標相互參照：2016 年後新聞多稱董事長、2020 年報導稱執行長，任期先後不同，維持 HOLD 不自動合併。
+- 2016-06-23 — 以台灣會館董事長身分撰文〈大洛杉磯台灣會館的願景與策略〉：準備 2018 年會館二十週年、接觸主流社會類似團體、推動醫學與園藝講座、栽培新世代台美人（[[articles/taiwanjustice-net/2023/20230326055344_2016_06_23_大洛杉磯台灣會館的願景與策略-_-林榮松台灣會_7f3f3197e4e8e1ca|TJJ, 2016-06-23]]）。
+- 2020-11-19 — 「南加州林榮松僑務諮詢委員獲聘行政院政務顧問」條目見於 TJJ 標籤頁（2020-11-19 列示）（[[articles/taiwanjustice-net/2021/20210127230644_tag_南加州林榮松僑務諮詢委員獲聘行政院政務顧問_46ae004a2dd0f46c|TJJ Tag, 2021-01-27 存檔]]）——僑務諮詢委員身分為本頁先前未載之社區角色。
+- 2021-05-17 — 與大洛杉磯台灣會館等數十社團共同發起「2021年南加州僑界支持台灣參與世界衛生大會 WHA 聯合聲明」，具名共同发起人（[[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ, 2021-05-17 發文]]）——延續其 NATMA 時期 WHO for Taiwan 倡議（見上 TAH #100 條目）。
+- 2026-01-15 — TJJ 選前報導載：在洛杉磯行醫多年的前台灣會館董事長林榮松自 1996 年起每一屆總統選舉都自費回台參與助選，稱「20多年來，沒有流任何一滴血，歷經3次政黨輪替」為民主奇蹟（[[articles/taiwanjustice-net/2026/20260115092020_選前黃金週_僑胞組團回台灣參與造勢_d45d0787bb6508f3|TJJ, 2026-01-15]]）——與本頁 [[works/taiwaneseamericanhistory-org/photo-albums-activities-34|TAH #34 助選相片專輯]] 相互印證。
 - 複核（TJJ-A09221500-6, 2026-09-24）：本 slice 四篇（台美人台加人p354 6f2b431c、NATMA標籤頁 08b82976、拒一國兩制聯合聲明 53455d7e、台美人category p3 1a2bdc08）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 - 覆核（TJJ-A09231000-7, 2026-09-25）：本 slice 文章 9de57bf0（「林榮松」標籤頁, 2023-05-30 存檔）正文再驗證——subject 連結為真，無錯鏈、無虛鏈；2017-02-25 條目（已掛該文 wikilink）已在庫 — SKIP，已飽和。
 
