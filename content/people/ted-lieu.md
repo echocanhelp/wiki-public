@@ -127,6 +127,7 @@ Re-grep 劉雲平 / Ted Lieu across content/works + content/articles returned th
 <!-- TJJ-A10100401-16: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-16 article 097b5750fcf3091a (大洛杉磯台灣會館協調為花蓮震災設捐款帳戶, TJJ 發文 2024-04-04／快照 2024-05-27) read fresh this attempt: 劉雲平（Ted Lieu）列名即時關懷台灣的跨黨派眾議員之一確認見於正文; subject link re-checked, real, no wrong/spurious links; 2024-04-04 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - Corpus re-grep 2026-10-10 (deepen-x slice 10100400-17): fresh grep 劉雲平/Ted Lieu/Lieu across content/works + articles + sources + events + topics returned the same six work pages (台美人募款會 ta-u-s-rep-ted-lieu, census-checkbox #6, events-2020-12, my-stories-787, #4, #155), all already wikilinked under Role in the Community; TJJ 存檔頁 already cited in From the record. No new community facts absorbable; nothing to hold. SKIP-no-new-material.
+<!-- TJJ-A10100501-21: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-21 article afdbd8b27a42563d (洛杉磯台灣會館重建動土, CNA 林宏翰洛杉磯專電 2025-05-04刊/20250518203139快照) read fresh this attempt: subject link 劉雲平 re-checked line-by-line vs 正文 (聯邦眾議員於2025-05-03柔似蜜新館動土典禮致詞, 支持強化台美關係/貿易/國際參與, 支持趙美心避免雙重課稅法案, 「這裡是推廣保存台灣文化最佳場所」), real, no wrong/spurious links; 2025-05-03 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 ## 照片
 
