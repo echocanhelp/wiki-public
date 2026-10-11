@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Dr. Fu-Chen Lo (羅福全博士)
 
@@ -61,6 +61,13 @@ last_reviewed: 2026-10-09
 - **Early organizing meeting:** [[works/taiwaneseamericanhistory-org/ourjourneys65-eng|Our Journeys #65 (eng)]] lists him among 15 attendees (with Charles Ting, Kenjohn Wang, Ming-che Lin, Jen-Tai Tsai and C.C. Yang) at a February 13 meeting — year not stated in the record — that shelved a radio-station plan in favor of building a diplomatic-advocacy organization.
 - **His own writings:** [[works/taiwaneseamericanhistory-org/ourjourneys156|Our Journeys #156 — 公論報停刊感言 (2015-08)]] and [[works/taiwaneseamericanhistory-org/mystories382|My Stories #382 — 回首 (2015-12)]].
 - **Documentary:** [[works/taiwaneseamericanhistory-org/videos95|Videos #95 — 【台灣演義】羅福全之一生 (2017-12-17)]].
+- **Pittsburgh Taiwanese Association co-founder, 1969:** [[works/taiwaneseamericanhistory-org/ourjourneys292|Our Journeys #292]] records that after his Penn doctorate (1968) he joined Consad in New York, was reassigned to Pittsburgh in November 1968, and in 1969 co-founded the Pittsburgh Taiwanese Association (匹茲堡台灣同鄉會) with Huang Dong-sheng, Ke Yao-zong and Ke Chiu-hui. His Penn Avenue house was the association's operating center — including student wedding receptions — until he left for the UN in early 1973. Corroborated by the Yang Yuan-hsun interview cited there and by his memoir [[works/taiwaneseamericanhistory-org/publications635|From Taiwan to the World and Back (2015)]].
+- **Liberty Crusade eastern route:** he led the eastern leg out of Philadelphia, joining Chen Jung-cheng and Lai Wen-hsiung's western sweep in Boston ([[works/taiwaneseamericanhistory-org/ourjourneys234|Our Journeys #234]], [[works/taiwaneseamericanhistory-org/ourjourneys7|Our Journeys #7]]); he and Chou Shih-ming raised the funds for the November 20 New York Times "Self-Help Declaration" (自救宣言) ad. Expands the 1966 UFAI entry above.
+- **1970 Morgantown appearance:** photographed with Peng Ming-min, Chou Shih-ming and Thomas Tsai at a Taiwan independence event in Morgantown, West Virginia — [[works/taiwaneseamericanhistory-org/photo-albums-historical-15|Historical Photo Albums #15]].
+- **Taiwan Tribune founding, 1981:** [[works/taiwaneseamericanhistory-org/ourjourneys63|Our Journeys #63]] — founded July 1981 in Long Island City, NY by the Formosan League for Self-Reliance, with him as founding publisher (發行人) and Hung Cheh-sheng president/editor-in-chief; launched on ~US$120,000 raised from ~2,000 pre-subscriptions, no single patron. [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys #33]] dates the first issue to 1981-07-31 (covering the Chen Wen-chen incident), while [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys #49]] says operations began July 15 — HOLD: July 15 vs July 31 (likely launch vs first issue; not merged). [[works/taiwaneseamericanhistory-org/ourjourneys237|Our Journeys #237]] recalls him as helmsman (主舵) of the paper alongside Formohansa in America's Formosa Weekly.
+- **Congressional advocacy, 1981:** in February 1981 he and the narrator of [[works/taiwaneseamericanhistory-org/ourjourneys59|Our Journeys #59]] called on Rep. Bill Solomon, opening the path to the separate 20,000-per-year U.S. immigration quota for Taiwan, signed into law after Christmas 1981 (effective 1982-01-01).
+- **Public campaigns:** his wife [[people/tah-p-e00ace0a3a|毛清芬]] appeared on advocacy floats as "Taiwan Tribune publisher Lo's wife" — [[works/taiwaneseamericanhistory-org/ourjourneys210|Our Journeys #210]].
+- **His own narrations and biography:** oral-history pieces [[works/taiwaneseamericanhistory-org/ourjourneys57|Our Journeys #57 (2014-11)]] and [[works/taiwaneseamericanhistory-org/ourjourneys62|#62 (2014-11)]]; the biography [[works/taiwaneseamericanhistory-org/publications635|From Taiwan to the World and Back (2015)]]; on his Japan-diplomacy period, [[works/taiwaneseamericanhistory-org/publications467|Publications #467 — 羅福全與台日外交 (2012)]]; 2002 Tokyo photo with the Lu Shu-yi couple — [[works/taiwaneseamericanhistory-org/ourjourneys126|Our Journeys #126]].
 
 ## Sources
 - [TAH #92 encyclopedia: 92. Dr. Fu-Chen Lo 羅福全博士](https://taiwaneseamericanhistory.org/92-dr-fu-chen-lo/)
