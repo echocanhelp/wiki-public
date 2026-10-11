@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Formosan Association for Human Rights
 
@@ -38,6 +38,12 @@ last_reviewed: 2026-10-09
 - **Canada branch:** 台灣人權協會加拿大本部 listed in 黃武東's 台灣人在北美洲 (2016), with the U.S. national office at 7813 Gabacho St., Carlsbad, CA — [[works/taiwaneseamericanhistory-org/ourjourneys266|266. 台灣人在北美洲 (黃武東)]].
 - **New York chapter:** founding member society of the 紐約紐澤西台灣人社團聯合會 (Taiwanese Community Council), alongside 陳文成敎授紀念基金會 and NTA New York — [[works/taiwaneseamericanhistory-org/ourjourneys09|9. 第一聲號角：台灣會館建館委員會的誕生 (黃再添)]].
 - **Officer record:** [[people/michael-s-k-chen||陳希寬 (Michael S. K. Chen)]] served as 會計 (treasurer) of 台灣人權協會 after stepping down as WUFI vice-chair — [[works/taiwaneseamericanhistory-org/ourjourneys33|33. 一家人做伙來打拼 (張炎憲)]].
+- **228 memorial work (joint with TAI):** each 2/28 FAHR and TAI jointly hold a 228 commemorative event — "We can forgive, but we can never forget"; in 2014 (40th anniversary) FAHR joined NTPA, TAA, the Taiwanese Culture Society and TAI in sponsoring the 228 Incident Academic Symposium at Syntek Hall Center, Palo Alto — [[works/taiwaneseamericanhistory-org/ourjourneys37-eng|37 (EN)]].
+- **Formosa passport campaign:** FAHR was one of five organizations (with CTIR, FAPA, TAA and WUFI) that kept the "born on Formosa" passport place-of-birth campaign as a standing item of the joint-organization meetings, following 陳翠玉's earlier lobbying of U.S. legislators — [[works/taiwaneseamericanhistory-org/ourjourneys254|254. 護照出生地「福爾摩沙」運動]].
+- **Houston chapter, program detail (莊承業's memoir):** the chapter issued its "1986–1992活動記錄" on 2005-12-07; core work is the annual 「台灣政治受難者子女獎學金」 (four awardees each for elementary, middle, high school and college, over $3,000/year); signature event was the 1991-02-11 banquet welcoming 「鄭南榕紀念獎」 winner 施明德 and 「台灣人權獎」 winner 陳菊 — [[works/taiwaneseamericanhistory-org/ourjourneys307|307. 休士頓分會活動記錄摘要 (莊承業, 2017-08)]]; companion excerpt [[works/taiwaneseamericanhistory-org/ourjourneys106|106]]. HOLD: this memoir names the scholarship 台灣政治受難者子女獎學金; [[works/taiwaneseamericanhistory-org/projects1-47|TAH #47]] records it as 台灣民主鬥士子女獎學金 — both kept as recorded.
+- **Pittsburgh chapter (許永華's memoir, EN):** before the 1976-08 public drive, 許東龍 (Tung-lung Hsu), president of the Pittsburgh FAHR, had already opened a local Prof. Chen Relief Fund and personally assisted 陳素貞 after her return to Pittsburgh; he died of brain cancer soon after — [[works/taiwaneseamericanhistory-org/ourjourneys321-eng|321 (EN)]].
+- **Organization profiles in the corpus:** TAH #22 全美台灣人權協會 (2015) — [[works/taiwaneseamericanhistory-org/formosan-association-for-human-rights|22. FAHR]]; TAH #43 灣區台灣人權協會 (2016) — [[works/taiwaneseamericanhistory-org/formosan-association-for-human-rights-bay-area|43. FAHR (Bay Area)]]; annual 年會手冊 series (2017) — [[works/taiwaneseamericanhistory-org/annual-journals-of-formosan-association-for-human-rights|Annual Journals of FAHR]].
+- **高雄事件-era publications:** 1177. Repression in Taiwan, FAHR & The Asian Center, 1980-11 — [[works/taiwaneseamericanhistory-org/publications1177|1177. Repression in Taiwan]] (companion to the already-recorded 高雄事件專輯).
 - **Predecessor note:** 加拿大「台灣人權委員會」委員長黃義明 attended the 1965 留美台灣人結盟大會 at Madison, WI — [[works/taiwaneseamericanhistory-org/ourjourneys81|81. 早期(1960〜1970年)威大台灣學生在台灣建國運動所扮演的角色 (周烒明)]]; relationship to the later FAHR Canada branch not stated in corpus.
 
 ## From the record
