@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Tim Chng (莊騰程)
 
@@ -47,6 +47,7 @@ last_reviewed: 2026-10-09
 - 2026-10-06 deepen-x slice 10051340-14: fresh grep across works/articles/sources/events/topics (莊騰程 / Tim Chng / Chng surname) — hit set identical (whoswho1688, open letter, Pew statement, 228 oral-history page, sources index); surname-only sweep found no additional person. Verified-saturated, SKIP.
 - 2026-10-08 deepen-x slice 10070018-4: fresh grep (莊騰程 / Tim Chng) over works/articles/sources/events/topics — full hit set is exactly the six already cited/linked (whoswho1688, works index, Pew statement, 228 oral-history page, open letter, sources page); no articles/events/topics hits, no new person material. The 228-page passage re-read verbatim confirms the Strong Chuang father–son transitional-justice framing already absorbed. Verified-saturated, SKIP.
 - 2026-10-09 deepen-x slice 10080700-13: fresh grep (莊騰程 / Tim Chng / Chng surname) across works/articles/sources/events/topics — hit set identical (whoswho1688, works index, Pew statement, 228 oral-history page, open letter, sources page); passage re-reads confirm all existing claims (ITASA co-founder / 台美大專學生會發起人, TAU管理員, open-letter moderator with Jennifer Lai 賴瑀琤, son of blacklisted Strong Chuang 莊秋雄). No new corpus material. Verified-saturated, SKIP.
+- 2026-10-10 deepen-x slice 10091531-18: fresh grep (莊騰程 / Tim Chng / Chng / 莊 surname) across works/articles/sources/events/topics — hit set identical (whoswho1688, works index, Pew statement, 228 oral-history page, open letter, sources page); whoswho1688 re-read confirms bibliographic-record-only (no absorbable bio text), 228-page passage re-read confirms the Rik Glauert transitional-justice interview framing (Strong Chuang + son Tim Chng) already absorbed. Surname sweep surfaced only distinct persons (Tze-Jer Chuang, Henry Chuang — not this Tim Chng). No new corpus material. Verified-saturated, SKIP.
 
 ## Sources
 - [TAH #1688 encyclopedia: 1688. Tim Chng 莊騰程 / 05/2017](https://taiwaneseamericanhistory.org/whoswho1688/)
