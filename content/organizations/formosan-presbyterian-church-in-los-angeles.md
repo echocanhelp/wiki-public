@@ -12,7 +12,7 @@ tags:
   - diaspora-ministry
   - immigrant-church
 verification_status: published
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Formosan Presbyterian Church in Los Angeles (FPCLA)
 
@@ -32,6 +32,9 @@ last_reviewed: 2026-10-09
 ### Predecessor: Taiyou Church (太陽教會)
 
 Before FPCLA, an experimental church called "Taiyou Church" (太陽教會, "Sun Church") was associated with [[people/jonah-chang||Rev. Jonah Chang (張瑞雄)]] (c. 1967 Japanese Methodist facility context; content priority B). This experiment laid the groundwork for a separate Taiwanese congregation.
+
+In his own oral history, Rev. Chang recalled that during the summers of **1969–1970** he traveled from his United Methodist charge in the Bay Area to Los Angeles and helped organize a Taiwanese-language (台語) congregation there — the church that became FPCLA — located on **W. Olympic Blvd**, where many Taiwanese lived ([[works/taiwaneseamericanhistory-org/our-journeys-350|record 350, Rev. Chang oral history]]). Chang described it as belonging to the Taiwan Presbyterian Church system; his reassignment to the Alameda Japanese UMC charge in August 1971 matches the founding account's end of his involvement.
+- HOLD: church system — Chang's oral history frames the LA congregation as "台灣長老教會系統," while the Albert Lai dissertation account documents its organization under UPCUSA/Presbytery of Los Angeles Southwest. Not auto-merged.
 
 ### Founding Process (1970)
 
