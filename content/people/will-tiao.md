@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Will Tiao (刁毓能)
 
@@ -68,7 +68,9 @@ Fresh corpus pass across works/articles/sources/events/topics surfaced record gr
 - **Premiere, February 2010.** [[works/taiwaneseamerican-org/formosa-betrayed-giving-voice-to-history-via-the-big-screen|Formosa Betrayed: Giving Voice to History via the Big Screen]] describes the LA premiere (~400 guests, James Van Der Beek, Wendy Crewson, John Heard, Tzi Ma, Kenneth Tsang, Leslie Hope; most cast and crew took reduced pay), and [[works/taiwaneseamerican-org/remember-228-celebrate-identity-and-make-history|Remember 228 — Celebrate Identity and Make History]] frames the opening weekend as a community mobilization test — "four years of work by Will Tiao and his team."
 - **2009 ITASA conferences.** At the [[works/taiwaneseamerican-org/itasa-west-coast-and-midwest-conferences-2009|ITASA West Coast and Midwest Conferences (2009)]] Tiao screened clips of the film to second-generation students; attendee Jon Lee's line — "the story of our grandparents, funded by our parents" — is quoted there.
 - **2013 public voice.** In [[works/taiwaneseamerican-org/taiwanese-american-ang-lee-wins-best-director-academy-award-for-life-of-pi|the Ang Lee Oscar-win coverage (2013)]] Tiao posted as executive producer of Formosa Betrayed (2009), congratulating "Taiwan's Ang Lee."
+- **2021 Pew Research response — community signatory.** Tiao signed [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|the Taiwanese American community response to Pew Research Center reports merging "Taiwanese" into "Chinese"]] (2021-05-01), joining a cross-org coalition demanding the Center republish findings with Taiwanese Americans as a separate category — evidence his public voice extended from film into identity-data advocacy two decades into his career.
 - HOLD: development timeline — three years (2006 feature → 2010 premiere, per the premiere write-up), four years (Justin Lin, 2009), five years (earlier vault note). Never auto-merged.
+- HOLD: [[works/taiwaneseamericanhistory-org/our-journeys-351|Our Journeys #351 (Kansas, 1983)]] mentions a "Joe Tiao" (professor, Kansas State Univ.) — surname-only match, not established as a relation to Will Tiao (raised in Manhattan, KS); never merged.
 
 ## Sources
 - [TAH #233 encyclopedia: 233. Will Tiao 刁毓能](https://taiwaneseamericanhistory.org/ota-233/)
