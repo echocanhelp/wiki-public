@@ -8,7 +8,7 @@ tags:
   - tahs-leadership
   - entrepreneur
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Wang Gui-rong (王桂榮)
 
@@ -115,6 +115,9 @@ He left behind two books, including his memoirs published in 1999. His three son
 - 2014 — 林衡哲's Taiwan Center history records that Kenjohn Wang "generously donated the entire train": the Wang family donated its entire 20,000+ sq ft Rosemead property; first preparatory meeting 1998-02-19, Center opened for business 1998-06-12, with 吳澧培 as preparatory-committee convener — corroborated by the 2020 TJJ TASF notice ([[works/taiwaneseamericanhistory-org/ourjourneys29-eng|Our Journeys #29]]).
 - 2016 — 民報 editorial "追憶一個台美人的奮鬥傳奇～王桂榮" commemorating his life ([[works/taiwaneseamericanhistory-org/mystories449|mystories #449, 2016-07]]).
 - 2020-06-16 — A TASF/TJJ press release for the Student Covid-19 Relief Scholarship Program records the late OCAC commissioner (故僑務委員) 王桂榮 (Ken John Wang) as the 愛台灣的 donor whose property gift started the 大洛杉磯台灣會館基金會 in 1998 — the foundation that co-launched the scholarship with TASF and TACL ([[articles/taiwanjustice-net/2020/20200622034426_2020_06_16_給台美人學生的-tasf-covid-19-疫情紓困獎學金接受申請_162effa713237818|TJJ, 2020-06-16]]).
+- 1982-01-10 / 1982-02-13 — Tsai Tron-Rong's memoir of the founding of FAPA records the 15-person Los Angeles meeting that grew out of George Chang's WUFI radio-station initiative: after the radio plan was shelved, the group resolved to form a diplomatic organization. Kenjohn Wang attended as one of the 15, and — described as "President of the Chamber of Commerce" — "was responsible for finances" in the founding formation, alongside Mark Chen (vice-president), Tu Chen (organizing), and consultants Peng Ming-min, Ong Iok-tek, Kuo Yu-hsin, Kuo Rung-chu and Huang Chang-hui. HOLD: this founding-era finance role vs the page's "President of FAPA (1989)" — likely successive roles, not merged ([[works/taiwaneseamericanhistory-org/ourjourneys65-eng|Our Journeys #65, Tsai Tron-Rong memoir]]).
+- 2016-04-22 — Bibliographic record of the 王桂榮台美文教基金會得獎人名單 (TAF laureate list) preserved in the corpus ([[works/taiwaneseamericanhistory-org/winners20|winners20, 2016-04-22]]).
+- 2005-10 — Biography work "一位台美人的奮鬥傳奇／王桂榮" catalogued in the taiwaneseamericanhistory.org corpus, distinct from the 1999 memoir noted above ([[works/taiwaneseamericanhistory-org/3-e4-b8-80-e4-bd-8d-e5-8f-b0-e7-be-8e-e4-ba-ba-e7-9a-84-e5-a5-ae-e9-ac-a5-e5-82-|一位台美人的奮鬥傳奇, 2005-10]]).
 
 ## Network
 
