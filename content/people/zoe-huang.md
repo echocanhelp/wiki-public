@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Zoe Huang (黃瑞芬)
 
@@ -113,3 +113,5 @@ _No filled family fields on the TAH profile._
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20220207200346）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
 <!-- TJJ-A10100601-24: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-24 article bfc5f319a036a339 (黃瑞芬訃聞, taiwanjustice.net, 2022-01-29 刊/2022-05-19 快照): 黃瑞芬 — 本人為訃聞主角，訃聞事實（2022-01-15心肌梗塞過世享年58歲）與1995 TUF LA演出回憶俱見正文 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 覆核（DEEPEN-X10101000-10, 2026-10-11）：全語料 fresh grep（黃瑞芬／Zoe Huang／佐依子，works/articles/sources/events/topics）——唯一未記於本頁之提及為楊子清音樂教室網站轉載訃聞之索引頁 [[articles/taiwanjustice-net/2023/20231208135418_root_9295254ae421b0ad|TJJ 轉載索引, 2023-12-08]]（僅列訃聞標題與連結，無新事實）；其餘 hit（TAH #221/#373、Our Journeys #301 林衡哲會史、兩篇 TJJ 訃聞）皆已吸收於上列各節 — 飽和，無新材料。
