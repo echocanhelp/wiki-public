@@ -8,7 +8,7 @@ tags:
   - Pan-Green-Coalition
   - Taiwanese-American-connection
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Democratic Progressive Party (民主進步黨)
 
@@ -73,6 +73,16 @@ The DPP rejects the so-called "One China principle" as the basis for official di
 The DPP maintains overseas organizations in the United States, including the DPP US West Chapter. [[people/ken-wu||Ken Wu (吳兆峯)]], a Los Angeles-based Taiwanese-American community leader and FAPA Los Angeles chapter president, serves as an executive committee member of the DPP US West Chapter.
 
 The party's democratization history — including the Kaohsiung Incident (1979), the lifting of martial law (1987), the Wild Lily Movement (1990), and the first direct presidential election (1996) — is documented in [[sources/toward-a-community-of-hope||Toward a Community of Hope]] by [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]], whose 1971 dissertation chronicled the founding of [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] and the broader Taiwanese-American church experience. The DPP's current minister of the [[organizations/overseas-community-affairs-council||Overseas Community Affairs Council (OCAC)]] is Hsu Chia-ching (徐佳青). The party's current chairperson is [[people/lai-ching-te||Lai Ching-te (賴清德)]], and its 2024 presidential candidate was [[people/tsai-ingwen||Tsai Ing-wen]].
+
+### Overseas party organization in the record
+
+The corpus documents the DPP's overseas apparatus in the United States as a standing community structure, not merely a chapter footnote. TAHS's own bibliographic record preserves dedicated pages for the [[works/taiwaneseamericanhistory-org/dpp-america-west-chapter|DPP America-West Chapter (民主進步黨美西黨部)]], its [[works/taiwaneseamericanhistory-org/dpp-america-west-chapter-seattle-branch-chapter|Seattle Branch (西雅圖分部)]], the [[works/taiwaneseamericanhistory-org/dpp-silicon-valley|DPP Silicon Valley 矽谷支黨部]], and the [[works/taiwaneseamericanhistory-org/dpp-eastern-us|DPP Eastern US chapter]]. Bay Area community rosters record DPP office-holders drawn from the Taiwanese-American leadership pipeline — 洪順五 as DPP America-West chair, 張富美 as overseas National Assembly delegate, and 陳芳明 as party propaganda director, all listed among alumni of the Northern California Taiwan Union Association ([[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys #37]]).
+
+The founding period is also recorded from this side of the Pacific. On 28 September 1986 the DPP was founded and "台灣開始邁上政黨民主政治之路，海内外台灣同鄉興奮不已"; on 3 February 1987 the DPP's first diplomatic tour arrived in the Bay Area as its first stop, greeted by a joint banquet of the Northern California associations, and on 7 November 1989 the "民主聖火" reached the Bay Area when 黃信介 spoke at UC Berkeley, stirring the democratization wave there ([[works/taiwaneseamericanhistory-org/ourjourneys38|Our Journeys #38]]). The 1987 NATMA medical mission to Taiwan visited the DPP headquarters alongside the KMT, the Legislature, and the Ministry of Foreign Affairs, and — through 陳永興's arrangements — detained dissidents in Tucheng Prison ([[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys #74]]). In mid-November 1988 a FAPA leader secretly returned to Taiwan and lobbied the DPP's Standing Committee into adopting a resolution to promote the "公民投票運動" (one-vote/citizens'-referendum campaign), "在台灣播下公民投票的種子" ([[works/taiwaneseamericanhistory-org/ourjourneys197|Our Journeys #197]]). The Taiwan PEN Club, by its own account, "一直是民進黨及台聯的強力支持者," and in March 2004 fielded a 60-plus-person presidential campaign team back to Taiwan for the DPP ([[works/taiwaneseamericanhistory-org/ourjourneys12|Our Journeys #12]]).
+
+The 16 January 2016 presidential and legislative victory, which made [[people/tsai-ing-wen|Tsai Ing-wen]] Taiwan's first female president, is recorded in the community milestone ledger ([[works/taiwaneseamericanhistory-org/milestones49|Milestone 49]]) and in overseas reporting on Bay Area return-voters — anesthesiologist Simon Lin of Whittier Hospital and other Taiwanese-American delegations attending the DPP's Yuanlin rally in green jackets ([[works/taiwaneseamericanhistory-org/ourjourneys192|Our Journeys #192]]).
+
+HOLD: overseas DPP organizational titles (美西主委 洪順五; overseas 國大代表 張富美; 文宣部主任 陳芳明) are given without dates in [[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys #37]]; treat tenure years as unconfirmed.
 
 ## Factions
 
