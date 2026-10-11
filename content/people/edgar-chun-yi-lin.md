@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Prof. Jun-Yi Lin (林俊義教授)
 
@@ -80,8 +80,18 @@ His own first-person accounts are held in the TAH story corpus, written for the 
 - 2015/02 — [[works/taiwaneseamericanhistory-org/mystories191|191. 初抵美國呷漢堡和乘灰狗巴士99元暢遊全美]] — first arrival in America; the $99 Greyhound trip across the U.S.
 - 2015/03 — [[works/taiwaneseamericanhistory-org/mystories219|219. 非洲大草原的奇遇]] — encounters on the African savanna, companion piece to the Kenya posting.
 - 2015/03 — [[works/taiwaneseamericanhistory-org/mystories214|214. Care for Taiwan by Taiwanese American (台美人顧台灣): 13, 回去效力故鄉]] — his statement of return-to-service, the through-line from the Kenya years to the EPA years.
+- 2014/12 — [[works/taiwaneseamericanhistory-org/mystories166|166. 立足小分子 縱情大宇宙 — 專訪諾貝爾化學獎得主李遠哲]] — his profile-interview of Nobel laureate Li Yuan-Tseh, filed under his byline.
+- 2015/01 — [[works/taiwaneseamericanhistory-org/mystories186|186. 我為什麼要寫回憶錄]] — why he writes his memoir; companion to the 活出淋漓盡致的生命 set.
+- 2015/02 — [[works/taiwaneseamericanhistory-org/mystories196|196. 活出淋漓盡致的生命(人生)]] (English edition: [[works/taiwaneseamericanhistory-org/mystories196-eng|196-eng. A Life Lived to the Fullest]]) — the 人生 installment of his memoir series.
+- 2015/03 — [[works/taiwaneseamericanhistory-org/mystories223|223. 一個台美人在台灣受到的政治迫害]] — political persecution he experienced in Taiwan, first-person.
+- 2015/03 — [[works/taiwaneseamericanhistory-org/mystories224|224. 被列入黑名單]] — being blacklisted; the persecution thread continued.
+- 2015/04 — [[works/taiwaneseamericanhistory-org/mystories240|240. Care for Taiwan by Taiwanese American: 21, 李遠哲旋風]] — 台美人顧台灣 series, the Li Yuan-Tseh episode.
+- 2015/05 — [[works/taiwaneseamericanhistory-org/mystories241|241. 遇見達賴喇嘛]] — his meeting with the Dalai Lama.
+- 2015/05 — [[works/taiwaneseamericanhistory-org/mystories244|244. 林俊義教授一生的故事與思考 / 賴其萬]] — a third-party profile of his life and thinking by Dr. Lai Chi-wan, written for the 台美人顧台灣 series.
 
 These fill gaps the employment table cannot: the 1971 Kenya volunteer year sits before the 1975 Tunghai record, and the cargo-ship departure explains the Indiana/Goshen re-start noted in the 台美史料中心 self-account above.
+
+The 2015/03 pair — 223 政治迫害 and 224 被列入黑名單 — is the movement record this page exists for: the state's response to his environmental and political work, told in his own words, alongside the 1990 立委 campaign defeat recalled in [[works/taiwaneseamericanhistory-org/ourjourneys301|ourjourneys 301]] (TUF invited him to lecture 《環保與台灣文化》 after that loss — the 台美人 community's own response). 244 is 賴其萬's profile of him, not his own writing, and is labelled as such.
 
 <!-- DEEPEN-X10081500-10 (2026-10-10): grep across works/articles/sources/events/topics surfaced five uncited 林俊義 first-person story records (167 Kenya 1971, mystories 187/191/219/214, 2015) — absorbed above with wikilinks. ourjourneys8/53 hits were 林俊提/林俊雄 (other persons), not links. No date/age conflicts introduced. -->
 
