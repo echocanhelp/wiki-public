@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Jason Wu (吳季剛)
 
@@ -68,6 +68,7 @@ last_reviewed: 2026-10-09
 - 上述報導補充的成长背景（本會語料所載，非 TAH Who's Who）：9 歲隨雙親移居加拿大溫哥華，以娃娃為模特兒學縫製、打版與時裝比例素描；14 歲赴日本東京學習雕塑；高中最後一年在法國巴黎就讀時立志成為時裝設計師，之後赴美進入 Parsons。報導並稱之為「New York-based Taiwanese Canadian designer」。HOLD: 本會語料稱其 9 歲移居溫哥華，TAH Who's Who 只載出生地台北，兩者未合載同一遷移年，不予自動併入 Timeline。
 - 語料庫另有 #225 之第二則書目記錄（title「225. Jason Wu 吳季剛」，Era 2019）：[[works/taiwaneseamericanhistory-org/53226|TAH #225 另一記錄頁]]，與上方 mystories225 同號重複，未新增事實。
 - HOLD: 語料庫中另有同名「Jason Wu」——迦南教會教友，對台灣會館（San Jose，2009 年租下二樓 8400 平方呎）不計成本提供裝修（見 [[works/taiwaneseamericanhistory-org/ourjourneys53|Our Journeys 53]] 及 [[works/taiwaneseamericanhistory-org/ourjourneys53-eng|Our Journeys 53 (EN)]]）。該社群事蹟是否即本頁時裝設計師吳季剛，語料未載身份細節，不予合併。
+- 2026-10-11 覆核：以「吳季剛／Jason Wu／吳昆民／陳美雲」全語料五目錄重掃，除本頁已載出處與上述 ourjourneys53 同名者外無新社群事蹟；taiwanjustice-net 數則檢索命中為「雨季剛過」之斷字假性匹配（非人名），非關本頁。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
