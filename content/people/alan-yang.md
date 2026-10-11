@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Alan Yang (楊維榕)
 
@@ -70,6 +70,7 @@ Corpus records place Alan Yang as a touchstone for the Taiwanese American creati
 
 - Corpus re-grep (slice 09230600-5, 2026-09-24): hit set unchanged — own TAH #2253, 虎尾 coverage #353, the four TA.org records (interview-michellekuo, kelvin-yu, best-of-the-best-2020-lists-taiwan, american-born-chinese-disney), works index, and the TJJ manifest entry for the already-absorbed 虎尾 report. All linked above; no new corpus material — SKIP (verified-saturated).
 
+- Corpus re-grep (slice 10100700-5, 2026-10-11): 15-file hit set across all 5 corpus dirs — own TAH #2253, 虎尾 coverage #353, the four TA.org records, works/sources index, TJJ manifest, and the already-absorbed 虎尾 report plus its tag-index pages (Tag: 移民艱辛, Tag: 「虎尾」登上Netflix, Tag: 台裔導演楊維榕) and the 藝文 category page linking 楊維榕. All facts already linked above; tag pages carry the same April 10, 2020 headline, no new material — SKIP (verified-saturated).
 - Corpus re-grep (slice 09221100-23, 2026-09-23): hit set unchanged — own record [[works/taiwaneseamericanhistory-org/whos-who-2253-alan-yang|TAH #2253]], 虎尾 coverage [[works/taiwaneseamericanhistory-org/our-journeys-353|TAH #353]], and the TA.org pages (interview-michellekuo, kelvin-yu, best-of-the-best-2020-lists-taiwan), plus index. All already linked above; no new corpus material — SKIP (verified-saturated).
 
 ## Related Pages
