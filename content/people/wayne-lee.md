@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Wayne Lee (李家瑋)
 
@@ -68,3 +68,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus sweep (slice 10090600-15, 2026-10-10)
 - 本輪全語料 grep（李家瑋／Wayne Lee／李煒鈞／Formosa Quartet／Piedmont Chamber）hit set 與前輪完全一致：#733、#322、juliana-wayne-interview、whoswho1284（同名異人警示仍適用）、index 書目列舉、sources 頁反列——無可吸收之新增語料。狀態：飽和（saturated），僅更新 last_reviewed。
+
+## Corpus sweep (slice 10101400-4, 2026-10-11)
+- 再次全語料 grep（李家瑋／Wayne Lee／李煒鈞／Formosa Quartet／Piedmont Chamber）於五個語料目錄：hit set 仍與前兩輪一致（whoswho1284、index、juliana-wayne-interview、sources/taiwaneseamericanhistory-org、#6 Formosa Quartet）——無新增可吸收語料。狀態：飽和（saturated），僅更新 last_reviewed。
