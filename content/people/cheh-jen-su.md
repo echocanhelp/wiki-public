@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Cheh-Jen Su (蘇哲仁)
 
@@ -64,3 +64,4 @@ _No filled family fields on the TAH profile._
 - 2026-10-06 deepen-x slice 10051200-19: re-verified — fresh grep 蘇哲仁/Cheh-Jen Su plus book-title sweep 預防生理 across works/articles/sources/events/topics returns identical hit set (#5, #292, mystories5, index), all wikilinked; surname-only 蘇哲 sweep in articles/events/topics empty. Verified-saturated; SKIP.
 - 2026-10-08 deepen-x slice 10062248-1: re-verified — fresh grep 蘇哲仁 / Cheh-Jen Su / Cheh Jen Su across works/articles/sources/events/topics returns identical hit set (#5 encyclopedia, #292 book, mystories5, index, sources hub), all wikilinked; hit pages bibliographic-only, no new memoir material. Verified-saturated; SKIP.
 - 2026-10-09 deepen-x slice 10080700-20: re-verified — fresh grep 蘇哲仁/Cheh-Jen Su/Cheh Jen Su across works/articles/sources/events/topics returns identical hit set (#5 encyclopedia, #292 book, mystories5, works index, sources hub), all wikilinked. Sweep of 哲仁 hits are 陳哲仁 (Donald C.J. Chen, different person) — not this subject. Verified-saturated; SKIP.
+- 2026-10-10 deepen-x slice 10091531-29: re-verified — fresh grep 蘇哲仁/Cheh-Jen Su/Cheh Jen Su returns identical hit set (#5, #292, mystories5, index, sources hub), all wikilinked. One new surname-only hit: [[works/taiwaneseamericanhistory-org/ourjourneys212|212. 生活座談會簡史 / 劉天良 / 03/2016]] lists "蘇哲（故）" among the 1968–1974 LA 生活座談会 founders — a deceased two-character 蘇哲, not 蘇哲仁 (alive through 2013, NY/CT career, no LA ties in corpus). Name collision; not absorbed. Verified-saturated; SKIP.
