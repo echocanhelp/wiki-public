@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Joyce Weng (黃娟)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-10-10
 - **1993 — literature speaker at the 15th Formosan Association of Public Affairs/TAAS summer camp** (台美人夏令會, University of Georgia, theme 「迎接台灣的新時代」, per the convention-history record [[works/taiwaneseamericanhistory-org/ourjourneys245|ourjourneys245]]).
 - Personal-network portrait from a Capital District memoir: 翁登山 (Ding-Shan Weng, FDA statistician, later FDA retiree in Maryland) and 黃娟 are recorded as 楊梅客家人, 「很有才華，富有台灣意識的女作家」 with 17 books (楊梅三部曲, 我在異鄉, 媳婦, 世紀的病人, 邂逅 …), 吳濁流文學獎 and 客家終身成就獎 honors, and a 2007-09 invited talk at the 台美文化促進會 annual meeting in Albany — the memoir's author calls the two families 相識半世紀的至交 ([[works/taiwaneseamericanhistory-org/ourjourneys152|ourjourneys152]]). HOLD: this memoir dates an Albany 促進會 lecture to 2007-09 while the ourjourneys311 record of the same 「文學裏的歷史」 lecture series is dated 2017 — two appearances or a date conflict, not merged.
 - Interviewed on her writing life by 楊遠薰: [[works/taiwaneseamericanhistory-org/mystories472|472. 寂寞的文學之旅——訪黃娟談寫作生涯 / 楊遠薰 / 2016-10]] — a first-person account of the literary vocation that underpins her community roles above.
+- Corpus re-grep 2026-10-11 (slice 10101100-23): hit set unchanged except [[works/taiwaneseamericanhistory-org/ourjourneys252-eng|252 (EN). THAA & HAPA-NA / William Wei]], the English-language record of the HAPA-NA founding history whose president roster (1996–1997 Joyce Weng) independently confirms her term alongside ourjourneys290-eng. No new facts; surname HOLD and 2007-vs-2017 lecture-date HOLD stand. Verified saturated.
 - Corpus re-pass 2026-09-21 (deepen-x slice 09210400-3): fresh grep hits are all already-recorded items (her 文學 essays 心懷故鄉/世紀的病人/婚變, the 北美客協 president roster, and the Capital District 傳統週 lecture record — the latter now also held in English as [[works/taiwaneseamericanhistory-org/ourjourneys311-eng|311 (EN). Capital District TAA & Cultural Society]]). No new facts; the surname HOLD above stands.
 - Corpus re-grep 2026-09-22 (deepen-x slice 09212352-9): SKIP — hit set unchanged (own essays 心懷故鄉/世紀的病人/婚變/伴隨著一支筆, ourjourneys290/311/311-eng); nothing new to absorb; surname HOLD stands.
 - Corpus re-grep 2026-09-23 (slice 09221000-8): SKIP — hit set unchanged (her essays 伴隨著一支筆/心懷故鄉/世紀的病人/婚變, ourjourneys252/290/311 +eng); nothing new to absorb; surname HOLD stands.
