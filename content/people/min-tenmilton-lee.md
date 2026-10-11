@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Min Ten Milton Lee (李明典)
 
@@ -72,3 +72,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (2026-10-10, slice 10081300-14)
 - DEEPENED: all-5-dir re-grep (李明典 / Min-Ten / Milton Lee / Ming Lee) surfaced one unabsorbed genuine hit: 863. 台灣崛起-台灣的歷史 (6 DVDs) / 李明典 / 2015 — donated history DVD set, now absorbed with wikilink. Other hits already linked (dr-minten-lee, private-collections-84, whoswho972, videos71/72, publications999); Franklin Fong-Ming Lee / Chong Ming Lee / Milton Stern hits remain false positives, not absorbed. Dr. Ming Lee spelling HOLD maintained.
+
+## Corpus re-grep (2026-10-11, slice 10100900-21)
+- SKIP: all-5-dir re-grep (李明典 / Min-Ten / Milton Lee / Ming Lee) — genuine hit-set unchanged (dr-minten-lee, private-collections-84, whoswho972, videos71/72, publications999, 863), 全數已吸收並 wikilink，無新增社群材料。本輪命中另有 ourjourneys76-eng / whos-who-1780（Franklin Fong-Ming Lee 李豐明）、188（Chong Ming Lee 李聰敏）與 index.md / sources hub 列表頁 — 皆非本人新增材料，不吸收。Dr. Ming Lee 拼寫 HOLD 維持。
