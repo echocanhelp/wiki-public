@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Dr. Long-Rong Mark Kao (高龍榮)
 
@@ -50,6 +50,7 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 - **NCSU 台灣學生會第一任社長** — the North Carolina movement memoir recalls Kao as the first president of the NCSU Taiwanese Student Group during his doctoral studies, in the same circle as 林國慶, 郭倍宏 and 李應元 ([[works/taiwaneseamericanhistory-org/our-journeys-381|Our Journeys — 北卡運動紀事]]).
 - **FAPA 總會長 (2015)** — FAPA's 27-year staff veteran 昆布勞 (Coen Blaauw) counts Kao among the nine FAPA presidents he served under, recalling how each "sacrificed weekends and vacations" lobbying Congress and touring chapters; Kao appears as that year's 總會長 in the 2015 FAPA youth-camp photo ([[works/taiwaneseamericanhistory-org/ourjourneys228|Our Journeys — FAPA 紀事]]). Consistent with his 2015 Taipei Times column written as FAPA president (see From the record).
 - **黑名單三主角之一（黑名單紀實片）** — Christina Hu 紀錄片《黑名單》以賴鴻田、黃Patrick（Patrick Huang）與高龍榮三人為主軸：他們以研究生身分赴美、接觸戒嚴時期禁止的政治文獻，在校園創立台灣學生組織並倡導民主與台灣獨立，因而被中華民國政府列入黑名單、近二十年無法返台探親甚至不能歸弔雙親（[[works/taiwaneseamerican-org/blacklistfilm|Blacklist: A Film by Christina Hu, 2017-02-27]]）。與上文 NCSU 台灣學生會第一任社長記述互補（同一留學世代、同一校園組織脈絡）。
+- **TAH 百科自傳條目（語料庫雙存檔）** — 其 TAH Who's Who 自傳記錄於語料庫存有兩份檔案：2016 年条目 [[works/taiwaneseamericanhistory-org/whos1168|TAH #1168 條目, 2016-07-22]] 與 2018 年傳記專文 [[works/taiwaneseamericanhistory-org/20-dr-long-rong-mark-kao|TAH #20 高龍榮博士傳, 2018-08-08]]（後者為本人傳記之語料庫存檔，與上條新澤西篇互補）。
 - **新澤西台美同鄉會前會長** — the New Jersey community memoir lists Kao, president "back then," as "now New Jersey's most dedicated contributor to Taiwan" ([[works/taiwaneseamericanhistory-org/ourjourneys310|Our Journeys — 新澤西篇]] · [[works/taiwaneseamericanhistory-org/ourjourneys310-eng|English ed.]]); his own TAH encyclopedia record is also archived in-corpus ([[works/taiwaneseamericanhistory-org/whos1168|TAH #1168 profile]]).
 
 ## From the record
