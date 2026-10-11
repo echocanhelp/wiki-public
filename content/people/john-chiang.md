@@ -9,7 +9,7 @@ tags:
   - california
   - state-controller
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # John Chiang (江俊輝)
 
@@ -70,6 +70,7 @@ Chiang also established a political internship program through TACL, opening his
 
 - **1995 — Truman Award.** Chiang was named a recipient of the Democratic Party's Truman Awards for best elected official of the year, an honor preserved in the TAH.org award record ([[works/taiwaneseamericanhistory-org/winners-truman-awards|Truman Awards / 江俊輝 / 1995]]).
 - **2013 — NorCal introduction.** The Taiwanese-American community organized "Meet Taiwanese American State Controller John Chiang in NorCal," an in-person community briefing during his first Controller term ([[works/taiwaneseamerican-org/meet-taiwanese-american-state-controller-john-chiang-in-norcal|NorCal meet-up, 2013]]).
+- **2015 — encyclopedia profile #114.** TAH.org preserves "114. Mr. John Chiang 江俊輝先生 / The highest elected officer in executive branch of CA Government" ([[works/taiwaneseamericanhistory-org/114-mr-john-chiang-e6-b1-9f-e4-bf-8a-e8-bc-9d-e5-85-88-e7-94-9f-the-highest-elec|#114, 2015-12-10]]), documenting his rank as the highest elected Taiwanese American in a state executive branch.
 - **2014 — 黃樹人 interview notes.** While serving as chair of the California State Board of Equalization (加州稅務公平委員會主席), Chiang was profiled in the TAH.org "My Stories" corpus by 黃樹人 ([[works/taiwaneseamericanhistory-org/mystories106|106. 加州稅務公平委員會主席江俊輝專訪筆記, 2014-09-05]]).
 - **2015 — city-diplomacy contact.** During 賴清德's August 2015 U.S. tour, the Tainan mayor called on Chiang in Los Angeles in his capacity as 加州主計長 (State Controller), part of the delegation's meeting with U.S. officials ahead of the U-12 Little League trip ([[articles/taiwanjustice-net/2024/20240520021847_root_35f8d8694390dcf4|TJJ, 2024-05-20 快照]]).
 - **2016 — 台美人挺江俊輝 campaign record.** TAH.org preserves "18. 台美人挺江俊輝參選2018加州州長" ([[works/taiwaneseamericanhistory-org/relatedus18|2016-03-31]]); the community fundraiser for the gubernatorial run is separately dated 2016-06-22 in the TJJ record, listed alongside 楊遠薰's "台美社區的形成(上)" ([[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|TJJ, 2024-04-25 快照]]).
