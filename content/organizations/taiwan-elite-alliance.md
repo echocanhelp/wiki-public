@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Taiwan Elite Alliance
 
@@ -52,6 +52,11 @@ last_reviewed: 2026-10-10
   - TUF 前會長潘掬慧於 77 週年音樂會報導中確認「自二二八 60 週年（2007）迄今，TUF 與優社堅持在 2/28 當晚以音樂會悼念，至今已舉辦 17 屆」，見 [[articles/taiwanjustice-net/2024/20240522044953_root_47725345581e0f61|TJJ 77週年紀念音樂會影音全集]]；此為 17 屆＝2024 之直接佐證，支持上方 HOLD 中 2007/2008 首屆說（仍不自動合併 TAH concerts #3 之 2015 說）。
   - 同場音樂會中社長許正龍另以吟頌演出張秋台客家詩《渡台悲歌》（見上條報導），補充其杜潘芳格詩作吟頌之外的第二項節目。
   - 優社社長許正龍同為台灣茶葉大使：2019-06-29 主讲「知性・品昧・喜悅．台灣烏龍」慶祝台灣烏龍茶銷美 150 週年，見 [[articles/taiwanjustice-net/2019/20190722185234_category_culture_97c86307e14a96f8|TJJ「台灣鄉情與文化」]]；茶推廣為社長個人大使身分，非優社機構活動，特此標註。
+- 2026-10-11 語料深化（slice 10101200-24）：fresh grep（優社／Taiwan Elite Alliance／許正龍）命中多為已收錄紀錄，帶出四項新事實 —
+  - 社長許正龍（Thomas C. Shu）另有個人頁 [[people/thomas-shu|許正龍]]；TAH 紀錄另載其為網站設計及管理（abctea@gmail.com），見 [[works/taiwaneseamericanhistory-org/ourjourneys123|ourjourneys #123]] 與 [[works/taiwaneseamericanhistory-org/114-thomas-shu-e8-a8-b1-e6-ad-a3-e9-be-8d|TAH work #114 Thomas Shu 許正龍]]。
+  - 許正龍為**第一任台灣茶葉大使（2007）**，見 [[works/taiwaneseamericanhistory-org/68-thomas-shu-e8-a8-b1-e6-ad-a3-e9-be-8d-the-first-ambassador-of-taiwan-tea-e7-a|TAH work #68]]；此為上方「台灣茶葉大使」身分之始源紀錄。
+  - 2015-05 許正龍與潘掬慧（Josephine Pan）於萬國節推廣台灣好茶，見 [[works/taiwaneseamericanhistory-org/ourjourneys290|ourjourneys #290]]；潘掬慧亦見於優社連署代表與 TUF 前會長紀錄。
+  - 2023 台美小姐選拔賽許正龍以台灣茶葉大使身分擔任評審，見 [[articles/taiwanjustice-net/2025/20250614233935_2023台美小姐選拔賽_盛大舉行-宋依珊_mimiq-soong_奪后_79b5f26fdef89d22|TJJ 2023台美小姐選拔賽]]；屬社長個人大使活動，非優社機構活動。
 
 ## Related Pages
 
