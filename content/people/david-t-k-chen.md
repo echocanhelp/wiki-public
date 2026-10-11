@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # David T. K. Chen (陳廷楷博士)
 
@@ -51,3 +51,4 @@ last_reviewed: 2026-10-10
 - Re-verified 2026-10-08 (deepen-x slice 10060950-2): fresh ZH+EN grep (陳廷楷 / 廷楷 / David T. K. Chen / David Chen) across works+articles+sources+events+topics returns the identical hit set — record #280, #376 陳立偉 (different person), and the three ambiguous "David Chen" film/teacher records, none of which carry an initial or 漢名 tying them to 陳廷楷 (HOLD stands). No new first-person material. Saturated, SKIP.
 - Re-verified 2026-10-09 (deepen-x slice 10080400-7): fresh grep (陳廷楷 / 廷楷 / David T\. K\. Chen / David Chen) across works+articles+sources+events+topics returns the identical hit set — record #280, #376 陳立偉 (different person), three ambiguous "David Chen" film/teacher records (HOLD stands), plus works/index and sources backlinks. No new absorbable material. Saturated, SKIP.
 - Re-verified 2026-10-10 (deepen-x slice 10090800-18): fresh ZH+EN grep (陳廷楷 / 廷楷 / David T. K. Chen / David Chen) across works+articles+sources+events+topics returns the identical hit set — record #280, #376 陳立偉 (different person), three ambiguous "David Chen" film/teacher records (HOLD stands), plus works/index and sources backlinks. No new first-person material. Saturated, SKIP.
+- Re-verified 2026-10-11 (deepen-x slice 10101204-19): fresh ZH+EN grep (陳廷楷 / 廷楷 / David T. K. Chen / David Chen) across works+articles+sources+events+topics returns the identical hit set — record #280, #376 陳立偉 (different person), three ambiguous "David Chen" film/teacher records (HOLD stands), plus works/index and sources backlinks. No new material. Saturated, SKIP.
