@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Leon Chang (張村樑)
 
@@ -45,6 +45,7 @@ Our memoirs record Chang as a core figure of the Bay Area Taiwanese Christian an
 - Corpus re-verified（deepen-x slice 09160316-1, 2026-09-16）：grep 命中集不變（OJ 350/37/38/106、my-stories-779、TAH #2304）；回憶錄材料全數已吸收，無新增事實。SKIP（無新料）。
 - HOLD: 歷屆北加州聯合會會長名單兩處不一致——[[works/taiwaneseamericanhistory-org/ourjourneys37|OJ 37]] 作「蘇俊雄、彭兩泉、陳都、石清正、張村樑…」，[[works/taiwaneseamericanhistory-org/ourjourneys106|OJ 106]] 作「第一屆陳都、蔡文郁、石清正、陳榮澇、張村樑…」；兩份 memoir 皆列張村樑為會長，惟序次與首任歸屬衝突，不自動合併。
 - Corpus re-verified（deepen-x slice 10081100-23, 2026-10-10）：grep（張村樑 / Leon Chang / 村樑）跨 works+articles+sources+events+topics 命中集不變（OJ 350/37/38/106、my-stories-779、TAH #2304、works index）；新增吸收 OJ 37 副會長同任石清正一事與會長名單衝突之 HOLD，其餘材料皆已吸收。
+- Corpus re-verified（deepen-x slice 10100849-1, 2026-10-11）：grep（張村樑 / Leon Chang / 村樑）跨 works+articles+sources+events+topics 命中集不變（OJ 350、my-stories-779、OJ 37/38/106、本人 TAH #2304 記錄）；OJ 350 中張牧師所述楊家細節（楊維楨為其台中一中同班同學、楊啟東啟蒙楊維哲數學潛能）與 1978 普查委員會社團組成（教會＋協志會＋同鄉聯合會）皆已吸收於上，無新增事實；會長名單 HOLD 維持。
 
 ## Family
 
