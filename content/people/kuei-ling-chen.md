@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Kuei-Ling Chen (陳桂鈴)
 
@@ -94,3 +94,5 @@ _No filled family fields on the TAH profile._
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20211124171104）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
 
 <!-- TJJ-A10100601-29: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-29 article 63257725da30ee94 (FAHR研討會：敗選檢討到迎戰2024, 2023-01-24刊): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10100700-32: verified 2026-10-11 — fresh ZH+EN+surname grep across all 5 corpus dirs (陳桂鈴/Kuei-Ling Chen/桂鈴 + variant 陳桂* sweep): hit set identical to prior passes (our-journeys-382/383, whoswho1378, TJJ 反萊豬/228/FAHR/罷免 articles); surname sweep hits 陳桂蘭/陳桂鈐 only — different persons, not aliases. All works already wikilinked/absorbed — saturated, no new material. -->
