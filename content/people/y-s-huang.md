@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Y. S. Huang (黃炎松)
 
@@ -58,3 +58,4 @@ HOLD: conflict on Chinese name — this page and TAH #1074 say 黃炎松, while 
 <!-- deepen-x 10060958-1 (2026-10-08): fresh ZH+EN+surname (炎松/永勝) grep across all five corpus dirs returns #1962, #1074, OJ#19, index, plus the same taiwanjustice 黃永勝 lecture record — identical hit set; alias sweep (ECAD/Pic Design/Quickturn) adds only publications-1103 (NATPA decade review, no 黃炎松 mention) — verified-saturated, SKIP-with-reason; HOLD stands. -->
 <!-- deepen-x 10080500-22 (2026-10-09): fresh ZH+EN+surname (黃炎松/Y. S. Huang/炎松) grep across all five corpus dirs returns the identical hit set (#1962, #1074, OJ#19, index, sources); alias sweep (ECAD/Pic Design/Quickturn/益華電腦) adds only OJ#19, publications-1103, index, and two taiwanjustice semiconductor articles where 益華電腦 is just Cadence's Chinese name (張忠謀 interview, no 黃炎松 mention) — verified-saturated, SKIP-with-reason; HOLD on 黃炎松 vs 黃永勝 stands. -->
 <!-- deepen-x 10090900-31 (2026-10-10): fresh ZH+EN+surname (黃炎松/Y. S. Huang/炎松) grep across all five corpus dirs returns the identical hit set (#1962, #1074, OJ#19, index, sources); 永勝 sweep adds the same two taiwanjustice 2024 copies of the 2018-09-12 「油脂與人體健康」lecture by 黃永勝博士 (Irvine TCLC 長青教室 — health lecturer, third person) plus MANIFEST/index noise — verified-saturated, SKIP-with-reason; HOLD on 黃炎松 vs 黃永勝 stands. -->
+<!-- deepen-x 10101322-21 (2026-10-11): fresh ZH+EN+surname (黃炎松/Y. S. Huang/炎松) grep across all five corpus dirs returns the identical hit set (#1962, #1074, OJ#19, index, sources); 黃永勝 sweep adds only the same two taiwanjustice health-lecture copies plus MANIFEST/index noise — verified-saturated, SKIP-with-reason; HOLD on 黃炎松 vs 黃永勝 stands. -->
