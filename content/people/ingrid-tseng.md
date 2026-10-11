@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Ingrid Tseng (曾暎貴)
 
@@ -39,6 +39,7 @@ last_reviewed: 2026-10-10
 - Re-verified 2026-10-08 (deepen-x slice 10060950-2): fresh grep (曾暎貴 / Ingrid Tseng / given-name-only 暎貴) across works+articles+sources+events+topics returns exactly the four first-person records already linked above plus the works index — #1434, ourjourneys60 (921震災認養學童計劃組, NATWA提包, 2000/08 臺美論壇 with 婉如基金會), ourjourneys161 (婦女信箱 1995–1996 主筆), and the 2018 台大護理系校友抗議公開信. Saturated, SKIP.
 - Re-verified 2026-10-09 (deepen-x slice 10080400-9): fresh grep (曾暎貴 / Ingrid Tseng / 暎貴) across works+articles+sources+events+topics returns the identical hit set — whoswho1434, ourjourneys60, ourjourneys161, the 2018 抗議公開信, plus works index and sources stub. No new first-person material; all four records already wikilinked. Saturated, no edit beyond this note.
 - Re-verified 2026-10-10 (deepen-x slice 10090800-20): fresh grep (Ingrid / 暎貴) across all five corpus dirs — the only first-person hits remain the four linked records; every other "Ingrid" belongs to other people (Ingrid Chun 郭雋音 whoswho118/222, Ingrid Ho in ourjourneys223 lantern notes, Ingrid Lunden as author of my-stories-772) and must NOT be merged here. One new corroboration absorbed: the English NATWA history (ourjourneys60-eng) records her as "Ingrid Liu" under the married name, same 921/NATWA-bag/2000臺美論壇 facts — linked above.
+- Re-verified 2026-10-11 (deepen-x slice 10101204-17): fresh grep (曾暎貴 / Ingrid Tseng / 暎貴) across works+articles+sources+events+topics returns the identical hit set — whoswho1434, ourjourneys60, ourjourneys161, the 2018 台大護理系校友抗議公開信, plus works index and sources stub. No new first-person material; all four records already wikilinked. Saturated, no edit beyond this note.
 
 ## Family
 
