@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Si Zhi Chen (陳泗治)
 
@@ -74,7 +74,7 @@ Note: the on-page narrative ("25 years" at Tamkang) and the employment table (19
 - Community hub: [[sources/taiwaneseamericanhistory-org-story-corpus|TAH story corpus hub]]
 - Vault Cross-check (deepen pass 2026-09-10):
   - Concert record: [[works/taiwaneseamericanhistory-org/concerts36|舊情綿綿憶淡水 — 陳泗治作曲發表暨洪榮宏演唱會]], presented by the 南加州淡江中學校友會 at Anaheim 基督長老教會, Artesia, CA, 1998-09-19 — his alma-mater network (淡江中學) kept performing his works in the US.
-  - Personal memoir: [[works/taiwaneseamericanhistory-org/mystories40|感懷陳泗治牧師 / 徐玫玲]] — remembers him as a 牧師 (minister), consistent with his theological training at 台灣神學院.
+  - Personal memoir: [[works/taiwaneseamericanhistory-org/mystories40|感懷陳泗治牧師 / 徐玫玲]] (published 2014-09-05) — remembers him as a 牧師 (minister), consistent with his theological training at 台灣神學院.
   - Performance history: [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]] records his pieces on the LA 台灣文化之夜 stages — pianist [[people/gwhyneth-chen|陳毓襄 (Gwhyneth Chen)]] played two of his works (1991) and [[people/fang-yuh-rita-chen|陳芳玉 (Fang-Yuh Rita Chen)]] played 「龍舞與回憶」.
   - The composer quoted on-page ("a master of all masters") is [[people/chuang-shien-lu|呂泉生 (Chuang-Shien Lu)]], who has his own vault page.
 
@@ -86,6 +86,8 @@ Note: the on-page narrative ("25 years" at Tamkang) and the employment table (19
 - [[works/taiwaneseamericanhistory-org/sc-tamkang-high-school-alumni-association||南加州淡江中學校友會]] — the 淡江中學 alumni body that kept performing his works in the US
 
 Deepen-x pass 2026-09-14 (slice 09140107-1, vault-only): tah-tables (教育 台灣神學院 1930–1934; 校長 淡江中學 1952–1954, 純德女子學校 1955–1980; 啟師 entry truncated in source table) already absorbed into Timeline above; no new vault facts found, no web used, no new pages created.
+
+Deepen-x pass 2026-10-11 (slice 10100849-15, vault-only): full-corpus re-grep (陳泗治/Si Zhi Chen/泗治, 11 hits across works/articles/sources) — every hit already linked on-page; added publication date 2014-09-05 to the 徐玫玲 memoir link. No new material beyond that; 龍舞 grep surfaced only unrelated 舞龍舞獅 mentions. No web, no new pages.
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 
