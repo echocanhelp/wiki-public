@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Sharon S. Hsu (許聖美)
 
@@ -62,3 +62,4 @@ last_reviewed: 2026-10-10
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 複核（deepen-x slice 09260700-10, 2026-09-27）: fresh ZH+EN re-grep works/+articles/ hit set identical to absorbed records — SKIP (verified-saturated), no new corpus material.
 - 複核（deepen-x slice 10090500-11, 2026-10-10）: fresh grep across works/articles/sources/events/topics — hit set unchanged (own TAH #36/#42/#165/#263, Our Journeys 264, works index, all already linked). The taiwanjustice-net hits are a different person 許聖梅 (variant spelling, not 許聖美) — not a match. SKIP (verified-saturated), nothing new to absorb.
+- 深化（deepen-x slice 10101300-16, 2026-10-11）: fresh grep surfaced two records not previously linked, both about her husband rather than Sharon herself — [[works/taiwaneseamericanhistory-org/whos-who-262-chung-chen-hsu|262. Chung Chen (Paul) Hsu 許忠政]] (TAH Who's Who 262, his own 2015 record) and [[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys 123]], which records 許氏人蔘總裁許忠政 being invited by 華人學術聯誼會 to lecture on 《三十年經營理念與養生之道》. Consistent with the couple's joint enterprise record above; no new Sharon-specific material. Verified-saturated for Sharon.
