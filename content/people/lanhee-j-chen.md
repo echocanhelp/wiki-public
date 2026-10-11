@@ -109,3 +109,5 @@ last_reviewed: 2026-10-09
 ![20241108164259_wp-content_uploads_2024_11_川普當選美國總統_史丹佛大學胡佛研究](../images/people--lanhee-j-chen.jpg)
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20241108164259）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+
+<!-- TJJ-A10100401-6: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-6 article d94cecddadd6f167 (史丹佛論壇分享防疫 陳建仁：台灣模式貴在透明, 2020-05-07): subject link re-checked vs 正文 this attempt — 「胡佛研究所研究員暨國內政策研究主任陳仁宜博士（Lanhee Chen）」確認見於正文, real, no wrong/spurious links; 2020-05-07 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
