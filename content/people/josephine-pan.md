@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Josephine Pan (潘掬慧)
 
@@ -52,6 +52,7 @@ last_reviewed: 2026-10-09
 
 - **2011 — 台灣茶大使（ITASA 2011 Midwest Conference）** — 與夫 [[people/thomas-shu|Thomas Shu 許正龍]] 以「ambassadors of Taiwan tea」身分在 [[organizations/taiwanese-american-students-association-of-northwestern-university|Northwestern]] 舉行的 ITASA 2011 Midwest Conference 上受 [[organizations/taiwaneseamerican-org|TaiwaneseAmerican.org]] Esther Hou 專訪；兩人皆出身新竹（東方美人/Formosa Champagne Oolong 產地），透過茶藝工作坊與台灣參訪團向各年齡層推廣台灣茶文化（[[works/taiwaneseamerican-org/ambassadors-of-taiwan-tea|TaiwaneseAmerican.org「Ambassadors of Taiwan Tea」]]）。
 - **2013-05 — 萬國節推廣台灣好茶** — 與台灣茶大使許正龍同赴明尼蘇達州雙城萬國節（Minnesota State Fair）台灣攤位推廣台灣好茶，見於明州台美人百年大事紀（[[works/taiwaneseamericanhistory-org/ourjourneys123|TAH #123 明州台美人百年大事, 曾啟明, 2015-03]]）。
+- **2020-02-28 — 228 紀念音樂會主辦人（疫情照常舉行）** — 自 2007 年起由台灣優社與 [[organizations/taiwanese-united-fund|台灣人聯合基金會（TUF）]] 每年 2 月 28 日舉辦紀念音樂會；2020 年受武漢肺炎疫情影響一度考慮停辦（「晚上都睡不好」），潘掬慧諮詢醫師與專家意見後決定做好防疫照常進行：與志工逐一擦拭教堂座椅、備妥消毒酒精與口罩，近百名鄉親齊聚 Arcadia 社區教會悼念 73 年前 228 受難者並為疫情祈福，許正龍以客語吟唱詩歌（中央社洛杉磯 2020-03-01 電，經 TJJ 保存於 [[articles/taiwanjustice-net/2025/20250430234000_洛杉磯僑胞細心防疫_-228台灣介心靈日音樂會不間_2589c86787ef4241|TJJ, 2025-04-30]]）。
 - **2021-05 — Taiwan Elite Alliance 連署署名** — 以 [[organizations/taiwan-elite-alliance|Taiwan Elite Alliance]] 名義署名反 Pew Research 掩蓋台灣認同連署「We made it count. Now tell our stories.」（[[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|TaiwaneseAmerican.org 連署聲明, 2021-05-01]]）。
 - **2022-02-24 — 228 75周年 Podcast 與談** — 與 Wei-Wei Chang、Michi Fu、Tsuann Kuo 同場，以不同背景與世代的台灣人女性身分分享各自與228的個人經驗與社會影響觀點（[[works/taiwaneseamerican-org/remembering-the-228-massacre-readings-resources-on-taiwans-white-terror-era|TaiwaneseAmerican.org「Remembering the 228 Massacre」, 2022-02-24]]；同場與談人見 [[people/prof-michi-fu|Michi Fu]]、[[people/tsuann-kuo|Tsuann Kuo]]）。
 
