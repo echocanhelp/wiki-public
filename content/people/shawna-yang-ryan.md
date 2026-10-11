@@ -91,6 +91,8 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 
 ## From the record
 
+<!-- TJJ-A10100601-16: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-16 article 15fc4a3e5664504e (2016-12-09 Shawna Yang Ryan Washington Post op-ed 轉載, TJJ ?p=99540 / 20240721112815 快照) read fresh this attempt: subject link re-checked vs 正文 — 本文作者即Ryan本人（《Green Island》作者、三年級訪母親「Where were you born?」開篇、「1949 起算即第二次消音」論述確認見於正文）, real, no wrong/spurious links; 2016-12-09 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 - 複核（TJJ-A09251400-6, 2026-09-26）：本 slice 文章 5b6cede86851b2ba（游朝凱創意寫作獎報導）正文再驗證——楊小娜列名首屆評委確認見於正文，連結為真，無錯鏈、無虛鏈；2021-02-11 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 複核（TJJ-A09240800-9, 2026-09-25）：本 slice 文章 5b6cede86851b2ba（游朝凱設立創意寫作獎報導）正文再驗證——楊小娜列名首屆評委確認見於正文，連結為真，無錯鏈、無虛鏈；2021-02-11 條目（含該文 wikilink）已在庫 — SKIP，無新材料。
