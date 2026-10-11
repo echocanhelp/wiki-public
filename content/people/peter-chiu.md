@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Peter Chiu (邱勝宗)
 
@@ -84,6 +84,7 @@ last_reviewed: 2026-10-09
 
 - 複核 2026-09-23（DEEPEN-X slice 09220900-3 重跑，前次 run stale-lock 回收）：fresh ZH+EN corpus re-grep（content/works content/articles）hit set 與 2026-09-22 完全一致，全部命中已連結於本頁；無新回憶錄、社團或報導材料可吸收 — verified-saturated。
 - 2026-10-09 深化（DEEPEN-X10081000-18）：fresh ZH+EN grep 於 2024 年快照中發現 3 筆先前未連結之同講座紀錄並已補入 From the record — 台灣會館原公告（24747a60e81dd89a）、「園藝講座」標籤頁（c9acc5b2b0de608a）、台灣會館分類頁（9cad85f51f52e417）。原公告補出 2017-09-20 預告署名「Sadako與Peter Chiu」與講座內容細節。無新回憶錄或社團材料；無衝突需 HOLD。
+- 複核 2026-10-11（DEEPEN-X10100500-25）：fresh ZH+EN grep（邱勝宗/Peter Chiu/勝宗）遍佈 works/articles/sources/events/topics — 命中集與歷輪完全一致（ourjourneys244 兼職經理記載、ourjourneys283 同鄉會負責人、whos-who-2246、TJJ 園藝/會館/追思會/訃聞/連署紀錄），全部已連結於本頁；works/index.md 與 sources 頁僅為索引用途。無新回憶錄、社團或報導材料可吸收 — verified-saturated。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
