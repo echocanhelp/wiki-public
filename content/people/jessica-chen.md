@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Jessica Chen (陳英惠)
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-10-10
 - Re-run 2026-10-08 (slice 10060950-4): ZH+EN+英惠 grep — identical hit set again (#328, #1257 陳品蓁, Jessica Cheng guest-contributor pieces, works/index). No 陳英惠 community/memoir trace anywhere in corpus. Verified-saturated, SKIP-with-reason.
 - Re-run 2026-10-09 (slice 10080400-27): full ZH+EN+英惠 grep -rl across works/articles/sources/events/topics — identical hit set (#328 bibliographic, #1257 陳品蓁 distinct, Jessica Cheng guest-contributor pieces distinct, works/index, plus the known taiwaneseamerican-org Ecomax/Hult PR mentions). No 陳英惠 community/memoir trace. Verified-saturated, SKIP-with-reason.
 - Re-run 2026-10-10 (slice 10090900-25): full ZH+EN+英惠 grep -rl across works/articles/sources/events/topics — identical hit set (#328 bibliographic, #1257 陳品蓁 distinct, works/index, Jessica Cheng guest-contributor pieces distinct, Ecomax/Hult PR mentions). No 陳英惠 community/memoir trace anywhere in corpus. Verified-saturated, SKIP-with-reason.
+- Re-run 2026-10-11 (slice 10101300-17): full ZH+EN+英惠 grep -rl across works/articles/sources/events/topics — identical hit set (#328 bibliographic, #1257 陳品蓁 distinct, works/index, Jessica Cheng guest-contributor pieces distinct, Ecomax/Hult PR mentions). No 陳英惠 community/memoir trace anywhere in corpus. Verified-saturated, SKIP-with-reason.
