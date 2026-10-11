@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Miaw Shang Su Lin (林蘇妙香)
 
@@ -71,3 +71,4 @@ Corpus re-check 2026-09-22 (deepen-x slice 09220400-28) and again 2026-09-23 (sl
 <!-- TJJ-A10090501-16: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-16 article b7327dcf888cee82 (台美史料中心 March 2021 Newsletter, TJJ 2021-02-28): all 5 subject links (yung-hwa-hsu / adrian-lin / kin-ko / miaw-shang-su-lin / edgar-chun-yi-lin) re-checked vs 正文 this attempt — 許永華撰由陳文成紀念基金會創立談起、Ken Lee「不怕死的病西施」蘇妙香與林宣緒婚事、柯金寅緬懷楊國雄、林俊義活出淋漓盡致的生命自述 — all real mentions, no wrong/spurious links; dated facts w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100501-22: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-22 article b7327dcf888cee82 (台美史料中心 March 2021 Newsletter, TJJ 2021-02-28): subject link re-checked vs 正文 this attempt (Ken Lee「不怕死的病西施」記 "I Miaw Shang Su" 婚事), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+- Corpus re-sweep 2026-10-11 (deepen-x slice 10101204-8): fresh grep 林蘇妙香/Miaw Shang/蘇妙香/病西施 across all 5 corpus dirs returned 9 files — ff290, video37, whoswho1107, mystories72 (+eng), works index, two TJJ March-2021-newsletter snapshots, sources index — all already linked on this page; no new memoir/community material. Verified-saturated SKIP-deepen.
