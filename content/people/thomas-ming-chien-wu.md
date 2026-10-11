@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Thomas Ming-Chien Wu (吳明杰)
 
@@ -77,3 +77,7 @@ Deepen pass 2026-09-14 (早期注記): cited vault records were bibliographic st
 ## Corpus re-check (slice 10081300-24, 2026-10-10)
 - 再次以「吳明杰 / Thomas Ming-Chien Wu / Ming-Chieh Wu / 明杰」遍搜五個 corpus 目錄，命中集合與 0915 輪完全相同：TAH #327、#801、#157（ff157）、TAH #16（回台任教屏東大學）、Our Journeys 29，均已連結並吸收於上列章節，無新素材可吸收。
 - 同名排除再確認：[[articles/taiwanjustice-net/2024/20240721111210_root_01acab92f6a50d18|2024-07-21 台灣正義網報導]] 之攝影記者「吳明杰」為同名台灣記者（該報導另有記者張忠義），非本頁人物，不合併。
+
+## Corpus re-check (slice 10101000-8, 2026-10-11)
+- 以「吳明杰 / Thomas Ming-Chien Wu / Thomas Ming-Chieh Wu / Ming-Chien Wu」遍搜五個 corpus 目錄，命中集合與 0915、1010 兩輪完全相同：TAH #327、#801、#157（ff157）、TAH #16（回台任教屏東大學）、Our Journeys 29（外加 works/index.md 之索引收錄），均已連結並吸收於上列章節，無新素材可吸收。
+- 本輪維持 0 新增連結；同名記者排除仍成立。
