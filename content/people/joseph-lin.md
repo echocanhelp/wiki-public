@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Joseph Lin (林以信)
 
@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 10060958-1 (2026-10-08): fresh ZH+EN grep across works/articles/sources/events/topics returns #299/#650, winners31, #1236 林永青 HOLD, works+sources index — identical hit set; alias sweep (Juilliard/朱利亞/弦樂四重奏) hits (ourjourneys339, ff13, ourjourneys123) contain no 林以信/Joseph Lin mention — verified-saturated, SKIP-with-reason. -->
 <!-- deepen-x 10080500-21 (2026-10-09): fresh ZH+EN+alias grep (林以信/Joseph Lin/Juilliard) — name hits unchanged (#299/#650, winners31, #1236 林永青 HOLD, indexes); new Juilliard-alias hits (juliana-wayne-interview, michelle-young-the-art-spy, taiwanjustice music columns) all concern other musicians, zero 林以信 mentions — verified-saturated, SKIP-with-nothing-absorbable. -->
 <!-- deepen-x 10091316-1 (2026-10-10): fresh ZH+EN+alias grep across works/articles/sources/events/topics — name hit set unchanged (#299/#650, winners31, #1236 林永青 HOLD, works+sources index); Juilliard-alias sweep hits (William Hurt profile, Yo-Yo Ma/Leonard Rose column, Nadia Boulanger column) all concern other persons, zero 林以信 mentions — verified-saturated, SKIP-with-nothing-absorbable. -->
+<!-- deepen-x 10101322-23 (2026-10-11): fresh ZH+EN grep across all 5 corpus dirs — 林以信 hit set unchanged (#299/#650, winners31, #1236 林永青 HOLD, works+sources index); two new articles/ hits (taiwanjustice-net 大稻埕的蔣渭水 columns, 2021+2025) contain only 林永青 mentions, zero 林以信 — verified-saturated, SKIP-with-nothing-absorbable. -->
