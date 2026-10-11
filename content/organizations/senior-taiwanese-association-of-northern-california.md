@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Senior Taiwanese Association of Northern California (北加州台灣長輩會)
 
@@ -38,6 +38,7 @@ Absorbed 2026-09-14 from the movement record (our memoirs, not press-kit):
 - **HOLD: founding-date corroboration** — two internal records count back to **1981**: the 20th-anniversary special issue [[works/taiwaneseamericanhistory-org/799-e5-8c-97-e5-8a-a0-e5-b7-9e-e5-8f-b0-e7-81-a3-e9-95-b7-e8-bc-a9-e6-9c-83-e4-b||799. 北加州台灣長輩會二十週年紀念特刊 (2002/01)]] and 陳文雄's "三十五年" framing in 2016, both consistent with the 1981 incorporation rather than the 1978/1979 informal 老人會 stage noted above.
 - Full vault footprint of the association's own publications: 長輩的生活智慧 series volumes 1–8 — [[works/taiwaneseamericanhistory-org/334-e9-95-b7-e8-bc-a9-e7-9a-84-e7-94-9f-e6-b4-bb-e6-99-ba-e6-85-a7-1995-e5-8c-97|1995 第一輯]], [[works/taiwaneseamericanhistory-org/335-e9-95-b7-e8-bc-a9-e7-9a-84-e7-94-9f-e6-b4-bb-e6-99-ba-e6-85-a7-e7-ac-ac-e4-b|1996 第二輯]], [[works/taiwaneseamericanhistory-org/336-e9-95-b7-e8-bc-a9-e7-9a-84-e7-94-9f-e6-b4-bb-e6-99-ba-e6-85-a7-e7-ac-ac-e4-b|1999 第三輯]], [[works/taiwaneseamericanhistory-org/337-e9-95-b7-e8-bc-a9-e7-9a-84-e7-94-9f-e6-b4-bb-e6-99-ba-e6-85-a7-e7-ac-ac-e5-9|2002 第四輯]], [[works/taiwaneseamericanhistory-org/338-e9-95-b7-e8-bc-a9-e7-9a-84-e7-94-9f-e6-b4-bb-e6-99-ba-e6-85-a7-e7-ac-ac-e4-b|2005 第五輯]], [[works/taiwaneseamericanhistory-org/339-e9-95-b7-e8-bc-a9-e7-9a-84-e7-94-9f-e6-b4-bb-e6-99-ba-e6-85-a7-e7-ac-ac-e5-8|2008 第六輯]], [[works/taiwaneseamericanhistory-org/340-e9-95-b7-e8-bc-a9-e7-9a-84-e7-94-9f-e6-b4-bb-e6-99-ba-e6-85-a7-e7-ac-ac-e4-b|2010 第七輯]], [[works/taiwaneseamericanhistory-org/341-e9-95-b7-e8-bc-a9-e7-9a-84-e7-94-9f-e6-b4-bb-e6-99-ba-e6-85-a7-e7-ac-ac-e5-8|2010 第八輯]] — plus health titles [[works/taiwaneseamericanhistory-org/342-e5-af-a6-e7-94-a8-e8-87-aa-e6-88-91-e5-81-a5-e5-ba-b7-e7-85-a7-e8-ad-b7-e6-8||342. 長輩的身體健康 (2009)]] and [[works/taiwaneseamericanhistory-org/343-e5-af-a6-e7-94-a8-e8-87-aa-e6-88-91-e5-81-a5-e5-ba-b7-e7-85-a7-e8-ad-b7-e6-8||343. 實用自我健康照護手冊 (2009)]].
 - Peer record: the sister org in LA has its own activity record at [[works/taiwaneseamericanhistory-org/2-activities-of-taiwanese-america-seniors-association-of-southern-california||2. Activities of Taiwanese-America Seniors Association of Southern California]].
+- First-person participation memoir: 陳桂蘭's 2017 recollection of taking part in the association's life — [[works/taiwaneseamericanhistory-org/mystories530||530. 參與北加州長輩會的片段 / 陳桂蘭 / 03/2017]] (bibliographic record; full text in vault). 陳桂蘭 is otherwise known in the corpus as the NATWA 點心擔 column editor (see [[people/sue-chiu|Sue Chiu]] / [[people/mei-lu|Mei Lu]] pages); no separate person page exists for her.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/senior-taiwanese-association-of-northern-california/)
