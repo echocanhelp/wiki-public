@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Elena Ling (黃美惠)
 
@@ -64,6 +64,7 @@ Vice President of International Federation of Business and Professional Women, T
 - 複核（deepen-x slice-09201300-6, 2026-09-21）：re-grep 命中集不變（ourjourneys321、60、321-eng、8、our-journeys-379、58）— 全部已於 Role in the Community 吸收。SKIP-no-new-material。
 - 複核（deepen-x slice-09211300-6, 2026-09-22）：re-grep 命中集不變（ourjourneys321、60、321-eng、8、our-journeys-379、58）— 全部已吸收。SKIP-no-new-material。
 - 複核（deepen-x slice-09220700-3, 2026-09-22）：re-grep 命中集不變（ourjourneys321、60、321-eng、8、our-journeys-379、58）— 全部已於 Role in the Community 吸收。SKIP-no-new-material。
+- 複核（deepen-x slice 10100500-18, 2026-10-11）：re-grep 黃美惠|Elena Ling 命中 ourjourneys321、60、321-eng、8、our-journeys-379、58、245、whos-who-2249、ourjourneys60-eng、pew 聲明、TJJ 2018 連署、TJJ 鑽石公主號標籤頁 — 命中集與前輪相同且全部已於上列吸收（含英文版與索引頁之重複命中）；無新增材料。SKIP-no-new-material。
 
 ## 照片
 
