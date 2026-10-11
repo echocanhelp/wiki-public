@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Alexander K. Young (楊慶安教授)
 
@@ -72,3 +72,4 @@ last_reviewed: 2026-10-10
 - Corpus re-grep 2026-09-22 (slice 09212352-4): hit set fully linked, no new absorbable material.
 - Corpus re-grep 2026-09-23 (slice 09221000-5): hit set unchanged (all 6 records linked); fresh read of ourjourneys12 absorbed the 筆會 founding membership structure and Young's漢英日 memoir 《為台灣發聲的回憶錄》.
 - Corpus re-grep 2026-09-24 (slice 09230500-1): hit set unchanged (409 / ourjourneys12 / mystories257 / photo-albums-activities-88 / 220 / publications420 all linked); no new absorbable material.
+- Corpus re-grep 2026-10-11 (slice 10101000-13): hit set unchanged; sole additional grep match is whos-who-2286-andy-hwang (黃慶安 / Dr. Andy Hwang) — substring collision on 慶安, different person, not linkable to this page. No new absorbable material; page saturated.
