@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Orange County Taiwanese Association
 
@@ -53,8 +53,15 @@ OCTA（柑縣台灣同鄉會，南加州）是橙縣歷史悠久的台美人同�
 - 社團場地：金桔會、合唱團、舞蹈社定期於 TAH 台美史料中心活動；歷任會長見語料：廖光男（創會）、王健椎（紀念文稱「前加州柑縣台灣同鄉會會長王健椎博士」）（[[articles/taiwanjustice-net/2026/20260121010227_斯人已逝_其德可追-緬懷鄭寶鼎博士-_-林宏容_9907500dda4f33bb|緬懷鄭寶鼎博士文]]）。
 - HOLD: 社區獎學金主办方用字 — TAH #5 記錄作「TACL 共同辦理」；鄭寶鼎紀念文作「台美公民協會（TACS）主辦、柑縣台灣同鄉會協辦，2005–2014 共 10 年，歷經陳立明、黃河芬、許新民等會長」。兩缩写未確認為同一組織，勿逕行合併。
 
+- **2001–2018** — OCTA 雜誌／會訊系列藏於 TAH：「美國加州柑縣台灣同鄉會」雜誌橫跨 2001–2018 多期（[[works/taiwaneseamericanhistory-org/publications562|TAH #562 雜誌系列]]）。
+- **2021-05-17** — 「2021 年南加州僑界支持台灣參與世界衛生大會 WHA 聯合聲明」共同發起單位之一（[[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|聯合聲明存檔]]）。
+- 社團領導語料：TAI M. CHIU 自述曾任 OCTA 董事（同文自述亦曾任 TACL-TAP 獎學金主席、NATMA 終身會員）（[[works/taiwaneseamerican-org/healthy-living-and-eating|健康生活與飲食專文]]、[[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew 台美人聲明]]）。
+
 ## Corpus re-grep note (2026-09-18, slice 09180131-19)
 - Deepened: 新增 TAH #21 壘球文物、OCTA 組織記錄頁、taiwanjustice 語料（2020 口罩團購、2021 WHA 車隊遊行、2022 健行、2024 228 聯合社團、鄭寶鼎紀念文之內會史）；既有 TAH 連結全數保留。
+
+## Corpus re-grep note (2026-10-11, slice 10100600-23)
+- Deepened: 新增 TAH #562 雜誌系列（2001–2018）、2021-05-17 WHA 聯合聲明共同發起單位、TAI M. CHIU OCTA 董事自述語料；既有連結全數保留。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
