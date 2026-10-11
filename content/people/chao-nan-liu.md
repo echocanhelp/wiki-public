@@ -104,3 +104,5 @@ last_reviewed: 2026-10-11
 ![20230222173548_wp-content_uploads_2020_10_劉照男與夫人張秀美-100x70_p](../images/people--chao-nan-liu.png)
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20230222173548）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+
+<!-- TJJ-A10100801-15: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-15 article c48e08c7f2c3bf8d (Covid-19 浩劫餘生錄分類頁, 2020-11-20 存檔): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
