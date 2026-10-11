@@ -141,6 +141,7 @@ Pages that link to **lisa-su** (lisa-su):
 - 2022-12-06 — 台積電鳳凰城廠移機典禮同事件另存快照版本：[[articles/taiwanjustice-net/2025/20250212064417_apple-amd及qualcomm承諾下單台積電亞利桑那州廠_蘋果將是最_f0f53cfde5892a33|TJJ 轉載中央社報導, 快照 2025-02-12]]（與上列既有條目同事件，補掛存檔鏈）。
 
 <!-- TJJ-A10090901-7: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-7 article 4779b4e7bc06941e（蘇姿丰獲美半導體協會大獎報導, 2026-01-21 快照, 正文含 2020-09-21 Noyce 獎報導＋2020-08-07 WSJ 特寫兩節）read fresh this attempt: 本頁 subject 連結 re-checked vs 正文（報導主角）, real, 無錯鏈、無虛鏈; 2020-09-21 Noyce 條目已在庫, 2020-08-07 特寫條目本次補入 — deepened, 1 new dated fact. -->
+<!-- TJJ-A10100901-1: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-1 article 4779b4e7bc06941e (蘇姿丰獲美半導體協會大獎 張忠謀後華裔第2人, 2026-01-21 快照, 正文含 2020-09-21 Noyce 獎報導＋2020-08-07 WSJ 特寫兩節) read fresh this attempt: subject links re-checked vs 正文, real (報導主角; lisa-su/dr-lisa-su 雙頁並存維持為既定分工), 無錯鏈、無虛鏈; 2020-09-21 Noyce 條目與 2020-08-07 特寫條目皆已在庫 w/ 本文 wikilink — saturated, no new material. 正文另提及蘇春槐（人頁已另掛 2020-08-07 條目）、盧超群與張忠謀（無獨立人頁, 暫不建鏈）與史賓林特（無關連他人）. -->
 
 ## 照片
 
