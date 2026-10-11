@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Dr. Peter Huang (黃勝雄醫師)
 
@@ -67,6 +67,7 @@ last_reviewed: 2026-10-09
 ### 「Peter Huang」同名辨析（slice 10080951-30 深讀新增，2026-10-09）
 - **語料庫中「Peter Huang」≠ 本頁黃勝雄醫師之記錄**：[[works/taiwaneseamericanhistory-org/milestones14|TAH #14「4/24/1970 Peter Huang 黃文雄 紐約刺蔣案」]]、[[works/taiwaneseamericanhistory-org/468-peter-huang-e9-bb-83-e6-96-87-e9-9b-84-201506|TAH #468「Peter Huang 黃文雄」/2015-06]] 與 [[works/taiwaneseamericanhistory-org/ourjourneys310-eng|Our Journeys #310（英文版）「a foreign student named Peter Huang had attempted to assassinate Chiang Ching-kuo」]] 三筆所指皆為英文名同為 Peter Huang 的**黃文雄**（[[people/wenhsiung-luke-huang|黃文雄]]），漢名「黃文雄」與本頁「黃勝雄」有別。
 - 上述三頁 Subjects 欄指回本頁之連結屬英文名衝突所致之誤掛；本頁黃勝雄醫師與 1970 刺蔣案無關，此辨析為社群記錄之必要正名，非本頁事實衝突（故不列 HOLD）。
+- **「黃勝雄」同名辨析（資安領域，2026-10-10 新增）**：[[articles/taiwanjustice-net/2025/20250815054650_中國駭客頭號目標台灣_台專家_須準備應對_戰_84569c7396f9c2fc|TJJ VOA 中國網攻報導, 2025-08-15 快照]] 所述「台北的台灣網路資訊中心（TWNIC）董事長黃勝雄」為資安專家、就台灣網攻「新常態」與供應鏈防禦發表評論者——**非本頁神經外科黃勝雄醫師**；該文如掛本頁 subject 連結屬同名誤掛，正名記錄於此，非本頁事實衝突。
 
 ## Community Context（deepen pass 2026-09-14）
 履歷（皆本頁既有事實，僅補連結）：1967 年臺北醫學院醫學士；後赴約翰霍普金斯大學取得醫療政策與衛生政策兩個碩士 —— 與當地台美人學生圈子相連：[[organizations/johns-hopkins-university-taiwanese-student-association||JHU Taiwanese Student Association]]。1984–1996 年任 Delaware Medical Center 神經外科主任（德拉瓦州台美人社團：[[organizations/taiwanese-association-of-america-delaware||TAA Delaware]]）；1993–2015 年任門諾醫院（Mennonite Christian Hospital，花蓮）院長，為台美人醫界投入鄉土的典範 —— 同類組織：[[organizations/north-american-taiwanese-medical-association-foundation||NAMTA Foundation]]。
