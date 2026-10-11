@@ -123,3 +123,4 @@ last_reviewed: 2026-10-10
 ![20240828151830_wp-content_uploads_2016_09_楊黃美幸_jpg_807708563](../images/people--maysing-huang.jpg)
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20240828151830）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+<!-- TJJ-A10100501-26: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-26 article 5f12408ab340f912 (曾為裴洛西募款餐會獻唱·音樂劇演員楊呈偉返台, 2022-08-08 刊／2025-10-16 快照) read fresh this attempt: 楊黃美幸以「前無任所大使楊黃美幸之子」楊呈偉之母身分見於正文，subject link re-checked, real, no wrong/spurious links; 2022-08-08 dated fact w/ 雙檔 wikilink already in From the record — saturated, no new material. -->
