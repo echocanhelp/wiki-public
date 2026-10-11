@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Chao-Nan Liu (劉照男)
 
@@ -80,6 +80,7 @@ last_reviewed: 2026-10-09
 - 2015-07 — essay 「這世間值得居留，因為有你們!」（[[works/taiwaneseamericanhistory-org/mystories306|306. 這世間值得居留，因為有你們!]]）。
 - 2015-07 — account of the 美東夏令會返鄉之夢（[[works/taiwaneseamericanhistory-org/ourjourneys153|153. 美東夏令會的返鄉之夢]]，value band A）— companion piece to his 159 觀感.
 - 2021-05 — autobiography 「山中燈火入夢來」（[[works/taiwaneseamericanhistory-org/publications1358|1358. 山中燈火入夢來／自傳]]）。
+- 2015-09-19 — his own TAH Who's Who profile is published as record 617（[[works/taiwaneseamericanhistory-org/whos-chao-nan-liu|617. Chao-Nan Liu 劉照男]]）。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
