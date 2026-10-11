@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. David Tsay (蔡丁財博士)
 
@@ -63,3 +63,4 @@ last_reviewed: 2026-10-10
 - 複核 2026-09-24 (DEEPEN-X slice 09230400-2): fresh ZH+EN corpus re-grep (content/works content/articles) hit set identical to prior check; all hits already linked on this page; no new memoir or club material absorbable. verified-saturated.
 - 複核 2026-09-25 (DEEPEN-X slice 09240317-1): fresh ZH+EN re-grep（蔡丁財 / David Tsay）hit set identical（ourjourneys69/-eng、ourjourneys233/-eng、whoswho2113、whos-who-2160、86-dr-david-tsay、pew 連署 HOLD、index）；全數已吸收。verified-saturated.
 - 複核 2026-10-10 (DEEPEN-X slice 10081500-30): fresh ZH+EN re-grep（蔡丁財 / David Tsay）跨 works/articles/sources/events/topics — hit set identical（ourjourneys69/-eng、ourjourneys233/-eng、whoswho2113、whos-who-2160、86-dr-david-tsay、pew 連署 HOLD、index）； surname-only 'Tsay' 命中皆為其他 Tsay 家族成員（andy/ruey-s/kuen-shii/jeffrey/shu-yuan/susan），非此人。全數已吸收。verified-saturated.
+- 複核 2026-10-11 (DEEPEN-X slice 10101200-29): fresh ZH+EN+surname re-grep（蔡丁財 / David Tsay / 丁財）跨 works/articles/sources/events/topics — hit set identical to 10-10 check（ourjourneys69/-eng、ourjourneys233/-eng、whoswho2113、whos-who-2160、86-dr-david-tsay、pew 連署 HOLD、index、sources/taiwaneseamericanhistory-org）；surname-only 'Tsay' 命中皆為他人（Jonathan Tsay 蔡宇明 #375、Jeff J Tsay #257、Andy Tsay 蔡安達 #205、In-Wen Tsay 陳其迈2020連署標題），非此人。全數已吸收。verified-saturated.
