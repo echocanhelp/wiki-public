@@ -8,7 +8,7 @@ tags:
   - human-rights
   - FAHR
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # 梅心怡 (Lynn Alan Miles)
 
@@ -16,7 +16,7 @@ last_reviewed: 2026-10-10
 - **English:** Lynn Alan Miles (also Lynn Miles)
 - **Chinese:** 梅心怡
 - **Core roles:** human-rights activist; English-language spokesperson for the 1986 台灣民主黨 founding effort
-- **Died:** 2014 (間皮癌; FAHR ran a community fundraiser that year)
+- **Died:** 2014 per snapshot (間皮癌; FAHR ran a community fundraiser that year); 2015-06 per the 2016-02-27 stele article's 「去年六月」 — HOLD, see Role in the Community
 - **Sources:** TAH story corpus #228, #810, photo album #81; FAHR records
 
 ## Role in the Community
@@ -49,6 +49,8 @@ Re-verified 2026-09-23 (slice 09221200-11): fresh ZH+EN grep of works/ + article
 Re-verified 2026-09-24 (slice 09230600-23): fresh ZH+EN grep of works/ + articles/ returned the identical hit set (TAH #228, #810, #378, #363, photo album #81, works index) — all already linked and absorbed above; verified-saturated, no new absorbable facts.
 
 Re-verified 2026-09-25 (slice 09240600-14): fresh ZH+EN grep of works/ + articles/ returned the identical hit set (TAH #228, #810, #378, #363, photo album #81, works index) — all already linked and absorbed above; SKIP-with-reason: verified-saturated, no new absorbable facts.
+
+Re-verified 2026-10-11 (slice 10101100-4): fresh ZH+EN grep across works/ + articles/ + sources/ + events/ + topics/ returned the identical hit set — all already linked and absorbed; no new absorbable facts. Reconciled the Died field to carry the 2014-vs-2015-06 HOLD explicitly.
 <!-- deepen-x slice 09250900-4 re-verify 2026-09-25: fresh ZH+EN grep of works+articles — hit set identical to prior passes, all facts incl. HOLDs already absorbed; SKIP-with-reason: verified-saturated, no new absorbable facts -->
 <!-- TJJ-A10060900-2: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060900-2 — article 5b7741741c30e771 (「梅心怡」標籤頁, 2024-07-24 快照)（標籤主題即本人）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
