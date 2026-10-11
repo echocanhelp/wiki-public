@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dou-Hwei Su Liu (劉蘇多惠)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-10-08 (slice 10062334-2): fresh ZH+EN grep (劉蘇多惠 / Dou-Hwei / Su-Liu) across works/articles/sources/events/topics returns the identical hit set (894/893 社團篇・革命篇, mystories24, ourjourneys181, #665, index), all already absorbed+wikilinked above. Verified-saturated; SKIP-no-new-facts.
 - Corpus re-grep 2026-10-09 (slice 10080500-6): fresh ZH+EN grep across works/articles/sources/events/topics returns the identical hit set (894/893 社團篇・革命篇, mystories24, ourjourneys181, #665, index), all already absorbed+wikilinked above. Verified-saturated; SKIP-no-new-facts.
 - Corpus re-grep 2026-10-10 (slice 10090900-6): fresh ZH+EN grep (劉蘇多惠 / Dou-Hwei / Su-Liu / Su, Dou-Hwei) across works/articles/sources/events/topics returns the identical hit set (894/893 社團篇・革命篇, mystories24, ourjourneys181, #665, index), all already absorbed+wikilinked above. Verified-saturated; SKIP-no-new-facts.
+- Corpus re-grep 2026-10-11 (slice 10101200-2): fresh ZH+EN grep (劉蘇多惠 / Dou-Hwei / Su-Liu) across works/articles/sources/events/topics returns the identical hit set (894/893 社團篇・革命篇, mystories24, ourjourneys181, #665, index), all already absorbed+wikilinked above. Verified-saturated; SKIP-no-new-facts.
