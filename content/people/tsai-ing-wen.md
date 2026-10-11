@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 name_en: "Tsai Ing-wen"
 ---
 # Tsai Ing-wen (蔡英文)
@@ -36,6 +36,12 @@ name_en: "Tsai Ing-wen"
 - **WHO exclusion noted in diaspora record:** the Our Journeys record attributes Taiwan's non-invitation to the World Health Assembly since 2017 to Beijing's pressure after Tsai's election [[works/taiwaneseamericanhistory-org/our-journeys-360|360]].
 - Corpus re-grep 2026-09-22 (slice 09211123-2, via alias stub [[people/cai-yingwen]]): content/works hits videos47, ourjourneys320, our-journeys-378, ourjourneys290, 12-26, 4-president-tsai — all now wikilinked.
 - Corpus re-grep 2026-10-09 (slice 10080949-9): fresh ZH+EN sweep of content/works|articles|sources|events|topics — new primary/community records journey-149, videos39, videos46, important2016-21, ourjourneys228, ourjourneys216, mystories445, artifacts-83, footsteps-21, our-journeys-383, our-journeys-360 absorbed and wikilinked above.
+- **Diaspora support organizations formed around her candidacies:** Friends of Tsai 海外蔡英文後援會 (2014) [[works/taiwaneseamericanhistory-org/friends-of-tsai|friends-of-tsai]], 全球台灣客家蔡英文後援會 (2015) [[works/taiwaneseamericanhistory-org/12-33|12-33]], and the TAH project record of diaspora support across the 2012 and 2016 presidential elections [[works/taiwaneseamericanhistory-org/proj-10-7|proj-10-7]] — her campaigns are institutionalized in our own movement's organizational history, not just press coverage.
+- **2016 election in diaspora reportage:** LA Times report on 台美人回台投票, with Kenneth Wang of the Friends of Tsai Overseas cheering candidate Tsai's campaign Jeep in Lukang/Yuanlin — "Seventy years — it's been a long struggle" ([[works/taiwaneseamericanhistory-org/ourjourneys192|192, 2016-01-13]]); the inauguration celebration in Taipei (2016-05-23) is held as a photo album [[works/taiwaneseamericanhistory-org/photo-albums-activities-116|activities-116]], and the Hakka-1 limousine that carried presidential candidate Tsai (owned by 林敬賢) is kept as a movement artifact [[works/taiwaneseamericanhistory-org/ff293|ff293]].
+- **US transits as president, further records:** Houston and San Francisco stops, 2017-01-09/14, in the TAH record [[works/taiwaneseamericanhistory-org/2017-1|2017-1]]; US Secretary of State's congratulation to President Tsai, 05/2020 [[works/taiwaneseamericanhistory-org/events2020-7|events2020-7]].
+- **2022 全美會回台參訪 — audience at the Presidential Office:** twenty members of the Taiwanese Association of America (founded 1971, the largest overseas diaspora org) were received by President Tsai in the 圓形大廳 on 2022-10-26 with 僑委會童振源 accompanying — she thanked them for decades of overseas diplomatic work and sat down to answer 同鄉會長 questions directly ([[works/taiwaneseamericanhistory-org/our-journeys-382|382, 11/2022]]).
+- **Midwest institutional memory:** the Midwest 同鄉會 timeline periodization counts 2016 as the year "蔡英文撿到槍" restored DPP power after 2008 ([[works/taiwaneseamericanhistory-org/our-journeys-376|376]]); 大紐約台灣會館 records that Tsai, as president and candidate, left records there alongside 陳水扁、呂秀蓮、謝長廷、蘇貞昌、游錫堃 across their rises ([[works/taiwaneseamericanhistory-org/ourjourneys304|304]]); 陳良博 (中研院院士, 蔡英文宇昌案的重要人物) appears in 蕭孟能's 新潮文庫 memoir [[works/taiwaneseamericanhistory-org/ourjourneys70|70]].
+- Corpus re-grep 2026-10-10 (slice 10091531-9): fresh ZH+EN sweep of content/works|articles|sources|events|topics — new community records friends-of-tsai, 12-33, proj-10-7, ourjourneys192, photo-albums-activities-116, ff293, 2017-1, events2020-7, our-journeys-382, our-journeys-376, ourjourneys304, ourjourneys70 absorbed and wikilinked above. No date/age conflicts found to HOLD.
 
 ## Source Notes
 
