@@ -120,3 +120,5 @@ Tsan-hung George Chang 張燦鍙 – History of Taiwanese American (T.A. Archive
 <!-- TJJ-A10090601-1: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-1 article cbf185d4e8137928 (一顆難以忘懷的台灣心, 廖清山 2017-09-19): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100501-1: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-1 article cbf185d4e8137928 (一顆難以忘懷的台灣心, 廖清山 2017-09-19): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10100901-26: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-26 article 996879ac7a006acf（全美台灣人權協會第44屆年會暨鄭南榕紀念獎頒獎, 發文 2020-11-25 / Wayback 快照 2021-01-18）: 張燦鍙 link re-checked line-by-line vs 正文 this attempt — 名列 1992 年得獎人清單（L28）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

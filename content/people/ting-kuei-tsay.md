@@ -77,3 +77,5 @@ last_reviewed: 2026-10-10
 <!-- TJJ-A10070700-18: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-18 articles a20fb275（刺蔣案策劃者登記總統連署, 2023-09-18）/ f6ed9463（2013-04-12 核四表決公督盟名單）/ 996879ac（FAHR第44屆年會暨鄭南榕紀念獎頒獎, 2020-11-25）/ 0258611f（520就職報導, 2024-05-19）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- DEEPEN-X10090500-19: deepened 2026-10-10 — fresh grep (蔡丁貴/蔡丁贵/Ting-kuei Tsay) across works/articles/sources/events/topics. New absorb: 2014-06-01 大洛杉磯台灣會館「318 學潮與公投聯盟的互動報告」演講（tag 頁 db2e7784）+ 2019-05-15「政經關不了」標題提及（HOLD: title-only）. 其餘 hits 已在庫. -->
+
+<!-- TJJ-A10100901-26: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-26 article 996879ac7a006acf（全美台灣人權協會第44屆年會暨鄭南榕紀念獎頒獎, 發文 2020-11-25 / Wayback 快照 2021-01-18）: 蔡丁貴 link re-checked vs 正文 this attempt — 名列 2014 年得獎人清單, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
