@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Irene Lee (李智惠)
 
@@ -56,3 +56,4 @@ Irene Lee, is a composer, soprano, performer, and voice teacher. She attended Ma
 
 - Re-check (slice 09251417-2, 2026-09-26): re-grep hit set unchanged (ourjourneys43, ourjourneys162 + EN, whoswho1110, musician47, Pew statement, index), all absorbed, no new community material. SKIP-with-reason.
 - Re-check (slice 10081200-19, 2026-10-10): re-grep hit set unchanged (ourjourneys43, ourjourneys162 + EN, whoswho1110, musician47, Pew statement, index, source page), all previously absorbed. New: brother-in-law 陳重光醫師 cross-linked to his TAH profile [[people/richard-chen]] + whoswho 1100, with the same-person conflict held (profile = NY engineer b.1945; SD vice-chair 醫師 unverified — not merged).
+- Re-check (slice 10100849-30, 2026-10-11): 李智惠|Irene Lee grep across all 5 corpus dirs returned the known absorbed hit set (ourjourneys43, ourjourneys162 + EN, whoswho1110, musician47, index) plus four substring-only hits (ourjourneys153, our-journeys-378, our-journeys-357, mystories461) that matched 智惠 inside other names (莊智惠/呂智惠/杜智惠) — verified false positives, no new community material. SKIP-with-reason; page remains saturated.
