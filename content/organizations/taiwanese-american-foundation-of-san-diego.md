@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # [[organizations/taiwan-american-foundation||Taiwanese American Foundation]] of San Diego
 
@@ -41,6 +41,9 @@ last_reviewed: 2026-10-10
 - Founding memory: 楊禮朱 recalls the first formal meeting of the Taiwan Center / 台美基金會 in 1998, with the original signature list of participating 同鄉 — 陳秋山 among the names still without grey hair; 潘富鵬 insisted 「中華民國這四個字可不要出現在台灣中心」 — [[works/taiwaneseamericanhistory-org/ourjourneys337|337. 致我們過去的青春-憶台灣中心台美基金會1998 / 楊禮朱]].
 - 聖地牙哥台灣中心 opened 1997-02-28 after fundraising led by first chairman 陳秋山博士, with 潘富鵬博士 as center director — see [[people/dr-chiu-shan-chen|陳秋山]] and [[works/taiwaneseamericanhistory-org/ourjourneys26|26. 聖地牙哥台灣中心的前半生與轉型 / 黃正源]]. HOLD: opening date 1997-02-28 (黃正源 memoir / 會館紀事) vs 楊禮朱's memory of 「1998頭一次正式會議」 in work 337 — meeting vs opening may differ; not merged.
 - HOLD: naming conflict — this page lists 聖地牙哥台灣中心 as the Chinese name; the TAH directory work 72 lists 聖地牙哥台美基金會. Not auto-merged (may be related but distinct entities). The video-184 record treats San Diego Taiwan Center and the TA Foundation of San Diego as a joint leadership role, consistent with the two names operating as one institution; the 2018 anniversary record and YAM 季刊 likewise carry both names jointly.
+- Naming precedence anecdote (2026-10-11 re-pass): in 楊禮朱's 337 memoir, the LA contact 王桂榮 complained 「San Diego 怎可以比他們早用台美基金會這名稱」 — San Diego adopted the 台美基金會 name before the Los Angeles chapter did. Places the name dispute within the 1998 first-formal-meeting period recalled in work 337.
+- Separate TAH bibliographic record for the center itself: [[works/taiwaneseamericanhistory-org/san-diego-taiwan-community-center|San Diego Taiwan Community Center 聖地牙哥台灣中心]] (2014-10-12, band B) — companion record to work 7 above.
+- Note on generic 台美基金會 records: the corpus also holds 「台美基金會」 quarterly/yearbook records (works 784, 785, 786, 787, 1986–1999) and a 2001 science/engineering award memoir (work 428, 何汝諧). These are NOT attributed to the San Diego chapter here — the 台美基金會 name was used by several chapters (LA, Boston, Seattle) and the records do not specify San Diego; work 785 (1995 頒獎特刊) also predates the San Diego opening.
 
 ## Sources
 - [TAH directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-foundation-of-san-diego/)
