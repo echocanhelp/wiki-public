@@ -165,3 +165,5 @@ Fresh ZH+EN grep (李淑櫻 / Nami Yang / Nami Lee) across works/articles/source
 - [[works/taiwaneseamericanhistory-org/ourjourneys231-eng|TAH ourjourneys #231 (EN)]] is credited "Source from Nami Yang 李淑櫻" (posted 2020-12) — the English catalog record of ourjourneys #231 already linked above.
 - Catalog note: [[works/taiwaneseamericanhistory-org/661-unforgettable-nami-yang-11-2018|TAH #661 "Unforgettable" (11/2018)]] is the English catalog page of 無法忘懷 (mystories/51032), already linked.
 - No conflicting dates found — no HOLD. New facts (1976 arrival in US; 新藝畫會會長) come from the cited 太平洋時報 bio in the 2023 forum report.
+
+<!-- TJJ-A10100601-11: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-11 article 20240724234326_root_cd2062fe6528223c (台灣之美‧亞洲之心國際巡迴展LA展報導, TJJ 2017-03-14刊/2024-07-24快照) read fresh this attempt: subject link re-checked vs 正文 — 本篇圖/文作者、自述TUF現任理事兼藝展組成員、新藝畫會會員受邀名單（李淑櫻、洪逸凡、劉白、蔡蕙香、陳文石）均確認見於正文; link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
