@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. B. C. Wen (溫碧謙醫師)
 
@@ -58,3 +58,4 @@ last_reviewed: 2026-10-10
 - **複核（deepen-x slice 09170130-5, 2026-09-17）：** re-grep（溫碧謙 / B. C. Wen）命中集合不變 — #1461、OTA #293、MBC養生功法專欄 #119、Our Journeys #101（蹲姿問答細節已吸收）、加 harvest index，全數已 wikilink。SKIP-no-new-material.
 - **複核（deepen-x slice 09170500-2, 2026-09-17）：** re-grep（溫碧謙 / 温碧谦 / B. C. Wen）命中集合不變 — #1461、OTA #293、#119、OJ #101、加 harvest index，全數已 wikilink 於上。SKIP-no-new-material.
 - **複核（deepen-x slice 10090600-1, 2026-10-10）：** re-grep（溫碧謙 / B. C. Wen / 温碧谦 / 變體 B.C. Wen、溫碧、Wen, B）命中集合不變 — #1461、OTA #293、MBC養生功法專欄 #119、Our Journeys #101、加 harvest index，全數已 wikilink 於上。SKIP-no-new-material.
+- **複核（deepen-x slice 10101322-20, 2026-10-11）：** re-grep（溫碧謙 / 温碧谦 / B. C. Wen / BC Wen / 溫碧）於五個 corpus 目錄，命中集合不變 — #1461、OTA #293、MBC養生功法專欄 #119、Our Journeys #101（蹲姿問答細節已吸收）、加 harvest index 與 source 頁，全數已 wikilink 於上。SKIP-no-new-material.
