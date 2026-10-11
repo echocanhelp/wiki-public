@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Li–Fa Xie (謝里法)
 
@@ -40,6 +40,7 @@ last_reviewed: 2026-10-09
 - **Cultural presence at overseas gatherings** — headliner alongside 陳永興、陳芳明、呂秀蓮 at the first 《台灣文化之夜》 in Los Angeles, May 1986 (500+ attendees; seeded 太平洋時報) ([[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys 301, 南加州台灣人聯合基金會]]); at the 1985 美東南夏令會 remembered as 文質彬彬, artist through and through — the anecdote of him pen-editing a 「TAIWAN,R.O.C」 T-shirt into 「ROOT」 to everyone's laughter ([[works/taiwaneseamericanhistory-org/our-journeys-379|Our Journeys 379, 十年東南夏令憶感]]).
 - Community action in the movement record: a 謝里法 oil-painting charity sale funded the Houston Taiwanese community center — 楊朝諄、李席舟、李雅彥 purchased works, raising 九千元 with half going to the 會館 ([[works/taiwaneseamericanhistory-org/ourjourneys233|233. 回顧休士頓台灣人活動中心的成立 / 莊承業 / 2016-07]]).
 - 2026-09-24 re-check (DEEPEN-X slice 09230700-4): corpus re-grep widened the hit set — NEW facts absorbed this pass: essay 130 重塑台灣的心靈, 巴黎大獎/巴黎文教基金會 (Our Journeys 284), 台灣文藝沙龍 1975 co-founding (Our Journeys 70), 台灣文化之夜 1986 (Our Journeys 301), 1985 夏令會 ROOT anecdote (Our Journeys 379). Prior verified-saturated status superseded.
+- 2026-10-11 re-check (DEEPEN-X slice 10100500-24): full-corpus re-grep (謝里法/Li-Fa Xie/Li-fa Hsieh) — hit set unchanged, all 15 corpus records already linked above. The sole new hit (taiwanjustice.net 2024 article) is a false positive: 「玉里法國爸爸」 substring match, not this person. Verified saturated.
 
 ## Family
 

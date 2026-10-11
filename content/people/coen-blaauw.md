@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Coen Blaauw (昆布勞)
 
@@ -64,6 +64,7 @@ For more information, please click link :My Stories >>>464. 爲何我在FAPA ? /
 - 台灣公義報為其設有「昆布勞（Coen Blaauw）」專屬標籤頁（2023-05-30 快照），彙整歷年報導，含《論文牽起緣分，美國挺台法案幕後推手竟是荷蘭人昆布勞》（2023-01-27）（[[articles/taiwanjustice-net/2023/20230530140951_tag_昆布勞_coen-blaauw_91e5e42f8735f29a|TJJ 昆布勞標籤頁]]）；同期「美國挺台法案」標籤頁亦收錄同文（[[articles/taiwanjustice-net/2023/20230530152954_tag_美國挺台法案_90b8c97ea0c1195f|TJJ 美國挺台法案標籤頁, 2023-05-30]]）。
 - 本人百科條目存檔：[[works/taiwaneseamericanhistory-org/whos806-cone-blaauw|TAH #806（Coen Blaauw 昆布勞, 2016-02）]]。
 
+- 2024-05-26 — FAPA 以其名義發表致敬文〈COEN BLAAUW: From the Blacklist to a Brilliant Star〉（Leona 執筆，台灣america.org 轉載自 FAPA），將其定位為從黑名單時代到「璀璨之星」的挺台幕後推手（[[works/taiwaneseamerican-org/coen-blaauw-fapa-tribute|FAPA tribute, 2024-05-26]]）。
 - 1989– — joined FAPA in Washington DC and over 27 years served as executive staff under nine FAPA 總會長: 王桂榮、陳榮儒、樊豐忠、陳文彥、吳明基、李青泰、楊英育、高龍榮 and 陳正義 (Peter Chen); he is quoted recalling that what he is proudest of is that FAPA "是一個無私(unselfish) 的團體" ([[works/taiwaneseamericanhistory-org/ourjourneys228|228. 美國對台六項保證決議案的推手 — 昆布勞與FAPA的故事, 楊遠薰, 2016-05]])).
 - 2016 — 美國對台六項保證決議案 (first written codification of Reagan's 1982 oral Six Guarantees) is described by 楊遠薰 as the fruit of FAPA staff and Blaauw's years of lobbying on Capitol Hill ([[works/taiwaneseamericanhistory-org/ourjourneys228|TJJ/Our Journeys 228, 2016-05]]).
 - His own essay on why he works at FAPA: 「爲何我在FAPA?」 ([[works/taiwaneseamericanhistory-org/mystories464|464. 爲何我在FAPA?, 2016-09]]); profiled again by 楊遠薰 in 「昆布勞與FAPA的奇緣」 ([[works/taiwaneseamericanhistory-org/mystories608|608, 2017-11]]).
