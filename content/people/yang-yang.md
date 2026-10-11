@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Yang Yang (楊陽)
 
@@ -54,3 +54,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 10051200-28 (2026-10-06): verified-saturated — fresh ZH+EN grep of works/+articles/+sources/+events/+topics returns the identical hit set (whoswho1568, 836-yang-yang, catching-the-invisible-light, sources hub, works index — all already linked/cited on this page); no new absorbable material. -->
 <!-- deepen-x slice 10062248-6 (2026-10-08): re-verify — fresh ZH+EN grep (works/articles/sources/events/topics) returns the identical hit set (whoswho1568, 836-yang-yang, catching-the-invisible-light, sources hub, works index), all already linked/cited on this page; no new absorbable material. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 10080720-8 (2026-10-09): verified-saturated — fresh ZH+EN grep (works/articles/sources/events/topics) returns the identical hit set (whoswho1568, 836-yang-yang, catching-the-invisible-light, sources hub, works index — all already linked/cited). Broadened surname+attribute probe (Yang×UCLA/solar/Invisible Light) surfaced only OTHER Yang individuals (Chih-Chung/Vigor/Perry/Ralph Yang — different people), no new material for this person. No new absorbable facts. -->
+
+<!-- deepen-x slice 10092054-18 (2026-10-10): re-verify — fresh ZH+EN grep (works/articles/sources/events/topics) returns the identical hit set (whoswho1568, 836-yang-yang, catching-the-invisible-light, sources hub, works index — all already linked/cited on this page); Invisible Light probe hits only the same TAO interview. No new absorbable material. Verified saturated; SKIP-no-new-facts. -->
