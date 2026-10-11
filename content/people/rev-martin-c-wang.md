@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Rev. Martin C. Wang (王成章牧師)
 
@@ -38,7 +38,7 @@ last_reviewed: 2026-10-10
 ## Role in the Community
 - 1974 — First attended the US East Coast Taiwanese Summer Assembly (美東台灣人夏令會) after relocating from Singapore to New Jersey; moved by it and joined the movement's circle — oral-history interview [[works/taiwaneseamericanhistory-org/our-journeys-392|#392 楊遠薰 interview]]
 - 1975 — General convener (總召集人) of the 6th US East Coast Taiwanese Summer Assembly after the original convener resigned; hosted the筹备 committee at his home and arranged tent camping when the Camp of Woods site overflowed (~350+ attendees the prior year, motels around the site full) — [[works/taiwaneseamericanhistory-org/our-journeys-392|#392]]
-- Remembered among the Princeton Theological Seminary / 和平契友 circle of theology students whose神學座談會 fed the assemblies' preaching roster — memoir [[works/taiwaneseamericanhistory-org/ourjourneys268|#268 徐頌鵬 memoir]]; listed among the pastors preaching at the 1977 Brown University assembly — memoir [[works/taiwaneseamericanhistory-org/ourjourneys338|#338 張啟典 memoir]]. HOLD: conflict — #392 says he first came to the US (New Jersey) from Singapore in 1974, while #268 counts him among East Coast Princeton Seminary students known from the early 1970s.
+- Remembered among the Princeton Theological Seminary / 和平契友 circle of theology students whose神學座談會 fed the assemblies' preaching roster — memoir [[works/taiwaneseamericanhistory-org/ourjourneys268|#268 徐頌鵬 memoir]], which names the cohort: 駱維仁、高天香（駱維仁夫人）、蕭清芬、謝穎男、郭得烈、許錦銘、鄭學仁、許明昭、陳錦聰, plus 宋泉盛、周神耀、駱維道 in New York and 鄭義勇、林天民 at Yale; listed among the pastors preaching at the 1977 Brown University assembly — memoir [[works/taiwaneseamericanhistory-org/ourjourneys338|#338 張啟典 memoir]]. HOLD: conflict — #392 says he first came to the US (New Jersey) from Singapore in 1974, while #268 counts him among East Coast Princeton Seminary students known from the early 1970s.
 - 1999–2000s — Repeatedly invited supply preacher and guest lecturer at Grace Taiwanese Presbyterian Church (聖恩長老敎會, Lawrenceville NJ); his 1999-11-03 lecture 「活在這世紀末」 drew ~90 同鄉 — church-plant memoir [[works/taiwaneseamericanhistory-org/ourjourneys43|#43 劉照男]]
 - Long-serving in the North American Christian Association (北美基督教協會); respected Old Testament scholar — [[works/taiwaneseamericanhistory-org/whoswho1429|TAH #1429]]
 - HOLD: conflict on birth year — Identity Snapshot era 1953 vs #392 interview 1935, born in Yilan to a Christian family (grandfather 王春生傳道師, a student of Dr. Mackay; father 王兼優, elder of Yilan Church).
@@ -60,3 +60,4 @@ last_reviewed: 2026-10-10
 複核（deepen-x slice 09230500-4, 2026-09-24）：corpus re-grep（works+articles，ZH+EN）命中仍僅 our-journeys-392、ourjourneys338、ourjourneys268、ourjourneys43、whoswho1429、index 六件，皆已吸收（含 #338 1977 大會間諜軼事）— SKIP-with-reason：語料已飽和，HOLD 三則未解。
 複核（deepen-x slice 09240500-1, 2026-09-25）：ZH+EN 再 grep 命中集不變（#392、#338、#268、#43、#1429、our-journeys 目錄行）— SKIP：語料飽和，無新事實，HOLD 未解。
 複核（deepen-x slice 10081100-29, 2026-10-10）：ZH+EN+surname 再 grep 全五語料目錄，命中集仍為 #392、#338、#268、#43、#14、#1429 與 index/sources 目錄行，無新命中檔；逐檔抽查（#392/#268）確認 1975 總召集人、普林斯頓神學生圈、和平契友聯絡網等事實皆已吸收於上文 — SKIP：語料飽和，三則 HOLD（出生年 1953 vs 1935、大學 台神 vs 南神、M.Th 1964 vs ~1967）仍未解，無新語料可裁決。
+複核（deepen-x slice 10100849-10, 2026-10-11）：王成章/Martin C. Wang/王兼優/王春生 全五語料目錄再 grep，命中集不變（#392、#338、#268、#43、#14、#1429 + 目錄行）。本輪唯一增量：#268 徐頌鵬回憶中點名的神學生名單（駱維仁、高天香、蕭清芬、謝穎男、郭得烈、許錦銘、鄭學仁、許明昭、陳錦聰、宋泉盛、周神耀、駱維道、鄭義勇、林天民）補入「神學座談會圈」條目 — 其餘語料已飽和，三則 HOLD 仍未解。
