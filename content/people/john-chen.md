@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # John Chen (陳榮儒)
 
@@ -67,3 +67,6 @@ last_reviewed: 2026-10-09
 
 ## Corpus re-grep (2026-09-25, deepen-x slice-09250700-3)
 - SKIP: fresh grep 陳榮儒 / John Chen (works+articles) — hit set identical to records already wikilinked above (ourjourneys123/123-eng、167、687、ourjourneys228、ourjourneys197) + John Cheng 誤配頁 (910); no new corpus material.
+
+## Corpus re-grep (2026-10-11, deepen-x slice-10100700-8)
+- SKIP: fresh grep 陳榮儒 / 榮儒 / John Chen across works+articles+sources+events+topics — 陳榮儒 hit set identical to records already wikilinked above (ourjourneys123/123-eng、167、687、ourjourneys228、ourjourneys197、901、pew statement); sources/taiwaneseamericanhistory-org.md is the site source page, not new material. Additional John Chen hits are Irvine教會槍擊案 articles (鄭達志 John **Cheng**) and artist36 (鄭榮得 John Cheng) — English-name collisions only, not linked. No new corpus material.
