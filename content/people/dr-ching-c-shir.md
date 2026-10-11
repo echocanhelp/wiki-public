@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Ching C. Shir (石清正博士)
 
@@ -67,7 +67,13 @@ Accomplishment
 - **聯合會 1994 年內爭**：本人於聯合通訊發表〈聯合會章程修改之經過及報告〉，並代表協志會持有理事會一票；事件由時任會長 [[people/jiann-tsyh-ken-lin|林健次]] 記述，見 [[works/taiwaneseamericanhistory-org/ourjourneys142|TAH #142 1994年北加州台灣同鄉會聯合會的内部爭執]]。
 - **台灣會館共同創辦人**：與張信行、黃美星夫婦、陳德輝、邱俊邦、林典謨、翁嘉盛、施天墩、陳光博、李華林、張祿生等 2003 年 3 月在 Fremont 創立北加州台美人第一間「公厝」台灣會館，見 [[works/taiwaneseamericanhistory-org/ourjourneys53|TAH #53 台灣會館美夢成真（中文版）]] 及英文版 [[works/taiwaneseamericanhistory-org/ourjourneys53-eng|TAH #53 English]]，會館籌備委員會成員名單亦見 [[works/taiwaneseamericanhistory-org/ourjourneys24|TAH #24 黃美星：北加州台灣會館的誕生]] — 與本页 employment 欄「Taiwan Center — Co-Founder」相互印證。
 - **聯合會長**：歷任北加州台灣同鄉會聯合會會長（黑名單名單列於第一屆陳都之後），見本人 2014 年撰文 [[works/taiwaneseamericanhistory-org/ourjourneys38|TAH #38 北加州台灣同鄉聯合會三十年回顧]] 及 [[works/taiwaneseamericanhistory-org/ourjourneys106|TAH #106 何文亮、莊峻華：台美人政治活動（中華民國黑名單）]]。後者並記本人名列國府黑名單——歷屆聯合會會長「都是國府黑名單上的榜上人物」。HOLD: 序次兩說——名單「經蔡文郁、石清正」似指第三任，本人自述三十年回顧未標明任期序。
-- **協志會前身讀書會（一手細節）**：1972 年 8 月 25 日多位同鄉在本人聖荷西住家舉行第一場專題座談會，專請史丹福研究員黃介山主講戶籍制度；因反響熱烈，眾人推舉本人与黃介山續辦，定為每月兩次，成為 1973 年協志會成立的前身。同年 4 月籌備委員會七人中本人与徐都共同起草章程，成立大會當選首屆董事。英文版見 [[works/taiwaneseamericanhistory-org/ourjourneys37-eng|TAH #37 English: Founding of the Taiwanese Alliance for Interculture]]。
+- **協志會前身讀書會（一手細節）**：1972 年 8 月 25 日多位同鄉在本人聖荷西住家舉行第一場專題座談會，專請史丹福研究員黃介山主講戶籍制度；因反響熱烈，眾人推舉本人与黃介山續辦，定為每月兩次，成為 1973 年協志會成立的前身。同年 4 月籌備委員會七人中本人与陳都同列籌備委員（章程由律師姚嘉文与本人共同起草，見下 HOLD 條），成立大會當選首屆董事。英文版見 [[works/taiwaneseamericanhistory-org/ourjourneys37-eng|TAH #37 English: Founding of the Taiwanese Alliance for Interculture]]。
+- **歷史意識養成（一手自述）**：協志會成立後曾獨資請王世慶購買臺灣省文獻會出版的《臺灣省通志》與「臺灣文獻叢刊」全套，與會員辦讀書會研讀；因覺得臺灣出版的書有些論點不夠客觀，轉而推動翻譯史明《臺灣人四百年史》漢文版（1980 年正式出版），對海外臺美人歷史意識與島內民主化皆有貢獻，見 [[works/taiwaneseamericanhistory-org/our-journeys-357|TAH #357 何義麟：舊金山灣區臺灣人的社團活動與家國意識之形成]] 注 33（引本人訪談頁 161–165）。
+- **聯合會章程起草與首屆副會長**：1973 年與蘇俊雄、張村樑、黃介山商談籌組北加州台灣同鄉聯合會，並與蘇俊雄共同起草章程；1973 年 9 月 22 日聯合會成立後當選首屆副會長（會長蘇俊雄），見本人撰文 [[works/taiwaneseamericanhistory-org/ourjourneys38|TAH #38 北加州台灣同鄉聯合會三十年回顧]]。
+- **台灣政論事件（1976）**：第三屆會長陳都任内，「台灣政論」遭停刊，1976 年 1 月 15 日由本人執筆致函蔣經國及舊金山總領事公開表達復刊要求，本人为十二位同鄉之一赴舊金山領事館會見總領事李裕生，並邀其參加協志會座談會，見 [[works/taiwaneseamericanhistory-org/ourjourneys38|TAH #38]]。
+- **黑名單（本人自述脈絡）**：1980 年 4 月美麗島事件軍事審判後，協志會被列名「叛亂組織」，本人與陳都被列名「叛國分子」，開始十多年「黑色恐嚇」時期，與 [[works/taiwaneseamericanhistory-org/ourjourneys106|TAH #106 黑名單紀錄]] 相互印證，見 [[works/taiwaneseamericanhistory-org/ourjourneys38|TAH #38]]。
+- **Komag 共同創辦人細節**：本人回憶 1983 年與陳都、陳俊雄創辦 Komag（薄膜硬碟片），1987 年股票上市、高峰員工四千餘人，為第一家上市的台灣人企業，見本人撰文 [[works/taiwaneseamericanhistory-org/ourjourneys19|TAH #19 在矽谷創業臺美人]] 及 [[works/taiwaneseamericanhistory-org/93-komag-inc-first-enterprise-to-go-public|TAH #93 Komag Inc.]]。
+- HOLD: 章程起草者兩說——本頁上文記「與徐都共同起草章程」，惟 [[works/taiwaneseamericanhistory-org/ourjourneys37|TAH #37]] 原文為聘請律師姚嘉文與石清正博士共同起草組織章程（籌備委員七人中才有陳都），未擅改，待複核。
 
 ## Deepen pass (2026-09-11)
 - 補上 vault 內既有本人記錄連結（#61、#296、個人收藏、#92 共同捐贈文物）。
