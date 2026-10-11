@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # 蕭樂善
 
@@ -60,3 +60,4 @@ last_reviewed: 2026-10-09
 <!-- deepen-x slice 10051200-23: re-verify 2026-10-06 — fresh grep 蕭樂善/蕭樂 (ZH+EN, works/articles/sources/events/topics) returns only whos866 + ourjourneys215 + indexes, all already absorbed; surname/alias probe (L.S. Shaw, 蕭永真-adjacent records) adds nothing on him. Verified saturated; SKIP-no-new-facts. -->
 <!-- Corpus re-grep 2026-10-08 (slice 10062248-3): fresh ZH+EN grep 蕭樂善/蕭樂/L.S. Shaw across works/articles/sources/events/topics returns only whos866 + ourjourneys215 + indexes — all already absorbed. Verified saturated; SKIP-no-new-facts. -->
 <!-- Corpus re-grep 2026-10-09 (slice 10080700-31): fresh ZH+EN grep 蕭樂善/蕭樂/L.S. Shaw across works/articles/sources/events/topics returns only whos866 + ourjourneys215 + indexes — all already absorbed in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
+<!-- Corpus re-grep 2026-10-10 (slice 10092054-15): fresh ZH+EN grep 蕭樂善/蕭樂/L.S. Shaw across all 5 corpus dirs returns only whos866 + ourjourneys215 + works index + sources page — all already absorbed in Role in the Community (incl. the 1973–74 Camp Springs Bible-study nucleus and the 1940s Sin-Tiam trail-walking detail from the daughter's memoir). Verified saturated; SKIP-no-new-facts. -->
