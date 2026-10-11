@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Lanhee J. Chen (陳仁宜)
 
@@ -111,3 +111,5 @@ last_reviewed: 2026-10-09
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20241108164259）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
 
 <!-- TJJ-A10100401-6: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-6 article d94cecddadd6f167 (史丹佛論壇分享防疫 陳建仁：台灣模式貴在透明, 2020-05-07): subject link re-checked vs 正文 this attempt — 「胡佛研究所研究員暨國內政策研究主任陳仁宜博士（Lanhee Chen）」確認見於正文, real, no wrong/spurious links; 2020-05-07 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- Deepen-X slice 10100700-31: re-grep 2026-10-11 — fresh ZH+EN grep (陳仁宜/Lanhee) across all 5 corpus dirs returned 11 content files (my-stories-815, whoswh2070, 8 TJJ snapshots, sources index, MANIFEST); hit set identical to prior passes, every named fact (2020-04-17 Fox「三問」/川普推文援引, 2020-05-07 史丹佛論壇, 2020-07-11 CNN 投書, 2021-07-11 加州主計長專訪, 2024-11-06 大選分析專訪) already absorbed with wikilinks in Role in the Community / From the record — saturated, no new material. -->
