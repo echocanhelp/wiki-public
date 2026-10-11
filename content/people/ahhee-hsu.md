@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Ahhee Hsu (許丕龍)
 
@@ -115,6 +115,7 @@ Accomplishment
 - Corpus re-check 2026-09-16 (deepen-x slice 09160600-7): re-grep 許丕龍/Ahhee Hsu hit set identical again (#2267, #649 tape, #258, #172, ourjourneys186 ZH/EN) — all already absorbed in Role in the Community. SKIP-with-reason; page saturated.
 - Corpus re-check 2026-09-16 (deepen-x slice 09160700-3): re-grep widened the hit set — OJ 2 (台灣之音 US$1,000 early donation), OJ 70 (1982-11-12 concert date + TUF genesis), OJ 272 (TACL first prep meeting in his Monterey Park office), OJ 301 (TUF Linda Wang Juilliard benefit), OJ 339 + #340 (2018 蕭泰然音樂節 at Disney Hall; 出頭天進行曲 lyric credit). All absorbed into Role in the Community; one HOLD recorded (TACL roster credit vs observer self-account). 1982 Crystal Cathedral ~3,000 vs 2018 Disney ~2,300 are different events, not a conflict.
 - Re-verify 2026-09-22 (TJJ-A09220400-7): link-check against slice article 2fa1c26a7ca674e2 body — mention confirmed real, dated fact above stands; no new material.
+- Corpus re-check 2026-10-10 (deepen-x slice 10100315-17): fresh ZH+EN+surname grep (許丕龍 / Ahhee / 丕龍 / Pi-long) across all 5 corpus dirs returned the identical hit set — 16 works (incl. #2267, #649 tape, #258, #172, OJ 2/70/186/272/301/339/340, mystories 275/277, #655), 6 TJJ articles, sources page; surname-only widening found no additional files. All hits already absorbed in Role in the Community / From the record. SKIP-with-reason; page saturated.
 - Corpus re-check 2026-10-09 (deepen-x slice 10080951-9): re-grep 許丕龍/Ahhee across works+articles+sources+events+topics (24 hits) — hit set otherwise identical to prior checks, but three details in OJ 339/340/2 not previously absorbed: (1) his own 2018 memo says he produced **two** Crystal Cathedral 感恩節音樂會 (second one single-source → HOLD); (2) he was one of three 召集人 of the 2018 蕭泰然音樂節 with 田詒鴻 [[people/alan-thian|Alan Thian]] and 陳文石 [[people/chen-wenshi|Stone Chen]]; (3) brother 許左龍's 《大家唱》 songbook donation in the 台灣之音 fund drive. All three absorbed above.
 
 ## Related Pages
