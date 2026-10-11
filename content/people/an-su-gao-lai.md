@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # An-Su Gao Lai (賴高安賜)
 
@@ -36,22 +36,25 @@ Accomplishment
 - Taught music at Kaohsiung Girls' Senior High School (高雄女中), 1945–1948; later taught Bible & music and served as dormitory superintendent (舍監) at her alma mater Chang Jung Girls' High School (長榮女中).
 - 3rd President of the Taiwanese America Seniors Association of Southern California (TASA), 1983–1988.
 - Founding member of the [[organizations/chang-jung-girls-high-school-alumni-association-southern-california||Chang Jung Girls' High School Alumni Association of Southern California]] (台南長榮女中南加州校友會).
-- In 1984, as TASA's third president, proposed to the board of directors that the association build its own senior center and senior apartments — the board gave unanimous approval; the association's membership stood at about 600. Second president 蕭華銓 (Hua-chuan Hsiao) willingly stayed on as vice-president to help carry the project ([[works/taiwaneseamericanhistory-org/ourjourneys173-eng||Our Journeys #173]]).
-- Assembled the Flamingo Garden project's advisory group of about twenty, inviting community leaders such as [[people/charles-ting|Charles Ting 丁昭昇]], [[people/symeon-woo|Symeon Woo 吳西面]], [[people/dr-hong-yen-hsu|Hong-yen Hsu 許鴻源]] and others as consultants.
+- Background to the building campaign: from TASA's founding in 1979 until January 1983 the association only rented office space and had been forced to move three times — "流離失所，無固定會址." This instability was the impetus for her 1984 proposal to the board that the association build its own senior center and senior apartments, which the board approved unanimously; membership stood at about 600. Second president 蕭華銓 (Hua-chuan Hsiao) willingly stayed on as vice-president to help carry the project ([[works/taiwaneseamericanhistory-org/ourjourneys173-eng||Our Journeys #173]]).
+- Assembled the Flamingo Garden project's advisory group of about twenty, inviting community leaders such as Kenjohn Wang, [[people/charles-ting|Charles Ting 丁昭昇]], [[people/symeon-woo|Symeon Woo 吳西面]], [[people/dr-hong-yen-hsu|Hong-yen Hsu 許鴻源]], Ming-chung Zhuo 卓敏忠 and others as consultants, plus three lawyers — [[people/mao-ching-david-huang|Mao-ching (David) Huang 黃茂清]], Chung-yuan Liao 廖重遠 and R. S. Wu 吳瑞信 — as legal advisers, with Ti-sheng Yang 楊惕生 as secretary ([[works/taiwaneseamericanhistory-org/ourjourneys173||Our Journeys #173 中文版]]).
+- 1985 offer on a 40,000-square-foot parcel in Monterey Park was opposed by local residents and the city government; after protests and demonstrations the association won, but difficulties put the project on temporary hold, and in 1986 the city's budget deficit ended its senior-apartment subsidy. Her co-workers' slogan for the push: "Our elderly should be taken care of by our own community; we should not rely on the U.S. government to do so" ([[works/taiwaneseamericanhistory-org/ourjourneys54-eng||Our Journeys #54 英文版]]).
+- Financing of Flamingo Garden: 58 shares in total (one held by the association); a $50,000 share required $25,000 cash with the rest bank-financed. When General Bank of Commerce balked at lending — amid its own real-estate loan losses — the response was that a Taiwanese bank that would not lend to Taiwanese public-welfare causes served no purpose, and the loan then passed. After a year of promotion only about 20 people had registered for accommodations, but Charles Ting 丁昭昇, Cheng-tsung Chang 張正宗 and fellow promoters ultimately bought up the remaining shares ([[works/taiwaneseamericanhistory-org/ourjourneys54-eng||Our Journeys #54 英文版]]).
 - On resigning in July 1988, handed the fourth president An-hsin Hsu: $18,632.04 in association funds, two Flamingo Garden shares bought with $50,000 of raised funds, and the permanent free-and-exclusive rights to the social hall and recreation room.
 - Author of 《回首廿八年路》, published in the 1997 《南加州台灣長輩會會員名冊》.
 - Appeared in the television advertisement produced to raise support for the Taiwan Community Hall (台灣會館), alongside former TASA president 蔡盧錫金.
 
-## Timeline（自本頁既有記載彙整，deepen 2026-09-10）
+## Timeline（自本頁既有記載彙整，deepen 2026-09-10；2026-10-10 補 corpus 細節）
 - 1908 — 出生於高雄（Era 1908–2011）
 - 1926 — 自長榮女中畢業
 - 1926–1928 — 就讀日本東京青山學院神學部
 - 1945–1948 — 任職高雄女中，教授音樂
 - 其後 — 回母校長榮女中教授聖經與音樂，並任舍監
+- 1979–1983 — 長輩會租賃辦公室、被迫遷移三次（籌建會館之背景起因）
 - 1983–1988 — 任第三屆南加州台灣人長輩會（TASA）會長
 - 1984 — 向理事會提議籌建長輩會會館與老人公寓，獲一致贊成（會員約 600 名）
-- 1985 — 蒙市（Monterey Park）購地提案受阻，抗辯勝訴仍暫擱
-- 1986 — 於 El Monte 現址購置六萬平方呎土地，發出認捐單招募股東，命名《鶴園公寓》
+- 1985 — 蒙市（Monterey Park）4 萬平方呎购地提案受阻，抗辯勝訴仍暫擱
+- 1986 — 於 El Monte 現址購置六萬平方呎土地，發出認捐單招募股東，命名《鶴園公寓》（共 58 股；General Bank 拒貸後經抗辯核准）
 - 1987/03/17 — 鶴園動工
 - 1988/02/26 — 長輩會辦公室遷入鶴園內會館
 - 1988/03/05 — 開幕典禮，市長與約 500 名鄉親觀禮
@@ -61,8 +64,8 @@ Accomplishment
 - 2011 — 逝世（Era 記載）
 
 ## Other vault records（deepen 2026-09-10，僅彙整 vault 內既有記載）
-- [[works/taiwaneseamericanhistory-org/ourjourneys54-eng||Our Journeys #54（TASA 長輩會回憶錄）]]：本人任內協會會員逾 600 人；主推長者公寓計畫，1985 年募款（Monterey Park 购地提案受阻），1986 年改購 El Monte 土地、1987 年動工興建 Flamingo Garden 長者公寓，1988 年完工落成（03/05 舉行開幕典禮）；回憶錄稱其為將該大樓轉為台灣人自有長者公寓的最大貢獻者之一。
-- [[works/taiwaneseamericanhistory-org/ourjourneys173-eng||Our Journeys #173（英文版）]]：1984 年向理事會提議籌建長輩會會館與老人公寓獲一致通過；聘請王桂榮、許鴻源、卓敏忠、吳西面、丁昭昇等賢達及律師組成約二十人顧問團；1988 年 7 月卸任移交許鞍心會長 $18,632.04、鶴園二股與交誼廳永久專用權。
+- [[works/taiwaneseamericanhistory-org/ourjourneys54-eng||Our Journeys #54（TASA 長輩會回憶錄）]]：本人任內協會會員逾 600 人；主推長者公寓計畫，1985 年募款（Monterey Park 购地提案受阻），1986 年改購 El Monte 土地、1987 年動工興建 Flamingo Garden 長者公寓，1988 年完工落成（03/05 舉行開幕典禮）；回憶錄稱其為將該大樓轉為台灣人自有長者公寓的最大貢獻者之一。英文版另載：General Bank 貸款風波、58 股認股結構、第一年僅約 20 人登記、丁昭昇與張正宗等認購剩餘股份。
+- [[works/taiwaneseamericanhistory-org/ourjourneys173-eng||Our Journeys #173（英文版）]]：1984 年向理事會提議籌建長輩會會館與老人公寓獲一致通過；聘請王桂榮、許鴻源、卓敏忠、吳西面、丁昭昇等賢達及律師黃茂清（David Mao-ching Huang）、廖重遠、吳瑞信組成約二十人顧問團，楊惕生任秘書；1988 年 7 月卸任移交許鞍心會長 $18,632.04、鶴園二股與交誼廳永久專用權。
 - [[works/taiwaneseamericanhistory-org/ourjourneys173||Our Journeys #173（中文版）]]：同上之中文記載，並註明《回首廿八年路》刊於 1997《南加州台灣長輩會會員名冊》。
 - [[works/taiwaneseamericanhistory-org/ourjourneys50||Our Journeys #50]]：籌建過程記載 — 1984 提倡籌建、會員約 600 名、1985 蒙市购地受阻抗辯勝訴、1986 政府停補助後賴會長堅持推動購定 El Monte 現址。
 - [[works/taiwaneseamericanhistory-org/ourjourneys29||Our Journeys #29]]：台灣會館電視廣告紀錄 — 本圖與蔡盧錫金女士同為廣告演出之前長輩會會長。
