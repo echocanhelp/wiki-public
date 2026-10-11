@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Dr. Tu Chen (陳都博士)
 
@@ -37,6 +37,7 @@ Accomplishment
 - B.S. in Metallurgical Engineering from National Cheng Kung University (1958); M.S. (1964) and Ph.D. (1967), both in Metallurgical Engineering, from the University of Minnesota.
 - Senior Scientist at Northrop from 1968; researcher at Xerox Palo Alto Research Center (PARC) from 1971.
 - Co-founder and Chairman of Komag Inc. (1983–1999); described by TAH as a famous computer-business enterpriser in San Jose, CA. Co-founder and Vice Chairman of Headway Corporation (1996–2001).
+- Komag, co-founded 1983 with 陳俊雄/Scott Chenk and [[people/dr-ching-c-shir|石清正/Ching-Cheng Shir]], made thin-film disks for hard drives; the head–disk interface problem that had blocked the technology since the 1960s was solved at Komag in 1984, the company went public in 1987, and at its peak was the world's largest independent thin-film disk maker with over 4,000 employees — see [[works/taiwaneseamericanhistory-org/ourjourneys19|Our Journeys #19 在矽谷創業臺美人]].
 
 ## Community roles
 - President of the [[organizations/taiwanese-association-of-america||Taiwanese Association of America (TAA)]], 1983–1984.
