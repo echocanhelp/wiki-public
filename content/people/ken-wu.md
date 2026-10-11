@@ -607,3 +607,5 @@ Articles from taiwanjustice.net mentioning **Ken Wu (吳兆峯)**:
 <!-- TJJ-A10091401-7: verified 2026-10-10 — wave-2 link+deepen of slice 10091401-7 article 2fc3294ed01f2d2a (台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連任第45區國會議員, 發文 2022-07-02／快照 2025-08-08): 吳兆峯（Ken Wu）列名與會名單確認見於正文，subject link real, no wrong/spurious links; 2022-07-02 dated fact w/ article wikilinks newly added to From the record. -->
 
 <!-- TJJ-A10100401-16: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-16 article 097b5750fcf3091a (大洛杉磯台灣會館協調為花蓮震災設捐款帳戶, TJJ 發文 2024-04-04／快照 2024-05-27) read fresh this attempt: 吳兆峯為引語發言人（董事會臨時動議議決賑災勸募、代表台館受訪 NBC/ABC/KTLA）確認見於正文; subject link re-checked, real, no wrong/spurious links; 2024-04-04 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10100901-11: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-11 article e9faa17a0a7ea61c (第53回世界台灣文化論壇 Tī美國點光台灣, 發文 2022-09-25): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; 2022-09-25 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
