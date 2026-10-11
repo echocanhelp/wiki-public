@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Ming Hong Chow (周明宏博士)
 
@@ -118,3 +118,7 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090701-18: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-18 article d2dbfe220e437602（2017年美東台灣人夏令會報導/楊遠薰, 2024-05-22 快照, 29faf54b8c9e2d10 同文副本）subject link re-checked vs 正文 this attempt; real mention (代理理事長身分 7/2 揭幕致詞、7/4 交接會旗), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100701-3: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-3 article 20240522235843_root_d2dbfe220e437602（2017年美東台灣人夏令會報導/楊遠薰, 2024-05-22 快照, 29faf54b8c9e2d10 同文副本）subject link re-checked vs 正文 this attempt; real mention (代理理事長身分 7/2 揭幕致詞、7/4 交接會旗), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## Deepen-x sweep (slice 10101204-21, 2026-10-11)
+- 全語料再 grep（周明宏／Ming Hong Chow／Ming-Hong Chow＋姓氏周明，works+articles+sources+events+topics 五目錄）：精確名命中僅本頁已吸收之出處（TAH #140、#589、works 索引、Our Journeys #138、2017 TAC/EC 報導兩存檔副本、《好國好民》放映記錄兩存檔副本、2019-09-04 挺港聯合聲明），無新增事實。
+- 姓氏級命中為**他人**，勿誤吸收：周明安（「台灣共和國臨時政府」外交部人員，見 Our Journeys #81／#65 楊基銓回憶錄片段，非本頁 subject）、周明峰＝Dr. Emerson M. F. Jou（TAH works #282、#104 及其著作《台灣簡史》《心在台灣》《台美情懷》等，另一同鄉）、周烒明（1965 威大會議與會名單，別名）。— SKIP 已飽和，僅留此辨歧條目。
