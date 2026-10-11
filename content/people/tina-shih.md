@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Tina Shih (施雅婷)
 
@@ -102,5 +102,7 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10100501-28: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-28 article 735744492226b90c (2016台美小姐選拔開訓記者會@大洛杉磯台灣會館, taiwanjustice.net 2016-06-14 刊／20230204022253 快照) read fresh this attempt: 施雅婷開訓首日講解選美須知、「身、心、靈俱美」、多年選美評審與美姿美儀教學經驗記述確認見於正文; subject link re-checked, real, no wrong/spurious links; 總召集人賴淑遠見於正文未列subject（shu-lai 頁已有記錄）, 不需補鏈; 2016-06-14 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090501-17: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-17 article cc3bbdbfc662fe66 (2016台美小姐選拔開訓記者會 2024 存檔copy, 2016-06-14 刊): subject link re-checked vs 正文 this attempt — 施雅婷開訓首日講解選美須知、「身、心、靈俱美」及多年選美評審經驗記述確認見於正文 — real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- deepen-x 10101210-7 (2026-10-11): fresh 5-dir grep (施雅婷／Tina Shih／雅婷) — hit set unchanged and fully absorbed: own TAH #1137／#173／#202 + 2016台美小姐開訓稿 735744492226b90c 及其 2024 存檔 cc3bbdbf, all linked. Non-self matches excluded on identity check: 楊雅婷 (時代力量, OTD黑客松稿 2c9cb768／3260cd0b) ≠ 本人; 「雅婷歷史小教室」(教育部臉書 persona, ab35c2a3) ≠ 本人. SKIP — saturated, no new community material; last_reviewed refreshed. -->
 
 <!-- TJJ-A10100501-29: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-29 article cc3bbdbfc662fe66 (2016台美小姐選拔開訓記者會@大洛杉磯台灣會館, taiwanjustice.net 2016-06-14 刊／20240522043642 快照) read fresh this attempt: 施雅婷開訓首日講解選美須知、「身、心、靈俱美」、多年選美評審與美姿美儀教學經驗記述確認見於正文; subject link re-checked, real, no wrong/spurious links; 總召集人賴淑遠見於正文未列subject（shu-lai 頁已有記錄）, 不需補鏈; 2016-06-14 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
