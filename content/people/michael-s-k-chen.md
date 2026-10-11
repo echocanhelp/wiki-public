@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Michael S. K. Chen (陳希寬博士)
 
@@ -44,6 +44,8 @@ last_reviewed: 2026-10-10
 - 建國中學畢業後考入台大化工系；1964 年 9 月赴美入堪薩斯州立大學（大哥志青、二哥景仁皆曾就讀，指導教授范良政；楊宗昌受二哥之託照顧），M.S.、Ph.D. 化工，與既有 Education 欄一致（[[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys 33]]）
 - 1965 年 9 月繼張肅之後擔任堪薩斯州立大學台灣同學會會長
 - 1966 年 6 月 18 日以堪薩斯州代表身分出席費城會談，促成「台灣獨立聯盟 UFI」與「台灣問題研究會 FASG」合併；7 月 4 日成立全美台灣獨立聯盟 UFAI。後任 UFAI 決策會議成員（陳以德、陳希寬、呂天明、許和瑞及兩位副主席）（[[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys 81]]）
+- 1971 年 7 月於 Columbus, Ohio 舉辦的最後一次盟員大會（此後改為代表大會）當選 UFAI 第一副主席（主席鄭紹良、第二副主席洪哲勝）（[[works/taiwaneseamericanhistory-org/ourjourneys234|Our Journeys 234：台獨聯盟美國本部]]）
+- 2016 年以 WUFI（台灣團結聯盟）美國本部主席身分，與從臺灣來的沈清楷代表參與第四十五屆美東夏令會（[[works/taiwaneseamericanhistory-org/ourjourneys260|Our Journeys 260：第四十五屆美東夏令會備忘錄]]）；同年底黃根深畫展致謝名單中列有「費城同鄉會和陳希寬」（[[works/taiwaneseamericanhistory-org/ourjourneys256|Our Journeys 256]]）
 - 1967 年 12 月 9 日出版《全美台灣同鄉通訊錄》，為第一本台美出版的漢文书（[[works/taiwaneseamericanhistory-org/ff184|TAH 記錄 184]]）
 - 其與張郁彬的故事由孫女 Catelyn Spielman 描繪，收入《Surging Tides: A Journey for Independence》（[[works/taiwaneseamericanhistory-org/publications-1354|TAH publications 1354]]）
 - TAH Who's Who 記錄（2016/05）：[[works/taiwaneseamericanhistory-org/whos-michael-s-k-chen|Whos Michael S. K. Chen]]；press-kit 記載的 Shinkong 副總裁、Air Products、NATEA Austin 會長等經歷未見於回忆錄，維持 pending
@@ -64,3 +66,4 @@ last_reviewed: 2026-10-10
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep（陳希寬 / Michael S. K. Chen，2026-09-24，slice 09230900-1）：hit set unchanged（ourjourneys33、81、ff184、whos-michael-s-k-chen、publications-1354、our-journeys-370）— 全數已吸收；370「Mike Chen」HOLD 維持。SKIP-no-new-material。
 - Corpus re-grep（陳希寬 / Michael S. K. Chen，2026-10-10，slice 10090315-22）：新吸收 ourjourneys58（本人回憶文，KFG 基本會員＋編印通訊錄自述）與 ourjourney-343（黑名單記錄，明文「Mike Chen(陳希寬)」＋妻 Alice Chen）兩筆此前未入頁之材料；其餘命中 unchanged；370「Mike Chen」HOLD 維持（343 標註強化同為本人之推定）。
+- Corpus re-grep（陳希寬 / Michael S. K. Chen，2026-10-11，slice 10101204-13）：新吸收 ourjourneys234（1971 Columbus 盟員大會當選 UFAI 第一副主席）、ourjourneys260（2016 WUFI 美國本部主席出席第四十五屆美東夏令會）、ourjourneys256（2016 黃根深畫展致謝：費城同鄉會和陳希寬）三筆此前未入頁之材料；其餘命中 unchanged；370「Mike Chen」HOLD 維持。
