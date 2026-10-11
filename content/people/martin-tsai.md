@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Martin Tsai (蔡明峰)
 
@@ -60,6 +60,10 @@ _No filled family fields on the TAH profile._
 - **45th US Taiwanese Congress speaker:** listed among the invited speakers as "Taiwanus.net 創辦主持人蔡明峰" at the 45th Congress (theme: U.S. security & Taiwan's freedom) ([[works/taiwaneseamericanhistory-org/ourjourneys260||Our Journeys 260]]).
 - **Formosa Betrayed essay (2015-03):** authored "台美人全力支持的電影 FORMOSA BETRAYED (被出賣的台灣)" in the *Care for Taiwan by Taiwanese American* series ([[works/taiwaneseamericanhistory-org/119-care-for-taiwan-by-taiwanese-american-e5-8f-b0-e7-be-8e-e4-ba-ba-e9-a1-a7-e5||record 119]]).
 - **Name-collision note:** corpus hits for **蔡明殿 (Ming Ten Dan Tsai)** — works #13, #124, whos841, and the 蔡明憲/蔡明學 mentions in Our Journeys 392/66/206 — are *different* persons (a 人權工作者/文學 writer and unrelated namesakes), not this page's subject. HOLD: no merge.
+
+### Corpus re-sweep (slice 10100400-12, 2026-10-10)
+- Full ZH+EN grep (`蔡明峰` / `Martin Tsai`) across `content/works` `content/articles` `content/sources` `content/events` `content/topics` returned 13 non-self files: the ten Our Journeys memoir records already absorbed above (2, 9/9-eng, 12, 30/30-eng, 42, 260, 316), the two TAH encyclopedia works (#110, #365), the Formosa Betrayed essay record (#119), plus `works/index.md` and `sources/taiwaneseamericanhistory-org.md` (index/source listings, no new biographical material). No new absorbable corpus facts; no conflicts found.
+- The taiwanjustice.net 2020 台南市第4選舉區 candidate list hit is confirmed a different person (無黨籍 candidate, Tainan) — already disambiguated in that article; not linked. HOLD: no merge.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
