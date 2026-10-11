@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Maysing Huang (楊黃美幸)
 
@@ -113,6 +113,8 @@ last_reviewed: 2026-10-09
 <!-- TJJ-A10090901-26: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-26 article 753347eb4cf48066 (台文通訊30冬紀念獎頒獎典禮part1公告, 發文 2021-10-28／快照 2021-12-07) read fresh this attempt: 楊黃美幸以陳文成紀念基金會來賓身分 re-checked vs 正文, real, no wrong/spurious links; 2021-10-30 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10091401-11: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10091401-11 article d6441ab32ea8636d (陳文成事件 人權醫師陳永興盼儘速釐清真相, 2021-09-25刊／2021-10-23快照) read fresh this attempt: 楊黃美幸以陳文成博士紀念基金會董事長致詞確認見於正文, subject link real, no wrong/spurious links; 2021-09-25 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10100315-2: verified 2026-10-10 — fresh ZH+EN grep (楊黃美幸/Maysing) across all 5 corpus dirs returned 29 hits, all already absorbed or linked: 13 works (incl. TAA roster 76, NATWA 60, 黑名單回台 66, 陳文成廣場 366, 東區cruise 101, 回台參訪 382, 電影夢 279, 捐款record 256, Who's Who 1575), 14 TJJ articles (each dated fact already in From the record w/ wikilink), plus source page; only unlinked works are EN mirrors (ourjourneys37-eng/60-eng) of works already wikilinked — SKIP, verified-saturated, no new material. -->
 
 ## 照片
 
