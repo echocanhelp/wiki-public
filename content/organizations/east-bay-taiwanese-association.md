@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-11
 ---
 # East Bay Taiwanese Association (北加州)
 
@@ -36,6 +36,9 @@ Full directory name in the corpus record is 北加州東灣台灣同鄉會 (the 
 - 2021-05-01: EBTA members (John Detrick, Yuh-Lin Yang) are among the named individuals in the community statement responding to Pew Research Center hiding Taiwanese identity — [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Response to Pew Research (2021)]]; continuing EBTA's post-1979 identity-movement line above.
 - 2026-09-25 (slice 09230900-4 rerun): fresh grep full hit set re-verified — all 7 TAH hits + taiwaneseamerican-org hits already absorbed above; the 2 extra taiwaneseamerican-org pieces (in-honor-of…, taiwanese-americans-in-solidarity) mention SEBTA not EBTA, and the TJJ hit is a digest-string false positive. SKIP (saturated).
 - 2026-09-24 (slice 09230900-4): fresh grep East Bay Taiwanese|EBTA|東灣 — the 6 TAH hits are all absorbed; new taiwaneseamerican-org hits (2007 survey, 2021 Pew statement) absorbed above.
+- 1994: in the TAFNC council's ten voting seats, EBTA (東灣同鄉會) held one, represented by 傅憲亮 (Fu Hsien-liang) — per president 林健次's first-hand account of the 1994 federation internal dispute — [[works/taiwaneseamericanhistory-org/ourjourneys142|142. 1994年北加州台灣同鄉會聯合會的内部爭執 / 林健次 /2015/06]]. This complements the post-1979 president list above: EBTA's federation seat is documented from the federation's founding (ourjourneys38) through the 1994 dispute.
+- Separate East Bay seniors organization in the corpus: 北加州東灣台美人長樂會 (TASS-EB), distinct from EBTA/EBTACSC — [[works/taiwaneseamericanhistory-org/tass-eb|23. 北加州東灣台美人長樂會〈TASS-EB〉]] and [[organizations/tass-eb]].
+- 2026-10-11 (slice 10101200-26): fresh ZH+EN grep across all 5 corpus dirs — the 14 EBTA-name hits are all previously absorbed; one new fact (1994 council delegate 傅憲亮, ourjourneys142) absorbed above.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/east-bay-taiwanese-association/)
