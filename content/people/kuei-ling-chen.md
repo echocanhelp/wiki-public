@@ -96,3 +96,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10100601-29: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-29 article 63257725da30ee94 (FAHR研討會：敗選檢討到迎戰2024, 2023-01-24刊): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- DEEPEN-X10100700-32: verified 2026-10-11 — fresh ZH+EN+surname grep across all 5 corpus dirs (陳桂鈴/Kuei-Ling Chen/桂鈴 + variant 陳桂* sweep): hit set identical to prior passes (our-journeys-382/383, whoswho1378, TJJ 反萊豬/228/FAHR/罷免 articles); surname sweep hits 陳桂蘭/陳桂鈐 only — different persons, not aliases. All works already wikilinked/absorbed — saturated, no new material. -->
+
+<!-- TJJ-A10100701-2: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-2 article 28b0cc4e52acece2 (2021北美洲海外台灣人二二八紀念活動–人權博物館海外特展報導, TJJ 2021-03-03刊, 2026-02-10快照) read fresh this attempt: subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
