@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Chi-Jen Christopher Chung (鍾啓仁)
 
@@ -77,3 +77,13 @@ Corpus re-grep found two additional TAH encyclopedia records held in the vault, 
 CYCNY activity records in the corpus that document the orchestra's concerts during his tenure (no personal-name mention inside, so listed as context only): [[works/taiwaneseamericanhistory-org/photo-albums-activities-87|CYCNY Annual Concert 2015-06]], [[works/taiwaneseamericanhistory-org/18-holiday-concert-2018-by-youth-orchstra-cycny-e7-b4-90-e7-b4-84-e5-b9-bc-e7-8d|Holiday Concert 2018, Bayside NY 2018-12-16]], [[works/taiwaneseamericanhistory-org/publications657|CYCNY 2015-04/05 Music TAPE]].
 
 No memoir/article hits under 鍾啓仁 / Christopher Chung / family names (鍾克紀, 顏惠美, Robert Delsite) outside the TAH encyclopedia entries already cited. No conflicts to hold.
+
+## Deepen-X10101322-5 pass (2026-10-11)
+
+Fresh 5-dir corpus grep (鍾啓仁 / 鍾啟仁 / Christopher Chung / Chijen / family names) hit set unchanged except one new substantive record:
+
+- [[works/taiwaneseamericanhistory-org/ourjourneys306|TAH #306 — Our Journeys (CYCNY profile)]] names him explicitly as 鍾啟仁, 音樂總監及指揮 (Music Director and Conductor) of the Youth Orchestra CYCNY, and lists him among the teaching faculty as "Chijen Christopher Chung, music director and string instructor" — corroborating the tah-tables posts (String Faculty 2007–2013, Conductor 2011–, Music Director and Conductor 2013–).
+- The same record documents the 2016-17 and 2017-18 CYCNY seasons under his direction: Christmas/Holiday concerts at Cardozo High School and Silvercrest Center, faculty/student recitals at the Taiwan Center Flushing, and Annual Concerts at Alice Tully Hall, Lincoln Center (2017-05-20; 2018-06-09).
+- Colleagues named alongside him in that record (no vault pages exist, so no wikilinks): teaching faculty 林季靜, 張若葳, 張紀葳, 黃東瀛 (Lin/Chang/Huang); 藝術總監方秀蓉; 行政總監張俊生.
+
+No date/age conflicts with existing text. No new biography invented.
