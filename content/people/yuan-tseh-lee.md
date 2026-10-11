@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Yuan-Tseh Lee (李遠哲博士)
 
@@ -75,3 +75,6 @@ M.S., Radiochemistry Group
 - Newly absorbed community record: [[works/taiwaneseamerican-org/taiwanese-nobel-prize-winner-yuan-tseh-lee-speaks-on-taiwanese-identity-in-berke|taiwaneseamerican.org 2012-03-15 report of his Berkeley talk on「Taiwanese Identity」]] — a dated record of his public speaking on Taiwanese identity in the Bay Area, from the TAHS-affiliated taiwaneseamerican.org corpus (value band B, bibliographic record only).
 - Photographic record of the Nobel moment already in the vault: [[works/taiwaneseamericanhistory-org/photo-albums-historical-12|TAH historical photo album #12 — the 1986 Nobel Prize (Chemistry) award ceremony for Prof. Yuan-tze Lee in Sweden]], corroborating the corpus anchor at [[works/taiwaneseamericanhistory-org/milestones31|milestone #31]].
 - Romanization variants unchanged by this pass (Yuan-Tseh / Yuan-tze / Yuan-Tze / Yan tze all still on record; HOLD maintained). No new biography absorbable beyond the above.
+
+## Deepen-x re-check (slice 10101204-27, 2026-10-11)
+- Newly absorbed community record: [[articles/taiwanjustice-net/2022/20220127015246_2021_12_03_李遠哲捐諾貝爾獎章-即起展出於台史博常設展_a615b423fd4744ed|2021-12-03 — donated his 1986 Nobel Chemistry certificate and medal to the National Museum of Taiwan History (台史博) for the permanent exhibition]] — as the first Nobel laureate born and raised in Taiwan, he framed the donation as leaving 「有人曾經努力、奮鬥的痕跡」 for the island, with 台南一中／台南女中 students witnessing the ceremony. Dated news record from the taiwanjustice.net corpus; no new biography invented.
