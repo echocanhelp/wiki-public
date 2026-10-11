@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-11
 ---
 # Dr. Hwalin Lee (李華林博士)
 
@@ -47,6 +47,7 @@ _No filled family fields on the TAH profile._
 
 _Corpus re-scan 2026-09-24: fresh grep of works/articles for 李華林/Hwalin Lee returns the same hits (ourjourneys53 & -eng, ourjourneys24-eng, ourjourneys38, our-journeys-390, ota-265, 437 署名文章); all absorbed above — verified saturated, no new community facts._
 _Corpus re-scan 2026-09-25 (slice 09240500-17): fresh grep adds our-journeys-384 (2022 UCSD 年終報告，捐助者名單) — absorbed above; other hit set unchanged. No conflicts to HOLD._
+_Corpus re-scan 2026-10-11 (slice 10101100-11): fresh ZH+EN grep across all 5 corpus dirs returns the identical hit set (ourjourneys53 & -eng, ourjourneys24 & -eng, ourjourneys38 & -eng, our-journeys-384, our-journeys-390, ota-265, whos-who-106, 437/151 署名文章); all already wikilinked above. Saturated — no new community facts, no conflicts to HOLD._
 
 ## Sources
 - [TAH #265 encyclopedia: 265.  Dr. Hwalin Lee 李華林博士](https://taiwaneseamericanhistory.org/ota-265/)
