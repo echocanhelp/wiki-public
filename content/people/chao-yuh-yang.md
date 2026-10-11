@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Chao-Yuh Yang (楊朝諭)
 
@@ -39,13 +39,7 @@ President of Taiwanese Association of West Germany and Taiwanese Association of 
 - **休士頓台灣人活動中心 founding (Houston):** Charter-drafting team member (章程組：李雅彥、謝貴分、蔡丁財、楊朝諭) and banquet-team lead (餐會組) for the founding activities of the Taiwanese American Community Center of Houston, per 莊承業's memoir [[works/taiwaneseamericanhistory-org/ourjourneys233|233. 回顧休士頓台灣人活動中心的成立]].
 - **ASSAT/同鄉會 leadership:** Elected president of the Houston Taiwanese American community organization in 1987; noted as having incurred the KMT government's displeasure, reportedly because of his prior role as president of the Taiwanese Association in Germany, per [[works/taiwaneseamericanhistory-org/ourjourneys106|106. Political Activities of Taiwanese Americans: 中華民國的黑名單]]. Consistent with his TAH bio as president of the Taiwanese Association of West Germany and of the Taiwanese Association of Europe.
 - **Name-collision note:** his brother 楊朝諄 ([[people/c-c-yang|楊朝諄]], physics, Indiana University) is a different person; the blacklist memoir notes the near-identical names caused report mix-ups.
-- Corpus re-sweep 2026-09-16 (slice 09160109-24): hits (ourjourneys233 章程組/餐會組 roster, ourjourneys106 blacklist entry #28) already absorbed above. **SKIP: no new absorbable facts**, no conflicts to HOLD.
-- Corpus re-sweep 2026-09-16 (slice 21): re-grep 楊朝諭/Chao-Yuh Yang — hit set unchanged (ourjourneys233 ZH+EN 章程組/餐會組 roster, ourjourneys106 黑名單 entry #28, own essays #95/#138, own record TAH #536). Blacklist text re-confirms entry #28 (八七年同鄉會會長，得罪國民黨源於德國同鄉會會長之故) and the 楊朝諭/楊朝諄 name-collision note already recorded. **SKIP: no new absorbable facts**, no conflicts to HOLD.
-- Corpus re-sweep 2026-09-16 (slice 16): re-grep 楊朝諭/Chao-Yuh Yang — hit set unchanged (ourjourneys233 章程組/餐會組, ourjourneys106 黑名單 #28, own essays #95/#138, TAH #536). **SKIP: no new absorbable facts**, no conflicts to HOLD.
-- Corpus re-sweep 2026-09-16 (slice 09160500-13): re-grep 楊朝諭/Chao-Yuh Yang — hit set unchanged (ourjourneys233 ZH+EN 章程組/餐會組 rosters, ourjourneys106 黑名單 #28 + 楊朝諄 name-collision note, own essays #95/#138, own record TAH #536). **SKIP: no new absorbable facts**, no conflicts to HOLD.
-- Corpus re-sweep 2026-09-16 (slice 09160600-8): re-grep 楊朝諭/Chao-Yuh Yang — hit set unchanged (ourjourneys233 ZH+EN 章程組/餐會組 rosters, ourjourneys106 黑名單 #28 + 楊朝諄 name-collision note, own essays #95/#138, own record TAH #536); all already absorbed above. **SKIP: no new absorbable facts**, no conflicts to HOLD.
-- Corpus re-sweep 2026-09-16 (slice 09160700-4): re-grep 楊朝諭/Chao-Yuh Yang — hit set unchanged (ourjourneys233 ZH+EN 章程組/餐會組 rosters, ourjourneys106 黑名單 #28 + 楊朝諄 name-collision note, own essays #95/#138, own record TAH #536); English roster (Charter Team / Banquet Team, with 蔡丁財 = David Tsay) confirms the ZH roster already absorbed. **SKIP: no new absorbable facts**, no conflicts to HOLD.
-- Corpus re-sweep 2026-10-09 (slice 10081100-11): re-grep 楊朝諭/Chao-Yuh Yang/朝諭 across all 5 corpus dirs — hit set unchanged (ourjourneys233 ZH+EN 章程組/餐會組 rosters, ourjourneys106 黑名單 #28 + 楊朝諄 name-collision note, own essays #95/#138, own record TAH #536); surname-only and romanization variants returned no additional files. **SKIP: no new absorbable facts**, no conflicts to HOLD.
+- **Corpus sweep record (consolidated 2026-10-11, slices 0916* through 1010*):** the complete hit set across all 5 corpus dirs is stable — ourjourneys233 ZH+EN 章程組/餐會組 rosters (English roster confirms 蔡丁財 = David Tsay), ourjourneys106 黑名單 entry #28 (八七年同鄉會會長，得罪國民黨源於德國同鄉會會長之故) + 楊朝諭/楊朝諄 name-collision note, own essays #95/#138, own record TAH #536. All absorbed above; no conflicts to HOLD. Surname-only and romanization variants add nothing. Surname false positives confirmed NOT this person: 楊朝陽 in [[works/taiwaneseamericanhistory-org/ourjourneys282|282. 台美人籌設「台灣經濟研究所」軼事]] (different Yang, 經研所籌設圈), Chao-kuei Hung in ourjourneys272-eng, 楊朝諄 in [[works/taiwaneseamericanhistory-org/mystories423|423. 楊朝諄的成功之路]] (brother's profile).
 - **Essayist, TAH "台美人顧台灣" series:** authored [[works/taiwaneseamericanhistory-org/95-care-for-taiwan-by-taiwanese-americans-2-e9-80-81-e8-8a-b1-e7-9a-84-e6-89-8b-|95. 送花的手有餘香，為善的心能常樂 (2015/02)]] and [[works/taiwaneseamericanhistory-org/138-e4-b8-80-e4-bd-8d-e9-9b-a3-e5-be-97-e7-9a-84-e5-8f-b0-e7-81-a3-e4-ba-ba-e6-a|138. 一位難得的台灣人 (2014)]].
 
 ## Family
