@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Ron Chen (陳榮成)
 
@@ -53,6 +53,8 @@ last_reviewed: 2026-10-09
 - **FAPA 全國巡迴（1983）**：與彭明敏、黃彰輝及 FAPA 幹部（回憶文作者）分頭巡迴 51 個都市、歷 21 天，為台灣人公共事務會吸收新會員並募款——見 FAPA 回憶錄 [[works/taiwaneseamericanhistory-org/ourjourneys65||TAH Our Journeys #65（中）]]、[[works/taiwaneseamericanhistory-org/ourjourneys65-eng||#65（英）]]。
 - **著作**：與妻子 [[people/fu-mei-wu-chen||陳吳富美]] 合撰《1970四二四刺蔣案內情再公開》（2018），vault 內有兩份書目記錄：[[works/taiwaneseamericanhistory-org/publications1264||TAH #1264]]、[[works/taiwaneseamericanhistory-org/publication1280||TAH #1280（署名「府城石舂臼人，陳榮成」）]]；另有陳榮成本人論述《我所知的四二四事件內情》（2015/02）——見 [[works/taiwaneseamericanhistory-org/516-e6-88-91-e6-89-80-e7-9f-a5-e7-9a-84-e5-9b-9b-e4-ba-8c-e5-9b-9b-e4-ba-8b-e4-b||TAH #516]]，與 2018 年專書同屬刺蔣案第一手記錄。
 - **《被出賣的台灣》譯本記錄**：除 1973 年漢文譯本（見上）外，vault 另存書目 [[works/taiwaneseamericanhistory-org/433-e8-a2-ab-e5-87-ba-e8-b3-a3-e7-9a-84-e5-8f-b0-e7-81-a3-e9-99-b3-e6-a6-ae-e6-8||TAH #433《被出賣的台灣／陳榮成翻譯》（1991/03）]]——**HOLD: 譯本出版年 1973（Our Journeys #33 回憶）vs 1991/03（#433 書目記錄），兩說並存**。
+
+- **校園網路名單（1966）**：TAH《台獨聯盟美國本部》（2016/08）記 1966 年費城結盟前後之校園分發網絡，陳榮成列名奧克拉荷馬大學諾曼校區（與陳唐山、王人紀同行）——見 [[works/taiwaneseamericanhistory-org/ourjourneys234||TAH Our Journeys #234]]。該文另記「組織部」成員 11 月 16 日再啟分區走訪（西路：張燦鍙、陳榮成由洛杉磯往舊金山；東路：羅福全自費城縱走東岸；後簡金生、賴文雄加入），使《台灣通訊》郵寄名單由 400 份增至 4,000 份——**HOLD: 此 11/16 出行之記述與 1966 年 6-7 月「自由長征」是否同一行程，兩說並存**（#234 未標年份於該段落；#81/#53 記 6-7 月橫貫）。
 
 ## Family
 
