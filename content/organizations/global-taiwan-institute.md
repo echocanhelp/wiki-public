@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Global Taiwan Institute (全球台灣研究中心)
 
@@ -26,6 +26,7 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 - 2020-10 GTI 主辦「GTI Taiwanese Film Week」，台美人電影節指南將放映活動註記「hosted by Global Taiwan Institute」（[[works/taiwaneseamerican-org/ta-film-festival-guide-2020|TA Film Festival Guide 2020]]）。
 - 台美人學習資源網收錄其委託 Thomas J. Shattuck 撰寫的轉型正義專文〈Transitional Justice in Taiwan: A Belated Reckoning with the White Terror〉，論白色恐怖時期真相調查不足與檔案開放法制改革（[[works/taiwaneseamerican-org/remembrance-resources-learning-about-228|228 紀念學習資源頁]]；另見 [[works/taiwaneseamerican-org/remembering-the-228-massacre-readings-resources-on-taiwans-white-terror-era|228 紀念閱讀資源頁]] 同文轉載）。
 - GTI 執行長 Russell Hsiao 本人入藏 TAH Who's Who 檔案（[[works/taiwaneseamericanhistory-org/whos-who-1550-russell-hsiao|TAH Who's Who #1550 Russell Hsiao]]）；共同創辦人葉介庭另有 2015/05 訪談條目入藏（[[works/taiwaneseamericanhistory-org/425-chien-ting-yeh-e8-91-89-e4-bb-8b-e5-ba-ad-201505|TAH #425 葉介庭]]），早於 2016-09-14 GTI 創立。
+- GTI 的年度論壇／年會（Annual Symposium）已成為台灣外交領袖與美國國會人物就台美關係發聲的固定場合：2020 年吳釗燮、2022 年蔡英文總統、2020 年眾議員 Mike Gallagher 等皆以視訊出席（詳見「From the record」2020–2025 條目）；其委託發布的「中共對台灣的秘密行動」報告（2025-03）亦進入社群記錄。
 - GTI 亦為台美人社群論述的發表平台：Hsin-I Cheng 的〈Model Minority Myth〉訪談刊於 Global Taiwan Institute，談台灣議題不宜僅訴諸「精英路線」、應建立跨族跨階層支持（[[works/taiwaneseamerican-org/model-minority-myth-hsin-i-cheng|Model Minority Myth — Hsin-I Cheng]]）；葉介庭社群建構專文亦以 GTI 共同創辦人、副主席身分記述（[[works/taiwaneseamerican-org/a-tale-of-two-islands-fire-ex-ignite-community|A Tale of Two Islands: Fire EX 社群點火]]、[[works/taiwaneseamerican-org/no-double-ten-is-not-taiwans-independence-day|No, Double Ten Is Not Taiwan's Independence Day]]）。
 
 ## Sources
@@ -67,6 +68,16 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 - 2026-09-22 — TJJ-A09220700-3 re-verify: 執行長 Russell Hsiao 受邀演講點名 GTI，連結為真；日期事實已見上條，不重複。
 
 - 複核（TJJ-A09230400-2, 2026-09-24）：本 slice 文章 3260cd0bdf2f84d7（海台青與黑客松(2017-07-24刊)）正文再驗證——正文以其執行長 Russell Hsiao 受邀演講點名 GTI，subject 連結為真，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
+- 2020-01-11 — 駐美代表處與 GTI 及「2049計畫協會」合作，首次在選舉當天於華府舉辦台灣選情分析研討會；薛瑞福（甫接任 2049 協會主席）到場致詞，稱台灣高投票率展現民主、是「美好的一天」（[[articles/taiwanjustice-net/2026/20260115083543_台灣大選順利完成_薛瑞福_讓中國人民反思_卜_2298f4679bb183fe|中央社 via TJJ, 2020-01-11]]）。
+- 2020-09-15 — GTI 視訊年會：外交部長吳釗燮預錄演說，感謝 GTI 成立四年來對推進美台關係之貢獻，呼籲國際社會支持台灣的民主存在；同場眾議員 Mike Gallagher（《台灣防衛法》提案人）主張美國以「戰略確定」取代戰略模糊，稱「今日的台灣有如舊冷戰時的柏林」（[[articles/taiwanjustice-net/2026/20260123231221_美議員mike-gallagher_美須轉向戰略確定_讓北京知道侵犯_865d3cedf329138d|VOA via TJJ, 2020-09-15]]；另見吳釗燮致詞報導 [[articles/taiwanjustice-net/2026/20260125064310_吳釗燮_台灣捍衛自由民主生活-對抗中國擴張土耳_690c16caacfb591e|中央社 via TJJ, 2020-09-15]]）。
+- 2020-10-11 — GTI 高級研究員寇謐將（Michael Cole）就國民黨團提案與美國「復交」公決案受訪，分析兩黨「事實上有兩個國家存在」的共識（「華獨」與「台獨」之別）（[[articles/taiwanjustice-net/2026/20260118223252_國民黨提案與美國_復交_寇謐將_未來立場還_8c841ff8fe64cdbb|VOA via TJJ, 2020-10-11]]）。
+- 2020-09-23 — GTI 前資深研究員安大維（David An）撰文指中國隨經濟與軍力增長似有意將統一列為中程目標、恐致台海衝突（[[articles/taiwanjustice-net/2026/20260120122337_美國陸軍刊物文章談共軍犯台-籲重新駐軍台灣_引_45186ab931c7d15f|美國陸軍刊物綜述 via TJJ, 2020-09-23]]）。
+- 2021-10-19 — 前白宮國安顧問歐布萊恩（Robert O'Brien）以 GTI 美台關係工作小組主席身分出席 GTI 台灣國際空間研討會視訊致詞，稱聯大 2758 號決議僅涉中國席次、其他主張皆屬中共宣傳，台灣有權參與聯合國體系（[[articles/taiwanjustice-net/2021/20211207123639_2021_10_19_美前國安顧問robert-obrien_台灣有權參與聯合國體系_13acf82fc5e37beb|中央社 via TJJ, 2021-10-19]]）。
+- 2022-10-05 — 蔡英文總統以預錄英語視訊在 GTI 年度論壇（主題「美台關係：推進基於規則的國際秩序」）致詞，指中國軍演與灰色地帶行動破壞台海現狀、侵犯台灣主權，台灣是被排除於聯合國體系外的可靠夥伴（[[articles/taiwanjustice-net/2023/20230205135106_2022_10_05_蔡總統對美智庫視訊演說_台灣應有機會發聲並做_17126cbb9527556d|中央社記者 via TJJ, 2022-10-05]]）。
+- 2025-03-19 — GTI 副主任鄭哲軒（John Dotson）就賴總統定調中國為境外敵對勢力回覆中央社記者詢問，稱恢復軍事審判制度是根除間諜問題之必要舉措（[[articles/taiwanjustice-net/2025/20250418232310_賴總統定調中國為境外敵對勢力-美學者_必要之舉_310ae1316e797844|中央社 via TJJ, 2025-03-19]]）。
+- 2025-03-23 — GTI 發布「中國共產黨對台灣的秘密行動」報告（前 CIA 分析師 Peter Mattis 等執筆），建議建立外國代理人登記、加重間諜刑罰、卸任官員赴中前 30 天公開行程（[[articles/taiwanjustice-net/2025/20250418223432_美智庫指台灣面臨中共秘密政治戰-建議加重間諜刑_ccef06444e47922b|中央社 via TJJ, 2025-03-23]]）。
+- 2024-05-26 — GTI 計畫經理吳智芳就美中教育脫鉤受訪：美國大學與中國學術機構合作誘因益減、逐漸轉向台灣，因台灣的民主自由構成合作優勢（[[articles/taiwanjustice-net/2025/20250419172927_北京華府緊張-美國學府轉與台灣高等院校合作_3472c49ce6df3754|中央社記者 via TJJ, 2024-05-26]]）。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
