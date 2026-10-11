@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Bang H. Hwang (黃邦雄)
 
@@ -41,7 +41,7 @@ Assistant Professor of Anatomy
 
 - 1992–1993 — president of the Indianapolis Taiwanese American Association (印城台灣同鄉會), listed in the association's own historical roster of successive presidents in [[works/taiwaneseamericanhistory-org/our-journeys-389|389. 印城台灣同鄉會紀要 (12/2023)]] (band A, community history).
 - Same memoir places him among the Indianapolis circle — with 莊振戊, 吳群也, 吳良也, 楊水森, 吳義雄, 何源泉, 吳錦鍠 and John Conklin — that, through the Indiana chapter of FAPA (台灣人公共事務會) from the 1990s onward, lobbied Indiana's congressional delegation (Sen. Richard Lugar, chairman of the Senate Foreign Relations Committee, and Rep. Lee Hamilton, chairman of the House Foreign Affairs Committee) into resolutions promoting Taiwan's democratization, Taiwan Strait security, and US–Taiwan relations.
-- Corpus name-collision note: taiwanjustice-net (2021) carries health essays by a 「黃邦雄醫師」 (e.g. 長青教室心得報告 2018-11-02), and a 2021-07-25 TanLa 洛僑中心醫療講座 report names a 黃邦雄醫師 as 婦病專科 who edited/uploaded the lecture series videos and was slated to present the series' third talk (2021-09-11). HOLD: a gynecologic-oncology physician community lecturer vs this profile's anatomy researcher (Penn State / Indiana Univ. / VA Puget Sound) — no evidence they are the same person; NOT merged.
+- Corpus name-collision note: taiwanjustice-net (2021) carries health essays by a 「黃邦雄醫師」 (e.g. 長青教室心得報告 2018-11-02), and the 2021-09-27 TanLa 洛僑中心醫療講座系列第一講 report [[articles/taiwanjustice-net/2021/20210927004805_2021_07_25_tanla-醫療講座系列第一講-疫情的劫數餘生影_d108a309e84da75a|TJJ TanLa 第一講 report]] names a 黃邦雄醫師 as 婦病專科 who edited/uploaded the lecture series videos and was slated to present the series' third talk (2021-09-11). HOLD: a gynecologic-oncology physician community lecturer vs this profile's anatomy researcher (Penn State / Indiana Univ. / VA Puget Sound) — no evidence they are the same person; NOT merged.
 
 - Corpus re-check 2026-09-16 (deepen-x slice 25): re-grep across works/articles returns the same hit set — own TAH #834 record, the our-journeys-389 印城同鄉會 memoir, and the taiwanjustice-net 「黃邦雄醫師」 essays — all already cited above. Nothing new absorbable; HOLD on the name collision stands.
 - Corpus re-check 2026-09-16 (deepen-x slice 09160316-20): re-grep hit set unchanged (#834、our-journeys-389、taiwanjustice-net 2021 文章含「人類乳突病毒與疫苗的認識[影]」HPV 講題，屬同一「黃邦雄醫師」 HOLD 群). SKIP — 無新可吸收事實。
@@ -120,3 +120,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090701-23: verified 2026-10-10 — wave-2 link+deepen re-check of article 89e6683c93156205 (台美人台加人 p356, TJJ 2016-05-17 條目 / 2024-05-20 快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090701-27: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-27 article a75a6e8c12e18729 (台美人台加人 popular 分類頁, 2025-04-30 快照) read fresh this attempt: 「人類乳突病毒與疫苗的認識[影] ◎ 黃邦雄醫師」條目確認見於正文; subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- Deepen-x re-grep 2026-10-11 (slice 10100600-13): hit set across works/articles/sources/events/topics unchanged — own TAH #834 record, our-journeys-389 印城同鄉會 memoir (歷任會長 1992–1993 + FAPA 印州遊說群組名單, both cited), taiwanjustice-net 「黃邦雄醫師」 corpus (TanLa 醫療講座 2021 報告、HPV 講題 tag/archives、2017 卵巢癌講座 category pages、長青教室 tag pages). Two grep hits are name-substring false positives, NOT this person: 「呂邦雄醫師」 in works/taiwaneseamericanhistory-org/whos-who-2014-b-s-lu.md (Dr. B. S. Lu) and 「小川邦雄」 (前TBS記者) in a 2025-09-15 三島由紀夫 article — not linked, not merged. One new wikilink added: the 2021-09-27 TanLa 第一講 report is now anchored in the name-collision note (previously cited only by date, not by article link). No new biographical fact; 婦產科醫師 vs 解剖學者 HOLD 不變. -->
