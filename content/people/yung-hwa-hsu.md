@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Yung Hwa Hsu (許永華)
 
@@ -106,3 +106,16 @@ Fresh ZH+EN grep across works/articles/sources/events/topics surfaced 7 previous
 
 <!-- TJJ-A10090501-11: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-11 article 0832558e3b4e5ac7 (台美史料中心 March 2021 Newsletter, 2021-02-28): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10090501-16: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-16 article b7327dcf888cee82 (台美史料中心 March 2021 Newsletter, TJJ 2021-02-28): all 5 subject links (yung-hwa-hsu / adrian-lin / kin-ko / miaw-shang-su-lin / edgar-chun-yi-lin) re-checked vs 正文 this attempt — 許永華撰由陳文成紀念基金會創立談起、Ken Lee「不怕死的病西施」蘇妙香與林宣緒婚事、柯金寅緬懷楊國雄、林俊義活出淋漓盡致的生命自述 — all real mentions, no wrong/spurious links; dated facts w/ article wikilink already in From the record — saturated, no new material. -->
+
+## Deepen — 2026-10-10 (slice 10100315-16, corpus grep)
+
+Fresh ZH+EN grep (許永華 / Yung Hwa Hsu) across works/articles/sources/events/topics surfaced six previously-unlinked records:
+
+- **2008-08 — 專欄.** [[works/taiwaneseamericanhistory-org/73-e5-be-9e-e7-be-8e-e5-9c-8b-e7-9c-8b-e5-8f-b0-e7-81-a3-e8-a8-b1-e6-b0-b8-e8-8f|73. 從美國看台灣 (2008-08, Politics)]] — his own politics column, alongside the 2008 autobiography already recorded above.
+- **1993-07 — 夏令會講者.** [[works/taiwaneseamericanhistory-org/ourjourneys245|245. 美東南區台灣人夏令會簡史 (劉格正, 2016-09)]] — he spoke on politics at the 15th Southeast US Taiwanese Summer Conference (University of Georgia, Athens, 1993-07-09–11) alongside 李應元、楊宗昌、廖中山、鍾佳濱 and others.
+- **2015-04 — 追思紀念.** [[works/taiwaneseamericanhistory-org/photo-albums-activities-68|68. In memory of Yung Hwa Hsu — 許永華生命的禮讚 (2015-04)]] — memorial photo album published after his death, corroborating the 2015 end of the 1936–2015 era.
+- **2015-07 — 建國券.** [[works/taiwaneseamericanhistory-org/ourjourneys147|147. 台灣獨立聯盟建國券 (2015-07)]] — record of Taiwan Independence League 建國券 material, sourced from his wife 蘇惠美 ([[people/amy-hsu|Amy Hsu 蘇惠美]]).
+- **2015-07 — 盟員團圓會.** [[works/taiwaneseamericanhistory-org/148-e5-8f-b0-e7-8d-a8-e8-81-af-e7-9b-9f-e4-ba-94-e5-8d-81-e9-80-b1-e5-b9-b4-e7-9|148. 台獨聯盟五十週年盟員團圓會 (2015-07)]] — his own account of the Taiwan Independence League 50th-anniversary reunion.
+- **2016-09 — 世台會文.** [[works/taiwaneseamericanhistory-org/ourjourneys249|249. 歡樂中的傷痛—記世台會 (2016-09)]] — his own essay on the World Federation of Taiwanese Associations (世台會), the body where he served as Chief Secretary (秘書長).
+- **基金會成立經過（再確認）.** [[works/taiwaneseamericanhistory-org/ourjourneys8|8. 陳文成教授紀念基金會成立經過 (林富文, 2014-09)]] and its English version [[works/taiwaneseamericanhistory-org/ourjourneys8-eng]] — 林富文's first-person account confirming the 1981 donation-campaign main organizers were 許永華 in Ann Arbor and 賴金德 in Pittsburgh, and that the foundation's expanded mission (Taiwanese history/culture, human rights, political-economic equality) was set on his advice at 陳素貞's request — same facts as the ourjourneys321-eng record already above, now with the 2014 original also linked.
+- Corpus grep false positive: TJJ article 25c8b0e6d04b7aa9 matches 永華 via 永華宮 (a Tainan temple), not the person — no link.
