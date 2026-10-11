@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Mao-ching David Huang (黃茂清)
 
@@ -40,10 +40,11 @@ Mao-ching (David) Huang 黃茂清 – History of Taiwanese American (T.A. Archiv
 - **First-generation Taiwanese American lawyer records:** his own TAH encyclopedia entries are preserved in-corpus at [[works/taiwaneseamericanhistory-org/ff318|318. Mao-ching (David) Huang 黃茂清 / First President of Taiwanese American Lawyers]], [[works/taiwaneseamericanhistory-org/ff369|369. Mao-ching (David) Huang 黃茂清 / First Male Lawyers / 1975]], and [[works/taiwaneseamericanhistory-org/whoswho1415|1415. Mao-ching (David) Huang 黃茂清 / 2016/12]].
 - **Westside Life Seminar (西區生活座談會) member:** the 1978-01 seminar founded at 阮厝 by 劉天良's circle counts 黃茂清 among its later joiners, alongside 黃武雄, 廖聰明, 吳仲輝 and others; the seminar's members went on to hold posts in 商會, 旅館公會, FAPA, 公民協會 and 醫師公會 — [[works/taiwaneseamericanhistory-org/ourjourneys212|212. 生活座談會簡史 / 劉天良 / 03/2016]] (and its ZH source record [[works/taiwaneseamericanhistory-org/ourjourneys29|29. 南加州台灣會館開創的史料 / 黃樹人編輯 / 2014/09]]).
 - **Civic signatory, NTU alumni statement (2018-07):** listed as 黃茂清(法律) among the 國立台灣大學校友 who publicly protested the 南加州台大校友會's invitation of 管中閔 to its annual meeting, arguing the alumni council should not act in the association's name while alumni views diverge — [[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ 2018-07-21 抗議聲明]].
-- **TACL founding meeting participant:** At the 1982-01-21 meeting convened by 許英智 (then vice president of the 南加州台灣同鄉會/SCTAI), 黃茂清 was among the sixteen 同鄉 who deliberated forming a Taiwanese American civil-rights body; the meeting resolved to found 「TACL」 (Taiwanese American Citizens League) modeled on the JACL and applied for non-profit status, with a six-person 籌備小組 named — see [[works/taiwaneseamericanhistory-org/ourjourneys272|272. 台美公民協會的成長：從孕育到發芽 / 周實 / 01/2017]].
+- **TACL founding meeting participant:** At the 1982-01-21 meeting convened by 許英智 (then vice president of the 南加州台灣同鄉會/SCTAI), 黃茂清 was among the sixteen 同鄉 who deliberated forming a Taiwanese American civil-rights body; the meeting resolved to found 「TACL」 (Taiwanese American Citizens League) modeled on the JACL and applied for non-profit status, with a six-person 籌備小組 named — see [[works/taiwaneseamericanhistory-org/ourjourneys272|272. 台美公民協會的成長：從孕育到發芽 / 周實 / 01/2017]]. The English translation names him in full as "Mao-ching David Huang" among the sixteen attendees — [[works/taiwaneseamericanhistory-org/ourjourneys272-eng|ourjourneys272-eng]].
 - **Oral-history video:** his 台美人物誌 video interview (美洲台灣日報社長李木通主持, 2016-11-30) is held in-corpus at [[works/taiwaneseamericanhistory-org/videos48|48. 台美人物誌-黃茂清律師專訪 / 2016-11-30]] — same session as the taiwanjustice.net print piece cited under "From the record".
 - Corpus re-grep 2026-09-21: hit set gained no new people-level facts beyond prior passes (ourjourneys173/-eng, life88, mystories523, whoswho1415, ff318/ff369); newly linked here are the TACL founding memoir ([[works/taiwaneseamericanhistory-org/ourjourneys272|ourjourneys272]], names him among the 16 founders) and the video interview work ([[works/taiwaneseamericanhistory-org/videos48|videos48]]). English Flamingo Garden account still the only source for the three-lawyer adviser list; count discrepancy remains held.
 - CAUTION: [[works/taiwaneseamericanhistory-org/whos-who-2132-david-huang|2132. Rev. David Huang 黃德利牧師]] is a different person despite the shared English name — not linked as a subject.
+- Corpus re-grep 2026-10-11 (slice 10100600-12): hit set unchanged from prior passes (all 11 work/article hits already linked). New link added: [[works/taiwaneseamericanhistory-org/ourjourneys272-eng|ourjourneys272-eng]] (English TACL founding memoir, names him among the 16). The hits in sources/ntpc-usa-org.md and sources/good-shepherd-taiwanese-presbyterian-church.md are Rev. David Huang 黃德利 — different person, not absorbed. No new dated facts; page saturated.
 
 ## Family
 
