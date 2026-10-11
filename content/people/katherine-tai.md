@@ -133,6 +133,8 @@ Absorbed from vault pages already naming her (no web):
 
 <!-- TJJ-A10090401-27: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-27 article 2c5d3c7d4f5acccc (戴琪與鄧振中首度視訊對話，美台未來數週重啟TIFA會談, taiwanjustice.net, 2021-06-10 刊 / 20250719 快照) read fresh this attempt: subject links re-checked vs 正文 — 戴琪與鄧振中約40分鐘視訊會談、強調台美貿易投資關係、承諾數週內於 AIT／TECRO 共同主持下重啟第11屆TIFA確認見於正文, real, no wrong/spurious links; 鄧振中無 subject 條目維持純文字正確; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
+
+<!-- TJJ-A10100401-25: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-25 article 20250518232637_…_6d16f9e35d9e3188 (戴琪：台美貿易倡議盼在關鍵領域達高標準成果, taiwanjustice.net, 發文 2022-06-28／快照 2025-05-18) read fresh this attempt: subject link re-checked vs 正文 — 戴琪於「選擇美國投資峰會」演說談美台貿易倡議、制定具體有意義方式、探索並商定談判路線圖以於關鍵領域達高標準成果確認見於正文, real, no wrong/spurious links; 鄧振中／畢昂奇／拜登無 subject 條目維持純文字正確; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 ## 照片
 
 ![20230402231703_wp-content_uploads_2022_06_美國貿易代表戴琪_Katherine](../images/people--katherine-tai.jpg)
