@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Hsin-Cheng Hsiao (蕭新晟)
 
@@ -43,6 +43,10 @@ organizing scene and Taiwan's "Third Force" politics:
   at the National Archives, ~16,000 processed at launch, with plans to extend to
   Japanese and Dutch colonial-era archives. See
   [[articles/taiwanjustice-net/2024/20240425143841_root_d563b095f72513c7|TWJ 轉載自由時報：國家寶藏計畫]].
+  A FAPA retrospective places the project in the lineage of overseas Taiwanese
+  advocacy, describing 國家寶藏 as a project "因海外g0v黑客松醞釀而成" — consistent
+  with its 2017 TACEC/OTD hackathon debut below. See
+  [[works/taiwaneseamericanhistory-org/ourjourneys320|Our Journeys #320]].
 - **國家寶藏 hackathon debut (2017 TACEC):** The project was premiered publicly as a
   hackathon track at the 2017 U.S. East Coast Taiwanese Summer Camp (TACEC, 2017-07-01~04,
   West Chester University, PA), run by 海外台灣青年陣線 (OTD); the 國家寶藏 team "搜索到所有
@@ -102,6 +106,7 @@ _No filled family fields on the TAH profile._
 - [[works/taiwaneseamericanhistory-org/our-journeys-373|Our Journeys #373]] — mentioned in this record
 - [[works/taiwaneseamericanhistory-org/whos-who-1927-hsin-cheng-hsiao|TAH Who's Who #1927]] — own entry
 - [[articles/taiwanjustice-net/2024/20240425143841_root_d563b095f72513c7|TWJ：國家寶藏計畫報導]] — mentioned in this record
+- [[works/taiwaneseamericanhistory-org/ourjourneys320|Our Journeys #320]] — FAPA retrospective, 國家寶藏 via overseas g0v hackathon
 - [[articles/taiwanjustice-net/2023/20230930223545_2023_09_18_北市議員林亮君申請加入民進黨-推薦人為賴清德_1aaf45127a1ddb3e|TWJ：林亮君入黨報導]] — mentioned in this record
 - [[organizations/taiwan-national-treasure-foundation|Taiwan National Treasure Foundation]] — co-founded
 - [[organizations/overseas-taiwanese-for-democracy|海外台灣青年陣線 (OTD)]] — 2017 hackathon workshop
@@ -116,3 +121,10 @@ _No filled family fields on the TAH profile._
   Treasure / hackathon) surfaced 4 previously-unlinked records now absorbed above:
   楊遠薰 海台青與黑客松 column, org page taiwan-national-treasure-foundation, TAH stories
   #85 and #86. One new HOLD (2016 vs 2017 launch). 1 deepened.
+
+## Corpus re-grep (2026-10-11, slice 10101200-30)
+- Re-grep 蕭新晟/Hsin-Cheng Hsiao/新晟 across works/articles/sources/events/topics:
+  same 6 hits as prior slices, no new person-name records. Related-project grep
+  (國家寶藏 / National Treasure) surfaced 1 previously-unlinked record now absorbed:
+  Our Journeys #320 (FAPA retrospective, 國家寶藏 "因海外g0v黑客松醞釀而成" — supports
+  the hackathon-origin framing). 1 deepened, 0 new HOLDs.
