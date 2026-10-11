@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Sin-I Hsiao (蕭欣義)
 
@@ -61,3 +61,5 @@ _No filled family fields on the TAH profile._
 2026-09-27 corpus re-grep (蕭欣義 / Sin-I Hsiao, DEEPEN-X slice 09260700-11): fresh grep over works/ + articles/ — hit-set unchanged (whoswho1013, ourjourneys81/-eng, 259, 58, 234, 245, 63, 47, index); every hit already cited above. Saturated; SKIP-with-reason.
 
 2026-10-09 corpus re-grep (蕭欣義 / Sin-I Hsiao / 欣義, DEEPEN-X slice 10081000-11): same hit-set plus surname-only sweep (欣義 in ourjourneys76-eng = false positive, 黃信義/Hsin-I Huang of the Seattle TAA chapter — not this person). Newly absorbed detail from the same records: the 通訊錄 Massachusetts column also lists 林文忠 and 鄭忠雄 alongside him; the 1990 blacklist note (259) gives the full frame — 84 applicants, 18 named with visa「技術性問題」, resolved to 3 (吳明基、李應元、郭榮桔) with the reason narrowed to「現任暴力型革命組織的中央委員」, and names 周烒明 and 蕭欣義 together as first-time returnees. No conflicts found; no new works. Saturated.
+
+2026-10-11 corpus re-grep (蕭欣義 / Sin-I Hsiao / 欣義, DEEPEN-X slice 10100500-17): full sweep of works/ + articles/ + sources/ + events/ + topics/ — hit-set unchanged (whoswho1013, ourjourneys81/-eng, 259, 58, 234, 245, 63, 47, index, sources/taiwaneseamericanhistory-org). Verbatim spot-checks of the four core records (麥迪遜結盟 delegate list 波士頓同鄉會的蕭欣義; 1966-06-18 費城合併會 delegate roster; 259 blacklist passage naming 周烒明、蕭欣義 as first returnees; 245 keynote「台灣的轉機」) all match existing text. No new records, no conflicts. Saturated; SKIP-with-reason.
