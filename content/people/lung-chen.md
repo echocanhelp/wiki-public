@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Lung Chen (陳隆)
 
@@ -42,7 +42,8 @@ From the community record (memoirs outrank the TAH press-kit bio):
 - 著有回顧文章記述台語教會與同鄉會相輔相成、信徒對台美人社團聯繫與台灣民主化運動的貢獻；本人即為該回顧的記述對象（[[works/taiwaneseamericanhistory-org/ourjourneys280|280. 那一夜，在紐約]]；另見 [[works/taiwaneseamericanhistory-org/our-journeys-357|357. 舊金山灣區臺灣人的社團活動與家國意識之形成]] 引用其「教會與同鄉會相輔相成」論述）。
 - 1990年代與楊子清同為南加州「台灣名家演奏系列」（林衡哲主導，1992–1993洛杉磯）籌備會活躍委員；後楊子清為LA「大楊網路電視台」Producer，陳隆即該台「陳隆開講」節目主持人，並屢任台灣人夏令會司儀（含邀請石青如演出的場次）（[[works/taiwaneseamericanhistory-org/ourjourneys287|287. 台南善友樂團之後代首次在夏令會聚會 / 黃東昇 / 2017-05]]）——與TAH #408「海外第一名嘴陳隆」稱號互證。
 - 著有自己的作品三篇：2002-12 自傳式散文「團圓——最佳的選擇」（[[works/taiwaneseamericanhistory-org/publications1226|1226. 團圓——最佳的選擇]]）、2012-08-12 於王敏昌追思禮拜訪談（[[works/taiwaneseamericanhistory-org/31-e9-99-b3-e9-9a-86-e5-9c-a8-e7-8e-8b-e6-95-8f-e6-98-8c-e8-bf-bd-e6-80-9d-e7-a6|31. 陳隆在王敏昌追思禮拜的訪談]]）、2016-05 主持甘苦談（[[works/taiwaneseamericanhistory-org/mystories439|439. 節目主持人甘苦談]]）；與 TAH #408 自述「海外第一名嘴陳隆」（[[works/taiwaneseamericanhistory-org/mystories408|408. 陳隆 / 海外第一名嘴陳隆]]）互證。
-- 「陳隆開講」節目於 taiwanjustice.net 留有專題歸檔頁，內容含「2020台灣大選英德配勝選有感」等時事評論（[[articles/taiwanjustice-net/2025/20250915005023_tag_陳隆開講_fc80c42976d10639|陳隆開講（taiwanjustice.net）]]）。
+- 「陳隆開講」節目於 taiwanjustice.net 留有專題歸檔頁，內容含「2020台灣大選英德配勝選有感」等時事評論（[[articles/taiwanjustice-net/2025/20250915005023_tag_陳隆開講_fc80c42976d10639|陳隆開講（taiwanjustice.net）]]）；該站另有 2019-03-10「陳隆憶高俊明牧師【影音】」等「歷史必讀」条目（[[articles/taiwanjustice-net/2020/20200628115510_category_history_page_3_61442bcc611b8510|taiwanjustice.net 歷史必讀分類頁]]）。
+- 吳木盛世台會第二、三屆年會報告（2017-04）記述：年會中「體會到金美齡女士那高超的急智與辯才與陳隆在藝術方面的才氣」，並記作者於會場與常在通信而未見過面的陳隆初次見面——與「海外第一名嘴」及音樂學術背景互證（[[works/taiwaneseamericanhistory-org/ourjourneys283|283. 世台會第二、三屆年會報告]]）。
 - 洛杉磯台灣同鄉會早期由胞兄陳銓仁（已過世）主持聯絡與協調，後由許和瑞接棒（1967年會長）（[[works/taiwaneseamericanhistory-org/ourjourneys240|240. 半世紀前 UCLA的那些日子]]）——與本頁 1974 年陳隆任會長一節不相斥，屬前任兄長。
 - HOLD: corpus 中另有「108. Prof. Lung-Chi Chen 陳隆志教授」與「1898. L. H. Chen 陳隆旭」為同名近似之不同人士，勿併入本頁；「陳隆豐律師」（紐約台灣會館創辦人，ourjourneys09/27/76/283/304 等）與「陳隆星」（聖保羅同鄉，ourjourneys249）亦為不同人士。
 
@@ -67,6 +68,7 @@ From the community record (memoirs outrank the TAH press-kit bio):
 - Re-verify（deepen-x slice-09220800-15, 2026-09-22）：fresh grep 新增 hit ourjourneys27、our-journeys-381，內文實為「陳隆豐律師」（不同人士）及既有 backlink，非本人事跡；其餘 hit set 與已吸收一致 — 維持飽和。
 - 覆核（deepen-x slice-09230317-12, 2026-09-24）：fresh grep 陳隆（content/works+content/articles）hit set 與已吸收一致（ourjourneys280、our-journeys-350、ourjourneys253、our-journeys-357；108 陳隆志、1898 陳隆旭、ourjourneys27 陳隆豐為不同人士，已 HOLD）；our-journeys-357「教會與同鄉會相輔相成」引文再確認已在庫 — 飽和，無新材料。
 - 覆核（deepen-x slice-09250700-2, 2026-09-25）：fresh grep 陳隆 hit set 與已吸收一致（ourjourneys280、our-journeys-350、ourjourneys253、our-journeys-357、ourjourneys27、our-journeys-381；108 陳隆志、1898 陳隆旭為不同人士，已 HOLD）— 飽和，無新材料，SKIP。
+- 深化（deepen-x slice-10100600-24, 2026-10-11）：fresh grep 新增可吸收材料 2 筆 — ourjourneys283 吳木盛世台會年會報告（陳隆藝術才氣、會場初見面）及 taiwanjustice.net 歷史必讀分類頁「陳隆憶高俊明牧師」影音条目，已併入 Role in the Community；ourjourneys155 內文屬陳隆豐（不同人士，HOLD 維持），其餘 backlink 與已吸收一致。
 
 ## 照片
 
