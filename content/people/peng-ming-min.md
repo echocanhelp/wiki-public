@@ -109,3 +109,9 @@ Peng Ming-min died on April 8, 2022. A memorial tribute was written by 楊嘉猷
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - [[people/yang-jia-you||楊嘉猷 (Charles Yang) — wrote memorial tribute]]
 - [[people/zheng-bing-quan||鄭炳全 (Zheng Bingquan) — fellow TAHS member]]
+
+## 照片
+
+![20181027101517_wp-content_uploads_2017_03_彭明敏_jpg_9694611930](../images/people--peng-ming-min.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20181027101517）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

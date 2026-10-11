@@ -10411,3 +10411,9 @@ Notable quotes and mentions of **唐培理** in Taiwan Justice articles:
 
 
 > Note (2026-09-17, TJJ wave-2 absorb): this page is likely the same person as [[people/milo-thornberry|Milo Thornberry 唐培禮]] — 唐培理 vs 唐培禮 is a transliteration variant of one name, but per merge policy this is flagged, not auto-merged; the obituary itself uses both spellings.
+
+## 照片
+
+![20191018065318_wp-content_uploads_2017_03_Milo-Thornberry-唐培](../images/people--tang-peili.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20191018065318）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

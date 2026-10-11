@@ -51,3 +51,9 @@ _Disambiguation: the only other corpus mention of "Tina Chen" is the actress cre
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 
 - Re-verified 2026-10-08 (deepen-x slice 10070315-27): fresh grep Tina Chen / 吳富子 across all five corpus dirs — hits only own whoswho1738, works index, source hub, and the Almost Perfect actress (different person). Verified-saturated, SKIP stands.
+
+## 照片
+
+![20220709190657_wp-content_uploads_2022_06_吳富子女士1937-2022與女兒A](../images/people--tina-chen.png)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20220709190657）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

@@ -108,3 +108,9 @@ Coverage in the taiwanjustice-net corpus harvested into this vault extends his p
 <!-- TJJ-A10040600-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-6 article 1a2bdc08b6c7bf6c (台美人台加人 p3, 2025-04-26 快照): subject link 楊安澤 re-checked vs 正文 (「台裔楊安澤新書批美國制度失靈，擬下月組新政黨'), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607008-d: verified 2026-10-09 — wave-2 link+deepen re-check of article 1a2bdc08b6c7bf6c (台美人台加人 分類隨機頁 p3, 2025-04-26快照) read fresh this attempt: subject link re-checked vs 正文 — 「台裔楊安澤新書批美國制度失靈，擬下月組新政黨」確認見於收錄清單, real, no wrong/spurious links; dated fact w/ article wikilink (2021-01-25) already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20191022072238_wp-content_uploads_2019_10_楊安澤談美中貿易戰_-美製造商與農民](../images/people--andrew-yang.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20191022072238）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

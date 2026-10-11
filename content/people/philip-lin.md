@@ -94,3 +94,9 @@ last_reviewed: 2026-10-10
 <!-- TJJ-A10081501-2: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10081501-2 article 20250216000009_root_3be67f6e82d34da7 (台美人台加人分類存檔頁2, 2025-02-16快照) read fresh this attempt: subject link re-checked vs 正文 — 「國家人權委員會『林水泉遭受國家行政不法侵害人身自由案』公布記者會」(2021-07-13) 條目確認見於收錄清單, real, no wrong/spurious links; 2021-07-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090701-1: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-1 article e3440fec3eed8107 (籌謀台灣「不流血革命」的獻策高手原來是他 ◎ 陳昭南, TJJ 2022-05-09): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20230609172304_wp-content_uploads_2023_03_林水泉-218x150_jpg_e6](../images/people--philip-lin.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20230609172304）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

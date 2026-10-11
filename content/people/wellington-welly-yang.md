@@ -77,3 +77,9 @@ Wellington (Welly) Yang 楊呈偉 – History of Taiwanese American (T.A. Archiv
 <!-- DEEPEN-X10081400-10: verified 2026-10-10 — fresh ZH+EN+alias re-grep (楊呈偉/Welly Yang/Wellington Yang; 森下迪納/Morishita) across works+articles+sources+events+topics: hit set identical to prior checks (TAH #63/#24/#537/#112/#238, works/index, source page, TJJ 6fd9d16b/5f12408a 同稿重複存檔) — all already wikilinked/absorbed. Verified-saturated, SKIP, no new material. -->
 <!-- TJJ-A10090501-14: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-14 article 5f12408ab340f912 (曾為裴洛西募款餐會獻唱·音樂劇演員楊呈偉返台, 2022-08-08刊／2025-10-16快照): subject link re-checked vs 正文 this attempt (報導主角：裴洛西募款餐會獻唱、就業金卡、《夢幻愛程》卡司), real, no wrong/spurious links; 2022-08-08 dated fact w/ 雙檔 wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10090501-23: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-23 article 6fd9d16befa5a33a (曾為裴洛西募款餐會獻唱·音樂劇演員楊呈偉返台, 2022-08-08刊; 與 5f12408ab340f912 同稿重複存檔): subject link re-checked vs 正文 this attempt (報導主角), real, no wrong/spurious links; 2022-08-08 dated fact w/ 雙檔 wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20220929162447_wp-content_uploads_2022_08_楊呈偉-218x150_jpg_c1](../images/people--wellington-welly-yang.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20220929162447）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

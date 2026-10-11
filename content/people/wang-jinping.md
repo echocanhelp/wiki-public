@@ -54,3 +54,9 @@ last_reviewed: 2026-10-01
 複核（deepen-x 2026-09-25, slice 09250700-9）：fresh re-grep（王金平）命中集合不變 — works 端僅 ourjourneys301、why-taiwan-matters-part-ii（皆已吸收）；ourjourneys301 片段另點名同場與會者陳萬益、呂興昌（台灣文學學者），屬順帶提及不单列；tier2 端為島內政治報導（李眉蓁、顏寬恒報導順帶提及不收）。verified-saturated。
 
 複核（deepen-x 2026-09-26, slice 09260317-13）：fresh re-grep（王金平）命中集合不變 — works 端僅 ourjourneys301、why-taiwan-matters-part-ii（皆已吸收）；tier2 端為島內政治報導（2026-02-10 李眉蓁、2026-01-12 顏寬恒報導順帶提及不收）。無可吸收新社群材料（saturated）。
+
+## 照片
+
+![20200625124749_wp-content_uploads_2015_07_王金平宋楚瑜_jpg_c6b4157](../images/people--wang-jinping.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20200625124749）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

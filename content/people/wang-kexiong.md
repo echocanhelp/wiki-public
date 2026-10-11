@@ -81,3 +81,9 @@ Wang has publicly demanded that the Chinese Nationalist Party (KMT) fulfill four
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]
 - [[sources/2023-tahs-publication||2023 TAHS Publication]]
+
+## 照片
+
+![20240905080056_wp-content_uploads_2016_02_王克雄與母親王陳仙槎女士遊烏山頭水庫](../images/people--wang-kexiong.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20240905080056）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

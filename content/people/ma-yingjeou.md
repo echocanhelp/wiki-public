@@ -219,3 +219,9 @@ last_reviewed: 2026-10-09
 <!-- TJJ-A10090801-10: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-10 article ae7271322e42897b（范姜提昂〈當直選的統派總統發飆〉/ Taipei Times「Torn apart by presidential power」, 2015-03-10 刊）read fresh this attempt: subject link re-checked vs 正文 — 馬英九為本文主角（首位直選統派總統、九月風暴帶頭逐王金平、缺乏術）逐字確認, real, no wrong/spurious links; 2015-03-10 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090801-18: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-18 article 9e7164ea03c1512b (The Madness of Ma / Jack Healey, Human Rights Action Center, 2013-04-22 刊 / 2024-05-20 快照) read fresh this attempt: subject link re-checked vs 正文 — 馬英九為本文主角：「Do not let Ma Ying-jeou murder Chen Shui-bian」、被指涉入司法與復仇政治、支持度約11%且無競選連任壓力、天主教育背景與「Thou Shall Not Kill」論述、凌晨移監決策等逐字確認見於正文, real, no wrong/spurious links; 2013-04-22 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20200819203749_wp-content_uploads_2014_03_馬英九-鹿茸_png_bc712e6](../images/people--ma-yingjeou.png)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20200819203749）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

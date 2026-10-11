@@ -198,3 +198,9 @@ last_reviewed: 2026-10-09
 <!-- TJJ-A10090801-25: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-25 article c595d332038f73bb (「Taiwan」標籤頁 p3, 2024-06-20快照) read fresh this attempt: subject link re-checked vs 正文 — 「Chen Shui-bian suicide attempt confirmed by medical team during prison visit…」(2013-04-24條目) 確認見於清單, real, no wrong/spurious links; 2013-04-24 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090801-18: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-18 article 9e7164ea03c1512b (The Madness of Ma: Slow-Motion State Violence in Taiwan and the Murder of Chen Shui-bian / Jack Healey, Human Rights Action Center, 2013-04-22 刊 / 2024-05-20 快照) read fresh this attempt: subject link re-checked vs 正文 — 扁醫療照護遭系統性拖延或不足、造成永久傷病、凌晨無預警自可應變多重病情之醫療機構移回僅有監獄診所之監所、違反十人國際人權專家小組建議等記述逐字確認見於正文, real, no wrong/spurious links; 2013-04-22 dated fact w/ article wikilink already in From the record — saturated, no new material. 正文另提呂秀蓮（Annette Lu, 時任副總統D.C.座談脈絡）、Harreld Dinkins、Hans Wahl，vault 暫無頁，維持純文字。 -->
+
+## 照片
+
+![20240525225912_wp-content_uploads_2013_06_台灣前總統陳水扁被銬並高舉雙手_jp](../images/people--chen-shuibian.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20240525225912）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

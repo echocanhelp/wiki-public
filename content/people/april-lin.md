@@ -95,3 +95,9 @@ Pages that link to **april-lin** (april-lin):
 - 2022-09 — Listed as one of two named contact persons (with 戴智信) for the 万人挺台灣參與聯合國及世界衛生組織健行 carpool organized out of 台灣會館 — she was an on-the-ground organizer mobilizing LA participants for the Irvine walk: [[articles/taiwanjustice-net/2022/20220924224324_2022_09_20_萬人挺台灣參與聯合國及世界衛生組織健行24日舉行_67ae45d84cabf180|2022 挺台灣健行公告]].
 - Her WHA-advocacy footprint is corroborated by a second archived copy of the 2021 聯合聲明: [[articles/taiwanjustice-net/2025/20251108183438_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_80c0a825a7a661b6|2021 WHA 聯合聲明 (第二存檔)]] — same 共同發起人 listing, no new facts.
 - Disambiguation reconfirmed: the early-1950s 音樂教育的 林淑卿 in [[works/taiwaneseamericanhistory-org/ourjourneys270|Our Journeys #270]] is a different person (different generation; no merge).
+
+## 照片
+
+![20191018065318_wp-content_uploads_2019_09_April-林淑卿-100x70_j](../images/people--april-lin.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20191018065318）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

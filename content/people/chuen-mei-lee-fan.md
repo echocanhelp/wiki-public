@@ -55,3 +55,9 @@ last_reviewed: 2026-10-08
 - Re-verified 2026-09-25 (slice 09240900-8): identical hit set (738, ourjourneys-369, index) — verified-saturated; HOLD (范良信 vs 殷宗舜) stands.
 - Re-verified 2026-09-26 (slice 09251400-13): identical hit set (738, ourjourneys-369, index) — verified-saturated; HOLD (范良信 vs 殷宗舜) stands.
 - Re-verified 2026-10-08 (deepen-x slice 10070400-20): fresh ZH+EN grep (范李春美 / 李春美 / Chuen-Mei) across works/articles/sources/events/topics returned the identical hit set (738, ourjourneys-369, ourjourneys33-eng, index) — all already absorbed. SKIP: verified-saturated; HOLD (范良信 vs 殷宗舜) stands.
+
+## 照片
+
+![20220929185011_wp-content_uploads_2022_08_廖元甫教授_jpg_3608a24e](../images/people--chuen-mei-lee-fan.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20220929185011）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

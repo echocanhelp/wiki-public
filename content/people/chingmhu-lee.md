@@ -49,3 +49,9 @@ last_reviewed: 2026-10-09
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## 照片
+
+![20230609045109_wp-content_uploads_2023_06_李清木-324x400_jpg_13](../images/people--chingmhu-lee.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20230609045109）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

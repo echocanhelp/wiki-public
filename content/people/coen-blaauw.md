@@ -90,3 +90,9 @@ For more information, please click link :My Stories >>>464. 爲何我在FAPA ? /
 <!-- TJJ-A100607007-c: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607007-c article 23197ebf177d0b6a（「楊遠薰」標籤彙整頁第2頁, 2021-12-07快照）: subject link re-checked vs 正文 this attempt, real（「美國對台六項保證決議案的推手 ─昆布勞與 FAPA的故事」2016-05-21/23 兩條見於清單）, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090701-7: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-7 article d3c8399729f03df5 (楊遠薰《亂世奇緣》, 2016-04-20 刊, 2024-07-23 快照): subject link re-checked vs 正文 this attempt (傳主本人：父大昆1920生雅加達、KLM機長、本人1958生、1988阿姆斯特丹大學法學院、1989起任職FAPA華府、2006娶何燕青), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20220927085821_wp-content_uploads_2016_05_2016年四月_昆布勞拜訪紐約上州-](../images/people--coen-blaauw.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20220927085821）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

@@ -472,3 +472,9 @@ Notable quotes and mentions of **王丹** in Taiwan Justice articles:
 ## Related Pages
 
 - [[people/albert-s-lai||Dr. Albert S. Lai]]
+
+## 照片
+
+![20200625013214_wp-content_uploads_2020_06_六四天安門事件31週年-美國務卿蓬佩](../images/people--wang-dan.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20200625013214）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

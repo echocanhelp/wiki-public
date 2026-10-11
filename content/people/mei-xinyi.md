@@ -51,3 +51,9 @@ Re-verified 2026-09-24 (slice 09230600-23): fresh ZH+EN grep of works/ + article
 Re-verified 2026-09-25 (slice 09240600-14): fresh ZH+EN grep of works/ + articles/ returned the identical hit set (TAH #228, #810, #378, #363, photo album #81, works index) — all already linked and absorbed above; SKIP-with-reason: verified-saturated, no new absorbable facts.
 <!-- deepen-x slice 09250900-4 re-verify 2026-09-25: fresh ZH+EN grep of works+articles — hit set identical to prior passes, all facts incl. HOLDs already absorbed; SKIP-with-reason: verified-saturated, no new absorbable facts -->
 <!-- TJJ-A10060900-2: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060900-2 — article 5b7741741c30e771 (「梅心怡」標籤頁, 2024-07-24 快照)（標籤主題即本人）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20240724050438_wp-content_uploads_2014_06_梅心怡_jpg_0a6bc002dd](../images/people--mei-xinyi.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20240724050438）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

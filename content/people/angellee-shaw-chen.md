@@ -61,3 +61,9 @@ Family-layer corpus context (absorbed 2026-09-21): she is part of the Shaw Chen 
 <!-- deepen-x 09251527-5: re-verify 2026-09-26 — fresh ZH+EN grep (works/articles): hit set identical to prior absorption waves; all corpus facts already absorbed in Role in the Community. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 09300321-6: re-verify 2026-10-04 — fresh ZH+EN grep (安仁理 / Angellee Shaw Chen): hit set identical (whos872 + family records + index); nothing new absorbable. Verified saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 10062334-28: re-verify 2026-10-08 — fresh ZH+EN grep (安仁理 / Angellee / 陳安仁) across works/articles/sources/events/topics: only whos872 + index/source hubs; family-record set unchanged. Verified saturated; SKIP-no-new-facts. -->
+
+## 照片
+
+![20220415221728_wp-content_uploads_2022_04_林茂生博士與博士論文合影_jpg_b](../images/people--angellee-shaw-chen.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20220415221728）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

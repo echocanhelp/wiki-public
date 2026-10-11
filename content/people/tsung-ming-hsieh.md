@@ -212,3 +212,9 @@ Corpus (Our Journeys) material beyond the press coverage below:
 <!-- TJJ-A10090701-8: verified 2026-10-10 — wave-2 link+deepen re-check of article c251f8fc65ac83e0（從二戰後全球去殖民化，到台灣國家正常化（下）, 獨傲村夫, TJJ 2023-06-02 刊, 2023-09-23 快照）: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090801-8: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-8 article 20240302035134_root_8842b0e0aad8032f（唐培理牧師GWU座談「美知台白色恐怖但保持緘默」VOA報導, 2011-11-23刊/2024-03-02快照）read fresh this attempt: subject link 謝聰敏 re-checked vs 正文 — 「魏朝廷和謝聰敏已被捕入獄」及獄中紙條經唐培理夫婦轉政治犯家屬與國際特赦組織，確認見於正文; link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20191018065322_wp-content_uploads_2019_09_謝聰敏-265x198_jpeg_6](../images/people--tsung-ming-hsieh.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20191018065322）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

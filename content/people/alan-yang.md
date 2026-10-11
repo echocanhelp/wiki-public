@@ -82,3 +82,9 @@ Corpus records place Alan Yang as a touchstone for the Taiwanese American creati
 <!-- TJJ-A10060800-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-5 article 2ac7d75679fda7fe（台灣鄉情與文化 分類頁3, 2020-06-28快照）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090801-9: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-9 article 2ac7d75679fda7fe（台灣鄉情與文化 分類頁3, 2020-06-28快照）read fresh this attempt: subject link re-checked vs 正文 — 「『虎尾』登上Netflix，台裔導演楊維榕新片談移民艱辛」逐字確認見於正文, real, no wrong/spurious links; 2020-04-10 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20200623082729_wp-content_uploads_2020_04_電影新片_虎尾_全片靈感來自導演兼編](../images/people--alan-yang.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20200623082729）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

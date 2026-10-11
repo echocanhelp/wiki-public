@@ -86,3 +86,9 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A10090701-16: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-16 article 28b0cc4e52acece2 (2021北美洲海外台灣人二二八紀念活動報導, TJJ 2021-03-03刊, 2026-02-10快照) read fresh this attempt: subject link re-checked vs 正文 — 「全美會會長陳桂鈴…為會議共同主席。活動流程由陳桂鈴主持」及閉幕提醒語逐字確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10090801-26: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-26 article f6213c1937fa956d (全美台灣同鄉會2021年二二八紀念系列活動圓滿落幕, 2021-03-14 刊 / 2025-04-30 快照) read fresh this attempt: subject link re-checked vs 正文 — 「全美台灣同鄉會會長陳桂鈴…為整個系列活動做了總結」及「紀念二二八是要確保苦難不再發生，台灣的自由民主與人權得以長存」語錄逐字確認見於正文, real, no wrong/spurious links; 2021-03-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20211124171104_wp-content_uploads_2021_11_全美台灣同鄉會會長陳桂鈴_左3_23](../images/people--kuei-ling-chen.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20211124171104）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

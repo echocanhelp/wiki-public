@@ -87,3 +87,9 @@ _Corpus re-grep 2026-10-09 (DEEPEN-X slice 10081009-10): fresh ZH+EN grep (張�
 <!-- TJJ-A100607005-b: verified 2026-10-09 — wave-2 link+deepen re-check of article c351c962b4545bfa (English Pages p2, 2020-06-26 快照) read fresh this attempt: 「加州史上首位女性台美人州參議員張玲玲宣誓就職 / Ling Ling Chang Takes Oath to Become the 29th Senate District's Next Senator 2018-06-25」確認見於正文, subject link 為真, 無錯鏈、無虛鏈; 2018-06-25 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090701-25: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-25 article f51d2ebb674cbdd3 (English Pages p13, 2024-05-22 快照) read fresh this attempt: subject link re-checked vs 正文 — 「加州史上首位女性台美人州參議員張玲玲宣誓就職 Ling Ling Chang Takes Oath to Become the 29th Senate District's Next…」條目確認見於正文, real, no wrong/spurious links; 2018-06-25 dated fact w/ article wikilink already in From the record; 張齡玲 vs 張玲玲 HOLD 不變 — saturated, no new material. -->
+
+## 照片
+
+![20220323114943_wp-content_uploads_2018_06_Sen_Chang_Takes_Oa](../images/people--ling-ling-chang.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20220323114943）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

@@ -56,3 +56,9 @@ _No filled family fields on the TAH profile._
 > Re-verify 2026-10-09 (deepen-x slice 10080600-14): fresh ZH+EN+surname grep (陳瑞斌/Rueibin Chen/瑞斌) of works/ + articles/ + sources/ + events/ + topics/ — hit set unchanged (7 files: #324, #506, works/index, sources index, two already-linked TaiwanJustice records, plus the 2023 林瑞斌 judicial-reform collision already disambiguated above). All hits already wikilinked with facts absorbed. Verified saturated; SKIP-with-nothing-absorbable.
 
 > Re-verify 2026-10-10 (deepen-x slice 10091500-4): fresh ZH+EN+surname grep (陳瑞斌/Rueibin Chen/rueibin/瑞斌) of works/ + articles/ + sources/ + events/ + topics/ — hit set again identical (7 files: #324, #506, works/index, sources index, two already-linked TaiwanJustice records, 2023 林瑞斌 collision). Nothing new absorbable; verified saturated.
+
+## 照片
+
+![20191203203605_wp-content_uploads_2019_07_陳瑞斌_png_848c2d9806](../images/people--rueibin-chen.png)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20191203203605）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

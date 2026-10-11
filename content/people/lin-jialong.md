@@ -53,3 +53,9 @@ Coverage in our corpus is press coverage via the taiwanjustice.net archive, not 
 - [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
 - [[articles/taiwanjustice-net/index||taiwanjustice.net Article Archive]]
 - [[people/freeman-huang||Freeman Huang (黃樹人)]]
+
+## 照片
+
+![20191018065319_wp-content_uploads_2019_09_林佳龍_民主可以很觀光-265x19](../images/people--lin-jialong.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20191018065319）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

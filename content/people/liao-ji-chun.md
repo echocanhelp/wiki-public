@@ -77,3 +77,9 @@ Pages that link to **liao-ji-chun** (liao-ji-chun):
 - [[organizations/joint-alumni-association-of-taiwan-teachers-college-and-normal-univers||JTTAA 台灣師院校友聯合會]] — the 師範-school alumni network his 台中師範 teaching career belongs to
 - [[works/taiwaneseamericanhistory-org/100-prof-shutsung-liao||TAH Encyclopedia #100: Prof. Shutsung Liao (son)]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## 照片
+
+![20220508192916_wp-content_uploads_2018_11_廖繼春寄給陳澄波的明信片_有椰子樹的](../images/people--liao-ji-chun.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20220508192916）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

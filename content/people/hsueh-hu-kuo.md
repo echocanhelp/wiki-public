@@ -75,3 +75,8 @@ For more bio information, please click link in Who's Who: 890. Hsueh-Hu Kuo 郭�
 - **晚年定居望海山莊 (Bay Area):** Per [[works/taiwaneseamericanhistory-org/our-journeys-357||Our Journeys #357]], Kuo spent his later years at 「望海山莊」 in Richmond, California (east Bay), named because from its windows he could see the ocean and a mountain silhouette resembling 觀音山 — "只要心裡有臺灣，站在舊金山也可以望見觀音山." The essay uses his late-life residency as an emblem of overseas Taiwanese 思鄉 sentiment among Bay Area Taiwanese-American community leaders.
 - **Purple Omiya-dori connection:** The 2016 三立電視臺 (SET TV) adaptation of [[people/li-fa-xie||謝里法 (Hsieh Li-fa)]]'s novel 《紫色大稻埕》 filmed a scene at Kuo's 望海山莊 in Richmond ([[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]]).
 
+## 照片
+
+![20201018015856_wp-content_uploads_2020_10_台灣前輩畫家郭雪湖妻子林阿琴辭世-享](../images/people--hsueh-hu-kuo.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20201018015856）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

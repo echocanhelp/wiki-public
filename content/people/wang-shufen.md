@@ -293,3 +293,9 @@ Notable quotes and mentions of **王淑芬** in Taiwan Justice articles:
 - [[organizations/tah-foundation||TAH Foundation]]
 
 - [[people/albert-s-lai||Dr. Albert S. Lai]]
+
+## 照片
+
+![20220123060619_wp-content_uploads_2022_01_suefen-王淑芬_jpg_251](../images/people--wang-shufen.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20220123060619）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

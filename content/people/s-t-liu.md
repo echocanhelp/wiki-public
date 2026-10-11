@@ -78,3 +78,9 @@ last_reviewed: 2026-10-10
 2026-10-10 re-grep (deepen-x slice 10090400-30): fresh ZH+EN grep (劉曉亭 / S. T. Liu / 劉三講古 / surname-only 曉亭) over works/articles/sources/events/topics returned the identical hit set — #1152/#1611 bibliographic records, works index, sources index, the two forum-program article copies 08cd200c + fc488102 (all already wikilinked with the dated-fact entry in place). Verified-saturated, nothing new absorbable.
 
 <!-- TJJ-A10090901-21: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-21 article fc48810253f4912f（第14回世界台灣文化論壇「布袋戲kap歌仔戲文學ê人生智慧」線頂聚會）: 主講者 劉曉亭牧師 subject link re-checked vs 正文 this attempt (好消息電視台「劉三講古」主講者、San Diego 台灣教會主任牧師、主題演講「外省人講台語：布袋戲ê文學智慧」), real, no wrong/spurious links (郭月霞長老娘 正文提及但無頁面, 維持純文字不造鏈); dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20210821125040_wp-content_uploads_2021_08_後疫情的危機與轉機影音-_-劉曉亭-](../images/people--s-t-liu.png)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20210821125040）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

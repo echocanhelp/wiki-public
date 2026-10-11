@@ -64,3 +64,9 @@ Re-grep 蘇郁涵|Yuhan Su against content/works + content/articles returned onl
 - Re-check (deepen-x slice-09221400-1, 2026-09-23): fresh grep hit set identical to already-absorbed wikilinks (own bibliographic records + index only) -- SKIP-with-reason: no absorbable memoir/community corpus; links and HOLDs unchanged.
 - Re-check (deepen-x slice-09230800-1, 2026-09-24): fresh grep hit set identical (#108/#187/#49 + index only) -- SKIP-with-reason: bibliographic stubs all already wikilinked; no absorbable memoir/community material; no conflicts to hold.
 - Re-check (deepen-x slice-09240700-1, 2026-09-25): fresh grep 蘇郁涵|Yuhan Su identical (#108/#187/#49 + index; the one article hit is a false positive on 'Dr. Ruey J. Sung', a different person) -- SKIP-with-reason: no new absorbable material.
+
+## 照片
+
+![20220301045345_wp-content_uploads_2022_02_台灣旅美鐵琴手蘇郁涵-696x414](../images/people--yuhan-su.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20220301045345）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

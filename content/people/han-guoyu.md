@@ -66,3 +66,9 @@ last_reviewed: 2026-10-10
 <!-- TJJ-A100606005-c: verified 2026-10-09 — wave-2 link+deepen re-check of article 1fbc7a8aff9cd26e (藍綠台北衝選情, 自由時報 2019-12-22): subject link re-checked vs 正文 this attempt (韓國瑜輔選汪志冰/孫大千/林郁方、霞海城隍廟「苦茫翻亂」發言), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090401-7: verified 2026-10-10 — wave-2 link+deepen re-check of article 8fc11ca0c5dbaebe (韓國瑜提預算協商盼柯建銘不要那麼硬·總統緩頰, 2025-01-16): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20190626061950_wp-content_uploads_2019_04_韓國瑜-郭台銘_jpg_820cd4](../images/people--han-guoyu.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20190626061950）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

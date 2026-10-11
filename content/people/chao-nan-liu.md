@@ -97,3 +97,9 @@ last_reviewed: 2026-10-09
 <!-- TJJ-A10090801-12: verified 2026-10-10 — wave-2 link+deepen re-check of slice article c9dd9fb782cc99b8（Covid-19 浩劫餘生錄分類 popular 頁, 2021-11-29 快照）: all 3 Subjects links re-checked vs 正文 this attempt — 「人生的海嘯 ◎李淑櫻」「武漢肺炎歷險記 ◎劉照男」「天已轉涼 ◎ 賴慧娜」each confirmed in the article list, real, no wrong/spurious links; dated facts w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090801-23: verified 2026-10-10 — wave-2 link+deepen re-check of slice article c48e08c7f2c3bf8d (Covid-19 浩劫餘生錄分類頁, 2020-11-20 存檔): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20230222173548_wp-content_uploads_2020_10_劉照男與夫人張秀美-100x70_p](../images/people--chao-nan-liu.png)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20230222173548）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

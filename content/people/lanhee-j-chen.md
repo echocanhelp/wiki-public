@@ -103,3 +103,9 @@ last_reviewed: 2026-10-09
 <!-- TJJ-A10090701-31: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-31 article 20200713165425_category_taiwan-news_page_3_5dd0106e892b8f96 (台灣新聞 分類存檔頁3, taiwanjustice.net, 2020-07-13 快照) read fresh this attempt: subject link re-checked vs 正文 — 「台裔學者陳仁宜（Lanhee Chen）投書CNN: 台灣防疫4大要素值得美國學習」條目逐字確認見於正文, real, no wrong/spurious links; 2020-07-11 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090901-9: verified 2026-10-10 — wave-2 link+deepen re-check (slice 10090901-9) of article a1056cd694ea21cb read fresh this attempt: Subjects 再核 vs 正文 — 陳崇廉（父，1970年代自台赴美留學、北卡醫學訓練、遷羅蘭崗執業醫師，敘述確認見於正文）／陳仁宜（本文主角，宣布角逐2022加州主計長，確認見於正文）兩連結均為真，無錯鏈、無虛鏈；兩人含本檔 wikilink 之日期事實條目（1970s／2021-07-11）已在 From the record — saturated，無新條目需加。謝雅美、陳世榮 vault 暫無頁，維持純文字。 -->
+
+## 照片
+
+![20241108164259_wp-content_uploads_2024_11_川普當選美國總統_史丹佛大學胡佛研究](../images/people--lanhee-j-chen.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20241108164259）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

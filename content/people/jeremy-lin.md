@@ -72,3 +72,9 @@ Jeremy Lin is a recurring subject — not just a mention — across the communit
 ## Vault re-check 2026-09-14 (deepen-x slice 6, vault-only)
 - All wikilink targets re-verified to exist. All six cited TAH encyclopedia records (#11, #21, #53, #113, #195, #203) resolve to vault works pages; family fields (林繼明, 吳信信) have no vault person pages, left unlinked.
 - Career sequence (Warriors 2010–2011 → Knicks Linsanity 2011–2012 → Rockets → Lakers → Hornets → Nets → Hawks → Raptors; New Taipei Kings 2023–2025) and Jeremy Lin Foundation founder role remain the consolidated vault record. No web used, no new pages created, nothing published.
+
+## 照片
+
+![20200623032933_wp-content_uploads_2020_04_林書豪_png_bef9b3bb02](../images/people--jeremy-lin.png)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20200623032933）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

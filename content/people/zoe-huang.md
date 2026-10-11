@@ -106,3 +106,9 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090501-22: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-22 article bfc5f319a036a339 (黃瑞芬訃聞, taiwanjustice.net, 2022-01-29 刊/2022-05-19 快照): 黃瑞芬 — 本人為訃聞主角，訃聞事實與1995 TUF LA演出回憶俱見正文 re-checked vs 正文 this attempt, real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10091401-8: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10091401-8 article 64302d51d03b3c5f (黃瑞芬訃聞, taiwanjustice.net, 2022-01-29 刊/2024-02-25 快照): Subjects re-read vs 正文 this attempt — all 6 links real (1995-07-29 TUF「台灣名家演奏系列」LA音樂會: 聲樂黃瑞芬, 鋼琴葉綠娜, 小提琴蘇顯達/黃維明, 中提琴吳昭麗, 大提琴陳建安; 節目含呂泉生〈搖嬰仔歌〉、蕭泰然〈嘸通嫌台灣〉), no wrong/spurious links; 蘇顯達/葉綠娜 mentioned in 正文 but have no people/ pages (grep-verified), correctly absent from Subjects; all 6 subject pages dated facts w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20220207200346_wp-content_uploads_2022_01_資深古典音樂節目主持人黃瑞芬過世-5](../images/people--zoe-huang.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20220207200346）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

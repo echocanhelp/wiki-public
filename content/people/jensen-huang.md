@@ -96,3 +96,9 @@ Jensen Huang founded NVIDIA in 1993 and has served since its inception as presid
 <!-- TJJ-A10071300-1: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071300-1 article 00354cf6ba9cf607（台美人台加人 featured p358, 2024-06-19快照）read fresh this attempt: subject link 黃仁勳 re-checked vs 正文 —「黃仁勳加州理工畢典致詞談輝達多次受挫『痛苦和磨難淬鍊超能力』[影]」條目確認見於正文（刊 2024-06-15）, real, no wrong/spurious links; 2024-06-15 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10080401-18: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080401-18 article 20231201231656_root_923dad711fb49f07 (台灣新聞分類存檔頁, 2023-12-01快照): subject link re-checked vs 正文 this attempt (「Catch大錢潮 20231201 黃仁勳『晶片純美製造』還要20年?」條目確認見於正文), real, no wrong/spurious links; 2023-12-01 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20250718092208_wp-content_uploads_2025_07_輝達_NVIDIA_執行長黃仁勳_中](../images/people--jensen-huang.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20250718092208）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

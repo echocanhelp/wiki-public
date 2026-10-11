@@ -69,3 +69,9 @@ Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HS21FC
 
 <!-- TJJ-A10040600-3: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-3 article f454eda084b7ca99 (園藝分類熱門頁, 2024-02-25快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A100607006-c: verified 2026-10-09 — wave-2 link+deepen re-check of article f454eda084b7ca99 (園藝分類熱門頁, 2024-02-25快照): subject link re-checked vs 正文 this attempt (「多肉植物 succulent–謝秀緞 (Juliar Wang) 主講[影]」條目具名), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20210608043446_wp-content_uploads_2021_05_謝綉緞講多肉植物-534x462_p](../images/people--juliar-wang.png)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20210608043446）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

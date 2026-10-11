@@ -62,3 +62,9 @@ Rev. Edward Bin Tanng 陳黃義敏牧師 – History of Taiwanese American (T.A.
 
 ## Network
 - [[organizations/formosan-presbyterian-church-in-los-angeles||FPCLA]] — TAH Who’s Who
+
+## 照片
+
+![20230408021909_wp-content_uploads_2014_03_鄭成功為何要屠殺荷蘭牧師_jpg_f](../images/people--rev-edward-bin-tanng.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20230408021909）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

@@ -71,7 +71,7 @@ Wang was involved in discussions about restructuring the "China Lobby." When the
 
 Wang is a devout Christian and has been an elder of the **Taiwanese Presbyterian Church** near Washington, D.C., which he helped build with many Taiwanese American church members through fundraising and contributions. He has served as an elder of the church for many years, and Taiwanese Americans or Taiwanese immigrants in the greater Washington area who see him refer to him as "長老" (Elder).
 
-He also contributed on the street-organizing side of community life: in the Taiwan Independence Day Parade in the Washington area, his fundraising work — together with the varied help of his son Gilbert — was credited among the preparations that made the parade succeed ([[_works/taiwaneseamericanhistory-org/ourjourneys232|ourjourneys232 — Independence Day Parade record]]).
+He also contributed on the street-organizing side of community life: in the Taiwan Independence Day Parade in the Washington area, his fundraising work — together with the varied help of his son Gilbert — was credited among the preparations that made the parade succeed ([[works/taiwaneseamericanhistory-org/ourjourneys232|ourjourneys232 — Independence Day Parade record]]).
 
 ## Legacy
 
@@ -117,3 +117,9 @@ Pages that link to **wang-neng-xiang** (wang-neng-xiang):
 - [[people/yang-jia-you||楊嘉猷 (Charles Yang) — co-author of profile]]
 - [[people/liao-shu-zong||Liao Shu-zong (廖述宗) — fellow democratic activist]]
 - [[people/franklin-ping-cheng||Franklin Ping Cheng (程炳成) — TAHS president]]
+
+## 照片
+
+![20191018065316_wp-content_uploads_2019_10_王能祥-100x70_jpg_b21](../images/people--wang-neng-xiang.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20191018065316）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

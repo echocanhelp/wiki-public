@@ -67,3 +67,9 @@ _No filled family fields on the TAH profile._
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- TJJ-A10060900-2: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060900-2 — article 5b7741741c30e771 (「梅心怡」標籤頁, 2024-07-24 快照)「艾琳達過境洛杉磯 簡述梅心怡病情」條目: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20221208042556_wp-content_uploads_2022_12_艾琳達獲頒鄭南榕紀念獎-陳菊恭賀獲得](../images/people--linda-gail-arrigo.png)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20221208042556）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

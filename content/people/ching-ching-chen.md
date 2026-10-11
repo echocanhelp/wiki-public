@@ -74,3 +74,9 @@ _No filled family fields on the TAH profile._
 
 ## Deepen-x re-check (slice 09150500-15, 2026-09-15)
 - SKIP-with-reason：語料庫檢索（works/articles，鄭青青/Ching Ching Chen/Cheng）再次復核，命中僅兩筆 band-B 書目記錄（[[works/taiwaneseamericanhistory-org/whoswho1053|TAH #1053]]、[[works/taiwaneseamericanhistory-org/23-e9-84-ad-e9-9d-92-e9-9d-92-ching-ching-cheng|TAH #23]]）及 works index 條目行，無回憶錄材料；異拼衝突（Chen vs Cheng）維持 Name Variants 記載，不併檔。
+
+## 照片
+
+![20230222173615_wp-content_uploads_2022_11_藝術家鄭青青將於Pasadena圖書](../images/people--ching-ching-chen.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20230222173615）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

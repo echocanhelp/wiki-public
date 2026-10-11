@@ -123,3 +123,9 @@ Re-grep 劉雲平 / Ted Lieu across content/works + content/articles returned th
 <!-- TJJ-A10090601-11: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-11 article accbf8ee04e32de8 (台裔國會議員劉雲平致函美國務卿AZ疫苗盡快賣台, 中央社洛杉磯專電 2021-05-28): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090801-19: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-19 article c6f9dbff48b39366（台美人台加人 popular 分類頁, 2024-02-21快照）read fresh this attempt: subject link 劉雲平 re-checked vs 正文 —「民主黨籍台裔眾議員劉雲平晉陞美空軍上校 ◎VOA 06-15-2016」條目具名確認見於正文, real, no wrong/spurious links; 2016-06-15 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20210608043548_wp-content_uploads_2021_05_洛杉磯地區選出的台裔聯邦眾議員劉雲平](../images/people--ted-lieu.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20210608043548）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

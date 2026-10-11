@@ -170,3 +170,9 @@ Pages that link to **wang-gui-rong** (wang-gui-rong):
 <!-- TJJ-A10040500-9: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-9 article 2a543ddc9301b7b3 (會館24週年募款年會公告, 2022-09-24快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607003-c: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607003-c article 2a543ddc9301b7b3 (大洛杉磯台灣會館24週年募款年會公告, 2022-09-13發文／20220924快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20191214133303_wp-content_uploads_2018_08_王桂榮_jpg_0b152a7209](../images/people--wang-gui-rong.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20191214133303）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

@@ -85,3 +85,9 @@ M.S., Aerospace Engineering; Ph.D. Course Program
 
 <!-- TJJ-A10090501-11: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-11 article 0832558e3b4e5ac7 (台美史料中心 March 2021 Newsletter, 2021-02-28): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10090501-16: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-16 article b7327dcf888cee82 (台美史料中心 March 2021 Newsletter, TJJ 2021-02-28): all 5 subject links (yung-hwa-hsu / adrian-lin / kin-ko / miaw-shang-su-lin / edgar-chun-yi-lin) re-checked vs 正文 this attempt — 許永華撰由陳文成紀念基金會創立談起、Ken Lee「不怕死的病西施」蘇妙香與林宣緒婚事、柯金寅緬懷楊國雄、林俊義活出淋漓盡致的生命自述 — all real mentions, no wrong/spurious links; dated facts w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20221002204919_wp-content_uploads_2022_05_柯金寅-mom-218x150_jp](../images/people--kin-ko.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20221002204919）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

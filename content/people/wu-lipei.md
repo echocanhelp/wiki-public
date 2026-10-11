@@ -296,3 +296,9 @@ Notable quotes and mentions of **吳澧培** in Taiwan Justice articles:
 <!-- TJJ-A100607003-c: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607003-c article 2a543ddc9301b7b3 (大洛杉磯台灣會館24週年募款年會公告, 2022-09-13發文／20220924快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090401-1: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-1 article 20240425080646_root_9a39a754d2a3b236 (吳澧培回憶錄前言, 2015-10-12刊/2024-04-25快照) read fresh this attempt: frontmatter author link 吳澧培 = 本文傳主（◎吳澧培署名）, Subjects links 彭明敏教授／謝聰敏 re-checked vs 正文, all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20220616163738_wp-content_uploads_2022_06_20220612_吳澧培簽書-218](../images/people--wu-lipei.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20220616163738）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

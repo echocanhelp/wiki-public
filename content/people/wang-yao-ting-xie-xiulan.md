@@ -112,3 +112,9 @@ Wang Yao-ting was born in 1941 in Taichung during Japanese colonial rule. He gre
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - [[people/zheng-bing-quan||Zheng Bingquan (鄭炳全)]]
 - [[people/yang-jia-you||Charles Yang (楊嘉猷)]]
+
+## 照片
+
+![20241108164224_wp-content_uploads_2024_10_台美音樂學者訪問團拜訪僑委會_謝秀緞](../images/people--wang-yao-ting-xie-xiulan.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20241108164224）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

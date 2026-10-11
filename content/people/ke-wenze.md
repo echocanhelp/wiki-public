@@ -53,3 +53,8 @@ last_reviewed: 2026-10-05
 - Re-grep 2026-10-05 (slice 09301000-7): identical picture — 0 hits in `content/works`; 841 hits in `content/articles`, and this run confirmed **every** hit lies under `articles/taiwanjustice-net/` (zero hits anywhere else in the corpus). taiwanjustice.net reportage/columns/tag indexes only; no diaspora community facts absorbable → SKIP-content stands, no 'Role in the Community' section created. hits-hash=bef279ed9d65
 - Re-grep 2026-10-05 (slice 09301017-7): identical picture — 0 hits in `content/works`; 841 hits in `content/articles`, all under `articles/taiwanjustice-net/` (reportage/columns/tag indexes). Diaspora-marker co-occurrence sweep (洛杉磯/紐約/僑/北美/台美人/Washington) matched only tag-index files + MANIFEST — no genuine diaspora community record. No diaspora community facts absorbable → SKIP-content stands, no 'Role in the Community' section created. hits-hash=3644e4595352
 
+## 照片
+
+![20220323115144_wp-content_uploads_2018_10_姚文智-諷柯文哲_jpg_edf7a](../images/people--ke-wenze.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20220323115144）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

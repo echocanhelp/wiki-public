@@ -79,3 +79,9 @@ Re-check (deepen-x slice 09300927-9, 2026-10-05): fresh ZH+EN ERE grep (郭泓�
 Re-check (deepen-x slice 09301000-9, 2026-10-05): fresh ZH+EN grep (郭泓均 / Raymond Kuo, plus partial form 泓均 — same 3 corpus files) of works/ + articles/ returns the identical 5-file hit set. Matched passages re-read verbatim this attempt: the RAND/蘭德 sealift-and-missiles analysis, the 2022 island-theatre logistics argument, and the 2021 NBR "brute force backfired" panel conclusion — all three already wikilinked and summarized above. Per mission framing, he is a press/policy-profile figure with no community-organization footprint in the memoir corpus (no association roster, no 同鄉會 record), so there is nothing community-layer to absorb. SKIP-with-reason, verified-saturated. hits-hash=e34fb84f71cb
 
 Re-check (deepen-x slice 09301017-9, 2026-10-05): fresh ZH+EN ERE grep (郭泓均 / Raymond Kuo) of works/ + articles/ returns the identical 5-file hit set (whos-who-1820-raymond-kuo, works/index, the three Taiwan Justice republications) — all already wikilinked and summarized above; still no community-organization footprint in the memoir corpus. SKIP-with-reason, verified-saturated, nothing new absorbable. hits-hash=27ab9d4a23eb
+
+## 照片
+
+![20230120044827_wp-content_uploads_2023_01_郭泓均_Raymond-Kuo_-2](../images/people--raymond-kuo.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20230120044827）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

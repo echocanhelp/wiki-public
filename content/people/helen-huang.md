@@ -68,3 +68,9 @@ _No filled family fields on the TAH profile._
 > Re-verified 2026-10-05 (slice 09300927-15): exact-string sweep (audit-script formula, `黃海倫`/`Helen Huang` full-text over works+articles) — 5 hits: TAH #232/#482 + the two TJJ 2025 records + works index. All already wikilinked above; no new mention. Two-person HOLD（鋼琴家 vs 洛杉磯郡法官）stands. SKIP: verified-saturated. hits-hash=8f7fb944b287
 
 > Re-verified 2026-10-05 (slice 09301000-15): exact-string sweep (audit-script formula) rerun — hit set identical (5 hits: TAH #232/#482 + the two TJJ 2025 records + works index), all already wikilinked; no new mention. Two-person HOLD（鋼琴家 vs 洛杉磯郡法官）stands. SKIP: verified-saturated. hits-hash=8f7fb944b287
+
+## 照片
+
+![20250522172435_wp-content_uploads_2025_05_洛杉磯郡高等法院16日為台裔法官黃海](../images/people--helen-huang.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20250522172435）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

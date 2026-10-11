@@ -234,3 +234,9 @@ Notable quotes and mentions of **公孫樂** in Taiwan Justice articles:
 <!-- TJJ-A10020400-5: verified 2026-10-05 — wave-2 re-check of slice 10020400-5 articles 81e80ba38969bf88 / 9412105875987041 / 92917d4c9a88eba2 / fd270f41202454d7: subject links re-checked vs 正文, all real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10060400-9: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-9 articles (2c5d3c7d4f5acccc 戴琪鄧振中TIFA / 81e80ba38969bf88 皮尤區隔台裔 / 9412105875987041 以立Mayfield交流 / 92917d4c9a88eba2 自救宣言59週年): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20200625022814_wp-content_uploads_2015_08_公孫樂政治漫畫-ROC有一個昏君_j](../images/people--gong-sun-le.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20200625022814）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

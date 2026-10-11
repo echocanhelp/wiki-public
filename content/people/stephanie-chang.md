@@ -71,3 +71,9 @@ Her elections and district work are recorded in the taiwaneseamericanhistory.org
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[organizations/taiwan-student-association-at-the-university-of-michigan||Taiwan Student Association at the University of Michigan]] — her undergraduate campus (Univ. of Michigan, B.A. 2005)
+
+## 照片
+
+![20190729014004_wp-content_uploads_2018_09_張理_jpeg_34d5bbd11e](../images/people--stephanie-chang.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20190729014004）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

@@ -87,3 +87,9 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10070600-2: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10070600-2 article b4e27e98036e15d0 (會館台灣學校古典音樂欣賞・海頓/台灣人音樂家專場報導, 2016-06-06刊, 2024-05-22快照): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 複核（deepen-x slice 10081200-13, 2026-10-10）：corpus re-grep（曾宇謙／Benny Tseng／Yu-Chien Tseng／曾宇，works+articles+sources+events+topics）命中集 10 檔，其中 9 檔（whoswho1408、ourjourneys294、videos111、musician374、index、兩篇會館台灣學校 TJJ 記錄、許文龍專輯、sources 清單）已吸收並 wikilink；新增吸收 1 檔——公視 tag 索引中 2015-07-03 公視日光大道曾宇謙專訪條目，已 wikilink 進 Role in the Community。events/topics 無命中。無衝突。
+
+## 照片
+
+![20240104123405_wp-content_uploads_2023_11_小提琴家曾宇謙_左_2015年前往奇](../images/people--yu-chien-benny-tseng.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20240104123405）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

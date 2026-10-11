@@ -107,3 +107,9 @@ See the source hub. Top mentions:
 - [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
 - [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
 - [[people/freeman-huang||Freeman Huang (黃樹人)]]
+
+## 照片
+
+![20191115045239_wp-content_uploads_2012_02_曾道雄-300x189_jpg_3c](../images/people--zeng-daoxiong.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20191115045239）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

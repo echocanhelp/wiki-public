@@ -91,3 +91,9 @@ Deepen-x pass 2026-09-14 (slice 09140107-1, vault-only): tah-tables (教育 台�
 
 <!-- TJJ-A10040600-7: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-7 article 98bf76da5c3ac86d (台美人台加人分類頁 p3, 2025-02-15快照): 「第155回世界台灣文化論壇：台灣音樂家陳泗治校長」re-checked vs 正文, real, no wrong/spurious links; 2024-11-07 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A100607009-c: verified 2026-10-09 — wave-2 link+deepen re-check of slice 100607009-c article 98bf76da5c3ac86d (台美人台加人 category p3, 2025-02-15快照): 「第155回世界台灣文化論壇：台灣音樂家陳泗治校長」re-checked vs 正文 this attempt, real, no wrong/spurious links; 2024-11-07 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20241108164258_wp-content_uploads_2024_11_陳泗治ham伊早期教-e鋼琴佇淡江中](../images/people--si-zhi-chen.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20241108164258）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

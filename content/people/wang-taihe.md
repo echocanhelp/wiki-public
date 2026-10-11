@@ -63,3 +63,9 @@ Through his art and community involvement, Wang has helped to preserve and share
 - [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - [[people/zheng-bing-quan||Zheng Bingquan (鄭炳全)]]
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]
+
+## 照片
+
+![20200623231434_wp-content_uploads_2020_06_王泰和去世-scaled_jpg_3](../images/people--wang-taihe.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20200623231434）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

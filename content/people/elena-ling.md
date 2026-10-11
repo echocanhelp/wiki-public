@@ -64,3 +64,9 @@ Vice President of International Federation of Business and Professional Women, T
 - 複核（deepen-x slice-09201300-6, 2026-09-21）：re-grep 命中集不變（ourjourneys321、60、321-eng、8、our-journeys-379、58）— 全部已於 Role in the Community 吸收。SKIP-no-new-material。
 - 複核（deepen-x slice-09211300-6, 2026-09-22）：re-grep 命中集不變（ourjourneys321、60、321-eng、8、our-journeys-379、58）— 全部已吸收。SKIP-no-new-material。
 - 複核（deepen-x slice-09220700-3, 2026-09-22）：re-grep 命中集不變（ourjourneys321、60、321-eng、8、our-journeys-379、58）— 全部已於 Role in the Community 吸收。SKIP-no-new-material。
+
+## 照片
+
+![20190626060851_wp-content_uploads_2015_06_Elena-Lin-黃美惠_jpg_](../images/people--elena-ling.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20190626060851）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。

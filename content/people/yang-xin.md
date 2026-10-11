@@ -223,3 +223,9 @@ Pages that link to **yang-xin** (yang-xin):
 <!-- TJJ-A10080501-3: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10080501-3 article 2fc3294ed01f2d2a (台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連任報導, 2025-08-08快照) read fresh this attempt: 楊信為募款餐會發起人並公開呼籲投票支持連任之記述確認見於正文; subject link re-checked, real, no wrong/spurious links; 2022-07-02 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10091401-7: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10091401-7 article 2fc3294ed01f2d2a (台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連任第45區國會議員, 發文 2022-07-02／快照 2025-08-08) read fresh this attempt: 楊信（率楊信夫婦）為募款餐會發起人並公開呼籲投票支持連任之記述確認見於正文, subject link real, no wrong/spurious links; 2022-07-02 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20230119104657_wp-content_uploads_2023_01_02112023-耆英講座楊信董事長](../images/people--yang-xin.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20230119104657）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
