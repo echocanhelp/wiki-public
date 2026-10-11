@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Dr. Mike Kuo (郭正光博士)
 
@@ -41,6 +41,8 @@ Per his TAH Who's Who profile, Dr. Kuo led both the community and advocacy sides
 - Date n.d. — TAH #250 records him as the first to experience weightless free-float
 - 2002–2012 — Professor, ACAOM 休士頓華美中醫學院
 - 2018 — President, Formosan Association for Public Affairs (FAPA); also president of the FAPA South Texas Chapter and of [[organizations/taiwanese-association-of-america-houston-chapter|TAA/Houston]]
+- Date n.d. (1980s, recorded in the 2015 blacklist roster) — listed in the ROC blacklist-era record as one of those denied re-entry to Taiwan the prior year (「郭爲去年遭拒之一」); the roster entry notes he led the Texas A&M alumni association (農工大學同學會會長), was 1987 同鄉會會長, and had "supported the Taiwan independence movement and offended the KMT for a long time" [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys #106 中華民國的黑名單]]
+- 2018-10-28 — as FAPA 總會長, drove Houston→Austin with his wife to personally chair the Central Texas chapter reactivation meeting; 18 new/old members paid dues and Pearl Wu (楊碧珠) was elected president [[works/taiwaneseamericanhistory-org/our-journeys-370|Our Journeys #370 FAPA TX-C中徳州分會記事]]
 
 ## Family
 
@@ -87,3 +89,5 @@ Per his TAH Who's Who profile, Dr. Kuo led both the community and advocacy sides
 
 <!-- TJJ-A10060800-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-5 article 53455d7e13136092（拒一國兩制！海外台灣人社團聯合聲明支持香港, 2019-09-04刊）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- deepen-x 10081100-1: 2026-10-09 — fresh ZH+EN grep (郭正光/Mike Kuo/Cheng-Kuang) across all 5 corpus dirs returned 17 files; every hit is an already-absorbed or already-linked work (memoir mystories319, Our Journeys #106/#233/#238/#307/#370/#382, My Stories #623, TAH #157/#249/#250/#538, TJJ 53455d7e) — saturated, no new biography material. Added the missing EN-edition link [[works/taiwaneseamericanhistory-org/mystories319-eng|319 EN]] to his memoir; last_reviewed bumped. No conflicts found. -->
+
+<!-- deepen-x 10100800-11: 2026-10-11 — fresh ZH+EN grep (郭正光/Mike Kuo/Cheng-Kuang) across all 5 corpus dirs returned 17 files, same set as prior rounds. Two facts in those hits were present in the corpus but never yet absorbed onto this page, now added to Timeline: (1) the ROC-blacklist roster entry in Our Journeys #106 recording him as 「去年遭拒之一」 (denied re-entry to Taiwan), 農工大學同學會會長, 1987 同鄉會會長, pro-Taiwan-independence and 「得罪國民黨很久了」; (2) the 2018-10-28 FAPA Central Texas chapter reactivation he chaired in person as 總會長 (Our Journeys #370). No new biography invented; no date/age conflicts found (blacklist-entry year left as n.d. rather than inferred). -->
