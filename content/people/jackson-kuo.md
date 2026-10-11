@@ -78,3 +78,5 @@ HERMIT Jackson Kuo is born in Taiwan in 1950. He is not a real hermit but in spi
 Deepened (deepen-x slice 10081018-12, 2026-10-09): fresh ZH+EN grep surfaced 3 previously-unlinked corpus records now absorbed into Role in the Community — columns9 (2016 Taiwan e-News column series), publications1158 (Paint My Hometown, 2017), my-stories-689 (Christine Yang memoir: 郭敏俊 as Japanese teacher at 東灣台灣人長樂會 2014–2017). #1159 郭俊敏 HOLD maintained.
 
 複核（deepen-x slice 10100700-17, 2026-10-11）：fresh ZH+EN+郭俊敏 re-grep（works/articles/sources/events/topics）命中集合與前次完全相同（publications 1007/1158/1159/1160、columns9、mystories453、my-stories-689、whos1125、94-collection、artists63）— 飽和，無新增社群材料；#1159 署名郭俊敏 HOLD 維持。
+
+<!-- TJJ-A10100801-12: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-12 article c595d332038f73bb (「Taiwan」標籤頁 p3, 2024-06-20快照) read fresh this attempt: subject link re-checked vs 正文 — 「中國外交官在美國丟人現眼/郭敏俊/9-9-2012」條目確認見於清單, real, no wrong/spurious links; 2012-09-09 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
