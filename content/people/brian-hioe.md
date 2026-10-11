@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Brian Hioe (丘琦欣)
 
@@ -36,7 +36,7 @@ _No filled family fields on the TAH profile._
 - Founding editor of New Bloom (破土), the online magazine on Taiwanese/social-movement politics; his New Bloom archive of the 2014 Sunflower Movement (timelines, photographs, interviews) is cited as a primary source in the book The 228 Inheritance — [[works/taiwaneseamerican-org/the-228-inheritance-taiwans-revolution-is-here|The 228 Inheritance: Taiwan's Revolution Is Here]]
 - Wrote a personal essay for the TAH "Our Journeys" series on Taiwanese Americans — [[works/taiwaneseamericanhistory-org/our-journeys-373|Our Journeys #373]]
 - Reported on the Laguna Woods Taiwanese church shooting for New Bloom — [[works/taiwaneseamerican-org/laguna-woods-taiwanese-church-shooting|Laguna Woods Taiwanese Church Shooting]]
-- Commented on Taiwanese identity polling trends in a VOA email interview (as New Bloom founding editor and non-resident researcher, University of Nottingham Centre for Taiwan Studies): identity is never static, the long-term trend shows declining 中國人 identification, and the壓倒性 support for 維持現狀 is why every party now declares for some form of status quo — [[articles/taiwanjustice-net/2024/20240412184345_root_f957bbdd580d9d78|台灣最新民調：僅2.4%自認中國人 (VOA 電郵採訪)]]
+- Commented on Taiwanese identity polling trends in a VOA email interview (as New Bloom founding editor and non-resident researcher, University of Nottingham Centre for Taiwan Studies): identity is never static, the long-term trend shows declining 中國人 identification, and the壓倒性 support for 維持現狀 is why every party now declares for some form of status quo — [[articles/taiwanjustice-net/2024/20240412184345_root_f957bbdd580d9d78|台灣最新民調：僅2.4%自認中國人 (VOA 電郵採訪)]]; the same interview was republished 2025-04-19 — [[articles/taiwanjustice-net/2025/20250419182452_台灣最新民調_僅2-4自認_中國人_創調查紀錄_84a3fbcfb693b6da|台灣最新民調：僅2.4%自認中國人，創調查紀錄 (2025-04-19 轉載)]]
 - Panelist (「破土」雜誌創辦人) at the NTU Journalism Institute / Foreign Correspondents' Club forum 「選後台灣：變動中的世界與新執政者們」 (2024-04-25), alongside 鄭閔聲 (天下雜誌), David Demes, 鬼島之音共同創辦人吳怡慈, and 英國上議院前議長德蘇莎女爵 (online) — [[articles/taiwanjustice-net/2024/20240425095609_root_7c12559ed65fdde8|台海局勢受矚 英國上議院前議長論壇]]
 - Quoted in corpus-translated CNN reporting on Pelosi's planned 2022 visit to Taiwan (as founder of 破土雜誌/New Bloom): 丘琦欣 observed that Chinese threats had become "background noise" (背景雜音) for Taiwanese people, so the public largely did not weigh dire consequences of the visit — [[articles/taiwanjustice-net/2025/20251010052413_cnn_裴洛西擬到訪_台灣低調應對_8b958abebb2e10c6|CNN：裴洛西擬到訪，台灣低調應對]]
 - New Bloom (破土) is held in Echopedia as a community historical work — [[works/taiwaneseamericanhistory-org/new-bloom-online-magazine|New Bloom 破土 (Online Magazine)]]
@@ -63,3 +63,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09240600-20 re-verify 2026-09-25: fresh grep 丘琦欣/Brian Hioe — identical hit set (our-journeys-373, whos-brian-hioe, works index, the-228-inheritance, laguna-woods shooting, taiwanjustice 民調 article); all absorbed above; no new absorbable facts -->
 <!-- deepen-x slice 09260317-12 re-verify 2026-09-26: fresh grep — identical hit set (our-journeys-373, whos-brian-hioe, works index, the-228-inheritance, laguna-woods shooting, taiwanjustice 民調 84a3fbcf); all absorbed above; SKIP-with-reason: verified-saturated -->
 <!-- deepen-x slice 10081100-14 re-verify 2026-10-10: fresh grep 丘琦欣/Brian Hioe/破土/New Bloom across 5 corpus dirs — real hits all absorbed; 破土 matches in ourjourneys 37/50/173/272/305 are "groundbreaking" false positives, not Hioe/New Bloom. NEW: linked 5 previously-uncited works carrying New Bloom material (new-bloom-online-magazine, 228 resource lists ×2, anti-AAPI reporting, Taiwan Mixed partners, Bonnie Jin profile description) -->
+<!-- deepen-x slice 10100800-21 re-verify 2026-10-11: fresh grep 丘琦欣/Brian Hioe/Hioe across 5 corpus dirs — 10 hits, all real hits already absorbed; NEW: linked 2025-04-19 taiwanjustice republication of the same VOA email interview (84a3fbcf), previously uncited -->
