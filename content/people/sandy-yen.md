@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Sandy Yen (莊和子)
 
@@ -16,6 +16,8 @@ last_reviewed: 2026-10-10
 - Corpus record (2026-09-20): 1981年與夫婿顏永財在矽谷創辦 Micro Lithography Inc.，製造 pellicle（光罩護膜），後為該產品全球最大製造商；夫婦「很熱心支持臺灣文化及社區活動」，莊和子為現任僑務委員（原載「橋務委員」，疑排版誤字）。見 [[works/taiwaneseamericanhistory-org/ourjourneys19|Our Journeys 19（矽谷篇）]]、[[works/taiwaneseamericanhistory-org/ourjourneys236|Our Journeys 236（八十年代矽谷創業夫婦）]]。
 - 2022年 TAHS「我的故事」專欄專文記述夫婦二人创业與社區參與：[[works/taiwaneseamericanhistory-org/my-stories-852|矽谷之夢（上）]]、[[works/taiwaneseamericanhistory-org/my-stories-853|矽谷之夢（下）]]。
 - 本人 TAH 百科條目（2016/07）已成文庫頁：[[works/taiwaneseamericanhistory-org/whoswho1163|TAH #1163 Sandy Yen 莊和子]]；該條目並提及加拿大溫哥華台加文化中心（夫妻參與的社區文化場域之一）。
+- 夫顏永財之 TAH 百科條目（2016/01）亦獨立成頁：[[works/taiwaneseamericanhistory-org/794-yung-tsai-yen-e9-a1-8f-e6-b0-b8-e8-b2-a1-201601|TAH #794 Yung-Tsai Yen 顏永財]]。
+- 夫婦社區贊助的具體記錄：NATPA 十週年（1980–1990）年會募款中，會員顏永財捐出一萬美元（[[works/taiwaneseamericanhistory-org/ourjourneys47|Our Journeys 47（NATPA十年回顧）]]）；另一次美西同鄉會、教授協會、工程師協會聯合大會，顏永財與方森茂被記為「一貫低調、不出鋒頭」的兩位大企業家、各捐一萬美元（[[works/taiwaneseamericanhistory-org/ourjourneys239|Our Journeys 239]]）。此二筆與上文「夫婦很熱心支持臺灣文化及社區活動」互為印證。
 
 ## Identity Snapshot
 - **English:** Sandy Yen
@@ -53,3 +55,4 @@ last_reviewed: 2026-10-10
 <!-- deepen-x 10051143-6 re-verify 2026-10-06: fresh ZH+EN grep over all five corpus dirs — identical hit set (my-stories-852/853, ourjourneys19/236, whoswho1163, works/index); all facts already absorbed above. Corpus-saturated; SKIP. -->
 <!-- deepen-x slice 10071520-1 re-verify 2026-10-09: fresh ZH+EN grep (莊和子 / Sandy Yen) over all five corpus dirs — hit set identical (my-stories-852/853, ourjourneys19/236, whoswho1163, works/sources index); all facts (MLI 1981 創辦, pellicle 全球最大製造商, 僑務委員, 台加文化中心, 我的故事專欄) already absorbed and wikilinked. Verified-saturated, nothing new absorbable. -->
 <!-- deepen-x slice 10090800-8 re-verify 2026-10-10: fresh ZH+EN grep over all five corpus dirs — hit set identical (my-stories-852/853, ourjourneys19/236, whoswho1163, works/index); 853's Cogito/Magnex/Genoa passage is the 慶豐 Group cluster, not a 莊和子 fact. All facts absorbed and wikilinked; corpus-saturated, SKIP stands. -->
+<!-- deepen-x slice 10101000-28 deepen 2026-10-11: expanded grep (顏永財 / Micro Lithography beyond 莊和子/Sandy Yen) surfaced 3 unrecorded corpus records: NATPA 十週年年會募款 顏永財捐 $10,000 (ourjourneys47), 美西三協會聯合大會 顏永財+方森茂各捐 $10,000「低調不出鋒頭」(ourjourneys239), 夫之 TAH #794 百科條目 (2016/01). All absorbed into Role in the Community with wikilinks; no date/age conflicts. -->
