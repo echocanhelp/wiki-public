@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Clyde Kiang (江運貴)
 
@@ -55,6 +55,7 @@ last_reviewed: 2026-10-09
 - Corpus re-grep 2026-09-26 (slice 09260317-13): SKIP — fresh ZH+EN grep hit set identical to the records already linked above (ourjourneys290 ZH+EN, #252, #58, #107, #245, publications487, own #204 record); nothing new to absorb, no conflicts.
 - Corpus re-grep 2026-09-27 (slice 09260700-1): SKIP — fresh ZH+EN grep (Clyde Kiang／江運貴) hit set identical to the records already linked above (ourjourneys290 ZH+EN, #252 +eng, #58, #107, #245, publications487, own #204 record); nothing new to absorb, no conflicts.
 - Corpus re-grep 2026-10-09 (slice 10081100-10): SKIP — fresh ZH+EN grep returned 12 files, all already linked above or index/hub entries (sources hub, works index); the one surname-adjacent hit (chef-james-chang 「ChingKiang vinegar」) is 鎮江醋, a false positive. Hit set unchanged; nothing new to absorb, no conflicts.
+- Corpus re-grep 2026-10-11 (slice 10100800-25): SKIP — fresh ZH+EN grep returned 12 files, all already linked above or index/hub entries (works index, sources hub); hit set unchanged, nothing new to absorb. Side note only (does not touch Clyde's own 2000–2002 tenure, which is consistent across all rosters): the EN founding memoir [[works/taiwaneseamericanhistory-org/ourjourneys252-eng|Our Journeys #252 (EN)]] dates 李彭寶珠/Pao C. Hsu's presidency 2002–2004 where record #204 says 2003–2004, splits 李金基/Chanchi Lee into 2009–2010 + 2011–2012, and continues the roster with James Y. Chen 2017– (absent from #252). HOLD as a roster-side date discrepancy for the HAPA-NA presidents page, not this page.
 
 ## Sources
 - [TAH #204 encyclopedia: 204. Clyde Kiang 江運貴/2015/01](https://taiwaneseamericanhistory.org/204-clyde-kiang-%e6%b1%9f%e9%81%8b%e8%b2%b4201501/)
