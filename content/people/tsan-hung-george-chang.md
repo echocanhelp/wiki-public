@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Tsan-hung George Chang (張燦鍙教授)
 
@@ -76,6 +76,14 @@ Tsan-hung George Chang 張燦鍙 – History of Taiwanese American (T.A. Archive
 - 1981 — He invited 月英 into the聯盟's New York office (the 「咖啡廳」 cover name), where she copied/mailed 《台獨月刊》 and helped prepare 《台灣公論報》 — corroborating his role in that paper's founding era already cited via [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys #49]]: [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys #33 — 一家人做伙來打拼]].
 - 九月廿八日「台獨聯盟遷台餐會」 in New York (year not stated in the memoir) — he walked his octogenarian mother onstage for the crowd's tribute and announced the first list of聯盟 members returning to Taiwan with him: [[works/taiwaneseamericanhistory-org/ourjourneys280|Our Journeys #280 — 那一夜，在紐約]].
 - 2017-03 — Returned to the U.S. to talk with T.A. organizations: [[works/taiwaneseamericanhistory-org/2017-05|TAH photo record — Prof. Tsan-hung Chang came to the U.S. and talked to T.A. organizations, March 2017]]; a colleague's portrait of his mayoral years: [[works/taiwaneseamericanhistory-org/mystories412|My Stories #412 — 他所認識的張燦鍙市長]].
+- 1966 — At the UFAI founding congress in Philadelphia he and 賴文雄 were put in charge of the organization department; the 「萬里自由長征」 west route (Los Angeles → San Francisco) was his and 陳榮成's assignment: [[works/taiwaneseamericanhistory-org/ourjourneys234|Our Journeys #234]].
+- 1969-12 — As a联盟 leader he tasked 林振榮 (met at 林榮長's home) with organizing Houston's Taiwanese, leading to the Formosan Club — the Houston 台灣人同鄉會's founding line: [[works/taiwaneseamericanhistory-org/ourjourneys308|Our Journeys #308]].
+- 1970 — At the Houston 「民眾大會」 he spoke as 台灣獨立聯盟主席 alongside 彭明敏 and 魏瑞明; the next-day 《Houston Post》 carried his remarks: [[works/taiwaneseamericanhistory-org/ourjourneys317|Our Journeys #317]].
+- 1967 — At UCLA he came over from Pasadena to hear Neil Jacoby's talk, and earlier had attended the monthly secret 台獨聯盟 meetings at USC (with 賴文雄、蔡同榮、王秋森 et al.): [[works/taiwaneseamericanhistory-org/ourjourneys240|Our Journeys #240]].
+- 1981-06-30 — As 台獨聯盟主席 he issued the 《台灣公論報》 founding-eve open letter to overseas countrymen (「這項宿願將由『台灣公論報』的誕生而得償」), corroborating the founding-era account already cited via [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys #49]]: [[works/taiwaneseamericanhistory-org/ourjourneys63|Our Journeys #63]].
+- 1988–1991 — He was among the overseas blacklisted 「闖關回台」 returnees; on 1991-12-07, as 台獨聯盟世界總本部主席, he flew back via Tokyo and was arrested at Taoyuan airport: [[works/taiwaneseamericanhistory-org/ourjourneys230|Our Journeys #230]], [[works/taiwaneseamericanhistory-org/ourjourneys234|Our Journeys #234]].
+- During the island-side 代夫出征 street campaign his wife was introduced on the sound car as 「台灣獨立建國聯盟前主席張燦鍙夫人」 — a movement-side record of 張丁蘭's public presence alongside [[people/tina-chang||Tina Chang]]: [[works/taiwaneseamericanhistory-org/ourjourneys210|Our Journeys #210]].
+- 1996-07 — Political-track speaker at the 18th 台灣人公共政策協會/同鄉會聯誼會年會 (Chattanooga, 「台美連心，踏入國際舞台」): [[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys #245]].
 - His own political writings in the corpus: [[works/taiwaneseamericanhistory-org/publications1179|台灣建國藍圖概略 (1983-04)]], [[works/taiwaneseamericanhistory-org/319-e5-8f-b0-e7-81-a3-e8-88-8a-e7-9a-84-e7-a5-9e-e8-a9-b1-e5-92-8c-e6-96-b0-e7-9|台灣：舊的神話和新的現實 (1987-10)]], [[works/taiwaneseamericanhistory-org/317-e5-bb-ba-e8-a8-ad-e6-9d-b1-e6-96-b9-e7-91-9e-e5-a3-ab-e5-bc-b5-e7-87-a6-e9-8|建設東方瑞士 (1989-06)]], [[works/taiwaneseamericanhistory-org/172-e5-8f-b0-e7-81-a3-e7-8d-a8-e7-ab-8b-e9-81-8b-e5-8b-95-e4-b8-89-e5-8d-81-e5-b|台灣獨立運動三十年(上) (1991-10)]], [[works/taiwaneseamericanhistory-org/publications316|文化—台灣問題的根源 (2003-06)]], [[works/taiwaneseamericanhistory-org/315-e5-8f-b0-e7-81-a3-e5-9c-8b-e5-ae-b6-e4-b9-8b-e9-81-93-e5-bc-b5-e7-87-a6-e9-8|台灣國家之道 (2009-11)]]; undated record of a State Department talk on the Taiwan question: [[works/taiwaneseamericanhistory-org/12-17|TAH #17 — 張燦鍙教授於美國國務院演講台灣問題]].
 
 ## From the record
