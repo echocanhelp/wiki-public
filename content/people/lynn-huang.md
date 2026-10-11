@@ -240,6 +240,8 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A10101001-2: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10101001-2 article 2b2e0ebccd1c5edd（洛杉磯以立合唱團輕歌劇「學生王子」, 發文 2025-01-27 / 快照 2025-03-18）: subject link re-checked vs 正文 this attempt (音樂總監：黃令先), real, no wrong/spurious links (鄭兆翔／白慈莉 正文提及但無頁面, 維持純文字不造鏈); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
+<!-- TJJ-A10101001-1: verified 2026-10-11 — wave-2 link+deepen re-check of article 4119cffe264101c6（楊子清老師音樂短講第13集：美聲唱法的技巧(7)快速音 Agilita, 發文 2020-12-13 / 快照 2025-03-27）read fresh this attempt: 正文「本集有黃令先老師和王亦凡博士的特別講座『泛音』」確認見於正文, subject link 黃令先 real, no wrong/spurious links; 含該文 wikilink 的 2020-12-13 dated fact 已在 From the record — saturated, no new material. -->
+
 <!-- TJJ-A10101001-3: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10101001-3 article 20250209214700_root_7214b273dfcb59ce（「以立合唱團」演唱「拯救我」— 選自威爾第的「安魂曲」, 發文 2022-12-16 / 快照 2025-02-09）read fresh this attempt: subject link re-checked vs 正文 this attempt（「鋼琴：黃令先」確認見於正文）, real, no wrong/spurious links (廖健榮 剪輯 正文提及但無頁面, 維持純文字不造鏈); 含該文 wikilink 的 2022-10-01／10-08 dated fact 已在 From the record — saturated, no new material. -->
 
 <!-- TJJ-A10101001-6: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10101001-6 article 928db8aa40e881b2（洛杉磯以立合唱團輕歌劇「森林王子」, 發文 2025-01-21 / 快照 2025-03-18）read fresh this attempt: subject link re-checked vs 正文 (「音樂總監黃令先老師」確認見於正文), real, no wrong/spurious links (鄭兆翔／李俊玲／白慈莉 正文提及; 李俊玲有頁面已在連結, 鄭兆翔／白慈莉無頁面維持純文字不造鏈); 含該文 wikilink 的 2024-10-12 dated fact 已在 From the record — saturated, no new material. -->
