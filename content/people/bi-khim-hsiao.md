@@ -467,3 +467,5 @@ _No filled family fields on the TAH profile._
 ![20200618105032_wp-content_uploads_2020_06_總統任命蕭美琴為駐美代表-696x4](../images/people--bi-khim-hsiao.jpg)
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20200618105032）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+
+<!-- TJJ-A10100401-5: verified 2026-10-10 — wave-2 link+deepen re-check of article 8fc11ca0c5dbaebe (韓國瑜提預算協商盼柯建銘不要那麼硬·總統緩頰, 2025-01-16): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
