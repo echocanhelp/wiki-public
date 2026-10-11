@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Kelly Lin (林雨潔博士)
 
@@ -36,6 +36,7 @@ _No filled family fields on the TAH profile._
 - **Pianist** — profiled as a Taiwanese American classical pianist in the community record [[works/taiwaneseamericanhistory-org/musician367|367. Kelly Lin 林雨潔, pianist / 2016/10]]; own TAH Who's Who profile at [[works/taiwaneseamericanhistory-org/whoswho1301|1301. Kelly Lin 林雨潔 / 2016/10]].
 - **Artwork credit (unconfirmed same person)** — credited as "Artwork by Kelly Lin" on the band-A memoir [[works/taiwaneseamerican-org/the-tofu-not-eaten|The Tofu Not Eaten]] (Kristina Lin, 2013). HOLD: that credit carries no 漢名, so identity with 林雨潔 is not established.
 - **Name collision — likely different person, HOLD** — the "Kelly Lin" who illustrated Peter Lin's *New Age, Old Ways* sleeve ([[works/taiwaneseamerican-org/new-age-old-ways-peter-lin-crosses-artistic-mediums-and-cultures-through-taiwane|New Age, Old Ways]]) is named by Peter Lin as "a fantastic Taiwanese American artist living in Chicago" who works full time as an industrial designer and freelances at his commission (shop: sketchbites on Etsy). HOLD: biography conflicts (Chicago industrial designer vs this page's Rutgers piano-performance doctorate) and no 漢名 attaches to the illustrator — treated as a name collision, not merged.
+- **2019 year-in-review credit (collision-consistent)** — the 2019 roundup [[works/taiwaneseamerican-org/19-things-that-happened-in-taiwan-taiwanese-america-in-2019|19 Things That Happened in Taiwan / Taiwanese America in 2019]] credits Peter Lin's *New Age, Old Ways* as "an eight-track album with original compositions and comic book illustrated by Kelly Lin" — again with no 漢名 attached, consistent with the name-collision HOLD above; not merged.
 - **Not this person** — the "Kelly Lin/林亞暄" thanked in [[works/taiwaneseamerican-org/a-taiwanese-american-look-at-the-sunflower-movement|A Taiwanese American Look at the Sunflower Movement]] is a different 林姓 individual.
 
 ## Sources
@@ -63,3 +64,5 @@ _No filled family fields on the TAH profile._
 > Corpus re-grep 2026-10-09 (slice 10080400-1): fresh ZH+EN grep (林雨潔 / Kelly Lin) across works/ + articles/ + sources/ + events/ + topics/ — hit set identical to prior slices (own TAH records whoswho1301/musician367 + works/sources index + the already-linked/HOLDed works pages, incl. new-age-old-ways Chicago illustrator name-collision HOLD; 林雨蒼 remains a different 林姓 individual). Verified-saturated, SKIP-with-reason, no new absorbable material.
 
 > Deepen-x 10090800-11 (2026-10-10): fresh ZH+EN grep across all five corpus dirs — same hit set, but the new-age-old-ways interview text (Peter Lin naming the Chicago industrial-designer Kelly Lin directly) now supports the name-collision HOLD explicitly; absorbed as a resolved-collision note with the biography conflict flagged, no merge.
+
+> Deepen-x 10101100-28 (2026-10-11): fresh ZH+EN grep (林雨潔 / Kelly Lin / 雨潔) across works/ + articles/ + sources/ + events/ + topics/ — hit set adds 19-things-that-happened-in-taiwan-taiwanese-america-in-2019 (2019 roundup crediting Kelly Lin with the New Age, Old Ways comic book, no 漢名), absorbed as a collision-consistent mention; own TAH records (whoswho1301/musician367), indexes, and prior HOLDs unchanged. Verified-saturated otherwise.
