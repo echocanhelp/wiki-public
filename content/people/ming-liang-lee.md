@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Prof. Ming Liang Lee (李明亮)
 
@@ -110,6 +110,8 @@ TAH records held in this vault:
 - 2023-04 — 獲兒童醫療終身貢獻獎，報導記其「奠定台灣遺傳學、任抗SARS總指揮」（[[works/taiwaneseamericanhistory-org/my-stories-872|TAH #872, 04/2023]]）。
 - 2015/10 前後 — 另有本人撰寫之隨筆與史論入庫：[[works/taiwaneseamericanhistory-org/mystories349|TAH #349 譜台灣頌—老兵的最後一戰]]、[[works/taiwaneseamericanhistory-org/mystories357|TAH #357 喜馬拉雅山之行]]、[[works/taiwaneseamericanhistory-org/publications1253|TAH #1253 台灣老虎郵：百年前臺灣民主國發行郵票的故事（2018/10，History）]]——後者與本頁既有 #895/#346 同屬民主國郵史研究系列。
 - 2015/10、2017/12 — 兩度以人物條目收錄於 TAH 百科（見上方 Vault Holdings #656、#17/#22），屬社群自錄之人物記錄。
+- 1993 — 返台擔任慈濟大學（慈濟醫學院）創校校長一事另見 TAH 社群記錄 [[works/taiwaneseamericanhistory-org/3-e6-9d-8e-e6-98-8e-e4-ba-ae-e8-bf-94-e5-8f-b0-e6-93-94-e4-bb-bb-e6-85-88-e6-bf-|TAH #3 李明亮返台擔任慈濟大學創校校長 1993（2015 年記錄，value band B）]]，與本頁 Employment／Timeline 1993–2000 條目相互印證。
+- 2021-06-05 — 張信惠「週末漫談音樂」專欄第70期追述：醫學院六年級公演莫里哀喜劇《吝嗇鬼》，李明亮同學負責幕後配音，其後張信惠追尋該配樂為柴可夫斯基第四交響樂第四樂章（[[articles/taiwanjustice-net/2021/20210616065239_2021_06_05_週末漫談音樂-70_tchaikovsky-symphony-no-4-in-f-minor-a-tale-of-two-women-_ca5b69143f59465e|TJJ 週末漫談音樂(70), 2021-06-05]]）——與 2021-10-16 致詞條目同屬信雅、信惠伉儷對同窗李明亮的社群追述。
 - 2022-09-02 — 總統府晚間公布遴聘及新聘資政27人、國策顧問70人，李明亮列入資政名單，聘期自民國111年9月1日起至113年5月19日止；發言人張惇涵說明資政依總統府組織法不得逾30人（中央社記者賴于榛報導 via [[articles/taiwanjustice-net/2025/20251013095227_總統府公布遴聘及新聘資政27人國策顧問70人名單_fa7c957f552d76e9|TJJ, 2022-09-02]]）。
 - Re-verify 2026-09-22 (TJJ-A09220400-7): link-check against slice article 77b0891ec24689f9 body — mention confirmed real, dated fact above stands; no new material.
 ## Related Pages
