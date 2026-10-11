@@ -439,3 +439,5 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 <!-- TJJ-A10091401-2: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10091401-2 article 1d72b2ae61640747 (2020海外小英後援會洛杉磯造勢大會報導, 發文 2019-10-10) read fresh this attempt: 田詒鴻 subject link re-checked vs 正文 — 以會長/國策顧問領銜身分說明民調與「總統連任、國會過半」立場確認見於正文, real, no wrong/spurious links; 2019-10-10 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100401-9: verified 2026-10-10 — subject link f631078d re-checked vs 正文 (田詒鴻會長世代交替談話), real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10100401-29: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-29 article 2f4af86847559b66 (2024大洛杉磯台灣會館26周年年會晚宴公告, TJJ 發文 2024-10-04／2025-04-20 快照) read fresh this attempt: Subjects link 田詒鴻 re-checked vs 正文 — 「董事長田詒鴻」名列38位董事購票聯絡人首位確認見於正文; link real, no wrong/spurious links; 王義川內文提及（台灣智庫策略長、主講嘉賓）暫無頁、未掛鏈，正確; dated fact w/ article wikilink already in From the record — saturated, no new material. NOTE: mojibake 大洛杉磮 in citation block title persists — generator-side fix, prose untouched. -->
