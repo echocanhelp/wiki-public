@@ -222,3 +222,5 @@ Corpus (Our Journeys) material beyond the press coverage below:
 ![20191018065322_wp-content_uploads_2019_09_謝聰敏-265x198_jpeg_6](../images/people--tsung-ming-hsieh.jpg)
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20191018065322）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+
+<!-- TJJ-A10100401-1: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100401-1 article 20240425080646_root_9a39a754d2a3b236 (吳澧培回憶錄前言「我的人生：一個堅持和無數的巧合」, 2015-10-12刊/2024-04-25快照) read fresh this attempt: Subjects links 彭明敏教授／謝聰敏 + frontmatter authors 金恆煒／吳澧培 re-checked vs 正文 — 謝聰敏摯友因緣見首段、彭明敏受邀台獨行動黨發起人、金恆煒7/2發組黨新聞、吳澧培本傳主（◎署名）均確認見於正文; all links real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
