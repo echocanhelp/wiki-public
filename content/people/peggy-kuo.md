@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Peggy Kuo (郭佩宇)
 
@@ -78,3 +78,6 @@ Community leadership: former President, Federal Bar Council American Inn of Cour
 
 ## Corpus re-check (deepen-x slice 10090500-31, 2026-10-10)
 - SKIP-with-reason: full 5-dir grep (郭佩宇 / Peggy Kuo / 郭鐘概 / 蔡玉枝 across works, articles, sources, events, topics) hits unchanged — only her own bibliographic TAH records (#226, #357, #1992, peggy-kuo, mystories620) plus index/hub rows, all already wikilinked above. mystories620 confirmed bibliographic-record-only (1.4 KB, full text stays in vault). No memoir/community mentions; nothing absorbable, no conflicts to HOLD.
+
+## Corpus re-check (deepen-x slice 10101322-14, 2026-10-11)
+- SKIP-with-reason: 5-dir grep re-run (郭佩宇 / Peggy Kuo / 郭鐘概 / 蔡玉枝, plus surname-only 郭佩 / Peggy sweep) — hits unchanged: only her own five TAH bibliographic records (#226 ota-226, #357 ff357, #1992, peggy-kuo, mystories620) plus works/index and the source hub, all already wikilinked above. mystories620 re-confirmed as a 1.4 KB bibliographic stub. Surname sweep surfaces only other Peggy-named people (Peggy Huang/Liao/Chen/Cooley — different people). No memoir/community mentions; nothing absorbable, no conflicts to HOLD.
