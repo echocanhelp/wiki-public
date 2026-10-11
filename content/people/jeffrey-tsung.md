@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Jeffrey Tsung (鄭瑞雄醫師)
 
@@ -65,3 +65,4 @@ last_reviewed: 2026-10-10
   - **社群他人記述**：黃哲陽 [[works/taiwaneseamericanhistory-org/ourjourneys291|Our Journeys #291 台美人醫師 overview]]（2017/05）記其為「多才多藝的病理學家，業餘作出來的動物標本維妙維肖、栩栩如生」，並列於台美人醫師回饋母國（鮭魚返鄉，1999 和信醫院、2010 羅東聖母醫院任職可互證）一脈；[[works/taiwaneseamericanhistory-org/ourjourneys101|Our Journeys #101 美東南區台灣人海上夏令會]]（吳明美，2015/02）記其在遊輪開幕式主持（李雪玟教授聲樂演唱揭幕）。
   - 覆核（deepen-x slice 09150700-4）：命中集合 = 本人自身语料 + 上列新吸收五檔親筆 + 兩檔他人記述 + index，全數吸收完畢；無衝突日期需 HOLD，verification 仍待對照 TAH 原頁。
 - deepen-x 10090500-20（2026-10-10 覆核）：再 grep（鄭瑞雄／Jeffrey Tsung／Tsung 全五 corpus dirs）命中集合不變 — 全數為本人已連結自身语料（#11/#61/#114/#273/#314/#587/#938/#1203/#209/#211/#216/#212、photo-albums-61、ourjourneys101/#291）或姓名相近他人（張瑞雄牧師 — 張姓牧師，非本人；曾碧光 Tsung、蔡長龍 Long Tsung Tsai 等 Tsung-* 假陽性）。維持 **SKIP（無未吸收社群材料）**，無衝突需 HOLD。
+- deepen-x 10101300-32（2026-10-11 覆核）：全五 corpus dirs 再 grep（鄭瑞雄／Jeffrey Tsung／Tsung）命中集合不變 — 本人已連結自身语料全數在連結中，其餘命中經逐檔驗證皆為 Tsung-* 假陽性（廖宗明 Tsung-ming Liao、林宗義 Tsung-yi Lin、吳政忠 Wu Tsung-tsong、黃宗文 Tsung-wen Huang 等，皆非本人）。維持 **SKIP（無未吸收社群材料）**，無衝突需 HOLD，verification 仍待對照 TAH 原頁。
