@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Paul Huang (黃俊文)
 
@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice 09260317-22, 2026-09-26）：re-grep 黃俊文／Paul Huang（works+articles）hit set identical — 僅已引之獲獎記錄（38/39/37、308、681）與 Our Journeys 19（ECAD 同名者 HOLD）。SKIP, verified-saturated.
 - 複核（deepen-x slice 09260700-8, 2026-09-27）：re-grep 黃俊文／Paul Huang（works+articles）hit set identical — 僅已引之獲獎記錄與 Our Journeys 19（ECAD 同名者 HOLD）。SKIP, verified-saturated.
 - 複核（deepen-x slice 10081009-4, 2026-10-09）：re-grep 黃俊文／Paul Huang／Chun-Wen across works+articles+sources+events+topics — hit set identical: 已引獲獎記錄（38/39/37、308、681）、Our Journeys 19（ECAD 同名者 HOLD）、以及 TJJ 蔬果園藝 tag records（黃啟源 Paul Huang 同名者，見上 HOLD）。SKIP, verified-saturated.
+- 複核（deepen-x slice 10100600-11, 2026-10-11）：re-grep across works+articles+sources+events+topics — hit set identical (award records 38/39/37/308/681, Our Journeys 19 ECAD namesake HOLD, TJJ gardening-lecturer 黃啟源 namesake HOLD). No new absorbable material. SKIP, verified-saturated.
