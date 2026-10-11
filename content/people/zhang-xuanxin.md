@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Zhang Xuanxin (張宣信)
 
@@ -167,5 +167,7 @@ Pages that link to **zhang-xuanxin** (zhang-xuanxin):
 <!-- TJJ-A10091401-3: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10091401-3 article 117bdbbd9b362236 (台灣來美的外省第二代周文偉到台美人教會開槍殺人, LA Times/CNA 綜合報導, 2022-05-16刊/2022-07-05快照) read fresh this attempt: 張宣信 (前主任牧師, 自台返美探視父母, 因現任牧師李輔仁外出演講獲邀代理講道; 趁嫌犯補子彈從背後以椅子撲打, 教友一湧而上制伏) 記述逐字確認見於正文, subject link 為真, 無錯鏈、無虛鏈; 2022-05-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10091401-6: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10091401-6 article 131a1c8ea05f85ea (台美人台加人 p360, 2024-07-15快照) read fresh this attempt: 「VOA專訪張宣信牧師：政治傾向不同不是敵人」條目逐字確認見於正文 (line 236), subject link 為真, 無錯鏈、無虛鏈; 2022-05-19 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10100600-22: verified 2026-10-11 — fresh grep 張宣信/Billy Chang/Zhang Xuanxin across works/articles/sources/events/topics: 15 non-manifest files (9 distinct TJJ articles + 4 TAH works + indexes). Every hit already wikilinked on this page (TAH #910/#2322/#107/#380; articles 8c205697/117bdbbd/8362234b/131a1c8e/548ad91f/76cab17a/4a1c41c5/a1354716/067199555e) — saturated, no new material. -->
 
 <!-- TJJ-A10100501-20: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-20 article 8362234ba338aea7 (南加州槍擊案的省思：廢國統綱領、強化國家認同, 洪錦鈺社論, taiwanjustice.net, 2022-05-17 刊 / 20220705115208 快照) read fresh this attempt: 3 subject links re-checked vs 正文 — 鄭達志（挺身而出防止悲劇擴大·壯烈犧牲）/ 張宣信（牧師與教友奮不顧身制服兇手）/ 洪錦鈺（本文署名作者·時代力量台中黨部主委）— all real, no wrong/spurious links; 王炳忠 mentioned in 正文 but unlinked and no person page — correct per existing convention; dated facts w/ article wikilink already in From the record — saturated, no new material. -->
