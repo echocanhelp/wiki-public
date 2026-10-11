@@ -9,7 +9,7 @@ tags:
   - politician
   - dpp-founder
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Peng Ming-min (彭明敏)
 
@@ -86,6 +86,7 @@ Through these connections, Yang came to see Peng as a model of Taiwanese intelle
 - **1979 — Taiwan State-Building United Front (臺灣建國聯合陣線):** After the KMT's mass arrests following the 美麗島 incident (December 1979), the United Front was founded in New York on December 15. Peng's organization, the Taiwan Association (臺美協會), was among the founding groups, alongside the Formosan Independence League, the Taiwan Democratic Movement Overseas Alliance, and others. ([[works/taiwaneseamericanhistory-org/our-journeys-357|舊金山灣區臺灣人的社團活動與家國意識之形成]])
 - **1984 — Peng Ming-min Trophy (彭明敏杯):** The championship trophy of the annual Taiwan-student softball tournament in upstate New York (centered in Albany) was named the "Peng Ming-min Cup" in 1984 to honor his contributions to the democratic and independence movements. He traveled to Albany in July 1986 to present the award in person. ([[works/taiwaneseamericanhistory-org/ourjourneys311|紐約首府區台灣同鄉會及台美文化促進會簡介]])
 - **1988 — Census recognition campaign:** Peng and 蔡同榮 traveled from the East Coast to Los Angeles for Rep. Mervyn Dymally's talk at the USC Hilton, organized by TACL in support of a self-identified "Taiwanese" line in the U.S. Census — a visible show of national-community solidarity behind the effort. ([[works/taiwaneseamericanhistory-org/ourjourneys253|Our Journeys #253 — TACL memoir]])
+- **2017 — Memoir reissue, "unfinished wish":** Peng's memoir was republished in April 2017; 李秉芳's feature on the reissue framed it around Peng's unfinished wish — 台灣正名制新憲 (right-name Taiwan, draft a new constitution). ([[works/taiwaneseamericanhistory-org/mystories543|Our Stories #543 — 回憶錄重新出版，彭明敏未完心願]])
 
 ## Death and Memorial
 
