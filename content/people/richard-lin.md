@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Richard Lin (林品任)
 
@@ -48,6 +48,7 @@ _No filled family fields on the TAH profile._
 - Re-grepped 2026-10-06 (slice 10051340-14): fresh grep 林品任/Richard Lin across works/articles/sources/events/topics — hit set unchanged (#306/#678, #393 collision record, index). Alias sweep (品任/Pin-Jen) surfaced only ourjourneys38 (no substantive match) and unrelated mainland-affairs articles. No new corpus facts; #393 HOLD stands. Verified-saturated SKIP.
 - Re-grepped 2026-10-08 (slice 10070018-4): fresh grep 林品任/Richard Lin over works/articles/sources/events/topics — full hit set is exactly the five already cited (#306, #678, #393, works index, sources page); no articles/events/topics hits. No new corpus facts; #393 hedge-fund name-collision HOLD stands. Verified-saturated SKIP.
 - Re-grepped 2026-10-09 (slice 10080700-15): fresh grep 林品任/Richard Lin/品任/Pin-Jen across all 5 corpus dirs — hit set unchanged (#306, #678, #393 collision record, works index, sources page). Alias sweep adds nothing substantive. No new corpus facts; #393 HOLD stands. Verified-saturated SKIP.
+- Re-grepped 2026-10-10 (slice 10091531-24): fresh grep 林品任/Richard Lin across all 5 corpus dirs returned exactly the five cited files (#306, #678, #393 collision record, works index, sources page); alias sweep 品任/Pin-Jen outside those files returned zero hits. No new corpus facts; #393 HOLD stands. Verified-saturated SKIP.
 
 ## Sources
 - [TAH #306 encyclopedia: 306. Richard Lin 林品任, Violinist / 2015/10](https://taiwaneseamericanhistory.org/306-richard-lin-%e6%9e%97%e5%93%81%e4%bb%bb-violinist-201510/)
