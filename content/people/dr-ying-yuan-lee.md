@@ -124,3 +124,5 @@ last_reviewed: 2026-10-10
 <!-- TJJ-A10090701-27: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-27 article a75a6e8c12e18729 (台美人台加人 popular 分類頁, 2025-04-30 快照) read fresh this attempt: 敬弔李應元博士弔文條目確認見於正文, 本人为弔文主角; subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090801-4: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-4 article 912bedafc3ae02b4 (「北美洲台灣人教授協會」標籤頁, 2025-09-14 快照): 本人為弔文〈哲人日已遠：敬弔李應元博士〉主角，確認見於正文頭條條目; subject link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record (line: 2021-11 NATPA tag entry) — saturated, no new material. -->
+
+<!-- TJJ-A10100401-23: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-23 article 23924f7ad0d93713 (李應元標籤頁, 2022-07-01 快照) read fresh this attempt: 本人為弔文主角及辭世家祭/植存報導主角，確認見於條目; subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
