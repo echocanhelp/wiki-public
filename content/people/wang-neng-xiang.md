@@ -9,7 +9,7 @@ tags:
   - taiwan-democracy
   - cpa
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Wang Neng-xiang (王能祥)
 
@@ -36,7 +36,7 @@ Wang Neng-xiang was born in 1933 in Nanzikeng, Kaohsiung Prefecture, Taiwan, int
 
 In 1965, Wang left Taiwan to study in the United States, following the pattern of Taiwanese youth elites of that era. He first attended Kansas State University (Manhattan) for a master's degree in political science. In 1967, he transferred to the University of Texas at Austin for a PhD in political science. Two years later, out of practical considerations, he switched to accounting.
 
-At Kansas State, Wang was part of the "Kansas Suite Group" of students (莊秋雄, 蔡一, 王能祥, 黃石定, 呂天明, 方菊雄, 陳希寬) who met monthly to discuss the Taiwan question from 1964–1965, connecting with Taiwanese groups in Japan and the U.S. In June 1966 he represented Kansas State students at the Philadelphia conference that founded the United Formosans in America for Independence (UFAI); after he brought the resolution back, fellow students swore in collectively — earning Kansas State a reputation as the "West Point of the independence movement" ([[works/taiwaneseamericanhistory-org/ourjourneys33|ourjourneys33 — 陳希寬 memoir]]). He also fought the Chicago consulate openly during the campus reunification-vs-independence debates of 1966–1968.
+At Kansas State, Wang was part of the "Kansas Suite Group" of students (莊秋雄, 蔡一, 王能祥, 黃石定, 呂天明, 方菊雄, 陳希寬) who met monthly to discuss the Taiwan question from 1964–1965, connecting with Taiwanese groups in Japan and the U.S. A closely related record dates the formal organization of the "Kansas Formosan Group" at K-State to 1 July 1966, with Wang joining slightly after the founding core — this group was one of the founding groups of the UFAI formed that June ([[works/taiwaneseamericanhistory-org/ourjourneys58|ourjourneys58 — 陳希寬 memoir on the first national directory]]). Wang is listed as the Texas contact (王能祥*, alongside 林榮長*) in 《全美台灣同鄉通訊錄》, the first national Taiwanese directory compiled in December 1966 (3,095 names, ~70% students), again from 陳希寬's memoir ([[works/taiwaneseamericanhistory-org/ourjourneys58|ourjourneys58]]). In June 1966 he represented Kansas State students at the Philadelphia conference that founded the United Formosans in America for Independence (UFAI); after he brought the resolution back, fellow students swore in collectively — earning Kansas State a reputation as the "West Point of the independence movement" ([[works/taiwaneseamericanhistory-org/ourjourneys33|ourjourneys33 — 陳希寬 memoir]]). He also fought the Chicago consulate openly during the campus reunification-vs-independence debates of 1966–1968.
 
 At Austin, his record shows a different posture: when Austin students founded their Taiwanese association in 1970 (吳木盛 as first president, ~40 members), Wang — by then known for his "strong political color" from the Kansas State consulate fights — was asked to stay away from the founding events so as not to leak information to KMT agents watching the isolated campus ([[works/taiwaneseamericanhistory-org/ourjourneys76|ourjourneys76 — Austin association memoir]]).
 
@@ -46,9 +46,9 @@ He eventually opened a CPA firm in Washington, D.C., where he has practiced to t
 
 Wang Neng-xiang is a lifelong fighter for Taiwan's international visibility and an end to Taiwan's colonial status. He has been based in Washington, D.C. since 1972 — the time when Washington became the center of international power play after World War II.
 
-### WUFI Foreign Affairs Department (1973–1977)
+### World United Formosans for Independence (WUFI) & the Alliance (1973–1977)
 
-Wang served as Head of Foreign Affairs' Department for **World United Formosans for Independence (WUFI)** from 1973 to 1977.
+Wang served as Head of Foreign Affairs' Department for **World United Formosans for Independence (WUFI)** from 1973 to 1977. In the same year, the 台獨聯盟美國本部 (UFAI lineage) held its fourth alliance congress in Indianapolis, Indiana (1973), electing 張燦鍙 as chair, 楊宗昌 as first vice-chair, and Wang as **second vice-chair** — placing him in the alliance's national leadership at the start of his D.C. period ([[works/taiwaneseamericanhistory-org/ourjourneys234|ourjourneys234 — 台獨聯盟美國本部 record]]).
 
 ### Overseas Alliance for Democratic Movement in Taiwan (1977–1985)
 
@@ -70,6 +70,8 @@ Wang was involved in discussions about restructuring the "China Lobby." When the
 ## Community Leadership
 
 Wang is a devout Christian and has been an elder of the **Taiwanese Presbyterian Church** near Washington, D.C., which he helped build with many Taiwanese American church members through fundraising and contributions. He has served as an elder of the church for many years, and Taiwanese Americans or Taiwanese immigrants in the greater Washington area who see him refer to him as "長老" (Elder).
+
+His church-fundraising work is documented in detail: 陳明賢's memoir credits Wang with proposing and introducing the church's approach to the **World Peace Association** and its chairwoman 王清珠 — after prayer and discussion, Wang (with elders 蔡武男, 凌光雄, 王偉國 and 劉德勇) offered to display the Association's ideals in the church hall and provide venue space in return; 王清珠 subsequently donated three land parcels plus cash, split between the church and Bethesda Presbyterian Church, with the Rockville parcel appreciating sharply through urban renewal — a key funding source for the church's building campaign ([[works/taiwaneseamericanhistory-org/ourjourneys217|ourjourneys217 — 陳明賢 memoir on the D.C. church building campaign]]).
 
 He also contributed on the street-organizing side of community life: in the Taiwan Independence Day Parade in the Washington area, his fundraising work — together with the varied help of his son Gilbert — was credited among the preparations that made the parade succeed ([[works/taiwaneseamericanhistory-org/ourjourneys232|ourjourneys232 — Independence Day Parade record]]).
 
@@ -97,7 +99,8 @@ Pages that link to **wang-neng-xiang** (wang-neng-xiang):
 
 - **Content priority A:** 2017 TAHS Publication (profile Part 1, ~66 lines), co-authored by 楊嘉猷 and 周威霖
 - **Content priority A:** Contains biographical narrative including education, CPA career, and decades of Taiwan democracy advocacy
-- **Corpus (2026-10-10 deepen):** Kansas Suite Group + 1966 UFAI conference from [[works/taiwaneseamericanhistory-org/ourjourneys33|ourjourneys33]]; Austin association founding (1970) from [[works/taiwaneseamericanhistory-org/ourjourneys76|ourjourneys76]]; "first political lobbyist in D.C." self-description from [[works/taiwaneseamericanhistory-org/ff51|ff51]]; Independence Day Parade fundraising from [[works/taiwaneseamericanhistory-org/ourjourneys232|ourjourneys232]]; biography "前進D.C. 國會外交的開拓者" (2012, with 張文隆) is [[works/taiwaneseamericanhistory-org/publications274|publications274]]
+- **Corpus (2026-10-11 deepen):** Kansas Suite Group + 1966 UFAI conference from [[works/taiwaneseamericanhistory-org/ourjourneys33|ourjourneys33]]; Kansas Formosan Group formal organization (1 July 1966) and 《全美台灣同鄉通訊錄》 (Dec 1966, 3,095 names; Wang listed as Texas contact) from [[works/taiwaneseamericanhistory-org/ourjourneys58|ourjourneys58]]; 台獨聯盟美國本部 4th congress (1973, Indianapolis — Wang elected second vice-chair) from [[works/taiwaneseamericanhistory-org/ourjourneys234|ourjourneys234]]; World Peace Association land-donation negotiation for the D.C. church building (Wang proposing/introducing, with elders 蔡武男, 凌光雄, 王偉國) from [[works/taiwaneseamericanhistory-org/ourjourneys217|ourjourneys217]]; Austin association founding (1970) from [[works/taiwaneseamericanhistory-org/ourjourneys76|ourjourneys76]]; "first political lobbyist in D.C." self-description from [[works/taiwaneseamericanhistory-org/ff51|ff51]]; Independence Day Parade fundraising from [[works/taiwaneseamericanhistory-org/ourjourneys232|ourjourneys232]]; biography "前進D.C. 國會外交的開拓者" (2012, with 張文隆) is [[works/taiwaneseamericanhistory-org/publications274|publications274]]
+- **HOLD:** ourjourneys33 describes the "Kansas Suite Group" meeting 1964–1965 while ourjourneys58 dates the "Kansas Formosan Group" formal organization to 1 July 1966 (Wang joining slightly later) — likely the same lineage described from two memoirs with different dating; not merged.
 - **HOLD:** ff51 labels Wang "the first political lobbyist in D.C. / 1972" while the 2017 profile dates his WUFI Foreign Affairs role to 1973 — likely the move year vs. the role start, not merged.
 - **HOLD:** ourjourneys33 prints the UFAI acronym as "MUFAI" in one passage (likely typo for UFAI); page keeps UFAI.
 - **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
