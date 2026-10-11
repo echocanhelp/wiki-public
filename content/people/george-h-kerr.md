@@ -75,3 +75,5 @@ _No filled family fields on the TAH profile._
 <!-- DEEPEN-X10100500-22: verified 2026-10-11 — fresh full-corpus grep (葛超智 / George H. Kerr / 柯喬治 / Formosa Betrayed) across works/articles/sources/events/topics: hit set unchanged from prior saturation rounds (ourjourneys85 & -eng, 70, 33, 279, will-tiao #40); all already absorbed and wikilinked — saturated, no new material. -->
 
 <!-- TJJ-A10090601-1: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-1 article cbf185d4e8137928 (一顆難以忘懷的台灣心, 廖清山 2017-09-19): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10100501-1: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-1 article cbf185d4e8137928 (一顆難以忘懷的台灣心, 廖清山 2017-09-19): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
