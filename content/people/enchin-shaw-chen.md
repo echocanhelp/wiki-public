@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Enchin Shaw Chen (蕭永真)
 
@@ -39,12 +39,13 @@ Family History Book : 蕭安居牧師生平及家譜 Life And Family History Of 
 - **Church lineage:** the 華府基督長老教會 thirty-year commemorative issue records her father **Rev. L.S. Shaw (蕭樂善牧師)** as the church's **first pastor** ([[works/taiwaneseamericanhistory-org/mystories599|TAH #599]]); she is also the granddaughter of **Rev. An-Ku Shaw (蕭安居牧師)**, whose life her 2008 family history book preserves ([[works/taiwaneseamericanhistory-org/942-life-and-family-history-of-rev-an-ku-shaw|TAH #942]]).
 - **Church founding narrative:** her own account "The Beginning of Our Church" documents the origin of the Washington church founded by her circle ([[works/taiwaneseamericanhistory-org/ourjourneys215|TAH #215]]).
 - **Early-education record:** 朱真一's survey of early postwar Taiwanese women who studied in North America records her 1930 birth, 1952 graduation from 淡江英專, 1953 departure for the U.S., and 1965 marriage to **Dr. Donald C. J. Chen (陳哲仁)**, the D.C. area's first Taiwanese private-practice physician ([[works/taiwaneseamericanhistory-org/ourjourneys270|TAH #270]]; see also [[works/taiwaneseamericanhistory-org/whos474-donald-c-j-chen|TAH #474]] and [[works/taiwaneseamericanhistory-org/ff309|TAH #309]] on her husband's clinic).
+- **Archival collection:** her personal collection 「蕭永真女士的收藏」 is held in the TAH story corpus as [[works/taiwaneseamericanhistory-org/collection-of-mrs-enchin-shaw-chen|TAH #8 (2016)]] — the vault record of her documentary holdings, alongside the Chen family photo album ([[works/taiwaneseamericanhistory-org/photo-albums-activities-111|TAH #111]]).
 - **Family-network context:** her husband Dr. Chen led the Washington D.C. branch among the 28 founding chapters of the **Formosan Club of America (全美台灣同鄉會)**, registered in D.C. in 1971 ([[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76]]; [[people/donald-c-j-chen|Donald C.J. Chen]]). Family photographs are held in the vault album of the Chen household ([[works/taiwaneseamericanhistory-org/photo-albums-activities-111|TAH #111]]).
 
 ## Family
 
 - **Husband:** 陳哲仁 (Dr. Donald C. J. Chen, m. 1965 per [[works/taiwaneseamericanhistory-org/ourjourneys270|TAH #270]])
-- **Daughter:** 陳美真理&陳安仁理
+- **Daughter:** 陳美真理 ([[people/michellee-shaw-chen|Michellee Shaw Chen]], [[works/taiwaneseamericanhistory-org/whos871-michellee-shaw-chen|TAH #871]]) & 陳安仁理 ([[people/angellee-shaw-chen|Angellee Shaw Chen]], [[works/taiwaneseamericanhistory-org/whos872-angellee-shaw-chen|TAH #872]])
 - **Son:** 陳安哲&陳善哲
 
 
