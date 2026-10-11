@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 name_en: "Frank Hsieh"
 ---
 # Frank Hsieh (謝長廷)
@@ -67,3 +67,12 @@ name_en: "Frank Hsieh"
 - **Politician 謝長廷, Taiwan Center campaign records (ourjourneys, added 2026-10-10 slice 10081500-27):** [[works/taiwaneseamericanhistory-org/ourjourneys304|304. 心心念念一間厝 紐約台灣會館起家 / 黃兆平 / 07/2017]] (English edition [[works/taiwaneseamericanhistory-org/ourjourneys304-eng|ourjourneys304-eng]]) — the New York Taiwan Center "played an important role during the DPP's overseas political movement": 蔡英文、陳水扁、呂秀蓮、**前行政院長謝長廷**、蘇貞昌、游錫堃 all left campaign records there. The record's own "mentioned in this record" backlink list already wikilinks [[people/frank-hsieh|Frank Hsieh]].
 - **taiwanjustice.net corroboration (2026 articles):** the archive's 罷韓 retrospective notes **民進黨前市長謝長廷 8 年的執政** in Kaohsiung before 陳菊's 13 years — confirms the mayoral tenure already implied by the registry role labels, no new dates invented.
 - **Politician 謝長廷, Formosa defense roster (ourjourneys, added 2026-09-22 slice 09211123-2 via alias stub [[people/xie-changting]]):** 廖述宗's 北美洲台灣人教授協會 memoir records the 美麗島事件 defendant/defense-lawyer pairs — 謝長廷 and 蘇貞昌 defended 姚嘉文 — placing him in the defense-lawyer generation that the memoir says became the leadership of the party-rotation era ([[works/taiwaneseamericanhistory-org/ourjourneys69|69. 北美洲台灣人教授協會 / 廖述宗 / 2014/12]]; English edition [[works/taiwaneseamericanhistory-org/ourjourneys69-eng|ourjourneys69-eng]]). This is a second independent community-corpus record of the politician alongside the 1984 press-conference help in ourjourneys66, and further supports the split: our memoir corpus only ever attests the politician, never the pianist.
+
+## Corpus facts (deepen pass 2026-10-11, slice 10101200-27)
+
+- **Registry stub now exists:** [[people/xie-changting]] is now created in the vault — the earlier note "registry slug `xie-changting` page not yet created" (2026-09-11 pass) is superseded.
+- **Representative to Japan (駐日代表), pineapple ban coverage (taiwanjustice.net, 2026-01):** [[articles/taiwanjustice-net/2026/20260120123927_日本掀台灣鳳梨熱_謝長廷籲長遠規劃才是根本_cdbbcf60c5b8b5f5|日本掀台灣鳳梨熱，謝長廷籲長遠規劃才是根本]] — after China's 2025 pineapple import ban, 謝長廷 as 駐日代表 engaged Japanese public/retail support for Taiwan pineapples, stressing structural long-term planning for fruit exports. First dated 駐日代表-era record on this page.
+- **Fukushima wastewater controversy (taiwanjustice.net, 2021-04):** [[articles/taiwanjustice-net/2021/20210619041232_2021_04_27_福島核廢水言論爭議-藍質疑總統府包庇謝長廷_府_7dfcd5f474be2f99|福島核廢水言論爭議 — 藍質疑總統府包庇謝長廷]] — his remark that Taiwan's nuclear plants also discharge tritium-contaminated water drew KMT demands he be recalled; the Executive Office defended keeping him.
+- **Defamation suit "條子鴿" (taiwanjustice.net, 2021-09):** [[articles/taiwanjustice-net/2021/20211023205139_2021_09_08_退休警_條子鴿_影射兒曾耍特權卻龜縮_謝長廷_cdf14aaa570eb7e2|退休警「條子鴿」影射兒曾耍特權 — 謝長廷批惡劣]] — a retired officer's insinuation about his son (謝維洲/張維洲) was denied as fake news; 謝長廷 challenged for evidence publicly.
+- **2020 election context (taiwanjustice.net, 2026-02):** [[articles/taiwanjustice-net/2026/20260208204316_台灣第三場大選政見會聚焦兩岸關係_351675d4fa16e997|台灣第三場大選政見會聚焦兩岸關係]] — 韓國瑜 cited 謝長廷 among DPP figures' cross-strait contacts in the 2020 campaign.
+- No conflicts found this pass; TAH pianist (謝明志) split-decision flag stands unchanged.
