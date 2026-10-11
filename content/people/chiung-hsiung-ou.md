@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Chiung-Hsiung Ou (歐炯雄)
 
@@ -61,6 +61,8 @@ NRC Senior Research Associate, Senior Microbiologist
   - 他是費城「和平契友」圈的公認帶頭者（「歐炯雄是費城和平契友的老大」，同儕稱 Kuma）；該圈與費城基督徒查經班（Tabernacle Presbyterian Church）、東部神學生／牧師群（徐頌鵬、莊文生等）並列為 1970 首屆夏令會的三大源頭團體（[[works/taiwaneseamericanhistory-org/ourjourneys268|OJ 268]]；參 [[people/elizabeth-s-chen|陳李秀麗]] 頁同文記載）。
   - 1970 年聖誕節，費城和平契友於賓州 Poconos 辦過一次約 50 人（含 17 名兒童）的冬令會，是夏令會成為年度傳統之前的前身聚會；歐炯雄為該圈核心人物（[[works/taiwaneseamericanhistory-org/ourjourneys268|OJ 268]]）。
   - 首屆夏令會日期／地點 HOLD 維持（OJ392 七月四日假期・四健會營區 vs OJ268 8月14–16日・YMCA營區）。
+
+- 複核（deepen-x slice 10101204-14, 2026-10-11）：fresh grep 歐炯雄／Chiung-Hsiung Ou across works/articles/sources/events/topics — hit set identical（OJ 392/268/338、TAH #140/#829、works index、sources）— 無新事實可吸收；首屆夏令會日期地點 HOLD 維持。SKIP, verified-saturated.
 
 ## Sources
 - [TAH #829 encyclopedia: 829. Chiung-Hsiung Ou 歐炯雄 /02/2016](https://taiwaneseamericanhistory.org/who829-chiung-hsiung-ou/)
