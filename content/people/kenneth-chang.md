@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Kenneth Chang (張學賢)
 
@@ -52,3 +52,5 @@ Re-grep 2026-10-08 (deepen-x slice 10062334-6): fresh ERE grep (張學賢|Kennet
 Re-grep 2026-10-09 (deepen-x slice 10080600-3): ERE grep (張學賢|Kenneth Chang|Hsueh-?hsien Chang|Xue-?xian Zhang) across works/articles/sources/events/topics returned the identical hit set — ourjourneys-138, whoswho1381, ourjourneys47, works/index.md, sources/taiwaneseamericanhistory-org.md. Content spot-checked against the page: the 創會先鋒獎 caption (1972會長張學賢) and the 吳德朗 memoir passage (林口長庚 臨床硏究部主任, 由華府回台微生物學退休教授) are already absorbed verbatim in Role in the Community + Timeline. No new corpus material. Verified-saturated, SKIP.
 
 Re-grep 2026-10-10 (deepen-x slice 10091400-3): ERE grep (張學賢|Kenneth Chang|學賢|Hsueh.?hsien Chang|Xue.?xian) across works/articles/sources/events/topics returned the identical hit set — ourjourneys-138, ourjourneys47, whoswho1381, works/index.md, sources/taiwaneseamericanhistory-org.md. All already absorbed above. No new corpus material. Verified-saturated, SKIP.
+
+Re-grep 2026-10-11 (deepen-x slice 10101210-18): ERE grep (張學賢|Kenneth Chang|學賢|Hsueh.?hsien|Xue.?xian) across works/articles/sources/events/topics returned the identical hit set — ourjourneys-138 (1972會長張學賢 in 創會先鋒獎 roll), ourjourneys47 (1990-08 林口長庚 臨床硏究部主任 visit with 吳德朗/廖述宗), whoswho1381, works/index.md, sources/taiwaneseamericanhistory-org.md. All already absorbed verbatim in Role in the Community + Timeline. No new corpus material. Verified-saturated, SKIP.
