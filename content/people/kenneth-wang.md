@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Kenneth Wang (王克雄博士)
 
@@ -68,6 +68,15 @@ last_reviewed: 2026-10-10
 - Corpus grep (re-run 2026-09-22): TJJ 語料新增多筆本人專欄與二二八平反紀錄 — 見下方逐條吸收；whos-who-1694 (王文宏) 命中集合不變。
 - 2023-05 — 獲選 2023 TAHS Publication（台美人菁英錄 第二輯）「奠基‧傳承」第 10 位profile（Wang Kexiong 王克雄）— 見 [[sources/2023-tahs-publication|2023 TAHS Publication]]；該輯傳記記其 1947 年生於台北、父王育霖 27 歲遭綁擄時為其出生之年（[[people/wang-kexiong|王克雄 (Wang Kexiong)]] 為同一人別名條目）。HOLD: 該條目稱本人「生於 1947」，與 LA Times 紀錄「1947 年祕警抓捕時年未滿 3 歲」（ourjourneys192）存在年齡衝突，未合併。
 - 2021-05 — 以「Dr. Kenneth Wang, The Institute of Taiwanese Studies」身分連署台灣人歷史協會回應 Pew Research 隱匿台灣人身分之聲明「We made it count. Now tell our stories.」— 見 [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research 回應聲明 (2021-05-01)]]。
+
+## From the record (228 advocacy & remembrance, 2019–2025)
+
+- 2019-02-26 — 以海外228遺屬返鄉團團長身分與民進黨立委王定宇在立法院舉行記者會並發表聲明，提議將中正紀念堂轉型為「台灣忠烈祠」；他警告若台灣簽下和平協議被中國統一，「二二八屠殺可能再度發生」（[[articles/taiwanjustice-net/2021/20210211022603_2019_02_26_海外二二八遺屬_中正紀念堂轉型為_台灣忠烈祠_58898b9547b9d799|TJJ 轉載中央社記者報導]]）。
+- 2023-03-20 — 南都「請君入座」影音專題：228受難者家屬王克雄回憶慘案，父王育霖遭棄屍淡水河、屍骨無從追尋（[[articles/taiwanjustice-net/2023/20231208122012_root_6df2c04788f9010b|TJJ 歷史必讀欄目轉載]]；同條目見 [[articles/taiwanjustice-net/2025/20250324135333_category_history_8eb9cf4e08c3d75b|歷史必讀列表頁]]）。
+- 2024-06-04 — 新書《化悲憤為力量：一個二二八遺屬的奮鬥》於大洛杉磯台灣會館發表（活動列表見 [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca|TJJ 會訊轉載]] 與 [[articles/taiwanjustice-net/2025/20250425112728_category_taiwancenter_fa34cd5a079292aa|Taiwan Center 活動日曆轉載]]；全庫尚無此書專頁，不創建、以本條為據）。
+- 2025-02-27 — 法務部公布第8次平復司法不法公告，累計4,925名政治受難者獲平反，父王育霖（檢察官）名列其中，與潘木枝、陳澄波、王添灯、湯德章並列（[[articles/taiwanjustice-net/2025/20250425131317_落實轉型正義-法務部平反4925名政治受難者_5e258f7fcabff4bb|TJJ 中央社記者報導轉載]]）。
+- 2025-12-05 — 總統賴清德公開追述：王育霖夫人（本人母親）高齡99歲拖病體坐輪椅出門投票，於家人告知選舉結果後安然辭世（[[articles/taiwanjustice-net/2025/20251205023557_3名前輩抱病投票後辭世_賴清德_感謝您們守護台_5227b3af1e535348|TJJ 轉載]]）。
+- 專欄日期補充：「修憲－中華民國亦稱為台灣」另見於 2021-12-18 編輯部專欄列表頁（[[articles/taiwanjustice-net/2025/20250417203056_category_editorial_d437ed27ea084743|TJJ 轉載]]），與既有 2020-04-19 版本並列，HOLD: 兩版刊載日期未定論，未改寫上方既條。
 
 ## From the record (228 advocacy, 2020–2026)
 
