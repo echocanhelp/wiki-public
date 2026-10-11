@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # S. Y. Chang (張信義)
 
@@ -60,6 +60,7 @@ _No filled family fields on the TAH profile._
 - 1983–1985 — Second president of TAF (per the memoir's president list: 莊明哲 1980–1982, 張信義 1983–1985, 鄭天助 1986–1988, 卓甫良 1989–1991) ([[works/taiwaneseamericanhistory-org/our-journeys-377|Our Journeys #377]]).
 - 1984-07-14 — Among the ~40 founders at the formal establishment of NATMA at Western Michigan University, Ypsilanti, listed in the Chicago group with 蔡俊晴 and 林洪謙 ([[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys #74]]; English account [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|#74-eng]]).
 - Described in an Our Journeys roster as 哈佛大學副教授、精神科醫師 ([[works/taiwaneseamericanhistory-org/ourjourneys79|Our Journeys #79]]).
+- 1981-1980s — Per the memoir account, 張信義's vision prompted the Junior & JH Groups' Art and Musical programs under TAF, which 廖淑清, 張幸瑛, 鄭美津, 王謹 and others carried forward (English account [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|#74-eng]]).
 - 1980-10-18 — As a first TAF Board of Directors member, passed the by-law renaming MFCF to TAF, alongside 莊明哲、陳植哲、洪宏謨、楊忠正、卓甫良; as second president he stressed Youth Works (Junior, JH, and High School youths) ([[works/taiwaneseamericanhistory-org/ourjourneys33-eng|Our Journeys #33-eng]]).
 - Corpus re-grep 2026-09-20 (slice 09190130-2): 張信義 / S. Y. Chang / Sidney Chang across content/works + content/articles — hit set identical to records already linked above (whoswho1651, OJ #33-eng/#74/#74-eng/#79/#377, TJJ 楊遠薰 TAF-history reprints 2021/2024/2025); no new absorbable material. HOLD on the English-name conflict stands.
 - Corpus re-check (slice deepen-x-slice-09201400-4, 2026-09-21): re-grep 張信義 — hit set unchanged (whoswho1651, OJ #33-eng/#74/#79/#377, index); all already linked. SKIP-no-new-material; HOLD stands.
@@ -80,14 +81,22 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A10040500-4: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-4 article b4206bcf0ec508d6 (卓甫良與TAF的故事, 楊遠薰, 2021-06-22 刊, 2024-03-02 快照): 張信義任TAF第二任會長（1983年起，主題認同）re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
+
 <!-- TJJ-A10060600-2: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-2 articles b4206bcf0ec508d6／f06677a469620539／e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》三存檔副本, 同文): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
+
 <!-- TJJ-A10070800-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070800-2 articles b4206bcf0ec508d6／f06677a469620539／e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》三存檔副本, 同文): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 
 <!-- DEEPEN-X10081009-24: verified 2026-10-09 — fresh grep 張信義／S. Y. Chang／Sidney Chang across works+articles+sources+events+topics returned 11 files (OJ #33-eng/#74/#74-eng/#79/#377, whoswho1651, TJJ 楊遠薰 reprints 2021/2024/2025, works/index, sources/taiwaneseamericanhistory-org); every hit resolves to a record already linked above. SKIP-with-reason: 語料已飽和, no new material; English-name HOLD (S. Y. Chang vs Sidney Chang) stands. -->
 
 <!-- TJJ-A10090601-3: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-3 article f06677a469620539 (卓甫良與TAF的故事, 楊遠薰, 2021-06-22 刊, 2021-12-05 快照): subject link re-checked vs 正文 this attempt (張信義任TAF第二任會長, 1983年起, 1983–84主題認同), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
+
 <!-- TJJ-A10090601-4: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-4 article e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
+
 <!-- TJJ-A10100501-2: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-2 article f06677a469620539 (卓甫良與TAF的故事, 楊遠薰, 2021-06-22 刊, 2021-12-05 快照): 張信義任TAF第二任會長（1983年起，1983–84主題認同）re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10100600-30: verified 2026-10-11 — fresh grep 張信義／S. Y. Chang／Sidney Chang across works+articles+sources+events+topics returned 11 files (OJ #33-eng/#74/#74-eng/#79/#377, whoswho1651, TJJ 楊遠薰 reprints 2021/2024/2025, works/index, sources/taiwaneseamericanhistory-org). One new absorbable fact: OJ #74-eng credits Sidney Chang's vision for the Junior & JH Groups' Art and Musical programs — absorbed into From the record. English-name HOLD (S. Y. Chang vs Sidney Chang) stands. -->
+
