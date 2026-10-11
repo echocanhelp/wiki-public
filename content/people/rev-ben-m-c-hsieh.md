@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Rev. Ben M.C. Hsieh (謝敏川牧師)
 
@@ -37,8 +37,8 @@ Accomplishment
 
 ## Role in the Community
 
-- **TAFPC NJ 第二任牧師 (1986–2005):** Installed as the second pastor of 紐澤西台美團契長老教會 on 1986-11-02, serving 19 years; when he retired in 2005 after 19 years of pastoring and 45 years of service to the church, the session installed him as 榮譽牧師 (honorary pastor) ([[works/taiwaneseamericanhistory-org/ourjourneys14|TAFPC founding memoir]]).
-- **Church planting mentor:** In 1995 the memoir author borrowed 10 Bibles and a hymnal from TAFPC and opened his Pennsylvania home as a ~12-member Bible study; under 謝敏川's guidance this ran two mission/planting experiments, including a collaboration attempt with Woodside Presbyterian Church (Pennsylvania-area believers baptized through this effort included 杜智惠、洪國輝、蔡宗元、藍錫坤、陳姿容). He preached at the plant's inaugural thanksgiving service on Easter 1999-04-04 at Slackwood church (250+ attendees; Rev. 蔡清波 blessed, Rev. Floyd Fletcher welcomed) ([[works/taiwaneseamericanhistory-org/ourjourneys43|NJ church-planting memoir]]).
+- **TAFPC NJ 第二任牧師 (1986–2005):** Installed as the second pastor of 紐澤西台美團契長老教會 on 1986-11-02, serving 19 years; the congregation rented First Reformed Church as its meeting place on 1989-07-16 (New Brunswick as members' residential center), moved to New Brunswick Presbyterian Church on 2002-08-26 as growth continued, and he retired in 2005 after 19 years of pastoring and 45 years of service to the church — the session installed him as 榮譽牧師 (honorary pastor); his successor 董俊蘭牧師（[[people/rev-c-l-tong|董俊蘭]]）was installed as third pastor on 2007-01-21 ([[works/taiwaneseamericanhistory-org/ourjourneys14|TAFPC founding memoir]]).
+- **Church planting mentor:** In 1995 the memoir author borrowed 10 Bibles and a hymnal from TAFPC and opened his Pennsylvania home as a ~12-member Bible study; under 謝敏川's guidance this ran two mission/planting experiments, including a month-long collaboration attempt with Woodside Presbyterian Church bringing Pennsylvania seekers to worship there. Believers subsequently baptized in the Pennsylvania area through this effort: 杜智惠、洪國輝、蔡宗元、莊榮輝母親、藍錫坤、陳姿容、Kelly Lan、Jerry Lan、Edward Chiang, with 許資敏 confirmed in the faith (per the memoir author's account of the plant under 謝敏川's direction). He preached at the plant's inaugural thanksgiving service on Easter 1999-04-04 at Slackwood church (250+ attendees; 陳東亮 read scripture, 李智惠 sang, 蔡其芳 offered the gifts, Rev. 蔡清波 blessed, Rev. Floyd Fletcher welcomed) ([[works/taiwaneseamericanhistory-org/ourjourneys43|NJ church-planting memoir]]).
 - **Published writer:** Author of 牧野溪流 (2009-06, religion) ([[works/taiwaneseamericanhistory-org/186-e7-89-a7-e9-87-8e-e6-ba-aa-e6-b5-81-e8-ac-9d-e6-95-8f-e5-b7-9d-2009-06-e5-ae|TAH #186]]).
 - **Interim supply pastors (from the founding memoir):** in the vacancy before his 1986 installation, 張德香、黃武東（[[people/wudong-huang|黃武東]]）、王成章（[[people/rev-martin-c-wang|王成章]]）牧師 guest-pastored TAFPC, per the same memoir that records his installation ([[works/taiwaneseamericanhistory-org/ourjourneys14|TAFPC founding memoir]]).
 - **TAH encyclopedia records:** [[works/taiwaneseamericanhistory-org/144-rev-m-c-ben-hsieh|TAH #144]] and [[works/taiwaneseamericanhistory-org/whos-who-888-ben-m-c-hsieh|TAH #888]].
@@ -65,3 +65,4 @@ _Corpus re-scan 2026-09-25 (deepen-x slice 09240600-8): fresh grep 謝敏川/Hsi
 <!-- deepen-x slice 09260317-7 re-verify 2026-09-26: fresh ZH+EN grep of works+articles — hit set identical to prior passes (#144, #888, OJ14, OJ43, #186); all facts incl. mention-network line already absorbed; SKIP-with-reason: verified-saturated -->
 
 <!-- deepen-x slice 10081500-5 re-verify 2026-10-10: fresh ZH+EN grep across works/articles/sources/events/topics — hit set identical (#144, #888, OJ14, OJ43, #186, index, source page); two taiwanjustice-net surname-only hits confirmed false positives (謝 not followed by 敏川); SKIP-with-reason: verified-saturated, no new absorbable facts -->
+<!-- deepen-x slice 10101100-32 re-verify 2026-10-11: fresh ZH+EN grep across works/articles/sources/events/topics — hit set identical (#144, #888, OJ14, OJ43, #186, index, source page); two new facts absorbed from OJ14/OJ43: (1) full PA baptism list from OJ43 (杜智惠、洪國輝、蔡宗元、莊榮輝母親、藍錫坤、陳姿容、Kelly Lan、Jerry Lan、Edward Chiang + 許資敏 confirmed) replacing the truncated 5-name list, plus Easter-service order of service; (2) TAFPC meeting-place history from OJ14 (1989-07-16 First Reformed rental, 2002-08-26 move to New Brunswick Presbyterian, 2007-01-21 董俊蘭 third-pastor installation). No conflicts found; no HOLDs needed. -->
