@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Cheng Wu (吳錦城)
 
@@ -37,6 +37,7 @@ last_reviewed: 2026-10-09
 - Corpus re-grep 2026-10-06 (deepen-x slice 10051340-16): fresh ZH+EN+variant grep (吳錦城 / Cheng Wu / 錦城) across works/articles/sources/events/topics — hit set identical (TAH #1423, ourjourneys233 roster, 2025 台杉 quote under HOLD, + index); nothing new absorbable. Verified-saturated, SKIP.
 - Corpus re-grep 2026-10-08 (deepen-x slice 10070018-6): fresh ZH+EN grep (吳錦城 / Cheng Wu) across works/articles/sources/events/topics — hit set identical (TAH #1423, ourjourneys233 roster, 2025 台杉 quote under HOLD, + sources index); nothing new absorbable. Verified-saturated, SKIP; 台杉 attribution remains on HOLD.
 - Corpus re-grep 2026-10-09 (deepen-x slice 10080720-5): fresh ZH+EN grep (吳錦城 / Cheng Wu / 錦城) across works/articles/sources/events/topics — hit set identical (whoswho1423, ourjourneys233 roster, 2025 台杉 quote under HOLD, + works/index + sources index); nothing new absorbable. Verified-saturated, SKIP; 台杉 attribution remains on HOLD.
+- Corpus re-grep 2026-10-10 (deepen-x slice 10092054-19): fresh ZH+EN grep (吳錦城 / Cheng Wu / 錦城) across works/articles/sources/events/topics — hit set identical (whoswho1423, ourjourneys233 roster, 2025 台杉 quote under HOLD, + works/index + sources index); nothing new absorbable. Verified-saturated, SKIP; 台杉 attribution remains on HOLD.
 
 ## Family
 
