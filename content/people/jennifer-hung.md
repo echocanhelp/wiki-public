@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Jennifer Hung (洪錦鈺)
 
@@ -85,5 +85,7 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090501-18: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-18 article 8362234ba338aea7 (南加州槍擊案的省思, 2022-05-17): 洪錦鈺為本文署名作者（時代力量台中黨部主委）re-checked vs 正文 this attempt, real, no wrong/spurious links; 2022-05-17 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090901-13: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-13 article e9ec20fd58bf6b1c (長青教室標籤頁 p6, 2024-06-21快照): subject link 洪錦鈺 re-checked vs 正文 this attempt (「長青教室 心得報告: 植牙與口腔的再春/ 講員:洪錦鈺與洪遠相兩位醫師/ 11-07-2012」條目確認見於正文), real, no wrong/spurious links; 2012-11-07 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 2026-10-11 DEEPEN-X10100900-20: fresh grep (洪錦鈺/Jennifer Hung/洪錦 + 洪遠相 alias probe, all 5 corpus dirs) hit set identical to records already cited here (ourjourneys265 2009-08-16 美西夏令會籌備第一次會議, ourjourneys107 植牙講者, whoswho1485, TJJ e9ec20fd58bf6b1c 長青教室標籤頁, TJJ 8362234ba338aea7 2022-05-17 投書, category page 8a33fbaac2009654 = same 投書的 category listing) — verified-saturated, SKIP-no-new-facts; 洪遠相 appears only in e9ec20fd58bf6b1c and has no person page (correct per convention); last_reviewed bumped.
 
 <!-- TJJ-A10100501-20: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-20 article 8362234ba338aea7 (南加州槍擊案的省思：廢國統綱領、強化國家認同, 洪錦鈺社論, taiwanjustice.net, 2022-05-17 刊 / 20220705115208 快照) read fresh this attempt: 3 subject links re-checked vs 正文 — 鄭達志（挺身而出防止悲劇擴大·壯烈犧牲）/ 張宣信（牧師與教友奮不顧身制服兇手）/ 洪錦鈺（本文署名作者·時代力量台中黨部主委）— all real, no wrong/spurious links; 王炳忠 mentioned in 正文 but unlinked and no person page — correct per existing convention; dated facts w/ article wikilink already in From the record — saturated, no new material. -->
