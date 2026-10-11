@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Wenhsiung Luke Huang (黃文雄)
 
@@ -41,7 +41,7 @@ Corpus memoirs (primary material) add movement-side detail beyond the TAH physic
 - **Cornell blacklist** — in the Ithaca 同鄉會 memoir, the attempted assassination got Cornell blacklisted for a time, so no one dared serve as association president until it was lifted ([[works/taiwaneseamericanhistory-org/ourjourneys310|Our Journeys #310]], English version [[works/taiwaneseamericanhistory-org/ourjourneys310-eng|#310-eng]]).
 - **世臺會年會** — Wu Musheng's report on the 2nd/3rd 世臺會 annual meetings lists 黃文雄 among the regional 同鄉會 leaders met at the welcome reception at NYU (Washington Square) ([[works/taiwaneseamericanhistory-org/ourjourneys283|Our Journeys #283 — 吳木盛, 世臺會第二、三屆年會報告]]).
 - **Impact on others** — one memoirist credits the 黃文雄 刺蔣事件 and 彭明敏's 民眾大會 with awakening his political Taiwan consciousness ([[works/taiwaneseamericanhistory-org/ourjourneys70|Our Journeys #70]]); another records that 張燦鍙 forfeited a house he had pledged as bail collateral for 黃文雄 ([[articles/taiwanjustice-net/2024/20240421190316_root_39b87795c51b5977|台灣公義報, 2024-04-21]]).
-- **Name-collision note** — vault works titled "Dr. Peter Huang 黃勝雄" ([[works/taiwaneseamericanhistory-org/46-dr-peter-huang|#46]], [[works/taiwaneseamericanhistory-org/whos-who-399-peter-huang|#399]], [[works/taiwaneseamericanhistory-org/mystories234-eng|#234]], [[works/taiwaneseamericanhistory-org/videos44|#44]], [[works/taiwaneseamericanhistory-org/collection-of-dr-peter-huang|#66]]) are about 黃勝雄, a different person; do not attribute them to this profile. HOLD: the English translation in [[works/taiwaneseamericanhistory-org/ourjourneys310-eng|#310-eng]] renders the 刺蔣 protagonist's name as "Peter Huang" yet links to [[people/dr-peter-huang]] — likely a mis-link, kept as-is pending verification.
+- **Name-collision note** — vault works titled "Dr. Peter Huang 黃勝雄" ([[works/taiwaneseamericanhistory-org/46-dr-peter-huang|#46]], [[works/taiwaneseamericanhistory-org/whos-who-399-peter-huang|#399]], [[works/taiwaneseamericanhistory-org/mystories234-eng|#234]], [[works/taiwaneseamericanhistory-org/videos44|#44]], [[works/taiwaneseamericanhistory-org/collection-of-dr-peter-huang|#66]]) are about 黃勝雄, a different person; do not attribute them to this profile. HOLD: the English translation in [[works/taiwaneseamericanhistory-org/ourjourneys310-eng|#310-eng]] renders the 刺蔣 protagonist's name as "Peter Huang" yet links to [[people/dr-peter-huang]] — likely a mis-link, kept as-is pending verification. A further name-collision: the 2017 Peng Ming-min interview cites "旅日作家黃文雄" (author of 《論語反論》) — the Japan-based essayist 黃文雄, a different person from this pediatrician profile; that article's subject link to this page is a likely mis-link, noted here pending verification.
 
 ## Timeline
 - 高雄醫學院 — B.S.
@@ -88,6 +88,7 @@ _No filled family fields on the TAH profile._
 - 覆核（TJJ-A09170400-17, 2026-09-24）：本 slice 文章 2777c888（長青教室標籤彙整頁）正文再驗證——本頁提及條目確認見於正文，subject 連結為真；對應日期事實已在庫 — SKIP，無新材料。
 
 - 2017-03-15 — 主講長青教室「人際關係」（YouTube Video），見台灣公義報「台美人台加人」分類 長青教室 標籤彙整頁（2017-03-29 刊）—— [[articles/taiwanjustice-net/2024/20240620173328_root_2777c88877eee2c5|TJJ tag 長青教室, 2024-06-20 存檔]]。
+- 2017-03-22 — 彭明敏專訪（【一鏡到底】我不怕孤單 之三）刊出：彭明敏提及近期閱讀「旅日作家黃文雄的《論語反論》」——該黃文雄為旅日評論作家，與本頁 TAH 小兒科醫師 profile 及刺蔣主角黃文雄均屬同名異人（見 Notes 同名警示）；該文主體連結指向本頁屬疑似錯鏈，保留待驗證（[[articles/taiwanjustice-net/2021/20210516144912_2017_03_22_我不怕孤單-彭明敏專訪之三-_mirror-media-2017-03-20_95c8239a7400fb06|TJJ, 2017-03-22 刊／2021-05-16 存檔]]）。
 - 覆核（TJJ-A09171200-9, 2026-09-24）：slice 09171200-9 四篇與 TJJ-A09170400-17 同文（北市議員缺額 93c0627d、全美會228 f6213c19、長青教室tag 2777c888、會館tag p13 ced69523）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 - 2020-11-25 — FAHR 公告第44屆年會（12/5 台北）邀歷屆「鄭南榕紀念獎」得獎人回娘家，名列 1997 年得獎人（本頁 TAH #142/#19/#89 即以其為424刺蔣案主角記錄，故連結成立；[[articles/taiwanjustice-net/2021/20210118235211_2020_11_25_全美台灣人權協會第44屆年會暨_鄭南榕紀念獎_頒_996879ac7a006acf|TJJ, 2020-11-25]]）。
 - 2020-04-24 — 中央社記者刺蔣案 50 週年報導：1970-04-24 康乃爾大學博士生黃文雄與妹夫鄭自才策劃刺殺蔣經國未果被捕，棄保逃亡後浪跡世界 26 年（報導中刺蔣主角黃文雄是否即本頁 TAH 醫師 profile 仍未驗證，詳見 Notes on sources；[[articles/taiwanjustice-net/2025/20251115150231_鄭自才談424刺蔣案意義_台灣人追求獨立建國_24119694dbb384c9|TJJ，2020-04-24]]）。
