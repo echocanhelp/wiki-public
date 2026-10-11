@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Taiwanese Association of Greater Portland (大波特蘭)
 
@@ -39,3 +39,4 @@ The Taiwanese Association of Greater Portland (TAGP) is a chapter of the Taiwane
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus check 2026-10-06 (slice 10051340-15): fresh grep (TAGP / 大波特蘭 / Greater Portland / 波特蘭台灣) again returns exactly the four linked records + works/index; all four are bibliographic-record stubs ("Full text stays in the vault"), so no chapter-author prose is absorbable in-corpus. No person page exists for author Chen-ya Chiu. Verified-saturated, no new facts.
 - Corpus check 2026-10-08 (deepen-x slice 10070018-6): fresh grep (TAGP / 大波特蘭 / Greater Portland / 波特蘭台灣) across works/articles/sources/events/topics returns exactly the four linked records + sources index; no chapter-author prose, no new facts. Verified-saturated, SKIP content-deepen.
+- Corpus check 2026-10-10 (deepen-x slice 10092054-6): fresh grep (TAGP / 大波特蘭 / Greater Portland / 波特蘭台灣) across all 5 corpus dirs returns exactly the four linked records + works/index + sources index — all already linked here. Wider Oregon/Portland sweep (Portland / Oregon / 奧勒岡 / 俄勒岡) hits only other Oregon institutions — NATWA Oregon/SW chapter, Taiwanese Chamber of Commerce of Oregon, David Wu records, ff341/ff342 (U. of Oregon student records) — none reference TAGP itself; the 1971 Portland founding-chapter item (Tsung-min Lin / 林宗民, [[works/taiwaneseamericanhistory-org/ourjourneys76]]) remains under the existing HOLD above. Verified-saturated, SKIP content-deepen.
