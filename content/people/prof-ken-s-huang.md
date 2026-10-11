@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Prof. Ken S. Huang (黃根深教授)
 
@@ -58,6 +58,11 @@ Master of Arts (MA), Drawing, School of Art and Art History, University of Iowa,
 - **Profile by 陳婉真:** 「用畫筆搞台獨的黃根深」(04/2017) — his art as a vehicle for the Taiwan independence movement — [[works/taiwaneseamericanhistory-org/mystories545|TAH #545]].
 - **Memorial exhibition:** the 黃根深教授紀念展 was held in San Diego, CA in 06/2018, shortly after his death (2018) — [[works/taiwaneseamericanhistory-org/ken-huang-san-diego-ca-06-2018|TAH #32]].
 - Additional community record: [[works/taiwaneseamericanhistory-org/64-ken-s-huang|TAH #64 — 黃根深 Ken S. Huang]].
+- **Los Angeles 生活座談會 (1966–1971):** among the UCLA-centered group (陳嶄新、李木通、黃根深、王秋森、陳松貞) that held weekly reading sessions from 1966, and listed among the members of the formal 生活座談會 founded in Los Angeles in 1971 — [[works/taiwaneseamericanhistory-org/ourjourneys212|TAH #212 — 生活座談會簡史, 劉天良 03/2016]].
+- **UCLA years:** 黃根深 studied at UCLA 1967–1970, per the 2016 UCLA reunion panel with 李木通 and 劉天良 — [[works/taiwaneseamericanhistory-org/ourjourneys240|TAH #240 — 半世紀前 UCLA的那些日子, 08/2016]].
+- **TAC-WC revival detail:** per 黃東昇's 2020 history, Ken Huang spent ~11 years trying to revive TAC-WC after the 1999 conference, persuading leaders in San Diego and Los Angeles; in 2011 he secured the backing of NATPA President 李學圖 (Dr. Shyu-tu Lee) to hold the 31st NATPA Annual Conference jointly with TAC-WC at UC San Diego, which he coordinated with Darice Lee (洪珠美), and again organized the 2012 TAC-WC at UC Santa Barbara — [[works/taiwaneseamericanhistory-org/ourjourneys352|TAH #352 — History of TAC-WC, 黃東昇 03/2020]]. HOLD: #352 states he "passed away in 2017" while this page's era field and the 06/2018 San Diego memorial exhibition indicate 2018 — retained as-is.
+- **Art as movement work:** authored 「寫在畫展之前」(10/2016) ahead of his exhibition — [[works/taiwaneseamericanhistory-org/ourjourneys256|TAH #256]]; organized the 世界台灣人美術展覽會, 07/1985 — [[works/taiwaneseamericanhistory-org/art-exhibitions-1|TAH art exhibitions #1]].
+- **Memorial video:** 「典型在宿昔—追思黃根深教授」 — [[works/taiwaneseamericanhistory-org/videos106|TAH videos #106]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
@@ -75,3 +80,4 @@ Master of Arts (MA), Drawing, School of Art and Art History, University of Iowa,
 - Deepen pass 2026-09-14 (vault-only): the TAH Who's Who tables, family fields, and both Iowa date variants are mirrored above; all absorbable vault links (FAHR / NATPA-SC presidencies, 王康陸人權獎 honors [[people/kang-lu-wang||Kang-lu Wang 王康陸]], TAC-WC founding proposal, TAHS-logo & UFI/UFAI profile under [[people/huang-gen-shen||Huang Gen-shen]], photo album #128, collection #39) are already in place — no further vault-sourced facts.
 - Re-verified 2026-09-14 (deepen-x slice 09140741-2): all wikilink targets (FAHR, NATPA-SC, TAC-WC Board, huang-gen-shen, kang-lu-wang, works #162/#308/#857/#39/#128) confirmed on disk; the 1972/1973 Iowa date discrepancy retained as-is pending verification.
 - Deepen pass 2026-10-09 (deepen-x slice 10081009-1): fresh corpus grep (黃根深/Ken S. Huang/Ken Huang) surfaced 7 previously-unabsorbed records — #336 (2011 TAC/WC reactivation coordinator, 台獨盟 member), #265 (his own 2011 conference retrospective), #75/#265 (2014 FAHR director roster), #1040 (co-author of FAHR 1970s–90s history), #545 (陳婉真 profile 「用畫筆搞台獨」), #32 (2018 San Diego memorial exhibition), #64 — absorbed into Role in the Community; FAHR director-vs-president HOLD noted.
+- Deepen pass 2026-10-11 (deepen-x slice 10100600-7): corpus grep surfaced 6 further records — #212 (LA 生活座談會 1966–1971 membership), #240 (UCLA 1967–1970), #352 (黃東昇 TAC-WC history: 11-year revival effort, 2011 joint NATPA conference w/ 李學圖, 2012 UCSB), #256 (his own 寫在畫展之前, 10/2016), art-exhibitions #1 (世界台灣人美術展覽會 07/1985), videos #106 (memorial video) — absorbed into Role in the Community; #352's 2017 death date vs 2018 memorial-exhibition evidence held as noted above.
