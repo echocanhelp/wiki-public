@@ -125,3 +125,5 @@ last_reviewed: 2026-10-10
 - Corpus re-grep 2026-10-10 (slice 10100315-8)：本人（吳瑞惠）命中集與前次完全相同 — #613、concerts81、mystories132、#284 四筆 TAH 檔，加 TJJ 演講記錄六檔（be7ac05c / 2c109418 / cc3dcc87 / 26f76359 / dc44b297 / 23a52af3），全部已掛 wikilink；其餘命中（whoswho1756 林玉惠、93/408 林季靜、whoswho987 林珮思、ourjourneys85(-eng) 童靜梓）皆屬消歧段所列同名人物；另有 works index 與 TJJ MANIFEST 索引檔。無新的本人社群語料 — SKIP，已飽和。
 
 <!-- TJJ-A10100601-19: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-19 article 26f763595b5ce4fb (糖尿病與你◎王秉訓教授演講記錄, 刊 2019-10-31 / 快照 2024-05-22) read fresh this attempt: subject link re-checked vs 正文 (文首「10-30-2019 記錄 吳瑞惠」署名確認見於正文), real, no wrong/spurious links; 2019-10-31 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10100801-25: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-25 article be7ac05c58e6eab6 (黃勝雄醫師講「老人的記憶與記憶的神經科學」video+文字報導, 刊 2017-02-23 / 快照 2024-06-13) read fresh this attempt: subject link re-checked vs 正文 (文末「(吳瑞惠 紀錄)」署名確認見於正文), real, no wrong/spurious links; 2017-02-23 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
