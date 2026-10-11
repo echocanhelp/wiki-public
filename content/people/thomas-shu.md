@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Thomas Shu (許正龍)
 
@@ -116,3 +116,5 @@ Founding member and board member of the American Premium Tea Institute (now merg
 <!-- TJJ-A100607004-d: verified 2026-10-09 — wave-2 link+deepen re-check of article 79b5f26fdef89d22 (「2023台美小姐選拔賽」盛大舉行·宋依珊奪后, TJJ 2023-08-06刊／20250614快照): subject link re-checked vs 正文 this attempt — 許正龍以台灣茶葉大使列名評審確認見於正文 — real, no wrong/spurious links; 2023-08-06 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090701-24: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-24 article 79b5f26fdef89d22 (「2023台美小姐選拔賽」盛大舉行·宋依珊奪后, TJJ 2023-08-06刊／2025-06-14快照) read fresh this attempt: 許正龍以台灣茶葉大使列名評審確認見於正文; subject link re-checked, real, no wrong/spurious links; 2023-08-06 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10100500-16: verified 2026-10-11 — fresh grep 許正龍/Thomas Shu across works/articles/sources/events/topics. All genuine hits already absorbed and wikilinked (ourjourneys123/#290, TAH #68/#114, ambassadors-of-taiwan-tea, Chicago workshop, TJJ 4b3dbc0e/97c86307/2589c867/c62f5c50/79b5f26f/ff4731d4/47725345). Three 2022 nuclear-submarine articles are FALSE hits — Thomas Shugart 許卡特 (CNAS analyst), different person, not linked. No new material — saturated, SKIP. -->
