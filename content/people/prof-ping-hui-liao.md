@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Prof. Ping-Hui Liao (廖炳惠教授)
 
@@ -102,3 +102,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10100701-15: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-15 article 2490b18e8f37ea79 (第166回世界台灣文化論壇, TJJ 2025-01-22刊 / 2025-03-18快照) read fresh this attempt: subject link re-checked vs 正文 — 「加州大學UCSD ê 台灣研究中心廖炳輝教授」(英文譯文作 Peng-hui Liao — 同一人) 確認見於正文, real, no wrong/spurious links; 2025-01-25 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100901-20: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-20 article ad7f737b9872262d (第55回世界臺灣文化論壇「大佛普拉斯」, TJJ 2022-10-03 發文 / 2025-09-06 快照) read fresh this attempt: subject link re-checked vs 正文 — 「主講人 廖炳惠教授 / UCSD Center for Taiwan Study」確認見於正文, real, no wrong/spurious links; 2022-10-03 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10101000-15: verified 2026-10-11 — fresh ZH+EN grep (廖炳惠/廖炳輝/Ping-Hui Liao/Peng-hui Liao) across all 5 corpus dirs; hit set identical to prior 0925/1008/1010 passes: our-journeys-385/386 (co-director Nancy Guy + 2023-05-16 大紀元 interview, already absorbed w/ HOLD), whos-who-1632 source profile, 第55回 (ad7f737b) / 第166回 (2490b18e) forum articles, and the 世界臺灣文化論壇 tag page 48936b62a23c74b2 (series index, no new facts) — saturated, no new material, nothing merged. -->
