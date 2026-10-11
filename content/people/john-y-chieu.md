@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # John Y. Chieu
 
@@ -58,4 +58,5 @@ last_reviewed: 2026-10-10
 - Corpus re-grep 2026-09-25 (slice 09250800-11): SKIP — hit set identical (TAH #2213, #2258, Our Journeys #106, #343, #233 ZH+EN); no new corpus material; engineer-vs-activist HOLD stands; verified saturated.
 - Corpus re-grep 2026-09-26 (slice 09260317-23): SKIP — hit set identical (TAH #2213, #2258, Our Journeys #106, #343, #233 ZH+EN); no new corpus material; engineer-vs-activist HOLD stands; verified saturated.
 - Corpus re-grep 2026-09-27 (slice 09260700-12): SKIP — hit set identical (TAH #2213, #2258, Our Journeys #106, #343, #233 ZH+EN); no new corpus material; engineer-vs-activist HOLD stands; verified saturated.
+- New detail absorbed 2026-10-11 (slice 10101322-12): the blacklist roster in [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys #106]] describes 邱忠男博士 as a graduate of the Civil Engineering Department of Cheng Kung University (成大土木系) with a PhD in environmental engineering from UT Austin, then employed at Bechtel — the corpus's own account thus attributes the Bechtel engineering track to the blacklisted activist himself. HOLD: this conflicts with this page's tah-tables Education/Employment track (UT Arlington MSME 1980–82, U of Houston 1986, no Cheng Kung / UT-Austin PhD listed); not auto-merged. The engineer-vs-activist question remains open.
 - New corpus hit 2026-10-10 (slice 10090600-8): [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys #76 (Austin)]] — the Austin memoir records Wu Mu-sheng (吳木盛) selecting 邱忠南 (variant spelling of 邱忠男) among the carefully-chosen Taiwanese student circle he gathered at his home to launch student activities in the US South-Central region in the late 1960s, preceding the founding of the Austin Taiwanese Association whose president was Dr. John Chieu per [[works/taiwaneseamericanhistory-org/ourjourney-343|Our Journey #343]]. This deepens the activist track's early-Austin timeline; HOLD: the engineer-vs-activist identity question stands unchanged.
