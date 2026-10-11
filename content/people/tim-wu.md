@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Tim Wu (吳修銘)
 
@@ -82,3 +82,4 @@ Accomplishment
 <!-- TJJ-A10090601-20: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-20 article 6e021ae439684a11 (台裔吳修銘任拜登特助, CNA 2021-03-05 刊/2025-06-21 快照): subject link re-checked vs 正文 this attempt — 本頁為報導主角 (L25-26 白宮宣布出任國家經濟委員會總統科技與競爭政策特別助理), 連結為真, 無錯鏈、無虛鏈; 含該文 wikilink 的 2021-03-05 日期事實條目已在庫 — saturated, no new material. -->
 <!-- TJJ-A10090801-17: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-17 article d0d03097ac759900 (AIT處長孫曉雅口罩亮眼・陳柏惟曝台僑暖心故事, 2021-07-18刊): subject link re-checked vs 正文 this attempt — 「加入白宮國家經濟委員會的台裔哥倫比亞大學教授吳修銘，他的父親過去即是黑名單的一員，還曾發行地下刊物『望春風』」確認見於正文，連結為真，無錯鏈、無虛鏈；含本檔 wikilink 的 2021-07-18 日期事實條目已在庫 — saturated, no new material. -->
 <!-- DEEPEN-X10081400-24 (2026-10-10): 全語料重掃（吳修銘/Tim Wu/吳修 × works/articles/sources/events/topics）命中集合無變——TAH #9／#118／#274／#788 書目記錄＋works/index＋MANIFEST 行＋已連結之 TJJ 文章 f72fdc70（2021-05-01 延攬亞裔入閣）／d0d03097（2021-07-18 陳柏惟台僑故事）／6e021ae4（2021-03-05 任拜登特助），皆已掛 wikilink；f72fdc70 正文另提徐若冰、盧沛寧亦已於 Role in the Community 吸收 — SKIP，無新事實可吸收。 -->
+<!-- DEEPEN-X10101100-20 (2026-10-11): 全語料重掃（吳修銘/Tim Wu/修銘 × works/articles/sources/events/topics）命中集合與前次飽和檢查完全一致——TAH #9／#118／#274／#788 書目記錄＋works/index＋MANIFEST 行＋已掛 wikilink 之 TJJ 文章 f72fdc70／d0d03097／6e021ae4；正文段落逐條比對無新事實可吸收 — SKIP，已飽和。 -->
