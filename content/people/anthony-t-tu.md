@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Prof. Anthony T. Tu (杜祖健教授)
 
@@ -52,6 +52,8 @@ Absorbed from vault pages already naming him (no web):
 ## Role in the Community (deepen slice 09141400-9, corpus pass)
 
 Further self-authored records in the TAH story corpus surface his public intellectual engagement beyond academia:
+
+Deepen-X re-check (slice 10100700-9, 2026-10-11): a fresh ZH+EN grep across works/articles/sources/events/topics returns the identical 16-file hit set (15 work/source records + works/index.md), all already linked above — no new corpus material, no conflicts to HOLD.
 
 - [[works/taiwaneseamericanhistory-org/publications1104||TAH #1104: A Medal from the Japanese Emperor (2010-05)]] — his own account of the 2009 旭日中綬章 decoration already recorded above.
 - [[works/taiwaneseamericanhistory-org/publications1106||TAH #1106: Chemical Terrorism — Horrors in Tokyo Subway and Matsumoto City (2002)]] — his toxinology expertise applied publicly to the sarin attacks.
