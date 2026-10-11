@@ -133,3 +133,5 @@ Dr. Long-Rong (Mark) Kao 高龍榮 – History of Taiwanese American (T.A. Archi
 ![20220912121758_wp-content_uploads_2014_03_FAPA會長高龍榮_jpg_b4ed](../images/people--long-rong-mark-kao.jpg)
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20220912121758）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+
+<!-- TJJ-A10100501-24: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-24 article 20240522053244_root_042939d886040651 (高龍榮 Mark Kao Taipei Times 專欄「US pressure on 'specific outcomes' feels unjust」, taiwanjustice.net 轉載, 2015-03-27 刊 / 2024-05-22 快照) read fresh this attempt: subject link re-checked vs 正文 — 本人為本文作者, 標題署名欄「◎Mark Kao 高龍榮/Taipei Time」及末段「Mark Kao is president of the Formosan Association for Public Affairs」確認見於正文, real, no wrong/spurious links (FAPA 於本人頁已有專條, 正確處理); dated fact w/ article wikilink (2015-03-27) already in From the record — saturated, no new material. -->
