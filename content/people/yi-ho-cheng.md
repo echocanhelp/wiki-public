@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Yi-Ho Cheng (鄭義和)
 
@@ -127,3 +127,5 @@ From [[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76 — 全美台灣
 
 <!-- TJJ-A10100501-12: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-12 article 20240224194255_root_92917d4c9a88eba2 (人民自救宣言59週年 林佳龍：難想像舊時荒謬, taiwanjustice.net 2023-09-24刊/2024-02-24快照) read fresh this attempt: subject link 鄭義和 re-checked vs 正文 — 以彭明敏文教基金會董事長身分與會並致詞認為彭明敏為台灣民主發展建立基礎，確認見於正文; link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10100501-32: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-32 article 20250213225448_root_da7f84e20eff6ae9 (人民自救宣言59週年 林佳龍：難想像舊時荒謬, TJJ/CNA 2023-09-24刊/2025-02-13快照) read fresh this attempt: subject link 鄭義和 re-checked vs 正文 — 以彭明敏文教基金會董事長身分與會並致詞認為彭明敏為台灣民主發展建立基礎，確認見於正文; link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10100600-28 (2026-10-11): fresh ZH+EN+surname grep (鄭義和/Yi-Ho Cheng/Yi-Ho/yi.ho.cheng) across works/articles/sources/events/topics returned 14 files — 12 already linked on this page (all 8 works incl. ourjourneys76/-eng, our-journeys-357/382, 22033, lifetime-award, 192, whos-who-2204; all 4 TJJ articles); remaining 2 hits are the sources/taiwaneseamericanhistory-org registry and works/index.md (non-biographical, nothing to absorb). No new dated facts, no conflicts — verified-saturated. -->
