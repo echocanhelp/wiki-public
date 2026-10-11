@@ -112,3 +112,4 @@ _No filled family fields on the TAH profile._
 ![20220207200346_wp-content_uploads_2022_01_資深古典音樂節目主持人黃瑞芬過世-5](../images/people--zoe-huang.jpg)
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20220207200346）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+<!-- TJJ-A10100601-24: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-24 article bfc5f319a036a339 (黃瑞芬訃聞, taiwanjustice.net, 2022-01-29 刊/2022-05-19 快照): 黃瑞芬 — 本人為訃聞主角，訃聞事實（2022-01-15心肌梗塞過世享年58歲）與1995 TUF LA演出回憶俱見正文 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
