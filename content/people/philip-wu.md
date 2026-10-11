@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Philip Wu (吳庭和)
 
@@ -79,3 +79,6 @@ Fresh ZH+EN sweep (`吳庭和|吴庭和|Philip Wu|Tien Ho Wu`) across works/arti
 - [[people/yi-cherng-lin|林一榮]] page carries the reciprocal note: "no direct vault link found (different generation/region of activity), so none asserted." Kept as plain text; no Wu–Lin link created.
 - False positives excluded, not absorbed: [[works/taiwaneseamericanhistory-org/ourjourneys-332|TAH #332 台美人的婚姻 (黃哲陽)]] and several taiwanjustice.net articles matched only the substring 庭和 inside 家庭和 ("family and children") — no reference to Wu.
 - Wikilink targets verified against disk (`people/dr-shinn-sheng-chang`, `people/shun-hua-yu`, `people/nai-yuan-hu`, `works/.../ourjourneys38`). No web, no new pages, nothing published.
+
+## Corpus re-sweep 2026-10-11 (deepen-x slice 10100849-21, vault-only)
+Fresh ZH+EN sweep (`吳庭和|吴庭和|Philip Wu|Tien Ho Wu`) across works/articles/sources/events/topics returned the unchanged saturated hit set: ourjourneys38 (ZH + eng), ota-252, whos-who-238, #124, #29, works/index, sources hub. All already absorbed above; no new corpus material. The 黃美星 vs May-Sing Chang HOLD (2026-10-10) stands — no vault document resolves it. 28th-President dating (after 26th 余舜華 (Shun Hua Yu, 2000 quake relief drive) / 27th 陳麗都 (Li-tu Chen, from 2000 Taiwan Culture Festival), early 2000s) unchanged. No web, no new pages, nothing published.
