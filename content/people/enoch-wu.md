@@ -127,3 +127,5 @@ last_reviewed: 2026-10-10
 ![20220411093326_wp-content_uploads_2022_04_魏百谷-X-吳怡農_jpg_5847](../images/people--enoch-wu.jpg)
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20220411093326）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+
+<!-- TJJ-A10100401-9: verified 2026-10-10 — subject link f631078d re-checked vs 正文 (吳怡農高嘉瑜顏值組合掃街、卓榮泰陪同接力), real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

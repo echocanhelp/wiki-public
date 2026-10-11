@@ -437,3 +437,5 @@ Notable quotes and mentions of **田詒鴻** in Taiwan Justice articles:
 <!-- TJJ-A10090701-30: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-30 article 80c0a825a7a661b6 (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, TJJ 2021-05-17刊 / 2025-11-08 快照, twin b1d58af16c0a5e5b) read fresh this attempt: subject link re-checked vs 正文 — 「田詒鴻」列名共同發起人清單確認見於正文, real, no wrong/spurious links; 2021-05-13 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10091401-2: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10091401-2 article 1d72b2ae61640747 (2020海外小英後援會洛杉磯造勢大會報導, 發文 2019-10-10) read fresh this attempt: 田詒鴻 subject link re-checked vs 正文 — 以會長/國策顧問領銜身分說明民調與「總統連任、國會過半」立場確認見於正文, real, no wrong/spurious links; 2019-10-10 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10100401-9: verified 2026-10-10 — subject link f631078d re-checked vs 正文 (田詒鴻會長世代交替談話), real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
