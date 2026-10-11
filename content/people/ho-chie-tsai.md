@@ -9,7 +9,7 @@ tags:
   - media
   - taiwanese-american-org
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Ho Chie Tsai (蔡和杰)
 
@@ -92,3 +92,12 @@ Facts already present in vault pages (no new sources):
 - From his own first-person account in [[works/taiwaneseamericanhistory-org/mystories554|My Stories #554]]: parents immigrated to the U.S. in 1972 (father as a physician-in-training, mother with twin boys); grew up in the Midwestern Taiwanese American community of the 1970s–80s. In the late 1980s–1990s he helped run Taiwanese American youth summer camp programs in the Midwest and East Coast, helped found one of the first Taiwanese American student organizations at his university, and built early intercollegiate networks and conferences.
 - TAF tenure detail (board member 1996–2019, President from 2019) absorbed into Community Involvement above from 林壽英's record in [[works/taiwaneseamericanhistory-org/our-journeys-377|Our Journeys #377]]; TAF青少年夏令營 running since 1980 is credited there to him and other second-generation volunteers.
 - No conflicts found between corpus sources; nothing published.
+
+## Deepen-x 2026-10-10 (slice 10091531-6, corpus-only)
+- From 楊遠薰's profile of him in [[articles/taiwanjustice-net/2021/20211205044940_2017_09_16_台美人的未來下-_-楊遠薰-2017-09-16_74e3a048f3caeb26|台美人的未來（下）]]: "Ho Chie" is the phonetic rendering of his Chinese name 和杰; grew up in the Chicago suburbs, torn between American culture and Taiwanese values as a teenager. In 1986 he attended the TAF 台美青少年夏令營, the experience that redirected him from a diffident youth to one with direction and purpose.
+- Organizing record per the same profile: entered [[organizations/taiwanese-american-students-club-at-uiuc|UIUC]] in 1990 as an electrical-engineering major (matching his own "geek" self-description in [[works/taiwaneseamerican-org/an-afternoon-with-girl-geek-angie|An Afternoon with Girl Geek Angie]]); in summer 1991 attended the first 台美青年領導人才訊練營 at Cornell (TAC/EC), one of the first fifteen trainees. During college he co-founded the 台美學生社 and the 亞太學生聯合會; in graduate/med school he founded the UIUC 亞太學生校友會 and the 亞太裔醫學生聯合會; after moving to Northern California as a pediatrician he launched the 第二代台美人醫師協會 and the San Francisco chapter of 台美專業協會 (TAP-SF, above).
+- He was a featured speaker (主講人) at the 2017 TANG (Taiwanese American Next Generation) camp, where 楊遠薰 first met him via TaiwaneseAmerican.org.
+- As founder/editor of TaiwaneseAmerican.org he personally hosted the site's interview series, appearing on record as interviewer in [[works/taiwaneseamerican-org/ties-that-unbind-qa-with-filmmaker-james-y-shih|Ties That Unbind (James Y. Shih)]], [[works/taiwaneseamerican-org/music-video-alishan|Alishan (Jess Lee)]], [[works/taiwaneseamerican-org/where-jazz-taiwan-and-the-vocal-stylings-of-jen-shyu-fuse|Jen Shyu]], [[works/taiwaneseamerican-org/back-stage-with-taiwanese-american-pop-star-evonne-hsu|Evonne Hsu (APAHM 2010)]], [[works/taiwaneseamerican-org/a-chat-with-brian-yang-on-acting-producing-and-taiwanese-parents|Brian Yang]], [[works/taiwaneseamerican-org/michelle-young-the-art-spy|Michelle Young]], [[works/taiwaneseamerican-org/on-discovering-passion-purpose|On Discovering Passion & Purpose]], and [[works/taiwaneseamerican-org/akufuncture-family-founder-samuel-wang-musician-kevin-lien|Akufuncture / Kevin Lien]]. He is a contributor to [[works/taiwaneseamerican-org/formosa-betrayed-giving-voice-to-history-via-the-big-screen|Formosa Betrayed — Giving Voice to History]].
+- NATWA II lists him as an honorary member ([[works/taiwaneseamerican-org/where-jazz-taiwan-and-the-vocal-stylings-of-jen-shyu-fuse|Jen Shyu feature]]).
+- HOLD: the earlier My Stories #554 account says he helped run youth summer-camp programs in the "late 1980s–1990s"; 楊遠薰's profile dates his own TAF camp attendance to 1986. Not merged — kept as complementary phrasings.
+- Nothing published.
