@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Simon Lin (林榮松)
 
@@ -106,3 +106,13 @@ Fresh ZH+EN grep (林榮松|Simon Lin) across works/articles/sources/events/topi
 - All 37 wikilink targets re-verified to exist in the vault. The board role (執行長, TWCLA), the 2016 當選董事長 record, the 2020 僑務諮詢委員獲聘行政院政務顧問 record, and the 2025 228追思 roll-call note were all absorbed from the taiwanjustice.net tier2 archive in prior passes; no further biography exists in the vault source set.
 - No web used, no new pages created, nothing published.
 - Re-verified 2026-09-14 (deepen-x slice 09140741-2): deepen sections and all wikilink targets confirmed on disk; no further vault-sourced facts.
+
+## Role in the Community (corpus absorb, deepen-x slice 10100400-27, 2026-10-10)
+
+Fresh ZH+EN grep (林榮松|Simon Lin) across works/articles/sources/events/topics surfaced five previously-unabsorbed TAH records:
+
+- **1998 — founding-era organizer & commemorative-book editor:** authored 「The Southern California Taiwan Center Train is on the Move」 as **editor and compiler of the Taiwan Center commemorative book**, recalling the first preparatory meeting (1998-02-19) and the Center opening (1998-06-12), crediting Kenjohn Wang's donation of the building: [[works/taiwaneseamericanhistory-org/ourjourneys29-eng|TAH #29 (Our Journeys, eng)]].
+- **第一任會長 record (title-sourced):** TAH work title 「163. 林榮松 / 南加州台灣會館第一任會長 / 1998」 — [[works/taiwaneseamericanhistory-org/ff163|TAH #163]]. HOLD: this "第一任會長 (1998)" title adds to the existing title divergence already flagged above (執行長 on the board source, 董事長 from 2016, President in the TAH table); retained as separate source-attributed titles, not auto-merged.
+- **Volunteer-ethos oral profile:** 「180. 林榮松 甘願做義工」, story by 林蓮華 (2015/01): [[works/taiwaneseamericanhistory-org/mystories181|TAH #180 (My Stories)]] — community memory of him as a willing volunteer.
+- **2015-04 — UN for Taiwan campaign:** photo-activity record 「67. UN for Taiwan/林榮松」: [[works/taiwaneseamericanhistory-org/photo-albums-activities-67|TAH photo album #67]].
+- **Overseas-backer experience, told by him:** video 「25. 林榮松談參與海外後援會的經驗」 — his account of participating in overseas (海外後援會) support work: [[works/taiwaneseamericanhistory-org/videos25|TAH video #25]].
