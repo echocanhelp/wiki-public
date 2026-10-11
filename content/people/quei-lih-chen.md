@@ -75,3 +75,5 @@ _No filled family fields on the TAH profile._
 ## Deepen — 2026-10-10 (DEEPEN-X10090315-1, demand-ranked slice)
 - Full-corpus re-grep (ZH 陳瑰麗/瑰麗 + EN Quei-Lih across works/articles/sources/events/topics): no new biographical facts beyond what Career Record / From the record already absorb. #525 「瑰麗的夢幻與回憶」(蕭泰然 CD title) matches only the word 瑰麗 — NOT this person, excluded, no link added.
 - Reciprocal cross-links confirmed present this pass: [[people/thomas-ming-chien-wu|吳明杰]] and [[people/jau-ching-lai|賴昭晴]] both carry her wikilink via the 《台灣人的歌》 commemorative-video staff record ([[works/taiwaneseamericanhistory-org/ourjourneys29|Our Journeys #29]]); her page↔theirs is bidirectional. No conflicts found — nothing to HOLD.
+
+<!-- TJJ-A10100601-28: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-28 article de11e29571f3dc86 (半音合唱團受邀演唱於國家音樂廳實況錄影, taiwanjustice.net 2017-11-05 刊 / 2017-11-07 快照) read fresh this attempt: subject link re-checked vs 正文 (伴奏陳瑰麗確認見於正文), real, no wrong/spurious links; 2001-07-02 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

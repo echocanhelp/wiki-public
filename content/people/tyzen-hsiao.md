@@ -277,3 +277,5 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20180913002522）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
 <!-- TJJ-A10100601-24: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-24 article bfc5f319a036a339 (黃瑞芬訃聞, taiwanjustice.net, 2022-01-29 刊/2022-05-19 快照): 蕭泰然 — 作曲〈嘸通嫌台灣〉於1995-07-29 TUF「台灣名家演奏系列」LA音樂會由黃瑞芬等演出記述 re-checked vs 正文 this attempt, real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10100601-28: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-28 article de11e29571f3dc86 (半音合唱團受邀演唱於國家音樂廳實況錄影, taiwanjustice.net 2017-11-05 刊 / 2017-11-07 快照) read fresh this attempt: subject link re-checked vs 正文 (相關影音欄「蕭泰然教授南加州追思會」條目), real, no wrong/spurious links; 2015-03-14 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
