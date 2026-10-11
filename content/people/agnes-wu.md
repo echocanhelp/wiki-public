@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Agnes Wu (姜瑞香)
 
@@ -53,6 +53,7 @@ last_reviewed: 2026-10-09
 - 複核（deepen-x slice-09250317-6, 2026-09-25）：re-grep 姜瑞香 / Agnes Wu — new hits absorbed above (Pew statement, taiwaneseamerican-org Keimay memorial); remaining hit set unchanged.
 
 - 複核（deepen-x slice-09251527-1, 2026-09-26）：fresh grep 姜瑞香 / Agnes Wu（works+articles）hit set identical (#310, mystories313/-eng, #176, ourjourneys154, mystories351) — all already linked above; verified saturated, SKIP-no-new-facts.
+- 2026-10-11 (slice 10100700-15): fresh ZH+EN grep across all 5 corpus dirs — 12-file hit set identical to prior passes (#310, mystories313/-eng, #176, ourjourneys154, mystories351, ourjourneys91, photo-albums-activities-51, Pew statement, taiwaneseamerican-org Keimay memorial; works/index + sources hub index-only). No new absorbable facts; verified saturated.
 
 ## Sources
 - [TAH #310 encyclopedia: 310. Agnes Wu 姜瑞香/2015/02](https://taiwaneseamericanhistory.org/310-agnes-wu-%e5%a7%9c%e7%91%9e%e9%a6%99201502/)
