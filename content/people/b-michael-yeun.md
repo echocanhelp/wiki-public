@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # B. Michael Yeun (楊明昊)
 
@@ -52,3 +52,4 @@ last_reviewed: 2026-10-09
 <!-- deepen-x 10060950-5: SKIP — corpus re-scan (works/articles/sources/events/topics) fresh 2026-10-08: ZH+EN grep hit set identical to prior passes (own record + already-absorbed works + index listings); false-positive substring hits excluded (趙明昊 Fudan professor in taiwanjustice 2023 article; 久香 substring in BNO news). No new community material. -->
 <!-- deepen-x 10080400-31: SKIP — corpus re-scan fresh 2026-10-09: 楊明昊/Michael Yeun/明昊 grep across works/articles/sources/events/topics hit set identical to prior passes (record 902 + Our Journeys #75 EN/ZH 2014 FAHR roster + index + taiwanjustice substring false positive on 明昊). Saturated; nothing new absorbable. -->
 <!-- deepen-x 10090900-29: SKIP — corpus re-scan fresh 2026-10-10: 楊明昊/Michael Yeun/明昊 grep across works/articles/sources/events/topics hit set identical to prior passes (record 902 + Our Journeys #75 EN/ZH 2014 FAHR roster + index + taiwanjustice substring false positive). Saturated; nothing new absorbable. -->
+<!-- deepen-x 10101300-21: SKIP — corpus re-scan fresh 2026-10-11: 楊明昊/Michael Yeun/B. Michael/明昊 grep across works/articles/sources/events/topics hit set identical to prior passes (record 902 + Our Journeys #75 EN/ZH 2014 FAHR officer roster + index listings). No new community material; page already absorbs all hits (VP FAHR 2014, director listing, works wikilinks, provenance HOLD). Saturated. -->
