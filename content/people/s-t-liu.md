@@ -86,3 +86,5 @@ last_reviewed: 2026-10-10
 ![20210821125040_wp-content_uploads_2021_08_後疫情的危機與轉機影音-_-劉曉亭-](../images/people--s-t-liu.png)
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20210821125040）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+
+<!-- TJJ-A10100901-31: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-31 article fc48810253f4912f（第14回世界台灣文化論壇「布袋戲kap歌仔戲文學ê人生智慧」線頂聚會, 發文 2021-12-31 / 快照 2025-05-12）: 主講者 劉曉亭牧師 subject link re-checked vs 正文 line-by-line this attempt (好消息電視台「劉三講古」主講者、San Diego 台灣教會主任牧師、主題演講「外省人講台語：布袋戲ê文學智慧」), real, no wrong/spurious links (郭月霞長老娘 正文提及但無頁面, 維持純文字不造鏈); dated fact w/ article wikilink already in From the record — saturated, no new material. -->
