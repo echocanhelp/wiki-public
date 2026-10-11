@@ -92,3 +92,5 @@ _No filled family fields on the TAH profile._
 ![20211124171104_wp-content_uploads_2021_11_全美台灣同鄉會會長陳桂鈴_左3_23](../images/people--kuei-ling-chen.jpg)
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20211124171104）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+
+<!-- TJJ-A10100601-29: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-29 article 63257725da30ee94 (FAHR研討會：敗選檢討到迎戰2024, 2023-01-24刊): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
