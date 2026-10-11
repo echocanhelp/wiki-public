@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Prof. Tender Lin (林天德教授)
 
@@ -37,7 +37,7 @@ Accomplishment
 Absorbed from the TAH profile above:
 
 - Coordinator/Director of the [[organizations/east-bay-taiwanese-americans-community-service-center-ebtacsc||East Bay Taiwanese Americans Community Service Center (EBTACSC)]] — the nonprofit center founded in 2002 in the San Francisco East Bay; see also the TAH encyclopedia entry [[works/taiwaneseamericanhistory-org/senior-ebtacsc|20. EBTACSC 東灣台美人社區服務中心]].
-- Originator of the East Bay Taiwanese Americans Community Garden Club.
+- Originator of the East Bay Taiwanese Americans Community Garden Club — he wrote up the club himself in [[works/taiwaneseamericanhistory-org/ourjourneys335||OJ #335. 光芒四射的舊金山東灣園藝組 (2018)]].
 - Career path: assistant professor at Miami Dade Junior College, FL (1971-); research director and clinical psychologist, South Carolina Dept. of Mental Health (1973–1989); guest associate in the departments of elementary education at Tainan Teachers College (1989-) and Taipei City Teachers College (1990-); adjunct associate professor, National Chengchi Univ. Institute of Education (1991–2000); psychologist and director, EBTACSC (2001-).
 - Trained at National Normal Univ. (B.S. Education 1962), Northeast State Univ. of Missouri (M.S. Guidance 1966), and UCLA (Ph.D. Counseling Psychology 1970).
 
@@ -48,7 +48,8 @@ Absorbed from the TAH profile above:
 - His own essays in the TAH corpus are harvested as vault works: [[works/taiwaneseamericanhistory-org/publications438||438. 台灣人, 別再隨緣認命 (1994)]], [[works/taiwaneseamericanhistory-org/publications439||439. 你我都贏才是贏 (1995)]], [[works/taiwaneseamericanhistory-org/publications440||440. 變態心理學 (1998)]], [[works/taiwaneseamericanhistory-org/publications441||441. 聊療心：它的理論與應用 (2000)]], [[works/taiwaneseamericanhistory-org/mystories438||438. 台灣十年教學有感 (2016)]], and [[works/taiwaneseamericanhistory-org/mystories560||560. 恩澤滋潤無常人生 (2017)]].
 - [[works/taiwaneseamericanhistory-org/mystories199||199. 迷失在競爭學路上 Got Lost in Competitive Schooling (2015)]] — education critique from his counseling background.
 - [[works/taiwaneseamericanhistory-org/on-my-ten-year-span-of-teaching-in-taiwan||18. 林天德教授返台任教 (1989)]] — covers his return to teach in Taiwan, matching the 1989–1990 teachers-college posts above.
-- Later essays/memoirs in the corpus, now linked: [[works/taiwaneseamericanhistory-org/publications903||903. 命問我答 Life Asks. I Answer. (2014)]], [[works/taiwaneseamericanhistory-org/mystories278||278. 回顧來時路 (2015)]] (retrospective memoir), [[works/taiwaneseamericanhistory-org/publications1112||1112. Live to Win 贏在生活 (2017)]], [[works/taiwaneseamericanhistory-org/mystories578||578. 蕃薯落土生根 (2017)]], [[works/taiwaneseamericanhistory-org/mystories574||574. 生活靠能力也靠運氣 (2017)]], and [[works/taiwaneseamericanhistory-org/mystories733||733. 老伴在疫情中凸顯其重要 (2020)]] — written during the pandemic, on the importance of life partners.
+- Later essays/memoirs in the corpus, now linked: [[works/taiwaneseamericanhistory-org/publications903||903. 命問我答 Life Asks. I Answer. (2014)]], [[works/taiwaneseamericanhistory-org/mystories278||278. 回顧來時路 (2015)]] (retrospective memoir; English edition [[works/taiwaneseamericanhistory-org/mystories278-eng||278. Looking Back on My Past Journey]]), [[works/taiwaneseamericanhistory-org/publications1112||1112. Live to Win 贏在生活 (2017)]], [[works/taiwaneseamericanhistory-org/publications1111||1111. 命問我答 Life Asks. I Answer. (II) (2017)]], [[works/taiwaneseamericanhistory-org/mystories578||578. 蕃薯落土生根 (2017)]], [[works/taiwaneseamericanhistory-org/mystories574||574. 生活靠能力也靠運氣 (2017)]], and [[works/taiwaneseamericanhistory-org/mystories733||733. 老伴在疫情中凸顯其重要 (2020)]] — written during the pandemic, on the importance of life partners.
+- Marriage memoir: [[works/taiwaneseamericanhistory-org/mystories295||295. 一見鍾情婚姻路 Marriage at First Sight (2015)]] — his account of his marriage (the wife is not named in the harvested text — HOLD: no name confirmation).
 - The corpus also holds the East Bay community record [[works/taiwaneseamericanhistory-org/tass-eb||23. 北加州東灣台美人長樂會〈TASS-EB〉 (2015)]]; its text does not name him directly (title-level match on 東灣台美人 only) — HOLD: no confirmed TASS-EB role.
 
 ## Timeline
@@ -65,6 +66,7 @@ Chronology absorbed from the TAH profile and tah-tables above (no external sourc
 - **1990–** — Guest associate, Dept. of Elementary Education, Taipei City Teachers College
 - **1991–2000** — Adjunct associate professor, National Chengchi Univ. Institute of Education; essay [[works/taiwaneseamericanhistory-org/publications438||438. 台灣人, 別再隨緣認命 (1994)]] falls in this period
 - **2001–** — Psychologist and director, [[organizations/east-bay-taiwanese-americans-community-service-center-ebtacsc||EBTACSC]] (center founded 2002)
+- **2018** — Writes up the garden club he originated: [[works/taiwaneseamericanhistory-org/ourjourneys335||OJ #335. 光芒四射的舊金山東灣園藝組]]
 - Originator of the East Bay Taiwanese Americans Community Garden Club
 
 ## Family
