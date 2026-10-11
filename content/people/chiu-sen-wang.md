@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Chiu-Sen Wang (王秋森教授)
 
@@ -54,7 +54,8 @@ last_reviewed: 2026-10-10
 - 1956–1960 — 台大化工系時代（保送入學，屆內台灣人與外省人約各半，另有約四十名僑生）；據其台大回憶，因讀到「武漢大旅社」命案始知教工業化學之陳華洲教授系被誣陷入獄身亡（[[articles/taiwanjustice-net/2024/20240523001702_root_d717aa524a3911af|TJJ 台大同窗紀錄]]）。
 - 2017-10-26 — 於《民報》發表「光復劫系列3」〈越南人民做到了，台灣人民還須繼續打拚〉（[[articles/taiwanjustice-net/2017/20171109045235_category_history_e46328a877e48794|TJJ 歷史必讀索引]]；[[articles/taiwanjustice-net/2024/20240225005903_root_69f1e03c883fdd3b|TJJ 歷史必讀另篇索引]]，語料庫僅存索引、未含全文）。
 - 2024-10-23 — 朱真一撰評傳「台獨聯盟的要角：公共衛生界的王秋森博士」刊於台美人台加人专栏（[[articles/taiwanjustice-net/2025/20250215221604_category_taiwaneseamerican_page_3_98bf76da5c3ac86d|TJJ 专栏索引]]，語料庫僅存篇目索引）。
-- 2018-07-20 — 以化工系校友名列南加州台大校友會反邀管中閔來年會專題演講之連署名單（[[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ 連署報導]]）。
+- 2018-07-20 — 以化工系校友名列南加州台大校友會反邀管中閔來年會做專題演講之連署名單（[[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ 連署報導]]）。
+- 2018-07-07 — 於南加州台大校友會記者會（反邀管中閔年會演講事件）以前台大公共衛生學院院長身分發言：管中閔因教育部駁回校長遴選結果已於 6 月初提出訴願，行政院訴願會未作決定前校友可表達個人看法，但理事會不應以校友會名義介入；校友會代表所有校友、看法極為分歧，若理事會替管中閔安排造勢機會必引起更激烈爭議、對台大造成更大傷害（[[articles/taiwanjustice-net/2024/20240423104628_root_bbc37aa1f263efa7|TJJ 轉載自由時報報導]]）。
 - 讀書會／生活座談會傳承：六十年代 UCLA 台灣人留學生讀書會成員（劉天良、黃根深、李木通、陳嶄新、王秋森、陳松楨等），劉天良述其為生活座談會前身；曾參加生活座談會者如郭清江、謝清志、王秋森、蘇育德、蔡滄波、江昭儀等後來多回台貢獻（[[works/taiwaneseamericanhistory-org/ourjourneys240|TAH #240 劉天良訪問]]；與 [[works/taiwaneseamericanhistory-org/ourjourneys212|TAH #212]] 互補）。
 - Corpus re-grep 2026-09-22 (slice 09212352-3): hit set = ourjourneys81(-eng)、ourjourneys76(-eng)、ourjourneys212、ourjourneys234、publications1092、TAH #235 追思文、#377 個人紀錄 — 全部已吸收；本次補上 #81 英文版連結，其餘語料已飽和。
 
