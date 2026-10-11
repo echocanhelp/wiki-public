@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Prof. Chen-Chong Lin (林建中教授)
 
@@ -53,18 +53,24 @@ Prof. Chen-Chong Lin 林建中教授 – History of Taiwanese American (T.A. Arc
 - **Pen Society advisor (筆會顧問):** In the North American Taiwan Writers Association's ten-year memoir [[works/taiwaneseamericanhistory-org/ourjourneys12|Our Journeys (Pen Society decade record)]], Lin is listed as 筆會顧問, and his book [[works/taiwaneseamericanhistory-org/publications1169|The Rationality of Christian Doctrines]] is cited among the society members' published works.
 - **Community presence:** The memoir recalls him at the Pen Society's June 2016 outdoor banquet (野宴), telling the author that the author's attendance guaranteed the event's photos and press coverage would appear — a mark of his standing in the New Jersey / North Jersey Taiwanese community.
 - **Vault cross-links:** He is wikilinked from the same memoir's related-people list alongside [[people/richard-lee|李正三]], [[people/shwu-lih-lin|林淑麗]], [[people/heng-liong-lin|林興隆]], and [[people/thomas-tzu-shen-lin|林資深博士]].
+- **Career memoir & profile (2018):** His own 2018 memoir essay [[works/taiwaneseamericanhistory-org/mystories627|我的「教育和研究」生涯經歷 (2018)]] and the TAH profile [[works/taiwaneseamericanhistory-org/ff358|358. Famous T.A. Professor — teaching and research career in Taiwan, Germany, Japan and America, 1966–1999]] record the same career arc as the Employment table above.
 
 ## References in vault
 - [[works/taiwaneseamericanhistory-org/collection-of-prof-chen-chong-lin||59. Collection of Prof. Chen-Chong Lin 林建中教授的收藏]] — TAH archival collection
 - [[works/taiwaneseamericanhistory-org/21-prof-chen-chong-lin||21. Prof. Chen-Chong Lin 林建中教授]] — TAH encyclopedia #21
 - [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-5||5. Prof. Chen-Chong Lin 林建中教授]] — TAH encyclopedia #5 (senior Taiwanese American)
 - [[works/taiwaneseamericanhistory-org/publications1165||1165. 科學與宗教 / 林建中 /04/2000/Life/生活]]
+- [[works/taiwaneseamericanhistory-org/publications1164||1164. 長壽而健康的人生 / 林建中 /03/1990/Life/生活]]
 - [[works/taiwaneseamericanhistory-org/publications1166||1166. 現代人生哲學 / 林建中 /01/2002/Life/生活]]
 - [[works/taiwaneseamericanhistory-org/publications1167||1167. 聖經現代釋義 / 林建中 /01/2005/Religion/宗教]]
 - [[works/taiwaneseamericanhistory-org/publications1168||1168. 林建中八秩回憶錄 / 林建中 /12/2007/Autobiography/自傳]]
 - [[works/taiwaneseamericanhistory-org/publications1169||1169. The Rationality of Christian Doctrines / Kent C. Lin 林建中 /-/2009/Religion/宗教]]
 - [[works/taiwaneseamericanhistory-org/publications1170||1170. Christianity on the 21st Century — An Introduction to Eternal-Now Theology / Kent C. Lin 林建中 /-/2011/Religion/宗教]]
+- [[works/taiwaneseamericanhistory-org/publications1171||1171. 二十一世紀基督教–永今神學 / 林建中 /07/2011/Religion/宗教]]
+- [[works/taiwaneseamericanhistory-org/publications1232||1232. 現代基督教論辯 / 林建中 /03/2014/Religion/宗教]]
 - [[works/taiwaneseamericanhistory-org/publications1172||1172. 神創造的奧祕與真相——科學者神學導論 / 林建中 /08/2017/Religion/宗教]]
+- [[works/taiwaneseamericanhistory-org/mystories627||627. 我的「教育和研究」生涯經歷 / 林建中 /02/2018]]
+- [[works/taiwaneseamericanhistory-org/ff358||358. Chen-Chong Lin 林建中 / Famous T. A. Professor (1966–1999 career profile)]]
 - [[works/taiwaneseamericanhistory-org/whos-who-1987-chen-chong-lin||TAH Who's Who 1987 entry — Prof. Chen-Chong Lin 林建中教授 (local vault copy)]]
 - [[works/taiwaneseamericanhistory-org/ourjourneys12||Our Journeys (Pen Society ten-year memoir)]] — advisor role + 2016 banquet anecdote
 
@@ -80,7 +86,7 @@ Prof. Chen-Chong Lin 林建中教授 – History of Taiwanese American (T.A. Arc
 
 - **Archival collection:** [[works/taiwaneseamericanhistory-org/collection-of-prof-chen-chong-lin||Collection of Prof. Chen-Chong Lin 林建中教授的收藏]] — 他捐贈給 TAH 的檔案收藏
 - **Encyclopedia entries:** [[works/taiwaneseamericanhistory-org/21-prof-chen-chong-lin||TAH encyclopedia #21]]、[[works/taiwaneseamericanhistory-org/senior-taiwanese-american-5||TAH encyclopedia #5]]、本地 Who's Who 副本 [[works/taiwaneseamericanhistory-org/whos-who-1987-chen-chong-lin||TAH Who's Who 1987]]
-- **著作（七冊，TAH publications 線）：** [[works/taiwaneseamericanhistory-org/publications1165||科學與宗教 (2000)]]、[[works/taiwaneseamericanhistory-org/publications1166||現代人生哲學 (2002)]]、[[works/taiwaneseamericanhistory-org/publications1167||聖經現代釋義 (2005)]]、[[works/taiwaneseamericanhistory-org/publications1168||林建中八秩回憶錄 (2007, 自傳)]]、[[works/taiwaneseamericanhistory-org/publications1169||The Rationality of Christian Doctrines (2009)]]、[[works/taiwaneseamericanhistory-org/publications1170||Christianity on the 21st Century (2011)]]、[[works/taiwaneseamericanhistory-org/publications1172||神創造的奧祕與真相——科學者神學導論 (2017)]]
+- **著作（十冊，TAH publications 線）：** [[works/taiwaneseamericanhistory-org/publications1164||長壽而健康的人生 (1990)]]、[[works/taiwaneseamericanhistory-org/publications1165||科學與宗教 (2000)]]、[[works/taiwaneseamericanhistory-org/publications1166||現代人生哲學 (2002)]]、[[works/taiwaneseamericanhistory-org/publications1167||聖經現代釋義 (2005)]]、[[works/taiwaneseamericanhistory-org/publications1168||林建中八秩回憶錄 (2007, 自傳)]]、[[works/taiwaneseamericanhistory-org/publications1169||The Rationality of Christian Doctrines (2009)]]、[[works/taiwaneseamericanhistory-org/publications1170||Christianity on the 21st Century (2011)]]、[[works/taiwaneseamericanhistory-org/publications1171||二十一世紀基督教–永今神學 (2011)]]、[[works/taiwaneseamericanhistory-org/publications1232||現代基督教論辯 (2014)]]、[[works/taiwaneseamericanhistory-org/publications1172||神創造的奧祕與真相——科學者神學導論 (2017)]]
 - **Career arc（自本頁 Employment 摘要）：** 台大化工系主任（1968–1981）→ 慕尼黑工業大學、LSU 訪問教授 → NJIT 化工與化學教授（1982–1988）→ 交大應用化學與材料科學教授（1988–1995）
 
 ## Related Pages
