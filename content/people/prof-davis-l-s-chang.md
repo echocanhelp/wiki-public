@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Prof. Davis L. S. Chang (張祿生教授)
 
@@ -58,6 +58,7 @@ From the Our Journeys accounts already held in the vault:
 - 1994 — served as one of the two vice chairmen (副會長, with 謝鎮寬) of the 北加州台灣同鄉會聯合會 under chairman 林健次, per [[works/taiwaneseamericanhistory-org/ourjourneys142|TAH #142 (林健次, 2015/06)]]. During the internal council dispute that year, the pro-KMT bloc proposed stripping the chairman/vice-chairman votes; the episode is recorded there verbatim.
 - 2003 — as chairman (會長), launched the 台灣會館 fundraising drive at the Spring Festival gala (raised $30,000; preparatory committee formed Feb 16, convened by 張信行), per [[works/taiwaneseamericanhistory-org/ourjourneys38|TAH #38]].
 - Early 2003 — encouraged the founding of the Northern California 台灣會館 and joined its preparatory committee alongside 陳德輝, 石清正, 陳光博, 施天墩, 林典謨, 李華林, 翁嘉盛, 邱俊邦 and 張信行; the 會館 opened in Fremont in March 2003, per [[works/taiwaneseamericanhistory-org/ourjourneys24|TAH #24]] and [[works/taiwaneseamericanhistory-org/ourjourneys53|TAH #53]].
+- 2026-10-11 corpus re-check — the chairman's own account in [[works/taiwaneseamericanhistory-org/ourjourneys24|TAH #24]] gives the full 籌備委員會 roster as 陳德輝, 石清正, 陳光博, 施天墩, 高淑貞, 林典謨, 張祿生, 李華林, 翁嘉盛, 邱俊邦, 邱光一, 吳振和 and 張信行 (adding 高淑貞, 邱光一 and 吳振和 to the roster as recorded above), and records the 會館 beginning operation on **2003-05-01** with 34 teachers and 30+ volunteers running 40+ activities a month, after the Fremont site (a 3,000 sq-ft clinic floor donated at subsidized rent by 吳怡明醫師, introduced by 吳銀鏤醫師) was secured in March on a two-year lease from April 1.
 - A chairman-era record appears in [[works/taiwaneseamericanhistory-org/ourjourneys110|TAH #110 (張祿生會長)]].
 
 ## THA-USA presidency and Hakka conferences (absorbed 2026-10-10, corpus-only)
