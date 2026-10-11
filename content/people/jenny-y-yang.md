@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Jenny Y Yang (楊又芳)
 
@@ -52,3 +52,4 @@ _No filled family fields on the TAH profile._
 <!-- Re-verified 2026-10-08 (deepen-x slice 10061023-2): fresh ZH+EN grep (楊又芳 / Jenny Yang / Jenny Y Yang) across works/articles/sources/events/topics — identical hit set: whpswho1490, PECASE record 34, works/index, and the Blacklava/Vickie Wang essays. The Vickie Wang essay text confirms its "Jenny Yang" is a stand-up comedian headliner — comedian-mislink HOLD stands. Verified-saturated, SKIP. -->
 <!-- Re-verified 2026-10-09 (deepen-x slice 10080400-19): fresh ZH+EN grep (楊又芳 / Jenny Yang / Jenny Y Yang) across works/articles/sources/events/topics returns the identical hit set — whpswho1490, PECASE record 34, works/index, and the three Blacklava/Vickie Wang essays (comedian-mislink HOLD stands). Both scientist-side records already absorbed above with wikilinks. No new corpus facts. Verified-saturated, SKIP. -->
 <!-- Re-verified 2026-10-10 (deepen-x slice 10090800-29): fresh ZH+EN grep (楊又芳 / Jenny Yang / Jenny Y Yang / 又芳) across works/articles/sources/events/topics — identical hit set: whpswho1490, PECASE record 34, works/index, sources index entry, and the Blacklava/Vickie Wang essays (comedian-mislink HOLD stands; Vickie Wang text confirms its "Jenny Yang" is a stand-up headliner). No new scientist-side corpus facts. Verified-saturated, SKIP. -->
+<!-- Re-verified 2026-10-11 (deepen-x slice 10101205-26): fresh ZH+EN grep (楊又芳 / Jenny Yang / Jenny Y Yang / 又芳) across works/articles/sources/events/topics — identical hit set: whpswho1490, PECASE record 34, works/index, and the Blacklava/Vickie Wang essays (comedian-mislink HOLD stands; Vickie Wang essay text again confirms its "Jenny Yang" is a stand-up headliner). Both scientist-side records already absorbed with wikilinks. No new corpus facts. Verified-saturated, SKIP. -->
