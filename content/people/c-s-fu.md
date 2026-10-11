@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # C.S. Fu (傅舟山)
 
@@ -100,3 +100,6 @@ last_reviewed: 2026-10-10
 <!-- TJJ-A10090701-30: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-30 article 80c0a825a7a661b6 (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, TJJ 2021-05-17刊 / 2025-11-08 快照, twin b1d58af16c0a5e5b) read fresh this attempt: subject link re-checked vs 正文 — 「傅舟山」列名共同發起人清單確認見於正文, real, no wrong/spurious links; 2021-05-13 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100801-7: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-7 article 80c0a825a7a661b6 (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, 2025-11-08 快照, 同文於 b1d58af16c0a5e5b, 聲明 2021-05-13): subject link re-checked vs 正文 this attempt — 傅舟山 列名共同發起人清單, real, no wrong/spurious links; 2021-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## Corpus re-grep (2026-10-11, slice 10101300-26)
+- SKIP: 傅舟山 / C.S. Fu re-grep across works/articles/sources/events/topics — 命中集不變（本人 TAH #1151、works index、會館第11屆個人董事名單 2018-06-27、WHA 聯合聲明共同發起人 2021-05-13 兩快照 b1d58af1/80c0a825），皆已吸收並 wikilink；「舟山」假陽性地名命中已於前次排除 — saturated, no new material.
