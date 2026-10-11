@@ -10359,3 +10359,4 @@ Notable quotes and mentions of **楊子清** in Taiwan Justice articles:
 ![20200821155322_wp-content_uploads_2020_08_楊子清父子二重唱-218x150_j](../images/people--yang-ziqing.jpg)
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20200821155322）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+<!-- TJJ-A10100401-21: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-21 article 9412105875987041（以立合唱團 Mayfield 校園文化交流, 發文 2024-05-29 / 快照 2025-06-17）read fresh this attempt: 總指揮楊子清率團赴 Mayfield 交流並稱「國民外交」確認見於正文; subject link re-checked, real, no wrong/spurious links; 2024-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
