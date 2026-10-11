@@ -129,3 +129,5 @@ last_reviewed: 2026-10-10
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20220411093326）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
 
 <!-- TJJ-A10100401-9: verified 2026-10-10 — subject link f631078d re-checked vs 正文 (吳怡農高嘉瑜顏值組合掃街、卓榮泰陪同接力), real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10100401-31: verified 2026-10-10 — wave-2 link+deepen re-check of slice article 58ad99649eba6f6f (吳怡農推動緊急應變訓練 入選2022時代雜誌次世代百大人物, taiwanjustice.net, 發文 2022-09-28／快照 2022-11-27) read fresh this attempt: subject link re-checked vs 正文 — 本人以壯闊台灣聯盟發起人身分入選 TIME 100 Next、Charlie Campbell 撰文介紹、後盾計畫與上百場工作坊皆逐字確認見於正文, real, no wrong/spurious links; 2022-09-28 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
