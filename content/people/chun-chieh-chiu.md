@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Chun-Chieh Chiu (邱俊杰)
 
@@ -123,3 +123,4 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10100801-7: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-7 article 80c0a825a7a661b6 (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, 2025-11-08 快照, 同文於 b1d58af16c0a5e5b, 聲明 2021-05-13): subject link re-checked vs 正文 this attempt — 邱俊杰 列名共同發起人清單, real, no wrong/spurious links; 2021-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100801-18: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-18 article 9de57bf0 (Tag: 林榮松, 2023-05-30 存檔) read fresh this attempt: 「林榮松＋許正雄＋邱俊杰＋楊熾勳＋吳兆峯 談台灣加入世衛組織的歷程與展望」影音條目確認見於正文 tag 清單 (2021-05-06), 邱俊杰 subject link 為真, 無錯鏈、無虛鏈; 2021-05-06 日期事實（含該文 wikilink）已在 From the record — saturated, no new material. -->
+<!-- DEEPEN-X10100849-19: verified 2026-10-11 — fresh ZH+EN grep (邱俊杰 / Chun-Chieh Chiu) across all 5 corpus dirs returned the unchanged hit set (whoswho1540, works/index, TJJ b1d58af16c0a5e5b + 80c0a825a7a661b6 WHA聯合聲明, 6d9cd937 台灣入WHO論壇公告, cd646b86 世衛專題頁, 9de57bf0 林榮松標籤頁, 06510e79 林榮松獲聘政務顧問, 0b5374a3 FASCA-LA月會, sources/taiwaneseamericanhistory-org); spot-checked 正文 this attempt: 共同發起人清單列名、三位總會長之一、五人世衛論壇影音條目、基金會董事長觀禮名單 all confirmed — subject links real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
