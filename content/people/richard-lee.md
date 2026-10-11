@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Richard Lee (李正三)
 
@@ -75,3 +75,5 @@ last_reviewed: 2026-10-09
 **SKIP 2026-09-16 (slice 09160600-4):** re-grep across works+articles returned the identical 6-file hit set - all already absorbed into Role in the Community; nothing new absorbable.
 
 **SKIP 2026-09-16 (slice 09160700-1):** re-grep 李正三/Cheng-San/Cheng San/Richard Lee returned the same hit set (private-collections-91, buiness4, 45-richard-lee, ourjourneys12, publications21, 98-mr-cheng-san-lee, 費城四傑, mystories332, my-stories-721, 紀念228在紐約) — all already absorbed into Role in the Community; nothing new absorbable.
+
+**SKIP 2026-10-10 (slice 10100315-31):** re-grep (李正三/Cheng-San/Cheng San/Richard Lee) across all 5 corpus dirs returned the same already-absorbed works hit set plus two new hits in `articles/taiwanjustice-net/` (2025 孟晚舟案, 2026 苑剛分屍案 verdict coverage). Both refer to **李溢 (Richard Lee), a Vancouver criminal-defense lawyer — a DIFFERENT person**, not 李正三. NOT absorbed (name collision, not our subject). Flag: both articles' `## Subjects` sections mis-link `[[people/richard-lee.md|Richard Lee]]` — registry cleanup candidate to retarget or remove those subject links.
