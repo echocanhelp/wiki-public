@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Tsing Fang Chen (陳錦芳博士)
 
@@ -53,6 +53,8 @@ Corpus material shows Dr. Chen as an active participant in the Taiwanese America
 - **WFTA annual conferences:** As Secretary-General of the World Federation of Taiwanese Associations, Chen gave the 「台灣文化的展望」 talk and the WFTA introduction at international annual meetings with chapter leaders such as 郭榮桔. See [[works/taiwaneseamericanhistory-org/ourjourneys283|Our Journeys #283]] and the [[works/taiwaneseamericanhistory-org/world-federation-of-taiwanese-associations-annual-conference|WFTA annual conference record]].
 - **Patronage of younger artists:** Chen, printmaker 廖修平, and painter 謝里法 — the "New York SoHo / Paris trio" — established the 巴黎大獎 (Paris Prize) in Taiwan to mentor emerging artists. See [[works/taiwaneseamericanhistory-org/ourjourneys284|Our Journeys #284]].
 - **WFTA historiography:** Co-authored 「世界臺灣同鄉會（世臺會）簡史」 with 陳隆 and 盧榮杰, in 張炎憲 et al. (eds.), 《自覺與認同：1950–1990年海外臺灣人運動專輯》. See the footnote in [[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]].
+- **Our Treasury (2017):** Chen's arc — a country student from Tainan who went to Paris, spent ten years doing volunteer work for the Taiwan movement, and became a UN Cultural Ambassador — is one of ten Taiwanese-American life stories told in 王淑芬's book 《Our Treasury》, reviewed in [[works/taiwaneseamericanhistory-org/ourjourneys157|Our Journeys #157]].
+- **Media coverage:** Two taiwanjustice-net archive listings record interviews/profiles: 台灣演義 2022-03-06 「畫家 陳錦芳」 ([[articles/taiwanjustice-net/2022/20220517050829_tag_台灣演義_0f92a77e2098e933|tag listing]]) and 新聞觀測站 2021-04-24 「用藝術為台灣發聲：國際畫家陳錦芳專訪」 ([[articles/taiwanjustice-net/2021/20210621194434_tag_新聞觀測站_e456d3a362692d64|tag listing]]).
 
 ## Published / Recorded Works in the Corpus
 
