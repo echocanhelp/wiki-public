@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Ching Sze Hsieh (謝清志博士)
 
@@ -77,6 +77,7 @@ Led FORMOSAT-1 (福衛一號) launch team as head of launch group at National Sc
 - Family/identity cross-ref: [[people/xie-qingzhi-xie-poyi|謝清志、謝泊怡 family page]] (TAHS publication 2023) records the same aerospace career and son 謝泊怡; it states birth year **1942** vs **1941** on this TAH profile — HOLD: conflict 1941 vs 1942, not merged.
 - HOLD: [[works/taiwaneseamericanhistory-org/2-e8-ac-9d-e6-b8-85-e5-bf-97-e3-80-81-e6-9e-97-e6-b0-b4-e6-b3-89-e7-ad-89-e4-b8-|TAH record #2「謝清志、林水泉等七人回台無故被毆，被迫離境」(2015)]] names a 謝清志 beaten on return to Taiwan in 2015 — bibliographic record only, same-name identity vs this aerospace-profile person unresolved, not merged.
 - As 國科會副主任委員, led the 南科高鐵減振工程 (2003) that kept TSMC in the Southern Science Park; subsequently prosecuted for 圖利/洩密 over the project — 2006-05-24 detained (59 days), 2008-07-31 acquitted at first instance, 2012-07-11 acquittal final (檢方未上訴) — his own memoir account [[articles/taiwanjustice-net/2025/20250814174630_這一次_政府頒贈我們一枚勳章-_-謝清志_5496026073d76d71|「這一次，政府頒贈我們一枚勳章」, 謝清志, TJJ 2025-08-14]]; 副院長陳建仁's exoneration + 「功在南科」紀念牌 (2025-05-06) — [[articles/taiwanjustice-net/2024/20240527024858_root_6009f99171fd76d6|TJJ, 2024-05-27]]. Memoir of the case: 《生命的震動》 — already linked as [[works/taiwaneseamericanhistory-org/131-e8-ac-9d-e6-b8-85-e5-bf-97-e7-9a-84-e7-94-9f-e5-91-bd-e6-8c-af-e5-8b-95-e8-a|TAH #131]].
+- Full litigation chronology from his own memoir essay (first published 台灣頭條 2024-05-10, republished TJJ 2025-08-14 — [[articles/taiwanjustice-net/2024/20240526115051_root_d2323986bedeec27|「這一次，政府頒贈我們一枚勳章」, TJJ 存檔]]): 2006-04-24 南檢大搜索; 2006-05-24 首次偵訊即遭收押; 2006-07-21 交保（結束59天牢獄）; 2006-12-25 南檢以圖利起訴10人（謝被求刑15年、併科罰金3000萬）; 2008-07-31 一審全數無罪; 2010-06-15 高分院二審駁回上訴; 2011-07-14 最高法院發回更審; 2012-07-11 更一審無罪定讞. He also records the engineering vindication: 成大倪勝火教授團隊歷時7年監測報告證實振動值均在允許範圍內; 揚言撤廠的晶圓公司全數留駐並擴廠（台積電南科廠區由2006年約2–3廠增至20廠以上，佔南科總面積近1/3）; 工程造價85億元. The memoir further dates the 《謝清志生命振動》book launch/感恩茶會 to 2008, with then-國科會主委陳建仁 contributing a recommendation and attending.
 - 2025-02-20 — at 國史館's 《陳水扁總統訪談錄》 launch, 陳水扁 called him 「護台神山」 for saving TSMC/南科 via the 減振案 — [[articles/taiwanjustice-net/2025/20250213033638_護台神山_是他-阿扁為前國科會副主委謝清志喊_8c2e32dce58ed50a|TJJ, 2025-02-13]].
 - 2021 — appointed 國策顧問 by 總統府 (named among 70 國策顧問) — [[articles/taiwanjustice-net/2025/20251013095227_總統府公布遴聘及新聘資政27人國策顧問70人名單_fa7c957f552d76e9|TJJ 名單, 2025-10-13]].
 - 2021-05-17 — co-initiator of the 南加州僑界 joint statement supporting Taiwan's participation in the WHA — [[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|TJJ, 2021-06-16]].
@@ -120,3 +121,5 @@ Led FORMOSAT-1 (福衛一號) launch team as head of launch group at National Sc
 <!-- TJJ-A10100401-30: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-30 article 59a68b9cd855c1bf (司法不公，國耻之最：海內外台灣人聲援翁啟惠連署活動, taiwanjustice.net 2021-09-10刊/2023-05-30快照) read fresh this attempt: 本人投書發起的連署再度發起之記述確認見於正文; subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100801-6: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-6 article 2777c88877eee2c5 (Tag: 長青教室 p3, TJJ 2017-05-25 刊 / 2024-06-20 快照) read fresh this attempt: subject link re-checked vs 正文 — 「5/24 長青教室: 講真話 博真情 ◎謝清志博士主講」條目具名確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X slice 10100849-16 (2026-10-11): fresh ZH+EN grep across all 5 corpus dirs (31 file hits) — hit set matches prior absorption except the 台灣頭條 first-publication 存檔 (2024-05-10, d2323986bedeec27), whose full text carried the complete 南科減振 litigation chronology (2006-04-24 大搜索 → 2012-07-11 定讞) plus engineering-vindication detail (倪勝火/成大7年監測報告; 台積電南科 2–3廠→20廠以上; 造價85億; 2008 生命振動新書感恩茶會 陳建仁撰文推薦) — 1 new record wikilinked into Role in the Community. Tag pages 謝清志 (4d8100c6: empty) and 這一次…勳章 tag (2f8dca21: index only) carry no new facts. No date/age conflicts introduced; existing HOLDs (1941 vs 1942; TAH #152, #2 same-name) untouched. -->
