@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # C. M. Cecilia Huang (黃晴美)
 
@@ -72,3 +72,5 @@ _Corpus re-check 2026-09-26 (deepen-x slice 09260317-13): fresh grep works/+arti
 <!-- TJJ-A100607006-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 20240425083432_root_99aaa4abcb78ff6d (台美人台加人分類存檔 p2, 2024-04-25快照): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 _Corpus re-check 2026-10-10 (deepen-x slice 10090500-24): fresh grep works/+articles/+sources/+events/+topics/ for 黃晴美/Cecilia Huang/晴美 — hit set = records already wikilinked (publications1227, mystories624, TAH #2114, TJJ archive 99aaa4abcb78ff6d) + works/sources indexes. NEW: mystories632 鄭自才〈晴美與我〉(2018-03) — absorbed into Role in the Community. 1 new corpus link._
+
+_Corpus re-check 2026-10-11 (deepen-x slice 10101322-4): fresh grep works/+articles/+sources/+events/+topics/ for 黃晴美/Cecilia Huang/晴美 — hit set identical to records already wikilinked/absorbed above (publications1227, mystories624, mystories632, TAH #2114, TJJ archive 99aaa4abcb78ff6d) + works/sources indexes. No new absorbable facts. SKIP-with-reason: saturated._
