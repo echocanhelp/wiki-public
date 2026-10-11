@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # John Lin (林榮勳)
 
@@ -44,6 +44,7 @@ _No filled family fields on the TAH profile._
 - 3F membership roster work: [[works/taiwaneseamericanhistory-org/198-e6-9e-97-e6-a6-ae-e5-8b-b3-e3-80-81-e6-9e-97-e9-8c-ab-e6-b9-96-e3-80-81-e9-9|TAH #198 「林榮勳、林錫湖、陳以德、楊東傑和盧主義 — members of Formosans' Free Formosa (3F)」]] — records the 1956 Philadelphia founding by 陳以德、盧主義、林榮勳、楊東傑、林錫湖 (the movement's shift from Japan to the US), the 1958 reorganisation into 台灣獨立聯盟 (UFI), and the wave of later student recruits (e.g. 楊宗昌 1964) who joined despite KMT surveillance and passport threats.
 - HOLD: conflict in the reorganisation date of 3F into 台灣獨立聯盟 (UFI) — 1958 per [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys #33]], TAH #198, and TAH #1011 vs 1959 per the TJJ essay below. Not auto-merged.
 - Note: [[works/taiwaneseamericanhistory-org/whoswho1069|TAH #1070 "John Lin" 林釗永]] is a different person, not linked here.
+- Note (grep 2026-10-10): the "John Lin" thanked among sports enthusiasts in [[works/taiwaneseamerican-org/all-eyes-on-nba-sensation-jeremy-lin|All Eyes on NBA Sensation Jeremy Lin]] is likely a different namesake (the work's index already links this page as "mentioned in this record"); not attributed as a community connection. The 2020 TJJ 基進黨 article matches only the substring 「光榮勳章」, not this person.
 - His own TAH encyclopedia card is in-corpus: [[works/taiwaneseamericanhistory-org/whoswho1011|TAH #1011 「John Lin 林榮勳」]], which also records the 3F→UFI reorganisation as 1958 (matching #33, against the 1959 essay date — HOLD above unchanged).
 
 ## From the record
