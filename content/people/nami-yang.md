@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Nami Yang (李淑櫻)
 
@@ -156,3 +156,12 @@ Fresh ZH+EN grep across works/articles/sources/events/topics surfaced 18 additio
 <!-- TJJ-A10090801-12: verified 2026-10-10 — wave-2 link+deepen re-check of slice article c9dd9fb782cc99b8（Covid-19 浩劫餘生錄分類 popular 頁, 2021-11-29 快照）: all 3 Subjects links re-checked vs 正文 this attempt — 「人生的海嘯 ◎李淑櫻」「武漢肺炎歷險記 ◎劉照男」「天已轉涼 ◎ 賴慧娜」each confirmed in the article list, real, no wrong/spurious links; dated facts w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090801-23: verified 2026-10-10 — wave-2 link+deepen re-check of slice article c48e08c7f2c3bf8d (Covid-19 浩劫餘生錄分類頁, 2020-11-20 存檔): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## Deepen pass 2026-10-10 (corpus re-grep, slice 10091531-14)
+Fresh ZH+EN grep (李淑櫻 / Nami Yang / Nami Lee) across works/articles/sources/events/topics surfaced 4 records not previously linked on this page:
+- 2023-12-16 — Speaker at 第118回世界台灣文化論壇「話畫時間」online forum (2025-04-20 report): introduced as 前台美人筆會會長、太平洋時報藝文版主編; her 圖 used for the 話畫 session. The report carries a 太平洋時報 bio (2015-12-01, 阿政報導): 國立藝大(藝專)畢業, 出身南投望族, **1976來美**, later 加州州立北嶺大學 and 加州藝術中心 進修; roles listed: NATWA南加分會會長, NATWA西南區理事, **新藝畫會會長** (a presidentship not on her TAH Who's Who entry — no conflicting dates, so recorded as-is), TUF理事, 太平洋時報文藝版編輯 ([[articles/taiwanjustice-net/2025/20250420103335_第118回世界台灣文化論壇_話畫時間_c004d6b7000bd1cc|TJJ forum report, 2025-04-20]]).
+- 2015-02 — Presented two sessions, 「美術創作與分享」and「如何繪畫」, at 長青教室 sponsored by Irvine台灣長老教會 (ITPC) ([[works/taiwaneseamericanhistory-org/ourjourneys107|TAH ourjourneys #107]]).
+- 2024 — Author of 圖與文 in the report on 台美人藝壇新秀陳君瑜又入選沙龍 ([[articles/taiwanjustice-net/2025/20250417221935_台美人藝壇新秀陳君瑜又入選沙龍_05c3e2067ab4d18d|TJJ, 2025-04-17]]).
+- [[works/taiwaneseamericanhistory-org/ourjourneys231-eng|TAH ourjourneys #231 (EN)]] is credited "Source from Nami Yang 李淑櫻" (posted 2020-12) — the English catalog record of ourjourneys #231 already linked above.
+- Catalog note: [[works/taiwaneseamericanhistory-org/661-unforgettable-nami-yang-11-2018|TAH #661 "Unforgettable" (11/2018)]] is the English catalog page of 無法忘懷 (mystories/51032), already linked.
+- No conflicting dates found — no HOLD. New facts (1976 arrival in US; 新藝畫會會長) come from the cited 太平洋時報 bio in the 2023 forum report.
