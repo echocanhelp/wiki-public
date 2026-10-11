@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Taiwan Hakka Association for Public Affairs in North America (北美臺灣客家公共事務協會)
 
@@ -52,3 +52,4 @@ Same-movement (Hakka) pages in the vault, theme-linked only — no membership fa
 - 編年佐證：[[works/taiwaneseamericanhistory-org/ourjourneys110-eng|Our Journeys 110 (EN)]] 時間軸記「Nov. 1991 — Taiwan Hakka Association for Public Affairs in North America is established, President Chiou-hung Chen, California」，與本會 1991-11-01 成立、加州、首任會長陳秋鴻三點一致。
 - 本會《會訊》歷年書目（更新 2026-09-14 深讀備註「刊物於 vault 暫無獨立頁面」之舊述——現已有書目頁）：[[works/taiwaneseamericanhistory-org/731-e5-8c-97-e7-be-8e-e5-8f-b0-e7-81-a3-e5-ae-a2-e5-ae-b6-e5-85-ac-e5-85-b1-e4-b|TAH #731 — 1997 會訊]]、[[works/taiwaneseamericanhistory-org/732-e5-8c-97-e7-be-8e-e5-8f-b0-e7-81-a3-e5-ae-a2-e5-ae-b6-e5-85-ac-e5-85-b1-e4-b|TAH #732 — 1999/02 會訊]]、[[works/taiwaneseamericanhistory-org/733-e5-8c-97-e7-be-8e-e5-8f-b0-e7-81-a3-e5-ae-a2-e5-ae-b6-e5-85-ac-e5-85-b1-e4-b|TAH #733 — 1999/12 會訊]]、[[works/taiwaneseamericanhistory-org/734-e5-8c-97-e7-be-8e-e5-8f-b0-e7-81-a3-e5-ae-a2-e5-ae-b6-e5-85-ac-e5-85-b1-e4-b|TAH #734 — 2005 會訊]]、[[works/taiwaneseamericanhistory-org/publicationmagazines959|TAH #959 — 2006 會訊]]。
 - 另有一筆以本會為主題的記錄頁：[[works/taiwaneseamericanhistory-org/hapa-na|TAH — Taiwan Hakka Association For Public Affairs In North America（2016-04-11）]]。
+- 跨組織倡議（2026-10-11 深讀新增）：本會亦為「台美人傳統週」（Taiwanese American Heritage Week）之共同支持團體之一，與 TAA、NATWA、NATPA、NATMA、North America Hakka Association、World United Federation for Independence 等並列於 2006-05-13 台美人協會紀錄——見 [[works/taiwaneseamerican-org/taiwanese-american-heritage-week|TA — Taiwanese American Heritage Week（2006）]]。此為本會於泛台美運動公共領域之橫向連結佐證。
