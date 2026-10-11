@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Ing-Hour Lin (林英侯博士)
 
@@ -25,6 +25,7 @@ last_reviewed: 2026-10-10
 ## Family
 
 - **Wife:** 洪淑卿
+- **Daughter:** [[people/joyce-lin|Joyce Lin (林才欣)]] — MAF missionary pilot, died 2020-05-12 in Papua, Indonesia (see [[works/taiwaneseamericanhistory-org/whos-who-2270-joyce-lin|2270. Joyce Lin 林才欣]] and [[works/taiwaneseamericanhistory-org/videos-162|162. Remembering Joyce Lin]])
 
 
 ## From the record
