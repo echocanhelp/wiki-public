@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 # Eileen Chang (楊宜宜)
 
@@ -82,6 +82,7 @@ Facts absorbed from the TAH encyclopedia entries already cited on this page:
 - 2014-08-18 — 楊宜宜 published her own essay 「歸家」 in the My Stories corpus ([[works/taiwaneseamericanhistory-org/mystories3|My Stories #3, 歸家 / 楊宜宜, 2014-08-18]]); a second essay 「橄欖山頂的醒悟」 followed on 2014-08-19 ([[works/taiwaneseamericanhistory-org/mystories4|My Stories #4, 橄欖山頂的醒悟 / 楊宜宜, 2014-08-19]]). Both are first-person writings by her, held as bibliographic records in the vault.
 - 2014-12 — 楊宜宜 authored 「『台灣宣教基金會』緣起」, her own account of the origins of Taiwan Mission, recorded in the corpus ([[works/taiwaneseamericanhistory-org/73-e3-80-8c-e5-8f-b0-e7-81-a3-e5-ae-a3-e6-95-99-e5-9f-ba-e9-87-91-e6-9c-83-e3-80|corpus #73, 楊宜宜, 2014/12]]).
 - 1977-05-01–1982-02-26 — the New York 「台灣之音」 hotline founded by 張富雄 and 楊宜宜 ran from 1977-05-01 to 1982-02-26 (nearly five years), per the community-history essay in Our Journeys #357; the essay credits the phone-answering-machine concept to the New York couple ("這個創意，來自紐約的張富雄、楊宜宜夫婦") and frames it as an appropriation of new technology that built an overseas Taiwanese "訊息圈" — the same reading appears again in the essay's concluding passage ([[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]]). The same record notes the Bay Area 「灣區協志會台灣之音」 branch (1979-04-01–1982-12-31) as the most prominent satellite station inspired by the New York original.
+- 1977–1982 — the corpus essay in Our Journeys #357 attributes the hotline's outsized impact to the major events whose news it carried — the 1977-11 中壢事件, the 1978-12 US–Taiwan severance, the 1979-12 美麗島事件, the 1980-02 林宅血案 and the 1981-07 陳文成命案 — "不僅串起海外臺灣人的心，也建立海外與島內臺灣人的線"; by 1982 similar stations had also been established in Europe, Japan and South America, and the record frames the couple's use of the telephone answering machine as an appropriation ("挪用、甚至翻轉") of new technology that built a Taiwanese American 「訊息圈」, "已成為臺美人之所以不同於華美人或亞裔美人的史實" ([[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]]).
 <!-- TJJ-A09240800-10: verified 2026-09-25 — subject links in slice 09240800-10 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A09240800-12: verified 2026-09-25 — subject links in slice 09240800-12 articles confirmed real; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
