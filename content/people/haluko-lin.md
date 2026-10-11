@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Haluko Lin (陳春子)
 
@@ -50,3 +50,4 @@ last_reviewed: 2026-10-09
 
 <!-- deepen-x slice 10062334-15 2026-10-08: fresh grep 陳春子/Haluko + 春子/林素珠/林樹封 across works/articles/sources/events/topics — new hit work 215 (巧奪天工的造絲花專家—陳查某 林春子) absorbed into Role in the Community as probable-same (HOLD: byline 陳查某 vs recorded husband 林樹封). Other hits = own records + index backlinks. -->
 <!-- deepen-x slice 10080720-18 2026-10-09: re-grepped 陳春子/Haluko/林樹封/春子/daughters across all 5 corpus dirs — no new 陳春子/Haluko hits beyond own records + work 215 + index backlinks. New surname-only lead absorbed with HOLD: ourjourneys43 Slackwood church roster 林云雲 (unconfirmed vs daughter). 林素珠 (Brazil bus-accident memoir), 林素梅 (NJ 夏令會 convener; also distinct Dr. Su-Mei Kao works) confirmed different people. No conflicts resolved. -->
+<!-- deepen-x slice 10092054-17 2026-10-10: re-grepped 陳春子/Haluko/林樹封/春子 + daughters 林素珠/林素梅/林素寬/林云雲 across all 5 corpus dirs — no new material beyond own records, works 7/60/215, ourjourneys43 (HOLD stands), and index backlinks. 林素寬: zero hits anywhere. 林素珠/林素梅 confirmed different people (Brazil bus-accident memoir / NJ 夏令會 convener). Verified-saturated; SKIP stands. -->
