@@ -134,3 +134,5 @@ Re-grep 劉雲平 / Ted Lieu across content/works + content/articles returned th
 ![20210608043548_wp-content_uploads_2021_05_洛杉磯地區選出的台裔聯邦眾議員劉雲平](../images/people--ted-lieu.jpg)
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20210608043548）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+
+<!-- TJJ-A10100901-14: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-14 article accbf8ee04e32de8 (台裔國會議員劉雲平致函美國務卿AZ疫苗盡快賣台, 中央社洛杉磯專電 2021-05-28 / 快照 2025-11-16) read fresh this attempt: subject link re-checked vs 正文 — 劉雲平為本文主角（5/20 與外交委員會成員致函布林肯、5/24 個人名義致函布林肯及鮑爾、援引台灣2019年12月WHO警告）逐字確認見於正文, real, no wrong/spurious links; 2021-05-28 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
