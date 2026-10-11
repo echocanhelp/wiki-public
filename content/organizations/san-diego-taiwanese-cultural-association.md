@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # San Diego Taiwanese Cultural Association (南加州)
 
@@ -30,12 +30,15 @@ The San Diego Taiwanese Cultural Association (SDTCA, 聖地牙哥台灣同鄉會
 - 2017 Hurricane Harvey relief: 聖地牙哥台灣會館 contributed US$17,619 to a joint US$87,459 donation (with the TAA Houston Foundation, LA Taiwanese American Cultural Center, 北美洲台灣婦女會, and 休士頓台聲合唱團) to the City of Houston's Harvey Relief Fund — [[works/taiwaneseamericanhistory-org/ourjourneys328|Our Journeys 328]].
 - Foundation-era record: the Taiwanese American Foundation of San Diego / Taiwan Center celebrated its 21st anniversary and found-raising dinner on 2018-03-10 at the San Diego Taiwan Center with 200 attendants ([[works/taiwaneseamericanhistory-org/52714|26. TAF/SDTC 21st Anniversary Dinner]], 2018). The 2025 oral-history interview [[works/taiwaneseamericanhistory-org/video-184|184. CEO of SDTC/TAF — 歐春美 Chunmei Ou Lin's Journey]] records the leadership of [[people/carol-ou-lin|歐春美]], CEO of the San Diego Taiwan Center and the [[organizations/taiwanese-american-foundation-of-san-diego|Taiwanese American Foundation of San Diego]] (2024–2025).
 - Neighbouring San-Diego Taiwanese records in the corpus, bibliographic only (ecosystem context, not chapter facts): 聖地牙哥台灣人生活座談會 ([[works/taiwaneseamericanhistory-org/sd-shingwa-society|聖地牙哥台灣人生活座談會]], 2016), 聖地牙哥台灣同鄉互助會 ([[works/taiwaneseamericanhistory-org/sd-tw-help|聖地牙哥台灣同鄉互助會]], 2016), 聖地牙哥台灣投資會 ([[works/taiwaneseamericanhistory-org/sdtfa|3. 聖地牙哥台灣投資會]], 2014), and 聖地牙哥台灣商會 ([[works/taiwaneseamericanhistory-org/taiwanese-chamber-of-commerce-of-san-diego|32. Taiwanese Chamber of Commerce of San Diego]], 2016).
+- Scholarship program: the Foundation of San Diego's scholarship awards are recorded at [[works/taiwaneseamericanhistory-org/37-taiwanese-american-foundation-of-san-diego-scholarship-awards|37. Taiwanese American Foundation of San Diego Scholarship Awards]] (2015).
+- Joint civic statement: in 2021-01 the center's 理事長 歐春美 signed the joint statement of the five major U.S. 台灣會館 (NY, DC, LA, San Diego, SF) opposing the politicisation of science in the 萊豬 controversy — [[articles/taiwanjustice-net/2021/20210121172817_2021_01_12_美國五大台灣會館評萊豬_反對科學議題政治化_1251d9ed43ef6e32|美國五大台灣會館評萊豬 (2021-01-12)]].
 
 _Corpus re-grep 2026-09-23: same hits (project-3-41 ZH/ENG, directory record, TAA chapter record, 鄉訊 newsletter, ourjourneys337/162/328, tcsd-summer-camp, seniororg6) — all already linked above; page saturated, nothing new._
 _Corpus re-grep 2026-09-24 (deepen-x slice 09230600-28): fresh ZH+EN grep returns the same hit set (project-3-41 ZH/ENG, directory record, TAA chapter record, newsletter-sdtca, ourjourneys337) — all linked/absorbed; verified saturated._
 _Corpus re-grep 2026-09-25 (deepen-x slice 09240600-30): fresh ZH+EN grep returns the same hit set (project-3-41 ZH/ENG, directory record, TAA chapter record, newsletter-sdtca, ourjourneys337) — all linked/absorbed; verified saturated._
 _Corpus re-grep 2026-09-26 (deepen-x slice 09260317-8): chapter's own hit set unchanged/saturated; new hits are neighbouring San Diego org records — 聖地牙哥台灣人網球協會 ([[works/taiwaneseamericanhistory-org/sdtta|sdtta]], 2016) and 聖地雅歌台灣基督長老教會 ([[works/taiwaneseamericanhistory-org/san-diego-taiwanese-presbyterian-church|san-diego-taiwanese-presbyterian-church]], 2016), bibliographic records only — recorded here as ecosystem context, not chapter facts; nothing new absorbable, no conflicts._
 _Corpus re-grep 2026-10-10 (deepen-x slice 10081500-21): fresh ZH+EN grep surfaced 11 previously-unabsorbed records now linked above — 11-the-birth-of-the-permanent-home (呂錦文, 2014), 245/163 (T.A. publications collection, 2010/2015), 28 food drive, 8 愛心車毯子, 認識科技演講系列, 14 Taiwan School, 38 Asian Culture Festival, activities-of-tacsd, 52714 (21st-anniversary dinner), video-184 (歐春美 oral history); neighbouring-org records (shingwa, 同鄉互助會, 投資會, 商會) noted as ecosystem context only. No date/age conflicts found._
+_Corpus re-grep 2026-10-11 (deepen-x slice 10101200-20): fresh ZH+EN grep across all 5 corpus dirs returned 37 hits; previously-unabsorbed chapter-relevant records now linked — 37 TAF scholarship awards (2015) and the 2021-01 five-city 會館 萊豬 joint statement (歐春美 as SD signatory; same person as video-184 CEO, different title/period, not merged). Other hits verified already linked or bibliographic (san-diego-taiwan-community-center work page, ourjourneys162/26, taiwanjustice 2025 film-screening notice = venue listing only, not a chapter fact). No date/age conflicts; nothing held._
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/san-diego-taiwanese-cultural-association/)
