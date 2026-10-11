@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-10
 ---
 # Chen Shui-bian (陳水扁)
 
@@ -133,6 +133,18 @@ last_reviewed: 2026-10-09
 - 2000 — 總統就職慶典之後激發台僑籌組台灣會館／會中心的紀錄：友人於就職慶典後鼓勵創立 Taiwanese American Center（[[works/taiwaneseamericanhistory-org/ourjourneys24-eng|Our Journeys #24 (EN) 北加州台灣會館的誕生]]）。
 - 2001 — 世台會聖保羅大會獲現任陳水扁總統賀電（[[works/taiwaneseamericanhistory-org/ourjourneys249|Our Journeys #249 歡樂中的傷痛-記世台會]]）。
 - 2003-11 — 以總統身分赴紐約接受聯合國國際人權聯盟頒獎，台美人到場歡迎（[[works/taiwaneseamericanhistory-org/12-47|TAH record #47]]；[[works/taiwaneseamericanhistory-org/photo-albums-activities-72|Photo albums #72]]）。
+
+### From the diaspora corpus (2026-10-10 吸收)
+
+- 1984 — 黨外「蓬萊島雜誌」因批評馮滬祥「以翻譯代替著作」興訟（七字官司），社長陳水扁及總編輯李逸洋被告入獄（[[works/taiwaneseamericanhistory-org/ourjourneys63|Our Journeys #63 四腳仔官司]]）。
+- 1987 — 南加大「台灣文化之夜」近 600 位同鄉出席，史明、陳水扁等重量級政治人物到場（[[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]]）。
+- 1988 — 返鄉運動演講會上民進黨人士姚嘉文、陳水扁、洪奇昌等對政治犯家屬禮讓推崇；8/19 旁聽蔡有全、許曹得台獨案審判，辯護律師為陳水扁、李勝雄、蔡明華（[[works/taiwaneseamericanhistory-org/ourjourneys210|Our Journeys #210 陳翠玉為返鄉而犧牲]]）。
+- 1998 — 台北市長任內以 47 家公司認養姐妹市制度（印城由科見美語認養）（[[works/taiwaneseamericanhistory-org/our-journeys-389|Our Journeys #389]]）。
+- 2000 — 明州同鄉會紀錄：3 月陳水扁、呂秀蓮當選第二屆民選總統、副總統，5 月就職後同鄉會分別舉辦座談會及慶祝餐會（[[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys #123 明州同鄉會]]；另見 [[works/taiwaneseamericanhistory-org/inportant2000-2|台美人熱烈慶祝陳水扁成為台灣總統 2000-05-20]]）。2004 年連任就職時同鄉會再辦慶祝茶會、同鄉返鄉投票心得報告。
+- 2002 — 以總統身分邀請同志權利倡議者（Nan Hunter、Michael Bronski）入總統府會面（[[works/taiwaneseamerican-org/taiwan-float-ny|Taiwan Float in NY Pride Parade]]）。
+- 2001–2007 — WHO 叩關紀錄：2001 年成立跨部會小組（台醫聯盟、FAPA、NATMA 納入）；2003 以台灣代表衛生實體申請觀察員；2007 任內最後一年親上火線以「台灣」名義申請正式會員，祕書長陳馮富珍退回函件（[[works/taiwaneseamericanhistory-org/ourjourneys100|Our Journeys #100 日內瓦 WHO 十一年]]）。
+- 2007-05-11 — 總統陳水扁於 Washington Post 刊出社論〈The Shunning Of a State〉（TAH 轉載，2007-05-14）（[[works/taiwaneseamerican-org/an-op-ed-letter-from-taiwans-president-chen-shui-bian|An Op-Ed Letter from Taiwan's President Chen Shui-bian]]）。
+- 2016-04 — 陳文雄於北加州臺灣長輩會通訊論及 2000 年陳水扁當選後台灣人以選票讓蔡英文勝出才是「跨出民主的第一大步」（[[works/taiwaneseamericanhistory-org/ourjourneys216|Our Journeys #216 台美人對故鄉的殷殷期望]]）。
 
 ## Related Pages
 
