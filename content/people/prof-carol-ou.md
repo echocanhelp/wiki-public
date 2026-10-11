@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-11
 ---
 # Prof. Carol Ou (歐逸青教授)
 
@@ -69,3 +69,8 @@ Synthesized from the TAH profile text above and the employment record below (no 
 Re-check: all vault-internal links (ya-fei-chuang, carol-ou-lin, pei-shan-lee, TAH #12/#570/musician58 records) resolve to existing pages. Gordon College, New England Conservatory, Heifetz Institute, Carpe Diem String Quartet, and Marlboro Music Festival have no vault pages, so they stay plain text. No new vault facts, no web, no new pages.
 
 - Slice 09141200-2 re-check: James Buswell, Anna/William Buswell, Gordon College, New England Conservatory, Heifetz Institute, Carpe Diem String Quartet and the named festivals still have no vault pages, so they stay plain text; all existing links (ya-fei-chuang, carol-ou-lin, pei-shan-lee, TAH #12/#570/musician58) re-verified as resolving. No new vault facts; page saturated.
+
+## Deepen-x 2026-10-11 (slice 10101205-31, vault-only)
+
+- **TAH musician series (2014-10-11):** Ou appears in the same 2014-10-11 TAH classical-musician series as composer [[people/i-uen-wang-hwang|王怡雯 I-Uen Wang Hwang]] ([[works/taiwaneseamericanhistory-org/59-i-uen-wang-hwang-composer|TAH #59]]), alongside the Formosa Quartet (福爾摩沙四重奏) and pianist Nam Yeung (楊楠) — per that record's text. Community-network fact, absorbed here; no vault pages exist yet for the quartet or Yeung, so they stay plain text.
+- Fresh ZH+EN grep (歐逸青/Carol Ou) across all 5 corpus dirs: hit set unchanged — her own three encyclopedia records (#12/#570/musician58), works/index, sources hub, plus cross-references on [[people/ya-fei-chuang|Ya-Fei Chuang]] (Buswell duo) and [[people/i-uen-wang-hwang|I-Uen Wang Hwang]] (series). No memoir/corpus prose beyond these; no date/age conflicts to HOLD.
