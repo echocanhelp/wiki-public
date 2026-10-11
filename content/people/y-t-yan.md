@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Y. T. Yan (顏裕庭)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-10-10
 - **Era:** -
 - **Geography:** 臺灣省雲林縣
 - **Core roles:** physician, professor, educator
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 
 <!-- tah-tables:start -->
@@ -36,12 +36,7 @@ last_reviewed: 2026-10-10
 - Member of the North American Taiwanese Medical Association (NATMA, 北美洲台灣人醫師協會) delegation that visited the Taiwan Medical Association (台灣醫學會) and its 80th-anniversary meeting, alongside 楊次雄, 周烒明, 林哲雄, 陳惠亭, 林逸民 and others — recounted in [[works/taiwaneseamericanhistory-org/ourjourneys74|74. 1983至1990的北美洲台灣人醫師協會]].
 - Author of 臺灣醫學教育的軌跡與走向 (06/1998), held in the corpus at [[works/taiwaneseamericanhistory-org/publicationlife948|948. 臺灣醫學教育的軌跡與走向 / 顏裕庭]].
 - Who's Who encyclopedia profile recorded at [[works/taiwaneseamericanhistory-org/whos863|863. Y. T. Yan 顏裕庭 /2016/02]] (published 2016-03-01).
-- 2026-09-21 (slice 09201300-15): corpus re-grepped — hits (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863) are all absorbed above; saturated, no new absorbable facts.
-- 2026-09-22 (slice 09211200-5): re-verified — same 6 corpus hits, all already linked above; no new material.
-- 2026-09-22 (slice 09220700-9): re-grepped — identical hit set (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863); saturated, no new absorbable facts.
-- 2026-09-23 (slice 09221500-8): corpus re-grepped — same 6 hits, all already linked above; saturated, no new absorbable facts.
-
-- 2026-09-25 (slice 09231000-7): corpus re-grepped — same 6 hits (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863); saturated, no new absorbable facts.
+- Saturated ledger (verified 14x, slices 09201300-15 through 10100900-25): fresh ZH+EN+surname greps (顏裕庭 / Y. T. Yan / 裕庭) across works/articles/sources/events/topics return the identical hit set — ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863 — all absorbed and wikilinked above. No new absorbable facts as of 2026-10-11.
 
 ## Family
 
@@ -49,15 +44,8 @@ _No filled family fields on the TAH profile._
 
 ## Sources
 - [TAH #863 encyclopedia: 863. Y. T. Yan 顏裕庭 /2016/02](https://taiwaneseamericanhistory.org/whos863/)
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/y-t-yan/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/y-t-yan/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
-- 2026-09-25 (slice 09250317-10): corpus re-grepped — same hits (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863), all already linked above; saturated, no new absorbable facts.
-- 2026-09-26 (slice 09251500-3): corpus re-grepped — identical hit set (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863), all already linked above; saturated, SKIP.
-- 2026-10-04 (slice 09300321-10): corpus re-grepped — identical 6 hits (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863), all already linked above; saturated, SKIP.
-- Corpus re-grep 2026-10-06 (slice 10051340-2): fresh ZH+EN grep across works/articles/sources/events/topics returns the hit set already absorbed+wikilinked above. Verified-saturated; SKIP-no-new-facts.
-- Corpus re-grep 2026-10-08 (slice 10062334-2): fresh ZH+EN grep (顏裕庭 / Y. T. Yan) across works/articles/sources/events/topics returns the identical hit set (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863), all already absorbed+wikilinked above. Verified-saturated; SKIP-no-new-facts.
-- Corpus re-grep 2026-10-09 (slice 10080500-5): fresh ZH+EN grep (顏裕庭 / Y. T. Yan) across works/articles/sources/events/topics returns the identical 6-file hit set (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863), all already absorbed+wikilinked above. Verified-saturated; SKIP-no-new-facts.
-- Corpus re-grep 2026-10-10 (slice 10090900-4): fresh ZH+EN grep (顏裕庭 / Y. T. Yan / 裕庭) across works/articles/sources/events/topics returns the identical hit set (ourjourneys74/-eng, ourjourneys186/-eng, publicationlife948, whos863), all already absorbed+wikilinked above. Verified-saturated; SKIP-no-new-facts.
