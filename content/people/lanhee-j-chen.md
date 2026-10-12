@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Lanhee J. Chen (陳仁宜)
 
@@ -119,3 +119,5 @@ last_reviewed: 2026-10-11
 <!-- TJJ-A10100801-21: verified 2026-10-11 — wave-2 link+deepen re-check (slice 10100801-21) of article a1056cd694ea21cb read fresh this attempt: Subjects 再核 vs 正文 — 陳崇廉（父，正文第29–30行：1970年代自台赴美留學、北卡醫學訓練、遷羅蘭崗執業醫師）／陳仁宜（本文主角，正文第24行：宣布角逐2022加州主計長）兩連結均為真，無錯鏈、無虛鏈；兩人含本檔 wikilink 之日期事實條目（1970s／2021-07-11）已在 From the record — saturated，無新條目需加。謝雅美、陳世榮 vault 暫無頁，維持純文字。 -->
 
 <!-- TJJ-A10110001-5: verified 2026-10-12 — wave-2 link+deepen re-check (slice 10110001-5, article d94cecddadd6f167 史丹佛論壇分享防疫 陳建仁：台灣模式貴在透明, 2020-05-07): subject link re-checked vs 正文 this attempt — 「胡佛研究所研究員暨國內政策研究主任陳仁宜博士（Lanhee Chen）」確認見於正文, real, no wrong/spurious links; 2020-05-07 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- Deepen-X slice 10110316-7: re-grep 2026-10-12 — fresh ZH+EN grep (陳仁宜/Lanhee) across all 5 corpus dirs returned the same hit set as prior passes (my-stories-815, whoswh2070, works/index hub, TJJ MANIFEST, 史丹佛論壇 d94cecdd, d2090dea 存檔); every named fact (2020-04-17 Fox「三問」/川普推文援引, 2020-05-07 史丹佛論壇, 2020-07-11 CNN 投書, 2021-07-11 加州主計長專訪, 2024-11-06 大選分析專訪) already absorbed with wikilinks — saturated, no new material. -->
