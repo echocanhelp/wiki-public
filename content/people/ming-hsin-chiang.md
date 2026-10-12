@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Ming Hsin Chiang (江明信)
 
@@ -70,3 +70,4 @@ Accomplishment
 - Corpus re-grep 2026-10-11 (slice 10101100-24): SKIP — hit set unchanged (own #2017 biblio, my-stories-797, works index, MANIFEST, already-linked TJJ HELLO TAIWAN / 感恩餐宴 / tag-紐約台僑江明信牽成愛台善循環 archives); surname-only grep 江明 adds only 台股 market articles (false positives) and ourjourneys43, whose "Hong Ming-Hsin" is a different person (洪/李 family church pianist, not 江明信). 語料飽和，無新材料，無衝突須 HOLD。
 
 <!-- TJJ-A10090801-17: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-17 article d0d03097ac759900 (AIT處長孫曉雅口罩亮眼・陳柏惟曝台僑暖心故事, 2021-07-18刊): subject link re-checked vs 正文 this attempt — 「曾任紐約台灣商會會長、現任世界台灣商會聯合總會理事的江明信」及其 HELLO TAIWAN 口罩/T恤與中英雙「台灣」領帶事跡確認見於正文，連結為真，無錯鏈、無虛鏈；含本檔 wikilink 的 2021-07-18 日期事實條目已在庫 — saturated, no new material. -->
+- Corpus re-grep 2026-10-12 (slice 10110800-25): SKIP — hit set unchanged (own #2017 biblio, my-stories-797, works index, MANIFEST, already-linked TJJ HELLO TAIWAN / 感恩餐宴 / tag-紐約台僑江明信牽成愛台善循環 archives); surname-only 江明 adds only 台股 market articles (false positives) and ourjourneys43, whose "Hong Ming-Hsin" is a different person (Grace Taiwanese PC pianist, not 江明信). 語料飽和，無新材料。HOLD: my-stories-797 records 江明信 owns the 三面蔡英文肖像拚布巨作 (one three-paneled work), while the 2026-01-18 TJJ 感恩餐宴 entry above paraphrases as "one of three large artworks" — phrasing conflict only, no date/age conflict, left unreconciled pending a primary photo/caption.
