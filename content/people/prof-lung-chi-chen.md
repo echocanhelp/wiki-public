@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Prof. Lung-Chi Chen (陳隆志教授)
 
@@ -54,6 +54,7 @@ Prof. Lung-Chi Chen (陳隆志, b. 1935, Tainan) was a central legal voice of th
 - **Student of 彭明敏:** corpus chronology identifies him as 「彭明敏的學生陳隆志，著有《台灣的獨立與建國》一書」 who joined 全美台獨聯盟 after the 1966 founding ([[articles/taiwanjustice-net/2023/20230923051922_2023_06_02_從二戰後全球去殖民化_到台灣國家正常化-_下_c251f8fc65ac83e0|從二戰後全球去殖民化到台灣國家正常化(下)]]).
 - **1970-04 (424刺蔣案 aftermath):** per 王泰's memoir, after the Plaza Hotel protest and shooting attempt, 陳隆志 appeared on national US television as the movement's legal voice, 「侃侃而談」 the Taiwan problem for five or six minutes — the event that 「將台灣所遭遇的問題在全美國乃至於全世界前攤了開來」 ([[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|化作千風：台獨先鋒王泰]]).
 - **1999-04:** author of 「公民投票與台灣前途」 (Politics), held as TAH corpus record #1093 ([[works/taiwaneseamericanhistory-org/publications1093|TAH #1093]]) — an early referendum-advocacy text predating the constitutional referendum era.
+- **2016-12-27 (民報):** in his late-career international-law capacity he argued 「ROC形同『混亂民國』，連美國都正名直呼台灣」 — the ROC-as-"chaotic republic" framing that circulated widely in the normalization debate ([[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|news observation: 民報 2016-12-27]]) — later echoed in his 2021 「大工事」 program above.
 - **2021:** as 台灣新世紀文教基金會 董事長, set out the 「大工事」 of state normalization — 制憲正名（國家正名憲法化）, UN membership under the name Taiwan, and cultivating the national will of a normalized people — in a 陳茂雄 column on the 制憲 debate ([[articles/taiwanjustice-net/2021/20210509172700_2021_05_04_民進黨制憲_省省吧_-_-陳茂雄_89c9669a1446f080|民進黨制憲，省省吧！／陳茂雄]]).
 
 ## Sources
