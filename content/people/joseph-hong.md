@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Joseph Hong (洪茂澤)
 
@@ -72,3 +72,4 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10071500-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071500-2 — article 20053f0a17b89c07 (Tag 大洛杉磯台灣會館耆老講座, 2025-02-16 存檔) 「8/17 洪茂澤、楊嘉猷談返台參選經驗」條目具名; subject link re-checked vs 正文 this attempt — 真實提及, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- deepen-x slice 10081200-17 re-verify 2026-10-10: fresh ZH+EN grep (洪茂澤/洪茂泽/Joseph Hong) across works/+articles/+sources/+events/+topics/ — hit set identical (OJ 142, OJ 209, disputes5, law4, TAH #265 profile 2015-02-05, 耆老講座標籤頁 20053f0a17b89c07, sources hub, works/index registry entries); all hits already absorbed and wikilinked above — verified-saturated, 0 deepened, HOLDs unchanged (Columbus camp undated; 1994 罷免 outcome unstated). -->
 <!-- deepen-x slice 10100849-28 re-verify 2026-10-11: fresh ZH+EN grep (洪茂澤/洪茂泽/Joseph Hong/茂澤) across all 5 corpus dirs — hit set identical (OJ 142, OJ 209, disputes5, law4, TAH #265 profile, 耆老講座標籤頁 20053f0a17b89c07, sources hub, works/index); disputes5/law4 re-read this attempt — bibliographic-record-only stubs, no new absorbable facts beyond what Role in the Community already cites; verified-saturated, 0 deepened, HOLDs unchanged. -->
+<!-- deepen-x slice 10110500-29 re-verify 2026-10-12: fresh ZH+EN grep (洪茂澤/洪茂泽/Joseph Hong/茂澤) across works/+articles/+sources/+events/+topics/ — hit set identical (OJ 142, OJ 209, disputes5, law4, TAH #265 profile, 耆老講座標籤頁 20053f0a17b89c07, sources hub, works/index); OJ 142/OJ 209 passages re-read this attempt — 1993 春節晚會 五分鐘演講 episode and Columbus 夏令會 我愛台僑胸章 episode already absorbed verbatim in Role in the Community with wikilinks; no new absorbable facts — verified-saturated, 0 deepened, HOLDs unchanged (Columbus camp undated; 1994 罷免 outcome unstated). -->
