@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Josephine Pan (潘掬慧)
 
@@ -149,3 +149,5 @@ last_reviewed: 2026-10-11
 <!-- TJJ-A10100701-15: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-15 article 2490b18e8f37ea79 (第166回世界台灣文化論壇, TJJ 2025-01-22刊 / 2025-03-18快照) read fresh this attempt: subject link re-checked vs 正文 — 「與談人 潘掬慧 TUF 228 心靈日 & 台灣文化之夜委員長」確認見於正文, real, no wrong/spurious links; 2025-01-25 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10110102-24: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110102-24 article 20240412192704_root_95fd81860bafb5bf (二二八事件77周年 大洛杉磯台灣會館舉辦追思紀念大會, TJJ 發文 2024-02-25／2024-04-12 快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; 2024-02-24 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10110400-10: verified 2026-10-12 — fresh ZH+EN grep (潘掬慧/Josephine Pan/潘掬) across works/articles/sources/events/topics: 10 hits (ourjourneys123 萬國節2013茶大使, TAH #113 bibliographic, ambassadors-of-taiwan-tea, pew statement, remembering-228 podcast, TJJ ff4731d4/2490b18e/c62f5c50/2589c867/95fd8186/47725345581e0f61) — every hit corresponds to a fact already in From the record / Role in the Community with correct wikilinks. ff4731d4f51b100d is the 2025-05-17 snapshot of the same 2024-02-28 影音全集 already cited via 47725345581e0f61. No new material — saturated SKIP. -->
