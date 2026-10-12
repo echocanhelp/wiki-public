@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Ting Yee Wang (王廷宜)
 
@@ -114,3 +114,5 @@ _Corpus-absorbed 2026-09-14 (slice 09141300-17); primary material from our own m
 <!-- TJJ-A10090601-5: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-5 article 31b7081a5d37939f（化作千風－懷念台美人的人權鬥士、台獨先鋒王泰和 [追思會影音], 2022-07-12 刊）: subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100801-9: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-9 article c4d413fd5efb8a9c (全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮報導, 2017-11-29刊, 2017-12-20快照) read fresh this attempt: subject link re-checked vs 正文 — 「王廷宜(泰和)先生講『人權建國的心路歷程』@全美台灣人權協會41週年年會20171209」條目確認見於正文 RELATED ARTICLES 段, real, no wrong/spurious links; 2017-12-09 獲獎演講 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10110100-31: re-grepped 王廷宜/王泰和/泰和 across works/articles/sources/events/topics this attempt — 6 corpus files hit (TAH #75, Our Journeys #265/#244/#357, Publications #1040, My Stories #734), all already linked on this page; no new material — saturated, no new material. -->
