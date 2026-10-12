@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Tzutsai Cheng (鄭自才)
 
@@ -125,3 +125,5 @@ last_reviewed: 2026-10-10
 
 <!-- TJJ-A10110601-9: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110601-9 article a20fb275b89c3fb7（「刺蔣案」策劃者鄭自才登記總統連署 拚超越郭台銘, CNA 中央社記者葉素萍, 刊 2023-09-18 / Wayback 快照 2023-09-30）read fresh this attempt: subject link re-checked line-by-line vs 正文 — 本人為報導主角，見於「台澎黨主席鄭自才」「與副手黃聖峰搭檔，正式登記連署參選『中華民國流亡政權總統』」「要取得比賣台中國難民首富更多的連署書」及 1991 翻牆回台判刑 1 年記述，真實對應，無錯鏈、無虛鏈；黃聖峰見於正文惟無 people 頁、郭台銘為對比對象，均正確未連結；含該文 wikilink 的 2023-09-18 日期事實條目已在 From the record — saturated, no new material. -->
 <!-- TJJ-A10110601-29: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110601-29 article 20210118235211_2020_11_25_..._996879ac7a006acf（全美台灣人權協會第44屆年會暨鄭南榕紀念獎頒獎, taiwanjustice.net, 刊 2020-11-25 / Wayback 快照 2021-01-18）read fresh this attempt: subject link re-checked line-by-line vs 正文 — 鄭自才名列 2004 年得獎人清單逐字確認 — real, no wrong/spurious links; 正文另及林樹枝（2005）／陳儀深（2019）／魏德聖（今年得獎人）均無 vault 頁, 不建鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+覆核（deepen-x slice 10120200-9, 2026-10-12）：fresh 5-dir grep（鄭自才/Tzutsai/自才）命中 26 檔——與 2026-10-10 sweep 命中集合相同，全數已吸收或屬僅標題提及之電視節目彙編頁（話時代人物「鄭自才親自策劃刺蔣案」等，屬 1970 刺蔣案紀錄範圍，無新事實）；whos-tzutsai-cheng 為 TAH #469 百科頁（來源已列 Sources）、ourjourneys62 中文版已由 62-eng 吸收——語料飽和，無新材料 — SKIP。wife-vs-晴美 HOLD 與 NJ-vs-Maryland HOLD 仍有效。
