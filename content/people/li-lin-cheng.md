@@ -132,3 +132,5 @@ BVM (Bachelor of Veterinary Medicine)
 <!-- TJJ-A10100701-11: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-11 article 912bedafc3ae02b4 (「北美洲台灣人教授協會」標籤頁, 2025-09-14 快照): 「哲人日已遠：敬弔李應元博士 ◎NATPA鄭麗伶會長暨全體理事」署名確認見於正文; subject link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record (2021-11-22 NATPA tag entry) — saturated, no new material. -->
 
 <!-- TJJ-A10100801-16: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-16 article f1972734edb3c446 (我的肥皂箱人氣分類頁, 2024-02-28快照): 「哲人日已遠：敬弔李應元博士 ◎NATPA鄭麗伶會長暨全體理事」署名確認見於正文; subject link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record (2021-11-22 弔文署名條目) — saturated, no new material. -->
+
+<!-- TJJ-A10110001-26: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110001-26 article 23924f7ad0d93713 (李應元標籤頁, 2022-07-01 快照) read fresh this attempt: 「哲人日已遠：敬弔李應元博士 ◎NATPA鄭麗伶會長暨全體理事」弔文署名確認見於正文條目; subject link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record (2021-11-22 弔文署名條目) — saturated, no new material. -->
