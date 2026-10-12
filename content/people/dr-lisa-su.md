@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Lisa Su (蘇姿豐博士)
 
@@ -108,8 +108,12 @@ father [[people/su-chun-huai||蘇春槐]]; mother 羅淑雅 (no page yet).
 
 - 2022-12-06 — 台積電亞利桑那州鳳凰城廠首批先進製程機台運抵典禮，蘇姿丰與蘋果執行長庫克、高通同場出席並致詞：台積電讓超微能專注於設計創新的晶片，超微將成為亞利桑那州廠重要用戶，期待在美國打造高性能晶片（與 [[people/lisa-su|Lisa T. Su]] 雙頁並存維持）（[[articles/taiwanjustice-net/2025/20250212064417_apple-amd及qualcomm承諾下單台積電亞利桑那州廠_蘋果將是最_f0f53cfde5892a33|TJJ 轉載，刊 2022-12-06／快照 2025-02-12]]）。
 - 2023-08-13 — 副總統賴清德過境紐約赴巴拉圭總統就職途中，其父蘇春槐（紐約台灣會館理事長）现身賴清德下榻的樂天紐約皇宮飯店，揪紐約各社團百名支持者與賴早餐會（與 [[people/su-chun-huai|蘇春槐]] 頁家庭條目互補）（[[articles/taiwanjustice-net/2025/20251008101425_蘇姿丰父親蘇春槐現身賴清德下榻飯店-揪紐約各社_ba8d33197cc3d3c3|TJJ 轉載中央社記者葉素萍紐約電，刊 2023-08-13／快照 2025-10-08]]）。本條以父親蘇春槐為主體，非蘇姿丰本人行為，僅作家庭/社群網絡佐證。
-- 2025-04-15 — 蘇姿丰應邀出席台大椰林講座（「AMD 轉型 AI 領導者」，500 名師生在場），公開表示「喜歡認為自己是台裔美國人」，肯定台灣人努力工作並在自己的領域做出貢獻；被問到與輝達創辦人黃仁勳（表親）的互動，表示極大敬意，兩人同於美國半導體產業協會（SIA）交換想法（與 [[people/lisa-su|Lisa T. Su]] 雙頁並存維持）（[[articles/taiwanjustice-net/2025/20250512061109_蘇姿丰自認是台裔美國人-肯定台灣人努力工作並貢_0eef470ad2bf2c2b|TJJ 轉載中央社記者張建中台北電，刊 2025-04-15／快照 2025-05-12]]）。此為本頁首要的身份認同第一手陳述，與 [[people/su-chun-huai|蘇春槐]] 頁「表弟黃仁勳」記載互補。HOLD: 親屬關係層級兩說——2021 紐約台灣會館報導記黃仁勳為「蘇春槐表弟」，2025 台大講座報導記黃仁勳為蘇姿丰「親戚」；兩說可相容但層級不同（表叔姪 vs 晚一輩表親），未載確切世代，不自動併入 Family 欄。
+- 2025-04-15 — 蘇姿丰應邀出席台大椰林講座（「AMD 轉型 AI 領導者」，500 名師生在場），公開表示「喜歡認為自己是台裔美國人」，肯定台灣人努力工作並在自己的領域做出貢獻；被問到與輝達創辦人黃仁勳（表親）的互動，表示極大敬意，兩人同於美國半導體產業協會（SIA）交換想法（與 [[people/lisa-su|Lisa T. Su]] 雙頁並存維持）（[[articles/taiwanjustice-net/2025/20250512061109_蘇姿丰自認是台裔美國人-肯定台灣人努力工作並貢_0eef470ad2bf2c2b|TJJ 轉載中央社記者張建中台北電，刊 2025-04-15／快照 2025-05-12]]）。此為本頁首要的身份認同第一手陳述，與 [[people/su-chun-huai|蘇春槐]] 頁「表弟黃仁勳」記載互補。HOLD: 親屬關係層級三說——2021 紐約台灣會館報導記黃仁勳為「蘇春槐表弟」，2025 台大講座報導記黃仁勳為蘇姿丰「親戚」，2019 社群投資專欄記「黃仁勳是她的叔叔」；三說可相容但層級不同（表叔姪 vs 晚一輩表親 vs 晚兩輩），未載確切世代，不自動併入 Family 欄。
+- 2019-01-24 — 社群投資專欄「股市亮點」記 AMD CEO Lisa Tzwu-Fang Su（蘇姿丰）「也是台南人，1969年生，三歲時來美國，父親蘇春槐，母親羅淑雅……後來在MIT畢業得博士」，並記「黃仁勳是她的叔叔」，且以「台美人認識他們？」直接向鄉親發問（[[articles/taiwanjustice-net/2020/20201220100700_2020_12_02_股市亮點_167-amd-advanced-micro-devices_6f0896677c9e2c1e|TJJ 專欄，刊 2019-01-24／快照 2020-12-20]]）。「三歲隨父母來美」於此為第二次出現（另見 2020-10 專欄條目），屬同類社群專欄流傳，仍維持 HOLD 不併入傳記欄；此條屬社群第一手視角，與本頁 TAH Who's Who 記載互補。
+- 2021-04-07 — 中央社記者紐約尹俊傑專電：紐約台灣會館理事長交接，[[people/su-chun-huai|蘇春槐]]自 [[people/patsy-fang-chen|方秀蓉]] 手中接任理事長；報導人物記其女為超微（AMD）執行長蘇姿丰、表弟為輝達（NVIDIA）執行長 [[people/jensen-huang|黃仁勳]]（[[articles/taiwanjustice-net/2021/20210415111016_2021_04_07_紐約台灣會館-蘇春槐接理事長盼永續經營_483521594640641a|TJJ 轉載中央社記者專電，刊 2021-04-07／快照 2021-04-15]]）。本條以父親蘇春槐為主體（與 [[people/su-chun-huai|蘇春槐]] 頁互補），作家庭/社群網絡佐證；與 [[people/lisa-su|Lisa T. Su]] 雙頁並存維持。
 
 <!-- TJJ-A10100801-31: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-31 article 88c15e5403e6b9b9 (超微台裔總裁兼執行長蘇姿丰出任美國總統科技顧問, TJJ 轉載中央社記者江今葉專電, 刊 2021-09-22 / 快照 2021-10-28) read fresh this attempt: 正文逐行再驗證——本頁（TAH Who's Who 視角）subject 連結為真實提及（與 [[people/lisa-su|Lisa T. Su]] 雙頁並存維持為既定分工），無錯鏈、無虛鏈；編輯陳正健僅為內文署名未掛鏈，正確；含該文 wikilink 的 2021-09-22 PCAST 入選條目已在庫 — saturated, no new material. -->
 
 <!-- TJJ-A10100901-22: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-22 article e1e223aabe8b8751 (標普企業執行長年薪排行榜 超微蘇姿丰奪冠, TJJ 轉載中央社/CNN Business, 刊 2020-06-02 / 快照 2025-05-15) read fresh this attempt: 正文逐行再驗證——本頁（TAH Who's Who 視角）subject 連結為真實提及（與 [[people/lisa-su|Lisa T. Su]] 雙頁並存維持為既定分工），無錯鏈、無虛鏈；含該文 wikilink 的 2020-06-02 條目已在庫 — saturated, no new material. -->
+
+<!-- DEEPEN-X10110100-13: verified 2026-10-12 — full-corpus re-grep (works/articles/sources/events/topics) for 蘇姿丰/蘇姿豐/Lisa Su: works hits all already absorbed; two articles with new material absorbed this pass — (1) 2019-01-24 社群投資專欄「股市亮點」(6f0896677c9e2c1e): 台南人/1969生/三歲來美/父蘇春槐母羅淑雅/MIT博士/黃仁勳是她的叔叔/「台美人認識他們？」—— 三歲來美屬同類專欄第二次出現維持 HOLD，黃仁勳親屬層級改記三說 HOLD; (2) 2021-04-07 中央社記者尹俊傑紐約專電 紐約台灣會館理事長交接 (483521594640641a): 蘇春槐接任理事長、報導記其女 AMD 執行長蘇姿丰＋表弟黃仁勳—— 家庭/社群網絡佐證條目補入（lisa-su 頁既有該條，本頁首次掛鏈）。2 dated facts added, 2 corpus-linked. -->
