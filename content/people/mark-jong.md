@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Mark Jong (鍾茂萃)
 
@@ -70,3 +70,5 @@ Corpus re-check 2026-09-27 (deepen-x slice 09260600-15): fresh grep of works/+ar
 > Re-verify 2026-10-09 (deepen-x slice 10080600-15): fresh grep 鍾茂萃/Mark Jong/茂萃 across works/ + articles/ + sources/ + events/ + topics/ — hit set unchanged (ourjourneys296, our-journeys-351, #740, works index, sources index). Context read fresh: ourjourneys296 confirms 1990 Emporia KS host "Chung, M.T. 鍾茂萃" (already absorbed); our-journeys-351 camp roster lists him for 1990 only. No new material. Verified saturated; nothing absorbable.
 
 > Re-verify 2026-10-10 (deepen-x slice 10091500-7): fresh ZH+EN+surname grep (鍾茂萃/Mark Jong/茂萃/Chung M.T.) across works/ + articles/ + sources/ + events/ + topics/ — hit set identical (ourjourneys296, our-journeys-351, #740, works index, sources index). Context read: our-journeys-351 roster line "1990-Emporia,Kansas 鍾茂萃" (next host 1991 Des Moines — h-n-tong 童海南, already linked there) and #740 encyclopedia record confirm nothing beyond the absorbed 1990-host fact. No new material. Verified saturated; nothing absorbable.
+
+> Re-verify 2026-10-11 (deepen-x slice 10102129-10): fresh ZH+EN+partial grep (鍾茂萃/Mark Jong/茂萃/"Chung, M.T.") across works/ + articles/ + sources/ + events/ + topics/ — hit set identical (ourjourneys296, our-journeys-351, #740 encyclopedia, works index, sources index). #740 record read fresh: bibliographic-only entry, no new facts; our-journeys-351 roster confirms 1990 Emporia KS host only. No new material. Verified saturated; nothing absorbable.
