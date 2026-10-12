@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # East Bay Taiwanese Association (北加州)
 
@@ -39,6 +39,7 @@ Full directory name in the corpus record is 北加州東灣台灣同鄉會 (the 
 - 1994: in the TAFNC council's ten voting seats, EBTA (東灣同鄉會) held one, represented by 傅憲亮 (Fu Hsien-liang) — per president 林健次's first-hand account of the 1994 federation internal dispute — [[works/taiwaneseamericanhistory-org/ourjourneys142|142. 1994年北加州台灣同鄉會聯合會的内部爭執 / 林健次 /2015/06]]. This complements the post-1979 president list above: EBTA's federation seat is documented from the federation's founding (ourjourneys38) through the 1994 dispute.
 - Separate East Bay seniors organization in the corpus: 北加州東灣台美人長樂會 (TASS-EB), distinct from EBTA/EBTACSC — [[works/taiwaneseamericanhistory-org/tass-eb|23. 北加州東灣台美人長樂會〈TASS-EB〉]] and [[organizations/tass-eb]].
 - 2026-10-11 (slice 10101200-26): fresh ZH+EN grep across all 5 corpus dirs — the 14 EBTA-name hits are all previously absorbed; one new fact (1994 council delegate 傅憲亮, ourjourneys142) absorbed above.
+- 2026-10-12 (slice 10110805-26): fresh ZH+EN grep (East Bay Taiwanese / EBTA / 東灣台灣同鄉會) across all 5 corpus dirs — identical 14-hit set, all absorbed above (the taiwaneseamerican-org in-honor-of/solidarity pieces mention SEBTA not EBTA; the TJJ hit is a digest-string false positive). Saturated, no new absorbable facts.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/east-bay-taiwanese-association/)
