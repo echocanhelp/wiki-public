@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Marina Lin (林淨媺)
 
@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 10070018-6 (2026-10-08): re-verified — fresh ZH+EN grep (Marina Lin / 林淨媺) across works/articles/sources/events/topics returns only whoswho1624 / musician394 / ourjourneys301 (memoir passage already absorbed) + sources index; nothing new absorbable. Verified-saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 10080700-2 (2026-10-09): re-verified — fresh ZH+EN grep (林淨媺 / Marina Lin / 淨媺) across works/articles/sources/events/topics returns only whoswho1624 / musician394 / ourjourneys301 (memoir passage already absorbed) + works/sources index rollups; nothing new absorbable. Verified-saturated, SKIP content-deepen. -->
 <!-- deepen-x slice 10091500-27 (2026-10-10): re-verified — fresh ZH+EN grep (林淨媺 / Marina Lin / 淨媺) across works/articles/sources/events/topics returns the identical closed set (whoswho1624 / musician394 / ourjourneys301 memoir passage already absorbed + index rollups); no new memoir material, no conflicts. Verified-saturated, SKIP content-deepen. -->
+<!-- deepen-x slice 10102200-21 (2026-10-12): re-verified — fresh ZH+EN+collaborator grep (林淨媺 / Marina Lin / 淨媺 / 吳上峰) across works/articles/sources/events/topics returns the identical closed set (whoswho1624 / musician394 / ourjourneys301 memoir passage already absorbed + index rollups; 吳上峰 hits are his own whoswho922/musician-335 records, already cross-linked via [[people/shang-feng-wu]]). Nothing new absorbable, no conflicts. Verified-saturated, SKIP content-deepen. -->
