@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Elaine Liu (黃久香)
 
@@ -53,3 +53,4 @@ last_reviewed: 2026-10-11
 <!-- deepen-x 10090900-26: SKIP — verified-saturated re-verify fresh 2026-10-10: 黃久香/Elaine Liu/久香 grep across works/articles/sources/events/topics returns the identical absorbed set (whos930, elaine-liu-memorial-scholarships, ourjourneys212, winners19) plus works/index.md listing and the known taiwanjustice BNO false positive. No new corpus facts. -->
 <!-- deepen-x 10101300-18: SKIP — verified-saturated re-verify fresh 2026-10-11: 黃久香/Elaine Liu/久香 grep across works/articles/sources/events/topics returns the identical absorbed set (ourjourneys212 合照, winners19 殊榮, elaine-liu-memorial-scholarships, whos930) plus works/index.md listing and the known taiwanjustice BNO substring false positive. Husband sweep (劉天良/Thomas Liu) hits only Thomas Liu's own records (ourjourneys186/214/240, mystories421) — none add Elaine Liu facts. No new corpus material. -->
 <!-- deepen-x 10080400-29: SKIP — verified-saturated re-verify fresh 2026-10-09: 黃久香/Elaine Liu/久香 grep across works/articles/sources/events/topics returns only the already-absorbed set (ourjourneys212 合照, winners19 殊榮, 紀念獎學金, whos930) plus index listings and the known taiwanjustice BNO false positive. Husband-name sweep (劉天良/Thomas Liu) hits Thomas Liu's own records (whos929, collection-of-mr-thomas-liu, awards79, ourjourneys186/214) — none add Elaine Liu facts; already reflected via Family link. No new material. -->
+<!-- deepen-x 10120018-24: SKIP — verified-saturated re-verify fresh 2026-10-12: 黃久香/Elaine Liu/久香 grep across works/articles/sources/events/topics returns the identical absorbed set (whos930, elaine-liu-memorial-scholarships, ourjourneys212 合照, winners19 殊榮) plus works/index.md listing and the known taiwanjustice BNO substring false positive. No new corpus material. -->
