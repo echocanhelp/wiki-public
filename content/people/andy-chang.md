@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Andy Chang (張繼昭博士)
 
@@ -73,3 +73,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090901-13: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-13 article e9ec20fd58bf6b1c (長青教室標籤頁 p6, 2024-06-21快照): subject link 張繼昭博士 re-checked vs 正文 this attempt (「長青教室心得報告 – 台灣國際外交的突破 – 張繼昭博士/2012-2-22」條目確認見於正文), real, no wrong/spurious links; 2012-02-22 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - Corpus re-grep 2026-10-11 (deepen-x slice 10101204-25): fresh ZH+EN+surname grep 張繼昭 / Andy Chang / 繼昭 / Chang-Chien / andy.chang across all 5 corpus dirs (works/articles/sources/events/topics) — hit set identical to the verified-saturated list (publications 174/205/1050/1051, whoswho1442, Our Journeys #107/#260, TAP LA River clean-up notice, TJJ 長青教室 tag page e9ec20fd58bf6b1c, plus registry/listing hits works/index.md and sources/taiwaneseamericanhistory-org.md). The two surname hits on 'Chang-Chien' (senior-taiwanese-american-36, whos-who-2239) are Lin Chang-Chien Chu (林張簡菊) — a different person, false positive, not linked. No new absorbable material. SKIP-with-reason: verified-saturated.
+
+- Corpus re-grep 2026-10-12 (deepen-x slice 10112243-25): fresh ZH+EN+variant grep 張繼昭 / Andy Chang / 繼昭 / andy.chang / Chang-Chien across all 5 corpus dirs (works/articles/sources/events/topics) — hit set identical to the verified-saturated list (his own essays publications 174/205/1050/1051, whoswho1442, Our Journeys #107/#260, TAP LA River clean-up notice, TJJ 長青教室 tag page e9ec20fd58bf6b1c; works/index.md and sources/taiwaneseamericanhistory-org.md are registry/listing hits only; the two 'Chang-Chien' hits senior-taiwanese-american-36 / whos-who-2239 are Lin Chang-Chien Chu 林張簡菊 — different person, false positive, not linked). No new absorbable material. SKIP-with-reason: verified-saturated.
