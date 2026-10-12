@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Rev. Wudong Huang (黃武東牧師)
 
@@ -34,6 +34,7 @@ last_reviewed: 2026-10-11
 - 牧養北美台灣人教會：應邀赴聖路易台灣人教會培靈、就加入美國長老教會（主流教派）提供諮詢，促成該會成為中西部第一間加入美國主流教會的台人教會（1988 登記「大聖路易台灣人長老基督敎會」）；並曾與張德香、王成章牧師代牧紐澤西台裔教會（謝敏川牧師 1986-11-02 就任前）；見 [[works/taiwaneseamericanhistory-org/ourjourneys305|Our Journeys 305（聖路易）]]、[[works/taiwaneseamericanhistory-org/ourjourneys14|Our Journeys 14（紐澤西）]]。
 - 著述另見本人專文《自決運動的開始及其活動》（2014-09）與《黃武東回憶錄》（1986-11）；2016-04 撰〈不幸的歷史上一頁〉說明《北美洲台灣基督教會開拓史》以手工貼附五頁「海外增業」增補之緣由；見 [[works/taiwaneseamericanhistory-org/13-e8-87-aa-e6-b1-ba-e9-81-8b-e5-8b-95-e7-9a-84-e9-96-8b-e5-a7-8b-e5-8f-8a-e5-85|TAH #13]]、[[works/taiwaneseamericanhistory-org/87-e9-bb-83-e6-ad-a6-e6-9d-b1-e5-9b-9e-e6-86-b6-e9-8c-84-e9-bb-83-e6-ad-a6-e6-9d|TAH #87 回憶錄]]、[[works/taiwaneseamericanhistory-org/ourjourneys220|Our Journeys 220]]。
 - 語料庫複核 2026-10-09（deepen-x slice 10081018-32）：ZH+EN grep 跨五語料目錄命中 20 檔；較前輪新增吸收 ourjourneys09（台灣會館顧問）、283（世台會「台灣風土文物」演講）、305（聖路易培靈與主流教派諮詢）、14（紐澤西代牧）、220（開拓史增補說明）及本人專文 TAH #13／#87；ourjourneys262 命中經核為他人記事、非黃武東事實，未吸收。
+- 家族參與社群：其孫女 Alicia Hwang（哥倫比亞大學研究生）負責 1994 年 TAF 青少年夏令營中學組，編纂教材輔導台美第二代認識家庭、教育與社會，顯示黃家第二代投入台美人青年培育工作；見 [[works/taiwaneseamericanhistory-org/ourjourneys262|Our Journeys 262（1994 TAF 夏令營，卓甫良，10/2016）]]。
 
 <!-- tah-tables:start -->
 ## Education
