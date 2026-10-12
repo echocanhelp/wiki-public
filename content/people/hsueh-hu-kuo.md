@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Hsueh-Hu Kuo (郭雪湖)
 
@@ -75,7 +75,11 @@ For more bio information, please click link in Who's Who: 890. Hsueh-Hu Kuo 郭�
 - **晚年定居望海山莊 (Bay Area):** Per [[works/taiwaneseamericanhistory-org/our-journeys-357||Our Journeys #357]], Kuo spent his later years at 「望海山莊」 in Richmond, California (east Bay), named because from its windows he could see the ocean and a mountain silhouette resembling 觀音山 — "只要心裡有臺灣，站在舊金山也可以望見觀音山." The essay uses his late-life residency as an emblem of overseas Taiwanese 思鄉 sentiment among Bay Area Taiwanese-American community leaders.
 - **Purple Omiya-dori connection:** The 2016 三立電視臺 (SET TV) adaptation of [[people/li-fa-xie||謝里法 (Hsieh Li-fa)]]'s novel 《紫色大稻埕》 filmed a scene at Kuo's 望海山莊 in Richmond ([[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]]).
 
-## Role in the Community (corpus re-pass 2026-10-11, slice 10101000-5)
+## Role in the Community (corpus re-pass 2026-10-12, slice 10110700-7)
+- Fresh grep across all five corpus dirs re-confirmed the known hit set only: the six TAH encyclopedia records ([[works/taiwaneseamericanhistory-org/senior-taiwanese-american-9|#9]], [[works/taiwaneseamericanhistory-org/videos36|#36]], [[works/taiwaneseamericanhistory-org/artist59-hsueh-hu-kuo|#59]], [[works/taiwaneseamericanhistory-org/127-hsueh-hu-kuo|#127]], [[works/taiwaneseamericanhistory-org/mystories417|#417]], and #890 Who's Who) plus [[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]] (晚年望海山莊, Richmond CA) and the 蔡英文 2017 伴手禮 article. The three encyclopedia stubs above each back-link this page as a named subject; no new dated facts surfaced.
+- One apparent hit, [[works/taiwaneseamerican-org/taiwanese-american-jing-mei-memorial-park|Taiwanese American Jing-Mei Memorial Park]], was a false positive: it matches on 薛化元 (Hsueh Hua-yuan), a different person — not Kuo.
+- **HOLD:** none — no conflicting dates or ages found this pass.
+
 - **Works as diplomatic state gifts:** President 蔡英文's 2017 Central America state-visit伴手禮 included a reproduction of Kuo's 「大稻埕-南街殷賑」, prepared by the 總統府 as one of eight gift items — his painting served as an official emblem of Taiwan abroad ([[articles/taiwanjustice-net/2024/20240421175533_root_8916bf9c15fba1ce|台派媒體報導, 2017-01-06/快照 2024-04-21]]).
 - His documented footprint in the vault corpus is the six TAH encyclopedia records wikilinked above (#9, #36, #59, #127, #417, #890) plus [[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]] (晚年望海山莊, Bay Area); no other corpus document names him.
 - **HOLD:** none — no conflicting dates or ages found this pass.
