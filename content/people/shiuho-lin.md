@@ -7,8 +7,8 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
-absorbed: "timeline + wikilinks built from on-page TAH profile tables (deepen-x 09100316-24); committee composition detail absorbed (deepen-x 10090400-17)"
+last_reviewed: 2026-10-12
+absorbed: "timeline + wikilinks built from on-page TAH profile tables (deepen-x 09100316-24); committee composition detail absorbed (deepen-x 10090400-17); TASC wikilink + chairman-sequence corroboration (deepen-x 10120000-17)"
 ---
 # Shiuho Lin (林秀合)
 
@@ -51,7 +51,7 @@ Built from the on-page TAH profile tables (no new facts added):
 - President — [[organizations/taiwanese-american-association-new-york|TAA New York Chapter 紐約台灣同鄉會]]
 - President — [[works/taiwaneseamericanhistory-org/ghee-lan-association-of-usa|Ghee-Lan Association of USA 美國宜蘭同鄉會]]
 - President — [[works/taiwaneseamericanhistory-org/natwa-new-york-chapter|NATWA New York Chapter 北美洲台灣婦女會紐約分會]]
-- Executive Director — NY Taiwanese American Senior Center (紐約台灣會館老人中心)
+- Executive Director — [[organizations/taiwanese-senior-citizen-center|Taiwanese American Senior Center (TASC) 紐約台灣會館老人中心]] — seated as 執行長 by the management committee at the end of 2003 under chair [[people/dr-hong-tien-lai|賴弘典]] ([[works/taiwaneseamericanhistory-org/ourjourneys316|Our Journeys #316]]); corroborated by the Center's own record, which also lists the chairman sequence (何錦華, 吳發鎮, 彭吉浦, 周秀琴, 陳金英, 黃才春, 胡慶祥, 林淑滿) that succeeded the committee phase
 - Co-coordinator — Taiwanese American Conference / East Coast (美東台灣人夏令會)
 - Main Representative — NGO Gray Panthers (UN)
 
