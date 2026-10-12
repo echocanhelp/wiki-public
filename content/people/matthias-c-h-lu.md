@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Matthias C. H. Lu (盧志華)
 
@@ -94,3 +94,5 @@ HOLD: conflict — spouse page linked as 江美惠 vs corpus work page listing �
 <!-- TJJ-A10100501-2: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-2 article f06677a469620539 (卓甫良與TAF的故事, 楊遠薰, 2021-06-22 刊, 2021-12-05 快照): 盧志華任TAF第六任會長（1991年起，1989 Brad Smith評鑑後啟用林志文等第二代）re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- DEEPEN-X10101000-30: verified 2026-10-11 — fresh grep 盧志華/Matthias across all 5 corpus dirs (works/articles/sources/events/topics) returned the identical already-absorbed hit set (whoswho1077, ourjourneys33-eng, works/index, 楊遠薰《卓甫良與TAF的故事》三存檔 f06677a4／e7aad53f／b4206bcf) — no new material beyond existing Role in the Community / From the record entries — saturated, SKIP. -->
+
+<!-- DEEPEN-X10110700-31: verified 2026-10-12 — fresh grep 盧志華/Matthias across all 5 corpus dirs (works/articles/sources/events/topics) returned the identical already-absorbed hit set (whoswho1077, ourjourneys33-eng, works/index, 楊遠薰《卓甫良與TAF的故事》三存檔 f06677a4／e7aad53f／b4206bcf, sources/taiwaneseamericanhistory-org) plus the known false positive Matthias Warnig (Nord Stream 2, unrelated Biden–Putin coverage) — verified saturated, no new material. -->
