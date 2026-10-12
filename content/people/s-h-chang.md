@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-12
 ---
 # S. H. Chang (張舜華)
 
@@ -57,3 +57,5 @@ last_reviewed: 2026-10-09
 Corpus re-check (deepen-x slice 10080600-30, 2026-10-09): exact 張舜華 / S. H. Chang grep across works/articles/sources/events/topics returns only the records already absorbed above (ourjourneys160, whoswho1037, ourjourneys238, the 2018 連署 article, works/index). Surname-only sweep 「舜華」 additionally hits [[works/taiwaneseamericanhistory-org/ourjourneys38|ourjourneys38]], ourjourneys106, ourjourneys24 and whoswho1066 — all of them 余舜華 (Shun Hua Yu, 北加州聯合會會長), a different person; HOLD: 永不合併. Verified saturated, SKIP.
 Corpus re-check (deepen-x slice 10070018-2, 2026-10-08): fresh exact 張舜華 grep across works/articles/sources/events/topics returns only ourjourneys160, whoswho1037, the 2018 連署 article, works/index and the sources hub — all already absorbed above. Husband-name sweep (郭倍宏) adds nothing beyond ourjourneys238 (already absorbed) and works/index. The 「SH Chang」 author-signature collision (see HOLD above) stays excluded. Verified saturated, SKIP, no conflicts.
 Corpus re-check (deepen-x slice 10091500-23, 2026-10-10): exact 張舜華 / S. H. Chang / 舜華 grep across works/articles/sources/events/topics returns the identical hit set already absorbed above (ourjourneys160, whoswho1037, ourjourneys238, 2018 連署 article, works/index, sources hub; 舜華-surname hits = 余舜華, HOLD 永不合併). Husband-name sweep (郭倍宏) hits ourjourneys280, ourjourneys123-eng, our-journeys-381, ourjourneys259, mystories474, ourjourneys237, ourjourneys33 — all mention 郭倍宏 himself only, none names 張舜華, so no new material about her. 「SH Chang」 signature collision (fat-and-furious) stays excluded per HOLD. Verified saturated, SKIP, no conflicts.
+
+Corpus re-check (deepen-x slice 10102129-29, 2026-10-12): exact 張舜華 / S. H. Chang / 舜華 grep across works/articles/sources/events/topics returns the unchanged saturated hit set (ourjourneys160, ourjourneys238, whoswho1037, 2018 連署 article, works/index, sources hub; 舜華 hits = ourjourneys38/106/24 + whoswho1066 = 余舜華, HOLD 永不合併). Extended husband sweep (郭倍宏, 19 files incl. whoswho1036, mystories455, publication1313, ourjourneys234/245/230/123/376/381) — none of those files contains 張舜華 or 舜華 at all, so no new material about her. EN-alias sweep (Shun-Hwa / Shunhua / S. H. Chang) adds nothing beyond whoswho1037 + works/index. Verified saturated, SKIP, no conflicts.
