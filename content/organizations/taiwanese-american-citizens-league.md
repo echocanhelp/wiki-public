@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Taiwanese American Citizens League
 
@@ -40,6 +40,12 @@ The corpus documents TACL's founding leadership and chapter network across the T
   HOLD: NJ chapter operating span — the community survey [[works/taiwaneseamericanhistory-org/ourjourneys356|356. 紐澤西州的台美團體]] lists 台美公民協會紐澤西分會 as 「三年就停止運作」, while the 2014-12-29 chapter record and the 1993 tournament account document active operations; spans never merged.
 
 HOLD: conflict in name — the corpus record titles the organization "Taiwanese American Citizen League" (singular) while this page and the TAH directory use "Taiwanese American Citizens League"; never merged.
+
+- **25th-anniversary gala, 2010 — national leadership named.** TACL's 25th-anniversary gala/casino night at Café Pinot, downtown Los Angeles, drew over 300 community members; **Ben Ling was TACL National President** directing the event, with TAP Chairman of the Board Teddy Liaw as emcee, and the 2010 honorees were civil-rights lawyer Karin Wang and SF Board of Supervisors President David Chiu — [[works/taiwaneseamerican-org/reflecting-on-the-taiwanese-american-citizens-leagues-25-year-history-and-legacy|Reflecting on TACL's 25 Year History and Legacy]].
+- **30th-anniversary gala, 2015-09-05 (NYC).** The 30th-anniversary black-tie gala was held at the Manhattan Penthouse, NY, timed with the TAP National Convention "Our Next Chapter" with TAP chapters from NYC, Atlanta, Austin, Boston, DC, LA, SF, SD and Seattle — [[works/taiwaneseamerican-org/tacl-30th-gala|NYC Gala Celebrates TACL's 30th Anniversary]].
+- **Leadership Conference → Global Leadership Organization.** The TACL Leadership Conference is recorded as having later become **Global Leadership Organization (GLO)** — [[works/taiwaneseamerican-org/jonathan-chen|Jonathan Chen profile]], which also documents the conference's leadership curriculum designed with community leader Teddy Liaw.
+- **台美人活動中心 committee roster (1993).** The committee's founding roster names TACL's representative as **蔡丁財** (alongside 同鄉會趙紀諭、台灣學校蔡炳全、台商會吳文馨、長春會歐壽昌、基金會莊承業、熱心同鄉李紗英); first meeting 1993-02-08, term to 1993-04-30 — [[works/taiwaneseamericanhistory-org/ourjourneys233|233. 回顧休士頓台灣人活動中心的成立 / 莊承業 /07/2016]] (expands the committee mention above, previously unlinked).
+- **Church–TACL overlap (memoir).** A Presbyterian church memoir records TACL (台美公民協會) among the organizations — with 南加州台灣同鄉會、南加州台灣長輩會 — where church members played important roles in the 1990s visibility campaigns (台灣加入聯合國 resolutions at presbytery and General Assembly levels) — [[works/taiwaneseamericanhistory-org/ourjourneys231|231. 洛杉磯台灣基督長老教會 /邱惠美、李永碩 /12/2020]]; a Bay Area 同鄉聯合會-style memoir (台灣協志會) similarly lists 台美公民協會 among Bay Area社团 whose members held key officer posts in TACL and peer groups — [[works/taiwaneseamericanhistory-org/ourjourneys37|37. 台灣協志會成立與大事記 /紀哲嘉/2014/09]].
 
 ## From the record
 
