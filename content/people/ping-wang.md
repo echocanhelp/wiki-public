@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Ping Wang (王秉訓)
 
@@ -67,6 +67,7 @@ Corpus re-check 2026-09-26 (deepen-x slice 09251000-16): fresh ZH+EN grep — hi
 <!-- TJJ-A10090501-20: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-20 article 26f763595b5ce4fb (糖尿病與你◎王秉訓教授演講記錄, 2019-10-31 刊 / 2024-05-22 快照) read fresh this attempt: subject link re-checked vs 正文 (標題「◎ 王秉訓 教授」+ 正文主講糖尿病與你內容確認本人為演講主角), real, no wrong/spurious links; 2019-10-31 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- deepen-x slice 10091316-16 re-verify 2026-10-10: fresh ZH+EN+surname grep (王秉訓 / Ping Wang / 秉訓) across works/articles/sources/events/topics — hit set identical (whoswho1194, 200-hann-ping-wang=王漢平 same-romanization false positive, works index, TJJ MANIFEST, two cited TJJ pages, sources/taiwaneseamericanhistory-org). 王漢平 disambiguation re-checked and stands. Verified-saturated; no new absorbable facts. -->
 <!-- TJJ-A10100601-19: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-19 article 26f763595b5ce4fb (糖尿病與你◎王秉訓教授演講記錄, 刊 2019-10-31 / 快照 2024-05-22) read fresh this attempt: subject link re-checked vs 正文 (標題「◎ 王秉訓 教授」+ 正文主講糖尿病與你確認本人為演講主角), real, no wrong/spurious links; 2019-10-31 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- deepen-x slice 10102129-25 re-verify 2026-10-11: fresh ZH+EN+partial grep (王秉訓 / Ping Wang / 秉訓) across works/articles/sources/events/topics — hit set identical (whoswho1194, 200-hann-ping-wang=王漢平 same-romanization false positive, works index, TJJ MANIFEST, two cited TJJ pages, sources/taiwaneseamericanhistory-org). 王漢平 disambiguation re-checked and stands. Verified-saturated; no new absorbable facts. -->
 
 ## 照片
 
