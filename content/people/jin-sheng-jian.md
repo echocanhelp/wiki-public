@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-12
 ---
 # Jin-Sheng Jian (簡金生)
 
@@ -66,3 +66,5 @@ _Re-grep (slice 09260800-5, 2026-09-30): fresh ZH 簡金生 + EN 'Jin-Sheng Jian
 _Corpus re-scan (slice 10081009-14, 2026-10-09): fresh ZH 簡金生 + EN 'Jin-Sheng Jian' grep (with surname-only '金生' sweep) returns the same six work hits (#81, #234, #59, #272, #378, Who's Who #2229, plus EN parallel editions #81-eng/#272-eng). The surname sweep's extra hits in #33 and #256 are false positives — 林金生 (KMT-nominated 縣長 candidate) and 鄭金生 (Oklahoma 圖買 supporter), distinct persons, not aliases. No new dates, roles, or orgs; no conflicts to HOLD. Verified-saturated._
 
 _Corpus re-scan (slice 10100600-19, 2026-10-11): fresh ZH 簡金生 + EN Jin-Sheng Jian + surname-only 金生 grep across works/articles/sources/events/topics returns the same six work hits (#81, #234, #59, #272, #378, Who's Who #2229, plus EN parallel editions #81-eng/#272-eng). The surname sweep extra hits in ourjourneys33, ourjourneys256 and the taiwanjustice-net articles are false positives — 林金生 (KMT-nominated 縣長 candidate, also named in the 高一生 case articles), 鄭金生 (Oklahoma 圖買 supporter), and 美金生意 substring noise; distinct persons, not aliases. No new dates, roles, or orgs; no conflicts to HOLD. Verified-saturated._
+
+_Corpus re-scan (slice 10110200-22, 2026-10-12): fresh ZH 簡金生 + EN Jin-Sheng Jian grep across all 5 corpus dirs returns the identical hit set (#81, #234, #59, #272, #378, Who's Who #2229, plus EN parallel editions #81-eng/#272-eng); all facts already absorbed — no new dates, roles, or orgs; no conflicts to HOLD. Verified-saturated (11th consecutive pass, same hit set)._
