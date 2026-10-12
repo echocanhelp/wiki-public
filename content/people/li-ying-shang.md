@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Li-Ying Shang (商麗鶯)
 
@@ -80,3 +80,5 @@ _Disambiguation note (deepen-x 10081018-25, 2026-10-09): surname/variant grep (L
 <!-- TJJ-A10090901-13: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090901-13 article e9ec20fd58bf6b1c (長青教室標籤頁 p6, 2024-06-21快照): subject link 商麗鶯 re-checked vs 正文 this attempt (「長青教室 心得報告:『聽故事, 吟詩歌』/ 講員:商麗鶯老師/10-16-2012」條目確認見於正文), real, no wrong/spurious links; 2012-10-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 _Corpus re-grep 2026-10-11 (deepen-x slice 10100800-2): ZH+EN+surname grep (商麗鶯 / Li-Ying Shang / Li-Ying) across all 5 corpus dirs returns the same 6 linked works (concerts81, musical-concerts-150, #17, #180, #13051, #107) plus the TJJ 長青教室 tag page, works/index, sources/taiwaneseamericanhistory-org — all already absorbed. Surname-only hits whoswho1206 / musician353 belong to **Li-Ying Chang 張理盈** (pianist) and ourjourneys60-eng to **Li-Ying Lee** (NATWA president), different persons — not linked. Verified saturated, no new facts, no conflicts._
+
+_Corpus re-grep 2026-10-12 (deepen-x slice 10110316-9): ZH+EN+surname grep (商麗鶯 / Li-Ying Shang / Li-Ying) across all 5 corpus dirs returns the same 6 linked works (concerts81, musical-concerts-150, #17, #180, #13051, #107); whoswho1206 confirmed to belong to **Li-Ying Chang 張理盈** ([[people/li-ying-chang|Li-Ying Chang]]), not this page. Verified saturated, no new facts, no conflicts._
