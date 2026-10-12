@@ -53,6 +53,8 @@ The Austin Taiwanese Association memoir adds biographical and blacklist detail: 
 
 複核（deepen-x slice-10110000-5, 2026-10-12）：re-grep 簡忠松 / J. S. Chien / Jong-Song / 忠松 across all 5 corpus dirs returned the same 19 work-level hits already absorbed above; the two nominally-new hits (works/index.md, sources/taiwaneseamericanhistory-org.md) are catalog listings of #1364/#268, not new material, and our-journeys-370 again matched only on Jong-Song Lee / 簡單 — false positive. Saturated — SKIP, 無新材料。
 
+複核（deepen-x slice-10120315-4, 2026-10-12）：re-grep 簡忠松 / J. S. Chien / Jong-Song Chien / 忠松 across all 5 corpus dirs returned the same 17 work-level hits already absorbed above (ourjourneys106, ourjourneys233 ±eng, ourjourney-343, mystories121 ±eng, #474–480, #199, #248, #1364, #268); works/index.md and sources/taiwaneseamericanhistory-org.md are catalog listings, not new material. Saturated — SKIP, 無新材料。
+
 ## Sources
 - [TAH #1364 encyclopedia: 1364. 宜中耆老憶往述今–簡忠松專輯 | 簡忠松 /02/2022/ Autobiography/自傳](https://taiwaneseamericanhistory.org/publications-1364/)
 - [TAH #268 encyclopedia: 268.  J. S. Chien 簡忠松/2015/02](https://taiwaneseamericanhistory.org/whos-who-268/)
