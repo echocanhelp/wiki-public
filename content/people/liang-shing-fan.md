@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Liang-Shing Fan (范良信)
 
@@ -58,3 +58,4 @@ last_reviewed: 2026-10-11
 <!-- deepen-x slice 10071520-1 re-verify 2026-10-09: fresh ZH+EN grep (范良信 / Liang-Shing Fan) over works/articles/sources/events/topics — hit set identical (ourjourneys234, ourjourneys81 + -eng, ourjourneys123 + -eng, whos657); all passages (校園分發名單, 1966-06-18 費城會談 Kansas 區代表, UFAI 執委/中委名單, 1991 明州演講《經濟與統獨》) already absorbed verbatim into Role in the Community. Verified-saturated, nothing new absorbable. -->
 <!-- deepen-x slice 10090800-7 re-verify 2026-10-10: fresh ZH+EN+alias grep over works/articles/sources/events/topics — hit set identical (ourjourneys234, ourjourneys81 + -eng, ourjourneys123 + -eng, whos657); NEW: 第二屆盟員大會 1967-06-16 執行委員會「外交」委員 absorbed into Role in the Community (ZH roster + EN "Diplomacy: Liang-Shing Fan" cross-confirm; also corroborated via people/wen-chi-chang.md). Central-committee continuity 1966→1967 consistent, no conflict. -->
 <!-- deepen-x slice 10100900-23 re-verify 2026-10-11: fresh ZH+EN+alias grep (范良信 / Liang-Shing Fan / 良信) over works/articles/sources/events/topics — hit set identical (ourjourneys234, ourjourneys81 + -eng, ourjourneys123 + -eng, whos657); all passages (校園分發名單, 1966-06-18 費城會談 Kansas 區代表, UFAI 執委兼組織/中委名單, 1967 第二屆外交委員, 1991-06 明州演講《經濟與統獨》) already absorbed verbatim into Role in the Community. Verified-saturated, nothing new absorbable. -->
+<!-- deepen-x slice 10110600-24 re-verify 2026-10-12: fresh ZH+EN grep (范良信 / Liang-Shing Fan / 良信) over works/articles/sources/events/topics — hit set identical (ourjourneys234, ourjourneys81 + -eng, ourjourneys123 + -eng, whos657); all passages (校園分發名單, 1966-06-18 費城會談 Kansas 區代表, UFAI 執委兼組織/中委名單, 1967 第二屆外交委員, 1991-06 明州演講《經濟與統獨》) already absorbed verbatim into Role in the Community. Verified-saturated, nothing new absorbable. -->
