@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Dean Liang (梁基典)
 
@@ -73,3 +73,4 @@ Corpus re-grep 2026-09-21 (slice 09210051-10): the only works/articles hits — 
 <!-- TJJ-A100606005-a: verified 2026-10-09 — wave-2 link+deepen re-check of article a428dcebbceacf38 (抗議 南加州台大校友會邀管中閔來年會做專題演講, 國立台灣大學校友連署, 2018-07-20): subject link re-checked vs 正文 this attempt — name 確認見於連署名單（含系所標註與本頁一致）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- DEEPEN-X10090315-17: 2026-10-10 — fresh 5-dir grep 梁基典/Dean Liang/基典 returned the identical hit set (own TAH #2206, mystories16, ourjourneys58 donation roster, TJJ 2018 co-sign letter, works index, sources page); all already linked above, no new community facts, no conflicts. Verified-saturated — SKIP-with-reason. -->
 <!-- DEEPEN-X10101204-28: 2026-10-11 — fresh 5-dir grep 梁基典/Dean Liang/基典 returned the identical hit set (own TAH #2206, mystories16, ourjourneys58 donation roster, TJJ 2018 co-sign letter, works index, sources page); all already linked above, no new community facts, no conflicts. Verified-saturated — SKIP-with-reason. -->
+<!-- DEEPEN-X10112243-27: 2026-10-12 — fresh 5-dir grep 梁基典/Dean Liang/基典 returned the identical hit set (own TAH #2206, mystories16, ourjourneys58 donation roster, TJJ 2018 co-sign letter, works index, sources page); all already linked above, no new community facts, no conflicts. Verified-saturated — SKIP-with-reason. -->
