@@ -34,6 +34,8 @@ Corpus evidence shows his taiwanjustice.net columns first ran under his real nam
 
 The 廖清山 byline window extends further than the 2017 snapshot: 2021 taiwanjustice.net category archives list 廖清山 among the site's regular columnists alongside 李筱峰, 金恆煒, 何清漣 and 黃帝穎 (e.g. [[articles/taiwanjustice-net/2021/20210129182735_category_taiwan-news_voting-fraud_057b3a3699323454||category archive, 2021-01-29]]; see also 2021-11-29 / 2021-12-05 category snapshots) — so the byline sequence runs 廖清山 (2017–2021 archive record) → 江百顯 (2024–2025 title hits), with no gap evidence either way. HOLD: no corpus record yet establishes when the pen-name switch happened.
 
+A later harvest snapshot complicates the "sequence" reading: a 2026-01-13 tag page lists the site's column categories with 江百顯(廖清山)專欄 and 廖清山專欄 appearing side by side ([[articles/taiwanjustice-net/2026/20260113113547_tag_日本擬將脊髓性肌萎症藥物定價逾4500萬台幣_b15140f2ad573048||tag snapshot, 2026-01-13]]) — i.e. as of 2026 both byline labels still exist on the site (category listing only, not byline text). HOLD: treat the byline relationship as coexisting pen-name labels rather than a clean 廖清山 → 江百顯 switch until an article-level record settles it.
+
 
 
 ## TJ Citations
