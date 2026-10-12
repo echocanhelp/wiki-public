@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Zoe Huang (黃瑞芬)
 
@@ -115,3 +115,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10100601-24: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-24 article bfc5f319a036a339 (黃瑞芬訃聞, taiwanjustice.net, 2022-01-29 刊/2022-05-19 快照): 黃瑞芬 — 本人為訃聞主角，訃聞事實（2022-01-15心肌梗塞過世享年58歲）與1995 TUF LA演出回憶俱見正文 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - 覆核（DEEPEN-X10101000-10, 2026-10-11）：全語料 fresh grep（黃瑞芬／Zoe Huang／佐依子，works/articles/sources/events/topics）——唯一未記於本頁之提及為楊子清音樂教室網站轉載訃聞之索引頁 [[articles/taiwanjustice-net/2023/20231208135418_root_9295254ae421b0ad|TJJ 轉載索引, 2023-12-08]]（僅列訃聞標題與連結，無新事實）；其餘 hit（TAH #221/#373、Our Journeys #301 林衡哲會史、兩篇 TJJ 訃聞）皆已吸收於上列各節 — 飽和，無新材料。
+
+<!-- TJJ-A10110201-32: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110201-32 article bfc5f319a036a339 (黃瑞芬訃聞, taiwanjustice.net, 2022-01-29 刊/2022-05-19 快照): SUBJECTS re-read vs 正文 this attempt — all 6 links real (1995-07-29 TUF「台灣名家演奏系列」LA音樂會: 聲樂黃瑞芬, 鋼琴葉綠娜, 小提琴蘇顯達/黃維明, 中提琴吳昭麗, 大提琴陳建安; 節目含呂泉生〈搖嬰仔歌〉、蕭泰然〈嘸通嫌台灣〉; 黃瑞芬本人为訃聞主角 2022-01-15 心肌梗塞過世享年58), no wrong/spurious links; 蘇顯達/葉綠娜 mentioned in 正文 but have no people/ pages (grep-verified), correctly absent from Subjects; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -11,7 +11,7 @@ tags:
   - tah-whos-who
   - Taiwanese-American
 verification_status: pending
-last_reviewed: 2026-09-27
+last_reviewed: 2026-10-12
 ---
 # Tyzen Hsiao (蕭泰然)
 
@@ -283,3 +283,5 @@ TAH employment (unparsed string): Tainan Univ. of Technology assoc. prof.; Wenza
 <!-- TJJ-A10100701-10: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-10 article 11aa2dfa5f64d7e4 (楊子清 tag頁, TJJ 2020-09-30 / 2021-01-17 快照): 「TUF 台灣文化之夜 1994 – …蕭泰然…」及 1993 曾道雄/陳麗蟬/蕭泰然 演唱會影音紀錄條目確認見於正文; subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100901-26: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-26 article 996879ac7a006acf（全美台灣人權協會第44屆年會暨鄭南榕紀念獎頒獎, 發文 2020-11-25 / Wayback 快照 2021-01-18）: 蕭泰然 link re-checked vs 正文 this attempt — 「台派台灣芭蕾舞團配合蕭泰然樂曲的表演」確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10110201-32: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110201-32 article bfc5f319a036a339 (黃瑞芬訃聞, taiwanjustice.net, 2022-01-29 刊/2022-05-19 快照): SUBJECTS re-read vs 正文 this attempt — all 6 links real (1995-07-29 TUF「台灣名家演奏系列」LA音樂會: 聲樂黃瑞芬, 鋼琴葉綠娜, 小提琴蘇顯達/黃維明, 中提琴吳昭麗, 大提琴陳建安; 節目含呂泉生〈搖嬰仔歌〉、蕭泰然〈嘸通嫌台灣〉; 黃瑞芬本人为訃聞主角 2022-01-15 心肌梗塞過世享年58), no wrong/spurious links; 蘇顯達/葉綠娜 mentioned in 正文 but have no people/ pages (grep-verified), correctly absent from Subjects; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

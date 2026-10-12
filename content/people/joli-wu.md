@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Joli Wu (吳昭麗)
 
@@ -123,3 +123,5 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A10091401-8: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10091401-8 article 64302d51d03b3c5f (黃瑞芬訃聞, taiwanjustice.net, 2022-01-29 刊/2024-02-25 快照): Subjects re-read vs 正文 this attempt — all 6 links real (1995-07-29 TUF「台灣名家演奏系列」LA音樂會: 聲樂黃瑞芬, 鋼琴葉綠娜, 小提琴蘇顯達/黃維明, 中提琴吳昭麗, 大提琴陳建安; 節目含呂泉生〈搖嬰仔歌〉、蕭泰然〈嘸通嫌台灣〉), no wrong/spurious links; 蘇顯達/葉綠娜 mentioned in 正文 but have no people/ pages (grep-verified), correctly absent from Subjects; all 6 subject pages dated facts w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10100601-24: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-24 article bfc5f319a036a339 (黃瑞芬訃聞, taiwanjustice.net, 2022-01-29 刊/2022-05-19 快照): 吳昭麗 — 1995-07-29 TUF LA音樂会同台中提琴記述 re-checked vs 正文 this attempt, real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10110201-32: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110201-32 article bfc5f319a036a339 (黃瑞芬訃聞, taiwanjustice.net, 2022-01-29 刊/2022-05-19 快照): SUBJECTS re-read vs 正文 this attempt — all 6 links real (1995-07-29 TUF「台灣名家演奏系列」LA音樂會: 聲樂黃瑞芬, 鋼琴葉綠娜, 小提琴蘇顯達/黃維明, 中提琴吳昭麗, 大提琴陳建安; 節目含呂泉生〈搖嬰仔歌〉、蕭泰然〈嘸通嫌台灣〉; 黃瑞芬本人为訃聞主角 2022-01-15 心肌梗塞過世享年58), no wrong/spurious links; 蘇顯達/葉綠娜 mentioned in 正文 but have no people/ pages (grep-verified), correctly absent from Subjects; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
