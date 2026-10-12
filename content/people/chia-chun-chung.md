@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Chia-Chun Chung (鍾佳君)
 
@@ -95,3 +95,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10100901-6: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-6 article b5e568ec43e787f1 (《好國好民》Dear Taiwan美國巡迴放映座談會, 2011-10-15刊/2024-07-18快照): 鍾佳君以本片英文翻譯身分（張皓博、鍾佳君兩位青年）拜訪美國各城市舉辦放映座談會 re-checked vs 正文 this attempt, real, no wrong/spurious links; 2011-10-15 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- DEEPEN-X10101300-23: verified 2026-10-11 — fresh ZH+EN+surname(佳君) re-grep across all 5 corpus dirs. Hit set unchanged (whos-who-1721, Pew TA statement, TA youths' self-determination statement, 2 TJJ Dear Taiwan tour notices, 228 memory interview) — all already linked on this page. Two surname-only false positives confirmed as different persons: whos1290 胡佳君 (Chia Chun Jessica Hu) and 證期局副局长 郭佳君 (SPAC news article f83d4cc8c3159cbd). No memoir/club material beyond FAPA Mass presidency — verified-saturated, 0 new links. -->
+
+<!-- DEEPEN-X10120018-31: verified 2026-10-12 — fresh ZH+EN+surname(佳君) re-grep across all 5 corpus dirs; exact-name hit set unchanged (whos-who-1721, Pew TA statement, TA youths self-determination statement, 2 TJJ Dear Taiwan tour notices, 228 memory interview, sources index) — all already linked on this page. 胡佳君 whos1290 remains a surname-only false positive (different person). No memoir/club material beyond FAPA Mass presidency — verified-saturated, 0 new links. -->
