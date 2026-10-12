@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Taiwanese Association of America Northern New Jersey (北澤西)
 
@@ -40,6 +40,9 @@ The corpus holds these TAA/NNJ community records:
 - Earlier scholarship record: [[works/taiwaneseamericanhistory-org/18-taiwanese-association-of-america-northern-new-jersey-chapter-taa-nnj-scholars|Work #18, TAA-NNJ Scholarship Award scholars]] (bibliographic record, predates the 2017 award record above).
 - 2014 language seminar: the 紐澤西台灣人社團 台語教師研習會 (2014-08-30 to 09-01, three days) was held at 北澤西佳壇台語教會, with 僑務委員蔡榮聰醫師 hosting and 鄭安住老師 as featured lecturer; co-organizers included 北澤西台灣同鄉會, 大紐約區海外台灣人筆會, NATMDA 大紐約分會, and 福爾摩莎新澤西州醫師協會. Recorded in [[works/taiwaneseamericanhistory-org/ourjourneys42|Our Journeys #42 (《台語文之美妙》台語教師研習會, 柯金寅報導 2014-10)]].
 - Corpus re-check (2026-10-10, deepen-x slice 10090700-26, vault-only): fresh grep 北澤西|TAA-NNJ|Northern New Jersey found four previously unlinked records now absorbed above — OJ#356 (founding, 許盛男, 1981), OJ#42 (2014 seminar at 佳壇教會), work #18 (scholars), and the chapter-profile work; no date/office conflicts (2014 vs 2016 seminars are distinct events).
+- Disambiguation note: the corpus also holds records naming **TAANJ — Taiwanese American Association of New Jersey** (David Tsay and Monica Chuang Hsieh listed in [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Research Center Taiwanese American statement]]; musician credits in [[works/taiwaneseamerican-org/the-lintet-jazz-band|The Lintet Jazz Band]]). TAANJ is a **separate organization** from TAA-NNJ (Taiwanese Association of America Northern New Jersey) — do not merge rosters or histories.
+- Venue context: 柯金寅's report (republished at [[articles/taiwanjustice-net/2025/20250807042625_教會旁邊搭戲台_福音_和_歌仔戲_結合的_66aba4129064773b|教會旁邊搭戲台：福音和歌仔戲結合]], 2022-07-04) records a 劉南芳教授 歌仔戲/福音 talk held at 北澤西佳壇台語基督長老教會 — the same 佳壇 church venue as the 2014 seminar above, confirming the northern New Jersey language-church circle as a recurring cultural host.
+- Corpus re-check (2026-10-11, deepen-x slice 10101500-20, vault-only): fresh grep 北澤西|北泽西|TAA-NNJ|Northern New Jersey|TAANJ across all 5 corpus dirs — chapter hit set identical to prior re-checks (history, activities, projects-5-15, pine-green-institutes, OJ#219, OJ#12, OJ#356, OJ#42, #18, #80, #175, newsletter, chapter-profile), all linked above. Two new classes of hits absorbed as notes only: TAANJ disambiguation (separate org, not merged) and the 佳壇 venue article. No date/office conflicts. Chapter record itself verify-saturated.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america-northern-new-jersey/)
