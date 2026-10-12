@@ -35,6 +35,11 @@ In the movement record Zeng is not primarily a press-kit bio — he is a **perfo
 - **Opinion writer.** Beyond the 6 archived columns, the corpus carries his essay 「台灣生死的抉擇」 (2020-01-10, sourced from 自由時報), arguing against reliance on external guarantees for Taiwan's future through the Hong Kong and Xinjiang cases. → [[articles/taiwanjustice-net/2025/20250618184758_199287_5916b4e992bb6156|台灣生死的抉擇 ◎ 曾道雄]]
 - **Pedagogical lineage.** 楊子清 ([[people/yang-ziqing|楊子清]])'s 音樂短講 series 18–19 build on Zeng's own 年表 to introduce his teachers — notably the founding teachers of the UCLA Opera Workshops and Dr. Jan Popper — indicating a UCLA opera lineage behind his stage work.
 
+## From the record
+
+- **1993** — 「曾道雄/陳麗蟬/蕭泰然 演唱會影音紀錄 — TUF 台灣名家演奏系列 1993 之二」，由楊子清提供，2017-02-04 刊於 taiwanjustice.net 楊子清 tag 頁；此條目為曾道雄參與 TUF 台灣名家演奏系列（1993 場次之二）的影音紀錄旁證。 [[articles/taiwanjustice-net/2021/20210117071954_tag_楊子清_11aa2dfa5f64d7e4|TJJ 11aa2dfa]]
+  - 覆核（TJJ-A10110502-1, 2026-10-12）：本 slice 文章 11aa2dfa5f64d7e4（楊子清 tag 頁）正文再驗證——「曾道雄/陳麗蟬/蕭泰然 演唱會影音紀錄- TUF 台灣名家演奏系列 1993 之二 ◎楊子清提供 2017-02-04」條目確認見於正文；subject 連結為真（本 slice 補上此前缺漏之本人連結），無錯鏈、無虛鏈；日期事實（含該文 wikilink）自本次入庫。
+
 ## TJ Citations
 
 Top 9 articles from taiwanjustice.net mentioning zeng-daoxiong:
