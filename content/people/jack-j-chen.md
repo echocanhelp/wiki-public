@@ -8,7 +8,7 @@ tags:
   - pharmacist
   - neurology
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Jack J. Chen (陳宏傑)
 
@@ -94,7 +94,7 @@ Corpus records naming him:
 - [[works/taiwaneseamericanhistory-org/whos-who-2182-jack-chen|2182. Jack Chen]] — 2019-05-04 (name-form record; same person as 217/642)
 - [[works/taiwaneseamericanhistory-org/862-parkinsons-disease-jack-j-chen-199710life-e7-94-9f-e6-b4-bb|862. Parkinson's Disease / Jack J. Chen /1997/10/Life/生活]] — 2015-09-23 (his 1997 Life/生活 magazine article on Parkinson's disease, an early public-facing piece on his neurology pharmacotherapy work)
 
-- **HOLD:** Marshall B. Ketchum University start date — this page says 2014–present; the sibling page [[people/dr-jack-j-chen|Dr. Jack J. Chen]] records Professor and Department Chair from 2015. Never auto-merged.
+- **HOLD:** Marshall B. Ketchum University start date — this page says 2014–present; the sibling page [[people/dr-jack-j-chen|Dr. Jack J. Chen]] records Professor and Department Chair from 2015. Never auto-merged. **Supporting evidence (2026-10-12 pass):** the 2017 TAHS Publication 編按 (editor's note, priority-A self-profile apparatus) states explicitly 「2014 年，Dr. Chen 被 The Marshall B. Ketchum University 的药學院聘為正教授，並主持一個講座」 — corroborates the 2014 date on this page; sibling page's 2015 remains unreconciled pending steward review.
 - **Note:** records [[works/taiwaneseamericanhistory-org/678-team-sea-to-see-launch-day-jack-chen-03-2019|678. Team Sea to See – Launch Day/Jack Chen/03/2019]] and [[works/taiwaneseamericanhistory-org/ota-272|272. Jack Chen]] name a *different* Jack Chen — the Harvard/Law engineer-entrepreneur organizer of Tandem Team Sea to See, documented at [[people/jack-chen|Jack Chen]]. Not attributed to this page.
 - Father: [[people/chen-zhefu-xu-chunhui||Jeff Chen 陳哲夫]] (1937–1995), per the sibling Who's Who page.
 
