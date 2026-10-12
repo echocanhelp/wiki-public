@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Chihmei Lin Chen (林智美)
 
@@ -75,3 +75,4 @@ last_reviewed: 2026-10-11
 <!-- TJJ-A10060600-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-5 article a428dcebbceacf38 (抗議南加州台大校友會邀管中閔年會演講, 國立台灣大學校友連署, 2018-07-20): subject link re-checked vs 正文 this attempt — name 確認見於連署名單, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A100606005-a: verified 2026-10-09 — wave-2 link+deepen re-check of article a428dcebbceacf38 (抗議 南加州台大校友會邀管中閔來年會做專題演講, 國立台灣大學校友連署, 2018-07-20): subject link re-checked vs 正文 this attempt — name 確認見於連署名單（含系所標註與本頁一致）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 - Corpus re-grep 2026-10-11 (DEEPEN-X slice 10101200-28): fresh ZH+EN grep (林智美|Chihmei|智美) across all 5 corpus dirs — name hits identical to the long-standing 5-file set (whoswho1312, ourjourneys79, publications-111, works index, 2018 TJJ letter), all already cited above; 2018 連署名單 co-listing 林智美(心理) 與 陳文彥(心理) 已在庫. Verified saturated — nothing new absorbable.
+- Corpus re-grep 2026-10-12 (DEEPEN-X slice 10110805-28): fresh ZH+EN grep (林智美|Chihmei|智美) across all 5 corpus dirs — hit-set identical (whoswho1312, ourjourneys79, publications-111, works index, 2018 TJJ letter, sources index), all already cited above. Verified saturated — nothing new absorbable.
