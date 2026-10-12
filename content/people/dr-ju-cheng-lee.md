@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Ju-Cheng Lee (李汝城醫師)
 
@@ -67,3 +67,5 @@ last_reviewed: 2026-10-11
 - [[organizations/new-york-taiwan-center||New York Taiwan Center]] (紐約台灣會館)
 - [[organizations/north-american-taiwanese-medical-association-foundation||NATMA Foundation]] (北美洲台灣人醫師協會)
 - 本頁三篇 TAH 傳記之 vault 內出處頁：[[works/taiwaneseamericanhistory-org/182-dr-ju-cheng-lee||TAH #182 李汝城醫師]]、[[works/taiwaneseamericanhistory-org/217-dr-ju-cheng-lee||TAH #217 宜蘭同鄉會創會會長]]、[[works/taiwaneseamericanhistory-org/whos-who-32-ju-cheng-lee||TAH #32 李汝城醫師]]。
+
+<!-- deepen-x re-verification 2026-10-12 (slice 10110500-9): corpus grep across works/articles/sources/events/topics returned 12 hits, all already absorbed or linked above (OJ 17/74/74-eng/201/202/304/316, mystories594 [李汝成, different person], TAH #50/#182/#217/#32/#1916, plus index/source listing pages). No new material; page saturated. -->
