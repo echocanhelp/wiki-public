@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Jen Shyu (徐雁秋)
 
@@ -46,6 +46,7 @@ Experimental vocalist, composer,multi-instrumentalist, dancer, andproducer, 2014
 - Re-verified 2026-09-22 (deepen-x 09220800-18): corpus re-grep returned the same six work records plus the two taiwaneseamerican-org concert listings already absorbed — SKIP, verified-saturated; name conflict still on HOLD.
 - **Earlier TAHS story-site records (2008–2010)** — additional performance/coverage listings documenting her community circuit before the 2011 concerts: [[works/taiwaneseamerican-org/where-jazz-taiwan-and-the-vocal-stylings-of-jen-shyu-fuse|Where Jazz, Taiwan, and the Vocal Stylings of Jen Shyu Fuse]] (2008-04-19, byline Ho Chie), [[works/taiwaneseamerican-org/jen-shyu-solo-in-la-inner-chapters-cafe-metropol|Solo: INNER CHAPTERS @ Café Metropol, LA]] (2010-04-08), [[works/taiwaneseamerican-org/performance-artist-jen-shyu-with-ben-monder-inner-chapters|With Ben Monder: "Inner Chapters"]] (2010-09-11), [[works/taiwaneseamerican-org/jen-shyu-seminar-hidden-musical-traditions-of-east-timor-taiwan-china|Seminar: Hidden Musical Traditions of East Timor, Taiwan & China]] (2010-10-25), and [[works/taiwaneseamerican-org/jen-shyu-solo-inner-chapters-duo-with-mat-maneri-in-ny|Solo: Inner Chapters + Duo with Mat Maneri in NY]] (2010-11-24). Bibliographic (band B); corroborate the Inner Chapters repertoire and multi-instrumentalist profile; no dates conflict.
 - 複核（deepen-x slice-10100600-20, 2026-10-11）：re-grep 徐雁秋／徐秋雁／Jen Shyu across works/articles/sources/events/topics — 命中 15 檔（TAH 六筆書目 + taiwaneseamerican-org 七筆演出記錄 + sources/index 索頁）全數已吸收於上；無新事實。name conflict 徐雁秋 vs 徐秋雁 still on HOLD.
+- Re-verified 2026-10-12 (deepen-x slice-10110200-23): fresh grep across all 5 corpus dirs returned the same 15 Jen Shyu files plus surname-only false positives (Dr. Shyu-Tu Lee 李學圖 in ota-281/424/whos-shyu-tu-lee/ourjourneys352; "Suh Shyu" in the Pew statement) — none refer to Jen Shyu, nothing new to absorb. Verified-saturated; 徐雁秋 vs 徐秋雁 conflict still on HOLD.
 
 ## Family
 
