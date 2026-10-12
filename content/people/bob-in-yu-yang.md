@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Bob In-Yu Yang (楊英育)
 
@@ -63,3 +63,4 @@ Note: TAH bio lists NAPTKA Kansas Chapter president 1993-95, 2006-07; the commun
 - **Corpus re-grep 2026-09-26** (slice 09251417-1): 楊英育 / In-Yu Yang across works + articles — hit set identical to records already linked above (#660, OJ #228/#234/#296/#351); no new absorbable material. SKIP.
 - **Corpus re-grep 2026-10-10** (slice 10081500-2): 楊英育 / In-Yu Yang / surname across all 5 corpus dirs (works/articles/sources/events/topics) — hit set identical to records already linked above (#660, OJ #228/#234/#296/#351, plus index/sources directory listings); no new absorbable material. Verified-saturated. SKIP.
 - **Corpus re-grep 2026-10-11** (slice 10101100-31): 楊英育 / In-Yu Yang / Bob Yang across all 5 corpus dirs — same hit set (#660, OJ #228/#234/#296/#351, two taiwaneseamerican-org UN/WHA articles, sources index). One absorbable detail: OJ #296 lists the 1986 camp host entry with theme 人人愛人權，大家來努力 under Taiwanese Association of Greater Kansas City — absorbed into Role in the Community. No date conflicts.
+- **Corpus re-grep 2026-10-12** (slice 10110800-30): 楊英育 / In-Yu Yang / 英育 across all 5 corpus dirs — hit set identical to records already linked above (#660, OJ #228/#234/#296/#351, UN/WHA articles, sources index); the OJ #228 Blaauw passage and OJ #234 台獨聯盟 vice-chairman election text are already absorbed verbatim. Verified-saturated. SKIP.
