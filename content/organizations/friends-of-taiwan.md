@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Friends of Taiwan
 
@@ -37,7 +37,8 @@ last_reviewed: 2026-10-11
 - Note: the corpus renders the Chinese name both 台灣之友社 (memorial interview) and 台灣之友會 (TAH directory records). HOLD: spelling 社 vs 會 unreconciled.
 - **2021-02-20** — President 蔡英文 attended 「台灣之友會春節聯歡晚宴」 and gave remarks praising Taiwan's economic growth — an earlier instance of the Taiwan-side Spring Festival banquet later documented for 2022-03-13 ([[articles/taiwanjustice-net/2021/20210415102928_2021_02_20_總統讚鄭文燦穩健處理部桃事件_陳時中讓人驕傲_2be4295b00b7e2f8|TJJ report, 2021-02-20]]); same HOLD applies on chapter attribution for the Taiwan-side event.
 - **2025-02** — 台灣之友社 is listed among the co-hosting LA-area 台美社團 of the 2024大洛杉磯228事件追思紀念會暨聯合社團系列活動 (with FAPA-洛杉磯分會, NATMA-南加分會, 台美人歷史協會 and others) — the LA chapter documented as an active 228-commemoration co-organizer ([[articles/taiwanjustice-net/2025/20250328132115_2024大洛杉磯228事件追思紀念會暨聯合社團系列活動邀_c41dfa01b8f3bcbb|TJJ report]]).
-- Disambiguation from corpus grep: 「台灣之友」 labels in US congressional records (e.g. Congressman McCaul, per an Austin FAPA memoir — [[works/taiwaneseamericanhistory-org/ourjourneys355|Our Journeys #355]]), 日本台灣之友會, 英國工黨台灣之友會, and 信賴台灣之友會 are separate bodies, not this organization — not absorbed.
+- **2025-05-18** — 台灣之友會, alongside 台灣社 and 台灣北社, held a press conference urging the government to build a 「李登輝總統圖書館」, citing it as Lee Teng-hui's post-presidency wish — an instance of the group active in Taiwan-side civic advocacy (reported by 中央社 via TJJ) ([[articles/taiwanjustice-net/2025/20250518230325_本土社團籲政府-籌建李登輝總統圖書館_63dbea39d9c66633|TJJ report]]); same HOLD applies on chapter attribution for the Taiwan-side context.
+- Disambiguation from corpus grep: 「台灣之友」 labels in US congressional records (e.g. Congressman McCaul, per an Austin FAPA memoir — [[works/taiwaneseamericanhistory-org/ourjourneys355|Our Journeys #355]]), 日本台灣之友會, 英國工黨台灣之友會, 信賴台灣之友會, and 台灣之友基金會 (Friends of Taiwan Foundation, organizer of the 2025-08 「台灣好滋味」 Chicago carnival) are separate bodies, not this organization — not absorbed.
 - **2010** — The LA group was active as a cultural presenter: Friends of Taiwan in LA presented the Bird & Water Dance Ensemble ([[works/taiwaneseamerican-org/friends-of-taiwan-in-la-presents-bird-water-dance-ensemble|event record]], era 2010), alongside its advocacy work.
 - **2014-10-02** — The group hosted a press conference for a lecture by political commentator 祈夫潤 (reported by 台灣公義網), an early instance of 台灣之友會 as a speaking-forum host alongside its advocacy work ([[articles/taiwanjustice-net/2023/20230607064649_tag_演講_079eeff81541fcbe|TJJ 演講 tag listing]]).
 - **2025-02-14** — 台灣之友會 held 「金蛇喜迎春－新春聯歡晚會」 at 大直典華飯店 (Taipei), attended by 蔡英文 (remarks urging support for President 賴清德), 林佳龍, 陳時中, 莊瑞雄 — the third dated instance of the annual Spring Festival banquet series (2021-02-20, 2022-03-13, 2025-02-14), confirming a recurring event rather than isolated engagements ([[articles/taiwanjustice-net/2025/20250428211134_蔡英文_台灣未來挑戰比過去8年困難-請支持賴總統_d73410f82818ab70|TJJ report]]); same HOLD applies on chapter attribution for the Taiwan-side event.
