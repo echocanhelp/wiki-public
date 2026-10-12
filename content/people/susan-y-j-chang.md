@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Susan Y. J. Chang (程韻如)
 
@@ -63,6 +63,8 @@ Accomplishment
 - 2018-07-20 — Signed the NTU alumni protest statement against the SoCal NTU Alumni Association's invitation of 管中閔 as 「程韻如(護理)」 (NTU Nursing), placing her among the ~190 alumnae/alumni dissenters ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38|TJJ record, 2018-07-21]]); consistent with her NTU Nursing degree and her diaspora-organizing record.
 - Corpus re-check (程韻如, works+articles, slice-09221500-1 pass 2026-09-23): hit set = the records already linked (#60/#60-eng, #160, #249, #298, TAH #190/#1531, index) plus the 2018 TJJ alumni protest letter absorbed just above; the Susan Chang Lee collection is no longer matched by the 程韻如-only grep (collision note above retained). No other new facts; verify-saturated.
 - Corpus re-check (程韻如 / Susan Y. J. Chang / Susan Chang, all 5 corpus dirs, deepen-x slice 10100700-19 pass 2026-10-11): 12-file hit set identical to prior passes — #60/#60-eng, #160, #249, #298, TAH #190/#1531, the 2018 + 2019 TJJ records, Susan Chang Lee collision, plus index/sources chrome. One nuance re-noted from the 2019 joint statement: the English signature line reads 「Susan Chang, Coordinator, World Taiwanese Congress」 while the Chinese line reads 「世界台灣人大會 會長程韻如」 — title variance (Coordinator vs 會長) retained as a HOLD alongside the existing presidency-date HOLD, not merged. No new absorbable facts; verify-saturated.
+
+- Corpus re-check (程韻如 / Susan Y. J. Chang / Susan Chang / 程韻, all 5 corpus dirs works+articles+sources+events+topics, deepen-x slice 10110315-21 pass 2026-10-12): 12-file hit set identical to the 2026-10-11 pass — #60/#60-eng, #160, #249, #298, TAH #190/#1531, the 2018 + 2019 TJJ records, the Susan Chang Lee (張淑珍) collision, plus index/sources chrome. The 2018-letter match is the 「程韻如(護理)」 signature inside the NTU-alumni roster (already absorbed above); surname-only and alias widening surfaced no new person or fact. Both HOLDs retained as-is: NATWA presidency 2001-2002 vs the 2015 memoirs' 會長 title, and 「Coordinator」 vs 「會長」 in the 2019 bilingual signature. No new absorbable facts; verify-saturated.
 
 ## Sources
 - [TAH #190 encyclopedia: 190. Y. R. Susan Chang 程韻如](https://taiwaneseamericanhistory.org/190-susan-chang/)
