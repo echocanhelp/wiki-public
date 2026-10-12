@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Julia Huang (黃馨儀)
 
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - HOLD: 身份混淆風險 — [[articles/taiwanjustice-net/2025/20250420095306_洛杉磯奧運長堤市聚焦文化活力-舵手黃儀嬙來自台_0016cba25b93f8cb|台灣時報轉錄（2025-04）]] 之「Julia Huang 黃儀嬙」（Intertrend 執行長、長堤市文化與藝術委員會主席）漢名與本頁 黃馨儀 不同，疑似同名異人，未合併。
 - Corpus re-check 2026-10-10 (slice 10090900-28): fresh ZH+EN grep (`黃馨儀|Julia Huang|馨儀`) across works/articles/sources/events/topics — hit set unchanged (#1254 書目、Our Journeys #128 音樂會名單、index/sources 目錄列、黃儀嬙同名異人報導); 無新回憶錄材料可吸收。SKIP stands; HOLD on 黃儀嬙 identity mixup retained.
 - Corpus re-check 2026-10-11 (slice 10101300-20): fresh ZH+EN grep (`黃馨儀|Julia Huang|馨儀`) across works/articles/sources/events/topics — hit set unchanged (#1254 書目、Our Journeys #128 音樂會名單、index/sources 目錄列、黃儀嬙同名異人報導；另確認「邱馨儀」為經濟日報記者之無相關同名誤hit); 無新回憶錄材料可吸收。SKIP stands; HOLD on 黃儀嬙 identity mixup retained.
+- Corpus re-check 2026-10-12 (slice 10120018-26): fresh ZH+EN grep (`黃馨儀|Julia Huang|馨儀`) across works/articles/sources/events/topics — hit set unchanged (#1254 書目、Our Journeys #128 音樂會名單含鋼琴黃馨儀、index 目錄列、黃儀嬙同名異人報導；「馨儀」另誤hit吳叡人講評引經濟日報記者邱馨儀報導，屬無相關同名)。無新回憶錄材料可吸收。SKIP stands; HOLD on 黃儀嬙 identity mixup retained.
 
 ## Sources
 - [TAH #1254 encyclopedia: 1254. Julia Huang 黃馨儀 / 2016/08](https://taiwaneseamericanhistory.org/1254-julia-huang-%e9%bb%83%e9%a6%a8%e5%84%80-201608/)
