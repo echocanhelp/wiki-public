@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # [[organizations/taiwan-american-foundation||Taiwanese American Foundation]] of San Diego
 
@@ -43,6 +43,9 @@ last_reviewed: 2026-10-11
 - HOLD: naming conflict — this page lists 聖地牙哥台灣中心 as the Chinese name; the TAH directory work 72 lists 聖地牙哥台美基金會. Not auto-merged (may be related but distinct entities). The video-184 record treats San Diego Taiwan Center and the TA Foundation of San Diego as a joint leadership role, consistent with the two names operating as one institution; the 2018 anniversary record and YAM 季刊 likewise carry both names jointly.
 - Naming precedence anecdote (2026-10-11 re-pass): in 楊禮朱's 337 memoir, the LA contact 王桂榮 complained 「San Diego 怎可以比他們早用台美基金會這名稱」 — San Diego adopted the 台美基金會 name before the Los Angeles chapter did. Places the name dispute within the 1998 first-formal-meeting period recalled in work 337.
 - Separate TAH bibliographic record for the center itself: [[works/taiwaneseamericanhistory-org/san-diego-taiwan-community-center|San Diego Taiwan Community Center 聖地牙哥台灣中心]] (2014-10-12, band B) — companion record to work 7 above.
+- 呂錦文 (Jinwun Winston Lue), 「The Birth of the Permanent Home for the Taiwanese American Community Center of San Diego」 — [[works/taiwaneseamericanhistory-org/11-the-birth-of-the-permanent-home-for-the-taiwanese-american-community-center-o|11. The Birth of the Permanent Home / 2014-09]] — memoir of acquiring the permanent center home; see [[people/jinwun-winston-lue|呂錦文]].
+- Community-service programs under the center: food drive 「Take a Bite Out of Hunger」 — [[works/taiwaneseamericanhistory-org/28-take-a-bite-out-of-hunger-food-drive-by-san-diego-taiwan-center|28. Food Drive / 2017]]; scholarship awards by the foundation — [[works/taiwaneseamericanhistory-org/37-taiwanese-american-foundation-of-san-diego-scholarship-awards|37. TAFSD Scholarship Awards / 2015]]; 認識科技演講系列 science lecture series — [[works/taiwaneseamericanhistory-org/e8-aa-8d-e8-ad-98-e7-a7-91-e6-8a-80-e6-bc-94-e8-ac-9b-e7-b3-bb-e5-88-97-by-san-d|認識科技演講系列 / 2018]]; 台語學校 Taiwan School — [[works/taiwaneseamericanhistory-org/san-diego-taiwan-center-taiwan-school|14. San Diego Taiwan Center Taiwan School / 2016]].
+- Consolidated activity record: 「聖地牙哥台灣中心的活動」 — [[works/taiwaneseamericanhistory-org/activities-of-tacsd|Taiwanese American Community Center of San Diego / 2019]]; second 台美人著作資料庫 library-collection record — [[works/taiwaneseamericanhistory-org/245-e5-8f-b0-e7-be-8e-e4-ba-ba-e8-91-97-e4-bd-9c-e8-b3-87-e6-96-99-e5-ba-ab-e8-8|245. 台美人著作資料庫 聖地牙哥台灣中心 / 2010]] (companion to work 163).
 - Note on generic 台美基金會 records: the corpus also holds 「台美基金會」 quarterly/yearbook records (works 784, 785, 786, 787, 1986–1999) and a 2001 science/engineering award memoir (work 428, 何汝諧). These are NOT attributed to the San Diego chapter here — the 台美基金會 name was used by several chapters (LA, Boston, Seattle) and the records do not specify San Diego; work 785 (1995 頒獎特刊) also predates the San Diego opening.
 
 ## Sources
