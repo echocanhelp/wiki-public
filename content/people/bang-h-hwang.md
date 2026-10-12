@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Bang H. Hwang (黃邦雄)
 
@@ -122,3 +122,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090701-27: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-27 article a75a6e8c12e18729 (台美人台加人 popular 分類頁, 2025-04-30 快照) read fresh this attempt: 「人類乳突病毒與疫苗的認識[影] ◎ 黃邦雄醫師」條目確認見於正文; subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- Deepen-x re-grep 2026-10-11 (slice 10100600-13): hit set across works/articles/sources/events/topics unchanged — own TAH #834 record, our-journeys-389 印城同鄉會 memoir (歷任會長 1992–1993 + FAPA 印州遊說群組名單, both cited), taiwanjustice-net 「黃邦雄醫師」 corpus (TanLa 醫療講座 2021 報告、HPV 講題 tag/archives、2017 卵巢癌講座 category pages、長青教室 tag pages). Two grep hits are name-substring false positives, NOT this person: 「呂邦雄醫師」 in works/taiwaneseamericanhistory-org/whos-who-2014-b-s-lu.md (Dr. B. S. Lu) and 「小川邦雄」 (前TBS記者) in a 2025-09-15 三島由紀夫 article — not linked, not merged. One new wikilink added: the 2021-09-27 TanLa 第一講 report is now anchored in the name-collision note (previously cited only by date, not by article link). No new biographical fact; 婦產科醫師 vs 解剖學者 HOLD 不變. -->
+
+<!-- Deepen-x re-grep 2026-10-12 (slice 10110200-16): exact-name grep 黃邦雄|Bang H. Hwang|Bang Hwang across works/articles/sources/events/topics returned 15 hits — hit set identical to prior passes (own TAH #834 record, our-journeys-389 印城同鄉會 memoir with 歷任會長 1992–1993 + FAPA 印州遊說名單, taiwanjustice-net 「黃邦雄醫師」 corpus incl. TanLa 2021 report, HPV 講題 category/tag pages — the tag archive 「人類乳突病毒與疫苗的認識」 2021-12-05 快照 is consistent with the already-cited HPV 講題 entry — 長青教室 tag/category pages, works/index, sources manifest). All substantive hits already absorbed/cited above; no new biographical fact absorbable. SKIP — 無新可吸收事實；name-collision HOLD (婦產科醫師 vs 解剖學者) 不變. -->
