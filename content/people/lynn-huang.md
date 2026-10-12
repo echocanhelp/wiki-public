@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Lynn Huang (黃令先)
 
@@ -100,6 +100,8 @@ _No filled family fields on the TAH profile._
 - 2021-06-05／2021-06-26 — 疫情期間以立合唱團以「虛擬合唱練習」持續團務（男聲／女聲分組錄影），黃令先鋼琴伴奏，曲目「森林王子」選曲「哥薩克人之歌」「我心中有一幅畫」（[[articles/taiwanjustice-net/2021/20210616071635_2021_06_05_洛杉磯以立合唱團線上練唱_哥薩克人之歌_選_41e4ba7fe01fa837|TJJ, 2021-06-16]]；[[articles/taiwanjustice-net/2021/20210724183533_2021_06_26_以立合唱團演唱_我心中有一幅畫_選自輕歌劇_75d7b93ded7353ba|TJJ, 2021-07-24]]；同稿 2025 存檔重刊 [[articles/taiwanjustice-net/2025/20250327194618_洛杉磯以立合唱團線上練唱_哥薩克人之歌_選_f3bee51c76b44a13|f3bee51c]]／[[articles/taiwanjustice-net/2025/20250212081458_以立合唱團演唱_我心中有一幅畫_選自輕歌劇_1a0370d471455f3e|1a0370d4]]）。
 - 2023-01-13／2023-02-11 — 以立合唱團威爾第歌劇合唱選曲「鐵砧合唱」（《遊唱詩人》）與「亞述女王」（《拿布果》）影音，黃令先鋼琴、楊子清指揮（[[articles/taiwanjustice-net/2023/20230202205139_2023_01_13_以立合唱團演唱_鐵砧合唱_-選自歌劇_遊唱詩人_a341abd1b87ea1d8|TJJ, 2023-01-13]]；同稿 2025 存檔重刊 [[articles/taiwanjustice-net/2025/20250212065558_以立合唱團演唱_鐵砧合唱_-選自歌劇_遊唱詩人_4aa568090a0cdfc0|4aa56809]]；[[articles/taiwanjustice-net/2025/20250216025957_以立合唱團演唱的_亞述女王_-選自歌劇_拿布_8a2e2e86a5949e96|TJJ, 2023-02-11]]）。
 - 2013 前後（會館合唱圈） — 鄭炳全回憶錄：大洛杉磯台灣會館合唱團由陳慧如指揮、黃令先鋼琴伴奏，為南加州台美人社團歌唱活動之一；鄭氏並述及雅音合唱團、好歌者 Bel Canto 合唱團等洛杉磯台美人合唱圈（[[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|TJJ, 2025-02-09]]）。
+- 2018-06-17 — 以立音樂基金會公告以立合唱團「以歌會友」音樂會（2018-06-23，Arcadia Community Church）；理事長楊子清闡述基金會宗旨「走出自已的社區」：2016 年以立合唱團先與韓國外語外貿大學校友會合唱團聯合演出，並為大洛杉磯台灣會館籌劃首屆「亞洲合唱節」於 2017 年 5 月舉行，邀亞美尼亞、日本、韓國、菲律賓等僑社優秀合唱團參演（[[articles/taiwanjustice-net/2024/20240520034142_root_4d4b5d52a4f72c87|TJJ, 2018-06-17／2024 存檔]]；參 [[works/taiwaneseamericanhistory-org/video-asian-choral-festival|TAH #60 亞洲合唱節 2017]]、[[works/taiwaneseamericanhistory-org/concerts134|TAH 以歌會友音樂會 2018-06-23]]）。
+- 2020-03-15 — 黃令先作曲的「AWAKE」於台灣台中國家歌劇院「春醒演唱會」演出（同場系列 2020-03-17 由 [[people/yang-ziqing|楊子清]] 指揮普契尼「榮耀彌撒曲」Messa di Gloria）（[[articles/taiwanjustice-net/2020/20200623121739_category_literature_page_3_a3b28ab517f4fafc|TJJ 藝文列表存檔, 2020-06-13]]）。
 
 ## Sources
 - [TAH #488 encyclopedia: 488. Lynn Huang 黃令先 / 2015/07](https://taiwaneseamericanhistory.org/488-lynn-huang-%e9%bb%83%e4%bb%a4%e5%85%88-201507/)
@@ -247,3 +249,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10101001-6: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10101001-6 article 928db8aa40e881b2（洛杉磯以立合唱團輕歌劇「森林王子」, 發文 2025-01-21 / 快照 2025-03-18）read fresh this attempt: subject link re-checked vs 正文 (「音樂總監黃令先老師」確認見於正文), real, no wrong/spurious links (鄭兆翔／李俊玲／白慈莉 正文提及; 李俊玲有頁面已在連結, 鄭兆翔／白慈莉無頁面維持純文字不造鏈); 含該文 wikilink 的 2024-10-12 dated fact 已在 From the record — saturated, no new material. -->
 
 <!-- TJJ-A10101001-5: verified 2026-10-11 — wave-2 link+deepen re-check of article 526ee7d662ebe432（「以立合唱團」演唱「拯救我」—選自威爾第「安魂曲」, 發文 2022-12-16 / 快照 2023-02-02）read fresh this attempt: subject link 黃令先 re-checked vs 正文 (「鋼琴：黃令先」確認見於正文), real, no wrong/spurious links (author 楊子清＋「楊子清 (Cliff Yang) 提供」＋指揮、李俊玲女高音獨唱均有頁面已連結; 廖健榮剪輯正文提及但無頁面, 維持純文字不造鏈); 含該文 wikilink 的 2022-10-01／10-08 dated fact 已在 From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10102200-8: deepened 2026-10-12 — fresh corpus sweep (黃令先/Lynn Huang/以立音樂/Elite Music across works/articles/sources/events/topics): 2 new dated records absorbed (2018-06-17 以立音樂基金會「以歌會友」公告含基金會宗旨「走出自已的社區」＋2016 韓國 HUFS 校友合唱團聯合演出＋2017-05 首屆亞洲合唱節籌劃; 2020-03-15 作曲「AWAKE」台中國歌「春醒演唱會」演出). 4 new wikilinks (2 works, 2 articles), all targets verified on disk. No date/age conflicts; no auto-merge. -->
