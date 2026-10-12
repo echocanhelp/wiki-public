@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Huey Lin (林惠洲)
 
@@ -64,3 +64,5 @@ Corpus re-check 2026-10-09 (deepen-x slice 10080600-9): fresh 林惠洲/Huey Lin
 Corpus re-check 2026-10-10 (deepen-x slice 10091500-1): fresh 林惠洲/Huey Lin/惠洲 grep across works/ articles/ sources/ events/ topics/ — hit set identical (ourjourneys186/-eng, our-journeys-388, whoswho1401, 林佳惠 disambig, works/index, sources/taiwaneseamericanhistory-org); all already absorbed and wikilinked above. No new community-corpus material. SKIP-deepen; verified-saturated.
 
 Corpus re-check 2026-10-11 (deepen-x slice 10102129-3): fresh 林惠洲/Huey Lin/惠洲 grep across works/ articles/ sources/ events/ topics/ — 7 hits, identical set (ourjourneys186/-eng TACL consultant roster, our-journeys-388 耆老講座, whoswho1401, 林佳惠 disambig, works/index, sources/taiwaneseamericanhistory-org); all already absorbed and wikilinked. No new community-corpus material. SKIP-deepen; verified-saturated.
+
+Corpus re-check 2026-10-12 (deepen-x slice 10120018-21): fresh 林惠洲/Huey Lin/惠洲 grep across works/ articles/ sources/ events/ topics/ — 7 hits, identical set (ourjourneys186/-eng TACL consultant roster, our-journeys-388 耆老講座, whoswho1401, 林佳惠 disambig, works/index, sources/taiwaneseamericanhistory-org); all already absorbed and wikilinked. No new community-corpus material. SKIP-deepen; verified-saturated.
