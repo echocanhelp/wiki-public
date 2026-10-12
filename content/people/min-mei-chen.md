@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Min-Mei Chen (吳明美)
 
@@ -49,6 +49,8 @@ Accomplishment
 - 複核（deepen-x slice 28, 2026-09-16）：full corpus re-grep (no head-truncation) surfaced the band-A cruise memoir, five further essay pages, the collection record #47, a second memorial #138, and the Ken Lee portrait — all absorbed above.
 - SKIP-with-reason (slice 09160500-5, 2026-09-16): grep re-run (吳明美／Min-Mei Chen, untruncated) returns the identical 17-file hit set; every hit is either already wikilinked above or is her own catalogue record (#199/#268, in Sources). No new absorbable community facts; page remains fully deepened.
 - 複核（deepen-x slice 10080958-7, 2026-10-09）: fresh untruncated grep (吳明美／Min-Mei Chen／Min-mei Chen／明美) across works/articles/sources/events/topics — all substantive hits already wikilinked above (21 TAH corpus pages). New apparent hits are false positives: ourjourneys69 matches 明美 only inside 明美癌症研究中心 (NATPA founding-room name, unrelated), ourjourneys74 inside 說明美麗島, ourjourneys333 inside 註明美國, and taiwanjustice-net articles match 明美 inside 特朗普. No new absorbable community facts.
+- 複核（deepen-x slice 10110000-20, 2026-10-12）: fresh grep (吳明美／Min-Mei Chen／Min-mei Chen) across all 5 corpus dirs — 19 hits, all already linked above or her own catalogue records. One absorbable fact from the catalogue records: her TAH Who's Who entry was first published as #199 on 2015-01-14 and re-issued as #268 on 2019-03-18, i.e. her community profile spans the 2015–2019 corpus window — consistent with the 2019-03 memorials (#138/#141/676) clustering after her death. No other new material; page remains fully deepened.
+- Her Who's Who profile record: published 2015-01-14 as [[works/taiwaneseamericanhistory-org/whos-who-199-min-mei-chen|199. Min-Mei Chen 吳明美]], re-issued 2019-03-18 as [[works/taiwaneseamericanhistory-org/ota-268|268. Min-Mei Chen 吳明美]].
 - 複核（deepen-x slice 10100400-15, 2026-10-10）: fresh grep (吳明美／Min-Mei Chen／Min-mei Chen／明美) across all 5 corpus dirs — the 17 real-person hits are all already wikilinked above or are her own catalogue records (#199/#268, in Sources). Remaining apparent hits are false positives (our-journeys-376 and ourjourneys333 match 明美 inside 說明美國／註明美國; taiwanjustice-net articles match inside 特朗普). No new absorbable community facts; page remains fully deepened.
 
 ## Sources
