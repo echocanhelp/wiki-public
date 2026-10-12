@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-12
 ---
 # Katherine Tai (戴琪)
 
@@ -103,7 +103,7 @@ Absorbed from vault pages already naming her (no web):
 - 2021-05-05 — 發表聲明支持世貿組織取消新冠疫苗專利保護：「這是一場全球性的健康危機，新冠疫情的特殊情況要求採取特殊措施」，美國將積極參加談判；5 月 4 日十二名共和黨議員致函戴琪反對該決定（[[articles/taiwanjustice-net/2021/20210616065724_2021_05_07_美國支持豁免新冠疫苗專利保護_最大獲利者可能_860c7bbb2c10a431|TJJ, 2021-05-07]]）。
 - 2021-09-12 — 據華爾街日報報導，戴琪與中國副總理劉鶴有過一次通話，拜登政府朝向公佈更廣泛的中國政策邁進，並計劃對中國的產業補貼展開調查；USTR 研議哪些中國關稅損害美國經濟而無大規模削減計畫（[[articles/taiwanjustice-net/2021/20211023194434_2021_09_12_拜登政府計劃對中國的產業補貼展開調查_cd29c65a0ff69670|TJJ, 2021-10-23]]）。
 - 2021-10-13 — 陳破空評論指戴琪發聲談美中貿易、強調美中不脫鉤（數日後與中共副總理劉鶴電話溝通），被列為美方安撫動作之一（[[articles/taiwanjustice-net/2021/20211020125817_2021_10_13_共機大規模擾台_習近平的懸崖戰術-_-陳破空_0fd3d7a2814cd195|陳破空評論, 2021-10-13]]；評論觀點，非事實報導）。
-- 另以 tag 頁收錄於「將中國審查制度當作貿易障礙」與「亞太裔傳統月」標籤頁：[[articles/taiwanjustice-net/2021/20210619025608_tag_將中國審查制度當作貿易障礙_96c57e39debff0dd|tag, 將中國審查制度當作貿易障礙]]、[[articles/taiwanjustice-net/2021/20210620133404_tag_亞太裔傳統月_20d38a8d4f90f16a|tag, 亞太裔傳統月]]。
+- 另以 tag 頁收錄於「將中國審查制度當作貿易障礙」「亞太裔傳統月」與「戴琪誓抗中國不公貿易作為」標籤頁：[[articles/taiwanjustice-net/2021/20210619025608_tag_將中國審查制度當作貿易障礙_96c57e39debff0dd|tag, 將中國審查制度當作貿易障礙]]、[[articles/taiwanjustice-net/2021/20210620133404_tag_亞太裔傳統月_20d38a8d4f90f16a|tag, 亞太裔傳統月]]、[[articles/taiwanjustice-net/2021/20210620134308_tag_戴琪誓抗中國不公貿易作為_f97db970d858780e|tag, 戴琪誓抗中國不公貿易作為]]。
 
 ## Sources
 - [TAH #2309 encyclopedia: 2309. Katherine Tai 戴琪](https://taiwaneseamericanhistory.org/whos-who-2309-katherine-tai/)
