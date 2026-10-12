@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Carol Cho (林秋菊)
 
@@ -93,3 +93,5 @@ last_reviewed: 2026-10-11
 <!-- TJJ-A10090601-4: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-4 article e7aad53f3e593fde (楊遠薰《卓甫良與TAF的故事》): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100501-2: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-2 article f06677a469620539 (卓甫良與TAF的故事, 楊遠薰, 2021-06-22 刊, 2021-12-05 快照): 林秋菊家世（林燕臣／林茂生／林安生）、首批天韻歌手、1960年底芝加哥結婚、TAF義工母親論述 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- deepen-x slice 10110400-25: verified 2026-10-12 — fresh ZH+EN grep (林秋菊/Carol Cho/卓甫良/卓甫) across all 5 corpus dirs: hits are the 楊遠薰《卓甫良與TAF的故事》存檔三副本 (f06677a4／b4206bcf／e7aad53f) plus tag stubs and link-only work stubs (mystories205, ourjourneys107, 210-william-cho) — every substantive mention already absorbed in From the record / Role in the Community with wikilinks; no new material. Saturated — verified-saturated SKIP. HOLD (origin conflict 林安生 vs 來自南台灣名望家族) stands. -->
