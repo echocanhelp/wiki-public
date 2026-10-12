@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Suy Ming Sam Chou (周烒明博士)
 
@@ -84,6 +84,7 @@ Dr. Suy Ming (Sam) Chou 周烒明博士 – History of Taiwanese American (T.A. 
 - In 1963 at UW-Madison he co-founded the UW Formosan Students Club — reportedly the first officially registered Taiwanese student organization in the US — after the ROC government pressured the university to block it; when that failed, his ROC passport was revoked, leaving him stateless and unable to return to Taiwan ([[works/taiwaneseamericanhistory-org/ourjourneys205|Our Journeys #205]]; biographical profile [[works/taiwaneseamericanhistory-org/publications285|TAH #285: 北美阿里山—周烒明與吳秀惠 (林雙不, 10/2000)]]).
 - He translated 高木友枝's 「台灣的衛生狀況」 into English (noted by 朱真一, 民報 2016-09-16, archived in the taiwanjustice.net corpus).
 - A 2016 tribute by 陳茂雄 recalls him playing violin in the 台大醫學院絃樂團 as a student, and — after retirement brought a Parkinson's diagnosis, the condition behind his co-founding of 台美人柏金森互助會 — continuing to play; at a NATMA annual dinner he asked to perform to show listeners how he was coping with PD, but 周夫人 吳秀惠 persuaded him not to go on stage ([[articles/taiwanjustice-net/2023/20230530144551_2016_08_16_低調的偉人-周烒明醫師-_-陳茂雄-08-16-2016_4b09efb6233259d4|低調的偉人—周烒明醫師 (陳茂雄, 08/2016)]]).
+- The same NATMA-dinner anecdote is retold by the author from the conductor's first-hand view in the music column [[articles/taiwanjustice-net/2023/20230923052902_2023_08_19_週末漫談音樂-110_音樂家與-parkinsons-disease-帕金森氏症_d971188ca6e2abb1|週末漫談音樂(110): 音樂家與 Parkinson's Disease 帕金森氏症 (2023-08)]]: 周醫師 was seen playing violin in the 台大醫學院絃樂團 in his student days, kept playing after his post-retirement PD diagnosis, and asked the dinner host (the columnist) for a stage slot 「讓聽眾看到他克服 PD 病症的精神」 — the host agreed, then 周夫人 dissuaded him, and 「可惜這件事只有我知道」. The column places him among musician PD models alongside Beethoven, Quasthoff and Blind Thomas Wiggins. His English translation of 高木友枝《台灣的衛生狀況》 is also preserved in the TAH.org 台美人台加人 compilation [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|台美人台加人 (2024 archive)]] (dated notice: 周烒明英譯高木友枝的《台灣的衛生狀況》◎朱真一/民報/2016-09-16).
 
 ## Deepen — 2026-09-14 (vault-only re-check)
 - Wikilink targets above (NATMA Foundation, NATMA – Southern California Chapter, UFI, and the TAH #121 memorial record) re-verified against live vault slugs; no broken links.
