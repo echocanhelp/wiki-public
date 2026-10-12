@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Sam Shee (施哲三醫師)
 
@@ -74,3 +74,7 @@ last_reviewed: 2026-10-10
   - [[works/taiwaneseamericanhistory-org/publications-1353||TAH #1353: 施哲三 油畫、雕塑、瓷品及織錦 — 施哲三海嵐美術館 exhibition publication (05/2021)]]
 - Character sketch from 黃哲陽's physician survey [[works/taiwaneseamericanhistory-org/ourjourneys291||TAH #291: 台美人醫師 overview]]: 施哲三 is described as a pathology physician who was self-taught in painting (無師自通), painting by inspiration and eventually "棄醫從畫" — turning from medicine to become a successful painter. This corroborates the medicine-to-arts arc of the timeline above; the "棄醫從畫" phrasing is the survey author's characterization, and his vault record still lists continuing pathology appointments (Meriter, 1976–), so no date is inferred for the career shift.
 - His published-art record now spans 1996–2021 in-vault (three oil-painting collections, the autobiography, and the museum exhibition publication), consistent with the Musée Highland founding dates above. No conflicts found to HOLD. No web used, nothing published.
+
+## Vault re-check 2026-10-11 (deepen-x slice 10101500-32, vault-only)
+- Fresh ZH+EN grep (施哲三 / Sam Shee / Shee) across all five corpus dirs returned the identical hit set already absorbed above: his three encyclopedia entries (#79, #1105, artist9 — all bibliographic-only records), the six authored works (autobiography, three oil-painting collections, exhibition publication), the Musée Highland work page, 黃哲陽's physician survey #291 (the 棄醫從畫 characterization, already noted), and the Karen Shee pages.
+- Karen Shee 施卿柔: the surname-sweep question was re-tested — her own page's 2026-10-07 deepen pass recorded "no relation evidence, not merged"; the Shee hits on her side are her own records only. The likely-family note above stays hedged as written. No new facts, no conflicts to HOLD. Nothing published.
