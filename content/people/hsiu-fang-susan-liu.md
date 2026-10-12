@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Hsiu-Fang Susan Liu (陳秀芳)
 
@@ -96,3 +96,7 @@ Accomplishment
 - **Her painting reproduced in a survey work.** An oil painting of 留學生要離開台灣的情景, by 陳秀芳 (2013), is reproduced in [[works/taiwaneseamericanhistory-org/ourjourneys309||美國台灣移民簡史 (許維德, 2017)]] — her work used as illustrative material in a published migration-history survey.
 - **Footsteps #35 (Bob Cheng portrait, 2020)** is now linked directly: [[works/taiwaneseamericanhistory-org/footsteps-35||Footsteps #35 — Dr. Bob Cheng 鄭寶鼎博士 (2020)]].
 - **False-positive checked:** the "李秀芳" (soprano/伴奏) in [[works/taiwaneseamericanhistory-org/ourjourneys162||聖地牙哥台灣中心開幕典禮與慶祝音樂會 (2015)]] is a different person (sister of 李智惠) — not absorbed.
+
+## Deepen-X10102300-15 check (2026-10-12)
+
+- **Saturated — no new material found.** Fresh ZH+EN grep (陳秀芳 / Susan Liu / Susan Hsiu-fang / Hsiu-Fang / 秀芳) across all 5 corpus dirs returned 51 files; every substantive hit is already absorbed and linked above (Footsteps series, Festival-of-Nations cultural-exhibition accounts, ourjourneys286/223/309/384, TAH #25 interview, Bob Cheng portrait, essays). The only unlinked hit is `works/index` — a generated index file, not source material. Confirmed false positives: 李秀芳 (UCSD soprano) and 黃秀芳 (Changhua legislator, taiwanjustice news tags).
