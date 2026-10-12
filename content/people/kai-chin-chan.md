@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Kai-Chin Chan (詹凱臣)
 
@@ -100,3 +100,5 @@ last_reviewed: 2026-10-10
 <!-- TJJ-A10100901-25: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-25 article 20240425114253_root_f6ed9463245cb54e (台灣擁核立委名單出爐 ◎公督盟資料, taiwanjustice.net, 刊 2013-04-12 / 快照 2024-04-25) read fresh this attempt: subject link re-checked vs 正文 — 詹凱臣列第二次表決反對名單逐字確認, real, no wrong/spurious links; 2013-04-12 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10110601-28: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110601-28 article 20240425114253_root_f6ed9463245cb54e (台灣擁核立委名單出爐 ◎公督盟資料, taiwanjustice.net, 刊 2013-04-12 / 快照 2024-04-25) read fresh this attempt: subject link re-checked vs 正文 — 詹凱臣列第二次表決反對名單逐字確認, real, no wrong/spurious links; 正文另及丁守中（棄權改投）／羅淑蕾（兩次贊成）等立委均無 vault 頁, 不建鏈; 2013-04-12 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10120100-15: verified 2026-10-12 — fresh 5-dir grep (詹凱臣 / Kai-Chin / surname-variant kai-chin) across works/articles/sources/events/topics returned the unchanged hit set: own page TAH #1154, works index, 2021 WHA 聯合聲明兩筆 (b1d58af16c0a5e5b / 80c0a825a7a661b6), 2013-04-12 核四表決 f6ed9463 — all already linked in From the record / Role in the Community. Two 「Kai-Ching Chang 張凱晶」 works (TAH #29/#512) are a DIFFERENT person (pianist 張凱晶), correctly not linked. No new community facts, no HOLD — page saturated (not thin; 12.4KB, ~20 prior review passes). -->
