@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Yi-Ho Cheng (鄭義和)
 
@@ -62,6 +62,8 @@ From [[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76 — 全美台灣
 
 ## From the record
 
+- 覆核（TJJ-A10110102-27, 2026-10-12）：本 slice 文章 20240224194255_root_92917d4c9a88eba2（人民自救宣言59週年 林佳龍：難想像舊時荒謬, taiwanjustice.net 2023-09-24刊/2024-02-24快照）正文逐行再驗證——以彭明敏文教基金會董事長身分與會並致詞認為彭明敏為台灣民主發展建立基礎，確認見於正文第2、6節，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的 2023-09-24 條目已在庫 — SKIP，無新材料。
+
 <!-- TJJ-A10030500-6 (2026-10-06): wave-2 re-check of slice 文章 92ff3ef6b0b74b9c（彭明敏研討會, 2023-09-24 報導之快照）正文再驗證——以彭明敏文教基金會董事長致詞確認見於正文，subject 連結為真，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。 -->
 
 <!-- TJJ-A09260600-7 (2026-09-27): slice 文章 92ff3ef6b0b74b9c（彭明敏研討會, 2023-09-24 報導之快照）正文再驗證——以彭明敏文教基金會董事長致詞確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2023-09-24 日期事實條目（已掛該快照 wikilink）已在庫 — SKIP，已飽和。 -->
@@ -82,6 +84,8 @@ From [[works/taiwaneseamericanhistory-org/ourjourneys76|TAH #76 — 全美台灣
 - 2023-09-24 — 以彭明敏文教基金會董事長身份出席國史館「台灣人民自救宣言案」史料彙編新書發表暨座談會，並致詞認為彭明敏一生的所做所為為台灣民主發展建立基礎 —— [[articles/taiwanjustice-net/2025/20250213225448_人民自救宣言59週年-林佳龍_難想像舊時荒謬_da7f84e20eff6ae9|TJJ/CNA, 2023-09-24]]。
 - 2023-09-24 — 同一報導另 snapshot：與會時認為彭明敏一生的所做所為為台灣民主發展建立基礎（[[articles/taiwanjustice-net/2024/20240224194255_root_92917d4c9a88eba2|TJJ/中央社記者報導, 2023-09-24]]）。
 - 2023-09-24 — 以彭明敏文教基金會董事長身份在彭明敏教授紀念研討會致詞：他1958年台大法律系畢業、彭明敏為其畢業論文指導教授，彭明敏「台大是培養獨立自主能力、探求真理的地方」等話對他一生及台灣自由民主理念影響深刻，並表示自1970年彭明敏逃亡國外後一路追隨至今（[[articles/taiwanjustice-net/2025/20250213033828_彭明敏研討會促跨世代對談-共同探討民主價值_a1b5696539a4d641|TJJ/CNA, 2023-09-24]]；另見 [[articles/taiwanjustice-net/2024/20240221121609_root_92ff3ef6b0b74b9c|本檔 2024-02-21 快照]]）。
+
+- 覆核（DEEPEN-X10110200-30, 2026-10-12）：以 鄭義和/Yi-Ho Cheng/Yi-Ho 於 works/articles/sources/events/topics 五目錄全新 grep 再驗證——回傳 13 檔（8 works、4 TJJ articles、1 source registry），全部已掛於本頁，無新日期事實、無錯鏈、無虛鏈。唯一新發現為頭銜異文：HOLD — [[works/taiwaneseamericanhistory-org/our-journeys-382|Our Journeys #382（2022 回台餐宴報導）]] 記為「彭明敏文教基金會理事長」，而 2023-09-24 TJJ 報導與本頁 Employment 欄記為「董事長」；頭銜異文各依原始出處保留，不自動合併。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
