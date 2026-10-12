@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Victor Hung (洪家棟)
 
@@ -71,3 +71,4 @@ Victor Hung is active in the Los Angeles Taiwanese American community both as pr
 - Re-check (deepen-x slice-09250700-12, 2026-09-25): fresh re-grep（洪家棟 / Victor Hung, works+articles）hit set identical（#522、#521、#104、whos-who-60、works index、TJJ 傳統週 record）— 全部已吸收。SKIP: verified-saturated.
 - Re-check (deepen-x slice 10081400-1, 2026-10-10): broadened grep to 六桂 across all 5 corpus dirs surfaced NEW material — 2021 TJJ 傳統週 (六桂 online photo exhibition 6/5) and 2025 TJJ 傳統週 (六桂 攝影經典系列展 5/31) absorbed into Timeline; works 541 (2004 六桂文教基金會 music CD) and concerts25 (2010–17 El Monte expositions) linked as Six Kuen organizational context (attribution: org records, not Hung personally). HOLD note: 六桂文教基金會 vs 美國六桂宗親會 naming — treated as related-but-distinct lineage, no date/role auto-merged.
 - Re-check (deepen-x slice 10101000-17, 2026-10-11): ZH+EN grep 洪家棟／Victor Hung／洪家 across all 5 corpus dirs — genuine hit set unchanged (TAH #522, #521, #104, whos-who-60, works index, TJJ 傳統週 records); the 洪家 matches in 導讀台灣 tag pages and the 洪仲丘 articles are the Taiwan-lineage/Hong-Chung-chou cases, NOT this Victor Hung — false positives, not absorbed. 六桂 re-grep surfaced the 2021-series repost (TJJ 20251108) corroborating the 六桂 online photo exhibition on 5月31日 — Timeline date corrected from 2021-06-05 (prior entry conflated it with the 後勁：王建明 screening on 6月5日 in the same 2021 series); 美國六桂宗親會 encyclopedia work record linked in Sources.
+- Re-check (deepen-x slice 10110700-18, 2026-10-12): ZH+EN grep 洪家棟／Victor Hung／六桂 across all 5 corpus dirs — hit set identical to every prior pass (TAH #522, #521, #104, whos-who-60, 美國六桂宗親會 record, works 541 + concerts25, TJJ 2021/2022/2024/2025 傳統週 records); the 2022 登山越野攝影展 notice re-read in-text confirms 會長洪家棟's own five-year California mountain/Milky Way photography — already absorbed in Timeline. SKIP: verified-saturated, no new community material.
