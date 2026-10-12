@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Shu-ching Cheng (賴淑卿)
 
@@ -60,6 +60,7 @@ Corpus-absorbed (deepen-x slice 28, 2026-09-14) from our own memoir [[works/taiw
 ## Corpus re-check (deepen-x slices 09150316-12 & 09150400-5 & 09150500-5, 2026-09-15)
 - SKIP-with-reason: grep 賴淑卿／Shu-ching Cheng 命中僅本人 TAH 百科頁（#1、#882）與 ourjourneys26／26-eng —— 後者已於 Role in the Community（slice 28）完整吸收，memoir 段落無未吸收事實。無衝突。
 - **2026-09-15 (slice 09150500-5):** re-grep 結果不變（#1、#882、ourjourneys26／26-eng、索引）；一切事實已吸收，維持 SKIP。
+- **2026-10-11 (slice 10101500-5):** re-grep 賴淑卿／Shu-ching Cheng／淑卿 across all 5 corpus dirs — hits unchanged: ourjourneys26／26-eng (fully absorbed in slice 28), #1／#882 (self encyclopedia entries), plus same-淑卿 others only: 林淑卿 (ourjourneys270／mystories267 教會留學文、WHA 連署名單)、楊淑卿 (mystories267 紐約黃再添之妻)、洪淑卿／廖郭淑卿 等名單字。本人無新事實、無衝突，維持 SKIP。
 - **2026-10-10 (slice 10090700-11):** re-grep 賴淑卿／Shu-ching Cheng／淑卿 命中：ourjourneys26／26-eng（已於 slice 28 完整吸收）、#1／#882（本人百科條目，無未吸收事實）；另有三位同「淑卿」字之他人——#478 Shuching Liao 廖郭淑卿、#885 S. C. Yang 楊淑卿、以及 #275 林壽英《那段難忘的歲月》中西北大學 Evanston 的張幸吉之妻「淑卿」（本人 1972 清華、1975 威斯康辛大學，非西北大學，且夫家姓張，判定非同一人）。無新事實、無衝突，維持 SKIP。
 
 ## Sources
