@@ -55,6 +55,10 @@ last_reviewed: 2026-10-12
 - 1982-12 (per the memoir account) / 1986 — Met visiting 黨外 figures in the US; the same Bay Area record notes 張燦鍙 and 許信良 speaking in the Bay Area (02.26 entry, [[works/taiwaneseamericanhistory-org/our-journeys-357|357]]).
 - 1986-11-30 — 許信良's 闖關回台 attempt (the 桃園機場事件, together with 林水泉 and the 23rd 北加州台灣人同鄉聯合會會長洪順五) failed, sparking police-citizen clashes at Taoyuan airport ([[works/taiwaneseamericanhistory-org/ourjourneys38|38. 北加州台灣同鄉聯合會三十年回顧]]); the NATMA/楊次雄 record frames the same event as the trigger for 「海外黑名單異議份子多人翻牆返鄉」 and the 1987-11 台醫學會80週年 突破黑名單 訪問團 that followed ([[works/taiwaneseamericanhistory-org/ourjourneys74|74. Our Journeys — 楊次雄與NATMA]]); the event is also its own TAH record — press photo 「許信良化妝抵台，原機遣送到菲律賓」, 1986/12/2 ([[works/taiwaneseamericanhistory-org/1-e8-a8-b1-e4-bf-a1-e8-89-af-e5-8c-96-e5-a6-9d-e6-8a-b5-e5-8f-b0-ef-bc-8c-e5-8e-|1. 許信良化妝抵台，原機遣送到菲律賓 1986/12/2]]).
 - Also in the corpus: an overseas 台醫協會 letter recalls a 同鄉 telling 許信良 「你如果連台灣話都講不好，也不用來這裡與台灣同鄉溝通了」 — a window onto the language/identity debates inside overseas associations ([[works/taiwaneseamericanhistory-org/ourjourneys202|202. Our Journeys 文字紀要]]).
+- 1983-12 — Co-hosted the first 「台灣學生」冬令會 (cadre-training gathering) with 洪哲勝, 劉重義 and 林孝信 — 「集各種不同政治理念的領導人物」. The same record: after 許信良 converted the 美麗島周報 into 「台灣民報」 and it folded, 「台灣公論報」 and 「台灣學生」 were the last non-KMT papers in North America — refines the 美麗島周報 end-of-run timeline ([[works/taiwaneseamericanhistory-org/ourjourneys238|238. 郭倍宏 / 台灣學生]]).
+- 1984 — First Kansas City lecture: delivered in deliberately stiff 福佬話 (eschewing his fluent 北京話/客家話 as a sign of respect), and publicly rebuked by a 同鄉 for his 台灣話 — a second, first-hand account of the language/identity episode, with the narrator defending him on the spot ([[works/taiwaneseamericanhistory-org/ourjourneys200|200. Our Journeys — 語言與認同]]).
+- 1986-03 — Overseas supporters announced the founding of 「台灣民主黨」 in New York, vowing to 遷黨回台; 許信良 joined the party together with 謝聰敏 and 林水泉, with 梅心怡 (then in the U.S.) as English-language press secretary. The 闖關 effort raised US$500,000 from 台裔美國人 — enough for at least 50 plane tickets for blacklisted 台美人 and persona non grata (Fr. James Collignon, Terry Caine, 艾琳達 et al.). A group photo records 林水泉、許信良、謝聰敏、艾琳達、許國泰 (front row) with 田台仁、洪哲勝 et al. in the second row ([[works/taiwaneseamericanhistory-org/our-journeys-363|363. Our Journeys — transnational democracy memory]]).
+- 1983 — 同鄉會 record: 「黨外許信良演講」 during the 王金山/黃政哲 presidency ([[works/taiwaneseamericanhistory-org/ourjourneys123|123. Our Journeys 年表]]).
 
 Corpus re-grep 2026-09-22: above records newly absorbed from works/.
 
@@ -66,6 +70,9 @@ Corpus re-grep 2026-09-22: above records newly absorbed from works/.
 - [[people/chen-zhaonan||陳昭南]]
 - [[people/prof-ming-min-peng||彭明敏教授]]
 - [[people/ahhee-hsu||許丕龍]]
+- [[people/tsung-ming-hsieh||謝聰敏]]
+- [[people/philip-lin||林水泉]]
+- [[people/mei-xinyi||梅心怡]]
 
 <!-- TJJ-A10040500-2: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-2: article e3440fec 籌謀台灣不流血革命(陳昭南 2022-05-09): 許信良 link (獻策高手 1989 LA 會談、美麗島週報社創辦人、革命黨副總書記、1995 DPP 總統候選人) — all mentions confirmed in 正文 re-checked vs 正文 this attempt, link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
@@ -86,3 +93,5 @@ Corpus re-grep 2026-09-22: above records newly absorbed from works/.
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20230606154516）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
 
 <!-- DEEPEN-X10102300-17 (2026-10-12): fresh ZH+EN grep (許信良/Hsin-liang) across all 5 corpus dirs — 47 files. New material absorbed: (1) attribution triangulation — 林文義 memoir 「由許信良創辦」 (ourjourneys237) vs 林衡哲 memoir 「許信良主持的『美麗島週報』」 (ourjourneys70) vs co-founder (陳昭南 memoir) — HOLD retained, all three sources now wikilinked; (2) NATMA/楊次雄 record (ourjourneys74) — 1986 民進黨成立後許信良、林水泉闖關 → 桃園機場事件 framed as trigger for 「海外黑名單異議份子多人翻牆返鄉」 and the 1987-11 台醫學會80週年突破黑名單訪問團, linked to the existing 1986-11-30 line. ourjourneys123-eng/266/357/202/230/106/245/38/#1 re-confirmed existing record, no new dates. No date/age conflicts. -->
+
+<!-- DEEPEN-X10120200-17 (2026-10-12): fresh ZH+EN grep (許信良/Hsin-liang) across all 5 corpus dirs — 47 files, 14 already linked. New material absorbed (4 works newly linked): (1) ourjourneys238 — 1983-12 first 「台灣學生」冬令會 co-hosted with 洪哲勝/劉重義/林孝信; 美麗島周報→「台灣民報」 conversion & fold (refines weekly end-of-run timeline, consistent with founder HOLD — no auto-merge); (2) ourjourneys200 — 1984 Kansas City lecture, first-hand account of the 福佬話 rebuke episode (narrator defended him: chose 福佬話 deliberately out of respect); (3) our-journeys-363 — 1986-03 New York founding of 「台灣民主黨」 (遷黨回台 vow), 許信良 joined with 謝聰敏/林水泉, 梅心怡 English press secretary, US$500k/50+ tickets 闖關 fund, group photo roster; (4) ourjourneys123 — 1983 「黨外許信良演講」 同鄉會 entry. Related Pages extended (謝聰敏/林水泉/梅心意 slugs verified to exist). No date/age conflicts to hold. -->
