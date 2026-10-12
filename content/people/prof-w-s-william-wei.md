@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Prof. W.S. William Wei (魏武雄教授)
 
@@ -51,6 +51,7 @@ Prof. W.S. (William) Wei 魏武雄教授 – History of Taiwanese American (T.A.
 - [[works/taiwaneseamericanhistory-org/whos-who-632-w-s-wei||TAH Who's Who #632 — 魏武雄教授]]
 - Both held as bibliographic records in the [[sources/taiwaneseamericanhistory-org-story-corpus||TAH story corpus]].
 - His T.A. Archives (台美史料中心) role is documented under [[organizations/tah-foundation||TAH Foundation]].
+- His own archival donation is recorded as [[works/taiwaneseamericanhistory-org/collection-of-prof-wu-shyong-williams-wei||TAH #32 — Collection of Prof. Wu Shyong (Williams) Wei 魏武雄教授的收藏 (2017-07-31)]] — a bibliographic record of his collection held in the TAH corpus.
 - Organizations he led are held as work-layer records in the vault: [[works/taiwaneseamericanhistory-org/taiwanese-hakka-assoc-of-greater-philadelphia||Taiwanese Hakka Assoc. of Greater Philadelphia 大費城台灣客家同鄉會 (founding president, 1999)]], [[works/taiwaneseamericanhistory-org/taiwanese-hakka-association-of-east-coast||Taiwanese Hakka Association of East Coast 美東台灣客家會 (president, 2004–2005)]], [[works/taiwaneseamericanhistory-org/taiwanese-hakka-associations-of-america||Taiwanese Hakka Associations of America 美洲台灣客家聯合會 (president, 2014–2015)]], [[works/taiwaneseamericanhistory-org/natpa||NATPA 北美洲台灣人教授協會 (board member, 2006–2007)]] (added DEEPEN-X 09112100-3; all roles already on this page).
 
 ## Sources
