@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Kelvin Yu (游朝敏)
 
@@ -84,3 +84,5 @@ _No filled family fields on the TAH profile._
 
 <!-- TJJ-A10100801-10: verified 2026-10-11 — wave-2 link+deepen slice 10100801-10 article 040657477c37c6cf (台美人之光 游朝凱榮獲美國國家圖書獎, 2020-11-19 刊 / 2020-12-05 快照) read fresh this attempt: subject link re-checked vs 正文 (弟游朝敏、演員兼電視劇作家、《開心漢堡店》獲艾美獎最佳動畫節目 — 確認見於正文), real, no wrong/spurious links; 2020-11-19 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10110001-3: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110001-3 article 9c6973783db0011a (中央社記者黃淑芳游朝凱游銘泉專訪, 2024-07-06 刊 / 2024-07-15 快照) read fresh this attempt: subject link re-checked vs 正文 (游朝敏獲艾美獎最佳動畫、父親首次受訪即因此獎之記述確認見於正文), real, no wrong/spurious links; 2024-07-06 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10110500-18: verified 2026-10-12 — fresh ZH+EN re-grep (游朝敏 / Kelvin Yu / 游朝凱) across content/works content/articles content/sources content/events content/topics: Kelvin-specific hit set (5 works + 2 TJJ articles: a-chat-with-actor-kelvin-yu, kelvin-yu, american-born-chinese-disney, 30-in-the-studio, 1-kelvin-yu-on-diversity, emmy-award-for-outstanding-animated-program, 121-paul-pai-shih-lee, 040657477c37c6cf, 9c6973783db0011a) identical to prior checks, all already wikilinked in Role in the Community / From the record. Remaining hits are Charles-Yu-centric records (awards-93, my-stories-768/908, whos-who264-charles-yu, 2016台語研習會/2017台美文藝 TJJ articles) naming 游朝凱 only — no Kelvin-specific new material; 2017台美文藝 record confirms the 筆會 introduced 游朝凱 to the community, brother-side only. No new memoir/club material absorbable — saturated, no new material. -->
