@@ -100,3 +100,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090601-1: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-1 article cbf185d4e8137928 (一顆難以忘懷的台灣心, 廖清山 2017-09-19): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100501-1: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-1 article cbf185d4e8137928 (一顆難以忘懷的台灣心, 廖清山 2017-09-19): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10120315-6: saturated 2026-10-12 — corpus grep (賴文雄 / Frank Lai / Wen Hsong Lai / W. S. Lai) across works/articles/sources/events/topics returned 17 hits, ALL already absorbed in Role in the Community / From the record (ourjourneys81 & -eng, 234, 7, 58, 2, 240, 62 & -eng, our-journeys-363, TAH #53, #1014, #1044, TJJ cbf185d4). No new material; existing HOLD (黃根深 introduction vs 1966-06-18 LA-delegate seating) left unreconciled per rule. -->
