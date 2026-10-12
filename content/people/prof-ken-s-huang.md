@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Prof. Ken S. Huang (黃根深教授)
 
@@ -63,6 +63,8 @@ Master of Arts (MA), Drawing, School of Art and Art History, University of Iowa,
 - **TAC-WC revival detail:** per 黃東昇's 2020 history, Ken Huang spent ~11 years trying to revive TAC-WC after the 1999 conference, persuading leaders in San Diego and Los Angeles; in 2011 he secured the backing of NATPA President 李學圖 (Dr. Shyu-tu Lee) to hold the 31st NATPA Annual Conference jointly with TAC-WC at UC San Diego, which he coordinated with Darice Lee (洪珠美), and again organized the 2012 TAC-WC at UC Santa Barbara — [[works/taiwaneseamericanhistory-org/ourjourneys352|TAH #352 — History of TAC-WC, 黃東昇 03/2020]]. HOLD: #352 states he "passed away in 2017" while this page's era field and the 06/2018 San Diego memorial exhibition indicate 2018 — retained as-is.
 - **Art as movement work:** authored 「寫在畫展之前」(10/2016) ahead of his exhibition — [[works/taiwaneseamericanhistory-org/ourjourneys256|TAH #256]]; organized the 世界台灣人美術展覽會, 07/1985 — [[works/taiwaneseamericanhistory-org/art-exhibitions-1|TAH art exhibitions #1]].
 - **Memorial video:** 「典型在宿昔—追思黃根深教授」 — [[works/taiwaneseamericanhistory-org/videos106|TAH videos #106]].
+- **US Census identity advocacy (2016):** co-initiated the 「Taiwanese are Taiwanese」 petition asking the US Census Bureau to add "Taiwanese" to the 2020 Census race listing — [[articles/taiwanjustice-net/2024/20240719003614_root_36738f1d5cef98e1|Taiwanese are Taiwanese — Census US-2020 petition, 2016]].
+- **2017 王康陸人權獎 (ceremony detail):** the award was presented 12/09/2017 in San Diego at the 全美台灣人權協會 annual meeting alongside the 鄭南榕紀念獎, with co-recipients 鄭文龍 and 王泰和 — [[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c|2017 FAHR 年會暨王康陸人權獎頒獎典禮]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
@@ -81,3 +83,4 @@ Master of Arts (MA), Drawing, School of Art and Art History, University of Iowa,
 - Re-verified 2026-09-14 (deepen-x slice 09140741-2): all wikilink targets (FAHR, NATPA-SC, TAC-WC Board, huang-gen-shen, kang-lu-wang, works #162/#308/#857/#39/#128) confirmed on disk; the 1972/1973 Iowa date discrepancy retained as-is pending verification.
 - Deepen pass 2026-10-09 (deepen-x slice 10081009-1): fresh corpus grep (黃根深/Ken S. Huang/Ken Huang) surfaced 7 previously-unabsorbed records — #336 (2011 TAC/WC reactivation coordinator, 台獨盟 member), #265 (his own 2011 conference retrospective), #75/#265 (2014 FAHR director roster), #1040 (co-author of FAHR 1970s–90s history), #545 (陳婉真 profile 「用畫筆搞台獨」), #32 (2018 San Diego memorial exhibition), #64 — absorbed into Role in the Community; FAHR director-vs-president HOLD noted.
 - Deepen pass 2026-10-11 (deepen-x slice 10100600-7): corpus grep surfaced 6 further records — #212 (LA 生活座談會 1966–1971 membership), #240 (UCLA 1967–1970), #352 (黃東昇 TAC-WC history: 11-year revival effort, 2011 joint NATPA conference w/ 李學圖, 2012 UCSB), #256 (his own 寫在畫展之前, 10/2016), art-exhibitions #1 (世界台灣人美術展覽會 07/1985), videos #106 (memorial video) — absorbed into Role in the Community; #352's 2017 death date vs 2018 memorial-exhibition evidence held as noted above.
+- Deepen pass 2026-10-12 (deepen-x slice 10110200-10): corpus grep surfaced 2 previously-unabsorbed taiwanjustice.net records — the 2016 「Taiwanese are Taiwanese」 US Census 2020 petition he co-initiated, and the 2017-12-09 San Diego 王康陸人權獎 ceremony (co-recipients 鄭文龍、王泰和) — absorbed into Role in the Community. All other corpus hits (TAH works #162/#308/#336/#39/#75/#1040/#265/#212/#240/#256/#352/#545/#64/#32/#128/#106/art-exhibitions-1, the UCLA-panel repost article, 鄭炳全's 2024/2025 memoirs) were already reflected on the page. No new conflicts to HOLD.
