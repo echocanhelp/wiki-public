@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Prof. Trong-Rong Tsai (蔡同榮教授)
 
@@ -46,7 +46,7 @@ Prof. Trong-Rong Tsai 蔡同榮教授 – History of Taiwanese American (T.A. Ar
 ## Role in the Community
 - **自述作品**：〈FAPA的誕生〉（2014/11，[[works/taiwaneseamericanhistory-org/ourjourneys65|OJ #65]]）、〈我要回去〉（[[works/taiwaneseamericanhistory-org/mystories148|MS #148]]）、〈顧台灣〉（2010/04，[[works/taiwaneseamericanhistory-org/171-e9-a1-a7-e5-8f-b0-e7-81-a3-e8-94-a1-e5-90-8c-e6-a6-ae-e6-94-bf-e6-b2-bb|TAH #171]]）、〈二萬名移民額〉（2014/11，[[works/taiwaneseamericanhistory-org/ourjourneys59|OJ #59]]）、〈留學生〉（[[works/taiwaneseamericanhistory-org/mystories147|MS #147]]）——本人回憶錄為一手材料。
 - **UFI/UFAI 時期（1966）**：1966/07/04 全美台灣獨立聯盟（UFAI）成立時，為洛杉磯地區代表，任執行委員會「島內工作」、中央委員會委員（[[works/taiwaneseamericanhistory-org/ourjourneys81|OJ #81]]）。
-- **陳文成案國會聽證**：TAH 基金會創始紀事稱「特別感謝 Tron-rong Tsai（蔡同榮）」——因他奔走，多場國會聽證讓陳文成遇害背景曝光（[[works/taiwaneseamericanhistory-org/ourjourneys8-eng|OJ #8 ENG]]）。
+- **陳文成案國會聽證與提告計畫**：TAH 基金會創始紀事稱「特別感謝 Tron-rong Tsai（蔡同榮）」——因他奔走，多場國會聽證讓陳文成遇害背景曝光（[[works/taiwaneseamericanhistory-org/ourjourneys8-eng|OJ #8 ENG]]）；證詞者陳唐山、蔡正隆、陳素貞均成永久國會記錄，兩次聽證直接催生 FAPA。自述回憶錄（OJ #65，2014/11 刊）披露：他曾聘請美國著名民權律師 Ramsy Clark 準備在美控告國民黨殺害陳文成（回憶稱「事件大約發生在兩年前」，未標明確切年份——HOLD: 年份依敘事視角不明，勿與 1981/1982 案發時程混併），資料已收集完整、同鄉會亦允諾財力支援，惟消息疑似外洩，國民黨間接威脅陳素貞（擔心在台親屬遭暗殺），控訴案遂告流产（[[works/taiwaneseamericanhistory-org/ourjourneys65|OJ #65]]）。
 - **FAPA 首任會長（1982–）**：424 事件後一度淡出，1982 年起主導 FAPA 並任第一任會長；籌備始於羅福全家廚房，本人態度極積極（[[works/taiwaneseamericanhistory-org/ourjourneys49|OJ #49]]）；FAPA 35 周年回顧確認由蔡同榮委員等人在美創立（[[works/taiwaneseamericanhistory-org/ourjourneys320|OJ #320]]）；1982 年名錄載「FAPA President: Tron-Rong Tsai」（[[works/taiwaneseamericanhistory-org/ourjourneys123-eng|OJ #123 ENG]]）；曾以台灣人公共事務會代表身份出席（[[works/taiwaneseamericanhistory-org/ourjourneys266|OJ #266]]）。
 - **1988 人口普查案**：與彭明敏自東部赴洛杉磯，出席戴謀利（Dymally）議員在南加大附近希爾頓飯店的演講座談，支持台美人自列普查欄（[[works/taiwaneseamericanhistory-org/ourjourneys253|OJ #253]]）。
 - **返台參政象徵**：1990 年代黑名單解禁後，以「立委蔡同榮」列名於教授協會會員返台參政名單（[[works/taiwaneseamericanhistory-org/ourjourneys259|OJ #259]]）。
