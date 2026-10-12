@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 deepened: diaspora-relationship layer 2026-09-26
 name_en: "Lai Ching-te"
 name_zh: "賴清德"
@@ -94,7 +94,7 @@ Comparative frame from [[sources/zh-wikipedia-lai-ching-te||zh.wp]]; movement-re
 - **Diaspora actors named in the new layer:** [[people/lin-rongsong|林榮松]] (海外助選團團長, 2020) · 吳兆峯 (大洛杉磯信賴之友會副總幹事 — no page yet, 1-mention) · 彭光理 Michael Fonte (AIT-DC, 賴頒獎章 — no page yet) · 童振源 (僑委會, 2021 228 — no page yet) · [[people/bi-khim-hsiao|蕭美琴]] (駐美代表→2024搭檔, strengthened)
 - **Vault people links:** [[people/tsai-ing-wen|蔡英文]] (任命閣揆、2020搭檔) · [[people/bi-khim-hsiao|蕭美琴]] (2024搭檔) · [[people/yi-ho-cheng|鄭義和]] (FCA 2022接見) · [[people/freeman-huang|Freeman Huang]] (TJJ publisher)
 - **Press:** [[organizations/taiwanjustice-net||台灣公義網]] — 211 article hits, hub at [[articles/taiwanjustice-net/index||TJJ archive index]]
-- **Current-history (family, Tier E living record):** the transnational-repression case touching his son [[people/lai-ting-yu|賴廷與]] is held as live event records: [[topics/t-跨國鎮壓-到了賴清德之子-台灣激憤-網民肉搜張婉瑩的奢侈生活|跨國鎮壓到了賴清德之子 (RFI)]] · [[topics/t-監視賴清德之子賴廷與不只1人-fbi突襲加州華商豪宅-疑似共犯已搭機返中國-上報up|FBI突襲加州華商豪宅 (上報)]] · [[topics/t-討論牆-中國女間諜跟監賴清德兒子-洛杉磯機場遭美fbi逮捕-長相首度曝光-line|中國女間諜跟監 (LINE TODAY)]] · [[topics/t-沈伯洋-賴清德兒子遭跨國鎮壓頻傳-政院-正密集討論-反滲透法-修法|政院討論反滲透法修法 (Yahoo)]] · [[topics/t-41j肉聲-中共女間諜不只跟監賴清德兒-再爆監視另一-反共台灣民選官員-鏡報|監視擴大到另一反共民選官員 (鏡報, filed 2026-10-10)]] — all allegations recorded as reported, not verified; biography detail lives on the son's page, not here.
+- **Current-history (family, Tier E living record):** the transnational-repression case touching his son [[people/lai-ting-yu|賴廷與]] is held as live event records: [[topics/t-跨國鎮壓-到了賴清德之子-台灣激憤-網民肉搜張婉瑩的奢侈生活|跨國鎮壓到了賴清德之子 (RFI)]] · [[topics/t-監視賴清德之子賴廷與不只1人-fbi突襲加州華商豪宅-疑似共犯已搭機返中國-上報up|FBI突襲加州華商豪宅 (上報)]] · [[topics/t-討論牆-中國女間諜跟監賴清德兒子-洛杉磯機場遭美fbi逮捕-長相首度曝光-line|中國女間諜跟監 (LINE TODAY)]] · [[topics/t-沈伯洋-賴清德兒子遭跨國鎮壓頻傳-政院-正密集討論-反滲透法-修法|政院討論反滲透法修法 (Yahoo)]] · [[topics/t-41j肉聲-中共女間諜不只跟監賴清德兒-再爆監視另一-反共台灣民選官員-鏡報|監視擴大到另一反共民選官員 (鏡報, filed 2026-10-10)]] · [[topics/t-牆外文摘-張婉瑩只監控了賴清德兒子嗎-德國之聲|牆外文摘：張婉瑩只監控了賴清德兒子嗎 (DW via LINE TODAY, filed 2026-10-11)]] — all allegations recorded as reported, not verified; biography detail lives on the son's page, not here.
 - **Current-history (2026-10 Double Ten wire records):** the 國慶演說 word-count report [[topics/t-快訊-賴清德國慶演說-喊台灣42次-中華民國2次-中華民國台灣0次|喊台灣42次、中華民國台灣0次 (ETtoday)]] and the PRC 國台辦 response [[topics/t-taiwan-affairs-office-spokesperson-slams|國台辦抨擊雙十演說 (Global Times via TAO)]] are held as living wire records, facts as reported.
 
 ## From the record
@@ -203,5 +203,7 @@ Comparative frame from [[sources/zh-wikipedia-lai-ching-te||zh.wp]]; movement-re
 <!-- TJJ-A10100901-15: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-15 article 20240613095611_root_4c65a9afe4934086 (520就職典禮賴清德家人將出席·蕭美琴母親返台觀禮, taiwanjustice.net 中央社記者葉素萍/賴于榛, 刊 2024-05-19 / 快照 2024-06-13) read fresh this attempt: subject link (賴清德 總統當選人 家人與萬里鄉親近500人包車出席就職慶祝大會) re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100901-27: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-27 article 20250213214800_0258611f5f824a5d (520就職典禮賴清德家人將出席·蕭美琴母親返台觀禮, taiwanjustice.net 中央社記者葉素萍/賴于榛報導, 刊 2024-05-19 / 快照 2025-02-13) read fresh this attempt: subject link re-checked vs 正文 — 賴清德以總統當選人身份明日宣誓就職、妻子吳玫如將出席典禮（選期間拍片力挺屬罕見曝光）、故鄉萬里與新北鄉親師友近500人包車北上參加慶祝大會之記述逐字確認見於正文, real, no wrong/spurious links (吳玫如 mentioned in 正文 but no vault page — unlinked per convention); 2024-05-20 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10102129-2: 2026-10-11 slice re-grep (賴清德/Lai Ching-te/surname 賴 across works/articles/sources/events/topics). works hits unchanged (ourjourneys181, ourjourneys192, our-journeys-382, a-republic-of-taiwan-chloe-shih — all already wikilinked). NEW material found: 1 topics/ event record filed 2026-10-11 by news-scan, not previously linked from this page — t-牆外文摘 (DW via LINE TODAY, asks whether surveillance extended beyond 賴清德's son) linked into Network current-history Tier-E cluster, allegations kept as reported per CONTROL §1b labeling rule. Other new hits since last pass are non-diaspora: t-國慶焰火台東 (domestic event, no community fact — not absorbed), t-沈伯洋真的遭到境外監控 / t-美國司法部長打擊跨國鎮壓 / t-加拿大國會制裁法案 (belong to the transnational-repression topic/org pages, not this biography). No dates/ages merged, no conflicts to HOLD. -->
 
 <!-- TJJ-A10100901-23: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-23 article 20231201224837_root_c1e603063718b409 (返台投入選舉傳聞引討論·蕭美琴臨時缺席僑界活動, taiwanjustice.net 轉載中央社記者華盛頓專電, 刊 2023-11-11 / 快照 2023-12-01) read fresh this attempt: 正文逐字確認「搭配民進黨總統參選人賴清德投入選戰」「賴清德9日仍不願鬆口…不承認也不否認」「相信台海和平穩定也會是賴清德執政主軸」— 賴清德為本文核心提及人物, 惟原 Subjects 清單遺漏該 link, 本 attempt 已補 [[people/lai-ching-te|賴清德]] 於 article Subjects; 2023-11-11 dated fact w/ article wikilink newly added to From the record (此前僅見於 narrative 段, 非 From the record 條目). -->
