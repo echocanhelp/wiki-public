@@ -11,7 +11,7 @@ tags:
   - story-corpus
 website: https://www.taiwaneseamerican.org/
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # TaiwaneseAmerican.org
 
@@ -36,6 +36,8 @@ In founder Ho Chie Tsai's own account ([[works/taiwaneseamericanhistory-org/myst
 - **100 Passionate People Project** — profile series of community figures.
 - **Our Taiwanese American Story archive** — community story archive aligned with the site's stated value of "preserving and archiving an evolving history and legacy."
 - Platform support for artists, musicians, and actors in non-traditional career paths.
+- **Betty L. Yu and Jin C. Yu Creative Writing Prizes** — announced 2021-02-11, the site's first creative-writing award for Taiwanese American high-school and college students, co-founded with novelist [[people/charles-yu|Charles Yu (游朝凱)]]; winners' works are published on TaiwaneseAmerican.org, with judges including [[people/shawna-yang-ryan|Shawna Yang Ryan (楊小娜)]] (see [[articles/taiwanjustice-net/2026/20260211084131_全國圖書獎得主游朝凱charles-yu為台美人青年創意作家_5b6cede86851b2ba|Taiwan Justice, 2026-02-11]]).
+- **Voice in the 2021 census-category dispute** — Editor-in-Chief [[people/leona-chen|Leona Chen]] spoke for the organization in the September 2021 controversy over a Pew report grouping Taiwanese and Chinese Americans together, in the open letter co-signed by community groups (see [[articles/taiwanjustice-net/2021/20211020142022_2021_09_26_美皮尤人口調查報告修正_區隔台裔與華裔分別統_81e80ba38969bf88|Taiwan Justice, 2021-09-26]]).
 
 The organization was profiled in the TAH.org Who's Who corpus circa 2015 as a community institution in its own right — see [[works/taiwaneseamericanhistory-org/12-taiwaneseamerican-org|TAH Who's Who entry 12]] and [[works/taiwaneseamericanhistory-org/4taiwaneseamerican-org|entry 4]] (duplicate numbering across corpus editions). In his own Who's Who profile [[works/taiwaneseamericanhistory-org/43-dr-ho-chie-tsai-e8-94-a1-e5-92-8c-e6-9d-b0-e9-86-ab-e5-b8-ab-the-founder-of-w|entry 43]], Ho Chie Tsai situates the site's founding within a longer personal arc: parents who immigrated in 1972 and were active in the Midwestern Taiwanese American community of the 1970s–80s; youth summer camp programs he helped run in the late 1980s–1990s (Midwest and East Coast); co-founding one of the first Taiwanese American student organizations at his university and networking them into the first intercollegiate networks and conferences. By the mid-2010s the site's Facebook page had passed 16,000 followers, doubling in three years.
 
