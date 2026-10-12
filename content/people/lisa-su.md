@@ -9,7 +9,7 @@ tags:
   - semiconductor
   - ceo
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Lisa T. Su (蘇姿丰)
 
