@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Zhang Xuanxin (張宣信)
 
@@ -178,3 +178,5 @@ Pages that link to **zhang-xuanxin** (zhang-xuanxin):
 
 <!-- TJJ-A10101401-5: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10101401-5 article 131a1c8ea05f85ea (台美人台加人 p360, 2024-07-15快照) read fresh this attempt: 「VOA專訪張宣信牧師：政治傾向不同不是敵人」條目逐字確認見於正文 (line 236), subject link 為真, 無錯鏈、無虛鏈; 2022-05-19 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10110102-20: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110102-20 article 8362234ba338aea7 (南加州槍擊案的省思, 2022-05-17): 張宣信牧師與教友奮不顧身制服兇手 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10110200-25: verified 2026-10-12 — fresh grep 張宣信/Billy Chang/Zhang Xuanxin/宣信 across works/articles/sources/events/topics: 14 non-index files (9 TJJ articles + 4 TAH works + ITPC source page). Every hit already wikilinked on this page — saturated, no new material. -->
