@@ -4,7 +4,7 @@ type: person
 tags:
   - 
 verification_status: published
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Dr. Choan-Seng Song (宋泉盛)
 
@@ -140,3 +140,4 @@ Use the shared intake process at Echopedia Community Contributions Hub and inclu
 <!-- TJJ-A10060900-1: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060900-1 article(s) a244776e9eb57979（會館台灣學校古典音樂欣賞・海頓場, 2016-06-06刊, 2023-01-29快照）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10070600-2: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10070600-2 article b4e27e98036e15d0 (會館台灣學校古典音樂欣賞・海頓/台灣人音樂家專場報導, 2016-06-06刊, 2024-05-22快照): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- DEEPEN-X10112300-30: verified 2026-10-12 — full-corpus grep (宋泉盛/Choan-Seng Song/Song Choan/泉盛, 5 dirs, 18 hits) re-checked: every hit is a source already cited above (Our Journeys #350/#76/#357/#268/#283/#33, TAH #178/#188/#800, TJJ 卓甫良與TAF story ×3 snapshots, TCNN memorial, index/tah pages). No uncited corpus material found — saturated, no new material. -->
