@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # James Liang (梁政吉)
 
@@ -74,3 +74,4 @@ _No filled family fields on the TAH profile._
 <!-- slice 10100600-31: verified 2026-10-11 — idempotent re-verify. Fresh grep 梁政吉/James Liang/政吉 across works+articles+sources+events+topics: hit set identical to prior attempts (194, 727, ourjourneys186/186-eng, ourjourneys110/110-eng, works index, sources registry, two already-linked TJJ WHA 聲明 snapshots). No new corpus facts. Verified-saturated SKIP. -->
 
 <!-- TJJ-A10100801-7: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-7 article 80c0a825a7a661b6 (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, 2025-11-08 快照, 同文於 b1d58af16c0a5e5b, 聲明 2021-05-13): subject link re-checked vs 正文 this attempt — 梁政吉 列名共同發起人清單, real, no wrong/spurious links; 2021-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- slice 10110315-2: verified 2026-10-12 — idempotent re-verify. Fresh grep 梁政吉/James Liang/政吉 across works+articles+sources+events+topics: hit set identical to prior attempts (194, 727, ourjourneys186/186-eng, ourjourneys110/110-eng); no new corpus facts. Verified-saturated SKIP. -->
