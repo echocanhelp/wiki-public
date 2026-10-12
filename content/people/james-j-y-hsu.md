@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # James J. Y Hsu (許正餘博士)
 
@@ -51,6 +51,7 @@ Adjunct Professor, Department of Engineering and System Science, National Tsing 
 - Re-verified (deepen-x slice 09162200-2, 2026-09-16): hit set identical again ([[works/taiwaneseamericanhistory-org/ourjourneys26|ourjourneys26]], [[works/taiwaneseamericanhistory-org/ourjourneys352|ourjourneys352]], [[works/taiwaneseamericanhistory-org/397-james-j-y-hsu-e8-a8-b1-e6-ad-a3-e9-a4-98-201505|#397]], 民富論 article, MANIFEST, works/index). SKIP: saturated; no new absorbable material, no conflicts to HOLD.
 - Re-verified (deepen-x slice 10090400-31, 2026-10-10): fresh 5-dir grep (許正餘 / James J. Y Hsu) returns the same absorbed set. The English translation of the San Diego memoir, [[works/taiwaneseamericanhistory-org/ourjourneys26-eng|Our Journeys #26 (English)]], confirms the library account — 「Tsai-wei Huang and James J. Y. Hsu were the greatest contributors」, Library-of-Congress cataloguing, with Hsu 「gave some guidance on the software」 while 黃彩娓 keyed the records by hand — consistent with, and no conflict against, the ZH account already absorbed. Record #397 is bibliographic only (full text stays in the vault). No new absorbable material; no conflicts to HOLD.
 - Re-verified (deepen-x slice 10101300-3, 2026-10-11): fresh 5-dir grep (許正餘 / James J. Y Hsu / James J. Y. Hsu) returns the identical absorbed set (ourjourneys26, ourjourneys26-eng, ourjourneys352, #397, publications-1328, 民富論 article, MANIFEST, works/index, sources/taiwaneseamericanhistory-org). SKIP: saturated; no new absorbable material, no conflicts to HOLD.
+- Re-verified (deepen-x slice 10120018-5, 2026-10-12): fresh 5-dir grep (許正餘 / James J. Y. Hsu) returns the identical absorbed set. Surname-only grep (許正) additionally surfaces 許正龍 (Thomas Shu), 許正雄 (Daniel C. Hsu, D.M.D.) and 許正義 (Ron Chen 陳榮成) — distinct persons, not aliases, correctly excluded. SKIP: saturated; no new absorbable material, no conflicts to HOLD.
 
 ## Sources
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/james-j-y-hsu/)
