@@ -71,6 +71,7 @@ last_reviewed: 2026-10-12
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+- [[organizations/taiwanese-american-council||Taiwanese American Council]] — mentioned in [[works/taiwaneseamericanhistory-org/ourjourneys356|Our Journeys #356]]
 - Re-verify note（deepen-x slice-09220800-15, 2026-09-22）：fresh grep 新增 TAH 檔案 175（TAA/North Jersey 創會會長, 1981）及 ourjourneys356 中文版 — 已吸收至上；FAPA 創會年份 1981 vs 1982 冲突仍 HOLD。
 - 覆核（TJJ-A09171200-9, 2026-09-24）：slice 09171200-9 四篇與 TJJ-A09170400-17 同文（北市議員缺額 93c0627d、全美會228 f6213c19、長青教室tag 2777c888、會館tag p13 ced69523）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
 - 覆核（deepen-x slice-09230317-12, 2026-09-24）：fresh grep 許盛男／Maurice Hsu（content/works+content/articles）hit set 與已吸收完全一致（ourjourneys09/9-eng/356-eng、TAH 檔案 174/175/176/308）；Our Journeys #09 原文再確認倡組「紐約紐澤西台灣人社團聯合會」及公推創會會長敘述已在庫 — 飽和，無新材料；FAPA 創會 1981 vs 1982 冲突仍 HOLD。
@@ -107,3 +108,7 @@ last_reviewed: 2026-10-12
 <!-- deepen-x slice 10110000-29, 2026-10-12: fresh grep 許盛男|Maurice Hsu across works/articles/sources/events/topics = 16 hits; hit set identical to already-absorbed links (TAH 檔案 174/175/176/308, OJ#09/#09ENG/#356/#356ENG, TJJ tag/categor snapshot pages, sources/index, MANIFEST) — saturated, no new material; FAPA 創會 1981 vs 1982 冲突仍 HOLD. -->
 
 <!-- TJJ-A10110001-20: verified 2026-10-12 — wave-2 link+deepen re-check of article c691e327b9133c1a (Tag: 心得報告, 發文 2018-04-06／快照 2024-07-19) read fresh this attempt: subject link re-checked vs 正文, 「長青教室心得報告—許盛男醫師講『台灣話的源流』 11/16/2016」確認見於條目, real, no wrong/spurious links; 2016-11-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- deepen-x slice 10120315-28, 2026-10-12: fresh untruncated grep 許盛男|Maurice Hsu|盛男 across works/articles/sources/events/topics = 16 hits; hit set identical to already-absorbed links (TAH 檔案 174/175/176/308, OJ#09/#09ENG/#356/#356ENG, TJJ tag/categor snapshot pages, sources/index, MANIFEST) — saturated, no new material; FAPA 創會 1981 vs 1982 冲突仍 HOLD. -->
+
+<!-- deepen-x slice 10120316-2, 2026-10-12: fresh grep 許盛男|Maurice Hsu|盛男 across works/articles/sources/events/topics — hit set identical to already-absorbed links (TAH 檔案 174/175/176/308, OJ#09/#09ENG/#356/#356ENG, TJJ tag/categor snapshot pages, sources/index, MANIFEST); 盛男-only grep adds nothing new. 1 new wikilink added: organizations/taiwanese-american-council (mentioned in OJ#356 record, page exists, previously unlinked). No new biography material; FAPA 創會 1981 vs 1982 冲突仍 HOLD. -->
