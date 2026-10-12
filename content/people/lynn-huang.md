@@ -256,3 +256,4 @@ _No filled family fields on the TAH profile._
 printf '
 '<!--
 <!-- TJJ-A10110601-19: verified 2026-10-12 — wave-2 link+deepen re-check of article 6ba229d2998bbfa4 (以立合唱團演唱末日之淚—選自威爾第安魂曲, 發文 2022-12-14 / 快照 2025-02-13): subject link lynn-huang 黃令先 re-checked vs 正文 this attempt (「鋼琴：黃令先」確認見於正文), real, no wrong/spurious links (吳渭榮／Vahagn Hovents／廖健榮 正文提及但無頁面, 維持純文字不造鏈); 含該文 wikilink 的 2022-10-01／10-08 dated fact 已在 From the record — saturated, no new material. -->
+<!-- TJJ-A10110601-26: verified 2026-10-12 — wave-2 link+deepen re-check of article a40b37bc03b2b9cb（以立合唱團世界首演「希望之光」影音, 發文 2022-12-02 / 快照 2024-02-28）: subject link lynn-huang 黃令先 re-checked vs 正文 this attempt (「作曲、指揮：黃令先 Lynn Huang」確認見於正文), real, no wrong/spurious links (剪輯廖健榮 Louis Liao 正文提及但無頁面, 維持純文字不造鏈); 含該文 wikilink 的 2022-12-02 dated fact 已在 From the record — saturated, no new material. -->
