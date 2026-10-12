@@ -12,7 +12,7 @@ tags:
   - diaspora-ministry
   - immigrant-church
 verification_status: published
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Formosan Presbyterian Church in Los Angeles (FPCLA)
 
