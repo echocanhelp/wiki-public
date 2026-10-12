@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # K. C. Liao (廖國仲)
 
@@ -46,6 +46,8 @@ last_reviewed: 2026-10-11
 - 2026-09-23 re-grep (deepen-x slice 09221000-13): SKIP — fresh grep (廖國仲, works+articles) hit set unchanged: own records (#883, 老猴集 #154, 楊遠薰傳 mystories264), 台灣之音回憶 ourjourneys2, 李彥禎 essay ourjourneys264, and the 2021/2024/2025 彭昕 memorial memo (2014 NY 追思會) — all already cited above; no new absorbable facts. The HOLD (TAH 「-2005」 vs 2014 memorial) stands.
 
 ## From the record
+
+- 2026-10-12 re-grep (deepen-x slice 10110400-23): SKIP — fresh ZH+EN grep (廖國仲 / K. C. Liao / KC Liao) across all 5 corpus dirs returned 10 files, the previously cited hit set unchanged: own records (#883 / 老猴集 #154 / mystories264), ourjourneys2 台灣之音回憶 (first US$1,000 cheque 「廖國仲」, 「善事一牛車，講話無半聲」), ourjourneys264 李彥禎 essay, TJJ 懷念彭昕醫師 triple copy (6763e8f4 / 80e2a87a / 299c00bb — 2014 NY 追思會、家父摯友、美東台派大老長期贊助彭明敏), works/sources indexes, and the Anne Hu Lunchbox 「KC Liao」 name-clash hit (school principal vs Wellmore 董事長 — identity unconfirmed, HOLD). No new absorbable facts; 「-2005」 vs 2014 memorial HOLD stands.
 
 - 2026-10-11 re-grep (deepen-x slice 10100800-28): SKIP — fresh ZH+EN grep (廖國仲 / K. C. Liao / KC Liao) across all 5 corpus dirs returned 11 files, the previously cited hit set unchanged: own records (#883 / 老猴集 #154 / mystories264), ourjourneys2 台灣之音回憶, ourjourneys264 李彥禎 essay, TJJ 懷念彭昕醫師 triple copy (6763e8f4 / 80e2a87a / 299c00bb), sources + works indexes, and the Anne Hu Lunchbox 「KC Liao」 name-clash hit (identity unconfirmed — school principal vs Wellmore 董事長). No new absorbable facts; 「-2005」 vs 2014 memorial HOLD stands.
 
