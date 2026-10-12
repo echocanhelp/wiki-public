@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Emily Lin Lee (林榮峰)
 
@@ -50,6 +50,7 @@ For more bio information, please click link in Who’s Who : 564. Emily Lin Lee 
 - Corpus re-grep 2026-09-26 (slice 09260317-17): 林榮峰／Emily Lin Lee／Emily Lee across works+articles returns the identical saturated set (whos564, artist53, ourjourneys316 義工老師 roster, footsteps-32/33, index); the ourjourneys316 passage re-read confirms the 李林榮峰 義工老師 listing already absorbed. No new facts, no conflicts. Verified-saturated.
 - Corpus re-grep 2026-10-10 (slice 10090315-5): 林榮峰／李林榮峰／Emily Lin Lee／Emily Lee across works+articles+sources+events+topics returns the identical saturated set (whos564, artist53, ourjourneys316 義工老師 roster, footsteps-32/33, index); surname-only and 榮峰 scans surface only unrelated business-news articles. No new memoir material, no conflicts. Verified-saturated.
 - Corpus re-grep 2026-10-11 (slice 10101204-4): 林榮峰／Emily Lin Lee／Emily Lee across works+articles+sources+events+topics returns the identical saturated set; the only non-page hit is the [[sources/taiwaneseamericanhistory-org|source index]] wikilink listing. No new memoir material, no conflicts. Verified-saturated.
+- Corpus re-grep 2026-10-12 (slice 10112243-4): 林榮峰／李林榮峰／Emily Lin Lee／Emily Lee／榮峰 across works+articles+sources+events+topics returns the identical saturated set (whos564, artist53, ourjourneys316 義工老師 roster, footsteps-32/33, index); the two 2026/02 taiwanjustice-net article hits are false positives (中央社記者鍾榮峰, unrelated news). No new memoir material, no conflicts. Verified-saturated.
 
 ## Sources
 - [TAH #564 encyclopedia: 564. Emily Lin Lee 林榮峰 /2015/08](https://taiwaneseamericanhistory.org/whos564-emily-lin-lee/)
