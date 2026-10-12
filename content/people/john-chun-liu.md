@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # John Chun Liu (劉醇逸)
 
@@ -53,6 +53,7 @@ Accomplishment
 - Corpus re-grep 2026-09-23 (slice 09221000-1)：命中集與前次相同，另新見上述 dinner-with-john-liu 紀錄（已收入）；whoswho1458（劉宗憲）與 index/MANIFEST 非本人語料。
 - Corpus re-grep 2026-10-10 (slice 10081400-21)：全五語料目錄 ZH+EN+主計長 regex 命中集與 09-23 相同（ota-148、whos-who-50、john-c-liu、ourjourneys5-9-11-donations-2002、dinner-with-john-liu、2022 taiwanjustice 夏令會報導）；2025-07 taiwanjustice 報導之「紐約市主計長」為參選人藍德（Brad Lander），非本人，屬頭銜碰撞。verified saturated，無新社群事實可吸收。
 - Corpus re-grep 2026-10-11 (slice 10101100-7)：全五語料目錄 ZH+EN+surname regex 命中集與前次完全相同（ota-148、whos-who-50、whoswho1458、ourjourneys5-9-11-donations-2002、john-c-liu、works index、dinner-with-john-liu、2022 taiwanjustice 夏令會報導、sources index）；whoswho1458（劉宗憲）與 index 條目仍屬同名/索引碰撞，非本人語料。verified saturated，無新社群事實可吸收。
+- Corpus re-grep 2026-10-12 (slice 10110800-7)：ZH+EN exact regex 命中集與前次完全相同（ota-148、whos-who-50、john-c-liu、ourjourneys5-9-11-donations-2002、works index、2022 taiwanjustice 夏令會報導、sources index）。Broad 主計長/Comptroller sweep 新增命中皆屬頭銜碰撞非本人：my-stories-815 為陳仁宜角逐加州主計長（2021-12 報導），2021-02 taiwanjustice 紐約市長初選報導之「市主計長」為斯靜格（Scott Stringer）。verified saturated，無新社群事實可吸收。
 
 ## Sources
 - [TAH #148 encyclopedia: 148. Chun John Liu 劉醇逸](https://taiwaneseamericanhistory.org/ota-148/)
