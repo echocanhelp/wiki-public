@@ -8,7 +8,7 @@ tags:
   - human-rights
   - FAHR
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # 梅心怡 (Lynn Alan Miles)
 
@@ -53,6 +53,8 @@ Re-verified 2026-09-25 (slice 09240600-14): fresh ZH+EN grep of works/ + article
 Re-verified 2026-10-11 (slice 10101100-4): fresh ZH+EN grep across works/ + articles/ + sources/ + events/ + topics/ returned the identical hit set — all already linked and absorbed; no new absorbable facts. Reconciled the Died field to carry the 2014-vs-2015-06 HOLD explicitly.
 <!-- deepen-x slice 09250900-4 re-verify 2026-09-25: fresh ZH+EN grep of works+articles — hit set identical to prior passes, all facts incl. HOLDs already absorbed; SKIP-with-reason: verified-saturated, no new absorbable facts -->
 <!-- TJJ-A10060900-2: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060900-2 — article 5b7741741c30e771 (「梅心怡」標籤頁, 2024-07-24 快照)（標籤主題即本人）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+Re-verified 2026-10-12 (slice 10110800-3): fresh ZH+EN grep (梅心怡 / Lynn Alan Miles / Lynn Miles / surname Miles) across works/ + articles/ + sources/ + events/ + topics/ — real hit set identical to prior passes (TAH #81, #810, #378, #363, #228); the 4 extra grep hits (video-asian-choral-festival, concerts26, publications1218, photo-albums-activities-19) are false positives ("Milestones" nav text; "Journey of a Thousand Miles" = Ruey Yu 自傳 title), not mentions of 梅心怡. All facts incl. 2014-vs-2015-06 death-date HOLD already absorbed — SKIP-with-reason: verified-saturated, no new absorbable facts.
 
 ## 照片
 
