@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Justine Fang Chen (陳潔思博士)
 
@@ -65,3 +65,4 @@ Read together, the corpus places her career inside the community's own ensembles
 - Corpus re-grep 2026-09-22 (slice 09211123-1): hit set unchanged (#62, #66, #164, #208, #519 + works index) — all already wikilinked above. SKIP — saturated; no third-party memoir mentions, nothing new absorbable, no conflicts.
 - Corpus re-grep 2026-10-10 (slice 10090400-23): 5-dir grep (陳潔思/Justine Fang Chen/Justine F. Chen/潔思) across works+articles+sources+events+topics returned the identical saturated set (#62, #66, #164, #208, #519 + index — all wikilinked). Broad 'justine' sweep confirms the remaining hits are different people (Justine Ker whos1124/justineker/representation-apa, Justine Kao roots-and-leaves, HK activist 賈斯汀 taiwanjustice 2025). SKIP — saturated, nothing new absorbable, no conflicts.
 - Corpus re-grep 2026-10-11 (slice 10101210-21): 5-dir grep (陳潔思/Justine Fang Chen/Justine F. Chen/潔思/surname sweep) returned the identical saturated set (#62, #66, #164, #208, #519 + works index — all already wikilinked above). Broad 'justine' sweep again shows only different people (Justine Ker, Justine Kao, HK activist). SKIP — saturated, nothing new absorbable, no conflicts.
+- Corpus re-grep 2026-10-12 (slice 10120000-21): 5-dir grep (陳潔思/Justine Fang Chen/Justine F. Chen/潔思) returned the identical saturated set (#62, #66, #164, #208, #519 + works/sources index — all already wikilinked above). Broad 'justine' sweep again shows only different people (Justine Ker whos1124/justineker/representation-apa, Justine Kao roots-and-leaves, HK activist taiwanjustice). SKIP — saturated, nothing new absorbable, no conflicts.
