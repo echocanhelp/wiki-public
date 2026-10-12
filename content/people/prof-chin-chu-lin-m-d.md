@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Prof. Chin-Chu Lin M.D. (林靜竹教授)
 
@@ -97,6 +97,10 @@ Prof. Chin-Chu Lin M.D. 林靜竹教授 – History of Taiwanese American (T.A. 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Deepen-x 2026-10-12 (corpus pass)
+- Re-grepped ZH+EN+surname+initials (林靜竹 / Chin-Chu Lin / Chin Chu Lin / 靜竹 / C.C. Lin) across all five corpus dirs: 25 hits, all already linked above — page verified saturated, no new material to absorb.
+- **Name-collision guard (2nd instance):** grep hit [[works/taiwaneseamerican-org/sharing-spaces-taiwanese-indigenous-art-connects-tradition-with-new-audiences|Sharing Spaces: Taiwanese Indigenous Art...]] matches "C. C. Lin" but refers to **Kristin C. C. Lin**, chair of the Shung Ye Museum — a **different person**; do NOT link here.
 
 ## Deepen 2026-09-14 (vault-only)
 - Re-checked the four TAH encyclopedia records held in the vault (#9, #77, #23 收藏, #120 first-certificate record) and the son's page [[people/dr-jim-lin||Jim Lin 林存欣醫師]] — every wikilink target verified present on disk; no new absorbable biography beyond the tables and timeline above.
