@@ -74,3 +74,4 @@ last_reviewed: 2026-10-11
 <!-- TJJ-A10090601-20: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090601-20 article 6e021ae439684a11 (台裔吳修銘任拜登特助, CNA 2021-03-05 刊/2025-06-21 快照): subject link 「父親吳明達來自台灣」(L26) re-checked vs 正文 this attempt, real, no wrong/spurious links; 含該文 wikilink 的 2021-03-05 日期事實條目已在庫; 真理大學同名人 HOLD 維持 — saturated, no new material. -->
 
 - 再核（deepen-x slice 10101500-22, 2026-10-11）：全語料庫 fresh grep 吳明達|Min-Da Wu|Minda 命中集不變（158 書目頁、TJJ 2021-01-12 張良澤文、TJJ/CNA 2021-03-05 吳修銘文、sources、index）；緬甸敏達縣（Mindat）一文為假匹配非本 subject。真理大學同名人 HOLD 與黑名單／望春風 HOLD 均維持 — SKIP，無新增可吸收事實。
+<!-- TJJ-A10110601-8: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110601-8 article 6e021ae439684a11 (台裔吳修銘任拜登特助, CNA 2021-03-05 刊/2025-06-21 快照): subject link 「父親吳明達來自台灣」re-checked vs 正文 this attempt, real, no wrong/spurious links; 含該文 wikilink 的 2021-03-05 日期事實條目已在庫; 真理大學同名人 HOLD 維持 — saturated, no new material. -->
