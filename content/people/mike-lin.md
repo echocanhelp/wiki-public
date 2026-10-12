@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Mike Lin (林健華博士)
 
@@ -17,7 +17,7 @@ last_reviewed: 2026-10-11
 - **Era:** 台灣台北市
 - **Geography:** -/-/-
 - **Core roles:** engineer
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who's Who
 
 
 <!-- tah-tables:start -->
@@ -44,7 +44,7 @@ last_reviewed: 2026-10-11
 - Re-verified 2026-09-26 (deepen-x slice 09251023-30): corpus hit set unchanged (mystories206, whoswho1134, ourjourneys33 ZH+EN — all already linked above; the ZH record confirms MFCF formalised as TAF in 1980 after the late-1970s second-wave immigration). One articles/ hit is a false positive (Mike Lindell in a translated NYT piece, unrelated). Nothing new absorbable; HOLD on the caption-date vs 1980 founding conflict retained.
 
 ## Sources
-- [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/mike-lin/)
+- [TAH Who's Who](https://taiwaneseamericanhistory.org/person/mike-lin/)
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
@@ -55,3 +55,4 @@ last_reviewed: 2026-10-11
 <!-- deepen-x slice 10080400-17 recheck 2026-10-09: verified-saturated. Fresh 林健華/Mike Lin/健華 grep across works/articles/sources/events/topics returns the identical hit set (mystories206, whoswho1134, ourjourneys33 ZH+EN — all linked above; works/index; sources hub; the single articles/ hit is the Mike Lindell false positive, unrelated). whoswho1134 and mystories206 are bibliographic-only records (full text stays in vault), so no absorbable prose remains. No new corpus material. Caption-date ("circa 1990") vs 1980-founding HOLD retained. -->
 <!-- deepen-x slice 10090800-26 recheck 2026-10-10: verified-saturated. Fresh 林健華/Mike Lin/健華 grep across works/articles/sources/events/topics returns the identical hit set (mystories206, whoswho1134, ourjourneys33 ZH+EN — all linked above; works/index; sources hub; the single articles/ hit is the Mike Lindell false positive, unrelated). Our Journeys #33 ZH+EN confirm only the MFCF founding-member photo caption (already absorbed). No new corpus material. Caption-date ("circa 1990") vs 1980-founding HOLD retained. -->
 <!-- deepen-x slice 10101205-23 recheck 2026-10-11: verified-saturated. Fresh 林健華/Mike Lin/健華 grep across works/articles/sources/events/topics returns the identical hit set (mystories206, whoswho1134, ourjourneys33 ZH+EN — all linked above; works/index; sources hub; the single articles/ hit is the Mike Lindell false positive, unrelated). mystories206/whoswho1134 remain bibliographic-only records. No new corpus material. Caption-date ("circa 1990") vs 1980-founding HOLD retained. -->
+<!-- deepen-x slice 10112300-20 recheck 2026-10-12: verified-saturated. Fresh 林健華/Mike Lin/健華 grep across works/articles/sources/events/topics returns the identical hit set (mystories206, whoswho1134, ourjourneys33 ZH+EN — all linked above; works/index; the single articles/ hit is the Mike Lindell false positive, unrelated). mystories206/whoswho1134 remain bibliographic-only records (full text stays in vault); ourjourneys33 contributes only the already-absorbed MFCF founding-member caption. No new corpus material. Caption-date ("circa 1990") vs 1980-founding HOLD retained. -->
