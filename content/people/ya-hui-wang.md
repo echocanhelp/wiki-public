@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Ya-Hui Wang (王雅惠)
 
@@ -37,6 +37,7 @@ _No filled family fields on the TAH profile._
 ## Community Record Trail (vault-sourced)
 - **2000-03** — TAH record #355 reports her as the **first female conductor** of an orchestra in Akron, OH ([[works/taiwaneseamericanhistory-org/ff355||TAH #355]]).
 - **Akron concert memory** — Our Journeys #269 recalls a concert at E. J. Thomas Performing Arts Hall (Akron, OH) with **王雅蕙 conducting** the Akron Symphony in 蕭泰然's 〈D調小提琴協奏曲〉, violin solo by [[people/cho-liang-lin||Cho-Liang Lin (林昭亮)]], before 400+ Taiwanese expatriates ([[works/taiwaneseamericanhistory-org/ourjourneys269||Our Journeys #269]]).
+  - The memoir notes the **Akron Beacon Journal** coverage of the concert, quoting Akron Symphony board chair **Virginia Robinson**: "This is a unique educational opportunity — a fantastic experience. Look at all these people. They came here…" (Our Journeys #269).
 - **First-person essay** — 「音樂與生活」 attributed to 王雅惠 in the TAH story corpus ([[works/taiwaneseamericanhistory-org/mystories26||My Stories #26]]).
 - **Name spelling note** — TAH records carry both **王雅惠** (#229, #266, #532) and **王雅蕙** (#355, Our Journeys #269); treated as the same person, spelling held unresolved pending owner confirmation.
 - **2001-02-11 — Akron concert, also as its own record** — the concert recalled in Our Journeys #269 (Akron Symphony with violinist [[people/cho-liang-lin||Cho-Liang Lin]], E. J. Thomas Performing Arts Hall) is held separately in the corpus as [[works/taiwaneseamericanhistory-org/concerts84||TAH #84]] and [[works/taiwaneseamericanhistory-org/concert-by-akron-symphony-orchestra-and-violent-cho-liang-lin-akron-oh-on-021120||concert record]] — the Akron Symphony's performance of 蕭泰然's D調小提琴協奏曲.
