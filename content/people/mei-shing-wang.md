@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Mei Shing Wang (王美幸)
 
@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - 再核（deepen-x slice 09220700-2, 2026-09-22）：re-grep 王美幸 / Mei Shing Wang — 命中集不變；本次補上 profile 66 書目記錄的 wikilink（原僅以文字提及）— DEEPENED（link-only），其餘語料已飽和。
 - 再核（deepen-x slice 10081300-13, 2026-10-10）：re-grep 王美幸 / Mei Shing Wang / Meishing Wang 對五個語料目錄 — 命中 10 筆完全不變（#535、#537、#1592、profile 66、collection 25、#1089、#1088、artshow15、works/index、sources/taiwaneseamericanhistory-org），全數已連結於 Role in the Community 或 Sources。以「王美」寬詞擴搜另見 王美尹（mystories582）、王美霞（ourjourneys15）、王美琇（#313/#1299）、王美 Chu Hsiao（#1559/#2118/firstfamous-389）— 經核皆為同名異人，非本人語料，不予吸收。SKIP-with-reason：語料已飽和。
 - 再核（deepen-x slice 10100900-30, 2026-10-11）：re-grep 王美幸 / Mei Shing Wang / Meishing Wang 對五個語料目錄 — 命中 10 筆完全不變（#535、#537、#1592、profile 66、collection 25、#1089、#1088、artshow15、works/index、sources/taiwaneseamericanhistory-org），全數已連結於 Role in the Community 或 Sources。寬詞「美幸」擴搜另見 楊黃美幸（Maysing Huang，ourjourneys 系列、whoswho1575 等）— 經核為同名異人，非本人語料，不予吸收。SKIP-with-reason：語料已飽和。
+- 再核（deepen-x slice 10110600-31, 2026-10-12）：re-grep 王美幸 / Mei Shing Wang / Meishing / Mei-Shing Wang 對五個語料目錄 — 命中 10 筆完全不變；排除已連結檔後全語料零額外命中，無新可吸收事實。SKIP-with-reason：語料已飽和。
