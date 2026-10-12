@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Fei-Kuang Tseng (曾輝光博士)
 
@@ -52,6 +52,7 @@ last_reviewed: 2026-10-11
 - Corpus re-check (2026-10-10, deepen-x slice 10090500-3, vault-only): fresh grep 曾輝光|Fei-Kuang Tseng|曾國哲|曾千育 — same hit set, no new works. New absorbable fact from ourjourneys50: 會史記他 **第十任會長（1998）**，任內申請籌建愛滿地成人日間照顧中心（愛爾蒙地市）— absorbed above; two-term detail was previously missing. No conflicts beyond the existing year HOLD.
 
 - Corpus re-check (2026-10-11, deepen-x slice 10101300-10, vault-only): fresh grep 曾輝光|Fei-Kuang Tseng|曾國哲|曾千育 across all 5 corpus dirs — same hit set (mystories124, whos-fei-kuang-tseng, ourjourneys244, collection, ourjourneys173/173-eng, 179, publications898, 379, ourjourneys50), all linked above; no new absorbable facts, no conflicts. Verify-saturated.
+- Corpus re-check (2026-10-12, deepen-x slice 10120018-13, vault-only): fresh grep 曾輝光|Fei-Kuang Tseng|輝光|曾國哲|曾千育 across all 5 corpus dirs — same substantive hit set (mystories124, whos-fei-kuang-tseng, ourjourneys244, collection, ourjourneys173/173-eng, 179, publications898, 379, ourjourneys50), all linked above; remaining hits are index pages (works/index, sources/taiwaneseamericanhistory-org), not new material. No new absorbable facts, no conflicts. Verify-saturated.
 
 ## Sources
 - [TAH #179 encyclopedia: 179. Dr. Fei-Kuang Tseng 曾輝光博士](https://taiwaneseamericanhistory.org/179-dr-fei-kuang-tseng/)
