@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Ching Ih Wang (王進益)
 
@@ -62,3 +62,5 @@ Corpus re-check (deepen-x slice 10070018-2, 2026-10-08): fresh ZH+EN grep (王�
 Corpus re-check (deepen-x slice 10091500-19, 2026-10-10): fresh ZH+EN+surname grep (王進益 / Ching Ih Wang / 進益) across works/articles/sources/events/topics returns only #2135, #652, #42, works/index and the sources hub — all already linked above. Verified saturated, SKIP, no new facts absorbable, no conflicts.
 
 Corpus re-check (deepen-x slice 10080600-26, 2026-10-09): fresh ZH+EN+partial grep (王進益 / Ching Ih Wang / 進益) across works/articles/sources/events/topics returns only #2135, #652, #42, works/index and the sources hub — all already linked above. Verified saturated, SKIP, no new facts absorbable, no conflicts.
+
+Corpus re-check (deepen-x slice 10102129-20, 2026-10-11): fresh ZH+EN+partial grep (王進益 / Ching Ih Wang / 進益) across works/articles/sources/events/topics returns only #2135, #652, #42, works/index and the sources hub — all already linked above. Verified saturated, SKIP, no new facts absorbable, no conflicts.
