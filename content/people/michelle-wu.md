@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Michelle Wu (吳彌)
 
@@ -83,3 +83,5 @@ Michelle Wu was born in 1985 in Chicago, Illinois to Taiwanese immigrant parents
 - 再複核（slice 10101100-22，2026-10-11）：fresh grep 吳彌|吳弭|Michelle Wu（works+articles+sources+events+topics）命中集與既往一致（whos-who-2166、ota-220、michelle-wu profile、my-stories-809、my-stories-876、bonnie-jin、TJJ tag×2、民調報導、TIME100Next），全數已吸收；tag_michelle-wu 頁經讀取確認僅為標籤索引、無新社群事實；漢名 HOLD（吳彌 vs 吳弭）維持。SKIP，已飽和。
 
 <!-- TJJ-A10110001-31: verified 2026-10-12 — wave-2 link+deepen re-check of slice article 58ad99649eba6f6f (吳怡農推動緊急應變訓練 入選2022時代雜誌次世代百大人物, taiwanjustice.net, 發文 2022-09-28／快照 2022-11-27) read fresh this attempt: subject link re-checked vs 正文 — 波士頓市長吳弭同榜入選 TIME 100 Next、Ayanna Pressley 撰文介紹（首位民選女性、亞裔、有色人種市長、與吳弭共事近十年）皆逐字確認見於正文, real, no wrong/spurious links; 2022-09-28 dated fact w/ article wikilink already in From the record — saturated, no new material. 漢名 HOLD（吳彌 vs 吳弭）維持。 -->
+
+- 再複核（slice 10110800-22，2026-10-12）：fresh grep 吳彌|吳弭|Michelle Wu（works+articles+sources+events+topics）命中集與既往完全一致（whos-who-2166、ota-220、michelle-wu profile×2、my-stories-809、my-stories-876、bonnie-jin、TJJ tag×2、民調報導、TIME100Next、index/MANIFEST 索引檔），全數已吸收於上；無新社群事實。漢名 HOLD（吳彌 vs 吳弭）維持。SKIP，已飽和。
