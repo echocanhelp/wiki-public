@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Hong Tien Lai (賴弘典醫師)
 
@@ -38,6 +38,7 @@ Absorbed from the on-page biography and tables (no external sources):
 - 1940 — born in 嘉義 (Chiayi), Taiwan.
 - Chung Shan Medical Univ. (中山醫學大學) — B.S., Dentistry (by 1964); Medical College of Georgia — M.S., Microbiology/Biochemistry (1969); State Univ. of NY at Buffalo — D.D.S. (by 1972).
 - 1983-11-12 — at the Taiwan Center building-committee fundraising dinner at the East Garden restaurant in midtown Manhattan, 賴弘典醫師 was among the 42 supporters elected to the 台灣會館建館委員會 (Taiwan Center Building Committee), with 陳隆豐律師 among the 21-member executive committee — [[works/taiwaneseamericanhistory-org/ourjourneys09|Our Journey #9 (NY Taiwan Center memoir)]]
+- 1983-11-23 — the first executive-committee meeting of the 台灣會館建館委員會 was held in 賴弘典醫師's own office, chaired by 辜澄彬, electing 陳隆豐 as 主任委員 and tasking six groups (finance, publicity, planning, fundraising, site/construction, secretariat — 黃再添 on secretariat) with raising $500,000 in six months — [[works/taiwaneseamericanhistory-org/ourjourneys09|Our Journey #9]]
 - 1992 — Founder and first Chairman/Coordinator — UN for Taiwan 台灣加入聯合國行動委員會 (first president per the 1992 record in [[works/taiwaneseamericanhistory-org/168-dr-hong-tien-lai-e8-b3-b4-e5-bc-98-e5-85-b8-first-president-of-e5-8f-b0-e7-8|TAH #168]]).
 - 1992 — named by the incoming NY Taiwan Center director as one of "four ambitious individuals" (with [[people/dr-lung-fong-chen|Dr. Lung-Fong Chen]], 樊豐美, and [[people/patrick-huang|Patrick Huang]]) who were still fundraising to keep the debt-ridden Center alive — [[works/taiwaneseamericanhistory-org/ourjourneys27|Our Journey #27]] / [[works/taiwaneseamericanhistory-org/ourjourneys27-eng|English edition]]
 - Founding President — Greater New York Taiwanese Medical Association (大紐約區台灣醫師協會); President — FAPA New York Chapter (台灣人公共事務會紐約分會).
@@ -97,3 +98,8 @@ Absorbed from the on-page biography and tables (no external sources):
 - Steinway piano proposal text also appears in [[works/taiwaneseamericanhistory-org/ourjourneys3|Our Journey #3]] (same record as Photo Album #55) — linked.
 - 2003 老人聯合會/TASC text also appears in [[works/taiwaneseamericanhistory-org/ourjourneys316|Our Journey #316]] (same memoir text as OJ #27) — no new facts, linked only.
 - No new conflicts this pass; prior 2026-10-10 HOLD (Chairman vs 副理事長) stands. Wikilinks to existing slugs only.
+
+## Deepen pass 2026-10-12 (corpus pass)
+- Fresh ZH+EN grep across all 5 corpus dirs returned 16 files — hit set unchanged from the 2026-10-11 pass (all already linked/absorbed: OJ #9/#27/#27-eng/#3/#55/#104/#316, TAH #2/#6/#168/#1159, 3 TJJ articles, sources hub).
+- One NEW unabsorbed community fact found in [[works/taiwaneseamericanhistory-org/ourjourneys09|Our Journey #9]]: the 1983-11-23 first executive-committee meeting of the 台灣會館建館委員會 was held in 賴弘典醫師's own office (辜澄彬 chairing; 陳隆豐 elected 主任委員; six task groups; $500k six-month goal) — added to Timeline.
+- No new conflicts; prior HOLD (Chairman vs 副理事長) stands. Wikilinks to existing slugs only.
