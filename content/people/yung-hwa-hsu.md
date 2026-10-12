@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Yung Hwa Hsu (許永華)
 
@@ -122,3 +122,7 @@ Fresh ZH+EN grep (許永華 / Yung Hwa Hsu) across works/articles/sources/events
 
 <!-- TJJ-A10100501-22: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-22 article b7327dcf888cee82 (台美史料中心 March 2021 Newsletter, TJJ 2021-02-28): subject link re-checked vs 正文 this attempt (「由陳文成紀念基金會的創立談起 / Yung Hwa Hsu」署名見於正文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10110102-23: verified 2026-10-12 — wave-2 link+deepen re-check of article b7327dcf888cee82 (台美史料中心 March 2021 Newsletter, TJJ 2021-02-28): subject link re-checked vs 正文 this attempt (「由陳文成紀念基金會的創立談起 / Yung Hwa Hsu」署名見於正文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## Deepen — 2026-10-12 (slice 10120200-21, corpus grep)
+
+Fresh 5-dir grep (許永華 / Yung Hwa Hsu / yung-hwa-hsu) returned 22 corpus hits; alt-spelling sweep (Yung-Hwa / Yunghwa / surname-only 許永) returned zero additional files. Diffing the hit set against existing wikilinks: every hit is already absorbed and linked by the 2026-09-14, 2026-10-09 (slice 10080951-8) and 2026-10-10 (slice 10100315-16) passes — autobiography (1024), 悼詞 235, 悼念文 146, 專欄 73/ourjourneys250/mystories466, 基金會史 ourjourneys321(-eng)/ourjourneys8(-eng), 追思紀念 album 68, 建國券 ourjourneys147, 團圓會 148, 世台會 ourjourneys249, 夏令會 ourjourneys245, TAH #170/#298, collection page, and both TJJ newsletter copies. No new material — verified-saturated, 0 new links.
