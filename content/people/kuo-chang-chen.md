@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Kuo Chang Chen (陳國昌)
 
@@ -91,3 +91,5 @@ Accomplishment
 <!-- TJJ-A10040600-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-6 article 63717cb2b99ce3c3 (台美人台加人 p3, 2024-04-25 快照): subject link 陳國昌 re-checked vs 正文 (「(美國)2013年終稅法新知 ◎ 陳國昌會計師 12/15/2013'), real, no wrong/spurious links; 2013-12-15 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A100607008-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 20240425074022_root_63717cb2b99ce3c3 (台美人台加人 p3, 2024-04-25快照): subject link 陳國昌 re-checked vs 正文 this attempt (「(美國)2013年終稅法新知 ◎ 陳國昌會計師 12/15/2013」清單條目確認見於正文), real, no wrong/spurious links; 2013-12-15 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- DEEPEN-X10101100-21: verified 2026-10-11 — full-corpus grep (陳國昌/Kuo Chang Chen/KC Chen) across works/articles/sources/events/topics: only genuine hits are mystories669 (own memoir) and 378-mr-kuo-chang-chen, both already wikilinked in Role in the Community; the 3 TJJ articles (2013 稅法專欄, 2018 聯署, 2020-12-30 幸好有網購) already in From the record. Other grep hits are different people — 陳國洸 (Tony Chen, ourjourneys76/83), 陳國坤 (K.K. Chen, ourjourneys12), 陳國明 (93) — correctly NOT attributed here. Saturated, no new material. -->
+
+<!-- DEEPEN-X10110800-21: verified 2026-10-12 — full-corpus grep (陳國昌/Kuo Chang Chen/KC Chen) across works/articles/sources/events/topics returned the identical 10-file hit set as all prior passes: 4 TAH work records (#249, #378, #1138, memoir mystories669 — all wikilinked), 3 TJJ articles (2013 稅法專欄, 2018 台大校友聯署, 2020-12-30 幸好有網購 — all in From the record), works/index + manifest listings, and the taiwaneseamericanhistory-org source hub. No new material; same-name grep hits 陳國洸/陳國坤/陳國明 are different people, correctly not attributed. Saturated, re-verified. -->
