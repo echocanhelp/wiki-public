@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Yvonne Yifang Wang (王亦凡博士)
 
@@ -103,3 +103,5 @@ Second vault-only pass: all cited-source facts remain fully absorbed (incl. the 
 <!-- TJJ-A10090901-23: verified 2026-10-10 — wave-2 link+deepen re-check of article 4119cffe264101c6（楊子清老師音樂短講第13集：美聲唱法的技巧(7)快速音 Agilita, 發文 2020-12-13 / 快照 2025-03-27）: 正文「本集有黃令先老師和王亦凡博士的特別講座『泛音』」確認見於正文, subject link 王亦凡博士 real, no wrong/spurious links; 含該文 wikilink 的 2020-12-13 dated fact 已在 From the record — saturated, no new material. -->
 
 <!-- TJJ-A10101001-1: verified 2026-10-11 — wave-2 link+deepen re-check of article 4119cffe264101c6（楊子清老師音樂短講第13集：美聲唱法的技巧(7)快速音 Agilita, 發文 2020-12-13 / 快照 2025-03-27）read fresh this attempt: 正文「本集有黃令先老師和王亦凡博士的特別講座『泛音』」確認見於正文, subject link 王亦凡博士 real, no wrong/spurious links; 含該文 wikilink 的 2020-12-13 dated fact 已在 From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10101400-13: verified 2026-10-11 — full-corpus re-grep (王亦凡/Yvonne Yifang/Yifang Wang/亦凡 across works/articles/sources/events/topics): 5 hits = TAH #18 + #487 work records (already linked in Vault Records) + works/index.md (bibliographic index row) + 426d2811/4119cffe 音樂短講第13集 (already linked in Role in the Community, 泛音 lecture confirmed in 正文); 亦凡 hit in d0736e86 趙薇封殺 article = 吳亦凡 (Chinese pop star), NOT subject — false positive. No new material — saturated. -->
