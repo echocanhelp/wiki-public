@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Si Zhi Chen (陳泗治)
 
@@ -88,6 +88,8 @@ Note: the on-page narrative ("25 years" at Tamkang) and the employment table (19
 Deepen-x pass 2026-09-14 (slice 09140107-1, vault-only): tah-tables (教育 台灣神學院 1930–1934; 校長 淡江中學 1952–1954, 純德女子學校 1955–1980; 啟師 entry truncated in source table) already absorbed into Timeline above; no new vault facts found, no web used, no new pages created.
 
 Deepen-x pass 2026-10-11 (slice 10100849-15, vault-only): full-corpus re-grep (陳泗治/Si Zhi Chen/泗治, 11 hits across works/articles/sources) — every hit already linked on-page; added publication date 2014-09-05 to the 徐玫玲 memoir link. No new material beyond that; 龍舞 grep surfaced only unrelated 舞龍舞獅 mentions. No web, no new pages.
+
+Deepen-x pass 2026-10-12 (slice 10110500-15, vault-only): saturated re-verify — fresh grep (陳泗治/Si Zhi Chen/泗治) across works/articles/sources/events/topics returned the unchanged 11-hit set (7 works, 2 TJJ articles, sources hub, works/index), all already linked or absorbed above; 聖地牙哥開幕音樂會 excerpt (翁致理「龍舞」開場) matches the existing 2015-08 From-the-record fact. No new material, no web, no new pages.
 ## Network
 - [[organizations/presbyterian-church-in-taiwan||PCT]] — TAH Who’s Who
 
