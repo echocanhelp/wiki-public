@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Shin-Ruh Liu (劉新祿)
 
@@ -46,6 +46,7 @@ last_reviewed: 2026-10-11
 - Re-verified 2026-10-09 (deepen-x slice 10080400-26): fresh ZH+EN+新祿 grep across works/articles/sources/events/topics again returns only the four cited records (#57, #999, #377 小傳 / 洪嘉惠, mystories376 / 劉兆民) plus works/index and the source hub — saturated; SKIP, nothing absorbable.
 - Re-verified 2026-10-10 (deepen-x slice 10090900-24): fresh ZH+EN+新祿 grep across works/articles/sources/events/topics again returns only the four cited records (#57, #999, #377 小傳 / 洪嘉惠, mystories376 / 劉兆民) plus works/index and the source hub — saturated; SKIP, nothing absorbable.
 - Re-verified 2026-10-11 (deepen-x slice 10101300-5): ZH+EN+新祿 grep across all 5 corpus dirs again returns only the four cited records (#57, #999, #377 小傳 / 洪嘉惠, mystories376 / 劉兆民) plus works/index and the source hub — saturated; SKIP, nothing absorbable.
+- Re-verified 2026-10-12 (deepen-x slice 10120018-9): ZH+EN+新祿+variant (劉新/ShinRuh) grep across all 5 corpus dirs again returns only the four cited records (#57, #999, #377 小傳 / 洪嘉惠, mystories376 / 劉兆民) plus works/index and the source hub; the only other 民雄 hits are unrelated TJJ election/military articles. Saturated; SKIP, nothing absorbable.
 
 ## Sources
 - [TAH #999 encyclopedia: 999. Shin-Ruh Liu 劉新祿 / 2016/05](https://taiwaneseamericanhistory.org/whoswho999/)
