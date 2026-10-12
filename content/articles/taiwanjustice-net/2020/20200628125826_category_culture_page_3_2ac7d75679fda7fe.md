@@ -306,3 +306,5 @@ Load more
 
 <!-- TJJ-A10100701-13: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-13 article 2ac7d75679fda7fe（台灣鄉情與文化 分類頁3, 2020-06-28快照）read fresh this attempt: all 3 Subjects links re-checked vs 正文 headline list — 「甘惠忠神父奉獻台灣半世紀 紐約過世享壽84歲[影]」「『虎尾』登上Netflix，台裔導演楊維榕新片談移民艱辛[影]」「蕭美琴辭別花蓮將駐美，支持者送祝福」逐字確認見於正文，father-brendan-oconnell / alan-yang / bi-khim-hsiao 連結皆為真，無錯鏈、無虛鏈；3 頁含本檔 wikilink 之日期事實條目 grep-verified 本 attempt 已在庫（father-brendan-oconnell 2020-04-16 條 / alan-yang 2020-04-10 條 / bi-khim-hsiao 2020-06-28 條）— saturated, no new material. -->
 
+<!-- TJJ-A10110401-14: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110401-14 article 2ac7d75679fda7fe（台灣鄉情與文化 分類頁3, 2020-06-28快照）read fresh this attempt: all 3 Subjects links re-checked vs 正文 headline list — 「甘惠忠神父奉獻台灣半世紀 紐約過世享壽84歲[影]」「『虎尾』登上Netflix，台裔導演楊維榕新片談移民艱辛[影]」「蕭美琴辭別花蓮將駐美，支持者送祝福」逐字確認見於正文，father-brendan-oconnell / alan-yang / bi-khim-hsiao 連結皆為真，無錯鏈、無虛鏈；3 頁含本檔 wikilink 之日期事實條目 grep-verified 本 attempt 已在庫（father-brendan-oconnell 2020-04-16 條 / alan-yang 2020-04-10 條 / bi-khim-hsiao 2020-06-28 條）— saturated, no new material. -->
+
