@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Chao-Nan Liu (劉照男)
 
@@ -31,6 +31,7 @@ last_reviewed: 2026-10-11
 
 
 ## Worklog
+- 2026-10-12 deepen-x slice 10110100-16: re-verified — fresh grep 劉照男|Chao-Nan Liu across all 5 corpus dirs returns the identical hit set (Who's Who #617, 收藏 #72, 341-tang, 195-torch, OJ159/153/43, mystories116/306, publications1358, both Covid-19 分類頁) already absorbed and wikilinked above. One new hit file (2018-07-21 TJJ 台大校友會抗議聲明 a428dceb) is a FALSE POSITIVE: the roster names 張照男(醫科) — a different person (張照男, also held as Who's Who #1645 Chris CN Chang 張照男) — not 劉照男. Verified-saturated, SKIP-with-reason.
 - 2026-09-24 deepen-x slice 09230800-3: re-verified — fresh grep 劉照男|Chao-Nan Liu returns the identical hit set (Who's Who #617, 收藏 #72, 341-tang, 195-torch, OJ159, OJ43) already absorbed and wikilinked above; verified-saturated, SKIP-with-reason.
 - 2026-09-23 deepen-x slice 09221400-8: re-verified — fresh grep of works+articles returns the identical hit set already absorbed and wikilinked above; no new corpus material. Nothing further absorbable.
 
