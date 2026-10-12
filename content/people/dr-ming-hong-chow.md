@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Ming Hong Chow (周明宏博士)
 
@@ -122,3 +122,6 @@ _No filled family fields on the TAH profile._
 ## Deepen-x sweep (slice 10101204-21, 2026-10-11)
 - 全語料再 grep（周明宏／Ming Hong Chow／Ming-Hong Chow＋姓氏周明，works+articles+sources+events+topics 五目錄）：精確名命中僅本頁已吸收之出處（TAH #140、#589、works 索引、Our Journeys #138、2017 TAC/EC 報導兩存檔副本、《好國好民》放映記錄兩存檔副本、2019-09-04 挺港聯合聲明），無新增事實。
 - 姓氏級命中為**他人**，勿誤吸收：周明安（「台灣共和國臨時政府」外交部人員，見 Our Journeys #81／#65 楊基銓回憶錄片段，非本頁 subject）、周明峰＝Dr. Emerson M. F. Jou（TAH works #282、#104 及其著作《台灣簡史》《心在台灣》《台美情懷》等，另一同鄉）、周烒明（1965 威大會議與會名單，別名）。— SKIP 已飽和，僅留此辨歧條目。
+
+## Deepen-x sweep (slice 10112243-21, 2026-10-12)
+- 全語料再 grep（周明宏／Ming Hong Chow／Ming-Hong Chow／MH Chow／周明弘，works+articles+sources+events+topics 五目錄）：命中 10 檔，與 2026-10-10 sweep 完全相同——TAH #140、#589、works 索引、sources/taiwaneseamericanhistory-org、Our Journeys #138、2017 TAC/EC 報導兩存檔副本（29faf54b／d2dbfe22）、《好國好民》放映記錄兩存檔副本（1f001897／b5e568ec）、2019-09-04 挺港聯合聲明（53455d7e）——全部為本頁已吸收出處，無新增事實 — SKIP，已飽和。
