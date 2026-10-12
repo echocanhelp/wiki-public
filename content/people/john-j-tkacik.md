@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # John J. Tkacik (譚慎格)
 
@@ -74,7 +74,7 @@ Tkacik appears in the corpus not only as a taiwanjustice.net columnist but as a 
 
 - **Sunflower Movement era (2014):** his Washington Times piece "Taiwan Struggles in China's Trade Grip" is preserved in the press roundup inside [[works/taiwaneseamerican-org/taiwans-sunflower-student-movement|Taiwan's Sunflower Student Movement]], alongside movement-press coverage of the legislative occupation.
 - **Institutional role:** the archive identifies him as director of the International Assessment and Strategy Center's **Future Asia Program** (美國國際評估暨戰略中心「未來亞洲計劃」主任), a former State Department official who served in Taiwan — see the VOA interview context with 游錫堃 in [[articles/taiwanjustice-net/2024/20240715145556_root_185fdc80c7d5764b|VOA專訪游錫堃]].
-- **Name-normalization debate:** in his own column [[articles/taiwanjustice-net/2026/20260211101639_台灣_烏克蘭與七十五週年-_譚慎格_ded2259fed416a9d|台灣、烏克蘭與七十五週年]] he recalls his 2018-10-05 *Liberty Times* essay 「台灣正名的另一條路」 (the Greece/Hellenic-Republic model for "中華民國亦稱為台灣") and his position that "要美國承認中華民國代表中國是不可能了，有可能的是承認一個獨立的台灣."
+- **Name-normalization debate:** in his own column [[articles/taiwanjustice-net/2026/20260211101639_台灣_烏克蘭與七十五週年-_譚慎格_ded2259fed416a9d|台灣、烏克蘭與七十五週年]] he recalls his 2018-10-05 *Liberty Times* essay 「台灣正名的另一條路」 (the Greece/Hellenic-Republic model for "中華民國亦稱為台灣") and his position that "要美國承認中華民國代表中國是不可能了，有可能的是承認一個獨立的台灣." The same column lays out his arithmetic for why a constitutional route to renaming is unlikely: the 2005 seventh amendment (under President 陳水扁) raised the bar to three-fourths of the legislature plus half of the 19.31 million eligible voters (≈9.66 million votes) — more than the 8.17 million President 蔡英文 won in her landslide — so "這部中華民國憲法也許沒辦法修改了."
 - **Cross-strait deterrence debate (2021):** his *Liberty Times* essay 「戰爭意味著台灣獨立？」 (2021-08-01) challenged 游錫堃's "immediate diplomatic recognition if China attacks" formula, arguing Taiwan's "undefined" international status is the core of Washington's policy — the exchange is preserved in the same VOA record above.
 - **Ma-Wang leak scandal (2013):** in October 2013, following the 泄密案 that sparked the 馬王政爭 (reported abroad as "Taiwan's Watergate"), Tkacik joined 章家敦, 家博 and other international scholars — 28 in all — in a joint statement expressing "deep concern" over the use of the 特偵組 against political opponents and attempts to strip 立法院長王金平 of his position; the statement is recalled in 黃帝穎's 北社 commentary [[articles/taiwanjustice-net/2024/20240301084218_root_2eea1835f9769141|彈劾馬的司法暗樁 (2018-04-10)]].
 
@@ -109,3 +109,4 @@ Tkacik appears in the corpus not only as a taiwanjustice.net columnist but as a 
 <!-- TJJ-A100607006-b: verified 2026-10-09 — wave-2 link+deepen re-check of article b1e144ecc18e460f (English Pages 分類隨機頁 p1, 2024-02-24快照) read fresh this attempt: 「Donald Trump Has Disrupted Years of Broken Taiwan Policy ◎John J. Tkacik(譚慎格)/The National Interest 2016-12-05」條目確認見於正文, subject link 為真, 無錯鏈、無虛鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - 2013-10 — 譚慎格與章家敦、家博等28位國際學者就馬王洩密案發表共同聲明，關注特偵組對付政敵及王金平去職案；見於黃帝穎北社評論正文（[[articles/taiwanjustice-net/2024/20240301084218_root_2eea1835f9769141|彈劾馬的司法暗樁]]）。（DEEPEN-X10101210-4, 2026-10-11）
+- 2018 / 2005 — 其「台灣、烏克蘭與七十五週年」專文補充正名修憲論證：2005年（陳水扁任內）第七次修憲提高門檻為立院四分之三＋選舉人半數（1931萬中約966萬票），高於蔡英文當選的817萬票，故修憲途徑難行；見正文（DEEPEN-X10120000-4, 2026-10-12）。
