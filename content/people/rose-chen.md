@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Rose Chen (陳慧如)
 
@@ -113,3 +113,5 @@ Corpus-absorbed (deepen-x slice 28, 2026-09-14) from 鍾澄文's column [[articl
 
 <!-- TJJ-A10100901-19: verified 2026-10-11 — wave-2 link+deepen re-check of article 025f6ed990dc9e2c（以立合唱團世界首演「希望之光」影音, 發文 2022-12-02 / 快照 2025-05-24）: subject link re-checked vs 正文 this attempt, real (鋼琴：陳慧如 Rose Chen, L33), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10100901-32: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-32 article a40b37bc03b2b9cb（以立合唱團世界首演「希望之光」影音, 發文 2022-12-02 / 快照 2024-02-28）: subject link re-checked vs 正文 this attempt (鋼琴：陳慧如 Rose Chen), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10110500-7: verified 2026-10-12 — full-corpus grep (陳慧如/Rose Chen/慧如) across works/articles/sources/events/topics: hit set unchanged from 2026-10-11 sweep — all true hits (TAH #169/#338/#1094/#30 works, OJ-adjacent works, twjustice 以立希望之光 snapshots e7e2a1e1/a40b37bc/025f6ed9, 鍾澄文/信雅 週末漫談音樂 columns, 鄭炳全 旅美五十周年) already absorbed above — saturated, no new material. Two substring hits on 慧如 are DIFFERENT people / false positives: 「聰慧如習明澤」 (2023-02-04 文學素養 essay, prose fragment) and 許慧如博士 (2022-07-06 世界台灣文化論壇) — correctly not linked. HOLD on role labels (Conductor #169 vs Soprano #30 vs pianist bio) stands, corroborated by two community memoirs for the Conductor role. -->
