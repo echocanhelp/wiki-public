@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # H. L. Hung (洪榮隆)
 
@@ -50,3 +50,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 10080500-19 re-verify 2026-10-09: fresh ZH+EN+partial-name grep (works/articles/sources/events/topics) — hit set unchanged (ourjourneys75 FAHR 2014 roster + whoswho1239 + sources/index rollups); partial-name 榮隆 hits resolve to 陳榮隆 (DPP list) and other Hungs — different people. Verified-saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 10090900-19 re-verify 2026-10-10: fresh ZH+EN grep (洪榮隆 / H. L. Hung / 榮隆, works/articles/sources/events/topics) — hit set unchanged (ourjourneys75 FAHR 2014 roster + whoswho1239 + index/sources rollups); partial-name 榮隆 hits resolve to 陳榮隆 (DPP list) — different person. Verified-saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 10101205-18 re-verify 2026-10-11: fresh ZH+EN+partial-name grep (洪榮隆 / H. L. Hung / 榮隆, works/articles/sources/events/topics) — hit set unchanged (ourjourneys75 FAHR 2014 roster ZH+EN + whoswho1239 + sources/index rollups); partial-name 榮隆 hits resolve to 陳榮隆 (DPP 廉政委員 list) — different person. Verified-saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 10112300-16 re-verify 2026-10-12: fresh ZH+EN+partial-name grep (洪榮隆 / H. L. Hung / 榮隆 / H.L. Hung variants, works/articles/sources/events/topics) — hit set unchanged (ourjourneys75 FAHR 2014 roster ZH+EN + whoswho1239 + sources/index rollups); 榮隆 partial hit in taiwanjustice DPP article has no 洪榮隆 context — 陳榮隆, different person. Verified-saturated; SKIP-no-new-facts. -->
