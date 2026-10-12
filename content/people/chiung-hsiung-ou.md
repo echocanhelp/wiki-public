@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Chiung-Hsiung Ou (歐炯雄)
 
@@ -63,6 +63,7 @@ NRC Senior Research Associate, Senior Microbiologist
   - 首屆夏令會日期／地點 HOLD 維持（OJ392 七月四日假期・四健會營區 vs OJ268 8月14–16日・YMCA營區）。
 
 - 複核（deepen-x slice 10101204-14, 2026-10-11）：fresh grep 歐炯雄／Chiung-Hsiung Ou across works/articles/sources/events/topics — hit set identical（OJ 392/268/338、TAH #140/#829、works index、sources）— 無新事實可吸收；首屆夏令會日期地點 HOLD 維持。SKIP, verified-saturated.
+- 複核（deepen-x slice 10112243-14, 2026-10-12）：fresh five-dir grep（歐炯雄／Chiung-Hsiung）— hit set identical（OJ 392/268/338、TAH #140/#829、works index、sources）— 無新事實可吸收；HOLD 維持。SKIP, verified-saturated.
 
 ## Sources
 - [TAH #829 encyclopedia: 829. Chiung-Hsiung Ou 歐炯雄 /02/2016](https://taiwaneseamericanhistory.org/who829-chiung-hsiung-ou/)
