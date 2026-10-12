@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-12
 ---
 # Dr. Taitzer Wang (王泰澤博士)
 
@@ -67,3 +67,5 @@ last_reviewed: 2026-09-25
 複核（deepen-x 2026-09-22 slice-10）：corpus re-grep（王泰澤/Taitzer）新命中 work #151（Greyhound 環遊美國 1966）已吸收 wikilink；其餘命中（150、ourjourneys293 及英文版、my-stories-161/162、private-collections-95、our-journeys-359）皆已吸收，無其他新增材料。
 
 複核（deepen-x 2026-09-24 slice-09230317-10）：corpus re-grep 命中集合不變（150、151、ourjourneys293、my-stories-161/162、private-collections-95、our-journeys-359），全數已吸收 — verified-saturated，SKIP。
+
+複核（deepen-x 2026-10-12 slice-10110800-12）：corpus re-grep（王泰澤/Taitzer）命中集合不變（150、151、152×2、188、ourjourneys293 及英文版、my-stories-161/162/729、private-collections-95、our-journeys-359、artist29、whos-who-161），全數已吸收並 wikilink — verified-saturated，無新增社群材料。
