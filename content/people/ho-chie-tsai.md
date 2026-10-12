@@ -28,7 +28,7 @@ last_reviewed: 2026-10-12
 
 ## TaiwaneseAmerican.org
 
-Ho Chie Tsai founded **TaiwaneseAmerican.org**, a website dedicated to documenting and sharing the stories of Asian and Taiwanese American communities. The platform serves as a digital archive and community resource for Taiwanese American history and culture.
+Ho Chie Tsai founded **TaiwaneseAmerican.org** in 2006, a website dedicated to documenting and sharing the stories of Asian and Taiwanese American communities. The platform serves as a digital archive and community resource for Taiwanese American history and culture.
 
 The website has become an important tool for the Taiwanese American Historical Society (TAHS) and other community organizations in preserving and sharing the community's stories.
 
@@ -100,4 +100,12 @@ Facts already present in vault pages (no new sources):
 - As founder/editor of TaiwaneseAmerican.org he personally hosted the site's interview series, appearing on record as interviewer in [[works/taiwaneseamerican-org/ties-that-unbind-qa-with-filmmaker-james-y-shih|Ties That Unbind (James Y. Shih)]], [[works/taiwaneseamerican-org/music-video-alishan|Alishan (Jess Lee)]], [[works/taiwaneseamerican-org/where-jazz-taiwan-and-the-vocal-stylings-of-jen-shyu-fuse|Jen Shyu]], [[works/taiwaneseamerican-org/back-stage-with-taiwanese-american-pop-star-evonne-hsu|Evonne Hsu (APAHM 2010)]], [[works/taiwaneseamerican-org/a-chat-with-brian-yang-on-acting-producing-and-taiwanese-parents|Brian Yang]], [[works/taiwaneseamerican-org/michelle-young-the-art-spy|Michelle Young]], [[works/taiwaneseamerican-org/on-discovering-passion-purpose|On Discovering Passion & Purpose]], and [[works/taiwaneseamerican-org/akufuncture-family-founder-samuel-wang-musician-kevin-lien|Akufuncture / Kevin Lien]]. He is a contributor to [[works/taiwaneseamerican-org/formosa-betrayed-giving-voice-to-history-via-the-big-screen|Formosa Betrayed — Giving Voice to History]].
 - NATWA II lists him as an honorary member ([[works/taiwaneseamerican-org/where-jazz-taiwan-and-the-vocal-stylings-of-jen-shyu-fuse|Jen Shyu feature]]).
 - HOLD: the earlier My Stories #554 account says he helped run youth summer-camp programs in the "late 1980s–1990s"; 楊遠薰's profile dates his own TAF camp attendance to 1986. Not merged — kept as complementary phrasings.
+- Nothing published.
+
+## Deepen-x 2026-10-12 (slice 10102200-4, corpus-only)
+- From 楊遠薰's profile of him (same piece, archived copy: [[articles/taiwanjustice-net/2024/20240527042331_root_479870e6ff7a000a|台美人的未來（下）, taiwanjustice.net archive 2024]]): his public reputation predates the website — 楊遠薰 first heard the name in 2004 interviewing participants at the TAF 台美青少年夏令營 at Calvin College (Michigan), where every interviewee volunteered that "Ho Chie" had returned every year since college to teach the elementary-age classes, even after becoming a physician; his father was a Taiwanese physician in the Chicago area. He joined the TAF board out of that same yearly-volunteer commitment.
+- From the same profile: in 2009 he co-produced with a group of young people the video "2010年人口普查–寫下台美" (2010 Census — Write In Taiwanese American), circulated on YouTube and TaiwaneseAmerican.org, which inspired many second-generation Taiwanese Americans to write in "Taiwanese American" on the 2010 U.S. Census.
+- He wrote under his own byline for TaiwaneseAmerican.org: e.g. [[works/taiwaneseamerican-org/recap-of-taiwanese-american-youth-summer-camps-and-a-donation-drive|Recap of Taiwanese American youth summer camps and a donation drive]] (2010-09-03, byline "Ho Chie") and [[works/taiwaneseamerican-org/taiwan-america-student-conference|Taiwan-America Student Conference]] (2014-02-04, byline "Ho Chie") — the latter an interview with the U.S.-based founders of the cross-Pacific student conference (Alice Pin-Pin Liao, Sharon Lu, Frances Chan).
+- First-person interview record of him on the Talking Taiwan program: [[works/taiwaneseamerican-org/talking-taiwan-interview-with-hochie-tsai|Talking Taiwan Interview with Ho Chie Tsai]] (2013).
+- HOLD: the profile dates the founding of TaiwaneseAmerican.org to 2006 ("為接觸更多更廣的台美人，他創設網站"); the earliest dated site records in the corpus are from 2010–2011. Not merged — the 2006 date is kept as attributed to 楊遠薰's account, corpus records unchanged.
 - Nothing published.
