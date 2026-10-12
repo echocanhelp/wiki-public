@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Henry Y. Wu (吳銀鏤醫師)
 
@@ -36,6 +36,7 @@ _No filled family fields on the TAH profile._
 ## Role in the Community
 
 - **2003 — 北加州台灣會館 (Taiwanese American Center of Northern California):** In the spring of 2003, during the search for the Federation's first center, Dr. Henry Y. Wu introduced organizer May-Sing Chang (黃美星) to fellow community member Dr. Ye-Ming Wu (吳怡明), who offered the first floor of his clinic (~3,000 sq ft, nine rooms) at a sponsoring price; the lease ran two years from 2003-04-01 and the center opened on May 1, 2003. The introduction happened in early March 2003, after a three-month deadline had organizer 黃美星 driving out daily to view candidate sites. Recorded in the memoirs [[works/taiwaneseamericanhistory-org/ourjourneys24|北加州台灣會館的誕生 (黃美星)]] ([[works/taiwaneseamericanhistory-org/ourjourneys24-eng|EN]]) and [[works/taiwaneseamericanhistory-org/ourjourneys53|台灣會館美夢成真 (黃美星)]] ([[works/taiwaneseamericanhistory-org/ourjourneys53-eng|EN: N. CA Taiwanese American Center Dream Comes True]]).
+- **2006– — 北加州台灣會館理事:** From 2006 (「逐年再陸續加入的理事們」), Dr. Wu served on the Center's board of directors alongside Dr. Chen-Ho Wu (吳振和), 吳怡明, 李信弘, 莊純純, 張世昌, 賴明堂 and others, 「同心協力，出錢出力，不求回報」— the board behind the Center's annual Jubilee Church concerts (2006 SEMISCON, 2007 Dream of Formosa, 2008 Chai Found Music Workshop), each drawing 3,000+ attendees. Recorded in [[works/taiwaneseamericanhistory-org/ourjourneys53|台灣會館美夢成真 (黃美星)]] ([[works/taiwaneseamericanhistory-org/ourjourneys53-eng|EN]]); see also [[people/chen-ho-wu|吳振和]], [[people/ye-ming-wu|吳怡明]], [[people/dr-ming-tang-lai|賴明堂]].
 - TAH encyclopedia entry on file: [[works/taiwaneseamericanhistory-org/whos-who-1875-henry-y-wu|1875. Dr. Henry Y. Wu 吳銀鏤醫師]] (published 2017-09-04, band B).
 - See also [[people/ye-ming-wu|吳怡明]] and [[organizations/taiwanese-american-center-of-northern-california|北加州台灣會館]].
 - Corpus re-check 2026-09-23 (slice 09221500-22): fresh greps for 吳銀鏤 / Henry Y. Wu across works + articles return only the 台灣會館 memoirs (OJ#24, OJ#24-eng, OJ#53-eng) and his own encyclopedia entry #1875 — all facts already absorbed above; no new community facts, SKIP-deepen.
@@ -61,3 +62,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 10090900-7: re-verify 2026-10-10 — fresh ZH+EN grep (吳銀鏤 / Henry Y. Wu) across works/articles/sources/events/topics: hit set identical (ourjourneys24/-eng, ourjourneys53/-eng, whos-who-1875, works/index, sources registry stub); all facts absorbed+wikilinked; no new community facts. Verified-saturated; SKIP-no-new-facts. -->
 
 <!-- deepen-x 10101100-12: re-verify 2026-10-11 — fresh ZH+EN grep (吳銀鏤 / Henry Y. Wu / Henry Wu) across works/articles/sources/events/topics: hit set identical (ourjourneys24/-eng, ourjourneys53/-eng, whos-who-1875, works/index, sources registry); only additions are cross-reference stubs on sibling people pages (may-sing-chang, ye-ming-wu, people/index), not new corpus material. No new community facts. Verified-saturated; SKIP-no-new-facts. -->
+
+<!-- deepen-x 10110800-10: deepen 2026-10-12 — fresh ZH+EN grep (吳銀鏤 / Henry Y. Wu / Henry Wu) across works/articles/sources/events/topics: hit set (ourjourneys24/-eng, ourjourneys53/-eng, whos-who-1875, works/index, sources registry) — one NEW fact absorbed: OJ#53/-eng names him among the Center's 逐年再陸續加入的理事們 from ~2006 (Jubilee concert era), added as board-member bullet with sibling links (chen-ho-wu, ye-ming-wu, dr-ming-tang-lai). No conflicts. -->
