@@ -184,6 +184,9 @@ Notable quotes and mentions of **黃樹人** in Taiwan Justice articles:
 
 - 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 index（TJJ 文章存檔索引頁）正文再驗證——索引頁列黃樹人為發布者，連結為真，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
 - 2026-07-28 — taiwanjustice.net 文章存檔索引（29,103 篇・2011–2026）以黃樹人為該存檔之發行人收錄，存檔規模逾 8,180 萬字，為台美人社群新聞之最完整鏡像（[[articles/taiwanjustice-net/index|TJJ 文章存檔索引]]）。
+- 2022-01-09 — 以台美人筆會成員身分與鄭炳全、賴慧娜、林文政連袂拜訪筆會會員葉思雅、張信惠伉儷，慶賀二人台灣公義報「週末漫談音樂」專欄滿100期，並為該報導記事署名（黃樹人記）（[[articles/taiwanjustice-net/2022/20220127025846_2022_01_10_圓滿的100-慶賀葉思雅_張信惠_週末漫談音樂_專_a1be6b822ac7cdcd|TJJ, 2022-01-10]]）。
+
+<!-- TJJ-A10110102-30: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110102-30 article a1be6b822ac7cdcd (圓滿的100, 2022-01-10 刊 / 20220127025846 快照) read fresh this attempt: 黃樹人以筆會成員訪客見於正文首段、並以「(黃樹人記)」署名見於末段，連結為真；本頁 From the record 原缺含本文 wikilink 之日期事實，本輪補入 2022-01-09 條目。先前 sweep 備註「黃樹人無頁」有誤（主頁存在），已於文章端備註修正。 -->
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
