@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Ting-An Lin (林庭安)
 
@@ -86,3 +86,4 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090701-11: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-11 article 3260cd0bdf2f84d7 (海台青與黑客松, 楊遠薰, TJJ 2017-07-24, 2024-05-23 snapshot) read fresh this attempt: subject link re-checked vs 正文 — 林庭安為海台青召集人確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - 複核（deepen-x slice 10091316-26, 2026-10-10）：fresh grep 林庭安／Ting-An Lin／庭安 across works/articles/sources/events/topics — hit set unchanged (whos-who-1803 work page, works index, both TJJ 海台青與黑客松 columns 2021+2024 snapshots, 釋字第791號聲請人六 record — name-only, still HOLD, not linked). Broadened sweep on 海台青／海外台灣青年／OTD surfaced no new named material for this subject. No new absorbable facts — SKIP, saturated. Added missing wikilink to [[works/taiwaneseamericanhistory-org/whos-who-1803-ting-an-lin|TAH Who's Who #1803]] work page (its Subjects section already links back; reciprocity fix only).
+- 複核（deepen-x slice 10102200-29, 2026-10-12）：fresh grep 林庭安／Ting-An Lin／庭安 across works/articles/sources/events/topics — 7 files, hit set unchanged (whos-who-1803 work page, works index, sources page, both TJJ 海台青與黑客松 columns 2021+2024 snapshots, 釋字第791號聲請人六 record — name-only, still HOLD, not linked). One apparent new hit (2025 heat-dome article) is a false positive: substring 庭安 inside 「西雅圖安裝冷氣」, no name present. No new absorbable material — SKIP, saturated.
