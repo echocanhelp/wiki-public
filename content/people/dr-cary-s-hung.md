@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Cary S. Hung (洪哲勝博士)
 
@@ -54,6 +54,12 @@ _No filled family fields on the TAH profile._
 - **學生運動講員與招募者** — 1983-12「台灣學生」第一屆冬令會邀他與許信良、劉重義、林孝信座談，集結不同政治理念的領導人物；因與郭倍宏走得很近，「台灣學生」被國民黨單位與台獨聯盟劃上等號，而他寄出加入聯盟的表格予郭倍宏（[[works/taiwaneseamericanhistory-org/ourjourneys238|Our Journeys 238]] 郭倍宏傳記）。
 - **著作** — 除《台灣自救》（1986，[[works/taiwaneseamericanhistory-org/publication1320|TAH #1320]]）外，TAH 館藏另列其政論著作《台灣新思維》（1995-05，[[works/taiwaneseamericanhistory-org/publi168|TAH #168]]）與《民主火種》（1999-10，[[works/taiwaneseamericanhistory-org/68-e6-b0-91-e4-b8-bb-e7-81-ab-e7-a8-ae-e6-b4-aa-e5-93-b2-e5-8b-9d-1999-10-e6-94-|TAH #68]]）。
 - **美東台灣人夏令會講員** — 七十年代美東夏令會邀請洪哲勝與陳錦芳、李豐明等人作專題演講（memoir: [[works/taiwaneseamericanhistory-org/ourjourneys338|Our Journeys 338]] 張啟典口述）。
+- **《台灣公論報》創刊背景** — 台獨聯盟因「台獨月刊」月訊無法即時聲援白色恐怖下的台灣、又難與親國民黨「世界日報」及傾中「華僑日報」抗衡，乃於 1981-07 在紐約長島市創刊海外第一份台灣人報紙《台灣公論報》；因財力不足先發行每週兩次的半週刊，伺機轉為日報（memoir: [[works/taiwaneseamericanhistory-org/ourjourneys63|Our Journeys 63]]）。
+- **中國民主化運動** — 1990 年代台灣民主轉型後轉而協助中國民主化：主持《民主論壇》並以巴西台商張凱勝捐款支持中國民運，1998 年中國民主黨組黨失敗後一週五天提供版面並發稿費補助受難者（稿費高於其他民運刊物兩倍以上）；任民主亞洲基金會會長（[[articles/taiwanjustice-net/2021/20210128082341_2020_12_29_中國人民的台獨朋友洪哲勝-_-林保華_4cd35272d7c9d03c|林保華〈中國人民的台獨朋友洪哲勝〉]]）。
+- **悼念文（增補）** — 另有葉治平〈洪哲勝(楚也)在今天過世——一位真正的職業革命家〉（My Stories #775，2020-12，[[works/taiwaneseamericanhistory-org/my-stories-775|My Stories 775]]）與劉進興〈緬懷洪哲勝一生：心胸開闊革命者為台灣民主奮鬥〉（My Stories #776，2020-12，[[works/taiwaneseamericanhistory-org/mystories-776|My Stories 776]]）。
+- **本人著作（增補）** — 與陳怡妙合撰〈告別我永遠深愛的芳枝&芳枝姊〉（My Stories #737，2020-08，[[works/taiwaneseamericanhistory-org/my-stories-737|My Stories 737]]），為其喪妻悼文。
+- **辭世** — 2020-12 因淋巴癌併發症病逝紐約，享壽 81 歲；獨盟於 2020-12-26 舉辦追思會（國史館館長陳儀深、前台南市長張燦鍙等出席），2021-01-02 僑界線上告別式並宣讀蔡英文、賴清德、陳菊、許信良唁電（[[articles/taiwanjustice-net/2022/20220228033245_2020_12_26_民主亞洲基金會會長洪哲勝辭世_獨盟辦追思會_44c486d870e08028|中央社 2020-12-26]]、[[articles/taiwanjustice-net/2022/20220228012423_2021_01_02_追思洪哲勝_王丹致詞_陳破空主持_眾多民運大_9206c320850ac026|中央社 2021-01-02]]）。HOLD: 辭世日期衝突 — 中央社 12-26 電稱「日前」去世、另一中央社電稱 12-18 病逝、My Stories #775 標題稱「今天過世」（12 月），未定確切日期，不自動合併。
+- **照片記錄** — 1986-05-01「鮭台」返台團合影第二排最右（Cary Hong），同場含田台仁、康泰山、賴文雄、李登山等（[[works/taiwaneseamericanhistory-org/our-journeys-363|Our Journeys 363]]）。
 
 - Corpus re-grep 2026-09-25 (slice 09240500-3): fresh ZH+EN grep — hit set identical to the memoirs already absorbed (Our Journeys 49/381/76-eng/8-eng, My Stories 740, My Stories 778, TAH #103 collection); verified-saturated, no new absorbable material.
 - Corpus re-grep 2026-09-24 (slice 09230500-14): fresh ZH+EN grep — hit set identical to the memoirs already absorbed (Our Journeys 49 with the 台灣公論報 masthead detail: 四記者、洪哲勝太太為打字員之一; Our Journeys 8-eng Chen Wen-Chen typesetting; My Stories 740/778; TAH #103 collection); verified-saturated, no new absorbable material.
