@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Donald C.J. Chen (陳哲仁醫師)
 
@@ -69,3 +69,5 @@ _Corpus re-grep 2026-09-27 (slice 09260700-7): SKIP — fresh grep 陳哲仁/Don
 _Corpus re-grep 2026-10-10 (slice 10090500-8): SKIP — broadened grep (哲仁 / Donald / C.J. Chen across works+articles+sources+events+topics) surfaced three apparent new hits, all resolved as DIFFERENT people, not this subject: whoswho1033 = C. J. Chen 陳銓仁 (2016/05), ourjourneys54-eng "pharmacist C. J. Chen" = the LA Senior Association secretary, son of 陳孟蘭 (different family), Austin film-festival "Donald Chua 蔡篤元", and TJJ article "Donald Clarke" (GWU law professor). Core hit set identical to previously absorbed records; verified saturated._
 
 _Corpus re-grep 2026-10-11 (slice 10101210-23): SKIP — fresh 5-dir grep (陳哲仁 / Donald C.J. Chen / 哲仁) returns three apparent new hits, all resolved as 蘇哲仁 (Cheh-Jen Su, works 5-su-cheh-jen / publications292 / mystories5 — a different person sharing the 哲仁 characters), not this subject. Core hit set (ourjourneys76 +eng, ourjourneys-138, ourjourneys270, 58-first-private-clinic, ff309, mystories403, whos474, photo-albums-111) identical to previously absorbed records; verified saturated._
+
+_Corpus re-grep 2026-10-12 (slice 10120000-23): SKIP — fresh 5-dir grep (陳哲仁 / Donald C.J. Chen / 哲仁) returns the identical hit set; the two apparent extras resolve to the works/index directory listing (index entry, not new material) and the 蘇哲仁 cluster again. All community facts above already absorbed; verified saturated._
