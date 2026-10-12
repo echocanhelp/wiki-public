@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Vivian Y.G. Fu (林郁子)
 
@@ -44,6 +44,7 @@ last_reviewed: 2026-10-11
 - Corpus re-check (slice deepen-x-slice-09211300-4, 2026-09-22): re-grep 林郁子 / 傅郁子 / Vivian — hit set unchanged (Our Journeys 60/60-eng/160/352, Who's Who #2298, TJJ 長青教室存檔); 傅郁子 variant confirmed only in ourjourneys352; all absorbed; both HOLDs (傅 vs 林 姓氏、NATWA 會長頭銜) stand. SKIP-no-new-material.
 - Corpus re-check (slice deepen-x-slice-09220800-2, 2026-09-22): fresh grep 林郁子 across works+articles returns exactly the three absorbed files (Our Journeys 60, 160, Who's Who #2298); the broader Vivian/傅 grep returns only same-surname/unrelated matches (傅康平-family pages, generic Vivian indexes). Nothing new absorbable; both HOLDs stand. SKIP-no-new-material.
 - Corpus re-check (slice deepen-x-slice-10100900-14, 2026-10-11): fresh grep 林郁子/傅郁子/Vivian Fu across all 5 corpus dirs — hit set unchanged (Our Journeys 60/60-eng/160/352, Who's Who #2298, TJJ 長青教室 tag article 49d912cc, sources index); 傅郁子 variant confirmed only in ourjourneys352, 林郁子 in NATWA memoirs. All absorbed; both HOLDs (傅 vs 林 姓氏、NATWA 會長頭銜) stand. SKIP-no-new-material.
+- Corpus re-check (slice deepen-x-slice-10110600-16, 2026-10-12): fresh grep 林郁子/Vivian Y.G. Fu/Vivian Fu/傅郁子 across all 5 corpus dirs — hit set identical (Our Journeys 60/60-eng/160/352, Who's Who #2298, TJJ 長青教室 tag 49d912cc, works/index, sources index); 郁子-only grep adds nothing outside the absorbed set. All material already absorbed; both HOLDs stand. SKIP-no-new-material.
 
 ## Family
 
