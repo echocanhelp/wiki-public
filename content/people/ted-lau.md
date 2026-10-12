@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Ted Lau (劉重義)
 
@@ -69,3 +69,4 @@ _Corpus re-grep 2026-09-25 (slice 09240700-15): two not-yet-absorbed records fou
 _Corpus re-check 2026-09-26 (deepen-x slice 09251000-1): fresh grep works/+articles/ — hit set identical to records already wikilinked/absorbed above; no new absorbable facts. SKIP-with-reason: saturated._
 _Corpus re-check 2026-09-26 (deepen-x slice 09260317-12): fresh grep 劉重義|Ted Lau — hit set identical (publications1025, mystories297, ourjourneys238, 760 劉聰德 record, 369 費城三傑, ourjourneys234); 劉重義 vs 劉聰德 HOLD stands. SKIP-with-reason: saturated._
 _Corpus re-grep 2026-10-10 (deepen-x slice 10081200-1): fresh grep 劉重義|Ted Lau across all 5 corpus dirs — one not-yet-absorbed record found: 188. 3F紀念音樂會的民族論述 (2016-01-05, authored by him, bibliographic band-B record) — absorbed above. 劉重義 vs 劉聰德 HOLD stands._
+_Corpus re-grep 2026-10-12 (deepen-x slice 10110500-13): fresh grep 劉重義|Ted Lau|劉聰德 across all 5 corpus dirs — hit set identical to records already wikilinked/absorbed above (publications1025, mystories297, ourjourneys238/234, 369 費城三傑, 380, 260, 188, 760 劉聰德 record); 劉重義 vs 劉聰德 HOLD stands. SKIP-with-reason: saturated._
