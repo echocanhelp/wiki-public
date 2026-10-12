@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Prof. Sze-ya Yeh (葉思雅教授)
 
@@ -92,6 +92,6 @@ Absorbed from the vault couple page [[people/ye-siya-zhang-xinhui|Ye Siya & Zhan
 - **1970 — founding support group, Formosan Presbyterian Church in Los Angeles.** The church's own history (邱惠美、李永碩, 12/2020) records that when Rev. 張瑞雄 opened the first Taiwanese church in Los Angeles, the lay supporters at the first gathering (1970-08-09, Centenary United Methodist Church) included 高光民、陳昭俊、**葉思雅**、李宗派、許文彬、王春雄、吳政彥 and 賴信雄 — corroborating the Who's Who entry that he is a co-founder and one of the first elders of FPCLA ([[works/taiwaneseamericanhistory-org/ourjourneys231|TAH #231: 洛杉磯台灣基督長老教會]]).
 - **2014 — published memoir.** His own essay 「來美三十多年的回顧與感想」 (2014-11-10) is in the corpus as a first-person account of his American career ([[works/taiwaneseamericanhistory-org/140-e4-be-86-e7-be-8e-e4-b8-89-e5-8d-81-e5-a4-9a-e5-b9-b4-e7-9a-84-e5-9b-9e-e9-a|TAH #140]]).
 - **2014 — music collection profiled.** 李淑櫻's interview 「專訪葉思雅醫師—從一萬多張的收藏說起」 (2014-10) documents the classical-record collection at the start of the donation program that later produced the 信雅古典音樂珍藏專區 ([[works/taiwaneseamericanhistory-org/mystories120|TAH #120]]).
-- **2019 — donation reported.** 「旅美名醫珍藏半世紀 萬張黑膠CD無償捐台灣」 (10/2019) covers the couple's half-century of collecting and the free donation of 10,000+ vinyl/CD records to Taiwan ([[works/taiwaneseamericanhistory-org/my-stories-703|TAH #703]]) — the collection that opened as the 信雅专区 at Tainan's 許石音樂圖書館 in 2021 (already noted above).
+- **2019 — donation reported.** 「旅美名醫珍藏半世紀 萬張黑膠CD無償捐台灣」 (10/2019) covers the couple's half-century of collecting and the free donation of 10,000+ vinyl/CD records to Taiwan ([[works/taiwaneseamericanhistory-org/my-stories-703|TAH #703]]) — the collection that opened as the 信雅专区 at Tainan's 許石音樂圖書館 in 2021 (already noted above). The same donation is recorded in English as a 2019 bibliographic entry, "Donation of more than Ten Thousand Pieces of Music Records/CD, a Life-time Collection of Dr. & Mrs. Sze-Ya Yeh, to a Music Organization in Taiwan" ([[works/taiwaneseamericanhistory-org/16-donation-of-more-than-ten-thousand-pieces-of-music-records-cd-a-life-time-col|TAH #16]], published 2019-12-16).
 
 <!-- TJJ-A10100501-27: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-27 article a1be6b822ac7cdcd (圓滿的100-慶賀葉思雅張信惠週末漫談音樂專欄滿100期, 2022-01-10 刊 / 20220127025846 快照): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in page — saturated, no new material. -->
