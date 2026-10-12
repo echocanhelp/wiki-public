@@ -8,7 +8,7 @@ tags:
   - novelist
   - literature
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Shawna Yang Ryan (楊小娜)
 
@@ -116,6 +116,12 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 - 2010 — 獲 Page Turner Fest Award 提名，TaiwaneseAmerican.org 專文祝賀（[[works/taiwaneseamerican-org/congrats-to-shawna-yang-ryan-nominee-for-the-page-turner-fest-award|Page Turner Fest 提名]]）。
 - 2016 — 《綠島》出版前後，TaiwaneseAmerican.org 兩度專文介紹（[[works/taiwaneseamerican-org/green-island-novel|GREEN ISLAND 新小說]]、[[works/taiwaneseamerican-org/syr-tour|GREEN ISLAND Author on Tour]]）。
 - 2022 / 2023 / 2024 / 2026 — 續任 TaiwaneseAmerican.org 游玲娟、游銘泉創意寫作獎評委（2021 首屆之後），與 Charles Yu、Alvina Ling 等共同選定歷屆得獎人：[[works/taiwaneseamerican-org/2022-creative-writing-recipients|2022]]、[[works/taiwaneseamerican-org/2023-creative-writing-prize-winners|2023]]、[[works/taiwaneseamerican-org/2024-creative-writing-prize-2|2024]]、[[works/taiwaneseamerican-org/2026-creative-writing-prize-winners|2026]]。
+- 2010-09 — AuthorMagazine.com 專訪，談《Water Ghosts》與《Green Island》寫作歷程（TaiwaneseAmerican.org 轉載）（[[works/taiwaneseamerican-org/interview-with-author-shawna-yang-ryan-on-authormagazine-com|AuthorMagazine 專訪]]）。
+- 2011-03 — 代表 TaiwaneseAmerican.org 以「Author to Author」專欄專訪游朝凱（Charles Yu）《How to Live Safely in a Science Fictional Universe》書巡（[[works/taiwaneseamerican-org/author-to-author-a-chat-with-charles-yu-how-to-live-safely-in-a-science-fictiona|Author to Author 對談]]）。
+- 2019-01-03 — Joyce Bergvelt 就《Lord of Formosa》受訪時，以《綠島》與 Julie Wu《The Third Son》等並舉，稱歷史小說能「set the record straight」讓白恐怖史被更廣泛讀者看見（[[works/taiwaneseamerican-org/interview-with-joyce-bergvelt-lord-of-formosa|Lord of Formosa 專訪]]）——其小說是國際讀者認識白恐怖的文學入口之一。
+- 2017-06 — 同世代作家撰文憶述：十年前柏克萊 TASA 職業論壇上曾與 Ryan 同場，並稱其為「另一位台美作家」而投書其經紀人（遭婉拒）——反映其在第二代台美文壇的參照地位（[[works/taiwaneseamerican-org/writing-journey-2|My Writing Journey (Part 2)]]）。
+- 2024-08 — TaiwaneseAmerican.org《Community Resources for Taiwanese American Parents & Families》將《綠島》列為成人歷史小說首選推薦（「the story of how the Tsais, a Taiwanese family, survive the 'February 28 Incident' of 1947」）（[[works/taiwaneseamerican-org/community-resources-for-taiwanese-american-parents-families|親子資源專文]]）。
+- Abe Young《Humanity at Stake》訪談披露：Ryan 與前美國貿易委員會委員 June Dreyer 並列為該書封底推薦人（[[works/taiwaneseamerican-org/an-interview-with-abe-young-author-of-humanity-at-stake|Abe Young 專訪]]）；HOLD: 該封底推薦年分正文未標，未定日期條目。
 - 2025-08-11 — 與作家盧彦勳（Alvin Lu）就《Daydreamers》對談（[[works/taiwaneseamerican-org/alvin-lu-daydreamers|Light as Insistent 對談]]）；該文作者簡介列其獲 Association for Asian American Studies 最佳書獎（創意寫作）、Elliot Cades 新興作家獎、American Book Award，並稱其「曾任夏威夷大學創意寫作計畫主任」。HOLD: 本頁稱現任主任 vs 2025 簡介稱「曾任」——任職現況待核，未自動合併。
 
 - 複核（TJJ-A09230700-7, 2026-09-24）：slice 文章 23da543a315a1fa1（南加2/25聯合紀念228七十週年公告）正文再驗證——「台美人第二代作家楊小娜(Green Island的作者)…3月4日會館演講、3月5日Tustin台灣人長老教會演講」確認見於正文，連結為真；2017-03-04/05 條目已在庫 — SKIP，無新材料。
