@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Andrew Yang (楊安澤)
 
@@ -110,6 +110,8 @@ Coverage in the taiwanjustice-net corpus harvested into this vault extends his p
 <!-- TJJ-A100607008-d: verified 2026-10-09 — wave-2 link+deepen re-check of article 1a2bdc08b6c7bf6c (台美人台加人 分類隨機頁 p3, 2025-04-26快照) read fresh this attempt: subject link re-checked vs 正文 — 「台裔楊安澤新書批美國制度失靈，擬下月組新政黨」確認見於收錄清單, real, no wrong/spurious links; dated fact w/ article wikilink (2021-01-25) already in From the record — saturated, no new material. -->
 
 <!-- deepen-x slice 10100315-6: re-checked 2026-10-10 — fresh grep 楊安澤/Andrew Yang/安澤 across all 5 corpus dirs (works/articles/sources/events/topics) returned 6 hits, all already listed in Vault Holdings (whos-who-2058, andrew-yang S.CA, 4-donate, videos134, 2019-important-events-4, event2020-5); no new corpus material — saturated, no new material. -->
+
+<!-- deepen-x slice 10102300-11: re-checked 2026-10-12 — fresh grep 楊安澤/Andrew Yang/安澤 across all 5 corpus dirs (works/articles/sources/events/topics) returned 6 hits, all already listed in Vault Holdings (whos-who-2058, andrew-yang S.CA, 4-donate, videos134, 2019-important-events-4, event2020-5); secondary sweep (Yang An-ze/Evelyn Yang/盧艾玲/Forward Party/前進黨/Venture for America/Manhattan Prep) hits are unrelated (Thai Future Forward Party, 臺灣前進黨 candidates, French 前進黨 articles) — saturated, no new material. -->
 
 ## 照片
 
