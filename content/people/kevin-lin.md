@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Kevin Lin (林士斌)
 
@@ -56,3 +56,5 @@ last_reviewed: 2026-10-11
 <!-- Re-verified 2026-10-10 (deepen-x slice 10090800-31): fresh grep (林士斌 / Kevin Lin / 士斌) across works/articles/sources/events/topics returns the identical hit set — whoswho1065-2 (own record), ourjourney-343 (林發祥, different Kevin Lin — HOLD stands), stephanie-lin-champions (COO Twitch mentor), spark-accel (co-founder Twitch/Gold House mentor), index/sources backlinks. No new memoir or community material; both HOLDs unchanged. Verified-saturated, SKIP. -->
 
 <!-- Re-verified 2026-10-11 (deepen-x slice 10101205-28): fresh grep (林士斌 / Kevin Lin / 士斌) across works/articles/sources/events/topics returns the identical hit set — whoswho1065-2 (own record), ourjourney-343 (林發祥, different Kevin Lin — HOLD stands), stephanie-lin-champions (COO Twitch mentor), spark-accel (co-founder Twitch/Gold House mentor), index/sources/people backlinks. No new memoir or community material; both HOLDs unchanged. Verified-saturated, SKIP. -->
+
+<!-- Re-verified 2026-10-12 (deepen-x slice 10112300-26): fresh grep (林士斌 / Kevin Lin / 士斌) across works/articles/sources/events/topics returns the identical hit set — whoswho1065-2 (own record), ourjourney-343 (林發祥, different Kevin Lin — HOLD stands), stephanie-lin-champions (COO Twitch mentor), spark-accel (co-founder Twitch/Gold House mentor), index/sources backlinks. No new memoir or community material; both HOLDs unchanged. Verified-saturated, SKIP. -->
