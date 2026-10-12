@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Dr. Mei-Ann Chen (陳美安博士)
 
@@ -81,3 +81,6 @@ All wikilink targets re-verified to exist in the vault; all cited-source facts r
 
 ## Deepen 2026-10-10 (deepen-x slice 10090315-28, vault-only)
 Fresh 5-dir corpus grep (陳美安 / Mei-Ann / Mei Ann / 美安) surfaced two previously unlinked corpus works with new material, now absorbed above: **Our Journeys 339** (2018 蕭泰然音樂節 memoir — Malko 2005 first prize over 242 competitors; NTSO conducting at Walt Disney Concert Hall, full program detail) and **TAH #372** (NEC's first dual violin+conducting master's graduate). No date/age conflicts encountered; no web used; no new pages; nothing published.
+
+## Deepen 2026-10-12 (deepen-x slice 10112243-28, vault-only)
+Fresh 5-dir grep (陳美安 / Mei-Ann / Mei Ann / MeiAnn) re-confirmed the existing corpus set; the previously unlinked taiwanjustice.net article [[articles/taiwanjustice-net/2022/20221002094539_2022_08_11_台灣指揮林韡函-獲聘美密蘇里交響樂團音樂總監_23d7e5334ba5a0ec|林韡函獲聘密蘇里交響樂團音樂總監]] (2022-08) names her, alongside 許瀞心, as one of the Taiwanese musicians serving as music director of a U.S. orchestra — community-context corroboration of her music-director standing, no new dates. No conflicts; no web used; no new pages; nothing published.
