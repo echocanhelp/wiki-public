@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Gichiong Khu (邱義昌博士)
 
@@ -68,3 +68,5 @@ All facts above are absorbed from vault pages of the cited TAH encyclopedia entr
 （複掃 2026-09-15，slice 09150500-10：SKIP）重掃結果不變——命中仍僅上述五筆已連結出處頁，無新增社群一手材料——維持 **SKIP（出處已全數連結）**。
 （覆核 deepen-x slice 09150600-2，2026-09-15：SKIP）重掃結果不變——命中仍僅 ourjourneys8（含 EN）、ourjourneys156、mystories-791、publications284、whos-who-1460 五筆已連結出處頁，無新增社群一手材料——維持 **SKIP（出處已全數連結）**。
 （deepen-x slice 10091316-19，2026-10-10：**DEEPENED**）本輪全語料重掃（邱義昌／Gichiong／義昌）新命中兩筆本人親撰一手材料，先前輪次未收——ourjourneys329（2017 年文成杯三十三週年自述回憶錄：创办四旨、1993 十週年紀念文與紀念會）與 ourjourneys5-9-11-donations-2002（2002 年 911 捐款自述，以 TAA 會長身分經劉醇逸安排移交 16.6 萬美元予受難消防員遺眷基金會）——已吸收於 Vault record 並連結原文頁。無衝突資料需 HOLD。
+
+（覆核 deepen-x slice 10102129-28，2026-10-11：**SKIP**）全語料重掃（邱義昌／Gichiong／義昌／Khu）：命中仍僅已連結之八筆本人出處頁——ourjourneys8（含 EN）、ourjourneys156、mystories-791、publications284、whos-who-1460、ourjourneys329、ourjourneys5-9-11-donations-2002——與 works/index、sources 索頁；articles 之命中為外文姓名子字串假陽性（Chiponda／Khuzestan／Khusnullin／AiKhun 含 "Khu"），非本人。無新增社群一手材料，維持 **SKIP（出處已全數連結）**。
