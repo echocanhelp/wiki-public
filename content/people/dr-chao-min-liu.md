@@ -102,3 +102,6 @@ No biography invented, no new pages created, nothing published.
 Fresh ZH+EN grep (劉兆民 / Chao-Min Liu / Chaomin Liu) across works/articles/sources/events/topics — hit set is now saturated except one previously-unlinked record:
 - Exhibition record: [[works/taiwaneseamericanhistory-org/dr-chao-min-liu-oil-paintings-show|TAH #29 — 2018-05~06 solo oil-paintings show, Livingston Community Center Gallery, Livingston NJ]] — complements the 2010-04 林保山雙個展 already linked; documents his NJ exhibition activity alongside the Hoffmann-La Roche career years.
 No biography invented, no new pages created, nothing published.
+
+## Deepen pass 2026-10-12 (deepen-x slice 10120316-24, vault-only)
+Fresh ZH+EN grep (劉兆民 / Chao-Min Liu / Chaomin Liu) across works/articles/sources/events/topics: 30 corpus hits, all 30 already linked on this page — hit set saturated. Only unlinked hit is [[sources/taiwaneseamericanhistory-org|taiwaneseamericanhistory.org]]'s works index, a hub listing rather than a source. No new facts, no date conflicts, no web used, no new pages created, nothing published.
