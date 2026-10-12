@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Tong Y. Chen (陳東榮醫師)
 
@@ -60,6 +60,10 @@ His material culture of the diaspora is itself a historical source: TAH encyclop
 - 複核（TJJ-A09250400-9, 2026-09-25）：本 slice 文章 14114a89（陳東榮醫師麻醉演講心得報告, 2024-06-14 存檔）正文再驗證——本頁 subject 連結為真，無錯鏈、無虛鏈；2018-03-14 條目（已補掛該文快照 wikilink）已在庫 — SKIP，已飽和。
 
 - 複核（TJJ-A09240500-5, 2026-09-25）：本 slice 文章 23e163f71d3f2ba5（長青教室標籤頁, 2024-05-23 快照）正文再驗證——「【長青教室心得報告】摘下口罩，談麻醉醫師的角色 ◎ 陳東榮醫師 2018-03-14」確認見於正文，連結為真；上方 2018-03-14 日期事實已在庫（引 c691e327b9133c1a 快照）— SKIP，無新材料。
+- 2017 — 台美人筆會《2017臺美文藝》編輯委員會成員（同組：李彥禎、李芬芬、鄭炳全、秦雪華、林文政）；新書發表會 2017-06-17 於大洛杉磯台灣會館（[[articles/taiwanjustice-net/2022/20221127052725_2017_06_11_2017台美文藝出版-台美人筆會六月十七日舉辦發表會_c76f11ecd2598ecb|台美人筆會 2017 臺美文藝發表會報導, 2022-11-27 存檔]]）。
+- 2021-09-21 — 散文「一趟豐盛的報復性旅遊」刊於台灣公義報「Covid-19 浩劫餘生錄」專欄（[[articles/taiwanjustice-net/2021/20211205040846_tag_一趟豐盛的報復性旅遊_b1f7b38976f293bc|TJJ tag 頁存檔]]）。
+- 2023-07-31 — 散文「我家後院的游擊隊」刊於台灣公義報藝文類（[[articles/taiwanjustice-net/2023/20231201225623_root_41b304eda05fa545|TJJ 藝文標籤頁, 2023-12-01 快照]]）。
+- 2025-06-16 — 政論「蔡英文怎麼會是獨裁者？回友人的一封信」刊於台灣公義報（[[articles/taiwanjustice-net/2025/20250616213808_蔡英文怎麼會是獨裁者回友人的一封信-_陳東榮_ca18abdae1432ef1|TJJ 原文存檔, 2025-06-16]]）——letters-side 寫作生涯延續至 2025 年之直接證據。
 - 2015-04 — 譯著：Charlene Chen 著《一位台美人第二代在非洲的故事——走出溫室，挑戰未知 / Beyond the Comfort Zone》漢文版（陳東榮 譯）—— [[works/taiwaneseamericanhistory-org/mystories230-2||TAH #230 漢文版 (2015-04)]] 與 [[works/taiwaneseamericanhistory-org/230-e4-b8-80-e4-bd-8d-e5-8f-b0-e7-be-8e-e4-ba-ba-e7-ac-ac-e4-ba-8c-e4-bb-a3-e5-9||TAH #230 English version (2015-04)]]。作者 Charlene Chen 疑似 [[people/charlene-chen|Charlene Chen (陳怡林)]]（Bit Pesa 共同創辦人，非洲跨境支付）——HOLD: name match pending confirmation, not auto-merged.
 - 2015-02 — 於 Irvine台灣長老教會（ITPC）贊助之長青教室主講「冠狀動脈疾病」與「望遠鏡看非洲」兩場（[[works/taiwaneseamericanhistory-org/ourjourneys107||TAH #107, 長青教室 (2015-02)]]；該記錄掛有本頁 wikilink）。
 - 2018-03-14 — 於長青教室演講「摘下口罩，談麻醉醫師的角色」，聽眾心得報告刊於台灣公義報「台美人台加人」分類（2018-03-21 刊登，後附影音）（[[articles/taiwanjustice-net/2024/20240719125457_root_c691e327b9133c1a|TJJ tag 心得報告, 2024-07-19 存檔]]；TJJ-A09231000-7 補掛同文快照 [[articles/taiwanjustice-net/2024/20240614152841_root_14114a89e393f958|14114a89, 2024-06-14 存檔]]）。
