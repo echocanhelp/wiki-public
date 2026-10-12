@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Pearl Pi-Chu Yang Wu (楊碧珠)
 
@@ -48,6 +48,7 @@ last_reviewed: 2026-10-11
 - Source of [[works/taiwaneseamericanhistory-org/ourjourneys229|229. A Taiwanese language course offered by UC Berkeley, April 15, 1996]] (submitted 05/2016) — memorabilia of the first UC Berkeley 台語 course, contributed under her name via her daughter Chen-Chen Wu (吳貞貞), the record's byliner. The daughter's own 2019 companion record on the same course, [[works/taiwaneseamericanhistory-org/677-uc-berkeleys-taiwanese-language-class-1992-chen-chen-wu-03-2019|677. UC Berkeley's Taiwanese Language Class 1992+]] (2019-03-20, band B), is also in the corpus — the family's two-record thread on the Berkeley 台語 language program.
 - 2026-09-25 re-check (slice 09250900-2): fresh ZH+EN grep 楊碧珠/Pearl Yang Wu/Pearl Wu over works/+articles/ returns the same record set already linked above (ourjourneys243, our-journeys-370, mystories-758, collection-of-mrs-pearl-wu, ourjourneys355, whos-who-1742 and the encyclopedia/biography records cited) — hit set saturated, SKIP-deepen; husband-name HOLD (吳宗憲 vs 吳平原) stands.
 - 2026-10-09 re-check (slice 10081009-12): fresh grep 楊碧珠/Pearl Yang Wu/Pearl Wu/Pi-Chu/碧珠 across works/articles/sources/events/topics returns the same 11-record set already linked above plus two false positives on the given-name 碧珠 belonging to other people — 李碧珠 in [[works/taiwaneseamericanhistory-org/ourjourneys316|316. 紐約台灣會館老人中心]] (a Queens senior-center volunteer teacher) and 蔡碧珠 (Beatrice Tsai) in [[works/taiwaneseamericanhistory-org/ourjourneys232|232. 華府台美人參加2016年度獨立紀念日遊行記]] (a DC parade float builder). Neither is her; no new material. Hit set confirmed saturated; husband-name HOLD (吳宗憲 vs 吳平原) stands.
+- 2026-10-12 re-check (slice 10110200-21): fresh grep 楊碧珠/Pearl Pi-Chu Yang Wu/Pearl Yang Wu/Pearl Wu/Pi-Chu/碧珠 across works/articles/sources/events/topics returns the same 12-record set already linked above, plus three false positives — 吳碧珠 (Taipei politician) in a taiwanjustice.net 2022 article, 李碧珠 in ourjourneys316, 蔡碧珠 in ourjourneys232 (the latter two already identified as other people on 2026-10-09). No new material; hit set confirmed saturated. Husband-name HOLD (吳宗憲 vs 吳平原) stands.
 - HOLD: conflict on husband's Chinese name — TAH Who's Who page lists 吳宗憲, while corpus record [[works/taiwaneseamericanhistory-org/whos-who-2268-peter-wu|2268. Dr. Peter Wu 吳平原博士]] (2020-05-04) lists 吳平原; both refer to Peter Wu, UT Austin pharmacy Ph.D. and president of the Austin Taiwanese Association 1991–1993 per the Austin memoir.
 
 ## Sources
