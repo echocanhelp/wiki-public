@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Thomas Chen (陳秋貴)
 
@@ -66,6 +66,8 @@ last_reviewed: 2026-10-11
 - 2026-09-23 deepen-x slice 09221200-14: verified-saturated re-verify — same hit set (mystories129, ota-275, 307, TJJ 2022, Pew statement under HOLD); nothing new.
 - 2026-09-22 deepen-x slice 09220317-32: SKIP re-confirmed — identical hit set as slice 09210500-15 (mystories129, ota-275, 307, TJJ 2022, Pew statement under HOLD); nothing new absorbable.
 - 2026-09-22 deepen-x slice 09210500-15: SKIP confirmed — corpus hits are exactly the works already linked above (mystories129, ota-275, 307, TJJ 2022 article). The one other match, a 大華府台美人 statement signatory list ([[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew 台美人聲明]], "Thomas Cheng, East Bay Taiwanese Association"), is a different romanization/affiliation — HOLD: Chen 陳秋貴 (NYC) vs Cheng (東灣), not absorbed.
+
+- 2026-10-12 deepen-x slice 10120018-11: verified-saturated re-verify — fresh ZH+EN+surname grep (陳秋貴/Thomas Chen/秋貴) across all 5 corpus dirs returned the identical hit set already linked or held above (mystories129, ota-275, 307, works/index, sources index, TJJ 2022 世台晚宴, Pew "Thomas Cheng" signatory under HOLD); secondary org grep (Crystal Window/協和/世台/STUF/World Taiwan) surfaced only generic 世台/ourjourneys corpus mentions with no new person-attributable material. Nothing new absorbable — SKIP, saturated.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
