@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Chin-Ming Chen (陳欽明醫師)
 
@@ -90,3 +90,11 @@ Fresh ZH+EN grep across works/articles/sources/events/topics surfaced his own fi
 ## Vault re-check 2026-10-11 (deepen-x slice 10101200-16, vault-only)
 
 Fresh ZH+EN+surname grep (陳欽明 / Chin-Ming / Stephen Chen / 欽明) across all 5 corpus dirs returned only records already fully absorbed in prior passes: TAH #14 (collection), #17 (影音紀錄頻道), #102, #899, ourjourneys12 (pen-club succession, HOLD stands), mystories547. Remaining hits were index/hub pages with no biographical material. No new vault facts, no web used, no new pages, nothing published.
+
+## Vault re-check 2026-10-12 (deepen-x slice 10110805-15, vault-only)
+
+Fresh ZH+EN+surname grep (陳欽明 / Chin-Ming / Stephen Chen / 欽明) across all 5 corpus dirs. Two new-name hits evaluated and set aside as **different persons**, not absorbed:
+- [[works/taiwaneseamerican-org/roll-call-supporting-taiwanese-american-creators-small-businesses-during-covid-1|TA roll-call (COVID-19)]] mentions "Taiwanese American business owner Stephen Chen" of Scanwell Health (free UTI testing kits) — a business owner, not the NY-region anesthesiologist; no 漢名 given, treated as distinct. That record's own wikilink resolves to [[people/dr-stephen-chen|Dr. Stephen Chen (陳貞華博士)]], already flagged as a different person above.
+- [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|Pew Taiwanese American statement]] lists "Stephen Chen" among signatories with no 漢名 — indeterminate, not attributed.
+
+All other hits (TAH #14/#17/#102/#899, ourjourneys12, mystories547/549, publications1135/1136, whos-who-1690) were already fully absorbed in prior passes; the 2015-vs-2016 pen-club succession HOLD stands. No new vault facts, no web used, no new pages, nothing published.
