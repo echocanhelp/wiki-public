@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-12
 ---
 # Jean J. Fang (黃靜枝)
 
@@ -63,3 +63,5 @@ Corpus re-grep 2026-09-21 (slice 09201300-2): identical hit set — ourjourneys8
 Corpus re-grep 2026-09-22 (slice 09211300-1): hit set unchanged — ourjourneys8-eng, ourjourneys58, ourjourneys60-eng, ourjourneys79, Marilyn Fu interview, own #163/#827 records, works index — all already linked above. SKIP-no-new-material; page saturated.
 
 Corpus re-grep 2026-10-09 (slice 10081100-7): ZH+EN+alias sweep (黃靜枝 / Jean J. Fang / Ching-chih / 靜枝) across all 5 corpus dirs. Hit set same, but two records not previously cited carried new detail now absorbed: ourjourneys60 (ZH NATWA history — committee name 聯手組, 2000/2004 返臺助選 with 葉寶桂) and ourjourneys8 (ZH memoir of the 1983 補破網 play, 黄靜枝演陳素貞, narrator + 黃美惠 also acting). No date/age conflicts; no HOLD needed.
+
+Corpus re-grep 2026-10-12 (slice 10110400-13): ZH+EN sweep (黃靜枝 / Jean J. Fang / Jean Fang / 靜枝) across all 5 corpus dirs — hit set identical to prior sweeps (ourjourneys8-eng/8, ourjourneys58, ourjourneys60-eng/60, ourjourneys79, own #163/#827 records, Marilyn Fu interview, works index, sources index) — all already linked above. SKIP-no-new-material; page saturated.
