@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # An-Su Gao Lai (賴高安賜)
 
@@ -34,7 +34,7 @@ Accomplishment
 
 ## Community roles
 - Taught music at Kaohsiung Girls' Senior High School (高雄女中), 1945–1948; later taught Bible & music and served as dormitory superintendent (舍監) at her alma mater Chang Jung Girls' High School (長榮女中).
-- 3rd President of the Taiwanese America Seniors Association of Southern California (TASA), 1983–1988.
+- 3rd President of the Taiwanese America Seniors Association of Southern California (TASA), 1983–1988. During her term she restored the association's name to 「台灣長輩會」 (Taiwan Seniors Association) and advocated construction of senior apartments; membership stood at over 600 at the time ([[works/taiwaneseamericanhistory-org/ourjourneys54-eng||Our Journeys #54 英文版]] / [[works/taiwaneseamericanhistory-org/ourjourneys54||中文版]]: 「第三任會長賴高安賜，恢復「台灣長輩會」名稱，並提倡籌建老人公寓」).
 - Founding member of the [[organizations/chang-jung-girls-high-school-alumni-association-southern-california||Chang Jung Girls' High School Alumni Association of Southern California]] (台南長榮女中南加州校友會).
 - Background to the building campaign: from TASA's founding in 1979 until January 1983 the association only rented office space and had been forced to move three times — "流離失所，無固定會址." This instability was the impetus for her 1984 proposal to the board that the association build its own senior center and senior apartments, which the board approved unanimously; membership stood at about 600. Second president 蕭華銓 (Hua-chuan Hsiao) willingly stayed on as vice-president to help carry the project ([[works/taiwaneseamericanhistory-org/ourjourneys173-eng||Our Journeys #173]]).
 - Assembled the Flamingo Garden project's advisory group of about twenty, inviting community leaders such as Kenjohn Wang, [[people/charles-ting|Charles Ting 丁昭昇]], [[people/symeon-woo|Symeon Woo 吳西面]], [[people/dr-hong-yen-hsu|Hong-yen Hsu 許鴻源]], Ming-chung Zhuo 卓敏忠 and others as consultants, plus three lawyers — [[people/mao-ching-david-huang|Mao-ching (David) Huang 黃茂清]], Chung-yuan Liao 廖重遠 and R. S. Wu 吳瑞信 — as legal advisers, with Ti-sheng Yang 楊惕生 as secretary ([[works/taiwaneseamericanhistory-org/ourjourneys173||Our Journeys #173 中文版]]).
