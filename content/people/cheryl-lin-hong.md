@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Cheryl Lin Hong (林千千)
 
@@ -75,3 +75,6 @@ Ms. Cheryl Lin Hong started her piano lesson at 5, and was fascinated by music s
 
 ## Vault re-check 2026-10-11 (deepen-x slice 10100849-27, vault-only)
 - 本輪 ZH+EN grep（林千千／Cheryl Lin Hong／紅番薯）全五語料目錄命中 6 檔（#392、#268、#161、#33-eng、TAH #261、#554）——與前輪相同之飽和命中集；紅番薯筆名改编曲（#392）、第一屆美東夏令會聯絡員與合唱團合影（#268）、婦女信箱 1994–1995 主筆（#161）皆已於先前各輪吸收，無新事實可併入，無衝突需 HOLD。未用網頁、未建新頁、未發佈。
+
+## Vault re-check 2026-10-12 (deepen-x slice 10110500-27, vault-only)
+- 本輪 ZH+EN grep（林千千／Cheryl Lin Hong／紅番薯／红番薯）全五語料目錄命中集不變：#392、#268、#161、#33-eng、TAH #261、#554 六檔實質語料，另 index.md 與 sources/taiwaneseamericanhistory-org.md 兩檔為索引用條（非新事實）。頁內紅番薯改编曲、第一屆美東夏令會聯絡員與合唱團合影、婦女信箱 1994–1995 主筆、丈夫洪正幸兩筆語料皆已於先前各輪吸收，無新事實可併入，無衝突需 HOLD。未用網頁、未建新頁、未發佈。
