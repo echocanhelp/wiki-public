@@ -6,12 +6,12 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # 郭雨新
 
 ## Identity Snapshot
-- **English:** —
+- **English:** Kuo Yu-hsin（威妥瑪拼音，見於英文口述紀錄）
 - **Chinese:** 郭雨新
 - **Era:** 1908-1985
 - **Geography:** 台灣宜蘭
@@ -82,3 +82,5 @@ last_reviewed: 2026-10-10
 <!-- DEEPEN-X10100400-13: re-checked 2026-10-10 — fresh ZH+EN+family-name grep (郭雨新/Guo Yu/郭時南/石宛然) across works/articles/sources/events/topics returned 21 hits; all substantive material (OJ #65/#106/#222/#321/#350/#357, TAH #50/#404/#579/#715/#1298, TJJ 陳菊/遊錫堃/導讀台灣 series) already absorbed with wikilinks in Role in the Community. Two matches are false hits: 'Guo Yu' in an unrelated LGBTQ+ essay (taiwanese-democracy-changed-the-way-i-see-my-life) and a WHO-petition article with no actual mention. Saturated — no new material; HOLD on the 1969-vs-1975 election conflict stands. -->
 
 <!-- TJJ-A10100801-23: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-23 article c30596cc1ea6e337 (「導讀台灣」標籤頁p2, taiwanjustice.net, 2024-06-20快照) read fresh this attempt: subject link re-checked vs 正文 — 「導讀台灣 20231210 被打壓的那場改選…郭雨新落選」條目逐字確認見於清單, real, no wrong/spurious links; 2023-12-10 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10110000-18: re-checked 2026-10-12 — fresh ZH+EN grep (郭雨新/Guo Yu/Kuo Yu-hsin/郭時南/石宛然) across works/articles/sources/events/topics returned 22 files; all substantive material (OJ #65/#106/#222/#321/#321-eng/#350/#357, TAH #50/#404/#579/#715/#1298, TJJ 陳菊/遊錫堃/導讀台灣 series) already absorbed with wikilinks in Role in the Community. Two false hits confirmed: 'Guo Yu' in LGBTQ+ essay (taiwanese-democracy-changed-the-way-i-see-my-life) and WHO-petition article with no actual mention. English romanization Kuo Yu-hsin confirmed in ourjourneys321-eng 正文 — added to Identity Snapshot. Saturated — no new material; HOLD on the 1969-vs-1975 election conflict stands. -->
