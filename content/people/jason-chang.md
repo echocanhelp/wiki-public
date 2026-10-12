@@ -71,6 +71,8 @@ Jason Chang, President of [[organizations/north-america-pastel-artist-associatio
 - 2019-05-29 — Kean University 個展：[[works/taiwaneseamericanhistory-org/footsteps-30|Kean University 個展（2019）]]
 - 2013-04 — 出版《粉彩藝術入門與應用》（Art/藝術類出版品，與 2009《粉彩畫技法入門及作品欣賞》為不同著作）：[[works/taiwaneseamericanhistory-org/publications391|粉彩藝術入門與應用（2013/04）]]
 - 2014 — 撰寫 TAC/EC 東部夏令會側寫（「by Artist Jason Chang 張哲雄」）：[[works/taiwaneseamericanhistory-org/footsteps-9|TAC/EC 東部夏令會側寫（2014）]]
+- 1999-09 — 《張哲雄的粉彩世界》（魏主成主編，Art/藝術類專書）出版：[[works/taiwaneseamericanhistory-org/155-e5-bc-b5-e5-93-b2-e9-9b-84-e7-9a-84-e7-b2-89-e5-bd-a9-e4-b8-96-e7-95-8c-e9-a|張哲雄的粉彩世界（1999/09）]]
+- 2014 — 紐約台灣傳統週活動油畫作品（Passport to Taiwan, New York NY；畫家張哲雄），紀錄於 2017-11 發文：[[works/taiwaneseamericanhistory-org/ourjourneys325|紐約傳統週油畫（2014/紐約）]]
 - 別名排他註記：語料中「林哲雄」（=林衡哲醫師本名）、「王哲雄」（1939 年生台北藝術家）、「涂哲雄」（1976 同鄉會會長）、「陳哲雄」（醫師）皆為他人，與本頁張哲雄無關，勿合併。
 - 名稱衝突註記：[[works/taiwaneseamericanhistory-org/whoswho1171|Who's Who #1171 Jason Chang 張君麟]] 為另一位同名 Jason Chang（張君麟），非本頁人物。
 
