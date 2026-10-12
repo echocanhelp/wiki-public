@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Jen-Yih Chu (朱真一博士)
 
@@ -51,10 +51,12 @@ Dr. Jen-Yih Chu (Albert Chu, chuj@slu.edu) is a prominent historian of the Taiwa
   - [[works/taiwaneseamericanhistory-org/ourjourneys270|270. 早期留學北美的台灣女士–戰後初期 / 2016-12]]
   - [[works/taiwaneseamericanhistory-org/mystories413|413. 廖坤塗醫師簡介 / 2016-03]] · [[works/taiwaneseamericanhistory-org/mystories96|96. 謝娥醫師；第一位女士台美人]] · [[works/taiwaneseamericanhistory-org/mystories274|274. 台獨父親身教 台裔吳修銘競選紐約副州長 / 2015-03]] · [[works/taiwaneseamericanhistory-org/mystories477|477. 探討歷史故事；學習求真及樂趣 / 2016-11]]
   - [[works/taiwaneseamericanhistory-org/publication1315|1315. 可敬可佩的醫界人物 / 2002]] · [[works/taiwaneseamericanhistory-org/publications211|211. 絕望的少數??(一)海外客家台灣人的心與情 / 2003-12]] · [[works/taiwaneseamericanhistory-org/publications-1333|1333. 登革熱的故事 / 2020-01]] · [[works/taiwaneseamericanhistory-org/publications-132|1362. 從歷史文化看台灣人尤其客家人的健康問題 / 2022-01]] · [[works/taiwaneseamericanhistory-org/publications-1363|1363. 客家台語詩–試驗試驗集 / 2022-01]]
+  - [[works/taiwaneseamericanhistory-org/212-e7-b5-95-e6-9c-9b-e7-9a-84-e8-aa-9e-e8-a8-80-e6-9c-b1-e7-9c-9f-e4-b8-8020040|212. 絕望的語言 / 朱真一 / 2004-01 / Life 生活]] — his language-advocacy essay, companion in spirit to the 絕望的少數 series (211)
+  - [[works/taiwaneseamericanhistory-org/213-e7-9c-8b-e5-8f-b0-e7-81-a3-e6-96-87-e5-ad-b8-e5-af-ab-e5-8f-b0-e7-be-8e-e4-b|213. 看台灣文學寫台美人文學 / 朱真一 / 2004-05 / Life 生活]] — early programmatic statement on Taiwanese American literature
   - co-author volume [[works/taiwaneseamericanhistory-org/publications1085|1085. 新時代的醫學人文 / 戴正德主編 / 2017-04]]
   - [[works/taiwaneseamericanhistory-org/18-e5-be-9e-e9-86-ab-e7-95-8c-e7-9c-8b-e6-97-a9-e6-9c-9f-e5-8f-b0-e7-81-a3-e8-88|18. 從醫界看早期台灣與歐美的交流 (一) / 2007-11]] — the first installment of the same medical-exchange history series cited elsewhere on this page.
 - **Biographer of movement pioneers (taiwanjustice.net column record):**
-  - Co-authored with 陳永興 「台灣第一位外科女醫生謝娥——1949年離台移民美國有成於公共衛生界」 — the fullest account of 謝娥 in the corpus, corroborating his own sketch [[works/taiwaneseamericanhistory-org/mystories96|96. 謝娥醫師：第一位女士台美人]] — see [[articles/taiwanjustice-net/2025/20250808015559_台灣第一位外科女醫生謝娥-1949年離台移民美國有_a3608b31f14db754|TJJ, 2025-08-08]].
+  - Co-authored with 陳永興 「台灣第一位外科女醫生謝娥——1949年離台移民美國有成於公共衛生界」 — the fullest account of 謝娥 in the corpus, corroborating his own sketch [[works/taiwaneseamericanhistory-org/mystories96|96. 謝娥醫師：第一位女士台美人]] — original publication [[articles/taiwanjustice-net/2022/20220815035652_2022_07_26_台灣第一位外科女醫生謝娥-1949年離台移民美國有_9388a12b28bea71e|TJJ, 2022-07-26]], re-listed in the 台美人 category snapshot [[articles/taiwanjustice-net/2025/20250808015559_台灣第一位外科女醫生謝娥-1949年離台移民美國有_a3608b31f14db754|TJJ, 2025-08-08]].
   - 「台獨聯盟的要角：公共衛生界的王秋森博士」 — a movement profile of 王秋森 — [[articles/taiwanjustice-net/2025/20250215221604_category_taiwaneseamerican_page_3_98bf76da5c3ac86d|TJJ 台美人台加人 category page, 2025-02-15 快照]].
   - 「周烒明英譯高木友枝的《台灣的衛生狀況》」 (民報, 2016-09-16) — documenting 周烒明's translation of Takagi Tomosuke's sanitation classic — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d|TJJ 台美人台加人 category page, 2024-04-25 快照]].
   - 「基於證據的醫學——要打帶狀疱疹（Herpes Zoster）疫苗？肺炎疫苗呢?」 — his evidence-based-medicine column — [[articles/taiwanjustice-net/2024/20240713154040_root_473da8876aec40e5|TJJ, 2024-07-13]].
@@ -78,3 +80,4 @@ Dr. Jen-Yih Chu (Albert Chu, chuj@slu.edu) is a prominent historian of the Taiwa
 - Re-verify note（deepen-x slice-09220800-15, 2026-09-22）：fresh grep 新增 TAH 檔案 8（本人百科頁）與 TAH 檔案 11（朱真一教授的收藏）— 已吸收至上；其餘 hit set 與已吸收一致。
 
 - 複核（deepen-x slice 10090700-24, 2026-10-10）：全語料 grep 命中 45 檔；新增吸收 1 檔作品記錄（work 18 從醫界看早期台灣與歐美的交流）、4 篇 taiwanjustice.net 朱真一專欄/著作條目（謝娥傳、王秋森傳、高木友枝譯作、疫苗專欄）、2018 台大校友聲明連署；並記 1 處 HOLD（向史明先生致敬 2015-05 vs 12/2017 兩處日期不一致）。其餘 hit set 與前次吸收一致。
+- 複核（deepen-x slice 10101500-19, 2026-10-11）：全語料 grep 命中 45 檔，逐檔比對連結狀態；新增吸收 2 檔早期 Life 生活專欄（212 絕望的語言 2004-01、213 看台灣文學寫台美人文學 2004-05），並補上謝娥傳的 2022-07-26 原始出處連結（原僅列 2025 快照）。其餘 hit set（含 ourjourneys 英文版雙軌檔）與前次吸收一致，無新衝突。
