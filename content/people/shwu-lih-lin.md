@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Shwu Lih Lin (林淑麗)
 
@@ -49,7 +49,7 @@ Accomplishment
 - Co-founder and former director of the [[organizations/the-great-new-york-region-oversea-taiwanese-pen-club||Greater New York Region Overseas Taiwanese Pen Club]]
 - Former president, NATEA (北美台灣工程師協會) Greater New York Chapter — see [[works/taiwaneseamericanhistory-org/activities-of-natea||Activities of NATEA]] for in-vault NATEA history (chapter page: [[organizations/natea-southern-california||NATEA]]).
 
-Founding detail absorbed from [[works/taiwaneseamericanhistory-org/ourjourneys12||TAH #12, 大紐約區海外台灣人筆會十週年 / 柯金寅 (2014-09)]]: the pen club was initiated by four writing enthusiasts including 林淑麗 and formally founded 2003-11-29, with 蔡榮聦醫師 as first president; the founding convention was held at 佳壇台語教會 and covered by the major Chinese-language papers on the US East Coast. 林淑麗 later translated the club constitution into English at the president's request (revised and expanded 2008 by board member 黃正雅醫師).
+Founding detail absorbed from [[works/taiwaneseamericanhistory-org/ourjourneys12||TAH #12, 大紐約區海外台灣人筆會十週年 / 柯金寅 (2014-09)]]: the pen club was initiated by four writing enthusiasts including 林淑麗 — 楊慶安, 蔡榮聰, 王淑芬 and 林淑麗 — and formally founded 2003-11-29, with 蔡榮聦醫師 as first president; the founding convention was held at 佳壇台語教會 and covered by the major Chinese-language papers on the US East Coast. The club grew quickly: 12 permanent members ($300 one-time dues) and 60 ordinary members ($20/year) at the outset, holding its first annual meeting 2005-01-01. 林淑麗 is recorded as a permanent member; in 2007 she translated the club constitution into English at the president's request, and in 2008 board member 黃正雅醫師 revised and expanded it (three new chapters), with the new English constitution adopted at the fifth annual meeting 2009-01-01. The club's first activity, in 2004-03, was a 60-plus-person presidential campaign support team that returned to Taiwan to campaign for the DPP; its statement at Taoyuan Airport — that the cross-strait status quo could only be changed through peaceful negotiation between the Taipei and Beijing governments with the consensus of the people of Taiwan — was published the next day in 自由時報 and other papers.
 
 Her TAH encyclopedia entries are archived in the vault:
 - [[works/taiwaneseamericanhistory-org/79-ms-sue-lin-e6-9e-97-e6-b7-91-e9-ba-97-the-first-speech-on-becoming-american-t||TAH #79 — first speech on becoming American, Cranbury NJ Woman Club (2002)]]
