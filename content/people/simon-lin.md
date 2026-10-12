@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Simon Lin (林榮松)
 
@@ -116,3 +116,17 @@ Fresh ZH+EN grep (林榮松|Simon Lin) across works/articles/sources/events/topi
 - **Volunteer-ethos oral profile:** 「180. 林榮松 甘願做義工」, story by 林蓮華 (2015/01): [[works/taiwaneseamericanhistory-org/mystories181|TAH #180 (My Stories)]] — community memory of him as a willing volunteer.
 - **2015-04 — UN for Taiwan campaign:** photo-activity record 「67. UN for Taiwan/林榮松」: [[works/taiwaneseamericanhistory-org/photo-albums-activities-67|TAH photo album #67]].
 - **Overseas-backer experience, told by him:** video 「25. 林榮松談參與海外後援會的經驗」 — his account of participating in overseas (海外後援會) support work: [[works/taiwaneseamericanhistory-org/videos25|TAH video #25]].
+
+## Role in the Community (corpus absorb, deepen-x slice 10110000-32, 2026-10-12)
+
+Fresh ZH+EN grep (林榮松|Simon Lin|Long Song) across all 5 corpus dirs returned 20 works; records not yet absorbed in prior passes:
+
+- **1996–2012 — election-support photography, 16-year span:** photo album 「34. Taiwanese American's Support & Activities involved in Presidential Election in Taiwan from 1996-2012 / 台美人的助選活動」 provided by Dr. Simon Lin (posted 01/03/2015): [[works/taiwaneseamericanhistory-org/photo-albums-activities-34|TAH photo album #34]] — widens the 2014 rally record already noted above to a documented 1996–2012助選 corpus.
+- **2015-01-04 — 台美小姐選美會 documentation:** photo album 「37. Miss Taiwanese American Pageant by Taiwan Center Foundation of Greater Los Angeles / 台美小姐選美會」 photographed by Dr. Simon Lin: [[works/taiwaneseamericanhistory-org/photo-albums-activities-37|TAH photo album #37]].
+- **WHO for Taiwan campaign by NATMA:** photo activity 「54. WHO for Taiwan by NATMA / 林榮松醫師」: [[works/taiwaneseamericanhistory-org/photo-albums-activities-54|TAH photo album #54]] — complements the NATMA photo-album record (#38) already noted.
+- **2018-07-03 — collector record:** 「69. Collection of Dr. Simon Lin 林榮松醫師的收藏」 — his personal collection documented by TAH: [[works/taiwaneseamericanhistory-org/collection-of-dr-simon-lin|TAH #69]].
+- **2025-08-01 — full oral history:** 「186. Director of TCFGLA – 林榮松 Simon Long Song Lin's Journey | TAH Taiwanese Americans Oral History Project」: [[works/taiwaneseamericanhistory-org/video-186|TAH video #186]] — the fullest first-person record; consistent with the 執行長/Director title on the board source.
+- **2017-02 — 「父親完整地走完了他的一生」:** by 林榮松 (2017-02-09): [[works/taiwaneseamericanhistory-org/mystories515|TAH #515]] — family-memory essay; authorship attribution (his own piece vs. about his father) not disambiguated from the title alone.
+- **2021-09 — 「林榮松：行醫救人 一心為臺灣」:** profile piece (2021-09-09): [[works/taiwaneseamericanhistory-org/my-stories-803|TAH #803]].
+- **2018-10-09 — profile 「134. Dr. Long Song Simon Lin 林榮松醫師」:** [[works/taiwaneseamericanhistory-org/134-dr-long-song-simon-lin|TAH #134]] — alongside the Who's Who entry #702 already linked via [[people/dr-long-song-simon-lin]].
+- HOLD (carried forward): title divergence across sources (執行長 on board source; 董事長 from 2016; President in TAH table; 第一任會長 1998 in TAH #163 title) — retained as source-attributed, not auto-merged.
