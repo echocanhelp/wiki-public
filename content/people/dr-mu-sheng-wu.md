@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Mu-Sheng Wu (吳木盛博士)
 
@@ -56,7 +56,7 @@ Accomplishment
 - **會史撰文者**：親撰全美台灣同鄉會會史 [[works/taiwaneseamericanhistory-org/ourjourneys76-eng|TAH #76：全美台灣同鄉會／Taiwanese Association of America]] 及奧斯汀同鄉會會史 [[works/taiwaneseamericanhistory-org/ourjourneys45-eng|TAH #45：Austin 台灣同鄉會之成立]]。
 - **社區中心購置**：休士頓台灣人活動中心成立十周年 memoir 記載，1988 年當選七人購置委員會委員之一（與 Chao-Yuh Yang、Cheng-Yi Chuang 等）並參與看屋評估（[[works/taiwaneseamericanhistory-org/ourjourneys233-eng|TAH #233：回顧休士頓台灣人活動中心的成立]]）。HOLD: 該 memoir 為休士頓場景，與本頁 Austin 背景是否同一人未經證實，並記存疑。
 - **專欄作家／文學筆**：《台灣公論報》專欄〈吳木盛開講〉〈藝術的生活〉（[[works/taiwaneseamericanhistory-org/columns27|TAH #27]]、[[works/taiwaneseamericanhistory-org/columns26|TAH #26]]）；另以筆名「牧生」主筆《台灣公論報》專欄〈有孔無榫〉（[[works/taiwaneseamericanhistory-org/columns24|TAH #24：有孔無榫(台灣公論報) by 吳木盛(牧生)]]），後結集成書《有孔無榫集》（[[works/taiwaneseamericanhistory-org/publications1098|TAH #1098：有孔無榫集]]）；文學隨筆《小指隨筆》（[[works/taiwaneseamericanhistory-org/publications1099|TAH #1099：小指隨筆]]）；人物記錄稱「台美人第一筆」（[[works/taiwaneseamericanhistory-org/ff325|TAH #325：The Famous Writer]]）。
-- **文學創作**：散文〈青草茶〉（[[works/taiwaneseamericanhistory-org/publications32|TAH #32：青草茶／1994-07／文學]]）、〈離鄉〉（[[works/taiwaneseamericanhistory-org/mystories55|TAH #55：離鄉]]）。
+- **文學創作**：散文〈青草茶〉（[[works/taiwaneseamericanhistory-org/publications32|TAH #32：青草茶／1994-07／文學]]）、〈離鄉〉（[[works/taiwaneseamericanhistory-org/mystories55|TAH #55：離鄉]]）；另四部文學／自結集：《第二生命》（[[works/taiwaneseamericanhistory-org/publications28|TAH #28：第二生命／1996-05／文學]]）、《臺美人趣事》（[[works/taiwaneseamericanhistory-org/publications29|TAH #29：臺美人趣事／1997-09／文學]]）、自傳《鴨勇的腳印》（[[works/taiwaneseamericanhistory-org/publications30|TAH #30：鴨勇的腳印／2000-08／自傳]]）、《第四樂章》（[[works/taiwaneseamericanhistory-org/publications31|TAH #31：第四樂章／1993-05／文學]]）。
 - **TAA 第三任會長**：個人會史記錄自述為「全美台灣同鄉會第三屆會長」（[[works/taiwaneseamericanhistory-org/mystories544|TAH #544：全美台灣同鄉會第三屆會長—吳木盛博士的故事]]、英文版 [[works/taiwaneseamericanhistory-org/mystories544-2|TAH #544 英文版]]），與本頁 1974–1976 任期相互印證。
 - **會史章節作者**：撰〈全美臺灣同鄉會〉一章，收入張炎憲、曾秋美、陳朝海編《自覺與認同：1950-1990年海外臺灣人運動專輯》（頁333-370）；該文註記全美臺灣同鄉會英文名初為 The Formosan Club of America，後改為 Taiwanese Association of America（轉引自 [[works/taiwaneseamericanhistory-org/our-journeys-357|TAH #357]] 註解[17]）。
 - **黑名單三十年**：1970 年代初與數名年輕留學生籌組奧斯汀台灣同鄉會並任首任會長後，遭駐外使館列入黑名單、禁止返台探親約三十年，直至戒嚴結束、民選總統時期方解除（[[works/taiwaneseamericanhistory-org/ourjourneys58|TAH #58：回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過／陳希寬]]）。同文並記簡忠松、陳希寬夫婦等后续入列／解禁案例。HOLD: 同文稱其「1975 年任 TAA 首任會長」，與 [[works/taiwaneseamericanhistory-org/mystories544|#544]] 自述「第三屆會長」及本頁 1974–1976 任期記載存在頭銜/屆次衝突，不自動合併。
@@ -80,3 +80,4 @@ Accomplishment
 - Corpus re-check (slice 09150400-2, 2026-09-15): grep 四核，命中集不變（僅上述已連結書目頁），無新事實，無衝突需 HOLD；last_reviewed 已是今日。
 - Deepen pass (slice 10081000-25, 2026-10-09): 再核發現四組先前未吸收記錄——筆名「牧生」專欄〈有孔無榫〉(#24) 與結集《有孔無榫集》(#1098)、散文〈青草茶〉(#32) 與〈離鄉〉(#55)、自述「第三屆會長」會史記錄 (#544/#544-2)、《自覺與認同》專章（Formosan Club of America → TAA 更名註記，經 #357 轉引）。已全數吸收並 wikilink；無日期/年齡衝突需 HOLD。
 - Deepen pass (slice 10100500-29, 2026-10-11): 五目錄全量再 grep，命中 44 頁 works/，其中 15 筆先前未吸收——黑名單三十年記錄（#58）、世台會第二、三屆年會報告（#283）、NATWA 婦女信箱專刊（#79）、專欄 #25/#28/#29/#96/#123/#222/#528、著作 #1079/#1080/#1096/#1097、散文 #56/#56-2，已全數吸收並 wikilink。一項頭銜衝突（#58「首任會長」vs #544「第三屆會長」）記於上文 HOLD，未自動合併。
+- Deepen pass (slice 10110100-28, 2026-10-12): 五目錄再 grep，命中 44 works 頁；新發現四部未連結文學／自傳集——《第二生命》(#28)、《臺美人趣事》(#29)、自傳《鴨勇的腳印》(#30)、《第四樂章》(#31)，已吸收於「文學創作」條並 wikilink。黑名單／Austin 首任會長事實另見 [[works/taiwaneseamericanhistory-org/ourjourney-343|TAH #343]]（與 #58 同源敘述，無新事實）；#58「首任會長」vs #544「第三屆會長」HOLD 衝突維持未合併。
