@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Jackson Kuo (郭敏俊)
 
@@ -43,6 +43,7 @@ HERMIT Jackson Kuo is born in Taiwan in 1950. He is not a real hermit but in spi
 - **2016-07** — authored 郭敏俊專欄 (Taiwan e-News column series): [[works/taiwaneseamericanhistory-org/columns9|TAH #9 郭敏俊專欄(台灣e新聞)]] (2016-07-07) — establishes him as a regular community columnist, not only a visual artist.
 - **2017 (recorded 2018-01-04)** — art collection [[works/taiwaneseamericanhistory-org/publications1158|TAH #1158 Paint My Hometown: GreenBrook, Danville and Beyond]] — hometown-painting series alongside the 畫集 第一/第二輯.
 - **2014 late–2017** — taught the Japanese class at the 東灣台灣人長樂會 (East Bay Taiwanese Association): under his instruction students read Japanese, sang Japanese songs, and staged Japanese plays; the class ended summer 2017 — remembered as instructor in a community memoir, [[works/taiwaneseamericanhistory-org/my-stories-689|TAH #689 Christine L. Yang, My Language Learning Journey]] (2019). Corroborates the Japanese-studies/teaching role beyond the CSU/De Anza instructor listings.
+- **2016-07-29** — TAH encyclopedia artist entry: [[works/taiwaneseamericanhistory-org/artists63-jackson-kuo|TAH #63 郭敏俊 Jackson Kuo]] — bibliographic record of his artist profile in the story corpus (band B), complementing the Who's Who entry #1125.
 - Re-check (deepen-x 2026-09-21; priors 2026-09-18/20): corpus re-grep 郭敏俊 / Jackson Kuo returns the same work pages already linked in this section (publications 1007/1159/1160, mystories 453, whos 1125, #94 collection) — saturated, nothing new to absorb.
 - **2016-07 / 2020-04** — Who's Who and collection records: [[works/taiwaneseamericanhistory-org/whos1125-jackson-kuo|TAH #1125 Jackson Kuo 郭敏俊]] and [[works/taiwaneseamericanhistory-org/94-collection-of-mr-jackson-kuo|TAH #94 郭敏俊先生的收藏]] documenting his collecting practice.
 
@@ -80,3 +81,5 @@ Deepened (deepen-x slice 10081018-12, 2026-10-09): fresh ZH+EN grep surfaced 3 p
 複核（deepen-x slice 10100700-17, 2026-10-11）：fresh ZH+EN+郭俊敏 re-grep（works/articles/sources/events/topics）命中集合與前次完全相同（publications 1007/1158/1159/1160、columns9、mystories453、my-stories-689、whos1125、94-collection、artists63）— 飽和，無新增社群材料；#1159 署名郭俊敏 HOLD 維持。
 
 <!-- TJJ-A10100801-12: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-12 article c595d332038f73bb (「Taiwan」標籤頁 p3, 2024-06-20快照) read fresh this attempt: subject link re-checked vs 正文 — 「中國外交官在美國丟人現眼/郭敏俊/9-9-2012」條目確認見於清單, real, no wrong/spurious links; 2012-09-09 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+Deepened (deepen-x slice 10110315-19, 2026-10-12): fresh ZH+EN grep (郭敏俊/Jackson Kuo/敏俊, works+articles+sources+events+topics) hit set identical to prior saturation checks; 1 gap closed — artists63-jackson-kuo was source-URL-only, now wikilinked into Role in the Community (2016-07-29 artist profile, band B). #1159 署名郭俊敏 HOLD maintained.
