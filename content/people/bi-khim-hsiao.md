@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Bi-khim Hsiao (蕭美琴)
 
@@ -509,3 +509,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10100901-27: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-27 article 20250213214800_0258611f5f824a5d (520就職典禮賴清德家人將出席·蕭美琴母親返台觀禮, taiwanjustice.net 中央社記者葉素萍/賴于榛報導, 刊 2024-05-19 / 快照 2025-02-13) read fresh this attempt: subject link re-checked vs 正文 — 蕭美琴以副總統當選人身份明日宣誓就職、母親蕭邱碧玉與妹妹專程自美返台觀禮、台南親友及其父親過去服務的台南神學院教授牧師組團北上參加520慶祝大會人數超過上百人之記述逐字確認見於正文, real, no wrong/spurious links; 2024-05-20 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100901-23: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-23 article 20231201224837_root_c1e603063718b409 (返台投入選舉傳聞引討論·蕭美琴臨時缺席僑界活動, taiwanjustice.net 轉載中央社記者華盛頓專電, 刊 2023-11-11 / 快照 2023-12-01) read fresh this attempt: subject link re-checked vs 正文 — 蕭美琴為本文主角（原定與AIT主席羅森柏格共同出席華府台灣同鄉會馬里蘭感恩節餐會、臨時以剛打完COVID追加劑不適缺席改由駐美副代表鄭榮俊代打、返台參選傳聞背景）逐字確認見於正文, real, no wrong/spurious links; 正文提及之羅森柏格/鄭榮俊/藍鶯Ingrid Larson/張芷瑄均無 vault 頁, 不建鏈; 2023-11-11 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10102200-1: verified 2026-10-12 — page read fresh; fresh corpus sweep (蕭美琴/Bi-khim/bi-khim across works/articles/sources/events/topics): Bi-khim-corpus work set unchanged (my-stories-816, publications990, mystories391, whos-who-757, events2021-2, my-stories-866) — all six already wikilinked in TAH story corpus section; 367 taiwanjustice article hits all already reflected in From the record dated facts; remaining 蕭-only hits unrelated Hsiao/蕭 surnames (Tyzen Hsiao, Frank S.T. Hsiao, etc.); zh-wikipedia-lai-ching-te source link is the 2023-04 副手人選 fact already covered by the 2023-11-20 CNA entry — no new material, saturated. last_reviewed bumped to 2026-10-12. -->
