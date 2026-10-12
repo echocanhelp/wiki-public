@@ -173,6 +173,7 @@ Pages that link to **wang-gui-rong** (wang-gui-rong):
 <!-- TJJ-A10040500-9: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-9 article 2a543ddc9301b7b3 (會館24週年募款年會公告, 2022-09-24快照): subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A100607003-c: verified 2026-10-09 — wave-2 link+deepen re-check of slice A100607003-c article 2a543ddc9301b7b3 (大洛杉磯台灣會館24週年募款年會公告, 2022-09-13發文／20220924快照): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- TJJ-A10101501-1: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10101501-1 article 162effa713237818 (給台美人學生的 TASF COVID-19 疫情紓困獎學金, 2020-06-16) read fresh this attempt: 故僑務委員王桂榮 (Ken John Wang) 慷慨捐產創設會館基金會記述 re-checked vs 正文, real, no wrong/spurious links (本頁不在该文 Subjects 清單, 惟正文提及已核); 2020-06-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 ## 照片
 
