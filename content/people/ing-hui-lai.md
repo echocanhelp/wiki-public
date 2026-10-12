@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Ing-Hui Lai (賴英慧)
 
@@ -114,3 +114,5 @@ last_reviewed: 2026-10-11
 <!-- TJJ-A10100801-7: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-7 article 80c0a825a7a661b6 (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, 2025-11-08 快照, 同文於 b1d58af16c0a5e5b, 聲明 2021-05-13): subject link re-checked vs 正文 this attempt — 賴英慧 列名共同發起人清單, real, no wrong/spurious links; 2021-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- deepen-x slice 10100900-17: verified 2026-10-11 — fresh ZH+EN grep (賴英慧/Ing-Hui Lai/英慧) across all 5 corpus dirs returned the identical already-absorbed hit set: ourjourneys301 (TUF memoir — 第五任會長 sequence + 台灣民謠之夜/1996文化之夜 fully absorbed), 701 own record, 4 taiwanjustice-net articles (2490b18e 論壇與談人 / b1d58af1+80c0a825 WHA聲明共同發起人 / 8c5d1203+2fc3294e 募款餐會), works/index + sources index. Surname-only probe 林本晃 (husband) hit ourjourneys253/212 only as a community figure in other members' memoirs (TACL census work, 南灣生活座談會 founding) — zero mentions tie back to 賴英慧 herself; no dedicated 林本晃 page exists to link (no new pages rule). Zero new absorbable material — SKIP, verified saturated. -->
+
+<!-- deepen-x slice 10110600-18: verified 2026-10-12 — fresh ZH+EN grep (賴英慧/Ing-Hui Lai/英慧) across all 5 corpus dirs returned the identical already-absorbed hit set: ourjourneys301 (TUF memoir — 第五任會長 sequence 吳西面/林衡哲/吳澧培/楊子清/賴英慧, 1995《台灣民謠之夜》取代文化之夜, 1996 NATPA 合辦《台灣文化之夜》西雅圖親邀沈富雄、李遠哲主講、王金平率立委團 — fully absorbed in Role in the Community), 701 own record, 4 taiwanjustice-net articles (2490b18e 第166回論壇與談人「前台灣人聯合基金會會長」/ b1d58af1+80c0a825 WHA聯合聲明共同發起人列名 / 8c5d1203+2fc3294e Michelle Steel募款餐會與會名單), works/index + sources index. Zero new absorbable material — SKIP, verified saturated. -->
