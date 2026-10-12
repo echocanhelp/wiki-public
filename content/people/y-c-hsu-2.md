@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Y.C. Hsu (許英智)
 
@@ -45,8 +45,9 @@ last_reviewed: 2026-10-10
 
 ## Role in the Community
 
+- 1982-01-21 convocation roster: 周實's memoir records the 16 attendees he convened as SCTAI vice president — 楊嘉猷、黃茂清 ([[people/mao-ching-david-huang|黃茂清]])、曾克中、沈英忠、賴佔鰲、羅慕義、曾振輝、林天皓、陳憲治、洪肇奎、許和瑞 ([[people/ho-rui-hsu|許和瑞]])、林邦茂、鄭德和 ([[people/tah-p-d699884bcd|鄭德和]])、簡金生 ([[people/jin-sheng-jian|簡金生]])、周實 and himself; the record's own subject links also place [[people/c-b-chien|簡錦標]], [[people/symeon-woo|吳西面]], [[people/ahhee-hsu|許丕龍]] and [[people/san-john-huang|黃三榮]] in the same memoir ([[works/taiwaneseamericanhistory-org/ourjourneys272|272 / 周實]]).
 - Officer of 南加州台灣同鄉會 (SCTAI): as vice president he convened 16 community members on 1982-01-21 to discuss forming a civic-rights league; he had personally visited the JACL (Japanese American Citizens League) and collected its materials as the reference model. The meeting resolved to create TACL (Taiwanese American Citizens League) as a non-profit and named a six-person 籌備小組 — 楊嘉猷、洪肇奎、周實、曾克中、簡金生 and 許英智 ([[works/taiwaneseamericanhistory-org/ourjourneys272|272. 台美公民協會的成長：從孕育到發芽 / 周實]]). On 1982-03-03, ahead of the follow-up meeting planned for 3-04, he sent a letter withdrawing from the preparations because he was about to take over as 會長 of the 同鄉會, recommending 周實 as 召集人 — the account of a founding-team member ([[works/taiwaneseamericanhistory-org/ourjourneys272-eng|272 英文memoir]]). HOLD: conflict in the meeting date — 周實's Chinese memoir says 1982年1月21日, the English memoir rendering says 1/21/81; both retained, no auto-merge.
-- 1984-12 — One of the nine-member 南加州台灣同鄉會回台訪問團 that broke the 黑名單 and returned to Taiwan (led by 江昭儀; recounted by 謝清志) ([[works/taiwaneseamericanhistory-org/ourjourneys66|66. 南加州同鄉會組團回台—1984突破黑名單 / 謝清志]]; see also [[people/charles-chiang|江昭儀]]).
+- 1984-12 — One of the nine-member 南加州台灣同鄉會回台訪問團 that broke the 黑名單 and returned to Taiwan (led by 江昭儀; recounted by 謝清志) ([[works/taiwaneseamericanhistory-org/ourjourneys66|66. 南加州同鄉會組團回台—1984突破黑名單 / 謝清志]]; see also [[people/charles-chiang|江昭儀]]). The nine as named in the memoir: 蔡明憲、歐煌坤、李英男、林心智、張雲彥、許英智、江昭儀、蔡淑敏、謝清志 ([[people/ching-sze-hsieh|謝清志]]).
 - 1985-04 — Listed as an advisory committee member (顧問) of the 台美公民協會籌備委員會 in 台灣公論報 369期 ([[works/taiwaneseamericanhistory-org/ourjourneys186|186. 台美公民協會簡介 / 籌備委員會]]).
 - His own TAH encyclopedia record #1560 (2017/03) is archived as [[works/taiwaneseamericanhistory-org/whoswho1560|1560. Y.C. Hsu 許英智 / 2017/03]]; org page: [[organizations/taiwanese-american-citizens-league|台美公民協會 TACL]].
 
@@ -64,3 +65,5 @@ last_reviewed: 2026-10-10
 
 <!-- TJJ-A10040600-6: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-6 article 63717cb2b99ce3c3 (台美人台加人 p3, 2024-04-25 快照): subject link 許英智 re-checked vs 正文 (「珍藏台美人歷史鏡頭-1983年台美同鄉感恩節音樂會…許英智夫婦提供'), real, no wrong/spurious links; 2017-12-15 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A100607008-a: verified 2026-10-09 — wave-2 link+deepen re-check of article 20240425074022_root_63717cb2b99ce3c3 (台美人台加人 p3, 2024-04-25快照): subject link 許英智 re-checked vs 正文 this attempt (「珍藏台美人歷史鏡頭-1983年台美同鄉感恩節音樂會 逾3000人參與的盛會 @洛杉磯水晶教堂1-983-11-19-許英智夫婦提供」清單條目確認見於正文), real, no wrong/spurious links; 2017-12-15 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10110800-29: re-verified 2026-10-12 — fresh ZH+EN+surname grep (許英智 / Y.C. Hsu / 英智) across works/articles/sources/events/topics returned the identical saturated hit set (ourjourneys272/-eng, ourjourneys66, ourjourneys186, whoswho1560, works index, TJJ 63717cb2b99ce3c3); no new corpus material. Depth added this pass: 1982-01-21 convocation roster + 1984-12 回台訪問團 nine-member roster now named with wikilinks to existing pages (黃茂清/許和瑞/鄭德和/簡金生/簡錦標/吳西面/許丕龍/黃三榮/謝清志/江昭儀). -->
