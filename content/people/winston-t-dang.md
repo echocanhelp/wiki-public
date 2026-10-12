@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Winston T. Dang (陳重信)
 
@@ -70,3 +70,5 @@ Corpus re-grep 2026-10-04 (slice 09300315-23, 陳重信 / Winston T. Dang): fres
 Corpus re-grep 2026-10-08 (deepen-x slice 10062334-3): fresh ZH+EN grep (陳重信 / Winston T. Dang) returned the identical hit set (publications1056, 349-our-journeys, ourjourneys254, 661 bio, sources index) — all already cited above. Verified saturated, SKIP-with-reason, no new absorbable facts, no conflicts.
 
 Corpus re-grep 2026-10-11 (deepen-x slice 10101205-16): fresh ZH+EN+surname grep (陳重信 / Winston T. Dang / 重信) across all 5 corpus dirs returned the identical real hit set (publications1056, 349-our-journeys, ourjourneys254, 661 bio, works/sources indexes) — all already cited above. Extra matches were false positives: 洪重信 in our-journeys-389 (an Indianapolis 同鄉, different person), 重信守諾 (idiom in taiwanjustice-net articles), and 田村重信 (Japanese analyst). Verified saturated, SKIP-with-reason, no new absorbable facts, no conflicts.
+
+Corpus re-grep 2026-10-12 (deepen-x slice 10112300-11): fresh 5-dir grep (陳重信 / Winston T. Dang / 重信) plus surname sweep (\bDang\b) returned the identical hit set (publications1056, 349-our-journeys, ourjourneys254, 661 bio, works/sources indexes) — all already cited above. New sweep hits confirmed false positives: 便當 bian dang (bento) in three taiwaneseamerican-org food articles, plus the prior 洪重信 / 重信守諾 / 田村重信 matches. Verified saturated, SKIP-with-reason, no new absorbable facts, no conflicts.
