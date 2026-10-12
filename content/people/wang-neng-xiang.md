@@ -9,7 +9,7 @@ tags:
   - taiwan-democracy
   - cpa
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Wang Neng-xiang (王能祥)
 
@@ -103,6 +103,7 @@ Pages that link to **wang-neng-xiang** (wang-neng-xiang):
 - **HOLD:** ourjourneys33 describes the "Kansas Suite Group" meeting 1964–1965 while ourjourneys58 dates the "Kansas Formosan Group" formal organization to 1 July 1966 (Wang joining slightly later) — likely the same lineage described from two memoirs with different dating; not merged.
 - **HOLD:** ff51 labels Wang "the first political lobbyist in D.C. / 1972" while the 2017 profile dates his WUFI Foreign Affairs role to 1973 — likely the move year vs. the role start, not merged.
 - **HOLD:** ourjourneys33 prints the UFAI acronym as "MUFAI" in one passage (likely typo for UFAI); page keeps UFAI.
+- **Corpus (2026-10-12 re-verify):** fresh ZH+EN+surname grep (王能祥/Wang Neng/Neng-xiang/Neng-Hsiang/能祥) across all 5 corpus dirs returned the identical hit set (publications274, ourjourneys76/-eng, ff51, ourjourneys33, ourjourneys232) — all already absorbed above; no new material. Note: ourjourneys58 prints the directory title as 《全美台灣人名錄》 in one passage vs 《全美台灣同鄉通訊錄》 elsewhere — same Dec-1966 directory, naming variant only.
 - **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
 - **Note:** The full text includes detailed biographical information including family background, education, and decades of advocacy work.
 
