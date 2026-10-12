@@ -7,7 +7,7 @@ tags:
   - archive
   - Taiwanese-American
 verification_status: published
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # TAH Foundation (台美史料中心)
 
@@ -85,3 +85,5 @@ Echopedia **v1** of this domain = CPT **graph** (people + orgs), **not** a recra
 - **Who's Who cross-links:** the harvest under `content/works/taiwaneseamericanhistory-org/` includes biographical entries that themselves reference the Center (e.g. 吳朗, 吳明杰, 蘇芯, 鄭明憲), confirming the Center's role as a community hub in member accounts.
 - **Exhibition:** the Foundation's own exhibition work [[works/taiwaneseamericanhistory-org/honoring-the-taiwanese-american-journey-history-heritage-and-contributions|Honoring the Taiwanese American Journey]] (opened January 2025, on display as of 2026-08-06) presents its special collections with artifacts, photographs, and interpretive narratives, developed with exhibition design by 70 Degrees — the physical expression of the "permanent museum/history center" goal stated in the 2017/2020 About.
 - **Newsletter issues in corpus:** beyond the standing tag, individual issues are archived on taiwanjustice.net, e.g. the [[articles/taiwanjustice-net/2026/20260208202549_march-2021-newsletter-t-a-archives-台美史料中心_b7327dcf888cee82|March 2021 newsletter issue]] — corroborating the May-2015-onward monthly newsletter claim from About.
+- **2nd Taiwanese American Conference (2025-01-10–12):** the Center hosted/convened the 2nd Taiwanese American Conference, a two-night three-day event inviting summer camps (夏令會), hometown associations, Taiwan Centers, cultural groups, and second-generation organizations from across the US. Main topic: transmission of Taiwanese American cultural heritage — collection, preservation, digitization, dissemination. [[articles/taiwanjustice-net/2025/20250318093802_第166回世界台灣文化論壇_試論台美人-e-文化遺產-kap-傳_2490b18e8f37ea79|World Taiwan Culture Forum #166]] (2025-01-22, 鄭良光) previews it; [[articles/taiwanjustice-net/2025/20250418074402_台美史料中心t-a-archives-summary-of-the-taiwanese-americans-conference-2025_e49552207c0d58cd|the Center's own summary]] (2025-04-08) confirms. Participants cited: Prof. 廖炳輝 (Peng-hui Liao) of UCSD's Taiwan Studies Center ([[people/prof-ping-hui-liao]]), the second-gen documentary team "Lessons from Ah-má and Ah-kong", and [[organizations/taiwanese-united-fund|TUF]] leadership (會長 鄭良光/Simon Cheng, 前會長 賴英慧) — the Center acting as the movement's convening hub, not just a repository.
+- **Documentary pipeline:** the Center co-sources documentary work — 2024 CTS Documentary Workshop at UCSD with Dalton Lu's "The Taiwanese American Grand Narrative Project – Your Story Our Memory" ([[articles/taiwanjustice-net/2025/20250324131637_台美人紀錄片工作坊報名資訊-call-for-entries-cts-documentary-workshop-at-ucsd_e98cf7a25b6b5f07|call for entries]]) and the 2025 台美人移民史紀錄片計畫 forum ([[articles/taiwanjustice-net/2025/20250425124216_第145回世界台灣文化論壇_台美人移民史紀錄片計_ed4161929b1cc593|World Taiwan Culture Forum #145]]).
