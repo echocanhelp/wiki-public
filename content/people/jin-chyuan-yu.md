@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Jin-Chyuan Yu (游銘泉)
 
@@ -106,3 +106,5 @@ last_reviewed: 2026-10-11
 <!-- TJJ-A10100801-10: verified 2026-10-11 — wave-2 link+deepen slice 10100801-10 article 040657477c37c6cf (台美人之光 游朝凱榮獲美國國家圖書獎, 2020-11-19 刊 / 2020-12-05 快照) read fresh this attempt: subject link re-checked vs 正文 (父游銘泉、與妻林玲娟均來自台灣 — 確認見於正文), real, no wrong/spurious links; 2020-11-19 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10101401-6: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10101401-6 article 5b6cede86851b2ba (游朝凱設立創意寫作獎報導, 2021-02-14 刊 / 2026-02-11 快照) read fresh this attempt: subject link re-checked vs 正文 (游銘泉與妻游玲娟為獎項命名對象、創設TACL LID青年營/共同創辦南灣台美學校/成立NATEA-SC確認見於正文), real, no wrong/spurious links; 2021-02-11 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10110001-3: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110001-3 article 9c6973783db0011a (中央社記者黃淑芳游朝凱游銘泉專訪, 2024-07-06 刊 / 2024-07-15 快照) read fresh this attempt: subject link re-checked vs 正文 (游銘泉與子同受視訊專訪、約1965年移民美國、工程師、三代語言隔閡慨嘆確認見於正文), real, no wrong/spurious links; 2024-07-06 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10110600-14: verified 2026-10-12 — fresh grep 游銘泉/Jin-Chyuan Yu/Jin C. Yu across works/articles/sources/events/topics hit 20 files, all already cited or linked on this page (ourjourneys253/212, TAH #432, all Betty L. Yu & Jin C. Yu prize works, TJJ 9c697378/5b6cede8/040657477/a428dceb); koi-fish hit is editorial note re Charles Yu as TAF founder, not new 游銘泉 fact — saturated, no new material. -->
