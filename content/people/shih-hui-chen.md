@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Shih-Hui Chen (陳士惠)
 
@@ -50,6 +50,7 @@ A citation accompanying Shih-Hui Chen’s Goddard Lieberson Fellowship from the 
 - 2015-05-03 — the TAH Foundation story corpus carried two biographical entries on her ([[works/taiwaneseamericanhistory-org/191-shih-hui-chen-composer|TAH #191]], [[works/taiwaneseamericanhistory-org/393-shih-hui-chen-e9-99-b3-e5-a3-ab-e6-83-a0-201505|TAH #393]]), part of the same 2015/01–05 batch of Taiwanese American musician profiles that also recorded [[people/anne-ku|Anne Ku]], Rachel Ku, and Pei-Ning Ku — she is counted among the corpus's community music-persona set.
 - 2023-03 — her Goddard Lieberson Fellowship was reported to the community in [[works/taiwaneseamericanhistory-org/my-stories-870|TAH #870 台裔作曲家陳士惠獲頒美國藝術文學院音樂獎]].
 - 2026-10-10 rescan (slice 10090700-5): ZH+EN grep across works/articles/sources/events/topics returned only her own TAH entries (#155/#191/#393/#870) and index lines — no memoir or press mentions with new biographical facts. No conflicts found; nothing to HOLD.
+- 2026-10-11 rescan (slice 10101400-20): re-ran ZH+EN+surname sweep (陳士惠|Shih-Hui Chen|士惠) across all 5 corpus dirs — hit set unchanged (her 4 own TAH records + index/source listings only). Verified-saturated; no new material, nothing to HOLD.
 
 ## Family
 
