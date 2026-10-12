@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Min Ten Milton Lee (李明典)
 
@@ -75,3 +75,6 @@ _No filled family fields on the TAH profile._
 
 ## Corpus re-grep (2026-10-11, slice 10100900-21)
 - SKIP: all-5-dir re-grep (李明典 / Min-Ten / Milton Lee / Ming Lee) — genuine hit-set unchanged (dr-minten-lee, private-collections-84, whoswho972, videos71/72, publications999, 863), 全數已吸收並 wikilink，無新增社群材料。本輪命中另有 ourjourneys76-eng / whos-who-1780（Franklin Fong-Ming Lee 李豐明）、188（Chong Ming Lee 李聰敏）與 index.md / sources hub 列表頁 — 皆非本人新增材料，不吸收。Dr. Ming Lee 拼寫 HOLD 維持。
+
+## Corpus re-grep (2026-10-12, slice 10110600-22)
+- SKIP: all-5-dir re-grep (李明典 / Min-Ten / Milton Lee / Min Ten / Ming Lee) — genuine hit-set unchanged (dr-minten-lee, private-collections-84, whoswho972, videos71/72, publications999, 863)，全數已吸收並 wikilink，無新增社群材料。events/topics 目錄零命中；sources hub 與 index.md 為列表頁非新材料；Franklin Fong-Ming Lee / Chong Ming Lee 命中維持假陽性判定。Dr. Ming Lee 拼寫 HOLD 維持。
