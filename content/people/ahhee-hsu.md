@@ -104,6 +104,8 @@ Accomplishment
 
 <!-- TJJ-A10100701-30: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-30 article 00354cf6ba9cf607 (台美人台加人 featured p358, 2024-06-19快照) read fresh this attempt: 「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段/2011-10-30」條目逐字再確認見於正文, subject link real, no wrong/spurious links; 2011-10-30 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
+<!-- TJJ-A10110001-22: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110001-22 article 2fa1c26a7ca674e2 (台美人台加人 p359, 2024-07-18快照) read fresh this attempt: 「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段/2011-10-30」條目逐字再確認見於正文, subject link real, no wrong/spurious links; 2011-10-30 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 ## Sources
 - [TAH #2267 encyclopedia: 2267. Ahhee Hsu 許丕龍](https://taiwaneseamericanhistory.org/whos-who-2267-ahhee-hsu/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/ahhee-hsu/)
