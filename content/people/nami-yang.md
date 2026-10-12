@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Nami Yang (李淑櫻)
 
@@ -170,3 +170,5 @@ Fresh ZH+EN grep (李淑櫻 / Nami Yang / Nami Lee) across works/articles/source
 
 <!-- TJJ-A10100801-15: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-15 article c48e08c7f2c3bf8d (Covid-19 浩劫餘生錄分類頁, 2020-11-20 存檔): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10100901-7: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-7 article c76f11ecd2598ecb (2017台美文藝出版·台美人筆會六月十七日舉辦發表會報導, 2017-06-11 刊 / 2022-11-27 快照) read fresh this attempt: 李淑櫻以筆會會長身分宣布2017台美文藝出版及6/17發表會, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10102200-12: verified 2026-10-12 — fresh ZH+EN+alias grep (李淑櫻 / Nami Yang / Nami Lee / 李淑樱) across all 5 corpus dirs returned 41 files, all already linked or noted on this page. The only 4 unlinked hits are sources/taiwaneseamericanhistory-org.md + works/index.md (index pages, not material) and the duplicate catalog pages 133-remembering-simeon / 150-the-person-of-chang-chao-ing, already flagged as duplicates of mystories #133/#150 in the 2026-10-09 pass above. Hit set saturated — no new material, no HOLD. -->
