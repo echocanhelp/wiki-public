@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Shiching John Chang (張錫清博士)
 
@@ -85,3 +85,6 @@ Disambiguation (same-name records NOT this person, kept to prevent conflation):
 - Articles hits on 張錫聰 / 張錫銘 — unrelated Taiwan-island namesakes.
 
 Other hits (ourjourneys137, our-journeys-351, 55-taiwan-independence-cup, mystories327, 26/75 encyclopedia) already linked above; no new biography beyond existing records.
+
+### Re-scan 2026-10-11 (deepen-x slice 10101400-17)
+Fresh 5-dir grep (張錫清 / Shiching / Hsi-chi Chang) returned only works already linked above plus index listings (works/index.md, sources/taiwaneseamericanhistory-org.md) and the duplicate-slug copy of TAH #55 (`55-e5-8f-...-cup-softball`, same story as [[works/taiwaneseamericanhistory-org/55-taiwan-independence-cup]]). No new material — page verified saturated.
