@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Prof. Tender Lin (林天德教授)
 
@@ -84,3 +84,5 @@ Chronology absorbed from the TAH profile and tah-tables above (no external sourc
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+<!-- deepen-x re-verification 2026-10-12 (slice 10110500-11): full corpus grep across works/articles/sources/events/topics returned 24 files, all already linked or absorbed above (TAH #74/#169 entries, publications 438/439/440/441/903/1111/1112, mystories 199/278/278-eng/295/438/560/574/578/733, OJ #335, 18. 返台任教, collection page, index/sources). No new material found; page verified saturated. -->
