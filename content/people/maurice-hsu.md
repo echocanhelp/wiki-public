@@ -105,3 +105,5 @@ last_reviewed: 2026-10-12
 <!-- TJJ-A10100801-6: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-6 article 2777c88877eee2c5 (Tag: 長青教室 p3, TJJ 2017-05-25 刊 / 2024-06-20 快照) read fresh this attempt: subject link re-checked vs 正文 — 「長青教室心得報告—許盛男醫師講『台灣話的源流』 11/16/2016」條目具名確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- deepen-x slice 10110000-29, 2026-10-12: fresh grep 許盛男|Maurice Hsu across works/articles/sources/events/topics = 16 hits; hit set identical to already-absorbed links (TAH 檔案 174/175/176/308, OJ#09/#09ENG/#356/#356ENG, TJJ tag/categor snapshot pages, sources/index, MANIFEST) — saturated, no new material; FAPA 創會 1981 vs 1982 冲突仍 HOLD. -->
+
+<!-- TJJ-A10110001-20: verified 2026-10-12 — wave-2 link+deepen re-check of article c691e327b9133c1a (Tag: 心得報告, 發文 2018-04-06／快照 2024-07-19) read fresh this attempt: subject link re-checked vs 正文, 「長青教室心得報告—許盛男醫師講『台灣話的源流』 11/16/2016」確認見於條目, real, no wrong/spurious links; 2016-11-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

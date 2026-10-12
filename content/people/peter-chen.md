@@ -127,3 +127,5 @@ last_reviewed: 2026-10-10
 <!-- TJJ-A10100401-26: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-26 article c691e327b9133c1a (心得報告標籤頁, 發文 2018-04-06／快照 2024-07-19) read fresh this attempt: subject link re-checked vs 正文, 「長青教室心得報告-為什麼台美人對『台灣』重要 ◎ 陳正義律師 2018-04-04」確認見於條目, real, no wrong/spurious links; 2018-04-04 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100901-11: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-11 article e9faa17a0a7ea61c (第53回世界台灣文化論壇 Tī美國點光台灣, 發文 2022-09-25): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; 2022-09-25 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10110001-20: verified 2026-10-12 — wave-2 link+deepen re-check of article c691e327b9133c1a (Tag: 心得報告, 發文 2018-04-06／快照 2024-07-19) read fresh this attempt: subject link re-checked vs 正文, 「長青教室心得報告-為什麼台美人對『台灣』重要 ◎ 陳正義律師 2018-04-04」確認見於條目, real, no wrong/spurious links; 2018-04-04 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
