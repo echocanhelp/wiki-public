@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Lii Mei Beverly Chang (張理美醫師)
 
@@ -46,6 +46,8 @@ Absorbed from the TAH profile tables above:
 - **Founding member of the St. Louis Taiwanese Presbyterian church.** She co-founded the Holmesian Christian Fellowship (福爾摩斯基督徒圑契) in St. Louis, which grew from the weekly house church gatherings begun in 1972 after she and husband Dr. Cheng-Chang Tsai arrived in the city, and was formally organized with bylaws in 1978 — with 張理美 handling the state incorporation registration. The fellowship joined the mainline Presbyterian Church (USA) and was incorporated as a nonprofit church in May 1982. As a board member (幹事) she was the delegate sent to Taiwan to interview and invite Rev. Chun-Ming Lai (賴俊明) as founding pastor; he arrived in St. Louis in November 1984. Her own 2017 history of the church, [[works/taiwaneseamericanhistory-org/ourjourneys305|美國聖路易台灣人基督長老教會的歷史簡略]], is the primary source for this account.
 - **The family home as a community hub.** The house of Dr. Cheng-Chang and Lii Mei (Beverly) Tsai in St. Louis was a popular gathering place for Taiwanese Americans in the region, 2003–2017 — see [[works/taiwaneseamericanhistory-org/photo-albums-activities-129|photo album #129]].
 - **Presenter at community events.** She presented at a St. Louis Taiwanese American event in 2015 — see [[works/taiwaneseamericanhistory-org/8-presented-bylii-mei-beverly-chang-in-2015|presented by Dr. Lii Mei Beverly Chang, St. Louis, 2015]].
+- **Her own writings and papers in the community record.** She is the author of [[works/taiwaneseamericanhistory-org/388-beverly-chang-e5-bc-b5-e7-90-86-e7-be-8e-a-female-taiwanese-american-travele|TAH #388, a 2019 account of a female Taiwanese American traveler who visited 83 countries]], and her personal papers are held as [[works/taiwaneseamericanhistory-org/collection-of-dr-lii-mei-beverly-tsai|TAH #30, the Collection of Dr. Lii Mei (Beverly) Tsai 張理美醫師的收藏 (2017)]] — both published under her married name Tsai.
+- **Husband.** Prof. Cheng C. Tsai 蔡承昌教授 — see [[works/taiwaneseamericanhistory-org/171-prof-cheng-c-tsai|TAH #171 profile of Prof. Cheng C. Tsai]]. He traveled in the 1988 NATMA second homeland-visit delegation organized by president Kuntu Liao — see [[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys #74 (NATMA history)]]; the delegation record lists him as 蔡承昌.
 - HOLD: husband's name given as "Cheng C. Tsai" on the TAH profile vs "蔡承昌 / Cheng-Chang" in the photo-album record #129 — treated as the same person, full form preferred.
 
 ## Family
