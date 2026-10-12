@@ -106,3 +106,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10100401-18: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-18 article 0c56e79f9989639c (園藝 category 頁, 2017-11-09快照) read fresh this attempt: 「王麗貝Lipei Lisa Wang 講植物界的茶飲文化與饗宴@7/23」條目確認見於正文, subject link real, no wrong/spurious links; 2017-07-23 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- deepen-x slice 10101300-22 (2026-10-11): fresh 5-dir grep 王麗貝/Lipei/Lisa Wang/麗貝 — hit set unchanged (whoswho901, works/index, sources page, same TJJ 園藝講座 archive pages). The 2021/2025 article hits are false positives: 麗貝卡=Rebecca Fannin (Silicon Dragons 作者)、麗貝卡=Siena 鋼琴孫女、麗貝卡·亨施克=BBC 製片人 — none is 王麗貝. No new absorbable material — SKIP, verified-saturated. -->
+
+<!-- TJJ-A10110001-24: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110001-24 article 0c56e79f9989639c (園藝 category 頁, 2017-11-09快照) read fresh this attempt: 「王麗貝Lipei Lisa Wang 講植物界的茶飲文化與饗宴@7/23」條目確認見於正文, subject link real, no wrong/spurious links; 2017-07-23 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
