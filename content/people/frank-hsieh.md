@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 name_en: "Frank Hsieh"
 ---
 # Frank Hsieh (謝長廷)
@@ -76,3 +76,11 @@ name_en: "Frank Hsieh"
 - **Defamation suit "條子鴿" (taiwanjustice.net, 2021-09):** [[articles/taiwanjustice-net/2021/20211023205139_2021_09_08_退休警_條子鴿_影射兒曾耍特權卻龜縮_謝長廷_cdf14aaa570eb7e2|退休警「條子鴿」影射兒曾耍特權 — 謝長廷批惡劣]] — a retired officer's insinuation about his son (謝維洲/張維洲) was denied as fake news; 謝長廷 challenged for evidence publicly.
 - **2020 election context (taiwanjustice.net, 2026-02):** [[articles/taiwanjustice-net/2026/20260208204316_台灣第三場大選政見會聚焦兩岸關係_351675d4fa16e997|台灣第三場大選政見會聚焦兩岸關係]] — 韓國瑜 cited 謝長廷 among DPP figures' cross-strait contacts in the 2020 campaign.
 - No conflicts found this pass; TAH pianist (謝明志) split-decision flag stands unchanged.
+
+## Corpus facts (deepen pass 2026-10-12, slice 10110805-27)
+
+- **Pandemic aid handoff, Japan (taiwanjustice.net, 2020-01):** [[articles/taiwanjustice-net/2026/20260118112747_台灣捐200萬片口罩抵日_安倍晉三感謝蔡總統_abe4f44025fb569f|台灣捐200萬片口罩抵日 安倍晉三感謝蔡總統]] — as 駐日代表 he received the 2M-mask donation at the airport with 日華議員懇談會 leadership (古屋圭司、木原稔、舟町仁志); 安倍晉三 phoned him personally to thank President 蔡英文 and the Taiwanese. First dated record of him as the personal channel of the 2020 Japan aid moment.
+- **Parliamentary pressure episode (taiwanjustice.net, 2021-05):** [[articles/taiwanjustice-net/2021/20210621195501_tag_霸凌_c24cb157f864d168|「霸凌」 tag archive]] — KMT legislators demanding his recall for 備詢 drew his own public lament "悲淒霸凌"; corroborates the recall-demand pattern already noted in the 2021-04 Fukushima-wastewater item.
+- **Campaign-spokesperson memory (taiwanjustice.net, 2021-06):** [[articles/taiwanjustice-net/2021/20210620122658_2021_04_27_鄭文燦談從政心路歷程_當發言人是特別經驗_83f8ff1be8554afa|鄭文燦談從政心路歷程 — 當發言人是特別經驗]] — 鄭文燦 served as 謝長廷's presidential-campaign spokesperson and recalls him as "非常聰明，3分鐘就可以掌握報告重點" — a firsthand portrait from the diaspora-adjacent political generation.
+- **Nuclear-advocacy overlap (taiwanjustice.net, 2021-07):** [[articles/taiwanjustice-net/2021/20210723145717_2021_06_15_陳昭南專欄_中國出現嚴重核危機_法國已向美_3b70653dcc7bbe15|陳昭南專欄：中國出現嚴重核危機]] — the column cites 謝長廷's own 臉書 post on the tritium-discharge point, the same argument thread as the April 2021 福島 controversy above; both records agree, no conflict to hold.
+- TAH pianist (謝明志) split-decision flag stands unchanged; no new conflicts found.
