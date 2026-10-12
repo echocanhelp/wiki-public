@@ -76,3 +76,6 @@ _No filled family fields on the TAH profile._
 - **SKIP（第五次重掃）：** 命中集不變＝本人出處頁 [[works/taiwaneseamericanhistory-org/332-yi-ming-chen-e9-99-b3-e6-80-a1-e5-90-8d|#332]]／[[works/taiwaneseamericanhistory-org/158-yi-ming-chen-e9-99-b3-e6-80-a1-e5-90-8d-violist201502|#158]]、已全數吸收之 [[works/taiwaneseamericanhistory-org/ourjourneys128|#128]] 明州音樂會記錄、works index。無新增可吸收事實、無衝突。
 ## Deepen-x 2026-10-10 (slice 10090600-21)
 - **SKIP（第六次重掃）：** 以 陳怡名／Yi-Ming Chen／怡名 全語料重檢，命中集不變（本人出處頁 #332/#158、已吸收之 #128、sources 目錄頁、works/index）。variant 命中之「怡名」經查證皆屬 **劉怡明 Yi-Ming Liu**（[[people/yi-ming-liu]]），非本人——別名歧路已排除。無新社群事實、無衝突。
+
+## Deepen-x 2026-10-11 (slice 10101400-11)
+- **SKIP（第七次重掃）：** `陳怡名／Yi-Ming Chen／怡名` 全語料命中集不變（本人出處頁 #332/#158、已吸收之 [[works/taiwaneseamericanhistory-org/ourjourneys128|#128]]、sources 目錄頁）。別名歧路再確認：ourjourneys305 之「Dr. & Mrs. Yi-Ming & Loon-Mei Joyce Chen Lin」（聖路易 FCF 籌組者）為醫師 **Yi-Ming Lin**，非本音樂家本人；「怡名」變體命中仍屬 [[people/yi-ming-liu]] 劉怡明。無新社群事實、無衝突，維持現狀。
