@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Dr. Fu-Mei Chang (張富美博士)
 
@@ -51,7 +51,7 @@ last_reviewed: 2026-10-10
 - 台灣出版社 co-editor: in the 台灣文庫 founding memoir, 林衡哲 names 張富美 (with 陳芳明) as his 「親密文化戰友」and co-editor when 台灣出版社 was established in Southern California (1983-10-31, Cerritos), publishing banned Taiwan books during martial law — [[works/taiwaneseamericanhistory-org/ourjourneys70|Our Journeys 70]]. Her 1987/04 政治 volume 「台灣問題論文集」 is catalogued in the TAH record — [[works/taiwaneseamericanhistory-org/450-e5-8f-b0-e7-81-a3-e5-95-8f-e9-a1-8c-e8-a8-8e-e8-ab-96-e9-9b-86-e5-bc-b5-e5-a|TAH record 450]].
 - 2003-04, as 僑委會委員長, she and 芝加哥辦事處處長陳俊賢 called on the Minnesota state government and met 僑胞 — corroborates the overseas-office career path for 張富美 — [[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys 123 (明州台美人百年大事)]].
 - NATPA retrospective (EN): after the 2000 political rotation, Directors 張富美 and 張旭成 returned to Taiwan — 張富美 as 僑委會委員長 (Minister, Overseas Community Affairs Council), 張旭成 as DPP 立委/NSC 副秘書長 — [[works/taiwaneseamericanhistory-org/ourjourneys69-eng|Our Journeys 69 (EN)]].
-- 2026-10-10 deepen-x re-check (slice 10090315-8): grep across all corpus dirs found no new person beyond the above three OA records + work #450; the 僑委會委員長 role is now corroborated by two independent memoir records (OA #69-eng, OA #123) and fits the 民進黨海外國大代表 path (OA #37) without forcing a merge of the 1993 HOLD.
+- 2026-10-12 deepen-x re-check (slice 10112243-10): two new corpus hits. (1) 美麗島事件 trial record (EN): 「The accused included Tu Chen, Winston H. Chen, Fu-Mei Chang, Thomas H. Chen, and Yung-hao Hsieh」 — she is named among those prosecuted after the 1979 crackdown, alongside the Kagan observation visit already recorded above [[works/taiwaneseamericanhistory-org/ourjourneys38-eng|Our Journeys 38 (EN)]]. (2) 台灣會館會訊 #11 (2016-12-17) event calendar: 「Oct. 7, 2016 — 張富美前委員長來訪」 (台灣會館) — a post-OCAC- Chairmanship community appearance in the 台灣會館 record [[sources/taiwanjustice-net|taiwanjustice.net archive]]. False positives excluded on this pass: 陳吳富美 (mystories 27/157/190/498, publications 1154/1264), 黃富美 (whoswho1040), 虞曾富美 (works 58/861), 莊富美/陳富美 (OA #316/#161 rosters) — all distinct persons, not linked.
 
 ## Family
 
