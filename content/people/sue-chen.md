@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Sue Chen (陳禹辛)
 
@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 10080500-13: re-verify 2026-10-09 — fresh grep (陳禹辛/Sue Chen/禹辛, works+articles+sources+events+topics): hit set unchanged (own #427 entry, ourjourneys33 EN/中 MFCF founding photo, Pew statement signer list, works/sources index). HOLD 陳禹辛 vs 廖淑清 unchanged; verified-saturated. -->
 <!-- deepen-x slice 10090900-13: re-verify 2026-10-10 — fresh grep (陳禹辛/Sue Chen/禹辛, works+articles+sources+events+topics): hit set unchanged (own #427 entry, ourjourneys33 EN/中 MFCF founding photo + reunion-table photo, Pew statement signer list, works/sources index). HOLD 陳禹辛 vs 廖淑清 unchanged; verified-saturated. -->
 <!-- deepen-x slice 10101205-10: re-verify 2026-10-11 — fresh grep (陳禹辛/Sue Chen/禹辛/Sue Cheng, works+articles+sources+events+topics): hit set unchanged (own #427 entry, ourjourneys33 EN/中 MFCF founding photo + reunion-table photo, Pew statement signer list, works/sources index). HOLD 陳禹辛 vs 廖淑清 unchanged; verified-saturated. -->
+<!-- deepen-x slice 10112300-9: re-verify 2026-10-12 — fresh grep (陳禹辛/Sue Chen/禹辛/Sue Cheng, all 5 corpus dirs): hit set unchanged (own #427 entry, ourjourneys33 EN/中 MFCF founding photo + reunion-table photo, Pew statement signer list incl. separate Sue Cheng, works/sources index). HOLD 陳禹辛 vs 廖淑清 unchanged; verified-saturated, nothing new absorbable. -->
