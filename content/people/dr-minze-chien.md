@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Minze Chien (簡明子博士)
 
@@ -106,3 +106,5 @@ _Compiled from this page's own Employment table — no new facts._
 <!-- TJJ-A10090701-18: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-18 article d2dbfe220e437602（2017年美東台灣人夏令會報導/楊遠薰, 2024-05-22 快照, 29faf54b8c9e2d10 同文副本）subject link re-checked vs 正文 this attempt; real mention (召集人身分 7/2 揭幕致詞、7/4 交接會旗), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100701-3: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-3 article 20240522235843_root_d2dbfe220e437602（2017年美東台灣人夏令會報導/楊遠薰, 2024-05-22 快照, 29faf54b8c9e2d10 同文副本）subject link re-checked vs 正文 this attempt; real mention (召集人身分 7/2 揭幕致詞、7/4 交接會旗), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10110600-10: verified 2026-10-12 — fresh ZH+EN grep (簡明子/Minze Chien/minze) across all 5 corpus dirs hit 16 files: 2 TAH work pages (#68/#1832, both linked), 13 TJJ articles (all dated facts already in From the record w/ wikilinks), plus index/manifest/source registry pages. No new material — saturated. -->
