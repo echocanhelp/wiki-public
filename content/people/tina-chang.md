@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Tina Chang (張丁蘭)
 
@@ -74,3 +74,5 @@ Movement-activity record outside FAHR: 陳宏達's account of the 故王康陸�
 **DEEPEN 2026-10-09 (slice 10080951-29):** re-grep 張丁蘭/Tina Chang across works/articles/sources/events/topics (16 hits) surfaced 2 previously-unabsorbed records: ourjourneys79 (NATWA 婦女信箱 advisor roster, 2001 千禧年專刊) and ourjourneys75 (ZH edition of the FAHR founding account) — both absorbed into Role in the Community. Other hits (#64/#94/#253/#37/#97/#210/#230/#329, ourjourneys305 = different person Ya-Hueh Tina Chang Hsieh, whos-who-1762 = 張瑞菊) already covered or held. No new conflicts.
 
 **DEEPEN 2026-10-10 (slice 10100400-5):** re-grep 張丁蘭/Tina Chang/丁蘭 across all 5 corpus dirs (16 hits) surfaced 1 previously-unabsorbed record: ourjourneys334 (陳宏達, 王康陸告別式及骨灰佈撒行程記事, 2018/06) — her as 「丁蘭女士/丁蘭姐」 speaking at the 高雄勞工公園 memorial and scattering ashes at native 宜蘭; absorbed with a HOLD on whose ashes. mystories37 (ZH edition of #37) also noted. Remaining hits all previously absorbed or held. 1 new corpus link.
+
+**SKIP 2026-10-12 (slice 10120315-9):** re-grep 張丁蘭/Tina Chang/丁蘭 across all 5 corpus dirs returned the identical 17-file hit set already absorbed or held in prior passes (incl. surname-only 丁蘭 variant grep = no extra hits) — saturated, no new material, no new conflicts.
