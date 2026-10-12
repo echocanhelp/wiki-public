@@ -87,3 +87,5 @@ Further corpus hits confirm the essayist footprint extends earlier than the 2014
 <!-- TJJ-A10100901-7: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-7 article c76f11ecd2598ecb (2017台美文藝出版·台美人筆會六月十七日舉辦發表會報導, 2017-06-11 刊 / 2022-11-27 快照) read fresh this attempt: 李彥禎名列2017台美文藝編輯委員會（李彥禎、陳東榮、李芬芬、鄭炳全、秦雪華、林文政）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- DEEPEN-X10102300-10: 2026-10-12 — fresh ZH+EN grep (李彥禎/Ken Lee/李彥) across works/articles/sources/events/topics: 33 corpus docs mention him; diff vs existing wikilinks = 0 unlinked. Fully saturated, no new material, no conflicts to HOLD. -->
+
+<!-- TJJ-A10110601-14: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110601-14 article c76f11ecd2598ecb (2017台美文藝出版·台美人筆會六月十七日舉辦發表會報導, 2017-06-11 刊 / 2022-11-27 快照) read fresh this attempt: 李彥禎名列2017台美文藝編輯委員會（李彥禎、陳東榮、李芬芬、鄭炳全、秦雪華、林文政）, re-checked line-by-line vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
