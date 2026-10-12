@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Flora Kao (高微婷)
 
@@ -57,3 +57,4 @@ _No filled family fields on the TAH profile._
 - Re-verified 2026-10-09 (deepen-x slice 10080400-28): fresh grep ZH+EN (高微婷 / Flora Kao / surname-only 高微 / 微婷 / Wei-Ting Kao) across works/articles/sources/events/topics — same hit set: own four TAH pages (621/622/artist35/whos319) plus works/sources index. One false-positive on 微生物 in a taiwanjustice-net news article. No memoir text. Verified-saturated, SKIP.
 - Re-verified 2026-10-10 (deepen-x slice 10090900-27): fresh grep ZH+EN (高微婷 / Flora Kao / 微婷) across works/articles/sources/events/topics — identical hit set: own four TAH pages (621/622/artist35/whos319) plus works/sources index. No new memoir text. Verified-saturated, SKIP.
 - Re-verified 2026-10-11 (deepen-x slice 10101300-19): fresh grep ZH+EN (高微婷 / Flora Kao / 微婷 / 高微) across works/articles/sources/events/topics — identical hit set: own four TAH pages (621/622/artist35/whos319) plus works/sources index. The taiwanjustice-net 2021 news hit is a 微生物 false positive (no Flora Kao / 高微婷 string in the file). No memoir text. Verified-saturated, SKIP.
+- Re-verified 2026-10-12 (deepen-x slice 10120018-27): fresh grep ZH+EN (高微婷 / Flora Kao / 微婷) across works/articles/sources/events/topics — identical hit set: own four TAH pages (621/622/artist35/whos319) plus works/sources index. No new memoir text. Verified-saturated, SKIP.
