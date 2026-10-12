@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Jean Cheng (鄭如珍)
 
@@ -70,3 +70,5 @@ _No filled family fields on the TAH profile._
 > Corpus re-grep 2026-10-09 (slice 10080400-25): fresh ZH+EN grep (鄭如珍 / Jean Cheng / 如珍) across works/ + articles/ + sources/ + events/ + topics/ — hit set identical (#283, film record, UCSD 2022-12 donor note in our-journeys-384, ourjourneys210 related-people link, works/sources index); the 如珍 hits in a 2026-01 taiwanjustice bubble-tea article and the 蕭如珍 prisoner mention are false positives (different persons/words), not Jean Cheng. Verified-saturated, SKIP, no new absorbable material.
 
 > Corpus re-grep 2026-10-10 (slice 10091316-11): fresh ZH+EN grep (鄭如珍 / Jean Cheng / 如珍 / Cheng) across works/ + articles/ + sources/ + events/ + topics/ — hit set identical (#283, film record, UCSD 2022-12 donor note in our-journeys-384, ourjourneys210 related-people link, works/sources index); 如珍 bubble-tea article and 蕭如珍 prisoner mention remain false positives, and ourjourneys305 "Jean Chen" / "Cheng Huang" hits are different persons. Verified-saturated, SKIP, no new absorbable material.
+
+> Corpus re-grep 2026-10-11 (slice 10101400-10): fresh ZH+EN grep (鄭如珍 / Jean Cheng / 如珍) across works/ + articles/ + sources/ + events/ + topics/ — hit set identical (#283, film record, UCSD 2022-12 donor note in our-journeys-384, ourjourneys210 related-people link, works/sources index; bubble-tea 如珍 article a false positive). Verified-saturated, SKIP, no new absorbable material.

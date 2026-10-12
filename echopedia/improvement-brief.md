@@ -1,68 +1,69 @@
-## Echopedia self-improvement — 2026-10-04
+## Echopedia self-improvement — 2026-10-11
 
 ### Ops check
 - OPS_WARN: orphan script not in ops REQUIRED list: echopedia-filler-check.py
 - OPS_WARN: ingest-complete PARTIAL (About/History missing on a watched primary — not AUTO-fixed)
 - OPS_WARN: INGEST_COMPLETE: PARTIAL
 - OPS_WARN: - eastgatebarclay-org: primary History+Mission is 0 chars (need ≥400); intro archives exist: eastgatebarclay-org-delta-2026-09-27-aboutme.md
-- DOCS_SUMMARY: status=WARN fail=0 warn=1 ok=13 crons=31 agent=0 links_missing=0
+- DOCS_SUMMARY: status=WARN fail=0 warn=1 ok=13 crons=32 agent=0 links_missing=0
 - DOCS_STATUS: WARN
 - OPS_WARN: docs-sync WARN
 - OPS_SUMMARY: fail=0 warn=5
 - OPS_STATUS: WARN
 
 ### Deploy drift
-- DRIFT_STALE_HTML: organizations/university-of-maryland-taiwanese-student-association (md newer by ~6997m)
-- DRIFT_STALE_HTML: organizations/joint-chinese-university-alumni-association-of-southern-california (md newer by ~10949m)
-- DRIFT_STALE_HTML: organizations/taiwanese-american-cultural-society-of-california (md newer by ~5984m)
-- DRIFT_STALE_HTML: organizations/chicago-taiwanese-architecture-institute-ctai (md newer by ~5218m)
-- DRIFT_STALE_HTML: organizations/ny-taiwanese-golf-club-nytgc (md newer by ~426m)
-- DRIFT_STALE_HTML: organizations/evangelical-formosan-church-of-norcal (md newer by ~10771m)
-- DRIFT_STALE_HTML: organizations/michigan-taiwanese-student-association (md newer by ~281m)
-- DRIFT_STALE_HTML: organizations/mountain-view-taiwanese-golf-association (md newer by ~6162m)
-- DRIFT_STALE_HTML: organizations/taiwanese-american-association-of-arizona (md newer by ~10838m)
-- DRIFT_STALE_HTML: organizations/miss-taiwanese-american-foundation (md newer by ~3372m)
-- DRIFT_STALE_HTML: organizations/taiwanese-association-of-oklahoma (md newer by ~417m)
-- DRIFT_STALE_HTML: organizations/arizona-taiwanese-student-association (md newer by ~6916m)
-- DRIFT_STALE_HTML: organizations/taiwanese-student-association-at-cu (md newer by ~10285m)
-- DRIFT_STALE_HTML: organizations/taiwanese-american-lawyers-association (md newer by ~10675m)
-- DRIFT_STALE_HTML: organizations/taiwan-care-inc (md newer by ~401m)
-- DRIFT_STALE_HTML: organizations/taiwanese-student-association-at-georgia-tech (md newer by ~10311m)
-- DRIFT_STALE_HTML: organizations/mit-republic-of-china-taiwan-student-association (md newer by ~6176m)
-- DRIFT_STALE_HTML: organizations/american-citizens-of-taiwan-origin-acto (md newer by ~8720m)
-- DRIFT_STALE_HTML: organizations/southeast-bay-taiwanese-association-sebta (md newer by ~5668m)
-- DRIFT_STALE_HTML: organizations/alumni-association-of-chia-yi-high-school-worldwide (md newer by ~10655m)
-- DRIFT_STALE_HTML: organizations/modern-taiwanese-language-association (md newer by ~6976m)
-- DRIFT_STALE_HTML: organizations/global-alliance-for-democracy-and-peace-la (md newer by ~6173m)
-- DRIFT_STALE_HTML: organizations/taiwanese-american-historical-society (md newer by ~10338m)
-- DRIFT_STALE_HTML: organizations/taiwan-formosa (md newer by ~6879m)
-- DRIFT_STALE_HTML: organizations/forus-foundation (md newer by ~6985m)
-- DRIFT_STALE_HTML: organizations/chunglun-presbyterian-church (md newer by ~6173m)
-- DRIFT_STALE_HTML: organizations/taiwanese-american-student-association-at-georgia-tech (md newer by ~5943m)
-- DRIFT_STALE_HTML: organizations/taiwanese-american-cpa-association-tacpa (md newer by ~5643m)
-- DRIFT_STALE_HTML: organizations/ucla-taiwanese-american-union (md newer by ~5943m)
-- DRIFT_STALE_HTML: organizations/nys-orange-county-taiwanese-association (md newer by ~6616m)
-- DRIFT_STALE_HTML: organizations/stc-rowland-legacy (md newer by ~6996m)
-- DRIFT_STALE_HTML: organizations/the-kee-jen-education-of-arts-foundation (md newer by ~10950m)
-- DRIFT_STALE_HTML: organizations/chicago-taiwanese-cuisine-and-culture-association (md newer by ~5929m)
-- DRIFT_STALE_HTML: organizations/east-bay-taiwanese-americans-community-service-center-ebtacsc (md newer by ~10848m)
-- DRIFT_STALE_HTML: organizations/georgetown-taiwanese-student-association (md newer by ~6502m)
-- DRIFT_STALE_HTML: organizations/princeton-taiwanese-american-students-association (md newer by ~3372m)
-- DRIFT_STALE_HTML: organizations/democratic-progressive-party (md newer by ~188m)
-- DRIFT_STALE_HTML: organizations/dfw-taiwanese-american-heritage-foundation (md newer by ~10262m)
-- DRIFT_STALE_HTML: organizations/lapc-music-foundation (md newer by ~10639m)
-- DRIFT_STALE_HTML: organizations/oxford-taiwanese-american-student-association (md newer by ~6070m)
+- DRIFT_STALE_HTML: organizations/youth-orchestra-cycny (md newer by ~88m)
+- DRIFT_STALE_HTML: organizations/taiwanese-association-of-america-greater-washington (md newer by ~287m)
+- DRIFT_STALE_HTML: organizations/natea-southern-california (md newer by ~385m)
+- DRIFT_STALE_HTML: organizations/east-bay-taiwanese-association (md newer by ~344m)
+- DRIFT_STALE_HTML: organizations/taiwan-hakka-association-for-public-affairs-in-north-america (md newer by ~299m)
+- DRIFT_STALE_HTML: organizations/taiwanjustice-net (md newer by ~298m)
+- DRIFT_STALE_HTML: organizations/taiwan-center (md newer by ~104m)
+- DRIFT_STALE_HTML: organizations/taiwanese-american-foundation-of-san-diego (md newer by ~342m)
+- DRIFT_STALE_HTML: organizations/democratic-progressive-party (md newer by ~109m)
+- DRIFT_STALE_HTML: organizations/orange-county-taiwanese-association (md newer by ~52m)
+- DRIFT_STALE_HTML: organizations/taiwanese-american-council (md newer by ~242m)
+- DRIFT_STALE_HTML: organizations/san-diego-taiwanese-cultural-association (md newer by ~339m)
+- DRIFT_STALE_HTML: organizations/taiwanese-american-pen-club (md newer by ~388m)
+- DRIFT_STALE_HTML: organizations/taiwanese-american-scholarship-fund (md newer by ~220m)
+- DRIFT_STALE_HTML: organizations/taiwanese-american-center-of-northern-california (md newer by ~126m)
+- DRIFT_STALE_HTML: organizations/senior-taiwanese-association-of-northern-california (md newer by ~446m)
+- DRIFT_STALE_HTML: organizations/taiwanese-american-students-association (md newer by ~85m)
+- DRIFT_STALE_HTML: organizations/taiwan-american-foundation (md newer by ~4m)
+- DRIFT_STALE_HTML: organizations/taiwanese-association-of-america (md newer by ~197m)
+- DRIFT_STALE_HTML: organizations/austin-taiwanese-association (md newer by ~219m)
+- DRIFT_STALE_HTML: organizations/united-formosans-for-independenceufi (md newer by ~105m)
+- DRIFT_STALE_HTML: organizations/formosan-presbyterian-church-in-los-angeles (md newer by ~99m)
+- DRIFT_STALE_HTML: organizations/taiwanese-students-association (md newer by ~404m)
+- DRIFT_STALE_HTML: organizations/taiwanese-american-cultural-society-of-the-capital-district (md newer by ~339m)
+- DRIFT_STALE_HTML: organizations/career-taiwan-usa-association (md newer by ~104m)
+- DRIFT_STALE_HTML: organizations/taiwan-elite-alliance (md newer by ~343m)
+- DRIFT_STALE_HTML: organizations/overseas-taiwanese-for-democracy (md newer by ~378m)
+- DRIFT_STALE_HTML: organizations/taiwanese-alliance-for-interculture-southern-california (md newer by ~50m)
+- DRIFT_STALE_HTML: organizations/american-citizens-for-taiwan (md newer by ~364m)
+- DRIFT_STALE_HTML: organizations/friends-of-taiwan (md newer by ~174m)
+- DRIFT_STALE_HTML: organizations/global-taiwan-institute (md newer by ~202m)
+- DRIFT_STALE_HTML: people/zhang-xuanxin (md newer by ~1279m)
+- DRIFT_STALE_HTML: people/ho-rui-hsu (md newer by ~42m)
+- DRIFT_STALE_HTML: people/lindayi-fang-yau (md newer by ~385m)
+- DRIFT_STALE_HTML: people/sharon-s-hsu (md newer by ~397m)
+- DRIFT_STALE_HTML: people/leland-lee (md newer by ~86m)
+- DRIFT_STALE_HTML: people/paul-kuo (md newer by ~365m)
+- DRIFT_STALE_HTML: people/chihmei-lin-chen (md newer by ~342m)
+- DRIFT_STALE_HTML: people/zheng-quansheng (md newer by ~1279m)
+- DRIFT_STALE_HTML: people/k-c-liao (md newer by ~185m)
 
 ### Knowledge freshness
 - FRESH_SUMMARY: stale=0 missing=0
 - FRESH_STATUS: OK
 
 ### Entity hints sync
-- HINTS_ADD: people/albert-chapter1-audiobook-taiwanese-female
 - HINTS_ADD: people/amy-li
+- HINTS_ADD: people/lai-ting-yu
+- HINTS_ADD: people/wanying-heather-zhang
 - HINTS_ADD: people/ye-siya
 - HINTS_ADD: organizations/taiwanese-american-citizens-league
-- HINTS_SUMMARY: added=1
+- HINTS_SUMMARY: added=2
 - HINTS_STATUS: UPDATED
 
 ### Intake opportunities
@@ -74,30 +75,22 @@
 
 ### Queue drain (programmable)
 - DRAIN: people/bai-peiyu.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/wang-shufen.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/zou-jingwen.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/xia-ming.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/sang-pu.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/nanfang-shuo.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/tang-peili.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/wang-qiaoling.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/dr-hsing-chi-chuck-chang.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: people/tang-peili.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: people/wang-shufen.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/george-lee.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/prof-sze-ya-yeh.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/huang-yongcheng.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/kuan-cheng-lu.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/po-wei-lai.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/dr-wei-yang-andy-lin.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/huang-diyin.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/li-jian.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/fan-jiang-ti-ang.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/yuan-zhihui.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/du-ao-cunfu.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/lin-baohua.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/yang-yueqing.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/guan-renjian.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/chao-sile.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/chen-po-kong.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/deng-shuzhen.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/林芸.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/karen-chia-ling-ho.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
@@ -111,38 +104,38 @@
 - DRAIN: people/grace-chung.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/vera-hui-pin-hsu.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/dr-min-chin-mary-lee.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
-- DRAIN: people/dr-yung-san-liang.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 - DRAIN: people/jerry-jean.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: people/zheng-qinren.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: people/kerina-chang.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: people/hanchien-lee.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: people/mao-chung-lee.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: people/feng-hsu-lee.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: organizations/chhong-bi-memorial-fund.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: organizations/taiwanese-student-association-for-public-affairs.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: people/ching-fen-lin.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
+- DRAIN: people/janice-wong.md → ['NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)']
 
 ### Drain detail
-## Queue drain — 2026-10-04
+## Queue drain — 2026-10-11
 - Items: **40**
 
 - `people/bai-peiyu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/wang-shufen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/zou-jingwen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/xia-ming.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/sang-pu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/nanfang-shuo.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/tang-peili.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/wang-qiaoling.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/dr-hsing-chi-chuck-chang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/tang-peili.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/wang-shufen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/george-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/prof-sze-ya-yeh.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/huang-yongcheng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/kuan-cheng-lu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/po-wei-lai.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/dr-wei-yang-andy-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/huang-diyin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/li-jian.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/fan-jiang-ti-ang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/yuan-zhihui.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/du-ao-cunfu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/lin-baohua.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/yang-yueqing.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/guan-renjian.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/chao-sile.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/chen-po-kong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/deng-shuzhen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/林芸.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/karen-chia-ling-ho.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -156,8 +149,16 @@
 - `people/grace-chung.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/vera-hui-pin-hsu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/dr-min-chin-mary-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/dr-yung-san-liang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/jerry-jean.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/zheng-qinren.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/kerina-chang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/hanchien-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/mao-chung-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/feng-hsu-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `organizations/chhong-bi-memorial-fund.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `organizations/taiwanese-student-association-for-public-affairs.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/ching-fen-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/janice-wong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 
 Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link batch.
 
@@ -181,15 +182,3 @@ Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link b
 - No strong interaction name candidates
 
 *Auto: no page creation — queue for human/ops.*
-### Review gate: generated cards
-- Generated cards: 6 (from /home/leedt/echo-system/knowledge/operational/evaluated/2026-10-03.json)
-- Priorities: {'high': 1, 'medium': 1, 'low': 4}
-- Playbooks: {'P8': 6}
-
-  [HIGH] [HIGH] ucla-taiwanese-american-union: Add ## History section
-  [MEDIUM] [MEDIUM] 林芸: Add type: to frontmatter
-  [LOW] [LOW] ucla-taiwanese-american-union: Break up long sentences
-  [LOW] [LOW] ucla-taiwanese-american-union: Break up long sentences
-  [LOW] [LOW] 林芸: Add last_reviewed: YYYY-MM-DD to frontmatter
-  [LOW] [LOW] 林芸: Add last_reviewed: YYYY-MM-DD to frontmatter
-

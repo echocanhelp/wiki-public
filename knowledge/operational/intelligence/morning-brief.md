@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-10-10
+TAHS · Echopedia morning brief — 2026-10-11
 1 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
@@ -27,20 +27,20 @@ TAHS · Echopedia morning brief — 2026-10-10
 🟡 QUEUE 11 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~17061 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~17492 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/taiwanese-american-council-of-greater-new-york.md ↔ organizations/taiwanese-american-council.md
-🟡 QUEUE 2. Link tip: organizations/ai-education-foundation.md ↔ organizations/stc-rowland-legacy.md
-🟡 QUEUE 3. Link tip: organizations/ai-education-foundation.md ↔ organizations/rowland-heights-chinese-association.md
-🟡 QUEUE 4. Link tip: organizations/ai-education-foundation.md ↔ organizations/stc-management.md
-🟡 QUEUE 5. Link tip: organizations/ai-education-foundation.md ↔ people/john-hsu.md
+🟡 QUEUE 2. Link tip: organizations/taiwanese-association-of-northwest-los-angeles.md ↔ people/bang-h-hwang.md
+🟡 QUEUE 3. Link tip: organizations/acevedo-music-and-art-education-foundation-inc.md ↔ people/yin-yin-huang.md
+🟡 QUEUE 4. Link tip: organizations/ai-education-foundation.md ↔ organizations/stc-rowland-legacy.md
+🟡 QUEUE 5. Link tip: organizations/ai-education-foundation.md ↔ organizations/rowland-heights-chinese-association.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 136 visits since cutoff · yday 2026-10-09 = 1 · /people/albert-zh-sku-b-publisher-review.html 22, /people/gwhyneth-chen 16, /people/albert-zh-sku-b-publish
+ℹ️  INFO  wiki 140 visits since cutoff · yday 2026-10-10 = 4 · /people/albert-zh-sku-b-publisher-review.html 22, /people/gwhyneth-chen 16, /people/albert-zh-sku-b-publish
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 2944 queued 18 suppressed 2253
+✅ AUTO analyzer scanned 2944 queued 4 suppressed 2297
 🟡 QUEUE janitor HOLD leftover 40
 🟡 QUEUE kanban blocked 15
 🔴 NEED YOU cron fail: memory-audit, go-router-monthly-audit

@@ -1,11 +1,13 @@
 # Connector suggestions (capped top 80)
 
-- co_citation total=5892 kept=80
-- co_mention total=11169 kept=40
+- co_citation total=6146 kept=80
+- co_mention total=11346 kept=40
 - shared_tags total=0 kept=0
 
 ## Top co-citation
 - organizations/taiwanese-american-council-of-greater-new-york.md ↔ organizations/taiwanese-american-council.md
+- organizations/taiwanese-association-of-northwest-los-angeles.md ↔ people/bang-h-hwang.md
+- organizations/acevedo-music-and-art-education-foundation-inc.md ↔ people/yin-yin-huang.md
 - organizations/ai-education-foundation.md ↔ organizations/stc-rowland-legacy.md
 - organizations/ai-education-foundation.md ↔ organizations/rowland-heights-chinese-association.md
 - organizations/ai-education-foundation.md ↔ organizations/stc-management.md
@@ -23,10 +25,8 @@
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwanese-american-soft-tennis-association.md
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ people/alan-t-chen.md
+- organizations/american-chinese-dance-association.md ↔ organizations/taiwan-elite-alliance.md
 - organizations/american-chinese-dance-association.md ↔ people/dr-steve-huang.md
 - organizations/american-chinese-dance-association.md ↔ people/paul-chen.md
+- organizations/american-chinese-dance-association.md ↔ people/shu-lai.md
 - organizations/american-chinese-dance-association.md ↔ people/tah-p-e0d94fd09b.md
-- organizations/american-chinese-dance-association.md ↔ people/tina-shih.md
-- people/tah-p-e0d94fd09b.md ↔ people/tina-shih.md
-- organizations/american-chinese-dance-association.md ↔ sources/taiwaneseamericanhistory-org.md
-- organizations/american-chinese-dance-association.md ↔ organizations/forus-foundation.md
