@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Dr. Steve Huang (黃文谷醫師)
 
@@ -58,3 +58,4 @@ last_reviewed: 2026-10-10
 - Corpus re-grep 2026-09-25 (slice 09240317-12, 黃文谷 / Steve Huang): hit set = prior set + 2024 公義電子報新聞摘要存檔（2015-11-05 當選聖瑪利諾市議員報導，已吸收入 Role in the Community）— HOLD on mayoral-term dates stands.
 - Corpus re-grep 2026-09-25 (slice 09250700-4, 黃文谷 / Steve Huang / Steven Huang): hit set unchanged (record 16, mystories-672, TAH #224/53222, TAH #2190, works index, 2025 傳統週, 台美小姐選拔賽, 會館會訊 2018-06, 2024 公義電子報存檔) — SKIP: verified-saturated; HOLD on mayoral-term dates (TAH table 2015-2019 vs mystories-672 Jan-2019 assumption) stands.
 - Corpus re-grep 2026-10-10 (slice 10091316-13, 黃文谷 / Steve Huang / Steven Huang / 文谷): hit set unchanged (record 16, mystories-672, TAH #224/53222, TAH #2190, works index, 2025 傳統週, 台美小姐選拔賽, 會館會訊 2018-06, 2024 公義電子報存檔) — SKIP: verified-saturated; HOLD on mayoral-term dates stands.
+- Corpus re-grep 2026-10-11 (slice 10101500-28, 黃文谷 / Steve Huang / Steven Huang / 黃及時): Steve Huang hit set unchanged — SKIP: verified-saturated. The only additional corpus hits (whoswho1129 「1129. Chi Shih Huang 黃及時」, videos52 「52. 專訪黃及時董事長」, 2022-12 公義電子報 2014 高雄氣爆僑民建言報導) are all under the father [[people/chi-shih-huang|黃及時]], not Steve himself, and belong to his page. HOLD on mayoral-term dates (TAH table 2015-2019 vs mystories-672 Jan-2019 assumption) stands.
