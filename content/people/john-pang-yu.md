@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # John Pang Yu (余金榜)
 
@@ -43,6 +43,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-10-11 (slice 10100849-2): hit set unchanged (#610 + ourjourneys37/37-eng/39 + our-journeys-389 + works index — all linked above). Fresh ZH+EN+金榜 grep across all corpus dirs confirms no new material; the 協志會 memoir's 北美台灣人工程師協會會長 roster (余金榜、施天墩) and the 印城會長 list already absorbed. HOLD (wife 林秀鳳 vs empty family fields) still stands. Verified-saturated, SKIP this pass.
 - His TAH encyclopedia entry is preserved as [[works/taiwaneseamericanhistory-org/610-john-pang-yu-e4-bd-99-e9-87-91-e6-a6-9c-201509|TAH #610: John Pang Yu 余金榜 (2015/09)]].
 - Corpus re-grep 2026-09-26 (slice 09260317-23): hit set unchanged (#610 + ourjourneys37/37-eng/39 + our-journeys-389 + works index — all linked above) — verified-saturated, SKIP this pass.
+- Corpus re-grep 2026-10-12 (slice 10110500-2): hit set unchanged (#610 + ourjourneys37/37-eng/39 + our-journeys-389 + works index + sources/taiwaneseamericanhistory-org — all linked above). One new grep hit in [[articles/taiwanjustice-net/2026/20260112180939_2020區域_原民立委79席當選名單_822ff0e9ac13d27c|2020 立委當選名單]] is a false positive — 周金榜 (無黨籍 candidate, 第6選舉區高雄) is a different person, not 余金榜; not linked. Verified-saturated, SKIP this pass.
 - Corpus re-grep 2026-10-10 (slice 10081100-24): hit set unchanged (#610 + ourjourneys37/37-eng/39 + our-journeys-389 + works index + sources/taiwaneseamericanhistory-org — all linked above). Fresh ZH+EN grep confirms no new corpus material; 印城台灣同鄉會紀要 president list, TAI 協志會 roster, and 蓬萊歌劇團 memoir all already absorbed. HOLD (wife 林秀鳳 vs empty family fields) still stands. Verified-saturated, SKIP this pass.
 
 ## Sources
