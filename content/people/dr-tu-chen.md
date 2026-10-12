@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Dr. Tu Chen (陳都博士)
 
@@ -44,6 +44,7 @@ Accomplishment
 - President of the World Federation of Taiwanese Associations (WFTA), 1983–1987.
 - Board of Director, Formosan Association for Public Affairs (FAPA), 1982–1986 and 2003–2007.
 - First chairman of the Northern California Federation of Taiwanese Associations (北加州台灣同鄉聯合會第一屆會長) — see [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys #106]]. HOLD: #106 lists him as 聯合會第一屆會長 while [[works/taiwaneseamericanhistory-org/ourjourneys38|Our Journeys #38]] records him as 協志會/北加州聯合會第四屆會長 (1977) — likely two different bodies (協志會 vs 北加州聯合會); not auto-merged.
+- Founding-era leader of 台灣協志會 (Taiwanese Alliance for Interculture, TAI, South Bay, 1973): as 籌備會召集人 convened the first preparatory meeting on 1973-04-21 and asked 姚嘉文 and 石清正 to draft the charter; at the 1973-05-18 founding (43 members) he was elected to the first board and served as first Vice-president under Founding President John J. Y. Huang — see [[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys #37 台灣協志會成立與大事記]]（EN: [[works/taiwaneseamericanhistory-org/ourjourneys37-eng|#37 EN]]）.
 - 《臺灣政論》舊金山地區代表 (1975.12), one of 12 Northern American regional representatives — see [[works/taiwaneseamericanhistory-org/our-journeys-357|Our Journeys #357]].
 - Performer with the 協志會 Penglai Opera Troupe (蓬萊歌劇團): satirical skits such as 「新超西遊記」 were a standing joke that triggered extra 協調會 visa questioning — see [[works/taiwaneseamericanhistory-org/ourjourneys39|Our Journeys #39]].
 - Blacklisted by the KMT government: US visa offices would ask applicants 「你是陳都的朋友嗎？」 as a screening question — see [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys #106]].
@@ -78,3 +79,4 @@ Accomplishment
 <!-- deepen-note: 2026-09-11 re-review — page already carries the full absorb of its cited TAH records (#25/#107/#17/#92) plus the UMN award and Our Journeys #65/#9 records; no further vault-only facts remain. -->
 <!-- deepen-note: 2026-09-11 (slice 09112100-1, vault-only) — further in-vault records: TAA president term dates 1983-01-01起 recorded in the TAA chapter history [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys #76]] (EN: [[works/taiwaneseamericanhistory-org/ourjourneys76-eng|#76 EN]]); as 協志會/北加州聯合會第四屆會長 (1977 首次春節晚會, 台灣政論致函事件) [[works/taiwaneseamericanhistory-org/ourjourneys38|Our Journeys #38 北加州台灣同鄉聯合會三十年回顧]], and as a 協志會 founding-era 籌備會推舉人 [[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys #37]]; Komag co-founding detail — with 陳俊雄/Scott Chenk 及 石清正/Ching-Cheng Shir, thin-film disks, IPO 1987 — in [[works/taiwaneseamericanhistory-org/ourjourneys19|Our Journeys #19 在矽谷創業臺美人]]. No new biography invented. -->
 <!-- deepen-note: 2026-09-10 — 僅重組本頁既有事實並補上 vault 內已存在之作品頁連結；未新增傳記內容。FAPA 目前 vault 僅有 [[organizations/fapa-los-angeles||洛杉磯分會]] 與 [[organizations/fapa-orange-county||橙縣分會]] 頁面，本頁所載為 FAPA 全國董事會，故未連至分會頁。 -->
+<!-- deepen-note: 2026-10-12 (slice 10110100-7, vault-only) — absorbed TAI founding detail from [[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys #37]]: 籌備會召集人 (1973-04-21 first prep meeting; charter drafted by 姚嘉文 and 石清正), first board member and first Vice-president under Founding President John J. Y. Huang at the 1973-05-18 founding before 43 members. Note: the Bay-Area 協志會 (TAI, 1973) is a distinct body from the SoCal page [[organizations/taiwanese-alliance-for-interculture-southern-california]] (subject-tagging HOLD noted there); no wikilink to that org page from here. #106's 歷屆北加州聯合會會長 roster (第一屆 陳都 onward, all on the KMT blacklist) and #38's 第四屆會長 1977 春節晚會 account remain as held above — bodies not auto-merged. -->
