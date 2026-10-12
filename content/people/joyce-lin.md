@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Joyce Lin (林才欣)
 
@@ -60,6 +60,7 @@ _No filled family fields on the TAH profile._
 - 2026-09-25 deepen-x slice 09240600-10: fresh grep (林才欣 / Joyce Lin) — hit set identical to saturated set (videos-162, whos-who-2270, TJJ 039ccce4163c57a9, ourjourneys305 different-person HOLD, MANIFEST metadata). SKIP: no new absorbable material.
 - 2026-09-25 deepen-x slice 09250900-1: fresh grep (林才欣 / Joyce Lin) — hit set identical to saturated set (videos-162, whos-who-2270, TJJ 039ccce4163c57a9, ourjourneys305 different-person HOLD, works/index, MANIFEST metadata). SKIP: no new absorbable material.
 - Corpus re-check 2026-10-10 (deepen-x slice 10090500-2): fresh grep 林才欣/Joyce Lin across works+articles+sources+events+topics — hit set identical to the saturated set (videos-162, whos-who-2270-joyce-lin, TJJ 039ccce4163c57a9 report, ourjourneys305 different-person HOLD, works/index, MANIFEST.jsonl metadata only). SKIP: no new absorbable material.
+- Corpus re-check 2026-10-12 (deepen-x slice 10120018-3): fresh 5-dir grep (林才欣 / Joyce Lin / 才欣 / 林喬伊斯) — hit set identical to the saturated set (videos-162, whos-who-2270, TJJ 039ccce4163c57a9 report, ourjourneys305 different-person HOLD, works/index, MANIFEST.jsonl metadata only). publications1339 / private-collections-98 appeared only as whos-who-2270 related-works links, not independent name hits. SKIP: no new absorbable material.
 
 <!-- TJJ-A10040500-5: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040500-5 article 039ccce4163c57a9（航空宣教使團Joyce Lin墜湖身亡, 2020-05-15 刊）: subject link re-checked vs 正文（傳主本人，MAF墜機報導）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
