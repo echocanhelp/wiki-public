@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # C. S. Huang (黃千洵)
 
@@ -57,3 +57,4 @@ last_reviewed: 2026-10-10
 <!-- deepen-x 09252123-15 re-check 2026-09-26: SKIP-content. Fresh ZH+EN grep hits only the records already cited here (ourjourneys74 NATMA founding, whoswho1391, whos-who-1800 黃慶三 HOLD) plus works/index.md; nothing new absorbable. -->
 <!-- deepen-x slice 09250400-20 re-check 2026-09-25: still saturated — grep returns only ourjourneys74-eng, whoswho1391, whos-who-1800 (all already linked/HOLDed) + works/index.md. -->
 <!-- deepen-x slice 10051200-15 re-check 2026-10-06: verified-saturated. Fresh ZH+EN grep of works/articles/sources/events/topics returns only ourjourneys74-eng, whoswho1391, record 92 (黃介山), whos-who-1800 (黃慶三) + works/index.md — all already cited/HOLDed. Both HOLDs stand (黃介山 vs 黃千洵 title collision; cshuang2 handle unresolved). Nothing new absorbable. -->
+<!-- deepen-x slice 10110316-13 re-check 2026-10-12: verified-saturated. Fresh ZH+EN grep (黃千洵 / C. S. Huang / C.S. Huang) across all 5 corpus dirs returns only ourjourneys74-eng (NATMA founding, already linked), whoswho1391, record 92 (黃介山, HOLDed), whos-who-1800 (黃慶三, HOLDed), sources/taiwaneseamericanhistory-org.md + works/index.md (listing entries) — all already cited or HOLDed. No new absorbable corpus material; all prior HOLDs stand. -->
