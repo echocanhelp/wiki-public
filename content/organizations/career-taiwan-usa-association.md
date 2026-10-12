@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Career Taiwan USA Association
 
@@ -69,3 +69,5 @@ Community role: a career/professional-development association for young Taiwanes
 
 <!-- TJJ-A10090701-17: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-17: article c05e2d53013fcd15 (2020-11-26 快照, twin 71a7c646, TJJ 發文 2020-06-23) read fresh this attempt: 8 subject links (TASF 紓困獎學金/Career Taiwan USA 協辦 4/25 移民講座/林榮松執行長捐贈面罩＋數位化/田詒鴻董事長率皇佳銀行 3900 口罩/陳柏宇副董事長代轉 1200 予柔斯密市府/蔡漢成副董事長共同主導文獻數位化/陳啟耕董事律師主講講座/台灣會館為本文主旨) re-checked vs 正文, all real, no wrong/spurious links; dated facts w/ article wikilinks already in From the record — saturated, no new material. -->
 <!-- TJJ-A10100701-4: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-4 article c05e2d53013fcd15（2020-06-23 大洛杉磯台灣會館疫情濟困報導）: subject link re-checked vs 正文 this attempt, real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+> Corpus re-scan 2026-10-11 (deepen-x slice 10101500-17): fresh grep 職涯/Career Taiwan across all 5 corpus dirs — hit set unchanged (professional8, dedicated story page, index, OJ361 nav-only, e1fdfc49 生活座談六 already cited); the new article hits (陳怡安/哈佛 3c0f66c4, TSMC 挖角 75718d97) and OJ361 body are generic uses of 職涯, not this association — nothing absorbable, verified-saturated.
