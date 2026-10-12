@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Wendy Cheng (鄭昕)
 
@@ -53,6 +53,7 @@ _No filled family fields on the TAH profile._
 - Corpus re-verify (deepen-x 09230600-9, 2026-09-24): fresh scan works/ + articles/ — new hit community-resources 書單收錄 Island X，已吸收於上；其餘命中（whos/357/372/390/509/510/mystories300/island-x）皆已連結。無衝突須 HOLD。
 - Corpus re-scan（deepen-x slice 09240600-5, 2026-09-25）：新增命中 [[works/taiwaneseamerican-org/taiwanese-american-film|Taiwanese American Film（2007 影人專欄）]] 記「Wendy Seo-Ling Cheng」為 NYU Tisch 電影碩士生（Cornell 文學背景、獲兩項獎學金、劇作〈Moon Lady〉製作中）。HOLD: conflict — 該簡歷（Cornell/Tisch 電影創作）與本頁 TAH #275 學術簡歷（Harvard A.B.、UC Berkeley M.A.、USC Ph.D.）不合，同名未確認，不併入 Identity Snapshot。其餘命中（whos/357/372/390/509/510/mystories300/island-x/community-resources）皆已連結，無其他新材料。
 - Corpus re-verify（deepen-x slice 10100600-9, 2026-10-11）：fresh grep 鄭昕/Wendy Cheng/Wendy Seo-Ling Cheng across works/articles/sources/events/topics — 12 檔命中全數已連結（whos-275/357/372/390/509/510/mystories300/island-x/community-resources/taiwanese-american-film/works-index/sources hub）。本輪核對 372 引文原文（「identified, or would soon come to identify, as Taiwanese」）與 390 書評座談日期無誤；無新命中、無新衝突須 HOLD。
+- Corpus re-verify（deepen-x slice 10110200-14, 2026-10-12）：fresh exact-name grep 鄭昕/Wendy Cheng/Wendy Seo-Ling across all 5 corpus dirs — same 12 hits, all already linked; spot-checked 357 footnote（Amerasia Journal 2019 引用無誤）與 mystories300 悼念文作者署名無誤。無新命中、無新衝突須 HOLD。
 
 ## Sources
 - [TAH #275 encyclopedia: 275. Wendy Cheng  鄭昕 / 2015/02](https://taiwaneseamericanhistory.org/whos-wendy-cheng/)
