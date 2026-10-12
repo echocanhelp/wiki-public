@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Chen Shui-bian (陳水扁)
 
@@ -145,6 +145,21 @@ last_reviewed: 2026-10-10
 - 2001–2007 — WHO 叩關紀錄：2001 年成立跨部會小組（台醫聯盟、FAPA、NATMA 納入）；2003 以台灣代表衛生實體申請觀察員；2007 任內最後一年親上火線以「台灣」名義申請正式會員，祕書長陳馮富珍退回函件（[[works/taiwaneseamericanhistory-org/ourjourneys100|Our Journeys #100 日內瓦 WHO 十一年]]）。
 - 2007-05-11 — 總統陳水扁於 Washington Post 刊出社論〈The Shunning Of a State〉（TAH 轉載，2007-05-14）（[[works/taiwaneseamerican-org/an-op-ed-letter-from-taiwans-president-chen-shui-bian|An Op-Ed Letter from Taiwan's President Chen Shui-bian]]）。
 - 2016-04 — 陳文雄於北加州臺灣長輩會通訊論及 2000 年陳水扁當選後台灣人以選票讓蔡英文勝出才是「跨出民主的第一大步」（[[works/taiwaneseamericanhistory-org/ourjourneys216|Our Journeys #216 台美人對故鄉的殷殷期望]]）。
+
+### From the diaspora corpus (2026-10-12 吸收)
+
+- 1984 — 中西部台灣人夏令會（底特律同鄉會主辦）：阿扁以台北市議員身份前來參加，同場貴賓含美麗島血案受害人林義雄夫人方素敏與陳文成命案之父陳老生生，參加同鄉超過千人（[[works/taiwaneseamericanhistory-org/our-journeys-376|Our Journeys #376 中西部夏令會]]）。
+- 1979–1980 — 美麗島事件辯護律師團對照紀錄：黃信介之辯護律師為陳水扁、鄭慶隆；此律師團年輕律師其後成為反對運動新一代領導群（[[works/taiwaneseamericanhistory-org/ourjourneys69|Our Journeys #69 NATPA 與美麗島]]）。
+- 1990 — NATPA 回台年會參訪：台南後壁黃崑虎（後任李登輝、陳水扁總統國策顧問）席開六桌晚宴（[[works/taiwaneseamericanhistory-org/ourjourneys47|Our Journeys #47 NATPA 回台]]）。
+- 1998 — 世台會第二十屆夏令會（Furman University）：Forum「扣應、Call-in：老李 vs 老宋 與阿扁 vs 小馬」（林國慶、蔡丁貴主持）（[[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys #245 世台會]]）。
+- 2000 — NATPA 第二十屆年會（吳和甫會長）正逢陳水扁總統就職後，團員拜訪陳總統於總統府（[[works/taiwaneseamericanhistory-org/ourjourneys47|Our Journeys #47]]）。
+- 2000、2004 — 「海外阿扁後援會」兩屆選舉紀錄（與北美洲阿扁之友會並列之海外後援組織）（[[works/taiwaneseamericanhistory-org/5-e6-b5-b7-e5-a4-96-e9-98-bf-e6-89-81-e5-be-8c-e6-8f-b4-e6-9c-83-e6-b5-b7-e5-a4-|海外阿扁後援會 2000、2004]]）；另見阿扁之友會 NY/RJ 分會（Friends of Chen）（[[works/taiwaneseamericanhistory-org/ourjourneys356|Our Journeys #356]]）。
+- 2000 — 台美人二代訪談回憶：2000 年 3 月陳水扁當選為「振奮人心的一刻」——耕耘民主二十餘年後完成民主轉型（[[works/taiwaneseamerican-org/a-conversation-with-the-taiwan-sons-in-law|A Conversation with the Taiwan Sons-in-Law]]）。
+- 2001 後 — 阿扁執政後大力推動「還我母語」等客家文化運動，創立客委會、客家電視台，北美臺灣客家公共事務協會（HAPA-NA）曾扮演推手角色（[[works/taiwaneseamericanhistory-org/ourjourneys290|Our Journeys #290 HAPA-NA]]）。
+- 李登輝、陳水扁兩任總統時期推行「認識台灣、講母語」教育改革（佳壇台語教會講座記述）（[[works/taiwaneseamericanhistory-org/ourjourneys42|Our Journeys #42 鄭安住台語教學]]）。
+- 至 2006（陳水扁當選首位非國民黨總統六年後）僑務委員會英文名稱仍為 Overseas Chinese Affairs Commission，僑團結構持續影響台美認同政治（[[works/taiwaneseamericanhistory-org/our-journeys-372|Our Journeys #372 僑務與認同]]）。
+- 紐約台灣會館：陳水扁自政治高位時期即與會館留下珍貴紀錄，會館後拓展為族裔綜合社區中心（[[works/taiwaneseamericanhistory-org/ourjourneys304|Our Journeys #304 紐約台灣會館]]）。
+- 阿扁保外就醫（2015-01）經僑界講座跟進討論：林水波教授主講「阿扁保外就醫」（[[works/taiwaneseamericanhistory-org/ourjourneys107|Our Journeys #107 僑界論壇紀錄]]）。
 
 ## Related Pages
 
