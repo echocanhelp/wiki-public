@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Kin Ko (柯金寅)
 
@@ -67,6 +67,7 @@ M.S., Aerospace Engineering; Ph.D. Course Program
 - Corpus re-grep 2026-09-23 (slice 09230317-8; 柯金寅 / Kin Ko): beyond the previously linked records, newly absorbed above are ourjourneys91, ourjourneys153, photo-albums-activities-51, mystories118, my-stories-784 + two TJJ captures; remaining hits are index/tag pages (works/index.md, TJJ tag:柯金寅) — nothing further absorbable.
 - Corpus re-grep 2026-10-09 (slice 10080951-14; 柯金寅 / Kin Ko across works/articles/sources/events/topics): hit set identical to the records already wikilinked above, plus the bibliographic work record of his own TAH Who's Who entry — [[works/taiwaneseamericanhistory-org/whos-who-901-kin-ko|901. Kin Ko 柯金寅, 2016-03-20]] (value band B), now linked here; remaining hits are index/tag pages (works/index.md, TJJ tag:柯金寅). No other new absorbable material.
 - Corpus re-grep 2026-10-10 (slice 10100315-22; 柯金寅 / Kin Ko across works/articles/sources/events/topics): hit set identical to the records already wikilinked above (11 work records + 4 TJJ article captures + whos-who-901 bibliographic record); remaining hits are index/tag pages (works/index.md, TJJ tag:柯金寅, MANIFEST.jsonl) and the source registry. No new absorbable material — SKIP (saturated).
+- Corpus re-grep 2026-10-12 (slice 10102300-27; 柯金寅 / Kin Ko across works/articles/sources/events/topics): hit set again identical — the 11 work records + 4 TJJ article captures + whos-who-901 already wikilinked above; remaining hits are index/tag pages (works/index.md, TJJ tag:柯金寅, MANIFEST.jsonl) and the source registry. No new absorbable material — SKIP (saturated).
 
 ## From the record
 
