@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Rex Yu (余忠村博士)
 
@@ -105,3 +105,4 @@ Accomplishment
 <!-- DEEPEN-X10101200-14: verified 2026-10-11 — fresh ZH+EN+brand grep (余忠村 / Rex Yu / Rexon) across all 5 corpus dirs: hits = works #19/#970/#71/#55/#36/#643 + works index + sources page + TJJ articles 23da543a / 3246c11d / 7e6eedc0 / 67af8b6c / df5ddf62 / 31b7081a + tag page 4208188a + 2023-12-08 會館 category listing (標題級, 同 2023-06-10 義賣事件) — 全部已於上文收錄連結, 無新社群事實 — saturated, no new material. -->
 <!-- TJJ-A10100901-24: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-24 article 3246c11d0909b4fe (洛僑中心攜手台灣會館「台灣‧藝象」首場講座公告, 2018-08-25 刊／2024-05-22 快照): subject link re-checked line-by-line vs 正文 this attempt (「邀請主講人郭曉玗小姐、余忠村博士…共同演出」＋「由余忠村博士分享具有台灣特色的民俗戲曲音樂(包含歌仔戲、布袋戲等南北管樂曲及樂器)」), real, no wrong/spurious links; 2018-08-31 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10110601-27: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110601-27 article 3246c11d0909b4fe (洛僑中心攜手台灣會館「台灣‧藝象」首場講座公告, 2018-08-25 刊／2024-05-22 快照): subject link re-checked line-by-line vs 正文 this attempt (「邀請主講人郭曉玗小姐、余忠村博士、女高音吳麗華老師及王婉兒老師共同演出」＋「由余忠村博士分享具有台灣特色的民俗戲曲音樂(包含歌仔戲、布袋戲等南北管樂曲及樂器)」), real, no wrong/spurious links; 2018-08-31 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- DEEPEN-X10110805-14: verified 2026-10-12 — fresh ZH+EN+brand grep (余忠村 / Rex Yu / Rexon) across all 5 corpus dirs: hit set identical to prior passes — works #19/#970/#71/#55/#36/#643 + works index + sources page + TJJ articles 23da543a / 3246c11d / 7e6eedc0 / 67af8b6c / df5ddf62 / 31b7081a + tag page 4208188a + 2023-12-08 會館 category listing 9e4671c2 (標題級, 同 2023-06-10 義賣事件, 正文無新句) — 全部已於上文收錄連結, 無新社群事實 — saturated, no new material. -->
