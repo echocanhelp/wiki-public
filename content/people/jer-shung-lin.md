@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Jer-Shung Lin (林衡哲本名林哲雄)
 
@@ -43,6 +43,10 @@ last_reviewed: 2026-10-10
 - 1992 — 台灣協志會學術討論會（帕洛阿圖 Syntek Hall Center）論文發表學者之一，與彭明敏、林宗義、陳芳明、張旭成等列席（[[works/taiwaneseamericanhistory-org/ourjourneys37|37. 台灣協志會成立與大事記, 紀哲嘉, 2014/09]])；同會大事記以「Intellectual: Dr. Jer-Shung (Hon-Tze) Lin」記於明州台美人百年大事（[[works/taiwaneseamericanhistory-org/ourjourneys123-eng|ourjourneys123-eng]]）。
 - 著作新增：傳記《菲利賓國父——黎剎傳》（2013/12）（[[works/taiwaneseamericanhistory-org/435-e8-8f-b2-e5-88-a9-e8-b3-93-e5-9c-8b-e7-88-b6-e9-bb-8e-e5-89-8e-e5-82-b3-e6-9|435. 菲利賓國父 – 黎剎傳]]）；TAH 刊文「各位敬愛的股東同仁平安」（[[works/taiwaneseamericanhistory-org/ourjourneys70|70]])。
 - 2026-10-10（slice 10091400-19）語料再核：ZH+EN+本名（林衡哲/林哲雄/Jer-Shung/Hon-Tze）grep 命中 20+ 檔，新增吸收 ourjourneys287/186/37/123-eng/70 與 435；romanization 衝突（Jer-Shung vs Hon-Tze）維持 HOLD，無新衝突。
+- 著述事業：黃哲陽「台美人醫師」overview 記他為天生有文才的小兒科醫師，起先業餘設「新潮文庫」介紹世界名著，後專心提倡台灣文化，創辦出版社出版台灣文化書籍百本，已著書二十幾本（[[works/taiwaneseamericanhistory-org/ourjourneys291|291. 台美人醫師 overview, 黃哲陽, 2017/05]]）；其傳記《智慧交響曲》（2008/06）（[[works/taiwaneseamericanhistory-org/publications302|302. 智慧交響曲, 傳記]])、《蕭泰然音樂人生全紀錄》刊於 TAH（[[works/taiwaneseamericanhistory-org/my-stories-824|824. 林衡哲撰寫蕭泰然音樂人生全紀錄, 2022/02]]）。
+- 本人刊文新增：悼念台獨運動人格者鄭紹良博士（[[works/taiwaneseamericanhistory-org/my-stories-692|692. 學養深厚的台獨運動人格者—鄭紹良博士, 2019/08]]）、「林衡哲八十回憶集自序」（[[works/taiwaneseamericanhistory-org/my-stories-711|711, 2019/12]]）。
+- TACL 文獻補充：1984-11-10《美麗島週報》第213期以筆名「林豪」刊出他的長文「漫談成立TACL（台美公民協會）的重要性—日本人能為什麼台灣人不能」（[[works/taiwaneseamericanhistory-org/ourjourneys272|272. 台美公民協會的成長：從孕育到發芽, 周實, 2017/01]])——與上方 ourjourneys186 顧問名冊互證。
+- 2026-10-11（slice 10102129-26）語料再核：ZH+EN+本名 grep 命中 30 檔，新增吸收 my-stories-824/692/711、publications302、ourjourneys291/272；筆名「林豪」為新增身份線索；romanization 衝突（Jer-Shung vs Hon-Tze）維持 HOLD，無新衝突。
 
 ## Family
 
