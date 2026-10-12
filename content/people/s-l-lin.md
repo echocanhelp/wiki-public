@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # S. L. Lin (林幸隆)
 
@@ -130,3 +130,5 @@ last_reviewed: 2026-10-11
 <!-- TJJ-A10100801-4: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-4 article 8bf4798dd2771f38 (大洛杉磯台灣會館 popular 分類頁, 2024-02-21 快照) read fresh this attempt: subject link 林幸隆 re-checked vs 正文 — 「大洛杉磯台灣會館園藝講座-果樹培育密訣-by田土伯(林幸隆)-蔬果園藝交流在美洲-08282016」條目確認見於正文, real, no wrong/spurious links; 2016-08-28 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10110001-21: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110001-21 article 2e141df6a5071110 (蔬果園藝交流在美洲 tag p2, 2024-05-22快照) read fresh this attempt: subject link 林幸隆 re-checked vs 正文 — 「大洛杉磯台灣會館園藝講座-果樹培育密訣-by田土伯(林幸隆)-蔬果園藝交流在美洲-08282016」條目確認見於正文, real, no wrong/spurious links; 同頁黃啟源(Paul Huang)園藝講師 ≠ 小提琴家黃俊文之 HOLD 不連結維持; 2016-08-28 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- deepen-x slice 10110200-19: verified 2026-10-12 — fresh grep (林幸隆/田土伯/S. L. Lin) over works/ articles/ sources/ events/ topics/ returned 17 files, hit set identical to prior passes (ourjourneys159, whoswho1130, index, sources, MANIFEST, 田土伯/林幸隆/果樹培育/園藝講座 tag pages + category p3 + popular snapshots). All hits carry the same 「大洛杉磯台灣會館園藝講座-果樹培育密訣-by田土伯(林幸隆)-蔬果園藝交流在美洲-08282016」 record already cited in From the record — verified-saturated, no new material. -->
