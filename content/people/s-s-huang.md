@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # S.S. Huang (黃申生)
 
@@ -51,6 +51,7 @@ last_reviewed: 2026-10-11
 - Corpus re-check 2026-10-09 (deepen-x slice 10080400-8): fresh ZH+EN grep (黃申生 / S.S. Huang / 申生) across works+articles+sources+events+topics returns the identical hit set — #2109, #636, ourjourneys79, the #2086 黃壽山 disambiguation record, plus index/source listings. No new corpus material; all hits already reflected in the links above. Verified-saturated.
 - Corpus re-check 2026-10-11 (deepen-x slice 10101204-18): fresh ZH+EN grep (黃申生 / S.S. Huang / S. S. Huang / 申生) across works+articles+sources+events+topics returns the identical hit set — #2109, #636, ourjourneys79, the #2086 黃壽山 disambiguation record, plus index/source listings. #636 remains bibliographic-only (full text in vault). No new corpus material; all hits already reflected in the links above. Verified-saturated.
 - Corpus re-check 2026-10-10 (deepen-x slice 10090800-19): fresh ZH+EN grep (黃申生 / S.S. Huang / 申生 / 楊詠絮) surfaces two wife-side works not previously linked — [[works/taiwaneseamericanhistory-org/ourjourneys161|161. Our Journeys / NATWA 婦女信箱 history]], whose editor roster places 楊詠絮 as a 婦女信箱 host/editor in 1999–2000 (and records her 2000 compilation of that year's 單行本), and [[works/taiwaneseamericanhistory-org/22-e9-97-9c-e6-87-b7-e6-96-87-e9-9b-862002-e5-b9-b4-e5-b0-88-e8-bc-af-e6-9d-8e-e|22. 關懷文集 2002 年專輯 / 李芬芬、楊詠絮 / 2002-04]], which she co-edited. Both corroborate the NATWA record above; the 黃申生 hit set (#2109, #636, ourjourneys79, #2086 黃壽山 disambiguation) is unchanged. Verified-saturated for 黃申生 himself.
+- Corpus re-check 2026-10-12 (deepen-x slice 10112243-18): fresh ZH+EN grep (黃申生 / S.S. Huang / S. S. Huang / 申生) across works+articles+sources+events+topics returns the identical 6-file hit set — #2109, #636, ourjourneys79, the #2086 黃壽山 disambiguation record, plus index/source listings. #636 remains bibliographic-only (full text in vault). No new corpus material; all hits already reflected in the links above. Verified-saturated.
 
 
 ## Sources
