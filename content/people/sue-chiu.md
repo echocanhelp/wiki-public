@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Sue Chiu (黃雪香)
 
@@ -65,3 +65,4 @@ Corpus re-grep (slice 09300500-3, 2026-10-04): fresh ZH+EN grep of works+article
 Corpus re-grep (deepen-x slice 10060900-3, 2026-10-07): fresh ZH+EN grep of works/articles/sources/events/topics — primary hit set unchanged (#529, #65, #853, #154, works index). New surname-adjacent material found via 邱義昌: ourjourneys156 (公論報 2015-08 停刊 farewell signed by 發行人許世模 / 副發行人邱義昌) — absorbed into Role in the Community as her husband's 公論報 leadership tie-in. No conflicts to HOLD.
 Corpus re-grep (deepen-x slice 10090315-2, 2026-10-10): fresh 黃雪香/Sue Chiu grep of works/articles/sources/events/topics — hit set identical (#529, #65, #853, #154, works index, sources page); 點心擔 column-editor roster in #154 already absorbed. Verified-saturated; SKIP-content, nothing new absorbable, no conflicts to HOLD.
 Corpus re-grep (deepen-x slice 10101204-2, 2026-10-11): fresh ZH+EN grep across all 5 corpus dirs — 黃雪香/Sue Chiu hit set identical (#529, #65, #853, #154, works index, sources page). Surname-adjacent 邱義昌 grep surfaces only his own works (ourjourneys8/8-eng 文成杯, ourjourneys329 memoir, mystories-791 吳三連基金會 profile, publications284 林雙不 biography, 911-donations) — none mention 黃雪香 herself; husband tie-in already absorbed. Verified-saturated; SKIP-content, nothing new absorbable, no conflicts to HOLD.
+Corpus re-grep (deepen-x slice 10110805-32, 2026-10-12): fresh ZH+EN grep across all 5 corpus dirs — 黃雪香/Sue Chiu hit set identical (#529, #65, #853, #154, works index, sources page). The wider 邱義昌 surname grep adds only his own works ([[works/taiwaneseamericanhistory-org/whos-who-1460-gichiong-khu|1460. Dr. Gichiong Khu]], [[works/taiwaneseamericanhistory-org/81-dr-gichiong-khu|81. Dr. Gichiong Khu]], ourjourneys329 文成杯 memoir, publications284 林雙不 biography, mystories-791 吳三連基金會 profile, ourjourneys8/8-eng, 911-donations) — line-level check confirms zero 黃雪香/Sue Chiu mentions in each; husband tie-in already absorbed above. Verified-saturated; SKIP-content, nothing new absorbable, no conflicts to HOLD.
