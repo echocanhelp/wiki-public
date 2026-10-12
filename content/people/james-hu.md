@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # James Hu (胡宏仁)
 
@@ -95,3 +95,5 @@ HOLD: 「Liyen James Hu」在 [[works/taiwaneseamerican-org/lunchbox-anne-hu-rel
 <!-- TJJ-A10100401-26: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-26 article c691e327b9133c1a (心得報告標籤頁, 發文 2018-04-06／快照 2024-07-19) read fresh this attempt: subject link re-checked vs 正文, 「長青教室心得報告-建造健康奇蹟的食用好油 ◎ 講師 胡宏仁教授 2017-11-29」確認見於條目, real, no wrong/spurious links; 2017-11-29 dated fact w/ article wikilink already in From the record — James Hu/Liyen James Hu 同名異人 HOLD 不變; saturated, no new material. -->
 
 <!-- TJJ-A10110001-20: verified 2026-10-12 — wave-2 link+deepen re-check of article c691e327b9133c1a (Tag: 心得報告, 發文 2018-04-06／快照 2024-07-19) read fresh this attempt: subject link re-checked vs 正文, 「長青教室心得報告-建造健康奇蹟的食用好油 ◎ 講師 胡宏仁教授 2017-11-29」確認見於條目, real, no wrong/spurious links; 2017-11-29 dated fact w/ article wikilink already in From the record — James Hu/Liyen James Hu 同名異人 HOLD 不變; saturated, no new material. -->
+
+<!-- DEEPEN-X10110700-29: re-verified 2026-10-12 — fresh ZH+EN+spouse grep (胡宏仁 / James Hu / 鍾瑞美) across all 5 corpus dirs returned the identical hit-set to all prior passes (887, ourjourneys107 課程名單, index 目錄, lunchbox/James Huang held false-identity hits, TJJ 黃瑞雅頁, 長青教室 tag archives) — verified-saturated, nothing new absorbable; James Hu/Liyen James Hu 同名異人 HOLD 不變. -->
