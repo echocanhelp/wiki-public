@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Mao-ching David Huang (黃茂清)
 
@@ -44,6 +44,8 @@ Mao-ching (David) Huang 黃茂清 – History of Taiwanese American (T.A. Archiv
 - **Oral-history video:** his 台美人物誌 video interview (美洲台灣日報社長李木通主持, 2016-11-30) is held in-corpus at [[works/taiwaneseamericanhistory-org/videos48|48. 台美人物誌-黃茂清律師專訪 / 2016-11-30]] — same session as the taiwanjustice.net print piece cited under "From the record".
 - Corpus re-grep 2026-09-21: hit set gained no new people-level facts beyond prior passes (ourjourneys173/-eng, life88, mystories523, whoswho1415, ff318/ff369); newly linked here are the TACL founding memoir ([[works/taiwaneseamericanhistory-org/ourjourneys272|ourjourneys272]], names him among the 16 founders) and the video interview work ([[works/taiwaneseamericanhistory-org/videos48|videos48]]). English Flamingo Garden account still the only source for the three-lawyer adviser list; count discrepancy remains held.
 - CAUTION: [[works/taiwaneseamericanhistory-org/whos-who-2132-david-huang|2132. Rev. David Huang 黃德利牧師]] is a different person despite the shared English name — not linked as a subject.
+- CAUTION: [[works/taiwaneseamericanhistory-org/855-mou-chinlin-e6-9e-97-e8-8c-82-e6-b8-85-201602|855. Mou-ChinLin 林茂清 / 2016/02]] surfaces on grep for the 茂清 given-name fragment but is 林茂清 — a different person, not linked as a subject.
+- Corpus re-grep 2026-10-12 (slice 10110200-13): hit set unchanged from prior passes (ourjourneys173/-eng, life88, mystories523, whoswho1415, ff318/ff369 all already linked). Two grep-only false positives now explicitly held as different persons: Rev. David Huang 黃德利 (#2132) and 林茂清 (#855, 茂清 fragment match). No new dated facts; page saturated.
 - Corpus re-grep 2026-10-11 (slice 10100600-12): hit set unchanged from prior passes (all 11 work/article hits already linked). New link added: [[works/taiwaneseamericanhistory-org/ourjourneys272-eng|ourjourneys272-eng]] (English TACL founding memoir, names him among the 16). The hits in sources/ntpc-usa-org.md and sources/good-shepherd-taiwanese-presbyterian-church.md are Rev. David Huang 黃德利 — different person, not absorbed. No new dated facts; page saturated.
 
 ## Family
