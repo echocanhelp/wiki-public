@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Hsun-Hsun Hsu (許恂恂)
 
@@ -90,3 +90,5 @@ Fresh ZH+EN+ensemble sweep across works/articles/sources/events/topics. No new b
 - The 半音合唱團 she conducts has four TAH concert records in the vault: [[works/taiwaneseamericanhistory-org/11-half-step-chorus-e5-8d-8a-e9-9f-b3-e5-90-88-e5-94-b1-e5-9c-98|TAH #11: Half Step Chorus 半音合唱團 (2014-11)]], [[works/taiwaneseamericanhistory-org/concerts80|TAH #80: 上美ㄟ土地 — 半音合唱團 2016 年度音樂會, Hacienda Hts (2016-10)]], [[works/taiwaneseamericanhistory-org/concerts107|TAH #107: 榮耀的日光, Hacienda Hts (2017-11-04)]], [[works/taiwaneseamericanhistory-org/musical-concerts-160|TAH #160: 半音合唱團「天佑台灣」音樂會 (2019-10-05)]].
 - [[articles/taiwanjustice-net/2017/20171107225317_2017_11_05_2001年7月2日半音合唱團受邀演唱於國家音樂廳實況錄_de11e29571f3dc86|半音合唱團受邀演唱於國家音樂廳實況錄影 (2001-07-02, TJJ repost 2017-11-05)]] — the ensemble's earliest vault appearance; conductor of record in 2001 is not stated in the article, so no attribution to her is made (HOLD: no evidence she conducted in 2001).
 - Prior passes remain accurate: #356 vault copy at [[works/taiwaneseamericanhistory-org/13182|TAH #356]], #82 conductor record, and [[works/taiwaneseamericanhistory-org/ourjourneys340|許丕龍's 泰然音樂節 column]] naming her as 東區半音 conductor. No conflicts found.
+
+<!-- deepen-x slice 10101400-15 verified 2026-10-11 — fresh ZH+EN+surname sweep (許恂恂|Hsun-Hsun Hsu|恂恂) across works/articles/sources/events/topics returns 6 hits, all already absorbed and linked on this page: #82 conductor record, #356 vault copy (13182), ourjourneys340 泰然音樂節 column, 2589c867 228防疫音樂會 article, plus 2 index listings. No new biography, no conflicts — saturated, no new material. -->
