@@ -185,3 +185,5 @@ Pages that link to **wang-gui-rong** (wang-gui-rong):
 ![20191214133303_wp-content_uploads_2018_08_王桂榮_jpg_0b152a7209](../images/people--wang-gui-rong.jpg)
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20191214133303）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+
+<!-- TJJ-A10120001-1: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10120001-1 article 162effa713237818 (給台美人學生的 TASF COVID-19 疫情紓困獎學金, 2020-06-16) read fresh this attempt: 故僑務委員王桂榮 (Ken John Wang) 慷慨捐產創設大洛杉磯台灣會館基金會記述 re-checked vs 正文, real, no wrong/spurious links (本頁不在该文 Subjects 清單, 惟正文提及已核); 2020-06-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
