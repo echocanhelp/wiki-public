@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 resweep: deepen-x-09170130-1
 ---
 # Dr. Jack J. Chen (陳宏傑教授)
@@ -72,3 +72,6 @@ resweep: deepen-x-09170130-1
 
 ## Corpus re-grep (slice 10101000-27)
 - 2026-10-11: re-grep 陳宏傑 / Jack J. Chen across all 5 corpus dirs — hit set unchanged from prior passes: own bibliography pages [[works/taiwaneseamericanhistory-org/53015|#217]] / [[works/taiwaneseamericanhistory-org/whos-who-642-jack-j-chen|#642]] / [[works/taiwaneseamericanhistory-org/862-parkinsons-disease-jack-j-chen-199710life-e7-94-9f-e6-b4-bb|#862]], the 2019 Jack Chen records (#2182 / OTA-272 / #678, identity HOLD stands), plus catalog rows in works/index and [[sources/taiwaneseamericanhistory-org]]. New corroboration: [[sources/2017-tahs-publication]] lists 陳宏傑 (Jack J. Chen) — Clinical Pharmacist PhD among the yearbook's 22 profiles, flagged as a self-profile (higher reliability for personal details) — consistent with the existing career record, no new facts to absorb. SKIP — saturated; no new absorbable community material; no new conflicts to HOLD.
+
+## Corpus re-grep (slice 10110700-26)
+- 2026-10-12: re-grep 陳宏傑 / Jack J. Chen / Jack Chen across all 5 corpus dirs — hit set identical to all prior passes: own bibliography pages [[works/taiwaneseamericanhistory-org/53015|#217]] / [[works/taiwaneseamericanhistory-org/whos-who-642-jack-j-chen|#642]] / [[works/taiwaneseamericanhistory-org/862-parkinsons-disease-jack-j-chen-199710life-e7-94-9f-e6-b4-bb|#862]] plus the 2019 Jack Chen records (#2182 / OTA-272 / #678, identity HOLD stands), all already linked. No memoir/community material beyond what is absorbed. SKIP — saturated; no new absorbable facts; no new conflicts to HOLD.
