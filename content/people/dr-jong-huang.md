@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Jong Huang (黃重德醫師)
 
@@ -41,6 +41,7 @@ Accomplishment
 - Corpus re-grep 2026-09-23 (slice 09221000-9): SKIP — hit set unchanged (own #2240, works index, MANIFEST.jsonl, TJJ lecture + two tag archives, all already linked); no memoir narrative beyond them, nothing new to absorb.
 - Corpus re-grep 2026-09-24 (slice 09230500-20): SKIP — hit set unchanged (own #2240, works index, MANIFEST.jsonl, the 2020 lecture article + NATMA/大洛杉磯台灣會館 tag archives, all already linked); the tier2 Tag: 黃重德醫師 manifest row is a harvest-log record of the same tag page, not new narrative; verified saturated.
 - Corpus re-grep 2026-10-11 (slice 10100800-5): 13 hits, set unchanged from prior passes (own #2240 work, works index, MANIFEST.jsonl, lecture + tag archives); no memoir narrative found. Linking the three previously unlinked tag archives for the same 2020 講座 record — [[articles/taiwanjustice-net/2021/20211205054224_tag_黃重德醫師_5d3e46622da7785f|TJJ Tag: 黃重德醫師, 2021-12-05 存檔]], [[articles/taiwanjustice-net/2021/20211205044157_tag_健康講座_bb41075078406ab3|TJJ Tag: 健康講座, 2021-12-05 存檔]] and [[articles/taiwanjustice-net/2021/20211205052129_tag_認識武漢肺炎_fbfe92d2600566af|TJJ Tag: 認識武漢肺炎, 2021-12-05 存檔]] — each carries the 「健康講座-黃重德醫師2/1在橙僑中心，2/2在大洛杉磯台灣會館主講『認識武漢肺炎』」entry with Subjects link to this page.
+- Corpus re-grep 2026-10-12 (slice 10110400-2): 13 hits, set unchanged from all prior passes (own #2240 work, works index, MANIFEST.jsonl, sources index, lecture article + 2021 archive, five tag/root archives — every narrative hit already wikilinked above); no memoir narrative, verified saturated — SKIP, nothing new to absorb.
 
 ## Family
 
