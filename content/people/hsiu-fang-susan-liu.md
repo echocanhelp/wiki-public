@@ -100,3 +100,7 @@ Accomplishment
 ## Deepen-X10102300-15 check (2026-10-12)
 
 - **Saturated — no new material found.** Fresh ZH+EN grep (陳秀芳 / Susan Liu / Susan Hsiu-fang / Hsiu-Fang / 秀芳) across all 5 corpus dirs returned 51 files; every substantive hit is already absorbed and linked above (Footsteps series, Festival-of-Nations cultural-exhibition accounts, ourjourneys286/223/309/384, TAH #25 interview, Bob Cheng portrait, essays). The only unlinked hit is `works/index` — a generated index file, not source material. Confirmed false positives: 李秀芳 (UCSD soprano) and 黃秀芳 (Changhua legislator, taiwanjustice news tags).
+
+## Deepen-X10120200-15 check (2026-10-12)
+
+- **One new corpus link.** An EN-only grep surfaced a hit the earlier ZH+EN pass missed: she is a named signatory as "Hsiu-fang Liu, North American Taiwanese Women's Association" in [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement||Pew Research Center — Taiwanese American statement]] — the NATWA affiliation corroborates her footprint in the NATWA Annual Conference painting [[works/taiwaneseamericanhistory-org/footsteps-17||Footsteps #17 — NATWA Annual Conference (2015)]]. All other hits remain already absorbed; no other new material.
