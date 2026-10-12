@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Fu-Mei Wu Chen (陳吳富美)
 
@@ -66,3 +66,5 @@ Corpus re-check 2026-10-08 (deepen-x slice 10062334-1): fresh grep 陳吳富美�
 Corpus re-check 2026-10-09 (deepen-x slice 10080500-3): fresh grep 陳吳富美／Fu-Mei Wu Chen／吳富美／府城石舂臼 across works/articles/sources/events/topics — 11 file hits, hit set identical to prior checks (mystories27/157/190/498, publications1154/1264, publication1280, whos-who-327, collection record, plus index/source stubs); no new corpus facts. Verified-saturated; SKIP-for-new-facts.
 
 Corpus re-check 2026-10-10 (deepen-x slice 10090900-3): fresh grep 陳吳富美／Fu-Mei Wu Chen／吳富美／府城石舂臼 across works/articles/sources/events/topics — 11 file hits, hit set identical to prior checks (mystories27/157/190/498, publications1154/1264, publication1280, whos-who-327, collection record, plus index/source stubs); no new corpus facts. Verified-saturated; SKIP-for-new-facts.
+
+Corpus re-check 2026-10-12 (deepen-x slice 10110600-13): fresh grep 陳吳富美／Fu-Mei Wu Chen／吳富美／府城石舂臼 across works/articles/sources/events/topics — 11 file hits, hit set identical to prior checks (mystories27/157/190/498, publications1154/1264, publication1280, whos-who-327, collection record, plus index/source stubs); no new corpus facts. Verified-saturated; SKIP-for-new-facts.
