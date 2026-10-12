@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # United Formosans for Independence UFI (台獨聯盟)
 
@@ -37,6 +37,15 @@ World United Formosans for Independence (WUFI) is a global advocacy organization
 - 遷台里程碑：1991-10-20 UFI 台獨聯盟將主要運作自美國成功遷至台灣、設置台灣總部——見 TAH 里程碑 #38 [[works/taiwaneseamericanhistory-org/milestones38|TAH 里程碑 38]]（與 1987 更名案分屬兩事：更名在前、總部遷設在後；上載 OJ 280 之 1990s「遷台餐會」敘事與此時間線相容）。
 - 洪哲勝辭世：2020-12-19 民主亞洲基金會會長、曾任台獨聯盟美國本部副主席之洪哲勝（本頁上載《台灣公論報》社長）於紐約辭世，享壽 81；獨盟舉辦追思會，國史館館長陳儀深、前台南市長張燦鍙等故友與會——見 [[articles/taiwanjustice-net/2022/20220228033245_2020_12_26_民主亞洲基金會會長洪哲勝辭世_獨盟辦追思會_44c486d870e08028|中央社報導存檔]]。
 - 史料保存：2021 年台獨聯盟史料 36 箱捐贈國立台灣歷史博物館並將數位化保存——見 [[articles/taiwanjustice-net/2021/20211025194333_tag_36箱台獨聯盟史料捐贈台史博_e162da3a35fcfbea|台史博捐贈報導存檔]]。
+
+- 休士頓支部與「台風吹」出版：台獨聯盟休士頓支部以 Concerned Taiwanese 名義於 1982-02-28 免費贈送《認識台灣選集》（24 篇、約 100 頁），宣揚台灣人意識為聯盟與熱心同鄉的重要使命——見 [[works/taiwaneseamericanhistory-org/ourjourneys307|Our Journeys 307]]。
+- Kansas Formosan Group 與 UFAI：1966-07-01 K-State 台灣留學生（呂天民、莊秋雄、陳希寬、黃石定、蔡一等）組成 Kansas Formosan Group，與日本台灣青年社、美國 UFI、Wisconsin 台灣問題研究會保持聯繫，為同年 6 月成立的 UFAI 基本社團之一；成員後進入聯盟費城支部參與《Directory of Formosans in North America》第二版（1969，收錄 5,331 名）編印——見 [[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys 58]]。
+- 紐約「台灣之音」與盟史勘誤：盟史稱台美斷交後聯盟設立紐約「台灣之音」與事實不符——該台斷交前已播送一年又八個月；斷交後聯盟曾動員紐約盟員以個人名義捐款，台獨聯盟盟史該日期需更正——見 [[works/taiwaneseamericanhistory-org/ourjourneys2|Our Journeys 2]]。HOLD: 「台灣之音」設立日期——盟史敘事 vs OJ 2 口述勘誤，未定論。
+- 北澤西為聯盟主要運作地區：聯盟主要人物多住北澤西、大型活動多於此舉辦；當地並有 FAPA 分會推動民間外交——見 [[works/taiwaneseamericanhistory-org/ourjourneys356|Our Journeys 356]]（英文版 [[works/taiwaneseamericanhistory-org/ourjourneys356-eng|Our Journeys 356 (EN)]]）。
+- 護照「福爾摩沙」聯席外交：CTIR、FAPA、FAHR、TAA、WUFI 等社團於聯席會議將護照出生地標註「Formosa/台灣」列為重點外交工作；1992 年 CTIR 蔡武雄以烏克蘭護照案例向白宮國安會包道格質問——見 [[works/taiwaneseamericanhistory-org/ourjourneys254|Our Journeys 254]]。
+- 黑名單與返台權：1990 年代 NATPA 年會前後，聯盟中央委員吳明基、美國本部副主席李應元仍留黑名單（李應元「隨軍翻牆入台」）；年會演說並質疑蔡同榮、陳唐山可返台而李應元被抓之雙重標準——見 [[works/taiwaneseamericanhistory-org/ourjourneys47|Our Journeys 47]]。
+- 聯盟刊物與紀念文獻：WUFI 出版《Taiwan Quarterly 台灣季刊》（[[works/taiwaneseamericanhistory-org/taiwan-quarterly|TAH Taiwan Quarterly]]）與《Independent Taiwan Quarterly 台獨季刊》（[[works/taiwaneseamericanhistory-org/independent-taiwan-quarterly|TAH Independent Taiwan Quarterly]]）；2015 聯盟五十週年盟員團圓會（許永華）——見 [[works/taiwaneseamericanhistory-org/148-e5-8f-b0-e7-8d-a8-e8-81-af-e7-9b-9f-e4-ba-94-e5-8d-81-e9-80-b1-e5-b9-b4-e7-9|TAH #148]]；美國本部文獻見 [[works/taiwaneseamericanhistory-org/ourjourneys234|Our Journeys 234]]、UFI 專文（Tsu-Yi Jay Loo）見 [[works/taiwaneseamericanhistory-org/ourjourneys126-eng|Our Journeys 126 (EN)]]。
+- 休士頓早期學生圈：張燦鍙（George Chang）1961–1965 在休士頓為學生群帶頭人物（Ford Falcon 載同鄉釣魚賞月），後任聯盟主席——見 [[works/taiwaneseamericanhistory-org/our-journeys-359|Our Journeys 359]]。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/united-formosans-for-independenceufi/)
