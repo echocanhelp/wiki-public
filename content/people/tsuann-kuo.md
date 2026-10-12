@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Tsuann Kuo (郭慈安博士)
 
@@ -59,6 +59,7 @@ _No filled family fields on the TAH profile._
 
 - 2026-10-10 re-grep (slice 10090500-5): fresh grep across works/articles/sources/events/topics — hit set unchanged (TAH #164/#255, works index, NATWA 2015, 228 episode, 正義通訊 newsletter pages, sources index). All hits are title lines or already-absorbed quote lines; other 郭/Kuo records in the corpus are different persons. Verified saturated — no new absorbable facts, no conflicts to HOLD.
 - 2026-10-11 re-grep (slice 10101300-2): fresh 5-dir grep (郭慈安／Tsuann Kuo／慈安) — two new name-substring hits inspected and rejected as different persons: 危慈安 (加州讀者, 2025-11 Waymo 自駕車報導) and a 2021-04 軍情局案 article matching only via unrelated 周天慈/慈安 substrings. Otherwise hit set unchanged. One absorbable fact added: TAH #255 is her own published essay/feature (value band B, 2015-02-02), not merely a second profile record. No conflicts to HOLD.
+- 2026-10-12 re-grep (slice 10120018-4): fresh 5-dir grep (郭慈安／Tsuann Kuo／慈安) — hit set unchanged (TAH #164/#255, works index, NATWA 2015, 228 episode, 正義通訊 newsletter pages, sources index); the two 慈安-substring articles (2025-11 危慈安 Waymo piece, 2021-04 軍情局案 via 周天慈) re-inspected and rejected as different persons. Verified saturated — no new absorbable facts, no conflicts to HOLD.
 
 ## Sources
 - [TAH #164 encyclopedia: 164. 郭慈安博士 Dr. Tsuann Kuo / 第一個老年學的 Ph.D. / 1991](https://taiwaneseamericanhistory.org/164-%e9%83%ad%e6%85%88%e5%ae%89%e5%8d%9a%e5%a3%ab-dr-tsuann-kuo-%e7%ac%ac%e4%b8%80%e5%80%8b%e8%80%81%e5%b9%b4%e5%ad%b8%e7%9a%84-ph-d-1991/)
