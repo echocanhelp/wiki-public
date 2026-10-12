@@ -8,7 +8,7 @@ tags:
   - tahs-leadership
   - entrepreneur
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Wang Gui-rong (王桂榮)
 
@@ -89,7 +89,8 @@ In 1997, he established the **Kenjohn Wang Scholarship** at the University of So
 ## Political Advocacy
 
 Wang was deeply involved in Taiwanese American political organizing. He served as:
-- President of **FAPA** (Formosan Association for Public Affairs), a lobby arm for Taiwanese Americans
+- Co-founder of **FAPA** (Formosan Association for Public Affairs), established in Los Angeles on 1982-02-14 with 蔡同榮 as first president ([[articles/taiwanjustice-net/2024/20240225024511_root_2d725102f4e64118|TJJ, 2024-02-25]]); he handled finances in the founding formation ([[works/taiwaneseamericanhistory-org/ourjourneys65-eng|Our Journeys #65]])
+- President of **FAPA**, a lobby arm for Taiwanese Americans (1989)
 - Member of the Finance Committee, Democratic National Committee (1989)
 - Appointed to the President's Advisory Board by President Chen Shui-bian (2004–2005)
 - Helped organize Taiwanese American political participation in U.S. electoral processes
@@ -118,6 +119,10 @@ He left behind two books, including his memoirs published in 1999. His three son
 - 1982-01-10 / 1982-02-13 — Tsai Tron-Rong's memoir of the founding of FAPA records the 15-person Los Angeles meeting that grew out of George Chang's WUFI radio-station initiative: after the radio plan was shelved, the group resolved to form a diplomatic organization. Kenjohn Wang attended as one of the 15, and — described as "President of the Chamber of Commerce" — "was responsible for finances" in the founding formation, alongside Mark Chen (vice-president), Tu Chen (organizing), and consultants Peng Ming-min, Ong Iok-tek, Kuo Yu-hsin, Kuo Rung-chu and Huang Chang-hui. HOLD: this founding-era finance role vs the page's "President of FAPA (1989)" — likely successive roles, not merged ([[works/taiwaneseamericanhistory-org/ourjourneys65-eng|Our Journeys #65, Tsai Tron-Rong memoir]]).
 - 2016-04-22 — Bibliographic record of the 王桂榮台美文教基金會得獎人名單 (TAF laureate list) preserved in the corpus ([[works/taiwaneseamericanhistory-org/winners20|winners20, 2016-04-22]]).
 - 2005-10 — Biography work "一位台美人的奮鬥傳奇／王桂榮" catalogued in the taiwaneseamericanhistory.org corpus, distinct from the 1999 memoir noted above ([[works/taiwaneseamericanhistory-org/3-e4-b8-80-e4-bd-8d-e5-8f-b0-e7-be-8e-e4-ba-ba-e7-9a-84-e5-a5-ae-e9-ac-a5-e5-82-|一位台美人的奮鬥傳奇, 2005-10]]).
+- 1982-02-14 — A TJJ historical essay on the overseas Taiwanese independence movement records that 彭明敏, 蔡同榮, **王桂榮** and 陳唐山 founded FAPA (Formosan Association for Public Affairs) in Los Angeles on 1982-02-14, with 蔡同榮 as first president — consistent with the 15-person founding meeting (1982-01-10/02-13) recorded in Tsai Tron-Rong's memoir above, where Wang held the finance role ([[articles/taiwanjustice-net/2024/20240225024511_root_2d725102f4e64118|TJJ, 2024-02-25]]).
+- 2018-08-15 — TAHS announced the first installment of its 台美典範人物故事系列座談會 series (held 2018-08-25) as "王桂榮先生的故事" — Wang is the inaugural subject of the TAHS exemplary-figures talk series at the LA Taiwan Center ([[articles/taiwanjustice-net/2024/20240221114044_root_8bf4798dd2771f38|TJJ, 2024-02-21 snapshot]]).
+- 2020-02-16 — The LA Taiwan Center operates a **王桂榮紀念圖書館** (Kenjohn Wang Memorial Library) hosting a film-sharing series, first listed screening 《不能沒有你》 on 2020-02-16 — a living memorial to Wang within the Center he donated ([[articles/taiwanjustice-net/2024/20240425121639_root_377fb478073895a8|TJJ, 2024-04-25 snapshot]]).
+- 2020-11-17 — Notice for the 大洛杉磯台灣會館基金會 22nd-anniversary online fundraising gala reiterates that 洛杉磯台美人 built the Center in 1998 through permanent honorary chairman 王桂榮 and wife 王賽美's donation of the land and building, and records the 2018 rebuilding campaign ($11M target, ~$6M pledged) led by then-chairman 田詒鴻 with CEO 林榮松 ([[articles/taiwanjustice-net/2020/20201126160218_2020_11_17_大洛杉磯台灣會館基金會22週年線上募款年會12-5舉行_c3e762826a7e42d2|TJJ, 2020-11-17]]).
 
 ## Network
 
