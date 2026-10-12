@@ -7,7 +7,7 @@ tags:
   - TAHS
   - historical-preservation
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 
 # Taiwanese American Historical Society (TAHS)
@@ -78,7 +78,7 @@ Not on the 2025 paper org chart. Owner-confirmed for public leadership listing (
 - 2017 — TAHS community site-visit series recorded in taiwanjustice.net category archives: 「蔡開倫(Kai Tsai)先生的百香果王國參觀記」 (2017-09-13) and 「Gina Lai 創造的世外桃源——參訪 Escondido 瑜珈禪園」 (2017-05-05) ([[articles/taiwanjustice-net/2017/20171109043038_category_gardenning_0c56e79f9989639c||taiwanjustice.net, 2017-11-09]]). *(HOLD: 蔡開倫 / Gina Lai have no existing person pages; no slugs invented.)*
 
 ## Related archives
-- [[organizations/tah-foundation||TAH Foundation (台美史料中心)]] — sibling organization; runs [taiwaneseamericanhistory.org](https://taiwaneseamericanhistory.org/). Not TAHS and not the 2017/2023 TAHS yearbooks（见 [[sources/2023-tahs-publication||2023 TAHS Publication]]）.
+- [[organizations/tah-foundation||TAH Foundation (台美史料中心)]] — sibling organization; runs [taiwaneseamericanhistory.org](https://taiwaneseamericanhistory.org/). Not TAHS and not the 2017/2023 TAHS yearbooks（见 [[sources/2017-tahs-publication||2017 TAHS Publication]]、[[sources/2023-tahs-publication||2023 TAHS Publication]]）.
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org source hub]]
 
 ## Related Pages
