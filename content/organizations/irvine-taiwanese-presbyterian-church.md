@@ -11,7 +11,7 @@ tags:
   - Long-term Care
   - Senior Education
 verification_status: published
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Irvine Taiwanese Presbyterian Church (爾灣台灣基督長老教會 / ITPC)
 
@@ -39,6 +39,7 @@ ITPC is a hub of the Taiwanese immigrant and retiree community in Orange County,
 - **2022-05-15 church shooting** — during a post-service lunch of ~40 congregants, a gunman (周文偉, a fellow Taiwanese immigrant) chained the doors and opened fire; visiting physician **John Cheng (鄭達志)** was killed shielding worshippers, and Rev. [[people/zhang-xuanxin||Zhang Xuanxin (張宣信)]] subdued the shooter with a chair mid-clip ([[works/taiwaneseamericanhistory-org/our-journeys-380|TAH #380, 2022/05]]; [[works/taiwaneseamericanhistory-org/910-carnegie-hero-fund-commission-john-cheng-and-billy-chang-09-2024|TAH #910 — Carnegie Hero Fund honoring Dr. Cheng and Billy Chang, 2024-09]]; [[works/taiwaneseamericanhistory-org/artist36-john-cheng|artist record: John Cheng]]; survivor account [[articles/taiwanjustice-net/2025/20250212080020_一把椅子制伏槍手-南加州教會槍擊案目擊者_勇敢_4a1c41c54468c213|Taiwan Justice, 2025-02-12]]; community grief statement [[works/taiwaneseamerican-org/laguna-woods-taiwanese-church-shooting|We grieve the May 15th Shooting]]). Member 陳建文's eyewitness account is in the Taiwan Justice report.
 - **Pastoral timeline** — HOLD: conflict — this page and [[people/li-furen]] both give Rev. Li Fu-Jen's start as **August 2025**, but [[people/li-furen]] also records Zhang Xuanxin leaving in **June 2020** after 21 years, with Chen Meihui called to continue ministry in between. Dates not auto-merged.
 - **Church records** — activity photos from 2015 onward ([[works/taiwaneseamericanhistory-org/photo-albums-activities-62|2015/03]], [[works/taiwaneseamericanhistory-org/irvine-taiwanese-presbyterian-church-activity|church activity record]]) and the church's own identity record ([[works/taiwaneseamericanhistory-org/irvine-taiwanese-presbyterian-church|2016]]).
+- **Concert venue (2012)** — the **Los Angeles Formosan Master Chorale** performed Vivaldi's "Gloria" at ITPC on **2012-12-16** (with a joint service at Evangelical Formosan Church, Orange County, 2012-12-09) — the earliest dated ITPC appearance in the corpus, consistent with the founding-around-2012 account ([[works/taiwaneseamericanhistory-org/17-los-angeles-formosan-master-chorale|TAH #17, LA Formosan Master Chorale]]).
 
 ---
 
