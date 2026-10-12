@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Jeffrey Tsung (鄭瑞雄醫師)
 
@@ -66,3 +66,4 @@ last_reviewed: 2026-10-11
   - 覆核（deepen-x slice 09150700-4）：命中集合 = 本人自身语料 + 上列新吸收五檔親筆 + 兩檔他人記述 + index，全數吸收完畢；無衝突日期需 HOLD，verification 仍待對照 TAH 原頁。
 - deepen-x 10090500-20（2026-10-10 覆核）：再 grep（鄭瑞雄／Jeffrey Tsung／Tsung 全五 corpus dirs）命中集合不變 — 全數為本人已連結自身语料（#11/#61/#114/#273/#314/#587/#938/#1203/#209/#211/#216/#212、photo-albums-61、ourjourneys101/#291）或姓名相近他人（張瑞雄牧師 — 張姓牧師，非本人；曾碧光 Tsung、蔡長龍 Long Tsung Tsai 等 Tsung-* 假陽性）。維持 **SKIP（無未吸收社群材料）**，無衝突需 HOLD。
 - deepen-x 10101300-32（2026-10-11 覆核）：全五 corpus dirs 再 grep（鄭瑞雄／Jeffrey Tsung／Tsung）命中集合不變 — 本人已連結自身语料全數在連結中，其餘命中經逐檔驗證皆為 Tsung-* 假陽性（廖宗明 Tsung-ming Liao、林宗義 Tsung-yi Lin、吳政忠 Wu Tsung-tsong、黃宗文 Tsung-wen Huang 等，皆非本人）。維持 **SKIP（無未吸收社群材料）**，無衝突需 HOLD，verification 仍待對照 TAH 原頁。
+- deepen-x 10120100-23（2026-10-12 覆核）：全五 corpus dirs 再 grep 命中集合不變。新連結一檔此前僅以外鏈形式存在於 Sources 的 vault work 頁：[[works/taiwaneseamericanhistory-org/178-dr-jeffrey-tsung-e9-84-ad-e7-91-9e-e9-9b-84-e9-86-ab-e5-b8-ab-e7-ac-ac-e4-b8|TAH #178 Dr. Jeffrey Tsung 鄭瑞雄醫師／第一位台美人動物標本製作家／1970]]（2016-02-10，band B，本人為其 Subjects 記述對象）— 與上方「第一位台美人動物標本製作家」身分記述互證。其餘命中皆已連結或為 Tsung-* 假陽性。無衝突需 HOLD，verification 仍待對照 TAH 原頁。
