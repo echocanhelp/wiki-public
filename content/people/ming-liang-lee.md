@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Prof. Ming Liang Lee (李明亮)
 
@@ -172,3 +172,5 @@ TAH records held in this vault:
 <!-- DEEPEN-X-10102300-18: verified 2026-10-11 — fresh ZH+EN grep (李明亮/Ming Liang Lee/李明) across works/articles/sources/events/topics: 6 files hit; 3 (our-journeys-378 李明雄, ourjourneys313 李明輝, videos72 李明典) are different persons, false positives; 4 real corpus works (#895/#896/#1234/#897/#40) all already wikilinked in Role in the Community — saturated, no new material. -->
 
 <!-- TJJ-A10110001-18: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110001-18 article 77b0891ec24689f9 (週末漫談音樂(88)「信雅古典音樂珍藏」啟用儀式致詞全文, TJJ 發文 2021-10-16／快照 2021-12-07) read fresh this attempt: 「醫學院同班同學李明亮醫師從台北專程來台南代表我們參加儀式」re-checked vs 正文, real, no wrong/spurious links; 2021-10-15 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X-10120200-18: verified 2026-10-12 — fresh ZH+EN grep (李明亮/Ming Liang Lee) across works/articles/sources/events/topics: 27 strict hits; all 18 substantive corpus works + 6 TJJ articles already wikilinked in Timeline/From the record/Role in the Community. Unlinked remainder = tag-archive page 2f07d94d (no unique facts beyond 44b4d73c, already cited), MANIFEST.jsonl, sources stub. Surname-only hits (our-journeys-378 李明雄 / ourjourneys313 李明輝 / videos72+priv-84 李明典 / my-stories-880 李明東) are different persons — false positives. Saturated, no new material. -->
