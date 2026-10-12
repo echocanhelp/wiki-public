@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Formosa Foundation
 
@@ -62,3 +62,5 @@ _Corpus re-scan 2026-09-27 (slice 09260700-3): fresh grep (Formosa Foundation, w
 _Corpus re-scan 2026-10-09 (slice 10080951-7): fresh ZH+EN grep (Formosa Foundation／福爾摩莎基金會／福爾摩沙基金會／Li-Pei Wu, works+articles+sources+events+topics) surfaced 4 previously-unabsorbed records, now absorbed above: the 2011 Community Roundtable (Rosemead), the ACT-interview mention of the foundation alongside FAPA in D.C. advocacy ([[works/taiwaneseamerican-org/heart-and-soul-introducing-american-citizens-for-taiwan|Heart and Soul: Introducing American Citizens for Taiwan]]), Nikki DePaola's multi-org alumni trail, and the ambassador-program first-person testimony. Li-Pei Wu grep hits resolve to his own TAHS records (works 26/27/628 — TACL presidency, Taiwanese American Bank CEO, who's-who), not new foundation facts. HOLDs unchanged._
 
 _Corpus re-scan 2026-10-10 (slice 10100315-15): fresh ZH+EN grep (Formosa Foundation／福爾摩莎基金會／福爾摩沙基金會, works+articles+sources+events+topics) returned 22 hits; 5 previously-unabsorbed records now absorbed above — the 2011/2012/2013/2014 annual ambassador-program application calls (program continuity 2010–2015) and the survey-history positioning of the foundation alongside FAPA in the post-1980s institution-building wave. All other hits already linked. HOLDs (farewell-vs-camp sequence, 莎/沙 hanzi) unchanged._
+
+_Corpus re-scan 2026-10-12 (slice 10102300-20): fresh ZH+EN grep (Formosa Foundation／福爾摩莎基金會／福爾摩沙基金會／福爾摩莎／福爾摩沙, works+articles+sources+events+topics) — the 福爾摩沙-only hits are false positives (PCT choir works 71/13/14, work 1076 福爾摩沙的自我追尋, ourjourneys241 concert write-up — none are the foundation); exact-phrase hits are all already-linked records (works 5/41/77, ambassador calls 2010–2015, formosa-betrayed, farewell, roundtable, gala, Berman forum, Li-Pei Wu, ACT/Nikki/finding-myself/story-history, index, sources hub). No new facts; SKIP-saturated. HOLDs (farewell-vs-camp sequence, 莎/沙 hanzi) unchanged._
