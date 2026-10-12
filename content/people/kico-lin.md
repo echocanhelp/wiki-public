@@ -75,3 +75,5 @@ last_reviewed: 2026-10-10
 - Corpus re-grep 2026-10-11 (slice 10100601-18): hits（林貴香／Kico）仍僅 [[works/taiwaneseamericanhistory-org/whos-who-1729-kico-lin|TAH #1729]]、works index、sources 頁與已吸收的兩篇 TJJ 文章；hit set identical — 驗證已飽和 — SKIP-with-reason。
 
 <!-- TJJ-A10100601-18: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-18 article 43b81b6b 世台基金會公益晚宴報導（世台副董事長與會名單確認見於正文）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10110201-23: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110201-23 article 43b81b6b892fea96 世台基金會公益晚宴報導（世台副董事長林貴香與會名單確認見於正文）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
