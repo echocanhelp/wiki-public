@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Peter Tsai (蔡秉燚博士)
 
@@ -50,6 +50,7 @@ _No filled family fields on the TAH profile._
 
 - _Corpus re-scan 2026-09-24 (slice 09230500-3): fresh grep of works/articles for 蔡秉燚/Peter Tsai returns the same hit set (my-stories-728, firstfamous-390, whos-who-2252, peter-tsai-n95-inventor, TJJ clippings) plus the separate person page ho-yangpeter-tsai — all absorbed above; verified saturated._
 - _Corpus re-scan 2026-10-11 (slice 10101205-17): 5-dir grep for 蔡秉燚/Peter Tsai/蔡秉彝 — the additional hits (publications112, whoswho1656, publications-111, whoswho1311) are all false positives matching only the namesake wikilink `ho-yang` ([[people/ho-yangpeter-tsai|Ho-Yang Peter Tsai 蔡和陽]] / 楊千鶴 — a different person). No new material; verified saturated._
+- _Corpus re-scan 2026-10-12 (slice 10112300-14): fresh 5-dir grep (蔡秉燚/Peter Tsai/蔡秉彝) returns the identical hit set (my-stories-728, firstfamous-390, whos-who-2252, peter-tsai-n95-inventor, TJJ clippings, works/index) plus the separate namesake person page ho-yangpeter-tsai — all absorbed above; verified saturated._
 
 ## Sources
 - [TAH #2252 encyclopedia: 2252. Dr. Peter Tsai 蔡秉燚博士](https://taiwaneseamericanhistory.org/whos-who-2252-peter-tsai/)
