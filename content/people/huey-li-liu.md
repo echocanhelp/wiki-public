@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Huey Li Liu (劉惠麗)
 
@@ -80,3 +80,5 @@ last_reviewed: 2026-10-11
 Corpus re-grep 2026-10-10 (deepen-x slice 10081300-10): fresh ZH+EN grep 劉惠麗 / Huey Li Liu / 惠麗 across all 5 corpus dirs (works/articles/sources/events/topics) returned the unchanged saturated set — My Stories #503/#745/#761, Publications #1046 台美人生命腳跡, collection #77, own Who's Who #1479, and the 2018-07-20 台大校友連署公開信 (劉惠麗(心理), already linked above). The 2022-11-27 金馬獎第58屆得獎名單 hit is 廖惠麗 (緝魂 make-up crew), a different person — false positive, not absorbed. SKIP: verified-saturated, no new corpus material.
 
 Corpus re-grep 2026-10-11 (deepen-x slice 10100900-29): fresh ZH+EN grep 劉惠麗 / Huey Li Liu / 惠麗 across all 5 corpus dirs (works/articles/sources/events/topics) returned the unchanged saturated hit set — My Stories #503/#745/#761, Publications #1046 台美人生命腳跡, collection #77, own Who's Who #1479, plus the 2018-07-20 台大校友連署公開信 already linked above. SKIP: verified-saturated, no new corpus material.
+
+Corpus re-grep 2026-10-12 (deepen-x slice 10110600-30): fresh ZH+EN grep 劉惠麗 / Huey Li Liu / 惠麗 across all 5 corpus dirs (works/articles/sources/events/topics) returned the unchanged saturated hit set — My Stories #503/#745/#761, Publications #1046 台美人生命腳跡, collection #77, own Who's Who #1479, plus the 2018-07-20 台大校友連署公開信 already linked above. The 2022-11-27 金馬獎 hit remains 廖惠麗 (different person). SKIP: verified-saturated, no new corpus material.
