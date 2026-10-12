@@ -68,6 +68,8 @@ _No filled family fields on the TAH profile._
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - 複核 2026-09-24 (DEEPEN-X slice 09230400-2): fresh ZH+EN corpus re-grep (content/works content/articles) hit set identical to prior check; all hits already linked on this page; no new memoir or club material absorbable. verified-saturated.
 
+<!-- TJJ-A10110201-28: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110201-28 article 1f001897255f71a7 (《好國好民》美國各地放映座談會公告, 2011-11-08刊/2024-07-19快照): 鍾佳君以本片英文翻譯身分（與張皓博）主持全美放映座談會並攜DVD至現場 re-checked vs 正文 this attempt, real, no wrong/spurious links; 2011-11-08 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 <!-- TJJ-A09260500-4: verified 2026-09-27 — slice articles 69b4f44f9c019bd5 / 760a0bc942e1676b / 097b5750fcf3091a / 1f001897255f71a7 re-checked vs 正文; subject links all real (paul-chen = 會館董事長 陳柏宇 per TAH #1788 owner ruling), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A09260500-11: verified 2026-09-27 — slice articles re-checked vs 正文; subject link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. --> slice b5e568ec43e787f1 好國好民巡迴公告
