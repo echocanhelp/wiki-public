@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Wen S. Charlie Chern (陳文雄博士)
 
@@ -96,5 +96,5 @@ Story-corpus essays under the byline 陳文雄, consistent with his T.A. Archive
 - [[works/taiwaneseamericanhistory-org/mystories427|TAH #427: 七年抗爭及控告台電的紀實 (04/2016)]] — seven-year struggle and lawsuit against Taipower, as recorded.
 - [[works/taiwaneseamericanhistory-org/publications1035|TAH #1035: 矽谷成功經濟學 (03/2016)]] — co-authored with 童振源 and 方頌仁.
 
-- HOLD: name collision with the Bay Area entrepreneur — [[works/taiwaneseamericanhistory-org/ourjourneys216|#216]] names a Silicon Valley "陳文雄 (Winston Chen)" who founded Compression Lab (1976) and joined Solectron (1978), and [[works/taiwaneseamericanhistory-org/ourjourneys38|#38]] / [[works/taiwaneseamericanhistory-org/ourjourneys37|#37]] list a 陳文雄 among 協志會 and 蓬萊歌劇團 figures. The biography on this page (Univ. of Florida 1969 → Florida Dept. of Citrus 1973–74 → Oak Ridge 1974–81) does not place him in the Bay Area in those years, so the entrepreneur and the 協志會/歌劇團 references are NOT merged into this page without verification.
+- HOLD: name collision with the Bay Area entrepreneur — [[works/taiwaneseamericanhistory-org/ourjourneys216|#216]] names a Silicon Valley "陳文雄 (Winston Chen)" who founded Compression Lab (1976) and joined Solectron (1978), and [[works/taiwaneseamericanhistory-org/ourjourneys38|#38]] / [[works/taiwaneseamericanhistory-org/ourjourneys37|#37]] list a 陳文雄 among 協志會 and 蓬萊歌劇團 figures; [[works/taiwaneseamericanhistory-org/ourjourneys106|#106]] further lists a 陳文雄 among the 歷任協志會會長 described as 黑名單上的人物. The biography on this page (Univ. of Florida 1969 → Florida Dept. of Citrus 1973–74 → Oak Ridge 1974–81) does not place him in the Bay Area in those years, so the entrepreneur and the 協志會/歌劇團 references are NOT merged into this page without verification.
 - HOLD: [[works/taiwaneseamericanhistory-org/ourjourneys299|#299]] records a "陳文雄博士" as 長輩會 (Senior Citizens' Association) 永遠名譽會長 since 1988 — plausible for the same doctor but unconfirmed; recorded as-is.
