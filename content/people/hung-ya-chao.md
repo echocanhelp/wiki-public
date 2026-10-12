@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Hung Ya Chao (趙弘雅)
 
@@ -73,3 +73,7 @@ last_reviewed: 2026-10-11
 ## Corpus re-check (slice deepen-x-10101200-17, 2026-10-11)
 
 全語料重掃（works/ + articles/ + sources/ + events/ + topics/）：ZH 全名「趙弘雅」、EN "Hung Ya Chao"、surname-only 與變體romanization（Hung-Ya/Hungya/Chao.*Hung）皆重跑；命中僅本人自有 TAH 書目記錄（#183–185、#195–196 與 #1352 條目，均已 wikilink 於上）與索引頁。寬鬆 regex 另命中 ourjourneys 紀念文與 TCC 捐款/顧問名單等處，經逐一比對皆為形近他人（如 Hung-yen Su、Chi-yu Chao、Shih-min Chao 等），非本人。memoir 語料無新社群事實——SKIP-with-reason，無衝突需 HOLD。
+
+## Corpus re-check (slice deepen-x-10110805-17, 2026-10-12)
+
+全語料重掃（works/ + articles/ + sources/ + events/ + topics/，ZH「趙弘雅」／「弘雅」＋ EN "Hung Ya Chao"）：命中無變——僅本人六篇 TAH 書目記錄（#183–185 宗教系列、#195–196 台灣話ABC）與 #1352 Who's Who 條目（均已 wikilink 於上）與索引頁。memoir 語料無新社群事實——SKIP-with-reason，無衝突需 HOLD。
