@@ -10448,3 +10448,5 @@ Notable quotes and mentions of **廖清山** in Taiwan Justice articles:
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20191018065315）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
 
 <!-- TJJ-A10100501-23: verified 2026-10-11 — wave-2 link+deepen re-check (slice 10100501-23) article taiwanjustice-net/index (存檔索引頁) read fresh this attempt: subject link re-checked vs 正文 — Key Entities Column Authors 列名「Liao Qing-shan (廖清山) — 37 articles」見於正文 — real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10110102-22: verified 2026-10-12 — wave-2 link+deepen re-check (slice 10110102-22) article taiwanjustice-net/index (存檔索引頁) read fresh this attempt: subject link re-checked vs 正文 — 列名於正文 Key Entities Column Authors「Liao Qing-shan (廖清山) — 37 articles」 — real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -199,3 +199,5 @@ Notable quotes and mentions of **黃樹人** in Taiwan Justice articles:
 <!-- TJJ-A10070700-5: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-5 article taiwanjustice-net/index (存檔索引頁): subject link(s) re-checked vs 正文 this attempt (列名於 Key Entities／Column Authors), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100501-23: verified 2026-10-11 — wave-2 link+deepen re-check (slice 10100501-23) article taiwanjustice-net/index (存檔索引頁) read fresh this attempt: subject link re-checked vs 正文 — 正文開篇以「by Freeman Huang (黃樹人)」標明其為該存檔發行人見於正文 — real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10110102-22: verified 2026-10-12 — wave-2 link+deepen re-check (slice 10110102-22) article taiwanjustice-net/index (存檔索引頁) read fresh this attempt: subject link re-checked vs 正文 — 發行人黃樹人見於正文開篇「a Taiwanese-American news and opinion publication by Freeman Huang (黃樹人)」 — real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
