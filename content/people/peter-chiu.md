@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Peter Chiu (邱勝宗)
 
@@ -129,3 +129,5 @@ last_reviewed: 2026-10-11
 <!-- TJJ-A10100801-4: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-4 article 8bf4798dd2771f38 (大洛杉磯台灣會館 popular 分類頁, 2024-02-21 快照) read fresh this attempt: subject link 邱勝宗 re-checked vs 正文 — 「Sadako與Peter Chiu(邱勝宗夫婦)講EM酵素及製作@20170924」條目確認見於正文, real, no wrong/spurious links; 2017-09-24 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10110001-24: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110001-24 article 0c56e79f9989639c (園藝 category 頁, 2017-11-09快照) read fresh this attempt: 「Sadako與Peter Chiu(邱勝宗夫婦)講EM酵素及製作@20170924」條目確認見於正文, subject link real, no wrong/spurious links; 2017-09-24 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10110100-30: verified 2026-10-12 — fresh ZH+EN grep (邱勝宗/Peter Chiu/勝宗) across works/articles/sources/events/topics: 18 files hit, hit set identical to all prior passes (ourjourneys244 兼職經理記載, ourjourneys283 同鄉會負責人, whos-who-2246 傳記條目, TJJ 園藝/會館/追思會/訃聞/2018連署/2025重刊 records); every hit already linked on this page; MANIFEST.jsonl and works/index.md hits are index-only. No new memoir, club, or report material — verified-saturated, no conflicts to HOLD. -->
