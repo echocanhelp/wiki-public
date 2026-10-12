@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Prof. Chen-Chong Lin (林建中教授)
 
@@ -59,6 +59,7 @@ Prof. Chen-Chong Lin 林建中教授 – History of Taiwanese American (T.A. Arc
 - [[works/taiwaneseamericanhistory-org/collection-of-prof-chen-chong-lin||59. Collection of Prof. Chen-Chong Lin 林建中教授的收藏]] — TAH archival collection
 - [[works/taiwaneseamericanhistory-org/21-prof-chen-chong-lin||21. Prof. Chen-Chong Lin 林建中教授]] — TAH encyclopedia #21
 - [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-5||5. Prof. Chen-Chong Lin 林建中教授]] — TAH encyclopedia #5 (senior Taiwanese American)
+- [[works/taiwaneseamericanhistory-org/pride20||20. Prof. Chen-Chong Lin 林建中教授]] — TAH encyclopedia #20 (2018, pride series)
 - [[works/taiwaneseamericanhistory-org/publications1165||1165. 科學與宗教 / 林建中 /04/2000/Life/生活]]
 - [[works/taiwaneseamericanhistory-org/publications1164||1164. 長壽而健康的人生 / 林建中 /03/1990/Life/生活]]
 - [[works/taiwaneseamericanhistory-org/publications1166||1166. 現代人生哲學 / 林建中 /01/2002/Life/生活]]
@@ -85,7 +86,7 @@ Prof. Chen-Chong Lin 林建中教授 – History of Taiwanese American (T.A. Arc
 ## Archival & Encyclopedia Record
 
 - **Archival collection:** [[works/taiwaneseamericanhistory-org/collection-of-prof-chen-chong-lin||Collection of Prof. Chen-Chong Lin 林建中教授的收藏]] — 他捐贈給 TAH 的檔案收藏
-- **Encyclopedia entries:** [[works/taiwaneseamericanhistory-org/21-prof-chen-chong-lin||TAH encyclopedia #21]]、[[works/taiwaneseamericanhistory-org/senior-taiwanese-american-5||TAH encyclopedia #5]]、本地 Who's Who 副本 [[works/taiwaneseamericanhistory-org/whos-who-1987-chen-chong-lin||TAH Who's Who 1987]]
+- **Encyclopedia entries:** [[works/taiwaneseamericanhistory-org/21-prof-chen-chong-lin||TAH encyclopedia #21]]、[[works/taiwaneseamericanhistory-org/senior-taiwanese-american-5||TAH encyclopedia #5]]、[[works/taiwaneseamericanhistory-org/pride20||TAH encyclopedia #20 (pride series, 2018)]]、本地 Who's Who 副本 [[works/taiwaneseamericanhistory-org/whos-who-1987-chen-chong-lin||TAH Who's Who 1987]]
 - **著作（十冊，TAH publications 線）：** [[works/taiwaneseamericanhistory-org/publications1164||長壽而健康的人生 (1990)]]、[[works/taiwaneseamericanhistory-org/publications1165||科學與宗教 (2000)]]、[[works/taiwaneseamericanhistory-org/publications1166||現代人生哲學 (2002)]]、[[works/taiwaneseamericanhistory-org/publications1167||聖經現代釋義 (2005)]]、[[works/taiwaneseamericanhistory-org/publications1168||林建中八秩回憶錄 (2007, 自傳)]]、[[works/taiwaneseamericanhistory-org/publications1169||The Rationality of Christian Doctrines (2009)]]、[[works/taiwaneseamericanhistory-org/publications1170||Christianity on the 21st Century (2011)]]、[[works/taiwaneseamericanhistory-org/publications1171||二十一世紀基督教–永今神學 (2011)]]、[[works/taiwaneseamericanhistory-org/publications1232||現代基督教論辯 (2014)]]、[[works/taiwaneseamericanhistory-org/publications1172||神創造的奧祕與真相——科學者神學導論 (2017)]]
 - **Career arc（自本頁 Employment 摘要）：** 台大化工系主任（1968–1981）→ 慕尼黑工業大學、LSU 訪問教授 → NJIT 化工與化學教授（1982–1988）→ 交大應用化學與材料科學教授（1988–1995）
 
