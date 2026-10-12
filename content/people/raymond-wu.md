@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-12
 ---
 # Raymond Wu (吳瑞信)
 
@@ -56,6 +56,7 @@ _No filled family fields on the TAH profile._
 
 - 複核（deepen-x slice 09211300-7，2026-09-22）：re-grep 吳瑞信 / Raymond Wu 命中集不變（ourjourneys76 / -eng、ourjourneys253、ourjourneys186、ourjourneys70、ourjourneys173、projects8-20、whoswho1106、mystories440）— 全數已吸收，HOLD（TA magazine 訪談同名人物）維持不併入，saturated，SKIP。
 - 複核（deepen-x slice 09220800-5，2026-09-22）：re-grep 命中集不變（ourjourneys253、ourjourneys76/-eng、ourjourneys186、whoswho1106、projects8-20 及索引行）— 全數已引用，saturated，SKIP-with-reason。
+- 複核（deepen-x slice 10110000-30，2026-10-12）：re-grep 吳瑞信 / Raymond Wu 命中集與前次完全相同（ourjourneys76/-eng、253、186/-eng、70、173、283、projects8-20、whoswho1106、mystories440、ff289、healthy-living-and-eating、sources/works index）— 全數已引用； surname-only 廣搜「瑞信」命中皆為瑞士信貸（Credit Suisse）報導，非本人；HOLD（TA magazine 同名醫師）維持不併入，saturated，SKIP。
 - 複核（deepen-x slice 10080958-17，2026-10-09）：re-grep 吳瑞信 / Raymond Wu 命中集與前次相同（ourjourneys76/-eng、253、186/-eng、70、173、283、projects8-20、whoswho1106、mystories440、ff289、healthy-living-and-eating、sources index）— 新增吸收 3 條：ff289 由純 URL 升級為正文 wikilink、ourjourneys173-eng 英文版 R. S. Wu 顧問團記錄（含二位/三位律師 HOLD）、雄中校友會 org 頁交叉連結（雄中校友網絡軼事，非社員身分斷言）；HOLD（TA magazine 同名醫師）維持不併入。
 
 ## Sources
