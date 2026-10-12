@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Taiwanese Sporting Association, New Jersey (紐澤西台灣人運動協會)
 
@@ -41,3 +41,4 @@ The Taiwanese Sporting Association of New Jersey is a community organization cen
 > Re-verify 2026-10-08 (deepen-x slice 10062334-9): fresh ZH+EN grep (紐澤西台灣人運動協會/Taiwanese Sporting Association) of works/ + articles/ + sources/ + events/ + topics/ — hit set unchanged (own record, ourjourneys356 +eng, sources index); all already wikilinked. Verified saturated; SKIP-with-nothing-absorbable.
 > Re-verify 2026-10-09 (deepen-x slice 10080600-18): fresh ZH+EN+surname grep (紐澤西台灣人運動協會 / Taiwanese Sporting Association / Sporting Association) of works/ + articles/ + sources/ + events/ + topics/ — hit set unchanged (own record, ourjourneys356 +eng, works/index, sources index); all already wikilinked. Verified saturated; nothing new absorbable.
 > Re-verify 2026-10-10 (deepen-x slice 10091500-9): fresh ZH+EN grep across works/ + articles/ + sources/ + events/ + topics/ — exact hit set unchanged (own record, ourjourneys356 +eng, works/index, sources index); all absorbed. Broadened probe (台灣人運動協會 / Sports Association / sporting assoc) surfaced only the distinct NorCal 台灣文化體育協會 records, now wikilinked as disambiguation above. Verified saturated; nothing new absorbable.
+> Re-verify 2026-10-11 (deepen-x slice 10102129-11): fresh ZH+EN grep (紐澤西台灣人運動協會 / Taiwanese Sporting Association / Sporting Association) across works/ + articles/ + sources/ + events/ + topics/ — exact hit set unchanged (own record, ourjourneys356 +eng, works/index, sources index); all already wikilinked. Broadened probe again surfaced only the distinct NorCal TCSA records (already disambiguated above). Verified saturated; nothing new absorbable.
