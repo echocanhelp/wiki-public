@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # S. Y. Chang (張信義)
 
@@ -99,4 +99,7 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10100501-2: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-2 article f06677a469620539 (卓甫良與TAF的故事, 楊遠薰, 2021-06-22 刊, 2021-12-05 快照): 張信義任TAF第二任會長（1983年起，1983–84主題認同）re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- DEEPEN-X10100600-30: verified 2026-10-11 — fresh grep 張信義／S. Y. Chang／Sidney Chang across works+articles+sources+events+topics returned 11 files (OJ #33-eng/#74/#74-eng/#79/#377, whoswho1651, TJJ 楊遠薰 reprints 2021/2024/2025, works/index, sources/taiwaneseamericanhistory-org). One new absorbable fact: OJ #74-eng credits Sidney Chang's vision for the Junior & JH Groups' Art and Musical programs — absorbed into From the record. English-name HOLD (S. Y. Chang vs Sidney Chang) stands. -->
+
+
+<!-- DEEPEN-X10110315-1: verified 2026-10-12 — fresh grep 張信義／S. Y. Chang／Sidney Chang across works+articles+sources+events+topics returned 11 files (OJ #33-eng/#74/#74-eng/#79/#377, whoswho1651, TJJ 楊遠薰 reprints 2021/2024/2025, works/index, sources/taiwaneseamericanhistory-org); every hit resolves to a record already linked above. Broader surname sweep (Chang across OJ files) surfaced only Tina Chang, May-Sing Chang et al. — different persons, no new material. SKIP-with-reason: 語料已飽和; English-name HOLD (S. Y. Chang vs Sidney Chang) stands. -->
 
