@@ -20,6 +20,10 @@ Li Fu-Jen serves as the current pastor of the Irvine Taiwanese Presbyterian Chur
 
 Li succeeded [[people/zhang-xuanxin||Zhang Xuanxin (張宣信)]], who left ITPC in June 2020 after twenty-one years of service. Following Zhang's departure, [[people/chen-meihui||Chen Meihui (陳美蕙)]] was called to continue pastoral ministry at the church. Li Fu-Jen is now listed as the current ITPC pastor.
 
+## From the record
+
+- 2022-05-16 — LA Times/CNA 綜合報導：槍擊案當日其因獲邀到外地演講缺席，教會教友乃邀請自台灣返美探視父母的前主任牧師張宣信代理講道並主持活動（李輔仁時為爾灣台灣基督長老教會現任牧師）；報導並記其「台福」牧會背景標籤（[[articles/taiwanjustice-net/2022/20220705114925_2022_05_16_台灣來美的外省第二代周文偉到台美人教會開槍殺_117bdbbd9b362236|TJJ, 2022-05-16]]）。
+
 ## Related Pages
 - [[people/chen-meihui||Chen Meihui (陳美蕙)]]
 - [[people/guo-yingyan||Guo Yingyan (郭應言)]]
