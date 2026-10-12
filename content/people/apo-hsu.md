@@ -11,7 +11,7 @@ tags:
   - tah-whos-who
   - Taiwanese-American
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Apo Hsu (許瀞心)
 
@@ -70,6 +70,10 @@ That is a **student/successor mention**, not a second biography. 林韡函 / 陳
 - Apo Hsu / Apo Ching-Hsin Hsu / 許瀞心
 - **Not:** [[people/ahhee-hsu||Ahhee Hsu 許丕龍]] (Penghu; 南加州台灣音樂社 with Tyzen; father of [[people/hsu-ching-chun||許景淳]])
 - **Not:** [[people/hsu-ching-chun||Hsu Ching-chun 許景淳]]
+
+## Corpus Sweep (2026-10-12)
+
+Full-corpus grep (`許瀞心` / `Apo Hsu` / `Apo Ching-Hsin` / `瀞心` / surname variants) across works / articles / sources / events / topics returned **no record beyond the three already cited here**: [[works/taiwaneseamericanhistory-org/musician369|#369]], [[works/taiwaneseamericanhistory-org/whoswho1310|#1310]], and the 2022 taiwanjustice.net 林韡函 piece. No memoir, event, or topic mention exists yet. The page's existing gaps (birth year, first US city, family) are not fillable from the current corpus.
 
 ## Source Notes and Confidence
 
