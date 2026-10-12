@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Cho-Liang Lin (林昭亮)
 
@@ -37,6 +37,7 @@ Absorbed from vault-internal works (no web):
 - **2001-02-10** — Performed the same concerto with the Akron Symphony Orchestra (conductor Ya-Hui Wang 王雅蕙) at E. J. Thomas Performing Arts Hall, Akron, Ohio, before 400+ Taiwanese audience members — described by 林衡哲 as the first overseas concert where conductor, soloist, and composer were all Taiwanese. See [[works/taiwaneseamericanhistory-org/concert-by-akron-symphony-orchestra-and-violent-cho-liang-lin-akron-oh-on-021120]] and [[works/taiwaneseamericanhistory-org/ourjourneys269]].
 - **1990** — Taiwan Cultural Night (台灣文化之夜, ~700 attendees): his first performance before a Taiwanese-American audience, accompanied by pianist 施大偉 — performed 蕭泰然's 《台灣頌》 for the first time to an audience, plus Kreisler, 馬思聰's 《跳龍燈》, and Ravel's 《吉普賽之歌》. At this event Tyzen Hsiao first met Lin and presented him with the Violin Concerto, which Lin told Hsiao the next day was "the most beautiful violin concerto an Easterner could write" — the encounter that led directly to the 1992-11-13–15 world premiere with the San Diego Symphony under Japanese conductor 大山平一郎. Per [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]].
 - **1992–** — Involved in the 「台灣名家演奏系列」 launched in 1992 with 吳澧培's sponsorship (opening recital by 胡乃元; the series later hosted 陳慕融, 蘇顯達, and others) — corroborates the OJ #287 account of the Los Angeles series. Per [[works/taiwaneseamericanhistory-org/ourjourneys294|Our Journeys #294]].
+- **1992– (series context)** — The 「台灣名家演奏系列」 roster per OJ #294 also included pianists 陳泰成、陳毓襄、葉綠娜、吳涵、劉孟捷, cellists 楊文信、范雅志、陳建安, and vocalists 陳麗嬋 and 曾道雄; the series' landmark achievements were the commissioning of three 蕭泰然 concertos (of which Lin gave the world premiere of the D-major Violin Concerto) and the 1997 「228紀念音樂會」, described as the largest 228 memorial concert held in Taiwan and abroad. Per [[works/taiwaneseamericanhistory-org/ourjourneys294|Our Journeys #294]].
 - **Taipei Music Academy & Festival** — Founded by Lin to give rising musicians advanced classical training in his home country of Taiwan; described by documentary director Jordan Hwang (*Between the Notes*, about the festival's students) in a taiwaneseamerican.org interview. Per [[works/taiwaneseamerican-org/between-the-notes-jordan-hwang-brings-the-taipei-music-academy-festival-to-austi|Between the Notes — Jordan Hwang @ Austin Asian American Film Festival]].
 
 ## Timeline
