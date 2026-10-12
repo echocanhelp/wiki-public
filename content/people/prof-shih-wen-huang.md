@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Prof. Shih-Wen Huang (黃碩文教授)
 
@@ -58,3 +58,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-10-08 (slice 10070018-4): fresh grep 黃碩文 / Shih-Wen Huang over works/articles/sources/events/topics — full hit set is exactly the seven already cited/linked (ourjourneys-138, winners-shih-wen-huang, whos-who-2062, 136, 653-2, works index, sources page); no articles/events/topics hits. The ourjourneys-138 Baltimore/DC roster passage re-read verbatim confirms Huang's listing unchanged. SKIP (saturated; HOLD 1936 vs age-81 stands).
 - Corpus re-grep 2026-10-09 (slice 10080700-14): fresh grep 黃碩文 / Shih-Wen Huang / 碩文 over works/articles/sources/events/topics returns the identical cited hit set plus three taiwanjustice-net articles that are FALSE POSITIVES — 張碩文 (PFP/連競選總部發言人, a different person), not 黃碩文. No new material. SKIP (saturated; HOLD 1936 vs age-81 stands).
 - Corpus re-grep 2026-10-10 (slice 10091531-22): fresh grep 黃碩文 / Shih-Wen Huang / 碩文 / alt spellings over all five corpus dirs returns the identical seven cited records (ourjourneys-138, winners, whos-who-2062, 136, 653-2, works index, sources page); taiwanjustice-net hits re-confirmed as 張碩文 false positives (verbatim check: PFP/連競選總部發言人 context). New angle this pass: surname sweep across content/ surfaces only org pages (JHUTSA, UF-TWSA, UF-STAHKS) and [[people/prof-shi-shung-huang]] — all cross-refs quoting the same ourjourneys-138 roster passage, no independent material. SKIP (saturated; HOLD 1936 vs age-81 stands).
+- Corpus re-grep 2026-10-12 (slice 10110316-30): fresh grep 黃碩文 / Shih-Wen Huang / 碩文 over works/articles/sources/events/topics returns the identical hit set (ourjourneys-138, winners, whos-who-2062, 136, 653-2, works index, sources page); the three taiwanjustice-net articles re-verified verbatim as 張碩文 (PFP/連競選總部發言人) false positives. No new material. SKIP (saturated; HOLD 1936 vs age-81 stands).
