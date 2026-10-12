@@ -8,7 +8,7 @@ tags:
   - democracy-movement
   - overseas-taiwanese
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Hsu Hsin-liang (許信良)
 
@@ -48,12 +48,12 @@ last_reviewed: 2026-10-10
 - 1986 — The 黑名單 record notes 陳明昭 escorted 許信良's 返台闖關 that year and was later stripped of passport/visa by the KMT for his conduct there ([[works/taiwaneseamericanhistory-org/ourjourneys106|106. 中華民國的黑名單]]).
 - 1988–1991 — Named among the overseas 黑名單 who 「翻牆」 home in the 闖關回台 wave (with 陳翠玉、羅益世、陳昭南、陳婉真、郭倍宏 et al.) ([[works/taiwaneseamericanhistory-org/ourjourneys230|230. 海外黑名單闖關回台的故事]])。
 - 1992 — 許信良言論選集 (with 鍾碧霞) appears in the TAH corpus as work #396 ([[works/taiwaneseamericanhistory-org/396-e8-a8-b1-e4-bf-a1-e8-89-af-e8-a8-80-e8-ab-96-e9-81-b8-e9-9b-86-e8-a8-b1-e4-b|396. 許信良言論選集]])。
-- Attribution note — a corpus memoir credits the 美麗島周報 as 「由許信良創辦」, while other records (incl. 陳昭南's memoir) describe him as co-founder with 陳昭南/許丕龍. HOLD: founder vs co-founder attribution; dates/roles otherwise consistent.
+- Attribution note — 林文義's memoir credits the 美麗島周報 as 「由許信良創辦」 ([[works/taiwaneseamericanhistory-org/ourjourneys237|237. 北卡海報事件 / 林文義]]), 林衡哲's memoir describes it as 「許信良主持的『美麗島週報』」 ([[works/taiwaneseamericanhistory-org/ourjourneys70|70. 各位敬愛的股東同仁平安 / 林衡哲]]), while other records (incl. 陳昭南's memoir) describe him as co-founder with 陳昭南/許丕龍. HOLD: founder vs co-founder attribution (創辦 vs 主持 vs 共同創辦人 — three memoir phrasings, never auto-merged); dates/roles otherwise consistent.
 - 1979-06-30 — At the 世臺會 (World Taiwanese Association) convention in Seattle, news of 許信良's 停職案 arrived and the convention strongly condemned KMT dictatorship; after the 美麗島事件 many 世臺會 cadres were blacklisted (何義麟's Bay Area study, [[works/taiwaneseamericanhistory-org/our-journeys-357|357. 舊金山灣區臺灣人的社團活動與家國意識之形成]]).
 - 1980-03-29 — On invitation of the 協志會, spoke at San Jose State on 「高雄事件的啓示」; KMT-linked gangsters again caused disturbances outside and slashed tires (石清正, [[works/taiwaneseamericanhistory-org/ourjourneys38|38. 北加州台灣同鄉聯合會三十年回顧]]).
 - 1982 — Reported as 美麗島 representative to the 9th 世界台灣同鄉會 convention in Houston ([[works/taiwaneseamericanhistory-org/ourjourneys266|266. 台灣人在北美洲/黃武東]]).
 - 1982-12 (per the memoir account) / 1986 — Met visiting 黨外 figures in the US; the same Bay Area record notes 張燦鍙 and 許信良 speaking in the Bay Area (02.26 entry, [[works/taiwaneseamericanhistory-org/our-journeys-357|357]]).
-- 1986-11-30 — 許信良's 闖關回台 attempt (the 桃園機場事件, together with 林水泉 and the 23rd 北加州台灣人同鄉聯合會會長洪順五) failed, sparking police-citizen clashes at Taoyuan airport ([[works/taiwaneseamericanhistory-org/ourjourneys38|38. 北加州台灣同鄉聯合會三十年回顧]]); the event is also its own TAH record — press photo 「許信良化妝抵台，原機遣送到菲律賓」, 1986/12/2 ([[works/taiwaneseamericanhistory-org/1-e8-a8-b1-e4-bf-a1-e8-89-af-e5-8c-96-e5-a6-9d-e6-8a-b5-e5-8f-b0-ef-bc-8c-e5-8e-|1. 許信良化妝抵台，原機遣送到菲律賓 1986/12/2]]).
+- 1986-11-30 — 許信良's 闖關回台 attempt (the 桃園機場事件, together with 林水泉 and the 23rd 北加州台灣人同鄉聯合會會長洪順五) failed, sparking police-citizen clashes at Taoyuan airport ([[works/taiwaneseamericanhistory-org/ourjourneys38|38. 北加州台灣同鄉聯合會三十年回顧]]); the NATMA/楊次雄 record frames the same event as the trigger for 「海外黑名單異議份子多人翻牆返鄉」 and the 1987-11 台醫學會80週年 突破黑名單 訪問團 that followed ([[works/taiwaneseamericanhistory-org/ourjourneys74|74. Our Journeys — 楊次雄與NATMA]]); the event is also its own TAH record — press photo 「許信良化妝抵台，原機遣送到菲律賓」, 1986/12/2 ([[works/taiwaneseamericanhistory-org/1-e8-a8-b1-e4-bf-a1-e8-89-af-e5-8c-96-e5-a6-9d-e6-8a-b5-e5-8f-b0-ef-bc-8c-e5-8e-|1. 許信良化妝抵台，原機遣送到菲律賓 1986/12/2]]).
 - Also in the corpus: an overseas 台醫協會 letter recalls a 同鄉 telling 許信良 「你如果連台灣話都講不好，也不用來這裡與台灣同鄉溝通了」 — a window onto the language/identity debates inside overseas associations ([[works/taiwaneseamericanhistory-org/ourjourneys202|202. Our Journeys 文字紀要]]).
 
 Corpus re-grep 2026-09-22: above records newly absorbed from works/.
@@ -84,3 +84,5 @@ Corpus re-grep 2026-09-22: above records newly absorbed from works/.
 ![20230606154516_wp-content_uploads_2020_11_3-4-許信良在土城看守所-1080](../images/people--hsu-hsin-liang.jpg)
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20230606154516）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+
+<!-- DEEPEN-X10102300-17 (2026-10-12): fresh ZH+EN grep (許信良/Hsin-liang) across all 5 corpus dirs — 47 files. New material absorbed: (1) attribution triangulation — 林文義 memoir 「由許信良創辦」 (ourjourneys237) vs 林衡哲 memoir 「許信良主持的『美麗島週報』」 (ourjourneys70) vs co-founder (陳昭南 memoir) — HOLD retained, all three sources now wikilinked; (2) NATMA/楊次雄 record (ourjourneys74) — 1986 民進黨成立後許信良、林水泉闖關 → 桃園機場事件 framed as trigger for 「海外黑名單異議份子多人翻牆返鄉」 and the 1987-11 台醫學會80週年突破黑名單訪問團, linked to the existing 1986-11-30 line. ourjourneys123-eng/266/357/202/230/106/245/38/#1 re-confirmed existing record, no new dates. No date/age conflicts. -->
