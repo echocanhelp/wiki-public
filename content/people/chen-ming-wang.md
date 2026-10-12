@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Chen-Ming Wang (王建民)
 
@@ -57,6 +57,10 @@ Beyond his MLB career, Wang became a shared reference point in the Taiwanese Ame
 - 2015-08 — his baseball story is set to music as 「台灣之王」 in the 聖地牙哥台灣中心 opening-concert program (per ourjourneys162 record)
 - 2009 — World Series ring with the New York Yankees, recorded in the corpus as the second Taiwanese player to win one (per the Taiwanese American magazine feature [[works/taiwaneseamerican-org/taiwan-zhiguang-taiwanese-taiwanese-american-athletes-to-root-for||「台灣之光」台灣與台美運動員]]); the same piece places him with Yani Tseng and Jeremy Lin as athletes who became 「台灣之光」 cultural ambassadors for Taiwanese Americans — i.e. the community's framing of him as symbol is documented in community press, not only fan memory
 - 2018 — the documentary 《後勁：王建民》received theatrical U.S. release, recorded in [[works/taiwaneseamerican-org/latelife||LATE LIFE: The Chien-Ming Wang Story in Theaters]] (taiwaneseamerican.org), showing the comeback narrative reaching mainstream theater as community record
+- 2021-06 — the documentary was programmed into 大洛杉磯台灣會館's 台美人傳統週 series, streamed online 6/5 with a director 陳惟揚 × producer 楊明燊 talkback moderated by Emily Wu — i.e. the film circulated as a community-organized heritage-week event, not only as commercial release ([[articles/taiwanjustice-net/2022/20220929021124_2021_06_03_大洛杉磯台灣會館生活座談與台美人傳統週活動_d14fd35b6b2f27d2||TJJ record, 2021-06-03]])
+- 2016-04 — 民報 feature 「願景總留給像王建民這類有夢的人」 recorded in the TJJ 台美人台加人 archive, showing his comeback used as an aspirational reference in community journalism ([[articles/taiwanjustice-net/2023/20230530142823_tag_願景_4703391404f57c08||TJJ archive, 2016-04-04]])
+- Wang's name appears as a 「Made in Taiwan」 success story — listed alongside Acer and BenQ — in a UN-membership advocacy essay arguing Taiwan's democratic achievements as the basis for international recognition ([[works/taiwaneseamerican-org/perspectives-on-taiwan-and-the-united-nations-a-personal-journey||Perspectives on Taiwan and the United Nations: A Personal Journey]]); his public image thus functioned as civic argument, not only sports memory
+- 2020 — two bay-area-raised college students (Derek Shao, Vivienne) wrote published reflections on the documentary for taiwaneseamerican.org, framing "late life" as a metaphor for Wang's comeback and the 2008 baserunning injury as the pivot of the narrative — evidence the story was being interpreted by the second generation ([[works/taiwaneseamerican-org/two-perspectives-on-late-life-the-chien-ming-wang-story||Two Perspectives on Late Life: The Chien-Ming Wang Story]])
 
 ## References in vault
 - [[works/taiwaneseamericanhistory-org/late-life-the-chien-ming-wang-story||紀錄片「後勁-王建民」]]
