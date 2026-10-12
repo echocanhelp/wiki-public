@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Rev. Thomas H. Chen (陳宏文牧師)
 
@@ -67,6 +67,7 @@ _No filled family fields on the TAH profile._
 - Retirement commemorative album record: [[works/taiwaneseamericanhistory-org/610-e5-8d-97-e7-81-a3-e5-8f-b0-e7-81-ba-e7-9d-a3-e9-95-b7-e8-80-81-e6-9|TAH #610 設教二十周年暨陳宏文牧師榮退感恩禮拜紀念]], 2009-06 — matches the 1989–2009 南灣長老教會 tenure in the employment table.
 - Disambiguation: corpus record [[works/taiwaneseamericanhistory-org/307-thomas-chen-e9-99-b3-e7-a7-8b-e8-b2-b4201502|TAH #307 Thomas Chen 陳秋貴]] is a different Thomas Chen (陳秋貴); not merged.
 - English counterpart of the 1979 airport case: [[works/taiwaneseamericanhistory-org/ourjourneys38-eng|Our Journeys 38 (EN), TAFNC Thirty Year Review]] names "Thomas H. Chen" among the accused (Tu Chen, Winston H. Chen, Fu-Mei Chang, Thomas H. Chen, Yung-hao Hsieh) — same event as ourjourneys38 ZH; identity HOLD with the 明州／南灣牧師 stands.
+- Corpus re-check (2026-10-12, deepen-x slice 10110805-12, vault-only): ZH+EN grep across works/articles/sources/events/topics returns the identical hit set (#307, mystories407, ourjourneys38/39/106, #610 retirement album, whos-who-2133, ota-275) already absorbed above — no new absorbable material; both灣區-person HOLDs and the ota-275 mis-subject HOLD stand. Verify-saturated.
 - Corpus re-check (2026-10-10, deepen-x slice 10081500-12, vault-only): ZH+EN grep across works/articles/sources/events/topics — new hit set adds only [[works/taiwaneseamericanhistory-org/ourjourneys38-eng|Our Journeys 38 (EN)]] (absorbed above) and [[works/taiwaneseamericanhistory-org/ota-275|OTA #275 Thomas Chen 陳秋貴]], whose Subjects list carries a rev-thomas-h-chen link though its body is the 陳秋貴 record — likely a mis-subject link on that work page; HOLD, not absorbed. All other hits identical to prior re-checks; both灣區-person HOLDs stand.
 
 <!-- TJJ-A10010400-1: verified 2026-10-05 — wave-2 re-check of slice 10010400-1 article ff4731d4 台灣介心靈日228-77週年紀念音樂會影音全集 (2024-03-04): subject link re-checked vs 正文, real, no wrong/spurious links; 2024-02-28 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
