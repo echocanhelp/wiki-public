@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Taiwanese Student Association
 
@@ -46,6 +46,15 @@ Chapter-foundations across the continent (sibling chapters, shared movement line
 - [[works/taiwaneseamericanhistory-org/our-journeys-379|379. 十年東南夏令憶感 — 1985 夏令會 co-hosted with 全美台灣同學會]] — the 1985 summer seminar co-organized with the national federation, remembered as the most culturally rich cohort (陳芳明, 林衡哲, 謝里法, 黃美惠).
 - [[works/taiwaneseamerican-org/david-chen-taiwanese-handbook|David Li-Wei Chen — Handbook of Romanized Taiwanese interview]] — an interviewee who credits being 「active in the Taiwanese Student Association」 in college, and specifically the UW TSA, as part of his identity formation — a present-day personal record of what the chapters gave members.
 
+Cross-chapter movement records surfaced in the corpus:
+- [[articles/taiwanjustice-net/2023/20230923051922_2023_06_02_從二戰後全球去殖民化_到台灣國家正常化-_下_c251f8fc65ac83e0|從二戰後全球去殖民化到台灣國家正常化（下）]] — records that in 1966 the 台灣同學會 scattered across U.S. universities founded 「全美台獨聯盟」, and that 加拿大台灣同學會 established a 「台灣人權委員會」 in support of 彭明敏 after the 自救宣言 crackdown.
+- [[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|化作千風 — 王泰和]] — a newly arrived graduate student in Kansas was routed straight to the home of the Kansas 台灣同學會 會長 王康陸 — the chapter network as a first-contact system for new arrivals.
+- [[articles/taiwanjustice-net/2022/20221205041350_2022_11_20_大紐約地區留學生職涯徵才_跨世代校友交流_6f1d6610582ee710|大紐約地區留學生職涯徵才（2022-11）]] — the 大紐約地區台灣同學會聯合會 and 新英格蘭地區台灣同學聯合會 co-hosted a cross-generation career seminar — the modern successor of the 1960s 同學會 network (compare [[works/taiwaneseamericanhistory-org/ourjourneys219|219. 留美台灣青年就業座談會]]).
+- [[articles/taiwanjustice-net/2022/20221205052636_2022_11_21_加州矽谷掀裁員潮_台灣留學生_畢業工作難找_8679d1279a2cceec|加州矽谷裁員潮與台灣留學生（2022-11）]] — 史丹佛大學台灣學生會 (STSA) 會長 林柏廷 on the 2022 tech layoffs — a contemporary chapter voice.
+- [[articles/taiwanjustice-net/2025/20250420010806_台灣擬透過外館發口罩_外交部清查留學生人數_323d8496ec61ae21|外交部透過各地台灣同學會清查海外留學生（2020-04）]] — the MFA tasked its overseas offices to count Taiwanese students through 各地台灣同學會 — the chapters' grassroots reach recognized as a census channel.
+- [[works/taiwaneseamericanhistory-org/taiwanese-collegian-newspaper|Taiwanese Collegian 台灣學生報 by 北卡台灣同學會]] — the North Carolina chapter's newspaper; distinct from the Midwest 台灣學生社 records named in the disambiguation below.
+- [[works/taiwaneseamerican-org/my-signature-represents-me-writing-in-taiwanese-on-the-united-states-census|My signature represents me — census campaign]] — Christina, a founding member of the TSA at the University of Virginia — a present-day member-formation record.
+
 Texas A&M-linked community records in our corpus:
 - [[works/taiwaneseamericanhistory-org/ourjourneys321-eng|321-eng. The Founding of Chen Wen-Chen Memorial Foundation (追述, EN)]] — the commemorative-book account names Professor Chieh-ching Huang (筆名「N先生」), then a Michigan colleague of 陳文成 and later a faculty member at Texas A&M University, as an author who "did not dare to use our real names."
 - [[works/taiwaneseamericanhistory-org/ourjourneys106|106. 德州台灣同鄉會紀錄]] — the Texas 同鄉會 officer roster records 郭正光博士 (台大農工系 → 德州農工大學食品營養博士, 詹森太空中心) as a former 農工大學同學會會長 and later 87年同鄕會會長, and 謝慶輝 (德州農工大學工業工程碩士) as a 77年同鄉會會長 — evidence of A&M 同學會 feeding leadership into the state-level 同鄉會.
@@ -55,6 +64,7 @@ Disambiguation: the corpus's 「台灣學生社」 records — [[works/taiwanese
 - 複核（deepen-x slice 09230500-2, 2026-09-24）：fresh ZH+EN re-grep（台灣同學會 / Taiwanese Student Association）命中集不變——ff33、ourjourneys81/219/277/321、dumplings-usctsa 均已連結於上 — SKIP-with-reason：無新社群語料。
 - 複核（deepen-x slice 10080958-15, 2026-10-09）：fresh ZH+EN grep（台灣同學會 / Taiwanese Student Association / 台灣學生會 / Texas A&M / 農工大學）回 55 hits across works/articles/sources/events/topics. 13 previously-unlinked chapter records now wikilinked above (UCLA, Kansas State, UT Austin, NCSU ×2, UW ×3, OSU, 全美台灣同學會/NATSA, Rice, 「台灣學生」 launch). Also surfaced: [[works/taiwaneseamericanhistory-org/ourjourneys317|317. 彭明敏德州大會]] names 劉毅謀 as a Texas A&M student leading the KMT-side disruption of the 同鄉會大会 — the only A&M student name in the corpus, recorded as opposition to (not membership in) the community movement; noted here, not absorbed as a TSA member. The 台灣學生社 / 「台灣學生」 records remain disambiguated from chapter lineage per the note above.
 - 複核（deepen-x slice 10100400-23, 2026-10-10）：fresh ZH+EN grep（台灣同學會 / Taiwanese Student Association / 台灣學生會 / Texas A&M / 農工大學）回 56 hits across works/articles/sources/events/topics. 5 previously-unlinked records now wikilinked above (ourjourneys224 密西根會員「斷情書」, NCSU 朴豆會訊, UC Berkeley karaoke, our-journeys-379 1985 夏令會 co-hosted with 全美台灣同學會, David Li-Wei Chen handbook interview). ourjourneys317 (劉毅謀 / Texas A&M) remains noted-as-opposition per the prior review — no new A&M chapter material found; no date/age conflicts to HOLD.
+- 複核（deepen-x slice 10110000-28, 2026-10-12）：fresh ZH+EN grep 回 55 hits. 7 previously-unlinked records now wikilinked under 「Cross-chapter movement records」 above — movement-level facts: 1966 各大學台灣同學會 founded 全美台獨聯盟; 加拿大同學會 台灣人權委員會 for 彭明敏; Kansas 同學會會長 王康陸 as new-arrival first contact (王泰和); 2022 大紐約/新英格蘭同學會聯合會 career seminar; STSA 會長 林柏廷 2022 layoffs voice; 2020-04 外交部透過各地同學會清查留學生; UVA TSA founding member (census record). No new Texas A&M chapter material — A&M section unchanged. Non-TSA noise hits (NASA/成正東 A&M professor, Amazon drone, N95/A&M 公衛系主任, BV-1 variant, Alabama A&M 孔院, 陳吉仲 A&M PhD, 張家禎 A&M degree) are university-affiliation mentions, not community records — deliberately not linked. No date/age conflicts to HOLD.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-student-association/)
