@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Ryan Hass (何瑞恩)
 
@@ -39,7 +39,7 @@ Echopedia lists this writer as a **voice in that archive** — work Taiwanese Am
 
 - 2023-02-04 — 以布魯金斯研究所高級研究員（前白宮國安會中國事務主任）身份就間諜氣球事件接受中央社紐約綜合外電報導：氣球與中國近期「設法降低緊張」的整體外交訊息不一致，令人懷疑中國安全系統內部協調品質；中、美關係若進一步惡化習近平擔待不起，布林肯高調延後訪中可能使中國內部質疑習處理中美緊張的能力（[[articles/taiwanjustice-net/2023/20230322184257_2023_02_04_中國力求改善對美關係-因氣球事件前功盡棄_d66dc3422090458c|TJJ 轉載中央社記者紐約報導, 2023-02-04]]）。
 
-- 2024-05-14 — 以布魯金斯研究所約翰桑頓中國中心主任（前白宮國安會中國、台灣及蒙古事務主任）身份在布魯金斯官網專文反駁「賴清德上任將使兩岸緊張」論述，判讀賴清德為務實政治人物、將延續蔡英文路線，並示警北京將在台灣內部及其盟友間製造分歧（[[articles/taiwanjustice-net/2024/20240527031819_root_3dfb23f1f86ac707|TJJ 轉載中央社記者華盛頓報導, 2024-05-14]]）。
+- 2024-05-14 — 以布魯金斯研究所約翰桑頓中國中心主任（前白宮國安會中國、台灣及蒙古事務主任）身份在布魯金斯官網專文反駁「賴清德上任將使兩岸緊張」論述，判讀賴清德為務實政治人物、將延續蔡英文路線，並示警北京將在台灣內部及其盟友間製造分歧；文中並就吳釗燮、顧立雄、[[people/bi-khim-hsiao|蕭美琴]]、俞大㵢的人事安排評斷賴政府高階官員經驗豐富（[[articles/taiwanjustice-net/2024/20240527031819_root_3dfb23f1f86ac707|TJJ 轉載中央社記者華盛頓報導, 2024-05-14]]）。
 
 ## TJ Citations
 
@@ -116,3 +116,4 @@ See the source hub. Top mentions:
 <!-- TJJ-A10070700-5: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-5 article 20240527031819_root_3dfb23f1f86ac707 (前白宮官員肯定台灣新國安團隊, 中央社記者華盛頓報導, 2024-05-14 刊): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10090401-28: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-28 article 20240527031819_root_3dfb23f1f86ac707 (前白宮官員肯定台灣新國安團隊 示警北京將製造分歧, taiwanjustice.net 轉載中央社記者華盛頓鍾佑貞專電, 2024-05-14 刊 / 2024-05-27 快照) read fresh this attempt: subject link(s) re-checked vs 正文 — 何瑞恩（Ryan Hass）布魯金斯官網專文反駁「賴清德上任將使兩岸緊張」論述、示警北京製造分歧，為報導主體, real, no wrong/spurious links; 2024-05-14 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10100501-19: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-19 article 20240527031819_root_3dfb23f1f86ac707 (前白宮官員肯定台灣新國安團隊 示警北京將製造分歧, taiwanjustice.net 轉載中央社記者鍾佑貞華盛頓專電, 2024-05-14 刊 / 2024-05-27 快照) read fresh this attempt: subject link re-checked vs 正文 — 何瑞恩（Ryan Hass）歐巴馬白宮國安會中國、台灣及蒙古事務主任、現任布魯金斯約翰桑頓中國中心主任，於官網發表專文反駁「賴清德上任將使兩岸緊張」論述、示警北京將於台灣內部及盟友間製造分歧，逐字確認見於正文，為報導主體, real, no wrong/spurious links; 2024-05-14 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- DEEPEN-X10110100-2: reviewed 2026-10-12 — corpus grep (works/articles/sources/events/topics) for Ryan Hass / 何瑞恩 / 何瑞安 returns only taiwanjustice.net harvest + source hub; no memoir/corpus material beyond the dated facts already in From the record — saturated. Added cross-link [[people/bi-khim-hsiao|蕭美琴]] to the 2024-05-14 fact per 正文 personnel list. -->
