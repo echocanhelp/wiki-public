@@ -29,6 +29,7 @@ last_reviewed: 2026-09-23
 - 複核（TJJ-A09162345-31, 2026-09-24）：slice 文章 20053f0a17b89c07（耆老講座標籤頁）正文再驗證——「9/7 耆老講座…郭清江」條目再確認見於正文，連結為真；對應日期事實（含該文 wikilink）已在庫 — SKIP，無新材料。
 
 - 2024-09-07 — 於大洛杉磯台灣會館耆老講座「返台任職的心路歷程」與謝清志、許清煌同台分享返台任職經歷（[[articles/taiwanjustice-net/2025/20250216032153_tag_大洛杉磯台灣會館耆老講座_20053f0a17b89c07|TJJ 耆老講座標籤頁，2024-08-18 刊]]）。
+- 2017-03-22 — 於長青教室「漫談桃園機場捷運」（YouTube 記錄），見台灣公義報 長青教室 標籤彙整頁（2017-03-23 刊）—— [[articles/taiwanjustice-net/2024/20240620173328_root_2777c88877eee2c5|TJJ tag 長青教室, 2024-06-20 存檔]]。
 
 ## In the vault
 
@@ -51,3 +52,5 @@ last_reviewed: 2026-09-23
 <!-- TJJ-A10040600-10: verified 2026-10-06 — wave-2 link+deepen re-check of slice 10040600-10 — subject link in article 20053f0a17b89c07 (Tag: 大洛杉磯台灣會館耆老講座, 2025-02-16 存檔) re-checked vs 正文: 「返台任職的心路歷程-謝清志、郭清江、許清煌」條目具名確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060800-4: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-4 — article 20053f0a17b89c07 (Tag 大洛杉磯台灣會館耆老講座, 2025-02-16 存檔) 「9/7 耆老講座…郭清江」條目具名; subject link re-checked vs 正文 this attempt — 真實提及, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10071500-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071500-2 — article 20053f0a17b89c07 (Tag 大洛杉磯台灣會館耆老講座, 2025-02-16 存檔) 「9/7 耆老講座…郭清江」條目具名; subject link re-checked vs 正文 this attempt — 真實提及, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10110502-23: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110502-23 article 2777c88877eee2c5 (Tag: 長青教室 p3, TJJ 2017-05-25 刊 / 2024-06-20 快照) read fresh this attempt: subject link re-checked vs 正文 — 「3/22 長青教室: 郭清江博士漫談桃園機場捷運 ◎Youtube」條目具名確認見於正文, real, no wrong/spurious links; 本人頁原無此條, 本 attempt 補建 2017-03-22 dated fact w/ article wikilink 入 From the record, 並於文章頁 Subjects 補建本人連結. -->
