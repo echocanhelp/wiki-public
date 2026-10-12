@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Ralph Su (蘇惠智牧師)
 
@@ -54,3 +54,4 @@ _No filled family fields on the TAH profile._
 > Deepen pass 2026-10-09 (slice 10080400-24): re-grepped 蘇惠智/Ralph Su/惠智 across works/articles/sources/events/topics — identical hit set (whoswho1724, ourjourneys43, works/index, sources/ntpc-usa-org, sources/taiwaneseamericanhistory-org); no new material beyond what is already cited above. Verified-saturated, SKIP-with-reason.
 > Deepen pass 2026-10-10 (slice 10090900-23): re-grepped 蘇惠智/Ralph Su/惠智 across works/articles/sources/events/topics — identical hit set (whoswho1724, ourjourneys43, works/index, sources/ntpc-usa-org, sources/taiwaneseamericanhistory-org); no new material beyond what is already cited above. Verified-saturated, SKIP-with-reason.
 > Deepen pass 2026-10-11 (slice 10101210-31): re-grepped 蘇惠智/Ralph Su/惠智 across all 5 corpus dirs — identical hit set (whoswho1724, ourjourneys43, works/index, sources/ntpc-usa-org, sources/taiwaneseamericanhistory-org); the two source-hub hits are roster wikilinks only, already cited. No new material. Verified-saturated, SKIP-with-reason.
+> Deepen pass 2026-10-12 (slice 10120000-32): re-grepped 蘇惠智/Ralph Su/惠智 across all 5 corpus dirs — identical hit set (whoswho1724, ourjourneys43, works/index, sources/ntpc-usa-org, sources/taiwaneseamericanhistory-org); ourjourneys43 pastoral-line passage (Paul Tsai 3/1999–6/2002, Shang-Ren Chen 11/2003–6/2004, Ralph Su 8/2004–12/2007 charter, Peter Chao 3/2010) already absorbed verbatim. No new material. Verified-saturated, SKIP-with-reason.
