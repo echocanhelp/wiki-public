@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Wen-Yih Sun (商文義)
 
@@ -63,3 +63,5 @@ Corpus re-grep 2026-10-09 (deepen-x slice 10080500-9): fresh ZH+EN grep (商文�
 Corpus re-grep 2026-10-10 (deepen-x slice 10090900-9): fresh ZH+EN grep (商文義 / Wen-Yih Sun) across works/ articles/ sources/ events/ topics/ returned the identical hit set (1579 bio, ourjourneys69/-eng, ourjourneys47, works/index, sources hub). ourjourneys69 founding-roster passage and ourjourneys47 14th-term (1994) passage re-read — both facts already absorbed in Role in the Community above. Verified-saturated, SKIP-with-reason, no new absorbable facts, no conflicts.
 
 Corpus re-grep 2026-10-11 (deepen-x slice 10101200-3): fresh ZH+EN grep (商文義 / Wen-Yih Sun) across works/ articles/ sources/ events/ topics/ returned the identical hit set (1579 bio record, ourjourneys69/-eng, ourjourneys47, works/index, sources hub). ourjourneys69 NATPA founding-roster passage (16 professors, 1980-02-16, Chicago) and ourjourneys47 14th-term presidency (1994, 商文義會長) re-read — both already absorbed in Role in the Community above. Verified-saturated, SKIP-with-reason, no new absorbable facts, no conflicts.
+
+Corpus re-grep 2026-10-12 (deepen-x slice 10110805-1): fresh ZH+EN+surname grep (商文義 / Wen-Yih Sun / 文義) across works/ articles/ sources/ events/ topics/ returned the identical substantive hit set (1579 bio, ourjourneys69/-eng, ourjourneys47, works/index). The surname-only extra hits (ourjourneys237, ourjourneys238, publications77, taiwanjustice article) are false positives on 林文義 / 劉文義, different persons. Verified-saturated, SKIP-with-reason, no new absorbable facts, no conflicts.
