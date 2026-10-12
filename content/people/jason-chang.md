@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Jason Chang (張哲雄)
 
@@ -65,6 +65,7 @@ Jason Chang, President of [[organizations/north-america-pastel-artist-associatio
 
 - 2014-08-25 — 於 TAH「My Stories」專欄發表〈推廣粉彩繪畫二十年〉，回顧二十年推廣粉彩繪畫之路：[[works/taiwaneseamericanhistory-org/mystories10|推廣粉彩繪畫二十年（2014）]]
 - 2014-12-05 — 「Passport to Taiwan（台灣傳統週）」：[[works/taiwaneseamericanhistory-org/footsteps-13|Passport to Taiwan（2014）]]
+- 2008-04 — 出版《粉彩驚艷 – 張哲雄的粉彩藝術》（Art/藝術類出版品）：[[works/taiwaneseamericanhistory-org/publications389|粉彩驚艷（2008/04）]]
 - 2009-06 — 出版《粉彩畫技法入門及作品欣賞》：[[works/taiwaneseamericanhistory-org/publications390|粉彩畫技法入門及作品欣賞（2009）]]
 - 2017 — Audubon Artists Society 頒授榮譽會員（Honorary Member）；紀錄標題作「John Chang 張哲雄」，漢名與本頁相符，John 疑為 Jason 之誤。HOLD: John Chang vs Jason Chang 別名衝突：[[works/taiwaneseamericanhistory-org/honorary-member-by-audubon-artists-society-john-chang-2017|Audubon Artists Society 榮譽會員（2017）]]
 - 2019-05-29 — Kean University 個展：[[works/taiwaneseamericanhistory-org/footsteps-30|Kean University 個展（2019）]]
