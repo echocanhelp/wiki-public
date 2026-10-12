@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Echo Lin (林錫湖博士)
 
@@ -63,3 +63,5 @@ _Corpus re-grep 2026-09-26 (slice 09260317-20): fresh grep 林錫湖／林仁惠
 _Corpus re-grep 2026-09-27 (slice 09260700-6): fresh grep 林錫湖／林仁惠／Echo Lin (works+articles) returns the same saturated hit set (ourjourneys85 & -eng, 198, ourjourneys33, whos-who-1894, whoswho1010); all absorbed; SKIP-no-new-facts, HOLDs unchanged._
 
 _Corpus re-grep 2026-10-11 (slice 10100849-22): fresh grep 林錫湖／林仁惠／Echo Lin across works+articles+sources+events+topics returns the same saturated hit set (ourjourneys85 & -eng, 198, ourjourneys33, whos-who-1894, whoswho1010, my-stories-897; plus index listings in works/index.md and sources/taiwaneseamericanhistory-org.md); 林全福 appears only in ourjourneys85 & -eng. All absorbed above — SKIP-no-new-facts, HOLDs (edu dates, 林全福 vs 林傳福, birth-era 1930, 林錫湖 vs 林仁惠) unchanged._
+
+_Corpus re-grep 2026-10-12 (slice 10110500-19): fresh grep 林錫湖／林仁惠／Echo Lin／林全福／林傳福 across works+articles+sources+events+topics returns the identical saturated hit set (ourjourneys85 & -eng, 198, ourjourneys33, whos-who-1894, whoswho1010, my-stories-897; plus index listings); 林傳福 returns no hits. All absorbed above — SKIP-no-new-facts, HOLDs unchanged._
