@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Tsan-hung George Chang (張燦鍙教授)
 
@@ -84,6 +84,9 @@ Tsan-hung George Chang 張燦鍙 – History of Taiwanese American (T.A. Archive
 - 1988–1991 — He was among the overseas blacklisted 「闖關回台」 returnees; on 1991-12-07, as 台獨聯盟世界總本部主席, he flew back via Tokyo and was arrested at Taoyuan airport: [[works/taiwaneseamericanhistory-org/ourjourneys230|Our Journeys #230]], [[works/taiwaneseamericanhistory-org/ourjourneys234|Our Journeys #234]].
 - During the island-side 代夫出征 street campaign his wife was introduced on the sound car as 「台灣獨立建國聯盟前主席張燦鍙夫人」 — a movement-side record of 張丁蘭's public presence alongside [[people/tina-chang||Tina Chang]]: [[works/taiwaneseamericanhistory-org/ourjourneys210|Our Journeys #210]].
 - 1996-07 — Political-track speaker at the 18th 台灣人公共政策協會/同鄉會聯誼會年會 (Chattanooga, 「台美連心，踏入國際舞台」): [[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys #245]].
+- 台獨聯盟主席任內招攬羅福全主持《台灣公論報》：羅福全停刊感言回憶約三十年前（創刊草創期）在夏威夷接到「台獨聯盟主席張燦鋈」（張燦鍙名字之異寫）來電，說已向近二千預訂戶籌足辦報資金、請他出任發行人；羅辭去夏威夷大學教職返紐約主持草創，並述 1985 年「四腳仔官司」勝訴經過： [[works/taiwaneseamericanhistory-org/ourjourneys156|Our Journeys #156 — 公論報停刊感言（羅福全）]]。
+- 國民黨黑名單以其人際網絡為據：何文亮、莊峻華整理的中華民國黑名單記載，台大化工系出身、萊斯大學化工博士林榮長「交友不慎結識台獨聯盟前主席張燦鍙之故」被列名禁足—— regime-side evidence of his organizing network among Houston/Rice 化工同儕: [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys #106 — 中華民國的黑名單]].
+- 早期社群出資與出版支持：陳希寬回憶編印第一本《全美台灣同鄉通訊錄》時，名列「熱心捐助同鄉及代表人」十九人之一（共捐 171 美元）: [[works/taiwaneseamericanhistory-org/ourjourneys58|Our Journeys #58 — 回憶編印第一本《全美台灣同鄉通訊錄》（陳希寬）]].
 - His own political writings in the corpus: [[works/taiwaneseamericanhistory-org/publications1179|台灣建國藍圖概略 (1983-04)]], [[works/taiwaneseamericanhistory-org/319-e5-8f-b0-e7-81-a3-e8-88-8a-e7-9a-84-e7-a5-9e-e8-a9-b1-e5-92-8c-e6-96-b0-e7-9|台灣：舊的神話和新的現實 (1987-10)]], [[works/taiwaneseamericanhistory-org/317-e5-bb-ba-e8-a8-ad-e6-9d-b1-e6-96-b9-e7-91-9e-e5-a3-ab-e5-bc-b5-e7-87-a6-e9-8|建設東方瑞士 (1989-06)]], [[works/taiwaneseamericanhistory-org/172-e5-8f-b0-e7-81-a3-e7-8d-a8-e7-ab-8b-e9-81-8b-e5-8b-95-e4-b8-89-e5-8d-81-e5-b|台灣獨立運動三十年(上) (1991-10)]], [[works/taiwaneseamericanhistory-org/publications316|文化—台灣問題的根源 (2003-06)]], [[works/taiwaneseamericanhistory-org/315-e5-8f-b0-e7-81-a3-e5-9c-8b-e5-ae-b6-e4-b9-8b-e9-81-93-e5-bc-b5-e7-87-a6-e9-8|台灣國家之道 (2009-11)]]; undated record of a State Department talk on the Taiwan question: [[works/taiwaneseamericanhistory-org/12-17|TAH #17 — 張燦鍙教授於美國國務院演講台灣問題]].
 
 ## From the record
