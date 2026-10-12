@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Dr. Edward T. S. Huang (黃東昇博士)
 
@@ -82,3 +82,6 @@ A chemical engineer born in Tainan in 1936, Dr. Huang built a four-decade career
 - Softball record: co-authored [[works/taiwaneseamericanhistory-org/46-e5-a3-98-e7-90-83-e9-a2-a8-e9-9b-b2-e5-9b-9b-e5-8d-81-e5-b9-b4-e8-80-81-e5-a3|#46 壘球風雲四十年]] (2014, 黃東昇、賴慧娜); his Columbus 鄉訊 note and the 1988 MTSC 大會手冊 were cited to correct the first Midwest 台灣人壘球賽 from 1972 to 1973 in [[works/taiwaneseamericanhistory-org/our-journeys-376|Our Journeys #376 中西部台灣人夏令會簡史]].
 - Memoirs / autobiography: [[works/taiwaneseamericanhistory-org/mystories251|My Stories #251 我的網球三部曲]] (2015-05), [[works/taiwaneseamericanhistory-org/mystories506|My Stories #506 回想古早時代幾件生活趣事]] (2017-01), [[works/taiwaneseamericanhistory-org/publications1046|#1046 台美人生命腳跡]] (2016, with 林靜竹、劉光道、陳天令、柯耀宗 et al.), [[works/taiwaneseamericanhistory-org/publications-1368|#1368 黃東昇八五回顧：府城黃葉兩家故事]] (2023-03 — age-85 retrospective, consistent with the 1936 birth year).
 - His archival collection: [[works/taiwaneseamericanhistory-org/collection-of-dr-ed-huang|#22 Collection of Dr. ED Huang 黃東昇博士的收藏]].
+
+## Vault records (deepen pass 2026-10-12)
+- Fresh ZH+EN grep (黃東昇/Edward T. S. Huang/ED Huang) across all 5 corpus dirs: 21 files, hit set unchanged from prior passes and fully absorbed above; the only remaining hit is the roster backlink in [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]. Verified-saturated — no new material.
