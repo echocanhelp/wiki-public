@@ -7,7 +7,7 @@ tags:
   - philanthropy
   - awards
 verification_status: published
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 
 ---
 # Taiwanese American Foundation (TAF)
@@ -46,12 +46,16 @@ HOLD: corpus records titled "台美協進會" — [[works/taiwaneseamericanhisto
 - [[works/taiwaneseamericanhistory-org/winners20|20. 王桂榮台美文教基金會得獎人名單]] (2016-04-22) preserves the laureate list of the founder's foundation. HOLD: the record's title renders the name as 台美文教基金會 rather than 台美基金會; same Wang Gui-rong foundation, naming variant unreconciled.
 - The founder's own life record in the corpus: [[works/taiwaneseamericanhistory-org/3-e4-b8-80-e4-bd-8d-e5-8f-b0-e7-be-8e-e4-ba-ba-e7-9a-84-e5-a5-ae-e9-ac-a5-e5-82-|3. 一位台美人的奮鬥傳奇 / 王桂榮 / 2005/10 (傳記)]] (biography) and [[works/taiwaneseamericanhistory-org/mystories449|449. 追憶一個台美人的奮鬥傳奇～王桂榮 / 民報編輯部 / 2016/07]] (retrospective, 2016-07-19) — both bibliographic records; they document how the foundation founder's story is told back to the community.
 - The founder's cooperative-era community work predates TAF: a credit-union memoir records 王桂榮 joining the board at the 1979-02-10 annual meeting and taking over as 社長 in late 1979, holding meetings at his Holiday Inn in Montebello ([[works/taiwaneseamericanhistory-org/ourjourneys244|Our Journeys 244]]) — the business-and-community standing that fed into the 1982 founding year.
+- The foundation's award record reaches back into its first decade as a published volume: [[works/taiwaneseamericanhistory-org/publications4|4. 臺美基金會得獎人傳記 / 王桂榮臺美基金會 / 1993/10 (傳記)]] — laureate biographies issued by the foundation itself, extending the corpus publication series 1986季刊 → 1993得獎人傳記 → 1995頒獎特刊 → 2005–2006 TAF雜誌 (bibliographic record only).
+- The founder's own community-historical writing is corpus primary material: [[works/taiwaneseamericanhistory-org/ourjourneys54-eng|54. 海外台灣人第一所老人公寓一鶴園 / Kenjohn Wang (2014/10)]] — 王桂榮's band-A account of coordinating the two churches (Evangelical Formosa / Presbyterian) that produced the 1979-05-05 Taiwanese American Seniors Association, his years of $1,000 annual donations and fundraising, the 1994 "Most Donations" award, and the 1988 Flamingo Garden senior apartments opening — including his slogan "Our elderly should be taken care of by our own community; we should not rely on the U.S. government to do so." The same episode is recalled from the seniors-association side in [[works/taiwaneseamericanhistory-org/ourjourneys173-eng|Our Journeys 173 (EN)]], which names 王桂榮 (Kenjohn Wang) among the 1988 El Monte builders and records him as the association's honorary president.
 
 ## From the record
 
 - 覆核（TJJ-A09240600-1, 2026-09-25）：本 slice 文章 f06677a469620539（卓甫良與TAF的故事(楊遠薰 2021-06-22)）正文再驗證——Subjects 以純文字列出台灣人協進會 TAF（MFCF 延續）並標注與本獎座基金會為不同組織；Name collision 段辨析經正文比對為真，維持現況，無需獨立建頁 — SKIP，無新材料。
 
 - 覆核（TJJ-A09230500-1, 2026-09-24）：本 slice 文章 f06677a469620539（卓甫良與TAF的故事） 再驗證——該文 Subjects 以純文字列出台灣人協進會 TAF（MFCF 延續的青少年夏令營團體）並明確標注與本獎座基金會為不同組織；上方 Name collision 段的辨析（含該文 wikilink 與創會幹部連結）經正文比對為真，維持現況，無需獨立建頁 — SKIP，無新材料。
+
+Corpus re-check (2026-10-12, deepen-x slice 10102200-6): full-corpus grep (works/articles/sources/events/topics) for 王桂榮 / Wang Gui-rong / Kenjohn / 台美基金會 / 台美文教基金會 returned two previously-unlinked items now absorbed — publications4 (1993 得獎人傳記 volume) and ourjourneys54-eng / ourjourneys173-eng (the founder's own band-A senior-housing memoir and its cross-account). No conflicts; name-collision and 台美文教基金會 HOLDs above stand.
 
 ## Related Pages
 
