@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Yeongchi Wu (吳永吉醫師)
 
@@ -67,3 +67,5 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice 10101204-10, 2026-10-11）: fresh ZH+EN+surname re-grep（吳永吉 / Yeongchi Wu / 永吉醫師, plus broad 永吉 sweep）across all 5 corpus dirs — person hit set unchanged (records 67/125/126, whos-who-122, ourjourneys 256/291, Exit interview, 陳東榮文), all already absorbed/wikilinked. Broad 永吉 hits are false positives (記者陳永吉 bylines, 永吉國小), consistent with prior audits — SKIP: verified-saturated.
 
 <!-- TJJ-A10110502-28: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110502-28 article 14114a89e393f958 (摘下口罩談麻醉醫師角色心得報告, 2024-06-14 存檔) read fresh this attempt: 吳永吉 link re-checked vs 普世醫學段「有一位吳永吉醫師為普世醫學全心奔走」, real, no wrong/spurious links; 普世醫學 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 複核（deepen-x slice 10112243-9, 2026-10-12）: fresh ZH+EN+surname re-grep（吳永吉 / Yeongchi Wu / 永吉醫師, plus broad 永吉 sweep）across all 5 corpus dirs — person hit set unchanged (records 67/125/126, whos-who-122, ourjourneys 256/291, Exit interview, 陳東榮文, sources index), all already absorbed/wikilinked. Broad 永吉 hits confirmed false positives again (記者陳永吉 bylines ×2, 永吉國小 虎林專案) — SKIP: verified-saturated, no new corpus material.
