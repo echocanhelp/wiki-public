@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-12
 ---
 # Gin Ru Yeh (葉錦如)
 
@@ -30,7 +30,7 @@ Accomplishment
 
 ## Family
 
-- **Husband:** 李雅彥
+- **Husband:** [[works/taiwaneseamericanhistory-org/149-dr-ya-yen-lee|李雅彥醫師 (Dr. Ya-Yen Lee)]]
 - **Daughter:** 李宜靜, 李宜安
 - **Son:** 李卓學
 
@@ -75,3 +75,5 @@ Slice deepen-x-slice-09230317-1 (2026-09-23): fresh grep 葉錦如|Gin Ru Yeh �
 <!-- TJJ-A10040500-10: verified 2026-10-06 — subject links in slice 10040500-10 articles (a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e / beff9b8cd9711c3d) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10060600-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060600-5 article a428dcebbceacf38 (抗議南加州台大校友會邀管中閔年會演講, 國立台灣大學校友連署, 2018-07-20): subject link re-checked vs 正文 this attempt — name 確認見於連署名單, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A100606005-a: verified 2026-10-09 — wave-2 link+deepen re-check of article a428dcebbceacf38 (抗議 南加州台大校友會邀管中閔來年會做專題演講, 國立台灣大學校友連署, 2018-07-20): subject link re-checked vs 正文 this attempt — name 確認見於連署名單（含系所標註與本頁一致）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 複核（DEEPEN-X10110000-27, 2026-10-12）：fresh grep 葉錦如|Gin Ru Yeh across works/articles/sources/events/topics — hit set identical to records already cited (ourjourneys112/233/233-eng/328/60/161/319/36, winners13, 176/823); 2026 TJJ article hit is a false positive (葉錦龍, different person). No new absorbable biography material. One link-only deepening: husband 李雅彥 now wikilinked to his own work record [[works/taiwaneseamericanhistory-org/149-dr-ya-yen-lee|149. Dr. Ya Yen Lee 李雅彥醫師]] (a 李雅彥 hit-set probe found 9 dedicated works — memorial scholarship, museum, Who's Who #21 — all about the husband, not her, so not absorbed here).
