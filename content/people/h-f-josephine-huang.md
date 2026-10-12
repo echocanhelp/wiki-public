@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # H. F. Josephine Huang (黃河芬)
 
@@ -94,3 +94,5 @@ last_reviewed: 2026-10-10
 <!-- TJJ-A10090701-30: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-30 article 80c0a825a7a661b6 (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, TJJ 2021-05-17刊 / 2025-11-08 快照, twin b1d58af16c0a5e5b) read fresh this attempt: subject link re-checked vs 正文 — 「黃河芬」列名共同發起人清單確認見於正文, real, no wrong/spurious links; 2021-05-13 dated fact w/ article wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100801-7: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-7 article 80c0a825a7a661b6 (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, 2025-11-08 快照, 同文於 b1d58af16c0a5e5b, 聲明 2021-05-13): subject link re-checked vs 正文 this attempt — 黃河芬 列名共同發起人清單, real, no wrong/spurious links; 2021-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- deepen-x slice-10110600-19: verified 2026-10-12 — fresh ZH+EN re-grep (黃河芬/Josephine Huang) across all 5 corpus dirs: hit set identical (ourjourneys112 圓桌會議輪流主持, TAH #1167, TA.org Pew 聲明, TJJ WHA×2＋祝賀蕭美琴＋鄭寶鼎悼念文, sources index); broader 柑縣/FAPA pattern hits (fapa-oc-newsletter, activities-of-fapa-oc, 7-california-orange-county-chapter-fapa, TJJ 68e130c9) contain no mention of this subject — saturated, 0 new material, 0 links added. -->
