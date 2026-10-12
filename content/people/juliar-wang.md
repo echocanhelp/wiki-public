@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Juliar Wang (謝綉緞)
 
@@ -59,6 +59,8 @@ Source from 美洲台灣日報http://taiwandaily.net/gp2.aspx?_p=kSF1c9zU9HS21FC
 - Re-verify 2026-09-22 (TJJ-A09220600-1): link-check against slice article f454eda084b7ca99（園藝分類 2024-02-24 快照）body — 「多肉植物 succulent–謝秀緞 (Juliar Wang) 主講」mention confirmed real, dated fact with article wikilink already in place above; no new material.
 - 複核（deepen-x slice 09220800-5，2026-09-22）：re-grep 謝綉緞/謝秀緞 / Juliar Wang 命中集不變（whos-who-2043、works index、WHA 聯合聲明 2021/2025 快照、園藝分類 2023/2024/2025 快照、台美人專欄存檔）— 全數已吸收，講座日期 HOLD（2021-05-06 vs 2021-07-18）維持，saturated，SKIP-with-reason。
 - 複核（deepen-x slice 10101100-1，2026-10-11）：fresh grep 謝綉緞/謝秀緞/Juliar Wang 跨 works/articles/sources/events/topics 五目錄，命中 12 檔（whos-who-2043、works index、sources/taiwaneseamericanhistory-org、sources/2023-tahs-publication、WHA 聯合聲明 2021/2025 快照、園藝分類 2023/2024/2025 快照 4 份、台美人專欄存檔）— 與歷次命中集相同，全數已見於本頁 From the record；events/topics 無新命中。講座日期 HOLD（2021-05-06 vs 2021-07-18）維持不變 — SKIP，已飽和。
+
+- 複核（deepen-x slice 10110800-2，2026-10-12）：fresh grep 謝綉緞/謝秀緞/Juliar Wang/王唯昇 跨 works/articles/sources/events/topics 五目錄，命中 13 檔（whos-who-2043、whoswho2044、works index、sources/taiwaneseamericanhistory-org、sources/2023-tahs-publication、WHA 聯合聲明 2021/2025 快照、園藝分類 2023/2024/2025 快照 4 份、台美人專欄存檔）— 與歷次命中集相同，全數已見於本頁 From the record；events/topics 無新命中。講座日期 HOLD（2021-05-06 vs 2021-07-18）維持不變 — SKIP，已飽和。
 
 ## Sources
 - [TAH #2043 encyclopedia: 2043. Juliar Wang 謝綉緞](https://taiwaneseamericanhistory.org/whos-who-2043-juliar-wang/)
