@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Debra Liu (謝金朱)
 
@@ -32,7 +32,9 @@ Debra Liu (謝金朱) is listed in the TAH Foundation Who's Who Taiwanese Americ
 
 ## Family
 
-- **Son:** Yileen
+- **Spouse:** [[people/kocheng-kent-liu|Kocheng Kent Liu (劉格正)]] — engineer/entrepreneur, TAH Who's Who; his page records her as his wife, and he is the member whose FBI interview over the 1982 Triangle-poster incident appears in the chapter's 50-year retrospective ([[organizations/taiwanese-association-nc-chapter|北卡台灣同鄉會]])
+- **Children:** per [[people/kocheng-kent-liu]]: Janet Formosa (劉怡真), Yileen Formosa (劉怡鈴)
+  - HOLD: conflict — this page previously listed "Son: Yileen"; Kocheng Kent Liu's page lists "Daughter: Yileen Formosa (劉怡鈴)". Not auto-merged.
 
 
 ## Sources
@@ -50,3 +52,4 @@ Debra Liu (謝金朱) is listed in the TAH Foundation Who's Who Taiwanese Americ
 <!-- deepen-x slice 10071448-1 (2026-10-09): saturated re-verify — fresh ZH+EN grep (謝金朱 / Debra Liu) across works+articles+sources+events+topics — hit set identical (our-journeys-381, ourjourneys161, our-journeys-365, whos-who-2245); the 劉德華 tag hits are unrelated noise. All already linked above; verified-saturated, nothing new absorbable. SKIP-content. -->
 <!-- deepen-x slice 10090800-6 (2026-10-10): saturated re-verify — fresh ZH+EN grep (謝金朱 / Debra Liu) across works+articles+sources+events+topics — hit set identical (our-journeys-381, ourjourneys161, our-journeys-365, whos-who-2245, works/index, sources/taiwaneseamericanhistory-org); all already linked above; verified-saturated, nothing new absorbable. SKIP-content. -->
 <!-- deepen-x slice 10100900-24 (2026-10-11): saturated re-verify — fresh ZH+EN grep (謝金朱 / Debra Liu) across works+articles+sources+events+topics — hit set identical (our-journeys-381, ourjourneys161, our-journeys-365, whos-who-2245, works/index, sources/taiwaneseamericanhistory-org); all already linked above; verified-saturated, nothing new absorbable. SKIP-content. -->
+<!-- deepen-x slice 10110600-25 (2026-10-12): corpus hit set identical (ZH+EN across works/articles/sources/events/topics; surname sweep hits are 謝金河/台灣金管 noise) — no new prose material. Cross-page links added instead: spouse [[people/kocheng-kent-liu|劉格正]] (reciprocal — his page already names her as wife) and [[organizations/taiwanese-association-nc-chapter]] (chapter page whose history was absorbed from her our-journeys-381 retrospective). HOLD noted: "Son: Yileen" here vs "Daughter: Yileen Formosa (劉怡鈴)" on kocheng-kent-liu — not merged. -->
