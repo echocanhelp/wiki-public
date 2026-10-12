@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Charles Tsai (蔡其芳)
 
@@ -62,3 +62,4 @@ Re-grepped again 2026-09-24 (slice 09230700-16): hit set unchanged (392, 43, 305
 <!-- deepen-x 10062334-7: re-grep 2026-10-08 — fresh ZH+EN grep across all corpus dirs: hit set identical (392, 43, 305, whoswho961, index); all absorbed+linked; St. Louis Cheng-Chang Charles Tsai HOLD stands. Verified-saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 10080600-10: re-grep 2026-10-09 — fresh ZH+EN grep across all corpus dirs: hit set identical (392, 43, 305, whoswho961, index, sources); all absorbed+linked; St. Louis Cheng-Chang Charles Tsai HOLD stands. Verified-saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 10091500-2: re-grep 2026-10-10 — fresh ZH+EN grep across all corpus dirs: hit set identical (392, 43, 305, whoswho961, index, sources); all absorbed+linked; St. Louis Cheng-Chang Charles Tsai HOLD stands. Verified-saturated; SKIP-no-new-facts. -->
+<!-- deepen-x 10102129-4: re-grep 2026-10-11 — fresh ZH+EN grep across all corpus dirs: hit set identical (392, 43, 305, whoswho961, index, sources); 392/43/305 excerpts match absorbed text verbatim; all absorbed+linked; St. Louis Cheng-Chang Charles Tsai HOLD stands. taiwanjustice hits are 蔡其昌 (legislator), not this person. Verified-saturated; SKIP-no-new-facts. -->
