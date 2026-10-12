@@ -4,7 +4,7 @@ type: person
 name_en: "Hung-Jen Liu"
 name_zh: "劉弘仁"
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 tags:
   - person
   - pastor
@@ -68,6 +68,7 @@ Please confirm or correct: birth year; seminary and ordination year (Taiwan and/
 - [[people/hung-jen-wu|Hung-Jen Wu (吳泓仁)]] — name-collision disambiguation anchor
 
 ## Revision History
+- 2026-10-11 — Deepen-X10101500-7 pass: verified-saturated. Fresh ZH+EN grep across works/articles/sources/events/topics returned the identical 3-hit set (TCCCNA directory, TCNN Song memorial, PCT Ren'ai history) — all already absorbed at fact level with wikilinks; no new corpus material, no conflicts to HOLD.
 - 2026-09-20 — Page created from web pass requested by Leonard Hsu Jr. (TAHS); identity merge (Changhua moderator) recorded as operator assessment, pending confirmation.
 - 2026-09-14 — Deepening pass (vault-first corpus grep + primary-source re-fetch): Ren'ai Church founding context expanded from PCT history; TCCCNA entry recorded at fact level (email/phone, no-pulpit format, Bay Area peer list); TCNN memorial expanded (Hsieh, Song's 2013 return constraint); Timeline section added; 3 fact-level source pages created; negative sweep result (psychiatrist homonym) logged.
 - 2026-10-10 — Deepen-X pass: full-corpus grep (works/articles/sources/events/topics) for 劉弘仁 / Hung Jen Liu hits only the 3 already-absorbed vault source pages (TCCCNA, TCNN, PCT Ren'ai). Two new grep collisions identified as DIFFERENT people and added to disambiguation: 劉弘威 Goodwin Liu (CA Supreme Court justice; works #3/#109/#160 + taiwanjustice article) and Rev. William Lew 劉靄泉 (英語部牧師, FPCLA 50-year history, [[works/taiwaneseamericanhistory-org/ourjourneys231|TAH #231]]). No new absorbable facts.
