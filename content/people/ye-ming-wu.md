@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Ye-Ming Wu (吳怡明)
 
@@ -64,3 +64,5 @@ Corpus re-check 2026-10-06 (deepen-x slice 10051340-1): fresh ZH+EN grep — hit
 Corpus re-check 2026-10-08 (deepen-x slice 10062334-1): fresh ZH+EN grep plus 怡明 sweep across works/articles/sources/events/topics — hit set unchanged (ourjourneys24/53 ±EN, whoswho1184, index); 怡明 sweep still only 劉怡明 records (different person). Verified-saturated; SKIP-for-new-facts.
 Corpus re-check 2026-10-09 (deepen-x slice 10080500-2): fresh ZH+EN grep across works/articles/sources/events/topics — hit set unchanged (ourjourneys24/53 ±EN, whoswho1184, index); 怡明 sweep still only 劉怡明 records (different person). Verified-saturated; SKIP-for-new-facts.
 Corpus re-check 2026-10-11 (deepen-x slice 10100800-18): fresh ZH+EN grep across all 5 corpus dirs — 7 hits exactly the linked set (ourjourneys24/53 ±EN, whoswho1184, index, sources/taiwaneseamericanhistory-org); 怡明 sweep still only 劉怡明 (Yi-Ming Liu) records — different person, not merged. Verified-saturated; SKIP-for-new-facts.
+
+Corpus re-check 2026-10-12 (deepen-x slice 10110400-15): fresh ZH+EN grep across all 5 corpus dirs — 7 hits exactly the linked set (ourjourneys24/53 ±EN, whoswho1184, index, sources/taiwaneseamericanhistory-org); 怡明 sweep still only 劉怡明 (Yi-Ming Liu) records — different person, not merged. Cross-refs in sibling people pages (dr-henry-y-wu, dr-ming-tang-lai, may-sing-chang, prof-davis-l-s-chang, dr-shinn-sheng-chang) are peer mentions of the same TACNC facts already absorbed. Verified-saturated; SKIP-for-new-facts.
