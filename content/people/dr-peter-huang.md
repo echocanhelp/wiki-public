@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Dr. Peter Huang (黃勝雄醫師)
 
@@ -73,6 +73,9 @@ last_reviewed: 2026-10-10
 履歷（皆本頁既有事實，僅補連結）：1967 年臺北醫學院醫學士；後赴約翰霍普金斯大學取得醫療政策與衛生政策兩個碩士 —— 與當地台美人學生圈子相連：[[organizations/johns-hopkins-university-taiwanese-student-association||JHU Taiwanese Student Association]]。1984–1996 年任 Delaware Medical Center 神經外科主任（德拉瓦州台美人社團：[[organizations/taiwanese-association-of-america-delaware||TAA Delaware]]）；1993–2015 年任門諾醫院（Mennonite Christian Hospital，花蓮）院長，為台美人醫界投入鄉土的典範 —— 同類組織：[[organizations/north-american-taiwanese-medical-association-foundation||NAMTA Foundation]]。
 
 ## From the record
+
+- 2023-05-30 — 爾灣台灣基督長老教會槍擊案紀念冊報導（TJJ 快照，原文 2023-03-20）：紀念冊收錄花蓮門諾醫院前院長黃勝雄的回憶錄，他以「錯愕」形容當時感受——正從停車場要離開時聽到數聲槍聲；接受美國警方筆錄時才知凶手是中國和平統一促進會會員，並表示事後爾灣教會三個角落都設置警衛，「一種對基督徒全新潛在迫害就在眼前」。與本頁 [[works/taiwaneseamericanhistory-org/our-journeys-380|TAH #380]] 目擊記載互補，此為本人回憶錄版本的細節（[[articles/taiwanjustice-net/2023/20230530143708_2023_03_20_irvine-台灣基督長老教會槍擊案紀念冊-為台美人下一代_76cab17abde5b880|TJJ 紀念冊報導, 2023-05-30 快照]]）。
+- 2020-02-23 — 「〈老人健康研習會講座系列〉黃勝雄醫師講憂鬱症 Depression」原訂後延期至該日舉辦，主辦單位為亞美社會福利基金會（[[articles/taiwanjustice-net/2024/20240613111348_root_461b508952bf2636|TJJ 公告, 2024-06-13 快照]]）——補此前「延期至 2020-02-23」條目所缺之主辦方歸屬。
 
 - 複核（TJJ-A09251000-11, 2026-09-26）：本 slice 文章 cc3dcc87b0a9ed2f（本人標籤彙整頁，2024-05-30 存檔）正文再驗證——四場講座條目（記憶的神經科學 2017、從基因學看長壽 2018、憂鬱症講座 2020、SARS Cov 2 知多少 2021）確認見於正文，本人均為講者，subject 連結為真，無錯鏈、無虛鏈；涵蓋該頁之日期條目已在庫 — SKIP，無新材料。
 
