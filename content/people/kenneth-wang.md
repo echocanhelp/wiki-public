@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Kenneth Wang (王克雄博士)
 
@@ -53,6 +53,8 @@ last_reviewed: 2026-10-11
 - 複核（TJJ-A09251400-2, 2026-09-26）：本 slice 文章 b35038dda7fa4bcf（長青教室心得報告標籤頁, 2024-07-23 存檔）正文再驗證——「長青教室心得報告-蔣介石與二二八慘案-講師 王克雄博士」確認見於正文，subject 連結為真，無錯鏈、無虛鏈；2018-03-07 條目（已掛該頁 wikilink）已在庫 — SKIP，已飽和。
 
 - 2018-03-07 — Lectured at the 長青教室 on 蔣介石與二二八慘案 (Chiang Kai-shek and the 228 tragedy) (心得報告 posted 2018-03-13, later updated with video) ([[articles/taiwanjustice-net/2024/20240723014059_root_b35038dda7fa4bcf|TJJ tag page, archived 2024-07-23]]).
+- 2016-02-28 (轉載) — 「228辛酸血淚‧民主人權漫漫長路‧花朵終於綻放——王克雄博士專訪」於 TJJ 台美人物專訪系列轉載（原載 [[works/taiwaneseamericanhistory-org/mystories409|409. 228辛酸血淚… / 黃樹人]]；快照見 [[articles/taiwanjustice-net/2024/20240905070707_root_a4f51e89fe5a4080]]）：專訪引其未出版書稿描寫 228 場景——母親王陳仙槎 24 歲奔走尋夫遺體、本人時年兩歲九個月、弟王克紹出生僅三個月；王育霖 1943 年考取日本高等文官（司法官）、1944 年入京都地方裁判所成為第一位在日本任職的台灣人檢察官，1946 年堅持起訴貪瀆新竹市長郭紹宗而被迫辭職，卸任後任教建國中學、延平學院並於《民報》撰社論、1947 年完成《提審法解說》，1947-03-14 遭軍人逮走失蹤。HOLD: 專訪「兩歲九個月」（約生於 1944）與 ourjourneys192「1947 年祕警抓捕時年未滿 3 歲」一致，但與 2023 TAHS 傳記「生於 1947」衝突——未合併。
+- 2018-02-23~25 — 「台灣司法改革的先鋒—王育霖檢察官」特展於大洛杉磯台灣會館舉行（台美人歷史協會主辦），王育霖次子王克紹醫師協助蒐集文物，展示自台南地院、新竹地院運美的處分書及司法文書手稿（[[articles/taiwanjustice-net/2022/20220519131147_2018_02_24_台灣司法改革的先鋒-王育霖檢察官_特展2月23-25在_ac33840ee34f1df1|TJJ 轉載, post_date 2022-05-19／原報導 2018-02-24]]）。
 
 ## Role in the Community
 
