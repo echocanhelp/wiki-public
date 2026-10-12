@@ -6,7 +6,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-12
 ---
 # 李彥秀
 
@@ -71,3 +71,5 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 10080949-18: verified 2026-10-09 — fresh ZH+EN+surname re-grep (李彥秀 / Li Yen-Hsiu / Yen-hsiu Li / 彥秀) across works/articles/sources/events/topics: non-TJJ hits unchanged (whoswho921 already linked; index pages; han-guoyu page carries only the same-name HOLD note); all TJJ hits are the KMT legislator 李彥秀, already covered by the identity HOLD above — SKIP-with-reason: still no corpus material for the Illinois physician himself. -->
 
 <!-- TJJ-A10090401-24: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-24 article d4a7f9e55282396a (北市區域立委號次，蔣萬安4吳怡農2，藍綠造勢互有攻防, taiwanjustice.net, 2019-12-17 發發 / 2025-11-15 快照): subject link re-checked vs 正文 this attempt (本人於第四選區「內湖、南港」抽得2號，見於正文第4選區名單), real, no wrong/spurious links; identity HOLD (TAH 醫師與國民黨立委同名巧合) 維持原處理; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- deepen-x slice 10102300-3: verified 2026-10-12 — fresh ZH+EN+alias+geo re-grep (李彥秀 / Li Yen-Hsiu / Yen-hsiu Li / Yanxiu Li / 彥秀 / Bolingbrook) across works/articles/sources/events/topics: hit set unchanged — whoswho921 already wikilinked; index/sources hub pages; all TJJ hits are the KMT legislator 李彥秀, covered by the identity HOLD above; zero hits for the Illinois physician's English-name or Bolingbrook variants. SKIP-with-reason: still no corpus material for the TAH physician himself. -->
