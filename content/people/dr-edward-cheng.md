@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Edward Cheng (鄭德昌博士)
 
@@ -72,3 +72,6 @@ Accomplishment
 ## Deepen-x re-check (slice 10101200-25, 2026-10-11)
 - 語料再檢（漢名「鄭德昌」＋英文名「Edward Cheng」＋「德昌」）遍掃 works/articles/sources/events/topics：本人相關命中（#26、#26-eng、#110、#180、#299、#300、#347、#515、相簿 #94）全數已吸收於上列各欄，無新增事實。
 - 本輪新命中皆為索 listings（works/index、sources 頁）或他人偽命中（林德昌、楊德昌），維持 verified-saturated。
+## Deepen-x re-check (slice 10110805-25, 2026-10-12)
+- 語料再檢（漢名「鄭德昌」＋英文名「Edward Cheng」＋ surname「德昌」）遍掃 works/articles/sources/events/topics：本人相關命中（#26、#26-eng、#110、#180、#299、#300、#347、#515、相簿 #94）全數已吸收於上列各欄，無新增事實。
+- surname-only 命中經逐筆排除：楊德昌（導演 Edward Yang，our-journeys-353、虎尾/金馬報導引文）、林德昌（中山大学撤学位案相關，taiwanjustice 報導）皆非本人；無新事實，維持 verified-saturated。
