@@ -8,7 +8,7 @@ tags:
   - media
   - Wayback-archive
 verification_status: published
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # taiwanjustice.net (台灣公義網)
 
