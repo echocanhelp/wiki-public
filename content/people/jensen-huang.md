@@ -40,7 +40,7 @@ Jensen Huang founded NVIDIA in 1993 and has served since its inception as presid
 - Community archive records his honors: Time's 100 Most Influential People of 2021 ([[works/taiwaneseamericanhistory-org/award-79|79. Jensen Huang, Time's 100 Most Influential People of 2021]]) and Fortune Businessperson of the Year 2017 ([[works/taiwaneseamericanhistory-org/fortune-business-person-of-the-year-jensen-huang|54. Fortune: Business Person of the Year / Jensen Huang 黃仁勳 / 2017]]).
 - Cited in the community coverage of Stanford's Taiwan Science & Technology Hub unveiling (06/2023): Stanford's engineering dean named him — alongside TSMC's Morris Chang and Yahoo's Jerry Yang — as a Taiwan-born alumnus whose impact on world technology is profound ([[works/taiwaneseamericanhistory-org/our-journeys-387|387. 史丹佛「台灣科學及科技中心」揭幕]]).
 - **台語復興指標（corpus interview）** — In the TAIGI-activism interview with Keng-lam Su (林央敏) [[works/taiwaneseamerican-org/taigi-activism-keng-lam-su-in|TAIGI activism interview]], he is named as a celebrity Tâi-gí user whose public use of 台語 made speaking it "trendy and cool" for the younger generation — a community-identity role beyond business honors.
-- 2026-09-20 re-grep: NEW absorbable record — TJJ coverage 2026-01: Beijing ordered Chinese tech firms to halt Nvidia AI-chip purchases; he publicly expressed 失望 and said he would respond with 耐心 (see From the record).
+- 2026-09-20 re-grep: NEW absorbable record — TJJ coverage: Beijing ordered Chinese tech firms to halt Nvidia AI-chip purchases; he publicly expressed 失望 and said he would respond with 耐心 (see From the record, 2025-09-17 entry).
 
 ## Sources
 - [TAH #221 encyclopedia: 221. Jen-Hsun Jensen Huang 黃仁勳](https://taiwaneseamericanhistory.org/ota-221/)
