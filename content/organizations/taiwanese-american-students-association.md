@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Taiwanese American Students Association
 
@@ -26,6 +26,7 @@ The Taiwanese American Students Association (TASA) at Texas A&M University is a 
 - Texas A&M 黑名單校友脈絡（2026-10-07，deepen-x 10060911-1 新鏈）：1980 年代黑名單紀錄列兩位德州農工大學（Texas A&M）留學背景者因支持台灣獨立運動遭列名——謝慶輝（大同工學院→Texas A&M 工業工程碩士，曾任1977同鄉會會長）與郭正光（台大農工系→Texas A&M 食品營養博士，時任農工同學會會長、1987同鄉會會長，三度申請返台遭拒）；見 [[works/taiwaneseamericanhistory-org/ourjourneys106|Our Journeys 106（中華民國的黑名單）]]。屬該校園之運動史脈絡，非本 TAMU TASA 自身歷史。
 - 再驗證＋新鏈（本波 2026-10-09，deepen-x 10080049-1）：以 `Texas A&M`／`TAMU`／`台美學生社` 全 corpus 重 grep，除已鏈之 ITASA 系列與 Our Journeys 317/321/356、黑名單紀錄外無新可吸收材料；其餘 Texas A&M 提及（Amazon 藥局無人機試辦 College Station、N95 口罩專家評論等）屬校園無關新聞報導，非運動史紀錄，不予吸收。另補兩筆先前未鏈之 ITASA 語料：[[works/taiwaneseamericanhistory-org/newsletter-itasa|ITASA Newsletter]] 與 [[works/taiwaneseamericanhistory-org/intercollegiate-taiwanese-american-students-association-itasa|ITASA 組織紀錄]]，屬聯校台美學生社層級，與 TAMU TASA 仍非同一組織。本會自身維持 SKIP。
 - 再驗證＋辨義新鏈（本波 2026-10-11，deepen-x 10100700-1）：以 `Texas A&M`／`TAMU`／`Taiwanese American Students Association`／`TASA` 全 corpus 重 grep，仍無本 TAMU 社團（2018 創社）之記載。新辨義點：corpus 另見校園層級「TASA」之用法——[[works/taiwaneseamerican-org/introducing-the-oftaiwan-award-new-funding-for-taiwanese-american-student-progra|OFTaiwan Award 創始記]] 中創辦人自述就學於 Rutgers 時之「TASA (Taiwanese American Students Association)」（「TASA fam」），屬各校校園 TASA 泛稱脈絡，與本 TAMU 社團同名非同一；該文另記 OFTaiwan Award 由 TaiwaneseAmerican.org 與 ITASA 合辦、資助各校台美學生社團（[[works/taiwaneseamerican-org/inspire-empower-and-activate-itasas-coming-of-age|ITASA Coming of Age]]），屬學生運動支持面脈絡。本 TAMU TASA 自身歷史維持 SKIP。
+- 校園 TASA 泛稱再證（本波 2026-10-12，deepen-x 10110200-1 新鏈）：[[works/taiwaneseamerican-org/finding-myself-through-the-taiwanese-american-community|Finding Myself through the Taiwanese American Community]]（2013 年散文，作者歷任 TASC／ITASA 要職、2011–12 任 ITASA 全國社長）以專文 FAQ 論證各校「TASA（Taiwanese American Students Association）」之存在價值——「TASAs aren't purposely trying to be exclusive... a means for people to connect」——為校園層級 TASA 泛稱之又一文證，屬學生運動論述脈絡，與本 TAMU 社團（2018 創社）同名非同一。本 TAMU TASA 自身歷史維持 SKIP。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-american-students-association/)
