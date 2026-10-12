@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Hsin-Cheng Hsiao (蕭新晟)
 
@@ -128,3 +128,16 @@ _No filled family fields on the TAH profile._
   (國家寶藏 / National Treasure) surfaced 1 previously-unlinked record now absorbed:
   Our Journeys #320 (FAPA retrospective, 國家寶藏 "因海外g0v黑客松醞釀而成" — supports
   the hackathon-origin framing). 1 deepened, 0 new HOLDs.
+
+## Corpus re-grep (2026-10-12, slice 10110805-30)
+- Re-grep 蕭新晟/Hsin-Cheng Hsiao/新晟 across works/articles/sources/events/topics:
+  same 6 hits as prior slices, no new person-name records. Related-project grep
+  (國家寶藏 / National Treasure) returned 3 additional files: two are duplicates of
+  already-linked records — 楊遠薰's 海台青與黑客松 column re-archived at
+  [[articles/taiwanjustice-net/2024/20240523010214_root_3260cd0bdf2f84d7]] (same column,
+  2024-05-23 Wayback snapshot) and a site-index page listing the 2017-07-10 自由時報
+  report already linked via our-journeys/tw-85. The third,
+  [[works/taiwaneseamerican-org/national-treasure-taiwanese-identity]] ("Finding the
+  Treasure"), is about the 2004 film *National Treasure* and Taiwanese-American
+  identity — a false name-match, NOT the 國家寶藏 project. 0 deepened, 0 new links,
+  0 new HOLDs.
