@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-29
+last_reviewed: 2026-10-12
 ---
 # Dr. Teng Lung Hsu (許登龍醫師)
 
@@ -61,3 +61,4 @@ HOLD: TAH directory lists brother 許丕龍 and 許左龍 (corpus) vs no family 
 - Corpus re-grep 2026-09-25 (slice 09250800-12): SKIP — fresh ZH+EN grep (許登龍／Teng Lung Hsu) hit set unchanged (own #1843, works index, ourjourneys2/268/349); verified saturated, no new material.
 - Corpus re-grep 2026-09-26 (slice 09260317-25): SKIP — fresh ZH+EN grep hit set unchanged (own #1843, works index, ourjourneys2/268/349); verified saturated, 黃瑞鳳 marriage-link flag still open, no new material.
 - Corpus re-grep 2026-09-27 (slice 09260700-12): SKIP — fresh ZH+EN grep hit set unchanged (own #1843, works index, ourjourneys2/268/349); the loose-pattern extras (ourjourneys81-eng = Teng-chun Li, Alice Tong piece = Vienna Teng) are different people; 黃瑞鳳 marriage-link flag still open; verified saturated.
+- Corpus re-grep 2026-10-12 (slice 10102200-20): SKIP — fresh ZH+EN+surname grep (許登龍／Teng Lung Hsu／登龍) across all 5 corpus dirs; hit set unchanged (own #1843, works index, ourjourneys2/268/349). The one new hit (taiwanjustice-net 2022-02-04 RFA interview with 陳破空) is a false positive — "李世民登龍位" (Li Shimin ascending the throne) in a CCTV Spring-Gala discussion, not this person. Verified saturated; 黃瑞鳳 marriage-link flag still open.
