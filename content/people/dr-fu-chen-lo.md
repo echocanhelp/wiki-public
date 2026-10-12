@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Fu-Chen Lo (羅福全博士)
 
@@ -67,6 +67,7 @@ last_reviewed: 2026-10-11
 - **Taiwan Tribune founding, 1981:** [[works/taiwaneseamericanhistory-org/ourjourneys63|Our Journeys #63]] — founded July 1981 in Long Island City, NY by the Formosan League for Self-Reliance, with him as founding publisher (發行人) and Hung Cheh-sheng president/editor-in-chief; launched on ~US$120,000 raised from ~2,000 pre-subscriptions, no single patron. [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys #33]] dates the first issue to 1981-07-31 (covering the Chen Wen-chen incident), while [[works/taiwaneseamericanhistory-org/ourjourneys49|Our Journeys #49]] says operations began July 15 — HOLD: July 15 vs July 31 (likely launch vs first issue; not merged). [[works/taiwaneseamericanhistory-org/ourjourneys237|Our Journeys #237]] recalls him as helmsman (主舵) of the paper alongside Formohansa in America's Formosa Weekly.
 - **Congressional advocacy, 1981:** in February 1981 he and the narrator of [[works/taiwaneseamericanhistory-org/ourjourneys59|Our Journeys #59]] called on Rep. Bill Solomon, opening the path to the separate 20,000-per-year U.S. immigration quota for Taiwan, signed into law after Christmas 1981 (effective 1982-01-01).
 - **Public campaigns:** his wife [[people/tah-p-e00ace0a3a|毛清芬]] appeared on advocacy floats as "Taiwan Tribune publisher Lo's wife" — [[works/taiwaneseamericanhistory-org/ourjourneys210|Our Journeys #210]].
+- **1982 World Taiwanese Congress, Houston:** at the ninth 世界台灣同鄕會 (1982), he reported for the assembly as the Taiwan Tribune representative (台灣公論報代表), alongside Hsu Hsin-liang (Formosa Magazine), Hsu Jui-feng (Human Rights Association), Su Ying-ming (Formosa Press) and Tsai Tung-rong (FAPA) — [[works/taiwaneseamericanhistory-org/ourjourneys266|Our Journeys #266]]. The record counts the Tribune among the new North American Taiwanese organizations that had appeared since 1979.
 - **His own narrations and biography:** oral-history pieces [[works/taiwaneseamericanhistory-org/ourjourneys57|Our Journeys #57 (2014-11)]] and [[works/taiwaneseamericanhistory-org/ourjourneys62|#62 (2014-11)]]; the biography [[works/taiwaneseamericanhistory-org/publications635|From Taiwan to the World and Back (2015)]]; on his Japan-diplomacy period, [[works/taiwaneseamericanhistory-org/publications467|Publications #467 — 羅福全與台日外交 (2012)]]; 2002 Tokyo photo with the Lu Shu-yi couple — [[works/taiwaneseamericanhistory-org/ourjourneys126|Our Journeys #126]].
 
 ## Sources
