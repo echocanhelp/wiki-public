@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Kris Hsu (徐謙讓)
 
@@ -78,3 +78,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10100401-12: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-12 article 77b0891ec24689f9 (週末漫談音樂(88) 信雅古典音樂珍藏啟用儀式致詞, 2021-10-16): Kris徐謙讓 link (好朋友來訪展示收藏、代探詢返台捐贈方案) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10110001-18: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110001-18 article 77b0891ec24689f9 (週末漫談音樂(88)「信雅古典音樂珍藏」啟用儀式致詞全文, TJJ 發文 2021-10-16／快照 2021-12-07) read fresh this attempt: 「好朋友 Kris（徐謙讓先生）來拜訪……努力替我們探聽了幾個可能性」re-checked vs 正文, real, no wrong/spurious links; 約2019 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- slice 10110316-12: verified 2026-10-12 — fresh grep 徐謙讓/Kris Hsu across works+articles+sources+events+topics returns the identical saturated set (own [[works/taiwaneseamericanhistory-org/whos-who-2157-kris-hsu|TAH #2157]], works index, TJJ 週末漫談音樂 38「感謝徐謙讓先生的安排」& 88「好朋友 Kris 來拜訪…代探詢捐贈方案」), all absorbed above. SKIP — verified-saturated, no new community facts. -->
