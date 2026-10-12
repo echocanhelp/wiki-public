@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Eileen Chang (楊宜宜)
 
@@ -63,6 +63,7 @@ Facts absorbed from the TAH encyclopedia entries already cited on this page:
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[works/taiwaneseamericanhistory-org/213-mrs-yi-yi-yang-e6-a5-8a-e5-ae-9c-e5-ae-9c-the-first-president-of-taiwan-miss||TAH Encyclopedia #213: Mrs. Yi Yi Yang 楊宜宜 — first president of Taiwan Mission]]
+- [[works/taiwaneseamericanhistory-org/144-e6-a5-8a-e5-ae-9c-e5-ae-9c-e5-bc-b5-e5-af-8c-e9-9b-84-e5-8f-b0-e7-81-a3-e4-b|TAH Encyclopedia #144: 楊宜宜 張富雄 — 台灣之音, 1977–1982]]
 
 ## Connected in the Vault
 - Husband and Voice-of-Taiwan co-founder [[people/morgan-chang|Morgan Chang (張富雄)]] shares the TAH #144 and #143 encyclopedia entries cited above (台灣之音 hotline; 海外台灣基督徒聯合通訊).
