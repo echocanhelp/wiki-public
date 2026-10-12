@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Prof. H. C. Lee (李弘祺教授)
 
@@ -62,3 +62,4 @@ _No filled family fields on the TAH profile._
 > Re-verify 2026-10-08 (deepen-x slice 10062334-9): fresh ZH+EN grep (李弘祺/H. C. Lee) of works/ + articles/ + sources/ + events/ + topics/ — hit set unchanged (#889 own entry, #101 collection, ourjourneys2 《高雄事件專輯》note, disambiguated #1672 Bill H. C. Lee, sources index); ourjourneys2 passage re-read in full, fully absorbed. Verified saturated; SKIP-with-nothing-absorbable.
 > Re-verify 2026-10-09 (deepen-x slice 10080600-16): fresh ZH+EN+surname grep (李弘祺/H. C. Lee/弘祺) across all 5 corpus dirs — hit set unchanged (#889 own entry, #101 collection, ourjourneys2 《高雄事件專輯》note, disambiguated #1672 Bill H. C. Lee, sources index). ourjourneys2 passage re-read; 李弘祺教授 appears once as 參與編輯《高雄事件專輯》, already fully absorbed in Role in the Community. Verified saturated; nothing new absorbable.
 > Re-verify 2026-10-10 (deepen-x slice 10091500-8): fresh ZH+EN grep (李弘祺/H. C. Lee/弘祺) across all 5 corpus dirs — hit set unchanged (#889, #101, ourjourneys2, disambiguated #1672, index, sources hub). Alias probe (Hung-Chi/Hong-Chi Lee) returned only homophone-unrelated hits (Hong-Chien Lin, Hong-Chih Kuo — different persons, not merge candidates). Verified saturated; SKIP.
+> Re-verify 2026-10-11 (deepen-x slice 10102129-12): fresh ZH+EN+surname+alias grep (李弘祺/H. C. Lee/弘祺/Hung-Chi/Hong-Chi) across all 5 corpus dirs — hit set unchanged (#889 own entry, #101 collection, ourjourneys2 《高雄事件專輯》note, disambiguated #1672 Bill H. C. Lee, works index, sources hub). ourjourneys2 passage re-read; 李弘祺教授 appears once as 參與編輯《高雄事件專輯》, already fully absorbed. Verified saturated; nothing new absorbable.
