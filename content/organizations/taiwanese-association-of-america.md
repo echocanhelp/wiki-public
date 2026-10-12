@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Taiwanese Association of America (全美台灣同鄉會)
 
@@ -44,6 +44,8 @@ The Taiwanese Association of America (TAA, 全美台灣同鄉會) is a national 
 - TAA national presidency lineage confirmed in corpus: 莊承業 (Cheng Y. Chuang, described as 全美台灣同鄉會會長 at the 1976 WFTA annual meeting in Los Angeles, where he cited Houston's 1975-06 first Taiwanese credit union — [[works/taiwaneseamericanhistory-org/ourjourneys244|244. 曇花一現的南加信用合作社 / 周實]]; also [[people/cheng-y-chuang|Cheng Y. Chuang]]) — [[people/dr-mu-sheng-wu|Dr. Mu-Sheng Wu]] president 1974–1976 per Who's Who — 吳木盛 as Austin chapter founding president 1970, and as the 1975-era figure who introduced 呂秀蓮 to the 1975 US East summer assembly ([[works/taiwaneseamericanhistory-org/ourjourneys265|265. 2011年美西夏令會的回顧 / 黃根深]]) — 鄭紹芳 (2019) — 陳桂鈴 (2021, 228-series closing summary). HOLD: 244 (周實 memoir) names 莊承業 as 全美會會長 at the 1976 WFTA annual meeting, conflicting with Who's Who's 吳木盛 1974–1976 term — never auto-merged; the 244 reference may be chapter-level.
 - 1970s Austin origin story: the Austin association was founded March 1970 in an Austin church by 40+ students under surveillance; registered at the University of Texas as the student club "the Formosan Club" to avoid KMT retaliation, with 吳木盛 as first president — same memoir [[works/taiwaneseamericanhistory-org/ourjourneys76|76. 全美台灣同鄉會 / 吳木盛]].
 - 2015 — TAA Minnesota Chapter history published as TAH #123 by Chi-Ming Tseng — [[works/taiwaneseamericanhistory-org/ourjourneys123-eng|123. 明州台美人百年大事 / Brief History of TAA Minnesota]]
+- 1994 — 外交大突破: the TAA national president was invited to visit the White House, recorded as a diplomatic breakthrough for the association — [[works/taiwaneseamericanhistory-org/taa-to-white-house|TAH #74 外交大突破-全美台灣同鄉會會長應邀訪問白宮 1994]]
+- Further chapter records in the corpus: [[works/taiwaneseamericanhistory-org/history-taannj|TAH #43 北澤西台灣同鄉會 / Northern New Jersey]], [[works/taiwaneseamericanhistory-org/cleveland-chapter-taa|克里夫蘭分會 Cleveland]], [[works/taiwaneseamericanhistory-org/baton-rouge-la-chapter-taa|巴頓魯治分會 Baton Rouge]], [[works/taiwaneseamericanhistory-org/west-los-angeles-chapter-taa|西洛杉磯分會 West Los Angeles]], [[works/taiwaneseamericanhistory-org/minnesota-chapter-taa|明州台灣同鄉會 Minnesota]].
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-association-of-america/)
