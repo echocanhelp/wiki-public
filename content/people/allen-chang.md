@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Allen Chang (張伯寬)
 
@@ -61,3 +61,5 @@ last_reviewed: 2026-10-11
 <!-- deepen-x 10062334-7: re-grep 2026-10-08 — fresh ZH+EN grep across all corpus dirs: hit set identical (whos-allen-chang #2053, OJ#33, OJ#63, index) — all absorbed+wikilinked. Verified-saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 10080600-6: re-grep 2026-10-09 — fresh ZH+EN grep (張伯寬/Allen Chang/伯寬) across works+articles+sources+events+topics: hit set identical (whos-allen-chang #2053, OJ#33, OJ#63, works/index, sources/taiwaneseamericanhistory-org) — all absorbed+wikilinked. Verified-saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 10091414-3: re-grep 2026-10-10 — fresh ZH+EN grep (張伯寬/Allen Chang/伯寬) across all corpus dirs: hit set identical (whos-allen-chang #2053, OJ#33, OJ#63, works/index, sources/taiwaneseamericanhistory-org) — all absorbed+wikilinked. Verified-saturated; SKIP-no-new-facts. -->
+
+<!-- deepen-x 10120018-8: re-grep 2026-10-12 — fresh ZH+EN grep (張伯寬/Allen Chang/伯寬 + byline 許台俊) across all corpus dirs: hit set identical (whos-allen-chang #2053, OJ#33, OJ#63, OJ#207, works/index, sources/taiwaneseamericanhistory-org) — all absorbed+wikilinked. Verified-saturated; SKIP-no-new-facts. -->
