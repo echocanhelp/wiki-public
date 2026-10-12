@@ -10,7 +10,7 @@ tags:
   - 1970s-present
   - republication
 verification_status: published
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # National Taiwanese Presbyterian Council (NTPC)
 
