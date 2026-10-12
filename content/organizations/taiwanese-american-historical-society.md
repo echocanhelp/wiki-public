@@ -7,7 +7,7 @@ tags:
   - TAHS
   - historical-preservation
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 
 # Taiwanese American Historical Society (TAHS)
@@ -67,9 +67,18 @@ Not on the 2025 paper org chart. Owner-confirmed for public leadership listing (
 
 ## History & public activity (in-vault records)
 
+### Founding (2013–2014)
+
+- 2013 — founding member [[people/zheng-bing-quan||鄭炳全 Zheng Bingquan]]'s own account (旅美五十周年 memoir): 「2013年夏由楊嘉猷出面邀各方賢逹共籌台美人歷史協會 Taiwanese American Historical Society，年底正式成立，他當首任會長，我當副會長，理事廿名，顧問七名，申請非營利組織，次年我接會長」 — i.e. 楊嘉猷 first president, 鄭炳全 vice president, ~20 directors / 7 advisors; 鄭 succeeded as president the following year, with the logo designed by [[people/huang-gen-shen||黃根深]] and the TAhistory.org website by [[people/freeman-huang||黃樹人]]. He records interviewing 三四十位鄉親先賢 over four-five years, hosting 十多場追思會、演講會和展覽會, and publishing 一輯《台美人菁英錄》. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16||taiwanjustice.net, 2025-02-09]]
+  *(**HOLD**: founding date — 鄭炳全's memoir says organized summer 2013 / 「年底正式成立」, while 林衡哲's 2014-12-02 shareholder letter describes 楊嘉猷 as then 「推動成立」 the society in Southern California. Both kept; not merged.)*
+- 鄭炳全's account also states he served one 3-year presidential term and then asked founding president 楊嘉猷 to resume, 「續任至今」 — consistent with the 2025 chart listing 楊嘉猷 as 創會會長.
+
 - 2016-02-24 — the society is listed in the TAH encyclopedia as 「台美人歷史協會 / Taiwanese American History Society」 with its original site http://www.tahistory.org/ : [[works/taiwaneseamericanhistory-org/3-taiwanese-american-history-society||TAH #3]].
 - 2014-12-02 — in a letter to 台灣出版社 shareholders, 林衡哲 records that shareholder 楊嘉猷 was then in Southern California 「推動成立海外台美人歷史協會」, with the mission of having the generation of overseas Taiwanese Americans record the history they have walked — 「給當代台美人歷史做一個交代，並留給下一代台美人做參考」 ([[works/taiwaneseamericanhistory-org/ourjourneys70||林衡哲, 股東同仁公開信, 2014-12-02]]). This places the founding push of TAHS (創會會長 [[people/yang-jia-you||Charles Yang 楊嘉猷]]) in late 2014, consistent with the society's first encyclopedia listing in 2016.
 - 2015-12 — the 「台美人的腳跡」/ Taiwanese American Journey to the West autobiography-collection project is recorded in the vault at [[works/taiwaneseamericanhistory-org/pub-928||TAH #928]] — context for TAHS's memoir-documentation mission.
+- 2016-02-10 — TAHS listed among the associations joining 大洛杉磯台灣會館's relief/fundraising drive for the 南臺灣大地震 (Tainan earthquake): 「…全美台灣人權協會，美國台南同鄉會，台美人歷史協會，南加州台灣客家會，大洛杉磯台灣讀書會 (LA Taiwan Buzz)…」 [[articles/taiwanjustice-net/2023/20230204025720_2016_02_10_南臺灣大地震-大洛杉磯台灣會館關懷故鄉-發起救災_7b4a687c89ee1a3d||taiwanjustice.net, 2016-02-10]].
+- 2018-02-23~25 — TAHS 主辦 「台灣司法改革的先鋒—王育霖檢察官」特展 at 大洛杉磯台灣會館 [[articles/taiwanjustice-net/2022/20220519131147_2018_02_24_台灣司法改革的先鋒-王育霖檢察官_特展2月23-25在_ac33840ee34f1df1||taiwanjustice.net, 2018-02-24]]. *(HOLD: 王育霖 has no existing person page in the vault; no slug invented.)*
+- 2024 — TAHS listed as a co-organizing 台美社團 of the 2024 大洛杉磯 228事件追思紀念會暨聯合社團系列活動 [[articles/taiwanjustice-net/2025/20250328132115_2024大洛杉磯228事件追思紀念會暨聯合社團系列活動邀_c41dfa01b8f3bcbb||taiwanjustice.net, 2025-03-28]].
 - 2021-05-13 — TAHS (台美人歷史協會) is listed as a 共同發起單位 of the 2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, announced at a press conference at 洛杉磯華僑文教服務中心; TAHS co-initiated alongside 大洛杉磯台灣會館, NATMA chapters, FAPA chapters, 台美公民協會 and ~40 SoCal groups ([[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b||TJJ, WHA 聯合聲明, recorded 2021-06-16]]).
 - 2023-03-25 — TAHS 舉辦「如何寫回憶錄(自傳)座談會」 at 大洛杉磯台灣會館第五教室; 講員: 國策顧問、前國科會副主委 [[people/xie-qingzhi-xie-poyi||謝清志]]（回憶錄《生命的震動》）, 顧問 [[people/gene-tsai||蔡錦榮 Gene Tsai]]（自傳《我的奮鬥人生及美國夢》）, and 會長 [[people/yang-jia-you||楊嘉猷 Charles Yang]]（《咱的故鄉咱的故事》）— report archived at [[articles/taiwanjustice-net/2023/20230601053743_2023_03_20_台美人歷史協會3-25舉辦_如何寫回憶錄自傳座談會_e0c8343cf2888d43||taiwanjustice.net, 2023-06-01]].
 - 2025-09-03 — TAHS held the inauguration of new president [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] at the 台美人長輩會 office, followed by a board meeting on bylaw revision (president term set to one 3-year term, officer terms synced), finances, and work plan. Founding president [[people/yang-jia-you||Charles Yang 楊嘉猷]] framed the handover as 「世代傳承」, with the society turning to collect/interview/publish 台美人 second- and third-generation figures; TAHS had by then published two 「台美人菁英錄」 volumes. Attendees included 楊嘉猷, 許景鴻, 蔡漢成, 劉玲華, 李意盛, 楊錦忠, 沈梓在, 蔡淑女, 黃樹人. Hsu said that, budget permitting, TAHS would consider staffing Wikipedia entries for outstanding Taiwanese Americans ([[articles/taiwanjustice-net/2025/20251107004331_台美人歷史協會新任會長許景鴻接椽-開啟世代傳承_11575c718bbd4c74||taiwanjustice.net, 2025-11-07]]). *(The article dates the event 九月三日星期三; Sept 3, 2025 was a Wednesday — date taken as recorded.)*
