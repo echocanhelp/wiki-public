@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Brian Hioe (丘琦欣)
 
@@ -64,3 +64,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09260317-12 re-verify 2026-09-26: fresh grep — identical hit set (our-journeys-373, whos-brian-hioe, works index, the-228-inheritance, laguna-woods shooting, taiwanjustice 民調 84a3fbcf); all absorbed above; SKIP-with-reason: verified-saturated -->
 <!-- deepen-x slice 10081100-14 re-verify 2026-10-10: fresh grep 丘琦欣/Brian Hioe/破土/New Bloom across 5 corpus dirs — real hits all absorbed; 破土 matches in ourjourneys 37/50/173/272/305 are "groundbreaking" false positives, not Hioe/New Bloom. NEW: linked 5 previously-uncited works carrying New Bloom material (new-bloom-online-magazine, 228 resource lists ×2, anti-AAPI reporting, Taiwan Mixed partners, Bonnie Jin profile description) -->
 <!-- deepen-x slice 10100800-21 re-verify 2026-10-11: fresh grep 丘琦欣/Brian Hioe/Hioe across 5 corpus dirs — 10 hits, all real hits already absorbed; NEW: linked 2025-04-19 taiwanjustice republication of the same VOA email interview (84a3fbcf), previously uncited -->
+<!-- deepen-x slice 10110400-18 re-verify 2026-10-12: fresh grep 丘琦欣/Brian Hioe/Hioe across 5 corpus dirs — 10 hits, identical hit set (our-journeys-373, whos-brian-hioe, works index, the-228-inheritance, laguna-woods shooting, taiwanjustice 民調 2024/2025 + CNN Pelosi + 2024-04-25 forum); 破土/New Bloom sweep adds only false positives (ourjourneys 37/50/173/272/305 = "groundbreaking"; jewish-palestine + parents-resources carry New Bloom but no Hioe mention). All real hits absorbed above; SKIP-with-reason: verified-saturated -->
