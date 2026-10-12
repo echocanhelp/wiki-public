@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Tai-Cheng Chen (陳泰成博士)
 
@@ -69,6 +69,7 @@ Two further TAH story-corpus entries exist in the vault:
 
 Deepen 2026-09-14 (corpus sweep): no new biographical facts beyond the absorbed TAH #99/#111 text; community-performance and interview records above added from ourjourneys287/294, mystories127, and TAH #81.
 Deepen 2026-10-10 (corpus sweep): added the 1989 and 1992 TUF 「台灣文化之夜」 performances from ourjourneys301 (林衡哲's TUF history) — not previously on the page; 287/294 hits re-verified, no conflicts.
+Deepen 2026-10-12 (corpus sweep, slice 10120100-26): fresh 5-dir sweep (陳泰成/Tai-Cheng Chen/Tai Chin Chen, 12 files) — all substantive hits (99/111/81/76, mystories127, ourjourneys287/294/301) already absorbed above; no new facts. Dated-record confirmation: TAH #76 and #81 published 2014-11-10, 李淑櫻's interview [[works/taiwaneseamericanhistory-org/mystories127|My Stories #127]] published 2014-10-16. Remaining 泰成 hits are unrelated namesakes (北韓副相李泰成; 郭泰成 in ourjourneys81) — excluded, not conflated.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
