@@ -9,7 +9,7 @@ tags:
   - physician
   - musician
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Ye Siya & Zhang Xinhui (葉思雅、[[people/grace-h-yeh||張信惠]])
 
@@ -71,6 +71,11 @@ The couple co-founded TARSA ([[organizations/taiwanese-american-religious-study-
 - **2015 — Zhang Xinhui profile.** Grace H. Yeh / 張信惠 profile record, [[works/taiwaneseamericanhistory-org/448-grace-h-yeh-e5-bc-b5-e4-bf-a1-e6-83-a0201506|Grace H. Yeh 張信惠 (2015/06)]].
 - **Zhang Xinhui essay.** "Love Is the Best Medicine" / 愛是最佳良藥 by 張信惠, [[works/taiwaneseamericanhistory-org/146-e6-84-9b-e6-98-af-e6-9c-80-e4-bd-b3-e8-89-af-e8-97-a5-love-is-the-best-medic|Love Is the Best Medicine]].
 - **Medical profiles.** Two biographical records on Ye Siya (Sze-Ya Yeh) in the archive: [[works/taiwaneseamericanhistory-org/134-dr-sze-ya-yeh-e8-91-89-e6-80-9d-e9-9b-85-e9-86-ab-e5-b8-ab-e5-8f-83-e8-88-87|Dr. Sze-Ya Yeh — Participation and Advocacy]] and [[works/taiwaneseamericanhistory-org/135-dr-sze-ya-yeh-e8-91-89-e6-80-9d-e9-9b-85-e9-86-ab-e5-b8-ab-e7-ac-ac-e4-b8-80|Dr. Sze-Ya Yeh — The First]].
+- **2014 — TARSA founding memoir.** Ye's own first-person account of establishing TARSA, 創設 TARSA 的心路歷程 (2014/11), [[works/taiwaneseamericanhistory-org/ourjourneys61|創設 TARSA 的心路歷程 — Ye Siya (2014/11)]] — primary source for the 2009 founding date above.
+- **2014 — Zhang Xinhui faith essay.** 張信惠's essay on her religious faith journey, 宗教信仰心路歷程 (2014/11), [[works/taiwaneseamericanhistory-org/144-e5-8f-b0-e7-be-8e-e4-ba-ba-e5-ae-97-e6-95-99-e7-a0-94-e7-bf-92-e6-9c-83-e7-a|宗教信仰心路歷程 — Zhang Xinhui (2014/11)]].
+- **2015 — Who's Who profile.** Ye Siya (Sze-ya Yeh) entry in the archive's Who's Who, [[works/taiwaneseamericanhistory-org/whos-who-447-sze-ya-yeh|Prof. Sze-ya Yeh 葉思雅教授 — Who's Who (2015/06)]].
+- **2019 — Collection record.** Bibliographic record of Prof. Sze-ya Yeh's personal collection, [[works/taiwaneseamericanhistory-org/private-collections-89|Collection of the Prof. Sze-ya Yeh 葉思雅教授的收藏 (2019/10)]] — complements the donation coverage above.
+- **Note (disambiguation):** "肇輝、信惠夫婦" of a Chicago 北濱會 circle (林壽英 memoir, [[works/taiwaneseamericanhistory-org/ourjourney221|Our Journey 221]]) and 梁信惠 in [[works/taiwaneseamericanhistory-org/11-e6-b4-aa-e5-be-b7-e7-94-9f-e3-80-81-e6-a2-81-e4-bf-a1-e6-83-a0-e5-a4-ab-e5-a9|洪德生、梁信惠 夫婦返台服務]] are different persons — not merged.
 
 ## Source Notes and Confidence
 - **Content priority A:** 2023 TAHS Publication (profile, "典範‧傷逝" section, ~2720 lines)
