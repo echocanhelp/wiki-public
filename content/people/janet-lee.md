@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Janet Lee (李慧芝)
 
@@ -48,3 +48,4 @@ Corpus re-check 2026-10-08 (deepen-x slice 10062334-1): fresh ZH+EN grep across 
 Corpus re-check 2026-10-09 (deepen-x slice 10080500-1): fresh ZH+EN grep returns the identical set — own TAH records #38/#706, works/index rows, and the 2025 taiwanjustice-net articles where 李慧芝 appears only as running prose for the 行政院發言人 (not a named subject). Also probed Lafayette/IN footprint: no movement-corpus hits tying this person to any work beyond her own TAH profile records. Nothing absorbable; verified-saturated; collision HOLD stands.
 Corpus re-check 2026-10-10 (deepen-x slice 10090900-1): fresh ZH+EN grep across works/articles/sources/events/topics returns the identical hit set — own TAH records #38/#706, works/index rows, and the 2025 taiwanjustice-net articles where 李慧芝 appears only as running prose for the 行政院發言人 (not a named subject). Verified-saturated; SKIP-for-new-facts; collision HOLD stands.
 Corpus re-check 2026-10-11 (deepen-x slice 10100800-1): fresh ZH+EN grep returns the identical set — own TAH records #38/#706, works/index rows, and the 2025 taiwanjustice-net articles where 李慧芝 appears only as running prose for the 行政院發言人 (not a named subject). Nothing absorbable; verified-saturated; collision HOLD stands.
+Corpus re-check 2026-10-12 (deepen-x slice 10110315-23): fresh ZH+EN grep across works/articles/sources/events/topics returns the identical set — own TAH records #38/#706, works/index rows, and the 2025 taiwanjustice-net articles where 李慧芝 appears only as running prose for the 行政院發言人 (not a named subject). A broad-regex probe also surfaced the-return-of-tacls-leadership-in-development-camp, but its "Janet Chien" / "Amy Lee" are different people — false positive, not linked. Nothing absorbable; verified-saturated; collision HOLD stands.
