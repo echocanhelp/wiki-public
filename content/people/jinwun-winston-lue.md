@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Jinwun Winston Lue (呂錦文)
 
@@ -69,3 +69,5 @@ Accomplishment
 - SKIP-with-reason：全語料 ZH+EN 重檢命中集不變（ourjourneys102／162／162-eng／245／313、本人著作 #11、出處頁 #14、works index、sources 頁）；articles 目錄之「呂錦」命中經核實為黃呂錦茹（台灣演義等節目標題）之誤配，與本人無關。Community Record 已全數吸收，無新增可吸收事實、無衝突。
 ## Deepen-x re-check (slice 10101100-6, 2026-10-11)
 - SKIP-with-reason：全語料 ZH+EN 重檢命中集不變（ourjourneys102／162／162-eng／245／313、本人著作 #11、出處頁 #14、works index、sources 頁）；articles 目錄舊有「呂錦」命中經再次確認為黃呂錦茹誤配、與本人無關。Community Record 已全數吸收（含 1975 副會長當選緣由「會中建言」、1986 第八屆夏令會召集人、2009-09-19 改建表揚、2014 署名著作），無新增可吸收事實、無衝突。
+## Deepen-x re-check (slice 10110800-6, 2026-10-12)
+- SKIP-with-reason：本次全語料 ZH+EN 重檢（呂錦文／呂錦／Jinwun／Winston Lue）命中集與歷次完全相同（ourjourneys102／162／162-eng／245／313、本人著作 #11、出處頁 #14、works index）；articles 目錄「呂錦」命中再次確認為黃呂錦茹誤配、與本人無關。Community Record 已全數吸收，無新增可吸收事實、無衝突。
