@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Yu-Chien Benny Tseng (曾宇謙)
 
@@ -89,6 +89,8 @@ _No filled family fields on the TAH profile._
 複核（deepen-x slice 10081200-13, 2026-10-10）：corpus re-grep（曾宇謙／Benny Tseng／Yu-Chien Tseng／曾宇，works+articles+sources+events+topics）命中集 10 檔，其中 9 檔（whoswho1408、ourjourneys294、videos111、musician374、index、兩篇會館台灣學校 TJJ 記錄、許文龍專輯、sources 清單）已吸收並 wikilink；新增吸收 1 檔——公視 tag 索引中 2015-07-03 公視日光大道曾宇謙專訪條目，已 wikilink 進 Role in the Community。events/topics 無命中。無衝突。
 
 複核（deepen-x slice 10100849-25, 2026-10-11）：corpus re-grep（曾宇謙／Benny Tseng／Yu-Chien Tseng／曾宇，works+articles+sources+events+topics）命中集 10 檔不變（whoswho1408、ourjourneys294、videos111、musician374、index、兩篇會館台灣學校 TJJ 記錄、許文龍專輯、公視 tag 索引、sources 清單），全數已吸收並 wikilink；無新增社群材料 — SKIP-with-reason（飽和）。
+
+複核（deepen-x slice 10110500-25, 2026-10-12）：corpus re-grep（曾宇謙／Benny Tseng／Yu-Chien Tseng／曾宇，works+articles+sources+events+topics）命中集 10 檔不變（whoswho1408、ourjourneys294、videos111、musician374、works index、兩篇會館台灣學校 TJJ 記錄、許文龍專輯、公視 tag 索引、sources 清單），全數已吸收並 wikilink；無新增社群材料 — SKIP-with-reason（飽和）。
 
 ## 照片
 
