@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Chiao-jung Wang (王巧蓉)
 
@@ -39,6 +39,7 @@ last_reviewed: 2026-10-11
 - Re-check 2026-10-09 (slice 10080400-12): fresh ZH+EN grep (王巧蓉 / Chiao-jung Wang / Chiao Jung Wang) across works/articles/sources/events/topics — hit set identical (ourjourneys228, mystories539, ourjourneys-138, whoswho1712 + index/hub links); roster block read in full context again (2001 VP line under 謝榮春, unchanged). Verified-saturated; no new corpus facts.
 - Re-check 2026-10-10 (slice 10090800-24): fresh ZH+EN grep (王巧蓉 / Chiao-jung Wang / Chiao Jung Wang / 巧蓉) across works/articles/sources/events/topics — hit set identical (ourjourneys228, mystories539, ourjourneys-138, whoswho1712 + index/hub links); roster block re-read (2001 會長謝榮春 / Chiao Jung Wang 王巧蓉 VP line, unchanged). Verified-saturated; no new corpus facts.
 - Re-check 2026-10-11 (slice 10101205-22): fresh ZH+EN grep (王巧蓉 / Chiao-jung Wang / Chiao Jung Wang / 巧蓉) across works/articles/sources/events/topics — hit set identical (ourjourneys228, mystories539, ourjourneys-138, whoswho1712 + index/hub links); roster block re-read (2001 會長謝榮春 / Chiao Jung Wang 王巧蓉 VP line, unchanged). Verified-saturated; no new corpus facts.
+- Re-check 2026-10-12 (slice 10112300-19): fresh ZH+EN grep (王巧蓉 / Chiao-jung Wang / Chiao Jung Wang / 巧蓉) across works/articles/sources/events/topics — hit set identical (ourjourneys228, mystories539, ourjourneys-138, whoswho1712 + index/hub links); roster block re-read (2001 會長謝榮春 / Chiao Jung Wang 王巧蓉 VP line, unchanged). Verified-saturated; no new corpus facts.
 
 ## Family
 
