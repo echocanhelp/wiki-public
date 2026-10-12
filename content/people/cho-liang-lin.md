@@ -82,6 +82,9 @@ Facts already present in vault pages citing Cho-Liang Lin (no new sources):
 - **2014-11-30** — 李雪玟's report 「台美人名小提琴家林昭亮, 震撼內華達的一場演奏會」 recorded as [[works/taiwaneseamericanhistory-org/153-e5-8f-b0-e7-be-8e-e4-ba-ba-e5-90-8d-e5-b0-8f-e6-8f-90-e7-90-b4-e5-ae-b6-e6-9|TAH #153]] (2014 Nevada concert).
 - **1999-09** — Profile 「林昭亮-天籟的傳釋者」 by 晨曦, recorded as [[works/taiwaneseamericanhistory-org/70-e6-9e-97-e6-98-ad-e4-ba-ae-e5-a4-a9-e7-b1-9f-e7-9a-84-e5-82-b3-e9-87-8b-e8-80|TAH #70]].
 - **2015-02-10 / 2015-12-10 / 2018-09-12** — Who's Who / encyclopedia entries: [[works/taiwaneseamericanhistory-org/whos-who-289-cho-liang-lin|TAH #289]], [[works/taiwaneseamericanhistory-org/90-cho-liang-lin-e6-9e-97-e6-98-ad-e4-ba-ae-famous-violinist|TAH #90 "Famous violinist"]], [[works/taiwaneseamericanhistory-org/90-cho-liang-lin|TAH #90]].
+- **2014-12** — Encyclopedia record 「87. Cho-Liang Lin 林昭亮, Violinist」 catalogued as [[works/taiwaneseamericanhistory-org/87-cho-liang-lin-e6-9e-97-e6-98-ad-e4-ba-ae-violinist|TAH #87]] — previously only in Sources, now linked.
+- **Chamber collaborations** — Composer/pianist 邱崇德's biography records that he frequently performed on stage with Lin and 胡乃元 in New York's contemporary-music scene (from his 1996 FLUX Quartet era onward), per [[people/dr-tom-chiu|Dr. Tom Chiu (邱崇德)]].
+- **Series attribution** — The 「台灣名家演奏系列」 is attributed to [[organizations/taiwanese-united-fund|台灣人聯合基金會 (TUF)]] in 曾宇謙's biography ([[people/yu-chien-benny-tseng|曾宇謙]]); at TUF's 2016 30th anniversary, Lin's concerts were cited among the series' highlights alongside 胡乃元、陳慕融、蘇顯達, per [[works/taiwaneseamericanhistory-org/ourjourneys294|Our Journeys #294]].
 
 ## From the record
 
