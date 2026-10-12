@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Shu-Yuan Susan Tsay (蔡淑媛)
 
@@ -59,6 +59,10 @@ Shu-Yuan (Susan) Tsay 蔡淑媛 (翠屏) – History of Taiwanese American (T.A.
 ## Role in the Community（deepen pass 2026-10-10，語料全庫重掃）
 - **台灣正義網「台美人台加人」專欄再補一篇：**〈記得當時年紀小〉◎ 翠屏（post 2020-05-19）刊於台美線專欄，見 [[articles/taiwanjustice-net/2020/20200628200117_category_taiwaneseamerican_page_3_ac95b4bde9c91f00|台美人台加人頁 3 存檔]]——與既有〈夏日湖畔〉同屬其台美媒體散文線，可考專欄發表期為 2020 年。
 - **HOLD：同名同筆名誤配排除（本次全庫重掃判定）**——語料中另有「蔡淑媛」為《自由時報》台中地方記者（如 [[articles/taiwanjustice-net/2025/20250616220625_冬至吃湯圓-主食宜減量_4顆包餡湯圓等於1碗飯熱_7d09d976b6f8fe9d|2019-12-19 冬至湯圓營養報導]]、2022-03-20 空污報導），署名格式為「記者蔡淑媛／台中報導」，與本頁旅居休士頓之蔡淑媛非同一人；「翠屏」亦見於中國四川宜賓翠屏區公安單位帳號（2022-05 李克強新聞轉述），非筆名。以上皆不入本頁事跡，供後續加深者勿誤掛。
+
+## Role in the Community（deepen pass 2026-10-12，語料全庫重掃）
+- **TAH 百科條目補掛 wikilink：**本頁經 TAH Who's Who 收錄之百科條目已有語料頁——[[works/taiwaneseamericanhistory-org/whos-who-31|TAH #31 Shu-Yuan (Susan) Tsay 蔡淑媛（翠屏）（2014/10/04）]]（Who's Who 條目，與本頁 Identity Snapshot 同為其身分主檔）；文學條目 [[works/taiwaneseamericanhistory-org/publications125|TAH #125 往事知多少（1996.02，文學）]]——補入散文序列起點之語料連結，其可考文學發表年表由此上溯至 1996。
+- **全庫重掃結論：**本次 蔡淑媛／Susan Tsay／翠屏 三式檢索遍佈五語料目錄，命中 42 檔，除上列兩條百科條目外皆已於先前各 pass 掛link；「記者蔡淑媛」誤配排除（見 2026-10-10 pass HOLD 條目）再次確認，無新增事跡。
 
 ## Sources
 - [TAH #24 encyclopedia: 24.  Susan Tsay 蔡淑媛](https://taiwaneseamericanhistory.org/24-susan-tsay/)
