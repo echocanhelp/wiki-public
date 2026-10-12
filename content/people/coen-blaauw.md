@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Coen Blaauw (昆布勞)
 
@@ -70,6 +70,8 @@ For more information, please click link :My Stories >>>464. 爲何我在FAPA ? /
 - His own essay on why he works at FAPA: 「爲何我在FAPA?」 ([[works/taiwaneseamericanhistory-org/mystories464|464. 爲何我在FAPA?, 2016-09]]); profiled again by 楊遠薰 in 「昆布勞與FAPA的奇緣」 ([[works/taiwaneseamericanhistory-org/mystories608|608, 2017-11]]).
 - 2009-11 — with wife [[people/iris-ho|Iris Ho 何燕青]], invited by TAA Minnesota to speak on US–Taiwan relations and FAPA's Young Professional Group (YPG) ([[works/taiwaneseamericanhistory-org/ourjourneys123|123. 明州台美人百年大事, 曾啟明]]; same 2009 entry in the English chronology: "FAPA: Coen Blaauw and his wife, Iris Ho — Introduced Taiwan-US Relations and FAPA YPG" ([[works/taiwaneseamericanhistory-org/ourjourneys123-eng|123-eng]])).
 - **Capitol Hill craft, per his own account.** In a TaiwaneseAmerican.org interview he describes his role as FAPA's Congress specialist — especially with the House: he drafts Taiwan-related legislation, identifies introducers, recruits co-sponsors, and shepherds bills to the floor ("coaching legislation from the beginning to the end"). He has lived in the U.S. since January 1990 and has been with FAPA since; his University of Amsterdam thesis was on the 1981 Dutch–Taiwanese submarine deal, which drew him into Taiwan affairs. Called a "Taiwan Sons-in-Law" alongside [[people/dr-gerrit-van-der-wees|Gerrit van der Wees]], in 2010 (age ~52) the two lectured at campuses across Taiwan to urge youth political participation ahead of the presidential election ([[works/taiwaneseamerican-org/sacramento-event-featuring-coen-blaauw-an-advocate-for-taiwan-on-capitol-hill|Sacramento event feature, 2010]]; same interview: [[works/taiwaneseamerican-org/a-conversation-with-the-taiwan-sons-in-law|A Conversation with the Taiwan Sons-in-Law]]). HOLD: conflict on start year — the encyclopedia table says FAPA 執行長 from 2000 and 楊遠薰 says "since 1989", while Blaauw himself says he has lived in the U.S. and worked at FAPA since January 1990.
+
+- 覆核（DEEPEN-X10110100-32, 2026-10-12）：本 slice 再驗證——五目錄 re-grep（昆布勞 / Coen Blaauw / Blaauw / blaauw 大小寫）hit set 與歷次完全一致：works 9 檔（mystories464/608、ourjourneys123/228、whos806、sacramento-event、a-conversation-with-the-taiwan-sons-in-law、coen-blaauw-fapa-tribute、index）、TJJ articles 5 檔（d3c83997、e38ae3f7、23197ebf、4336057f、昆布勞標籤頁）、sources 1 檔——全部已有對應 wikilink 於本頁，無未鏈接材料；無新日期事實 — SKIP，已飽和。
 
 ## Sources
 - [TAH #806 encyclopedia: 806. Coen Blaauw 昆布勞 / 2016/02](https://taiwaneseamericanhistory.org/whos806-cone-blaauw/)
