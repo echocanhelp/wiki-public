@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Sandy Yen (莊和子)
 
@@ -56,3 +56,4 @@ last_reviewed: 2026-10-11
 <!-- deepen-x slice 10071520-1 re-verify 2026-10-09: fresh ZH+EN grep (莊和子 / Sandy Yen) over all five corpus dirs — hit set identical (my-stories-852/853, ourjourneys19/236, whoswho1163, works/sources index); all facts (MLI 1981 創辦, pellicle 全球最大製造商, 僑務委員, 台加文化中心, 我的故事專欄) already absorbed and wikilinked. Verified-saturated, nothing new absorbable. -->
 <!-- deepen-x slice 10090800-8 re-verify 2026-10-10: fresh ZH+EN grep over all five corpus dirs — hit set identical (my-stories-852/853, ourjourneys19/236, whoswho1163, works/index); 853's Cogito/Magnex/Genoa passage is the 慶豐 Group cluster, not a 莊和子 fact. All facts absorbed and wikilinked; corpus-saturated, SKIP stands. -->
 <!-- deepen-x slice 10101000-28 deepen 2026-10-11: expanded grep (顏永財 / Micro Lithography beyond 莊和子/Sandy Yen) surfaced 3 unrecorded corpus records: NATPA 十週年年會募款 顏永財捐 $10,000 (ourjourneys47), 美西三協會聯合大會 顏永財+方森茂各捐 $10,000「低調不出鋒頭」(ourjourneys239), 夫之 TAH #794 百科條目 (2016/01). All absorbed into Role in the Community with wikilinks; no date/age conflicts. -->
+<!-- deepen-x slice 10110700-28 re-verify 2026-10-12: fresh ZH+EN grep (莊和子/Sandy Yen/顏永財/Micro Lithography) over all five corpus dirs — hit set identical to all prior passes (my-stories-852/853, ourjourneys19/236/47/239, whoswho1163, TAH #794, works/sources index); 853 Cogito/Magnex/Genoa passage = 慶豐 Group cluster, not a 莊和子 fact. All facts absorbed and wikilinked; corpus-saturated, SKIP stands. -->
