@@ -163,3 +163,5 @@ last_reviewed: 2026-10-12
 <!-- TJJ-A10100901-20: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-20 article ad7f737b9872262d (第55回世界臺灣文化論壇「大佛普拉斯」, TJJ 2022-10-03 發文 / 2025-09-06 快照) read fresh this attempt: subject link re-checked vs 正文 — 「主持人 鄭良光」確認見於正文, real, no wrong/spurious links; 2022-10-03 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10101001-4: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10101001-4 article 753347eb4cf48066 (台文通訊30冬紀念獎頒獎典禮part1公告, TJJ 發文 2021-10-28／2021-12-07 快照) read fresh this attempt: 鄭良光以世界台灣文化論壇共同發起人來賓身分確認見於正文, subject link re-checked, real, no wrong/spurious links; 2021-10-30 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10110201-31: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110201-31 article 2b4b26ff (English Pages 目錄頁, 2017-11-09 快照) read fresh this attempt: 鄭良光/Simon Cheng 遇見台灣歌仔戲北美巡演投稿條目 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

@@ -171,3 +171,5 @@ His childhood experience with racial discrimination shaped his worldview. He wit
 ![20200629102351_wp-content_uploads_2016_04_John-Chiang-江俊輝_jp](../images/people--john-chiang.jpg)
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20200629102351）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+
+<!-- TJJ-A10110201-31: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110201-31 article 2b4b26ff (English Pages 目錄頁, 2017-11-09 快照) read fresh this attempt: John Chiang 專欄條目 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
