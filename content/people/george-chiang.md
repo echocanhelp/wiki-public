@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # George Chiang (江正吉)
 
@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 - Re-grep 2026-09-16 (deepen-x slice 09162200-11): same hit set (mystories 747/648/7/499, publications1123, artifact #66), all already wikilinked above. SKIP-no-new-material.
 - Re-grep 2026-09-17 (deepen-x slice 09170500-6): new hit — collective autobiography [[works/taiwaneseamericanhistory-org/publications1046|1046. 台美人生命腳跡 (2016/11)]], now absorbed into Role in the Community. Rest of hit set (mystories 747/648/7/499, publications1123, artifact #66, collection record) already wikilinked. Deepened.
 - Re-grep 2026-10-11 (deepen-x slice 10100700-20): ZH+EN grep across all 5 corpus dirs — hit set identical to prior passes (mystories 747/648/7/499/6, publications1123, artifact #66, collection record, TJJ essay 寫作的樂趣); the TJJ essay is now wikilinked to its corpus article file. No new material. Deepened (link added), 0 conflicts.
+- Re-grep 2026-10-12 (deepen-x slice 10110315-22): ZH+EN grep (江正吉/George Chiang) across all 5 corpus dirs — 14 hits, identical set (mystories 747/648/7/499/6, publications1123/1046, artifact #66, collection record, TJJ essay), all already wikilinked above. Loose 'Chiang' grep hits (musical-concerts-157, Prof Ming-chiang Lin, Te-chiang Bacco Liu, John Chiang, ourjourneys) are other people. Verified-saturated SKIP, 0 conflicts.
