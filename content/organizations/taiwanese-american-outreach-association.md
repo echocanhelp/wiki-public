@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Taiwanese American Outreach Association (台美人交流協會)
 
@@ -37,3 +37,4 @@ The Taiwanese American Outreach Association (TAOA) is a volunteer-driven, not-fo
  Slice deepen-x-slice-09250317-4 (2026-09-25): fresh ZH+EN re-grep (works+articles) — identical hit set to prior checks; all hits already wikilinked/absorbed (TAIA string-match in taiwanjustice article is an archive_digest false positive). Nothing new absorbable. SKIP (saturated).
  Slice deepen-x-slice-09251500-1 (2026-09-26): fresh ZH+EN re-grep (works+articles) — identical hit set (directory record, 親善大使 x2, ourjourneys232, ourjourneys150, index); all already absorbed. HOLD on TAOA/TAIA acronym stands. SKIP (saturated).
  Slice deepen-x-slice-10091316-20 (2026-10-10): fresh ZH+EN+acronym re-grep (台美人交流協會 / Outreach / Interaction / TAOA / TAIA across works+articles+sources+events+topics) — identical hit set (directory record, 親善大使 x2, ourjourneys232, ourjourneys150, index); all already wikilinked. Absorbed residual detail from ourjourneys232: OCAC/TECRO listed as supporters, 張懷德 (with 蔡碧珠) built the float monument, TAA-GWC president 劉美齡 led late-stage volunteer recruitment. No new corpus material. HOLD on TAOA/TAIA acronym stands.
+ Slice deepen-x-slice-10102129-30 (2026-10-12): fresh ZH+EN+acronym re-grep (台美人交流協會 / Outreach / Interaction / TAOA / TAIA across works+articles+sources+events+topics) — identical hit set; the two taiwanjustice-net article hits re-confirmed as archive_digest hash false positives (substring 'TAIA' in base32 digests). All real hits already absorbed/wikilinked. SKIP (saturated); HOLD on TAOA/TAIA acronym stands.
