@@ -129,3 +129,5 @@ Zheng was not a member of the Geneva Presbyterian Church congregation in Laguna 
 
 <!-- TJJ-A10101401-2: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10101401-2 article 117bdbbd9b362236 (台灣來美的外省第二代周文偉到台美人教會開槍殺人, LA Times/CNA 綜合報導, 2022-05-16刊/2022-07-05快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10110102-20: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110102-20 article 8362234ba338aea7 (南加州槍擊案的省思, 2022-05-17): 鄭達志醫師挺身而出防止悲劇擴大·壯烈犧牲 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10112301-2: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10112301-2 article 117bdbbd9b362236 (台灣來美的外省第二代周文偉到台美人教會開槍殺人, LA Times/CNA 綜合報導, 2022-05-16刊/2022-07-05快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
