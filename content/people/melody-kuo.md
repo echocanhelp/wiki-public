@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Melody Kuo (郭雋律)
 
@@ -74,3 +74,4 @@ _No filled family fields on the TAH profile_ (see Family & Vault Connections bel
 <!-- TJJ-A10090701-21: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-21 article 11aa2dfa5f64d7e4 (楊子清 tag頁, TJJ 2020-09-30 / 2021-01-17 快照): 「TUF 台灣文化之夜 1994 – …郭雋律…」條目確認見於正文; subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100701-10: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-10 article 11aa2dfa5f64d7e4 (楊子清 tag頁, TJJ 2020-09-30 / 2021-01-17 快照): 「TUF 台灣文化之夜 1994 – …郭雋律…」條目確認見於正文; subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- DEEPEN-X10101500-14: re-pass 2026-10-11 — full-corpus grep (works/articles/sources/events/topics, variants 郭雋律 / Melody Kuo / melody-kuo) hit the same 6 files: ourjourneys301 (1989+1994 TUF 文化之夜, both already in Role in the Community with wikilinks; 1989 passage also names 陳泰成/黃美星 but adds nothing on her), TAH #119/#229 work pages (already wikilinked), works/index.md + sources/taiwaneseamericanhistory-org.md (index listings, already linked), taiwanjustice tag 11aa2dfa5f64d7e4 (already in From the record ×8). 姊妹花 1994 郭英俊《台灣狂想曲》 solo already recorded. No new material — SKIP, saturated. -->
