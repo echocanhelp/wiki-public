@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Strong Chuang (莊秋雄)
 
@@ -75,3 +75,4 @@ last_reviewed: 2026-10-10
 <!-- TJJ-A10090801-26: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-26 article f6213c1937fa956d (全美台灣同鄉會2021年二二八紀念系列活動圓滿落幕, 2021-03-14 刊 / 2025-04-30 快照) read fresh this attempt: subject link re-checked vs 正文 — 「邀請獨派前輩莊秋雄的孫子莊淵威，擔任『返校』線上遊戲的實況主」逐字確認見於正文, real, no wrong/spurious links; 2021-02-28 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- deepen-x slice 10100315-9: verified 2026-10-10 — fresh ZH+EN+partial grep (莊秋雄 / Strong Chuang / 秋雄) across all 5 corpus dirs (works/articles/sources/events/topics), 22 hits read this attempt: 130, 71, 415, mystories451, whoswho1297, ourjourneys 33/58/63/81/81-eng/230/234/256, our-journeys-357, publications 286/1040, remembering-the-228 (NYT), 種更多的樹 (2025 + 2022 snapshot — same 余杰 essay), f6213c19 — hit set fully linked on page; surname-only hits (楊秋雄 in 楊嘉猷 memoir, 林秋雄 in TAHS #1045) are different persons, correctly not absorbed. Kansas Group name-conflict HOLD unchanged. SKIP — saturated, no new material. -->
 <!-- TJJ-A10100801-14: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-14 article f6213c1937fa956d (全美台灣同鄉會2021年二二八紀念系列活動圓滿落幕, taiwanjustice.net, 2021-03-14 刊 / 2025-04-30 快照) read fresh this attempt: subject link re-checked vs 正文 — 「邀請獨派前輩莊秋雄的孫子莊淵威，擔任「返校」線上遊戲的實況主」逐字確認見於正文, real, no wrong/spurious links; 2021-02-28 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- deepen-x slice 10102300-14: verified 2026-10-12 — fresh ZH+EN+surname grep (莊秋雄 / Strong Chuang / 秋雄) across all 5 corpus dirs (works/articles/sources/events/topics): 25 files hit; 莊秋雄-count check confirms the 3 extra hits beyond the 10100315-9 set (楊嘉猷 memoir 咱的故鄉-咱的故事 2022/2026 snapshots, TAHS #1045) match only 楊秋雄/林秋雄 — different persons, correctly not absorbed. Hit set for 莊秋雄 fully linked on page; Kansas Group name-conflict HOLD unchanged. SKIP — saturated, no new material. -->
