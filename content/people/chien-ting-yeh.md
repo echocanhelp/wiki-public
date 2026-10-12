@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Chien-Ting Yeh (葉介庭)
 
@@ -68,3 +68,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10060900-1: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10060900-1 article(s) c692a70646f3af76（舊金山台裔市議員莊吳明芳「外國不能干預美國官員出訪」CNA專電, 2022-08-05刊）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090801-7: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-7 article c692a70646f3af76（舊金山台裔市議員莊吳明芳「外國不能干預美國官員出訪」CNA專電, 2022-08-05刊）read fresh this attempt: subject link re-checked vs 正文 — 葉介庭引述紐時談裴洛西訪台逐字確認見於正文, real, no wrong/spurious links; 2022-08-05 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- Corpus re-grep 2026-10-12 (slice 10110316-16): 葉介庭/Chien-Ting Yeh/Chieh-Ting Yeh/介庭 四式全檔 grep 於五個 corpus 目錄，命中 14 檔——本傳條目 #425、works index、已掛鏈之 OFTaiwan/Pew/Farewell Formosa/Clubhouse/A Tale of Two Islands/228 論壇/BLM 翻譯/TJJ 兩檔、sources 頁；另有兩檔（[[works/taiwaneseamerican-org/pew-research-reissues-report-on-asian-americans-after-misrepresenting-taiwanese-|Pew 重新刊出報告]]、[[works/taiwaneseamerican-org/no-double-ten-is-not-taiwans-independence-day|Double Ten 聲明]]）僅為同一「Media Director, Write in Taiwanese Census Campaign」作者署名傳記之重複出處，無新事實。無日期衝突新增 — 本頁現行內容已飽和。
