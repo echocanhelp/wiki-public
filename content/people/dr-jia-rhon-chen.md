@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Jia-Rhon Chen (陳家榮醫師)
 
@@ -34,6 +34,7 @@ Eleanor Heartney, a contributing editor to Art in America and author of Critical
 ## Role in the Community
 - The community essay [[works/taiwaneseamericanhistory-org/ourjourneys291||Our Journeys (ourjourneys291)]] places him among the Taiwanese-American physician-artists — "陳家榮自小喜歡繪畫，一邊當醫師，一邊畫出自己的一片天" — alongside pathologist-painter 施哲三 and physician-painter 許明彥.
 - Painting practice: member of the art societies 台陽畫會, 蘆畫會, 芳蘭畫會 and the New York Long Beach (長堤) art society, per the biographical note in the memorial slideshow [[works/taiwaneseamericanhistory-org/26-memorial-slideshow-for-dr-jia-rhon-chen-e9-99-b3-e5-ae-b6-e6-a6-ae-e9-86-ab-e||#26 陳家榮醫師生命的禮讚 (2015)]]. His art is catalogued as TAH #904 (Art/藝術, 1993) — [[works/taiwaneseamericanhistory-org/publications904||#904 陳家榮 JIA-RHON CHEN (1993)]] — and his personal collection as [[works/taiwaneseamericanhistory-org/collection-of-dr-jia-rhon-chen||#44 Collection of Dr. JIA-RHON CHEN 陳家榮醫師的收藏]].
+- The artist-writer 黃根深's exhibition essay [[works/taiwaneseamericanhistory-org/ourjourneys256||#256 寫在畫展之前 (2016/10)]] reproduces his entry from the 中西部台灣人夏令會手冊 (1985): born 1940 in 雲林縣; 台大醫學院 and NYU neurology training; "曾任紐約布魯克林退伍軍人醫院腦科主治醫師"; won a prize in the pastel-painting section of the Audubon exhibition in New York; exhibited in Taiwan and New York, with solo shows at the Manhattan Art Center and St. John's University.
 - His wife 黃春英 authored two TAH stories on his art: [[works/taiwaneseamericanhistory-org/245-e9-99-b3-e5-ae-b6-e6-a6-ae-e9-86-ab-e5-b8-ab-e7-9a-84-e7-b9-aa-e7-95-ab-e5-a||#245 陳家榮醫師的繪畫境界 (2015/05)]] and [[works/taiwaneseamericanhistory-org/mystories573||#573 畫家陳家榮醫師為行醫與藝術兩全之奮鬥史 (2017/09)]].
 - The commemorative album [[works/taiwaneseamericanhistory-org/photo-albums-activities-101||#101 In memory of Dr. Jia-Rhon Chen — 陳家榮醫師生命的禮讚 (2015/11)]] and the memorial slideshow [[works/taiwaneseamericanhistory-org/26-memorial-slideshow-for-dr-jia-rhon-chen-e9-99-b3-e5-ae-b6-e6-a6-ae-e9-86-ab-e||#26]] plus [[works/taiwaneseamericanhistory-org/56-jia-rhon-chen-201511||#56 陳家榮 JIA-RHON CHEN (2015/11)]] indicate he died in late 2015, matching the end of his Formosa Chamber Music Society chairmanship tenure (1991–2015). HOLD: no explicit death record found in corpus; the date is inferred from the memorial album.
 
