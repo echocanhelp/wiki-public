@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Taiwan Elite Alliance
 
@@ -57,6 +57,7 @@ last_reviewed: 2026-10-11
   - 許正龍為**第一任台灣茶葉大使（2007）**，見 [[works/taiwaneseamericanhistory-org/68-thomas-shu-e8-a8-b1-e6-ad-a3-e9-be-8d-the-first-ambassador-of-taiwan-tea-e7-a|TAH work #68]]；此為上方「台灣茶葉大使」身分之始源紀錄。
   - 2015-05 許正龍與潘掬慧（Josephine Pan）於萬國節推廣台灣好茶，見 [[works/taiwaneseamericanhistory-org/ourjourneys290|ourjourneys #290]]；潘掬慧亦見於優社連署代表與 TUF 前會長紀錄。
   - 2023 台美小姐選拔賽許正龍以台灣茶葉大使身分擔任評審，見 [[articles/taiwanjustice-net/2025/20250614233935_2023台美小姐選拔賽_盛大舉行-宋依珊_mimiq-soong_奪后_79b5f26fdef89d22|TJJ 2023台美小姐選拔賽]]；屬社長個人大使活動，非優社機構活動。
+- 2026-10-12 語料複核（slice 10110805-24）：fresh grep（優社／Taiwan Elite Alliance／許正龍／TEA）跨全部五語料目錄，命中全為本頁已收錄紀錄（concerts #3、#68、清掃洛杉磯河 #5、TAH #20、ourjourneys #123/#290、連署聲明、77/78 週年 TJJ 報導、2026-02 會館協辦名單），無新事實可吸收 — verified saturated。
 
 ## Related Pages
 
