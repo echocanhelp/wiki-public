@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Dr. Lung-Fong Chen (陳隆豐博士)
 
@@ -42,9 +42,10 @@ Publication(Non-professional)
 - As Taiwan Center chairman (理事長) he steered the Center through its 1991–1992 financial crisis: one of four volunteers — with 樊豐美, 黃再添 (Patrick Huang), and 賴弘典 (Hong-Tien Lai) — who kept fundraising for the failing Center and recruited the memoir's author as Center Director in 1992 [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys #76]].
 - Authored the essay 台灣與國際組織 (2004-02, 政治) [[works/taiwaneseamericanhistory-org/308-e5-8f-b0-e7-81-a3-e8-88-87-e5-9c-8b-e9-9a-9b-e7-b5-84-e7-b9-94-e9-99-b3-e9-9|308. 台灣與國際組織]].
 - HOLD: conflict — the 全美會 history in Our Journeys #27 lists 陳隆豐 as secretary and as a director at the 1971 Washington D.C. incorporation of The Formosan Club of America, Inc.; attribution to this person is not yet confirmed against his later New York roles.
-- His own TAH encyclopedia entry is preserved in-corpus at [[works/taiwaneseamericanhistory-org/151-dr-lung-fong-chen|151. Dr. Lung-Fong Chen 陳隆豐博士]].
+- His own TAH encyclopedia entries are preserved in-corpus at [[works/taiwaneseamericanhistory-org/151-dr-lung-fong-chen|151. Dr. Lung-Fong Chen 陳隆豐博士]] and [[works/taiwaneseamericanhistory-org/whos-who-58-lung-fong-chen|58. Dr. Lung-Fong Chen 陳隆豐博士]].
 - Told the founding story of the Taiwan Center in the 2017 oral history 「心心念念一間厝」: the near-purchase of the Bowne Street veterans' club in Flushing collapsed the day before signing when the seller backed out after a New York Times story on Flushing property prices; the Center then found its Northern Boulevard home (a former nightclub) — from "white elephant" in outsiders' eyes to a beloved community landmark whose rising value made the buy look "有眼光" [[works/taiwaneseamericanhistory-org/ourjourneys304|Our Journeys #304 (黃兆平, 2017-07)]] / [[works/taiwaneseamericanhistory-org/ourjourneys304-eng|English counterpart]].
 - Authored the essay 國家繼承與不平等條約 (2003-11, 政治) [[works/taiwaneseamericanhistory-org/309-e5-9c-8b-e5-ae-b6-e7-b9-bc-e6-89-bf-e8-88-87-e4-b8-8d-e5-b9-b3-e7-ad-89-e6-a|309. 國家繼承與不平等條約]] — the companion piece to his 1974 book on state succession and unequal treaties.
+- Corpus re-grep 2026-10-12 (slice 10110600-8): hit set unchanged (ourjourneys09/9-eng, 27/27-eng, 76, 283, 304/304-eng, essays 308/309, encyclopedia records 151 + whos-who-58, TJJ obituary + handover articles) — page saturated; only delta absorbed this pass: the in-corpus encyclopedia record 58 is now wikilinked alongside 151.
 - Corpus re-grep 2026-09-20: hit set unchanged (ourjourneys9 / ourjourneys9-eng, ourjourneys27 / ourjourneys27-eng, ourjourneys76, ourjourneys283, essay 308, own encyclopedia record 151) — the English counterpart [[works/taiwaneseamericanhistory-org/ourjourneys27-eng|Our Journeys #27 (English)]] carries the same 全美會 committee record as #27, no new facts; all material above remains the full absorbable set.
 
 ## Family
