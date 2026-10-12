@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Syaru Shirley Lin (林夏如)
 
@@ -64,3 +64,4 @@ last_reviewed: 2026-10-10
 複核（deepen-x 2026-09-26, slice 09260317-6）：corpus re-grep（林夏如 / Syaru，works+articles）命中集合不變（whoswho1344、index、四篇 TJJ 引述），全數已吸收，verified-saturated，無新增社群材料。
 
 複核（deepen-x 2026-10-10, slice 10090315-24）：corpus re-grep（林夏如 / Syaru / 夏如，全 5 目錄 works+articles+sources+events+topics）命中集合不變（whoswho1344、works/index、四篇 TJJ 引述、sources/taiwaneseamericanhistory-org），全數已吸收並 wikilink，verified-saturated，無新增社群材料。
+複核（deepen-x 2026-10-12, slice 10112300-13）：corpus re-grep（林夏如 / Syaru / 夏如 / Shirley Lin，全 5 目錄）命中集合不變（whoswho1344、works/index、四篇 TJJ 引述、sources hub 條目），全數已吸收並 wikilink；whoswho1344 並列之 Rev. Shirley Lin 屬另一人維持不合併，verified-saturated，無新增社群材料。
