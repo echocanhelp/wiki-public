@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Jen-Hao Lee (李仁豪牧師)
 
@@ -67,3 +67,4 @@ The FPCLA church memoir records him as the church's sixth stated pastor, serving
 - Corpus re-check log (2026-09-17, slice 09170500-1): re-grep 李仁豪/Jen-Hao Lee — hit set again unchanged (ourjourneys231 ZH+EN sixth-pastor record + 港口教會 quote, mystories201, artist32, musician160, whoswho1022), all absorbed and wikilinked above. SKIP-with-reason; no new corpus facts, no conflicts to HOLD.
 - Corpus re-check log (2026-10-10, slice 10090400-21): re-grep 李仁豪/Jen-Hao Lee/仁豪 across all 5 corpus dirs — hit set unchanged (ourjourneys231 ZH+EN sixth-pastor record + 港口教會 quote, mystories201, artist32, musician160, whoswho1022), all absorbed and wikilinked above. Two taiwanjustice-net WHA-support articles matched only on 于仁豪 (a different name) — false positives, not this person. SKIP-with-reason; no new corpus facts, no conflicts to HOLD.
 - Corpus re-check log (2026-10-11, slice 10101210-19): re-grep 李仁豪/Jen-Hao Lee/仁豪 across all 5 corpus dirs — hit set unchanged (ourjourneys231 ZH+EN sixth-pastor record 2014–2019 + daily-devotional + 港口教會 quote, mystories201, artist32, musician160, whoswho1022), all absorbed and wikilinked above. SKIP-with-reason; no new corpus facts, no conflicts to HOLD.
+- Corpus re-check log (2026-10-12, slice 10120000-19): re-grep 李仁豪/Jen-Hao Lee/仁豪 across all 5 corpus dirs — hit set unchanged (ourjourneys231 ZH+EN sixth-pastor record 2014–2019 + daily-devotional + 港口教會 quote, mystories201, artist32, musician160, whoswho1022), all absorbed and wikilinked above. The two taiwanjustice-net WHA articles matched only on 于仁豪 (different person) — false positives, not this person. SKIP-with-reason (verified-saturated); no new corpus facts, no conflicts to HOLD.
