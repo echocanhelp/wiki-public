@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # T. K. Lin (林宗光)
 
@@ -63,3 +63,4 @@ last_reviewed: 2026-10-11
 <!-- deepen-x slice 10071448-1 (2026-10-09): saturated re-verify — fresh grep (林宗光 / T. K. Lin / 宗光) across works+articles+sources+events+topics returns the unchanged hit set (OJ #37, #47, #74 ZH+ENG, mystories293, TAH #813); all absorbed above. SKIP-content. -->
 <!-- deepen-x slice 10090800-3 (2026-10-10): saturated re-verify — fresh grep (林宗光 / T. K. Lin / 宗光) across works+articles+sources+events+topics returns the unchanged hit set (OJ #37, #47, #74 ZH+ENG, mystories293, TAH #813, index, sources hub); all absorbed above. Cross-checked OJ #47 roster (政治組召集人=第六屆會長 confirmed) and OJ #74 ZH+ENG NATPA Cleveland founding passage — no new facts, no conflicts. SKIP-content. -->
 <!-- deepen-x slice 10100849-3 (2026-10-11): saturated re-verify — fresh grep (林宗光 / T. K. Lin / 宗光) across works+articles+sources+events+topics returns the unchanged hit set (OJ #37, #47, #74 ZH+ENG, mystories293, TAH #813, index, sources hub); all absorbed above. Alias sweep (TKLin / TK Lin / 唐錦慧 / Suzu) hits were false positives (Suzuki, JS Suzutsuki) — no new facts, no conflicts. SKIP-content. -->
+<!-- deepen-x slice 10110500-3 (2026-10-12): saturated re-verify — fresh grep (林宗光 / T. K. Lin) across works+articles+sources+events+topics returns the unchanged hit set (OJ #37, #47, #74 ZH+ENG, mystories293, TAH #813, index, sources hub); all absorbed above. Cross-checked OJ #74 ZH+ENG NATPA Cleveland founding passage and OJ #47 roster (政治組召集人=第六屆長 confirmed) — no new facts, no conflicts. SKIP-content. -->
