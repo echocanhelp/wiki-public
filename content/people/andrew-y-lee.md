@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Andrew Y. Lee (李友義博士)
 
@@ -67,3 +67,5 @@ _Corpus re-scan 2026-09-26 (slice 09260317-23): fresh grep (李友義／Andrew L
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - Corpus re-grep 2026-09-27 (DEEPEN-X slice 09260700-5): fresh ZH+EN grep (works+articles) returns the identical hit set already absorbed above; SKIP-with-reason: verified saturated, no new absorbable material, existing HOLDs unchanged.
 - Corpus re-grep 2026-10-11 (DEEPEN-X slice 10100849-23): full 5-dir grep (李友義／Andrew Lee) returns the known hit set plus one unabsorbed item — ourjourneys37-eng (English edition of the 協志會/TAI memoir), whose TAFNC presidents' roll-call now linked above. All other hits already on-page; HOLD (Northrop-through-2001 vs death-2000) unchanged.
+
+_Corpus re-grep 2026-10-12 (DEEPEN-X slice 10110500-23): full 5-dir grep (李友義／Andrew Y. Lee／Andrew Lee, works+articles+sources+events+topics) returns the identical 15-hit set already linked on-page (376 紀念集, 63 獎學金, ourjourneys-138/37/38/106/249/37-eng/38-eng/58, our-journeys-357 fn.39, whoswho20, whos-who-2102 mislink note); all absorbed — verified saturated, no new community facts, HOLD (Northrop-through-2001 vs death-2000) unchanged._
