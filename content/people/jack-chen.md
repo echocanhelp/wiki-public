@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Jack Chen
 
@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-scan 2026-10-04 (slice 09270600-7): fresh grep "Jack Chen" — hit set identical (whos-who-2182, ota-272, 678 + works index), all already wikilinked; HOLD on the three-Jack-Chen slug conflation stands. SKIP-deepen; verified-saturated.
 - Corpus re-grep 2026-10-06 (slice 10051200-15): fresh grep 'Jack Chen' across works/articles/sources/events/topics — hit set identical (own records whos-who-2182, ota-272, 678 + works index), all already wikilinked; HOLD on the three-Jack-Chen slug conflation stands. SKIP-deepen; verified-saturated.
 - Corpus re-grep 2026-10-10 (slice 10091400-22): fresh grep 'Jack Chen'/陳宏傑 across works/articles/sources/events/topics — hit set identical (whos-who-2182, ota-272, 678, 53015 + whos-who-642 + works index; 53015 is the 217 Dr. Jack J. Chen 陳宏傑 record, i.e. the other Jack Chen, already disambiguated above). The only RAAM-team-name sweep hit remains the 2022 AMRAAM missile article (false positive, noted above). No new absorbable material. SKIP-deepen; verified-saturated.
+- Corpus re-grep 2026-10-12 (slice 10102129-32): fresh grep 'Jack Chen|Jack J. Chen|陳宏傑|Sea to See|Sea to Sea' across works/articles/sources/events/topics — hit set identical (whos-who-2182, ota-272, 678, 137, 53015, whos-who-642, 862 + works index + sources). The 2017-tahs-publication hit is the [[people/jack-j-chen|Jack J. Chen 陳宏傑]] roster line (other person, disambiguated above), not this subject. No new absorbable material. SKIP-deepen; verified-saturated.
