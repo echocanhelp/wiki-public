@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Wu Hsiung Tsai (蔡武雄博士)
 
@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - Corpus re-grep 2026-09-25 (slice 09240500-12): hit set identical to prior scans (ourjourneys76 & -eng, 254, 63, 47, whos-who-1703); no new corpus material; verified saturated.
 - Corpus re-grep 2026-10-10 (slice 10090600-2): one new hit — 2025/08 taiwanjustice.net 化作千風 tribute to 王泰, which records 蔡武雄's 國關中心 drafting the 1993 returnee statements; absorbed above. Prior hit set unchanged.
 - Corpus re-grep 2026-10-11 (slice 10101300-12): 10 hits across the 5 corpus dirs (ourjourneys76 & -eng, 254, 63, 47, whos-who-1703, taiwanjustice 2018/2025, works/index, sources list) — hit set identical to prior scans, all absorbed above; verified saturated, no new community facts.
+- Corpus re-grep 2026-10-12 (slice 10120018-16): 5-dir grep (蔡武雄 / Wu Hsiung Tsai / 武雄) — surname-only hits 魏武雄 (William Wei), 李武雄 (W.S. Lee) are distinct persons, excluded; exact-name hits identical to prior scans (ourjourneys76 & -eng, 254, 63, 47, whos-who-1703, taiwanjustice 2018/2025); all absorbed above; verified saturated, no new community facts.
