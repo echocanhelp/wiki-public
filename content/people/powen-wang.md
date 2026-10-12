@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-12
 ---
 # Powen Wang (王博文)
 
@@ -29,6 +29,7 @@ Accomplishment
 - **Encyclopedia record.** His own TAH Who's Who entries are archived at [[works/taiwaneseamericanhistory-org/123-powen-wang|123. Powen Wang 王博文]] and [[works/taiwaneseamericanhistory-org/whos-who-1675-powen-wang|1675. Powen Wang 王博文]].
 - **Keeper of summer-camp history.** At the 38th 美東台灣人夏令會 (2007, UMass Amherst) he sat on the historical panel for the first 1970 美東夏令會 and contributed collected materials to 徐頌鵬's history of that camp; the record notes he joined the 1970 冬令會 at Poconos but not the 1970 summer camp itself ([[works/taiwaneseamericanhistory-org/ourjourneys268|TAH #268 徐頌鵬, 回憶第一屆美東台灣人夏令會]]).
 - TAAGPC 會長 1988–1989, 2004; later chapter advisor — see his oral history [[works/taiwaneseamericanhistory-org/video-187|TAH #187]].
+- **Philadelphia friendships that outlasted the movement's founding decade.** 徐頌鵬 recalls him as 「四十多年前在費城就認識的朋友」at the 2007 historical panel — first-person corroboration that his Philadelphia network of the 1960s merger era stayed connected through the camp movement ([[works/taiwaneseamericanhistory-org/ourjourneys268|TAH #268]]).
 - **Builder of the movement's first directory.** In 1969, after the Philadelphia branch of 台獨聯盟 took over the second edition of the 北美台灣同鄉通訊錄 (*Directory of Formosans in North America*, 5,331 names), the English name list — by then processed on a mainframe — was 王博文's responsibility (「由黃掁文（即王博文）挑大樑」), with branch members doing verification and shared handwriting of the Chinese entries (周祖堯 contributing most there); he also designed the blue-and-white cover ([[works/taiwaneseamericanhistory-org/ourjourneys58|TAH #58]]).
 - **English translations corroborate the above.** The English transcripts of the two key memoirs confirm his UFI-delegate role at the 1966-06-18 Philadelphia merger talks ("UFI's Edward Chen, Fu-Chen Lo, Powen Wang, and James Chin-Chun Su"; [[works/taiwaneseamericanhistory-org/ourjourneys81-eng|TAH #81 (EN)]]) and the doctor's-bag/free-pears recollection of the early Philadelphia circle ("Wang Po-wen... often brought baskets of pears along"; [[works/taiwaneseamericanhistory-org/ourjourneys57-eng|TAH #57 (EN)]]).
 - **Early Philadelphia circle.** 羅福全's memoir recalls him as two years his senior, arriving in the U.S. carrying his doctor father's house-call bag instead of buying a new suitcase, and, living in a rural farmhouse with pear trees, bringing baskets of free fallen pears to share with the student circle ([[works/taiwaneseamericanhistory-org/ourjourneys57|TAH #57 羅福全, 帶香蕉去留美的時代]]).
