@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # North America Taiwanese Engineering & Science Association(NATEA)
 
@@ -35,7 +35,9 @@ Corpus check 2026-09-18 (NATEA material in the vault concerns the parent associa
 - **Second-generation circuit (re-check 2026-10-11).** The corpus also indexes NATEA in the 2nd-generation community circuit: [[works/taiwaneseamerican-org/tappy-hour-with-tap-sf-and-natea|TAPpy Hour with TAP-SF and NATEA]] pairs NATEA with TAP-SF, and the Formosa Betrayed event record lists "NATEA 2" among the 2nd-generation organizations hosting the "Projecting Our Presence" event alongside TAP-SF, TACL-LYF, FAPA-YPG, TJCC, Young TAITA, NATMA 2G, and NATWA II ([[works/taiwaneseamerican-org/a-moment-with-the-actors-and-production-team-behind-formosa-betrayed|Formosa Betrayed — actors & production team]]). These records do not specify which chapter — org-level attribution only.
 - **Corpus re-grep 2026-09-21 (slice 09201400-2).** Fresh grep of NATEA / 台灣工程師協會 across content/works + content/articles returned only the parent-association and sibling-chapter records already linked above (plus concert/photo-album sponsorship records consistent with the Taiwan Center co-sponsor bullet). No new SoCal-chapter-level material; chapter HOLD stands.
 
-HOLD: this page (南加分會 chapter) vs the corpus records (parent association / other chapters) — chapter-level history remains unexpanded; no independent SoCal-chapter founding facts found in the vault.
+- **Chapter founders (re-check 2026-10-12, slice 10120000-26).** For the first time the corpus carries chapter-level *founding* material: [[people/jin-chyuan-yu|游銘泉 (Jin-Chyuan Yu)]] and his wife Betty Yu (林玲娟) are credited with establishing the Southern California chapter (NATEA-SC) — alongside the TACL LID Youth Camp and the South Bay Taiwanese-American School — as part of a family record of community service also honored by the Betty L. Yu and Jin C. Yu Creative Writing Prize founded by their son, author Charles Yu ([[works/taiwaneseamerican-org/american-born-chinese-disney|American Born Chinese / Disney record]]; prize naming corroborated in [[articles/taiwanjustice-net/2026/20260211084131_全國圖書獎得主游朝凱charles-yu為台美人青年創意作家_5b6cede86851b2ba|TJJ's profile of Charles Yu]]). 游銘泉's own page preserves the wider footprint (南灣生活座談會 founding member, 1990 census "Taiwanese" campaign, 2018 NTU alumni statement) that makes the NATEA-SC founding credible in context. Parent-association bibliographic record: [[works/taiwaneseamericanhistory-org/north-america-taiwanese-engineering-and-science-association-natea|TAH #1, NATEA 總會]].
+
+HOLD: founders credited (游銘泉 & Betty Yu) but no founding *date* for the chapter found in the corpus — chapter-level narrative beyond the founders still unexpanded; the corpus records otherwise concern the parent association / sibling chapters.
 
 ## Source Notes
 
