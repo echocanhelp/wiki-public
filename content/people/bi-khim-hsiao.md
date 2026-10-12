@@ -43,6 +43,8 @@ _No filled family fields on the TAH profile._
 
 
 ## From the record
+<!-- TJJ-A10110102-21: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110102-21 article 2c5d3c7d4f5acccc (戴琪與鄧振中首度視訊對話_美台未來數週重啟tifa, taiwanjustice.net, 2021-06-10 刊 / 20250719154043 快照; 同文快照 4a5080befc342f69 之重複存檔) read fresh this attempt: Subjects link re-checked vs 正文 — 「駐美大使蕭美琴也出席今晚台美視訊會議」之記述確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 <!-- TJJ-A10110102-14: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110102-14 article 10e3a027ce22991c (汽車晶片短缺，美國會議員向蕭美琴求助, taiwanjustice.net, 2021-02-25 刊 / 20210419115654 快照) read fresh this attempt: subject link re-checked vs 正文 — 蕭美琴為本文主角：向國會議員說明缺貨成因（中盤供應商砍單、屬民間商業行為）、斯塔貝諾參議員證實曾與其會晤並感謝其關注、白宮行政命令未與台灣洽談等記述逐字確認見於正文, real, no wrong/spurious links; 正文另及江今葉（記者）／狄斯 Brian Deese／王美花／斯塔貝諾／韓儒伯 Rupert Hammond-Chambers／拜登 Joe Biden／哈洛 Peter Harrell／周永捷（編輯）等未掛鏈人名維持純文字（正確處理）; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100501-18: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-18 article 2c5d3c7d4f5acccc (戴琪與鄧振中首度視訊對話_美台未來數週重啟tifa, taiwanjustice.net, 2021-06-10 刊 / 20250719154043 快照; 同文快照 4a5080befc342f69 之重複存檔) read fresh this attempt: Subjects link re-checked vs 正文 — 「駐美大使蕭美琴也出席今晚台美視訊會議」之記述確認見於正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
