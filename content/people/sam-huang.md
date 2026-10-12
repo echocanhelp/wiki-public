@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Sam Huang (黃興貫)
 
@@ -57,3 +57,4 @@ _Disambiguation: TAH Who's Who #2251 "Dr. Sam Huang" is 黃森茂, a different p
 <!-- deepen-x 10062334-7: re-grep 2026-10-08 — fresh ZH+EN grep across works/articles/sources/events/topics: hit set identical to prior passes (own #1240, ourjourneys232 2016 遊行記, #2251 黃森茂 disambig, index); all absorbed+wikilinked. Verified-saturated; SKIP-no-new-facts. -->
 <!-- deepen-x 10080600-5: re-grep 2026-10-09 — same hit set (whoswho1240, ourjourneys232, whos-who-2251 disambig, index, sources). NEW: family cluster now reciprocal — [[people/cindy-huang]] (whoswho1241) and [[people/connie-huang]] (whoswho1242, lists 黃興貫 as Father) both exist and are wikilinked here; 康玲 vs 康妮 name-form HOLD retained, no auto-merge. -->
 <!-- deepen-x 10091414-1: re-grep 2026-10-10 — fresh ZH+EN grep (黃興貫 / Sam Huang) across works/articles/sources/events/topics: hit set identical to prior passes (whoswho1240, ourjourneys232 2016 TAIDP 遊行記, whos-who-2251 黃森茂 disambig, index, sources); all facts absorbed+wikilinked. Verified-saturated; SKIP-no-new-facts. -->
+<!-- deepen-x 10101500-1: re-grep 2026-10-11 — fresh ZH+EN grep across all 5 corpus dirs: hit set unchanged (whoswho1240, ourjourneys232, whos-who-2251 黃森茂 disambig, index, sources); 後勤支援 credit already in Role in the Community with wikilinks. Verified-saturated; SKIP-no-new-facts. HOLDs (黃森茂 #2251 disambig; 黃康玲 vs 黃康妮) intact. -->
