@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # J. Y. Lin (林哲也)
 
@@ -53,3 +53,4 @@ _No filled family fields on the TAH profile._
 > Deepen pass 2026-10-08 (slice 10060950-1): re-grepped — hit set identical (ourjourneys76 ZH/EN, ourjourneys58, ourjourneys293, whoswho1202, indexes). Saturated, SKIP.
 > Deepen pass 2026-10-09 (slice 10080400-4): re-grepped 林哲也/J. Y. Lin across works/articles/sources/events/topics — hit set identical again (ourjourneys76 ZH/EN, ourjourneys293 ZH/EN, ourjourneys58, whoswho1202, index/source stubs). Verified saturated.
 > Deepen pass 2026-10-10 (slice 10090800-15): fresh ZH+EN grep across works/articles/sources/events/topics — hit set identical (ourjourneys76 ZH/EN: Cincinnati founding-chapter president, 1971-08-13 TAA incorporation context; ourjourneys58: Ohio movement-persons roster; ourjourneys293 ZH/EN: 1990-11-29 台灣公論報 Issue 915 TAH foundation thank-you list; whoswho1202: own TAH interview). No new corpus material; verified saturated.
+> Deepen pass 2026-10-12 (slice 10110805-7): fresh ZH+EN+surname grep (林哲也 / J. Y. Lin / 哲也) across all 5 corpus dirs — hit set identical (ourjourneys76 ZH/EN, ourjourneys58, ourjourneys293 ZH/EN, whoswho1202, index stubs). The 哲也 substring hits in taiwanjustice-net news articles are unrelated names, not this person. Verified saturated; no new material absorbable.
