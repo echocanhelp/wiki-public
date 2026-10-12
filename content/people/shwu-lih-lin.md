@@ -34,7 +34,7 @@ Accomplishment
 
 ## Family
 
-- **Husband:** Keng Chih Wu
+- **Husband:** [[people/keng-chi-wu|Keng Chih Wu (吳耿志)]] — engineer, Lockheed Martin; 2006 "Lockheed Martin Maritime Systems & Sensors 年度作家獎" record: [[works/taiwaneseamericanhistory-org/lockheed-martin-kingchi-wu-2006|KingChi Wu 吳耿志 (2006)]]; his own Who's Who entry: [[works/taiwaneseamericanhistory-org/whos-who-39-keng-chi-wu|TAH Who's Who #39]]
 - **Daughter:** Stephanie
 
 
