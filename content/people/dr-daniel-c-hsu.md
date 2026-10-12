@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Daniel C. Hsu (許正雄醫師)
 
@@ -64,6 +64,7 @@ Facts absorbed from this page's own TAH tables and accomplishment entry (no exte
 - His story is also told by 林蓮華 in [[works/taiwaneseamericanhistory-org/323-e8-a8-b1-e6-ad-a3-e9-9b-84-e7-89-99-e9-86-ab-e5-b8-ab-e7-9a-84-e6-95-85-e4-b|TAH #323 許正雄牙醫師的故事 (2015)]].
 - **2021-05-06 — WHA forum panel:** 大洛杉磯台灣會館 online life-talk "林榮松＋許正雄＋邱俊杰＋楊熾勳＋吳兆峯 談台灣加入世衛組織的歷程與展望" — [[articles/taiwanjustice-net/2021/20210620131911_tag_台灣加入世衛組織的歷程與展望_cd646b8698e12d2b|tag record of the 台灣入WHO論壇 series]]; the 2023 tag archive confirms the entry (2023-05-30 存檔).
 - **2022-05-14 — FASCA-LA mentorship:** invited (with 林榮松 as 政務顧問 and 邱俊杰) to lecture at the Los Angeles Overseas Chinese Association (洛僑中心) FASCA-LA monthly training on the NATMA Geneva WHA advocacy trips — [[articles/taiwanjustice-net/2022/20221002085705_2022_05_17_natma於fasca-la月會分享赴日內瓦聲援台灣參與wha歷程_0b5374a3901fdc77|report]]. He recounted the delegations' on-the-ground treatment at the WHA venue and the peaceful advocacy outside.
+- **2020 — scholarship + COVID relief fund:** as Foundation 董事長 he is again the sole listed contact for the NATMA Foundation scholarship (deadline 2020-09-15), and that year NATMA also ran a COVID-19 relief fund — $500 awards to eligible台裔子弟 for essays on the pandemic, applications via the same channel — [[articles/taiwanjustice-net/2025/20250515191926_2020-natma-基金會獎學金接受申請9-15截止_f704b7d14b94f941|2020 announcement (2025 archive)]].
 - **NATMA Foundation scholarship contact:** as Foundation 董事長 he is the listed application contact (Daniel Hsu, hsu0316@hotmail.com) — 2022 was the 15th year of the scholarship (3 awards of $3,000, online ceremony due to the pandemic) — [[articles/taiwanjustice-net/2025/20250328121330_natma-基金會獎學金開始接受申請-9月15日截止_b2e459eb492baa06|2022 announcement (2025 archive)]]; co-announced with 秘書長 James Tsai ([[people/dr-james-tsai|Dr. James Tsai]]).
 
 ## Sources
