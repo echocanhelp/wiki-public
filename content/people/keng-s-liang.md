@@ -100,3 +100,5 @@ last_reviewed: 2026-10-11
 <!-- TJJ-A10100701-1: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-1 article 80e2a87a17215263 (懷念彭昕醫師 ◎ 楊遠薰, TJJ 2021-09-23, triple copy w/ 6763e8f4ad9bcb7c / 299c00bb18030b81): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ three-file wikilinks already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10110001-30: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110001-30 article 59a68b9cd855c1bf (司法不公，國耻之最：海內外台灣人聲援翁啟惠連署活動, taiwanjustice.net 2021-09-10刊/2023-05-30快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10110201-2: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110201-2 article 20211020131319_2021_09_23_懷念彭昕醫師-_-楊遠薰_6763e8f4ad9bcb7c (懷念彭昕醫師 ◎ 楊遠薰, TJJ 2021-09-23刊/2021-10-20快照) read fresh this attempt: subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ three-file wikilinks already in From the record — saturated, no new material. -->
