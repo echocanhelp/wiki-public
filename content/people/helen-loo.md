@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Helen Loo (翁進治)
 
@@ -89,3 +89,5 @@ Accomplishment
 <!-- TJJ-A10090701-18: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-18 article d2dbfe220e437602（2017年美東台灣人夏令會報導/楊遠薰, 2024-05-22 快照, 29faf54b8c9e2d10 同文副本）subject link re-checked vs 正文 this attempt; real mention (7/4 閉幕接旗出任 2018 TAC/EC 理事長), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100701-3: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-3 article 20240522235843_root_d2dbfe220e437602（2017年美東台灣人夏令會報導/楊遠薰, 2024-05-22 快照, 29faf54b8c9e2d10 同文副本）subject link re-checked vs 正文 this attempt; real mention (7/4 閉幕接旗出任 2018 TAC/EC 理事長), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 2026-10-11 deepen-x slice 10101500-21: re-verified saturated — fresh full-corpus grep (翁進治/Helen Loo/翁 across works/articles/sources/events/topics) returns the identical hit set (TAH #1733, OJ #260 本人執筆, works/index, TJJ 楊遠薰報導 ×2, sources index), all wikilinked and absorbed above; 2017-07-04 會旗交接事實見於報導正文（周明宏/簡明子→翁進治/謝己），已在庫 — SKIP, nothing new absorbable, no conflicts to HOLD.
