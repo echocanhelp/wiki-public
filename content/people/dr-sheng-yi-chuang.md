@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Dr. Sheng-Yi Chuang (莊勝義博士)
 
@@ -39,7 +39,8 @@ last_reviewed: 2026-10-10
 - Corpus re-grep 2026-09-23 (slice 09221000-8): SKIP — hit set unchanged (own #2272, ourjourneys-139, ourjourneys233 +eng, ourjourneys308, my-stories-729), all already linked; the EN/ZH purchase-cap discrepancy in #233 remains the flagged HOLD; no new material.
 - Corpus re-grep 2026-09-24 (slice 09230500-16): SKIP — hit set unchanged (own #2272, ourjourneys-139, ourjourneys233 +eng, ourjourneys308, my-stories-729); #233 re-read confirms the 十五萬開價/不得超過二十三萬 ceiling (ZH) vs EN translation cap — same already-flagged HOLD, not merged; no new material.
 - Corpus re-grep 2026-09-25 (slice 09250800-6): SKIP — hit set unchanged (own #2272, ourjourneys-139, ourjourneys233 +eng, ourjourneys308, my-stories-729), all already linked; the #233 EN-vs-ZH purchase-cap discrepancy remains the flagged HOLD; no new material.
-- Corpus re-grep 2026-09-25 (slice 09240500-9): SKIP — hit set unchanged (own #2272, ourjourneys-139, ourjourneys233 +eng, ourjourneys308, my-stories-729); the #233 EN-vs-ZH purchase-cap discrepancy remains the flagged HOLD; no new material.
+- Corpus re-grep 2026-10-12 (slice 10102129-31): SKIP — hit set unchanged (own #2272, ourjourneys-139, ourjourneys233 +eng, ourjourneys308 +eng, my-stories-729), all already linked; #233 EN-vs-ZH purchase-cap discrepancy remains the flagged HOLD. NOTE for future greps: surname-only pattern 勝義 false-matches 郭勝義 (Syracuse chapter president, 全美會分會名單 in ourjourneys76) — not this person; no new material.
+
 
 ## Family
 
