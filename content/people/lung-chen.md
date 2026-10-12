@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Lung Chen (陳隆)
 
@@ -50,6 +50,7 @@ From the community record (memoirs outrank the TAH press-kit bio):
 ## Family
 
 - **兄:** 陳銓仁（洛杉磯台灣同鄉會早期主持者，已過世）（[[works/taiwaneseamericanhistory-org/ourjourneys240|240. 半世紀前 UCLA的那些日子]]）
+- **兄弟:** 陳堅（ourjourneys240 追述同鄉會早期時與陳隆並列為陳銓仁之弟；僅此一處提及，細節待證）（同上）
 - **Wife:** 蔡玲理
 - **Daughter:** [[people/joanna-chen-cham||陳怡玲]]
 - **Son:** 陳怡隆
@@ -69,6 +70,7 @@ From the community record (memoirs outrank the TAH press-kit bio):
 - 覆核（deepen-x slice-09230317-12, 2026-09-24）：fresh grep 陳隆（content/works+content/articles）hit set 與已吸收一致（ourjourneys280、our-journeys-350、ourjourneys253、our-journeys-357；108 陳隆志、1898 陳隆旭、ourjourneys27 陳隆豐為不同人士，已 HOLD）；our-journeys-357「教會與同鄉會相輔相成」引文再確認已在庫 — 飽和，無新材料。
 - 覆核（deepen-x slice-09250700-2, 2026-09-25）：fresh grep 陳隆 hit set 與已吸收一致（ourjourneys280、our-journeys-350、ourjourneys253、our-journeys-357、ourjourneys27、our-journeys-381；108 陳隆志、1898 陳隆旭為不同人士，已 HOLD）— 飽和，無新材料，SKIP。
 - 深化（deepen-x slice-10100600-24, 2026-10-11）：fresh grep 新增可吸收材料 2 筆 — ourjourneys283 吳木盛世台會年會報告（陳隆藝術才氣、會場初見面）及 taiwanjustice.net 歷史必讀分類頁「陳隆憶高俊明牧師」影音条目，已併入 Role in the Community；ourjourneys155 內文屬陳隆豐（不同人士，HOLD 維持），其餘 backlink 與已吸收一致。
+- 覆核（deepen-x slice-10110200-27, 2026-10-12）：fresh grep 陳隆／Lung Chen 遍掃 works+articles+sources+events+topics，hit set 與已吸收一致（280、our-journeys-350、253、our-journeys-357、287、283、240、1226、408、439、31、videos64 屬陳隆志、taiwanjustice 歷史必讀頁）；同名近似者（陳隆豐／陳隆豊、陳隆志、陳隆旭、陳隆星、Kuan-Lung Chen）續 HOLD。唯一新增：ourjourneys240 原文「陳銓仁（陳隆、陳堅的大哥）」顯示陳堅為其兄弟，已補入 Family（僅一處提及，細節待證）— 除此之外飽和。
 
 ## 照片
 
