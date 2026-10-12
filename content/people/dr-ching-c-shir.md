@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Ching C. Shir (石清正博士)
 
@@ -78,6 +78,10 @@ Accomplishment
 ## Deepen pass (2026-09-11)
 - 補上 vault 內既有本人記錄連結（#61、#296、個人收藏、#92 共同捐贈文物）。
 - TAH #61/#296 記錄之 TAI(北加州)、Paradise Culture Associates 目前無對應 vault 頁面，未加連結。
+
+## Deepen pass (2026-10-12)
+- 全 corpus 目錄重 grep（石清正／Ching C. Shir／Ching-C）：10 筆真實命中（#1188 訪談、#53／#53-eng 台灣會館、#357 何義麟文、#142、#37、#19、#38、#106、#296）皆已於上文吸收並 wikilink，無新增事實。
+- 另兩筆命中為同名拼音誤配：[[works/taiwaneseamericanhistory-org/whos-who-774-ching-chih-chen|TAH #774 陳清池]]（Ching-Chih Chen）與 [[works/taiwaneseamericanhistory-org/whoswho1234|TAH #1234 黃慶鍾]]（Ching-Chong Huang），非本人，未吸收。
 
 ## Deepen pass (2026-09-14)
 - 複核：vault 本人記錄（#61、#296、個人收藏、#92 共同捐贈）連結皆已到位，無新增事實。
