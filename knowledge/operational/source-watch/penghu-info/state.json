@@ -50,18 +50,18 @@
       "baseline": false
     },
     "https://penghu.info/OB2C73E27C74756946C9": {
-      "hash": "6d9926442559618f90a44fc62fb6c1d8",
-      "len": 30157,
+      "hash": "29b4b6f58873f9fba17588d99346874a",
+      "len": 29535,
       "code": 200,
       "baseline": false
     },
     "https://penghu.info/OBC70EF284CBE5C8FB3C": {
-      "hash": "d7dfdcd7a1adc97152092a1a0c09c1cf",
-      "len": 30727,
+      "hash": "efbebff8c78261373b74dd9d6ae4a513",
+      "len": 30105,
       "code": 200,
       "baseline": false
     }
   },
-  "last_poll": "2026-10-05T06:52:30Z",
+  "last_poll": "2026-10-12T06:52:23Z",
   "baseline_at": "2026-08-22T18:40:14Z"
 }

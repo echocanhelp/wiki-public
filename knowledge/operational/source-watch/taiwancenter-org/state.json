@@ -32,8 +32,8 @@
       "baseline": false
     },
     "https://www.taiwancenter.org/group-members": {
-      "hash": "0cca9d7e716cd609a0171b425530933e",
-      "len": 34217,
+      "hash": "427daaf476196373b7ca14781894abd6",
+      "len": 35470,
       "code": 200,
       "baseline": false
     },
@@ -278,6 +278,6 @@
       "baseline": false
     }
   },
-  "last_poll": "2026-10-05T06:46:07Z",
+  "last_poll": "2026-10-12T06:45:28Z",
   "baseline_at": "2026-08-09T21:01:41Z"
 }

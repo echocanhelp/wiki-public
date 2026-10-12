@@ -70,11 +70,12 @@ The org graph defines **who exists**, **what they own**, and **how they connect*
 ### Nightly pipeline (primary, local wall clock)
 
 ```
-01:10–04:30  sense / scout / extract-eval-gen / deepen (all no_agent)
-04:25      ──► ci-heal (L2 heal + L3 push when green)  ← only nightly pusher
-06:20      ──► digest (tagged dashboard)
+21:10–23:30  sense / scout / extract-eval-gen / deepen (all no_agent)
+00:25      ──► ci-heal (L2 heal + L3 push when green)  ← only nightly pusher
+00:40      ──► tier1-sweep (last content touch)
+00:45      ──► cron-audit
 07:00      ──► vault-morning-brief (🔴 NEED YOU first)
-04:45      ──► cron-audit (merged)
+paused     digest (do not re-enable)
 ```
 
 SSOT schedule: pinto `jobs.json`. Deliver: `telegram:-5543616648` (System).  

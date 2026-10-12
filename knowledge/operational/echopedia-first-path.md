@@ -13,7 +13,7 @@ question (LINE/TG/CLI)
          MISS → capture message + gap-queue row
     → need-you-list.py (morning)
          open gaps + identity pending + top unfinished
-         → ≤5 🔴 NEED YOU items in vault-morning-brief (07:55 local)
+         → ≤5 🔴 NEED YOU items in vault-morning-brief (07:00 local)
 ```
 
 Telegram labels: [cron-notify-labels.md](cron-notify-labels.md)  

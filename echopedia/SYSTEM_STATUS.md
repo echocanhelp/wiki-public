@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-10-11 22:27 PDT*
+*Generated: 2026-10-12 00:31 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -14,25 +14,25 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `955ede1d145`
+- **Last good deploy:** `8a9fd115230`
 - **Last night (ledger):** analyzer scanned 2944 queued 4 suppressed 2297 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 15 · 🔴 NEED YOU cron fail: memory-audit, go-router-monthly-audit
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
 |- **Tier1 pages:** 2910 (people 2430 / orgs 440 / sources 40) · Tier2 archive: 29103
 |- **Janitor queue depth:** 66
-|- **Uncommitted files:** 198
+|- **Uncommitted files:** 694
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
-|| Stage | Script | Last run | Output |
-||-------|--------|----------|--------|
-|| Scout | echopedia-scout-live | 04:05 local | 44 checked, 0 broken, 0 slow |
-|| Filter | echopedia-content-analysis | 03:05 local | 2944 scanned, 26 queued |
-|| Extract | echopedia-extract-actions | 04:15 local | knowledge/operational/extracted/ |
-|| Evaluate | echopedia-evaluate-actions | 04:20 local | knowledge/operational/evaluated/ |
-|| Generate | echopedia-generate-cards | 04:25 local | no data |
-|| Review | weekly-improvement | Sun 07:05 local | improvement-brief.md |
-|| Human | vault-morning-brief | 07:55 local | NEED YOU ≤5 |
+| Stage | Script | Schedule (jobs.json) | Output |
+|-------|--------|----------------------|--------|
+| Scout | echopedia-scout-live | 21:40 | 44 checked, 0 broken, 0 slow |
+| Filter | echopedia-content-analysis | 21:10 | 2944 scanned, 26 queued |
+| Extract | echopedia-extract-actions | 22:00 | knowledge/operational/extracted/ |
+| Evaluate | echopedia-evaluate-actions | 22:20 | knowledge/operational/evaluated/ |
+| Generate | echopedia-generate-cards | 22:40 | no data |
+| Review | weekly-improvement | Sun 22:15 | improvement-brief.md |
+| Human | vault-morning-brief | 07:00 | NEED YOU ≤5 |
 
 ## What runs automatically
 See **Cron inventory (generated)** at bottom (SSOT: pinto \`jobs.json\` via \`echopedia-docs-sync.sh\`). Do not hand-edit.
@@ -61,19 +61,19 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-10-11T07:00:33.116334-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-10-11T22:27:04.786734-07:00  ok
+    Last run:  2026-10-12T00:31:08.247336-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 21 * * *
     Last run:  2026-10-11T21:10:05.509170-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-10-11T22:13:02.502988-07:00  ok
+    Last run:  2026-10-12T00:17:03.174064-07:00  ok
     Name:      echopedia-digest
     Schedule:  20 6 * * *
     Last run:  2026-09-20T06:20:40.011944-07:00  ok
     Name:      memory-audit
     Schedule:  50 0 * * *
-    Last run:  2026-10-11T00:51:02.079133-07:00  error: Script exited with code 1
+    Last run:  2026-10-11T00:51:02.079133-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  15 21 * * *
     Last run:  2026-10-11T21:47:46.281504-07:00  ok
@@ -82,13 +82,13 @@ Load skill **echopedia-ops** first for any wiki work.
     Last run:  2026-10-11T21:40:10.341615-07:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  15 22 * * 0
-    Last run:  2026-10-04T22:23:00.028714-07:00  ok
+    Last run:  2026-10-11T22:28:25.490745-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  25 0 * * *
     Last run:  2026-10-11T00:34:01.436919-07:00  ok
     Name:      echopedia-site-design
     Schedule:  30 0 * * *
-    Last run:  2026-10-11T00:31:06.728294-07:00  ok
+    Last run:  2026-10-12T00:30:07.513286-07:00  ok
     Name:      vault-search-index-rebuild
     Schedule:  0 21 * * 0
     Last run:  2026-10-11T21:00:04.631540-07:00  ok
@@ -131,7 +131,7 @@ Load skill **echopedia-ops** first for any wiki work.
 | 45 23 * * * | `pair-miner-growth` | no_agent | on | ok | `pair-miner-cron.sh` |
 | 45 23 * * 0 | `echopedia-source-continuity` | no_agent | on | ok | `echopedia-source-continuity.sh` |
 | 5 21 * * * | `cron-output-rotate` | no_agent | on | ok | `cron-output-rotate.sh` |
-| 50 0 * * * | `memory-audit` | no_agent | on | error | `memory-audit.sh` |
+| 50 0 * * * | `memory-audit` | no_agent | on | ok | `memory-audit.sh` |
 | 50 21 * * * | `echopedia-backlink-auditor` | no_agent | on | ok | `echopedia-backlink-auditor-cron.sh` |
 | 50 22 * * * | `echopedia-interaction-absorb` | no_agent | on | ok | `echopedia-interaction-absorb.py` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |

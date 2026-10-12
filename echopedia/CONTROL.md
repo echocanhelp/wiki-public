@@ -165,8 +165,8 @@ Use the **highest** surface that can do the job. Never jump to freestyle edits w
 
 ### 4.1 Daily operator (you)
 
-1. Read **vault-morning-brief** (~07:55 local, System group) — **🔴 NEED YOU** first (≤5).  
-2. Skim **digest** (~07:20) for health strip if desired.  
+1. Read **vault-morning-brief** (07:00 local, System group) — **🔴 NEED YOU** first (≤5).  
+2. Digest (06:20) is **paused**. Do not skim it and do not re-enable it from this line.  
 3. **Only 🔴 NEED YOU requires your reply.** ✅ AUTO = healed/machine. 🟡 QUEUE = backlog, not a gate. ℹ️ INFO = polish.  
 4. No 🔴 lines → **do nothing.**  
 5. New fact about a person/org →  
@@ -230,7 +230,7 @@ Then run `bash ~/.hermes/scripts/echopedia-docs-sync.sh`. Do **not** hand-edit t
 
 ### 4.6 Publish / push
 
-- Prefer **ci-heal 04:25 local** (only nightly pusher). Late Tier1 drift after that is `echopedia-tier1-sweep` 06:30.  
+- Prefer **ci-heal 00:25 local** (only nightly pusher). Late Tier1 drift after that is `echopedia-tier1-sweep` 00:40. Jobs.json wins if this sentence drifts.  
 - Manual: WORKER **P2** / `echopedia-publish.sh` path only — not ad-hoc `git push` of partial trees.  
 - After push: CDN status file / smoke — not vibes.
 
@@ -329,13 +329,14 @@ After cron edits: run docs-sync (or wait for system-status/ci-heal). Optional: s
 | When (local) | System does | You do |
 |--------------|-------------|--------|
 | Continuous | Watchdog, thermal | Nothing if silent |
-|| 01:10–04:30 | Sense → deepen → queue | Sleep |
-|| **Sun 07:00** | **source-continuity** (live sites) | Nothing if silent |
-|| **04:25** | **ci-heal** (only nightly push) | Sleep |
-|| 06:20 | Digest (tagged) | Optional skim |
-|| **07:00** | **Morning brief** | **Only 🔴 NEED YOU** |
-|| 04:45 | Cron audit (merged) | Nothing if silent |
-|| Sun 06:00 | Weekly improvement | Nothing unless 🔴 FAIL |
+| 21:10–23:30 | Sense → deepen → queue | Sleep |
+| **00:25** | **ci-heal** (only nightly push) | Sleep |
+| **00:40** | **tier1-sweep** (last content touch) | Sleep |
+| 00:45 | Cron audit | Nothing if silent |
+| **07:00** | **Morning brief** | **Only 🔴 NEED YOU** |
+| Sun 22:15 | Weekly improvement | Nothing unless 🔴 FAIL |
+| Sun 23:45 | source-continuity (live sites) | Nothing if silent |
+| paused | Digest | Do not re-enable |
 | Ad hoc | — | Commands / one playbook / one plan epic |
 
 **Intervention rule:**  

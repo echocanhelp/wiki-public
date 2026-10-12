@@ -22,32 +22,31 @@ Automatically deepen thin TAHS member Echopedia pages (especially founding membe
 - [ ] Verify ## Works section on yang-jia-you.md
 
 ### Schedule
-- Runs daily at 04:05 (after `echopedia-scout-live`)
-- Existing cron job `echopedia-person-works-linker`
+- Live cron `echopedia-person-works-linker` is `0 23 * * *` (23:00). jobs.json wins.
 
 ## Phase 2: Backlink Auditor + Thin Page Detector (1 week)
 
 ### Script: `echopedia-backlink-auditor.py`
 - Reads `.wiki-index.md` to find backlinks
 - Generates `## Network` section
-- Schedule: Weekly (Sunday 06:00)
+- Schedule: live cron `echopedia-backlink-auditor` is `50 21 * * *` (21:50).
 
 ### Script: `echopedia-thin-page-audit.py`
 - Scans all `content/people/*.md` files
 - Flags pages under 5,000 chars as "thin"
-- Schedule: Daily 06:30
+- Schedule: not a cron. Do not add a 06:30 job from this note.
 
 ## Phase 3: Timeline + Quote Extractor (2 weeks)
 
 ### Script: `echopedia-timeline-builder.py`
 - Extracts dates from article metadata and content
 - Builds `## Timeline` section
-- Schedule: Run as part of works linker (daily 04:05)
+- Schedule: live cron `echopedia-timeline-builder` is `30 23 * * *` (23:30).
 
 ### Script: `echopedia-quote-extractor.py`
 - Searches article bodies for Chinese name mentions
 - Generates `## Quotes` section
-- Schedule: Weekly (Sunday 06:30)
+- Schedule: live cron `echopedia-quote-extractor` is `15 23 * * *` (23:15).
 
 ## Expected Result for Charles Yang
 

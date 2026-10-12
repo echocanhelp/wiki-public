@@ -8,7 +8,7 @@ tags:
   - democracy
   - indigenous
 verification_status: verified
-last_reviewed: 2026-10-04
+last_reviewed: 2026-10-11
 website: https://www.pct.org.tw/
 ---
 

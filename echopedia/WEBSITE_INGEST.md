@@ -249,13 +249,13 @@ Mass writes: ingestion-protocol pitfalls **33–36** (cron-silent) before publis
 ## 8. Delta refresh vs full ingest (source continuity)
 
 **Full ingest** (`Echopedia website <domain>`) = Gate A one-shot (this doc class bar).  
-**Continuity** = registry-driven, **Sunday 06:00** job `echopedia-source-continuity` (`no_agent`). Watchable classes: **`live-small`**, **`story-corpus`**, **`directory-corpus`** (after COMPLETE). `static-v1` only if owner watch-add (laijohn already on as live-small).
+**Continuity** = registry-driven, **Sunday 23:45** job `echopedia-source-continuity` (`45 23 * * 0`, `no_agent`). Watchable classes: **`live-small`**, **`story-corpus`**, **`directory-corpus`** (after COMPLETE). `static-v1` only if owner watch-add (laijohn already on as live-small).
 
 | | Full WEBSITE_INGEST | Source continuity |
 |--|---------------------|-------------------|
 | When | New site / major rebuild | Weekly watch of **already ingested** sites |
 | SSOT | This doc | `knowledge/operational/source-watch-registry.json` + `source-continuity.md` |
-| Cron | None (on demand) | **+1** Sunday 06:00 only |
+| Cron | None (on demand) | **+1** Sunday 23:45 only |
 | AUTO `live-small` | N/A | Tier2 append, `last_reviewed`, clean event stubs — **never** About/History prose |
 | AUTO `story-corpus` | N/A | Tier2 append + `last_reviewed` + **`work_stub`** — **no** `event_stub`, **never** person/About |
 | Push | `echopedia-publish.sh` | **Never** — rides **ci-heal** |

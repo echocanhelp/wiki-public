@@ -182,3 +182,11 @@ Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link b
 - No strong interaction name candidates
 
 *Auto: no page creation — queue for human/ops.*
+
+### Evolve (repeated corrections + held-out)
+
+- EVOLVE_CORRECTIONS: none
+- EVOLVE_HELD_OUT: none
+- EVOLVE_STATUS: OK
+
+Analyzer style cards are not listed here.

@@ -32,22 +32,23 @@ Keep the site **usable on phone + desktop**, **structurally correct after every 
 ## Nightly slot (one pipeline family)
 
 ```
-01:10–04:30  sense / scout / extract-eval-gen / deepen   (no_agent)
-01:10–04:30  01:10 content-analysis · 01:15 nightly-audit · 01:30 janitor · 01:40 scout · 01:50 backlink · 02:00 extract · 02:20 evaluate · 02:40 generate-cards · 03:00 person-link · 03:15 quote · 03:30 timeline · 03:15 rotate · 04:25 ci-heal · 04:30 site-design
-04:25        ci-heal                    (act + SINGLE push gate)
+21:10–23:30  sense / scout / extract-eval-gen / deepen   (no_agent)
+21:10 content-analysis · 21:15 nightly-audit · 21:30 janitor · 21:40 scout · 21:50 backlink · 22:00 extract · 22:20 evaluate · 22:40 generate-cards · 23:00 person-link · 23:15 quote · 23:30 timeline
+00:25        ci-heal                    (act + SINGLE push gate)
                ├─ ops / drain
                ├─ drift → publish
                ├─ site-design L1 heal   ← featured/parity BEFORE push
                ├─ smoke
                └─ L3 push when green    ← only nightly pusher
-04:30        echopedia-site-design      (audit-only AFTER push — no second push)
-06:20        digest                     (tagged dashboard)
+00:30        echopedia-site-design      (audit-only AFTER push — no second push)
+00:45        cron-audit
 07:00        vault-morning-brief        (🔴 NEED YOU first)
-04:45        cron-audit (merged)
-Sun 07:15    echopedia-weekly-improvement  (pack + review gate — not a redesign cron)
-Sun 05:30    vault-search-index-rebuild   (Sun only)
-Sun 07:00    echopedia-source-continuity  (Sun only)
+paused       digest                     (do not re-enable)
+Sun 21:00    vault-search-index-rebuild
+Sun 22:15    echopedia-weekly-improvement
+Sun 23:45    echopedia-source-continuity
 ```
+Jobs.json wins if this block drifts. Do not move these jobs back to 01:xx–06:xx.
 
 **Push policy:** Yes, push after heals — but **once**, from **ci-heal** only.  
 Site-design **never** pushes alone (avoids half-deployed layout + content races).

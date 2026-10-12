@@ -2,8 +2,8 @@
 
 **SSOT registry:** `knowledge/operational/source-watch-registry.json`  
 **Orchestrator:** `~/.hermes/profiles/pinto/scripts/echopedia-source-continuity.sh`  
-**Schedule:** Sunday **06:00** local — job `echopedia-source-continuity` (`no_agent`)  
-**Human surface:** morning-brief 07:55 (SOURCE CONTINUITY / NEXT INGEST sections)  
+**Schedule:** Sunday **23:45** local — job `echopedia-source-continuity` (`45 23 * * 0`, `no_agent`)  
+**Human surface:** morning-brief 07:00 (SOURCE CONTINUITY / NEXT INGEST sections)  
 **Ship:** 2026-08-09 v3 — live-small (TC · GSTPC · ITPC · PCT). **2026-08-18:** `laijohn-com`. **2026-08-20:** `taiwaneseamerican-org` (`story-corpus`). **2026-08-21:** `ntpc-usa-org` (`live-small`). **2026-08-21:** `taiwaneseamericanhistory-org` (`directory-corpus` — CPT wiki + mandatory post vault; REST else HTML; never skip high-value; never AUTO people).
 
 ## What it does

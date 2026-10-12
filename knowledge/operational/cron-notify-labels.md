@@ -16,9 +16,9 @@
 
 | When (local) | Job | What to read |
 |--------------|-----|----------------|
-| **07:55** | `vault-morning-brief` | **NEED YOU first** (≤5), then SOURCE CONTINUITY / NEXT INGEST / QUEUE / ℹ️ wiki visits (GoatCounter after 2026-08-21 12:22 PDT cutoff; omit if 0) |
-| 07:20 | `echopedia-digest` | Health + AUTO/QUEUE strip |
-| **Sun 06:00** | `echopedia-source-continuity` | Live-site watch (silent if clean) |
+| **07:00** | `vault-morning-brief` | **NEED YOU first** (≤5), then SOURCE CONTINUITY / NEXT INGEST / QUEUE / ℹ️ wiki visits (GoatCounter after 2026-08-21 12:22 PDT cutoff; omit if 0) |
+| paused | `echopedia-digest` (expr 06:20, disabled) | Do not re-enable. Health strip is the morning brief. |
+| **Sun 23:45** | `echopedia-source-continuity` | Live-site watch (silent if clean) |
 | else | silent watchdogs / clean audits | empty stdout = healthy |
 
 Collectors **not** separate Telegram jobs: unfinished / connector / intelligence folded into morning-brief (disk).  

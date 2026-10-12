@@ -10,7 +10,7 @@ tags:
   - church
   - PCT
 verification_status: pending
-last_reviewed: 2026-09-14
+last_reviewed: 2026-10-11
 ---
 # Elder John Lai's Archives (賴永祥長老史料庫)
 

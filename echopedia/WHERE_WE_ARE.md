@@ -2,7 +2,7 @@
 
 *Living snapshot of the vibe-coded Echopedia system. Update when autonomy level, major crons, or mission status changes. Not a second copy of procedures — those live in skills / jobs.json.*
 
-**Last reviewed:** 2026-09-06  
+**Last reviewed:** 2026-10-11  
 **Standards:** v10 · **Autonomy:** L3 · **Overnight crons:** all `no_agent` (agent=1 intentional: go-router-monthly-audit)  
 **Start here:** [USER_MANUAL.md](USER_MANUAL.md) · [CONTROL.md](CONTROL.md) · workers: [WORKER.md](WORKER.md)  
 **Entry:** `go <plain language>` → skill `go-router`  
@@ -33,17 +33,17 @@
 
 All stages **`no_agent`** (no LLM in overnight path):
 
-1. **Filter** (01:10) — content-analysis  
-2. **Audit** (01:15) — nightly structural audit (alert-only critical)  
-3. **Remediate queue** (01:30) — janitor prioritize / queue  
-4. **Scout** (01:40) — live site UX  
-5. **Extract → Evaluate → Generate** (02:00 / 02:10 / 02:20) — same-day files only  
-6. **Deepen** (01:50–03:00) — backlink / quotes / timeline (content AUTO writes)  
-7. **Publish** (04:25) — ci-heal L2/L3 (only nightly pusher)  
-8. **Review** (Sun 07:15) — weekly-improvement pack + review gate  
+1. **Filter** (21:10) — content-analysis  
+2. **Audit** (21:15) — nightly structural audit (alert-only critical)  
+3. **Remediate queue** (21:30) — janitor prioritize / queue  
+4. **Scout** (21:40) — live site UX  
+5. **Extract → Evaluate → Generate** (22:00 / 22:20 / 22:40) — same-day files only  
+6. **Deepen** (21:50–23:30) — backlink / quotes / timeline (content AUTO writes)  
+7. **Publish** (00:25) — ci-heal L2/L3 (only nightly pusher)  
+8. **Review** (Sun 22:15) — weekly-improvement pack + review gate  
 
 **Human surface (last content brief):** `vault-morning-brief` **07:00** — NEED YOU ≤5 first; AUTO strip from `autonomy-ledger.json`.  
-**Cron self-heal:** `cron-audit` 04:45 merged (schedule restore + missed-run guards).
+**Cron self-heal:** `cron-audit` 00:45 (schedule restore + missed-run guards).
 
 **Folded (paused as Telegram):** `vault-unfinished-threads`, `vault-connector-suggestions`, `vault-intelligence-digest` — collectors still run **via morning-brief** (disk), not separate spam.
 
@@ -59,30 +59,31 @@ SSOT times: `hermes cron list` / SYSTEM_STATUS generated table. Narrative summar
 |--------------|-----|------|
 | every 1m | `vllm-thermal-scaler` | Adaptive GPU/thermals (silent when cool) |
 | every 30m | `unified-watchdog` | Health (silent OK). **No kanban-sync** — chat→board was junk. |
-| **01:10** | **content-analysis** | Daily content-quality audit (auto-heal) |
-| 01:15 | nightly-audit | Structural sense (alert if critical) |
-| **01:30** | **janitor** | Queue safe remediation candidates |
-| 01:40 | scout-live | Live UX gaps (404s, slow) |
-| 01:50 | backlink-auditor | Inbound link audit |
-| **02:00** | **extract-actions** | Findings → actionable cards (pipeline) |
-| 02:10 | evaluate-actions | Score by impact (pipeline) |
-| 02:20 | generate-cards | Build remediation task cards (pipeline) |
-| **03:00** | **person-works-linker** | Link people ↔ works (AUTO) |
-| 03:15 | quote-extractor | Quote mining (AUTO) |
-| **03:30** | **timeline-builder** | Deepen timelines (AUTO) |
-| 03:15 | output-rotate | Log/output hygiene |
-| **04:25** | **ci-heal** | **Only nightly pusher** (L2 heal + L3 green) |
-| **04:30** | **site-design** | **Audit-only after ci-heal push** |
-| **04:45** | **cron-audit** | Empty-schedule / missed-run / deliver guards |
-| 06:10 | docs-sync | Doc OS sense + cron inventory regen |
-| **06:20** | **digest** | System dashboard (tagged) |
-| 04:50 | memory-audit | Silent unless MEMORY/USER issues |
-| 06:30 | tier1-sweep | Last content-touching nightly step |
-| **Sun 05:00** | **vault-search-index-rebuild** | Search index rebuild |
-| **Sun 05:30** | **source-continuity** | **Live-site watch (TC/GSTPC/ITPC/PCT) → delta AUTO → next-ingest tips** |
-| Sun 06:00 | weekly-improvement | Review gate + pack |
-| **07:00** | **vault-morning-brief** | **Primary human surface** (+ SOURCE CONTINUITY / NEXT INGEST) |
-| every 1h | echopedia-news-scan | Live news → hot-topic brief (self-delivers TG+LINE; silent when quiet) — script `echopedia-news-scan.py`, state `~/.hermes/cache/news-brief-state.json` |
+| every 60m | `echopedia-news-scan` | News scan. `deliver=local`. Silent when quiet. |
+| **21:00** | **rate-gate resume** | Swarm resume. Forever pin wins. Not a jobs.json job. |
+| **21:10** | **content-analysis** | Daily content-quality audit (auto-heal) |
+| 21:15 | nightly-audit | Structural sense (alert if critical) |
+| **21:30** | **janitor** | Queue safe remediation candidates |
+| 21:40 | scout-live | Live UX gaps (404s, slow) |
+| 21:50 | backlink-auditor | Inbound link audit |
+| **22:00** | **extract-actions** | Findings → actionable cards (pipeline) |
+| 22:20 | evaluate-actions | Score by impact (pipeline) |
+| 22:40 | generate-cards | Build remediation task cards (pipeline) |
+| **23:00** | **person-works-linker** | Link people ↔ works (AUTO) |
+| 23:15 | quote-extractor | Quote mining (AUTO) |
+| **23:30** | **timeline-builder** | Deepen timelines (AUTO) |
+| 21:05 | output-rotate | Log/output hygiene |
+| **00:25** | **ci-heal** | **Only nightly pusher** (L2 heal + L3 green) |
+| **00:30** | **site-design** | **Audit-only after ci-heal** |
+| **00:40** | **tier1-sweep** | Last content-touching nightly step |
+| **00:45** | **cron-audit** | Empty-schedule / missed-run / deliver guards |
+| 00:50 | memory-audit | Exit 1 only on missing/over-cap MEMORY |
+| 01:10 | docs-sync | Doc OS sense + cron inventory regen |
+| **Sun 21:00** | **vault-search-index-rebuild** | Search index rebuild (same minute as resume — do not add a third 21:00 job) |
+| **Sun 22:15** | **weekly-improvement** | Review gate + pack |
+| **Sun 23:45** | **source-continuity** | Live-site watch → delta AUTO |
+| **07:00** | **vault-morning-brief** | **Primary human surface** |
+| paused | echopedia-digest | Do not re-enable as a second dashboard |
 | `knowledge/operational/incidents/` | Failures |
 
 ---

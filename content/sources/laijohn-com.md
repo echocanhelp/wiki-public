@@ -7,7 +7,7 @@ tags:
   - PCT
   - primary-source
 verification_status: pending
-last_reviewed: 2026-08-18
+last_reviewed: 2026-10-11
 ---
 # Elder John Lai's Archives (laijohn.com)
 

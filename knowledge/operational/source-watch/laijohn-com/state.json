@@ -72,8 +72,14 @@
       "len": 14145,
       "code": 200,
       "baseline": false
+    },
+    "http://www.laijohn.com/#": {
+      "hash": "a1daf2c8e1735a185cdfe130238534a9",
+      "len": 12986,
+      "code": 200,
+      "baseline": false
     }
   },
-  "last_poll": "2026-10-05T06:49:39Z",
+  "last_poll": "2026-10-12T06:49:26Z",
   "baseline_at": "2026-08-19T04:38:44Z"
 }

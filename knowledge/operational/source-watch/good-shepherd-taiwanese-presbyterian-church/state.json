@@ -282,8 +282,14 @@
       "len": 24743,
       "code": 200,
       "baseline": false
+    },
+    "https://gstpc.org/home/10-11-2026-sunday-bulletin/": {
+      "hash": "45886587df96299b7459a0238e1d480d",
+      "len": 25340,
+      "code": 200,
+      "baseline": false
     }
   },
-  "last_poll": "2026-10-05T06:46:46Z",
+  "last_poll": "2026-10-12T06:46:05Z",
   "baseline_at": "2026-08-09T21:02:05Z"
 }
