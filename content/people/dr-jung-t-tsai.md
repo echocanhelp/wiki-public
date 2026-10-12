@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Jung T. Tsai (蔡榮聰醫師)
 
@@ -75,3 +75,6 @@ Accomplishment
 - **著作**：另有親撰散文 [[works/taiwaneseamericanhistory-org/185-e5-a5-b3-e5-85-92-e7-b5-90-e5-a9-9a-e6-84-9f-e8-a8-80-e8-94-a1-e6-a6-ae-e8-8|TAH #185 女兒結婚感言]]（2015/01），與 Family 欄女兒蔡華珊相呼應。
 - **著作（專書）**：[[works/taiwaneseamericanhistory-org/201-war-against-cancer|TAH #201 決戰癌症]]（2003/05，Life/生活），本人署名之癌症專書。
 - **台語文推廣**：以僑務委員身份主辦 2014-08-30～09-01 北澤西佳壇台語教會三天台語教師研習會（僑務委員會台語專家鄭安住老師來美巡迴演講），協辦含台灣駐紐約文教中心、北澤西台灣同鄉會、大紐約區海外台灣人筆會、北美洲台灣人醫師協會大紐約分會、福爾摩莎新澤西州醫師協會，八十多位鄉親參與 — [[works/taiwaneseamericanhistory-org/ourjourneys42|Our Journeys 42]]。
+
+## Re-verification (2026-10-12, deepen-x 10110600-4)
+- 全 corpus 目錄重掃（蔡榮聰／Jung T. Tsai／Long Tsung）：命中 10 檔，全部已於本页連結或引用（#183／#165／#215／private-collections-100／#83／#185／#201／ourjourneys12／ourjourneys42／works index）。無新語料，維持 saturated；Jung↔Long 拼寫 HOLD 維持原樣。
