@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Cheng Y. Chuang (莊承業)
 
@@ -51,6 +51,7 @@ last_reviewed: 2026-10-10
 - **Houston 同鄉會 naming & founding base (per 廖明徵's memoir):** in 1975, as 會長 of the Houston 同鄉會 (originally named Formosan Club, its charter drafted by 廖明徵 with 闕文榮 as first president), he proposed renaming it 台灣同鄉會 because "台灣" was the more widely accepted name — the same year he founded 德州台灣人信用合作社, alongside 休士頓台灣語文學校 and 台灣人傳統基金會, which laid the foundation for the later 台灣人活動中心 ([[works/taiwaneseamericanhistory-org/ourjourneys308|308. 記休士頓台灣同鄉會起源, 廖明徵 08/2017]]).
 - **Award:** received the United Way of Greater Houston's Commitment to Leadership Award 休士頓聯合公益基金會領導卓越獎 in 1999 ([[works/taiwaneseamericanhistory-org/winners52|winners52]]); his Who's Who entry itself is in the corpus as [[works/taiwaneseamericanhistory-org/whos-who-266-cheng-y-chuang|266. Cheng Y. Chuang 莊承業]] (02/2015).
 - CORPUS SCAN (2026-10-09, slice 10080951-17): fresh ZH+EN grep over works/articles/sources/events/topics (20 hits) surfaced 8 previously-unlinked corpus records (1356, 482, 1161, 86, 307, collection #17, winners52, videos5) plus roster detail in ourjourneys106 — all absorbed above; no date/age conflicts found.
+- CORPUS SCAN (2026-10-12, slice 10120200-30): exact-name re-grep 「莊承業／Cheng Y. Chuang／Eddie Chuang／承業」 over works/articles/sources/events/topics returns 24 files — every hit is a work already linked above (116, ff332, 266, 1356, 482, 1161, 86, 307, collection #17, winners52, videos5, 106, 308/308-eng, 318, 244, 233/233-eng, 76/76-eng, 370, 1252, 1124, album #39); no new corpus facts; verified saturated, SKIP-deepen.
 
 ## Sources
 - [TAH #116 encyclopedia: 116. Cheng Y. (Eddie) Chuang 莊承業](https://taiwaneseamericanhistory.org/116-cheng-y-eddie-chuang/)
