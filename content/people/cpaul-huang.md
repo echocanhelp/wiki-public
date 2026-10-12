@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Paul Huang (黃俊文)
 
@@ -61,3 +61,4 @@ _No filled family fields on the TAH profile._
 - 複核（deepen-x slice 09260700-8, 2026-09-27）：re-grep 黃俊文／Paul Huang（works+articles）hit set identical — 僅已引之獲獎記錄與 Our Journeys 19（ECAD 同名者 HOLD）。SKIP, verified-saturated.
 - 複核（deepen-x slice 10081009-4, 2026-10-09）：re-grep 黃俊文／Paul Huang／Chun-Wen across works+articles+sources+events+topics — hit set identical: 已引獲獎記錄（38/39/37、308、681）、Our Journeys 19（ECAD 同名者 HOLD）、以及 TJJ 蔬果園藝 tag records（黃啟源 Paul Huang 同名者，見上 HOLD）。SKIP, verified-saturated.
 - 複核（deepen-x slice 10100600-11, 2026-10-11）：re-grep across works+articles+sources+events+topics — hit set identical (award records 38/39/37/308/681, Our Journeys 19 ECAD namesake HOLD, TJJ gardening-lecturer 黃啟源 namesake HOLD). No new absorbable material. SKIP, verified-saturated.
+- 複核（deepen-x slice 10110200-15, 2026-10-12）：re-grep 黃俊文／Paul Huang／Chun-Wen across works+articles+sources+events+topics — 14 files, hit set identical. HOLD: the earlier note claimed the 黃啟源(Paul Huang) link had been removed from TJJ Subjects, but 5 TJJ records still link [[people/cpaul-huang]] — 2020-06-25 gardening category index, 2024-04-21, 2024-04-23, 2024-05-28, 2024-06-16 snapshots, all 「洛杉磯台灣會館園藝講座 黃啟源(Paul Huang) 主講土壤與瓜類育苗」(蔬果園藝交流在美洲, 2016-06-26 / 2017-04-30). These name a SoCal horticulture lecturer, not the violinist; they remain false-positive Subjects links, not new biography. No new absorbable material. SKIP, verified-saturated.
