@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Heng-Liong Lin (林興隆)
 
@@ -41,7 +41,7 @@ last_reviewed: 2026-10-11
 - **Chaplaincy in the movement**: among the pastors (with 吳明雄, 鄭義勇, 郭榮敏, 王成章) who spoke at the US-East TAC/EC summer institute in 1970s recollections — [[works/taiwaneseamericanhistory-org/ourjourneys338|338. 張啟典醫師的回憶 — 1977年TAC/EC / 楊遠薰]].
 - Named among 紐澤西同鄉会 supporters in a fundraising acknowledgement in the TAH story corpus ([[works/taiwaneseamericanhistory-org/ourjourneys256|256. 寫在畫展之前 / 黃根深]]).
 - TAH encyclopedia record: [[works/taiwaneseamericanhistory-org/897-heng-liong-lin-e6-9e-97-e8-88-88-e9-9a-86-201603|897. Heng-Liong Lin 林興隆 / 2016/03]].
-- HOLD: pen-club memoir gives his presidency as starting 2008 (第二任); his term end year is unrecorded.
+- **Term resolved (2026-10-12)**: 柯金寅's memoir states 「2012年年底林興隆會長卸任後由郭正昭教授繼任第三任筆會會長」 — his pen-club presidency ran 2008–end of 2012 (第二任; succeeded by 郭正昭 as third president), closing the earlier HOLD on his term end — [[works/taiwaneseamericanhistory-org/ourjourneys12|12. 大紐約區海外台灣人筆會十週年 / 柯金寅]].
 - Corpus re-check 2026-09-22 (deepen-x slice 09220500-7; prior 2026-09-20 re-check): corpus re-grep (林興隆 / Heng-Liong Lin) returned only the four records already cited above — no new absorbable facts.
 - Corpus re-check 2026-09-23 (deepen-x slice 09221400-7): fresh grep of works/ + articles/ for 林興隆 / Heng-Liong returns only the four records already cited above (897, ourjourneys12, ourjourneys256, ourjourneys338) and the works index — no new absorbable material.
 
@@ -65,3 +65,5 @@ Corpus re-grep 2026-10-09 (deepen-x slice 10080500-11): first full five-dir swee
 Corpus re-grep 2026-10-10 (deepen-x slice 10090900-11): fresh five-dir sweep (林興隆 / Heng-Liong / heng.liong) — identical hit set (897 bio, ourjourneys12/256/338, works index, sources/taiwaneseamericanhistory-org); all already cited. Memoir detail re-read (柯金寅, ourjourneys12): 林興隆's pen-club tenure spans 2008–2012 in-text (2009/2010 book events under his presidency; 2012 「台灣在呼喚」 Taipei meeting credited to him and wife), consistent with the existing HOLD (term end unrecorded). No new absorbable material. Verified saturated, SKIP-with-reason.
 
 Corpus re-grep 2026-10-11 (deepen-x slice 10101204-5): fresh five-dir sweep (林興隆 / Heng-Liong / heng.liong) — identical hit set (897 bio, ourjourneys12/256/338, works index, sources/taiwaneseamericanhistory-org); all already cited. Memoir passages re-read confirm no new facts beyond those absorbed (2008 succession from 蔡榮聰, 2012 「台灣在呼喚」 credit, 紐澤西同鄉會 donor list, 1970s TAC/EC chaplain roster). HOLD (presidency since 2008, term end unrecorded) stands. Verified saturated, SKIP-with-reason.
+
+Corpus re-grep 2026-10-12 (deepen-x slice 10112243-5): fresh five-dir sweep — hit set unchanged (897, ourjourneys12/256/338, works index, sources page). Deeper read of ourjourneys12 surfaced one new absorbable fact: line 88 「2012年年底林興隆會長卸任後由郭正昭教授繼任第三任筆會會長」 resolves the long-standing HOLD on his term end (presidency 2008–2012, succeeded by 郭正昭). Absorbed into Role in the Community. 郭正昭 has no existing people page — named as plain text, no invented wikilink. No conflicts.
