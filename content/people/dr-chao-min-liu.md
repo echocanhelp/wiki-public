@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Chao-Min Liu (劉兆民博士)
 
@@ -96,4 +96,9 @@ Fresh ZH+EN grep (劉兆民 / Chao-Min Liu / Chaomin Liu) across works/articles/
 - Art writings: [[works/taiwaneseamericanhistory-org/mystories13|習畫自述 (2014)]] and [[works/taiwaneseamericanhistory-org/mystories625|巴黎繪畫隨筆 (2018-02)]] — his own accounts of learning to paint and Paris sketch-notes, companion pieces to the existing mystories568/495 essays.
 - Press profile: [[works/taiwaneseamericanhistory-org/mystories667|Chao-Min Liu Complements Science with Artistry / Meredith Brennan (2018-12)]] — a third-party feature on the scientist-artist duality.
 - Wisconsin memoir twin: [[works/taiwaneseamericanhistory-org/ourjourneys205|掌握可疑綫索 – University of Wisconsin, Madison留學生活的回憶 (2016-03)]] — the Our Journeys publication of the same Wisconsin reminiscence already linked as mystories173 (2015-01); same content, two publication venues, no date conflict.
+No biography invented, no new pages created, nothing published.
+
+## Deepen pass 2026-10-12 (deepen-x slice 10110100-19, vault-only)
+Fresh ZH+EN grep (劉兆民 / Chao-Min Liu / Chaomin Liu) across works/articles/sources/events/topics — hit set is now saturated except one previously-unlinked record:
+- Exhibition record: [[works/taiwaneseamericanhistory-org/dr-chao-min-liu-oil-paintings-show|TAH #29 — 2018-05~06 solo oil-paintings show, Livingston Community Center Gallery, Livingston NJ]] — complements the 2010-04 林保山雙個展 already linked; documents his NJ exhibition activity alongside the Hoffmann-La Roche career years.
 No biography invented, no new pages created, nothing published.
