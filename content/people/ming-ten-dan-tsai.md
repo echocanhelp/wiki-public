@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Ming Ten Dan Tsai (蔡明殿)
 
@@ -55,6 +55,8 @@ HOLD (deepen-x slice 09150400-32, 2026-09-15): the corpus also names a 蔡明**�
 复核（deepen-x slice 10081200-32，2026-10-10）：SKIP-with-reason——全語料庫重掃（蔡明殿／Ming Ten／Ming-Ten 變體）命中集合不變，本人署名書目頁（#13／#124／#155／#389／#841／#944／#945）均已連結於 Role in the Community；無新回憶錄或社群材料可吸收；HOLD（蔡明憲）維持不併入。
 
 复核（deepen-x slice 10100900-15，2026-10-11）：SKIP-with-reason——全語料庫重掃（蔡明殿／Ming Ten／明殿）命中集合不變：本人署名書目頁（#13／#124／#155／#389／#841／#944／#945）均已連結於 Role in the Community；新增命中 [[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys #212]] 與 [[works/taiwaneseamericanhistory-org/458-e5-a4-a9-e4-bd-91-e5-8f-b0-e7-81-a3-e8-94-a1-e6-98-8e-e6-86-b2-e7-9a-84-e5-b|TAH #458]]／[[works/taiwaneseamericanhistory-org/459-e8-94-a1-e6-98-8e-e6-86-b2-e8-88-87-e6-8d-8d-e8-a1-9b-e9-98-b2-e5-bc-b5-e7-8|TAH #459]] 皆為蔡明**憲**（同鄉會會友／國防部長），維持 HOLD 不併入；無新回憶錄或社群材料可吸收。
+
+复核（deepen-x slice 10110600-17，2026-10-12）：SKIP-with-reason——全語料庫重掃（蔡明殿／Ming Ten／明殿）命中集合不變：本人署名書目頁（#13／#124／#155／#389／#841／#944／#945）均已連結於 Role in the Community，另 [[sources/taiwaneseamericanhistory-org|sources/taiwaneseamericanhistory-org]] 僅為索引引用；無新回憶錄或社群材料可吸收。本次並確認 articles/ 之蔡明憲命中（前國防部長／台灣聯合國協進會會長，見 TJJ 兵役改革、東京奧運正名、二二八回復名譽等報導）皆屬蔡明**憲**一人，與本頁 蔡明殿（朴子、人權工作者、與王淑英合著憶錄）為不同人——HOLD 維持不併入。
 
 Read against the Education table, the corpus traces a single arc: 台大農推系 → Boston University special education → founding a farm in Newton, NJ (written up 1982) → literary output (在海之角 1992, 菜蟲的現代寓言 2015) → human-rights work. The movement treats his writing as movement writing, not a hobby. The era on this page (1945–2014) and the corpus items (1982–2016) raise no conflict.
 
