@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Hannah Hsu Wang (許鴻玉)
 
@@ -61,3 +61,4 @@ SKIP note (deepen-x 09150316-6, 2026-09-15): re-sweep returned the same six own-
 SKIP note (deepen-x 09150400-2, 2026-09-15): re-sweep returned the same six own-record hits — hit set unchanged; nothing absorbable; last_reviewed already today.
 
 SKIP note (deepen-x 10081500-7, 2026-10-10): re-sweep across works/articles/sources/events/topics returned only her own bibliographic records (#4, #62, #131, #143, #161, #555), already linked above; 許鴻源 hits are a different person (Dr. 許鴻源/Hong-Yen Hsu). No new memoir/community material; nothing absorbable.
+SKIP note (deepen-x 10110805-4, 2026-10-12): re-sweep across all 5 corpus dirs returned the identical hit set — her own records (concert-143, concerts131, works/index, sources index) plus 許鴻-prefixed hits that grep-confirmed are Dr. 許鴻源/Hong-Yen Hsu (mystories612, 685, pride19, ourjourneys173, senior-taiwanese-american-7, 1266 — zero 許鴻玉/Hannah matches in those files). Hit set saturated; nothing absorbable.
