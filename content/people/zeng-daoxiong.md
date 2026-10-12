@@ -6,7 +6,7 @@ tags:
   - columnist
   - taiwanjustice-net
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Zeng Dao-xiong (曾道雄)
 
@@ -103,6 +103,7 @@ See the source hub. Top mentions:
 
 ## Source Notes
 
+- **覆核（DEEPEN-X10110805-10, 2026-10-12）：** 本 slice 以曾道雄/Zeng Dao-xiong/道雄 三式重跑全語料 grep（works/articles/sources/events/topics），命中集與既有吸收完全一致——ourjourneys287/294/301（演奏系列籌備、聲樂家名單、歌劇本土化、王秋梨安可編曲）與楊子清 tag／音樂短講條目，無新事實、無新衝突；HOLD（彭明敏返台年分）維持。
 - **Content priority A:** Article count (6) from Tier 2 title extraction
 - **Content priority B:** Column author listing from `knowledge/research/taiwanjustice-net-entities.md`
 - **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
