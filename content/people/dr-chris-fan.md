@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Chris Fan (范清亮博士)
 
@@ -47,6 +47,7 @@ Accomplishment
 - Corpus re-grep 2026-10-10 (slice 10081500-31): fresh ZH+EN sweep across all 5 corpus dirs; hit set same files, but content-level read surfaced the charter-reform passage in Our Journeys 26 (absorbed above) plus the ITPC speaker roster and twin-page rabbit-serum detail. Ching-ling vs Ching-liang HOLD stands.
 - Listed among the 第二代 roster figures (范清亮 / Fan Qingliang, slug `fan-qingliang`) in the 2023 TAHS publication index [[sources/2023-tahs-publication|2023 TAHS publication]]; roster entry, no new biographical detail beyond the twin-page profile already absorbed.
 - Corpus re-grep 2026-10-11 (slice 10101200-31): fresh ZH+EN+surname sweep (范清亮/Chris Fan/Ching Liang/Fan Ching) across all 5 corpus dirs — hit set unchanged (Our Journeys 26 +EN, records #32/#880, 「黃金白兔」, index/roster listings). Content-level read confirms all memoir detail already absorbed above; page verified saturated. Ching-ling vs Ching-liang HOLD stands.
+- Corpus re-grep 2026-10-12 (slice 10110805-31): fresh ZH+EN sweep across all 5 corpus dirs — hit set unchanged (Our Journeys 26 +EN, own records #32/#880, 「黃金白兔」, works/index roster). Content-level read of the record pages confirms they remain bibliographic stubs (full text vault-side); no new memoir material. Page verified saturated; Ching-ling vs Ching-liang HOLD stands.
 
 ## Family
 
