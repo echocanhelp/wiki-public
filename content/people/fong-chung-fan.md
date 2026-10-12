@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Fong Chung Fan (樊豐忠)
 
@@ -58,3 +58,5 @@ Corpus re-check (deepen-x slice 10080600-7, 2026-10-09): fresh ZH+EN+surname gre
 Corpus re-check (deepen-x slice 10091414-2, 2026-10-10): fresh ZH+EN+surname grep of works/articles/sources/events/topics returned the identical saturated hit set (ourjourneys228 昆布勞 passage, whos-fong-chung-fan own record, taiwanjustice 後援會 report, works index). Surname 樊 hits again resolve to distinct persons — 樊豐美 (ourjourneys27/304, 紐約台灣會館 shareholder, not this subject), 樊冬寧 (VOA reporter in a 2026 taiwanjustice reprint, not a community member). The whos-fong-chung-fan record itself is bibliographic-only ("Full text stays in the vault") — no prose to absorb. Verified saturated, SKIP, no conflicts, no new wikilinks.
 
 Corpus re-check (deepen-x slice 10101500-2, 2026-10-11): fresh ZH+EN+surname grep of works/articles/sources/events/topics returned the identical saturated hit set — ourjourneys228 昆布勞 passage, whos-fong-chung-fan own record, taiwanjustice 後援會 report, works index. Surname 樊豐* hits again resolve to distinct person 樊豐美 (ourjourneys27/304, whos-who-56 Fon-may Fan, 紐約台灣會館 shareholder), not this subject. Verified saturated, SKIP, no conflicts, no new wikilinks.
+
+Corpus re-check (deepen-x slice 10120018-6, 2026-10-12): fresh ZH+EN+surname grep of works/articles/sources/events/topics returned the identical saturated hit set — only ourjourneys228 昆布勞 passage and whos-fong-chung-fan own record actually contain 樊豐忠 (verified by per-file grep -l); surname 樊/樊豐 hits resolve to distinct persons (樊豐美 ourjourneys27/304/whos-who-56, 樊立勳). Verified saturated, SKIP, no conflicts, no new wikilinks.
