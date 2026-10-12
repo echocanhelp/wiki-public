@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Yuan-Tseh Lee (李遠哲博士)
 
@@ -78,3 +78,8 @@ M.S., Radiochemistry Group
 
 ## Deepen-x re-check (slice 10101204-27, 2026-10-11)
 - Newly absorbed community record: [[articles/taiwanjustice-net/2022/20220127015246_2021_12_03_李遠哲捐諾貝爾獎章-即起展出於台史博常設展_a615b423fd4744ed|2021-12-03 — donated his 1986 Nobel Chemistry certificate and medal to the National Museum of Taiwan History (台史博) for the permanent exhibition]] — as the first Nobel laureate born and raised in Taiwan, he framed the donation as leaving 「有人曾經努力、奮鬥的痕跡」 for the island, with 台南一中／台南女中 students witnessing the ceremony. Dated news record from the taiwanjustice.net corpus; no new biography invented.
+
+## Deepen-x re-check (slice 10112243-26, 2026-10-12)
+- 2019-01-02 public letter to President Tsai Ing-wen: among the four signatories (彭明敏、李遠哲、高俊明、吳澧培) urging her not to seek re-election in 2020 and to return executive power — a dated record of his civic intervention in the 台美人/台灣 political sphere, reported in [[articles/taiwanjustice-net/2021/20210211020954_2019_01_02_鄭文燦讚蔡總統越來越貼近民意接地氣林右昌_黨_9837bbc231bda443|taiwanjustice.net's 2021 retrospective of the 2019-01-02 letter]]. Bibliographic/news record only.
+- 2000 — as sitting 中研院 president he recruited 翁啟惠 back to Taiwan to head the 生物化學多醣體研究室, per the taiwanjustice.net Welch Chemistry Prize coverage of 翁啟惠 ([[articles/taiwanjustice-net/2021/20210927013814_2021_09_08_翁啟惠革命性成就獲威爾許化學獎肯定_感謝合作_64b1e979ca17cf09|2021-09-08 report]]): dated evidence of his role as a talent-recruiting node in the Taiwanese scientific diaspora.
+- A 2025-03-27 陳茂雄 column frames him as 「台灣頂尖科學家」 par excellence in a 團結 vs 「劫收」 debate — opinion-column mention only, no biography absorbable.
