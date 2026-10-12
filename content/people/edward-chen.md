@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Edward Chen (陳以德博士)
 
@@ -84,3 +84,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10100601-8: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-8 article c251f8fc65ac83e0（獨傲村夫〈從二戰後全球去殖民化，到台灣國家正常化（下）〉, TJJ 2023-06-02 刊, 2023-09-23 快照）read fresh this attempt: subject link re-checked vs 正文（與林榮勳、盧主義創3F；文中1959改名年份與本頁Our Journeys 33之1958說法的分歧已在條目內註明）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10090701-8: verified 2026-10-10 — wave-2 link+deepen re-check of article c251f8fc65ac83e0（從二戰後全球去殖民化，到台灣國家正常化（下）, 獨傲村夫, TJJ 2023-06-02 刊, 2023-09-23 快照）: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10110100-26: re-grepped 2026-10-12 across all 5 corpus dirs (陳以德 / Edward Chen / 以德). 17 files carry 陳以德; hit set identical to prior passes (OJ 7/33/58/74/81/85/234, 198, 203, ff278, 276, whoswho1012, my-stories-897) — all already linked. Non-subject hits verified as collisions and correctly excluded: 「Dr. Edward Cheng」= 鄭德昌 (180/347/94/mystories300/26-eng → people/dr-edward-cheng); 「以德報怨」 idiom in OJ317; 「林以德」 (明治大學前辈) in the 2026-02-09 楊 memoir — different person. Saturated, no new material. -->
