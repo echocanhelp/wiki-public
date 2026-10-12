@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Dr. Fu-Kuen Lin (林福坤博士)
 
@@ -56,3 +56,4 @@ last_reviewed: 2026-10-10
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 <!-- deepen-x slice 10062218-5 (2026-10-08): saturated re-verify — fresh grep (林福坤 / Fu-Kuen Lin) across works/articles/sources/events/topics hit set unchanged: mystories263 + #8 + #109 + #1449 (all already linked/absorbed) + index. Nothing new absorbable. -->
 <!-- deepen-x slice 10091500-30 (2026-10-10): saturated re-verify — fresh grep (林福坤 / 福坤 / Fu-Kuen / Fu-kun / fu.kuen) across all 5 corpus dirs returned the identical closed set: mystories263 + #8 + #109 + #1449 + works index + 2017-tahs-publication roster (all already linked/absorbed; sibling page lin-fu-kun cross-linked, not merged). No new memoir/article mentions. Verified-saturated. -->
+<!-- deepen-x slice 10102200-24 (2026-10-12): saturated re-verify — fresh grep (林福坤 / 福坤 / Fu-Kuen / Fu-kun / fu.kuen) across all 5 corpus dirs returned the identical closed set (mystories263 + #8 + #109 + #1449 + works index + 2017-tahs-publication roster; all already linked/absorbed). Secondary probe (Amgen/Epogen/生技巨人) surfaced only mystories278-eng — a different narrator's memoir whose "Amgen senior scientist" line is not this person. No new material. Verified-saturated. -->
