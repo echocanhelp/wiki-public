@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Prof. Je-Chin Han (黃界清教授)
 
@@ -61,3 +61,4 @@ _Corpus re-grep 2026-09-25 (slice 09250800-9): SKIP — hit set identical to pre
 _Corpus re-grep 2026-09-27 (slice 09260700-12): SKIP — fresh ZH+EN grep hit set identical to previously absorbed records (own #52/#604, award-77, Our Journeys 129, works index, taiwanjustice.net echoes); verified saturated._
 _Corpus re-grep 2026-10-10 (slice 10090600-4): SKIP — fresh ZH+EN+email grep hit set identical to previously absorbed records (own #52/#604, award-77, Our Journeys 129, works index, taiwanjustice.net echoes of the 2012 op-ed and NATPA award notices); substring hits on 界立建/顧立雄 are other persons, not him; no memoir mentions; verified saturated._
 _Corpus re-grep 2026-10-11 (slice 10101322-18): SKIP — fresh ZH+EN+email grep (黃界清/Je-Chin Han/jechin.han) across all 5 corpus dirs returned 13 files, hit set identical to previously absorbed records (own #52/#604, award-77, Our Journeys 129, works index, taiwanjustice.net echoes of the 2012 op-ed, vote-fraud category indexes, and NATPA award notices); no memoir mentions; verified saturated._
+_Corpus re-grep 2026-10-12 (slice 10120400-30): SKIP — fresh ZH+EN+email grep across all 5 corpus dirs returned 13 files, hit set identical to previously absorbed records (own #52/#604, award-77, Our Journeys 129, works index, taiwanjustice.net echoes of the 2012 op-ed, vote-fraud category indexes, and NATPA award notices); the 2023 file is a vote-fraud category index echoing the op-ed, not new material; no memoir mentions; verified saturated._
