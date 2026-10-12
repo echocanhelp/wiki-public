@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. William L. Ko (柯威霖博士)
 
@@ -65,6 +65,13 @@ _No filled family fields on the TAH profile._
 ## Later Record (deepen pass 2026-10-09, vault-only)
 - **Death (2022-04)** — the corpus records his passing in the feature 從火車機關士到NASA科學家 馬偕第四代孫柯威霖辭世 (My Stories #830, 2022-04-20), which also situates him as a fourth-generation descendant of George Leslie Mackay (馬偕) — [[works/taiwaneseamericanhistory-org/my-stories-830|TAH My Stories #830 — 從火車機關士到NASA科學家 馬偕第四代孫柯威霖辭世 (2022/04)]]; see [[people/george-leslie-mackay|George Leslie Mackay]].
 - **Document collection** — a dedicated album of his important papers: [[works/taiwaneseamericanhistory-org/photo-albums-activities-113|TAH photo album #113 — Important Documents of Dr. William L. Ko (2016/03)]].
+
+## Role in the Community
+- **Arc of the record** — the corpus consistently frames Ko as a bridge figure: steam-locomotive engineer on the Taiwan Railways Administration (1941–1954), Caltech-trained aerospace scientist, and watercolorist/railed-art author in Texas — the arc 從火車機關士到NASA科學家 in [[works/taiwaneseamericanhistory-org/my-stories-830|My Stories #830]]. His railroad memoir art — 鐵道短篇小說及鐵道美術畫集 — is held as [[works/taiwaneseamericanhistory-org/pub436-railroad-short-stories|TAH pub #436]] and 柯威霖博士的鐵道故事畫集 as [[works/taiwaneseamericanhistory-org/mystories119-william-ko-railroad|My Stories #119]].
+- **Movement visibility** — featured in the TAH senior-Taiwanese-American encyclopedia as both [[works/taiwaneseamericanhistory-org/senior-taiwanese-american-4|#4]] and [[works/taiwaneseamericanhistory-org/15-dr-william-l-ko|#15]], in Who's Who #360, and as a watercolor subject in [[works/taiwaneseamericanhistory-org/art20-william-l-ko|TAH art #20]]; his papers form a dedicated archival collection ([[works/taiwaneseamericanhistory-org/collection-of-dr-william-leslie-ko|Collection of Dr. William Leslie Ko]]) and album ([[works/taiwaneseamericanhistory-org/photo-albums-activities-113|album #113]]).
+- **NASA tenure** — [[works/taiwaneseamericanhistory-org/383-dr-william-kuo|#383]] records the longest NASA employment record (40 years, 1978–2018); NASA features [[works/taiwaneseamericanhistory-org/mystories607|My Stories #607]] and [[works/taiwaneseamericanhistory-org/dr-william-l-ko-the-oldest-professional-employee-still-working-at-age-of-90-for-|#349]] (still working at 90 at Dryden Flight Research Center, Edwards CA) corroborate.
+- **HOLD: NASA start date** — Employment table says NASA "(1977-)" while #383 says "Forty (40) Years from 1978 to 2018". Kept both; not merged.
+- **Lineage** — My Stories #830 situates him as a fourth-generation descendant of [[people/george-leslie-mackay|George Leslie Mackay (馬偕)]].
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
