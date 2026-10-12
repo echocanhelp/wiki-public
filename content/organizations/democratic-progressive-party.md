@@ -8,7 +8,7 @@ tags:
   - Pan-Green-Coalition
   - Taiwanese-American-connection
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Democratic Progressive Party (民主進步黨)
 
@@ -81,6 +81,10 @@ The corpus documents the DPP's overseas apparatus in the United States as a stan
 The founding period is also recorded from this side of the Pacific. On 28 September 1986 the DPP was founded and "台灣開始邁上政黨民主政治之路，海内外台灣同鄉興奮不已"; on 3 February 1987 the DPP's first diplomatic tour arrived in the Bay Area as its first stop, greeted by a joint banquet of the Northern California associations, and on 7 November 1989 the "民主聖火" reached the Bay Area when 黃信介 spoke at UC Berkeley, stirring the democratization wave there ([[works/taiwaneseamericanhistory-org/ourjourneys38|Our Journeys #38]]). The 1987 NATMA medical mission to Taiwan visited the DPP headquarters alongside the KMT, the Legislature, and the Ministry of Foreign Affairs, and — through 陳永興's arrangements — detained dissidents in Tucheng Prison ([[works/taiwaneseamericanhistory-org/ourjourneys74|Our Journeys #74]]). In mid-November 1988 a FAPA leader secretly returned to Taiwan and lobbied the DPP's Standing Committee into adopting a resolution to promote the "公民投票運動" (one-vote/citizens'-referendum campaign), "在台灣播下公民投票的種子" ([[works/taiwaneseamericanhistory-org/ourjourneys197|Our Journeys #197]]). The Taiwan PEN Club, by its own account, "一直是民進黨及台聯的強力支持者," and in March 2004 fielded a 60-plus-person presidential campaign team back to Taiwan for the DPP ([[works/taiwaneseamericanhistory-org/ourjourneys12|Our Journeys #12]]).
 
 The 16 January 2016 presidential and legislative victory, which made [[people/tsai-ing-wen|Tsai Ing-wen]] Taiwan's first female president, is recorded in the community milestone ledger ([[works/taiwaneseamericanhistory-org/milestones49|Milestone 49]]) and in overseas reporting on Bay Area return-voters — anesthesiologist Simon Lin of Whittier Hospital and other Taiwanese-American delegations attending the DPP's Yuanlin rally in green jackets ([[works/taiwaneseamericanhistory-org/ourjourneys192|Our Journeys #192]]).
+
+The diaspora side of the founding is recorded in the movement memoir: in March 1986 overseas supporters declared a party in New York — the 台灣民主黨 — vowing to migrate it back to Taiwan, with 許信良, 謝聰敏 and 林水泉 joining and 梅心怡 as English-language spokesperson; Bay Area Chinese-Americans raised roughly $500,000 to fly long-blacklisted figures into Taiwan in late November 1986 ([[works/taiwaneseamericanhistory-org/our-journeys-363|Our Journeys #363]]). The overseas apparatus then formalized: in the summer of 1991 DPP party headquarters were established separately on the US East and West Coasts, with Washington's 黃仁宗 addressing the Midwest NTC summer conference to urge enrollment ([[works/taiwaneseamericanhistory-org/our-journeys-379|Our Journeys #379]]), and the DPP-AE (民進黨美東黨部) stands listed among New Jersey-area Taiwanese organizations ([[works/taiwaneseamericanhistory-org/ourjourneys356|Our Journeys #356]]). 彭良治, former chair of the All-North America Chamber of Commerce, is recorded as DPP East Coast chair in a 349th-issue roster of movement figures ([[works/taiwaneseamericanhistory-org/349-our-journeys|Our Journeys #349]]).
+
+The movement's community real estate doubled as party infrastructure: the New York Taiwan Center (台灣會館), bought in 1986 by Greater New York Taiwanese and the first overseas Taiwanese community center, is described as a key overseas beachhead for DPP supporters, where Tsai Ing-wen, Chen Shui-bian, Annette Lu, Frank Hsieh, Su Tseng-chang and Yu Shyi-kun all left campaign records on their way up ([[works/taiwaneseamericanhistory-org/ourjourneys304|Our Journeys #304]]).
 
 HOLD: overseas DPP organizational titles (美西主委 洪順五; overseas 國大代表 張富美; 文宣部主任 陳芳明) are given without dates in [[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys #37]]; treat tenure years as unconfirmed.
 
@@ -168,6 +172,11 @@ In 2006, the party ended official recognition of factions, though they remain re
 - 2018-06 — 陳宏達記述故王康陸秘書長告別式及骨灰佈撒行程：花蓮地區同志組成迎靈車隊（包括民進黨花蓮縣黨部宣傳車）自三仙台、八仙洞經七星潭海濱繞行花蓮市區，於台灣最東端將骨灰撒入海裡（[[works/taiwaneseamericanhistory-org/ourjourneys334|Our Journeys #334, 2018-06]]）。HOLD: 撒葬日期僅記「十八日」，依文刊於 2018-06 推為 2018-06-18，待核。
 - 2018–2020 — 紐約海外台派組織網絡與島內選舉的連動：與紐約台灣人組織有連結者返台參選地方公職——謝佩芬 Hsieh Pei-fen（2020 台北市大安區市議員候選人，DPP）、Hsiao Hsin-cheng（2018 內湖·南港）、林彥甫 Lin Yen-fu（2018 新竹市東區，當選）等；DPP 與 KMT 總統候選人在選舉前均例行赴美向海外台灣人募款（[[works/taiwaneseamericanhistory-org/our-journeys-373|Our Journeys #373]]）。
 - 2015-08 — 羅福全在 Our Journeys 撰文憶述《台灣公論報》停刊：最後一期發行人許世模、副發行人邱義昌向讀者告別，「預祝民主進步黨在明年的台灣總統、立委選舉中大獲全勝，台灣早日獨立建國」（[[works/taiwaneseamericanhistory-org/ourjourneys156|Our Journeys #156, 2015-08]]）。HOLD: 停刊當年年份未於文中標明（依「明年總統選舉」推為 1995），待核。
+- 1987 — The ninth Midwestern NTC summer camp (Baptist College, Charleston SC, theme 「民主與自決」) featured lectures by DPP figures 吳哲朗 and 黃昭輝, showing the party's diaspora outreach reaching the movement's youth institutions within a year of founding ([[works/taiwaneseamericanhistory-org/ourjourneys245|Our Journeys #245]]).
+- 1989-09 — After 許信良's fishing-boat return to Taiwan and arrest, the DPP organized a ten-thousand-person 「迎接許信良回家」 prison-visitation action at Tucheng, forcibly cleared by police overnight ([[works/taiwaneseamericanhistory-org/ourjourneys230|Our Journeys #230]]).
+- 2014-12 (post-九合一) — Chairperson Tsai Ing-wen toured the Midwest, drawing roughly 1,000 Taiwanese-Americans from seven-plus states in Chicago, framing the DPP's landslide local-election win as 浴火重生 and holding an impromptu youth forum with visiting students ([[works/taiwaneseamericanhistory-org/journey-149|Journey #149]]). HOLD: exact tour date not stated in the memoir.
+- 1981–2011 — 台灣公論報 (Taiwan Public Times, LA-based from 1982) published 2,357 issues through the party's founding and governing periods, the community press record of the DPP era ([[works/taiwaneseamericanhistory-org/ourjourneys63|Our Journeys #63]]).
+- 1991 — At the Los Angeles 台灣文化之夜, singer-songwriter 歐秀雄's 《勇敢的台灣人》 was credited with raising the artistic standard of DPP campaign songs ([[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]]).
 
 ## Related Pages
 
