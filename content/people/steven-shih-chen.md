@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Steven Shih Chen (陳士駿)
 
@@ -54,7 +54,8 @@ His TAH profiles are catalogued as [[works/taiwaneseamericanhistory-org/whos-who
 - 2024-06 — TAH 故事語料庫條目〈直球對決台灣議題 喜劇演員陳士駿：我故鄉我驕傲〉：[[works/taiwaneseamericanhistory-org/my-stories-906|My Stories #906（2024-06-27）]]；另見 [[articles/taiwanjustice-net/2025/20250328065436_tag_台灣議題_b525a00db93a00f0|台灣正義網「台灣議題」tag 頁（2025-03）]] 轉載同標題。HOLD: 「喜劇演員」頭銜與本頁工程師／企業家身分未獲語料庫內證相符，可能為同名他人，不合併。
 - 2021-11（轉載 2025-11-08）— 總統於美商會謝年飯致詞：2018 年以來政府總計發出 2,447 張就業金卡，其中三成發給美國人士，「其中包括 YouTube 共同創辦人陳士駿（Steven Chen）等矽谷菁英」；同文提及總統府已頒發第 1000 張就業金卡：[[articles/taiwanjustice-net/2025/20251108040143_美商會謝年飯_總統_藉由重啟tifa協商為bta奠基_8abf08efc74a3703|台灣正義網：美商會謝年飯總統致詞（2025-11-08）]]。與上條 Our Journeys #361 之「第一張就業金卡」敘述不相衝突（該文為 2018 年首發事件報導，此文為 2021 年累計統計），無須 HOLD。
 
-## Corpus cross-check（deepen-x slice 3, 2026-09-14；更新 2026-10-10）
+## Corpus cross-check（deepen-x slice 3, 2026-09-14；更新 2026-10-12）
+- 2026-10-12 輪檢索（陳士駿／Steven Shih Chen／士駿）跨五語料目錄：命中集合與歷輪完全相同（TAH #237／#178、Our Journeys #361、My Stories #906、台灣正義網兩文），無新素材。同名的 251／137 Steven Chen 為陳澤仁、225 Steven Cheng 為鄭敏雄，均非本頁；2030 吳士駿教授之「士駿」為假性命中，均不合併。
 - 2026-10-10 輪檢索新增 1 筆未收素材：台灣正義網美商會謝年飯總統致詞（就業金卡統計段），已吸收至上列 Role in the Community。
 - 舊輪命中 — [[works/taiwaneseamericanhistory-org/ota-237||TAH #237]]、[[works/taiwaneseamericanhistory-org/whos-who-178-steven-shih-chen||TAH #178]]、[[works/taiwaneseamericanhistory-org/our-journeys-361||Our Journeys #361]]、[[works/taiwaneseamericanhistory-org/my-stories-906||My Stories #906]] 及台灣正義網 tag 頁 — 均為本頁 Vault records／Role in the Community 已收連結；既有 HOLD（喜劇演員陳士駿）維持。
 
