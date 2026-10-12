@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Alvina Ling (林佑珊)
 
@@ -64,3 +64,4 @@ Accomplishment
 - 2026-09-29 corpus re-grep (slice 09260700-14): fresh grep 林佑珊／Alvina Ling — hit set identical (whos-who-1680, when-love-is-more-than-words, 2022–2026 prize records, this-is-why-you-must-read, alvina-ling-editor); all absorbed. Verified-saturated — SKIP.
 - 2026-10-10 corpus re-grep (slice 10081100-22): fresh grep 林佑珊／Alvina Ling across content/works|articles|sources|events|topics — hit set unchanged. One absorbable gap fixed: 2022 首屆評審 previously listed without the work link; now wikilinked to [[works/taiwaneseamerican-org/2022-creative-writing-recipients|2022 recipients]] (co-judges Charles Yu、Shawna Yang Ryan confirmed by that record and by [[people/shawna-yang-ryan|Shawna Yang Ryan]]'s page). No other new facts. Verified-saturated.
 - 2026-10-11 corpus re-grep (slice 10100800-32): fresh grep 林佑珊／Alvina Ling across all 5 corpus dirs — hit set identical (whos-who-1680, when-love-is-more-than-words, 2022–2026 prize records, this-is-why-you-must-read, alvina-ling-editor, works/index, tah source page); one new file pew-research-center-taiwanese-american-statement.md is a false match ("Alvina Yeh, Asian Pacific American Labor Alliance" — different person, not linked). All hits absorbed. Verified-saturated — SKIP.
+- 2026-10-12 corpus re-grep (slice 10110400-29): fresh grep 林佑珊／Alvina Ling／林佑 across all 5 corpus dirs — works/sources hit set unchanged (whos-who-1680, when-love-is-more-than-words, 2022–2026 prize records, this-is-why-you-must-read, alvina-ling-editor, works/index, tah source page), all absorbed. The three taiwanjustice-net article hits matched only 林佑恩導演 (documentary director, different person — surname-only false match, not linked). No new facts. Verified-saturated — SKIP.
