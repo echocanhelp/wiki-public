@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Prof. Jun-Yi Lin (林俊義教授)
 
@@ -125,3 +125,5 @@ The 2015/03 pair — 223 政治迫害 and 224 被列入黑名單 — is the move
 
 <!-- TJJ-A10100501-22: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-22 article b7327dcf888cee82 (台美史料中心 March 2021 Newsletter, TJJ 2021-02-28): subject link re-checked vs 正文 this attempt (「活出淋漓盡致的生命 By: Edgar Lin 林俊義」自述見於正文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10110102-23: verified 2026-10-12 — wave-2 link+deepen re-check of article b7327dcf888cee82 (台美史料中心 March 2021 Newsletter, TJJ 2021-02-28): subject link re-checked vs 正文 this attempt (「活出淋漓盡致的生命 By: Edgar Lin 林俊義」自述見於正文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10110805-9 (2026-10-12): fresh ZH+EN grep (林俊義/Edgar Lin/Jun-Yi Lin/俊義) across all 5 corpus dirs returned the identical saturated hit set — all 20 works hits (167, whos-who-123, 174, 255, publication-501, mystories 166/186/187/191/196/196-eng/214/219/223/224/240/241/244, ourjourneys301) already wikilinked above; the only article hits are the two known TJJ March-2021 newsletter copies (0832558e/b7327dcf), already in From the record. Remaining 俊義 hits are 盧俊義 (pastor, other person) — not links. No new material; no date/age conflicts. -->
