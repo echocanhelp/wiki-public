@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # David Weng (翁嘉盛)
 
@@ -55,6 +55,7 @@ The story corpus also holds records of the **Silicon Valley Taiwanese American I
 - Corpus re-sweep 2026-09-16 (slice 09160700-1): re-grep 翁嘉盛/David Weng — hit set unchanged (ourjourneys53 ZH+EN, ourjourneys24 ZH+EN, ourjourneys38 ZH+EN, TAH #1870; ourjourneys38-eng is the same committee record already linked via its ZH counterpart). **SKIP: no new absorbable facts**, no conflicts to HOLD.
 - Corpus re-sweep 2026-10-09 (slice 10081009-11): re-grep 翁嘉盛/David Weng — hit set unchanged (ourjourneys53/24/38 ZH+EN rosters & narrative, TAH #1870). Widened grep (矽谷台美產業科技協會/SVTAITA) surfaced 2 corpus records of the association whose presidency the Who's Who entry credits him with — bibliographic stubs, not naming Weng; linked in Role in the Community with date HOLD. 鄭芳彬 (wife) grep: no corpus hits. No other new absorbable facts.
 - Corpus re-sweep 2026-10-11 (slice 10100600-15): re-grep 翁嘉盛/David Weng across all 5 corpus dirs — 1 NEW record absorbed: 北加州台灣文化體育協會 2016-12-28 年會 (宏觀電視, taiwanjustice.net archive) names him as 亞洲矽谷投資長 invited to share Asia Silicon Valley policy; linked in Role in the Community. All other hits already absorbed (ourjourneys53/24/38 ZH+EN, TAH #1870); 98-weng.md / whos-who-16-joyce-weng.md / jensin-weng hits are different Wengs. No new conflicts to HOLD.
+- Corpus re-sweep 2026-10-12 (slice 10110200-18): re-grep 翁嘉盛/David Weng across all 5 corpus dirs — hit set unchanged (ourjourneys53/24/38 ZH+EN rosters & narrative, TAH #1870, taiwanjustice 2016 年會 record, sources index); all facts already absorbed above. Widened surname-only grep surfaced only different Wengs (翁啟惠, 翁義雄, 翁致理 — academic/biology/political figures). **SKIP: no new absorbable facts**, no conflicts to HOLD.
 
 
 ## Sources
