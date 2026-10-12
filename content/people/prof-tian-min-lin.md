@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Prof. Tian-Min Lin (林天民教授)
 
@@ -63,6 +63,8 @@ Visiting Professor of World Religion
 - **Cited by a peer memoir:** 徐頌鵬's memoir [[works/taiwaneseamericanhistory-org/ourjourneys268||TAH #268]] counts him among the Yale divinity students/pastors in the network that fed the 美東台灣人夏令會, noting 林天民 was his 台大哲學系 senior.
 - **Lay teacher in SoCal churches:** his 長青教室 (Evergreen Fellowship) classes at [[organizations/irvine-taiwanese-presbyterian-church||ITPC]] covered 回教、佛教、猶太教 (TAH #107). A fellow member's memoir [[works/taiwaneseamericanhistory-org/ourjourneys61||TAH #61]] describes how, after retirement in 南加州, he was invited to lecture monthly on the world's five religions — attendance rose a third each session, though some conservative elders resisted the comparative-religion teaching.
 - **Books in the corpus:** beyond the Kierkegaard study, the vault also records 《宗教與現代人生》([[works/taiwaneseamericanhistory-org/462-e5-ae-97-e6-95-99-e8-88-87-e7-8f-be-e4-bb-a3-e4-ba-ba-e7-94-9f-e6-9e-97-e5-a||TAH #462]], 商務 2004/05 — the book TAH #61 credits with reshaping members' Bible study) and a second record of the Kierkegaard book ([[works/taiwaneseamericanhistory-org/464-the-life-thought-of-soren-kierkegaard-timothy-tian-min-lin-e5-a4-96-e6-96-87||TAH #464]]).
+- **Co-founder of TARSA (2009-10-29):** the peer memoir [[works/taiwaneseamericanhistory-org/ourjourneys61||TAH #61]] records that, in the wake of the ITPC controversy below, he co-founded 台美人信仰與人文研習會 (TARSA) at 台灣會館 on 2009-10-29 with [[people/dr-che-yang-huang||黃哲陽醫師]], 黃友成 and the memoir's author — the same society whose December 2017 seminar he later spoke at ([[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c||台灣公義報 2017-12-20]]) — see [[organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc||TARSA]].
+- **2009-08 ITPC heresy-ban episode:** per [[works/taiwaneseamericanhistory-org/ourjourneys61||TAH #61]], after several years of monthly comparative-religion lectures at the 長青團契, the church's pastor and 小會 issued a final resolution in 2009-08 labeling his faith "異端" and barring further lectures; the 長青團契 president, vice-president and all officers resigned en bloc and dissolved the program. (Reconciles the earlier "some conservative elders resisted" note: resistance escalated into a formal ban.)
 - **Still active in 2017:** 台美人信仰與人文研習會 (TARSA) December 2017 seminar featured him on 宗教 ([[articles/taiwanjustice-net/2017/20171220125053_2017_11_29_全美台灣人權協會年會暨鄭南榕紀念獎_王康陸人_c4d413fd5efb8a9c||台灣公義報 2017-12-20]]).
 - **台大校友 record:** he appears as 林天民(哲學) among signatories in the 南加州台大校友會 2018 statement re 管中閔 ([[articles/taiwanjustice-net/2018/20180721091303_2018_07_20_抗議-南加州台大校友會邀管中閔來年會做專題演講_a428dcebbceacf38||台灣公義報 2018-07-20]]).
 
@@ -92,4 +94,5 @@ Visiting Professor of World Religion
 
 <!-- TJJ-A10100801-9: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-9 article c4d413fd5efb8a9c (全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮報導, 2017-11-29刊, 2017-12-20快照) read fresh this attempt: subject link re-checked vs 正文 — 「林天民教授講宗教新聞@20171214」條目確認見於正文 RELATED ARTICLES 段, real, no wrong/spurious links; 2017-12-14 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
-<!-- DEEPEN-X10101000-7: verified 2026-10-11 — fresh ZH+EN grep (林天民／Tian-Min Lin／Timothy Tian-Min) across all 5 corpus dirs returned the identical saturated hit set (TAH #189/#183/#462/#463/#464, Our Journeys #268/#107/#61, TJJ 2017-12-20 + 2018-07-20 articles); remaining hits (works/index.md, sources/taiwaneseamericanhistory-org.md) are index listings only, not new material. All corpus works already linked and absorbed in Role in the Community — SKIP, saturated, no new material. -->
+<!-- DEEPEN-X10110700-9: deepened 2026-10-12 — fresh ZH+EN grep (林天民／Tian-Min Lin／Timothy Tian-Min) across all 5 corpus dirs returned the known hit set (TAH #189/#183/#462/#463/#464, Our Journeys #268/#107/#61, TJJ 2017-12-20 + 2018-07-20); re-read of Our Journeys #61 yielded 2 NEW dated facts not previously absorbed — TARSA co-founding 2009-10-29 w/ 黃哲陽+黃友成+author (TARSA org page wikilinked, 黃哲陽→[[people/dr-che-yang-huang]]) and the 2009-08 ITPC 小會 heresy-resolution ban ending the 長青團契 lectures — both added to Role in the Community. No conflicts to HOLD. -->
+
