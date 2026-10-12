@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Jenny Lin (林佳靜)
 
@@ -68,3 +68,4 @@ Re-check 2026-09-18 (slice 09180131-2): hit set again unchanged (own #16/#159/#1
 Re-check 2026-09-20 (slice 09181500-1): hit set again unchanged (own #16/#159/#1089 records + works index; #520 linked above). SKIP: no new absorbable facts.
 Re-check 2026-09-21 (slice 09201300-1): hit set again unchanged (own #16/#159/#1089 records + works index; #520 linked above). SKIP: no new absorbable facts.
 Re-check 2026-10-10 (slice 10090700-31): widened grep beyond 林佳靜/Jenny Lin to surname/variant forms across all five corpus dirs. Two previously uncited community connections found and absorbed into Role in the Community: (1) she is named as a performer of Ying-Chen Kao 高盈真's commissions in Kao's own TAH records #21/#518 — archived as an interpreter of movement composers; (2) same-batch catalog placement with Min-Kuei Yang 楊閔貴 (#1091). No date/age conflicts to hold. Disambiguation stands: "Jenny Lin" hits in [[people/jenny-m-lin-chang|Jenny M. Lin Chang 張美華]] context refer to a different person.
+Re-check 2026-10-11 (slice 10101500-24): fresh grep 林佳靜/Jenny Lin across all five corpus dirs (works/articles/sources/events/topics) — hit set unchanged (own #16/#159/#1089 records + works index + sources page only). **SKIP：無新可吸收事實。**
