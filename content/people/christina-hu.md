@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Christina Hu (胡若涵)
 
@@ -83,4 +83,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090401-23: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090401-23 article 81e80ba38969bf88 (美皮尤人口調查報告修正區隔台裔與華裔, 2021-09-26): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 - Corpus re-grep 2026-10-11 (slice 10100849-26): SKIP-with-reason — fresh ZH+EN grep (胡若涵/Christina Hu/若涵) across all 5 corpus dirs returned the unchanged saturated hit set (own #1586, Blacklist film records ×2, census-2020 fundraiser, Pew statement, works index); all hits already linked on-page, no new absorbable material; Blacklist-vs-corporate-career HOLD stands, no new evidence either way.
+- Corpus re-grep 2026-10-12 (slice 10110500-26): SKIP-with-reason — fresh ZH+EN grep (胡若涵/Christina Hu/若涵) across all 5 corpus dirs returned the identical 11-file saturated hit set (own #1586, videos-blacklist + blacklistfilm, census-2020 fundraiser, both Pew statements, my-signature essay, 2 TJJ articles, works index, sources page); all already linked on-page, no new absorbable material; Blacklist-vs-corporate-career HOLD stands, no new evidence either way.
 <!-- TJJ-A10110001-16: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110001-16 article 81e80ba38969bf88 (美皮尤人口調查報告修正區隔台裔與華裔, TJJ 2021-09-26 刊/2021-10-20 快照) read fresh this attempt: Subjects links leona-chen（陳文羿，TaiwaneseAmerican.org 總編輯受訪語）、christina-hu（胡若涵，TACL 公民參與事務主任 NBC Asian America 引語）、taiwanese-american-citizens-league（TACL，1990 起草根運動記述）re-checked vs 正文 — all real, 無錯鏈、無虛鏈；譯者張正芊／核稿林治平 as plain text (no subject entries, correct); 2021-09-26 dated facts w/ article wikilink already on all three pages' From the record — saturated, no new material. -->
