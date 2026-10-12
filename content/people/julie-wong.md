@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Julie Wong (翁致理)
 
@@ -62,6 +62,9 @@ _No filled family fields on the TAH profile._
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
+
+## Vault records（deepen pass 2026-10-12）
+- Corpus sweep (slice 10110700-16, 2026-10-12): full grep (翁致理／Julie Wong／翁致) across works/articles/sources/events/topics returns the identical hit set as all prior passes — ourjourneys162（中英文）、concerts115、ourjourneys245、index 書目、sources/taiwaneseamericanhistory-org。No new corpus material; all dated facts already absorbed above. TAH #46 remains bibliographic-only (full text stays in vault).
 
 ## Vault records（deepen pass 2026-09-14）
 - TAH #46 人物專文（2014-10-11）於 vault 僅存書目紀錄（無正文可吸收）；本頁 Education/Employment 全部延伸事實出自 TAH Who's Who 人物表格。
