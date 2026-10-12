@@ -7,7 +7,7 @@ tags:
   - taiwanjustice-net
   - thin-page
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Han Kuo-yu (韓國瑜)
 
@@ -54,6 +54,7 @@ last_reviewed: 2026-10-10
 - [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
 - [[articles/taiwanjustice-net/index||taiwanjustice.net Article Archive]]
 - [[people/freeman-huang||Freeman Huang (黃樹人)]]
+- [[topics/t-國慶焰火點亮台東夜空-賴清德-韓國瑜-饒慶鈴齊聚-以-世界的方舟-南島臺灣-迎向|國慶焰火點亮台東夜空（2026-10-10 台東事件記錄）]]
 
 <!-- TJJ-A09260400-9: verified 2026-09-26 — subject links in slice 09260400-9 articles (064fe05a08d0aecf / a428dcebbceacf38 / 04f32b14d8cf8f12 / 1fbc7a8aff9cd26e) re-checked vs 正文; all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
@@ -74,3 +75,4 @@ last_reviewed: 2026-10-10
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20190626061950）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
 
 <!-- TJJ-A10100401-5: verified 2026-10-10 — wave-2 link+deepen re-check of article 8fc11ca0c5dbaebe (韓國瑜提預算協商盼柯建銘不要那麼硬·總統緩頰, 2025-01-16): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- DEEPEN-X10101500-31: re-checked 2026-10-11 — corpus grep (韓國瑜/Han Kuo-yu) across works/articles/sources/events/topics: 1,008 files, all taiwanjustice-net archive already absorbed, EXCEPT one new non-TJJ hit: topics/t-國慶焰火點亮台東夜空... (news-digest 2026-10-10 台東國慶焰火 event record, Tier E). Linked in Related Pages. No diaspora/memoir material — page saturated for biography purposes. -->
