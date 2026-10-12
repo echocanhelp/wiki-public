@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Helen Wang (方惠音)
 
@@ -63,6 +63,7 @@ Accomplishment
 - **2026-09-15 (DEEPEN-X09150500-4):** re-sweep SKIP — 命中集不變（ourjourneys60 中英兩版、#175、#1728），本人事實已吸收完畢；新舊版返臺年份冲突（1994 vs 1992）HOLD 維持，不逕行合併。
 - **2026-10-10 (DEEPEN-X10081400-22):** re-sweep SKIP — fresh ZH+EN grep across works/articles/sources/events/topics returned the identical hit set (ourjourneys60 中英兩版、#175、#1728、works/index、sources index)；本人事實已全數吸收於上節，無新事實；1994 vs 1992 返臺年份冲突 HOLD 維持。
 - **2026-10-11 (DEEPEN-X10101100-9):** re-sweep SKIP — fresh ZH+EN grep（方惠音／Helen Wang）跨 works/articles/sources/events/topics 命中集不變（ourjourneys60 中英兩版、#175、#1728、works/index、sources index）；英文版 ourjourneys60-eng 同段作 Li-Ying Lee／February 1992、中文版作陳麗英／1994 年 2 月，與既載一致，無新事實；1994 vs 1992 返臺年份冲突 HOLD 維持，不逕行合併。
+- **2026-10-12 (DEEPEN-X10110800-8):** re-sweep SKIP — fresh ZH+EN+惠音 grep 跨 works/articles/sources/events/topics 命中集不變（ourjourneys60 中英兩版、#175、#1728、works/index、sources index；events/topics 零命中）；sources/index 命中僅為本頁與 TAH 條目之收錄清單列舉，無新事實；1994 vs 1992 返臺年份冲突 HOLD 維持，不逕行合併。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
