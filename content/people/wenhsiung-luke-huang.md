@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Wenhsiung Luke Huang (黃文雄)
 
@@ -158,3 +158,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10100801-30: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-30 article a20fb275b89c3fb7（「刺蔣案」策劃者鄭自才登記總統連署 拚超越郭台銘, CNA 中央社記者葉素萍, 刊 2023-09-18 / Wayback 快照 2023-09-30）read fresh this attempt: subject link re-checked line-by-line vs 正文 — 黃文雄 見於「1970年4月24日…康乃爾大學博士生黃文雄與他的妹夫鄭自才等人策劃刺殺行動未果被捕」「黃文雄浪跡世界26年」，為該姓名之真實提及，無錯鏈、無虛鏈；該刺蔣主角與本頁 TAH 小兒科醫師 profile 是否同一人仍未驗證（HOLD 維持原樣）；含該文 wikilink 的 2023-09-18 日期事實條目已在 From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100901-26: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-26 article 996879ac7a006acf（全美台灣人權協會第44屆年會暨鄭南榕紀念獎頒獎, 發文 2020-11-25 / Wayback 快照 2021-01-18）: 黃文雄 link re-checked vs 正文 this attempt — 名列 1997 年得獎人清單, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10110000-13: verified 2026-10-12 — fresh ZH+EN grep (黃文雄/Wenhsiung/Luke Huang) across all 5 corpus dirs returned 6 hits (our-journeys-357, ourjourneys70, ourjourneys310, ourjourneys33, TAH #142, TAH #468); every hit is a work already linked/absorbed on this page — 獨盟 membership, 世臺會年會, Cornell blacklist, 獨盟 fallout, 意識覺醒 memoirs, 刺蔣 photo records — with the TAH醫師-vs-刺蔣主角 identity HOLD maintained. No new material — saturated, SKIP. -->
