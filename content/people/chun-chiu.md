@@ -78,3 +78,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10090501-30: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090501-30 article fa7c957f552d76e9 (總統府公布遴聘及新聘資政27人國策顧問70人名單, 2022-09-02): 邱俊邦列入國策顧問名單 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100901-9: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-9 article fa7c957f552d76e9 (總統府公布遴聘及新聘資政27人國策顧問70人名單, TJJ 發文 2022-09-02／2025-10-13 快照) read fresh this attempt: 邱俊邦列入國策顧問名單 re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10110601-16: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110601-16 article fa7c957f552d76e9 (總統府公布遴聘及新聘資政27人國策顧問70人名單, TJJ 發文 2022-09-02／快照 2025-10-13) read fresh this attempt: 邱俊邦列入國策顧問名單 re-checked vs 正文 line-by-line, real, no wrong/spurious links; 2022-09-02 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
