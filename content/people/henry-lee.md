@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Henry Lee (李豐隆)
 
@@ -44,3 +44,4 @@ Henry Lee (李豐隆) is listed in the TAH Foundation Who’s Who Taiwanese Amer
 <!-- deepen-x slice 10071448-1 (2026-10-09): saturated re-verify — fresh grep (李豐隆 / Henry Lee / 豐隆) hit set unchanged (works: ourjourneys75/75-eng/245/268/329, whoswho1467); articles/ hits are 李亨利 (大陸反間諜案当事人, different person) and 苗豐隆 (2020 立委名單) — noise. All facts absorbed above; HOLD on 1990-07 vs 1990-05 date conflict stands. SKIP-content. -->
 <!-- deepen-x slice 10090800-5 (2026-10-10): saturated re-verify — fresh grep (李豐隆 / Henry Lee / 豐隆 / 李丰隆) hit set unchanged (works: ourjourneys75/75-eng/245/268/329, whoswho1467 + index/sources hubs); articles/ hit is 苗豐隆 (2020 區域立委名單, different person) — noise. whoswho1467 confirmed bibliographic-record-only (full text stays in vault), no new absorbable facts. All facts absorbed above; HOLD on 1990-07 vs 1990-05 date conflict stands. SKIP-content. -->
 <!-- deepen-x slice 10100900-1 (2026-10-11): saturated re-verify — fresh grep (李豐隆 / Henry Lee / 李丰隆) hit set unchanged (works: ourjourneys75/75-eng/245/268/329, whoswho1467); remaining hits are index/sources hub listings only. All facts absorbed above; HOLD on 1990-07 vs 1990-05 date conflict stands. SKIP-content. -->
+<!-- deepen-x slice 10110600-1 (2026-10-12): saturated re-verify — fresh grep (李豐隆 / Henry Lee / 李丰隆) hit set unchanged (works: ourjourneys75/75-eng/245/268/329, whoswho1467 + index/sources hubs). All facts absorbed above; HOLD on 1990-07 vs 1990-05 date conflict stands. SKIP-content. -->
