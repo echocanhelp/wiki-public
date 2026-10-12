@@ -7,7 +7,7 @@ tags:
   - Taiwan-Center
   - board
 verification_status: published
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Tony Lee (李賢群)
 
@@ -135,3 +135,5 @@ last_reviewed: 2026-10-11
 <!-- DEEPEN-X10100900-6: verified 2026-10-11 — fresh ZH+EN sweep (李賢群 / Tony Lee) across all 5 corpus dirs returned the unchanged saturated hit set: ourjourneys75/-eng (2014 FAHR 財務/理事 roster, sourced from 張丁蘭的故事 2000), ourjourneys352 (TAC-WC LA regional director, 2016–2017), ourjourneys274 (李嘉晉醫師 — different Tony Lee, already disambiguated above), whos-who-710, 2021 WHA 聯合聲明 article, 2025 陳婉真追思報導 — every hit already reflected in Role in the Community / From the record. No new material; page saturated. -->
 
 <!-- TJJ-A10110102-24: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110102-24 article 20240412192704_root_95fd81860bafb5bf (二二八事件77周年 大洛杉磯台灣會館舉辦追思紀念大會, TJJ 發文 2024-02-25／2024-04-12 快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; 2024-02-24 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10110600-7: verified 2026-10-12 — fresh ZH+EN sweep (李賢群 / Tony Lee) across all 5 corpus dirs returned the unchanged saturated hit set: ourjourneys75/-eng (2014 FAHR 財務/理事 roster), ourjourneys352 (TAC-WC LA regional director), ourjourneys274 (李嘉晉醫師 — different Tony Lee, disambiguated), whos-who-710, 2021 WHA 聯合聲明 (incl. 2025-11-08 republication of the same 共同發起人 roster — same fact, no new material), 2024-02-24 台館 228追思報導 (f4bc88a2 = same event as 95fd8186), 2025 陳婉真追思報導, 2025 大罷免連署報導 — every hit already reflected in Role in the Community / From the record. No new material; page saturated. -->
