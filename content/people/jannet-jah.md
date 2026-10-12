@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-12
 ---
 # Jannet Jah (李俊玲)
 
@@ -143,5 +143,7 @@ Jennet Jah is the daughter of the noted composter, Professor Kenneth Lee. She gr
 <!-- TJJ-A10101001-3: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10101001-3 article 20250209214700_root_7214b273dfcb59ce（「以立合唱團」演唱「拯救我」— 選自威爾第的「安魂曲」, 發文 2022-12-16 / 快照 2025-02-09）read fresh this attempt: subject link re-checked vs 正文 this attempt（「女高音獨唱：李俊玲」確認見於正文）, real, no wrong/spurious links; 含該文 wikilink 的 2022-10-01／10-08 dated fact 已在 From the record — saturated, no new material. HOLD (Jennet vs Jannet spelling) unchanged. -->
 
 <!-- TJJ-A10101001-6: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10101001-6 article 928db8aa40e881b2（洛杉磯以立合唱團輕歌劇「森林王子」, 發文 2025-01-21 / 快照 2025-03-18）read fresh this attempt: subject link re-checked vs 正文 (「聲樂指導李俊玲老師」確認見於正文, 非登台身份), real, no wrong/spurious links (鄭兆翔／黃令先／白慈莉 正文提及; 黃令先有頁面已在連結, 鄭兆翔／白慈莉無頁面維持純文字不造鏈); 含該文 wikilink 的 2024-10-12 dated fact 已在 From the record — saturated, no new material. HOLD (Jennet vs Jannet spelling) unchanged. -->
+
+<!-- deepen-x slice 10110316-10 (2026-10-12): fresh ZH+EN grep (李俊玲／Jannet Jah／Jennet Jah) across all 5 corpus dirs returned 12 files — TAH #132/#245 works, works index, sources page, and the 以立合唱團 article set (拯救我／致死的震怒近了／學生王子／森林王子, incl. all 存檔副本). All hits already absorbed and wikilinked in Role in the Community / From the record; no new material. Three extra substring hits (Jahn／Jahangir／Jahanpour in unrelated news articles) are different names — not linked. HOLD (Jennet vs Jannet spelling; father Kenneth Lee vs 江奎然) unchanged. -->
 
 <!-- TJJ-A10101001-5: verified 2026-10-11 — wave-2 link+deepen re-check of article 526ee7d662ebe432（「以立合唱團」演唱「拯救我」—選自威爾第「安魂曲」, 發文 2022-12-16 / 快照 2023-02-02）read fresh this attempt: subject link 李俊玲 re-checked vs 正文 (「女高音獨唱：李俊玲」確認見於正文), real, no wrong/spurious links (author 楊子清＋「楊子清 (Cliff Yang) 提供」＋指揮、黃令先鋼琴均有頁面已連結; 廖健榮剪輯正文提及但無頁面, 維持純文字不造鏈); 含該文 wikilink 的 2022-10-01／10-08 dated fact 已在 From the record — saturated, no new material. -->
