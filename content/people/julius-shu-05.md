@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Julius Shu 05 (許清煌)
 
@@ -73,3 +73,5 @@ Corpus re-grep 2026-09-26 (deepen-x slice 09260317-6): fresh grep 許清煌/Juli
 <!-- TJJ-A10071500-2: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10071500-2 — article 20053f0a17b89c07 (Tag 大洛杉磯台灣會館耆老講座, 2025-02-16 存檔) 「9/7 耆老講座…謝清志、郭清江、許清煌」條目具名; subject link re-checked vs 正文 this attempt — 真實提及, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 Corpus re-grep 2026-10-10 (deepen-x slice 10090315-10): full 5-dir grep 許清煌/Julius Shu/許清 — new candidate hits (ourjourneys101 許清政, whoswho1478/2025-04 article 許清松, whoswho1400 許清曉, 2025/2024 TJJ articles 許清光/許清楚) all resolved to other persons, not this subject. Substantive set unchanged (ourjourneys244 / ourjourneys212 / whos-julius-shu / 耆老講座標籤頁); one small enrichment absorbed: 南灣生活座談會 founding roster completed from ourjourneys212 (陳立宗、林正善、廖政秀、林本晃、游銘泉、蔡銘祿、王秋森 added) + wikilink to existing [[works/taiwaneseamericanhistory-org/south-bay-shingwa-society|南灣生活座談會]] page. Verified-saturated; no conflicts found.
+
+Corpus re-grep 2026-10-12 (deepen-x slice 10112243-13): fresh 5-dir grep 許清煌/Julius Shu — hit set identical to the already-absorbed set (ourjourneys244, ourjourneys212, whos-julius-shu, works index, TJJ 耆老講座標籤頁, sources/taiwaneseamericanhistory-org); passage re-check matches verbatim (SCTFCU 徵信會召集人兼主席 roster; 南區/西區/南灣 生活座談會 rosters). No new passage-level facts. Verified-saturated; no conflicts found.
