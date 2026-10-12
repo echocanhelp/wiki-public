@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Mike Kuo (郭正光博士)
 
@@ -90,4 +90,4 @@ Per his TAH Who's Who profile, Dr. Kuo led both the community and advocacy sides
 <!-- TJJ-A10060800-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060800-5 article 53455d7e13136092（拒一國兩制！海外台灣人社團聯合聲明支持香港, 2019-09-04刊）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- deepen-x 10081100-1: 2026-10-09 — fresh ZH+EN grep (郭正光/Mike Kuo/Cheng-Kuang) across all 5 corpus dirs returned 17 files; every hit is an already-absorbed or already-linked work (memoir mystories319, Our Journeys #106/#233/#238/#307/#370/#382, My Stories #623, TAH #157/#249/#250/#538, TJJ 53455d7e) — saturated, no new biography material. Added the missing EN-edition link [[works/taiwaneseamericanhistory-org/mystories319-eng|319 EN]] to his memoir; last_reviewed bumped. No conflicts found. -->
 
-<!-- deepen-x 10100800-11: 2026-10-11 — fresh ZH+EN grep (郭正光/Mike Kuo/Cheng-Kuang) across all 5 corpus dirs returned 17 files, same set as prior rounds. Two facts in those hits were present in the corpus but never yet absorbed onto this page, now added to Timeline: (1) the ROC-blacklist roster entry in Our Journeys #106 recording him as 「去年遭拒之一」 (denied re-entry to Taiwan), 農工大學同學會會長, 1987 同鄉會會長, pro-Taiwan-independence and 「得罪國民黨很久了」; (2) the 2018-10-28 FAPA Central Texas chapter reactivation he chaired in person as 總會長 (Our Journeys #370). No new biography invented; no date/age conflicts found (blacklist-entry year left as n.d. rather than inferred). -->
+<!-- deepen-x 10110400-8: 2026-10-12 — fresh ZH+EN grep (郭正光/Mike Kuo/Cheng-Kuang/郭爲) across all 5 corpus dirs returned the same 17-file set as prior rounds (memoir mystories319/-eng, Our Journeys #106/#233/#238/#307/#370/#382, My Stories #623, TAH #157/#249/#250/#538, TJJ 53455d7e, index/sources pages); spot-checked #238 (鄉訊 origin, 剛拿到博士 proposal), #307 (1987 聯合鄉訊, 同鄉會會長), #623 (1991 海霸王事件), #382 (FAPA 總會長 外交遊說 remarks) — every fact already absorbed in Timeline/Community leadership. Saturated, no new material, no conflicts. -->
