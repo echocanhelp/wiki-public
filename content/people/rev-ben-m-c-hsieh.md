@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Rev. Ben M.C. Hsieh (謝敏川牧師)
 
@@ -66,3 +66,5 @@ _Corpus re-scan 2026-09-25 (deepen-x slice 09240600-8): fresh grep 謝敏川/Hsi
 
 <!-- deepen-x slice 10081500-5 re-verify 2026-10-10: fresh ZH+EN grep across works/articles/sources/events/topics — hit set identical (#144, #888, OJ14, OJ43, #186, index, source page); two taiwanjustice-net surname-only hits confirmed false positives (謝 not followed by 敏川); SKIP-with-reason: verified-saturated, no new absorbable facts -->
 <!-- deepen-x slice 10101100-32 re-verify 2026-10-11: fresh ZH+EN grep across works/articles/sources/events/topics — hit set identical (#144, #888, OJ14, OJ43, #186, index, source page); two new facts absorbed from OJ14/OJ43: (1) full PA baptism list from OJ43 (杜智惠、洪國輝、蔡宗元、莊榮輝母親、藍錫坤、陳姿容、Kelly Lan、Jerry Lan、Edward Chiang + 許資敏 confirmed) replacing the truncated 5-name list, plus Easter-service order of service; (2) TAFPC meeting-place history from OJ14 (1989-07-16 First Reformed rental, 2002-08-26 move to New Brunswick Presbyterian, 2007-01-21 董俊蘭 third-pastor installation). No conflicts found; no HOLDs needed. -->
+
+<!-- deepen-x slice 10110800-26 re-verify 2026-10-12: fresh ZH+EN grep across works/articles/sources/events/topics — hit set identical to all prior passes (#144, #888, OJ14, OJ43, #186, index, source page); all facts already absorbed (incl. OJ43 PA baptism list + OJ14 TAFPC meeting-place history added 2026-10-11); SKIP-with-reason: verified-saturated, no new absorbable facts -->
