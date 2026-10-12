@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # David S. Chen (陳皙宗牧師)
 
@@ -58,6 +58,7 @@ HOLD: the corpus records [[works/taiwaneseamericanhistory-org/376-david-chen-e9-
 - Corpus grep (2026-09-24, slice 09230500-7): one new hit — TJJ memoir 帶學生避禍228/陳能通 (1fa146177b3547b7) names 陳皙宗牧師 as 蕭美德的外甥 and quotes him; absorbed above. Remaining hit set (whos876, 942, ourjourneys270) unchanged.
 - Corpus grep (2026-10-10, slice 10081300-25): hit set identical (whos876, 942, ourjourneys270, sisterhood-of-night, index, sources, plus ambiguous 376/TACL/Marilyn-Fu links under HOLD); ourjourneys270 also names 蕭永真 (Enchin Shaw Chen, m. 陳哲仁) — a different family line, not absorbable here. Nothing new — SKIP-with-reason, page saturated.
 - Corpus grep (2026-10-11, slice 10101000-12): hit set identical (TJJ 228 memoir 帶學生避禍228/陳能通, sources index, works index, 376, 942, ourjourneys270, whos876, TACL, Marilyn Fu, sisterhood-of-night); all named-subject hits already absorbed or under HOLD. Nothing new — SKIP-with-reason, page saturated.
+- Corpus grep (2026-10-12, slice 10110700-14): 皙宗 hits = whos876, 942, ourjourneys270, TJJ 228 memoir, works/sources indexes — all already absorbed or under HOLD; surname-only check found no additional name variants. Nothing new — SKIP-with-reason, page saturated.
 
 ## Sources
 - [TAH #876 encyclopedia: 876. David S. Chen 陳皙宗](https://taiwaneseamericanhistory.org/whos876-david-s-chen/)
