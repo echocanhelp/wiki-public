@@ -182,3 +182,5 @@ Pages that link to **zhang-xuanxin** (zhang-xuanxin):
 <!-- DEEPEN-X10110200-25: verified 2026-10-12 — fresh grep 張宣信/Billy Chang/Zhang Xuanxin/宣信 across works/articles/sources/events/topics: 14 non-index files (9 TJJ articles + 4 TAH works + ITPC source page). Every hit already wikilinked on this page — saturated, no new material. -->
 
 <!-- TJJ-A10112301-2: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10112301-2 article 117bdbbd9b362236 (台灣來美的外省第二代周文偉到台美人教會開槍殺人, LA Times/CNA 綜合報導, 2022-05-16刊/2022-07-05快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10112301-5: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10112301-5 article 131a1c8ea05f85ea (台美人台加人 p360, 2024-07-15快照) read fresh this attempt: 「VOA專訪張宣信牧師：政治傾向不同不是敵人」條目逐字確認見於正文, subject link 為真, 無錯鏈、無虛鏈; 2022-05-19 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
