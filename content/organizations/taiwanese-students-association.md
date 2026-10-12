@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Taiwanese Students Association
 
@@ -32,6 +32,8 @@ The Taiwanese Students Association (TSA) at Carnegie Mellon University is a stud
 - 複核吸收（deepen-x slice 10090500-25, 2026-10-10）: this name sits under a documented nationwide umbrella — [[works/taiwaneseamericanhistory-org/the-north-america-taiwanese-students-association-tsa-na|The North America Taiwanese Students' Association (TSA-NA) 北美台灣學生協會]] (2016-05-03, see also [[organizations/the-north-america-taiwanese-students-association-tsa-na|TSA-NA org page]]) — the coordinate body the campus chapters descend from, alongside the TSA-STL scholars association ([[works/taiwaneseamericanhistory-org/publications1220|TSA-STL 2017 symposium handbook]]) and the 台灣學生社冬令營 movement ([[works/taiwaneseamericanhistory-org/12-e5-8f-b0-e7-81-a3-e5-ad-b8-e7-94-9f-e7-a4-be-e5-86-ac-e4-bb-a4-e7-87-9f|台灣學生社冬令營]]). Pittsburgh-context reinforcement: [[works/taiwaneseamericanhistory-org/ourjourneys302|Our Journeys #302]] recalls that after the 1981 陳文成 Chen Wen-Chen killing, Carnegie Mellon's university president personally 挺身而出、仗義執言, pressuring the ROC government to open an investigation — the CMU administration's public stance in the campus's movement record. Still no CMU-TSA-chapter memoir; context for the same-name network, no biography invented.
 
 - 複核吸收（deepen-x slice 10101322-1, 2026-10-11）: the Pittsburgh adult-community scaffolding this student chapter grew beside is now documented in-corpus — the 全美台灣同鄉會 Pittsburgh 分會 was founded during president 許和瑞's expansion term by 黃東昇, with Pittsburgh's 柯炯輝 serving as 全美會 vice president, per the TAA Pittsburgh Chapter history [[works/taiwaneseamericanhistory-org/pittsburgh-chapter-taa|台灣同鄉會匹玆堡分會]] and its brief-history companion [[works/taiwaneseamericanhistory-org/project-3-24|24. Brief History of TAA / Pittsburgh Chapter]]. The chapter's movement record runs through the 1981 陳文成 aftermath: the Pittsburgh Formosan Association for Human Rights (president 許東龍 Tung-lung Hsu) ran the local Chen relief fund, with 賴金德 Chin-teh Lai among the few who publicly helped the family ([[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys #76]]). CMU grep re-run 2026-10-11 (CMU / Carnegie Mellon / 卡内基美隆 across all 5 corpus dirs): still zero CMU-TSA-chapter memoir hits — context for the Pittsburgh movement milieu, no CMU-specific biography invented.
+
+- 複核吸收（deepen-x slice 10120100-21, 2026-10-12）: new corpus hits [[works/taiwaneseamericanhistory-org/ourjourneys321-eng|Our Journeys #321 (EN) — 由陳文成紀念基金會的創立談起 / Yung Hwa Hsu]] and [[works/taiwaneseamericanhistory-org/dumplings-usctsa|燒肉粽 by USC Taiwanese Student Association 南加大台灣同學會]]. #321 deepens the Pittsburgh/CMU milieu: in the early years the Pittsburgh Taiwanese Association softball teams practiced at Schenley Park or on the Carnegie Mellon campus, and the 1981 陳文成 aftermath drew street demonstrations around the Oakland (CMU) campus — the campus community this TSA chapter would have grown in. The USC hit confirms the same-name multi-campus chapter pattern (bibliographic record only, full text in vault). Still zero CMU-TSA-chapter memoir hits; context for the same-name network, no CMU-specific biography invented.
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/taiwanese-students-association/)
