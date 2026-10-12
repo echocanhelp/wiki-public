@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Chi-Huey Wong (翁啟惠博士)
 
@@ -53,7 +53,9 @@ Corpus record of Dr. Wong's standing in the Taiwanese American community, held o
 - 2021-11-29 — on his return to Taiwan after the Welch Prize, 立法院長游錫堃 held a 祝賀餐會 for him in the 立法院中興大樓12樓 (he attended with his wife 劉映理; the 生策會創辦人, 前立法院長王金平 and 前立法院長蘇嘉全 joined to congratulate), per corpus press ([[articles/taiwanjustice-net/2022/20220127033317_2021_11_28_游錫堃29日宴請翁啟惠_王金平蘇嘉全將到場_ef242196515a9a22|TJJ 2021-11-28, 游錫堃宴請翁啟惠]]) — a state-level recognition of his standing alongside the diaspora mobilization below.
 - 2021-09-10 — the 翁啟惠案 drew a community mobilization in its own right: a 海內外台灣人聲援翁啟惠連署活動 (petition of Taiwanese at home and abroad denouncing the prosecution as 司法不公，國耻之最) is archived in the corpus ([[articles/taiwanjustice-net/2023/20230530145556_2021_09_10_司法不公_國耻之最_海內外台灣人聲援翁啟惠連_59a68b9cd855c1bf|TJJ 2021-09-10, 聲援翁啟惠連署]]) — one of the clearest instances of the diaspora community taking a position on his legal case.
 - 2020-04 — corpus press credits the SARS protease-inhibitor program he backed as 中研院長 (with 台大方俊民團隊's drug synthesis and 中研院王惠鈞's co-crystal structure work) as the foundation of Taiwan's COVID-19 antiviral research ([[articles/taiwanjustice-net/2025/20251205024909_武漢肺炎_台灣中研院找到抑制病毒關鍵_效果比_8a107543726c80c2|TJJ archive, 武漢肺炎 中研院關鍵抑制劑]]).
-- 2022-10 — ahead of that year's announcement, corpus press reported him as a leading contender for the Nobel Prize in Chemistry ([[articles/taiwanjustice-net/2022/20221204222005_2022_10_02_諾貝爾化學獎本週揭曉-中研院士翁啟惠呼聲高_a708110fef3ac395|TJJ 2022-10-02, 諾貝爾化學獎呼聲高]]).
+- 2022-10 — ahead of that year's announcement, corpus press reported him as a leading contender for the Nobel Prize in Chemistry ([[articles/taiwanjustice-net/2022/20221204222005_2022_10_02_諾貝爾化學獎本週揭曉-中研院士翁啟惠呼聲高_a708110fef3ac395|TJJ 2022-10-02, 諾貝爾化學獎呼聲高]])
+- 2012-08-14 — earliest corpus trace of his legal-case history: an archived 自由時報 editorial on the 宇昌案 sign-off (特偵組查無不法簽結) recalls the 2012 election-period attacks in which 「把蔡英文與何大一、翁啟惠等學者專家狠狠鬥臭」 — the 宇昌案 is the antecedent of the later 浩鼎/翁啟惠案 record on this page ([[articles/taiwanjustice-net/2024/20240719210735_root_75897dd051edbd73|TJJ archive, 社論: 選民還要被金光黨騙幾次 (2012-08-15)]])
+- 2024-06-18 — appointed 副召集人 of 賴總統's 「健康台灣推動委員會」 alongside 陳志鴻 and 陳時中, in his continuing capacity as 國家生技醫療產業策進會會長 ([[articles/taiwanjustice-net/2024/20240719105956_root_e3ab805f9c45c4b2|TJJ 2024-06-18, 賴總統就職滿月記者會]])
 
 HOLD: conflict in source Era metadata — #47 (2014 Wolf Prize) work page carries Era 2017; prize year 2014 kept per title, not merged.
 
@@ -81,5 +83,7 @@ CORPUS SCAN (2026-09-23, slice 09221100-15; re-run 2026-09-24, slice 09230600-6)
 
 <!-- DEEPEN-X10090500-17: 2026-10-10 — fresh grep 翁啟惠/Chi-Huey Wong/浩鼎 across all 5 corpus dirs: 6 TAH work pages already linked unchanged; TJJ hits = already-linked archive articles + tag/category index pages + 2017 政經看民視 roundup pages whose only 浩鼎 mention is a sidebar link to the 浩鼎案開庭 article (no new facts). One new biographical fact absorbed: 2021-09-08 Welch announcement article (0d313f09) records his concurrent 國家生技醫療產業策進會會長 role + Barth quote — added to Role in the Community. 謝金河 2025 vaccine article mentions 浩鼎 only as a stock-history example, not about 翁啟惠 — not linked. -->
 <!-- TJJ-A10100401-30: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-30 article 59a68b9cd855c1bf (司法不公，國耻之最：海內外台灣人聲援翁啟惠連署活動, taiwanjustice.net 2021-09-10刊/2023-05-30快照) read fresh this attempt: 本人為連署聲援對象（浩鼎案2018-12獲無罪仍遭監院彈劾）確認見於正文; subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10120100-17: 2026-10-12 — fresh grep 翁啟惠/Chi-Huey Wong/浩鼎 across all 5 corpus dirs (42 files): 6 TAH work pages + all dated TJJ articles already linked unchanged. Two new biographical facts absorbed below the fence: 2012-08-14 宇昌案 editorial (root_75897dd051edbd73) — earliest corpus trace of the case history antecedent to the 浩鼎案 record; 2024-06-18 賴總統就職滿月 (root_e3ab805f9c45c4b2) — named 副召集人 of 健康台灣推動委員會 as 生策會會長. Remaining hits are tag/category/root index pages (滾雪球 tag, 台美人台加人 cat, 政經看民視 roundups — sidebar-only 浩鼎 mentions, no new facts) and one false positive (周浩鼎, HK legislator — different person). No date/age conflicts — no new HOLD. -->
 
 <!-- TJJ-A10110001-30: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110001-30 article 59a68b9cd855c1bf (司法不公，國耻之最：海內外台灣人聲援翁啟惠連署活動, taiwanjustice.net 2021-09-10刊/2023-05-30快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
