@@ -130,3 +130,21 @@ Fresh ZH+EN grep (林榮松|Simon Lin|Long Song) across all 5 corpus dirs return
 - **2021-09 — 「林榮松：行醫救人 一心為臺灣」:** profile piece (2021-09-09): [[works/taiwaneseamericanhistory-org/my-stories-803|TAH #803]].
 - **2018-10-09 — profile 「134. Dr. Long Song Simon Lin 林榮松醫師」:** [[works/taiwaneseamericanhistory-org/134-dr-long-song-simon-lin|TAH #134]] — alongside the Who's Who entry #702 already linked via [[people/dr-long-song-simon-lin]].
 - HOLD (carried forward): title divergence across sources (執行長 on board source; 董事長 from 2016; President in TAH table; 第一任會長 1998 in TAH #163 title) — retained as source-attributed, not auto-merged.
+
+## Role in the Community (corpus absorb, deepen-x slice 10120315-31, 2026-10-12)
+
+Fresh ZH+EN grep (林榮松|Simon Lin|榮松) across all 5 corpus dirs returned 20+ works; records not yet absorbed in prior passes:
+
+- **2026-01-25 — NATMA medical-diplomacy award, accepted as 執行長 of the NATMA 義診團:** at the 第五屆國際醫療典範獎 (Taiwan), the North American Taiwan Medical Association won both the group and individual prizes; 「北美洲台灣人醫師協會之義診團林榮松執行長代表領獎」 — the NATMA relief team described as the largest overseas Taiwanese doctors' relief mission (18 years, 22 international clinics, ~50,000 patient-visits across Latin American ally nations): [[articles/taiwanjustice-net/2026/20260125131405_第五屆國際醫療典範獎頒獎典禮_在台灣舉行_a8bd530e85c30548||taiwanjustice.net award report]]. This is the first vault record naming him as **執行長 of the NATMA 義診團** — a role distinct from the TWCLA 執行長 title already flagged in the title-divergence HOLD above.
+- **2014-09 — NATMA international relief team account:** 「35. 北美洲台灣人醫師協會國際義診團 / 林榮松 / 2014/09」 — his own account of the NATMA international medical-clinic program: [[works/taiwaneseamericanhistory-org/mystories35|TAH #35 (My Stories)]] — corroborates the 2026 award record from the primary corpus.
+- **2015-02 — WHO-for-Taiwan eleven-year narrative:** 「100. Care for Taiwan by Taiwanese American: 8, WHO for Taiwan by NATMA 台灣欲加入WHO十一年來的心路 / 林榮松 / 2015/02」 — complements the photo-activity record #54 already noted: [[works/taiwaneseamericanhistory-org/ourjourneys100|TAH #100 (Our Journeys)]].
+- **2016-03 — mother-tongue essay:** 「203. 我對母語的看法及所持的態度 / 林榮松 / 03/2016」 — his published views on the mother tongue (Taigi) and the attitude he holds: [[works/taiwaneseamericanhistory-org/ourjourneys203|TAH #203 (Our Journeys)]].
+- **Doctor-wave record, family note:** 「醫師潮時期到美國行醫的林榮松醫師與太太石秀文」 — his wife named as 石秀文 in the doctor-wave oral-history caption: [[works/taiwaneseamericanhistory-org/ourjourneys236|TAH #236 (Our Journeys)]]; no vault person page for 石秀文 exists, so the name is recorded without wikilink.
+- **DISAMBIGUATION HOLD:** the page [[works/taiwaneseamerican-org/best-of-the-best-2020-lists-taiwan]] lists "Simon Lin, CEO of Wistron" (Forbes 2020 Heroes of Philanthropy) and wikilinks this page — that Simon Lin is the Wistron CEO, a different person; the mention link on that work is a false match and should not be treated as a record of this Simon Lin.
+
+## Role in the Community (corpus absorb, deepen-x slice 10120316-5, 2026-10-12)
+
+Fresh ZH+EN grep (林榮松|Simon Lin|Long Song) across all 5 corpus dirs returned 93 files; records not yet absorbed in prior passes:
+
+- **2021 — Pew statement signatory:** signed the Taiwanese American Historical Society / taiwaneseamerican.org response 「Response to Pew Research Reports Hiding Taiwanese Identity: "We made it count. Now tell our stories."」 listed as "Simon Lin Physician" alongside June Lin (FAPA) and Jerry Hsu (US–Taiwan Watch): [[works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement|TAH/taiwaneseamerican.org statement, band A]] — a documented identity-advocacy public statement, consistent with the physician-organizer record.
+- HOLD (name collision): [[works/taiwaneseamerican-org/best-of-the-best-2020-lists-taiwan|Best of the Best 2020 lists]] mentions "Simon Lin, CEO of Wistron" — a different Simon Lin (Wistron executive); NOT attributed to this page's subject, retained as a disambiguation flag only.
