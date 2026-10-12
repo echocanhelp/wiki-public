@@ -33,7 +33,7 @@ Vice President of International Federation of Business and Professional Women, T
 ## Role in the Community
 - 與吳秀惠合寫 NATWA 歷史〈咱的故事—NATWA的歷史〉（2014/11）— [[works/taiwaneseamericanhistory-org/ourjourneys60|60. 咱的故事—NATWA的歷史]]，與 TAH profile 所列 NATWA 創會會員／會長／名譽會長相互印證。
 - 陳文成「紀念專集」（遇害一週年出版）編委，以兩字代號「甘子」行之（同冊代號：林田＝林龍和、李樸＝曹永愷、石林＝夫林富文 [[people/dr-evan-ling|Dr. Evan Ling]]、許杰＝許永華）— [[works/taiwaneseamericanhistory-org/ourjourneys321|Our Journeys 321]]；英文版 [[works/taiwaneseamericanhistory-org/ourjourneys321-eng|Our Journeys 321 (English)]]。
-- 夫憶文：專集編印由夫婦二人負責，同鄉千里校稿（李素蓮、陳達文等）、許富淵印刷；1983年二週年紀念在美東夏令營演出話劇《補破網》，夫婦亦參與演出（導演陳明楷，康泰山演陳文成）— [[works/taiwaneseamericanhistory-org/ourjourneys8|Our Journeys 8]]。
+- 夫憶文：專集編印由夫婦二人負責，同鄉千里校稿（李素蓮、陳達文等）、許富淵印刷；1983年二週年紀念在美東夏令營演出話劇《補破網》，夫婦亦參與演出（導演陳明楷，康泰山演陳文成）— [[works/taiwaneseamericanhistory-org/ourjourneys8|Our Journeys 8]]；英文版 [[works/taiwaneseamericanhistory-org/ourjourneys8-eng|Our Journeys 8 (English)]]。
 - 1985年與全美台灣同學會合辦夏令營：與陳芳明、林衡哲、謝里法同訪，為聚會注入文化氣息；憶文稱其時已是陳文成基金會要職、後任婦女會會長 — [[works/taiwaneseamericanhistory-org/our-journeys-379|Our Journeys 379]]。
 - 1960年代末旅居 Kansas（Manhattan）期間參與編印並銷售第一本《全美台灣同鄉通訊錄》：陳希寬回憶錄名列該地 18 位工作人員之一（同列者有陳希寬、張郁彬、林淑貞、莊秋雄、黃靜枝、黃信一、康勝夫等；至 1968/03/08 共售出 1,158 本、收入 2,069 美元）— [[works/taiwaneseamericanhistory-org/ourjourneys58|58. 回憶編印第一本《全美台灣同鄉通訊錄》的甘苦經過]]，與其 NTU 園藝、Kansas State 食品科學求学经历相符。
 - 1988年應邀為第十屆美東南區台灣人夏令會（南卡州史巴坦堡市 Converse College，主題「台灣社會改革與婦女運動」）婦女界來賓，與艾琳達、張富美、鄭至慧同列，同場革命團體代表有史明、張金策、黃再添 — [[works/taiwaneseamericanhistory-org/ourjourneys245|245. 美東南區台灣人夏令會簡史 / 劉格正, 2016-09]]。
@@ -66,6 +66,7 @@ Vice President of International Federation of Business and Professional Women, T
 - 複核（deepen-x slice-09211300-6, 2026-09-22）：re-grep 命中集不變（ourjourneys321、60、321-eng、8、our-journeys-379、58）— 全部已吸收。SKIP-no-new-material。
 - 複核（deepen-x slice-09220700-3, 2026-09-22）：re-grep 命中集不變（ourjourneys321、60、321-eng、8、our-journeys-379、58）— 全部已於 Role in the Community 吸收。SKIP-no-new-material。
 - 複核（deepen-x slice 10100500-18, 2026-10-11）：re-grep 黃美惠|Elena Ling 命中 ourjourneys321、60、321-eng、8、our-journeys-379、58、245、whos-who-2249、ourjourneys60-eng、pew 聲明、TJJ 2018 連署、TJJ 鑽石公主號標籤頁 — 命中集與前輪相同且全部已於上列吸收（含英文版與索引頁之重複命中）；無新增材料。SKIP-no-new-material。
+- 複核（deepen-x slice 10120316-29, 2026-10-12）：re-grep 黃美惠|Elena Ling|林富文 命中集不變（ourjourneys321、60、321-eng、8、8-eng、our-journeys-379、58、212、245、76、whos-who-2249、whos-who-1679-evan-ling、pew 聲明、TJJ 兩頁）；ourjourneys76 與 whos-who-1679 之命中係經夫 林富文（Atlanta 分會／傳記條目），無黃美惠本人新事證。補 ourjourneys8-eng 英文版連結一則，其餘 saturated。SKIP-no-new-material。
 
 ## 照片
 
