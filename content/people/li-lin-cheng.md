@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Li-Lin Cheng (鄭麗伶)
 
@@ -35,7 +35,7 @@ BVM (Bachelor of Veterinary Medicine)
 
 ## Role in the Community
 
-- UW-Madison 台灣布袋戲團第一任團長：2000 年正式出團，赴美城西（麥城）中小學演出「虎姑婆」，先以投介紹台灣地理、歷史、風土；她收集團員課表分組排練，並與學建築的夫婿小林博仁反覆改良舞台（木製→鐵管→PVC 水管五代），沿用至今（[[works/taiwaneseamericanhistory-org/ourjourneys277|Our Journeys 277]]）。
+- UW-Madison 台灣布袋戲團創團元老、第一任團長及終身志工：2000 年正式出團，赴美城西（麥城）中小學演出「虎姑婆」，先以投介紹台灣地理、歷史、風土；她收集團員課表分組排練，並與學建築的夫婿小林博仁反覆改良舞台（木製→鐵管→PVC 水管五代），沿用至今（[[works/taiwaneseamericanhistory-org/ourjourneys277|Our Journeys 277]]）。
 - 曾任北美洲台灣人教授協會（NATPA）副會長兼秘書長，後任會長：駐 Madison, Wisconsin，與夫婿在当地台灣社團及 FAPA 活躍；文筆佳，以筆名 Tottoro 在《民報》《綠逗》設專欄，並參與夏令會後公開聲明起稿、閉幕典禮主持朗誦該聲明（[[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys 287]]）。
 - 父親鄭昭明為戰後台南善友管弦樂團指揮及主要幹部；她與石青如、陳純寶同屬善友第二代（[[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys 287]]）。
 - 撰寫「242. 戰鬥番薯奧運夢」（2016-08）（[[works/taiwaneseamericanhistory-org/ourjourneys242|Our Journeys 242]]）。
