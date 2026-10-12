@@ -251,3 +251,8 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10101001-5: verified 2026-10-11 — wave-2 link+deepen re-check of article 526ee7d662ebe432（「以立合唱團」演唱「拯救我」—選自威爾第「安魂曲」, 發文 2022-12-16 / 快照 2023-02-02）read fresh this attempt: subject link 黃令先 re-checked vs 正文 (「鋼琴：黃令先」確認見於正文), real, no wrong/spurious links (author 楊子清＋「楊子清 (Cliff Yang) 提供」＋指揮、李俊玲女高音獨唱均有頁面已連結; 廖健榮剪輯正文提及但無頁面, 維持純文字不造鏈); 含該文 wikilink 的 2022-10-01／10-08 dated fact 已在 From the record — saturated, no new material. -->
 
 <!-- DEEPEN-X10102200-8: deepened 2026-10-12 — fresh corpus sweep (黃令先/Lynn Huang/以立音樂/Elite Music across works/articles/sources/events/topics): 2 new dated records absorbed (2018-06-17 以立音樂基金會「以歌會友」公告含基金會宗旨「走出自已的社區」＋2016 韓國 HUFS 校友合唱團聯合演出＋2017-05 首屆亞洲合唱節籌劃; 2020-03-15 作曲「AWAKE」台中國歌「春醒演唱會」演出). 4 new wikilinks (2 works, 2 articles), all targets verified on disk. No date/age conflicts; no auto-merge. -->
+
+<!-- TJJ-A10110601-19: verified 2026-10-12 — wave-2 link+deepen re-check of article 6ba229d2998bbfa4 (「以立合唱團」演唱「末日之淚」— 選自威爾第「安魂曲」, 發文 2022-12-14 / 快照 2025-02-13): subject link yang-ziqing（楊子清） re-checked vs 正文 this attempt (「指揮：楊子清」確認見於正文), real, no wrong/spurious links (吳渭榮／Vahagn Hovents／廖健榮 正文提及但無頁面, 維持純文字不造鏈); 含該文 wikilink 的 2022-10-01／10-08 dated fact 已在 From the record — saturated, no new material. -->n >> people/yang-ziqing.md
+printf '
+'<!--
+<!-- TJJ-A10110601-19: verified 2026-10-12 — wave-2 link+deepen re-check of article 6ba229d2998bbfa4 (以立合唱團演唱末日之淚—選自威爾第安魂曲, 發文 2022-12-14 / 快照 2025-02-13): subject link lynn-huang 黃令先 re-checked vs 正文 this attempt (「鋼琴：黃令先」確認見於正文), real, no wrong/spurious links (吳渭榮／Vahagn Hovents／廖健榮 正文提及但無頁面, 維持純文字不造鏈); 含該文 wikilink 的 2022-10-01／10-08 dated fact 已在 From the record — saturated, no new material. -->
