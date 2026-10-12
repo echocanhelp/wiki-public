@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Te-Chiang Bacco Liu (劉德強)
 
@@ -78,3 +78,6 @@ Fresh corpus pass 2026-10-10 (Deepen-X10081400-7): beyond the TAH Who's Who biog
 - **2016-04 — 明州「城市探險到台灣」** ([[works/taiwaneseamericanhistory-org/ourjourneys218||TAH #218]]): performed in the 30-minute chamber program of Taiwanese folk music (橄欖樹, 望春風, 月光光, 花樹下, 四季紅, 桃花鄉, 月夜愁, 牛犁歌, etc.) by local Taiwanese-American musicians at the Minneapolis Institute of Art's Landmark Center City Adventures festival — the report credits the joint effort of Minnesota 台美人 with raising Taiwan's visibility there.
 
 These confirm and extend the Minnesota-residency context already noted above: he is cited in community concert coverage, not only in the press-kit biography. No conflicts to hold; no dates/ages altered.
+
+## Deepen-X10110700-27 re-check (2026-10-12)
+Fresh ZH+EN grep (劉德強/德強/Bacco/Te-Chiang) across all 5 corpus dirs returned the identical saturated hit set as all prior passes: TAH encyclopedia records #194 and #396 ([[works/taiwaneseamericanhistory-org/194-te-chiang-bacco-liu-e5-8a-89-e5-be-b7-e5-bc-b7-violinist-201505||#194]], [[works/taiwaneseamericanhistory-org/396-te-chiang-bacco-liu-e5-8a-89-e5-be-b7-e5-bc-b7-201505||#396]]) plus the two 陳曼玲 concert reports already absorbed in Role in the Community ([[works/taiwaneseamericanhistory-org/ourjourneys128||OJ #128]], [[works/taiwaneseamericanhistory-org/ourjourneys218||OJ #218]]); the works/index.md hits are the same records' backlinks. One grep hit (a 2021 taiwanjustice.net West Point article) is a false positive — 德強 matched inside 胡元德「強調」, not this person. No new corpus material; no conflicts; nothing published.
