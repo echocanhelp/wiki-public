@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Prof. Liang-Tseng Fan (范良政教授)
 
@@ -72,3 +72,6 @@ Prof. Liang-Tseng Fan 范良政教授 – History of Taiwanese American (T.A. Ar
 
 ## Deepen-x re-check (slice 10081400-19, 2026-10-10)
 - SKIP-with-reason: full-name grep (范良政 / Liang-Tseng Fan) across works/articles/sources/events/topics returns the identical hit set (TAH #22/#59/#130, ourjourneys33, ourjourneys58, works index, sources page) — all facts already absorbed in Role in the Community. Surname-only sweep hits only unrelated Fans (Felix/Joel/Chris/Liang-Shih/Chuen-Mei-Lee Fan and son Tso-Yee Fan's own page, which does not name the father), no new material. No conflicts to HOLD.
+
+## Deepen-x re-check (slice 10110800-5, 2026-10-12)
+- SKIP-with-reason: 本輪重檢（范良政／范良正／Liang-Tseng Fan／L.C. Fan）命中集不變——TAH #22/#59/#130、ourjourneys33、ourjourneys58、our-journeys-351、ourjourneys296、works index、sources page；通訊錄第一位買主、平原區秋令會創始推手、兩代堪大台籍研究生指導教授等社群事實已全數載入 Role in the Community 且出處 wikilink 齊備。無新增可吸收事實、無衝突須 HOLD。
