@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Masa C. W. Chen (陳正旺)
 
@@ -59,3 +59,5 @@ The orchid years are documented in the community's own story corpus: [[works/tai
 - Re-grep 2026-10-08 (slice 10070018-3): fresh grep 陳正旺 / Masa C. W. Chen / Masa Chen over works+articles+sources+events+topics returns the same cited set (whos-who-2294, mystories-765, works index, sources page) — all already cited above. Verified-saturated SKIP.
 - Re-grep 2026-10-09 (slice 10080700-11): fresh grep 陳正旺 / Masa C. W. Chen / Masa Chen / 正旺 over works+articles+sources+events+topics returns the same cited set plus ourjourneys17.md ('22生意正旺' — business-booming phrase, not a person) and the taiwanjustice-net '燃燒吧！火正旺' column/tag hits — all phrase-level false positives, not this person. Verified-saturated SKIP, no new material to absorb.
 - Re-grep 2026-10-10 (slice 10091531-19): fresh grep 陳正旺 / Masa C. W. Chen / Masa Chen / 正旺 over works+articles+sources+events+topics returns the same cited set (whos-who-2294, mystories-765, works index) plus the same phrase-level false positives — ourjourneys17 '22生意正旺' (Shogun restaurant shareholders' memoir, not this person), taiwanjustice-net '燃燒吧！火正旺' 連玫 column/tag hits, and the 2025 G7 article's '氣勢正旺'. Verified-saturated SKIP, no new material to absorb.
+
+- Re-grep 2026-10-12 (slice 10110400-31): fresh grep 陳正旺 / Masa C. W. Chen / Masa Chen / 正旺 over works+articles+sources+events+topics returns the same cited set (whos-who-2294, mystories-765, works index, sources page) plus the same phrase-level false positives — ourjourneys17 '22生意正旺' (Shogun restaurant shareholders' memoir), taiwanjustice-net '燃燒吧！火正旺' 連玫 column/tag hits, and the 2025 G7 article's '氣勢正旺'. Verified-saturated SKIP, no new material to absorb.
