@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Kun T. Liao (廖坤塗醫師)
 
@@ -60,7 +60,8 @@ Accomplishment
 ## Role in the Community (corpus-absorbed)
 - **NATMA third president, 1988–1990.** [[works/taiwaneseamericanhistory-org/ourjourneys74|74. 1983至1990的北美洲台灣人醫師協會 / 周烒明撰•吳美芬整理 / 2014/12]] records the presidency as a two-year term and lists the 1984–1990 line as 周烒明 → 楊次雄 → **廖坤塗** → 陳惠亭, confirming him as NATMA's third president.
 - **Led the second NATMA return-visit delegation to Taiwan, 1988-11-02**, for the 81st 台灣醫學會 annual meeting. Delegation: 廖坤塗夫婦、陳惠亭、邱泰茂、林益顯、蔡承昌、王忠烈、呂飛騰、張福斌、葉明和、林盛光、楊次雄、王鵬南夫人. The group visited 外交部、衛生署、立法院、台灣省衛生局、嘉義市政府、民進黨部、國民黨部、中山醫學院、高雄醫學院; through 陳永興's arrangements they visited political prisoners 蔡有全、許曹德、蕭裕珍、林國華、林慧如、邱煌生 at 土城看守所, and 施明德 (on hunger strike) at 三軍總醫院. Liao's account of the trip,〈回台記〉, was published in the NATPA 會報 (第五卷之一) — per [[works/taiwaneseamericanhistory-org/ourjourneys74|ourjourneys74]] (ZH) and [[works/taiwaneseamericanhistory-org/ourjourneys74-eng|ourjourneys74-eng]] (EN).
-- **Host/coordinator, 1989 Plains Region Fall Camp (平原區台灣人秋令會), Springfield, MO, Jul 27–30, 1989** — theme 「新台灣人，新使命」 (New Taiwanese, New Mission), under TAA/St. Louis, per [[works/taiwaneseamericanhistory-org/ourjourneys296|296. 平原區台灣人秋令會的介紹 / 童海南 / 2017-06]] and the host roster in [[works/taiwaneseamericanhistory-org/our-journeys-351|our-journeys-351]].
+- **Host/coordinator, 1989 Plains Region Fall Camp (平原區台灣人秋令會), Springfield, MO, Jul 27–30, 1989** — theme 「新台灣人，新使命」 (New Taiwanese, New Mission), under TAA/St. Louis, per [[works/taiwaneseamericanhistory-org/ourjourneys296|296. 平原區台灣人秋令會的介紹 / 童海南 / 2017-06]] and the host roster in [[works/taiwaneseamericanhistory-org/our-journeys-351|our-journeys-351]]. The camp host roster lists him as 「Liaw, K.T. 廖坤塗」 (romanization variant Liaw), alongside the 1988 Edmond, OK host 王明玉 and 1990 Emporia, KS host 鍾茂萃.
+- **Alias note:** romanized as Liaw, K.T. in Plains Region camp rosters; Kun T. Liao in TAH Who's Who records.
 
 ## Sources
 - [TAH #27 encyclopedia: 27. Dr. Kun T. Liao (廖坤塗醫師)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-27/)
