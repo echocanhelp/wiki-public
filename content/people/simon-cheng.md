@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Simon Cheng (鄭良光)
 
@@ -37,6 +37,7 @@ last_reviewed: 2026-10-10
 - 以台灣人聯合基金會（TUF）資源身分，其相關紀錄（含林昭亮、曾宇謙、劉孟捷等音樂文化事項）見於 Our Journeys 專輯（[[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys 212]]）。
 - 以《台文通訊》創辦人身份與「台文雞絲麵」「台文博覽會」發起人吳家銘共同發起《台文通訊——30冬紀念特刊》計畫（2021），邀歷任總編輯與全球聯絡處負責人重寫回顧文章（[[articles/taiwanjustice-net/2021/20210920152903_2021_07_16_過鹹水30冬_一張寫ho_台語文e批_台文通訊-30冬_9137c09367146af6|TJJ 過鹹水30冬, 2021-07-16]]）。
 - 世界台灣文化論壇共同發起人，並長期擔任論壇線頂聚會主持人與論壇消息提供窗口（历回公告多署名「鄭良光 提供」）；2017年歌仔戲「遇見台灣」郭懷一北美巡演投書亦以台灣人聯合基金會（www.tufusa.org）名義具名發表（[[articles/taiwanjustice-net/2024/20240530130213_root_01ad569bd00893d3|TJJ 遇見台灣原文, 2017-07-06]]）。
+- TAH 基金會百科收錄其兩條 Who's Who 條目：#331（發文 2015-03-19）與 #164（發文 2018-10-28）（[[works/taiwaneseamericanhistory-org/whos-who-331-simon-cheng|TAH #331]]；[[works/taiwaneseamericanhistory-org/164-simon-cheng|TAH #164]]）。
 
 ## Family
 
