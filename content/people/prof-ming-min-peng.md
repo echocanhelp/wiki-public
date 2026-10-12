@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Prof. Ming Min Peng (彭明敏教授)
 
@@ -39,6 +39,8 @@ Accomplishment
 - 1964 — 與學生謝聰敏、魏廷朝起草「台灣自救運動宣言」，遭逮捕（詳見 [[people/peng-ming-min|彭明敏]] 人物頁）
 - 1970 — 突破監控逃至瑞典，經底特律入境美國（見 [[works/taiwaneseamericanhistory-org/9291970-prof-peng-ming-min-arrived-at-detroit-mi|TAH 照片album：1970 抵底特律]]）
 - 1972 — 任[[organizations/united-formosans-for-independenceufi|台灣獨立建國聯盟（UFI）]]主席
+- 1976/1977-05（HOLD：原文未記年份；參照同文 5/27 華府「全美台灣民衆大會」或指 1977） — 應邀於美國南區首次「台灣民衆大會」（休士頓）以「台灣研究所所長」身分演講，會後 ABC「Issues and Answers」於 6/1 專訪 —— 見 [[works/taiwaneseamericanhistory-org/ourjourneys317|TAH #317：記美國南區台灣民眾大會／隆福]]
+- 1980-05-19 — 與蔡同榮、陳唐山、魏瑞明同赴甘迺迪辦公室商談台灣人「二萬名移民額」問題；甘迺迪其後於洛杉磯千人餐會演講中公開提及 —— 見 [[works/taiwaneseamericanhistory-org/ourjourneys59|TAH #59：二萬名移民額／蔡同榮]]
 - 1986 — [[organizations/democratic-progressive-party|民主進步黨]]創黨黨主席（見 [[people/peng-ming-min|彭明敏]]）
 - 曾任台灣人公共事務會（FAPA）會長；2000 年代表 DPP 參選總統
 - 2016 — 返台行程見 [[works/taiwaneseamericanhistory-org/projects12-20|TAH #20：彭明敏返台]]、[[works/taiwaneseamericanhistory-org/12-61-2|TAH #64：彭明敏返鄉團]]
@@ -53,6 +55,8 @@ Accomplishment
 
 **2026-10-10 deepen pass (slice 10091531-12):** fresh ZH+EN grep (彭明敏/Ming Min Peng/surname) across all 5 corpus dirs surfaced previously-unabsorbed material: the 1965 English translation of 「台灣人民自救宣言」 circulated among US students (TAH #33), the 1971-09-18 NY 民眾大會 hosted by Peng's Formosan Studies (TAH #33), the 1966 《紐約時報》half-page ad inspired by the manifesto (TAH #81), and 9 corpus work pages not yet linked — 2016 返台/返鄉團 (#20/#64), 2016 口述逃離兩段 (#392/#393), 2017《逃亡》(#1082), 2022 追思兩篇 (#829/#843). 1919-vs-1923 birth-year discrepancy remains HOLD (兩說並存待核, unchanged).
 
+**2026-10-12 deepen pass (slice 10102200-10):** fresh ZH+EN sweep (彭明敏 / Ming Min Peng / Peng Ming-Min) across all 5 corpus dirs (125 files mention Peng) surfaced 8 previously-unlinked works: #317 記美國南區台灣民眾大會（休士頓民眾大會＋ABC/Houston Post 報導；原文未記年份 → HOLD 1976/1977）、#59 二萬名移民額（1980-05-19 甘迺迪辦公室）、彭氏著作 #1173 獄牀思索（1970/03）與 #1174 Political Offences（1971/07）、照片專輯 #15（1970 Morgantown 四君子）、文物 #41（北美洲彭明敏總統支援會衣物）、#42 彭明敏杯壘球賽目錄、#126（英）盧主義篇中 DPP「一個中國一個台灣」概念源頭分析。milestones16 與已掛鏈的 9291970 Detroit 專輯為同檔事實，未重複掛鏈。1919-vs-1923 出生年仍 HOLD。
+
 ## Role in the Community（corpus deepen 2026-09-14）
 
 - **FAPA 創會長者讓賢（1983）：** 創會籌備會上彭明敏與陳唐山（Mark Chen）、蔡仲勳三人被提名出任首任會長；彭以本人住西岸、會長應住東岸為由推辭，最終蔡仲勳自薦經無記名投票當選 —— 本人回憶見 [[works/taiwaneseamericanhistory-org/ourjourneys65-eng|TAH #65：FAPA的誕生 The Birth of FAPA／蔡仲勳]]。
@@ -65,6 +69,12 @@ Accomplishment
 - **2016 返台與返鄉團：** 2016 年彭明敏返台，「彭明敏返鄉團」行程見 [[works/taiwaneseamericanhistory-org/projects12-20|TAH #20：彭明敏返台]]、[[works/taiwaneseamericanhistory-org/12-61-2|TAH #64：彭明敏返鄉團]]；2016 年口述「逃到瑞典」「從瑞典到美國」兩段見 [[works/taiwaneseamericanhistory-org/mystories392|TAH #392]]、[[works/taiwaneseamericanhistory-org/mystories393|TAH #393]]，2017 年專書《逃亡》見 [[works/taiwaneseamericanhistory-org/publications1082|TAH #1082]]。
 - **2022 追思紀念：** 2022-04 「發表台灣自救宣言　台獨教父彭明敏畢生推動民主」見 [[works/taiwaneseamericanhistory-org/my-stories-829|TAH #829]]；2022-06 「懷念彭明敏教授——台灣自救兮先知、一代偉人」見 [[works/taiwaneseamericanhistory-org/my-stories-843|TAH #843]]。
 - **本會收錄著作：** [[works/taiwaneseamericanhistory-org/publications1081|TAH #1081：寫給台灣的備忘錄——彭明敏教授文集（2017/03）]] · [[works/taiwaneseamericanhistory-org/mystories543|TAH #543：回憶錄重新出版，彭明敏未完心願：台灣正名制新憲／李秉芳（2017/04）]] · [[works/taiwaneseamericanhistory-org/publications456|TAH #456：自由的滋味——彭明敏回憶錄（1988/09）]] · [[works/taiwaneseamericanhistory-org/ourjourneys194|TAH #194：彭明敏教授逃離台灣的過程——倒數計時／唐培禮（2011/12）]] · [[works/taiwaneseamericanhistory-org/photo-albums-historical-41|TAH #41：台灣人民自救運動宣言照片專輯（1964/09/20）]] · [[works/taiwaneseamericanhistory-org/12-71|TAH #71：北美洲彭明敏總統支援會（1996）]]。
+- **著作與文獻（corpus 新增）：** 獄中稿「獄牀思索之一：『全體主義』的迷惘」（1970/03）見 [[works/taiwaneseamericanhistory-org/publications1173|TAH #1173]]；英文論文「Political Offences In Taiwan: Laws and Problems」（1971/07）見 [[works/taiwaneseamericanhistory-org/publications1174|TAH #1174]]。
+- **美國南區台灣民衆大會（休士頓）：** 彭明敏以台灣研究所所長身分演講，會後獲 ABC 電視台「Issues and Answers」專訪、Houston Post 頭版報導彭明敏、張燦鍙、魏瑞明談話 —— 見 [[works/taiwaneseamericanhistory-org/ourjourneys317|TAH #317：記美國南區台灣民眾大會／隆福]]（年份見 Timeline HOLD 條目）。
+- **1980 甘迺迪移民配額行動：** 與蔡同榮、陳唐山、魏瑞明於 1980-05-19 赴甘迺迪辦公室爭取台灣人二萬名移民配額，促成甘迺迪於洛杉磯千人募款餐會演講中公開提及 —— 見 [[works/taiwaneseamericanhistory-org/ourjourneys59|TAH #59：二萬名移民額／蔡同榮]]。
+- **1970 Morgantown 照片與 1996 支援會文物：** 1970 年與羅福全、周烒明、蔡同榮同攝於西維吉尼亞 Morgantown 之專輯見 [[works/taiwaneseamericanhistory-org/photo-albums-historical-15|TAH 照片專輯 #15]]；「北美洲彭明敏總統支援會」衣物文物見 [[works/taiwaneseamericanhistory-org/artifacts41|TAH 文物 #41]]（另見 [[works/taiwaneseamericanhistory-org/12-71|TAH #71]]）。
+- **美東「彭明敏杯」：** 紐約首府區台灣同鄉會美東壘球賽「彭明敏杯」之賽事目錄見 [[works/taiwaneseamericanhistory-org/42-us-east-coast-taiwanese-softball-tournament|TAH #42：美東台灣同鄉壘球賽—彭明敏杯]]（命名緣起見 [[works/taiwaneseamericanhistory-org/ourjourneys311|TAH #311]]）。
+- **DPP「一個中國、一個台灣」概念源頭：** 據康文輝（Wen-huang Kang）分析，DPP「一個中國、一個台灣」原則的兩個概念源頭為盧主義（筆名李天鶴）1958 年《Foreign Affairs》「The China Impasse」與彭明敏 1964 年「A Declaration of Formosan Self-Salvation」 —— 見 [[works/taiwaneseamericanhistory-org/ourjourneys126-eng|TAH #126（英）：台獨聯盟 UFI／盧主義]]。
 
 ## Family
 
