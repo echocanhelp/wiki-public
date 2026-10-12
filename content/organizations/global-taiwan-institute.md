@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Global Taiwan Institute (全球台灣研究中心)
 
@@ -28,6 +28,7 @@ The Global Taiwan Institute (GTI) is a think tank dedicated to strengthening US-
 - GTI 執行長 Russell Hsiao 本人入藏 TAH Who's Who 檔案（[[works/taiwaneseamericanhistory-org/whos-who-1550-russell-hsiao|TAH Who's Who #1550 Russell Hsiao]]）；共同創辦人葉介庭另有 2015/05 訪談條目入藏（[[works/taiwaneseamericanhistory-org/425-chien-ting-yeh-e8-91-89-e4-bb-8b-e5-ba-ad-201505|TAH #425 葉介庭]]），早於 2016-09-14 GTI 創立。
 - GTI 的年度論壇／年會（Annual Symposium）已成為台灣外交領袖與美國國會人物就台美關係發聲的固定場合：2020 年吳釗燮、2022 年蔡英文總統、2020 年眾議員 Mike Gallagher 等皆以視訊出席（詳見「From the record」2020–2025 條目）；其委託發布的「中共對台灣的秘密行動」報告（2025-03）亦進入社群記錄。
 - GTI 亦為台美人社群論述的發表平台：Hsin-I Cheng 的〈Model Minority Myth〉訪談刊於 Global Taiwan Institute，談台灣議題不宜僅訴諸「精英路線」、應建立跨族跨階層支持（[[works/taiwaneseamerican-org/model-minority-myth-hsin-i-cheng|Model Minority Myth — Hsin-I Cheng]]）；葉介庭社群建構專文亦以 GTI 共同創辦人、副主席身分記述（[[works/taiwaneseamerican-org/a-tale-of-two-islands-fire-ex-ignite-community|A Tale of Two Islands: Fire EX 社群點火]]、[[works/taiwaneseamerican-org/no-double-ten-is-not-taiwans-independence-day|No, Double Ten Is Not Taiwan's Independence Day]]）。
+- GTI 的專家網路與出版物同樣進入社群記錄：2020-06-24 大西洋理事會安全戰略中心副主任克羅尼（Matthew Kroenig）應邀在全球台灣研究中心一場網絡討論中指出中國軍力擴張使美國更難防衛台灣、美台應強化防務協調（[[articles/taiwanjustice-net/2025/20251207074629_台海烏雲密佈_第3次世界大戰因台灣而起_bcc5401ac3a97c6d|台海烏雲密佈，第3次世界大戰因台灣而起？, 中央社 via TJJ, 刊 2020-06-25]]）；前美軍官包士可（Joseph Bosco）以 GTI 諮詢委員會成員身分被記述並投書《國會山莊報》籲推舉台灣醫衛專家出任世衛秘書長（[[articles/taiwanjustice-net/2025/20251211212609_前美官員投書_籲川普推台灣專家任世衛秘書長_cb6358be0ede952d|前美官員投書，籲川普推台灣專家任世衛秘書長, 中央社 via TJJ, 刊 2020-04-15]]）；2023-11-01 GTI「全球台灣簡報」（Global Taiwan Brief）刊出美國空軍台語／中文背景軍官吉米．簡（Jimmy Chien，音譯）〈與台灣人關於台灣防衛的對話〉（[[articles/taiwanjustice-net/2024/20240221122333_root_daaa57e99cc92d4b|美空軍官員觀察評估：中國若侵台 7成台灣人留下奮戰, via TJJ, 刊 2023-11-04]]）；GTI 並曾統計美國國會議員訪台次數（2018 年 6 名、2023 年 32 位）為 BBC 引述（[[articles/taiwanjustice-net/2024/20240425082259_root_fa67eb01ec449bfe|美國會議員相繼訪台 學者：公開展現保護台灣承諾, via TJJ, 刊 2024-02-22]]）。
 
 ## Sources
 - [TAH organization directory](https://taiwaneseamericanhistory.org/organization/global-taiwan-institute/)
