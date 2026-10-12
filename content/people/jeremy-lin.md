@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Jeremy Lin (林書豪)
 
@@ -66,6 +66,7 @@ Jeremy Lin is a recurring subject — not just a mention — across the communit
 - **Before the NBA (community press trail):** Harvard-era coverage in [[works/taiwaneseamerican-org/jeremy-lin-harvard-superstar-on-the-b-ball-court|Harvard Superstar on the B-ball Court]] (2009), the Warriors deal story [[works/taiwaneseamerican-org/jeremy-lin-nearing-deal-with-warriors|Jeremy Lin Nearing Deal with Warriors]] (2010), a Boston fan's bleacher broadcast ([[works/taiwaneseamerican-org/jeremy-lin-a-boston-fans-broadcast-from-the-bleachers|2010]]) and the community vote campaign [[works/taiwaneseamerican-org/vote-for-jeremy-lin-for-the-bob-cousy-award|Vote for Jeremy Lin for the Bob Cousy Award!]] (2010).
 - **Linsanity as community organizing:** the documentary screened at community-organized events — [[works/taiwaneseamerican-org/linsanity-viewing-party-with-tap-in-la|Linsanity viewing party with TAP in LA]] (2012), [[works/taiwaneseamerican-org/linsanity-movie-night-with-tap-in-sd|movie night with TAP in SD]] (2013), [[works/taiwaneseamerican-org/linsanity-viewing-party-in-new-york-ny|viewing party in New York]], [[works/taiwaneseamerican-org/linsanity-documentary-screening-with-tap-in-ny|documentary screening with TAP in NY]], [[works/taiwaneseamerican-org/dinner-and-linsanity-screening-with-tasc-at-ucla|dinner + screening with TASC at UCLA]], and [[works/taiwaneseamerican-org/linsanity-movie-screening-in-la-for-kaohsiung-disaster-relief|a LA screening for Kaohsiung disaster relief]]; the film's Sundance premiere is recorded in [[works/taiwaneseamerican-org/linsanity-documentary-film-premieres-at-sundance-film-festival|Linsanity documentary premieres at Sundance]]. The "Linsanity" producer Allen Lu appears in the community network around [[works/taiwaneseamerican-org/stephanie-lin-champions-womens-empowerment|Stephanie Lin's women's-empowerment campaign]].
 - **Cross-community discourse:** Linsanity surfaced in broader TA conversations — [[works/taiwaneseamerican-org/on-the-topic-of-tiger-mom-to-linsanity-a-discussion-in-flushing-ny|Tiger Mom to Linsanity, a discussion in Flushing, NY]] (2012).
+- **Family-origin record (opinion piece, attributed):** [[articles/taiwanjustice-net/2020/20200622233811_2020_04_09_林書豪是心中有愛_還是心中有錢_-_-余杰_e37475d2a9ccd5bc|余杰, 「林書豪是心中有愛，還是心中有錢？」]] (taiwanjustice.net, 2020-04-09) preserves — as the author's account of NYT reporting — that uncle 林繼宗 stated the Lin family is Taiwanese: ancestors migrated from Fujian to Taiwan in 1707 (林繼明/林繼宗 the eighth generation), the grandfather worked in the South Seas during the Japanese era and went into hiding during 228, and the maternal grandmother was a doctor who came to Taiwan in 1949. The piece is a critical opinion column on his China stance and Beijing首钢 stint; treat its characterization as attributed commentary, not community fact.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
