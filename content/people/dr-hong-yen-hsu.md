@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Hong-Yen Hsu (許鴻源博士)
 
@@ -88,3 +88,6 @@ Fresh ZH+EN+variant (許鴻源/許鴻原/Hong-Yen Hsu) grep across all five corp
 Fresh ZH+EN+variant grep across all five corpus dirs returned the same hit set as prior passes; one detail not previously cited on this page:
 - **Full 1988 builder roster in the English translation.** The English text of the same memoir ([[works/taiwaneseamericanhistory-org/ourjourneys173-eng|Our Journeys #173 ENG]]) names the 1988 Flamingo Garden/Taiwanese Senior Center group as community leaders An-Su Gao Lai 賴高安賜, Kenjohn Wang 王桂榮, Charles Ting 丁昭昇, Ming-chung Zhuo 卓敏忠, **Hong-yen Hsu 許鴻源**, **Cheng-tsung Chang 張正宗**, **Chia-yu Yang 楊嘉猷** and Symeon Woo 吳西面 — 張正宗 and 楊嘉猷 were not previously listed on this page's Role section, which named only five of the consultants. The ZH original's 許鴻原 vs 許鴻源 variance (flagged in prior passes) is unchanged.
 - No new biography, no conflicts found.
+
+## Deepen pass 2026-10-12 (deepen-x slice 10110500-5, corpus re-grep)
+Fresh ZH+EN+variant (許鴻源/許鴻原/Hong-Yen Hsu/hong-yen-hsu) grep across all five corpus dirs returned the identical hit set as prior passes — every hit is already cited on this page (ourjourneys173 ±ENG, mystories612, 679-nami-yang, ff280, pride19, 39-memorial-center, 91/808/1266/senior-7, the 2021 李梅樹 press record, both 鄭炳全 memoir records); the remaining hits are index/manifest files. mystories612 and 679-nami-yang are bibliographic stubs (full text stays in the vault), so no absorbable prose. Corpus is exhausted for this page; no new biography, no conflicts found.
