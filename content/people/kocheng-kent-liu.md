@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Kocheng Kent Liu (劉格正)
 
@@ -58,6 +58,8 @@ _Facts absorbed from this page's own TAH tables and accomplishment note; no new 
 > Corpus recheck（deepen-x slice 09141400-2，2026-09-14）：語料庫檢索命中 6 頁（私檔 #9、北卡同鄉會50年、#241、#245、#251、#782）皆已於上文收錄連結，無新素材 — SKIP-with-reason。
 
 - **KMT 警告公文與回台加簽註銷**：TAH 歷史相簿檔 #46 [[works/taiwaneseamericanhistory-org/photo-albums-historical-46||〈KMT警告公文與回台加簽註銷／劉格正〉]]（2021-01-11 收檔）保存了國民黨對其發出的警告公文與回台加簽註銷紀錄 — 與海報事件、FBI 約談同屬其被當權者監控盯梢之第一手證據鏈（deepen-x slice 10081400-2，2026-10-10 新增）。
+
+> Corpus recheck（deepen-x slice 10110700-21，2026-10-12）：ZH+EN 全語料檢索命中集合與歷次相同（私檔 #9、北卡同鄉會50年 #381、#241、#245、#251、#782、OTA #97、WhosWho #1906、歷史相簿 #46 — 皆已於上文收錄連結）；另命中 taiwanjustice 兩頁為「克拉格正」斷字假陽性，非本人。無新素材 — re-verified。
 
 ## Family
 
