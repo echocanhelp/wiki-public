@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Li–Fa Xie (謝里法)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-10-11
 - Community action in the movement record: a 謝里法 oil-painting charity sale funded the Houston Taiwanese community center — 楊朝諄、李席舟、李雅彥 purchased works, raising 九千元 with half going to the 會館 ([[works/taiwaneseamericanhistory-org/ourjourneys233|233. 回顧休士頓台灣人活動中心的成立 / 莊承業 / 2016-07]]).
 - 2026-09-24 re-check (DEEPEN-X slice 09230700-4): corpus re-grep widened the hit set — NEW facts absorbed this pass: essay 130 重塑台灣的心靈, 巴黎大獎/巴黎文教基金會 (Our Journeys 284), 台灣文藝沙龍 1975 co-founding (Our Journeys 70), 台灣文化之夜 1986 (Our Journeys 301), 1985 夏令會 ROOT anecdote (Our Journeys 379). Prior verified-saturated status superseded.
 - 2026-10-11 re-check (DEEPEN-X slice 10100500-24): full-corpus re-grep (謝里法/Li-Fa Xie/Li-fa Hsieh) — hit set unchanged, all 15 corpus records already linked above. The sole new hit (taiwanjustice.net 2024 article) is a false positive: 「玉里法國爸爸」 substring match, not this person. Verified saturated.
+- 2026-10-12 re-check (DEEPEN-X slice 10110100-23): full-corpus re-grep (謝里法 / Li–Fa Xie / Li-Fa Xie / Li-fa Hsieh / surname-only 謝) across works/articles/sources/events/topics — 16 corpus records hit, all already linked above; hit set saturated. No new material.
 
 ## Family
 
