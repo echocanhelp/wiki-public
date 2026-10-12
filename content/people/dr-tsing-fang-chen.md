@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Tsing Fang Chen (陳錦芳博士)
 
@@ -47,7 +47,7 @@ From the TAH Who's Who profile text and tables above:
 Corpus material shows Dr. Chen as an active participant in the Taiwanese American movement, not only a celebrated artist:
 
 - **Radio Formosa (台灣之音, NY):** Painter Chen donated his limited-edition print 「望鄉」at low price and dozens of copies of his recorded 「台灣史詩」tape to support the phone-in station's fund-raising, alongside Dr. 許登龍's family contributions. See [[works/taiwaneseamericanhistory-org/ourjourneys2|Our Journeys #2]].
-- **台灣四百年史詩 & mass meetings:** At a 美國南區台灣民衆大會 (southern-district mass meeting, undated in the memoir), the music epic 「台灣四百年史詩」 alternated music, narration, and Chen's **live recitation** of poetry; as World Federation representative he also presented the 世界台灣同鄉會 (WFTA) briefing at the meeting. See [[works/taiwaneseamericanhistory-org/ourjourneys317|Our Journeys #317]].
+- **台灣四百年史詩 & mass meetings:** At a 美國南區台灣民衆大會 (southern-district mass meeting, undated in the memoir), the music epic 「台灣四百年史詩」 alternated music, narration, and Chen's **live recitation** of poetry; as World Federation representative he also presented the 世界台灣同鄉會 (WFTA) briefing at the meeting, on a programme alongside 台灣人民自決運動代表魏瑞明, 休士頓台灣同鄉會會長林振榮, 台灣獨立聯盟主席張燦鍙 and 台灣研究所所長彭明敏. See [[works/taiwaneseamericanhistory-org/ourjourneys317|Our Journeys #317]].
 - **台灣文藝沙龍:** In the mid-1970s, Chen co-founded the 台灣文藝沙龍 (Taiwan Literary Arts Salon) with 謝里法, 洪銘水 and others, per a memoir by the organizer. See [[works/taiwaneseamericanhistory-org/ourjourneys70|Our Journeys #70]].
 - **East-coast summer institutes (美東夏令會):** Invited as a featured speaker in the 1970s alongside 洪哲勝 and 李豐明. See [[works/taiwaneseamericanhistory-org/ourjourneys338|Our Journeys #338]].
 - **WFTA annual conferences:** As Secretary-General of the World Federation of Taiwanese Associations, Chen gave the 「台灣文化的展望」 talk and the WFTA introduction at international annual meetings with chapter leaders such as 郭榮桔. See [[works/taiwaneseamericanhistory-org/ourjourneys283|Our Journeys #283]] and the [[works/taiwaneseamericanhistory-org/world-federation-of-taiwanese-associations-annual-conference|WFTA annual conference record]].
@@ -72,6 +72,7 @@ Chen's own books, catalogues, essays, and media held as vault records:
 - [[works/taiwaneseamericanhistory-org/t-f-chens-family-in-art|#102 — T.F. Chen's Family in Art 陳錦芳全家投入藝術 (2018)]]
 - [[works/taiwaneseamericanhistory-org/videos42|Video #42 — 陳錦芳藝術的人生 (2016)]]
 - [[works/taiwaneseamericanhistory-org/photo-albums-activities-133|Photo Album #133 — Dr. Tsing-Fang Chen and Mrs. Lucia Ho Chen 陳錦芳博士與侯幸君女士]]
+- [[works/taiwaneseamericanhistory-org/new-world-art-center|Work #32 — NEW WORLD ART CENTER 紐約市陳錦芳文化館 – 新世界藝術中心 (2016)]]
 
 ## Timeline
 - 1936 — 出生於台南 (born Tainan)
@@ -116,6 +117,7 @@ TAH vault pages for Dr. Chen already held in the vault (bibliographic records; f
 - [[works/taiwaneseamericanhistory-org/41-tsing-fang-chen-e9-99-b3-e9-8c-a6-e8-8a-b3|TAH #41 — Dr. Tsing Fang Chen 陳錦芳博士]] (2018-08-22)
 - Community role as Secretary-General of the World Federation of Taiwanese Associations: see the vault's [[works/taiwaneseamericanhistory-org/world-federation-of-taiwanese-associations-annual-conference|WFTA annual conference record]].
 - Memoir/corpus records newly linked in the 2026-10-10 deepen pass: [[works/taiwaneseamericanhistory-org/ourjourneys2|OJ #2]] (台灣之音 support), [[works/taiwaneseamericanhistory-org/ourjourneys317|OJ #317]] (南區大會史詩誦詞, WFTA briefing), [[works/taiwaneseamericanhistory-org/ourjourneys70|OJ #70]] (台灣文藝沙龍), [[works/taiwaneseamericanhistory-org/ourjourneys338|OJ #338]] (美東夏令會 speaker), [[works/taiwaneseamericanhistory-org/ourjourneys283|OJ #283]] (WFTA 「台灣文化的展望」), [[works/taiwaneseamericanhistory-org/ourjourneys284|OJ #284]] (巴黎大獎, A-band), [[works/taiwaneseamericanhistory-org/our-journeys-357|OJ #357]] (世臺會簡史 co-author).
+- 2026-10-12 pass: OJ #317 detail absorbed (the mass-meeting programme alongside 魏瑞明, 林振榮, 張燦鍙, 彭明敏); work record [[works/taiwaneseamericanhistory-org/new-world-art-center|NEW WORLD ART CENTER #32 (2016)]] added to Works. Other corpus hits on 「錦芳」 in taiwanjustice-net party-assets articles are 施錦芳 (黨產會委員), a different person — not linked.
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
