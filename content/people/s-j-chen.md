@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # S. J. Chen (陳松楨)
 
@@ -56,3 +56,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x 10080400-15: verified-saturated — corpus re-scan (works/articles/sources/events/topics) fresh 2026-10-09: 陳松楨/S. J. Chen/松楨 grep hit set identical to prior passes (ourjourneys240 UCLA 讀書會, ourjourneys233-eng TCC 募款委員會, own TAH #1268, #1625 陳舜哲 disambiguation — all already wikilinked in Role in the Community); no new community material. -->
 <!-- deepen-x 10090800-27: verified-saturated — corpus re-scan (works/articles/sources/events/topics) fresh 2026-10-10: 陳松楨/S. J. Chen/松楨 grep hit set identical to prior passes (ourjourneys240 UCLA 讀書會, ourjourneys233-eng TCC 募款委員會, own TAH #1268, #1625 陳舜哲 disambiguation, index/sources listings — all already wikilinked in Role in the Community); no new community material. -->
 <!-- deepen-x 10101205-24: verified-saturated — corpus re-scan (works/articles/sources/events/topics) fresh 2026-10-11: 陳松楨/S. J. Chen/松楨 grep hit set identical to prior passes (ourjourneys240 UCLA 讀書會, ourjourneys233-eng TCC 募款委員會, own TAH #1268, #1625 陳舜哲 disambiguation, index/sources listings — all already wikilinked in Role in the Community); no new community material. -->
+<!-- deepen-x 10112300-23: verified-saturated — corpus re-scan (works/articles/sources/events/topics) fresh 2026-10-12: 陳松楨/S. J. Chen/松楨 grep hit set identical to prior passes (ourjourneys240 UCLA 讀書會, ourjourneys233-eng TCC 募款委員會, own TAH #1268, #1625 陳舜哲 disambiguation, index/sources listings — all already wikilinked in Role in the Community); no new community material. -->
