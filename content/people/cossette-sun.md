@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-09-25
+last_reviewed: 2026-10-12
 ---
 # Cossette Sun (吳春紅)
 
@@ -41,6 +41,7 @@ last_reviewed: 2026-09-25
 
 
 ## Role in the Community
+- 2026-10-12 re-grep (deepen-x slice 10110316-17): SKIP — fresh grep (吳春紅／Cossette, all 5 corpus dirs) returned the identical saturated hit set: her own records (#471, #172), the works index, the Pew statement (already linked via NATWA), the 2018 台大校友 open-letter signatory list (already in From the record), and the source page; no new absorbable material, no conflicts to HOLD.
 - Authored the community history 台美人參與Castro Valley Library的設立及運作 (TAHS/TAH story corpus, 2015-09), documenting Taiwanese American participation in founding and running the Castro Valley Library — an extension of her library-professional record as Alameda County Law Library Director ([[works/taiwaneseamericanhistory-org/172-brief-history-of-castro-valley-library-cossette-sun-201509|172 台美人參與Castro Valley Library]]).
 - Profiled in the TAH encyclopedia entry she is named for ([[works/taiwaneseamericanhistory-org/471-cossette-sun-201506|471. Cossette Sun 吳春紅]]).
 - 2008-12-11 — recognized as a Castro Valley local hero by CA Assembly Majority Leader Alberto Torrico (Assembly District 20, Resolution No. 38), consistent with the library-community record above.
