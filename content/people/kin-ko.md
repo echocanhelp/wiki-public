@@ -95,3 +95,4 @@ M.S., Aerospace Engineering; Ph.D. Course Program
 ![20221002204919_wp-content_uploads_2022_05_柯金寅-mom-218x150_jp](../images/people--kin-ko.jpg)
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20221002204919）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+<!-- TJJ-A10110102-23: verified 2026-10-12 — wave-2 link+deepen re-check of article b7327dcf888cee82 (台美史料中心 March 2021 Newsletter, TJJ 2021-02-28): subject link re-checked vs 正文 this attempt (「緬懷楊教授國雄兄 柯金寅 Kin Ko」署名見於正文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->

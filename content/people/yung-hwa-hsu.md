@@ -121,3 +121,4 @@ Fresh ZH+EN grep (許永華 / Yung Hwa Hsu) across works/articles/sources/events
 - Corpus grep false positive: TJJ article 25c8b0e6d04b7aa9 matches 永華 via 永華宮 (a Tainan temple), not the person — no link.
 
 <!-- TJJ-A10100501-22: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100501-22 article b7327dcf888cee82 (台美史料中心 March 2021 Newsletter, TJJ 2021-02-28): subject link re-checked vs 正文 this attempt (「由陳文成紀念基金會的創立談起 / Yung Hwa Hsu」署名見於正文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- TJJ-A10110102-23: verified 2026-10-12 — wave-2 link+deepen re-check of article b7327dcf888cee82 (台美史料中心 March 2021 Newsletter, TJJ 2021-02-28): subject link re-checked vs 正文 this attempt (「由陳文成紀念基金會的創立談起 / Yung Hwa Hsu」署名見於正文), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
