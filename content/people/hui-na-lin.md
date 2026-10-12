@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Hui Na Lin (賴慧娜)
 
@@ -168,3 +168,6 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-A10100801-7: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-7 article 80c0a825a7a661b6 (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, 2025-11-08 快照, 同文於 b1d58af16c0a5e5b, 聲明 2021-05-13): subject link re-checked vs 正文 this attempt — 賴慧娜 列名共同發起人清單, real, no wrong/spurious links; 2021-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100801-15: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-15 article c48e08c7f2c3bf8d (Covid-19 浩劫餘生錄分類頁, 2020-11-20 存檔): subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+- 2017 — 列名於《台美菁英錄》（2017 TAHS Publication）byline 名單（「…鄭炳全、楊遠薰、陳婉真、曾恆利、賴慧娜、台美人歷史協會 整理」），為該會刊撰稿／整理群之一（[[sources/2017-tahs-publication|2017 TAHS 台美菁英錄]]）。
+- 2021-11-29 — 「天已轉涼」「建構疫後新世界」兩文亦見於 Covid-19 浩劫餘生錄分類頁另一 2021-11-29 快照（[[articles/taiwanjustice-net/2021/20211129015648_category_covid-19_c51de4d79c9af3fe|TJJ 分類頁 c51de4d7，2021-11-29 快照]]）；日期事實與上方 c9dd9fb7 條目同文，不重複計。
