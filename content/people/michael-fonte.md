@@ -8,7 +8,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Michael Fonte (彭光理)
 
@@ -116,6 +116,7 @@ last_reviewed: 2026-10-11
 <!-- TJJ-A10090701-18: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-18 article d2dbfe220e437602（2017年美東台灣人夏令會報導/楊遠薰, 2024-05-22 快照, 29faf54b8c9e2d10 同文副本）subject link re-checked vs 正文 this attempt; real mention (以民進黨華府代表處主任身分演講評川普), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- DEEPEN-X10100600-14: verified 2026-10-11 — fresh grep 彭光理|Michael Fonte|Fonte across works/articles/sources/events/topics returned 14 files (1 false positive: 2a5bbda7e160cd44 = Kirsten Fontenrose, unrelated); every real hit (mystories432, ourjourneys123/-eng, whoswho962, works/index, 23197ebf, 29faf54b, c1e60306, 050ae06e, d2dbfe22, e68ffc76, e38ae3f7, sources/taiwaneseamericanhistory-org) already linked in Role in the Community / From the record — saturated, no new material. -->
+<!-- DEEPEN-X10110200-17: verified 2026-10-12 — fresh grep 彭光理|Michael Fonte|Fonte across all 5 corpus dirs returned the same 15 files (1 false positive: 2a5bbda7 = Kirsten Fontenrose; MANIFEST.jsonl index hit); every real hit already linked in Role in the Community / From the record. No new absorbable corpus facts — saturated. HOLD on 2024-05 退休 vs frontmatter Employment「Present」remains open (see 2024-01-24 entry). -->
 
 <!-- TJJ-A10100701-3: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-3 article 20240522235843_root_d2dbfe220e437602（2017年美東台灣人夏令會報導/楊遠薰, 2024-05-22 快照, 29faf54b8c9e2d10 同文副本）subject link re-checked vs 正文 this attempt; real mention (以民進黨華府代表處主任身分演講、以「不穩定」「不可預測」形容川普), no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
