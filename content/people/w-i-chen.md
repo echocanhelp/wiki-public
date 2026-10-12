@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # W. I. Chen (陳石溫愛)
 
@@ -45,6 +45,7 @@ last_reviewed: 2026-10-10
 - Her own TAH encyclopedia entry: [[works/taiwaneseamericanhistory-org/whoswho1030|1030. W. I. Chen 陳石溫愛 / 2016-05]].
 - HOLD: name collision — TAH #1041 is a *different* person also named "W. I. Chen" (陳文英, [[works/taiwaneseamericanhistory-org/whoswho1041|whoswho1041]]); do not merge records.
 - Corpus re-verified 2026-09-25 (slice 09231300-4): fresh ZH+EN greps return only our-journeys-350 (模範母親 citation, absorbed), #1030 (bibliographic, linked), and #1041 陳文英 (different person — HOLD above stands). No new material.
+- Family network: the 南加州台灣長輩會 that honored her as 模範母親 in 2001 traces to her husband [[people/m-l-chen|陳夢蘭]] — he was its first president when it was founded (as 南加州台灣老人會) on 1979-05-05, borrowing the Los Angeles 福音教會 as its meeting site, and appointed their eldest son [[people/c-j-chen|陳銓仁]] as secretary; internal church-faction disputes over his bid for re-election led to his negotiated step-down in favor of 蕭華銓. Sources: [[works/taiwaneseamericanhistory-org/ourjourneys54|54. 海外台灣人第一所老人公寓—鶴園 (王桂榮, 2014)]] and [[works/taiwaneseamericanhistory-org/ourjourneys50|50. 「南加州台灣長輩會」的成立 (曾輝光, 2014)]].
 - Family network: her husband [[people/m-l-chen|陳夢蘭]]'s pre-immigration finance-industry background (consistent with his 第一銀行 role) is corroborated in the SCTFCU memoir — he joined the second preparation meeting of 南加州台灣人聯邦信用合作社 and later served as 顧問. Source: [[works/taiwaneseamericanhistory-org/ourjourneys244|244. 曇花一現的南加信用合作社 (周實)]].
 
 ## Sources
@@ -58,3 +59,4 @@ last_reviewed: 2026-10-10
 <!-- deepen-x 09250500-29: re-verify 2026-09-25 — fresh ZH+EN grep: our-journeys-350, #1030, #1041 (different person, HOLD stands), index only; nothing new absorbable. -->
 <!-- deepen-x 09261100-25: re-verified 2026-10-01 — fresh ZH+EN grep (陳石溫愛 / W. I. Chen) returns only our-journeys-350 (模範母親 citation, absorbed), #1030 (bibliographic, linked), #1041 陳文英 (different person — HOLD above stands) + index. Nothing new absorbable. -->
 <!-- deepen-x slice 10080700-5 (2026-10-09): saturated re-verify — fresh grep (陳石溫愛 / W. I. Chen / 溫愛) across works/articles/sources/events/topics returns our-journeys-350 (模範母親 citation, absorbed), #1030 (bibliographic, linked), #1041 陳文英 (different person — HOLD stands) + index/sources listings. Nothing new absorbable. -->
+<!-- deepen-x slice 10102200-25 (2026-10-12): fresh ZH+EN grep (陳石溫愛 / W. I. Chen / 溫愛) across all 5 corpus dirs returns the known closed set (our-journeys-350, #1030, #1041 HOLD) + index — no new material on her directly. Husband-side sweep (陳夢蘭) surfaced ourjourneys54 + ourjourneys50: 陳夢蘭 first president of 南加州台灣老人會 (1979-05-05, 福音教會會址), 陳銓仁 as secretary, faction dispute → 蕭華銓 — absorbed into Role in the Community as the origin of the 長輩會 that honored her. -->
