@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Mei-Li Yang (楊美麗)
 
@@ -77,3 +77,4 @@ Re-check 2026-09-16 (slice 09160600-14): hit set again identical — all absorbe
 <!-- TJJ-A100606005-a: verified 2026-10-09 — wave-2 link+deepen re-check of article a428dcebbceacf38 (抗議 南加州台大校友會邀管中閔來年會做專題演講, 國立台灣大學校友連署, 2018-07-20): subject link re-checked vs 正文 this attempt — name 確認見於連署名單（含系所標註與本頁一致）, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- DEEPEN-X10081100-19: verified 2026-10-10 — fresh ZH+EN grep across all 5 corpus dirs (works/articles/sources/events/topics): hit set identical to prior passes (NATWA 會史 OJ 60 ZH+EN, 月曆史 OJ 160, TAH #37/#2201, works/index, sources hub, TJJ a428dcebbceacf38) — all absorbed under Role in the Community / From the record; 2005-presidency HOLD stands. SKIP-no-new-material. -->
 <!-- DEEPEN-X10100800-30: verified 2026-10-11 — fresh grep 楊美麗|Mei-Li Yang across all 5 corpus dirs: hit set identical to prior passes (NATWA 會史 OJ 60 ZH+EN, 月曆史 OJ 160, TAH #37/#2201, works/index, sources hub, TJJ a428dcebbceacf38); surname/alias sweep also surfaced only Mei-Li CHEN pages (207/117/2265 — different person, no link added). All material already absorbed; 2005-presidency HOLD stands. SKIP-no-new-material. -->
+<!-- DEEPEN-X10110400-28: verified 2026-10-12 — fresh grep 楊美麗|Mei-Li Yang across all 5 corpus dirs: hit set identical to prior passes (NATWA 會史 OJ 60 ZH+EN, 月曆史 OJ 160, TAH #37/#2201, works/index, sources hub, TJJ a428dcebbceacf38) — all absorbed under Role in the Community / From the record; 2005-presidency HOLD stands. SKIP-no-new-material. -->
