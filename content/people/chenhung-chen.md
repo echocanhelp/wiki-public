@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Chenhung Chen (陳貞宏)
 
@@ -55,3 +55,4 @@ Corpus re-check 2026-09-25 (deepen-x slice 09240700-23): fresh ZH+EN grep — hi
 - Corpus re-grep 2026-10-06 (slice 10051200-15): fresh ZH+EN grep of works/articles/sources/events/topics — hit set unchanged (own records TAH #39/#387, OCCCA exhibition TAH #42 already cited, works index; zero hits in articles/sources/events/topics). SKIP-deepen; verified-saturated; nothing new absorbable.
 - Corpus re-grep 2026-10-09 (slice 10080700-8): fresh ZH+EN+partial (陳貞宏/Chenhung Chen/貞宏) grep across all 5 corpus dirs — hit set identical to every prior pass: own records TAH #39/#387, OCCCA exhibition record [[works/taiwaneseamericanhistory-org/art-exhibitions-42|TAH #42]] (already cited), works index, sources index. Zero hits in articles/events/topics. SKIP-with-reason: verified-saturated, no new absorbable community material.
 - Corpus re-grep 2026-10-10 (slice 10091531-17): fresh ZH+EN+partial grep across all 5 corpus dirs — 5 files hit: own records [[works/taiwaneseamericanhistory-org/artist39-chenhung-chen|TAH #39]] / [[works/taiwaneseamericanhistory-org/whos387-chenhung-chen|TAH #387]], OCCCA exhibition record [[works/taiwaneseamericanhistory-org/art-exhibitions-42|TAH #42]] (already cited), works index, sources index. Zero hits in articles/events/topics. SKIP-with-reason: verified-saturated, no new absorbable community material.
+- Corpus re-grep 2026-10-12 (slice 10110316-25): fresh ZH+EN+partial grep across all 5 corpus dirs — hit set unchanged (own records TAH #39/#387, OCCCA exhibition TAH #42 already cited, works/sources indexes). Full-tree sweep adds only peer-page cross-links: [[people/echo-lew|Echo Lew]] (co-exhibitor, already linked) and [[people/serena-chen|Serena Chen]] (surname collision only, not this person). HOLD: Echo Lew's page attributes the TAH #42 co-exhibitor as 陳宏文/Chenhung Chen — 陳宏文 conflicts with our registry name 陳貞宏 for the same English name; never auto-merged, flagged for reconciliation. Otherwise SKIP-with-reason: verified-saturated.
