@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Tsung Ming Hsieh (謝聰敏)
 
@@ -45,6 +45,10 @@ Corpus (Our Journeys) material beyond the press coverage below:
 - **Overseas reverberation of the Declaration.** 周烒明's memoir of the early 1960s–70s 威大 (University of Wisconsin) 台灣學生 movement recalls that the 1964-09-20 「台灣人民自救宣言」 by 彭明敏、謝聰敏、魏廷朝 inspired the 「全美台灣獨立聯盟」 to place the 「台灣是台灣人的」 half-page New York Times ad, with 周烒明 chairing the fund-raising (郭泰成、辜寬敏、黃義明 each pledging US$500); the surplus funded the joint 「Independent Formosa」 publication ([[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys #81, 周烒明]]). HOLD: ad date conflicts — 周烒明's account says the ad ran 1966-11-20, while the 張燦鍙 account above gives 1965-11-20. Not auto-merged.
 - **The Declaration as archival record.** The 1964-09-20 「台灣人民自救運動宣言」 itself is held in the corpus photo-album record with 謝聰敏 named as co-author alongside 彭明敏 and 魏廷朝 ([[works/taiwaneseamericanhistory-org/photo-albums-historical-41|Photo Album: Historical #41]]).
 - **Remembered by the community.** 何來美's tribute 「反抗台灣獨裁政權的勇士-謝聰敏先生」 (2019-09-16) and his own oral history are held in the corpus ([[works/taiwaneseamericanhistory-org/my-stories-696|My Stories #696]]; [[works/taiwaneseamericanhistory-org/videos58|Videos #58 謝聰敏口述歷史]]).
+- **How the Declaration was drafted (his own account).** In 彭明敏's 2017 interview he recalled (at age 83): he first drafted 5萬多字 like a thesis, but 彭教授 said no one writes propaganda that way, so 魏廷朝 trimmed it to the ~7,000-word final text; to keep the typesetter from suspecting, the trio swapped 「國民黨」for 「共產黨」 (turning 自救宣言 into a fake 「反共宣言」), then privately bought lead type to replace the keywords with 「蔣介石」; they printed 10,000 copies at a 赤峰街 print shop wearing military uniforms and claiming to be school instructors ordering exam papers — and were seized the same day, the Mid-Autumn Festival (人月團圓) ([[articles/taiwanjustice-net/2021/20210516145346_2017_03_22_當一輩子老骨董-彭明敏專訪之一-_mirror-media-2017-03-20_e256790b3ee12d79|彭明敏專訪之一, mirror-media 2017-03-22]]).
+- **Collector of the movement's own record.** A 2016 report records that he donated his life-long collection of some 一兩萬冊 of global political-prisoner / human-rights materials to the 人權博物館 ([[articles/taiwanjustice-net/2023/20230601052025_2016_08_23_228_白色恐怖受難者_人權博物館應遷至_蔣家廟_acedbd6defda58ac|228白色恐怖受難者座談報導, 2016-08-23]]).
+- **太平洋時報 founding circle.** 鄭炳全's 2025 memoir of the 1986 夏洛城 (Charlotte) organizing of 太平洋時報 recalls 陳惠亭、謝聰敏 coming to his 十全藥局 more than twice to recruit him into the new paper ([[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16|鄭炳全「旅美五十周年」, TJJ 2025-02-09]]).
+- **Second imprisonment, as documented by the archives.** After serving out the 自救宣言 sentence, he and 魏廷朝 were caught up again — implicated in the 台南美國新聞處 and 台北美國商業銀行 explosion cases as fallout from 彭明敏's 1970 escape — a second imprisonment the 國史館 「台灣人民自救宣言案」史料彙編档案 now documents (arrest of the three in 1964 triggered by a print-shop worker's tip-off) ([[articles/taiwanjustice-net/2025/20250209201447_台灣自救宣言案史料明發表-揭海外打壓彭明敏檔案_091b6f66bbd65754|CNA via TJJ, 2025-02-09]]; [[articles/taiwanjustice-net/2025/20250419174040_國史館史料彙編-情治單位視彭明敏潛逃是最大恥辱_8f17ec4e30085232|CNA via TJJ, 2025-04-19]]).
 - HOLD: sentence length conflicts — 10 years under 「預備顛覆政府」 (Thornberry memorial / TJJ 2017-03-12) vs eight years (去殖民化 essay, TJJ 2023-06-02). Not auto-merged.
 
 ## From the record
