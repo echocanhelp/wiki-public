@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Chang-I Tsai (蔡正一)
 
@@ -60,3 +60,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 10080500-18 re-verify 2026-10-09: fresh ZH+EN grep (蔡正一/Chang-I Tsai, works/articles/sources/events/topics) — hit set identical to prior absorptions (442/443/444 畫冊, artist15, whoswho1052 + index/sources rollups). Partial-name 正一 hits are different people (陳正一 in ourjourneys244/212 co-op & 生活座談會 rosters; 彭文正/「市政願景正一」 in taiwanjustice-net news text — not this artist). Verified-saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 10090900-18 re-verify 2026-10-10: fresh ZH+EN grep (蔡正一/Chang-I Tsai, works/articles/sources/events/topics) — hit set identical to prior absorptions (442/443/444 畫冊, artist15, whoswho1052 + works/index rollup only); no new memoir/community material. Verified-saturated; SKIP-no-new-facts. -->
 <!-- deepen-x slice 10101205-15 re-verify 2026-10-11: fresh ZH+EN+surname grep (蔡正一/Chang-I Tsai/蔡正, works/articles/sources/events/topics) — exact-name hit set identical to prior absorptions (442/443/444 畫冊, artist15, whoswho1052 + index rollups). Surname-partial 蔡正 hits all resolve to 蔡正隆 (Cheng Long Tsai, ourjourneys 國會作證/壘球/UACBI records, cheng-long-tsai-fund) and 蔡正騏 (253) — different people. Verified-saturated; SKIP-no-new-facts. -->
+<!-- deepen-x slice 10112300-12 re-verify 2026-10-12: fresh ZH+EN grep (蔡正一/Chang-I Tsai, works/articles/sources/events/topics) — exact-name hit set identical to prior absorptions (442/443/444 畫冊, artist15, whoswho1052 + works/index rollup only); no new memoir/community material. Verified-saturated; SKIP-no-new-facts. -->
