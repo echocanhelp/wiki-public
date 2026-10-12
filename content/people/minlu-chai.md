@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Minlu Chai (蔡銘祿)
 
@@ -46,6 +46,7 @@ From TAH community records and memoirs (primary material):
 - Deepen 2026-09-24 (slice 09230317-14 completion pass): fresh re-grep 蔡銘祿/Minlu Chai — beyond the 6 linked records, two sister-language copies of the same Our Journeys reports carry the identical campaign material: Chinese original [[works/taiwaneseamericanhistory-org/ourjourneys76|Our Journeys 76 (中文)]] (counterpart of the EN edition already cited for the 1990 census joint staff meetings hosted at his Hilton) and [[works/taiwaneseamericanhistory-org/ourjourneys186-eng|Our Journeys 186 (EN)]] (counterpart of the 1985-04-15 台灣公論報 roster record). No new facts; linkage now complete, saturated.
 - Re-verify 2026-09-25 (slice 09240317-3): fresh re-grep 蔡銘祿/Minlu Chai — same 6 hits (ourjourneys253, #363, ourjourneys76-eng, ourjourneys186, #222, #140), all wikilinked. SKIP, verified-saturated.
 - Re-verify 2026-09-25 (slice 09250700-2): fresh re-grep — same hit set plus the two sister-language copies (ourjourneys76, ourjourneys186-eng) already wikilinked; nothing new absorbable. SKIP, verified-saturated.
+- Re-verify 2026-10-12 (slice 10110200-3): fresh re-grep 蔡銘祿/Minlu Chai across all 5 corpus dirs — same 12 works hits, all wikilinked. Surname-only sweep adds one more distinct person: 蔡銘福, listed alongside him in the same 1985-04-15 台灣公論報 #369 roster (ourjourneys186) — correctly excluded as a different person, as are 蔡銘洪 and 蔡銘軒. SKIP, verified-saturated.
 - Re-verify 2026-10-11 (slice 10100500-30): fresh re-grep 蔡銘祿/Minlu Chai across all 5 corpus dirs — 12 works hits, all already wikilinked (ourjourneys253/76/76-eng/186/186-eng/212/230/316-excluded, #140, #222, #363, #374, whoswho1028). The three new surname-only hits are different people, correctly excluded: 蔡銘洪 (volunteer-teacher roster, ourjourneys316) and 蔡銘軒 (民進黨南投縣議員, two taiwanjustice-net 2023/2025 articles). SKIP, verified-saturated.
 
 ## Family
