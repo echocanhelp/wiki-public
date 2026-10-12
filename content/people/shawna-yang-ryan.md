@@ -65,6 +65,7 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 - **Content priority A:** 2017 TAHS Publication (profile Part 2, ~240 lines), prepared by TAHS editors
 - **Content priority A:** Green Island won the 2017 American Book Awards (verifiable external source)
 - **Hub:** [[sources/2017-tahs-publication||2017 TAHS Publication]]
+- **Corpus works:** [[works/taiwaneseamericanhistory-org/whos-shawna-yang-ryan||TAH「Who's Shawna Yang Ryan」檔案條目, 2016/02]]、[[works/taiwaneseamericanhistory-org/45-american-book-awards-shawna-yang-ryan-2017||TAH American Book Awards 得獎記錄, 2017]]
 - **Note:** The profile in the publication is relatively brief. Additional biographical details (education, earlier works, other publications) exist in external literary sources.
 
 <!-- tah-tables:start -->
@@ -106,7 +107,7 @@ Yang Ryan's profile in the 2017 TAHS publication was prepared by the Taiwanese A
 - 再核（TJJ-A09220700-4, 2026-09-22）：本 slice 文章 15fc4a3e5664504e 正文再驗證——楊小娜 WaPo op-ed（《Green Island》作者、为其母出生地-third-grade  interview 開篇）連結為真；2016-12-09 條目已在庫，無新材料。
 
 - 2016-12-09 — Ryan's Washington Post op-ed, republished on TJJ, opens with her third-grade interview of her Taiwanese mother about being "from China," then uses her research for the novel *Green Island* to argue that treating Taiwan's history as beginning in 1949 is "a second silencing" after 38 years of martial law ([[articles/taiwanjustice-net/2024/20240721112815_root_15fc4a3e5664504e|TJJ republication of WaPo op-ed, 2016-12-09]]).
-- 2021-02-11 — 受邀擔任首屆游玲娟、游銘泉創意寫作獎（Betty L. Yu and Jin C. Yu Creative Writing Prizes，TaiwaneseAmerican.org）評委（[[articles/taiwanjustice-net/2026/20260211084131_全國圖書獎得主游朝凱charles-yu為台美人青年創意作家_5b6cede86851b2ba|TJJ, 2021-02-14]]）。
+- 2021-02-11 — 受邀擔任首屆游玲娟、游銘泉創意寫作獎（Betty L. Yu and Jin C. Yu Creative Writing Prizes，TaiwaneseAmerican.org）評委（[[works/taiwaneseamerican-org/judges-charles-yu-and-shawna-yang-ryan-select-award-recipients|Judges Charles Yu and Shawna Yang Ryan select award recipients]]、[[articles/taiwanjustice-net/2026/20260211084131_全國圖書獎得主游朝凱charles-yu為台美人青年創意作家_5b6cede86851b2ba|TJJ, 2021-02-14]]）。
 - 2017-03-04 / 03-05 — 大洛杉磯台灣會館會訊公告：3月4日下午一時應台美人筆會等社團之邀在會館演講《綠島》創作經驗，3月5日下午三點在橙縣Tustin台灣人長老教會演講「Legacy: Seventy Years after 2-28」；會訊並記其為夏威夷大學文學教授、以七年寫成《綠島》獲NYT與LA Times推介（[[articles/taiwanjustice-net/2024/20240530134421_root_23da543a315a1fa1|TJJ 轉載台灣會館會訊，2017-02-17]]）。
 
 - 2007-12-02 — 以「Locke 1928」作者身分在 TaiwaneseAmerican.org 發表「What are you?」台美認同專文（[[works/taiwaneseamerican-org/e2-80-9cwhat-are-you-e2-80-9d-thoughts-on-taiwanese-american-identity|What are you? 專文]]）；HOLD: 該早期作品「Locke 1928」本頁生平未列，形式待核，未自動併入。
