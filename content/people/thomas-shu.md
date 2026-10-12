@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Thomas Shu (許正龍)
 
@@ -80,6 +80,7 @@ Founding member and board member of the American Premium Tea Institute (now merg
 
 ## Role in the Community
 
+- 社團領導：以優社（TEA）社長／會長身份參與台灣紀念社團活動——2024-02-28 第17屆「台灣介心靈日」228紀念音樂會（Arcadia Community Church，與台灣人聯合基金會 TUF 合辦）以客語吟頌杜潘芳格詩作與張秋台《渡台悲歌》（[[articles/taiwanjustice-net/2024/20240522044953_root_47725345581e0f61|TJJ 影音報導]]）；2025-02-22 大洛杉磯台灣會館 24 社團 228 追思紀念大會以客台雙語獨唱《台灣翠青》並帶領全場合唱（[[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267|TJJ 報導]]）。
 - 台灣茶葉推廣：與妻潘掬慧以「台灣茶大使」身分在萬國節（International Festival）推廣台灣好茶（[[works/taiwaneseamericanhistory-org/ourjourneys123|Our Journeys #123]]）；並曾在芝加哥主辦台灣茶實體工作坊（[[works/taiwaneseamerican-org/thomas-shu-ambassador-of-taiwan-tea-presents-a-hands-on-tea-workshop-in-chicago|TA 電子報, 2011-04-17]]；茶葉大使專題見 [[works/taiwaneseamerican-org/ambassadors-of-taiwan-tea|Ambassadors of Taiwan Tea]]）。
 - 茶產業專業：第三代茶業傳人，家族經營茶業60餘年，與亞洲、歐洲、美國多家茶公司及進口的合作經驗；受邀為 World Tea Expo 專業講師，並在美國各地會議與教育機構演講。2007年3月獲台灣製茶公會頒授「台灣茶葉大使」榮譽頭銜（[[works/taiwaneseamerican-org/ambassadors-of-taiwan-tea|TA 電子報專訪]]；與妻潘掬慧同為茶大使，皆出身新竹，產區以東方美人/膨風茶聞名）。
 - 社團連結：北美臺灣客家公共事務協會（徐民忠紀錄文）的網站設計及管理署名許正龍（Thomas C. Shu, abctea@gmail.com），顯示他以專長支援台美社團（[[works/taiwaneseamericanhistory-org/ourjourneys290|Our Journeys #290]]）。
@@ -120,3 +121,5 @@ Founding member and board member of the American Premium Tea Institute (now merg
 <!-- DEEPEN-X10100500-16: verified 2026-10-11 — fresh grep 許正龍/Thomas Shu across works/articles/sources/events/topics. All genuine hits already absorbed and wikilinked (ourjourneys123/#290, TAH #68/#114, ambassadors-of-taiwan-tea, Chicago workshop, TJJ 4b3dbc0e/97c86307/2589c867/c62f5c50/79b5f26f/ff4731d4/47725345). Three 2022 nuclear-submarine articles are FALSE hits — Thomas Shugart 許卡特 (CNAS analyst), different person, not linked. No new material — saturated, SKIP. -->
 
 <!-- TJJ-A10100701-21: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-21 article 79b5f26fdef89d22 (「2023台美小姐選拔賽」盛大舉行·宋依珊奪后, TJJ 2023-08-06刊／2025-06-14快照) read fresh this attempt: 許正龍以台灣茶葉大使列名評審確認見於正文; subject link re-checked, real, no wrong/spurious links; 2023-08-06 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10110100-21: verified 2026-10-12 — fresh grep 許正龍/Thomas Shu/Thomas C. Shu/abctea across works/articles/sources/events/topics. Hit set saturated vs prior slices (OJ #123/#290, TAH #68/#114, ambassadors-of-taiwan-tea, Chicago workshop, TJJ 4b3dbc0e/97c86307/2589c867/c62f5c50/79b5f26f/ff4731d4/47725345); 2022 nuclear-submarine articles remain FALSE hits (Thomas Shugart 許卡特, CNAS analyst). New editorial absorption: consolidated 優社(TEA)社長/會長 role into Role in the Community (2024 介心靈日音樂會 + 2025 台館228追思大會, both already-linked TJJ articles) — facts already in From the record, no new dates. 1 deepened, 0 skipped. -->
