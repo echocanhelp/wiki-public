@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Marilyn Fu
 
@@ -27,6 +27,7 @@ last_reviewed: 2026-10-10
 - Her own TAH story-corpus encyclopedia entry is held in the corpus: [[works/taiwaneseamericanhistory-org/403-marilyn-fu-201505|403. Marilyn Fu / 2015/05]] (2015-05-10, band B; bibliographic record — full text stays in the vault). Corpus re-check 2026-10-01 (slices 09231100-32, 09250500-12, 09261200-1): fresh ZH+EN grep of works+articles returns the same 5 work pages already linked above (own TAH record, both interviews, NATWA 2015, Catherine Huang) plus works/index; no new community material.
 - Corpus re-check 2026-10-09 (slice 10080500-30): fresh grep of 'Marilyn Fu' / 'Sisterhood of Night' across works/articles/sources/events/topics returns only the pages already linked above plus works/index and the sources register; the surname-Fu hits (e.g. [[works/taiwaneseamericanhistory-org/whos-who-2299-k-p-fu|Dr. K. P. Fu 傅康平博士]]) are a different person — no relation asserted; verified saturated, no new community material.
 - Corpus re-check 2026-10-10 (slice 10091316-8): fresh grep 'Marilyn Fu' / 'Sisterhood of Night' across works/articles/sources/events/topics returns the identical hit set already linked above plus works/index and the sources register; the surname-only (傅/Fu) hits in ourjourneys* are other individuals — no relation asserted; verified saturated, no new community material.
+- Corpus re-check 2026-10-12 (slice 10120018-29): fresh grep 'Marilyn Fu' / 'Sisterhood of Night' across works/articles/sources/events/topics returns the identical hit set already linked above (own TAH record 403, both interviews, NATWA 2015, Catherine Huang) plus works/index and the sources register; surname-傅 hits in ourjourneys* remain other individuals — no relation asserted; verified saturated, no new community material.
 
 <!-- tah-tables:start -->
 ## Education
