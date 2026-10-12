@@ -9,7 +9,7 @@ tags:
   - politician
   - dpp-founder
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Peng Ming-min (彭明敏)
 
@@ -87,6 +87,9 @@ Through these connections, Yang came to see Peng as a model of Taiwanese intelle
 - **1984 — Peng Ming-min Trophy (彭明敏杯):** The championship trophy of the annual Taiwan-student softball tournament in upstate New York (centered in Albany) was named the "Peng Ming-min Cup" in 1984 to honor his contributions to the democratic and independence movements. He traveled to Albany in July 1986 to present the award in person. ([[works/taiwaneseamericanhistory-org/ourjourneys311|紐約首府區台灣同鄉會及台美文化促進會簡介]])
 - **1988 — Census recognition campaign:** Peng and 蔡同榮 traveled from the East Coast to Los Angeles for Rep. Mervyn Dymally's talk at the USC Hilton, organized by TACL in support of a self-identified "Taiwanese" line in the U.S. Census — a visible show of national-community solidarity behind the effort. ([[works/taiwaneseamericanhistory-org/ourjourneys253|Our Journeys #253 — TACL memoir]])
 - **2017 — Memoir reissue, "unfinished wish":** Peng's memoir was republished in April 2017; 李秉芳's feature on the reissue framed it around Peng's unfinished wish — 台灣正名制新憲 (right-name Taiwan, draft a new constitution). ([[works/taiwaneseamericanhistory-org/mystories543|Our Stories #543 — 回憶錄重新出版，彭明敏未完心願]])
+- **1964 — Influence on the overseas advocacy wave:** The 自救宣言's publication in September 1964 directly inspired the Philadelphia group (羅福全、蘇金春) to place the "Let the people of Taiwan decide their future" ad in the New York Times (Nov 20, 1966), a response to the manifesto proposed by the Canadian Human Rights Committee. ([[works/taiwaneseamericanhistory-org/ourjourneys81|Our Journeys #81 — NYT Ad "Taiwan belongs to the Taiwanese"]])
+- **1970 escape — "Countdown" account:** 唐培禮 (trans. 賴秀如) left a detailed countdown account of the escape process from Peng's house arrest to Stockholm, which complements the page's narrative of the 1970 escape. ([[works/taiwaneseamericanhistory-org/ourjourneys194|Our Journeys #194 — Professor Peng Ming-min's escape from Taiwan: Countdown]])
+- **FAPA chair and diaspora academic circles:** Peng served as chairman of FAPA (the Foundation for Formosan Public Affairs, headquartered in Washington, D.C.);翁登山 (FDA official) served as his volunteer secretary during those years ([[works/taiwaneseamericanhistory-org/ourjourneys152|Our Journeys #152 — 陳仲欽 memoir, 台灣寮]]). In February 1989, Peng participated as a speaker at the Taiwan Hsieh-Chih Association (台灣協志會) academic symposium in Palo Alto (alongside 林宗義、陳芳明 and others). ([[works/taiwaneseamericanhistory-org/ourjourneys37|Our Journeys #37 — 台灣協志會 20th anniversary]])
 
 ## Death and Memorial
 
