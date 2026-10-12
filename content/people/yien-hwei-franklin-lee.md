@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Yien-hwei Franklin Lee (李彥輝醫師)
 
@@ -71,3 +71,7 @@ Corpus grep over content/works and content/articles for 李彥輝 / Franklin Lee
 ## Deepen-x 2026-10-10 (slice 10090315-20) — SKIP with reason
 
 Fresh grep across all 5 corpus dirs (李彥輝 / Franklin Lee / Yien-hwei / 彥輝) returns the identical saturated hit set already linked on this page: encyclopedia #229–#232, essays #287/#480/#144, Who's Who #436, and his papers collection. Surname-variant sweep (李彥) surfaced only 李彥禎 (a different author — My Stories #70/#191/#239/#715/#781 etc.) and 李彥秀 (#921), not this person. No new third-party memoir material. No web, no new pages, nothing published.
+
+## Deepen-x 2026-10-12 (slice 10112243-32) — SKIP with reason
+
+Fresh 5-dir grep (李彥輝 / Franklin Lee / Yien-hwei / 彥輝) returns the identical saturated hit set already linked above. Cross-check of the two organization pages that reference him — [[organizations/taiwanese-association-of-america-greater-philadelphia|TAAGP]] (NTU alumni chapter first president, per #230) and [[organizations/hsinchu-high-school-alumni-association-of-north-america|北美新竹中學校友會]] (founding president 2004, regional chapter first per #232) — yields no facts absent from this page; both already wikilink his records. The 232 record's "regional chapter first, continental body later" sequence is already reflected in Community Leadership. No new third-party memoir or corpus material. No web, no new pages, nothing published.
