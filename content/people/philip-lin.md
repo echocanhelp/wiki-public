@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Philip Lin (林水泉)
 
@@ -99,6 +99,7 @@ last_reviewed: 2026-10-11
 
 <!-- TJJ-A10100401-13: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10100401-13 article 20250216000009_root_3be67f6e82d34da7 (台美人台加人分類存檔頁2, 2025-02-16快照) read fresh this attempt: subject link re-checked vs 正文 — 「國家人權委員會『林水泉遭受國家行政不法侵害人身自由案』公布記者會」(2021-07-13) 條目逐字確認見於收錄清單, real, no wrong/spurious links; 2021-07-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
+<!-- DEEPEN-X10110100-15: re-grep 2026-10-12 — ZH+EN+surname (林水泉/Philip Lin/philip-lin) across works/articles/sources/events/topics returns the saturated hit set (ourjourneys74 + eng, ourjourneys230, our-journeys-363, ff303, whos1287, 謝清志林水泉回台被毆 record, TJJ 2023-03-16 / 2025-07-18 / 3be67f6e / e3440fec); no new absorbable material. last_reviewed bumped. -->
 <!-- TJJ-A10110001-19: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110001-19 article 20250216000009_category_taiwaneseamerican_page_2_3be67f6e82d34da7 (台美人台加人分類存檔頁2, TJJ 快照 2025-02-16) read fresh this attempt: Subjects link re-checked vs 正文 — 「國家人權委員會『林水泉遭受國家行政不法侵害人身自由案』公布記者會[影]」(July 13, 2021) 條目逐字確認見於收錄清單, real, no wrong/spurious links; 2021-07-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 ## 照片
