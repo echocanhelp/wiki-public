@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Allen Chang (張伯寬)
 
@@ -38,6 +38,7 @@ last_reviewed: 2026-10-10
 - His TAH Who's Who encyclopedia entry is held as a work page: [[works/taiwaneseamericanhistory-org/whos-allen-chang||TAH #2053 Allen Chang 張伯寬 / 03/2018]].
 - Corpus re-grep 2026-09-25 (slice-09231000-19): hit set unchanged — own encyclopedia entry [[works/taiwaneseamericanhistory-org/whos-allen-chang|TAH #2053]], [[works/taiwaneseamericanhistory-org/ourjourneys33|Our Journeys #33]], [[works/taiwaneseamericanhistory-org/ourjourneys63|#63]] and the works index, all already absorbed above. Verified-saturated; no new corpus facts.
 - 2026-09-25 corpus re-check (deepen-x slice 09250317-14): fresh grep 張伯寬/Allen Chang over works+articles returns the identical set (whos-allen-chang, ourjourneys33, ourjourneys63, works index) — all already linked above. Verified-saturated; SKIP-no-new-facts.
+- The byline 許台俊 is his own pen name: 許台俊's own memoir [[works/taiwaneseamericanhistory-org/ourjourneys207||Our Journeys #207 年會感言 (2016-03)]] states plainly 「公論報刊登一篇署名許台俊(已過世的同事張伯寬先生)的文章」, confirming the byline attribution of the〈一個會說台灣話的四腳仔台灣人〉article and the 四腳仔官司 record from the primary memoir itself.
 
 ## Family
 
