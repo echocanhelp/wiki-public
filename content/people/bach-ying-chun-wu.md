@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Bach Ying-Chun Wu (吳英俊)
 
@@ -97,3 +97,4 @@ The preface quoted above was written by [[people/tyzen-hsiao||Tyzen Hsiao (蕭�
 <!-- TJJ-A10090701-21: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090701-21 article 11aa2dfa5f64d7e4 (楊子清 tag頁, TJJ 2020-09-30 / 2021-01-17 快照): 「TUF 台灣文化之夜 1994 – …吳英俊」條目確認見於正文; subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10100701-10: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-10 article 11aa2dfa5f64d7e4 (楊子清 tag頁, TJJ 2020-09-30 / 2021-01-17 快照): 「TUF 台灣文化之夜 1994 – …吳英俊」條目確認見於正文; subject link re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- DEEPEN-X10110600-5: verified 2026-10-12 — corpus re-grep (吳英俊 / Bach Ying-Chun Wu / Ying Chun Wu) across works/articles/sources/events/topics: hits = 4 publication pages (1309–1312), whoswho1476, musician383, works/index, 楊子清 tag頁, OJ #301, 上媠的手, sources/taiwaneseamericanhistory-org — all already cited/wikilinked on this page. Other 英俊 matches are unrelated (海英俊 台達董事長, 蔡英俊 檢察官, 郭英俊 in OJ #301 — HOLD entry above stands, 英俊 as adjective). No new material — saturated. -->
