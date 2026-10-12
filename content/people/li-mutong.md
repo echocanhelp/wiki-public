@@ -9,7 +9,7 @@ tags:
   - publisher
   - community-leader
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # 李木通 (Li Mutong)
 
@@ -92,6 +92,9 @@ last_reviewed: 2026-10-11
 - 1969 — 與夫人王瑾瑾出席 Rancho Park Golf Club 約兩百人之台灣同鄉會活動；王瑾瑾應黃根深之邀撰寫活動感想刊於同鄉會 newsletter —— [[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys #212]]。
 - 1978-01 — 與陳惠亭、陳居、郭勝也、林正德、顏樹洋、余哲明、楊省道、黃森元及楊遠薰於西區共同成立西區生活座談會；太平洋時報發生危機期間，與黃森元、陳惠亭先後出任發行人、社長 —— [[works/taiwaneseamericanhistory-org/ourjourneys212|Our Journeys #212]]。
 - 2016-08 — 撰文「半世紀前 UCLA 的那些日子」（黃樹人策劃企劃；與談人李木通、劉天良、黃根深，即 2016-03-09 座談，對應上方 TJJ 存檔條目）—— [[works/taiwaneseamericanhistory-org/ourjourneys240|Our Journeys #240]]。
+- 2018-04-01 — 洛杉磯信賴之友會募款餐會，與陳文石同為召集人並致詞 —— [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|TJJ 台美人台加人存檔頁（2024-05-20 快照）]]。
+- 2024-09-05 — 以美洲台灣日報社長身分策劃「台美人物誌」王克雄博士影音／文字專訪系列（大洛杉磯台灣會館、美洲台灣日報、美國鷹社共同贊助，黃樹人文字整理）—— [[articles/taiwanjustice-net/2024/20240905070707_root_a4f51e89fe5a4080|TJJ a4f51e89]]。
+- 2025-08-11 — 以美洲台灣日報社長身分專訪台獨先鋒人權鬥士王泰（攝錄黃樹人、文字整理 Edda Huang），刊於「化作千風—懷念台美人的人權鬥士」系列 —— [[articles/taiwanjustice-net/2025/20250811013132_化作千風_懷念台美人的人權鬥士_台獨先鋒王泰_31b7081a5d37939f|TJJ 31b7081a]]。
 - HOLD（日期）：本頁記 1970 完成博士、1971 畢業；Our Journeys #240 自述「1966~1972 在 UCLA」—— 兩說並存，不自動合併。
 
 ## Source Notes and Confidence
