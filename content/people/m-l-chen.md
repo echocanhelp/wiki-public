@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # M. L. Chen (陳夢蘭)
 
@@ -69,3 +69,5 @@ Slice deepen-x-slice-09260600-1 (2026-09-27): fresh re-grep (ZH+EN, works+articl
 Slice deepen-x-slice-10081200-27 (2026-10-10): fresh ZH+EN re-grep across all 5 corpus dirs — hit set identical (ourjourneys50, our-journeys-350, ourjourneys244, ourjourneys54, whoswho1031, index, sources). Absorbed the previously-unrecorded dispute detail from ourjourneys50 (蕭華銓 faction grievance: 陳夢蘭 frequently staying with his daughter in New York and missing meetings; his own KMT-loyalist concern; 曾輝光 as broker; clean archive handover to 陳銓仁). No other new material. 1 corpus-linked detail deepened.
 
 Slice deepen-x-slice-10100900-8 (2026-10-11): fresh ZH+EN re-grep across all 5 corpus dirs — hit set identical (ourjourneys50, our-journeys-350, ourjourneys244, ourjourneys54, whoswho1031, index); all hits already wikilinked/absorbed; verified-saturated, SKIP, 無新材料.
+
+Slice deepen-x-slice-10110600-9 (2026-10-12): fresh ZH+EN re-grep across all 5 corpus dirs — hit set identical (ourjourneys50, our-journeys-350, ourjourneys244, ourjourneys54, whoswho1031, index, sources); all hits already wikilinked/absorbed; verified-saturated, SKIP, 無新材料.
