@@ -8,7 +8,7 @@ tags:
   - pharmacist
   - radio-host
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Zheng Shaoliang (鄭紹良)
 
@@ -53,6 +53,7 @@ TAH story-corpus memoirs in the vault describe a **鄭紹良** as a leader of th
 - **1974** — When 康寧祥 made his second visit to the U.S. and entered via Seattle, 鄭紹良 (living there) arranged the contact; 協志會 members 黃呈嘉 and 黃介山 drove overnight from San Francisco to Seattle just to meet him — an early knot tying overseas Taiwanese to the island's tangwai ([[works/taiwaneseamericanhistory-org/our-journeys-357||Our Journeys 357]], citing 張炎憲's 鄭紹良訪談紀錄 in 戴寶村 ed., *青春．逐夢．臺灣國：開枝*, 2016, pp. 53–122).
 - **Chairman lineage** — The roster of U.S. headquarters officers of the 台灣獨立建國聯盟 (1956–1999, fourteen leaders) lists 鄭紹良 (土木) among the chairmen, after 蔡同榮 ([[works/taiwaneseamericanhistory-org/ourjourneys234||Our Journeys 234]]); the English central-committee list names him as **Shao Liang Cheng** ([[works/taiwaneseamericanhistory-org/ourjourneys81-eng||Our Journeys 81-eng]]).
 - **Early 1980s, Southern California** — After moving there, introduced 吳澧培 to 林衡哲 as a "Taiwan cultural comrade-in-arms"; helped coordinate the Chinese translation of 彭明敏's *The Taste of Freedom 自由的滋味* (translated by 莊瑞穂 under the pen-name 林美惠) and co-nurtured the 台灣出版社, which made the book a bestseller.
+- **Early 1980s, Los Angeles — 美麗島週報社 founding circle** — A 2022 memoir-style article (reprinted from Storm Media) lists 鄭紹良 among the dozens of founders of the "美國美麗島週報社" in Los Angeles, alongside 許信良, 謝聰敏, 許丕龍, 楊加猷, 江昭儀, 陳芳明, 羅慕義, 孫慶餘 and others, which published the *美麗島週報* as a "professional" (職業革命家) anti-KMT operation in the early 1980s ([article](articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107.md)). The roster overlaps the Seattle circle (陳芳明, 孫慶餘) recorded in 林衡哲's memoir, consistent with a single movement figure. *(Secondary press reprint — attributed, not independently verified.)*
 
 ## Source Notes and Confidence
 
