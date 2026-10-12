@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Taiwanese Association of America Greater Washington (華府台灣同鄉會)
 
@@ -21,7 +21,7 @@ The Taiwanese Association of America Greater Washington Chapter (TAAGWC, 華府�
 ## Timeline
 - 1967–1968 — Predecessor organization TAA Baltimore/Washington led by Norman Chen 陳淮崇 (1967) and Kenneth C. Yang 楊基規 (1968), per 華府台灣同鄉會歷屆會長芳名錄 in [[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys 138]].
 - 1969 — First recorded president of the TAA Greater Washington Chapter: Frederic Wang 王穎裕; successive chairs through the 1970s include 陳哲仁 (1970), 賴經都 (1971), 張學賢 (1972), 潘昭治 (1973), 江應鐘 (1974), [[people/andrew-y-lee|Andrew Y. Lee 李友義]] (1975), 蔡文博 with VP 黃俊平 (1976).
-- 1994–2000 — 華府台灣同鄉會於 1994 年末決議成立台灣文化中心籌備委員會；華府台灣文化中心於 2000 年 3 月正式成立為獨立操作的非營利免稅組織，為華府台灣人及社團提供固定活動場所 — per 華府台灣文化中心簡介 (黃泰郎, 2014-09), [[works/taiwaneseamericanhistory-org/ourjourneys25|25. 華府台灣文化中心簡介 / 黃泰郎 / 2014-09]].
+- 1994–2000 — 華府台灣同鄉會於 1994 年末決議成立台灣文化中心籌備委員會；華府台灣文化中心於 2000 年 3 月正式成立為獨立操作的非營利免稅組織，為華府台灣人及社團提供固定活動場所 — per 華府台灣文化中心簡介 (黃泰郎, 2014-09), [[works/taiwaneseamericanhistory-org/ourjourneys25|25. 華府台灣文化中心簡介 / 黃泰郎 / 2014-09]]. English text of the same memoir adds: 1999-11-12 籌備會完成非營利申請、2000-03-09 正式開幕；2003-12 取得現址 (7509 Needwood Rd, Derwood, MD)、2004-01-10 首次 Open House — [[works/taiwaneseamericanhistory-org/ourjourneys25-eng|25-eng. Greater Washington D.C. Taiwan Culture Center / Tai-lang Huang]].
 - 2008 — Chapter council (理事會) recorded in 華府台灣同鄉會歷屆會長芳名錄 in [[works/taiwaneseamericanhistory-org/ourjourneys-138|Our Journeys 138]]: 會長 Kwei-Yang Chang 張貴洋, 秘書 Janice Wu 吳玉琴, 財務 Ted Chang 張懷德, 鄉訊 Stephen Hung 洪啟峰. 同年的 [[works/taiwaneseamericanhistory-org/publications1039|1039. 華府台灣同鄉會四十週年特刊 / 2008-11]] 為本會四十週年紀念特刊 (HOLD: work frontmatter cataloging date 2016-10-31 vs title's 11/2008 — likely a later cataloging date, not merged).
 - 2015 — July 4 獨立紀念日大遊行：歷屆會長謝榮春以 TAIDP（台美人獨立紀念日遊行團隊）名義連續八年（約 2008–2015）取得參加權，2015 再獲邀，華府台灣同鄉會與巴城台灣同鄉會合作共辦；吳玉琴、黃美鳳等會長積極領導催生，當天 60 餘人參加，多為華府台語學校師生家長 — per 陳美麗, [[works/taiwaneseamericanhistory-org/ourjourneys150|150. 驕傲的在遊行隊裡 / 陳美麗 / 2015-07]]. (HOLD: 黃美鳳 absent from the chapter past-president list above; 吳玉琴 recorded as 秘書 in 2008 but called 會長 here — not merged.)
 - 2015 — Chapter record of community advocacy: 華府亞太裔傳統週 Asian-Pacific American Heritage Week, in [[works/taiwaneseamericanhistory-org/8-asian-pacific-american-heritage-week-washington-d-c|8. Asian-Pacific American Heritage Week, Washington, D.C.]] (HOLD: author "潘昭治" vs the 1973 chapter president of the same name — likely the same person, not merged).
