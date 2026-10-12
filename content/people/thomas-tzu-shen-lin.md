@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Thomas Tzu-Shen Lin (林資深博士)
 
@@ -78,3 +78,6 @@ Research Associate
 
 ## Corpus re-grep (2026-10-10, slice 10091404-8)
 - SKIP: ZH+EN re-grep（林資深 / Tzu-Shen Lin）across works/articles/sources/events/topics — hit-set unchanged（ourjourneys12、ourjourneys307、mystories-114、mystories114-eng、176、178、115），全數已吸收並 wikilink，無新增社群材料（saturated）。Broad 資深 / Thomas-Lin greps returned only false positives (資深 as "senior" in unrelated memoirs; Thomas Liao / Thomas Liu / Blind Thomas Wiggins — different people).
+
+## Corpus re-grep (2026-10-12, slice 10102200-17)
+- SKIP: ZH+EN re-grep（林資深 / Tzu-Shen Lin / broad Thomas-Lin）across works/articles/sources/events/topics — hit-set unchanged（ourjourneys12、ourjourneys307、mystories-114、mystories114-eng、176、178、115），全數已吸收並 wikilink（saturated）。Two apparent new hits verified as false positives: `my-stories-897`（Tom = Dr. Tom Yang; Echo Lin / John Lin = 別人在費城同學圈，林資深 1955 年尚在台南就學，非同一人）and `ourjourneys186-eng`（regex 命中 Thomas Liu 於 TACL 籌備委員名冊，非本人）。
