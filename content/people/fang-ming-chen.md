@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Fang-Ming Chen (陳芳明博士)
 
@@ -46,6 +46,11 @@ Author of numerous publications on Taiwanese history and literature, including w
 - **Featured at overseas cultural events** — headliner alongside 陳永興、謝里法、呂秀蓮 at the first 《台灣文化之夜》 in Los Angeles, May 1986, which drew 500+ and seeded 太平洋時報 ([[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys 301, 南加州台灣人聯合基金會]]); invited to the 鄉情座談會 with 張富美、艾琳達 at the 1994 北加州台灣同鄉會聯合會 ([[works/taiwaneseamericanhistory-org/ourjourneys142|Our Journeys 142]]).
 - **Public-education lecturer on 台灣新文學史 / 台灣政治運動史** — the taiwanjustice-net archive preserves listings for his recurring 民視台灣學堂 lecture series: 《台灣新文學史》 episodes 2017–2019 (e.g. 20171130 「人文精神發揚：靜態知識思維轉為具體國家關懷」, 20181115 「台灣新文學先行者賴和」, 20190627 「國際局勢變化影響台灣70年代文壇風景」) and 《台灣政治運動史》 20180823 「翁澤生假第三國際之名 跨海指導台共方針」 ([[articles/taiwanjustice-net/2017/20171204045719_category_videos_民視台灣學堂_4b4cf349f41aed9f|民視台灣學堂 20171130]], [[articles/taiwanjustice-net/2023/20230607051221_tag_國際局勢_32aed99f599ce875|20190627 listing]]); the 10th anniversary of 《台灣新文學史》 (2020) is quoted with his line 「文學讓人和解」 ([[articles/taiwanjustice-net/2023/20230930234205_category_taiwan-news_03096fa670cef518|taiwan-news listing]]).
 
+- **Founding member of the LA 「美國美麗島週報社」 circle** — 陳昭南's 2022 memoir on the overseas "職業革命家" turn after 美麗島 lists 陳芳明 among the few dozen LA-based members (alongside 許信良、許丕龍、羅慕義、胡忠信) who founded 「美國美麗島週報社」 and published 美麗島週報 to wage full-time ("職業") anti-KMT organizing, the era that also fed the 「遷黨回台」 strategy debate ([[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107|陳昭南, 籌謀台灣「不流血革命」]]).
+- **Public intellectual on China/ROC issues** — 2017: condemned the PRC's secret detention of 李明哲 as 「毫無文明水準的審判」 and demanded an open trial ([[articles/taiwanjustice-net/2024/20240718231052_root_cfe5bc5864ec0001|定罪李明哲「毫無文明水準」 陳芳明]]); 2016: published 「(台灣) 和平改革與民進黨」 in 蘋果日報 ([[articles/taiwanjustice-net/2024/20240716124943_root_e799ab903867d6e2|link listing]]); his 美麗島事件 framing — 「一個歷史的終結，也預告着一個歷史的開端」 — is quoted in 龍應台's 2019 essay on China's 「黑色星期五」 ([[articles/taiwanjustice-net/2024/20240620193812_root_504d78d8e5af3210|龍應台 essay listing]]).
+- **Literary-community advocacy** — Jan 2024: joined ~200 writers and cultural figures (平路、邱坤良 et al.) in the 文藝界 endorsement of 吳音寧 for 彰化 立委, arguing 「給文學1席立委」 ([[articles/taiwanjustice-net/2024/20240104051145_root_abfd65e9be66877f|文藝界挺音寧連署]]).
+- **民視台灣學堂 continued** — further episodes preserved: 《台灣政治運動史》 20180426/20180830/20180906 on 謝雪紅 and 二七部隊 ([[articles/taiwanjustice-net/2024/20240530124238_root_1f10140e7e87fd0e|20180906 listing]], [[articles/taiwanjustice-net/2024/20240719123319_root_e4ea76fa6cccdb77|20180830 listing]]); 《台灣新文學史》 20191212 「台灣報紙文學獎興起」, 20191226 「美麗島事件震驚國際」, 20200102/20200109 on the 1970s 鄉土書寫 era ([[articles/taiwanjustice-net/2025/20250327192259_tag_民視台灣學堂_page_49_344c2308897e135d|20191212 listing]], [[articles/taiwanjustice-net/2025/20250719121455_tag_台灣新文學史_9bb9d90d8e5d41f8|20191226/20200109 listing]]).
+
 ## Family
 
 _No filled family fields on the TAH profile._
@@ -62,3 +67,4 @@ _No filled family fields on the TAH profile._
 <!-- deepen-x slice 09221300-3 re-verify 2026-09-23: fresh grep — identical hit set (ourjourneys8/76/123-eng, ourjourneys76, 461, whoswho190); all absorbed; no new facts -->
 <!-- deepen-x slice 10081100-8 2026-10-09: fresh ZH+EN grep across 5 corpus dirs — new material absorbed: 協志會 (TAI) 228學術討論會 convener role (ourjourneys37/-eng); other hits (ourjourneys8/106/142/238/245/301/379, works 397-401/461, whoswho190, index) already absorbed; ourjourneys58 hit is 林芳明 (different person, not linked) -->
 <!-- deepen-x slice 10100800-20 2026-10-11: fresh ZH+EN grep across 5 corpus dirs — all 23 works/ hits already absorbed in prior passes; NEW material absorbed from articles/taiwanjustice-net: 民視台灣學堂 《台灣新文學史》/《台灣政治運動史》 lecture-series listings 2017–2019 + 「文學讓人和解」 10th-anniversary quote (2020) -->
+<!-- deepen-x slice 10110400-16 2026-10-12: fresh ZH+EN grep across 5 corpus dirs — NEW material absorbed from articles/taiwanjustice-net: 陳昭南 memoir founding-member credit for LA 美國美麗島週報社 (2022), 李明哲 2017 advocacy, 龍應台 美麗島-quote (2019), 吳音寧 文藝界連署 (2024), extra 民視台灣學堂 episodes (2018 謝雪紅/二七部隊; 2019–2020 美麗島/鄉土書寫). 23 works/ hits unchanged, already absorbed. -->
