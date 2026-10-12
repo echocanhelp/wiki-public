@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Peggy Huang (黃瑞雅)
 
@@ -86,3 +86,5 @@ Re-grep 黃瑞雅|Peggy Huang: works hit set unchanged (ota-292, whos-who-2199, 
 <!-- DEEPEN-X10100800-27: verified 2026-10-11 — fresh ZH+EN+surname (黃瑞雅|Peggy Huang|黃景安) grep across all 5 corpus dirs returned the identical hit set as prior passes (works: ota-292, whos-who-2199, ms-peggy-huang-for-u-s-representatives, our-journeys-380, peggy-huang, index; articles: 117bdbbd9b362236, ab91fdd76a1f4c9c, 2fd56236c9f861c6, tag_共和黨 af0278446ed1626b = index listing of the same 2019-12 台灣公義報 notice already absorbed; sources: taiwaneseamericanhistory-org) — every hit already cited on this page. SKIP, saturated; no new material, no conflicts to HOLD. -->
 
 <!-- TJJ-A10101401-2: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10101401-2 article 117bdbbd9b362236 (台灣來美的外省第二代周文偉到台美人教會開槍殺人, LA Times/CNA 綜合報導, 2022-05-16刊/2022-07-05快照) read fresh this attempt: subject link re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10110400-24: verified 2026-10-12 — fresh ZH+EN+surname (黃瑞雅|Peggy Huang|黃景安) grep across all 5 corpus dirs returned the identical hit set as prior passes (works: ota-292, whos-who-2199, ms-peggy-huang-for-u-s-representatives, our-journeys-380, peggy-huang, index; articles: 117bdbbd9b362236, ab91fdd76a1f4c9c, 2fd56236c9f861c6, tag_共和黨 af0278446ed1626b = index listing of the same 2019-12 台灣公義報 notice already absorbed; sources: taiwaneseamericanhistory-org) — every hit already cited on this page. SKIP, saturated; no new material, no conflicts to HOLD. -->
