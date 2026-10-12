@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # John Liu (劉宗憲)
 
@@ -53,3 +53,4 @@ last_reviewed: 2026-10-11
 <!-- deepen-x slice 10071520-1 re-verify 2026-10-09: fresh ZH+EN grep (劉宗憲 / John Liu) over all five corpus dirs — identical hit set: own record #1458, 自傳 contribution #1046 (both absorbed), plus 劉醇逸 disambiguation hits (ota-148, dinner-with-john-liu, ourjourneys5 捐款 record — HOLD maintained). No new community material. Verified-saturated. -->
 <!-- deepen-x slice 10090800-9 re-verify 2026-10-10: fresh ZH+EN grep (劉宗憲 / John Liu) over works/articles/sources/events/topics — identical hit set: own record #1458, 自傳 contribution #1046 (both absorbed), plus 劉醇逸 disambiguation hits (ota-148, dinner-with-john-liu-nyc-comptroller, ourjourneys5 捐款 record — HOLD maintained; the dinner-with-john-liu work page's people/john-liu subject tag remains a mis-tag for 劉醇逸). No new community material. Verified-saturated. -->
 <!-- deepen-x slice 10101100-14 re-verify 2026-10-11: fresh ZH+EN grep (劉宗憲 / John Liu / 宗憲) over all five corpus dirs — identical absorbable set: own record #1458, 自傳 contribution #1046 (both absorbed), plus 劉醇逸 disambiguation hits (HOLD maintained). New false-positive hits surveyed and rejected: ourjourney-343 matches only 吳宗憲 (Peter Wu, different person); taiwanjustice-net news matches are 宗憲/John Liu in unrelated contexts (no 劉宗憲 match anywhere in that corpus). No new community material. Verified-saturated. -->
+<!-- deepen-x slice 10110800-14 re-verify 2026-10-12: fresh ZH+EN grep (劉宗憲 / John Liu) over all five corpus dirs — identical hit set: own record #1458, 自傳 contribution #1046 (both absorbed), plus 劉醇逸 disambiguation hits (ota-148, dinner-with-john-liu, ourjourneys5 捐款 record — HOLD maintained). ZH-only grep adds nothing beyond the two absorbed works plus works/index.md and sources/taiwaneseamericanhistory-org.md (index/source pages, not new material). No new community material. Verified-saturated. -->
