@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Father Brendan O’Connell (甘惠忠神父)
 
@@ -81,3 +81,5 @@ Corpus re-grep (2026-10-10, slice deepen-x-10081300-7): SKIP — hit set unchang
 <!-- TJJ-A10090801-9: verified 2026-10-10 — wave-2 link+deepen re-check of slice 10090801-9 article 2ac7d75679fda7fe（台灣鄉情與文化 分類頁3, 2020-06-28快照）read fresh this attempt: subject link re-checked vs 正文 — 「甘惠忠神父奉獻台灣半世紀 紐約過世享壽84歲」逐字確認見於正文, real, no wrong/spurious links; 2020-04-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 Corpus re-grep (2026-10-11, slice deepen-x-10100900-27): SKIP — hit set unchanged. Fresh ZH+EN grep (甘惠忠 / O'Connell / Brendan) across all 5 corpus dirs returns the saturated set: #2255 bibliography page, works/index, sources/taiwaneseamericanhistory-org, and 台灣正義網 category/tag pages (2020 culture p2/p3, taiwan-culture p2, 民視台灣學堂 videos p2, 2025 這些人這些事 tag p3) that re-list the already-cited obituary (2020-04-16) and 民視台灣學堂 memorial episode 令人懷念的早療先驅甘惠忠神父—盧俊義 (2020-06-01). English-name-only grep hits are false positives (Brendan Fraser, Brendan Carr FCC, Australian MP Brendan O'Connor, 奧斯卡/EVAAAO coverage). No memoir narrative; nothing new absorbable; no conflicts to HOLD.
+
+Corpus re-grep (2026-10-12, slice deepen-x-10110600-28): SKIP — hit set unchanged. Fresh ZH+EN grep (甘惠忠 / O'Connell / Brendan) across all 5 corpus dirs returns the identical saturated set: #2255 bibliography page, works/index, sources/taiwaneseamericanhistory-org, and the 台灣正義網 listing/tag pages (2020 culture p2/p3, taiwan-culture p2, 民視台灣學堂 videos p2, 2025 這些人這些事 tag p3, 2024-04-23 國慶報導) that re-list the already-cited obituary and memorial episode. English-name hits remain false positives (EVAAAO/奧斯卡, FCC, Australian MP Brendan O'Connor). No memoir narrative; nothing new absorbable; no conflicts to HOLD.
