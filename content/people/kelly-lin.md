@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Kelly Lin (林雨潔博士)
 
@@ -66,3 +66,5 @@ _No filled family fields on the TAH profile._
 > Deepen-x 10090800-11 (2026-10-10): fresh ZH+EN grep across all five corpus dirs — same hit set, but the new-age-old-ways interview text (Peter Lin naming the Chicago industrial-designer Kelly Lin directly) now supports the name-collision HOLD explicitly; absorbed as a resolved-collision note with the biography conflict flagged, no merge.
 
 > Deepen-x 10101100-28 (2026-10-11): fresh ZH+EN grep (林雨潔 / Kelly Lin / 雨潔) across works/ + articles/ + sources/ + events/ + topics/ — hit set adds 19-things-that-happened-in-taiwan-taiwanese-america-in-2019 (2019 roundup crediting Kelly Lin with the New Age, Old Ways comic book, no 漢名), absorbed as a collision-consistent mention; own TAH records (whoswho1301/musician367), indexes, and prior HOLDs unchanged. Verified-saturated otherwise.
+
+> Corpus re-grep 2026-10-12 (slice 10110800-28): fresh ZH+EN grep (林雨潔 / Kelly Lin / 雨潔) across works/ + articles/ + sources/ + events/ + topics/ — hit set identical to prior slices (own TAH records whoswho1301/musician367 + works/sources index + the three already-linked/HOLDed works pages; the taiwanjustice-net AIT article hit is a negative-link note — 克拉夫特 Kelly Craft ≠ Kelly Lin, kelly-lin explicitly not mislinked there). Verified-saturated, SKIP-with-reason, no new absorbable material.
