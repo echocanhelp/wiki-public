@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Dr. Chi-Cheng Huang (黃至成醫師)
 
@@ -64,3 +64,4 @@ Re-grepped 黃至成|Chi-Cheng Huang across works+articles: identical hit set (1
 - Corpus re-grep 2026-09-17 (slice 09170130-3): hit set unchanged (141/209 街童 essay, OJ 162/291, #236/#600, mystories-673) — all absorbed above; nothing new absorbable, Kaya naming HOLD stands. SKIP-no-new-material.
 - Corpus re-grep 2026-09-17 (slice 09170500-1): hit set unchanged (141/209 街童 essay, OJ 162/291, #236/#600, mystories-673) — all absorbed above; nothing new absorbable, Kaya naming HOLD stands. SKIP-no-new-material.
 - Corpus re-grep 2026-10-10 (slice 10090500-32): 5-dir grep surfaced one new hit — taiwanjustice.net aggregation page recording the 民視台灣學堂「這些人這些事」broadcast 「在玻利維亞幫助街童的黃至成醫師(二)」(2018-01-24), absorbed into Role in the Community above. Other new "Kaya" hits (ed-lin articles) are Kaya Press/Kaya Blaze — unrelated. All prior hits still absorbed; Kaya naming HOLD stands.
+- Corpus re-grep 2026-10-12 (slice 10120400-29): 5-dir grep 黃至成|Chi-Cheng Huang|至成 — the four extra hits (ourjourneys277/81/268, taiwanjustice 2026-01-18 陳文成 article) are substring false positives (「甚至成為」/「陳文成」), not mentions of this person. Real hit set unchanged (141/209 街童 essay, OJ 162/291, #236/#600, mystories-673) — all absorbed above; nothing new absorbable; Kaya naming HOLD stands. SKIP-no-new-material.
