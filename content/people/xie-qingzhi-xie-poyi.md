@@ -9,7 +9,7 @@ tags:
   - medical
   - family
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Xie Qingzhi & Xie Poyi (謝清志、謝泊怡)
 
@@ -56,6 +56,9 @@ The Xie family represents three generations of professional achievement and unwa
 - **2021 WHA support statement (SoCal):** listed among the 共同發起人 of the overseas Taiwanese community statement supporting Taiwan's participation in the World Health Assembly ([[articles/taiwanjustice-net/2021/20210616072940_2021_05_17_2021年南加州僑界支持台灣參與世界衛生大會wha聯合聲_b1d58af16c0a5e5b|2021-05-17 WHA 聯合聲明]])
 - **大洛杉磯台灣會館耆老講座 (2024-09-07):** panelist on「返台任職的心路歷程」with 郭清江、許清煌 ([[articles/taiwanjustice-net/2025/20250216032153_tag_大洛杉磯台灣會館耆老講座_20053f0a17b89c07|2025-02-16 coverage]])
 - **TAHS 回憶錄座談會 (2023-03-25):** speaker at 大洛杉磯台灣會館; his memoir《生命的震動》on the 南科減振案 was discussed ([[articles/taiwanjustice-net/2023/20230601053743_2023_03_20_台美人歷史協會3-25舉辦_如何寫回憶錄自傳座談會_e0c8343cf2888d43|2023-03-20 announcement]])
+- **2017 翁啟惠連署發起人:** after the Control Yuan impeached President Wen Jiahui during the Haiting (浩鼎) case — before any court finding — he initiated a petition that North American Taiwanese associations enthusiastically joined; the courts acquitted Wen in 2018-12, and he wrote to 自由時報 again in 2021 backing a renewed petition for Wen ([[articles/taiwanjustice-net/2023/20230530145556_2021_09_10_司法不公_國耻之最_海內外台灣人聲援翁啟惠連_59a68b9cd855c1bf|2021-09-10 聲援翁啟惠連署 call]], signed by 2017-petition liaisons)
+- **國策顧問 appointment:** listed among the 70 國策顧問 in the Presidential Office appointment roster (archive 2025-10-13; roster text dated 1110902) — corroborates the 國策顧問 title under which he spoke at the 2023-03-25 TAHS seminar ([[articles/taiwanjustice-net/2025/20251013095227_總統府公布遴聘及新聘資政27人國策顧問70人名單_fa7c957f552d76e9|總統府資政/國策顧問名單]])
+- **長青教室 lecture (2017-05-24):**「講真話 博真情」— a public lecture on speaking truth, in the 台美人台加人 long-running SoCal lecture series ([[articles/taiwanjustice-net/2024/20240620173328_root_2777c88877eee2c5|台美人台加人 series index]])
 - **Xie Poyi (謝泊怡 / Perry B. Shieh):** own TAH record [[works/taiwaneseamericanhistory-org/1581-perry-b-shieh-e8-ac-9d-e6-b3-8a-e6-80-a1-201703|1581. Perry B. Shieh 謝泊怡 / 2017-03]]
 - HOLD: [[works/taiwaneseamericanhistory-org/152-e7-b4-af-e7-a9-8d-e5-af-a6-e5-8b-99-e7-b6-93-e9-a9-97-e6-9c-89-e5-90-8d-e7-9|152. 累積實務經驗 有名的SAT老師 / 謝清志]] — same-name SAT teacher (2014); identity as this aerospace engineer unconfirmed, not merged
 
