@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Philip Wu (吳庭和)
 
@@ -82,3 +82,6 @@ Fresh ZH+EN sweep (`吳庭和|吴庭和|Philip Wu|Tien Ho Wu`) across works/arti
 
 ## Corpus re-sweep 2026-10-11 (deepen-x slice 10100849-21, vault-only)
 Fresh ZH+EN sweep (`吳庭和|吴庭和|Philip Wu|Tien Ho Wu`) across works/articles/sources/events/topics returned the unchanged saturated hit set: ourjourneys38 (ZH + eng), ota-252, whos-who-238, #124, #29, works/index, sources hub. All already absorbed above; no new corpus material. The 黃美星 vs May-Sing Chang HOLD (2026-10-10) stands — no vault document resolves it. 28th-President dating (after 26th 余舜華 (Shun Hua Yu, 2000 quake relief drive) / 27th 陳麗都 (Li-tu Chen, from 2000 Taiwan Culture Festival), early 2000s) unchanged. No web, no new pages, nothing published.
+
+## Corpus re-sweep 2026-10-12 (deepen-x slice 10110500-22, vault-only)
+Fresh ZH+EN sweep (`吳庭和|吴庭和|Philip Wu|Tien Ho Wu`) across all five corpus dirs returned the identical 7-file hit set (ourjourneys38 ZH + eng, ota-252, whos-who-238, #124, #29, works/index, sources hub) — saturated re-verify, zero new corpus material. The 黃美星 vs May-Sing Chang HOLD stands unresolved. No web, no new pages, nothing published.
