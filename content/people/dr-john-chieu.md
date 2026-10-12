@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Dr. John Chieu (邱忠男博士)
 
@@ -41,6 +41,7 @@ Community memoirs record Dr. Chieu as a central figure in the Texas Taiwanese-Am
 - **Blacklisted for movement leadership.** Per the Austin community history [[works/taiwaneseamericanhistory-org/ourjourney-343|343. Taiwanese Americans in Austin, Texas]], Chieu was placed on Taiwan's blacklist in the early 1970s because he served as president of the Taiwanese associations in both Austin and Houston and was outspoken for Taiwanese democratic freedom; blacklisted people could visit family in Taiwan only after martial law ended and the first democratically elected president, Tung-Hui Lee, took office.
 - **ROC blacklist roster.** [[works/taiwaneseamericanhistory-org/ourjourneys106|106. 中華民國的黑名單 / 何文亮、莊峻華 / 2015/02]] lists him among blacklisted Taiwanese Americans: 成大土木系出身、奧汀德大環境工程博士, then employed by 貝特工程公司; supported the Taiwanese independence movement and had three return-to-Taiwan applications denied in the year before writing. That roster records him as 同鄉會會長 in 八〇年 (1980) and taking the Houston chapter presidency again 「臨危受命」 around the time of writing (2015). HOLD: conflict — second presidency dated 1990 on the TAH profile vs c. 2014-2015 in the 2015 blacklist memoir. Employment also conflicts: State of Texas (TAH profile) vs 貝特工程公司/Bechtel (2015 blacklist memoir).
 - **Houston community-center building fund.** 莊承業's founding memoir [[works/taiwaneseamericanhistory-org/ourjourneys233|233. 回顧休士頓台灣人活動中心的成立 / 莊承業 / 07/2016]] has Chieu joining 建館基金負責人李雅彥、台灣學校吳連山、合作社曾昆聯 to inspect the future 台灣人活動中心 site (四月六日), and a second, interior inspection with his wife and 吳木盛夫婦 (五月十八日). HOLD: conflict — the interior inspection is dated 五月八日 in the English edition [[works/taiwaneseamericanhistory-org/ourjourneys233-eng|233 (English edition)]] vs 五月十八日 in the Chinese.
+- **1991 building-fund drive committee.** After the 台灣人活動中心 closed escrow on 1991-07-17, the foundation's 募款委員會 (fundraising committee) listed Chieu among its members under convener [[people/chao-yuh-yang|楊朝諭]], alongside 曾昆聯, 郭正光, 吳重華 and others — from 莊承業's memoir [[works/taiwaneseamericanhistory-org/ourjourneys233|233. 回顧休士頓台灣人活動中心的成立 / 莊承業 / 07/2016]].
 - His own TAH encyclopedia records are held at [[works/taiwaneseamericanhistory-org/whos-who-2258-john-chieu|2258. Dr. John Chieu 邱忠男博士 / 04/2020]] and an earlier edition [[works/taiwaneseamericanhistory-org/whos-who-2213|2213. John Y. Chieu / 09/2019]].
 
 ## Timeline (community record)
@@ -48,9 +49,11 @@ Community memoirs record Dr. Chieu as a central figure in the Texas Taiwanese-Am
 - early 1970s — Blacklisted by the ROC for Austin/Houston Taiwanese association leadership (from [[works/taiwaneseamericanhistory-org/ourjourney-343|Austin community history]])
 - 1980 — President, TAA Houston chapter (TAH profile; corroborated by [[works/taiwaneseamericanhistory-org/ourjourneys106|黑名單 roster]])
 - 1990 or 2014-2015 — Second TAA Houston presidency (HOLD: see conflict note above)
+- 1991-08 — Named member of the 募款委員會 for the Houston 台灣人活動中心, convener [[people/chao-yuh-yang|楊朝諭]] (from [[works/taiwaneseamericanhistory-org/ourjourneys233|莊承業 memoir]])
 - 2015 — Site and interior inspections for the Houston 台灣人活動中心 building fund (from [[works/taiwaneseamericanhistory-org/ourjourneys233|莊承業 memoir]])
 
 ## Re-grep log
+- Corpus re-grep 2026-10-12 (slice 10120000-7): fresh 5-dir grep (邱忠男/John Chieu/Chieu/John Y. Chieu) — identical hit set (ourjourney-343, ourjourneys106, ourjourneys233/-eng, whos-who-2258, whos-who-2213, index), all cited above incl. both HOLDs. One new absorbable fact: 莊承業 memoir names Chieu on the post-escrow (1991-08) 募款委員會 under convener 楊朝諭 — absorbed into Role + Timeline. Remaining hits unchanged.
 - Corpus re-grep 2026-10-10 (slice 10090400-9): fresh 5-dir grep (邱忠男/John Chieu/Chieu) — identical hit set (ourjourney-343, ourjourneys106, ourjourneys233/-eng, whos-who-2258, whos-who-2213, index), all cited above incl. both HOLDs; surname-only probe (忠男) additionally surfaced 施忠男 (Chung-Nan Shih) records — different person, not applicable. Saturated, SKIP new material.
 - Corpus re-grep 2026-09-25 (slice 09250800-5): fresh ZH+EN grep — identical hit set (ourjourneys233/-eng, whos-who-2213, ourjourneys106, ourjourney-343, whos-who-2258-john-chieu), all cited above incl. both HOLDs; still saturated, SKIP new material.
 - Corpus re-grep 2026-09-25 (slice 09240500-5): fresh ZH+EN grep — identical hit set, still saturated.
