@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Michael S. K. Chen (陳希寬博士)
 
@@ -67,3 +67,4 @@ last_reviewed: 2026-10-11
 - Corpus re-grep（陳希寬 / Michael S. K. Chen，2026-09-24，slice 09230900-1）：hit set unchanged（ourjourneys33、81、ff184、whos-michael-s-k-chen、publications-1354、our-journeys-370）— 全數已吸收；370「Mike Chen」HOLD 維持。SKIP-no-new-material。
 - Corpus re-grep（陳希寬 / Michael S. K. Chen，2026-10-10，slice 10090315-22）：新吸收 ourjourneys58（本人回憶文，KFG 基本會員＋編印通訊錄自述）與 ourjourney-343（黑名單記錄，明文「Mike Chen(陳希寬)」＋妻 Alice Chen）兩筆此前未入頁之材料；其餘命中 unchanged；370「Mike Chen」HOLD 維持（343 標註強化同為本人之推定）。
 - Corpus re-grep（陳希寬 / Michael S. K. Chen，2026-10-11，slice 10101204-13）：新吸收 ourjourneys234（1971 Columbus 盟員大會當選 UFAI 第一副主席）、ourjourneys260（2016 WUFI 美國本部主席出席第四十五屆美東夏令會）、ourjourneys256（2016 黃根深畫展致謝：費城同鄉會和陳希寬）三筆此前未入頁之材料；其餘命中 unchanged；370「Mike Chen」HOLD 維持。
+- Corpus re-grep（陳希寬 / Michael S. K. Chen / 希寬，2026-10-12，slice 10112243-11）：fresh ZH+EN sweep across all 5 corpus dirs returned the unchanged hit set（ourjourneys33、81、81-eng〔81 之英文譯文，同一記錄〕、58、234、256、260、ff184、our-journeys-370、ourjourney-343、whos-michael-s-k-chen、publications-1354，plus index listings）— 全數已吸收；variant-name grep（S. K. Chen / Chen-hkuan / 陳逸松之子 等）無額外命中；370「Mike Chen」HOLD 維持。SKIP-no-new-material。
