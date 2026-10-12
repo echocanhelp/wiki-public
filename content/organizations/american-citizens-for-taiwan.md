@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # American Citizens for Taiwan (西雅圖美台會)
 
@@ -43,3 +43,4 @@ American Citizens for Taiwan (ACT) is a U.S. nonprofit organization composed of 
 - Corpus check 2026-09-25 (slice 09240317-4): fresh re-grep (EN + 西雅圖美台會, works+articles) — hit set identical to the records already wikilinked above + index only; no new absorbable material — SKIP (saturated).
 - Corpus check 2026-09-25 (slice 09250700-3): fresh re-grep (EN + 西雅圖美台會, works+articles) — hit set identical to the records already wikilinked above (TAH directory, Pew statement, top-10 FB, SF 228 panel, Sunflower list, Heart-and-Soul intro) + index only; no new absorbable material — SKIP (saturated).
 - Corpus check 2026-10-11 (slice 10101205-1): fresh 5-dir grep (EN + 西雅圖美台會 + 美台會) — hit set identical to the records already wikilinked above + index only; person-name greps (Karen Lin / Chieni McCullough / Freeman) surface only records already linked or unrelated homonyms (judge Patricia McCullough in taiwanjustice, violinist Karen Lin stories) — SKIP (saturated).
+- Corpus check 2026-10-12 (slice 10112243-30): fresh 5-dir grep (EN + 西雅圖美台會 + 美台會) — hit set identical to the records already wikilinked above + index/sources only; Freeman-name sweep returns only the already-linked Heart-and-Soul intro — SKIP (saturated).
