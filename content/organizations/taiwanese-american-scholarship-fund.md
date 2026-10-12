@@ -5,7 +5,7 @@ tags:
   - organization
   - tah-foundation
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Taiwanese American Scholarship Fund (台美獎學金基金會)
 
@@ -77,3 +77,4 @@ The Taiwanese American Scholarship Fund (TASF) was created in 2014 to support ec
 <!-- TJJ-A10100701-4: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-4 article c05e2d53013fcd15（2020-06-23 大洛杉磯台灣會館疫情濟困報導）: subject link re-checked vs 正文 this attempt, real mention, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- DEEPEN-X slice 10100849-12 (2026-10-11): fresh ZH+EN grep (TASF / Taiwanese American Scholarship Fund / 台美獎學金 / 余崇孝) across all 5 corpus dirs. Hit set unchanged and fully cited (ourjourneys303, TA.org 2015/2016/2017 drives, TAH #15/#73/#50, TJJ 2020 COVID-relief pages 162effa7/c05e2d53/71a7c646, 2024 drive 8d147b0c + repost 7f732954); category-listing pages (c79a3c49, 91fe051d, 3a00a14a, a6cc1569) carry no facts beyond titles already covered. No new material, no conflicts to HOLD — saturated. -->
 <!-- TJJ-A10101501-1: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10101501-1 article 162effa713237818 (給台美人學生的 TASF COVID-19 疫情紓困獎學金, 2020-06-16) read fresh this attempt: TASF subject link re-checked vs 正文 (贊助方、2014 立案全美唯一台美人獎學金、創辦人余崇孝 Sean Yu), real, no wrong/spurious links; 2020-06-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+<!-- DEEPEN-X slice 10110500-12 (2026-10-12): fresh ZH+EN grep (TASF / Taiwanese American Scholarship Fund / 台美獎學金 / 余崇孝) across all 5 corpus dirs. Hit set unchanged and fully cited (ourjourneys303, TA.org 2015/2016/2017 drives, TAH #15/#73/#50, TJJ 2020 COVID-relief pages 162effa7/c05e2d53/71a7c646, 2024 drive 8d147b0c + repost 7f732954); category-listing pages (c79a3c49, 91fe051d, 3a00a14a, a6cc1569) carry no facts beyond titles already covered; MANIFEST/index/sources hits are bookkeeping. No new material, no conflicts to HOLD — saturated. -->
