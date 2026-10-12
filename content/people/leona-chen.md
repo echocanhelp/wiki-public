@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Leona Chen (陳文羿)
 
@@ -77,6 +77,7 @@ last_reviewed: 2026-10-10
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]
 - [[sources/taiwaneseamerican-org|TaiwaneseAmerican.org]]
 - Corpus re-grep 2026-09-25 (slice 09240500-8): fresh ZH+EN grep (Leona Chen/陳文羿) — hit set confined to her own already-linked bibliography (whos-leona-chen, census-2020-fundraiser, remembrance-228, in-solidarity, pew statement) + works index; no new absorbable material.
+- Corpus re-grep 2026-10-12 (slice 10120200-24): fresh ZH+EN+surname grep (陳文羿/Leona Chen/文羿) across all 5 corpus dirs returned 27 files — the 22 works + 3 TJJ articles already wikilinked above, plus works/index.md and sources/taiwaneseamericanhistory-org.md (index surfaces, no bio material). Verified each hit's Leona Chen passage against the page bullets (freshman bio, Ketagalan descent, moderator quote, @leonawchen, BOOK OF CORD, Pew/228/Laguna Woods records) — all already absorbed; no new material. Verified-saturated.
 
 
 <!-- TJJ-A09260500-6: verified 2026-09-27 — slice articles 81e80ba38969bf88 / 9412105875987041 / 92917d4c9a88eba2 / fd270f41202454d7 re-checked vs 正文; subject links all real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
