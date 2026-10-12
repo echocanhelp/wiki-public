@@ -17,7 +17,7 @@ last_reviewed: 2026-10-12
 - **Era:** 1941-2020
 - **Geography:** Kaohsiung, Taiwan
 - **Core roles:** engineer, entrepreneur
-- **Source:** TAH Foundation Who’s Who
+- **Source:** TAH Foundation Who’s Who — record page [[works/taiwaneseamericanhistory-org/whos-who-2283-ting-yee-wang||TAH #2283 Ting Yee Wang 王廷宜]]
 
 Accomplishment
 1. Wang Kong-Lu Human Right Awards (王康陸人權獎) 2017, from the [[organizations/formosan-association-for-human-rights||Formosan Association for Human Rights (FAHTR / 台灣人權協會)]]
@@ -118,3 +118,5 @@ _Corpus-absorbed 2026-09-14 (slice 09141300-17); primary material from our own m
 <!-- DEEPEN-X10110100-31: re-grepped 王廷宜/王泰和/泰和 across works/articles/sources/events/topics this attempt — 6 corpus files hit (TAH #75, Our Journeys #265/#244/#357, Publications #1040, My Stories #734), all already linked on this page; no new material — saturated, no new material. -->
 
 <!-- TJJ-A10110601-2: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110601-2 article c83c2315ab0b3e26 (王廷宜（泰和）先生追思會6/25舉行, 發文 2022-06-24) read fresh this attempt: subject link 王廷宜 re-checked vs 正文 — 本文主體（歿 2020-06-20、Rose Hill 長眠、2022-06-25 台灣會館追思會、Friends of TAIWAN 聯合舉辦）確認見於正文, real, no wrong/spurious links; 2020-06-20／2022-06-25 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10120400-6: re-grepped 王廷宜/王泰和/Ting Yee Wang across works/articles/sources/events/topics this attempt — corpus hits all already linked except the TAH #2283 Who's Who record page, now wikilinked in Identity Snapshot (was external-URL-only); no new dated facts beyond existing From the record — 1 new corpus link, otherwise saturated. -->
