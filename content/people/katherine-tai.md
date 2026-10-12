@@ -146,3 +146,5 @@ Absorbed from vault pages already naming her (no web):
 ![20230402231703_wp-content_uploads_2022_06_美國貿易代表戴琪_Katherine](../images/people--katherine-tai.jpg)
 
 📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20230402231703）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+
+<!-- TJJ-A10110001-23: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110001-23 article 20250518232637_…_6d16f9e35d9e3188 (戴琪：台美貿易倡議盼在關鍵領域達高標準成果, taiwanjustice.net, 發文 2022-06-28／快照 2025-05-18) read fresh this attempt: subject link re-checked vs 正文 — 戴琪於「選擇美國投資峰會」演說談美台貿易倡議、制定具體有意義方式強化雙邊貿易投資關係、探索並商定談判路線圖以於關鍵領域達高標準成果確認見於正文, real, no wrong/spurious links; 鄧振中／畢昂奇 Sarah Bianchi／拜登／江今葉無 subject 條目維持純文字正確; dated fact w/ article wikilink already in From the record (2022-06-28 條目) — saturated, no new material. -->

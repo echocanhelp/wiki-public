@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Taiwanese-American Foundation
 
