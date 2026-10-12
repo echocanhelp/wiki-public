@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Dr. Ching K. Lin (林清貴博士)
 
@@ -102,3 +102,5 @@ Together with the encyclopedia records ([[works/taiwaneseamericanhistory-org/ota
 <!-- DEEPEN-X slice 10101210-8, verified 2026-10-11: fresh ZH+EN grep (林清貴/Ching K. Lin/清貴) across all 5 corpus dirs returned 10 files — all 5 works records (TAH #129/#671/#99/#248/#886), sources/taiwaneseamericanhistory-org, works/index, and 2 TJJ articles (b35038dda7fa4bcf, 7a0a59ccaab6bd78) already carry dated facts + wikilinks on this page. One extra hit, articles/.../20240725003053_root_4d6d27cdaf192365 (野台布袋戲/新勝景掌中劇團), matches 朱清貴 — the puppet troupe's first-generation 團主, a DIFFERENT person; name collision, NOT linked. No new material — saturated, SKIP. -->
 
 <!-- TJJ-A10110001-27: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110001-27 article b35038dda7fa4bcf (長青教室心得報告標籤頁, 發文 2019-10-10 / 快照 2024-07-23) read fresh this attempt: 「長青教室心得報告-植物生化素與你的健康【video】 ◎ 林清貴博士」(2019-05-17) 條目確認見於正文, subject link real, no wrong/spurious links; 2019-05-17 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X slice 10120000-9, verified 2026-10-12: fresh ZH+EN grep (林清貴/Ching K. Lin/清貴) across all 5 corpus dirs returned 11 files — 5 works records (TAH #129/#671/#99/#248/#886), sources/taiwaneseamericanhistory-org, works/index, and 3 TJJ articles (b35038dda7fa4bcf, 7a0a59ccaab6bd78, 4d6d27cdaf192365); every dated fact + wikilink already on this page. Two hits are name collisions, NOT linked: works/milestones36 matches 「Ching-Kuo Chiang」（蔣經國）, and articles/.../20240725003053_root_4d6d27cdaf192365 matches 朱清貴 (新勝景掌中劇團 first-generation 團主, a different person). No new material — saturated, SKIP. -->
