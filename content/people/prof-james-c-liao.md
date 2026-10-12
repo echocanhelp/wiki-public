@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # Prof. James C. Liao (廖俊智教授)
 
@@ -67,3 +67,4 @@ last_reviewed: 2026-10-10
 - Corpus re-grep 2026-09-26 (slice 09260500-24): works/ hit set unchanged (107, 1081, mystories239, important2016-22, my-stories-879 + index); articles/ yielded two new absorbable mentions (above), now linked and absorbed.
 - Corpus re-grep 2026-09-27 (slice 09260500-24 retry): hit set identical (107, 1081, mystories239, important2016-22, my-stories-879 + two taiwanjustice articles already absorbed above). Verified-saturated, no new absorbable facts (SKIP-with-reason).
 - Corpus re-grep 2026-10-10 (slice 10091400-18): articles/ yielded seven new absorbable mentions (2020 COVID platform + AIT visit, 紅豆餅 photo, HKU 張翔 academician open letter + AS response, EHT Sgr A* reveal, 國家氣候變遷對策委員會 deputy convenor, Academia Sinica naming criticism), now linked and absorbed above.
+- Corpus re-grep 2026-10-12 (slice 10102200-30): hit set identical (107, 1081, mystories239, important2016-22, my-stories-879 + already-absorbed taiwanjustice articles); the Prague-partnership (2021-01-27) and duplicate 錢復捐贈/HKU articles re-surface only facts already linked above. Verified-saturated, no new absorbable facts (SKIP-with-reason).
