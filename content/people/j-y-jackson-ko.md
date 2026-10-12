@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 <!-- deepen-x slice 10051200-4 (2026-10-06): fresh ZH+EN grep (柯哲洋/Jackson Ko) of works/articles/sources/events/topics -> hit set unchanged (whoswho1768 own record, ourjourneys12 already absorbed, works index). Verified-saturated, SKIP. -->
 # J. Y. Jackson Ko (柯哲洋)
@@ -52,3 +52,4 @@ last_reviewed: 2026-10-10
 - Re-verified 2026-10-08 (deepen-x slice 10061023-4): fresh ZH+EN grep (柯哲洋/Jackson Ko/柯哲) across works/articles/sources/events/topics returns only whoswho1768, ourjourneys12 (already absorbed), and the index — corpus-saturated, SKIP.
 - Re-verified 2026-10-09 (deepen-x slice 10080700-3): fresh ZH+EN grep (柯哲洋/Jackson Ko/柯哲/柯金寅) plus alt-sweep (美東自由時報/江蕙美) — surname hits are 柯金寅 (photographer/editor, distinct person), 惠美 hits are unrelated (周李惠美, 謝惠美), and [[works/taiwaneseamericanhistory-org/the-liberty-time-u-s-a|美東自由時報]] is a bibliographic-only record (no full text in Echopedia). No new absorbable material — corpus-saturated, SKIP.
 - Re-verified 2026-10-10 (deepen-x slice 10091500-28): fresh ZH+EN grep (柯哲洋/Jackson Ko/柯哲) across all 5 corpus dirs returns only whoswho1768, ourjourneys12 (already absorbed), the works index, and his own page in the source registry. Alt-sweep 美東自由時報/江蕙美 adds only wife 江蕙美's own TAH #1766 record and the 洪哲勝/林保華 memoir (references the paper's 《民主論壇》 supplement, not Ko) — no new absorbable material about him — corpus-saturated, SKIP.
+- Re-verified 2026-10-12 (deepen-x slice 10102200-22): fresh ZH+EN+surname sweep (柯哲洋/Jackson Ko/柯哲/柯金寅/美東自由時報/江蕙美) across all 5 corpus dirs — the only 柯哲洋 hits remain [[works/taiwaneseamericanhistory-org/whoswho1768|whoswho1768]] (own record) and [[works/taiwaneseamericanhistory-org/ourjourneys12|ourjourneys12]] (already absorbed); all 柯金寅 hits belong to the distinct photographer/editor author of ourjourneys42/91/153/219, mystories-744, and the photo-album records — no new absorbable material — corpus-saturated, SKIP.
