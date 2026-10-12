@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Li Gui Chen (陳麗貴)
 
@@ -92,3 +92,5 @@ Accomplishment
 <!-- TJJ-A10100901-6: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100901-6 article b5e568ec43e787f1 (《好國好民》Dear Taiwan美國巡迴放映座談會, 2011-10-15刊/2024-07-18快照): 陳麗貴以導演兼製片身分列名正文（Director: LK Chen 陳麗貴; Producers: LK Chen, CY Wang）re-checked vs 正文 this attempt, real, no wrong/spurious links; 2011-10-15 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- DEEPEN-X10101300-24: verified 2026-10-11 — fresh grep 陳麗貴/Li Gui Chen/李泳泉/麗貴 across works/articles/sources/events/topics: hit set identical to prior runs (whos-who-1835, works/index, sources/taiwaneseamericanhistory-org, 月舞玫瑰 2020-11-21 report, 《好國好民》 2011-10-15 + 2011-11-08 tour notices), all already wikilinked above — verified-saturated, 0 deepened, 1 skipped. -->
 <!-- TJJ-A10110201-28: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110201-28 article 1f001897255f71a7 (《好國好民》美國各地放映座談會公告, 2011-11-08刊/2024-07-19快照): subject link re-checked vs 正文 this attempt (Director: LK Chen 陳麗貴; Producers: LK Chen, CY Wang), real, no wrong/spurious links; 2011-11-08 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10120018-32: verified 2026-10-12 — fresh grep 陳麗貴/Li Gui Chen/麗貴 across works/articles/sources/events/topics: hit set identical to prior runs (whos-who-1835, works/index, sources/taiwaneseamericanhistory-org, 月舞玫瑰 2020-11-21 report, 《好國好民》 2011-10-15 + 2011-11-08 tour notices), all already wikilinked above; 李泳泉 surname re-grep returned no corpus hits — verified-saturated, 0 deepened, 1 skipped. -->
