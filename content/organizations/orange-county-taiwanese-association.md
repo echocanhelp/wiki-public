@@ -6,7 +6,7 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Orange County Taiwanese Association
 
@@ -43,9 +43,10 @@ OCTA（柑縣台灣同鄉會，南加州）是橙縣歷史悠久的台美人同�
 - **1992–1995** — 壘球隊活動文物（手套、球棒、壘球）藏於 TAH（[[works/taiwaneseamericanhistory-org/21-softball-gears-octa|TAH #21 壘球隊文物]]）。
 - **2015** — TAH 社團記錄頁（[[works/taiwaneseamericanhistory-org/orange-county-taiwanese-association-octa|OCTA 組織記錄]]）。
 - **2020-06** — 疫情期間團購台灣製造醫療口罩供應社區（taiwanjustice.net 報導 2020-06-13，[[articles/taiwanjustice-net/2020/20200623032920_2020_06_13_柑縣台灣同鄉會團購台灣製造的醫療囗罩_b5111be5a91c7d0d|報導存檔]]）。
-- **2021-05** — 副會長黃而明代表出席南加州僑胞車隊遊行聲援台灣參與 WHA（taiwanjustice.net 報導 2021-05-13）。
+- **2021-05** — 副會長黃而明代表出席南加州僑胞車隊遊行聲援台灣參與 WHA（柑縣台美商會青商部、台美菁英協會橙縣分會、FASCA 橙縣分會共同舉辦，OCTA 以副會長列席）（[[articles/taiwanjustice-net/2021/20210621201230_2021_05_13_南加州僑胞舉行車隊遊行聲援台灣參與wha_7e561e2496e2130d|車隊遊行報導]]）。
 - **2022-09-24** — 自辦「萬人挺台灣參與聯合國及世界衛生組織」健行活動（taiwanjustice.net 記錄 2022-09）。
-- **2024** — 大洛杉磯 228 追思紀念會聯合社團清單內社团之一（taiwanjustice.net 2025-03 刊）。
+- **2024** — 大洛杉磯 228 事件追思紀念會暨聯合社團系列活動協辦社團清單內社團之一（[[articles/taiwanjustice-net/2025/20250328132115_2024大洛杉磯228事件追思紀念會暨聯合社團系列活動邀_c41dfa01b8f3bcbb|2024 紀念會報導]]）。
+- **2024-02-28** — 「台灣介靈日 77 週年紀念音樂會」（Arcadia Community Church）協辦社團清單列名 OCTA（[[articles/taiwanjustice-net/2024/20240412171101_root_fb99d20a9d9e397a|2024 存檔報導]]；HOLD: 該音樂會與上列 228 紀念會系列之關係語料未標明，勿逕歸同一活動）。
 - **2016-02-20** — 於 Santa Ana 主辦「台灣好聲音新春演唱會」（[[works/taiwaneseamericanhistory-org/concerts2|TAH 音樂記錄 #2]]）。
 - **2019-02-20** — 柑縣（橙縣）228 紀念會記錄（[[works/taiwaneseamericanhistory-org/e6-9f-91-e7-b8-a3228-e7-b4-80-e5-bf-b5-e6-9c-83|柑縣228紀念會/2019]]；HOLD: 該 TAH 記錄未標明主辦單位，勿逕歸 OCTA）。
 - 社團記錄：金桔會（[[works/taiwaneseamericanhistory-org/seniororg19|TAH 社團記錄 #19 金桔會 by 柑縣台灣同鄉會 OCTA]]）。
@@ -62,6 +63,9 @@ OCTA（柑縣台灣同鄉會，南加州）是橙縣歷史悠久的台美人同�
 
 ## Corpus re-grep note (2026-10-11, slice 10100600-23)
 - Deepened: 新增 TAH #562 雜誌系列（2001–2018）、2021-05-17 WHA 聯合聲明共同發起單位、TAI M. CHIU OCTA 董事自述語料；既有連結全數保留。
+
+## Corpus re-grep note (2026-10-12, slice 10110200-26)
+- Deepened: 補上 2021 WHA 車隊遊行與 2024 大洛杉磯 228 紀念會兩條既有引文之存檔連結；新增 2024-02-28「台灣介靈日 77 週年紀念音樂會」協辦清單語料（2024-04 存檔）。2025 年 re-archive 命中（20251111 WHA 車隊、20251108 WHA 聯合聲明、20251205 口罩團購）經比對皆為已吸收事件之重複存檔，未重複記述；20250718 德國外長一文命中為存檔摘要內含 OCTA 字串之偽命中，已排除。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
