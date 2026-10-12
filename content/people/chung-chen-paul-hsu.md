@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Chung Chen Paul Hsu (許忠政)
 
@@ -62,3 +62,4 @@ last_reviewed: 2026-10-11
 - Slice deepen-x-slice-09230900-1 覆核（2026-09-24）：re-grep 許忠政 / Chung Chen 命中僅已引用之 ff42、36、whos-who-262、ourjourneys123、whoswho1320（同名 HOLD）及索引行，無新增回憶錄材料。SKIP-with-reason（飽和）。
 - Slice deepen-x-slice-10090315-4 覆核（2026-10-10）：以 Ginseng / Paul Hsu / 許氏參業 擴大 re-grep 全部五個 corpus 目錄，新命中 3 條許氏參業集團記錄（ff327 美國最大人參農場、hsus-ginseng-ent-inc 公司記錄 2016、photo-albums-activities-33 專輯 2014），已吸收進 Role in the Community 並加 wikilink。人名直檢仍僅命中已引用條目。
 - Slice deepen-x-slice-10101204-3 覆核（2026-10-11）：以 許忠政/Chung Chen/Paul Hsu/許氏參/許氏人蔘/Ginseng 及簡體「忠政」、許聖美/Wausau 擴大 re-grep 全部五個 corpus 目錄，命中僅已引用之 ff42、36、whos-who-262、ourjourneys123、ff327、hsus-ginseng-ent-inc、photo-albums-activities-33、whoswho1320（同名 HOLD）及索引行；新出現的 263-sharon-s-hsu 與 165（許聖美綠金傳奇）為其妻許聖美之書目記錄、ourjourneys264 僅論及許聖美其人，皆無許忠政本人新增回憶錄材料。SKIP-with-reason（飽和；Paul Hsu 同名 HOLD 維持）。
+- Slice deepen-x-slice-10112243-3 覆核（2026-10-12）：以 許忠政/Chung Chen/Paul Hsu/忠政/許氏參/Ginseng re-grep 全部五個 corpus 目錄，命中僅已引用條目；唯一新出現的 忠政 命中為 taiwanjustice-net 藻礁報導之 **潘忠政**（環境運動人士，非許忠政）——HOLD: 潘忠政 ≠ 許忠政，勿因 surname-only 檢索誤併。SKIP-with-reason（飽和）。
