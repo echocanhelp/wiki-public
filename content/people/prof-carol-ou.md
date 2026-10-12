@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Prof. Carol Ou (歐逸青教授)
 
@@ -74,3 +74,7 @@ Re-check: all vault-internal links (ya-fei-chuang, carol-ou-lin, pei-shan-lee, T
 
 - **TAH musician series (2014-10-11):** Ou appears in the same 2014-10-11 TAH classical-musician series as composer [[people/i-uen-wang-hwang|王怡雯 I-Uen Wang Hwang]] ([[works/taiwaneseamericanhistory-org/59-i-uen-wang-hwang-composer|TAH #59]]), alongside the Formosa Quartet (福爾摩沙四重奏) and pianist Nam Yeung (楊楠) — per that record's text. Community-network fact, absorbed here; no vault pages exist yet for the quartet or Yeung, so they stay plain text.
 - Fresh ZH+EN grep (歐逸青/Carol Ou) across all 5 corpus dirs: hit set unchanged — her own three encyclopedia records (#12/#570/musician58), works/index, sources hub, plus cross-references on [[people/ya-fei-chuang|Ya-Fei Chuang]] (Buswell duo) and [[people/i-uen-wang-hwang|I-Uen Wang Hwang]] (series). No memoir/corpus prose beyond these; no date/age conflicts to HOLD.
+
+## Deepen-x 2026-10-12 (slice 10112300-29, vault-only)
+
+- Re-verified saturated. Fresh ZH+EN grep (歐逸青/Carol Ou) across all 5 corpus dirs returns the same hit set: her own records #12/#570/musician58, [[works/taiwaneseamericanhistory-org/ota-129|TAH #129 (Carol Ou Lin)]] which cross-links her as a distinct person, works/index, and the sources hub. Broad 歐-only matches are unrelated (歐美麗 ff365, 魯比歐/Rubio in our-journeys) — surname noise, not her. No memoir/corpus prose; nothing to absorb; no conflicts to HOLD.
