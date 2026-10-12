@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-11
 ---
 # Edward Liu (劉俊宏)
 
@@ -62,3 +62,5 @@ Corpus re-check (deepen-x slice 10070018-1, 2026-10-08): fresh ZH+EN grep of wor
 Corpus re-check (deepen-x slice 10080600-23, 2026-10-09): fresh ZH+EN+surname (劉俊宏/Edward Liu/俊宏) grep of works/articles/sources/events/topics, with surname-only hits disambiguated in context — 張俊宏 (美麗島事件 defendant), 陳俊宏 (b. 1954 雲林), 林俊提 etc. are different persons, not this page. Person-specific hit set unchanged (whos-who-2237, our-journeys-376, liu-memorial-golf) — verified saturated, SKIP-content; HOLD on death date stands.
 
 Corpus re-check (deepen-x slice 10091500-16, 2026-10-10): fresh ZH+EN+surname (劉俊宏/Edward Liu/俊宏) grep of works/articles/sources/events/topics returned the identical person-specific hit set (whos-who-2237, our-journeys-376, liu-memorial-golf) plus index; surname-only hits disambiguated as 張俊宏 (美麗島), 陳俊宏 (b. 1954 雲林) etc. — different persons. Verified saturated, SKIP-content; HOLD on death date stands.
+
+Corpus re-check (deepen-x slice 10102129-18, 2026-10-11): fresh ZH+EN+surname grep of works/articles/sources/events/topics returned the identical person-specific hit set (whos-who-2237, our-journeys-376, liu-memorial-golf) plus index; surname-only hits disambiguated again as 張俊宏 (美麗島 defendants, ourjourneys69/2), 陳俊宏 (ourjourneys256) — different persons. Verified saturated, SKIP-content; HOLD on death date stands.
