@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Nai-Yuan Hu (胡乃元)
 
@@ -44,7 +44,7 @@ Since winning the First Prize of the prestigious Queen Elisabeth International C
 ## Role in the Community
 
 - Childhood training in Taiwan: as told in [[works/taiwaneseamericanhistory-org/ourjourneys287|TAH Our Journeys #287 (2015 美西夏令會 / 善友樂團第二代)]], 胡乃元 (like 林昭亮) trained as a boy in the **3B Youth Orchestra** in Tainan, founded by 鄭昭明 after the amateur 善友管弦樂團 dissolved in 1960 — a direct line from a post-war southern-Taiwan amateur orchestra to two international soloists.
-- First artist of the 台灣人聯合基金會's 「台灣名家演奏系列」: on 1992-01-26 his violin recital at the 日美劇場 (Nichibgeki) in Los Angeles opened the series, sponsored by [[people/wu-lipei|吳澧培]]; over the years it brought 林昭亮、陳泰成、陳慕融、蘇顯達、陳毓襄、葉綠娜、陳麗嬋、曾道雄 and others to US stages, catalysed three 蕭泰然 concertos, and led to the 1997 228紀念音樂會 — [[works/taiwaneseamericanhistory-org/ourjourneys294|TAH Our Journeys #294 (TUF 三十年)]] and [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]]; the series is also recalled in [[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys #287]]. See [[organizations/taiwanese-united-fund|Taiwanese United Fund]].
+- First artist of the 台灣人聯合基金會's 「台灣名家演奏系列」: on 1992-01-26 his violin recital at the 日美劇場 (Nichibgeki) in Los Angeles opened the series, sponsored by [[people/wu-lipei|吳澧培]]; over the years it brought 林昭亮、陳泰成、陳慕融、蘇顯達、陳毓襄、葉綠娜、陳麗嬋、曾道雄 and others to US stages, catalysed three 蕭泰然 concertos, and led to the 1997 228紀念音樂會 — [[works/taiwaneseamericanhistory-org/ourjourneys294|TAH Our Journeys #294 (TUF 三十年)]] and [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]]; the series is also recalled in [[works/taiwaneseamericanhistory-org/ourjourneys287|Our Journeys #287]]. The series was run by a dedicated 「名家演奏系列籌備會」 formed under TUF in 1992 — convened by 楊子清, with the branches of 吳澧培's 萬通銀行 serving as ticket windows — [[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]]; 楊子清 credited it as the realization of the dream he first raised at the 世台會 in 1986. See [[organizations/taiwanese-united-fund|Taiwanese United Fund]].
 - 1985 Queen Elisabeth win recorded in the TAH winners archive: [[works/taiwaneseamericanhistory-org/winners12|TAH #12 台灣青年胡乃元榮獲伊麗莎白皇后小提琴演奏獎 1985]].
 - Bay Area: invited by the 19th 北加州台灣同鄉聯合會 to perform at Stanford on 1992-02-08 under president 吳啓昌 — [[works/taiwaneseamericanhistory-org/ourjourneys38|TAH Our Journeys #38 北加州台灣同鄉聯合會三十年回顧]].
 - Dedicated community-biography records in the vault: [[works/taiwaneseamericanhistory-org/mystories478|TAH #478 第一位贏得伊莉莎白皇后大賽的台灣小提琴家胡乃元（1961-）/ 林衡哲 / 2016-11]] and [[works/taiwaneseamericanhistory-org/publications1055|TAH #1055 弓在弦上：胡乃元與Taiwan Connection的故事 / 吳錦勳 / 2014-11]].
@@ -73,3 +73,5 @@ Trained at Indiana Univ., Nai-Yuan Hu turned his 1985 Queen Elisabeth First Priz
 Deepen pass 2026-09-14: re-checked against the cited TAH #95 / #88 / #136 records linked above; all in-vault facts are already reflected on the page (no web used). No standalone vault org pages exist yet for Taiwan Connection, TC Chamber Orchestra, Indiana Univ., or the Queen Elisabeth Competition, so no further existing-slug links were available.
 
 Deepen pass 2026-10-11 (slice 10100700-21): fresh ZH+EN grep (胡乃元 / Nai-Yuan Hu) across all 5 corpus dirs returned 6 files — mystories478, whos-who-136, ourjourneys38, 95-nai-yuan-hu, ourjourneys287, publications1055 — every fact in them (3B/BBB youth-orchestra training, 1992-01-26 TUF Nichibgeki recital, 1992-02-08 Stanford 北加州同鄉會 performance, Queen Elisabeth win) already absorbed and wikilinked above. No new material, no conflicts.
+
+Deepen pass 2026-10-12 (slice 10110315-24): fresh ZH+EN grep (胡乃元 / Nai-Yuan Hu) across all 5 corpus dirs returned the same 12-file hit set; all record-only bibliography stubs (mystories478, winners12, 88/95/136, publications1055) carry no new body text. One genuinely new community fact absorbed from ourjourneys301: the 台灣名家演奏系列 was operated by a dedicated 「名家演奏系列籌備會」 formed under TUF in 1992, convened by 楊子清 with 萬通銀行 branches as ticket windows. No conflicts. No standalone pages exist for 楊子清 or the 籌備會, so no new page-level wikilinks beyond existing slugs.
