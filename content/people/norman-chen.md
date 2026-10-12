@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Norman Chen
 
@@ -59,3 +59,4 @@ Norman Chen's community record in our corpus runs through his father, 陳唐山 
 - Corpus re-grep 2026-09-27 (slice 09260700-9): SKIP — fresh ZH+EN grep returns the identical hit set already absorbed above; nothing new for the physician; HOLD stands; verified saturated.
 - Corpus re-grep 2026-10-10 (slice 10090600-5): SKIP — fresh grep Norman Chen|陳淮崇|陳唐山 across works/articles/sources/events/topics (52 files) inspected beyond the 11 already-absorbed hits: zero files mention Norman Chen or 陳淮崇; all remaining hits are 陳唐山-only (incl. TJJ news articles, e.g. 2025 陳唐山疑涉賄 coverage — unrelated to this page's record). Hit set identical to prior scans; 陳淮崇 HOLD stands; verified saturated.
 - Corpus re-grep 2026-10-11 (slice 10101322-16): SKIP — fresh ZH+EN+surname grep (Norman Chen|陳淮崇|陳唐山) across all 5 corpus dirs returned 54 files; per-file check shows every Norman Chen / 陳淮崇 mention sits in the already-absorbed set (ourjourneys-138/-139, 58, 307, TAH #210, whoswho1271, works/index, sources page); all other hits are 陳唐山-only. Nothing new for the physician; 陳淮崇 HOLD stands; verified saturated.
+- Corpus re-grep 2026-10-12 (slice 10120400-27): SKIP — fresh grep (Norman Chen|陳淮崇|陳唐山) across all 5 corpus dirs returned 52 files; the Norman Chen / 陳淮崇 hit set is exactly the 8 already-absorbed files (ourjourneys-138/-139, 58, 307, TAH #210, whoswho1271, works/index, sources page); no file outside that set mentions either name, and no file pairs "Norman Chen" with physician markers (Rady/radiology/UVA). Nothing new; 陳淮崇 HOLD stands; verified saturated.
