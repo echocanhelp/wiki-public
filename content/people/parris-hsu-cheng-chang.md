@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-10
+last_reviewed: 2026-10-12
 ---
 # PARRIS HSU-CHENG CHANG (張旭成)
 
@@ -56,6 +56,7 @@ PARRIS HSU-CHENG CHANG 張旭成 – History of Taiwanese American (T.A. Archive
 - Re-check (deepen-x slices 09160109-4, 09160316-1, 09160400-1, 09160500-3, 2026-09-16): grep (張旭成／Parris, works+articles) hit set unchanged — own directory page #535 + memoirs OJ 37/69/74 (+EN) already absorbed above. Two new grep hits this slice ([[works/taiwaneseamericanhistory-org/photo-albums-activities-129|129]]、[[works/taiwaneseamericanhistory-org/ourjourneys305|305]]) are false matches on "Cheng-Chang" = 蔡承昌 Charles Tsai (St. Louis), a different person. No new absorbable community content; no conflicts.
 - Re-check (deepen-x slice 10100500-3, 2026-10-10): full grep (張旭成／Parris／旭成, works+articles+sources+events+topics) hit set unchanged — community corpus = OJ 37/47/69/74 (+EN) + directory page #535, all absorbed above. One material change vs last slice: the 2017-07-24 蘋果日報 opinion 「神話習近平的愚民運動」 column text itself is now in content/ ([[articles/taiwanjustice-net/2024/20240421181018_root_13bc60df6b20902f|taiwanjustice-net 2024-04-21 snapshot]]) with a Subjects link back to this page, previously only indexed via a Tag page. Still press commentary authored by him (self-identifies as 賓州州立大學政治學榮譽教授、國安會前副秘書長, corroborating the Employment table), outside the community/memoir corpus — noted, not absorbed. No new absorbable community content; no conflicts; nothing to HOLD.
 - Re-check (deepen-x slice 10080958-27, 2026-10-09): full grep (張旭成／Parris／旭成, works+articles+sources+events+topics) hit set unchanged — community corpus = OJ 37/47/69/74 (+EN) + directory page #535, all absorbed above. taiwanjustice-net tier2 traces confirmed as press commentary authored by him, noted not absorbed: the 2017-07-24 蘋果日報 opinion 「神話習近平的愚民運動」 (already recorded last slice) plus one further column surfaced this slice — 2018-06-11 民報 「美國會新法案遏止中共「長臂」滲透，台灣有何作為？」, listed only via a 「Tag: 張旭成」 archive index page (the column text itself is not in content/). No new absorbable community/memoir content; no conflicts; nothing to HOLD.
+- Re-check (deepen-x slice 10110100-8, 2026-10-12): full grep (張旭成／Parris／旭成, works+articles+sources+events+topics) hit set unchanged — community corpus = OJ 37/47/69/74 (+EN) + directory page #535, all absorbed above. taiwanjustice-net tier2 traces refreshed: two further 統戰/滲透 columns surfaced via tag-index pages only (2018-01-26 民報 「防堵中國的統戰與滲透」 via 統戰 tag page 2; 2018-06-11 民報 「美國會新法案遏止中共「長臂」滲透」 — now also via a dedicated 「Tag: 張旭成」 index page, 2025-05-17 snapshot, itself listing no posts) — column texts not in content/, press commentary authored by him, outside the community/memoir corpus. Noted, not absorbed. No new absorbable community content; no conflicts; nothing to HOLD.
 
 ## Sources
 - [TAH #535 encyclopedia: 535. PARRIS HSU-CHENG CHANG 張旭成 / 2015/08](https://taiwaneseamericanhistory.org/535-parris-hsu-cheng-chang/)
