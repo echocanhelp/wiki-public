@@ -103,3 +103,6 @@ _No filled family fields on the TAH profile._
 
 <!-- DEEPEN-X10110315-1: verified 2026-10-12 — fresh grep 張信義／S. Y. Chang／Sidney Chang across works+articles+sources+events+topics returned 11 files (OJ #33-eng/#74/#74-eng/#79/#377, whoswho1651, TJJ 楊遠薰 reprints 2021/2024/2025, works/index, sources/taiwaneseamericanhistory-org); every hit resolves to a record already linked above. Broader surname sweep (Chang across OJ files) surfaced only Tina Chang, May-Sing Chang et al. — different persons, no new material. SKIP-with-reason: 語料已飽和; English-name HOLD (S. Y. Chang vs Sidney Chang) stands. -->
 
+
+<!-- DEEPEN-X10120500-17: verified 2026-10-12 — fresh grep 張信義／S. Y. Chang／Sidney Chang across works+articles+sources+events+topics returned the same 11 files (OJ #33-eng/#74/#74-eng/#79/#377, whoswho1651, TJJ 楊遠薰 reprints 2021/2024/2025, works/index, sources/taiwaneseamericanhistory-org); spot-checked OJ #79 roster line (哈佛大學副教授、精神科醫師) and OJ #74-eng by-law passage (Dr. Sidney Chang 張信義 among the 1980-10-18 TAF Board signatories) — both already reflected in From the record. SKIP-with-reason: 語料已飽和, no new material; English-name HOLD (S. Y. Chang vs Sidney Chang) stands. -->
+
