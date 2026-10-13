@@ -48,6 +48,10 @@ last_reviewed: 2026-10-11
 - TACL 文獻補充：1984-11-10《美麗島週報》第213期以筆名「林豪」刊出他的長文「漫談成立TACL（台美公民協會）的重要性—日本人能為什麼台灣人不能」（[[works/taiwaneseamericanhistory-org/ourjourneys272|272. 台美公民協會的成長：從孕育到發芽, 周實, 2017/01]])——與上方 ourjourneys186 顧問名冊互證。
 - 2026-10-11（slice 10102129-26）語料再核：ZH+EN+本名 grep 命中 30 檔，新增吸收 my-stories-824/692/711、publications302、ourjourneys291/272；筆名「林豪」為新增身份線索；romanization 衝突（Jer-Shung vs Hon-Tze）維持 HOLD，無新衝突。
 
+## From the record
+
+- **2017-07-11** — TAH 刊出「26. Collection of Dr. Jer-Shung Lin 林哲雄醫師的收藏」，以其本名 林哲雄 記述醫師的收藏（[[works/taiwaneseamericanhistory-org/collection-of-dr-jer-shung-lin|source]]）；此條補上該出處與本頁的雙向連結。
+
 ## Family
 
 - **Wife:** 邵維平
