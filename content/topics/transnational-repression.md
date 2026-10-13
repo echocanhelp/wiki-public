@@ -7,7 +7,7 @@ tags:
   - current-history
   - diaspora-security
 verification_status: sourced
-last_reviewed: 2026-10-08
+last_reviewed: 2026-10-13
 ---
 # 跨國鎮壓 / Transnational Repression
 
@@ -16,6 +16,18 @@ origin living in the United States, Canada and Europe are surveilled, coerced, o
 behalf of the PRC state. This page is not commentary on the news — it is the archive's own
 record of a pattern we have documented since 2021, assembled from our own holdings so that any
 future story lands on a spine we already have.
+
+## 從每日脈絡來的話
+
+這頁不是今天的新聞。每日脈絡把你送到這裡，是因為今天的報導用了「跨國鎮壓」。點進來應看到兩件事：我們從 2021 年就有的紀錄，以及今天這幾則報導各自落在哪個已有的形狀上。下面每一則今天的消息都標 **報導**，不是我們核對過的檔案。
+
+### 2026-10-13 — 報導，尚未成為我們的檔案
+
+**報導。** 邱垂正把北京制裁台灣友邦的現任部長，稱為新型態跨國鎮壓，美國國務院公開反對這項脅迫。檔案裡已有他以陸委會副主委身分談反滲透法的發言（[陸委會：紅色滲透媒體須另檢討](../articles/taiwanjustice-net/2026/20260118114059_陸委會_紅色滲透媒體須另檢討_反滲透法不涉及_f2e812e84450157c.md)），沒有這次制裁的文件。形狀接近 2024 年已入檔的許穎婷遭懸賞：公開人物因為觸怒北京而被追究。證據等級不同。
+
+**報導。** 卓榮泰就中國對台灣人跨境鎮壓、修反滲透法發言。檔案裡有他 2019 年在台大反送中之夜的紀錄（[挺台大人反送中](../articles/taiwanjustice-net/2022/20220929022324_2019_06_14_挺台大人反送中-卓榮泰_守護民主一點都不簡單_0968ae5adde60141.md)），沒有這次修法。
+
+**報導。** 李明哲在歐洲巡講，提出民主國家是否該以「有罪推定」防範跨國鎮壓。檔案裡已有他的案子（[台灣救不了李明哲](../articles/taiwanjustice-net/2017/20171206223104_2017_12_01_台灣救不了李明哲-_陳茂雄-台灣時報社論-2017-12-2_d4717119c15afb17.md)）。巡講是新的，人不是。
 
 ## Why this belongs in Echopedia
 
@@ -97,6 +109,7 @@ sentence is enough.
 
 ## Revision History
 
+- 2026-10-13 — arrival section for 每日脈絡. Today's wire items labeled 報導 and tied to existing archive articles. The page is the pattern, not the article.
 - 2026-10-08 — page created by the news-digest tier gate. Assembled from 13 archive articles
   spanning 2021-2025 that our own holdings already carried; no content was imported from the
   news cycle. The wire surfaced the pattern; we already had the record.
