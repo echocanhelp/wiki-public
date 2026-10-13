@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Thomas Liu (劉天良)
 
@@ -59,6 +59,7 @@ last_reviewed: 2026-10-11
 - 2016-03-09 — 與李木通、黃根深同為「台美人物誌—半世紀前 UCLA 的那些日子」座談與談人，美洲台灣日報記錄，見台灣公義報「台美人台加人」分類存檔（2024-05-20 快照）—— [[articles/taiwanjustice-net/2024/20240520023218_root_89e6683c93156205|TJJ 台美人台加人存檔頁]]。
 
 ## Re-grep log
+- Corpus re-grep 2026-10-12 (slice 10120500-31): verified-saturated — ZH+EN grep across works/articles/sources/events/topics returns the identical 11-file hit set (#929, #27, #186/#186-eng, #212, #214, #240, #421, TJJ 存檔頁, works/index, sources), all already linked above; the extra 天良 article hits are false positives (喪盡天良/天良泯滅/沒天良/先天良好 — common phrases, not 劉天良). No unabsorbed corpus facts.
 - Corpus re-grep 2026-10-11 (slice 10100700-13): verified-saturated — ZH+EN grep across works/articles/sources/events/topics returns the identical 11-file hit set (#929, #27, #186/#186-eng, #212, #214, #240, #421, TJJ 存檔頁, works/index, sources), all already linked above; no unabsorbed corpus facts.
 - Corpus re-grep 2026-09-24 (slice 09230500-8): verified-saturated — hit set unchanged (#929, #27, #186/#186-eng, #212, #214, #240, #421, TJJ 存檔頁 all linked); no new absorbable material.
 - Corpus re-grep 2026-09-23 (slice 09221000-5): verified-saturated — hit set (#929, #27, #186/#186-eng, #214, #421 and the already-cited #212/#240/TJJ record) fully absorbed; #929 confirmed bibliographic-record-only, no unabsorbed facts.
