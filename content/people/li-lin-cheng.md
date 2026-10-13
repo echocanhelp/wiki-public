@@ -138,3 +138,5 @@ BVM (Bachelor of Veterinary Medicine)
 <!-- TJJ-A10110102-31: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110102-31 article efea1ad2d8cb4d11 哲人日已遠：敬弔李應元博士（◎NATPA鄭麗伶會長暨全體理事署名確認見於標題）: subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10120501-23: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10120501-23 article 23924f7ad0d93713 (李應元標籤頁, 2022-07-01 快照) read fresh this attempt: 「哲人日已遠：敬弔李應元博士 ◎NATPA鄭麗伶會長暨全體理事」弔文署名確認見於正文條目; subject link real, no wrong/spurious links; dated fact w/ article wikilink already in From the record (2021-11-22 弔文署名條目) — saturated, no new material. -->
+
+- 複核（deepen-x slice 10120600-3, 2026-10-12）：ZH+EN 再 grep 全五語料目錄——命中集與歷次相同（OJ 277/287/242/205、TJJ 弔文／標籤／分類頁、sources 頁），全部已吸收於上方各節；唯一新命中 89e6683c（台美人台加人 p356）之「鄭麗伶」僅見於既有人物清單註解、無正文新材料。無衝突，維持飽和判定 — SKIP。
