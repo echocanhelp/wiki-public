@@ -31,5 +31,5 @@ Chronological events for **108 E8 Ac 9D E6 B8 85 E5 Bf 97 E5 8D 9A E5 A3 Ab Dr C
 _(none yet — this is a redirect stub.)_
 
 ## Subjects
-- [[people/ching-sze-hsieh.md|Ching Sze Hsieh]] — mentioned in this record
+- [[people/ching-sze-hsieh|Ching Sze Hsieh]] — mentioned in this record
 

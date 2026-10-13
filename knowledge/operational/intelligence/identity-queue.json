@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-09T14:00:32Z",
+  "updated_at": "2026-10-12T14:01:23Z",
   "items": [
+    {
+      "slug": "lester-tsai",
+      "kind": "soft_pending",
+      "reason": "soft pending aged out: capture_line_user_id_on_first_sender_message, chinese_name",
+      "display": "Lester Tsai",
+      "at": "2026-10-12T14:01:23Z"
+    },
     {
       "slug": "becky-yang",
       "kind": "soft_pending",

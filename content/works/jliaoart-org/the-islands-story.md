@@ -54,5 +54,5 @@ The episode spine (Austronesian-first, colonial-sequence, White Terror, democrat
 - [[topics/228-incident|The 228 Incident]] (Ep 6 prehistory)
 
 ## Subjects
-- [[people/jay-liao.md|Jay Liao]] — mentioned in this record
+- [[people/jay-liao|Jay Liao]] — mentioned in this record
 

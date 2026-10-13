@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "last_run": "self-heal-verify",
-  "last_run_date": "2026-10-11",
-  "pages_audited": 2910,
-  "issues_found": 26367,
+  "last_run": "slug-redirect-bot",
+  "last_run_date": "2026-10-12",
+  "pages_audited": 2913,
+  "issues_found": 29108,
   "issue_history": [
     {
       "run_date": "2026-07-13",
@@ -1830,6 +1830,68 @@
       "cross_refs": 0,
       "prev_total": 26367,
       "delta": -24164
+    },
+    {
+      "run_date": "2026-10-12",
+      "total_issues": 29108,
+      "broken_links": 12,
+      "missing_sections": 130,
+      "stale_content": 24606,
+      "orphans": 40,
+      "cross_references": 295,
+      "missing_pages": 4025,
+      "index_sync": 0,
+      "web_issues": 0,
+      "structural": 59,
+      "full_log": "/home/leedt/echo-system/echopedia/logs/nightly-audit-2026-10-12.txt"
+    },
+    {
+      "run_date": "2026-10-12",
+      "total_issues": 2233,
+      "broken_links": 11,
+      "missing_pages": 2052,
+      "structural": 130,
+      "stale": 0,
+      "missing_sections": 0,
+      "orphans": 40,
+      "cross_refs": 0,
+      "prev_total": 29108,
+      "delta": -26875
+    },
+    {
+      "run_date": "2026-10-12",
+      "total_issues": 2270,
+      "fixable": 2222,
+      "issue_types": {
+        "wikilink_md": 2221,
+        "missing_field": 23,
+        "missing_frontmatter": 24,
+        "redirect_missing_target": 1,
+        "chinese_name_mismatch": 1
+      }
+    },
+    {
+      "run_date": "2026-10-12",
+      "total_issues": 3,
+      "duplicates": 0,
+      "stale_redirects": 0,
+      "name_mismatches": 3
+    },
+    {
+      "run_date": "2026-10-12",
+      "total_broken": 12,
+      "type_a_md": 9,
+      "type_b_mismatch": 0,
+      "type_c_missing": 1,
+      "type_d_typo": 2,
+      "type_e_index": 0
+    },
+    {
+      "run_date": "2026-10-12",
+      "md_fixes": 9,
+      "redirect_stubs": 0,
+      "skipped": 3,
+      "redirect_targets": []
     }
   ],
   "resolved_issues": []
