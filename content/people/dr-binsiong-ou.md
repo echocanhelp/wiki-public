@@ -80,4 +80,4 @@ Corpus material shows Dr. Ou primarily as a Taiwan-language literature writer, c
 - 語料庫重扫命中新增 7 筆並吸收：267 台灣味青草茶、273 胡民祥詩歌聲裡、263 結束語言二二八（美洲版，HOLD: 與 271 台灣版疑同書雙版）、columns21 台灣文化專刊（第二個台灣公論報專欄，除文學園外）、477/478 與簡忠松合著 Life 雜誌特稿（1997/2000）、713 相思蟬（2015 文學）。佐證「出版 14 本台灣人著作」與工程師×台語文學雙軌身分。
 
 ## Deepen-x 2026-10-12 (slice 10110316-18)
-- 語料庫重扫：胡民祥／Binsiong Ou 全 5 目錄命中 24 筆書目/專欄頁，全部已在本頁 Role in the Community 連結中，無新書目可吸收；HOLD（261 vs 264、263 vs 271 同書疑雙版）維持。新增 wikilink：120/125 Who's Who 百科條目（原僅 URL 引用）改掛 [[works/...]] 連結。
+- 語料庫重扫：胡民祥／Binsiong Ou 全 5 目錄命中 24 筆書目/專欄頁，全部已在本頁 Role in the Community 連結中，無新書目可吸收；HOLD（261 vs 264、263 vs 271 同書疑雙版）維持。新增 wikilink：120/125 Who's Who 百科條目（原僅 URL 引用）改掛 works/... 連結。
