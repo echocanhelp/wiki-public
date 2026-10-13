@@ -1,5 +1,5 @@
 ---
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-12
 title: 台美人台加人
 type: article
 domain: taiwanjustice.net
@@ -277,4 +277,5 @@ Page 2 of 157
 ## Subjects
 - [[people/philip-lin|林水泉]] — mentioned in this record
 - [[people/bi-khim-hsiao|蕭美琴]] — mentioned in this record
+- [[people/wang-taihe|王泰和]] — mentioned in this record
 

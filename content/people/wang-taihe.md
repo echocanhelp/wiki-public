@@ -8,7 +8,7 @@ tags:
   - artist
   - cultural-figure
 verification_status: pending
-last_reviewed: 2026-09-09
+last_reviewed: 2026-10-12
 ---
 # Wang Taihe (王泰和)
 
@@ -63,6 +63,12 @@ Through his art and community involvement, Wang has helped to preserve and share
 - [[sources/2023-tahs-publication||2023 TAHS Publication]]
 - [[people/zheng-bing-quan||Zheng Bingquan (鄭炳全)]]
 - [[sources/2017-tahs-publication||2017 TAHS Publication]]
+
+## From the record
+
+- 2022-07-12 — 「化作千風－懷念台美人的人權鬥士、台獨先鋒王泰和」追思會影音見於台灣公義報「台美人台加人」分類（2025-02-16 存檔）—— [[articles/taiwanjustice-net/2025/20250216000009_category_taiwaneseamerican_page_2_3be67f6e82d34da7|TJJ 台美人台加人存檔頁2]]。
+
+<!-- TJJ-A10120402-31: verified 2026-10-12 — wave-2 link+deepen of slice 10120402-31 article 20250216000009_category_taiwaneseamerican_page_2_3be67f6e82d34da7 (台美人台加人分類存檔頁2, TJJ 快照 2025-02-16) read fresh: Subjects link re-checked vs 正文 — 「化作千風－懷念台美人的人權鬥士、台獨先鋒王泰和 [追思會影音]」(July 12, 2022) 條目逐字確認見於收錄清單, real, no wrong/spurious links; 本頁原無 From the record 段, 本次補上 2022-07-12 含該文 wikilink 之日期事實. -->
 
 ## 照片
 
