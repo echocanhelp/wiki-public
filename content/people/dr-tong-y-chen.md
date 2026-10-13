@@ -40,7 +40,7 @@ His material culture of the diaspora is itself a historical source: TAH encyclop
 ## Family
 
 - **Wife:** 李芬芬
-- **Daughter:** 3 — the eldest is 陳怡安 [[people/prof-grace-chen-huang||Prof. Grace Chen Huang]], who graduated from Stanford (English & Biochemistry), earned her M.D. at Washington University in St. Louis, interned at Beth Israel Deaconess, joined Harvard Medical School in 2003 and was promoted to associate professor in 2013 (confirmed in the 台美人之光 profile record of 2021-05-12).
+- **Daughter:** 3 — the eldest is 陳怡安 [[people/prof-grace-chen-huang||Prof. Grace Chen Huang]], who graduated from Stanford (English & Biochemistry), earned her M.D. at Washington University in St. Louis, interned at Beth Israel Deaconess, joined Harvard Medical School in 2003 and was promoted to associate professor in 2013 (confirmed in the 台美人之光 profile record of 2021-05-12: [[articles/taiwanjustice-net/2021/20210621201640_2021_05_12_台美人之光_陳怡安_grace-huang_出任哈佛醫學院主管教_3c0f66c4a2839380||台美人之光: 陳怡安 Grace Huang 出任哈佛醫學院主管教育, 2021-05-12]] — the article's Subjects section carries the reverse wikilink to this page).
 
 
 ## Letters and community in the vault
@@ -91,3 +91,5 @@ His material culture of the diaspora is itself a historical source: TAH encyclop
 
 <!-- TJJ-A10110001-20: verified 2026-10-12 — wave-2 link+deepen re-check of article c691e327b9133c1a (Tag: 心得報告, 發文 2018-04-06／快照 2024-07-19) read fresh this attempt: subject link 陳東榮 re-checked vs 正文, 「【長青教室心得報告】摘下口罩，談麻醉醫師的角色 ◎ 陳東榮醫師 2018-03-14」確認見於條目, real, no wrong/spurious links; 2018-03-14 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10110502-28: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110502-28 article 14114a89e393f958 (摘下口罩談麻醉醫師角色心得報告, 2024-06-14 存檔) read fresh this attempt: 陳東榮 link re-checked vs 正文 (演講者本尊, 標題「◎ 陳東榮醫師 2018-03-14」), real, no wrong/spurious links; 2018-03-14 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- DEEPEN-X10120600-32: verified 2026-10-12 — slice 10120600-32 re-grep fresh (陳東榮/Tong Y. Chen/東榮 across all 5 corpus dirs): 30-file hit set. Corpus names 東榮 matches: 謝東榮 (泰源事件烈士), 莊東榮 (台灣協志會籌委) — different persons, correctly excluded. New material this pass: 台美人之光 2021-05-12 profile of daughter 陳怡安 (「陳怡安是台美人筆會前會長陳東榮醫師、李芬芬夫婦的大女兒」) — Family section now wikilinks the source article (reverse Subjects link exists); no new dates/roles. All other hits already cited on this page — page saturated otherwise. -->
