@@ -122,6 +122,8 @@ Accomplishment
 - Corpus re-check 2026-10-10 (deepen-x slice 10100315-17): fresh ZH+EN+surname grep (許丕龍 / Ahhee / 丕龍 / Pi-long) across all 5 corpus dirs returned the identical hit set — 16 works (incl. #2267, #649 tape, #258, #172, OJ 2/70/186/272/301/339/340, mystories 275/277, #655), 6 TJJ articles, sources page; surname-only widening found no additional files. All hits already absorbed in Role in the Community / From the record. SKIP-with-reason; page saturated.
 - Corpus re-check 2026-10-09 (deepen-x slice 10080951-9): re-grep 許丕龍/Ahhee across works+articles+sources+events+topics (24 hits) — hit set otherwise identical to prior checks, but three details in OJ 339/340/2 not previously absorbed: (1) his own 2018 memo says he produced **two** Crystal Cathedral 感恩節音樂會 (second one single-source → HOLD); (2) he was one of three 召集人 of the 2018 蕭泰然音樂節 with 田詒鴻 [[people/alan-thian|Alan Thian]] and 陳文石 [[people/chen-wenshi|Stone Chen]]; (3) brother 許左龍's 《大家唱》 songbook donation in the 台灣之音 fund drive. All three absorbed above.
 
+<!-- TJJ-A10120501-16: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10120501-16 article 2fa1c26a7ca674e2 (台美人台加人 p359, 2024-07-18快照) read fresh this attempt: 「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段/2011-10-30」條目逐字再確認見於正文, subject link real, no wrong/spurious links; 2011-10-30 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
 ## Related Pages
 - [[people/c-y-hsu||Tsan Yu Hsu 許贊育]] — father
 - [[organizations/tah-foundation||TAH Foundation]]
