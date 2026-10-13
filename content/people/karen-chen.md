@@ -52,6 +52,7 @@ Track of her coverage in the TAH community archive:
 - 2026-10-11 re-grep (slice 10100800-7): fresh ZH+EN grep across all 5 corpus dirs returned the same 13-file hit set as the 10-09 round; only new absorbable item was the TAH #313 encyclopedia record, now wikilinked on the 2017-01 line. No new narrative facts; existing HOLD kept, no dates merged.
 - 2026-10-09 re-grep (slice 10081018-29): fresh ZH+EN grep across all 5 corpus dirs returned 13 files; new vs prior rounds: videos50 (#50) and the Taiwan Zhiguang athlete feature (absorbed above). The taiwanjustice.net 翁啟惠連署 article's signer "Karen Chen <yichunchen@cox.net>" is 陳怡君 — a different Karen Chen, explicitly disambiguated in that record — not absorbable here. Existing HOLD kept, no dates merged.
 - 2026-10-12 re-grep (slice 10110400-4): fresh ZH+EN grep across all 5 corpus dirs returned the same 13-file hit set (#2/#240/#313/#1486/#1988, #823, #1204, #3, videos50, Taiwan Zhiguang feature, taiwanjustice連署 article, plus the two index/source listings). 楷雯-only grep adds nothing. Verified saturated — SKIP; nothing new absorbable; existing HOLD kept, no dates merged.
+- 2026-10-12 re-grep (slice 10120600-24): fresh ZH+EN grep across all 5 corpus dirs returned the identical 13-file hit set, all already linked or explicitly disambiguated (taiwanjustice signer Karen Chen = 陳怡君, different person). Verified saturated — SKIP; nothing new absorbable; existing HOLD kept, no dates merged.
 
 ## Family
 
