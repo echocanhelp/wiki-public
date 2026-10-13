@@ -84,3 +84,5 @@ last_reviewed: 2026-10-12
 <!-- TJJ-A10100801-7: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100801-7 article 80c0a825a7a661b6 (2021年南加州僑界支持台灣參與世界衛生大會(WHA)聯合聲明, 2025-11-08 快照, 同文於 b1d58af16c0a5e5b, 聲明 2021-05-13): subject link re-checked vs 正文 this attempt — 蘇國雄 列名共同發起人清單, real, no wrong/spurious links; 2021-05-13 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 複核（deepen-x 10110200-31, 2026-10-12）：fresh grep 蘇國雄/Peter Su across works+articles+sources+events+topics → 命中集合與頁面已連結記錄完全相同（ourjourneys212/244/186/186-eng/283/307、whoswho1029、TJJ WHA聲明 b1d58af16c0a5e5b / 80c0a825a7a661b6、TJJ Royce 募款餐會 95059d99c7a3c997）；另兩筆噪音（Peter Sutcliffe 報導 1d1cbd6a、works/index 名冊條目）— 飽和，SKIP，無新增社群材料。
+
+複核（deepen-x 10120500-15, 2026-10-12）：fresh grep 蘇國雄/Peter Su across works+articles+sources+events+topics → 命中集合與頁面已連結記錄完全相同（ourjourneys212/244/186/186-eng/283/307、whoswho1029、TJJ WHA聲明雙快照、TJJ Royce 募款餐會）；噪音同前（Peter Sutcliffe 報導 1d1cbd6a、works/index 與 sources 索引條目）；正文抽樣再驗證（ourjourneys244/283/307/212/186 各段命中句）與頁面敘述一致，無衝突 — 飽和，SKIP，無新增社群材料。
