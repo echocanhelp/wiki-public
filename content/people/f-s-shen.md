@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # F.S. Shen (沈富雄)
 
@@ -48,6 +48,7 @@ Corpus memoirs place 沈富雄 in the Taiwan independence / blacklist-era moveme
 - **2024 立委罷免戰評論：** 中山大學退休教授、台灣安全促進會會長陳茂雄的評論記述，戰鬥藍的趙少康批評國民黨罷免連署戰力弱時，沈富雄也在 TVBS 節目《少康戰情室》中砲火猛批朱立倫，稱朱讓他「擲筆三嘆」；文中並回顧「沈富雄原來是民進黨明星級的政治人物」——顯示其於罷免議題上仍活躍於名嘴／評論角色 — [[articles/taiwanjustice-net/2025/20250320203025_趙少康何須生氣_-_-陳茂雄_36d1f3acafb9c074|TJJ / 2025-03-20]]。
 - **國民黨評論角色（2024）：** 同庫另一報導標題記「傅崐萁『微調』訪中時間，沈富雄：國民黨『3笨咖』不退場 2028 就泡湯！」——沈富雄持續以時評人身份就國民黨路線公开发聲 — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2|TJJ / 2024-04-25]]。
 - Corpus re-grep（deepen-x 2026-10-11）：命中集 13 檔 = ourjourneys 350/8/8-eng/259/212/301、TAH #785 自有記錄、TJJ 振華數據庫、TJJ 趙少康 2024/2021 兩筆、2025-03-20 陳茂雄罷免評論、2024-04-25 「3笨咖」報導，另 works/index 與 sources 索引頁——全數已吸收於上列條目，無新增材料。
+- Corpus re-grep (deepen-x 2026-10-12, 沈富雄／富雄 across works/articles/sources/events/topics): 23 hits, all resolved — the 沈富雄 hits are the 13 files already listed above; every 富雄 hit is 張富雄 (Morgan Chang — 台灣之音, ourjourneys 2/9/76/143/268/357, 慈林聯展報導兩筆) or 林富雄 (北卡同鄉會理事, ourjourneys241), i.e. other people, not this page. No new material. Page verified saturated.
 - His own TAH #785 encyclopedia record (2016-01) is held as a corpus work page: [[works/taiwaneseamericanhistory-org/785-f-s-shen-e6-b2-88-e5-af-8c-e9-9b-84-201601|785. F.S. Shen 沈富雄 / 2016/01]].
 
 ## Family
