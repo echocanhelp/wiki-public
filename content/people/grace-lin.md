@@ -134,3 +134,5 @@ last_reviewed: 2026-10-12
 <!-- TJJ-A10110001-28: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10110001-28 article dc44b297e6225e64 (長青教室心得報告: 郝龍斌倡導阿扁保外就醫論評全文, 發文 2012-10-26 / 快照 2024-07-19) read fresh this attempt: 文末「記錄: 吳瑞惠」確認見於正文; subject link re-checked vs 正文, real, no wrong/spurious links; 2012-10-24 記錄條目 w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- DEEPEN-X10120200-13: re-grep 2026-10-12 — 吳瑞惠/Grace Lin 全 corpus 命中集與前次相同：本人檔 #613、concerts81、mystories132、#284 四筆 TAH 檔 + TJJ 演講記錄六檔（be7ac05c / 2c109418 / cc3dcc87 / 26f76359 / dc44b297 / 23a52af3），全部已掛 wikilink。本次另核 coming-of-age-with-grace-lins-year-of-the-dog 與 pew-statement 名單頁之 "Grace Lin" 皆指童書作家林珮思（Year of the Dog 作者），非本頁 吳瑞惠，故不加鏈 — 消歧段已覆蓋。無新的本人社群語料 — SKIP，已飽和。 -->
+
+<!-- TJJ-A10120501-28: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10120501-28 article dc44b297e6225e64 (長青教室心得報告: 郝龍斌倡導阿扁保外就醫論評全文, 發文 2012-10-26 / 快照 2024-07-19) read fresh this attempt: 文末「記錄: 吳瑞惠」確認見於正文; subject link re-checked vs 正文, real, no wrong/spurious links; 2012-10-24 記錄條目 w/ article wikilink already in From the record — saturated, no new material. -->
