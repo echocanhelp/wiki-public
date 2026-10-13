@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-12
 ---
 # Sing-Nan Wang (王幸男)
 
@@ -62,3 +62,4 @@ last_reviewed: 2026-10-11
 > Re-grep（deepen-x slice 10060911-1，2026-10-07）：fresh ZH+EN grep（works/articles/sources/events/topics）— hit set identical（photo-albums-activities-107、ourjourneys123/-eng、ourjourneys315、mystories407、ourjourneys223、mystories204、ourjourneys210、851 條目）；all already absorbed. SKIP: verified-saturated.
 > Re-grep（deepen-x slice 10081018-7，2026-10-09）：fresh ZH+EN grep across all 5 corpus dirs — the only new candidate hits were taiwanjustice articles referencing 枝野幸男（Edano Yukio, Japanese politician; substring 幸男 false positive）. Hit set identical to prior runs; all memoir links intact. SKIP: verified-saturated.
 > Re-grep（deepen-x slice 10100700-16，2026-10-11）：fresh ZH+EN grep across all 5 corpus dirs — hit set identical（photo-albums-activities-107、ourjourneys123/-eng、ourjourneys315、mystories407、ourjourneys223、mystories204、ourjourneys210、851 條目）；all already linked and absorbed above, no new corpus facts. SKIP: verified-saturated.
+> Re-grep（deepen-x slice 10120600-2，2026-10-12）：fresh ZH+EN grep across all 5 corpus dirs — hit set identical（photo-albums-activities-107、ourjourneys123/-eng、ourjourneys315、mystories407、ourjourneys223、mystories204、ourjourneys210、851 條目）；all already linked and absorbed above, no new corpus facts. SKIP: verified-saturated.
