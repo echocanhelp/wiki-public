@@ -70,6 +70,7 @@ last_reviewed: 2026-10-11
 - 2019-11-02 — 台大校方反悔拒出陳文成紀念廣場一半工程經費，台大學生會與台大教授陪同陳文成基金會開記者會宣布募款；台大歷史系教授周婉窈出席表示捐款代表肯認校園轉型正義，盼台灣民主自由體制不再退轉（[[articles/taiwanjustice-net/2022/20220415221720_2019_11_02_校方反悔拒出陳文成紀念廣場工程費_-台大師生偕_03754005e8506b45|TJJ，2019-11-02]]）。
 - 2017-11-02 — 風傳媒報導：台大教授周婉窈嘆黨國教育讓台灣人60年來都不認識自己，是台灣史教育最大缺憾（[[articles/taiwanjustice-net/2017/20171109045235_category_history_e46328a877e48794|TJJ，2017-11-02]]）。
 - 2015-03 — 陳文成紀念廣場命名爭議中，周婉窈指出1950年代通常直呼全名、只稱「名」不稱「姓」是近年才有的習慣，認為陳文成31年生命中應很少被稱呼「文成」；校方表決後改名「陳文成事件紀念廣場」（[[works/taiwaneseamericanhistory-org/ourjourneys120|TAHS Our Journey #120，陳文成事件廣場命名／唐詩]]）。
+- 1956 — 出生年（zh.wikipedia 詞條僅記出生年 1956 年，未記出生地；與本人 1978 年台大畢業之年表相符，無衝突）（[[sources/zhwp-w-y-chou.md|zh.wikipedia]]）。
 
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
@@ -94,3 +95,5 @@ last_reviewed: 2026-10-11
 <!-- DEEPEN-X10100500-28: 2026-10-11 — fresh ZH+EN grep (周婉窈 / W. Y. Chou) across works/articles/sources/events/topics: 15 hits, hit set identical to prior saturation rounds (本人 #1198 檔、ourjourneys120、works/sources index、TJJ 存檔 2017/2019/2021/2022/2024/2025/2026 各筆). All records already absorbed + wikilinked in From the record; no new memoir narrative, no conflicts. Saturated. -->
 
 <!-- TJJ-A10100601-17: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100601-17 article 24119694dbb384c9（鄭自才談424刺蔣案意義：台灣人追求獨立建國, CNA 中央社記者溫貴香, 刊 2020-04-24 / Wayback 快照 2025-11-15）read fresh this attempt: subject link re-checked vs 正文, real mention, no wrong/spurious links; 王文宏 co-panelist real per 正文 but has no people page — correctly unlinked; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+web-pass: 2026-10-12 confirmed
