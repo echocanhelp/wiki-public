@@ -55,6 +55,7 @@ last_reviewed: 2026-10-12
 - 複核（deepen-x slice-09251527-1, 2026-09-26）：fresh grep 姜瑞香 / Agnes Wu（works+articles）hit set identical (#310, mystories313/-eng, #176, ourjourneys154, mystories351) — all already linked above; verified saturated, SKIP-no-new-facts.
 - 2026-10-11 (slice 10100700-15): fresh ZH+EN grep across all 5 corpus dirs — 12-file hit set identical to prior passes (#310, mystories313/-eng, #176, ourjourneys154, mystories351, ourjourneys91, photo-albums-activities-51, Pew statement, taiwaneseamerican-org Keimay memorial; works/index + sources hub index-only). No new absorbable facts; verified saturated.
 - 2026-10-12 (slice 10110315-17): fresh ZH+EN grep across all 5 corpus dirs — same 12-file hit set. One new detail absorbed above from ourjourneys91: the 贈書小組 was founded by 賴淑娟 (2004/05, overall director) before Agnes joined as 書源負責人. No other new facts; saturated.
+- 2026-10-12 (slice 10120600-1): fresh ZH+EN grep across all 5 corpus dirs — same 12-file hit set, all already linked/absorbed above. Surname-variant sweep (瑞香) surfaced one apparent new hit (2018 台大通識抗爭連署名單, taiwanjustice-net), but the name is 傅瑞香 (醫科), a different person — false positive, not linked. Verified saturated, no new absorbable facts.
 
 ## Sources
 - [TAH #310 encyclopedia: 310. Agnes Wu 姜瑞香/2015/02](https://taiwaneseamericanhistory.org/310-agnes-wu-%e5%a7%9c%e7%91%9e%e9%a6%99201502/)
