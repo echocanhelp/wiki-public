@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-10-13 00:37 PDT*
+*Generated: 2026-10-15 07:44 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -14,20 +14,20 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `8a9fd115230`
-- **Last night (ledger):** analyzer scanned 2944 queued 26 suppressed 2267 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 17 · 🔴 NEED YOU cron fail: go-router-monthly-audit
+- **Last good deploy:** `cba9ffffee7`
+- **Last night (ledger):** analyzer scanned 2951 queued 18 suppressed 2366 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 8 · 🔴 NEED YOU cron fail: echopedia-ci-heal, go-router-monthly-audit
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
-|- **Tier1 pages:** 2913 (people 2432 / orgs 440 / sources 41) · Tier2 archive: 29103
-|- **Janitor queue depth:** 76
-|- **Uncommitted files:** 356
+|- **Tier1 pages:** 2919 (people 2435 / orgs 440 / sources 44) · Tier2 archive: 29103
+|- **Janitor queue depth:** 58
+|- **Uncommitted files:** 168
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 | Stage | Script | Schedule (jobs.json) | Output |
 |-------|--------|----------------------|--------|
 | Scout | echopedia-scout-live | 21:40 | 44 checked, 0 broken, 0 slow |
-| Filter | echopedia-content-analysis | 21:10 | 2947 scanned, 36 queued |
+| Filter | echopedia-content-analysis | 21:10 | 2951 scanned, 18 queued |
 | Extract | echopedia-extract-actions | 22:00 | knowledge/operational/extracted/ |
 | Evaluate | echopedia-evaluate-actions | 22:20 | knowledge/operational/evaluated/ |
 | Generate | echopedia-generate-cards | 22:40 | no data |
@@ -55,44 +55,44 @@ Load skill **echopedia-ops** first for any wiki work.
 ```
     Name:      cron-output-rotate
     Schedule:  5 21 * * *
-    Last run:  2026-10-12T21:06:02.726257-07:00  ok
+    Last run:  2026-10-14T21:06:03.348893-07:00  ok
     Name:      vault-morning-brief
     Schedule:  0 7 * * *
-    Last run:  2026-10-12T07:01:30.596605-07:00  ok
+    Last run:  2026-10-15T07:00:28.475157-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-10-13T00:37:04.116680-07:00  ok
+    Last run:  2026-10-15T07:45:08.101420-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 21 * * *
-    Last run:  2026-10-12T21:11:04.638083-07:00  ok
+    Last run:  2026-10-14T21:11:05.728776-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-10-13T00:34:01.863151-07:00  ok
+    Last run:  2026-10-15T07:18:03.266080-07:00  ok
     Name:      echopedia-digest
     Schedule:  20 6 * * *
     Last run:  2026-09-20T06:20:40.011944-07:00  ok
     Name:      memory-audit
     Schedule:  50 0 * * *
-    Last run:  2026-10-12T00:50:05.013069-07:00  ok
+    Last run:  2026-10-15T00:51:02.895316-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  15 21 * * *
-    Last run:  2026-10-12T21:30:04.735273-07:00  ok
+    Last run:  2026-10-14T21:36:20.551861-07:00  ok
     Name:      echopedia-janitor
     Schedule:  30 21 * * *
-    Last run:  2026-10-12T21:31:10.068708-07:00  ok
+    Last run:  2026-10-14T21:31:11.100294-07:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  15 22 * * 0
     Last run:  2026-10-11T22:28:25.490745-07:00  ok
     Name:      echopedia-ci-heal
     Schedule:  25 0 * * *
-    Last run:  2026-10-12T00:32:37.843731-07:00  ok
+    Last run:  2026-10-15T00:37:42.621038-07:00  error: Script exited with code 1
+error: failed to push some refs to 'https://github.com/echocanhelp/wiki-public.git'
     Name:      echopedia-site-design
     Schedule:  30 0 * * *
-    Last run:  2026-10-13T00:31:04.957121-07:00  ok
+    Last run:  2026-10-15T00:31:05.080825-07:00  ok
     Name:      vault-search-index-rebuild
     Schedule:  0 21 * * 0
     Last run:  2026-10-11T21:00:04.631540-07:00  ok
-    Name:      echopedia-scout-live
 ```
 
 ## Briefs
@@ -118,7 +118,7 @@ Load skill **echopedia-ops** first for any wiki work.
 | 15 23 * * * | `echopedia-quote-extractor` | no_agent | on | ok | `echopedia-quote-extractor-cron.sh` |
 | 20 22 * * * | `echopedia-evaluate-actions` | no_agent | on | ok | `echopedia-evaluate-actions.py` |
 | 20 6 * * * | `echopedia-digest` | no_agent | OFF | ok | `echopedia-digest.sh` |
-| 25 0 * * * | `echopedia-ci-heal` | no_agent | on | ok | `echopedia-ci-heal-wrapper.sh` |
+| 25 0 * * * | `echopedia-ci-heal` | no_agent | on | error | `echopedia-ci-heal-wrapper.sh` |
 | 30 */4 * * * | `echopedia-news-digest` | no_agent | on | ok | `echopedia-news-digest.py` |
 | 30 0 * * * | `echopedia-site-design` | no_agent | on | ok | `echopedia-site-design-wrapper.sh` |
 | 30 21 * * * | `echopedia-janitor` | no_agent | on | ok | `echopedia-janitor-wrapper.sh` |
