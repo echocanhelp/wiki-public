@@ -654,3 +654,5 @@ _No filled family fields on the TAH profile._
 <!-- TJJ-10060700-5: verified 2026-10-14 — wave-2 link+deepen re-check of article 20240520034013_root_6f2b431c9cb0cca9 (台美人台加人頻道索引 p354, 2024-05-20快照) read 正文 fresh this attempt: Subjects link re-checked line-by-line vs 正文 — 「蕭美琴：為加速取得250萬劑疫苗，台灣自行派機取貨[影]」條目（列表日期 2021-06-19）逐字確認見於正文, real, no wrong/spurious links; 正文其餘人名（鄭炳全／賴清德／童振源／彭明敏等）為其他索引條目標題或全站作者導航欄（TJJ-A09300400-21/c05e2d53 孿生頁慣例裁決），不建鏈; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-10060700-8 (t_457229b3): verified 2026-10-14 — wave-2 link+deepen re-check of article 74a9c518e681a3de (台美人台加人 分類存檔 p2, TJJ 發文 2020-06-23／快照 2020-06-26) read fresh this attempt: subject link 蕭美琴 re-checked line-by-line vs 正文 — 「蕭美琴辭別花蓮將駐美，支持者送祝福」(listed May 31, 2020) 與「蕭美琴：面對外交戰狼挑釁 我自許為戰貓」確認見於收錄清單, real, 0 wrong, 0 spurious; 2020-05-31 dated fact w/ article wikilink already in From the record — saturated, 0 page edits. -->
+
+<!-- cdn-invalidate 2026-10-15 -->
