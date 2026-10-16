@@ -7,6 +7,8 @@ license: all-rights
 verification_status: pending
 last_reviewed: 2026-09-07
 ---
+
+verified-saturation: 2026-10-13 (work-entity-linker: registry scan found no new entity links; 2 subject links already present)
 # 65. 李登輝，我受不了 / 南鄉泰 (李泰雄) /1997/09/Politics/政治
 
 ## Identity Snapshot
@@ -32,6 +34,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2014-10-15 — published
 
 ## Subjects
+- [[people/li-teng-hui.md|李登輝]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

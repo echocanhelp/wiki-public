@@ -1,8 +1,12 @@
-TAHS · Echopedia morning brief — 2026-10-12
-1 NEED YOU item(s) below; the rest is auto-handled.
+TAHS · Echopedia morning brief — 2026-10-16
+3 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
-🔴 NEED YOU  1. Echopedia miss: “ev-lunar-new-year-banquet”
+🔴 NEED YOU  1. Echopedia miss: “瑞莎”
+     → Confirm identity / approve thin page / or dismiss
+🔴 NEED YOU  2. Echopedia miss: “蔣萬安”
+     → Confirm identity / approve thin page / or dismiss
+🔴 NEED YOU  3. Echopedia miss: “ev-lunar-new-year-banquet”
      → Confirm identity / approve thin page / or dismiss
 
 🟡 QUEUE / identity (soft — no reply required)
@@ -27,21 +31,21 @@ TAHS · Echopedia morning brief — 2026-10-12
 🟡 QUEUE 11 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~17713 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~18781 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
-🟡 QUEUE 1. Link tip: organizations/taiwanese-american-council-of-greater-new-york.md ↔ organizations/taiwanese-american-council.md
-🟡 QUEUE 2. Link tip: organizations/taiwanese-association-of-northwest-los-angeles.md ↔ people/bang-h-hwang.md
+🟡 QUEUE 1. Link tip: organizations/taiwanese-association-of-northwest-los-angeles.md ↔ people/bang-h-hwang.md
+🟡 QUEUE 2. Link tip: people/lynn-huang.md ↔ people/zhou-wei-lin.md
 🟡 QUEUE 3. Link tip: organizations/acevedo-music-and-art-education-foundation-inc.md ↔ people/yin-yin-huang.md
 🟡 QUEUE 4. Link tip: organizations/ai-education-foundation.md ↔ organizations/stc-rowland-legacy.md
 🟡 QUEUE 5. Link tip: organizations/ai-education-foundation.md ↔ organizations/rowland-heights-chinese-association.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 141 visits since cutoff · yday 2026-10-11 = 1 · /people/albert-zh-sku-b-publisher-review.html 22, /people/gwhyneth-chen 16, /people/albert-zh-sku-b-publish
+ℹ️  INFO  wiki 154 visits since cutoff · yday 2026-10-15 = 2 · /people/albert-zh-sku-b-publisher-review.html 22, /people/gwhyneth-chen 16, /people/albert-en-sku-a-scratch
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 2944 queued 26 suppressed 2267
+✅ AUTO analyzer scanned 2953 queued 13 suppressed 2407
 🟡 QUEUE janitor HOLD leftover 40
-🟡 QUEUE kanban blocked 17
+🟡 QUEUE kanban blocked 8
 🔴 NEED YOU cron fail: go-router-monthly-audit
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

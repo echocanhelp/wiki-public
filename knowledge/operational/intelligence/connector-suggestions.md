@@ -1,12 +1,12 @@
 # Connector suggestions (capped top 80)
 
-- co_citation total=6278 kept=80
-- co_mention total=11435 kept=40
+- co_citation total=6983 kept=80
+- co_mention total=11798 kept=40
 - shared_tags total=0 kept=0
 
 ## Top co-citation
-- organizations/taiwanese-american-council-of-greater-new-york.md ↔ organizations/taiwanese-american-council.md
 - organizations/taiwanese-association-of-northwest-los-angeles.md ↔ people/bang-h-hwang.md
+- people/lynn-huang.md ↔ people/zhou-wei-lin.md
 - organizations/acevedo-music-and-art-education-foundation-inc.md ↔ people/yin-yin-huang.md
 - organizations/ai-education-foundation.md ↔ organizations/stc-rowland-legacy.md
 - organizations/ai-education-foundation.md ↔ organizations/rowland-heights-chinese-association.md
@@ -22,9 +22,9 @@
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/joint-chinese-university-alumni-association-of-southern-california.md
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwan-center-choir.md
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwanese-american-arts-association.md
-- organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md
+- organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwanese-american-association-east-san-gabriel-valley.md
+- organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwanese-american-historical-society.md
 - organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ organizations/taiwanese-american-soft-tennis-association.md
-- organizations/alumni-association-of-chia-yi-high-school-worldwide.md ↔ people/alan-t-chen.md
 - organizations/american-chinese-dance-association.md ↔ organizations/taiwan-elite-alliance.md
 - organizations/american-chinese-dance-association.md ↔ people/dr-steve-huang.md
 - organizations/american-chinese-dance-association.md ↔ people/paul-chen.md

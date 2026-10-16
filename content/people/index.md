@@ -1396,6 +1396,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/lung-wen-tsai|Lung-Wen Tsai (蔡隆文博士)]]
 [[people/lynn-huang|Lynn Huang (黃令先)]]
 [[people/li-mutong|李木通 (Li Mutong)]]
+[[people/li-teng-hui|李登輝 (Lee Teng-hui)]]
 [[people/mei-xinyi|梅心怡 (Lynn Alan Miles)]]
 
 ### M {#m}

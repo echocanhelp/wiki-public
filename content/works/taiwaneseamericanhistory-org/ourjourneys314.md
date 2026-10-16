@@ -7,6 +7,8 @@ license: all-rights
 verification_status: pending
 last_reviewed: 2026-09-07
 ---
+
+verified-saturation: 2026-10-13 (work-entity-linker: registry scan found no new entity links; 2 subject links already present)
 # 314. 東田納西台灣同鄉會創會二十週年感言 / 陳玉明 /09/2017
 
 ## Identity Snapshot
@@ -59,6 +61,7 @@ Posted in 09/2017
 - 2017-09-27 — published
 
 ## Subjects
+- [[people/li-teng-hui.md|李登輝]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

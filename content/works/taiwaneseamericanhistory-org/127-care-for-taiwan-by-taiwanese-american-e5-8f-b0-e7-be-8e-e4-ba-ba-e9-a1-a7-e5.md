@@ -7,6 +7,8 @@ license: all-rights
 verification_status: pending
 last_reviewed: 2026-09-07
 ---
+
+verified-saturation: 2026-10-13 (work-entity-linker: registry scan found no new entity links; 2 subject links already present)
 # 127. Care for Taiwan by Taiwanese American (台美人顧台灣） : 18, 台美人歡迎李登輝前總統訪問美國/李登輝基金會/2015/04
 
 ## Identity Snapshot
@@ -32,6 +34,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-04-22 — published
 
 ## Subjects
+- [[people/li-teng-hui.md|李登輝]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

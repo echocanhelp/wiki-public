@@ -274,3 +274,7 @@ March 2, 2021
 ...
 18
 Page 3 of 18
+
+## Subjects
+- [[people/li-teng-hui.md|李登輝]] — mentioned in this record
+

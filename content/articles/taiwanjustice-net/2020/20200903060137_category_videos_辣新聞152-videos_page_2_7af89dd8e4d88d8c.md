@@ -304,3 +304,7 @@ July 30, 2020
 ...
 42
 Page 2 of 42
+
+## Subjects
+- [[people/li-teng-hui.md|李登輝]] — mentioned in this record
+

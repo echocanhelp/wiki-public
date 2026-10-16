@@ -7,6 +7,8 @@ license: all-rights
 verification_status: pending
 last_reviewed: 2026-09-07
 ---
+
+verified-saturation: 2026-10-13 (work-entity-linker: registry scan found no new entity links; 2 subject links already present)
 # 44. 紐約上州台灣同鄉高爾夫球俱樂部李登輝杯 Upstate New York Taiwanese Golf Club
 
 ## Identity Snapshot
@@ -32,6 +34,7 @@ _Bibliographic record only. Full text stays in the vault._
 - 2015-12-28 — published
 
 ## Subjects
+- [[people/li-teng-hui.md|李登輝]] — mentioned in this record
 - (named subjects pending absorb)
 
 ## Related Pages

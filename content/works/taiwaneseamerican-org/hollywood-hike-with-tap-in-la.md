@@ -7,6 +7,8 @@ license: all-rights
 verification_status: pending
 last_reviewed: 2026-08-20
 ---
+
+verified-saturation: 2026-10-13 (work-entity-linker: registry scan found no new entity links; 2 subject links already present)
 # Hollywood Hike with TAP in LA
 
 ## Identity Snapshot
@@ -29,6 +31,7 @@ _Bibliographic record only. Full text stays in the vault (copyright)._
 - [[works/taiwaneseamerican-org/hollywood-hike-with-tap-in-la||Hollywood Hike with TAP in LA]]
 - [[articles/taiwanjustice-net/2020/20200811090254_2020_08_06_駐日處逾3千人悼念李登輝_安倍母親弔唁函致意_hollywood_fd7a9c6014f40b2e||hollywood]]
 - [[organizations/taiwanese-american-historical-society||TAHS]]
+- [[people/li-teng-hui.md|李登輝]] — mentioned in this record
 
 ## Related Pages
 - [[organizations/taiwanese-american-historical-society||TAHS]]

@@ -272,3 +272,7 @@ August 24, 2022
 ...
 96
 Page 1 of 96
+
+## Subjects
+- [[people/li-teng-hui.md|李登輝]] — mentioned in this record
+

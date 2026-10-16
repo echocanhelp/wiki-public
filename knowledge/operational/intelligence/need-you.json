@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-10-12T14:01:23Z",
+  "generated_at": "2026-10-16T14:00:27Z",
   "max": 5,
-  "count": 1,
+  "count": 3,
   "items": [
+    {
+      "id": "gap_f6a0922efa",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “瑞莎”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "cli",
+      "ts": "2026-10-14T18:41:55Z"
+    },
+    {
+      "id": "gap_cf795cf145",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “蔣萬安”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "cli",
+      "ts": "2026-10-14T18:21:28Z"
+    },
     {
       "id": "gap_cf4c30dbf5",
       "priority": 1,

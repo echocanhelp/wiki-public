@@ -272,3 +272,7 @@ November 26, 2023
 ...
 159
 Page 1 of 159
+
+## Subjects
+- [[people/li-teng-hui.md|李登輝]] — mentioned in this record
+

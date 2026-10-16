@@ -272,3 +272,7 @@ January 10, 2021
 ...
 87
 Page 2 of 87
+
+## Subjects
+- [[people/li-teng-hui.md|李登輝]] — mentioned in this record
+

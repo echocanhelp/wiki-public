@@ -271,3 +271,7 @@ April 7, 2022
 ...
 24
 Page 1 of 24
+
+## Subjects
+- [[people/li-teng-hui.md|李登輝]] — mentioned in this record
+
