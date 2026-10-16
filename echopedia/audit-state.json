@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "last_run": "slug-redirect-bot",
-  "last_run_date": "2026-10-12",
-  "pages_audited": 2913,
-  "issues_found": 29108,
+  "last_run": "self-heal-verify",
+  "last_run_date": "2026-10-15",
+  "pages_audited": 2919,
+  "issues_found": 22487,
   "issue_history": [
     {
       "run_date": "2026-07-13",
@@ -1892,6 +1892,87 @@
       "redirect_stubs": 0,
       "skipped": 3,
       "redirect_targets": []
+    },
+    {
+      "run_date": "2026-10-13",
+      "total_issues": 22257,
+      "broken_links": 2,
+      "missing_sections": 138,
+      "stale_content": 17720,
+      "orphans": 39,
+      "cross_references": 299,
+      "missing_pages": 4059,
+      "index_sync": 0,
+      "web_issues": 0,
+      "structural": 61,
+      "full_log": "/home/leedt/echo-system/echopedia/logs/nightly-audit-2026-10-13.txt"
+    },
+    {
+      "run_date": "2026-10-13",
+      "total_issues": 2253,
+      "broken_links": 2,
+      "missing_pages": 2074,
+      "structural": 138,
+      "stale": 0,
+      "missing_sections": 0,
+      "orphans": 39,
+      "cross_refs": 0,
+      "prev_total": 22257,
+      "delta": -20004
+    },
+    {
+      "run_date": "2026-10-14",
+      "total_issues": 22346,
+      "broken_links": 0,
+      "missing_sections": 146,
+      "stale_content": 17735,
+      "orphans": 42,
+      "cross_references": 300,
+      "missing_pages": 4122,
+      "index_sync": 0,
+      "web_issues": 1,
+      "structural": 62,
+      "full_log": "/home/leedt/echo-system/echopedia/logs/nightly-audit-2026-10-14.txt"
+    },
+    {
+      "run_date": "2026-10-14",
+      "total_issues": 2292,
+      "broken_links": 0,
+      "missing_pages": 2104,
+      "structural": 146,
+      "stale": 0,
+      "missing_sections": 0,
+      "orphans": 42,
+      "cross_refs": 0,
+      "prev_total": 22346,
+      "delta": -20054
+    },
+    {
+      "run_date": "2026-10-15",
+      "total_issues": 22487,
+      "broken_links": 0,
+      "missing_sections": 149,
+      "stale_content": 17868,
+      "orphans": 45,
+      "cross_references": 300,
+      "missing_pages": 4125,
+      "index_sync": 0,
+      "web_issues": 0,
+      "structural": 62,
+      "full_log": "/home/leedt/echo-system/echopedia/logs/nightly-audit-2026-10-15.txt"
+    },
+    {
+      "run_date": "2026-10-15",
+      "total_issues": 2300,
+      "broken_links": 0,
+      "missing_pages": 2106,
+      "structural": 149,
+      "stale": 0,
+      "missing_sections": 0,
+      "orphans": 45,
+      "cross_refs": 0,
+      "prev_total": 22487,
+      "delta": -20187
     }
   ],
   "resolved_issues": []

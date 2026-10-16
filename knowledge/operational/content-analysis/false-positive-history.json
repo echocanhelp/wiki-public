@@ -1706,8 +1706,6 @@
     "2026-08-23"
   ],
   "organizations/democratic-progressive-party.md|STRUCT_NO_HISTORY": [
-    "2026-08-21",
-    "2026-08-22",
     "2026-08-22",
     "2026-08-22",
     "2026-08-23",
@@ -1715,7 +1713,9 @@
     "2026-09-20",
     "2026-09-20",
     "2026-09-21",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/dfw-taiwanese-american-heritage-foundation.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -1867,7 +1867,9 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-23",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/formosan-presbyterian-church-in-los-angeles.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -1915,14 +1917,16 @@
     "2026-08-23"
   ],
   "organizations/friends-of-taiwan.md|STRUCT_NO_HISTORY": [
-    "2026-08-21",
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
     "2026-08-23",
     "2026-10-10",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "organizations/georgetown-taiwanese-american-student-association.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -2360,7 +2364,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "organizations/north-america-chang-hua-association.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -2646,7 +2651,6 @@
     "2026-08-23"
   ],
   "organizations/overseas-taiwanese-for-democracy.md|STRUCT_NO_HISTORY": [
-    "2026-08-21",
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
@@ -2655,7 +2659,8 @@
     "2026-09-12",
     "2026-09-13",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "organizations/oxford-taiwanese-american-student-association.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -2977,14 +2982,16 @@
     "2026-08-23"
   ],
   "organizations/taiwan-center-choir.md|STRUCT_NO_HISTORY": [
-    "2026-08-21",
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
     "2026-08-23",
     "2026-09-20",
     "2026-09-21",
-    "2026-09-22"
+    "2026-09-22",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "organizations/taiwan-center-foundation-of-greater-los-angeles.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -3287,7 +3294,6 @@
     "2026-09-21"
   ],
   "organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md|STRUCT_NO_HISTORY": [
-    "2026-08-21",
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
@@ -3295,7 +3301,9 @@
     "2026-09-19",
     "2026-09-20",
     "2026-09-20",
-    "2026-09-21"
+    "2026-09-21",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "organizations/taiwanese-american-association-of-mississippi.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -3361,7 +3369,9 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-23",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/taiwanese-american-council-of-greater-new-york.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -3441,7 +3451,9 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-23",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/taiwanese-american-foundation.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -3922,7 +3934,10 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "organizations/taiwanese-american-students-club-at-uiuc.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -4019,7 +4034,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "organizations/taiwanese-association-of-america-hawaii.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -4073,7 +4089,9 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-23",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/taiwanese-association-of-america-pittsburgh.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -4112,15 +4130,15 @@
   ],
   "organizations/taiwanese-association-of-america.md|STRUCT_NO_HISTORY": [
     "2026-08-22",
-    "2026-08-22",
-    "2026-08-22",
     "2026-08-23",
     "2026-09-19",
     "2026-09-20",
     "2026-09-20",
     "2026-09-21",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/taiwanese-association-of-cincinnati.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -4355,7 +4373,9 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-23",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/taiwanese-import-and-export-association-of-america-inc.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -4580,7 +4600,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "organizations/taiwanese-student-business-association.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -4814,7 +4835,9 @@
     "2026-08-23",
     "2026-10-10",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/united-taiwanese-association-at-uc-san-diego.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -4945,7 +4968,9 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-23",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/adam-chang.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -5700,7 +5725,9 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/chen-po-kong.md|READABILITY_LONG_SENTENCES": [
     "2026-09-01",
@@ -6501,7 +6528,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/david-yang.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -6710,7 +6738,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/dr-cecelia-tsai.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -6928,7 +6957,10 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "people/dr-daniel-th-liu.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -6987,7 +7019,10 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "people/dr-fu-tong-liu.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -7096,7 +7131,9 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-23",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/dr-jackson-chiu.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -7210,7 +7247,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/dr-jim-lin.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -7820,7 +7858,9 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-23",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/dr-wu-hsiung-tsai.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -7843,7 +7883,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/dr-yao-chung-tsao.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -7911,7 +7952,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/edward-chen.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -8109,14 +8151,16 @@
     "2026-08-23"
   ],
   "people/fang-ming-chen.md|DESC_NO_TITLE_MENTION": [
-    "2026-08-21",
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
     "2026-08-23",
     "2026-09-24",
     "2026-09-25",
-    "2026-09-26"
+    "2026-09-26",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "people/fang-yi-sheu.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -8138,7 +8182,9 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-23",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/fei-mei-lee-chou.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -8281,7 +8327,10 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "people/fu-mei-wu-chen.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -8588,7 +8637,10 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "people/heng-liong-lin.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -8785,7 +8837,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/hsu-ching-chun.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-08-21",
@@ -9811,7 +9864,10 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "people/julie-chen.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -10102,7 +10158,8 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-23",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/kuo-chang-chen.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -11540,7 +11597,9 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-23",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/prof-mingchi-wu.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -12552,7 +12611,9 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "people/stuart-chen.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -12897,7 +12958,10 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "people/tony-li-cheng-yeh.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -12983,7 +13047,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/tsuann-kuo.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -13082,7 +13147,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/victor-liu.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -13698,14 +13764,18 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "sources/2017-tahs-publication.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-08-21",
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "sources/2023-tahs-publication.md|STRUCT_NO_STATS": [
     "2026-08-21",
@@ -13797,7 +13867,9 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-23",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "sources/wikipedia-democratic-progressive-party.md|STRUCT_NO_STATS": [
     "2026-08-21",
@@ -15677,7 +15749,9 @@
     "2026-09-20",
     "2026-09-20",
     "2026-09-21",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/east-bay-taiwanese-association.md|READABILITY_LONG_SENTENCES": [
     "2026-09-19",
@@ -15787,7 +15861,9 @@
     "2026-09-19",
     "2026-09-20",
     "2026-09-20",
-    "2026-09-21"
+    "2026-09-21",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "organizations/taiwanese-american-organization-at-uc-irvine.md|READABILITY_LONG_SENTENCES": [
     "2026-09-19",
@@ -15825,7 +15901,9 @@
     "2026-09-20",
     "2026-09-20",
     "2026-09-21",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/taiwanese-association-of-wisconsin.md|READABILITY_LONG_SENTENCES": [
     "2026-09-19",
@@ -16150,7 +16228,10 @@
   "organizations/taiwan-center-choir.md|READABILITY_LONG_SENTENCES": [
     "2026-09-20",
     "2026-09-21",
-    "2026-09-22"
+    "2026-09-22",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "organizations/taiwanese-american-association-new-york.md|READABILITY_LONG_SENTENCES": [
     "2026-09-20",
@@ -16600,7 +16681,10 @@
   "people/wen_chen-chen.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-09-22",
     "2026-09-23",
-    "2026-09-24"
+    "2026-09-24",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "people/zhang-xuanxin.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-09-22",
@@ -16804,7 +16888,10 @@
   "people/fang-ming-chen.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-09-24",
     "2026-09-25",
-    "2026-09-26"
+    "2026-09-26",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "people/jensen-huang.md|LINKS_NO_RELATED": [
     "2026-09-24",
@@ -17555,7 +17642,9 @@
     "2026-10-09",
     "2026-10-10",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/ann-arbor-taiwanese-association.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-10",
@@ -17570,7 +17659,10 @@
   "organizations/friends-of-taiwan.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-10",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "organizations/global-taiwan-institute.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-10",
@@ -17620,7 +17712,9 @@
   "organizations/united-formosans-for-independenceufi.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-10",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/an-su-gao-lai.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-10",
@@ -17834,7 +17928,9 @@
   "people/wang-gui-rong.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-10",
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "people/wang-neng-xiang.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-10",
@@ -17863,195 +17959,504 @@
   ],
   "organizations/new-york-taiwan-center.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "organizations/overseas-taiwanese-for-democracy.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "organizations/taiwanese-association-of-america-greater-washington.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "organizations/taiwanese-association-of-america.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/taiwanese-student-association.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "organizations/taiwaneseamerican-org.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/chen-ming-wang.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/david-weng.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/dr-cary-s-hung.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/dr-jian-juei-wang.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/dr-ya-yen-lee.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/edgar-chun-yi-lin.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/frank-hsieh.md|LINKS_HIGH_DENSITY": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/hsiu-fang-susan-liu.md|LINKS_HIGH_DENSITY": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/john-j-tkacik.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/josephine-pan.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/prof-davis-l-s-chang.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/tsai-ing-wen.md|READABILITY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/tsai-ing-wen.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/tsu-yi-jay-loo.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/victor-hung.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "people/ye-siya-zhang-xinhui.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-11",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "organizations/democratic-progressive-party.md|READABILITY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/formosan-association-for-human-rights.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/taiwanese-american-citizens-league.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/taiwanese-american-foundation-of-san-diego.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/taiwanese-association-of-america-northern-new-jersey.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/taiwanese-heritage-society-of-houston.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/united-formosans-for-independenceufi.md|READABILITY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "organizations/youth-orchestra-cycny.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/chaolong-kao.md|FRESHNESS_OLD": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/chen-ming-wang.md|READABILITY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/chen-shuibian.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/cossette-sun.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/dr-jack-j-chen.md|LINKS_HIGH_DENSITY": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/dr-wen-y-chen.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/enoch-wu.md|LINKS_HIGH_DENSITY": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/fei-kuang-tseng.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/hsu-hsin-liang.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/jeremy-lin.md|READABILITY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/kun-mu-chen.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/lynn-huang.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/nai-yuan-hu.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "people/peng-ming-min.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/pingtung-lai.md|FRESHNESS_OLD": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/prof-ming-min-peng.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/prof-shutsung-liao.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/沈伯洋.md|LINKS_LOW_DENSITY": [
     "2026-10-12"
   ],
   "people/沈伯洋.md|LINKS_NO_RELATED": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/沈伯洋.md|STRUCT_NO_IDENTITY": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/沈伯洋.md|STRUCT_NO_RELATED": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "people/邱垂正.md|LINKS_LOW_DENSITY": [
     "2026-10-12"
   ],
   "people/邱垂正.md|LINKS_NO_RELATED": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "people/邱垂正.md|STRUCT_NO_IDENTITY": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "people/邱垂正.md|STRUCT_NO_RELATED": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
   ],
   "sources/toward-a-community-of-hope.md|FRESHNESS_OLD": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
   ],
   "sources/zhwp-w-y-chou.md|STRUCT_NO_STATS": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
+  ],
+  "events/tc-event-2025-annual-gala-fundraising-dinner.md|FRESHNESS_OLD": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "events/tc-event-2025-miss-taiwan-usa-news.md|FRESHNESS_OLD": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "events/tc-event-2025-traditional-week.md|FRESHNESS_OLD": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "events/tc-event-2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou.md|FRESHNESS_OLD": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "events/tc-event-2026-tai-wan-hui-guan-nian-hui.md|FRESHNESS_OLD": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "events/tc-event-228-memorial-commemoration-ceremony.md|FRESHNESS_OLD": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "events/tc-event-construction-progress-of-the-building.md|FRESHNESS_OLD": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "events/tc-event-groundbreaking-ceremony.md|FRESHNESS_OLD": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "events/tc-event-taiwan-joining-who.md|FRESHNESS_OLD": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "events/tc-event-thanksgiving-dinner.md|FRESHNESS_OLD": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "organizations/friends-of-taiwan.md|READABILITY_LONG_SENTENCES": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "organizations/taiwan-center-choir.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "organizations/taiwanese-american-students-association.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/dr-daniel-c-hsu.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/dr-fu-tong-hsu.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/fang-ming-chen.md|READABILITY_LONG_SENTENCES": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/fu-mei-chang.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/helen-wang.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/juliar-wang.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/li-fa-xie.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/milo-thornberry.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/nai-yuan-hu.md|READABILITY_LONG_SENTENCES": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/prof-trong-rong-tsai.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/shu-yuan-susan-tsay.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/tony-hsieh.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/wen_chen-chen.md|READABILITY_LONG_SENTENCES": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/卓榮泰說.md|LINKS_NO_RELATED": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/卓榮泰說.md|STRUCT_NO_IDENTITY": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/卓榮泰說.md|STRUCT_NO_RELATED": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/李明哲.md|LINKS_NO_RELATED": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/李明哲.md|STRUCT_NO_IDENTITY": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/李明哲.md|STRUCT_NO_RELATED": [
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "organizations/tah-foundation.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md|LINKS_NO_RELATED": [
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md|STRUCT_NO_RELATED": [
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/ho-chie-tsai.md|LINKS_HIGH_DENSITY": [
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/joshua-chin.md|LINKS_LOW_DENSITY": [
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/strong-chuang.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/wang-gui-rong.md|DESC_TOO_SHORT": [
+    "2026-10-14"
+  ],
+  "people/wang-gui-rong.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-14"
+  ],
+  "people/李明哲.md|DESC_TOO_SHORT": [
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "people/邱垂正.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "sources/2017-tahs-publication.md|FRESHNESS_OLD": [
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "sources/zhwp-mei-xinyi.md|STRUCT_NO_STATS": [
+    "2026-10-14",
+    "2026-10-15"
+  ],
+  "sources/zhwp-erh-ping-tsai.md|STRUCT_NO_STATS": [
+    "2026-10-15"
+  ],
+  "sources/zhwp-hsu-hsin-liang.md|STRUCT_NO_STATS": [
+    "2026-10-15"
+  ],
+  "sources/zhwp-hsu-hsin-liang.md|READABILITY_LONG_SENTENCES": [
+    "2026-10-15"
   ]
 }

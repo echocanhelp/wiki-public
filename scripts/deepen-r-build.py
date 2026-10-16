@@ -50,8 +50,11 @@ BODY = (
     "FRONTMATTER RULE: append notes BELOW the closing '---' fence only — an HTML comment written "
     "inside YAML frontmatter breaks the ENTIRE Quartz build (fixed 6 files 2026-09-26). "
     "HARD RULES: (1) max 3 tool calls per page; (2) when ALL pages are processed, you MUST run "
-    "`git add -A content/ && git commit -m 'deepen-r revisit' ; hermes kanban complete __TASKID__ "
-    "--result 'N deepened, M skipped, K corpus-linked'` as your LAST action; (3) ending your turn without calling "
+    "`git add -- <the page paths you actually changed> && git commit -m 'deepen-r revisit' ; "
+    "hermes kanban complete __TASKID__ "
+    "--result 'N deepened, M skipped, K corpus-linked'` as your LAST action. "
+    "N = pages with substantive changes; M = pages noted SKIP-with-reason; K = new wikilinks added. "
+    "Never git add -A — parallel workers share the repo. (3) ending your turn without calling "
     "kanban_complete counts as a crash. Do NOT publish."
 )
 
