@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-12
+last_reviewed: 2026-10-13
 ---
 # Chiu-Sen Wang (王秋森教授)
 
@@ -74,6 +74,18 @@ last_reviewed: 2026-10-12
 
 - 2024-02-24 — 應邀在大洛杉磯台灣會館「2024年二二八追思紀念大會」（二二八事件77週年，2024-02-24舉辦）主講「二七部隊」，介紹這群以反抗陳儀貪污政府為號召的民兵部隊在二二八事件中與國民黨軍隊交戰、最終戰敗解散的歷史；大會主題「二二八的反抗」（[[articles/taiwanjustice-net/2024/20240412192704_root_95fd81860bafb5bf|TJJ, 2024-02-25]]；[[articles/taiwanjustice-net/2025/20250213041753_二二八事件77周年-大洛杉磯台灣會館舉辦追思紀念_f4bc88a293a5ec0d|同事件另篇報導]]）。
 
+- 2018 — 於大洛杉磯台灣會館主講「424刺蔣案歷史回顧」（李賢群敬悼文所附照片說明；[美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/43691/)，2024-10-23，敬悼催生台獨薪火「台灣新社會」王秋森教授／李賢群）。
+
+- 1982年底 — 為全心投入台獨運動、與陳婉真及張維嘉的約定，辭去 Syracuse 全職教授職位，移居洛杉磯成為全職台獨工作者；先為在美國復刊的「美麗島週報」撰寫文章與專欄，筆名王建生（[美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/43691/)，李賢群敬悼文；reported，與 TAH tables 記 Syracuse—1974—Professor 不衝突，該條為任用起始）。
+
+- 1984 — 創辦發行「台灣新社會」月刊，主張台灣獨立須先改變台灣人文化、新台灣文化須是本土的、進步的、草根的；並為發行月刊自資開設印刷廠，編印海外台獨運動文宣、出版書籍、贊助團體，「台灣新社會」頓時成為海外政治團體的中心，海內外團體與人物到洛杉磯多前往拜訪討論；李賢群隨其腳步參與編輯出刊至 1991 年王回台任教為止，前後相處近八年；1987 年台獨運動重心轉回台灣前，「台灣新社會」在海外扮演台獨薪火保存的啟蒙角色（[美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/43691/)，李賢群敬悼文；reported）。
+
+- 1991 — 回台任教職，後任台大公共衛生學院院長；任院長時以學術專業為考量拒絕高官要人之關說推薦聘選院內教職，常與年輕學生在一起、啟發學生獨立思考，為學生所敬仰（[美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/43691/)，李賢群敬悼文；reported）。
+
+- 65歲時 — 時仍擔任台大公共衛生學院院長，本可延遲退休續任約兩年，為讓他人有接任院長機會而主動申請退休，不戀棧（[美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/43691/)，李賢群敬悼文；reported。HOLD: 依 TAH tables 生卒 1937 推算 65 歲約為 2002 年，與 1991–2003 任教／院長期之起始年未能確切對齊，不逕調合）。
+
+- 2024-10-20 — 於洛杉磯辭世（李賢群敬悼文：最後一次見面 2024-08-25，其後臥床養病，不到兩個月病情未見好轉，由女兒轉告訃訊；[美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/43691/)，2024-10-23 刊）。文中並憶及 2024 年大洛杉磯台灣會館「二二八追思紀念大會」時應李賢群（時任會館二二八召集人）之邀主講「二七部隊」，與本頁 2024-02-24 條目互證。
+
 <!-- TJJ-A10061000-3: verified 2026-10-08 — wave-2 link+deepen re-check of slice 10061000-3 article f4bc88a293a5ec0d (二二八77周年會館追思紀念報導, 2024-02-24): 王秋森 — 王秋森主講「二七部隊」 re-checked vs 正文, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
@@ -81,6 +93,7 @@ last_reviewed: 2026-10-12
 - Corpus re-grep 2026-09-23 (slice 09221000-2)：驗證飽和 — 命中集不變（ourjourneys76/-eng、81、212、234、publications1092、#235、#377）。#81 中「麥迪遜結盟大會」書信連署名单另列「西雅圖的王秋森」，與同文洛杉磯地區代表身分並存，不另拆記；無新可吸收語料。
 - Corpus re-grep 2026-09-24 (slice 09230400-1)：驗證飽和 — fresh ZH+EN grep 命中集不變且全部已連結吸收；無新可吸收語料。
 - Corpus re-grep 2026-10-12 (slice 10110600-15)：fresh 王秋森／Chiu-Sen Wang grep across works/articles/sources/events/topics — 命中集不變（ourjourneys76/-eng、81/-eng、212、234、240、publications1092、#235、#377 及 TJJ 各篇；#81 西雅圖結盟書信連署條已見於 09221000-2 複核），全部已連結吸收；無新可吸收語料。
+- Corpus re-grep 2026-10-13 (slice 10120800-32)：fresh 王秋森／Chiu-Sen Wang／秋森 grep across works/articles/sources/events/topics — 命中集不變（22 檔：ourjourneys76/-eng、81/-eng、212、234、240、publications1092、#235、#377、works/index、sources/taiwaneseamericanhistory-org 及 TJJ 各篇），全部已連結吸收（index/sources 為索引用途，非新語料）；無新可吸收語料。
 
 <!-- TJJ-A09260500-9: verified 2026-09-27 — slice 09260500-9 4 篇（b7327dcf TAA Archives Newsletter / 95fd8186 洛杉磯會館228追思77年 / 26f76359 糖尿病與你 / a1b56965 彭明敏研討會）正文再驗證——subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — saturated, no new material. -->
 

@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-12
+last_reviewed: 2026-10-15
 ---
 # Dr. Mike Kuo (郭正光博士)
 
@@ -62,6 +62,11 @@ Per his TAH Who's Who profile, Dr. Kuo led both the community and advocacy sides
 - 覆核（TJJ-A09170400-12, 2026-09-23）：本 slice TJJ 文章正文再驗證——subject 連結與本條目所載日期事實相符，無錯鏈、無虛鏈，無新材料— SKIP，已飽和。
 - 2019-09-03 — Signed the overseas Taiwanese organizations' joint statement 「拒一國兩制！海外台灣人社團：支持香港反對中國暴政」 as 「台灣人公共事務會 會長郭正光博士」 (Dr. Mike Kuo, President, FAPA), corroborating his FAPA national presidency in the Employment table above ([[articles/taiwanjustice-net/2024/20240221122756_root_53455d7e13136092|TJJ record, 2024-02-21 archive of the 2019-09-04 posting]]).
 - 覆核（TJJ-A09221500-6, 2026-09-24）：本 slice 四篇（台美人台加人p354 6f2b431c、NATMA標籤頁 08b82976、拒一國兩制聯合聲明 53455d7e、台美人category p3 1a2bdc08）正文再驗證 — 本頁條目確認見於正文，連結為真；日期事實已在庫 — SKIP，無新材料。
+
+- 2026-02-14 — Threads 上一名「小草」發文開嗆「青鳥」陣營報上國立大學博士學歷，現年76歲的郭正光回應「你爺爺我就是台大畢業、在NASA上班的青鳥」，引逾萬網友朝聖按讚；17日再發文「小草別再笨到來戰學歷」（[美洲台灣日報](https://taiwandaily.net/%e5%8d%b3%e6%99%82%e6%96%b0%e8%81%9e/122682/)，2026-02-16，轉引自由時報）。
+- 2026-02-17 — 郭正光 Threads 發文披露往事：1991年「千方百計改名、改姓、易容和喬裝」打破黑名單成功闖關回台，返美時在桃園機場遭識破、被抓去審訊，因屬合法入境，在美國在台協會（AIT）干涉下當天獲釋（[美洲台灣日報](https://taiwandaily.net/%e5%8d%b3%e6%99%82%e6%96%b0%e8%81%9e/122682/)，2026-02-16）（reported，本人自述）。
+- 1991年返美後（據其 2026-02-17 自述）— 一名美國國務院安全調查人員親赴 NASA 查訪：台灣政府來函指他參加恐怖組織「台獨聯盟」、是一名恐怖份子；他回應聯盟近400位成員皆為台灣菁英、赴美各州名校取得碩博士後任職工程師、科學家、醫生、律師、會計師，聯盟目的在宣揚在美國學得的自由民主人權、盼台灣人民站起來推翻獨裁政權，並反問調查人員「妳會相信美國大學訓練出來的高級知識份子，還是一個獨裁政權告訴妳的話？」調查人員答「我相信你和你的戰友。歡迎平安歸國」（I believe in you and your comrades. Welcome back safely），事件平息；他從此在同事間多了一個「Terrorist」綽號（[美洲台灣日報](https://taiwandaily.net/%e5%8d%b3%e6%99%82%e6%96%b0%e8%81%9e/122682/)，2026-02-16）（reported，本人自述）。
+- 2026-02 — 報導稱其現任台灣人公共事務會（FAPA）會長、曾任職 NASA 的知名科學家（[美洲台灣日報](https://taiwandaily.net/%e5%8d%b3%e6%99%82%e6%96%b0%e8%81%9e/122682/)，2026-02-16）（reported；本頁僉用 2018 年 FAPA 會長紀錄，此為後續再任之報導表述）。
 
 ## Sources
 - [TAH #157 encyclopedia: 157. Dr. Mike Kuo 郭正光博士](https://taiwaneseamericanhistory.org/157-dr-mike-kuo/)

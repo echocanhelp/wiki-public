@@ -45,6 +45,14 @@ _No filled family fields on the TAH profile._
 - [TAH #482 encyclopedia: 482. Helen Huang 黃海倫 / 2015/07](https://taiwaneseamericanhistory.org/482-helen-huang-%e9%bb%83%e6%b5%b7%e5%80%ab-201507/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/helen-huang/)
 
+## From the record
+
+- 2025-05-16 — 洛杉磯郡高等法院為黃海倫（Helen Huang Yang）舉行法官就職儀式，加州最高法院台裔法官劉弘威（Goodwin Liu）主持宣誓儀式；黃海倫由州長紐松（Gavin Newsom）於2025年2月任命（該批14名高等法院法官中7名服務洛杉磯郡），宣誓就職後成為洛杉磯郡高等法院近500名法官中少數具台裔背景的女性法官；致詞全程英語，另特別準備一段台語感謝父母「教我台灣的歷史、教育和民主」；丈夫楊振威（Jerry C. Yang）與女兒、兒子在旁觀禮。[中央社／美洲台灣日報報導](https://taiwandaily.net/%e5%8d%97%e5%8a%a0%e7%a4%be%e5%8c%80/78689/)（2025-05-17刊；存檔 `knowledge/web-archives/taiwandaily-net-78689-78689.md`）
+- 2000 — 就讀加州大學洛杉磯分校（UCLA）期間獲選「台美小姐」皇后；母親黃雪英表示當時年19歲、以台灣台語演講，志願成為法官，歷經25年達成目標。[同上報導](https://taiwandaily.net/%e5%8d%97%e5%8a%a0%e7%a4%be%e5%8c%80/78689/)
+- 求學與職涯（報導所述）— 大學就讀政治系與傳播系，後於康乃爾大學取得法律博士（J.D.）學位，擔任執業律師多年後獲任命為洛杉磯郡高等法院法官；在美國出生，自幼參加台灣人團體營隊，高中大學在校演講談台灣，熟悉二二八事件歷史。[同上報導](https://taiwandaily.net/%e5%8d%97%e5%8a%a0%e7%a4%be%e5%8c%80/78689/)
+- 家庭（報導所述）— 父黃明信、母黃雪英；夫楊振威（Jerry C. Yang），育有一女一子；據報導（reported）夫妻二人為美國高等法院第一對華人法官夫婦。[同上報導](https://taiwandaily.net/%e5%8d%97%e5%8a%a0%e7%a4%be%e5%8c%80/78689/)
+- 註（2026-10-15 吸收）：以上條目屬兩人生 HOLD 中「洛杉磯郡法官」一側之傳記細節，與上方 TAH 鋼琴家記錄不相容，維持 HOLD、未自動合併。
+
 ## Related Pages
 - [[organizations/tah-foundation||TAH Foundation]]
 - [[sources/taiwaneseamericanhistory-org||taiwaneseamericanhistory.org]]

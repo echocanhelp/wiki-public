@@ -242,6 +242,7 @@ Notable quotes and mentions of **吳澧培** in Taiwan Justice articles:
 *...and 33 more quotes*
 
 ## From the record
+- 覆核（TJJ-A10121502-1, 2026-10-13）：本 slice 文章 20240425080646_root_9a39a754d2a3b236（吳澧培回憶錄前言「我的人生：一個堅持和無數的巧合」, TJJ 2015-10-12刊/2024-04-25快照）read fresh this attempt: Subjects links 彭明敏教授／謝聰敏 + frontmatter authors 金恆煒／吳澧培 re-checked vs 正文 line-by-line — 謝聰敏摯友因緣見首段、彭明敏受邀台獨行動黨發起人見「金恆瑋先生找彭明敏教授談組」段、金恆煒7/2發組黨新聞及專欄攻擊蔡英文段、吳澧培本傳主（◎署名）均確認見於正文; all links real, no wrong/spurious links; 正文另提穆考斯基／黃國昌／陳師孟／李俊達／柏曼／張菊惠／林榮松／石秀文／劉永毅／張炎憲／黃樹人／陳文茜無對應人物頁且未列subject、不需補鏈; dated fact w/ article wikilink already in From the record — saturated, no new material.
 
 - 覆核（TJJ-A09260400-1, 2026-09-26）：本 slice 四篇 TJJ 文章（吳澧培回憶錄前言 9a39a754、唐培禮訃聞兩存檔 74f89ee8／5d471dbe、游朝凱中央社專訪 9c697378）均為前波已吸收文章之重複存檔；本頁 subject 連結經正文再驗證為真實提及（無錯鏈、無虛鏈），含各檔 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
 
@@ -251,8 +252,20 @@ Notable quotes and mentions of **吳澧培** in Taiwan Justice articles:
 - 2015-10-12 — His own memoir preface (TJJ republication): in 2004, as he renounced US citizenship to settle back in Taiwan, House Judiciary Committee chair Howard Berman and two other representatives filed a 「向吳澧培致敬」(Tribute to Li Pei Wu) resolution entered into the Congressional Record — a rare honor; he also recalls that without his friendship with 謝聰敏 he would never have joined the island 台獨 movement ([[articles/taiwanjustice-net/2024/20240425080646_root_9a39a754d2a3b236|TJJ, 2015-10-12]]).
 - 2020-06-16 — A TASF/TJJ press release for the Student Covid-19 Relief Scholarship Program recalls the 1998 founding of the 大洛杉磯台灣會館基金會: then 萬通銀行 (General Bank) president 吳澧培 served as fundraising chair, leading 40+ Taiwanese organizations and thousands of community donors to build today's Taiwan Center ([[articles/taiwanjustice-net/2020/20200622034426_2020_06_16_給台美人學生的-tasf-covid-19-疫情紓困獎學金接受申請_162effa713237818|TJJ, 2020-06-16]]).
 - 2022-09-13 — A TJJ notice for the 大洛杉磯台灣會館 24th-anniversary fundraising gala credits the center's founding to "吳前董事長澧培的領導" alongside the 1998 land-and-building donation by 王桂榮, recalling his chairmanship during the Center's formative years ([[articles/taiwanjustice-net/2022/20220924222953_2022_09_13_10-22大洛杉磯台灣會館-24-週年募款年會_紀政擔任主講_2a543ddc9301b7b3|TJJ, 2022-09-13]]).
+- **2017-03-09** — As 總統府資政, co-invested (with 台灣民主基金會副執行長 楊黃美幸) the feature film 《林北小舞》, directed by 陳玫君, which premiered in Taipei on 2017-03-09 — his second film investment after 《被出賣的臺灣》 (Formosa Betrayed, 2009), motivated by the powerlessness he felt lobbying the US Congress and the conviction that film can carry Taiwan's history to international audiences (朱蒲青, 民報 03/2017; [[works/taiwaneseamericanhistory-org/ourjourneys279|source]]).
 
 - 覆核（TJJ-A09251000-1, 2026-09-26）：本 slice 文章 9a39a754（吳澧培回憶錄前言）——本頁為該文作者兼主角，正文記阿拉斯加銀行、穆考斯基、2004年國會致敬決議案等記述（無錯鏈、無虛鏈）；對應條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
+- 2026-06-28 — 美洲台灣日報刊出蕭錫惠撰〈從流亡者到美國國會致敬：吳澧培如何讓世界看見台灣〉，為吳澧培回憶錄《一個堅持和無數巧合的人生》之評述文章 ([美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/144421/))。
+- 2004-07-15 — 美國聯邦眾議院將〈Tribute to Li-Pei Wu（向吳澧培致敬）〉正式收入《Congressional Record（國會紀錄）》，肯定他長年在台美外交、民主運動與人權倡議的努力；適值他放棄美國籍返回台灣，表彰證書在洛杉磯一千多人的惜別餐會上交到他手中 ([美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/144421/)) (reported)。
+- 1998 — 獲世界四大會計師事務所之一安永（Ernst & Young）推選為一九九八年度企業家，並獲全美投資公司協會選為「傑出企業家」，後受總統柯林頓邀請出席白宮經濟高峰會 ([美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/144421/)) (reported)。
+- 1980s–2000s — 在他帶領下萬通銀行（General Bank）走出美國儲貸危機：《經濟學人》曾將萬通列為全美國績效最優秀的銀行，《富比士》連續多年將其列入「全美二百家最佳企業」，《美國銀行家》雜誌亦多次給予高度評價 ([美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/144421/)) (reported)。
+- 1982 — OPEC油價暴漲使美國陷入高通膨滯脹（利息高達廿％、失業率十．八％），他臨危受命接掌陷入困境的萬通銀行，任董事長兼總裁，以鎖定亞裔移民與台商市場、培養懂中文人才、清理不良資產與嚴格的風險廉潔制度使銀行浴火重生 ([美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/144421/)) (reported)。
+- 戰後白色恐怖年代 — 其兄因初三參加讀書會、高一被當成共產黨人逮捕判刑十二年；他自己因參與《台灣自救運動宣言》相關工作遠走美國；留學期間以撰寫論文時的打字工讀協助整理寄發《台灣青年》等刊物，工作後固定捐出每月薪資十分之一支持台獨聯盟，並以筆名「思敏」在《台灣青年》及《獨立台灣》雜誌撰文 ([美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/144421/)) (reported)。
+- 廿多年來 — 創立美國福爾摩沙基金會（Formosa Foundation）推動 Ambassador Program 親善大使培訓計畫，每年從台灣、美國及加拿大甄選青年接受公共事務與國際外交訓練、走進美國國會與參眾議員及幕僚交流，已有數百位青年透過此平台成為台美關係種子；並創立台美公民協會（TACL） ([美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/144421/)) (reported)。
+- 林宅血案後 — 請託美國友人及國會議員持續關心林義雄一家處境，透過聯邦參議員法蘭克．穆考斯基（Frank Murkowski）等友台人士向台灣政府反映；林義雄獲釋當天穆考斯基第一時間打電話通知他 ([美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/144421/)) (reported)。
+- 1988 — 蔣經國逝世後穆考斯基率弔唁代表團來台，途中在空軍二號上致電吳澧培問能做些什麼；吳請託二事：公開讚美台灣走向民主自由並表明美國支持副總統李登輝依《中華民國憲法》繼任、不支持非憲政方式改變政權，以及在與參謀總長郝柏村私下會面時代為轉達美國不支持軍事干政。穆考斯基後向吳轉述對郝柏村說「你最好想都不要想，絕對不要」 ([美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/144421/)) (reported)。
+- 2026 — 作者到桃園拜訪吳澧培：他已九十二歲，身體因年邁需接受治療，但精神矍鑠，談台灣的未來仍然鬥志高昂 ([美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/144421/)) (reported)。
 
 ## Sources
 - [TAH #21 encyclopedia: 21. Li Pei Wu (吳澧培)](https://taiwaneseamericanhistory.org/senior-taiwanese-american-21/)
