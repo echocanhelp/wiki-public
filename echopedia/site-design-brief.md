@@ -1,4 +1,4 @@
-## Site design audit — 2026-10-18 22:28
+## Site design audit — 2026-10-19 00:41
 
 - pages_md=15140
 - critical=0 high=0 medium=1
@@ -10,6 +10,12 @@
 ### MEDIUM (1)
 - **F4** people/index.html is 1537144 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
 
+### LOW (1)
+- **C1** spelling signals (sample): 3 `[AGENT_SUGGESTED]`
+  - `lai-ching-te.md: ?ching`
+  - `taiwaneseamericanhistory-org.md: teh→the`
+  - `presbyterian-church-in-taiwan.md: teh→the`
+
 ### INFO (2)
 - **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
   - `people/albert-s-lai.md`
@@ -18,7 +24,7 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 684
+- **B1** person/org touched ≤7d (rely on recency featured window): 583
   - `people/agnes-wu.md`
   - `people/ahhee-hsu.md`
   - `people/alan-yang.md`
