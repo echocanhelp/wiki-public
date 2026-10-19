@@ -1,106 +1,27 @@
-=== weekly improvement 2026-10-11 ===
-  File "/home/leedt/.hermes/scripts/echopedia-intake-opportunities.py", line 85, in main
-    r = subprocess.run(
-        ["python3", str(MISSING), "--threshold", "3"],
-    ...<2 lines>...
-        timeout=120,
-    )
-  File "/home/leedt/.hermes/tools/python-3.14.7+20260901-linux-arm64/lib/python3.14/subprocess.py", line 557, in run
-    stdout, stderr = process.communicate(input, timeout=timeout)
-                     ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/leedt/.hermes/tools/python-3.14.7+20260901-linux-arm64/lib/python3.14/subprocess.py", line 1221, in communicate
-    stdout, stderr = self._communicate(input, endtime, timeout)
-                     ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/leedt/.hermes/tools/python-3.14.7+20260901-linux-arm64/lib/python3.14/subprocess.py", line 2154, in _communicate
-    self._check_timeout(endtime, orig_timeout, stdout, stderr)
-    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/leedt/.hermes/tools/python-3.14.7+20260901-linux-arm64/lib/python3.14/subprocess.py", line 1268, in _check_timeout
-    raise TimeoutExpired(
-    ...<2 lines>...
-            stderr=b''.join(stderr_seq) if stderr_seq else None)
-subprocess.TimeoutExpired: Command '['python3', '/home/leedt/.hermes/scripts/echopedia-missing-pages.py', '--threshold', '3']' timed out after 120 seconds
+=== weekly improvement 2026-10-18 ===
+=== INTAKE OPPORTUNITIES ===
+INTAKE_STATUS: FAIL
+INTAKE_SUMMARY: missing=timeout interaction=0
 IMPROVE_BRIEF: /home/leedt/echo-system/echopedia/improvement-brief.md
-IMPROVE_STATUS: OK
+IMPROVE_STATUS: WARN
 CI: ops-check WARN
 CI: queue-drain done
 CI: publishing to heal drift
 CI: site-design OK
 CI: smoke OK
-[gh-pages 7ea27cd5ecc] ci-heal: L2 auto-heal (2026-10-11)
- 2025 files changed, 13955 insertions(+), 4991 deletions(-)
- create mode 100644 content/media/albert-00b-en-christopher-r20261011.mp3
- create mode 100644 content/media/albert-bibliography-en-christopher-r20261011.mp3
- create mode 100644 content/media/albert-ch01-en-christopher-r20261011.mp3
- create mode 100644 content/media/albert-ch02p1-en-christopher-r20261011.mp3
- create mode 100644 content/media/albert-ch02p2-en-christopher-r20261011.mp3
- create mode 100644 content/media/albert-ch03-en-christopher-r20261011.mp3
- create mode 100644 content/media/albert-ch04-en-christopher-r20261011.mp3
- create mode 100644 content/media/albert-ch05-en-christopher-r20261011.mp3
- create mode 100644 content/media/albert-ch06p1-en-christopher-r20261011.mp3
- create mode 100644 content/media/albert-ch06p2-en-christopher-r20261011.mp3
- create mode 100644 content/media/albert-en-00-front-2025-christopher-r20261011.mp3
- create mode 100644 content/media/albert-en-00c-afterword-christopher-r20261011.mp3
- create mode 100644 content/media/albert-en-00d-p1-christopher-r20261011.mp3
- create mode 100644 content/media/albert-en-00d-p2-christopher-r20261011.mp3
- create mode 100644 content/media/albert-en-00d-p3-christopher-r20261011.mp3
- create mode 100644 content/media/albert-en-author-flap-christopher-r20261011.mp3
- create mode 100644 content/media/albert-zh-author-bio-hsiaochen-r20261011.mp3
- create mode 100644 content/media/albert-zh-thesis-toc-hsiaochen-r20261011.mp3
- create mode 100644 "content/topics/t-\345\212\240\346\213\277\345\244\247\345\234\213\346\234\203\351\200\232\351\201\216\346\263\225\346\241\210-\346\216\250\345\213\225\345\210\266\350\243\201\350\267\250\345\234\213\351\216\256\345\243\223.md"
- create mode 100644 "content/topics/t-\347\211\206\345\244\226\346\226\207\346\221\230-\345\274\265\345\251\211\347\221\251\345\217\252\347\233\243\346\216\247\344\272\206\350\263\264\346\270\205\345\276\267\345\205\222\345\255\220\345\227\216-\345\276\267\345\234\213\344\271\213\350\201\262.md"
- create mode 100644 knowledge/operational/content-analysis/2026-10-11.jsonl
- create mode 100644 knowledge/operational/evaluated/2026-10-11.json
- create mode 100644 knowledge/operational/extracted/2026-10-11.json
- create mode 100644 knowledge/operational/janitor-log/2026-10-11.jsonl
- create mode 100644 knowledge/operational/scout/2026-10-11.jsonl
- create mode 100644 public/tags/1079.html
- create mode 100644 public/tags/1079/1080.html
- create mode 100644 public/tags/1079/1080/1096.html
- create mode 100644 public/tags/1079/1080/1096/1097.html
- create mode 100644 public/tags/156/97.html
- create mode 100644 public/tags/221.html
- create mode 100644 public/tags/221/373.html
- create mode 100644 public/tags/25/28.html
- create mode 100644 public/tags/25/28/29.html
- create mode 100644 public/tags/25/28/29/96.html
- create mode 100644 public/tags/25/28/29/96/123.html
- create mode 100644 public/tags/25/28/29/96/123/222.html
- create mode 100644 public/tags/25/28/29/96/123/222/528.html
- create mode 100644 public/tags/56-2.html
- create mode 100644 public/tags/56.html
- create mode 100644 public/tags/56/56-2.html
- create mode 100644 public/tags/60.html
- create mode 100644 public/tags/60/60-eng.html
- create mode 100644 public/tags/71.html
- create mode 100644 public/tags/71/72.html
- create mode 100644 "public/topics/t-\345\212\240\346\213\277\345\244\247\345\234\213\346\234\203\351\200\232\351\201\216\346\263\225\346\241\210-\346\216\250\345\213\225\345\210\266\350\243\201\350\267\250\345\234\213\351\216\256\345\243\223.html"
- create mode 100644 "public/topics/t-\347\211\206\345\244\226\346\226\207\346\221\230-\345\274\265\345\251\211\347\221\251\345\217\252\347\233\243\346\216\247\344\272\206\350\263\264\346\270\205\345\276\267\345\205\222\345\255\220\345\227\216-\345\276\267\345\234\213\344\271\213\350\201\262.html"
- create mode 100644 tags/1079.html
- create mode 100644 tags/1079/1080.html
- create mode 100644 tags/1079/1080/1096.html
- create mode 100644 tags/1079/1080/1096/1097.html
- create mode 100644 tags/156/97.html
- create mode 100644 tags/221.html
- create mode 100644 tags/221/373.html
- create mode 100644 tags/25/28.html
- create mode 100644 tags/25/28/29.html
- create mode 100644 tags/25/28/29/96.html
- create mode 100644 tags/25/28/29/96/123.html
- create mode 100644 tags/25/28/29/96/123/222.html
- create mode 100644 tags/25/28/29/96/123/222/528.html
- create mode 100644 tags/56-2.html
- create mode 100644 tags/56.html
- create mode 100644 tags/56/56-2.html
- create mode 100644 tags/60.html
- create mode 100644 tags/60/60-eng.html
- create mode 100644 tags/71.html
- create mode 100644 tags/71/72.html
+[gh-pages 2a740e7bbdc] ci-heal: L2 auto-heal (2026-10-18)
+ 506 files changed, 3520 insertions(+), 1002 deletions(-)
+ create mode 100644 content/topics/t-tsmc-to-build-additional-3nm-fab-in-sout.md
+ create mode 100644 "content/topics/t-\345\205\261\350\253\234\346\241\210\347\210\206\344\270\211\350\247\222\346\210\200-\345\245\263\346\210\277\344\273\262\346\266\211\347\233\243\350\246\226\350\263\264\346\270\205\345\276\267\345\205\222\345\255\220-\345\235\220\346\223\2017\350\261\252\345\256\205\351\202\204\347\210\206\345\251\232\345\244\226\346\203\205.md"
+ create mode 100644 "content/topics/t-\345\217\260\347\201\243\344\272\272\345\234\250\347\264\220\347\264\204-\346\262\210\344\274\257\346\264\213vs\350\224\243\350\220\254\345\256\211-\346\265\267\345\244\226\345\217\260\347\201\243\344\272\272\350\246\201\351\243\233\345\233\236\345\256\266\346\212\225\347\245\250.md"
+ create mode 100644 "content/topics/t-\351\230\262\345\210\266\350\267\250\345\234\213\351\216\256\345\243\223-\350\255\246\346\224\277\347\275\262\345\232\264\346\237\245-\345\234\250\350\207\272\345\215\224\345\212\233\350\200\205.md"
+ create mode 100644 knowledge/operational/content-analysis/2026-10-18.jsonl
+ create mode 100644 knowledge/operational/evaluated/2026-10-18.json
+ create mode 100644 knowledge/operational/extracted/2026-10-18.json
+ create mode 100644 knowledge/operational/janitor-log/2026-10-18.jsonl
+ create mode 100644 knowledge/operational/scout/2026-10-18.jsonl
+ create mode 100644 public/topics/t-tsmc-to-build-additional-3nm-fab-in-sout.html
+ create mode 100644 "public/topics/t-\345\205\261\350\253\234\346\241\210\347\210\206\344\270\211\350\247\222\346\210\200-\345\245\263\346\210\277\344\273\262\346\266\211\347\233\243\350\246\226\350\263\264\346\270\205\345\276\267\345\205\222\345\255\220-\345\235\220\346\223\2017\350\261\252\345\256\205\351\202\204\347\210\206\345\251\232\345\244\226\346\203\205.html"
+ create mode 100644 "public/topics/t-\345\217\260\347\201\243\344\272\272\345\234\250\347\264\220\347\264\204-\346\262\210\344\274\257\346\264\213vs\350\224\243\350\220\254\345\256\211-\346\265\267\345\244\226\345\217\260\347\201\243\344\272\272\350\246\201\351\243\233\345\233\236\345\256\266\346\212\225\347\245\250.html"
+ create mode 100644 "public/topics/t-\351\230\262\345\210\266\350\267\250\345\234\213\351\216\256\345\243\223-\350\255\246\346\224\277\347\275\262\345\232\264\346\237\245-\345\234\250\350\207\272\345\215\224\345\212\233\350\200\205.html"
 CI: committed heal
-[gh-pages 8a9fd115230] ci-heal: L3 green publish (2026-10-11)
- 84 files changed, 235 insertions(+), 165 deletions(-)
-To https://github.com/echocanhelp/wiki-public.git
-   3985cb3e129..8a9fd115230  gh-pages -> gh-pages
-CI: L3 pushed 8a9fd115230
-CI: post-push CDN verify OK
-CI_SUMMARY: green=1 ops=WARN drift=OK smoke=OK
-CI_STATUS: GREEN
