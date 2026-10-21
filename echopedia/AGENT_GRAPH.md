@@ -74,7 +74,7 @@ The org graph defines **who exists**, **what they own**, and **how they connect*
 00:25      ──► ci-heal (L2 heal + L3 push when green)  ← only nightly pusher
 00:40      ──► tier1-sweep (last content touch)
 00:45      ──► cron-audit
-07:00      ──► vault-morning-brief (🔴 NEED YOU first)
+08:30      ──► vault-morning-brief (🔴 NEED YOU first)
 paused     digest (do not re-enable)
 ```
 

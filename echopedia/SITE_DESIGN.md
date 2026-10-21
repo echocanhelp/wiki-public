@@ -42,7 +42,7 @@ Keep the site **usable on phone + desktop**, **structurally correct after every 
                └─ L3 push when green    ← only nightly pusher
 00:30        echopedia-site-design      (audit-only AFTER push — no second push)
 00:45        cron-audit
-07:00        vault-morning-brief        (🔴 NEED YOU first)
+08:30        vault-morning-brief        (🔴 NEED YOU first)
 paused       digest                     (do not re-enable)
 Sun 21:00    vault-search-index-rebuild
 Sun 22:15    echopedia-weekly-improvement

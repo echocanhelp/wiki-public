@@ -50,7 +50,7 @@ Vault: `/home/leedt/echo-system` · Live: https://echocanhelp.github.io/wiki-pub
 
 1. **Read this file** — it defines how to assign work.
 2. **Say** `Echopedia website <domain>` — classify then absorb (church graph **or** story index, not always every HTML).
-3. **Review the morning brief** at **07:00** local (System group) — only **🔴 NEED YOU** lines need you. Digest is paused.
+3. **Review the morning brief** at **08:30** local (System group) — only **🔴 NEED YOU** lines need you. Digest is paused.
 
 **Command decision tree:**
 
@@ -72,7 +72,7 @@ Do you have a…
 ### Media stack / LLM UP–DOWN (pinto)
 
 **Full how-to (best utilization):** [`~/ai-services/media-stack/docs/USER_GUIDE.md`](../../ai-services/media-stack/docs/USER_GUIDE.md)  
-Orchestrator: `~/ai-services/media-stack/orchestrator/` · Policy: **force UP on reboot** (`qwen38-autoround-int4.service` = `universal` on `:8888`). Hard = agent off (no Lightning). Ornith / DSV4 / Laguna / Qwen-NVFP4 are **deleted** — no unit files, no weights, not rollback targets. `:8890` is masked, stays down.
+Orchestrator: `~/ai-services/media-stack/orchestrator/` · Policy: **force UP on reboot** (starts `llm_up.unit` from `pinto-llm-mode.json`; today `qwen38-flash-next-tf.service` = `universal` on `:8888`. AutoRound unit is installed + disabled, not the boot target). Hard = agent off (no Lightning). Ornith / DSV4 / Laguna / Qwen-NVFP4 are **deleted** — no unit files, no weights, not rollback targets. `:8890` is masked, stays down.
 
 | You say | What happens |
 |---------|----------------|
@@ -87,7 +87,7 @@ Orchestrator: `~/ai-services/media-stack/orchestrator/` · Policy: **force UP on
 
 ### Ingest a new website
 1. Say: `Echopedia website <domain>`
-2. Review morning brief (07:00) for 🔴 NEED YOU; digest is paused
+2. Review morning brief (08:30) for 🔴 NEED YOU; digest is paused
 3. Check SYSTEM_STATUS.md for any issues
 
 ### Add a new feature (Google, Twilio, media, etc.)
@@ -180,7 +180,7 @@ Look at the **janitor queue** (depth is in SYSTEM_STATUS.md). Typical first task
 
 ### What to do next
 
-- **Every morning 07:00** — read **vault-morning-brief** (System). Act only on **🔴 NEED YOU**. Tags: [cron-notify-labels.md](../knowledge/operational/cron-notify-labels.md).
+- **Every morning 08:30** — read **vault-morning-brief** (System). Act only on **🔴 NEED YOU**. Tags: [cron-notify-labels.md](../knowledge/operational/cron-notify-labels.md).
 - Digest (06:20) is paused. ✅ AUTO / 🟡 QUEUE are not owner homework.
 - **Sun 22:15** — weekly improvement pack; review briefs only if 🔴 FAIL.
 - **When stuck** — check SYSTEM_STATUS.md → pick a playbook from the troubleshooting table.
@@ -426,7 +426,7 @@ Workers never “reason through” cron prompts — only run scripts or P5/P11.
 
 Turn off all auto-push: P6 `l3_auto_push_on_green=false`.
 
-**Local wall clock (pinto):** 21:10–23:30 sense/deepen · **00:25 ci-heal** (only nightly push) · digest paused · **07:00 morning-brief** · 00:45 cron-audit · Sun 22:15 weekly-improvement · + infra watchdogs. Swarm resumes 21:00 (forever pin wins). If this line disagrees with `cron/jobs.json`, jobs.json wins.  
+**Local wall clock (pinto):** 21:10–23:30 sense/deepen · **00:25 ci-heal** (only nightly push) · digest paused · **08:30 morning-brief** · 00:45 cron-audit · Sun 22:15 weekly-improvement · + infra watchdogs. Swarm resumes 21:00 (forever pin wins). If this line disagrees with `cron/jobs.json`, jobs.json wins.  
 Telegram tags: ✅ AUTO · 🟡 QUEUE · 🔴 NEED YOU — see `knowledge/operational/cron-notify-labels.md`.
 
 
@@ -465,7 +465,7 @@ The system runs a nightly pipeline that discovers content quality gaps on the li
 
 ## When to intervene (decision matrix)
 
-The system runs 24/7 (local): sense/deepen after the 21:00 thaw · **00:25 ci-heal** · digest paused · **07:00 morning-brief**. **You only intervene on 🔴 NEED YOU** (or true smoke/site FAIL). Each row maps a signal to a concrete action (or "do nothing"). If a clock in this file disagrees with `cron/jobs.json`, jobs.json wins — do not move the job.
+The system runs 24/7 (local): sense/deepen after the 21:00 thaw · **00:25 ci-heal** · digest paused · **08:30 morning-brief**. **You only intervene on 🔴 NEED YOU** (or true smoke/site FAIL). Each row maps a signal to a concrete action (or "do nothing"). If a clock in this file disagrees with `cron/jobs.json`, jobs.json wins — do not move the job.
 
 | Situation | Matrix trigger | Your action |
 |-----------|---------------|-------------|
@@ -498,7 +498,7 @@ The system runs 24/7 (local): sense/deepen after the 21:00 thaw · **00:25 ci-he
 
 ## Key metrics to watch
 
-SYSTEM_STATUS.md (auto) and the 07:00 morning brief surface these. Digest is paused. Know what each means and when to act.
+SYSTEM_STATUS.md (auto) and the 08:30 morning brief surface these. Digest is paused. Know what each means and when to act.
 
 ### Content health
 || Metric | Green | Yellow | Red | Source |

@@ -42,7 +42,7 @@ All stages **`no_agent`** (no LLM in overnight path):
 7. **Publish** (00:25) — ci-heal L2/L3 (only nightly pusher)  
 8. **Review** (Sun 22:15) — weekly-improvement pack + review gate  
 
-**Human surface (last content brief):** `vault-morning-brief` **07:00** — NEED YOU ≤5 first; AUTO strip from `autonomy-ledger.json`.  
+**Human surface (last content brief):** `vault-morning-brief` **08:30** — NEED YOU ≤5 first; AUTO strip from `autonomy-ledger.json`.  
 **Cron self-heal:** `cron-audit` 00:45 (schedule restore + missed-run guards).
 
 **Folded (paused as Telegram):** `vault-unfinished-threads`, `vault-connector-suggestions`, `vault-intelligence-digest` — collectors still run **via morning-brief** (disk), not separate spam.
@@ -82,7 +82,7 @@ SSOT times: `hermes cron list` / SYSTEM_STATUS generated table. Narrative summar
 | **Sun 21:00** | **vault-search-index-rebuild** | Search index rebuild (same minute as resume — do not add a third 21:00 job) |
 | **Sun 22:15** | **weekly-improvement** | Review gate + pack |
 | **Sun 23:45** | **source-continuity** | Live-site watch → delta AUTO |
-| **07:00** | **vault-morning-brief** | **Primary human surface** |
+| **08:30** | **vault-morning-brief** | **Primary human surface** |
 | paused | echopedia-digest | Do not re-enable as a second dashboard |
 | `knowledge/operational/incidents/` | Failures |
 

@@ -44,7 +44,7 @@ Full classifier: skill **`go-router`**.
 - `/aiko/*` → **`:8648`** profile `aiko` = **Aiko**.
 - Health: `curl :8646/line/webhook/health` · `curl :8647/ee/line/webhook/health` · `curl :8648/aiko/line/webhook/health` (all via Caddy too: `:8600/<same paths>`). Ngrok tunnel `addr` is **`8600`** (Caddy), never a unit port directly.
 
-**LLM (pinto media-stack):** Always-on brain is **whatever `:8888` currently serves** (`custom:pinto`). Pin by **port**, not by stack name. Live id = `curl -sf :8888/v1/models` first `data[0].id` (also in `~/.hermes/cache/pinto-llm-mode.json` `served_model`). **Never** hardcode `ornith-1.5-35b-a3b-nvfp4` / `deepseek-v4-flash-0731` / Laguna in Hermes config, kanban `--model`, cron, or `auxiliary.goal_judge` — those 404 after a mode swap. After `swap-llm-stack.sh *`, run (or let the swap script run) `~/.hermes/scripts/retarget-lan-hermes.sh` so `model.default` / `custom_providers` / `delegation` / `compression` / `goal_judge` follow the live id. Today that is **`universal` on `qwen38-autoround-int4.service`** (azampatti Qwen3.8-Flash-Next-125B-A5B-INT4-AutoRound, b12x image; SSOT runbook `~/ai-services/media-stack/orchestrator/autoround-8888-RUNBOOK.md`). Hard media = stop `:8888` (agent off). Reboot `force_up_on_reboot`. Never dual vLLM. LINE = Grok-primary + LAN fallback (live id). **Retired stacks are deleted, not rollback targets:** Ornith / DSV4 / Laguna / Qwen-NVFP4 have **no unit files and no weight dirs**, so `swap-llm-stack.sh <retired-mode>` cannot restore them — treat that script's non-`status` modes as dead. `:8890` (`nemotron-lightning-30b-nvfp4`) is **masked**; leave it masked.
+**LLM (pinto media-stack):** Always-on brain is **whatever `:8888` currently serves** (`custom:pinto`). Pin by **port**, not by stack name. Live id = `curl -sf :8888/v1/models` first `data[0].id` (also in `~/.hermes/cache/pinto-llm-mode.json` `served_model`). **Never** hardcode `ornith-1.5-35b-a3b-nvfp4` / `deepseek-v4-flash-0731` / Laguna in Hermes config, kanban `--model`, cron, or `auxiliary.goal_judge` — those 404 after a mode swap. After `swap-llm-stack.sh *`, run (or let the swap script run) `~/.hermes/scripts/retarget-lan-hermes.sh` so `model.default` / `custom_providers` / `delegation` / `compression` / `goal_judge` follow the live id. Today that is **`universal` on `qwen38-flash-next-tf.service`** (TensorFold Zig, container `qwen38-flash-next-tf`, image `tensorfold-qwen38:zig-db28187-qad-tile`; `owned_by: tensorfold`). `qwen38-autoround-int4.service` is installed + disabled — checkpoint rollback, not the live owner. Do not treat `autoround-8888-RUNBOOK.md` as the live-owner SSOT. Hard media = stop `:8888` (agent off). Reboot `force_up_on_reboot`. Never dual vLLM. LINE = Grok-primary + LAN fallback (live id). **Retired stacks are deleted, not rollback targets:** Ornith / DSV4 / Laguna / Qwen-NVFP4 have **no unit files and no weight dirs**, so `swap-llm-stack.sh <retired-mode>` cannot restore them — treat that script's non-`status` modes as dead. `:8890` (`nemotron-lightning-30b-nvfp4`) is **masked**; leave it masked.
 
 **STT (one door, all channels):** `~/ai-services/media-stack/orchestrator/stt.sh` — tape stays; sidecar `.stt.txt`. Default **Breeze-ASR-25** CT2 int8 CPU (`language=zh`, 台灣華語). `--engine taigi` = Breeze-ASR-26 (華語漢字, not 台羅). Fallback zh = faster-whisper `base`. **pinto + stories + global** (`~/.hermes/config.yaml`, Echo許) all `stt.provider: pinto_stt` → this door. HeartMuLa fidelity same. 萌典 is spelling SSOT, not ASR. STT config via `hermes config set` only (global: `env -u HERMES_HOME`).
 
@@ -165,7 +165,7 @@ Use the **highest** surface that can do the job. Never jump to freestyle edits w
 
 ### 4.1 Daily operator (you)
 
-1. Read **vault-morning-brief** (07:00 local, System group) — **🔴 NEED YOU** first (≤5).  
+1. Read **vault-morning-brief** (08:30 local, System group) — **🔴 NEED YOU** first (≤5).  
 2. Digest (06:20) is **paused**. Do not skim it and do not re-enable it from this line.  
 3. **Only 🔴 NEED YOU requires your reply.** ✅ AUTO = healed/machine. 🟡 QUEUE = backlog, not a gate. ℹ️ INFO = polish.  
 4. No 🔴 lines → **do nothing.**  
@@ -333,7 +333,7 @@ After cron edits: run docs-sync (or wait for system-status/ci-heal). Optional: s
 | **00:25** | **ci-heal** (only nightly push) | Sleep |
 | **00:40** | **tier1-sweep** (last content touch) | Sleep |
 | 00:45 | Cron audit | Nothing if silent |
-| **07:00** | **Morning brief** | **Only 🔴 NEED YOU** |
+| **08:30** | **Morning brief** | **Only 🔴 NEED YOU** |
 | Sun 22:15 | Weekly improvement | Nothing unless 🔴 FAIL |
 | Sun 23:45 | source-continuity (live sites) | Nothing if silent |
 | paused | Digest | Do not re-enable |

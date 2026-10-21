@@ -1,6 +1,6 @@
-## Site design audit — 2026-10-21 00:36
+## Site design audit — 2026-10-21 08:25
 
-- pages_md=15169
+- pages_md=15172
 - critical=0 high=0 medium=1
 - heals_suggested=none
 
@@ -8,7 +8,11 @@
 - **SITE_DESIGN_STATUS: WARN**
 
 ### MEDIUM (1)
-- **F4** people/index.html is 1540070 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
+- **F4** people/index.html is 1541353 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
+
+### LOW (1)
+- **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
+  - `hsu-hsin-hung.md: ?ching`
 
 ### INFO (2)
 - **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
@@ -18,7 +22,7 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 72
+- **B1** person/org touched ≤7d (rely on recency featured window): 74
   - `people/anna-wang-diplomat.md`
   - `people/bi-khim-hsiao.md`
   - `people/chen-maoxiong.md`
