@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-20",
+  "total_cards": 12,
+  "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-10-20.json",
+  "priority_counts": {
+    "medium": 8,
+    "low": 4
+  },
+  "playbook_counts": {
+    "P8": 12
+  },
+  "cards": [
+    {
+      "card_id": "echo-gen-2026-10-20-0001",
+      "title": "[MEDIUM] puma-taipei-official: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] puma-taipei-official: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/puma-taipei-official.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 9.0 (inbound links: 9)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/puma-taipei-official.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "sources/puma-taipei-official.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 9.0,
+      "target_path": "/home/leedt/echo-system/content/sources/puma-taipei-official.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-20-0002",
+      "title": "[MEDIUM] puma-taipei-official: Add ## Archive Statistics or ## Content section",
+      "body": "## Task: [MEDIUM] puma-taipei-official: Add ## Archive Statistics or ## Content section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/puma-taipei-official.md`\n**Finding:** `STRUCT_NO_STATS`\n**Score:** 9.0 (inbound links: 9)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/puma-taipei-official.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Archive Statistics or ## Content section\n**Detail:** Add archive statistics (URL count, size, date) or content summary for this source page.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_STATS\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "sources/puma-taipei-official.md",
+      "finding": "STRUCT_NO_STATS",
+      "score": 9.0,
+      "target_path": "/home/leedt/echo-system/content/sources/puma-taipei-official.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-20-0003",
+      "title": "[MEDIUM] kuma-academy-origin-2022: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] kuma-academy-origin-2022: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/kuma-academy-origin-2022.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 8.0 (inbound links: 8)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/kuma-academy-origin-2022.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "sources/kuma-academy-origin-2022.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 8.0,
+      "target_path": "/home/leedt/echo-system/content/sources/kuma-academy-origin-2022.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-20-0004",
+      "title": "[MEDIUM] kuma-academy-origin-2022: Add ## Archive Statistics or ## Content section",
+      "body": "## Task: [MEDIUM] kuma-academy-origin-2022: Add ## Archive Statistics or ## Content section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/kuma-academy-origin-2022.md`\n**Finding:** `STRUCT_NO_STATS`\n**Score:** 8.0 (inbound links: 8)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/kuma-academy-origin-2022.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Archive Statistics or ## Content section\n**Detail:** Add archive statistics (URL count, size, date) or content summary for this source page.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_STATS\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "sources/kuma-academy-origin-2022.md",
+      "finding": "STRUCT_NO_STATS",
+      "score": 8.0,
+      "target_path": "/home/leedt/echo-system/content/sources/kuma-academy-origin-2022.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-20-0005",
+      "title": "[MEDIUM] en-wp-shen-boyang: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] en-wp-shen-boyang: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/en-wp-shen-boyang.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 7.0 (inbound links: 7)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/en-wp-shen-boyang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "sources/en-wp-shen-boyang.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 7.0,
+      "target_path": "/home/leedt/echo-system/content/sources/en-wp-shen-boyang.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-20-0006",
+      "title": "[MEDIUM] en-wp-shen-boyang: Add ## Archive Statistics or ## Content section",
+      "body": "## Task: [MEDIUM] en-wp-shen-boyang: Add ## Archive Statistics or ## Content section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/en-wp-shen-boyang.md`\n**Finding:** `STRUCT_NO_STATS`\n**Score:** 7.0 (inbound links: 7)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/en-wp-shen-boyang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Archive Statistics or ## Content section\n**Detail:** Add archive statistics (URL count, size, date) or content summary for this source page.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_STATS\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "sources/en-wp-shen-boyang.md",
+      "finding": "STRUCT_NO_STATS",
+      "score": 7.0,
+      "target_path": "/home/leedt/echo-system/content/sources/en-wp-shen-boyang.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-20-0007",
+      "title": "[MEDIUM] tvbs-taipei-polls-2026: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] tvbs-taipei-polls-2026: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/tvbs-taipei-polls-2026.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 4.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/tvbs-taipei-polls-2026.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "sources/tvbs-taipei-polls-2026.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 4.0,
+      "target_path": "/home/leedt/echo-system/content/sources/tvbs-taipei-polls-2026.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-20-0008",
+      "title": "[MEDIUM] tvbs-taipei-polls-2026: Add ## Archive Statistics or ## Content section",
+      "body": "## Task: [MEDIUM] tvbs-taipei-polls-2026: Add ## Archive Statistics or ## Content section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/tvbs-taipei-polls-2026.md`\n**Finding:** `STRUCT_NO_STATS`\n**Score:** 4.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/tvbs-taipei-polls-2026.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Archive Statistics or ## Content section\n**Detail:** Add archive statistics (URL count, size, date) or content summary for this source page.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_STATS\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "sources/tvbs-taipei-polls-2026.md",
+      "finding": "STRUCT_NO_STATS",
+      "score": 4.0,
+      "target_path": "/home/leedt/echo-system/content/sources/tvbs-taipei-polls-2026.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-20-0009",
+      "title": "[LOW] doublethinklab-about: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [LOW] doublethinklab-about: Ensure the first paragraph mentions the page subject\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `sources/doublethinklab-about.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 1.0 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/doublethinklab-about.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "sources/doublethinklab-about.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 1.0,
+      "target_path": "/home/leedt/echo-system/content/sources/doublethinklab-about.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-20-0010",
+      "title": "[LOW] doublethinklab-about: Add ## Archive Statistics or ## Content section",
+      "body": "## Task: [LOW] doublethinklab-about: Add ## Archive Statistics or ## Content section\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `sources/doublethinklab-about.md`\n**Finding:** `STRUCT_NO_STATS`\n**Score:** 1.0 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/doublethinklab-about.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Archive Statistics or ## Content section\n**Detail:** Add archive statistics (URL count, size, date) or content summary for this source page.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_STATS\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "sources/doublethinklab-about.md",
+      "finding": "STRUCT_NO_STATS",
+      "score": 1.0,
+      "target_path": "/home/leedt/echo-system/content/sources/doublethinklab-about.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-20-0011",
+      "title": "[LOW] takungpao-vway-hitpiece-2026-10-13: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [LOW] takungpao-vway-hitpiece-2026-10-13: Ensure the first paragraph mentions the page subject\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `sources/takungpao-vway-hitpiece-2026-10-13.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 1.0 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/takungpao-vway-hitpiece-2026-10-13.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "sources/takungpao-vway-hitpiece-2026-10-13.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 1.0,
+      "target_path": "/home/leedt/echo-system/content/sources/takungpao-vway-hitpiece-2026-10-13.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-20-0012",
+      "title": "[LOW] takungpao-vway-hitpiece-2026-10-13: Add ## Archive Statistics or ## Content section",
+      "body": "## Task: [LOW] takungpao-vway-hitpiece-2026-10-13: Add ## Archive Statistics or ## Content section\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `sources/takungpao-vway-hitpiece-2026-10-13.md`\n**Finding:** `STRUCT_NO_STATS`\n**Score:** 1.0 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/takungpao-vway-hitpiece-2026-10-13.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-20 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Archive Statistics or ## Content section\n**Detail:** Add archive statistics (URL count, size, date) or content summary for this source page.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_STATS\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "sources/takungpao-vway-hitpiece-2026-10-13.md",
+      "finding": "STRUCT_NO_STATS",
+      "score": 1.0,
+      "target_path": "/home/leedt/echo-system/content/sources/takungpao-vway-hitpiece-2026-10-13.md"
+    }
+  ]
+}
