@@ -759,3 +759,27 @@
 {"ts": "2026-10-16T14:38:41Z", "status": "miss", "query": "@Echo許 AI助理 Execute", "slug": null, "source": "brain", "kind": null}
 {"ts": "2026-10-16T14:39:00Z", "status": "hit", "query": "Chapter VI part 2 Robert Lee quote audiobook listen page", "slug": "robert-lee", "source": "brain", "kind": "person"}
 {"ts": "2026-10-16T18:10:15Z", "status": "miss", "query": "@Echo許 AI助理 Execute", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-17T05:50:25Z", "status": "hit", "query": "@Aiko 許 Introduce yourself to my cousin @Leland Tsai (蔡元浩）", "slug": "tsai-ying-ju", "source": "cron", "kind": "person"}
+{"ts": "2026-10-17T05:50:25Z", "status": "hit", "query": "@Aiko 許 Leland is her father, he is very worried about her.  She is in 11th grade and has school pressures she must come to USA for college soon, she is conside", "slug": "leland-lee", "source": "cron", "kind": "person"}
+{"ts": "2026-10-17T05:50:26Z", "status": "hit", "query": "@Aiko 許 do some research on immigration for American citizens permanent residence in Taiwan, wanting to return to USA and apply for residence for wife and 3 kid", "slug": "american-citizens-of-taiwan-origin-acto", "source": "cron", "kind": "organization"}
+{"ts": "2026-10-17T05:59:25Z", "status": "hit", "query": "Kuan Bi-ling", "slug": "kuan-cheng-lu", "source": "cli", "kind": "person"}
+{"ts": "2026-10-17T05:59:25Z", "status": "miss", "query": "管碧玲", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-17T05:59:26Z", "status": "hit", "query": "Joseph Wu", "slug": "joseph-teng", "source": "cli", "kind": "person"}
+{"ts": "2026-10-17T05:59:26Z", "status": "miss", "query": "吳釗燮", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-17T05:59:27Z", "status": "hit", "query": "Brandon Tseng", "slug": "hsian-rong-tseng", "source": "cli", "kind": "person"}
+{"ts": "2026-10-17T05:59:27Z", "status": "miss", "query": "曾國光", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-17T05:59:28Z", "status": "miss", "query": "Shield AI", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-17T05:59:28Z", "status": "miss", "query": "AIDC", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-17T05:59:29Z", "status": "hit", "query": "Coast Guard Administration", "slug": "the-board-of-taiwanese-american-conferences-west-coast-tac-wc", "source": "cli", "kind": "organization"}
+{"ts": "2026-10-17T05:59:30Z", "status": "miss", "query": "海巡署", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-20T08:27:18Z", "status": "hit", "query": "shen bo yang", "slug": "yang-chengwei", "source": "telegram", "kind": "person"}
+{"ts": "2026-10-20T16:59:43Z", "status": "hit", "query": "Shen Bo Yang", "slug": "yang-chengwei", "source": "telegram", "kind": "person"}
+{"ts": "2026-10-20T19:46:13Z", "status": "miss", "query": "@Echo許 AI助理 Summarize next steps", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-20T20:01:24Z", "status": "miss", "query": "@Echo許 AI助理 summarize next steps", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-21T19:30:22Z", "status": "hit", "query": "[Hsuperman] confirm echopedia first is not relevant", "slug": "southern-california-alumni-association-of-tainan-first-senior-high-sch", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-21T19:31:16Z", "status": "hit", "query": "[Hsuperman] what is the reason the model would fail the quality gate", "slug": "tainan-east-gate-barclay-memorial-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-21T23:10:40Z", "status": "hit", "query": "[Hsuperman] There is a good gh auth on system, we publish echopedia daily, check your cred source", "slug": "good-shine-kitchen", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-22T07:37:12Z", "status": "hit", "query": "黃逸豪", "slug": "黃逸豪", "source": "cli", "kind": "person"}
+{"ts": "2026-10-22T07:37:17Z", "status": "miss", "query": "林楚茵", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-22T07:37:18Z", "status": "miss", "query": "傅崐萁", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-22T07:37:18Z", "status": "miss", "query": "蔣萬安", "slug": null, "source": "cli", "kind": null}

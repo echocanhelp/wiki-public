@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-16T07:00:27.333414",
-  "pages_scanned": 2964,
+  "generated_at": "2026-10-21T08:31:12.814920",
+  "pages_scanned": 3003,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 6983,
-    "co_mention_count": 11798,
+    "co_citation_count": 7153,
+    "co_mention_count": 11917,
     "shared_tags_count": 0,
     "orphan_folder_count": 3,
     "kept_co_citation": 80,
@@ -102,7 +102,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens for Taiwan (西雅圖美台會)",
-        "shared_targets_count": 2617
+        "shared_targets_count": 2618
       },
       {
         "type": "CO-CITATION",
@@ -111,7 +111,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
-        "shared_targets_count": 2617
+        "shared_targets_count": 2618
       },
       {
         "type": "CO-CITATION",
@@ -120,7 +120,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "shared_targets_count": 2617
+        "shared_targets_count": 2618
       },
       {
         "type": "CO-CITATION",

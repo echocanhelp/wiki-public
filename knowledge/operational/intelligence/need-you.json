@@ -1,34 +1,52 @@
 {
-  "generated_at": "2026-10-16T14:00:27Z",
+  "generated_at": "2026-10-21T15:31:13Z",
   "max": 5,
-  "count": 3,
+  "count": 5,
   "items": [
     {
-      "id": "gap_f6a0922efa",
+      "id": "gap_f67e72783a",
       "priority": 1,
       "kind": "gap_miss",
-      "title": "Echopedia miss: “瑞莎”",
+      "title": "Echopedia miss: “張其祥”",
       "action": "Confirm identity / approve thin page / or dismiss",
       "source": "cli",
-      "ts": "2026-10-14T18:41:55Z"
+      "ts": "2026-10-21T04:13:29Z"
     },
     {
-      "id": "gap_cf795cf145",
+      "id": "gap_cd1cb71a9b",
       "priority": 1,
       "kind": "gap_miss",
-      "title": "Echopedia miss: “蔣萬安”",
+      "title": "Echopedia miss: “林郁方”",
       "action": "Confirm identity / approve thin page / or dismiss",
       "source": "cli",
-      "ts": "2026-10-14T18:21:28Z"
+      "ts": "2026-10-21T04:13:29Z"
     },
     {
-      "id": "gap_cf4c30dbf5",
+      "id": "gap_357ef85c8b",
       "priority": 1,
       "kind": "gap_miss",
-      "title": "Echopedia miss: “ev-lunar-new-year-banquet”",
+      "title": "Echopedia miss: “INDOPACOM”",
       "action": "Confirm identity / approve thin page / or dismiss",
-      "source": "telegram",
-      "ts": "2026-08-31T02:22:49Z"
+      "source": "cli",
+      "ts": "2026-10-21T04:13:28Z"
+    },
+    {
+      "id": "gap_b7dd103646",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “國防部”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "cli",
+      "ts": "2026-10-21T04:13:28Z"
+    },
+    {
+      "id": "gap_cb6b355712",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “參謀本部”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "cli",
+      "ts": "2026-10-21T04:13:28Z"
     }
   ]
 }

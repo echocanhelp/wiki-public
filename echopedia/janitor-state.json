@@ -1,50 +1,8 @@
 {
   "version": 1,
-  "last_run": "2026-10-15",
+  "last_run": "2026-10-21",
   "standards_version_seen": 10,
   "runs": [
-    {
-      "date": "2026-09-16",
-      "candidates": 206,
-      "selected": 40,
-      "standards_version": 10,
-      "standards_bumped": false
-    },
-    {
-      "date": "2026-09-17",
-      "candidates": 203,
-      "selected": 40,
-      "standards_version": 10,
-      "standards_bumped": false
-    },
-    {
-      "date": "2026-09-18",
-      "candidates": 225,
-      "selected": 40,
-      "standards_version": 10,
-      "standards_bumped": false
-    },
-    {
-      "date": "2026-09-19",
-      "candidates": 214,
-      "selected": 40,
-      "standards_version": 10,
-      "standards_bumped": false
-    },
-    {
-      "date": "2026-09-20",
-      "candidates": 216,
-      "selected": 40,
-      "standards_version": 10,
-      "standards_bumped": false
-    },
-    {
-      "date": "2026-09-21",
-      "candidates": 205,
-      "selected": 40,
-      "standards_version": 10,
-      "standards_bumped": false
-    },
     {
       "date": "2026-09-22",
       "candidates": 197,
@@ -212,6 +170,48 @@
       "selected": 40,
       "standards_version": 10,
       "standards_bumped": false
+    },
+    {
+      "date": "2026-10-16",
+      "candidates": 241,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-10-17",
+      "candidates": 254,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-10-18",
+      "candidates": 258,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-10-19",
+      "candidates": 259,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-10-20",
+      "candidates": 263,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-10-21",
+      "candidates": 269,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
     }
   ],
   "queue": [
@@ -230,35 +230,7 @@
       ]
     },
     {
-      "path": "people/zou-jingwen.md",
-      "findings": [
-        "NO_IDENTITY_SNAPSHOT"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
       "path": "people/nanfang-shuo.md",
-      "findings": [
-        "NO_IDENTITY_SNAPSHOT"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/wang-qiaoling.md",
       "findings": [
         "NO_IDENTITY_SNAPSHOT"
       ],
@@ -300,6 +272,20 @@
       ]
     },
     {
+      "path": "people/wang-shufen.md",
+      "findings": [
+        "NO_IDENTITY_SNAPSHOT"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
       "path": "people/xia-ming.md",
       "findings": [
         "NO_IDENTITY_SNAPSHOT"
@@ -314,7 +300,7 @@
       ]
     },
     {
-      "path": "people/wang-shufen.md",
+      "path": "people/zou-jingwen.md",
       "findings": [
         "NO_IDENTITY_SNAPSHOT"
       ],
@@ -780,29 +766,25 @@
       ]
     },
     {
-      "path": "organizations/taiwan-center-choir.md",
+      "path": "people/shih-peng-chang.md",
       "findings": [
-        "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_40wps",
-        "READABILITY_MANY_LONG_SENTENCES_4"
+        "LINK_BODY_SPARSE"
       ],
       "hygiene": [],
       "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
     },
     {
-      "path": "organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md",
+      "path": "people/沈伯洋.md",
       "findings": [
         "LINKS_NO_RELATED",
-        "STRUCT_NO_HISTORY",
         "STRUCT_NO_RELATED",
-        "READABILITY_LONG_SENTENCES_34wps"
+        "READABILITY_MANY_LONG_SENTENCES_24"
       ],
       "hygiene": [],
       "instructions": [
@@ -815,136 +797,7 @@
       "priority": "medium"
     },
     {
-      "path": "people/dr-daniel-c-hsu.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_5"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/dr-fu-tong-hsu.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_6"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/fang-ming-chen.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_LONG_SENTENCES_31wps",
-        "READABILITY_MANY_LONG_SENTENCES_11"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/fu-mei-chang.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/helen-wang.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/juliar-wang.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/strong-chuang.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/tony-hsieh.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/卓榮泰說.md",
+      "path": "people/黃逸豪.md",
       "findings": [
         "LINKS_NO_RELATED",
         "STRUCT_NO_IDENTITY",
@@ -961,29 +814,127 @@
       "priority": "medium"
     },
     {
-      "path": "people/李明哲.md",
+      "path": "sources/cna-lu-jiqiang-campaign-reactions-2026-10-21.md",
       "findings": [
-        "DESC_TOO_SHORT",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/2017-tahs-publication.md",
-      "findings": [
-        "FRESHNESS_OLD_91d",
+        "DESC_NO_TITLE_MENTION",
         "STRUCT_NO_STATS",
-        "READABILITY_MANY_LONG_SENTENCES_5"
+        "READABILITY_LONG_SENTENCES_51wps"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "sources/doublethinklab-about.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "STRUCT_NO_STATS",
+        "READABILITY_LONG_SENTENCES_52wps"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "sources/initium-taipei-race-2026-10-21.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "STRUCT_NO_STATS",
+        "READABILITY_LONG_SENTENCES_37wps"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "sources/mirror-three-wave-repression-2026-10-14.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "STRUCT_NO_STATS"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "sources/prc-media-vway-followup-2026-10-15.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "STRUCT_NO_STATS",
+        "READABILITY_LONG_SENTENCES_31wps"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "sources/taiwandaily-net.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS",
+        "READABILITY_MANY_LONG_SENTENCES_40"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "sources/takungpao-vway-hitpiece-2026-10-13.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "STRUCT_NO_STATS"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "sources/xinmin-taipei-poll2-2026-10-20.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "STRUCT_NO_STATS"
       ],
       "hygiene": [],
       "instructions": [
@@ -996,16 +947,15 @@
       "priority": "medium"
     }
   ],
-  "last_candidates": 235,
+  "last_candidates": 269,
   "last_selected": [
     "people/bai-peiyu.md",
-    "people/zou-jingwen.md",
     "people/nanfang-shuo.md",
-    "people/wang-qiaoling.md",
     "people/tang-peili.md",
     "people/sang-pu.md",
-    "people/xia-ming.md",
     "people/wang-shufen.md",
+    "people/xia-ming.md",
+    "people/zou-jingwen.md",
     "people/george-lee.md",
     "people/huang-yongcheng.md",
     "people/kuan-cheng-lu.md",
@@ -1037,6 +987,7 @@
     "people/erh-jen-lee.md",
     "people/wei-ling-chen.md",
     "people/yi-hsin-lin.md",
-    "people/nancy-jan.md"
+    "people/nancy-jan.md",
+    "people/shih-peng-chang.md"
   ]
 }

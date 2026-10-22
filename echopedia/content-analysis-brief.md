@@ -1,32 +1,30 @@
-## Echopedia Content Analysis — 2026-10-15
+## Echopedia Content Analysis — 2026-10-21
 - Standards v10
-- Pages scanned: **39** with findings
-- Auto-queued for remediation: **13** (score ≥ 3)
-- Wall time: 2.9s
+- Pages scanned: **31** with findings
+- Auto-queued for remediation: **8** (score ≥ 3)
+- Wall time: 2.25s
 
 ### Top 10 pages needing attention:
-- `people/李明哲.md` score=5 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, LINKS_NO_RELATED, STRUCT_NO_IDENTITY, STRUCT_NO_RELATED
-- `organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md` score=4 — LINKS_NO_RELATED, STRUCT_NO_HISTORY, STRUCT_NO_RELATED, READABILITY_LONG_SENTENCES_34wps
-- `people/fang-ming-chen.md` score=4 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, READABILITY_LONG_SENTENCES_31wps, READABILITY_MANY_LONG_SENTENCES_11
-- `organizations/taiwan-center-choir.md` score=3 — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_40wps, READABILITY_MANY_LONG_SENTENCES_4
-- `people/dr-daniel-c-hsu.md` score=3 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_5
-- `people/dr-fu-tong-hsu.md` score=3 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_6
-- `people/fu-mei-chang.md` score=3 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_4
-- `people/helen-wang.md` score=3 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_4
-- `people/juliar-wang.md` score=3 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_4
-- `people/strong-chuang.md` score=3 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_4
+- `sources/cna-lu-jiqiang-campaign-reactions-2026-10-21.md` score=4 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, STRUCT_NO_STATS, READABILITY_LONG_SENTENCES_51wps
+- `sources/doublethinklab-about.md` score=4 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, STRUCT_NO_STATS, READABILITY_LONG_SENTENCES_52wps
+- `sources/initium-taipei-race-2026-10-21.md` score=4 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, STRUCT_NO_STATS, READABILITY_LONG_SENTENCES_37wps
+- `sources/prc-media-vway-followup-2026-10-15.md` score=4 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, STRUCT_NO_STATS, READABILITY_LONG_SENTENCES_31wps
+- `people/沈伯洋.md` score=3 — LINKS_NO_RELATED, STRUCT_NO_RELATED, READABILITY_MANY_LONG_SENTENCES_24
+- `people/黃逸豪.md` score=3 — LINKS_NO_RELATED, STRUCT_NO_IDENTITY, STRUCT_NO_RELATED
+- `sources/mirror-three-wave-repression-2026-10-14.md` score=3 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, STRUCT_NO_STATS
+- `sources/takungpao-vway-hitpiece-2026-10-13.md` score=3 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, STRUCT_NO_STATS
+- `people/lin-ying-zi.md` score=2 — LINKS_NO_RELATED, STRUCT_NO_RELATED
+- `people/wu-ma-li.md` score=2 — LINKS_NO_RELATED, STRUCT_NO_RELATED
 
 ### Auto-queued for P13 remediation:
-- `organizations/taiwan-center-choir.md` (medium) — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_40wps, READABILITY_MANY_LONG_SENTENCES_4
-- `organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md` (medium) — LINKS_NO_RELATED, STRUCT_NO_HISTORY, STRUCT_NO_RELATED, READABILITY_LONG_SENTENCES_34wps
-- `people/dr-daniel-c-hsu.md` (medium) — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_5
-- `people/dr-fu-tong-hsu.md` (medium) — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_6
-- `people/fang-ming-chen.md` (medium) — DESC_NO_TITLE_MENTION, READABILITY_LONG_SENTENCES_31wps, READABILITY_MANY_LONG_SENTENCES_11
-- `people/fu-mei-chang.md` (medium) — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_4
-- `people/helen-wang.md` (medium) — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_4
-- `people/juliar-wang.md` (medium) — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_4
-- `people/strong-chuang.md` (medium) — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_4
-- `people/tony-hsieh.md` (medium) — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_4
+- `people/沈伯洋.md` (medium) — LINKS_NO_RELATED, STRUCT_NO_RELATED, READABILITY_MANY_LONG_SENTENCES_24
+- `people/黃逸豪.md` (medium) — LINKS_NO_RELATED, STRUCT_NO_IDENTITY, STRUCT_NO_RELATED
+- `sources/cna-lu-jiqiang-campaign-reactions-2026-10-21.md` (medium) — DESC_NO_TITLE_MENTION, STRUCT_NO_STATS, READABILITY_LONG_SENTENCES_51wps
+- `sources/doublethinklab-about.md` (medium) — DESC_NO_TITLE_MENTION, STRUCT_NO_STATS, READABILITY_LONG_SENTENCES_52wps
+- `sources/initium-taipei-race-2026-10-21.md` (medium) — DESC_NO_TITLE_MENTION, STRUCT_NO_STATS, READABILITY_LONG_SENTENCES_37wps
+- `sources/mirror-three-wave-repression-2026-10-14.md` (medium) — DESC_NO_TITLE_MENTION, STRUCT_NO_STATS
+- `sources/prc-media-vway-followup-2026-10-15.md` (medium) — DESC_NO_TITLE_MENTION, STRUCT_NO_STATS, READABILITY_LONG_SENTENCES_31wps
+- `sources/takungpao-vway-hitpiece-2026-10-13.md` (medium) — DESC_NO_TITLE_MENTION, STRUCT_NO_STATS
 
-- Log: `knowledge/operational/content-analysis/2026-10-15.jsonl`
+- Log: `knowledge/operational/content-analysis/2026-10-21.jsonl`
 - Queue: `echopedia/content-analysis-queue.json`

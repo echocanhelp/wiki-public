@@ -119,26 +119,6 @@
     "2026-08-22",
     "2026-08-23"
   ],
-  "people/cao-changqing.md|DESC_NO_TITLE_MENTION": [
-    "2026-08-03",
-    "2026-08-03",
-    "2026-08-04",
-    "2026-08-04",
-    "2026-08-21",
-    "2026-08-21",
-    "2026-08-21",
-    "2026-08-21"
-  ],
-  "people/cao-changqing.md|STRUCT_NO_IDENTITY": [
-    "2026-08-03",
-    "2026-08-03",
-    "2026-08-04",
-    "2026-08-04",
-    "2026-08-21",
-    "2026-08-21",
-    "2026-08-21",
-    "2026-08-21"
-  ],
   "people/chao-sile.md|DESC_NO_TITLE_MENTION": [
     "2026-08-04",
     "2026-08-04",
@@ -210,16 +190,6 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-23"
-  ],
-  "people/hu-ping.md|STRUCT_NO_IDENTITY": [
-    "2026-08-03",
-    "2026-08-03",
-    "2026-08-04",
-    "2026-08-04",
-    "2026-08-21",
-    "2026-08-21",
-    "2026-08-21",
-    "2026-08-21"
   ],
   "people/huang-yongcheng.md|DESC_NO_TITLE_MENTION": [
     "2026-08-04",
@@ -701,17 +671,6 @@
     "2026-08-22",
     "2026-08-23"
   ],
-  "people/wang-dan.md|STRUCT_NO_IDENTITY": [
-    "2026-08-03",
-    "2026-08-03",
-    "2026-08-04",
-    "2026-08-04",
-    "2026-08-07",
-    "2026-08-21",
-    "2026-08-21",
-    "2026-08-21",
-    "2026-08-21"
-  ],
   "people/wang-qiaoling.md|DESC_NO_TITLE_MENTION": [
     "2026-08-03",
     "2026-08-04",
@@ -783,26 +742,6 @@
     "2026-09-11",
     "2026-09-12",
     "2026-09-13"
-  ],
-  "people/wei-jingsheng.md|DESC_NO_TITLE_MENTION": [
-    "2026-08-03",
-    "2026-08-03",
-    "2026-08-04",
-    "2026-08-04",
-    "2026-08-21",
-    "2026-08-21",
-    "2026-08-21",
-    "2026-08-21"
-  ],
-  "people/wei-jingsheng.md|STRUCT_NO_IDENTITY": [
-    "2026-08-03",
-    "2026-08-03",
-    "2026-08-04",
-    "2026-08-04",
-    "2026-08-21",
-    "2026-08-21",
-    "2026-08-21",
-    "2026-08-21"
   ],
   "people/wu-lipei.md|STRUCT_NO_IDENTITY": [
     "2026-08-04",
@@ -1129,16 +1068,16 @@
     "2026-08-23"
   ],
   "people/chen-maoxiong.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-08-20",
-    "2026-08-21",
-    "2026-08-21",
     "2026-08-21",
     "2026-08-21",
     "2026-08-21",
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18"
   ],
   "people/chen-zhaonan.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-08-20",
@@ -2915,9 +2854,6 @@
     "2026-08-22",
     "2026-08-23"
   ],
-  "organizations/tah-foundation.md|STRUCT_NO_HISTORY": [
-    "2026-08-21"
-  ],
   "organizations/tah-org-65f548288a.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
     "2026-08-22",
@@ -3296,14 +3232,14 @@
   "organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md|STRUCT_NO_HISTORY": [
     "2026-08-22",
     "2026-08-22",
-    "2026-08-22",
     "2026-08-23",
     "2026-09-19",
     "2026-09-20",
     "2026-09-20",
     "2026-09-21",
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "organizations/taiwanese-american-association-of-mississippi.md|STRUCT_NO_HISTORY": [
     "2026-08-21",
@@ -5323,7 +5259,9 @@
     "2026-08-23",
     "2026-09-18",
     "2026-09-19",
-    "2026-09-20"
+    "2026-09-20",
+    "2026-10-18",
+    "2026-10-19"
   ],
   "people/bill-lee.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -5702,14 +5640,20 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18"
   ],
   "people/chen-maoxiong.md|READABILITY_LONG_SENTENCES": [
     "2026-08-21",
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18"
   ],
   "people/chen-meihui.md|LINKS_HIGH_DENSITY": [
     "2026-08-21",
@@ -6491,7 +6435,10 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-18",
+    "2026-10-19",
+    "2026-10-20"
   ],
   "people/david-s-chen.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -13467,9 +13414,6 @@
     "2026-08-22",
     "2026-08-23"
   ],
-  "people/xu-zongbang.md|LINKS_LOW_DENSITY": [
-    "2026-08-21"
-  ],
   "people/ya-hui-chiu.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
     "2026-08-22",
@@ -13539,9 +13483,6 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-23"
-  ],
-  "people/ye-siya-zhang-xinhui.md|LINKS_LOW_DENSITY": [
-    "2026-08-21"
   ],
   "people/yea-hwang-uang.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -13775,14 +13716,17 @@
     "2026-08-22",
     "2026-08-23",
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "sources/2023-tahs-publication.md|STRUCT_NO_STATS": [
     "2026-08-21",
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-20",
+    "2026-10-21"
   ],
   "sources/good-shepherd-taiwanese-presbyterian-church.md|STRUCT_NO_STATS": [
     "2026-08-21",
@@ -13824,7 +13768,10 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-19",
+    "2026-10-20",
+    "2026-10-21"
   ],
   "sources/presbyterian-church-in-taiwan.md|STRUCT_NO_STATS": [
     "2026-08-21",
@@ -13876,7 +13823,10 @@
     "2026-08-22",
     "2026-08-22",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-10-19",
+    "2026-10-20",
+    "2026-10-21"
   ],
   "people/lin-chao-chi.md|READABILITY_LONG_SENTENCES": [
     "2026-08-22",
@@ -15683,7 +15633,10 @@
   "people/bi-khim-hsiao.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-09-18",
     "2026-09-19",
-    "2026-09-20"
+    "2026-09-20",
+    "2026-10-18",
+    "2026-10-19",
+    "2026-10-20"
   ],
   "people/ing-hour-lin.md|READABILITY_LONG_SENTENCES": [
     "2026-09-18"
@@ -15863,7 +15816,8 @@
     "2026-09-20",
     "2026-09-21",
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "organizations/taiwanese-american-organization-at-uc-irvine.md|READABILITY_LONG_SENTENCES": [
     "2026-09-19",
@@ -17930,7 +17884,8 @@
     "2026-10-11",
     "2026-10-12",
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "people/wang-neng-xiang.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-10",
@@ -18201,7 +18156,9 @@
   "people/沈伯洋.md|LINKS_NO_RELATED": [
     "2026-10-12",
     "2026-10-13",
-    "2026-10-14"
+    "2026-10-14",
+    "2026-10-20",
+    "2026-10-21"
   ],
   "people/沈伯洋.md|STRUCT_NO_IDENTITY": [
     "2026-10-12",
@@ -18211,7 +18168,9 @@
   "people/沈伯洋.md|STRUCT_NO_RELATED": [
     "2026-10-12",
     "2026-10-13",
-    "2026-10-14"
+    "2026-10-14",
+    "2026-10-20",
+    "2026-10-21"
   ],
   "people/邱垂正.md|LINKS_LOW_DENSITY": [
     "2026-10-12"
@@ -18220,19 +18179,22 @@
     "2026-10-12",
     "2026-10-13",
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "people/邱垂正.md|STRUCT_NO_IDENTITY": [
     "2026-10-12",
     "2026-10-13",
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "people/邱垂正.md|STRUCT_NO_RELATED": [
     "2026-10-12",
     "2026-10-13",
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "sources/toward-a-community-of-hope.md|FRESHNESS_OLD": [
     "2026-10-12",
@@ -18392,41 +18354,50 @@
   "people/李明哲.md|LINKS_NO_RELATED": [
     "2026-10-13",
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "people/李明哲.md|STRUCT_NO_IDENTITY": [
     "2026-10-13",
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "people/李明哲.md|STRUCT_NO_RELATED": [
     "2026-10-13",
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "organizations/tah-foundation.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md|LINKS_NO_RELATED": [
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md|STRUCT_NO_RELATED": [
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "people/ho-chie-tsai.md|LINKS_HIGH_DENSITY": [
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "people/joshua-chin.md|LINKS_LOW_DENSITY": [
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "people/strong-chuang.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "people/wang-gui-rong.md|DESC_TOO_SHORT": [
     "2026-10-14"
@@ -18436,11 +18407,13 @@
   ],
   "people/李明哲.md|DESC_TOO_SHORT": [
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "people/邱垂正.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "sources/2017-tahs-publication.md|FRESHNESS_OLD": [
     "2026-10-14",
@@ -18448,15 +18421,439 @@
   ],
   "sources/zhwp-mei-xinyi.md|STRUCT_NO_STATS": [
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "sources/zhwp-erh-ping-tsai.md|STRUCT_NO_STATS": [
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16",
+    "2026-10-17"
   ],
   "sources/zhwp-hsu-hsin-liang.md|STRUCT_NO_STATS": [
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16",
+    "2026-10-17"
   ],
   "sources/zhwp-hsu-hsin-liang.md|READABILITY_LONG_SENTENCES": [
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16",
+    "2026-10-17"
+  ],
+  "people/anne-shih.md|FRESHNESS_OLD": [
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18"
+  ],
+  "people/bob-j-wu.md|FRESHNESS_OLD": [
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18"
+  ],
+  "people/chen-maoxiong.md|DESC_TOO_SHORT": [
+    "2026-10-16"
+  ],
+  "people/chen-maoxiong.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-16"
+  ],
+  "people/li-teng-hui.md|LINKS_LOW_DENSITY": [
+    "2026-10-16"
+  ],
+  "people/martha-vandriel.md|FRESHNESS_OLD": [
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18"
+  ],
+  "people/teng-chieh-teng.md|LINKS_LOW_DENSITY": [
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18"
+  ],
+  "people/yi-min-lin.md|LINKS_LOW_DENSITY": [
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18"
+  ],
+  "people/嚴查.md|LINKS_LOW_DENSITY": [
+    "2026-10-16"
+  ],
+  "people/嚴查.md|LINKS_NO_RELATED": [
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18"
+  ],
+  "people/嚴查.md|STRUCT_NO_IDENTITY": [
+    "2026-10-16"
+  ],
+  "people/嚴查.md|STRUCT_NO_RELATED": [
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18"
+  ],
+  "sources/taiwandaily-net.md|LINKS_NO_RELATED": [
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/taiwandaily-net.md|STRUCT_NO_STATS": [
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/zhwp-syaru-shirley-lin.md|LINKS_LOW_DENSITY": [
+    "2026-10-16"
+  ],
+  "sources/zhwp-syaru-shirley-lin.md|LINKS_NO_RELATED": [
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18"
+  ],
+  "sources/zhwp-syaru-shirley-lin.md|STRUCT_NO_STATS": [
+    "2026-10-16"
+  ],
+  "people/parris-hsu-cheng-chang.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/tah-p-d0f36c77d3.md|LINKS_HIGH_DENSITY": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/歐盟.md|LINKS_LOW_DENSITY": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/歐盟.md|LINKS_NO_RELATED": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/歐盟.md|STRUCT_NO_IDENTITY": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/歐盟.md|STRUCT_NO_RELATED": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/袁紅冰.md|LINKS_LOW_DENSITY": [
+    "2026-10-17"
+  ],
+  "people/袁紅冰.md|LINKS_NO_RELATED": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/袁紅冰.md|STRUCT_NO_IDENTITY": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/袁紅冰.md|STRUCT_NO_RELATED": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/鄭麗文.md|LINKS_NO_RELATED": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/鄭麗文.md|STRUCT_NO_IDENTITY": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/鄭麗文.md|STRUCT_NO_RELATED": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/金鐘.md|LINKS_LOW_DENSITY": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/金鐘.md|LINKS_NO_RELATED": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/金鐘.md|STRUCT_NO_IDENTITY": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/金鐘.md|STRUCT_NO_RELATED": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/高雄.md|LINKS_NO_RELATED": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/高雄.md|STRUCT_NO_IDENTITY": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/高雄.md|STRUCT_NO_RELATED": [
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19"
+  ],
+  "people/bi-khim-hsiao.md|READABILITY_LONG_SENTENCES": [
+    "2026-10-18",
+    "2026-10-19",
+    "2026-10-20"
+  ],
+  "people/david-lee.md|FRESHNESS_OLD": [
+    "2026-10-18",
+    "2026-10-19",
+    "2026-10-20"
+  ],
+  "people/li-teng-hui.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-18",
+    "2026-10-19",
+    "2026-10-20"
+  ],
+  "people/zhou-wei-lin.md|FRESHNESS_OLD": [
+    "2026-10-19",
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/ocac-gov-tw.md|FRESHNESS_OLD": [
+    "2026-10-19",
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/wikipedia-democratic-progressive-party.md|FRESHNESS_OLD": [
+    "2026-10-19",
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "people/lin-ying-zi.md|LINKS_NO_RELATED": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "people/lin-ying-zi.md|STRUCT_NO_RELATED": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "people/liu-wen-yi.md|LINKS_LOW_DENSITY": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "people/wu-ma-li.md|LINKS_NO_RELATED": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "people/wu-ma-li.md|STRUCT_NO_RELATED": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "people/xiao-juzhen.md|LINKS_NO_RELATED": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "people/xiao-juzhen.md|STRUCT_NO_RELATED": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "people/xu-zongbang.md|FRESHNESS_OLD": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "people/zhang-xuzhan.md|LINKS_NO_RELATED": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "people/zhang-xuzhan.md|STRUCT_NO_RELATED": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "people/沈伯洋.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/2023-tahs-publication.md|FRESHNESS_OLD": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/cna-taipei-campaign-2026-10.md|STRUCT_NO_STATS": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/cna-taipei-campaign-2026-10.md|READABILITY_LONG_SENTENCES": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/doublethinklab-about.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/doublethinklab-about.md|STRUCT_NO_STATS": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/doublethinklab-about.md|READABILITY_LONG_SENTENCES": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/en-wp-shen-boyang.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-20"
+  ],
+  "sources/en-wp-shen-boyang.md|STRUCT_NO_STATS": [
+    "2026-10-20"
+  ],
+  "sources/gwytb-vway-sanction-2026-10-14.md|STRUCT_NO_STATS": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/gwytb-zhaoyi-sanction-2025-06-05.md|STRUCT_NO_STATS": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/kuma-academy-origin-2022.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-20"
+  ],
+  "sources/kuma-academy-origin-2022.md|STRUCT_NO_STATS": [
+    "2026-10-20"
+  ],
+  "sources/kuma-academy-origin-2022.md|READABILITY_LONG_SENTENCES": [
+    "2026-10-20"
+  ],
+  "sources/mnews-beijian-indictment-2026-10-07.md|STRUCT_NO_STATS": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/newtalk-anbao-timeline-2026-10-08.md|STRUCT_NO_STATS": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/ntpu-crm-shen-boyang.md|STRUCT_NO_STATS": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/ntpu-crm-shen-boyang.md|READABILITY_LONG_SENTENCES": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/puma-taipei-official.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-20"
+  ],
+  "sources/puma-taipei-official.md|STRUCT_NO_STATS": [
+    "2026-10-20"
+  ],
+  "sources/taiwandaily-net.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/takungpao-vway-hitpiece-2026-10-13.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/takungpao-vway-hitpiece-2026-10-13.md|STRUCT_NO_STATS": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/tvbs-taipei-polls-2026.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-20"
+  ],
+  "sources/tvbs-taipei-polls-2026.md|STRUCT_NO_STATS": [
+    "2026-10-20"
+  ],
+  "sources/zhwp-shen-boyang.md|STRUCT_NO_STATS": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "sources/zhwp-shen-boyang.md|READABILITY_LONG_SENTENCES": [
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "people/黃逸豪.md|LINKS_NO_RELATED": [
+    "2026-10-21"
+  ],
+  "people/黃逸豪.md|STRUCT_NO_IDENTITY": [
+    "2026-10-21"
+  ],
+  "people/黃逸豪.md|STRUCT_NO_RELATED": [
+    "2026-10-21"
+  ],
+  "sources/cna-campaign-dynamics-2026-10-20.md|STRUCT_NO_STATS": [
+    "2026-10-21"
+  ],
+  "sources/cna-campaign-dynamics-2026-10-20.md|READABILITY_LONG_SENTENCES": [
+    "2026-10-21"
+  ],
+  "sources/cna-interference-warning-2026-10-19.md|STRUCT_NO_STATS": [
+    "2026-10-21"
+  ],
+  "sources/cna-lu-jiqiang-campaign-reactions-2026-10-21.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-21"
+  ],
+  "sources/cna-lu-jiqiang-campaign-reactions-2026-10-21.md|STRUCT_NO_STATS": [
+    "2026-10-21"
+  ],
+  "sources/cna-lu-jiqiang-campaign-reactions-2026-10-21.md|READABILITY_LONG_SENTENCES": [
+    "2026-10-21"
+  ],
+  "sources/gwytb-zhanghan-2026-10-21.md|STRUCT_NO_STATS": [
+    "2026-10-21"
+  ],
+  "sources/initium-taipei-race-2026-10-21.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-21"
+  ],
+  "sources/initium-taipei-race-2026-10-21.md|STRUCT_NO_STATS": [
+    "2026-10-21"
+  ],
+  "sources/initium-taipei-race-2026-10-21.md|READABILITY_LONG_SENTENCES": [
+    "2026-10-21"
+  ],
+  "sources/mirror-three-wave-repression-2026-10-14.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-21"
+  ],
+  "sources/mirror-three-wave-repression-2026-10-14.md|STRUCT_NO_STATS": [
+    "2026-10-21"
+  ],
+  "sources/prc-media-vway-followup-2026-10-15.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-21"
+  ],
+  "sources/prc-media-vway-followup-2026-10-15.md|STRUCT_NO_STATS": [
+    "2026-10-21"
+  ],
+  "sources/prc-media-vway-followup-2026-10-15.md|READABILITY_LONG_SENTENCES": [
+    "2026-10-21"
+  ],
+  "sources/shen-chengnan-analysis-2026-10-21.md|STRUCT_NO_STATS": [
+    "2026-10-21"
+  ],
+  "sources/tpoc-taipei-ai-sim-2026-10-2026-10-14.md|STRUCT_NO_STATS": [
+    "2026-10-21"
+  ],
+  "sources/tvbs-taipei-poll-oct-2026-10-08.md|STRUCT_NO_STATS": [
+    "2026-10-21"
+  ],
+  "sources/udn-mnews-beijian-details-2026-10-08.md|STRUCT_NO_STATS": [
+    "2026-10-21"
+  ],
+  "sources/udn-mnews-beijian-details-2026-10-08.md|READABILITY_LONG_SENTENCES": [
+    "2026-10-21"
+  ],
+  "sources/xinmin-taipei-poll2-2026-10-20.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-21"
+  ],
+  "sources/xinmin-taipei-poll2-2026-10-20.md|STRUCT_NO_STATS": [
+    "2026-10-21"
   ]
 }
