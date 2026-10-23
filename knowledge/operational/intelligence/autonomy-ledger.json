@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
@@ -11,9 +11,9 @@
       "n": 0
     },
     "analyzer": {
-      "scanned": 2996,
-      "queued": 10,
-      "suppressed": 2491
+      "scanned": 2999,
+      "queued": 9,
+      "suppressed": 2496
     },
     "enrichment_writes": {
       "n": 0,
@@ -41,7 +41,7 @@
     ]
   },
   "telegram_auto_lines": [
-    "✅ AUTO analyzer scanned 2996 queued 10 suppressed 2491",
+    "✅ AUTO analyzer scanned 2999 queued 9 suppressed 2496",
     "🟡 QUEUE janitor HOLD leftover 40",
     "🟡 QUEUE kanban blocked 23",
     "🔴 NEED YOU cron fail: echopedia-weekly-improvement"

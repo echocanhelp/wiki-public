@@ -55,3 +55,8 @@
 {"id": "gap_0665d7bbbe", "ts": "2026-10-22T07:37:17Z", "status": "open", "query": "林楚茵", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "林楚茵"}
 {"id": "gap_55c84b390a", "ts": "2026-10-22T07:37:18Z", "status": "open", "query": "傅崐萁", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "傅崐萁"}
 {"id": "gap_32994bb66f", "ts": "2026-10-22T07:37:18Z", "status": "open", "query": "蔣萬安", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "蔣萬安"}
+{"id": "gap_61933f4b3c", "ts": "2026-10-23T19:31:53Z", "status": "resolved", "query": "阿部瑪利亞", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "阿部瑪利亞", "resolved_at": "2026-10-23T19:32:12Z", "resolve_note": "NEEDS-TIER t_6c091c05: Tier D decision. 阿部瑪利亞 = 日籍藝人 (前AKB48 Team TP, 木曜4超玩), 來台發展; 2026-10 宣布結婚懷孕並證實丈夫為台灣人. 娛樂/生活新聞, 與台美社群無交集 (無美國在地面向, 非社群當事人). 不建頁, 引用報導即可."}
+{"id": "gap_68b2a3ebb3", "ts": "2026-10-23T19:32:13Z", "status": "open", "query": "鍾東錦", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "鍾東錦"}
+{"id": "gap_4ac2c69e79", "ts": "2026-10-23T19:35:01Z", "status": "open", "query": "黃瑞容", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "黃瑞容"}
+{"id": "gap_d3228f952b", "ts": "2026-10-23T19:35:01Z", "status": "open", "query": "黄瑞容", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "黄瑞容"}
+{"id": "gap_0787686bb5", "ts": "2026-10-23T19:35:02Z", "status": "open", "query": "台北香邨", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "台北香邨"}

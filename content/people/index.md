@@ -1945,6 +1945,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/russell-hsiao|Russell Hsiao (蕭良其)]]
 [[people/ruth-yeh|Ruth Yeh (葉李麗貞)]]
 [[people/ryan-hass|Ryan Hass (何瑞恩)]]
+[[people/tai-cheng-te|戴正德 (Rev. Tai Cheng-te)]]
 
 ### S {#s}
 
@@ -2203,6 +2204,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/tzutsai-cheng|Tzutsai Cheng (鄭自才)]]
 [[people/tzuying-huang|Tzuying Huang (黃姿穎)]]
 [[people/tzyy-choou-wu|Tzyy-Choou Wu (吳子丑)]]
+[[people/tsai-jung-fang|蔡榮芳 (Tsai Jung-fang)]]
 
 ### V {#v}
 
@@ -2482,6 +2484,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/tah-p-2f601a3b72|溫玉妙]]
 [[people/tah-p-6d8ba3d584|王人紀]]
 [[people/tah-p-0c2b755a64|王佩瑤]]
+[[people/王崑義|王崑義]]
 [[people/tah-p-8c5a93b3d4|王康厚]]
 [[people/tah-p-9078eeef12|王惠津]]
 [[people/tah-p-650c4a6677|王景弘]]

@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-10-23 00:36 PDT*
+*Generated: 2026-10-23 00:37 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -14,14 +14,14 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `6044b18b7b0`
+- **Last good deploy:** `295efe52ba1`
 - **Last night (ledger):** analyzer scanned 2996 queued 10 suppressed 2491 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 23 · 🔴 NEED YOU cron fail: echopedia-weekly-improvement
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
 |- **Tier1 pages:** 2965 (people 2453 / orgs 440 / sources 72) · Tier2 archive: 29103
 |- **Janitor queue depth:** 49
-|- **Uncommitted files:** 171
+|- **Uncommitted files:** 95
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 | Stage | Script | Schedule (jobs.json) | Output |

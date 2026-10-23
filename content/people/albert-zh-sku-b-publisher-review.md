@@ -43,6 +43,8 @@ Canonical URL: https://echocanhelp.github.io/wiki-public/people/albert-zh-sku-b-
 | ZH 失蹤了的五十年 | **Audio ready** — waiting Albert listen |
 | ZH 【跋】 | **Audio ready** — waiting Albert listen |
 | 國家圖書館 CIP 末頁 | **Not done** — **missing from Word**; need PDF last page |
+| 再版 憶往事（蔡榮芳） | **Scratch 2026-10-23** · ~12.9 min · [[people/tsai-jung-fang]] |
+| 再版 介紹你「邁向希望的社群」（戴正德） | **Scratch 2026-10-23** · ~7.4 min · [[people/tai-cheng-te]] |
 | 台語 SKU C | Out of scope until asked |
 | Human retail cast | After scratch sign-off + consent path |
 | ZH re-render (Albert 2026 full-listen notes) | **Gated** — list below; not started until confirm |
@@ -208,6 +210,32 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-colophon-hsiaochen-publisher-v1-full-scratch.mp3)
+
+---
+
+## D. Reprint essays (2026-10-23)
+
+Albert supplied these for the new print edition and asked that they be in the audiobook. Scratch only. HsiaoChen, −10%. Earlier tracks were not re-recorded.
+
+### D1. 憶往事 · 蔡榮芳 · ~12.9 min
+
+<audio controls preload="metadata" style="width:100%;max-width:40rem">
+  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-reprint-tsai-memories-hsiaochen-r20261023.mp3" type="audio/mpeg">
+</audio>
+
+- [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-reprint-tsai-memories-hsiaochen-r20261023.mp3)
+- [[people/tsai-jung-fang|蔡榮芳]]
+
+### D2. 介紹你「邁向希望的社群」 · 戴正德 · ~7.4 min
+
+<audio controls preload="metadata" style="width:100%;max-width:40rem">
+  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-reprint-tai-intro-hsiaochen-r20261023.mp3" type="audio/mpeg">
+</audio>
+
+- [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-reprint-tai-intro-hsiaochen-r20261023.mp3)
+- [[people/tai-cheng-te|戴正德]]
+
+Chinese listen page (all tracks): https://echocanhelp.github.io/wiki-public/public/people/albert-audiobook-zh-listen.html
 
 ---
 

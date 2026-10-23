@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-10-22
+TAHS · Echopedia morning brief — 2026-10-23
 5 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
@@ -31,10 +31,10 @@ TAHS · Echopedia morning brief — 2026-10-22
      → go Echopedia website https://wikidata.org/
 
 🟡 QUEUE / unfinished (not a hard gate)
-🟡 QUEUE 11 pages WIP/incomplete
+🟡 QUEUE 12 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~19102 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~19122 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/taiwanese-association-of-northwest-los-angeles.md ↔ people/bang-h-hwang.md
@@ -44,10 +44,10 @@ TAHS · Echopedia morning brief — 2026-10-22
 🟡 QUEUE 5. Link tip: organizations/ai-education-foundation.md ↔ organizations/rowland-heights-chinese-association.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 171 visits since cutoff · yday 2026-10-21 = 3 · /people/albert-zh-sku-b-publisher-review.html 22, /people/gwhyneth-chen 16, /people/albert-en-sku-a-scratch
+ℹ️  INFO  wiki 171 visits since cutoff · yday 2026-10-22 = 0 · /people/albert-zh-sku-b-publisher-review.html 22, /people/gwhyneth-chen 16, /people/albert-en-sku-a-scratch
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 2996 queued 10 suppressed 2491
+✅ AUTO analyzer scanned 2999 queued 9 suppressed 2496
 🟡 QUEUE janitor HOLD leftover 40
 🟡 QUEUE kanban blocked 23
 🔴 NEED YOU cron fail: echopedia-weekly-improvement

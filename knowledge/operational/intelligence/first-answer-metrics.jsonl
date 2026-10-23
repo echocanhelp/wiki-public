@@ -783,3 +783,8 @@
 {"ts": "2026-10-22T07:37:17Z", "status": "miss", "query": "林楚茵", "slug": null, "source": "cli", "kind": null}
 {"ts": "2026-10-22T07:37:18Z", "status": "miss", "query": "傅崐萁", "slug": null, "source": "cli", "kind": null}
 {"ts": "2026-10-22T07:37:18Z", "status": "miss", "query": "蔣萬安", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-23T19:31:53Z", "status": "miss", "query": "阿部瑪利亞", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-23T19:31:54Z", "status": "hit", "query": "Abe Maria", "slug": "marian-miaw-ju-chen", "source": "cli", "kind": "person"}
+{"ts": "2026-10-23T19:32:13Z", "status": "miss", "query": "鍾東錦", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-23T19:38:07Z", "status": "hit", "query": "@Echo許 AI助理 Look at all this valuable text", "slug": "taiwanese-student-association-all-university", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-23T20:15:42Z", "status": "hit", "query": "@Echo許 AI助理 Process and incorporate into audiobook and Echopedia, then provide updated audiobook page summaries", "slug": "albert-zh-sku-b-publisher-review", "source": "brain", "kind": "person"}
