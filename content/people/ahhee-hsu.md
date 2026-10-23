@@ -7,7 +7,7 @@ tags:
   - person
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-10-12
+last_reviewed: 2026-10-13
 ---
 # Ahhee Hsu (許丕龍)
 
@@ -43,6 +43,8 @@ Accomplishment
 - 2018 蕭泰然音樂節 (Walt Disney Concert Hall): named as one of three 召集人 — 田詒鴻 [[people/alan-thian|Alan Thian (田詒鴻)]], 陳文石 [[people/chen-wenshi|Stone Chen (陳文石)]], and himself — with 蕭傑文夫婦 running the 蕭泰然基金會 side and the 南加州教會合唱團 in long-term co-performance [[works/taiwaneseamericanhistory-org/ourjourneys339|Our Journeys 339]].
 - Memorial author/producer on record: his father 許贊育 profile #275, the 蕭泰然 南加州追思會 reminiscence #277, and the 許贊育教師追思禮拜 CD #655 (all band B, bibliographic) [[works/taiwaneseamericanhistory-org/mystories275|275]] [[works/taiwaneseamericanhistory-org/mystories277|277]] [[works/taiwaneseamericanhistory-org/655-e8-a8-b1-e8-b4-8a-e8-82-b2-e6-95-99-e5-b8-ab-e8-bf-bd-e6-80-9d-e7-a6-ae-e6-8|655]].
 - Who's Who entry archived as [[works/taiwaneseamericanhistory-org/whos-who-2267-ahhee-hsu|2267. Ahhee Hsu 許丕龍]].
+- 美國美麗島週報社 co-founder (per 陳昭南 memoir, absorbed via [[people/hsu-hsin-liang]]; 2026-10-22) — **single-source, pending** until the memoir passage is re-verified in [[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107]].
+- 社長 of [[organizations/taiwanese-alliance-for-interculture-southern-california||南加州臺灣協志社]] (1980s), with father [[people/c-y-hsu||許贊育]] as 導師 — per 臺展檔 bio (cf. G page timeline row).
 
 ## Family
 
@@ -179,3 +181,5 @@ Accomplishment
 <!-- DEEPEN-X10102300-22: corpus re-check 2026-10-12 — fresh grep 許丕龍/Ahhee/丕龍 across works+articles+sources+events+topics returned the identical 24-file hit set (16 works incl. #2267/#649/#258/#172/OJ 2·70·186·272·272-eng·301·339·340/mystories 275·277/#655, 6 TJJ articles, sources page, works index) — all already absorbed in Role in the Community / From the record. SKIP-with-reason; page saturated, no new material. -->
 
 <!-- DEEPEN-X10120200-22: corpus re-check 2026-10-12 — fresh 5-dir grep 許丕龍/Ahhee/丕龍 returned the identical 24-file hit set (16 works incl. #2267/#649/#258/#172/OJ 2·70·186·272·272-eng·301·339·340/mystories 275·277/#655, 6 TJJ articles, sources page, works index); hit-file bodies spot-read this attempt (美麗島週報社 roster, 台獨之聲 anecdote, 憶故人 video entry, OJ passages) — every passage already absorbed in Role in the Community / From the record, both HOLDs still standing. SKIP-with-reason; page saturated, no new material. -->
+
+<!-- DEEPEN-X10121300-22: corpus re-check 2026-10-13 — fresh 5-dir grep 許丕龍/Ahhee/丕龍 returned the identical 24-file hit set (16 works incl. #2267/#649/#258/#172/OJ 2·70·186·272·272-eng·301·339·340/mystories 275·277/#655, 6 TJJ articles, sources page, works index) — all already absorbed in Role in the Community / From the record; both HOLDs (TACL roster-vs-observer; two-concert single-source) still standing. SKIP-with-reason; page saturated, no new material. -->

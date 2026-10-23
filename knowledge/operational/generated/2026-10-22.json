@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-22",
+  "total_cards": 14,
+  "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-10-22.json",
+  "priority_counts": {
+    "medium": 5,
+    "low": 9
+  },
+  "playbook_counts": {
+    "P8": 12,
+    "P3": 2
+  },
+  "cards": [
+    {
+      "card_id": "echo-gen-2026-10-22-0001",
+      "title": "[MEDIUM] 卓榮泰指: Add ## Identity Snapshot section",
+      "body": "## Task: [MEDIUM] 卓榮泰指: Add ## Identity Snapshot section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/卓榮泰指.md`\n**Finding:** `STRUCT_NO_IDENTITY`\n**Score:** 4.5 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/卓榮泰指.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-22 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Identity Snapshot section\n**Detail:** Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_IDENTITY\nPage type: people\nType weight: 1.5\nFinding weight: 3.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/卓榮泰指.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/卓榮泰指.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-22-0002",
+      "title": "[MEDIUM] 黃逸豪: Add ## Identity Snapshot section",
+      "body": "## Task: [MEDIUM] 黃逸豪: Add ## Identity Snapshot section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/黃逸豪.md`\n**Finding:** `STRUCT_NO_IDENTITY`\n**Score:** 4.5 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/黃逸豪.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-22 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Identity Snapshot section\n**Detail:** Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_IDENTITY\nPage type: people\nType weight: 1.5\nFinding weight: 3.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/黃逸豪.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/黃逸豪.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-22-0003",
+      "title": "[MEDIUM] initium-taipei-race-2026-10-21: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] initium-taipei-race-2026-10-21: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/initium-taipei-race-2026-10-21.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 4.0 (inbound links: 4)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/initium-taipei-race-2026-10-21.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-22 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "sources/initium-taipei-race-2026-10-21.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 4.0,
+      "target_path": "/home/leedt/echo-system/content/sources/initium-taipei-race-2026-10-21.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-22-0004",
+      "title": "[MEDIUM] takungpao-vway-hitpiece-2026-10-13: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] takungpao-vway-hitpiece-2026-10-13: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/takungpao-vway-hitpiece-2026-10-13.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 3.0 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/takungpao-vway-hitpiece-2026-10-13.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-22 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "sources/takungpao-vway-hitpiece-2026-10-13.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 3.0,
+      "target_path": "/home/leedt/echo-system/content/sources/takungpao-vway-hitpiece-2026-10-13.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-22-0005",
+      "title": "[MEDIUM] takungpao-vway-hitpiece-2026-10-13: Add ## Archive Statistics or ## Content section",
+      "body": "## Task: [MEDIUM] takungpao-vway-hitpiece-2026-10-13: Add ## Archive Statistics or ## Content section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/takungpao-vway-hitpiece-2026-10-13.md`\n**Finding:** `STRUCT_NO_STATS`\n**Score:** 3.0 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/takungpao-vway-hitpiece-2026-10-13.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-22 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Archive Statistics or ## Content section\n**Detail:** Add archive statistics (URL count, size, date) or content summary for this source page.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_STATS\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "sources/takungpao-vway-hitpiece-2026-10-13.md",
+      "finding": "STRUCT_NO_STATS",
+      "score": 3.0,
+      "target_path": "/home/leedt/echo-system/content/sources/takungpao-vway-hitpiece-2026-10-13.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-22-0006",
+      "title": "[LOW] 黃逸豪: Add more wikilinks to related pages",
+      "body": "## Task: [LOW] 黃逸豪: Add more wikilinks to related pages\n\n**Priority:** low\n**Playbook:** P3\n**Page:** `people/黃逸豪.md`\n**Finding:** `LINKS_LOW_DENSITY`\n**Score:** 2.25 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/黃逸豪.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add more wikilinks to related pages\n**Detail:** This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_LOW_DENSITY\nPage type: people\nType weight: 1.5\nFinding weight: 1.5",
+      "priority": "low",
+      "playbook": "P3",
+      "page": "people/黃逸豪.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "score": 2.25,
+      "target_path": "/home/leedt/echo-system/content/people/黃逸豪.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-22-0007",
+      "title": "[LOW] mirror-three-wave-repression-2026-10-14: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [LOW] mirror-three-wave-repression-2026-10-14: Ensure the first paragraph mentions the page subject\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `sources/mirror-three-wave-repression-2026-10-14.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 2.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/mirror-three-wave-repression-2026-10-14.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-22 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "sources/mirror-three-wave-repression-2026-10-14.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 2.0,
+      "target_path": "/home/leedt/echo-system/content/sources/mirror-three-wave-repression-2026-10-14.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-22-0008",
+      "title": "[LOW] mirror-three-wave-repression-2026-10-14: Add ## Archive Statistics or ## Content section",
+      "body": "## Task: [LOW] mirror-three-wave-repression-2026-10-14: Add ## Archive Statistics or ## Content section\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `sources/mirror-three-wave-repression-2026-10-14.md`\n**Finding:** `STRUCT_NO_STATS`\n**Score:** 2.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/mirror-three-wave-repression-2026-10-14.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-22 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Archive Statistics or ## Content section\n**Detail:** Add archive statistics (URL count, size, date) or content summary for this source page.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_STATS\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "sources/mirror-three-wave-repression-2026-10-14.md",
+      "finding": "STRUCT_NO_STATS",
+      "score": 2.0,
+      "target_path": "/home/leedt/echo-system/content/sources/mirror-three-wave-repression-2026-10-14.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-22-0009",
+      "title": "[LOW] doublethinklab-about: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [LOW] doublethinklab-about: Ensure the first paragraph mentions the page subject\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `sources/doublethinklab-about.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 1.0 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/doublethinklab-about.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-22 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "sources/doublethinklab-about.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 1.0,
+      "target_path": "/home/leedt/echo-system/content/sources/doublethinklab-about.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-22-0010",
+      "title": "[LOW] doublethinklab-about: Add ## Archive Statistics or ## Content section",
+      "body": "## Task: [LOW] doublethinklab-about: Add ## Archive Statistics or ## Content section\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `sources/doublethinklab-about.md`\n**Finding:** `STRUCT_NO_STATS`\n**Score:** 1.0 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/doublethinklab-about.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-22 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Archive Statistics or ## Content section\n**Detail:** Add archive statistics (URL count, size, date) or content summary for this source page.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_STATS\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "sources/doublethinklab-about.md",
+      "finding": "STRUCT_NO_STATS",
+      "score": 1.0,
+      "target_path": "/home/leedt/echo-system/content/sources/doublethinklab-about.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-22-0011",
+      "title": "[LOW] prc-media-vway-followup-2026-10-15: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [LOW] prc-media-vway-followup-2026-10-15: Ensure the first paragraph mentions the page subject\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `sources/prc-media-vway-followup-2026-10-15.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 1.0 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/prc-media-vway-followup-2026-10-15.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-22 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "sources/prc-media-vway-followup-2026-10-15.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 1.0,
+      "target_path": "/home/leedt/echo-system/content/sources/prc-media-vway-followup-2026-10-15.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-22-0012",
+      "title": "[LOW] prc-media-vway-followup-2026-10-15: Add ## Archive Statistics or ## Content section",
+      "body": "## Task: [LOW] prc-media-vway-followup-2026-10-15: Add ## Archive Statistics or ## Content section\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `sources/prc-media-vway-followup-2026-10-15.md`\n**Finding:** `STRUCT_NO_STATS`\n**Score:** 1.0 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/prc-media-vway-followup-2026-10-15.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-22 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Archive Statistics or ## Content section\n**Detail:** Add archive statistics (URL count, size, date) or content summary for this source page.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_STATS\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "sources/prc-media-vway-followup-2026-10-15.md",
+      "finding": "STRUCT_NO_STATS",
+      "score": 1.0,
+      "target_path": "/home/leedt/echo-system/content/sources/prc-media-vway-followup-2026-10-15.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-22-0013",
+      "title": "[LOW] 卓榮泰: Add more wikilinks to related pages",
+      "body": "## Task: [LOW] 卓榮泰: Add more wikilinks to related pages\n\n**Priority:** low\n**Playbook:** P3\n**Page:** `people/卓榮泰.md`\n**Finding:** `LINKS_LOW_DENSITY`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/卓榮泰.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add more wikilinks to related pages\n**Detail:** This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_LOW_DENSITY\nPage type: people\nType weight: 1.5\nFinding weight: 1.5",
+      "priority": "low",
+      "playbook": "P3",
+      "page": "people/卓榮泰.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/卓榮泰.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-22-0014",
+      "title": "[LOW] 卓榮泰: Add ## Identity Snapshot section",
+      "body": "## Task: [LOW] 卓榮泰: Add ## Identity Snapshot section\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `people/卓榮泰.md`\n**Finding:** `STRUCT_NO_IDENTITY`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/卓榮泰.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-22 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Identity Snapshot section\n**Detail:** Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_IDENTITY\nPage type: people\nType weight: 1.5\nFinding weight: 3.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "people/卓榮泰.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/people/卓榮泰.md"
+    }
+  ]
+}

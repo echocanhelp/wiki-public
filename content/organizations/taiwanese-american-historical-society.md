@@ -7,7 +7,7 @@ tags:
   - TAHS
   - historical-preservation
 verification_status: pending
-last_reviewed: 2026-10-12
+last_reviewed: 2026-10-13
 ---
 
 # Taiwanese American Historical Society (TAHS)
@@ -69,7 +69,10 @@ Not on the 2025 paper org chart. Owner-confirmed for public leadership listing (
 
 ### Founding (2013–2014)
 
-- 2013 — founding member [[people/zheng-bing-quan||鄭炳全 Zheng Bingquan]]'s own account (旅美五十周年 memoir): 「2013年夏由楊嘉猷出面邀各方賢逹共籌台美人歷史協會 Taiwanese American Historical Society，年底正式成立，他當首任會長，我當副會長，理事廿名，顧問七名，申請非營利組織，次年我接會長」 — i.e. 楊嘉猷 first president, 鄭炳全 vice president, ~20 directors / 7 advisors; 鄭 succeeded as president the following year, with the logo designed by [[people/huang-gen-shen||黃根深]] and the TAhistory.org website by [[people/freeman-huang||黃樹人]]. He records interviewing 三四十位鄉親先賢 over four-five years, hosting 十多場追思會、演講會和展覽會, and publishing 一輯《台美人菁英錄》. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16||taiwanjustice.net, 2025-02-09]]
+- 2013-12 — Epoch Times (2014-12-15, 柔斯密市報導) at the 年度報告暨會長交接: 「臺美人歷史協會於**2013年12月**正式成立」，第一批成員含楊嘉猷、林水泉、陳榮儒；楊嘉猷交棒鄭炳全。Retrospective (written the same month as 林衡哲's 2014-12-02 「推動成立」 letter) — strengthens but does **not** resolve the held 2013/2014 dating; succession also held (鄭炳全 memoir vs chart note 程炳成 ~2014–2017). [Epoch Times](https://www.epochtimes.com/b5/14/12/15/n4318760.htm)
+- 2024-06 — IRS granted 501(c)(3) exemption, **EIN 46-4005384**, NTEE A80 (Historical Societies), filings under "Taiwanese American Historical Society Inc", San Gabriel CA. In book-facing text use "501(c)(3)" only — no EIN prose, no city, no tax code.
+
+- 2013 — founding member [[people/zheng-bing-quan||鄭炳全 Zheng Bingquan]]'s own account (旅美五十周年 memoir): 「2013年夏由楊嘉猷出面邀各方賢逹共籌台美人歷史協會 Taiwanese American Historical Society，年底正式成立，他當首任會長，我當副會長，理事廿名，顧問七名，申請非營利組織，次年我接會長」 — i.e. 楊嘉猷 first president, 鄭炳全 vice president, ~20 directors / 7 advisors; 鄭 succeeded as president the following year, with the logo designed by [[people/huang-gen-shen||黃根深]] and the TAhistory.org website by [[people/freeman-huang||黃樹人]]. He records interviewing 三四十位鄉親先賢 over four-five years, hosting 十多場追思會、演講會和展覽會, and publishing 一輯《台美人菁英錄》. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16||taiwanjustice.net, 2025-02-09]] (same memoir text also archived as [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3||2024-03-02 republication]]).
   *(**HOLD**: founding date — 鄭炳全's memoir says organized summer 2013 / 「年底正式成立」, while 林衡哲's 2014-12-02 shareholder letter describes 楊嘉猷 as then 「推動成立」 the society in Southern California. Both kept; not merged.)*
 - 鄭炳全's account also states he served one 3-year presidential term and then asked founding president 楊嘉猷 to resume, 「續任至今」 — consistent with the 2025 chart listing 楊嘉猷 as 創會會長.
 
@@ -85,6 +88,10 @@ Not on the 2025 paper org chart. Owner-confirmed for public leadership listing (
 - 2025-07-05 — TAHS hosted a public-interest lecture, 《打造健康安全防護罩──身心保健與氣功養生》, by disaster-prevention expert / 交通大學環工博士 劉明哲, at 2:00 pm ([[articles/taiwanjustice-net/2025/20250713211830_台美人歷史協會講座-劉明哲主講_打造健康安全防_c8bf2e4620344f72||taiwanjustice.net, 2025-07-13]]). *(HOLD: 劉明哲 has no existing person page in the vault; no slug invented.)*
 - 2025-02-22 / 2026-02-27 — TAHS appears as a co-organizer (協辦單位) of the 大洛杉磯台灣會館 228 memorial series: 2025 「228追思紀念大會」 with 24 台美社團, attended by 會長 [[people/yang-jia-you||楊嘉猷]] and many elders ([[articles/taiwanjustice-net/2025/20250320212940_大洛杉磯台灣會館等24個台美社團舉舉行228追思紀念_c62f5c50846fe267||2025-03-20]]); 2026 二二八紀念會轉型正義研討會 with TAHS listed among co-organizers alongside 南加州台灣人長輩會, 美國台灣文化協會, FAPA-洛杉磯, NATMA-南加州 and others ([[articles/taiwanjustice-net/2026/20260209105852_大洛杉磯台灣會館二二八紀念會轉型正義研討會暨_27ac84aea15e3211||2026-02-09]]).
 - 2017 — TAHS community site-visit series recorded in taiwanjustice.net category archives: 「蔡開倫(Kai Tsai)先生的百香果王國參觀記」 (2017-09-13) and 「Gina Lai 創造的世外桃源——參訪 Escondido 瑜珈禪園」 (2017-05-05) ([[articles/taiwanjustice-net/2017/20171109043038_category_gardenning_0c56e79f9989639c||taiwanjustice.net, 2017-11-09]]). *(HOLD: 蔡開倫 / Gina Lai have no existing person pages; no slugs invented.)*
+
+## From the record
+
+- **2025-09-03** *(reported)* — 許景鴻 (Leonard Hsu) 會長就職典禮 held at the 台美人長輩會辦公室, followed by a board meeting; founding president 楊嘉猷 presided and framed the handover as 世代傳承, pledging a focus on collecting, interviewing and publishing 二代/三代 台美人傑出人物紀事 (the society's two 台美人菁英錄 volumes had centered on the first generation); board adopted a 3-year presidential term with officers' terms synchronized, and took up bylaw amendments, finances and work plans; attendees incl. 蔡漢成、劉玲華、李意盛、楊錦忠、沈梓在、蔡淑女、黃樹人; president Hsu said the society would consider staffing Wikipedia entries for outstanding Taiwanese Americans if funding permits — [美洲台灣日報](https://taiwandaily.net/南加社區/97560/)
 
 ## Related archives
 - [[organizations/tah-foundation||TAH Foundation (台美史料中心)]] — sibling organization; runs [taiwaneseamericanhistory.org](https://taiwaneseamericanhistory.org/). Not TAHS and not the 2017/2023 TAHS yearbooks（见 [[sources/2017-tahs-publication||2017 TAHS Publication]]、[[sources/2023-tahs-publication||2023 TAHS Publication]]）.

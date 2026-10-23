@@ -15,6 +15,7 @@ verification_status: published
 featured: true
 last_reviewed: 2026-08-30
 ---
+verified-saturation: 2026-10-12
 # Dr. Albert S. Lai (賴信雄)
 
 **Dr. Albert S. Lai (賴信雄, Lai Sin-hiong)** is a Taiwanese American pastor, theologian, and institution-builder who helped establish the first Taiwanese Presbyterian Church in North America and authored the landmark 1971 dissertation [[sources/toward-a-community-of-hope||Toward A Community of Hope — A Mission to Formosan Community in Los Angeles]], reprinted in 2025 with a 50th anniversary foreword.
@@ -26,6 +27,21 @@ last_reviewed: 2026-08-30
 - **Geography:** Taiwan → San Francisco → Los Angeles, California
 - **Education:** San Francisco Theological Seminary (doctoral dissertation); Taiwan Theological College and Seminary (TTCS)
 - **Core roles:** Pastor, theologian, seminary educator, FPCLA founding member, dissertation author
+
+## Audit additions (2026-10-22, web audit + Grok reconciliation)
+
+- **Born 1941**, into a pastor's family; childhood at 北港教會 while father [[people/pingtung-lai||賴炳烔]] pastored there — independently corroborated by the 賴永祥庫 family archive (1944-04-09 installation photo names 長男賴信雄, b.1941; siblings 賴惠華 1943, 賴美玲 1945, 賴信行 1947; wife **Jane Hatsuko Ueno** 上野初子, third-generation Japanese-American, Hawaii — per 賴炳烔 family record).
+- **High school:** author's own publisher-manuscript bio (AMT `00_author_bio.md`) reads 「高中就讀長榮中學、萊園中學」. The 萊園 co-presence with teacher-turned-教導主任 [[people/c-y-hsu||許贊育]] is **UNCONFIRMED** — timeline tension: bio says TTCS from 1958 (afterword says enrolled 1959), while 許贊育's 霧峰教會 service runs to 1959-08 per PCT records. **NEED YOU:** ask Albert his years at 長榮 vs 萊園.
+- **Degree:** D.Min. (牧範學博士/教牧學博士). The ISBN.tw blurb's 「全世界首批獲頒牧範學博士的論文之一」 is publisher puffery — do not repeat the superlative in derived text.
+- **2025 launch:** book launched 2025-09-28 at Good Shepherd TPC, Monterey Park (TCNN 2025-09-29, archives/253818); Rev. Mingyuan Hsu's discovery visit dated **2022** by TCNN, matching the vault account. Irvine TPC senior class hosts a follow-on author talk with Rev. Hsu.
+
+## Classmate-cohort hypothesis (Leonard, 2026-10-22 — PENDING Albert's confirmation)
+
+Albert (b.1941) and [[people/ahhee-hsu||許丕龍]] (b.1939, family-attested; TAH table carries no DOB) are a two-year cohort, not necessarily same-grade classmates. Overlap candidates, in order of likelihood:
+1. **TTCS 1958–1959** — F graduating (afterword: 1959), Albert arriving (publisher bio: 1958; afterword: 1959 — Albert's own documents conflict; ask him).
+2. **長榮/萊園 ~1955–1958** — if Albert's 萊園 years overlap F's, Albert sat in G's class as 教導主任 while F was G's student.
+3. **LA 1970s** — Albert's 1972 FPCLA parsonage wedding coincides with F's LA community-building (TACL prep, 感恩節音樂會, 協志社 with G as mentor).
+If (1) or (2) confirms, Albert holds living memory of G as teacher, F as 學長, and uncles [[people/dr-teng-lung-hsu||許登龍]]/許左龍 from the 北港/church circle — richer than the family's own record. **NEED YOU:** phone verification of school years.
 
 ## Historical Context
 

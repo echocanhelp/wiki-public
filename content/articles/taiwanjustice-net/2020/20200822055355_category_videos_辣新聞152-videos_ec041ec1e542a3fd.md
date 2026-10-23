@@ -303,3 +303,7 @@ August 10, 2020
 ...
 41
 Page 1 of 41
+
+## Subjects
+- [[people/卓榮泰.md|卓榮泰]] — mentioned in this record
+

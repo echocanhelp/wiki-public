@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-10-21T15:31:13Z",
+  "generated_at": "2026-10-22T15:30:28Z",
   "max": 5,
   "count": 5,
   "items": [
+    {
+      "id": "gap_55c84b390a",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “傅崐萁”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "cli",
+      "ts": "2026-10-22T07:37:18Z"
+    },
+    {
+      "id": "gap_32994bb66f",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “蔣萬安”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "cli",
+      "ts": "2026-10-22T07:37:18Z"
+    },
+    {
+      "id": "gap_0665d7bbbe",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “林楚茵”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "cli",
+      "ts": "2026-10-22T07:37:17Z"
+    },
     {
       "id": "gap_f67e72783a",
       "priority": 1,
@@ -20,33 +47,6 @@
       "action": "Confirm identity / approve thin page / or dismiss",
       "source": "cli",
       "ts": "2026-10-21T04:13:29Z"
-    },
-    {
-      "id": "gap_357ef85c8b",
-      "priority": 1,
-      "kind": "gap_miss",
-      "title": "Echopedia miss: “INDOPACOM”",
-      "action": "Confirm identity / approve thin page / or dismiss",
-      "source": "cli",
-      "ts": "2026-10-21T04:13:28Z"
-    },
-    {
-      "id": "gap_b7dd103646",
-      "priority": 1,
-      "kind": "gap_miss",
-      "title": "Echopedia miss: “國防部”",
-      "action": "Confirm identity / approve thin page / or dismiss",
-      "source": "cli",
-      "ts": "2026-10-21T04:13:28Z"
-    },
-    {
-      "id": "gap_cb6b355712",
-      "priority": 1,
-      "kind": "gap_miss",
-      "title": "Echopedia miss: “參謀本部”",
-      "action": "Confirm identity / approve thin page / or dismiss",
-      "source": "cli",
-      "ts": "2026-10-21T04:13:28Z"
     }
   ]
 }

@@ -19,6 +19,14 @@ last_reviewed: 2026-07-15
 **Type:** Doctor of Ministry dissertation (San Francisco Theological Seminary), **December 1971**  
 **Republication:** 2025 (50th anniversary), Taiwan Church Press + NTPC + Tainan East Gate Barclay History Education Promotion
 
+## Registered editions & launch (audit 2026-10-22)
+
+- **ZH:** ISBN 978-626-7627-21-1, 《邁向希望的社群——對洛杉磯台灣人社群宣教的使命》, 臺灣教會公報社, 2025-09-01; CIP credits additional authors/translators 朱博琛、李新元、陳咨仰 ([isbn.tw](https://isbn.tw/9786267627211))
+- **EN:** ISBN 978-626-7627-22-8 ([isbn.tw](https://isbn.tw/9786267627228))
+- **Launch:** 2025-09-28, Good Shepherd TPC, Monterey Park CA — [TCNN 2025-09-29](https://tcnn.org.tw/archives/253818) (calls it 北美首間台人教會 history; degree term 教牧學博士)
+- **Do not print** the ISBN.tw superlative 「全世界首批獲頒牧範學博士的論文之一」 (publisher puffery, unfalsifiable).
+- **TAHS status:** invited 4th co-publisher for the planned 2026 print 2nd edition (Albert, LINE 2026-10-20) — **not yet on the 2025 imprint**; describe as contributing partner until the title page carries the logo.
+
 ## Identity Snapshot
 
 > **Primary work page:** [[sources/toward-a-community-of-hope||Toward A Community of Hope (work & sources)]]  

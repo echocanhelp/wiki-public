@@ -1,6 +1,6 @@
-## Site design audit — 2026-10-22 00:39
+## Site design audit — 2026-10-23 00:36
 
-- pages_md=15172
+- pages_md=15174
 - critical=0 high=0 medium=1
 - heals_suggested=none
 
@@ -8,7 +8,7 @@
 - **SITE_DESIGN_STATUS: WARN**
 
 ### MEDIUM (1)
-- **F4** people/index.html is 1540733 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
+- **F4** people/index.html is 1541958 bytes — heavy on mobile. Do NOT hand-edit content/people/index.md. Search-first is the IA; regen script only if links break.
 
 ### INFO (2)
 - **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
@@ -18,15 +18,15 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 65
+- **B1** person/org touched ≤7d (rely on recency featured window): 53
   - `people/anna-wang-diplomat.md`
   - `people/bi-khim-hsiao.md`
   - `people/chen-maoxiong.md`
   - `people/chen-po-kong.md`
   - `people/chen-shuibian.md`
-  - `people/chen-zhaonan.md`
-  - `people/dr-chien-yuan-kao.md`
-  - `people/dr-fu-tong-hsu.md`
+  - `people/dr-mu-sheng-wu.md`
+  - `people/du-ao-cunfu.md`
+  - `people/edward-chen.md`
 
 ### Programmable heals
 - (none)

@@ -21,7 +21,7 @@ last_reviewed: 2026-09-22
 - **Era:** born **1911-08-15** (子女 + 臺展檔 + 黃圻文 1997); TAH Who’s Who / #49 print **1910** — both kept
 - **Died:** **2006-11-06** 13:25, New York hospital; 享年 97 (子女〈父親許贊育睡了〉)
 - **Geography:** 祖籍澎湖白沙巷港 · born 臺南鹽水 · 員林 / 霧峰 · 萊園中學 · retired California · died New York
-- **Core roles:** PCT-trained pastor (員林、霧峰); educator (萊園 / 明台); calligrapher; 1932 臺展 painter
+- **Core roles:** PCT-trained 教師 (catechist/teacher; 員林、霧峰 — PCT records say 教師, not 牧師); educator (萊園 / 明台); calligrapher; 1932 臺展 painter
 - **Not this man:** 徐讚昇 Tsan-sheng Hsu · 許哲瑜 Che-Yu Hsu · 許常惠 Hsu Tsang-Houei · [[people/hsu-ling-yun||許凌雲]] (叔祖父)
 
 TAH #49 / person card: 許贊育先生，字化功，一九一〇年生於台灣鹽水，世居澎湖爲書香門弟。父親許水連是詩人，祖父許其仁、叔祖父[[people/hsu-ling-yun||許凌雲]]均爲漢學名士(許凌雲爲前淸貢生)…叔祖父更是他攻習書法之啓蒙導師。
@@ -37,6 +37,7 @@ TAH #49 / person card: 許贊育先生，字化功，一九一〇年生於台灣
 | 1931 | 入臺南神學校（今臺南神學院） | 臺展檔 |
 | 1932 | 第六回臺展西洋畫部〈聖堂〉— 太平境；畫在教會歷史館 | 臺展檔; 王子碩 2020 |
 | 1935 | 畢業；員林、霧峰教會（子女：共 16 年） | 臺展檔; 子女 |
+| 1937-04~1959-08 | 霧峰教會教師 — 此22年窗口涵蓋**四位**傳道者sequentially（許贊育教師、楊信得、郭東榮、郭朝成）；贊育個人員林+霧峰共16年（子女），兩源不衝突 | PCT霧峰教會簡史; 子女 |
 | 1950s | 林攀龍邀辦霧峰萊園中學（今明台高中）；教導主任；地理與美術；執教約 22 年 | 子女; 臺展檔; TAH #49 |
 | mid-career | TAH #49：**封筆約五十年** | TAH #49 |
 | after retirement | 加州定居後再專研行/隸/篆、試臨甲骨文；後常住紐約；**未再返台** | TAH #49; 子女; 許丕龍 |
@@ -45,6 +46,8 @@ TAH #49 / person card: 許贊育先生，字化功，一九一〇年生於台灣
 | 1995-01-20 | 妻孫榮基逝於加州蒙特利公園 | 賴永祥 訃音 |
 | 2000-08-15 | 加州九十大壽；〈爸爸的筆〉蕭泰然譜曲；**半音合唱團**首唱 | 許丕龍 2012 |
 | 2006-11-06 | 紐約醫院去世 | 子女 |
+
+> **Audit note (2026-10-22):** 學校正式創校為 **1949**（私立萊園中學，林獻堂董事長、林攀龍首任校長；1981 改名明台）— 「邀辦」應讀作**邀攬任教/襄助**，非共同創校。「教導主任」一職見於子女 2006 追思文（「父親擔負教導主任重責」），屬**家屬記述**，尚無校方名冊佐證。頭銜：PCT 霧峰教會紀錄作**教師**（非牧師）。另：2003 年 TCNN 紀念文獨立記載「霧峰萊園中學…書法家許贊育先生（許丕龍兄及許玲琴長老的父親，南神…1931年入學）」— 第三方佐證 1931 入學、萊園任教、書法家身份及二子女。
 
 許丕龍 2012：問何時返鄉，答「台灣何時進入聯合國，那便是我決定動身返鄉之日」。
 
@@ -112,6 +115,7 @@ TAH #49 / person card: 許贊育先生，字化功，一九一〇年生於台灣
 - [TAH #49 許贊育/2015/06](https://taiwaneseamericanhistory.org/49-%E8%A8%B1%E8%B4%8A%E8%82%B2201506/)
 - [臺展檔 許贊育](https://taifuten.com/artist/%E8%A8%B1%E8%B4%8A%E8%82%B2/)
 - 王子碩，[在聖堂中與《聖堂》再次相遇](https://taifuten.com/story/255w-20201123/)（2020-11-23）
+- 〈回憶44年前的6月17日〉，《台灣教會公報新聞網》archives/17741（2003）— 第三方記載：霧峰萊園中學書法家許贊育、許丕龍/許玲琴之父、1931 入南神
 - 子女，[父親許贊育睡了](http://www.laijohn.com/archives/pc/khou/Khou,Ciok/brief/son.htm)
 - 許丕龍，[書法家許贊育](http://www.laijohn.com/archives/pc/khou/Khou,Ciok/life/Khou,Pliong.htm)（2012）
 - 黃圻文，〈萬水千山暢懷生─許贊育潛藝弘道之路〉，《太平洋時報》1997-09-25 p.6 白鷺鷥欄（[賴永祥圖](http://www.laijohn.com/archives/pc/khou/Khou,Ciok/life/Ng,Kbun.htm)）；同文長版《藝術家》45卷1期（1997-07）頁412–415（臺展檔書目，全文未入庫）

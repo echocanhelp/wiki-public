@@ -1,10 +1,41 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "standards_version": 10,
-  "total_pages_scanned": 2996,
+  "total_pages_scanned": 2999,
   "pages_with_findings": 34,
-  "auto_queued": 10,
+  "auto_queued": 9,
   "queue": [
+    {
+      "path": "people/卓榮泰.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/卓榮泰指.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
     {
       "path": "people/沈伯洋.md",
       "findings": [
@@ -23,24 +54,10 @@
     {
       "path": "people/黃逸豪.md",
       "findings": [
+        "LINKS_LOW_DENSITY",
         "LINKS_NO_RELATED",
         "STRUCT_NO_IDENTITY",
         "STRUCT_NO_RELATED"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "sources/cna-lu-jiqiang-campaign-reactions-2026-10-21.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "STRUCT_NO_STATS",
-        "READABILITY_LONG_SENTENCES_51wps"
       ],
       "priority": "medium",
       "instructions": [
@@ -69,8 +86,7 @@
       "path": "sources/initium-taipei-race-2026-10-21.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
-        "STRUCT_NO_STATS",
-        "READABILITY_LONG_SENTENCES_37wps"
+        "READABILITY_LONG_SENTENCES_35wps"
       ],
       "priority": "medium",
       "instructions": [
@@ -110,36 +126,7 @@
       ]
     },
     {
-      "path": "sources/taiwandaily-net.md",
-      "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_STATS",
-        "READABILITY_MANY_LONG_SENTENCES_40"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
       "path": "sources/takungpao-vway-hitpiece-2026-10-13.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "STRUCT_NO_STATS"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "sources/xinmin-taipei-poll2-2026-10-20.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "STRUCT_NO_STATS"
@@ -153,6 +140,6 @@
       ]
     }
   ],
-  "suppressed_findings": 2491,
-  "fp_history_entries": 2669
+  "suppressed_findings": 2496,
+  "fp_history_entries": 2671
 }

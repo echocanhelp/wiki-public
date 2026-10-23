@@ -1,10 +1,10 @@
 {
-  "at": "2026-10-21T15:31:14Z",
+  "at": "2026-10-22T15:30:29Z",
   "cutoff": "2026-08-21T19:22:14Z",
   "ok": true,
-  "visits_since_cutoff": 168,
-  "yesterday_pdt": "2026-10-20",
-  "yesterday_visits": 5,
+  "visits_since_cutoff": 171,
+  "yesterday_pdt": "2026-10-21",
+  "yesterday_visits": 3,
   "top": [
     {
       "count": 22,
