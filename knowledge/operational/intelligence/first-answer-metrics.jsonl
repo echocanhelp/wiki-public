@@ -793,3 +793,39 @@
 {"ts": "2026-10-23T22:35:46Z", "status": "hit", "query": "[Hsuperman] our echopedia first lookup gets us past the official wording issues right", "slug": "southern-california-alumni-association-of-tainan-first-senior-high-sch", "source": "brain", "kind": "organization"}
 {"ts": "2026-10-24T00:27:15Z", "status": "hit", "query": "@Echo許 AI助理 Verify pages are sufficient for full review", "slug": "albert-en-sku-a-scratch-review", "source": "brain", "kind": "person"}
 {"ts": "2026-10-24T05:50:45Z", "status": "hit", "query": "@Echo許 AI助理 Process and incorporate into audiobook and Echopedia, then provide updated audiobook page summaries", "slug": "albert-zh-sku-b-publisher-review", "source": "cron", "kind": "person"}
+{"ts": "2026-10-24T18:14:14Z", "status": "hit", "query": "[Hsuperman] There was some spelling corrections for a church mentioned by Albert, what did we do with that info", "slug": "evangelical-formosan-church-of-norcal", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T18:23:00Z", "status": "hit", "query": "[Hsuperman] What about our echopedia system wide", "slug": "taiwan-hakka-language-system", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T20:41:56Z", "status": "hit", "query": "shen bo yang", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:41:57Z", "status": "hit", "query": "沈伯洋", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:48:04Z", "status": "hit", "query": "shen bo yang", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:48:04Z", "status": "hit", "query": "沈伯洋", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:49:44Z", "status": "hit", "query": "shen bo yang", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:49:44Z", "status": "hit", "query": "沈伯洋", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:49:44Z", "status": "hit", "query": "puma shen", "slug": "dr-virginia-s-shen", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:49:45Z", "status": "hit", "query": "shen pao yang", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:49:45Z", "status": "hit", "query": "yang chengwei", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:49:45Z", "status": "hit", "query": "abby hong", "slug": "abby-hong", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:49:46Z", "status": "hit", "query": "butterfly chong", "slug": "butteryfly-chong", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:49:46Z", "status": "hit", "query": "phoenix ko", "slug": "phoenix-ko", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:51:14Z", "status": "hit", "query": "shen bo yang", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:51:14Z", "status": "hit", "query": "沈伯洋", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:51:14Z", "status": "hit", "query": "puma shen", "slug": "dr-virginia-s-shen", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:51:15Z", "status": "hit", "query": "shen pao yang", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:51:15Z", "status": "hit", "query": "boyang shen", "slug": "dr-virginia-s-shen", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:51:15Z", "status": "hit", "query": "yang chengwei", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:51:16Z", "status": "hit", "query": "abby hong", "slug": "abby-hong", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:51:16Z", "status": "hit", "query": "butterfly chong", "slug": "butteryfly-chong", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:51:17Z", "status": "hit", "query": "phoenix ko", "slug": "phoenix-ko", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:51:17Z", "status": "hit", "query": "tsai ing-wen", "slug": "tsai-ing-wen", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:51:18Z", "status": "miss", "query": "xyzzy nonperson", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-24T20:55:24Z", "status": "hit", "query": "shen bo yang", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:55:24Z", "status": "hit", "query": "沈伯洋", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:55:24Z", "status": "hit", "query": "puma shen", "slug": "dr-virginia-s-shen", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:55:25Z", "status": "hit", "query": "shen pao yang", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:55:25Z", "status": "hit", "query": "yang chengwei", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:55:26Z", "status": "hit", "query": "abby hong", "slug": "abby-hong", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:55:26Z", "status": "hit", "query": "butterfly chong", "slug": "butteryfly-chong", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:55:26Z", "status": "hit", "query": "phoenix ko", "slug": "phoenix-ko", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:55:27Z", "status": "hit", "query": "tsai ing-wen", "slug": "tsai-ing-wen", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T20:55:27Z", "status": "miss", "query": "xyzzy nonperson", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-24T20:56:00Z", "status": "hit", "query": "shen bo yang", "slug": "yang-chengwei", "source": "cli", "kind": "person"}

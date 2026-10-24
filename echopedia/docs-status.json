@@ -1,14 +1,14 @@
 {
-  "at": "2026-10-24T08:10:44.147870+00:00",
+  "at": "2026-10-24T20:57:43.192528+00:00",
   "status": "WARN",
   "fail": 0,
   "warn": 1,
   "ok": 14,
-  "cron_count": 40,
-  "agent_crons": 1,
+  "cron_count": 43,
+  "agent_crons": 2,
   "bad_deliver": 0,
   "link_missing": 0,
   "issues": [
-    "WARN: agent crons present: 1 (prefer no_agent)"
+    "WARN: agent crons present: 2 (prefer no_agent)"
   ]
 }

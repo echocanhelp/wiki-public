@@ -60,3 +60,5 @@
 {"id": "gap_4ac2c69e79", "ts": "2026-10-23T19:35:01Z", "status": "open", "query": "黃瑞容", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "黃瑞容"}
 {"id": "gap_d3228f952b", "ts": "2026-10-23T19:35:01Z", "status": "open", "query": "黄瑞容", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "黄瑞容"}
 {"id": "gap_0787686bb5", "ts": "2026-10-23T19:35:02Z", "status": "open", "query": "台北香邨", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "台北香邨"}
+{"id": "gap_289e1f4e35", "ts": "2026-10-24T20:51:18Z", "status": "open", "query": "xyzzy nonperson", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "xyzzy nonperson"}
+{"id": "gap_53e22c0eb7", "ts": "2026-10-24T20:55:27Z", "status": "open", "query": "xyzzy nonperson", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "xyzzy nonperson"}

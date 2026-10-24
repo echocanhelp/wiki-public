@@ -38,9 +38,11 @@ From Dr. Albert S. Lai's 1971 dissertation:
 - After four Sundays, when Chang returned to Fresno at month's end, the majority decided to organize a permanent church **without a settled pastor and without outside financial support**.
 - Early facility support came via **Centenary United Methodist Church** and Rev. Peter Chen (Wesley Hall) until the move to Wilshire Crest Presbyterian Church in July 1971.
 
-### Taiyou Church (太陽教會) Context
+### Taiyou Church (台友教會) Context
 
-Later republication materials and wiki narrative also associate Chang with an earlier **Taiyou Church (太陽教會)** experimental effort (c. 1967) using Japanese Methodist facilities — treat as **content priority B** context pending fuller primary citation in the archive chunks.
+Later republication materials and wiki narrative also associate Chang with an earlier **Taiyou Church (台友教會)** experimental effort (c. 1967) using Japanese Methodist facilities — treat as **content priority B** context pending fuller primary citation in the archive chunks.
+
+> **Name erratum (Albert S. Lai, LINE 2026-10-24, author-ordered):** the correct Chinese name is 「台友教會」 (Church of Taiwan Friends); renderings back-translated from the English dissertation text (「太陽教會」／「太陽教練會」) are mistranslations — do not use in derived text. **Co-naming HOLD:** the book's English back matter reads 台友教會 / "Taiwanese Friendly Church", co-named by 張瑞雄 **and** Pastor Chen — reconcile the two co-naming accounts (see FPCLA page + `knowledge/operational/albert-lai-reprint-errata.md` E1) before any single-attribution wording in print-facing text.
 
 
 ## Education

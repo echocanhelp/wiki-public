@@ -80,7 +80,7 @@ Dr. Lai was among the enthusiastic believers who co-founded [[organizations/form
 - **Co-founders:** [[people/daniel-kao||Dr. & Mrs. Daniel Kao (高光民)]], [[people/c-c-chen||Dr. & Mrs. C. C. Chen (陳昭俊)]], Mr. & Mrs. Norman Hsu (許彬), Dr. & Mrs. Isiah Lee (李宗派), Dr. & Mrs. Joseph T. C. Lu (盧俊哲), Mr. & Mrs. Morris Chen (陳茂雄), Mr. & Mrs. George Chen (陳進琛), Dr. & Mrs. Sze-Ya Yeh (葉思雅), Mr. & Mrs. Wang Chun Hsiung (王春雄), Dr. & Mrs. Jang Yan Wu (吳政彥), Dr. Wen-Cho Yang (楊哲), Dr. & Mrs. Justin Chen (陳有義), Meiling Lai (賴美玲), Michael Chen (陳明章), and others
 - **Supporting pastors and elders:** From the UPCUSA system including San Francisco Theological Seminary, the General Assembly of the United Presbyterian Church, the Southern California/Hawaii Presbytery, and the Pacific Presbytery
 - **Organizing Pastor:** [[people/chaolong-kao||Dr. Charles C.L. Kao / Chaolong Kao (高昭龍)]] — former TTCS faculty / Harvard Visiting Scholar; called by Presbytery of Los Angeles Southwest (Sep 1971). Distinct from co-founder Daniel Kao.
-- **Predecessor experiment:** "Taiyou Church" (太陽教會) and the Aug 1970 experimental worship led by [[people/jonah-chang||Rev. Jonah Chang (張瑞雄)]]
+- **Predecessor experiment:** "Taiyou Church" (台友教會 — author-corrected 2026-10-24; 「太陽教會」 was an English-back-translation mistranslation) and the Aug 1970 experimental worship led by [[people/jonah-chang||Rev. Jonah Chang (張瑞雄)]]
 
 ## Dissertation: *Toward A Community of Hope* (1971)
 
