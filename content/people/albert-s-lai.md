@@ -31,33 +31,33 @@ verified-saturation: 2026-10-12
 ## Audit additions (2026-10-22, web audit + Grok reconciliation)
 
 - **Born 1941**, into a pastor's family; childhood at 北港教會 while father [[people/pingtung-lai||賴炳烔]] pastored there — independently corroborated by the 賴永祥庫 family archive (1944-04-09 installation photo names 長男賴信雄, b.1941; siblings 賴惠華 1943, 賴美玲 1945, 賴信行 1947; wife **Jane Hatsuko Ueno** 上野初子, third-generation Japanese-American, Hawaii — per 賴炳烔 family record).
-- **High school:** author's own publisher-manuscript bio (AMT `00_author_bio.md`) reads 「高中就讀長榮中學、萊園中學」. The 萊園 co-presence with teacher-turned-教導主任 [[people/c-y-hsu||許贊育]] is **UNCONFIRMED** — timeline tension: bio says TTCS from 1958 (afterword says enrolled 1959), while 許贊育's 霧峰教會 service runs to 1959-08 per PCT records. **NEED YOU:** ask Albert his years at 長榮 vs 萊園.
+- **High school:** author's own publisher-manuscript bio (AMT `00_author_bio.md`) reads 「高中就讀長榮中學、萊園中學」 — **corroborated by a second source**: 蔡榮芳 〈憶往事〉 (2026-06-02) records Albert's own letter naming 黃彰輝 and **林攀龍（萊園高級中學校長）** as the two 「偉大老師」 of his life. Albert's 2026-10-24 answer dates the years (長榮 1956–58, 萊園 1958–59) — author-attested; the 教導主任 memory is now author-direct, still pending a roster/document.
 - **Degree:** D.Min. (牧範學博士/教牧學博士). The ISBN.tw blurb's 「全世界首批獲頒牧範學博士的論文之一」 is publisher puffery — do not repeat the superlative in derived text.
 - **2025 launch:** book launched 2025-09-28 at Good Shepherd TPC, Monterey Park (TCNN 2025-09-29, archives/253818); Rev. Mingyuan Hsu's discovery visit dated **2022** by TCNN, matching the vault account. Irvine TPC senior class hosts a follow-on author talk with Rev. Hsu.
 
 - **Classmate-cohort corroboration (蔡榮芳 essay, 2026-10-23):** 蔡榮芳 met Albert at a LA Taiwanese social gathering **1969 or 1970** beside his sister 賴美玲; Albert was then an SFTS graduate student writing a dissertation touching **Taiwan's international-status question**, and borrowed from 蔡榮芳 Lung-chu Chen & Harold Lasswell, *Formosa, China and the United Nations* (1967). 蔡榮芳 first heard **Karl Barth** from Albert, who also referenced the **"Age of Three B's"** (Barth/Brunner/Bultmann, or incl. Buber — 蔡's later gloss). Contact lost 1973; reconnected **2023** via 蔡's 黃彰輝 book. 蔡's essay dates the 「消失五十年」 as **1972–2022**.
 - **China work, named institution (戴正德 essay, attributed):** Albert founded **SIAS College in 河南**, "用美國式的教育奉獻於宣教"; persuaded the local government to build a church within ~100 m of campus, which grew over 20+ years to a 7-story building with dozens of classrooms and ~40 full-time staff. Single-source (戴正德's recommendation), pending corroboration — cross-check against Albert's own 失蹤了的五十年 account before promoting.
 
-## Classmate-cohort — **CONFIRMED by the author (Albert, LINE 2026-10-24 04:39)**
+## Classmate-cohort — **author-attested (Albert, LINE 2026-10-24 04:39; single source, not independently confirmed)**
 
 Full text archived: `knowledge/interactions/line/2026-10-24.jsonl` (message_id 637552141586399982). Albert's own words: 「我就讀長榮中學是1956-1958。我就讀萊園中學是1958-1959。我當然記得許贊育教導主任，**他和我爸爸當年是台南神學院前後期的同學，兩個人是好朋友**。我到萊園中學就讀是**許贊育老師向我爸爸建議的**。因為他們兩位好朋友的關係，**我跟Leonard Sr.（許丕龍）中學時候就是好朋友**。」
 
 - **Fathers' bond:** 賴炳烔 ↔ 許贊育, 南神 前後期同學, 好朋友 — author-attested; cross-check against 賴炳烔's TTCS 1932–36 (this page's Education) and 許贊育's 1931–35: "前後期" may be loose or one matriculation date needs revision. **NEED YOU:** TTCS alumni records.
 - **Albert's 萊園 enrollment was on 許贊育's recommendation to his father** — the 教導主任 memory is direct, not hearsay.
-- **Albert ↔ 許丕龍 friends from 中學**, via the fathers' friendship. Timeline nuance: Albert 長榮 1956–58 / 萊園 1958–59; 許丕龍 (b.1939 family-attested) entered TTCS ~1959 — the shared 中學 years need one gentle clarifying question to Albert (which school/years for 許丕龍).
+- **Albert ↔ 許丕龍 friends from 中學**, via the fathers' friendship — **unlocated**: Albert named no school for 許丕龍. Albert: 長榮 1956–58 / 萊園 1958–59; 許丕龍's secondary-school years are NOT in the vault (his page carries only Era: 1939 + 中原理工). **NEED YOU (single question):** 「許丕龍 1956–1959 在哪一所中學？」 Until answered, this line stays author-attested/unlocated, not confirmed.
 - **Q2 fieldwork:** rosters/minutes were Albert's own collection; budget came from the new church's 管理委員會 via reps **高光民醫師 + 李宗派博士** to 太平洋中會's advisor **Ms. Helder** (per 南加州/夏威夷大會總幹事); final figures negotiated with SFTS + UPCUSA 城市宣教與教會新會眾發展部. **原始材料未保存** — the dissertation is the record; obtain the cited essay 「當年論文背後的故事」.
 - **Q3 erratum (author-ordered):** the 1970-08-09 experiment was 「**台友教會** Taiyou Church — Church of Taiwan Friends」, named by 張瑞雄 (Rev. Jonah Chang) himself; 「太陽教練會」 in the translation is wrong — 「請你把它改正過來」. Check published 2025 ZH text + our pages (FPCLA, dissertation source) and issue reprint erratum. First 台語 sermon 「祝福之地」 survives only as a title.
-- **Q4 Jane recovered:** introduced by a friend; U. Hawaiʻi grad; legal secretary in CA; few in the church knew her pre-wedding; married ~May 1972 (his graduation), the **first wedding after the church moved into its parsonage**; absent from 失蹤的50年 because she funded the family from her law job during his startup, then ran **美台亞洲語文翻譯公司 (Maytai Company — Translation & Typesetting)** until closing it at Covid-19 and retiring.
+- **Q4 Jane recovered:** introduced by a friend; U. Hawaiʻi grad; legal secretary in CA; few in the church knew her pre-wedding; **married July 1972** at FPCLA — the first wedding after the church moved into its parsonage; the decision to marry came around his May 1972 graduation, by which time he had stopped serving at the church; absent from 失蹤的50年 because she funded the family from her law job during his startup, then ran **美台亞洲語文翻譯公司 (Maytai Company — Translation & Typesetting)** until closing it at Covid-19 and retiring.
 - **Q5 China chapter documented:** 1986 Shanghai publication 「美國工商年鑑」 (*The Official American Business and Industry Guide*); **Nixon open letter to Chinese readers** (1985-12-30, 26 Federal Plaza) + **Gen. Alexander Haig** congratulation letter, each with a personal photo — all kept in his study, photographed for us below. First **中外記者招待會** in Shanghai (coverage now lost — restate any "CCTV first" claim accordingly). SAFEA-commissioned training, ~12 years, **7–8,000 senior officials** in LA and major US cities; materials preserved **with a friend in Beijing**.
 
 ### Author-supplied photos (2026-10-24, unverified — labeled per standing rule)
 
 > 📷 以下照片由作者本人 2026-10-24 經 LINE 提供，Echo 未經獨立查證——若您認得圖中人物或文件，歡迎回報修正。
 
-![尼克森 1985-12-30 致《美國工商年鑑》讀者公開信（框裝，親筆簽名）](../images/albert-lai-20261024-nixon-letter-19851230.jpg)
-![黑格將軍辦公室祝賀信（框裝，親筆簽名，日期待清晰重拍）](../images/albert-lai-20261024-haig-letter.jpg)
-![尼克森總統黑白肖像（框裝）](../images/albert-lai-20261024-nixon-portrait.jpg)
-![框裝肖像照，灰格西裝長者，下方有手寫題字（待清晰重拍；人物待確認）](../images/albert-lai-20261024-dedicated-portrait.jpg)
+![尼克森 1985-12-30 致《美國工商年鑑》讀者公開信（框裝；日期與地址為照片可讀內容，作者未另提供）](../images/albert-lai-20261024-nixon-letter-19851230.jpg)
+![黑格將軍辦公室祝賀信（框裝；作者註：看不見落款日期 — 待清晰重拍）](../images/albert-lai-20261024-haig-letter.jpg)
+![尼克森總統黑白肖像（框裝；作者註 2026-10-24：僅簽名 Richard Nixon，墨水已褪色）](../images/albert-lai-20261024-nixon-portrait.jpg)
+![框裝肖像照，灰格西裝長者，下方有手寫題字（人物與題字待作者確認；黑格照片題字為 「To Jane and Albert Lai, With Very Best Wishes. Alexander Haig (Signed)」 — 若此張即黑格題照，請作者指明）](../images/albert-lai-20261024-dedicated-portrait.jpg)
 
 Archive + sidecars (source_url/sha256/message_id): `knowledge/interactions/photos/albert-lai-20261024/`
 
