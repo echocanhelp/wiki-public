@@ -38,7 +38,30 @@ verified-saturation: 2026-10-12
 - **Classmate-cohort corroboration (蔡榮芳 essay, 2026-10-23):** 蔡榮芳 met Albert at a LA Taiwanese social gathering **1969 or 1970** beside his sister 賴美玲; Albert was then an SFTS graduate student writing a dissertation touching **Taiwan's international-status question**, and borrowed from 蔡榮芳 Lung-chu Chen & Harold Lasswell, *Formosa, China and the United Nations* (1967). 蔡榮芳 first heard **Karl Barth** from Albert, who also referenced the **"Age of Three B's"** (Barth/Brunner/Bultmann, or incl. Buber — 蔡's later gloss). Contact lost 1973; reconnected **2023** via 蔡's 黃彰輝 book. 蔡's essay dates the 「消失五十年」 as **1972–2022**.
 - **China work, named institution (戴正德 essay, attributed):** Albert founded **SIAS College in 河南**, "用美國式的教育奉獻於宣教"; persuaded the local government to build a church within ~100 m of campus, which grew over 20+ years to a 7-story building with dozens of classrooms and ~40 full-time staff. Single-source (戴正德's recommendation), pending corroboration — cross-check against Albert's own 失蹤了的五十年 account before promoting.
 
-## Classmate-cohort hypothesis (Leonard, 2026-10-22 — PENDING Albert's confirmation)
+## Classmate-cohort — **CONFIRMED by the author (Albert, LINE 2026-10-24 04:39)**
+
+Full text archived: `knowledge/interactions/line/2026-10-24.jsonl` (message_id 637552141586399982). Albert's own words: 「我就讀長榮中學是1956-1958。我就讀萊園中學是1958-1959。我當然記得許贊育教導主任，**他和我爸爸當年是台南神學院前後期的同學，兩個人是好朋友**。我到萊園中學就讀是**許贊育老師向我爸爸建議的**。因為他們兩位好朋友的關係，**我跟Leonard Sr.（許丕龍）中學時候就是好朋友**。」
+
+- **Fathers' bond:** 賴炳烔 ↔ 許贊育, 南神 前後期同學, 好朋友 — author-attested; cross-check against 賴炳烔's TTCS 1932–36 (this page's Education) and 許贊育's 1931–35: "前後期" may be loose or one matriculation date needs revision. **NEED YOU:** TTCS alumni records.
+- **Albert's 萊園 enrollment was on 許贊育's recommendation to his father** — the 教導主任 memory is direct, not hearsay.
+- **Albert ↔ 許丕龍 friends from 中學**, via the fathers' friendship. Timeline nuance: Albert 長榮 1956–58 / 萊園 1958–59; 許丕龍 (b.1939 family-attested) entered TTCS ~1959 — the shared 中學 years need one gentle clarifying question to Albert (which school/years for 許丕龍).
+- **Q2 fieldwork:** rosters/minutes were Albert's own collection; budget came from the new church's 管理委員會 via reps **高光民醫師 + 李宗派博士** to 太平洋中會's advisor **Ms. Helder** (per 南加州/夏威夷大會總幹事); final figures negotiated with SFTS + UPCUSA 城市宣教與教會新會眾發展部. **原始材料未保存** — the dissertation is the record; obtain the cited essay 「當年論文背後的故事」.
+- **Q3 erratum (author-ordered):** the 1970-08-09 experiment was 「**台友教會** Taiyou Church — Church of Taiwan Friends」, named by 張瑞雄 (Rev. Jonah Chang) himself; 「太陽教練會」 in the translation is wrong — 「請你把它改正過來」. Check published 2025 ZH text + our pages (FPCLA, dissertation source) and issue reprint erratum. First 台語 sermon 「祝福之地」 survives only as a title.
+- **Q4 Jane recovered:** introduced by a friend; U. Hawaiʻi grad; legal secretary in CA; few in the church knew her pre-wedding; married ~May 1972 (his graduation), the **first wedding after the church moved into its parsonage**; absent from 失蹤的50年 because she funded the family from her law job during his startup, then ran **美台亞洲語文翻譯公司 (Maytai Company — Translation & Typesetting)** until closing it at Covid-19 and retiring.
+- **Q5 China chapter documented:** 1986 Shanghai publication 「美國工商年鑑」 (*The Official American Business and Industry Guide*); **Nixon open letter to Chinese readers** (1985-12-30, 26 Federal Plaza) + **Gen. Alexander Haig** congratulation letter, each with a personal photo — all kept in his study, photographed for us below. First **中外記者招待會** in Shanghai (coverage now lost — restate any "CCTV first" claim accordingly). SAFEA-commissioned training, ~12 years, **7–8,000 senior officials** in LA and major US cities; materials preserved **with a friend in Beijing**.
+
+### Author-supplied photos (2026-10-24, unverified — labeled per standing rule)
+
+> 📷 以下照片由作者本人 2026-10-24 經 LINE 提供，Echo 未經獨立查證——若您認得圖中人物或文件，歡迎回報修正。
+
+![尼克森 1985-12-30 致《美國工商年鑑》讀者公開信（框裝，親筆簽名）](../images/albert-lai-20261024-nixon-letter-19851230.jpg)
+![黑格將軍辦公室祝賀信（框裝，親筆簽名，日期待清晰重拍）](../images/albert-lai-20261024-haig-letter.jpg)
+![尼克森總統黑白肖像（框裝）](../images/albert-lai-20261024-nixon-portrait.jpg)
+![框裝肖像照，灰格西裝長者，下方有手寫題字（待清晰重拍；人物待確認）](../images/albert-lai-20261024-dedicated-portrait.jpg)
+
+Archive + sidecars (source_url/sha256/message_id): `knowledge/interactions/photos/albert-lai-20261024/`
+
+## Classmate-cohort hypothesis (Leonard, 2026-10-22 — superseded by confirmation above)
 
 Albert (b.1941) and [[people/ahhee-hsu||許丕龍]] (b.1939, family-attested; TAH table carries no DOB) are a two-year cohort, not necessarily same-grade classmates. Overlap candidates, in order of likelihood:
 1. **TTCS 1958–1959** — F graduating (afterword: 1959), Albert arriving (publisher bio: 1958; afterword: 1959 — Albert's own documents conflict; ask him).

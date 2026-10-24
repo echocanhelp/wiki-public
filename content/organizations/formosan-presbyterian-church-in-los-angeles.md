@@ -29,9 +29,11 @@ last_reviewed: 2026-10-12
 
 ## Founding History
 
-### Predecessor: Taiyou Church (太陽教會)
+### Predecessor: Taiyou Church (台友教會 — author-corrected 2026-10-24)
 
-Before FPCLA, an experimental church called "Taiyou Church" (太陽教會, "Sun Church") was associated with [[people/jonah-chang||Rev. Jonah Chang (張瑞雄)]] (c. 1967 Japanese Methodist facility context; content priority B). This experiment laid the groundwork for a separate Taiwanese congregation.
+Before FPCLA, an experimental church associated with [[people/jonah-chang||Rev. Jonah Chang (張瑞雄)]] held its first gathering **1970-08-09** at Centenary Methodist (c. 1967 Japanese Methodist facility context; content priority B). This experiment laid the groundwork for a separate Taiwanese congregation.
+
+> **Erratum (Albert S. Lai, LINE 2026-10-24, author-ordered):** the name was 「**台友教會**」 (Taiyou Church = **Church of Taiwan Friends**), proposed and used by 張瑞雄 himself. The Chinese rendering 「太陽教會/太陽教練會」 derived from the English is a mistranslation — 「請你把它改正過來」. Use 台友教會 in all derived text; flag 「太陽」 in the published 2025 ZH book for the reprint erratum list. Albert preached his first 台語 sermon 「祝福之地」 there (manuscript lost; title only).
 
 In his own oral history, Rev. Chang recalled that during the summers of **1969–1970** he traveled from his United Methodist charge in the Bay Area to Los Angeles and helped organize a Taiwanese-language (台語) congregation there — the church that became FPCLA — located on **W. Olympic Blvd**, where many Taiwanese lived ([[works/taiwaneseamericanhistory-org/our-journeys-350|record 350, Rev. Chang oral history]]). Chang described it as belonging to the Taiwan Presbyterian Church system; his reassignment to the Alameda Japanese UMC charge in August 1971 matches the founding account's end of his involvement.
 - HOLD: church system — Chang's oral history frames the LA congregation as "台灣長老教會系統," while the Albert Lai dissertation account documents its organization under UPCUSA/Presbytery of Los Angeles Southwest. Not auto-merged.

@@ -31,13 +31,13 @@
 | 45 23 * * * | `pair-miner-growth` | no_agent | on | ok | `pair-miner-cron.sh` |
 | 45 23 * * 0 | `echopedia-source-continuity` | no_agent | on | ok | `echopedia-source-continuity.sh` |
 | 5 21 * * * | `cron-output-rotate` | no_agent | on | ok | `cron-output-rotate.sh` |
-| 50 0 * * * | `memory-audit` | no_agent | on | ok | `memory-audit.sh` |
+| 50 0 * * * | `memory-audit` | no_agent | on | error | `memory-audit.sh` |
 | 50 21 * * * | `echopedia-backlink-auditor` | no_agent | on | ok | `echopedia-backlink-auditor-cron.sh` |
 | 50 22 * * * | `echopedia-interaction-absorb` | no_agent | on | ok | `echopedia-interaction-absorb.py` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
 | every 30m | `unified-watchdog` | no_agent | on | ok | `unified-watchdog.sh` |
 | every 60m | `echopedia-news-scan` | no_agent | on | ok | `echopedia-news-scan.py` |
-| every 60m | `swarm-vitals` | no_agent | on | ok | `swarm-vitals.py` |
+| every 60m | `swarm-vitals` | no_agent | on | error | `swarm-vitals.py` |
 | once in 3h | `tdm-crawl-retry-202603-202605` | no_agent | OFF | ok | `tdm-fix-202603-202605.sh` |
 | once in 110m | `story-pass-post-pin-audit` | no_agent | OFF | ok | `story-pass-audit-probe.sh` |
 | once in 150m | `story-pass-quality-audit` | AGENT | OFF | ok | `—` |

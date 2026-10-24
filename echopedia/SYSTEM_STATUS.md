@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-10-24 00:36 PDT*
+*Generated: 2026-10-24 00:38 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -14,14 +14,14 @@
 - **Level:** L3
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
-- **Last good deploy:** `295efe52ba1`
+- **Last good deploy:** `491365a6594`
 - **Last night (ledger):** analyzer scanned 2999 queued 9 suppressed 2496 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 23 · 🔴 NEED YOU cron fail: echopedia-weekly-improvement
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
 |- **Tier1 pages:** 2968 (people 2456 / orgs 440 / sources 72) · Tier2 archive: 29103
 |- **Janitor queue depth:** 73
-|- **Uncommitted files:** 90
+|- **Uncommitted files:** 14
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 | Stage | Script | Schedule (jobs.json) | Output |
@@ -135,13 +135,13 @@ Load skill **echopedia-ops** first for any wiki work.
 | 45 23 * * * | `pair-miner-growth` | no_agent | on | ok | `pair-miner-cron.sh` |
 | 45 23 * * 0 | `echopedia-source-continuity` | no_agent | on | ok | `echopedia-source-continuity.sh` |
 | 5 21 * * * | `cron-output-rotate` | no_agent | on | ok | `cron-output-rotate.sh` |
-| 50 0 * * * | `memory-audit` | no_agent | on | ok | `memory-audit.sh` |
+| 50 0 * * * | `memory-audit` | no_agent | on | error | `memory-audit.sh` |
 | 50 21 * * * | `echopedia-backlink-auditor` | no_agent | on | ok | `echopedia-backlink-auditor-cron.sh` |
 | 50 22 * * * | `echopedia-interaction-absorb` | no_agent | on | ok | `echopedia-interaction-absorb.py` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
 | every 30m | `unified-watchdog` | no_agent | on | ok | `unified-watchdog.sh` |
 | every 60m | `echopedia-news-scan` | no_agent | on | ok | `echopedia-news-scan.py` |
-| every 60m | `swarm-vitals` | no_agent | on | ok | `swarm-vitals.py` |
+| every 60m | `swarm-vitals` | no_agent | on | error | `swarm-vitals.py` |
 | once in 3h | `tdm-crawl-retry-202603-202605` | no_agent | OFF | ok | `tdm-fix-202603-202605.sh` |
 | once in 110m | `story-pass-post-pin-audit` | no_agent | OFF | ok | `story-pass-audit-probe.sh` |
 | once in 150m | `story-pass-quality-audit` | AGENT | OFF | ok | `—` |

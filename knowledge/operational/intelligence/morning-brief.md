@@ -1,16 +1,16 @@
-TAHS · Echopedia morning brief — 2026-10-23
+TAHS · Echopedia morning brief — 2026-10-24
 5 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
-🔴 NEED YOU  1. Echopedia miss: “傅崐萁”
+🔴 NEED YOU  1. Echopedia miss: “台北香邨”
      → Confirm identity / approve thin page / or dismiss
-🔴 NEED YOU  2. Echopedia miss: “蔣萬安”
+🔴 NEED YOU  2. Echopedia miss: “黃瑞容”
      → Confirm identity / approve thin page / or dismiss
-🔴 NEED YOU  3. Echopedia miss: “林楚茵”
+🔴 NEED YOU  3. Echopedia miss: “黄瑞容”
      → Confirm identity / approve thin page / or dismiss
-🔴 NEED YOU  4. Echopedia miss: “張其祥”
+🔴 NEED YOU  4. Echopedia miss: “鍾東錦”
      → Confirm identity / approve thin page / or dismiss
-🔴 NEED YOU  5. Echopedia miss: “林郁方”
+🔴 NEED YOU  5. Echopedia miss: “傅崐萁”
      → Confirm identity / approve thin page / or dismiss
 
 🟡 QUEUE / identity (soft — no reply required)
@@ -34,7 +34,7 @@ TAHS · Echopedia morning brief — 2026-10-23
 🟡 QUEUE 12 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~19122 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~19194 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/taiwanese-association-of-northwest-los-angeles.md ↔ people/bang-h-hwang.md
@@ -44,11 +44,11 @@ TAHS · Echopedia morning brief — 2026-10-23
 🟡 QUEUE 5. Link tip: organizations/ai-education-foundation.md ↔ organizations/rowland-heights-chinese-association.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 171 visits since cutoff · yday 2026-10-22 = 0 · /people/albert-zh-sku-b-publisher-review.html 22, /people/gwhyneth-chen 16, /people/albert-en-sku-a-scratch
+ℹ️  INFO  wiki 174 visits since cutoff · yday 2026-10-23 = 3 · /people/albert-zh-sku-b-publisher-review.html 22, /people/gwhyneth-chen 16, /people/albert-en-sku-a-scratch
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 2999 queued 9 suppressed 2496
+✅ AUTO analyzer scanned 3002 queued 40 suppressed 1066
 🟡 QUEUE janitor HOLD leftover 40
 🟡 QUEUE kanban blocked 23
-🔴 NEED YOU cron fail: echopedia-weekly-improvement
+🔴 NEED YOU cron fail: memory-audit, echopedia-weekly-improvement
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

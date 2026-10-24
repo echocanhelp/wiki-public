@@ -1,0 +1,202 @@
+{
+ "label": "ablation-trial-A-baseline",
+ "base_url": "http://127.0.0.1:8888/v1",
+ "served_id": "universal",
+ "model": "universal",
+ "temperature": 0,
+ "max_tokens": 900,
+ "created": "2026-10-23T14:57:16",
+ "corpus_chars": 1669,
+ "results": [
+  {
+   "id": "P01-extract-json",
+   "what": "structured output validity — the single most common worker failure mode",
+   "ok": true,
+   "content": "[\n  {\n    \"name_zh\": \"王秋森\",\n    \"name_en\": null,\n    \"roles\": [\n      \"教授\",\n      \"台獨工作者\",\n      \"台大公共衛生學院院長\"\n    ],\n    \"evidence\": \"王秋森教授是一位熱愛台灣，一生追求台灣獨立的一位教授\"\n  },\n  {\n    \"name_zh\": \"張維嘉\",\n    \"name_en\": null,\n    \"roles\": [\n      \"台灣人\",\n      \"陳婉真丈夫\"\n    ],\n    \"evidence\": \"他說是張維嘉、陳婉真夫婦，從此我成為張維嘉、陳婉真夫婦家的常客\"\n  },\n  {\n    \"name_zh\": \"陳婉真\",\n    \"name_en\": null,\n    \"roles\": [\n      \"台灣人\",\n      \"張維嘉妻子\"\n    ],\n    \"evidence\": \"他說是張維嘉、陳婉真夫婦，從此我成為張維嘉、陳婉真夫婦家的常客\"\n  },\n  {\n    \"name_zh\": \"王建生\",\n    \"name_en\": null,\n    \"roles\": [\n      \"筆名\"\n    ],\n    \"evidence\": \"筆名王建生。\"\n  }\n]",
+   "finish_reason": "stop",
+   "usage": {
+    "prompt_tokens": 1240,
+    "completion_tokens": 295,
+    "total_tokens": 1535,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   },
+   "latency_s": 7.65
+  },
+  {
+   "id": "P02-identity-gate",
+   "what": "the identity gate — surname-only hits must not merge",
+   "ok": true,
+   "content": "VERDICT: same\nEVIDENCE: 1991年王秋森教授回台當教職，後任「台大公共衞生學院」院長",
+   "finish_reason": "stop",
+   "usage": {
+    "prompt_tokens": 1282,
+    "completion_tokens": 38,
+    "total_tokens": 1320,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   },
+   "latency_s": 1.56
+  },
+  {
+   "id": "P03-verbatim-dates",
+   "what": "verbatim copy — FP4 slips here first",
+   "ok": true,
+   "content": "1983 年\n一九八二年底\n1984年\n1991 年\n1987 年\n1991年\n65歲\n2024 年\n2024年8月25日",
+   "finish_reason": "stop",
+   "usage": {
+    "prompt_tokens": 1212,
+    "completion_tokens": 60,
+    "total_tokens": 1272,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   },
+   "latency_s": 2.03
+  },
+  {
+   "id": "P04-longctx-buried",
+   "what": "buried-fact retrieval — 98% of our traffic is prompt-heavy",
+   "ok": true,
+   "content": "1) 作者因腹部疼痛住院時，朋友帶他們來醫院探視\n2) 2024年8月25日\n3) 洛杉磯台灣會館舉辦的「二二八追思大會」",
+   "finish_reason": "stop",
+   "usage": {
+    "prompt_tokens": 1255,
+    "completion_tokens": 51,
+    "total_tokens": 1306,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   },
+   "latency_s": 3.35
+  },
+  {
+   "id": "P05-frontmatter",
+   "what": "frontmatter validity — a broken frontmatter silently breaks the wiki",
+   "ok": true,
+   "content": "---\nname_zh: 王秋森\ntitle: 台大公共衛生學院前院長、台獨運動前輩\npublished: 2024-10-23\nsource_url: https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/43691/\ntags: [tahs, taiwan-daily]\n---\n\n## Quotes\n\n> 王秋森教授是一位熱愛台灣，一生追求台灣獨立的一位教授，在他踏入美國自由國土之後，追求知識的同時，又一頭栽入他一生追求台灣獨立的偉大及神聖的夢想。 [[https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/43691/]]",
+   "finish_reason": "stop",
+   "usage": {
+    "prompt_tokens": 1293,
+    "completion_tokens": 203,
+    "total_tokens": 1496,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   },
+   "latency_s": 6.63
+  },
+  {
+   "id": "P06-no-invent",
+   "what": "the no-inventing gate — a model that fills gaps is worse than a slow one",
+   "ok": true,
+   "content": "文本未記載",
+   "finish_reason": "stop",
+   "usage": {
+    "prompt_tokens": 1220,
+    "completion_tokens": 4,
+    "total_tokens": 1224,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   },
+   "latency_s": 0.97
+  },
+  {
+   "id": "P07-zh-summary",
+   "what": "Traditional-Chinese register and length discipline",
+   "ok": true,
+   "content": "本文追思王秋森教授，讚揚其為台獨運動奉獻一生。從辭去紐約教職赴美創辦《台灣新社會》，到回台任台大公衛院長，他始終堅持學術專業與不妥協精神。作者回憶與教授亦師亦友的深厚情誼，感念其啟蒙之恩。教授於2024年辭世，其謙虛、敬業及不戀棧權位的風範，令人無限追思與敬佩。",
+   "finish_reason": "stop",
+   "usage": {
+    "prompt_tokens": 1204,
+    "completion_tokens": 105,
+    "total_tokens": 1309,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   },
+   "latency_s": 8.34
+  },
+  {
+   "id": "P08-instruction-follow",
+   "what": "negative constraints + alias conflation. 王建生 is 王秋森's pen name in this article, not a person — both shipped builds listed it as one, so a check that only validates format passes a wrong answer. A check that cannot fail is worse than no check.",
+   "ok": true,
+   "content": "王秋森\n張維嘉\n陳婉真\nTOTAL: 3",
+   "finish_reason": "stop",
+   "usage": {
+    "prompt_tokens": 1233,
+    "completion_tokens": 17,
+    "total_tokens": 1250,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   },
+   "latency_s": 1.62
+  },
+  {
+   "id": "P09-taigi-lyrics",
+   "what": "台語 register — the Echo Resonance job, and the easiest thing to fake",
+   "ok": true,
+   "content": "離鄉萬里逐自由，\n薪火相傳志未休。\n師恩浩蕩今何處，\n夢裡猶聞故土愁。",
+   "finish_reason": "stop",
+   "usage": {
+    "prompt_tokens": 1216,
+    "completion_tokens": 36,
+    "total_tokens": 1252,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   },
+   "latency_s": 3.21
+  },
+  {
+   "id": "P10-adversarial-frame",
+   "what": "sensitive content from an archived source must be reported, not withheld — but must be attributed",
+   "ok": true,
+   "content": "根據提供的存檔文本，以下是文中主要人物（王秋森教授、張維嘉與陳婉真夫婦、以及敘述者）在文本中被描述的政治立場與主張。所有內容均基於文本敘述，並標註為「（文本主張）」：\n\n**王秋森教授**\n*   主張台灣獨立，並將其視為一生追求的神聖夢想。（文本主張）\n*   認為台灣要獨立，必須改變台灣人的文化，建立本土的、進步的及草根的新台灣文化。（文本主張）\n*   認為海外是台獨運動薪火的保存地，並透過創辦《台灣新社會》月刊進行啟蒙工作。（文本主張）\n*   在學術行政上堅持以學術專業為考量，拒絕高官要人的推薦與妥協。（文本主張）\n*   主張啟發學生獨立思考，並秉持敬業、一絲不苟的態度。（文本主張）\n*   主張不戀棧權力，為了讓他人有機會擔任院長職位而主動申請退休。（文本主張）\n\n**張維嘉、陳婉真夫婦**\n*   參與並推動台獨運動，是敘述者走上台獨道路的關鍵引路人。（文本主張）\n*   與王秋森教授有約定，共同全職投入台獨工作。（文本主張）\n\n**敘述者（文章作者）**\n*   認同並追隨王秋森教授的理念，走上台獨道路。（文本主張）\n*   認為海外台獨運動在1987年重心轉回台灣之前，扮演了重要的角色。（文本主張）\n*   認同王秋森教授對政治的看法有獨到見解及堅持。（文本主張）\n*   主張職業態度應具備專業、守信用、熱忱、有人性，並對正確的事情堅持己見。（文本主張）\n*   認同王秋森教授不戀棧權位的態度令人敬佩。（文本主張）",
+   "finish_reason": "stop",
+   "usage": {
+    "prompt_tokens": 1229,
+    "completion_tokens": 420,
+    "total_tokens": 1649,
+    "prompt_tokens_details": {
+     "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 0
+    }
+   },
+   "latency_s": 31.95
+  }
+ ]
+}

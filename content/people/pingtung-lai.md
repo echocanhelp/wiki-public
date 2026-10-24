@@ -26,6 +26,8 @@ last_reviewed: 2026-07-15
 ## Life & Ministry (three stages)
 
 > **Additions from 蔡榮芳〈憶往事〉(2026-06-02, via Albert LINE 2026-10-23 — attributed, pending):** 蔡 gives lifespan **(1913–2015)** and calls him 台灣最長壽的牧師 — conflicts with this page's ~1914–1990s snapshot; **HOLD both** until the 2011 biography below is checked. Beigang pastorate dated **1944–1956**. The Beigang church was built on a **¥1,000,000 (old) loan from 王吟貴** — 北港農會會長, 京都大學出身, 媽祖廟董事長, local gentry — famously repaid for ~NT$25 after the 1949 old→new currency reform (40,000:1). 北港中學校長 **林新村** invited him to teach there (蔡's two elder sisters were his students). Wife **牧師娘陳錦碧** (d. 1999): 高等女學校 + 師範學校 in the Japanese era — elite education for her generation; portrait per Albert's own 《憶牧師娘》. **Named book to acquire/check:** 賴炳烔口述、黃莉雯編撰，《凡事感謝——賴炳烔牧師傳道記事》，天恩出版社，2011.
+>
+> **南神 friendship (Albert LINE 2026-10-24, author-attested):** 「他（許贊育）和我爸爸當年是台南神學院前後期的同學，兩個人是好朋友」 — 賴炳烔 and [[people/c-y-hsu||許贊育]] were near-contemporaries at TTCS and close friends; Albert entered 萊園 on 許贊育's recommendation. Cross-check: this page says 賴炳烔 TTCS **1932–1936**, 許贊育 **1931–1935** — overlapping years, consistent with 「前後期」; promote to published once TTCS alumni records confirm.
 
 1. **Pastoral ministry** — Huwei, Chingliao, Ailan (Wu-niu-lan), Beigang (built church); Centennial Doubling Campaign evangelistic officer; assisted US church planting
 2. **Bible missions** — founded United Bible Societies work in Taiwan from Beigang, then Taichung office/warehouse; translation/distribution; advisory network including KMT-era Christian officials (e.g. 張群, [[people/lien-hwa-chow||周聯華]], 馬壽華)

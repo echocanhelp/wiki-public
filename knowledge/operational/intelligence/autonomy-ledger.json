@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
@@ -11,9 +11,9 @@
       "n": 0
     },
     "analyzer": {
-      "scanned": 2999,
-      "queued": 9,
-      "suppressed": 2496
+      "scanned": 3002,
+      "queued": 40,
+      "suppressed": 1066
     },
     "enrichment_writes": {
       "n": 0,
@@ -37,16 +37,18 @@
       "first_mention_apply": true
     },
     "cron.fail": [
+      "memory-audit",
       "echopedia-weekly-improvement"
     ]
   },
   "telegram_auto_lines": [
-    "✅ AUTO analyzer scanned 2999 queued 9 suppressed 2496",
+    "✅ AUTO analyzer scanned 3002 queued 40 suppressed 1066",
     "🟡 QUEUE janitor HOLD leftover 40",
     "🟡 QUEUE kanban blocked 23",
-    "🔴 NEED YOU cron fail: echopedia-weekly-improvement"
+    "🔴 NEED YOU cron fail: memory-audit, echopedia-weekly-improvement"
   ],
   "cron_fail_names": [
+    "memory-audit",
     "echopedia-weekly-improvement"
   ]
 }
