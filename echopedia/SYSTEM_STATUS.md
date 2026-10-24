@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-10-23 00:37 PDT*
+*Generated: 2026-10-24 00:36 PDT*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -15,19 +15,19 @@
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
 - **Last good deploy:** `295efe52ba1`
-- **Last night (ledger):** analyzer scanned 2996 queued 10 suppressed 2491 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 23 · 🔴 NEED YOU cron fail: echopedia-weekly-improvement
+- **Last night (ledger):** analyzer scanned 2999 queued 9 suppressed 2496 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 23 · 🔴 NEED YOU cron fail: echopedia-weekly-improvement
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
-|- **Tier1 pages:** 2965 (people 2453 / orgs 440 / sources 72) · Tier2 archive: 29103
-|- **Janitor queue depth:** 49
-|- **Uncommitted files:** 95
+|- **Tier1 pages:** 2968 (people 2456 / orgs 440 / sources 72) · Tier2 archive: 29103
+|- **Janitor queue depth:** 73
+|- **Uncommitted files:** 90
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 | Stage | Script | Schedule (jobs.json) | Output |
 |-------|--------|----------------------|--------|
-| Scout | echopedia-scout-live | 21:40 | 44 checked, 1 broken, 0 slow |
-| Filter | echopedia-content-analysis | 21:10 | 2999 scanned, 9 queued |
+| Scout | echopedia-scout-live | 21:40 | 44 checked, 0 broken, 0 slow |
+| Filter | echopedia-content-analysis | 21:10 | 3002 scanned, 40 queued |
 | Extract | echopedia-extract-actions | 22:00 | knowledge/operational/extracted/ |
 | Evaluate | echopedia-evaluate-actions | 22:20 | knowledge/operational/evaluated/ |
 | Generate | echopedia-generate-cards | 22:40 | no data |
@@ -55,40 +55,40 @@ Load skill **echopedia-ops** first for any wiki work.
 ```
     Name:      cron-output-rotate
     Schedule:  5 21 * * *
-    Last run:  2026-10-22T21:05:52.929447-07:00  ok
+    Last run:  2026-10-23T21:05:45.993311-07:00  ok
     Name:      vault-morning-brief
     Schedule:  30 8 * * *
-    Last run:  2026-10-22T08:30:35.502534-07:00  ok
+    Last run:  2026-10-23T08:31:08.548242-07:00  ok
     Name:      vllm-thermal-scaler
     Schedule:  every 1m
-    Last run:  2026-10-23T00:36:53.370565-07:00  ok
+    Last run:  2026-10-24T00:36:47.341043-07:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 21 * * *
-    Last run:  2026-10-22T21:10:54.878440-07:00  ok
+    Last run:  2026-10-23T21:10:48.478073-07:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-10-23T00:29:50.327998-07:00  ok
+    Last run:  2026-10-24T00:15:44.167279-07:00  ok
     Name:      echopedia-digest
     Schedule:  20 6 * * *
     Last run:  2026-09-20T06:20:40.011944-07:00  ok
     Name:      memory-audit
     Schedule:  50 0 * * *
-    Last run:  2026-10-22T00:50:55.008135-07:00  ok
+    Last run:  2026-10-23T00:50:52.423951-07:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  15 21 * * *
-    Last run:  2026-10-22T21:36:26.937747-07:00  ok
+    Last run:  2026-10-23T22:05:22.835414-07:00  ok
     Name:      echopedia-janitor
     Schedule:  30 21 * * *
-    Last run:  2026-10-22T21:30:59.760420-07:00  ok
+    Last run:  2026-10-23T21:30:52.373023-07:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  15 22 * * 0
     Last run:  2026-10-18T22:30:02.368767-07:00  error: Script exited with code 1
     Name:      echopedia-ci-heal
     Schedule:  25 0 * * *
-    Last run:  2026-10-22T00:41:08.565710-07:00  ok
+    Last run:  2026-10-23T00:37:59.418373-07:00  ok
     Name:      echopedia-site-design
     Schedule:  30 0 * * *
-    Last run:  2026-10-23T00:30:53.043451-07:00  ok
+    Last run:  2026-10-24T00:30:48.193686-07:00  ok
     Name:      vault-search-index-rebuild
     Schedule:  0 21 * * 0
     Last run:  2026-10-18T21:01:01.981965-07:00  ok
@@ -102,7 +102,7 @@ Load skill **echopedia-ops** first for any wiki work.
 
 ## Cron inventory (generated)
 <!-- cron-inventory-start -->
-<!-- cron-inventory-meta: count=41 agent=1 bad_deliver=0 -->
+<!-- cron-inventory-meta: count=40 agent=1 bad_deliver=0 -->
 | Schedule | Job | Mode | En | Last | Script |
 |----------|-----|------|----|------|--------|
 | */15 * * * * | `swarm-churn-sweep` | no_agent | on | ok | `swarm-churn-sweep-cron.sh` |
@@ -142,7 +142,6 @@ Load skill **echopedia-ops** first for any wiki work.
 | every 30m | `unified-watchdog` | no_agent | on | ok | `unified-watchdog.sh` |
 | every 60m | `echopedia-news-scan` | no_agent | on | ok | `echopedia-news-scan.py` |
 | every 60m | `swarm-vitals` | no_agent | on | ok | `swarm-vitals.py` |
-| once in 40m | `li-teng-hui-live-probe` | no_agent | OFF | ok | `li-teng-hui-probe.sh` |
 | once in 3h | `tdm-crawl-retry-202603-202605` | no_agent | OFF | ok | `tdm-fix-202603-202605.sh` |
 | once in 110m | `story-pass-post-pin-audit` | no_agent | OFF | ok | `story-pass-audit-probe.sh` |
 | once in 150m | `story-pass-quality-audit` | AGENT | OFF | ok | `—` |

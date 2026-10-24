@@ -19,6 +19,11 @@ last_reviewed: 2026-07-15
 **Type:** Doctor of Ministry dissertation (San Francisco Theological Seminary), **December 1971**  
 **Republication:** 2025 (50th anniversary), Taiwan Church Press + NTPC + Tainan East Gate Barclay History Education Promotion
 
+## Reprint essays (2026-10-23, Albert via LINE)
+
+- 蔡榮芳〈憶往事〉(2026-06-02 台中) and 戴正德〈介紹你「邁向希望的社群」——實踐神學的宣教使命〉, both marked 再版用（修10/23/26）, slated for the 2026 print edition + audiobook. Scratch audio rendered (HsiaoChen −10%, listen page section D).
+- 戴正德's essay independently confirms the three 2025 co-publishers (台灣教會公報社、巴克禮歷史教育推廣協會、美國長老教會全國台灣人教會聯合會) and the **UPCUSA** lineage — spoken as letters U-P-C-U-S-A per Albert's 10/14 audio ruling.
+
 ## Registered editions & launch (audit 2026-10-22)
 
 - **ZH:** ISBN 978-626-7627-21-1, 《邁向希望的社群——對洛杉磯台灣人社群宣教的使命》, 臺灣教會公報社, 2025-09-01; CIP credits additional authors/translators 朱博琛、李新元、陳咨仰 ([isbn.tw](https://isbn.tw/9786267627211))

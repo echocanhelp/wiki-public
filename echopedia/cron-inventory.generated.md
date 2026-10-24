@@ -1,4 +1,4 @@
-<!-- cron-inventory-meta: count=41 agent=1 bad_deliver=0 -->
+<!-- cron-inventory-meta: count=40 agent=1 bad_deliver=0 -->
 | Schedule | Job | Mode | En | Last | Script |
 |----------|-----|------|----|------|--------|
 | */15 * * * * | `swarm-churn-sweep` | no_agent | on | ok | `swarm-churn-sweep-cron.sh` |
@@ -38,7 +38,6 @@
 | every 30m | `unified-watchdog` | no_agent | on | ok | `unified-watchdog.sh` |
 | every 60m | `echopedia-news-scan` | no_agent | on | ok | `echopedia-news-scan.py` |
 | every 60m | `swarm-vitals` | no_agent | on | ok | `swarm-vitals.py` |
-| once in 40m | `li-teng-hui-live-probe` | no_agent | OFF | ok | `li-teng-hui-probe.sh` |
 | once in 3h | `tdm-crawl-retry-202603-202605` | no_agent | OFF | ok | `tdm-fix-202603-202605.sh` |
 | once in 110m | `story-pass-post-pin-audit` | no_agent | OFF | ok | `story-pass-audit-probe.sh` |
 | once in 150m | `story-pass-quality-audit` | AGENT | OFF | ok | `—` |

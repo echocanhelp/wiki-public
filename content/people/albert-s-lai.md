@@ -35,6 +35,9 @@ verified-saturation: 2026-10-12
 - **Degree:** D.Min. (牧範學博士/教牧學博士). The ISBN.tw blurb's 「全世界首批獲頒牧範學博士的論文之一」 is publisher puffery — do not repeat the superlative in derived text.
 - **2025 launch:** book launched 2025-09-28 at Good Shepherd TPC, Monterey Park (TCNN 2025-09-29, archives/253818); Rev. Mingyuan Hsu's discovery visit dated **2022** by TCNN, matching the vault account. Irvine TPC senior class hosts a follow-on author talk with Rev. Hsu.
 
+- **Classmate-cohort corroboration (蔡榮芳 essay, 2026-10-23):** 蔡榮芳 met Albert at a LA Taiwanese social gathering **1969 or 1970** beside his sister 賴美玲; Albert was then an SFTS graduate student writing a dissertation touching **Taiwan's international-status question**, and borrowed from 蔡榮芳 Lung-chu Chen & Harold Lasswell, *Formosa, China and the United Nations* (1967). 蔡榮芳 first heard **Karl Barth** from Albert, who also referenced the **"Age of Three B's"** (Barth/Brunner/Bultmann, or incl. Buber — 蔡's later gloss). Contact lost 1973; reconnected **2023** via 蔡's 黃彰輝 book. 蔡's essay dates the 「消失五十年」 as **1972–2022**.
+- **China work, named institution (戴正德 essay, attributed):** Albert founded **SIAS College in 河南**, "用美國式的教育奉獻於宣教"; persuaded the local government to build a church within ~100 m of campus, which grew over 20+ years to a 7-story building with dozens of classrooms and ~40 full-time staff. Single-source (戴正德's recommendation), pending corroboration — cross-check against Albert's own 失蹤了的五十年 account before promoting.
+
 ## Classmate-cohort hypothesis (Leonard, 2026-10-22 — PENDING Albert's confirmation)
 
 Albert (b.1941) and [[people/ahhee-hsu||許丕龍]] (b.1939, family-attested; TAH table carries no DOB) are a two-year cohort, not necessarily same-grade classmates. Overlap candidates, in order of likelihood:

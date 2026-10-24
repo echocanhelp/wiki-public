@@ -1,0 +1,628 @@
+{
+  "date": "2026-10-23",
+  "standards_version": 10,
+  "total_findings": 62,
+  "total_pages": 40,
+  "actions": [
+    {
+      "page": "organizations/boston-taiwanese-christian-church.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/boston-taiwanese-christian-church.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/alexander-macdonald.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/bai-peiyu.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/bai-peiyu.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/cai-jinrong.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/cai-shunyu.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/cai-yingwen.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/chen-zhaonan.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "finding_prefix": "LINKS_LOW_DENSITY",
+      "action": "Add more wikilinks to related pages",
+      "detail": "This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/he-qingxuan.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "finding_prefix": "LINKS_LOW_DENSITY",
+      "action": "Add more wikilinks to related pages",
+      "detail": "This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/hou-youyi.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/huang-yongcheng.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/huang-yongcheng.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/jin-hegui.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "finding_prefix": "LINKS_LOW_DENSITY",
+      "action": "Add more wikilinks to related pages",
+      "detail": "This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/john-lai.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/lai-qingde.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/li-xiaofeng.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/li-xiaofeng.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "finding_prefix": "LINKS_LOW_DENSITY",
+      "action": "Add more wikilinks to related pages",
+      "detail": "This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.",
+      "playbook": "P3",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/li-xiaofeng.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/li-yisheng.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/liao-qingshan.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "finding_prefix": "LINKS_LOW_DENSITY",
+      "action": "Add more wikilinks to related pages",
+      "detail": "This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/lin-rongsong.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/lin-rongsong.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/nanfang-shuo.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/nanfang-shuo.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/shen-zizai.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/tang-peili.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/tang-peili.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "finding_prefix": "LINKS_LOW_DENSITY",
+      "action": "Add more wikilinks to related pages",
+      "detail": "This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.",
+      "playbook": "P3",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/tang-peili.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/tsai-ingwen.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/tsan-yu-hsu.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/wang-qiaoling.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/wang-qiaoling.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/wang-shufen.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/wang-shufen.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/xie-changting.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/xu-shihuan.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/yang-yuanxun.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/yang-yuanxun.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "finding_prefix": "LINKS_LOW_DENSITY",
+      "action": "Add more wikilinks to related pages",
+      "detail": "This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.",
+      "playbook": "P3",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/yang-yuanxun.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/yang-ziqing.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "finding_prefix": "LINKS_LOW_DENSITY",
+      "action": "Add more wikilinks to related pages",
+      "detail": "This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/ye-siya.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/ye-siya.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/zhang-xinhui.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/zhang-xinhui.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/zheng-bingquan.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/zheng-bingquan.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "finding_prefix": "LINKS_LOW_DENSITY",
+      "action": "Add more wikilinks to related pages",
+      "detail": "This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.",
+      "playbook": "P3",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/zheng-bingquan.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/zheng-qinren.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/zheng-qinren.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/zheng-wenlong.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/zheng-wenlong.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/zou-jingwen.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/zou-jingwen.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/卓榮泰.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/卓榮泰指.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/王崑義.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/黃逸豪.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "finding_prefix": "LINKS_LOW_DENSITY",
+      "action": "Add more wikilinks to related pages",
+      "detail": "This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.",
+      "playbook": "P3",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/黃逸豪.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "sources/initium-taipei-race-2026-10-21.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "sources/prc-media-vway-followup-2026-10-15.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "sources/prc-media-vway-followup-2026-10-15.md",
+      "finding": "STRUCT_NO_STATS",
+      "finding_prefix": "STRUCT_NO_STATS",
+      "action": "Add ## Archive Statistics or ## Content section",
+      "detail": "Add archive statistics (URL count, size, date) or content summary for this source page.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    }
+  ]
+}

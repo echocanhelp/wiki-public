@@ -21,7 +21,15 @@ last_reviewed: 2026-10-23
 
 ## Reprint essay
 
-〈憶往事〉 is dated 2026-06-02, 台中. He describes himself as not a Christian, but as someone who attended church school, knew pastors, and often joined the early Los Angeles Taiwanese Christian gatherings as a student. The essay remembers the Beigang church built under [[people/pingtung-lai|賴炳烔]], meeting 賴美玲 and 賴信雄 around 1969–1970, and losing touch in 1973 until a 2023 letter about his book on 黃彰輝.
+〈憶往事〉 is dated 2026-06-02, 台中. He describes himself as not a Christian, but as someone who attended church school, knew pastors, and often joined the early Los Angeles Taiwanese Christian gatherings as a student. The essay remembers the Beigang church built under [[people/pingtung-lai|賴炳烔]], meeting 賴美玲 and 賴信雄 around 1969–1970, and losing touch in 1973 until a 2023 letter about his 黃彰輝 book.
+
+Additional detail carried in the full manuscript (`audiobook-albert-lai/01_AMT_scripts/zh-TW/AMT_v1.0/companion_reprint_tsai_memories.md`):
+
+- **Education & career:** UCLA history PhD student late 1960s–early 1970s, teaching assistant for freshman Western civilization discussion sections; left LA 1973 to teach in South Carolina; writing in 2026 from 臺中 (鳳凰木花開季節).
+- **Books:** 《從宗教到政治：黃彰輝牧師普世神學的實踐》(玉山社, 2020) and 《知識人的想望與行徑：台灣菁英林攀龍 對上 黨國嫡裔曾約農》(前衛, 2023) — his two book subjects are exactly the two 「偉大老師」 Albert named in his 2023 letter, one of whom (林攀龍) was principal of [[people/c-y-hsu||許贊育]]'s 萊園. **Documentary lead:** his 林攀龍 book may record 萊園 faculty including 許贊育's 教導主任 role — a paper path to the open question that doesn't depend on anyone's memory.
+- **Beigang connections:** 嘉義中學初中 classmate was the son of 王吟貴 (北港農會會長、京都大學出身、媽祖廟董事長), who lent 賴炳烔 the ¥1,000,000 (old) to build the church; his two elder sisters attended 北港中學 where 賴炳烔 was invited by principal 林新村 to teach.
+- **賴美玲:** 文化大學哲學系; then Claremont School of Theology (education & psychological counseling); sang with guitar at gatherings — the 「We Shall Overcome」 session 蔡 compares to Joan Baez.
+- **On Albert 1969–73:** SFTS graduate student (蔡 initially mistook it for Union Theological in New York); dissertation touched Taiwan's international-status question; borrowed Chen & Lasswell *Formosa, China and the United Nations* (1967) from 蔡; introduced 蔡 to Karl Barth and the "Age of Three B's".
 
 Full manuscript stays with the audiobook production files. This page does not replace the forthcoming print text.
 
