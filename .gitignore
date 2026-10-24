@@ -60,3 +60,11 @@ knowledge/operational/tjj-a-slice-*.txt
 knowledge/operational/deepen-r-slice-*.txt
 knowledge/operational/deepen-wave-slice-*.txt
 knowledge/operational/tah-a-slice-*.txt
+echopedia/qc-status.json
+knowledge/research/quote-scan-state.json
+
+# tier2 absorb loop bookkeeping (private: user ids, chat ids, raw text) — never publish
+knowledge/operational/tier2-absorb-queue.jsonl
+knowledge/operational/tier2-absorb-state.json
+knowledge/operational/tier2-absorb-processed.jsonl
+knowledge/operational/tier2-absorb-allowlist.json

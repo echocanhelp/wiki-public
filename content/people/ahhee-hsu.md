@@ -45,6 +45,7 @@ Accomplishment
 - Who's Who entry archived as [[works/taiwaneseamericanhistory-org/whos-who-2267-ahhee-hsu|2267. Ahhee Hsu 許丕龍]].
 - 美國美麗島週報社 co-founder (per 陳昭南 memoir, absorbed via [[people/hsu-hsin-liang]]; 2026-10-22) — **single-source, pending** until the memoir passage is re-verified in [[articles/taiwanjustice-net/2022/20220519131411_2022_05_09_籌謀台灣_不流血革命_的獻策高手原來是他-_-陳_e3440fec3eed8107]].
 - 社長 of [[organizations/taiwanese-alliance-for-interculture-southern-california||南加州臺灣協志社]] (1980s), with father [[people/c-y-hsu||許贊育]] as 導師 — per 臺展檔 bio (cf. G page timeline row).
+- Lifelong friendship with [[people/albert-s-lai||Dr. Albert S. Lai (賴信雄)]] — **author-attested by Albert (LINE 2026-10-24, single source, pending)**: friends from secondary school; their fathers 賴炳烔 and 許贊育 were TTCS classmates and best friends. School/years for 許丕龍 1956–1959 unlocated (**NEED YOU** — see knowledge/operational/albert-lai-open-items.md).
 
 ## Family
 

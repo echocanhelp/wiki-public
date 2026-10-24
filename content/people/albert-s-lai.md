@@ -55,7 +55,7 @@ Full text archived: `knowledge/interactions/line/2026-10-24.jsonl` (message_id 6
 > 📷 以下照片由作者本人 2026-10-24 經 LINE 提供，Echo 未經獨立查證——若您認得圖中人物或文件，歡迎回報修正。
 
 ![尼克森 1985-12-30 致《美國工商年鑑》讀者公開信（框裝；日期與地址為照片可讀內容，作者未另提供）](../images/albert-lai-20261024-nixon-letter-19851230.jpg)
-![黑格將軍辦公室祝賀信（框裝；作者註：看不見落款日期 — 待清晰重拍）](../images/albert-lai-20261024-haig-letter.jpg)
+![黑格將軍辦公室祝賀信（框裝；作者註 2026-10-24：「這封信是用他個人的信箋打字簽名，上面沒有看到他落款的日期」；待清晰重拍為我方待辦）](../images/albert-lai-20261024-haig-letter.jpg)
 ![尼克森總統黑白肖像（框裝；作者註 2026-10-24：僅簽名 Richard Nixon，墨水已褪色）](../images/albert-lai-20261024-nixon-portrait.jpg)
 ![框裝肖像照，灰格西裝長者，下方有手寫題字（人物與題字待作者確認；黑格照片題字為 「To Jane and Albert Lai, With Very Best Wishes. Alexander Haig (Signed)」 — 若此張即黑格題照，請作者指明）](../images/albert-lai-20261024-dedicated-portrait.jpg)
 
@@ -63,7 +63,7 @@ Archive + sidecars (source_url/sha256/message_id): `knowledge/interactions/photo
 
 ## Classmate-cohort hypothesis (Leonard, 2026-10-22 — superseded by confirmation above)
 
-Albert (b.1941) and [[people/ahhee-hsu||許丕龍]] (b.1939, family-attested; TAH table carries no DOB) are a two-year cohort, not necessarily same-grade classmates. Overlap candidates, in order of likelihood:
+Albert (b.1941) and [[people/ahhee-hsu||許丕龍]] (b.1939, family-attested; TAH table carries no DOB) are a two-year cohort, not necessarily same-grade classmates (G below = Albert's and F's grandfather [[people/c-y-hsu||許贊育 / C.Y. Hsu]], whose TTCS best-friendship with Albert's father [[people/pingtung-lai||賴炳烔]] is author-attested). Overlap candidates, in order of likelihood:
 1. **TTCS 1958–1959** — F graduating (afterword: 1959), Albert arriving (publisher bio: 1958; afterword: 1959 — Albert's own documents conflict; ask him).
 2. **長榮/萊園 ~1955–1958** — if Albert's 萊園 years overlap F's, Albert sat in G's class as 教導主任 while F was G's student.
 3. **LA 1970s** — Albert's 1972 FPCLA parsonage wedding coincides with F's LA community-building (TACL prep, 感恩節音樂會, 協志社 with G as mentor).
