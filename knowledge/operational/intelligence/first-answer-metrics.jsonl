@@ -829,3 +829,186 @@
 {"ts": "2026-10-24T20:55:27Z", "status": "hit", "query": "tsai ing-wen", "slug": "tsai-ing-wen", "source": "cli", "kind": "person"}
 {"ts": "2026-10-24T20:55:27Z", "status": "miss", "query": "xyzzy nonperson", "slug": null, "source": "cli", "kind": null}
 {"ts": "2026-10-24T20:56:00Z", "status": "hit", "query": "shen bo yang", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:03:40Z", "status": "hit", "query": "shen bo yang", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:03:41Z", "status": "hit", "query": "沈伯洋", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:03:42Z", "status": "hit", "query": "puma shen", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:03:43Z", "status": "hit", "query": "shen pao yang", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:03:43Z", "status": "hit", "query": "yang chengwei", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:03:44Z", "status": "hit", "query": "abby hong", "slug": "abby-hong", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:03:45Z", "status": "hit", "query": "butterfly chong", "slug": "butteryfly-chong", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:03:45Z", "status": "hit", "query": "phoenix ko", "slug": "phoenix-ko", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:03:46Z", "status": "hit", "query": "tsai ing-wen", "slug": "tsai-ing-wen", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:03:47Z", "status": "hit", "query": "brian cheng", "slug": "ian-chen", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:03:48Z", "status": "hit", "query": "yang", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:03:48Z", "status": "miss", "query": "xyzzy nonperson", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-24T21:09:11Z", "status": "hit", "query": "shen bo yang", "slug": "沈伯洋", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:09:12Z", "status": "hit", "query": "沈伯洋", "slug": "沈伯洋", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:09:12Z", "status": "hit", "query": "puma shen", "slug": "沈伯洋", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:09:13Z", "status": "hit", "query": "shen pao yang", "slug": "沈伯洋", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:09:14Z", "status": "hit", "query": "shen pao-yang", "slug": "沈伯洋", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:09:14Z", "status": "hit", "query": "yang chengwei", "slug": "yang-chengwei", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:09:14Z", "status": "hit", "query": "abby hong", "slug": "abby-hong", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:09:15Z", "status": "hit", "query": "butterfly chong", "slug": "butteryfly-chong", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:09:15Z", "status": "hit", "query": "phoenix ko", "slug": "phoenix-ko", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:09:15Z", "status": "hit", "query": "tsai ing-wen", "slug": "tsai-ing-wen", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:09:16Z", "status": "miss", "query": "xyzzy nonperson", "slug": null, "source": "audit", "kind": null}
+{"ts": "2026-10-24T21:09:17Z", "status": "hit", "query": "yang", "slug": "yang-chengwei", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:09:17Z", "status": "hit", "query": "brian cheng", "slug": "ian-chen", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:09:18Z", "status": "hit", "query": "GSTPC", "slug": "ku-gstpc", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:09:19Z", "status": "hit", "query": "good shepherd", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "audit", "kind": "organization"}
+{"ts": "2026-10-24T21:09:20Z", "status": "hit", "query": "puma shen", "slug": "沈伯洋", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:10:37Z", "status": "hit", "query": "GSTPC", "slug": "ku-gstpc", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:10:38Z", "status": "miss", "query": "好牧者", "slug": null, "source": "audit", "kind": null}
+{"ts": "2026-10-24T21:10:39Z", "status": "miss", "query": "好牧者台灣基督長老教會", "slug": null, "source": "audit", "kind": null}
+{"ts": "2026-10-24T21:10:40Z", "status": "hit", "query": "台美人歷史協會", "slug": "taiwanese-american-irvines-eagle-brotherhood-group-irvine", "source": "audit", "kind": "organization"}
+{"ts": "2026-10-24T21:10:41Z", "status": "hit", "query": "TAHS", "slug": "taiwanese-american-historical-society", "source": "audit", "kind": "organization"}
+{"ts": "2026-10-24T21:10:41Z", "status": "hit", "query": "Taiwan Center", "slug": "taiwan-center", "source": "audit", "kind": "organization"}
+{"ts": "2026-10-24T21:10:42Z", "status": "miss", "query": "台灣中心", "slug": null, "source": "audit", "kind": null}
+{"ts": "2026-10-24T21:10:43Z", "status": "hit", "query": "church in monterey park", "slug": "presbyterian-church-in-taiwan", "source": "audit", "kind": "organization"}
+{"ts": "2026-10-24T21:10:44Z", "status": "miss", "query": "monterey park church", "slug": null, "source": "audit", "kind": null}
+{"ts": "2026-10-24T21:10:45Z", "status": "hit", "query": "GSTPC", "slug": "ku-gstpc", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:10:46Z", "status": "hit", "query": "puma", "slug": "沈伯洋", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:10:46Z", "status": "hit", "query": "沈伯洋", "slug": "沈伯洋", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:10:47Z", "status": "hit", "query": "shen bo yang", "slug": "沈伯洋", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:10:48Z", "status": "hit", "query": "brian cheng", "slug": "ian-chen", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:10:49Z", "status": "hit", "query": "yang", "slug": "yang-chengwei", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:10:49Z", "status": "hit", "query": "ian chen", "slug": "ian-chen", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:10:49Z", "status": "hit", "query": "Ian Chen", "slug": "ian-chen", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:10:50Z", "status": "hit", "query": "abby hong", "slug": "abby-hong", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:10:50Z", "status": "hit", "query": "butterfly chong", "slug": "butteryfly-chong", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:10:51Z", "status": "hit", "query": "phoenix ko", "slug": "phoenix-ko", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:10:52Z", "status": "hit", "query": "gstpc", "slug": "ku-gstpc", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:10:53Z", "status": "miss", "query": "好牧者", "slug": null, "source": "audit", "kind": null}
+{"ts": "2026-10-24T21:10:54Z", "status": "miss", "query": "好牧者台灣基督長老教會", "slug": null, "source": "audit", "kind": null}
+{"ts": "2026-10-24T21:10:55Z", "status": "miss", "query": "好牧者臺灣基督長老教會", "slug": null, "source": "audit", "kind": null}
+{"ts": "2026-10-24T21:10:56Z", "status": "hit", "query": "tahs", "slug": "taiwanese-american-historical-society", "source": "audit", "kind": "organization"}
+{"ts": "2026-10-24T21:10:57Z", "status": "hit", "query": "台美人歷史協會", "slug": "taiwanese-american-irvines-eagle-brotherhood-group-irvine", "source": "audit", "kind": "organization"}
+{"ts": "2026-10-24T21:10:58Z", "status": "hit", "query": "taiwanese american historical society", "slug": "taiwanese-american-historical-society", "source": "audit", "kind": "organization"}
+{"ts": "2026-10-24T21:10:59Z", "status": "hit", "query": "church in monterey park", "slug": "presbyterian-church-in-taiwan", "source": "audit", "kind": "organization"}
+{"ts": "2026-10-24T21:11:00Z", "status": "miss", "query": "monterey park church", "slug": null, "source": "audit", "kind": null}
+{"ts": "2026-10-24T21:11:01Z", "status": "miss", "query": "monterey park 教會", "slug": null, "source": "audit", "kind": null}
+{"ts": "2026-10-24T21:11:02Z", "status": "miss", "query": "牧谷", "slug": null, "source": "audit", "kind": null}
+{"ts": "2026-10-24T21:11:02Z", "status": "miss", "query": "牧谷長老教會", "slug": null, "source": "audit", "kind": null}
+{"ts": "2026-10-24T21:11:03Z", "status": "miss", "query": "shepherd of the valley", "slug": null, "source": "audit", "kind": null}
+{"ts": "2026-10-24T21:11:04Z", "status": "miss", "query": "shepherds of the valley", "slug": null, "source": "audit", "kind": null}
+{"ts": "2026-10-24T21:11:05Z", "status": "miss", "query": "牧谷基督長老教會", "slug": null, "source": "audit", "kind": null}
+{"ts": "2026-10-24T21:12:46Z", "status": "hit", "query": "joyce lin", "slug": "joyce-lin", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:12:46Z", "status": "hit", "query": "ang lee", "slug": "ang-lee", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:12:46Z", "status": "hit", "query": "stone chen", "slug": "chen-wenshi", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:12:47Z", "status": "hit", "query": "anne ku", "slug": "anne-ku", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:12:47Z", "status": "hit", "query": "sam hung", "slug": "sam-hung", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:12:48Z", "status": "hit", "query": "jenny wang", "slug": "jenny-wang", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:12:48Z", "status": "hit", "query": "ed lin", "slug": "ed-lin", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:12:48Z", "status": "hit", "query": "joseph hong", "slug": "joseph-hong", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:12:49Z", "status": "hit", "query": "charles ting", "slug": "charles-ting", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:12:50Z", "status": "hit", "query": "shenboyang", "slug": "沈伯洋", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:12:50Z", "status": "hit", "query": "puma", "slug": "沈伯洋", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:12:51Z", "status": "hit", "query": "Brother Ku", "slug": "ku-gstpc", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:12:51Z", "status": "hit", "query": "ku gstpc", "slug": "ku-gstpc", "source": "audit", "kind": "person"}
+{"ts": "2026-10-24T21:14:22Z", "status": "hit", "query": "GSTPC", "slug": "ku-gstpc", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:14:23Z", "status": "miss", "query": "好牧者", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-24T21:14:24Z", "status": "hit", "query": "台美人歷史協會", "slug": "taiwanese-american-irvines-eagle-brotherhood-group-irvine", "source": "cli", "kind": "organization"}
+{"ts": "2026-10-24T21:14:24Z", "status": "hit", "query": "church in monterey park", "slug": "presbyterian-church-in-taiwan", "source": "cli", "kind": "organization"}
+{"ts": "2026-10-24T21:14:25Z", "status": "hit", "query": "brian cheng", "slug": "ian-chen", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:14:26Z", "status": "hit", "query": "yang", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:14:26Z", "status": "hit", "query": "sam hung", "slug": "sam-hung", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:14:26Z", "status": "hit", "query": "jenny wang", "slug": "jenny-wang", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:14:27Z", "status": "hit", "query": "joyce lin", "slug": "joyce-lin", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:17:49Z", "status": "hit", "query": "shen bo yang", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:17:49Z", "status": "hit", "query": "沈伯洋", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:17:50Z", "status": "hit", "query": "puma shen", "slug": "dr-virginia-s-shen", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:17:51Z", "status": "hit", "query": "shen pao yang", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:17:51Z", "status": "hit", "query": "yang chengwei", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:17:52Z", "status": "hit", "query": "abby hong", "slug": "abby-hong", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:17:52Z", "status": "hit", "query": "butterfly chong", "slug": "butteryfly-chong", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:17:53Z", "status": "hit", "query": "phoenix ko", "slug": "phoenix-ko", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:17:53Z", "status": "hit", "query": "tsai ing-wen", "slug": "tsai-ing-wen", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:17:54Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "cli", "kind": "organization"}
+{"ts": "2026-10-24T21:17:55Z", "status": "hit", "query": "好牧者", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "cli", "kind": "organization"}
+{"ts": "2026-10-24T21:17:56Z", "status": "hit", "query": "台美人歷史協會", "slug": "taiwanese-american-historical-society", "source": "cli", "kind": "organization"}
+{"ts": "2026-10-24T21:17:56Z", "status": "hit", "query": "church in monterey park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "cli", "kind": "organization"}
+{"ts": "2026-10-24T21:17:57Z", "status": "hit", "query": "monterey park church", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "cli", "kind": "organization"}
+{"ts": "2026-10-24T21:17:58Z", "status": "hit", "query": "brian cheng", "slug": "cheng-y-chuang", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:17:58Z", "status": "hit", "query": "yang", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:17:59Z", "status": "hit", "query": "sam hung", "slug": "sam-hung", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:17:59Z", "status": "hit", "query": "jenny wang", "slug": "jenny-wang", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:18:00Z", "status": "hit", "query": "joyce lin", "slug": "joyce-lin", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:18:00Z", "status": "hit", "query": "lee wei wei", "slug": "chia-wei-lee", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:18:01Z", "status": "miss", "query": "xyzzy nonperson", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-24T21:19:59Z", "status": "hit", "query": "shen bo yang", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:20:00Z", "status": "hit", "query": "沈伯洋", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:20:02Z", "status": "hit", "query": "puma shen", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:20:03Z", "status": "hit", "query": "shen pao yang", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:20:04Z", "status": "hit", "query": "yang chengwei", "slug": "yang-chengwei", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:20:04Z", "status": "hit", "query": "abby hong", "slug": "abby-hong", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:20:05Z", "status": "hit", "query": "butterfly chong", "slug": "butteryfly-chong", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:20:06Z", "status": "hit", "query": "phoenix ko", "slug": "phoenix-ko", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:20:06Z", "status": "hit", "query": "tsai ing-wen", "slug": "tsai-ing-wen", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:20:07Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "cli", "kind": "organization"}
+{"ts": "2026-10-24T21:20:08Z", "status": "hit", "query": "好牧者", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "cli", "kind": "organization"}
+{"ts": "2026-10-24T21:20:08Z", "status": "hit", "query": "台美人歷史協會", "slug": "taiwanese-american-historical-society", "source": "cli", "kind": "organization"}
+{"ts": "2026-10-24T21:20:09Z", "status": "hit", "query": "church in monterey park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "cli", "kind": "organization"}
+{"ts": "2026-10-24T21:20:10Z", "status": "hit", "query": "monterey park church", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "cli", "kind": "organization"}
+{"ts": "2026-10-24T21:20:11Z", "status": "miss", "query": "brian cheng", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-24T21:20:12Z", "status": "miss", "query": "yang", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-24T21:20:12Z", "status": "hit", "query": "sam hung", "slug": "sam-hung", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:20:13Z", "status": "hit", "query": "jenny wang", "slug": "jenny-wang", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:20:13Z", "status": "hit", "query": "joyce lin", "slug": "joyce-lin", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:20:14Z", "status": "hit", "query": "lee wei wei", "slug": "chia-wei-lee", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:20:15Z", "status": "miss", "query": "xyzzy nonperson", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-24T21:28:23Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:28:25Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-24T21:28:26Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:28:27Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:28:28Z", "status": "miss", "query": "菁英錄 yearbook", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-24T21:28:30Z", "status": "hit", "query": "228 Memorial Concert in NorCal", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:28:31Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-24T21:28:33Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-24T21:30:05Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:30:07Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-24T21:30:08Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:30:09Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:30:10Z", "status": "miss", "query": "菁英錄 yearbook", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-24T21:30:12Z", "status": "hit", "query": "228 Memorial Concert in NorCal", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:30:13Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-24T21:30:15Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-24T21:30:16Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:30:17Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-24T21:30:18Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:30:19Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:30:20Z", "status": "miss", "query": "菁英錄 yearbook", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-24T21:30:22Z", "status": "hit", "query": "228 Memorial Concert in NorCal", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:30:22Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-24T21:30:23Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-24T21:32:29Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:32:30Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-24T21:32:31Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:32:32Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:32:33Z", "status": "miss", "query": "菁英錄 yearbook", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-24T21:32:35Z", "status": "hit", "query": "228 Memorial Concert in NorCal", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:32:36Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-24T21:32:36Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-24T21:33:50Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:43:07Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:43:08Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-24T21:43:09Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:43:11Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:43:12Z", "status": "miss", "query": "菁英錄 yearbook", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-24T21:43:13Z", "status": "hit", "query": "228 Memorial Concert in NorCal", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:43:15Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-24T21:43:16Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-24T21:43:19Z", "status": "hit", "query": "shen bo yang", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:43:21Z", "status": "hit", "query": "puma shen", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-24T21:43:22Z", "status": "hit", "query": "GSTPC", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "cli", "kind": "organization"}
+{"ts": "2026-10-24T21:43:22Z", "status": "hit", "query": "好牧者", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "cli", "kind": "organization"}
+{"ts": "2026-10-24T21:43:23Z", "status": "hit", "query": "台美人歷史協會", "slug": "taiwanese-american-historical-society", "source": "cli", "kind": "organization"}
+{"ts": "2026-10-24T21:43:25Z", "status": "miss", "query": "brian cheng", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-24T21:43:26Z", "status": "miss", "query": "yang", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-24T21:45:36Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:45:37Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-24T21:45:38Z", "status": "hit", "query": "in TAHS", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:45:39Z", "status": "hit", "query": "We went to the 228 memorial", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:45:40Z", "status": "miss", "query": "菁英錄 yearbook", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-24T21:45:41Z", "status": "hit", "query": "228 Memorial Concert in NorCal", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-24T21:45:43Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-24T21:45:44Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}

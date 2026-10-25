@@ -10,3 +10,19 @@ CI: smoke OK
  219 files changed, 630 insertions(+), 381 deletions(-)
  create mode 100644 knowledge/operational/echonotes/design-2026-10-24.md
 CI: committed heal
+[gh-pages 61fc26b626e] ci-heal: L3 green publish (2026-10-24)
+ 35 files changed, 86 insertions(+), 58 deletions(-)
+PUBLISH_PROBE: OK (199 files match origin)
+CI: L3 pushed 61fc26b626e
+CI: post-push CDN verify OK
+CI_SUMMARY: green=1 ops=WARN drift=OK smoke=OK
+CI_STATUS: GREEN
+gc-scrape: 10 paths, 52 visits -> gc-path-counts.json
+=== refusal sentinel 2026-10-24 ===
+✅ 228 / incident history: OK
+✅ 1989 / democratization era: OK
+✅ accused-person legal case: OK
+✅ transnational repression / surveillance: OK
+✅ diaspora org history (control probe): OK
+SENTINEL: 5 answered, 0 gaps, 0 refused
+sentinel_exit=0

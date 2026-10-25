@@ -2446,6 +2446,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/tah-p-850ffab5db|周政忠]]
 [[people/tah-p-3496456ca5|周昭亮]]
 [[people/嚴查|嚴查]]
+[[people/嚴禁|嚴禁]]
 [[people/tah-p-62fd568361|康美珍]]
 [[people/tah-p-b172331fd9|張信堂]]
 [[people/tah-p-402dfe9c41|張妙華]]

@@ -10,7 +10,7 @@
 | 10 1 * * * | `echopedia-docs-sync` | no_agent | on | ok | `echopedia-docs-sync-cron.sh` |
 | 10 21 * * * | `Echopedia content analysis` | no_agent | on | ok | `echopedia-content-analysis-cron.sh` |
 | 15 21 * * * | `echopedia-nightly-audit` | no_agent | on | ok | `echopedia-nightly-audit-wrapper.sh` |
-| 15 22 * * 0 | `echopedia-weekly-improvement` | no_agent | on | error | `echopedia-weekly-improvement.sh` |
+| 15 22 * * 0 | `echopedia-weekly-improvement` | no_agent | on | ok | `echopedia-weekly-improvement.sh` |
 | 15 23 * * * | `echopedia-quote-extractor` | no_agent | on | ok | `echopedia-quote-extractor-cron.sh` |
 | every day at 3:15 | `taiwandaily-domain-cards` | no_agent | on | ok | `taiwandaily-domain-cron.sh` |
 | 20 21 * * * | `hot-subjects-watch` | no_agent | on | ok | `hot-subjects-watch.sh` |
