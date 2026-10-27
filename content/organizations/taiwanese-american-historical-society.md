@@ -7,7 +7,7 @@ tags:
   - TAHS
   - historical-preservation
 verification_status: pending
-last_reviewed: 2026-10-13
+last_reviewed: 2026-10-26
 ---
 
 # Taiwanese American Historical Society (TAHS)
@@ -18,6 +18,7 @@ The **Taiwanese American Historical Society (TAHS)** is an organization dedicate
 - Type: Historical and cultural organization
 - Geography: United States (Taiwanese American diaspora)
 - Mission: Historical preservation, cultural education, community building
+- Registered office: 1910 Kanola Road, La Habra Heights, CA 90631 (owner-provided 2026-10-26; relocated from San Gabriel)
 
 ## Mission and Activities
 TAHS works to:
@@ -71,6 +72,7 @@ Not on the 2025 paper org chart. Owner-confirmed for public leadership listing (
 
 - 2013-12 — Epoch Times (2014-12-15, 柔斯密市報導) at the 年度報告暨會長交接: 「臺美人歷史協會於**2013年12月**正式成立」，第一批成員含楊嘉猷、林水泉、陳榮儒；楊嘉猷交棒鄭炳全。Retrospective (written the same month as 林衡哲's 2014-12-02 「推動成立」 letter) — strengthens but does **not** resolve the held 2013/2014 dating; succession also held (鄭炳全 memoir vs chart note 程炳成 ~2014–2017). [Epoch Times](https://www.epochtimes.com/b5/14/12/15/n4318760.htm)
 - 2024-06 — IRS granted 501(c)(3) exemption, **EIN 46-4005384**, NTEE A80 (Historical Societies), filings under "Taiwanese American Historical Society Inc", San Gabriel CA. In book-facing text use "501(c)(3)" only — no EIN prose, no city, no tax code.
+- 2026-10 — Organization address relocated from San Gabriel to 1910 Kanola Road, La Habra Heights, CA 90631 (owner-provided, president). IRS filing address on record still shows San Gabriel until updated with the IRS.
 
 - 2013 — founding member [[people/zheng-bing-quan||鄭炳全 Zheng Bingquan]]'s own account (旅美五十周年 memoir): 「2013年夏由楊嘉猷出面邀各方賢逹共籌台美人歷史協會 Taiwanese American Historical Society，年底正式成立，他當首任會長，我當副會長，理事廿名，顧問七名，申請非營利組織，次年我接會長」 — i.e. 楊嘉猷 first president, 鄭炳全 vice president, ~20 directors / 7 advisors; 鄭 succeeded as president the following year, with the logo designed by [[people/huang-gen-shen||黃根深]] and the TAhistory.org website by [[people/freeman-huang||黃樹人]]. He records interviewing 三四十位鄉親先賢 over four-five years, hosting 十多場追思會、演講會和展覽會, and publishing 一輯《台美人菁英錄》. [[articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16||taiwanjustice.net, 2025-02-09]] (same memoir text also archived as [[articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3||2024-03-02 republication]]).
   *(**HOLD**: founding date — 鄭炳全's memoir says organized summer 2013 / 「年底正式成立」, while 林衡哲's 2014-12-02 shareholder letter describes 楊嘉猷 as then 「推動成立」 the society in Southern California. Both kept; not merged.)*
@@ -92,6 +94,43 @@ Not on the 2025 paper org chart. Owner-confirmed for public leadership listing (
 ## From the record
 
 - **2025-09-03** *(reported)* — 許景鴻 (Leonard Hsu) 會長就職典禮 held at the 台美人長輩會辦公室, followed by a board meeting; founding president 楊嘉猷 presided and framed the handover as 世代傳承, pledging a focus on collecting, interviewing and publishing 二代/三代 台美人傑出人物紀事 (the society's two 台美人菁英錄 volumes had centered on the first generation); board adopted a 3-year presidential term with officers' terms synchronized, and took up bylaw amendments, finances and work plans; attendees incl. 蔡漢成、劉玲華、李意盛、楊錦忠、沈梓在、蔡淑女、黃樹人; president Hsu said the society would consider staffing Wikipedia entries for outstanding Taiwanese Americans if funding permits — [美洲台灣日報](https://taiwandaily.net/南加社區/97560/)
+
+## Compliance — 501(c)(3) activities & reporting (audited 2026-10-26)
+
+Compiled from IRS/FTB/CA-AG primary sources; cross-checked with a Grok adversarial pass and leginfo spot-checks of the two load-bearing citations (Gov. Code 12583; raffle 90% rule). Statuses below are as of this date; items marked *unverified* still need a live check.
+
+### Designation facts
+- IRS 501(c)(3) determination **2024-06**; EIN 46-4005384; NTEE A80 (Historical Societies); BMF classification **170(b)(1)(A)(vi)** (publicly supported, not a school code) *(unverified — confirm on the determination letter)*. Calendar-year filer.
+
+### What the designation requires (activities side)
+- **No fundraising requirement.** The IRS imposes an operate test (primarily exempt purposes), a bar on private inurement, no more than incidental private benefit, an absolute bar on political campaign intervention, and a limit on lobbying (501(h) election if ever needed).
+- A year of zero fundraising spent building the free public Echopedia archive is **not** an operate-test risk — a free public historical archive reads as educational/charitable (Treas. Reg. 1.501(c)(3)-1(c),(d)); NTEE is a coding label, not a condition.
+- **The real risk is public-charity status, not the operate test.** As a 170(b)(1)(A)(vi) org, TAHS is treated as publicly supported for its **first five tax years** (2024–2028) only if it can reasonably be expected to meet the one-third public-support test (Treas. Reg. 1.170A-9(f)). Standing zero fundraising past ~2029 risks reclassification to private foundation → **990-PF** (not 990-N) and Form 199; filing the postcard when 990-PF is owed does not stop the 3-year revocation clock. A single founder gift counts only up to 2% of total support.
+- Mitigations: board minutes adopting Echopedia as the exempt program and recording it as public (Corp. Code 6320 books duty too); receipts for donated **cash/property** (counts toward both the $50k threshold and the support test); **do not** receipt or count volunteer time (Treas. Reg. 1.170A-1(g)).
+
+### Three independent filing clocks (each can kill something on its own)
+1. **IRS Form 990-N** — due 15th day of 5th month after FY end (**May 15**); no late penalty, no extension; **3 consecutive misses = automatic revocation** effective the 3rd year's due date (IRC 6033(j)). *Filed FY2024 and FY2025 (verified via ProPublica/IRS data). Next: FY2026, due 2027-05-15.*
+2. **FTB Form 199N** (CA e-postcard) — only after FTB grants 23701d exemption (FTB 3500A + federal letter; acceptance is not automatic); 3 consecutive misses revoke the **CA** exemption (FTB Pub. 1068). Until FTB grants it, the corp owes Form 100 + minimum franchise tax. *unverified — confirm FTB status and 199N history.*
+3. **CA AG Registry (RRF-1 + CT-TR-1)** — annual renewal due 4 months 15 days after FY end (**May 15**), required **even at $0 revenue**; fee $25 under $50k total revenue; do not send the 990-N itself. Delinquency can cost the FTB exemption and bars solicitation (11 CCR 312). *unverified — confirm registration/good standing (public search tool was down 2026-10-26 during the Aug-2026 Online Filing Service migration).*
+- Escalation thresholds: 990-N only if receipts are *normally* ≤$50k (3-yr average; $75k in year 1); above that file 990-EZ (allowed under $200k current-year receipts **and** under $500k assets); at/above either cap → full Form 990.
+- The Registry's blanket renewal relief for filings due 2025-01-07 → 2026-08-31 **has closed**; the standing rule applies.
+
+### CA Registry registration — the assumption that was wrong
+- Initial registration (CT-1, $50) is due **within 30 days of first receiving property** — any charitable asset incl. noncash/any contribution of value (Gov. Code 12585); not triggered by mere existence.
+- **There is no small-charity registration exemption** (no <$50k / <50-donor carve-out — small size only cuts the fee and substitutes CT-TR-1).
+- The registration exemptions live in **Gov. Code 12583** (not 12581(e)): government, religious corporation sole / religious-purpose orgs, cemetery corporations, political committees, and orgs *organized and operated primarily as* a religious organization, educational institution, hospital, or licensed HCP. "Educational institution" is narrowed by 11 CCR 300.1 (formal instruction, faculty, curriculum, enrolled student body) — a historical society + wiki fails it, and the IRS/FTB "educational" label does not control. **The Registry decides** exemption on written request; a charity cannot self-declare.
+
+### If a raffle is ever used (Penal Code 320.5)
+- Register with the DOJ Nonprofit Raffle Program (CT-NRP-1) and receive the confirmation letter **before selling tickets** (AG recommends 60 days ahead); annual aggregate report CT-NRP-2 due **Feb 1** for the prior year.
+- **≥90% of GROSS ticket receipts** (not net) per draw must go directly to charitable purposes in CA (Const. art. IV §19(f); Pen. Code 320.5) — only 10% of gross may cover raffle costs.
+- Also required: FTB 23701d exemption (federal letter alone is not enough) and ≥1 year qualified to do business in CA; no internet ticket sales; 50/50 raffles illegal outside the narrow 320.6 sports program; delinquent Registry status → raffle registration denied.
+
+### Other standing duties
+- **Secretary of State Statement of Information** (Form SI-100) biennially — failure suspends the corporation (Corp. Code 2204/2205). *unverified — check bizfile.*
+- **Public inspection** (IRC 6104(d)): determination letter + Form 1023 on request; 3 years of returns.
+- **Donor paper once gifts exist**: contemporaneous acknowledgment ≥$250 (IRC 170(f)(8)), cash-gift records (170(f)(17)), quid-pro-quo disclosure >$75 (IRC 6115).
+- Address change: IRS CP120A-free standing requires updating the IRS filing address after the 2026-10 relocation to La Habra Heights. *unverified.*
+- Pre-2024 history: BMF shows a stray 2013 filing and the 2024-06 ruling; if the corporation existed long before applying, CA minimum tax may have accrued for nonexempt years (IRC 508 makes exemption run from application, not formation). *unverified — confirm formation date on bizfile.*
 
 ## Related archives
 - [[organizations/tah-foundation||TAH Foundation (台美史料中心)]] — sibling organization; runs [taiwaneseamericanhistory.org](https://taiwaneseamericanhistory.org/). Not TAHS and not the 2017/2023 TAHS yearbooks（见 [[sources/2017-tahs-publication||2017 TAHS Publication]]、[[sources/2023-tahs-publication||2023 TAHS Publication]]）.

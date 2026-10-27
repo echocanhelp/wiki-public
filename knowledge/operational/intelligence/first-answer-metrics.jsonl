@@ -1012,3 +1012,82 @@
 {"ts": "2026-10-24T21:45:41Z", "status": "hit", "query": "228 Memorial Concert in NorCal", "slug": "taiwan-228-memorial-association-of-southern-california", "source": "brain", "kind": "organization"}
 {"ts": "2026-10-24T21:45:43Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
 {"ts": "2026-10-24T21:45:44Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-25T19:31:21Z", "status": "miss", "query": "[Hsuperman] English name harmony for echopedia profiles", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-25T19:37:30Z", "status": "hit", "query": "P. F. Yu", "slug": "p-f-yu", "source": "cli", "kind": "person"}
+{"ts": "2026-10-25T19:37:30Z", "status": "hit", "query": "P. F. Yu Name", "slug": "p-f-yu", "source": "cli", "kind": "person"}
+{"ts": "2026-10-25T19:37:31Z", "status": "hit", "query": "喻鵬飛", "slug": "p-f-yu-name", "source": "cli", "kind": "person"}
+{"ts": "2026-10-25T19:37:32Z", "status": "hit", "query": "Harmony Yang", "slug": "harmony-yang", "source": "cli", "kind": "person"}
+{"ts": "2026-10-25T19:37:33Z", "status": "hit", "query": "楊心新", "slug": "harmony-yang", "source": "cli", "kind": "person"}
+{"ts": "2026-10-25T19:38:44Z", "status": "hit", "query": "喻鵬飛", "slug": "p-f-yu", "source": "cli", "kind": "person"}
+{"ts": "2026-10-25T19:38:44Z", "status": "hit", "query": "P. F. Yu Name", "slug": "p-f-yu", "source": "cli", "kind": "person"}
+{"ts": "2026-10-25T19:38:46Z", "status": "hit", "query": "李意盛", "slug": "yi-sen-lee", "source": "cli", "kind": "person"}
+{"ts": "2026-10-25T19:38:46Z", "status": "hit", "query": "li-yisheng", "slug": "yi-sen-lee", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T13:45:04Z", "status": "hit", "query": "沈伯洋", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T13:45:05Z", "status": "miss", "query": "矢板明夫", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:45:06Z", "status": "hit", "query": "黃逸豪", "slug": "黃逸豪", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T13:45:06Z", "status": "miss", "query": "林哲遠", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:45:07Z", "status": "miss", "query": "李坤城", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:45:08Z", "status": "miss", "query": "張雅琳", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:45:10Z", "status": "miss", "query": "王美惠", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:45:25Z", "status": "hit", "query": "黃逸豪", "slug": "黃逸豪", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T13:45:26Z", "status": "miss", "query": "傅崐萁", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:45:27Z", "status": "miss", "query": "蔡明彥", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:49:01Z", "status": "hit", "query": "Lai Ching-te", "slug": "lai-ching-te", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T13:49:02Z", "status": "hit", "query": "賴清德", "slug": "lai-ching-te", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T13:49:03Z", "status": "hit", "query": "Lai Ting-yu", "slug": "lai-ting-yu", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T13:49:03Z", "status": "miss", "query": "賴廷宇", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:49:05Z", "status": "hit", "query": "Wanying Zhang", "slug": "wanying-heather-zhang", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T13:49:06Z", "status": "hit", "query": "Heather Zhang", "slug": "wanying-heather-zhang", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T13:52:04Z", "status": "hit", "query": "沈伯洋", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T13:52:05Z", "status": "miss", "query": "矢板明夫", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:52:06Z", "status": "hit", "query": "黃逸豪", "slug": "黃逸豪", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T13:52:06Z", "status": "hit", "query": "郭昱晴", "slug": "郭昱晴", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T13:52:07Z", "status": "miss", "query": "沈發惠", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:52:08Z", "status": "miss", "query": "徐富癸", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:52:09Z", "status": "miss", "query": "林宜瑾", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:52:10Z", "status": "miss", "query": "黃捷", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:52:11Z", "status": "miss", "query": "王義川", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:52:12Z", "status": "miss", "query": "李坤城", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:52:12Z", "status": "miss", "query": "張雅琳", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:52:14Z", "status": "miss", "query": "王美惠", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:52:15Z", "status": "miss", "query": "陳培瑜", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:52:16Z", "status": "miss", "query": "牛煦庭", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:52:16Z", "status": "miss", "query": "陳世民", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:52:17Z", "status": "miss", "query": "蔡康永", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T13:52:18Z", "status": "miss", "query": "蔣萬安", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T19:56:07Z", "status": "hit", "query": "沈伯洋", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T19:56:08Z", "status": "miss", "query": "矢板明夫", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T19:56:09Z", "status": "hit", "query": "黃逸豪", "slug": "黃逸豪", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T19:56:09Z", "status": "hit", "query": "李明哲", "slug": "李明哲", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T19:56:09Z", "status": "hit", "query": "郭昱晴", "slug": "郭昱晴", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T19:56:10Z", "status": "miss", "query": "林宜瑾", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T19:56:11Z", "status": "miss", "query": "沈發惠", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T19:56:12Z", "status": "miss", "query": "徐富癸", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T19:56:13Z", "status": "miss", "query": "黃捷", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T19:56:14Z", "status": "miss", "query": "王義川", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T19:56:15Z", "status": "miss", "query": "王定宇", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T19:56:16Z", "status": "hit", "query": "李柏毅", "slug": "leland-lee", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T19:56:17Z", "status": "miss", "query": "范雲", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T19:56:17Z", "status": "hit", "query": "卓榮泰", "slug": "卓榮泰", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T19:56:18Z", "status": "miss", "query": "蔡明彥", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T19:56:19Z", "status": "miss", "query": "鄭銘謙", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T19:56:20Z", "status": "miss", "query": "傅崐萁", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T19:56:21Z", "status": "miss", "query": "許宇甄", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T19:56:22Z", "status": "miss", "query": "徐欣瑩", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T19:56:23Z", "status": "hit", "query": "賴清德", "slug": "lai-ching-te", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T20:21:41Z", "status": "hit", "query": "黃逸豪", "slug": "黃逸豪", "source": "cli", "kind": "person"}
+{"ts": "2026-10-26T20:21:42Z", "status": "miss", "query": "黄逸豪", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T20:21:43Z", "status": "miss", "query": "傅崐萁", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T20:21:44Z", "status": "miss", "query": "蔡明彥", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T20:21:45Z", "status": "miss", "query": "謝文哲", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-26T20:21:46Z", "status": "miss", "query": "吳子嘉", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-27T01:16:04Z", "status": "hit", "query": "[Hsuperman] TAHS address is changed, no longer San Gabriel, use my address 1910 Kanola Road, La Habra Hts, CA 90631", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-27T04:00:50Z", "status": "hit", "query": "Ting-Yu Lai", "slug": "lai-ting-yu", "source": "cli", "kind": "person"}
+{"ts": "2026-10-27T04:00:51Z", "status": "miss", "query": "賴廷宇", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-27T04:00:52Z", "status": "hit", "query": "Wanying Zhang", "slug": "wanying-heather-zhang", "source": "cli", "kind": "person"}
+{"ts": "2026-10-27T04:00:53Z", "status": "miss", "query": "張婉瑩", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-27T04:00:54Z", "status": "hit", "query": "Heather Zhang", "slug": "wanying-heather-zhang", "source": "cli", "kind": "person"}
+{"ts": "2026-10-27T04:00:55Z", "status": "miss", "query": "Hsiao Chen", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-27T04:00:57Z", "status": "miss", "query": "Edric Ding", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-27T04:02:08Z", "status": "miss", "query": "Bill Essayli", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-27T05:50:18Z", "status": "hit", "query": "Research online for requirements to chino hills high public school this next school year starting aug/sept 2027, student currently lives in Taiwan and is curren", "slug": "taiwan-hakka-association-for-public-affairs-in-north-america", "source": "cron", "kind": "organization"}

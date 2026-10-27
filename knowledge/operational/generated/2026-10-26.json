@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-26",
+  "total_cards": 9,
+  "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-10-26.json",
+  "priority_counts": {
+    "high": 2,
+    "medium": 5,
+    "low": 2
+  },
+  "playbook_counts": {
+    "P8": 7,
+    "P3": 2
+  },
+  "cards": [
+    {
+      "card_id": "echo-gen-2026-10-26-0001",
+      "title": "[HIGH] tah-p-b5dfddaa1e: Expand the first paragraph to provide a meaningful summary of the page",
+      "body": "## Task: [HIGH] tah-p-b5dfddaa1e: Expand the first paragraph to provide a meaningful summary of the page\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/tah-p-b5dfddaa1e.md`\n**Finding:** `DESC_TOO_SHORT`\n**Score:** 22.5 (inbound links: 10)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/tah-p-b5dfddaa1e.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-26 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Expand the first paragraph to provide a meaningful summary of the page\n**Detail:** First paragraph should be 50+ characters and mention the page subject. Add 1-2 sentences summarizing who/what this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_TOO_SHORT\nPage type: people\nType weight: 1.5\nFinding weight: 1.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/tah-p-b5dfddaa1e.md",
+      "finding": "DESC_TOO_SHORT",
+      "score": 22.5,
+      "target_path": "/home/leedt/echo-system/content/people/tah-p-b5dfddaa1e.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-26-0002",
+      "title": "[HIGH] tah-p-b5dfddaa1e: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] tah-p-b5dfddaa1e: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/tah-p-b5dfddaa1e.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 15.0 (inbound links: 10)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/tah-p-b5dfddaa1e.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-26 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/tah-p-b5dfddaa1e.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 15.0,
+      "target_path": "/home/leedt/echo-system/content/people/tah-p-b5dfddaa1e.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-26-0003",
+      "title": "[MEDIUM] penghu-info: Add ## History section",
+      "body": "## Task: [MEDIUM] penghu-info: Add ## History section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `organizations/penghu-info.md`\n**Finding:** `STRUCT_NO_HISTORY`\n**Score:** 6.5 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/penghu-info.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-26 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## History section\n**Detail:** Add a History section with key dates, milestones, and events. Include dates and brief descriptions.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_HISTORY\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "organizations/penghu-info.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "score": 6.5,
+      "target_path": "/home/leedt/echo-system/content/organizations/penghu-info.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-26-0004",
+      "title": "[MEDIUM] liao-hung-hsiang: Add more wikilinks to related pages",
+      "body": "## Task: [MEDIUM] liao-hung-hsiang: Add more wikilinks to related pages\n\n**Priority:** medium\n**Playbook:** P3\n**Page:** `people/liao-hung-hsiang.md`\n**Finding:** `LINKS_LOW_DENSITY`\n**Score:** 4.5 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/liao-hung-hsiang.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add more wikilinks to related pages\n**Detail:** This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_LOW_DENSITY\nPage type: people\nType weight: 1.5\nFinding weight: 1.5",
+      "priority": "medium",
+      "playbook": "P3",
+      "page": "people/liao-hung-hsiang.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/liao-hung-hsiang.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-26-0005",
+      "title": "[MEDIUM] 嚴禁: Add ## Identity Snapshot section",
+      "body": "## Task: [MEDIUM] 嚴禁: Add ## Identity Snapshot section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/嚴禁.md`\n**Finding:** `STRUCT_NO_IDENTITY`\n**Score:** 4.5 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/嚴禁.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-26 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Identity Snapshot section\n**Detail:** Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_IDENTITY\nPage type: people\nType weight: 1.5\nFinding weight: 3.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/嚴禁.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/嚴禁.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-26-0006",
+      "title": "[MEDIUM] 洪秀柱: Add ## Identity Snapshot section",
+      "body": "## Task: [MEDIUM] 洪秀柱: Add ## Identity Snapshot section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/洪秀柱.md`\n**Finding:** `STRUCT_NO_IDENTITY`\n**Score:** 4.5 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/洪秀柱.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-26 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Identity Snapshot section\n**Detail:** Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_IDENTITY\nPage type: people\nType weight: 1.5\nFinding weight: 3.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/洪秀柱.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/洪秀柱.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-26-0007",
+      "title": "[MEDIUM] 郭昱晴: Add ## Identity Snapshot section",
+      "body": "## Task: [MEDIUM] 郭昱晴: Add ## Identity Snapshot section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/郭昱晴.md`\n**Finding:** `STRUCT_NO_IDENTITY`\n**Score:** 4.5 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/郭昱晴.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-26 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Identity Snapshot section\n**Detail:** Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_IDENTITY\nPage type: people\nType weight: 1.5\nFinding weight: 3.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/郭昱晴.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/郭昱晴.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-26-0008",
+      "title": "[LOW] 嚴禁: Add more wikilinks to related pages",
+      "body": "## Task: [LOW] 嚴禁: Add more wikilinks to related pages\n\n**Priority:** low\n**Playbook:** P3\n**Page:** `people/嚴禁.md`\n**Finding:** `LINKS_LOW_DENSITY`\n**Score:** 2.25 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/嚴禁.md\n3. Find broken wikilinks and repair or redirect\n4. Commit only (no publish)\n\n### Specific Fix\n**Action:** Add more wikilinks to related pages\n**Detail:** This page has low wikilink density. Add [[wikilinks]] to people, organizations, and sources mentioned in the text.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_LOW_DENSITY\nPage type: people\nType weight: 1.5\nFinding weight: 1.5",
+      "priority": "low",
+      "playbook": "P3",
+      "page": "people/嚴禁.md",
+      "finding": "LINKS_LOW_DENSITY",
+      "score": 2.25,
+      "target_path": "/home/leedt/echo-system/content/people/嚴禁.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-26-0009",
+      "title": "[LOW] sc-taiwancenter-org-event-tai-wan-dian-ying-zuo-pie-zi-nu-hai-hao-lai-wu-mian-fe: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [LOW] sc-taiwancenter-org-event-tai-wan-dian-ying-zuo-pie-zi-nu-hai-hao-lai-wu-mian-fe: Ensure the first paragraph mentions the page subject\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `events/sc-taiwancenter-org-event-tai-wan-dian-ying-zuo-pie-zi-nu-hai-hao-lai-wu-mian-fe.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 0.0 (inbound links: 0)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/events/sc-taiwancenter-org-event-tai-wan-dian-ying-zuo-pie-zi-nu-hai-hao-lai-wu-mian-fe.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-26 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: events\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "events/sc-taiwancenter-org-event-tai-wan-dian-ying-zuo-pie-zi-nu-hai-hao-lai-wu-mian-fe.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 0.0,
+      "target_path": "/home/leedt/echo-system/content/events/sc-taiwancenter-org-event-tai-wan-dian-ying-zuo-pie-zi-nu-hai-hao-lai-wu-mian-fe.md"
+    }
+  ]
+}
