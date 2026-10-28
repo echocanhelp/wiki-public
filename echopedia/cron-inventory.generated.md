@@ -1,4 +1,4 @@
-<!-- cron-inventory-meta: count=41 agent=1 bad_deliver=0 -->
+<!-- cron-inventory-meta: count=42 agent=1 bad_deliver=0 -->
 | Schedule | Job | Mode | En | Last | Script |
 |----------|-----|------|----|------|--------|
 | */15 * * * * | `swarm-churn-sweep` | no_agent | on | ok | `swarm-churn-sweep-cron.sh` |
@@ -34,12 +34,13 @@
 | 50 0 * * * | `memory-audit` | no_agent | on | error | `memory-audit.sh` |
 | 50 21 * * * | `echopedia-backlink-auditor` | no_agent | on | ok | `echopedia-backlink-auditor-cron.sh` |
 | 50 22 * * * | `echopedia-interaction-absorb` | no_agent | on | ok | `echopedia-interaction-absorb.py` |
+| 55 21 * * * | `tahs-linkcheck` | no_agent | OFF | — | `tahs-linkcheck-cron.sh` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
 | every 30m | `tier2-absorb` | AGENT | on | ok | `tier2-absorb-queue.py` |
 | every 30m | `tier2-loop-watchdog` | no_agent | on | ok | `tier2-loop-watchdog.py` |
 | every 30m | `unified-watchdog` | no_agent | on | ok | `unified-watchdog.sh` |
 | every 60m | `echopedia-news-scan` | no_agent | on | ok | `echopedia-news-scan.py` |
-| every 60m | `swarm-vitals` | no_agent | on | ok | `swarm-vitals.py` |
+| every 60m | `swarm-vitals` | no_agent | on | error | `swarm-vitals.py` |
 | once in 11m | `albert-caption-livecheck` | no_agent | OFF | ok | `albert-caption-livecheck.sh` |
 | once in 13h | `albert-erratum-livecheck` | no_agent | OFF | ok | `albert-erratum-livecheck.sh` |
 
