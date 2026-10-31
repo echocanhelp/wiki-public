@@ -1,4 +1,4 @@
-## Queue drain — 2026-10-28
+## Queue drain — 2026-10-31
 - Items: **40**
 
 - `people/bai-peiyu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)

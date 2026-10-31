@@ -1091,3 +1091,102 @@
 {"ts": "2026-10-27T04:00:57Z", "status": "miss", "query": "Edric Ding", "slug": null, "source": "cli", "kind": null}
 {"ts": "2026-10-27T04:02:08Z", "status": "miss", "query": "Bill Essayli", "slug": null, "source": "cli", "kind": null}
 {"ts": "2026-10-27T05:50:18Z", "status": "hit", "query": "Research online for requirements to chino hills high public school this next school year starting aug/sept 2027, student currently lives in Taiwan and is curren", "slug": "taiwan-hakka-association-for-public-affairs-in-north-america", "source": "cron", "kind": "organization"}
+{"ts": "2026-10-27T13:13:23Z", "status": "hit", "query": "沈伯洋", "slug": "沈伯洋", "source": "cli", "kind": "person"}
+{"ts": "2026-10-27T13:13:24Z", "status": "hit", "query": "黃逸豪", "slug": "黃逸豪", "source": "cli", "kind": "person"}
+{"ts": "2026-10-27T13:13:25Z", "status": "miss", "query": "吴思瑶", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-27T13:13:26Z", "status": "miss", "query": "吳思瑤", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-27T13:13:27Z", "status": "hit", "query": "邱垂正", "slug": "邱垂正", "source": "cli", "kind": "person"}
+{"ts": "2026-10-27T13:13:27Z", "status": "hit", "query": "卓榮泰", "slug": "卓榮泰", "source": "cli", "kind": "person"}
+{"ts": "2026-10-27T13:13:28Z", "status": "miss", "query": "蔡康永", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-27T13:13:29Z", "status": "miss", "query": "周子瑜", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-27T13:13:30Z", "status": "miss", "query": "刘世芳", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-27T13:13:31Z", "status": "miss", "query": "劉世芳", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-27T13:13:32Z", "status": "hit", "query": "賴清德", "slug": "lai-ching-te", "source": "cli", "kind": "person"}
+{"ts": "2026-10-27T13:15:09Z", "status": "hit", "query": "黃逸豪", "slug": "黃逸豪", "source": "cli", "kind": "person"}
+{"ts": "2026-10-27T13:15:10Z", "status": "hit", "query": "林佳龍", "slug": "lin-jialong", "source": "cli", "kind": "person"}
+{"ts": "2026-10-27T13:15:12Z", "status": "hit", "query": "賴清德", "slug": "lai-ching-te", "source": "cli", "kind": "person"}
+{"ts": "2026-10-27T18:17:55Z", "status": "miss", "query": "[Hsuperman] make echopedia.tah-society.org point to the right place", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-27T19:33:43Z", "status": "miss", "query": "[Hsuperman] echopedia news search output, move that to this channel", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-27T20:40:40Z", "status": "hit", "query": "黃逸豪", "slug": "黃逸豪", "source": "cli", "kind": "person"}
+{"ts": "2026-10-27T20:40:41Z", "status": "hit", "query": "Huang Yi-hao", "slug": "yi-fang-huang", "source": "cli", "kind": "person"}
+{"ts": "2026-10-27T20:40:43Z", "status": "hit", "query": "林佳龍", "slug": "lin-jialong", "source": "cli", "kind": "person"}
+{"ts": "2026-10-27T20:40:44Z", "status": "hit", "query": "賴清德", "slug": "lai-ching-te", "source": "cli", "kind": "person"}
+{"ts": "2026-10-29T06:14:52Z", "status": "hit", "query": "Wanying Zhang", "slug": "wanying-heather-zhang", "source": "cli", "kind": "person"}
+{"ts": "2026-10-29T06:14:53Z", "status": "hit", "query": "Heather Zhang", "slug": "wanying-heather-zhang", "source": "cli", "kind": "person"}
+{"ts": "2026-10-29T06:14:54Z", "status": "miss", "query": "Edric Ding", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-29T06:14:56Z", "status": "miss", "query": "Fatai Miao", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-29T06:14:57Z", "status": "hit", "query": "Ting-Yu Lai", "slug": "lai-ting-yu", "source": "cli", "kind": "person"}
+{"ts": "2026-10-29T06:14:58Z", "status": "hit", "query": "Lai Ting-yu", "slug": "lai-ting-yu", "source": "cli", "kind": "person"}
+{"ts": "2026-10-29T06:14:59Z", "status": "miss", "query": "賴廷宇", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-29T06:16:54Z", "status": "miss", "query": "Joe Taglieri", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-29T15:42:38Z", "status": "miss", "query": "翁履中", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-29T15:42:39Z", "status": "miss", "query": "Brett Guthrie", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-29T15:42:40Z", "status": "miss", "query": "Frank Pallone", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-29T15:42:42Z", "status": "miss", "query": "Scott Bessent", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-29T15:42:43Z", "status": "miss", "query": "貝森特", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-30T04:04:33Z", "status": "miss", "query": "李穎", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-30T04:04:34Z", "status": "hit", "query": "Li Ying", "slug": "li-ying-shang", "source": "cli", "kind": "person"}
+{"ts": "2026-10-30T08:03:55Z", "status": "miss", "query": "民間司改會", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-30T15:22:41Z", "status": "hit", "query": "puma shen", "slug": "沈伯洋", "source": "brain", "kind": "person"}
+{"ts": "2026-10-30T17:04:39Z", "status": "hit", "query": "Albert S. Lai Toward a Community of Hope foreword thesis original audience", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-30T17:04:41Z", "status": "hit", "query": "Ahhee Hsu 許丕龍 birth year Leonard Hsu father", "slug": "ahhee-hsu", "source": "brain", "kind": "person"}
+{"ts": "2026-10-30T17:52:49Z", "status": "hit", "query": "[Hsuperman] TAHS is meant to be a co-publisher of this book through the efforts of the audio book production and my involvement, does that change things", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-30T17:53:00Z", "status": "hit", "query": "Toward a Community of Hope co-publisher TAHS title page audiobook", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-30T19:28:59Z", "status": "miss", "query": "林亭欣", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-30T19:29:02Z", "status": "hit", "query": "Phoenix Ko", "slug": "phoenix-ko", "source": "cli", "kind": "person"}
+{"ts": "2026-10-30T19:29:04Z", "status": "hit", "query": "鄭炳全", "slug": "zheng-bing-quan", "source": "cli", "kind": "person"}
+{"ts": "2026-10-30T19:29:12Z", "status": "miss", "query": "林亭欣", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-30T23:15:44Z", "status": "hit", "query": "[Hsuperman] Review ee soul , persona and interaction logic, confirm echopedia first lookup working properly, review conversation flow", "slug": "southern-california-alumni-association-of-tainan-first-senior-high-sch", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-30T23:16:10Z", "status": "hit", "query": "Southern California Alumni Association of Tainan First Senior High School", "slug": "southern-california-alumni-association-of-tainan-first-senior-high-sch", "source": "line", "kind": "organization"}
+{"ts": "2026-10-30T23:16:16Z", "status": "hit", "query": "Southern California Alumni Association of Tainan First Senior High School", "slug": "southern-california-alumni-association-of-tainan-first-senior-high-sch", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-30T23:16:28Z", "status": "hit", "query": "Toward a Community of Hope", "slug": "albert-zh-sku-b-publisher-review", "source": "brain", "kind": "person"}
+{"ts": "2026-10-30T23:16:29Z", "status": "miss", "query": "台南一中", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-30T23:16:30Z", "status": "hit", "query": "AATFHSSCA", "slug": "southern-california-alumni-association-of-tainan-first-senior-high-sch", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-30T23:16:32Z", "status": "hit", "query": "albert lai audiobook", "slug": "albert-chapter1-zh-review-v2", "source": "brain", "kind": "person"}
+{"ts": "2026-10-30T23:16:33Z", "status": "hit", "query": "the alumni association", "slug": "joint-chinese-university-alumni-association-of-southern-california", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-30T23:16:49Z", "status": "miss", "query": "台南一中", "slug": null, "source": "line", "kind": null}
+{"ts": "2026-10-30T23:16:50Z", "status": "miss", "query": "我想說南加州台南一中校友會", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-30T23:16:59Z", "status": "miss", "query": "我想說南加州台南一中校友會", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-30T23:18:02Z", "status": "hit", "query": "Toward a Community of Hope", "slug": "albert-zh-sku-b-publisher-review", "source": "brain", "kind": "person"}
+{"ts": "2026-10-30T23:18:03Z", "status": "hit", "query": "Southern California Alumni Association of Tainan First Senior High School", "slug": "southern-california-alumni-association-of-tainan-first-senior-high-sch", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-30T23:18:04Z", "status": "hit", "query": "audiobook publisher review", "slug": "albert-zh-sku-b-publisher-review", "source": "brain", "kind": "person"}
+{"ts": "2026-10-30T23:18:05Z", "status": "hit", "query": "台南一中", "slug": "southern-california-alumni-association-of-tainan-first-senior-high-sch", "source": "line", "kind": "organization"}
+{"ts": "2026-10-30T23:18:13Z", "status": "miss", "query": "我想說南加州台南一中校友會", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-30T23:18:14Z", "status": "miss", "query": "你好", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-30T23:23:33Z", "status": "hit", "query": "Toward a Community of Hope", "slug": "albert-zh-sku-b-publisher-review", "source": "brain", "kind": "person"}
+{"ts": "2026-10-30T23:23:34Z", "status": "hit", "query": "Southern California Alumni Association of Tainan First Senior High School", "slug": "southern-california-alumni-association-of-tainan-first-senior-high-sch", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-30T23:23:35Z", "status": "hit", "query": "audiobook publisher review", "slug": "albert-zh-sku-b-publisher-review", "source": "brain", "kind": "person"}
+{"ts": "2026-10-30T23:23:36Z", "status": "hit", "query": "台南一中", "slug": "southern-california-alumni-association-of-tainan-first-senior-high-sch", "source": "line", "kind": "organization"}
+{"ts": "2026-10-30T23:23:37Z", "status": "miss", "query": "你好", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-30T23:23:38Z", "status": "miss", "query": "我想說南加州台南一中校友會", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-30T23:24:27Z", "status": "miss", "query": "Evening", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-30T23:24:58Z", "status": "hit", "query": "Yes thats me", "slug": "yes-plaza", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-30T23:25:27Z", "status": "miss", "query": "Yes that was our family restaurant", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-30T23:28:26Z", "status": "miss", "query": "My 5th Uncle Eugene and my 2nd aunt Wen was taking care of the restaurant when I was younger, before my mom took over", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-30T23:33:04Z", "status": "hit", "query": "The genre of food didnt change, the crowd did.  Although I do recall seeing less of the steamer single serving of soups", "slug": "albert-zh-sku-b-publisher-review", "source": "brain", "kind": "person"}
+{"ts": "2026-10-30T23:33:36Z", "status": "miss", "query": "Next topic please", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-30T23:34:13Z", "status": "miss", "query": "What would interest you most about me", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-30T23:43:35Z", "status": "miss", "query": "Good Morning", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-30T23:43:36Z", "status": "miss", "query": "早安", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-30T23:43:37Z", "status": "miss", "query": "誰是牧谷", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-30T23:43:38Z", "status": "miss", "query": "Good Morning", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-30T23:43:39Z", "status": "hit", "query": "那天我在 GSTPC 幫忙", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-30T23:43:40Z", "status": "hit", "query": "the church in Monterey Park", "slug": "good-shepherd-taiwanese-presbyterian-church", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-30T23:43:41Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-30T23:43:43Z", "status": "hit", "query": "Albert Lai", "slug": "albert-s-lai", "source": "brain", "kind": "person"}
+{"ts": "2026-10-30T23:43:44Z", "status": "miss", "query": "Good Morning", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-30T23:44:09Z", "status": "miss", "query": "你好", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-31T00:14:16Z", "status": "miss", "query": "Hello", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-31T00:14:17Z", "status": "miss", "query": "你好", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-31T00:14:23Z", "status": "miss", "query": "Hello", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-31T01:04:46Z", "status": "miss", "query": "@Echo許 AI助理 add it please and tell me when done", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-31T01:07:54Z", "status": "miss", "query": "@Echo許 AI助理 finish job", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-31T01:22:47Z", "status": "miss", "query": "@Echo許 AI助理 verification errored out, confirm your values", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-31T01:27:25Z", "status": "miss", "query": "@Echo許 AI助理 txt record value should be google-site-verification=W8zPk8wOwvc0tG5Dp0swM6PQ3ogcUYWQQHnA-DwNov0", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-31T01:35:20Z", "status": "miss", "query": "@Echo許 AI助理 check resource link code", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-31T01:48:07Z", "status": "miss", "query": "@Echo許 AI助理 verify how many free emails we get with google, if only 1 then is there another larger provider that gives more free emails to non profits", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-31T04:10:36Z", "status": "miss", "query": "Mike Lefever", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T04:10:37Z", "status": "miss", "query": "Lefever", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T04:10:38Z", "status": "hit", "query": "Neal Burnette", "slug": "kim-wang-neal", "source": "cli", "kind": "person"}
+{"ts": "2026-10-31T04:10:40Z", "status": "miss", "query": "Grains and Bioproducts Colorado", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T04:10:41Z", "status": "miss", "query": "乙醇", "slug": null, "source": "cli", "kind": null}

@@ -576,9 +576,9 @@ bash /home/leedt/.hermes/scripts/echopedia-ci-heal.sh --dry-run
 | `echopedia-content-analyzer.py` | `~/.hermes/scripts/` | Stage 2: Filter — apply deterministic rules to find actionable content gaps |
 | `echopedia-extract-actions.py` | `~/.hermes/scripts/` | Stage 3: Map finding types to specific remediation actions |
 | `echopedia-evaluate-actions.py` | `~/.hermes/scripts/` | Stage 4: Score actions by user impact (inbound links × type × severity) |
-| `echopedia-generate-cards.py` | `~/.hermes/scripts/` | Stage 5: Generate structured kanban task cards from evaluated actions |
-| `echopedia-review-gate.py` | `~/.hermes/scripts/` | Stage 6: Summarize generated cards for daily human review |
-| `echopedia-weekly-improvement.sh` | `~/.hermes/scripts/` | Stage 6: Daily review gate + improvement pack + drain + ci-heal |
+| `echopedia-generate-cards.py` | `~/.hermes/scripts/` | Stage 5: cards from evaluated actions. Heading/date findings are not cards. |
+| `echopedia-heading-heal.py` | `~/.hermes/scripts/` | Inserts Identity Snapshot / Archive Statistics from facts already on the page. Does not stamp last_reviewed. |
+| `echopedia-weekly-improvement.sh` | `~/.hermes/scripts/` | Weekly pack. No human review stage. |
 
 ---
 

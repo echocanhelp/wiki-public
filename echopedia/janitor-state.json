@@ -1,36 +1,8 @@
 {
   "version": 1,
-  "last_run": "2026-10-26",
+  "last_run": "2026-10-30",
   "standards_version_seen": 10,
   "runs": [
-    {
-      "date": "2026-09-27",
-      "candidates": 199,
-      "selected": 40,
-      "standards_version": 10,
-      "standards_bumped": false
-    },
-    {
-      "date": "2026-09-28",
-      "candidates": 198,
-      "selected": 40,
-      "standards_version": 10,
-      "standards_bumped": false
-    },
-    {
-      "date": "2026-09-29",
-      "candidates": 198,
-      "selected": 40,
-      "standards_version": 10,
-      "standards_bumped": false
-    },
-    {
-      "date": "2026-09-30",
-      "candidates": 198,
-      "selected": 40,
-      "standards_version": 10,
-      "standards_bumped": false
-    },
     {
       "date": "2026-10-01",
       "candidates": 196,
@@ -209,6 +181,34 @@
     {
       "date": "2026-10-26",
       "candidates": 303,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-10-27",
+      "candidates": 310,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-10-28",
+      "candidates": 319,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-10-29",
+      "candidates": 330,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-10-30",
+      "candidates": 333,
       "selected": 40,
       "standards_version": 10,
       "standards_bumped": false
@@ -780,26 +780,10 @@
       ]
     },
     {
-      "path": "events/sc-taiwancenter-org-event-tai-wan-dian-ying-zuo-pie-zi-nu-hai-hao-lai-wu-mian-fe.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "organizations/penghu-info.md",
+      "path": "people/_quarantine/卓榮泰指.md",
       "findings": [
         "LINKS_NO_RELATED",
-        "STRUCT_NO_HISTORY",
+        "STRUCT_NO_IDENTITY",
         "STRUCT_NO_RELATED"
       ],
       "hygiene": [],
@@ -813,12 +797,131 @@
       "priority": "medium"
     },
     {
-      "path": "people/liao-hung-hsiang.md",
+      "path": "people/_quarantine/卓榮泰說.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "people/tom-lee.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "people/李老師.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "people/蔡康永.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "people/藍白.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "people/賴總統.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "sources/cna-taipei-ballot-number-2026-10-27.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_STATS"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "sources/gvm-134150-us-midterms-2026-10-29.md",
       "findings": [
         "LINKS_LOW_DENSITY",
         "LINKS_NO_RELATED",
-        "STRUCT_NO_RELATED",
-        "READABILITY_LONG_SENTENCES_36wps"
+        "STRUCT_NO_STATS"
       ],
       "hygiene": [],
       "instructions": [
@@ -831,79 +934,11 @@
       "priority": "medium"
     },
     {
-      "path": "people/tah-p-b5dfddaa1e.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/tsai-wen-hui.md",
-      "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_RELATED",
-        "READABILITY_MANY_LONG_SENTENCES_6"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/嚴禁.md",
+      "path": "sources/zhwp-huai-en-tsai.md",
       "findings": [
         "LINKS_LOW_DENSITY",
         "LINKS_NO_RELATED",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/洪秀柱.md",
-      "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/郭昱晴.md",
-      "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
+        "STRUCT_NO_STATS"
       ],
       "hygiene": [],
       "instructions": [
@@ -916,7 +951,7 @@
       "priority": "medium"
     }
   ],
-  "last_candidates": 303,
+  "last_candidates": 333,
   "last_selected": [
     "people/bai-peiyu.md",
     "people/nanfang-shuo.md",

@@ -107,3 +107,21 @@
 {"id": "gap_a4623d0235", "ts": "2026-10-27T04:00:55Z", "status": "open", "query": "Hsiao Chen", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "Hsiao Chen"}
 {"id": "gap_3a55bdb526", "ts": "2026-10-27T04:00:57Z", "status": "open", "query": "Edric Ding", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "Edric Ding"}
 {"id": "gap_e965055bd5", "ts": "2026-10-27T04:02:08Z", "status": "open", "query": "Bill Essayli", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "Bill Essayli"}
+{"id": "gap_153d788d22", "ts": "2026-10-27T13:13:25Z", "status": "open", "query": "吴思瑶", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "吴思瑶"}
+{"id": "gap_25c05769ab", "ts": "2026-10-27T13:13:26Z", "status": "open", "query": "吳思瑤", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "吳思瑤"}
+{"id": "gap_56e629e430", "ts": "2026-10-27T13:13:28Z", "status": "open", "query": "蔡康永", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "蔡康永"}
+{"id": "gap_749e6ee6dd", "ts": "2026-10-27T13:13:29Z", "status": "open", "query": "周子瑜", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "周子瑜"}
+{"id": "gap_143d88d982", "ts": "2026-10-27T13:13:30Z", "status": "open", "query": "刘世芳", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "刘世芳"}
+{"id": "gap_537d358aef", "ts": "2026-10-27T13:13:31Z", "status": "open", "query": "劉世芳", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "劉世芳"}
+{"id": "gap_93a8135785", "ts": "2026-10-29T06:14:54Z", "status": "open", "query": "Edric Ding", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "Edric Ding"}
+{"id": "gap_5dee93528a", "ts": "2026-10-29T06:14:56Z", "status": "open", "query": "Fatai Miao", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "Fatai Miao"}
+{"id": "gap_1e7df74928", "ts": "2026-10-29T06:14:59Z", "status": "open", "query": "賴廷宇", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "賴廷宇"}
+{"id": "gap_44147789a8", "ts": "2026-10-29T06:16:54Z", "status": "open", "query": "Joe Taglieri", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "Joe Taglieri"}
+{"id": "gap_0d63810279", "ts": "2026-10-29T15:42:38Z", "status": "open", "query": "翁履中", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "翁履中"}
+{"id": "gap_115843328d", "ts": "2026-10-29T15:42:39Z", "status": "open", "query": "Brett Guthrie", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "Brett Guthrie"}
+{"id": "gap_847130e958", "ts": "2026-10-29T15:42:40Z", "status": "open", "query": "Frank Pallone", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "Frank Pallone"}
+{"id": "gap_5bfe6cb448", "ts": "2026-10-29T15:42:42Z", "status": "open", "query": "Scott Bessent", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "Scott Bessent"}
+{"id": "gap_69211332c4", "ts": "2026-10-29T15:42:43Z", "status": "open", "query": "貝森特", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "貝森特"}
+{"id": "gap_90c03fbf22", "ts": "2026-10-30T04:04:33Z", "status": "open", "query": "李穎", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "李穎"}
+{"id": "gap_691fcaa17f", "ts": "2026-10-30T08:03:55Z", "status": "open", "query": "民間司改會", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "民間司改會"}
+{"id": "gap_bae4aa6334", "ts": "2026-10-30T19:28:59Z", "status": "open", "query": "林亭欣", "source": "cli", "kind": "echopedia_miss", "priority": "backfill", "notes": "", "raw_query": "林亭欣"}

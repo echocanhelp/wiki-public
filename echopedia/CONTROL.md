@@ -90,6 +90,8 @@ someone is accused of an offense is not defamation when it is attributed to the 
 document; recording it *without* attribution is. Silence about a person is not neutrality —
 it is the archive forgetting them, which is the failure this project exists to prevent.
 
+**Publication doctrine (Leonard ruling 2026-10-30).** Anything we collect or see can and may be published. We never promise privacy. The only exception is a privacy request that was explicitly stated, requested, and acknowledged. Absence of consent is not a hold. A manicure (P8) is an editorial step, not a privacy gate. Do not tell a depositor their words will wait for a yes. Owner: this paragraph. Skills cite it; they do not restate a second rule.
+
 **D↔E discriminator (harmonized 2026-10-08).** Both tiers can involve a famous name in the
 news, so the test is not fame and not prominence — it is **whether the community is a party to
 the event**. Tier D is a story *about* someone; Tier E is a story that *happened to us*. A

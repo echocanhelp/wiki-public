@@ -1,49 +1,49 @@
-## Echopedia Janitor — 2026-10-26
+## Echopedia Janitor — 2026-10-30
 - Standards v10
-- Pages with findings: **303**
+- Pages with findings: **333**
 - Queued tonight (max 40): **40**
 - Queue:
-  - `people/bai-peiyu.md` age≈58.2d · NO_IDENTITY_SNAPSHOT
-  - `people/nanfang-shuo.md` age≈58.2d · NO_IDENTITY_SNAPSHOT
-  - `people/sang-pu.md` age≈58.2d · NO_IDENTITY_SNAPSHOT
-  - `people/wang-shufen.md` age≈58.2d · NO_IDENTITY_SNAPSHOT
-  - `people/xia-ming.md` age≈58.2d · NO_IDENTITY_SNAPSHOT
-  - `people/zou-jingwen.md` age≈58.2d · NO_IDENTITY_SNAPSHOT
-  - `people/george-lee.md` age≈47.2d · LINK_BODY_SPARSE
-  - `people/huang-yongcheng.md` age≈47.2d · NO_IDENTITY_SNAPSHOT
-  - `people/kuan-cheng-lu.md` age≈46.2d · LINK_BODY_SPARSE
-  - `people/po-wei-lai.md` age≈46.2d · LINK_BODY_SPARSE
-  - `people/chao-sile.md` age≈25.7d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/deng-shuzhen.md` age≈45.2d · LINK_BODY_SPARSE
-  - `people/林芸.md` age≈24.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/karen-chia-ling-ho.md` age≈44.2d · LINK_BODY_SPARSE
-  - `organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md` age≈43.2d · LINK_BODY_SPARSE
-  - `organizations/global-hakka-un-ngo-applying-committee-un-ngo.md` age≈43.2d · LINK_BODY_SPARSE
-  - `organizations/north-america-pastel-artist-association.md` age≈43.2d · LINK_BODY_SPARSE
-  - `people/mei-li-chen.md` age≈43.2d · LINK_BODY_SPARSE
-  - `people/agnes-hsu.md` age≈43.2d · LINK_BODY_SPARSE
-  - `people/hsien-ann-meng.md` age≈43.2d · LINK_BODY_SPARSE
-  - `people/grace-chung.md` age≈43.2d · LINK_BODY_SPARSE
-  - `people/vera-hui-pin-hsu.md` age≈43.2d · LINK_BODY_SPARSE
-  - `people/dr-min-chin-mary-lee.md` age≈43.2d · LINK_BODY_SPARSE
-  - `people/jerry-jean.md` age≈43.2d · LINK_BODY_SPARSE
-  - `people/zheng-qinren.md` age≈43.2d · NO_IDENTITY_SNAPSHOT
-  - `people/kerina-chang.md` age≈43.2d · LINK_BODY_SPARSE
-  - `people/hanchien-lee.md` age≈43.2d · LINK_BODY_SPARSE
-  - `people/mao-chung-lee.md` age≈43.2d · LINK_BODY_SPARSE
-  - `people/feng-hsu-lee.md` age≈43.2d · LINK_BODY_SPARSE
-  - `organizations/chhong-bi-memorial-fund.md` age≈42.2d · LINK_BODY_SPARSE
-  - `organizations/taiwanese-student-association-for-public-affairs.md` age≈42.2d · LINK_BODY_SPARSE
-  - `people/ching-fen-lin.md` age≈42.2d · LINK_BODY_SPARSE
-  - `people/janice-wong.md` age≈42.2d · LINK_BODY_SPARSE
-  - `people/amanda-shumin-yang.md` age≈42.2d · LINK_BODY_SPARSE
-  - `people/erh-jen-lee.md` age≈42.2d · LINK_BODY_SPARSE
-  - `people/wei-ling-chen.md` age≈42.2d · LINK_BODY_SPARSE
-  - `people/yi-hsin-lin.md` age≈42.2d · LINK_BODY_SPARSE
-  - `people/nancy-jan.md` age≈42.2d · LINK_BODY_SPARSE
-  - `people/shih-peng-chang.md` age≈42.2d · LINK_BODY_SPARSE
-  - `people/eric-teng-kuan-huang.md` age≈42.2d · LINK_BODY_SPARSE
-- Log: `knowledge/operational/janitor-log/2026-10-26.jsonl`
+  - `people/bai-peiyu.md` age≈62.2d · NO_IDENTITY_SNAPSHOT
+  - `people/nanfang-shuo.md` age≈62.2d · NO_IDENTITY_SNAPSHOT
+  - `people/sang-pu.md` age≈62.2d · NO_IDENTITY_SNAPSHOT
+  - `people/wang-shufen.md` age≈62.2d · NO_IDENTITY_SNAPSHOT
+  - `people/xia-ming.md` age≈62.2d · NO_IDENTITY_SNAPSHOT
+  - `people/zou-jingwen.md` age≈62.2d · NO_IDENTITY_SNAPSHOT
+  - `people/george-lee.md` age≈51.2d · LINK_BODY_SPARSE
+  - `people/huang-yongcheng.md` age≈51.2d · NO_IDENTITY_SNAPSHOT
+  - `people/kuan-cheng-lu.md` age≈50.2d · LINK_BODY_SPARSE
+  - `people/po-wei-lai.md` age≈50.2d · LINK_BODY_SPARSE
+  - `people/chao-sile.md` age≈29.7d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/deng-shuzhen.md` age≈49.2d · LINK_BODY_SPARSE
+  - `people/林芸.md` age≈28.9d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
+  - `people/karen-chia-ling-ho.md` age≈48.2d · LINK_BODY_SPARSE
+  - `organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md` age≈47.2d · LINK_BODY_SPARSE
+  - `organizations/global-hakka-un-ngo-applying-committee-un-ngo.md` age≈47.2d · LINK_BODY_SPARSE
+  - `organizations/north-america-pastel-artist-association.md` age≈47.2d · LINK_BODY_SPARSE
+  - `people/mei-li-chen.md` age≈47.2d · LINK_BODY_SPARSE
+  - `people/agnes-hsu.md` age≈47.2d · LINK_BODY_SPARSE
+  - `people/hsien-ann-meng.md` age≈47.2d · LINK_BODY_SPARSE
+  - `people/grace-chung.md` age≈47.2d · LINK_BODY_SPARSE
+  - `people/vera-hui-pin-hsu.md` age≈47.2d · LINK_BODY_SPARSE
+  - `people/dr-min-chin-mary-lee.md` age≈47.2d · LINK_BODY_SPARSE
+  - `people/jerry-jean.md` age≈47.2d · LINK_BODY_SPARSE
+  - `people/zheng-qinren.md` age≈47.2d · NO_IDENTITY_SNAPSHOT
+  - `people/kerina-chang.md` age≈47.2d · LINK_BODY_SPARSE
+  - `people/hanchien-lee.md` age≈47.2d · LINK_BODY_SPARSE
+  - `people/mao-chung-lee.md` age≈47.2d · LINK_BODY_SPARSE
+  - `people/feng-hsu-lee.md` age≈47.2d · LINK_BODY_SPARSE
+  - `organizations/chhong-bi-memorial-fund.md` age≈46.2d · LINK_BODY_SPARSE
+  - `organizations/taiwanese-student-association-for-public-affairs.md` age≈46.2d · LINK_BODY_SPARSE
+  - `people/ching-fen-lin.md` age≈46.2d · LINK_BODY_SPARSE
+  - `people/janice-wong.md` age≈46.2d · LINK_BODY_SPARSE
+  - `people/amanda-shumin-yang.md` age≈46.2d · LINK_BODY_SPARSE
+  - `people/erh-jen-lee.md` age≈46.2d · LINK_BODY_SPARSE
+  - `people/wei-ling-chen.md` age≈46.2d · LINK_BODY_SPARSE
+  - `people/yi-hsin-lin.md` age≈46.2d · LINK_BODY_SPARSE
+  - `people/nancy-jan.md` age≈46.2d · LINK_BODY_SPARSE
+  - `people/shih-peng-chang.md` age≈46.2d · LINK_BODY_SPARSE
+  - `people/eric-teng-kuan-huang.md` age≈46.2d · LINK_BODY_SPARSE
+- Log: `knowledge/operational/janitor-log/2026-10-30.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)
 - First-mention AUTO: **0**
-QC_SUMMARY: pages_added=4 below_threshold=2 — content/organizations/us-taiwan-watch.md, content/people/p-f-yu.md
+QC_SUMMARY: pages_added=1 below_threshold=0

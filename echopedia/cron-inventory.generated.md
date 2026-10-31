@@ -1,4 +1,4 @@
-<!-- cron-inventory-meta: count=42 agent=1 bad_deliver=0 -->
+<!-- cron-inventory-meta: count=43 agent=1 bad_deliver=0 -->
 | Schedule | Job | Mode | En | Last | Script |
 |----------|-----|------|----|------|--------|
 | */15 * * * * | `swarm-churn-sweep` | no_agent | on | ok | `swarm-churn-sweep-cron.sh` |
@@ -7,6 +7,7 @@
 | 0 21 * * 0 | `vault-search-index-rebuild` | no_agent | on | ok | `vault-search-index-rebuild.sh` |
 | 0 22 * * * | `echopedia-extract-actions` | no_agent | on | ok | `echopedia-extract-actions.py` |
 | 0 23 * * * | `echopedia-person-works-linker` | no_agent | on | ok | `echopedia-person-works-linker-cron.sh` |
+| every day at 9am | `echopedia-daily-watchdog` | no_agent | on | ok | `echopedia-daily-watchdog.sh` |
 | 10 1 * * * | `echopedia-docs-sync` | no_agent | on | ok | `echopedia-docs-sync-cron.sh` |
 | 10 21 * * * | `Echopedia content analysis` | no_agent | on | ok | `echopedia-content-analysis-cron.sh` |
 | 15 21 * * * | `echopedia-nightly-audit` | no_agent | on | ok | `echopedia-nightly-audit-wrapper.sh` |
@@ -34,7 +35,7 @@
 | 50 0 * * * | `memory-audit` | no_agent | on | error | `memory-audit.sh` |
 | 50 21 * * * | `echopedia-backlink-auditor` | no_agent | on | ok | `echopedia-backlink-auditor-cron.sh` |
 | 50 22 * * * | `echopedia-interaction-absorb` | no_agent | on | ok | `echopedia-interaction-absorb.py` |
-| 55 21 * * * | `tahs-linkcheck` | no_agent | OFF | — | `tahs-linkcheck-cron.sh` |
+| 55 21 * * * | `tahs-linkcheck` | no_agent | on | ok | `tahs-linkcheck-cron.sh` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
 | every 30m | `tier2-absorb` | AGENT | on | ok | `tier2-absorb-queue.py` |
 | every 30m | `tier2-loop-watchdog` | no_agent | on | ok | `tier2-loop-watchdog.py` |

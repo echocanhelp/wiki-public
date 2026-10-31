@@ -6,6 +6,11 @@ tags:
   - Taiwanese-American
   - Taiwan-Center-group-member
 verification_status: published
+aliases:
+  - 台南一中
+  - 南加州台南一中校友會
+  - 南加州台南一中、台南女中校友會
+  - AATFHSSCA
 last_reviewed: 2026-09-23
 ---
 # Southern California Alumni Association of Tainan First Senior High School and Tainan Girls’ Senior High School(AATFHSSCA)

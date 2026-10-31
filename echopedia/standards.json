@@ -23,7 +23,8 @@
     "content_analysis_quality"
   ],
   "janitor": {
-    "window_local": "01:00-07:30",
+    "window_local": "30 21 * * *",
+    "window_note": "jobs.json is the schedule. Do not move echopedia-janitor back to 01:00-07:30.",
     "max_pages_per_night": 40,
     "max_wall_seconds": 5400,
     "model_provider": "custom:pinto",
@@ -77,11 +78,11 @@
     "require_clean_git_for_push": false,
     "max_broken_links_for_green": 0,
     "smoke_urls": [
-      "https://echocanhelp.github.io/wiki-public/",
-      "https://echocanhelp.github.io/wiki-public/people/albert-s-lai",
-      "https://echocanhelp.github.io/wiki-public/organizations/formosan-presbyterian-church-in-los-angeles",
-      "https://echocanhelp.github.io/wiki-public/organizations/irvine-taiwanese-presbyterian-church",
-      "https://echocanhelp.github.io/wiki-public/sources/toward-a-community-of-hope"
+      "https://echopedia.tah-society.org/",
+      "https://echopedia.tah-society.org/people/albert-s-lai",
+      "https://echopedia.tah-society.org/organizations/formosan-presbyterian-church-in-los-angeles",
+      "https://echopedia.tah-society.org/organizations/irvine-taiwanese-presbyterian-church",
+      "https://echopedia.tah-society.org/sources/toward-a-community-of-hope"
     ],
     "l2_auto_site_design_heal": true,
     "l2_auto_site_design_featured": true,
