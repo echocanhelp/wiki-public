@@ -1,10 +1,10 @@
 {
-  "at": "2026-10-30T15:30:53Z",
+  "at": "2026-11-01T16:30:54Z",
   "cutoff": "2026-08-21T19:22:14Z",
   "ok": true,
-  "visits_since_cutoff": 193,
-  "yesterday_pdt": "2026-10-29",
-  "yesterday_visits": 1,
+  "visits_since_cutoff": 225,
+  "yesterday_pdt": "2026-10-31",
+  "yesterday_visits": 15,
   "top": [
     {
       "count": 22,
@@ -17,6 +17,11 @@
       "title": "Gwhyneth Chen (\u9673\u6bd3\u8944)"
     },
     {
+      "count": 15,
+      "path": "/",
+      "title": "Echopedia"
+    },
+    {
       "count": 13,
       "path": "/wiki-public/people/albert-en-sku-a-scratch-review",
       "title": "Albert EN SKU A audiobook scratch \u2014 full book review"
@@ -25,11 +30,6 @@
       "count": 10,
       "path": "/wiki-public/people/albert-zh-sku-b-publisher-review",
       "title": "Not Found"
-    },
-    {
-      "count": 8,
-      "path": "/wiki-public",
-      "title": "Echopedia"
     }
   ],
   "error": null

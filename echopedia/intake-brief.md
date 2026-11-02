@@ -1,18 +1,18 @@
 ## Intake opportunities
 
 ### Missing pages (wiki cross-ref)
-- `MISSING_PAGE: Foundation Who (type: entity, mentioned 2169x in: people/a-n-liu.md, people/abby-hong.md, people/adam-chang.md (+2166 more))`
 - `MISSING_PAGE: National Taiwan Univ (type: entity, mentioned 326x in: people/a-n-liu.md, people/agnes-wu.md, people/amanda-hsu.md (+323 more))`
-- `MISSING_PAGE: Taiwanese Association (type: entity, mentioned 237x in: organizations/ann-arbor-taiwanese-association.md, organizations/austin-taiwanese-association.md, organizations/clear-lake-taiwanese-association.md (+234 more))`
-- `MISSING_PAGE: Ho Chie (type: entity, mentioned 171x in: people/ho-chie-tsai.md, works/taiwaneseamerican-org/13686.md, works/taiwaneseamerican-org/a-c-span-video-taiwan-the-threatened-democracy.md (+168 more))`
-- `MISSING_PAGE: Guest Contributor (type: entity, mentioned 125x in: works/taiwaneseamerican-org/2016-taiwan-gay-pride-parade-in-ny.md, works/taiwaneseamerican-org/a-republic-of-taiwan-chloe-shih.md, works/taiwaneseamerican-org/actor-chris-pang.md (+122 more))`
-- `MISSING_PAGE: Bay Area (type: entity, mentioned 111x in: organizations/senior-taiwanese-association-of-northern-california.md, organizations/taiwanese-american-association-mid-peninsula-taiwanese.md, organizations/taiwanese-american-professionals-san-francisco.md (+108 more))`
-- `MISSING_PAGE: New Jersey (type: entity, mentioned 97x in: organizations/chinese-christian-church-of-new-jersey.md, organizations/formosan-society-for-performing-arts-inc-fospa.md, organizations/fri-philo.md (+94 more))`
-- `MISSING_PAGE: Public Affairs (type: entity, mentioned 91x in: organizations/taiwan-hakka-association-for-public-affairs-in-north-america.md, organizations/taiwanese-american-council.md, organizations/taiwanese-student-association-for-public-affairs.md (+88 more))`
-- `MISSING_PAGE: West Coast (type: entity, mentioned 86x in: organizations/taiwanese-american-industrial-technology-association-taita-east-coast.md, organizations/taiwanese-american-organization-at-uc-davis.md, organizations/taiwanese-american-professionals-san-francisco.md (+83 more))`
-- `MISSING_PAGE: Taiwanese American Professionals (type: entity, mentioned 86x in: organizations/taiwanese-american-professionals-los-angeles.md, people/ho-chie-tsai.md, works/taiwaneseamerican-org/a-personal-discussion-panel-in-sf-on-the-events-of-228-taiwanese-american-perspe.md (+83 more))`
-- `MISSING_PAGE: Taiwanese American Association (type: entity, mentioned 78x in: organizations/taiwanese-american-association-of-arizona.md, organizations/taiwanese-american-association-of-greater-orlando-taago.md, organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley.md (+75 more))`
-- `MISSING_PAGE: Who  Prof (type: entity, mentioned 78x in: people/ching-shui-cheng.md, people/christina-long.md, people/hsian-rong-tseng.md (+75 more))`
+- `MISSING_PAGE: Ho Chie (type: entity, mentioned 189x in: organizations/american-citizens-for-taiwan.md, organizations/democratic-progressive-party.md, organizations/north-america-taiwanese-womens-association.md (+186 more))`
+- `MISSING_PAGE: Taiwan Justice (type: entity, mentioned 96x in: organizations/cornell-taiwanese-american-society.md, organizations/institute-for-taiwanese-studies.md, organizations/irvine-taiwanese-presbyterian-church.md (+93 more))`
+- `MISSING_PAGE: Hong Kong (type: entity, mentioned 91x in: organizations/fapa-los-angeles.md, organizations/taiwanese-association-of-america.md, organizations/taiwanjustice-net.md (+88 more))`
+- `MISSING_PAGE: Northern California (type: entity, mentioned 90x in: organizations/democratic-progressive-party.md, organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca.md, organizations/north-america-taiwanese-womens-association-northern-california-chapter.md (+87 more))`
+- `MISSING_PAGE: San Jose (type: entity, mentioned 79x in: organizations/south-bay-taiwanese-association-of-n-california.md, organizations/south-bay-taiwanese-association-of-s-california.md, organizations/taiwanese-american-center-of-northern-california.md (+76 more))`
+- `MISSING_PAGE: Vice President (type: entity, mentioned 71x in: organizations/irvine-taiwanese-presbyterian-church.md, organizations/north-america-taiwanese-womens-association.md, organizations/taiwanese-american-historical-society.md (+68 more))`
+- `MISSING_PAGE: Taiwanese American Conference (type: entity, mentioned 64x in: organizations/tah-foundation.md, organizations/taiwanese-american-student-association-at-uc-santa-barbara.md, organizations/taiwanese-association-of-america-las-vegas.md (+61 more))`
+- `MISSING_PAGE: 全美台灣人權 (type: organization, mentioned 56x in: organizations/center-for-taiwan-international-relations-ctir.md, organizations/fapa-los-angeles.md, organizations/formosan-association-for-human-rights.md (+53 more))`
+- `MISSING_PAGE: Evangelical Formosan Church (type: entity, mentioned 53x in: organizations/columbia-university-taiwanese-graduate-student-association.md, organizations/evangelical-formosan-church-of-norcal.md, organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md (+50 more))`
+- `MISSING_PAGE: Musical Arts (type: entity, mentioned 49x in: people/agnes-hsu.md, people/amber-liao.md, people/amy-hsieh.md (+46 more))`
+- `MISSING_PAGE: National Taiwan Normal University (type: entity, mentioned 47x in: people/alex-hsuan-yu-lee.md, people/ariel-wei.md, people/butteryfly-chong.md (+44 more))`
 
 - No strong interaction name candidates
 

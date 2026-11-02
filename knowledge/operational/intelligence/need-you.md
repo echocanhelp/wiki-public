@@ -1,18 +1,18 @@
 ## NEED YOU (5/5)
 
-1. **Echopedia miss: “民間司改會”**
+1. **Echopedia miss: “工商時報”**
    → Confirm identity / approve thin page / or dismiss
    _cli_
-2. **Echopedia miss: “李穎”**
+2. **Echopedia miss: “今周刊”**
    → Confirm identity / approve thin page / or dismiss
    _cli_
-3. **Echopedia miss: “貝森特”**
+3. **Echopedia miss: “衛生福利部”**
    → Confirm identity / approve thin page / or dismiss
    _cli_
-4. **Echopedia miss: “Scott Bessent”**
+4. **Echopedia miss: “內政部”**
    → Confirm identity / approve thin page / or dismiss
    _cli_
-5. **Echopedia miss: “Frank Pallone”**
+5. **Echopedia miss: “Rakuten 樂天旅遊”**
    → Confirm identity / approve thin page / or dismiss
    _cli_
 

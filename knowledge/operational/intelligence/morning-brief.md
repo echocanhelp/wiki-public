@@ -1,16 +1,16 @@
-TAHS · Echopedia morning brief — 2026-10-30
+TAHS · Echopedia morning brief — 2026-11-01
 5 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
-🔴 NEED YOU  1. Echopedia miss: “民間司改會”
+🔴 NEED YOU  1. Echopedia miss: “工商時報”
      → Confirm identity / approve thin page / or dismiss
-🔴 NEED YOU  2. Echopedia miss: “李穎”
+🔴 NEED YOU  2. Echopedia miss: “今周刊”
      → Confirm identity / approve thin page / or dismiss
-🔴 NEED YOU  3. Echopedia miss: “貝森特”
+🔴 NEED YOU  3. Echopedia miss: “衛生福利部”
      → Confirm identity / approve thin page / or dismiss
-🔴 NEED YOU  4. Echopedia miss: “Scott Bessent”
+🔴 NEED YOU  4. Echopedia miss: “內政部”
      → Confirm identity / approve thin page / or dismiss
-🔴 NEED YOU  5. Echopedia miss: “Frank Pallone”
+🔴 NEED YOU  5. Echopedia miss: “Rakuten 樂天旅遊”
      → Confirm identity / approve thin page / or dismiss
 
 🟡 QUEUE / identity (soft — no reply required)
@@ -34,7 +34,7 @@ TAHS · Echopedia morning brief — 2026-10-30
 🟡 QUEUE 13 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~20928 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~21598 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/taiwanese-association-of-northwest-los-angeles.md ↔ people/bang-h-hwang.md
@@ -44,11 +44,11 @@ TAHS · Echopedia morning brief — 2026-10-30
 🟡 QUEUE 5. Link tip: organizations/ai-education-foundation.md ↔ organizations/rowland-heights-chinese-association.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 193 visits since cutoff · yday 2026-10-29 = 1 · /people/albert-zh-sku-b-publisher-review.html 22, /people/gwhyneth-chen 16, /people/albert-en-sku-a-scratch
+ℹ️  INFO  wiki 225 visits since cutoff · yday 2026-10-31 = 15 · /people/albert-zh-sku-b-publisher-review.html 22, /people/gwhyneth-chen 16, / 15
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 3030 queued 11 suppressed 2490
+✅ AUTO analyzer scanned 3031 queued 5 suppressed 2513
 🟡 QUEUE janitor HOLD leftover 40
 🟡 QUEUE kanban blocked 8
-🔴 NEED YOU cron fail: memory-audit, swarm-vitals
+🔴 NEED YOU cron fail: memory-audit
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

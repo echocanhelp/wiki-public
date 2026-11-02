@@ -1190,3 +1190,88 @@
 {"ts": "2026-10-31T04:10:38Z", "status": "hit", "query": "Neal Burnette", "slug": "kim-wang-neal", "source": "cli", "kind": "person"}
 {"ts": "2026-10-31T04:10:40Z", "status": "miss", "query": "Grains and Bioproducts Colorado", "slug": null, "source": "cli", "kind": null}
 {"ts": "2026-10-31T04:10:41Z", "status": "miss", "query": "乙醇", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T13:56:51Z", "status": "miss", "query": "賈永婕", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T13:56:52Z", "status": "miss", "query": "贾永婕", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T17:09:19Z", "status": "miss", "query": "explorer redirect loop echopedia resources", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-31T17:38:39Z", "status": "miss", "query": "@Echo許 AI助理 links are bad/stuck for me on edge android browser this was an issue on earlier pages as well, verify", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-31T17:47:33Z", "status": "hit", "query": "@Echo許 AI助理 confirm this issue is resolved for all pages", "slug": "taiwanese-student-association-all-university", "source": "brain", "kind": "organization"}
+{"ts": "2026-10-31T17:48:29Z", "status": "miss", "query": "@Echo許 AI助理 what's the best way to make this right", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-10-31T17:50:12Z", "status": "hit", "query": "[Hsuperman] Check line logs with david lee in group, echopedia page issues need work", "slug": "david-lee", "source": "brain", "kind": "person"}
+{"ts": "2026-10-31T20:22:33Z", "status": "miss", "query": "蔣萬安", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:22:35Z", "status": "miss", "query": "Chiang Wan-an", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:22:37Z", "status": "miss", "query": "Chiang", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:22:37Z", "status": "miss", "query": "Wan-an", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:24:45Z", "status": "miss", "query": "Michael Rubin", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:24:47Z", "status": "miss", "query": "michael-rubin", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:24:48Z", "status": "miss", "query": "Rubin", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:24:49Z", "status": "miss", "query": "Marco Rubio", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:24:50Z", "status": "miss", "query": "Narendra Modi", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:24:51Z", "status": "miss", "query": "Donald Trump", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:24:53Z", "status": "miss", "query": "Middle East Forum", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:24:54Z", "status": "miss", "query": "Usanas", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:24:56Z", "status": "miss", "query": "Henry Kissinger", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:31:13Z", "status": "miss", "query": "陳忠豪", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:31:14Z", "status": "miss", "query": "李維唐", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:31:15Z", "status": "miss", "query": "Rakuten 樂天旅遊", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:33:56Z", "status": "miss", "query": "Michael Rubin", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:33:57Z", "status": "miss", "query": "Marco Rubio", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:33:58Z", "status": "miss", "query": "Narendra Modi", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:34:00Z", "status": "miss", "query": "Donald Trump", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:34:01Z", "status": "miss", "query": "Henry Kissinger", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:34:07Z", "status": "miss", "query": "Michael Rubin", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:34:08Z", "status": "miss", "query": "Marco Rubio", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:34:09Z", "status": "miss", "query": "Narendra Modi", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:34:11Z", "status": "miss", "query": "Donald Trump", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-10-31T20:34:13Z", "status": "miss", "query": "Henry Kissinger", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T04:01:33Z", "status": "miss", "query": "台新AI優息動能", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T04:01:34Z", "status": "miss", "query": "內政部", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T04:01:34Z", "status": "miss", "query": "臺灣IC", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T04:01:35Z", "status": "miss", "query": "台灣龍", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T04:01:35Z", "status": "miss", "query": "衛生福利部", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T04:01:36Z", "status": "miss", "query": "今周刊", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T04:02:11Z", "status": "miss", "query": "內政部", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T04:02:12Z", "status": "miss", "query": "衛生福利部", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T04:02:13Z", "status": "miss", "query": "今周刊", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T04:02:14Z", "status": "miss", "query": "工商時報", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T04:03:28Z", "status": "miss", "query": "Natalie Nakase", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T12:59:11Z", "status": "miss", "query": "孫中山", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T13:16:00Z", "status": "miss", "query": "臺灣IC", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T13:16:00Z", "status": "miss", "query": "台灣龍", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T13:16:02Z", "status": "miss", "query": "AI優息", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T13:16:03Z", "status": "miss", "query": "上週融資動態", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T13:16:04Z", "status": "miss", "query": "富聯網", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T14:41:30Z", "status": "miss", "query": "@Echo許 AI助理 check line subscription, message count and remaining", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-11-01T16:15:10Z", "status": "miss", "query": "@Echo許 AI助理 do you have a method to cancel", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-11-01T20:52:32Z", "status": "miss", "query": "許亞恩", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T20:52:33Z", "status": "miss", "query": "許京華", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-01T20:52:34Z", "status": "miss", "query": "許泉峰", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:01:40Z", "status": "miss", "query": "川普", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:01:42Z", "status": "miss", "query": "Donald Trump", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:01:43Z", "status": "miss", "query": "關稅", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:01:43Z", "status": "miss", "query": "軍購", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:01:44Z", "status": "miss", "query": "期中選舉", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:01:45Z", "status": "miss", "query": "貝森特", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:01:46Z", "status": "miss", "query": "古斯瑞", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:01:48Z", "status": "miss", "query": "帕隆", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:01:49Z", "status": "miss", "query": "翁履中", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:01:50Z", "status": "miss", "query": "善學", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:01:51Z", "status": "miss", "query": "陳方隅", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:01:53Z", "status": "miss", "query": "FAPA", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:01:54Z", "status": "miss", "query": "台灣人公共事務會", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:01:55Z", "status": "miss", "query": "葛瑞", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:01:56Z", "status": "miss", "query": "俞大㵢", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:01:56Z", "status": "hit", "query": "卓榮泰", "slug": "卓榮泰", "source": "cli", "kind": "person"}
+{"ts": "2026-11-02T05:01:57Z", "status": "miss", "query": "鄭麗君", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:01:58Z", "status": "miss", "query": "顧立雄", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:01:59Z", "status": "miss", "query": "廖綉玉", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:02:00Z", "status": "miss", "query": "強生", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:02:01Z", "status": "miss", "query": "蘇利文", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:02:02Z", "status": "miss", "query": "諾多恩", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:02:03Z", "status": "miss", "query": "葛蘭姆", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:02:04Z", "status": "miss", "query": "張建一", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:02:06Z", "status": "miss", "query": "Dan Nystedt", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:02:06Z", "status": "miss", "query": "揭仲", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:03:52Z", "status": "miss", "query": "Shenghua Wen", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:03:53Z", "status": "miss", "query": "向陽號 Sunrich", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:11:38Z", "status": "miss", "query": "王姓船東", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-02T05:11:39Z", "status": "miss", "query": "古川勝久", "slug": null, "source": "cli", "kind": null}

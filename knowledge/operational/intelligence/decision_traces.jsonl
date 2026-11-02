@@ -1170,3 +1170,225 @@
 {"ts": 1793411598.66, "src": "line_pre_llm", "decision": "allow", "text_sha": "e6340a299f3d", "text": "Should be more"}
 {"ts": 1793411598.661, "src": "line_pre_llm", "decision": "allow", "text_sha": "4b1c01b8ac5c", "text": "@Echo許 AI助理 verify how many free emails we get with google, if only 1 then is there another larger provider that gives more free emails to non profits"}
 {"ts": 1793411598.661, "src": "line_pre_llm", "decision": "allow", "text_sha": "ec3c379c7936", "text": "• Maximum User Limit: Google Workspace for Nonprofits supports up to 2,000 user accounts (though new accounts may initially start with a limit of up to 300 users before you can request an increase thr"}
+{"ts": 1793466536.337, "src": "line_pre_llm", "decision": "allow", "text_sha": "eb46378fcb3b", "text": "@Echo許 AI助理 take a look at https://echopedia.tah-society.org, if i click on any links in the explorer section it ends up in a infinite loop and the page does not display, tell me what's causing it "}
+{"ts": 1793466536.34, "src": "line_pre_llm", "decision": "allow", "text_sha": "975151a5a0e0", "text": "I believe Hermes has intergrations too"}
+{"ts": 1793466536.34, "src": "line_pre_llm", "decision": "allow", "text_sha": "2993165e8a58", "text": "You have a grok subscription which you can integrate with your Hermes build too"}
+{"ts": 1793466536.34, "src": "line_pre_llm", "decision": "allow", "text_sha": "b64af01757ac", "text": "Grokbot"}
+{"ts": 1793466536.34, "src": "line_pre_llm", "decision": "allow", "text_sha": "6c524bd0bcf1", "text": ". Cost & Plan Pricing  Registered 501(c)(3) organizations and international equivalents qualify for up to a 75% discount on team workspace subscriptions: • Team Plan (Nonprofit Rate): $8 per user / mo"}
+{"ts": 1793466536.34, "src": "line_pre_llm", "decision": "allow", "text_sha": "990544a5feae", "text": "I’d pay the $8 a month for Claude"}
+{"ts": 1793466536.34, "src": "line_pre_llm", "decision": "allow", "text_sha": "203eba8636d0", "text": "Dayam I just renewed $300 for grok, maybe I can cancel"}
+{"ts": 1793466536.34, "src": "line_pre_llm", "decision": "allow", "text_sha": "cb88c52819a7", "text": "Doubt they will give you refund"}
+{"ts": 1793466536.34, "src": "line_pre_llm", "decision": "allow", "text_sha": "e271203f4197", "text": "Try out grokbot it’s pretty cool"}
+{"ts": 1793466536.34, "src": "line_pre_llm", "decision": "allow", "text_sha": "68c63fc6a76a", "text": "You can apply with your email"}
+{"ts": 1793466536.341, "src": "line_pre_llm", "decision": "allow", "text_sha": "7f0ee181cea0", "text": "Your name is on website roster"}
+{"ts": 1793466536.341, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1793466536.341, "src": "line_pre_llm", "decision": "allow", "text_sha": "7ab5eb9aced1", "text": "Dayam"}
+{"ts": 1793466536.341, "src": "line_pre_llm", "decision": "allow", "text_sha": "54bd2949ce33", "text": "I am a somebody now"}
+{"ts": 1793466536.341, "src": "line_pre_llm", "decision": "allow", "text_sha": "5d448efe1581", "text": "Its offieseeal"}
+{"ts": 1793466536.341, "src": "line_pre_llm", "decision": "allow", "text_sha": "7fd79aafae22", "text": "When echo is done with the current task. Ask it to look into and QA the encyclopedia section on the website resources for example is stuck in a loop"}
+{"ts": 1793466536.341, "src": "line_pre_llm", "decision": "allow", "text_sha": "67686d2e78be", "text": "Prompt it"}
+{"ts": 1793466536.341, "src": "line_pre_llm", "decision": "allow", "text_sha": "55ef887943a7", "text": "Wouldn’t it make it stop what it’s doing?"}
+{"ts": 1793466536.341, "src": "line_pre_llm", "decision": "allow", "text_sha": "176abb51ff81", "text": "No it will append now"}
+{"ts": 1793466536.341, "src": "line_pre_llm", "decision": "allow", "text_sha": "44ad0aee5403", "text": "Updated last week"}
+{"ts": 1793466536.341, "src": "line_pre_llm", "decision": "allow", "text_sha": "41b664ecfbe6", "text": "Subsequent prompts no longer overwrite"}
+{"ts": 1793466536.341, "src": "line_pre_llm", "decision": "allow", "text_sha": "9072de2531eb", "text": "The response time cut down dramatically"}
+{"ts": 1793466536.341, "src": "line_pre_llm", "decision": "allow", "text_sha": "1b9e751adc55", "text": "Its much better at chat now"}
+{"ts": 1793466536.342, "src": "line_pre_llm", "decision": "allow", "text_sha": "d4563d47f03c", "text": "@Echo許 AI助理 When echo is done with the current task. Ask it to look into and QA the encyclopedia section on the website resources for example is stuck in a loop make sure you QA the whole section and "}
+{"ts": 1793466536.342, "src": "line_pre_llm", "decision": "allow", "text_sha": "9aa4b481dd2a", "text": "It redirected"}
+{"ts": 1793466536.342, "src": "line_pre_llm", "decision": "allow", "text_sha": "c0cc84a3f425", "text": "I will process both with minimal interuption"}
+{"ts": 1793466536.342, "src": "line_pre_llm", "decision": "allow", "text_sha": "dbfcd0203483", "text": "@Echo許 AI助理 txt record value should be google-site-verification=W8zPk8wOwvc0tG5Dp0swM6PQ3ogcUYWQQHnA-DwNov0"}
+{"ts": 1793466536.342, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1793466536.342, "src": "line_pre_llm", "decision": "allow", "text_sha": "70c0a41985f1", "text": "I think it overwrite, i guess im wrong"}
+{"ts": 1793466536.342, "src": "line_pre_llm", "decision": "allow", "text_sha": "3192d70717ad", "text": "/btw check Dave's message regarding website resources stuck in a loop"}
+{"ts": 1793466536.342, "src": "line_pre_llm", "decision": "allow", "text_sha": "20af48dcb090", "text": "Do you have a link for the bad page?"}
+{"ts": 1793466536.342, "src": "line_pre_llm", "decision": "allow", "text_sha": "7305e6941237", "text": "https://echopedia.tah-society.org, click on resources"}
+{"ts": 1793466536.342, "src": "line_pre_llm", "decision": "allow", "text_sha": "4c315f0cfa38", "text": "Click on resources"}
+{"ts": 1793466536.342, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f8c87a99ed8", "text": "Other links too"}
+{"ts": 1793466536.342, "src": "line_pre_llm", "decision": "allow", "text_sha": "bf243d9a7b3b", "text": "@Echo許 AI助理 check resource link code"}
+{"ts": 1793466536.343, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1793466536.343, "src": "line_pre_llm", "decision": "allow", "text_sha": "51dc5685240a", "text": "Whats going on, they gave me 1 uswr...."}
+{"ts": 1793466536.343, "src": "line_pre_llm", "decision": "allow", "text_sha": "597f590fc1c3", "text": "Brah you are working echo in adhd mode"}
+{"ts": 1793466536.343, "src": "line_pre_llm", "decision": "allow", "text_sha": "4442234d8872", "text": "I think we only get 1 free email"}
+{"ts": 1793466536.343, "src": "line_pre_llm", "decision": "allow", "text_sha": "e6340a299f3d", "text": "Should be more"}
+{"ts": 1793466536.343, "src": "line_pre_llm", "decision": "allow", "text_sha": "4b1c01b8ac5c", "text": "@Echo許 AI助理 verify how many free emails we get with google, if only 1 then is there another larger provider that gives more free emails to non profits"}
+{"ts": 1793466536.343, "src": "line_pre_llm", "decision": "allow", "text_sha": "ec3c379c7936", "text": "• Maximum User Limit: Google Workspace for Nonprofits supports up to 2,000 user accounts (though new accounts may initially start with a limit of up to 300 users before you can request an increase thr"}
+{"ts": 1793466536.343, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1793466536.343, "src": "line_pre_llm", "decision": "allow", "text_sha": "964909c2a8b6", "text": "Okay got confused"}
+{"ts": 1793466536.343, "src": "line_pre_llm", "decision": "allow", "text_sha": "616c096ba5dd", "text": "I need to request access using the admin account which is still the old Gmail acc"}
+{"ts": 1793466536.343, "src": "line_pre_llm", "decision": "allow", "text_sha": "91e3d3d1ddba", "text": "Have you created your new amount"}
+{"ts": 1793466536.344, "src": "line_pre_llm", "decision": "allow", "text_sha": "7e1b0d5641f2", "text": "Account"}
+{"ts": 1793466536.344, "src": "line_pre_llm", "decision": "allow", "text_sha": "90b5060854bf", "text": "Need time for activation"}
+{"ts": 1793466536.344, "src": "line_pre_llm", "decision": "allow", "text_sha": "fc0222b80ca9", "text": "Even though approved"}
+{"ts": 1793466536.344, "src": "line_pre_llm", "decision": "allow", "text_sha": "36c22ac66d78", "text": "It seems, diff gates"}
+{"ts": 1793468318.914, "src": "line_pre_llm", "decision": "allow", "text_sha": "2993165e8a58", "text": "You have a grok subscription which you can integrate with your Hermes build too"}
+{"ts": 1793468318.914, "src": "line_pre_llm", "decision": "allow", "text_sha": "b64af01757ac", "text": "Grokbot"}
+{"ts": 1793468318.914, "src": "line_pre_llm", "decision": "allow", "text_sha": "6c524bd0bcf1", "text": ". Cost & Plan Pricing  Registered 501(c)(3) organizations and international equivalents qualify for up to a 75% discount on team workspace subscriptions: • Team Plan (Nonprofit Rate): $8 per user / mo"}
+{"ts": 1793468318.914, "src": "line_pre_llm", "decision": "allow", "text_sha": "990544a5feae", "text": "I’d pay the $8 a month for Claude"}
+{"ts": 1793468318.914, "src": "line_pre_llm", "decision": "allow", "text_sha": "203eba8636d0", "text": "Dayam I just renewed $300 for grok, maybe I can cancel"}
+{"ts": 1793468318.915, "src": "line_pre_llm", "decision": "allow", "text_sha": "cb88c52819a7", "text": "Doubt they will give you refund"}
+{"ts": 1793468318.915, "src": "line_pre_llm", "decision": "allow", "text_sha": "e271203f4197", "text": "Try out grokbot it’s pretty cool"}
+{"ts": 1793468318.915, "src": "line_pre_llm", "decision": "allow", "text_sha": "68c63fc6a76a", "text": "You can apply with your email"}
+{"ts": 1793468318.915, "src": "line_pre_llm", "decision": "allow", "text_sha": "7f0ee181cea0", "text": "Your name is on website roster"}
+{"ts": 1793468318.915, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1793468318.915, "src": "line_pre_llm", "decision": "allow", "text_sha": "7ab5eb9aced1", "text": "Dayam"}
+{"ts": 1793468318.915, "src": "line_pre_llm", "decision": "allow", "text_sha": "54bd2949ce33", "text": "I am a somebody now"}
+{"ts": 1793468318.915, "src": "line_pre_llm", "decision": "allow", "text_sha": "5d448efe1581", "text": "Its offieseeal"}
+{"ts": 1793468318.915, "src": "line_pre_llm", "decision": "allow", "text_sha": "7fd79aafae22", "text": "When echo is done with the current task. Ask it to look into and QA the encyclopedia section on the website resources for example is stuck in a loop"}
+{"ts": 1793468318.915, "src": "line_pre_llm", "decision": "allow", "text_sha": "67686d2e78be", "text": "Prompt it"}
+{"ts": 1793468318.915, "src": "line_pre_llm", "decision": "allow", "text_sha": "55ef887943a7", "text": "Wouldn’t it make it stop what it’s doing?"}
+{"ts": 1793468318.916, "src": "line_pre_llm", "decision": "allow", "text_sha": "176abb51ff81", "text": "No it will append now"}
+{"ts": 1793468318.916, "src": "line_pre_llm", "decision": "allow", "text_sha": "44ad0aee5403", "text": "Updated last week"}
+{"ts": 1793468318.916, "src": "line_pre_llm", "decision": "allow", "text_sha": "41b664ecfbe6", "text": "Subsequent prompts no longer overwrite"}
+{"ts": 1793468318.916, "src": "line_pre_llm", "decision": "allow", "text_sha": "9072de2531eb", "text": "The response time cut down dramatically"}
+{"ts": 1793468318.916, "src": "line_pre_llm", "decision": "allow", "text_sha": "1b9e751adc55", "text": "Its much better at chat now"}
+{"ts": 1793468318.916, "src": "line_pre_llm", "decision": "allow", "text_sha": "d4563d47f03c", "text": "@Echo許 AI助理 When echo is done with the current task. Ask it to look into and QA the encyclopedia section on the website resources for example is stuck in a loop make sure you QA the whole section and "}
+{"ts": 1793468318.916, "src": "line_pre_llm", "decision": "allow", "text_sha": "9aa4b481dd2a", "text": "It redirected"}
+{"ts": 1793468318.916, "src": "line_pre_llm", "decision": "allow", "text_sha": "c0cc84a3f425", "text": "I will process both with minimal interuption"}
+{"ts": 1793468318.917, "src": "line_pre_llm", "decision": "allow", "text_sha": "dbfcd0203483", "text": "@Echo許 AI助理 txt record value should be google-site-verification=W8zPk8wOwvc0tG5Dp0swM6PQ3ogcUYWQQHnA-DwNov0"}
+{"ts": 1793468318.917, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1793468318.917, "src": "line_pre_llm", "decision": "allow", "text_sha": "70c0a41985f1", "text": "I think it overwrite, i guess im wrong"}
+{"ts": 1793468318.917, "src": "line_pre_llm", "decision": "allow", "text_sha": "3192d70717ad", "text": "/btw check Dave's message regarding website resources stuck in a loop"}
+{"ts": 1793468318.917, "src": "line_pre_llm", "decision": "allow", "text_sha": "20af48dcb090", "text": "Do you have a link for the bad page?"}
+{"ts": 1793468318.917, "src": "line_pre_llm", "decision": "allow", "text_sha": "7305e6941237", "text": "https://echopedia.tah-society.org, click on resources"}
+{"ts": 1793468318.917, "src": "line_pre_llm", "decision": "allow", "text_sha": "4c315f0cfa38", "text": "Click on resources"}
+{"ts": 1793468318.917, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f8c87a99ed8", "text": "Other links too"}
+{"ts": 1793468318.917, "src": "line_pre_llm", "decision": "allow", "text_sha": "bf243d9a7b3b", "text": "@Echo許 AI助理 check resource link code"}
+{"ts": 1793468318.917, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1793468318.917, "src": "line_pre_llm", "decision": "allow", "text_sha": "51dc5685240a", "text": "Whats going on, they gave me 1 uswr...."}
+{"ts": 1793468318.917, "src": "line_pre_llm", "decision": "allow", "text_sha": "597f590fc1c3", "text": "Brah you are working echo in adhd mode"}
+{"ts": 1793468318.918, "src": "line_pre_llm", "decision": "allow", "text_sha": "4442234d8872", "text": "I think we only get 1 free email"}
+{"ts": 1793468318.918, "src": "line_pre_llm", "decision": "allow", "text_sha": "e6340a299f3d", "text": "Should be more"}
+{"ts": 1793468318.918, "src": "line_pre_llm", "decision": "allow", "text_sha": "4b1c01b8ac5c", "text": "@Echo許 AI助理 verify how many free emails we get with google, if only 1 then is there another larger provider that gives more free emails to non profits"}
+{"ts": 1793468318.918, "src": "line_pre_llm", "decision": "allow", "text_sha": "ec3c379c7936", "text": "• Maximum User Limit: Google Workspace for Nonprofits supports up to 2,000 user accounts (though new accounts may initially start with a limit of up to 300 users before you can request an increase thr"}
+{"ts": 1793468318.918, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1793468318.918, "src": "line_pre_llm", "decision": "allow", "text_sha": "964909c2a8b6", "text": "Okay got confused"}
+{"ts": 1793468318.918, "src": "line_pre_llm", "decision": "allow", "text_sha": "616c096ba5dd", "text": "I need to request access using the admin account which is still the old Gmail acc"}
+{"ts": 1793468318.918, "src": "line_pre_llm", "decision": "allow", "text_sha": "91e3d3d1ddba", "text": "Have you created your new amount"}
+{"ts": 1793468318.918, "src": "line_pre_llm", "decision": "allow", "text_sha": "7e1b0d5641f2", "text": "Account"}
+{"ts": 1793468318.919, "src": "line_pre_llm", "decision": "allow", "text_sha": "90b5060854bf", "text": "Need time for activation"}
+{"ts": 1793468318.919, "src": "line_pre_llm", "decision": "allow", "text_sha": "fc0222b80ca9", "text": "Even though approved"}
+{"ts": 1793468318.919, "src": "line_pre_llm", "decision": "allow", "text_sha": "36c22ac66d78", "text": "It seems, diff gates"}
+{"ts": 1793468318.919, "src": "line_pre_llm", "decision": "allow", "text_sha": "6619587ddd1f", "text": "@Echo許 AI助理 take a look at https://echopedia.tah-society.org, if i click on any links in the explorer section it ends up in a infinite loop and the page does not display, tell me what's causing it"}
+{"ts": 1793468852.656, "src": "line_pre_llm", "decision": "allow", "text_sha": "b64af01757ac", "text": "Grokbot"}
+{"ts": 1793468852.656, "src": "line_pre_llm", "decision": "allow", "text_sha": "6c524bd0bcf1", "text": ". Cost & Plan Pricing  Registered 501(c)(3) organizations and international equivalents qualify for up to a 75% discount on team workspace subscriptions: • Team Plan (Nonprofit Rate): $8 per user / mo"}
+{"ts": 1793468852.656, "src": "line_pre_llm", "decision": "allow", "text_sha": "990544a5feae", "text": "I’d pay the $8 a month for Claude"}
+{"ts": 1793468852.656, "src": "line_pre_llm", "decision": "allow", "text_sha": "203eba8636d0", "text": "Dayam I just renewed $300 for grok, maybe I can cancel"}
+{"ts": 1793468852.657, "src": "line_pre_llm", "decision": "allow", "text_sha": "cb88c52819a7", "text": "Doubt they will give you refund"}
+{"ts": 1793468852.657, "src": "line_pre_llm", "decision": "allow", "text_sha": "e271203f4197", "text": "Try out grokbot it’s pretty cool"}
+{"ts": 1793468852.657, "src": "line_pre_llm", "decision": "allow", "text_sha": "68c63fc6a76a", "text": "You can apply with your email"}
+{"ts": 1793468852.657, "src": "line_pre_llm", "decision": "allow", "text_sha": "7f0ee181cea0", "text": "Your name is on website roster"}
+{"ts": 1793468852.657, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1793468852.657, "src": "line_pre_llm", "decision": "allow", "text_sha": "7ab5eb9aced1", "text": "Dayam"}
+{"ts": 1793468852.657, "src": "line_pre_llm", "decision": "allow", "text_sha": "54bd2949ce33", "text": "I am a somebody now"}
+{"ts": 1793468852.657, "src": "line_pre_llm", "decision": "allow", "text_sha": "5d448efe1581", "text": "Its offieseeal"}
+{"ts": 1793468852.657, "src": "line_pre_llm", "decision": "allow", "text_sha": "7fd79aafae22", "text": "When echo is done with the current task. Ask it to look into and QA the encyclopedia section on the website resources for example is stuck in a loop"}
+{"ts": 1793468852.657, "src": "line_pre_llm", "decision": "allow", "text_sha": "67686d2e78be", "text": "Prompt it"}
+{"ts": 1793468852.657, "src": "line_pre_llm", "decision": "allow", "text_sha": "55ef887943a7", "text": "Wouldn’t it make it stop what it’s doing?"}
+{"ts": 1793468852.657, "src": "line_pre_llm", "decision": "allow", "text_sha": "176abb51ff81", "text": "No it will append now"}
+{"ts": 1793468852.657, "src": "line_pre_llm", "decision": "allow", "text_sha": "44ad0aee5403", "text": "Updated last week"}
+{"ts": 1793468852.657, "src": "line_pre_llm", "decision": "allow", "text_sha": "41b664ecfbe6", "text": "Subsequent prompts no longer overwrite"}
+{"ts": 1793468852.658, "src": "line_pre_llm", "decision": "allow", "text_sha": "9072de2531eb", "text": "The response time cut down dramatically"}
+{"ts": 1793468852.658, "src": "line_pre_llm", "decision": "allow", "text_sha": "1b9e751adc55", "text": "Its much better at chat now"}
+{"ts": 1793468852.658, "src": "line_pre_llm", "decision": "allow", "text_sha": "d4563d47f03c", "text": "@Echo許 AI助理 When echo is done with the current task. Ask it to look into and QA the encyclopedia section on the website resources for example is stuck in a loop make sure you QA the whole section and "}
+{"ts": 1793468852.658, "src": "line_pre_llm", "decision": "allow", "text_sha": "9aa4b481dd2a", "text": "It redirected"}
+{"ts": 1793468852.658, "src": "line_pre_llm", "decision": "allow", "text_sha": "c0cc84a3f425", "text": "I will process both with minimal interuption"}
+{"ts": 1793468852.658, "src": "line_pre_llm", "decision": "allow", "text_sha": "dbfcd0203483", "text": "@Echo許 AI助理 txt record value should be google-site-verification=W8zPk8wOwvc0tG5Dp0swM6PQ3ogcUYWQQHnA-DwNov0"}
+{"ts": 1793468852.658, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1793468852.658, "src": "line_pre_llm", "decision": "allow", "text_sha": "70c0a41985f1", "text": "I think it overwrite, i guess im wrong"}
+{"ts": 1793468852.658, "src": "line_pre_llm", "decision": "allow", "text_sha": "3192d70717ad", "text": "/btw check Dave's message regarding website resources stuck in a loop"}
+{"ts": 1793468852.658, "src": "line_pre_llm", "decision": "allow", "text_sha": "20af48dcb090", "text": "Do you have a link for the bad page?"}
+{"ts": 1793468852.658, "src": "line_pre_llm", "decision": "allow", "text_sha": "7305e6941237", "text": "https://echopedia.tah-society.org, click on resources"}
+{"ts": 1793468852.659, "src": "line_pre_llm", "decision": "allow", "text_sha": "4c315f0cfa38", "text": "Click on resources"}
+{"ts": 1793468852.659, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f8c87a99ed8", "text": "Other links too"}
+{"ts": 1793468852.659, "src": "line_pre_llm", "decision": "allow", "text_sha": "bf243d9a7b3b", "text": "@Echo許 AI助理 check resource link code"}
+{"ts": 1793468852.659, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1793468852.659, "src": "line_pre_llm", "decision": "allow", "text_sha": "51dc5685240a", "text": "Whats going on, they gave me 1 uswr...."}
+{"ts": 1793468852.659, "src": "line_pre_llm", "decision": "allow", "text_sha": "597f590fc1c3", "text": "Brah you are working echo in adhd mode"}
+{"ts": 1793468852.659, "src": "line_pre_llm", "decision": "allow", "text_sha": "4442234d8872", "text": "I think we only get 1 free email"}
+{"ts": 1793468852.659, "src": "line_pre_llm", "decision": "allow", "text_sha": "e6340a299f3d", "text": "Should be more"}
+{"ts": 1793468852.659, "src": "line_pre_llm", "decision": "allow", "text_sha": "4b1c01b8ac5c", "text": "@Echo許 AI助理 verify how many free emails we get with google, if only 1 then is there another larger provider that gives more free emails to non profits"}
+{"ts": 1793468852.659, "src": "line_pre_llm", "decision": "allow", "text_sha": "ec3c379c7936", "text": "• Maximum User Limit: Google Workspace for Nonprofits supports up to 2,000 user accounts (though new accounts may initially start with a limit of up to 300 users before you can request an increase thr"}
+{"ts": 1793468852.659, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1793468852.659, "src": "line_pre_llm", "decision": "allow", "text_sha": "964909c2a8b6", "text": "Okay got confused"}
+{"ts": 1793468852.66, "src": "line_pre_llm", "decision": "allow", "text_sha": "616c096ba5dd", "text": "I need to request access using the admin account which is still the old Gmail acc"}
+{"ts": 1793468852.66, "src": "line_pre_llm", "decision": "allow", "text_sha": "91e3d3d1ddba", "text": "Have you created your new amount"}
+{"ts": 1793468852.66, "src": "line_pre_llm", "decision": "allow", "text_sha": "7e1b0d5641f2", "text": "Account"}
+{"ts": 1793468852.66, "src": "line_pre_llm", "decision": "allow", "text_sha": "90b5060854bf", "text": "Need time for activation"}
+{"ts": 1793468852.66, "src": "line_pre_llm", "decision": "allow", "text_sha": "fc0222b80ca9", "text": "Even though approved"}
+{"ts": 1793468852.66, "src": "line_pre_llm", "decision": "allow", "text_sha": "36c22ac66d78", "text": "It seems, diff gates"}
+{"ts": 1793468852.66, "src": "line_pre_llm", "decision": "allow", "text_sha": "6619587ddd1f", "text": "@Echo許 AI助理 take a look at https://echopedia.tah-society.org, if i click on any links in the explorer section it ends up in a infinite loop and the page does not display, tell me what's causing it"}
+{"ts": 1793468852.66, "src": "line_pre_llm", "decision": "allow", "text_sha": "5d5fb8adccc8", "text": "@Echo許 AI助理 links are bad/stuck for me on edge android browser this was an issue on earlier pages as well, verify"}
+{"ts": 1793468908.662, "src": "line_pre_llm", "decision": "allow", "text_sha": "6c524bd0bcf1", "text": ". Cost & Plan Pricing  Registered 501(c)(3) organizations and international equivalents qualify for up to a 75% discount on team workspace subscriptions: • Team Plan (Nonprofit Rate): $8 per user / mo"}
+{"ts": 1793468908.662, "src": "line_pre_llm", "decision": "allow", "text_sha": "990544a5feae", "text": "I’d pay the $8 a month for Claude"}
+{"ts": 1793468908.662, "src": "line_pre_llm", "decision": "allow", "text_sha": "203eba8636d0", "text": "Dayam I just renewed $300 for grok, maybe I can cancel"}
+{"ts": 1793468908.662, "src": "line_pre_llm", "decision": "allow", "text_sha": "cb88c52819a7", "text": "Doubt they will give you refund"}
+{"ts": 1793468908.662, "src": "line_pre_llm", "decision": "allow", "text_sha": "e271203f4197", "text": "Try out grokbot it’s pretty cool"}
+{"ts": 1793468908.663, "src": "line_pre_llm", "decision": "allow", "text_sha": "68c63fc6a76a", "text": "You can apply with your email"}
+{"ts": 1793468908.663, "src": "line_pre_llm", "decision": "allow", "text_sha": "7f0ee181cea0", "text": "Your name is on website roster"}
+{"ts": 1793468908.663, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1793468908.663, "src": "line_pre_llm", "decision": "allow", "text_sha": "7ab5eb9aced1", "text": "Dayam"}
+{"ts": 1793468908.663, "src": "line_pre_llm", "decision": "allow", "text_sha": "54bd2949ce33", "text": "I am a somebody now"}
+{"ts": 1793468908.663, "src": "line_pre_llm", "decision": "allow", "text_sha": "5d448efe1581", "text": "Its offieseeal"}
+{"ts": 1793468908.663, "src": "line_pre_llm", "decision": "allow", "text_sha": "7fd79aafae22", "text": "When echo is done with the current task. Ask it to look into and QA the encyclopedia section on the website resources for example is stuck in a loop"}
+{"ts": 1793468908.663, "src": "line_pre_llm", "decision": "allow", "text_sha": "67686d2e78be", "text": "Prompt it"}
+{"ts": 1793468908.663, "src": "line_pre_llm", "decision": "allow", "text_sha": "55ef887943a7", "text": "Wouldn’t it make it stop what it’s doing?"}
+{"ts": 1793468908.663, "src": "line_pre_llm", "decision": "allow", "text_sha": "176abb51ff81", "text": "No it will append now"}
+{"ts": 1793468908.663, "src": "line_pre_llm", "decision": "allow", "text_sha": "44ad0aee5403", "text": "Updated last week"}
+{"ts": 1793468908.663, "src": "line_pre_llm", "decision": "allow", "text_sha": "41b664ecfbe6", "text": "Subsequent prompts no longer overwrite"}
+{"ts": 1793468908.664, "src": "line_pre_llm", "decision": "allow", "text_sha": "9072de2531eb", "text": "The response time cut down dramatically"}
+{"ts": 1793468908.664, "src": "line_pre_llm", "decision": "allow", "text_sha": "1b9e751adc55", "text": "Its much better at chat now"}
+{"ts": 1793468908.664, "src": "line_pre_llm", "decision": "allow", "text_sha": "d4563d47f03c", "text": "@Echo許 AI助理 When echo is done with the current task. Ask it to look into and QA the encyclopedia section on the website resources for example is stuck in a loop make sure you QA the whole section and "}
+{"ts": 1793468908.664, "src": "line_pre_llm", "decision": "allow", "text_sha": "9aa4b481dd2a", "text": "It redirected"}
+{"ts": 1793468908.664, "src": "line_pre_llm", "decision": "allow", "text_sha": "c0cc84a3f425", "text": "I will process both with minimal interuption"}
+{"ts": 1793468908.664, "src": "line_pre_llm", "decision": "allow", "text_sha": "dbfcd0203483", "text": "@Echo許 AI助理 txt record value should be google-site-verification=W8zPk8wOwvc0tG5Dp0swM6PQ3ogcUYWQQHnA-DwNov0"}
+{"ts": 1793468908.664, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1793468908.664, "src": "line_pre_llm", "decision": "allow", "text_sha": "70c0a41985f1", "text": "I think it overwrite, i guess im wrong"}
+{"ts": 1793468908.664, "src": "line_pre_llm", "decision": "allow", "text_sha": "3192d70717ad", "text": "/btw check Dave's message regarding website resources stuck in a loop"}
+{"ts": 1793468908.665, "src": "line_pre_llm", "decision": "allow", "text_sha": "20af48dcb090", "text": "Do you have a link for the bad page?"}
+{"ts": 1793468908.665, "src": "line_pre_llm", "decision": "allow", "text_sha": "7305e6941237", "text": "https://echopedia.tah-society.org, click on resources"}
+{"ts": 1793468908.665, "src": "line_pre_llm", "decision": "allow", "text_sha": "4c315f0cfa38", "text": "Click on resources"}
+{"ts": 1793468908.665, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f8c87a99ed8", "text": "Other links too"}
+{"ts": 1793468908.665, "src": "line_pre_llm", "decision": "allow", "text_sha": "bf243d9a7b3b", "text": "@Echo許 AI助理 check resource link code"}
+{"ts": 1793468908.665, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1793468908.665, "src": "line_pre_llm", "decision": "allow", "text_sha": "51dc5685240a", "text": "Whats going on, they gave me 1 uswr...."}
+{"ts": 1793468908.665, "src": "line_pre_llm", "decision": "allow", "text_sha": "597f590fc1c3", "text": "Brah you are working echo in adhd mode"}
+{"ts": 1793468908.665, "src": "line_pre_llm", "decision": "allow", "text_sha": "4442234d8872", "text": "I think we only get 1 free email"}
+{"ts": 1793468908.665, "src": "line_pre_llm", "decision": "allow", "text_sha": "e6340a299f3d", "text": "Should be more"}
+{"ts": 1793468908.666, "src": "line_pre_llm", "decision": "allow", "text_sha": "4b1c01b8ac5c", "text": "@Echo許 AI助理 verify how many free emails we get with google, if only 1 then is there another larger provider that gives more free emails to non profits"}
+{"ts": 1793468908.666, "src": "line_pre_llm", "decision": "allow", "text_sha": "ec3c379c7936", "text": "• Maximum User Limit: Google Workspace for Nonprofits supports up to 2,000 user accounts (though new accounts may initially start with a limit of up to 300 users before you can request an increase thr"}
+{"ts": 1793468908.666, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1793468908.666, "src": "line_pre_llm", "decision": "allow", "text_sha": "964909c2a8b6", "text": "Okay got confused"}
+{"ts": 1793468908.666, "src": "line_pre_llm", "decision": "allow", "text_sha": "616c096ba5dd", "text": "I need to request access using the admin account which is still the old Gmail acc"}
+{"ts": 1793468908.666, "src": "line_pre_llm", "decision": "allow", "text_sha": "91e3d3d1ddba", "text": "Have you created your new amount"}
+{"ts": 1793468908.666, "src": "line_pre_llm", "decision": "allow", "text_sha": "7e1b0d5641f2", "text": "Account"}
+{"ts": 1793468908.666, "src": "line_pre_llm", "decision": "allow", "text_sha": "90b5060854bf", "text": "Need time for activation"}
+{"ts": 1793468908.666, "src": "line_pre_llm", "decision": "allow", "text_sha": "fc0222b80ca9", "text": "Even though approved"}
+{"ts": 1793468908.666, "src": "line_pre_llm", "decision": "allow", "text_sha": "36c22ac66d78", "text": "It seems, diff gates"}
+{"ts": 1793468908.667, "src": "line_pre_llm", "decision": "allow", "text_sha": "6619587ddd1f", "text": "@Echo許 AI助理 take a look at https://echopedia.tah-society.org, if i click on any links in the explorer section it ends up in a infinite loop and the page does not display, tell me what's causing it"}
+{"ts": 1793468908.667, "src": "line_pre_llm", "decision": "allow", "text_sha": "5d5fb8adccc8", "text": "@Echo許 AI助理 links are bad/stuck for me on edge android browser this was an issue on earlier pages as well, verify"}
+{"ts": 1793468908.667, "src": "line_pre_llm", "decision": "allow", "text_sha": "42282eb066e2", "text": "@Echo許 AI助理 confirm this issue is resolved for all pages"}
+{"ts": 1793544088.889, "src": "line_pre_llm", "decision": "allow", "text_sha": "50d099dc62d9", "text": "I need to login your line biz acccount"}
+{"ts": 1793544088.889, "src": "line_pre_llm", "decision": "allow", "text_sha": "52156b3a45be", "text": "I think I might still been getting charged, gotta check"}
+{"ts": 1793544088.889, "src": "line_pre_llm", "decision": "allow", "text_sha": "5c41fe4c8e54", "text": "Ouc"}
+{"ts": 1793549710.064, "src": "line_pre_llm", "decision": "allow", "text_sha": "50d099dc62d9", "text": "I need to login your line biz acccount"}
+{"ts": 1793549710.064, "src": "line_pre_llm", "decision": "allow", "text_sha": "52156b3a45be", "text": "I think I might still been getting charged, gotta check"}
+{"ts": 1793549710.064, "src": "line_pre_llm", "decision": "allow", "text_sha": "5c41fe4c8e54", "text": "Ouc"}
+{"ts": 1793549710.064, "src": "line_pre_llm", "decision": "allow", "text_sha": "6a7712c66175", "text": "@Echo許 AI助理 check line subscription, message count and remaining"}
+{"ts": 1793549710.065, "src": "line_pre_llm", "decision": "allow", "text_sha": "e2758a7f4369", "text": "Your Business ID login code is: 723568"}
+{"ts": 1793549710.065, "src": "line_pre_llm", "decision": "allow", "text_sha": "098e6a2ff43f", "text": "Yeah I think need to login. Looks like Somehow it started the subscription again"}
+{"ts": 1793549710.065, "src": "line_pre_llm", "decision": "allow", "text_sha": "5b4b08d99633", "text": "Need the code through your email in order for me to get in and cancel subscription"}
+{"ts": 1793549710.065, "src": "line_pre_llm", "decision": "allow", "text_sha": "970d5a9c9b2e", "text": "298140"}
+{"ts": 1793549884.049, "src": "line_pre_llm", "decision": "allow", "text_sha": "0f3020c809ab", "text": "[image]"}
+{"ts": 1793549884.05, "src": "line_pre_llm", "decision": "allow", "text_sha": "50d099dc62d9", "text": "I need to login your line biz acccount"}
+{"ts": 1793549884.05, "src": "line_pre_llm", "decision": "allow", "text_sha": "52156b3a45be", "text": "I think I might still been getting charged, gotta check"}
+{"ts": 1793549884.051, "src": "line_pre_llm", "decision": "allow", "text_sha": "5c41fe4c8e54", "text": "Ouc"}
+{"ts": 1793549884.051, "src": "line_pre_llm", "decision": "allow", "text_sha": "6a7712c66175", "text": "@Echo許 AI助理 check line subscription, message count and remaining"}
+{"ts": 1793549884.051, "src": "line_pre_llm", "decision": "allow", "text_sha": "e2758a7f4369", "text": "Your Business ID login code is: 723568"}
+{"ts": 1793549884.051, "src": "line_pre_llm", "decision": "allow", "text_sha": "098e6a2ff43f", "text": "Yeah I think need to login. Looks like Somehow it started the subscription again"}
+{"ts": 1793549884.051, "src": "line_pre_llm", "decision": "allow", "text_sha": "5b4b08d99633", "text": "Need the code through your email in order for me to get in and cancel subscription"}
+{"ts": 1793549884.051, "src": "line_pre_llm", "decision": "allow", "text_sha": "970d5a9c9b2e", "text": "298140"}
+{"ts": 1793549884.051, "src": "line_pre_llm", "decision": "allow", "text_sha": "27fc0731f725", "text": "@Echo許 AI助理 do you have a method to cancel?"}
+{"ts": 1793549884.051, "src": "line_pre_llm", "decision": "allow", "text_sha": "14dafc9ab11d", "text": "Expired need to do it again"}
+{"ts": 1793549884.051, "src": "line_pre_llm", "decision": "allow", "text_sha": "65629a1913d3", "text": "Now please"}
+{"ts": 1793549884.051, "src": "line_pre_llm", "decision": "allow", "text_sha": "11a6767d5674", "text": "Done"}
+{"ts": 1793549884.051, "src": "line_pre_llm", "decision": "allow", "text_sha": "e7e7939d2883", "text": "352658"}

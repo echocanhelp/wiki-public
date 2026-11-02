@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-30T08:30:51.984448",
+  "generated_at": "2026-11-01T08:30:52.363186",
   "pages_scanned": 3038,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 8816,
-    "co_mention_count": 12112,
+    "co_citation_count": 9465,
+    "co_mention_count": 12133,
     "shared_tags_count": 1,
     "orphan_folder_count": 3,
     "kept_co_citation": 80,
@@ -102,7 +102,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens for Taiwan (西雅圖美台會)",
-        "shared_targets_count": 2619
+        "shared_targets_count": 2620
       },
       {
         "type": "CO-CITATION",
@@ -111,7 +111,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
-        "shared_targets_count": 2619
+        "shared_targets_count": 2620
       },
       {
         "type": "CO-CITATION",
@@ -120,7 +120,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "shared_targets_count": 2619
+        "shared_targets_count": 2620
       },
       {
         "type": "CO-CITATION",
@@ -129,7 +129,7 @@
         "shared_target": "organizations/laguna-woods-village-taiwanese-club",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Chang Jung Girls’ High School Alumni Association Southern California",
-        "shared_targets_count": 16
+        "shared_targets_count": 19
       },
       {
         "type": "CO-CITATION",
@@ -138,7 +138,7 @@
         "shared_target": "organizations/laguna-woods-village-taiwanese-club",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Formosa Senior Association",
-        "shared_targets_count": 16
+        "shared_targets_count": 19
       },
       {
         "type": "CO-CITATION",
@@ -147,7 +147,7 @@
         "shared_target": "organizations/laguna-woods-village-taiwanese-club",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Joint Chinese University Alumni Association of Southern California",
-        "shared_targets_count": 16
+        "shared_targets_count": 19
       },
       {
         "type": "CO-CITATION",
@@ -264,7 +264,7 @@
         "shared_target": "sources/taiwandaily-net",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
         "page2_title": "North America Taiwanese Professors' Association Southern California",
-        "shared_targets_count": 88
+        "shared_targets_count": 99
       },
       {
         "type": "CO-CITATION",
@@ -273,16 +273,16 @@
         "shared_target": "sources/taiwandaily-net",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
         "page2_title": "Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)",
-        "shared_targets_count": 88
+        "shared_targets_count": 99
       },
       {
         "type": "CO-CITATION",
         "page1": "organizations/american-chinese-dance-association.md",
-        "page2": "organizations/taiwanese-american-chamber-la.md",
+        "page2": "organizations/taiwanese-american-association-east-san-gabriel-valley.md",
         "shared_target": "sources/taiwandaily-net",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
-        "page2_title": "Taiwanese American Chamber of Commerce of Greater Los Angeles",
-        "shared_targets_count": 88
+        "page2_title": "Taiwanese American Association East San Gabriel Valley (洛杉磯聖東台灣同鄉會)",
+        "shared_targets_count": 99
       },
       {
         "type": "CO-CITATION",
@@ -310,15 +310,6 @@
         "page1_title": "FORUS Foundation (Friends of Rowland Unified Schools)",
         "page2_title": "John Hsu (許惠欽)",
         "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/american-chinese-dance-association.md",
-        "page2": "organizations/taiwanese-american-association-east-san-gabriel-valley.md",
-        "shared_target": "topics/east-san-gabriel-valley",
-        "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
-        "page2_title": "Taiwanese American Association East San Gabriel Valley (洛杉磯聖東台灣同鄉會)",
-        "shared_targets_count": 3
       },
       {
         "type": "CO-CITATION",
@@ -733,6 +724,15 @@
         "page1_title": "Asia Democracy Foundation (民主亞洲基金會)",
         "page2_title": "Taiwanese Association of America (全美台灣同鄉會)",
         "shared_targets_count": 23
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/asia-democracy-foundation.md",
+        "page2": "organizations/overseas-taiwanese-for-democracy.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/our-journeys-381",
+        "page1_title": "Asia Democracy Foundation (民主亞洲基金會)",
+        "page2_title": "Overseas Taiwanese for Democracy (海外台灣青年陣線)",
+        "shared_targets_count": 24
       }
     ],
     "co_mention": [

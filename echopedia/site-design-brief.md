@@ -1,11 +1,15 @@
-## Site design audit — 2026-10-31 00:45
+## Site design audit — 2026-11-01 22:46
 
-- pages_md=15206
-- critical=0 high=0 medium=0
+- pages_md=15208
+- critical=0 high=1 medium=0
 - heals_suggested=none
 
 ### Summary
-- **SITE_DESIGN_STATUS: OK**
+- **SITE_DESIGN_STATUS: ACTION**
+
+### HIGH (1)
+- **A8** Explorer useSavedState not false on homepage (stale localStorage fileTree)
+  - path: `/home/leedt/echo-system/index.html`
 
 ### LOW (1)
 - **C1** spelling signals (sample): 1 `[AGENT_SUGGESTED]`
@@ -19,7 +23,7 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 56
+- **B1** person/org touched ≤7d (rely on recency featured window): 51
   - `people/c-a-chou.md`
   - `people/chen-po-kong.md`
   - `people/chen-zhefu-xu-chunhui.md`

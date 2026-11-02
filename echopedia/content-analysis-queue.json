@@ -1,122 +1,16 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-11-01",
   "standards_version": 10,
-  "total_pages_scanned": 3031,
-  "pages_with_findings": 18,
-  "auto_queued": 10,
+  "total_pages_scanned": 3032,
+  "pages_with_findings": 11,
+  "auto_queued": 3,
   "queue": [
-    {
-      "path": "people/_quarantine/卓榮泰指.md",
-      "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/_quarantine/卓榮泰說.md",
-      "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
     {
       "path": "people/tom-lee.md",
       "findings": [
+        "DESC_NO_TITLE_MENTION",
         "LINKS_NO_RELATED",
-        "STRUCT_NO_IDENTITY",
         "STRUCT_NO_RELATED"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/李老師.md",
-      "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/蔡康永.md",
-      "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/藍白.md",
-      "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/賴總統.md",
-      "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_IDENTITY",
-        "STRUCT_NO_RELATED"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "sources/cna-taipei-ballot-number-2026-10-27.md",
-      "findings": [
-        "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_REVIEW_DATE",
-        "STRUCT_NO_STATS"
       ],
       "priority": "medium",
       "instructions": [
@@ -129,9 +23,8 @@
     {
       "path": "sources/gvm-134150-us-midterms-2026-10-29.md",
       "findings": [
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_STATS"
+        "DESC_TOO_SHORT",
+        "DESC_NO_TITLE_MENTION"
       ],
       "priority": "medium",
       "instructions": [
@@ -142,7 +35,7 @@
       ]
     },
     {
-      "path": "sources/zhwp-huai-en-tsai.md",
+      "path": "sources/zhwp-keng-yuen-tseng.md",
       "findings": [
         "LINKS_LOW_DENSITY",
         "LINKS_NO_RELATED",
@@ -157,6 +50,6 @@
       ]
     }
   ],
-  "suppressed_findings": 2504,
-  "fp_history_entries": 2691
+  "suppressed_findings": 2527,
+  "fp_history_entries": 2694
 }

@@ -15649,7 +15649,9 @@
     "2026-08-23",
     "2026-10-23",
     "2026-10-24",
-    "2026-10-25"
+    "2026-10-25",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "people/tom-thomas-shih.md|DESC_NO_TITLE_MENTION": [
     "2026-08-21",
@@ -17289,18 +17291,6 @@
     "2026-09-06",
     "2026-09-07"
   ],
-  "people/du-ao-cunfu.md|DESC_TOO_SHORT": [
-    "2026-09-01",
-    "2026-09-01",
-    "2026-09-01",
-    "2026-09-01",
-    "2026-09-01",
-    "2026-09-01",
-    "2026-09-01",
-    "2026-09-01",
-    "2026-09-01",
-    "2026-09-01"
-  ],
   "people/du-ao-cunfu.md|FRESHNESS_NO_REVIEW_DATE": [
     "2026-09-01",
     "2026-09-01",
@@ -17349,21 +17339,6 @@
     "2026-09-06",
     "2026-09-07"
   ],
-  "people/franklin-ping-cheng.md|DESC_NO_BODY": [
-    "2026-08-31"
-  ],
-  "people/franklin-ping-cheng.md|FRESHNESS_NO_REVIEW_DATE": [
-    "2026-08-31"
-  ],
-  "people/franklin-ping-cheng.md|LINKS_NO_RELATED": [
-    "2026-08-31"
-  ],
-  "people/franklin-ping-cheng.md|STRUCT_NO_TYPE": [
-    "2026-08-31"
-  ],
-  "people/franklin-ping-cheng.md|STRUCT_NO_REVIEW_DATE": [
-    "2026-08-31"
-  ],
   "people/lin-baohua.md|DESC_TOO_SHORT": [
     "2026-09-01",
     "2026-09-01",
@@ -17387,9 +17362,6 @@
     "2026-09-05",
     "2026-09-06",
     "2026-09-07"
-  ],
-  "people/lin-baohua.md|LINKS_NO_LINKS": [
-    "2026-08-31"
   ],
   "people/lin-baohua.md|LINKS_NO_RELATED": [
     "2026-09-01",
@@ -17583,26 +17555,6 @@
     "2026-09-06",
     "2026-09-07"
   ],
-  "people/david-lee.md|DESC_NO_BODY": [
-    "2026-09-01",
-    "2026-09-01"
-  ],
-  "people/david-lee.md|FRESHNESS_NO_REVIEW_DATE": [
-    "2026-09-01",
-    "2026-09-01"
-  ],
-  "people/david-lee.md|LINKS_NO_RELATED": [
-    "2026-09-01",
-    "2026-09-01"
-  ],
-  "people/david-lee.md|STRUCT_NO_TYPE": [
-    "2026-09-01",
-    "2026-09-01"
-  ],
-  "people/david-lee.md|STRUCT_NO_REVIEW_DATE": [
-    "2026-09-01",
-    "2026-09-01"
-  ],
   "people/yang-yueqing.md|DESC_TOO_SHORT": [
     "2026-09-01",
     "2026-09-01",
@@ -17723,21 +17675,6 @@
     "2026-09-06",
     "2026-09-07"
   ],
-  "people/chen-bozhi.md|DESC_NO_BODY": [
-    "2026-09-01"
-  ],
-  "people/chen-bozhi.md|FRESHNESS_NO_REVIEW_DATE": [
-    "2026-09-01"
-  ],
-  "people/chen-bozhi.md|LINKS_NO_RELATED": [
-    "2026-09-01"
-  ],
-  "people/chen-bozhi.md|STRUCT_NO_TYPE": [
-    "2026-09-01"
-  ],
-  "people/chen-bozhi.md|STRUCT_NO_REVIEW_DATE": [
-    "2026-09-01"
-  ],
   "people/li-jian.md|FRESHNESS_NO_REVIEW_DATE": [
     "2026-09-01",
     "2026-09-01",
@@ -17797,9 +17734,6 @@
     "2026-10-23",
     "2026-10-24",
     "2026-10-25"
-  ],
-  "people/yuan-zhihui.md|LINKS_NO_LINKS": [
-    "2026-09-01"
   ],
   "people/yuan-zhihui.md|LINKS_NO_RELATED": [
     "2026-09-01",
@@ -21743,7 +21677,8 @@
     "2026-10-20",
     "2026-10-21",
     "2026-10-22",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31"
   ],
   "people/wu-ma-li.md|LINKS_NO_RELATED": [
     "2026-10-20",
@@ -22412,17 +22347,23 @@
   "sources/cna-taipei-ballot-number-2026-10-27.md|FRESHNESS_NO_REVIEW_DATE": [
     "2026-10-28",
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "sources/cna-taipei-ballot-number-2026-10-27.md|LINKS_NO_RELATED": [
     "2026-10-28",
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "sources/cna-taipei-ballot-number-2026-10-27.md|STRUCT_NO_REVIEW_DATE": [
     "2026-10-28",
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "sources/cna-taipei-ballot-number-2026-10-27.md|STRUCT_NO_STATS": [
     "2026-10-28",
@@ -22440,7 +22381,9 @@
   "sources/ettoday-taipei-mayor-poll-2026-10-27.md|LINKS_NO_RELATED": [
     "2026-10-28",
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "sources/ettoday-taipei-mayor-poll-2026-10-27.md|STRUCT_NO_REVIEW_DATE": [
     "2026-10-28",
@@ -22464,7 +22407,9 @@
   "sources/gwytb-chenbinhua-2026-10-28.md|LINKS_NO_RELATED": [
     "2026-10-28",
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "sources/gwytb-chenbinhua-2026-10-28.md|STRUCT_NO_REVIEW_DATE": [
     "2026-10-28",
@@ -22493,31 +22438,38 @@
   ],
   "people/cao-changqing.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31"
   ],
   "people/wendy-liu.md|LINKS_NO_RELATED": [
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31"
   ],
   "people/wendy-liu.md|STRUCT_NO_RELATED": [
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31"
   ],
   "people/李老師.md|LINKS_NO_RELATED": [
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31"
   ],
   "people/李老師.md|STRUCT_NO_IDENTITY": [
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31"
   ],
   "people/李老師.md|STRUCT_NO_RELATED": [
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31"
   ],
   "people/蔡康永.md|LINKS_NO_RELATED": [
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31"
   ],
   "people/蔡康永.md|STRUCT_NO_IDENTITY": [
     "2026-10-29",
@@ -22525,27 +22477,35 @@
   ],
   "people/蔡康永.md|STRUCT_NO_RELATED": [
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31"
   ],
   "people/藍白.md|LINKS_NO_RELATED": [
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31"
   ],
   "people/藍白.md|STRUCT_NO_IDENTITY": [
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31"
   ],
   "people/藍白.md|STRUCT_NO_RELATED": [
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31"
   ],
   "sources/gvm-134150-us-midterms-2026-10-29.md|LINKS_LOW_DENSITY": [
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "sources/gvm-134150-us-midterms-2026-10-29.md|LINKS_NO_RELATED": [
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "sources/gvm-134150-us-midterms-2026-10-29.md|STRUCT_NO_STATS": [
     "2026-10-29",
@@ -22553,50 +22513,72 @@
   ],
   "sources/zhwp-h-j-chen.md|LINKS_NO_RELATED": [
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31"
   ],
   "sources/zhwp-h-j-chen.md|STRUCT_NO_STATS": [
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31"
   ],
   "people/_quarantine/卓榮泰指.md|LINKS_NO_RELATED": [
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "people/_quarantine/卓榮泰指.md|STRUCT_NO_IDENTITY": [
     "2026-10-30"
   ],
   "people/_quarantine/卓榮泰指.md|STRUCT_NO_RELATED": [
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "people/_quarantine/卓榮泰說.md|LINKS_NO_RELATED": [
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "people/_quarantine/卓榮泰說.md|STRUCT_NO_IDENTITY": [
     "2026-10-30"
   ],
   "people/_quarantine/卓榮泰說.md|STRUCT_NO_RELATED": [
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "people/liu-wen-yi.md|READABILITY_LONG_SENTENCES": [
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "people/liu-wen-yi.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "people/tom-lee.md|LINKS_NO_RELATED": [
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "people/tom-lee.md|STRUCT_NO_IDENTITY": [
     "2026-10-30"
   ],
   "people/tom-lee.md|STRUCT_NO_RELATED": [
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "sources/ettoday-taipei-mayor-poll-2026-10-27.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "sources/gwytb-chenbinhua-2026-10-28.md|READABILITY_MANY_LONG_SENTENCES": [
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "sources/zhwp-huai-en-tsai.md|LINKS_LOW_DENSITY": [
     "2026-10-30"
@@ -22608,9 +22590,44 @@
     "2026-10-30"
   ],
   "sources/zhwp-j-h-liang.md|LINKS_NO_RELATED": [
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
   ],
   "sources/zhwp-j-h-liang.md|STRUCT_NO_STATS": [
-    "2026-10-30"
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
+  ],
+  "people/vera-yang.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-10-31",
+    "2026-11-01"
+  ],
+  "sources/cna-taipei-ballot-number-2026-10-27.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-31",
+    "2026-11-01"
+  ],
+  "sources/gvm-134150-us-midterms-2026-10-29.md|DESC_TOO_SHORT": [
+    "2026-10-31",
+    "2026-11-01"
+  ],
+  "sources/gvm-134150-us-midterms-2026-10-29.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-31",
+    "2026-11-01"
+  ],
+  "sources/zhwp-huai-en-tsai.md|DESC_TOO_SHORT": [
+    "2026-10-31"
+  ],
+  "sources/zhwp-huai-en-tsai.md|DESC_NO_TITLE_MENTION": [
+    "2026-10-31"
+  ],
+  "sources/zhwp-keng-yuen-tseng.md|LINKS_LOW_DENSITY": [
+    "2026-11-01"
+  ],
+  "sources/zhwp-keng-yuen-tseng.md|LINKS_NO_RELATED": [
+    "2026-11-01"
+  ],
+  "sources/zhwp-keng-yuen-tseng.md|STRUCT_NO_STATS": [
+    "2026-11-01"
   ]
 }
