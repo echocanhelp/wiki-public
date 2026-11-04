@@ -1,7 +1,10 @@
 ---
-title: "Hsu Ching-chun (許景淳)"
+title: "Christine Hsu (許景淳)"
 name_en: "Christine Hsu"
 name_zh: "許景淳"
+aka:
+  - "Hsu Ching-chun"
+  - "Ching-Chun Hsu"
 type: person
 tags:
   - person
@@ -15,12 +18,12 @@ tags:
   - radio
   - tahs-archive
 verification_status: verified
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-25
 ---
 
-# Hsu Ching-chun (許景淳)
+# Christine Hsu (許景淳)
 
-**Hsu Ching-chun** (許景淳; English stage name **Christine Hsu**; nicknames 阿淳、耶莉雅; b. 21 November 1963, Wufeng, Taichung County) is a Taiwanese singer, songwriter, musical-theatre performer, radio producer/host, and teacher. She studied Western music at Taipei Hwa Kang Arts School and was a student of Li Tai-hsiang (李泰祥). Active from 1984. Wikipedia lists her faith as **Christian**.
+**Christine Hsu** (許景淳; also romanized Hsu Ching-chun / Ching-Chun Hsu; nicknames 阿淳、耶莉雅; b. 21 November 1963, Wufeng, Taichung County) is a Taiwanese singer, songwriter, musical-theatre performer, radio producer/host, and teacher. She studied Western music at Taipei Hwa Kang Arts School and was a student of Li Tai-hsiang (李泰祥). Active from 1984. Wikipedia lists her faith as **Christian**.
 
 She was raised in a **[[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (PCT / 台灣基督長老教會)]] household**. The church connection is not only a faith label: hymn-singing, a Christian children’s choir, her father’s church-music posts (ORTV / 天韻; later 台福 choir), and SoCal church-consortium concerts are the documented mechanisms.
 
@@ -104,6 +107,7 @@ Younger years: after her father left, she helped her mother raise three younger 
 - **2008–09** — 種子之歌 releases; Golden Horse noms: 〈香香〉(*漂浪青春*), 〈流雲調〉(*青春歌仔*). GIO original-song contest: Holo + indigenous tracks 〈Lubi Lubi〉 / 〈香香〉 (wiki infobox: 冠 / 亞). TAH #196: 2009 臺灣原創流行歌曲首獎
 - **abt. 2008** — On stage with 許丕龍 at 台福《傳揚》30th (TAH #258; TJ video title)
 - **2015/05** — TAH posts #196 and #258
+- **2026-11-07** — scheduled performer at the [[events/tzuchi-us-event-2026-southern-region-charity-concert||Tzu Chi USA Southern Region Charity Concert 2026]], Houston (official billing: "multi-award-winning artist… Taiwan's most beautiful voice"; Tzu Chi USA page, fetched 2026-11-04)
 
 Radio: UFO, EBC network, IC之音; now *種子之歌* on National Education Radio. TAH #258: 500+ interviews with scholars, writers, artists. Judge on 民視《明日之星》.
 
@@ -215,6 +219,18 @@ Do not write her as a Taiwanese American biography. The U.S. nodes are **(1) TAH
 
 - 2011-10-30 — 「許丕龍與許景淳父女」傳陽雜誌30週年（abt. 2008）演唱會片段刊於 TJJ「台美人台加人」專欄（該分類頁 2024-05-27 存檔）—— [[articles/taiwanjustice-net/2024/20240527024815_root_98a26ee3b1ad82ac|TJJ 台美人台加人分類頁，2024-05-27 存檔]]；同一條目另見該分類第358頁快照 [[articles/taiwanjustice-net/2024/20240619181806_root_00354cf6ba9cf607|2024-06-19]] 及該分類第359頁快照 [[articles/taiwanjustice-net/2024/20240718233434_root_2fa1c26a7ca674e2|2024-07-18 快照]]（後者獨立佐证 Faith / Church 欄所引台福《傳揚》30週年父女同台獻詩一事）。
 - Re-verify 2026-09-22 (TJJ-A09220400-7): link-check against slice article 2fa1c26a7ca674e2 body — mention confirmed real, dated fact above stands; no new material.
+
+- 2015-05-21 — TAH 百科 **#196「Christine Hsu 許景淳, Singer」**（林蓮華主稿的 singer 條目）入庫，收錄 金鼎獎最佳演唱 1987/1992/1993、Nantes 1993《戀戀風塵》、San Diego 1994《梅珍》、21世紀青年百傑 2000、2009 臺灣原創流行歌曲 等 Wikipedia 獎表之外的獎項；該頁為 TAH 對台灣出身歌手的機構性收錄，不是美國居住紀錄 — [[works/taiwaneseamericanhistory-org/196-christine-hsu-e8-a8-b1-e6-99-af-e6-b7-b3-singer201505|TAH #196]]
+- 2015-05-21 — TAH 百科 **#258〈許丕龍與許景淳 兩代音樂傳奇〉**（林蓮華；文末註明摘自 美洲台灣日報）入庫，是本页 家庭／教會／南加音樂網絡 多數條目的原始出處（〈馬槽歌〉、ORTV 天韻、台福《傳揚》30週年父女同台、1982 Crystal Cathedral 感恩節音樂會、「許丕龍的女兒做歌星了」）— [[works/taiwaneseamericanhistory-org/258-e8-a8-b1-e4-b8-95-e9-be-8d-e8-88-87-e8-a8-b1-e6-99-af-e6-b7-b3-e5-85-a9-e4-b|TAH #258]]
+- 2015-06-12 — TAH 以 **CD 條目**收錄其台語專輯《真想要飛》（標題記 1991/08；3rd 金曲 方言女演唱人 得獎專輯）— [[works/taiwaneseamericanhistory-org/642-e7-9c-9f-e6-83-b3-e8-a6-81-e9-a3-9b-e8-a8-b1-e6-99-af-e6-b7-b3199108music-e9|TAH #642]]
+- 2015-06-12 — TAH 以 **CD 條目**收錄《天頂的月娘啊》（標題記 1996/01；8th 金曲 方言女演唱人）— [[works/taiwaneseamericanhistory-org/643-e5-a4-a9-e9-a0-82-e7-9a-84-e6-9c-88-e5-a8-98-e5-95-8a-e8-a8-b1-e6-99-af-e6-b|TAH #643]]
+- 2015-06-12 — TAH 以 **CD 條目**收錄選輯《碩果景淳》（標題記 1997/06）— [[works/taiwaneseamericanhistory-org/644-e7-a2-a9-e6-9e-9c-e6-99-af-e6-b7-b3-e8-a8-b1-e6-99-af-e6-b7-b3199706music-e9|TAH #644]]
+- 2015-06-12 — TAH 以 **CD 條目**收錄《真感情》（標題記 2003/11；國／台／英 三語）— [[works/taiwaneseamericanhistory-org/645-e7-9c-9f-e6-84-9f-e6-83-85-e8-a8-b1-e6-99-af-e6-b7-b3200311music-e9-9f-b3-e6|TAH #645]]
+- 2015-06-12 — TAH 以 **CD 條目**收錄《愛河月光》（標題記 2005/02；喜瑪拉雅發行，含原住民語曲目）— [[works/taiwaneseamericanhistory-org/646-e6-84-9b-e6-b2-b3-e6-9c-88-e5-85-89-e8-a8-b1-e6-99-af-e6-b7-b3200502music-e9|TAH #646]]
+- 2015-06-12 — TAH 以 **CD 條目**收錄《青草地上》（標題未記年份；TAH 機構性收錄，非美國居住紀錄）— [[works/taiwaneseamericanhistory-org/647-e9-9d-92-e8-8d-89-e5-9c-b0-e4-b8-8a-e8-a8-b1-e6-99-af-e6-b7-b3-music-e9-9f-b|TAH #647]]
+- 2015-06-12 — TAH 以 **DVD 條目**收錄《金曲剪影》（標題未記年份；TAH 機構性收錄，非美國居住紀錄）— [[works/taiwaneseamericanhistory-org/648-e9-87-91-e6-9b-b2-e5-89-aa-e5-bd-b1-e8-a8-b1-e6-99-af-e6-b7-b3-music-e9-9f-b|TAH #648]]
+- 2025-09-15 — 台灣公義報 **Tag: 許景淳** 索引 Wayback 快照：標籤頁存在但「No posts to display」，即該站以 許景淳 為標籤的內文當時為零；此頁的 TJ 佐證因此來自「台美人台加人」分類頁正文條目，而非標籤頁本身 — [[articles/taiwanjustice-net/2025/20250915010401_tag_許景淳_70b64bdd731bf045|TJ 標籤頁快照]]
+- 2026-10-11 — 澎湖知識服務平台（penghu.info）來源頁覆核：瓦硐許姓 宗親條目（蔡光庭）記錄 許景淳 為 許靖樂 **11 世**，屬 許凌雲 同一瓦硐許姓宗族；來源頁並註明該站 robots.txt 排除 GPTBot/CCBot，屬手動收割的宗親紀錄，非出版系譜 — [[sources/penghu-info|penghu.info 來源頁]]
 
 <!-- TJJ-A10100701-30: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10100701-30 article 00354cf6ba9cf607 (台美人台加人 featured p358, 2024-06-19快照) read fresh this attempt: 「許丕龍與許景淳父女_傳陽雜誌30週年(abt.2008)演唱會片段/2011-10-30」條目逐字再確認見於正文, subject link real, no wrong/spurious links; 2011-10-30 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
