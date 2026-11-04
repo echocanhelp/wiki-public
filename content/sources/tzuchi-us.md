@@ -17,9 +17,11 @@ Buddhist Tzu Chi Foundation). Site as a whole is **not** fully ingested — see 
 
 ## Archived pages
 
-| Page | Archive file | Absorbed into |
-|------|--------------|---------------|
-| `/houston/concert` — Tzu Chi USA Southern Region Charity Concert 2026 (Nov 7, 2026) | `knowledge/web-archives/tzuchi-us-houston-concert.md` (fetched 2026-11-04) | [[events/tzuchi-us-event-2026-southern-region-charity-concert||event page]], [[organizations/tzu-chi-usa-southern-region||org page]], performer pages |
+Single archived page so far (list format — aliased wikilinks are not table-safe in this pipeline):
+
+- `/houston/concert` — Tzu Chi USA Southern Region Charity Concert 2026 (Nov 7, 2026)
+  - Archive: `knowledge/web-archives/tzuchi-us-houston-concert.md` (fetched 2026-11-04)
+  - Absorbed into: [[events/tzuchi-us-event-2026-southern-region-charity-concert||event page]], [[organizations/tzu-chi-usa-southern-region||org page]], performer pages
 
 ## Entity index (from archived pages)
 

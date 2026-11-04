@@ -8,7 +8,7 @@ tags:
   - Pan-Green-Coalition
   - Taiwanese-American-connection
 verification_status: pending
-last_reviewed: 2026-10-12
+last_reviewed: 2026-10-16
 ---
 # Democratic Progressive Party (民主進步黨)
 
@@ -45,14 +45,14 @@ The DPP has had three party leaders serve as President of the Republic of China:
 
 | Election | Candidate | Running Mate | Total Votes | Share | Outcome |
 |----------|-----------|-------------|-------------|-------|---------|
-| 1996 | [[people/peng-ming-min||Peng Ming-min]] | [[people/frank-hsieh||Frank Hsieh]] | 2,274,586 | 21.13% | Defeated |
-| 2000 | [[people/chen-shuibian||Chen Shui-bian]] | Annette Lu | 4,977,737 | 39.30% | Elected |
-| 2004 | [[people/chen-shuibian||Chen Shui-bian]] | Annette Lu | 6,446,900 | 50.11% | Elected |
+| 1996 | [[people/peng-ming-min]] | [[people/frank-hsieh]] | 2,274,586 | 21.13% | Defeated |
+| 2000 | [[people/chen-shuibian]] | Annette Lu | 4,977,737 | 39.30% | Elected |
+| 2004 | [[people/chen-shuibian]] | Annette Lu | 6,446,900 | 50.11% | Elected |
 | 2008 | Frank Hsieh | Su Tseng-chang | 5,445,239 | 41.55% | Defeated |
-| 2012 | [[people/tsai-ingwen||Tsai Ing-wen]] | Su Jia-chyuan | 6,093,578 | 45.63% | Defeated |
-| 2016 | [[people/tsai-ingwen||Tsai Ing-wen]] | Chen Chien-jen | 6,894,744 | 56.12% | Elected |
-| 2020 | [[people/lai-ching-te||Lai Ching-te]] | William Lai | 8,170,231 | 57.13% | Elected |
-| 2024 | [[people/lai-ching-te||Lai Ching-te]] | Hsiao Bi-khim | 5,586,019 | 40.05% | Elected |
+| 2012 | [[people/tsai-ingwen]] | Su Jia-chyuan | 6,093,578 | 45.63% | Defeated |
+| 2016 | [[people/tsai-ingwen]] | Chen Chien-jen | 6,894,744 | 56.12% | Elected |
+| 2020 | [[people/lai-ching-te]] | William Lai | 8,170,231 | 57.13% | Elected |
+| 2024 | [[people/lai-ching-te]] | Hsiao Bi-khim | 5,586,019 | 40.05% | Elected |
 
 The 2024 election made the DPP the first party to win three consecutive presidential terms since direct elections were introduced in 1996.
 
@@ -177,6 +177,13 @@ In 2006, the party ended official recognition of factions, though they remain re
 - 2014-12 (post-九合一) — Chairperson Tsai Ing-wen toured the Midwest, drawing roughly 1,000 Taiwanese-Americans from seven-plus states in Chicago, framing the DPP's landslide local-election win as 浴火重生 and holding an impromptu youth forum with visiting students ([[works/taiwaneseamericanhistory-org/journey-149|Journey #149]]). HOLD: exact tour date not stated in the memoir.
 - 1981–2011 — 台灣公論報 (Taiwan Public Times, LA-based from 1982) published 2,357 issues through the party's founding and governing periods, the community press record of the DPP era ([[works/taiwaneseamericanhistory-org/ourjourneys63|Our Journeys #63]]).
 - 1991 — At the Los Angeles 台灣文化之夜, singer-songwriter 歐秀雄's 《勇敢的台灣人》 was credited with raising the artistic standard of DPP campaign songs ([[works/taiwaneseamericanhistory-org/ourjourneys301|Our Journeys #301]]).
+- 2018-09-22 — 林飛帆投書外媒（中央社轉載）: 文中以蔡英文領導的民進黨政府「不太可能在可預見未來接受北京當局的一個中國政策」為前提，警告柯文哲「兩岸一家親」論可能動搖台灣抗中決心，並記述民進黨2016年再度執政以來中國加強打壓（挖角邦交國、逼外企移除台灣稱呼、限制國際參與、升高軍事威脅）之記錄（[[articles/taiwanjustice-net/2024/20240301071744_root_1784c0bb8676bbf0|林飛帆投書外媒（中央社, 2018-09-22）]]）。
+- 2018-02-28 — Joyce Chen（Bay Area 出生、就讀台大）在 228 七十一周年記感中記述：台北市教育局與台北二二八紀念博物館合作推出新課程，並評述「Both the Kuomintang (KMT) and Democratic Progressive Party (DPP) have contradictory intentions to 'let history speak for itself'」——海外學生視角下兩黨轉型正義論述皆受質疑（[[works/taiwaneseamerican-org/all-quiet-228-in-taiwan|All Quiet: An American in Taiwan's Perspective on 228, 2018-02-28]]）。
+- 2017-07-19 — Michelle Kuo（《Reading with Patrick》作者）受訪憶述：父母不談1980年代民主鬥士遇害與 228 故事，並將其歸因為「politically motivated by a Democratic Progressive Party trying to shore up support」——Kuo 反駁這是對專制國家的鄉愁；移民家庭將 DPP 的 228/民主化敘事視為政治動員之記錄（[[works/taiwaneseamerican-org/interview-michellekuo|A Canon of Our Own: Q&A with Michelle Kuo, 2017-07-19]]）。
+- 2025-01-03 — Chloe Wu Shih 高中生論文（2024 Betty L. Yu 創作獎推薦刊出）記述：「It is required by the Democratic Progressive Party-ruled government that schools teach more Taiwanese history than Chinese history to emphasize a Taiwanese identity, specifically history about the White Terror」，並以民進黨為台灣獨立建國主張之執政主體立論——海外世代論述中的 DPP 教育政策記述，政策細節未核（[[works/taiwaneseamerican-org/a-republic-of-taiwan-chloe-shih|A Republic of Taiwan: Breaking the Chains, 2025-01-03]]）。
+- 2019-10-09 — The taiwaneseamerican.org Double Ten essay "No, Double Ten Is Not 'Taiwan's Independence Day'" is written by Chieh-Ting Yeh, whose author bio records that he "worked in strategy planning at the Taiwan's Democratic Progressive Party," alongside London's Demos think tank and the Third Society Party — the party appears in the career of this Silicon Valley-based community essayist, corroborated by the same DPP/Demos/Third-Society tenure on his own page ([[people/chien-ting-yeh|Chien-Ting Yeh (葉介庭)]]; [[works/taiwaneseamerican-org/no-double-ten-is-not-taiwans-independence-day|No, Double Ten Is Not "Taiwan's Independence Day", 2019-10-09]]).
+- 2011-10-14 — The "Support Taiwan" social-media campaign post (byline Ho Chie, i.e. [[people/ho-chie-tsai|Ho Chie Tsai (蔡和杰)]]) records "a peaceful transfer of power from the KMT to the Democratic Progressive Party (DPP) in 2000" as the capstone of its democratization narrative (1987 martial-law lift → 1996 direct presidential election → 2000 transfer), while the same post states that TaiwaneseAmerican.org takes no official stance endorsing political parties — the community's own record of how the DPP's first transfer of power entered overseas identity-campaign copy ([[works/taiwaneseamerican-org/the-support-taiwan-campaign-on-social-media|The "Support Taiwan" Campaign on Social Media, 2011-10-14]]).
+- 2025-08-22 — Vickie Wang's essay "Who Gets to be Taiwanese?" records the January 2024 election of a DPP president against a KMT–TPP legislative majority, the May 2024 street protests (the Bluebird Movement) that preceded the recall campaign targeting 31 KMT lawmakers, and the recall votes themselves — the first 24 failing on July 26 with 7 more voted on August 23 — while noting that the KMT's own recall attempt had earlier failed for faking deceased voters' signatures, dozens arrested. An overseas record of the DPP's minority-government posture and the 2025 recall storm ([[works/taiwaneseamerican-org/who-gets-to-be-taiwanese-vickie-wang|Who Gets to be Taiwanese?, 2025-08-22]]).
 
 ## Related Pages
 
@@ -252,3 +259,7 @@ In 2006, the party ended official recognition of factions, though they remain re
 <!-- TJJ-A10110201-12: verified 2026-10-12 — wave-2 link+deepen re-check (slice 10110201-12) article becb39f917174438 (The Economist via TJJ, 2013-10-06 發文 / 2024-05-30 快照) read fresh this attempt: subject link re-checked vs 正文 — 「Democratic Progressive Party (DPP)」見於正文、DPP揚彈劾/罷免馬（僅 40/113 席需 KMT 倒戈票）、批評 ICAO 邀請出於中國建議、批馬為 quisling、王金平對 DPP 讓步列為馬打壓動機等記述逐字確認見於正文, real, no wrong/spurious links (KMT 作執政黨背景記述且 vault 無頁, 未掛鏈, 正確處理); 2013-10-06 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10110201-30: verified 2026-10-12 — wave-2 link+deepen re-check (slice 10110201-30) article adc931e5b99bb0a9 (Gerrit van der Wees〈The Chinese shadow on Taiwan’s elections〉, TJJ 2012-01-29 刊 / 2021-01-30 快照) read fresh this attempt: subject link re-checked vs 正文 — ICFET 觀察團（團長 Frank Murkowski）會晤包括民進黨在內三大政黨、DPP 被塑造為不穩定選項、「選扁斷經」恐懼被中方與國民黨交替放大等記述逐字確認見於正文, real, no wrong/spurious links (KMT/PFP 並列提及且 vault 無頁, 未掛鏈, 正確處理); 2012-01-29 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 <!-- TJJ-A10120501-10: verified 2026-10-12 — wave-2 link+deepen re-check (slice 10120501-10) article becb39f917174438 (The Economist via TJJ, 2013-10-06 發文 / 2024-05-30 快照) read fresh this attempt: subject link re-checked vs 正文 — 「Democratic Progressive Party (DPP)」逐字見於正文、DPP揚彈劾/罷免馬英九（僅40/113席需KMT倒戈票）、批評ICAO邀請出於中國建議、批馬為quisling、王金平對DPP讓步列為馬打壓動機等記述確認見於正文, real, no wrong/spurious links (KMT 作執政黨背景記述且 vault 無頁, 未掛鏈, 正確處理); 2013-10-06 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10120801-4: verified 2026-10-13 — wave-2 link+deepen re-check of slice 10120801-4 article 20240522053244_root_042939d886040651 (高龍榮 Mark Kao Taipei Times 專欄「US pressure on 'specific outcomes' feels unjust」, taiwanjustice.net 轉載, 2015-03-27 刊 / 20240522053244 快照) read fresh this attempt: subject links (tsai-ing-wen / democratic-progressive-party / long-rong-mark-kao) re-checked vs 正文 — Kao 為作者署名欄本人、DPP 九合一 landslide 與「vague formulations」要求、蔡英文 2011-09 訪美被批重 process 輕 specific outcome 之記述逐字確認見於正文, real, no wrong/spurious links (Schrage／Xi 為評論對象未掛鏈, 正確處理); dated fact w/ article wikilink (2015-03-27) already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10120801-21: verified 2026-10-13 — wave-2 link+deepen re-check (slice 10120801-21) article adc931e5b99bb0a9 (Gerrit van der Wees〈The Chinese shadow on Taiwan’s elections〉, taiwanjustice.net, 刊 2012-01-29 / Wayback 快照 20210130160917) read fresh this attempt: subject link re-checked vs 正文 — ICFET 觀察團（團長 Frank Murkowski）會晤包括民進黨（DPP）在內三大政黨、DPP 被塑造為不穩定選項、「選扁斷經」恐懼被中方與國民黨交替放大等記述逐字確認見於正文, real, no wrong/spurious links (KMT/PFP 並列提及且 vault 無頁, 未掛鏈, 正確處理); 2012-01-29 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

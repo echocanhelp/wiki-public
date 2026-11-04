@@ -25,7 +25,7 @@ echo: scratch
 
 If a player is blank or 404, use the **Download (raw)** link under that track.
 
-Canonical URL: https://echocanhelp.github.io/wiki-public/people/albert-zh-sku-b-publisher-review
+Canonical URL: https://echopedia.tah-society.org/people/albert-zh-sku-b-publisher-review
 
 ---
 
@@ -33,7 +33,7 @@ Canonical URL: https://echocanhelp.github.io/wiki-public/people/albert-zh-sku-b-
 
 | Lane | Status |
 |------|--------|
-| EN SKU A core (1971 preface + Ch I–VI + conclusion) | **Done** · Albert approved Ch.I method · hub [[people/albert-en-sku-a-scratch-review||EN players]] |
+| EN SKU A core (1971 preface + Ch I–VI + conclusion) | **Done** · Albert approved Ch.I method · hub [[people/albert-en-sku-a-scratch-review]] |
 | EN 2025 companion (front/back) | **Not started** (ZH companion is the current ask) |
 | ZH core Ch I–VI + 結論 | **Done · Albert accepted 2026-09** (二二八 fix in) |
 | ZH 2025 front (推薦序／原作者序／導讀) | **Audio ready** — waiting Albert listen |
@@ -82,7 +82,7 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 #### A00. 作者簡介（封面折口）· ~1 min · **NEW**
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-author-bio-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+  <source src="https://echopedia.tah-society.org/public/media/albert-zh-author-bio-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-author-bio-hsiaochen-publisher-v1-full-scratch.mp3)
@@ -90,7 +90,7 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 ### A0. 目錄 · ~1.2 min
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-toc-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+  <source src="https://echopedia.tah-society.org/public/media/albert-zh-toc-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-toc-hsiaochen-publisher-v1-full-scratch.mp3)
@@ -98,7 +98,7 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 #### A1. 2025 推薦序／原作者序／導讀 · ~62 min · **v2 −10%**
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-2025-front-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+  <source src="https://echopedia.tah-society.org/public/media/albert-zh-2025-front-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-2025-front-hsiaochen-publisher-v1-full-scratch.mp3)
@@ -106,7 +106,7 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 #### A2. 1971 扉頁與前言 · ~5.1 min · **NEW**
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-1971-front-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+  <source src="https://echopedia.tah-society.org/public/media/albert-zh-1971-front-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-1971-front-hsiaochen-publisher-v1-full-scratch.mp3)
@@ -116,7 +116,7 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 #### B1. 第一章　在過去福爾摩莎的台灣人 · ~26.9 min · 二二八
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-ch01-zh-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+  <source src="https://echopedia.tah-society.org/public/media/albert-ch01-zh-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-ch01-zh-hsiaochen-publisher-v1-full-scratch.mp3)
@@ -124,7 +124,7 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 #### B2. 第二章　台灣人在今日的福爾摩莎 · ~35.5 min
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-ch02-zh-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+  <source src="https://echopedia.tah-society.org/public/media/albert-ch02-zh-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-ch02-zh-hsiaochen-publisher-v1-full-scratch.mp3)
@@ -132,7 +132,7 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 #### B3. 第三章　台灣人在美國 · ~30.8 min
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-ch03-zh-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+  <source src="https://echopedia.tah-society.org/public/media/albert-ch03-zh-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-ch03-zh-hsiaochen-publisher-v1-full-scratch.mp3)
@@ -140,7 +140,7 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 #### B4. 第四章　洛杉磯台灣基督教會 · ~31.0 min
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-ch04-zh-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+  <source src="https://echopedia.tah-society.org/public/media/albert-ch04-zh-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-ch04-zh-hsiaochen-publisher-v1-full-scratch.mp3)
@@ -148,7 +148,7 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 #### B5. 第五章　台灣社群的整合、獨立性和身分認同 · ~30.2 min
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-ch05-zh-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+  <source src="https://echopedia.tah-society.org/public/media/albert-ch05-zh-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-ch05-zh-hsiaochen-publisher-v1-full-scratch.mp3)
@@ -156,7 +156,7 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 #### B6. 第六章　邁向希望的共同體 · ~50.9 min
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-ch06-zh-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+  <source src="https://echopedia.tah-society.org/public/media/albert-ch06-zh-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-ch06-zh-hsiaochen-publisher-v1-full-scratch.mp3)
@@ -164,7 +164,7 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 #### B7. 結論 · ~7.1 min
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-conclusion-zh-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+  <source src="https://echopedia.tah-society.org/public/media/albert-conclusion-zh-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-conclusion-zh-hsiaochen-publisher-v1-full-scratch.mp3)
@@ -174,7 +174,7 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 #### C1. 參考資料（英文，60筆）· ~10 min · **DONE**
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-bibliography-en-christopher-v1-scratch.mp3" type="audio/mpeg">
+  <source src="https://echopedia.tah-society.org/public/media/albert-bibliography-en-christopher-v1-scratch.mp3" type="audio/mpeg">
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-bibliography-en-christopher-v1-scratch.mp3)
@@ -182,7 +182,7 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 #### C2. 回憶論文當年背後的故事 · ~55.6 min · **NEW**
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-back-recall-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+  <source src="https://echopedia.tah-society.org/public/media/albert-zh-back-recall-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-back-recall-hsiaochen-publisher-v1-full-scratch.mp3)
@@ -190,7 +190,7 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 #### C3. 失蹤了的五十年 · ~54.1 min · **NEW**
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-back-fifty-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+  <source src="https://echopedia.tah-society.org/public/media/albert-zh-back-fifty-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-back-fifty-hsiaochen-publisher-v1-full-scratch.mp3)
@@ -198,7 +198,7 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 #### C4. 【跋】歷史的迴聲，希望的社群 · ~14.5 min · **NEW**
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-back-epilogue-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+  <source src="https://echopedia.tah-society.org/public/media/albert-zh-back-epilogue-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-back-epilogue-hsiaochen-publisher-v1-full-scratch.mp3)
@@ -206,7 +206,7 @@ Book order for **Chinese 2025 edition**, then 1971 dissertation body.
 #### C5. 國家圖書館 CIP／中文版權頁 · ~2 min · **DONE** (ISBN 978-626-7627-21-1)
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-colophon-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
+  <source src="https://echopedia.tah-society.org/public/media/albert-zh-colophon-hsiaochen-publisher-v1-full-scratch.mp3" type="audio/mpeg">
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-colophon-hsiaochen-publisher-v1-full-scratch.mp3)
@@ -220,7 +220,7 @@ Albert supplied these for the new print edition and asked that they be in the au
 ### D1. 憶往事 · 蔡榮芳 · ~12.9 min
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-reprint-tsai-memories-hsiaochen-r20261023.mp3" type="audio/mpeg">
+  <source src="https://echopedia.tah-society.org/public/media/albert-zh-reprint-tsai-memories-hsiaochen-r20261023.mp3" type="audio/mpeg">
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-reprint-tsai-memories-hsiaochen-r20261023.mp3)
@@ -229,13 +229,13 @@ Albert supplied these for the new print edition and asked that they be in the au
 ### D2. 介紹你「邁向希望的社群」 · 戴正德 · ~7.4 min
 
 <audio controls preload="metadata" style="width:100%;max-width:40rem">
-  <source src="https://echocanhelp.github.io/wiki-public/public/media/albert-zh-reprint-tai-intro-hsiaochen-r20261023.mp3" type="audio/mpeg">
+  <source src="https://echopedia.tah-society.org/public/media/albert-zh-reprint-tai-intro-hsiaochen-r20261023.mp3" type="audio/mpeg">
 </audio>
 
 - [Download (raw)](https://raw.githubusercontent.com/echocanhelp/wiki-public/gh-pages/public/media/albert-zh-reprint-tai-intro-hsiaochen-r20261023.mp3)
 - [[people/tai-cheng-te|戴正德]]
 
-Chinese listen page (all tracks): https://echocanhelp.github.io/wiki-public/public/people/albert-audiobook-zh-listen.html
+Chinese listen page (all tracks): https://echopedia.tah-society.org/public/people/albert-audiobook-zh-listen.html
 
 ---
 

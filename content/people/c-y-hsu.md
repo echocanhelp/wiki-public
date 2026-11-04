@@ -9,7 +9,7 @@ tags:
   - calligrapher
   - educator
 verification_status: pending
-last_reviewed: 2026-09-22
+last_reviewed: 2026-11-04
 ---
 # Tsan Yu Hsu (許贊育)
 
@@ -41,11 +41,13 @@ TAH #49 / person card: 許贊育先生，字化功，一九一〇年生於台灣
 | 1950s | 林攀龍邀辦霧峰萊園中學（今明台高中）；教導主任；地理與美術；執教約 22 年 | 子女; 臺展檔; TAH #49 |
 | mid-career | TAH #49：**封筆約五十年** | TAH #49 |
 | after retirement | 加州定居後再專研行/隸/篆、試臨甲骨文；後常住紐約；**未再返台** | TAH #49; 子女; 許丕龍 |
-| 1980s | [[organizations/taiwanese-alliance-for-interculture-southern-california||南加州臺灣協志社]]：[[people/ahhee-hsu||許丕龍]]社長，贊育導師；同鄉 + 海外民主運動 | 臺展檔 |
+| 1980s | [[organizations/taiwanese-alliance-for-interculture-southern-california]]：[[people/ahhee-hsu]]社長，贊育導師；同鄉 + 海外民主運動 | 臺展檔 |
 | 1988 | 紐約書法個展（子女協助；許丕龍：畫家**謝里法**力邀）。黃圻文掃描：行/隸/篆大小約**四十幅** | 臺展檔; 許丕龍; 黃圻文 1997-09-25 |
 | 1995-01-20 | 妻孫榮基逝於加州蒙特利公園 | 賴永祥 訃音 |
 | 2000-08-15 | 加州九十大壽；〈爸爸的筆〉蕭泰然譜曲；**半音合唱團**首唱 | 許丕龍 2012 |
 | 2006-11-06 | 紐約醫院去世 | 子女 |
+
+> **Student memory (Albert S. Lai, LINE 2026-11-04, single source):** Albert was one of many students, not a close pupil. 許贊育 did not teach Albert's own class. He taught geography and art, and Albert remembers him caring especially for transfer students who had been held back, expelled, or were otherwise in trouble. Albert went to him only when he had to. His impression: deep classical Chinese and old poetry, elegant brushwork; students were not afraid of him, and he was one of the more caring, liked teachers. On 賴炳烔: seminary classmates one class apart, later different fields and cities, no direct shared work that Albert knows of, but they visited and looked after each other's work. Albert does **not** know of a joint project or of a disagreement between them. On 二二八: Albert was young; what he knows is partial; his parents rarely spoke of that terror; he cannot say how the church came through it. Do not write a joint-project or a 228 church-survival story from him. In the same message he once wrote 許繁育; the rest of his answers, and this page, use 許贊育.
 
 > **Audit note (2026-10-22):** 學校正式創校為 **1949**（私立萊園中學，林獻堂董事長、林攀龍首任校長；1981 改名明台）— 「邀辦」應讀作**邀攬任教/襄助**，非共同創校。「教導主任」一職見於子女 2006 追思文（「父親擔負教導主任重責」），屬**家屬記述**，尚無校方名冊佐證。頭銜：PCT 霧峰教會紀錄作**教師**（非牧師）。另：2003 年 TCNN 紀念文獨立記載「霧峰萊園中學…書法家許贊育先生（許丕龍兄及許玲琴長老的父親，南神…1931年入學）」— 第三方佐證 1931 入學、萊園任教、書法家身份及二子女。**文獻線索（2026-10-23）：** 蔡榮芳《知識人的想望與行徑：台灣菁英林攀龍 對上 黨國嫡裔曾約農》（前衛, 2023）以萊園首任校長林攀龍為傳主，可能載有師資名冊含許贊育「教導主任」一職 — 取得此書可把家屬記述升級為文獻記載；蔡榮芳本人亦為 [[people/albert-s-lai||賴信雄]] 萊園同窗說的第二見證人（見 [[people/tsai-jung-fang]]）。
 

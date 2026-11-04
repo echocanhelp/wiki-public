@@ -20,6 +20,14 @@ The **Taiwanese American Historical Society (TAHS)** is an organization dedicate
 - Mission: Historical preservation, cultural education, community building
 - Registered office: 1910 Kanola Road, La Habra Heights, CA 90631 (owner-provided 2026-10-26; relocated from San Gabriel)
 
+## Contact
+
+Owner-authorized public contact methods (2026-10-27). These are organizational inboxes and the society's public line — not personal contacts of individual officers.
+
+- Email: [info@tah-society.org](mailto:info@tah-society.org) (organizational inbox, live 2026-11-02; supersedes the earlier public Gmail inboxes)
+- Phone: [(626) 898-5199](tel:+16268985199)
+- Document requests (determination letter, recent filings): state the purpose, e.g. "Documents request" — see [tah-society.org/nonprofit](https://tah-society.org/nonprofit).
+
 ## Mission and Activities
 TAHS works to:
 1. Document and preserve Taiwanese American historical records
@@ -33,17 +41,17 @@ Source: TAHS 2025 org chart (台美人歷史協會組織表), Tax ID **46-400538
 
 | Role | Person |
 |------|--------|
-| 會務指導會主席 — 會務 | [[people/alan-thian||Alan Thian (田詒鴻)]] |
-| 會務指導會主席 — 會計 | [[people/paul-chen||Paul Chen (陳柏宇)]] |
-| 創會會長 (Founding president) | [[people/yang-jia-you||Charles Yang (楊嘉猷)]] |
-| 顧問 (Advisor) | [[people/gene-tsai||Gene Tsai (蔡錦榮)]], [[people/hsu-shih-huan||Hsu Shih-huan (許世環)]], [[people/linda-liu||Linda Liu (劉玲華)]] *(handwritten on chart)* |
-| 會長 (President) | [[people/leonard-hsu-jr||Leonard Hsu Jr. (許景鴻)]] |
-| 副會長 (Vice President) | [[people/roger-tsai||Roger Tsai (蔡漢成)]], [[people/bai-weiwei||Wei Wei Bai (白偉瑋)]] |
-| 特別助理 (Special assistant) | [[people/john-yang||John Yang (楊錦忠)]], [[people/yi-sen-lee||Yi Sen Lee (李意盛)]] |
-| 財務 (Finance) | [[people/phoenix-ko||Phoenix Ko (柯貝昀)]] |
-| 秘書長 (Secretary-general) | [[people/freeman-huang||Freeman Huang (黃樹人)]] |
-| 資訊 (Information / IT) | [[people/tzetsai-eric-shen||Eric Shen (沈梓在)]] |
-| 總務 (General affairs) | [[people/sunu-tsai||Sunu Tsai (蔡淑女)]] |
+| 會務指導會主席 — 會務 | [[people/alan-thian]] |
+| 會務指導會主席 — 會計 | [[people/paul-chen]] |
+| 創會會長 (Founding president) | [[people/yang-jia-you]] |
+| 顧問 (Advisor) | [[people/gene-tsai]], [[people/hsu-shih-huan]], [[people/linda-liu]] *(handwritten on chart)* |
+| 會長 (President) | [[people/leonard-hsu-jr]] |
+| 副會長 (Vice President) | [[people/roger-tsai]], [[people/bai-weiwei]] |
+| 特別助理 (Special assistant) | [[people/john-yang]], [[people/yi-sen-lee]] |
+| 財務 (Finance) | [[people/phoenix-ko]] |
+| 秘書長 (Secretary-general) | [[people/freeman-huang]] |
+| 資訊 (Information / IT) | [[people/tzetsai-eric-shen]] |
+| 總務 (General affairs) | [[people/sunu-tsai]] |
 
 Notes:
 - LINE L1 (not chart officer): [[people/kevin-lee||Kevin Lee]] (ZH pending); [[people/willy-pan||Willy Pan]] (LINE: Will).
@@ -57,8 +65,8 @@ Not on the 2025 paper org chart. Owner-confirmed for public leadership listing (
 
 | Role | Person |
 |------|--------|
-| Chief Technology Officer (CTO) | [[people/david-lee||David Lee (李東璞)]] |
-| Director of Echo System Engineering | [[people/ashton-hsu||Ashton Hsu (許思敦)]] |
+| Chief Technology Officer (CTO) | [[people/david-lee]] |
+| Director of Echo System Engineering | [[people/ashton-hsu]] |
 
 ## Member records cross-linked in the vault (deepen pass 2026-09-10)
 
@@ -93,6 +101,7 @@ Not on the 2025 paper org chart. Owner-confirmed for public leadership listing (
 
 ## From the record
 
+- **2025-07-05** *(reported)* — TAHS 公益講座《打造健康安全防護罩──身心保健與氣功養生》, announced in advance: 台灣國家級防災專家、災害搶救諮詢顧問、陸軍官校助理教授、交通大學環工博士 劉明哲 主講, 7/5 (Sat) 2:00–3:00 pm at 洛杉磯磯華橋文教服務中心會議室 (9443 Telstar Ave, El Monte, CA 91731), 聯絡人 沈先生 626-374-0100 — [美洲台灣日報](https://taiwandaily.net/%e5%8d%97%e5%8a%a0%e7%a4%be%e5%8d%80/86616/)（存檔 `knowledge/web-archives/taiwandaily-net-86616-86616.md`；同場講座另有 taiwanjustice.net 存檔，見上條 2025-07-05 記錄）
 - **2025-09-03** *(reported)* — 許景鴻 (Leonard Hsu) 會長就職典禮 held at the 台美人長輩會辦公室, followed by a board meeting; founding president 楊嘉猷 presided and framed the handover as 世代傳承, pledging a focus on collecting, interviewing and publishing 二代/三代 台美人傑出人物紀事 (the society's two 台美人菁英錄 volumes had centered on the first generation); board adopted a 3-year presidential term with officers' terms synchronized, and took up bylaw amendments, finances and work plans; attendees incl. 蔡漢成、劉玲華、李意盛、楊錦忠、沈梓在、蔡淑女、黃樹人; president Hsu said the society would consider staffing Wikipedia entries for outstanding Taiwanese Americans if funding permits — [美洲台灣日報](https://taiwandaily.net/南加社區/97560/)
 
 ## Compliance — 501(c)(3) activities & reporting (audited 2026-10-26)

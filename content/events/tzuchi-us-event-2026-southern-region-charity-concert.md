@@ -23,13 +23,15 @@ music, food, and compassion in action." Ticket tiers printed on the page: platin
 
 ## Performers
 
-| Performer | Role (per official page) |
-|-----------|--------------------------|
-| [[people/hsu-ching-chun||Christine Hsu (許景淳)]] | Multi-award-winning singer, songwriter, producer; praised by critics as "Taiwan's most beautiful voice" |
-| [[people/ric-jan||Ric Jan (荒山亮)]] | Taiwanese singer-songwriter; Best Taiwanese Male Singer, 23rd Golden Melody Awards |
-| [[people/kana-mimaki||Kana Mimaki (三牧可奈)]] | Pianist; first-prize winner, LA Liszt Competition and other international piano competitions |
-| [[people/eddy-ji-xiao||Eddy Ji Xiao (蕭楫)]] | Houston-based composer, artistic director and conductor (Sichuan Conservatory of Music) |
-| [[people/swee-koh||Swee Koh (許瑞慶)]] | Erhu performer |
+Performer links intentionally live outside the table — aliased wikilinks (`label`)
+inside markdown table cells break in the Quartz pipeline (the autofix unescapes `\|`, then the
+table parser splits the cell). Bare `dir/slug` is the only table-safe wikilink form.
+
+- [[people/hsu-ching-chun||Christine Hsu (許景淳)]] — multi-award-winning singer, songwriter, producer; praised by critics as "Taiwan's most beautiful voice"
+- [[people/ric-jan||Ric Jan (荒山亮)]] — Taiwanese singer-songwriter; Best Taiwanese Male Singer, 23rd Golden Melody Awards
+- [[people/kana-mimaki||Kana Mimaki (三牧可奈)]] — pianist; first-prize winner, LA Liszt Competition and other international piano competitions
+- [[people/eddy-ji-xiao||Eddy Ji Xiao (蕭楫)]] — Houston-based composer, artistic director and conductor (Sichuan Conservatory of Music)
+- [[people/swee-koh||Swee Koh (許瑞慶)]] — erhu performer
 
 ## Charity framing (as published)
 

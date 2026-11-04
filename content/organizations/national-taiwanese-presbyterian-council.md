@@ -1,5 +1,5 @@
 ---
-title: "National Taiwanese Presbyterian Council (NTPC)"
+title: "National Taiwanese Presbyterian Council, Presbyterian Church (U.S.A.) (NTPC)"
 type: organization
 tags:
   - organization
@@ -10,11 +10,11 @@ tags:
   - 1970s-present
   - republication
 verification_status: published
-last_reviewed: 2026-10-12
+last_reviewed: 2026-10-13
 ---
-# National Taiwanese Presbyterian Council (NTPC)
+# National Taiwanese Presbyterian Council, Presbyterian Church (U.S.A.) (NTPC)
 
-**National Taiwanese Presbyterian Council (NTPC)** — 美國基督長老教會全國台灣人教會聯合會 / 全國台灣人長老教會聯合會 — is the PC(USA) council of Taiwanese Presbyterian churches in the United States. Official site: [ntpc-usa.org](https://www.ntpc-usa.org/).
+**National Taiwanese Presbyterian Council, Presbyterian Church (U.S.A.) (NTPC)** — 美國基督長老教會全國台灣人教會聯合會 / 全國台灣人長老教會聯合會 — is the PC(USA) council of Taiwanese Presbyterian churches in the United States. The short form **National Taiwanese Presbyterian Council** is also seen. Official site: [ntpc-usa.org](https://www.ntpc-usa.org/).
 
 **Not** New Taipei City (also "NTPC"). **Not** PCT 北部大會. See [[organizations/ntpc||NTPC disambiguation]].
 
@@ -22,6 +22,7 @@ last_reviewed: 2026-10-12
 
 - **Type:** Presbyterian church council (PC(USA))
 - **Geography:** United States (regional districts: 西南 / 西北 / 中原 / 東北 / 美南)
+- **English (bylaws):** National Taiwanese Presbyterian Council, Presbyterian Church (U.S.A.); 英文簡稱 N.T.P.C. (bylaw page, ntpc-usa.org)
 - **Chinese names (official PDFs):** 美國基督長老教會全國台灣人教會聯合會; 全國台灣人長老教會聯合會
 - **Membership (bylaws, posted on site):** every PC(USA) Taiwanese congregation is a member church; in-presbytery Taiwanese ministers are member pastors — no application, no lapse
 - **2025/26 執委 (site):** 主席 [[people/yunching-yeh-davis||葉芸青]]（西南區）; 副主席 [[people/chen-hui-chen||陳慧貞]]（中原區）; 書記 [[people/xie-xinguang||謝信光]]（西南區主席）; 會計 [[people/zhang-aihui||張愛惠]]（NTPW 主席）; 委員 [[people/lin-yushu||林育武]]（西北區）
@@ -73,11 +74,11 @@ Per bylaws 第三章第二條第一項:
 
 | Role | Name | District | Term ends |
 |---|---|---|---|
-| **主席** (Chair) | [[people/yunching-yeh-davis||葉芸青]] | 西南區 | 2026 |
-| **副主席** (Vice-Chair) | [[people/chen-hui-chen||陳慧貞]] | 中原區 | 2028 |
-| **書記** (Clerk) | [[people/xie-xinguang||謝信光]] | 西南區 (TPC chair) | — |
-| **會計** (Treasurer) | [[people/zhang-aihui||張愛惠]] | 西南區 (NTPW chair) | — |
-| **委員** | [[people/lin-yushu||林育武]] | 西北區 | 2026 |
+| **主席** (Chair) | [[people/yunching-yeh-davis]] | 西南區 | 2026 |
+| **副主席** (Vice-Chair) | [[people/chen-hui-chen]] | 中原區 | 2028 |
+| **書記** (Clerk) | [[people/xie-xinguang]] | 西南區 (TPC chair) | — |
+| **會計** (Treasurer) | [[people/zhang-aihui]] | 西南區 (NTPW chair) | — |
+| **委員** | [[people/lin-yushu]] | 西北區 | 2026 |
 | **委員** | 賴懿文 | 東北區 | 2027 |
 | **委員** | 陳晉祿 | 美南區 | 2028 |
 | **NTPYAC 會長** | 從缺 | — | — |
@@ -86,8 +87,8 @@ Per bylaws 第三章第二條第一項:
 
 | Year | Chair |
 |---|---|
-| 2025/26 | [[people/yunching-yeh-davis||葉芸青]] (西南區) |
-| 2024/25 | [[people/yunching-yeh-davis||葉芸青]] (西南區) |
+| 2025/26 | [[people/yunching-yeh-davis]] (西南區) |
+| 2024/25 | [[people/yunching-yeh-davis]] (西南區) |
 | 2023 | 李洋誌 (西南區) |
 | 2022 | 林宗毅 (西北區) |
 | 2020 | 陳浩德 (中原區) |
@@ -98,8 +99,8 @@ Per bylaws 第三章第二條第一項:
 
 | Role | Name |
 |---|---|
-| 會長 | [[people/zhang-aihui||張愛惠]] |
-| 書記 | [[people/yunching-yeh-davis||葉芸青]] |
+| 會長 | [[people/zhang-aihui]] |
+| 書記 | [[people/yunching-yeh-davis]] |
 | 會計 | 黃文秀 |
 | 提名委員會主席 | 張玲雪 |
 | 東北區代表 | 李煦煦 |
@@ -119,7 +120,7 @@ Per bylaws 第三章第二條第一項:
 | 婦女事工 (Women's Ministry) |
 | 青少年事工 (Youth) |
 | 社青事工 (Young Adult) |
-| 教會歷史委員會 (Historical) — established 2025, chair [[people/ching-fang-chen||陳清芳]] |
+| 教會歷史委員會 (Historical) — established 2025, chair [[people/ching-fang-chen]] |
 
 ## 50th Annual Conference / 禧年 (2024)
 
@@ -131,9 +132,9 @@ Per bylaws 第三章第二條第一項:
 |---|---|
 | When | 26 Apr – 4 May 2024 |
 | Theme | 『落地生根』或『落葉歸根』的教會 |
-| Part 1 | 年會 + 50週年感恩禮拜 + 桌球 — **牧谷長老教會** (Shepherd of the Valley), 1723 Park Lawn Rd, Hacienda Heights, CA — **not** [[organizations/good-shepherd-taiwanese-presbyterian-church||GSTPC 好牧者]] |
+| Part 1 | 年會 + 50週年感恩禮拜 + 桌球 — **牧谷長老教會** (Shepherd of the Valley), 1723 Park Lawn Rd, Hacienda Heights, CA — **not** [[organizations/good-shepherd-taiwanese-presbyterian-church]] |
 | Part 2 | 尋夢公主號 (Discovery Princess), LA 27 Apr → Vancouver 4 May |
-| Editor | [[people/david-huang||黃德利]] 總編輯 — churches asked for 設教簡史 + 歷任牧者年表 + 2–4 photos |
+| Editor | [[people/david-huang]] 總編輯 — churches asked for 設教簡史 + 歷任牧者年表 + 2–4 photos |
 
 GSTPC [14 Apr 2024 bulletin](https://gstpc.org/home/04-14-2024-sunday-bulletin/) also points the 50th thanksgiving to Shepherd of the Valley.
 
@@ -228,7 +229,7 @@ The NTPC Executive Committee formally endorsed the publication.
 - [[people/ralph-su||Ralph Su (蘇惠智)]]
 - [[people/xie-xinguang||Rev. Xie Xinguang (謝信光)]]
 - [[people/chen-hui-chen||Chen Hui-Chen (陳慧貞)]]
-- [[people/zhang-aihui||Zhang Ai-Hui (張愛惠)]]
+- [[people/zhang-aihui||Esther Pan (張愛惠)]]
 - [[people/lin-yushu||Lin Yu-Shu (林育武)]]
 - [ntpc-usa.org](https://www.ntpc-usa.org/)
 - [2024 50th invitation PDF](https://www.ntpc-usa.org/app/download/769534377/50%E9%80%B1%E5%B9%B4%E5%B9%B4%E6%9C%83%E9%82%80%E8%AB%8B%E5%87%BD.pdf)

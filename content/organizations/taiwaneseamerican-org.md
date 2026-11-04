@@ -11,7 +11,7 @@ tags:
   - story-corpus
 website: https://www.taiwaneseamerican.org/
 verification_status: pending
-last_reviewed: 2026-10-12
+last_reviewed: 2026-11-01
 ---
 # TaiwaneseAmerican.org
 
@@ -49,17 +49,17 @@ Official About: **To connect, inform and promote** the people, events and organi
 
 | Role | Name | Notes |
 |------|------|--------|
-| Founder / founding board | [[people/ho-chie-tsai||Ho Chie Tsai]] | Pediatrician; TAF; TAP-SF |
-| Editor-in-Chief | [[people/leona-chen||Leona Chen]] | *Book of Cord*; Fremont Taiwan School |
+| Founder / founding board | [[people/ho-chie-tsai]] | Pediatrician; TAF; TAP-SF |
+| Editor-in-Chief | [[people/leona-chen]] | *Book of Cord*; Fremont Taiwan School |
 | Food Editor | Tiffany Ran | Seattle; Babalio pop-up |
 | Editorial Director (founding) | Anna Wu | Duke; *Daiwan-lang* documentary |
 | Digital Strategy Director (founding) | Dot Lin | TANG; Dartmouth / Kellogg |
-| Outreach Director (founding) | [[people/pamela-hung||Pamela Hung]] | TAP-Boston; ITASA |
+| Outreach Director (founding) | [[people/pamela-hung]] | TAP-Boston; ITASA |
 | Social Media Director (founding) | Eric Kao | ITASA; TAF |
 | Executive Director (founding) | Erica Ling | UCSD; Loyola Law; ITASA West |
 | Logistics & Operations | Margaret Chen | ITASA, TANG, TAF |
-| Finance Director | [[people/carol-lee||Carol Lee]] | listed title only |
-| Legal Counsel | Nicholas Huang | Indianapolis attorney — **not merged** with [[people/nicholas-c-huang||Nicholas C. Huang (黄文郁)]] until 漢名+bio HIT |
+| Finance Director | [[people/carol-lee]] | listed title only |
+| Legal Counsel | Nicholas Huang | Indianapolis attorney — **not merged** with [[people/nicholas-c-huang]] until 漢名+bio HIT |
 | Administrative Assistant to the Board | Grace Liang | TAP Atlanta; Georgia Tech |
 | Administrative Director | Kristina Lin | ITASA; NATWA II; GLO |
 | Technical Advisor | Wil Chung | listed title only |

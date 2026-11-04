@@ -127,16 +127,16 @@ knowledge/web-archives/taiwanjustice-net/
 
 | Chinese | Slug | Articles | Role |
 |---------|------|---------:|------|
-| [[people/tsai-ing-wen||蔡英文]] | `people/tsai-ing-wen` | 222 | President (2016–2024) |
-| [[people/lai-ching-te||賴清德]] | `people/lai-ching-te` | 211 | President (2024–) |
-| [[people/ke-wenze||柯文哲]] | `people/ke-wenze` | 167 | Mayor Taipei / TPP |
-| [[people/han-guoyu||韓國瑜]] | `people/han-guoyu` | 124 | Kaohsiung Mayor / KMT |
-| [[people/ma-yingjeou||馬英九]] | `people/ma-yingjeou` | 109 | President (2008–2016) |
-| [[people/hou-yu-ih||侯友宜]] | `people/hou-yu-ih` | 84 | Mayor New Taipei / KMT |
-| [[people/lin-jialong||林佳龍]] | `people/lin-jialong` | 68 | Mayor Tainan |
+| [[people/tsai-ing-wen]] | `people/tsai-ing-wen` | 222 | President (2016–2024) |
+| [[people/lai-ching-te]] | `people/lai-ching-te` | 211 | President (2024–) |
+| [[people/ke-wenze]] | `people/ke-wenze` | 167 | Mayor Taipei / TPP |
+| [[people/han-guoyu]] | `people/han-guoyu` | 124 | Kaohsiung Mayor / KMT |
+| [[people/ma-yingjeou]] | `people/ma-yingjeou` | 109 | President (2008–2016) |
+| [[people/hou-yu-ih]] | `people/hou-yu-ih` | 84 | Mayor New Taipei / KMT |
+| [[people/lin-jialong]] | `people/lin-jialong` | 68 | Mayor Tainan |
 | 王金平 | `people/wang-jinping` | 24 | Politician |
 | 謝長廷 | `people/frank-hsieh` | 22 | former Premier / DPP |
-| [[people/chen-shuibian||陳水扁]] | `people/chen-shuibian` | 14 | President (2000–2008) |
+| [[people/chen-shuibian]] | `people/chen-shuibian` | 14 | President (2000–2008) |
 
 ### Video Series (20+)
 
@@ -195,7 +195,7 @@ See `knowledge/research/taiwanjustice-net/GAP_REPORT.md` — residual download f
 - [[people/john-j-tkacik||John J. Tkacik (譚慎格)]]
 - [[people/ryan-hass||Ryan Hass (何瑞恩)]]
 - [[people/hong-ya||Hong Ya (洪雅)]]
-- [[people/zeng-daoxiong||Zeng Dao-xiong (曾道雄)]]
+- [[people/zeng-daoxiong||Tseng Dao-xiong (曾道雄)]]
 - [[people/li-jian||Li Jian (李堅)]]
 - [[people/du-ao-cunfu||Du Ao Cunfu (獨傲村夫)]]
 - [[people/jiang-bai-xian||Jiang Bai-xian (江百顯)]]

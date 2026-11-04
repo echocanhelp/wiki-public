@@ -13,7 +13,7 @@ tags:
   - immigrant-community
   - Taiwanese-language
 verification_status: pending
-last_reviewed: 2026-10-11
+last_reviewed: 2026-11-01
 ---
 # Good Shepherd Taiwanese Presbyterian Church
 
@@ -62,10 +62,10 @@ From GSTPC40 許明遠 thanks + dated essays (not TAH alone):
 
 | Role / years | Person | Source |
 |---|---|---|
-| Plant / 首任 (installed 1985); TAH: senior 1980–2002 | [[people/david-huang||黃德利]] | GSTPC40; TAH |
-| 傳道及**第二任牧師 2006–2016**; deacon 1981–86 | [[people/cai-weiren||蔡維仁]] | GSTPC40 蔡文 |
-| In post 2018 (堅信禮) | [[people/ralph-su||蘇惠智]] | GSTPC40 孫紫雲 |
-| Full-time **July 2019–** | [[people/mingyuan-hsu||許明遠]] | GSTPC pastor page + 40th |
+| Plant / 首任 (installed 1985); TAH: senior 1980–2002 | [[people/david-huang]] | GSTPC40; TAH |
+| 傳道及**第二任牧師 2006–2016**; deacon 1981–86 | [[people/cai-weiren]] | GSTPC40 蔡文 |
+| In post 2018 (堅信禮) | [[people/ralph-su]] | GSTPC40 孫紫雲 |
+| Full-time **July 2019–** | [[people/mingyuan-hsu]] | GSTPC pastor page + 40th |
 
 Also thanked as having served (years not given in the 40th list): 吳天賜、葉君勇、郭應啟、陳順欽、黃梓洋、[[people/guo-dongxu||郭東緒]]、林雍迪.
 
@@ -171,6 +171,11 @@ Since 2020, [[people/mingyuan-hsu||Rev. Ming Yuan Hsu (許明遠牧師)]] has pu
 | **PCT** | **P**resbyterian **C**hurch in **T**aiwan · 台灣基督長老教會 | **origin / people / sister**, not membership |
 
 Good Shepherd is **not** a Presbyterian Church in Taiwan congregation. See [[organizations/tpc||TPC — Taiwanese Presbyterian Churches]].
+
+## From the record
+
+- **2020-04-23–25** — Hosted the **46th NTPC (全國台灣人教會聯合會) Annual Conference** under the theme 「遇見上主」; the NTPC home letter names the venue as 加州好牧者台灣基督長老教會 with lodging at Comfort Inn, Monterey Park (adjacent to the church's Atlantic Blvd address), and asks 南加州 TPC churches to attend as host church. Identity note: the **2024** conference was at 牧谷 (Shepherd of the Valley, Hacienda Heights), **not** GSTPC — the two "shepherd" venues are distinct. [[sources/ntpc-usa-org|NTPC USA archive]]
+- **2022-03-06** — Joined the 南加州 TPC outdoor service for **馬偕博士台灣宣教150週年** (Mackay 1872–2022), a heritage observance of the [[organizations/presbyterian-church-in-taiwan||PCT]] mission timeline — recorded as a sister-church/origin link, not PCT membership. [[sources/presbyterian-church-in-taiwan|PCT official website source]]
 
 ## Related Pages
 

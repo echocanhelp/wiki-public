@@ -11,7 +11,7 @@ tags:
   - education
   - certification
 verification_status: pending
-last_reviewed: 2026-10-12
+last_reviewed: 2026-10-13
 ---
 # Overseas Community Affairs Council (僑務委員會)
 
@@ -40,7 +40,7 @@ OCAC has undergone several name changes reflecting Taiwan's evolving political l
 | Name | Period | Notes |
 |------|--------|-------|
 | Overseas Chinese Affairs Commission | October 1926 – April 2006 | Original name |
-| Overseas Compatriot Affairs Commission | April 2006 – 1 September 2012 | Renamed under [[people/chen-shuibian||Chen Shui-bian]] to "avoid being confused as a governmental body of the PRC" |
+| Overseas Compatriot Affairs Commission | April 2006 – 1 September 2012 | Renamed under [[people/chen-shuibian]] to "avoid being confused as a governmental body of the PRC" |
 | Overseas Chinese Affairs Commission | 1 September 2012 – 12 November 2012 | Brief interim |
 | Overseas Community Affairs Council | Since 12 November 2012 | Current name; reverted under KMT after 2012 election |
 
@@ -133,7 +133,7 @@ OCAC plays a significant role in the **Taiwanese-American experience** in Southe
 
 | Position | Name | Party | Term |
 |----------|------|-------|------|
-| Minister | Hsu Chia-ching (徐佳青) | [[organizations/democratic-progressive-party||DPP]] | Jan 2023 – present |
+| Minister | Hsu Chia-ching (徐佳青) | [[organizations/democratic-progressive-party]] | Jan 2023 – present |
 | Vice Minister | Roy Leu (呂欣彥) | — | — |
 
 ### Historical Ministers (selected)
@@ -191,6 +191,16 @@ OCAC plays a significant role in the **Taiwanese-American experience** in Southe
 - 2003 — Minnesota: OCAC Commissioner Fu-mei Chang and Chicago office director 陳俊賢 called on the Minnesota state government in April and held a compatriot forum; the OCAC Chicago 僑教中心 donated the initial book collection of the 台灣線上圖書館 launched by 蔡玉茂 in September ([[works/taiwaneseamericanhistory-org/ourjourneys123|明州鄉親年誌]]).
 - Recreation support — the Toronto table-tennis championship revived "with OCAC venue sponsorship" (在僑委會的場地贊助下), showing OCAC underwrites community recreation at the city level, not only arts and culture ([[works/taiwaneseamericanhistory-org/ourjourneys185|多倫多乒乓球記]]).
 - 複核（DEEPEN-X10120316-18, 2026-10-12）：全庫 ZH+EN grep（僑務委員會／僑務委員／僑委會／OCAC／王桂榮／Kenjohn Wang）再驗證——本輪補鏈 4 筆先前未鏈接記錄（ourjourneys259 黑名單交渉、ourjourneys38/38-eng 張富美募款記、ourjourneys123 明州參訪、ourjourneys185 多倫多乒乓球）。其餘 hits 為重複記述或王桂榮個人傳記材料，留於王桂榮相關頁面。1 筆日期衝突已 HOLD（張富美 1982 vs 2000–2008）。
+- 2021-04-01 — Anti-Asian hate-crime response: as attacks against Asian Americans spread across the US, OCAC Commissioner Tung Chen-yuan directed overseas community-affairs staff to monitor compatriot safety via LINE and Facebook, coordinate with local police through the Emergency Assistance Associations, and hold a video conference with the US-region diaspora on April 7; the council reported no cases of harmed US compatriots at that point ([[articles/taiwanjustice-net/2022/20220809222224_2021_04_01_美國亞裔仇恨犯罪延燒_僑委會指示駐外人員協助_95dc48d9b1941fe5|TJJ, 2021-04-01]]).
+- 2021-08-29 — An 海外台語文教師研習會 at the 大洛杉磯台灣會館, organized by the Taiwan School with the LA 華僑文教中心 co-organizing and the 中華民國僑務委員會 sponsoring, drew ~30 participants across three generations — OCAC's sponsorship of Taiwanese-language teacher training, not only Mandarin, at community venues ([[articles/taiwanjustice-net/2022/20220929012615_2021_08_29_海外台語文教師研習會_在大洛杉磯台灣會館舉_c6e1212dbd31e97c|TJJ, 2021-08-29]]).
+- 2022-02-26 — Heidelberg became Germany's second Taiwan Center for Mandarin Learning (after Hamburg, Sept 2021), founded by the 僑團「國際傑人會德國總會」with OCAC support — the TCML program's European expansion is recorded from the community side ([[articles/taiwanjustice-net/2022/20220227161430_2022_02_26_德國第2所-海德堡台灣華語文學習中心揭牌_6d190b0ed29c53f2|TJJ, 2022-02-26]]).
+- 2022-06-29 — OCAC Commissioner Tung Chen-yuan attended the 51st 美東台灣人夏令會 (TAC/EC, founded 1970) in Poughkeepsie, NY — the first post-pandemic return after two years dark — thanking the diaspora for advancing US-Taiwan relations; President Tsai sent a recorded message on second-generation identity. OCAC leadership appears inside a core Taiwanese-American summer institution's record, not only at ROC-side events ([[articles/taiwanjustice-net/2022/20220813063444_2022_06_29_美東台灣人夏令會疫後回歸_童振源感謝僑界貢獻_40aafe4c9e048251|TJJ, 2022-06-29]]).
+- 2022-11-20 — OCAC announced 26 new 臺灣華語文學習中心 for 2023 (22 US + Germany, Belgium, Czechia, Switzerland), bringing the total to 43 after the 2021–22 build-out; the approved list is a census of the Taiwan-oriented school network OCAC underwrites ([[articles/taiwanjustice-net/2022/20221205044410_2022_11_20_僑委會2023年新設26所_臺灣華語文學習中心_f489cc684cf9e7a9|TJJ, 2022-11-20]]).
+- 2022-11-27 — 世台聯合基金會 (STUF) charity dinner attendees included OCAC Vice Chairperson 呂元榮 — HOLD: this 呂元榮 does not match the page's Deputy Roy Leu (呂欣彥); treat as a possible additional or interim vice minister, no names merged.
+- 2022-05-17 — A FASCA-LA monthly training session opened with an OCAC commissioner's recorded address and cited OCAC programming (僑見天涯海角徵稿、僑委會 90 週年「老物品」募集 via 台美商會), showing OCAC embeds its outreach inside FASCA youth training cycles ([[articles/taiwanjustice-net/2022/20221002085705_2022_05_17_natma於fasca-la月會分享赴日內瓦聲援台灣參與wha歷程_0b5374a3901fdc77|TJJ, 2022-05-17]]).
+- 複核（DEEPEN-X10121500-16, 2026-10-13）：全庫 ZH+EN grep（僑務委員會／僑務委員／僑委會／OCAC／王桂榮／Kenjohn Wang／Ken John Wang）再驗證——本輪補鏈 6 筆先前未鏈接記錄（2021 仇恨犯罪應對、2021 會館台語研習會、2022 海德堡 TCML、2022 美東夏令會、2022 TCML 26 所清單、2022 FASCA-LA 月會）。其餘 hits 為重複記述、王桂榮個人傳記材料或僅 subject-link，留於王桂榮／會館相關頁面。1 筆身份衝突已 HOLD（呂元榮 vs 呂欣彥 副委員長記述）。
+- 2018 — OCAC's summer "Language Study Program for Compatriot Youth" (SCLP) placed a 16-year-old Taiwanese-American student at Tamkang University in New Taipei City alongside other international teens "supposedly all with family from the ROC" — the program's draw was the assumption of ROC family ties; the same summer window let her parents visit the Green Island White Terror Memorial Park to recover the years of her grandfather's political imprisonment (record published [[works/taiwaneseamerican-org/between-my-grandfather-taiwan-and-me|Between My Grandfather, Taiwan, and Me]], 2023-03-26).
+- 2025-06-30 — In an interview on the model-minority myth, Professor Hsin-I Cheng names OCAC — alongside TECRO and diasporic organizers — as one of the institutions whose current engagement "risks framing 'Taiwan issues' as conditional and strategic 'elite issues'" — OCAC appears in a second-generation critique of how overseas outreach is aimed, not only as a service provider ([[works/taiwaneseamerican-org/model-minority-myth-hsin-i-cheng|A Conversation with Professor Hsin-I Cheng, Part 2]], 2025-06-30).
 
 ## Related Pages
 
@@ -210,3 +220,5 @@ OCAC plays a significant role in the **Taiwanese-American experience** in Southe
 <!-- TJJ-A10101501-1: verified 2026-10-11 — wave-2 link+deepen re-check of slice 10101501-1 article 162effa713237818 (給台美人學生的 TASF COVID-19 疫情紓困獎學金, 2020-06-16) read fresh this attempt: OCAC subject link re-checked vs 正文 (以「former Overseas Community Affairs Council(OCAC) commissioner」修飾故僑務委員王桂榮捐地創設會館基金會之記述), real, no wrong/spurious links; 2020-06-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
 
 <!-- TJJ-A10120001-1: verified 2026-10-12 — wave-2 link+deepen re-check of slice 10120001-1 article 162effa713237818 (給台美人學生的 TASF COVID-19 疫情紓困獎學金接受申請, 2020-06-16) read fresh this attempt: Subjects links TASF／TACL／OCAC re-checked vs 正文 — TASF 贊助方＋創辦人余崇孝（Sean Yu）、TACL 共同發起／美國境外核發單位、OCAC 經「故僑務委員王桂榮」頭銜修飾語出現，all real, no wrong/spurious links; 2020-06-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10121102-1: verified 2026-10-13 — wave-2 link+deepen re-check of slice 10121102-1 article 162effa713237818 (給台美人學生的 TASF COVID-19 疫情紓困獎學金接受申請, 2020-06-16 刊 / 20200622034426 快照) read fresh this attempt: OCAC subject link re-checked vs 正文 (以「former Overseas Community Affairs Council (OCAC) commissioner」／「故僑務委員」修飾王桂榮 Ken John Wang 捐產創設大洛杉磯台灣會館基金會之記述), real, no wrong/spurious links; 2020-06-16 dated fact w/ article wikilink already in From the record — saturated, no new material. -->

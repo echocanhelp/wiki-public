@@ -66,29 +66,29 @@ The second TAHS commemorative publication, following the 2017 edition. This publ
 ### Priority A (2 people — deep narrative)
 | Person | Slug | Page |
 |--------|------|------|
-| Peng Ming-min | `peng-ming-min` | [[people/peng-ming-min||彭明敏 (Peng Ming-min)]] |
-| Zheng Bingquan | `zheng-bing-quan` | [[people/zheng-bing-quan||鄭炳全 (Zheng Bingquan)]] |
+| Peng Ming-min | `peng-ming-min` | [[people/peng-ming-min]] |
+| Zheng Bingquan | `zheng-bing-quan` | [[people/zheng-bing-quan]] |
 
 ### Priority B (17 people — stubs, depth pass pending)
 | Person | Slug | Page |
 |--------|------|------|
-| Zheng Dazhi | `zheng-dazhi` | [[people/zheng-dazhi||鄭達志 (Zheng Dazhi)]] |
-| Zheng Shaoliang | `zheng-shaoliang` | [[people/zheng-shaoliang||鄭紹良 (Zheng Shaoliang)]] |
-| Wang Taihe | `wang-taihe` | [[people/wang-taihe||王泰和 (Wang Taihe)]] |
-| Chen Zhefu & Xu Chunhui | `chen-zhefu-xu-chunhui` | [[people/chen-zhefu-xu-chunhui||陳哲夫、許春惠]] |
-| Ye Siya & Zhang Xinhui | `ye-siya-zhang-xinhui` | [[people/ye-siya-zhang-xinhui||葉思雅、張信惠]] |
-| Xu Zongbang | `xu-zongbang` | [[people/xu-zongbang||許宗邦 (Xu Zongbang)]] |
-| Li Mutong | `li-mutong` | [[people/li-mutong||李木通 (Li Mutong)]] |
-| Chen Wenxue | `chen-wenxue` | [[people/chen-wenxue||陳文學 (Chen Wenxue)]] |
-| Wang Kexiong | `wang-kexiong` | [[people/wang-kexiong||王克雄 (Wang Kexiong)]] |
-| Wang Yao-ting & Xie Xiulan | `wang-yao-ting-xie-xiulan` | [[people/wang-yao-ting-xie-xiulan||王耀廷、謝秀緞]] |
-| Chen Wenshi | `chen-wenshi` | [[people/chen-wenshi||陳文石 (Chen Wenshi)]] |
-| Yang Huiqiao | `yang-huiqiao` | [[people/yang-huiqiao||楊惠喬 (Yang Huiqiao)]] |
-| Gene Tsai | `gene-tsai` | [[people/gene-tsai||蔡錦榮 (Gene Tsai)]] |
-| Xie Qingzhi & Xie Poyi | `xie-qingzhi-xie-poyi` | [[people/xie-qingzhi-xie-poyi||謝清志、謝泊怡]] |
-| Yang Chengwei | `yang-chengwei` | [[people/yang-chengwei||楊呵偉 (Yang Chengwei)]] |
-| Fan Qingliang | `fan-qingliang` | [[people/fan-qingliang||范清亮 (Fan Qingliang)]] |
-| [[people/yang-zhengxiang||Yang Zhengxiang]] | `yang-zhengxiang` | [[people/yang-zhengxiang||楊正光 (Ethan Yang)]] |
+| Zheng Dazhi | `zheng-dazhi` | [[people/zheng-dazhi]] |
+| Zheng Shaoliang | `zheng-shaoliang` | [[people/zheng-shaoliang]] |
+| Wang Taihe | `wang-taihe` | [[people/wang-taihe]] |
+| Chen Zhefu & Xu Chunhui | `chen-zhefu-xu-chunhui` | [[people/chen-zhefu-xu-chunhui]] |
+| Ye Siya & Zhang Xinhui | `ye-siya-zhang-xinhui` | [[people/ye-siya-zhang-xinhui]] |
+| Xu Zongbang | `xu-zongbang` | [[people/xu-zongbang]] |
+| Li Mutong | `li-mutong` | [[people/li-mutong]] |
+| Chen Wenxue | `chen-wenxue` | [[people/chen-wenxue]] |
+| Wang Kexiong | `wang-kexiong` | [[people/wang-kexiong]] |
+| Wang Yao-ting & Xie Xiulan | `wang-yao-ting-xie-xiulan` | [[people/wang-yao-ting-xie-xiulan]] |
+| Chen Wenshi | `chen-wenshi` | [[people/chen-wenshi]] |
+| Yang Huiqiao | `yang-huiqiao` | [[people/yang-huiqiao]] |
+| Gene Tsai | `gene-tsai` | [[people/gene-tsai]] |
+| Xie Qingzhi & Xie Poyi | `xie-qingzhi-xie-poyi` | [[people/xie-qingzhi-xie-poyi]] |
+| Yang Chengwei | `yang-chengwei` | [[people/yang-chengwei]] |
+| Fan Qingliang | `fan-qingliang` | [[people/fan-qingliang]] |
+| [[people/yang-zhengxiang]] | `yang-zhengxiang` | [[people/yang-zhengxiang]] |
 
 ## Depth Status
 - **Content priority A:** 2/2 PASS (depth floor met)

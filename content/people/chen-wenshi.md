@@ -15,7 +15,7 @@ last_reviewed: 2026-08-30
 ---
 # Stone Chen (陳文石)
 
-**Stone Chen** is the **public / legal English name** on TAH Who’s Who (`English Name: Stone Chen`). **陳文石** is the 漢名. **Chen Wenshi** is a Pinyin dump — display only, not the legal EN. Slug stays `chen-wenshi`. Alias page: [[people/stone-chen]]]].
+**Stone Chen** is the **public / legal English name** on TAH Who’s Who (`English Name: Stone Chen`). **陳文石** is the 漢名. **Chen Wenshi** is a Pinyin dump — display only, not the legal EN. Slug stays `chen-wenshi`. Alias page: [[people/stone-chen]].
 
 ## Identity Snapshot
 
@@ -111,8 +111,8 @@ TAH card title **Stone Chen 陳文石**. English Name = **Stone Chen**. Do not o
 | 1995 | With 林哲雄醫師 et al.: 台灣望春風文化出版社 | TAH |
 | 2000 | 民進黨美西黨部主委 | TAH; CNA/TJ 2020 also says 曾任民主進步黨美西黨部主委 |
 | 2006 | 全僑和平民主聯盟總盟理事長 | TAH |
-| 2007–08 | Chairman, [[organizations/taiwan-center||大洛杉磯台灣會館]] | TAH |
-| 2018-08-09 | Co-coordinator, 蕭泰然音樂節 / Maestro [[people/tyzen-hsiao||Tyzen Hsiao]] Music Festival, LA | TAH |
+| 2007–08 | Chairman, [[organizations/taiwan-center]] | TAH |
+| 2018-08-09 | Co-coordinator, 蕭泰然音樂節 / Maestro [[people/tyzen-hsiao]] Music Festival, LA | TAH |
 
 Education **conflict, keep both:** 2023 TAHS pub: 1960 成大外文, 1964 graduate. TAH: 1969 復興美工, 1974/75 師大美術. Do not flatten into one degree.
 
@@ -283,6 +283,15 @@ Notable quotes and mentions of **陳文石** in Taiwan Justice articles:
 - 邱永漢關係企業求美公司 — 1976- — 總經理
 <!-- tah-tables:end -->
 
+## From the record
+
+- 2018-09-26 — TAH Foundation 以「114. Stone Chen 陳文石」為獨立條目收錄本人，列於 TAH 故事語料庫（[[works/taiwaneseamericanhistory-org/114-stone-chen|TAH #114, 2018-09-26]]）。
+- 2018-07-03 — TAH Foundation 收錄「70. Collection of Mr. Stone Chen 陳文石先生的收藏」，記錄本人的藝術收藏（[[works/taiwaneseamericanhistory-org/collection-of-mr-stone-chen|TAH #70, 2018-07-03]]）。
+- 2016-10-25 — 本人於《美洲台灣日報》10/2016 發表專欄〈一頓飯 省下20億美元〉：憶述 1992 年間與江昭儀、侯貞雄等人促成台翔放棄以約 20 億美元收購麥克道格拉斯 40% 股權、轉往飛機保養維修深耕，並寄望海外台美人專業人士貢獻台灣（[[works/taiwaneseamericanhistory-org/ourjourneys261|TAH OurJourneys #261, 2016-10-25]]）。
+- 2016-05-20 — TAH Who's Who 以「1002. Stone Chen 陳文石 / 2016/05」條目收錄本人（[[works/taiwaneseamericanhistory-org/whoswho1002|TAH Who's Who #1002, 2016-05-20]]）。
+- 2015-06-12 — TAH Foundation 以「50. 陳文石 Stone Chen / 2015/05」條目收錄本人（[[works/taiwaneseamericanhistory-org/50-e9-99-b3-e6-96-87-e7-9f-b3-stone-chen201505|TAH #50, 2015-06-12]]）。
+- 2025-06-26 — 美洲台灣日報於天普市舉行高層人事交接，續任董事（徐新宏接任董事長、賴英慧接任社長、原社長李木通轉任董事）；報導稱其「年逾八十仍努力發聲」，為這家海外台灣人經營的媒體加油（[美洲台灣日報](https://taiwandaily.net/南加社區/85423/)，報導 2025-06-27）
+
 ## Sources
 - [TAH #114 encyclopedia: 114. Stone Chen 陳文石](https://taiwaneseamericanhistory.org/114-stone-chen/)
 - [TAH #26 encyclopedia: 26. 陳文石「台灣之美-水的世界」畫展、林榮松「鄉土之美」攝影展, El Monte, CA on 02/8-9/2003](https://taiwaneseamericanhistory.org/artshow26/)
@@ -339,3 +348,5 @@ Articles from taiwanjustice.net mentioning **陳文石 (Chen Wenshi)**:
    - Source: https://www.taiwanjustice.net/?p=106987
    - Match: alias='陳文石' where=body pts=40
    - Score: 65
+
+verified-saturation: 2026-10-16

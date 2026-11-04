@@ -86,14 +86,14 @@ The 2026 ITPC organizational structure includes the following committees and min
 | **議長 (Moderator)** |  |  |
 | **書記 (Clerk)** |  | 副書記:  |
 | **A. 崇拜典禮組 (Worship & Ceremonies)** | 陳淳正 (召) | 洪崇皙, 蕭慶和, 張佩仙, 張妙華, 翁妙玲, 張惟道, 方安姿 |
-| **B. 信徒教育組 (Believer Education)** | [[people/k-h-huang||黃國雄]] (召) | 林雅咏 (副召), 薛慧美, [[people/james-hu||胡宏仁]], 林金龍, 張啟偵, 黃勝雄, 陳建文, [[people/stanley-hsiao||蕭東賢]] |
+| **B. 信徒教育組 (Believer Education)** | [[people/k-h-huang]] (召) | 林雅咏 (副召), 薛慧美, [[people/james-hu]], 林金龍, 張啟偵, 黃勝雄, 陳建文, [[people/stanley-hsiao]] |
 | **C. 靈修宣道組 (Spiritual Devotion & Evangelism)** | 鍾瑞美 (召) | 陳建文, 許純真, 黃幸惠, 林錦好, 顏鴻州 |
 | **D. 影音錄影組 (Audio/Video)** | 鍾富榮 (召) | 蕭慶和 (顧問), 蔡淑蕙, 劉純真, 林英宏, 楊瑞珍 |
-| **E. 會友關懷組 (Member Care)** | 林淑華 (召) | 張啟偵 (副召), 顏鴻州, 林素珠, 鄭宏明, [[people/agnes-hsiao||黃美琇]] |
-| **F. 教會總務組 (Church Administration)** | 鄭宏明 (召) | 陳慶榮, [[people/qun-tsai||蔡昆]]山, 翁國田, 林淑華 |
-| **G. 會計財務組 (Accounting & Finance)** | 蔡淑蕙 (召) | 林淑華, 鍾瑞美, [[people/grace-lin||吳瑞惠]], 陳鳳珍, 林英宏, 梁淑慧, 陳素珠, 盧香吟 (稽查) |
+| **E. 會友關懷組 (Member Care)** | 林淑華 (召) | 張啟偵 (副召), 顏鴻州, 林素珠, 鄭宏明, [[people/agnes-hsiao]] |
+| **F. 教會總務組 (Church Administration)** | 鄭宏明 (召) | 陳慶榮, [[people/qun-tsai]]山, 翁國田, 林淑華 |
+| **G. 會計財務組 (Accounting & Finance)** | 蔡淑蕙 (召) | 林淑華, 鍾瑞美, [[people/grace-lin]], 陳鳳珍, 林英宏, 梁淑慧, 陳素珠, 盧香吟 (稽查) |
 | **H. 社區服務組 (Community Service)** |  |  |
-| H1. [[organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca||長青教室]] (Senior Class) | 林英宏 (召) | 黃勝雄, 蔡淑蕙, 林淑華, 謝崇仁, 林德生, 劉純真, [[people/matthias-c-h-lu||盧志華]], 歐孟軒 |
+| H1. [[organizations/evergreen-class-by-irvine-taiwanese-presbyterian-church-laguna-hills-ca]] (Senior Class) | 林英宏 (召) | 黃勝雄, 蔡淑蕙, 林淑華, 謝崇仁, 林德生, 劉純真, [[people/matthias-c-h-lu]], 歐孟軒 |
 | H2. 拿娥美事工 (Nao Mei Ministry) | 黃勝雄 (召) | 鍾瑞美, 蔡淑蕙, 林淑華, 黃美琇, 薛慧美 |
 | **I. 對外聯絡 (External Relations)** | 陳鳳珍 (召) | 黃勝雄, 陳建文, 黄美琇 |
 | **J. 財務管理會 (Financial Management)** | 黃勝雄 (召) | 陳建文, 薛慧美, 黃國雄, 胡宏仁 |
@@ -443,3 +443,7 @@ From I-5, take the El Toro exit west (towards Laguna Hills). Continue about 3 mi
 - [[people/h-j-chen||H. J. Chen (陳小娟)]]
 - [[people/harrison-lin||Harrison Lin (林貞棟)]]
 - [[people/peggy-chen||Peggy Chen (張佩仙)]]
+
+## From the record
+
+- **2026-08-18:** the official website of the [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (PCT)]] (pct.org.tw) was archived as a corpus source — v1+v2 pass covering the Who-We-Are pages and news index only, article bodies not archived — and the source record lists ITPC among its related pages, the institutional context for the congregation's Taiwanese-language Presbyterian heritage as distinct from its PC(USA) polity ([[sources/presbyterian-church-in-taiwan|PCT official website source]])
