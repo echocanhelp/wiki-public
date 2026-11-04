@@ -1,22 +1,8 @@
 {
   "version": 1,
-  "last_run": "2026-11-01",
+  "last_run": "2026-11-03",
   "standards_version_seen": 10,
   "runs": [
-    {
-      "date": "2026-10-03",
-      "candidates": 196,
-      "selected": 40,
-      "standards_version": 10,
-      "standards_bumped": false
-    },
-    {
-      "date": "2026-10-04",
-      "candidates": 196,
-      "selected": 40,
-      "standards_version": 10,
-      "standards_bumped": false
-    },
     {
       "date": "2026-10-05",
       "candidates": 196,
@@ -212,6 +198,20 @@
       "selected": 40,
       "standards_version": 10,
       "standards_bumped": false
+    },
+    {
+      "date": "2026-11-02",
+      "candidates": 339,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-11-03",
+      "candidates": 341,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
     }
   ],
   "queue": [
@@ -258,20 +258,6 @@
       ]
     },
     {
-      "path": "people/wang-shufen.md",
-      "findings": [
-        "NO_IDENTITY_SNAPSHOT"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
       "path": "people/xia-ming.md",
       "findings": [
         "NO_IDENTITY_SNAPSHOT"
@@ -287,6 +273,20 @@
     },
     {
       "path": "people/zou-jingwen.md",
+      "findings": [
+        "NO_IDENTITY_SNAPSHOT"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/wang-shufen.md",
       "findings": [
         "NO_IDENTITY_SNAPSHOT"
       ],
@@ -780,9 +780,9 @@
       ]
     },
     {
-      "path": "people/tom-lee.md",
+      "path": "people/王浩.md",
       "findings": [
-        "DESC_NO_TITLE_MENTION",
+        "LINKS_LOW_DENSITY",
         "LINKS_NO_RELATED",
         "STRUCT_NO_RELATED"
       ],
@@ -797,10 +797,11 @@
       "priority": "medium"
     },
     {
-      "path": "sources/gvm-134150-us-midterms-2026-10-29.md",
+      "path": "people/范雲.md",
       "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
+        "LINKS_NO_LINKS",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_RELATED"
       ],
       "hygiene": [],
       "instructions": [
@@ -813,11 +814,12 @@
       "priority": "medium"
     },
     {
-      "path": "sources/zhwp-keng-yuen-tseng.md",
+      "path": "people/賴總統.md",
       "findings": [
-        "LINKS_LOW_DENSITY",
         "LINKS_NO_RELATED",
-        "STRUCT_NO_STATS"
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED",
+        "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "hygiene": [],
       "instructions": [
@@ -830,14 +832,14 @@
       "priority": "medium"
     }
   ],
-  "last_candidates": 334,
+  "last_candidates": 341,
   "last_selected": [
     "people/bai-peiyu.md",
     "people/nanfang-shuo.md",
     "people/sang-pu.md",
-    "people/wang-shufen.md",
     "people/xia-ming.md",
     "people/zou-jingwen.md",
+    "people/wang-shufen.md",
     "people/george-lee.md",
     "people/huang-yongcheng.md",
     "people/kuan-cheng-lu.md",

@@ -1,4 +1,4 @@
-<!-- cron-inventory-meta: count=41 agent=1 bad_deliver=0 -->
+<!-- cron-inventory-meta: count=42 agent=2 bad_deliver=0 -->
 | Schedule | Job | Mode | En | Last | Script |
 |----------|-----|------|----|------|--------|
 | */15 * * * * | `swarm-churn-sweep` | no_agent | on | ok | `swarm-churn-sweep-cron.sh` |
@@ -7,6 +7,7 @@
 | 0 21 * * 0 | `vault-search-index-rebuild` | no_agent | on | ok | `vault-search-index-rebuild.sh` |
 | 0 22 * * * | `echopedia-extract-actions` | no_agent | on | ok | `echopedia-extract-actions.py` |
 | 0 23 * * * | `echopedia-person-works-linker` | no_agent | on | ok | `echopedia-person-works-linker-cron.sh` |
+| every day at 7am | `tahs-info-daily-brief` | AGENT | on | — | `productivity/google-workspace` |
 | every day at 9am | `echopedia-daily-watchdog` | no_agent | on | ok | `echopedia-daily-watchdog.sh` |
 | 10 1 * * * | `echopedia-docs-sync` | no_agent | on | ok | `echopedia-docs-sync-cron.sh` |
 | 10 21 * * * | `Echopedia content analysis` | no_agent | on | ok | `echopedia-content-analysis-cron.sh` |

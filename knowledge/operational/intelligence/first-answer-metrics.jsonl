@@ -1275,3 +1275,6 @@
 {"ts": "2026-11-02T05:03:53Z", "status": "miss", "query": "向陽號 Sunrich", "slug": null, "source": "cli", "kind": null}
 {"ts": "2026-11-02T05:11:38Z", "status": "miss", "query": "王姓船東", "slug": null, "source": "cli", "kind": null}
 {"ts": "2026-11-02T05:11:39Z", "status": "miss", "query": "古川勝久", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-03T05:41:40Z", "status": "miss", "query": "[Hsuperman] speaker identification updated on dashboard, republish echopedia page, also insert full meeting audio", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-11-04T06:50:30Z", "status": "miss", "query": "@Aiko 許 received email \"From: Jaouhari, Rami <RJaouhari@vtaig.com> \nSent: Tuesday, November 3, 2026 4:30 PM\nTo: leonardhsujr@gmail.com\nSubject: Re: [EXTERNAL] W", "slug": null, "source": "cron", "kind": null}
+{"ts": "2026-11-04T06:50:31Z", "status": "miss", "query": "@Aiko 許 Newport Beach has 2, Summer Curry reply \"From: Curry, Summer <summercurry@Group1Auto.com> \nSent: Tuesday, November 3, 2026 5:06 PM\nTo: leonardhsujr@gmai", "slug": null, "source": "cron", "kind": null}

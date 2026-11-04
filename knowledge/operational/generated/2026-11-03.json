@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-03",
+  "total_cards": 1,
+  "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-11-03.json",
+  "priority_counts": {
+    "high": 1
+  },
+  "playbook_counts": {
+    "P8": 1
+  },
+  "cards": [
+    {
+      "card_id": "echo-gen-2026-11-03-0001",
+      "title": "[HIGH] wang-shufen: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] wang-shufen: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/wang-shufen.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 111.0 (inbound links: 74)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/wang-shufen.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-11-03 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/wang-shufen.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 111.0,
+      "target_path": "/home/leedt/echo-system/content/people/wang-shufen.md"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "version": 1,
   "last_run": "self-heal-verify",
-  "last_run_date": "2026-11-01",
-  "pages_audited": 2996,
-  "issues_found": 38664,
+  "last_run_date": "2026-11-03",
+  "pages_audited": 2999,
+  "issues_found": 39672,
   "issue_history": [
     {
       "run_date": "2026-07-13",
@@ -2458,6 +2458,64 @@
       "cross_refs": 0,
       "prev_total": 38664,
       "delta": -29030
+    },
+    {
+      "run_date": "2026-11-02",
+      "total_issues": 39369,
+      "broken_links": 4740,
+      "missing_sections": 286,
+      "stale_content": 26660,
+      "orphans": 3116,
+      "cross_references": 311,
+      "missing_pages": 4255,
+      "index_sync": 0,
+      "web_issues": 1,
+      "structural": 88,
+      "dossier_lint_fail": 0,
+      "dossier_lint_new": 0,
+      "full_log": "/home/leedt/echo-system/echopedia/logs/nightly-audit-2026-11-02.txt"
+    },
+    {
+      "run_date": "2026-11-02",
+      "total_issues": 10322,
+      "broken_links": 4734,
+      "missing_pages": 2186,
+      "structural": 286,
+      "stale": 0,
+      "missing_sections": 0,
+      "orphans": 3116,
+      "cross_refs": 0,
+      "prev_total": 39369,
+      "delta": -29047
+    },
+    {
+      "run_date": "2026-11-03",
+      "total_issues": 39672,
+      "broken_links": 4960,
+      "missing_sections": 286,
+      "stale_content": 26739,
+      "orphans": 3118,
+      "cross_references": 311,
+      "missing_pages": 4258,
+      "index_sync": 0,
+      "web_issues": 0,
+      "structural": 86,
+      "dossier_lint_fail": 0,
+      "dossier_lint_new": 0,
+      "full_log": "/home/leedt/echo-system/echopedia/logs/nightly-audit-2026-11-03.txt"
+    },
+    {
+      "run_date": "2026-11-03",
+      "total_issues": 10537,
+      "broken_links": 4946,
+      "missing_pages": 2187,
+      "structural": 286,
+      "stale": 0,
+      "missing_sections": 0,
+      "orphans": 3118,
+      "cross_refs": 0,
+      "prev_total": 39672,
+      "delta": -29135
     }
   ],
   "resolved_issues": []

@@ -1,12 +1,12 @@
-## Queue drain — 2026-10-31
+## Queue drain — 2026-11-04
 - Items: **40**
 
 - `people/bai-peiyu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/nanfang-shuo.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/sang-pu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/wang-shufen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/xia-ming.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/zou-jingwen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/wang-shufen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/george-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/huang-yongcheng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/kuan-cheng-lu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
