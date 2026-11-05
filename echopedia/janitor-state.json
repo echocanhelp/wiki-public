@@ -1,15 +1,8 @@
 {
   "version": 1,
-  "last_run": "2026-11-03",
+  "last_run": "2026-11-04",
   "standards_version_seen": 10,
   "runs": [
-    {
-      "date": "2026-10-05",
-      "candidates": 196,
-      "selected": 40,
-      "standards_version": 10,
-      "standards_bumped": false
-    },
     {
       "date": "2026-10-06",
       "candidates": 196,
@@ -212,6 +205,13 @@
       "selected": 40,
       "standards_version": 10,
       "standards_bumped": false
+    },
+    {
+      "date": "2026-11-04",
+      "candidates": 348,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
     }
   ],
   "queue": [
@@ -273,20 +273,6 @@
     },
     {
       "path": "people/zou-jingwen.md",
-      "findings": [
-        "NO_IDENTITY_SNAPSHOT"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/wang-shufen.md",
       "findings": [
         "NO_IDENTITY_SNAPSHOT"
       ],
@@ -780,6 +766,38 @@
       ]
     },
     {
+      "path": "people/joshepine-chuang.md",
+      "findings": [
+        "LINK_BODY_SPARSE"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/嚴防中.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
       "path": "people/王浩.md",
       "findings": [
         "LINKS_LOW_DENSITY",
@@ -830,16 +848,67 @@
       ],
       "source": "content-analyzer",
       "priority": "medium"
+    },
+    {
+      "path": "sources/cna-shen-news-faceoff-2026-11-03.md",
+      "findings": [
+        "LINKS_NO_LINKS",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS",
+        "READABILITY_LONG_SENTENCES_30wps"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "sources/ettoday-taipei-postdebate-poll-2026-11-02.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "sources/taipei-strategy-institute-postdebate-poll-2026-11-02.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
     }
   ],
-  "last_candidates": 341,
+  "last_candidates": 348,
   "last_selected": [
     "people/bai-peiyu.md",
     "people/nanfang-shuo.md",
     "people/sang-pu.md",
     "people/xia-ming.md",
     "people/zou-jingwen.md",
-    "people/wang-shufen.md",
     "people/george-lee.md",
     "people/huang-yongcheng.md",
     "people/kuan-cheng-lu.md",
@@ -873,6 +942,7 @@
     "people/yi-hsin-lin.md",
     "people/nancy-jan.md",
     "people/shih-peng-chang.md",
-    "people/eric-teng-kuan-huang.md"
+    "people/eric-teng-kuan-huang.md",
+    "people/joshepine-chuang.md"
   ]
 }

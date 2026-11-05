@@ -1278,3 +1278,25 @@
 {"ts": "2026-11-03T05:41:40Z", "status": "miss", "query": "[Hsuperman] speaker identification updated on dashboard, republish echopedia page, also insert full meeting audio", "slug": null, "source": "brain", "kind": null}
 {"ts": "2026-11-04T06:50:30Z", "status": "miss", "query": "@Aiko 許 received email \"From: Jaouhari, Rami <RJaouhari@vtaig.com> \nSent: Tuesday, November 3, 2026 4:30 PM\nTo: leonardhsujr@gmail.com\nSubject: Re: [EXTERNAL] W", "slug": null, "source": "cron", "kind": null}
 {"ts": "2026-11-04T06:50:31Z", "status": "miss", "query": "@Aiko 許 Newport Beach has 2, Summer Curry reply \"From: Curry, Summer <summercurry@Group1Auto.com> \nSent: Tuesday, November 3, 2026 5:06 PM\nTo: leonardhsujr@gmai", "slug": null, "source": "cron", "kind": null}
+{"ts": "2026-11-04T16:53:25Z", "status": "miss", "query": "[Hsuperman] tell me about the regressions before we rollback", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-11-04T18:29:33Z", "status": "miss", "query": "[Hsuperman] tell me about the build effort", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-11-04T19:59:15Z", "status": "miss", "query": "@Echo許 AI助理 Process this valuable information", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-11-04T20:09:36Z", "status": "miss", "query": "Tzu Chi Houston", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-04T20:09:38Z", "status": "miss", "query": "Tzu Chi USA", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-04T20:09:39Z", "status": "hit", "query": "許景淳", "slug": "hsu-ching-chun", "source": "cli", "kind": "person"}
+{"ts": "2026-11-04T20:09:40Z", "status": "miss", "query": "荒山亮", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-04T20:50:12Z", "status": "miss", "query": "Afternoon", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-11-04T20:51:27Z", "status": "hit", "query": "Leonard Hsu Junior", "slug": "leonard-hsu-jr", "source": "cli", "kind": "person"}
+{"ts": "2026-11-04T20:51:28Z", "status": "miss", "query": "Afternoon", "slug": null, "source": "cli", "kind": null}
+{"ts": "2026-11-04T21:00:00Z", "status": "miss", "query": "黄樹人", "slug": null, "source": "cron", "kind": null}
+{"ts": "2026-11-04T21:00:00Z", "status": "miss", "query": "黄樹人", "slug": null, "source": "cron", "kind": null}
+{"ts": "2026-11-04T22:48:12Z", "status": "miss", "query": "[Hsuperman] Does this mean that valuable information is being cverify? And published to appropriate echopedia pages  and I do not have to verify", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-11-05T05:31:20Z", "status": "hit", "query": "[Hsuperman] Yes and set the tahs info daily brief to 830 am in this channel", "slug": "taiwanese-american-historical-society", "source": "brain", "kind": "organization"}
+{"ts": "2026-11-05T06:50:29Z", "status": "miss", "query": "黄樹人", "slug": null, "source": "cron", "kind": null}
+{"ts": "2026-11-05T06:50:30Z", "status": "miss", "query": "黄樹人", "slug": null, "source": "cron", "kind": null}
+{"ts": "2026-11-05T06:50:30Z", "status": "miss", "query": "黄樹人", "slug": null, "source": "cron", "kind": null}
+{"ts": "2026-11-05T06:50:31Z", "status": "miss", "query": "黄樹人", "slug": null, "source": "cron", "kind": null}
+{"ts": "2026-11-05T06:50:32Z", "status": "miss", "query": "黄樹人", "slug": null, "source": "cron", "kind": null}
+{"ts": "2026-11-05T06:50:33Z", "status": "miss", "query": "Jimmy hsu", "slug": null, "source": "cron", "kind": null}
+{"ts": "2026-11-05T06:50:34Z", "status": "miss", "query": "Jimmy hsu", "slug": null, "source": "cron", "kind": null}
+{"ts": "2026-11-05T06:50:35Z", "status": "miss", "query": "Jimmy hsu", "slug": null, "source": "cron", "kind": null}

@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-04",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
@@ -11,9 +11,9 @@
       "n": 0
     },
     "analyzer": {
-      "scanned": 3031,
-      "queued": 5,
-      "suppressed": 2513
+      "scanned": 3036,
+      "queued": 4,
+      "suppressed": 2538
     },
     "enrichment_writes": {
       "n": 0,
@@ -23,7 +23,7 @@
       "n": 40
     },
     "kanban.blocked": {
-      "n": 8
+      "n": 425
     },
     "kanban.auto_go": {
       "enabled": false
@@ -37,16 +37,20 @@
       "first_mention_apply": true
     },
     "cron.fail": [
-      "memory-audit"
+      "memory-audit",
+      "tier2-absorb",
+      "tier2-loop-watchdog"
     ]
   },
   "telegram_auto_lines": [
-    "✅ AUTO analyzer scanned 3031 queued 5 suppressed 2513",
+    "✅ AUTO analyzer scanned 3036 queued 4 suppressed 2538",
     "🟡 QUEUE janitor HOLD leftover 40",
-    "🟡 QUEUE kanban blocked 8",
-    "🔴 NEED YOU cron fail: memory-audit"
+    "🟡 QUEUE kanban blocked 425",
+    "🔴 NEED YOU cron fail: memory-audit, tier2-absorb, tier2-loop-watchdog"
   ],
   "cron_fail_names": [
-    "memory-audit"
+    "memory-audit",
+    "tier2-absorb",
+    "tier2-loop-watchdog"
   ]
 }

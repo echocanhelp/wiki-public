@@ -14,7 +14,7 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 On a phone, **use header search** (漢名 or English). This page is an A–Z list.
 
 
-*Showing first 1500 of 2464 entries (A–Z order) — use header **search** for any name not listed.*
+*Showing first 1500 of 2465 entries (A–Z order) — use header **search** for any name not listed.*
 
 ## Directory
 

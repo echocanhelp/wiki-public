@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-11-01
+TAHS · Echopedia morning brief — 2026-11-04
 5 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
@@ -19,13 +19,13 @@ TAHS · Echopedia morning brief — 2026-11-01
 🟡 QUEUE Charles Yang: soft pending aged out: capture_line_user_id_on_first_sender_message
 
 🟡 SOURCE CONTINUITY (live sites)
-✅ AUTO  taiwancenter-org: +3 new / 14 changed; applied 22
 ✅ AUTO  good-shepherd-taiwanese-presbyterian-church: +1 new / 3 changed; applied 6
-✅ AUTO  presbyterian-church-in-taiwan: +4 new / 2 changed; applied 8
-✅ AUTO  eastgatebarclay-org: +91 new / 9 changed; applied 102
+✅ AUTO  presbyterian-church-in-taiwan: +3 new / 1 changed; applied 6
+✅ AUTO  taiwaneseamerican-org: +0 new / 1 changed; applied 3
+✅ AUTO  eastgatebarclay-org: +57 new / 0 changed; applied 59
 
 🟡 NEXT INGEST (≤2, advisory — not started)
-🟡 QUEUE taiwandaily.net — external host on 235 Tier1 pages; not watched
+🟡 QUEUE taiwandaily.net — external host on 325 Tier1 pages; not watched
      → go Echopedia website https://taiwandaily.net/
 🟡 QUEUE wikidata.org — external host on 7 Tier1 pages; not watched
      → go Echopedia website https://wikidata.org/
@@ -34,7 +34,7 @@ TAHS · Echopedia morning brief — 2026-11-01
 🟡 QUEUE 13 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~21598 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~22472 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/taiwanese-association-of-northwest-los-angeles.md ↔ people/bang-h-hwang.md
@@ -44,11 +44,11 @@ TAHS · Echopedia morning brief — 2026-11-01
 🟡 QUEUE 5. Link tip: organizations/ai-education-foundation.md ↔ organizations/rowland-heights-chinese-association.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 225 visits since cutoff · yday 2026-10-31 = 15 · /people/albert-zh-sku-b-publisher-review.html 22, /people/gwhyneth-chen 16, / 15
+ℹ️  INFO  wiki 262 visits since cutoff · yday 2026-11-03 = 4 · / 23, /people/albert-zh-sku-b-publisher-review.html 22, /people/gwhyneth-chen 16
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 3031 queued 5 suppressed 2513
+✅ AUTO analyzer scanned 3036 queued 4 suppressed 2538
 🟡 QUEUE janitor HOLD leftover 40
-🟡 QUEUE kanban blocked 8
-🔴 NEED YOU cron fail: memory-audit
+🟡 QUEUE kanban blocked 425
+🔴 NEED YOU cron fail: memory-audit, tier2-absorb, tier2-loop-watchdog
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

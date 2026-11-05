@@ -12,7 +12,7 @@ tags:
   - diaspora-ministry
   - immigrant-church
 verification_status: published
-last_reviewed: 2026-10-12
+last_reviewed: 2026-11-05
 ---
 # Formosan Presbyterian Church in Los Angeles (FPCLA)
 
@@ -32,6 +32,10 @@ last_reviewed: 2026-10-12
 ### Predecessor: Taiyou Church (台友教會 — author-corrected 2026-10-24)
 
 Before FPCLA, an experimental church associated with [[people/jonah-chang||Rev. Jonah Chang (張瑞雄)]] held its first gathering **1970-08-09** at Centenary Methodist (c. 1967 Japanese Methodist facility context; content priority B). This experiment laid the groundwork for a separate Taiwanese congregation.
+
+> **Name sequence (Albert S. Lai, LINE 2026-11-04, oral, not in the dissertation):** 台友教會 was 張瑞雄's August 1970 one-month experiment. The congregation then renamed it FCCLA (洛杉磯台灣基督教教會); Albert continued that until spring 1971. After Pacific Presbytery help and a move, it became FPCLA. He says this was a completed stage, not a failure, and not a dispute of system, line, or persons. He spells the partner church 「Wiltshire United Presbyterian Church」. The dissertation timeline below still says Wilshire Crest Presbyterian Church (move July 1971). Both wordings stay until a printed page reconciles them. Detail he points to: 「回憶論文當年背後的故事」.
+>
+> **Same message, fuller verbatim + one gloss (Albert LINE 2026-11-04, msg `639147221186773339`):** in this retelling he adds that 「台友教會」 was **曾被誤譯為「太陽教會」** — the author himself now glosses the sibling mistranslation alongside 「太陽教練會」; both strings are forbidden in derived text (see errata ledger E1/E4). He also names the接手 explicitly: 「由我接手繼續經營下去」 — Albert personally carried FCCLA from the end of the one-month experiment to spring 1971, until Pacific Presbytery (聯合長老教會太平洋中會) assistance and the move made it a formal partner congregation (正式夥伴會眾) of Wiltshire United Presbyterian Church, from which point it was 正式改名 FPCLA. He closes the naming issue: the FPCLA name 「一直沿用到今天，應該再也不會改變了」. Verbatim tape: `knowledge/web-archives/albert-lai-line-20261104-five-answers.md`. **Author's own denial strings, kept verbatim (the negative evidence is the finding):** 「並沒有失敗，也沒有『沒撐住』，也沒有任何的體制、路線、或人的爭議」 and 「已經完成了階段性的使命」.
 
 > **Erratum (Albert S. Lai, LINE 2026-10-24, author-ordered):** the name should be 「**台友教會**」 (Taiyou Church = **Church of Taiwan Friends**) — 「應該是」 proposed and used by 張瑞雄 (Rev. Jonah Chang); the English back matter of the same book already reads 台友教會 / "Taiwanese Friendly Church", co-named by Chang and Pastor Chen — reconcile the two co-naming accounts before final wording. The Chinese rendering 「太陽教練會」 (Albert's exact error string) derived from the English is a mistranslation — 「請你把它改正過來」. Use 台友教會 in all derived text. **Reprint erratum list:** `knowledge/operational/albert-lai-reprint-errata.md` — page location in the published 2025 ZH book still to be cited (do not call it a book erratum until the printed page is confirmed). Albert preached his first 台語 sermon 「祝福之地」 there (manuscript lost; title only).
 

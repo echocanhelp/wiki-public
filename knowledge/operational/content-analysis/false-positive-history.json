@@ -21430,7 +21430,8 @@
     "2026-10-17",
     "2026-10-18",
     "2026-11-02",
-    "2026-11-03"
+    "2026-11-03",
+    "2026-11-04"
   ],
   "people/嚴查.md|LINKS_LOW_DENSITY": [
     "2026-10-16"
@@ -22276,21 +22277,24 @@
     "2026-10-29",
     "2026-10-30",
     "2026-11-02",
-    "2026-11-03"
+    "2026-11-03",
+    "2026-11-04"
   ],
   "people/賴總統.md|STRUCT_NO_IDENTITY": [
     "2026-10-28",
     "2026-10-29",
     "2026-10-30",
     "2026-11-02",
-    "2026-11-03"
+    "2026-11-03",
+    "2026-11-04"
   ],
   "people/賴總統.md|STRUCT_NO_RELATED": [
     "2026-10-28",
     "2026-10-29",
     "2026-10-30",
     "2026-11-02",
-    "2026-11-03"
+    "2026-11-03",
+    "2026-11-04"
   ],
   "sources/cna-taipei-ballot-number-2026-10-27.md|FRESHNESS_NO_REVIEW_DATE": [
     "2026-10-28",
@@ -22593,44 +22597,52 @@
   ],
   "people/wang-shufen.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-11-02",
-    "2026-11-03"
+    "2026-11-03",
+    "2026-11-04"
   ],
   "people/yi-min-lin.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-11-02",
-    "2026-11-03"
+    "2026-11-03",
+    "2026-11-04"
   ],
   "people/王浩.md|LINKS_LOW_DENSITY": [
     "2026-11-02",
-    "2026-11-03"
+    "2026-11-03",
+    "2026-11-04"
   ],
   "people/王浩.md|LINKS_NO_RELATED": [
     "2026-11-02",
-    "2026-11-03"
+    "2026-11-03",
+    "2026-11-04"
   ],
   "people/王浩.md|STRUCT_NO_IDENTITY": [
     "2026-11-02"
   ],
   "people/王浩.md|STRUCT_NO_RELATED": [
     "2026-11-02",
-    "2026-11-03"
+    "2026-11-03",
+    "2026-11-04"
   ],
   "people/范雲.md|LINKS_LOW_DENSITY": [
     "2026-11-02"
   ],
   "people/范雲.md|LINKS_NO_RELATED": [
     "2026-11-02",
-    "2026-11-03"
+    "2026-11-03",
+    "2026-11-04"
   ],
   "people/范雲.md|STRUCT_NO_IDENTITY": [
     "2026-11-02"
   ],
   "people/范雲.md|STRUCT_NO_RELATED": [
     "2026-11-02",
-    "2026-11-03"
+    "2026-11-03",
+    "2026-11-04"
   ],
   "people/賴總統.md|READABILITY_MANY_LONG_SENTENCES": [
     "2026-11-02",
-    "2026-11-03"
+    "2026-11-03",
+    "2026-11-04"
   ],
   "sources/zhwp-keng-yuen-tseng.md|DESC_TOO_SHORT": [
     "2026-11-02"
@@ -22640,12 +22652,96 @@
   ],
   "sources/zhwp-loring-wuliang-tu.md|STRUCT_NO_STATS": [
     "2026-11-02",
-    "2026-11-03"
+    "2026-11-03",
+    "2026-11-04"
   ],
   "people/范雲.md|LINKS_NO_LINKS": [
-    "2026-11-03"
+    "2026-11-03",
+    "2026-11-04"
   ],
   "sources/zhwp-meng-chih-chiang.md|STRUCT_NO_STATS": [
-    "2026-11-03"
+    "2026-11-03",
+    "2026-11-04"
+  ],
+  "organizations/tzu-chi-usa-southern-region.md|STRUCT_NO_HISTORY": [
+    "2026-11-04"
+  ],
+  "people/eddy-ji-xiao.md|READABILITY_LONG_SENTENCES": [
+    "2026-11-04"
+  ],
+  "people/kana-mimaki.md|READABILITY_LONG_SENTENCES": [
+    "2026-11-04"
+  ],
+  "people/pingtung-lai.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-11-04"
+  ],
+  "people/ric-jan.md|READABILITY_LONG_SENTENCES": [
+    "2026-11-04"
+  ],
+  "people/swee-koh.md|READABILITY_LONG_SENTENCES": [
+    "2026-11-04"
+  ],
+  "people/tah-p-a2aa6c2089.md|READABILITY_MANY_LONG_SENTENCES": [
+    "2026-11-04"
+  ],
+  "people/嚴防中.md|LINKS_LOW_DENSITY": [
+    "2026-11-04"
+  ],
+  "people/嚴防中.md|LINKS_NO_RELATED": [
+    "2026-11-04"
+  ],
+  "people/嚴防中.md|STRUCT_NO_IDENTITY": [
+    "2026-11-04"
+  ],
+  "people/嚴防中.md|STRUCT_NO_RELATED": [
+    "2026-11-04"
+  ],
+  "sources/cna-shen-news-faceoff-2026-11-03.md|LINKS_NO_LINKS": [
+    "2026-11-04"
+  ],
+  "sources/cna-shen-news-faceoff-2026-11-03.md|LINKS_NO_RELATED": [
+    "2026-11-04"
+  ],
+  "sources/cna-shen-news-faceoff-2026-11-03.md|STRUCT_NO_STATS": [
+    "2026-11-04"
+  ],
+  "sources/cna-shen-news-faceoff-2026-11-03.md|READABILITY_LONG_SENTENCES": [
+    "2026-11-04"
+  ],
+  "sources/ettoday-taipei-postdebate-poll-2026-11-02.md|LINKS_LOW_DENSITY": [
+    "2026-11-04"
+  ],
+  "sources/ettoday-taipei-postdebate-poll-2026-11-02.md|LINKS_NO_RELATED": [
+    "2026-11-04"
+  ],
+  "sources/ettoday-taipei-postdebate-poll-2026-11-02.md|STRUCT_NO_STATS": [
+    "2026-11-04"
+  ],
+  "sources/gwytb-zhufenglian-2026-11-04.md|LINKS_NO_RELATED": [
+    "2026-11-04"
+  ],
+  "sources/gwytb-zhufenglian-2026-11-04.md|STRUCT_NO_STATS": [
+    "2026-11-04"
+  ],
+  "sources/npa-transnational-repression-2026-11-04.md|LINKS_NO_RELATED": [
+    "2026-11-04"
+  ],
+  "sources/npa-transnational-repression-2026-11-04.md|STRUCT_NO_STATS": [
+    "2026-11-04"
+  ],
+  "sources/taipei-strategy-institute-postdebate-poll-2026-11-02.md|DESC_NO_TITLE_MENTION": [
+    "2026-11-04"
+  ],
+  "sources/taipei-strategy-institute-postdebate-poll-2026-11-02.md|LINKS_NO_RELATED": [
+    "2026-11-04"
+  ],
+  "sources/taipei-strategy-institute-postdebate-poll-2026-11-02.md|STRUCT_NO_STATS": [
+    "2026-11-04"
+  ],
+  "sources/tzuchi-us.md|LINKS_NO_RELATED": [
+    "2026-11-04"
+  ],
+  "sources/tzuchi-us.md|STRUCT_NO_STATS": [
+    "2026-11-04"
   ]
 }

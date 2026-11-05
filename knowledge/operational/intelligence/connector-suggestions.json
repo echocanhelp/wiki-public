@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-01T08:30:52.363186",
-  "pages_scanned": 3038,
+  "generated_at": "2026-11-04T08:30:55.263626",
+  "pages_scanned": 3047,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 9465,
-    "co_mention_count": 12133,
-    "shared_tags_count": 1,
+    "co_citation_count": 10318,
+    "co_mention_count": 12154,
+    "shared_tags_count": 7,
     "orphan_folder_count": 3,
     "kept_co_citation": 80,
     "kept_co_mention": 40,
-    "kept_shared_tags": 1
+    "kept_shared_tags": 7
   },
   "suggestions": {
     "co_citation": [
@@ -102,7 +102,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens for Taiwan (西雅圖美台會)",
-        "shared_targets_count": 2620
+        "shared_targets_count": 2621
       },
       {
         "type": "CO-CITATION",
@@ -111,7 +111,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
-        "shared_targets_count": 2620
+        "shared_targets_count": 2621
       },
       {
         "type": "CO-CITATION",
@@ -120,7 +120,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "shared_targets_count": 2620
+        "shared_targets_count": 2621
       },
       {
         "type": "CO-CITATION",
@@ -264,7 +264,7 @@
         "shared_target": "sources/taiwandaily-net",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
         "page2_title": "North America Taiwanese Professors' Association Southern California",
-        "shared_targets_count": 99
+        "shared_targets_count": 101
       },
       {
         "type": "CO-CITATION",
@@ -273,7 +273,7 @@
         "shared_target": "sources/taiwandaily-net",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
         "page2_title": "Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)",
-        "shared_targets_count": 99
+        "shared_targets_count": 101
       },
       {
         "type": "CO-CITATION",
@@ -282,7 +282,7 @@
         "shared_target": "sources/taiwandaily-net",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
         "page2_title": "Taiwanese American Association East San Gabriel Valley (洛杉磯聖東台灣同鄉會)",
-        "shared_targets_count": 99
+        "shared_targets_count": 101
       },
       {
         "type": "CO-CITATION",
@@ -1060,6 +1060,42 @@
     "shared_tags": [
       {
         "type": "SHARED_TAGS",
+        "page1": "sources/cna-shen-news-faceoff-2026-11-03.md",
+        "page2": "sources/ettoday-taipei-postdebate-poll-2026-11-02.md",
+        "page1_title": "Source: 沈伯洋《新聞面對面》謝震武專訪與競辦百萬觀看聲明（2026-11-02／11-03）",
+        "page2_title": "Source: ETtoday 民調雲 台北市長辯後民調（蔣萬安 52.0% vs 沈伯洋 40.7%）",
+        "shared_tags": [
+          "2026九合一",
+          "[source",
+          "台北市長"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/cna-shen-news-faceoff-2026-11-03.md",
+        "page2": "sources/gwytb-zhufenglian-2026-11-04.md",
+        "page1_title": "Source: 沈伯洋《新聞面對面》謝震武專訪與競辦百萬觀看聲明（2026-11-02／11-03）",
+        "page2_title": "Source: 國台辦 11/4 例行新聞發布會（朱鳳蓮批沈伯洋「本末倒置、數典忘祖」）",
+        "shared_tags": [
+          "2026九合一",
+          "[source",
+          "台北市長"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/cna-shen-news-faceoff-2026-11-03.md",
+        "page2": "sources/taipei-strategy-institute-postdebate-poll-2026-11-02.md",
+        "page1_title": "Source: 沈伯洋《新聞面對面》謝震武專訪與競辦百萬觀看聲明（2026-11-02／11-03）",
+        "page2_title": "Source: 台灣韜略策進學會 台北市長辯後民調（沈伯洋 52.6% vs 蔣萬安 35.3%）",
+        "shared_tags": [
+          "2026九合一",
+          "[source",
+          "台北市長"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
         "page1": "sources/ettoday-taipei-mayor-poll-2026-10-27.md",
         "page2": "sources/udn-taipei-mayor-poll-2026-10-27.md",
         "page1_title": "Source: ETtoday 民調雲 台北市長民調（蔣萬安 48.6% vs 沈伯洋 41.1%）",
@@ -1069,6 +1105,43 @@
           "[source",
           "poll",
           "台北市長選舉"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/ettoday-taipei-postdebate-poll-2026-11-02.md",
+        "page2": "sources/gwytb-zhufenglian-2026-11-04.md",
+        "page1_title": "Source: ETtoday 民調雲 台北市長辯後民調（蔣萬安 52.0% vs 沈伯洋 40.7%）",
+        "page2_title": "Source: 國台辦 11/4 例行新聞發布會（朱鳳蓮批沈伯洋「本末倒置、數典忘祖」）",
+        "shared_tags": [
+          "2026九合一",
+          "[source",
+          "台北市長"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/ettoday-taipei-postdebate-poll-2026-11-02.md",
+        "page2": "sources/taipei-strategy-institute-postdebate-poll-2026-11-02.md",
+        "page1_title": "Source: ETtoday 民調雲 台北市長辯後民調（蔣萬安 52.0% vs 沈伯洋 40.7%）",
+        "page2_title": "Source: 台灣韜略策進學會 台北市長辯後民調（沈伯洋 52.6% vs 蔣萬安 35.3%）",
+        "shared_tags": [
+          "2026九合一",
+          "[source",
+          "台北市長",
+          "民調"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/gwytb-zhufenglian-2026-11-04.md",
+        "page2": "sources/taipei-strategy-institute-postdebate-poll-2026-11-02.md",
+        "page1_title": "Source: 國台辦 11/4 例行新聞發布會（朱鳳蓮批沈伯洋「本末倒置、數典忘祖」）",
+        "page2_title": "Source: 台灣韜略策進學會 台北市長辯後民調（沈伯洋 52.6% vs 蔣萬安 35.3%）",
+        "shared_tags": [
+          "2026九合一",
+          "[source",
+          "台北市長"
         ]
       }
     ]

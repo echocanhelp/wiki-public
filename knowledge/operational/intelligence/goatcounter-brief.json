@@ -1,11 +1,16 @@
 {
-  "at": "2026-11-01T16:30:54Z",
+  "at": "2026-11-04T16:30:57Z",
   "cutoff": "2026-08-21T19:22:14Z",
   "ok": true,
-  "visits_since_cutoff": 225,
-  "yesterday_pdt": "2026-10-31",
-  "yesterday_visits": 15,
+  "visits_since_cutoff": 262,
+  "yesterday_pdt": "2026-11-03",
+  "yesterday_visits": 4,
   "top": [
+    {
+      "count": 23,
+      "path": "/",
+      "title": "Echopedia"
+    },
     {
       "count": 22,
       "path": "/wiki-public/people/albert-zh-sku-b-publisher-review.html",
@@ -15,11 +20,6 @@
       "count": 16,
       "path": "/wiki-public/people/gwhyneth-chen",
       "title": "Gwhyneth Chen (\u9673\u6bd3\u8944)"
-    },
-    {
-      "count": 15,
-      "path": "/",
-      "title": "Echopedia"
     },
     {
       "count": 13,
