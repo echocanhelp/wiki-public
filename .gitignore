@@ -68,3 +68,11 @@ knowledge/operational/tier2-absorb-queue.jsonl
 knowledge/operational/tier2-absorb-state.json
 knowledge/operational/tier2-absorb-processed.jsonl
 knowledge/operational/tier2-absorb-allowlist.json
+
+/public/
+/content/
+/.obsidian/
+/.staging/
+/tests/
+/sites/
+/tools/
