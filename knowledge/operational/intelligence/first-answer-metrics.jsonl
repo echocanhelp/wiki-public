@@ -1300,3 +1300,5 @@
 {"ts": "2026-11-05T06:50:33Z", "status": "miss", "query": "Jimmy hsu", "slug": null, "source": "cron", "kind": null}
 {"ts": "2026-11-05T06:50:34Z", "status": "miss", "query": "Jimmy hsu", "slug": null, "source": "cron", "kind": null}
 {"ts": "2026-11-05T06:50:35Z", "status": "miss", "query": "Jimmy hsu", "slug": null, "source": "cron", "kind": null}
+{"ts": "2026-11-05T15:41:20Z", "status": "hit", "query": "Leonard Hsu Junior", "slug": "leonard-hsu-jr", "source": "cron", "kind": "person"}
+{"ts": "2026-11-07T06:50:20Z", "status": "hit", "query": "Leonard Hsu Junior", "slug": "leonard-hsu-jr", "source": "cron", "kind": "person"}

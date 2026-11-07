@@ -1,4 +1,4 @@
-<!-- cron-inventory-meta: count=43 agent=2 bad_deliver=0 -->
+<!-- cron-inventory-meta: count=44 agent=2 bad_deliver=0 -->
 | Schedule | Job | Mode | En | Last | Script |
 |----------|-----|------|----|------|--------|
 | */15 * * * * | `swarm-churn-sweep` | no_agent | on | ok | `swarm-churn-sweep-cron.sh` |
@@ -38,6 +38,7 @@
 | 50 22 * * * | `echopedia-interaction-absorb` | no_agent | on | ok | `echopedia-interaction-absorb.py` |
 | 55 21 * * * | `tahs-linkcheck` | no_agent | on | ok | `tahs-linkcheck-cron.sh` |
 | every 1m | `vllm-thermal-scaler` | no_agent | on | ok | `vllm-thermal-scaler.sh` |
+| every 10m | `llm-guardrail-watchdog` | no_agent | on | ok | `llm-guardrail-watchdog.sh` |
 | every 120m | `absorb-ship-lane` | no_agent | on | ok | `echopedia-absorb-ship.py` |
 | every 30m | `tier2-absorb` | AGENT | on | ok | `tier2-absorb-queue.py` |
 | every 30m | `tier2-loop-watchdog` | no_agent | on | ok | `tier2-loop-watchdog.py` |
