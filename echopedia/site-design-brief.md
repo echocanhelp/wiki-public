@@ -1,6 +1,6 @@
-## Site design audit — 2026-11-07 00:55
+## Site design audit — 2026-11-08 00:47
 
-- pages_md=15224
+- pages_md=15238
 - critical=0 high=1 medium=0
 - heals_suggested=none
 
@@ -19,15 +19,15 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 26
+- **B1** person/org touched ≤7d (rely on recency featured window): 34
   - `people/c-y-hsu.md`
+  - `people/chen-mei-hui.md`
   - `people/chen-po-kong.md`
   - `people/eddy-ji-xiao.md`
   - `people/huang-diyin.md`
+  - `people/jennifer-an.md`
+  - `people/ji-keming.md`
   - `people/kana-mimaki.md`
-  - `people/li-jian.md`
-  - `people/lin-baohua.md`
-  - `people/pingtung-lai.md`
 
 ### Programmable heals
 - (none)

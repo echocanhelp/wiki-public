@@ -1,29 +1,32 @@
-## Echopedia Content Analysis — 2026-11-04
+## Echopedia Content Analysis — 2026-11-07
 - Standards v10
-- Pages scanned: **21** with findings
-- Auto-queued for remediation: **7** (score ≥ 3)
-- Wall time: 2.85s
+- Pages scanned: **47** with findings
+- Auto-queued for remediation: **25** (score ≥ 3)
+- Wall time: 2.31s
 
 ### Top 10 pages needing attention:
-- `people/嚴防中.md` score=4 — LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_IDENTITY, STRUCT_NO_RELATED
-- `people/賴總統.md` score=4 — LINKS_NO_RELATED, STRUCT_NO_IDENTITY, STRUCT_NO_RELATED, READABILITY_MANY_LONG_SENTENCES_4
-- `sources/cna-shen-news-faceoff-2026-11-03.md` score=4 — LINKS_NO_LINKS, LINKS_NO_RELATED, STRUCT_NO_STATS, READABILITY_LONG_SENTENCES_30wps
-- `sources/taipei-strategy-institute-postdebate-poll-2026-11-02.md` score=4 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_STATS
-- `people/王浩.md` score=3 — LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_RELATED
-- `people/范雲.md` score=3 — LINKS_NO_LINKS, LINKS_NO_RELATED, STRUCT_NO_RELATED
-- `sources/ettoday-taipei-postdebate-poll-2026-11-02.md` score=3 — LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_STATS
-- `people/yi-min-lin.md` score=2 — LINKS_LOW_DENSITY, READABILITY_MANY_LONG_SENTENCES_5
-- `sources/gwytb-zhufenglian-2026-11-04.md` score=2 — LINKS_NO_RELATED, STRUCT_NO_STATS
-- `sources/npa-transnational-repression-2026-11-04.md` score=2 — LINKS_NO_RELATED, STRUCT_NO_STATS
+- `people/fan-jiang-ti-ang.md` score=8 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/chen-po-kong.md` score=6 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_46wps
+- `people/du-ao-cunfu.md` score=6 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_94wps
+- `people/huang-diyin.md` score=6 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_92wps
+- `people/li-jian.md` score=6 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_120wps
+- `people/lin-baohua.md` score=6 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_57wps
+- `people/chao-sile.md` score=5 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/yang-yueqing.md` score=5 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `sources/hctmg-swee-koh-ji-xiao.md` score=5 ⚠️ DESC_TOO_SHORT, DESC_NO_TITLE_MENTION — DESC_TOO_SHORT, DESC_NO_TITLE_MENTION, LINKS_NO_LINKS, LINKS_NO_RELATED
+- `sources/hyac-kana-mimaki.md` score=5 ⚠️ DESC_TOO_SHORT, DESC_NO_TITLE_MENTION — DESC_TOO_SHORT, DESC_NO_TITLE_MENTION, LINKS_NO_LINKS, LINKS_NO_RELATED
 
 ### Auto-queued for P13 remediation:
-- `people/嚴防中.md` (medium) — LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_IDENTITY, STRUCT_NO_RELATED
-- `people/王浩.md` (medium) — LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_RELATED
-- `people/范雲.md` (medium) — LINKS_NO_LINKS, LINKS_NO_RELATED, STRUCT_NO_RELATED
-- `people/賴總統.md` (medium) — LINKS_NO_RELATED, STRUCT_NO_IDENTITY, STRUCT_NO_RELATED, READABILITY_MANY_LONG_SENTENCES_4
-- `sources/cna-shen-news-faceoff-2026-11-03.md` (medium) — LINKS_NO_LINKS, LINKS_NO_RELATED, STRUCT_NO_STATS, READABILITY_LONG_SENTENCES_30wps
-- `sources/ettoday-taipei-postdebate-poll-2026-11-02.md` (medium) — LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_STATS
-- `sources/taipei-strategy-institute-postdebate-poll-2026-11-02.md` (medium) — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_STATS
+- `people/chao-sile.md` (high) — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/chen-po-kong.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_46wps
+- `people/du-ao-cunfu.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_94wps
+- `people/fan-jiang-ti-ang.md` (high) — DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/guan-renjian.md` (medium) — FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/huang-diyin.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_92wps
+- `people/li-jian.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_120wps
+- `people/lin-baohua.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_57wps
+- `people/lin-sheng-yan.md` (medium) — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_RELATED
+- `people/roger-lin.md` (medium) — LINKS_NO_RELATED, STRUCT_NO_RELATED, READABILITY_LONG_SENTENCES_34wps
 
-- Log: `knowledge/operational/content-analysis/2026-11-04.jsonl`
+- Log: `knowledge/operational/content-analysis/2026-11-07.jsonl`
 - Queue: `echopedia/content-analysis-queue.json`

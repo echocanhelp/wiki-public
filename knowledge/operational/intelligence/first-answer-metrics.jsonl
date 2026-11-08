@@ -1302,3 +1302,6 @@
 {"ts": "2026-11-05T06:50:35Z", "status": "miss", "query": "Jimmy hsu", "slug": null, "source": "cron", "kind": null}
 {"ts": "2026-11-05T15:41:20Z", "status": "hit", "query": "Leonard Hsu Junior", "slug": "leonard-hsu-jr", "source": "cron", "kind": "person"}
 {"ts": "2026-11-07T06:50:20Z", "status": "hit", "query": "Leonard Hsu Junior", "slug": "leonard-hsu-jr", "source": "cron", "kind": "person"}
+{"ts": "2026-11-07T21:07:06Z", "status": "miss", "query": "[Hsuperman] Also search for Roger lin associated with tsu chi, one of the leaders for this event, identify and echopedia deepen", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-11-07T21:07:31Z", "status": "miss", "query": "[Hsuperman] Also search for Roger lin associated with tsu chi, one of the leaders for this event, identify and echopedia deepen", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-11-08T06:50:26Z", "status": "miss", "query": "On Sat, Nov 7, 2026, 5:02 PM Eric Kim <eric.kim@longolexus.net> wrote:\nhi Leonard,\nsorry the late responds.\nhere the car spec and price detail\nTX350 AWD Luxury", "slug": null, "source": "cron", "kind": null}
