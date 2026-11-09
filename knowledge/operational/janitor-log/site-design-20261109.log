@@ -1,0 +1,66 @@
+=== SITE DESIGN HEAL — 2026-11-09 dry=0 audit_only=1 ===
+flags: heal=True featured=True publish=True
+SITE_DESIGN_STATUS: ACTION
+SITE_DESIGN_SUMMARY: critical=0 high=3 medium=0 md=15243 heals=publish
+HIGH: [A3] MD without HTML: 3 (recent≤7d: 3)
+HIGH: [B3] new/changed MD missing HTML (≤7d)
+HIGH: [A8] Explorer useSavedState not false on homepage (stale localStorage fileTree)
+SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
+SITE_DESIGN_HEAL: audit-only status=ACTION
+=== SITE DESIGN AUDIT ===
+SITE_DESIGN_STATUS: ACTION
+SITE_DESIGN_SUMMARY: critical=0 high=3 medium=0 md=15243 heals=publish
+HIGH: [A3] MD without HTML: 3 (recent≤7d: 3)
+HIGH: [B3] new/changed MD missing HTML (≤7d)
+HIGH: [A8] Explorer useSavedState not false on homepage (stale localStorage fileTree)
+SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
+## Site design audit — 2026-11-09 00:30
+
+- pages_md=15243
+- critical=0 high=3 medium=0
+- heals_suggested=publish
+
+### Summary
+- **SITE_DESIGN_STATUS: ACTION**
+
+### HIGH (3)
+- **A3** MD without HTML: 3 (recent≤7d: 3) `[heal:publish]`
+  - `sources/zhwp-shiao-uen-ding.md`
+  - `sources/zhwp-sin-i-hsiao.md`
+  - `events/sc-good-shepherd-taiwan-home-bulletin-archive.md`
+- **B3** new/changed MD missing HTML (≤7d) `[heal:publish]`
+  - `sources/zhwp-shiao-uen-ding.md`
+  - `sources/zhwp-sin-i-hsiao.md`
+  - `events/sc-good-shepherd-taiwan-home-bulletin-archive.md`
+- **A8** Explorer useSavedState not false on homepage (stale localStorage fileTree)
+  - path: `/home/leedt/echo-system/index.html`
+
+### LOW (1)
+- **C1** spelling signals (sample): 2 `[AGENT_SUGGESTED]`
+  - `penghu-info.md: ?ching`
+  - `presbyterian-church-in-taiwan.md: teh→the`
+
+### INFO (2)
+- **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
+  - `people/albert-s-lai.md`
+  - `people/liao-shu-zong.md`
+  - `people/lin-fu-kun.md`
+  - `people/lin-yuan-ching.md`
+  - `people/yang-jia-you.md`
+  - `people/yang-xin.md`
+- **B1** person/org touched ≤7d (rely on recency featured window): 35
+  - `people/c-y-hsu.md`
+  - `people/chen-mei-hui.md`
+  - `people/chen-po-kong.md`
+  - `people/eddy-ji-xiao.md`
+  - `people/huang-diyin.md`
+  - `people/jennifer-an.md`
+  - `people/ji-keming.md`
+  - `people/kana-mimaki.md`
+
+### Programmable heals
+- publish
+
+### P13 agent scope
+- Only items marked AGENT_SUGGESTED or human-directed layout marker fixes.
+- Canon: echopedia/SITE_DESIGN.md

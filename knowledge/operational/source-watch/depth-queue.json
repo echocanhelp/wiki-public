@@ -1,53 +1,53 @@
 {
-  "at": "2026-10-12T06:52:23Z",
+  "at": "2026-11-09T07:52:01Z",
   "items": [
     {
       "id": "taiwancenter-org",
       "page": "content/organizations/taiwan-center.md",
-      "bytes": 31437,
+      "bytes": 51478,
       "tier": "THICK"
     },
     {
       "id": "good-shepherd-taiwanese-presbyterian-church",
       "page": "content/organizations/good-shepherd-taiwanese-presbyterian-church.md",
-      "bytes": 13634,
+      "bytes": 14537,
       "tier": "THICK"
     },
     {
       "id": "irvine-taiwanese-presbyterian-church",
       "page": "content/organizations/irvine-taiwanese-presbyterian-church.md",
-      "bytes": 32117,
+      "bytes": 32580,
       "tier": "THICK"
     },
     {
       "id": "presbyterian-church-in-taiwan",
       "page": "content/organizations/presbyterian-church-in-taiwan.md",
-      "bytes": 24413,
+      "bytes": 26726,
       "tier": "THICK"
     },
     {
       "id": "laijohn-com",
       "page": "content/organizations/elder-john-lai-archives.md",
-      "bytes": 6399,
+      "bytes": 6710,
       "tier": "MEDIUM"
     },
     {
       "id": "taiwaneseamerican-org",
       "page": "content/organizations/taiwaneseamerican-org.md",
-      "bytes": 7110,
+      "bytes": 9025,
       "tier": "MEDIUM"
     },
     {
       "id": "ntpc-usa-org",
       "page": "content/organizations/national-taiwanese-presbyterian-council.md",
-      "bytes": 14985,
+      "bytes": 15152,
       "tier": "THICK"
     },
     {
       "id": "taiwaneseamericanhistory-org",
       "page": "content/organizations/tah-foundation.md",
-      "bytes": 7950,
-      "tier": "MEDIUM"
+      "bytes": 20843,
+      "tier": "THICK"
     },
     {
       "id": "eastgatebarclay-org",

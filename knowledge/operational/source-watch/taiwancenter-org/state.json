@@ -2,8 +2,8 @@
   "id": "taiwancenter-org",
   "urls": {
     "https://www.taiwancenter.org": {
-      "hash": "02a159942eac846e0ab260fe24756b86",
-      "len": 86410,
+      "hash": "17ca22dd6b5f7dc1d68aa61b2bd61cc2",
+      "len": 90134,
       "code": 200,
       "baseline": false
     },
@@ -50,8 +50,8 @@
       "baseline": false
     },
     "https://www.taiwancenter.org/latest-events": {
-      "hash": "18d61495cc4b1c475475e7592a740b28",
-      "len": 78635,
+      "hash": "35d6744ef10e032861a73ff7eb257844",
+      "len": 88801,
       "code": 200,
       "baseline": false
     },
@@ -92,8 +92,8 @@
       "baseline": false
     },
     "https://www.taiwancenter.org/en/home": {
-      "hash": "7b05c3b35e2e910e13655022527c0902",
-      "len": 87979,
+      "hash": "1fd040a60975de26c552a01598a57999",
+      "len": 91860,
       "code": 200,
       "baseline": false
     },
@@ -158,14 +158,14 @@
       "baseline": false
     },
     "https://www.taiwancenter.org/en/latest-events": {
-      "hash": "80555881e2d1e749eeeadfb881deb386",
-      "len": 58594,
+      "hash": "7570f16c0b2a6b44d8dd749c9b566caf",
+      "len": 63591,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwancenter.org/newsletter": {
-      "hash": "45f309974b7d40d147a0531ddc4c8e50",
-      "len": 30696,
+      "hash": "df9006f2be50e3036e2cb3d9e9458eeb",
+      "len": 32727,
       "code": 200,
       "baseline": false
     },
@@ -176,38 +176,38 @@
       "baseline": false
     },
     "https://www.taiwancenter.org/event/2025-annual-gala-fundraising-dinner": {
-      "hash": "e573f178486520b16912524f6c5831f2",
-      "len": 29305,
+      "hash": "363206ee72532a8a745fc1caa7a8c991",
+      "len": 32535,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwancenter.org/event/2025-miss-taiwan-usa-news": {
-      "hash": "88ce0ee37b15276f41b64368b8958388",
-      "len": 19213,
+      "hash": "e7f358bbff9ce3e420a696ebe730bf32",
+      "len": 20760,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwancenter.org/event/2025-traditional-week": {
-      "hash": "dd9c5a1d3976881f741395b2d0a6d324",
-      "len": 31564,
+      "hash": "5740531a6fe0f0e76f59202153a30265",
+      "len": 34794,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwancenter.org/event/2026-luo-shan-ji-tai-mei-ren-chuan-tong-zhou": {
-      "hash": "5e97be31142a168e4baa7ca660b7b6ea",
-      "len": 31450,
+      "hash": "7c060b20edb1b41ce2da33e7c11f6f77",
+      "len": 34628,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwancenter.org/event/2026-tai-wan-hui-guan-nian-hui": {
-      "hash": "d40740c30a5d8bcb182d60ee5c7174a7",
-      "len": 29739,
+      "hash": "a7cb488a897188dccfc2db5b1ea13650",
+      "len": 32969,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwancenter.org/event/228-memorial-commemoration-ceremony": {
-      "hash": "9125cfb5e696d022f9e5ef9992d45aa6",
-      "len": 30364,
+      "hash": "127024a83167c0a7e3f0c0b2c1909136",
+      "len": 33066,
       "code": 200,
       "baseline": false
     },
@@ -224,14 +224,14 @@
       "baseline": false
     },
     "https://www.taiwancenter.org/event/taiwan-joining-who": {
-      "hash": "c05542653c4dcb6fc01ab0797ae87ce0",
-      "len": 28726,
+      "hash": "943262e850071cedc4cde3f888d2f72e",
+      "len": 31956,
       "code": 200,
       "baseline": false
     },
     "https://www.taiwancenter.org/event/thanksgiving-dinner": {
-      "hash": "6af5ba9f8f3691c37e3e313d55c732a0",
-      "len": 29320,
+      "hash": "b7596b7c2114992daeec572795c4703f",
+      "len": 32022,
       "code": 200,
       "baseline": false
     },
@@ -272,12 +272,30 @@
       "baseline": false
     },
     "https://www.taiwancenter.org/event/tai-wan-zhang-hua-guang-xing-ge-zhang-zhong-ju-tuan-10yue-2ri-nan-jia-zhou-bu-dai-xi-xun-yan-shen-gong-zhi-lian": {
-      "hash": "ff75228685d5977cc284632db3a4f7be",
-      "len": 31723,
+      "hash": "d88bb298e8e26b8c5fb624945bb73588",
+      "len": 34953,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.taiwancenter.org/event/2026tai-wan-hai-wai-liu-xue-sheng-gan-en-jie-can-hui": {
+      "hash": "bd3e88791d0a3ee0c2f118b177f9b4a7",
+      "len": 20558,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.taiwancenter.org/event/guo-ji-zhi-ming-tai-yi-xiao-ti-qin-jia-chen-rui-ray-chen-luo-shan-ji-jing-cai-deng-chang": {
+      "hash": "c808176780cf939985594b8f0c1eddfa",
+      "len": 33353,
+      "code": 200,
+      "baseline": false
+    },
+    "https://www.taiwancenter.org/event/tai-wan-dian-ying-zuo-pie-zi-nu-hai-hao-lai-wu-mian-fei-fang-ying-dao-yan-zou-shi-qing-qin-lin-ying-hou-zuo-tan": {
+      "hash": "15d92a6ecf7b079e9a1821d09e2bca82",
+      "len": 33072,
       "code": 200,
       "baseline": false
     }
   },
-  "last_poll": "2026-10-12T06:45:28Z",
+  "last_poll": "2026-11-09T07:45:55Z",
   "baseline_at": "2026-08-09T21:01:41Z"
 }

@@ -2,8 +2,8 @@
   "id": "taiwaneseamerican-org",
   "urls": {
     "https://www.taiwaneseamerican.org/": {
-      "hash": "78fe90f3a24bebcbbb3c348dad6b5f84",
-      "len": 57558,
+      "hash": "ef78ab55de599bfb22e1925ad42aad3b",
+      "len": 58912,
       "code": 200,
       "baseline": false
     },
@@ -152,6 +152,6 @@
       "baseline": false
     }
   },
-  "last_poll": "2026-10-12T06:49:45Z",
+  "last_poll": "2026-11-09T07:49:43Z",
   "baseline_at": "2026-08-21T01:37:21Z"
 }

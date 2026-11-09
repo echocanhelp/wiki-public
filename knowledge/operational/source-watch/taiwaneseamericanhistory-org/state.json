@@ -126,8 +126,20 @@
       "len": 63316,
       "code": 200,
       "baseline": false
+    },
+    "https://taiwaneseamericanhistory.org/675-h-yi-chen-%e9%99%b3%e5%bf%97%e6%af%85-201510/": {
+      "hash": "47072fa642dc75e75f2a8c7ff268cb51",
+      "len": 62941,
+      "code": 200,
+      "baseline": false
+    },
+    "https://taiwaneseamericanhistory.org/305-chih-yi-chen-%e9%99%b3%e5%bf%97%e6%af%85-pianist-201510/": {
+      "hash": "4b723dd785af1c1938a4512b6d831734",
+      "len": 62942,
+      "code": 200,
+      "baseline": false
     }
   },
-  "last_poll": "2026-10-12T06:50:39Z",
+  "last_poll": "2026-11-09T07:50:36Z",
   "baseline_at": "2026-08-22T00:53:07Z"
 }

@@ -1,27 +1,27 @@
 {
-  "at": "2026-10-12T06:52:23Z",
+  "at": "2026-11-09T07:52:02Z",
   "suggestions": [
     {
       "kind": "website",
-      "host": "latimes.com",
-      "mentions": 6,
-      "score": 18,
-      "why": "external host on 6 Tier1 pages; not watched",
-      "action": "go Echopedia website https://latimes.com/"
+      "host": "taiwandaily.net",
+      "mentions": 412,
+      "score": 1236,
+      "why": "external host on 412 Tier1 pages; not watched",
+      "action": "go Echopedia website https://taiwandaily.net/"
     },
     {
       "kind": "website",
-      "host": "tcnn.org.tw",
-      "mentions": 6,
-      "score": 18,
-      "why": "external host on 6 Tier1 pages; not watched",
-      "action": "go Echopedia website https://tcnn.org.tw/"
+      "host": "tzuchi.us",
+      "mentions": 21,
+      "score": 63,
+      "why": "external host on 21 Tier1 pages; not watched",
+      "action": "go Echopedia website https://tzuchi.us/"
     }
   ],
-  "candidates_considered": 38,
+  "candidates_considered": 67,
   "pools": {
-    "website_like": 30,
+    "website_like": 51,
     "densify": 0,
-    "total": 38
+    "total": 67
   }
 }
