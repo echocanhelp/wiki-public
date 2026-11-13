@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "last_run": "2026-11-09T00:51:27",
+  "last_run": "2026-11-13T00:48:15",
   "status": "ACTION",
   "stats": {
-    "md": 15243,
+    "md": 15371,
     "critical": 0,
     "high": 1,
     "medium": 0,
@@ -33,118 +33,28 @@
     {
       "id": "B1",
       "sev": "INFO",
-      "msg": "person/org touched \u22647d (rely on recency featured window): 37",
+      "msg": "person/org touched \u22647d (rely on recency featured window): 113",
       "examples": [
-        "people/c-y-hsu.md",
-        "people/chen-mei-hui.md",
-        "people/chen-po-kong.md",
-        "people/du-ao-cunfu.md",
-        "people/eddy-ji-xiao.md",
-        "people/fan-jiang-ti-ang.md",
-        "people/huang-diyin.md",
-        "people/jennifer-an.md",
-        "people/ji-keming.md",
-        "people/kana-mimaki.md",
-        "people/li-jian.md",
-        "people/lin-baohua.md",
-        "people/lin-chong-guang.md",
-        "people/lin-sheng-yan.md",
-        "people/pingtung-lai.md"
+        "people/albert-chapter1-audiobook-taiwanese-female.md",
+        "people/albert-chapter1-zh-hsiaochen-full-review.md",
+        "people/alexander-macdonald.md",
+        "people/alexander-yeh.md",
+        "people/alice-huang.md",
+        "people/allen-chao.md",
+        "people/amenda-wu.md",
+        "people/andrew-lin.md",
+        "people/ang-lee.md",
+        "people/anita-chia-jung-lin.md",
+        "people/anne-ku-2.md",
+        "people/audrey-lo.md",
+        "people/benjamin-wu.md",
+        "people/benny-lee.md",
+        "people/billy-chang.md"
       ]
-    },
-    {
-      "id": "C1",
-      "sev": "LOW",
-      "msg": "spelling signals (sample): 2",
-      "examples": [
-        "penghu-info.md: ?ching",
-        "presbyterian-church-in-taiwan.md: teh\u2192the"
-      ],
-      "agent": true
     }
   ],
   "heals": [],
   "history": [
-    {
-      "at": "2026-10-31T00:32:40",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-10-31T00:45:10",
-      "status": "OK",
-      "critical": 0,
-      "high": 0,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-11-01T00:30:30",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 3,
-      "medium": 0,
-      "finding_count": 5
-    },
-    {
-      "at": "2026-11-01T00:38:40",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-11-01T22:29:28",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 0,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-11-01T22:46:04",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 0,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-11-02T00:30:31",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 0,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-11-02T00:38:45",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 0,
-      "finding_count": 4
-    },
-    {
-      "at": "2026-11-03T00:25:53",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 0,
-      "finding_count": 3
-    },
-    {
-      "at": "2026-11-03T00:30:30",
-      "status": "ACTION",
-      "critical": 0,
-      "high": 1,
-      "medium": 0,
-      "finding_count": 3
-    },
     {
       "at": "2026-11-04T00:30:29",
       "status": "ACTION",
@@ -304,6 +214,86 @@
       "high": 1,
       "medium": 0,
       "finding_count": 4
+    },
+    {
+      "at": "2026-11-10T00:25:56",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 0,
+      "finding_count": 4
+    },
+    {
+      "at": "2026-11-10T00:30:28",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 0,
+      "finding_count": 4
+    },
+    {
+      "at": "2026-11-11T00:30:04",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 3,
+      "medium": 0,
+      "finding_count": 5
+    },
+    {
+      "at": "2026-11-11T00:36:40",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 0,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-11-12T00:26:20",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 3,
+      "medium": 0,
+      "finding_count": 5
+    },
+    {
+      "at": "2026-11-12T00:26:22",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 3,
+      "medium": 0,
+      "finding_count": 5
+    },
+    {
+      "at": "2026-11-12T00:30:45",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 3,
+      "medium": 0,
+      "finding_count": 5
+    },
+    {
+      "at": "2026-11-13T00:30:11",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 3,
+      "medium": 0,
+      "finding_count": 5
+    },
+    {
+      "at": "2026-11-13T00:34:08",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 0,
+      "finding_count": 3
+    },
+    {
+      "at": "2026-11-13T00:48:15",
+      "status": "ACTION",
+      "critical": 0,
+      "high": 1,
+      "medium": 0,
+      "finding_count": 3
     }
   ]
 }

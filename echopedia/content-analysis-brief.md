@@ -1,32 +1,32 @@
-## Echopedia Content Analysis — 2026-11-07
+## Echopedia Content Analysis — 2026-11-12
 - Standards v10
-- Pages scanned: **47** with findings
-- Auto-queued for remediation: **25** (score ≥ 3)
-- Wall time: 2.31s
+- Pages scanned: **185** with findings
+- Auto-queued for remediation: **42** (score ≥ 3)
+- Wall time: 2.92s
 
 ### Top 10 pages needing attention:
-- `people/fan-jiang-ti-ang.md` score=8 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `people/chen-po-kong.md` score=6 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_46wps
-- `people/du-ao-cunfu.md` score=6 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_94wps
-- `people/huang-diyin.md` score=6 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_92wps
-- `people/li-jian.md` score=6 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_120wps
-- `people/lin-baohua.md` score=6 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_57wps
-- `people/chao-sile.md` score=5 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `people/yang-yueqing.md` score=5 ⚠️ DESC_TOO_SHORT — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `sources/hctmg-swee-koh-ji-xiao.md` score=5 ⚠️ DESC_TOO_SHORT, DESC_NO_TITLE_MENTION — DESC_TOO_SHORT, DESC_NO_TITLE_MENTION, LINKS_NO_LINKS, LINKS_NO_RELATED
-- `sources/hyac-kana-mimaki.md` score=5 ⚠️ DESC_TOO_SHORT, DESC_NO_TITLE_MENTION — DESC_TOO_SHORT, DESC_NO_TITLE_MENTION, LINKS_NO_LINKS, LINKS_NO_RELATED
+- `sources/dcb-james-alexander-macdonald-2026-11-12.md` score=6 — FRESHNESS_NO_REVIEW_DATE, LINKS_NO_LINKS, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `sources/ker-chau-li-thirdparty-capture.md` score=5 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_REVIEW_DATE, STRUCT_NO_STATS
+- `sources/tah-whos-who-dr-jenta-shen-capture.md` score=5 — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_REVIEW_DATE, STRUCT_NO_STATS
+- `people/梁文傑.md` score=4 — LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_IDENTITY, STRUCT_NO_RELATED
+- `sources/epochtimes-socal-un-58signers-2020-09-14.md` score=4 ⚠️ DESC_TOO_SHORT, DESC_NO_TITLE_MENTION — DESC_TOO_SHORT, DESC_NO_TITLE_MENTION, LINKS_NO_RELATED
+- `sources/epochtimes-socal-wha-press-report-2021-05-15.md` score=4 ⚠️ DESC_TOO_SHORT, DESC_NO_TITLE_MENTION — DESC_TOO_SHORT, DESC_NO_TITLE_MENTION, LINKS_NO_RELATED
+- `sources/ettoday-tsna-news586-j-c-hong-sbl.md` score=4 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_STATS
+- `sources/tah-profile-debbie-carlson-capture.md` score=4 — LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_STATS, READABILITY_MANY_LONG_SENTENCES_6
+- `sources/tah-whoswho-grace-fong-capture.md` score=4 — LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_STATS, READABILITY_MANY_LONG_SENTENCES_6
+- `sources/tah-whoswho-i-chuun-lee-capture.md` score=4 — LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_STATS, READABILITY_MANY_LONG_SENTENCES_4
 
 ### Auto-queued for P13 remediation:
-- `people/chao-sile.md` (high) — DESC_TOO_SHORT, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `people/chen-po-kong.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_46wps
-- `people/du-ao-cunfu.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_94wps
-- `people/fan-jiang-ti-ang.md` (high) — DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `people/guan-renjian.md` (medium) — FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `people/huang-diyin.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_92wps
-- `people/li-jian.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_120wps
-- `people/lin-baohua.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE, READABILITY_LONG_SENTENCES_57wps
-- `people/lin-sheng-yan.md` (medium) — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_RELATED
-- `people/roger-lin.md` (medium) — LINKS_NO_RELATED, STRUCT_NO_RELATED, READABILITY_LONG_SENTENCES_34wps
+- `organizations/beimei-luka-medical-mission.md` (medium) — LINKS_NO_RELATED, STRUCT_NO_HISTORY, STRUCT_NO_RELATED
+- `people/anita-wen-shin-chang.md` (medium) — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_5
+- `people/ding-xiaowen-singer.md` (medium) — LINKS_NO_RELATED, STRUCT_NO_RELATED, READABILITY_MANY_LONG_SENTENCES_4
+- `people/grace-chung.md` (medium) — DESC_NO_TITLE_MENTION, LINKS_LOW_DENSITY
+- `people/梁文傑.md` (medium) — LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_IDENTITY, STRUCT_NO_RELATED
+- `sources/dcb-james-alexander-macdonald-2026-11-12.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_NO_LINKS, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `sources/epochtimes-socal-un-58signers-2020-09-14.md` (medium) — DESC_TOO_SHORT, DESC_NO_TITLE_MENTION, LINKS_NO_RELATED
+- `sources/epochtimes-socal-wha-press-report-2021-05-15.md` (medium) — DESC_TOO_SHORT, DESC_NO_TITLE_MENTION, LINKS_NO_RELATED
+- `sources/ettoday-tsna-news586-j-c-hong-sbl.md` (medium) — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_STATS
+- `sources/ker-chau-li-thirdparty-capture.md` (high) — FRESHNESS_NO_REVIEW_DATE, LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_REVIEW_DATE, STRUCT_NO_STATS
 
-- Log: `knowledge/operational/content-analysis/2026-11-07.jsonl`
+- Log: `knowledge/operational/content-analysis/2026-11-12.jsonl`
 - Queue: `echopedia/content-analysis-queue.json`

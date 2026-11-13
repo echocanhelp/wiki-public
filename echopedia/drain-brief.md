@@ -1,17 +1,14 @@
-## Queue drain — 2026-11-09
+## Queue drain — 2026-11-13
 - Items: **40**
 
-- `people/bai-peiyu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/nanfang-shuo.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/sang-pu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/xia-ming.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/zou-jingwen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/huang-yongcheng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/kuan-cheng-lu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/po-wei-lai.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/chao-sile.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/chao-sile.md`: add last_reviewed, WROTE
 - `people/deng-shuzhen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/林芸.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/karen-chia-ling-ho.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `organizations/global-hakka-un-ngo-applying-committee-un-ngo.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -19,13 +16,10 @@
 - `people/mei-li-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/agnes-hsu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/hsien-ann-meng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/grace-chung.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/vera-hui-pin-hsu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/dr-min-chin-mary-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/jerry-jean.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/zheng-qinren.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/kerina-chang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/hanchien-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/mao-chung-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/feng-hsu-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `organizations/chhong-bi-memorial-fund.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -33,7 +27,6 @@
 - `people/ching-fen-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/janice-wong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/amanda-shumin-yang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/erh-jen-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/wei-ling-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/yi-hsin-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/nancy-jan.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -41,5 +34,12 @@
 - `people/eric-teng-kuan-huang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/joshepine-chuang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/yiwei-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/pei-shan-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/hsiang-ling-hsiao.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/san-nan-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/kai-ching-chang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/stanley-sun.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/felicia-tang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/prof-tai-chang-chiang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 
 Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link batch.

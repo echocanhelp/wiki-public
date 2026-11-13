@@ -1,155 +1,15 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-12",
   "standards_version": 10,
-  "total_pages_scanned": 3063,
-  "pages_with_findings": 47,
-  "auto_queued": 25,
+  "total_pages_scanned": 3192,
+  "pages_with_findings": 185,
+  "auto_queued": 42,
   "queue": [
     {
-      "path": "people/chao-sile.md",
+      "path": "organizations/beimei-luka-medical-mission.md",
       "findings": [
-        "DESC_TOO_SHORT",
-        "FRESHNESS_NO_REVIEW_DATE",
-        "STRUCT_NO_TYPE",
-        "STRUCT_NO_REVIEW_DATE"
-      ],
-      "priority": "high",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/chen-po-kong.md",
-      "findings": [
-        "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
-        "STRUCT_NO_TYPE",
-        "STRUCT_NO_REVIEW_DATE",
-        "READABILITY_LONG_SENTENCES_46wps",
-        "READABILITY_MANY_LONG_SENTENCES_280"
-      ],
-      "priority": "high",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/du-ao-cunfu.md",
-      "findings": [
-        "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
-        "STRUCT_NO_TYPE",
-        "STRUCT_NO_REVIEW_DATE",
-        "READABILITY_LONG_SENTENCES_94wps",
-        "READABILITY_MANY_LONG_SENTENCES_161"
-      ],
-      "priority": "high",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/fan-jiang-ti-ang.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
-        "STRUCT_NO_TYPE",
-        "STRUCT_NO_REVIEW_DATE",
-        "READABILITY_LONG_SENTENCES_90wps",
-        "READABILITY_MANY_LONG_SENTENCES_158"
-      ],
-      "priority": "high",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/guan-renjian.md",
-      "findings": [
-        "FRESHNESS_NO_REVIEW_DATE",
-        "STRUCT_NO_TYPE",
-        "STRUCT_NO_REVIEW_DATE"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/huang-diyin.md",
-      "findings": [
-        "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
-        "STRUCT_NO_TYPE",
-        "STRUCT_NO_REVIEW_DATE",
-        "READABILITY_LONG_SENTENCES_92wps",
-        "READABILITY_MANY_LONG_SENTENCES_158"
-      ],
-      "priority": "high",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/li-jian.md",
-      "findings": [
-        "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
-        "STRUCT_NO_TYPE",
-        "STRUCT_NO_REVIEW_DATE",
-        "READABILITY_LONG_SENTENCES_120wps",
-        "READABILITY_MANY_LONG_SENTENCES_160"
-      ],
-      "priority": "high",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/lin-baohua.md",
-      "findings": [
-        "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
-        "STRUCT_NO_TYPE",
-        "STRUCT_NO_REVIEW_DATE",
-        "READABILITY_LONG_SENTENCES_57wps",
-        "READABILITY_MANY_LONG_SENTENCES_223"
-      ],
-      "priority": "high",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/lin-sheng-yan.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
         "LINKS_NO_RELATED",
+        "STRUCT_NO_HISTORY",
         "STRUCT_NO_RELATED"
       ],
       "priority": "medium",
@@ -161,11 +21,25 @@
       ]
     },
     {
-      "path": "people/roger-lin.md",
+      "path": "people/anita-wen-shin-chang.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "READABILITY_MANY_LONG_SENTENCES_5"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/ding-xiaowen-singer.md",
       "findings": [
         "LINKS_NO_RELATED",
         "STRUCT_NO_RELATED",
-        "READABILITY_LONG_SENTENCES_34wps"
+        "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "priority": "medium",
       "instructions": [
@@ -176,12 +50,44 @@
       ]
     },
     {
-      "path": "people/yang-yueqing.md",
+      "path": "people/grace-chung.md",
       "findings": [
-        "DESC_TOO_SHORT",
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_LOW_DENSITY"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "people/梁文傑.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_IDENTITY",
+        "STRUCT_NO_RELATED"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/dcb-james-alexander-macdonald-2026-11-12.md",
+      "findings": [
         "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_NO_LINKS",
+        "LINKS_NO_RELATED",
         "STRUCT_NO_TYPE",
-        "STRUCT_NO_REVIEW_DATE"
+        "STRUCT_NO_REVIEW_DATE",
+        "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "priority": "high",
       "instructions": [
@@ -192,59 +98,13 @@
       ]
     },
     {
-      "path": "people/嚴防中.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_RELATED"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "people/張雅琳.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_RELATED"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "sources/epochtimes-swee-koh-2013.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "sources/hctmg-swee-koh-ji-xiao.md",
+      "path": "sources/epochtimes-socal-un-58signers-2020-09-14.md",
       "findings": [
         "DESC_TOO_SHORT",
         "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_LINKS",
         "LINKS_NO_RELATED"
       ],
-      "priority": "high",
+      "priority": "medium",
       "instructions": [
         "Load skill echopedia-ops then echopedia-ingestion-protocol",
         "Fix ONLY listed findings — no inventing biography",
@@ -253,103 +113,10 @@
       ]
     },
     {
-      "path": "sources/hyac-kana-mimaki.md",
+      "path": "sources/epochtimes-socal-wha-press-report-2021-05-15.md",
       "findings": [
         "DESC_TOO_SHORT",
         "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_LINKS",
-        "LINKS_NO_RELATED"
-      ],
-      "priority": "high",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "sources/roco-kana-mimaki.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_LINKS",
-        "LINKS_NO_RELATED"
-      ],
-      "priority": "high",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "sources/tzuchi-us-houston-afghan-immigrants-2025.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_STATS"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "sources/tzuchi-us-houston-health-fair-2019.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_STATS"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "sources/tzuchi-us-houston-training-day-2025.md",
-      "findings": [
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_STATS"
-      ],
-      "priority": "medium",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "sources/tzuchi-us-southern-region-leadership-2025-2026.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_STATS"
-      ],
-      "priority": "high",
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ]
-    },
-    {
-      "path": "sources/udn-writers-society-xiao-ji.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
         "LINKS_NO_RELATED"
       ],
       "priority": "medium",
@@ -361,7 +128,39 @@
       ]
     },
     {
-      "path": "sources/veryveggiemovement-san-dong-2021.md",
+      "path": "sources/ettoday-tsna-news586-j-c-hong-sbl.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/ker-chau-li-thirdparty-capture.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "high",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/sinica-iop-guo-chin-lin-capture.md",
       "findings": [
         "LINKS_LOW_DENSITY",
         "LINKS_NO_RELATED",
@@ -376,11 +175,28 @@
       ]
     },
     {
-      "path": "sources/yanjie-houston-press-2023-2026.md",
+      "path": "sources/tah-profile-debbie-carlson-capture.md",
       "findings": [
-        "DESC_NO_TITLE_MENTION",
         "LINKS_LOW_DENSITY",
         "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS",
+        "READABILITY_MANY_LONG_SENTENCES_6"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whos-who-dr-jenta-shen-capture.md",
+      "findings": [
+        "FRESHNESS_NO_REVIEW_DATE",
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_REVIEW_DATE",
         "STRUCT_NO_STATS"
       ],
       "priority": "high",
@@ -392,11 +208,433 @@
       ]
     },
     {
-      "path": "sources/zhwp-huang-shan-liang.md",
+      "path": "sources/tah-whoswho-c-p-huang-capture.md",
       "findings": [
-        "DESC_TOO_SHORT",
-        "LINKS_NO_LINKS",
-        "LINKS_NO_RELATED"
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-cady-tsai-capture.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-chern-hsiung-lai-capture.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-chia-yu-hsu-capture.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS",
+        "READABILITY_MANY_LONG_SENTENCES_5"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-chin-feng-chen-capture.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-ching-fen-lin-2-capture.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS",
+        "READABILITY_MANY_LONG_SENTENCES_6"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-chun-san-lee-capture.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-dr-jen-tse-cheng-capture.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-dr-min-yen-han-capture.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-dr-ray-wang-capture.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS",
+        "READABILITY_MANY_LONG_SENTENCES_5"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-dr-richard-r-hwang-capture.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-dr-w-p-andrew-lee-capture.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-dr-yao-chung-tsao-capture.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-emily-hsieh-capture.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-eric-cheng-capture.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-fu-te-ni-capture.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-george-lai-capture.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-grace-fong-capture.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS",
+        "READABILITY_MANY_LONG_SENTENCES_6"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-grace-liu-capture.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-hanchien-lee-capture.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS",
+        "READABILITY_MANY_LONG_SENTENCES_9"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-hyden-shen-capture.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-i-chunn-lee-capture.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS",
+        "READABILITY_MANY_LONG_SENTENCES_5"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-i-chuun-lee-capture.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-i-s-chen-capture.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-ian-y-lian-capture.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-james-jean-capture.md",
+      "findings": [
+        "LINKS_LOW_DENSITY",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-patrick-c-chen-capture.md",
+      "findings": [
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/taiwandaily-134518-six-center-statement-2026-04.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
+      ],
+      "priority": "medium",
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ]
+    },
+    {
+      "path": "sources/taiwandaily-77893-kuo-starlux-ontario-2025-05.md",
+      "findings": [
+        "DESC_NO_TITLE_MENTION",
+        "LINKS_NO_RELATED",
+        "STRUCT_NO_STATS"
       ],
       "priority": "medium",
       "instructions": [
@@ -407,6 +645,6 @@
       ]
     }
   ],
-  "suppressed_findings": 2476,
-  "fp_history_entries": 2792
+  "suppressed_findings": 2574,
+  "fp_history_entries": 3121
 }
