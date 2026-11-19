@@ -1,0 +1,13 @@
+Taiwan: "Joint Probe with U.S. into 'China Spy' Allegations Against Jensen Huang's Alleged Lover" - The Asia Business Daily
+Taiwan: "Joint Probe with U.S. into 'China Spy' Allegations Against Jensen Huang's Alleged Lover"
+by Jeon Jinyoung
+Published 13 Nov.2026 14:38(KST)
+Taiwan's Executive Yuan Press Conference
+The Taiwanese government has launched a joint investigation with the United States into allegations that Alice Huang (Chinese name: Huang Le), who is said to have had an affair with former Nvidia CEO Jensen Huang, spied for China. Taiwanese authorities confirmed that Alice Huang had entered Taiwan several times and have barred her from entering the island.
+According to Taiwan's Liberty Times on Nov. 13, the Executive Yuan said for the first time at a press conference on Nov. 12 that it was conducting an investigation in cooperation with the United States and other countries into allegations that Alice Huang spied for China.
+Alice Huang leaves after dining with Jensen Huang, former CEO of Nvidia, at a restaurant in Taipei, Taiwan, in May last year. Taipei, Taiwan = Reuters-Yonhap.
+Executive Yuan spokesperson Li Hui-chih said, "As a multinational cooperative investigation is underway into whether Alice Huang is suspected of criminal activity in individual cases, we cannot provide any further information at this time." She added, "If she is found to be involved in a crime, we will provide no further explanation in accordance with the principle of confidentiality in criminal investigations."
+Taiwanese authorities also released Alice Huang's travel records on Nov. 13. She visited Taiwan three times in 2024 and five times in 2025, and records showed that she had not entered Taiwan in 2026. Although Alice Huang is from China, authorities determined that she entered Taiwan as a Hong Kong resident.
+Taiwanese authorities said that they had also imposed entry restrictions on Alice Huang. The National Immigration Agency under the Ministry of the Interior said it had already revoked her entry permit and restricted her entry in coordination with national security authorities.
+Chiu Chui-cheng, chairman of the Mainland Affairs Council, said Alice Huang may have violated the Regulations Governing Hong Kong and Macau Residents' Entry into Taiwan, Residence, and Settlement, which cover cases in which a person may pose a threat to national interests or public safety. He said her applications to enter Taiwan in the future would be subject to strict scrutiny.
+Please email us at content@asiae.co.kr for feedback or corrections on our coverage.

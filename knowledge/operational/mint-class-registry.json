@@ -1,0 +1,216 @@
+{
+  "_comment": "SWARM-GUARD-3 single budget registry (t_418565a8) + SWARM-GUARD-1 backlog gate (t_0cb42501). ONE authoritative file: iteration-unit budgets per card class, per-class item caps consumed by mint_surface_check.py, and the backlog card-row cap consumed by backlog_gate.py. Every value is an INTEGER; a non-integer here is a FAIL-CLOSED signal by design, not a parse fallback.",
+  "_owner": "SWARM-GUARD-3 t_418565a8 (budget coherence). backlog_gate card_row_cap added by SWARM-GUARD-1 t_0cb42501 2026-11-15.",
+  "gate_max_items": 6,
+  "iteration_budget": {
+    "_unit": "iteration counts (same unit as goal_max_turns / agent.max_turns). One worker turn = one budget unit. Wall-clock is max_runtime_seconds, modelled elsewhere.",
+    "_enforced_by": "~/.hermes/scripts/iteration_budget_registry.py (check/resolve/slice-size/self-test); minters call resolve_args(CLASS) at create.",
+    "_admission_path": "gateway/session_kanban.py build_kanban_policy lines 80-91: NON-goal card goal_max_turns -> params.max_turns -> agent.max_turns, CLAMPED 5..120; NULL -> profile agent.max_turns (=30, the silent death default). delegation.max_iterations=20 gates delegation CHILDREN only, not kanban workers — kept here as a reported fact.",
+    "worker_ceiling_iterations": 80,
+    "worker_ceiling_source": "max(class budgets)",
+    "profile_default_max_turns": 30,
+    "delegation_max_iterations_reported": 20,
+    "per_card_goal_max_turns_band": [
+      5,
+      120
+    ],
+    "_band_rationale": "pinto-local admission clamp 5..120 (session_kanban.py:90). A budget outside the band is silently IGNORED by admission — so the registry check makes it RED instead.",
+    "slice_floor_iterations": 6,
+    "slice_ceiling_iterations": 20,
+    "min_sample_size": 20,
+    "fail_closed_iterations": 8,
+    "cap_death_dominance_ratio": 0.5,
+    "_slice_rationale": "slice_size_iterations = median iterations per SUCCESSFUL article from the perf ledger, clamped to [floor, ceiling]; requires >= min_sample_size success samples and cap-death ratio <= dominance ratio, else FAIL CLOSED to fail_closed_iterations. Failure medians are NEVER fed back — only completed-task samples count. Measured 2026-11-15: task_events completed payloads carry NO budget_used (0/20251) and task_runs has no iteration column, so per-article success samples exist only where a success sentinel exists (TAIWANDAILY absorb ledger); every other class runs fail-closed at 8 until the dispatcher instruments per-run budget_used on completions."
+  },
+  "backlog_gate": {
+    "card_row_cap": 70,
+    "_cap_rationale": "Card rows, not articles. Pile re-derived LIVE 2026-11-15 13:41: 78 open rows (74 needs_reslice + 4 NULL-block 'Iteration budget exhausted' signature; Grok cited 64 at card-writing time). Cap 70 < pile => the gate bites NOW on all net-new content mints and holds until the SWARM-GUARD-4 reslice lane drains under 70; the rescue lane (backlog_check rescue=True) is exempt so the drain itself is never gated. Re-derive, never memorize: python3 ~/.hermes/scripts/backlog_gate.py --check",
+    "_consumed_by": "~/.hermes/scripts/backlog_gate.py (single reader)",
+    "_unit": "open kanban card rows (needs_reslice OR block_kind NULL with 'Iteration budget exhausted' signature)"
+  },
+  "classes": [
+    {
+      "class": "CITATION-BLOCK",
+      "minter": "~/.hermes/profiles/pinto/cache/scratch (operator probe) / citation-emitter lane",
+      "item_cap": 1,
+      "goal_max_turns": 30,
+      "max_retries": 1,
+      "rescue": false,
+      "live_proof": false,
+      "budget_death_title_pattern": "CITATION-BLOCK:%",
+      "_note": "Citation layer GO 2026-11-19: one page per card; add ## Sources with explicit cited URLs where the page body cites sources inline but has no Sources section. Close predicate: page has '## Sources' heading with >=1 http(s) URL."
+    },
+    {
+      "class": "A-BAND",
+      "minter": "~/echo-system/scripts/a-band-build.py",
+      "item_cap": 6,
+      "goal_max_turns": 45,
+      "max_retries": 1,
+      "rescue": false,
+      "live_proof": false,
+      "budget_death_title_pattern": "A-BAND-%",
+      "_note": "Deepen lane (owner GO 2026-11-19): identity-hit taiwandaily articles not yet cited on the matched page. Batch = mint_gate.MAX_ITEMS-1 derived (TD cap-mismatch class: keep item_cap >= body items). Close gate = absorb-ledger line per article."
+    },
+    {
+      "class": "TAIWANDAILY-ABSORB",
+      "minter": "~/echo-system/scripts/taiwandaily-domain-build.py",
+      "item_cap": 8,
+      "goal_max_turns": 45,
+      "max_retries": 1,
+      "rescue": false,
+      "live_proof": false,
+      "budget_death_title_pattern": "TAIWANDAILY-ABSORB%",
+      "slice_size_ledger": {
+        "ledger": "taiwandaily-absorb-ledger",
+        "ledger_glob": "~/echo-system/knowledge/web-archives/tdm-*-absorb-ledger.jsonl"
+      },
+      "_note": "TD_DOMAIN_BATCH=8 exceeds mint_gate MAX_ITEMS=6 — cap conflict is SWARM-GUARD-2/3 to resolve (slice into gate-sized chunks). max_retries lowered to 1 here per budget-death class rule; minter now resolves BOTH goal_max_turns and max_retries from this registry at create (SWARM-GUARD-3 t_418565a8, was hardcoded 45/3)."
+    },
+    {
+      "class": "DEEPEN-X",
+      "minter": "~/echo-system/scripts/deepen-x-build.py",
+      "item_cap": 4,
+      "goal_max_turns": 45,
+      "max_retries": 1,
+      "rescue": false,
+      "live_proof": false,
+      "_note": "LIST_CAP=4 (DEEPEN_LIST_CAP). Historical DEEPEN cards had NULL goal_max_turns -> silent 30/30 deaths (the class this registry kills).",
+      "budget_death_title_pattern": "DEEPEN-X%"
+    },
+    {
+      "class": "TJJ-A",
+      "minter": "~/echo-system/scripts/tjj-card-build.py",
+      "item_cap": 1,
+      "goal_max_turns": 45,
+      "max_retries": 1,
+      "rescue": false,
+      "live_proof": false,
+      "budget_death_title_pattern": "TJJ-A%"
+    },
+    {
+      "class": "STORY-PASS",
+      "minter": "~/echo-system/scripts/story-pass-build.py",
+      "item_cap": 1,
+      "goal_max_turns": 45,
+      "max_retries": 1,
+      "rescue": false,
+      "live_proof": false,
+      "budget_death_title_pattern": "STORY-PASS%"
+    },
+    {
+      "class": "WEB-PASS",
+      "minter": "~/echo-system/scripts/web-pass-build.py",
+      "item_cap": 1,
+      "goal_max_turns": 30,
+      "max_retries": 1,
+      "rescue": false,
+      "live_proof": false,
+      "budget_death_title_pattern": "WEB-PASS%"
+    },
+    {
+      "class": "NEEDS-TIER",
+      "minter": "~/.hermes/scripts/echopedia-news-digest.py",
+      "item_cap": 1,
+      "goal_max_turns": 50,
+      "max_retries": 1,
+      "rescue": false,
+      "live_proof": false,
+      "_note": "50/50 budget-deaths on 2026-11-15; retries for this class must stay 1 (retry-same-slice forbidden).",
+      "budget_death_title_pattern": "NEEDS-TIER%"
+    },
+    {
+      "class": "NEWS-DEEPEN",
+      "minter": "~/.hermes/scripts/echopedia-news-digest.py",
+      "item_cap": 1,
+      "goal_max_turns": 45,
+      "max_retries": 1,
+      "rescue": false,
+      "live_proof": false,
+      "budget_death_title_pattern": "NEWS-DEEPEN%"
+    },
+    {
+      "class": "HOT-SUBJECT",
+      "minter": "~/.hermes/scripts/hot-subjects-watch.py",
+      "item_cap": 6,
+      "goal_max_turns": 45,
+      "max_retries": 1,
+      "rescue": false,
+      "live_proof": false,
+      "budget_death_title_pattern": "RECOLLECT-%",
+      "_note": "item_cap raised 1->6 2026-11-17: RECOLLECT bodies enumerate 4-6 numbered recollect targets; aligned to mint_gate MAX_ITEMS=6 (TD cap-mismatch lesson). Emitter now numbers items (capped-by-construction, SWARM-GUARD-2) so unbounded vocab is exempt."
+    },
+    {
+      "class": "FLOOR-ANCHOR",
+      "minter": "~/.hermes/scripts/mint-wave.py",
+      "item_cap": 1,
+      "goal_max_turns": 45,
+      "max_retries": 1,
+      "rescue": false,
+      "live_proof": false,
+      "budget_death_title_pattern": "FLOOR-ANCHOR%"
+    },
+    {
+      "class": "STRUCT-FILL",
+      "minter": "~/.hermes/scripts/mint-wave.py",
+      "item_cap": 1,
+      "goal_max_turns": 45,
+      "max_retries": 1,
+      "rescue": false,
+      "live_proof": false,
+      "budget_death_title_pattern": "STRUCT-FILL%"
+    },
+    {
+      "class": "generate-cards",
+      "minter": "~/.hermes/scripts/echopedia-generate-cards.py",
+      "item_cap": 6,
+      "goal_max_turns": 45,
+      "max_retries": 1,
+      "rescue": false,
+      "live_proof": true
+    },
+    {
+      "class": "DEEPEN-R",
+      "minter": "~/echo-system/scripts/deepen-r-build.py",
+      "item_cap": 1,
+      "goal_max_turns": 45,
+      "max_retries": 1,
+      "rescue": false,
+      "live_proof": false,
+      "_note": "Dormant builder (last run 09-14); gated so a manual re-run inherits the fix.",
+      "budget_death_title_pattern": "DEEPEN-R%"
+    },
+    {
+      "class": "FRONTIER",
+      "minter": "~/echo-system/scripts/frontier-build.py",
+      "item_cap": 6,
+      "goal_max_turns": 45,
+      "max_retries": 1,
+      "rescue": false,
+      "live_proof": false,
+      "_note": "Never emitted (default dry-run); gated for its first real run.",
+      "budget_death_title_pattern": "FRONTIER%"
+    },
+    {
+      "class": "UNABSORBED",
+      "minter": "~/.hermes/profiles/pinto/scripts/mint-wave.py",
+      "item_cap": 4,
+      "goal_max_turns": 45,
+      "max_retries": 1,
+      "rescue": false,
+      "live_proof": false,
+      "budget_death_title_pattern": "UNABSORBED%",
+      "_rationale": "capture<->person absorb edge (detector echopedia-capture-absorb-audit.py, 2026-11-16). One card = one person page, at most 4 bundled captures. M_UNLINKED/G_UNTRACKED are NOT cards - deterministic heal lanes in the detector handle them (adjudicated after Grok review deleg_9b167e9c)."
+    },
+    {
+      "class": "LINK-HEAL",
+      "minter": "~/.hermes/scripts/mint-wave.py",
+      "item_cap": 4,
+      "goal_max_turns": 30,
+      "max_retries": 1,
+      "rescue": false,
+      "live_proof": false,
+      "budget_death_title_pattern": "LINK-HEAL%",
+      "_note": "Minted 2026-11-17: janitor-drain LINK_BODY_SPARSE rows (related_wikis>=3 and body_wikis==0) -> one-page bounded cards. Close predicate = janitor structural_findings(page_meta()) no longer flags the page (detector is SSOT)."
+    }
+  ]
+}

@@ -71,7 +71,8 @@ ADDITIONAL_SLUGS = [
     "yuan-zhihui",       # 袁志輝
     "zheng-bingquan",    # 鄭炳全
     "li-rongsong",       # 林榮松
-    "cai-shunyu",        # 蔡順宇
+    # cai-shunyu removed t_eb595a46: retired redirect stub (cai-shunyu→sunu-tsai),
+    # name-map fabricated 蔡順宇 — 0 body occurrences in the only cited article
     "cao-changqing",     # 曹長青
     "chao-sile",         # 朝思樂
     "guan-renjian",      # 管仁健

@@ -59,7 +59,7 @@ ADDITIONAL_SLUGS = [
     "tang-peili", "yang-yuanxun", "yang-yueqing", "li-jian",
     "nanfang-shuo", "wang-dan", "wang-shufen", "wei-jingsheng",
     "wu-lipei", "xia-ming", "ye-siya", "zhang-xinhui",
-    "yuan-zhihui", "zheng-bingquan", "li-rongsong", "cai-shunyu",
+    "yuan-zhihui", "zheng-bingquan", "li-rongsong",  # cai-shunyu removed t_eb595a46: retired redirect stub, name-map fabricated 蔡順宇 (0 body occurrences in cited article)
     "cao-changqing", "chao-sile", "guan-renjian", "huang-yongcheng",
     "hu-ping", "kevin-lee", "bai-peiyu", "sang-pu", "shen-zizai",
     "ian-easton", "richard-d-fisher", "john-j-tkacik", "ryan-hass",
@@ -130,7 +130,7 @@ SLUG_TO_CHINESE = {
     "yuan-zhihui": "袁志輝",
     "zheng-bingquan": "鄭炳全",
     "li-rongsong": "林榮松",
-    "cai-shunyu": "蔡順宇",
+
     "cao-changqing": "曹長青",
     "chao-sile": "朝思樂",
     "guan-renjian": "管仁健",
@@ -426,6 +426,7 @@ def add_works_to_person_page(slug, title_articles, body_articles, dry_run=False)
     if works_match:
         old = works_match.group(0).strip()
         if old == new_section.strip():
+            print(f"  OK: {slug} — Works already current (no drift)")
             return False
         content = content[:works_match.start()] + "\n" + new_section.lstrip("\n") + content[works_match.end():]
     else:

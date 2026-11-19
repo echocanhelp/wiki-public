@@ -43,6 +43,10 @@ import urllib.request
 from datetime import date
 from pathlib import Path
 
+# SWARM-GUARD-1 (t_0cb42501): fail-closed backlog gate before every create.
+sys.path.insert(0, os.path.expanduser("~/.hermes/scripts"))
+from mint_guard import gated_once, budget_args  # noqa: E402
+
 REPO = Path("/home/leedt/echo-system")
 CACHE = Path.home() / ".hermes/cache/web-pass"
 STATE = CACHE / "state.json"
@@ -177,6 +181,11 @@ def fetch_extract(title: str) -> tuple[str, str, str]:
         "exintro": "1",
         "explaintext": "1",
         "redirects": "1",
+        # 2026-11-17 GO: nohit 20/20 night — exact-match by design, but zh.wp
+        # title variant (trad/simp) mismatch was a silent nohit class.
+        # converttitles resolves via MediaWiki's own title conversion; a miss
+        # is still nohit. Exact-match safety unchanged (no search box).
+        "converttitles": "1",
         "titles": title,
         "format": "json",
     })
@@ -459,10 +468,14 @@ def emit_card(rel, zh, en, slug, cache_path, url, today) -> str | None:
     env.pop("HERMES_DELEGATED_CHILD_CONTEXT", None)
     env.pop("HERMES_SUPERVISED_CHILD", None)
     title = f"WEB-PASS: confirm zh.wp {zh}"
+    if not gated_once("web-pass-build", key=f"web-pass:{slug}"):  # SWARM-GUARD-1
+        print("BACKLOG|SKIP", slug)
+        return None
     r = subprocess.run(
         ["hermes", "kanban", "create", title,
          "--assignee", "pinto", "--body", "pending",
          "--priority", str(PRIORITY), "--max-runtime", "900",
+         *budget_args("WEB-PASS"),  # SWARM-GUARD-3 t_418565a8: was NULL -> silent 30/30 deaths
          "--idempotency-key", f"web-pass:{slug}",
          "--skill", "echopedia-page-deepening",
          "--created-by", "web-pass-build", "--json"],

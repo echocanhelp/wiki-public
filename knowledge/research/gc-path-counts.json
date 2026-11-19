@@ -1,1 +1,19 @@
-{"scraped": "2026-10-05", "window": "7d", "total_visits": 29, "pages_shown": 27, "per_day": {"2026-09-28": 2, "2026-09-29": 9, "2026-09-30": 4, "2026-10-01": 6, "2026-10-05": 1, "2026-10-04": 2, "2026-10-02": 3}, "counts": {"/wiki-public/people/albert-zh-sku-b-publisher-review.html": 7, "/wiki-public/people/albert-en-sku-a-scratch-review": 5, "/wiki-public/people/hui-na-lin": 3, "/wiki-public": 3, "/wiki-public/people/bai-weiwei": 2, "/wiki-public/people/pinghsi-liu": 2, "/wiki-public/people/eric-yang": 2, "/wiki-public/organizations/tainan-east-gate-barclay-memorial-church": 1, "/wiki-public/people/tiffany-huang": 1, "/wiki-public/organizations/taiwaneseamerican-org": 1}}
+{
+ "scraped": "2026-11-15",
+ "window": "30d",
+ "total_visits": 86,
+ "pages_shown": 10,
+ "per_day": {},
+ "counts": {
+  "/": 37,
+  "/landing": 11,
+  "/events/tzuchi-us-event-2026-southern-region-charity-concert": 8,
+  "/people/ric-jan": 6,
+  "/people/roger-lin": 5,
+  "/people/albert-zh-sku-b-publisher-review": 4,
+  "/landing/contact": 4,
+  "/people": 4,
+  "/works": 4,
+  "/people/hsu-ching-chun": 3
+ }
+}

@@ -22,6 +22,10 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from feeder_recent_closes import recent_zero_yield_paths, still_closed
 
+# SWARM-GUARD-1 (t_0cb42501): fail-closed backlog gate before every create.
+sys.path.insert(0, os.path.expanduser("~/.hermes/scripts"))
+from mint_guard import gated_once, budget_args  # noqa: E402
+
 REPO = Path("/home/leedt/echo-system")
 OUT = REPO / "knowledge/operational"
 # 1 article per card. 4-item cards exhausted agent.max_turns=30 (8 timed_out +
@@ -32,7 +36,7 @@ NCARDS = 32
 DRY = os.environ.get("TJJ_DRY") == "1"
 STAMP = subprocess.run(["date", "+%m%d%H%M"], capture_output=True, text=True).stdout.strip()
 TODAY = date.today().isoformat()
-SATURATED_RE = re.compile(r"(hits.?hash|verified.?saturation|SATURATION)", re.I)
+SATURATED_RE = re.compile(r'(hits.?hash|verified.?saturat|SATURATION)', re.I)
 
 # 1) deterministic link pass. CPU lane stands down on the freeze pin.
 # Dry-run must not apply: the linker writes.
@@ -42,7 +46,7 @@ elif Path("/tmp/pinto-cpu-freeze").exists():
     print("linker: skipped (cpu-freeze pin up)")
 else:
     r = subprocess.run(
-        [sys.executable, str(REPO / "scripts/work-entity-linker.py"), "--apply"],
+        [sys.executable, str(REPO / "scripts/work-entity-linker.py"), "--apply", "--stamp-saturated"],
         capture_output=True, text=True, cwd=REPO)
     print("linker:", r.stdout.strip().splitlines()[-1] if r.stdout.strip() else r.stderr[-200:])
 
@@ -93,9 +97,18 @@ for i in range(0, len(top), SLICE):
     slice_file = OUT / f"tjj-a-slice-{STAMP}-{i // SLICE + 1}.txt"
     slice_file.write_text("\n".join(chunk) + "\n")
     title = f"TJJ-A{STAMP}-{i // SLICE + 1}: link+deepen {len(chunk)} TJJ articles"
+    if not gated_once("tjj-card-build", key=title):  # SWARM-GUARD-1
+        print("BACKLOG|SKIP", title)
+        break
+    # --goal-max-turns on a non-goal card = per-card iteration budget
+    # (session_kanban pinto-local maps it to agent.max_turns; profile default
+    # is 30). SWARM-GUARD-3 (t_418565a8): the budget comes from the ONE
+    # registry (mint_guard.budget_args), fail closed — no literal here.
     r = subprocess.run(
         ["hermes", "kanban", "create", title, "--assignee", "pinto",
-         "--body", "pending", "--max-runtime", "2400", "--json"],
+         "--created-by", "mint-wave",
+         "--body", "pending", "--max-runtime", "2400",
+         *budget_args("TJJ-A"), "--json"],
         capture_output=True, text=True)
     tid = re.search(r"t_[0-9a-f]+", r.stdout)
     if not tid:
@@ -104,6 +117,29 @@ for i in range(0, len(top), SLICE):
     body = (
         f"Wave-2 TJJ absorb. Slice file: knowledge/operational/{slice_file.name} "
         f"(path under content/). Article: {chunk[0]}. "
+        # 2026-11-03: the 45/45-death subclass burned turns on glyph-drift/gate
+        # rework loops. The clean-first-try shape (581 runs, p50 183s) is baked
+        # into EVERY body so workers stop rediscovering it. Do not trim.
+        "MANDATORY RECIPE (clean-first-try shape, skill echopedia-tjj-wave2-worker): "
+        "(1) NEVER type CJK literals anywhere in your scripts — build every CJK span and every "
+        "search/replace anchor by harvesting verbatim fragments from 'git show HEAD:' lines "
+        "(corpus-harvest) or chr() from hex STRING literals; a typed literal that drifts on disk "
+        "burns the whole budget. "
+        "(2) Article EOF comment must be PURE ASCII: assert all(ord(c)<0x80 for c in COMMENT) "
+        "before writing; cite hash, post_date, Wayback, carriers==1 non-comment, fast-path used; "
+        "must end with -->. "
+        "(3) Fact lines: harvest the donor prefix from a saturated sibling line on the SAME people "
+        "page (cut at the hex-built anchor built via chr(int(x,16)) from 'ff0c 8a72 9801 70ba'); "
+        "novel prose only from corpus-resident fragments; gate unknown()==[] by CHAR membership "
+        "(c not in ALLOWED) vs the hot-page charset. "
+        "(4) Post-commit re-gate in a SEPARATE terminal call ~45s later: per touched page "
+        "git show HEAD -> hash carrier==1 non-comment; own comment startswith '<!-- '+SLICE and "
+        "endswith '-->'; codepoint scan of fact lines, comment AND git log -1 --pretty=%s via "
+        "shell grep with hex parsed from string literals (never typed CJK, never trust printed "
+        "stdout rendering — trust hex(ord())). "
+        "(5) TURN DISCIPLINE: if the SAME gate fails twice on the same line, STOP — call "
+        "kanban_block on your card with the defect string + line excerpt. A blocked card "
+        "preserves strikes; looping to 45/45 wastes two full runs. "
         "Read ## Subjects. Confirm each person/org link is real; fix wrong links, "
         "remove spurious ones. For each confirmed subject, if that page does not "
         "already wikilink this article, add one dated fact with the article wikilink "

@@ -24,6 +24,10 @@ import subprocess
 import sys
 from pathlib import Path
 
+# SWARM-GUARD-1 (t_0cb42501): fail-closed backlog gate before every create.
+sys.path.insert(0, str(Path.home() / ".hermes" / "scripts"))
+from mint_guard import gated_once, budget_args  # noqa: E402
+
 HUB = 50
 BASELINE = 288
 # 1 page per card -- same rationale as tjj-card-build.py: multi-item cards land in the
@@ -308,9 +312,13 @@ def emit_cards(accepted: list[dict], repo: Path, db: Path) -> int:
             print("skip (open title):", title)
             continue
         (out_dir / slice_name).write_text("\n".join(c["target"] for c in group) + "\n")
+        if not gated_once("frontier-build", key=title):  # SWARM-GUARD-1
+            print("BACKLOG|SKIP", title)
+            continue
         proc = subprocess.run(
             ["hermes", "kanban", "create", title, "--assignee", "pinto",
-             "--body", "pending", "--max-runtime", "2400"],
+             "--body", "pending", "--max-runtime", "2400",
+             *budget_args("FRONTIER")],  # SWARM-GUARD-3 t_418565a8
             capture_output=True, text=True,
         )
         m = re.search(r"t_[0-9a-f]+", proc.stdout or "")

@@ -5,6 +5,11 @@ import json, os, re, sqlite3, subprocess
 from datetime import datetime
 from pathlib import Path
 
+# SWARM-GUARD-1 (t_0cb42501): fail-closed backlog gate before every create.
+import sys
+sys.path.insert(0, str(Path.home() / '.hermes' / 'scripts'))
+from mint_guard import gated_once, budget_args  # noqa: E402
+
 REPO = Path('/home/leedt/echo-system')
 OUT = REPO / 'knowledge/operational'
 # 1 page per card -- same rationale as tjj-card-build.py: multi-item cards land in the
@@ -69,9 +74,14 @@ for i in range((len(flagged) + SLICE - 1) // SLICE):
     sp = OUT / f'deepen-r-slice-{STAMP}-{i+1}.txt'
     sp.write_text('\n'.join(paths) + '\n')
     body = BODY.replace('{N}', str(len(paths))).replace('{SLICEFILE}', sp.name)
+    if not gated_once('deepen-r-build', key=title):  # SWARM-GUARD-1
+        print('BACKLOG|SKIP', title)
+        continue
     r = subprocess.run(['hermes', 'kanban', 'create', title,
                         '--assignee', 'pinto', '--body', 'pending',
-                        '--max-runtime', '2400'], capture_output=True, text=True)
+                        '--max-runtime', '2400',
+                        *budget_args('DEEPEN-R')],  # SWARM-GUARD-3 t_418565a8: was NULL -> silent 30/30 deaths
+                       capture_output=True, text=True)
     tid = re.search(r't_[0-9a-f]+', r.stdout)
     if tid:
         con.execute("update tasks set body=? where id=?",

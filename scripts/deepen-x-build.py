@@ -22,6 +22,7 @@ Env:
   DEEPEN_DRY     1 = print the plan, write nothing
 """
 import glob
+import json
 import os
 import re
 import sqlite3
@@ -34,14 +35,23 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from feeder_recent_closes import recent_zero_yield_paths, still_closed
 
+# SWARM-GUARD-1 (t_0cb42501): fail-closed backlog gate before every create.
+sys.path.insert(0, os.path.expanduser('~/.hermes/scripts'))
+from mint_guard import gated_once, budget_args  # noqa: E402
+
 REPO = Path('/home/leedt/echo-system')
 OUT = REPO / 'knowledge/operational'
 SLICE = int(os.environ.get('DEEPEN_SLICE', '1'))
 NCARDS = int(os.environ.get('DEEPEN_NCARDS', '32'))
 DRY = os.environ.get('DEEPEN_DRY') == '1'
-LIST_CAP = 8
+# 2026-10-15: 8 files/card fit the 2400s contract at width 3 (28 min median),
+# but at width 5-7 the engine thrashes KV (measured 200% occupancy, per-worker
+# prefill 3.5k tok/s vs 21k peak) and 8-file cards stretch past 40 min, batch-
+# time out, and re-mint -- 1 close/hr instead of 7. Halved the contract: a
+# 4-file card closes in ~20 min under contention. Tunable via DEEPEN_LIST_CAP.
+LIST_CAP = int(os.environ.get('DEEPEN_LIST_CAP', '4'))
 CORPUS_DIRS = ('works', 'articles', 'sources', 'events', 'topics')
-SATURATED_RE = re.compile(r'(hits.?hash|verified.?saturation|SATURATION)', re.I)
+SATURATED_RE = re.compile(r'(hits.?hash|verified.?saturat|SATURATION)', re.I)
 LINK_RE = re.compile(r'\[\[([^\]|#]+)')
 WIKI_RE = re.compile(r'\[\[(?:people|organizations)/([^\]|#]+)')
 ROSTER_LINE = re.compile(r'^\s*- \[\[(?:people|organizations)/')
@@ -95,6 +105,11 @@ def demand_files():
         except OSError:
             continue
         key = str(rel.with_suffix(''))
+        # 2026-11-18 (t_1c4fa3b9 class): navigation index pages are not absorbable
+        # corpus — an index.md as a card's only "corpus file" is a fat-card bug that
+        # wastes a worker run (DEEPEN-X11180809-1 shipped with target=people/index).
+        if Path(f).stem == 'index':
+            continue
         for slug in countable_slugs(text):
             if Path(f).stem == slug:
                 continue
@@ -171,6 +186,27 @@ def has_quote(text: str) -> bool:
     return '## Quotes' in text or bool(re.search(r'^>\s+\S', text, re.M))
 
 
+_QC_CACHE = None
+
+
+def corpus_quote_candidates(slug: str):
+    """Attributed-speech candidates from scripts/quote-scan.py (corpus-wide,
+    high = name+verb adjacent to the quote). Loaded once per build; never
+    pasted without confirmation — the card asks the worker to verify."""
+    global _QC_CACHE
+    if _QC_CACHE is None:
+        _QC_CACHE = {}
+        p = REPO / "knowledge" / "research" / "quote-candidates.jsonl"
+        if p.exists():
+            for line in p.read_text(encoding="utf-8", errors="ignore").splitlines():
+                try:
+                    r = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                _QC_CACHE.setdefault(r["slug"], []).append(r)
+    return sorted(_QC_CACHE.get(slug, []), key=lambda r: r.get("conf") != "high")
+
+
 def card_body(page: str, text: str, files: list[str], stamp: str, card_no: int,
               today: str, task_id: str) -> str:
     zh = fm(text, 'name_zh') or '(none)'
@@ -179,7 +215,9 @@ def card_body(page: str, text: str, files: list[str], stamp: str, card_no: int,
     extra = len(files) - len(shown)
     file_lines = '\n'.join(f'- [[{p}|source]]' for p in shown)
     if extra:
-        file_lines += f'\n- and {extra} more — absorb the listed ones; the rest wait'
+        file_lines += (f'\n- and {extra} more — STOP: they are NOT this card. '
+                       f'Absorb only the {len(shown)} listed above. Do not grep, list, '
+                       f'or enumerate the rest.')
     quote = None if has_quote(text) else quote_candidate(text, files)
     if quote:
         sent, src = quote
@@ -190,6 +228,24 @@ def card_body(page: str, text: str, files: list[str], stamp: str, card_no: int,
             "dated facts under ## From the record, one wikilink each."
         )
         qblock = f'\nQUOTE CANDIDATE (confirm, do not invent):\n> {sent}\nsource: [[{src}|source]]\n'
+    elif not has_quote(text) and (cands := corpus_quote_candidates(Path(page).stem)):
+        c = cands[0]
+        gap = (
+            "ONE GAP: this page has no quote. The candidate below was found by a "
+            "corpus-wide attributed-speech scan (" + c.get("conf", "medium") +
+            " confidence) — open the source file and confirm the SPEAKER before "
+            "pasting; if it is not this person, do not paste it. Either way, "
+            "absorb the listed files as dated facts under ## From the record, "
+            "one wikilink each."
+        )
+        src_path = c["path"]
+        if src_path.startswith("content/"):
+            src_path = src_path[len("content/"):]
+        if src_path.endswith(".md"):
+            src_path = src_path[:-3]
+        qblock = (f'\nQUOTE CANDIDATE (corpus scan, {c.get("conf")} — verify '
+                  f'speaker before pasting):\n> {c["quote"]}\nsource: '
+                  f'[[{src_path}|source]]\n')
     else:
         gap = (
             "ONE GAP: absorb the listed files. Add one dated fact per file under "
@@ -205,21 +261,78 @@ def card_body(page: str, text: str, files: list[str], stamp: str, card_no: int,
         f"{gap}\n"
         f"FILES THAT LINK HERE AND ARE NOT LINKED BACK ({len(files)}):\n{file_lines}\n"
         f"{qblock}"
-        "No web. No new pages. No invented biography. A date bump or a note with no "
+        "No web. No new pages. No invented biography. A dated fact with a "
+        "wikilink is sourced; a fact you cannot wikilink to a listed file is "
+        "inferred or unknown and does not belong on this card. A date bump or a note with no "
         "new [[wikilink]] is 0 deepened — the feeder reads the diff. "
         "HOLD conflicts; never auto-merge dates. "
         f"On a true skip, add one line BELOW the closing --- fence, never inside YAML: "
         f"verified-saturation: {today}. An HTML comment inside frontmatter breaks the build. "
         "Never git add -A, git add ., or git commit -a. Stage only this page. "
         f"Commit subject must be exactly: deepen-x slice {stamp}-{card_no}: N deepened, M skipped. "
+        "N = 1 if this page gained substantive content (new wikilinks/dated facts), else 0. "
+        "M = 1 only if you verified saturation and wrote the stamp below the fence. "
+        "This card is ONE page — never count files into N. Put the file count in the commit body: "
+        "'files absorbed: K'. "
         f"Then call the kanban_complete tool on {task_id}. "
         "The hermes kanban CLI complete is rejected inside a worker and does not close the card. "
         "Do NOT publish."
     )
 
 
+def traffic_weights():
+    """GoatCounter 7d per-path visits -> {slug: weight in [0,1]}. Empty if stale/absent.
+    Freshness gate: file mtime must be < 7 days, else ranking silently trusts old data."""
+    p = REPO / "knowledge" / "research" / "gc-path-counts.json"
+    if not p.exists():
+        return {}
+    import time as _t
+    if (_t.time() - p.stat().st_mtime) > 7 * 86400:
+        return {}
+    try:
+        counts = json.loads(p.read_text()).get("counts", {})
+    except (ValueError, OSError):
+        return {}
+    per_slug = {}
+    for path, n in counts.items():
+        seg = [s for s in path.split("/") if s and s not in ("wiki-public", "people", "organizations", "topics", "works")]
+        if seg:
+            per_slug[seg[-1]] = per_slug.get(seg[-1], 0) + n
+    if not per_slug:
+        return {}
+    mx = max(per_slug.values())
+    return {k: v / mx for k, v in per_slug.items()}
+
+
+def gap_score(text: str) -> float:
+    """Voice/label gap in [0,1] — what the page lacks BEYOND dated content
+    (census 2026-10-14: 95% of pages are date-dense, Story=1, Quotes=3%).
+    no Story .3 | no Quotes .2 | record facts with zero labels .3 | <10 dates .2.
+    Deterministic; feeds the attention-weighted rank per LEONARD-2026-10-15."""
+    g = 0.0
+    if not re.search(r"^## Story\s*$", text, re.M):
+        g += 0.3
+    if not re.search(r"^## Quotes", text, re.M):
+        g += 0.2
+    rec = re.search(r"^## From the record\s*$(.*?)(?=^## |\Z)", text, re.M | re.S)
+    if rec:
+        facts = [l for l in rec.group(1).splitlines()
+                 if re.match(r"\s*(\||- \*\*|\*\*)", l) and re.search(r"\d{4}|n\.d\.", l)]
+        if facts and not any(re.search(r"sourced|inferred|alleged|unknown", l, re.I)
+                             for l in facts):
+            g += 0.3
+    if len(re.findall(r"\b(19[4-9]\d|20[0-2]\d)\b", text)) < 10:
+        g += 0.2
+    return min(g, 1.0)
+
+
 def absorb_universe(mention_files):
-    """Pages with at least one unabsorbed corpus file, ranked by that count."""
+    """Pages with at least one unabsorbed corpus file, ranked by
+    count * (1 + 3*traffic) * (1 + gap) — traffic tiebreak per DEEPRANK ruling,
+    gap bonus per attention-weighted deepening (2026-10-15): among pages with
+    equal absorbable material, the ones missing voice/labels come first.
+    (weight 0 = count-only, same order as before; weight 1 = 4x.)"""
+    weights = traffic_weights()
     rows = []
     saturated = 0
     no_delta = 0
@@ -235,7 +348,8 @@ def absorb_universe(mention_files):
             if not files:
                 no_delta += 1
                 continue
-            rows.append((-len(files), rel, files, text))
+            score = len(files) * (1 + 3 * weights.get(slug, 0.0)) * (1 + gap_score(text))
+            rows.append((-score, rel, files, text))
     rows.sort(key=lambda r: (r[0], r[1]))
     return rows, saturated, no_delta
 
@@ -259,12 +373,43 @@ def open_card_paths():
     return paths
 
 
+def timed_out_paths(hours: int = 12) -> set[str]:
+    """Pages inside DEEPEN cards that timed out within `hours`.
+
+    A timeout is not a verdict on the page -- it says the card was too big for
+    the runtime contract at that width. Re-minting the identical card
+    guarantees another timeout (observed 2026-10-15: five attempts on three
+    pages, zero closes). Cool those pages for `hours` so the queue moves past
+    them instead of burning attempts. Fail open.
+    """
+    import time as _t
+    try:
+        con = sqlite3.connect(
+            f"file:{Path.home() / '.hermes/kanban.db'}?mode=ro", uri=True)
+        try:
+            rows = con.execute(
+                "select t.body from tasks t join task_events e on e.task_id = t.id "
+                "where e.kind = 'timed_out' and e.created_at > ? "
+                "and t.title like 'DEEPEN%'", (_t.time() - hours * 3600,)).fetchall()
+        finally:
+            con.close()
+    except sqlite3.Error:
+        return set()
+    paths: set[str] = set()
+    for (body,) in rows:
+        for m in re.finditer(r'deepen-x-slice(?:-\d+)?-\d+\.txt', body or ''):
+            sp = OUT / m.group(0)
+            if sp.is_file():
+                paths.update(ln.strip() for ln in sp.read_text().splitlines() if ln.strip())
+    return paths
+
+
 def main():
     mention_files = demand_files()
     universe, saturated, no_delta = absorb_universe(mention_files)
     closed = recent_zero_yield_paths('deepen-x')
     cooled = [rel for _n, rel, _f, _t in universe if rel in closed and still_closed(rel, closed[rel])]
-    cooled_set = set(cooled)
+    cooled_set = set(cooled) | timed_out_paths()
     claimed = open_card_paths()
     top = [row for row in universe if row[1] not in cooled_set and row[1] not in claimed][:SLICE * NCARDS]
     today = date.today().isoformat()
@@ -287,9 +432,13 @@ def main():
         slice_path = OUT / f'deepen-x-slice-{stamp}-{card_no}.txt'
         slice_path.write_text(rel + '\n')
         title = f'DEEPEN-X{stamp}-{card_no}: absorb {min(len(files), LIST_CAP)} corpus files'
+        if not gated_once('deepen-x-build', key=title):  # SWARM-GUARD-1
+            print('BACKLOG|SKIP', title)
+            continue
         r = subprocess.run(['hermes', 'kanban', 'create', title,
                             '--assignee', 'pinto', '--body', 'pending',
-                            '--max-runtime', '2400'],
+                            '--max-runtime', '2400',
+                            *budget_args('DEEPEN-X')],  # SWARM-GUARD-3 t_418565a8: was NULL -> silent 30/30 deaths
                            capture_output=True, text=True)
         tid = re.search(r't_[0-9a-f]+', r.stdout)
         if not tid:

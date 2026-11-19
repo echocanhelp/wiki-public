@@ -8,6 +8,15 @@
    "labeled_pct": 6.8,
    "dated_pct": 97.6,
    "zh_pct": 78.2
+  },
+  {
+   "date": "2026-11-13",
+   "pages": 2923,
+   "story_pct": 1.2,
+   "quotes_pct": 3.9,
+   "labeled_pct": 61.7,
+   "dated_pct": 98.6,
+   "zh_pct": 79.3
   }
  ]
 }

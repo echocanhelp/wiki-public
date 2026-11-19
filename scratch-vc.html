@@ -1,0 +1,1559 @@
+
+<!DOCTYPE html>
+<html lang="zh" dir="ltr" class="no-js">
+<head>
+        <link rel="stylesheet" href="/Content/responsive/VOA/zh-CN/VOA-zh-CN.css?&amp;av=0.0.0.0&amp;cb=324">
+<script src="https://tags.voachinese.com/voa-pangea/prod/utag.sync.js"></script><script type='text/javascript' src='https://www.youtube.com/iframe_api' async></script>    <script type="text/javascript">
+        //a general 'js' detection, must be on top level in <head>, due to CSS performance
+        document.documentElement.className = "js";
+        var cacheBuster = "324";
+        var appBaseUrl = "/";
+        var imgEnhancerBreakpoints = [0, 144, 256, 408, 650, 1023, 1597];
+        var isLoggingEnabled = false;
+        var isPreviewPage = false;
+        var isLivePreviewPage = false;
+        var isForPdf = false;
+
+                var vjsLocalization = {
+                        "Play Video": "&#x64AD;&#x653E;",
+                        "Play": "&#x64AD;&#x653E;",
+                        "Pause": "&#x6682;&#x505C;",
+                        "Current Time": "",
+                        "Duration": "",
+                        "Remaining Time": "",
+                        "Mute": "&#x97F3;&#x91CF;",
+                        "Unmute": "&#x97F3;&#x91CF;",
+                        "LIVE": "&#x76F4;&#x64AD;",
+                        "Quality": "&#x66F4;&#x6362;&#x64AD;&#x653E;&#x6E90;"
+                };
+            
+        if (!isPreviewPage) {
+            window.RFE = window.RFE || {};
+            window.RFE.cacheEnabledByParam = window.location.href.indexOf('nocache=1') === -1;
+
+            const url = new URL(window.location.href);
+            const params = new URLSearchParams(url.search);
+
+            // Remove the 'nocache' parameter
+            params.delete('nocache');
+
+            // Update the URL without the 'nocache' parameter
+            url.search = params.toString();
+            window.history.replaceState(null, '', url.toString());
+        } else if (!isForPdf) {
+            window.addEventListener('load', function() {
+                const links = window.document.links;
+                for (let i = 0; i < links.length; i++) {
+                    links[i].href = '#';
+                    links[i].target = '_self';
+                }
+             })
+        }
+
+        // Iframe & Embed detection
+        var embedProperties = {};
+
+        try {
+            // Reliable way to check if we are in an iframe.
+            var isIframe = window.self !== window.top;
+            embedProperties.is_iframe = isIframe;
+
+            if (!isIframe) {
+                embedProperties.embed_context = "main";
+            } else {
+                // We are in an iframe. Let's try to access the parent.
+                // This access will only fail with strict cross-origin (without document.domain).
+                var parentLocation = window.top.location;
+
+                // The access succeeded. Now we explicitly compare the hostname.
+                if (window.location.hostname === parentLocation.hostname) {
+                    embedProperties.embed_context = "embed_self";
+                } else {
+                    // Hostname is different (e.g. different subdomain with document.domain)
+                    embedProperties.embed_context = "embed_cross";
+                }
+
+                // Since the access works, we can safely get the details.
+                embedProperties.url_parent = parentLocation.href;
+                embedProperties.title_parent = window.top.document.title;
+            }
+        } catch (err) {
+            // We are in an iframe, and an error occurred, probably due to cross-origin restrictions.
+            embedProperties.is_iframe = true;
+            embedProperties.embed_context = "embed_cross";
+
+            // We cannot access the properties of window.top.
+            // `document.referrer` can sometimes provide the URL of the parent page.
+            // It is not 100% reliable, but it is the best we can do in this situation.
+            embedProperties.url_parent = document.referrer || null;
+            embedProperties.title_parent = null; // We can't get to the title in a cross-origin scenario.
+        }
+
+var pwaEnabled = false;        var swCacheDisabled;
+    </script>
+    <meta charset="utf-8" />
+
+            <title>&#x53F0;&#x72EC;&#x4EBA;&#x58EB;&#x6B32;&#x4E3A;&#x53F0;&#x6E7E;&#x6CD5;&#x7406;&#x5EFA;&#x56FD;</title>
+            <meta name="description" content="&#x652F;&#x6301;&#x53F0;&#x6E7E;&#x72EC;&#x7ACB;&#x5EFA;&#x56FD;&#x7684;&#x4EBA;&#x58EB;&#x8FD1;&#x5E74;&#x6765;&#x627E;&#x5230;‘&#x6CD5;&#x7406;&#x5EFA;&#x56FD;’&#x7684;&#x65B0;&#x65B9;&#x6CD5;&#xFF0C;&#x4ED6;&#x4EEC;&#x5728;&#x7F8E;&#x56FD;&#x6700;&#x9AD8;&#x6CD5;&#x9662;&#x63D0;&#x51FA;&#x8BC9;&#x8BBC;&#xFF0C;&#x8981;&#x6C42;&#x7F8E;&#x56FD;&#x6F84;&#x6E05;1951&#x5E74;&#x65E7;&#x91D1;&#x5C71;&#x548C;&#x7EA6;&#x6709;&#x5173;&#x53F0;&#x6E7E;&#x5730;&#x4F4D;&#x7684;&#x90E8;&#x5206;&#x3002;&#x4E0D;&#x8FC7;&#x6709;&#x7F8E;&#x56FD;&#x5B66;&#x8005;&#x5E76;&#x4E0D;&#x770B;&#x597D;&#x53F0;&#x6E7E;&#x4EBA;&#x7684;&#x8FD9;&#x9879;&#x5B98;&#x53F8;&#xFF0C;&#x56E0;&#x4E3A;&#x7F8E;&#x56FD;&#x4ECE;&#x672A;&#x63A5;&#x53D7;&#x53F0;&#x6E7E;&#x5F52;&#x5C5E;&#x5730;&#x4F4D;&#x672A;&#x5B9A;&#x7684;&#x8BF4;&#x6CD5;......" />
+                <meta name="keywords" content="新闻, 洛杉矶" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<meta name="robots" content="max-image-preview:large"><meta property="fb:pages" content="79273905685" />
+<meta name="msvalidate.01" content="3286EE554B6F672A6F2E608C02343C0E" />
+        <link href="https://www.voachinese.com/a/a-21-w2009-05-06-voa42-61360767/1026769.html" rel="canonical" />
+
+        <meta name="apple-mobile-web-app-title" content="&#x7F8E;&#x56FD;&#x4E4B;&#x97F3;" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+            <meta name="apple-itunes-app" content="app-id=632618796, app-argument=//1026769.ltr" />
+<meta content="&#x53F0;&#x72EC;&#x4EBA;&#x58EB;&#x6B32;&#x4E3A;&#x53F0;&#x6E7E;&#x6CD5;&#x7406;&#x5EFA;&#x56FD;" property="og:title"></meta>
+<meta content="&#x652F;&#x6301;&#x53F0;&#x6E7E;&#x72EC;&#x7ACB;&#x5EFA;&#x56FD;&#x7684;&#x4EBA;&#x58EB;&#x8FD1;&#x5E74;&#x6765;&#x627E;&#x5230;‘&#x6CD5;&#x7406;&#x5EFA;&#x56FD;’&#x7684;&#x65B0;&#x65B9;&#x6CD5;&#xFF0C;&#x4ED6;&#x4EEC;&#x5728;&#x7F8E;&#x56FD;&#x6700;&#x9AD8;&#x6CD5;&#x9662;&#x63D0;&#x51FA;&#x8BC9;&#x8BBC;&#xFF0C;&#x8981;&#x6C42;&#x7F8E;&#x56FD;&#x6F84;&#x6E05;1951&#x5E74;&#x65E7;&#x91D1;&#x5C71;&#x548C;&#x7EA6;&#x6709;&#x5173;&#x53F0;&#x6E7E;&#x5730;&#x4F4D;&#x7684;&#x90E8;&#x5206;&#x3002;&#x4E0D;&#x8FC7;&#x6709;&#x7F8E;&#x56FD;&#x5B66;&#x8005;&#x5E76;&#x4E0D;&#x770B;&#x597D;&#x53F0;&#x6E7E;&#x4EBA;&#x7684;&#x8FD9;&#x9879;&#x5B98;&#x53F8;&#xFF0C;&#x56E0;&#x4E3A;&#x7F8E;&#x56FD;&#x4ECE;&#x672A;&#x63A5;&#x53D7;&#x53F0;&#x6E7E;&#x5F52;&#x5C5E;&#x5730;&#x4F4D;&#x672A;&#x5B9A;&#x7684;&#x8BF4;&#x6CD5;......" property="og:description"></meta>
+<meta content="article" property="og:type"></meta>
+<meta content="https://www.voachinese.com/a/a-21-w2009-05-06-voa42-61360767/1026769.html" property="og:url"></meta>
+<meta content="&#x7F8E;&#x56FD;&#x4E4B;&#x97F3;" property="og:site_name"></meta>
+<meta content="https://www.facebook.com/voachinese" property="article:publisher"></meta>
+<meta content="https://www.voachinese.com/Content/responsive/VOA/img/top_logo_news.png" property="og:image"></meta>
+<meta content="640" property="og:image:width"></meta>
+<meta content="640" property="og:image:height"></meta>
+<meta content="site logo" property="og:image:alt"></meta>
+<meta content="373799889356691" property="fb:app_id"></meta>
+<meta content="&#x5BB9;&#x6613;" name="Author"></meta>
+<meta content="summary_large_image" name="twitter:card"></meta>
+<meta content="@voachinese" name="twitter:site"></meta>
+<meta content="https://www.voachinese.com/Content/responsive/VOA/img/top_logo_news.png" name="twitter:image"></meta>
+<meta content="&#x53F0;&#x72EC;&#x4EBA;&#x58EB;&#x6B32;&#x4E3A;&#x53F0;&#x6E7E;&#x6CD5;&#x7406;&#x5EFA;&#x56FD;" name="twitter:title"></meta>
+<meta content="&#x652F;&#x6301;&#x53F0;&#x6E7E;&#x72EC;&#x7ACB;&#x5EFA;&#x56FD;&#x7684;&#x4EBA;&#x58EB;&#x8FD1;&#x5E74;&#x6765;&#x627E;&#x5230;‘&#x6CD5;&#x7406;&#x5EFA;&#x56FD;’&#x7684;&#x65B0;&#x65B9;&#x6CD5;&#xFF0C;&#x4ED6;&#x4EEC;&#x5728;&#x7F8E;&#x56FD;&#x6700;&#x9AD8;&#x6CD5;&#x9662;&#x63D0;&#x51FA;&#x8BC9;&#x8BBC;&#xFF0C;&#x8981;&#x6C42;&#x7F8E;&#x56FD;&#x6F84;&#x6E05;1951&#x5E74;&#x65E7;&#x91D1;&#x5C71;&#x548C;&#x7EA6;&#x6709;&#x5173;&#x53F0;&#x6E7E;&#x5730;&#x4F4D;&#x7684;&#x90E8;&#x5206;&#x3002;&#x4E0D;&#x8FC7;&#x6709;&#x7F8E;&#x56FD;&#x5B66;&#x8005;&#x5E76;&#x4E0D;&#x770B;&#x597D;&#x53F0;&#x6E7E;&#x4EBA;&#x7684;&#x8FD9;&#x9879;&#x5B98;&#x53F8;&#xFF0C;&#x56E0;&#x4E3A;&#x7F8E;&#x56FD;&#x4ECE;&#x672A;&#x63A5;&#x53D7;&#x53F0;&#x6E7E;&#x5F52;&#x5C5E;&#x5730;&#x4F4D;&#x672A;&#x5B9A;&#x7684;&#x8BF4;&#x6CD5;......" name="twitter:description"></meta>
+                    <link rel="amphtml" href="https://www.voachinese.com/amp/a-21-w2009-05-06-voa42-61360767/1026769.html" />
+<script type="application/ld+json">{"articleSection":"新闻","isAccessibleForFree":true,"headline":"台独人士欲为台湾法理建国","inLanguage":"zh-CN","keywords":"新闻, 洛杉矶","author":{"@type":"Person","url":"https://www.voachinese.com/author/容易/vuoom","description":"","image":{"@type":"ImageObject"},"name":"容易"},"datePublished":"2009-05-06 00:00:00Z","dateModified":"2009-05-06 00:00:00Z","publisher":{"logo":{"width":512,"height":220,"@type":"ImageObject","url":"https://www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo.png"},"@type":"NewsMediaOrganization","url":"https://www.voachinese.com","sameAs":["https://twitter.com/voachinese","https://www.youtube.com/voachinese","https://www.facebook.com/voachinese","https://www.instagram.com/voachinese/","https://www.threads.com/@voachinese","https://t.me/voachinese","https://www.whatsapp.com/channel/0029VasToscK0IBfPwWJIn3o"],"name":"美国之音中文网","alternateName":""},"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.voachinese.com/a/a-21-w2009-05-06-voa42-61360767/1026769.html","url":"https://www.voachinese.com/a/a-21-w2009-05-06-voa42-61360767/1026769.html","description":"支持台湾独立建国的人士近年来找到‘法理建国’的新方法，他们在美国最高法院提出诉讼，要求美国澄清1951年旧金山和约有关台湾地位的部分。不过有美国学者并不看好台湾人的这项官司，因为美国从未接受台湾归属地位未定的说法......","image":{"width":1200,"height":675,"@type":"ImageObject","url":"https://gdb.voanews.com/38CEF907-F6F1-40A7-AC67-CDE6A3271344_w1200_r1.png"},"name":"台独人士欲为台湾法理建国"}</script>    <script src="/Scripts/responsive/infographics.bundle.min.js?&amp;av=0.0.0.0&amp;cb=324"></script>
+        <script src="/Scripts/responsive/dollardom.min.js?&amp;av=0.0.0.0&amp;cb=324"></script>
+        <script src="/Scripts/responsive/modules/commons.js?&amp;av=0.0.0.0&amp;cb=324"></script>
+        <script src="/Scripts/responsive/modules/app_code.js?&amp;av=0.0.0.0&amp;cb=324"></script>
+
+        <link rel="icon" type="image/svg+xml" href="/Content/responsive/VOA/img/webApp/favicon.svg" />
+        <link rel="alternate icon" href="/Content/responsive/VOA/img/webApp/favicon.ico" />
+        <link rel="apple-touch-icon" sizes="152x152" href="/Content/responsive/VOA/img/webApp/ico-152x152.png" />
+        <link rel="apple-touch-icon" sizes="144x144" href="/Content/responsive/VOA/img/webApp/ico-144x144.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/Content/responsive/VOA/img/webApp/ico-114x114.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/Content/responsive/VOA/img/webApp/ico-72x72.png" />
+        <link rel="apple-touch-icon-precomposed" href="/Content/responsive/VOA/img/webApp/ico-57x57.png" />
+        <link rel="icon" sizes="192x192" href="/Content/responsive/VOA/img/webApp/ico-192x192.png" />
+        <link rel="icon" sizes="128x128" href="/Content/responsive/VOA/img/webApp/ico-128x128.png" />
+        <meta name="msapplication-TileColor" content="#ffffff" />
+        <meta name="msapplication-TileImage" content="/Content/responsive/VOA/img/webApp/ico-144x144.png" />
+    <link rel="alternate" type="application/rss+xml" title="VOA - Top Stories [RSS]" href="/api/" />
+    <link rel="sitemap" type="application/rss+xml" href="/sitemap.xml" />
+    
+    
+
+
+
+        <script type="text/javascript">
+            var analyticsData = Object.assign(embedProperties, {url:"https://www.voachinese.com/a/a-21-w2009-05-06-voa42-61360767/1026769.html",property_id:"521",article_uid:"1026769",page_title:"台独人士欲为台湾法理建国",page_type:"article",content_type:"article",subcontent_type:"article",last_modified:"2009-05-06 00:00:00Z",pub_datetime:"2009-05-06 00:00:00Z",pub_year:"2009",pub_month:"05",pub_day:"06",pub_hour:"00",pub_weekday:"wednesday",section:"新闻",english_section:"news",byline:"容易",categories:"news",tags:"洛杉矶",domain:"www.voachinese.com",language:"mandarin",language_service:"voa mandarin",platform:"web",copied:"no",copied_article:"not set",copied_title:"not set",runs_js:"yes",cms_release:"8.50.0.0.324",enviro_type:"prod",slug:"a-21-w2009-05-06-voa42-61360767",entity:"voa",short_language_service:"man",platform_short:"w",page_name:"台独人士欲为台湾法理建国"});
+            // Push Analytics data as GTM message (without "event" attribute and before GTM initialization)
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push(analyticsData);
+        </script>
+        <script type="text/javascript" data-cookiecategory="analytics">
+
+            var gtmEventObject = {event: 'page_meta_ready'};window.dataLayer = window.dataLayer || [];window.dataLayer.push(gtmEventObject);
+            var renderGtm = "true";
+            if (renderGtm === "true") {
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N8MP7P');
+            }
+        </script>
+</head>
+<body class=" nav-no-loaded cc_theme pg-article pg-article--single-column print-lay-article use-sticky-share nojs-images date-time-enabled">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N8MP7P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>        <script type="text/javascript" data-cookiecategory="analytics">
+
+            var gtmEventObject = {event: 'page_meta_ready'};window.dataLayer = window.dataLayer || [];window.dataLayer.push(gtmEventObject);
+
+            var renderGtm = "true";
+            if (renderGtm === "true") {
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N8MP7P');
+            }
+
+        </script>
+        <!--Analytics tag js version start-->
+            <script type="text/javascript" data-cookiecategory="analytics">
+                var utag_data = Object.assign({}, analyticsData, {pub_year:"2009",pub_month:"05",pub_day:"06",pub_hour:"00",pub_weekday:"wednesday"});
+if(typeof(TealiumTagFrom)==='function' && typeof(TealiumTagSearchKeyword)==='function') {
+var utag_from=TealiumTagFrom();var utag_searchKeyword=TealiumTagSearchKeyword();
+if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyword"]==null) utag_data["search_keyword"]=utag_searchKeyword;if(utag_from!=null && utag_from!=='') utag_data["from"]=TealiumTagFrom();}
+                if(window.top!== window.self&&utag_data.page_type==="snippet"){utag_data.page_type = 'iframe';}
+                try{if(window.top!==window.self&&window.self.location.hostname===window.top.location.hostname){utag_data.platform = 'self-embed';utag_data.platform_short = 'se';}}catch(e){if(window.top!==window.self&&window.self.location.search.includes("platformType=self-embed")){utag_data.platform = 'cross-promo';utag_data.platform_short = 'cp';}}
+                (function(a,b,c,d){    a="https://tags.voachinese.com/voa-pangea/prod/utag.js";    b=document;c="script";d=b.createElement(c);d.src=a;d.type="text/java"+c;d.async=true;    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);    })();
+            </script>
+            <!--Analytics tag js version end-->
+<!-- Analytics tag management NoScript -->
+<noscript>
+<img style="position: absolute; border: none;" src="https://ssc.voachinese.com/b/ss/bbgprod,bbgentityvoa/1/G.4--NS/565197290?pageName=voa%3aman%3aw%3aarticle%3a%e5%8f%b0%e7%8b%ac%e4%ba%ba%e5%a3%ab%e6%ac%b2%e4%b8%ba%e5%8f%b0%e6%b9%be%e6%b3%95%e7%90%86%e5%bb%ba%e5%9b%bd&amp;c6=%e5%8f%b0%e7%8b%ac%e4%ba%ba%e5%a3%ab%e6%ac%b2%e4%b8%ba%e5%8f%b0%e6%b9%be%e6%b3%95%e7%90%86%e5%bb%ba%e5%9b%bd&amp;v36=8.50.0.0.324&amp;v6=D=c6&amp;g=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html&amp;c1=D=g&amp;v1=D=g&amp;events=event1,event52&amp;c16=voa%20mandarin&amp;v16=D=c16&amp;c5=news&amp;v5=D=c5&amp;ch=%e6%96%b0%e9%97%bb&amp;c15=mandarin&amp;v15=D=c15&amp;c4=article&amp;v4=D=c4&amp;c14=1026769&amp;v14=D=c14&amp;v20=no&amp;c17=web&amp;v17=D=c17&amp;mcorgid=518abc7455e462b97f000101%40adobeorg&amp;server=www.voachinese.com&amp;pageType=D=c4&amp;ns=bbg&amp;v29=D=server&amp;v25=voa&amp;v30=521&amp;v105=D=User-Agent " alt="analytics" width="1" height="1" /></noscript>
+<!-- End of Analytics tag management NoScript -->
+
+        <div class="google-translate-container">
+            <div id="google_translate_element" data-page-language="zh-CN" data-included-languages="zh-CN,zh-TW"></div>
+        </div>
+
+        <!--*** Accessibility links - For ScreenReaders only ***-->
+        <nav class="sr-only" aria-label="&#x65E0;&#x969C;&#x788D;&#x94FE;&#x63A5;">
+            <ul>
+                <li><a href="#content" data-disable-smooth-scroll="1">&#x8DF3;&#x8F6C;&#x5230;&#x5185;&#x5BB9;</a></li>
+                <li><a href="#navigation" data-disable-smooth-scroll="1">&#x8DF3;&#x8F6C;&#x5230;&#x5BFC;&#x822A;</a></li>
+                <li><a href="#txtHeaderSearch" data-disable-smooth-scroll="1">&#x8DF3;&#x8F6C;&#x5230;&#x68C0;&#x7D22;</a></li>
+            </ul>
+        </nav>
+
+
+
+
+
+<div dir="ltr">
+    <div id="page">
+            <aside>
+
+<div class="c-lightbox overlay-modal">
+    <div class="c-lightbox__intro">
+        <p class="c-lightbox__intro-title"></p>
+        <button class="btn btn--rounded c-lightbox__btn c-lightbox__intro-next" title="&#x4E0B;&#x4E00;&#x9875;">
+            <span class="ico ico--rounded ico-chevron-right"></span>
+            <span class="sr-only">&#x4E0B;&#x4E00;&#x9875;</span>
+        </button>
+    </div>
+    <div class="c-lightbox__nav">
+        <button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--close" title="&#x5173;&#x95ED;">
+            <span class="ico ico--rounded ico-close"></span>
+            <span class="sr-only">&#x5173;&#x95ED;</span>
+        </button>
+        <button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--prev" title="&#x4E0A;&#x4E00;&#x9875;">
+            <span class="ico ico--rounded ico-chevron-left"></span>
+            <span class="sr-only">&#x4E0A;&#x4E00;&#x9875;</span>
+        </button>
+        <button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--next" title="&#x4E0B;&#x4E00;&#x9875;">
+            <span class="ico ico--rounded ico-chevron-right"></span>
+            <span class="sr-only">&#x4E0B;&#x4E00;&#x9875;</span>
+        </button>
+    </div>
+    <div class="c-lightbox__content-wrap">
+        <figure class="c-lightbox__content">
+            <span class="c-spinner c-spinner--lightbox">
+                <img src="/Content/responsive/img/player-spinner.png"
+                     alt="&#x8BF7;&#x7A0D;&#x7B49;"
+                     title="&#x8BF7;&#x7A0D;&#x7B49;" />
+            </span>
+            <div class="c-lightbox__img">
+                <div class="thumb">
+                    <img src="" alt="" />
+                </div>
+            </div>
+            <figcaption>
+                <div class="c-lightbox__info c-lightbox__info--foot">
+                    <span class="c-lightbox__counter"></span>
+                    <span class="caption c-lightbox__caption"></span>
+                </div>
+            </figcaption>
+        </figure>
+    </div>
+    <div class="hidden">
+        <div class="content-advisory__box content-advisory__box--lightbox">
+            <span class="content-advisory__box-text">&#x6B64;&#x56FE;&#x7247;&#x5185;&#x5BB9;&#x654F;&#x611F;&#xFF0C;&#x6709;&#x4E9B;&#x4EBA;&#x53EF;&#x80FD;&#x4F1A;&#x89C9;&#x5F97;&#x53CD;&#x611F;&#x6216;&#x4E0D;&#x5B89;&#x3002;</span>
+            <button class="btn btn--transparent content-advisory__box-btn m-t-md" value="text" type="button">
+                <span class="btn__text">
+                    &#x70B9;&#x51FB;&#x663E;&#x793A;
+                </span>
+            </button>
+        </div>
+    </div>
+</div>
+
+<div class="print-dialogue">
+    <div class="container">
+        <p class="print-dialogue__title section-head">Print Options:</p>
+        <div class="print-dialogue__opts">
+            <ul class="print-dialogue__opt-group">
+                <li class="form__group form__group--checkbox">
+                    <input class="form__check " id="checkboxImages" name="checkboxImages" type="checkbox" checked="checked" />
+                    <label for="checkboxImages" class="form__label m-t-md">&#x56FE;&#x7247;</label>
+                </li>
+                <li class="form__group form__group--checkbox">
+                    <input class="form__check " id="checkboxMultimedia" name="checkboxMultimedia" type="checkbox" checked="checked" />
+                    <label for="checkboxMultimedia" class="form__label m-t-md">Multimedia</label>
+                </li>
+            </ul>
+            <ul class="print-dialogue__opt-group">
+                <li class="form__group form__group--checkbox">
+                    <input class="form__check " id="checkboxEmbedded" name="checkboxEmbedded" type="checkbox" checked="checked" />
+                    <label for="checkboxEmbedded" class="form__label m-t-md">Embedded Content</label>
+                </li>
+                <li class="hidden">
+                    <input class="form__check " id="checkboxComments" name="checkboxComments" type="checkbox" />
+                    <label for="checkboxComments" class="form__label m-t-md">&#x8BC4;&#x8BBA;</label>
+                </li>
+            </ul>
+        </div>
+        <div class="print-dialogue__buttons">
+            <button class="btn  btn--secondary close-button" type="button" title="&#x53D6;&#x6D88;">
+                <span class="btn__text ">&#x53D6;&#x6D88;</span>
+            </button>
+            <button class="btn  btn-cust-print m-l-sm" type="button" title="&#x6253;&#x5370;">
+                <span class="btn__text ">&#x6253;&#x5370;</span>
+            </button>
+        </div>
+    </div>
+</div>                
+<div class="ctc-message pos-fix">
+    <div class="ctc-message__inner">Link has been copied to clipboard</div>
+</div>
+            </aside>
+
+
+<div class="hdr-20 hdr-20--big">
+    <div class="hdr-20__inner">
+        <div class="hdr-20__max pos-rel">
+            <div class="hdr-20__side hdr-20__side--primary d-flex">
+                <label data-for="main-menu-ctrl" data-switcher-trigger="true" data-switch-target="main-menu-ctrl" class="burger hdr-trigger pos-rel trans-trigger" data-trans-evt="click" data-trans-id="menu">
+                    <span class="ico ico-close hdr-trigger__ico hdr-trigger__ico--close burger__ico burger__ico--close"></span>
+                    <span class="ico ico-menu hdr-trigger__ico hdr-trigger__ico--open burger__ico burger__ico--open"></span>
+                </label>
+                <div class="menu-pnl pos-fix trans-target" data-switch-target="main-menu-ctrl" data-trans-id="menu">
+                    <div class="menu-pnl__inner">
+                        <nav class="main-nav menu-pnl__item menu-pnl__item--first">
+                            <ul class="main-nav__list accordeon" data-analytics-tales="false" data-promo-name="link" data-location-name="nav,secnav">
+                                
+
+        <li class="main-nav__item">
+            <a class="main-nav__item-name main-nav__item-name--link" href="/p/9647.html" title="&#x4E3B;&#x9875;" data-item-name="voachinese-index-news" >&#x4E3B;&#x9875;</a>
+        </li>
+
+        <li class="main-nav__item">
+            <a class="main-nav__item-name main-nav__item-name--link" href="/US" title="&#x7F8E;&#x56FD;" data-item-name="USNews" >&#x7F8E;&#x56FD;</a>
+        </li>
+
+        <li class="main-nav__item">
+            <a class="main-nav__item-name main-nav__item-name--link" href="/p/6197.html" title="&#x4E2D;&#x56FD;" data-item-name="ChinaNews" >&#x4E2D;&#x56FD;</a>
+        </li>
+
+        <li class="main-nav__item">
+            <a class="main-nav__item-name main-nav__item-name--link" href="/Taiwan" title="&#x53F0;&#x6E7E;" data-item-name="TaiwanNews" >&#x53F0;&#x6E7E;</a>
+        </li>
+
+        <li class="main-nav__item">
+            <a class="main-nav__item-name main-nav__item-name--link" href="/p/7681.html" title="&#x6E2F;&#x6FB3;" data-item-name="HongKongMacau" >&#x6E2F;&#x6FB3;</a>
+        </li>
+
+        <li class="main-nav__item accordeon__item" data-switch-target="menu-item-1772">
+            <label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" data-switcher-trigger="true" data-for="menu-item-1772">
+                &#x56FD;&#x9645;
+                <span class="ico ico-chevron-down main-nav__chev"></span>
+            </label>
+            <div class="main-nav__sub-list">
+                
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/6143.html" title="&#x6700;&#x65B0;&#x56FD;&#x9645;&#x65B0;&#x95FB;" data-item-name="WorldNews" >&#x6700;&#x65B0;&#x56FD;&#x9645;&#x65B0;&#x95FB;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1745" title="&#x5370;&#x592A;" data-item-name="indo-pacific" >&#x5370;&#x592A;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1759" title="&#x4E2D;&#x4E1C;" data-item-name="middle-east" >&#x4E2D;&#x4E1C;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1753" title="&#x6B27;&#x6D32;" data-item-name="europe" >&#x6B27;&#x6D32;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1741" title="&#x975E;&#x6D32;" data-item-name="africa" >&#x975E;&#x6D32;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1742" title="&#x7F8E;&#x6D32;" data-item-name="latin-america" >&#x7F8E;&#x6D32;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/5374" title="&#x5168;&#x7403;&#x8BAE;&#x9898;" data-item-name="global-issues" >&#x5168;&#x7403;&#x8BAE;&#x9898;</a>
+
+            </div>
+        </li>
+
+        <li class="main-nav__item accordeon__item" data-switch-target="menu-item-1887">
+            <label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" data-switcher-trigger="true" data-for="menu-item-1887">
+                &#x5206;&#x7C7B;&#x65B0;&#x95FB;
+                <span class="ico ico-chevron-down main-nav__chev"></span>
+            </label>
+            <div class="main-nav__sub-list">
+                
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1748" title="&#x7ECF;&#x6D4E;·&#x91D1;&#x878D;·&#x8D38;&#x6613;" data-item-name="economics-trade" >&#x7ECF;&#x6D4E;·&#x91D1;&#x878D;·&#x8D38;&#x6613;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/5120" title="&#x4EBA;&#x6743;·&#x6CD5;&#x5F8B;·&#x5B97;&#x6559;" data-item-name="rights-law-religions" >&#x4EBA;&#x6743;·&#x6CD5;&#x5F8B;·&#x5B97;&#x6559;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/5679" title="&#x79D1;&#x6559;·&#x6587;&#x5A31;·&#x4F53;&#x5065;" data-item-name="science-education-culture-entertainment-sports-health" >&#x79D1;&#x6559;·&#x6587;&#x5A31;·&#x4F53;&#x5065;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1772" title="&#x519B;&#x4E8B;" data-item-name="military" >&#x519B;&#x4E8B;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/2191" title="&#x52B3;&#x5DE5;" data-item-name="labor" >&#x52B3;&#x5DE5;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1752" title="&#x73AF;&#x5883;" data-item-name="environment" >&#x73AF;&#x5883;</a>
+
+            </div>
+        </li>
+
+        <li class="main-nav__item">
+            <a class="main-nav__item-name main-nav__item-name--link" href="/p/5625.html" title="&#x7F8E;&#x4E2D;&#x5173;&#x7CFB;" data-item-name="USChinaRelations" >&#x7F8E;&#x4E2D;&#x5173;&#x7CFB;</a>
+        </li>
+
+        <li class="main-nav__item accordeon__item" data-switch-target="menu-item-1869">
+            <label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" data-switcher-trigger="true" data-for="menu-item-1869">
+                &#x70ED;&#x70B9;&#x4E13;&#x9898;
+                <span class="ico ico-chevron-down main-nav__chev"></span>
+            </label>
+            <div class="main-nav__sub-list">
+                
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/white-house-news" title="&#x767D;&#x5BAB;&#x8981;&#x95FB;" data-item-name="White House News" >&#x767D;&#x5BAB;&#x8981;&#x95FB;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/6107.html" title="&#x56FD;&#x4F1A;&#x62A5;&#x9053;" data-item-name="Capitol-Report-interviews-congress" >&#x56FD;&#x4F1A;&#x62A5;&#x9053;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/5625.html" title="&#x7F8E;&#x4E2D;&#x5173;&#x7CFB;" data-item-name="USChinaRelations" >&#x7F8E;&#x4E2D;&#x5173;&#x7CFB;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/trump-xi-summit" title="&#x7F8E;&#x4E2D;&#x5CF0;&#x4F1A;" data-item-name="Trump-Xi Summit" >&#x7F8E;&#x4E2D;&#x5CF0;&#x4F1A;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/6097.html" title="&#x53F0;&#x6D77;&#x4E24;&#x5CB8;&#x5173;&#x7CFB;" data-item-name="CrossStraitRelations" >&#x53F0;&#x6D77;&#x4E24;&#x5CB8;&#x5173;&#x7CFB;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/5626.html" title="&#x5357;&#x4E2D;&#x56FD;&#x6D77;&#x4E89;&#x7AEF;" data-item-name="SouthChinaSeaDisputes" >&#x5357;&#x4E2D;&#x56FD;&#x6D77;&#x4E89;&#x7AEF;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/4012" title="&#x4E4C;&#x514B;&#x5170;&#x5C40;&#x52BF;" data-item-name="Ukraine-Crisis" >&#x4E4C;&#x514B;&#x5170;&#x5C40;&#x52BF;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7759" title="&#x5173;&#x6CE8;&#x897F;&#x85CF;" data-item-name="tibet" >&#x5173;&#x6CE8;&#x897F;&#x85CF;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/2393" title="&#x5173;&#x6CE8;&#x65B0;&#x7586;" data-item-name="xinjiang" >&#x5173;&#x6CE8;&#x65B0;&#x7586;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/6138.html" title="&#x7F8E;&#x56FD;&#x4E4B;&#x97F3;&#x4E13;&#x8BBF;" data-item-name="Interviews" >&#x7F8E;&#x56FD;&#x4E4B;&#x97F3;&#x4E13;&#x8BBF;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/6041.html" title="&#x57C3;&#x535A;&#x62C9;&#x75AB;&#x60C5;" data-item-name="June-4th" >&#x57C3;&#x535A;&#x62C9;&#x75AB;&#x60C5;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1766" title="&#x91CD;&#x8981;&#x8BB2;&#x8BDD;&#x4E0E;&#x58F0;&#x660E;" data-item-name="speeches" >&#x91CD;&#x8981;&#x8BB2;&#x8BDD;&#x4E0E;&#x58F0;&#x660E;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/america250" title="&#x7F8E;&#x56FD;&#x5EFA;&#x56FD;250&#x5468;&#x5E74;" data-item-name="America250" >&#x7F8E;&#x56FD;&#x5EFA;&#x56FD;250&#x5468;&#x5E74;</a>
+
+            </div>
+        </li>
+
+        <li class="main-nav__item accordeon__item" data-switch-target="menu-item-1880">
+            <label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" data-switcher-trigger="true" data-for="menu-item-1880">
+                &#x89C6;&#x9891;
+                <span class="ico ico-chevron-down main-nav__chev"></span>
+            </label>
+            <div class="main-nav__sub-list">
+                
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/videos" title="&#x7F8E;&#x56FD;&#x4E4B;&#x97F3;&#x4E2D;&#x6587;&#x89C6;&#x9891;" data-item-name="VOAChineseVideos" >&#x7F8E;&#x56FD;&#x4E4B;&#x97F3;&#x4E2D;&#x6587;&#x89C6;&#x9891;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/8420" title="VOA&#x4ECA;&#x65E5;&#x7126;&#x70B9;" data-item-name="VOA-Today" >VOA&#x4ECA;&#x65E5;&#x7126;&#x70B9;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7545" title="&#x539F;&#x58F0;&#x5E26;" data-item-name="VOA-roll-the-tape" >&#x539F;&#x58F0;&#x5E26;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/8563" title="&#x77E2;&#x677F;&#x660E;&#x592B;&#x5370;&#x592A;&#x65F6;&#x4E8B;&#x4E09;&#x5206;&#x949F;" data-item-name="Akio-yaita-indo-pacific-in-3-minutes" >&#x77E2;&#x677F;&#x660E;&#x592B;&#x5370;&#x592A;&#x65F6;&#x4E8B;&#x4E09;&#x5206;&#x949F;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/6138.html" title="&#x7F8E;&#x56FD;&#x4E4B;&#x97F3;&#x4E13;&#x8BBF;" data-item-name="Interviews" >&#x7F8E;&#x56FD;&#x4E4B;&#x97F3;&#x4E13;&#x8BBF;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/america250" title="&#x7F8E;&#x56FD;&#x5EFA;&#x56FD;250&#x5468;&#x5E74;" data-item-name="America250" >&#x7F8E;&#x56FD;&#x5EFA;&#x56FD;250&#x5468;&#x5E74;</a>
+
+    <a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/8468" title="Gen Z &#x770B;&#x7F8E;&#x56FD;" data-item-name="gen-z-on-america" >Gen Z &#x770B;&#x7F8E;&#x56FD;</a>
+
+            </div>
+        </li>
+
+        <li class="main-nav__item">
+            <a class="main-nav__item-name main-nav__item-name--link" href="/z/8350" title="&#x4E2D;&#x6587;&#x5E7F;&#x64AD;" data-item-name="Mandarin-radio" >&#x4E2D;&#x6587;&#x5E7F;&#x64AD;</a>
+        </li>
+
+
+
+                            </ul>
+                        </nav>
+                        
+
+
+
+
+                        
+                            <div class="menu-pnl__item menu-pnl__item--social">
+                                    <p class="menu-pnl__sub-head">&#x5173;&#x6CE8;&#x6211;&#x4EEC;</p>
+
+            <a href="https://twitter.com/voachinese" title="Follow us on X (Twitter)" data-analytics-text="follow_on_twitter" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-twitter"  target="_blank" rel="noopener">
+                <span class="ico ico-twitter ico--rounded"></span>
+            </a>
+
+            <a href="https://www.youtube.com/voachinese" title="Follow us on Youtube" data-analytics-text="follow_on_youtube" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-youtube"  target="_blank" rel="noopener">
+                <span class="ico ico-youtube ico--rounded"></span>
+            </a>
+
+            <a href="https://www.facebook.com/voachinese" title="Follow us on Facebook" data-analytics-text="follow_on_facebook" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-facebook"  target="_blank" rel="noopener">
+                <span class="ico ico-facebook-alt ico--rounded"></span>
+            </a>
+
+            <a href="https://www.instagram.com/voachinese/" title="Follow us on Instagram" data-analytics-text="follow_on_instagram" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-instagram"  target="_blank" rel="noopener">
+                <span class="ico ico-instagram ico--rounded"></span>
+            </a>
+
+            <a href="https://www.threads.com/@voachinese" title="Follow us on Threads" data-analytics-text="follow_on_threads" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-threads"  target="_blank" rel="noopener">
+                <span class="ico ico-threads ico--rounded"></span>
+            </a>
+
+            <a href="https://t.me/voachinese" title="Follow us on Telegram" data-analytics-text="follow_on_telegram" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-telegram"  target="_blank" rel="noopener">
+                <span class="ico ico-telegram ico--rounded"></span>
+            </a>
+
+            <a href="https://www.whatsapp.com/channel/0029VasToscK0IBfPwWJIn3o" title="Follow us on WhatsApp" data-analytics-text="follow_on_whatsapp_desktop" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-whatsapp visible-md-inline-block visible-lg-inline-block"  target="_blank" rel="noopener">
+                <span class="ico ico-whatsapp ico--rounded"></span>
+            </a>
+
+                            </div>
+                            <div class="menu-pnl__item">
+                                <a href="/navigation/allsites" class="menu-pnl__item-link">
+                                    <span class="ico ico-languages "></span>
+                                    &#x5176;&#x4ED6;&#x8BED;&#x8A00;&#x7F51;&#x7AD9;
+                                </a>
+                            </div>
+                    </div>
+                </div>
+                <label data-for="top-search-ctrl" data-switcher-trigger="true" data-switch-target="top-search-ctrl" class="top-srch-trigger hdr-trigger">
+                    <span class="ico ico-close hdr-trigger__ico hdr-trigger__ico--close top-srch-trigger__ico top-srch-trigger__ico--close"></span>
+                    <span class="ico ico-search hdr-trigger__ico hdr-trigger__ico--open top-srch-trigger__ico top-srch-trigger__ico--open"></span>
+                </label>
+                <div class="srch-top srch-top--in-header" data-switch-target="top-search-ctrl">
+                    <div class="container">
+                        
+<form action="/s" class="srch-top__form srch-top__form--in-header" id="form-topSearchHeader" method="get" role="search">    <label for="txtHeaderSearch" class="sr-only">&#x68C0;&#x7D22;</label>
+    <input type="text" id="txtHeaderSearch" name="k" placeholder="&#x68C0;&#x7D22;" accesskey="s" value="" class="srch-top__input analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('#txtHeaderSearch')[0].value) }" />
+    <button title="&#x68C0;&#x7D22;" type="submit" class="btn btn--top-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('#txtHeaderSearch')[0].value) ">
+        <span class="ico ico-search"></span>
+    </button>
+</form>
+                    </div>
+                </div>
+                <a href="/" class="main-logo-link">
+                    <img src="/Content/responsive/VOA/zh-CN/img/logo-compact.svg?cb=324" class="main-logo main-logo--comp" alt="site logo">
+                        <img src="/Content/responsive/VOA/zh-CN/img/logo.svg?cb=324" class="main-logo main-logo--big" alt="site logo">
+                </a>
+            </div>
+            <div class="hdr-20__side hdr-20__side--secondary d-flex">
+                
+
+    <a href="/p/3854.html" title="Video" class="hdr-20__secondary-item" data-item-name="video">
+        
+    <span class="ico ico-video hdr-20__secondary-icon"></span>
+
+    </a>
+
+    <a href="/z/8350" title="Audio" class="hdr-20__secondary-item" data-item-name="audio">
+        
+    <span class="ico ico-audio hdr-20__secondary-icon"></span>
+
+    </a>
+
+    <a href="/s" title="&#x68C0;&#x7D22;" class="hdr-20__secondary-item hdr-20__secondary-item--search" data-item-name="search">
+        
+    <span class="ico ico-search hdr-20__secondary-icon hdr-20__secondary-icon--search"></span>
+
+    </a>
+
+
+
+                
+
+<div class="hdr-20__secondary-item live-b-drop">
+    <div class="live-b-drop__off">
+        <a href="/live/" class="live-b-drop__link" title="&#x76F4;&#x64AD;" data-item-name="live">
+            <span class="badge badge--live-btn badge--live-btn-off">
+                &#x76F4;&#x64AD;
+            </span>
+        </a>
+    </div>
+    <div class="live-b-drop__on hidden">
+        <label data-for="live-ctrl" data-switcher-trigger="true" data-switch-target="live-ctrl" class="live-b-drop__label pos-rel">
+            <span class="badge badge--live badge--live-btn">
+                &#x76F4;&#x64AD;
+            </span>
+            <span class="ico ico-close live-b-drop__label-ico live-b-drop__label-ico--close"></span>
+        </label>
+        <div class="live-b-drop__panel" id="targetLivePanelDiv" data-switch-target="live-ctrl"></div>
+    </div>
+</div>
+
+
+                <div class="srch-bottom">
+                    
+<form action="/s" class="srch-bottom__form d-flex" id="form-bottomSearch" method="get" role="search">    <label for="txtSearch" class="sr-only">&#x68C0;&#x7D22;</label>
+    <input type="search" id="txtSearch" name="k" placeholder="&#x68C0;&#x7D22;" accesskey="s" value="" class="srch-bottom__input analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('#txtSearch')[0].value) }" />
+    <button title="&#x68C0;&#x7D22;" type="submit" class="btn btn--bottom-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('#txtSearch')[0].value) ">
+        <span class="ico ico-search"></span>
+    </button>
+</form>
+                </div>
+            </div>
+            <img src="/Content/responsive/VOA/zh-CN/img/logo-print.gif?cb=324" class="logo-print" loading="lazy" alt="site logo">
+            <img src="/Content/responsive/VOA/zh-CN/img/logo-print_color.png?cb=324" class="logo-print logo-print--color" loading="lazy" alt="site logo">
+        </div>
+    </div>
+</div>
+    <script>
+        if (document.body.className.indexOf('pg-home') > -1) {
+            var nav2In = document.querySelector('.hdr-20__inner');
+            var nav2Sec = document.querySelector('.hdr-20__side--secondary');
+            var secStyle = window.getComputedStyle(nav2Sec);
+            if (nav2In && window.pageYOffset < 150 && secStyle['position'] !== 'fixed') {
+                nav2In.classList.add('hdr-20__inner--big')
+            }
+        }
+    </script>
+
+
+
+<div class="c-hlights c-hlights--breaking c-hlights--no-item" data-hlight-display="mobile,desktop">
+    <div class="c-hlights__wrap container p-0">
+        <div class="c-hlights__nav">
+            <a role="button" href="#" title="&#x4E0A;&#x4E00;&#x9875;">
+                <span class="ico ico-chevron-backward m-0"></span>
+                <span class="sr-only">&#x4E0A;&#x4E00;&#x9875;</span>
+            </a>
+            <a role="button" href="#" title="&#x4E0B;&#x4E00;&#x9875;">
+                <span class="ico ico-chevron-forward m-0"></span>
+                <span class="sr-only">&#x4E0B;&#x4E00;&#x9875;</span>
+            </a>
+        </div>
+        <span class="c-hlights__label">
+            <span class="">VOA&#x5FEB;&#x8BAF;</span>
+            <span class="switcher-trigger">
+                <label data-for="more-less-1" data-switcher-trigger="true" class="switcher-trigger__label switcher-trigger__label--more p-b-0" title="&#x66F4;&#x591A;&#x5185;&#x5BB9;">
+                    <span class="ico ico-chevron-down"></span>
+                </label>
+                <label data-for="more-less-1" data-switcher-trigger="true" class="switcher-trigger__label switcher-trigger__label--less p-b-0" title="&#x663E;&#x793A;&#x66F4;&#x5C11;&#x5185;&#x5BB9;">
+                    <span class="ico ico-chevron-up"></span>
+                </label>
+            </span>
+        </span>
+        <ul class="c-hlights__items switcher-target" data-switch-target="more-less-1">
+            
+        </ul>
+    </div>
+</div>
+
+
+    <div class="date-time-area ">
+        <div class="container">
+            <span class="date-time">
+                &#x4E2D;&#x56FD;&#x65F6;&#x95F4; 13:53 2026&#x5E74;11&#x6708;17&#x65E5; &#x661F;&#x671F;&#x4E8C;
+            </span>
+        </div>
+    </div>
+
+        <div id="content">
+            
+
+    <main class="container">
+
+    <div class="hdr-container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1">
+                <div class="row">
+                    <div class="col-category col-xs-12 col-md-8 col-md-offset-2">
+
+
+<div class="category js-category">
+<a class="" href="/z/1739">&#x65B0;&#x95FB;</a></div></div>
+<div class="col-title col-xs-12 col-md-8 col-md-offset-2">
+
+    <h1 class="title pg-title">&#x53F0;&#x72EC;&#x4EBA;&#x58EB;&#x6B32;&#x4E3A;&#x53F0;&#x6E7E;&#x6CD5;&#x7406;&#x5EFA;&#x56FD;</h1>
+</div>
+<div class="col-publishing-details col-xs-12 col-md-8 col-md-offset-2">
+
+<div class="publishing-details ">
+                <div class="links">
+                    <ul class="links__list">
+                            <li class="links__item">
+            <a class="links__item-link" href="/author/&#x5BB9;&#x6613;/vuoom"  title="&#x5BB9;&#x6613;">&#x5BB9;&#x6613;</a>                            </li>
+                    </ul>
+                </div>
+        <div class="published">
+            <span class="date" title="中国时间">
+                    <time pubdate="pubdate" datetime="2009-05-06T08:00:00&#x2B;08:00">
+                        2009&#x5E74;5&#x6708;6&#x65E5; 08:00
+                    </time>
+            </span>
+        </div>
+</div>
+
+
+</div>
+<div class="col-xs-12 col-md-8 col-md-offset-2">
+
+<div class="col-article-tools pos-rel article-share">
+
+    <div class="share--box">
+                <div class="sticky-share-container" style="display:none">
+                    <div class="container">
+                        <a href="https://www.voachinese.com" id="logo-sticky-share">&nbsp;</a>
+                        <div class="pg-title pg-title--sticky-share">
+                            &#x53F0;&#x72EC;&#x4EBA;&#x58EB;&#x6B32;&#x4E3A;&#x53F0;&#x6E7E;&#x6CD5;&#x7406;&#x5EFA;&#x56FD;
+                        </div>
+                        <div class="sticked-nav-actions">
+                            <!--This part is for sticky navigation display-->
+                            <aside class="content-sharing js-content-sharing js-content-sharing--apply-sticky content-sharing--sticky" role="complementary" 
+                                   data-share-url="https://www.voachinese.com/a/a-21-w2009-05-06-voa42-61360767/1026769.html" data-share-title="&#x53F0;&#x72EC;&#x4EBA;&#x58EB;&#x6B32;&#x4E3A;&#x53F0;&#x6E7E;&#x6CD5;&#x7406;&#x5EFA;&#x56FD;" data-share-text="">
+                                <div class="content-sharing__popover">
+                                    <p class="content-sharing__title">&#x5206;&#x4EAB;</p>
+                                    <button class="btn btn--text-like content-sharing__close-btn">
+                                        <span class="ico ico-close ico--l"></span>
+                                    </button>
+            <ul class="content-sharing__list">
+                    <li class="content-sharing__item">
+                            <div class="ctc ">
+                                <input type="text" class="ctc__input" readonly="readonly">
+                                <a href="" class="content-sharing__link ctc__button">
+                                    <span class="ico ico-copy-link ico--rounded ico--s"></span>
+                                        <span class="content-sharing__link-text">&#x590D;&#x5236;&#x94FE;&#x63A5;</span>
+                                </a>
+                            </div>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_facebook"
+           title="Facebook" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-facebook ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Facebook</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://twitter.com/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html&amp;text=%e5%8f%b0%e7%8b%ac%e4%ba%ba%e5%a3%ab%e6%ac%b2%e4%b8%ba%e5%8f%b0%e6%b9%be%e6%b3%95%e7%90%86%e5%bb%ba%e5%9b%bd&amp;via=voachinese "
+           data-analytics-text="share_on_twitter"
+           title="Twitter" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-twitter ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Twitter</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-xs-inline-block visible-sm-inline-block">
+        <a href="whatsapp://send?text=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_whatsapp"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-md-inline-block visible-lg-inline-block">
+        <a href="https://web.whatsapp.com/send?text=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_whatsapp_desktop"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://telegram.me/share/url?url=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_telegram"
+           title="Telegram" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-telegram ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Telegram</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-xs-inline-block visible-sm-inline-block">
+        <a href="https://line.me/R/msg/text/?https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_line"
+           title="Line" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-line ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Line</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-md-inline-block visible-lg-inline-block">
+        <a href="https://timeline.line.me/social-plugin/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_line_desktop"
+           title="Line" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-line ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Line</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="mailto:?body=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html&amp;subject=&#x53F0;&#x72EC;&#x4EBA;&#x58EB;&#x6B32;&#x4E3A;&#x53F0;&#x6E7E;&#x6CD5;&#x7406;&#x5EFA;&#x56FD;"
+           
+           title="Email" 
+           class="content-sharing__link ">
+            <span class="ico ico-email ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Email</span>
+        </a>
+                    </li>
+
+            </ul>
+                                </div>
+                            </aside>
+                            <p class="buttons link-content-sharing p-0">
+                                <button class="btn btn--link btn-content-sharing p-t-0" value="text" role="Button" type="" title="&#x5206;&#x4EAB;">
+                                    <span class="ico ico-share"></span>
+                                    <span class="btn__text">
+                                        &#x5206;&#x4EAB;
+                                    </span>
+                                </button>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="links" >
+                        <aside class="content-sharing js-content-sharing " role="complementary" 
+                               data-share-url="https://www.voachinese.com/a/a-21-w2009-05-06-voa42-61360767/1026769.html" data-share-title="&#x53F0;&#x72EC;&#x4EBA;&#x58EB;&#x6B32;&#x4E3A;&#x53F0;&#x6E7E;&#x6CD5;&#x7406;&#x5EFA;&#x56FD;" data-share-text="">
+                            <div class="content-sharing__popover">
+                                <p class="content-sharing__title">&#x5206;&#x4EAB;</p>
+                                <button class="btn btn--text-like content-sharing__close-btn">
+                                    <span class="ico ico-close ico--l"></span>
+                                </button>
+            <ul class="content-sharing__list">
+                    <li class="content-sharing__item">
+                            <div class="ctc ">
+                                <input type="text" class="ctc__input" readonly="readonly">
+                                <a href="" class="content-sharing__link ctc__button">
+                                    <span class="ico ico-copy-link ico--rounded ico--l"></span>
+                                        <span class="content-sharing__link-text">&#x590D;&#x5236;&#x94FE;&#x63A5;</span>
+                                </a>
+                            </div>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_facebook"
+           title="Facebook" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-facebook ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Facebook</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://twitter.com/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html&amp;text=%e5%8f%b0%e7%8b%ac%e4%ba%ba%e5%a3%ab%e6%ac%b2%e4%b8%ba%e5%8f%b0%e6%b9%be%e6%b3%95%e7%90%86%e5%bb%ba%e5%9b%bd&amp;via=voachinese "
+           data-analytics-text="share_on_twitter"
+           title="Twitter" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-twitter ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Twitter</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-xs-inline-block visible-sm-inline-block">
+        <a href="whatsapp://send?text=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_whatsapp"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-md-inline-block visible-lg-inline-block">
+        <a href="https://web.whatsapp.com/send?text=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_whatsapp_desktop"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://telegram.me/share/url?url=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_telegram"
+           title="Telegram" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-telegram ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Telegram</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-xs-inline-block visible-sm-inline-block">
+        <a href="https://line.me/R/msg/text/?https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_line"
+           title="Line" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-line ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Line</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-md-inline-block visible-lg-inline-block">
+        <a href="https://timeline.line.me/social-plugin/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_line_desktop"
+           title="Line" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-line ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Line</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="mailto:?body=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html&amp;subject=&#x53F0;&#x72EC;&#x4EBA;&#x58EB;&#x6B32;&#x4E3A;&#x53F0;&#x6E7E;&#x6CD5;&#x7406;&#x5EFA;&#x56FD;"
+           
+           title="Email" 
+           class="content-sharing__link ">
+            <span class="ico ico-email ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Email</span>
+        </a>
+                    </li>
+
+            </ul>
+                            </div>
+                        </aside>
+                        <p class="buttons link-content-sharing p-0">
+                            <button class="btn btn--link btn-content-sharing p-t-0" value="text" role="Button" type="" title="&#x5206;&#x4EAB;">
+                                <span class="ico ico-share"></span>
+                                <span class="btn__text">
+                                    &#x5206;&#x4EAB;
+                                </span>
+                            </button>
+                        </p>
+                    
+
+                </div>
+    </div>
+
+</div>
+</div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="body-container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-md-offset-2">
+                    <div id="article-content" class="content-floated-wrap fb-quotable">
+
+    <div class="wsw">
+
+<p>支持台湾独立建国的人士近年来找到‘法理建国’的新方法，他们在美国最高法院提出诉讼，要求美国澄清1951年旧金山和约有关台湾地位的部分。不过有美国学者并不看好台湾人的这项官司，因为美国从未接受台湾归属地位未定的说法。<br /><br />五月初在台湾成立的‘福摩莎法理建国会’将在5月10日在美国西岸的洛杉矶成立南加州分会，该会共同召集人蔡明法表示，将支持法理建国会向美国最高法院上诉的官司。<br /><br />蔡明法说：“我们这个会成立，是希望帮助推动台湾在法理上，能够把主权问题的结解套出来，让台湾能永续生存下去。也就是运用国际法理，争取建立台湾国，国名当然还有待大家认定。”<br /><br />*一些台湾人要求美国发护照*<br /><br />蔡明法说，台湾前司法院副院长城仲模等一批热心的台湾人，用心的研究了国际法、战争法、以及国际条约法，要在法理上找出台湾的定位。诉讼起于2006年林志升等228名台湾人向美国法庭提出控告，指美国应该发给他们护照，理由是根据旧金山和约台湾的归属未定，台湾事务仍应由美国负责。<br /><br />蔡明法表示，诉讼已从哥伦比亚的地方法庭打到华盛顿的高等法院，2009年2月在高院辩论时，洛杉矶有16人专程搭飞机去旁听，4月中高院裁定维持原判，即是案子超越了该法院管辖权，应交由美国国务院处理。<br /><br />不过蔡明法说，法官在判决书中很同情台湾人民60年来没有主权和人权的情形。现在他们正在汇整资料，3个月内要上诉到美国最高法院，希望能像古巴、菲律宾、波多黎各等32起其他的案子，让美国大法官来解释旧金山和约。<br /><br />据法理建国会另一位召集人曾辉光说，美国最高法院会不会接受这个案子，仍属未知，即使接受，将来也可能有官司打赢和打输两个结果，但不论如何，当年美国没有处理好台湾归属的问题，现在应要讲清楚，台湾地位不能再继续模糊下去。<br /><br />该会另一位召集人陈薰洋也说：“其实诉讼不是输赢的问题，是要逼出一个结论出来，你到底是怎样承认(台湾)？”<br /><br />陈薰洋等人都认为旧金山和约只说日本放弃台湾澎湖，并未说明领土主权转移给谁，既然日本战败美国自动占有所有日本领土，自然也应该处理台湾的事务，美国应该让台湾的人民自己决定建立何种国家。<br /><br />陈薰洋等人都拒绝承认台北和约( 日本和中华民国1952年签定的和约 )，认为是扭曲历史，应该以母法旧金山和约为准。<br /><br />据报导，台湾的马英九总统最近纪念台北和约50周年，指出台北和约确认了台湾已经回归中华民国的地位。日本最近也为驻台湾代表斋藤正树所谓‘台湾归属地位未定’的说法，正式道歉。中国外交部则对日本驻台代表的言论表示不满，并再度表示台湾是中国领土不可分割的一部分。<br /><br />*美学者：美从未接受台地位未定论*<br /><br />研究美国和亚洲国家关系多年的南加州大学美中学院副院长杜克雷( Clayton Dube ) 指出，美国从未接受台湾地位未定论。中国是二战盟军，所以战后曾被日本占领的中国领土自动回归中华民国。<br /><br />杜克雷说：“美国认为( 台湾地位) 是已经确定的事情，从1945年起台湾就被视为是中国的一部分，中华民国政府对台湾有管辖权，退居台湾后中华民国也继续统治台湾，只是今天美国不再承认中华民国。”<br /><br />杜克雷指出，美国订定的台湾关系法开头即说不承认台湾是个国家，但又规定台湾有各种形同国家的地位。现在台湾有民选的政府，执行所有国家的政府所做的事，有廿多国承认台湾，也有很多国家与台湾有多方面的往来。<br /><br />不过，杜克雷承认战后的处理也许不尽完美，<br /><br />他说：“不幸的是，那时候情况混乱，台北和华府所做的决定，显然未必是完美的。但我不认为这官司最终会得偿所愿，因为由美国法庭来推翻外交政策的决定，是太不寻常了。”<br /><br /><br />关键词：台湾，法理建国，美国，台湾关系法<br /><br /> </p>
+    </div>
+
+                            <div class="footer-toolbar">
+                            
+    <div class="share--box">
+                <div class="sticky-share-container" style="display:none">
+                    <div class="container">
+                        <a href="https://www.voachinese.com" id="logo-sticky-share">&nbsp;</a>
+                        <div class="pg-title pg-title--sticky-share">
+                            &#x53F0;&#x72EC;&#x4EBA;&#x58EB;&#x6B32;&#x4E3A;&#x53F0;&#x6E7E;&#x6CD5;&#x7406;&#x5EFA;&#x56FD;
+                        </div>
+                        <div class="sticked-nav-actions">
+                            <!--This part is for sticky navigation display-->
+                            <aside class="content-sharing js-content-sharing js-content-sharing--apply-sticky content-sharing--sticky" role="complementary" 
+                                   data-share-url="https://www.voachinese.com/a/a-21-w2009-05-06-voa42-61360767/1026769.html" data-share-title="&#x53F0;&#x72EC;&#x4EBA;&#x58EB;&#x6B32;&#x4E3A;&#x53F0;&#x6E7E;&#x6CD5;&#x7406;&#x5EFA;&#x56FD;" data-share-text="">
+                                <div class="content-sharing__popover">
+                                    <p class="content-sharing__title">&#x5206;&#x4EAB;</p>
+                                    <button class="btn btn--text-like content-sharing__close-btn">
+                                        <span class="ico ico-close ico--l"></span>
+                                    </button>
+            <ul class="content-sharing__list">
+                    <li class="content-sharing__item">
+                            <div class="ctc ">
+                                <input type="text" class="ctc__input" readonly="readonly">
+                                <a href="" class="content-sharing__link ctc__button">
+                                    <span class="ico ico-copy-link ico--rounded ico--s"></span>
+                                        <span class="content-sharing__link-text">&#x590D;&#x5236;&#x94FE;&#x63A5;</span>
+                                </a>
+                            </div>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_facebook"
+           title="Facebook" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-facebook ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Facebook</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://twitter.com/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html&amp;text=%e5%8f%b0%e7%8b%ac%e4%ba%ba%e5%a3%ab%e6%ac%b2%e4%b8%ba%e5%8f%b0%e6%b9%be%e6%b3%95%e7%90%86%e5%bb%ba%e5%9b%bd&amp;via=voachinese "
+           data-analytics-text="share_on_twitter"
+           title="Twitter" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-twitter ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Twitter</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-xs-inline-block visible-sm-inline-block">
+        <a href="whatsapp://send?text=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_whatsapp"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-md-inline-block visible-lg-inline-block">
+        <a href="https://web.whatsapp.com/send?text=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_whatsapp_desktop"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://telegram.me/share/url?url=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_telegram"
+           title="Telegram" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-telegram ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Telegram</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-xs-inline-block visible-sm-inline-block">
+        <a href="https://line.me/R/msg/text/?https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_line"
+           title="Line" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-line ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Line</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-md-inline-block visible-lg-inline-block">
+        <a href="https://timeline.line.me/social-plugin/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_line_desktop"
+           title="Line" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-line ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Line</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="mailto:?body=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html&amp;subject=&#x53F0;&#x72EC;&#x4EBA;&#x58EB;&#x6B32;&#x4E3A;&#x53F0;&#x6E7E;&#x6CD5;&#x7406;&#x5EFA;&#x56FD;"
+           
+           title="Email" 
+           class="content-sharing__link ">
+            <span class="ico ico-email ico--rounded ico--s"></span>
+                <span class="content-sharing__link-text">Email</span>
+        </a>
+                    </li>
+
+            </ul>
+                                </div>
+                            </aside>
+                            <p class="buttons link-content-sharing p-0">
+                                <button class="btn btn--link btn-content-sharing p-t-0" value="text" role="Button" type="" title="&#x5206;&#x4EAB;">
+                                    <span class="ico ico-share"></span>
+                                    <span class="btn__text">
+                                        &#x5206;&#x4EAB;
+                                    </span>
+                                </button>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="links" >
+                        <aside class="content-sharing js-content-sharing " role="complementary" 
+                               data-share-url="https://www.voachinese.com/a/a-21-w2009-05-06-voa42-61360767/1026769.html" data-share-title="&#x53F0;&#x72EC;&#x4EBA;&#x58EB;&#x6B32;&#x4E3A;&#x53F0;&#x6E7E;&#x6CD5;&#x7406;&#x5EFA;&#x56FD;" data-share-text="">
+                            <div class="content-sharing__popover">
+                                <p class="content-sharing__title">&#x5206;&#x4EAB;</p>
+                                <button class="btn btn--text-like content-sharing__close-btn">
+                                    <span class="ico ico-close ico--l"></span>
+                                </button>
+            <ul class="content-sharing__list">
+                    <li class="content-sharing__item">
+                            <div class="ctc ">
+                                <input type="text" class="ctc__input" readonly="readonly">
+                                <a href="" class="content-sharing__link ctc__button">
+                                    <span class="ico ico-copy-link ico--rounded ico--l"></span>
+                                        <span class="content-sharing__link-text">&#x590D;&#x5236;&#x94FE;&#x63A5;</span>
+                                </a>
+                            </div>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_facebook"
+           title="Facebook" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-facebook ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Facebook</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://twitter.com/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html&amp;text=%e5%8f%b0%e7%8b%ac%e4%ba%ba%e5%a3%ab%e6%ac%b2%e4%b8%ba%e5%8f%b0%e6%b9%be%e6%b3%95%e7%90%86%e5%bb%ba%e5%9b%bd&amp;via=voachinese "
+           data-analytics-text="share_on_twitter"
+           title="Twitter" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-twitter ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Twitter</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-xs-inline-block visible-sm-inline-block">
+        <a href="whatsapp://send?text=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_whatsapp"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-md-inline-block visible-lg-inline-block">
+        <a href="https://web.whatsapp.com/send?text=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_whatsapp_desktop"
+           title="WhatsApp" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-whatsapp ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">WhatsApp</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="https://telegram.me/share/url?url=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_telegram"
+           title="Telegram" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-telegram ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Telegram</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-xs-inline-block visible-sm-inline-block">
+        <a href="https://line.me/R/msg/text/?https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_line"
+           title="Line" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-line ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Line</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item visible-md-inline-block visible-lg-inline-block">
+        <a href="https://timeline.line.me/social-plugin/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html"
+           data-analytics-text="share_on_line_desktop"
+           title="Line" target="_blank"
+           class="content-sharing__link  js-social-btn">
+            <span class="ico ico-line ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Line</span>
+        </a>
+                    </li>
+                    <li class="content-sharing__item">
+        <a href="mailto:?body=https%3a%2f%2fwww.voachinese.com%2fa%2fa-21-w2009-05-06-voa42-61360767%2f1026769.html&amp;subject=&#x53F0;&#x72EC;&#x4EBA;&#x58EB;&#x6B32;&#x4E3A;&#x53F0;&#x6E7E;&#x6CD5;&#x7406;&#x5EFA;&#x56FD;"
+           
+           title="Email" 
+           class="content-sharing__link ">
+            <span class="ico ico-email ico--rounded ico--l"></span>
+                <span class="content-sharing__link-text">Email</span>
+        </a>
+                    </li>
+
+            </ul>
+                            </div>
+                        </aside>
+                        <p class="buttons link-content-sharing p-0">
+                            <button class="btn btn--link btn-content-sharing p-t-0" value="text" role="Button" type="" title="&#x5206;&#x4EAB;">
+                                <span class="ico ico-share"></span>
+                                <span class="btn__text">
+                                    &#x5206;&#x4EAB;
+                                </span>
+                            </button>
+                        </p>
+                    
+    <aside class="content-sharing js-content-sharing follow-us" role="complementary">
+        <div class="content-sharing__popover">
+                <p class="content-sharing__title">&#x5173;&#x6CE8;&#x6211;&#x4EEC;</p>
+            <button class="btn btn--text-like content-sharing__close-btn">
+                <span class="ico ico-close"></span>
+            </button>
+            <ul class="content-sharing__list link-content-sharing p-0">
+                            <li class="content-sharing__item ">
+                <a class="content-sharing__link " href="https://www.facebook.com/voachinese" title="Follow us on Facebook" data-analytics-text="follow_on_facebook"    target="_blank" rel="noopener">
+                    <span class="ico ico-facebook-alt ico--rounded"></span>
+                    <span class="content-sharing__link-text">Facebook</span>
+                </a>
+            </li>
+
+            <li class="content-sharing__item ">
+                <a class="content-sharing__link " href="https://twitter.com/voachinese" title="Follow us on X (Twitter)" data-analytics-text="follow_on_twitter"    target="_blank" rel="noopener">
+                    <span class="ico ico-twitter ico--rounded"></span>
+                    <span class="content-sharing__link-text">X (Twitter)</span>
+                </a>
+            </li>
+
+            <li class="content-sharing__item ">
+                <a class="content-sharing__link " href="https://www.youtube.com/voachinese" title="Follow us on Youtube" data-analytics-text="follow_on_youtube"    target="_blank" rel="noopener">
+                    <span class="ico ico-youtube ico--rounded"></span>
+                    <span class="content-sharing__link-text">Youtube</span>
+                </a>
+            </li>
+
+            <li class="content-sharing__item ">
+                <a class="content-sharing__link " href="https://www.instagram.com/voachinese/" title="Follow us on Instagram" data-analytics-text="follow_on_instagram"    target="_blank" rel="noopener">
+                    <span class="ico ico-instagram ico--rounded"></span>
+                    <span class="content-sharing__link-text">Instagram</span>
+                </a>
+            </li>
+
+
+            </ul>
+        </div>
+    </aside>
+    <p class="buttons link-content-sharing p-0">
+            <button class="btn btn--link btn-content-sharing p-t-0" value="text" role="Button" type="" title="&#x5173;&#x6CE8;&#x6211;&#x4EEC;">
+            <span class="ico ico-bell"></span>
+            <span class="btn__text">
+                &#x5173;&#x6CE8;&#x6211;&#x4EEC;
+            </span>
+        </button>
+    </p>
+
+<p class="link-print hidden-xs buttons p-0">
+    <button class="btn btn--link btn-print p-t-0" onclick="if (typeof FireAnalyticsTagEvent === 'function') {FireAnalyticsTagEvent({ on_page_event: 'print_story' });}return false" title="&#x6253;&#x5370;">
+        <span class="ico ico-print"></span>
+        <span class="btn__text">&#x6253;&#x5370;</span>
+    </button>
+</p>
+
+                </div>
+    </div>
+
+
+                            </div>
+
+        <ul class="authors-highlights">
+        </ul>
+
+                        <div class="m-t-sm">
+
+    <div class="media-block-wrap">
+        <h2 class="section-head">&#x76F8;&#x5173;&#x5185;&#x5BB9;</h2>
+        <div class="row">
+            <ul>
+                
+    <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+        <div class="media-block ">
+                <div class="media-block__content">
+                        <a href="/a/a-21-w2008-05-20-voa41-63083422/1049043.html" >
+        <h4 class="media-block__title media-block__title--size-4" title="&#x9A6C;&#x82F1;&#x4E5D;&#x6F14;&#x8BF4;&#x4E24;&#x5CB8;&#x5173;&#x7CFB;&#x653F;&#x7B56;&#x8F6F;&#x4E2D;&#x6709;&#x786C;">
+            &#x9A6C;&#x82F1;&#x4E5D;&#x6F14;&#x8BF4;&#x4E24;&#x5CB8;&#x5173;&#x7CFB;&#x653F;&#x7B56;&#x8F6F;&#x4E2D;&#x6709;&#x786C;
+        </h4>
+                        </a>
+                </div>
+        </div>
+    </li>
+
+
+    <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+        <div class="media-block ">
+                <div class="media-block__content">
+                        <a href="/a/a-21-w2008-05-11-voa29-63229917/971658.html" >
+        <h4 class="media-block__title media-block__title--size-4" title="&#x53F0;&#x6E7E;&#x7EE7;&#x7EED;&#x4E89;&#x53D6;&#x4EE5;&#x53F0;&#x6E7E;&#x540D;&#x4E49;&#x52A0;&#x5165;&#x4E16;&#x536B;">
+            &#x53F0;&#x6E7E;&#x7EE7;&#x7EED;&#x4E89;&#x53D6;&#x4EE5;&#x53F0;&#x6E7E;&#x540D;&#x4E49;&#x52A0;&#x5165;&#x4E16;&#x536B;
+        </h4>
+                        </a>
+                </div>
+        </div>
+    </li>
+
+
+    <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+        <div class="media-block ">
+                <div class="media-block__content">
+                        <a href="/a/a-21-w2009-06-24-voa42-61402157/1031375.html" >
+        <h4 class="media-block__title media-block__title--size-4" title="&#x53F0;&#x6C11;&#x8FDB;&#x515A;&#x8868;&#x793A;&#x4E0D;&#x4F1A;&#x6539;&#x53D8;&#x53F0;&#x72EC;&#x7ACB;&#x573A;">
+            &#x53F0;&#x6C11;&#x8FDB;&#x515A;&#x8868;&#x793A;&#x4E0D;&#x4F1A;&#x6539;&#x53D8;&#x53F0;&#x72EC;&#x7ACB;&#x573A;
+        </h4>
+                        </a>
+                </div>
+        </div>
+    </li>
+
+
+    <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+        <div class="media-block ">
+                <div class="media-block__content">
+                        <a href="/a/a-21-w2009-05-12-voa90-61396617/1030616.html" >
+        <h4 class="media-block__title media-block__title--size-4" title="&#x53F0;&#x6E7E;&#x9A73;&#x65A5;&#x4E2D;&#x56FD;&#x6709;&#x5173;&#x53F0;&#x6E7E;&#x5730;&#x4F4D;&#x7684;&#x8A00;&#x8BBA;">
+            &#x53F0;&#x6E7E;&#x9A73;&#x65A5;&#x4E2D;&#x56FD;&#x6709;&#x5173;&#x53F0;&#x6E7E;&#x5730;&#x4F4D;&#x7684;&#x8A00;&#x8BBA;
+        </h4>
+                        </a>
+                </div>
+        </div>
+    </li>
+
+
+    <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+        <div class="media-block ">
+                <div class="media-block__content">
+                        <a href="/a/a-21-w2009-05-20-voa48-61396507/1030597.html" >
+        <h4 class="media-block__title media-block__title--size-4" title="&#x9A6C;&#x82F1;&#x4E5D;&#xFF1A;&#x4E24;&#x5CB8;&#x5173;&#x7CFB;&#x5E94;&#x7531;&#x53F0;&#x4EBA;&#x6C11;&#x51B3;&#x5B9A;">
+            &#x9A6C;&#x82F1;&#x4E5D;&#xFF1A;&#x4E24;&#x5CB8;&#x5173;&#x7CFB;&#x5E94;&#x7531;&#x53F0;&#x4EBA;&#x6C11;&#x51B3;&#x5B9A;
+        </h4>
+                        </a>
+                </div>
+        </div>
+    </li>
+
+
+            </ul>
+        </div>
+    </div>
+</div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    </main>
+
+
+
+        </div>
+
+
+
+<footer role="contentinfo">
+    <div id="foot" class="foot">
+        <div class="container">
+                <div class="foot-nav collapsed" id="foot-nav">
+                    <div class="menu">
+                        <ul class="items">
+                                <li class="socials block-socials">
+                                        <span class="handler" id="socials-handler">
+                                            &#x5173;&#x6CE8;&#x6211;&#x4EEC;
+                                        </span>
+                                    <div class="inner">
+                                        <ul class="subitems follow">
+                                                <li>
+            <a href="https://twitter.com/voachinese" title="Follow us on X (Twitter)" data-analytics-text="follow_on_twitter" class="btn btn--rounded js-social-btn btn-twitter"  target="_blank" rel="noopener">
+                <span class="ico ico-twitter ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="https://www.youtube.com/voachinese" title="Follow us on Youtube" data-analytics-text="follow_on_youtube" class="btn btn--rounded js-social-btn btn-youtube"  target="_blank" rel="noopener">
+                <span class="ico ico-youtube ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="https://www.facebook.com/voachinese" title="Follow us on Facebook" data-analytics-text="follow_on_facebook" class="btn btn--rounded js-social-btn btn-facebook"  target="_blank" rel="noopener">
+                <span class="ico ico-facebook-alt ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="https://www.instagram.com/voachinese/" title="Follow us on Instagram" data-analytics-text="follow_on_instagram" class="btn btn--rounded js-social-btn btn-instagram"  target="_blank" rel="noopener">
+                <span class="ico ico-instagram ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="https://www.threads.com/@voachinese" title="Follow us on Threads" data-analytics-text="follow_on_threads" class="btn btn--rounded js-social-btn btn-threads"  target="_blank" rel="noopener">
+                <span class="ico ico-threads ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="https://t.me/voachinese" title="Follow us on Telegram" data-analytics-text="follow_on_telegram" class="btn btn--rounded js-social-btn btn-telegram"  target="_blank" rel="noopener">
+                <span class="ico ico-telegram ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="https://www.whatsapp.com/channel/0029VasToscK0IBfPwWJIn3o" title="Follow us on WhatsApp" data-analytics-text="follow_on_whatsapp_desktop" class="btn btn--rounded js-social-btn btn-whatsapp visible-md-inline-block visible-lg-inline-block"  target="_blank" rel="noopener">
+                <span class="ico ico-whatsapp ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="/rssfeeds" title="&#x805A;&#x5408;&#x65B0;&#x95FB;" data-analytics-text="follow_on_rss" class="btn btn--rounded js-social-btn btn-rss" >
+                <span class="ico ico-rss ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="/podcasts" title="&#x64AD;&#x5BA2;" data-analytics-text="follow_on_podcast" class="btn btn--rounded js-social-btn btn-podcast" >
+                <span class="ico ico-podcast ico--rounded"></span>
+            </a>
+    </li>
+
+    <li>
+            <a href="/subscribe.html" title="&#x8BA2;&#x9605;&#x7535;&#x90AE;&#x65B0;&#x95FB;&#x3001;&#x82F1;&#x8BED;&#x5B66;&#x4E60;&#x6559;&#x6750;" data-analytics-text="follow_on_subscribe" class="btn btn--rounded js-social-btn btn-email" >
+                <span class="ico ico-email ico--rounded"></span>
+            </a>
+    </li>
+
+
+                                        </ul>
+                                    </div>
+                                </li>
+
+    <li class="block-primary collapsed collapsible item">
+            <span class="handler">
+                &#x7F51;&#x4E0A;&#x670D;&#x52A1;
+                <span title="close tab" class="ico ico-chevron-up"></span>
+                <span title="open tab" class="ico ico-chevron-down"></span>
+                <span title="&#x6DFB;&#x52A0;" class="ico ico-plus"></span>
+                <span title="&#x6E05;&#x9664;" class="ico ico-minus"></span>
+            </span>
+            <div class="inner">
+                <ul class="subitems">
+                    
+    <li class="subitem">
+        <a class="handler" href="https://www.voachinese.com/subscribe.html" title="&#x8BA2;&#x9605;&#x7535;&#x90AE;&#x65B0;&#x95FB;" >&#x8BA2;&#x9605;&#x7535;&#x90AE;&#x65B0;&#x95FB;</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="https://www.voachinese.com/p/5897.html" title="&#x7F8E;&#x56FD;&#x4E4B;&#x97F3;&#x5E94;&#x7528;&#x7A0B;&#x5E8F;&#x7B80;&#x4ECB;" >&#x7F8E;&#x56FD;&#x4E4B;&#x97F3;&#x5E94;&#x7528;&#x7A0B;&#x5E8F;&#x7B80;&#x4ECB;</a>
+    </li>
+
+                </ul>
+            </div>
+    </li>
+
+    <li class="block-primary collapsed collapsible item">
+            <span class="handler">
+                &#x536B;&#x661F;&#x4FE1;&#x606F;
+                <span title="close tab" class="ico ico-chevron-up"></span>
+                <span title="open tab" class="ico ico-chevron-down"></span>
+                <span title="&#x6DFB;&#x52A0;" class="ico ico-plus"></span>
+                <span title="&#x6E05;&#x9664;" class="ico ico-minus"></span>
+            </span>
+            <div class="inner">
+                <ul class="subitems">
+                    
+    <li class="subitem">
+        <a class="handler" href="/p/5985.html" title="&#x901A;&#x8FC7;&#x536B;&#x661F;&#x6536;&#x770B;VOA&#x536B;&#x89C6;" >&#x901A;&#x8FC7;&#x536B;&#x661F;&#x6536;&#x770B;VOA&#x536B;&#x89C6;</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/p/5869.html" title="&#x5982;&#x4F55;&#x6536;&#x542C;VOA&#x77ED;&#x6CE2;&#x5E7F;&#x64AD;" >&#x5982;&#x4F55;&#x6536;&#x542C;VOA&#x77ED;&#x6CE2;&#x5E7F;&#x64AD;</a>
+    </li>
+
+                </ul>
+            </div>
+    </li>
+
+    <li class="block-secondary collapsed collapsible item">
+            <span class="handler">
+                &#x5176;&#x4ED6;&#x4FE1;&#x606F;
+                <span title="close tab" class="ico ico-chevron-up"></span>
+                <span title="open tab" class="ico ico-chevron-down"></span>
+                <span title="&#x6DFB;&#x52A0;" class="ico ico-plus"></span>
+                <span title="&#x6E05;&#x9664;" class="ico ico-minus"></span>
+            </span>
+            <div class="inner">
+                <ul class="subitems">
+                    
+    <li class="subitem">
+        <a class="handler" href="/p/3862.html" title="&#x5173;&#x4E8E;&#x7F8E;&#x56FD;&#x4E4B;&#x97F3;" >&#x5173;&#x4E8E;&#x7F8E;&#x56FD;&#x4E4B;&#x97F3;</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/p/3848.html" title="&#x8054;&#x7CFB;&#x6211;&#x4EEC;" >&#x8054;&#x7CFB;&#x6211;&#x4EEC;</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="https://www.voachinese.com/p/7969.html" title="VOA&#x2B;" target="_blank" rel="noopener">VOA&#x2B;</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/p/5946.html" title="&#x7F8E;&#x56FD;&#x4E4B;&#x97F3;&#x5BAA;&#x7AE0;" >&#x7F8E;&#x56FD;&#x4E4B;&#x97F3;&#x5BAA;&#x7AE0;</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="/p/3874.html" title="&#x6761;&#x6B3E;&#x53CA;&#x79C1;&#x9690;&#x653F;&#x7B56;" >&#x6761;&#x6B3E;&#x53CA;&#x79C1;&#x9690;&#x653F;&#x7B56;</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="https://www.usagm.gov/" title="&#x7F8E;&#x56FD;&#x5168;&#x7403;&#x5A92;&#x4F53;&#x603B;&#x7F72;" target="_blank" rel="noopener">&#x7F8E;&#x56FD;&#x5168;&#x7403;&#x5A92;&#x4F53;&#x603B;&#x7F72;</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="https://editorials.voa.gov/p/7409.html" title="&#x793E;&#x8BBA;" target="_blank" rel="noopener">&#x793E;&#x8BBA;</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="https://www.voacantonese.com" title="&#x7F8E;&#x570B;&#x4E4B;&#x97F3;&#x7CB5;&#x8A9E;&#x7DB2;" target="_blank" rel="noopener">&#x7F8E;&#x570B;&#x4E4B;&#x97F3;&#x7CB5;&#x8A9E;&#x7DB2;</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="https://www.voanews.com" title="VOA English" >VOA English</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="https://www.voatibetan.com/" title="&#xF56;&#xF7C;&#xF51;&#xF0B;&#xF61;&#xF72;&#xF42;" target="_blank" rel="noopener">&#xF56;&#xF7C;&#xF51;&#xF0B;&#xF61;&#xF72;&#xF42;</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="https://www.insidevoa.com/" title="Media Relations" target="_blank" rel="noopener">Media Relations</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="https://www.voanews.com/section-508" title="Accessibility" target="_blank" rel="noopener">Accessibility</a>
+    </li>
+
+    <li class="subitem">
+        <a class="handler" href="http://www.rfa.org" title="&#x81EA;&#x7531;&#x4E9A;&#x6D32;&#x7F51;&#x7AD9;" target="_blank" rel="noopener">&#x81EA;&#x7531;&#x4E9A;&#x6D32;&#x7F51;&#x7AD9;</a>
+    </li>
+
+                </ul>
+            </div>
+    </li>
+                        </ul>
+                    </div>
+                </div>
+            <div class="foot__item foot__item--copyrights">
+                <p class="copyright"></p>
+                    <p class="time-zone">&#x4E2D;&#x56FD;&#x65F6;&#x95F4;</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    </div>
+</div>
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+
+<script>
+
+if (!isPreviewPage) {
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(function(OneSignal) {
+
+    OneSignal.init({
+
+      appId: "e3128c24-329b-4e11-80d5-19975cb195d9",
+
+    });
+
+  });
+
+}
+
+</script>        <script defer src="/Scripts/responsive/serviceWorkerInstall.js?cb=324"></script>
+    <script type="text/javascript">
+
+        // opera mini - disable ico font
+        if (navigator.userAgent.match(/Opera Mini/i)) {
+            document.getElementsByTagName("body")[0].className += " can-not-ff";
+        }
+
+        // mobile browsers test
+        if (typeof RFE !== 'undefined' && RFE.isMobile) {
+            if (RFE.isMobile.any()) {
+                document.getElementsByTagName("body")[0].className += " is-mobile";
+            }
+            else {
+                document.getElementsByTagName("body")[0].className += " is-not-mobile";
+            }
+        }
+    </script>
+    <script src="/conf.js?x=324" type="text/javascript"></script>
+        <div class="responsive-indicator">
+            <div class="visible-xs-block">XS</div>
+            <div class="visible-sm-block">SM</div>
+            <div class="visible-md-block">MD</div>
+            <div class="visible-lg-block">LG</div>
+        </div>
+        <script type="text/javascript">
+            var bar_data = {
+  "apiId": "1026769",
+  "apiType": "1",
+  "isEmbedded": "0",
+  "culture": "zh-CN",
+  "cookieName": "cmsLoggedIn",
+  "cookieDomain": "www.voachinese.com"
+};
+        </script>
+    
+    
+
+
+
+    <div id="scriptLoaderTarget" style="display:none;contain:strict;"></div>
+
+</body>
+</html>
+
