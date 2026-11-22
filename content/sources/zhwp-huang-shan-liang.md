@@ -8,7 +8,15 @@ last_reviewed: 2026-11-06
 ---
 # zh.wikipedia — 荒山亮 (Ric Jan)
 
-zh.wp 為台灣連結人物的 SSOT 比較器（owner ruling 2026-09-14）。本存檔擷取於 2026-11-06。
+## Archive Statistics
+
+Counts from this file, not a collection census.
+
+- body tokens (whitespace): 327
+- wikilinks: 11
+
+
+zh.wp 為台灣連結人物的 SSOT 比較器（owner ruling 2026-09-14）。本存檔擷取於 2026-11-06，頁面主角見 [[people/ric-jan|Ric Jan（荒山亮）]]。本會收錄動機：其休士頓大學學緣與 [[events/tzuchi-us-event-2026-southern-region-charity-concert|2026-11-07 休士頓慈濟慈善音樂會]]「回休演出」相關，另見 [[organizations/houston-young-artists-concert|HYAC]] 音樂會脈絡。
 
 ## 首段（逐字）
 
@@ -60,7 +68,7 @@ zh.wp 為台灣連結人物的 SSOT 比較器（owner ruling 2026-09-14）。本
 | 2022 | 第27屆亞洲電視大獎 | 〈很久以後〉 | 最佳主題歌曲 | 提名 |
 | 2023 | 第58屆金鐘獎 | 《牛車來去》 | 戲劇原創歌曲獎 | 提名 |
 
-**官方交叉核對**：經濟部新聞處（bamid.gov.tw）第23屆金曲獎得獎名單載「最佳台語男歌手獎：荒山亮／天荒地老／動脈音樂文化傳播有限公司」，發佈日期 2012-06-23 — 與 zh.wp 及 Tzu Chi billing 三方一致。
+**官方交叉核對**：經濟部新聞處（bamid.gov.tw）第23屆金曲獎得獎名單載「最佳台語男歌手獎：荒山亮／天荒地老／動脈音樂文化傳播有限公司」，發佈日期 2012-06-23 — 與 zh.wp 及 Tzu Chi billing 三方一致（Tzu Chi billing 見 [[sources/tzuchi-us|tzuchi.us]]、[[organizations/tzu-chi-usa-southern-region|Tzu Chi USA Southern Region]]）。
 
 ## 「聖石傳說」出入（本人自述 vs zh.wp）
 
@@ -70,3 +78,12 @@ zh.wp 為台灣連結人物的 SSOT 比較器（owner ruling 2026-09-14）。本
 
 - TVBS 專訪：第一次發台語專輯即拿下金曲歌王；唱過約40首布袋戲主題曲；藝名是自取的（「我剛好人在山上，我本名有個亮」）。得獎感言：「我走了十幾年，我走得比較慢，但是我走上來了。」
 - TNN 講演報導：第8屆世界運動會開幕式演唱〈寰宇傳說〉；文化局長王志誠（筆名路寒袖）對談。
+
+## 相關頁面
+
+- [[people/ric-jan|Ric Jan（荒山亮／簡世亮）]] — 本存檔頁面主角
+- [[events/tzuchi-us-event-2026-southern-region-charity-concert|Tzu Chi USA Southern Region Charity Concert 2026（休士頓）]] — 本會收錄動機（回休演出）
+- [[organizations/tzu-chi-usa-southern-region|Tzu Chi USA Southern Region]] — 主辦該音樂會
+- [[sources/tzuchi-us|tzuchi.us]] — billing 來源
+- [[organizations/houston-young-artists-concert|Houston Young Artists' Concert（HYAC）]] — 休士頓音樂會脈絡
+- [[sources/hyac-kana-mimaki|HYAC — Kana Mimaki 董事會自述]] — 同場演出者存檔

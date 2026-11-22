@@ -237,7 +237,7 @@ def format_answer(query, results):
             verification = r.get("verification", "unknown")
             badge = "✅" if verification == "verified" else "⏳"
             lines.append(f"   - Status: {badge} {verification}")
-            lines.append(f"   - Live URL: https://echocanhelp.github.io/wiki-public/{r['path'].replace('.md', '')}")
+            lines.append(f"   - Live URL: https://echopedia.tah-society.org/{r['path'].replace('.md', '')}")
         
         lines.append(f"")
     

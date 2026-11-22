@@ -1,0 +1,14 @@
+{
+ "probe": "zh.wp list=search",
+ "term": "杏林四重唱",
+ "searched": "2026-11-18",
+ "result": {
+  "batchcomplete": "",
+  "query": {
+   "searchinfo": {
+    "totalhits": 0
+   },
+   "search": []
+  }
+ }
+}

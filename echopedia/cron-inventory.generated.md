@@ -18,7 +18,7 @@
 | 20 21 * * * | `hot-subjects-watch` | no_agent | on | ok | `hot-subjects-watch.sh` |
 | 20 21 * * 0 | `skill-diet-weekly` | no_agent | on | ok | `skill-diet-weekly.sh` |
 | 20 22 * * * | `echopedia-evaluate-actions` | no_agent | on | ok | `echopedia-evaluate-actions.py` |
-| 25 0 * * * | `echopedia-ci-heal` | no_agent | on | ok | `echopedia-ci-heal-wrapper.sh` |
+| 25 0 * * * | `echopedia-ci-heal` | no_agent | on | error | `echopedia-ci-heal-wrapper.sh` |
 | 30 */4 * * * | `echopedia-news-digest` | no_agent | on | ok | `echopedia-news-digest.py` |
 | 30 0 * * * | `echopedia-site-design` | no_agent | on | ok | `echopedia-site-design-wrapper.sh` |
 | 30 21 * * * | `echopedia-janitor` | no_agent | on | ok | `echopedia-janitor-wrapper.sh` |
@@ -26,20 +26,20 @@
 | 30 23 * * * | `echopedia-timeline-builder` | no_agent | on | ok | `echopedia-timeline-builder-cron.sh` |
 | 30 8 * * * | `thermal-daily-digest` | no_agent | on | ok | `thermal-daily-digest.py` |
 | 30 8 * * * | `vault-morning-brief` | no_agent | on | ok | `vault-morning-brief.py` |
-| 35 21 * * * | `deepen-r-wake` | no_agent | on | — | `deepen-r-cron.sh` |
+| 35 21 * * * | `deepen-r-wake` | no_agent | on | ok | `deepen-r-cron.sh` |
 | 40 0 * * * | `echopedia-tier1-sweep` | no_agent | on | ok | `echopedia-tier1-sweep.sh` |
 | 40 21 * * * | `echopedia-scout-live` | no_agent | on | ok | `echopedia-scout-live.sh` |
-| 40 22 * * * | `echopedia-generate-cards` | no_agent | on | ok | `echopedia-generate-cards.py` |
+| 40 22 * * * | `echopedia-generate-cards` | no_agent | on | error | `echopedia-generate-cards.py` |
 | 40 3 * * * | `swarm-churn-report` | no_agent | on | ok | `swarm-churn-report-cron.sh` |
 | 45 0 * * * | `cron-audit` | no_agent | on | ok | `cron-audit-combined.sh` |
 | 45 21 * * * | `mint-wave-nightly` | no_agent | on | ok | `mint-wave-nightly.sh` |
 | 45 23 * * * | `pair-miner-growth` | no_agent | on | ok | `pair-miner-cron.sh` |
 | 45 23 * * 0 | `echopedia-source-continuity` | no_agent | on | ok | `echopedia-source-continuity.sh` |
 | 5 21 * * * | `cron-output-rotate` | no_agent | on | ok | `cron-output-rotate.sh` |
-| 5 22 * * * | `a-band-deepen` | no_agent | on | — | `a-band-cron.sh` |
+| 5 22 * * * | `a-band-deepen` | no_agent | on | ok | `a-band-cron.sh` |
 | 50 0 * * * | `memory-audit` | no_agent | on | ok | `memory-audit.sh` |
 | 50 21 * * * | `echopedia-backlink-auditor` | no_agent | on | ok | `echopedia-backlink-auditor-cron.sh` |
-| 50 21 * * * | `taiwandaily-backfill` | no_agent | on | error | `taiwandaily-backfill-cron.sh` |
+| 50 21 * * * | `taiwandaily-backfill` | no_agent | on | ok | `taiwandaily-backfill-cron.sh` |
 | 50 22 * * * | `echopedia-interaction-absorb` | no_agent | on | ok | `echopedia-interaction-absorb.py` |
 | 55 21 * * * | `tahs-linkcheck` | no_agent | on | ok | `tahs-linkcheck-cron.sh` |
 | every 1m | `thermal-heartbeat` | no_agent | on | ok | `thermal-heartbeat.sh` |

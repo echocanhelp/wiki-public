@@ -1,27 +1,91 @@
 {
-  "at": "2026-11-09T07:52:02Z",
+  "at": "2026-11-19T04:14:03Z",
   "suggestions": [
     {
       "kind": "website",
       "host": "taiwandaily.net",
-      "mentions": 412,
-      "score": 1236,
-      "why": "external host on 412 Tier1 pages; not watched",
+      "mentions": 516,
+      "score": 1548,
+      "why": "external host on 516 Tier1 pages; not watched",
       "action": "go Echopedia website https://taiwandaily.net/"
     },
     {
       "kind": "website",
+      "host": "epochtimes.com",
+      "mentions": 175,
+      "score": 525,
+      "why": "external host on 175 Tier1 pages; not watched",
+      "action": "go Echopedia website https://epochtimes.com/"
+    },
+    {
+      "kind": "website",
+      "host": "academicians.sinica.edu.tw",
+      "mentions": 63,
+      "score": 189,
+      "why": "external host on 63 Tier1 pages; not watched",
+      "action": "go Echopedia website https://academicians.sinica.edu.tw/"
+    },
+    {
+      "kind": "website",
+      "host": "doi.org",
+      "mentions": 54,
+      "score": 170,
+      "why": "external host on 54 Tier1 pages; not watched",
+      "action": "go Echopedia website https://doi.org/"
+    },
+    {
+      "kind": "website",
+      "host": "cna.com.tw",
+      "mentions": 38,
+      "score": 114,
+      "why": "external host on 38 Tier1 pages; not watched",
+      "action": "go Echopedia website https://cna.com.tw/"
+    },
+    {
+      "kind": "website",
+      "host": "tcnn.org.tw",
+      "mentions": 33,
+      "score": 99,
+      "why": "external host on 33 Tier1 pages; not watched",
+      "action": "go Echopedia website https://tcnn.org.tw/"
+    },
+    {
+      "kind": "website",
+      "host": "lcmmusa.org",
+      "mentions": 29,
+      "score": 95,
+      "why": "external host on 29 Tier1 pages; not watched",
+      "action": "go Echopedia website https://lcmmusa.org/"
+    },
+    {
+      "kind": "website",
       "host": "tzuchi.us",
-      "mentions": 21,
-      "score": 63,
-      "why": "external host on 21 Tier1 pages; not watched",
+      "mentions": 30,
+      "score": 90,
+      "why": "external host on 30 Tier1 pages; not watched",
       "action": "go Echopedia website https://tzuchi.us/"
+    },
+    {
+      "kind": "website",
+      "host": "orcid.org",
+      "mentions": 25,
+      "score": 83,
+      "why": "external host on 25 Tier1 pages; not watched",
+      "action": "go Echopedia website https://orcid.org/"
+    },
+    {
+      "kind": "website",
+      "host": "wikidata.org",
+      "mentions": 24,
+      "score": 80,
+      "why": "external host on 24 Tier1 pages; not watched",
+      "action": "go Echopedia website https://wikidata.org/"
     }
   ],
-  "candidates_considered": 67,
+  "candidates_considered": 659,
   "pools": {
-    "website_like": 51,
+    "website_like": 630,
     "densify": 0,
-    "total": 67
+    "total": 659
   }
 }

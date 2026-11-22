@@ -1,0 +1,13 @@
+{
+  "id": "taiwandaily-net",
+  "urls": {
+    "https://www.taiwandaily.net/": {
+      "hash": "98d7c985d95ff093408dd7fa43c5fa1e",
+      "len": 188530,
+      "code": 200,
+      "baseline": true
+    }
+  },
+  "last_poll": "2026-11-19T04:40:15Z",
+  "baseline_at": "2026-11-19T04:40:15Z"
+}

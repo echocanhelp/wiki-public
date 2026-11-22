@@ -9,6 +9,14 @@ last_reviewed: 2026-11-06
 ---
 # 華夏時報 2025-09-30 — 休斯頓參演全美二戰勝利80周年《黃河大合唱》
 
+## Archive Statistics
+
+Counts from this file, not a collection census.
+
+- body tokens (whitespace): 20
+- wikilinks: 0
+
+
 Secondary press（僑媒），供稿為活動參與方。逐字要點（帶日期）：
 
 - **2025-09-21**，紀念二戰勝利80周年，《黃河大合唱》在美國**亞特蘭大交響音樂廳**上演。休斯頓聯合合唱團與亞特蘭大、紐約/新澤西、華盛頓DC 華人合唱團及其它族裔合唱團近300名歌者，攜手亞特蘭大國際交響樂團。

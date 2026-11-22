@@ -12,7 +12,7 @@ from pathlib import Path
 VAULT = Path("/home/leedt/echo-system")
 PEOPLE = VAULT / "content" / "people"
 ORGS = VAULT / "content" / "organizations"
-PUBLIC = "https://echocanhelp.github.io/wiki-public"
+PUBLIC = "https://echopedia.tah-society.org"
 MAX_ONE = 900
 ALIAS_PATH = Path(__file__).with_name("ee_card_aliases.json")
 

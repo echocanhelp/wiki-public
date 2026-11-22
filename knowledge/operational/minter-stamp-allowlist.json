@@ -1,0 +1,68 @@
+{
+  "_comment": "SWARM-GUARD-6 (t_b5d509c4) per-minter allowlist for minter stamps. minter_version = minter_build_id() of the owning script file (mtime+size+md5[:8]); a stale/rewound build can never claim a newer stamp. skill_id must be listed per-class (or in class default_skills) or mint_card/mint_via REFUSE the mint (reason='skill-allowlist:<class>') — fail closed, so a minter can never smuggle an unreviewed preload. The skill is NOT auto-forced onto the card: preload enablement is the SEPARATE measured decision (see preload_measure).",
+  "_owner": "SWARM-GUARD-6 t_b5d509c4 2026-11-15",
+  "minting_job_id_default": "unknown",
+  "preload_measure": {
+    "rule": "Do NOT enable heavier skill preload in the same change as the stamps. Before flipping any class default_skills into forced --skill preload, run ~/.hermes/scripts/preload_measure.py <CLASS> and compare median prompt tokens NULL-skills vs one forced skill (extra context is a plausible iteration-death cause).",
+    "enabled": false,
+    "measurements": []
+  },
+  "classes": {
+    "TAIWANDAILY-ABSORB": {
+      "minter": "~/echo-system/scripts/taiwandaily-domain-build.py",
+      "default_skills": ["taiwandaily-month-absorb"]
+    },
+    "DEEPEN-X": {
+      "minter": "~/echo-system/scripts/deepen-x-build.py",
+      "default_skills": []
+    },
+    "DEEPEN-R": {
+      "minter": "~/echo-system/scripts/deepen-r-build.py",
+      "default_skills": []
+    },
+    "TJJ-A": {
+      "minter": "~/echo-system/scripts/tjj-card-build.py",
+      "default_skills": []
+    },
+    "STORY-PASS": {
+      "minter": "~/echo-system/scripts/story-pass-build.py",
+      "default_skills": []
+    },
+    "WEB-PASS": {
+      "minter": "~/echo-system/scripts/web-pass-build.py",
+      "default_skills": ["echopedia-page-deepening"]
+    },
+    "NEEDS-TIER": {
+      "minter": "~/.hermes/scripts/echopedia-news-digest.py",
+      "default_skills": ["needs-tier-card"]
+    },
+    "NEWS-DEEPEN": {
+      "minter": "~/.hermes/scripts/echopedia-news-digest.py",
+      "default_skills": []
+    },
+    "HOT-SUBJECT": {
+      "minter": "~/.hermes/scripts/hot-subjects-watch.py",
+      "default_skills": []
+    },
+    "FLOOR-ANCHOR": {
+      "minter": "~/.hermes/scripts/mint-wave.py",
+      "default_skills": ["echopedia-ingestion-protocol"]
+    },
+    "STRUCT-FILL": {
+      "minter": "~/.hermes/scripts/mint-wave.py",
+      "default_skills": ["echopedia-ingestion-protocol"]
+    },
+    "generate-cards": {
+      "minter": "~/.hermes/scripts/echopedia-generate-cards.py",
+      "default_skills": []
+    },
+    "FRONTIER": {
+      "minter": "~/echo-system/scripts/frontier-build.py",
+      "default_skills": []
+    },
+    "RESLICE": {
+      "minter": "~/.hermes/scripts/swarm-churn-sweep.py",
+      "default_skills": []
+    }
+  }
+}

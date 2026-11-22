@@ -10933,6 +10933,7 @@ Notable quotes and mentions of **陳破空** in Taiwan Justice articles:
 
 ## From the record
 
+- 2024-02-29 — 「陳破空 音樂教室」列為 TJJ「影音」區常設節目區塊，「有話好說」為同區常設節目分類且該頁即其標籤頁 Page 1/191（Featured posts 排序 via filter_by=featured，列表載 有話好說 20240229 立法院召委選舉 白挺藍!三黨各有盤算?（February 29, 2024）等各篇），本人並列名於該頁 frontmatter authors 清單，見於該頁之站內導覽（[[articles/taiwanjustice-net/2024/20240301064924_root_e426f646b147d37b.md|TJJ, 2024-03-01 快照]]）。
 - **2024-07-03** — 《陳破空縱論天下》於美洲台灣日報熱門影音刊出當集《美首次遣返走線中國人》（0703）；標題存證，內文無逐字稿 — [美洲台灣日報](https://taiwandaily.net/熱門影音/26080/) (reported)
 - **2016-11-11** 撰寫專欄《特朗普強勢上臺，中美關係面臨大考》，論特朗普意外勝選代表美國在反「政治正確」氛圍下轉向「美國主義」與自我主義，並梳理全球政治強人接連執政的浪潮；本報 2016-11-11 刊出 — [[articles/taiwanjustice-net/2021/20210126000752_2016_11_11_特朗普強勢上臺_中美關係面臨大考-_-陳破空-11-11-2016_381632e711dca163|特朗普強勢上臺，中美關係面臨大考]]
 - **2017-10-29** 自由亞洲電台刊出專欄《習近平成功集權，秘密何在？》，陳破空論證習近平在十九大後以「選擇性反腐」為捷徑完成集權，「習家軍」佔政治局約六成；本報 2017-11-05 轉載存檔 — [[articles/taiwanjustice-net/2017/20171107225302_2017_11_05_習近平成功集權_秘密何在_-_-陳破空-2017-11-05_969b0395c6bde97b|習近平成功集權，秘密何在？]]
@@ -11312,6 +11313,7 @@ Notable quotes and mentions of **陳破空** in Taiwan Justice articles:
 - **2025-03-03** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》0303 集，標題《防政變 兩會軍方代表大幅減少》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；兩會軍方代表為欄內被報導人物，不代筆添條 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/65331/)（存檔 `knowledge/web-archives/taiwandaily-net-65331-65331.md`）
 - **2025-03-11** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》0311 集，標題《某常委出事 從主席台消失》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；「某常委」為欄內被報導人物，標題主張屬節目論述、非本頁斷言，不代筆添條；與本頁 2025-03-10《兩會看點：習近平遭降級待遇》（66587）為相鄰兩集之不同記錄，未合併 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/66775/)（存檔 `knowledge/web-archives/taiwandaily-net-66775-66775.md`）
 - **2025-03-04** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》0304 集，標題《習已失人事大權》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；習近平為欄內被報導人物，不代筆添條 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/65532/)（存檔 `knowledge/web-archives/taiwandaily-net-65532-65532.md`）
+- **2025-07-05** 美洲台灣日報「熱門影音／政論影音」頁刊出《陳破空縱論天下》0705 集，標題《傳胡錦濤病危 北京戒嚴》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；胡錦濤為欄內被報導人物，「傳胡錦濤病危」「北京戒嚴」以傳聞語氣呈現、屬節目論述非本頁斷言，不代筆添條；與本頁 2025-07-02《團派又有活動 石泰峰亮相》（0702 集）及同日《雅琴看世界》0705 集（掛於 王崑義 頁）為不同節目／不同集之不同記錄，未合併；card 候選頁 chi-shih-huang／james-liang／juliar-wang／julie-kuo／li-xiaofeng 全文從未出現，prep-tag hit 為假 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/86895/)（存檔 `knowledge/web-archives/taiwandaily-net-86895-86895.md`）
 - **2025-07-02** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》0702 集，標題《團派又有活動 石泰峰亮相》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；石泰峰為欄內被報導人物，不代筆添條 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/86434/)（存檔 `knowledge/web-archives/taiwandaily-net-86434-86434.md`）
 - **2022-10-14** 《陳破空縱論天下》1014 存檔頁刊出：記「北京驚現巨幅反習標語！終於有人是男兒」「栗戰書要與李克強同歸於盡？」與「國際輿論：若習近平連任，中國經濟潰敗」；記七中全會線——「七中全會閉幕，習近平政變成功？但王滬寧遭清君側」「新常委又傳出兩個新版本」「党媒驚現李鵬！公報又是作文比賽，指鹿為馬，漂白敗行劣跡」「七中全會幕後：修改黨章爆惡鬥！王滬寧圖謀篡改關鍵一條，遭反習派抵制」「極不正常！新聞聯播不報七中全會。習近平只想留任軍委主席？」；記「玄機！王岐山取代習近平？這個行程原本屬於習」「習近平極度迷信，封殺殯葬館和網紅會」「軍機墜毀江西，有人叛逃？」；記「香港有變！習近平在七中全會鬥敗？」「彭麗媛忽也搞賀詞！要當江青？」與「臺灣雙十好看，壓倒中共十一」；記俄烏線「普京抓狂報復，對基輔狂轟濫炸」「美國決向烏克蘭提供先進防空系統」與「150架朝鮮戰機升空？都是中共假扮」之說；並記「高级黑？党媒特意提醒：習近平大搞形式主義？」——本條為本頁該集首條帶連結之記錄（此前僅有未連結之時間軸行 2022-10-14 📰 陳破空縱論天下 1014）；經逐字比對，本檔案內文與本頁已連結之任何存檔檔案皆不相同，為本切片之新增記錄（sourced：本人節目存檔頁，post_date 2022-10-14；本存檔路徑位於 /2025/，archive_ts 2025-04-17） — [[articles/taiwanjustice-net/2025/20250417203827_陳破空縱論天下-1014_bd3f6ec55494e0ed|縱論天下 1014（存檔頁）]]
 - **2026-02-07** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》0207 集，標題《政治局委員失踪？曾內定接班人》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；失踪政治局委員為欄內被報導人物，不代筆添條 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/121203/)（存檔 `knowledge/web-archives/taiwandaily-net-121203-121203.md`）
@@ -11356,9 +11358,12 @@ Notable quotes and mentions of **陳破空** in Taiwan Justice articles:
 - **2025-06-13** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》0613 集，標題《習蔡報復張又俠》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；習近平、蔡英文與張又俠為欄內被報導人物，「報復」為節目論述非本頁斷言，不代筆添條；與本頁 2025-06-12《胡錦濤再度特別現身》（0612 集）為相鄰兩集之不同記錄，未合併 — [美洲台灣日報](https://taiwandaily.net/熱門影音/82976/)（存檔 `knowledge/web-archives/taiwandaily-net-82976-82976.md`）
 - **2025-06-14** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》0614 集，標題《參與者爆李克強遭謀害全過程》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；李克強與「遭謀害」為欄內被報導人物及節目論述（傳聞性質），非本頁斷言，不代筆添條；與本頁 2025-06-13《習蔡報復張又俠》（0613 集）為相鄰兩集之不同記錄，未合併；本頁 Story 段 2023-11《李克強突然離世，悼念潮引人沉思》專欄為不同記錄，未合併 — [美洲台灣日報](https://taiwandaily.net/熱門影音/83085/)（存檔 `knowledge/web-archives/taiwandaily-net-83085-83085.md`）
 - **2025-02-03** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》0203 集，標題《準備接班？王滬寧舊文忽然瘋傳》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；王滬寧與「準備接班」為欄內被報導人物及節目論述，非本頁斷言，不代筆添條；與本頁 2025-02-01（0201 集）及 2025-02-02（0202 集）為相鄰各集之不同記錄，未合併 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/60632/)（存檔 `knowledge/web-archives/taiwandaily-net-60632-60632.md`）
+- **2024-05-09** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》0509 集，標題《有内鬼？習彭雙遭設計》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；「有内鬼」「習彭雙遭設計」為欄內被報導事件及節目論述，非本頁斷言，不代筆添條；與本頁 2024-05-23／0530 集為不同集之不同記錄，未合併 — [美洲台灣日報](https://taiwandaily.net/熱門影音/17999/)（存檔 `knowledge/web-archives/taiwandaily-net-17999-17999.md`）
 - **2026-02-14** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》0214 集，標題《北京突然槍炮聲大作》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；「北京」「槍炮聲大作」為欄內被報導事件及節目論述，非本頁斷言，不代筆添條；與本頁 2026-02-12《習近平逼退王小洪》（0212 集）為不同集之不同記錄，未合併 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/122323/)（存檔 `knowledge/web-archives/taiwandaily-net-122323-122323.md`）
 - **2026-02-15** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》0215 集，標題《春節團拜氣氛詭異 習尷尬撐場》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；「春節團拜氣氛詭異」「習尷尬撐場」為欄內被報導事件及節目論述，非本頁斷言，習近平為欄內被報導人物，不代筆添條；與本頁 2026-02-14《北京突然槍炮聲大作》（0214 集）為相鄰兩集之不同記錄，未合併 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/122503/)（存檔 `knowledge/web-archives/taiwandaily-net-122503-122503.md`）
+- **2026-02-22** 美洲台灣日報「熱門影音／政論影音」頁刊出《有話鏡來講》0222 集，標題《柯昌林 "敗票"三角》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；柯昌林為欄內被報導人物（vault 無專屬頁，「敗票」屬節目標題主張，非本頁斷言），不代筆添條；《有話鏡來講》為鏡報政論節目、非陳破空自有節目，本條係站方語料目錄級記錄，掛於本頁依同節目先例 65614（本頁時間軸已收錄該節目條目 2025-06-17、2025-07-12 及「Tag: 有話鏡來講」2025-09-30，足證該節目列於本頁語料範圍）；與本頁《陳破空縱論天下》各集為不同節目之不同記錄，未合併；card 候選頁 chuang-shien-lu 呂泉生 全文從未出現，prep-tag hit 為假 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/123458/)（存檔 `knowledge/web-archives/taiwandaily-net-123458-123458.md`）
 - **2025-11-27** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》1127 集，標題《王滬寧疑似病重》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；王滬寧為欄內被報導人物，「疑似病重」為節目論述非本頁斷言，不代筆添條 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/110447/)（存檔 `knowledge/web-archives/taiwandaily-net-110447-110447.md`）
+- **2025-11-26** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》1126 集，標題《共軍要求清除毒源！暗指誰？》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；「共軍要求清除毒源」「暗指誰？」為節目論述及欄內被報導事件，非本頁斷言，不代筆添條；與本頁 2025-11-27《王滬寧疑似病重》（1127 集）為相鄰兩集之不同記錄，未合併 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/110244/)（存檔 `knowledge/web-archives/taiwandaily-net-110244-110244.md`）
 - **2025-11-27** 美洲台灣日報「熱門影音」頁刊出《天方夜談》1127 集，標題《曼達尼崛起真相 美國被迫左轉》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；《天方夜談》非本人節目、主持人未具名，僅作同日熱門影音欄目存檔記錄；曼達尼（Mamdani）為欄內被報導人物，「美國被迫左轉」為節目論述非本頁斷言，不代筆添條 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/110450/)（存檔 `knowledge/web-archives/taiwandaily-net-110450-110450.md`）
 - 2023-09-24 — 「陳破空專欄」列為 TJJ「專欄」區常設專欄，本人為該頁主體，該頁為「陳破空專欄」分類頁 Page 1/57（Random 排序，列表載 政局驚人動盪，習政權到底出了什麼事？ ◎陳破空（September 24, 2023）、陳破空專欄（October 15, 2021）、陳破空縱論天下 0523（May 23, 2024）等各篇），本人並列名於該頁 frontmatter authors 清單（[[articles/taiwanjustice-net/2025/20250213222039_category_column_po-kong-chen_b03b6351fcbcec67|TJJ, 2025-02-13 快照]]）。
 - 2015-05-08 — 「陳破空專欄」列為 TJJ「專欄」區常設專欄，本人為該標籤之主題人物，且本人列名於該頁 frontmatter authors 清單，該頁為「Tag: 陳破空」標籤頁 Page 46/49（Page 46 of 49，列表載 精闢專論 新唐人電視台/熱點互動 -不受歡迎的中國人，根子何在？◎陳破空等（May 8, 2015）、陳破空專欄 模擬情節- 中日開戰：鏖戰釣魚島 ◎ 陳破空（May 2, 2015）、陳破空專欄 畢福劍事件的關鍵詞 ◎ 陳破空 04-15-2015（April 15, 2015） 等各篇），見於該頁之站內導覽（[[articles/taiwanjustice-net/2022/20220927200808_tag_陳破空_page_46_6a66c4763ff1d0fc|TJJ, 2022-09-27 快照]]）。
@@ -11375,9 +11380,19 @@ Notable quotes and mentions of **陳破空** in Taiwan Justice articles:
 
 - **2025-03-12** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》0312 集，標題《習病情藏不住》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；「習病情藏不住」為節目論述、非本頁斷言，習近平為欄內被報導人物，不代筆添條；與本頁 2025-03-11《某常委出事 從主席台消失》（0311 集）及 2025-03-10《兩會看點：習近平遭降級待遇》（0310 集）為相鄰各集之不同記錄，未合併 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/66958/)（存檔 `knowledge/web-archives/taiwandaily-net-66958-66958.md`）
 - **2025-09-08** 美洲台灣日報「熱門影音」頁刊出《江峰漫談》0908 集，標題《美軍「滅國級」陣仗圍剿馬杜羅，目標為何是習近平？》——本頁僅存標題記錄（《江峰漫談》為站方標籤頁收錄於本頁語料之節目，主持人江峰無專屬頁，hub precedent 202511-s1/s2、202602-s9 121091、202502-s8 64644），正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；馬杜羅、習近平為欄內被報導人物，「滅國級」「目標為何是習近平」為節目論述非本頁斷言，不代筆添條 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/98017/)（存檔 `knowledge/web-archives/taiwandaily-net-98017-98017.md`）
+- **2026-02-27**（報導日；存檔頁 front-matter Published Time 2026-02-27，與標題集數 0227 並存未合併）美洲台灣日報「熱門影音／政論影音」頁刊出《江峰漫談》0227 集，標題《決戰時刻！美軍23年最強戰爭集結》——本頁僅存標題記錄（《江峰漫談》為站方標籤頁收錄於本頁語料之節目，主持人江峰無專屬頁，hub precedent 202511-s1/s2、202602-s9 121091、202502-s8 64644、本頁 2025-02-27 64644／2025-09-08 98017／2025-09-15 99243 條），正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；「美軍23年最強戰爭集結」「決戰時刻」為欄內被報導事件及節目論述、非本頁斷言，殼內無具名台美人，不代筆添條；card 候選頁 martha-hsu／tah-p-e8a9f7b57c 全文從未出現 — prep-tag hit 為假 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/124394/)（存檔 `knowledge/web-archives/taiwandaily-net-124394-124394.md`）
 - **2025-02-06** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》0206 集，標題《鳳凰網洩密：電詐園區是中共境外特區》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；「鳳凰網洩密」「電詐園區」「中共境外特區」為欄內被報導事件及節目論述，非本頁斷言，不代筆添條；與本頁 2025-02-01（0201 集）、2025-02-02（0202 集）、2025-02-03（0203 集）及 2025-02-04（0204 集）為相鄰各集之不同記錄，未合併 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/61164/)（存檔 `knowledge/web-archives/taiwandaily-net-61164-61164.md`）
 - **2025-02-07** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》0207 集，標題《中國疫情嚴重 遠超外界想象》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；「中國疫情嚴重」「遠超外界想象」為欄內被報導事件及節目論述，非本頁斷言，不代筆添條；與本頁 2025-02-06《鳳凰網洩密：電詐園區是中共境外特區》（0206 集）為相鄰兩集之不同記錄，未合併 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/61337/)（存檔 `knowledge/web-archives/taiwandaily-net-61337-61337.md`）
+- **2025-10-17** 美洲台灣日報「熱門影音」頁刊出《新台灣加油》1017 集，標題《國昌索資央廣"三十多疊資料" 王義川爆"通通是原稿"》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；黃國昌與王義川為欄內被報導人物，「通通是原稿」屬節目論述非本頁斷言，不代筆添條 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/104171/)（存檔 `knowledge/web-archives/taiwandaily-net-104171-104171.md`）
+- **2025-10-18** 美洲台灣日報「熱門影音」頁刊出《頭家來開講》1018 集，標題《駭客替黃國昌"揭弊"要自費》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；《頭家來開講》非本人節目、主持人未具名，僅作同日熱門影音欄目存檔記錄；黃國昌為欄內被報導人物，「揭弊」加引號屬節目框定，不代筆添條 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/104225/)（存檔 `knowledge/web-archives/taiwandaily-net-104225-104225.md`）
+- **2025-10-18** 美洲台灣日報「熱門影音」頁刊出《大宇拍案驚奇》1018 集，標題《張又俠已查辦37人 習已移交部分權力》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；《大宇拍案驚奇》非本人節目，張又俠與習近平為欄內被報導人物，「查辦37人」「移交部分權力」為節目論述非本頁斷言，不代筆添條；頁面 Published Time 2025-10-19 與標題集數 1018 並存，照存檔記錄，未合併日期 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/104305/)（存檔 `knowledge/web-archives/taiwandaily-net-104305-104305.md`）
+- **2025-10-19** 美洲台灣日報「熱門影音」頁刊出《非童凡響》1019 集，標題《川普笑看No Kings集會》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；《非童凡響》非本人節目、主持人未具名，僅作同日熱門影音欄目存檔記錄；川普與 No Kings 集會為欄內被報導對象，「笑看」為節目論述非本頁斷言，不代筆添條 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/104414/)（存檔 `knowledge/web-archives/taiwandaily-net-104414-104414.md`）
+- **2025-10-19** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》1019 集，標題《秦剛突然現身？四中前夕猛料》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；秦剛為欄內被報導人物，「突然現身？」以問句呈現、「四中前夕猛料」為節目論述非本頁斷言，不代筆添條；與本頁 2023-07-23《滿世界都在議論秦剛，習近平如何善後？》專欄及 2025-10-16/17 1015/1016 集為不同記錄，未合併 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/104418/)（存檔 `knowledge/web-archives/taiwandaily-net-104418-104418.md`）
 - **2025-02-08** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》0208 集，標題《習近平化妝出場 病得不輕》——本頁僅存標題記錄（frontmatter published 2025-02-09T01:20:52+00:00，集數以標題 0208 為準），正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；「習近平化妝出場」「病得不輕」為節目論述、非本頁斷言，習近平為欄內被報導人物，不代筆添條；與本頁 2025-02-07（0207 集）為相鄰兩集之不同記錄，未合併 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/61492/)（存檔 `knowledge/web-archives/taiwandaily-net-61492-61492.md`）
+- **2025-09-15** 美洲台灣日報「熱門影音」頁刊出《江峰漫談》0915 集，標題《TikTok生死48小時 馬德里驚天內幕》——本頁僅存標題記錄（《江峰漫談》為站方標籤頁收錄於本頁語料之節目，主持人江峰無專屬頁，hub precedent 202511-s1/s2、202602-s9 121091、202502-s8 64644、本頁 2025-09-08 98017 條），正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；TikTok、馬德里談判為欄內被報導事件，「生死48小時」「驚天內幕」為節目論述非本頁斷言，不代筆添條；頁面 Published Time 2025-09-16 與標題集數 0915 並存，照存檔記錄，未合併日期 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/99243/)（存檔 `knowledge/web-archives/taiwandaily-net-99243-99243.md`）
+- **2026-02-02**（報導日；存檔頁 front-matter published 2026-02-02T19:44:06-08:00，與標題集數 0202 並存未合併）美洲台灣日報「熱門影音／政論影音」頁刊出《江峰漫談》0202 集，標題《中南海九日驚變 習近平被迫「單膝下跪」》——本頁僅存標題記錄（《江峰漫談》為站方標籤頁收錄於本頁語料之節目，主持人江峰無專屬頁，hub precedent 202511-s1/s2、202602-s9 121091、202502-s8 64644、本頁 2025-02-27 64644／2025-09-08 98017／2025-09-15 99243／2026-02-27 124394 條），正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；「中南海九日驚變」「習近平被迫『單膝下跪』」為欄內被報導事件及節目論述、非本頁斷言，殼內無具名台美人，不代筆添條；本切片 card 候選頁全無 — prep-tag nohit 確認；同檔側欄 沈棟／老謝開講／筱君台灣PLUS／TVBS民調沈伯洋／世華陳玲華 均為 相關新聞/相關分類 導航語料 ≠ identity（202507-s18 判例） — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/120355/)（存檔 `knowledge/web-archives/taiwandaily-net-120355-120355.md`）
+- **2025-12-05**（報導日；存檔頁 front-matter published 2025-12-05，與標題集數 1206 並存未合併）美洲台灣日報「熱門影音／政論影音」頁刊出《江峰漫談》1206 集，標題《馬克宏訪華 習近平"下毒"》——本頁僅存標題記錄（《江峰漫談》為站方標籤頁收錄於本頁語料之節目，主持人江峰無專屬頁，hub precedent 202511-s1/s2、202602-s9 121091、202502-s8 64644、本頁 2025-02-27 64644／2025-09-08 98017／2025-09-15 99243／2026-02-27 124394／2026-02-02 120355 條），正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；馬克宏訪華、習近平為欄內被報導事件及人物，「下毒」為節目論述非本頁斷言，殼內無具名台美人，不代筆添條；本切片 card 候選頁 黃及時／梁政吉／謝綉緞／郭瑞筠／李筱峰／劉文義 全文從未出現 — prep-tag collision 為假；同檔側欄 沈棟／老謝開講／筱君台灣PLUS／TVBS民調沈伯洋／世華陳玲華 均為 相關新聞/相關分類 導航語料 ≠ identity（202507-s18 判例） — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/111724/)（存檔 `knowledge/web-archives/taiwandaily-net-111724-111724.md`）
+- **2025-01-17**（報導日；存檔頁 front-matter published 2025-01-17，與標題集數 0117 並存未合併）美洲台灣日報「熱門影音／政論影音」頁刊出《江峰漫談》0117 集，標題《川普習近平通話 中美版本不同》——本頁僅存標題記錄（《江峰漫談》為站方標籤頁收錄於本頁語料之節目，主持人江峰無專屬頁，hub precedent 202511-s1/s2、202602-s9 121091、202502-s8 64644、本頁 2025-02-27 64644／2025-09-08 98017／2025-09-15 99243／2026-02-02 120355／2025-12-05 111724 條），正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；川普、習近平為欄內被報導人物，「中美版本不同」為節目論述非本頁斷言，不代筆添條；殼內無具名台美人，card 候選頁 rue-lin-hung 洪瑞麟／tah-p-400b8fbb05 施彥伃 全文從未出現 — prep-tag hit 為假 — [美洲台灣日報](https://taiwandaily.net/熱門影音/57883/)（存檔 `knowledge/web-archives/taiwandaily-net-57883-57883.md`）
 - **2025-02-09** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》0209 集，標題《習近平怕了 下令軍管互聯網》——本頁僅存標題記錄（frontmatter published 2025-02-09T22:40:03+00:00，集數以標題 0209 為準），正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；「習近平怕了」「下令軍管互聯網」為節目論述、非本頁斷言，習近平為欄內被報導人物，不代筆添條；與本頁 2025-02-08（0208 集）為相鄰兩集之不同記錄，未合併 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/61601/)（存檔 `knowledge/web-archives/taiwandaily-net-61601-61601.md`）
 <!-- DEEPEN-X10182100-1: 2026-10-18 — absorbed the 4 listed TJJ files as dated facts under From the record, one wikilink each: 縱論天下影音專輯 17 存檔頁 (post_date 2020-09-25) / 縱論天下 1015 -2 存檔頁 (post_date 2023-10-15) / 縱論天下 0924 -2 存檔頁 (post_date 2023-09-24) / 縱論天下 1014 存檔頁 (post_date 2022-10-14). All 4 files carry authors: [[people/chen-po-kong||陳破空]] in frontmatter — identity confirmed, not surname-only hits. None of the 4 hashes appeared on the page before this pass (grep -c = 0 each). Dedup check per the same-article-archived-twice rule: whitespace-normalised sha1 of all 4 bodies vs the 285 distinct article files linked on the page — 影音專輯 17 (26ae4aedee03) and 1014 (b6a76500157c) match none, genuinely new records of this slice, each previously existing only as an unlinked timeline line (2020-09-25 📰 陳破空縱論天下影音專輯 / 2022-10-14 📰 陳破空縱論天下 1014); 1015 (1441ba37ba9e) is byte-identical to root_0fb03dfdda634ede already linked under ## Works, and 0924 (f075b6dc3000) is byte-identical to root_a8f73dfb3f58df2a already linked under From the record (2023-09-24 bullet) — same broadcasts, extra /2025/ wayback -2 second-page copies (cdx_class article_candidate vs home); all kept and each linked back, no date merged, following the 0831/1008/0222/0319/0123/0530/0120/0827/0907/0208/0411/1019/0214/1129/1106/1108/1122 存檔頁 precedent on this page. The 0924 -2 file is the 2023-09-24 episode, distinct from the already-linked 2021-09-24 same-title 0924 episode (ab9287f872f379c3) — different years, not conflated. All 4 archive paths sit under /2025/ (wayback crawl, archive_ts Mar–Apr 2025) while post_dates read 2020/2022/2023 — recorded with post_date. No dates/ages merged; no conflicts to HOLD. Remaining 119 unlinked back-references wait for later slices. -->
 - 2021-05-18 — 「陳破空專欄」列為 TJJ「專欄」區常設專欄，本人並列名於該頁 frontmatter authors 清單（16 人：鄭炳全、李堅、楊遠薰、唐培理、獨傲村夫、李筱峰、金恆煒、廖清山、何清漣、黃帝穎、楊子清、范姜提昂、林保華、陳昭南、陳茂雄、陳破空），該頁為「抗疫中藥「清冠一號」」標籤頁（Home > Tags > 抗疫中藥「清冠一號」，列表唯一條目 抗疫中藥「清冠一號」獲衛福部緊急授權，最快本週有藥可醫COVID-19（May 18, 2021）），見於該頁之站內導覽（[[articles/taiwanjustice-net/2021/20210608105646_tag_抗疫中藥_清冠一號_bcab9cfabcc3919d|TJJ, 2021-06-08 快照]]）。
@@ -11393,6 +11408,158 @@ Notable quotes and mentions of **陳破空** in Taiwan Justice articles:
 - 2022-01-14 — 「陳破空專欄」列為 TJJ「專欄」區常設專欄，本人為該標籤之主題人物（列表唯一條目為本人專欄《共同富裕就是共同貧窮》），本人並列名於該頁 frontmatter authors 清單（16 人：鄭炳全、李堅、楊遠薰、唐培理、獨傲村夫、李筱峰、金恆煒、廖清山、何清漣、黃帝穎、楊子清、范姜提昂、林保華、陳昭南、陳茂雄、陳破空），該頁為烏克蘭遭大規模網攻標籤頁（Home > Tags > 烏克蘭遭大規模網攻，列表唯一條目 烏克蘭遭大規模網攻，俄羅斯部署更多部隊演習，post_date 2022-01-14，Wayback 20220521151924），見於該頁之站內導覽（[[articles/taiwanjustice-net/2022/20220521151924_tag_烏克蘭遭大規模網攻_0d87d78602e8d7d8.md|TJJ, 2022-05-21 快照]）。
 - 2021-11-26 — 2013-11-02 — 「陳破空專欄」列為 TJJ「專欄」區常設專欄，本人為該頁標題人物（《假如中美開戰》新書發布會報導），本人並列名於該頁 frontmatter authors 清單（16 人：鄭炳全、李堅、楊遠薰、唐培理、獨傲村夫、李筱峰、金恆煒、廖清山、何清漣、黃帝穎、楊子清、范姜提昂、林保華、陳昭南、陳茂雄、陳破空），該頁為陳破空《假如中美開戰》新書發布會在台北舉行 文章頁（Home > 陳破空《假如中美開戰》新書發布會在台北舉行 ◎台灣公義網11-02-2013，標題「Taiwan 201311 147陳破空《假如中美開戰》新書發布會 (4)」，post_date 2021-11-26，Wayback 20220517042128，列表載 陳破空《假如中美開戰》新書發布會在台北舉行 ◎台灣公義網11-02-2013），見於該頁之站內導覽（[[articles/taiwanjustice-net/2022/20220517042128_tag_美股道瓊跌逾900點_243dfe56c0e884df|TJJ, 2022-05-17 快照]]）。
 - 2023-05-02 — 「陳破空專欄」列為 TJJ「專欄」區常設專欄，本人為該標籤之主題人物（列表唯一條目為本人專欄《看懂西安悲劇，只須讀懂西安人的三句話》），本人並列名於該頁 frontmatter authors 清單（16 人：鄭炳全、李堅、楊遠薰、唐培理、獨傲村夫、李筱峰、金恆煒、廖清山、何清漣、黃帝穎、楊子清、范姜提昂、林保華、陳昭南、陳茂雄、陳破空），，該頁為「Tag: 康達（Daniel Kritenbrink）」標籤頁（Home > Tags > 康達（Daniel Kritenbrink），列表唯一條目 美亞太助卿：台海和平穩定全球關切 非中國內政（May 2, 2023）），post_date 2023-05-02，Wayback 20250804133008），見於該頁之站內導覽（[[articles/taiwanjustice-net/2025/20250804133008_tag_康達_daniel-kritenbrink_fae828e2b9cbf129|TJJ, 2023-05-02 快照]]）。
+
+
+- **2025-09-20** 美洲台灣日報「熱門影音／政論影音」頁刊出《陳破空縱論天下》0920 集，標題《川習通話兩小時 各自收獲什麼？》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；存檔 front-matter Published Time 2025-09-20 與標題集數 0920 相符；「川習通話兩小時」「各自收獲什麼？」屬節目論述及欄內被報導人物（川普／習近平，問句式標題），非本頁斷言，不代筆添條；與本頁 2025-09-11《學中共封網惹 尼泊爾爆大起義》（0910 集，存檔 98375）為不同集之不同記錄，未合併；identity HIT——本人自有節目，經頁 title/Story/Works 自證 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/99929/)（存檔 `knowledge/web-archives/taiwandaily-net-99929-99929.md`；備註：本檔 1,424 B title-only 殼；card 候選頁 jennifer-an 於本檔 0× 出現，prep-tag hit 為假；側欄 沈棟／老謝開講／筱君台灣PLUS-姚立明批張啓楷／TVBS民調沈伯洋／世華陳玲華 均為 相關新聞/相關分類 導航語料 ≠ identity，202507-s18 判例）
+
+
+- **2024-08-04** 美洲台灣日報「熱門影音／政論影音」頁刊出《陳破空縱論天下》0804 集，標題《蔡奇異動 宣布北戴河會議登場》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；存檔 front-matter published 2024-08-04 與標題集數 0804 相符；「蔡奇異動」「宣布北戴河會議登場」屬節目論述及欄內被報導人物（蔡奇／北戴河會議，PRC 欄內），非本頁斷言，不代筆添條；與本頁 2025-09-20《川習通話兩小時》（98375／99929 殼類）為不同集之不同記錄，未合併；與本頁既有 2024-08-01 📰 新聞挖挖哇 時間軸行（他人節目出席）為不同節目、不同事件，未合併；identity HIT——本人自有節目，經頁 title/Story/Works 自證 — [美洲台灣日報](https://taiwandaily.net/熱門影音/30966/)（存檔 `knowledge/web-archives/taiwandaily-net-30966-30966.md`；備註：本檔 1,192 B title-only 殼；card 候選頁 chi-shih-huang 黃及時／james-liang 梁政吉／juliar-wang 謝綉緞／julie-kuo 郭瑞筠／li-xiaofeng 李筱峰 於本檔 0× 出現，prep-tag hit 為假，never-merge；側欄 沈伯洋車掃／大選鏡來講／法國示威 均為 相關新聞/相關分類 導航語料 ≠ identity，202507-s18 判例）
+
+- **2024-05-17** 美洲台灣日報「熱門影音」頁刊出《火力就是正義》0517 集，標題《火力就是正義-烏軍組建10支新旅 阻俄進攻 0517》——本頁僅存標題記錄（Tag: 火力就是正義 見本頁時間軸，站方標籤頁收錄本節目於本頁語料，hub precedent 202502-s3/s5 之 64880 同節目同類），正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；烏軍組建10支新旅阻俄進攻為欄內被報導 foreign war wire 事件與節目論述，非本頁斷言，不代筆添條；「正義」為節目名 token，非人物（hub precedent：dr-john-wu 吳正義／jim-young 楊正義／peter-chen 陳正義 token-substring 假陽性，peter-chen 頁 2026-10-22 結清條） — [美洲台灣日報](https://taiwandaily.net/熱門影音/19110/)（存檔 `knowledge/web-archives/taiwandaily-net-19110-19110.md`；備註：本檔 1,143 B title-only 殼；card 候選頁 chun-san-lee 李隼三／dr-john-wu 吳正義／huang-diyin 黃帝穎／jim-young 楊正義／peter-chen 陳正義 於本檔 0× 出現，prep-tag collision 為假，never-merge；側欄 沈伯洋洋流車掃／大選鏡來講／時事金掃描／法國示威 均為 相關新聞/相關分類 導航語料 ≠ identity，202507-s18 判例）
+
+## Network
+
+Pages that link to **陳破空** (chen-po-kong):
+
+
+### People (48)
+
+1. [[people/chen-maoxiong|chen-maoxiong]]
+2. [[people/chen-po-kong|chen-po-kong]]
+3. [[people/chen-po-kong|chen-po-kong]]
+4. [[people/chen-po-kong|chen-po-kong]]
+5. [[people/chen-po-kong|chen-po-kong]]
+6. [[people/chen-po-kong|chen-po-kong]]
+7. [[people/chen-po-kong|chen-po-kong]]
+8. [[people/chen-po-kong|chen-po-kong]]
+9. [[people/chen-po-kong|chen-po-kong]]
+10. [[people/chen-po-kong|chen-po-kong]]
+11. [[people/chen-po-kong|chen-po-kong]]
+12. [[people/chen-po-kong|chen-po-kong]]
+13. [[people/chen-po-kong|chen-po-kong]]
+14. [[people/chen-po-kong|chen-po-kong]]
+15. [[people/chen-po-kong|chen-po-kong]]
+16. [[people/chen-po-kong|chen-po-kong]]
+17. [[people/chen-po-kong|chen-po-kong]]
+18. [[people/chen-po-kong|chen-po-kong]]
+19. [[people/chen-po-kong|chen-po-kong]]
+20. [[people/chen-po-kong|chen-po-kong]]
+21. [[people/chen-po-kong|chen-po-kong]]
+22. [[people/chen-po-kong|chen-po-kong]]
+23. [[people/chen-po-kong|chen-po-kong]]
+24. [[people/chen-po-kong|chen-po-kong]]
+25. [[people/chen-po-kong|chen-po-kong]]
+26. [[people/chen-po-kong|chen-po-kong]]
+27. [[people/chen-po-kong|chen-po-kong]]
+28. [[people/chen-po-kong|chen-po-kong]]
+29. [[people/chen-po-kong|chen-po-kong]]
+30. [[people/chen-po-kong|chen-po-kong]]
+31. [[people/chen-po-kong|chen-po-kong]]
+32. [[people/chen-po-kong|chen-po-kong]]
+33. [[people/fan-jiang-ti-ang|fan-jiang-ti-ang]]
+34. [[people/he-qingxuan|he-qingxuan]]
+35. [[people/huang-diyin|huang-diyin]]
+36. [[people/huang-yongcheng|huang-yongcheng]]
+37. [[people/index|index]]
+38. [[people/jin-hegui|jin-hegui]]
+39. [[people/lai-ching-te|lai-ching-te]]
+40. [[people/lai-ching-te|lai-ching-te]]
+41. [[people/li-jian|li-jian]]
+42. [[people/li-jian|li-jian]]
+43. [[people/li-xiaofeng|li-xiaofeng]]
+44. [[people/lin-baohua|lin-baohua]]
+45. [[people/lin-baohua|lin-baohua]]
+46. [[people/tah-p-650c4a6677|tah-p-650c4a6677]]
+47. [[people/yang-yuanxun|yang-yuanxun]]
+48. [[people/嚴查|嚴查]]
+
+### Organizations (2)
+
+1. [[organizations/taiwanjustice-net|taiwanjustice-net]]
+2. [[organizations/taiwanjustice-net|taiwanjustice-net]]
+
+### Articles (3)
+
+1. [[articles/taiwanjustice-net/2021/20211129015737_category_tech-news_steve-jobs-tech-news_a6bfc17011c50708|20211129015737_category_tech-news_steve-jobs-tech-news_a6bfc17011c50708]]
+2. [[articles/taiwanjustice-net/2022/20221127042314_category_internatinal_south-china-sea_page_351_62fc55a1173b4791|20221127042314_category_internatinal_south-china-sea_page_351_62fc55a1173b4791]]
+3. [[articles/taiwanjustice-net/index|index]]
+
+### Sources (74)
+
+1. [[sources/taiwandaily-net|taiwandaily-net]]
+2. [[sources/taiwandaily-net|taiwandaily-net]]
+3. [[sources/taiwandaily-net|taiwandaily-net]]
+4. [[sources/taiwandaily-net|taiwandaily-net]]
+5. [[sources/taiwandaily-net|taiwandaily-net]]
+6. [[sources/taiwandaily-net|taiwandaily-net]]
+7. [[sources/taiwandaily-net|taiwandaily-net]]
+8. [[sources/taiwandaily-net|taiwandaily-net]]
+9. [[sources/taiwandaily-net|taiwandaily-net]]
+10. [[sources/taiwandaily-net|taiwandaily-net]]
+11. [[sources/taiwandaily-net|taiwandaily-net]]
+12. [[sources/taiwandaily-net|taiwandaily-net]]
+13. [[sources/taiwandaily-net|taiwandaily-net]]
+14. [[sources/taiwandaily-net|taiwandaily-net]]
+15. [[sources/taiwandaily-net|taiwandaily-net]]
+16. [[sources/taiwandaily-net|taiwandaily-net]]
+17. [[sources/taiwandaily-net|taiwandaily-net]]
+18. [[sources/taiwandaily-net|taiwandaily-net]]
+19. [[sources/taiwandaily-net|taiwandaily-net]]
+20. [[sources/taiwandaily-net|taiwandaily-net]]
+21. [[sources/taiwandaily-net|taiwandaily-net]]
+22. [[sources/taiwandaily-net|taiwandaily-net]]
+23. [[sources/taiwandaily-net|taiwandaily-net]]
+24. [[sources/taiwandaily-net|taiwandaily-net]]
+25. [[sources/taiwandaily-net|taiwandaily-net]]
+26. [[sources/taiwandaily-net|taiwandaily-net]]
+27. [[sources/taiwandaily-net|taiwandaily-net]]
+28. [[sources/taiwandaily-net|taiwandaily-net]]
+29. [[sources/taiwandaily-net|taiwandaily-net]]
+30. [[sources/taiwandaily-net|taiwandaily-net]]
+31. [[sources/taiwandaily-net|taiwandaily-net]]
+32. [[sources/taiwandaily-net|taiwandaily-net]]
+33. [[sources/taiwandaily-net|taiwandaily-net]]
+34. [[sources/taiwandaily-net|taiwandaily-net]]
+35. [[sources/taiwandaily-net|taiwandaily-net]]
+36. [[sources/taiwandaily-net|taiwandaily-net]]
+37. [[sources/taiwandaily-net|taiwandaily-net]]
+38. [[sources/taiwandaily-net|taiwandaily-net]]
+39. [[sources/taiwandaily-net|taiwandaily-net]]
+40. [[sources/taiwandaily-net|taiwandaily-net]]
+41. [[sources/taiwandaily-net|taiwandaily-net]]
+42. [[sources/taiwandaily-net|taiwandaily-net]]
+43. [[sources/taiwandaily-net|taiwandaily-net]]
+44. [[sources/taiwandaily-net|taiwandaily-net]]
+45. [[sources/taiwandaily-net|taiwandaily-net]]
+46. [[sources/taiwandaily-net|taiwandaily-net]]
+47. [[sources/taiwandaily-net|taiwandaily-net]]
+48. [[sources/taiwandaily-net|taiwandaily-net]]
+49. [[sources/taiwandaily-net|taiwandaily-net]]
+50. [[sources/taiwandaily-net|taiwandaily-net]]
+51. [[sources/taiwandaily-net|taiwandaily-net]]
+52. [[sources/taiwandaily-net|taiwandaily-net]]
+53. [[sources/taiwandaily-net|taiwandaily-net]]
+54. [[sources/taiwandaily-net|taiwandaily-net]]
+55. [[sources/taiwandaily-net|taiwandaily-net]]
+56. [[sources/taiwandaily-net|taiwandaily-net]]
+57. [[sources/taiwandaily-net|taiwandaily-net]]
+58. [[sources/taiwandaily-net|taiwandaily-net]]
+59. [[sources/taiwandaily-net|taiwandaily-net]]
+60. [[sources/taiwandaily-net|taiwandaily-net]]
+61. [[sources/taiwandaily-net|taiwandaily-net]]
+62. [[sources/taiwandaily-net|taiwandaily-net]]
+63. [[sources/taiwandaily-net|taiwandaily-net]]
+64. [[sources/taiwandaily-net|taiwandaily-net]]
+65. [[sources/taiwandaily-net|taiwandaily-net]]
+66. [[sources/taiwandaily-net|taiwandaily-net]]
+67. [[sources/taiwandaily-net|taiwandaily-net]]
+68. [[sources/taiwandaily-net|taiwandaily-net]]
+69. [[sources/taiwandaily-net|taiwandaily-net]]
+70. [[sources/taiwandaily-net|taiwandaily-net]]
+71. [[sources/taiwandaily-net|taiwandaily-net]]
+72. [[sources/taiwandaily-net|taiwandaily-net]]
+73. [[sources/taiwandaily-net|taiwandaily-net]]
+74. [[sources/taiwanjustice-net|taiwanjustice-net]]
 
 ## Related Pages
 
@@ -11423,6 +11590,13 @@ verified-saturation: 2026-10-18
 - **2025-09-11** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》0910 集，標題《學中共封網惹 尼泊爾爆大起義》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；存檔 Published Time 2025-09-11 與標題集數 0910 並存，照存檔記錄，未合併日期；「學中共封網惹尼泊爾爆大起義」屬節目論述及欄內被報導人物，非本頁斷言，不代筆添條；與本頁 202509 相鄰各集（98008 0908／98196 0909）為不同記錄，未合併 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/98375/)（存檔 `knowledge/web-archives/taiwandaily-net-98375-98375.md`；備註：本檔全文無尼泊爾起義內文，僅標題；候選頁即本人頁，identity HIT 經頁 title/Story/Works 自證為自有節目）
 
 - **2025-06-15** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》0615 集，標題《王滬寧急了 把馬館搞到中國暴走》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；存檔 Published Time 2025-06-15 與標題集數 0615 相符；「王滬寧」「馬館」「中國暴走」屬節目論述及欄內被報導人物，非本頁斷言，不代筆添條；與本頁 2025-06-14《參與者爆李克強遭謀害全過程》（存檔 83085）為相鄰兩集之不同記錄，未合併；identity HIT——本人自有節目，經頁 title/Story/Works 自證 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/83278/)（存檔 `knowledge/web-archives/taiwandaily-net-83278-83278.md`；備註：候選頁即本人頁）
+
+- **2024-10-30** 美洲台灣日報「熱門影音」頁刊出《陳破空縱論天下》1030 集，標題《老習使詐 拖延四中全會》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；「老習使詐」「拖延四中全會」屬節目論述及欄內被報導人物，非本頁斷言，不代筆添條；與本頁 2024-10-31《習張鬥爭白熱化》（存檔 45239）為相鄰兩集之不同記錄，未合併；identity HIT——本人自有節目，經頁 title/Story/Works 自證 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/45065/)（存檔 `knowledge/web-archives/taiwandaily-net-45065-45065.md`；備註：候選頁 li-xiaofeng 李筱峰／liu-wen-yi 劉文義 於本檔從未出現，prep-tag collision 為假）
+
+- **2024-12-03** 美洲台灣日報「熱門影音／政論影音」頁刊出《陳破空縱論天下》1203 集，標題《傳王春寧上將被捕》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；存檔 front-matter published 2024-12-03 與標題集數 1203 相符；「傳王春寧上將被捕」屬欄內被報導事件＋節目論述（「傳」字引述式標題）、王春寧為 PRC 欄內被報導人物，非本頁斷言，不代筆添條；identity HIT——本人自有節目，經頁 title/Story/Works 自證，corpus-correction anchor 類，precedents 本頁 2024-10-30 45065／2025-11-25 110079／2026-01-25 119115 條及 hub 202511-s30 — [美洲台灣日報](https://taiwandaily.net/熱門影音/50765/)（存檔 `knowledge/web-archives/taiwandaily-net-50765-50765.md`；備註：本檔 1,133 B title-only 殼；card 候選頁 黃及時／梁政吉／謝綉緞／郭瑞筠／李筱峰／劉文義 於本檔 0× 出現 — prep-tag collision 為假；同檔側欄 沈伯洋車掃／時事金掃描 均為 相關新聞/相關分類 導航語料 ≠ identity，202507-s18 判例）
+- **2026-01-25** 美洲台灣日報「熱門影音／政論影音」頁刊出《陳破空縱論天下》0125 集，標題《兵變？大量軍隊調往北京》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；存檔 front-matter published 2026-01-25 與標題集數 0125 相符；「兵變？」「大量軍隊調往北京」屬節目論述及欄內被報導人物（問句式標題），非本頁斷言，不代筆添條；與本月習張鬥 cluster 各集（本月 hub 119906 s6／119681 s13／119551 s17／119447 s20 hub-skip 同因）為不同記錄，未合併；identity HIT——本人自有節目，經頁 title/Story/Works 自證 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/119115/)（存檔 `knowledge/web-archives/taiwandaily-net-119115-119115.md`；備註：本檔 1,301 B title-only 殼；card 候選頁 chi-shih-huang／james-liang／juliar-wang／julie-kuo／li-xiaofeng 於本檔 0× 出現，prep-tag collision 為假）
+
+- **2025-11-25** 美洲台灣日報「熱門影音／政論影音」頁刊出《陳破空縱論天下》1125 集，標題《中國經濟的最大威脅是習近平》——本頁僅存標題記錄，正文為站方導航文字，節目內容未見存檔，依標題如實記錄（reported）；存檔 front-matter published 2025-11-25 與標題集數 1125 相符；「中國經濟的最大威脅是習近平」屬節目論述及欄內被報導人物，非本頁斷言，不代筆添條；與本頁 2020-11-25《縱論天下 1125 影音專輯》（存檔 2020 年檔案 a7a57a218aa2d94c）為不同年份之不同記錄，未合併；identity HIT——本人自有節目，經頁 title/Story/Works 自證 — [美洲台灣日報](https://taiwandaily.net/%e7%86%b1%e9%96%80%e5%bd%b1%e9%9f%b3/110079/)（存檔 `knowledge/web-archives/taiwandaily-net-110079-110079.md`；備註：本檔 1,285 B title-only 殼；card 候選頁 chi-shih-huang／james-liang／juliar-wang／julie-kuo／li-xiaofeng 於本檔 0× 出現，prep-tag collision 為假；同檔側欄 沈棟／老謝開講／筱君台灣PLUS／TVBS民調沈伯洋／世華陳玲華 均為 相關新聞/相關分類 導航語料 ≠ identity，202507-s18 判例）
 
 ## Identity Snapshot
 

@@ -1,0 +1,10 @@
+# Angie Chen Button 陳筱玲 — 2026-11-16 FLOOR-ANCHOR 抓取 (t_8fc79a02)
+
+- `richardson-garlandherald-2026-11-04-election-result.html` — Richardson-Garland Herald, Ben Vance, 2026-11-04: Herbert Defeats Button to Flip House District 112. Unofficial results: Zach Herbert (D) 43,251 (53.6%) vs Angie Chen Button (R) 37,499 (46.4%), margin 5,752, per Texas secretary of state unofficial results; ends nine-term tenure since January 2009; she chairs Trade, Workforce and Economic Development. Results unofficial pending canvassing/certification. (fetched 2026-11-16, HTTP 200)
+- `lrl-texas-gov-member-5666.html` — Texas Legislative Reference Library member profile id 5666 (fetched 2026-11-16, HTTP 200). Terms of service table: H112 nine consecutive terms, 81st (Jan 13, 2009 – Jan 11, 2011) through 89th (Jan 14, 2025 – Jan 12, 2027), Republican, Garland/Dallas, district in Dallas County. Committee info: 89th — House Administration, Trade/Workforce & Economic Development (Chair), Ways and Means, Ways & Means S/C on Property Tax Appraisals; 88th — International Relations and Economic Development (Chair), Securing Texas from Hostile Foreign Organizations (Select), Ways and Means; 87th — International Relations and Economic Development (Chair), Criminal Justice Reform (Interim Study), Ways and Means.
+
+## Searched, not archived (2026-11-16)
+- Ballotpedia District 112 + Zach Herbert pages — confirms 2026-11-03 general result (Herbert 53.6%/43,251, Button 46.4%/37,499, certified; Herbert assumes office 2027-01-12), 2026-03-03 Republican primary Button 71.7%/11,750 (certified). Corroborates the two archives above; no page mirror kept (Ballotpedia is a live wiki).
+- Dallas County `dallascountyvotes.org` Nov 3, 2026 Summary Results Report PDF — county-level HD112 tally (Herbert 36,246/55.2% vs Button 29,415/44.8% in Dallas County). Corroborating, not mirrored.
+- en.wikipedia (already archived 2026-11-12) now states she lost reelection to Zach Herbert by 8 points in the 2026 midterms.
+- house.texas.gov biography (already archived 2026-11-12) re-checked live 2026-11-16; unchanged.

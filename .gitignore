@@ -69,6 +69,10 @@ knowledge/operational/tier2-absorb-state.json
 knowledge/operational/tier2-absorb-processed.jsonl
 knowledge/operational/tier2-absorb-allowlist.json
 
+knowledge/operational/absorb-ship-ledger.jsonl
+knowledge/operational/albert-lai-open-items.md
+knowledge/operational/albert-lai-reprint-errata.md
+
 /public/
 /content/
 /.obsidian/
@@ -76,3 +80,4 @@ knowledge/operational/tier2-absorb-allowlist.json
 /tests/
 /sites/
 /tools/
+.absorb-ship-build.log

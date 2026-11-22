@@ -1,0 +1,13 @@
+{
+ "probe": "wd wbsearchentities",
+ "term": "Xinglin Quartet",
+ "lang": "en",
+ "searched": "2026-11-18",
+ "result": {
+  "searchinfo": {
+   "search": "Xinglin Quartet"
+  },
+  "search": [],
+  "success": 1
+ }
+}

@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-21",
   "standards_version": 10,
   "auto_apply_agent": false,
   "nodes": {
@@ -11,19 +11,19 @@
       "n": 0
     },
     "analyzer": {
-      "scanned": 3036,
-      "queued": 4,
-      "suppressed": 2538
+      "scanned": 3635,
+      "queued": 104,
+      "suppressed": 4309
     },
     "enrichment_writes": {
       "n": 0,
       "enabled": false
     },
     "janitor.hold": {
-      "n": 40
+      "n": 22
     },
     "kanban.blocked": {
-      "n": 425
+      "n": 62
     },
     "kanban.auto_go": {
       "enabled": false
@@ -37,20 +37,18 @@
       "first_mention_apply": true
     },
     "cron.fail": [
-      "memory-audit",
-      "tier2-absorb",
-      "tier2-loop-watchdog"
+      "echopedia-ci-heal",
+      "echopedia-generate-cards"
     ]
   },
   "telegram_auto_lines": [
-    "✅ AUTO analyzer scanned 3036 queued 4 suppressed 2538",
-    "🟡 QUEUE janitor HOLD leftover 40",
-    "🟡 QUEUE kanban blocked 425",
-    "🔴 NEED YOU cron fail: memory-audit, tier2-absorb, tier2-loop-watchdog"
+    "✅ AUTO analyzer scanned 3635 queued 104 suppressed 4309",
+    "🟡 QUEUE janitor HOLD leftover 22",
+    "🟡 QUEUE kanban blocked 62",
+    "🔴 NEED YOU cron fail: echopedia-ci-heal, echopedia-generate-cards"
   ],
   "cron_fail_names": [
-    "memory-audit",
-    "tier2-absorb",
-    "tier2-loop-watchdog"
+    "echopedia-ci-heal",
+    "echopedia-generate-cards"
   ]
 }

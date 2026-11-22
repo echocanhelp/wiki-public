@@ -12,7 +12,7 @@ import unicodedata
 from pathlib import Path
 
 REG = Path("/home/leedt/echo-system/echopedia/identity/identity_registry.json")
-PUBLIC = "https://echocanhelp.github.io/wiki-public/people"
+PUBLIC = "https://echopedia.tah-society.org/people"
 
 
 def _norm(s: str) -> str:
@@ -24,7 +24,13 @@ def _norm(s: str) -> str:
     return s
 
 
-def hint(*, display_name: str = "", line_user_id: str = "", registry: Path = REG) -> dict:
+def hint(
+    *,
+    display_name: str = "",
+    line_user_id: str = "",
+    registry: Path = REG,
+    declined_path: Path | None = None,
+) -> dict:
     if not registry.is_file():
         return {"match": "none"}
     data = json.loads(registry.read_text(encoding="utf-8"))
@@ -61,6 +67,16 @@ def hint(*, display_name: str = "", line_user_id: str = "", registry: Path = REG
     if len(hits) == 1:
         link = hits[0]
         slug = link.get("person_slug") or ""
+        if uid and slug:
+            try:
+                from ee_identity_decision import is_declined
+                dpath = declined_path
+                if dpath is None:
+                    from ee_identity_decision import DECLINED as dpath
+                if is_declined(uid, slug, dpath):
+                    return {"match": "none", "declined": True}
+            except Exception:
+                pass
         en = link.get("display_name_en") or slug
         zh = link.get("display_name_zh") or ""
         return {
@@ -70,6 +86,13 @@ def hint(*, display_name: str = "", line_user_id: str = "", registry: Path = REG
             "confirm": True,
             "url": f"{PUBLIC}/{slug}" if slug else "",
         }
+    if len(hits) > 1:
+        titles = []
+        for link in hits[:3]:
+            en = link.get("display_name_en") or link.get("person_slug") or ""
+            zh = link.get("display_name_zh") or ""
+            titles.append(f"{en} {zh}".strip())
+        return {"match": "similar", "confirm": False, "titles": titles, "slug": ""}
     return {"match": "none"}
 
 

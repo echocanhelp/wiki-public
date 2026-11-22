@@ -41,15 +41,61 @@ last_reviewed: 2026-11-06
 
 ## Network
 
-- **Houston institutions:** [[organizations/houston-young-artists-concert||HYAC]]（Concert Director）；Houston Ballet（鋼琴家）；ROCO / Houston Chamber Orchestra（合作）；Rice Shepherd School（DMA校友）；American Liszt Society Houston Chapter
-- **Teachers/mentors:** Herbert Stessin（Aspen 邀請人）；André Watts、Gilbert Kalish、Menahem Pressler、Anton Kuerti、Alain Lefèvre（指導）
-- **Event:** [[organizations/tzu-chi-usa-southern-region||Tzu Chi USA Southern Region]] charity concert
-- **Co-performers (2026 Houston):** [[people/hsu-ching-chun||Christine Hsu (許景淳)]], [[people/ric-jan||Ric Jan (荒山亮)]], [[people/eddy-ji-xiao||Eddy Ji Xiao (蕭楫)]], [[people/swee-koh||Swee Koh (許瑞慶)]]
+Pages that link to **kana-mimaki** (kana-mimaki):
+
+
+### People (5)
+
+1. [[people/eddy-ji-xiao|eddy-ji-xiao]]
+2. [[people/index|index]]
+3. [[people/kana-mimaki|kana-mimaki]]
+4. [[people/ric-jan|ric-jan]]
+5. [[people/swee-koh|swee-koh]]
+
+### Organizations (7)
+
+1. [[organizations/houston-young-artists-concert|houston-young-artists-concert]]
+2. [[organizations/houston-young-artists-concert|houston-young-artists-concert]]
+3. [[organizations/houston-young-artists-concert|houston-young-artists-concert]]
+4. [[organizations/roco-houston-chamber-orchestra|roco-houston-chamber-orchestra]]
+5. [[organizations/roco-houston-chamber-orchestra|roco-houston-chamber-orchestra]]
+6. [[organizations/roco-houston-chamber-orchestra|roco-houston-chamber-orchestra]]
+7. [[organizations/tzu-chi-usa-southern-region|tzu-chi-usa-southern-region]]
+
+### Sources (13)
+
+1. [[sources/hyac-kana-mimaki|hyac-kana-mimaki]]
+2. [[sources/hyac-kana-mimaki|hyac-kana-mimaki]]
+3. [[sources/hyac-kana-mimaki|hyac-kana-mimaki]]
+4. [[sources/hyac-kana-mimaki|hyac-kana-mimaki]]
+5. [[sources/hyac-kana-mimaki|hyac-kana-mimaki]]
+6. [[sources/hyac-official-site-2026-11-14|hyac-official-site-2026-11-14]]
+7. [[sources/roco-kana-mimaki|roco-kana-mimaki]]
+8. [[sources/roco-kana-mimaki|roco-kana-mimaki]]
+9. [[sources/roco-kana-mimaki|roco-kana-mimaki]]
+10. [[sources/roco-kana-mimaki|roco-kana-mimaki]]
+11. [[sources/roco-kana-mimaki|roco-kana-mimaki]]
+12. [[sources/tzuchi-us|tzuchi-us]]
+13. [[sources/udn-writers-society-xiao-ji|udn-writers-society-xiao-ji]]
+
+### Other (1)
+
+1. [[events/tzuchi-us-event-2026-southern-region-charity-concert|tzuchi-us-event-2026-southern-region-charity-concert]]
 
 ## From the record
 
 - 2026-11-06 — WEB-PASS（手動，operator「deepen on all performers」）：ROCO 官網藝術家頁 + HYAC 董事會頁 + KOKYO Houston 節目頁 + Houston Public Media（2011-05-02）+ Rice 研究庫節目單（2011-05-03）五源入檔。四項首獎由 Tzu Chi billing 單源升級為 ROCO/HYAC/KOKYO 多源 `sourced`；新增卡內基首演日期（2009-05）、東京藝術大學/舊金山音樂院/萊斯 DMA 學歷、師承名單、HYAC 2007–、Houston Ballet 2023、ROCO/Asia Society 2025 — [[sources/roco-kana-mimaki|ROCO 存檔]] · [[sources/hyac-kana-mimaki|HYAC 存檔]]
 - 姓名表記備註（非事實來源）：本頁漢字名「三牧可奈」出自 Tzu Chi billing；日語原名表記（みまき かな 等）各來源未載，屬缺口。
+- 2026-11-14 (collected) — HYAC 官網自述存檔（Our History / Mission / Auditions）正文主角為機構本身（1987 年 Shu Hao Pao 與 Sophia Gilmson 創辦、1995 年與 CLCMS 合併、純義工營運、兩年一屆選拔），本人姓名未出現於該頁正文；本檔為其任 Concert Director 之機構脈絡與職務出處，不另造本人事實條目 — [[sources/hyac-official-site-2026-11-14|HYAC 官網存檔]] `sourced`
+- 2026-11-06 (collected) — 美南作協 udn 部落格「當文學與音樂相遇」（2014-08-15 發布；休士頓，撰稿秦鴻鈞）本檔主講人專段為蕭楫，正文未提及本人，僅在「關聯人物」節以本頁為共同出處回鏈（同場另有許瑞慶、許景淳、荒山亮）；依 precedent 僅回鏈、不併入 Record — [[sources/udn-writers-society-xiao-ji|美南作協存檔]]
+
+## Quotes
+
+本節新增（DEEPEN-X slice 11150315-2）：經逐字比對 `content/sources/hyac-official-site-2026-11-14.md`，卡片所給候選語句
+`- [[people/kana-mimaki|Kana Mimaki（三牧可奈）]] — HYAC Concert Director（2007–）` 並非本人談話，而是該 HYAC 官網存檔頁
+「相關頁面」節中由收錄者（pinto）撰寫的回鏈導覽列條目，且其中 `Concert Director（2007–）` 為本會既有的職務事實
+（非逐字引述）。依「confirm, do not invent」**不引用**；兩個列檔在本輪亦無本人逐字談話（`三牧`／`Mimaki` 全樹 grep 僅命中
+導覽列／共同出處提及），故不另造引語。
 
 ## Gaps
 
@@ -63,6 +109,8 @@ last_reviewed: 2026-11-06
 3. [[sources/hyac-kana-mimaki|HYAC — board bio + KOKYO/HPM/Rice 補充（存檔）]]
 4. Asia Society Texas, ROCO Connections: Beyond the Rising Sun（2025）
 5. Houston Public Media, The Front Row — Liszt Society of America（2011-05-02）
+6. [[sources/hyac-official-site-2026-11-14|HYAC 官網自述存檔（Our History / Mission / Auditions，collected 2026-11-14）]]
+7. [[sources/udn-writers-society-xiao-ji|美南作協 udn 部落格「當文學與音樂相遇」（2014-08-23 座談會；collected 2026-11-06）]]
 
 ## Related Pages
 
@@ -70,9 +118,12 @@ last_reviewed: 2026-11-06
 - [[organizations/houston-young-artists-concert||Houston Young Artists' Concert]]
 - [[sources/tzuchi-us||tzuchi.us]]
 - [[sources/roco-kana-mimaki||ROCO bio 存檔]]
+- [[sources/hyac-official-site-2026-11-14||HYAC 官網自述存檔]]
+- [[sources/udn-writers-society-xiao-ji||美南作協「當文學與音樂相遇」存檔]]
 - [[sources/hyac-kana-mimaki||HYAC bio 存檔]]
 
 ## Revision History
 
 - 2026-11-04: Created from Tzu Chi USA concert billing (single source, attributed).
 - 2026-11-06: Deepen — ROCO/HYAC/KOKYO/HPM/Rice 五源吸收：學歷（東京藝術大學、SF Conservatory、Rice DMA）、師承、卡內基 2009-05、HYAC 2007–、Houston Ballet 2023、ROCO 2025；Gaps 立頁。
+- 2026-11-15: DEEPEN-X slice 11150315-2 (t_4dd21d92) — 吸收本卡所列 2 檔回鏈：HYAC 官網自述存檔（正文為機構自述、本人未見於正文，以機構脈絡行吸收）、美南作協 udn 部落格（正文主角為蕭楫，本人僅見於「關聯人物」節，依 precedent 僅回鏈）。新增 `## Quotes` 節記錄卡片候選語句經逐字核對為收錄者導覽列條目、非本人談話，判定不引用；Sources 增列 2 條。無新本人傳記事實。

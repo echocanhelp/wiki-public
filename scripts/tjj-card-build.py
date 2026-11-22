@@ -32,7 +32,18 @@ OUT = REPO / "knowledge/operational"
 # 64 reclaimed on 2026-10-07). Override is a code change, not an env, on purpose:
 # the death was the slice size, and a quiet env default would reintroduce it.
 SLICE = 1
-NCARDS = 32
+# Card count only. Slice size stays a code constant: 4-item cards died at 30 turns,
+# and a quiet env default must not be able to bring that back. Per-run cap 48
+# (2026-11-21 reserve). Slice stays 1.
+def _tjj_ncards() -> int:
+    try:
+        n = int(os.environ.get("TJJ_NCARDS", "32"))
+    except ValueError:
+        n = 32
+    return max(0, min(n, 48))
+
+
+NCARDS = _tjj_ncards()
 DRY = os.environ.get("TJJ_DRY") == "1"
 STAMP = subprocess.run(["date", "+%m%d%H%M"], capture_output=True, text=True).stdout.strip()
 TODAY = date.today().isoformat()

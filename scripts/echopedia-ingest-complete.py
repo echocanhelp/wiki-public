@@ -62,10 +62,14 @@ def unit_slug(unit: dict) -> str:
     return url.rstrip("/").split("/")[-1] or str(unit.get("unit_id") or "unit")
 
 
-def vault_gaps(repo: Path, sid: str) -> list[str]:
+def vault_gaps(repo: Path, sid: str, flat_globs: list[str] | None = None) -> list[str]:
     """High-value units without a vault body → PARTIAL.
 
     D chrome and explicit rest_empty_after_html may stay index-only.
+    flat_globs: extra repo-relative globs whose file stems also count as
+    vaulted (taiwandaily.net stores its corpus FLAT under web-archives/ as
+    taiwandaily-net-<id>-<id>.md, not under web-archives/<sid>/ — registry
+    tier2_glob is the SSOT for the pattern, 2026-11-18).
     """
     units = repo / "knowledge" / "research" / sid / "units.jsonl"
     if not units.is_file():
@@ -76,6 +80,15 @@ def vault_gaps(repo: Path, sid: str) -> list[str]:
         for p in vault_root.rglob("*.md"):
             if p.stat().st_size >= MIN_VAULT_BYTES:
                 stems.add(p.stem)
+    for pat in flat_globs or []:
+        for p in repo.glob(pat):
+            if p.stat().st_size >= MIN_VAULT_BYTES:
+                stems.add(p.stem)
+                # flat archive naming "<sid>-<id>-<id>.md": also index the
+                # bare id so unit_slug() (last URL segment = post id) matches
+                if p.stem.startswith(sid + "-"):
+                    rest = p.stem[len(sid) + 1:].strip("-")
+                    stems.add(rest.split("-")[0] if rest.count("-") == 1 else rest)
     missing = 0
     n = 0
     for line in units.read_text(encoding="utf-8").splitlines():
@@ -118,7 +131,7 @@ def check_site(site: dict) -> list[str]:
         issues.append(f"{sid}: no primary page on disk")
         return issues
     if cls in VAULT_CLASSES:
-        issues.extend(vault_gaps(REPO, sid))
+        issues.extend(vault_gaps(REPO, sid, [glob_pat] if glob_pat else None))
         hub = site.get("source_hub")
         if hub and not (REPO / hub).is_file():
             issues.append(f"{sid}: missing source hub {hub}")

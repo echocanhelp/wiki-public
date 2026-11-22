@@ -1,0 +1,350 @@
+2020 NATPA-SCAL Spring Seminar Program   1
+                 2020 NATPA-SCAL Spring Seminar Program                 2
+
+
+                2020 NATPA-SCAL Spring Seminar
+                          March 1st (Sunday)
+
+
+
+
+   California State University San Marcos
+   333 S Twin Oaks Valley Rd, San Marcos, CA 92096
+   Room Academic Hall 102 (ACD 102) (The same one we used before)
+   Parking Lot C
+9:30 AM               Registration Starts
+10:00 AM              會長致詞
+10:10 AM              Scholar Presentation #1
+                      張嘉惠教授 Dr. Chia-hui Chang
+                      Visiting Professor at UCSD
+                      國立中央大學資訊工程系教授
+                    Topic: 從資訊擷取技術看人工智慧技術的發展
+                    Computation Intelligence and Applications for
+                    Information Extraction
+
+10:50 AM            Scholar Presentation #2
+                    Dr.Chun-nan Hsu (Kun- Lâm Khó’) 許鈞南
+                    Project Scientist, Neurosciences, UCSD
+                    Topic: 人工智慧機器問診的機會與挑戰
+                    Opportunities and challenges of creating an AI Doctor
+11:30 AM                           Lunch and Networking
+1:00 PM             Keynote Speaker
+                    鍾正明院士, Dr. Cheng-min Chuong
+                    Topic: 飛羽形成的建構原則與適應: 台灣藍鵲如何飛上
+                    國際主要期刊”細胞” 封面
+                    The making of a flight feather: Bio-architectural
+                    principles and adaptation
+2:00 PM             Young Scholar Presentation #1
+                    Sheng-pei Wang, MD
+                    王聖裴醫師
+                    Topic: Taiwan’s small yet important steps in the
+                    global community of EB
+                    台灣在國際泡泡龍疾病社會中的角色
+2: 50 PM                              Coffee/Tea Break
+                             2020 NATPA-SCAL Spring Seminar Program              3
+
+
+           3: 10 PM             Young Scholar Presentation #2
+                                謝大洋 Diane Hsieh
+                                Doctoral Candidate in Education, UC Irvine
+                                Topic: 日常中的心理學 Applying psychology in Daily
+                                Lives
+           3: 50 PM             Young Scholar Presentation #3
+                                邱澗庚 Jian-geng Chiou
+                                Postdoctorial Researcher at UCSD
+                                Topic: 用數學，細胞捏出五花八門的斑紋與結構！
+                                Principles of Pattern Formation Allow Cells to
+                                Regulate Their Shape
+           4:30 PM                                  Coffee/Tea Break
+           4:40 PM                                 Member Meeting
+           5:30 PM              Dinner at Pan Asia Buffet
+                                707 Center Dr, San Marcos, CA 92069,
+                                (760) 796-7708
+                                https://www.facebook.com/pages/Pan-Asia-Grill-
+                                Sushi-Buffet/1416907315194336
+                                http://www.yelp.com/biz/pan-asia-buffet-san-marcos
+
+
+                 Please LIKE our Facebook page
+
+
+
+
+Leadership Team
+
+NATPA-SCAL President 劉信達 Shin Liu
+
+Secretary/Deputy VP 葉芸青 Winnie Davis
+
+Treasurer 馬鼎嵐 Iris Ma
+
+Communication 呂佳霙 Doris Lu-Anderson
+
+敬邀
+
+Keynote Speaker
+                                    2020 NATPA-SCAL Spring Seminar Program    4
+
+
+鍾正明院士, Dr. Cheng-min Chuong
+
+About Dr. Chuong
+鍾正明教授為中央研究院院士，美國科學促進會院士，美國南加州大學病理系教授、中國醫藥
+大學整合幹細胞中心資深科學顧問。鍾院士引領世界外胚層器官如皮膚及其附屬器官羽毛、毛
+囊的發育、再生及幹細胞組織工程等研究，為細胞粘結、組織器官形態發生、組態形成等研究
+做出了開拓性的貢獻。
+鍾院士在包括國際頂尖雜誌 Nature, Science 和 Cell 等共發表論文 200 餘篇，他引次數超過萬
+次，其研究成果獲選 Science 雜誌 2014 年度十大科學突破。
+
+Topic: 飛羽形成的建構原則與適應: 台灣藍鵲如何 飛上國際主要期刊”細胞” 封面
+
+The making of a flight feather: Bio-architectural principles and adaptation
+
+Birds have flight, contour, downy, and tail feather types,
+all of which serve different functions, with flight feathers
+conferring the ability to fly. A flight feather is made of two
+adaptable modules: the major shaft (rachis) and the vane.
+In this issue, Chang et al. study the molecular
+mechanisms of rachis and barb hooklet formation. Using
+quantitative biophysical approaches, they analyze feather
+rachis organization in birds with different flight
+characteristics and determine how multidimensional
+functionality can be achieved in the development and
+evolution of flight feathers for adaptation to different eco-
+spaces. The cover shows a photo of a Taiwan Blue
+Magpie with fully displayed feathers. Photo credit: Shao
+Hua Lang of Bird Photography Club in Taiwan.
+
+      Video abstract link (6 minute)
+      Paper link in CELL (Nov 27, 2019)
+
+
+
+
+Scholar #1
+                                  2020 NATPA-SCAL Spring Seminar Program                    5
+
+
+張嘉惠教授 Dr. Chia-hui Chang
+   中央大學資訊工程系 / Visiting Scholar at UCSD
+   中華民國人工智慧學會理事長 Taiwan Association for Artificial Intelligence (TAAI)
+    President
+   中華民國計算語言學會理事長 Association for Computational Linguistic and Chinese
+    Language Processing (ACLCLP) President
+
+Topic: 從資訊擷取技術看人工智慧技術的發展
+Computation Intelligence and Applications for Information Extraction
+
+資訊擷取（Information Extraction）的任務定義是從非結構化或半結構化文檔中自動擷取出結
+構化的資訊，例如實體，實體之間的關係以及描述實體的屬性。資訊擷取領域起源於自然語言
+訊息處理的需求，原始任務在於從非結構化的 Free Text 文本中識別命名實體（Named Entity
+Recognition，NER），例如新聞報導中的人物姓名、組織名稱、地點等，進而理解文件中的意
+義。另一方面，隨著 Web 網際網路的發展以及資料庫的支援，使用者可以更輕鬆地搜尋到所需
+的資料，只是這些資料大多嵌在半結構化的樣版網頁之中（又稱為深網 Deep Web），如何讓
+這些資料可以更有效地被應用， 則是 Web 資料擷取（又稱為 Wrapper Induction）以及語義網
+（Semantic Web）的目標。在這個演講中，我們以資訊擷取為主題，透過 Wrapper Induction
+以及 Named Entity Recognition 所用的技術，與人工智慧領域發展的軌跡相呼應。最後我們以
+                               活動資料庫建立、以及科學出版物中的結構化記錄轉換
+                               為例說明資訊擷取技術的應用。
+
+                                        The task of information extraction is to automatically
+                                       extract structured information such as entities,
+                                       relationships between entities, and attributes describing
+                                       entities from unstructured or semi-structured documents.
+                                       The field of information extraction has its genesis in the
+                                       natural language processing community to recognize
+named entities such as person names, organization names, locations, etc. in news articles for
+message understanding. On the other hand, with the development of the WWW, users can
+easily search for any data supported by databases. However, these data are mainly
+embedded in semi-structured web pages (also known as Deep Web) with predefined template.
+Thus, the task of extracting data from template pages (also known as Wrapper Induction) is
+necessary for information reuse and integration. In this talk, we use the technologies used in
+wrapper Induction and named entity recognition to illustrate the development in artificial
+intelligence. Finally, we demonstrate an application of information extraction in event
+database construction by transforming information from user generated contents on social
+network into structured records.
+
+
+Scholar Presentation #2
+                                   2020 NATPA-SCAL Spring Seminar Program                     6
+
+
+Chun-nan Hsu (Kun- Lâm Khó’) Ph.D. 許鈞南
+       Project Scientist, Neurosciences, School of Medicine, UCSD
+       加州大學聖地牙哥分校醫學院神經科學專案科學家
+
+Topic: 人工智慧機器問診的機會與挑戰 Opportunities and challenges of creating an AI Doctor
+
+Abstract: This talk will focus on how to develop an AI (Artificial Intelligence) Doctor that can
+read human natural language such as English and Chinese and diagnose human diseases. AI
+doctors are in need because of the shortage of qualified clinicians and high rates of error
+diagnosis. The need is particularly serious in countries like China but is a world-wide issue
+given that the population is aging rapidly. AI doctor is possible now due to the advances in
+modern machine learning and semantic representation of natural languages. The talk will
+present AI Doctor software that the speaker developed. The first one can read emergency
+department notes from Rady’s Children Hospital to identify patients who may be highly
+suspicious of Kawasaki disease, a rare disease that is usually overlooked. The second one
+can learn to read chief complaint and history of the present illness to diagnose a broad range
+of pediatric diseases. The last one can learn to ask clinical questions to assign the patient to a
+department as a triage service using an idea similar to learning to play GO to beat the human
+GO champion. The talk will also discuss the barriers and resistance of AI doctors.
+(Note: If time allows the talk will also cover some of the speakers’ work on "AI PhD" that reads
+research documents automatically to organize biomedical knowledge.)
+
+Bio: Chunnan Hsu is an angry data scientist
+looking to disrupt the current practice of
+healthcare with Artificial Intelligence and disrupt
+the status quo of Taiwan’s international status.
+He failed miserably in both so far. However, he
+will keep trying.
+He received a PhD degree in AI from USC and
+was an Assistant Professor at Arizona State
+University before he joined the Institute of Information Science of Academia Sinica in Taiwan
+for 10 years. He was forced to quit from Academia Sinica in 2014 because in 2013 he joined
+the Biomedical Informatics department of the School of Medicine, UC San Diego. In July 2019
+he transferred to the Department of Neurosciences. He is a Senior Member of Association of
+Computing Machinery, IBM Faculty Award winner, and was the President of the Taiwanese
+Association for Artificial Intelligence from 2009 to 2011. When he is not working, he hits tennis
+balls hard to release his anger and lower his blood pressure.
+                                   2020 NATPA-SCAL Spring Seminar Program      7
+
+
+Young Scholar #1
+
+Sheng-Pei Wang, M.D. 王聖裴醫師
+
+Visiting Scholar, Department of Pathology, University of Southern California
+南加州大學病理學科，訪問學者
+
+Topic: 台灣在國際泡泡龍疾病社會中的角色
+Taiwan’s Small Yet Important Steps in The Global Community of EB
+
+
+
+Epidermolysis Bullosa (EB) is a group of rare genetic
+diseases that result in skin and mucosa fragility.
+Patients are prone to develop blisters and wound on
+skin due to friction and minor trauma. In severe
+subtypes, patients have wound on esophagus, and
+suffer from complications of esophageal scarring and
+narrowing. This talk will include the pathogenesis and
+current treatments of EB, and emphasize Taiwan's role
+in EB society.
+
+
+俗稱泡泡龍的「表皮溶解性水泡病」是一種罕見的基因疾病。患者的表皮及黏膜十分脆弱，容
+易因為輕微摩擦就起水泡、產生傷口。罹患嚴重亞型的病人連食道等黏膜都會有傷口，造成食
+道瘢痕及狹窄。這次演講除了此疾病的成因、治療方式，也會分享台灣目前的研究及台灣在國
+際泡泡龍疾病社會中扮演的角色。
+                                2020 NATPA-SCAL Spring Seminar Program                         8
+
+
+Young Scholar #2
+
+謝大洋 Diane Hsieh
+
+Doctoral Candidate in Education, UC Irvine
+
+Topic: 日常中的心理學 Applying psychology in Daily Lives
+
+
+
+                                             Psychology is one of the most popular fields of
+                                             study in the U.S., for example being a
+                                             prerequisite for subjects like sociology, biology,
+                                             business, and education. In Taiwan, however, I
+                                             would argue psychology is under-studied and
+                                             under-appreciated. In this presentation, I will
+                                             introduce the many branches of psychology, and
+                                             illustrate with concrete examples how having a
+                                             deeper understanding of basic psychological
+                                             principles can enhance our daily lives.
+
+
+心理學在美國是許多大學最熱門的主修之一, 也是社會學, 生物, 商學, 教育學學等等領域的必修。
+
+但是心理學在台灣相對非常不普遍，也令許多人對這門學科有錯誤的認知或不必要的畏懼。 我
+
+將簡介心理學的許多分支：社會心理學，認知心理學，發展心理學，臨床心理學等等，也將用
+
+一些經典的研究討論心理學對社會的貢獻。 保持科普的精神，我希望經由這個短講我可以將心
+
+理學帶入大家的日常生活中。
+                              2020 NATPA-SCAL Spring Seminar Program   9
+
+
+Young Scholar #3
+
+邱澗庚 Jian-geng Chiou
+
+Postdoctoral Researcher at UCSD
+
+Topic: 用數學，細胞捏出五花八門的斑紋與結構！Principles of Pattern Formation Allow Cells
+
+to Regulate Their Shape
+
+
+從一顆圓形的受精卵，斑馬與熱帶魚如何無中生有地發育出身體結構，進而展現五花八門的斑
+
+紋？這其中的數學原則不僅僅被用在理解動植物發育的課題上，更決定了許多單細胞生物攸關
+
+生死的結構特徵。在這個短講當中，我會介紹斑紋形成的數學原則，以及我在博班的研究當中，
+
+如何透過改變這些數學原則，讓圓形出芽的酵母菌長出長條而分岔的菌絲！
+                               2020 NATPA-SCAL Spring Seminar Program   10
+
+
+
+
+                                Where Do We Meet?
+
+Meeting Location: California State University San Marcos
+Address: 333 S Twin Oaks Valley Rd, San Marcos, CA 92096
+
+Room: Academic Hall 102 (ACD 102) (A little walk with stairs)
+
+Parking Lot C (Parking $10)
+                                2020 NATPA-SCAL Spring Seminar Program           11
+
+
+
+             2020 NATPA-SCAL Annual Meeting
+                  March 1st (Sunday) 2020
+                    Registration Form
+
+
+
+
+Member’s English Name: ______________________________
+Taiwanese Name:____________
+Address: ________________________________________
+Phone: _______________________
+E-Mail Address: _____________________________________ (for confirmation use)
+Spouse / Family Member accompany you
+English Name _______________ Relationship: _________ Taiwanese
+Name:__________________
+ **如果你有過去參加研討會的名牌，可以帶去以節省貼紙型的名牌。 If you have the name
+tags from previous conferences, welcome to bring them.
+Meals (per person) :
+Lunch                             $10 X _____(人數) = $________
+Dinner                            $25 X _____(人數) = $________
+Lunch (Students and post-doc)        $0 x ______ (人數)
+Dinner (Students and post-doc)       $15 x ______ (人數)
+Dinner Children (under 12)           $ 0 x _______ (人數)
+
+NATPA-SCAL Membership Fee :
+ $30 Annual fee for regular member)
+ $15 Retired Member; Students/post- doc
+ $300 Permanent Membership for Regular Member
+ $150 Permanent Membership for Retired Member
+
+Donation to NATPA SCAL
+Name for Donation Receipt :____________                = $_______________
+
+                                                      Total =$ ____________
+Please RSVP
+    Registration website:
+    For more information: Please contact natpa.scc1985@gmail.com
+    Fee: Please write your check payable to: NATPA-SCAL . Bring check/cash to
+      registration table on the day of event.
+

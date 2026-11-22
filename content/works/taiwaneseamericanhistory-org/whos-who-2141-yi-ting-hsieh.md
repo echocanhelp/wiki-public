@@ -1,0 +1,45 @@
+---
+title: "2141. Yi-Ting (Christine) Hsieh"
+type: work
+source_id: taiwaneseamericanhistory-org
+value_band: B
+license: all-rights
+verification_status: pending
+last_reviewed: 2026-09-07
+---
+
+verified-saturation: 2026-10-13 (work-entity-linker: registry scan found no new entity links; 2 subject links already present)
+# 2141. Yi-Ting (Christine) Hsieh
+
+## Identity Snapshot
+- Era: 2018
+- Geography: Taiwanese America
+- Core roles: historical work (story; band B)
+- Source org: [[organizations/taiwaneseamericanhistory-org]]
+
+## Record
+- **Date:** 2018-06-30
+- **Byline:** —
+- **Original:** [https://taiwaneseamericanhistory.org/whos-who-2141-yi-ting-hsieh/](https://taiwaneseamericanhistory.org/whos-who-2141-yi-ting-hsieh/)
+- **Value band:** B (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
+- **License:** all-rights
+
+## Article
+Cited from the original ([source](https://taiwaneseamericanhistory.org/whos-who-2141-yi-ting-hsieh/)). Echopedia holds this as community historical record.
+
+_Bibliographic record only. Full text stays in the vault._
+
+
+## Timeline
+- 2018-06-30 — published
+
+## Subjects
+- [[people/yi-ting-christine-hsieh|Yi-Ting Christine Hsieh]] — subject of this Who's Who record
+- [[people/yi-ting-hsieh|Yi-Ting Hsieh]] — same person, duplicate page (merge held for maintainer)
+- [[people/yi-ting-hsieh.md|Yi-Ting Hsieh]] — mentioned in this record
+- [[people/yi-ting-christine-hsieh.md|Yi-Ting Christine Hsieh]] — mentioned in this record
+
+## Related Pages
+- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamericanhistory-org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus|Source hub]]

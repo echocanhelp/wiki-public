@@ -1,0 +1,71 @@
+=== SITE DESIGN HEAL — 2026-11-18 dry=0 audit_only=1 ===
+flags: heal=True featured=True publish=True
+SITE_DESIGN_STATUS: ACTION
+SITE_DESIGN_SUMMARY: critical=0 high=3 medium=0 md=15732 heals=publish
+HIGH: [A3] MD without HTML: 45 (recent≤7d: 45)
+HIGH: [B3] new/changed MD missing HTML (≤7d)
+HIGH: [A8] Explorer useSavedState not false on homepage (stale localStorage fileTree)
+SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
+SITE_DESIGN_HEAL: audit-only status=ACTION
+=== SITE DESIGN AUDIT ===
+SITE_DESIGN_STATUS: ACTION
+SITE_DESIGN_SUMMARY: critical=0 high=3 medium=0 md=15732 heals=publish
+HIGH: [A3] MD without HTML: 45 (recent≤7d: 45)
+HIGH: [B3] new/changed MD missing HTML (≤7d)
+HIGH: [A8] Explorer useSavedState not false on homepage (stale localStorage fileTree)
+SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
+## Site design audit — 2026-11-18 00:30
+
+- pages_md=15732
+- critical=0 high=3 medium=0
+- heals_suggested=publish
+
+### Summary
+- **SITE_DESIGN_STATUS: ACTION**
+
+### HIGH (3)
+- **A3** MD without HTML: 45 (recent≤7d: 45) `[heal:publish]`
+  - `sources/bios-monthly-zhang-xuzhan-2022.md`
+  - `sources/cairns-art-gallery-zhang-xu-zhan.md`
+  - `sources/cna-president-award-12-ceremony.md`
+  - `sources/cna-president-award-12-list.md`
+  - `sources/cna-zhang-xuzhan-2019-xinzhihu.md`
+  - `sources/cna-zhang-xuzhan-2023-president-award.md`
+  - `sources/dr-kuochih-hong-thirdparty-2026-11-17.md`
+  - `sources/elaine-hsiao-thirdparty-2026-11-17.md`
+- **B3** new/changed MD missing HTML (≤7d) `[heal:publish]`
+  - `sources/bios-monthly-zhang-xuzhan-2022.md`
+  - `sources/cairns-art-gallery-zhang-xu-zhan.md`
+  - `sources/cna-president-award-12-ceremony.md`
+  - `sources/cna-president-award-12-list.md`
+  - `sources/cna-zhang-xuzhan-2019-xinzhihu.md`
+  - `sources/cna-zhang-xuzhan-2023-president-award.md`
+  - `sources/dr-kuochih-hong-thirdparty-2026-11-17.md`
+  - `sources/elaine-hsiao-thirdparty-2026-11-17.md`
+- **A8** Explorer useSavedState not false on homepage (stale localStorage fileTree)
+  - path: `/home/leedt/echo-system/index.html`
+
+### INFO (2)
+- **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
+  - `people/albert-s-lai.md`
+  - `people/liao-shu-zong.md`
+  - `people/lin-fu-kun.md`
+  - `people/lin-yuan-ching.md`
+  - `people/yang-jia-you.md`
+  - `people/yang-xin.md`
+- **B1** person/org touched ≤7d (rely on recency featured window): 349
+  - `people/adam-chang.md`
+  - `people/albert-chapter1-audiobook-consent-and-recording-kit.md`
+  - `people/albert-chapter1-audiobook-taiwanese-female.md`
+  - `people/albert-chapter1-zh-hsiaochen-full-review.md`
+  - `people/alexander-macdonald.md`
+  - `people/alexander-yeh.md`
+  - `people/alice-huang.md`
+  - `people/allen-chao.md`
+
+### Programmable heals
+- publish
+
+### P13 agent scope
+- Only items marked AGENT_SUGGESTED or human-directed layout marker fixes.
+- Canon: echopedia/SITE_DESIGN.md

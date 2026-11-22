@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-14",
+  "total_cards": 21,
+  "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-10-14.json",
+  "priority_counts": {
+    "high": 14,
+    "medium": 6,
+    "low": 1
+  },
+  "playbook_counts": {
+    "P8": 21
+  },
+  "cards": [
+    {
+      "card_id": "echo-gen-2026-10-14-0001",
+      "title": "[HIGH] democratic-progressive-party: Add ## History section",
+      "body": "## Task: [HIGH] democratic-progressive-party: Add ## History section\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/democratic-progressive-party.md`\n**Finding:** `STRUCT_NO_HISTORY`\n**Score:** 185.25 (inbound links: 57)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/democratic-progressive-party.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## History section\n**Detail:** Add a History section with key dates, milestones, and events. Include dates and brief descriptions.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_HISTORY\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "organizations/democratic-progressive-party.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "score": 185.25,
+      "target_path": "/home/leedt/echo-system/content/organizations/democratic-progressive-party.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0002",
+      "title": "[HIGH] wang-gui-rong: Expand the first paragraph to provide a meaningful summary of the page",
+      "body": "## Task: [HIGH] wang-gui-rong: Expand the first paragraph to provide a meaningful summary of the page\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/wang-gui-rong.md`\n**Finding:** `DESC_TOO_SHORT`\n**Score:** 83.25 (inbound links: 37)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/wang-gui-rong.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Expand the first paragraph to provide a meaningful summary of the page\n**Detail:** First paragraph should be 50+ characters and mention the page subject. Add 1-2 sentences summarizing who/what this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_TOO_SHORT\nPage type: people\nType weight: 1.5\nFinding weight: 1.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/wang-gui-rong.md",
+      "finding": "DESC_TOO_SHORT",
+      "score": 83.25,
+      "target_path": "/home/leedt/echo-system/content/people/wang-gui-rong.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0003",
+      "title": "[HIGH] prof-ming-min-peng: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] prof-ming-min-peng: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/prof-ming-min-peng.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 64.5 (inbound links: 43)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/prof-ming-min-peng.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/prof-ming-min-peng.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 64.5,
+      "target_path": "/home/leedt/echo-system/content/people/prof-ming-min-peng.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0004",
+      "title": "[HIGH] wang-gui-rong: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] wang-gui-rong: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/wang-gui-rong.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 55.5 (inbound links: 37)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/wang-gui-rong.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/wang-gui-rong.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 55.5,
+      "target_path": "/home/leedt/echo-system/content/people/wang-gui-rong.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0005",
+      "title": "[HIGH] taiwan-center-choir: Add ## History section",
+      "body": "## Task: [HIGH] taiwan-center-choir: Add ## History section\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `organizations/taiwan-center-choir.md`\n**Finding:** `STRUCT_NO_HISTORY`\n**Score:** 39.0 (inbound links: 12)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/organizations/taiwan-center-choir.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## History section\n**Detail:** Add a History section with key dates, milestones, and events. Include dates and brief descriptions.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_HISTORY\nPage type: organizations\nType weight: 1.3\nFinding weight: 2.5",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "organizations/taiwan-center-choir.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "score": 39.0,
+      "target_path": "/home/leedt/echo-system/content/organizations/taiwan-center-choir.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0006",
+      "title": "[HIGH] fang-ming-chen: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] fang-ming-chen: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/fang-ming-chen.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 19.5 (inbound links: 13)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/fang-ming-chen.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/fang-ming-chen.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 19.5,
+      "target_path": "/home/leedt/echo-system/content/people/fang-ming-chen.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0007",
+      "title": "[HIGH] dr-jack-j-chen: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] dr-jack-j-chen: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/dr-jack-j-chen.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 16.5 (inbound links: 11)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dr-jack-j-chen.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/dr-jack-j-chen.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 16.5,
+      "target_path": "/home/leedt/echo-system/content/people/dr-jack-j-chen.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0008",
+      "title": "[HIGH] dr-jack-j-chen: UNKNOWN_FINDING_TYPE",
+      "body": "## Task: [HIGH] dr-jack-j-chen: UNKNOWN_FINDING_TYPE\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/dr-jack-j-chen.md`\n**Finding:** `LINKS_HIGH_DENSITY`\n**Score:** 16.5 (inbound links: 11)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dr-jack-j-chen.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** UNKNOWN_FINDING_TYPE\n**Detail:** No action mapping for finding: LINKS_HIGH_DENSITY\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: LINKS_HIGH_DENSITY\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/dr-jack-j-chen.md",
+      "finding": "LINKS_HIGH_DENSITY",
+      "score": 16.5,
+      "target_path": "/home/leedt/echo-system/content/people/dr-jack-j-chen.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0009",
+      "title": "[HIGH] dr-fu-tong-hsu: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] dr-fu-tong-hsu: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/dr-fu-tong-hsu.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 15.0 (inbound links: 10)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dr-fu-tong-hsu.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/dr-fu-tong-hsu.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 15.0,
+      "target_path": "/home/leedt/echo-system/content/people/dr-fu-tong-hsu.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0010",
+      "title": "[HIGH] helen-wang: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] helen-wang: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/helen-wang.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 15.0 (inbound links: 10)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/helen-wang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/helen-wang.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 15.0,
+      "target_path": "/home/leedt/echo-system/content/people/helen-wang.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0011",
+      "title": "[HIGH] dr-wen-y-chen: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] dr-wen-y-chen: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/dr-wen-y-chen.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 13.5 (inbound links: 9)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dr-wen-y-chen.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/dr-wen-y-chen.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 13.5,
+      "target_path": "/home/leedt/echo-system/content/people/dr-wen-y-chen.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0012",
+      "title": "[HIGH] fu-mei-chang: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] fu-mei-chang: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/fu-mei-chang.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 13.5 (inbound links: 9)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/fu-mei-chang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/fu-mei-chang.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 13.5,
+      "target_path": "/home/leedt/echo-system/content/people/fu-mei-chang.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0013",
+      "title": "[HIGH] tony-hsieh: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] tony-hsieh: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/tony-hsieh.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 13.5 (inbound links: 9)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/tony-hsieh.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/tony-hsieh.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 13.5,
+      "target_path": "/home/leedt/echo-system/content/people/tony-hsieh.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0014",
+      "title": "[HIGH] fei-kuang-tseng: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [HIGH] fei-kuang-tseng: Ensure the first paragraph mentions the page subject\n\n**Priority:** high\n**Playbook:** P8\n**Page:** `people/fei-kuang-tseng.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 12.0 (inbound links: 8)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/fei-kuang-tseng.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "high",
+      "playbook": "P8",
+      "page": "people/fei-kuang-tseng.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 12.0,
+      "target_path": "/home/leedt/echo-system/content/people/fei-kuang-tseng.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0015",
+      "title": "[MEDIUM] dr-daniel-c-hsu: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] dr-daniel-c-hsu: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/dr-daniel-c-hsu.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 9.0 (inbound links: 6)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/dr-daniel-c-hsu.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/dr-daniel-c-hsu.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 9.0,
+      "target_path": "/home/leedt/echo-system/content/people/dr-daniel-c-hsu.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0016",
+      "title": "[MEDIUM] 沈伯洋: Add ## Identity Snapshot section",
+      "body": "## Task: [MEDIUM] 沈伯洋: Add ## Identity Snapshot section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/沈伯洋.md`\n**Finding:** `STRUCT_NO_IDENTITY`\n**Score:** 9.0 (inbound links: 2)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/沈伯洋.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Identity Snapshot section\n**Detail:** Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_IDENTITY\nPage type: people\nType weight: 1.5\nFinding weight: 3.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/沈伯洋.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "score": 9.0,
+      "target_path": "/home/leedt/echo-system/content/people/沈伯洋.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0017",
+      "title": "[MEDIUM] juliar-wang: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] juliar-wang: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/juliar-wang.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 7.5 (inbound links: 5)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/juliar-wang.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: people\nType weight: 1.5\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/juliar-wang.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 7.5,
+      "target_path": "/home/leedt/echo-system/content/people/juliar-wang.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0018",
+      "title": "[MEDIUM] 卓榮泰說: Add ## Identity Snapshot section",
+      "body": "## Task: [MEDIUM] 卓榮泰說: Add ## Identity Snapshot section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/卓榮泰說.md`\n**Finding:** `STRUCT_NO_IDENTITY`\n**Score:** 4.5 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/卓榮泰說.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Identity Snapshot section\n**Detail:** Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_IDENTITY\nPage type: people\nType weight: 1.5\nFinding weight: 3.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/卓榮泰說.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/卓榮泰說.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0019",
+      "title": "[MEDIUM] 李明哲: Add ## Identity Snapshot section",
+      "body": "## Task: [MEDIUM] 李明哲: Add ## Identity Snapshot section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/李明哲.md`\n**Finding:** `STRUCT_NO_IDENTITY`\n**Score:** 4.5 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/李明哲.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Identity Snapshot section\n**Detail:** Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_IDENTITY\nPage type: people\nType weight: 1.5\nFinding weight: 3.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/李明哲.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/李明哲.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0020",
+      "title": "[MEDIUM] 邱垂正: Add ## Identity Snapshot section",
+      "body": "## Task: [MEDIUM] 邱垂正: Add ## Identity Snapshot section\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `people/邱垂正.md`\n**Finding:** `STRUCT_NO_IDENTITY`\n**Score:** 4.5 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/邱垂正.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Add ## Identity Snapshot section\n**Detail:** Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: STRUCT_NO_IDENTITY\nPage type: people\nType weight: 1.5\nFinding weight: 3.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "people/邱垂正.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/people/邱垂正.md"
+    },
+    {
+      "card_id": "echo-gen-2026-10-14-0021",
+      "title": "[LOW] 李明哲: Expand the first paragraph to provide a meaningful summary of the page",
+      "body": "## Task: [LOW] 李明哲: Expand the first paragraph to provide a meaningful summary of the page\n\n**Priority:** low\n**Playbook:** P8\n**Page:** `people/李明哲.md`\n**Finding:** `DESC_TOO_SHORT`\n**Score:** 2.25 (inbound links: 1)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/people/李明哲.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-10-14 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Expand the first paragraph to provide a meaningful summary of the page\n**Detail:** First paragraph should be 50+ characters and mention the page subject. Add 1-2 sentences summarizing who/what this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_TOO_SHORT\nPage type: people\nType weight: 1.5\nFinding weight: 1.5",
+      "priority": "low",
+      "playbook": "P8",
+      "page": "people/李明哲.md",
+      "finding": "DESC_TOO_SHORT",
+      "score": 2.25,
+      "target_path": "/home/leedt/echo-system/content/people/李明哲.md"
+    }
+  ]
+}

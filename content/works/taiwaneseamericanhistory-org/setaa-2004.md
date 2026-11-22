@@ -1,0 +1,44 @@
+---
+title: "SETAA 2004"
+type: work
+source_id: taiwaneseamericanhistory-org
+value_band: B
+license: all-rights
+verification_status: pending
+last_reviewed: 2026-09-07
+---
+
+verified-saturation: 2026-10-13 (work-entity-linker: registry scan found no new entity links; 2 subject links already present)
+# SETAA 2004
+
+## Identity Snapshot
+- Era: 2019
+- Geography: Taiwanese America
+- Core roles: historical work (story; band B)
+- Source org: [[organizations/taiwaneseamericanhistory-org]]
+
+## Record
+- **Date:** 2019-08-15
+- **Byline:** —
+- **Original:** [https://taiwaneseamericanhistory.org/setaa-2004/](https://taiwaneseamericanhistory.org/setaa-2004/)
+- **Value band:** B (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
+- **License:** all-rights
+
+## Article
+Cited from the original ([source](https://taiwaneseamericanhistory.org/setaa-2004/)). Echopedia holds this as community historical record.
+
+_Bibliographic record only. Full text stays in the vault._
+
+
+## Timeline
+- 2019-08-15 — published
+
+## Subjects
+- [[people/richard-wang|Richard Wang]] — listed as 講員, 「第二代成功案例 (The emerging leadership of Taiwanese American 2nd generation)」 (roster names no hanzi; identification alleged — see [[sources/tah-whoswho-richard-wang-capture|capture]])
+- (other named subjects pending absorb)
+- [[people/richard-wang.md|Richard Wang]] — mentioned in this record
+
+## Related Pages
+- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamericanhistory-org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus|Source hub]]

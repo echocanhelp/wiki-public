@@ -71,8 +71,7 @@ Do you have a…
 
 ### Media stack / LLM UP–DOWN (pinto)
 
-**Full how-to (best utilization):** [`~/ai-services/media-stack/docs/USER_GUIDE.md`](../../ai-services/media-stack/docs/USER_GUIDE.md)  
-Orchestrator: `~/ai-services/media-stack/orchestrator/` · Policy: **force UP on reboot** (starts `llm_up.unit` from `pinto-llm-mode.json`; today `qwen38-flash-next-tf.service` = `universal` on `:8888`. AutoRound unit is installed + disabled, not the boot target). Hard = agent off (no Lightning). Ornith / DSV4 / Laguna / Qwen-NVFP4 are **deleted** — no unit files, no weights, not rollback targets. `:8890` is masked, stays down.
+**RETIRED 2026-11-11:** the media stack (`~/ai-services/media-stack/`, its `USER_GUIDE.md`, orchestrator, vision/LTX weights) was deleted on operator order — rebuild is a future project. LLM control now lives in systemd units + `~/.hermes/profiles/pinto/scripts/llm-lease.sh`; procedures in skills `media-model-ops` / `ops-doctrine`. Policy unchanged: **force UP on reboot** (`llm_up.unit` from `pinto-llm-mode.json`; `qwen38-flash-next-tf.service` = `universal` on `:8888`). Ornith / DSV4 / Laguna / Qwen-NVFP4 / media stack are **deleted** — no unit files, no weights, not rollback targets. `:8890` is masked, stays down.
 
 | You say | What happens |
 |---------|----------------|

@@ -82,9 +82,34 @@ def render(kind: str, heading: str, blurb: str, rows: list[dict]) -> str:
     letters = [c for c in "ABCDEFGHIJKLMNOPQRSTUVWXYZ" if c in by]
     if "#" in by:
         letters.append("#")
+    # pinto 2026-10-31: mobile perf cap (Echo LINE explorer-hang report). Hub HTML
+    # is server-rendered; unbounded A–Z dumps (12k li / 2.9MB) hang Edge/Android.
+    # Cap per letter, then overall; note tells readers to use search.
+    LETTER_CAP = 200
+    TOTAL_CAP = 1500
+    total = 0
+    capped_letters: list[str] = []
+    for c in letters:
+        by[c].sort(key=lambda x: x["title"].casefold())
+        if len(by[c]) > LETTER_CAP:
+            by[c] = by[c][:LETTER_CAP]
+            capped_letters.append(c)
+        if total + len(by[c]) > TOTAL_CAP:
+            by[c] = by[c][: max(0, TOTAL_CAP - total)]
+            if by[c]:
+                capped_letters.append(c)
+        total += len(by[c])
+    listed = sum(len(v) for v in by.values())
+    cap_note = (
+        f"\n*Showing first {listed} of {len(rows)} entries (A–Z order) — use header **search** "
+        "for any name not listed.*\n"
+        if listed < len(rows)
+        else ""
+    )
     az = " · ".join(
         f"[{('#' if c == '#' else c)}](#{'other' if c == '#' else c.lower()})"
         for c in letters
+        if by[c]
     )
     parts = [
         "---",
@@ -102,16 +127,19 @@ def render(kind: str, heading: str, blurb: str, rows: list[dict]) -> str:
         "",
         "On a phone, **use header search** (漢名 or English). This page is an A–Z list.",
         "",
+        cap_note,
         "## Directory",
         "",
         az,
         "",
     ]
     for c in letters:
+        if not by[c]:
+            continue
         hid = "other" if c == "#" else c.lower()
         parts.append(f"### {c} {{#{hid}}}")
         parts.append("")
-        for r in sorted(by[c], key=lambda x: x["title"].casefold()):
+        for r in by[c]:
             # Full wikilink [[kind/slug|title]] — Quartz resolves from any depth
             # under /wiki-public/. Relative ./slug becomes ../slug (Quartz
             # pathToRoot) and 404s; full wikilink is the proven fix (works/).

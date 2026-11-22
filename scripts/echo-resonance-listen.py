@@ -15,7 +15,7 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-UA = "Echopedia-listen/1.1 (TAHS; +https://echocanhelp.github.io/wiki-public/)"
+UA = "Echopedia-listen/1.1 (TAHS; +https://echopedia.tah-society.org/)"
 ASSET = "https://r2-assets.moedict.tw/audio/{lang}/{aid}.mp3"
 API = "https://www.moedict.tw/{lang}/{word}.json"
 

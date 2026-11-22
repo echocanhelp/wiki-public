@@ -56,11 +56,45 @@ last_reviewed: 2026-11-06
 
 ## Network
 
-- **休士頓僑界樂團/合唱團:** 休斯頓中華民樂團（特邀指揮）；樂友合唱團（帶領人）；因為音樂合唱团 CAMA Chorus（歷屆指揮之一）；海華音樂會（多次指揮）；休士頓聯合合唱團（2025 發起人）
-- **Community:** Houston Chinese arts community；休士頓佛教會（佛曲傳唱圈）
-- **Event:** [[organizations/tzu-chi-usa-southern-region||Tzu Chi USA Southern Region]] charity concert
-- **Co-performers (2026 Houston):** [[people/hsu-ching-chun||Christine Hsu (許景淳)]], [[people/ric-jan||Ric Jan (荒山亮)]], [[people/kana-mimaki||Kana Mimaki (三牧可奈)]], [[people/swee-koh||Swee Koh (許瑞慶)]]
-- **Frequent collaborator:** [[people/swee-koh||許瑞慶]]（二胡，多次同一節目單）
+Pages that link to **eddy-ji-xiao** (eddy-ji-xiao):
+
+
+### People (7)
+
+1. [[people/index|index]]
+2. [[people/kana-mimaki|kana-mimaki]]
+3. [[people/ric-jan|ric-jan]]
+4. [[people/ric-jan|ric-jan]]
+5. [[people/swee-koh|swee-koh]]
+6. [[people/swee-koh|swee-koh]]
+7. [[people/swee-koh|swee-koh]]
+
+### Organizations (5)
+
+1. [[organizations/houston-chinese-traditional-music-group|houston-chinese-traditional-music-group]]
+2. [[organizations/houston-chinese-traditional-music-group|houston-chinese-traditional-music-group]]
+3. [[organizations/houston-chinese-traditional-music-group|houston-chinese-traditional-music-group]]
+4. [[organizations/houston-chinese-traditional-music-group|houston-chinese-traditional-music-group]]
+5. [[organizations/tzu-chi-usa-southern-region|tzu-chi-usa-southern-region]]
+
+### Sources (12)
+
+1. [[sources/hctmg-swee-koh-ji-xiao|hctmg-swee-koh-ji-xiao]]
+2. [[sources/hctmg-swee-koh-ji-xiao|hctmg-swee-koh-ji-xiao]]
+3. [[sources/hctmg-swee-koh-ji-xiao|hctmg-swee-koh-ji-xiao]]
+4. [[sources/hctmg-swee-koh-ji-xiao|hctmg-swee-koh-ji-xiao]]
+5. [[sources/hctmg-swee-koh-ji-xiao|hctmg-swee-koh-ji-xiao]]
+6. [[sources/hctmg-swee-koh-ji-xiao|hctmg-swee-koh-ji-xiao]]
+7. [[sources/tzuchi-us|tzuchi-us]]
+8. [[sources/udn-writers-society-xiao-ji|udn-writers-society-xiao-ji]]
+9. [[sources/udn-writers-society-xiao-ji|udn-writers-society-xiao-ji]]
+10. [[sources/udn-writers-society-xiao-ji|udn-writers-society-xiao-ji]]
+11. [[sources/udn-writers-society-xiao-ji|udn-writers-society-xiao-ji]]
+12. [[sources/udn-writers-society-xiao-ji|udn-writers-society-xiao-ji]]
+
+### Other (1)
+
+1. [[events/tzuchi-us-event-2026-southern-region-charity-concert|tzuchi-us-event-2026-southern-region-charity-concert]]
 
 ## Quotes
 

@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Electronic Music Midwest Festival</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="https://emmfestival.org/vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
+  <link href="https://emmfestival.org/fontawesome/css/fontawesome.css" rel="stylesheet">
+  <link href="https://emmfestival.org/fontawesome/css/brands.css" rel="stylesheet">
+  <link href="https://emmfestival.org/fontawesome/css/solid.css" rel="stylesheet">
+
+
+  <!-- Custom styles for this template -->
+  <link href="https://emmfestival.org/css/mainStyle.css" rel="stylesheet">
+
+
+
+
+<style>
+/* CSS Document */
+/* Standard CSS for static Category (Opportunity) pages */
+/*
+/* Available Elements
+<div id="ma_category_name"></div>
+<div id="ma_category_content"></div>
+<div id="ma_category_displayDeadline"></div>
+<div id="ma_category_type"></div>
+<div id="ma_category_receiptType"></div>
+<div id="ma_category_fee"></div>
+<div id="ma_category_prize"></div>
+<div id="ma_category_openTo"></div>
+<div id="ma_category_categoryID">30024</div>
+*/
+
+.NME_categoryStubWrap { /* Wrapper for Opportunity Stub */
+	margin:auto;
+	overflow: hidden;
+	width: 90%;
+	}
+	
+.NME_categoryImageCol{	/* Column for the Image	*/
+ width: 90%;
+ padding: 5px;
+ text-align: center;
+}
+
+.NME_categoryStubWrapCols {
+	width: 100%;
+	overflow: hidden;
+}
+
+.NME_categoryStubElementCol	{ /* Column for element labels (e.g., "Deadline") */
+		float: left;
+		width: 35%;	
+		padding: 5px;
+		text-align: right;
+	}
+
+.NME_categoryStubDataCol	{ /* Column for the elements */
+		float: left;
+		width: 60%;	
+		padding: 5px;	
+	}			
+
+.NME_category_nameClass { /* class for the Title of the Opportunity */
+	text-align:center;
+	color: rgba(153, 26, 41, 1);
+	font-size: 175%;
+	margin: 15px 0px 10px 0px;
+	line-height: 120%;	
+}
+
+.NME_category_ElementLabels { /*For static elements like "deadline, etc..."*/
+	color: rgba(81, 126, 214, 1);
+	text-align:right;
+	padding-right: 5px;	
+	font-weight: bold;
+}
+
+.NME_category_headerClass { /* class for the "Submission Guidelines" */
+	color: rgba(153, 26, 41, 1);	
+	font-size: 125%;
+	margin: 15px 0px 10px 0px;
+	line-height: 120%;	
+	margin-left: 15%;
+}
+	
+.NME_category_stubClass { /* class for the Stub Elements (e.g., Prize, Deadline, etc...) */
+	color: #3a445d;	
+}
+	.NME_category_stubClass::after { 
+    content: "\00a0";		/*adds a space in case an ID element is empty */
+	}
+
+.NME_category_imageClass { 
+max-width: 240px;
+width: 95%;
+padding: 5px;	
+}
+
+.NME_category_ElementContentDivider { /* Space between Opportunity Stub and Submission Content */
+	clear:left; 
+	margin-top: 20px;	
+	}
+
+.NME_category_contentClass { /* class for submission guidelines/main content of opportunity */
+	display:inline-block;
+	color: rgba(29, 44, 77, 1);
+	margin-left: 15%;
+}
+
+.NME_submissionList { /* class to accepted submissions */
+	overflow: hidden;
+}
+
+
+ @media only screen and (max-width:1000px) { 
+ .NME_categoryStubWrap { /* Wrapper for Opportunity Stub */
+	margin:auto;
+	overflow: hidden;
+	width: 100%;
+	max-width: 700px;
+	} 
+	
+.NME_categoryStubElementCol	{ /* Column for element labels (e.g., "Deadline") */
+		float: left;
+		width: 35%;	
+		padding: 5px;
+		max-width: 150px;
+		text-align: right;	
+	}
+
+.NME_categoryStubDataCol	{ /* Column for the elements */
+		float: left;
+		width: 60%;	
+		padding: 5px;
+		max-width: 500px;	
+	}
+
+
+
+
+	
+.NME_button	{ /* Button styling */
+		border: 1px solid #000;	
+		padding: 100px;
+		background-color: #3a445d;
+		color: #fff;
+	}	
+
+</style>
+
+
+
+</head>
+<body>
+
+  
+  <!-- Navigation -->
+
+  <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary fixed-top">
+  
+    <div class="container">
+
+      <a class="navbar-brand" href="https://emmfestival.org/index.php"><img src="https://emmfestival.org/img/emm_logo_animated.gif" width="200"></a>
+     
+     
+     
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span> 
+      </button>
+    
+      
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="https://emmfestival.org/concerts.php">Festival Schedule</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://emmfestival.org/submit.php">Submit</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://emmfestival.org/travel.php">Travel</a>
+          </li>
+          
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              About
+            </a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
+              <a class="dropdown-item" href="https://emmfestival.org/staff.php">Staff</a>
+              <a class="dropdown-item" href="https://emmfestival.org/archives.php">Archives</a>
+             <!-- <a class="dropdown-item" href="images.html">Images</a> -->
+              <a class="dropdown-item" href="mailto:&#109;&#105;&#107;&#101;&#064;&#101;&#109;&#109;&#102;&#101;&#115;&#116;&#105;&#118;&#097;&#108;&#046;&#111;&#114;&#103;">Contact</a>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  
+  
+  
+
+  <!-- Page Content -->
+  <div class="container">
+
+    <!-- Page Heading/Breadcrumbs -->
+   <h1 class="mt-4 mb-3">404
+      <small>Page Not Found</small>
+    </h1>
+
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item">
+        <a href="index.html">Home</a>
+      </li>
+      <li class="breadcrumb-item active">Error 404</li>
+    </ol>
+
+    <!-- Image Header -->
+    <img class="img-fluid rounded mb-4" src="img/errors.jpg" alt="">
+    
+    <div class="jumbotron">
+      <h1 class="display-1">404</h1>
+      <p>The page you're looking for could not be found.</p>
+    </div>
+    <!-- /.jumbotron --> 
+    
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  </div>
+  <!-- /.container -->
+
+
+
+
+  <!-- Footer -->
+  <footer class="py-5 bg-dark">
+    <div class="container">
+      <p class="m-0 text-right text-light">&copy; 2019 Electronic Music Midwest</p>
+    </div>
+    <!-- /.container -->
+  </footer>
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>

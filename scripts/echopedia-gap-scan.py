@@ -22,7 +22,7 @@ import argparse, json, os, re, time, urllib.request, urllib.error
 from urllib.parse import quote
 from concurrent.futures import ThreadPoolExecutor
 
-SITE = "https://echocanhelp.github.io/wiki-public"
+SITE = "https://echopedia.tah-society.org"
 
 UA = {"User-Agent": "Mozilla/5.0 (gap-audit)"}
 
@@ -193,7 +193,7 @@ def main():
         def cdx(g):
             rel = g["path"][len("/wiki-public"):]
             st, body = get("http://web.archive.org/cdx/search/cdx?url="
-                           + quote("echocanhelp.github.io/wiki-public" + rel)
+                           + quote("echopedia.tah-society.org" + rel)
                            + "&output=json&limit=1&filter=statuscode:200")
             if st == 200 and body.strip().startswith("["):
                 g["tier"] += "+was200"

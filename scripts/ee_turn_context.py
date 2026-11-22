@@ -11,6 +11,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from ee_card_pack import pack
 from ee_identity_hint import hint
+from ee_identity_decision import mark_pending, resolve_pending
 from ee_mission_steer import steer
 from ee_name_clarify import clarify, render as render_clarify
 from ee_vault_retrieve import pack_context
@@ -108,6 +109,9 @@ def route(*, text: str, display_name: str = "", line_user_id: str = "", voice: b
     match = ident.get("match")
     title = ident.get("title") or ""
     slug = ident.get("slug") or ""
+    locked = resolve_pending(text=text, line_user_id=line_user_id)
+    if locked and (locked.get("text") or "").strip():
+        return {"action": "greet", "text": locked["text"].strip(), "identity": {"match": locked.get("action"), "slug": locked.get("slug")}}
     ctx = pack_context(text=text, teller_slug=slug)
     teller = ctx.get("teller") or {}
     if not title and teller.get("title"):
@@ -122,9 +126,11 @@ def route(*, text: str, display_name: str = "", line_user_id: str = "", voice: b
         if zh:
             bits = ["早。我是 Echo 歲月有聲，台美人歷史協會的史家。Echopedia 是我的第二大腦。"]
             if match == "proposed":
-                bits.append(f"Echopedia 有「{title}」這頁，是你嗎？")
+                bits.append(f"Echopedia 有「{title}」這頁，是你嗎？若只是同名，回「不確定」，或給父母的名字、教會，或一個年份。")
             elif match == "linked":
                 bits.append(f"Echopedia 有你這頁「{title}」。")
+            elif match == "similar":
+                bits.append("同名不只一頁。我先不猜。請給父母的名字、教會，或一個年份。")
             else:
                 bits.append("想從哪一段說起？")
             bits.extend(_cite_lines(self_card)[1:])
@@ -135,12 +141,19 @@ def route(*, text: str, display_name: str = "", line_user_id: str = "", voice: b
             if match == "linked":
                 bits.append(f"Echopedia already has you as {title}.")
             elif match == "proposed":
-                bits.append(f"LINE shows {who or 'your name'}. Echopedia has {title}. Is that you?")
+                bits.append(
+                    f"LINE shows {who or 'your name'}. Echopedia has {title}. Is that you? "
+                    "If the name is only similar, say not sure, or send a parent's name, a church, or a year."
+                )
+            elif match == "similar":
+                bits.append("More than one page matches that name. I will not guess. Send a parent's name, a church, or a year.")
             else:
                 bits.append("I listen and keep Taiwanese American memory here. What would you like to tell?")
             bits.extend(_cite_lines(self_card)[1:])
             if match in ("linked", "proposed"):
                 bits.append("Want to add to that page, or start somewhere else?")
+        if match == "proposed" and ident.get("confirm") and slug:
+            mark_pending(line_user_id=line_user_id, slug=slug, title=title)
         return {"action": "greet", "text": " ".join(b for b in bits if b), "identity": ident}
 
     card = pack(name=t)
@@ -168,6 +181,8 @@ def route(*, text: str, display_name: str = "", line_user_id: str = "", voice: b
         "(tag page_conflict, do not lecture). One short reply. Charm one detail. "
         "Never recite phone, email, address, EIN, or LINE ids. "
         "No profile-build, no /help. "
+        "What they send may be published. Do not promise privacy. "
+        "If they explicitly ask to keep a part private, acknowledge that request in this reply. "
     )
     if match != "none":
         preamble += f"Identity {match}: {title}. "

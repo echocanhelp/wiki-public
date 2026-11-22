@@ -14,7 +14,7 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 On a phone, **use header search** (漢名 or English). This page is an A–Z list.
 
 
-*Showing first 1500 of 2472 entries (A–Z order) — use header **search** for any name not listed.*
+*Showing first 1500 of 2478 entries (A–Z order) — use header **search** for any name not listed.*
 
 ## Directory
 
@@ -120,6 +120,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/bob-in-yu-yang|Bob In-Yu Yang (楊英育)]]
 [[people/bob-j-wu|Bob J. Wu (吳瑞椿)]]
 [[people/bob-lin|Bob Lin (林志文)]]
+[[people/bob-yang|Bob Yang (楊英育)]]
 [[people/bonnie-yang|Bonnie Yang (陳佳芬)]]
 [[people/borcheng-hsu|BorCheng Hsu (許伯丞)]]
 [[people/brian-hioe|Brian Hioe (丘琦欣)]]
@@ -1095,6 +1096,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/keng-wei-william-kuo|Keng-Wei William Kuo (郭耿維)]]
 [[people/keng-yuen-tseng|Keng-Yuen Tseng (曾耿元)]]
 [[people/kenji-c-liu|Kenji C. Liu]]
+[[people/kenjohn-wang|Kenjohn Wang (王桂榮)]]
 [[people/kenneth-c-liao|Kenneth C. Liao]]
 [[people/kenneth-chang|Kenneth Chang (張學賢)]]
 [[people/kenneth-fu|Kenneth Fu]]
@@ -1247,6 +1249,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/mao-ching-david-huang|Mao-ching David Huang (黃茂清)]]
 [[people/mao-chung-lee|MAO-CHUNG LEE (李茂宗)]]
 [[people/mao-sheng-chen|Mao-Sheng Chen (陳茂生)]]
+[[people/mao-sheng-lin|Mao-sheng Lin (林茂生)]]
 [[people/mao-shiu-lin|Mao-Shiu Lin (林茂修)]]
 [[people/marcy-leroy-ditmanson|Marcy Leroy Ditmanson (戴德森醫師)]]
 [[people/margaret-liu|Margaret Liu (林美華)]]
@@ -1342,6 +1345,7 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/ming-liang-chi|Ming-Liang Chi (溫明亮)]]
 [[people/ming-shing-lee|Ming-Shing Lee (李明星)]]
 [[people/ming-yen-hsu|Ming-Yen Hsu (許明彥醫師)]]
+[[people/mingchi-wu|Mingchi Wu (吳明基)]]
 [[people/mingkong-chen|Mingkong Chen]]
 [[people/minlu-chai|Minlu Chai (蔡銘祿)]]
 [[people/miriam-liu-wu|Miriam Liu Wu (劉逸青)]]
@@ -1563,7 +1567,3 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/prof-luh-maan-chang|Prof. Luh-Maan Chang (張陸滿教授)]]
 [[people/prof-lung-chi-chen|Prof. Lung-Chi Chen (陳隆志教授)]]
 [[people/prof-m-s-wang|Prof. M. S. Wang (王孟心教授)]]
-[[people/prof-margaret-shih|Prof. Margaret Shih (施華維教授)]]
-[[people/maw-kuen-wu|Prof. Maw-Kuen Wu (吳茂昆教授)]]
-[[people/prof-mei-chu-wang-hsiao|Prof. Mei-Chu Wang Hsiao (王美珠教授)]]
-[[people/prof-michi-fu|Prof. Michi Fu]]

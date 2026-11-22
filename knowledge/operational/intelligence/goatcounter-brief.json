@@ -1,13 +1,13 @@
 {
-  "at": "2026-11-04T16:30:57Z",
+  "at": "2026-11-21T16:32:00Z",
   "cutoff": "2026-08-21T19:22:14Z",
   "ok": true,
-  "visits_since_cutoff": 262,
-  "yesterday_pdt": "2026-11-03",
-  "yesterday_visits": 4,
+  "visits_since_cutoff": 377,
+  "yesterday_pdt": "2026-11-20",
+  "yesterday_visits": 11,
   "top": [
     {
-      "count": 23,
+      "count": 38,
       "path": "/",
       "title": "Echopedia"
     },
@@ -18,6 +18,11 @@
     },
     {
       "count": 16,
+      "path": "/landing",
+      "title": "Taiwanese American Historical Society \u53f0\u7f8e\u4eba\u6b77\u53f2\u5354\u6703"
+    },
+    {
+      "count": 16,
       "path": "/wiki-public/people/gwhyneth-chen",
       "title": "Gwhyneth Chen (\u9673\u6bd3\u8944)"
     },
@@ -25,11 +30,6 @@
       "count": 13,
       "path": "/wiki-public/people/albert-en-sku-a-scratch-review",
       "title": "Albert EN SKU A audiobook scratch \u2014 full book review"
-    },
-    {
-      "count": 10,
-      "path": "/wiki-public/people/albert-zh-sku-b-publisher-review",
-      "title": "Not Found"
     }
   ],
   "error": null

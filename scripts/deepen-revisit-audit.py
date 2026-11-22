@@ -2,7 +2,7 @@
 """Revisit audit: pages deepened by the swarm (last_reviewed 2026-09-06..) that
 have corpus mentions in works/articles but ZERO wikilinks into the corpus.
 Those are the gwhyneth-class misses: deepened, but mission layer missed."""
-import os, re, glob, subprocess
+import json, os, re, glob, subprocess
 from pathlib import Path
 REPO = Path('/home/leedt/echo-system')
 os.chdir(REPO)
@@ -73,3 +73,14 @@ print(f'skipped-unchanged (hit-set hash already in page note): {len(skipped_unch
 print('top 15 by mention count (mentions, path, bytes, hits-hash to record in page note):')
 for h, p, s, d in flagged[:15]:
     print(f'  {h:3d}  {s:6d}B  {p}  hash={d}')
+
+# WRITE THE SOURCE (root cause of DEEPEN-R dormancy 2026-11-19: the audit
+# printed but never persisted revisit-flagged.json, so deepen-r-build.py —
+# "Dormant builder (last run 09-14)" — had a stale 11-06 file to consume).
+# deepen-r-build reads a list of page paths, sorted desc by mentions.
+_out = REPO / 'knowledge/operational/revisit-flagged.json'
+_tmp = _out.with_suffix('.json.tmp')
+_tmp.write_text(json.dumps([p for _h, p, _s, _d in flagged], ensure_ascii=False,
+                           indent=1))
+_tmp.replace(_out)
+print(f'WROTE {_out.relative_to(REPO)} rows={len(flagged)}', flush=True)

@@ -1,0 +1,2167 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head prefix='og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#'>
+<meta charset="utf-8">
+<!-- 提前建立 CDN 連線：cdnjs 載 Font Awesome CSS（no-cors）與字型檔（cors，需 crossorigin 各一條）、unpkg 載 htmx（integrity → cors）、jsdelivr 載 Alpine -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com">
+<link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+<link rel="preconnect" href="https://unpkg.com" crossorigin>
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://connect.facebook.net">
+
+<script>window.dataLayer=window.dataLayer||[];if(typeof window.gtag!=='function'){window.gtag=function(){dataLayer.push(arguments)}}</script>
+<script>
+window.oaiqMeasure=function(name,data,options){try{
+if(typeof window.oaiq!=='function')return;
+var twd=function(v){return Math.round((Number(v)||0)*100)};
+data=data||{};var payload={type:'contents'};
+if(data.amount!=null){payload.amount=twd(data.amount);payload.currency='TWD'}
+if(data.contents){payload.contents=data.contents.map(function(c){var item={id:String(c.id),content_type:'product'};
+if(c.name)item.name=String(c.name);if(c.quantity!=null)item.quantity=parseInt(c.quantity,10)||1;
+if(c.amount!=null){item.amount=twd(c.amount);item.currency='TWD'}return item})}
+window.oaiq('measure',name,payload,options||{});
+}catch(e){}};
+</script>
+<script>!function(w,d,s,u){if(w.oaiq)return;var q=function(){q.q.push(arguments)};q.q=[];w.oaiq=q;var j=d.createElement(s);j.async=1;j.src=u;var f=d.getElementsByTagName(s)[0];f.parentNode.insertBefore(j,f)}(window,document,"script","https://bzrcdn.openai.com/sdk/oaiq.min.js");oaiq("init",{pixelId:"B7FxprtYje98UJheP1VaxQ"});oaiqMeasure("page_viewed");</script>
+
+
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '3884133101845960');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=3884133101845960&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XP6FT25DL0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XP6FT25DL0');
+  gtag('config', 'AW-977064106');
+</script>
+
+<!--Google Search sitelink -->
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org",
+   "@type": "WebSite",
+   "@id": "https://digilog.tw/#website",
+   "name": "DigiLog 聲響實驗室",
+   "url": "https://digilog.tw",
+   "inLanguage": "zh-Hant",
+   "publisher": { "@id": "https://digilog.tw/#organization" },
+   "potentialAction": {
+     "@type": "SearchAction",
+     "target": "https://digilog.tw/search?query={search_term_string}",
+     "query-input": "required name=search_term_string"
+   }
+}
+</script>
+
+<!-- Organization JSON-LD Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["Organization", "Store"],
+  "@id": "https://digilog.tw/#organization",
+  "name": "DigiLog 聲響實驗室",
+  "url": "https://digilog.tw",
+  "logo": "https://digilog.tw/assets/logo_icon-61ad9092f7821722718b1034525494471bfb1eef14faa3552eb35941a5c7976a.png",
+  "image": "https://digilog.tw/assets/logo_icon-61ad9092f7821722718b1034525494471bfb1eef14faa3552eb35941a5c7976a.png",
+  "foundingDate": "2011",
+  "priceRange": "$$",
+  "description": "DigiLog 聲響實驗室自 2011 年起專營錄音介面、MIDI 鍵盤、合成器、監聽喇叭、麥克風等專業音樂科技器材。滿 NT$3,000 免運、7 天鑑賞期、1 年保固，台灣音樂創作者首選。",
+  "telephone": "+886-2-23638171",
+  "email": "service@digilog.tw",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+886-2-23638171",
+    "email": "service@digilog.tw",
+    "contactType": "customer service",
+    "availableLanguage": ["zh-Hant", "en"],
+    "areaServed": "TW"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "羅斯福路三段244巷2弄2-1號2樓",
+    "addressLocality": "中正區",
+    "addressRegion": "台北市",
+    "postalCode": "100",
+    "addressCountry": "TW"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.016924,
+    "longitude": 121.529700
+  },
+  "hasMap": "https://maps.google.com/?cid=11041443341859211682",
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+      "opens": "11:00",
+      "closes": "18:30"
+    }
+  ],
+  "currenciesAccepted": "TWD",
+  "sameAs": [
+    "https://facebook.com/digilog.tw",
+    "https://instagram.com/digilog.tw/",
+    "https://www.youtube.com/channel/UCMl1PUdzg9QQP-hfQqEQF1A",
+    "https://line.me/R/ti/p/%40digilog"
+  ]
+}
+</script>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="kA72bX2yZkC6elsxg8Ow-AMmaRVTliaJPLDo_tFVMEob6qvEZYfjFMtQEWqE1b86C6sVUrOFgm1Ed_LUT4YoEg" />
+  <title>現代鋼琴與電腦音樂的交集 台灣鋼琴家丁曉雯 x PD 之父 Miller Puckette - DigiLog 聲響實驗室</title>
+<meta name="description" content="科技跟音樂之間，總是有許多微妙的連結，雖然音樂經常被屬於文化層面或情感的表現上，但是在製作音樂軟體、使用程式編譯音樂、玩合成器等項目時，就會運用大量的數學與電子相關知識，而台灣鋼琴家丁曉雯 (Shia-uen Ding) 以鋼琴為主要發聲樂器與 Pd (">
+<meta name="keywords" content="digilog, 數位音樂, 麥克風, 錄音介面, 混音機, 合成器, 數位編曲, 監聽喇叭, midi鍵盤">
+<link rel="canonical" href="https://digilog.tw/posts/1136">
+<meta property="og:image" content="https://digilog.tw/uploads/post/cover/1136/_____1.jpg">
+<meta property="og:image:alt" content="現代鋼琴與電腦音樂的交集 台灣鋼琴家丁曉雯 x PD 之父 Miller Puckette ">
+<meta property="og:type" content="article">
+<meta property="og:title" content="現代鋼琴與電腦音樂的交集 台灣鋼琴家丁曉雯 x PD 之父 Miller Puckette  | DigiLog 聲響實驗室">
+<meta property="og:description" content="科技跟音樂之間，總是有許多微妙的連結，雖然音樂經常被屬於文化層面或情感的表現上，但是在製作音樂軟體、使用程式編譯音樂、玩合成器等項目時，就會運用大量的數學與電子相關知識，而台灣鋼琴家丁曉雯 (Shia-uen Ding) 以鋼琴為主要發聲樂器與 Pd (">
+<meta property="og:url" content="https://digilog.tw/posts/1136">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="現代鋼琴與電腦音樂的交集 台灣鋼琴家丁曉雯 x PD 之父 Miller Puckette  | DigiLog 聲響實驗室">
+<meta name="twitter:description" content="科技跟音樂之間，總是有許多微妙的連結，雖然音樂經常被屬於文化層面或情感的表現上，但是在製作音樂軟體、使用程式編譯音樂、玩合成器等項目時，就會運用大量的數學與電子相關知識，而台灣鋼琴家丁曉雯 (Shia-uen Ding) 以鋼琴為主要發聲樂器與 Pd (">
+<meta name="twitter:image" content="https://digilog.tw/uploads/post/cover/1136/_____1.jpg">
+<meta name="twitter:image:alt" content="現代鋼琴與電腦音樂的交集 台灣鋼琴家丁曉雯 x PD 之父 Miller Puckette ">
+<meta property="article:author" content="https://www.facebook.com/digilog.tw/">
+<meta property="article:publisher" content="https://www.facebook.com/digilog.tw/">
+<meta property="article:section" content="精選文章">
+<meta property="article:tag" content="DigiLog">
+<meta property="article:tag" content="現代鋼琴與電腦音樂的交集 台灣鋼琴家丁曉雯 x PD 之父 Miller Puckette ">
+<meta property="article:tag" content="聲響實驗室">
+<meta property="article:published_time" content="2018-10-26T17:05:19+08:00">
+<meta property="article:modified_time" content="2018-10-29T12:22:40+08:00">
+
+  <link rel="icon" type="image/x-icon" href="https://digilog.tw/assets/favicon-b320e60a8ae1958ce6d7c2eb687763441070eeeef7686b35ff5141ae3de22ab0.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
+  <meta name="msvalidate.01" content="592BE3E3B231B1AFA68E7297EFEDED40" />
+
+  <meta content="DigiLog 聲響實驗室" name="application-name" />
+	<meta name="facebook-domain-verification" content="d0rccol9nngbimx4nspq89qzmq8so8" />
+  <meta content="@DigiLogTW" name="twitter:site" />
+  <meta content="DigiLog 聲響實驗室" property="og:site_name" />
+  <meta content="zh_TW" property="og:locale" />
+  <meta content="en_US" property="og:locale:alternate" />
+  <meta content='4297628973624349' property='fb:app_id'>
+  <meta content='100000642393317' property='fb:admins'>
+  <meta property="fb:pages" content="182033035146508" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  
+  <!-- Hreflang tags for language versions (canonical 由 display_meta_tags 輸出) -->
+  <link rel="alternate" hreflang="zh-TW" href="https://digilog.tw/posts/1136" />
+  <link rel="alternate" hreflang="x-default" href="https://digilog.tw/posts/1136" />
+  
+  <!-- Popper.js 1.16.1（Bootstrap 4 依賴）已 vendor 進 application.js bundle，不再從 CDN 同步載入 -->
+
+  <!-- Font Awesome 5（非阻塞載入：先以 print media 載入，onload 後切回 all，避免阻塞首屏渲染） -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"></noscript>
+
+  <script defer src="https://unpkg.com/htmx.org@1.9.6"
+                integrity="sha384-FhXw7b6AlE/jyjlZH5iHa/tTe9EpJ1Y55RjcgPbjeWMskSxZt1v9qkxLJWNJaGni"
+                crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.13.1/dist/cdn.min.js"></script>
+
+  <link rel="stylesheet" href="https://digilog.tw/assets/application-37ba40106b0b5bd93f3300dcca9b96cf1404037fb9e3c9f75e13551d91cbca2c.css" media="all" data-turbolinks-track="false" />
+
+  <script type="text/javascript">
+  window.I18n = window.I18n || {};
+  window.I18n.locale = 'zh-TW';
+  window.I18n.translations = {"alerts":{"not_rated":"尚未評分!","no_content":"未填寫內容!"},"shopping_cart":{"checkout":"結帳","remove":"移除","empty_cart":"購物車沒有任何商品","not_logged_in":"您尚未登入","network_error":"對不起, 網路發生異常, 請再試一次","refreshing":"重新整理中...","empty_cart_reason":"(購物車內無商品)","delete_failed":"刪除失敗!!","update_failed":"修改失敗!!","status_update_failed":"修改狀態失敗!!","discount_cancel_success":"取消成功","discount_expired":"這個優惠券代碼已過期","discount_not_yet":"這個優惠券代碼還無法使用","discount_used":"這個優惠券代碼已被使用過","discount_not_enough":"未達優惠券使用金額","discount_invalid":"沒有這個優惠券代碼, 或這個優惠券代碼失效"},"buttons":{"processing":"正在執行","saved":"已加入！","add_to_cart":"加入購物車"},"confirm":{"delete_address":"確定要刪除「%{name}」的地址嗎？"},"product":{"out_of_stock":"補貨中","error_retry":"發生錯誤，請重試"},"address":{"delete_failed":"刪除失敗，請重新整理頁面後再試","save_failed":"儲存失敗，請重新整理頁面後再試","fill_required":"請填寫所有必填欄位","fill_field":"請填寫%{field}","select_field":"請選擇%{field}","invalid_email":"Email 格式不正確，請確認是否有漏字或多字","invalid_phone":"電話格式不正確，請填手機號碼（例：0912345678），不要加分機","fill_pickup_info":"請填寫取貨人姓名和電話","incomplete_form":"未填寫完成","select_state":"-- 選擇縣市 --","select_city":"-- 選擇區域 --","state_placeholder":"縣/市","city_placeholder":"區/鄉/鎮","post_code_optional":"郵遞區號（選填）"}};
+  
+  window.I18n.t = function(key, options) {
+    options = options || {};
+    var keys = key.replace('javascript.', '').split('.');
+    var translation = this.translations;
+    
+    for (var i = 0; i < keys.length; i++) {
+      if (translation && translation[keys[i]]) {
+        translation = translation[keys[i]];
+      } else {
+        return key;
+      }
+    }
+    
+    if (typeof translation === 'string') {
+      for (var variable in options) {
+        translation = translation.replace('%{' + variable + '}', options[variable]);
+      }
+    }
+    
+    return translation;
+  };
+</script>
+  <script src="https://digilog.tw/assets/application-fbeb6ee23dfc49a6ce1b6e612ba65e65f6f5357f3d720cb76296e5d0271dd139.js" data-turbolinks-track="false"></script>
+
+
+  
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","headline":"現代鋼琴與電腦音樂的交集 台灣鋼琴家丁曉雯 x PD 之父 Miller Puckette ","description":"科技跟音樂之間，總是有許多微妙的連結，雖然音樂經常被屬於文化層面或情感的表現上，但是在製作音樂軟體、使用程式編譯音樂、玩合成器等項目時，就會運用大量的數學與電子相關知識，而台灣鋼琴家丁曉雯 (Shia-uen Ding) 以鋼琴為主要發聲樂器與 Pd (","image":"https://digilog.tw/uploads/post/cover/1136/_____1.jpg","inLanguage":"zh-TW","wordCount":2969,"datePublished":"2018-10-26T17:05:19+08:00","dateModified":"2018-10-29T12:22:40+08:00","author":{"@type":"Person","name":"網癮少女","url":"https://digilog.tw/authors/16","description":"新手採訪聲音藝術/音樂的人們與事件，請多多指教，謝謝。","image":"https://digilog.tw/uploads/author/cover/16/44381.jpg"},"publisher":{"@id":"https://digilog.tw/#organization","@type":"Organization","name":"DigiLog 聲響實驗室","logo":{"@type":"ImageObject","url":"https://digilog.tw/assets/logo_icon-61ad9092f7821722718b1034525494471bfb1eef14faa3552eb35941a5c7976a.png","width":200,"height":200}},"articleSection":"精選文章","url":"https://digilog.tw/posts/1136","mainEntityOfPage":"https://digilog.tw/posts/1136","isPartOf":{"@id":"https://digilog.tw/#website"}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"讀音樂","item":"https://digilog.tw/posts"},{"@type":"ListItem","position":2,"name":"精選文章","item":"https://digilog.tw/post_categories/posts?cat_id=1"},{"@type":"ListItem","position":3,"name":"現代鋼琴與電腦音樂的交集 台灣鋼琴家丁曉雯 x PD 之父 Miller Puckette "}]}
+</script>
+
+</head>
+<body class="">
+
+	
+	<!-- Top utility bar (desktop only) -->
+<div class="top-utility-bar hidden-sm-down">
+  <div class="container d-flex align-items-center justify-content-between">
+    <ul class="top-bar-nav list-unstyled d-flex align-items-center mb-0">
+      <li>
+        <a href="/posts">
+          讀音樂
+</a>      </li>
+      <li>
+        <a target="_blank" href="/rental">
+          租設備
+</a>      </li>
+      <li>
+        <a href="/procurement">
+          工程&amp;採購
+</a>      </li>
+      <li>
+        <a href="/markets">
+          二手器材
+</a>      </li>
+      <li>
+        <a href="/knows">
+          音樂知識庫
+</a>      </li>
+    </ul>
+
+    <!-- 記錄目前頁供登入後跳回；務必用瘦身版避免追蹤參數撐爆 cookie session（DIGILOG-6Y） -->
+    <ul class="top-bar-nav top-bar-nav-right list-unstyled d-flex align-items-center mb-0">
+      <li>
+        <span class="text-black"><a href="/posts/1136?locale=zh-TW">繁中</a></span>
+        <span class="top-bar-sep">|</span>
+        <span class="text-black"><a href="/posts/1136?locale=en">EN</a></span>
+      </li>
+
+    </ul>
+  </div>
+</div>
+
+<!-- Main navbar (logo + buy gear) -->
+<nav class="navbar navbar-toggleable-sm navbar-light bg-faded" style="background-color:#fff;box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.08);" role="navigation">
+  <div class="container d-flex align-items-center">
+    <div class="text-center">
+      <a class="navbar-brand mb-0" href="/">
+        <img style="min-height:30px;" class="img-fluid" alt="DigiLog" src="https://digilog.tw/assets/digilog-bc7a39345b2e3f4f3fa0e0829d6fe9443e1f43ea8085d09d546c07ba9b52d434.svg" />
+        <div class="hidden-md-up">
+          <small class="text-black"><a href="/posts/1136?locale=zh-TW">繁中</a></small> |
+          <small class="text-black"><a href="/posts/1136?locale=en">EN</a></small>
+          <br/>
+          <small><a href="tel:886-2-23638171">電話: 02-23638171</a></small>
+        </div>
+</a>    </div>
+    <div class="navbar-collapse collapse">
+      
+      <ul class="navbar-nav">
+        <li class="nav-item nav-megamenu">
+          <a class="nav-link" aria-haspopup="true" aria-expanded="false" href="/">
+            買器材
+            <i class="fas fa-chevron-down" style="font-size: 0.6em; margin-left: 2px;"></i>
+</a>
+          <div class="megamenu-dropdown">
+            <div class="container">
+              <!-- 快捷連結列 -->
+              <div class="megamenu-quick-links">
+                <a class="megamenu-quick-link" href="/products/newest">最新器材</a>
+                <a class="megamenu-quick-link" href="/products/by_brand">品牌分類</a>
+                  <a class="megamenu-quick-link" href="/product_tags/1/products">
+                      <span class="megamenu-tag-dot" style="background-color: #ff5252;"></span>
+                    SALES
+</a>                  <a class="megamenu-quick-link" href="/product_tags/3/products">
+                      <span class="megamenu-tag-dot" style="background-color: #5e72e4;"></span>
+                    推薦產品
+</a>              </div>
+
+              <!-- 三欄佈局：左 sidebar + 中 main + 右 featured -->
+              <div class="megamenu-body">
+                <!-- 左：垂直 Tab -->
+                <div class="megamenu-sidebar">
+                    <a href="#" class="megamenu-vtab is-active" data-vtab-index="0">
+                      <i class="fas fa-headphones"></i>
+                      錄音 &amp; 監聽
+                    </a>
+                    <a href="#" class="megamenu-vtab " data-vtab-index="1">
+                      <i class="fas fa-microphone"></i>
+                      麥克風
+                    </a>
+                    <a href="#" class="megamenu-vtab " data-vtab-index="2">
+                      <i class="fas fa-keyboard"></i>
+                      樂器 &amp; 合成器
+                    </a>
+                    <a href="#" class="megamenu-vtab " data-vtab-index="3">
+                      <i class="fas fa-project-diagram"></i>
+                      線材
+                    </a>
+                    <a href="#" class="megamenu-vtab " data-vtab-index="4">
+                      <i class="fas fa-wave-square"></i>
+                      聲學 &amp; 電源
+                    </a>
+                    <a href="#" class="megamenu-vtab " data-vtab-index="5">
+                      <i class="fas fa-book"></i>
+                      書籍 &amp; 選物
+                    </a>
+                    <a href="#" class="megamenu-vtab " data-vtab-index="6">
+                      <i class="fas fa-record-vinyl"></i>
+                      器材周邊 &amp; DJ
+                    </a>
+                </div>
+
+                <!-- 中：分類面板 -->
+                <div class="megamenu-main">
+                    <div class="megamenu-tab-panel is-active" data-tab-panel="0">
+                      <div class="megamenu-categories">
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=5">
+                              錄音介面
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=156">USB Type-C 錄音介面</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=17">USB Type-B 錄音介面</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=211">Podcast 直播錄音介面</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=18">Thunderbolt 錄音介面</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=71">攜帶式錄音介面 / 錄音筆</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=189">AoE 錄音介面</a>
+                                  </li>
+                            </ul>
+                          </div>
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=22">
+                              耳機
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=56">全罩式耳機</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=153">耳道式耳機</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=154">藍芽耳機</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=93">耳機分配器</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=144">耳機擴大機</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=107">耳機配件</a>
+                                  </li>
+                            </ul>
+                          </div>
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=23">
+                              喇叭/喇叭配件
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=58">監聽喇叭</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=212">重低音監聽喇叭</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=104">監聽 / 音量控制器</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=182">Hi-Fi 家用音響</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=70">喇叭支架</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=114">指向性喇叭</a>
+                                  </li>
+                            </ul>
+                          </div>
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=20">
+                              混音器
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=188">Patchbay</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=50">數位混音器</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=51">類比混音器</a>
+                                  </li>
+                            </ul>
+                          </div>
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=41">
+                              擴大機
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=229">串流擴大機</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=226">環繞擴大機</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=227">唱頭放大器</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=228">車用擴大機</a>
+                                  </li>
+                            </ul>
+                          </div>
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=42">
+                              數位串流播放機/處理器
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=230">DRC 空間音訊校正播放機/處理器</a>
+                                  </li>
+                            </ul>
+                          </div>
+                      </div>
+                    </div>
+                    <div class="megamenu-tab-panel " data-tab-panel="1">
+                      <div class="megamenu-categories">
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=1">
+                              麥克風
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li class="megamenu-subcategory-group">依類型</li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=2">電容式麥克風</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=208">小振膜電容麥克風</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=19">動圈式麥克風</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=123">鋁帶式麥克風</a>
+                                  </li>
+                                  <li class="megamenu-subcategory-group">依用途</li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=1">USB / Podcast 直播麥克風</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=143">量測 / 陣列麥克風</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=95">無線麥克風系統</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=109">攝影 / 槍型麥克風</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=130">Ambisonics / 360 度麥克風</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=198">接觸式 / 水下麥克風</a>
+                                  </li>
+                            </ul>
+                          </div>
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=40">
+                              麥克風配件
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=158">麥克風腳架/支架</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=209">麥克風防噴罩 / 防風罩</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=210">麥克風夾具 / 避震架 / 轉換螺絲</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=87">麥克風前級</a>
+                                  </li>
+                            </ul>
+                          </div>
+                      </div>
+                    </div>
+                    <div class="megamenu-tab-panel " data-tab-panel="2">
+                      <div class="megamenu-categories">
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=3">
+                              MIDI 器材
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=4">MIDI 控制器</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=40">MIDI 轉換介面</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=216">MIDI 打擊板</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=217">MIDI 電吹管</a>
+                                  </li>
+                            </ul>
+                          </div>
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=6">
+                              合成器
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=6">合成器音源</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=26">合成器序列</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=42">微合成器</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=121">合成器配件</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=167">影像合成器</a>
+                                  </li>
+                            </ul>
+                          </div>
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=16">
+                              效果器
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=120">Modulation</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=32">Distortion / Overdrive</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=33">Reverb / Delay</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=68">Looper</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=37">Vocoder 人聲效果</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=41">Filter</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=235">Multi-Effect 綜合效果器</a>
+                                  </li>
+                            </ul>
+                          </div>
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=14">
+                              節奏機/取樣機
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=20">鼓機</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=21">取樣機</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=36">Bassline</a>
+                                  </li>
+                            </ul>
+                          </div>
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=25">
+                              鍵盤
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=214">25鍵 MIDI 鍵盤</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=3">MIDI 鍵盤</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=5">合成器鍵盤</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=100">數位鋼琴/工作站</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=215">琴架</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=74">琴袋/琴盒</a>
+                                  </li>
+                            </ul>
+                          </div>
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=46">
+                              Turntable 唱盤
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                            </ul>
+                          </div>
+                      </div>
+                    </div>
+                    <div class="megamenu-tab-panel " data-tab-panel="3">
+                      <div class="megamenu-categories">
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=19">
+                              音源線
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=48">XLR 麥克風音源線</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=81">XLR-6.3 音源線</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=46">3.5 音源線</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=47">6.3 音源線</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=147">RCA 音源線 </a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=148">3.5-6.3 音源線</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=164">裸線/捆線</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=105">音源轉接頭</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=165">DB25 多軌音源線</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=145">CV Patch Cable 音源線</a>
+                                  </li>
+                            </ul>
+                          </div>
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=43">
+                              數位訊號線
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=49">MIDI 數位訊號線</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=72">USB 線</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=225">HDMI 線材</a>
+                                  </li>
+                            </ul>
+                          </div>
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=44">
+                              數位音源線
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=86">光纖音源線</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=179">XLR - CAT 數位訊號傳輸線材</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=180">TRS - CAT 數位訊號傳輸線材</a>
+                                  </li>
+                            </ul>
+                          </div>
+                      </div>
+                    </div>
+                    <div class="megamenu-tab-panel " data-tab-panel="4">
+                      <div class="megamenu-categories">
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=17">
+                              聲音處理
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=142">吸音板 / 吸音棉</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=119">音訊處理器</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=168">音量計</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=176">示波器</a>
+                                  </li>
+                            </ul>
+                          </div>
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=39">
+                              電源供應設備
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=90">電源供應器</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=202">變壓器</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=163">電源線</a>
+                                  </li>
+                            </ul>
+                          </div>
+                      </div>
+                    </div>
+                    <div class="megamenu-tab-panel " data-tab-panel="5">
+                      <div class="megamenu-categories">
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=36">
+                              書籍
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=172">中文書</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=173">英文書</a>
+                                  </li>
+                            </ul>
+                          </div>
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=38">
+                              生活風格選物
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=190">生活風格 / 電玩</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=166">降噪耳塞</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=169">卡帶播放器</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=170">音樂工作桌</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=171">音樂工作椅</a>
+                                  </li>
+                            </ul>
+                          </div>
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=45">
+                              品牌服飾
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=232">衣服</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=233">帽子</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=246">配件</a>
+                                  </li>
+                            </ul>
+                          </div>
+                      </div>
+                    </div>
+                    <div class="megamenu-tab-panel " data-tab-panel="6">
+                      <div class="megamenu-categories">
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=26">
+                              DJ 器材
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=78">DJ 控制器</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=77">DJ 混音器</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=222">DJ 專用 USB Drive</a>
+                                  </li>
+                            </ul>
+                          </div>
+                          <div class="megamenu-category-col">
+                            <a class="megamenu-category-title" href="/product_categories/products?cat_id=21">
+                              器材周邊
+                              <i class="fas fa-chevron-down megamenu-category-chevron"></i>
+</a>                            <ul class="megamenu-subcategory-list">
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=85">攜帶包 / 攜帶箱 / 保護殼</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=59">譜架 / 器材立架</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=175">清潔工具</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=128">束線帶</a>
+                                  </li>
+                                  <li>
+                                    <a class="megamenu-subcategory-link" href="/sub_categories/products?sub_id=247">磁帶 / 錄音帶</a>
+                                  </li>
+                            </ul>
+                          </div>
+                      </div>
+                    </div>
+                </div>
+
+                <!-- 右：熱銷 / 特價推薦 -->
+                <div class="megamenu-featured">
+                    <div class="megamenu-featured-section">
+                      <div class="megamenu-featured-heading">
+                        <i class="fas fa-fire" style="color: #ff5252;"></i> 熱銷商品
+                      </div>
+                        <a class="megamenu-featured-item" href="/products/2239">
+                          <img class="megamenu-featured-img" loading="lazy" alt="U87 Ai Studio 電容式麥克風" src="https://digilog.tw/uploads/product/cover/2239/tiny_webp_777P_0001_product_detail_x2_desktop_U-87-Ai-Studio-Set_Neumann-Studio-Microphone_M.webp" />
+                          <div class="megamenu-featured-info">
+                            <div class="megamenu-featured-name">U87 Ai Studio 電容式麥克風</div>
+                            <div class="megamenu-featured-price">NT$ 102,000</div>
+                          </div>
+</a>                        <a class="megamenu-featured-item" href="/products/2501">
+                          <img class="megamenu-featured-img" loading="lazy" alt="MDR-CD900ST 全罩式監聽耳機 CD900 CD 900" src="https://digilog.tw/uploads/product/cover/2501/tiny_webp_Sony_CD1.webp" />
+                          <div class="megamenu-featured-info">
+                            <div class="megamenu-featured-name">MDR-CD900ST 全罩式監聽耳機 CD900 CD 900</div>
+                            <div class="megamenu-featured-price">NT$ 5,990</div>
+                          </div>
+</a>                        <a class="megamenu-featured-item" href="/products/3134">
+                          <img class="megamenu-featured-img" loading="lazy" alt="麥克風長型收納袋 SH-STANDBAG" src="https://digilog.tw/uploads/product/cover/3134/tiny_webp_Shure_SH_STANDBAG_11.webp" />
+                          <div class="megamenu-featured-info">
+                            <div class="megamenu-featured-name">麥克風長型收納袋 SH-STANDBAG</div>
+                            <div class="megamenu-featured-price">NT$ 3,100</div>
+                          </div>
+</a>                        <a class="megamenu-featured-item" href="/products/2436">
+                          <img class="megamenu-featured-img" loading="lazy" alt="UMIK-1 量測麥克風" src="https://digilog.tw/uploads/product/cover/2436/tiny_webp_9_0001_%E6%88%AA%E5%9C%96-2021-09-03-%E4%B8%8B%E5%8D%886.06.54.webp" />
+                          <div class="megamenu-featured-info">
+                            <div class="megamenu-featured-name">UMIK-1 量測麥克風</div>
+                            <div class="megamenu-featured-price">NT$ 3,690</div>
+                          </div>
+</a>                        <a class="megamenu-featured-item" href="/products/2850">
+                          <img class="megamenu-featured-img" loading="lazy" alt="ER20 XS 高傳真降噪耳塞" src="https://digilog.tw/uploads/product/cover/2850/tiny_webp_elacin_etymotic_research_er20_XS_1.webp" />
+                          <div class="megamenu-featured-info">
+                            <div class="megamenu-featured-name">ER20 XS 高傳真降噪耳塞</div>
+                            <div class="megamenu-featured-price">NT$ 1,090</div>
+                          </div>
+</a>                        <a class="megamenu-featured-item" href="/products/875">
+                          <img class="megamenu-featured-img" loading="lazy" alt="SM57 動圈式麥克風" src="https://digilog.tw/uploads/product/cover/875/tiny_webp_Shure_SM57_V2_2.webp" />
+                          <div class="megamenu-featured-info">
+                            <div class="megamenu-featured-name">SM57 動圈式麥克風</div>
+                            <div class="megamenu-featured-price">NT$ 3,450</div>
+                          </div>
+</a>                    </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+
+          <li class="nav-item nav-megamenu">
+            <a class="nav-link" aria-haspopup="true" aria-expanded="false" href="/product_categories/products?cat_id=13">
+              買模組
+              <i class="fas fa-chevron-down" style="font-size: 0.6em; margin-left: 2px;"></i>
+</a>
+            <div class="megamenu-dropdown">
+              <div class="container">
+                <!-- 快捷連結 -->
+                <div class="megamenu-quick-links">
+                  <a class="megamenu-quick-link megamenu-quick-link--all" href="/product_categories/products?cat_id=13">
+                    瀏覽全部「模組化合成器」商品
+                    <i class="fas fa-arrow-right"></i>
+</a>                  <a class="megamenu-quick-link megamenu-quick-link--in-stock" href="/products/in_stock_modules">
+                    <i class="fas fa-box-open"></i>
+                    現貨區
+</a>                </div>
+
+                <!-- 一頁式：6 個功能組並排（整列寬度、不捲動）+ 底部品牌列 -->
+                <div class="megamenu-module-grid">
+                    <div class="megamenu-module-col">
+                      <div class="megamenu-module-col-title">
+                        <i class="fas fa-wave-square" aria-hidden="true"></i>
+                        聲音來源
+                      </div>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=7">VCO</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=38">Drum Module</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=28">Sampler</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=138">Noise</a>
+                    </div>
+                    <div class="megamenu-module-col">
+                      <div class="megamenu-module-col-title">
+                        <i class="fas fa-magic" aria-hidden="true"></i>
+                        聲音處理 / 效果
+                      </div>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=8">Filter</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=192">Low Pass Gate</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=238">Waveshaper</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=237">Distortion/Drive</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=240">Ring Modulator</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=13">Effects</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=139">Effect (Delay)</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=140">Effect (Reverb) </a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=185">Granular</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=239">Dynamics/EQ</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=236">Multi-FX/DSP</a>
+                    </div>
+                    <div class="megamenu-module-col">
+                      <div class="megamenu-module-col-title">
+                        <i class="fas fa-sliders-h" aria-hidden="true"></i>
+                        VCA・混音・工具
+                      </div>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=12">Mixer</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=9">VCA</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=135">Multiple</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=134">Attenuator</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=244">Switch/Router</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=25">Utility</a>
+                    </div>
+                    <div class="megamenu-module-col">
+                      <div class="megamenu-module-col-title">
+                        <i class="fas fa-water" aria-hidden="true"></i>
+                        調變 / CV
+                      </div>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=24">Modulation</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=241">Function Generator</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=10">Envelope</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=27">LFO</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=242">Random</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=243">Quantizer</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=201">Sample&amp;Hold</a>
+                    </div>
+                    <div class="megamenu-module-col">
+                      <div class="megamenu-module-col-title">
+                        <i class="fas fa-stream" aria-hidden="true"></i>
+                        時脈・序列・邏輯
+                      </div>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=11">Sequencer</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=133">Clocking</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=136">Logic</a>
+                    </div>
+                    <div class="megamenu-module-col">
+                      <div class="megamenu-module-col-title">
+                        <i class="fas fa-plug" aria-hidden="true"></i>
+                        介面・周邊・其他
+                      </div>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=23">In/Out</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=35">MIDI to CV</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=245">Controller</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=186">Preamp</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=39">外殼 / 電源</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=155">Blank Panel</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=96">1U</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=151">Video</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=43">套餐</a>
+                    </div>
+                </div>
+
+                <div class="megamenu-module-brands">
+                  <span class="megamenu-module-brands-label">
+                    <i class="fas fa-star" aria-hidden="true"></i> 熱門品牌
+                  </span>
+                    <a class="megamenu-module-brand" title="Erica Synths" href="/products/brand?id=135">
+                        <img alt="Erica Synths" loading="lazy" src="https://digilog.tw/uploads/brand/cover/135/tiny_webp_Erica_logo.webp" />
+</a>                    <a class="megamenu-module-brand" title="Tiptop Audio" href="/products/brand?id=48">
+                        <img alt="Tiptop Audio" loading="lazy" src="https://digilog.tw/uploads/brand/cover/48/tiny_webp_LOGO.webp" />
+</a>                    <a class="megamenu-module-brand" title="4ms" href="/products/brand?id=59">
+                        <img alt="4ms" loading="lazy" src="https://digilog.tw/uploads/brand/cover/59/tiny_webp_4ms_2012_logo_bk.webp" />
+</a>                    <a class="megamenu-module-brand" title="Make Noise" href="/products/brand?id=49">
+                        <img alt="Make Noise" loading="lazy" src="https://digilog.tw/uploads/brand/cover/49/tiny_webp_Make-Noise1.webp" />
+</a>                    <a class="megamenu-module-brand" title="Intellijel" href="/products/brand?id=50">
+                        <img alt="Intellijel" loading="lazy" src="https://digilog.tw/uploads/brand/cover/50/tiny_webp_imgres.webp" />
+</a>                    <a class="megamenu-module-brand" title="2hp" href="/products/brand?id=99">
+                        <img alt="2hp" loading="lazy" src="https://digilog.tw/uploads/brand/cover/99/tiny_webp______2017-01-23___3.09.20.webp" />
+</a>                    <a class="megamenu-module-brand" title="ALM Busy Circuits" href="/products/brand?id=143">
+                        <img alt="ALM Busy Circuits" loading="lazy" src="https://digilog.tw/uploads/brand/cover/143/tiny_webp__0000___-1.webp" />
+</a>                    <a class="megamenu-module-brand" title="XAOC Devices" href="/products/brand?id=105">
+                        <img alt="XAOC Devices" loading="lazy" src="https://digilog.tw/uploads/brand/cover/105/tiny_webp_download.webp" />
+</a>                    <a class="megamenu-module-brand" title="Noise Engineering" href="/products/brand?id=84">
+                        <img alt="Noise Engineering" loading="lazy" src="https://digilog.tw/uploads/brand/cover/84/tiny_webp_noise_engineering.webp" />
+</a>                    <a class="megamenu-module-brand" title="INSTRUŌ" href="/products/brand?id=156">
+                        <img alt="INSTRUŌ" loading="lazy" src="https://digilog.tw/uploads/brand/cover/156/tiny_webp_Instruo.webp" />
+</a>                    <a class="megamenu-module-brand" title="AJH Synth" href="/products/brand?id=95">
+                        <img alt="AJH Synth" loading="lazy" src="https://digilog.tw/uploads/brand/cover/95/tiny_webp_AJH_Synth_Logo_Small.webp" />
+</a>                    <a class="megamenu-module-brand" title="Expert Sleepers" href="/products/brand?id=96">
+                        <img alt="Expert Sleepers" loading="lazy" src="https://digilog.tw/uploads/brand/cover/96/tiny_webp_expert_sleepers_zzz_120.webp" />
+</a>                  <a class="megamenu-module-brands-all" href="/products/by_brand?cat_id=13">
+                    查看所有品牌 <i class="fas fa-arrow-right"></i>
+</a>                </div>
+              </div>
+            </div>
+          </li>
+
+          <li class="nav-item nav-megamenu">
+            <a class="nav-link" aria-haspopup="true" aria-expanded="false" href="/product_categories/products?cat_id=33">
+              買軟體
+              <i class="fas fa-chevron-down" style="font-size: 0.6em; margin-left: 2px;"></i>
+</a>
+            <div class="megamenu-dropdown">
+              <div class="container">
+                <!-- 快捷連結 -->
+                <div class="megamenu-quick-links">
+                  <a class="megamenu-quick-link megamenu-quick-link--all" href="/product_categories/products?cat_id=33">
+                    瀏覽全部「音樂軟體」商品
+                    <i class="fas fa-arrow-right"></i>
+</a>                  <a class="megamenu-quick-link megamenu-quick-link--sale" href="/products/discounted_software">
+                    <i class="fas fa-tags"></i>
+                    折扣區
+</a>                    <a class="megamenu-quick-link megamenu-quick-link--black-friday" href="/curations/black-friday-2026">
+                      <span class="black-friday-menu-badge" aria-hidden="true">BLACK FRIDAY</span>
+                      黑五軟體優惠
+</a>                    <span class="megamenu-quick-links-label">購買方案</span>
+                      <a class="megamenu-quick-link" href="/sub_categories/products?sub_id=195">軟體版本升級 / 更新套裝</a>
+                      <a class="megamenu-quick-link" href="/sub_categories/products?sub_id=223">教育版軟體</a>
+                      <a class="megamenu-quick-link" href="/sub_categories/products?sub_id=220">訂閱制軟體</a>
+                      <a class="megamenu-quick-link" href="/sub_categories/products?sub_id=200">iLok USB 鑰匙</a>
+                </div>
+
+                <!-- 一頁式：功能組並排（整列寬度、不捲動）+ 底部品牌列（同買模組） -->
+                <div class="megamenu-module-grid">
+                    <div class="megamenu-module-col">
+                        <a class="megamenu-module-col-title megamenu-module-col-title--link" href="/sub_categories/products?sub_id=161">
+                          <i class="fas fa-music" aria-hidden="true"></i>
+                          音源 Plugin
+</a>                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=303">鋼琴／鍵盤</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=304">管弦樂</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=305">合成器／取樣器</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=306">鼓／打擊樂</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=307">吉他／貝斯</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=308">人聲／合唱</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=309">世界／民族樂器</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=310">電影氛圍／聲音設計</a>
+                        <a class="megamenu-module-seeall" href="/sub_categories/products?sub_id=161">
+                          看全部音源 Plugin <i class="fas fa-arrow-right" aria-hidden="true"></i>
+</a>                    </div>
+                    <div class="megamenu-module-col">
+                        <a class="megamenu-module-col-title megamenu-module-col-title--link" href="/sub_categories/products?sub_id=207">
+                          <i class="fas fa-sliders-h" aria-hidden="true"></i>
+                          效果器 Plugin
+</a>                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=311">EQ／Filter</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=312">Compressor／Limiter</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=331">Channel Strip</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=313">Reverb</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=314">Delay</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=315">Saturation／Distortion</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=316">Modulation／Multi-FX</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=317">Mastering</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=204">Vocal／Pitch Correction</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=318">Guitar／Bass Amp</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=221">MIDI FX／Sequencer</a>
+                        <a class="megamenu-module-seeall" href="/sub_categories/products?sub_id=207">
+                          看全部效果器 Plugin <i class="fas fa-arrow-right" aria-hidden="true"></i>
+</a>                    </div>
+                    <div class="megamenu-module-col">
+                        <a class="megamenu-module-col-title megamenu-module-col-title--link" href="/sub_categories/products?sub_id=224">
+                          <i class="fas fa-box-open" aria-hidden="true"></i>
+                          套組 Bundles
+</a>                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=319">音源套組</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=320">效果器套組</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=321">全系列套組</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=322">Immersive 套組</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=323">修復套組</a>
+                        <a class="megamenu-module-seeall" href="/sub_categories/products?sub_id=224">
+                          看全部套組 Bundles <i class="fas fa-arrow-right" aria-hidden="true"></i>
+</a>                    </div>
+                    <div class="megamenu-module-col">
+                        <a class="megamenu-module-col-title megamenu-module-col-title--link" href="/sub_categories/products?sub_id=324">
+                          <i class="fas fa-wrench" aria-hidden="true"></i>
+                          工具 Plugin
+</a>                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=325">音訊修復</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=206">Immersive／多聲道</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=326">計量分析／Metering</a>
+                        <a class="megamenu-module-seeall" href="/sub_categories/products?sub_id=324">
+                          看全部工具 Plugin <i class="fas fa-arrow-right" aria-hidden="true"></i>
+</a>                    </div>
+                    <div class="megamenu-module-col">
+                        <a class="megamenu-module-col-title megamenu-module-col-title--link" href="/sub_categories/products?sub_id=193">
+                          <i class="fas fa-volume-up" aria-hidden="true"></i>
+                          Dirac Live
+</a>                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=327">Dirac Live Processor</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=328">擴大機專用</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=329">升級</a>
+                        <a class="megamenu-module-seeall" href="/sub_categories/products?sub_id=193">
+                          看全部Dirac Live <i class="fas fa-arrow-right" aria-hidden="true"></i>
+</a>                    </div>
+                    <div class="megamenu-module-col">
+                        <div class="megamenu-module-col-title">
+                          <i class="fas fa-layer-group" aria-hidden="true"></i>
+                          製作軟體
+                        </div>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=152">DAW 音樂製作軟體</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=205">打譜 / 製譜軟體</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=203">影像編輯軟體</a>
+                        <a class="megamenu-module-leaf" href="/sub_categories/products?sub_id=248">音效素材庫</a>
+                    </div>
+                </div>
+
+                <div class="megamenu-module-brands">
+                  <span class="megamenu-module-brands-label">
+                    <i class="fas fa-star" aria-hidden="true"></i> 熱門品牌
+                  </span>
+                    <a class="megamenu-module-brand" title="BOOM Library" href="/products/brand?id=368">
+                        <img alt="BOOM Library" loading="lazy" src="https://digilog.tw/uploads/brand/cover/368/tiny_webp_brand_boom_library.webp" />
+</a>                    <a class="megamenu-module-brand" title="Soundiron" href="/products/brand?id=367">
+                        <img alt="Soundiron" loading="lazy" src="https://digilog.tw/uploads/brand/cover/367/tiny_webp_brand_soundiron.webp" />
+</a>                    <a class="megamenu-module-brand" title="Spitfire Audio" href="/products/brand?id=370">
+                        <img alt="Spitfire Audio" loading="lazy" src="https://digilog.tw/uploads/brand/cover/370/tiny_webp_brand_spitfire_audio.webp" />
+</a>                    <a class="megamenu-module-brand" title="Universal Audio" href="/products/brand?id=52">
+                        <img alt="Universal Audio" loading="lazy" src="https://digilog.tw/uploads/brand/cover/52/tiny_webp_universalaudio.webp" />
+</a>                    <a class="megamenu-module-brand" title="EastWest" href="/products/brand?id=272">
+                        <img alt="EastWest" loading="lazy" src="https://digilog.tw/uploads/brand/cover/272/tiny_webp_eastwest-sounds_logo_horizontal.webp" />
+</a>                    <a class="megamenu-module-brand" title="MeldaProduction" href="/products/brand?id=339">
+                        <img alt="MeldaProduction" loading="lazy" src="https://digilog.tw/uploads/brand/cover/339/tiny_webp_brand_meldaproduction.webp" />
+</a>                    <a class="megamenu-module-brand" title="Dirac" href="/products/brand?id=244">
+                        <img alt="Dirac" loading="lazy" src="https://digilog.tw/uploads/brand/cover/244/tiny_webp_dirac-share.webp" />
+</a>                    <a class="megamenu-module-brand" title="UJAM" href="/products/brand?id=366">
+                        <img alt="UJAM" loading="lazy" src="https://digilog.tw/uploads/brand/cover/366/tiny_webp_brand_ujam.webp" />
+</a>                    <a class="megamenu-module-brand" title="Waves" href="/products/brand?id=174">
+                        <img alt="Waves" loading="lazy" src="https://digilog.tw/uploads/brand/cover/174/tiny_webp_c1a7d7209f3d2bd3da2d27916ff61f03.webp" />
+</a>                    <a class="megamenu-module-brand" title="Avid" href="/products/brand?id=5">
+                        <img alt="Avid" loading="lazy" src="https://digilog.tw/uploads/brand/cover/5/tiny_webp_avid.webp" />
+</a>                    <a class="megamenu-module-brand" title="Eventide" href="/products/brand?id=17">
+                        <img alt="Eventide" loading="lazy" src="https://digilog.tw/uploads/brand/cover/17/tiny_webp_eventide.webp" />
+</a>                    <a class="megamenu-module-brand" title="Vienna Symphonic Library" href="/products/brand?id=335">
+                        <img alt="Vienna Symphonic Library" loading="lazy" src="https://digilog.tw/uploads/brand/cover/335/tiny_webp_brand_vsl.webp" />
+</a>                  <a class="megamenu-module-brands-all" href="/products/by_brand?cat_id=33">
+                    查看所有品牌 <i class="fas fa-arrow-right"></i>
+</a>                </div>
+              </div>
+            </div>
+          </li>
+
+          <li class="nav-item nav-megamenu">
+    <a class="nav-link" aria-haspopup="true" aria-expanded="false" href="/knows">
+      指南與選物
+      <i class="fas fa-chevron-down" style="font-size: 0.6em; margin-left: 2px;"></i>
+</a>
+    <div class="megamenu-dropdown">
+      <div class="container">
+        <div class="megamenu-entry">
+          <div class="megamenu-entry-col megamenu-entry-feature">
+            <div class="megamenu-entry-heading">DigiLog 選物</div>
+              <a class="entry-card entry-card--row entry-card--curation" href="/curations/dirac-minidsp?from=menu">
+  <span class="entry-card__media">
+    <img alt="" loading="lazy" src="https://digilog.tw/uploads/curation/cover/16/thumb_vol08_dirac_minidsp.jpg" />
+  </span>
+  <span class="entry-card__body">
+    <span class="entry-card__kicker">DigiLog 選物　VOL.08</span>
+    <span class="entry-card__title">修房間，不換喇叭</span>
+    
+    
+  </span>
+</a>
+              <a class="entry-card entry-card--row entry-card--curation" href="/curations/experimental-sound?from=menu">
+  <span class="entry-card__media">
+    <img alt="" loading="lazy" src="https://digilog.tw/uploads/curation/cover/14/thumb_vol07_experimental_sound_v2.jpg" />
+  </span>
+  <span class="entry-card__body">
+    <span class="entry-card__kicker">DigiLog 選物　VOL.07</span>
+    <span class="entry-card__title">不照規矩發聲的機器</span>
+    
+    
+  </span>
+</a>
+              <a class="entry-card entry-card--row entry-card--curation" href="/curations/podcast-desk?from=menu">
+  <span class="entry-card__media">
+    <img alt="" loading="lazy" src="https://digilog.tw/uploads/curation/cover/10/thumb_vol03_podcast_desk.jpg" />
+  </span>
+  <span class="entry-card__body">
+    <span class="entry-card__kicker">DigiLog 選物　VOL.03</span>
+    <span class="entry-card__title">一張桌子的 Podcast 錄音室</span>
+    
+    
+  </span>
+</a>
+              <a class="megamenu-entry-all" href="/curations">全部選物 →</a>
+          </div>
+          <div class="megamenu-entry-col megamenu-entry-col--guides">
+            <div class="megamenu-entry-heading">最新指南</div>
+              <a class="megamenu-entry-link megamenu-entry-link--guide" title="耳塞怎麼選？泡棉、矽膠與濾音耳塞差在哪，睡覺、演唱會、練團各用哪一種" href="/knows/35">
+                <span class="megamenu-entry-thumb"><img alt="" loading="lazy" src="https://digilog.tw/uploads/know/cover/35/thumb_cover-7eaf8061ff.jpg" /></span>
+                <span class="megamenu-entry-guide-title">耳塞怎麼選？泡棉、矽膠與濾音耳塞差在哪，睡覺、演唱會、練團各用哪一種</span>
+</a>              <a class="megamenu-entry-link megamenu-entry-link--guide" title="機器電壓怎麼看、變壓器怎麼選：電壓、電流、極性與插頭一次看懂" href="/knows/34">
+                <span class="megamenu-entry-thumb"><img alt="" loading="lazy" src="https://digilog.tw/uploads/know/cover/34/thumb_cover-9979b1ddcd.jpg" /></span>
+                <span class="megamenu-entry-guide-title">機器電壓怎麼看、變壓器怎麼選：電壓、電流、極性與插頭一次看懂</span>
+</a>              <a class="megamenu-entry-link megamenu-entry-link--guide" title="Podcast 錄音設備怎麼選？麥克風、錄音介面到多人錄音配置" href="/knows/33">
+                <span class="megamenu-entry-thumb"><img alt="" loading="lazy" src="https://digilog.tw/uploads/know/cover/33/thumb_cover-6782c47b27.jpg" /></span>
+                <span class="megamenu-entry-guide-title">Podcast 錄音設備怎麼選？麥克風、錄音介面到多人錄音配置</span>
+</a>              <a class="megamenu-entry-link megamenu-entry-link--guide" title="Dirac Live 版本怎麼選？Room Correction、Bass Control、ART 與各授權比較" href="/knows/32">
+                <span class="megamenu-entry-thumb"><img alt="" loading="lazy" src="https://digilog.tw/uploads/know/cover/32/thumb_cover-545b584640.jpg" /></span>
+                <span class="megamenu-entry-guide-title">Dirac Live 版本怎麼選？Room Correction、Bass Control、ART 與各授權比較</span>
+</a>            <a class="megamenu-entry-all" href="/knows">全部指南 →</a>
+          </div>
+            <div class="megamenu-entry-col megamenu-entry-col--topics">
+              <div class="megamenu-entry-heading">熱門主題</div>
+              <div class="megamenu-entry-topics">
+                  <a class="megamenu-entry-link" href="/knows?category=6">合成器</a>
+                  <a class="megamenu-entry-link" href="/knows?category=13">模組化合成器</a>
+                  <a class="megamenu-entry-link" href="/knows?category=5">錄音介面</a>
+                  <a class="megamenu-entry-link" href="/knows?category=1">麥克風</a>
+                  <a class="megamenu-entry-link" href="/knows?category=3">MIDI 器材</a>
+                  <a class="megamenu-entry-link" href="/knows?category=17">聲音處理</a>
+                  <a class="megamenu-entry-link" href="/knows?category=39">電源供應設備</a>
+                  <a class="megamenu-entry-link" href="/knows?category=38">生活風格選物</a>
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </li>
+
+      </ul>
+      
+    </div><!--/.nav-collapse -->
+
+    <div class="nav-search-wrapper hidden-sm-down">
+      <form class="nav-search-form" action="/search" accept-charset="UTF-8" method="get">
+        <div class="position-relative" x-data="{ open: false }" @click.outside="open = false">
+          <div class="nav-search-input-wrap">
+            <input type="text" name="query" id="query" class="form-control nav-search-input" placeholder="搜尋商品" autocomplete="off" hx-get="/search/autocomplete" hx-target="#nav-search-autocomplete-dropdown" hx-trigger="input changed delay:300ms, focus" @focus="open = true" @input="open = true" @keydown.enter="open = false" @keydown.escape="open = false" />
+            <button name="button" type="submit" class="nav-search-icon-btn">
+              <i class="fas fa-search"></i>
+</button>          </div>
+          <div id="nav-search-autocomplete-dropdown" class="search-autocomplete-dropdown"
+               x-show="open" x-transition.opacity.scale.95.duration.150ms x-cloak></div>
+        </div>
+</form>    </div>
+
+    <div class="nav-account-wrapper hidden-sm-down">
+        <a class="nav-account-btn" href="/users/sign_in">
+          <i class="fas fa-user-circle"></i>
+          <span class="nav-account-name">登入</span>
+</a>    </div>
+
+      <div class="nav-cart-wrapper hidden-sm-down"
+           onmouseout="this.className='nav-cart-wrapper hidden-sm-down dropdown';"
+           onmouseover="this.className='nav-cart-wrapper hidden-sm-down dropdown show'; FillInShoppingCartBlock(this);">
+        <a href='/check_out' class="btn btn-success nav-cart-btn">
+          <i class="fas fa-shopping-cart"></i>
+          購物車
+          <span id="cartItemsAmount" class="badge badge-light cart-items-amount">0</span>
+        </a>
+        <div id="shoppingCartItems" class='dropdown-menu dropdown-menu-right dropdown-shopping-cart'></div>
+      </div>
+  </div>
+</nav>
+<div class="megamenu-backdrop" id="megamenuBackdrop"></div>
+
+	
+	
+<!-- 加購成功 toast：fixed 位置、不需 reload 也可呼叫 (showCartToast)。
+     桌面 sticky 在右下，手機在底部 center。3.5 秒自動消失或手動關閉。 -->
+<div id="cart_success_toast" class="cart-toast" role="status" aria-live="polite" style="display:none;">
+	<div class="cart-toast-icon" aria-hidden="true">
+		<i class="fas fa-check-circle"></i>
+	</div>
+	<div class="cart-toast-body">
+		<div class="cart-toast-title">已加入購物車</div>
+		<div class="cart-toast-product" id="cart_toast_product_name"></div>
+	</div>
+	<div class="cart-toast-actions">
+		<a class="btn btn-sm btn-outline-light cart-toast-cta" href="/check_out">查看購物車</a>
+	</div>
+	<button type="button" class="cart-toast-close" aria-label="關閉">&times;</button>
+</div>
+
+<style>
+.cart-toast {
+	position: fixed;
+	z-index: 9999;
+	bottom: 20px;
+	right: 20px;
+	min-width: 280px;
+	max-width: 360px;
+	background: #28a745;
+	color: #fff;
+	border-radius: 8px;
+	padding: 12px 16px;
+	box-shadow: 0 8px 24px rgba(0,0,0,.2);
+	display: flex;
+	align-items: center;
+	gap: 12px;
+	animation: cartToastIn .25s ease-out;
+}
+@keyframes cartToastIn {
+	from { transform: translateY(20px); opacity: 0; }
+	to { transform: translateY(0); opacity: 1; }
+}
+.cart-toast-icon { font-size: 24px; flex-shrink: 0; }
+.cart-toast-body { flex: 1; min-width: 0; }
+.cart-toast-title { font-weight: 600; font-size: 14px; }
+.cart-toast-product { font-size: 13px; opacity: .9; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.cart-toast-actions { flex-shrink: 0; }
+.cart-toast-cta { color: #fff; border-color: #fff; }
+.cart-toast-cta:hover { background: #fff; color: #28a745; }
+.cart-toast-close {
+	background: transparent; border: 0; color: #fff; opacity: .8; font-size: 20px;
+	line-height: 1; padding: 0 0 0 4px; cursor: pointer;
+}
+.cart-toast-close:hover { opacity: 1; }
+@media (max-width: 575px) {
+	.cart-toast { left: 12px; right: 12px; min-width: 0; max-width: none; }
+	.cart-toast-actions { display: none; }
+}
+/* 手機底部有 fixed 元件，toast 必須讓開否則會被蓋住看不到：
+     .nav-mobile 56px（z-index 9999，且 DOM 在本 partial 之後 → 同層時它會蓋過來）
+     商品頁 .mobile-sticky-cart-wrapper 再 +60px（body.has-sticky-cart）
+     結帳流程 .mobile-checkout-bar 約 74px（body.checkout-flow，此時導航列不 render）
+   斷點取 767 而非 575：.nav-mobile 是 hidden-md-up，≤767px 都在。 */
+@media (max-width: 767px) {
+	.cart-toast {
+		z-index: 10000;
+		bottom: calc(68px + env(safe-area-inset-bottom, 0px));
+	}
+	body.has-sticky-cart .cart-toast { bottom: calc(128px + env(safe-area-inset-bottom, 0px)); }
+	body.checkout-flow .cart-toast { bottom: calc(86px + env(safe-area-inset-bottom, 0px)); }
+}
+</style>
+
+<script>
+(function() {
+	var toast = document.getElementById('cart_success_toast');
+	if (!toast) return;
+	var hideTimer = null;
+
+	window.showCartToast = function(productName) {
+		if (productName) {
+			document.getElementById('cart_toast_product_name').textContent = productName;
+		}
+		clearTimeout(hideTimer);
+		// 重啟動畫
+		toast.style.display = 'none';
+		void toast.offsetWidth;
+		toast.style.display = 'flex';
+		hideTimer = setTimeout(window.hideCartToast, 3500);
+	};
+
+	window.hideCartToast = function() {
+		toast.style.display = 'none';
+		clearTimeout(hideTimer);
+	};
+
+	toast.querySelector('.cart-toast-close').addEventListener('click', window.hideCartToast);
+
+	// flash[:cart_success] reload 後自動顯示（form submit 加購路徑）
+	var pending = null;
+	if (pending) {
+		document.addEventListener('DOMContentLoaded', function() {
+			window.showCartToast(pending);
+		});
+	}
+})();
+</script>
+
+<div class="container alert_container">
+</div>
+
+<script>
+	$('.alert').click(function(){
+		var name = $(this).attr('name');
+		
+		$("div[name='"+ name +"']").css("display","none");
+	});
+	
+  $(".alert_container .alert").first().hide().fadeIn(0).delay(3000).fadeOut(500, function () { $(this).remove(); });
+</script>
+
+
+	
+
+<div class="reading-progress" aria-hidden="true">
+	<div class="reading-progress__bar"></div>
+</div>
+<div class="post_category_nav">
+	<div class="container text-center">
+		<div class="post-category-pills">
+    <a class="post-category-pill " href="/post_categories/posts?cat_id=1">
+      <span class="post-category-dot" style="background-color: #e74c3c;"></span>
+      精選文章
+</a>    <a class="post-category-pill " href="/post_categories/posts?cat_id=2">
+      <span class="post-category-dot" style="background-color: #9b59b6;"></span>
+      音樂軟體
+</a>    <a class="post-category-pill " href="/post_categories/posts?cat_id=3">
+      <span class="post-category-dot" style="background-color: #3498db;"></span>
+      音樂硬體
+</a>    <a class="post-category-pill " href="/post_categories/posts?cat_id=4">
+      <span class="post-category-dot" style="background-color: #27ae60;"></span>
+      合成器
+</a>    <a class="post-category-pill " href="/post_categories/posts?cat_id=5">
+      <span class="post-category-dot" style="background-color: #f1c40f;"></span>
+      音樂消息
+</a>    <a class="post-category-pill " href="/post_categories/posts?cat_id=7">
+      <span class="post-category-dot" style="background-color: #e67e22;"></span>
+      互動科技
+</a>    <a class="post-category-pill " href="/post_categories/posts?cat_id=8">
+      <span class="post-category-dot" style="background-color: #000000;"></span>
+      AI音樂
+</a></div>
+
+	</div>
+</div>
+<div class="container pt-4">
+
+		<nav aria-label="breadcrumb">
+			<a href="/posts">讀音樂</a> »
+				<a href="/post_categories/posts?cat_id=1">精選文章</a> »
+			現代鋼琴與電腦音樂的交集 台灣鋼琴家丁曉雯 x PD 之父 Miller Puckette 
+		</nav>
+	<div class="row">
+	<div class="col-md-9 col-12 pr-md-5">
+		<h1 class="post-title text-center mt-4"><b>現代鋼琴與電腦音樂的交集 台灣鋼琴家丁曉雯 x PD 之父 Miller Puckette </b></h1>
+		<div class="post-cover-container">
+			<img alt="現代鋼琴與電腦音樂的交集 台灣鋼琴家丁曉雯 x PD 之父 Miller Puckette " loading="eager" fetchpriority="high" class="img-post img-fluid d-block" src="https://digilog.tw/uploads/post/cover/1136/default_webp______1.webp" />
+		</div>
+
+		<!-- author / date info -->
+		<div class="post-meta mt-4">
+			<span class="post-meta__item">
+				<img alt="作者" loading="lazy" src="https://digilog.tw/assets/icon_s/author-7d14eb9a7aaf979af2248b93f095b4276932fb8eb34e4cf7a679f0d0cf6adc8e.svg" /> by
+				<a href="/authors/16">網癮少女</a>
+			</span>
+
+			<span class="post-meta__item">
+				<img alt="發布日期" loading="lazy" src="https://digilog.tw/assets/icon_s/cal-5f8accb4fa6abbecb7bc25c9868a51ced9f1cf04b37f46a06035cb519053168c.svg" />
+				<time datetime="2018-10-26T17:05:19+08:00">
+					2018.10.26
+				</time>
+			</span>
+
+		</div>
+		
+		<div class="divider mt-4 mb-4"></div>
+		<article id="article">
+			<p><span>科技跟音樂之間，總是有許多微妙的連結，雖然音樂經常被屬於文化層面或情感的表現上，但是在製作音樂軟體、使用程式編譯音樂、玩合成器等項目時，就會運用大量的數學與電子相關知識，而台灣鋼琴家丁曉雯 (Shia-uen Ding) 以鋼琴為主要發聲樂器與 Pd (Pure Data) 之父 Miller Puckette 用他開發的程式產生聲音，再度將科技與音樂的線條交織在一起，獲得最新消息指出，他們受邀於 2016 年誕生的新興藝術節 MOXsonic ( Missouri Experimental Sonic Arts Festival) ，將在 2019 年三月一同再度演出作品 Pluton (P. Manoury, 198) 。深深知曉來 DigiLog 爬文的民間高手眾多，但請容許我在這篇文章囉唆幾句什麼是 Pure Data，並好好介紹丁曉雯與 Miller Puckette。</span></p>
+
+<p> </p>
+
+<p style="text-align:center"><span><img src="https://lh4.googleusercontent.com/KKkFi9R8ZEY3FNVAw6gVnuBvM6XGRBNCuDJ2PiyqBq7cnAdHPtirObXGaQ4lDWifLR4eqtIiVG6q9Z-LIdelhD-pO97IFmDpFY45IkHaZtT8zLEsqfVdqWP8YcGv7L6SoCHIqB7j" loading="lazy" decoding="async" alt="現代鋼琴與電腦音樂的交集 台灣鋼琴家丁曉雯 x PD 之父 Miller Puckette " class="img-fluid"></span></p>
+
+<p style="text-align:center"><span>Photo1: Pure Data, the screenshot of a netpd session by  Reduzent,  wikipedia.org.</span></p>
+
+<p> </p>
+
+<p><span>前幾天 DigiLog 發表一篇 <a href="https://digilog.tw/posts/1132" target="_blank">Max/MSP 入門：用 Max/MSP 製作一段簡單的旋律</a>，其實 Ｍax/MSP 跟 Pure Data 是血脈相連的姊妹，同樣屬於創作聲音、音樂、影像的多媒體軟體，介面使用邏輯上非常相近，皆是圖像語言的編譯方式，雖然 Ｍax/MSP 跟 Pure Data 的作者皆是 Miller Puckette，但是 Pure Data（Pd）屬於自由軟體，許多功能的創建與工具包都是出自社群裡的大大之手，也有許多創意噴發或莫名其妙的作品，多元發展讓人覺得有趣而值得一再玩味，Pd至今仍受到許多音樂家、程式設計師與新媒體藝術家歡迎，並深入研究。</span></p>
+
+<p> </p>
+
+<div style="text-align:center"><span><div class="article-video"><iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/TpEFaJJWBM0" loading="lazy"></iframe></div></span></div>
+
+<p> </p>
+
+<p><span>Miller Puckette（生於1959年）最初是一位數學家於1986年獲得哈佛大學博士學位，他曾在麻省理工學院媒體實驗室直到1986年，而後在 IRCAM（法國巴黎）擔任研究員，現在在加州大學聖地亞哥分校擔任音樂系教授，同時也是哥倫比亞大學和柏林技術大學的客座教授。Puckette 因創建 Ｍax/MSP 跟 Pure Data 而聞名，他也親自撰寫電子音樂的理論與技術 (Theory and Techniques of Electronic Music)，書本呈現電腦合成有趣的又獨道的音色，並在 Pd 語言中呈現其理論並給予範例，Puckette 也在前言中提到 “幾乎任何人都可以立刻在 Max 和 Pd 合成無趣的音色，但要製作有趣的音色那就困難得多，而且需要很多額外的知識，電子音樂的理論與技術一書就在這樣的知識體系裡，該理論對於任何合成過程都相當重要。”[1]  可見 Puckette 對於製作音色的技術層面相當嚴謹。</span></p>
+
+<p> </p>
+
+<div style="text-align:center"><span><div class="article-video"><iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/DjdMaGxjXHE" loading="lazy"></iframe></div></span></div>
+
+<p> </p>
+
+<p><span>另一位共演的台灣鋼琴家丁曉雯 (Shia-uen Ding) 獲美國辛辛那提大學音樂院碩士及博士學位，主修鋼琴，並與 Mara Helmuth 和 Christopher Bailey 教授學習電腦音樂，活躍於現代音樂、電腦音樂等相關領域之表演，演出不僅專業，也培養出自己的詮釋風格與技巧，紐約時報曾形容丁曉雯「大膽刺激」的演出，此外，還創立了結合演出與多媒體藝術的室內樂團「NeXT Ens」，並擔任音樂總監。丁曉雯曾於 2006 年在英國劍橋大學出版社的 Organised Sound 期刊發表過一篇研究 — “結合鋼琴與電子音樂的演奏技巧” (Developing a rhythmic performance practice in music for piano and tape)，論文提及目前有許多優秀的作品結合鋼琴和 “磁帶”，然而演奏這些曲目的鋼琴家卻很少，而這篇論文也提供在技術和美學方面的教學。根據丁曉雯的論文，”磁帶“是一個通用術語，可以用合成出來的聲音製作或是錄製聲音的方式 (兩者皆是早期電子音樂製作的方法)，相對於現場產生出來的聲音是已經固定的部分。</span></p>
+
+<p> </p>
+
+<div style="text-align:center"><span><div class="article-video"><iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/uyllOliP4UA" loading="lazy"></iframe></div></span></div>
+
+<p> </p>
+
+<p><span>在台灣古典音樂網專訪中，丁曉雯回覆 ”您對現代音樂未來發展有何看法?” 的想法，令我印象深刻，她說 “Milton Babbitt 曾經寫過一篇文章，他說音樂也是要”進化的”，他用evolve這個字，意思是我們應該要寫出最好的音樂，但不用去在意一般觀眾懂或不懂，就像物理學發展到最高時，全世界大概只有幾十位可以理解而已，我們不能說不懂的事物我們就不喜歡它，或許艱深難懂的音樂只有少數人可以理解，那我們就尊重現階段的發展持續下去。” [2]  反覆咀嚼這段話之後，也開始思考起過往對於欣賞創作時產生出來的喜好，是否起決於理解的程度？反過來想，當我自己是創作者的身份時，是否有過於預期、在意觀眾的想法而作修改的行為？ </span></p>
+
+<p><br>
+ </p>
+
+<div style="text-align:center"><span><div class="article-video"><iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/LoZW3jEBoMw" loading="lazy"></iframe></div></span></div>
+
+<p> </p>
+
+<p><span>MOXsonic 網站表示 Pluton（1988; 1989年修訂版）這件作品是由 Philippe Manoury 創作的，是 Manoury 和 Miller Puckette 在法國 IRCAM 合作的第二個片段，名為Sonus ex Machina，在鋼琴演奏和技術上，演奏Pluton是很困難的，因此很少能聽到現場演奏，現在的演出是直接從原始 Max 程式移植到 Pure Data 去執行，盡可能忠實地呈現原版的狀態。雖然網路上已經有 Pluton 不同版本的演出紀錄，但仍然期待有天可以親臨現場觀看演出。</span></p>
+
+<p> </p>
+
+<div style="text-align:center"><span><div class="article-video"><iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/W9xjcOrl-kk" loading="lazy"></iframe></div></span></div>
+
+<p style="text-align:center"><span>Pluton (Piano, Computer) (P. Manoury, 1987)</span></p>
+
+<p><span>Note:</span></p>
+
+<p><span>[1] 原文：“Max and Pd allow almost anyone to synthesize uninteresting timbres almost instantly. Making interesting timbres is much more difficult and requires much additional knowledge. The Theory and Technique of Electronic Music is that body of knowledge. The theory is important for any synthesis program.”</span></p>
+
+<p><span>Miller Puckette, The Theory and Technique of Electronic Music, DRAFT: December 30, 2006, p.ix.</span></p>
+
+<p> </p>
+
+<p><span>[2] 對現代音樂未來發展有何看法的回答，鋼琴家 丁曉雯 台灣古典音樂網專訪：</span></p>
+
+<p><span><a href="http://www.t-classical.com/portfolio-posts/shiauuending2" target="_blank">http://www.t-classical.com/portfolio-posts/shiauuending2</a> [Date Accessed October 26, 2018]</span></p>
+
+<p> </p>
+
+<p><span>Reference:</span></p>
+
+<p><span>1- MOXsonic:</span></p>
+
+<p><span><a href="http://moxsonic.org/miller-puckette-and-shia-uen-ding-2019-moxsonic-featured-artists/?fbclid=IwAR1rhIjrybyCcXwH8mhlVTm5THN5xL00Gaem5KFVFLc3bNN19CqPIgfzQJI" target="_blank">http://moxsonic.org/miller-puckette-and-shia-uen-ding-2019-moxsonic-featured-artists/?fbclid=IwAR1rhIjrybyCcXwH8mhlVTm5THN5xL00Gaem5KFVFLc3bNN19CqPIgfzQJI</a></span></p>
+
+<p><span>2- Miller Puckette’s website:</span></p>
+
+<p><span><a href="http://msp.ucsd.edu/" target="_blank">http://msp.ucsd.edu/</a></span></p>
+
+<p><span>3- Shia-uen Ding‘s website:</span></p>
+
+<p><span><a href="http://www.shiauuending.com/index.html" target="_blank">http://www.shiauuending.com/index.html</a></span></p>
+
+<p><span>4- 鋼琴家 丁曉雯, 台灣古典音樂網:</span></p>
+
+<p><span><a href="http://www.t-classical.com/portfolio-posts/shiauuending" target="_blank">http://www.t-classical.com/portfolio-posts/shiauuending</a></span></p>
+
+<p> </p>
+
+		</article>
+
+		<div class="post-share">
+			<span class="post-share__label">分享這篇文章</span>
+			<a class="post-share__btn post-share__btn--line" href="https://social-plugins.line.me/lineit/share?url=https%3A%2F%2Fdigilog.tw%2Fposts%2F1136" target="_blank" rel="noopener">LINE</a>
+			<a class="post-share__btn post-share__btn--fb" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdigilog.tw%2Fposts%2F1136" target="_blank" rel="noopener">Facebook</a>
+			<button type="button" class="post-share__btn post-share__btn--copy" data-share-url="https://digilog.tw/posts/1136">複製連結</button>
+		</div>
+
+		<div class="mt-5 mb-4">
+			<p class="text-muted"><img alt="瀏覽次數" loading="lazy" src="https://digilog.tw/assets/icon_s/watched-06874eefad981e4b336ac1614b2247dcf0ce61c8ce0da1fec7c4ed1312c616b0.svg" />  此文章被關注 7973 次</p>
+		</div>
+
+		<div class="card post-author-card">
+			<div class="card-block">
+			<div class="row">
+				<div class="col-md-2 col-12 text-center">
+						<a href="/authors/16"><img alt="網癮少女" loading="lazy" class="rounded img-fluid post-author-card__avatar" src="https://digilog.tw/uploads/author/cover/16/44381.jpg" /></a>
+				</div>
+				<div class="col-md-10 col-12">
+				<p>作者： <a href="/authors/16">網癮少女</a></p>
+				<p style="margin-right:3%;">簡介：新手採訪聲音藝術/音樂的人們與事件，請多多指教，謝謝。</p>
+				</div>
+			</div>
+			</div>
+		</div>
+
+		<div class="post-subscribe-cta text-center mt-4 mb-4 pt-3">
+	<img width="160" class="mb-1" loading="lazy" src="https://digilog.tw/assets/subscribe_digilog-7e85c20353463fba594828c3150a8deea87b496c96ef94b08ab734f261920f47.png" />
+	<div class="subscription-iframe-wrap mx-auto">
+		<iframe width="100%" height="280" loading="lazy" src="https://08f024a6.sibforms.com/serve/MUIFALHikKH5HnhPnRfXISFliUygpfQlka1ePcosA97DkhCAE6yCWIjn0iOnMFXf7NCrSyVjrvXWhFh5HbrDqW4IRTYVcSwx6creVidA8NsfdqO2S4ZqmNpPeTBz_GE-X39plrROaRUtWI6QqL7mTitmq_I41Nne7HGdT3J_OYJAlr9lIGQPKveEWBqIcGGcw3Wagre2ujj-vQtz" frameborder="0" scrolling="no" allowfullscreen style="display:block;max-width:100%;"></iframe>
+	</div>
+</div>
+
+
+		<div class="row">
+		<div class="col-12 mt-5">
+			<h3 class="text-primary"><b>相關文章</b></h3>
+			<div class="divider"></div>
+		</div>
+			<div class="col-md-4 col-12 mt-2 mb-2">
+				<div class="card card-post border-0">
+	    		<a href="/posts/203">
+	        		<img alt="Loopmasters 開始賣 Audio Plugin 了！" loading="lazy" style="width:100%;height:180px;object-fit:cover;" class="rounded img-fluid img-post" src="https://digilog.tw/uploads/post/cover/203/thumb_webp_plugin.webp" />
+</a>	          <a href="/posts/203">
+	            <p class="post-card-title mt-3">Loopmasters 開始賣 Audio Plugin 了！</p>
+</a>				</div>
+	    </div>
+			<div class="col-md-4 col-12 mt-2 mb-2">
+				<div class="card card-post border-0">
+	    		<a href="/posts/354">
+	        		<img alt="動畫解析喇叭是如何運作的。" loading="lazy" style="width:100%;height:180px;object-fit:cover;" class="rounded img-fluid img-post" src="https://digilog.tw/uploads/post/cover/354/thumb_webp_How_speakers_make_sound_-_Animagraffs.webp" />
+</a>	          <a href="/posts/354">
+	            <p class="post-card-title mt-3">動畫解析喇叭是如何運作的。</p>
+</a>				</div>
+	    </div>
+			<div class="col-md-4 col-6 mt-2 mb-2">
+				<div class="card card-post border-0">
+	    		<a href="/posts/743">
+	        		<img alt="Prophet 12 上的 feedback 功能被製作成 Dave Smith 第三款模組 " loading="lazy" style="width:100%;height:180px;object-fit:cover;" class="rounded img-fluid img-post" src="https://digilog.tw/uploads/post/cover/743/thumb_webp_DSM03-Product-BIG.webp" />
+</a>	          <a href="/posts/743">
+	            <p class="post-card-title mt-3">Prophet 12 上的 feedback 功能被製作成 Dave Smith 第三款模組 </p>
+</a>				</div>
+	    </div>
+			<div class="col-md-4 col-6 mt-2 mb-2">
+				<div class="card card-post border-0">
+	    		<a href="/posts/844">
+	        		<img alt="終於聽到聲音了，Elektron Digitakt 線上試玩！" loading="lazy" style="width:100%;height:180px;object-fit:cover;" class="rounded img-fluid img-post" src="https://digilog.tw/uploads/post/cover/844/thumb_webp_Digitakt_Online.webp" />
+</a>	          <a href="/posts/844">
+	            <p class="post-card-title mt-3">終於聽到聲音了，Elektron Digitakt 線上試玩！</p>
+</a>				</div>
+	    </div>
+			<div class="col-md-4 col-6 mt-2 mb-2">
+				<div class="card card-post border-0">
+	    		<a href="/posts/1056">
+	        		<img alt="Spitfire Audio 提供 LABS 系列 Soft Piano 及 Strings 資料庫免費下載！" loading="lazy" style="width:100%;height:180px;object-fit:cover;" class="rounded img-fluid img-post" src="https://digilog.tw/uploads/post/cover/1056/thumb_webp______2018-06-08___6.19.37.webp" />
+</a>	          <a href="/posts/1056">
+	            <p class="post-card-title mt-3">Spitfire Audio 提供 LABS 系列 Soft Piano 及 Strings 資料庫免費下載！</p>
+</a>				</div>
+	    </div>
+			<div class="col-md-4 col-6 mt-2 mb-2">
+				<div class="card card-post border-0">
+	    		<a href="/posts/1065">
+	        		<img alt="經典監聽喇叭 NS-10 再現？！Avantone Pro CLA-10" loading="lazy" style="width:100%;height:180px;object-fit:cover;" class="rounded img-fluid img-post" src="https://digilog.tw/uploads/post/cover/1065/thumb_webp_cla10_0_940x400.webp" />
+</a>	          <a href="/posts/1065">
+	            <p class="post-card-title mt-3">經典監聽喇叭 NS-10 再現？！Avantone Pro CLA-10</p>
+</a>				</div>
+	    </div>
+			<div class="col-md-4 col-6 mt-2 mb-2">
+				<div class="card card-post border-0">
+	    		<a href="/posts/1080">
+	        		<img alt="808Day 即將推出更多款 Roland 與 Puma 合作款球鞋！" loading="lazy" style="width:100%;height:180px;object-fit:cover;" class="rounded img-fluid img-post" src="https://digilog.tw/uploads/post/cover/1080/thumb_webp_P5Dv5HzLvD8dv9wGaFJd8k-970-80.webp" />
+</a>	          <a href="/posts/1080">
+	            <p class="post-card-title mt-3">808Day 即將推出更多款 Roland 與 Puma 合作款球鞋！</p>
+</a>				</div>
+	    </div>
+			<div class="col-md-4 col-6 mt-2 mb-2">
+				<div class="card card-post border-0">
+	    		<a href="/posts/1117">
+	        		<img alt="Rob Papen 的全新實惠 Plug-in－MasterMagic" loading="lazy" style="width:100%;height:180px;object-fit:cover;" class="rounded img-fluid img-post" src="https://digilog.tw/uploads/post/cover/1117/thumb_webp______2018-09-28___8.11.57.webp" />
+</a>	          <a href="/posts/1117">
+	            <p class="post-card-title mt-3">Rob Papen 的全新實惠 Plug-in－MasterMagic</p>
+</a>				</div>
+	    </div>
+			<div class="col-md-4 col-6 mt-2 mb-2">
+				<div class="card card-post border-0">
+	    		<a href="/posts/1130">
+	        		<img alt="我的合作夥伴不是人類 - 淺談 Ash Koosha 與 AI Yona 聯手打造專輯 “Return 0”" loading="lazy" style="width:100%;height:180px;object-fit:cover;" class="rounded img-fluid img-post" src="https://digilog.tw/uploads/post/cover/1130/thumb_webp_ash_koosha_return_0.webp" />
+</a>	          <a href="/posts/1130">
+	            <p class="post-card-title mt-3">我的合作夥伴不是人類 - 淺談 Ash Koosha 與 AI Yona 聯手打造專輯 “Return 0”</p>
+</a>				</div>
+	    </div>
+			<div class="col-md-4 col-6 mt-2 mb-2">
+				<div class="card card-post border-0">
+	    		<a href="/posts/1315">
+	        		<img alt="來自 TE 的新消息：OP-Z 更新增加取樣功能、PO Modular 170、16 正式開放供應！" loading="lazy" style="width:100%;height:180px;object-fit:cover;" class="rounded img-fluid img-post" src="https://digilog.tw/uploads/post/cover/1315/thumb_webp_%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7_2019-07-11_%E4%B8%8B%E5%8D%886.24.54.webp" />
+</a>	          <a href="/posts/1315">
+	            <p class="post-card-title mt-3">來自 TE 的新消息：OP-Z 更新增加取樣功能、PO Modular 170、16 正式開放供應！</p>
+</a>				</div>
+	    </div>
+			<div class="col-md-4 col-6 mt-2 mb-2">
+				<div class="card card-post border-0">
+	    		<a href="/posts/1702">
+	        		<img alt="Behringer 指控 “某些” 音樂圈網紅不再報導該公司的產品" loading="lazy" style="width:100%;height:180px;object-fit:cover;" class="rounded img-fluid img-post" src="https://digilog.tw/uploads/post/cover/1702/thumb_webp_behringer_q.webp" />
+</a>	          <a href="/posts/1702">
+	            <p class="post-card-title mt-3">Behringer 指控 “某些” 音樂圈網紅不再報導該公司的產品</p>
+</a>				</div>
+	    </div>
+			<div class="col-md-4 col-6 mt-2 mb-2">
+				<div class="card card-post border-0">
+	    		<a href="/posts/2151">
+	        		<img alt="Sennheiser 耳機部門再度易主？瑞士母公司 Sonova 宣布出售消費音訊事業" loading="lazy" style="width:100%;height:180px;object-fit:cover;" class="rounded img-fluid img-post" src="https://digilog.tw/uploads/post/cover/2151/thumb_webp_sonova.webp" />
+</a>	          <a href="/posts/2151">
+	            <p class="post-card-title mt-3">Sennheiser 耳機部門再度易主？瑞士母公司 Sonova 宣布出售消費音訊事業</p>
+</a>				</div>
+	    </div>
+	
+		</div>
+
+			<div class="comment_reply_start" style="margin-top:8%;margin-bottom:8%;">
+				<h3 class="text-primary"><b>討論區</b></h3>
+				<div class="divider"></div>
+				 <div class="row">
+ 	<div class="col-12 mb-3">
+ <!-- not login -->
+    <div class="row">
+    	<div class="col-2" style='padding-left:6%;'>
+	    	<img class="img-fluid rounded-circle mx-auto d-block" src="https://digilog.tw/assets/no-profile-01e4e17c820d8fe8d989b6c855cecfe09a255aa6ce35555b011f834be26cf24e.svg" width="64" height="64" />
+    	</div>
+    	<div class="col-10 mt-2">
+			<input type="text" name="comment" id="comment_reply_content" readonly="readonly" maxlength="500" placeholder="登入會員，參與更多音樂討論！" class="form-control" />
+	    <div class="float-left mt-2">
+        <a class="btn btn-success" href="/users/sign_in">登入會員</a>
+	    </div>
+
+    	</div>
+    </div>
+ 	</div>
+ </div>
+
+					<div id="replies_comment">
+		<p><small>目前尚無評論</small></p>
+	</div>
+
+				<script>
+					initialize_commen_reply(1136, "Post");
+					initialize_commen_sub_reply();
+				</script>
+			</div><!--.comment_reply_start-->
+	</div><!--.col-md-9-->
+
+	<div class="col-md-3 col-sm-12">
+
+		<div class="col-12 divider-dot mt-3">
+			<h4>其他人同時也在關注的文章：</h4>
+		</div>
+		<div class="row">
+			<div class="col-4 mb-2 card-post">
+					<a href="/posts/748"><img alt="模組化MIDI控制器：Joué" loading="lazy" style="width:100%;height:110px;object-fit:cover;" class="img-fluid img-post" src="https://digilog.tw/uploads/post/cover/748/thumb_webp_slide2.webp" /></a>
+			</div>
+			<div class="col-8">
+				<p class="post-sidebar-title"><a href="/posts/748">模組化MIDI控制器：Joué</a></p>
+			</div>
+			<div class="col-4 mb-2 card-post">
+					<a href="/posts/1002"><img alt=" Imaginando 推出免費的 modulation 效果器插件" loading="lazy" style="width:100%;height:110px;object-fit:cover;" class="img-fluid img-post" src="https://digilog.tw/uploads/post/cover/1002/thumb_webp_dlym-release.webp" /></a>
+			</div>
+			<div class="col-8">
+				<p class="post-sidebar-title"><a href="/posts/1002"> Imaginando 推出免費的 modulation 效果器插件</a></p>
+			</div>
+			<div class="col-4 mb-2 card-post">
+					<a href="/posts/1175"><img alt="Akai 推出旗艦級機種，全新節奏工作站 Force！" loading="lazy" style="width:100%;height:110px;object-fit:cover;" class="img-fluid img-post" src="https://digilog.tw/uploads/post/cover/1175/thumb_webp_akai-force-sequence-1024x565.webp" /></a>
+			</div>
+			<div class="col-8">
+				<p class="post-sidebar-title"><a href="/posts/1175">Akai 推出旗艦級機種，全新節奏工作站 Force！</a></p>
+			</div>
+			<div class="col-4 mb-2 card-post">
+					<a href="/posts/1385"><img alt="6 個免費混音小工具 Plugin，讓你的聲音更加精緻完整！" loading="lazy" style="width:100%;height:110px;object-fit:cover;" class="img-fluid img-post" src="https://digilog.tw/uploads/post/cover/1385/thumb_webp_aaaaaaaaa.webp" /></a>
+			</div>
+			<div class="col-8">
+				<p class="post-sidebar-title"><a href="/posts/1385">6 個免費混音小工具 Plugin，讓你的聲音更加精緻完整！</a></p>
+			</div>
+			<div class="col-4 mb-2 card-post">
+					<a href="/posts/1903"><img alt="從合成器到耳機的跨界魔法──Alessandro Cortini × Campfire Audio「Clara」IEM 監聽耳機" loading="lazy" style="width:100%;height:110px;object-fit:cover;" class="img-fluid img-post" src="https://digilog.tw/uploads/post/cover/1903/thumb_webp_cortini-campfire.webp" /></a>
+			</div>
+			<div class="col-8">
+				<p class="post-sidebar-title"><a href="/posts/1903">從合成器到耳機的跨界魔法──Alessandro Cortini × Campfire Audio「Clara」IEM 監聽耳機</a></p>
+			</div>
+			<div class="col-4 mb-2 card-post">
+					<a href="/posts/2003"><img alt="AudioThing Things Fold 會呼吸的聲音摺紙術！不只是 West Coast，更是限時免費的動態神器" loading="lazy" style="width:100%;height:110px;object-fit:cover;" class="img-fluid img-post" src="https://digilog.tw/uploads/post/cover/2003/thumb_webp_things-fold.webp" /></a>
+			</div>
+			<div class="col-8">
+				<p class="post-sidebar-title"><a href="/posts/2003">AudioThing Things Fold 會呼吸的聲音摺紙術！不只是 West Coast，更是限時免費的動態神器</a></p>
+			</div>
+		</div><!--.row-->
+		
+		<div class="col-12 divider-dot mt-3">
+			<h4>好玩有趣的音樂產品：</h4>
+		</div>
+		<div class="col-12" id="post-related-products">
+			<div class="card mb-2"  style="width:100%;">
+				<a href="/products/834">
+				<div class="row">
+					<div class="col-4">
+							<img alt="2hp Freez" loading="lazy" style="width:88px;height:88px" class="img-fluid img-product" src="https://digilog.tw/uploads/product/cover/834/thumb_webp_freez.webp" />
+					</div>
+					<div class="col-8">
+						<small class="text-black">2hp Freez</small>
+					</div>
+				</div>
+</a>			</div>
+			<div class="card mb-2"  style="width:100%;">
+				<a href="/products/3128">
+				<div class="row">
+					<div class="col-4">
+							<img alt="FLUX EVO Series Plugin Pack EVO 系列混音效果器套組 (下載版)" loading="lazy" style="width:88px;height:88px" class="img-fluid img-product" src="https://digilog.tw/uploads/product/cover/3128/thumb_webp_Flux_EVO_Series_Pack.webp" />
+					</div>
+					<div class="col-8">
+						<small class="text-black">FLUX EVO Series Plugin Pack EVO 系列混音效果器...</small>
+					</div>
+				</div>
+</a>			</div>
+			<div class="card mb-2"  style="width:100%;">
+				<a href="/products/3133">
+				<div class="row">
+					<div class="col-4">
+							<img alt="Eventide H9 Plugin Series 效果器套組 (下載版)" loading="lazy" style="width:88px;height:88px" class="img-fluid img-product" src="https://digilog.tw/uploads/product/cover/3133/thumb_webp_H9_Plugin_Series_1.webp" />
+					</div>
+					<div class="col-8">
+						<small class="text-black">Eventide H9 Plugin Series 效果器套組 (下載版)</small>
+					</div>
+				</div>
+</a>			</div>
+			<div class="card mb-2"  style="width:100%;">
+				<a href="/products/3308">
+				<div class="row">
+					<div class="col-4">
+							<img alt="XAOC Devices BERLIN" loading="lazy" style="width:88px;height:88px" class="img-fluid img-product" src="https://digilog.tw/uploads/product/cover/3308/thumb_webp_XAOC_Devices_Berlin_11.webp" />
+					</div>
+					<div class="col-8">
+						<small class="text-black">XAOC Devices BERLIN</small>
+					</div>
+				</div>
+</a>			</div>
+			<div class="card mb-2"  style="width:100%;">
+				<a href="/products/3616">
+				<div class="row">
+					<div class="col-4">
+							<img alt="Applied Acoustics Systems Strum GS-2 吉他音源 Plugin (下載版)" loading="lazy" style="width:88px;height:88px" class="img-fluid img-product" src="https://digilog.tw/uploads/product/cover/3616/thumb_webp_Strum_GS-2.webp" />
+					</div>
+					<div class="col-8">
+						<small class="text-black">Applied Acoustics Systems Strum GS-2 吉他...</small>
+					</div>
+				</div>
+</a>			</div>
+			<div class="card mb-2"  style="width:100%;">
+				<a href="/products/4588">
+				<div class="row">
+					<div class="col-4">
+							<img alt="DDMF All Plugins Bundle 全部音訊 Plugin 套組 (下載版)" loading="lazy" style="width:88px;height:88px" class="img-fluid img-product" src="https://digilog.tw/uploads/product/cover/4588/thumb_webp_ddmf_all_plugins_bundle.webp" />
+					</div>
+					<div class="col-8">
+						<small class="text-black">DDMF All Plugins Bundle 全部音訊 Plugin 套組 ...</small>
+					</div>
+				</div>
+</a>			</div>
+			<div class="card mb-2"  style="width:100%;">
+				<a href="/products/4767">
+				<div class="row">
+					<div class="col-4">
+							<img alt="Universal Audio UAD Anthem 類比合成器音源 Plugin (下載版)" loading="lazy" style="width:88px;height:88px" class="img-fluid img-product" src="https://digilog.tw/uploads/product/cover/4767/thumb_webp_ua_uad_anthem.webp" />
+					</div>
+					<div class="col-8">
+						<small class="text-black">Universal Audio UAD Anthem 類比合成器音源 Plug...</small>
+					</div>
+				</div>
+</a>			</div>
+			<div class="card mb-2"  style="width:100%;">
+				<a href="/products/4859">
+				<div class="row">
+					<div class="col-4">
+							<img alt="MeldaProduction MMorph 雙音源頻譜 Morphing 效果器 Plugin (下載版)" loading="lazy" style="width:88px;height:88px" class="img-fluid img-product" src="https://digilog.tw/uploads/product/cover/4859/thumb_webp_meldaproduction_mmorph.webp" />
+					</div>
+					<div class="col-8">
+						<small class="text-black">MeldaProduction MMorph 雙音源頻譜 Morphing 效...</small>
+					</div>
+				</div>
+</a>			</div>
+			<div class="card mb-2"  style="width:100%;">
+				<a href="/products/4901">
+				<div class="row">
+					<div class="col-4">
+							<img alt="MeldaProduction MReverb 空間定位演算法 Reverb 效果器 Plugin (下載版)" loading="lazy" style="width:88px;height:88px" class="img-fluid img-product" src="https://digilog.tw/uploads/product/cover/4901/thumb_webp_meldaproduction_mreverb.webp" />
+					</div>
+					<div class="col-8">
+						<small class="text-black">MeldaProduction MReverb 空間定位演算法 Reverb ...</small>
+					</div>
+				</div>
+</a>			</div>
+			<div class="card mb-2"  style="width:100%;">
+				<a href="/products/5517">
+				<div class="row">
+					<div class="col-4">
+							<img alt="Kuassa Efektor Distortion Bundle 失真效果器套組 (下載版)" loading="lazy" style="width:88px;height:88px" class="img-fluid img-product" src="https://digilog.tw/uploads/product/cover/5517/thumb_webp_efektor_distortion_bundle.webp" />
+					</div>
+					<div class="col-8">
+						<small class="text-black">Kuassa Efektor Distortion Bundle 失真效果器套...</small>
+					</div>
+				</div>
+</a>			</div>
+		</div>
+
+	</div>
+	</div>
+</div><!--.container-->
+
+<script>
+$(document).ready(function(){
+  // 閱讀進度條：以內文（#article）讀完比例計算
+  var bar = document.querySelector('.reading-progress__bar');
+  var article = document.getElementById('article');
+  if (bar && article) {
+    var updateProgress = function(){
+      var rect = article.getBoundingClientRect();
+      var total = rect.height - window.innerHeight;
+      var progress;
+      if (total > 0) {
+        progress = Math.min(1, Math.max(0, -rect.top / total));
+      } else {
+        progress = rect.top < 0 ? 1 : 0;
+      }
+      bar.style.width = (progress * 100) + '%';
+    };
+    $(window).on('scroll resize', updateProgress);
+    updateProgress();
+  }
+
+  $('.post-share__btn--copy').on('click', function(){
+    var btn = this;
+    var url = btn.getAttribute('data-share-url');
+    var showCopied = function(){
+      var original = btn.textContent;
+      btn.textContent = '已複製！';
+      setTimeout(function(){ btn.textContent = original; }, 2000);
+    };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(showCopied);
+    } else {
+      var input = document.createElement('input');
+      input.value = url;
+      document.body.appendChild(input);
+      input.select();
+      document.execCommand('copy');
+      document.body.removeChild(input);
+      showCopied();
+    }
+  });
+});
+</script>
+  <footer class="site-footer">
+	<div class="container">
+		<!-- Mobile: 聯絡優先 / Desktop: 三欄並排 -->
+		<div class="row">
+			<!-- 欄 1: 連結 (desktop 左) / (mobile 第三) -->
+			<div class="col-md-4 col-12 order-3 order-md-1 footer-links">
+				<a href="/lab/about">關於我們</a>
+				<a href="/lab/contact">聯絡資訊</a>
+				<a href="/job">徵才資訊</a>
+				<a href="/service">購物說明</a>
+			</div>
+
+			<!-- 欄 2: 聯絡資訊 (desktop 中) / (mobile 第一) -->
+			<div class="col-md-4 col-12 order-1 order-md-2 footer-contact text-center">
+				<p class="footer-brand">DigiLog 聲響實驗室</p>
+				<p>
+					<a href="tel:+886-2-23638171"><i class="fas fa-phone-alt"></i> +886 2-23638171</a>
+				</p>
+				<p>
+					<a href="/cdn-cgi/l/email-protection#e4978196928d8781a4808d838d888b83ca9093"><i class="fas fa-envelope"></i> <span class="__cf_email__" data-cfemail="691a0c1b1f000a0c290d000e0005060e471d1e">[email&#160;protected]</span></a>
+				</p>
+			</div>
+
+			<!-- 欄 3: 社群 (desktop 右) / (mobile 第二) -->
+			<div class="col-md-4 col-12 order-2 order-md-3 footer-social text-center">
+				<div class="footer-social-icons">
+					<a target="_blank" rel="noopener" href="https://facebook.com/digilog.tw">
+						<img alt="Facebook" loading="lazy" src="https://digilog.tw/assets/icon_s/facebook-5919db6243e00389f7a9aea82d5a37d946e195d0e7b8253ec3272db119fa4d21.png" />
+</a>					<a target="_blank" rel="noopener" href="https://instagram.com/digilog.tw/">
+						<img alt="Instagram" loading="lazy" src="https://digilog.tw/assets/icon_s/instagram-3bb1f81d6858e5bfd2967b7ab19667fc3b382b28ea19b2b7ca1b20112435bd41.png" />
+</a>					<a target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCMl1PUdzg9QQP-hfQqEQF1A">
+						<img alt="YouTube" loading="lazy" src="https://digilog.tw/assets/icon_s/youtube-d37555feccecefdc297f1cf6653ba8f3dadefe8b3adb69bd1b2d43f422509487.png" />
+</a>				</div>
+				<a href="https://line.me/R/ti/p/%40digilog" target="_blank" rel="noopener">
+					<img width="130" alt="加入好友" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png" loading="lazy">
+				</a>
+				<p class="text-muted mt-1">LineID: @digilog</p>
+			</div>
+		</div>
+
+		<!-- 版權列 -->
+		<div class="footer-bottom">
+			<small>
+				&copy; 2017-2026 DigiLog (類比動態有限公司 統編：54173942)<br>
+				<a href="/privacy">隱私權政策</a> 與 <a href="/terms">服務條款</a>
+			</small>
+		</div>
+	</div>
+</footer>
+
+	<!-- Mobile nav -->
+<div class="hidden-md-up">
+	<div id="nav-mobile" class="nav-mobile">
+		<div style="width:100%;margin:auto;">
+    <a class="nav-mobile-item pt-1" data-toggle="modal" data-target="#leftMenu" aria-label="買器材" href="#">
+      <i class="fas fa-th-large" style="font-size:20px; margin-top:6px; display:inline-block;" aria-hidden="true"></i>
+      <p class="mb-0"><small>買器材</small></p>
+</a>
+    <a class="nav-mobile-item pt-1 " aria-label="首頁" href="/">
+      <i class="fas fa-home" style="font-size:20px; margin-top:6px; display:inline-block;" aria-hidden="true"></i>
+      <p class="mb-0"><small>首頁</small></p>
+</a>
+    <a href="#" class="nav-mobile-item pt-1" id="mobileSearchBtn" aria-label="搜尋">
+      <i class="fas fa-search" style="font-size:20px; margin-top:6px; display:inline-block;" aria-hidden="true"></i>
+      <p class="mb-0"><small>搜尋</small></p>
+    </a>
+
+    <a class="nav-mobile-item pt-1 " aria-label="購物車" href="/check_out">
+      <i class="fas fa-shopping-cart" style="font-size:20px; margin-top:6px; display:inline-block;" aria-hidden="true"></i>
+	  	<small><span id="cartItemsAmount" class="badge badge-primary badge-pill cart-items-amount" style="position:absolute; left:56%; top:2px;">
+				0
+			</span></small>
+      <p class="mb-0"><small>購物車</small></p>
+</a>
+				<a class="nav-mobile-item pt-1 " aria-label="登入" href="/users/sign_in">
+					<i class="fas fa-user" style="font-size:20px; margin-top:6px; display:inline-block;" aria-hidden="true"></i>
+					<p class="mb-0"><small>登入</small></p>
+</a>		</div>
+	</div>
+
+</div>
+
+
+<!-- Mobile Search Overlay -->
+<div id="mobileSearchOverlay" class="mobile-search-overlay" style="display:none;">
+  <div class="mobile-search-header">
+    <a href="#" id="mobileSearchClose" class="mobile-search-back">
+      <i class="fas fa-arrow-left"></i>
+    </a>
+    <form class="mobile-search-form" action="/search" accept-charset="UTF-8" method="get">
+      <input type="text" name="query" id="mobileSearchInput" class="mobile-search-input" placeholder="搜尋商品" autocomplete="off" hx-get="/search/autocomplete" hx-target="#mobile-search-autocomplete-dropdown" hx-trigger="input changed delay:300ms, focus" />
+      <button type="submit" class="mobile-search-submit">
+        <i class="fas fa-search"></i>
+      </button>
+</form>  </div>
+  <div id="mobile-search-autocomplete-dropdown" class="mobile-search-results"></div>
+</div>
+
+<!-- Left Menu（內容由 /nav/mobile_menu 首次打開時 lazy load） -->
+<div class="modal left-menu fade" id="leftMenu" tabindex="-1" role="dialog" aria-label="買器材">
+	<div class="modal-dialog modal-mobile-dialog" role="document">
+		<div class="modal-content modal-mobile-content modal-content-menu">
+
+			<div class="drill-menu-header">
+				<div class="menu-tab-bar" role="tablist">
+					<button type="button" class="menu-tab active js-menu-tab" data-menu-tab="shop" role="tab" aria-selected="true" aria-controls="menuTabShop">買器材</button>
+					<button type="button" class="menu-tab js-menu-tab" data-menu-tab="explore" role="tab" aria-selected="false" aria-controls="menuTabExplore">探索</button>
+				</div>
+				<button type="button" class="drill-menu-close" data-dismiss="modal" aria-label="關閉">
+					<i class="fas fa-times" aria-hidden="true"></i>
+				</button>
+			</div>
+
+			<div class="modal-body p-0 drill-menu-viewport" id="drillMenuContent"
+			     data-menu-url="/nav/mobile_menu">
+				<div class="drill-menu-loading text-center py-4" aria-hidden="true">
+					<i class="fas fa-spinner fa-spin"></i>
+				</div>
+			</div>
+
+		</div><!-- modal-content modal-mobile-content -->
+	</div><!-- modal-dialog modal-mobile-dialog -->
+</div><!-- modal -->
+
+<!-- Right Menu -->
+<div class="modal right-menu fade" id="rightMenu" tabindex="-1" role="dialog" aria-labelledby="rightMenuLabel" style="top:0;left:0;">
+	<div class="modal-dialog modal-mobile-dialog" role="document">
+		<div class="modal-content modal-mobile-content modal-content-menu">
+
+			<div class="modal-body p-0">
+			</div>
+
+		</div><!-- modal-content -->
+	</div><!-- modal-dialog modal-mobile-dialog -->
+</div><!-- modal -->
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+    function openLargeAjaxLoader()
+    {
+        // lock scroll
+        var body = document.getElementsByTagName("BODY")[0];
+        body.style.overflow =  "hidden";
+
+        loaderDiv = document.getElementById("_largeAjaxLoaderDiv");
+        loaderImg = document.getElementById("_largeAjaxLoaderImg");
+        loaderDiv.style.display = "inline";
+        loaderImg.style.display = "inline";
+
+        loaderDiv.style.top =  window.scrollY + "px";
+    }
+    function closeLargeAjaxLoader()
+    {
+        //unlock scroll
+        var body = document.getElementsByTagName("BODY")[0];
+        body.style.overflow =  "";
+
+        loaderDiv = document.getElementById("_largeAjaxLoaderDiv");
+        loaderImg = document.getElementById("_largeAjaxLoaderImg");
+        loaderDiv.style.display = "none";
+        loaderImg.style.display = "none";
+    }
+
+    // 關掉Ajax圖, 讓使用者回到上頁時還看的到正常畫面
+    var old_pagehide = window.onpagehide
+    window.onpagehide = function (){
+    	if (old_pagehide != null)
+    	{
+    		old_pagehide();
+    	}
+    	closeLargeAjaxLoader();
+    }
+</script>
+<style type="text/css">
+  #_largeAjaxLoaderDiv
+  {
+    width:100%;
+    height:100%;
+    background-color:black !important;
+    opacity:0.9;
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:2000;
+    display:none;
+  }
+  #_largeAjaxLoaderImg
+  {
+	position:absolute;
+
+	//width: 100%;
+	//height: 16px;
+	top: 50%;
+	left: 46%;
+	z-index:2001;
+  display:none;
+	}
+</style>
+
+
+
+<div class="col-12" id="_largeAjaxLoaderDiv">
+	<div id="_largeAjaxLoaderImg">
+			<img alt="" src="https://digilog.tw/assets/digilog-9a26dd98ee8eda6d6436f2bbf2667a93e14a5031cb9235fb6fc757aebc8600ff.gif" width="36" height="36" />
+<!-- 		  <div class="progress-bar progress-bar-striped bg-danger progress-bar-animated" style="width: 100%"></div> -->
+	</div>
+</div>
+
+
+  <!-- 快捷加車選項選擇 Modal -->
+  <div class="modal fade" id="quickAddOptionModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-dialog-centered modal-sm" role="document">
+      <div class="modal-content">
+        <div class="modal-header py-2">
+          <h6 class="modal-title">選擇規格</h6>
+          <button type="button" class="close" data-dismiss="modal"><span>&times;</span></button>
+        </div>
+        <div class="modal-body" id="quickAddOptionBody">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <template>running in new env</template>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a5ccd7380e4d0d12',t:'MTc5NTA2NjQxMg=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a5ccd7380e4d0d12',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-14",
+  "standards_version": 10,
+  "total_findings": 21,
+  "total_pages": 18,
+  "actions": [
+    {
+      "page": "organizations/democratic-progressive-party.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "organizations/taiwan-center-choir.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-daniel-c-hsu.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-fu-tong-hsu.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-jack-j-chen.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-jack-j-chen.md",
+      "finding": "LINKS_HIGH_DENSITY",
+      "finding_prefix": "LINKS_HIGH_DENSITY",
+      "action": "UNKNOWN_FINDING_TYPE",
+      "detail": "No action mapping for finding: LINKS_HIGH_DENSITY",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/dr-wen-y-chen.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/fang-ming-chen.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/fei-kuang-tseng.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/fu-mei-chang.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/helen-wang.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/juliar-wang.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/prof-ming-min-peng.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/tony-hsieh.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/wang-gui-rong.md",
+      "finding": "DESC_TOO_SHORT",
+      "finding_prefix": "DESC_TOO_SHORT",
+      "action": "Expand the first paragraph to provide a meaningful summary of the page",
+      "detail": "First paragraph should be 50+ characters and mention the page subject. Add 1-2 sentences summarizing who/what this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/wang-gui-rong.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "finding_prefix": "DESC_NO_TITLE_MENTION",
+      "action": "Ensure the first paragraph mentions the page subject",
+      "detail": "The first paragraph should reference the person/organization this page is about.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/卓榮泰說.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/李明哲.md",
+      "finding": "DESC_TOO_SHORT",
+      "finding_prefix": "DESC_TOO_SHORT",
+      "action": "Expand the first paragraph to provide a meaningful summary of the page",
+      "detail": "First paragraph should be 50+ characters and mention the page subject. Add 1-2 sentences summarizing who/what this page is about.",
+      "playbook": "P8",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/李明哲.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "high",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/沈伯洋.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/邱垂正.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    }
+  ]
+}

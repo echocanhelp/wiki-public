@@ -60,7 +60,8 @@
     "gene-tsai": {"canonical_slug": "gene-tsai", "name_en": "Gene Tsai", "name_zh": "蔡錦榮", "heal": "ok"},
     "sunu-tsai": {"canonical_slug": "sunu-tsai", "name_en": "Sunu Tsai", "name_zh": "蔡淑女", "heal": "ok"},
     "roger-tsai": {"canonical_slug": "roger-tsai", "name_en": "Roger Tsai", "name_zh": "蔡漢成", "heal": "ok"},
-    "ho-chie-tsai": {"canonical_slug": "ho-chie-tsai", "name_en": "Ho Chie Tsai", "name_zh": "蔡和杰", "heal": "ok"}
+    "ho-chie-tsai": {"canonical_slug": "ho-chie-tsai", "name_en": "Ho Chie Tsai", "name_zh": "蔡和杰", "heal": "ok"},
+    "ding-yi-wang": {"canonical_slug": "ding-yi-wang", "name_en": "Dr. Ding-I Yang", "name_zh": "楊定一", "heal": "display"}
   },
   "display_forbidden": [
     ["Cai Ying-wen", "Tsai Ing-wen"],
@@ -72,5 +73,20 @@
     ["Xie Changting", "Frank Hsieh"],
     ["Han Guo-yu", "Han Kuo-yu"],
     ["Jin Heng-wei", "Chin Heng-wei"]
-  ]
+  ],
+  "surname_taiwan": {
+    "note": "Display surname when we romanize. Not a given-name converter. Not Hong Kong (周 is Chou, not Chow). A person or org's own printed spelling wins over this map. Do not slug-rename from it.",
+    "cai": "Tsai",
+    "xu": "Hsu",
+    "zhang": "Chang",
+    "zheng": "Cheng",
+    "xie": "Hsieh",
+    "xiao": "Hsiao",
+    "gao": "Kao",
+    "guo": "Kuo",
+    "zhou": "Chou",
+    "zeng": "Tseng",
+    "zhu": "Chu",
+    "zou": "Tsou"
+  }
 }

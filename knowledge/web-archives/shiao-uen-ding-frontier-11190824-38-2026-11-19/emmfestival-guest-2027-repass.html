@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Electronic Music Midwest Festival</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="https://emmfestival.org/vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
+  <link href="https://emmfestival.org/fontawesome/css/fontawesome.css" rel="stylesheet">
+  <link href="https://emmfestival.org/fontawesome/css/brands.css" rel="stylesheet">
+  <link href="https://emmfestival.org/fontawesome/css/solid.css" rel="stylesheet">
+
+
+  <!-- Custom styles for this template -->
+  <link href="https://emmfestival.org/css/mainStyle.css" rel="stylesheet">
+
+
+
+
+<style>
+/* CSS Document */
+/* Standard CSS for static Category (Opportunity) pages */
+/*
+/* Available Elements
+<div id="ma_category_name"></div>
+<div id="ma_category_content"></div>
+<div id="ma_category_displayDeadline"></div>
+<div id="ma_category_type"></div>
+<div id="ma_category_receiptType"></div>
+<div id="ma_category_fee"></div>
+<div id="ma_category_prize"></div>
+<div id="ma_category_openTo"></div>
+<div id="ma_category_categoryID">30024</div>
+*/
+
+.NME_categoryStubWrap { /* Wrapper for Opportunity Stub */
+	margin:auto;
+	overflow: hidden;
+	width: 90%;
+	}
+	
+.NME_categoryImageCol{	/* Column for the Image	*/
+ width: 90%;
+ padding: 5px;
+ text-align: center;
+}
+
+.NME_categoryStubWrapCols {
+	width: 100%;
+	overflow: hidden;
+}
+
+.NME_categoryStubElementCol	{ /* Column for element labels (e.g., "Deadline") */
+		float: left;
+		width: 35%;	
+		padding: 5px;
+		text-align: right;
+	}
+
+.NME_categoryStubDataCol	{ /* Column for the elements */
+		float: left;
+		width: 60%;	
+		padding: 5px;	
+	}			
+
+.NME_category_nameClass { /* class for the Title of the Opportunity */
+	text-align:center;
+	color: rgba(153, 26, 41, 1);
+	font-size: 175%;
+	margin: 15px 0px 10px 0px;
+	line-height: 120%;	
+}
+
+.NME_category_ElementLabels { /*For static elements like "deadline, etc..."*/
+	color: rgba(81, 126, 214, 1);
+	text-align:right;
+	padding-right: 5px;	
+	font-weight: bold;
+}
+
+.NME_category_headerClass { /* class for the "Submission Guidelines" */
+	color: rgba(153, 26, 41, 1);	
+	font-size: 125%;
+	margin: 15px 0px 10px 0px;
+	line-height: 120%;	
+	margin-left: 15%;
+}
+	
+.NME_category_stubClass { /* class for the Stub Elements (e.g., Prize, Deadline, etc...) */
+	color: #3a445d;	
+}
+	.NME_category_stubClass::after { 
+    content: "\00a0";		/*adds a space in case an ID element is empty */
+	}
+
+.NME_category_imageClass { 
+max-width: 240px;
+width: 95%;
+padding: 5px;	
+}
+
+.NME_category_ElementContentDivider { /* Space between Opportunity Stub and Submission Content */
+	clear:left; 
+	margin-top: 20px;	
+	}
+
+.NME_category_contentClass { /* class for submission guidelines/main content of opportunity */
+	display:inline-block;
+	color: rgba(29, 44, 77, 1);
+	margin-left: 15%;
+}
+
+.NME_submissionList { /* class to accepted submissions */
+	overflow: hidden;
+}
+
+
+ @media only screen and (max-width:1000px) { 
+ .NME_categoryStubWrap { /* Wrapper for Opportunity Stub */
+	margin:auto;
+	overflow: hidden;
+	width: 100%;
+	max-width: 700px;
+	} 
+	
+.NME_categoryStubElementCol	{ /* Column for element labels (e.g., "Deadline") */
+		float: left;
+		width: 35%;	
+		padding: 5px;
+		max-width: 150px;
+		text-align: right;	
+	}
+
+.NME_categoryStubDataCol	{ /* Column for the elements */
+		float: left;
+		width: 60%;	
+		padding: 5px;
+		max-width: 500px;	
+	}
+
+
+
+
+	
+.NME_button	{ /* Button styling */
+		border: 1px solid #000;	
+		padding: 100px;
+		background-color: #3a445d;
+		color: #fff;
+	}	
+
+</style>
+
+
+
+</head>
+<body>
+
+  
+  <!-- Navigation -->
+
+  <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary fixed-top">
+  
+    <div class="container">
+
+      <a class="navbar-brand" href="https://emmfestival.org/index.php"><img src="https://emmfestival.org/img/emm_logo_animated.gif" width="200"></a>
+     
+     
+     
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span> 
+      </button>
+    
+      
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="https://emmfestival.org/concerts.php">Festival Schedule</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://emmfestival.org/submit.php">Submit</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://emmfestival.org/travel.php">Travel</a>
+          </li>
+          
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              About
+            </a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
+              <a class="dropdown-item" href="https://emmfestival.org/staff.php">Staff</a>
+              <a class="dropdown-item" href="https://emmfestival.org/archives.php">Archives</a>
+             <!-- <a class="dropdown-item" href="images.html">Images</a> -->
+              <a class="dropdown-item" href="mailto:&#109;&#105;&#107;&#101;&#064;&#101;&#109;&#109;&#102;&#101;&#115;&#116;&#105;&#118;&#097;&#108;&#046;&#111;&#114;&#103;">Contact</a>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  
+  
+
+
+
+  <header>
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+          	<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+          	<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+          	<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+          	<li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+        	<li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+        </ol>
+      <div class="carousel-inner" role="listbox">
+      
+        <!-- Slide One - Set the background image for this slide in the line below -->
+        <div class="carousel-item active" style="background-image: url('img/sliderImages/slider-1.jpg')">
+          <div class="carousel-caption d-none d-md-block">
+            <h5><em>"...smooth-running, well-organized, sonically and musically superior event, put on by some truly lovely people."</em></h5>
+              <p><a href="https://new.asymmetrymusicmagazine.com" target="_blank">Asymetry Magazine</a></p>
+          </div>
+        </div>
+        <!-- Slide Two - Set the background image for this slide in the line below -->
+        <div class="carousel-item" style="background-image: url('img/sliderImages/slider-2.jpg')">
+          <div class="carousel-caption d-none d-md-block">
+            <h5><em>"...it was a magical blend of art and community! "</em></h5>
+              <p><a href="http://margaretlancaster.com" target="_blank">Margaret Lancaster - 2018 Guest Performer</a></p>
+          </div>
+        </div>
+        <!-- Slide Three - Set the background image for this slide in the line below -->
+        <div class="carousel-item" style="background-image: url('img/sliderImages/slider-3.jpg')">
+          <div class="carousel-caption d-none d-md-block">
+             <h5><em>"The level of music making, both composing and performing, was simply stunning.  The focused intent and obvious camaraderie of the composers was so refreshing to be around. "  </em></h5>
+              <p>Andrew Spencer - 2012 Guest Performer</p>
+          </div>
+        </div>
+        
+          <!-- Slide Four - Set the background image for this slide in the line below -->
+        <div class="carousel-item" style="background-image: url('img/sliderImages/slider-4.jpg')">
+          <div class="carousel-caption d-none d-md-block">              
+          <h5><em>"I think my students learned a ton from hearing and seeing all the other performances. They had their ears opened wide and are still talking about it now and then as a sort of reference point for discussion."</em></h5>
+              <p><a href="http://www.erichonour.com" target="_blank">Dr. Eric Honour - University of Central Missouri</a></p>
+          </div>
+        </div>      
+        
+          <!-- Slide Five - Set the background image for this slide in the line below -->
+        <div class="carousel-item" style="background-image: url('img/sliderImages/slider-5.jpg')">
+          <div class="carousel-caption d-none d-md-block">
+            <h5><em>"EMM definitely fosters and nurtures composers in the electronic field, which contributes to the growth of music composition in the US."</em></h5>
+              <p>Deovides A. Reyes III, composer</p>
+          </div>
+        </div>       
+
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </header>
+
+  <!-- Page Content -->
+  <div class="container">
+  
+  <!--
+             <div class="alert text-center alert-danger" style="width:100%">
+ 2022 COVID INFORMATION: We require masks during concerts, but masks do not have to be worn in other public spaces at Lewis University. Visitors are asked to fill out the form <a href="https://lewisu.edu/covid-19/visitor-health-screening.htm" target="_blank">HERE</a> 
+  </div> -->
+  
+  
+    <h2 class="my-4">25th Annual EMM Festival</h2>
+Mark your calendars!  EMM will be held at Kansas City Kansas Community College <strong>February 5-6,2027</strong>, when our guest performer will be Shiau-uen Ding. 
+
+
+<h3 class="text-center my-3">
+View our <a href="submit.php">call for submissions</a>
+</h3>
+
+
+
+<hr>
+    <!-- Features Section -->
+    <div class="row">
+      <div class="col-lg-12">
+      
+
+              
+     <div class="float-right m-5 w-50">
+        <img class="img-fluid rounded" src="img/Shiau-uenDing.jpg" alt="Shiau-uen Ding">
+    </div>
+      
+      
+           <h4>2027 Guest Performer: Shiau-uen Ding</h4>
+           
+
+Shiau-uen Ding grew up in Taiwan. She then went to Cincinnati College-Conservatory of Music for a master's and a doctorate, and moved to New York City. She is fortunate to have studied with Ying Wang, Lina Yeh, Eugene Pridonoff (piano), Mara Helmuth (computer music), and Alan Bern (contemporary improvisation), and to work with numerous wonderful composers.<br><br>
+
+Shiau-uen has performed in France, Germany, Belgium, China, India, South Korea, and throughout the US and Taiwan. She premiered Christopher Bailey's Empty Theatre, a quasi-concerto for piano and orchestra, at SinusTon Festival in Germany, and gave the American premiere of Philippe Manoury's Das Wohlpräparierte Klavier with Miller Puckette. She was called a "daredevil" by The New York Times for her performance at Bang on a Can Marathon, and has recorded for Capstone, Centaur, Innova, and New Focus.
+<br><br>
+Shiau-uen enjoys performing old-school classical and contemporary music equally. When she is not making music or listening to music, she might be writing code for financial trading systems. Visit <a href="https://www.shiauuending.com" target="_blank">https://www.shiauuending.com</a> for more information.
+
+ 
+      </div>
+
+    </div>
+    <!-- /.row -->
+
+    <hr>
+
+   <!-- Features Section -->
+    <div class="row">
+      <div class="col-lg-12">
+        <h4>About EMM</h4>
+        <p>Electronic Music Midwest [EMM] is dedicated to programming of a wide variety of electroacoustic music and providing the highest quality performance of electronic media. This annual festival consists of approximately nine short concerts (about 1 hour in length) over the course of a weekend in Autumn. Our goal is to bring together vibrant and interesting artists of all forms, give them a vehicle for their expressions, and a place for them to share ideas with others. <br><br>
+
+EMM is the result of a consortium formed in 2002 between Kansas City Kansas Community College (KCKCC), Lewis University, and the University of Missouri at Kansas City. Officially formed in 2002, this festival was founded by Mike McFerron, Connie Mayfield, and Paul Rudy in 2000 when it was presented at KCKCC under the name "Kansas City Electronic Music Festival." In 2001, the festival continued at Lewis University under the title, "Electronic Music at Lewis - 2001." <br><br>
+
+EMM originally featured an 8-channel surround diffusion system, and now features a 12-channel immersive system, under the guidance of Ian Corbett. The core of the system are Yamaha powered speakers and subwoofers, and a Digico S21 mixer (named "EMMilia"). Many visiting composers comment that EMM is one of the best sounding and smoothest run festivals they have ever attended.<br><br> 
+
+Since its beginning, EMM has programmed approximately 1500 new electroacoustic compositions. Composers have traveled from around the world to graciously share their music with audiences in the Midwest. However, EMM is about more than just playing new music. We strive to create an environment conducive to building community interaction. Most concerts are approximately one hour long, and composers have plenty of time to "talk shop" with each other as well as interact socially with students and audience members.</p>
+      </div>
+
+    </div>
+    <!-- /.row -->
+
+</div>
+<!-- /.container -->
+
+  <!-- Footer -->
+  <footer class="py-5 bg-dark">
+    <div class="container">
+      <p class="m-0 text-right text-light">&copy; 2019 Electronic Music Midwest</p>
+    </div>
+    <!-- /.container -->
+  </footer>
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>

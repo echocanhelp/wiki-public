@@ -1,0 +1,11518 @@
+---
+title: "Chen Mao-xiong (陳茂雄)"
+type: person
+tags:
+  - person
+  - columnist
+  - taiwanjustice-net
+verification_status: pending
+last_reviewed: 2026-10-17
+verified-saturation: 2026-10-16
+---
+
+# Chen Mao-xiong (陳茂雄)
+
+**Chen Mao-xiong** (陳茂雄) is a Taiwanese political columnist who writes opinion columns on Taiwan politics, constitutional issues, and cross-strait relations for [[sources/taiwanjustice-net||taiwanjustice.net (台灣公義網)]], where 475 of his articles are archived. He is bylined in his columns as a retired professor of National Sun Yat-sen University (中山大學退休教授) and president of the Taiwan Security Promotion Association (台灣安全促進會會長). This page collects his Identity Snapshot, article-by-article record, and harvest statistics: 432 title hits and 1,154 body mentions across the taiwanjustice.net archive, with columns also appearing in 台灣時報, 自由時報, 民報, and 小蜜蜂電報.
+
+## Story
+
+Chen Mao-xiong (陳茂雄) is a political columnist whose columns on Taiwan politics, constitutional issues and cross-strait relations are archived at 台灣公義網, where the site index lists 475 articles by him and names him the archive's highest-output columnist, and where he is bylined 中山大學退休教授、台灣安全促進會會長. His columns also ran in 台灣時報, 自由時報, 民報, 小蜜蜂電報 and 太平洋時報; the earliest dated records on this page are two columns of 2012-05-10 — 自由時報〈世代交替的關鍵不在年齡〉 and 台灣時報社論〈白道之惡〉 — and the Works index still lists 20 pieces under 2026. He wrote twice about his own university in April 2020, in 退休教授談中山大學 and 中山大學的轉型, recording that in 2002 he served as 校長遴選委員會召集人 and helped a 本土化人士 become 校長, ending 李煥時代統派掌控 of 中山大學. An earlier column, 2013-06-16, recalled his own stint as 中山大學 總務長 some twenty years before: he insisted on 公開招標 and on letting 人事室辦徵才考試, refused to hire people who came in outside the system, and resigned at last when the 校長 would not issue the 商調公文. He was equally candid about staying out of politics: in a 2021-11-24 column he recalled hosting a political talk program at 高雄地下電台 more than twenty years earlier, turning down listeners who pressed him to run for 立委, and announcing publicly that he would never enter elections, because 「政壇需要講假話，講真話的人很快就陣亡」. His 2021-04-16 personal-essay column supplied the temperament behind that refusal: as a student he failed at time-management, chased the bus ten minutes every day and became a long-distance runner, and for that reason kept out of business, politics and stocks his whole life. Two other self-recorded moments bracket his distance from the party system — 劉貞祥, then chairman of the Kaohsiung 民進黨, once invited him to run on the party ticket, and during the 1996 建國黨 episode supporters told him 「支持建國黨，票投民進黨」.
+
+## Identity Snapshot
+
+- **English:** Chen Mao-xiong
+- **Chinese:** 陳茂雄
+- **Role:** Columnist
+- **Source:** taiwanjustice.net column category
+- **Articles:** 475
+
+
+## From the record
+
+- **2024-05-07** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「大赦與特赦」 (政治評論 lane; byline 陳茂雄, 文末自註「（作者為中山大學退休教授、台灣安全促進會會長）」— matches page identity, signed 0507): 開篇定義大赦與特赦——大赦赦罪隨之免刑、針對罪不針對人，特赦針對人、只免刑不赦罪，特別特赦則得以其罪刑之宣告為無效。就「據周刊報導」蔡總統決定五二0卸任前夕特赦前總統陳水扁，記中國國民黨立委質疑蔡英文八年任內都沒特赦、此刻拋出是要拆彈還是給賴清德難堪，民進黨立委則主張應考慮大赦而非針對個人之特赦、並稱歷任總統任內曾有五次大赦紀錄、各監獄爆滿應一併考量（*reported*：周刊報導與立委言論依該專欄轉述）。他以《赦免法》第二條論大赦兩重點（已受罪刑宣告者其宣告無效、未受罪刑宣告者追訴權消滅）係針對罪而非人，若與陳水扁犯一樣罪者都變無罪則天下大亂，故「怎麼可能是大赦」；真正該大赦的是特別費除罪——牽涉特別費者全部除罪，惟總統馬英九沒有擔當、將除罪交給立法院，依憲法第四十條總統依法行使大赦特赦減刑復權之權、憲法並未授權立委除罪，立法院為特別費案立法除罪相當荒謬。再述特別特赦制度史：《赦免法》第三條原本只規定特赦免除其刑之執行、當事人一輩子背罪名，直到美麗島高雄事件發生後社會公認其為明確的政治迫害、遂加上「其情節特殊者，得以其罪刑之宣告為無效」後半段，前半為一般特赦、後半為特別特赦（除罪）。他質詢周刊特赦消息來源，並回溯其親記之全國黨員代表大會事件——有人提議蔡主席特赦陳水扁且超過九成黨員代表連署，該案若通過蔡英文非特赦即辭黨主席，惟案排後半段討論、休息期間多數代表尿遁造成流會；又記蔡英文曾表明僅特赦已定讞之案、陳水扁不接受此安排，挺扁立委遂提案修改《赦免法》、連署期間遭擋下，而今朝小野大、修《赦免法》才能特赦恐是望梅止渴，中國國民黨不會輕易放過（欄內被報導／被評論人物 蔡英文／陳水扁／馬英九 不代筆添條；陳水扁 [[people/chen-shuibian|Chen Shui-bian (陳水扁)]] 頁另有本事件一側之 2024-05-06 特赦報導條目〔自由時報0506 wire〕，本欄為評論視角、各述其側未合併） — [美洲台灣日報](https://taiwandaily.net/政治評論/17685/)（存檔 `knowledge/web-archives/taiwandaily-net-17685-17685.md`；去重：寫入前 `grep 17685 content/{people,organizations,works}` = 0 record lines）
+- **2024-05-05** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「低級詐騙」 (政治評論 lane; byline 陳茂雄, 文末自註「（作者為中山大學退休教授、台灣安全促進會會長）」— matches page identity, signed 自由時報0505): 以「反攻大陸是永遠不能實現的神話，可是現在還有人搬出反攻大陸神話的道具來耍弄」破題。開頭記立法院內政委員會臨時提案風波：在中國國民黨團總召傅崐萁要求下，民進黨立委提案中的「中國」被改成「大陸」、「我國」被改成「台灣」，引發外界砲轟，網友把 Google 地圖上的中國國民黨黨部名稱改成「大陸國民黨」；立法院民進黨團抨擊傅崐萁變成中國小弟是「俗辣」、不敢承認自己是主權獨立國家、連法案審議都要字字斟酌，這種在野黨沒出息；外交部長吳釗燮也說立委這個做法可能讓台灣人民感到不可置信，政府公文書如何稱呼對岸已經有一段歷史，這個傳統應該大家都要來尊重（*reported*：諸人言論依該專欄轉述）。他論每位中華民國立委每年花納稅義務人將近八百萬元卻否定自己的國家、表態不能稱自己國家為「我國」；最妙的是這些人一向反台灣、不同意以「台灣」為國名，卻急忙將「我國」改為「台灣」——既然如此何不將國名定為「台灣國」？再論稱呼史：蔣介石被中共趕來台灣時稱中共為「共匪」、連作夢都想反攻大陸，不承認對岸為國家而稱淪陷的「匪區」為「大陸」；後來「共匪」將蔣政權趕出聯合國、中華人民共和國代表中國，中華民國統治大陸的或然率與太陽從西邊出來一樣都是零，「大陸」絕不是中華民國的領土。他點名有些人都到對岸朝拜了、當然認同它是一個國家，回台灣卻說「大陸」是中華民國的領土——台灣的命運若不是建國就是被中華人民共和國併吞，不是幾句詐騙言詞可欺騙，由於騙不了人，「這些算是低級詐騙」；結語論台灣人與國際社會看法相同、認定對岸就是中國，中國國民黨人士扭曲事實促使主流民意恐懼該黨執政，造成民進黨做得再爛都會繼續執政（欄內被報導/被評論人物 傅崐萁／吳釗燮／蔣介石 不代筆添條；prep-tag candidates chen-po-kong 陳破空／li-jian 李堅 本檔 0× — prep-tag hit false，never-merge） — [美洲台灣日報](https://taiwandaily.net/政治評論/17416/)（存檔 `knowledge/web-archives/taiwandaily-net-17416-17416.md`；去重：寫入前 `grep 17416 content/people/chen-maoxiong.md` = 0）
+- **2024-05-10** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「複製太陽花？」 (政治評論 lane; byline 陳茂雄, 文末自註「（作者為中山大學退休教授、台灣安全促進會會長）」— matches page identity, signed 自由時報0510): 以「據媒體報導」五二0準總統賴清德就職大典前夕民眾黨將號召支持者 5-19 前往民進黨中央黨部前北平東路向民進黨政府『算帳』破題，記民眾黨立院黨團總召黃國昌 5-5 稱蔡英文八年承諾大量跳票、下週主席柯文哲將召開記者會說明集會內容（*reported*：諸人言論與集會規畫依該專欄轉述）。他論以往民眾黨與中國國民黨聯合提出政治主張常被國民黨吸收成果、令人覺得民眾黨缺乏政治信仰，而任何政治勢力第一步都要有引人的政治信仰，在野黨常以挑戰執政黨缺點為信仰但掀不起風浪，直到馬英九當家才出現大變化。回溯洪仲丘案（義務役士官洪仲丘原定 2013-07-06 退伍、07-04 死亡，生前疑似遭霸凌虐待等軍事醜聞引發輿論，綠營以白色力量名義發動群眾運動，人山人海，馬英九及中國國民黨受重創、民進黨收割成果）；再記台聯於馬英九親共與 ECFA 使經濟寄生中國的背景下四處演講起共鳴、促成 2012 大選三席不分區立委，其後為反服貿聯合社團包圍立法院並邀學生團體支援，出現 2014-03-18 至 04-10 佔領立法院的太陽花學運、在王金平協調下劃下完美句點——太陽花學運是壓垮馬政權的最後一根稻草，真正獲益的是民進黨，時代力量得小利。他由此給民眾黨一個啟示：複製一個太陽花可使執政黨垮掉、主導運動的政黨接收其政治勢力；但一個重點民眾黨沒思考到——民進黨能取代國民黨並非後者腐化或績效不佳（兩大同質性甚高已形成兄弟黨），而是綠營找到能引起主流民意共鳴的政治信仰「反共保台」，若無此信仰仍掀不起風浪（欄內被報導/被評論人物 賴清德／蔡英文／柯文哲／黃國昌／馬英九／王金平／洪仲丘 不代筆添條；prep-tag candidates chen-po-kong 陳破空／li-jian 李堅 本檔 0× — prep-tag hit false，never-merge） — [美洲台灣日報](https://taiwandaily.net/政治評論/18039/)（存檔 `knowledge/web-archives/taiwandaily-net-18039-18039.md`；去重：寫入前 `grep 政治評論/18039 content/people/chen-maoxiong.md` = 0）
+- **2024-06-27** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「沒有法治哪來民主？」 (政治評論 lane; byline 陳茂雄, 文末自註「（作者為中山大學退休教授、台灣安全促進會會長）」— matches page identity, signed 自由時報0627): 以「有選舉並不代表民主，必須進入法治社會才有真民主，人民扮演真正的國家主人，人治社會只可能形成假民主」破題。開頭記立法院三讀通過《立法院職權行使法》及《刑法》修正案牽涉立法院、行政院、監察院及總統府憲政機關，總統賴清德 6 月 24 日簽署兩法案並向憲法法庭聲請釋憲及暫時處分、強調「現在，就是捍衛自由民主憲政的歷史時刻」（*reported*：總統談話依該專欄轉述）；中國國民黨主席朱立倫随即在臉書表示無法認同賴清德釋憲理由、不接受民進黨惡意抹黑，稱賴宣稱釋憲「基於守護憲政秩序、保護人民權利」讓國人精神錯亂、「既然要向民主宣戰，那麼六成民意就會正面迎戰，團結對抗民主獨裁」（*reported*：朱立倫臉書言論依該專欄轉述）。他記朱立倫 1979 年考入國立台灣大學工商管理學系、1985 年赴美入紐約大學史登商學院、1987 取得財務金融碩士、1991 取得會計學博士、回國後曾任教台大會計學系，譏其短時間取得學位「可能只專心讀書，沒有受到美國社會的薰陶，美國的民主思想一點都沒有學到」；論美國地大人眾如世界各民族大雜燴卻安定，原因在講究法治、建立各種制度大家依循而行——外國人到美國投資未入境即清楚會面對什麼問題，到中國投資就算習近平答應優厚條件也沒用，因為中國是人治國家、任何制度可隨時改變；驚訝朱立倫受過美國教育卻完全沒學到美國法治精神、倒學了很多中國的人治思想。再論中國國民黨為立法院第一大黨、結合民眾黨易於推動修法，但不是該黨可為所欲為，否則它大可修《總統副總統選罷法》規定只有國民黨籍才可以選總統——這當然是笑話，因為違反憲政體制，法治國家立法修法都必須合乎憲政體制；批朱立倫提起賴清德、蔡英文、林佳龍、顧立雄都曾支持立法院聽證權、調查權及藐視國會、總統國情咨文等、乃認定如今國民黨修法合乎真理，「誰說民進黨曾經說過的就是真理，中國國民黨就可以做？完全沒有法治觀念」；又批朱稱政府依法可聲請釋憲但國民黨無法認同賴清德的釋憲理由是奇怪說詞——若民進黨說詞錯誤憲法法庭自然駁回，「輪不到朱立倫說三道四，別忘了朱立倫並不是大法官」；結語：真正的民主國家必須依循法治、排除人治，「政客們的嘴巴可否稍為休息一下？」（欄內被報導/被評論人物 朱立倫／賴清德／蔡英文／林佳龍／顧立雄／習近平 不代筆添條；prep-tag candidates chen-po-kong 陳破空／li-jian 李堅 本檔 0× — prep-tag hit false，never-merge） — [美洲台灣日報](https://taiwandaily.net/政治評論/25172/)（存檔 `knowledge/web-archives/taiwandaily-net-25172-25172.md`；去重：寫入前 `grep -c "taiwandaily.net.*25172" content/people/chen-maoxiong.md` = 0，寫入後 = 1；本頁 Works/Timeline 早已收錄 TJJ 同題條目「2024-06-27 🗳️ 沒有法治哪來民主？ ◎ 陳茂雄」，本條記美洲台灣日報出版側、非重複事件）
+- **2024-06-15** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「獨裁政權生存之良方」 (政治評論 lane; byline 陳茂雄, 文末自註「（作者為中山大學退休教授、台灣安全促進會會長）」— matches page identity, signed 0615): 以「政治民主化是世界潮流，獨裁政權終將被淘汰，然有些獨裁政權刺激人民產生異常的民族意識就相當穩定」為綱。開頭記「媒體報導」：本月七日，大理洱海生態步道出現一名戴寫有「必勝」字樣、象徵日本日章旗頭巾的女子，其他中國遊客見狀與之發生口角，沒多久一名黑衣男子上前毆打女子並將其推倒在地；該女子一度宣稱自己是日本人，卻說得一口流利中文；影片在中網掀起熱議，小粉紅紛紛叫好（「親日份子就該狠狠揍」「應該立即打死這種人」等）（*reported*：案情依該專欄所引媒體報導轉述；欄內被報導人物 毆人黑衣男子／戴頭巾女子 均未具名，不代筆添條不 mint）。他論日本的確侵略過中國卻是很久以前的事，二戰年代的人幾乎都已辭世，中國人卻仍相當仇日；相對台灣人歷經二二八苦難卻幾乎忘光——雖獨派人士積極宣導，得不到年輕世代共鳴，並記十年前獨派社團為讓年輕人體會二二八的悲慘，由年輕世代主辦二二八活動，結果把整個活動辦得像一場康樂活動，未歷經二二八的年輕世代仍難以體會當年慘狀。他轉以伊拉克海珊政權為例：美英並沒有侵犯伊拉克，海珊獨裁年代伊拉克人卻普遍仇視美英——海珊的手段即刺激人民產生異常的民族意識，只要促使人民仇視特定對象，就會忘了獨裁者的迫害；海珊迫害人民，民意支持度卻超過八成，若非美國出兵摧毀獨裁政權，他還會很穩定地獨裁統治。由海珊案例他論異常的民族意識是穩定獨裁政權之良方，極端獨裁的中共政權服的也是這一劑藥：中國各地風俗文化差異頗大、又沒有穩定制度，只要鬆綁國家就會分裂，因而推展強壓的獨裁統治；唯中共與海珊一樣成功催生異常的民族意識，故似乎能穩定維持。他點名中共催生的異常民族意識就是「統一台灣」「反美」「仇日」，併吞台灣已不是單純中共的問題而是中國人的異常民族意識；並論民主運動必定講究人權，全世界民運人士對各地主權歸屬問題都主張尊重當地人意願，唯獨中國民運人士主張台灣要接受中國統治，但他們在歐美民主國家居住一段時間後才會主張尊重台灣人意願，因異常民族意識已淡化；最荒謬的莫過於到美國定居的中國人，自己都不願回歸祖國，卻強力主張台灣要接受中國統治（欄內被報導人物 海珊 等不代筆添條；與本頁 2024-09-21「獨裁政權與民族意識」為不同日期、不同篇名之專欄，兩條並存未合併） — [美洲台灣日報](https://taiwandaily.net/政治評論/23342/)（存檔 `knowledge/web-archives/taiwandaily-net-23342-23342.md`；去重：寫入前 `grep 政治評論/23342 content/people/chen-maoxiong.md` = 0；prep-tag candidates chen-po-kong 陳破空／li-jian 李堅 本檔 0× — prep-tag hit false，never-merge）
+- **2024-06-12** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「廢監院？門都沒有」 (政治評論 lane; byline 陳茂雄, 文末自註「（作者為中山大學退休教授、台灣安全促進會會長）」— matches page identity, signed 0612): 以反詰「該黨在叫甚麼？」貫篇，論中國國民黨主張廢監察院而廢不了。開頭記監察院獨立是中國國民黨所設計、目前的監察制度也是該黨所修訂，該黨更設計永遠不能修憲的制度；近日中國國民黨立院黨團總召傅崐萁表示中華民國應是三權分立的政府，監察院、考試院早該廢除，國民黨立委羅智強卻說彈劾、糾舉、審計等現有「監察權」有存在必要、主張「廢院不廢監」，還有藍委稱五權本質沒錯、只是民進黨人選爭議高不宜擅自廢除；監察院近期發出新聞稿指《立法院職權行使法》修正草案部分條文影響監院核心業務、已違反權力分立原則、監院無法接受，傅崐萁回擊全世界民主國家國會都有聽證權跟調查權，中國國民黨團一定會推動廢除監察院（*reported*：諸人言論與監院新聞稿依該專欄轉述）。他論台灣的監察制度本來應該是綠營在罵，今年變成中國國民黨在罵；監察權代表人民監督政府、最夠格代表人民的當然是民意代表，故一般民主國家由國會執行監察權，但孫中山主張監察權要獨立，《中華民國憲法》遂將監察權連同聽證權與調查權一併獨立移到監察院——制度由中國國民黨設計，該黨在叫什麼。制度史再回溯：原監察委員由人民間接選出（人民選出院轄市議員及省議員，再由其選出監察委員），故監察委員就是民意代表；後來中國國民黨主導修憲，將監院正副院長及監察委員改由總統任命，身分變成政務官，由政務官代表人民監督政府當然不妥當，而這種制度也由中國國民黨主導所產生。修憲管道：原本可由國民大會直接修憲，或由立法院修憲經國民大會複決；前幾次修憲都由國民大會直接修憲，二00五年兩大黨合作完成第七次修憲時國民大會已廢掉，只能由立法院修憲、國民大會複決部分改由公民複決，但要全體公民半數同意修憲，其或然率比六月雪還低，也就是說沒有機會修憲，當然不能依循修憲廢監察院，中國國民黨是罪魁禍首之一。他續論憲法不合時宜的解方只有制憲或修憲二途：一般正常國家不能修憲就制憲，但在台灣制憲更不可能——中國國民黨只認同中國不認同台灣，目前用的憲法就是由中國帶過來，若在台灣重新制憲就是在台灣形成本土政府，該黨不會接受；幾次修憲都沒有修改任何憲法條文，而是以《中華民國憲法增修條文》暫時凍結《中華民國憲法》特定條文、準備隨時解凍，就是中國國民黨不願意制憲，才不能廢監院（欄內被報導/被評論人物 傅崐萁／羅智強／孫中山 不代筆添條） — [美洲台灣日報](https://taiwandaily.net/政治評論/22966/)（存檔 `knowledge/web-archives/taiwandaily-net-22966-22966.md`；去重：寫入前 `grep 政治評論/22966 content/people/chen-maoxiong.md` = 0；prep-tag candidates chen-po-kong 陳破空／li-jian 李堅 本檔 0× — prep-tag hit false，never-merge）
+- **2024-09-25** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「真主黨爆炸案的效應」 (政治評論 lane; byline 陳茂雄, 文末自註「（作者為中山大學退休教授、台灣安全促進會會長）」— matches page identity, signed 0925): 就真主黨上千台呼叫器與對講機上週同時爆炸造成嚴重死傷一事，援引路透社 0923 引述兩名伊朗高級安全官員報導：伊朗革命衛隊已下令所有成員停用任何類型通訊設備、對所有設備（多為國產或自中國、俄羅斯進口）大規模檢查，並針對革命衛隊中高級成員徹底調查以色列特務滲透（*reported*：案情依該專欄所引路透社報導轉述）。他以九一一事件類比——真正嚴重的傷害不是死傷而是後續防範：回溯九一一十九名蓋達組織成員劫持四架民航機，兩架分別衝撞紐約世界貿易中心北塔與南塔、兩小時內漸進倒塌並摧毀鄰近建築，第三架撞及維吉尼亞州阿靈頓郡五角大廈，第四架於賓州桑莫塞郡尚克斯維爾附近墜毀、四機均無人生還；事件後美國國內線安檢由「像搭長程公車」改為比國際線更嚴，登機證蓋有 SSSS 四 S 者幾乎「要剝一層皮」，國內線航空消耗的人力物力「不是幾十座雙塔可比」。他論真主黨爆炸案使反以色列國家多人停用通訊設備、通訊效率退步幾十年，人員任用強化安檢、整體人力物力應用完全萎縮，對反以色列國家形成强力重擊；又記以色列自復國以來每次打勝仗、未曾吃過敗仗，台灣與以色列一樣面臨強敵而天然條件遠勝（有台灣海峽天然屏障），「以色列能，台灣沒道理不能」，並批評台灣人遇國家有難未如國外以色列人放棄優渥工作回國當兵，此種思考模式是「閹雞趁鳳飛」（欄內被報導人物 真主黨／伊朗革命衛隊／蓋達組織 及九一一劫機者 不代筆添條） — [美洲台灣日報](https://taiwandaily.net/政治評論/39208/)（存檔 `knowledge/web-archives/taiwandaily-net-39208-39208.md`；去重：寫入前 `grep 39208 content/people/chen-maoxiong.md` = 0）
+- **2024-09-21** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「獨裁政權與民族意識」 (政治評論 lane; byline 陳茂雄, 文末自註「（作者為中山大學退休教授、台灣安全促進會會長）」— matches page identity, signed 0922): 論獨裁者對人民灌輸強烈民族意識以淡化人民對獨裁者的專注。開頭引「綜合日媒報導」：0918 上午一名日籍男童在親人陪同下前往日僑學校途中，於距校約二百公尺處人行道遭一名四十四歲中國男子持刀襲擊、腹部與雙腿大面積傷口大量出血，其母雙手沾血以中文喊「我家的孩子到底做錯了什麼」「救我」，男童送醫後仍於 0919 清晨不治；事件使反中情緒在日本各大社群媒體蔓延，「斷交」「禁止旅遊」衝上日本推特流行趨勢（*reported*：案情依該專欄所引日媒報導轉述，欄內被報導人物 日籍男童與其母親、中國男子 均未具名 不代筆添條不 mint）。他質疑中日戰爭將近百年何以仇恨仍大——蔣介石與毛澤東所殺中國人不在少數卻唯獨仇日，攻擊婦孺是懦夫行為，此情緒屬人為催生；以伊拉克海珊政權為例：海珊聞名世界卻有很高民意支持度，若非美國出兵不可能垮台，因其刺激人民產生強烈民族意識、仇美仇英而忘了壓迫自己的是該政權。他論中國獨裁政權灌輸民族意識使注意力集中在統一台灣、反美、仇日，茉莉花革命「吹不進中國」；並記不少中國人天天罵美國卻死賴在美國不走，因留在美國比生活在中國舒服；台灣亦面對認定台灣是中國一部分的民族意識，造成分裂思考——有辦法的人積極離開中國，卻要台灣接受中國統治。末段論日本與台灣一樣倒楣：人民一方面享受價廉物美的日本貨品一方面侵犯日本人，中國政府歡迎日商投資卻灌輸仇日思想；又引「危邦不入，亂邦不居」，評日本人之入危邦、居亂邦與台灣人一樣奇怪（欄內被報導人物 海珊 等 不代筆添條） — [美洲台灣日報](https://taiwandaily.net/政治評論/38761/)（存檔 `knowledge/web-archives/taiwandaily-net-38761-38761.md`；去重：寫入前 `grep 38761 content/people/chen-maoxiong.md` = 0）
+- **2024-09-14** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「台灣多邪教？」 (政治評論 lane; byline 陳茂雄, 文末自註「作者為中山大學退休教授、台灣安全促進會會長」— matches page identity, signed 0914): 就民眾黨主席柯文哲京華城案羈押禁見、民眾黨號召小草於立法院前集結聲援，民進黨立委林俊憲以「自絕於社會多數、唯一且不可質疑的領袖、簡單易懂的訴求和價值觀、用外界的質疑來證明自己的正確」四特質指此形態為「邪教」并稱「這就是最毛骨悚然的地方」——他反駁：若聲援柯文哲即為「邪教」，則台灣到處都是「邪教」；凡不涉政治人物之團體正常，一旦牽涉政治人物對立雙方即互編故事、己方天使對方魔鬼，此劇本演了幾十年。回溯二00六年陳水扁總統任內百萬紅衫軍倒扁（理由貪腐；紅衫軍副總指揮姚立明現為總統提名之司法院副院長）、紅衫軍台北氣勢壓垮執政團隊而南部挺扁氣勢更盛、紅衫軍南征須警方保護；二00八年扁卸任失去刑事豁免權立即面對司法，反扁編貪腐故事、挺扁稱政治迫害，爭戰烈度百倍於今日挺柯反柯——依林俊憲「邪教」說無從判定挺扁反扁孰為邪教；結語：柯文哲案無論有罪無罪對峙不久，不像挺扁反扁對峙逾十年並成為民進黨內部「茶壺裡的風暴」；台灣之不幸在於無人民信任的法治即停在人治社會、距民主政治遙遠。欄內被報導人物 柯文哲／林俊憲／陳水扁／姚立明 不代筆添條。 — [美洲台灣日報](https://taiwandaily.net/政治評論/37659/)（存檔 `knowledge/web-archives/taiwandaily-net-37659-37659.md`；去重：寫入前 `grep 37659 content/people/chen-maoxiong.md` = 0）
+- **2024-09-12** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「蛇鼠一窩？」 (政治評論 lane; byline 陳茂雄, 文末自註「作者為中山大學退休教授、台灣安全促進會會長」— matches page identity, signed 0912): 論公費助理制度之質變——中國國民黨台南市議員蔡淑惠涉詐領助理費案，台南地檢署經兩年多偵查於 0909 偵查終結，依《貪污治罪條例》利用職務機會詐取財物及刑法使公務員登載不實等罪嫌對蔡淑惠等四人提起公訴，蔡坦承部分犯行並主動繳回犯罪所得 533 萬 1012 元、南檢建議審酌量處（*reported*：案情依媒體報導轉述）。他指出公費助理制度源自美國行政立法分立下國會議員需專業人員協助立法、美國八成以上法案由行政單位託執政黨籍議員提案，私人事務須募款聘自費助理不能動用公費助理；萬年國會年代台灣立法單位無此必要故無此制度，民主化後各級議會參考美國規則設立卻立即變質——法案多由行政單位專業人員擬定、議員自聘助理少有專業人員、助理多受命處理議員私事甚至遭不肖議員吞沒助理費；病根在聘任制度：各級議員私自聘任，若由機關聘任即無此弊（舉考試院每位考試委員配由考試院聘任之助理只執行公務，二十年前即有委員要助理開車送其私事遭婉拒、因該配司機而助理非司機），各級議會仿考試院由機構聘任且只執行公務即無弊端——「連小學生都懂」，只剩議員不懂，因大家都在偷：有人偷錢將助理費入袋、有人偷人力將公費助理當私人助理，「真的蛇鼠一窩」。欄內被報導人物 蔡淑惠 不代筆添條。 — [美洲台灣日報](https://taiwandaily.net/政治評論/37211/)（存檔 `knowledge/web-archives/taiwandaily-net-37211-37211.md`；去重：寫入前 `grep 37211 content/people/chen-maoxiong.md` = 0）
+- **2025-01-14** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「共鳴效應」 (政治評論 lane; byline 陳茂雄, 文末自註「作者為中山大學退休教授、台灣安全促進會會長」— matches page identity, signed 0114): 論朝小野大局勢——中國國民黨認定難登九五、趁掌握立法權癱瘓政府，執政民進黨因而掀起罷免潮；他論罷免與公投同屬公共事務、關心者少、投票率低、難超門檻，選舉則有依人脈及政治意識投票的投票部隊。以基隆謝國樑罷免案為例：謝把它當作選舉操作、推動罷免者只當作一般罷免案，謝因而獲勝——故罷免須當作選舉才可能過關，而國民黨一樣會以選舉手段推出罷免潮。自述曾斷言林姿妙宜蘭縣長連任可獲勝（綠營朋友認定他是外地人不了解選情），結果猜中，因林姿妙在選民心目中是「與自己完全一樣的親友」、能與選民起共鳴，綠營政治人物雖客氣卻扮演宣道的「先知」、與選民距離太遠。再以台北歌星演唱會一票難求、黃牛橫行，對照世界第一流聲樂家來台演唱無此空間：歌星演唱方式與一般民眾完全相同、曲碼耳熟能詳故能起共鳴，聲樂家方式不同、曲子陌生，伴奏樂團功夫不比歌星少但不能與聽眾起共鳴故粉絲有限——結語：綠營一向以政治信仰爭取選票、扮演「先知」不能與選民起共鳴，不像林姿妙以市井小民角色與選民打成一片，地方選舉綠營須調整戰術才有勝算。欄內被報導人物 謝國樑／林姿妙 不代筆添條。 — [美洲台灣日報](https://taiwandaily.net/政治評論/57348/)（存檔 `knowledge/web-archives/taiwandaily-net-57348-57348.md`；去重：寫入前 `grep 57348 content/people/chen-maoxiong.md` = 0）
+- **2025-05-03** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「圍魏救趙？」 (政治評論 lane; byline 陳茂雄, 文末自註「作者為中山大學退休教授、台灣安全促進會會長」— matches page identity, signed 0503): 就中國國民黨各地方黨部疑涉幽靈連署陸續遭檢調搜索、約談，評黨主席朱立倫宣布於賴清德五二0就職滿週年當日在國會提出罷免案、彈劾案，並要求藍營民代全力協助第二階段罷免連署、黃國昌稱「想要賴清德下台已成為多數台灣人民的心聲」——論依現行體制罷免或彈劾總統需三分之二立委支持才成案，無論大罷免結局如何藍白都不可能過半，罷免案還需全民投票、門檻與修憲公民複決相同，彈劾案成案後還需憲法法庭審判，人人皆知不可能成功，故朱黃二人「不是不懂政情，而是另有一套盤算」。回溯大選前侯友宜民調大贏賴清德、柯文哲趨近於零，若依客觀初選必定侯友宜出線，朱立倫玩包含郭台銘的徵召遊戲再淘汰郭、造成挺郭者反侯轉投柯陣營，賴清德得漁翁之利；盧秀燕陣營為免步上侯友宜後塵、又怕得罪朱團隊影響自身大選而按兵不動，罷免連署階段國民黨慘敗後盧系人馬藉機發難圍剿朱立倫，蔣萬安適時主張另闢戰場提出倒閣以讓國會重新洗牌並淘汰朱，朱為維護政治版圖反對倒閣，民眾黨最怕國會重選後失去八席不分區，乃與朱合作提出罷免及彈劾賴清德以消除倒閣之聲——結語：藍營連續三屆總統大選挫敗不檢討選民為何不讓他們執政、反而仇視當選者，對賴清德的仇恨遠超過綠委，推出虛幻的罷免及彈劾總統以提振士氣、為立委罷免戰止血、擋住倒閣之議，「大家都有自己的盤算，滿口仁義道德，就是不亮出自己的底牌」；此舉能否保住黨主席寶座令人質疑。欄內被報導人物 朱立倫／賴清德／黃國昌／侯友宜／郭台銘／盧秀燕／蔣萬安／柯文哲 不代筆添條。 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/75993/)（存檔 `knowledge/web-archives/taiwandaily-net-75993-75993.md`）
+- **2025-05-14** *(sourced)* — Published 〈金美齡的智慧〉 in 美洲台灣日報 政治評論 (byline 「作者為中山大學退休教授、台灣安全促進會會長」與頁面身分相符): opens from 雲林縣長張麗善 at 白沙屯拱天宮 moving 爐主宋曉華 aside to seize the C位, the backlash, and her apology — diagnosing 權力的傲慢; contrasts 民主社會人格平等 with 公職人員自居為「官」. Recounts his anecdote as the page's core event: at a 世台會 (台美人團體) annual meeting in Taiwan before the 2008 總統大選, a 民進黨 official who lectured the audience on the party's contributions to Taiwan, 金美齡 rushed the stage with three questions — 「在場誰閒閒？」「我們回台灣的旅費誰付的？」「綠營選贏了是誰在享受政治資源？」 — drawing bigger applause; his lesson: political figures owe supporters 「感恩」, not 「施恩」. Compares 綠營 consciousness-based vs 藍營 network-based mobilization to explain why 綠 wins 總統大選 but loses 小選區 (欄內被報導人物 張麗善／宋曉華／洪文華 不代筆添條；金美齡為本文論述對象、本庫無 title/name_zh 頁，不代筆添條) — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/77891/)（存檔 `knowledge/web-archives/taiwandaily-net-77891-77891.md`）
+- **2025-01-15** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「鱷魚的眼淚」 (政治評論 lane; byline 陳茂雄, 文末自註「作者為中山大學退休教授，台灣安全促進會會長」— matches page identity, signed 0115): 從中國國民黨主席朱立倫謁陵後就大罷免風潮喊話賴清德「我們大家放下仇恨，彼此合作讓台灣能夠更團結」、「要合、要團結」不是「要鬥」切入，譏其邏輯（「真的活見鬼，到底是誰在掀起鬥爭？」）——該黨總統大選連續挫敗三次、認定難登九五，乃利用朝小野大以修法癱瘓政府，且修法內容正是該黨昔日自己堅持反對者，「代表它不是違憲就是會傷害政府」，逼使民進黨以改變國會生態的罷免手段救政府；朱是內行人，若真希望和平就該以黨主席身分阻止該黨癱瘓政府，反而呼籲他人停止鬥爭，「他對內都積極的鬥爭，對外怎麼可能不鬥？」。第二段論初選與徵召之得失：2022 期中選舉蔡英文沒收初選、除屏東外縣市長候選人全採徵召，促使有意問鼎者反彈、造成慘敗，賴清德當家後立即宣布推展初選不辦徵召（初選依客觀程序選才、落榜者沒話說；徵召主觀取才、落榜者反彈形成窩裡反）；2024 大選前一年侯友宜民調遙領賴清德、柯文哲趨近於零，若辦客觀初選侯應出線、登九五或然率很高，郭台銘自己退黨、非黨員不能參加初選「乃天經地義」，惟朱立倫卻辦徵召並公開宣布將郭列入考慮人選，結果徵召侯友宜，引起郭及其支持者反彈（有支持者稱侯為「沒有草的草包」），挺郭者轉投柯文哲陣營，民調落後的賴清德「乃獲得天上掉下來的禮物」；結語：同樣看到徵召造成慘敗，賴清德宣布不再辦徵召，朱立倫卻在推舉總統候選人時辦徵召且納入非黨員郭台銘造成藍營窩裡反，「依這種習性，在藍綠鬥爭的環境下，會推展團結嗎？說的比唱的好聽」。欄內被報導人物 朱立倫／賴清德／蔡英文／侯友宜／柯文哲／郭台銘 不代筆添條。 — [美洲台灣日報](https://taiwandaily.net/政治評論/57545/)（存檔 `knowledge/web-archives/taiwandaily-net-57545-57545.md`；去重：寫入前 `grep 57545 content/people/chen-maoxiong.md` = 0）
+- **2025-10-28** — Published 〈國定假日怪談！〉 in 美洲台灣日報 政治評論: argues the 國定假日 churn between 民進黨 and 國民黨 is 政策賄選 — 在野黨 adds holidays to court 勞工 votes while 執政黨 trims them to cut 資方 costs; on the renamed 「台灣光復暨金門古寧頭大捷紀念日」 holiday he argues 1945 was not 光復 but a换殖民 (from 日本 to 中華民國), 1949 古寧頭 was 中國內戰 unrelated to 台灣人, and only after 萬年國會改選 and 總統直選 did 殖民統治終結 — bylined 中山大學退休教授、台灣安全促進會會長 (matches page byline); 欄內被報導人物 馬英九 不代筆添條; from 自由時報 1028 ([美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/105752/)).
+- **2024-09-08** — Published 〈在台灣不抗爭才異常〉 in 美洲台灣日報 政治評論: on 柯文哲 京華城案羈押禁見與小草包圍北檢聲援，反駁民進黨桃園市議員黃瓊慧「鄭文燦被收押時，有人去包圍桃園地檢署嗎」之論——謂鄭文燦與林益世不夠「大尾」、少有粉絲追隨，若政治領袖觸犯官司抗爭程度恐怕百倍；評矢板明夫「政黨應與犯罪嫌疑人切割」之日本經驗不適用於台灣，建議其訪問紅衫軍副總指揮姚立明（總指揮施明德已辭世），並記 2006 紅衫軍倒扁十天約一百三十萬人匯款、結帳約新台幣一.一億元，及紅衫軍遠征南部需警方介入否則必發生巷戰；結論台灣政治領袖涉訟引起正反對陣乃非常正常，雙方突然沉寂無聲才是異常 — bylined 作者為中山大學退休教授、台灣安全促進會會長 (matches page identity), signed 0908; 欄內被報導人物 柯文哲／黃瓊慧／鄭文燦／林益世／矢板明夫／姚立明／施明德／陳水扁 不代筆添條 ([美洲台灣日報](https://taiwandaily.net/政治評論/36668/)；存檔 `knowledge/web-archives/taiwandaily-net-36668-36668.md`；寫入前 `grep 36668 content/people/chen-maoxiong.md` = 0).
+- **2024-09-03** — Published 〈兩大黨都掉入自己所挖的陷阱〉 in 美洲台灣日報 政治評論: argues 《中華民國憲法》 was a stable basic law never truly implemented — first frozen by 蔣介石's 《動員戡亂時期臨時條款》, later by 《中華民國憲法增修條文》; in 修憲 both 兩大黨 dug traps to kill the opponent and each fell into its own (「千算萬算不值得天ㄧ畫」): the 國民黨 traded away 總統對行政院長任命同意權 for 覆議權, the 民進黨 lowered the 覆議 threshold, and now with 藍白 controlling 立法院 under 朝小野大 neither party can use the levers they rewrote; warns 台灣's greatest crisis is 內鬥 under the worst 憲政體制 — bylined 作者為中山大學退休教授、台灣安全促進會會長 (matches page identity), signed 自由時報0903; 欄內被報導人物 蔣介石 不代筆添條 ([美洲台灣日報](https://taiwandaily.net/政治評論/35844/)；存檔 `knowledge/web-archives/taiwandaily-net-35844-35844.md`；寫入前 `grep 35844 content/people/chen-maoxiong.md` = 0).
+- **2024-07-09** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「從政治觀點看擁核與反核」 (政治評論 lane; byline 陳茂雄, 文末自註「（作者為中山大學退休教授、台灣安全促進會會長）」— matches page identity, signed 0709): 從政治鬥爭觀點解析擁核／反核之爭——開頭記 0703 行政院副院長鄭麗君表示綠能發電比已達十%、將依法持續朝「非核家園」前進、相關核電廠執照到期即停止運轉；國家氣候變遷對策委員會副召集人、和碩集團董事長童子賢不認同，稱「全民公敵是地球暖化而非核能」、綠能與核能應攜手朝二0五0零排碳目標前進，蔣萬安認同童子賢並稱中央政府應拋開意識形態——他判斷蔣萬安實欲崩解非核家園政策。他論核能分兩大系統：核電為蔣經國重大建設、使台灣工業更上層樓；核武則規劃以核武對抗敵人併吞——七0年代蔣經國公開表示「台灣有能力造原子彈但不造」，與事實正好相反：台灣沒有能力造原子彈、但連作夢都在想原子彈。回溯蔣經國路線同於今日朝鮮——認定小國擁有核武即有生存空間（故超級強國仍須面對朝鮮勒索）；台灣當時規劃自中科院第一所（今屬原能會）原子爐之「用過燃料」（spent fuel）提煉鈽（Pu-239）作「鈽彈」原料、第三所以雷射分離鈾（U-235）作「鈾彈」原料。他論冷戰期間「當美國朋友遠不如當蘇聯朋友」：美國阻礙盟邦發展核武以便控制、蘇聯則不然——美國盟邦台灣的核武發展被美國封殺（核電廠鈾燃料需委託美國濃縮、提煉核武原料的設備被封掉，核武發展胎死腹中），蘇聯的朋友朝鮮則成功成為核武國家。他接論核電與核武皆由中國國民黨主導，當年反國民黨的民運人士與容忍污染換經濟的蔣經國年代下之環保人士自然反國民黨，反核人士隨黨外组建民進黨而成為其基本支持者；民進黨茁壯取代國民黨執政後，國民黨為擊敗民進黨思促綠營「窩裡反」、想盡辦法讓民進黨政策衝撞支持者理想，其中一項即逼民進黨啟用核電以促使該黨與反核人士對打，民進黨則堅持非核家園以安定內部——故擁核與反核都是政治鬥爭，雙方絕大部分人對核能是門外漢、未必懂得核電優劣。結語：雙方爭論過程中品德最可議者屬馬英九——自己封存核四、卻想盡辦法要民進黨啟用核四。欄內被報導人物 鄭麗君／童子賢／蔣萬安／蔣經國／馬英九 不代筆添條。 — [美洲台灣日報](https://taiwandaily.net/政治評論/27004/)（存檔 `knowledge/web-archives/taiwandaily-net-27004-27004.md`；去重：寫入前 `grep 27004 content/people/chen-maoxiong.md` = 0）
+- **2024-07-03** — Published 〈罷免之爭未戰先衰？〉 in 美洲台灣日報 政治評論: argues the KMT is 未戰先衰 in the 罷免 war — before any recall is filed, KMT 立委 (許宇甄 et al.) rush to raise the 罷免 threshold via 《選罷法》 amendment to 「超過被罷免人當選的得票數」, which he calls effectively abolishing the recall system (「無知」或「無德」 against 朱立倫); contrasts 韓國瑜 as the only case that could pass such a bar, and notes this cycle's high political mobilization raises recall success odds — bylined 中山大學退休教授、台灣安全促進會會長 (matches page byline); 欄內被報導人物 朱立倫/徐巧芯/邱明玉/韓國瑜 不代筆添條 ([美洲台灣日報](https://taiwandaily.net/政治評論/26073/), from 自由時報 0703).
+- **2024-07-17** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「錯亂！」 (政治評論 lane; archive title 括號署名 陳茂雄 == 本頁 `title`/`name_zh` identity HIT；文末自註「（作者為中山大學退休教授、台灣安全促進會會長）」— matches page identity; 尾署 0717; 存檔 3,622 B 全文): 以「對台灣最友善的是日本……在台灣的中國人要台灣人『親中仇日』，有病！」破題。開頭記翁曉玲透過臉書以 1937-07-07 盧溝橋事變、八年對日抗戰紀念為引，質疑賴清德總統、蔡英文前總統、卓榮泰院長及國防部、退輔會臉書對此日無發一言（*reported*：翁曉玲臉書言論依該專欄轉述）。他反詰：1937 年台灣人並非中華民國國民——1895 年中國以「鳥不語，花不香，男無情，女無義」為由將台灣割讓日本，台灣人變成日本人是中國拋棄台灣的結果，二戰期間轟炸台灣的是盟軍而非日本。他論戰後蔣政權代表盟軍來台受降、藉機佔領，以戶籍「籍貫」區隔族群，台灣人繼續是被統治者，殖民統治只是由日本換成中國；又記「共匪」與台灣人毫無恩怨，台灣人被迫陪中國國民黨喊「反共抗俄、殺朱拔毛」，而江南案件造成蔣家接班失敗、副總統李登輝成為法定接班人改變台灣命運。他論李登輝催生民主政治、國會全面改選與總統直選使殖民統治終結；反共神主牌由蔣經國傳給李登輝、再傳給民進黨，民進黨間接繼承蔣家「親美日拒中」路線，而在台灣的中國人走「親中、疑美、仇日」路線——稱其為中國人是指認同中國不認同台灣，與血統無關。結語：全世界對台灣最友善的是日本人，代表中華人民共和國要消滅中華民國、恫嚇留島不留人，在台灣的中國人要台灣人陪他們親中仇日，「真的有病！」（欄內被報導/被評論人物 翁曉玲／賴清德／蔡英文／卓榮泰／蔣介石／蔣經國／李登輝 不代筆添條；prep-tag candidates chen-po-kong 陳破空／li-jian 李堅 本檔 0× — prep-tag hit false，never-merge） — [美洲台灣日報](https://taiwandaily.net/政治評論/28254/)（存檔 `knowledge/web-archives/taiwandaily-net-28254-28254.md`；去重：寫入前 `grep 28254 content/people/` = 0 條本 URL 記錄行，本檔 0）；本頁 Timeline 早收「2024-07-17 🏥 錯亂！ ◎ 陳茂雄」TJJ 同篇條目，本條記美洲台灣日報出版側
+- **2024-07-11** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「質詢該廢卻廢不了」 (政治評論 lane; byline 陳茂雄, 文末自註「（作者為中山大學退休教授、台灣安全促進會會長）」— matches page identity, signed 自由時報0711): 論質詢制度之存廢——開頭記沈伯洋近期受訪表態應考慮廢掉質詢、於社群平台稱自己不是開玩笑（台灣質詢常變成「展演」「搶新聞」），黃國昌則追問：院會總質詢時韓國瑜院長依議事規則跳過未到的民進黨立委、柯建銘率黨團抗議「沒收質詢權」，如今沈伯洋提出相反主張，民進黨團有無須確認清楚再向社會說明（*reported*：二人言論依該專欄轉述）；引沈伯洋對質詢之 critique：無法針對題目提問（無題目設定機制）、常成大型造謠現場（五立委問同樣問題造同樣謠、另一邊只好上臺闢謠）、低水準質詢充斥不實資訊、台灣非內閣制國家故應認真考慮質詢必要性。他評黃國昌弄錯方向：未廢止以前質詢仍應繼續，正如主張廢監察院者也不該讓監察院停擺，故沈伯洋主張廢質詢與柯建銘抗議「沒收質詢權」並不矛盾。制度史論述：非內閣制而有質詢制度者僅法國第五共和與台灣——法國因強勢國會、弱勢內閣、倒閣頻繁，第五共和改為行政立法分立並增加總統權力而保留內閣制之質詢；台灣行政立法分立卻依循《中華民國憲法》「莫名其妙」出現質詢制度。追溯病根於孫中山對中國舊體制的誤解（誤認皇帝掌控行政立法司法、考試監察獨立，實則所有權力歸皇帝），《五五憲草》後政治協商會議因監察權歸獨立監察院、國會無監察權不能監督依法行政，遂於《中華民國憲法》增加國會質詢權；內閣制內閣向國會負責故備詢，《中華民國憲法》之質詢原在監督行政單位依法行政，台灣國會卻以質詢作秀、甚至利用言論免責權訛詐行政官員——修正之道只有取消質詢制度並將監察權回歸國會。結論：問題出在《中華民國憲法》異常，但不可能修憲（通不過公民複決），中國國民黨自認孫中山信徒不可能制憲、民進黨擔心影響選票也不會制憲，現行憲法「壽命長得很」，「無藥醫」。欄內被報導人物 沈伯洋／黃國昌／韓國瑜／柯建銘／孫中山 不代筆添條；候選頁 chen-po-kong 陳破空／li-jian 李堅 本檔 0× — prep-tag hit false，never-merge — [美洲台灣日報](https://taiwandaily.net/政治評論/27282/)（存檔 `knowledge/web-archives/taiwandaily-net-27282-27282.md`；去重：寫入前 `grep 27282 content/people/chen-maoxiong.md` = 0）
+- **2021-03-24** — On the 監試法: he says he had urged abolishing the 監委監試 (supervisor exam-monitoring) system for more than a decade ("十多年前筆者就主張廢除此制度"), calling it an inflamed appendix ("已發炎的盲腸") that adds burden to exam staff with no anti-fraud function — the abolition bill finally came from the Examination Yuan itself; bylined as 中山大學退休教授、台灣安全促進會會長 ([[articles/taiwanjustice-net/2021/20210621182929_2021_03_24_監委的監試制度早該廢了-_-陳茂雄_9c997872f6dddd08|監委的監試制度早該廢了, TJJ 2021-03-24]]).
+- **2021-04-07** — After the Taroko (太魯閣號) train accident, argues that a political appointee's departure is not about fault but political responsibility — 負政治責任 means resigning even without wrongdoing, to "止血" (stop the bleeding) for the ruling team; if there were illegality or dereliction it would be judicial or 監察 jurisdiction instead ([[articles/taiwanjustice-net/2021/20210415112949_2021_04_07_政治責任並非_是非_議題-_-陳茂雄_7268617d6bd64755|政治責任並非「是非」議題, TJJ 2021-04-07]]).
+- **2021-04-11** — On the same accident and the KMT caucus's threat to bring down the cabinet: 倒閣 cannot shake the presidency under Taiwan's system, and the seven hasty constitutional amendments since 1990 are a "拼裝車" (junk-car assembly) that cannot be fixed — he argues Taiwan should design its own constitution instead ([[articles/taiwanjustice-net/2021/20210519000348_2021_04_11_拼裝車不修也罷_-_-陳茂雄_8301bc40bd2c99a6|拼裝車不修也罷！, TJJ 2021-04-11]]).
+- **2021-04-13** — Argues the legislature's de-criminalization of the presidential 國務機要費 is unconstitutional: the constitution grants de-criminalizing power (大赦) only to the president (Art. 40), so Congress de-criminalizing the special-fund cases — as it did for 特別費 in 2011 — subverts the separation of powers ([[articles/taiwanjustice-net/2021/20210509172000_2021_04_13_總統是唯一有權除罪者-_-陳茂雄_5987d867f18dc66b|總統是唯一有權除罪者, TJJ 2021-04-13]]).
+- **2021-04-16** — Comments on Chris Dodd's April 14–15 visit to Taiwan (at Biden's request, with two former deputy secretaries of state): defends arms purchases against 吳斯懷's arms-lobbyist suspicions — Taiwan's problem is not whether to buy weapons but that China blocks sales — citing the KMT's blocking of Chen Shui-bian-era arms budgets as lost opportunity ([[articles/taiwanjustice-net/2021/20210509162849_2021_04_16_台美之間不能有軍售案嗎_-陳茂雄_5bb6240c59293870|台美之間不能有軍售案嗎？, TJJ 2021-04-16]]).
+- **2021-04-16** — Personal-essay column on reading character through small actions (李鴻章 testing three men and promoting only 劉銘傳; the politician who wipes his hands on others' shoulders), closing with self-disclosure: he failed at time-management as a student, chased the bus ten minutes daily and became a long-distance runner — and therefore stayed out of business, politics and stocks his whole life ([[articles/taiwanjustice-net/2021/20210518232600_2021_04_16_由小動作洞悉人品-_-陳茂雄_7eb89582dd1ace6a|由小動作洞悉人品, TJJ 2021-04-16]]).
+- **2021-04-25** — On [[people/ke-wenze|柯文哲]]'s street-name renaming push: he argues today's 正名 movements are not "去中國化" but "去殖民化" — the KMT regime erased written/reading台語 in 30 years where Japanese colonial rule failed in 50, banned "台灣" in organization names (台灣教授協會 could not register until Chen Shui-bian's era), and even named 東華大學 to avoid local place names ([[articles/taiwanjustice-net/2021/20210620133100_2021_04_25_是去殖民化-非去中國化-_-陳茂雄_9c7c1312b9dff11f|是去殖民化 非去中國化, TJJ 2021-04-25]]).
+- **2021-05-04** — 媽祖大或總統大？: in a democracy politicians court big religious constituencies (green politicians now visit 宮廟 rather than the [[organizations/presbyterian-church-in-taiwan|長老教會]], which sheltered 黨外 figures through the 美麗島 era), while under Chiang Kai-shek's dictatorship Mazu processions were moved to Oct 31 — Chiang's birthday — so the goddess became his "副神" ([[articles/taiwanjustice-net/2021/20210509164949_2021_05_04_媽祖大或總統大_-_-陳茂雄_8a688fe0d7acd1ce|媽祖大或總統大？, TJJ 2021-05-04]]).
+- **2021-05-04** — On 辜寬敏's resignation as presidential adviser over the government's refusal to write a new constitution: the DPP only chants 正名制憲 while in opposition to court 獨派 votes, and with full governance it will never push it — "肉食台獨" vs "素食台獨" ([[articles/taiwanjustice-net/2021/20210509172700_2021_05_04_民進黨制憲_省省吧_-_-陳茂雄_89c9669a1446f080|民進黨制憲？省省吧！, TJJ 2021-05-04]]).
+- **2021-05-04** — After 趙少康 spoke on unity at the KMT's 中常會: "unity" is the scoundrel's most-used excuse (echoing Samuel Johnson's patriotism line), and he disputes 趙少康's account of splitting the KMT over [[people/li-teng-hui|Lee Teng-hui]]'s alleged 台獨 — Lee never advocated Taiwan independence, only democracy ([[articles/taiwanjustice-net/2021/20210509173101_2021_05_04_團結_是惡棍最常用的藉口-_-陳茂雄_6f47e451e24d395f|「團結」是惡棍最常用的藉口, TJJ 2021-05-04]]).
+- **2021-05-16** — On why small parties cannot grow: not the 並立制 electoral system but Taiwan's rigid blue–green standoff — green voters must "含淚投票" for the [[organizations/democratic-progressive-party|DPP]] because no green small party can beat the KMT; recalls the 1996 建國黨 episode, when supporters told him "支持建國黨，票投民進黨" to avoid splitting the vote, and concludes the real "漁翁之利" accrues to the DPP as long as the KMT cannot cut ties with China ([[articles/taiwanjustice-net/2021/20210620121321_2021_05_16_藍綠對決-誰是漁翁_-_-陳茂雄_da926b4dc106923e|藍綠對決 誰是漁翁？, TJJ 2021-05-16]]).
+- **2021-05-16** — A terminology argument against 邵宗海's WHA op-ed: he says over 70% of Taiwanese who resist Beijing's annexation are neither "台獨" nor "反共" but "拒共" — 台獨 was aimed at the foreign 中華民國 regime, 反共 describes the Chiang regime's own hatred, and ordinary Taiwanese had no grudge against the CCP (which courted 台獨 in the Mao era against Chiang); flags the contradiction of 統派 who simultaneously "捍衛中華民國" and "反台獨" ([[articles/taiwanjustice-net/2021/20210620131533_2021_05_16_拒共-反共-台獨-_-陳茂雄_90dc5c8d6adaae1e|拒共 反共 台獨, TJJ 2021-05-16]]).
+- **2021-05-18** — After the May 11 指揮中心 cluster and the TVBS poll ([[people/tsai-ing-wen|蔡英文]] approval 41%, down 20 points from inauguration): the ruling team without reelection pressure is "最後滿足權力慾望的時段," the DPP's fate in the 2022 local elections hinges on sealing the epidemic gap, and he likens the DPP to dogs that cannot share meat while the KMT is pigs eating separately — but even a DPP local-election loss won't save the KMT in 2024 because its local factions and 統派 have no common ground on national identity ([[articles/taiwanjustice-net/2021/20210621195011_2021_05_18_民進黨的生死門-_-陳茂雄_180f9d4b10ab44d4|民進黨的生死門, TJJ 2021-05-18]]).
+- **2021-06-08** — Argues that confrontation (抗爭) is the normal state of Taiwan politics: the 黨外 made it the gentlest form of democratization (neither armed revolution nor assassination), but post-democratization politicians kept using it for private gain, so that even in a national crisis politicians still fight the ruling party; he turns this on the KMT's 關燈一分鐘 vaccine campaign as the latest "義和團式" ritual ([[articles/taiwanjustice-net/2021/20210616080553_2021_06_08_抗爭是台灣政壇常態-_-陳茂雄_82c0a7238d350325|抗爭是台灣政壇常態, TJJ 2021-06-08]]).
+- **2021-06-15** — On the 張憲義 1988 defection: he argues 蔣經國's real "反共保台" was the nuclear-weapons program — the 中山科學研究院 plutonium and uranium enrichment tracks were dismantled by the US after 張憲義's intelligence, and he contrasts this with North Korea's deterrent to conclude that self-styled 蔣家 believers who ally with the CCP betray both Chiangs ([[articles/taiwanjustice-net/2021/20210723153546_2021_06_15_蔣家的朝鮮化-_-陳茂雄_6c73f6da4eaf9b29|蔣家的朝鮮化, TJJ 2021-06-15]]).
+- **2021-06-15** — On why Taiwanese feel like kin to the Japanese despite fifty years of colonial rule: Japan acknowledged its colonial rule and actively ended it (encouraging 歸化), while the KMT regime insisted "大家都是中國人" and so never had to end its own; the pandemic made the difference visible — Japan's vaccine donation versus China blocking Taiwan's purchases — and the unification camp's "一個中國" framing, he says, is what mainstream opinion is throwing away ([[articles/taiwanjustice-net/2021/20210723163229_2021_06_15_疫情重創統派-_-陳茂雄_1bb8df96cbad3591|疫情重創統派, TJJ 2021-06-15]]).
+- **2021-06-20** — On 連勝文 after the vaccine controversy (周玉蔻 resurfacing his April anti-AZ post while his father 連戰 was hospitalized for a malignant tumor): he says 連勝文 has walked into a dead end by choosing the 統派 route and by trying to compete on political acting he is not good at — his one genuine, unmatchable strength is money for public-interest work, which would make him known and liked through real life rather than performance ([[articles/taiwanjustice-net/2021/20210723151932_2021_06_20_連勝文不懂得利用自己的優勢-_-陳茂雄_d705ed9559c0b42f|連勝文不懂得利用自己的優勢, TJJ 2021-06-20]]).
+- **2021-07-20** — Reading 吳敦義's memoir "堅毅之路：吳敦義" against the KMT's 2020 collapse: he rejects the "全民調被綠營操作" explanation (Han Kuo-yu's momentum was at its peak; the greens could not have engineered that) and locates the real failure in [[people/han-guoyu|韓國瑜]] and 郭台銘 becoming candidates in violation of the party's own nomination rules, which squeezed out the local factions (地方派系) that are the KMT's real election-fighting force ([[articles/taiwanjustice-net/2021/20210920143628_2021_07_20_中國國民黨還不知道自己的敗因-_-陳茂雄_02f067d90c19382d|中國國民黨還不知道自己的敗因, TJJ 2021-07-20]]).
+- **2021-07-21** — On why a third force cannot break out of the blue-green standoff: small parties are trapped by the "三合一敵人" framing inherited from the KMT's old "共匪、台獨、反中國國民黨" formula, so green small parties can only act as a 民進黨 tail party while blue ones are boxed in by the unification issue; the 黨外-to-[[organizations/democratic-progressive-party|DPP]] lineage and 親民黨/台聯 are his evidence that Taiwan's small parties are training grounds that the big parties harvest ([[articles/taiwanjustice-net/2021/20210920153013_2021_07_21_藍綠第三勢力的悲歌-_-陳茂雄_05a74d0bfa0f1171|藍綠第三勢力的悲歌, TJJ 2021-07-21]]).
+- **2021-07-23** — Against "以德報怨" for the Henan floods: he argues for "以直報怨，以德報德" — aid to a hostile state simply frees money for missiles aimed at Taiwan — and contrasts Japan's gratitude for the 311 donations (the 90-degree bows from a tour group at an Argentine airport) with [[people/ma-yingjeou|馬英九]]'s praise of Tsai's condolences, which he calls a fraud given that the only actor seeking to eliminate the ROC is the CCP ([[articles/taiwanjustice-net/2021/20210927004846_2021_07_23_以德報怨-何以報德_-_-陳茂雄_28e8e618ee2cfd42|以德報怨 何以報德？, TJJ 2021-07-23]]).
+- **2021-09-14** — On the "條子鴿" retired-policeman exposé targeting 謝長廷: the Taipei Police Bureau found no record of the postings or discipline the writer claimed, but the point he draws is that 謝長廷 survived by not cutting ties with his adopted son — he took the hit instead, which ended the story — just as he had routed a 玉皇宮 NT$1M donation through the central party committee to defuse a bribery accusation, and appointed a KMT councilor's brother as fire chief to split the opposition in a city with a hostile council ([[articles/taiwanjustice-net/2021/20210927011158_2021_09_14_政壇需要清廉更需要智慧-_-陳茂雄_df499120c21f9c9b|政壇需要清廉更需要智慧, TJJ 2021-09-14]]).
+- **2021-09-23** — In the KMT leadership race, answering 張亞中's three questions to 朱立倫 by reframing the issue: the KMT's real question is whether it is a democratic party chasing mainstream opinion or a movement group (運動團體) pursuing a belief through a minority leading a majority — the DPP began as the latter and converted after democratization, and if 張亞中 defines the KMT by unification then its goal is not governing at all, which makes "拳頭大就轉向" a category error ([[articles/taiwanjustice-net/2021/20211020134408_2021_09_23_民主政黨與運動團體-_-陳茂雄_76a198ebbdbb9d7c|民主政黨與運動團體, TJJ 2021-09-23]]).
+- **2021-10-07** — On who actually defends the ROC flag: the KMT raises flag seas at campaign rallies and strikes them the moment CCP officials arrive, while green citizens who never touch the 青天白日滿地紅 flag bring it out in front of CCP officials — he cites 陳雲林's 2008 visit, when police seized the flag from Taiwanese while the five-star red flag paraded through Taipei — and concludes the DPP "只做不說" and the KMT "只說不做" ([[articles/taiwanjustice-net/2021/20211020141822_2021_10_07_捍衛中華民國的說與做-_-陳茂雄_2a5f2431a9fe3c42|捍衛中華民國的說與做, TJJ 2021-10-07]]).
+- **2021-10-13** — Against the "鐘擺效應" assumption that the KMT will return: the swing stops when the deciding factor in national elections is national identity rather than patronage or incumbency, and the KMT's 20–25 support base is smaller than the TPP's, since the generation without the KMT's indoctrination education reads "一個中國" as the PRC ([[articles/taiwanjustice-net/2021/20211020121549_2021_10_13_國家觀念瓦解鐘擺效應-_-陳茂雄_f92c657ed64b2dcc|國家觀念瓦解鐘擺效應, TJJ 2021-10-13]]).
+- **2022-01-07** — On the four national referendums of 2021-12-18: he reads the near-identical agree/disagree ratios across all four as proof that most voters simply followed the DPP's four-不同意 or the KMT's four-同意 line, so the vote expressed party identity rather than 民意; he traces the hollowing-out of direct democracy to the 國親版《公投法》, whose high threshold ("鳥籠公投法") and Article 2 (initiative only for administrative orders, not constitution/law) were left intact by the DPP's later amendment, and notes the KMT's real defeat driver is the national-identity question that repels the 18-year-old cohort ([[articles/taiwanjustice-net/2022/20220517044319_2022_01_07_由四大公投評析台灣的直接民權-_-陳茂雄_01043749d7f0be56|由四大公投評析台灣的直接民權, TJJ 存檔 2022-05-17]]).
+- **2022-01-11** — In the run-up to the 45th 臺日經貿會議 (邱義仁 / 大橋光夫, video), he argues that after the anti-ractopamine referendum failed, Japanese radioactive-Contamination-area food should follow the same scientific logic — the K-40 already inside a human body exceeds the dose in Japanese food — and that the real reason for opening US pork was not trade reciprocity but Taiwan's survival, so with the US an unreliable long-term partner he urges a 台美日 triangle built on the Japan relationship, praising 衛福部 for absorbing the anti-ractopamine pressure and asking whether 原能會 can do the same against the KMT on Japanese food ([[articles/taiwanjustice-net/2022/20220518154309_2022_01_11_由萊豬看日本核食-_-陳茂雄_e1af233bd7aa64ad|由萊豬看日本核食, TJJ 存檔 2022-05-18]]).
+- **2022-01-19** — Writing on the KMT caucus's threat of "any resistance" if Fukushima food is admitted, he says Taiwan's mainstream opinion is pro-American and pro-Japanese (the 311 donations that led the world, Japan's vaccine donation when Taiwan could not buy any), so the 戰鬥藍's anti-Japan, anti-Fukushima stance is simply 對抗主流民意 — and he mocks the party's "反萊豬不反美豬" line as like someone devouring a steak while declaring he doesn't eat beef; a party that fights mainstream opinion without the nerve to be a revolutionary party is signing up to be permanently in opposition ([[articles/taiwanjustice-net/2022/20220626174530_2022_01_19_笨蛋_對抗主流民意要如何執政_-_陳茂雄_103d4442069d4421|笨蛋！對抗主流民意要如何執政？, TJJ 存檔 2022-06-26]]).
+- **2022-01-25** — On the 促轉會 plan to remove the 蔣中正 statue and turn 中正紀念堂 into a "反省威權歷史公園": he notes 張亞中's "善報蔣中正" rally on 1·23 could not attract even 朱立倫 or 蔣萬安, because by then the KMT's 中國法統 faction had gone pro-CCP and the mainstream public had turned anti-Chiang — so raising Chiang's banner against the DPP hands the ruling party a "天上掉下來的禮物"; he contrasts the嫡傳 grandson 蔣友柏, who neither praises nor condemns Chiang precisely because he does not live off the family's patronage ([[articles/taiwanjustice-net/2022/20220519124414_2022_01_25_蔣介石幫了民進黨_-_-陳茂雄_c9ebc44dff987f36|蔣介石幫了民進黨？, TJJ 存檔 2022-05-19]]).
+- **2022-01-26** — Reading a 台灣民意基金會 poll (DPP 30.5%, KMT 15.6%, TPP 12.5%, KMT down four points month-over-month) he recasts the KMT as a 大戶人家 that came from an authoritarian 革命政黨 built to have a minority lead a majority, then lost its fortune after democratization — while the DPP, once too poor to be worth joining, received the KMT's shed political territory as a gift and became a 權力暴發戸 who shows off by breaking its own nomination rules mid-primary; he recalls being invited by the 高雄市 DPP chairman 劉貞祥 to run on the party ticket, and how the executive committee treated him courteously because help then was 雪中送炭 ([[articles/taiwanjustice-net/2022/20220519105925_2022_01_26_政治敗家子與權力暴發戶-_-陳茂雄_e9d4e4f6b337af06|政治敗家子與權力暴発戸, TJJ 存檔 2022-05-19]]).
+- **2022-02-23** — On 世界母語日, after the 總統府 publicized 蔡英文's ICRT Hakka-program interview: he says weak languages survive only on public power while politicians promote only strong ones for votes, that school mother-tongue courses are 虛晃一招 because no exam uses them, and that the DPP — which scolded the KMT for cramming 台語 before elections — is now worse, pushing bilingual English instruction that crowds out 台語 while its legislators perform 台語 in the legislature; he singles out 台灣師範大學 for granting the same teaching credit to local-language courses as to English ([[articles/taiwanjustice-net/2022/20220323120218_2022_02_23_母語教學只是口號-_-陳茂雄_a759330eea3d1cf4|母語教學只是口號, TJJ 存檔 2022-03-23]]).
+- **2022-05-18** — On the collapse of North Korea's zero-COVID myth and China's locking down cities, he argues both failures come from dictatorships where the leader is treated as infallible and specialists cannot speak up; he lays out the epidemiology of 清零 versus 與病毒共存 (coexistence requires vaccine-induced 人工免疫 plus natural immunity), faults the in-party opposition for attacking whichever strategy Taiwan tries, and observes a Taiwanese peculiarity: the public prefers 清零, so when the team lifted restrictions the restaurants stayed as empty as in the lockdown year — the DPP's successful 清零 banked the support it is now spending down ([[articles/taiwanjustice-net/2022/20220705121648_2022_05_18_台灣人的防疫觀-_-陳茂雄_11ca47812da969c2|台灣人的防疫觀, TJJ 存檔 2022-07-05]]).
+- **2022-06-21** — Reading 柯志恩's analysis of the Kaohsiung race (the KMT's baseline gap of 325,000 votes, and 蔡英文's 2020 Kaohsiung total exceeding the green party vote by over 400,000): he explains the DPP's 2018 collapse as policies that made a few lose out while the many felt nothing, the reversal after 2018 into policies that benefit the few, and the KMT's 2020 wipeout as a problem of 政治信仰 — enough blue voters feared 韓國瑜 enough to vote for the candidate they disliked ([[articles/taiwanjustice-net/2022/20220705123001_2022_06_21_政治信仰與施政-_-陳茂雄_56473d0c59db50cd|政治信仰與施政, TJJ 存檔 2022-07-05]]).
+
+**2012–2023 台灣時報／自由時報／民報專欄 record（TJJ Wayback 存檔 2023-06～2023-09，slice 10150400-2 吸收於 2026-10-15）：**
+
+- **2012-05-10** — 自由時報專欄〈世代交替的關鍵不在年齡〉：讀蔡英文辭黨主席後綠營的「世代交替」呼聲為逼天王退位之說，論世代的關鍵在思想而非年齡——第一代民進黨靠政治犯以體制外運動對抗獨裁、選舉配合運動；民主化後轉為第二代、以論述為主、美麗島辯護律師取代政治犯登上舞台；但論述已撞瓶頸（八成以上自認台灣人者仍把票投給主張「一個中國」的馬英九，因為他們不關心公共政策），第三代需要的是組織能力而非年輕，因國民黨黨產年收益近三十億、利益戰民進黨拼不起，只能在「交情」上經營基層（[[articles/taiwanjustice-net/2023/20230607063857_2012_05_10_世代交替的關鍵不在年齡-_陳茂雄_dc9d7fc4b9e55c58|世代交替的關鍵不在年齡, 自由時報 2012-05-10, TJJ 存檔 2023-06-07]]）。
+- **2012-08-05** — 在台灣時報紀念中日和約生效六十週年的馬英九致詞後發表〈馬政權與中華民國之間的矛盾〉：譏馬以開羅、波茨坦宣言主張中華民國擁有東三省及台澎主權是「說外行話」——1895 年日本依馬關條約擁有台灣主權、開羅會議時台灣屬日本而日本未參會，真正決定主權的是 1951 年舊金山和約（日本放棄台澎主權），1952 年中日和約從未談及台灣主權；又引 1936 年《五五憲草》列舉中華民國領土三十區不含台灣、而《中華人民共和國憲法》卻列台灣入版圖，論依中華民國憲法疆域該國已「失去所有領土」、以「寄居蟹」形態在台灣掛牌，正符《台灣前途決議文》；批馬政權不認同決議文卻以北京為「宗主國」，製造一個虛幻的中華民國（[[articles/taiwanjustice-net/2023/20230607061103_2012_08_05_馬政權與中華民國之間的矛盾-_陳茂雄-08-05-2012_87b1699aec1670ed|馬政權與中華民國之間的矛盾, 台灣時報專論 2012-08-06, TJJ 存檔 2023-06-07]]）。
+- **2013-11-28** — 專欄〈獨派人士的迷失〉（TJJ 存檔僅存殘頁，正文截於「歡迎定閱 newsletter」處）：記部分獨派人士與民進黨意見相左——獨派不只主張台獨還堅決切割中國、堅持以「國與國」關係往來，而民進黨人物沒反對台獨卻不把台獨掛嘴邊、交流時也不堅持國與國對等，因而獨派對民進黨不滿（存檔截本僅存首段，其餘段落已佚）（[[articles/taiwanjustice-net/2023/20230922210137_2013_11_28_獨派人士的迷失-_陳茂雄-11-29-2013_0164a375aba66a17|獨派人士的迷失, TJJ 存檔 2023-09-22]]）。
+- **2013-12-30** — 台灣時報社論〈路線之爭拖垮民進黨〉：就柯建銘提出「凍結」《台獨黨綱》引發「一邊一國連線」台南記者會圍剿、台南市議員陳朝來籲柯離開民進黨之事，論《台獨黨綱》早在 1999-05-09《台灣前途決議文》通過後即被後法優於前法凍結，麻煩的是兩份文件各有擁護者；稱國民黨無路線之爭、利益分配得宜即成利益共同體，綠營人人自認老大、各吹各調，「二虎相爭一死一傷」；路線之爭本可依制度解決（犯錯即逐出門牆），惟綠營思想停留人治時代、初選出線者仍被屬意他人者抵制，毫無法治觀念（[[articles/taiwanjustice-net/2023/20230607060606_2013_12_30_路線之爭拖垮民進黨-_陳茂雄高雄台灣時報社論-12-30-20_9f21ead72b31f23e|路線之爭拖垮民進黨, 台灣時報社論 2013-12-31, TJJ 存檔 2023-06-07]]）。
+- **2017-12-18** — 民報時事專欄〈強盜也喊救命〉：讀台北地檢署偵辦國民黨「三中」黨產案中媒體透露馬英九裁示「回饋」賤賣中視予榮麗集團、馬控檢方洩漏「不實錄音」製造有罪氛圍並不滿卸任後「被追殺得像什麼樣」，反譏偵查中不可能公布錄音檔、定罪靠證據不靠氛圍，且若法院真是「國民黨開的」或現任主席吳敦義下令追殺都無人相信；追述馬追殺王金平：趁[[people/wang-jinping|王]]出國下令考紀會撤銷其黨籍、理由「最恥辱的一天」「大是大非」，太陽花學運期間藍委聯名請求馬放棄訴訟、馬不為所動「就算國民黨垮掉也在所不惜」；結論：強盜在治安良好的社區喊救命沒人相信他是被害者，馬面對司法喊「救命」同理（[[articles/taiwanjustice-net/2023/20230716160951_2017_12_18_強盜也喊救命-_-陳茂雄-2017-12-19_1c3ac315d1eeb92b|強盜也喊救命, 民報 2017-12-19, TJJ 存檔 2023-07-16]]）。
+- **2023-06-01** — 台灣時報專論〈柯文哲歪打正著〉：引正常國家文化基金會民調（賴清德 34%、侯友宜與柯文哲各 23%；逾五成認為侯應辭職、近五成新北市民稱知侯選總統就不會投他），論兩度政黨輪替後兩大黨崩解、第三勢力才有空間（2020 民眾黨新政竟得 150 萬政黨票）；追述 2018 台北民進黨讓姚文智孤軍奮鬥不出面打柯的「棄姚保柯」暗助、柯卻自認被蔡英文害死，雙方認知差距使柯選後頻頻出招罵民進黨，反而讓不滿國民黨的藍營選票流向柯文哲——柯的前途在於國民黨崩解，賴清德因國民黨內鬥與柯吸收鬆動選票而「相當幸運」；新威脅是中國法統勢力與民眾黨結盟（[[articles/taiwanjustice-net/2023/20230922213140_2023_06_01_柯文哲歪打正著-_-陳茂雄_871ffec7e3c92c93|柯文哲歪打正著, 台灣時報專論 2023-06-01, TJJ 存檔 2023-09-22]]）。
+- **2023-06-03** — 台灣時報社論〈藉敵人之力殲滅對手〉：論兄弟內鬥遇外敵會先合力退敵，政黨正相反——會利用外敵殲滅內部對手以爭主導權；記國民黨在初選制度上開後門（榮譽黨員參初選、徵召不敢登記者）使內部大亂、讓敵人殲滅浮出的「大咖」，2024 又大關初選之门改徵召；綠營則由選民自發重演：2019 初選後蔡英文賴清德和解而支持者未和解，挺賴民眾不期待 2022 九合一大勝以免蔡英文氣勢高漲推人與賴競爭，民進黨大敗、蔡英文辭黨主席後「以敵人的力量擊敗對手」；惟英系「低調轉高調」（吳沛憶爭取中正萬華立委、劉櫂豪稱參選仍是選項）意圖後蔡英文時代一搏，只是候選人已定、黨機器在賴系手中，英系變不出把戲（[[articles/taiwanjustice-net/2023/20230923035011_2023_06_03_藉敵人之力殲滅對手-_陳茂雄_76961a57117467a7|藉敵人之力殲滅對手, 台灣時報社論 2023-06-03, TJJ 存檔 2023-09-23]]）。
+- **2023-09-13** — 台灣時報社論〈黨外精神早就消失〉：柯文哲於台南成立全國第一個縣市競選總部、批民進黨「墮落快」「看不到黨外精神」、喊「新潮流不倒台灣不會好」，引陳定南「清廉、勤政、愛鄉土」；作者反轉其論：豈止民進黨，民眾黨更看不到——黨外精神早已在台灣消失；論黨外時代明為民主運動、隱含獨立建國，是一種追求政治信仰的政治運動（江南案使蔣家接班失敗、李登輝推寧靜革命完成一半），而今政治人物只搶佔政治版圖、追選票、跟著主流民意走，民進黨認定獨立建國運動對選票是負面的故不可能推動；柯抨擊民進黨前應先說明民眾黨在追求什麼（[[articles/taiwanjustice-net/2023/20230923032553_2023_09_14_黨外精神早就消失-_-陳茂雄_3f7f07d133c561ea|黨外精神早就消失, 台灣時報社論 2023-09-13, TJJ 存檔 2023-09-23]]）。
+
+
+**2013–2023 台灣時報專論／社論與 TJJ 專欄 record（TJJ 存檔 2023-09～2024-02，slice 10150500-2 吸收於 2026-10-15）：**
+
+- **2013-06-16** — 高雄台灣時報專論〈馬政權何需政務官？〉：論馬政權最嚴重的缺失是「政務官不像政務官、總統不像總統」——倒有點像皇帝卻沒有皇帝的魄力、隨時見風轉舵，政務官宣布的政策比市場賣膏藥的「王祿子仙」還不可靠；舉證十二年國教因五都市長喊財政負擔而起排富急轉彎（教育部長先前「斬釘截鐵」說免學費是既定政策不可能改變，上級一句話立刻轉彎卻緊抱官位不去職）、《會計法》修正案除罪風暴中行政院長從「沒有窒礙難行」改口「窒礙難行」；並自述二十年前在中山大學任總務長時堅持公開招標、拒用不依制度應徵者、堅持人事室辦徵才考試，最後因校長不發商調公文而毅然辭職不留，對比馬政權政務官遇不合體制之事都不願辭職；結論是馬政權「有功歸馬英九」（連米酒降價都要搶）、有過則政務官當砲灰，實為「一人政策」，不需要聘政務官、直接由總統指揮常任文官即可省公帑（[[articles/taiwanjustice-net/2023/20230923035818_2013_06_16_專論-馬政權何需政務官_-_-陳茂雄-高雄台灣時報-201_e0fe7b91fe5121ec|馬政權何需政務官？, 高雄台灣時報專論 2013-06-16, TJJ 存檔 2023-09-23]]）。
+- **2013-07-04** — 台灣時報社論（文末署名 2013/7/5）〈對中政策失分易 得分難〉：記 7 月 4 日民進黨第一場「對中政策擴大會議」（華山會議），黨主席蘇貞昌主持、公布各階段統獨民調（主張獨立遠高於維持現狀），主席結論「執行比理論重要」；他論對民進黨而言對中政策就像選舉的政策白皮書——不能沒有、很難加分、很容易扣分，因為絕大多數選民不重視公共政策；國民黨靠對中政策加分卻學不來（中常會曾有本土派提議走本土化路線被否決）；綠營無論是否認同「中華民國」，認定台灣是一個國家是共識，國民黨則對台灣人說「一個中國就是中華民國」、遇中國人立刻拋棄中華民國，客觀感受上等於認同中華人民共和國代表一個中國；又論北京為維穩刺激出「仇日」「統一台灣」的全民族意識，民進黨下再大功夫也改變不了北京親國民黨的政治生態，台商及其員工多支持國民黨亦難扭轉；結論是民進黨要在一般民眾與獨派之間取得最佳選擇「還是需要智慧」（[[articles/taiwanjustice-net/2023/20230923050925_2013_07_04_對中政策失分易-得分難-_陳茂雄-07-03-2013_8e4243993fead53f|對中政策失分易 得分難, 台灣時報社論 2013-07-04, TJJ 存檔 2023-09-23]]）。
+- **2015-11-19** — 台灣時報專論（文末署名 2015-11-19）〈中國國民黨會泡沫化嗎？〉：由民進黨不分區名單論蔡英文已完全掌控全黨——民進黨從派系共治的聯盟變成「小英黨」；藍營這次選舉許多戰將不敢出戰亦屬首見，不少人據此評估國民黨崩解、樁腳轉向、將泡沫化，但他反論國民黨垮的是馬英九的個性違背藍營傳統，馬時代過去後藍營還是會再起，因為綠營問題同樣嚴重，最重要的是藍綠個性迥異而馬英九的個性反而像綠營：藍營追求利益直接、利益重分配即可和解（朱立倫與王金平的版圖衝突為例），綠營衝突雖也是利益衝突卻滿口仁義道德不說真相、沒有和解空間——馬英九追殺王金平以「大是大非」「最恥辱的一天」為藉口不說真正原因，被解讀為外來勢力追殺台灣人、族群對立，國民黨瀕臨解體；又論台灣人不關心公共政策，在野黨只能等執政黨自我崩解才有輪替（2008 與未來的 2016 皆然），但崩解時藍綠態度相反：國民黨瀕崩時綠營群雄並起搶分一杯羹，2008 民進黨崩解時藍營卻大團結、無人要與親民黨「整合」；結論是綠營有一大群「馬英九們」，風光的歲月撐不了多久（[[articles/taiwanjustice-net/2023/20230923042708_2015_11_19_中國國民黨會泡沫化嗎_-陳茂雄-11-19-2015_c068f4f17db8fb3a|中國國民黨會泡沫化嗎？, 台灣時報專論 2015-11-19, TJJ 存檔 2023-09-23]]）。
+- **2023-09-14** — 台灣時報專論（文末署名 2023/9/14）〈認同「中華民國」就是「兩國論」〉：回應馬英九批蔡英文任內新生兒減少六萬九千人、朱立倫稱賴清德台獨立場鮮明造成台海動盪，他反駁少子化歸因兵兇戰危「無聊」：台灣人與中國共產黨完全沒有恩怨，是國民黨在大陸腐敗被中國人唾棄、揹著「中華民國」神主牌逃來台灣搞殖民獨裁統治、天天「催符念咒」喊反攻大陸殺朱拔毛逼台灣人反共，當年移民潮的起因是國民黨與「共匪」的衝突、與台灣人無關；論中國法統勢力民主化後怕失去優勢、藉「共匪」對台灣人施壓而由反共轉為親共，中共消滅中華民國的意志絲毫未減，國民黨抱中共大腿後「捍衛中華民國」轉為只說不做、民進黨絕口不提卻只做不說「形成政壇奇蹟」；論「台灣獨立」的定義是排除外來政權建立本土政權，連中華民國與憲法都要消失——賴清德與民進黨沒有這麼做，而是依《台灣前途決議文》認定在台灣的中華民國就是一個國家、疆域只有台澎金馬，戳破版圖包含大陸的騙術（中共是聯合國常任理事國，中華民國只能「保平安」不可能「添福壽」）；結論：台獨運動要中華民國消失以便建自己的國家、民進黨認同它是建立在台澎金馬的國家，認同「中華民國」就等於承認兩個中國——一個中華民國、一個中華人民共和國（[[articles/taiwanjustice-net/2023/20230923050346_2023_09_14_認同_中華民國_就是_兩國論_-陳茂雄_18d8e3b81ad99c2f|認同「中華民國」就是「兩國論」, 台灣時報專論 2023-09-14, TJJ 存檔 2023-09-23]]）。
+- **2023-10-05** — 台灣時報專論（文末署名 2023/10/5）〈追求選票者哪來中心思想？〉：讀侯友宜在屏東稱與柯文哲「有相同的政治理念」反譏——「傾聽人民聲音、解決人民痛苦」是所有政治人物的台詞，政治運動人士才有中心思想，熱衷政權的人只追求選票、沒有中心思想，怎麼講能騙到選票就怎麼講；舉侯友宜為例：國民黨提四大公投時他完全不配合、黨內有人主張開除黨籍，因核四蓋在新北而不敢贊成重啟、站到綠營那邊，被徵召參選總統後又轉向支持核能——因為真正揹反核神主牌的是賴清德，繼續陪新北市民反核等於幫賴助選，「快速轉型擁核」沒甚麼奇怪，追選票的人都如此；又論中國法統勢力民主化後失去優勢、意圖藉「共匪」打壓台灣人而由反共轉為親共，結果選民不支持「共匪」的同路人，該勢力只好揹著中華民國神主牌去擁抱要消滅中華民國的敵人；論民進黨為獨派票源絕口提中華民國卻實際捍衛之，與國民黨「只說不做」成對比「真是錯亂」；結論：政治團體有信仰才有中心思想，政客的主張隨時可改，「聰明的人應該站在自己的立場投票，不要被政客虛假的言辭所騙」（[[articles/taiwanjustice-net/2024/20240221115211_root_797ec50e7525de50|追求選票者哪來中心思想？, 台灣時報專論 2023-10-05, TJJ 存檔 2024-02-21]]）。
+- **2023-10-17** — 台灣時報專論（文末署名 2023-10-16）〈笨蛋才靠敵人拉選票〉：就朱立倫「和平是民眾最大心願」、侯友宜「這次選舉是和平與戰爭的選擇」之說反駁：賴清德已明確回應「與中共發生戰爭的都是中國國民黨執政時代，民進黨執政時從未發生過戰爭」是一針見血——與中共有恩怨的是國民黨，國民黨不來台台灣就不會有「共匪」這一號敵人（大清流失的土地百倍於台灣、中共從未追討，唯獨看上台灣就是因為國民黨逃亡來台）；他論自己本來期待國民黨強一點制衡民進黨（權力與腐化是一體的兩面），但國民黨要角揚言清查民進黨弊案卻放過自己的弊案、還一直用中共犯台恫嚇台灣人「真的欺人太甚」；以以色列作問：若以色列大選有政黨拿阿拉伯入侵來恫嚇，能獲選票嗎？答案明確；論民進黨因中共消滅中華民國意志堅定，策略是強化國防、增進國際關係以嚇止盲動，國民黨堅持「和平反戰爭」拿什麼抑制中共蠢動——「難道是投降嗎」；並點出兩度九合一民進黨被打趴、總統大選卻佔極優勢的反常生態，國民黨要角從不探討原因（[[articles/taiwanjustice-net/2024/20240221122032_root_3f8901ec130a081b|笨蛋才靠敵人拉選票, 台灣時報專論 2023-10-17, TJJ 存檔 2024-02-21]]）。
+- **2023-10-19** — 台灣時報專論（文末署名 2023-10-19）〈新版馬英九〉：記藍白合觸礁、新黨立委參選人游智彬與馬治薇及副秘書長王萬邦到國民黨中央黨部送大型「藍白拖鞋」批「藍白拖」、警告朱立倫別當歷史罪人，王萬邦稱柯侯配或侯柯配誰有勝算大家心知肚明、藍白合不來的關鍵就在國民黨，且罷韓與高雄補選時侯友宜袖手旁觀造成韓粉失望透頂；他論中國法統勢力本來排斥本土人士，侯友宜缺乏本土思想卻有純種本土血統、遭抵制是意料中事（直選總統以來國民黨未出現純本土血統總統候選人），新黨這回抵制倒不是血統而是他昔日不支持同志的回敬；追述侯友宜早為問鼎九五切割韓國瑜（王金平出錢出力輔韓反被韓粉噓下台、韓國瑜罷韓補選時沉默不語），2020 大選蔡英文淨贏韓國瑜近三百萬票證明「很多藍營的人把票投給他們不喜歡的蔡英文因為更厭惡韓粉」；結論：侯友宜身上看到馬英九的影子——兩人都是不沾鍋且常識嚴重欠缺，差別在馬只顧個人形象、侯是團隊不沾鍋，「侯友宜根本就是新版的馬英九」，只是命運相反：馬出道時民進黨瀕崩而國民黨大團結、榮華富貴八年，侯面對氣勢甚旺的賴清德而國民黨瀕臨崩解、幾近溺水（[[articles/taiwanjustice-net/2024/20240224184546_root_27e8c7d951cab8e4|新版馬英九, 台灣時報專論 2023-10-19, TJJ 存檔 2024-02-24]]）。
+- **2023-10-21** — 台灣時報社論（文末署名 2023-10-21）〈政治分贓是必然的〉：讀藍白合喬不攏、侯友宜以「切豬肉」比喻喊話柯文哲「豬肉要切大塊」、郭台銘陣營發言人黃士修引「Pork Barrel（政治分贓）」批評國民黨竟公開談分贓，反問當初是誰用假民調做掉郭台銘、誰下令打死不退、誰拖時間把破局推給柯文哲；他論動物世界弱肉強食形成食物鏈，人類慾望遠多於溫飽所以戰鬥更烈，政治是把血淋淋的戰鬥改造成規矩的戰爭模式，民主社會以選票分配權力「其屬性還是一種戰爭，不可能仁慈」；論權力從戰爭轉為投票後更要裝仁慈以騙選票，政治人物滿口仁義道德卻沒有人承認為自己奮鬥——若追查其入政壇前的行為會發現並無義舉（陳樹菊若參政可獲大量選票卻婉拒），引朱高正「政治就是高明的騙術」，成功政治人物的心路歷程足以編成「騙術奇談」；反駁創黨黨員抨擊民進黨失去創黨精神是過度期待——追選票者怎麼可能有中心思想，主張隨時跟著選票飄移，只有沒有機會掌權的政黨才會堅持政治信仰（[[articles/taiwanjustice-net/2024/20240221105422_root_eecd543530fa2f6b|政治分贓是必然的, 台灣時報社論 2023-10-21, TJJ 存檔 2024-02-21]]）。
+
+**2023-10～2024-02 台灣時報專論／社論 record（TJJ Wayback 存檔 2024-02-25，slice 10150600-2 吸收於 2026-10-15）：**
+
+- **2023-10-09** — 台灣時報專論〈千算萬算不值得天一畫〉：論兩大黨修憲時各取所需——民進黨因為選不上總統而換掉總統的覆議否決權、國民黨因為自認永遠執政而廢掉立院的閣揆任命同意權，結果朝小野大總統跛腳、第一大黨不能左右組閣，2005 第七次修憲後台灣已不可能再修憲，「千算萬算不值得天一畫」，兩大黨精於算計反而堵死自己的路（[[articles/taiwanjustice-net/2024/20240225005228_root_a8b7412177ddbb4d|千算萬算不值得天一畫, 台灣時報專論 2023-10-09, TJJ Wayback 存檔 2024-02-25]]）。
+- **2023-10-14** — 台灣時報社論〈藍營挫敗的關鍵不在藍白不合〉：反駁國民黨「支持民眾流失到民眾黨故須藍白合」的邏輯——2004 年宋楚瑜加連戰仍輸陳水扁，一加一不等於二、雙方選票不能互容；國民黨登不上九五的關鍵不在藍白不合，而在選民似無條件支持民進黨，該黨卻不探討原因（[[articles/taiwanjustice-net/2024/20240225022853_root_e1257608c827cf18|藍營挫敗的關鍵不在藍白不合, 台灣時報社論 2023-10-14, TJJ Wayback 存檔 2024-02-25]]）。
+- **2023-10-16** — 小蜜蜂電報專欄〈白藍競合？弊端少的才是好制度〉：評藍白「在野力量整合會議」中國國民黨提出的開放式民主初選——利用台灣人對非選舉投票興趣缺缺、樁腳動員空間大，且好制度移植台灣必變質（自述 1995 民進黨彭明敏／許信良開放式初選舊例與教改多元化升學之敗，重申自己當時主張維持聯考以讓弱勢子弟公平出人頭地）；結論是在弊端王國台灣，只有外力無法介入的公正民調才是弊端最少的制度（[[articles/taiwanjustice-net/2024/20240225005529_root_072ebfbcc70d7b85|白藍競合？弊端少的才是好制度, 小蜜蜂電報 2023-10-16, TJJ Wayback 存檔 2024-02-25]]）。
+- **2023-11-27** — 台灣時報專論〈總統並不是皇帝〉：就陳昭姿稱柯文哲承諾當選後特赦陳水扁之事論特赦的憲政法理——總統依憲法第四十條須「依法」依《赦免法》特赦，特赦以定讞為前提，陳水扁案審判中止故無案可特赦；柯文哲就算當選也無能耐修《赦免法》，「修法特赦陳水扁對蔡英文來說是『不為』，柯文哲則是『不能』」（[[articles/taiwanjustice-net/2024/20240225135813_root_455be560189e3a80|總統並不是皇帝, 台灣時報專論 2023-11-27, TJJ Wayback 存檔 2024-02-25]]）。
+- **2023-12-06** — 台灣時報社論〈蔣介石再世？〉：批趙少康稱侯康配當選後副總統分管國防外交的分權說——憲法上副總統位尊而無權無責任、僅備位元首，趙少康若真取得國防外交大權、現行體制下只能仿蔣介石以《臨時條款》凍結憲法，「若是侯康配能當選，是否又要再被凍結一次？」（[[articles/taiwanjustice-net/2024/20240225140821_root_652df06665c99e87|蔣介石再世？, 台灣時報社論 2023-12-06, TJJ Wayback 存檔 2024-02-25]]）。
+- **2024-01-31** — 台灣時報社論〈誤解聯合內閣〉：反駁賴清德「民主大聯盟」內閣說——聯合內閣只在內閣制國家於國會結盟產生，台灣行政立法分立，在野黨人士入閣與國會無關、解決不了朝小野大，反使結盟小黨同質化亡得更徹底；舉 2000 年陳水扁任命國民黨籍唐飛內閣無效為例（[[articles/taiwanjustice-net/2024/20240225141152_root_f5ca37b42f71890f|誤解聯合內閣, 台灣時報社論 2024-01-31, TJJ Wayback 存檔 2024-02-25]]）。
+- **2024-02-01** — 台灣時報專論〈台灣的軍隊出了甚麼問題?〉：以以色列對比台灣論兵源困境——台灣人「要保台卻不願從軍」不是待遇問題而是軍職看不到前途；追溯大專聯考後沒跳過龍門的「中國人」讀軍校、「台灣人」當勞工，軍官多為中國人、軍隊成中國人的天下，且軍中講究派系路線（郝系／非郝系）使台灣人更難發展，「軍中的主流不認同台灣」比兵源不足問題更大（[[articles/taiwanjustice-net/2024/20240225152156_root_f411d636912eaca8|台灣的軍隊出了甚麼問題?, 台灣時報專論 2024-02-01, TJJ Wayback 存檔 2024-02-25]]）。
+- **2024-02-08** — 台灣時報社論〈因果輪迴〉（同一專欄的 2024-02-25 Wayback 存檔；正文已見上方 2023-10-21 存檔條）：就傅崐萁主張國會特偵組、擴大立委人事權之事反譏立法單位沒有司法權與監察權是基本憲政常識——國民黨牽制不了執政黨、民進黨因朝小野大而憂心，都是昔日兩黨修憲互換否決權與同意權種下的因，「欲知前世因，今生受的是」，「因果輪迴，政黨也如此」（[[articles/taiwanjustice-net/2024/20240225145641_root_aafd59a8a494a13e|因果輪迴, 台灣時報社論 2024-02-08, TJJ Wayback 存檔 2024-02-25]]）。
+
+**2023-07～2024-03 taiwanjustice.net 專欄 record（Wayback 存檔 2024-02-25～2024-04-12，slice 10150700-2 吸收於 2026-10-15）：**
+
+- **2023-07-19** — 台灣時報社論〈台灣人的朋友〉：批退役少將流傳「日本福島核電廠可立即轉換成製造核彈的工廠、因海床核彈研究爆炸才引發海嘯」之說——用過燃料中的鈽-239 分離後的確可作原子彈原料，但「不可能在核能電廠分離，更不可能在核能電廠製作核武器」，「中華民國訓練出來的將官連這種常識都不懂，真的可憐」；又糾正「日本把台灣最上等的檜木砍伐運回日本」之說：日本名建築的檜木大部分不是日治時期運回、而是蔣政權時期賣給日本的（日治大量栽植但未及收割即終戰，真正收割成果的是蔣政權）；論全球對台灣最友善的是日本——三一一捐款日本從皇室到平民時刻表達感恩、中國傳布武漢肺炎又阻礙台灣購疫苗而日本贈疫苗且主張「只能送不能賣」（因為台灣人早就付過款）；結論是中國人難以離間台灣人與日本人的情感（[[articles/taiwanjustice-net/2024/20240228172048_root_9fcc4b3032756239|台灣人的朋友, 台灣時報社論 2023-07-19, TJJ Wayback 存檔 2024-02-28]]）。
+- **2023-09-21** — 台灣時報專論〈不連任的災害〉：就郭台銘與賴佩霞赴板橋慈惠宮參拜、表態參選總統「只做四年」就退休而發，反譏「只幹一任並非好事」——呂秀蓮主張行政首長限于一任是為了公平競爭（無資源者對上掌握國家資源者必吃虧），他關心的卻是施政正常化：以韓國總統卸任後「似乎要住進牢房」為例，論其犯錯的主因是沒有連任壓力，台灣 2018、2022 地方選舉民進黨「選到趴下來」同理；論政壇沒有雙贏、勝負決戰點在選票「而獲得選票最近的一條路就是騙」，引朱高正「政治是高明的騙術」，結論「郭台銘表態只幹一任，內行人聽了會心驚膽跳」——沒有連任壓力就可以為所欲為，「才真正可怕」（[[articles/taiwanjustice-net/2024/20240301085902_root_992fd8c1726f5e02|不連任的災害, 台灣時報專論 2023-09-21, TJJ Wayback 存檔 2024-03-01]]）。
+- **2023-11-24** — 台灣時報專論〈完全不了解對手的政黨〉：就國民黨記者會稱賴蕭配是「蔡規賴隨的託孤名單」、蕭美琴若賴清德當選恐成「深宮怨婦」之說逐條反駁——「垂簾聽政」是把民進黨當成出身獨裁執政黨的國民黨，民進黨出身在野民主政黨、沒有人提拔、個個是「老大」而沒有「大老」，「哪來垂簾聽政」；「深宮怨婦」則錯得更離譜：依台灣憲政體制副總統位尊而無權無責任、「其法定權責連地方政府的科長都不如」，且前副總統陳建仁已建立標準風範、蕭美琴有樣可循；論權力與腐化是一體的兩面，在野國民黨太弱以致「民進黨做得再爛都很難出現政黨輪替」，並以其「中國」性格批國民黨「完全不想了解敵對勢力」，如小孩吵架「多罵一句者就算贏，完全不管合不合邏輯」（[[articles/taiwanjustice-net/2024/20240225154307_root_5458b239484de05b|完全不了解對手的政黨, 台灣時報專論 2023-11-24, TJJ Wayback 存檔 2024-02-25]]）。
+- **2025-01-05** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「法院真的是中國國民黨開的？」 (政治評論 lane; byline 陳茂雄, 文末自註「作者為中山大學退休教授、台灣安全促進會會長」— matches page identity, signed 0105): 就柯文哲京華城案遭求刑28年6個月、北院裁定7,000萬元交保附電子腳鐐與限制住居，評國民黨前立委陳學聖「若柯文哲年初答應藍白合任副手就不在牢獄」之感嘆為馬後炮且無意義——憲法第52條總統刑事豁免權不及於副總統（副總統僅競選夥伴之「一體性」，無職權分享、無上命下從，位尊無權無責任），且國民黨亦無雅量讓柯文哲擔任總統候選人；回顧柯文哲第一次參選市長即關閉募款窗口、上任揭發五大案而民調竄升惟後繼無力找不到違法證據，依無罪推定未定讞前應認定無罪，並論「權力與腐化是一體的兩面」——若有罪定讞則未當上總統是幸運，若無罪定讞則未當上總統可惜；結語呼應該黨權貴昔日「法院是中國國民黨開的」之言反詰「果真因權力而腐化…除非法院真的是中國國民黨開的」。 — [美洲台灣日報](https://taiwandaily.net/政治評論/56031/)（存檔 `knowledge/web-archives/taiwandaily-net-56031-56031.md`）；欄內被報導人物 柯文哲／陳學聖 不代筆添條
+- **2025-01-09** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「有效證據認定的差異」 (政治評論 lane; byline 陳茂雄, 文末自註「作者為中山大學退休教授、台灣安全促進會會長」— matches page identity, signed 0109): 論司法審判之關鍵在證據，而「有效證據」之認定有不同立場——檢察官預設被告有罪、辯護律師假設被告無罪，故論述各異；調查人員以起訴為業績故認定較寬鬆，檢察官「押人取證」而非押人取供，法官不預設立場對有利不利證據皆嚴謹思考，柯粉柯黑各站辯護律師與檢察官立場故嚴重對立；並論台灣人不信司法之二因——過往獨裁政權掌控司法致司法不中立不獨立之陰影猶在、民眾不瞭解司法誤認不公正；引民眾黨號召週六「釘孤枝」遊行抗議司法不公、國民黨主席朱立倫聲援，及民進黨發言人吳崢、卓冠廷反批藍白從政要角貪腐互控如今手牽手上街掩飾貪腐；記京華城案由國民黨台北市議員游淑慧主導議調會、國民黨籍前台北市長郝龍斌公開質疑容積獎勵840%史上最高、政治獻金案由台北市議員鍾小平告發；結語「外國人認為台灣最美的是人」，惟接觸政壇則覺「台灣最醜的也是人」，政治人物觸訟時雙方支持者對打似有殺父之仇。 — [美洲台灣日報](https://taiwandaily.net/政治評論/56663/)（存檔 `knowledge/web-archives/taiwandaily-net-56663-56663.md`）；欄內被報導人物 柯文哲／朱立倫／吳崢／卓冠廷／游淑慧／郝龍斌／鍾小平 不代筆添條
+- **2025-01-06** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「戰鬥即結盟 結盟即戰鬥」 (政治評論 lane; byline 陳茂雄, 文末自註「作者是中山大學退休教授、台灣安全促進會會長」— matches page identity, signed 自由時報0106): 評賴清德元旦表態一月邀韓國瑜入府喝「和解咖啡」、柯建銘未經黨內高層或黨團共識先喊罷免立法院正副院長及41席國民黨區域立委致黨政高層為難；論實力不足的政治團體不能靠戰鬥茁壯、要靠結盟——以李登輝突圍為核心例證：江南案後由「看守接班人」轉為「法定接班人」，遭保守派要求扮演虛位元首、連性命都有問題，李夫人曾建議退出政壇，他仍決定突圍，方式「結盟為主，戰鬥次之」：先與李煥結盟擋下保守派攻勢，第一次選總統時婉拒李煥出任副手的姿態、在李煥意圖續任行政院長「將死」他之際改與郝柏村結盟請下李煥；對內亦與民進黨結盟（暗助連戰閣同意、推出政黨補助救窮的民進黨），並記一九九六年代民進黨與新黨結盟、因張晉城跑票未奪立法院長；對照去年立委選後被規畫為院長之游錫堃讓步主張結盟卻被主戰派淹沒，導致今日政局。 — [美洲台灣日報](https://taiwandaily.net/政治評論/56230/)（存檔 `knowledge/web-archives/taiwandaily-net-56230-56230.md`）；欄內被報導人物 賴清德／韓國瑜／柯建銘／李登輝／李煥／郝柏村／連戰／張晉城／游錫堃 不代筆添條
+- **2025-01-12** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「逼自已國家解除武裝？」 (政治評論 lane; byline 陳茂雄, 文末自註「作者為中山大學退休教授、台灣安全促進會會長」— matches page identity, signed 0112): 就立法院 1/10 院會處理行政院提請《憲法訴訟法》覆議案、民進黨團總召柯建銘透露 1/9 朝野協商曾向國民黨總召傅崐萁表示休會時程、總預算、選罷法 N1/N2 版本都可談但潛艦預算不能刪（傅崐萁不能答應），及柯批評「藍白聽習近平指揮」而發。論國際社會依循叢林法則、強化國防與國家定位無關唯有堅強國防才能避戰；以蔣經國為例——從不主張反攻大陸卻比蔣介石更積極強化國防，在中科院第一所（核能所，現屬原能會）設核反應器研究自用過燃料提煉鈽（PU-239）、第三所以雷射分離鈾（U-235），「若不是張憲義叛逃，造成美國關掉台灣所有核武研究設備，今日的台灣就像朝鮮一樣」，而蔣經國徒子徒孫卻要廢除台灣國防，「他地下有知，應該會痛哭流涕」；論柴油潛艦隔時須浮出水面充電、只能在台灣周邊防衛台灣，是標準防衛性武器，特定政治團體欲廢除防衛武器「居心叵測，難怪有人懷疑他們是敵人埋伏在台灣的奸細」（「奸細」疑為欄內引有人之言，屬欄內論述，非本庫斷言）；結語論保衛國家是主流民意指標，國民黨做法如為中共排除防衛障礙，難怪連續三次總統大選主流民意都當掉國民黨。欄內被報導人物 柯建銘／傅崐萁／習近平／蔣介石／蔣經國／張憲義 不代筆添條。 — [美洲台灣日報](https://taiwandaily.net/政治評論/57049/)（存檔 `knowledge/web-archives/taiwandaily-net-57049-57049.md`）
+- **2023-11-28** — 小蜜蜂電報專欄〈為民眾黨把脈〉：讀台灣民意基金會 11-27「2024 台灣總統選情的最新發展」民調（訪問 11-19～21；柯文哲 31.9%、賴清德 29.2%、侯友宜 23.6%、未決定 14.4%，游盈隆稱選情結構性變化、第四次政黨輪替可能性首次具體浮現），論藍白合裂解後民調翻轉（賴蕭配 29.50%、侯康配 27.20%、柯盈配 23.50%、未表態 19.80%）不過是原本流向民眾黨的藍營選民暫時回流；論剛創黨即得 150 萬張政黨票不是因為優秀，民眾黨該理解的是藍綠小黨衝不破 5% 門檻的原因與藍營選民為何流動；又論民眾黨色彩應往中間移、扮演真正的白色以吸收藍營裂解的群眾，並點出陳昭姿以「柯文哲口頭承諾當選後特赦陳水扁」為由入黨的表態失效（「本來應該表態認同柯P，卻變成柯P認同陳昭姿」）與候選人自己發布新聞沒有轉圜餘地的團隊問題（[[articles/taiwanjustice-net/2024/20240225155636_root_630502e2b22b65e8|為民眾黨把脈, 小蜜蜂電報 2023-11-28, TJJ Wayback 存檔 2024-02-25]]）。
+- **2024-02-04** — 台灣時報社論（文末署名 2024/2/3）〈游錫堃的風範〉：記立法院前院長游錫堃 2 月 1 日連任院長失利後公開宣布自 2 月 2 日起辭去立委一職、早在 1 月 19 日已向副總統兼黨主席賴清德報告，其不分區遺缺由長庚醫院教授王正旭遞補；他論民進黨「不講究倫理」——有人早已打游那一席不分區立委的主意，媒體在院長選舉前逼游承諾未當選院長就辭立委，那是媒體想「主導政局」而非監督，游拒絕被牽著鼻子走「風範甚佳」；並論游早想以院長職位換取民進黨執政穩定、主張由民眾黨接院長以催生綠白合作消除朝小野大，惟黨內主戰派堅持「民眾黨無條件支持民進黨」這不可能的條件；結論韓國瑜不是王金平、綠白交惡使朝小野大更形嚴重，「賴清德未必比當年的陳水扁好過」（[[articles/taiwanjustice-net/2024/20240225160050_root_a72038dbf60f7997|游錫堃的風範, 台灣時報社論 2024-02-04, TJJ Wayback 存檔 2024-02-25]]）。
+- **2024-02-05** — 台灣時報專論〈關鍵少數與畸零地〉：就韓國瑜、江啟臣當選立法院正副院長後綠營怪民眾黨「保送」韓國瑜反駁——民眾黨第一輪投自己候選人、第二輪為表態不偏綠不偏藍而不投，真正保送韓國瑜的是民進黨自己選輸、國民黨變成第一大黨；以蓋大樓時地主須以數倍市價買下毫不起眼的畸零地作比喻：只有八席的民眾黨就是那塊畸零地，兩大黨進行生死鬥時「拉到那八票就成為勝利者」，民眾黨壁上觀則民進黨注定吃敗仗；並稱游錫堃眼光異於一般綠營人士、有意讓出院長位子給民眾黨以達兩黨和解、消除朝小野大，並解說由小黨議員擔任議長乃民主國家常態（[[articles/taiwanjustice-net/2024/20240225155209_root_0035f4a4d1a5f909|關鍵少數與畸零地, 台灣時報專論 2024-02-05, TJJ Wayback 存檔 2024-02-25]]）。
+- **2024-03-25** — 台灣時報專論〈不懂憲政體制的國會〉：就台南市政府前新聞處長、民政局長陳宗彥被控接受不當性招待與行賄案、監委王美玉、林國明、蘇麗瓊 2 月 20 日提案彈劾而監察院彈劾審查會以 2 比 11 駁回（3 月 13 日上網公告），藍委怒轟「辦藍不辦綠」並把十一位不同意彈劾的監委列為永久黑名單、陳建仁答詢稱尊重監察院獨立決議之事，論台灣的憲政體制特殊：依《中華民國憲法》國會沒有監察權，才有行政立法分立國家少見的質詢制度補其缺失，而國會因質詢制度扮演「太上監察院」干預監察權；論監察權的執行是一種「政治審判」——與司法講求證據、無罪推定不同，但憑多數決與直覺、無證據可言，故司法單位可引用監察院的調查、監察案件卻不能引用司法單位的調查；反批藍委「還是需要多讀書」，並點出真正該跳腳的是「由總統任命的政務官代表人民執行政治審判」這個制度本身（[[articles/taiwanjustice-net/2024/20240412165746_root_7d62009de4dba8e0|不懂憲政體制的國會, 台灣時報專論 2024-03-25, TJJ Wayback 存檔 2024-04-12]]）。
+- **2024-03-29** — 台灣時報專論（文末署名 2024/3/28）附新聞〈政客的奸詐〉：記高雄市議會國民黨團在立法院顧問、市黨部主委黃昭順陪同下北上拜會立法院長韓國瑜，不分區立委柯志恩、陳菁徽、林倩綺陪同接待，爭取高捷四線齊發、國七加速、國十改善、增加高雄中央統籌分配款比例、南電北送、空污改善、大林蒲遷村、鳳鼻頭遺址、大寮林園醫學中心級醫院等議題（附 3/21 中央社記者林巧璉高雄電：韓國瑜稱「會盡最大力量且不分黨派」為高雄建設努力）；他反譏台灣的立法院與縣市議會「只能刪減預算，不能增加預算」，國民黨籍議員到立法院爭預算已屬荒謬，配合演出的國民黨籍立委竟也不知自己無權給預算，「掌控立法權的立委及市議員竟然不知道」這個普通常識，指政客為騙選票可以假裝無知與無能（[[articles/taiwanjustice-net/2024/20240412171353_root_4080348753e7622e|政客的奸詐, 台灣時報專論 2024-03-29, TJJ Wayback 存檔 2024-04-12]]）。
+
+- **2024-06-23** *(sourced)* — 美洲台灣日報「政治評論」刊出其署名專欄《夢幻立委（陳茂雄）》（存檔 3,356 B 全文；文末自註「（作者為中山大學退休教授、台灣安全促進會會長）」並署「0623」——與本頁 byline 相符，本人署名論述，非欄內被報導人物）。文中論旨（皆為其本人論述，reported）：以在野黨立委「活在夢幻中」破題，記國防部長顧立雄赴立法院外交及國防委員會報告「海空戰力提升計畫採購進度及執行成效」時，國民黨籍立委翁曉玲質詢是否承認秋海棠地圖為中華民國領土，顧立雄答依此說外蒙古也算中華民國疆域、中華民國現行有效統治範圍就是台澎金馬、現亦無反攻大陸政策；卓榮泰施政總質詢時民進黨立委蔡易餘拿出秋海棠地圖暗酸翁曉玲、反問「蒙古是一個國家嗎」，卓榮泰答外蒙獨立為國家、中華民國 1946 年即承認。他回溯蔣介石退台後仍天天唸「反攻大陸」而蔣經國時代絕口不談，因那是不能實現的夢幻，今仍有立委持有此夢幻令人意外。並考證秋海棠地圖係依 1936-05-05 公布之《五五憲草》畫成，其第四條將中華民國版圖分成三十個地區、包括蒙古卻沒有台灣，據此台灣不是中國的一部分，譏翁曉玲信奉《五五憲草》卻不知其內容、「何不加入台獨團體」；又論中共永遠認定台灣是其版圖、積極要消滅中華民國，台灣若認定中共是叛亂組織不是國家又是一場夢幻，大陸無論如何變動「就是輪不到中華民國去統治」（欄內被報導/被評論人物 翁曉玲／顧立雄／卓榮泰／蔡易餘／賴清德／蔣介石／蔣經國 不代筆添條） — [美洲台灣日報](https://taiwandaily.net/政治評論/24540/)（存檔 `knowledge/web-archives/taiwandaily-net-24540-24540.md`；去重：寫入前 `grep 24540 content/people/chen-maoxiong.md` = 0）
+- **2026-02-02** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「笨蛋與騙子」 (政治評論 lane). — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/120389/)
+- **2026-06-30** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「中國國民黨分裂趣聞」 (政治評論 lane; 文末自註「作者為中山大學退休教授、台灣安全促進會會長」— matches page identity, signed 0630): 論中國國民黨分裂為依循蔣家「反共親美」與「親共疑美」兩股勢力、民進黨因而坐收漁翁之利；欄內被報導人物 鄭麗文／韓國瑜 及孫中山／蔣介石／蔣經國／李登輝 不代筆添條。 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/144702/)（存檔 `knowledge/web-archives/taiwandaily-net-144702-144702.md`）
+- **2026-02-08** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「民眾黨的迷失」 (政治評論 lane). — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/121413/)
+- **2026-02-23** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「國民黨秩序重整難」 (政治評論 lane). — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/123726/)
+- **2026-08-03** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「由紅杉軍看725凱道活動」 (政治評論 lane). — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/150320/)
+- **2026-08-11** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「鄭麗文不能不親共」 (政治評論 lane). — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/151611/)
+- **2026-08-18** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「透過綠色玻璃看藍色物體必失真」 (政治評論 lane). — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/152825/)
+- **2026-08-24** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「藍不帶白 干沈伯洋底事？」 (政治評論 lane). — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/153808/)
+- **2026-08-30** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「爽砍預算 在討皮痛」 (政治評論 lane). — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/154852/)
+- **2026-09-06** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「由證嚴與德蕾莎看政壇的變化」 (政治評論 lane): compares 德蕾莎 with 證嚴 (Tzu Chi) as a political analogy — politicians play the people's '德蕾莎' before building a political base and become the distant '證嚴' after winning; reads 韓國瑜's 2018 win and the 2020 recall (939,090 votes) as proof 高雄 voters act as masters of the country, not party '奴才' — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/155862/)
+- **2026-09-10** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「李柏毅效應該負責的是選民」 (政治評論 lane): on 台北市議員 李柏毅's emergency-room outburst (2026-09-04, three hospitals, tearful seven-bow apology 09-08) versus the nurses' conflicting account — argues the 民代 profession breeds 霸氣: representatives hold budget-review power and speech immunity yet bear no responsibility — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/156486/)
+- **2026-09-17** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「民進黨的運氣真好！」 (政治評論 lane): argues Taiwan is worse off if the 國民黨 collapses before a replacement exists (one-party-dominant 民進黨 would corrupt); traces the '反共親美' 神主牌 from the 蔣家 through 李登輝 to the 民進黨 while the KMT's China faction flipped to 親共反美 against mainstream opinion — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/157600/)
+- **2026-09-22** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「再現「韓流」難」 (政治評論 lane): on 柯志恩's 09-19 鳳山 rally (organizers claimed >30,000, with 蔣萬安 and 李四川): 韓國瑜's 2018 Kaohsiung win was a DPP loss (年金改革, failed labour policy, city government betraying party spirit), not rally magic — with today's DPP free of those defects and the KMT freezing defence budgets, a '柯流' is a fantasy — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/158549/)
+- **2026-09-26** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「對大罷免的誤解」 (政治評論 lane): on the 信民兩岸研究協會 Taipei poll (蔣萬安 41.7% vs 沈伯洋 40.5%; get-out 57.8% vs 21.3%) and 郭正亮's 'saved 蔣萬安' reading — explains the 32:0 recall defeat as a turnout problem: recall drives without a '模擬候選人' (stand-in by-election candidate) to lift motivation always fail, as he argued pre-vote — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/159414/)
+- **2025-11-04** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「欠缺政治信仰的鄭麗文」 (政治評論 lane) — [美洲台灣日報](https://taiwandaily.net/即時新聞/106764/)
+- **2025-11-06** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「缺乏執法力量等同無法」 (政治評論 lane) — [美洲台灣日報](https://taiwandaily.net/即時新聞/107098/)
+- **2025-11-11** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「是誰分裂中國？」 (政治評論 lane) — [美洲台灣日報](https://taiwandaily.net/政治評論/107926/)
+- **2025-11-19** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「藍營擁核如意算盤未必如意」 (政治評論 lane) — [美洲台灣日報](https://taiwandaily.net/政治評論/109101/)
+- **2025-09-02** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「台獨與兩個中國」 (政治評論 lane) — [美洲台灣日報](https://taiwandaily.net/政治評論/96945/)
+- **2025-09-09** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「換跑道的迷失」 (政治評論 lane) — [美洲台灣日報](https://taiwandaily.net/政治評論/98084/)
+- **2025-09-16** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「民進黨能左右司法？」 (政治評論 lane) — [美洲台灣日報](https://taiwandaily.net/政治評論/99276/)
+- **2025-09-23** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「台灣是否『光復』？應該問台灣人！」 (政治評論 lane) — [美洲台灣日報](https://taiwandaily.net/政治評論/100300/)
+- **2025-09-27** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「台灣最醜的也是人」 (政治評論 lane) — [美洲台灣日報](https://taiwandaily.net/政治評論/100953/)
+- **2025-09-27** *(sourced)* — 全文存檔深記（非第二事件；去重錨點：本條為同一欄次 100953 既有 2025-09-27 刊出記錄的全文要旨，刊出事實不另計）：美洲台灣日報 (Taiwan Daily) 刊出 「台灣最醜的也是人」（政治評論 lane，存檔全文 3,618 B，文末自註「作者為中山大學退休教授、台灣安全促進會會長」— 與本頁 byline 一致，同人確認；署名 0926；存檔 `knowledge/web-archives/taiwandaily-net-100953-100953.md`）。文中論述：以「外國人認為台灣最美的是人」（熱心助人、遺失物易找回、治安安全、災時救災物資與急難救助踴躍）對照近日 2025-09 花蓮堰塞湖溢流災情（光復鄉重災區，報導時十四死十一失聯，多為中老年人）；他批政客利用災情對中央掀起鬥爭——花蓮籍政客稱災因中央未「爆破堰塞湖」乃外行話，引內政部前部長、水利工程專家李鴻源否定爆破（馬太鞍溪堰塞湖蓄水量約 9,100 萬噸，隨意開挖後果可怕，地處偏遠地質不穩、幾乎無法以工程手段引流）；並認為最該檢討的是地方政府——高雄市有強迫疏散紀錄而花蓮未為，民众疏散意願低；进而论政治團體及其外圍組織「只有抹黑與漂白」兩件事，稱正常國家選民不易騙、台灣人太善良使台灣成詐騙溫床與「詐騙集團輸出國」，結論「台灣最美真的是人，但條件是沒有牽涉到政治的人」。欄內被報導／被評論人物 李鴻源／花蓮籍政客（未具名） 不代筆添條；側欄 沈棟／老謝開講／筱君台灣PLUS 為導航語料 ≠ identity。 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/100953/)（hub 202509 s34 absorb）
+- **2024-11-30** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「廟公加入丐幫爭幫主」 (政治評論 lane): reacting to 馬英九's 11-24 address at the KMT 全代會暨130週年黨慶 attacking 賴清德's 「兩國互不隸屬」 as 「新兩國論」, he argues the 1936《五五憲草》listed 30 ROC territories without Taiwan (then Japanese), so the ROC in Taiwan is a 「乞丐」 squatting in the Taiwanese 「廟」 — hence 「廟公」 joining the 「丐幫」 to vie for 「幫主」 is the confusion; he distinguishes 民進黨 (entering and thereby defending the ROC system, against the CCP that seeks to eliminate it) from the 台獨 movement (expelling the foreign ROC regime), notes 毛澤東's first-generation CCP were ROC citizens so 「共獨」 is the real secession, and concludes there is only 「台獨」 and 「共獨」, never 「華獨」 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/50310/)
+- **2024-08-01** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「斷尾的門道」 (政治評論 lane; byline 中山大學退休教授、台灣安全促進會會長): on the two parties' double standard in disciplining tainted members — KMT 新竹縣長 楊文科 (indicted) and 立委 顏寬恒 (convicted) got no party discipline while 朱立倫 pleads consistent rules, whereas the DPP suspended 鄭文燦 on detention alone, before indictment; he explains it as situational, not moral: a ruling party at full strength can amputate a 「污點的尾巴」 to look perfect, while a 「遍體鱗傷」 KMT cannot survive cutting the 台中顏家 and 新竹楊文科 factions that warlord-hungry leadership contenders are courting; he recalls 馬英九's own strict 「排黑條款」 — the first member it would have hit was Ma himself over the 特別費 case, so the party rewrote the rule (「斷頭」 not 「斷尾」) (byline matches page identity) — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/30543/)
+- **2025-03-12** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「了解小草不難」 (政治評論 lane; signed 0312; byline 中山大學退休教授、台灣安全促進會會長 — matches page identity): on the 小草 supporters who queued with 「謝謝柯爸給我們這麼好的柯文哲」「小草都在、一直都在」 banners to see off 柯文哲's father 柯承發 (died 2025-02-17, aged 94; farewell 2025-03-10 at 新竹市立殯儀館景行廳, 柯文哲 attending under 監所戒護), he argues that in Taiwan nobody challenging the judiciary would be the strange thing — recalling 陳水扁's era when the green camp itself split into 挺扁 and 反扁 — and that judicial distrust stems from individual 偏差行為 among judicial personnel plus the 「天下烏鴉一般黑」 mindset; the deeper distortion is political: supporters treat the politicians they hire as 「主人」 who is always right, and 藍綠對立 makes political groups and their外围組織 「只有立場，沒有是非」; he faults mainstream media for abandoning the 第四權 role to become 政客打手, citing the 高虹安 case where 名嘴 analyzed her alleged crimes more confidently than the judiciary yet she still won the 2022 新竹市長 election; concludes 民眾黨 is a 一人黨 — if 柯文哲 is convicted the party cannot join the two major parties but will not collapse, because Taiwan's political environment is special — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/66933/)（存檔 `knowledge/web-archives/taiwandaily-net-66933-66933.md`）
+- **2025-03-10** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「藍營只剩下解散國會的牌」 (政治評論 lane; signed 0310; byline 中山大學退休教授、台灣安全促進會會長 — matches page identity): on the 大罷免潮 — KMT plans 「公投綁罷免」 with an anti-abolition-of-death-penalty referendum (valid under 《公投法》第2條第2項第2款 立法原則之創制, though it cannot overturn 憲判字第八號), DPP can counter with 「罷免綁公投」 法律複決; he argues the green camp's edge is 意識形態-driven active supporters vs the blue camp's 人脈-driven passive ones, so recall-success districts likely flip 藍天變綠地; he dismisses 倒閣 talk as 「吃錯了藥」 in public yet notes it is the only牌 worth thinking about for KMT (re-election after dissolving the legislature preserves 藍天), and it cannot materialize because KMT 不分區立委, un-targeted members and 民眾黨 will not surrender vested interests — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/66617/)
+- **2025-03-20** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「面對川普 要先保平安 才能添福壽」 (政治評論 lane; byline 中山大學退休教授、台灣安全促進會會長 — matches page identity): reacting to the 藍營 「台積電變美積電」「美國棄台論」 push and green-side 護盤, he argues 一廂情願 reading the 護國神山 as compelling US defence misunderstands a presidential system where power centres on the president, so 對美外交 must start from 美國總統性格; to understand 川普 he recalls 毛澤東's 1955–58 除四害滅麻雀運動 (全國捕殺麻雀兩億多隻 → 蟲害成災、糧食欠收 → 三年大饑荒成因之一) as the pattern of attacking one link of a stable chain — 台積電投資美國 is Taiwan stepping out of 川普's destructive sweep, not a device to bind the US to defend Taiwan (「若不能保平安，豈能奢談添福壽？」); he contrasts 台灣企業家許文龍, who (beyond his well-known care for 奇美員工) deliberately kept downstream suppliers' profits healthy — one supplier reportedly told him their margins were already sufficient — as the personality Taiwan would face with a chain-balancing counterparty, whereas with an 攻擊性很強的川普 the task is to avoid the attack, something 台灣已做到 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/68408/)（存檔 `knowledge/web-archives/taiwandaily-net-68408-68408.md`，reported；許文龍／川普／毛澤東 欄內被報導人物不代筆添條）
+- **2025-03-25** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「『一個中國』就是中華人民共和國」 (政治評論 lane; byline 陳茂雄, 文末自註「作者為中山大學退休教授、台灣安全促進會會長」— matches page identity, signed 0325): reacting to 前台北縣長周錫瑋 on 中天《ctitalk網路論壇》claiming 「中華民國從以前到現在就是一個中國」「台獨才是叛國」and that 賴清德 violated the constitution, he rebuts that 中華民國 was founded in 1912 inheriting 大清帝國 (Taiwan then Japanese territory), that Japan renounced 台澎 sovereignty in the 1952 舊金山和約 which neither 蘇聯 nor 中國 attended, and that the 1936《五五憲草》第4條 and the 1947《中華民國憲法》both omitted Taiwan from the listed 疆域; hence the KMT-controlled 中華民國 on Taiwan was a 流亡政權 that segregated 族群 by 籍貫 and ran 實質殖民統治, which generated the 台獨運動, and after 政治民主化 the 流亡中華民國 「等同在台灣復國」— i.e. a new state, so if it is called 中國 there are two Chinas (「一加一竟然等於一」); his conclusion: between the two sides it is either 「一台一中」 or 「兩個中國」, never 「一個中國」, and since the 國際社會 recognizes 中華人民共和國 as 中國 (permanent UN Security Council seat, occupying all of the former ROC territory except 金門馬祖), to deny it represents 中國 「不是正常人所該有的反應」; he attributes Taiwan's 錯亂 to democratization — the former 外來政權 recruited the former 「共匪」 against 本土勢力 while hiding behind 中華民國 as a 遮羞布, and challenges them to carry the 青天白日滿地紅旗 openly to the other side. — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/69216/)（存檔 `knowledge/web-archives/taiwandaily-net-69216-69216.md`）；欄內被報導人物 周錫瑋／賴清德 不代筆添條
+- **2025-02-06** — 於美洲台灣日報政治評論欄發表〈打人者喊救命〉（0206，文首提要：昔日國民黨非主流派鬥李登輝、今日藍白結盟鬥賴清德，親中媒體卻稱李登輝及民進黨忙著批鬥政敵，荒謬），論李登輝依憲政體制將台灣從獨裁帶往民主、終結殖民統治，藍白以立法手段癱瘓政府是赤裸裸的鬥爭、罷免潮是訴諸國家主人的審判不是鬥爭；文末署名「作者為中山大學退休教授、台灣安全促進會會長」與本頁身分相符；李登輝/賴清德 欄內被報導人物不代筆添條 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/61217/)（存檔 `knowledge/web-archives/taiwandaily-net-61217-61217.md`，reported）
+- **2025-02-12** — 於美洲台灣日報政治評論欄發表〈有牌照的流氓〉（0212，文首提要：橫行霸道者往往被稱為流氓，一般公職人員受到制衡，不太可能變成流氓，唯獨不分區立委不受約束，有人會橫行霸道），論二0一八年後民進黨兩度期中選舉慘敗仍續執政、中國國民黨不願切割中共；罷免潮下區域立委言行收斂、不分區立委依然傲慢；三層制衡（司法需違法證據、監察院不糾民意代表、選舉與罷免為國家主人之審判）唯獨約束不到不分區立委，故其「可以橫行霸道，扮演有牌照的流氓」；文末署名「作者為中山大學退休教授、台灣安全促進會會長」與本頁身分相符；陳水扁/馬英九/賴清德政府 欄內被報導人物與機構不代筆添條 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/62120/)（存檔 `knowledge/web-archives/taiwandaily-net-62120-62120.md`）
+- **2025-02-14** *(reported)* — 於美洲台灣日報政治評論欄發表〈制衡機制崩解導致憲政危機〉（存檔頁 published 2025-02-15T03:20:14+00:00，文末署名 0214 並自註「作者為中山大學退休教授，台灣安全促進會會長」— 與本頁身分相符），論行政與立法分立國家須有妥善相互制衡機制政局才會穩定：以美國為例，朝小野大時總統因否決權（參眾任一院三分之一以上支持即成立）而不跛腳、國會因兩院制與柔性政黨而不致被總統掌控；台灣依《中華民國憲法》原亦有防獨裁與防跛腳之設計（閣揆任命需立法院同意、總統公布法律需行政院長副署、總統覆議權），惟孫中山誤解中國歷史致監察、考試兩權獨立引起質詢制度與「波波醫師」等亂源；一九九0年代七次修憲粗製濫造，國民黨欲取消閣揆同意權、民進黨欲降低對抗覆議門檻（由出席委員三分之二降為全體立委二分之一），兩大黨各取所需令制衡機制崩解，遂有完全執政之獨裁總統與朝小野大之跛腳總統並存；又因二005年第七次修憲凍結國民大會、修憲改由公民複決而事實上不可能過關，活路只剩制憲，而兩大黨皆不可能推動，結論引台語「千算萬算不值得天一畫」；文中李登輝／郝柏村／陳水扁／施明德／張晉城／朱立倫／賴清德 及中國國民黨／民進黨等 欄內被報導人物與機構不代筆添條 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/62452/)（存檔 `knowledge/web-archives/taiwandaily-net-62452-62452.md`）
+- 2021-04-13 — 本人為該頁列表唯一條目之作者：「我的肥皂箱」區「總統是唯一有權除罪者 ◎ 陳茂雄」（April 13, 2021）；「陳茂雄專欄」亦列為該站「專欄」區常設區塊，本人並列名於該頁 frontmatter authors 清單（16 人），該頁為「總統是唯一有權除罪者」標籤頁（Home > Tags > 總統是唯一有權除罪者，標籤標題「Tag: 總統是唯一有權除罪者」），見於該頁之站內導覽（[[articles/taiwanjustice-net/2021/20210620125259_tag_總統是唯一有權除罪者_31db74fc883b25a5.md|TJJ, 2021-06-20 快照]]）。
+- 2022-01-13 — 本人為該頁列表唯一條目之作者：「我的肥皂箱」區「中國國民黨對不起顏家 ◎ 陳茂雄」（January 13, 2022）；「陳茂雄專欄」亦列為該站「專欄」區常設區塊，本人並列名於該頁 frontmatter authors 清單（16 人：鄭炳全、李堅、楊遠薰、唐培理、獨傲村夫、李筱峰、金恆煒、廖清山、何清漣、黃帝穎、楊子清、范姜提昂、林保華、陳昭南、陳茂雄、陳破空），該頁為「中國國民黨對不起顏家」標籤頁（Home > Tags > 中國國民黨對不起顏家，標籤標題「Tag: 中國國民黨對不起顏家」，列表唯一條目 我的肥皂箱「中國國民黨對不起顏家 ◎ 陳茂雄」（January 13, 2022），post_date 2022-01-13，Wayback 20220521162125），見於該頁之站內導覽（[[articles/taiwanjustice-net/2022/20220521162125_tag_中國國民黨對不起顏家_f4e6278d01b9838f.md|TJJ, 2022-05-21 快照]]）。
+- 2022-01-10 — 本人為該頁列表唯一條目之作者：「台灣頭條」區「教育部重申高一若不開本土語文課程，學校要說明理由」（January 10, 2022）；「陳茂雄專欄」亦列為該站「專欄」區常設區塊，本人並列名於該頁 frontmatter authors 清單（16 人：鄭炳全、李堅、楊遠薰、唐培理、獨傲村夫、李筱峰、金恆煒、廖清山、何清漣、黃帝穎、楊子清、范姜提昂、林保華、陳昭南、陳茂雄、陳破空），該頁為「高一開本土語文課程」標籤頁（Home > Tags > 高一開本土語文課程，標籤標題「Tag: 高一開本土語文課程」，列表唯一條目 台灣頭條「教育部重申高一若不開本土語文課程，學校要說明理由」（January 10, 2022），post_date 2022-01-10，Wayback 20220518160553），見於該頁之站內導覽（[[articles/taiwanjustice-net/2022/20220518160553_tag_高一開本土語文課程_de88059826d621c7.md|TJJ, 2022-05-18 快照]]）。
+- 2021-05-04 — 本人為該頁列表唯一條目之作者：「我的肥皂箱」區「媽祖大或總統大？ ◎ 陳茂雄」（May 4, 2021）；「陳茂雄專欄」亦列為該站「專欄」區常設區塊，本人並列名於該頁 frontmatter authors 清單（16 人），標籤標題「Tag: 媽祖大或總統大？」，該頁為「媽祖大或總統大？」標籤頁（Home > Tags > 媽祖大或總統大？，列表唯一條目 我的肥皂箱「媽祖大或總統大？ ◎ 陳茂雄」（May 4, 2021），post_date 2021-05-04，Wayback 20210621201450），見於該頁之站內導覽（[[articles/taiwanjustice-net/2021/20210621201450_tag_媽祖大或總統大_f79eb4de20244194.md|TJJ, 2021-06-21 快照]]）。
+- **2025-02-19** — 於美洲台灣日報政治評論欄發表〈罷免只是前菜 還有大餐〉（0219，文首提要：公投及罷免的投票率太低，很難過關，但若將罷免「選舉化」，可將投票率提升，再藉其聲勢辦公投就可順利過關），論期中選舉檢驗主流民意、執政黨失敗即下野，民進黨兩度期中選舉挫敗仍續執政，藍營親中派不願走反共路線而癱瘓政府瓦解民進黨氣勢；綠營為抗拒藍白霸凌祭出罷免潮「請國家主人仲裁」，罷免是國家主人對公職人員的政治審判、在野與執政之爭由國家主人審判有正當性；惟台灣人選民對公共事務興趣缺缺，公投罷免投票率難過門檻，選舉則有依人脈與意識形態出席的投票部隊，故若將罷免「選舉化」促使兩方主角對決即可通過門檻，但引進投票部隊會淡化公共事務的是非概念；引賴清德「以更民主的方式解決民主爭端」論最民主者為直接民權即公投，並指台灣公投制度缺陷（《公投法》第二條憲法或法律案件只能複決不能創制）；依《公投法》最近一次公投在今年八月第四星期的星期六舉行，若「選舉化」的罷免在七月到九月舉行可帶動人潮促使公投過門檻——結論：「選舉化」的罷免只是「反癱瘓政府」的前菜，公投決定公共事務較為客觀，才是大餐；文末署名「作者為中山大學退休教授、台灣安全促進會會長」與本頁身分相符；賴清德／中國國民黨／民進黨／親中派 欄內被報導人物與機構不代筆添條 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/63206/)（存檔 `knowledge/web-archives/taiwandaily-net-63206-63206.md`）
+- **2025-02-22** *(reported)* — 於美洲台灣日報政治評論欄發表〈白道與黑道〉（存檔 front-matter published 2025-02-22T19:40:34+00:00，文末署名 0222 並自註「作者為中山大學退休教授、台灣安全促進會會長」— 與本頁身分相符），文首提要：日本在一九九二年制定《暴力團對策法》，禁止政治人物與黑道公開往來，在台灣明的切割，暗的卻粘在一起難分隔。論述：以竹聯幫幫主「么么」黃少岑在台北榮總因病過世、治喪委員會名單出爐為引（榮譽主委立法院前院長王金平、主委民進黨立院黨團總召柯建銘，副主委尹衍樑、段宜康、洪秀柱、連勝文、黃承國，名單以中國國民黨政治人物數量居冠、泛藍地方議會正副議長多人列名），論黑道另有其社會規範、政界明暗兩面；自述例證：一位出身黑道的中央民代遭黑道勒索，不循白道規範通知警方求保護，而依黑道規矩與勒索者決戰；論白道暴力更嚴重、承諾需法律約束才兌現，台灣人排斥黑道係受白道汙名化；追述蔣政權委託青幫剷除異己、來台後吸收竹聯幫、派往美國暗殺華裔美國人江南（劉宜良）經美破案，以及江南案後掀起一清專案廣抓幫派人物「好似江南案件沒他們的事」；引杜月笙「幫派只是政治人物的夜壺」作結語框架（「黑道要霑白道的光，但從中國國民黨的發展史可看出，都是白道在利用黑道」為作者論述）；欄內被報導人物 黃少岑／王金平／柯建銘／尹衍樑／段宜康／洪秀柱／連勝文／黃承國／杜月笙／劉宜良 不代筆添條 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/63725/)（存檔 `knowledge/web-archives/taiwandaily-net-63725-63725.md`）
+- **2024-08-05** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「主人、奴才、狗」 (政治評論 lane; byline 陳茂雄, 文末自註「（作者為中山大學退休教授、台灣安全促進會會長）」— matches page identity, signed 0805): 以選民三種角色論民主水準——「國家主人」隨時監督並淘汰不佳公職、「奴才」懂是非但為分一杯羹宣稱其所支持者永遠是對的、「狗」只認得主人無能力分辨是非；選民多為「頭家」則「薪勞」戰戰兢兢，多為「奴才」「狗」則「薪勞」為所欲為。援引三國比較（*reported*：均由該專欄轉述、非第一手報導）：歐戰結束恰逢英國大選，世界級偉人邱吉爾竟被選民淘汰下野且欣然接受；韓國總統卸任後都要坐牢而從未出現粉絲為坐牢總統喊冤（朴槿惠只因閨密問題就要面對牢獄之災、全國無人喊冤、連故鄉民調趨近零），韓國人扮演國家主人但只做一半——接受犯錯者受罰卻不積極淘汰；菲律賓前總統馬可仕是舉世聞名貪污大戶仍擁有眾多粉絲並庇蔭妻小高票當選，人民仍扮演政客「奴才」。他論台灣長期受外來勢力統治、養成巴結強權習性，被巴結者漸成巴結者「主人」，顛覆民主架構；末段以高雄為例——2018 市長選舉高雄人淘汰民進黨籍躺著選的候選人、大輸給當時多數高雄人不認識的韓國瑜，選後有綠色友人大罵高雄人沒水準、他即回「高雄人沒水準者最沒水準」，過後高雄人以更高票數罷免韓國瑜——高雄人不是由「綠奴」變成「藍奴」，而是扮演真正的國家主人，此為頭家的表現、更是高雄人的驕傲（欄內被報導人物 邱吉爾／朴槿惠／馬可仕／韓國瑜 不代筆添條） — [美洲台灣日報](https://taiwandaily.net/政治評論/31044/)（存檔 `knowledge/web-archives/taiwandaily-net-31044-31044.md`；去重：寫入前 `grep 31044 content/people/chen-maoxiong.md` = 0）
+- **2025-02-19** — 於美洲台灣日報政治評論欄發表〈政界的人性〉（0219，文首提要：各行各業都會有亮麗及醜惡兩面的人性，政界往往滿口仁義道德，事實上多數人亮麗的人性已磨光，剩下醜惡的人性），論政壇亂象有人歸罪於台灣勢力與中國勢力對決（後者以中國為中心看世界、認定台灣是中國的一部分，前者以台灣為中心看世界、認定中國是台灣的鄰居），但更嚴重者為政界環境容易磨光亮麗人性只剩醜惡人性；指中國人將子女與財產移美即無回歸祖國規劃，近期爭執實與祖國認同無關——《財劃法》原屬中國國民黨自中國帶來之中央集權體制，爭的是政治資源而非祖國認同，「就像兄弟爭祖產時，爭輸的人竟然將祖產燒掉」，歷經長期鬥爭人性已扭曲；記藍營兩度期中選舉大獲全勝而總統大選主流民意仍不支持、遂利用朝小野大癱瘓政府以令民進黨無力打下屆總統大選，論爭政權是政壇常態、何須癱瘓政府，「沒有必要燒祖產」；以農夫除草、動物為食物戰鬥喻生存競爭，論政界無雙贏、必須打倒對手才是贏，且政界常利用對手殲滅內部競爭者——十年來中國國民黨一直敗選的原因之一即沒有實力爭到總統候選人者設計異常制度，讓敵對陣營殲滅內部的出線者；文末署名「作者為中山大學退休教授、台灣安全促進會會長」與本頁身分相符；中國國民黨／民進黨 欄內被報導人物與機構不代筆添條 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/63211/)（存檔 `knowledge/web-archives/taiwandaily-net-63211-63211.md`）
+
+## TJ Citations
+
+Top 10 articles from taiwanjustice.net mentioning chen-maoxiong:
+
+1. **2017-11-13** — [[articles/taiwanjustice-net/2024/20240221113229_root_17825a06f4cdbb6f||林保華專欄]]
+   - *November 13, 2017...*
+   - Score: 825
+2. **2022-07-10** — [[articles/taiwanjustice-net/2024/20240425084829_root_b5c9f6bb0360ed23||陳茂雄專欄]]
+   - *高雄的民主水準居冠 ◎ 陳茂雄...*
+   - Score: 825
+3. **2017-03-07** — [[articles/taiwanjustice-net/2024/20240715140333_root_de6de376c47e0ff9||余杰專欄]]
+   - *March 7, 2017...*
+   - Score: 825
+4. **2017-11-22** — [[articles/taiwanjustice-net/2024/20240221105045_root_4b96e7a2f9d76692||專欄]]
+   - *監察權的謬誤 ◎ 陳茂雄 2017-11-22...*
+   - Score: 820
+5. **2022-08-22** — [[articles/taiwanjustice-net/2024/20240619175142_root_e903f760568c0883||余杰專欄]]
+   - *跟習近平聊天是雞同鴨講-范疇《與習近平聊聊台灣和中國》◎ 余傑...*
+   - Score: 810
+6. **2017-01-30** — [[articles/taiwanjustice-net/2024/20240616123010_root_e9a4d38b79b420ee||余杰專欄]]
+   - *January 30, 2017...*
+   - Score: 805
+7. **2024-04-24** — [[articles/taiwanjustice-net/2024/20240425072010_root_e39ecec0fdeb18d2||台灣頭條]]
+   - *April 24, 2024...*
+   - Score: 800
+8. **2023-07-30** — [[articles/taiwanjustice-net/2024/20240425083432_root_99aaa4abcb78ff6d||台美人台加人]]
+   - *July 30, 2023...*
+   - Score: 800
+9. **2023-08-12** — [[articles/taiwanjustice-net/2024/20240719130745_root_c122ab4d6dc8d2cf||2012大選]]
+   - *August 12, 2023...*
+   - Score: 800
+10. **2018-01-04** — [[articles/taiwanjustice-net/2024/20240224183824_root_3a00a14a809ec2ca||大洛杉磯台灣會館]]
+   - *January 4, 2018...*
+   - Score: 795
+
+
+## Works
+
+**陳茂雄** — **432** title hits, **1154** body mentions in the taiwanjustice.net harvest. Listed: last 5 years, up to 8/year. Full index: [[sources/taiwanjustice-net|taiwanjustice.net]].
+
+### 2026 (20)
+
+1. [[articles/taiwanjustice-net/2026/20260211084634_共獨_分裂中國-干_台獨_底事_-_-陳茂雄_9a907f23024c1512|「共獨」分裂中國  干「台獨」底事？ ◎ 陳茂雄]]
+2. [[articles/taiwanjustice-net/2026/20260210185035_非科學_將是防疫的未爆彈-_-陳茂雄_7f6397d709800d56|「非科學」將是防疫的未爆彈 ◎ 陳茂雄]]
+3. [[articles/taiwanjustice-net/2026/20260210063229_並非有顯赫的過去才偉大-_-陳茂雄_4b7ebde9f2240331|並非有顯赫的過去才偉大 ◎ 陳茂雄]]
+4. [[articles/taiwanjustice-net/2026/20260210062940_統獨哪一派影響力較大_-_-陳茂雄_5ed4e87a653e2b2d|統獨哪一派影響力較大？ ◎ 陳茂雄]]
+5. [[articles/taiwanjustice-net/2026/20260210061739_中國國民黨變成小黨了_-_-陳茂雄_21b56e7f0bb119bd|中國國民黨變成小黨了？ ◎ 陳茂雄]]
+6. [[articles/taiwanjustice-net/2026/20260210060433_繼續迫害如何和解_-_-陳茂雄_66ff134c539cce69|繼續迫害如何和解？ ◎ 陳茂雄]]
+7. [[articles/taiwanjustice-net/2026/20260209114642_母語教學只是口號-_-陳茂雄_9e9580cb898b8d43|母語教學只是口號 ◎ 陳茂雄]]
+8. [[articles/taiwanjustice-net/2026/20260208194644_退休教授談中山大學-_-陳茂雄_edc140d46dd01b5f|退休教授談中山大學 ◎ 陳茂雄]]
+- … 12 more this year
+
+### 2025 (188)
+
+1. [[articles/taiwanjustice-net/2025/20251211221642_中生本來就不該來台-_-陳茂雄_58ac5f2bd6412bfc|中生本來就不該來台 ◎ 陳茂雄]]
+2. [[articles/taiwanjustice-net/2025/20251211213732_勿被賭盤誤導-_-陳茂雄_19a534768f6e2e2b|勿被賭盤誤導  ◎ 陳茂雄]]
+3. [[articles/taiwanjustice-net/2025/20251211212751_韓團隊在推動罷韓案過關_-_-陳茂雄_b2635920ea7a18b6|韓團隊在推動罷韓案過關？  ◎ 陳茂雄]]
+4. [[articles/taiwanjustice-net/2025/20251211062930_偽君子_與_真小人_的政界-_-陳茂雄_2f610b40bcecb527|「偽君子」與「真小人」的政界  ◎ 陳茂雄]]
+5. [[articles/taiwanjustice-net/2025/20251211062041_由六四看統派的心歷路程-_陳茂雄_d95fd2cbdf4ee96f|由六四看統派的心歷路程 ◎陳茂雄]]
+6. [[articles/taiwanjustice-net/2025/20251211061603_民眾黨是台灣民主水準的指標-_-陳茂雄_4e8a783bbf1c1535|民眾黨是台灣民主水準的指標  ◎ 陳茂雄]]
+7. [[articles/taiwanjustice-net/2025/20251210214220_蔡英文與韓國瑜命運的輪迴-_陳茂雄_19e768b4a746bd9d|蔡英文與韓國瑜命運的輪迴  ◎陳茂雄]]
+8. [[articles/taiwanjustice-net/2025/20251210213125_中國國民黨輸在內鬥-_-陳茂雄_c89d8d6968402f3a|中國國民黨輸在內鬥  ◎ 陳茂雄]]
+- … 180 more this year
+
+### 2024 (85)
+
+1. [[articles/taiwanjustice-net/2024/20240723032638_root_837a1b66537821ac|反改革就不要眼紅  ◎陳茂雄 11-18-2012]]
+2. [[articles/taiwanjustice-net/2024/20240723032506_root_25afacc0a4ba7053|再現主流與非主流 ◎ 陳茂雄]]
+3. [[articles/taiwanjustice-net/2024/20240721093705_root_6b476625c41f66b9|三幕僚長制 ◎ 陳茂雄 2018-04-12]]
+4. [[articles/taiwanjustice-net/2024/20240719221755_root_501d53f681a3accd|貪腐的病毒在台灣到處蔓延 ◎陳茂雄 /民報月刊 2017-12-10]]
+5. [[articles/taiwanjustice-net/2024/20240719114711_root_c3eef969f6eb56db|馬英九怎麼會是「阿斗」？  ◎陳茂雄 11-25-2012]]
+6. [[articles/taiwanjustice-net/2024/20240715083107_root_b4f7e3e6701537a4|沒有法治哪來民主？ ◎ 陳茂雄]]
+7. [[articles/taiwanjustice-net/2024/20240715081241_root_ba718c76478143d6|解讀馬英九的「和」與「合」◎陳茂雄/台灣時報社論 01-01-2015]]
+8. [[articles/taiwanjustice-net/2024/20240715075410_root_f167e73ee0cc0c43|廢監院？門都沒有 ◎陳茂雄]]
+- … 77 more this year
+
+### 2023 (35)
+
+1. [[articles/taiwanjustice-net/2023/20231208140528_root_a05400a928579c76|馬英九不知球員不能兼裁判？◎ 陳茂雄]]
+2. [[articles/taiwanjustice-net/2023/20231208134910_root_b28d53e31b1fa8aa|在討皮痛？ ◎ 陳茂雄]]
+3. [[articles/taiwanjustice-net/2023/20231208131541_root_eef27b1dfb8865c5|高明的設計師？ ◎陳茂雄]]
+4. [[articles/taiwanjustice-net/2023/20231208124142_root_ea72761c01023282|耕耘與收穫 ◎ 陳茂雄]]
+5. [[articles/taiwanjustice-net/2023/20231208122436_root_2a1dc951c35c7865|陳茂雄專欄]]
+6. [[articles/taiwanjustice-net/2023/20230923052610_2023_06_05_不沾鍋與沾不了鍋-_-陳茂雄_f89e46c9c635241a|不沾鍋與沾不了鍋 ◎ 陳茂雄]]
+7. [[articles/taiwanjustice-net/2023/20230923051949_2014_02_15_台灣脫離不了中國的人治模式-_陳茂雄-02-15-2014_d7b72c9e704c53b4|台灣脫離不了中國的人治模式 ◎陳茂雄 02-15-2014]]
+8. [[articles/taiwanjustice-net/2023/20230923050959_2023_09_15_自恨枝無葉-_陳茂雄_0e696f31926f5ec9|自恨枝無葉  ◎陳茂雄]]
+- … 27 more this year
+
+### 2022 (39)
+
+1. [[articles/taiwanjustice-net/2022/20221205051657_2022_11_23_綠藍白的征戰-_-陳茂雄_46ba3bff810c8d2d|綠藍白的征戰 ◎ 陳茂雄]]
+2. [[articles/taiwanjustice-net/2022/20221204223249_2021_01_25_統獨哪一派影響力較大_-_-陳茂雄_055db6c44080ac24|統獨哪一派影響力較大？ ◎ 陳茂雄]]
+3. [[articles/taiwanjustice-net/2022/20221202064329_2017_07_23_監察院並非太上皇-_-陳茂雄-2017-07-23_e271270ac8cd7bad|監察院並非太上皇 ◎ 陳茂雄 2017-07-23]]
+4. [[articles/taiwanjustice-net/2022/20221202063137_2013_12_02_尸位素餐-_陳茂雄12-02-2013_2da230836228a445|尸位素餐 ◎陳茂雄12-02-2013]]
+5. [[articles/taiwanjustice-net/2022/20221202062551_2022_06_29_藍營總統路難行無關侯友宜-_-陳茂雄_4e15b22188cabac4|藍營總統路難行無關侯友宜 ◎ 陳茂雄]]
+6. [[articles/taiwanjustice-net/2022/20221202054004_2020_07_26_醜惡的政教勾結-_-陳茂雄_66e0af39a791e444|醜惡的政教勾結  ◎ 陳茂雄]]
+7. [[articles/taiwanjustice-net/2022/20221202053511_2021_08_29_監察與司法搭配失靈-_-陳茂雄_8d77aa3956e9bbdd|監察與司法搭配失靈 ◎ 陳茂雄]]
+8. [[articles/taiwanjustice-net/2022/20221202051529_2021_01_25_防疫工作變成執政成敗的關鍵-_-陳茂雄_d545972162fa8703|防疫工作變成執政成敗的關鍵  ◎ 陳茂雄]]
+- … 31 more this year
+
+Earlier years: **65** additional title hits (not listed).
+
+### Body mentions (1154)
+
+See the source hub. Top mentions:
+
+1. [[articles/taiwanjustice-net/2024/20240520034013_root_6f2b431c9cb0cca9|台美人台加人]]
+2. [[articles/taiwanjustice-net/2024/20240421185358_root_09926246802abc6a|台美人台加人]]
+3. [[articles/taiwanjustice-net/2024/20240715153222_root_131a1c8ea05f85ea|台美人台加人]]
+4. [[articles/taiwanjustice-net/2024/20240425074022_root_63717cb2b99ce3c3|台美人台加人]]
+5. [[articles/taiwanjustice-net/2024/20240520024652_root_4536db9927402596|台美人台加人]]
+
+
+## Timeline
+
+- **2025-01-04** 🗳️ 法院真的是中國國民黨開的？  ◎ 陳茂雄
+- **2025-01-05** 📰 精裝車變拼裝車再轉為玩具車 ◎ 陳茂雄
+- **2025-01-08** 📰 有效證據認定的差異  ◎陳茂雄
+- **2025-01-12** 📰 新聞觀測站 20250113 內政部長劉世芳專訪
+- **2025-01-13** 📰 逼自已國家解除武裝？ ◎ 陳茂雄
+- **2025-01-13** 🗳️ 2024美國大選
+- **2025-01-15** 📰 前進新台灣 20250116 藍白在做給中國看?
+- **2025-01-20** 📰 台灣演義 20250119 台灣警政史
+- **2025-01-20** 📰 關鍵時刻
+- **2025-01-30** 📰 新聞挖挖哇 20250130 媳婦過年多餘的？
+- **2025-02-03** 🗳️ 打人者喊救命 ◎ 陳茂雄
+- **2025-02-05** 📰 兩岸關係
+- **2025-02-05** 📰 新聞挖挖哇 20250205 安心退休攻略！
+- **2025-02-05** 🗳️ 浮世繪
+- **2025-02-05** 📰 年代晚報 20250205 大S骨灰私人飛機運回台
+- **2025-02-05** 📰 公視晚間新聞 20250205
+- **2025-02-06** 📰 有話好說
+- **2025-02-07** 📰 新聞挖挖哇 20250207 酒鬼的醉後懺悔錄？
+- **2025-02-08** 📰 公視晚間新聞 20250208
+- **2025-02-09** 🏥 台灣演義 20250209 台灣流行病史
+- **2025-02-09** 📰 台灣頭條
+- **2025-02-09** 📰 中國史地
+- **2025-02-09** 📰 公視晚間新聞 20250209
+- **2025-02-09** 📰 專欄
+- **2025-02-09** 📰 台灣新聞
+- **2025-02-09** 📰 台灣演義
+- **2025-02-09** 📰 台灣亮起來
+- **2025-02-09** 📰 台海南海東海風雲
+- **2025-02-09** 📰 何清漣專欄
+- **2025-02-09** 📰 雅琴看世界
+- **2025-02-10** 📰 兩岸關係
+- **2025-02-10** 📰 我們的島 20250210 未來的那一天
+- **2025-02-11** 🏥 台海南海東海風雲
+- **2025-02-11** 📰 立院榮譽顧問
+- **2025-02-11** 📰 年代晚報 20250211 選罷法覆議案未通過！
+- **2025-02-12** 📰 人算不如天算  ◎陳茂雄
+- **2025-02-13** 🗳️ 台灣頭條
+- **2025-02-13** 📰 陳破空專欄
+- **2025-02-13** 📰 中國新聞
+- **2025-02-13** 📰 陳茂雄專欄
+- **2025-02-14** 🕯️ 台美人台加人
+- **2025-02-15** 📰 兩岸關係
+- **2025-02-16** 📰 台灣演義 20250216 世界貿易戰史
+- **2025-02-18** 📰 台灣啟示錄
+- **2025-02-18** 📰 兆豐銀洗錢案
+- **2025-02-18** 📰 園藝
+- **2025-02-19** 📰 中國新聞
+- **2025-02-19** 📰 中國史地
+- **2025-02-24** 📰 社論
+- **2025-02-28** 🗳️ 偽君子與真小人  ◎陳茂雄
+- **2025-03-02** 📰 台灣演義
+- **2025-03-02** 📰 前進新台灣 20250303 扯！花蓮嗆聲民眾遭架出場
+- **2025-03-03** 📰 年代晚報 20250303 葉霸嗆傅「通匪」被架出畫面曝
+- **2025-03-03** 📰 新聞挖挖哇 20250303 手足之間的糾葛！
+- **2025-03-04** 📰 94要客訴 20250305 國民黨喊沒錢罷不掉綠委…
+- **2025-03-05** 📰 「聯中制蘇」與「聯俄制中」◎ 陳茂雄
+- **2025-03-05** 📰 新聞挖挖哇 20250305 回歸自然環保葬驚悚疑慮？
+- **2025-03-06** 📰 年代向錢看 20250306 中共對台灣加大統戰力道!
+- **2025-03-07** 🕯️ 大洛杉磯台灣會館
+- **2025-03-07** 🗳️ 趙少康何須生氣！ ◎ 陳茂雄
+- **2025-03-07** 📰 新聞挖挖哇 20250307 親情究竟是救贖還是牢籠？
+- **2025-03-09** 📰 台灣演義 20250309 台灣百年婚嫁史
+- **2025-03-10** 🗳️ 藍營只剩下解散國會的牌 ◎陳茂雄
+- **2025-03-11** 📰 前進新台灣 20250312 傅崐萁被卓榮泰狂電糗了
+- **2025-03-11** 📰 新聞面對面 20250311 大罷免潮藍營危機四伏？
+- **2025-03-12** 📰 新聞挖挖哇 20250312 遠距婚姻終破局？
+- **2025-03-12** 📰 民視晚間新聞 20250312
+- **2025-03-12** 📰 公視晚間新聞 20250312
+- **2025-03-13** 📰 公視晚間新聞 20250313
+- **2025-03-13** 📰 94要客訴 20250314 調查局搜查傅崐萁官邸！
+- **2025-03-14** 📰 公視晚間新聞 20250314
+- **2025-03-15** 📰 公視晚間新聞 20250315
+- **2025-03-15** 📰 民視晚間新聞 20250315
+- **2025-03-16** 📰 民視晚間新聞 20250316
+- **2025-03-16** 🏥 台灣演義
+- **2025-03-16** 📰 台灣演義 20250316 台灣稻米史
+- **2025-03-16** 📰 台灣亮起來
+- **2025-03-16** 📰 台灣啟示錄
+- **2025-03-16** 📰 公視晚間新聞 20250316
+- **2025-03-17** 📰 English Pages
+- **2025-03-17** 📰 公視晚間新聞 20250317
+- **2025-03-17** 🏥 保健
+- **2025-03-17** 📰 新聞挖挖哇 20250317 註定失敗的婚姻徵兆？
+- **2025-03-17** 📰 民視晚間新聞 20250317
+- **2025-03-18** 📰 公視晚間新聞 20250318
+- **2025-03-18** 📰 新聞挖挖哇 20250318 金秀賢崩壞風暴！
+- **2025-03-18** 📰 民視晚間新聞 20250318
+- **2025-03-18** 📰 中國史地
+- **2025-03-19** 📰 94要客訴
+- **2025-03-19** 📰 新聞挖挖哇 20250319 幹譙罵人的藝術！
+- **2025-03-19** 📰 國際要聞
+- **2025-03-19** 📰 民視晚間新聞 20250319
+- **2025-03-19** 📰 94要客訴 20250320 徐巧芯租光場地防罷團？
+- **2025-03-19** 📰 台灣人文藝術
+- **2025-03-19** 📰 公視晚間新聞 20250319
+- **2025-03-19** 📰 獨傲村夫專欄
+- **2025-03-20** 📰 新台派上線
+- **2025-03-20** 📰 公視晚間新聞 20250320
+- **2025-03-20** 🗳️ 打燕哪須「清德舞劍」？ ◎ 陳茂雄
+- **2025-03-20** 📰 林保華專欄
+- **2025-03-20** 📰 民視晚間新聞 20250320
+- **2025-03-21** 📰 台灣演義
+- **2025-03-21** 📰 面對川普 要先保平安 才能添福壽  ◎ 陳茂雄
+- **2025-03-21** 📰 中國新聞
+- **2025-03-21** 📰 公視晚間新聞 20250321
+- **2025-03-21** 📰 新聞挖挖哇 20250321 高CP值出國多好玩？
+- **2025-03-21** 📰 何清漣專欄
+- **2025-03-21** 📰 陳破空專欄
+- **2025-03-21** 🗳️ 國際要聞
+- **2025-03-22** 📰 兩岸關係
+- **2025-03-23** 📰 我們的島
+- **2025-03-23** 📰 台美人向唐培理唐秋詩致敬
+- **2025-03-23** 📰 正晶限時批
+- **2025-03-23** 📰 兩岸關係
+- **2025-03-23** 📰 專欄
+- **2025-03-23** 📰 范姜提昂專欄
+- **2025-03-24** 📰 前進新台灣
+- **2025-03-24** 📰 English Pages
+- **2025-03-24** 📰 公視晚間新聞 20250324
+- **2025-03-24** 📰 新台派上線 20250324 藍白搞宣講越講越落漆？
+- **2025-03-24** 📰 民視晚間新聞 20250324
+- **2025-03-26** 📰 賴清德政府
+- **2025-03-26** 📰 有話好說
+- **2025-03-28** 📰 焦點影音
+- **2025-03-28** 📰 新聞挖挖哇 20250328 宮廟斂財騙很大
+- **2025-03-28** 📰 陳昭南觀點
+- **2025-03-28** 📰 導讀台灣
+- **2025-03-28** 📰 民視晚間新聞 20250328
+- **2025-03-29** 🗳️ 「愛台灣」當然不是民進黨的專利 ◎陳茂雄
+- **2025-04-01** 🗳️ 綠營會內鬥 但不可能分裂  ◎陳茂雄
+- **2025-04-07** 📰 94要客訴 20250408 白宮證實台灣聯繫美方…
+- **2025-04-08** 📰 年代晚報 20250408 朝野迫協商關稅專報!
+- **2025-04-08** 📰 大洛杉磯台灣會館2025年3月會訊
+- **2025-04-10** 🗳️ 台股
+- **2025-04-12** 📰 台灣人文藝術
+- **2025-04-13** 📰 台灣啟示錄
+- **2025-04-13** 📰 台灣演義
+- **2025-04-14** 📰 我們的島
+- **2025-04-14** 📰 陳茂雄專欄
+- **2025-04-14** 📰 義論
+- **2025-04-14** 📰 我的肥皂箱
+- **2025-04-14** 🗳️ 大罷免是台灣不可或缺的制衡機制 ◎ 陳茂雄
+- **2025-04-15** 📰 公視晚間新聞 20250415
+- **2025-04-15** 📰 新聞挖挖哇 20250415 冥冥之中擋不住的牽引？
+- **2025-04-15** 📰 民視晚間新聞 20250415
+- **2025-04-17** 📰 94要客訴
+- **2025-04-17** 📰 有話好說
+- **2025-04-17** 📰 94要客訴 20250418
+- **2025-04-17** 📰 台灣鄉情與文化
+- **2025-04-17** 📰 精闢專論
+- **2025-04-17** 📰 江百顯專欄
+- **2025-04-17** 📰 中國新聞
+- **2025-04-17** 🗳️ 年代向錢看
+- **2025-04-17** 📰 大洛杉磯台灣會館
+- **2025-04-18** 📰 中國新聞
+- **2025-04-18** 📰 年代向錢看
+- **2025-04-18** 📰 公視晚間新聞 20250418
+- **2025-04-18** 📰 台美人台加人
+- **2025-04-18** 🕯️ 民視晚間新聞 20250418
+- **2025-04-18** 📰 看板人物
+- **2025-04-19** 📰 中天調查報告
+- **2025-04-19** 📰 English Pages
+- **2025-04-19** 📰 陳破空專欄
+- **2025-04-19** 📰 世界人文
+- **2025-04-19** 📰 陳水扁專欄
+- **2025-04-19** 🏥 國際要聞
+- **2025-04-20** 📰 每日新聞
+- **2025-04-20** 📰 大洛杉磯台灣會館
+- **2025-04-20** 🏥 台灣演義
+- **2025-04-20** 🏥 話時代人物
+- **2025-04-20** 📰 世界史地
+- **2025-04-20** 📰 新台派上線
+- **2025-04-20** 📰 有話好說
+- **2025-04-20** 📰 狠狠抖內幕
+- **2025-04-20** 📰 台灣史地
+- **2025-04-20** 📰 江百顯專欄
+- **2025-04-20** 📰 世界人文
+- **2025-04-22** 📰 公視晚間新聞 20250422
+- **2025-04-22** 📰 民視晚間新聞 20250422
+- **2025-04-23** 📰 園藝
+- **2025-04-23** 🗳️ 死道友免死貧道 ◎ 陳茂雄
+- **2025-04-24** 📰 新台派上線
+- **2025-04-25** 📰 突發琪想 20250425 大逆轉！死亡連署案黃呂遭羈押！
+- **2025-04-25** 📰 新台派上線
+- **2025-04-25** 📰 T觀點
+- **2025-04-25** 📰 我的肥皂箱
+- **2025-04-25** 📰 有話好說
+- **2025-04-25** 📰 94要客訴
+- **2025-04-25** 📰 公視晚間新聞 20250425
+- **2025-04-25** 📰 台灣史地
+- **2025-04-25** 🏥 新聞挖挖哇 20250425 逆轉糖尿病解方！
+- **2025-04-25** 📰 民視晚間新聞 20250425
+- **2025-04-25** 📰 新聞面對面 20250425 黃呂錦茹收押禁見！
+- **2025-04-26** 📰 民視晚間新聞 20250426
+- **2025-04-26** 📰 公視晚間新聞 20250426
+- **2025-04-27** 📰 94要客訴
+- **2025-04-27** 📰 台灣啟示錄
+- **2025-04-27** 📰 狠狠抖內幕
+- **2025-04-27** 📰 社論
+- **2025-04-28** 🕯️ 國際要聞
+- **2025-04-28** 📰 每日新聞
+- **2025-04-28** 📰 世界史地
+- **2025-04-28** 📰 台灣鄉情與文化
+- **2025-04-28** 🗳️ 中國新聞
+- **2025-04-28** 🏥 台灣史地
+- **2025-04-28** 📰 義論
+- **2025-04-28** 📰 世界人文
+- **2025-04-28** 📰 陳破空專欄
+- **2025-04-29** 📰 關鍵時刻 20250429 川普不斷施壓…中國反習近平正遍地烽火？
+- **2025-04-30** 📰 English Pages
+- **2025-04-30** 📰 新聞挖挖哇 20250430 新時代好老婆有多難當？
+- **2025-04-30** 📰 中天調查報告
+- **2025-04-30** 📰 金恆煒專欄
+- **2025-04-30** 📰 動畫
+- **2025-04-30** 🕯️ 台美人台加人
+- **2025-05-02** 🗳️ 圍魏救趙？ ◎ 陳茂雄
+- **2025-05-06** 📰 民視晚間新聞 20250506
+- **2025-05-08** 📰 前進新台灣 20250509 台南幽靈連署37人認罪
+- **2025-05-09** 📰 新聞面對面 20250509 各路檢調大搜索、大羈押…
+- **2025-05-09** 📰 公視晚間新聞 20250509
+- **2025-05-09** 📰 民視晚間新聞 20250509
+- **2025-05-10** 📰 公視晚間新聞 20250510
+- **2025-05-11** 📰 民視異言堂 20250512 久坐的代價
+- **2025-05-11** 📰 全國第一勇 20250512 罷徐欣瑩二階未達門檻！
+- **2025-05-11** 📰 狠狠抖內幕 20250512 新北超嗨 二階全壘打！
+- **2025-05-12** 📰 社論
+- **2025-05-13** 📰 公視晚間新聞 20250513
+- **2025-05-13** 📰 民視晚間新聞 20250513
+- **2025-05-14** 📰 年代晚報
+- **2025-05-14** 📰 立院榮譽顧問
+- **2025-05-15** 📰 台灣最前線 20250515 胡永融翻供？對話紀錄打臉？
+- **2025-05-16** 📰 54陪審團
+- **2025-05-16** 🗳️ 朱立倫方寸已亂 ◎ 陳茂雄
+- **2025-05-16** 📰 54陪審團 20250517 世壯運狂出包！螺絲要多鬆？
+- **2025-05-17** 📰 公視晚間新聞 20250517
+- **2025-05-17** 📰 民視晚間新聞 20250517
+- **2025-05-18** 📰 台灣啟示錄
+- **2025-05-18** 📰 公視晚間新聞 20250518
+- **2025-05-18** 📰 決策者 20250518 臺灣碳權交易所總經理 田建中
+- **2025-05-23** 🏥 國際要聞
+- **2025-05-24** 📰 雅琴看世界
+- **2025-05-24** 📰 公視晚間新聞 20250524
+- **2025-05-24** 📰 驚爆新聞線 20250524 核三公投牽動大罷免日期?
+- **2025-05-25** 📰 民視晚間新聞 20250525
+- **2025-05-25** 🕯️ 公視晚間新聞 20250525
+- **2025-05-30** 🏛️ 兩代朝小野大的差異   ◎陳茂雄
+- **2025-05-31** 📰 南加州台灣客家會6/21舉辦2025年會聚餐
+- **2025-06-06** 📰 新台派上線 20250606 國民黨六月將面臨起訴潮?
+- **2025-06-09** 📰 新台派上線 20250609 罷雙吳戲演完了狼狽收場!
+- **2025-06-09** 📰 全國第一勇 20250610 中評社點名徐巧芯仇恨值高！
+- **2025-06-10** 📰 新聞面對面 20250610 罷綠翻頁？朱立倫沒道歉！
+- **2025-06-10** 📰 新聞挖挖哇 20250610 子女不孝該怪父母嗎？
+- **2025-06-10** 📰 公視晚間新聞 20250610
+- **2025-06-10** 📰 民視晚間新聞 20250610
+- **2025-06-11** 🗳️ 連署戰的人算與天算 ◎陳茂雄
+- **2025-06-11** 🕯️ 台美人台加人
+- **2025-06-15** 📰 民視晚間新聞 20250615
+- **2025-06-15** 📰 決策者 20250615 DoGa杜甲創辦人李威辰專訪
+- **2025-06-15** 📰 新聞觀測站 20250614 體育署長鄭世忠專訪
+- **2025-06-16** 🕯️ 台海南海東海風雲
+- **2025-06-16** 📰 新聞挖挖哇 20250616 買房第一桶金如何存？
+- **2025-06-17** 📰 台灣名人堂
+- **2025-06-17** 📰 李堅專欄
+- **2025-06-17** 📰 有話鏡來講 20250618 罷雙吳假連署續押！黃呂改口+崩潰更慘？
+- **2025-06-18** 📰 新聞挖挖哇 20250618 黃昏之戀行不行？
+- **2025-06-21** 📰 公視晚間新聞 20250621
+- **2025-06-21** 📰 民視晚間新聞 20250621
+- **2025-06-22** 📰 公視晚間新聞 20250622
+- **2025-06-22** 📰 新聞觀測站 20250621 經濟部長郭智輝專訪
+- **2025-06-22** 📰 決策者 20250622 緯豆集團創辦人劉峻緯專訪
+- **2025-06-22** 📰 話時代人物 20250622 翁立友用歌聲打動人心
+- **2025-06-23** 🗳️ 年代向錢看 20250623 川普：已摧毀伊朗核設施！
+- **2025-06-23** 📰 民視晚間新聞 20250623
+- **2025-06-23** 📰 我們的島 20250623 未來的那一天
+- **2025-07-04** 📰 公視晚間新聞 20250704
+- **2025-07-05** 📰 公視晚間新聞 20250705
+- **2025-07-05** 📰 民視晚間新聞 20250705
+- **2025-07-07** 📰 全國第一勇 20250708 丹娜絲重創嘉義、台南！
+- **2025-07-07** 📰 關鍵時刻 20250707 丹娜絲捲土重來橫掃嘉南平原！
+- **2025-07-07** 📰 新聞挖挖哇 20250707「荒唐婚禮」醜態百出扯到爆？
+- **2025-07-07** 📰 突發琪想 20250707 黃國昌「白色呂布」被諷變色龍？
+- **2025-07-08** 📰 公視晚間新聞 20250708
+- **2025-07-09** 🗳️ 大罷免是對異常現狀的抗爭 ◎ 陳茂雄
+- **2025-07-09** 📰 公視晚間新聞 20250709
+- **2025-07-10** 📰 台灣名人堂
+- **2025-07-12** 📰 民視晚間新聞 20250712
+- **2025-07-12** 📰 有話鏡來講
+- **2025-07-12** 📰 公視晚間新聞 20250712
+- **2025-07-13** 📰 台灣啟示錄
+- **2025-07-13** 📰 挑戰新聞
+- **2025-07-14** 🗳️ 台灣頭條
+- **2025-07-14** 📰 全國第一勇 20250715 葉元之”刻薄語錄”曝光！
+- **2025-07-14** 📰 尖鋒對話 20250714 高雄鋰電池廠火警15傷!
+- **2025-07-14** 📰 公視晚間新聞 20250714
+- **2025-07-14** 📰 突發琪想 20250714 罷團貪食蛇嗅熱度！
+- **2025-07-14** 📰 我們的島 20250714 核三公投前的Ｎ個提問
+- **2025-07-14** 📰 新聞挖挖哇 20250714 吳念真傾吐家族禁忌！
+- **2025-07-16** 📰 民視晚間新聞 20250716
+- **2025-07-17** 📰 狠狠抖內幕 20250718 726看藍委大遷徙？
+- **2025-07-19** 📰 民視晚間新聞 20250719
+- **2025-07-19** 📰 公視晚間新聞 20250719
+- **2025-07-24** 🏛️ 大罷免的背景、人算與天算 ◎ 陳茂雄
+- **2025-07-31** 📰 關鍵時刻 20250731 台灣關稅20%高於日韓！
+- **2025-07-31** 📰 公視晚間新聞 20250731
+- **2025-07-31** 📰 民視晚間新聞 20250731
+- **2025-07-31** 📰 年代晚報 20250731 王世堅喊撤罷免挨轟!
+- **2025-08-05** 📰 中午鏡來講
+- **2025-08-06** 🗳️ 下班鏡來講
+- **2025-08-06** 🏥 尖鋒對話
+- **2025-08-07** 🕯️ 台灣頭條
+- **2025-08-08** 🕯️ 台灣頭條
+- **2025-08-08** 📰 民視晚間新聞 20250808
+- **2025-08-09** 📰 公視晚間新聞 20250809
+- **2025-08-09** 🗳️ 台灣亮起來 20250809 鏢旗魚 台東成功僅存
+- **2025-08-09** 📰 民視晚間新聞 20250809
+- **2025-08-10** 📰 公視晚間新聞 20250810
+- **2025-08-10** 📰 民視晚間新聞 20250810
+- **2025-08-11** 📰 公視晚間新聞 20250811
+- **2025-08-14** 📰 歷史必讀
+- **2025-08-14** 🗳️ 公視晚間新聞 20250814
+- **2025-08-31** 📰 決策者
+- **2025-09-28** 📰 決策者
+- **2025-10-08** 📰 決策者
+
+- **2024-01-01** 📰 我們的島 20240101 海洋·恆春
+- **2024-01-02** 🎤 台美人台加人
+- **2024-01-03** 📰 admin
+- **2024-01-06** 🏛️ 柯P的智慧 ◎ 陳茂雄
+- **2024-01-06** 🕯️ 歷史必讀
+- **2024-01-08** 📰 有話好說
+- **2024-01-15** 📰 台灣最前線 20240115 英賴接棒成功！交替面臨2大挑戰！
+- **2024-01-21** 📰 決策者 20240121 維科生技董事長 呂世博專訪
+- **2024-01-27** 📰 中國史地
+- **2024-02-01** 📰 台灣的軍隊出了甚麼問題?  ◎ 陳茂雄
+- **2024-02-02** 🗳️ 誤解聯合內閣 ◎ 陳茂雄
+- **2024-02-04** 🗳️ 游錫堃的風範  ◎ 陳茂雄
+- **2024-02-04** 📰 公視晚間新聞 20240204
+- **2024-02-04** 📰 林保華專欄
+- **2024-02-05** 🗳️ 關鍵少數與畸零地 ◎ 陳茂雄
+- **2024-02-06** 📰 台灣演義 20240203 台灣娛樂史
+- **2024-02-08** 🏛️ 因果輪迴 ◎ 陳茂雄
+- **2024-02-12** 📰 台灣演義 20240210 年
+- **2024-02-12** 📰 公視晚間新聞 20240212
+- **2024-02-14** 📰 台股
+- **2024-02-14** 📰 楊子清 Cliff Yang 音樂教室
+- **2024-02-15** 📰 浮世繪
+- **2024-02-17** 🗳️ 台灣亮起來
+- **2024-02-18** 📰 民視異言堂
+- **2024-02-19** 📰 國會議員該充分了解憲法 ◎ 陳茂雄
+- **2024-02-19** 🗳️ 2024大選
+- **2024-02-19** 🗳️ 台灣演義
+- **2024-02-20** 📰 兩岸關係
+- **2024-02-20** 🏥 陳破空專欄
+- **2024-02-20** 📰 前進新台灣
+- **2024-02-20** 🎤 台灣頭條
+- **2024-02-21** 📰 民視晚間新聞 20240221
+- **2024-02-21** 🗳️ 公視晚間新聞 20240221
+- **2024-02-21** 📰 大洛杉磯台灣會館
+- **2024-02-21** 📰 突發琪想
+- **2024-02-21** 📰 我們的島
+- **2024-02-21** 📰 台灣新聞
+- **2024-02-21** 📰 驚爆新聞線
+- **2024-02-21** 📰 新聞深呼吸
+- **2024-02-21** 📰 民視異言堂
+- **2024-02-21** 📰 范姜提昂專欄
+- **2024-02-21** 📰 年代向錢看
+- **2024-02-21** 🏛️ 台灣人文藝術
+- **2024-02-21** 📰 南海東海風雲
+- **2024-02-21** 🗳️ 報應？  ◎ 陳茂雄
+- **2024-02-21** 📰 陳破空專欄
+- **2024-02-21** 📰 何清漣專欄
+- **2024-02-21** 📰 科技新聞
+- **2024-02-21** 📰 李四端的雲端世界
+- **2024-02-21** 📰 政黨輪替與轉型正義
+- **2024-02-21** 📰 T觀點
+- **2024-02-21** 📰 國際要聞
+- **2024-02-21** 📰 陳茂雄專欄
+- **2024-02-21** 📰 中國新聞
+- **2024-02-21** 📰 English Pages
+- **2024-02-21** 📰 楊子清 Cliff Yang 音樂教室
+- **2024-02-22** 🏥 民視晚間新聞 20240222
+- **2024-02-23** 📰 是台灣人或是中國人？  ◎ 陳茂雄
+- **2024-02-23** 🗳️ 新聞面對面
+- **2024-02-23** 📰 中國新聞
+- **2024-02-23** 📰 陳茂雄專欄
+- **2024-02-23** 📰 我的肥皂箱
+- **2024-02-23** 📰 年代向錢看
+- **2024-02-23** 📰 突發琪想
+- **2024-02-23** 🏥 專欄
+- **2024-02-23** 📰 南海東海風雲
+- **2024-02-23** 📰 關鍵時刻
+- **2024-02-23** 🎤 科技新聞
+- **2024-02-23** 📰 股市亮點
+- **2024-02-23** 🏥 精闢專論
+- **2024-02-23** 📰 新聞挖挖哇
+- **2024-02-24** 📰 專欄
+- **2024-02-24** 📰 2024美國大選
+- **2024-02-24** 📰 保健
+- **2024-02-24** 📰 有話好說
+- **2024-02-24** 📰 大洛杉磯台灣會館
+- **2024-02-24** 📰 南海東海風雲
+- **2024-02-24** 📰 陳茂雄專欄
+- **2024-02-24** 📰 台美人台加人
+- **2024-02-24** 📰 關鍵時刻
+- **2024-02-24** 📰 前進新台灣
+- **2024-02-24** 📰 鄭 知道了
+- **2024-02-24** 📰 獨傲村夫專欄
+- **2024-02-24** 📰 我們的島
+- **2024-02-24** 📰 歷史必讀
+- **2024-02-24** 📰 影音
+- **2024-02-24** 📰 廖清山專欄
+- **2024-02-24** 📰 新聞挖挖哇
+- **2024-02-24** 📰 股市亮點
+- **2024-02-24** 📰 蓬萊島雜誌
+- **2024-02-24** 📰 園藝
+- **2024-02-25** 📰 台灣演義 20240224 二二八事件
+- **2024-02-25** 📰 公視晚間新聞 20240225
+- **2024-02-25** 📰 股市亮點
+- **2024-02-25** 📰 國際要聞
+- **2024-02-25** 📰 每日新聞
+- **2024-02-25** 📰 聚焦2.0
+- **2024-02-25** 📰 新台灣加油
+- **2024-02-25** 📰 中國史地
+- **2024-02-25** 📰 林保華專欄
+- **2024-02-25** 📰 T觀點
+- **2024-02-25** 📰 台灣啟示錄
+- **2024-02-25** 📰 驚爆新聞線
+- **2024-02-25** 📰 台股
+- **2024-02-25** 🕯️ 大洛杉磯台灣會館
+- **2024-02-25** 📰 蓬萊島雜誌
+- **2024-02-25** 📰 看板人物
+- **2024-02-25** 📰 關鍵時刻
+- **2024-02-26** 📰 我們的島
+- **2024-02-27** 🎤 政黨輪替與轉型正義
+- **2024-02-28** 📰 新聞挖挖哇 20240228 熟人其實比較傷！
+- **2024-02-28** 📰 公視晚間新聞 20240228
+- **2024-02-28** 📰 影音
+- **2024-02-28** 🕯️ 台灣新聞
+- **2024-02-28** 📰 民視異言堂
+- **2024-02-28** 📰 范姜提昂專欄
+- **2024-02-28** 📰 台灣啟示錄
+- **2024-02-28** 📰 浮世繪
+- **2024-02-28** 📰 中天調查報告
+- **2024-02-28** 📰 黃帝穎專欄
+- **2024-02-28** 📰 突發琪想
+- **2024-02-28** 📰 我的肥皂箱
+- **2024-02-28** 📰 台灣亮起來
+- **2024-02-28** 📰 台美人台加人
+- **2024-02-28** 📰 新聞挖挖哇
+- **2024-02-28** 📰 廖清山專欄
+- **2024-02-28** 📰 中國新聞
+- **2024-02-28** 📰 楊子清 Cliff Yang 音樂教室
+- **2024-02-28** 📰 新聞面對面
+- **2024-02-29** 📰 狠狠抖內幕
+- **2024-02-29** 🗳️ 有話好說
+- **2024-02-29** 📰 台灣頭條
+- **2024-02-29** 🏥 國際要聞
+- **2024-02-29** 📰 新台灣加油
+- **2024-02-29** 📰 台灣向前行
+- **2024-02-29** 🗳️ 鄭 知道了
+- **2024-03-01** 📰 獨傲村夫專欄
+- **2024-03-01** 📰 年代向錢看
+- **2024-03-01** 📰 拜登賀錦麗時代
+- **2024-03-01** 📰 前進新台灣
+- **2024-03-01** 📰 台灣亮起來
+- **2024-03-01** 📰 台灣演義
+- **2024-03-01** 📰 新台灣加油
+- **2024-03-01** 📰 新聞面對面
+- **2024-03-01** 📰 陳破空專欄
+- **2024-03-01** 📰 台灣人文藝術
+- **2024-03-01** 📰 中國史地
+- **2024-03-01** 🗳️ 年代晚報
+- **2024-03-01** 📰 李四端的雲端世界
+- **2024-03-01** 📰 歷史必讀
+- **2024-03-01** 📰 園藝
+- **2024-03-01** 📰 我的肥皂箱
+- **2024-03-01** 📰 政黨輪替與轉型正義
+- **2024-03-02** 📰 台灣新世紀文教基金會
+- **2024-03-02** 📰 台美人向唐培理唐秋詩致敬
+- **2024-03-02** 📰 聚焦2.0
+- **2024-03-02** 📰 鄭炳全專欄
+- **2024-03-02** 📰 楊遠薰專欄
+- **2024-03-04** 📰 新聞挖挖哇 20240304 菁英教育暗藏的驚人隱憂！
+- **2024-03-04** 📰 台灣演義 20240302 台灣地位未定論
+- **2024-03-05** 🏥 鄭知道了 20240305 基市府流行最低的得標
+- **2024-03-07** 🏥 有話好說
+- **2024-03-07** 📰 鄭知道了 20240307 翁曉玲挑戰憲法成自走砲
+- **2024-03-08** 🏥 鄭知道了 20240308 國民黨新科立委質詢狂鬧笑話
+- **2024-03-10** 📰 台灣演義 20240310 礦工之子的眼淚
+- **2024-03-10** 🏥 公視晚間新聞 20240310
+- **2024-03-11** 📰 年代向錢看 20240311 國民黨強推親中法案！
+- **2024-03-11** 📰 台灣演義 20240309 大台北史
+- **2024-03-11** 🤝 台灣新聞
+- **2024-03-14** 📰 鄭知道了 20240314 王育敏閃辭兒福董事!
+- **2024-03-15** 📰 大選陪審團
+- **2024-03-15** 🗳️ 鄭 知道了
+- **2024-03-17** 📰 導讀台灣 20240317 太陽花學運十周年!
+- **2024-03-18** 📰 台灣演義 20240316 大高雄四百年
+- **2024-03-20** 📰 王金平救了台灣？ ◎陳茂雄
+- **2024-03-22** 🏥 民視晚間新聞 20240322
+- **2024-03-23** 📰 「奴才頭」哲學  ◎ 陳茂雄
+- **2024-03-25** 🏛️ 不懂憲政體制的國會 ◎ 陳茂雄
+- **2024-03-27** 🏥 沒有能力立法的台灣國會 ◎ 陳茂雄
+- **2024-03-28** 🎤 大洛杉磯台灣會館
+- **2024-03-29** 🏛️ 政客的奸詐  ◎陳茂雄 (+新聞)
+- **2024-03-30** 🏥 台灣人文藝術
+- **2024-04-02** 📰 關鍵時刻 20240402 寶林代班廚師手部驗出米酵菌酸
+- **2024-04-03** 🗳️ 導正謬誤的質詢須要反質詢 ◎ 陳茂雄
+- **2024-04-04** 📰 新聞挖挖哇 20240404 清明掃墓要看時辰？
+- **2024-04-05** 📰 新聞挖挖哇 20240405 父母不偏心都是假的？
+- **2024-04-08** 📰 台灣演義 20240406 台灣獨立建國聯盟
+- **2024-04-08** 📰 新台派上線
+- **2024-04-10** 📰 惡奴欺主？ ◎ 陳茂雄
+- **2024-04-10** 📰 林保華專欄
+- **2024-04-11** 🏛️ 兩岸人性分屬兩世界  ◎陳茂雄
+- **2024-04-11** 📰 新聞挖挖哇 20240411 虐童背後的關鍵是什麼？
+- **2024-04-11** 🏥 新台派上線
+- **2024-04-12** 📰 新聞面對面 20240412 馬「信習論」助攻二會？
+- **2024-04-12** 📰 全國第一勇
+- **2024-04-12** 📰 台灣最前線
+- **2024-04-13** 📰 公視晚間新聞 20240413
+- **2024-04-15** 🗳️ 台灣演義 20240414 晶片戰爭
+- **2024-04-15** 📰 新台派上線 20240415 徐巧芯切割大姑涉詐
+- **2024-04-15** 📰 兩大黨派系的差異 ◎ 陳茂雄
+- **2024-04-15** 📰 台灣演義
+- **2024-04-17** 📰 台灣演義 20240413 台灣半導體
+- **2024-04-17** 🎤 台美人台加人
+- **2024-04-18** 📰 新台派上線
+- **2024-04-19** 📰 股市亮點
+- **2024-04-19** 📰 台股
+- **2024-04-20** 🏛️ 兩岸關係
+- **2024-04-21** 📰 公視晚間新聞 20240421
+- **2024-04-21** 📰 台灣演義 20240421 雙金歌王 沈文程
+- **2024-04-21** 📰 新聞觀測站
+- **2024-04-21** 📰 南海東海風雲
+- **2024-04-22** 🤝 朱立倫加油！◎ 陳茂雄
+- **2024-04-22** 🏥 我們的島
+- **2024-04-22** 📰 我的肥皂箱
+- **2024-04-23** 📰 民視晚間新聞 20240423
+- **2024-04-23** 🗳️ 浮世繪
+- **2024-04-24** 📰 南海東海風雲
+- **2024-04-24** 🎤 國際要聞
+- **2024-04-24** 🎤 台灣頭條
+- **2024-04-24** 🏥 新台灣加油
+- **2024-04-24** 📰 有話好說
+- **2024-04-25** 📰 民視晚間新聞 20240425
+- **2024-04-25** 📰 公視晚間新聞 20240425
+- **2024-04-25** 📰 關鍵時刻 20240425 柯「北士科案」向上延燒！
+- **2024-04-29** 📰 大洛杉磯台灣會館2024年4月會訊
+- **2024-04-30** 📰 有話好說 20240430 美物價再起 Fed鴿轉鷹？
+- **2024-05-01** 📰 半路認老爸  ◎ 陳茂雄
+- **2024-05-01** 📰 有話好說 20240501 休假與工時制度如何更完善？
+- **2024-05-01** 🏥 新台派上線
+- **2024-05-02** 📰 有話好說 20240502 搶救血汗醫護 保障平均點值？
+- **2024-05-02** 🏥 公視晚間新聞 20240502
+- **2024-05-02** 📰 評析一人政黨的成敗  ◎ 陳茂雄
+- **2024-05-04** 📰 台灣亮起來
+- **2024-05-05** 🏥 前進新台灣 20240506 黃國昌瘋狂打綠盼藍禮讓新北?
+- **2024-05-05** 📰 導讀台灣
+- **2024-05-06** 📰 台灣演義 20240505 中華職棒史
+- **2024-05-06** 🏥 狠狠抖內幕 20240507 柯文哲找好三大案替死鬼？
+- **2024-05-06** 📰 有話好說 20240506 以哈談判再破局！永久停火是關鍵？
+- **2024-05-07** 📰 大赦與特赦 ◎ 陳茂雄
+- **2024-05-07** 🏥 公視晚間新聞 20240507
+- **2024-05-07** 📰 新台灣加油 20240507 徐巧芯與京華城案距離近
+- **2024-05-09** 🏥 民視晚間新聞 20240509
+- **2024-05-09** 📰 前進新台灣 20240510 徐巧芯洩密案延燒
+- **2024-05-10** 🎤 大洛杉磯台灣會館
+- **2024-05-13** 📰 前進新台灣 20240514 戰鬥藍挺芯揚言蛋洗外交部
+- **2024-05-13** 📰 狠狠抖內幕 20240514 柯文哲北士科京華城撒謊？
+- **2024-05-13** 📰 新台派上線 20240513 無良公關遭徐巧芯提告跟騷！
+- **2024-05-13** 🏥 公視晚間新聞 20240513
+- **2024-05-13** 📰 有話好說 20240513 蔡政府提打詐新四法！
+- **2024-05-14** 🏥 前進新台灣 20240515 中共懲戒台灣5名嘴
+- **2024-05-15** 📰 公視晚間新聞 20240515
+- **2024-05-15** 📰 有話好說 20240515 抗中成美國總統選戰共識！
+- **2024-05-15** 📰 民視晚間新聞 20240515
+- **2024-05-17** 📰 助力變阻力 ◎ 陳茂雄
+- **2024-05-19** 📰 新聞觀測站 20240518 歷史特赦案例大盤點
+- **2024-05-19** 📰 兩岸關係
+- **2024-05-19** 📰 南海東海風雲
+- **2024-05-20** 📰 南海東海風雲
+- **2024-05-21** 📰 前進新台灣 20240522 3萬人包圍立法院抗議!
+- **2024-05-21** 📰 狠狠抖內幕 20240522 三萬人上街怒吼藍白黑箱！
+- **2024-05-21** 📰 台灣趴趴走
+- **2024-05-22** 🏥 民視晚間新聞 20240522
+- **2024-05-22** 🏛️ 只有共獨 那來台獨？ ◎ 陳茂雄
+- **2024-05-22** 📰 李堅專欄
+- **2024-05-23** 📰 陳破空專欄
+- **2024-05-26** 🏛️ 驚爆新聞線 20240526 立委無限上綱恐成立法恐龍?
+- **2024-05-26** 📰 公視晚間新聞 20240526
+- **2024-05-26** 📰 江百顯專欄
+- **2024-05-26** 📰 賴清德政府
+- **2024-05-26** 🎤 台美人台加人
+- **2024-05-27** 📰 台灣演義 20240525 雪山隧道
+- **2024-05-27** 📰 兩岸關係
+- **2024-05-28** 📰 有話好說 20240528 三讀後 覆議？釋憲？暫時處分？
+- **2024-05-28** 📰 公視晚間新聞 20240528
+- **2024-05-28** 🏥 國會擴權法三讀過關 立院外聚集破2萬人齊喊:台灣加油
+- **2024-05-28** 📰 台灣趴趴走 20240529 臺灣電力株式會社
+- **2024-05-29** 🏥 狠狠抖內幕 20240530 藍白法案過一天就打起來？
+- **2024-05-29** 📰 94要客訴 20240530 傅黃體制想修憲廢考監？
+- **2024-05-29** 🕯️ 台美人台加人
+- **2024-05-30** 📰 有話好說 20240530 晴空匯惡火！如何補強高樓安全！
+- **2024-05-31** 🕯️ 大洛杉磯台灣會館2024年5月份會訊
+- **2024-06-02** 🏥 台灣亮起來 20240601 父罹癌母病倒 兒撐起招牌
+- **2024-06-02** 🏥 台灣亮起來
+- **2024-06-05** 📰 94要客訴
+- **2024-06-06** 📰 陳破空專欄
+- **2024-06-07** 📰 54陪審團 20240608 罷免浪潮藍綠對決!
+- **2024-06-08** 🗳️ 台灣向前行 20240608 輝達投資台！創AI大未來！
+- **2024-06-10** 📰 關鍵時刻 20240610 中國男從福州偷渡直衝淡水河口
+- **2024-06-11** 📰 公視晚間新聞 20240611
+- **2024-06-11** 📰 台灣演義 20240608 故宮世紀遷移史
+- **2024-06-12** 📰 公視晚間新聞 20240612
+- **2024-06-12** 🏥 狠狠抖內幕 20240613 柯文哲失去青鳥變笨鳥了？
+- **2024-06-12** 📰 前進新台灣 20240613 徐巧芯派人跟監王義川
+- **2024-06-12** 📰 廢監院？門都沒有 ◎陳茂雄
+- **2024-06-12** 📰 政經最前線
+- **2024-06-13** 📰 立院榮譽顧問 20240613 財劃法吵什麼？
+- **2024-06-13** 📰 民視晚間新聞 20240613
+- **2024-06-14** 📰 新聞挖挖哇 20240614 器官捐贈最缺什麼器官？
+- **2024-06-14** 📰 公視晚間新聞 20240614
+- **2024-06-14** 📰 民視晚間新聞 20240614
+- **2024-06-14** 📰 Catch大錢潮
+- **2024-06-15** 📰 公視晚間新聞 20240615
+- **2024-06-15** 🎤 台美人台加人
+- **2024-06-16** 📰 決策者 20240616 啦啦隊女神跨界出擊！
+- **2024-06-16** 📰 公視晚間新聞 20240616
+- **2024-06-16** 📰 從台灣看全球
+- **2024-06-16** 📰 Most distracted guest at the party 馬英九
+- **2024-06-16** 📰 雅琴看世界
+- **2024-06-16** 📰 余杰專欄
+- **2024-06-16** 📰 陳破空專欄
+- **2024-06-16** 📰 馬惠帝
+- **2024-06-18** 📰 民視晚間新聞 20240618
+- **2024-06-18** 📰 公視晚間新聞 20240618
+- **2024-06-18** 🗳️ 台灣頭條
+- **2024-06-19** 🏥 公視晚間新聞 20240619
+- **2024-06-19** 📰 民視晚間新聞 20240619
+- **2024-06-19** 📰 余杰專欄
+- **2024-06-20** 📰 有話好說 20240620 俄朝簽約戰時相互軍援！
+- **2024-06-20** 📰 民視晚間新聞 20240620
+- **2024-06-21** 📰 陳破空專欄
+- **2024-06-22** 🏥 公視晚間新聞 20240622
+- **2024-06-22** 📰 政經最前線 20240622 美中冷戰加劇 反習已成共識
+- **2024-06-24** 📰 民視異言堂
+- **2024-06-25** 📰 民視晚間新聞 20240625
+- **2024-06-25** 📰 台灣演義 20240622 關係台灣的戰爭
+- **2024-06-25** 📰 我們的島 20240624 竹東徵收又來臨
+- **2024-06-27** 🗳️ 沒有法治哪來民主？ ◎ 陳茂雄
+- **2024-06-27** 📰 94要客訴
+- **2024-06-30** 📰 台灣演義 20240630 金曲歌王 阿吉仔
+- **2024-07-02** 📰 民視晚間新聞 20240702
+- **2024-07-06** 📰 江百顯專欄
+- **2024-07-07** 📰 台灣演義 20240707 世紀諧星 豬哥亮
+- **2024-07-08** 🏥 台灣演義 20240706 後山宣教醫療史
+- **2024-07-09** 📰 民視晚間新聞 20240709
+- **2024-07-10** 📰 年代晚報 20240710 鄭文燦桃園招待所曝光
+- **2024-07-10** 📰 新聞挖挖哇 20240710 恐怖房客奧房東！
+- **2024-07-10** 📰 公視晚間新聞 20240710
+- **2024-07-10** 📰 民視晚間新聞 20240710
+- **2024-07-14** 🗳️ 台灣頭條
+- **2024-07-14** 📰 雅琴看世界
+- **2024-07-15** 🎤 台美人台加人
+- **2024-07-16** 📰 雅琴看世界
+- **2024-07-17** 🏥 錯亂！ ◎ 陳茂雄
+- **2024-07-17** 🏥 陳水扁病情
+- **2024-07-17** 📰 鄭文龍律師
+- **2024-07-17** 📰 2005年拍攝的釣魚島照片
+- **2024-07-17** 📰 kmt flag
+- **2024-07-17** 📰 十八大
+- **2024-07-17** 📰 台聯黨團
+- **2024-07-17** 📰 楊斯棓 Ted Taipei 2013
+- **2024-07-17** 🕯️ 天安門母親
+- **2024-07-17** 📰 歐巴馬訪緬甸
+- **2024-07-17** 📰 民進黨前主席蔡英文
+- **2024-07-17** 📰 胡佳和陳光誠
+- **2024-07-17** 🎤 ScreenHunter_14 Sep. 25 14.40
+- **2024-07-17** 📰 雷政富
+- **2024-07-17** 📰 中共18大-1107
+- **2024-07-18** 📰 新聞挖挖哇 20240718 家人間難以相處的習慣！
+- **2024-07-18** 🗳️ 台灣頭條
+- **2024-07-19** 🏥 監委黃煌雄訪陳水扁
+- **2024-07-19** 📰 雅琴看世界
+- **2024-07-22** 🏥 台灣演義
+- **2024-08-01** 📰 新聞挖挖哇 20240801 三代同堂真的幸福嗎？
+- **2024-08-20** 🗳️ 公視晚間新聞 20240820
+- **2024-08-27** 📰 94要客訴 20240828 京華城案檢調大搜索
+- **2024-09-08** 📰 台灣演義
+- **2024-09-21** 📰 黃帝穎專欄
+- **2024-09-29** 🕯️ 大洛杉磯台灣會館2024年9月會訊
+- **2024-10-10** 📰 新聞挖挖哇 20241010 熟男減肥不是夢！
+- **2024-10-12** 🏛️ 夢幻國家！ ◎ 陳茂雄
+- **2024-10-13** 📰 民視異言堂 20241013 國旅熱點大洗牌
+- **2024-10-22** 📰 廖清山專欄
+- **2024-10-22** 📰 江百顯專欄
+- **2024-11-09** 🏥 博士未必博學  ◎陳茂雄
+- **2024-11-10** 🏥 民視異言堂
+- **2024-11-24** 📰 狠狠抖內幕
+- **2024-11-29** 📰 陳破空專欄
+- **2024-11-30** 🏛️ 廟公加入丐幫爭幫主 ◎ 陳茂雄
+- **2024-11-30** 🕯️ 歷史必讀
+- **2024-12-01** 📰 台灣演義 20241202 台灣棒球百年史
+- **2024-12-07** 🗳️ 馬英九捅了中國國民黨一刀  ◎ 陳茂雄
+- **2024-12-18** 📰 94要客訴
+- **2024-12-19** 📰 國共兩黨殘害一貫道 ◎陳茂雄
+- **2024-12-25** 🎤 去台灣化或去中國化 ◎ 陳茂雄
+- **2024-12-27** 🏛️ 綠營只剩下複決公投牌 ◎ 陳茂雄
+- **2024-12-28** 📰 週末漫談音樂
+
+- **2023-01-01** 📰 中共要的是消滅中華民國 ◎ 陳茂雄
+- **2023-01-02** 📰 台灣演義
+- **2023-01-06** 🏥 國際要聞
+- **2023-01-19** 🏛️ 在台澎金馬的中華民國 ◎ 陳茂雄
+
+**2012–2023 專欄 record（TJJ 存檔，slice 10150200-1 吸收於 2026-10-15）：**
+
+- **2012-05-10** — 於台灣時報發表社論（文末署名 2012/5/11）論「白道之惡」：由新竹縣一起酒駕車禍寫起——肇事者當著出警警察的面對警察揮拳，縣議員出面護航，派出所所長礙於議員壓力竟要警察向議員道歉、拜託議員別提出質詢，警察還得寫「要符合上級要求」而非描述事實的報告，警察向友訴苦「士可殺不可辱，寧可不幹警察」在臉書傳開震驚社會；內政部長李鴻源10日表示將請警政署調查、強調警方依法執勤內政部全力支持，他批這又是「官話」，主張若要抑制歪風就應比照「吃案」的方式處理、不只處分主管還要調離原單位以免被揭弊警員遭挾怨報復；他論黑道擾亂安寧還有治安單位可制裁，民代為惡時卻無人能制（連警察都怕），因為台灣的監察單位管不了民代，「有權無責」的不肖民代形同有牌照的流氓、是社會亂源，而背後的元凶是不關心公共事務的選民（[[articles/taiwanjustice-net/2023/20230607053914_2012_05_10_白道之惡-_陳茂雄_45d7d92160f5eed7|白道之惡, TJJ 存檔 2023-06-07]]）。
+- **2016-08-16** — 於民報發表時事專欄（文末署名 2016/8/16）記一趟北加州之行：應邀在美洲台灣日報十二週年慶專題演講，藉機拜訪台獨前輩[[people/dr-suy-ming-sam-chou|周烒明]]醫師夫婦——本為探病，結果變成「參訪偉人的生活起居」；八六高齡（1930年出生）的周醫師罹患巴金森症已二十多年、講話走路都不便，卻把病房變成工作室，精通音樂與美術的他仍熱衷繪畫與大提琴（因健康問題由小提琴改拉大提琴），筆者到場時看見未完成的許世楷、許世模兄弟畫像，護士說「沒見過這麼忙碌的病人」；他獲贈周醫師七月才出版、以極大心力將德文原著譯成英文的專書 The Foundation of The Public Heath System in Formosa（內容是台灣特有的疾病與公共衛生），並記下周醫師在美國即將取得博士學位時因護照寄往芝加哥領事館加簽無回音、被中國國民黨特務列入黑名單、拒寫悔過書而過了一段無國籍生活並面臨遣返命運，以及學界評估「若不是健康出問題耽誤研究時程，應該有機會成為諾貝爾獎得主」、其指導的學生多為外國人尤其是日本人（周醫師在日本出生、十七歲才回台灣，日語是其母語）；他並特別記述周夫人吳秀惠醫師（[[people/dr-grace-wu|Dr. Grace Wu（吳秀惠醫師）]])由職業婦女轉為家庭主婦以成全丈夫專才與志業，與十年前台獨聯盟波特蘭中委會晚會上夫婦倆反過來為晚輩準備早餐的细节，稱他們「有成就又那麼謙虛」、堪稱低調的偉人（[[articles/taiwanjustice-net/2023/20230530144551_2016_08_16_低調的偉人-周烒明醫師-_-陳茂雄-08-16-2016_4b09efb6233259d4|低調的偉人—周烒明醫師, TJJ 存檔 2023-05-30]]）。
+- **2020-09-02** — 於台灣時報發表專論（文末署名 2020/9/3）評蔡英文公開宣布美豬美牛解禁：他論政府此舉一則回報美國近來釋出善意（台美中三角關係已明顯偏向台灣，「台灣當然需要這位朋友」），一則幫川普忙——選舉期間解禁可為川普加分並讓台美貿易更上一層樓；他批中國國民黨「只有政治立場、沒有是非」：該黨執政時期積極想進口美豬美牛、如今全面反對，因為美國可以影響台灣全國性選舉，而「因中國因素而反對」的統派則是反美日；論保衛台灣主要靠美日，台灣人與日本人情感深厚又同面對中國壓迫，故應「由日本路線與美國建立良好關係」；他並記國民黨立委利用捷克議員來訪期間「告洋狀」反美豬美牛，「美豬美牛干捷克底事？」反而自己化解了藍營攻勢；結論是該案選民並無獲利、流失的選票民進黨「花得起」，因為中國打壓造成台灣人普遍反中、「一個中國」政策被選民唾棄，使民進黨「本錢」雄厚（[[articles/taiwanjustice-net/2023/20230607050018_2020_09_02_中國催生了美豬美牛-_-陳茂雄_577c4eb35bd201c9|中國催生了美豬美牛, TJJ 存檔 2023-06-07]]）。
+- **2021-08-29** — 於台灣時報發表專論（文末署名 2021/8/30）評朱立倫投入黨主席選舉：朱立倫二十九日前進澎湖離島爭取基層黨員支持，在縣副議長陳雙全陪同下拜會縣長賴峰偉、議長劉陳昭玲，並於澎湖救國團大禮堂與基層黨員座談，強調國民黨維持「正藍」、是保衛台灣最愛台灣的政黨、維持兩蔣時代路線、拒絕與小綠小白合作，兩岸以維持現狀為主、遵守九二共識並提「求同尊異」；他反駁朱立倫「對兩蔣完全不了解」——蔣介石天天念「反共抗俄、殺朱拔毛」、堅持「漢賊不兩立」，蔣經國堅持「不接觸、不談判、不妥協」的三不、目標是「反共保台」，朱立倫既非如此，抬出兩蔣只是想吸收統派黨員票、與統派同樣在「消費兩蔣」；他論真正背叛兩蔣的是統派本身：民主化後產生本土政府，保守派因不認同台灣而堅持中國法統、由反共轉為親共，與昔日所稱「共匪」結盟對付台灣人；並論國民黨的選戰靈魂是由台灣人組成的地方派系樁腳，統派人數太少掀不起波浪，馬英九歧視地方派系乃至掀起鬥爭造成整個政黨崩解，因而兩次總統大選被打趴；結論是統派主張的「一個中國」國際社會公認就是中華人民共和國，朱立倫就算奪得主席寶座，總統大選還是會被主流民意掃進垃圾桶（[[articles/taiwanjustice-net/2023/20230205143857_2021_08_29_中國國民黨進入死胡同-_-陳茂雄_8b97a038e92e9543|中國國民黨進入死胡同, TJJ 存檔 2023-02-05]]）。
+- **2022-11-27** — 於台灣時報發表專論（文末署名 2022/11/28）論九合一選舉民進黨「兵敗如山倒」、為政治民主化以來最嚴重的一次挫敗：他反駁「國民黨大獲全勝使中國併吞台灣更近一步」的說法最無聊——選前民眾聽「反共保台」都聽到耳朵長繭，綠營團體不曉得絕大多數選民支持「反共保台」但不認定只有綠營候選人會反共保台；他論民進黨「佔了天時」（中共打壓引起反感，民進黨率先抱住「反共保台」神主牌得到先機）也「佔盡地利」（挺民進黨那家平面媒體占超過三分之二的閱報率，電子媒體也由國民黨優勢轉為劣勢），卻敗在「失之人和」——民眾認同民進黨卻不喜歡民進黨，與2018年九合一在同一地點跌倒；他把原因歸於民進黨背離民意、總統兼黨主席被一批如古代「奴才」的捍衛隊隔絕了民怨與政治領袖的溝通；並論「權貴世襲」：黨外年代將權貴傳襲分為血統與非血統兩種，民進黨出現的是非血統權貴傳襲，桃園新竹升格案原是為特定人選量身訂作、論文抄襲案爆發後民怨沸騰以致選舉結果「一屍五命」，民進黨總統候選人初選開跑後還能改日期與規則則讓他擔心民進黨「信用破產」；他以女兒問「香蕉怎麼長在樹上」與晉惠帝「何不食肉糜」作比擬蔡總統所面臨的隔絕（[[articles/taiwanjustice-net/2023/20230205145112_2022_11_27_佔了天時與地利卻兵敗如山倒_-_陳茂雄_456e221f85c020c4|佔了天時與地利卻兵敗如山倒？, TJJ 存檔 2023-02-05]]）。
+- **2023-02-01** — 於台灣時報發表社論（文末署名 2023/2/1）論蔡英文宣布由前副總統陳建仁接任閣揆引發的憲政之爭：他反駁「蔡英文不願權力跛腳、踩著憲法尊嚴紊亂憲政體制」的指控，並批一家統派媒體社論抬出憲法卻不研讀《憲法增修條文》——原來的《中華民國憲法》確是雙首長制，總統公布法律發布命令須經行政院長副署，閣揆提名須經立法院同意，行政院長獨立行使職權、是內政最高行政首長（李登輝年代總統要提升一位將領、時任院長郝柏村拒絕副署因而胎死腹中）；修憲後這些條文被凍結，總統發布命令不必副署、行政院長由總統直接任免不需立法院同意，雙首長制已經凍結，行政院長變成總統的部屬、角色變為總統的幕僚長（修憲前總統幕僚長只有總統府秘書長），總統可直接領導與指揮、也可授權行政院長指揮，「保有很大的彈性空間」；他論台灣政壇惡性競爭使在野黨在雞蛋裡挑骨頭、拿已經凍結的憲法條文當工具（[[articles/taiwanjustice-net/2023/20230326061450_2023_02_01_彈性體制-_-陳茂雄_eecdae7db47d78c5|彈性體制, TJJ 存檔 2023-03-26]]）。
+- **2023-03-17** — 於台灣時報發表社論（文末署名 2023/3/15）評《日本經濟新聞》報導高達九成退役軍官提供情報給中國、藍委吳斯懷在外交國防委員會批評該報導羞辱國軍：他反問「退役將領表示要捍衛中華民國，該回答是誰要消滅中華民國？」——全世界要消滅中華民國的只有對岸政權，「朝拜要消滅自己國家的人與共諜有多大的距離？」；他以清華大學對照：陸軍軍官學校與清華一樣是「遷校」不是「分校」，中共也在對岸設立清華大學與新竹的清華差異不大、校友每年在新竹辦校慶沒去對岸朝拜，但對岸的軍官學校改變了原軍官學校的校徽、還立下消滅中華民國的目標，鳳山訓練出來的軍官與對岸完全沒有淵源卻去朝拜，難怪日本媒體懷疑存在太多共諜；他論中華民國成立於1912年、毛澤東等第一代中共黨員本是中華民國國民，「分裂中國的是中國共產黨，不是中國國民黨」，退役將領說要捍衛中華民國卻到中共那裡朝聖，「沒錯他們不是共諜，卻是叛亂分子」；並論1895年大清依馬關條約割讓台灣、戰後日本又在舊金山和約放棄台灣主權，台灣的內戰漩渦只因蔣政權流亡來台造成，台灣人與中國共產黨本來毫無恩怨，「要『半路認老爸』也要張開眼睛看一下面對的到底是誰」（[[articles/taiwanjustice-net/2023/20230322185407_2023_03_17_半路認老爸_-_陳茂雄_404ab717ddef0f7e|半路認老爸？, TJJ 存檔 2023-03-22]]）。
+- **2023-01-27** 📰 管中閔
+- **2023-01-29** 📰 陳破空
+- **2023-02-01** 📰 筱君 台灣 PLUS
+- **2023-02-01** 🏥 彈性體制  ◎ 陳茂雄
+- **2023-02-02** 🗳️ 全國第一勇
+- **2023-02-23** 📰 台灣頭條
+- **2023-03-01** 🗳️ 南海東海風雲
+- **2023-03-05** 📰 台灣演義 20230305 辜寬敏
+- **2023-03-14** 🗳️ 當飢餓的肉食動物面對獵物 ◎陳茂雄
+- **2023-03-16** 🏥 保健
+- **2023-03-17** 🏛️ 半路認老爸？ ◎陳茂雄
+- **2023-03-17** 📰 與過去的自己競爭 ◎ 陳茂雄
+- **2023-03-18** 🗳️ 3Q新台灣
+- **2023-03-19** 📰 新聞觀測站
+- **2023-03-21** 🎤 台美人台加人
+- **2023-03-22** 📰 新聞觀測站
+- **2023-03-26** 📰 楊遠薰專欄
+- **2023-03-28** 📰 3
+- **2023-03-28** 📰 張成澤
+- **2023-03-28** 📰 7
+- **2023-03-28** 📰 2
+- **2023-03-28** 📰 5
+- **2023-03-28** 📰 1
+- **2023-03-28** 📰 4
+- **2023-04-06** 📰 老郎(老人)心天地
+- **2023-04-19** 🏛️ 中國國民黨整慘郭倍宏? ◎ 陳茂雄
+- **2023-04-30** 📰 台灣頭條
+- **2023-05-01** 🏥 T觀點
+- **2023-05-01** 📰 T觀點 20230429 銀行大到不能倒? 金融內部大揭密
+- **2023-05-09** 🏥 突發琪想
+- **2023-05-21** 📰 台灣演義 20230521 WHO台灣叩關路
+- **2023-05-31** 📰 2024大選
+- **2023-06-01** 🏛️ 柯文哲歪打正著 ◎ 陳茂雄
+- **2023-06-03** 📰 從台灣看全球
+- **2023-06-03** 🗳️ 藉敵人之力殲滅對手  ◎陳茂雄
+- **2023-06-03** 📰 Obama_cry
+- **2023-06-03** 🎤 ScreenHunter_14 Aug. 05 22.40
+- **2023-06-03** 📰 Andre Rieu
+- **2023-06-05** 🏛️ 不沾鍋與沾不了鍋 ◎ 陳茂雄
+- **2023-06-06** 📰 admin
+- **2023-06-17** 🕯️ 大洛杉磯台灣會館台灣學校/縫紉班 招生中
+- **2023-06-25** 🏥 台灣啟示錄
+- **2023-06-25** 📰 郭獨立參選柯將受創 ◎陳茂雄
+- **2023-06-25** 📰 驚爆新聞線
+- **2023-07-09** 📰 陳昭南觀點
+- **2023-07-18** 📰 年代向錢看
+- **2023-07-19** 🏥 台灣人的朋友 ◎ 陳茂雄
+- **2023-07-25** 🕯️ 大洛杉磯台灣會館2023年7月份會訊
+- **2023-07-30** 🎤 台美人台加人
+- **2023-08-12** 🎤 2012大選
+- **2023-08-13** 🎤 台美人台加人
+- **2023-08-16** 📰 台語文天地
+- **2023-08-16** 🎤 母語殺手 ◎ 陳茂雄
+- **2023-08-17** 🗳️ 筱君 台灣 PLUS
+- **2023-08-20** 🗳️ 主流民意的朋友與敵人  ◎ 陳茂雄
+- **2023-08-21** 🗳️ 台灣頭條
+- **2023-08-23** 📰 團結與劫收 ◎ 陳茂雄
+- **2023-08-28** 📰 兩岸關係
+- **2023-08-30** 🎤 園藝
+- **2023-08-30** 📰 洛杉磯聖東台灣同鄉會9/9主辦蔬果秋收嘉年華會
+- **2023-09-10** 📰 陳茂雄專欄
+- **2023-09-10** 🗳️ 主人與奴才  ◎ 陳茂雄
+- **2023-09-14** 🏛️ 黨外精神早就消失  ◎ 陳茂雄
+- **2023-09-14** 📰 認同「中華民國」就是「兩國論」◎ 陳茂雄
+- **2023-09-15** 🗳️ 自恨枝無葉  ◎陳茂雄
+- **2023-09-17** 📰 川普時代
+- **2023-09-20** 📰 台灣史地
+- **2023-09-21** 🕯️ 中國史地
+- **2023-09-21** 📰 admin
+- **2023-09-21** 🎤 狠狠抖內幕
+- **2023-09-21** 🕯️ 歷史必讀
+- **2023-09-21** 📰 世界人文
+- **2023-09-21** 📰 新聞挖挖哇 20230921「高雄夫妻」雙亡冤死慘劇真相！
+- **2023-09-21** 🗳️ 不連任的災害 ◎ 陳茂雄
+- **2023-09-22** 📰 中國新聞
+- **2023-09-22** 🗳️ 2022九合一選舉
+- **2023-09-22** 📰 筱君 台灣 PLUS
+- **2023-09-22** 📰 洪博培HUNTSMAN
+- **2023-09-22** 📰 世界史地
+- **2023-09-24** 📰 陳破空專欄
+- **2023-09-25** 📰 民視晚間新聞 20230925
+- **2023-09-30** 📰 金正恩與姑父張成澤
+- **2023-09-30** 📰 台灣新聞
+- **2023-10-03** 📰 台灣新聞
+- **2023-10-04** 📰 藝文
+- **2023-10-05** 🗳️ 世界人文
+- **2023-10-05** 📰 追求選票者哪來中心思想？ ◎ 陳茂雄
+- **2023-10-08** 🏥 民視異言堂 20231008 健忘村裡的阿嬤
+- **2023-10-09** 📰 台灣演義 20231008 世界氣候變遷史
+- **2023-10-09** 🗳️ 千算萬算不值得天一畫 ◎陳茂雄
+- **2023-10-14** 🗳️ 藍營挫敗的關鍵不在藍白不合 ◎陳茂雄
+- **2023-10-17** 🗳️ 笨蛋才靠敵人拉選票 ◎陳茂雄
+- **2023-10-17** 🏛️ 白藍競合？弊端少的才是好制度 ◎ 陳茂雄
+- **2023-10-18** 📰 狠狠抖內幕
+- **2023-10-19** 🗳️ 新版馬英九 ◎陳茂雄
+- **2023-10-21** 📰 政治分贓是必然的 ◎陳茂雄
+- **2023-10-22** 📰 台股
+- **2023-10-23** 📰 民視晚間新聞 20231023
+- **2023-10-23** 📰 我們的島 20231023 失落的櫟林王國
+- **2023-10-26** 🗳️ 耕耘與收穫 ◎ 陳茂雄
+- **2023-10-31** 📰 政黨輪替與轉型正義
+- **2023-10-31** 📰 台灣演義 20231028 台灣人類源起
+- **2023-11-01** 📰 鄭知道了 20231101 朱柯侯密談玩假的
+- **2023-11-03** 🗳️ 影音
+- **2023-11-04** 🏛️ 高明的設計師？ ◎陳茂雄
+- **2023-11-05** 📰 公視晚間新聞 20231105
+- **2023-11-08** 🏛️ 馬英九不知球員不能兼裁判？◎ 陳茂雄
+- **2023-11-11** 🗳️ 在討皮痛？ ◎ 陳茂雄
+- **2023-11-12** 📰 陳破空專欄
+- **2023-11-13** 🗳️ 台灣演義 20231112 台灣潛艦史
+- **2023-11-19** 📰 台灣演義 20231119 蕭美琴
+- **2023-11-21** 🏥 民視晚間新聞 20231121
+- **2023-11-22** 📰 民視晚間新聞 20231122
+- **2023-11-23** 🏥 公視晚間新聞 20231123
+- **2023-11-23** 🏥 民視晚間新聞 20231123
+- **2023-11-24** 🗳️ 完全不了解對手的政黨 ◎ 陳茂雄
+- **2023-11-25** 📰 消失的國界
+- **2023-11-25** 🏥 週末漫談音樂
+- **2023-11-26** 📰 台灣人文藝術
+- **2023-11-26** 🗳️ 台灣演義 20231125 台灣糖的故事
+- **2023-11-27** 📰 美股
+- **2023-11-27** 📰 鄭知道了 20231127 藍白兩黨相愛相殺!
+- **2023-11-27** 📰 新聞挖挖哇 20231127 背叛元配的代價！
+- **2023-11-27** 🗳️ 總統並不是皇帝 ◎ 陳茂雄
+- **2023-11-28** 📰 台灣史地
+- **2023-11-28** 📰 陳茂雄專欄
+- **2023-11-28** 🏛️ 為民眾黨把脈 ◎ 陳茂雄
+- **2023-11-29** 📰 台灣新聞
+- **2023-11-29** 📰 楊子清 Cliff Yang 音樂教室
+- **2023-11-29** 📰 台灣頭條
+- **2023-11-29** 📰 大洛杉磯台灣會館
+- **2023-11-29** 📰 台灣會館會訊
+- **2023-11-29** 🗳️ 民視晚間新聞 20231129
+- **2023-11-30** 📰 林保華專欄
+- **2023-11-30** 🗳️ 世界人文
+- **2023-11-30** 📰 焦點影音
+- **2023-11-30** 📰 我的肥皂箱
+- **2023-11-30** 📰 義論
+- **2023-11-30** 🗳️ 公視晚間新聞 20231130
+- **2023-12-01** 📰 老郎(老人)心天地
+- **2023-12-01** 📰 關鍵時刻
+- **2023-12-01** 📰 國際焦點
+- **2023-12-01** 📰 台灣文化
+- **2023-12-01** 📰 台灣新聞
+- **2023-12-01** 📰 世界史地
+- **2023-12-01** 📰 台灣頭條
+- **2023-12-01** 📰 美國頭條
+- **2023-12-01** 📰 美國新聞
+- **2023-12-02** 📰 台灣亮起來
+- **2023-12-03** 📰 民視異言堂
+- **2023-12-03** 📰 驚爆新聞線
+- **2023-12-03** 📰 台灣啟示錄
+- **2023-12-03** 📰 台灣演義 20231203 奇美許文龍傳奇
+- **2023-12-04** 📰 我們的島
+- **2023-12-04** 📰 專欄
+- **2023-12-04** 📰 台灣演義
+- **2023-12-04** 📰 獨傲村夫專欄
+- **2023-12-04** 📰 中國史地
+- **2023-12-04** 📰 台灣演義 20231202 蘇花公路
+- **2023-12-05** 🏥 公視晚間新聞 20231205
+- **2023-12-06** 📰 股市亮點
+- **2023-12-06** 📰 科技新聞
+- **2023-12-06** 📰 中國新聞
+- **2023-12-06** 🗳️ 蔣介石再世？ ◎陳茂雄
+- **2023-12-07** 📰 浮世繪
+- **2023-12-07** 📰 鄭 知道了
+- **2023-12-07** 🗳️ 台美人台加人
+- **2023-12-07** 🏥 新聞挖挖哇
+- **2023-12-07** 📰 年代向錢看
+- **2023-12-07** 📰 國際要聞
+- **2023-12-07** 📰 南海東海風雲
+- **2023-12-07** 📰 突發琪想
+- **2023-12-07** 📰 前進新台灣
+- **2023-12-07** 📰 新聞面對面
+- **2023-12-07** 🏥 公視晚間新聞 20231207
+- **2023-12-07** 📰 台灣最前線 20231207 KMT急了！？猛打”親美蕭”？
+- **2023-12-07** 🏥 民視晚間新聞 20231207
+- **2023-12-08** 📰 8
+- **2023-12-08** 📰 5
+- **2023-12-08** 📰 王丹
+- **2023-12-08** 📰 9
+- **2023-12-08** 📰 10
+- **2023-12-08** 📰 影音
+- **2023-12-08** 📰 5A
+- **2023-12-08** 📰 蔣為文
+- **2023-12-08** 🏥 新台灣加油
+- **2023-12-08** 📰 .陳破空新書發表會
+- **2023-12-08** 📰 6
+- **2023-12-08** 📰 7
+- **2023-12-08** 📰 公視晚間新聞 20231208
+- **2023-12-24** 📰 決策者
+- **2023-12-26** 📰 年代向錢看
+- **2022-01-05** 🏛️ 歷史必讀
+- **2022-01-07** 🗳️ 由四大公投評析台灣的直接民權 ◎ 陳茂雄
+- **2022-01-09** 📰 每日新聞
+- **2022-01-10** 📰 週末漫談音樂
+- **2022-01-11** 🏥 由萊豬看日本核食 ◎ 陳茂雄
+- **2022-01-13** 📰 中國國民黨對不起顏家 ◎ 陳茂雄
+- **2022-01-13** 🗳️ 蔣經國救不了中國國民黨 ◎ 陳茂雄
+- **2022-01-16** 📰 台灣演義 20220116 陳松勇
+- **2022-01-16** 🏥 名醫妙方
+- **2022-01-19** 📰 笨蛋！對抗主流民意要如何執政？ ◎陳茂雄
+- **2022-01-21** 📰 國際焦點
+- **2022-01-21** 📰 趙少康中興夢絕 ◎ 陳茂雄
+- **2022-01-21** 📰 鄭 知道了
+- **2022-01-22** 📰 鄭 知道了
+- **2022-01-22** 📰 國際焦點
+- **2022-01-25** 🕯️ 蔣介石幫了民進黨？ ◎ 陳茂雄
+- **2022-01-26** 📰 政治敗家子與權力暴發戶 ◎ 陳茂雄
+- **2022-01-26** 📰 余杰專欄
+- **2022-01-29** 📰 清泉崗機場槍擊案
+- **2022-02-06** 📰 文化背景的衝擊 ◎ 陳茂雄
+- **2022-02-09** 📰 陳破空專欄
+- **2022-02-13** 📰 海峽論談
+- **2022-02-15** 🎤 大洛杉磯台灣會館
+- **2022-02-16** 📰 台灣會館會訊
+- **2022-02-18** 🏥 美國新聞
+- **2022-02-19** 📰 洪仲丘的舅舅胡世和
+- **2022-02-23** 🗳️ 母語教學只是口號 ◎ 陳茂雄
+- **2022-02-23** 🏥 國際焦點
+- **2022-02-26** 📰 'Daily Archives: February 26, 2022'
+- **2022-02-27** 🕯️ 繼續迫害如何和解？ ◎ 陳茂雄
+- **2022-02-27** 📰 台灣新聞
+- **2022-02-28** 📰 台灣演義 20220227 蔡焜霖
+- **2022-02-28** 📰 拜登賀錦麗時代
+- **2022-03-06** 📰 並非有顯赫的過去才偉大 ◎ 陳茂雄
+- **2022-03-13** 🏛️ 「共獨」分裂中國  干「台獨」底事？ ◎ 陳茂雄
+- **2022-03-13** 📰 海峽論談
+- **2022-03-20** 📰 台灣演義 20220320 蘇東啟
+- **2022-03-21** 📰 民視晚間新聞 20220321
+- **2022-04-11** 🗳️ 國際焦點
+- **2022-04-19** 📰 我們的島
+- **2022-04-22** 🎤 大洛杉磯台灣會館
+- **2022-05-02** 📰 台灣演義 20220501 疫苗之父 李慶雲
+- **2022-05-13** 🎤 大洛杉磯台灣會館
+- **2022-05-14** 🏥 保健
+- **2022-05-15** 📰 兩岸關係
+- **2022-05-17** 📰 欺人太甚！◎ 陳茂雄
+- **2022-05-18** 📰 台灣頭條
+- **2022-05-18** 🏥 台灣人的防疫觀 ◎ 陳茂雄
+- **2022-05-21** 🏥 看板人物
+- **2022-05-26** 📰 大洛杉磯台灣會館May 2022會訊
+- **2022-05-31** 🕯️ 南海東海風雲
+- **2022-06-01** 📰 台灣頭條
+- **2022-06-06** 📰 年代高峰會
+- **2022-06-08** 🏥 保健
+- **2022-06-09** 🏥 新聞挖挖哇
+- **2022-06-09** 🗳️ 再現主流與非主流 ◎ 陳茂雄
+- **2022-06-15** 📰 台灣史地
+- **2022-06-15** 🗳️ 拜登賀錦麗時代
+- **2022-06-19** 🗳️ 台灣演義 20220619 那年我們在關子嶺
+- **2022-06-20** 📰 民視晚間新聞 20220620
+- **2022-06-20** 🏥 公視晚間新聞 20220620 ￼
+- **2022-06-21** 🗳️ 政治信仰與施政 ◎ 陳茂雄
+- **2022-06-22** 🏥 Covid-19 浩劫餘生錄
+- **2022-06-22** 📰 新聞挖挖哇 20220622 猝不及防的別離
+- **2022-06-22** 📰 兩岸關係
+- **2022-06-23** 🗳️ 由「反清復明」談騙子的圖騰  ◎ 陳茂雄
+- **2022-06-23** 📰 終日打雁，叫雁啄了眼 ◎ 陳茂雄
+- **2022-06-24** 📰 美股
+- **2022-06-25** 📰 台灣頭條
+- **2022-06-26** 🗳️ 「詐騙」訓練基地 ◎ 陳茂雄
+- **2022-06-26** 📰 拜登賀錦麗時代
+- **2022-06-26** 📰 台灣頭條
+- **2022-06-26** 📰 余杰專欄
+- **2022-06-27** 📰 余杰專欄
+- **2022-06-28** 📰 公視晚間新聞 20220628 ￼
+- **2022-06-29** 🗳️ 藍營總統路難行無關侯友宜 ◎ 陳茂雄
+- **2022-06-29** 📰 公視晚間新聞 20220629 ￼
+- **2022-06-29** 🗳️ 成與敗的「韓國瑜」均不再現 ◎ 陳茂雄
+- **2022-06-30** 📰 新聞挖挖哇 20220630 婚前要說好的事
+- **2022-06-30** 🏛️ 新聞面對面
+- **2022-06-30** 📰 美股
+- **2022-06-30** 📰 遠離核電廠者閉嘴 ◎ 陳茂雄
+- **2022-07-01** 📰 民視晚間新聞 20220701
+- **2022-07-01** 📰 美股
+- **2022-07-01** 📰 陳希同
+- **2022-07-02** 📰 公視晚間新聞 20220702 雙颱低壓帶 致全台水氣增多￼
+- **2022-07-03** 📰 雅琴看世界 20220703 環太登場中俄挑釁？￼
+- **2022-07-03** 📰 台灣演義 20220703 金曲台語歌王 許富凱
+- **2022-07-04** 🏛️ 民視晚間新聞 20220704
+- **2022-07-05** 🏛️ 學術機構就可以干預政治嗎？◎ 陳茂雄
+- **2022-07-06** 📰 民視晚間新聞 20220706
+- **2022-07-06** 🏛️ 公視晚間新聞 20220706 ￼
+- **2022-07-07** 📰 民視晚間新聞 20220707
+- **2022-07-08** 📰 新聞挖挖哇 20220708 手足親人也要明算帳？
+- **2022-07-09** 📰 大洛杉磯台灣會館哀悼日本前首相安倍晉三去世
+- **2022-07-10** 🕯️ 陳茂雄專欄
+- **2022-07-11** 📰 公視晚間新聞 20220711
+- **2022-07-11** 🏛️ 民視晚間新聞 20220711
+- **2022-07-12** 🏛️ 民視晚間新聞 20220712
+- **2022-07-13** 🗳️ 蔣家說的算數？◎ 陳茂雄
+- **2022-07-13** 📰 民視晚間新聞 20220713
+- **2022-07-13** 📰 是誰的國旗？ ◎ 陳茂雄
+- **2022-07-14** 📰 中華民國與台獨 ◎ 陳茂雄
+- **2022-07-14** 🏛️ 民視晚間新聞 20220714
+- **2022-07-15** 📰 公視晚間新聞 20220715 ￼
+- **2022-07-16** 📰 公視晚間新聞 20220716 ￼
+- **2022-07-17** 📰 開放販毒卻猛抓吸毒者？ ◎ 陳茂雄
+- **2022-07-17** 🏥 名醫妙方 20220718 認識大腸癌與其預防篩檢 ￼
+- **2022-07-18** 📰 新聞挖挖哇 20220718 確診之後的身體保健！
+- **2022-07-18** 📰 公視晚間新聞 20220718 ￼
+- **2022-07-19** 📰 免死法官間接殺人 ◎ 陳茂雄
+- **2022-07-19** 🏛️ 民視晚間新聞 20220719￼
+- **2022-07-19** 📰 公視晚間新聞 20220719 ￼
+- **2022-07-20** 📰 公視晚間新聞 20220720 ￼
+- **2022-07-21** 📰 公視晚間新聞 20220721 ￼￼
+- **2022-07-23** 📰 'Daily Archives: July 23, 2022'
+- **2022-07-24** 📰 大洛杉磯台灣會館七月份會訊
+- **2022-07-24** 🏥 名醫妙方 20220725 大腸癌的分期與其治療方式￼
+- **2022-07-24** 📰 雅琴看世界 20220724 爛尾樓曝習李鬥爭！￼
+- **2022-07-24** 🏥 保健
+- **2022-07-25** 📰 民視晚間新聞 20220725
+- **2022-07-26** 📰 公視晚間新聞 20220726 ￼
+- **2022-07-27** 🏛️ 公視晚間新聞 20220727 ￼
+- **2022-07-28** 📰 新聞挖挖哇 20220728 廖輝英哽咽放手癌末尪
+- **2022-07-29** 📰 陳破空專欄
+- **2022-08-03** 🗳️ 陳時中的天時與人和 ◎ 陳茂雄
+- **2022-08-04** 🏥 懂得用刀叉的食人族 ◎ 陳茂雄
+- **2022-08-07** 📰 李四端的雲端世界
+- **2022-08-07** 🏛️ 法治社會誤導楊智淵 ◎ 陳茂雄
+- **2022-08-09** 📰 國共互咬干台灣人底事? ◎ 陳茂雄
+- **2022-08-09** 🗳️ 拜登賀錦麗時代
+- **2022-08-09** 🕯️ 美國新聞
+- **2022-08-09** 🕯️ 南海東海風雲
+- **2022-08-10** 🗳️ 論文抄襲案怎麼頭痛醫腳？◎ 陳茂雄
+- **2022-08-10** 📰 攝護腺
+- **2022-08-10** 📰 南海東海風雲
+- **2022-08-14** 🏥 名醫妙方 20220815 認識癌症新藥臨床試驗 ￼
+- **2022-08-14** 🗳️ 奴才的成事與敗事  ◎ 陳茂雄
+- **2022-08-14** 📰 陳時中的優勢 ◎ 陳茂雄
+- **2022-08-17** 📰 筱君 台灣 PLUS
+- **2022-08-17** 📰 陳破空專欄
+- **2022-08-18** 🗳️ 類邦聯與類聯邦 ◎ 陳茂雄
+- **2022-08-21** 📰 賈伯斯專輯
+- **2022-08-22** 📰 余杰專欄
+- **2022-08-23** 🎤 大洛杉磯台灣會館
+- **2022-08-28** 🗳️ 依循今日政壇陳定南屬異常 ◎ 陳茂雄
+- **2022-08-30** 🗳️ 評兩大黨六都之戰 ◎ 陳茂雄
+- **2022-08-31** 🗳️ 柯文哲、馬英九、侯友宜  ◎ 陳茂雄
+- **2022-09-04** 🗳️ 選票的交集與聯集 ◎ 陳茂雄
+- **2022-09-07** 📰 有話好說
+- **2022-09-11** 📰 台灣啟示錄
+- **2022-09-12** 📰 台灣演義 20220911 大台北史
+- **2022-09-18** 🏥 名醫妙方 20220919 認識痔瘡及其預防
+- **2022-09-20** 📰 學馬英九就完了 ◎ 陳茂雄
+- **2022-09-21** 🗳️ 柯文哲氣勢並未褪色 ◎ 陳茂雄
+- **2022-09-22** 🗳️ 政治版圖的重組與固守 ◎ 陳茂雄
+- **2022-09-23** 🗳️ 2022九合一選舉
+- **2022-09-27** 📰 賴清德與日本國會參議院參議員蓮舫
+- **2022-09-27** 📰 美國頭條
+- **2022-09-27** 🕯️ 台灣趴趴走
+- **2022-10-05** 🗳️ 台美人台加人
+- **2022-10-06** 📰 Taiwan 201311 147陳破空《假如中美開戰》新書發布會 (6)
+- **2022-10-06** 📰 Taiwan 201311 147陳破空《假如中美開戰》新書發布會 (5)
+- **2022-10-06** 📰 Taiwan 201311 147陳破空《假如中美開戰》新書發布會 (2)
+- **2022-10-06** 📰 Taiwan 201311 147陳破空《假如中美開戰》新書發布會 (7)
+- **2022-10-06** 📰 Taiwan 201311 147陳破空《假如中美開戰》新書發布會 (3)
+- **2022-10-06** 📰 Taiwan 201311 147陳破空《假如中美開戰》新書發布會 (4)
+- **2022-10-06** 📰 Taiwan 201311 147陳破空《假如中美開戰》新書發布會 (1)
+- **2022-10-06** 📰 麥克阿瑟Douglas MacArthur與昭和天皇裕仁合影
+- **2022-10-13** 🗳️ 兩岸關係
+- **2022-10-23** 🎤 國際社會有法律無法治 ◎ 陳茂雄
+- **2022-10-25** 📰 時代力量高雄市議員林于凱、黃捷
+- **2022-11-10** 📰 挑戰新聞
+- **2022-11-10** 📰 世界史地
+- **2022-11-16** 🗳️ 2022九合一選舉
+- **2022-11-19** 📰 決策者
+- **2022-11-20** 📰 台灣演義 20221120 大高雄四百年
+- **2022-11-20** 🏥 名醫妙方 20221121 認識兒童癌症與其治療
+- **2022-11-22** 🗳️ 鄭運鵬內壢勝選晚會
+- **2022-11-23** 🏛️ 綠藍白的征戰 ◎ 陳茂雄
+- **2022-11-25** 📰 翻轉大台中! 蔡其昌”選前之夜全城行動”
+- **2022-11-25** 📰 公視晚間新聞 20221125
+- **2022-11-26** 🏛️ 2022九合一選舉
+- **2022-11-27** 🗳️ 佔了天時與地利卻兵敗如山倒？ ◎陳茂雄
+- **2022-11-29** 🗳️ 不連任者的衰退 ◎陳茂雄
+- **2022-11-29** 📰 恐怖攻擊
+- **2022-11-30** 🗳️ 紅症免疫力 ◎ 陳茂雄
+- **2022-11-30** 📰 天安門恐怖襲擊
+- **2022-12-01** 🗳️ 修憲之門已封閉 ◎ 陳茂雄
+- **2022-12-01** 🏥 有話好說
+- **2022-12-01** 📰 中國海外政治評論家陳破空
+- **2022-12-02** 🗳️ 辣新聞152
+- **2022-12-02** 📰 挑戰新聞
+- **2022-12-03** 📰 三立新聞 20221203
+- **2022-12-09** 📰 新台灣加油
+- **2022-12-10** 📰 三立新聞 20221210
+- **2022-12-11** 📰 三立新聞 20221211
+- **2022-12-11** 🗳️ 賴清德團隊高明！◎ 陳茂雄
+- **2022-12-18** 📰 三立新聞 20221218
+- **2022-12-18** 🏥 名醫妙方
+- **2022-12-19** 🗳️ 挑戰新聞
+- **2022-12-20** 📰 公視晚間新聞 20221220
+- **2022-12-22** 📰 台灣會館會訊
+- **2022-12-27** 🏥 政壇王祿子先  ◎陳茂雄
+- **2022-12-29** 🗳️ 2022九合一選舉
+- **2021-01-10** 🏥 會殺豬就會行刀路 ◎ 陳茂雄
+- **2021-01-12** 🗳️ 暴政或暴民 ◎ 陳茂雄
+- **2021-01-12** 🗳️ 王金平救了中國國民黨 ◎ 陳茂雄
+- **2021-01-13** 📰 新聞挖挖哇
+- **2021-01-13** 📰 我的肥皂箱
+- **2021-01-15** 🏥 Covid-19 浩劫餘生錄
+- **2021-01-15** 🏥 新聞面對面
+- **2021-01-17** 🗳️ 川普時代
+- **2021-01-17** 📰 週末漫談音樂
+- **2021-01-17** 📰 新聞面對面
+- **2021-01-18** 📰 拜登賀錦麗時代
+- **2021-01-18** 📰 台股
+- **2021-01-19** 📰 科技新聞
+- **2021-01-20** 🏥 「非科學」將是防疫的未爆彈 ◎ 陳茂雄
+- **2021-01-20** 📰 美股
+- **2021-01-20** 🗳️ 川普時代
+- **2021-01-20** 📰 台股
+- **2021-01-22** 🕯️ 拜登賀錦麗時代
+- **2021-01-23** 📰 週末漫談音樂
+- **2021-01-25** 🏛️ 統獨哪一派影響力較大？ ◎ 陳茂雄
+- **2021-01-25** 🏥 防疫工作變成執政成敗的關鍵  ◎ 陳茂雄
+- **2021-01-26** 🕯️ 鄭 知道了
+- **2021-01-27** 📰 新聞面對面
+- **2021-01-27** 📰 週末漫談音樂
+- **2021-01-29** 📰 買票作票見聞錄
+- **2021-01-29** 📰 科技新聞
+- **2021-01-30** 📰 買票作票見聞錄
+- **2021-01-31** 📰 台股
+- **2021-02-01** 📰 'Daily Archives: February 1, 2021'
+- **2021-02-09** 🏥 'Daily Archives: February 9, 2021'
+- **2021-02-16** 📰 台股
+- **2021-02-17** 🏛️ 維持現狀 各自表述 ◎ 陳茂雄
+- **2021-02-19** 📰 台灣要為中國而戰嗎？◎陳茂雄
+- **2021-02-21** 📰 台灣的黑金 ◎ 陳茂雄
+- **2021-02-21** 📰 國際焦點
+- **2021-02-28** 🏥 美國新聞
+- **2021-03-01** 📰 美國新聞
+- **2021-03-02** 🏥 由鳳梨案談寄生經濟 ◎ 陳茂雄
+- **2021-03-02** 🗳️ 以黨領政的魔咒 ◎ 陳茂雄
+- **2021-03-03** 🏛️ 兩虎生死鬥 猴子當稱王 ◎ 陳茂雄
+- **2021-03-07** 📰 兩岸關係
+- **2021-03-08** 📰 新聞挖挖哇 20210308 長得美是原罪
+- **2021-03-09** 📰 新聞挖挖哇 20210309 婚約管不住的事
+- **2021-03-09** 🗳️ 台灣人該保台或投降？◎ 陳茂雄
+- **2021-03-10** 📰 中共與中國 ◎ 陳茂雄
+- **2021-03-11** 📰 台股
+- **2021-03-12** 🗳️ 新聞挖挖哇 20210312 關你什麼事？
+- **2021-03-14** 📰 最不夠格擁核的是馬英九  ◎ 陳茂雄
+- **2021-03-16** 📰 新聞挖挖哇 20210316 鳳梨阿嬤回家了
+- **2021-03-17** 🗳️ 幫人民塑造敵人  ◎ 陳茂雄
+- **2021-03-17** 📰 新聞挖挖哇 20210317 婚姻中理不清的事
+- **2021-03-23** 📰 新聞挖挖哇 20210323 鮭魚的命運?
+- **2021-03-23** 🏛️ 台灣不適用內閣制  ◎ 陳茂雄
+- **2021-03-24** 🏥 監委的監試制度早該廢了 ◎ 陳茂雄
+- **2021-03-24** 📰 新聞挖挖哇 20210324 這樣「靠北」合理嗎？
+- **2021-03-25** 🗳️ 兩岸關係
+- **2021-03-25** 🏥 台美人台加人
+- **2021-03-25** 📰 新聞挖挖哇 20210325 另一半的「特殊工作」
+- **2021-03-26** 📰 三立新聞 20210326 台美簽備忘錄! “海巡合作制度化”
+- **2021-03-26** 📰 新聞挖挖哇 20210326 要不要爭那口氣
+- **2021-03-26** 📰 由國民黨看共產黨 ◎ 陳茂雄
+- **2021-03-29** 📰 兩岸關係
+- **2021-03-29** 📰 新聞挖挖哇 20210329 到底是真還是假？
+- **2021-03-30** 📰 楊子清 Cliff Yang 音樂教室
+- **2021-03-31** 🤝 「恐共」與「反共」的戰爭 ◎ 陳茂雄
+- **2021-04-04** 📰 公視晚間新聞 20210404 檢方抗告成功李義祥撤銷交保
+- **2021-04-06** 📰 我們的島 20210405 國產材進行式
+- **2021-04-07** 📰 政治責任並非「是非」議題 ◎ 陳茂雄
+- **2021-04-07** 🗳️ 兩大黨在比笨 ◎ 陳茂雄
+- **2021-04-08** 📰 台股
+- **2021-04-11** 🏛️ 拼裝車不修也罷！ ◎ 陳茂雄
+- **2021-04-12** 🏥 年代向錢看
+- **2021-04-13** 📰 總統是唯一有權除罪者 ◎ 陳茂雄
+- **2021-04-16** 📰 台美之間不能有軍售案嗎？◎ 陳茂雄
+- **2021-04-16** 🏥 由小動作洞悉人品 ◎ 陳茂雄
+- **2021-04-18** 📰 民視異言堂
+- **2021-04-20** 🏛️ 「中華民國」困死新黨 ◎ 陳茂雄
+- **2021-04-22** 📰 科技新聞
+- **2021-04-25** 🏛️ 是去殖民化 非去中國化 ◎ 陳茂雄
+- **2021-04-25** 📰 雙面刀鬼 ◎ 陳茂雄
+- **2021-04-28** 🗳️ 笨  ◎ 陳茂雄
+- **2021-04-30** 🏥 攔截新聞
+- **2021-05-01** 🗳️ 雅琴看世界
+- **2021-05-01** 📰 週末漫談音樂
+- **2021-05-02** 📰 台灣美術史
+- **2021-05-04** 📰 民進黨制憲？省省吧！ ◎ 陳茂雄
+- **2021-05-04** 🗳️ 「團結」是惡棍最常用的藉口 ◎ 陳茂雄
+- **2021-05-04** 🗳️ 媽祖大或總統大？ ◎ 陳茂雄
+- **2021-05-04** 📰 台灣頭條
+- **2021-05-07** 📰 新台灣加油
+- **2021-05-12** 🗳️ 民進黨的兩大救命靈丹  ◎ 陳茂雄
+- **2021-05-12** 🏛️ 罷免案個別差異大 ◎ 陳茂雄
+- **2021-05-16** 🏛️ 拒共 反共 台獨 ◎ 陳茂雄
+- **2021-05-16** 🏛️ 藍綠對決 誰是漁翁？ ◎ 陳茂雄
+- **2021-05-16** 🏛️ 拒共 反共 台獨  ◎ 陳茂雄
+- **2021-05-16** 🏥 保健
+- **2021-05-17** 📰 台股
+- **2021-05-18** 🗳️ 民進黨的生死門 ◎ 陳茂雄
+- **2021-05-18** 📰 台股
+- **2021-05-18** 📰 新台灣加油
+- **2021-05-19** 📰 新台灣加油
+- **2021-05-19** 🗳️ 意圖害賴清德？ ◎ 陳茂雄
+- **2021-05-19** 📰 美國頭條
+- **2021-05-21** 🗳️ 單靠嘴巴救不了中國國民黨 ◎ 陳茂雄
+- **2021-05-23** 🏥 台股
+- **2021-05-23** 📰 「真話」也可以扭曲「真相」◎ 陳茂雄
+- **2021-05-25** 🗳️ 公投只顯現對政黨的認同 ◎ 陳茂雄
+- **2021-05-25** 📰 股市亮點
+- **2021-05-26** 🏥 外來政權的屍體 ◎ 陳茂雄
+- **2021-05-30** 📰 趙少康保了陳時中？ ◎ 陳茂雄
+- **2021-05-30** 📰 台灣頭條
+- **2021-06-01** 🕯️ 中國史地
+- **2021-06-02** 📰 '民視台灣學堂 20210603 台語講世事: 竹筍–陳豐惠、翁有繼'
+- **2021-06-08** 📰 抗爭是台灣政壇常態 ◎ 陳茂雄
+- **2021-06-09** 📰 三立新聞 20210609 今新增274例本土個案與25例死亡！
+- **2021-06-11** 📰 廖中山與星雲大師  ◎ 陳茂雄
+- **2021-06-12** 📰 科技新聞
+- **2021-06-12** 🗳️ 浮世繪
+- **2021-06-13** 🏥 雅琴看世界
+- **2021-06-15** 🏥 蔣家的朝鮮化 ◎ 陳茂雄
+- **2021-06-15** 📰 疫情重創統派 ◎ 陳茂雄
+- **2021-06-18** 🏥 新台灣加油
+- **2021-06-19** 🏥 消失的國界
+- **2021-06-20** 🏛️ 連勝文不懂得利用自己的優勢 ◎ 陳茂雄
+- **2021-06-20** 📰 兩岸關係
+- **2021-06-21** 📰 兩岸關係
+- **2021-06-21** 📰 新台灣加油
+- **2021-06-21** 📰 台股
+- **2021-06-22** 🏥 民進黨時來運轉 ◎ 陳茂雄
+- **2021-06-26** 📰 楊子清 Cliff Yang 音樂教室
+- **2021-06-29** 🎤 台語文天地
+- **2021-07-01** 🗳️ 又幫了民進黨？ ◎ 陳茂雄
+- **2021-07-07** 📰 台灣最前線 20210707 連3天！不明感染源剩個位數
+- **2021-07-08** 📰 陳破空專欄
+- **2021-07-09** 📰 楊子清 Cliff Yang 音樂教室
+- **2021-07-20** 🗳️ 中國國民黨還不知道自己的敗因 ◎ 陳茂雄
+- **2021-07-21** 📰 藍綠第三勢力的悲歌 ◎ 陳茂雄
+- **2021-07-23** 📰 以德報怨 何以報德？ ◎ 陳茂雄
+- **2021-07-24** 🏛️ 台灣頭條
+- **2021-07-25** 🏛️ 政客為何不多讀一點書？ ◎ 陳茂雄
+- **2021-07-26** 📰 三立新聞 20210726 連兩天”0死亡”個案…疫情趨緩!
+- **2021-07-27** 📰 民視新聞 20210727 郭婞淳舉重總和236公斤創奧運紀錄
+- **2021-07-27** 📰 三立新聞 20210727 台灣舉重女神郭婞淳舉重東奧摘金！
+- **2021-07-27** 📰 股市亮點
+- **2021-07-28** 🗳️ 孤掌難撐大局 ◎ 陳茂雄
+- **2021-07-29** 🕯️ 歷史必讀
+- **2021-07-30** 📰 民視新聞 20210730 鏖戰三局苦勝依瑟儂 戴資穎闖女單四強
+- **2021-08-03** 🗳️ 背負骨灰還幫人看風水 ◎ 陳茂雄
+- **2021-08-04** 🗳️ 台灣民主仍在學步中 ◎ 陳茂雄
+- **2021-08-13** 📰 台股
+- **2021-08-15** 📰 台灣演義 20210815 飛躍羚羊 紀政
+- **2021-08-23** 🏥 保健
+- **2021-08-24** 📰 新聞挖挖哇 20210824 老公不在我該怎麼辦？
+- **2021-08-25** 🗳️ 「邦聯」與崩解中的「聯邦」◎ 陳茂雄
+- **2021-08-27** 📰 三立新聞 20210827 英蘇燦三人合體破除”改組謠言”!
+- **2021-08-29** 🗳️ 中國國民黨進入死胡同 ◎ 陳茂雄
+- **2021-08-29** 🏛️ 監察與司法搭配失靈 ◎ 陳茂雄
+- **2021-09-03** 📰 瘋狂的台灣？ ◎ 陳茂雄
+- **2021-09-06** 📰 浮世繪
+- **2021-09-06** 📰 台灣演義 20210905 鄭成功
+- **2021-09-07** 🎤 台語文天地
+- **2021-09-08** 🏥 林保華專欄
+- **2021-09-09** 🗳️ 分不清「寄生」與「共生」？ ◎ 陳茂雄
+- **2021-09-11** 📰 國際焦點
+- **2021-09-12** 🎤 台語文天地
+- **2021-09-14** 📰 錢進新世界
+- **2021-09-14** 📰 薛化元
+- **2021-09-14** 🏛️ 政壇需要清廉更需要智慧 ◎ 陳茂雄
+- **2021-09-17** 📰 年代向錢看
+- **2021-09-19** 🗳️ 悲情效應 ◎ 陳茂雄
+- **2021-09-19** 🗳️ 「戰鬥藍」只能鬥垮中國國民黨 ◎ 陳茂雄
+- **2021-09-20** 📰 楊子清 Cliff Yang 音樂教室
+- **2021-09-20** 📰 錢進新世界
+- **2021-09-20** 📰 台語文天地
+- **2021-09-20** 📰 台灣演義
+- **2021-09-22** 🏛️ 第三勢力的契機 ◎ 陳茂雄
+- **2021-09-23** 📰 民主政黨與運動團體 ◎ 陳茂雄
+- **2021-09-23** 📰 楊遠薰專欄
+- **2021-09-24** 📰 錢進新世界
+- **2021-09-26** 🗳️ 中國法統勢力的掙扎 ◎ 陳茂雄
+- **2021-09-26** 📰 民視異言堂
+- **2021-09-27** 📰 台語文天地
+- **2021-09-29** 🎤 大洛杉磯台灣會館
+- **2021-10-06** 📰 福爾摩沙音樂廳
+- **2021-10-07** 🗳️ 捍衛中華民國的說與做 ◎ 陳茂雄
+- **2021-10-13** 🏛️ 國家觀念瓦解鐘擺效應 ◎ 陳茂雄
+- **2021-10-13** 📰 福爾摩沙音樂廳
+- **2021-10-16** 🏥 台灣史地
+- **2021-10-17** 🏛️ 是誰分裂中國？◎ 陳茂雄
+- **2021-10-17** 🏛️ 可反民進黨但不能背叛自己 ◎ 陳茂雄
+- **2021-10-22** 🏛️ 錢進新世界
+- **2021-10-23** 📰 政經最前線
+- **2021-10-23** 📰 錢進新世界
+- **2021-10-23** 📰 民視新聞 20211023 　陳柏惟向支持民眾大喊：我沒有輸
+- **2021-10-24** 📰 三立新聞 20211024 規模6.5地震撼全台
+- **2021-10-31** 📰 台灣啟示錄
+- **2021-11-08** 🗳️ 政黨輪替與轉型正義
+- **2021-11-08** 📰 台股
+- **2021-11-11** 🏥 拜登賀錦麗時代
+- **2021-11-13** 🗳️ 台海南海東海風雲
+- **2021-11-13** 📰 浮世繪
+- **2021-11-13** 🕯️ 台美人台加人
+- **2021-11-13** 🏛️ 南海東海風雲
+- **2021-11-15** 📰 台灣頭條
+- **2021-11-16** 📰 血統與認同 ◎ 陳茂雄
+- **2021-11-21** 📰 美國新聞
+- **2021-11-22** 📰 中國史地
+- **2021-11-23** 🗳️ 民進黨在宜蘭輸得不冤枉 ◎ 陳茂雄
+- **2021-11-24** 🗳️ 在政壇不騙能生存嗎？ ◎ 陳茂雄
+- **2021-11-24** 📰 福爾摩沙音樂廳
+- **2021-11-25** 🏥 Covid-19 浩劫餘生錄
+- **2021-11-26** 📰 中共痛宰中國國民黨？ ◎ 陳茂雄
+- **2021-11-28** 📰 海峽論談
+- **2021-11-28** 📰 台灣演義 20211128 台灣電的前世今生
+- **2021-11-28** 🏥 為何惡整年長者？ ◎ 陳茂雄
+- **2021-11-29** 📰 科技新聞
+- **2021-11-29** 📰 海峽論談
+- **2021-11-29** 📰 賈伯斯專輯
+- **2021-11-29** 🕯️ 歷史必讀
+- **2021-12-01** 📰 福爾摩沙音樂廳
+- **2021-12-03** 📰 年代向錢看
+- **2021-12-04** 🤝 科技新聞
+- **2021-12-05** 📰 年代向錢看
+- **2021-12-05** 📰 Covid-19 浩劫餘生錄
+- **2021-12-05** 📰 科技新聞
+- **2021-12-06** 🗳️ 突發琪想
+- **2021-12-07** 📰 福爾摩沙音樂廳
+- **2021-12-11** 📰 'Daily Archives: December 11, 2021'
+- **2021-12-11** 📰 世界史地
+- **2021-12-11** 📰 台股
+- **2021-12-13** 📰 美股
+- **2021-12-16** 🎤 美國新聞
+- **2021-12-16** 🕯️ 國際要聞
+- **2021-12-16** 🏥 台灣人文藝術
+- **2021-12-16** 🏥 美國頭條
+- **2021-12-17** 🏥 每日新聞
+- **2021-12-17** 🏥 世界人文
+- **2021-12-18** 📰 義論
+- **2021-12-18** 🗳️ 中國新聞
+- **2021-12-18** 🗳️ 年代向錢看
+- **2021-12-18** 🗳️ 國際焦點
+- **2021-12-18** 🏥 鄭 知道了
+- **2021-12-18** 🗳️ 浮世繪
+- **2021-12-18** 🏥 拜登賀錦麗時代
+- **2021-12-20** 📰 台股
+- **2021-12-30** 📰 台股
+- **2020-01-01** 🏥 保健
+- **2020-01-01** 🗳️ 藍營的棄保  ◎陳茂雄
+- **2020-01-05** 📰 「思想犯」論述的背景  ◎ 陳茂雄
+- **2020-01-06** 📰 2020海外小英後援會返台助選圖集
+- **2020-01-06** 📰 國會最前線
+- **2020-01-07** 🗳️ 海內外台獨差很大  ◎ 陳茂雄
+- **2020-01-12** 🗳️ 高雄人了不起  ◎ 陳茂雄
+- **2020-01-13** 🗳️ 蔡英文與韓國瑜命運的輪迴  ◎陳茂雄
+- **2020-01-14** 📰 新聞挖挖哇 20200114 817萬新紀錄
+- **2020-01-15** 🗳️ 中國國民黨輸在內鬥  ◎ 陳茂雄
+- **2020-01-15** 📰 記者真心話
+- **2020-01-16** 📰 新聞挖挖哇 20200116 為何這樣搞我
+- **2020-01-16** 🗳️ 民代背景的衝擊 ◎陳茂雄
+- **2020-01-19** 🏥 中國國民黨困在內鬥中  ◎陳茂雄
+- **2020-01-20** 📰 台灣演義 20200119 高雄市長點將錄
+- **2020-01-20** 🏛️ 中國坑殺了藍營  ◎ 陳茂雄
+- **2020-01-21** 📰 新聞挖挖哇 20200121 過年有多煩
+- **2020-01-22** 🗳️ 不要全部賴給中國  ◎ 陳茂雄
+- **2020-01-23** 📰 新聞挖挖哇 20200123 職場豬隊友
+- **2020-01-24** 📰 黑色洋紫荊‧香港民主戰場 20200124 第二集
+- **2020-01-24** 📰 新聞挖挖哇 20200124 過年的滋味！
+- **2020-01-30** 📰 新聞挖挖哇 20200130 媳婦也是別人的千金
+- **2020-01-31** 📰 新聞挖挖哇 20200131 養妻防老這哪招
+- **2020-02-05** 🏥 每日新聞
+- **2020-02-06** 📰 傳統台獨的迷失  ◎ 陳茂雄
+- **2020-02-08** 📰 新聞深呼吸
+- **2020-02-08** 📰 新聞深呼吸 20200208 武漢肺炎禍全球
+- **2020-02-08** 📰 李四端的雲端世界
+- **2020-02-15** 🏥 李四端的雲端世界
+- **2020-02-17** 🏥 誰說台灣是中國的一部分？ ◎ 陳茂雄
+- **2020-02-18** 📰 新聞挖挖哇 20200218 疫情退散
+- **2020-02-22** 📰 新聞深呼吸 20200222 疫亂下的世界
+- **2020-02-25** 🏥 我們的島
+- **2020-02-25** 🗳️ 防疫問題使柯P受創  ◎ 陳茂雄
+- **2020-02-25** 📰 獨傲村夫專欄
+- **2020-02-29** 📰 週末漫談音樂
+- **2020-02-29** 📰 驚爆新聞線
+- **2020-03-01** 🏥 新聞觀測站
+- **2020-03-01** 🏥 台灣啟示錄
+- **2020-03-03** 📰 新聞挖挖哇 20200303 防疫再升級
+- **2020-03-07** 📰 民視新聞 20200307 我台灣我驕傲! 築防疫高牆遠勝中國
+- **2020-03-08** 📰 台灣演義
+- **2020-03-08** 📰 台灣演義 20200308 SARS襲台風暴
+- **2020-03-08** 📰 范姜提昂專欄
+- **2020-03-09** 📰 新聞挖挖哇 20200309 當老公不在身邊
+- **2020-03-13** 🗳️ 何須貼法統的冷屁股？ ◎ 陳茂雄
+- **2020-03-13** 📰 新聞挖挖哇 20200312 口罩怎麼買?
+- **2020-03-14** 🗳️ 鄭 知道了
+- **2020-03-15** 📰 台灣亮起來
+- **2020-03-21** 📰 終疾戰疫 武漢肺炎 特別報導 20200321
+- **2020-03-24** 🏥 台灣頭條
+- **2020-03-28** 🗳️ 「天龍人」還是回歸「天龍國」◎ 陳茂雄
+- **2020-04-01** 📰 「偽君子」與「真小人」的政界  ◎ 陳茂雄
+- **2020-04-02** 🏛️ 武漢肺炎能救韓國瑜嗎？◎ 陳茂雄
+- **2020-04-10** 🏥 中生本來就不該來台 ◎ 陳茂雄
+- **2020-04-11** 🏥 李四端的雲端世界
+- **2020-04-12** 🗳️ 得意不忘形，難  ◎ 陳茂雄
+- **2020-04-15** 📰 正名與傳統台獨  ◎ 陳茂雄
+- **2020-04-17** 🏥 馬英九之癮  ◎ 陳茂雄
+- **2020-04-17** 🏥 關鍵時刻
+- **2020-04-19** 🏥 國際社會的借力使力 ◎ 陳茂雄
+- **2020-04-19** 📰 我的肥皂箱
+- **2020-04-20** 🗳️ 新聞挖挖哇 20200420 婚姻中的假象！
+- **2020-04-22** 🎤 退休教授談中山大學 ◎ 陳茂雄
+- **2020-04-22** 📰 浮世繪
+- **2020-04-24** 🗳️ 中山大學的轉型  ◎ 陳茂雄
+- **2020-04-24** 🗳️ 中山大學的轉型 ◎ 陳茂雄
+- **2020-04-26** 🎤 評析綠營挺蔡與反蔡的對峙  ◎ 陳茂雄
+- **2020-04-28** 🏥 台灣新聞
+- **2020-04-28** 🏛️ 韓團隊在推動罷韓案過關？  ◎ 陳茂雄
+- **2020-04-29** 🗳️ 修憲是政客的騙局  ◎ 陳茂雄
+- **2020-05-02** 🗳️ 中國國民黨還需要敵人嗎?  ◎ 陳茂雄
+- **2020-05-02** 🏥 李四端的雲端世界
+- **2020-05-03** 📰 日本人真情  中國人假意  ◎ 陳茂雄
+- **2020-05-03** 📰 民視新聞 20200503 金正恩現身遭疑替身 觀察家:應該是真的
+- **2020-05-05** 🗳️ 民進黨下野？難！◎ 陳茂雄
+- **2020-05-05** 📰 民視新聞 20200505「+0」回來了!無新增確診 344人解隔離
+- **2020-05-05** 🏥 台灣人文藝術
+- **2020-05-07** 📰 這！不是新聞 20200507 紓困把人民當賊？挨罵後再「髮夾彎」！
+- **2020-05-07** 📰 民視新聞 20200507 韓國瑜陷罷免危機 王金平傳將救韓
+- **2020-05-08** 🏛️ 王金平救不了韓國瑜  ◎ 陳茂雄
+- **2020-05-08** 🏛️ 民眾黨是台灣民主水準的指標  ◎ 陳茂雄
+- **2020-05-11** 📰 新聞挖挖哇 20200511 看不見的聽力問題
+- **2020-05-11** 📰 民視新聞 20200511 攻勢？守勢？ 藍營高層對救韓戰略沒共識
+- **2020-05-12** 🗳️ 民進黨在吃老本  ◎ 陳茂雄
+- **2020-05-12** 📰 民視新聞 20200512 18%投開票所變動 尹立籲增設網路查詢
+- **2020-05-12** 🗳️ 尊重主人的決定  ◎ 陳茂雄
+- **2020-05-13** 🏛️ 一黨獨大的罪魁禍首  ◎ 陳茂雄
+- **2020-05-13** 🏛️ 一黨獨大的罪魁禍首 ◎ 陳茂雄
+- **2020-05-14** 🤝 有話好說
+- **2020-05-15** 🏥 'Daily Archives: May 15, 2020'
+- **2020-05-15** 📰 賤  ◎ 陳茂雄
+- **2020-05-15** 📰 公視晚間新聞 20200515 台積電宣布赴美設廠 落腳亞利桑那州
+- **2020-05-16** 📰 台灣大搜索 20200516 台出席WHA契機? 美喊聲沒提案有詭
+- **2020-05-18** 🏥 台灣頭條
+- **2020-05-18** 📰 新聞挖挖哇 20200518 天不從人願的婚姻
+- **2020-05-19** 🗳️ 戲裡戲外  ◎ 陳茂雄
+- **2020-05-19** 🏛️ 勿被賭盤誤導  ◎ 陳茂雄
+- **2020-05-20** 📰 新聞挖挖哇 20200520 道義值多少？
+- **2020-05-20** 🏛️ 鯨魚非魚  ◎ 陳茂雄
+- **2020-05-22** 📰 年代向錢看
+- **2020-05-23** 🗳️ 奇怪的中國國民黨  ◎ 陳茂雄
+- **2020-05-23** 📰 新聞深呼吸 20200523 有我在 你OK
+- **2020-05-23** 📰 考監兩院的廢與凍  ◎ 陳茂雄
+- **2020-05-23** 📰 民視異言堂
+- **2020-05-24** 📰 台灣演義 20200524 台灣防疫全紀錄
+- **2020-05-25** 📰 新聞挖挖哇 20200525 夫妻的世界
+- **2020-05-27** 📰 新聞挖挖哇 20200527 路邊骨灰罈別亂撿
+- **2020-05-27** 📰 《公投法》只是一張廢紙  ◎ 陳茂雄
+- **2020-05-27** 🏛️ 由趙天麟當選高雄市黨部主委談派系消長  ◎ 陳茂雄
+- **2020-05-28** 📰 新聞挖挖哇 20200528 濕起來要人命
+- **2020-05-28** 🕯️ 歷史必讀
+- **2020-05-30** 📰 新聞深呼吸
+- **2020-05-30** 📰 新聞深呼吸 20200530 黎明前的曙光
+- **2020-05-30** 📰 台灣大搜索 20200530 解封救不了這行?! 總統不防疫帶頭玩
+- **2020-05-30** 🏥 台灣大搜索
+- **2020-05-30** 📰 週末漫談音樂
+- **2020-05-31** 🗳️ 王淺秋！韓國瑜是以煽動手段當選市長嗎？ ◎ 陳茂雄
+- **2020-06-02** 📰 政壇如戲台  ◎ 陳茂雄
+- **2020-06-02** 📰 'Daily Archives: June 2, 2020'
+- **2020-06-02** 📰 政壇如戲台 ◎ 陳茂雄
+- **2020-06-04** 🕯️ 中國史地
+- **2020-06-05** 📰 新聞挖挖哇 20200605 另一半可以有性隱私嗎?
+- **2020-06-05** 🗳️ 不要爭相消費王金平  ◎陳茂雄
+- **2020-06-05** 📰 由六四看統派的心歷路程 ◎陳茂雄
+- **2020-06-06** 📰 政經最前線
+- **2020-06-06** 📰 台灣頭條
+- **2020-06-06** 📰 公視晚間新聞 20200606 高市長罷免案通過 地方自治史上首例
+- **2020-06-06** 📰 民視新聞 20200606 罷免案通過 韓國瑜向89萬選民鞠躬致謝
+- **2020-06-06** 🏥 週末漫談音樂
+- **2020-06-06** 📰 國際焦點
+- **2020-06-06** 🗳️ 我的肥皂箱
+- **2020-06-07** 📰 台灣演義 20200607 台灣罷免史
+- **2020-06-07** 🏥 T觀點
+- **2020-06-09** 📰 林保華專欄
+- **2020-06-10** 📰 新聞挖挖哇 20200610 惡鄰在身邊
+- **2020-06-10** 🏛️ 僕人、主人、神  ◎ 陳茂雄
+- **2020-06-10** 📰 美國頭條
+- **2020-06-11** 📰 有話好說
+- **2020-06-12** 📰 公視晚間新聞 20200612
+- **2020-06-12** 🗳️ 政治禿鷹該收斂一點  ◎ 陳茂雄
+- **2020-06-13** 🕯️ 藝文
+- **2020-06-15** 📰 台灣啟示錄
+- **2020-06-15** 📰 台灣鄉情與文化
+- **2020-06-16** 🏛️ 國民黨老將避戰呈敗象  ◎陳茂雄
+- **2020-06-16** 🏛️ 國民黨老將避戰呈敗象 ◎陳茂雄
+- **2020-06-16** 🕯️ 大洛杉磯台灣會館
+- **2020-06-17** 📰 新聞挖挖哇 20200617 兄弟姊妹又怎樣？
+- **2020-06-18** 🗳️ 並肩戰術  ◎ 陳茂雄
+- **2020-06-19** 🕯️ 世界史地
+- **2020-06-19** 🎤 陳破空專欄
+- **2020-06-20** 📰 民視異言堂
+- **2020-06-20** 📰 國際焦點
+- **2020-06-20** 🏥 政經最前線
+- **2020-06-20** 🏥 新聞觀測站
+- **2020-06-20** 🗳️ 消失的國界
+- **2020-06-20** 🏥 台灣大搜索
+- **2020-06-20** 📰 週末漫談音樂
+- **2020-06-20** 📰 台灣最前線
+- **2020-06-20** 🗳️ 李四端的雲端世界
+- **2020-06-21** 🏥 台灣人文藝術
+- **2020-06-21** 📰 世界人文
+- **2020-06-21** 📰 我們一家人
+- **2020-06-21** 🏥 海峽論談
+- **2020-06-21** 🏥 驚爆新聞線
+- **2020-06-21** 🏥 股市亮點
+- **2020-06-21** 📰 浮世繪
+- **2020-06-21** 🏥 台灣亮起來
+- **2020-06-21** 🕯️ 民視台灣學堂
+- **2020-06-21** 🏛️ 兩極化效應 ◎ 陳茂雄
+- **2020-06-22** 📰 新聞挖挖哇 20200622 職場升官為何不是你？
+- **2020-06-22** 📰 科技新聞
+- **2020-06-22** 📰 台灣演義
+- **2020-06-22** 🕯️ 影音
+- **2020-06-22** 📰 美國頭條
+- **2020-06-22** 🏥 關鍵時刻
+- **2020-06-22** 📰 每日新聞
+- **2020-06-22** 📰 台灣頭條
+- **2020-06-23** 🗳️ 敗選者只能乾瞪眼 ◎ 陳茂雄
+- **2020-06-23** 🗳️ 敗選者只能乾瞪眼  ◎ 陳茂雄
+- **2020-06-23** 📰 大洛杉磯台灣會館
+- **2020-06-23** 🏥 我們的島
+- **2020-06-23** 🗳️ 焦點影音
+- **2020-06-23** 🏥 台灣史地
+- **2020-06-23** 📰 台美人台加人
+- **2020-06-23** 📰 前進新台灣
+- **2020-06-23** 🏥 美國新聞
+- **2020-06-23** 📰 突發琪想
+- **2020-06-23** 🏥 台灣人文藝術
+- **2020-06-24** 📰 台灣頭條
+- **2020-06-24** 🏛️ 政黨輪替與轉型正義
+- **2020-06-24** 🏥 我的肥皂箱
+- **2020-06-24** 📰 陳茂雄專欄
+- **2020-06-24** 📰 台灣最前線
+- **2020-06-24** 📰 鄭 知道了
+- **2020-06-24** 🏥 專欄
+- **2020-06-24** 📰 台灣向前行
+- **2020-06-24** 📰 美國頭條
+- **2020-06-24** 📰 中國新聞
+- **2020-06-24** 🗳️ 川普時代
+- **2020-06-25** 📰 有話好說
+- **2020-06-25** 📰 南海東海風雲
+- **2020-06-25** 🏛️ 義論
+- **2020-06-25** 🏥 新聞面對面
+- **2020-06-25** 🏛️ 政黨輪替與轉型正義
+- **2020-06-25** 📰 每日新聞
+- **2020-06-25** 📰 前進新台灣
+- **2020-06-25** 📰 科技新聞
+- **2020-06-25** 🗳️ 川普時代
+- **2020-06-25** 📰 鄭 知道了
+- **2020-06-25** 🏥 關鍵時刻
+- **2020-06-25** 📰 影音
+- **2020-06-25** 📰 新聞挖挖哇
+- **2020-06-25** 🏛️ 陳昭南觀點
+- **2020-06-26** 🏥 股市亮點
+- **2020-06-26** 🏛️ 義論
+- **2020-06-26** 🏥 美國新聞
+- **2020-06-26** 📰 國際要聞
+- **2020-06-26** 🗳️ 新台灣加油
+- **2020-06-26** 🏥 年代向錢看
+- **2020-06-26** 📰 突發琪想
+- **2020-06-26** 🏛️ 專欄
+- **2020-06-27** 🏥 保健
+- **2020-06-27** 🏥 台灣人文藝術
+- **2020-06-27** 📰 南海東海風雲
+- **2020-06-27** 📰 台灣向前行
+- **2020-06-27** 📰 台灣鄉情與文化
+- **2020-06-27** 🗳️ 台灣最前線
+- **2020-06-27** 📰 週末漫談音樂
+- **2020-06-28** 📰 戲劇及現實的生活  ◎ 陳茂雄
+- **2020-06-28** 🏛️ 台灣史地
+- **2020-06-28** 📰 我們一家人
+- **2020-06-28** 🏛️ 國際要聞
+- **2020-06-28** 🏥 保健
+- **2020-06-28** 🏛️ 陳昭南觀點
+- **2020-06-28** 🗳️ 焦點影音
+- **2020-06-29** 🗳️ 為何蔣家叛徒會推崇蔣家？◎ 陳茂雄
+- **2020-06-29** 📰 年代向錢看
+- **2020-06-29** 📰 台灣向前行
+- **2020-06-29** 🏥 國際焦點
+- **2020-06-30** 📰 新聞挖挖哇 20200630 送不送安養院
+- **2020-06-30** 🗳️ 歷史可當借鏡但難重演  ◎ 陳茂雄
+- **2020-06-30** 🏥 台灣新聞
+- **2020-07-01** 🗳️ 中國國民黨套錯了公式  ◎ 陳茂雄
+- **2020-07-01** 🏥 有話好說
+- **2020-07-02** 📰 公視晚間新聞 20200702
+- **2020-07-02** 📰 admin
+- **2020-07-05** 🗳️ 韓國瑜案 高雄人也該檢討 ◎ 陳茂雄
+- **2020-07-05** 🗳️ 民視新聞 20200705 民進黨中常委選舉將登場 各派系展開廝殺
+- **2020-07-05** 📰 台灣演義 20200705 台灣的女兒 陳菊
+- **2020-07-06** 🗳️ 日本瓦解了中國國民黨？  ◎ 陳茂雄
+- **2020-07-06** 🗳️ 日本瓦解了中國國民黨？ ◎ 陳茂雄
+- **2020-07-06** 📰 admin
+- **2020-07-06** 📰 辣新聞152
+- **2020-07-07** 📰 辣新聞152
+- **2020-07-08** 🕯️ 歷史必讀
+- **2020-07-09** 📰 新聞挖挖哇 20200709 三倍券放大了
+- **2020-07-09** 🗳️ 民主殿堂或憲政大怪獸？ ◎ 陳茂雄
+- **2020-07-12** 📰 台灣演義
+- **2020-07-12** 🏥 台美人台加人
+- **2020-07-13** 🗳️ 馬英九瓦解了中國國民黨  ◎ 陳茂雄
+- **2020-07-13** 📰 台灣新聞
+- **2020-07-14** 🗳️ 中國國民黨變成小黨了？ ◎ 陳茂雄
+- **2020-07-20** 📰 民視新聞 20200720 綠廢考監釋善意 藍營上演「雙頭馬車」
+- **2020-07-23** 📰 范姜提昂專欄
+- **2020-07-25** 🏥 李四端的雲端世界
+- **2020-07-26** 🏛️ 醜惡的政教勾結  ◎ 陳茂雄
+- **2020-07-28** 🕯️ 台灣人文藝術
+- **2020-07-28** 📰 奴才對主人的感恩？◎ 陳茂雄
+- **2020-08-02** 🗳️ 政治信仰及政治神棍  ◎ 陳茂雄
+- **2020-08-04** 📰 新聞挖挖哇 20200804 羅霈穎猝死，用錢看人性
+- **2020-08-05** 📰 民視新聞 20200805 黃郁芬.林穎孟宣布退出時代力量
+- **2020-08-06** 📰 新聞挖挖哇 20200806 已經說再見？
+- **2020-08-07** 📰 新聞挖挖哇 20200807 要不要撩下去？
+- **2020-08-07** 📰 考監兩院命長得很  ◎ 陳茂雄
+- **2020-08-08** 📰 民視異言堂
+- **2020-08-09** 📰 弊案與賭性 ◎陳茂雄
+- **2020-08-11** 📰 我們的島 20200810 尋找親水的台灣
+- **2020-08-11** 📰 hollywood
+- **2020-08-12** 📰 新聞挖挖哇 20200812人脈有多重要？
+- **2020-08-12** 🗳️ 中國救了民進黨？ ◎ 陳茂雄
+- **2020-08-12** 🏥 保健
+- **2020-08-13** 📰 楊子清 Cliff Yang 音樂教室
+- **2020-08-14** 📰 週末漫談音樂
+- **2020-08-16** 🗳️ 兩大黨都期待韓國瑜 ◎ 陳茂雄
+- **2020-08-17** 📰 楊子清 Cliff Yang 音樂教室
+- **2020-08-18** 🗳️ 無厘頭的悲情 ◎ 陳茂雄
+- **2020-08-19** 📰 新聞挖挖哇 20200819 中獎看人性
+- **2020-08-21** 📰 次奴才  ◎陳茂雄
+- **2020-08-22** 📰 政經最前線
+- **2020-08-22** 📰 台灣大搜索 20200822 中藥硃砂驚人內幕
+- **2020-08-22** 📰 辣新聞152
+- **2020-08-22** 🏥 週末漫談音樂
+- **2020-08-23** 🏛️ 心地險惡卻笨的馬英九  ◎ 陳茂雄
+- **2020-08-24** 🏥 精闢專論
+- **2020-08-24** 📰 辣新聞152
+- **2020-08-25** 🗳️ 民進黨之友馬英九 ◎ 陳茂雄
+- **2020-08-25** 📰 義論
+- **2020-08-28** 📰 奴才也可能自我感覺良好  ◎ 陳茂雄
+- **2020-09-01** 📰 楊遠薰專欄
+- **2020-09-01** 🏥 精闢專論
+- **2020-09-02** 🗳️ 中國催生了美豬美牛  ◎ 陳茂雄
+- **2020-09-02** 📰 新聞挖挖哇 20200902 迷途的少女
+- **2020-09-02** 📰 辣新聞152
+- **2020-09-02** 📰 楊遠薰專欄
+- **2020-09-04** 📰 鄭炳全專欄
+- **2020-09-04** 🗳️ 政客忘了我是誰？ ◎陳茂雄
+- **2020-09-04** 📰 楊遠薰專欄
+- **2020-09-06** 🗳️ 誰說統派認定台灣是中國的一部分？◎陳茂雄
+- **2020-09-10** 🗳️ 民進黨早無藍綠之分 ◎陳茂雄
+- **2020-09-10** 🗳️ 蔡英文是贏在權力與資源 ◎ 陳茂雄
+- **2020-09-10** 🏥 陳昭南觀點
+- **2020-09-11** 🏛️ 由丁允恭事件談民進黨轉型  ◎ 陳茂雄
+- **2020-09-16** 🏛️ 台灣頭條
+- **2020-09-17** 🗳️ 柯P的「免洗筷子」◎ 陳茂雄
+- **2020-09-18** 🗳️ 要舔共 何不回歸祖國？◎ 陳茂雄
+- **2020-09-21** 📰 'Daily Archives: September 21, 2020'
+- **2020-09-22** 📰 中國新聞
+- **2020-09-24** 🗳️ 有「奴才」就有「獨裁」◎ 陳茂雄
+- **2020-09-24** 📰 新聞挖挖哇 20200924 分手的爛理由
+- **2020-09-24** 📰 突發琪想
+- **2020-09-30** 🏥 為「死忠」支持者悲 ◎ 陳茂雄
+- **2020-09-30** 📰 楊子清 Cliff Yang 音樂教室
+- **2020-09-30** 📰 新聞追追追
+- **2020-10-02** 🗳️ 陳玉珍是惡但不笨 ◎ 陳茂雄
+- **2020-10-02** 🏥 'Daily Archives: October 2, 2020'
+- **2020-10-04** 📰 台灣演義 20201004 民主鬥士 黃崑虎
+- **2020-10-05** 🎤 陳破空專欄
+- **2020-10-06** 🗳️ 國際焦點
+- **2020-10-09** 📰 負責任的笨蛋才管學生  ◎ 陳茂雄
+- **2020-10-11** 📰 范姜提昂專欄
+- **2020-10-11** 🗳️ 無可救藥的政黨 ◎ 陳茂雄
+- **2020-10-12** 📰 藝文
+- **2020-10-20** 🎤 台語文天地
+- **2020-10-26** 📰 新聞挖挖哇 20201026 從小到大的傳說
+- **2020-10-26** 📰 楊子清 Cliff Yang 音樂教室
+- **2020-10-29** 🗳️ 川普時代
+- **2020-10-31** 🏥 週末漫談音樂
+- **2020-10-31** 📰 Covid-19 浩劫餘生錄
+- **2020-10-31** 🗳️ 美國新聞
+- **2020-11-05** 🎤 台美人台加人
+- **2020-11-09** 🏥 Covid-19 浩劫餘生錄
+- **2020-11-16** 📰 義論
+- **2020-11-17** 📰 民進黨也扮演惡丐？ ◎ 陳茂雄
+- **2020-11-20** 📰 黃安又要留給誰？◎ 陳茂雄
+- **2020-11-20** 🗳️ 國共兩黨造就台獨 ◎ 陳茂雄
+- **2020-11-21** 🏥 藝文
+- **2020-11-22** 🎤 佔盡便宜還賣乖 ◎陳茂雄
+- **2020-11-22** 📰 李四端的雲端世界
+- **2020-11-23** 📰 台灣演義 20201122 陳淑芳
+- **2020-11-25** 🗳️ 活在蔣氏王朝年代？ ◎ 陳茂雄
+- **2020-11-25** 🗳️ 川普時代
+- **2020-11-25** 🕯️ 台美人台加人
+- **2020-11-26** 🗳️ 川普時代
+- **2020-12-06** 🗳️ 海峽論談
+- **2020-12-07** 📰 我的肥皂箱
+- **2020-12-13** 📰 中國新聞
+- **2020-12-13** 📰 楊子清 Cliff Yang 音樂教室
+- **2020-12-20** 🏛️ 司法對事 監察對人 ◎ 陳茂雄
+- **2020-12-27** 📰 台灣演義 20201227 台灣豬萊時路
+
+- **2019-01-04** 📰 新聞追追追
+- **2019-01-23** 🗳️ 川普時代
+- **2019-01-23** 📰 金恆煒專欄
+- **2019-01-30** 🏥 國際焦點
+- **2019-02-06** 🏥 雲端秘檔
+- **2019-02-09** 📰 股市亮點
+- **2019-03-16** 📰 全球進行式
+- **2019-03-17** 🗳️ 是亂流衰減  非韓流退燒 ◎ 陳茂雄
+- **2019-03-30** 📰 園藝
+- **2019-04-09** 📰 辣新聞152
+- **2019-04-11** 🏥 有話好說
+- **2019-04-22** 📰 恐怖攻擊
+- **2019-05-02** 🗳️ 鄭 知道了
+- **2019-05-28** 🗳️ 誰救了民進黨？◎ 陳茂雄
+- **2019-06-01** 🏥 民視異言堂
+- **2019-06-16** 📰 中天調查報告
+- **2019-06-16** 🗳️ 國際焦點
+- **2019-06-18** 📰 余杰專欄
+- **2019-06-22** 🏥 民視異言堂
+- **2019-06-28** 📰 辣新聞152
+- **2019-07-02** 📰 國民大會
+- **2019-07-12** 📰 辣新聞152
+- **2019-07-16** 📰 台灣鄉情與文化
+- **2019-07-20** 📰 台灣向錢衝
+- **2019-07-22** 📰 鄭 知道了
+- **2019-07-22** 🗳️ 辣新聞152
+- **2019-07-28** 📰 一步一腳印
+- **2019-08-04** 📰 新聞深呼吸
+- **2019-08-09** 🎤 54新觀點
+- **2019-08-19** 📰 浮世繪
+- **2019-09-04** 📰 English Pages
+- **2019-09-08** 🗳️ 川普時代
+- **2019-09-13** 📰 新聞大解讀
+- **2019-09-15** 📰 海峽論談
+- **2019-09-29** 📰 國際焦點
+- **2019-10-01** 📰 台灣會館會訊
+- **2019-10-02** 🏥 保健
+- **2019-10-15** 📰 辣新聞152
+- **2019-10-20** 📰 台灣向錢衝
+- **2019-10-31** 📰 鄭 知道了
+- **2019-11-07** 🕯️ 台灣頭條
+- **2019-11-14** 🗳️ 台灣頭條
+- **2019-12-01** 📰 國際焦點
+- **2019-12-16** 📰 新聞挖挖哇 20191216 你騙的我好苦
+- **2019-12-16** 📰 台灣演義 20191215 世界貿易戰史
+- **2019-12-17** 🕯️ 台灣鄉情與文化
+- **2019-12-18** 📰 新聞挖挖哇 20191218 失控假期
+- **2019-12-19** 📰 新聞挖挖哇 20191219 不受教的孩子
+- **2019-12-23** 📰 新聞挖挖哇 20191223 心臟問題多
+- **2019-12-24** 📰 新聞挖挖哇 20191224 火燒四面佛
+- **2019-12-27** 🗳️ 綠依群眾  藍賴樁腳 ◎ 陳茂雄
+- **2019-12-27** 🗳️ 張善政暗助蔡英文？ ◎ 陳茂雄
+- **2019-12-29** 📰 MIT台灣誌
+- **2019-12-31** 📰 我們的島 20191230 顧好每座橋
+- **2018-01-04** 🕯️ 大洛杉磯台灣會館
+- **2018-01-17** 🏥 保健
+- **2018-01-21** 🗳️ 台灣亮起來
+- **2018-01-26** 🗳️ 海嘯效應 ◎ 陳茂雄/自由時報 2018-01-26
+- **2018-02-04** 📰 築夢新台灣
+- **2018-02-07** 📰 台灣新世紀文教基金會
+- **2018-02-11** 📰 海峽論談
+- **2018-02-12** 📰 鄭 知道了
+- **2018-02-14** 🎤 美國新聞
+- **2018-02-15** 📰 台灣新聞
+- **2018-02-19** 🏥 何清漣專欄
+- **2018-03-21** 🗳️ 民進黨退步了 ◎陳茂雄 2018-03-21
+- **2018-04-03** 📰 看板人物
+- **2018-04-11** 🤝 三幕僚長制 ◎ 陳茂雄 2018-04-12
+- **2018-04-16** 📰 民視異言堂
+- **2018-04-26** 📰 新聞面對面
+- **2018-05-06** 🕯️ 海峽論談
+- **2018-05-10** 📰 關鍵時刻
+- **2018-05-11** 📰 兩岸關係
+- **2018-05-13** 📰 尋找台灣感動力
+- **2018-05-27** 🎤 台美人台加人
+- **2018-06-15** 🏛️ 'Daily Archives: June 15, 2018'
+- **2018-06-15** 📰 關鍵時刻 20180615 萬民擁戴不只在北韓？川金會金正恩瞬間升格成「世界領袖」！
+- **2018-06-24** 📰 民視異言堂
+- **2018-07-07** 📰 黃帝穎專欄
+- **2018-07-22** 🏛️ 海峽論談
+- **2018-07-22** 📰 看板人物
+- **2018-09-10** 📰 新台灣加油
+- **2018-09-17** 🗳️ 新聞看透透
+- **2018-09-23** 🏥 T觀點
+- **2018-09-23** 📰 海峽論談
+- **2018-09-25** 📰 新聞面對面
+- **2018-09-27** 📰 台灣新聞
+- **2018-10-19** 📰 李堅專欄
+- **2018-11-02** 📰 蓬萊島雜誌
+- **2018-11-11** 📰 T觀點
+- **2018-11-28** 📰 台灣演義
+- **2018-12-02** 📰 看板人物
+- **2018-12-30** 🏥 看板人物
+
+- **2017-01-01** 🗳️ 驚爆新聞線
+- **2017-01-06** 📰 台灣沒有朴槿惠 / 陳茂雄 2017-01-06
+- **2017-01-17** 🗳️ 新聞觀測站
+- **2017-01-22** 📰 廖清山專欄
+- **2017-01-28** 📰 黃帝穎專欄
+- **2017-01-30** 🎤 余杰專欄
+- **2017-02-05** 📰 我們的島
+- **2017-02-27** 📰 聚焦2.0
+- **2017-03-07** 📰 歷史必讀
+- **2017-03-07** 📰 余杰專欄
+- **2017-03-07** 🕯️ 中國史地
+- **2017-03-12** 📰 台美人向唐培理唐秋詩致敬
+- **2017-03-17** 📰 獨傲村夫專欄
+- **2017-03-28** 📰 范姜提昂專欄
+- **2017-04-08** 🗳️ 川普時代
+- **2017-04-09** 🕯️ 台灣人文藝術
+- **2017-04-22** 🏥 李四端的雲端世界
+- **2017-04-27** 📰 兩岸關係
+- **2017-05-07** 📰 移動360
+- **2017-05-09** 🏥 好食好事
+- **2017-05-15** 🏛️ 科技新聞
+- **2017-05-17** 🗳️ 前進新台灣
+- **2017-05-22** 🗳️ 中國國民黨地方派系復活 ◎ 陳茂雄 2017-05-22
+- **2017-06-02** 📰 台灣新世紀文教基金會
+- **2017-06-13** 🏛️ 南海東海風雲
+- **2017-06-25** 📰 突發琪想
+- **2017-07-10** 📰 有話好說
+- **2017-07-12** 🗳️ 中國國民黨並非垮在太陽花 ◎陳茂雄 2017-07-12
+- **2017-07-15** 📰 三立調查報告
+- **2017-07-16** 🏥 台灣亮起來
+- **2017-07-18** 📰 台灣新世紀文教基金會
+- **2017-07-19** 🏥 多神教與一神教 ◎ 陳茂雄 2017-07-20
+- **2017-07-19** 🏛️ 政治獻金的特性重創中國國民黨 ◎陳茂雄 / 民報/ 2017-07-20
+- **2017-07-23** 🗳️ 監察院並非太上皇 ◎ 陳茂雄 2017-07-23
+- **2017-07-27** 🏥 維基解密
+- **2017-07-31** 🗳️ 賴清德的危機 ◎ 陳茂雄/ 高雄台灣時報/ 2017-07-31
+- **2017-08-20** 📰 T觀點
+- **2017-09-13** 📰 美國是不能不交的壞朋友 ◎ 陳茂雄 2017-09-14
+- **2017-09-17** 📰 何清漣專欄
+- **2017-10-02** 📰 恐怖攻擊
+- **2017-10-14** 🕯️ 陳破空專欄
+- **2017-10-14** 🗳️ 李四端的雲端世界
+- **2017-10-15** 🏛️ 南海東海風雲
+- **2017-10-23** 📰 一步一腳印
+- **2017-10-25** 📰 科技新聞
+- **2017-10-30** 🏛️ 川普時代
+- **2017-10-30** 🏛️ 美國新聞
+- **2017-10-30** 📰 新聞深呼吸
+- **2017-10-30** 📰 台灣啟示錄
+- **2017-10-31** 🏥 有話好說
+- **2017-11-02** 📰 范姜提昂專欄
+- **2017-11-06** 📰 廖清山專欄
+- **2017-11-06** 📰 台灣人文藝術
+- **2017-11-06** 📰 中天調查報告
+- **2017-11-07** 📰 我們的島
+- **2017-11-08** 📰 台灣新聞 | Taiwan Justice | 台灣公義網
+- **2017-11-08** 📰 精闢專論 | Taiwan Justice | 台灣公義網
+- **2017-11-08** 📰 專欄 | Taiwan Justice | 台灣公義網
+- **2017-11-08** 🗳️ 台灣公義電子報 TaiwanJustice
+- **2017-11-08** 📰 台灣史地 | Taiwan Justice | 台灣公義網
+- **2017-11-08** 📰 admin | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 范姜提昂專欄 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 台灣會館會訊 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 年代向錢看 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 新聞追追追 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 台灣人文藝術 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 陳昭南觀點 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 🏥 '%archive_title% | Taiwan Justice | 台灣公義網'
+- **2017-11-09** 📰 世界史地 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 正晶限時批 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 🗳️ 政黨輪替與轉型正義 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 台灣通史序 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 🗳️ 國際要聞 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 蓬萊島雜誌 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 前進新台灣 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 陳茂雄專欄 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 黃帝穎專欄 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 🏥 大洛杉磯台灣會館 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 🏥 何清漣專欄 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 🗳️ 川普時代 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 🗳️ 從台灣看全球 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 政經看民視 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 新聞看透透 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 🗳️ 南海東海風雲 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 🏥 保健 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 賈伯斯專輯 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 金恆煒專欄 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 舊金山和約 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 驚爆新聞線 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 台灣演義 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 廖清山專欄 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 兩岸關係 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 🏥 園藝 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 🏥 影音 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 林保華專欄 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 新台灣加油 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 54新觀點 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 動畫 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 中國新聞 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 🎤 中國史地 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 李堅專欄 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 歷史必讀 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 🕯️ 陳破空專欄 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 🏥 台美人台加人 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 新聞面對面 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 獨傲村夫專欄 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 🗳️ 每日新聞 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 世界人文 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 📰 台灣新世紀文教基金會 | Taiwan Justice | 台灣公義網
+- **2017-11-09** 🏥 新聞挖挖哇 | Taiwan Justice | 台灣公義網
+- **2017-11-10** 🗳️ 排獨的初選制度 ◎ 陳茂雄/自由時報 2017-11-10
+- **2017-11-12** 📰 海峽論談
+- **2017-11-13** 📰 台灣啟示錄
+- **2017-11-13** 🏛️ 南海東海風雲
+- **2017-11-13** 📰 看板人物
+- **2017-11-13** 📰 林保華專欄
+- **2017-11-14** 📰 新聞挖挖哇 20171113 魔神仔遮眼
+- **2017-11-14** 📰 新聞挖挖哇 20171114 有沒有人愛？
+- **2017-11-14** 📰 廖清山專欄
+- **2017-11-16** 📰 新聞挖挖哇 20171116 生死選擇
+- **2017-11-16** 🗳️ 能防弊才可能成為好制度  ◎ 陳茂雄 2017-11-16
+- **2017-11-16** 📰 只有政治犯　沒有刑事犯？ ◎ 陳茂雄 2017-11-16
+- **2017-11-17** 📰 新聞挖挖哇 20171117 與鬼過招千百回
+- **2017-11-18** 🕯️ 台美人台加人
+- **2017-11-20** 📰 新聞挖挖哇 20171120 看牙心驚驚
+- **2017-11-21** 📰 新聞挖挖哇 20171121 台語的魅力
+- **2017-11-22** 📰 年代向錢看
+- **2017-11-22** 📰 新台灣加油
+- **2017-11-22** 🏥 新聞面對面
+- **2017-11-22** 📰 新聞挖挖哇
+- **2017-11-22** 📰 新聞挖挖哇 20171122 訪傅達仁談瑞士行
+- **2017-11-22** 📰 年代向錢看 20171122 法拍向錢看!? 情債，錢債太難清?!
+- **2017-11-22** 📰 新台灣加油 20171122 陳慶男:2015年12月9日見熊光華 想邀馬總統幫海科館剪彩 時間兜的攏?
+- **2017-11-22** 📰 '新聞追追追 20171122 週刊爆: 獵雷聯貸關鍵期 簡太郎二度入府見吳敦義副總統'
+- **2017-11-22** 📰 台灣新聞
+- **2017-11-22** 📰 影音
+- **2017-11-22** 🗳️ 監察權的謬誤  ◎ 陳茂雄 2017-11-22
+- **2017-11-22** 🏛️ 國際要聞
+- **2017-11-22** 🗳️ 陳茂雄專欄
+- **2017-11-22** 🗳️ 中國新聞
+- **2017-11-22** 📰 前進新台灣
+- **2017-11-22** 📰 關鍵時刻
+- **2017-11-22** 🕯️ 專欄
+- **2017-11-23** 📰 54新觀點 20171124 放肆蓋違建沒在怕 靠議員撐腰好囂張！惡房東偷工減料 小心住進”活棺材”
+- **2017-11-23** 📰 新聞挖挖哇 20171123 結婚的倒楣事
+- **2017-11-24** 🏥 新聞挖挖哇 20171124 病菌集中營
+- **2017-11-25** 📰 政經看民視 20171125 陳慶男媒體賣力演出?! 獵雷艦起死回生?
+- **2017-11-26** 📰 築夢新台灣
+- **2017-11-26** 🏥 雲端秘檔
+- **2017-11-27** 📰 中天調查報告
+- **2017-11-27** 📰 政經看民視 20171127 法院跑程序? 三中案馬英九被告身分首度出庭!
+- **2017-11-27** 📰 新聞挖挖哇 20171127 勞基修法怎麼看?!
+- **2017-11-27** 🏛️ 政黨輪替與轉型正義
+- **2017-11-28** 📰 受到蔣家庇蔭當然要承擔蔣家所造的孽 ◎ 陳茂雄 2017-11-28
+- **2017-11-28** 📰 政經看民視 20171128 李明哲遭中國法院重判五年 不上訴!
+- **2017-11-28** 📰 我們的島
+- **2017-11-28** 📰 年代向錢看 20171128 低薪大地雷! 賴清德變苦主!?
+- **2017-11-29** 📰 新聞挖挖哇 201711229 政壇新戰力
+- **2017-11-29** 📰 鄭文龍律師 12/10, 12/13 分別在洛杉磯台灣會館及爾灣場老教會演說︰台灣司法改革及陪審團
+- **2017-11-29** 🎤 全美台灣人權協會年會暨鄭南榕紀念獎、王康陸人權獎頒獎典禮 12/09 聖地牙哥舉行(得獎人鄭文龍、王泰和、黃根深)
+- **2017-11-29** 📰 政經看民視 20171129 北韓搗彈挑動敏感神經 美日韓讉責將祭出更嚴厲制裁
+- **2017-11-30** 📰 '政經看民視 20171130 三中案首度被告身分出庭! 馬英九: 絕對經得起考驗'
+- **2017-11-30** 🗳️ 蔣萬安與柯P是兩個極端 ◎ 陳茂雄 2017-11-30
+- **2017-11-30** 🏥 有錢判生  無錢判死？ ◎ 陳茂雄 2017-11-29
+- **2017-11-30** 📰 新聞挖挖哇 20171130 亡魂伸冤
+- **2017-12-01** 📰 新聞挖挖哇 20171201 哈利王子想婚了
+- **2017-12-01** 📰 民視台灣學堂 20171202 客家歷史 共下來讀:義民與義民信仰 —林柔辰、吳學明
+- **2017-12-01** 🗳️ 台灣救不了李明哲 ◎陳茂雄 /台灣時報社論 2017-12-2
+- **2017-12-01** 📰 54新觀點 20171201 千禧案連金管會都不敢碰? 吸金52億卻因台灣與印尼無邦交 受害者求助無門
+- **2017-12-01** 📰 '民視台灣學堂 20171202 民視政經 : 煤炭在19世紀的重要性與台灣命運—許忠信'
+- **2017-12-01** 📰 在台的中國人造籠網台灣 ◎ 陳茂雄 2017-12-01
+- **2017-12-01** 📰 政經看民視 20171201 內幕! 2018有變數! 綠營忙著內戰 藍坐收漁翁之利
+- **2017-12-02** 📰 李四端的雲端世界 20171202 金正恩的秘密武器
+- **2017-12-02** 🗳️ 民視新聞 20171202 2018六都選舉－誰披綠袍選新北？吳秉叡拚出線 蘇貞昌相陪
+- **2017-12-02** 📰 李四端的雲端世界
+- **2017-12-02** 📰 360大世界 20171202 辛巴威總統請辭舉國歡騰！”土匪式”改革毀經濟 3顆蛋要價1千億
+- **2017-12-02** 📰 政經看民視 20171202 新閣蜜月期已過? 壓垮賴清德的是他…..
+- **2017-12-02** 📰 公視晚間新聞 20171202 防範北韓威脅　夏威夷核彈警報再度恢復
+- **2017-12-02** 📰 余杰專欄
+- **2017-12-02** 📰 全球進行式
+- **2017-12-02** 📰 驚爆新聞線 20171202 不只抓猴 徵信社上天遁地無所不能
+- **2017-12-03** 🏥 台灣亮起來
+- **2017-12-03** 📰 消失的國界
+- **2017-12-03** 🕯️ '民視台灣學堂 20171204 台灣的覺醒: 覺醒意義與成功經濟戰—杜正勝'
+- **2017-12-03** 📰 看板人物 20171203 郭台銘找她 白佩玉‧立功
+- **2017-12-03** 🗳️ 民視台灣學堂
+- **2017-12-03** 📰 看板人物
+- **2017-12-03** 📰 尋找台灣感動力
+- **2017-12-04** 🕯️ 陳破空專欄
+- **2017-12-08** 📰 年代晚報 20171208 爆! 慶富解約關鍵日! 破局? 百億搶救成功?
+- **2017-12-08** 🗳️ 前進新台灣 20171208 來不及搬！新北突襲拆2棟違建套房　為選舉鋪路建政績？！
+- **2017-12-08** 📰 國會最前線 20171208 柯P戰違建！雙北互嗆藍綠大選誰出線？
+- **2017-12-10** 🗳️ 貪腐的病毒在台灣到處蔓延 ◎陳茂雄 /民報月刊 2017-12-10
+- **2017-12-11** 📰 國會最前線
+- **2017-12-11** 🤝 年代晚報
+- **2017-12-12** 🏥 新聞挖挖哇 20171212 酒錢誰來付
+- **2017-12-12** 🏥 新台灣加油 20171212 川普急開戰有因？北韓生化戰劑技術成熟　美國軍演必戴「防毒面具」掌握情資？！
+- **2017-12-12** 🏥 政經看民視 20171212 大鳥籠公投法強渡關山 籠子加大裡面沒有鳥?
+- **2017-12-14** 📰 54新觀點 20171214 軍事專家來揭密! 台灣國軍黑鷹當海鷗用 明明戰力十足卻拿來救護?
+- **2017-12-14** 📰 '民視台灣學堂 20171215 創世記的故事: 難道連一個好人也沒有? —盧俊義'
+- **2017-12-14** 🏥 新聞挖挖哇 20171214 何守正：沒小三，若有一頭撞死
+- **2017-12-14** 📰 '民視台灣學堂 20171215 台灣憲法學: 各種平等概念之關係及意義(二)—許慶雄'
+- **2017-12-14** 📰 民視台灣學堂 20171214 台語講世事:台灣的空污問題 —許慧盈、陳豐惠
+- **2017-12-18** 📰 強盜也喊救命? ◎ 陳茂雄 2017-12-19
+- **2017-12-19** 🏥 新聞挖挖哇
+- **2016-03-03** 🗳️ '社論: 小英兼主席非為以黨領政 ◎陳茂雄/ 高雄台灣時報/ 2016-03-03'
+- **2016-04-15** 🤝 政黨輪替與轉型正義
+- **2016-05-17** 🗳️ 台美人台加人
+- **2016-06-14** 🗳️ 2012大選
+- **2016-07-14** 📰 何清漣專欄
+- **2016-07-21** 🗳️ 黃帝穎專欄
+- **2016-08-16** 🎤 低調的偉人-周烒明醫師 ◎ 陳茂雄 08-16-2016
+- **2016-08-19** 📰 園藝
+- **2016-08-24** 📰 台聯真寂寞 ◎ 陳茂雄/高雄台灣時報社論 08-25-2016
+- **2016-08-24** 📰 蓬萊島雜誌
+- **2016-08-25** 📰 黃帝穎專欄
+- **2016-08-30** 🎤 園藝
+- **2016-08-30** 📰 English Pages
+- **2016-08-30** 🎤 大洛杉磯台灣會館
+- **2016-09-14** 📰 林保華專欄
+- **2016-09-19** 📰 恐怖攻擊
+- **2016-09-19** 📰 正晶限時批
+- **2016-09-29** 📰 09/29-2016-台灣公義電子報新聞摘要
+- **2016-10-12** 🏛️ 年代向錢看
+- **2016-11-15** 🗳️ 科技新聞
+- **2016-11-21** 📰 台灣演義
+- **2016-11-27** 🎤 大洛杉磯台灣會館
+- **2016-12-02** 📰 兆豐銀洗錢案
+- **2016-12-04** 📰 海峽論談
+- **2016-12-07** 📰 恐怖攻擊
+- **2016-12-22** 🏛️ 修憲是騙  制憲才真  /陳茂雄/台灣時報 2016-12-22
+- **2016-12-30** 📰 新政府應關閉監委後門條款 ◎ 陳茂雄 2016-12-30
+
+- **2015-01-01** 🗳️ 解讀馬英九的「和」與「合」◎陳茂雄/台灣時報社論 01-01-2015
+- **2015-01-04** 🤝 影音
+- **2015-01-15** 📰 有話好說
+- **2015-04-14** 📰 台灣新聞
+- **2015-05-24** 📰 何清漣專欄
+- **2015-06-15** 🏥 台灣新聞
+- **2015-06-16** 📰 English Pages
+- **2015-06-25** 📰 蓬萊島雜誌
+- **2015-07-20** 📰 English Pages
+- **2015-10-02** 🗳️ 陽光下的螢火蟲 ◎ 陳茂雄 10-02-2015
+- **2015-10-07** 🏥 保健
+- **2015-10-08** 📰 動畫
+- **2015-10-11** 📰 台灣演義
+- **2015-10-12** 📰 專欄
+- **2015-10-23** 🕯️ 中國史地
+- **2015-11-19** 🗳️ 中國國民黨會泡沫化嗎？◎ 陳茂雄 11-19-2015
+- **2015-11-30** 📰 新聞挖挖哇
+- **2015-12-01** 🗳️ 一笨,一惡的兩大黨 ◎陳茂雄/ 高雄台灣時報社論/ 2015-12-02
+- **2015-12-03** 📰 恐怖攻擊
+- **2015-12-25** 🗳️ 吸票機及提款機 ◎ 陳茂雄 12-25-2015
+- **2015-12-26** 📰 黃帝穎專欄
+- **2014-02-15** 🗳️ 台灣脫離不了中國的人治模式 ◎陳茂雄 02-15-2014
+- **2014-04-30** 📰 黃帝穎專欄
+- **2014-04-30** 🗳️ 國民黨包藏禍心 ◎陳茂雄 04-30-3014
+- **2014-05-02** 🕯️ 專欄
+- **2014-06-01** 📰 'Daily Archives: June 1, 2014'
+- **2014-07-23** 📰 國共兩黨催生台獨 ◎陳茂雄 07-23-2014
+- **2014-08-31** 🗳️ '專論: 柯文哲將輸在戰略 ◎ 陳茂雄/ 高雄台灣時報/ 2014-09-01'
+- **2014-09-25** 🗳️ 台灣新聞
+
+- **2013-03-07** 📰 English Pages
+- **2013-03-18** 📰 admin
+- **2013-04-08** 🏥 前進新台灣
+- **2013-04-28** 🗳️ 「反統」並不等於「台獨」◎陳茂雄 04-25-2013
+- **2013-05-06** 🗳️ 中國國民黨抗拒雙贏的機會？◎陳茂雄 05-06-2013
+- **2013-05-07** 📰 admin
+- **2013-05-09** 📰 admin
+- **2013-06-16** 📰 '專論: 馬政權何需政務官？ ◎ 陳茂雄/ 高雄台灣時報/ 2013-06-16'
+- **2013-06-26** 🗳️ 林保華專欄
+- **2013-07-04** 🗳️ 對中政策失分易 得分難 ◎陳茂雄 07-04-2013
+- **2013-07-30** 🏥 English Pages
+- **2013-11-28** 📰 獨派人士的迷失  ◎陳茂雄 11-29-2013
+- **2013-12-02** 📰 尸位素餐 ◎陳茂雄12-02-2013
+- **2013-12-30** 🗳️ 路線之爭拖垮民進黨 ◎陳茂雄/高雄台灣時報社論 12-30-2013
+- **2012-01-19** 🗳️ 買票作票見聞錄
+- **2012-01-26** 🗳️ 買票作票見聞錄
+- **2012-01-26** 🗳️ 賣票是罪大惡極嗎？◎陳茂雄
+- **2012-01-30** 🗳️ 要分贓也應留意吃相 ◎陳茂雄 01-30-2012
+- **2012-02-02** 🗳️ 買票作票見聞錄
+- **2012-05-10** 🏥 admin
+- **2012-05-10** 🗳️ 世代交替的關鍵不在年齡  ◎陳茂雄
+- **2012-05-10** 🗳️ 白道之惡 ◎陳茂雄
+- **2012-08-05** 🕯️ 馬政權與中華民國之間的矛盾  ◎陳茂雄 08-05-2012
+- **2012-08-13** 📰 林保華專欄
+- **2012-11-17** 🏥 反改革就不要眼紅  ◎陳茂雄 11-18-2012
+- **2012-11-25** 🏥 馬英九怎麼會是「阿斗」？  ◎陳茂雄 11-25-2012
+- **2011-10-06** 📰 賈伯斯專輯
+- **2011-10-08** 📰 科技新聞
+- **2011-10-12** 📰 賈伯斯專輯
+- **2011-11-09** 🎤 兩岸關係
+- **2011-11-25** 🎤 中國新聞
+
+<details>
+<summary>📰 檔案紀錄 — 9225 則提及（2011–2025），去重後 8429 條</summary>
+
+
+- **2025-01-01** 📰 'Tag: 大洛杉磯台灣會館2024年12月號會訊'
+- **2025-01-02** 📰 'Tag: 台海進入新年後不平靜'
+- **2025-01-02** 📰 'Tag: 台海進入新年後不平靜，解放軍在台灣週邊海空域進行今年首次“戰警警巡”'
+- **2025-01-07** 📰 'Tag: Stormy Daniels'
+- **2025-01-16** 📰 'Tag: 兩岸交流'
+- **2025-01-16** 📰 'Tag: 港澳駐處'
+- **2025-01-16** 📰 'Tag: 狠狠抖內幕'  (6×)
+- **2025-01-16** 📰 'Tag: 預算'
+- **2025-01-21** 📰 'Tag: 以立合唱團'
+- **2025-01-25** 📰 'Tag: Kristi Noem'  (2×)
+- **2025-01-27** 📰 'Tag: 南海衝突'
+- **2025-01-27** 📰 'Tag: 洛杉磯'
+- **2025-01-27** 📰 'Tag: 洛杉磯「以立合唱團」'
+- **2025-01-27** 📰 'Tag: 輕歌劇「學生王子」'
+- **2025-01-29** 📰 'Tag: 袴田巖'
+- **2025-01-29** 📰 'Tag: 袴田巖纏訟58年改判無罪'
+- **2025-01-29** 📰 'Tag: 國家補償'
+- **2025-01-30** 📰 'Tag: 新住民'
+- **2025-01-30** 📰 'Tag: 罷免遍地開花'
+- **2025-01-30** 📰 'Tag: 國會失序'
+- **2025-01-31** 🗳️ 'Tag: 北市議員選舉'
+- **2025-01-31** 📰 'Tag: 林右昌'  (2×)
+- **2025-01-31** 🗳️ 'Tag: 青年人才'
+- **2025-01-31** 🗳️ 'Tag: 年輕世代'
+- **2025-01-31** 📰 'Tag: 蘇巧慧'
+- **2025-02-03** 📰 'Tag: 地緣政治'
+- **2025-02-05** 📰 'Tag: 雞蛋成加州藍領階級奢侈品'
+- **2025-02-05** 📰 'Tag: 十萬顆蛋被偷'
+- **2025-02-05** 📰 'Tag: 美國蛋價飛漲'
+- **2025-02-05** 📰 'Tag: 蛋價'
+- **2025-02-05** 📰 'Tag: 違憲'  (2×)
+- **2025-02-05** 📰 'Tag: 蛋荒'
+- **2025-02-08** 📰 'Tag: 劉喬安涉詐欺毒品遭通緝 在波士頓被捕'
+- **2025-02-08** 📰 'Tag: 詐欺毒品'
+- **2025-02-08** 📰 'Tag: 劉喬安'
+- **2025-02-09** 📰 'Tag: 時代雜誌'
+- **2025-02-09** 📰 'Tag: 侵犯和殖民本質'
+- **2025-02-09** 📰 'Tag: 馬英九無能'  (2×)
+- **2025-02-09** 📰 'Tag: 台灣維新黨'  (2×)
+- **2025-02-09** 📰 'Tag: 社論：川普大揮關稅大刀目的何在？對美國經濟有何影響？'
+- **2025-02-09** 📰 'Tag: 中國軍機雙向繞台'  (2×)
+- **2025-02-09** 📰 'Tag: 麗娟歌舞集'  (2×)
+- **2025-02-09** 📰 'Tag: 筱君 台灣 PLUS'  (2×)
+- **2025-02-09** 📰 'Tag: 台灣納入太平洋防衛網絡'  (2×)
+- **2025-02-09** 🏥 'Tag: 中國經濟之病'  (2×)
+- **2025-02-09** 📰 'Tag: 波羅的海國家能源獨立'
+- **2025-02-09** 📰 'Tag: 〈洛杉磯看台〉'  (2×)
+- **2025-02-09** 📰 'Tag: 川普接管加薩說'
+- **2025-02-09** 🏥 'Tag: 台灣演義'  (6×)
+- **2025-02-10** 📰 'Tag: 羅素'  (2×)
+- **2025-02-10** 📰 'Tag: 蔡有才密會'  (2×)
+- **2025-02-10** 📰 'Tag: 圖博人'  (2×)
+- **2025-02-10** 📰 'Tag: 三中案'  (2×)
+- **2025-02-10** 📰 'Tag: 不當黨產條例'  (2×)
+- **2025-02-10** 📰 'Tag: 蚵棚下的白色難題'  (2×)
+- **2025-02-10** 📰 'Tag: 學生示威'  (2×)
+- **2025-02-10** 📰 'Tag: 教育改革'  (2×)
+- **2025-02-10** 📰 'Tag: 一個老人'  (2×)
+- **2025-02-10** 📰 'Tag: 破壞台海和平'
+- **2025-02-10** 📰 'Tag: 賴揆鐵腕'  (2×)
+- **2025-02-11** 📰 'Tag: 慕尼黑安全報告'
+- **2025-02-11** 📰 'Tag: 慕尼黑安全會議（Munich Security Conference）'
+- **2025-02-11** 📰 'Tag: 美國拒簽AI峰會宣言'
+- **2025-02-11** 📰 'Tag: 美國成為需要防範的風險'
+- **2025-02-11** 📰 'Tag: 川普欲奪土地'
+- **2025-02-11** 📰 'Tag: 科林研發不配合調查'
+- **2025-02-11** 📰 'Tag: 美國會查半導體設備流向'
+- **2025-02-11** 📰 'Tag: 美國反對過度監管AI'
+- **2025-02-12** 📰 'Tag: FEMA'  (2×)
+- **2025-02-12** 📰 'Tag: 保護市民'
+- **2025-02-12** 📰 'Tag: 海外助選團'  (2×)
+- **2025-02-12** 📰 'Tag: 智慧'
+- **2025-02-12** 📰 'Tag: 空氣清淨機'  (2×)
+- **2025-02-12** 📰 'Tag: 總經理重判11年'  (2×)
+- **2025-02-12** 📰 'Tag: ‘Rough Power’'  (2×)
+- **2025-02-12** 📰 'Tag: Strengthen U.S.-Taiwan Economic Cooperation'  (2×)
+- **2025-02-12** 📰 'Tag: 中國經濟公私之變'  (2×)
+- **2025-02-12** 📰 'Tag: 台灣風箏'  (2×)
+- **2025-02-12** 📰 'Tag: 法院包庇政院'  (2×)
+- **2025-02-12** 📰 'Tag: 開動印鈔機'  (2×)
+- **2025-02-12** 📰 'Tag: 二七部隊'  (2×)
+- **2025-02-12** 📰 'Tag: 台灣政治運動史'  (2×)
+- **2025-02-12** 📰 'Tag: 洛杉磯造勢大會'  (2×)
+- **2025-02-12** 📰 'Tag: 攻擊癌細胞'  (2×)
+- **2025-02-12** 📰 'Tag: 反腐高官莫建成'  (2×)
+- **2025-02-12** 📰 'Tag: 法治國原則'  (2×)
+- **2025-02-12** 📰 'Tag: Chen’s trial should be investigated'  (2×)
+- **2025-02-12** 📰 'Tag: 編號6900'  (2×)
+- **2025-02-13** 📰 'Tag: 中國軍艦現蹤澳洲海域'
+- **2025-02-13** 📰 'Tag: 背叛烏克蘭'
+- **2025-02-13** 📰 'Tag: 甜椒'  (2×)
+- **2025-02-13** 📰 'Tag: 台日韓菲'  (2×)
+- **2025-02-13** 📰 'Tag: 張正傑'  (2×)
+- **2025-02-13** 📰 'Tag: 日本高齡人口創新高'  (2×)
+- **2025-02-13** 📰 'Tag: 美尋求建立開放和包容的亞太秩序'
+- **2025-02-13** 📰 'Tag: 台灣需要的價值'
+- **2025-02-13** 📰 'Tag: 十五字方針'  (2×)
+- **2025-02-13** 📰 'Tag: (Patrick Chou) 周白博士'  (2×)
+- **2025-02-13** 📰 'Tag: 反目'  (2×)
+- **2025-02-13** 📰 'Tag: 小農遇上大老闆'  (2×)
+- **2025-02-13** 📰 'Tag: 魯迅'  (2×)
+- **2025-02-13** 📰 'Tag: 郭維租醫師'  (2×)
+- **2025-02-13** 📰 'Tag: The National Interest'
+- **2025-02-13** 📰 'Tag: 正副總統'
+- **2025-02-13** 📰 'Tag: When The World Met Taiwan'  (2×)
+- **2025-02-13** 📰 'Tag: 美防長參加北約會議'
+- **2025-02-13** 📰 'Tag: 低薪'
+- **2025-02-13** 📰 'Tag: 蘇巧慧立委'  (2×)
+- **2025-02-13** 📰 'Tag: 骨提琴手'
+- **2025-02-13** 📰 'Tag: Rep. Royce'  (2×)
+- **2025-02-13** 📰 'Tag: 破冰'  (2×)
+- **2025-02-13** 📰 'Tag: 美眾院共同決議'  (2×)
+- **2025-02-13** 📰 'Tag: 國民大會'
+- **2025-02-13** 📰 'Tag: Ed Royce'  (3×)
+- **2025-02-13** 📰 'Tag: 文化美食園遊會'
+- **2025-02-14** 📰 'Tag: 二二八防止政府暴行線上研討會'
+- **2025-02-14** 📰 'Tag: Taiwan 228 Atrocities Prevention Online Seminar'
+- **2025-02-15** 📰 'Tag: 搶攻選區'  (2×)
+- **2025-02-15** 📰 'Tag: 習天子'  (2×)
+- **2025-02-15** 📰 'Tag: 包定教授'  (2×)
+- **2025-02-15** 📰 'Tag: 惡質假消息'  (2×)
+- **2025-02-15** 📰 'Tag: 同袍情'  (2×)
+- **2025-02-15** 📰 'Tag: suicide attempt'  (2×)
+- **2025-02-15** 📰 'Tag: 長青教室'  (5×)
+- **2025-02-15** 📰 'Tag: 台灣人獅會'  (2×)
+- **2025-02-15** 📰 'Tag: 中共「清網」'  (2×)
+- **2025-02-15** 📰 'Tag: 軍費增幅十年新高'  (2×)
+- **2025-02-15** 📰 'Tag: 富錦變'  (2×)
+- **2025-02-16** 📰 'Tag: 韓粉直播'  (2×)
+- **2025-02-16** 📰 'Tag: 獲釋'  (2×)
+- **2025-02-16** 📰 'Tag: 嘉義東市場'  (2×)
+- **2025-02-16** 📰 'Tag: 29th Summer Universiade 2017'
+- **2025-02-16** 📰 'Tag: 中共十八大'  (2×)
+- **2025-02-16** 📰 'Tag: EDITORIAL'  (2×)
+- **2025-02-16** 📰 'Tag: 海外蔡英文後援會'  (2×)
+- **2025-02-16** 📰 'Tag: Opening Ceremony'  (2×)
+- **2025-02-16** 📰 'Tag: 緊急狀態'
+- **2025-02-16** 📰 'Tag: 謝金燕'  (2×)
+- **2025-02-16** 📰 'Tag: 勇鷹高教機'
+- **2025-02-16** 📰 'Tag: 劉玫伶'  (2×)
+- **2025-02-16** 📰 'Tag: A Broadway style Taiwanese Opera'  (2×)
+- **2025-02-16** 📰 'Tag: 228七十週年'  (2×)
+- **2025-02-16** 📰 'Tag: 葛來儀（Bonnie Glaser）'  (2×)
+- **2025-02-16** 📰 'Tag: 博弈跳票'  (2×)
+- **2025-02-16** 📰 'Tag: 黃慶三'  (2×)
+- **2025-02-16** 📰 'Tag: 基本工資調漲方案'  (2×)
+- **2025-02-16** 📰 'Tag: 劉耕名'  (2×)
+- **2025-02-16** 📰 'Tag: 暗號'  (2×)
+- **2025-02-16** 📰 'Tag: 希臘'  (2×)
+- **2025-02-16** 📰 'Tag: 巴國移民局長'  (2×)
+- **2025-02-16** 🏛️ 'Tag: 鴻海'
+- **2025-02-16** 📰 'Tag: It is in the U.S. interest to have a stable and prosperous Taiwan'  (2×)
+- **2025-02-16** 📰 'Tag: 蔡英文勝韓國瑜17.4%'  (2×)
+- **2025-02-16** 📰 'Tag: 羅艾斯'
+- **2025-02-16** 📰 'Tag: 外國寶寶'  (2×)
+- **2025-02-16** 📰 'Tag: 韋恩斯坦性醜聞'  (2×)
+- **2025-02-17** 📰 'Tag: 謝長廷'  (2×)
+- **2025-02-18** 📰 'Tag: 北市長人選'  (2×)
+- **2025-02-18** 📰 'Tag: 英國雜誌《經濟學人》'  (2×)
+- **2025-02-18** 📰 'Tag: 丁守中'  (2×)
+- **2025-02-18** 📰 'Tag: 腹腔微創手術'  (2×)
+- **2025-02-18** 📰 'Tag: 軍公教近8成支持年改'  (2×)
+- **2025-02-18** 📰 'Tag: 遍地開花'  (3×)
+- **2025-02-18** 📰 'Tag: 自己查自己'  (2×)
+- **2025-02-19** 📰 'Tag: 柯宋結盟'  (2×)
+- **2025-02-19** 📰 'Tag: 拉塞爾'
+- **2025-02-19** 📰 'Tag: 辣椒'  (2×)
+- **2025-02-19** 📰 'Tag: 官方首席喉舌《人民日報》'  (2×)
+- **2025-02-19** 📰 'Tag: 323行政院「血腥鎮壓」反黑箱服貿抗議民眾'  (2×)
+- **2025-02-19** 📰 'Tag: 台南議員'  (2×)
+- **2025-02-19** 📰 'Tag: 台灣經典歌曲'  (2×)
+- **2025-02-19** 📰 'Tag: 蔡有才'  (2×)
+- **2025-02-19** 📰 'Tag: 王世堅'  (2×)
+- **2025-02-19** 📰 'Tag: 台灣文化體育協會年會'  (2×)
+- **2025-02-19** 📰 'Tag: 習皇帝登基'  (2×)
+- **2025-02-19** 📰 'Tag: 特殊語言'  (2×)
+- **2025-02-19** 📰 'Tag: 解約'  (2×)
+- **2025-02-19** 📰 'Tag: 走馬燈'  (2×)
+- **2025-02-19** 📰 'Tag: 頭破血流'  (2×)
+- **2025-02-19** 🕯️ 'Tag: 賴清德'
+- **2025-02-19** 📰 'Tag: Freedom in the World 2018'  (2×)
+- **2025-02-22** 🕯️ 'Tag: 不義象徵仍聳立'
+- **2025-02-22** 📰 'Tag: 歐煌坤長老安息主懷'
+- **2025-02-24** 📰 'Tag: 台灣主權'
+- **2025-02-24** 🕯️ 'Tag: 228追思紀念大會'
+- **2025-02-27** 📰 'Tag: 轉型正義'
+- **2025-02-28** 📰 'Tag: 新加坡'  (2×)
+- **2025-02-28** 📰 'Tag: 228'
+- **2025-02-28** 📰 'Tag: 朱立倫傅崑萁'
+- **2025-02-28** 📰 'Tag: PCE'
+- **2025-02-28** 📰 'Tag: 年代向錢看'  (5×)
+- **2025-03-02** 🕯️ 'Tag: 台灣介心靈日'
+- **2025-03-02** 🕯️ 'Tag: 228 七十八週年'
+- **2025-03-03** 📰 'Tag: 避免關稅'
+- **2025-03-04** 📰 'Tag: 美國夢'
+- **2025-03-05** 📰 'Tag: 邊緣化'
+- **2025-03-05** 🏛️ 'Tag: 傅崐萁'  (2×)
+- **2025-03-05** 📰 'Tag: 川普國會演說'
+- **2025-03-05** 📰 'Tag: 「聯中制蘇」與「聯俄制中」◎ 陳茂雄'
+- **2025-03-06** 🗳️ 'Tag: 香港'
+- **2025-03-07** 📰 'Tag: 習近平面對「兩會」◎ 林保華'
+- **2025-03-07** 📰 'Tag: 趙少康何須生氣！ ◎ 陳茂雄'
+- **2025-03-07** 📰 'Tag: 大洛杉磯台灣會館2025年2月會訊'
+- **2025-03-08** 📰 'Tag: 中國電信公司'
+- **2025-03-09** 📰 'Tag: 馬斯克'  (2×)
+- **2025-03-10** 📰 'Tag: 藍營只剩下解散國會的牌 ◎陳茂雄'
+- **2025-03-10** 📰 'Tag: 獨立'
+- **2025-03-10** 📰 'Tag: 攻擊目標'
+- **2025-03-11** 📰 'Tag: 中國灰色地帶戰術'
+- **2025-03-11** 📰 'Tag: 川普2.0 外交與戰略'
+- **2025-03-11** 📰 'Tag: 台海議題更佳解方'
+- **2025-03-11** 📰 'Tag: 亞亞在台灣'
+- **2025-03-11** 📰 'Tag: 賴總統兒子'
+- **2025-03-11** 📰 'Tag: 當兵'
+- **2025-03-11** 📰 'Tag: 烏克蘭接受停火30天協議'
+- **2025-03-11** 📰 'Tag: 股市'
+- **2025-03-11** 📰 'Tag: 台海南海'
+- **2025-03-11** 📰 'Tag: 經濟衰退'
+- **2025-03-11** 📰 'Tag: 烏克蘭同意停火30天協議'
+- **2025-03-11** 📰 'Tag: 武統'
+- **2025-03-11** 📰 'Tag: 居留許可'
+- **2025-03-11** 📰 'Tag: 退役少將栗正傑致歉'
+- **2025-03-11** 📰 'Tag: 美立即重啟情報共享及軍援'
+- **2025-03-11** 📰 'Tag: 川普：不擔心賣壓'
+- **2025-03-12** 📰 'Tag: 民意制裁'
+- **2025-03-12** 📰 'Tag: 川普對進口鋼鋁課徵25%關稅'
+- **2025-03-12** 📰 'Tag: 密蘇里州就新冠疫情狀告中國勝訴'
+- **2025-03-12** 📰 'Tag: 軍援'
+- **2025-03-12** 📰 'Tag: 美跨黨派參議員推台灣駐美代表處正名'
+- **2025-03-12** 📰 'Tag: 美國關稅'
+- **2025-03-12** 📰 'Tag: 片面改變台海現狀'
+- **2025-03-12** 📰 'Tag: 藍白否決'
+- **2025-03-12** 📰 'Tag: 聯準會監管副主席'
+- **2025-03-12** 📰 'Tag: 俄烏停火方案'
+- **2025-03-12** 📰 'Tag: 烏克蘭同意30天停火協議'
+- **2025-03-12** 📰 'Tag: 俄羅斯'
+- **2025-03-12** 📰 'Tag: 藍白否決覆議案'
+- **2025-03-12** 📰 'Tag: 川普特使赴莫斯科'
+- **2025-03-12** 📰 'Tag: 台積電赴美投資'
+- **2025-03-12** 📰 'Tag: 進口鋼鋁'
+- **2025-03-12** 📰 'Tag: 歷史罪人'
+- **2025-03-12** 📰 'Tag: 澤倫斯基未對川普不敬'
+- **2025-03-12** 📰 'Tag: 白宮口角國際譁然'
+- **2025-03-12** 📰 'Tag: 中央銀行總裁楊金龍'
+- **2025-03-12** 📰 'Tag: 央行'
+- **2025-03-12** 📰 'Tag: Michelle Bowman'
+- **2025-03-12** 📰 'Tag: 外匯存底'
+- **2025-03-12** 📰 'Tag: 全體台灣人利益'
+- **2025-03-12** 📰 'Tag: 杜特蒂押送海牙'
+- **2025-03-12** 📰 'Tag: 川普加徵鋼鋁稅'
+- **2025-03-12** 📰 'Tag: 實兵演練'
+- **2025-03-12** 📰 'Tag: 日本課美國米700%關稅'
+- **2025-03-12** 📰 'Tag: Rodrigo Duterte'
+- **2025-03-12** 📰 'Tag: 總預算財劃法覆議案'
+- **2025-03-12** 📰 'Tag: 川普經濟政策'
+- **2025-03-12** 📰 'Tag: 烏克蘭接受停火提案'
+- **2025-03-12** 📰 'Tag: 美國商品'
+- **2025-03-12** 📰 'Tag: 反制'
+- **2025-03-12** 📰 'Tag: 英國鋼鋁'
+- **2025-03-12** 📰 'Tag: 停火'
+- **2025-03-12** 📰 'Tag: MDM發揮功能'
+- **2025-03-12** 📰 'Tag: 美對台承諾不變'
+- **2025-03-12** 📰 'Tag: 國際架構'
+- **2025-03-12** 📰 'Tag: 川普50天革命拆解國際架構'
+- **2025-03-12** 📰 'Tag: 加拿大報復川普'
+- **2025-03-13** 📰 'Tag: 南加州三歡市燕子日'
+- **2025-03-13** 📰 'Tag: 洪仲丘案辯護律師'
+- **2025-03-13** 📰 'Tag: 華為'  (2×)
+- **2025-03-13** 📰 'Tag: 挺台灣大遊行'
+- **2025-03-14** 📰 'Tag: 軍事審判制度'
+- **2025-03-14** 📰 'Tag: 短評：「人民授權」川普揮大刀？'
+- **2025-03-15** 📰 'Tag: 米其林三星'  (2×)
+- **2025-03-16** 📰 'Tag: 谷立言'
+- **2025-03-17** 📰 'Tag: 科技翻轉教育'  (2×)
+- **2025-03-17** 📰 'Tag: 偽造文書'  (2×)
+- **2025-03-17** 📰 'Tag: 還我美麗島'
+- **2025-03-17** 📰 'Tag: 徐若瑄'
+- **2025-03-17** 📰 'Tag: 改善不力'  (2×)
+- **2025-03-17** 📰 'Tag: Ling Ling Chang'  (2×)
+- **2025-03-17** 📰 'Tag: 中國變得更強大'
+- **2025-03-17** 📰 'Tag: 後三十年鄧式「跛腳改革」'  (2×)
+- **2025-03-17** 📰 'Tag: 蔡友才飭回'
+- **2025-03-17** 📰 'Tag: 世大運'  (2×)
+- **2025-03-17** 📰 'Tag: 臺灣宏觀電視'  (2×)
+- **2025-03-17** 📰 'Tag: 中天調查報告'  (2×)
+- **2025-03-17** 📰 'Tag: 自動簽名'
+- **2025-03-17** 📰 'Tag: 公義'  (2×)
+- **2025-03-17** 📰 'Tag: 回首50年小故事'  (2×)
+- **2025-03-17** 📰 'Tag: TAIWANNE'
+- **2025-03-17** 📰 'Tag: 兩岸一家親'  (2×)
+- **2025-03-17** 📰 'Tag: 從槍手到門神'  (2×)
+- **2025-03-17** 📰 'Tag: a major break with decades of U.S. policy on China'  (2×)
+- **2025-03-17** 📰 'Tag: 美國務院亞太助理國務卿'  (2×)
+- **2025-03-17** 📰 'Tag: 削弱中國'
+- **2025-03-17** 📰 'Tag: 國軍立即備戰操演'
+- **2025-03-17** 📰 'Tag: 低價豆'  (2×)
+- **2025-03-17** 📰 'Tag: 韓國瑜要升高金獅湖水位、養魚吃孑孓'  (2×)
+- **2025-03-17** 📰 'Tag: 陳美齡'  (2×)
+- **2025-03-17** 📰 'Tag: 川普撤銷拜登子女特勤局維安'
+- **2025-03-17** 📰 'Tag: 保島不保國'  (2×)
+- **2025-03-17** 📰 'Tag: 陪審團'
+- **2025-03-17** 📰 'Tag: 馬英九賣台'  (2×)
+- **2025-03-17** 📰 'Tag: 最不受歡迎的民選總統'
+- **2025-03-17** 📰 'Tag: 經濟增長方式'  (2×)
+- **2025-03-17** 📰 'Tag: 希臘緣何成為奶瓶國家'  (2×)
+- **2025-03-18** 📰 'Tag: 確保台灣人民不受威脅'
+- **2025-03-19** 📰 'Tag: 請願'
+- **2025-03-19** 📰 'Tag: FAPA'
+- **2025-03-19** 📰 'Tag: 駐美代表處正名法案'
+- **2025-03-19** 📰 'Tag: 魔爪'
+- **2025-03-19** 📰 'Tag: S.Res.86'
+- **2025-03-19** 📰 'Tag: 賴總統定調'
+- **2025-03-19** 📰 'Tag: 持久和平'
+- **2025-03-19** 📰 'Tag: 台灣現狀不應被武力改變'
+- **2025-03-19** 📰 'Tag: 移英港人'
+- **2025-03-19** 📰 'Tag: 攻擊基礎設施'
+- **2025-03-19** 📰 'Tag: 俄烏互控'
+- **2025-03-19** 📰 'Tag: 葉門'
+- **2025-03-19** 📰 'Tag: 川普自砍國營媒體'
+- **2025-03-19** 📰 'Tag: 富察在中國被判刑'
+- **2025-03-19** 📰 'Tag: 台美人請願'
+- **2025-03-19** 📰 'Tag: 青年運動（Houthi）'
+- **2025-03-19** 📰 'Tag: 澤倫斯基與川普熱線1小時'
+- **2025-03-19** 📰 'Tag: 反分裂法'
+- **2025-03-19** 📰 'Tag: 華為涉賄歐洲議會議員'
+- **2025-03-19** 📰 'Tag: 美中台關係'
+- **2025-03-20** 📰 'Tag: 美國廢除教育部'
+- **2025-03-20** 📰 'Tag: 安全忠（Quanzhong An）'
+- **2025-03-20** 📰 'Tag: 大野城跡'
+- **2025-03-20** 📰 'Tag: 施凱爾（Keir Starmer）'
+- **2025-03-20** 📰 'Tag: 匈牙利'
+- **2025-03-20** 📰 'Tag: 聖東台灣同鄉會'
+- **2025-03-20** 📰 'Tag: 國民黨嗆台積電 中共猛批李嘉誠 ◎林保華'
+- **2025-03-20** 📰 'Tag: 反馬斯克潮'
+- **2025-03-20** 📰 'Tag: 日本國定遺址'
+- **2025-03-20** 📰 'Tag: 英國新一代核潛艦'
+- **2025-03-20** 📰 'Tag: 柯文哲政治獻金案'
+- **2025-03-20** 📰 'Tag: 洛杉磯大罷免(賣台立委)站'
+- **2025-03-20** 📰 'Tag: 國民黨與共產黨'
+- **2025-03-20** 📰 'Tag: 歐盟高峰會挺烏共識'
+- **2025-03-20** 📰 'Tag: 特斯拉撤展'
+- **2025-03-20** 📰 'Tag: 歐盟關切中國軍演'
+- **2025-03-20** 📰 'Tag: 台美互補非不公平貿易'
+- **2025-03-20** 📰 'Tag: 骯髒15國'
+- **2025-03-20** 📰 'Tag: 內政部長劉世芳'
+- **2025-03-20** 📰 'Tag: 直接利益'
+- **2025-03-20** 📰 'Tag: 維護台海現狀'
+- **2025-03-20** 📰 'Tag: 露營區'
+- **2025-03-21** 📰 'Tag: 新黨游智彬'
+- **2025-03-21** 📰 'Tag: 美新一代戰機F-47'
+- **2025-03-21** 📰 'Tag: 對遇操演'
+- **2025-03-21** 📰 'Tag: 王毅拜會日相'
+- **2025-03-21** 📰 'Tag: 政務建議'
+- **2025-03-21** 📰 'Tag: 台灣議題'
+- **2025-03-21** 📰 'Tag: 朝野衝突'
+- **2025-03-21** 📰 'Tag: 新台派上線'  (4×)
+- **2025-03-21** 📰 'Tag: F-47'
+- **2025-03-21** 📰 'Tag: 玉山艦接受美軍艦補給'
+- **2025-03-21** 📰 'Tag: 特斯拉'
+- **2025-03-21** 📰 'Tag: 反馬斯克浪潮'
+- **2025-03-21** 📰 'Tag: 行政院政務顧問'
+- **2025-03-21** 📰 'Tag: 直播'  (3×)
+- **2025-03-21** 🗳️ 'Tag: 威州最高院法官選舉'
+- **2025-03-22** 🏥 'Tag: FBI'
+- **2025-03-23** 📰 'Tag: 川普政策'
+- **2025-03-23** 📰 'Tag: 俄烏停火'
+- **2025-03-23** 📰 'Tag: 台灣面臨中共秘密政治戰'
+- **2025-03-23** 📰 'Tag: 川普驅逐委內瑞拉移民'
+- **2025-03-23** 📰 'Tag: Catch大錢潮'  (2×)
+- **2025-03-24** 📰 'Tag: 美眾院外委會通過台灣旅行法草案'  (2×)
+- **2025-03-24** 📰 'Tag: 全球科技前100強'  (2×)
+- **2025-03-24** 📰 'Tag: 「標題殺人」'  (2×)
+- **2025-03-24** 📰 'Tag: 出招穩、準、狠'  (2×)
+- **2025-03-24** 📰 'Tag: 好萊塢的黑暗之心'  (2×)
+- **2025-03-24** 📰 'Tag: 李光耀'  (2×)
+- **2025-03-24** 📰 'Tag: 溯及既往 合法合憲'  (2×)
+- **2025-03-24** 📰 'Tag: 中共中紀委'  (2×)
+- **2025-03-24** 📰 'Tag: 張榮味入監'  (2×)
+- **2025-03-24** 📰 'Tag: 賴揆'  (4×)
+- **2025-03-24** 📰 'Tag: 特偵組吃案'  (2×)
+- **2025-03-24** 📰 'Tag: 心理師'  (2×)
+- **2025-03-24** 📰 'Tag: 第二屆亞洲合唱節'  (2×)
+- **2025-03-24** 📰 'Tag: 一晚睡10小時 早死機率增30％'  (2×)
+- **2025-03-24** 📰 'Tag: 七逃囝仔'  (2×)
+- **2025-03-24** 📰 'Tag: 大家講看嘜'  (2×)
+- **2025-03-24** 📰 'Tag: 西雅圖咖啡'  (2×)
+- **2025-03-24** 📰 'Tag: Formosa'  (2×)
+- **2025-03-24** 📰 'Tag: 蘇煥智'  (2×)
+- **2025-03-24** 📰 'Tag: 亡羊補牢'  (2×)
+- **2025-03-24** 📰 'Tag: 特朗普是中國人眼中的傻瓜'  (2×)
+- **2025-03-25** 📰 'Tag: 不對稱作戰'
+- **2025-03-26** 🗳️ 'Tag: Mike Johnson'
+- **2025-03-27** 📰 'Tag: 阻藍白立委夜闖立院議場'
+- **2025-03-27** 📰 'Tag: 彈藥儲存'
+- **2025-03-27** 📰 'Tag: 「台灣保證實施法案」（Taiwan Assurance Implementation Act）'
+- **2025-03-27** 📰 'Tag: 反制統戰滲透'
+- **2025-03-27** 📰 'Tag: 日政府首度公布因應「台灣有事」計畫 6天撤12萬人'
+- **2025-03-27** 📰 'Tag: 京華城'
+- **2025-03-27** 📰 'Tag: 蘇米州'
+- **2025-03-27** 📰 'Tag: 美準空軍部長'
+- **2025-03-27** 📰 'Tag: 北約秘書長警告蒲亭'
+- **2025-03-27** 📰 'Tag: 烏克蘭'
+- **2025-03-27** 📰 'Tag: 美加關係緊密時代結束'
+- **2025-03-27** 📰 'Tag: 陳佩琪指柯文哲血尿'
+- **2025-03-27** 📰 'Tag: 貼封條'
+- **2025-03-27** 📰 'Tag: 梅因克（Troy Meink）'
+- **2025-03-27** 📰 'Tag: 台灣安全'
+- **2025-03-27** 📰 'Tag: 美參院外委會'
+- **2025-03-27** 📰 'Tag: 林飛帆'  (2×)
+- **2025-03-27** 📰 'Tag: 群組洩密案'
+- **2025-03-27** 📰 'Tag: 美國安群組誤加媒體人'
+- **2025-03-27** 📰 'Tag: 川普向進口車課25%關稅'
+- **2025-03-27** 📰 'Tag: Mark Rutte'
+- **2025-03-27** 📰 'Tag: 與台交往限制'
+- **2025-03-27** 📰 'Tag: 戒護就醫'
+- **2025-03-28** 📰 'Tag: 言論自由'
+- **2025-03-28** 📰 'Tag: 立院空轉'
+- **2025-03-29** 📰 'Tag: 加州灣區'
+- **2025-03-29** 📰 'Tag: 「愛台灣」當然不是民進黨的專利 ◎陳茂雄'
+- **2025-03-30** 📰 'Tag: 機密'
+- **2025-03-30** 📰 'Tag: 蔡正元'  (2×)
+- **2025-03-30** 📰 'Tag: 劉世芳'
+- **2025-03-30** 📰 'Tag: 海外台灣人參與罷免'
+- **2025-04-01** 📰 'Tag: 立院榮譽顧問'  (7×)
+- **2025-04-02** 📰 'Tag: 長和港口竟淪為中國核心利益 ◎ 林保華'
+- **2025-04-02** 📰 'Tag: 緬甸強震'
+- **2025-04-02** 📰 'Tag: 海嘯'
+- **2025-04-02** 📰 'Tag: 外交'
+- **2025-04-02** 📰 'Tag: 送中'
+- **2025-04-07** 📰 'Tag: 馬斯克罕見與川普政策唱反調'
+- **2025-04-08** 🗳️ 'Tag: 美國務院'
+- **2025-04-08** 📰 'Tag: Taiwanese Americans Conference 2025'
+- **2025-04-09** 📰 'Tag: 國民黨只有黨工，哪有公民運動？ ◎ 林保華'
+- **2025-04-13** 📰 'Tag: 投資人卻步'
+- **2025-04-13** 📰 'Tag: 馬克宏擬承認巴勒斯坦為國家'
+- **2025-04-13** 📰 'Tag: 美欲控制烏克蘭天然氣管線'
+- **2025-04-13** 🏥 'Tag: 伊朗'
+- **2025-04-13** 🗳️ 'Tag: 吳崢'
+- **2025-04-13** 📰 'Tag: 殖民式要求'
+- **2025-04-13** 📰 'Tag: 美議員：川普拿關稅玩123木頭人'
+- **2025-04-13** 📰 'Tag: 美國盼伊朗降低鈾濃度'
+- **2025-04-14** 📰 'Tag: 川普政府凍結哈佛22億美元補助'
+- **2025-04-14** 📰 'Tag: 劉思吟、賴苡任、滿志剛'
+- **2025-04-14** 📰 'Tag: 烏克蘭城市蘇米（Sumy）'
+- **2025-04-14** 📰 'Tag: Meta反壟斷案開庭'
+- **2025-04-14** 📰 'Tag: 俄飛彈襲擊烏克蘭蘇米市'
+- **2025-04-14** 📰 'Tag: 方案'
+- **2025-04-14** 📰 'Tag: 世維大會發言人迪里夏提（Dilshat Reshit）'
+- **2025-04-14** 📰 'Tag: 哈佛大學拒依川普政府要求改革'
+- **2025-04-14** 📰 'Tag: 關稅'
+- **2025-04-14** 📰 'Tag: 對等關稅激起了美中強大的火花'
+- **2025-04-14** 📰 'Tag: 中國試探川普底線'
+- **2025-04-14** 📰 'Tag: 台籍詐騙犯嫌被送中'
+- **2025-04-14** 📰 'Tag: 砍國務院一半預算'
+- **2025-04-14** 📰 'Tag: 柬埔寨扈從中國'
+- **2025-04-14** 📰 'Tag: 世界維吾爾代表大會發言人涉替中國收集情報'
+- **2025-04-15** 📰 'Tag: 台灣真切的朋友'
+- **2025-04-16** 📰 'Tag: 歐盟'
+- **2025-04-16** 📰 'Tag: 柬埔寨'
+- **2025-04-16** 📰 'Tag: 巨債'
+- **2025-04-16** 🗳️ 'Tag: 中資'
+- **2025-04-17** 📰 'Tag: 蔣萬安拋倒閣說'
+- **2025-04-17** 📰 'Tag: 美最高法院宣布 聽取出生公民權口頭辯論'
+- **2025-04-17** 📰 'Tag: 94要客訴'
+- **2025-04-18** 📰 'Tag: 兩黨參議員訪台表支持'
+- **2025-04-18** 📰 'Tag: 美國會挺台'
+- **2025-04-18** 📰 'Tag: 海洋微塑汙染'  (2×)
+- **2025-04-18** 📰 'Tag: 害蟲'  (2×)
+- **2025-04-19** 📰 'Tag: 人治'  (2×)
+- **2025-04-19** 📰 'Tag: Challenge'
+- **2025-04-19** 📰 'Tag: 5成贊成取消18％'
+- **2025-04-19** 📰 'Tag: 老領導'  (2×)
+- **2025-04-19** 📰 'Tag: ITPC Irvine'
+- **2025-04-19** 📰 'Tag: 漲薪'  (2×)
+- **2025-04-19** 📰 'Tag: 「風是自由的象徵」'  (2×)
+- **2025-04-19** 📰 'Tag: 蔬果園藝交流在美洲'  (3×)
+- **2025-04-19** 📰 'Tag: 死要錢'  (2×)
+- **2025-04-19** 📰 'Tag: 駱家輝'  (2×)
+- **2025-04-19** 📰 'Tag: 工讀生'
+- **2025-04-19** 📰 'Tag: 得民眾心'  (2×)
+- **2025-04-19** 📰 'Tag: 平均主義'  (2×)
+- **2025-04-20** 🏥 'Tag: 話時代人物'
+- **2025-04-20** 📰 'Tag: 罷免案'
+- **2025-04-20** 📰 'Tag: 台美關稅談判'
+- **2025-04-20** 📰 'Tag: 羈押禁見'
+- **2025-04-21** 🏛️ 'Tag: 顧立雄'
+- **2025-04-21** 📰 'Tag: 關稅戰'
+- **2025-04-22** 📰 'Tag: 社論：藍白各懷鬼胎，倒閣倒賴喊假的'
+- **2025-04-24** 📰 'Tag: 連署'
+- **2025-04-25** 📰 'Tag: 陳建仁：祈禱賴總統參加新教宗就職 台梵邦交穩固'
+- **2025-04-25** 📰 'Tag: 陸委會'  (5×)
+- **2025-04-26** 🏥 'Tag: 揪關節痛病灶'  (2×)
+- **2025-04-26** 📰 'Tag: 天災政治學'
+- **2025-04-26** 📰 'Tag: 政治訴求不攻自破'
+- **2025-04-26** 📰 'Tag: 洗錢集團'  (2×)
+- **2025-04-26** 📰 'Tag: 築夢新臺灣'  (2×)
+- **2025-04-26** 📰 'Tag: 濱哥'  (2×)
+- **2025-04-26** 📰 'Tag: 102歲的蔡瑞雲阿嬷'  (2×)
+- **2025-04-26** 📰 'Tag: 六四感言'  (2×)
+- **2025-04-26** 📰 'Tag: 肯定台灣民主'
+- **2025-04-26** 📰 'Tag: 台灣憲改時機'  (2×)
+- **2025-04-26** 📰 'Tag: 實質平均薪資'
+- **2025-04-26** 📰 'Tag: 藍白凱道集會'
+- **2025-04-26** 🗳️ 'Tag: 陳其邁'  (3×)
+- **2025-04-26** 📰 'Tag: 嗶支付'  (2×)
+- **2025-04-26** 📰 'Tag: 政治經濟文化學'  (2×)
+- **2025-04-26** 📰 'Tag: 嫁接'
+- **2025-04-26** 📰 'Tag: 憨膽'  (2×)
+- **2025-04-26** 📰 'Tag: 中國事務委員會'  (2×)
+- **2025-04-26** 📰 'Tag: 白佩玉'  (2×)
+- **2025-04-26** 📰 'Tag: 年金改革'  (2×)
+- **2025-04-26** 📰 'Tag: 專家疑電訊系統遭駭'
+- **2025-04-26** 📰 'Tag: 川普與小英通話'  (2×)
+- **2025-04-28** 📰 'Tag: 憲法'
+- **2025-04-29** 📰 'Tag: 國民黨新北黨部書記長陳貞容羈押禁見'
+- **2025-04-29** 📰 'Tag: 罷免涉不實連署'
+- **2025-04-29** 📰 'Tag: 加拿大總理卡尼（Mark Carney）'
+- **2025-04-30** 📰 'Tag: 台灣共識'  (2×)
+- **2025-04-30** 📰 'Tag: 訴訟照打'  (2×)
+- **2025-05-05** 📰 'Tag: 禿鷹'
+- **2025-05-05** 📰 'Tag: 卓榮泰'
+- **2025-05-05** 📰 'Tag: 楊金龍'
+- **2025-05-07** 📰 'Tag: 中國為境外敵對勢力'
+- **2025-05-07** 🏛️ 'Tag: 黎智英'
+- **2025-05-10** 📰 'Tag: 外交部'
+- **2025-05-11** 📰 'Tag: 憲訴法釋憲案'
+- **2025-05-11** 📰 'Tag: 藍白毀憲亂政'
+- **2025-05-12** 📰 'Tag: 鐵血宰相'  (2×)
+- **2025-05-12** 📰 'Tag: 盧俊義'  (2×)
+- **2025-05-12** 📰 'Tag: 頭家來開講'  (2×)
+- **2025-05-12** 📰 'Tag: 週刊爆韓國瑜北農年領逾400萬'  (2×)
+- **2025-05-12** 📰 'Tag: 決定退休'  (2×)
+- **2025-05-15** 📰 'Tag: 憲法法庭'
+- **2025-05-15** 📰 'Tag: 軍費'
+- **2025-05-15** 📰 'Tag: 比利時'
+- **2025-05-15** 📰 'Tag: 北約'
+- **2025-05-16** 📰 'Tag: 川普限制出生公民權爭議'
+- **2025-05-17** 📰 'Tag: 張旭成'  (2×)
+- **2025-05-17** 📰 'Tag: 友邦'  (2×)
+- **2025-05-17** 📰 'Tag: 防弊'  (2×)
+- **2025-05-17** 📰 'Tag: 反核'
+- **2025-05-17** 📰 'Tag: 獨占事業'  (2×)
+- **2025-05-17** 📰 'Tag: 中影'
+- **2025-05-17** 📰 'Tag: 神經行為學觀察'  (2×)
+- **2025-05-17** 📰 'Tag: 東亞四國合唱團'  (2×)
+- **2025-05-17** 📰 'Tag: 民進黨拚立委過半'  (2×)
+- **2025-05-17** 📰 'Tag: 尚毅夫'  (3×)
+- **2025-05-17** 📰 'Tag: 街友'
+- **2025-05-17** 📰 'Tag: 高中生關心轉型正義'  (2×)
+- **2025-05-17** 📰 'Tag: 尊重'  (2×)
+- **2025-05-17** 📰 'Tag: 聖荷西'  (2×)
+- **2025-05-17** 📰 'Tag: 國民黨黨中央下令阻《促轉》'  (2×)
+- **2025-05-17** 📰 'Tag: 徐旭東'  (2×)
+- **2025-05-17** 📰 'Tag: 高額年終獎金'  (2×)
+- **2025-05-17** 📰 'Tag: 馬祖奮起'  (2×)
+- **2025-05-17** 📰 'Tag: 二仁溪'  (2×)
+- **2025-05-17** 📰 'Tag: Cabinet task force to probe Mega Bank'  (2×)
+- **2025-05-17** 📰 'Tag: 兆豐銀'  (3×)
+- **2025-05-18** 📰 'Tag: 恐怖攻擊'
+- **2025-05-19** 📰 'Tag: Amnesty International'
+- **2025-05-19** 📰 'Tag: 台電'
+- **2025-05-20** 📰 'Tag: IPAC'
+- **2025-05-20** 📰 'Tag: 對俄新制裁'
+- **2025-05-20** 📰 'Tag: 歐盟英國力挺烏克蘭'
+- **2025-05-20** 🗳️ 'Tag: 聽證會'
+- **2025-05-20** 📰 'Tag: 撤銷數千人簽證'
+- **2025-05-20** 📰 'Tag: 索羅門群島部長退出抗中聯盟'
+- **2025-05-20** 📰 'Tag: 中國正對美發動史上最大間諜戰'
+- **2025-05-21** 📰 'Tag: 園藝講座'  (4×)
+- **2025-05-21** 📰 'Tag: 軍售流程'
+- **2025-05-21** 📰 'Tag: 後援會'  (2×)
+- **2025-05-21** 📰 'Tag: 英國通膨率'
+- **2025-05-21** 📰 'Tag: 黃捷打臉'
+- **2025-05-21** 📰 'Tag: 黨團會走自己的路'  (2×)
+- **2025-05-21** 📰 'Tag: 不赦扁的三個不通'  (2×)
+- **2025-05-21** 📰 'Tag: 2012年總統大選'  (2×)
+- **2025-05-21** 📰 'Tag: 魚夫'
+- **2025-05-21** 📰 'Tag: 黃帝穎律師'
+- **2025-05-21** 📰 'Tag: 滅火器樂團'  (2×)
+- **2025-05-21** 📰 'Tag: 驅逐台船'  (2×)
+- **2025-05-21** 📰 'Tag: 逾百億'
+- **2025-05-21** 📰 'Tag: 香港「回歸」20年'  (2×)
+- **2025-05-21** 📰 'Tag: 小蜜蜂'
+- **2025-05-21** 📰 'Tag: 攜百餘張偽造信用卡'
+- **2025-05-21** 📰 'Tag: 台灣太太'  (2×)
+- **2025-05-21** 📰 'Tag: 總統邀共商國是'
+- **2025-05-21** 📰 'Tag: 潘孟安電話'
+- **2025-05-21** 📰 'Tag: 海洋'  (2×)
+- **2025-05-21** 📰 'Tag: 政策跳票'
+- **2025-05-21** 📰 'Tag: 21世紀是誰的世紀'  (2×)
+- **2025-05-21** 📰 'Tag: 盧比歐允改革軍售流程'
+- **2025-05-21** 📰 'Tag: 長者'  (2×)
+- **2025-05-21** 📰 'Tag: 美議員提法案強化援台效率'
+- **2025-05-21** 📰 'Tag: 國恥'  (2×)
+- **2025-05-21** 📰 'Tag: 哪ē來行著政治這條路'  (2×)
+- **2025-05-21** 📰 'Tag: 228事件'  (2×)
+- **2025-05-21** 📰 'Tag: 受難者家屬'  (2×)
+- **2025-05-23** 📰 'Tag: 哈佛大學'
+- **2025-05-23** 📰 'Tag: 利益衝突'
+- **2025-05-27** 🏥 'Tag: 政治籌碼'
+- **2025-05-28** 📰 'Tag: 不在籍投票'
+- **2025-05-29** 📰 'Tag: 聯發科'
+- **2025-06-03** 📰 'Tag: 美國國務卿盧比歐（Marco Rubio）'
+- **2025-06-05** 📰 'Tag: 身分證'
+- **2025-06-08** 📰 'Tag: 區域聯防'
+- **2025-06-08** 📰 'Tag: 罷免3階'
+- **2025-06-08** 📰 'Tag: 大刪預算造成中央與地方困境'
+- **2025-06-09** 📰 'Tag: 美航太業憂關稅保護適得其反'
+- **2025-06-09** 📰 'Tag: 川普將對飛機零件徵稅'
+- **2025-06-12** 🗳️ 'Tag: 黃國昌'
+- **2025-06-14** 📰 'Tag: 摀鼻'  (2×)
+- **2025-06-14** 📰 'Tag: 永遠支持台灣'  (2×)
+- **2025-06-14** 📰 'Tag: 抗議年改'  (2×)
+- **2025-06-14** 📰 'Tag: 兆豐匯款資料'  (2×)
+- **2025-06-14** 📰 'Tag: 2017大洛杉磯台美人傳統週'  (2×)
+- **2025-06-14** 📰 'Tag: 洪仁德醫師'
+- **2025-06-14** 📰 'Tag: 時代都一處'  (2×)
+- **2025-06-14** 📰 'Tag: 探監'
+- **2025-06-14** 📰 'Tag: 違法展限'  (2×)
+- **2025-06-14** 📰 'Tag: 兆豐案'  (2×)
+- **2025-06-14** 📰 'Tag: 做秀'
+- **2025-06-14** 📰 'Tag: 北美巡演'
+- **2025-06-14** 📰 'Tag: 垃圾危台'  (2×)
+- **2025-06-14** 📰 'Tag: 犧牲'  (2×)
+- **2025-06-14** 📰 'Tag: 父女情仇'  (2×)
+- **2025-06-14** 📰 'Tag: 台灣說不出口'  (2×)
+- **2025-06-14** 📰 'Tag: 科技利器'  (2×)
+- **2025-06-15** 📰 'Tag: 滾雪球'  (2×)
+- **2025-06-15** 📰 'Tag: 台1線'
+- **2025-06-15** 📰 'Tag: 「柯張會」黑箱'  (2×)
+- **2025-06-15** 📰 'Tag: 李顯龍'  (2×)
+- **2025-06-15** 📰 'Tag: 綠推除惡草批市府失能'
+- **2025-06-15** 📰 'Tag: 法學教授許章潤'
+- **2025-06-15** 📰 'Tag: 挑戰新聞'  (2×)
+- **2025-06-15** 📰 'Tag: 鷹'  (2×)
+- **2025-06-16** 📰 'Tag: 黃健庭'
+- **2025-06-16** 📰 'Tag: 川普支持率穩定'
+- **2025-06-17** 📰 'Tag: 洩政府資訊給國台辦'
+- **2025-06-17** 📰 'Tag: 公款讓親信爽出國'  (2×)
+- **2025-06-17** 📰 'Tag: 南加社區'  (2×)
+- **2025-06-17** 📰 'Tag: 兒童人權'  (2×)
+- **2025-06-17** 📰 'Tag: 出境'  (2×)
+- **2025-06-17** 📰 'Tag: 觀塘案環'  (2×)
+- **2025-06-17** 📰 'Tag: 自由需要勇氣與代價'
+- **2025-06-17** 📰 'Tag: 被火紋身的沙灘'  (2×)
+- **2025-06-17** 📰 'Tag: 新鴉片戰爭'
+- **2025-06-17** 📰 'Tag: 伊朗戰略誤判'
+- **2025-06-17** 📰 'Tag: 以色列重創最高領袖核心圈'
+- **2025-06-17** 📰 'Tag: 後藤新平'  (2×)
+- **2025-06-17** 📰 'Tag: 實行問責制'
+- **2025-06-17** 📰 'Tag: 正義黑心油案'  (2×)
+- **2025-06-17** 📰 'Tag: 小英領悟'  (2×)
+- **2025-06-17** 📰 'Tag: 房價解藥'  (2×)
+- **2025-06-17** 📰 'Tag: Resistance'  (2×)
+- **2025-06-17** 📰 'Tag: 自己人戕害自己人'  (2×)
+- **2025-06-17** 📰 'Tag: 罷團告發鄭正鈐涉違國安法'
+- **2025-06-17** 📰 'Tag: 小英旋風捲起裙尾效應'  (2×)
+- **2025-06-17** 📰 'Tag: 杜正勝'  (2×)
+- **2025-06-17** 📰 'Tag: 老師'  (2×)
+- **2025-06-17** 📰 'Tag: 鄭正鈐接受陳情收費'
+- **2025-06-17** 📰 'Tag: 嚴詠能'  (2×)
+- **2025-06-17** 📰 'Tag: THOMAS L. FRIEDMAN'  (2×)
+- **2025-06-17** 📰 'Tag: 走向統一'
+- **2025-06-17** 📰 'Tag: 台灣防空識別區'
+- **2025-06-17** 📰 'Tag: 一個年輕人'  (2×)
+- **2025-06-17** 📰 'Tag: 海外小英後援會'  (2×)
+- **2025-06-17** 📰 'Tag: 中國霸權'  (2×)
+- **2025-06-17** 📰 'Tag: 伸狼爪'  (2×)
+- **2025-06-17** 📰 'Tag: 林宗義'  (2×)
+- **2025-06-17** 📰 'Tag: 面向世界公平正義'
+- **2025-06-17** 📰 'Tag: 國際輿論譁然'
+- **2025-06-18** 📰 'Tag: 政二代條款'
+- **2025-06-18** 📰 'Tag: 民進黨直轄市議員提名'
+- **2025-06-20** 📰 'Tag: 國民黨中央下令連署造假'
+- **2025-06-21** 📰 'Tag: 美法官斥移民拘押違憲'
+- **2025-06-21** 📰 'Tag: Mahmoud Khalil'
+- **2025-06-21** 📰 'Tag: 挺巴勒斯坦哥大學生'
+- **2025-06-23** 📰 'Tag: 美軍駐卡達基地遭伊朗飛彈攻擊'
+- **2025-06-23** 📰 'Tag: 普宣布以色列伊朗同意停火'
+- **2025-07-03** 📰 'Tag: 捷克參院外委會主席'
+- **2025-07-03** 📰 'Tag: 蕭美琴遭中方尾隨'
+- **2025-07-03** 📰 'Tag: 捷克參院外委會主席曝中國干預企圖'
+- **2025-07-03** 📰 'Tag: Pavel Fischer'
+- **2025-07-03** 📰 'Tag: 蔡英文訪捷也遭緊盯'
+- **2025-07-03** 📰 'Tag: 加州野火'
+- **2025-07-04** 📰 'Tag: 川普施壓非法移民'
+- **2025-07-04** 📰 'Tag: 烏克蘭軍工技術輸出歐洲國家'
+- **2025-07-04** 📰 'Tag: 非銀行管道匯款他國徵稅1%'
+- **2025-07-04** 📰 'Tag: 烏克蘭將在丹麥生產武器'
+- **2025-07-06** 📰 'Tag: 國安會'
+- **2025-07-07** 📰 'Tag: 中國男竊美研發新冠疫苗資訊'
+- **2025-07-07** 📰 'Tag: 小笠原欣幸預測翻轉國會需罷掉10席'
+- **2025-07-07** 📰 'Tag: 俄運輸部長Roman Starovoit身亡'
+- **2025-07-08** 📰 'Tag: 台灣華語文學習中心'
+- **2025-07-09** 📰 'Tag: 台灣關係法'
+- **2025-07-09** 📰 'Tag: 「台灣國際團結法案」（Taiwan International Solidarity Act）'
+- **2025-07-09** 📰 'Tag: 川普對銅徵收50%關稅'
+- **2025-07-09** 📰 'Tag: 參議員提案捍衛台灣尊嚴'
+- **2025-07-10** 📰 'Tag: 挺烏克蘭兼嚇阻中國犯台'
+- **2025-07-10** 📰 'Tag: 烏克蘭重建會議'
+- **2025-07-11** 📰 'Tag: 切斷燃油'
+- **2025-07-11** 📰 'Tag: 普發現金'  (2×)
+- **2025-07-12** 📰 'Tag: 勞基法'  (2×)
+- **2025-07-12** 📰 'Tag: 緩解台灣人口人才問題'
+- **2025-07-12** 📰 'Tag: Christian Fan Jiang'
+- **2025-07-13** 📰 'Tag: 特勤局「不可原諒」失靈'
+- **2025-07-13** 📰 'Tag: 美將運送愛國者防空系統　助烏克蘭抵禦俄入侵'
+- **2025-07-14** 📰 'Tag: 金防部火炮齊發'
+- **2025-07-14** 📰 'Tag: 澤倫斯基感謝援烏武器'
+- **2025-07-14** 📰 'Tag: HESCO防禦工事阻絕'
+- **2025-07-15** 📰 'Tag: 授勳羅艾斯'
+- **2025-07-15** 📰 'Tag: 評過關'  (2×)
+- **2025-07-15** 📰 'Tag: 兆豐銀案'
+- **2025-07-15** 📰 'Tag: 黃慶三博士'  (2×)
+- **2025-07-15** 📰 'Tag: Emma Morano享壽117歲'
+- **2025-07-15** 📰 'Tag: 豐收的蕉慮'  (2×)
+- **2025-07-15** 📰 'Tag: 夷狄'  (2×)
+- **2025-07-15** 📰 'Tag: 川普籲聯準會降息'
+- **2025-07-15** 📰 'Tag: 勞資對立'  (2×)
+- **2025-07-15** 📰 'Tag: 爭取漁權'
+- **2025-07-15** 📰 'Tag: 會談重點'  (2×)
+- **2025-07-15** 📰 'Tag: 川普會退縮'
+- **2025-07-15** 📰 'Tag: 匯款流向'
+- **2025-07-15** 📰 'Tag: Chairman Royce'  (2×)
+- **2025-07-17** 📰 'Tag: 軍校新生報到創近5年新高'
+- **2025-07-21** 📰 'Tag: 串供'
+- **2025-07-21** 📰 'Tag: 民眾黨'
+- **2025-07-22** 🗳️ 'Tag: 石破茂'
+- **2025-07-27** 📰 'Tag: 聯準會'  (2×)
+- **2025-07-29** 📰 'Tag: 印度'
+- **2025-08-03** 📰 'Tag: 重污染'
+- **2025-08-03** 📰 'Tag: 韓國檢察官起訴崔順實'
+- **2025-08-03** 📰 'Tag: 北檢傳訊馬'
+- **2025-08-03** 📰 'Tag: 水落石出'
+- **2025-08-03** 📰 'Tag: 審查外資'
+- **2025-08-03** 📰 'Tag: 感恩的喜悅'
+- **2025-08-03** 📰 'Tag: 福戈中將'
+- **2025-08-03** 📰 'Tag: 貨幣競貶'
+- **2025-08-03** 📰 'Tag: 《經濟學人》特刊'
+- **2025-08-03** 📰 'Tag: 彭婉如命案20周年'
+- **2025-08-03** 📰 'Tag: 川普崛起'
+- **2025-08-03** 📰 'Tag: 魚市場'
+- **2025-08-03** 📰 'Tag: 上修今年GDP至1.35%'
+- **2025-08-03** 📰 'Tag: 收歸國有'
+- **2025-08-03** 📰 'Tag: 不再一中'
+- **2025-08-03** 🗳️ 'Tag: 美國總統當選人川普'
+- **2025-08-03** 📰 'Tag: 叛亂犯'
+- **2025-08-03** 📰 'Tag: 珠寶神話'
+- **2025-08-03** 📰 'Tag: 前德州州長佩裡'
+- **2025-08-03** 📰 'Tag: 小鳳飛飛'
+- **2025-08-03** 📰 'Tag: 前美駐聯大使'
+- **2025-08-03** 📰 'Tag: 迎向變局'
+- **2025-08-03** 📰 'Tag: 律師界'
+- **2025-08-03** 📰 'Tag: 上菜'
+- **2025-08-03** 📰 'Tag: 川普狂嗆一中'
+- **2025-08-03** 📰 'Tag: 畫下句點'
+- **2025-08-03** 📰 'Tag: 農曆年通車'
+- **2025-08-03** 📰 'Tag: 台灣好玩'
+- **2025-08-03** 📰 'Tag: 天機不可洩漏'
+- **2025-08-03** 📰 'Tag: 不接興航'
+- **2025-08-03** 📰 'Tag: 重整'
+- **2025-08-03** 📰 'Tag: 川普表態'
+- **2025-08-03** 📰 'Tag: 包抄'
+- **2025-08-03** 📰 'Tag: 拉抬股價'
+- **2025-08-03** 📰 'Tag: 國立臺灣交響樂團'
+- **2025-08-03** 📰 'Tag: 必死無疑'
+- **2025-08-03** 📰 'Tag: 殺人風暴'
+- **2025-08-03** 📰 'Tag: Marine Gen. James N. Mattis'
+- **2025-08-03** 📰 'Tag: 煙塵瀰漫'
+- **2025-08-03** 📰 'Tag: 相挺'
+- **2025-08-03** 📰 'Tag: 少數族裔女性'
+- **2025-08-03** 📰 'Tag: 新政總體驗'
+- **2025-08-03** 📰 'Tag: 興航停飛'
+- **2025-08-03** 📰 'Tag: 南韓人怒了'
+- **2025-08-03** 📰 'Tag: 解僱'
+- **2025-08-03** 📰 'Tag: 乳癌來敲門'
+- **2025-08-03** 📰 'Tag: 香港民運人士游蕙禎'
+- **2025-08-03** 📰 'Tag: 誆騙旅客'
+- **2025-08-03** 📰 'Tag: 中國外匯儲備縮水'
+- **2025-08-03** 📰 'Tag: 反奧巴馬醫保'
+- **2025-08-03** 📰 'Tag: 川普批一中'
+- **2025-08-03** 📰 'Tag: 人民幣兌美元匯率'
+- **2025-08-03** 📰 'Tag: 免費塑膠袋'
+- **2025-08-03** 📰 'Tag: 藍正龍'
+- **2025-08-03** 📰 'Tag: 海外青年技術訓練班'
+- **2025-08-03** 📰 'Tag: 時力抹黑'
+- **2025-08-03** 📰 'Tag: 窮台戰略'
+- **2025-08-03** 📰 'Tag: 女性內閣級官員'
+- **2025-08-03** 📰 'Tag: 弔詭統計學'
+- **2025-08-03** 📰 'Tag: 三思而行'
+- **2025-08-04** 📰 'Tag: 自己人屠戮自己人'  (2×)
+- **2025-08-04** 📰 'Tag: 最高領導人'  (2×)
+- **2025-08-07** 📰 'Tag: 間諜衛星'
+- **2025-08-07** 📰 'Tag: 爛樓害命'
+- **2025-08-07** 📰 'Tag: 金融忽必烈'
+- **2025-08-07** 📰 'Tag: 美國優先'
+- **2025-08-07** 📰 'Tag: 愛滋'
+- **2025-08-07** 📰 'Tag: 總統支持婚姻平權'
+- **2025-08-07** 📰 'Tag: 公車站搬遷'
+- **2025-08-07** 📰 'Tag: 綠攻防劇本'
+- **2025-08-07** 📰 'Tag: 婉拒'
+- **2025-08-07** 📰 'Tag: 無力收尾'
+- **2025-08-07** 📰 'Tag: 許信良闖關'
+- **2025-08-07** 📰 'Tag: 親信門風暴'
+- **2025-08-07** 📰 'Tag: 圖博獨立'
+- **2025-08-07** 📰 'Tag: 泛綠景點'
+- **2025-08-07** 📰 'Tag: 立院正副院長不得任黨職'
+- **2025-08-07** 📰 'Tag: 連年虧損'
+- **2025-08-07** 📰 'Tag: 美CIA世界地圖'
+- **2025-08-07** 📰 'Tag: 復仇之戰'
+- **2025-08-07** 📰 'Tag: 開放社會'
+- **2025-08-07** 📰 'Tag: 大小綠分割'
+- **2025-08-07** 📰 'Tag: 吸毒致死'
+- **2025-08-07** 📰 'Tag: 奪選票大計'
+- **2025-08-07** 📰 'Tag: 計中計'
+- **2025-08-07** 📰 'Tag: 女兒診所開幕'
+- **2025-08-07** 📰 'Tag: 美友台'
+- **2025-08-07** 📰 'Tag: 監控失靈'
+- **2025-08-07** 📰 'Tag: 真有這麼背'
+- **2025-08-07** 📰 'Tag: 魚場被搶'
+- **2025-08-07** 🗳️ 'Tag: 總統候選人沒獲得過半選舉人票'
+- **2025-08-07** 📰 'Tag: F-16暗夜緊急升空攔截'
+- **2025-08-07** 📰 'Tag: 不屬於台灣的「大中華想像」'
+- **2025-08-07** 📰 'Tag: 修法卡關'
+- **2025-08-07** 📰 'Tag: 員工失業'
+- **2025-08-07** 📰 'Tag: 撇開自家生意'
+- **2025-08-07** 📰 'Tag: 中國裝瓶企業'
+- **2025-08-07** 🏛️ 'Tag: 成立秘辛'
+- **2025-08-07** 📰 'Tag: 國產林家'
+- **2025-08-07** 📰 'Tag: 民進黨多數否決'
+- **2025-08-07** 📰 'Tag: 藍轉彎'
+- **2025-08-07** 📰 'Tag: 向中國施壓'
+- **2025-08-07** 📰 'Tag: 遠小人'
+- **2025-08-07** 📰 'Tag: 藍支持'
+- **2025-08-07** 📰 'Tag: 民調直直落'
+- **2025-08-07** 📰 'Tag: 復興員工'
+- **2025-08-07** 📰 'Tag: 三星手機出包'
+- **2025-08-07** 📰 'Tag: 繞台合圍'
+- **2025-08-07** 📰 'Tag: 歌聲透監牢'
+- **2025-08-07** 📰 'Tag: 國產實業'
+- **2025-08-07** 📰 'Tag: 港扣裝甲車'
+- **2025-08-07** 📰 'Tag: 兩枚指紋'
+- **2025-08-07** 📰 'Tag: Tom Price'
+- **2025-08-07** 📰 'Tag: 消失的47億'
+- **2025-08-07** 📰 'Tag: 越南花旦'
+- **2025-08-07** 📰 'Tag: 展力量'
+- **2025-08-07** 📰 'Tag: 川普「勇敢挺台」'
+- **2025-08-07** 📰 'Tag: NTSO Flashmob at Taoyuan Airport Taiwan 2015'
+- **2025-08-07** 📰 'Tag: 到案'
+- **2025-08-07** 📰 'Tag: 核食解禁'
+- **2025-08-07** 📰 'Tag: 酸王柯'
+- **2025-08-07** 📰 'Tag: 燦爛時光會客'
+- **2025-08-07** 📰 'Tag: 太和殿'
+- **2025-08-07** 📰 'Tag: 迎娶正妹'
+- **2025-08-07** 📰 'Tag: 2020年解放台灣'
+- **2025-08-07** 📰 'Tag: 改選'
+- **2025-08-07** 📰 'Tag: 謀求第四次連任'
+- **2025-08-07** 📰 'Tag: 香港黃金大劫案'
+- **2025-08-07** 📰 'Tag: 蔡英文外交勝利'
+- **2025-08-07** 📰 'Tag: 川普批中國偷竊'
+- **2025-08-07** 📰 'Tag: 喪失香港議員資格'
+- **2025-08-07** 📰 'Tag: 台灣屋脊'
+- **2025-08-07** 📰 'Tag: 薪水不到3萬'
+- **2025-08-07** 📰 'Tag: 林明昇神隱'
+- **2025-08-07** 📰 'Tag: 許盛男醫師'
+- **2025-08-07** 📰 'Tag: 灣潭'
+- **2025-08-07** 📰 'Tag: 駐聯合國大使'
+- **2025-08-07** 📰 'Tag: 台灣向德國「取經」'
+- **2025-08-07** 📰 'Tag: 抹黑誤解'
+- **2025-08-07** 📰 'Tag: 交長不合格'
+- **2025-08-07** 📰 'Tag: 創業本'
+- **2025-08-07** 📰 'Tag: 日幣狂貶'
+- **2025-08-07** 📰 'Tag: 鑽地'
+- **2025-08-07** 📰 'Tag: 看見台北'
+- **2025-08-07** 📰 'Tag: 川普重要幕僚'
+- **2025-08-07** 📰 'Tag: 特朗普新政'
+- **2025-08-07** 📰 'Tag: 健全機制'
+- **2025-08-07** 📰 'Tag: 一再公然說謊'
+- **2025-08-07** 📰 'Tag: 「突襲」行動'
+- **2025-08-07** 📰 'Tag: 安倍會川普'
+- **2025-08-07** 📰 'Tag: 李安劇組'
+- **2025-08-07** 📰 'Tag: 接管收歸國有'
+- **2025-08-07** 📰 'Tag: 5加2'
+- **2025-08-07** 📰 'Tag: 最會溝通政府'
+- **2025-08-07** 📰 'Tag: 蒐證SOP'
+- **2025-08-07** 📰 'Tag: 安樂死合法化'
+- **2025-08-07** 📰 'Tag: 改選風暴'
+- **2025-08-07** 📰 'Tag: 歐盟駐華使節'
+- **2025-08-07** 📰 'Tag: 還押看守所'
+- **2025-08-08** 📰 'Tag: 列朴槿惠為共謀'
+- **2025-08-08** 📰 'Tag: 逐漸萎縮'
+- **2025-08-08** 📰 'Tag: 中國國歌'
+- **2025-08-08** 📰 'Tag: 文化為體觀光為用'
+- **2025-08-08** 📰 'Tag: 無時程'
+- **2025-08-08** 📰 'Tag: 台灣軍用車牌'
+- **2025-08-08** 📰 'Tag: 北京跳腳'
+- **2025-08-08** 📰 'Tag: 名畫'
+- **2025-08-08** 📰 'Tag: 聯展'
+- **2025-08-08** 📰 'Tag: 重要政策民調'
+- **2025-08-08** 📰 'Tag: 核災區'
+- **2025-08-08** 📰 'Tag: 繞台演習'
+- **2025-08-08** 📰 'Tag: 南海擴軍'
+- **2025-08-08** 📰 'Tag: 家事'
+- **2025-08-08** 📰 'Tag: 構建亞洲版北約'
+- **2025-08-08** 📰 'Tag: 台灣美僑團體'
+- **2025-08-08** 📰 'Tag: 免疫治療'
+- **2025-08-08** 📰 'Tag: 烽火漫天'
+- **2025-08-08** 📰 'Tag: 美國史上唯一一次由眾議院選出總統'
+- **2025-08-08** 📰 'Tag: 國臺交 歡慶70 桃機 快閃'
+- **2025-08-08** 📰 'Tag: 施魔法'
+- **2025-08-08** 📰 'Tag: 興航員工'
+- **2025-08-08** 📰 'Tag: 回家，是我們的夢想'
+- **2025-08-08** 📰 'Tag: 台灣與30國聯手'
+- **2025-08-08** 📰 'Tag: 金馬獎'
+- **2025-08-08** 📰 'Tag: 呂紹嘉'
+- **2025-08-08** 📰 'Tag: 旅遊大亨'
+- **2025-08-08** 📰 'Tag: 長髮'
+- **2025-08-08** 📰 'Tag: 卡斯楚'
+- **2025-08-08** 📰 'Tag: 同志父母'
+- **2025-08-08** 📰 'Tag: 航線接手'
+- **2025-08-08** 📰 'Tag: 王祖賢'
+- **2025-08-08** 📰 'Tag: 保金'
+- **2025-08-08** 📰 'Tag: 空中商機大爆發'
+- **2025-08-08** 📰 'Tag: 霧鎖北京'
+- **2025-08-08** 📰 'Tag: 教唆洩密案'
+- **2025-08-08** 📰 'Tag: 三讀最快也要明年'
+- **2025-08-08** 📰 'Tag: 時力惹怨'
+- **2025-08-08** 📰 'Tag: 潛水夫症'
+- **2025-08-08** 📰 'Tag: 食品解禁'
+- **2025-08-08** 📰 'Tag: It is well with my Soul'
+- **2025-08-08** 📰 'Tag: 13億人口死不完'
+- **2025-08-08** 📰 'Tag: 旅展'
+- **2025-08-08** 📰 'Tag: 重評'
+- **2025-08-08** 📰 'Tag: 挑戰一中'
+- **2025-08-08** 📰 'Tag: 淪為秀場'
+- **2025-08-08** 📰 'Tag: 興航熄燈'
+- **2025-08-08** 📰 'Tag: 籌委會'
+- **2025-08-08** 📰 'Tag: 增加防務開支'
+- **2025-08-08** 🏥 'Tag: 美罕病組織'
+- **2025-08-08** 📰 'Tag: 川普稱存在大量非法選票'
+- **2025-08-08** 📰 'Tag: 來亂的'
+- **2025-08-08** 📰 'Tag: 台灣兩難'
+- **2025-08-08** 📰 'Tag: 麻六甲殺戮'
+- **2025-08-08** 📰 'Tag: 追稅'
+- **2025-08-08** 📰 'Tag: 百億勞力士'
+- **2025-08-08** 📰 'Tag: 立院亂戰'
+- **2025-08-08** 📰 'Tag: 揭秘'
+- **2025-08-08** 📰 'Tag: 強化美台關係'
+- **2025-08-08** 📰 'Tag: 關卡多'
+- **2025-08-08** 📰 'Tag: 圍毆柯建銘'
+- **2025-08-08** 📰 'Tag: 監督失靈'
+- **2025-08-08** 📰 'Tag: 售台潛艦'
+- **2025-08-08** 📰 'Tag: 接管興航'
+- **2025-08-08** 🗳️ 'Tag: 疑3搖擺州選舉舞弊'
+- **2025-08-08** 📰 'Tag: 綠剩四戰場'
+- **2025-08-08** 📰 'Tag: 國家做的'
+- **2025-08-08** 📰 'Tag: 12月1日'
+- **2025-08-08** 📰 'Tag: 修改領土'
+- **2025-08-08** 📰 'Tag: 年金失衡'
+- **2025-08-08** 📰 'Tag: 心得報告'  (2×)
+- **2025-08-08** 📰 'Tag: 唯一'
+- **2025-08-08** 📰 'Tag: 周休'
+- **2025-08-08** 📰 'Tag: 前景看好'
+- **2025-08-08** 📰 'Tag: 小英拍板'
+- **2025-08-08** 📰 'Tag: 上台看機會'
+- **2025-08-08** 📰 'Tag: 美聯儲加息'
+- **2025-08-08** 📰 'Tag: 劉飛躍'
+- **2025-08-08** 📰 'Tag: 警告性罷工'
+- **2025-08-08** 📰 'Tag: 42度高熱'
+- **2025-08-08** 📰 'Tag: . 臺灣的聲音'
+- **2025-08-08** 📰 'Tag: 偏愛女星'
+- **2025-08-08** 📰 'Tag: 彭佳慧'
+- **2025-08-08** 📰 'Tag: 馬江黃'
+- **2025-08-08** 📰 'Tag: 媽媽娘家'
+- **2025-08-08** 📰 'Tag: 重大犯罪無追訴時效'
+- **2025-08-08** 🏥 'Tag: 劉松藩病逝洛杉磯'
+- **2025-08-08** 📰 'Tag: 洩漏筆錄'
+- **2025-08-08** 📰 'Tag: 協議平台'
+- **2025-08-08** 📰 'Tag: 緩收航權'
+- **2025-08-08** 📰 'Tag: 北京不滿'
+- **2025-08-08** 📰 'Tag: 台灣人民自決權'
+- **2025-08-08** 📰 'Tag: 專心當總統'
+- **2025-08-08** 📰 'Tag: 回中國'
+- **2025-08-08** 📰 'Tag: 選罷法修法三讀通過'
+- **2025-08-08** 📰 'Tag: 流血之地不能開花結果'
+- **2025-08-08** 📰 'Tag: 政策轉變'
+- **2025-08-08** 📰 'Tag: 台灣現代舞之母蔡瑞月'
+- **2025-08-10** 📰 'Tag: 台灣民意基金會'
+- **2025-08-10** 📰 'Tag: 星宇航空'
+- **2025-08-10** 📰 'Tag: 裁定停止執行'
+- **2025-08-10** 📰 'Tag: 核災食品'
+- **2025-08-10** 📰 'Tag: 追徵76億'
+- **2025-08-10** 🎤 'Tag: 民進黨高市長初選'
+- **2025-08-10** 📰 'Tag: 侵占'
+- **2025-08-10** 🎤 'Tag: 許智傑'
+- **2025-08-10** 📰 'Tag: 柯建銘遭施暴'
+- **2025-08-10** 📰 'Tag: 立院吵翻天'
+- **2025-08-10** 📰 'Tag: 批小英'
+- **2025-08-10** 📰 'Tag: 不當黨產充公'
+- **2025-08-10** 📰 'Tag: 拒交財報'
+- **2025-08-10** 📰 'Tag: 負心'
+- **2025-08-10** 📰 'Tag: 畢其功於一役'
+- **2025-08-10** 📰 'Tag: 吳俊達'
+- **2025-08-10** 📰 'Tag: 下台看流年'
+- **2025-08-10** 📰 'Tag: 流感發威'
+- **2025-08-10** 📰 'Tag: 天缺'
+- **2025-08-10** 📰 'Tag: 籌委名單'
+- **2025-08-10** 📰 'Tag: 太保守'
+- **2025-08-10** 📰 'Tag: 翻舊帳'
+- **2025-08-10** 📰 'Tag: 滅屍'
+- **2025-08-10** 🎤 'Tag: 邱議瑩'
+- **2025-08-10** 📰 'Tag: 埃克森美孚CEO蒂勒森'
+- **2025-08-10** 📰 'Tag: 低調不回應'
+- **2025-08-10** 📰 'Tag: 男人認錯'
+- **2025-08-10** 📰 'Tag: 神艦爭霸戰'
+- **2025-08-10** 📰 'Tag: 祝賀的電話'
+- **2025-08-10** 📰 'Tag: 錯誤'
+- **2025-08-10** 📰 'Tag: 小心跟南韓總統一樣'
+- **2025-08-10** 📰 'Tag: 臺法文化獎'
+- **2025-08-10** 📰 'Tag: 爛攤有解'
+- **2025-08-11** 📰 'Tag: 一輩子'
+- **2025-08-11** 📰 'Tag: 濟公上身'
+- **2025-08-11** 📰 'Tag: 百日總體驗'
+- **2025-08-11** 📰 'Tag: 國共內戰'
+- **2025-08-11** 📰 'Tag: 善後'
+- **2025-08-11** 📰 'Tag: 散戶'
+- **2025-08-11** 📰 'Tag: 勞團火大'
+- **2025-08-11** 📰 'Tag: 美國比台灣更膽小'
+- **2025-08-11** 📰 'Tag: 修正民法'
+- **2025-08-11** 📰 'Tag: The Grand Canyon of Arizona'
+- **2025-08-11** 📰 'Tag: 林揆重批'
+- **2025-08-11** 📰 'Tag: 美中談判新籌碼'
+- **2025-08-11** 📰 'Tag: 違規'
+- **2025-08-11** 📰 'Tag: 一石激起千層浪'
+- **2025-08-11** 📰 'Tag: 北京空氣污染'
+- **2025-08-11** 📰 'Tag: 對華強硬觀點'
+- **2025-08-11** 📰 'Tag: 期待落差'
+- **2025-08-11** 📰 'Tag: 利少'
+- **2025-08-11** 📰 'Tag: 執委'
+- **2025-08-11** 📰 'Tag: 接納各種性傾向'
+- **2025-08-11** 📰 'Tag: 中國體制'
+- **2025-08-11** 📰 'Tag: 林孝信'
+- **2025-08-11** 📰 'Tag: For poking the bear'
+- **2025-08-11** 📰 'Tag: 討厭每天聽簡報'
+- **2025-08-11** 📰 'Tag: 樹敵'
+- **2025-08-11** 📰 'Tag: 強度增'
+- **2025-08-11** 📰 'Tag: 博取美名'
+- **2025-08-11** 📰 'Tag: 彈炸使館'
+- **2025-08-11** 📰 'Tag: 美國精英聯盟'
+- **2025-08-11** 📰 'Tag: 職業的原罪'
+- **2025-08-11** 📰 'Tag: 大哉問'
+- **2025-08-11** 📰 'Tag: 維護區域穩定'
+- **2025-08-11** 📰 'Tag: 川普與小英'
+- **2025-08-11** 📰 'Tag: 金鐘影帝'
+- **2025-08-11** 📰 'Tag: 川普新帝國'
+- **2025-08-11** 📰 'Tag: 7路搜索興航'
+- **2025-08-11** 📰 'Tag: 精準神算'
+- **2025-08-11** 📰 'Tag: 民族英雄鄭成功'
+- **2025-08-11** 📰 'Tag: 集體中邪'
+- **2025-08-11** 📰 'Tag: 馬政權爛攤'
+- **2025-08-11** 📰 'Tag: 在野陣營'
+- **2025-08-11** 📰 'Tag: 關鍵證物'
+- **2025-08-11** 📰 'Tag: 中國指控美國「炒作」'
+- **2025-08-11** 📰 'Tag: 與古巴關係正常化'
+- **2025-08-11** 📰 'Tag: 入民法'
+- **2025-08-11** 📰 'Tag: 三邊安全對話'
+- **2025-08-11** 📰 'Tag: 英政府狀況外'
+- **2025-08-11** 📰 'Tag: 五人呼聲高'
+- **2025-08-11** 📰 'Tag: Stephen Yates'
+- **2025-08-11** 📰 'Tag: 買空賣空'
+- **2025-08-11** 📰 'Tag: 土豪哥'
+- **2025-08-11** 📰 'Tag: 中共怕怕'
+- **2025-08-11** 📰 'Tag: Newt Gingrich'
+- **2025-08-13** 📰 'Tag: 川普介入企業營運　成全球晶片業總司令'
+- **2025-08-14** 📰 'Tag: 例休'  (2×)
+- **2025-08-14** 📰 'Tag: 台灣人口'  (2×)
+- **2025-08-14** 📰 'Tag: 天安門大屠殺'  (2×)
+- **2025-08-14** 📰 'Tag: 台美關係重要功臣'
+- **2025-08-14** 📰 'Tag: 江陳會'
+- **2025-08-14** 📰 'Tag: 兆豐金'
+- **2025-08-14** 📰 'Tag: 十年政綱'
+- **2025-08-14** 📰 'Tag: 驚豔'
+- **2025-08-14** 📰 'Tag: 中國共產黨交代清楚'  (2×)
+- **2025-08-14** 📰 'Tag: Chinese'
+- **2025-08-14** 📰 'Tag: 鄭文龍律師'
+- **2025-08-14** 📰 'Tag: 武裝力量'  (2×)
+- **2025-08-14** 📰 'Tag: 黃帝穎'  (2×)
+- **2025-08-14** 📰 'Tag: 奶粉客'  (2×)
+- **2025-08-14** 📰 'Tag: 南蒙'  (2×)
+- **2025-08-14** 📰 'Tag: 豬家兒女決裂'  (2×)
+- **2025-08-14** 📰 'Tag: 「台灣人」選項'
+- **2025-08-14** 📰 'Tag: Freddy Lim'  (2×)
+- **2025-08-14** 📰 'Tag: 槍擊'  (2×)
+- **2025-08-14** 📰 'Tag: 華郵專訪'  (2×)
+- **2025-08-14** 📰 'Tag: 貧困家庭'  (2×)
+- **2025-08-14** 📰 'Tag: 單向批判'  (2×)
+- **2025-08-14** 📰 'Tag: 帶狀皰疹'
+- **2025-08-14** 📰 'Tag: 囤房稅'
+- **2025-08-14** 📰 'Tag: Robbin Laird'  (2×)
+- **2025-08-14** 📰 'Tag: 黃國榮'  (2×)
+- **2025-08-14** 📰 'Tag: 立院三讀風災特別條例'
+- **2025-08-14** 📰 'Tag: 政治人物涉洗錢'
+- **2025-08-14** 📰 'Tag: 美亞太助卿羅素'  (2×)
+- **2025-08-14** 📰 'Tag: 軍公教'  (2×)
+- **2025-08-14** 📰 'Tag: 吸收僑生'  (2×)
+- **2025-08-14** 📰 'Tag: 串證嫌疑'  (2×)
+- **2025-08-14** 📰 'Tag: 布蘭斯塔德'  (2×)
+- **2025-08-14** 🏥 'Tag: 加味電子菸疑釀肺病'
+- **2025-08-14** 📰 'Tag: China Airlines(台灣華航)'
+- **2025-08-15** 📰 'Tag: 跳樓'  (2×)
+- **2025-08-15** 📰 'Tag: 政見會洩題'
+- **2025-08-15** 📰 'Tag: 勞工更累'  (2×)
+- **2025-08-15** 📰 'Tag: “遇見台灣”'  (2×)
+- **2025-08-15** 📰 'Tag: 高峰會議'  (2×)
+- **2025-08-15** 📰 'Tag: 歌仔戲郭懷一'
+- **2025-08-15** 📰 'Tag: 未婚生子'  (2×)
+- **2025-08-15** 📰 'Tag: 卡拉OK'  (2×)
+- **2025-08-15** 📰 'Tag: brutal response'
+- **2025-08-15** 📰 'Tag: 打造 「數位國家」'  (2×)
+- **2025-08-15** 📰 'Tag: 取消主辦權'
+- **2025-08-15** 📰 'Tag: 北醫附醫醫療團隊'  (2×)
+- **2025-08-15** 📰 'Tag: 反腐肅貪'  (2×)
+- **2025-08-15** 📰 'Tag: 看死內閣'  (2×)
+- **2025-08-15** 🎤 'Tag: 演講之旅.核能電廠'  (2×)
+- **2025-08-15** 📰 'Tag: 三波毀滅'  (2×)
+- **2025-08-15** 📰 'Tag: 網友互動'  (2×)
+- **2025-08-15** 📰 'Tag: 洛杉磯台灣會館'  (2×)
+- **2025-08-15** 📰 'Tag: 兒童心臟殺手'  (2×)
+- **2025-08-15** 📰 'Tag: 亞洲價值'  (2×)
+- **2025-08-15** 📰 'Tag: 台步後塵'  (2×)
+- **2025-08-15** 📰 'Tag: 派遣勞工'  (2×)
+- **2025-08-15** 📰 'Tag: 代罪羔羊'  (2×)
+- **2025-08-15** 📰 'Tag: 違法監聽'  (2×)
+- **2025-08-15** 📰 'Tag: 檢察總長黃世銘'
+- **2025-08-15** 📰 'Tag: 關節鏡檢查'  (2×)
+- **2025-08-15** 📰 'Tag: 美國紐約州宣布加味電子菸禁令'  (2×)
+- **2025-08-15** 📰 'Tag: 馬健'  (2×)
+- **2025-08-15** 📰 'Tag: 精神科專科執照'
+- **2025-08-15** 📰 'Tag: 窮學生'
+- **2025-08-15** 📰 'Tag: 胖鯨號'  (2×)
+- **2025-08-15** 📰 'Tag: 租屋族必知'  (2×)
+- **2025-08-15** 📰 'Tag: 顏才仁毆警'  (2×)
+- **2025-08-15** 📰 'Tag: 兆豐金案'  (2×)
+- **2025-08-15** 📰 'Tag: 馬總統'  (2×)
+- **2025-08-15** 📰 'Tag: 美眾院外委會主席羅伊斯'
+- **2025-08-15** 📰 'Tag: 陳永儀'  (2×)
+- **2025-08-22** 🏥 'Tag: 半導體'
+- **2025-09-04** 📰 'Tag: 中午鏡來講'
+- **2025-09-08** 🗳️ 'Tag: 藍白合作'
+- **2025-09-09** 📰 'Tag: 陳立宏'
+- **2025-09-09** 📰 'Tag: 國教科'
+- **2025-09-09** 📰 'Tag: 李晶'
+- **2025-09-10** 📰 'Tag: 雲端治國'
+- **2025-09-10** 📰 'Tag: 張白帆'
+- **2025-09-10** 📰 'Tag: 私生活'
+- **2025-09-10** 📰 'Tag: 一黨專制'
+- **2025-09-10** 📰 'Tag: 婚姻'
+- **2025-09-10** 📰 'Tag: 牽制'
+- **2025-09-10** 📰 'Tag: 新史記'
+- **2025-09-10** 📰 'Tag: 國家地理雜誌'
+- **2025-09-10** 📰 'Tag: 台灣移民之子'
+- **2025-09-10** 📰 'Tag: 前美國司法部長克拉克'
+- **2025-09-10** 📰 'Tag: 農村'
+- **2025-09-10** 📰 'Tag: 鄭文龍'
+- **2025-09-10** 📰 'Tag: 台派'
+- **2025-09-10** 📰 'Tag: David Berteau'
+- **2025-09-10** 📰 'Tag: 騜'
+- **2025-09-10** 📰 'Tag: 西藏政策'
+- **2025-09-10** 📰 'Tag: 馬政府失能'
+- **2025-09-10** 📰 'Tag: 免簽證'
+- **2025-09-10** 📰 'Tag: 爛官'
+- **2025-09-10** 📰 'Tag: 生命的振動'
+- **2025-09-10** 📰 'Tag: 花博弊案'
+- **2025-09-10** 📰 'Tag: 呶呶'
+- **2025-09-10** 📰 'Tag: 澄社'
+- **2025-09-10** 📰 'Tag: 陸資大鬆綁'
+- **2025-09-10** 📰 'Tag: 外省權貴'
+- **2025-09-10** 📰 'Tag: 陳冲'
+- **2025-09-10** 📰 'Tag: Kenneth Chen'
+- **2025-09-10** 📰 'Tag: 陳總統'
+- **2025-09-10** 📰 'Tag: 零檢出'
+- **2025-09-10** 📰 'Tag: 華府與北京正轉向有利台灣的趨勢發展'
+- **2025-09-10** 📰 'Tag: 卜大年'
+- **2025-09-10** 📰 'Tag: 台灣文化'
+- **2025-09-10** 📰 'Tag: 馬英九就職無效'
+- **2025-09-10** 📰 'Tag: 拜黃'
+- **2025-09-10** 📰 'Tag: 道德治國'
+- **2025-09-10** 📰 'Tag: 傻眼'
+- **2025-09-10** 📰 'Tag: 王美琇'
+- **2025-09-10** 📰 'Tag: 倒閣案'
+- **2025-09-10** 📰 'Tag: 詐騙'
+- **2025-09-10** 📰 'Tag: 台灣國旗'
+- **2025-09-10** 📰 'Tag: 朝鮮'
+- **2025-09-10** 📰 'Tag: 培訓'
+- **2025-09-10** 📰 'Tag: 虐害阿扁'
+- **2025-09-10** 📰 'Tag: 金光黨'
+- **2025-09-10** 📰 'Tag: 民進黨全國黨員代表大會舊金山'
+- **2025-09-10** 🗳️ 'Tag: 台灣總統選舉'
+- **2025-09-14** 📰 'Tag: CSIS'
+- **2025-09-14** 📰 'Tag: 重建'
+- **2025-09-14** 📰 'Tag: 公投護台灣聯盟'
+- **2025-09-14** 📰 'Tag: 道德'
+- **2025-09-14** 📰 'Tag: 認同'
+- **2025-09-14** 📰 'Tag: 高雄捷運'
+- **2025-09-14** 📰 'Tag: 民間司改會'
+- **2025-09-14** 📰 'Tag: 飛彈陣地'
+- **2025-09-14** 📰 'Tag: 凱達格蘭學校'
+- **2025-09-14** 📰 'Tag: 非暴力抗爭'
+- **2025-09-14** 📰 'Tag: 馬桶自慰隊'
+- **2025-09-14** 📰 'Tag: 劉姍姍案'
+- **2025-09-14** 📰 'Tag: 瘦肉精美牛'
+- **2025-09-14** 📰 'Tag: 核心利益'
+- **2025-09-14** 📰 'Tag: 打手'  (2×)
+- **2025-09-14** 📰 'Tag: 林義雄'
+- **2025-09-14** 📰 'Tag: 中鋼'
+- **2025-09-14** 📰 'Tag: 亞太安全'
+- **2025-09-14** 📰 'Tag: 想想論壇'
+- **2025-09-14** 📰 'Tag: 訪民'
+- **2025-09-14** 📰 'Tag: 粉飾太平'
+- **2025-09-14** 📰 'Tag: 唱台灣歌'
+- **2025-09-14** 📰 'Tag: 夢想家案'
+- **2025-09-14** 📰 'Tag: 政改'
+- **2025-09-14** 📰 'Tag: 審判權'
+- **2025-09-14** 📰 'Tag: 陳彥玲'
+- **2025-09-14** 📰 'Tag: 漢奸'
+- **2025-09-14** 📰 'Tag: 瓶頸'
+- **2025-09-14** 📰 'Tag: Apple'
+- **2025-09-14** 📰 'Tag: 楊建利'
+- **2025-09-14** 📰 'Tag: 圓謊'
+- **2025-09-14** 📰 'Tag: 回歸'
+- **2025-09-14** 📰 'Tag: 政治動畫'
+- **2025-09-14** 📰 'Tag: -紀錄片'
+- **2025-09-14** 📰 'Tag: 阿扁'
+- **2025-09-14** 📰 'Tag: 調查局情蒐蔡英文案'
+- **2025-09-14** 📰 'Tag: 小英基金會'
+- **2025-09-14** 📰 'Tag: 器官摘取'
+- **2025-09-14** 📰 'Tag: 台灣卸任總統'
+- **2025-09-14** 📰 'Tag: 如花似玉'
+- **2025-09-14** 📰 'Tag: 三隻小豬'
+- **2025-09-14** 📰 'Tag: 選民服務'
+- **2025-09-14** 📰 'Tag: CPI狂升'
+- **2025-09-14** 📰 'Tag: 活摘器官'
+- **2025-09-14** 📰 'Tag: 放手'
+- **2025-09-14** 📰 'Tag: 電影短片'
+- **2025-09-14** 📰 'Tag: 蔡英文訪日之'
+- **2025-09-14** 📰 'Tag: 排汗'
+- **2025-09-14** 📰 'Tag: 台灣史'
+- **2025-09-14** 📰 'Tag: 馬英九、郝龍斌'
+- **2025-09-14** 📰 'Tag: 尹啟銘'
+- **2025-09-14** 📰 'Tag: 保釣害國'
+- **2025-09-14** 📰 'Tag: Gadaffi'
+- **2025-09-14** 📰 'Tag: 要新聞專業'
+- **2025-09-14** 📰 'Tag: 黨產立法'
+- **2025-09-14** 📰 'Tag: Gordon Chang'
+- **2025-09-14** 📰 'Tag: 洪珠美'
+- **2025-09-14** 📰 'Tag: 田朝明'
+- **2025-09-14** 📰 'Tag: 10萬人上街'
+- **2025-09-14** 📰 'Tag: 奸細'
+- **2025-09-14** 📰 'Tag: 林益世'
+- **2025-09-14** 📰 'Tag: 黃季敏'
+- **2025-09-14** 📰 'Tag: ECFA公投'
+- **2025-09-14** 📰 'Tag: 趙像察'
+- **2025-09-14** 📰 'Tag: 抗義'
+- **2025-09-14** 📰 'Tag: 魏瑞明'
+- **2025-09-14** 📰 'Tag: 吳秉叡'
+- **2025-09-14** 📰 'Tag: 孤立'
+- **2025-09-14** 📰 'Tag: Michael Green'
+- **2025-09-14** 📰 'Tag: 鎮長'
+- **2025-09-14** 📰 'Tag: 李鴻禧'
+- **2025-09-14** 📰 'Tag: 一邊一國'
+- **2025-09-14** 📰 'Tag: 新任黨主席'
+- **2025-09-14** 📰 'Tag: 傅高義'
+- **2025-09-14** 📰 'Tag: 登基'
+- **2025-09-14** 📰 'Tag: 熱比婭'
+- **2025-09-14** 📰 'Tag: 馬綠卡'
+- **2025-09-14** 📰 'Tag: 生物科技'
+- **2025-09-14** 📰 'Tag: 精神藥餵扁'
+- **2025-09-14** 📰 'Tag: 再殖民'
+- **2025-09-14** 📰 'Tag: Apple之蘋果電腦'
+- **2025-09-14** 📰 'Tag: 礁溪'
+- **2025-09-14** 📰 'Tag: 宇昌'
+- **2025-09-14** 📰 'Tag: 台灣守護聯盟之共識芻議'
+- **2025-09-14** 📰 'Tag: 911'
+- **2025-09-14** 📰 'Tag: 夢想家'
+- **2025-09-14** 📰 'Tag: 中共貪官'
+- **2025-09-14** 📰 'Tag: 北加州'  (2×)
+- **2025-09-14** 📰 'Tag: 反蝗蟲風波'
+- **2025-09-14** 📰 'Tag: 何不食肉糜'
+- **2025-09-14** 📰 'Tag: 吳淑珍'
+- **2025-09-14** 📰 'Tag: 宇昌案，約詢'
+- **2025-09-14** 📰 'Tag: 台灣人民嗆馬'
+- **2025-09-14** 📰 'Tag: 決策者'
+- **2025-09-14** 📰 'Tag: 兩會'
+- **2025-09-14** 📰 'Tag: 褲褲嫂'
+- **2025-09-15** 📰 'Tag: 余傑'
+- **2025-09-15** 📰 'Tag: Neil Heywood'
+- **2025-09-15** 📰 'Tag: 老紅衛兵'
+- **2025-09-15** 📰 'Tag: 統派'
+- **2025-09-15** 📰 'Tag: 田媽媽'
+- **2025-09-15** 📰 'Tag: 中國政治'
+- **2025-09-15** 📰 'Tag: 馬區長'
+- **2025-09-15** 📰 'Tag: 蔡選情'
+- **2025-09-15** 📰 'Tag: 陳定南'
+- **2025-09-15** 📰 'Tag: Jeremy Lin'
+- **2025-09-15** 📰 'Tag: 台美誤解'
+- **2025-09-15** 📰 'Tag: JFK Award'
+- **2025-09-15** 📰 'Tag: 強拆'
+- **2025-09-15** 📰 'Tag: 油電雙漲'
+- **2025-09-15** 📰 'Tag: 中共贊成台獨'
+- **2025-09-15** 📰 'Tag: 鯀馬治水週記'
+- **2025-09-15** 📰 'Tag: 美議員'
+- **2025-09-15** 📰 'Tag: 扁辦'
+- **2025-09-15** 📰 'Tag: 衛䕨征士郎'
+- **2025-09-15** 📰 'Tag: 雞'
+- **2025-09-15** 📰 'Tag: 23週年'
+- **2025-09-15** 📰 'Tag: 老子'
+- **2025-09-15** 📰 'Tag: Hong Kong'
+- **2025-09-15** 📰 'Tag: 清理階級隊伍運動'
+- **2025-09-15** 📰 'Tag: National Education Plan'
+- **2025-09-15** 📰 'Tag: 拒絕核災'
+- **2025-09-15** 📰 'Tag: 公平正義-撲滿台灣》'
+- **2025-09-15** 📰 'Tag: 民進黨之友會'
+- **2025-09-15** 📰 'Tag: 牙齒'
+- **2025-09-15** 📰 'Tag: 水門案'
+- **2025-09-15** 📰 'Tag: 危機中的台灣'
+- **2025-09-15** 📰 'Tag: 和平倡議'
+- **2025-09-15** 📰 'Tag: 519'
+- **2025-09-15** 📰 'Tag: 吹喇叭'
+- **2025-09-15** 📰 'Tag: 6300萬流向'
+- **2025-09-15** 📰 'Tag: Cinemagraph'
+- **2025-09-15** 📰 'Tag: 郭慶'
+- **2025-09-15** 📰 'Tag: 演說'
+- **2025-09-15** 📰 'Tag: 吳三桂'
+- **2025-09-15** 📰 'Tag: 立委黨團'
+- **2025-09-15** 📰 'Tag: 美印關係'
+- **2025-09-15** 📰 'Tag: 台灣教授會'
+- **2025-09-15** 📰 'Tag: 陳情'
+- **2025-09-15** 📰 'Tag: 許景淳'
+- **2025-09-15** 📰 'Tag: 物理學博士王文隆'
+- **2025-09-15** 📰 'Tag: 2012民情調查'
+- **2025-09-15** 📰 'Tag: 奧巴馬'
+- **2025-09-15** 📰 'Tag: 美台商會'
+- **2025-09-15** 📰 'Tag: 人口走私'
+- **2025-09-15** 📰 'Tag: 許忠信'
+- **2025-09-15** 📰 'Tag: 周美青'
+- **2025-09-15** 📰 'Tag: 兩個中國'
+- **2025-09-15** 📰 'Tag: 焦點對話'
+- **2025-09-15** 📰 'Tag: 毒奶'
+- **2025-09-15** 📰 'Tag: 江連福'
+- **2025-09-15** 📰 'Tag: 第十四屆黨主席'
+- **2025-09-15** 📰 'Tag: 顏綠芬'
+- **2025-09-15** 📰 'Tag: 戒護外醫'
+- **2025-09-15** 📰 'Tag: 旺中併購案'
+- **2025-09-15** 📰 'Tag: 熔盛重工'
+- **2025-09-15** 📰 'Tag: 魏京生'
+- **2025-09-15** 📰 'Tag: Tibet'
+- **2025-09-15** 📰 'Tag: 凱道靜坐'
+- **2025-09-15** 📰 'Tag: Deborah Chuang'
+- **2025-09-15** 📰 'Tag: 聯合服務處'
+- **2025-09-15** 📰 'Tag: 中國驅逐記者'
+- **2025-09-15** 📰 'Tag: 叛逃'
+- **2025-09-15** 📰 'Tag: 壹週刊543期陳前總統專欄'
+- **2025-09-15** 📰 'Tag: 被自殺'
+- **2025-09-15** 📰 'Tag: 亞歷桑那州'
+- **2025-09-15** 📰 'Tag: 政經局勢'
+- **2025-09-15** 📰 'Tag: 台灣民性'
+- **2025-09-15** 📰 'Tag: 馬英九說謊'  (3×)
+- **2025-09-15** 📰 'Tag: 文教基金會'
+- **2025-09-15** 📰 'Tag: 生命權'
+- **2025-09-15** 📰 'Tag: Anxiety and worry'
+- **2025-09-15** 📰 'Tag: 吳榮義'
+- **2025-09-15** 📰 'Tag: 陳光誠事件'
+- **2025-09-15** 📰 'Tag: 李敏勇'
+- **2025-09-15** 📰 'Tag: 陳盈助'
+- **2025-09-15** 📰 'Tag: 宇昌抹黑案'
+- **2025-09-15** 📰 'Tag: 信託'
+- **2025-09-15** 📰 'Tag: 丟人現眼'
+- **2025-09-15** 🗳️ 'Tag: Taiwan’s elections'
+- **2025-09-15** 📰 'Tag: 大話新聞'
+- **2025-09-15** 📰 'Tag: Jack Healey'
+- **2025-09-15** 📰 'Tag: 開放任務'
+- **2025-09-15** 📰 'Tag: 拍馬屁'
+- **2025-09-15** 📰 'Tag: 「自救護台灣」遊行'
+- **2025-09-15** 📰 'Tag: 江綿恆'
+- **2025-09-15** 📰 'Tag: 東方瑞士'
+- **2025-09-15** 📰 'Tag: 名人堂'
+- **2025-09-15** 📰 'Tag: 救救王家'
+- **2025-09-15** 📰 'Tag: 李俊'
+- **2025-09-15** 📰 'Tag: 戴立安'
+- **2025-09-15** 📰 'Tag: 台灣司法'
+- **2025-09-15** 📰 'Tag: 國務機要費'
+- **2025-09-15** 📰 'Tag: 張海陽'
+- **2025-09-15** 📰 'Tag: 志工'
+- **2025-09-15** 📰 'Tag: 法定法官原則'
+- **2025-09-15** 📰 'Tag: 倫敦奧會'
+- **2025-09-15** 📰 'Tag: 劉憶如請辭'
+- **2025-09-16** 📰 'Tag: Tina Chou'
+- **2025-09-16** 📰 'Tag: 海瀟'
+- **2025-09-16** 📰 'Tag: 吳乃仁'
+- **2025-09-16** 📰 'Tag: 羅斯雷提能'
+- **2025-09-16** 📰 'Tag: Government Of The People S Republic Of China'
+- **2025-09-16** 📰 'Tag: China'
+- **2025-09-16** 📰 'Tag: 治國論述'
+- **2025-09-16** 📰 'Tag: 520街頭抗議'
+- **2025-09-16** 📰 'Tag: Dr. Judith Thomas'
+- **2025-09-16** 📰 'Tag: 台裔美國人'
+- **2025-09-16** 📰 'Tag: 旺旺集團'
+- **2025-09-16** 📰 'Tag: 夜壺'
+- **2025-09-16** 📰 'Tag: 文化部'
+- **2025-09-16** 📰 'Tag: 扁中風'
+- **2025-09-16** 📰 'Tag: 早稻田大學'
+- **2025-09-16** 📰 'Tag: 驅離'
+- **2025-09-16** 📰 'Tag: 因言獲罪'
+- **2025-09-16** 📰 'Tag: 混混'
+- **2025-09-16** 📰 'Tag: 特偵別查組'
+- **2025-09-16** 📰 'Tag: 殉難 31週年'
+- **2025-09-16** 📰 'Tag: 自救'
+- **2025-09-16** 📰 'Tag: 假國號'
+- **2025-09-16** 📰 'Tag: Tawakkul Karman'
+- **2025-09-16** 📰 'Tag: 請願救扁'
+- **2025-09-16** 📰 'Tag: 反媒體壟斷'
+- **2025-09-16** 📰 'Tag: 台灣旅遊'
+- **2025-09-16** 📰 'Tag: 跛鴨'
+- **2025-09-16** 📰 'Tag: 眾人皆差我還好'
+- **2025-09-16** 📰 'Tag: 賽德克巴萊'
+- **2025-09-16** 🗳️ 'Tag: 2012 Election Controversy'
+- **2025-09-16** 📰 'Tag: THE TIDE IS TURNING TOWARD TAIWAN: DEVELOPMENTS IN WASHINGTON AND BEIJING'
+- **2025-09-16** 📰 'Tag: 柏林圍牆'
+- **2025-09-16** 📰 'Tag: 外省權貴集團'
+- **2025-09-16** 📰 'Tag: 中國高官荒淫'
+- **2025-09-16** 📰 'Tag: 一國兩席'
+- **2025-09-16** 📰 'Tag: 美牛'
+- **2025-09-16** 📰 'Tag: 江蘇南通啟東市'
+- **2025-09-16** 📰 'Tag: 中國民運'
+- **2025-09-16** 📰 'Tag: 民主進步黨25週年黨慶外交使節酒會'
+- **2025-09-16** 📰 'Tag: 台灣智庫'
+- **2025-09-16** 📰 'Tag: 人民再起'
+- **2025-09-16** 🏛️ 'Tag: 成立大會'
+- **2025-09-16** 📰 'Tag: 十六字箴言'
+- **2025-09-16** 📰 'Tag: 裸官'
+- **2025-09-16** 📰 'Tag: 世界新低紀錄'
+- **2025-09-16** 📰 'Tag: 稻穗'
+- **2025-09-16** 📰 'Tag: 總之'
+- **2025-09-16** 📰 'Tag: 871無恥'
+- **2025-09-16** 📰 'Tag: 母親節陪扁媽'
+- **2025-09-16** 📰 'Tag: 扁遭灌水'
+- **2025-09-16** 📰 'Tag: 江國慶案'
+- **2025-09-16** 📰 'Tag: 媒體巨獸'
+- **2025-09-16** 📰 'Tag: 許信良'
+- **2025-09-16** 📰 'Tag: 請辭待命'
+- **2025-09-16** 📰 'Tag: 國家傳播通訊委員會'
+- **2025-09-16** 📰 'Tag: 美國化學會亞瑟科博獎'
+- **2025-09-16** 📰 'Tag: 攏係Gay'
+- **2025-09-16** 📰 'Tag: 聽障兒'
+- **2025-09-16** 📰 'Tag: Director of the Human Rights Action Center'
+- **2025-09-16** 📰 'Tag: 娼妓'
+- **2025-09-16** 📰 'Tag: 宇昌投資案'
+- **2025-09-16** 📰 'Tag: 劉源'
+- **2025-09-16** 📰 'Tag: 馬皇'
+- **2025-09-16** 📰 'Tag: 特別護航組'
+- **2025-09-16** 📰 'Tag: 治國'
+- **2025-09-16** 📰 'Tag: 中港關係'
+- **2025-09-16** 📰 'Tag: 退化'
+- **2025-09-16** 📰 'Tag: 亞太'
+- **2025-09-16** 📰 'Tag: 台灣地位未定'
+- **2025-09-16** 📰 'Tag: 中國反日風潮'
+- **2025-09-16** 📰 'Tag: 中國大饑荒五十週年'
+- **2025-09-16** 📰 'Tag: 集體舞弊'
+- **2025-09-16** 📰 'Tag: 手外科'
+- **2025-09-16** 📰 'Tag: 民主再改革'
+- **2025-09-16** 📰 'Tag: 諷刺'
+- **2025-09-16** 📰 'Tag: 人渣'
+- **2025-09-16** 📰 'Tag: 南科減振案'
+- **2025-09-16** 📰 'Tag: 真國家'
+- **2025-09-16** 📰 'Tag: 香港狗'
+- **2025-09-16** 📰 'Tag: 昏君'
+- **2025-09-16** 📰 'Tag: 台北市長郝龍斌'
+- **2025-09-16** 📰 'Tag: Zhang Hao'
+- **2025-09-16** 📰 'Tag: 台語之美'
+- **2025-09-16** 📰 'Tag: 大案小辦'
+- **2025-09-16** 📰 'Tag: 被出賣的台灣'
+- **2025-09-16** 📰 'Tag: 臺灣獨立建國聯盟'
+- **2025-09-16** 📰 'Tag: 人大代表'
+- **2025-09-16** 📰 'Tag: 無罪定讞'
+- **2025-09-16** 📰 'Tag: 民主櫥窗'
+- **2025-09-16** 📰 'Tag: TAIWAN NEXT'
+- **2025-09-16** 📰 'Tag: 自囚救扁'
+- **2025-09-16** 📰 'Tag: 張花冠'
+- **2025-09-16** 📰 'Tag: 馬英九綠卡'
+- **2025-09-16** 📰 'Tag: 夏瀛洲'
+- **2025-09-16** 📰 'Tag: iPad'
+- **2025-09-16** 📰 'Tag: 李登輝之'
+- **2025-09-16** 📰 'Tag: Corvallis大壁畫'
+- **2025-09-16** 📰 'Tag: 劉姍姍'
+- **2025-09-16** 📰 'Tag: 蔡英文、蘇嘉全南桃園晚會'
+- **2025-09-16** 📰 'Tag: 台灣中國民主的共同命運'
+- **2025-09-16** 📰 'Tag: 莊子'
+- **2025-09-16** 📰 'Tag: 高俊明牧師'
+- **2025-09-16** 📰 'Tag: 抗議'
+- **2025-09-16** 📰 'Tag: 觀選感想'
+- **2025-09-16** 📰 'Tag: 馬無能'
+- **2025-09-16** 📰 'Tag: 雅文基金會'
+- **2025-09-16** 📰 'Tag: Chinese Government'
+- **2025-09-16** 📰 'Tag: 劉大潭'
+- **2025-09-16** 📰 'Tag: 中國網民的政治與社會認知'
+- **2025-09-16** 📰 'Tag: 證交稅'
+- **2025-09-16** 📰 'Tag: 田弘茂'
+- **2025-09-16** 📰 'Tag: 日本偷襲珍珠港'
+- **2025-09-16** 📰 'Tag: 中國經濟災難'
+- **2025-09-16** 🗳️ 'Tag: 總統與立委合併選舉'
+- **2025-09-16** 📰 'Tag: 中華民國百年'
+- **2025-09-16** 📰 'Tag: 反貪官'
+- **2025-09-16** 📰 'Tag: 污點證人'
+- **2025-09-16** 📰 'Tag: 族群'
+- **2025-09-16** 📰 'Tag: 柴玲'
+- **2025-09-16** 📰 'Tag: 音樂劇'
+- **2025-09-16** 📰 'Tag: 北京市長訪台'
+- **2025-09-16** 📰 'Tag: 美牛案'
+- **2025-09-16** 📰 'Tag: 謝清志'
+- **2025-09-16** 📰 'Tag: 毒牛立委'
+- **2025-09-16** 📰 'Tag: 雪中的布拉格'
+- **2025-09-16** 📰 'Tag: 假公主與真妖魔'
+- **2025-09-16** 📰 'Tag: 隱瞞禽流感疫情'
+- **2025-09-16** 📰 'Tag: 公信力'
+- **2025-09-16** 📰 'Tag: 螺栓'
+- **2025-09-16** 📰 'Tag: 西'
+- **2025-09-17** 📰 'Tag: 聯準會降息'
+- **2025-09-17** 📰 'Tag: 鮑威爾：經濟不差但政策選擇艱難'
+- **2025-09-30** 📰 'Tag: 有話鏡來講'
+- **2024-01-02** 📰 'Tag: 末日之淚'
+- **2024-01-02** 📰 'Tag: 威爾弟之安魂曲'
+- **2024-01-06** 📰 'Tag: 學生繪「帝王條款」親領特優獎'
+- **2024-01-06** 📰 'Tag: 以色列瓦解加薩北部哈瑪斯指揮中心'
+- **2024-01-06** 📰 'Tag: 郭台銘'  (4×)
+- **2024-01-06** 📰 'Tag: CNN選2024年最值得造訪處 台南驚喜上榜台灣唯一'
+- **2024-01-06** 📰 'Tag: 美國以立合唱團在高雄衛武營音樂廳演唱的「鐵砧合唱」- 選自歌劇「遊吟詩人」'
+- **2024-01-07** 📰 'Tag: 超級星期天'
+- **2024-01-09** 📰 'Tag: 從美食剖析台灣身分認同變化'
+- **2024-01-09** 📰 'Tag: 中國發射衛星惹議 柯文哲：中共扮演豬隊友角色'
+- **2024-01-10** 📰 'Tag: 林保華'  (7×)
+- **2024-01-12** 🗳️ 'Tag: 選前之夜'
+- **2024-01-20** 📰 'Tag: 宗像隆幸與彭明敏書信 密存銀行保險箱50年首度公開'
+- **2024-01-20** 🕯️ 'Tag: 李登輝'
+- **2024-01-20** 📰 'Tag: 中國'  (4×)
+- **2024-01-21** 🏛️ 'Tag: 花蓮噶瑪蘭族文化基金會'
+- **2024-01-26** 📰 'Tag: 川普遭控誹謗出庭作證'
+- **2024-01-26** 📰 'Tag: E. Jean Carroll'
+- **2024-01-26** 🏥 'Tag: 台積電'  (5×)
+- **2024-01-30** 📰 'Tag: 民眾黨自推黃珊珊角逐立法院長 藍讚做忠誠反對黨'
+- **2024-01-30** 📰 'Tag: 越南民眾臉書直播論政 被控誹謗黨和國家遭拘留'
+- **2024-02-02** 📰 'Tag: fentanyl'
+- **2024-02-02** 📰 'Tag: 半導體供應鏈'
+- **2024-02-11** 📰 'Tag: Kurt Campbell'
+- **2024-02-11** 📰 'Tag: 海軍春節巡弋'
+- **2024-02-11** 📰 'Tag: 德國政策鼓勵 陽台太陽能發電旺'
+- **2024-02-11** 📰 'Tag: 中國意圖控制第一島鏈以西海域'
+- **2024-02-12** 📰 'Tag: 找回年輕票'
+- **2024-02-12** 📰 'Tag: 蔡壁如任台中市政顧問 柯文哲：找時間拜訪盧秀燕'
+- **2024-02-12** 📰 'Tag: 共機共艦'
+- **2024-02-12** 📰 'Tag: 爭取青年認同 國民黨擬選將年輕化提供舞台'
+- **2024-02-12** 📰 'Tag: 參拜中彰投宮廟發福袋 賴清德盼不分黨派共同打拚'
+- **2024-02-14** 📰 'Tag: 美國以立合唱團在高雄衛武營音 樂廳演唱的「致死的震怒近了」'
+- **2024-02-16** 📰 'Tag: 拜登直指蒲亭和「他的暴徒」要為納瓦尼之死負責'
+- **2024-02-18** 📰 'Tag: 導讀台灣'  (5×)
+- **2024-02-19** 📰 'Tag: 國會議員該充分了解憲法 ◎ 陳茂雄'
+- **2024-02-19** 📰 'Tag: 我們的島'  (8×)
+- **2024-02-20** 📰 'Tag: 美否決安理會以哈立即人道停火案'
+- **2024-02-20** 📰 'Tag: 禁團令'
+- **2024-02-20** 📰 'Tag: 藍委籲重啟核能彌補電力不足 陳建仁：緩不濟急'
+- **2024-02-20** 📰 'Tag: 中國在亞太擴軍'
+- **2024-02-20** 📰 'Tag: hobart class air warfare destroyer'
+- **2024-02-20** 📰 'Tag: 中國有善意就提前開放'
+- **2024-02-22** 📰 'Tag: European Parliament'
+- **2024-02-22** 📰 'Tag: 陳破空'  (14×)
+- **2024-02-23** 📰 'Tag: 美國對俄羅斯祭出逾500項新制裁'
+- **2024-02-23** 📰 'Tag: 鄭知道了'  (9×)
+- **2024-02-24** 📰 'Tag: 加害者識別'
+- **2024-02-24** 📰 'Tag: 轉型正義尚有3法待完竣'
+- **2024-02-24** 📰 'Tag: 美駐華大使對中國挺俄很失望'
+- **2024-02-24** 📰 'Tag: 美步槍協會前執行長Wayne LaPierre'
+- **2024-02-25** 📰 'Tag: 竄改管碧玲段宜康對話'
+- **2024-02-25** 📰 'Tag: 微博322組帳號傳散假訊息'
+- **2024-02-26** 📰 'Tag: 蔡總統：日台如家人深厚情誼'
+- **2024-02-26** 📰 'Tag: 陳俊翰'
+- **2024-02-26** 📰 'Tag: 國造潛艦海鯤號'
+- **2024-02-27** 🕯️ 'Tag: 紀念228事件 陳建仁及部會首長佩戴百合胸花'
+- **2024-02-27** 🕯️ 'Tag: NATWA'
+- **2024-02-27** 🕯️ 'Tag: 陳慧中'
+- **2024-02-28** 📰 'Tag: 伊利諾法官裁定川普無資格總統初選'
+- **2024-02-29** 📰 'Tag: 拜登：加薩停火協商更複雜'
+- **2024-02-29** 📰 'Tag: 加薩糧食援助點重大死傷'
+- **2024-02-29** 📰 'Tag: 在野擬推縮短陸配入籍年限 陳建仁：目前無修法規劃'
+- **2024-02-29** 📰 'Tag: 美國通膨持續放緩'
+- **2024-02-29** 📰 'Tag: 王毅動態不尋常，顯露習政權危險動向 ◎ 陳破空'
+- **2024-02-29** 📰 'Tag: 國會通過短期資金延期法案 避免政府關閉'
+- **2024-02-29** 🗳️ 'Tag: 有話好說'  (12×)
+- **2024-02-29** 📰 'Tag: 金門快艇案'  (2×)
+- **2024-02-29** 🗳️ 'Tag: 前進新台灣'  (2×)
+- **2024-02-29** 📰 'Tag: 台灣向前行'  (4×)
+- **2024-03-01** 📰 'Tag: 「來自清水的孩子」'
+- **2024-03-01** 📰 'Tag: 「來自清水的孩子」奪法國居美亞洲文學獎'
+- **2024-03-01** 📰 'Tag: 吐瓦魯新任總理：民主與忠誠是維護與台灣邦交的理由'
+- **2024-03-01** 📰 'Tag: 大選陪審團'  (2×)
+- **2024-03-01** 🗳️ 'Tag: Feleti Teo'
+- **2024-03-01** 📰 'Tag: 年代晚報'  (5×)
+- **2024-03-01** 📰 'Tag: 新台灣加油'  (2×)
+- **2024-03-03** 📰 'Tag: 管碧玲'  (3×)
+- **2024-03-05** 📰 'Tag: 國會只多一席，國民黨就想翻天'
+- **2024-03-05** 📰 'Tag: 馮世寬'
+- **2024-03-06** 📰 'Tag: 川普主張享總統豁免權案'
+- **2024-03-11** 📰 'Tag: 退休的孤獨'
+- **2024-03-11** 📰 'Tag: 台灣共美國日照中心的社會語言學田野紀錄'
+- **2024-03-11** 📰 'Tag: 台灣駐以代表李雅萍投書'
+- **2024-03-11** 📰 'Tag: M503航線'
+- **2024-03-11** 📰 'Tag: 中國擅改M503航線危害台海航空安全'
+- **2024-03-11** 📰 'Tag: 世界台灣文化論壇'  (3×)
+- **2024-03-11** 📰 'Tag: 美中晶片戰'
+- **2024-03-12** 📰 'Tag: 賴清德就職典禮'
+- **2024-03-12** 📰 'Tag: 美國國會台灣連線共同主席Andy Barr'
+- **2024-03-17** 📰 'Tag: Alexei Navalny'  (2×)
+- **2024-03-17** 📰 'Tag: 民視異言堂'  (7×)
+- **2024-03-19** 📰 'Tag: 廢考監'
+- **2024-03-20** 📰 'Tag: 馬文君主持秘密會議遭質疑'
+- **2024-03-20** 📰 'Tag: 王金平救了台灣？ ◎陳茂雄'
+- **2024-03-22** 📰 'Tag: 維持現狀'
+- **2024-03-22** 📰 'Tag: 台灣獨立'
+- **2024-03-22** 📰 'Tag: 陳建仁'  (4×)
+- **2024-03-24** 📰 'Tag: 台海安全'
+- **2024-03-24** 📰 'Tag: 拜登簽署2024綜合撥款法'
+- **2024-03-24** 📰 'Tag: 中國經濟'
+- **2024-03-26** 🕯️ 'Tag: Elon Musk'  (5×)
+- **2024-03-27** 📰 'Tag: 陳昭姿'
+- **2024-03-27** 📰 'Tag: 沒有能力立法的台灣國會 ◎ 陳茂雄'
+- **2024-03-30** 📰 'Tag: 蔡總統現身大港開唱音樂祭'
+- **2024-03-30** 📰 'Tag: 袁智慧'  (2×)
+- **2024-03-30** 🗳️ 'Tag: 台灣亮起來'  (2×)
+- **2024-03-31** 🗳️ 'Tag: 立法院'
+- **2024-04-01** 📰 'Tag: 北韓向東海射彈道飛彈'
+- **2024-04-02** 📰 'Tag: 賴清德偕蕭美琴聽取國防工作報告'
+- **2024-04-02** 📰 'Tag: 賴清德蕭美琴視導衡山指揮所'
+- **2024-04-03** 📰 'Tag: 47國政要慰問花蓮震災'
+- **2024-04-03** 📰 'Tag: 導正謬誤的質詢須要反質詢 ◎ 陳茂雄'
+- **2024-04-04** 📰 'Tag: 大洛杉磯台灣會館協調為花蓮震災設捐款帳戶'
+- **2024-04-04** 📰 'Tag: NATO'
+- **2024-04-07** 📰 'Tag: 台灣啟示錄'  (6×)
+- **2024-04-07** 📰 'Tag: 驚爆新聞線'  (2×)
+- **2024-04-09** 📰 'Tag: Carlos Del Toro'
+- **2024-04-09** 📰 'Tag: 韓國瑜'  (6×)
+- **2024-04-10** 📰 'Tag: 美國3月通膨顯著回溫'
+- **2024-04-10** 🗳️ 'Tag: 韓國在野黨壓倒性勝利'
+- **2024-04-11** 📰 'Tag: 陳茂雄'  (5×)
+- **2024-04-12** 📰 'Tag: 美日菲領袖會談關注台海'
+- **2024-04-12** 📰 'Tag: 岸田文雄：台灣安定很重要'
+- **2024-04-12** 📰 'Tag: 中國2027年前淘汰外國晶片'
+- **2024-04-12** 📰 'Tag: 全國第一勇'  (2×)
+- **2024-04-12** 📰 'Tag: 突發琪想'  (7×)
+- **2024-04-12** 📰 'Tag: 關鍵時刻'  (5×)
+- **2024-04-12** 📰 'Tag: 新聞面對面'  (16×)
+- **2024-04-12** 🏥 'Tag: 新聞挖挖哇'  (5×)
+- **2024-04-13** 📰 'Tag: 國民黨'  (5×)
+- **2024-04-14** 📰 'Tag: 柯文哲'  (2×)
+- **2024-04-15** 📰 'Tag: 雪梨隨機殺人案'
+- **2024-04-15** 📰 'Tag: 特斯拉擬全球裁員'
+- **2024-04-15** 📰 'Tag: 吳誠文國科會主委'
+- **2024-04-16** 📰 'Tag: 經濟'
+- **2024-04-19** 📰 'Tag: William Burns'
+- **2024-04-20** 📰 'Tag: 美國眾議院80億美元援助台灣意義重大'
+- **2024-04-20** 📰 'Tag: 日本海上自衛隊2直升機夜間訓練墜海'
+- **2024-04-20** 📰 'Tag: 「21世紀透過實力達成和平法案」（21st Century Peace through Strength Act）'
+- **2024-04-21** 📰 'Tag: 新聞觀測站'  (7×)
+- **2024-04-22** 📰 'Tag: 台灣人公共事務會'
+- **2024-04-22** 📰 'Tag: 台灣最前線'  (2×)
+- **2024-04-23** 📰 'Tag: 美籍台裔記者CNN撰文：中國威脅下寧住台灣而非美國'
+- **2024-04-24** 📰 'Tag: 布林肯將籲中國勿在賴清德就職期間挑釁'
+- **2024-04-24** 📰 'Tag: 政經最前線'  (10×)
+- **2024-05-02** 📰 'Tag: 傅崐萁指拒絕參加協商 柯建銘反駁顛倒是非'
+- **2024-05-06** 📰 'Tag: 川普第十次違反禁言令 法官威脅再犯恐需蹲牢房'
+- **2024-05-07** 📰 'Tag: 川普潛在搭檔諾姆稱應賜死拜登愛犬'
+- **2024-05-09** 📰 'Tag: 成人片女星Stormy Daniels'
+- **2024-05-09** 🗳️ 'Tag: 川普'  (4×)
+- **2024-05-10** 📰 'Tag: 這一次，政府頒贈我們一枚勳章 ◎ 謝清志'
+- **2024-05-10** 🎤 'Tag: 大洛杉磯台灣會館'  (9×)
+- **2024-05-10** 🏥 'Tag: 美國'  (2×)
+- **2024-05-11** 📰 'Tag: 美國中西部政府慶台美人傳統週'
+- **2024-05-12** 📰 'Tag: 藍白聯手毀憲'
+- **2024-05-12** 📰 'Tag: 母親節'
+- **2024-05-12** 📰 'Tag: 旅美台僑美國會山莊前造勢 支持台灣參與WHA'
+- **2024-05-14** 📰 'Tag: 新北市長'
+- **2024-05-14** 📰 'Tag: 美禁止進口俄羅斯鈾'
+- **2024-05-14** 📰 'Tag: AI'
+- **2024-05-17** 📰 'Tag: 助力變阻力 ◎ 陳茂雄'
+- **2024-05-18** 📰 'Tag: 美亟欲擴充太空戰力應對俄中威脅'
+- **2024-05-18** 📰 'Tag: 星戰計畫'
+- **2024-05-19** 📰 'Tag: 520就職典禮總彩排'
+- **2024-05-19** 📰 'Tag: 賴清德蕭美琴宣誓就任正副總統'
+- **2024-05-19** 📰 'Tag: 墨西哥政治人物頻遇襲'
+- **2024-05-19** 📰 'Tag: 伊朗總統直升機墜毀'
+- **2024-05-19** 📰 'Tag: 斯洛伐克總理遇刺已無立即生命危險'
+- **2024-05-20** 📰 'Tag: Ebrahim Raisi'
+- **2024-05-21** 📰 'Tag: 匯聚民意洪流 目標解散國會 ◎林保華'
+- **2024-05-21** 📰 'Tag: 拜登釋放一百萬桶儲備石油以降低油價'
+- **2024-05-21** 📰 'Tag: 台灣趴趴走'  (3×)
+- **2024-05-22** 📰 'Tag: 只有共獨 那來台獨？ ◎ 陳茂雄'
+- **2024-05-22** 📰 'Tag: 「三大沒收」讓民眾憤怒'
+- **2024-05-22** 📰 'Tag: 卓榮泰赴立院拜會'
+- **2024-05-22** 📰 'Tag: 韓國瑜：配合政院優先推民生法案'
+- **2024-05-22** 📰 'Tag: 美對華競爭戰略三條腿的板凳'
+- **2024-05-23** 📰 'Tag: 解放軍環島軍演'
+- **2024-05-23** 📰 'Tag: 台灣人民付出代價'
+- **2024-05-23** 📰 'Tag: 台灣總統賴清德視察國軍'
+- **2024-05-23** 📰 'Tag: 藍白立法爭議掀立院內外對峙'
+- **2024-05-24** 📰 'Tag: 中國製光達感測器危國安 美國防開支法案將禁用'
+- **2024-05-24** 📰 'Tag: Light Detection and Ranging'
+- **2024-05-24** 📰 'Tag: 美參院推法案 加速美歐對台移交武器流程'
+- **2024-05-24** 📰 'Tag: 光達感測器'
+- **2024-05-24** 📰 'Tag: 國會職權修法 賴總統：人民基本權利不能任意侵犯'
+- **2024-05-24** 📰 'Tag: 10萬人抗議國會職權修法'
+- **2024-05-24** 📰 'Tag: 國會職權修法3天3夜表決大戰 關鍵條文皆二讀'
+- **2024-05-24** 📰 'Tag: 台灣第八次叩關世衛大會 難在哪裡？'
+- **2024-05-28** 📰 'Tag: 立法院職權行使法修正三讀'
+- **2024-05-28** 📰 'Tag: 白宮對台戰略清晰有助止戰'
+- **2024-05-28** 📰 'Tag: 立院三讀國會職權修正案 卓榮泰：研議提覆議'
+- **2024-06-06** 📰 'Tag: 1989年，歷史的里程碑和轉捩點 — 寫在六四35周年 ◎陳破空'
+- **2024-06-09** 📰 'Tag: 美將強化防禦關島 每年2次攔截追蹤飛彈測試'
+- **2024-06-10** 🗳️ 'Tag: 馬克宏陣營慘敗'
+- **2024-06-10** 🗳️ 'Tag: 極右勢力升'
+- **2024-06-10** 📰 'Tag: 鄧聿文：台灣也是美國的“核心利益”'
+- **2024-06-10** 🗳️ 'Tag: 歐洲議會選舉'
+- **2024-06-12** 🗳️ 'Tag: 國會改革'
+- **2024-06-12** 📰 'Tag: 美國2項軍備提前交運台灣'
+- **2024-06-12** 📰 'Tag: 標槍飛彈'
+- **2024-06-13** 📰 'Tag: 杜魯道盟友籲罷免叛國議員'
+- **2024-06-13** 📰 'Tag: 間諜疑雲籠罩加拿大'
+- **2024-06-13** 📰 'Tag: G7峰會更像畢旅而非展領導力'
+- **2024-06-14** 📰 'Tag: 民視晚間新聞'  (3×)
+- **2024-06-15** 📰 'Tag: Sandra Oudkirk'
+- **2024-06-16** 📰 'Tag: 看板人物'  (5×)
+- **2024-06-16** 📰 'Tag: 雅琴看世界'  (9×)
+- **2024-06-17** 📰 'Tag: 上訴法院口頭辯論'
+- **2024-06-17** 🏛️ 'Tag: TikTok'
+- **2024-06-20** 📰 'Tag: 戰爭行為'
+- **2024-06-20** 📰 'Tag: 中國海警揮刀斧登菲軍船奪槍'
+- **2024-06-20** 📰 'Tag: Benjamin Netanyahu'
+- **2024-06-21** 📰 'Tag: 美國總統大選金錢肉搏戰 川普捐款超越拜登'
+- **2024-06-22** 📰 'Tag: 爲左手寫的鋼琴曲 ◎ 信雅'
+- **2024-06-25** 📰 'Tag: 基隆東岸商場接管被控強盜轉偵字案'
+- **2024-06-27** 🗳️ 'Tag: 朱立倫'
+- **2024-06-28** 📰 'Tag: 寒蟬效應'
+- **2024-07-01** 📰 'Tag: 國會職權修法'
+- **2024-07-08** 📰 'Tag: 日本菲律賓簽署相互准入協定'
+- **2024-07-08** 📰 'Tag: 波音：氧氣罩新黏著劑致供氧器位移'
+- **2024-07-08** 📰 'Tag: 波音737型飛機氧氣罩有失效風險'
+- **2024-07-08** 📰 'Tag: 日菲擴大聯合訓練範圍劍指中國'
+- **2024-07-09** 📰 'Tag: 抗通膨'
+- **2024-07-09** 📰 'Tag: 聯準會主席赴國會作證'
+- **2024-07-09** 📰 'Tag: 北約峰會登場 拜登身心狀況成房間裡的大象'
+- **2024-07-10** 📰 'Tag: Michael McCaul'
+- **2024-07-13** 📰 'Tag: 消失的國界'  (2×)
+- **2024-08-11** 📰 'Tag: 裴洛西'
+- **2024-08-14** 📰 'Tag: 耿和'
+- **2024-08-18** 📰 'Tag: 大洛杉磯台灣會館耆老講座'
+- **2024-08-19** 🏥 'Tag: 布林肯'
+- **2024-09-08** 📰 'Tag: 習近平的歪頭一笑百昧生'
+- **2024-09-09** 📰 'Tag: 一中'
+- **2024-09-11** 📰 'Tag: 通膨'  (2×)
+- **2024-09-21** 📰 'Tag: 古典音樂的名勝 Marlboro'
+- **2024-09-21** 📰 'Tag: 【週末漫談音樂 (126)】古典音樂的名勝 Marlboro ◎ 信雅'
+- **2024-09-21** 📰 'Tag: 時代力量'
+- **2024-09-21** 📰 'Tag: Marlboro'
+- **2024-10-01** 📰 'Tag: 郝龍斌'  (2×)
+- **2024-10-05** 📰 'Tag: Tchaikovsky 與 von Meck 夫人'
+- **2024-10-09** 📰 'Tag: 拜登批川普及共和黨人撒謊影響救災'
+- **2024-10-09** 📰 'Tag: Marjorie Taylor Greene'
+- **2024-10-09** 📰 'Tag: 海倫過後密爾頓登陸'
+- **2024-10-17** 📰 'Tag: 飛彈'
+- **2024-10-18** 📰 'Tag: 西太平洋'
+- **2024-10-21** 📰 'Tag: 北市幼兒園性侵案'
+- **2024-10-21** 📰 'Tag: 許芷瑜搜索前出境'
+- **2024-10-21** 📰 'Tag: 柯文哲秘書許芷瑜改列被告'
+- **2024-10-21** 📰 'Tag: 毛畯珅'
+- **2024-10-21** 📰 'Tag: 柯文哲秘書許芷瑜'
+- **2024-10-21** 📰 'Tag: 侵犯39童'
+- **2024-10-26** 📰 'Tag: 上海萬聖節不許裝神弄鬼'
+- **2024-10-27** 📰 'Tag: 違憲新三寶'
+- **2024-10-28** 📰 'Tag: 種族歧視'
+- **2024-10-28** 📰 'Tag: 郭國文'  (2×)
+- **2024-10-29** 📰 'Tag: 民調'  (3×)
+- **2024-10-31** 📰 'Tag: 美歐中貿易論述大戰'
+- **2024-11-05** 🗳️ 'Tag: 美國大選'
+- **2024-11-09** 📰 'Tag: Mozart Effect （莫扎特效應）'
+- **2024-11-12** 📰 'Tag: 白宮國安顧問'
+- **2024-11-18** 📰 'Tag: 代理主席'
+- **2024-11-18** 📰 'Tag: 人民幣'
+- **2024-11-18** 🏥 'Tag: 認知作戰'
+- **2024-11-23** 📰 'Tag: 維吾爾'
+- **2024-11-23** 📰 'Tag: Walt Disney 精心製作古典音樂卡通電影 「Fantasia （幻想曲）'
+- **2024-11-26** 📰 'Tag: 中國來台交流人士經過精心挑選 背景特別'
+- **2024-11-29** 📰 'Tag: 台美人藝壇新秀陳君瑜又入選沙龍'
+- **2024-11-30** 📰 'Tag: 大洛杉磯台灣會館2024年10-11月會訊'
+- **2024-12-06** 📰 'Tag: 白色恐怖'
+- **2024-12-07** 📰 'Tag: 管絃樂團木管樂組'
+- **2024-12-07** 📰 'Tag: Flute （長笛）'
+- **2024-12-07** 📰 'Tag: James Galway'
+- **2024-12-08** 📰 'Tag: 一國兩制'
+- **2024-12-12** 📰 'Tag: Lloyd Austin'
+- **2024-12-19** 📰 'Tag: 川普夫婦會見安倍昭惠的訊號 ◎ 林保華'
+- **2024-12-25** 📰 'Tag: 去台灣化或去中國化 ◎ 陳茂雄'
+- **2024-12-28** 📰 'Tag: Handel （韓德爾）'
+- **2024-12-28** 📰 'Tag: Messiah（彌賽亞）'
+- **2023-01-05** 📰 'Tag: Charles Michel'
+- **2023-01-05** 🏥 'Tag: 中國疫情'
+- **2023-01-06** 📰 'Tag: 蓬佩奧'  (2×)
+- **2023-01-07** 🗳️ 'Tag: Rishi Sunak'
+- **2023-01-07** 📰 'Tag: 紙風車'
+- **2023-01-09** 📰 'Tag: 蘇伊士運河'
+- **2023-01-10** 📰 'Tag: 醫用台語ê社會語言學'
+- **2023-01-10** 📰 'Tag: 世界臺灣文化論壇'  (2×)
+- **2023-01-10** 📰 'Tag: 習思想'
+- **2023-01-10** 📰 'Tag: 眾院共和黨人的五項關鍵調查'
+- **2023-01-10** 📰 'Tag: 戰狼被拔牙'
+- **2023-01-10** 📰 'Tag: 中國駐日使領館暫停審發日本公民赴中普通簽證'
+- **2023-01-10** 📰 'Tag: 聯調局'
+- **2023-01-10** 📰 'Tag: 司法部'
+- **2023-01-10** 📰 'Tag: 趙立堅調職'
+- **2023-01-10** 📰 'Tag: COVID起源'
+- **2023-01-11** 📰 'Tag: 美國再延長公衛緊急狀態'
+- **2023-01-12** 📰 'Tag: 台積電法說會'
+- **2023-01-13** 🕯️ 'Tag: 岸信夫'
+- **2023-01-13** 📰 'Tag: 歌劇「遊唱詩人」'
+- **2023-01-13** 🗳️ 'Tag: 立院延會'
+- **2023-01-17** 📰 'Tag: 俄國入侵以來 9千烏克蘭平民遇害含453名兒童'
+- **2023-01-17** 📰 'Tag: 海戰中大規模艦隊總是贏家'
+- **2023-01-17** 📰 'Tag: 阿茲海默症新藥Lecanemab'
+- **2023-01-17** 📰 'Tag: Sam Tangredi'
+- **2023-01-17** 📰 'Tag: Lecanemab'
+- **2023-01-17** 📰 'Tag: 耆老講座'
+- **2023-01-17** 📰 'Tag: 台灣公費給付Paxlovid，成效達九成'
+- **2023-01-17** 📰 'Tag: 第一代台美人在美創業甘苦談'
+- **2023-01-21** 📰 'Tag: UNOCHA'
+- **2023-01-21** 📰 'Tag: 蔣萬安'
+- **2023-01-21** 📰 'Tag: Genesis在美聲請破產'
+- **2023-01-21** 📰 'Tag: 聯合國首批物資運抵烏東'
+- **2023-01-21** 🗳️ 'Tag: 內閣改組'
+- **2023-01-23** 📰 'Tag: 北約祕書長月底訪日韓'
+- **2023-01-23** 🕯️ 'Tag: 鮑斯（Netaji Subhash Chandra Bose）'
+- **2023-01-23** 📰 'Tag: 日本恐現10年一遇低溫'
+- **2023-01-24** 📰 'Tag: 全美台灣人權協會（FAHR)'
+- **2023-01-24** 📰 'Tag: FAHR研討會'
+- **2023-01-25** 📰 'Tag: 南極巨大冰山崩離 面積相當於大倫敦地區'
+- **2023-01-25** 📰 'Tag: 童振源提醒僑胞隨時注意安全'
+- **2023-01-27** 📰 'Tag: 昆布勞（Coen Blaauw）'
+- **2023-01-27** 📰 'Tag: Fed有望3月結束升息週期'
+- **2023-01-27** 📰 'Tag: 美國挺台法案'
+- **2023-01-27** 📰 'Tag: 2023年海外青年英語服務營'
+- **2023-01-27** 📰 'Tag: 台美小姐張芳瑜'
+- **2023-01-27** 📰 'Tag: 美國通膨降溫'
+- **2023-01-28** 📰 'Tag: 故宮院長蕭宗煌'
+- **2023-01-28** 📰 'Tag: 北加州台灣同鄉聯合會'
+- **2023-01-28** 📰 'Tag: 5俄人躲徵兵令逃出國滯留韓國仁川機場'
+- **2023-01-28** 📰 'Tag: 內政部長林右昌'
+- **2023-01-30** 📰 'Tag: 陳建仁內閣'
+- **2023-01-30** 📰 'Tag: COVID-19維持全球最高警戒'
+- **2023-01-31** 📰 'Tag: 烏龍亂槍，溫柔一刀…陳建仁內閣遭藍白黨噴墨汁交相賊! ◎ 胡文輝'
+- **2023-01-31** 📰 'Tag: nevada gigafactory tesla'
+- **2023-01-31** 📰 'Tag: Philip Davidson'
+- **2023-02-01** 📰 'Tag: 一中、華獨與台獨 ◎ 陳茂雄'
+- **2023-02-02** 📰 'Tag: Adm. Philip Davidson'
+- **2023-02-02** 📰 'Tag: 解放軍攻台時間預測越來越近'
+- **2023-02-02** 📰 'Tag: 捷克減少對俄國天然氣依賴'
+- **2023-02-02** 📰 'Tag: Michael Minihan'
+- **2023-02-03** 📰 'Tag: 陳培瑜遞補不分區立委'
+- **2023-02-03** 📰 'Tag: 長程精準火箭'
+- **2023-02-03** 📰 'Tag: 食安自治條例台中市府興訟案更一審敗訴'
+- **2023-02-03** 📰 'Tag: 蕭美琴將返國述職'
+- **2023-02-03** 📰 'Tag: 盧秀燕要中央尊重地方法律與自治項目'
+- **2023-02-03** 📰 'Tag: 滅火器樂團大洛杉磯台灣會館舉辦演場會'
+- **2023-02-03** 📰 'Tag: 美國對烏克蘭增22億美元軍援'
+- **2023-02-03** 📰 'Tag: 台灣禦寒物資再送烏克蘭'
+- **2023-02-03** 📰 'Tag: 民進黨反擊王鴻薇拿了錢的落跑市議員'
+- **2023-02-03** 📰 'Tag: 「以立合唱團」演唱的威爾弟歌劇合唱選曲「致死的震怒近了」'
+- **2023-02-03** 📰 'Tag: 王鴻薇：將提案修法 調降卸任總統副總統禮遇金'
+- **2023-02-04** 📰 'Tag: 麥卡錫稱尚無訪台規劃，陳建仁：尊重決定'
+- **2023-02-04** 📰 'Tag: 美軍方警告：恐在2025年因台灣而與中國爆發衝突！◎ 陳昭南'
+- **2023-02-06** 📰 'Tag: 土耳其連兩強震死傷慘重 總統宣布進入7日哀悼期'
+- **2023-02-06** 📰 'Tag: 228七十六周年'
+- **2023-02-07** 📰 'Tag: 邱莉莉遭民進黨停權'
+- **2023-02-07** 📰 'Tag: 聯合國憂俄烏衝突引爆大戰'
+- **2023-02-07** 📰 'Tag: 德州政府公佈禁用TikTok的安全示範計劃'
+- **2023-02-07** 📰 'Tag: 鮑爾：優於預期經濟數據可能促使聯準會持續升息'
+- **2023-02-07** 📰 'Tag: 美海軍公佈首批打撈中國氣球殘骸照片'
+- **2023-02-07** 📰 'Tag: 中國偵察氣球若來犯，日防相：有可能依法擊落'
+- **2023-02-07** 📰 'Tag: 俄國2月恐發動新攻勢'
+- **2023-02-07** 📰 'Tag: 美擊落偵察氣球當天 中國拒絕兩國防長安全通話'
+- **2023-02-07** 📰 'Tag: 土耳其強震'
+- **2023-02-07** 📰 'Tag: 台南正副議長涉賄'
+- **2023-02-11** 📰 'Tag: 以立合唱團演唱的「亞述女王」 – 選自歌劇「拿布果」'
+- **2023-02-13** 📰 'Tag: 曹興誠'  (2×)
+- **2023-02-13** 📰 'Tag: 曹興誠：中國借弔唁星雲統戰 佛教界應引以為戒'
+- **2023-02-25** 📰 'Tag: 基隆228檔案'
+- **2023-02-25** 📰 'Tag: 林木杞證實鐵絲穿手掌腳踝串起多人丟下海'
+- **2023-02-25** 📰 'Tag: 澳洲專家：蔡明彥掌國安局 台灣成情報分享國家'
+- **2023-02-28** 🕯️ 'Tag: 台灣國家聯盟'
+- **2023-03-01** 📰 'Tag: 禮來（Eli Lilly）'
+- **2023-03-01** 📰 'Tag: Humalog'
+- **2023-03-11** 📰 'Tag: 美國防部長下令–中國是美國「一整個世代的挑戰」◎ 陳昭南'
+- **2023-03-11** 🏥 'Tag: 武漢病毒研究所'
+- **2023-03-14** 📰 'Tag: 楊信'
+- **2023-03-14** 📰 'Tag: 當飢餓的肉食動物面對獵物 ◎陳茂雄'
+- **2023-03-14** 📰 'Tag: 第一代台美人創業甘苦談'
+- **2023-03-15** 📰 'Tag: 中共比納粹德國是更大威脅 ◎林保華'
+- **2023-03-16** 📰 'Tag: 台灣工作文化具優勢'
+- **2023-03-16** 📰 'Tag: 半導體供應鏈兩極化'
+- **2023-03-16** 📰 'Tag: 張忠謀米勒對談'
+- **2023-03-16** 📰 'Tag: Chris Miller'
+- **2023-03-17** 📰 'Tag: 聯合國報告：俄羅斯強制移送烏克蘭兒童構成戰爭罪'
+- **2023-03-17** 🗳️ 'Tag: 溫哥華首位華裔當選市長'
+- **2023-03-17** 🗳️ 'Tag: 加媒：中國涉動用僑團力量干預選舉'
+- **2023-03-17** 📰 'Tag: 德部長級官員訪台'
+- **2023-03-17** 📰 'Tag: 台德科學技術合作協議'
+- **2023-03-17** 📰 'Tag: 與過去的自己競爭 ◎ 陳茂雄'
+- **2023-03-17** 📰 'Tag: 國際刑事法院通緝的國家元首'
+- **2023-03-18** 🕯️ 'Tag: 白色恐怖受難者追思會'
+- **2023-03-18** 📰 'Tag: 烏東城市克拉莫托斯克遭集束炸彈攻擊'
+- **2023-03-18** 📰 'Tag: Kramatorsk'
+- **2023-03-19** 📰 'Tag: Bettina Stark-Watzinger'
+- **2023-03-19** 📰 'Tag: 228事件民軍二七部隊長鍾逸人逝世'
+- **2023-03-20** 📰 'Tag: 二十世紀台灣第一場政治秀'
+- **2023-03-20** 📰 'Tag: 「台灣行啟」寫真帖線上展出'
+- **2023-03-20** 📰 'Tag: 種族滅絕'
+- **2023-03-21** 📰 'Tag: 馬英九'  (5×)
+- **2023-03-21** 📰 'Tag: 國安局'
+- **2023-03-24** 📰 'Tag: 皇帝之死'
+- **2023-03-25** 📰 'Tag: 台灣'  (2×)
+- **2023-03-30** 📰 'Tag: 「反共保台」的先知：杜勒斯 （上） ◎ 獨傲村夫'
+- **2023-04-07** 📰 'Tag: 監視器'
+- **2023-04-18** 📰 'Tag: John Aquilino'
+- **2023-04-23** 📰 'Tag: 義大利'
+- **2023-04-23** 📰 'Tag: 盧沙野指前蘇聯國主權未定 法國要中方說清楚'
+- **2023-05-02** 📰 'Tag: 康達（Daniel Kritenbrink）'
+- **2023-05-03** 📰 'Tag: 聯準會升息1碼'
+- **2023-05-06** 📰 'Tag: 王金平'  (2×)
+- **2023-05-13** 🏥 'Tag: 中華民國'
+- **2023-05-17** 📰 'Tag: 大洛杉磯台灣會館2023年5月份會訊'
+- **2023-05-18** 🏛️ 'Tag: 黃光芹'
+- **2023-05-23** 📰 'Tag: 美中關係'
+- **2023-05-25** 📰 'Tag: 外資加碼AI概念股 大買台積電'
+- **2023-06-01** 📰 'Tag: 性騷擾'
+- **2023-06-07** 📰 'Tag: 余忠村老師特製藝術品義賣'
+- **2023-06-07** 🗳️ 'Tag: CNN'
+- **2023-06-07** 📰 'Tag: 朱敬一談台灣民主少了什麼'
+- **2023-06-07** 📰 'Tag: 賴清德：政治要同理心'
+- **2023-06-10** 🗳️ 'Tag: 3Q新台灣'
+- **2023-06-10** 📰 'Tag: 可信賴AI對話引擎'
+- **2023-06-10** 🗳️ 'Tag: 林智堅'
+- **2023-06-10** 📰 'Tag: 台版生成式對話引擎初代模型近日亮相'
+- **2023-06-14** 📰 'Tag: 海峽論壇'  (3×)
+- **2023-06-17** 📰 'Tag: 台美攝影學會攝影初級班'
+- **2023-06-17** 📰 'Tag: 唐鳳'  (2×)
+- **2023-06-17** 📰 'Tag: 大洛杉磯台灣會館台灣學校'  (2×)
+- **2023-06-20** 📰 'Tag: 潛水器探索鐵達尼號失聯'
+- **2023-06-20** 📰 'Tag: 民進黨'  (2×)
+- **2023-06-24** 📰 'Tag: 文化外交'
+- **2023-06-27** 📰 'Tag: 侯友宜找金溥聰救火'
+- **2023-06-27** 📰 'Tag: 郭台銘有意併購民眾黨'
+- **2023-07-02** 📰 'Tag: 葉倫7/6訪中 與新領導班子重建聯繫'
+- **2023-07-02** 📰 'Tag: 法國大暴動'
+- **2023-07-15** 📰 'Tag: 擋住陽光，地球就不會再暖化？ ◎ 獨傲村夫'
+- **2023-07-16** 📰 'Tag: 沙利文：中國限制出口關鍵礦產是自我挫敗的舉動'
+- **2023-07-16** 📰 'Tag: 秦剛消失之謎'
+- **2023-07-16** 📰 'Tag: 蔡英文力挺賴清德接棒'
+- **2023-07-16** 📰 'Tag: 民進黨全代會展現團結氣勢'
+- **2023-07-18** 📰 'Tag: 中華電赴美掛牌20年 紐約證交所敲鐘慶里程碑'
+- **2023-07-19** 📰 'Tag: 台灣人的朋友 ◎ 陳茂雄'
+- **2023-07-21** 📰 'Tag: NASAMS'
+- **2023-07-25** 📰 'Tag: 大洛杉磯台灣會館2023年7月份會訊'
+- **2023-07-30** 📰 'Tag: 看電影學台語、唸歌冊讀俗語'
+- **2023-08-04** 🗳️ 'Tag: 鄭文燦'
+- **2023-08-04** 📰 'Tag: Nancy Pelosi'
+- **2023-08-09** 📰 'Tag: 大洛杉磯台灣會館 和諧粉彩手繪課程'
+- **2023-08-10** 📰 'Tag: 習近平為何不去現場賑災？ ◎ 林保華'
+- **2023-08-13** 📰 'Tag: 林楚茵駁前瞻債留子孫說'
+- **2023-08-13** 📰 'Tag: 民進黨溫暖好政說明會'
+- **2023-08-21** 📰 'Tag: 大洛杉磯台灣會館2023年8月份會訊'
+- **2023-08-24** 📰 'Tag: NVIDIA輝達250億美元買庫藏股'
+- **2023-08-25** 📰 'Tag: 中國股市不值得撿便宜 台股更吸引人'
+- **2023-08-27** 📰 'Tag: 澤倫斯基：在烏設禁航區 否則俄火箭遲早落北約'
+- **2023-08-27** 📰 'Tag: 前衛生署長楊志良拿蔡英文扯家暴'
+- **2023-08-27** 📰 'Tag: 楊志良家暴說惹議'
+- **2023-08-31** 📰 'Tag: 大馬外長：將遞抗議照會 反對中國新地圖納東馬海域'
+- **2023-08-31** 📰 'Tag: Zambry Abdul Kadir'
+- **2023-09-07** 📰 'Tag: 吳釗燮投書阿根廷媒體 籲國際挺台參與聯合國'
+- **2023-09-08** 📰 'Tag: Giorgia Meloni'
+- **2023-09-14** 📰 'Tag: 紐約近兩年最大IPO案 安謀目標市值逾520億美元'
+- **2023-09-15** 📰 'Tag: Google'
+- **2023-09-16** 📰 'Tag: 史哲'
+- **2023-09-16** 📰 'Tag: 轉型正義5法'
+- **2023-09-19** 📰 'Tag: 共和黨總統初選辯論 將在雷根圖書館舉行'
+- **2023-09-20** 📰 'Tag: 聯準會9月會議決策 利率按兵不動'
+- **2023-09-21** 📰 'Tag: 不連任的災害 ◎ 陳茂雄'
+- **2023-09-21** 📰 'Tag: 侯友宜訪美返國'
+- **2023-09-21** 📰 'Tag: 美眾院聽證會關注孔子教室滲透中小學'
+- **2023-09-23** 📰 'Tag: 五眼聯盟'
+- **2023-09-23** 📰 'Tag: 台灣自救宣言案史料'
+- **2023-09-23** 📰 'Tag: 彭明敏'
+- **2023-09-24** 📰 'Tag: 政局驚人動盪，習政權到底出了什麼事？ ◎陳破空'
+- **2023-09-24** 📰 'Tag: 彭明敏師生案新史料'
+- **2023-09-24** 📰 'Tag: 泡製「台獨聯盟台灣本部案」'
+- **2023-09-24** 📰 'Tag: 台南美國新聞處爆炸案誣賴給謝聰敏、魏廷朝'
+- **2023-09-25** 📰 'Tag: 高虹安'
+- **2023-09-27** 📰 'Tag: 親中的總統參選人不敢訪中國 ◎林保華'
+- **2023-09-27** 📰 'Tag: 鶼鰈情深'
+- **2023-09-27** 📰 'Tag: 寄語中秋 ◎袁智慧'
+- **2023-09-28** 📰 'Tag: 紅朝進入宦官政治：習蔡依賴秘書幫監視高官和將領  ◎ 陳破空'
+- **2023-09-30** 📰 'Tag: 眾議院通過法案，確保政府運作至11月中旬，等待參院通過'
+- **2023-09-30** 📰 'Tag: 指揮家Abbado'
+- **2023-09-30** 📰 'Tag: 究責威權時期加害者 關鍵時效問題待解套'
+- **2023-09-30** 📰 'Tag: 【週末漫談音樂 (113)】20/21 世紀偉大的指揮家Abbado ◎ 信雅'
+- **2023-09-30** 📰 'Tag: 黃家古厝中秋音樂會'
+- **2023-10-04** 📰 'Tag: 留在華沙的那顆心 ◎王淑芬'
+- **2023-10-04** 📰 'Tag: 凱薩醫療機構逾7萬人罷工3天'
+- **2023-10-06** 📰 'Tag: 伊朗女權鬥士穆哈瑪迪獲和平獎 聯合國：表彰伊朗女性勇氣'
+- **2023-10-14** 📰 'Tag: 20世紀名合唱曲 Carmina Burana（布蘭詩歌）'
+- **2023-10-14** 📰 'Tag: 信雅'  (7×)
+- **2023-10-15** 📰 'Tag: 世客博'
+- **2023-10-15** 📰 'Tag: 賴清德批中捷藍線改到有利人士附近'
+- **2023-10-15** 📰 'Tag: 林靜儀：市府需說服民眾中捷藍線非特殊關係'
+- **2023-10-15** 📰 'Tag: 文化里程碑'
+- **2023-10-15** 📰 'Tag: 民眾黨拒初選 金溥聰喊話柯文哲勿以一己心度他人腹'
+- **2023-10-15** 📰 'Tag: 2023年世界客家博覽會'
+- **2023-10-15** 📰 'Tag: 郭辦：「做無一湯匙」是指藍白合 非針對柯文哲'
+- **2023-10-15** 📰 'Tag: 講甲規畚箕，做無一湯匙'
+- **2023-10-16** 📰 'Tag: 仇恨犯罪'
+- **2023-10-17** 📰 'Tag: 以巴衝突'
+- **2023-10-18** 📰 'Tag: 柯文哲反對恢復特偵組'
+- **2023-10-18** 📰 'Tag: 法治國家'
+- **2023-10-19** 📰 'Tag: 羅致政'
+- **2023-10-19** 📰 'Tag: 美國紐澤西州長墨菲首度訪台'
+- **2023-10-19** 📰 'Tag: 許哲賓'
+- **2023-10-19** 📰 'Tag: 埃及約旦為何拒收巴勒斯坦難民'
+- **2023-10-19** 📰 'Tag: 馬文君提案凍結潛艦3億預算'
+- **2023-10-20** 🗳️ 'Tag: 賴清德：雙首長制有存在道理'
+- **2023-10-21** 🏥 'Tag: 蔡英文'  (5×)
+- **2023-10-25** 🗳️ 'Tag: 強生當選美國眾議長'
+- **2023-10-25** 📰 'Tag: 二度違反禁嚴令 川普被罰一萬美元'
+- **2023-10-26** 📰 'Tag: 中共山東號航艦擾台'
+- **2023-10-26** 📰 'Tag: 耕耘與收穫 ◎ 陳茂雄'
+- **2023-10-26** 📰 'Tag: 習近平'  (8×)
+- **2023-10-27** 📰 'Tag: 李克強'
+- **2023-10-27** 📰 'Tag: 美官員：”小多邊主義”形塑印太戰略'
+- **2023-10-28** 🏥 'Tag: 古典音樂對身心健康的影響'
+- **2023-10-29** 📰 'Tag: G7貿易部長會議劍指中國'
+- **2023-10-29** 📰 'Tag: 洛杉磯機場警察萬聖節派對'
+- **2023-11-01** 📰 'Tag: Boris Johnson'  (2×)
+- **2023-11-01** 📰 'Tag: 強生曾問吹風機吹鼻孔可否抗COVID'
+- **2023-11-01** 📰 'Tag: 吳音寧'  (3×)
+- **2023-11-02** 📰 'Tag: 日本「忠犬八公」百歲冥誕'
+- **2023-11-02** 📰 'Tag: 「忠犬八公」'
+- **2023-11-04** 📰 'Tag: 高明的設計師？ ◎陳茂雄'
+- **2023-11-06** 🗳️ 'Tag: bumbler'
+- **2023-11-07** 📰 'Tag: 為何政黨輪替難？◎ 陳茂雄'
+- **2023-11-08** 📰 'Tag: 馬英九不知球員不能兼裁判？◎ 陳茂雄'
+- **2023-11-10** 📰 'Tag: 習近平訪美'
+- **2023-11-10** 📰 'Tag: 香港夜繽紛 難解金融困 ◎ 林保華'
+- **2023-11-10** 📰 'Tag: 李克強突然離世，悼念潮引人沉思  ◎ 陳破空'
+- **2023-11-11** 📰 'Tag: Kit Armstrong'
+- **2023-11-11** 📰 'Tag: 有台灣人血統的神童'
+- **2023-11-11** 📰 'Tag: 周善祥'
+- **2023-11-11** 📰 'Tag: 在討皮痛？ ◎ 陳茂雄'
+- **2023-11-15** 📰 'Tag: 藍白合有無中國介入'
+- **2023-11-15** 📰 'Tag: 藍白合協商驚見「馬英九死亡之握」'
+- **2023-11-15** 📰 'Tag: 習拜會：中國的戰略詐欺 ◎林保華'
+- **2023-11-17** 📰 'Tag: 藍白合只是權位分贓'
+- **2023-11-17** 📰 'Tag: 吳思瑤：賴蕭配正向力量更受青睞'
+- **2023-11-17** 📰 'Tag: 藍白合翻盤？'
+- **2023-11-18** 📰 'Tag: 240人質仍在哈瑪斯手上'
+- **2023-11-19** 📰 'Tag: 柯文哲羞辱葛來儀下場'
+- **2023-11-19** 📰 'Tag: 美國前總統卡特夫人羅莎琳去世'
+- **2023-11-19** 📰 'Tag: 打擊芬太尼'
+- **2023-11-19** 📰 'Tag: 佛州邁阿密中國城文化藝術創新區'
+- **2023-11-19** 📰 'Tag: 柯︰用民眾黨總統候選人身分戰到底'
+- **2023-11-19** 📰 'Tag: 侯︰走自己的路 而且走到底'
+- **2023-11-19** 📰 'Tag: 這種人想當總統？未免太丟臉'
+- **2023-11-19** 📰 'Tag: Rosalynn Carter'
+- **2023-11-19** 📰 'Tag: 以色列：加薩最大醫院下方發現55公尺長地道'
+- **2023-11-19** 📰 'Tag: 洛杉磯人權組織與中國異議人士 遊行呼籲中國政府釋放香港政治犯'
+- **2023-11-19** 📰 'Tag: 「死亡之握」的威力 ◎鄒景雯'
+- **2023-11-19** 📰 'Tag: 黃捷'
+- **2023-11-19** 📰 'Tag: 蕭美琴請辭駐美代表 投入2024大選'
+- **2023-11-19** 📰 'Tag: 以色列：哈瑪斯曾將人質押進加薩最大醫院'
+- **2023-11-19** 📰 'Tag: 田納西州連續槍擊'
+- **2023-11-19** 📰 'Tag: 法國將派兩棲直升機航艦 為加薩提供醫療援助'
+- **2023-11-20** 📰 'Tag: 柯辦：沒有侯柯配這個選項'
+- **2023-11-20** 📰 'Tag: 台灣地位議題'
+- **2023-11-20** 📰 'Tag: Tiffany Chang披Taiwan彩帶贏得美國亞洲小姐'
+- **2023-11-20** 📰 'Tag: 賴蕭配成軍'
+- **2023-11-20** 📰 'Tag: 賴清德：不會認同「統一的幻想」'
+- **2023-11-20** 📰 'Tag: 時代雜誌專訪賴清德'
+- **2023-11-20** 📰 'Tag: 加薩戰火'
+- **2023-11-20** 📰 'Tag: 藍白合卡關'
+- **2023-11-20** 📰 'Tag: 不分區立委名單'
+- **2023-11-20** 📰 'Tag: 人質獲釋協議'
+- **2023-11-20** 📰 'Tag: 美議員促政府專注軍售台灣'
+- **2023-11-20** 📰 'Tag: 北韓發射運載衛星火箭'
+- **2023-11-20** 📰 'Tag: 張芳瑜'
+- **2023-11-20** 📰 'Tag: 賴蕭配搶頭香登記'
+- **2023-11-20** 📰 'Tag: 賴清德：讓台灣持續走入國際 不走一中老路'
+- **2023-11-20** 📰 'Tag: 藍堅持雙方先合才有柯文哲站台'
+- **2023-11-20** 📰 'Tag: F-16計畫'
+- **2023-11-20** 📰 'Tag: 拜習會'  (4×)
+- **2023-11-20** 📰 'Tag: 藍白幕僚密會'
+- **2023-11-20** 📰 'Tag: 台美外交創佳績'
+- **2023-11-20** 📰 'Tag: 翻轉艱困選區'
+- **2023-11-20** 📰 'Tag: 葛來儀：蕭美琴促進台灣利益表現出色'
+- **2023-11-25** 🏥 'Tag: 週末漫談音樂'  (10×)
+- **2023-11-26** 🎤 'Tag: 藍白合'
+- **2023-11-27** 📰 'Tag: Isaac Herzog'
+- **2023-11-28** 🗳️ 'Tag: 戰爭牌'
+- **2023-11-28** 📰 'Tag: 為民眾黨把脈 ◎ 陳茂雄'
+- **2023-11-28** 🗳️ 'Tag: 姚立明'  (4×)
+- **2023-11-28** 🕯️ 'Tag: Omer Shem Tov'
+- **2023-11-28** 📰 'Tag: 駐美代表人選'
+- **2023-11-28** 📰 'Tag: 國台辦火力全開攻擊賴蕭配'
+- **2023-11-29** 📰 'Tag: 沃爾瑪轉向印度進口便宜商品'
+- **2023-11-29** 📰 'Tag: 蕭美琴返台拚選戰'
+- **2023-11-30** 📰 'Tag: 選總統'
+- **2023-12-02** 📰 'Tag: 有效嚇阻需具備可靠威懾與保證'
+- **2023-12-03** 📰 'Tag: 限制晶片出口點名輝達'
+- **2023-12-03** 📰 'Tag: 蔡英文促選民投票時想想香港、要有尊嚴的和平'
+- **2023-12-03** 🏥 'Tag: 緬甸'  (2×)
+- **2023-12-04** 📰 'Tag: 美參議員促將中國公安部鑑定中心重列黑名單'
+- **2023-12-05** 📰 'Tag: 中廣'
+- **2023-12-05** 📰 'Tag: 中國開發商碧桂園在馬來西亞建造的「鬼城」'
+- **2023-12-05** 📰 'Tag: Trevor Jacob'
+- **2023-12-05** 📰 'Tag: 森林城市'
+- **2023-12-05** 📰 'Tag: 製造飛機失事自拍逃生 美國YouTuber被判坐牢6個月'
+- **2023-12-06** 📰 'Tag: 義大利正式通知中國退出一帶一路'
+- **2023-12-06** 🗳️ 'Tag: 侯趙配降溫'
+- **2023-12-06** 🗳️ 'Tag: 立委選舉'
+- **2023-12-06** 📰 'Tag: 影射高虹安與有婦之夫交往 周玉蔻獲不起訴'
+- **2023-12-07** 📰 'Tag: 內華達大學拉斯維加斯分校槍擊案'
+- **2023-12-07** 📰 'Tag: 好油版主林裕紘再翻車'
+- **2023-12-07** 📰 'Tag: 賴營批徐巧芯為政治前途洩漏國家機密'
+- **2023-12-07** 📰 'Tag: 大學教授行凶'
+- **2023-12-07** 📰 'Tag: 李勝峰批蕭美琴美國走狗'
+- **2023-12-08** 🗳️ 'Tag: 陳吉仲'
+- **2023-12-08** 📰 'Tag: 王滬寧主導 中共化整為零對台介選'
+- **2023-12-09** 📰 'Tag: 王定宇'  (6×)
+- **2023-12-10** 📰 'Tag: 柯盈配'
+- **2023-12-10** 🗳️ 'Tag: 賴蕭配'
+- **2023-12-11** 📰 'Tag: 侯康配全國競總開幕'
+- **2023-12-11** 📰 'Tag: 侯友宜外交政見搭配合照 葛來儀：別暗示我挺侯'
+- **2023-12-13** 📰 'Tag: 南海'  (5×)
+- **2023-12-14** 🗳️ 'Tag: 趙少康'  (2×)
+- **2023-12-21** 📰 'Tag: 以立合唱團在高雄衛武營演唱的「希望之光」'
+- **2023-12-21** 📰 'Tag: 「希望之光」第一樂章「苦難」'
+- **2023-12-24** 📰 'Tag: 醫療崩潰'
+- **2023-12-25** 📰 'Tag: 陳佩琪'  (2×)
+- **2023-12-25** 📰 'Tag: 政治犯'
+- **2023-12-26** 🗳️ 'Tag: 台灣大選'
+- **2023-12-27** 🗳️ 'Tag: 蕭美琴'  (2×)
+- **2023-12-28** 📰 'Tag: 侯友宜'
+- **2023-12-28** 📰 'Tag: 勞動部'
+- **2023-12-29** 📰 'Tag: 美國以立合唱團在高雄衛武營演唱的「威爾弟安魂曲」選曲「震怒之日」'
+- **2023-12-29** 📰 'Tag: 中國取消12項ECFA優惠關稅'
+- **2023-12-29** 📰 'Tag: 大洛杉磯台灣會館會訊'
+- **2023-12-29** 📰 'Tag: 台灣石化業尋求轉向布局'
+- **2023-12-30** 📰 'Tag: 疫苗採購'
+
+- **2022-01-01** 📰 'Tag: 玫瑰花車遊行'
+- **2022-01-01** 📰 'Tag: 慶祝新年的音樂'
+- **2022-01-01** 📰 'Tag: 英媒推薦全球8大驚嘆耶誕樹 新北耶誕城上榜'
+- **2022-01-01** 📰 'Tag: 華航「自行車遊台灣」獲大會國際獎'
+- **2022-01-02** 📰 'Tag: 居家辦公'
+- **2022-01-02** 🏥 'Tag: Fauci'
+- **2022-01-02** 📰 'Tag: 台師大獎勵以本土語言授課'
+- **2022-01-03** 📰 'Tag: Erdogan'
+- **2022-01-03** 📰 'Tag: 美國核武政策'
+- **2022-01-03** 📰 'Tag: 美俄中英法同意應避免核武擴散及核戰'
+- **2022-01-03** 📰 'Tag: 立陶宛蘭姆酒遭中國拒收漂流海上'
+- **2022-01-03** 📰 'Tag: 港交所新年首個交易日，恆大集團再次宣布暫停交易'
+- **2022-01-03** 📰 'Tag: 中國威脅日增，美日聯合兵推深化軍事合作'
+- **2022-01-03** 📰 'Tag: 登山專家周業鎮'
+- **2022-01-03** 📰 'Tag: 顏寬恒再一次嚴重失言●全國超商員工都怒了？'
+- **2022-01-03** 📰 'Tag: 將台灣推廣為徒步旅行勝地'
+- **2022-01-03** 📰 'Tag: 2萬多瓶立陶宛蘭姆酒台酒全買下'
+- **2022-01-03** 📰 'Tag: 尼加拉瓜斷交吳進木未返台報告'
+- **2022-01-04** 📰 'Tag: 金錢敢會當買著幸福？'
+- **2022-01-04** 📰 'Tag: 習近平屠刀下 前景慘淡的中國經濟'
+- **2022-01-05** 📰 'Tag: 鄭大平'
+- **2022-01-05** 📰 'Tag: 總統特聘林佳龍為無任所大使'
+- **2022-01-05** 📰 'Tag: 特斯拉為何不顧人權爭議在新疆開店'
+- **2022-01-05** 📰 'Tag: F-16V新式頭盔讓飛官「看哪打哪」'
+- **2022-01-05** 📰 'Tag: 立院修憲委員會議'
+- **2022-01-05** 📰 'Tag: 罷免'
+- **2022-01-05** 📰 'Tag: 聯準會利空襲擊'
+- **2022-01-06** 📰 'Tag: 美日2加2會談'
+- **2022-01-07** 📰 'Tag: 自欺欺人'
+- **2022-01-07** 📰 'Tag: 顏色革命'
+- **2022-01-07** 📰 'Tag: 哈薩克鎮壓升級'
+- **2022-01-07** 📰 'Tag: 西安悲劇'
+- **2022-01-07** 📰 'Tag: 台灣發現小米手機審查政治敏感字彙'
+- **2022-01-07** 📰 'Tag: 美調查機構IPVM稱將繼續曝光其無良作為'
+- **2022-01-07** 📰 'Tag: 讀懂西安人的三句話'
+- **2022-01-08** 🏛️ 'Tag: 林靜儀'
+- **2022-01-08** 📰 'Tag: 江雪「長安十日」遭全面下架'
+- **2022-01-08** 📰 'Tag: 「抗中保台」的軍人天職'
+- **2022-01-08** 📰 'Tag: 報案講中文嘛ㄟ通'
+- **2022-01-08** 📰 'Tag: 黑金勢力的斂財秘笈'
+- **2022-01-08** 📰 'Tag: 舊金山駐處聯手警局拍影片'
+- **2022-01-08** 📰 'Tag: 柯文哲上任7年台北市人口流失20萬'
+- **2022-01-08** 📰 'Tag: 比特幣'
+- **2022-01-08** 📰 'Tag: 加密幣挖礦大國哈薩克暴動斷網'
+- **2022-01-08** 📰 'Tag: Opus 100'
+- **2022-01-08** 📰 'Tag: 台灣2021年出口成長近3成'
+- **2022-01-08** 📰 'Tag: 「反共藍」于北辰退黨'
+- **2022-01-08** 📰 'Tag: 駐韓美軍確診案例急增'
+- **2022-01-08** 📰 'Tag: 台灣亞洲四小龍之冠'
+- **2022-01-08** 📰 'Tag: 沖繩美軍染疫 全球最糟'
+- **2022-01-08** 🏛️ 'Tag: 顏寬恒'
+- **2022-01-09** 📰 'Tag: 美日擬設新出口框架防尖端技術外流中國'
+- **2022-01-09** 📰 'Tag: 長堤-桃園姊妹市捐贈醫療物資給美國柬埔寨醫療專業協會'
+- **2022-01-09** 📰 'Tag: 台語歌'
+- **2022-01-09** 📰 'Tag: 回家，好難'
+- **2022-01-09** 📰 'Tag: 第16回世界台灣文化論壇'
+- **2022-01-09** 🗳️ 'Tag: 港共表演社會主義民主選舉醜劇'
+- **2022-01-10** 📰 'Tag: 林昶佐'
+- **2022-01-10** 🕯️ 'Tag: 民運人士計劃紐約籌設六四紀念館'
+- **2022-01-10** 📰 'Tag: 彭博估英特爾得長期當老二'
+- **2022-01-10** 📰 'Tag: 反制極音速武器'
+- **2022-01-10** 📰 'Tag: 慶賀葉思雅、張信惠「週末漫談音樂」專欄里程碑'
+- **2022-01-10** 📰 'Tag: 美軍「卡爾文森號」航艦 首度搭載F-35C駛入南海'
+- **2022-01-10** 📰 'Tag: 英特爾晶片製造龍頭不保'
+- **2022-01-10** 📰 'Tag: 日本積極開發電磁砲'
+- **2022-01-10** 📰 'Tag: 高一開本土語文課程'
+- **2022-01-10** 📰 'Tag: 美國重申挺立台深化合作'
+- **2022-01-10** 📰 'Tag: 台日經貿會議開幕'
+- **2022-01-10** 🏛️ 'Tag: 翁山蘇姬'  (2×)
+- **2022-01-10** 📰 'Tag: 中二選區檢調豈容裝睡●竊占國土罪徹查到底！'
+- **2022-01-10** 📰 'Tag: 圓滿的100'
+- **2022-01-10** 📰 'Tag: 總統府「福運旺來」春聯紅包袋'
+- **2022-01-10** 📰 'Tag: 北京籲立陶宛「糾正錯誤」'
+- **2022-01-10** 🕯️ 'Tag: 香港已無六四空間'
+- **2022-01-10** 📰 'Tag: 邱義仁：福島食品開放沒有時間表'
+- **2022-01-11** 📰 'Tag: 鎮瀾宮'
+- **2022-01-11** 📰 'Tag: CDC擬建議民眾戴N95或KN95口罩'
+- **2022-01-11** 🗳️ 'Tag: 民進黨徵召辦法'
+- **2022-01-11** 📰 'Tag: 對抗中國打壓'
+- **2022-01-11** 📰 'Tag: 由萊豬看日本核食'
+- **2022-01-11** 📰 'Tag: 抗癌藥Plitidepsin能有效對抗Omicron'
+- **2022-01-11** 📰 'Tag: 西班牙製藥商PharmaMar'
+- **2022-01-11** 📰 'Tag: 立陶宛駐台經貿代表處今春開始運作'
+- **2022-01-11** 📰 'Tag: 鮑爾證詞緩和投資人憂慮'
+- **2022-01-11** 📰 'Tag: 慕尼黑綜合症'
+- **2022-01-11** 🏥 'Tag: Omicron症狀似感冒'
+- **2022-01-11** 📰 'Tag: 港媒點名吳叡人違反國安法'
+- **2022-01-11** 📰 'Tag: 吳叡人指北京打擊目標實際是香港記協'
+- **2022-01-12** 📰 'Tag: 篩檢'
+- **2022-01-12** 🏛️ 'Tag: Elizabeth Holmes'
+- **2022-01-12** 📰 'Tag: 以色列實驗教金魚「開車」'
+- **2022-01-12** 🏥 'Tag: 新冠病毒暴露空氣5分鐘失大部分感染力'
+- **2022-01-12** 🏛️ 'Tag: Elizabeth Holmes 量刑延至9月'
+- **2022-01-12** 📰 'Tag: 拜登欲擺脫參院 filibuster'
+- **2022-01-12** 🏥 'Tag: 戴口罩'
+- **2022-01-12** 📰 'Tag: 美國2021年CPI漲幅達7%'
+- **2022-01-12** 📰 'Tag: 動物導航能力'
+- **2022-01-13** 📰 'Tag: 蔣經國路線是反共保台，國民黨應省思學習'
+- **2022-01-13** 📰 'Tag: 台派力挺朱立倫留任'
+- **2022-01-13** 📰 'Tag: 林姿妙涉案遭約談複訊'
+- **2022-01-13** 📰 'Tag: 蔣經國救不了中國國民黨'
+- **2022-01-13** 📰 'Tag: 「炒地王」盧秘書陷入風暴'
+- **2022-01-13** 📰 'Tag: 美不認為俄已決定侵略烏克蘭'
+- **2022-01-13** 🏥 'Tag: 確診者多輕症卻把病房當飯店'
+- **2022-01-13** 📰 'Tag: 中國國民黨對不起顏家'
+- **2022-01-13** 📰 'Tag: 攝護腺癌'
+- **2022-01-13** 📰 'Tag: 攝護腺癌小學堂'
+- **2022-01-13** 📰 'Tag: 台積電法說會報佳音'
+- **2022-01-13** 📰 'Tag: 檢聲押宜蘭建設處代理處長吳朝琴'
+- **2022-01-14** 📰 'Tag: 烏克蘭遭大規模網攻'
+- **2022-01-14** 📰 'Tag: 丹麥與荷蘭宣布抵制北京冬奧'
+- **2022-01-14** 📰 'Tag: 喬科維奇簽證註銷再遭拘留提上訴'
+- **2022-01-14** 📰 'Tag: KN95 和N95'
+- **2022-01-14** 📰 'Tag: 俄羅斯部署更多部隊'
+- **2022-01-14** 📰 'Tag: 台灣海軍布雷艇中隊成軍'
+- **2022-01-14** 📰 'Tag: 美依煽動叛亂重罪 起訴涉國會遇襲案11人'
+- **2022-01-14** 📰 'Tag: 台灣不對稱作戰可恃戰力'
+- **2022-01-14** 📰 'Tag: 總預算6113提案待協商'
+- **2022-01-14** 📰 'Tag: 美兩黨議員呼籲盡快釋放伊力哈木'
+- **2022-01-14** 📰 'Tag: F-16V戰機墜海位置'
+- **2022-01-14** 📰 'Tag: 科學家們為何要壓制武漢肺炎係實驗室洩漏的理論？'
+- **2022-01-14** 📰 'Tag: 強生封城期間開趴'
+- **2022-01-14** 🏥 'Tag: 美國務院呼籲中國放行郭飛雄奔喪'
+- **2022-01-14** 📰 'Tag: 喬科維奇沒打疫苗遭澳洲撤簽證風波'
+- **2022-01-14** 📰 'Tag: F-16V戰機墜海 DNA鑑定證實飛官陳奕罹難'
+- **2022-01-14** 📰 'Tag: 維族學者伊力哈木'
+- **2022-01-14** 📰 'Tag: 美國共和黨候選人不參加總統辯論'
+- **2022-01-14** 📰 'Tag: 18歲公民權修憲'
+- **2022-01-14** 📰 'Tag: 中國壟斷稀土市場'
+- **2022-01-14** 📰 'Tag: 美國網紅早衰症少女Adalia Rose辭世'
+- **2022-01-14** 📰 'Tag: 海軍布雷中隊成軍'
+- **2022-01-14** 📰 'Tag: 中國施壓後 華府海軍武官協會排除台灣'
+- **2022-01-14** 📰 'Tag: 中國製造的口罩'
+- **2022-01-14** 📰 'Tag: 國民黨基層拱郭台銘救黨'
+- **2022-01-14** 📰 'Tag: Omicron+惡劣天氣打亂供應鏈 美國超市補不了貨'
+- **2022-01-14** 📰 'Tag: Omicron疫情在紐約等大城開始減緩'
+- **2022-01-14** 📰 'Tag: 喬科維奇簽證二度遭撤銷'
+- **2022-01-14** 📰 'Tag: 宜蘭縣長林姿妙涉弊'
+- **2022-01-14** 📰 'Tag: 北韓14天內3度射飛彈'
+- **2022-01-14** 📰 'Tag: 不公平貿易'
+- **2022-01-14** 📰 'Tag: 川普讚法院擋疫苗強制令'
+- **2022-01-14** 📰 'Tag: 蔡英文賴清德打第3劑高端疫苗'
+- **2022-01-14** 📰 'Tag: 「案海策略」杯葛'
+- **2022-01-14** 📰 'Tag: 德國建議冬奧選手別帶個人手機'
+- **2022-01-16** 📰 'Tag: Novak Djokovic'
+- **2022-01-17** 📰 'Tag: 美國海軍內華達號戰略核潛艇現身關島'
+- **2022-01-17** 📰 'Tag: 腥風血雨！習近平2022年的開局'
+- **2022-01-19** 📰 'Tag: 「七海寓所」'
+- **2022-01-19** 📰 'Tag: 蔣經國在台唯一保存故居 「七海寓所」'
+- **2022-01-19** 📰 'Tag: 王清霜、李敏勇、呂紹嘉獲行政院文化獎'
+- **2022-01-19** 📰 'Tag: 福爾摩沙音樂廳'
+- **2022-01-19** 📰 'Tag: 凋零女丑演出黨國反動醜戲●陳時中大氣淡定回應'
+- **2022-01-19** 📰 'Tag: 41 屆行政院文化獎得主'
+- **2022-01-20** 📰 'Tag: 趙少康：我是總統最適人選●習近平：好膽你來啊！'
+- **2022-01-21** 📰 'Tag: 御用文人的惡是一種什麼樣的惡？'
+- **2022-01-21** 📰 'Tag: 習近平提五個自信，越發沒有自信'
+- **2022-01-21** 📰 'Tag: 美議員提STAND with Taiwan Act'
+- **2022-01-21** 📰 'Tag: 中國若入侵台灣，美國將採取嚴厲經濟制裁'
+- **2022-01-21** 📰 'Tag: 印尼將推動新機構'
+- **2022-01-22** 📰 'Tag: 六都春秋'
+- **2022-01-22** 📰 'Tag: 吳進木'
+- **2022-01-22** 📰 'Tag: 支持媒體人趙少康競選台灣總統，反對女丑方芳教唆殺人！'
+- **2022-01-22** 📰 'Tag: 台灣中高齡女性勞動參與率逾52% 創10年新高'
+- **2022-01-23** 📰 'Tag: Molnupiravir'
+- **2022-01-23** 🏥 'Tag: 海峽論談'  (4×)
+- **2022-01-24** 📰 'Tag: 辜寬敏捐贈市值逾1億元土地 協助台電設置綠電'
+- **2022-01-25** 📰 'Tag: 瘋狂女粉絲跟蹤Tim Cook一年多'
+- **2022-01-25** 📰 'Tag: 輝瑞BNT研發專攻Omicron疫苗'
+- **2022-01-25** 📰 'Tag: Australian Hypersonics Research Precinct'
+- **2022-01-25** 📰 'Tag: AirCar 300公尺跑道就能起飛'
+- **2022-01-25** 📰 'Tag: 澳洲極音速研究特區開幕'
+- **2022-01-25** 📰 'Tag: 斯洛伐克飛行車AirCar獲適航證書'
+- **2022-01-25** 📰 'Tag: 美企半導體庫存剩不到5天'
+- **2022-01-25** 📰 'Tag: 2月中下旬日月潭八重櫻盛開'
+- **2022-01-25** 📰 'Tag: 中國網絡管控'
+- **2022-01-25** 📰 'Tag: 2021年北美半導體設備出貨，史上首見每個月逾30億美元'
+- **2022-01-25** 📰 'Tag: 台灣首度櫻花預報'
+- **2022-01-25** 📰 'Tag: 台灣櫻花'
+- **2022-01-25** 📰 'Tag: 騰訊篡改美國影片Fight Club結局'
+- **2022-01-26** 📰 'Tag: 法國通過新法禁止「性傾向扭轉治療」'
+- **2022-01-26** 📰 'Tag: conversion therapy'
+- **2022-01-26** 📰 'Tag: 這個國度，人們為何扭曲如蛆？'
+- **2022-01-26** 📰 'Tag: 歐盟法院撤銷英特爾罰款'
+- **2022-01-26** 📰 'Tag: 美警告俄恐2月中旬前攻烏'
+- **2022-01-26** 📰 'Tag: 福特號航艦今秋正式部署'
+- **2022-01-26** 📰 'Tag: 英特爾反競爭案勝訴'
+- **2022-01-26** 📰 'Tag: 台灣是否參加北京冬奧開幕式'
+- **2022-01-26** 📰 'Tag: 日本修改安保戰略，研議焦點包括台海局勢'
+- **2022-01-26** 📰 'Tag: 美國駐中國大使館'
+- **2022-01-26** 📰 'Tag: 柯文哲為敬老金爭議公開道歉'
+- **2022-01-26** 📰 'Tag: 俄烏代表巴黎會談 化解邊界緊張情勢'
+- **2022-01-26** 📰 'Tag: 美國在波羅的海基地部署F-15戰機'
+- **2022-01-26** 📰 'Tag: 加州聖荷西立法強制擁槍者購買責任險'
+- **2022-01-26** 📰 'Tag: 美籲公民立即離開烏克蘭'
+- **2022-01-26** 📰 'Tag: 北約擬書面回應俄羅斯安全要求'
+- **2022-01-26** 📰 'Tag: 歐盟及5友邦在世衛執委會為台灣發聲'
+- **2022-01-28** 📰 'Tag: 聯合國人權高專辦'
+- **2022-02-01** 📰 'Tag: 地球'
+- **2022-02-08** 🏥 'Tag: Omicron'
+- **2022-02-13** 📰 'Tag: 台股重跌'
+- **2022-02-15** 📰 'Tag: 日本擬3月鬆綁邊境管制'
+- **2022-02-15** 📰 'Tag: 2022大洛杉磯台灣會館台語文春季班'
+- **2022-02-15** 📰 'Tag: 在美上市公司披露是否有中共組織'
+- **2022-02-18** 📰 'Tag: 一個中國'
+- **2022-02-19** 📰 'Tag: 洛僑中心文化志工與主流Mayfair中學師生文化交流'
+- **2022-02-24** 🕯️ 'Tag: 楊月清'
+- **2022-02-25** 📰 'Tag: 烏克蘭戰爭 西班牙媒關切台灣'
+- **2022-02-25** 📰 'Tag: 劉德立代表談中國威脅'
+- **2022-02-25** 📰 'Tag: 外資賣超'
+- **2022-02-26** 📰 'Tag: 新台幣走勢相對穩定'
+- **2022-03-06** 📰 'Tag: Peter Dutton'
+- **2022-03-07** 📰 'Tag: F-16'
+- **2022-03-08** 📰 'Tag: 邊境解封'
+- **2022-03-14** 📰 'Tag: 台積電股價'
+- **2022-03-14** 📰 'Tag: 若戰事拖長 烏克蘭經濟可能崩潰'
+- **2022-03-14** 📰 'Tag: 鴻海與沙國談90億美元合資案'
+- **2022-03-20** 📰 'Tag: 台灣受假訊息侵擾連9年奪冠'
+- **2022-03-20** 📰 'Tag: 佛奇（Anthony Fauci）'
+- **2022-03-20** 📰 'Tag: Omicron亞型變異株BA.2'
+- **2022-03-21** 📰 'Tag: 朱立倫5月訪美'
+- **2022-03-21** 📰 'Tag: 蘇起洪秀柱口徑一致，顯然有中共的指揮和協調'
+- **2022-03-21** 📰 'Tag: 保衛中華民國需要兩國論'
+- **2022-03-21** 📰 'Tag: 國民黨駐美代表處'
+- **2022-03-24** 📰 'Tag: 聯合國大會通過決議 籲俄立即停止對烏克蘭作戰'
+- **2022-03-24** 📰 'Tag: 聲援烏克蘭'
+- **2022-03-24** 📰 'Tag: 台灣健保投保上限'
+- **2022-03-25** 📰 'Tag: 通俄門'
+- **2022-03-29** 📰 'Tag: 海基會董事彭蔭剛(彭孟緝子)刊廣告替中國政治作戰'
+- **2022-03-29** 📰 'Tag: 洛杉磯聖東台灣同鄉會園藝分享會'
+- **2022-03-29** 📰 'Tag: 普京策士杜金驅動戰爭加速俄羅斯衰落'
+- **2022-03-30** 📰 'Tag: Enes Kanter Freedom'
+- **2022-04-03** 📰 'Tag: 上海封城'
+- **2022-04-05** 📰 'Tag: 鍾佳濱'
+- **2022-04-08** 🏥 'Tag: 譚德塞'
+- **2022-04-10** 📰 'Tag: 紐約市長亞當斯就任百日確診'
+- **2022-04-10** 📰 'Tag: 俄侵烏新指揮官Alexander Dvornikov'
+- **2022-04-10** 📰 'Tag: Garuda Shield'
+- **2022-04-10** 📰 'Tag: 香港資深媒體人區家麟遭國安處逮捕'
+- **2022-04-10** 📰 'Tag: 教宗籲俄烏停火'
+- **2022-04-10** 📰 'Tag: Krauss-Maffei Wegmann 自走砲'
+- **2022-04-10** 📰 'Tag: 德國軍火商提供大量自走砲 支援烏克蘭抗俄'
+- **2022-04-10** 📰 'Tag: 西方研擬新制裁和軍援挺烏克蘭'
+- **2022-04-10** 🏥 'Tag: 名醫妙方'  (2×)
+- **2022-04-10** 📰 'Tag: 菲律賓總統大選海外投票開跑'
+- **2022-04-10** 📰 'Tag: 澤倫斯基：阻俄侵烏攸關所有民主政體安全'
+- **2022-04-11** 📰 'Tag: 黑鷹直升機'
+- **2022-04-11** 📰 'Tag: 王淑芬'
+- **2022-04-13** 📰 'Tag: Our Ocean Conference'
+- **2022-04-13** 📰 'Tag: 張子敬以台灣官方身分出席帛琉海洋大會'
+- **2022-04-14** 📰 'Tag: 熱帶風暴梅姬襲菲律賓'
+- **2022-04-15** 📰 'Tag: Lindsey Graham'
+- **2022-04-16** 📰 'Tag: 吳澧培'
+- **2022-04-19** 📰 'Tag: 口罩'
+- **2022-04-26** 📰 'Tag: 立院投票同意邢泰釗出任檢察總長'
+- **2022-04-26** 📰 'Tag: 聯合國人權高專先遣小組將訪新疆'
+- **2022-04-26** 🏥 'Tag: 全球兒童急性肝炎累計190例病因不明'
+- **2022-04-26** 📰 'Tag: 美驅逐艦通過台灣海峽'
+- **2022-04-26** 📰 'Tag: 美股重挫'
+- **2022-04-27** 📰 'Tag: 快篩實名制'
+- **2022-04-28** 📰 'Tag: 現代舞—蔡瑞月'
+- **2022-04-28** 📰 'Tag: 公視台語台「練痟話」哏圖疑諷柯文哲'
+- **2022-04-28** 📰 'Tag: 流亡殖民中華文化民族舞'
+- **2022-04-28** 📰 'Tag: 美國會立法支持台灣，南加州僑胞展現實力'
+- **2022-04-28** 📰 'Tag: 大基輔地區已發現1150具平民屍體'
+- **2022-04-29** 📰 'Tag: 美日防長5/4會晤'
+- **2022-04-29** 📰 'Tag: 印尼邀請蒲亭參加G20，美拒絕與俄「一切照舊」'
+- **2022-04-29** 📰 'Tag: Osman Kavala'
+- **2022-04-29** 📰 'Tag: 那指創13年來最慘單月表現'
+- **2022-04-29** 🏥 'Tag: 美股大跌'
+- **2022-04-29** 📰 'Tag: 異議人士遭判監禁掀波，德國、土耳其互召見大使'
+- **2022-04-30** 📰 'Tag: 開羅宣言'
+- **2022-04-30** 🏥 'Tag: 腺病毒'
+- **2022-05-01** 📰 'Tag: 美國參議院將審理援烏法案，增列沒收俄權貴財產條款'
+- **2022-05-01** 📰 'Tag: 高嘉瑜'
+- **2022-05-04** 📰 'Tag: 中俄對國際秩序構成挑戰'
+- **2022-05-04** 📰 'Tag: 美日防長會談'
+- **2022-05-04** 📰 'Tag: 台灣駐美代表蕭美琴'
+- **2022-05-05** 📰 'Tag: 胡錫進'
+- **2022-05-07** 🗳️ 'Tag: 香港特首選舉'
+- **2022-05-09** 📰 'Tag: 美股續跌'
+- **2022-05-11** 📰 'Tag: 快篩'
+- **2022-05-11** 🏥 'Tag: 北韓首度證實出現COVID-19病例'
+- **2022-05-12** 📰 'Tag: Jerome Powell'
+- **2022-05-12** 📰 'Tag: 65歲以上長者接種疫苗●送快篩2劑+500元禮券'
+- **2022-05-12** 🏥 'Tag: 北韓發現新冠病例'
+- **2022-05-13** 📰 'Tag: 美俄防長首次談烏克蘭戰爭'
+- **2022-05-13** 📰 'Tag: 美國加州登山越野攝影展'
+- **2022-05-13** 📰 'Tag: 李孟居'
+- **2022-05-13** 📰 'Tag: 克蘭媒體自由中心'
+- **2022-05-13** 📰 'Tag: 北韓疫情大爆發疑與閱兵有關'
+- **2022-05-13** 📰 'Tag: Putin''s Palace'
+- **2022-05-13** 📰 'Tag: Lyudmila Ocheretnaya'
+- **2022-05-13** 📰 'Tag: 「無國界記者組織」（Reporters sans frontières，RSF）'
+- **2022-05-13** 📰 'Tag: 英國應加大支持台灣力道 有效嚇阻中國'
+- **2022-05-13** 📰 'Tag: 英國制裁蒲亭核心圈成員 前妻和緋聞女友入列'
+- **2022-05-13** 📰 'Tag: 新時代走清零道路的“大白”當權派'
+- **2022-05-13** 📰 'Tag: 中共疑建模型模擬攻擊蘇澳軍港'
+- **2022-05-13** 📰 'Tag: 無國界記者組織感謝台灣捐款烏克蘭媒體自由中心'
+- **2022-05-14** 📰 'Tag: 檢討港澳政策'
+- **2022-05-14** 📰 'Tag: 台灣國安局長陳明通發表外交和國防等事務報告'
+- **2022-05-14** 🏛️ 'Tag: 李四端的雲端世界'  (2×)
+- **2022-05-14** 📰 'Tag: 防中資偽裝港資來台'
+- **2022-05-14** 📰 'Tag: 立法助台參與WHA 總統府感謝拜登持續堅定支持'
+- **2022-05-15** 📰 'Tag: 台灣自購首批輝瑞BNT兒童疫苗到貨'
+- **2022-05-16** 🕯️ 'Tag: 僑委會'
+- **2022-05-16** 📰 'Tag: 新疆疏附縣25人就有1人坐牢'
+- **2022-05-16** 📰 'Tag: 中共培植台灣網紅搞統戰'
+- **2022-05-16** 📰 'Tag: 加州爾灣台灣長老教會遭槍擊'
+- **2022-05-16** 📰 'Tag: AIT轉達美政府哀悼'
+- **2022-05-16** 📰 'Tag: 上海4月機場旅客量崩跌98.93%'
+- **2022-05-16** 📰 'Tag: 新疆疏附縣監禁率全球第一'
+- **2022-05-17** 📰 'Tag: 葉倫訪歐 籲團結因應中國商業行徑'
+- **2022-05-18** 📰 'Tag: 台股可能震盪'
+- **2022-05-18** 📰 'Tag: 國民黨徵召張善政選桃園市長'
+- **2022-05-18** 📰 'Tag: 拜登亞洲行將宣布啟動印太經濟架構'
+- **2022-05-18** 📰 'Tag: 外國代理人'
+- **2022-05-18** 📰 'Tag: Steve Wynn'
+- **2022-05-18** 📰 'Tag: 美賭場大亨韋恩為孫力軍等中國官員遊說'
+- **2022-05-19** 🎤 'Tag: 林榮松'
+- **2022-05-20** 🕯️ 'Tag: 促轉會'
+- **2022-05-21** 📰 'Tag: Starliner'
+- **2022-05-21** 📰 'Tag: 馬英九稱任內年年參加WHA'
+- **2022-05-21** 📰 'Tag: 世衛行動團抵達日內瓦'
+- **2022-05-22** 📰 'Tag: 北京錯誤描述華府的台灣政策'
+- **2022-05-22** 🏛️ 'Tag: WHO'  (6×)
+- **2022-05-22** 📰 'Tag: WHA'  (2×)
+- **2022-05-22** 📰 'Tag: 台灣參與世界衛生組織前景黯淡'
+- **2022-05-28** 📰 'Tag: 拜登'  (4×)
+- **2022-05-31** 📰 'Tag: 美國商務部長雷蒙多（Gina Raimondo）'
+- **2022-05-31** 📰 'Tag: 新台幣'
+- **2022-06-06** 🏛️ 'Tag: 憂台灣有事 日本防衛省研議成立統合司令官'
+- **2022-06-06** 📰 'Tag: 小強續嗆「不善政」●誰來扮演通吃的「黃雀」◎ ˊ'
+- **2022-06-07** 📰 'Tag: 六四'
+- **2022-06-09** 🗳️ 'Tag: 中國國民黨'
+- **2022-06-16** 📰 'Tag: 台積電首推奈米片架構2奈米製程'
+- **2022-06-16** 📰 'Tag: ASML高數值孔徑EUV工具'
+- **2022-06-16** 📰 'Tag: 沈慧虹戰竹市'
+- **2022-06-16** 📰 'Tag: 林右昌選新北？'
+- **2022-06-16** 📰 'Tag: 華爾街日報：美中防長表面交鋒 實則欲緩和緊張'
+- **2022-06-18** 📰 'Tag: 林智堅選桃園'
+- **2022-06-19** 📰 'Tag: 美國克里夫蘭聯邦準備銀行總裁麥斯特（Loretta Mester）'
+- **2022-06-20** 📰 'Tag: 拍視頻侮辱黑人的中國男子在贊比亞被捕'
+- **2022-06-20** 📰 'Tag: Lu Ke'
+- **2022-06-20** 📰 'Tag: Guns 4 Ukraine'
+- **2022-06-20** 📰 'Tag: 華府爆槍擊'
+- **2022-06-20** 📰 'Tag: 台灣外銷訂單'
+- **2022-06-20** 📰 'Tag: 台北獲評全球最宜居城市第10名 英媒讚亞洲瑰寶'
+- **2022-06-20** 📰 'Tag: 美與盟國討論對俄羅斯石油實施價格上限'
+- **2022-06-20** 📰 'Tag: Dmitry Muratov'
+- **2022-06-20** 📰 'Tag: 俄諾貝爾和平獎得主獎章拍得逾1億美元，全部用於援助烏克蘭兒童'
+- **2022-06-21** 📰 'Tag: 台海現狀動盪 前白宮官員4建言籲加強對中嚇阻'
+- **2022-06-21** 📰 'Tag: 羅亞娜、吳坤墉獲頒台法文化獎'
+- **2022-06-21** 📰 'Tag: 香港50年不變半路變調，彭定康批習近平報復心切'
+- **2022-06-21** 📰 'Tag: 俄貨物轉運受限揚言報復立陶宛'
+- **2022-06-21** 📰 'Tag: 韓製火箭世界號自主發射成功'
+- **2022-06-22** 📰 'Tag: 斷電'
+- **2022-06-22** 📰 'Tag: 野地的花 ◎ 楊遠薰'
+- **2022-06-22** 📰 'Tag: 俄揚言報復立陶宛'
+- **2022-06-22** 📰 'Tag: 網攻'
+- **2022-06-22** 📰 'Tag: Gitanas Nauseda'
+- **2022-06-23** 📰 'Tag: 成功少年講台語'
+- **2022-06-23** 📰 'Tag: 烏克蘭152處歷史遺跡遭破壞'
+- **2022-06-23** 📰 'Tag: 中國外交官假信息批北約'
+- **2022-06-23** 📰 'Tag: Nike確定全面退出俄羅斯市場'
+- **2022-06-23** 📰 'Tag: 習派特使放軟身段訪歐遭豬隊友扯後腿'
+- **2022-06-23** 📰 'Tag: 綠促侯友宜回應恩恩爸爸訴求 公布檢討報告'
+- **2022-06-23** 📰 'Tag: 藍批長照指引慢半拍'
+- **2022-06-23** 📰 'Tag: S-70C機工長宣告不治'
+- **2022-06-23** 📰 'Tag: 比利時大遊行反對北約？環球時報造謠傳謠'
+- **2022-06-23** 📰 'Tag: 菲律賓終止中菲南海油氣開發協商'
+- **2022-06-23** 📰 'Tag: 土耳其外文名改稱Türkiye'
+- **2022-06-23** 📰 'Tag: 終日打雁，叫雁啄了眼'
+- **2022-06-24** 🕯️ 'Tag: 王廷宜（ 泰和 ）先生追思會6/25舉行'
+- **2022-06-25** 📰 'Tag: 美國數州墮胎診所紛關閉'
+- **2022-06-25** 📰 'Tag: 墮胎憲法保障遭推翻'
+- **2022-06-25** 📰 'Tag: The Partners in the Blue Pacific'
+- **2022-06-25** 📰 'Tag: 蒲亭：數月內運交可搭載核彈頭飛彈予白俄羅斯'
+- **2022-06-25** 📰 'Tag: 美軍羅伯茲號水下7千公尺尋獲'
+- **2022-06-25** 📰 'Tag: 羅訴韋德案裁決遭推翻 泰勒絲、怪奇比莉表態譴責'
+- **2022-06-25** 📰 'Tag: 「福建號」劍指台美，美軍恢復駐台，此其時矣'
+- **2022-06-25** 📰 'Tag: 美國在南太地區組建“藍色太平洋合作夥伴”組織'
+- **2022-06-25** 📰 'Tag: USS Samuel B Roberts'
+- **2022-06-25** 📰 'Tag: 華郵：俄進攻資源快耗盡 烏年底前絕地反攻'
+- **2022-06-25** 📰 'Tag: 史上最深沉船'
+- **2022-06-25** 📰 'Tag: 憲法保護墮胎權遭推翻 美保守派與宗教團體讚揚'
+- **2022-06-26** 📰 'Tag: 從普京的教訓看中國'
+- **2022-06-26** 📰 'Tag: 習近平訪港不過夜'
+- **2022-06-26** 📰 'Tag: 香港七一前夕疫情反彈升溫'
+- **2022-06-26** 🎤 'Tag: 王丹'  (5×)
+- **2022-06-26** 📰 'Tag: 「詐騙」訓練基地'
+- **2022-06-26** 📰 'Tag: 賴清德手術順利已無恙●進化蛻變「賴清德2.0」'
+- **2022-06-27** 📰 'Tag: 美德州卡車內驚見40具遺體'
+- **2022-06-27** 📰 'Tag: 西拉雅族釋憲案，憲法法庭召開言詞辯論庭'
+- **2022-06-27** 📰 'Tag: 台美貿易倡議首次會談'
+- **2022-06-27** 📰 'Tag: 唐山打人事件顯示中國已淪為「蠅國」'
+- **2022-06-29** 📰 'Tag: 藍營總統路難行無關侯友宜'
+- **2022-06-29** 📰 'Tag: 美東台灣人夏令會'
+- **2022-06-29** 📰 'Tag: 俄軍飛彈轟商場畫面曝光，澤倫斯基籲UN派員察看'
+- **2022-06-29** 📰 'Tag: 北美台灣人教授協會年會'
+- **2022-06-29** 📰 'Tag: 龔明鑫'
+- **2022-06-29** 📰 'Tag: 美台“友岸外包”模式加強供應鏈合作'
+- **2022-06-29** 📰 'Tag: 總統錄影致詞「美東台灣人夏令會」'
+- **2022-06-29** 📰 'Tag: 台灣環球晶圓投資美國'
+- **2022-06-30** 📰 'Tag: 英相批中國未尊重一國兩制'
+- **2022-06-30** 📰 "Tag: 習近平訪香港讚\"一國兩制\""
+- **2022-06-30** 📰 'Tag: 蔡英文：威權主義企圖滲透民主 台灣正面回應挑戰'
+- **2022-06-30** 📰 'Tag: 台灣文學欣賞'
+- **2022-06-30** 📰 'Tag: 中國誘大學畢業生從事網路諜報 不告知工作性質'
+- **2022-07-01** 📰 'Tag: 香港主權移交25週年'
+- **2022-07-01** 📰 'Tag: grand forks airbase north dakota'
+- **2022-07-01** 📰 'Tag: 巨型非洲蝸牛現蹤美國佛州'
+- **2022-07-01** 📰 'Tag: 中企買下北達科他州農地，美國空軍基地恐被「開後門」'
+- **2022-07-01** 📰 'Tag: 藍擬全面調查染疫死亡案，綠：毫不遮掩護航侯友宜'
+- **2022-07-01** 📰 'Tag: 國防部：依高院判決 收回愛德幼兒園占用土地'
+- **2022-07-01** 📰 'Tag: 陸委會：一國兩制已走樣變形'
+- **2022-07-01** 📰 'Tag: 吳釗燮：怎找到水果鼻子做PCR'
+- **2022-07-01** 📰 'Tag: 中國打壓台灣芒果'
+- **2022-07-01** 📰 'Tag: 民眾黨指高雄在野大聯盟破局'
+- **2022-07-01** 📰 'Tag: 愛德幼兒園'
+- **2022-07-01** 📰 'Tag: 俄飛彈攻擊敖德薩'
+- **2022-07-01** 📰 'Tag: 「九彎十八拐」雙月刊'
+- **2022-07-01** 📰 'Tag: 黃春明'
+- **2022-07-01** 📰 'Tag: Odesa'
+- **2022-07-02** 📰 'Tag: 羅致政：確定不選新北市長'
+- **2022-07-02** 📰 'Tag: 美國會重視對台軍售穩定性'
+- **2022-07-02** 📰 'Tag: 馬斯克發布與四兒和教宗合影'
+- **2022-07-02** 📰 'Tag: 變異株BA.5擴散快'
+- **2022-07-02** 📰 'Tag: 台美人社區領袖力挺柑縣國會眾議員朴銀珠競選連任第45區國會議員'
+- **2022-07-02** 🏥 'Tag: 澳門政府：台灣芒果3天內2度檢出新冠病毒 全數封存銷毀'
+- **2022-07-02** 📰 'Tag: 楊信夫婦、王家培夫婦'
+- **2022-07-03** 📰 'Tag: 我們一家人'
+- **2022-07-03** 📰 'Tag: 密利：中國侵台非迫在眉睫'
+- **2022-07-03** 📰 'Tag: 陳家欽控徐國勇介入警政人事'
+- **2022-07-04** 📰 'Tag: 瑞典芬蘭與北約談正式啟動入會'
+- **2022-07-04** 📰 'Tag: 《教會旁邊搭戲台，「福音」和「歌仔戲」結合的台灣經驗》'
+- **2022-07-04** 📰 'Tag: 柯金寅'
+- **2022-07-04** 📰 'Tag: 新北市衛生局女職員疑遭性侵後輕生'
+- **2022-07-04** 🗳️ 'Tag: 台灣中研院首度明確要求院士須具中華民國國籍'
+- **2022-07-04** 📰 'Tag: 監察院糾正新北市衛生局'
+- **2022-07-04** 📰 'Tag: 台北市長'
+- **2022-07-05** 📰 'Tag: 烏克蘭數學學者摘費爾茲獎'
+- **2022-07-05** 📰 'Tag: 恩恩案'
+- **2022-07-05** 📰 'Tag: Maryna Viazovska'
+- **2022-07-05** 📰 'Tag: Fields Medal'
+- **2022-07-05** 📰 'Tag: 俄特務出身官員任赫松州長'
+- **2022-07-05** 📰 'Tag: 中央研究院'
+- **2022-07-05** 📰 'Tag: 美國擬擴大管制對中國出口'
+- **2022-07-05** 📰 'Tag: 中俄艦艇沖繩外海現蹤'
+- **2022-07-05** 📰 'Tag: 津輕海峽'
+- **2022-07-05** 📰 'Tag: Robert E. Crimo III'
+- **2022-07-05** 📰 'Tag: 美國今年已309起大規模槍擊案'
+- **2022-07-05** 📰 'Tag: 美中外長G20場邊會晤 將為競爭設護欄避免誤判'
+- **2022-07-06** 📰 'Tag: 歐洲議會准天然氣核能貼綠標籤'
+- **2022-07-06** 📰 'Tag: 美聯準會會議紀要'
+- **2022-07-07** 📰 'Tag: 厚仁：忽視中國威脅 恐迎新災難'
+- **2022-07-07** 📰 'Tag: 英國支持烏克蘭不變'
+- **2022-07-07** 📰 'Tag: James Caan'
+- **2022-07-07** 📰 'Tag: 強生辭英國保守黨魁'
+- **2022-07-07** 📰 'Tag: 強生辭職澤倫斯基送暖'
+- **2022-07-07** 📰 'Tag: 首相選拔流程'
+- **2022-07-07** 📰 'Tag: 影星詹姆斯肯恩辭世'
+- **2022-07-08** 📰 'Tag: 抗議活動'
+- **2022-07-08** 📰 'Tag: 安倍晉三遭槍擊'
+- **2022-07-08** 📰 'Tag: 日本維安體制受質疑'
+- **2022-07-08** 📰 'Tag: 美參議員史考特訪台中國戰機挑釁飛越台海中線'
+- **2022-07-08** 📰 'Tag: 蘇貞昌接見美參議員史考特'
+- **2022-07-08** 📰 'Tag: 中共709 大抓捕維權律師'
+- **2022-07-08** 📰 'Tag: 台灣學者郭育仁看安倍晉三任內中日-台日關係發展'
+- **2022-07-09** 📰 'Tag: 華運會'
+- **2022-07-09** 📰 'Tag: 安倍遇刺，中國網絡突破人倫底線'
+- **2022-07-09** 🏥 'Tag: 安倍晉三'
+- **2022-07-09** 📰 'Tag: 華爲控告法國學者戲劇性撤訴'
+- **2022-07-10** 📰 'Tag: 黃珊珊仍未鬆口參選規劃'
+- **2022-07-10** 🏛️ 'Tag: 陳時中競選團隊'
+- **2022-07-10** 📰 'Tag: 安倍晉三為佐藤啟助選遭槍擊'
+- **2022-07-10** 🏛️ 'Tag: 陳時中成立臉書粉專'
+- **2022-07-11** 📰 'Tag: 日台協會'
+- **2022-07-11** 📰 'Tag: 賴清德對日人脈深厚'
+- **2022-07-11** 🏥 'Tag: Matthew Pottinger'
+- **2022-07-11** 📰 'Tag: 烏整備百萬大軍準備反攻'
+- **2022-07-11** 📰 'Tag: 安倍發明『印太』一詞影響深遠'
+- **2022-07-11** 📰 'Tag: 陳時中'  (4×)
+- **2022-07-11** 🎤 'Tag: FAPA主辦'
+- **2022-07-11** 🎤 'Tag: 陳柏惟洛杉磯演講「國會經驗 台美實現」'
+- **2022-07-12** 📰 'Tag: 舊金山科技商圈變數多'
+- **2022-07-12** 📰 'Tag: 美國海警船Midgett首赴西太平洋，應對中國“灰色地帶”策略'
+- **2022-07-12** 📰 'Tag: 馬斯克不買推特'
+- **2022-07-13** 📰 'Tag: 海地首都幫派衝突'
+- **2022-07-13** 📰 'Tag: 拜登抵以色列展開中東之行'
+- **2022-07-13** 📰 'Tag: 波頓稱攻擊國會事件稱不上搞政變'
+- **2022-07-13** 📰 'Tag: 只有團結沒有心結'
+- **2022-07-13** 📰 'Tag: 中國金融系統地雷恐連環爆'
+- **2022-07-13** 📰 'Tag: 陳時中獲徵召選北市'
+- **2022-07-13** 📰 'Tag: 波頓承認助策劃他國政變'
+- **2022-07-13** 📰 'Tag: 中國軍艦、核潛艦公海上跟監澳巡防艦'
+- **2022-07-13** 📰 'Tag: 林佳龍與陳時中擁抱又自拍'
+- **2022-07-13** 📰 'Tag: 是誰的國旗？'
+- **2022-07-14** 📰 'Tag: 元宇宙視訊課程'
+- **2022-07-14** 📰 'Tag: “環太軍演”中的台灣身影'
+- **2022-07-14** 📰 'Tag: 南投康建生技公司槍擊案'
+- **2022-07-14** 📰 'Tag: 普京簽新法：把“危害”俄羅斯安全的人都關進監獄'
+- **2022-07-14** 📰 'Tag: 美防務專家強烈建議制定新的台海威懾戰略'
+- **2022-07-14** 📰 'Tag: 海外青年線上營隊'
+- **2022-07-15** 📰 'Tag: 美商務部審查對中國出口芯片管制政策'
+- **2022-07-16** 📰 'Tag: 沙烏地王儲強硬改革欲擺脫哈紹吉案陰影'
+- **2022-07-16** 📰 'Tag: 法國西南部野火延燒近一萬公頃'
+- **2022-07-16** 📰 'Tag: 拜登拉攏沙烏地'
+- **2022-07-16** 🏥 'Tag: 美國預期猴痘病例攀升，無足夠疫苗可接種'
+- **2022-07-17** 📰 'Tag: 悼安倍'
+- **2022-07-17** 📰 'Tag: 游錫堃率團出訪捷克'
+- **2022-07-17** 📰 'Tag: Hunter Biden筆記本電腦「硬盤門」'
+- **2022-07-17** 📰 'Tag: Sloviansk'
+- **2022-07-17** 📰 'Tag: 體制性失靈'
+- **2022-07-17** 📰 'Tag: 日本54%參議員贊成“自衛隊”入憲'
+- **2022-07-17** 📰 'Tag: G20財長會議無公報'
+- **2022-07-17** 📰 'Tag: 德州尤瓦爾迪校園槍擊案調查報告'
+- **2022-07-17** 📰 'Tag: 烏克蘭稱俄軍準備下階段攻勢'
+- **2022-07-18** 🗳️ 'Tag: 民進黨改選權力核心'
+- **2022-07-18** 🗳️ 'Tag: 蘇納克穩居龍頭'
+- **2022-07-18** 📰 'Tag: 紐約兩名華裔被控詐騙外國投資人 錢捐川普競選團隊'
+- **2022-07-18** 🗳️ 'Tag: 蘇納克（Rishi Sunak）'
+- **2022-07-18** 📰 'Tag: 美國首席防疫專家佛奇 將退休'
+- **2022-07-19** 📰 'Tag: 義大利前總統外交顧問史德方尼尼（Stefano Stefanini）'
+- **2022-07-19** 📰 'Tag: 台灣有事就是全球有事'
+- **2022-07-19** 📰 'Tag: 美國務院人口販運評比 台灣列第一級'
+- **2022-07-20** 📰 'Tag: Ben Key'
+- **2022-07-20** 📰 'Tag: 陳時中指台北沒有長足進步，與自認智商很高卻帶不好人有關'
+- **2022-07-20** 📰 'Tag: 英海軍參謀長籲勿低估中國野心'
+- **2022-07-20** 📰 'Tag: 歐盟商定對俄實施第7輪制裁'
+- **2022-07-20** 📰 'Tag: 培訓烏克蘭飛行員'
+- **2022-07-20** 📰 'Tag: general charles q. brown jr'
+- **2022-07-20** 📰 'Tag: 中情局長：習近平不會在“二十大”後立刻攻打台'
+- **2022-07-21** 📰 'Tag: 烏克蘭一天擊斃上百俄軍'
+- **2022-07-21** 📰 'Tag: 美考慮提供烏西方戰機'
+- **2022-07-22** 📰 'Tag: 烏克蘭：只與聯合國及土耳其簽糧食協議'
+- **2022-07-22** 📰 'Tag: 待報廢特斯拉自燃起火'
+- **2022-07-22** 📰 'Tag: 拜登COVID-19確診'
+- **2022-07-24** 📰 'Tag: 故宮博物院導覽老師洪國雄'
+- **2022-07-24** 📰 'Tag: 中暑'
+- **2022-07-24** 📰 'Tag: Yosemite National Park fire'
+- **2022-07-24** 📰 'Tag: 美國中部恐飆41度'
+- **2022-07-24** 📰 'Tag: 熱傷害'
+- **2022-07-24** 📰 'Tag: 烏克蘭準備恢復穀物出口'
+- **2022-07-24** 📰 'Tag: 頭暈肌肉痛全身無力可能中暑了'
+- **2022-07-25** 📰 'Tag: 美Q2經濟數據'
+- **2022-07-26** 📰 'Tag: 總統視導漢光實彈操演'
+- **2022-07-26** 📰 'Tag: 拜習通話將談台灣'
+- **2022-07-26** 📰 'Tag: 基隆級'
+- **2022-07-27** 📰 'Tag: 新國科會揭牌'
+- **2022-07-28** 📰 'Tag: 美國晶片法案過關有助台廠減輕在美成本壓力'
+- **2022-07-28** 📰 'Tag: 人助自助'
+- **2022-07-28** 📰 'Tag: 國會外交'
+- **2022-07-28** 📰 'Tag: 游錫堃法國行'
+- **2022-07-28** 📰 'Tag: AR-15步槍'
+- **2022-07-28** 📰 'Tag: 歐洲應以制裁嚇阻中國 別讓台灣成為烏克蘭'
+- **2022-07-28** 📰 'Tag: 普萊斯納（Jonas Parello-Plesner）'
+- **2022-07-28** 📰 'Tag: 美國會完成晶片法案立法'
+- **2022-07-28** 📰 'Tag: 教宗再次對加國原住民受虐致歉'
+- **2022-07-28** 📰 'Tag: 美國務院批准出售F-35戰機給德國'
+- **2022-07-28** 📰 'Tag: pope francis canada'
+- **2022-07-28** 📰 'Tag: 教宗譴責意識形態殖民'
+- **2022-07-29** 📰 'Tag: 裴洛西訪台中美恐出現軍事對峙'
+- **2022-07-29** 📰 'Tag: 裴洛西訪台規劃 牽動美中台敏感神經'
+- **2022-07-29** 📰 'Tag: 2050淨零排放'
+- **2022-07-29** 📰 'Tag: 澤倫斯基視察港口 監督首艘穀物出口船裝載作業'
+- **2022-07-30** 📰 'Tag: 烏東戰俘營遭炸 基輔籲聯合國與紅十字會伸援'
+- **2022-07-30** 📰 'Tag: 裴洛西訪台─美國改變「戰略模糊」的關鍵時刻 ◎ 陳昭南'
+- **2022-07-30** 📰 'Tag: 教宗：加拿大原住民所受對待 相當於種族滅絕'
+- **2022-07-30** 📰 'Tag: 美國眾議院議長佩洛西訪日'
+- **2022-07-30** 📰 'Tag: Richard Moor'
+- **2022-07-30** 📰 'Tag: Donetsk'
+- **2022-07-30** 📰 'Tag: 大稻埕情人節'
+- **2022-07-30** 📰 'Tag: 俄軍主力猛攻頓內茨克'
+- **2022-07-31** 📰 'Tag: 陳時中提出8年完成捷運路網願景'
+- **2022-07-31** 📰 'Tag: 輝瑞嬰幼兒疫苗獲EUA 將供台灣6個月至4歲童施打'
+- **2022-07-31** 📰 'Tag: 烏克蘭穀物出口'
+- **2022-07-31** 📰 'Tag: 陳明通證實：先修正林智堅論文 後交余正煌參考'
+- **2022-07-31** 📰 'Tag: 林智堅公布提交台大資料'
+- **2022-07-31** 📰 'Tag: 吳釗燮款宴日訪團'
+- **2022-08-01** 📰 'Tag: 蔣萬安政績列不孕症補助'
+- **2022-08-01** 📰 'Tag: 數架共機飛近台海中線'
+- **2022-08-01** 📰 'Tag: 美國駐日本大使易曼紐（Rahm Emanuel）'
+- **2022-08-01** 📰 'Tag: 華爾街日報：裴洛西本週訪台 將會見台灣官員'
+- **2022-08-01** 📰 'Tag: 裴洛西擬訪台 國軍面對共軍威脅已強化戰備整備'
+- **2022-08-01** 📰 'Tag: 布林肯呼籲中國別提高緊張局勢'
+- **2022-08-01** 📰 'Tag: 裴洛西擬訪台 中國再宣布南海渤海軍事訓練射擊'
+- **2022-08-01** 📰 'Tag: 烏克蘭反攻傳捷報 收復赫松州46村落'
+- **2022-08-01** 📰 'Tag: 解放軍飛彈驅逐艦出現蘭嶼外海'
+- **2022-08-02** 📰 'Tag: 裴洛西抵達台灣'
+- **2022-08-02** 📰 'Tag: 英國政府確認降低BNO簽證申請門檻'
+- **2022-08-02** 📰 'Tag: 佩洛西訪臺期間將會見在臺港人及人權代表'
+- **2022-08-02** 📰 'Tag: 參院擬立法列台灣為主要非北約盟國'
+- **2022-08-02** 📰 'Tag: 總統接見裴洛西訪團'
+- **2022-08-02** 📰 'Tag: 中國突禁止台灣食品進口'
+- **2022-08-02** 📰 'Tag: 不顧中國威脅表態挺台'
+- **2022-08-02** 📰 'Tag: 裴洛西訪台，智庫國際危機組織發衝突風險警訊'
+- **2022-08-02** 📰 'Tag: 裴洛西抵台'
+- **2022-08-02** 📰 'Tag: 美國5州共和黨初選登場 考驗川普影響力'
+- **2022-08-02** 📰 'Tag: 裴洛西訪立法院'
+- **2022-08-02** 📰 'Tag: 裴洛西訪台 21架共機擾台'
+- **2022-08-03** 📰 'Tag: McConnell'
+- **2022-08-03** 📰 'Tag: 北京的做法才是真正的挑釁'
+- **2022-08-03** 📰 'Tag: 佩洛西訪台'
+- **2022-08-03** 📰 'Tag: 土耳其糧食漲逾90%'
+- **2022-08-03** 📰 'Tag: 土耳其7月通膨飆近80%'
+- **2022-08-03** 📰 'Tag: 共機逾越台灣海峽中線'
+- **2022-08-03** 📰 'Tag: 廣告系統用中國軟體'
+- **2022-08-03** 📰 'Tag: 美參院外委會延審台灣法案'
+- **2022-08-03** 📰 'Tag: 亞裔美國人'
+- **2022-08-03** 📰 'Tag: 美國汽油價格連跌7週'
+- **2022-08-03** 📰 'Tag: 莫斯科稱摧毀烏境內外國武器庫'
+- **2022-08-03** 📰 'Tag: 中國禁台灣3項農水產'
+- **2022-08-03** 📰 'Tag: 不讓北京設定遊戲規則'
+- **2022-08-03** 📰 'Tag: 裴洛西訪台衝擊美中關係'
+- **2022-08-03** 📰 'Tag: 裴洛西訪台惹怒中國因為她是女性'
+- **2022-08-03** 📰 'Tag: 裴洛西挽陳菊手參訪人權博物館'
+- **2022-08-04** 📰 'Tag: 尹錫悅政府應對引發朝野罵戰'
+- **2022-08-04** 📰 'Tag: 共機穿越台海中線'
+- **2022-08-04** 📰 'Tag: 拜登COVID-19篩檢仍為陽性'
+- **2022-08-04** 📰 'Tag: 推特收購官司'
+- **2022-08-04** 📰 'Tag: 中國飛彈落入日本EEZ'
+- **2022-08-04** 📰 'Tag: 裴洛西訪韓 官員沒人接機'
+- **2022-08-04** 📰 'Tag: 曹興誠宣布捐30億元加強台灣國防'
+- **2022-08-04** 📰 'Tag: 雷根號打擊群繼續監控'
+- **2022-08-04** 📰 'Tag: 白宮譴責中共軍演試圖建立「新常態」'
+- **2022-08-04** 📰 'Tag: 勇鷹高教機升空恢復正常訓練'
+- **2022-08-04** 📰 'Tag: 4枚中國飛彈越台灣上空'
+- **2022-08-04** 📰 'Tag: 共軍飛彈路徑在大氣層外 無害地面未發警報'
+- **2022-08-04** 📰 'Tag: New Status Quo'
+- **2022-08-05** 📰 'Tag: 德國會代表團預計10月訪台'
+- **2022-08-05** 📰 'Tag: 唐鳳任數位發展部部長'
+- **2022-08-05** 📰 'Tag: 數位發展部'
+- **2022-08-05** 📰 'Tag: 中國取消和美國8項會談及合作'
+- **2022-08-05** 📰 'Tag: 俄軍行徑 動搖札波羅熱核電廠安全'
+- **2022-08-05** 📰 'Tag: 蕭美琴：中國軍演早有預謀 台灣強化自衛'
+- **2022-08-05** 📰 'Tag: 4批7架次無人機進金門上空 國軍射擊信號彈'
+- **2022-08-05** 📰 'Tag: 陳時中聯手許家蓓盼推宜居北市'
+- **2022-08-05** 📰 'Tag: 中國軍演封鎖國際航道'
+- **2022-08-05** 📰 'Tag: 中共本質是流氓'
+- **2022-08-05** 📰 'Tag: 與統派劃清界線'
+- **2022-08-05** 📰 'Tag: 共軍繼續在台灣周邊實戰化演訓'
+- **2022-08-05** 📰 'Tag: 美國將派軍艦穿越台海'
+- **2022-08-05** 📰 'Tag: 美7月非農就業大幅成長 新增近53萬工作機會'
+- **2022-08-05** 📰 'Tag: 佩洛西訪台讓北京的''一個中國原則''變成尷尬局面'
+- **2022-08-06** 📰 'Tag: 台灣國防部秀監控照：千真萬確不需P圖'
+- **2022-08-06** 📰 'Tag: Fulmar S'
+- **2022-08-06** 🏥 'Tag: 岸田將改組內閣'
+- **2022-08-06** 📰 'Tag: 日相：動用核武的慘禍絕不能重演'
+- **2022-08-06** 📰 'Tag: 共軍秀圖近逼花東？專家：偽造成分高屬軍事宣傳戰'
+- **2022-08-06** 📰 'Tag: 廣島原爆77週年'
+- **2022-08-06** 📰 'Tag: 俄烏戰爭爆發後 首艘外國船隻抵達烏克蘭港口'
+- **2022-08-06** 🏥 'Tag: 岸信夫傳因健康因素卸防衛大臣'
+- **2022-08-07** 📰 'Tag: 習近平夢遊「一港兩制」◎ 林保華'
+- **2022-08-07** 📰 'Tag: 台灣不希望戰爭但已做好準備'
+- **2022-08-07** 📰 'Tag: 北京已喪失「一中」的國際話語權'
+- **2022-08-07** 📰 'Tag: 葡萄牙在野黨籲發聲挺台'
+- **2022-08-07** 📰 'Tag: 中國軍演似操練封台'
+- **2022-08-07** 📰 'Tag: 裴洛西訪台效應'
+- **2022-08-07** 📰 'Tag: 永久改變台海現狀'
+- **2022-08-07** 📰 'Tag: 立陶宛交通部政次訪團抵台'
+- **2022-08-07** 📰 'Tag: 中國軍演模擬“環台封鎖”'
+- **2022-08-07** 📰 'Tag: 俄若偽公投真併吞 澤倫斯基：將關起談判大門'
+- **2022-08-07** 📰 'Tag: 停火協議'
+- **2022-08-07** 📰 'Tag: 法治社會誤導楊智淵 ◎ 陳茂雄'
+- **2022-08-08** 📰 'Tag: 奧莉薇亞紐頓強辭世'
+- **2022-08-08** 📰 'Tag: 奧莉薇亞紐頓強（Olivia Newton-John）'
+- **2022-08-08** 📰 'Tag: 川普海湖俱樂部遭FBI突襲搜查'
+- **2022-08-08** 📰 'Tag: 中國繼續軍演 但船隻開始恢復台灣航線'
+- **2022-08-08** 📰 'Tag: 李明哲經歷牢獄之災 籲挺身對抗北京威脅'
+- **2022-08-08** 📰 'Tag: 白宮：中國停止與美國的緝毒合作“不可接受”'
+- **2022-08-08** 📰 'Tag: 拜登：有信心緊張情勢不會升級'
+- **2022-08-08** 📰 'Tag: 俄控烏攻擊核電廠'
+- **2022-08-08** 📰 'Tag: 共軍逾越海峽中線壓縮台灣訓練空域'
+- **2022-08-08** 📰 'Tag: 詹江村'
+- **2022-08-08** 📰 'Tag: 加州男子受猴痘折磨'
+- **2022-08-08** 📰 'Tag: 斯里蘭卡要中國測量船「遠望5號」無限期延後到訪'
+- **2022-08-09** 📰 'Tag: 東盟聯合聲明加註“一中政策”特定情況下才適用'
+- **2022-08-09** 📰 'Tag: 關心台商不談政治?'
+- **2022-08-09** 📰 'Tag: 吳釗燮國際記者會五點聲明譴責中國軍演'
+- **2022-08-09** 📰 'Tag: 美副國務卿會晤紐西蘭總理 關切台海情勢'
+- **2022-08-09** 📰 'Tag: 格鬥遊戲拳皇XV賽事台灣包辦前3名'
+- **2022-08-09** 📰 'Tag: 拜登察訪肯塔基州洪水災情'
+- **2022-08-09** 📰 'Tag: 台大撤銷林智堅碩士學位'
+- **2022-08-09** 📰 'Tag: one china policy where applicable'
+- **2022-08-09** 📰 'Tag: 美國指控中國遠東電纜 協助中興通訊與伊朗業務往來'
+- **2022-08-09** 📰 'Tag: 余正煌喊告'
+- **2022-08-09** 🕯️ 'Tag: 中日邦交正常化50週年 日媒籲取消所有紀念活動'
+- **2022-08-10** 📰 'Tag: 青少年捨棄臉書 改用YouTube及TikTok'
+- **2022-08-10** 📰 'Tag: Scott Perry'
+- **2022-08-10** 📰 'Tag: 美國會大廈遇襲調查案升溫 挺川普議員手機遭查扣'
+- **2022-08-10** 📰 'Tag: 裴洛西訪台'
+- **2022-08-11** 📰 'Tag: 武裝男子闖美國FBI大樓不成逃跑開槍遭警方擊斃'
+- **2022-08-11** 📰 'Tag: 捷克：中國非可靠夥伴 台灣重要許多'
+- **2022-08-11** 🗳️ 'Tag: 林智堅：國民黨負面選舉主軸不會得逞'
+- **2022-08-11** 📰 'Tag: 共機在台海周邊活動越中線'
+- **2022-08-11** 📰 'Tag: 9電廠聯合行為挨罰60億提告抗罰 全部敗訴確定'
+- **2022-08-11** 📰 'Tag: 金融時報：台灣處境艱難 蔡英文是最安全選項'
+- **2022-08-11** 📰 'Tag: 俄二戰後單日折損戰機最慘重'
+- **2022-08-12** 📰 'Tag: 德州已將數千移民送紐約施壓拜登'
+- **2022-08-12** 📰 'Tag: 移民淪美政治棋子'
+- **2022-08-12** 📰 'Tag: FBI從川普的海湖莊園拿走11套涉密文件'
+- **2022-08-12** 📰 'Tag: 寫書激怒伊朗遭下令追殺多年 作家魯西迪紐約遇刺'
+- **2022-08-12** 📰 'Tag: 白宮官員：將宣布美台貿易談判路線圖'
+- **2022-08-12** 📰 'Tag: 外交部：感謝美國在台海情勢升高之際堅定挺台'
+- **2022-08-12** 📰 'Tag: 鄭運鵬接棒參選桃園市長'
+- **2022-08-12** 📰 'Tag: FBI突襲川普莊園 搜尋核武相關文件'
+- **2022-08-12** 📰 'Tag: 吳釗燮：香港殷鑑不遠，台灣絕不接受中國「一國兩制」'
+- **2022-08-12** 📰 'Tag: 美國女星安海契車禍不治'
+- **2022-08-12** 📰 'Tag: 美國發現冰河時期88個人類腳印'
+- **2022-08-13** 📰 'Tag: 2025世界同志遊行禁用Taiwan'
+- **2022-08-13** 📰 'Tag: 「台海終須一戰」，台灣人應該先問「中共能撐多久」？◎ 陳昭南'
+- **2022-08-13** 📰 'Tag: 林智堅論文案'
+- **2022-08-13** 📰 'Tag: 美日今年聯合演習數增加50%'
+- **2022-08-13** 📰 'Tag: 論文代寫'
+- **2022-08-13** 📰 'Tag: 中國5國企將自美下市'
+- **2022-08-13** 📰 'Tag: 魔鬼詩篇作者魯西迪紐約演說遇刺'
+- **2022-08-14** 📰 'Tag: 拜登祝賀印度獨立75周年'
+- **2022-08-14** 📰 'Tag: 「魔鬼詩篇」（The Satanic Verses）'
+- **2022-08-14** 📰 'Tag: 美印將共同捍衛基於規則的秩序'
+- **2022-08-14** 📰 'Tag: 杜魯道（Justin Trudeau）'
+- **2022-08-14** 📰 'Tag: 魯西迪遇刺'
+- **2022-08-14** 📰 'Tag: 魯西迪（Salman Rushdie）'
+- **2022-08-14** 📰 'Tag: 歐洲今年野火肆虐面積近66萬公頃'
+- **2022-08-14** 📰 'Tag: 赫松俄軍補給陷困境'
+- **2022-08-14** 📰 'Tag: 烏軍轟垮第聶伯河橋梁'
+- **2022-08-14** 📰 'Tag: 僑委會海外青年臺灣觀摩團'
+- **2022-08-14** 📰 'Tag: 菲中將重啟鐵路貸款計畫協商'
+- **2022-08-14** 📰 'Tag: 陳時中的優勢 ◎ 陳茂雄'
+- **2022-08-14** 📰 'Tag: Abu Sifin church fire'
+- **2022-08-14** 📰 'Tag: 陳時中感謝藥師為防疫義無反顧'
+- **2022-08-14** 📰 'Tag: Salman Rushdie'
+- **2022-08-14** 🕯️ 'Tag: 民視新聞'  (5×)
+- **2022-08-14** 📰 'Tag: 柬埔寨打工遭詐被囚'
+- **2022-08-14** 📰 'Tag: 習近平內政外交都搞砸'
+- **2022-08-14** 📰 'Tag: 習近平跟全球發達國家翻臉'
+- **2022-08-14** 📰 'Tag: Rapid Pacific 2022'
+- **2022-08-14** 📰 'Tag: 美參議員馬基率團訪台 重申挺台鼓勵台海穩定'
+- **2022-08-14** 📰 'Tag: 賀錦麗擬出席安倍國葬'
+- **2022-08-15** 📰 'Tag: 蒲亭稱將與北韓擴大關係'
+- **2022-08-15** 📰 'Tag: 台灣駐紐約辦事處長李光章：北京利用聯合國為侵台鋪路'
+- **2022-08-15** 📰 'Tag: 中國女子穿日式浴衣拍cosplay照 被公安當街斥責沒穿“漢服”還撕扯'
+- **2022-08-15** 📰 'Tag: 李筱峰開酸KMT'
+- **2022-08-15** 📰 'Tag: 美議員馬基率團訪台，紐時：月底前還有一團到訪'
+- **2022-08-15** 📰 'Tag: 菲駐美大使：台海若開戰 馬尼拉將與美國同盟'
+- **2022-08-15** 📰 'Tag: 中國若封鎖台灣 將嚴重衝擊全球商業'
+- **2022-08-16** 📰 'Tag: 避險基金艾略特管理 傳拋售幾乎所有軟銀持股'
+- **2022-08-16** 📰 'Tag: 阿米塔吉批中共：當前台海危機得歸咎於習近平'
+- **2022-08-16** 📰 'Tag: 克里米亞連番爆炸起火'
+- **2022-08-16** 📰 'Tag: 刑警父40年前未偵破加州少女命案，繼子科學辦案逮到人'
+- **2022-08-16** 📰 'Tag: 8旬老婦遺體冰5年'
+- **2022-08-16** 📰 'Tag: 時力批夏立言訪中荒謬至極'
+- **2022-08-17** 📰 'Tag: 黃國昌控林為洲炒地賺暴利'
+- **2022-08-17** 📰 'Tag: 聯合國專家：新疆實施強迫勞動如同奴役違反人道'
+- **2022-08-17** 📰 'Tag: 挺18歲公民權，蔡英文令全黨動員催修憲複決同意票'
+- **2022-08-17** 📰 'Tag: 國民黨提名盧秀燕侯友宜競選連任'
+- **2022-08-17** 📰 'Tag: 美駐中使領館連發推文 批中國企圖改變兩岸現狀'
+- **2022-08-17** 📰 'Tag: 俄黑海艦隊司令被拔'
+- **2022-08-17** 📰 'Tag: sihanoukville cambodia'
+- **2022-08-17** 📰 'Tag: 柬埔寨打工詐騙 人蛇首腦聲押獲准'
+- **2022-08-17** 📰 'Tag: 大巨蛋'
+- **2022-08-17** 📰 'Tag: 日本配備神盾戰鬥系統新艦 擬搭載長程巡弋飛彈'
+- **2022-08-18** 📰 'Tag: 杯底不可飼金魚」作詞人為陳大禹'
+- **2022-08-18** 📰 'Tag: 克里米亞空軍基地附近傳4次爆炸'
+- **2022-08-18** 📰 'Tag: 台美21世紀貿易倡議 正式啟動協商談判'
+- **2022-08-18** 📰 'Tag: 反川議員初選紛落馬 川普確立影響力為重返奠基'
+- **2022-08-18** 📰 'Tag: 立陶宛總理顧問為首任駐台代表'
+- **2022-08-18** 📰 'Tag: 持有中投欣裕台股權移轉國有案'
+- **2022-08-18** 📰 'Tag: MiG-31'
+- **2022-08-18** 📰 'Tag: 印度11名輪暴犯獲釋 被害穆斯林婦痛訴無言麻木'
+- **2022-08-18** 📰 'Tag: 芬蘭稱俄戰機侵犯領空'
+- **2022-08-18** 📰 'Tag: 盧百利（Paulius Lukauskas）'
+- **2022-08-18** 📰 'Tag: Bilkis Bano'
+- **2022-08-18** 📰 'Tag: 杯底不可飼金魚'
+- **2022-08-19** 📰 'Tag: 美韓外長通話 討論印太及台海穩定'
+- **2022-08-19** 📰 'Tag: 共機越台海中線短期不停 擬建立新常態加強恫嚇'
+- **2022-08-19** 📰 'Tag: 前川普集團大帳房就稅務欺詐認罪'
+- **2022-08-19** 📰 'Tag: 中國經濟能超越美國？ 美前財長：重蹈日俄覆轍'
+- **2022-08-20** 📰 'Tag: 無人機攻擊俄軍黑海艦隊司令部失敗 遭擊落'
+- **2022-08-20** 📰 'Tag: 美再軍援烏逾7億美元'
+- **2022-08-20** 📰 'Tag: 總統出席台日水果夏祭'
+- **2022-08-20** 📰 'Tag: 德法戰機參與印太軍演'
+- **2022-08-20** 📰 'Tag: MV Ocean S'
+- **2022-08-20** 📰 'Tag: 運穀船駛離烏克蘭黑海港口'
+- **2022-08-20** 📰 'Tag: 英日擬合力研發新一代戰機 摸索銷往第3國可能性'
+- **2022-08-20** 📰 'Tag: 標普調高烏克蘭信評脫離選擇性違約'
+- **2022-08-20** 📰 'Tag: 游錫堃：台語漢詩反映真實歷史 展現真台灣精神'
+- **2022-08-20** 📰 'Tag: 18歲公民權複決綁大選 搶攻青年票衝選情'
+- **2022-08-21** 📰 'Tag: 美國印第安納州州長侯康安（Eric Holcomb）抵達台北'
+- **2022-08-21** 📰 'Tag: 「歷史」尚未終結，獨裁與民主對抗的美中隱形戰爭已開打 ◎ 陳昭南'
+- **2022-08-21** 📰 'Tag: nicole aunapu mann astronaut'
+- **2022-08-21** 📰 'Tag: 免役標準變嚴'
+- **2022-08-22** 📰 'Tag: 古屋圭司見蘇貞昌'
+- **2022-08-22** 📰 'Tag: Dennis Rodman'
+- **2022-08-22** 📰 'Tag: 蔡英文接見美國印第安納州長訪團'
+- **2022-08-22** 📰 'Tag: 夏立言見劉結一？'
+- **2022-08-22** 📰 'Tag: 英國經濟2020年萎縮11% 創逾300年以來最大縮幅'
+- **2022-08-22** 📰 'Tag: 美股道瓊大跌'
+- **2022-08-22** 📰 'Tag: 經濟學家預期聯準會9月升息2碼'
+- **2022-08-22** 📰 'Tag: 海上自衛隊觀艦式'
+- **2022-08-22** 📰 'Tag: 明德外役監逃犯林信吾殺台南2警 新竹客運站落網'
+- **2022-08-22** 📰 'Tag: 美國印第安納州州長侯康安（Eric Holcomb）'
+- **2022-08-22** 📰 'Tag: 亞特蘭大連爆2起槍擊案'
+- **2022-08-22** 📰 'Tag: Cineworld考慮在美聲請破產'
+- **2022-08-22** 📰 'Tag: 宜縣府涉貪案 起訴縣長林姿妙'
+- **2022-08-23** 📰 'Tag: 古屋圭司：台日形成患難見真情友誼'
+- **2022-08-23** 📰 'Tag: 蒲亭究竟想要什麼'
+- **2022-08-23** 📰 'Tag: 日華懇議員團訪立院'
+- **2022-08-23** 📰 'Tag: 美國加緊升級關島防禦 防備中國的可能襲擊'
+- **2022-08-23** 📰 'Tag: 林信吾'
+- **2022-08-23** 📰 'Tag: 2022年上半年 美國仇恨犯罪上升'
+- **2022-08-23** 📰 'Tag: 基層警：用槍法規限制多、憂拔槍報告寫不完'
+- **2022-08-23** 📰 'Tag: 優先修正警械使用條例 讓員警無後顧之憂'
+- **2022-08-23** 📰 'Tag: 38名死囚未執行'
+- **2022-08-23** 📰 'Tag: Federal Register'
+- **2022-08-24** 📰 'Tag: 多國政要絡繹不絕訪臺'
+- **2022-08-24** 📰 'Tag: 美中資深官員會晤 美國務院避談台灣議題談什麼'
+- **2022-08-24** 📰 'Tag: Kobe Bryant墜機照洩露案宣判'
+- **2022-08-24** 📰 'Tag: 謝志偉：國民黨有必要這樣輸誠？'
+- **2022-08-24** 📰 'Tag: 中華大學認定林智堅論文抄襲，指導教授賀力行與口委李友錚送教評會'
+- **2022-08-24** 🕯️ 'Tag: 烏克蘭紀念獨立31年'
+- **2022-08-24** 📰 'Tag: 烏克蘭獨立日 英相強生訪基輔承諾進一步軍援'
+- **2022-08-24** 📰 'Tag: 夏立言宣稱反中國軍演但解放軍又演了'
+- **2022-08-25** 📰 'Tag: Citigroup'
+- **2022-08-25** 📰 'Tag: 台灣對抗中國資訊戰 漸受歐美關注'
+- **2022-08-25** 📰 'Tag: NASA發布黑洞聲波'
+- **2022-08-25** 📰 'Tag: 花旗結束在俄國消費金融和商業銀行業務'
+- **2022-08-25** 📰 'Tag: 駐匈代表劉世忠騎單車上電視受訪'
+- **2022-08-25** 📰 'Tag: 土耳其抱怨申請簽證耗時 美國承諾改善處理程序'
+- **2022-08-25** 📰 'Tag: 蔡其昌發表「社宅倍增」政見 4年推8000戶動工'
+- **2022-08-25** 📰 'Tag: 北戴河會議結束，中國政局仍走向不明  ◎ 陳破空'
+- **2022-08-25** 📰 'Tag: CHIPS Act'
+- **2022-08-25** 📰 'Tag: 歐洲與美國的乾旱危機  ◎ 獨傲村夫'
+- **2022-08-26** 🏥 'Tag: Pfizer'
+- **2022-08-26** 📰 'Tag: 廖元甫教授'
+- **2022-08-26** 📰 'Tag: 教育部台語文語料庫收集計畫'
+- **2022-08-26** 📰 'Tag: 美中簽署協定 啓動會計審查中方在美上市公司'
+- **2022-08-26** 📰 'Tag: NASA登月火箭29日將首飛'
+- **2022-08-26** 📰 'Tag: 莫德納控告輝瑞/BNT 侵害其專利開發COVID疫苗'
+- **2022-08-26** 📰 'Tag: 蔡英文力挺蔡其昌'
+- **2022-08-26** 📰 'Tag: 聯調局一月份就發現184個機密檔失蹤'
+- **2022-08-27** 📰 'Tag: 瑞典關閉所有中國孔子學院'
+- **2022-08-27** 📰 'Tag: 日成田機場啟用自動PCR檢測系統'
+- **2022-08-27** 📰 'Tag: 聯邦法官擬任命特別主事官監督審查從川普海湖莊園搜獲的文件'
+- **2022-08-27** 📰 'Tag: SpaceX與T-Mobile聯手 衛星網路讓通訊零死角'
+- **2022-08-27** 📰 'Tag: 蔡總統感念國寶音樂家楊兆禎 用歌曲發揚客家文化'
+- **2022-08-28** 📰 'Tag: 黃珊珊參選北市長'
+- **2022-08-28** 📰 'Tag: 帛琉副總統訪團部分團員確診 暫緩拜會蔡總統行程'
+- **2022-08-28** 📰 'Tag: 瓜地馬拉外長步卡羅抵台'
+- **2022-08-28** 📰 'Tag: 美國2軍艦駛經台海 裴洛西訪台後首見'
+- **2022-08-28** 📰 'Tag: 謝福弘'
+- **2022-08-28** 📰 'Tag: 白宮：美艦穿越台海符合美國政策'
+- **2022-08-29** 📰 'Tag: 烏克蘭證實南部展開反攻'
+- **2022-08-29** 📰 'Tag: 拒絕沒日沒夜工作'
+- **2022-08-29** 📰 'Tag: 中國派無人機拍攝金門'
+- **2022-08-29** 📰 'Tag: 美國西海岸表演藝術經紀人協會（Western Arts Alliance'
+- **2022-08-29** 📰 'Tag: NASA巨型登月火箭燃料外洩 試射取消'
+- **2022-08-29** 📰 'Tag: 洛杉磯台灣書院攜手台中歌劇院 參與美西表藝年會'
+- **2022-08-29** 📰 'Tag: 俄羅斯東部軍演含日本海海域'
+- **2022-08-29** 📰 'Tag: 蘋果等外企對中國失去信心轉往他國'
+- **2022-08-29** 📰 'Tag: 瑞典愛立信將完全退出俄羅斯市場'
+- **2022-08-29** 📰 'Tag: 「躍動台灣」（Taiwan On the Move）'
+- **2022-08-29** 📰 'Tag: 台灣央行'
+- **2022-08-29** 📰 'Tag: 日本防衛大臣：日本須強化國防'
+- **2022-08-29** 📰 'Tag: 歐盟將開緊急會議 討論能源問題'
+- **2022-08-30** 📰 'Tag: 趙建銘聲請憲法審查 憲法法庭不受理'
+- **2022-08-30** 📰 'Tag: 阿里巴巴等中概股接受美審計監管'
+- **2022-08-30** 📰 'Tag: 評兩大黨六都之戰 ◎ 陳茂雄'
+- **2022-08-30** 📰 'Tag: 美艦通過台海 白宮：未來還會有穩定區域行動'
+- **2022-08-30** 📰 'Tag: 無人機進入金門二膽區域 國軍實彈射擊驅離'
+- **2022-08-30** 📰 'Tag: 台美合辦區域宗教論壇'
+- **2022-08-30** 📰 'Tag: 中美簽署審計監管協議'
+- **2022-08-30** 📰 'Tag: 馬達加斯加白化症兒童綁架案'
+- **2022-08-30** 📰 'Tag: madagascar'
+- **2022-08-30** 📰 'Tag: 蔡英文：台軍自我克制，但不表示不會“反制”解放軍挑釁'
+- **2022-08-30** 📰 'Tag: 趙建銘'
+- **2022-08-30** 📰 'Tag: 區域宗教自由論壇'
+- **2022-08-30** 📰 'Tag: 桃園媽媽巨幅廣告嗆張善政'
+- **2022-08-30** 📰 'Tag: 美中達成審計協議但各說各話，中企退市風險仍存'
+- **2022-08-30** 📰 'Tag: 台灣是中共遂行「再教育」下一目標'
+- **2022-08-31** 📰 'Tag: 張善政又出大包了！●蒐集資訊巧領5736萬？ ◎ 陳昭南'
+- **2022-08-31** 📰 'Tag: 日本增加國防費 擬量產1500多枚遠程飛彈'
+- **2022-08-31** 📰 'Tag: 亞利桑那州長訪台 重點關注半導體工業'
+- **2022-08-31** 📰 'Tag: 聯合國人權事務高級專員巴舍萊（Michelle Bachelet）'
+- **2022-08-31** 📰 'Tag: 不當獲利'
+- **2022-08-31** 📰 'Tag: California Age-Appropriate Design Code Act'
+- **2022-08-31** 📰 'Tag: 鄭運鵬：張善政典型假道學'
+- **2022-08-31** 📰 'Tag: 美國預期壽命連兩年下降'
+- **2022-08-31** 📰 'Tag: 加州通過適齡設計法案 科技公司須重視兒童福祉'
+- **2022-09-01** 📰 'Tag: 新疆人權報告讓中國蒙羞'
+- **2022-09-01** 📰 'Tag: 曹興誠恢復中華民國國籍'
+- **2022-09-01** 📰 'Tag: 巴基斯坦雨季降雨量超過往常10倍 逾1/3國土泡水'
+- **2022-09-01** 📰 'Tag: 台灣人會勇敢為國家主權而戰'
+- **2022-09-01** 📰 'Tag: 曹興誠10億資助兩計畫抵抗侵略'
+- **2022-09-01** 📰 'Tag: 蒲亭不出席戈巴契夫喪禮，先至靈柩獻花'
+- **2022-09-01** 📰 'Tag: 逾越海峽中線'
+- **2022-09-01** 📰 'Tag: IAEA署長離開烏克蘭札波羅熱核電廠 團隊人員續留'
+- **2022-09-01** 📰 'Tag: 川普權衡延後決定角逐2024總統大位'
+- **2022-09-01** 📰 'Tag: 金防部擊落一架中國無人機'
+- **2022-09-01** 📰 'Tag: T. A. Archives 台美史料中心'
+- **2022-09-02** 📰 'Tag: 拜登政府宣布延續對中關稅'
+- **2022-09-02** 📰 'Tag: 密西西比州首府無淨水'
+- **2022-09-02** 📰 'Tag: Thomas Webster'
+- **2022-09-02** 📰 'Tag: 歐盟擬設俄天然氣價格上限'
+- **2022-09-02** 📰 'Tag: 打破台灣孤立 才能確保台海現狀'
+- **2022-09-02** 📰 'Tag: 阿根廷副總統克莉絲蒂娜．費南德茲（Cristina Fernandez de Kirchner）'
+- **2022-09-02** 📰 'Tag: 從特朗普住宅收繳物品，聯邦法官解封詳細清單'
+- **2022-09-02** 📰 'Tag: 美國會大廈遇襲案 前員警攻擊自己人遭重判10年'
+- **2022-09-02** 📰 'Tag: 國務院督查組與中紀委巡視組的兩條路線？◎ 林保華'
+- **2022-09-02** 📰 'Tag: 總統府公布遴聘及新聘資政27人國策顧問70人名單'
+- **2022-09-02** 📰 'Tag: Gazprom：輸油管修復前 無限期停止對德供氣'
+- **2022-09-02** 📰 'Tag: 阿根廷副總統因槍手卡彈躲過刺殺'
+- **2022-09-02** 📰 'Tag: IAEA人員繼留烏克蘭評估'
+- **2022-09-03** 📰 'Tag: 拜登9月底將舉行峰會 強化與太平洋島國關係'
+- **2022-09-03** 📰 'Tag: 札波羅熱核電廠僅存主供電線再度斷聯'
+- **2022-09-03** 🎤 'Tag: 台日友好線上政論座談會'
+- **2022-09-03** 📰 'Tag: 越南印度漸崛起 中國製造業龍頭地位動搖'
+- **2022-09-03** 📰 'Tag: 聯合國新疆人權報告'
+- **2022-09-03** 📰 'Tag: 不怕俄切斷天然氣供應 歐盟官員稱已有充分準備'
+- **2022-09-03** 📰 'Tag: 對台軍售'
+- **2022-09-04** 📰 'Tag: 宋楚瑜'
+- **2022-09-04** 📰 'Tag: “二十大”的N種方案：習近平進退，政治局常委會重組 ◎ 陳破空'
+- **2022-09-04** 🏥 'Tag: 3中國留日學生惡意傳播愛滋病毒'
+- **2022-09-04** 📰 'Tag: 國軍明年編26億餘元採購後備軍備'
+- **2022-09-04** 📰 'Tag: 美墨邊境河水因雨暴漲 非法移民硬闖釀9死'
+- **2022-09-04** 📰 'Tag: 鍾東錦登記選苗栗縣長'
+- **2022-09-04** 📰 'Tag: 英吉利海峽偷渡問題嚴重'
+- **2022-09-04** 🏛️ 'Tag: 陳時中藥界後援會成立'
+- **2022-09-04** 📰 'Tag: 恩恩爸：盼新北國賠會議釐清衛生所值勤狀況'
+- **2022-09-04** 📰 'Tag: Denys Shmyhal'
+- **2022-09-04** 📰 'Tag: 張善政又遭指複製NCC報告'
+- **2022-09-04** 📰 'Tag: 國民黨開考紀會處理鍾東錦'
+- **2022-09-04** 📰 'Tag: 台中資優班性侵案'
+- **2022-09-04** 📰 'Tag: 性侵案 黃姓教師遭解聘永不錄用沒退休金'
+- **2022-09-05** 📰 'Tag: 俄國禁班史提勒和西恩潘等人入境'
+- **2022-09-09** 📰 'Tag: 俄軍中將西切沃伊（Andrei Sychevoi）'
+- **2022-09-09** 📰 'Tag: 俄中將Andrei Sychevoi冒充中校遭俘虜'
+- **2022-09-13** 📰 'Tag: 大洛杉磯台灣會館 24 週年募款年會'
+- **2022-09-14** 📰 'Tag: 新疆'
+- **2022-09-14** 📰 'Tag: 世衛：COVID-19全球疫情大流行有望結束'
+- **2022-09-21** 📰 'Tag: 鍾東錦'
+- **2022-09-21** 📰 'Tag: 台灣將開放外國旅客自由行'
+- **2022-09-22** 🏛️ 'Tag: 林佳龍'
+- **2022-09-22** 📰 'Tag: 日本發展更長程導彈對抗中國，或將助力協防台灣'
+- **2022-09-23** 📰 'Tag: 美中高科技領域爭霸 美國腳步太慢，公共權力必須重新掌控局面'
+- **2022-09-24** 📰 'Tag: 安倍晉三國葬獻花唱名 日本政府擬稱呼台灣'
+- **2022-09-24** 📰 'Tag: 澤倫斯基：中國對俄羅斯入侵烏克蘭立場「模稜兩可」'
+- **2022-09-24** 📰 'Tag: 曹興誠再出招─生產100萬架攻擊無人機殲滅來犯共軍 ◎ 陳昭南'
+- **2022-09-24** 📰 'Tag: 侯友宜學歷風波'
+- **2022-09-24** 📰 'Tag: 警大：並未發出任何正式聲明'
+- **2022-09-24** 📰 'Tag: 美宇航局研究人員隱瞞與中國官方大學關係，成正東承認有罪'
+- **2022-09-26** 📰 'Tag: Macron'
+- **2022-09-26** 🗳️ 'Tag: 意大利新當選右翼女總理梅洛尼力挺台灣'
+- **2022-09-26** 📰 'Tag: 反映中國西北底層《隱入塵煙》遭全網下架'
+- **2022-09-26** 📰 'Tag: 陳時中和邱吉爾比一比●誰在發動人格毀滅戰？'
+- **2022-09-26** 📰 'Tag: 習近平鬼祟挺俄，北京政局有變？ ◎ 林保華'
+- **2022-09-27** 🕯️ 'Tag: 日台與日中關係兩樣情：安倍國葬和日中建交50週年紀念'
+- **2022-09-27** 🗳️ 'Tag: 中國假帳號針對美國期中選舉發動宣傳戰 遭Meta下架'
+- **2022-09-28** 📰 'Tag: 俄吞併烏克蘭領土公投'
+- **2022-09-28** 📰 "Tag: 中國駐聯合國大使籲尊重\"所有國家的領土完整\""
+- **2022-09-29** 📰 'Tag: 韓總統尹錫悅失言風波執政黨控告MBC電視台'
+- **2022-09-30** 📰 'Tag: FAPA-LA 10月2日港台交流 與張崑陽見面會'
+- **2022-10-03** 📰 'Tag: iPhone偵測撞擊報警呼救'
+- **2022-10-03** 📰 'Tag: 廖炳惠教授論台灣當代電影「大佛普拉斯」'
+- **2022-10-03** 📰 'Tag: 美國內布拉斯加州車禍6人全死'
+- **2022-10-03** 📰 'Tag: 北韓10天內5度射彈 南韓指挑釁強度升級'
+- **2022-10-09** 📰 'Tag: 三立新聞'  (4×)
+- **2022-10-16** 📰 'Tag: 國安危機'
+- **2022-10-17** 📰 'Tag: 用台語導覽美術展'
+- **2022-10-17** 📰 'Tag: 蝴蝶效應'
+- **2022-10-18** 🏥 'Tag: 加州攝影師罹嚴重免疫疾病，自拍「死著活」系列作品獲金獎'
+- **2022-10-20** 📰 'Tag: 論文爭議'
+- **2022-10-23** 📰 'Tag: 美英俄防長討論烏克蘭局勢'
+- **2022-10-23** 📰 'Tag: 英國首相角逐戰 強生退出保守黨魁之爭'
+- **2022-10-23** 📰 'Tag: 流麻溝十五號'
+- **2022-10-23** 📰 'Tag: 二十大似是一場政變，習狠手辣不輸毛澤東 ◎ 林保華'
+- **2022-10-23** 📰 'Tag: 俄軍稱基輔恐用髒彈，澤倫斯基強烈駁斥'
+- **2022-10-26** 📰 'Tag: 台積電聲明未強迫員工休假 沒有無薪假計畫'
+- **2022-10-26** 📰 'Tag: 陳鵬仁'
+- **2022-10-26** 📰 'Tag: Meta AI 翻譯台語變調挑戰大 未來考慮納入客語'
+- **2022-10-30** 🗳️ 'Tag: 兩岸關係'
+- **2022-10-31** 🗳️ 'Tag: Jair Bolsonaro'
+- **2022-11-01** 📰 'Tag: 機動指揮車'
+- **2022-11-02** 📰 'Tag: Falcon Heavy'
+- **2022-11-02** 📰 'Tag: SpaceX舉世動力最強獵鷹重型火箭 時隔3年再度升空'
+- **2022-11-02** 📰 'Tag: 「守護大海的人」去年曾遭航港局銷毀，玉米辰獲世界插畫大獎'
+- **2022-11-08** 📰 'Tag: 阿中：我只是個平凡人●我想要保護全台灣每一個人 ◎ 陳昭南'
+- **2022-11-09** 📰 'Tag: Steve Chabot'
+- **2022-11-13** 📰 'Tag: 語言平權連署運動'
+- **2022-11-14** 📰 'Tag: 柯建銘'
+- **2022-11-14** 📰 'Tag: 陳昭南'  (6×)
+- **2022-11-15** 🗳️ 'Tag: 蔣萬安辭立委'
+- **2022-11-15** 🗳️ 'Tag: 北市第2場政見會'
+- **2022-11-15** 📰 'Tag: 英相蘇納克：準備好隨時支援台灣抵抗中國侵略'
+- **2022-11-15** 📰 'Tag: 游錫堃：拜習會後 民主國際仍不能掉以輕心'
+- **2022-11-15** 📰 'Tag: 黃珊珊'
+- **2022-11-16** 📰 'Tag: 林佳龍鄭運鵬合體拜票'
+- **2022-11-16** 📰 'Tag: 拜登道賀共和黨眾院席次過半盼共同合作'
+- **2022-11-16** 📰 'Tag: 伊凡卡2024不幫川普'
+- **2022-11-16** 🗳️ 'Tag: 共和黨重掌眾議院'
+- **2022-11-16** 📰 'Tag: 蔡英文登經濟學人特輯封面'
+- **2022-11-16** 📰 'Tag: 美共和黨眾院席次確定過半'
+- **2022-11-16** 📰 'Tag: Warren Buffet 買台積電'
+- **2022-11-16** 📰 'Tag: 台灣半導體人才從中國回流'
+- **2022-11-17** 📰 'Tag: 德對中政策草案'
+- **2022-11-17** 📰 'Tag: 涉詐領助理費案檢方分案偵辦'
+- **2022-11-17** 📰 'Tag: 岸田文雄重申台海和平安定重要性'
+- **2022-11-17** 📰 'Tag: 希臘外長訪利比亞首都 因外交齟齬拒絕下機即離去'
+- **2022-11-17** 📰 'Tag: 緬甸軍方釋放近6千囚犯'
+- **2022-11-17** 📰 'Tag: 蔡其昌掃街 陳時中林右昌加持'
+- **2022-11-17** 📰 'Tag: 烏國黑海穀物出口協議將延長4個月'
+- **2022-11-17** 📰 'Tag: 中選會：不評論民調檢舉個案'
+- **2022-11-17** 📰 'Tag: Karen Bass'
+- **2022-11-17** 🗳️ 'Tag: 美國期中選舉選出12位女州長'
+- **2022-11-17** 📰 'Tag: 岸田文雄會習近平'
+- **2022-11-17** 📰 'Tag: 北韓朝東海試射彈道飛彈'
+- **2022-11-17** 📰 'Tag: 黑海穀物協議延長'
+- **2022-11-17** 📰 'Tag: 月票納台鐵'
+- **2022-11-17** 📰 'Tag: 張忠謀赴APEC'
+- **2022-11-18** 🗳️ 'Tag: 盧秀燕'
+- **2022-11-18** 📰 'Tag: 國際太空站延長營運至2030年 日本率先加入'
+- **2022-11-18** 📰 'Tag: 黃珊珊駁動員消防員造勢'
+- **2022-11-18** 📰 'Tag: 金正恩31天未露面引發關注'
+- **2022-11-18** 📰 'Tag: 黃秀芳王惠美'
+- **2022-11-18** 🗳️ 'Tag: 政黨版圖變動'
+- **2022-11-18** 📰 'Tag: 推特員工集體辭職'
+- **2022-11-18** 📰 'Tag: 承德公園'
+- **2022-11-18** 📰 'Tag: 中資為主的小型IPO“哄抬股價，逢高賣出”'
+- **2022-11-18** 📰 'Tag: 共和黨奪回美國眾院控制權 將調查拜登家族'
+- **2022-11-18** 📰 'Tag: 哈紹吉謀殺案'
+- **2022-11-18** 📰 'Tag: 彰化縣長選戰'
+- **2022-11-18** 📰 'Tag: 澳洲不挺台灣加入CPTPP？'
+- **2022-11-18** 📰 'Tag: 美國政府認定沙國王儲享豁免權'
+- **2022-11-18** 📰 'Tag: 學術界李明亮等千人連署力挺陳時中'
+- **2022-11-18** 📰 'Tag: Theranos 新創大騙局'
+- **2022-11-18** 📰 'Tag: 中國每天都發生街頭抗議和網上異議'
+- **2022-11-18** 📰 'Tag: 澳洲重申歡迎台灣加入CPTPP'
+- **2022-11-18** 📰 'Tag: 鄧振中與戴琪會談21世紀貿易倡議'
+- **2022-11-18** 📰 'Tag: 張忠謀APEC場邊會晤岸田文雄'
+- **2022-11-18** 📰 'Tag: 美貿易代表戴琪與中國商務部長會晤'
+- **2022-11-18** 📰 'Tag: 波蘭拒俄代表團參加歐安會議'
+- **2022-11-18** 📰 'Tag: 澳總理稱受承認國家才能入CPTPP'
+- **2022-11-18** 📰 'Tag: 美國會首位非裔黨團領袖'
+- **2022-11-18** 📰 'Tag: 廣州女子未戴口罩遭捆綁跪地示衆'
+- **2022-11-18** 📰 'Tag: 俄狂轟烏逾千萬人無電可用'
+- **2022-11-19** 🗳️ 'Tag: 謝國樑造謠選舉日停電'
+- **2022-11-19** 📰 'Tag: 林姿妙細數政績不舉債'
+- **2022-11-19** 📰 'Tag: 拜登白宮嫁孫女'
+- **2022-11-19** 📰 'Tag: 烏克蘭稱俄沒來接洽和談，普丁不撤軍也免談'
+- **2022-11-19** 📰 'Tag: 英相蘇納克訪基輔會晤澤倫斯基'
+- **2022-11-19** 📰 'Tag: 林智堅批柯文哲辜負新竹人期待'
+- **2022-11-19** 📰 'Tag: 「利劍演習」（Exercise Keen Sword）'
+- **2022-11-20** 📰 'Tag: 拿胡春華說事，淡化二十大政變，是習派的障眼法（下） ◎ 陳破空'
+- **2022-11-20** 📰 'Tag: 賀錦麗訪菲送利多'
+- **2022-11-20** 📰 'Tag: 車用晶片設計是台灣很大機會'
+- **2022-11-20** 📰 'Tag: 薛瑞元：疫苗騙子惡意指控擋疫苗'
+- **2022-11-20** 📰 'Tag: 僑委會2023年新設26所「臺灣華語文學習中心」'
+- **2022-11-20** 📰 'Tag: 「德台協會」主席法伯（Marcus Faber）'
+- **2022-11-20** 📰 'Tag: 搭僑第一哩路－職涯Career Fair 2022'
+- **2022-11-20** 📰 'Tag: 拜登80歲生日'
+- **2022-11-20** 📰 'Tag: 岸田內閣1個月內3人下台'
+- **2022-11-20** 📰 'Tag: 薛瑞元談疫苗掮客惡行'
+- **2022-11-20** 📰 'Tag: 政治受難者走訪不義遺址'
+- **2022-11-20** 📰 'Tag: 白色恐怖歷史記憶'
+- **2022-11-20** 📰 'Tag: 美艦11月初通過台海'
+- **2022-11-20** 📰 'Tag: 川普在共和黨人會議備受歡迎'
+- **2022-11-20** 📰 'Tag: 伊朗足球隊長：我國人民不快樂'
+- **2022-11-20** 📰 'Tag: 日本總務大臣寺田稔請辭'
+- **2022-11-20** 📰 'Tag: 「德台協會」及副主席貝克（Holger Becker）'
+- **2022-11-20** 📰 'Tag: 美民眾面臨昂貴感恩節假期'
+- **2022-11-20** 🗳️ 'Tag: 柯建銘率綠委力挺鄭運鵬'
+- **2022-11-20** 📰 'Tag: 北韓試射洲際彈道飛彈 G7籲聯合國採取重大因應'
+- **2022-11-20** 📰 'Tag: 科羅拉多州同志夜店發生槍擊'
+- **2022-11-21** 📰 'Tag: 立陶宛駐台辦不如預期'
+- **2022-11-21** 📰 'Tag: 鄭南榕胞弟鄭清華呼籲拒投侯友宜'
+- **2022-11-21** 📰 'Tag: 北京：面臨疫情以來最嚴峻情勢'
+- **2022-11-21** 📰 'Tag: 4期前瞻建設 可望創造逾21萬個工作機會'
+- **2022-11-21** 📰 'Tag: 吳介民：中國“以商業模式做統戰” 從華僑社群切入'
+- **2022-11-21** 📰 'Tag: 北京降低社會流動'
+- **2022-11-21** 📰 'Tag: 魏鳳和'
+- **2022-11-21** 📰 'Tag: 總統感謝張忠謀圓滿完成任務'
+- **2022-11-21** 📰 'Tag: 奧斯汀樂見在柬埔寨會晤魏鳳和'
+- **2022-11-21** 📰 'Tag: 日本神盾艦試射反彈道飛彈 成功攔截大氣外標靶'
+- **2022-11-21** 📰 'Tag: 黎智英聘英律師辯護國安法案 律政司上訴遭駁回'
+- **2022-11-21** 📰 'Tag: 高虹安造勢活動里長名單爭議'
+- **2022-11-21** 🗳️ 'Tag: 佛州州長迪尚特大幅拉近與川普差距'
+- **2022-11-21** 📰 'Tag: MIT 發表與中國學術交往原則'
+- **2022-11-21** 📰 'Tag: 林耕仁：柯文哲漠視證據混淆視聽'
+- **2022-11-21** 📰 'Tag: Club Q19'
+- **2022-11-21** 📰 'Tag: 曹興誠：台灣與中共互不隸屬●應團結備戰 ◎陳昭南'
+- **2022-11-21** 📰 'Tag: 加州矽谷掀裁員潮，台灣留學生：畢業工作難找'
+- **2022-11-21** 📰 'Tag: 沈慧虹推輕軌'
+- **2022-11-21** 🏛️ 'Tag: 黃敏惠成立藥事團體後援會'
+- **2022-11-21** 📰 'Tag: APEC經濟領袖會議'
+- **2022-11-21** 📰 'Tag: 中國海警船搶走菲海軍打撈的火箭碎片'
+- **2022-11-21** 📰 'Tag: 「末日決戰將軍」飽受指責'
+- **2022-11-21** 📰 'Tag: 中國試圖控制西方重要基礎建設'
+- **2022-11-22** 📰 'Tag: 「硫磺」（Brimstone）精準飛彈'
+- **2022-11-22** 📰 'Tag: 澤倫斯基：俄羅斯把寒冬當作大規模殺傷武器'
+- **2022-11-22** 📰 'Tag: 郝明義籲選前一起要求侯友宜公布恩恩案資料'
+- **2022-11-22** 📰 'Tag: 確診無法投票'
+- **2022-11-22** 📰 'Tag: 俄猛轟烏克蘭能源設施'
+- **2022-11-22** 📰 'Tag: 統媒散播台積電“棄台”謠言帶風向'
+- **2022-11-22** 📰 'Tag: Title Transfer Facility'
+- **2022-11-22** 📰 'Tag: l-sam missile south korea'
+- **2022-11-22** 📰 'Tag: 內壢'
+- **2022-11-22** 📰 'Tag: 中國粉飾過程否認強奪火箭殘骸'
+- **2022-11-22** 📰 'Tag: 英援烏「硫磺2型」精準飛彈'
+- **2022-11-22** 📰 'Tag: 烏克蘭數百萬人難熬寒冬'
+- **2022-11-22** 📰 'Tag: 向德恩簽投降承諾書投共'
+- **2022-11-22** 📰 'Tag: 兩岸統一沒意義'
+- **2022-11-22** 📰 'Tag: 中國失蹤人口'
+- **2022-11-22** 📰 'Tag: 俄稱克里米亞遭無人機攻擊'
+- **2022-11-22** 📰 'Tag: Anthony Fauci 卸任前最後一場簡報'
+- **2022-11-22** 📰 'Tag: 新黨北市議員候選人林婕麗拜票遭毆傷'
+- **2022-11-23** 📰 'Tag: 台積電擬在美國擴大投資'
+- **2022-11-23** 🗳️ 'Tag: 鄭運鵬楊梅造勢晚會'
+- **2022-11-23** 📰 'Tag: 感恩'
+- **2022-11-23** 📰 'Tag: 感恩使我們擁有的變得足夠 !'
+- **2022-11-23** 📰 'Tag: 英國最高法院：蘇格蘭不得片面推動再辦獨立公投'
+- **2022-11-23** 🗳️ 'Tag: 蘇貞昌：選錯人後悔來不及'
+- **2022-11-23** 📰 'Tag: 台積電最先進製程留在台灣'
+- **2022-11-23** 📰 'Tag: Gratitude turns what we have into enough'
+- **2022-11-23** 📰 'Tag: 美維吉尼亞州沃爾瑪賣場槍擊案 至少6人遇害'
+- **2022-11-23** 🗳️ 'Tag: 蔡總統輔選江聰淵'
+- **2022-11-23** 📰 'Tag: 歐洲議會網站遭攻擊 親俄駭客宣稱犯案'
+- **2022-11-23** 🗳️ 'Tag: 吳釗燮稱中國干預九合一選舉未如以往普遍'
+- **2022-11-23** 📰 'Tag: 德國總理矢言停止過度仰賴中俄'
+- **2022-11-23** 📰 'Tag: 歐洲議會促歐盟推第9輪制裁'
+- **2022-11-23** 📰 'Tag: 歐洲議會認俄為支持恐怖主義國'
+- **2022-11-23** 📰 'Tag: 中國鄭州富士康新進勞工爆抗爭 萬人與武警緊張對峙'
+- **2022-11-23** 📰 'Tag: 林佳龍：恩恩案真相是社會共同傷痛'
+- **2022-11-23** 📰 'Tag: LGBTQ彩虹臂章'
+- **2022-11-23** 📰 'Tag: 聯準會會議'
+- **2022-11-23** 📰 'Tag: 劉建國再控張麗善涉違建'
+- **2022-11-23** 🗳️ 'Tag: 重新擦亮宜蘭招牌'
+- **2022-11-23** 📰 'Tag: 俄攻烏能源設施鄰國大停電'
+- **2022-11-23** 📰 'Tag: 拜登政府支持議長和議員出訪 包括台灣'
+- **2022-11-23** 📰 'Tag: 中國製無人機充斥華府上空 美憂國安風險'
+- **2022-11-23** 📰 'Tag: John McFall 史上首位身障太空人'
+- **2022-11-23** 📰 'Tag: 黑色星期五登場'
+- **2022-11-23** 📰 'Tag: 富士康騷亂'
+- **2022-11-24** 📰 'Tag: 半導體投資額上看6兆元 台灣愈來愈關鍵'
+- **2022-11-24** 📰 'Tag: Tâi-gú Bûn-ha̍k Eng E̍k Ê Mê-mê-kak-kak'
+- **2022-11-24** 📰 'Tag: 安華（Anwar Ibrahim）'
+- **2022-11-24** 📰 'Tag: 八德'
+- **2022-11-24** 📰 'Tag: 汰換中國製資通設備'
+- **2022-11-24** 📰 'Tag: 陸軍166對官兵結婚 司令下達增產報國命令'
+- **2022-11-24** 📰 'Tag: 伊朗不滿外媒報導示威 宣稱逮捕擁英籍消息人士'
+- **2022-11-24** 📰 'Tag: 美國同志夜店槍擊案'
+- **2022-11-24** 📰 'Tag: 大赦被停權的帳號？馬斯克再發起推特民調'
+- **2022-11-24** 📰 'Tag: 鄭州富士康發錢平息抗爭後 再現離職返鄉潮'
+- **2022-11-24** 📰 'Tag: 何必潑自己髒水？ ◎ 陳茂雄'
+- **2022-11-24** 📰 'Tag: 鄭州廠區員工爆抗爭'
+- **2022-11-24** 📰 'Tag: 安華當上馬來西亞首相'
+- **2022-11-24** 🗳️ 'Tag: Mike Dunleavy'
+- **2022-11-24** 📰 'Tag: 九合一選前之夜'
+- **2022-11-24** 📰 'Tag: 中國河南鄭州富士康'
+- **2022-11-24** 📰 'Tag: 鴻海對招募疏失表歉意'
+- **2022-11-24** 📰 'Tag: 監委巡察交通部關注資安'
+- **2022-11-24** 🗳️ 'Tag: 中選會審定嘉義市長重行選舉5候選人資格'
+- **2022-11-25** 📰 'Tag: 中國防疫'
+- **2022-11-25** 📰 'Tag: 港府控陳日君等違反社團條例'
+- **2022-11-25** 📰 'Tag: 九合一選前之夜藍綠白最後衝刺'
+- **2022-11-25** 📰 'Tag: 台積電亞利桑那廠引進3奈米先進製程'
+- **2022-11-25** 📰 'Tag: 德國企業過度仰賴中國市場'
+- **2022-11-25** 📰 'Tag: 臺積電成爲信息戰議題'
+- **2022-11-25** 📰 'Tag: 當局否認封樓門還怪居民自救力弱'
+- **2022-11-25** 📰 'Tag: 鄭運鵬選前之夜'
+- **2022-11-25** 📰 'Tag: 18歲公民權修憲複決'
+- **2022-11-25** 📰 'Tag: 俄羅斯動員兵的母親發出怒吼 要求蒲亭回應'
+- **2022-11-25** 📰 'Tag: 台灣崇尚菁英教育重學歷，論文成選戰焦點'
+- **2022-11-25** 📰 'Tag: 中國大型機砲海警船'
+- **2022-11-25** 📰 'Tag: 作家卡洛爾再告川普誹謗和毆打傷害'
+- **2022-11-26** 📰 'Tag: 普廷首度會面「俄官兵母親」 被抓包「P圖」造假'
+- **2022-11-26** 📰 'Tag: 北大學生反封控'
+- **2022-11-26** 📰 'Tag: 鄭州富士康打亂iPhone出貨'
+- **2022-11-26** 📰 'Tag: 川普與極右派白人至上主義者Nick Fuentes共餐'
+- **2022-11-26** 📰 'Tag: 綠拚延續中央執政'
+- **2022-11-26** 📰 'Tag: 習近平慰問所羅門地震卻不管新疆火災'
+- **2022-11-26** 📰 'Tag: 林錫耀：敗選原因好好檢討 不必把責任推給側翼'
+- **2022-11-26** 📰 'Tag: 民團盼推制憲'
+- **2022-11-26** 🗳️ 'Tag: 葛來儀：九合一選舉關注內政 無法作2024指標'
+- **2022-11-26** 📰 'Tag: 藍13席地方包圍中央'
+- **2022-11-26** 📰 'Tag: 中國數據交易市場令人“毛骨悚然”'
+- **2022-11-26** 🗳️ 'Tag: 九合一選舉挫敗 蔡英文辭民進黨主席、慰留蘇貞昌'
+- **2022-11-26** 📰 'Tag: 日擬與美共同發動反擊敵方基地'
+- **2022-11-26** 🗳️ 'Tag: 馬斯克：2024總統選舉支持迪尚特'
+- **2022-11-26** 🗳️ 'Tag: 2022九合一選舉縣市長當選名單'
+- **2022-11-26** 🕯️ 'Tag: Volodymyr Zelenskyy Holodomor'
+- **2022-11-26** 🗳️ 'Tag: 九合一投票結果民進黨重挫'
+- **2022-11-26** 📰 'Tag: 白俄羅斯外交部長突然去世'
+- **2022-11-26** 📰 'Tag: 綠5席史上最差'
+- **2022-11-26** 📰 'Tag: 黑色星期五買氣回溫'
+- **2022-11-27** 🏥 'Tag: 梁文傑'  (2×)
+- **2022-11-27** 📰 'Tag: Ed Lawrence'
+- **2022-11-27** 📰 'Tag: 馬克宏訪華府展現法美團結'
+- **2022-11-27** 📰 'Tag: 黃捷以最高票連任高雄市議員'
+- **2022-11-27** 📰 'Tag: 小笠原欣幸：台灣民意對權力獨大求取平衡'
+- **2022-11-27** 📰 'Tag: 吳怡農阮昭雄拚北市立委補選'
+- **2022-11-27** 📰 'Tag: 清零亂源，難以收圓；孤家寡人，玩火自焚？ ◎ 林保華'
+- **2022-11-27** 📰 'Tag: 佔了天時與地利卻兵敗如山倒？ ◎陳茂雄'
+- **2022-11-27** 📰 'Tag: 綠委建議賴清德團隊提早參與黨職'
+- **2022-11-27** 📰 'Tag: 黨主席補選'
+- **2022-11-27** 📰 'Tag: 美軍第6代戰機「匿蹤」 恐成絕響'
+- **2022-11-27** 📰 'Tag: 加拿大公布印太戰略'
+- **2022-11-28** 📰 'Tag: 德國籲北京尊重民眾示威權利 引進BNT疫苗抗疫'
+- **2022-11-28** 📰 'Tag: 健保部分負擔新制'
+- **2022-11-28** 📰 'Tag: 蓬佩奧：美國人民須永遠和熱愛自由的中國人民站在一起'
+- **2022-11-28** 📰 'Tag: Frank Steinmeier'
+- **2022-11-28** 📰 'Tag: Nina Armagno'
+- **2022-11-28** 📰 'Tag: Mauna Loa'
+- **2022-11-28** 📰 'Tag: 國會議員促英國公布半導體戰略'
+- **2022-11-28** 📰 'Tag: G7司法部長集會 追訴俄羅斯戰爭罪行'
+- **2022-11-28** 📰 'Tag: 戶外口罩鬆綁'
+- **2022-11-28** 📰 'Tag: 夏威夷毛納羅亞火山近40年首噴發'
+- **2022-11-28** 📰 'Tag: 美駐中使團：中國擴大疫情防控 鼓勵當地美國民眾存糧'
+- **2022-11-28** 📰 'Tag: 原住民族產業發展'
+- **2022-11-28** 📰 'Tag: 歐廣聯盟譴責中國恐嚇媒體'
+- **2022-11-28** 📰 'Tag: 尹錫悅將提供客製化獎勵 吸引特斯拉新廠落腳韓國'
+- **2022-11-28** 📰 'Tag: 中國反封控抗議清零拖越久民變機率越大'
+- **2022-11-28** 📰 'Tag: 庫克'
+- **2022-11-28** 📰 'Tag: 美參議員提案 欲加強限制中國製晶片'
+- **2022-11-28** 📰 'Tag: 中國白紙運動訴求比六四具體 參與者多元'
+- **2022-11-28** 📰 'Tag: 日本出生數再創新低'
+- **2022-11-28** 📰 'Tag: 林佳龍：黨主席改選和調整人事很重要'
+- **2022-11-28** 📰 'Tag: 歐洲7億人能源危機'
+- **2022-11-28** 🏥 'Tag: 精神衛生法三讀落實病人知情權'
+- **2022-11-28** 📰 'Tag: 紐約州水牛城超市槍擊案嫌犯對謀殺和種族主義襲擊指控認罪'
+- **2022-11-28** 📰 'Tag: 美國第一夫人開箱白宮耶誕'
+- **2022-11-28** 📰 'Tag: 白宮就中國爆發抗議活動發聲明'
+- **2022-11-28** 📰 'Tag: 全印度援藏會議籲國際為西藏發聲'
+- **2022-11-28** 📰 'Tag: 多輛裝甲車現身徐州街頭'
+- **2022-11-28** 🏥 'Tag: 強制住院須法官裁定'
+- **2022-11-28** 📰 'Tag: 烏稱俄準備撤離札波羅熱核電廠，克宮駁斥'
+- **2022-11-29** 📰 'Tag: 中國大範圍反清零示威'
+- **2022-11-29** 📰 'Tag: 中國反封控示威者聯繫如與警方玩貓捉老鼠 交友軟體也用上'
+- **2022-11-29** 📰 'Tag: 不是公衛危機，而是人權危機'
+- **2022-11-29** 📰 'Tag: 中國留學生哥大雲集聲援中國抗議者'
+- **2022-11-29** 📰 'Tag: 解放軍針對美國及盟友的不安全與不專業行動增多'
+- **2022-11-29** 📰 'Tag: 中國當局開始調查白紙運動參加者'
+- **2022-11-29** 📰 'Tag: 荷蘭國會壓倒性通過挺台動議 力促歐盟對台關係'
+- **2022-11-29** 📰 'Tag: 北約外長會議討論助烏過冬'
+- **2022-11-29** 📰 'Tag: 法國智庫戰略研究基金會台灣安全暨外交計畫主任博達安（Antoine Bondaz）'
+- **2022-11-29** 📰 'Tag: 陳椒華同台邱顯智王婉諭 聽到兩人不接受慰留突離場'
+- **2022-11-29** 📰 'Tag: 美兩黨議員聲援中國民眾抗議清零'
+- **2022-11-29** 📰 'Tag: 五角大廈發布中國軍力報告'
+- **2022-11-29** 📰 'Tag: 台英中關係'
+- **2022-11-29** 📰 'Tag: 民進黨中常會 擬推陳其邁代理黨主席'
+- **2022-11-29** 📰 'Tag: 蔡英文總統不會主導民進黨黨務 期待中壯世代接棒'
+- **2022-11-29** 📰 'Tag: 日本眾院通過第2次補正預算案 國防支出成焦點'
+- **2022-11-29** 📰 'Tag: 中國對台4大可能軍事行動'
+- **2022-11-30** 📰 'Tag: 余茂春：中國人抗議的不是清零 而是中共專制政權'
+- **2022-11-30** 📰 'Tag: 悼念江澤民成為習近平新難題'
+- **2022-11-30** 📰 'Tag: 習核心'
+- **2022-11-30** 📰 'Tag: 拜登12/6參觀亞利桑那州廠 台積電：歡迎同慶'
+- **2022-11-30** 📰 'Tag: tornado'
+- **2022-11-30** 🏥 'Tag: 江澤民病逝上海'
+- **2022-11-30** 📰 'Tag: 中俄空軍日本海聯合戰略巡航 首度降落彼此機場'
+- **2022-11-30** 📰 'Tag: 各縣市議會議長選戰'
+- **2022-11-30** 📰 'Tag: 陳其邁接民進黨代理黨主席'
+- **2022-11-30** 📰 'Tag: 國際身心障礙者日'
+- **2022-11-30** 📰 'Tag: 歐盟執委會建議凍結對匈牙利撥款'
+- **2022-11-30** 📰 'Tag: 推特取消打擊COVID-19錯誤資訊的政策'
+- **2022-11-30** 📰 'Tag: Hakeem Jeffries 接班裴洛西，美國會史上首位非裔黨團領袖'
+- **2022-11-30** 📰 'Tag: 反封控抗議'
+- **2022-11-30** 📰 'Tag: 鄭文燦任民進黨檢討小組召集人'
+- **2022-11-30** 📰 'Tag: 最快12月放緩升息'
+- **2022-11-30** 📰 'Tag: Hakeem Jeffries'
+- **2022-11-30** 📰 'Tag: 監委將查確診無法投票'
+- **2022-11-30** 📰 'Tag: 台積電派員支援美國廠'
+- **2022-11-30** 📰 'Tag: 北市南投立委補選 國民黨徵召決定人選'
+- **2022-11-30** 📰 'Tag: 中國留學生海外聲援白紙運動 盼借鏡台灣民主'
+- **2022-11-30** 📰 'Tag: 民進黨明年1月補選主席 陳其邁不參選'
+- **2022-11-30** 🗳️ 'Tag: 台北市立委補選 民眾黨不推人參選'
+- **2022-11-30** 📰 'Tag: 美擬挹注100億美元供台灣抵禦中國威脅'
+- **2022-11-30** 📰 'Tag: 民眾黨主席改選 僅柯文哲登記'
+- **2022-12-01** 📰 'Tag: 朱立倫：下次南部一定要贏'
+- **2022-12-01** 📰 'Tag: 日本學者小笠原欣幸：民進黨2024年大選贏面大'
+- **2022-12-01** 📰 'Tag: 修憲之門已封閉 ◎ 陳茂雄'
+- **2022-12-01** 🗳️ 'Tag: 吳怡農投入立委補選'
+- **2022-12-01** 📰 'Tag: Tim Owen'
+- **2022-12-01** 📰 'Tag: 電視台疑灌票'
+- **2022-12-01** 📰 'Tag: 全民上街白紙革命'
+- **2022-12-02** 📰 'Tag: 以立合唱團世界首演「希望之光」'
+- **2022-12-02** 📰 'Tag: Kanye West'
+- **2022-12-02** 🗳️ 'Tag: 辣新聞152'  (4×)
+- **2022-12-03** 📰 'Tag: 巴黎響應白紙運動'
+- **2022-12-03** 📰 'Tag: 美國國務院負責政治事務的次卿盧嵐（Victoria Nuland）'
+- **2022-12-03** 📰 'Tag: 台美教育倡議兩周年 美讚提升華語學習機會'
+- **2022-12-04** 📰 'Tag: 布林肯訪中將重申美國不會對人權議題沉默'
+- **2022-12-04** 📰 'Tag: 布林肯支持中國抗議群眾'
+- **2022-12-04** 📰 'Tag: 人體試驗'
+- **2022-12-07** 🗳️ 'Tag: 徐國勇'
+- **2022-12-10** 📰 'Tag: 邱顯智'
+- **2022-12-10** 🏥 'Tag: Anthony Fauci'  (3×)
+- **2022-12-11** 📰 'Tag: 印度農民失業返鄉務農種台灣芭樂翻身'
+- **2022-12-15** 📰 'Tag: COVID-⁠19 home tests kit'
+- **2022-12-15** 📰 'Tag: 美國恢復供應免費測試盒'
+- **2022-12-16** 📰 'Tag: 馬來西亞無照露營區山崩 死亡失蹤達30餘人'
+- **2022-12-16** 📰 'Tag: 俄射飛彈猛轟烏克蘭 歐盟譴責是無差別恐怖行為'
+- **2022-12-16** 📰 'Tag: 威爾第的「安魂曲」Giuseppe Verdi’s Requiem'
+- **2022-12-16** 📰 'Tag: WNBA球星格林納：回家真好'
+- **2022-12-16** 📰 'Tag: 「以立合唱團」演唱「拯救我」'
+- **2022-12-16** 📰 'Tag: Brittney Griner'
+- **2022-12-16** 📰 'Tag: Libera me'
+- **2022-12-16** 🏥 'Tag: 中國可能爆發新一輪新冠病毒感染，美正監測有否新變種病毒'
+- **2022-12-16** 📰 'Tag: 日本新版安保戰略指共軍頻擾台 國際社會憂慮急增'
+- **2022-12-17** 📰 'Tag: 抗中保台'
+- **2022-12-24** 📰 'Tag: 美麗島事件2案外案'
+- **2022-12-26** 📰 'Tag: 71架次共機侵擾台灣'
+- **2022-12-26** 📰 'Tag: 中國挑釁'
+- **2022-12-29** 📰 'Tag: 內線交易'
+- **2022-12-29** 📰 'Tag: 國安高層會議'
+- **2022-12-30** 📰 'Tag: 戰狼外交'
+- **2022-12-31** 📰 'Tag: 蔡總統指派特使陳建仁出席本篤十六世喪禮'
+
+- **2021-01-01** 📰 'Tag: 台日開發6U立方衛星'
+- **2021-01-04** 🏛️ 'Tag: 陳水扁'
+- **2021-01-12** 📰 'Tag: 美國五大台灣會館評萊豬，反對科學議題政治化'
+- **2021-01-12** 📰 'Tag: 馬斯克推通訊軟體Signal'
+- **2021-01-12** 📰 'Tag: Signal Advance'
+- **2021-01-12** 📰 'Tag: 半導體業居'
+- **2021-01-13** 📰 'Tag: 台積電股價創新高'
+- **2021-01-14** 🗳️ 'Tag: 國民黨黨產'
+- **2021-01-15** 📰 'Tag: 林梓秧'
+- **2021-01-15** 📰 'Tag: 唉！2020'
+- **2021-01-15** 📰 'Tag: 奢侈保釋'
+- **2021-01-15** 🕯️ 'Tag: 楊翠'
+- **2021-01-17** 📰 'Tag: 美聲唱法的技巧'
+- **2021-01-17** 📰 'Tag: 楊子清老師音樂短講第 15 集'
+- **2021-01-17** 📰 'Tag: 美中貿易協議'
+- **2021-01-18** 📰 'Tag: 桃園醫院群聚感染'
+- **2021-01-18** 📰 'Tag: 中國隱匿疫情'
+- **2021-01-25** 📰 'Tag: 車用晶片短缺'
+- **2021-01-25** 📰 'Tag: 台積電將盡可能優先生產汽車晶片'
+- **2021-01-25** 📰 'Tag: 防疫工作變成執政成敗的關鍵'
+- **2021-01-26** 📰 'Tag: 恃強凌弱'
+- **2021-01-27** 📰 'Tag: 布拉格市長宣布深化與台灣夥伴關係'
+- **2021-01-27** 📰 'Tag: 美須支持台灣協助抵抗中國'
+- **2021-01-27** 📰 'Tag: 準美國駐聯大使Linda Thomas-Greenfield'
+- **2021-01-28** 📰 'Tag: 國務機要費案'
+- **2021-01-31** 🗳️ 'Tag: 聚焦關鍵'
+- **2021-02-04** 📰 'Tag: 雙重國籍'
+- **2021-02-06** 📰 'Tag: 口罩實名制'
+- **2021-02-10** 🤝 'Tag: 這!不是新聞'
+- **2021-02-11** 📰 'Tag: 空中台語教室'
+- **2021-02-11** 📰 'Tag: 學習母語找回認同'
+- **2021-02-11** 📰 'Tag: 台語文創意的省思'
+- **2021-02-11** 📰 'Tag: 潘立中'
+- **2021-02-11** 📰 'Tag: 朱耀源'
+- **2021-02-11** 📰 'Tag: 疫情中的省思'
+- **2021-02-12** 📰 'Tag: 阿里山林鐵整修蒸汽火車'
+- **2021-02-12** 📰 'Tag: 北市青農'
+- **2021-02-12** 📰 'Tag: 花蓮舊車站'
+- **2021-02-12** 📰 'Tag: 友善耕作在地品牌'
+- **2021-02-12** 📰 'Tag: 精緻休閒'
+- **2021-02-12** 📰 'Tag: 食農教育'
+- **2021-02-12** 📰 'Tag: 川普彈劾案'
+- **2021-02-13** 📰 'Tag: Einstein的著名音樂家朋友'
+- **2021-02-13** 📰 'Tag: Albert Einstein 的音樂世界'
+- **2021-02-14** 📰 'Tag: 葉思雅'
+- **2021-02-16** 📰 'Tag: 深夜的約會'
+- **2021-02-17** 📰 'Tag: 杜拜公主逃家不成慘淪籠中鳥'
+- **2021-02-17** 📰 'Tag: 台駐美代表蕭美琴感謝美國繼續支持台灣'
+- **2021-02-19** 📰 'Tag: 中國《海警法》'
+- **2021-02-19** 📰 'Tag: 美致函台灣盼解決汽車晶片問題'
+- **2021-02-19** 📰 'Tag: 楊安澤參選紐約市長'
+- **2021-02-19** 📰 'Tag: 輝瑞疫苗低溫儲存條件料將放寬，可放藥局冷凍櫃'
+- **2021-02-19** 📰 'Tag: 台灣駐紐約辦事處再添人員染疫'
+- **2021-02-19** 📰 'Tag: 巴西總統說93歲老母接種英國疫苗卻遭換為中國疫苗接種卡'
+- **2021-02-19** 📰 'Tag: 楊安澤誓言為亞裔族群爭權益'
+- **2021-02-19** 📰 'Tag: 加拿大要求臉書為新聞付費'
+- **2021-02-20** 📰 'Tag: 江南案史料'
+- **2021-02-20** 📰 'Tag: 崑濱伯92歲安詳辭世'
+- **2021-02-20** 📰 'Tag: 洛僑中心出現第3例確診'
+- **2021-02-20** 📰 'Tag: 台灣原民族語發展預算增5倍'
+- **2021-02-20** 📰 'Tag: 無米樂'
+- **2021-02-20** 📰 'Tag: NASA毅力號「駕駛」來自台灣'
+- **2021-02-20** 📰 'Tag: 原住民族語是文化生命重要來源'
+- **2021-02-21** 📰 'Tag: 2022年恐仍要戴口罩'
+- **2021-02-21** 📰 'Tag: 台灣的黑金'
+- **2021-02-21** 📰 'Tag: 美染疫死亡近50萬人'
+- **2021-02-21** 🏥 'Tag: 新台幣升值壓力大'
+- **2021-02-21** 🏥 'Tag: 台灣不擔心「荷蘭病」'
+- **2021-02-21** 📰 'Tag: 美國會議員劉雲平從政之路'
+- **2021-02-21** 🏥 'Tag: 朱澤民'
+- **2021-02-22** 📰 'Tag: 科技權值股落難'
+- **2021-02-22** 📰 'Tag: 美國務卿批中仍未分享疫情資訊'
+- **2021-02-22** 🏥 'Tag: 世衛新證據'
+- **2021-02-22** 📰 'Tag: Emma Coronel Aispuro'
+- **2021-02-22** 📰 'Tag: 蘋果擠下三星登全球智慧手機龍頭寶座'
+- **2021-02-22** 📰 'Tag: 鄭麗君推青平台轉型'
+- **2021-02-22** 📰 'Tag: 二二八北市邀馬英九致詞'
+- **2021-02-22** 📰 'Tag: 武漢肺炎美國死亡數逾50萬'
+- **2021-02-22** 📰 'Tag: 墨西哥毒梟古茲曼妻子在美國遭逮捕'
+- **2021-02-22** 📰 'Tag: 林飛帆吳怡農任青平台基金會董事'
+- **2021-02-22** 📰 'Tag: 美國各界譴責針對亞裔的暴力犯罪'
+- **2021-02-22** 📰 'Tag: 連勝文最後一刻才被告知'
+- **2021-02-22** 📰 'Tag: 柯文哲受邀藍智庫論壇'
+- **2021-02-22** 📰 'Tag: 緬甸民眾發起全國大罷工'
+- **2021-02-22** 🏥 'Tag: 首個確診病例前 新冠病毒可能已在中國傳播'
+- **2021-02-22** 📰 'Tag: 藍白合作引爭議'
+- **2021-02-22** 📰 'Tag: 加拿大國會通過動議稱中國對維吾爾種族滅絕'
+- **2021-02-22** 📰 'Tag: 紐約市戲院獲准3月恢復營業'
+- **2021-02-22** 📰 'Tag: 美駐WTO代辦拜會羅昌發'
+- **2021-02-22** 📰 'Tag: YouTube下架近3000個頻道帳號'
+- **2021-02-22** 📰 'Tag: 聯合國車隊在民主剛果遇襲，義大利大使身亡'
+- **2021-02-22** 📰 'Tag: 美國世貿組織（WTO）代表畢斯比（David Bisbee）'
+- **2021-02-22** 📰 'Tag: 藍營內部看法分歧恐先自傷'
+- **2021-02-22** 🕯️ 'Tag: 美國武漢肺炎死亡數逾50萬，白宮降半旗拜登默哀紀念'
+- **2021-02-23** 📰 'Tag: Linda Thomas-Greenfield'
+- **2021-02-24** 📰 'Tag: 台灣國家聯盟退出協辦二二八'
+- **2021-02-24** 🏥 'Tag: 民視台灣學堂'  (6×)
+- **2021-02-26** 📰 'Tag: 中國禁台灣鳳梨'
+- **2021-02-27** 📰 'Tag: 促轉會主委'
+- **2021-02-27** 📰 'Tag: 榮光歸香港'
+- **2021-02-27** 📰 'Tag: 從二二八思反送中'
+- **2021-02-28** 📰 'Tag: 紐約州長古莫致歉但否認性騷'
+- **2021-02-28** 📰 'Tag: 裴洛西：支持調查'
+- **2021-02-28** 🏥 'Tag: 公視晚間新聞'  (6×)
+- **2021-02-28** 📰 'Tag: 臉書'  (5×)
+- **2021-03-01** 📰 'Tag: 將中國審查制度當作貿易障礙'
+- **2021-03-01** 📰 'Tag: 戴琪誓抗中國不公貿易作為'
+- **2021-03-01** 📰 'Tag: 疫情讓國際理解台灣與中國有巨大差異'
+- **2021-03-01** 📰 'Tag: 芬蘭第一大報 報導台灣原住民文化與政策'
+- **2021-03-02** 📰 'Tag: 與載人機組隊執行任務'
+- **2021-03-02** 📰 'Tag: 波音與澳空軍首度試飛無人戰機'
+- **2021-03-02** 📰 'Tag: loyal wingman drone'
+- **2021-03-02** 📰 'Tag: 中國威脅'
+- **2021-03-03** 📰 'Tag: 民進黨憲改小組 姚嘉文柯建銘鄭文燦任召集人'
+- **2021-03-05** 📰 'Tag: 台灣「農產品產業鏈」單一市場依賴焦慮'
+- **2021-03-05** 📰 'Tag: 農產品產業鏈'
+- **2021-03-06** 📰 'Tag: 美日印澳四國首腦將舉行首次峰會'
+- **2021-03-06** 📰 'Tag: 緬甸軍警對民宅開槍逮捕平民'
+- **2021-03-06** 📰 'Tag: 政治風波期間舉辦 Dvorak 百年慶祝會'
+- **2021-03-07** 📰 'Tag: 鄧加希'
+- **2021-03-07** 📰 'Tag: 香港注射中國科興疫苗後釀2死'
+- **2021-03-07** 🏥 'Tag: 默克Covid-19口服藥'
+- **2021-03-07** 📰 'Tag: 拜登支持台灣民主政體'
+- **2021-03-07** 📰 'Tag: 瑞士公投通過禁止罩袍禁令'
+- **2021-03-07** 📰 'Tag: 美國新一輪1.9兆紓困救助計劃誰受益'
+- **2021-03-08** 📰 'Tag: 接種過疫苗者小型聚會可免戴口罩'
+- **2021-03-08** 📰 'Tag: 緬甸軍警搜民宅抓示威者'
+- **2021-03-09** 📰 'Tag: 姚嘉文主張依黨綱制憲正名'
+- **2021-03-09** 🏛️ 'Tag: 民進黨憲改小組'
+- **2021-03-09** 📰 'Tag: 拜登提名兩女性將領 接掌美軍兩大司令部'
+- **2021-03-10** 📰 'Tag: 拜登官員首次海外行'
+- **2021-03-10** 📰 'Tag: 印度才是中共的天敵'
+- **2021-03-10** 📰 'Tag: 日本福島核電站事故'
+- **2021-03-10** 📰 'Tag: American Rescue Plan Act of 2021'
+- **2021-03-10** 📰 'Tag: 減少美國兒童貧困'
+- **2021-03-10** 📰 'Tag: 美國務卿和防長訪日韓'
+- **2021-03-10** 📰 'Tag: 緬甸年輕世代不自由毋寧死'
+- **2021-03-10** 📰 'Tag: 美海軍神盾驅逐艦通過台海 拜登上任來第3次'
+- **2021-03-10** 📰 'Tag: 動物農莊'
+- **2021-03-10** 📰 'Tag: 二二八受難者回復名譽'
+- **2021-03-11** 📰 'Tag: 捍衛衛星能力'
+- **2021-03-11** 📰 'Tag: 鄭文燦呼籲實現非核家園'
+- **2021-03-11** 📰 'Tag: 核廢料問題'
+- **2021-03-11** 📰 'Tag: 以核無法養綠'
+- **2021-03-11** 📰 'Tag: 日本311地震核災10週年'
+- **2021-03-11** 📰 'Tag: 核四不是選項'
+- **2021-03-12** 📰 'Tag: 扼殺港自治'
+- **2021-03-12** 📰 'Tag: 美日印澳領袖峰會'
+- **2021-03-12** 📰 'Tag: 台灣公民團體'
+- **2021-03-12** 📰 'Tag: 國際奧委會為運動員提供中國疫苗受質疑'
+- **2021-03-12** 📰 'Tag: 中國修改香港選制'
+- **2021-03-13** 📰 'Tag: 美國駐聯合國臨時代辦馬克·卡薩伊(Mark Cassayre)'
+- **2021-03-13** 📰 'Tag: 德軍將阻止中國在印太地區的行動'
+- **2021-03-13** 📰 'Tag: 北京不遵守《中英聯合聲明》'
+- **2021-03-13** 🕯️ 'Tag: 英國女子疑遭警察綁架殺害'
+- **2021-03-13** 📰 'Tag: 中國虐待維吾爾和藏族人'
+- **2021-03-13** 📰 'Tag: 武漢肺炎台灣中藥方「清冠一號」'
+- **2021-03-13** 🕯️ 'Tag: 黃偉哲追思湯德章'
+- **2021-03-13** 📰 'Tag: Kramp-Karrenbauer'
+- **2021-03-13** 📰 'Tag: 金價'
+- **2021-03-14** 🕯️ 'Tag: 2021 年二二八紀念系列活動'
+- **2021-03-14** 📰 'Tag: 大潭電廠'
+- **2021-03-14** 📰 'Tag: 反送中海外運動'
+- **2021-03-14** 📰 'Tag: 麥寮電廠'
+- **2021-03-15** 📰 'Tag: 台美人導演黃詠婷(Tiffany Frances)'
+- **2021-03-15** 📰 'Tag: Hello From Taiwan'
+- **2021-03-15** 📰 'Tag: 拜登新經濟計畫'
+- **2021-03-15** 📰 'Tag: 北京天空出現罕見“藍太陽”'
+- **2021-03-15** 📰 'Tag: 宗教和諧'
+- **2021-03-15** 🏥 'Tag: 北韓'
+- **2021-03-16** 🤝 'Tag: Antony Blinken'
+- **2021-03-16** 📰 'Tag: 台灣帛琉旅遊泡泡啟動'
+- **2021-03-16** 📰 'Tag: Mario Abdo Benitez'
+- **2021-03-16** 📰 'Tag: 日本札幌地院判政府不承認同性婚姻違憲'
+- **2021-03-16** 📰 'Tag: 美國20年來最大移民潮'
+- **2021-03-16** 📰 'Tag: 美移民法案'
+- **2021-03-16** 📰 'Tag: 美日同盟'
+- **2021-03-16** 📰 'Tag: AZ疫苗血栓疑雲'
+- **2021-03-16** 📰 'Tag: 三接'
+- **2021-03-16** 🏥 'Tag: 病故人數'
+- **2021-03-16** 🏥 'Tag: 美疫苗施打'
+- **2021-03-16** 📰 'Tag: 美籲巴拉圭持續與台灣合作'
+- **2021-03-17** 📰 'Tag: 台灣帛琉旅遊泡泡'
+- **2021-03-17** 📰 'Tag: 美國務院重申關切台港新疆議題'
+- **2021-03-18** 🏥 'Tag: 余文生堅持拒簽認罪承諾書'
+- **2021-03-18** 📰 'Tag: Xavier Becerra'
+- **2021-03-18** 📰 'Tag: 北韓政策'
+- **2021-03-18** 📰 'Tag: 貝塞拉任衛生部長'
+- **2021-03-18** 📰 'Tag: 恢復中國商務人士申請來台'
+- **2021-03-18** 📰 'Tag: 中方譁眾取寵'
+- **2021-03-18** 📰 'Tag: 川普言論致亞裔美國人遭攻擊升高'
+- **2021-03-18** 📰 'Tag: 陸委會主委邱太'
+- **2021-03-18** 📰 'Tag: 布林肯訪韓打牽制中國牌'
+- **2021-03-19** 📰 'Tag: 美中言詞交鋒'
+- **2021-03-19** 📰 'Tag: 共和前進黨（La Republique en Marche）參議員李察（Alain Richard）'
+- **2021-03-19** 📰 'Tag: 共軍055驅逐艦'
+- **2021-03-19** 📰 'Tag: 共軍055驅逐艦現蹤日本近海'
+- **2021-03-19** 📰 'Tag: 愛沙尼亞科學家塔莫·庫特斯（TarmoKõuts）'
+- **2021-03-19** 📰 'Tag: 法台關係無需北京同意'
+- **2021-03-19** 📰 'Tag: 北約愛沙尼亞籍頂級科學家為中國當間諜'
+- **2021-03-19** 📰 'Tag: 拜登賀錦麗譴責仇亞裔暴力'
+- **2021-03-19** 📰 'Tag: 冰島首都附近火山噴發'
+- **2021-03-20** 📰 'Tag: 美國的仇恨犯罪'
+- **2021-03-20** 📰 'Tag: 仇恨犯罪的分類'
+- **2021-03-20** 📰 'Tag: 土耳其退出禁家暴「伊斯坦堡公約」'
+- **2021-03-20** 📰 'Tag: 賓州費城非法大型集會傳槍擊'
+- **2021-03-20** 📰 'Tag: 「東密克羅尼西亞電纜計畫」標案'
+- **2021-03-21** 🏥 'Tag: 美染疫病故人數突破54萬'
+- **2021-03-21** 📰 'Tag: 統性種族主義'
+- **2021-03-21** 📰 'Tag: “國際消滅種族歧視日”（International Day for the Elimination of Racial Discrimination...
+- **2021-03-21** 🏥 'Tag: COVID-19病故者紀念碑'
+- **2021-03-21** 📰 'Tag: miami beach spring break 2021'
+- **2021-03-22** 📰 'Tag: 暴力的意圖'
+- **2021-03-22** 📰 'Tag: FTA'
+- **2021-03-22** 📰 'Tag: 中國密審加拿大前外交官康明凱'
+- **2021-03-22** 📰 'Tag: 23位美議員聯名致函拜登籲與台灣洽簽FTA'
+- **2021-03-22** 📰 'Tag: 攻擊性'
+- **2021-03-22** 📰 'Tag: 國民黨妨礙防疫'
+- **2021-03-22** 📰 'Tag: 帛琉總統出訪台灣'
+- **2021-03-22** 📰 'Tag: 監督'
+- **2021-03-22** 📰 'Tag: 觀光醫療合作'
+- **2021-03-23** 📰 'Tag: 替代方案'
+- **2021-03-23** 📰 'Tag: 強化美國與歐盟和北約的同盟關係'
+- **2021-03-23** 📰 'Tag: 歐洲議會取消審議中歐全面投資協定'
+- **2021-03-23** 📰 'Tag: 布林肯訪北約'
+- **2021-03-23** 📰 'Tag: 75歲住在舊金山的謝曉真（Xiao Zhen Xie，音譯）'
+- **2021-03-23** 📰 'Tag: 中國威脅挑戰國際秩序'
+- **2021-03-23** 📰 'Tag: 對抗中國一帶一路'
+- **2021-03-24** 📰 'Tag: 歐中投資協定'
+- **2021-03-24** 📰 'Tag: 維吉尼亞正式廢除死刑'
+- **2021-03-24** 📰 'Tag: 俄下議院'
+- **2021-03-24** 📰 'Tag: 川普政府時期疫苗計畫首席顧問Moncef Slaoui'
+- **2021-03-24** 📰 'Tag: 為蒲亭掌權至2036年舖路'
+- **2021-03-24** 📰 'Tag: 立陶宛外長藍斯柏吉斯（Gabrielius Landsbergis）'
+- **2021-03-24** 📰 'Tag: 世界最大油畫'
+- **2021-03-24** 📰 'Tag: Moncef Slaoui被控性騷'
+- **2021-03-24** 📰 'Tag: 義大利外交部副部長塞蘭尼（Marina Sereni）召見中國大使李軍華'
+- **2021-03-24** 📰 'Tag: 越南'
+- **2021-03-24** 📰 'Tag: 流氓外交'
+- **2021-03-24** 📰 'Tag: 楊潔篪用江湖語言鼓動民粹'
+- **2021-03-25** 📰 'Tag: 英特爾難撼動台積電優勢'
+- **2021-03-25** 📰 'Tag: 中國駭客用臉書監控在台維吾爾人'
+- **2021-03-25** 📰 'Tag: 台灣陸委會民調'
+- **2021-03-25** 📰 'Tag: 歐盟疫苗出口禁令'
+- **2021-03-25** 📰 'Tag: 布林肯北約演說'
+- **2021-03-25** 📰 'Tag: 歐盟視訊峰會拜登受邀'
+- **2021-03-25** 📰 'Tag: 外交冒犯'
+- **2021-03-25** 🕯️ 'Tag: 威權民粹極端主義'
+- **2021-03-25** 🕯️ 'Tag: 國際大屠殺紀念日'
+- **2021-03-26** 📰 'Tag: 美中衛星先後裂解'
+- **2021-03-26** 📰 'Tag: 友台派'
+- **2021-03-27** 📰 'Tag: 砸錢養酒肉朋友'
+- **2021-03-27** 📰 'Tag: 國際監督'
+- **2021-03-27** 📰 'Tag: Zappos'
+- **2021-03-27** 📰 'Tag: 台裔創辦人謝家華'
+- **2021-03-27** 📰 'Tag: 核四當年沒完工建照過期'
+- **2021-03-28** 📰 'Tag: 亞洲已成美中對立最前線'
+- **2021-03-28** 📰 'Tag: 女乘客逃票還打站務員'
+- **2021-03-28** 📰 'Tag: 重建美國基礎建設'
+- **2021-03-28** 📰 'Tag: 拜登31日發表經濟政策講話'
+- **2021-03-28** 📰 'Tag: 長榮貨輪部分脫淺'
+- **2021-03-28** 📰 'Tag: 緬甸血腥鎮壓'
+- **2021-03-28** 📰 'Tag: 長榮貨輪卡運河'
+- **2021-03-29** 🏥 'Tag: 在住家5英里範圍內獲得注射'
+- **2021-03-29** 📰 'Tag: 見證二二八'
+- **2021-03-29** 📰 'Tag: 俄對美國進行惡意活動'
+- **2021-03-29** 📰 'Tag: 拜登不打算會見金正恩'
+- **2021-03-29** 🏥 'Tag: 9成美國成年人 4/19有資格接種疫苗'
+- **2021-03-29** 📰 'Tag: 台灣不是中國的一部分'
+- **2021-03-30** 📰 'Tag: 世紀瘟疫'
+- **2021-03-30** 📰 'Tag: 米粒'
+- **2021-03-30** 📰 'Tag: 省思運命'
+- **2021-03-30** 📰 'Tag: Dr. Jan Popper'
+- **2021-03-30** 📰 'Tag: 美國境外預先通關'
+- **2021-03-30** 📰 'Tag: 長賜輪脫困'
+- **2021-03-30** 📰 'Tag: 白目'
+- **2021-03-30** 📰 'Tag: 鄭炳全'
+- **2021-03-30** 📰 'Tag: 美避險基金Archegos爆倉危機'
+- **2021-03-30** 📰 'Tag: 日本超市業者'
+- **2021-03-30** 📰 'Tag: 美聲唱法'
+- **2021-03-30** 📰 'Tag: 調查局「遺失」6.5公斤安毒'
+- **2021-03-30** 📰 'Tag: 賀德芬'
+- **2021-03-30** 📰 'Tag: 中國人不吃這一套'
+- **2021-03-31** 📰 'Tag: 境外移入'
+- **2021-03-31** 📰 'Tag: 「恐共」與「反共」的戰爭'
+- **2021-03-31** 📰 'Tag: 法海軍戰鬥群抵印度洋'
+- **2021-03-31** 📰 'Tag: 台美討論拓展台灣參與國際組織策略'
+- **2021-03-31** 📰 'Tag: NASA稱台灣是國家'
+- **2021-03-31** 📰 'Tag: 12至15歲青少年注射輝瑞疫苗保護力100%'
+- **2021-03-31** 📰 'Tag: Brandon Elliot'
+- **2021-03-31** 📰 'Tag: 美日韓國安高層將首度會晤'
+- **2021-04-01** 📰 'Tag: 若台灣停供晶片1年 全球電子業營收少14兆'
+- **2021-04-01** 📰 'Tag: 台灣受強鄰威脅'
+- **2021-04-01** 📰 'Tag: 立陶宛友台組織'
+- **2021-04-01** 📰 'Tag: 喬治亞州新投票權法'
+- **2021-04-01** 📰 'Tag: 價格折讓'
+- **2021-04-01** 📰 'Tag: 喬州限縮投票'
+- **2021-04-01** 📰 'Tag: 美日韓國安高層會談'
+- **2021-04-02** 📰 'Tag: 歐盟譴責中國'
+- **2021-04-02** 📰 'Tag: 美日共同保衛尖閣諸島'
+- **2021-04-02** 📰 'Tag: H&M因“問題地圖”遭約談'
+- **2021-04-02** 📰 'Tag: 中國創造虛擬記者傳播假新聞'
+- **2021-04-03** 📰 'Tag: 美對中對台 仍採戰略模糊'
+- **2021-04-03** 📰 'Tag: 拜登申明堅定支持烏克蘭'
+- **2021-04-03** 📰 'Tag: 挺新疆虛構記者找到了'
+- **2021-04-03** 📰 'Tag: 公投戰'
+- **2021-04-06** 📰 'Tag: 台灣經濟成長率'
+- **2021-04-06** 📰 'Tag: 太魯閣號奪命災難'
+- **2021-04-06** 📰 'Tag: 陰謀論滿天飛'
+- **2021-04-06** 📰 'Tag: Archegos爆倉'
+- **2021-04-06** 📰 'Tag: 美海軍醫護兵開槍射傷兩人'
+- **2021-04-06** 📰 'Tag: 瑞士信貸'
+- **2021-04-07** 📰 'Tag: 如果中國攻擊台灣，台灣將戰鬥到底'
+- **2021-04-07** 📰 'Tag: 緬甸安全部隊向反政變群眾開槍'
+- **2021-04-07** 📰 'Tag: 末日香港'
+- **2021-04-07** 📰 'Tag: 聯合抵制'
+- **2021-04-07** 📰 'Tag: 搜捕修例齊下，廢物廢柴火拼'
+- **2021-04-08** 📰 'Tag: 北京冬奧'
+- **2021-04-08** 📰 'Tag: 韓國電競選手在美德州遭歧視'
+- **2021-04-08** 📰 'Tag: 央視'
+- **2021-04-09** 📰 'Tag: 全世界都需要台灣'
+- **2021-04-10** 📰 'Tag: Prokofiev'
+- **2021-04-10** 📰 'Tag: 「Lieutenant Kijé (基傑中尉) 組曲'
+- **2021-04-10** 🏥 'Tag: 金正恩'
+- **2021-04-10** 📰 'Tag: 拜登預算衛生教育總經費超出國防'
+- **2021-04-10** 📰 'Tag: 經濟改革'
+- **2021-04-10** 📰 'Tag: 拜登1.5兆美元預算案'
+- **2021-04-11** 📰 'Tag: 美國軍中極端主義'
+- **2021-04-12** 📰 'Tag: 延續台語生命'
+- **2021-04-12** 📰 'Tag: 台語滅亡倒數中'
+- **2021-04-12** 🏥 'Tag: 「認同」兩樣情'
+- **2021-04-12** 🏥 'Tag: 武漢病毒下的省思'
+- **2021-04-12** 🏥 'Tag: 劉文義'
+- **2021-04-12** 📰 'Tag: 台灣對外國白領人才開門'
+- **2021-04-13** 📰 'Tag: 美點名旺中聽命於國台辦'
+- **2021-04-13** 📰 'Tag: 疫情中爬禿頭山'
+- **2021-04-13** 📰 'Tag: 總統是唯一有權除罪者'
+- **2021-04-13** 📰 'Tag: 林書漫步：書房即戰場'
+- **2021-04-13** 📰 'Tag: 黃哲陽'
+- **2021-04-13** 📰 'Tag: AIT發言人孟雨荷訪馬祖'
+- **2021-04-13** 📰 'Tag: 台美安全合作歷史'
+- **2021-04-13** 📰 'Tag: 王文隆'
+- **2021-04-13** 📰 'Tag: 賴怡忠'
+- **2021-04-14** 📰 'Tag: 加拿大總理及國會力挺HFX論壇'
+- **2021-04-14** 📰 'Tag: 黑面琵鷺'
+- **2021-04-14** 📰 'Tag: 中國砸自己的鍋'
+- **2021-04-14** 📰 'Tag: 陶德率團訪台'
+- **2021-04-14** 📰 'Tag: HFX論壇頒獎蔡總統障礙排除'
+- **2021-04-14** 📰 'Tag: 拜登喪子之痛'
+- **2021-04-14** 📰 'Tag: 拜登對美台關係承諾'
+- **2021-04-14** 📰 'Tag: 中國商業環境政治化'
+- **2021-04-14** 📰 'Tag: Christopher Dodd'
+- **2021-04-14** 📰 'Tag: 深化台美夥伴關係'
+- **2021-04-14** 📰 'Tag: 美軍撤出阿富汗'
+- **2021-04-14** 📰 'Tag: 美股'
+- **2021-04-14** 📰 'Tag: 蘇貞昌批准林佳龍辭呈'
+- **2021-04-14** 📰 'Tag: 習近平把歐洲人推向美國'
+- **2021-04-14** 📰 'Tag: 前美國參議員陶德（Chris Dodd）'
+- **2021-04-15** 📰 'Tag: 台股'
+- **2021-04-15** 📰 'Tag: 美國失業補助申請人數大幅下降'
+- **2021-04-16** 📰 'Tag: Al Nour Wal Amal Orchestra'
+- **2021-04-16** 📰 'Tag: 世界唯一全團員視障的管絃樂團'
+- **2021-04-16** 📰 'Tag: 台美之間不能有軍售案嗎？'
+- **2021-04-16** 📰 'Tag: 英航艦女王號5月首航南海'
+- **2021-04-16** 📰 'Tag: 美國未指明台灣為匯率操縱國'
+- **2021-04-16** 📰 'Tag: 不明空中現象（UAP）'
+- **2021-04-16** 📰 'Tag: UAP外流影像美國防部證實是真的'
+- **2021-04-16** 📰 'Tag: 英航艦女王號5月首航傳避台灣海峽以免激怒中國'
+- **2021-04-17** 📰 'Tag: 關注台海和平'
+- **2021-04-17** 📰 'Tag: 美國警員殺人影片層出不窮'
+- **2021-04-17** 📰 'Tag: 拜登菅義偉組抗中陣線'
+- **2021-04-17** 📰 'Tag: 公眾信任跌至低點'
+- **2021-04-18** 📰 'Tag: 馬克宏籲對俄國劃下清楚紅線'
+- **2021-04-18** 📰 'Tag: 大洛杉磯台灣會館生活講座'
+- **2021-04-18** 📰 'Tag: 台灣入WHO論壇'
+- **2021-04-18** 📰 'Tag: 漢光37兵棋推演'
+- **2021-04-18** 📰 'Tag: Tesla汽車德州撞樹釀2死'
+- **2021-04-18** 📰 'Tag: Tesla汽車駕駛座上沒人'
+- **2021-04-18** 📰 'Tag: 俄羅斯驅逐20名捷克外交官'
+- **2021-04-18** 📰 'Tag: 兒童醫療照護計畫'
+- **2021-04-19** 📰 'Tag: 中共黨員入境日本網攻'
+- **2021-04-19** 📰 'Tag: 卡斯楚兄弟60年統治古巴'
+- **2021-04-19** 📰 'Tag: 美國防部'
+- **2021-04-19** 📰 'Tag: 中國解放軍'
+- **2021-04-19** 📰 'Tag: 「創新號」（Ingenuity）在火星首飛'
+- **2021-04-19** 📰 'Tag: 新冠疫苗'
+- **2021-04-20** 📰 'Tag: 美軍4架F-16滿掛實彈飛南海'
+- **2021-04-21** 📰 'Tag: 太魯閣號事故'
+- **2021-04-21** 📰 'Tag: 柯文哲賰一支喙'
+- **2021-04-21** 📰 'Tag: 澳洲取消維多利亞州和中國一帶一路協議'
+- **2021-04-21** 📰 'Tag: 台灣詩人阿芒獲美國筆會翻譯詩集獎'
+- **2021-04-21** 🗳️ 'Tag: 張忠謀'  (5×)
+- **2021-04-22** 📰 'Tag: 中國愛棉不愛人'
+- **2021-04-22** 🗳️ 'Tag: 華爾街日報'
+- **2021-04-22** 📰 'Tag: 血棉花'
+- **2021-04-22** 📰 'Tag: 新時代的《愛棉說》'
+- **2021-04-22** 📰 'Tag: 台灣防衛能力受關注'
+- **2021-04-22** 📰 'Tag: 台積電南京廠'
+- **2021-04-22** 📰 'Tag: 特斯拉中國公司發布事故行車數據'
+- **2021-04-22** 📰 'Tag: 英國國會宣告中國對新疆維族種族滅絕'
+- **2021-04-22** 📰 'Tag: 英國大砍95%援助中國預算'
+- **2021-04-22** 📰 'Tag: 逾百名受美國NIH資助的學者因未披露外國關係而被除名'
+- **2021-04-22** 📰 'Tag: 千人計劃'
+- **2021-04-22** 📰 'Tag: 台積電深耕先進製程 9成產能在台'
+- **2021-04-23** 📰 'Tag: 歐盟執委將與台積電及英特爾高層會商'
+- **2021-04-23** 🏥 'Tag: 嬌生疫苗'
+- **2021-04-23** 📰 'Tag: 洩露習近平女兒個資'
+- **2021-04-23** 📰 'Tag: 美國3月新屋銷售達15年以來高峰'
+- **2021-04-23** 📰 'Tag: 牛騰宇二審維持14年'
+- **2021-04-24** 📰 'Tag: Master Mason'
+- **2021-04-24** 📰 'Tag: Freemasonry'
+- **2021-04-24** 📰 'Tag: Wolfgang Amadeus Mozart'
+- **2021-04-24** 📰 'Tag: 華航1週4機師染疫'
+- **2021-04-24** 📰 'Tag: 中國文字獄層出不窮'
+- **2021-04-24** 📰 'Tag: 中國是關押作家最多的國家'
+- **2021-04-25** 🕯️ 'Tag: 原住民哲人高一生紀念碑揭幕'
+- **2021-04-25** 📰 'Tag: 台南鹽水蔡和泉故居修復'
+- **2021-04-25** 📰 'Tag: 月之美術館'
+- **2021-04-25** 📰 'Tag: 趙婷奪奧斯卡最佳導演'
+- **2021-04-25** 📰 'Tag: 雙面刀鬼'
+- **2021-04-25** 📰 'Tag: 中國半導體業遇困境'
+- **2021-04-25** 📰 'Tag: 晶片荒'
+- **2021-04-25** 📰 'Tag: 印度COVID-19疫情惡化'
+- **2021-04-25** 📰 'Tag: 美國提供疫苗原料'
+- **2021-04-25** 📰 'Tag: Nomadland'
+- **2021-04-25** 📰 'Tag: 汽車製造業'
+- **2021-04-25** 📰 'Tag: 台灣戰略優勢'
+- **2021-04-26** 📰 'Tag: 西方國家不應再犯5G的錯誤'
+- **2021-04-26** 📰 'Tag: 跟騷法'
+- **2021-04-26** 📰 'Tag: 車諾比核災35週年'
+- **2021-04-26** 📰 'Tag: 美國將分享6000萬劑AZ疫苗助他國抗疫'
+- **2021-04-26** 📰 'Tag: 眾院席位'
+- **2021-04-26** 📰 'Tag: 立院審查跟騷法'
+- **2021-04-26** 📰 'Tag: 美人口普查新數據出籠'
+- **2021-04-26** 📰 'Tag: 台灣環團反對重啟核四公投'
+- **2021-04-26** 📰 'Tag: 台海情勢'
+- **2021-04-26** 📰 'Tag: 歐盟內部報告抨擊中國獨裁'
+- **2021-04-27** 📰 'Tag: AIT發言人孟雨荷'
+- **2021-04-27** 📰 'Tag: 怎樣認識中共的「鬥爭哲學」'
+- **2021-04-27** 📰 'Tag: 艋舺'
+- **2021-04-27** 📰 'Tag: 中國文字獄又居全球最高'
+- **2021-04-27** 📰 'Tag: 百年風華老街區'
+- **2021-04-27** 📰 'Tag: 美國迎戰中共假新聞滲透'
+- **2021-04-27** 📰 'Tag: 徐若冰（Heidi Shyu）'
+- **2021-04-27** 📰 'Tag: 日本挺台參與WHA'
+- **2021-04-27** 📰 'Tag: 主權'
+- **2021-04-27** 📰 'Tag: 日本外交藍皮書'
+- **2021-04-27** 📰 'Tag: F-35雷達之母'
+- **2021-04-27** 📰 'Tag: 拜登提名徐若冰任國防部副部長'
+- **2021-04-27** 📰 'Tag: 日本重申台灣是重要夥伴'
+- **2021-04-27** 📰 'Tag: 斯洛伐克一孔子學院'
+- **2021-04-27** 📰 'Tag: 日本外交藍皮書直言北京威脅'
+- **2021-04-27** 📰 'Tag: 反擊中共大外宣'
+- **2021-04-27** 📰 'Tag: 景氣燈號'
+- **2021-04-28** 📰 'Tag: 第二代台裔科技人郭斐品（Benjamin Kuo）'
+- **2021-04-28** 📰 'Tag: 亞裔美國人遭受攻擊'
+- **2021-04-28** 📰 'Tag: 從台積電回溯中共對企業的掠奪'
+- **2021-04-28** 📰 'Tag: 加州台裔科技人 精準定位救迷路登山客'
+- **2021-04-28** 📰 'Tag: 拜登首場國會演說'
+- **2021-04-28** 📰 'Tag: 促轉會社會對話行動展'
+- **2021-04-28** 📰 'Tag: 閉關鎖港變大監獄'
+- **2021-04-28** 📰 'Tag: 美參議員支持哈利法克斯論壇頒獎給蔡英文'
+- **2021-04-28** 📰 'Tag: 歐洲議會通過英歐貿易協議'
+- **2021-04-28** 📰 'Tag: 2021年哈利法克斯國際安全論壇(HFX)'
+- **2021-04-28** 📰 'Tag: 公共議題'
+- **2021-04-28** 📰 'Tag: 香港立法會三讀通過入境條例修訂'
+- **2021-04-28** 📰 'Tag: 安倍晉三大讚台灣鳳梨好吃'
+- **2021-04-28** 📰 'Tag: 中火減煤'
+- **2021-04-29** 🏛️ 'Tag: 疫苗調閱小組'
+- **2021-04-29** 📰 'Tag: 美艦混入遼寧艦編隊緊追'
+- **2021-04-29** 📰 'Tag: 布林肯批中國官媒造謠破壞民主限制新聞自由'
+- **2021-04-29** 📰 'Tag: 美國國務卿布林肯（Antony Blinken）'
+- **2021-04-30** 📰 'Tag: 外交部長吳釗燮'
+- **2021-04-30** 📰 'Tag: 中共沒有統治台灣一天'
+- **2021-04-30** 📰 'Tag: 一億美國成年人完全接種新冠疫苗'
+- **2021-04-30** 📰 'Tag: 台灣將戰鬥到底'
+- **2021-04-30** 📰 'Tag: 經濟學人指台灣是「地球上最危險的地方」'
+- **2021-04-30** 📰 'Tag: 美國再次呼籲WHA 邀請台灣與會'
+- **2021-04-30** 📰 'Tag: 安全屏障'
+- **2021-04-30** 🏥 'Tag: 攔捷新聞'
+- **2021-04-30** 📰 'Tag: 台灣強化商業秘密'
+- **2021-04-30** 📰 'Tag: 具體執行細節'
+- **2021-04-30** 📰 'Tag: 中國續列優先觀察名單'
+- **2021-04-30** 📰 'Tag: 戰略框架清晰化'
+- **2021-04-30** 📰 'Tag: 美特別301報告'
+- **2021-05-01** 📰 'Tag: I''m Taiwanese'
+- **2021-05-01** 📰 'Tag: 台灣防疫物資送印度'
+- **2021-05-01** 📰 'Tag: 台海周邊有事'
+- **2021-05-01** 📰 'Tag: 加拿大人口普查 首列台灣族裔'
+- **2021-05-01** 📰 'Tag: Newsletter'
+- **2021-05-01** 📰 'Tag: 中國驅逐艦通過台灣和與那國島之間'
+- **2021-05-01** 🏛️ 'Tag: 緬甸危機'
+- **2021-05-01** 📰 'Tag: T. A. Archives'
+- **2021-05-01** 📰 'Tag: 安理會'
+- **2021-05-01** 📰 'Tag: 中共實施「反諜新規」'
+- **2021-05-01** 📰 'Tag: 華航諾富特群聚案'
+- **2021-05-01** 📰 'Tag: 拜登政府'
+- **2021-05-01** 📰 'Tag: AIT辦音樂沙龍慶美國亞太裔傳統月'
+- **2021-05-01** 📰 'Tag: 亞裔入閣'
+- **2021-05-01** 📰 'Tag: 台美史料中心'  (2×)
+- **2021-05-02** 📰 'Tag: 北市暫不提升防疫層級'
+- **2021-05-02** 📰 'Tag: 貝佐斯和馬斯克太空戰槓上'
+- **2021-05-02** 📰 'Tag: 連勝文的兩個如果'
+- **2021-05-02** 📰 'Tag: 五月畫會65週年聯展'
+- **2021-05-02** 📰 'Tag: 加拿大人口普查，台僑社區籲填寫台灣人'
+- **2021-05-02** 📰 'Tag: 台灣成新聞自由典範'
+- **2021-05-02** 📰 'Tag: 反制威權對手訊息戰'
+- **2021-05-02** 📰 'Tag: 中共政法委公然嘲諷印度疫情'
+- **2021-05-02** 📰 'Tag: 整合心戰網戰專家'
+- **2021-05-02** 📰 'Tag: 台灣制度透明有效打假'
+- **2021-05-03** 📰 'Tag: 台灣海防居然都在睡覺'
+- **2021-05-03** 📰 'Tag: Yahoo'
+- **2021-05-03** 📰 'Tag: AOL'
+- **2021-05-03** 📰 'Tag: 美國新增確診數連3週下降'
+- **2021-05-03** 📰 'Tag: 台積電6月底前能滿足汽車芯片市場最低需求'
+- **2021-05-03** 📰 'Tag: 阿波羅基金'
+- **2021-05-03** 📰 'Tag: 阿波羅全球管理公司（Apollo Global Management）'
+- **2021-05-03** 📰 'Tag: 比爾蓋茲大女兒發文吐心聲'
+- **2021-05-03** 📰 'Tag: 近1/3美國民眾完成疫苗接種'
+- **2021-05-03** 📰 'Tag: 「投奔自由」長驅直入'
+- **2021-05-03** 📰 'Tag: Verizon'
+- **2021-05-03** 📰 'Tag: 比爾蓋茲夫妻離異 財產分配牽涉複雜'
+- **2021-05-03** 📰 'Tag: 比爾蓋茲與梅琳達分手，結束27年婚姻'
+- **2021-05-03** 📰 'Tag: 輝瑞&BNT疫苗可望獲准供美青少年施打'
+- **2021-05-03** 📰 'Tag: 比爾蓋茲離婚'
+- **2021-05-04** 📰 'Tag: 數位國力'
+- **2021-05-04** 📰 'Tag: 世衛秘書長譚德塞擬尋求連任'
+- **2021-05-04** 📰 'Tag: 中國國藥疫苗效力安全不足'
+- **2021-05-04** 📰 'Tag: 美臺資安合作步伐一致'
+- **2021-05-04** 📰 'Tag: 歐盟向拜登陣營靠攏'
+- **2021-05-04** 📰 'Tag: 不含萊劑'
+- **2021-05-04** 📰 'Tag: 資安即國安2.0戰略'
+- **2021-05-04** 📰 'Tag: 霸凌'
+- **2021-05-04** 📰 'Tag: 港大收回學生會會址'
+- **2021-05-04** 📰 'Tag: 美豬上國軍餐桌'
+- **2021-05-04** 📰 'Tag: 符合法規'
+- **2021-05-04** 📰 'Tag: Pfizer大幅上調2021年營收預測'
+- **2021-05-04** 📰 'Tag: Bill & Melinda Gates Foundation'
+- **2021-05-04** 📰 'Tag: 汪傳浦房產'
+- **2021-05-04** 📰 'Tag: 為台灣做正確決定'
+- **2021-05-04** 📰 'Tag: 好聚好散'
+- **2021-05-04** 📰 'Tag: 墨西哥政府向馬雅原住民致歉'
+- **2021-05-04** 📰 'Tag: 輝瑞疫苗'
+- **2021-05-04** 📰 'Tag: 民進黨制憲？'
+- **2021-05-04** 📰 'Tag: 豁免新冠疫苗知識產權'
+- **2021-05-04** 📰 'Tag: 港大校長張翔'
+- **2021-05-04** 📰 'Tag: 比爾蓋茲、貝佐斯夫妻離婚後仍是朋友'
+- **2021-05-04** 📰 'Tag: 汪傳浦犯罪所得'
+- **2021-05-04** 🗳️ 'Tag: 公投'  (2×)
+- **2021-05-04** 📰 'Tag: 「團結」是惡棍最常用的藉口'
+- **2021-05-04** 📰 'Tag: G7外長會議關注中國'
+- **2021-05-04** 📰 'Tag: 輝瑞疫苗銷售大增'
+- **2021-05-04** 📰 'Tag: 世衛發布中國國藥疫苗評估報告'
+- **2021-05-04** 📰 'Tag: 歐盟與中國關係急轉直下'
+- **2021-05-04** 📰 'Tag: 中國上市公司財務造假'
+- **2021-05-04** 📰 'Tag: 聯合陣線'
+- **2021-05-04** 📰 'Tag: 馬雅原住民長達數世紀受苦'
+- **2021-05-04** 📰 'Tag: 國民黨立委催謝長廷返國備詢又逼撤職'
+- **2021-05-04** 📰 'Tag: 媽祖大或總統大？'
+- **2021-05-04** 📰 'Tag: 臺灣資安已是國際品牌'
+- **2021-05-04** 📰 'Tag: 比爾暨梅琳達蓋茲基金會'
+- **2021-05-04** 📰 'Tag: 總統提4個「不能倒退」'
+- **2021-05-04** 📰 'Tag: 內塔尼亞胡時代畫上句號'
+- **2021-05-04** 📰 'Tag: 親近台灣不再是禁忌'
+- **2021-05-04** 📰 'Tag: 加拿大跨黨派議員恭喜蔡英文'
+- **2021-05-05** 📰 'Tag: 加拿大人口普查'
+- **2021-05-05** 📰 'Tag: 美國商務部促供更多汽車晶片'
+- **2021-05-05** 📰 'Tag: 支援產能'
+- **2021-05-05** 📰 'Tag: 2020美國新生兒數'
+- **2021-05-05** 📰 'Tag: 晶圓廠'
+- **2021-05-05** 📰 'Tag: 2020美國新生兒數創41年新低'
+- **2021-05-05** 📰 'Tag: 家暴'
+- **2021-05-05** 🏥 'Tag: 民進黨老毛病又犯了'
+- **2021-05-05** 📰 'Tag: 拜登政府支持放棄新冠疫苗知識產權保護'
+- **2021-05-05** 📰 'Tag: 嚇阻中共冒進'
+- **2021-05-05** 📰 'Tag: 中國阻擾'
+- **2021-05-05** 📰 'Tag: 戰略清晰'
+- **2021-05-05** 🏥 'Tag: 落實排黑'
+- **2021-05-05** 📰 'Tag: 法國家暴累犯出獄活活燒死妻子'
+- **2021-05-05** 🏥 'Tag: 民進黨黑道入黨風波'
+- **2021-05-05** 📰 'Tag: 臉書監委會維持對川普帳號禁令'
+- **2021-05-05** 📰 'Tag: 雲南少數民族教會被關閉'
+- **2021-05-05** 📰 'Tag: 美國務卿重申對台安全承諾'
+- **2021-05-05** 📰 'Tag: 陳時中投書「外交家」，籲WHO接納台灣'
+- **2021-05-05** 📰 'Tag: 華航染疫機師空服員曾去松山區酒吧'
+- **2021-05-05** 📰 'Tag: 北京、貴陽教會信徒被拘'
+- **2021-05-05** 📰 'Tag: 日美合作維持台灣海峽現狀'
+- **2021-05-05** 📰 'Tag: 維持台灣現狀最符利益'
+- **2021-05-05** 📰 'Tag: 比利時副總理 Sophie Wilmes 挺台參與WHA'
+- **2021-05-05** 📰 'Tag: 政府不作為'
+- **2021-05-06** 📰 'Tag: 台灣加入世衛組織的歷程與展望'
+- **2021-05-06** 📰 'Tag: 中澳戰略經濟對話'
+- **2021-05-06** 📰 'Tag: 戰略經濟對話'
+- **2021-05-06** 📰 'Tag: 歐盟組防衛聯盟'
+- **2021-05-06** 📰 'Tag: 美國和聯軍撤離阿富汗'
+- **2021-05-06** 📰 'Tag: 中國藉“地方包圍中央”對外國搞經濟統戰'
+- **2021-05-06** 📰 'Tag: 中澳關係再惡化'
+- **2021-05-07** 📰 'Tag: 不負責任'
+- **2021-05-07** 📰 'Tag: 中國火箭殘骸即將失控墜落'
+- **2021-05-07** 📰 'Tag: 台灣半導體實力成“矽盾”'
+- **2021-05-07** 📰 'Tag: 公投案'
+- **2021-05-08** 📰 'Tag: 紐約時報廣場槍響大作'
+- **2021-05-08** 📰 'Tag: 國會共和黨人聯名致函司法部反對學術特赦計劃'
+- **2021-05-08** 📰 'Tag: 拜登政府擬推學術特赦計劃'
+- **2021-05-08** 📰 'Tag: 中國火箭殘骸'
+- **2021-05-08** 📰 'Tag: 併吞台灣'
+- **2021-05-09** 📰 'Tag: 小英總統應該公開聲明台灣不是中國的一部分'
+- **2021-05-09** 📰 'Tag: 台灣駐印代表處'
+- **2021-05-09** 📰 'Tag: 印度疫情嚴峻'
+- **2021-05-12** 📰 'Tag: 防疫部署'
+- **2021-05-12** 📰 'Tag: 罷免案個別差異大'
+- **2021-05-12** 📰 'Tag: 駐法代表'
+- **2021-05-12** 📰 'Tag: 共和黨參議員Wicker'
+- **2021-05-12** 📰 'Tag: 中國用疫情影響媒體美化形象'
+- **2021-05-12** 📰 'Tag: 法國國民議會印太國防聽證會'
+- **2021-05-12** 📰 'Tag: 共和黨籍聯邦參議員韋克爾（Roger Wicker）'
+- **2021-05-12** 📰 'Tag: 臉書擬打造兒童版IG'
+- **2021-05-12** 📰 'Tag: 國際記者聯合會'
+- **2021-05-12** 📰 'Tag: 美40州檢察長齊聲反對兒童版IG'
+- **2021-05-12** 📰 'Tag: 聯合國新疆視訊會議'
+- **2021-05-12** 📰 'Tag: 美企是否違規販售硬碟給華為'
+- **2021-05-12** 📰 'Tag: 美英德矛頭對準中國'
+- **2021-05-13** 📰 'Tag: 7月底供應第一波國產疫苗'
+- **2021-05-13** 📰 'Tag: 羅德島州槍擊案'
+- **2021-05-13** 📰 'Tag: 美批中國用救命援助追求政治目的'
+- **2021-05-13** 📰 'Tag: 中國以疫苗誘台灣友邦'
+- **2021-05-13** 📰 'Tag: 美參院委員會通過無盡邊疆法'
+- **2021-05-13** 📰 'Tag: 「無盡邊疆法」（Endless Frontier Act）'
+- **2021-05-13** 📰 'Tag: 南加州僑胞舉行車隊遊行聲援台灣參與WHA'
+- **2021-05-13** 📰 'Tag: 美國不會讓澳洲獨自面對中國經濟脅迫'
+- **2021-05-14** 📰 'Tag: 壹傳媒'
+- **2021-05-14** 📰 'Tag: 母音的唱法'
+- **2021-05-14** 📰 'Tag: 楊子清老師音樂短講'
+- **2021-05-14** 📰 'Tag: 香港保安局凍結黎智英財產'
+- **2021-05-14** 📰 'Tag: 美參院兩黨齊聲呼籲抗中'
+- **2021-05-14** 📰 'Tag: 東升西降'
+- **2021-05-15** 📰 'Tag: 封城'
+- **2021-05-15** 📰 'Tag: 未來犯台作戰手法或大幅改變'
+- **2021-05-15** 📰 'Tag: 解放軍頻頻軍演恫嚇台灣'
+- **2021-05-15** 📰 'Tag: 防疫模範生'
+- **2021-05-16** 📰 'Tag: 終生追責'
+- **2021-05-16** 📰 'Tag: 防疫不是叫你當作要「逃難」'
+- **2021-05-16** 📰 'Tag: 阻斷傳播鏈'
+- **2021-05-16** 📰 'Tag: 「中國是一個充滿謊言的國家」'
+- **2021-05-16** 📰 'Tag: 趙婷'
+- **2021-05-16** 📰 'Tag: 尼坦雅胡的暴力遊戲'
+- **2021-05-16** 📰 'Tag: 劍指中國'
+- **2021-05-17** 📰 'Tag: 美國將釋出2000萬劑疫苗，蕭美琴進洽爭取中'
+- **2021-05-17** 📰 'Tag: 南加州僑界支持台灣參與世界衛生大會'
+- **2021-05-17** 📰 'Tag: 香港反送中十一遊行黎智英認罪'
+- **2021-05-17** 📰 'Tag: 面對中國前聯合歐盟是戴琪的務實之策'
+- **2021-05-17** 📰 'Tag: 紐約時報'  (3×)
+- **2021-05-17** 📰 'Tag: 馬雲'  (2×)
+- **2021-05-18** 📰 'Tag: 抗疫中藥「清冠一號」'
+- **2021-05-18** 🏥 'Tag: COVID-19'
+- **2021-05-18** 📰 'Tag: 亞太裔傳統月'
+- **2021-05-18** 📰 'Tag: 衛福部緊急授權'
+- **2021-05-18** 🏥 'Tag: Devin Nunes'
+- **2021-05-18** 📰 'Tag: AIT臉書介紹亞裔外交官成長故事'
+- **2021-05-18** 🏥 'Tag: 調查新冠病毒來源'
+- **2021-05-19** 📰 'Tag: 歐洲議會將表決凍結歐中投資協定'
+- **2021-05-19** 📰 'Tag: 挪威台灣人告上歐洲人權法院'
+- **2021-05-19** 📰 'Tag: 挪威台灣人居留證被列中國籍'
+- **2021-05-19** 📰 'Tag: 當沖'
+- **2021-05-19** 📰 'Tag: 拜登與以色列總理4度通話'
+- **2021-05-20** 🏥 'Tag: 台灣防疫破口'
+- **2021-05-20** 📰 'Tag: 中國部隊邊境演訓'
+- **2021-05-20** 📰 'Tag: 歐中關係前途未卜'
+- **2021-05-20** 📰 'Tag: 歐洲議會通過凍結審議中歐投資協定'
+- **2021-05-21** 📰 'Tag: 美允諾疫苗分配時考量台灣需要'
+- **2021-05-21** 📰 'Tag: 數位疫苗接種證明'
+- **2021-05-21** 📰 'Tag: 埃及斡旋'
+- **2021-05-21** 📰 'Tag: 美軍方屢次試圖聯繫中方未果'
+- **2021-05-21** 📰 'Tag: 美支持台灣取得疫苗'
+- **2021-05-21** 📰 'Tag: 亂傳假訊息'
+- **2021-05-21** 📰 'Tag: 歐盟捐贈1億劑疫苗'
+- **2021-05-21** 📰 'Tag: 「台灣有事」是一種混合戰'
+- **2021-05-21** 📰 'Tag: 你敢傳就嚴辦'
+- **2021-05-21** 📰 'Tag: 美中軍事高層無對話'
+- **2021-05-21** 📰 'Tag: 台灣是美半導體及高科技重要來源'
+- **2021-05-21** 📰 'Tag: 石門水庫蓄水量跌破1成'
+- **2021-05-21** 📰 'Tag: 台美衛生部長視訊'
+- **2021-05-22** 📰 'Tag: 中國上海復星'
+- **2021-05-22** 📰 'Tag: 美國通貨膨脹'
+- **2021-05-22** 🏥 'Tag: 克欽獨立軍'
+- **2021-05-22** 📰 'Tag: 疫情升溫'
+- **2021-05-23** 📰 'Tag: 新疆棉花製品進口禁令'
+- **2021-05-23** 📰 'Tag: 吳釗燮陳時中聯名聲明抗議WHA'
+- **2021-05-23** 📰 'Tag: 台灣未獲邀參與WHA'
+- **2021-05-23** 📰 'Tag: 美國海關扣押Uniqlo棉製襯衫'
+- **2021-05-23** 📰 'Tag: 白俄羅斯強迫客機降落'
+- **2021-05-23** 📰 'Tag: 國際民航組織嚴正關切'
+- **2021-05-24** 📰 'Tag: 愛國流氓'
+- **2021-05-24** 📰 'Tag: 跨國公司稅協議'
+- **2021-05-24** 🏥 'Tag: 中國武漢病毒所'
+- **2021-05-24** 📰 'Tag: 馬雲將辭去湖畔大學校長'
+- **2021-05-24** 📰 'Tag: 豪雨'
+- **2021-05-24** 📰 'Tag: 槍擊案'
+- **2021-05-24** 📰 'Tag: 拜登與普京峰會'
+- **2021-05-24** 📰 'Tag: 芝大中國學聯批羅冠聰“恐怖分子”'
+- **2021-05-24** 🏥 'Tag: 病毒洩露'
+- **2021-05-25** 📰 'Tag: 阻斷疫情傳播鏈'
+- **2021-05-25** 📰 'Tag: John 稱台灣是國家 被迫道歉'
+- **2021-05-25** 📰 'Tag: 三級警戒延至6/14'
+- **2021-05-25** 📰 'Tag: 執政者抵抗認知作戰，政績及透明是有效工具'
+- **2021-05-25** 📰 'Tag: 臺灣4架F-16戰鬥機改塗裝赴美訓練'
+- **2021-05-25** 📰 'Tag: 加拿大艾伯塔省要求大學審查並停止與中共實體的合作'
+- **2021-05-26** 📰 'Tag: 加州聖荷西槍擊釀8死'
+- **2021-05-26** 📰 'Tag: 歐盟美國外交高層會談'
+- **2021-05-26** 📰 'Tag: 台灣參與國際組織'
+- **2021-05-26** 📰 'Tag: 外來政權的屍體'
+- **2021-05-27** 📰 'Tag: 台美討論疫情合作'
+- **2021-05-27** 📰 'Tag: 郭台銘欲購BNT疫苗'
+- **2021-05-27** 🏥 'Tag: Covid-19溯源'
+- **2021-05-27** 🏥 'Tag: 是武毒所開放其數據庫的時候了'
+- **2021-05-27** 📰 'Tag: 蕭美琴盼美支持取得疫苗'
+- **2021-05-27** 📰 'Tag: 台灣人'
+- **2021-05-28** 📰 'Tag: 民主派骨幹'
+- **2021-05-28** 📰 'Tag: 香港變了'
+- **2021-05-28** 📰 'Tag: 強迫勞動'
+- **2021-05-28** 📰 'Tag: 非法集結'
+- **2021-05-28** 📰 'Tag: 加速取得疫苗'
+- **2021-05-28** 📰 'Tag: 澳洲向WTO申訴中國'
+- **2021-05-28** 📰 'Tag: 美對中國大連漁業公司漁獲下暫扣令'
+- **2021-05-28** 📰 'Tag: 澳洲大麥遭中國關稅懲罰'
+- **2021-05-28** 📰 'Tag: 境外勢力下達「戰令」●強力打擊「國產疫苗」'
+- **2021-05-29** 📰 'Tag: 德州法案進一步限制投票權'
+- **2021-05-29** 📰 'Tag: 台灣6/15起發放家庭防疫補貼'
+- **2021-05-29** 📰 'Tag: 限縮有色人種投票管道'
+- **2021-05-30** 🏥 'Tag: 拜登下令情報部門溯源新冠病毒'
+- **2021-05-30** 📰 'Tag: 趙少康保了陳時中'
+- **2021-05-30** 📰 'Tag: 加拿大 原民學校舊址驚現215具孩童遺骸'
+- **2021-05-31** 📰 'Tag: 紓困條例'
+- **2021-05-31** 📰 'Tag: 民間買疫苗'
+- **2021-05-31** 🏥 'Tag: 不到一個月病逝逾百人'
+- **2021-05-31** 🏥 'Tag: 台灣COVID-19死亡個案'
+- **2021-06-01** 📰 'Tag: 美陸戰隊派員赴台交流'
+- **2021-06-01** 📰 'Tag: 兒童繪畫比賽'
+- **2021-06-01** 📰 'Tag: 2021年大洛杉磯台美人傳統週'
+- **2021-06-01** 📰 'Tag: 舊金山亞裔女警遇襲'
+- **2021-06-01** 📰 'Tag: 美國商務部未克盡職責阻止敏感技術流入中國軍方'
+- **2021-06-01** 📰 'Tag: 朱學恒送喪禮花籃到指揮中心'
+- **2021-06-02** 📰 'Tag: 雙和醫院護理師遭確診者砍傷'
+- **2021-06-02** 📰 'Tag: 非循正規管道'
+- **2021-06-02** 📰 'Tag: 我有疫苗，中央為何不幫忙進口'
+- **2021-06-02** 📰 'Tag: 認知作戰的下一步棋'
+- **2021-06-02** 📰 'Tag: 全面經濟對話機制'
+- **2021-06-02** 📰 'Tag: 葉倫向劉鶴強調坦率解決關切問題'
+- **2021-06-03** 🏥 'Tag: 台灣疫情6/3新增17死'
+- **2021-06-03** 📰 'Tag: 台灣在中國擴張主義前線'
+- **2021-06-03** 📰 'Tag: 美國國防次長 Colin Kahl'
+- **2021-06-03** 📰 'Tag: 應對中國挑戰是美國國防部的首要任務'
+- **2021-06-03** 📰 'Tag: 美國8000萬劑新冠疫苗支援國際'
+- **2021-06-03** 📰 'Tag: 拜登政府宣布新冠疫苗全球分享計劃'
+- **2021-06-04** 📰 'Tag: 維園空蕩蕩'
+- **2021-06-04** 🕯️ 'Tag: CECC'
+- **2021-06-04** 📰 'Tag: 中國軍事部署'
+- **2021-06-04** 📰 'Tag: 日本贈台疫苗'
+- **2021-06-04** 📰 'Tag: 熱帶氣旋'
+- **2021-06-04** 📰 'Tag: 香港禁止港人悼念六四事件32周年'
+- **2021-06-04** 📰 'Tag: 柬埔寨將允美官員造訪雲壤海軍基地'
+- **2021-06-04** 📰 'Tag: 微軟必應(Bing)圖像搜索找不到“坦克人”'
+- **2021-06-04** 📰 'Tag: 歐盟禁止白俄羅斯航空公司飛越領空及降落'
+- **2021-06-04** 🕯️ 'Tag: CECC主席發表聲明紀念六四事件32週年'
+- **2021-06-05** 📰 'Tag: 中國「中美交流基金會」'
+- **2021-06-05** 📰 'Tag: 美國模糊戰略'
+- **2021-06-05** 📰 'Tag: CUSEF'
+- **2021-06-05** 📰 'Tag: 布希家族的「美中關係基金會」'
+- **2021-06-05** 📰 'Tag: 洛杉磯以立合唱團'
+- **2021-06-05** 📰 'Tag: 哥薩克人之歌'
+- **2021-06-05** 📰 'Tag: 線上練唱'
+- **2021-06-05** 📰 'Tag: 輕歌劇「森林王子」'
+- **2021-06-05** 📰 'Tag: 聯邦參議員暨參議院軍事委員會成員蘇利文（Daniel Scott Sullivan）'
+- **2021-06-05** 📰 'Tag: 美國會議員改行程旋風訪台'
+- **2021-06-05** 📰 'Tag: 美國聯邦參議員達克沃絲（Ladda Tammy Duckworth）'
+- **2021-06-05** 🏥 'Tag: 武漢肺炎'  (5×)
+- **2021-06-05** 📰 'Tag: 美3聯邦參議員6日訪台'
+- **2021-06-05** 📰 'Tag: 聯邦參議員暨參議院外交委員會成員昆斯（Christopher Andrew Coons）'
+- **2021-06-06** 🗳️ 'Tag: 中期選舉'
+- **2021-06-06** 📰 'Tag: 梅根第2胎產女'
+- **2021-06-06** 📰 'Tag: 布達佩斯爆示威遊行'
+- **2021-06-06** 📰 'Tag: 美國丹佛的布姆公司（Boom）'
+- **2021-06-06** 📰 'Tag: 中國復旦大學布達佩斯建分校'
+- **2021-06-06** 📰 'Tag: 「零碳客機」'
+- **2021-06-06** 📰 'Tag: 「前奏曲」（Overture）超音速飛機'
+- **2021-06-06** 📰 'Tag: 打壓台灣「國產疫苗」'
+- **2021-06-06** 📰 'Tag: 打破疫苗保護力迷思'
+- **2021-06-06** 📰 'Tag: 中共企圖「以疫謀統」'
+- **2021-06-06** 📰 'Tag: 聯合航空擬購超音速客機'
+- **2021-06-07** 📰 'Tag: 蘇貞昌'
+- **2021-06-07** 📰 'Tag: 負壓隔離艙'
+- **2021-06-07** 📰 'Tag: 攬才專法'
+- **2021-06-07** 📰 'Tag: 加拿大駐中國大使鮑達民（Dominic Barton）'
+- **2021-06-07** 📰 'Tag: 教師持刀殺害學院黨委書記'
+- **2021-06-07** 📰 'Tag: 人才引進計畫'
+- **2021-06-07** 📰 'Tag: 加美官員4月曾秘密協商'
+- **2021-06-07** 📰 'Tag: 台灣8月底1000萬劑疫苗到位'
+- **2021-06-07** 📰 'Tag: 上海復旦校園濺血'
+- **2021-06-07** 📰 'Tag: 被扣在中國的兩加拿大'
+- **2021-06-07** 📰 'Tag: 邊境攔截上千公斤美牛萊劑超標'
+- **2021-06-07** 📰 'Tag: 網路社群造謠台灣只需少量疫苗'
+- **2021-06-07** 📰 'Tag: 美最高法院'
+- **2021-06-08** 📰 'Tag: 莫德納'
+- **2021-06-08** 📰 'Tag: 澳洲跨黨派議員聯手 要從中資手裡奪回達爾文港'
+- **2021-06-08** 📰 'Tag: 蛭形輪蟲（Bdelloid rotifer）'
+- **2021-06-08** 📰 'Tag: 蛭形輪蟲西伯利亞冰封2.4萬年後重生'
+- **2021-06-09** 📰 'Tag: 司法徹查揪特權'
+- **2021-06-09** 📰 'Tag: 德國要求取消歐盟一票否決權制'
+- **2021-06-09** 📰 'Tag: 匈牙利三度否決歐盟涉港聲明'
+- **2021-06-09** 📰 'Tag: 拜登政府將買5億劑輝瑞疫苗捐給全世界'
+- **2021-06-09** 📰 'Tag: 台北市好心肝診所私打疫苗'
+- **2021-06-09** 📰 'Tag: 高中教師霸凌學生'
+- **2021-06-10** 📰 'Tag: 趙怡翔'
+- **2021-06-10** 📰 'Tag: 趙怡翔告別華府返台'
+- **2021-06-10** 🗳️ 'Tag: 違反國際承諾'
+- **2021-06-10** 📰 'Tag: 中國『反外國制裁法』'
+- **2021-06-10** 📰 'Tag: 美台重啟TIFA會談'
+- **2021-06-10** 🗳️ 'Tag: 歐盟譴責中國修改香港選舉法'
+- **2021-06-10** 📰 'Tag: 高超音速武器'
+- **2021-06-10** 📰 'Tag: 戴琪與鄧振中視訊對話'
+- **2021-06-10** 📰 'Tag: 台灣學校課程招生中'
+- **2021-06-11** 📰 'Tag: 好心肝私打疫苗說明醫師公會墊背'
+- **2021-06-11** 📰 'Tag: 台灣雙鐵空盪'
+- **2021-06-11** 📰 'Tag: 眾院民主黨人通訊數據被川普政府秘密截取'
+- **2021-06-11** 📰 'Tag: 特勤中心'
+- **2021-06-11** 📰 'Tag: 吳宗憲、張恒嘉重判'
+- **2021-06-11** 📰 'Tag: 國道未湧返鄉車潮'
+- **2021-06-11** 📰 'Tag: 北市醫師公會斥混淆視聽'
+- **2021-06-11** 📰 'Tag: 國安私菸案'
+- **2021-06-11** 📰 'Tag: 布林肯籲北京停止對台施壓'
+- **2021-06-11** 📰 'Tag: “怕中國生氣”的“政治正確”氛圍 已令日本人厭煩'
+- **2021-06-11** 📰 'Tag: 台積電擬興建在美首座先進技術晶片封裝廠'
+- **2021-06-11** 📰 'Tag: 新大西洋憲章'
+- **2021-06-11** 📰 'Tag: 日本高官連稱臺灣爲“國”'
+- **2021-06-12** 📰 'Tag: 華盛頓州打疫苗送免費大麻菸'
+- **2021-06-12** 📰 'Tag: 遏制矽谷科技巨頭壟斷'
+- **2021-06-12** 📰 'Tag: 台灣疫情'
+- **2021-06-12** 📰 'Tag: 臉書、蘋果等巨頭恐被迫拆售部份業務'
+- **2021-06-12** 🏥 'Tag: 籽實類（堅果）食品富含纖維與健康脂肪'
+- **2021-06-12** 📰 'Tag: 環球影城供打輝瑞嬌生疫苗'
+- **2021-06-12** 📰 'Tag: Blue Origin'
+- **2021-06-13** 📰 'Tag: 疫苗配發施打應公開透明'
+- **2021-06-13** 📰 'Tag: 台海'
+- **2021-06-14** 📰 'Tag: 香港民主'
+- **2021-06-14** 📰 'Tag: 北約將強化與印太夥伴合作因應中國挑戰'
+- **2021-06-14** 📰 'Tag: 幕後運作'
+- **2021-06-14** 📰 'Tag: 北約盟國是否助美軍保衛台灣'
+- **2021-06-14** 📰 'Tag: 日本參院一致挺台參與世衛'
+- **2021-06-14** 📰 'Tag: 中共獨裁'
+- **2021-06-14** 📰 'Tag: 不使用中國5G設備'
+- **2021-06-14** 📰 'Tag: 美國與阿爾巴尼亞簽署備忘錄'
+- **2021-06-14** 📰 'Tag: 「杜魯門-雷根自由獎章」'
+- **2021-06-14** 📰 'Tag: 全球清潔網絡倡議'
+- **2021-06-15** 📰 'Tag: 台海和平穩定成國際政治焦點'
+- **2021-06-15** 📰 'Tag: 敏感技術遭中國濫用'
+- **2021-06-15** 📰 'Tag: 《世界理應知道法案》(the World Deserves To Know Act)'
+- **2021-06-15** 📰 'Tag: 美國應制裁中共官員直到武毒所調查不受阻礙'
+- **2021-06-15** 📰 'Tag: 紐約州疫苗接種率達7成'
+- **2021-06-15** 📰 'Tag: 美國防部指共機擾台破壞穩定增加誤判風險'
+- **2021-06-15** 📰 'Tag: 美生物技術產品仍流入新疆'
+- **2021-06-15** 📰 'Tag: 共和黨眾議員提《世界理應知道法案》'
+- **2021-06-15** 📰 'Tag: 28架共機擾台'
+- **2021-06-15** 📰 'Tag: 台大學生會擬提案廢國文必修'
+- **2021-06-15** 📰 'Tag: 全球芯片短缺'
+- **2021-06-15** 📰 'Tag: 立院初審紓困4.0'
+- **2021-06-15** 📰 'Tag: 雲林縣府遭爆打疫苗循私'
+- **2021-06-15** 📰 'Tag: 整合式服務'
+- **2021-06-15** 📰 'Tag: Google Workspace'
+- **2021-06-15** 📰 'Tag: 台灣乾旱'
+- **2021-06-15** 🎤 'Tag: 台美人傳統週'
+- **2021-06-16** 📰 'Tag: 國安法'
+- **2021-06-16** 📰 'Tag: 拜登的中國政策'
+- **2021-06-16** 📰 'Tag: 奧斯汀直言中國在南海行為違法'
+- **2021-06-16** 📰 'Tag: 美中防長首次同框'
+- **2021-06-16** 📰 'Tag: 美國巴爾的摩爆槍擊案'
+- **2021-06-16** 📰 'Tag: 東盟防長擴大會議'
+- **2021-06-16** 📰 'Tag: 拜登提人權、民主與網路攻擊'
+- **2021-06-16** 📰 'Tag: 美俄高峰會聲明談戰略穩定'
+- **2021-06-17** 🏥 'Tag: 「病患保護與平價醫療法」（Patient Protection and Affordable Care Act'
+- **2021-06-17** 🏥 'Tag: 這！不是新聞'
+- **2021-06-17** 📰 'Tag: 台灣央行看好經濟動能'
+- **2021-06-17** 📰 'Tag: 保5'
+- **2021-06-17** 📰 'Tag: 歐記健保（Obamacare）'
+- **2021-06-17** 📰 'Tag: 美國最高法院再次維持《平價醫保法案》'
+- **2021-06-17** 📰 'Tag: PPACA）'
+- **2021-06-17** 📰 'Tag: 除息當天完成填息'
+- **2021-06-17** 📰 'Tag: 美催生抗武肺藥物'
+- **2021-06-17** 📰 'Tag: 美贈台疫苗很快到'
+- **2021-06-17** 📰 'Tag: 加拿大議員提出「加台關係架構法」'
+- **2021-06-17** 📰 'Tag: 台美疫苗合作'
+- **2021-06-17** 📰 'Tag: 減少對中國醫療供應鏈依賴'
+- **2021-06-17** 📰 'Tag: “美國製造法案” （MADE in America Act）'
+- **2021-06-17** 📰 'Tag: 「加台關係架構法」（Canada-Taiwan Relations Framework Act）'
+- **2021-06-17** 📰 'Tag: 滴滴出行'
+- **2021-06-17** 📰 'Tag: 中國神舟十二號太空船發射升空'
+- **2021-06-17** 📰 'Tag: 反壟斷調查'
+- **2021-06-18** 📰 'Tag: 重症風險'
+- **2021-06-18** 📰 'Tag: 抗體藥物'
+- **2021-06-18** 📰 'Tag: 台封測廠下半年訂單爆量'
+- **2021-06-18** 📰 'Tag: 美國加強對華為中興設備禁令'
+- **2021-06-18** 🏥 'Tag: 法德籲歐盟協調重啟邊界'
+- **2021-06-19** 📰 'Tag: 台灣駐港辦7人返台僅留1人'
+- **2021-06-19** 📰 'Tag: 哈佛“招生歧視”案'
+- **2021-06-19** 📰 'Tag: 美天主教團體'
+- **2021-06-19** 📰 'Tag: 拜登挺墮胎恐不得領聖體'
+- **2021-06-19** 📰 'Tag: eucharist'
+- **2021-06-19** 📰 'Tag: 國民黨錯把謾罵當監督'
+- **2021-06-19** 📰 'Tag: 美國最高法院'
+- **2021-06-20** 📰 'Tag: 連勝文'
+- **2021-06-20** 📰 'Tag: 哈伯太空望遠鏡當機'
+- **2021-06-20** 📰 'Tag: 美中關係恐更緊繃'
+- **2021-06-20** 📰 'Tag: 美捐台250萬劑疫苗'
+- **2021-06-20** 📰 'Tag: 觀測宇宙'
+- **2021-06-21** 🏥 'Tag: 台灣三級警戒首見單日百病例以下'
+- **2021-06-21** 📰 'Tag: 聯合國'
+- **2021-06-21** 📰 'Tag: 選擇逃亡的香港年輕人'
+- **2021-06-21** 📰 'Tag: 國民黨大吵要買中共疫苗'
+- **2021-06-21** 📰 'Tag: 美國疫苗加速運到'
+- **2021-06-21** 📰 'Tag: 台灣6/21增75例本土個案'
+- **2021-06-22** 📰 'Tag: 楊安澤宣布敗選'
+- **2021-06-22** 📰 'Tag: 台灣戶外景點'
+- **2021-06-22** 📰 'Tag: 綠委批藍反美反日'
+- **2021-06-22** 📰 'Tag: 疫苗乞丐'
+- **2021-06-22** 📰 'Tag: 紐約市長初選投票'
+- **2021-06-22** 📰 'Tag: 卓甫良與TAF的故事'
+- **2021-06-22** 📰 'Tag: 立陶宛捐2萬劑COVID-19疫苗給台灣'
+- **2021-06-22** 📰 'Tag: 強化供應鏈韌性'
+- **2021-06-22** 📰 'Tag: 川普曾建議將染疫美國人送到關達那摩灣'
+- **2021-06-22** 📰 'Tag: 科技產業全球供應鏈合作論壇'
+- **2021-06-22** 📰 'Tag: 立陶宛贈台疫苗'
+- **2021-06-22** 📰 'Tag: 中國存在“廣泛而系統的”的國家綁架行為'
+- **2021-06-22** 📰 'Tag: 台美日歐科技產業結盟'
+- **2021-06-22** 📰 'Tag: 歐盟對美開放邊界'
+- **2021-06-22** 📰 'Tag: 旅日台醫募40萬片台灣口罩捐日'
+- **2021-06-22** 📰 'Tag: 美國還不打算改變15個月前實施的旅行限制'
+- **2021-06-22** 📰 'Tag: 馬英九死抱九二共識'
+- **2021-06-22** 📰 'Tag: 王輝生（日本名大田一博）'
+- **2021-06-22** 📰 'Tag: 美國團結西方對抗中國'
+- **2021-06-23** 📰 'Tag: 疫情'
+- **2021-06-23** 📰 'Tag: 人權侵害'
+- **2021-06-23** 📰 'Tag: 美商務部黑名單新增5家中企'
+- **2021-06-23** 📰 'Tag: 美國會共和黨人新法案施壓中國配合新冠溯源調查'
+- **2021-06-23** 📰 'Tag: 義美回贈立陶宛1貨櫃小泡芙致謝'
+- **2021-06-23** 📰 'Tag: 中國一兩年內不會武力犯台'
+- **2021-06-24** 📰 'Tag: 法國民議會提案挺台參與國際社會'
+- **2021-06-24** 📰 'Tag: 法國宣布台灣列綠區'
+- **2021-06-24** 📰 'Tag: 畸形的主人'
+- **2021-06-24** 📰 'Tag: 外交部贈勳表彰酈英傑、谷立言'
+- **2021-06-25** 📰 'Tag: 美日“東方之盾”軍演'
+- **2021-06-25** 📰 'Tag: 以色列發現10多萬年前新種人類化石'
+- **2021-06-25** 📰 'Tag: 海巡成功艦'
+- **2021-06-25** 📰 'Tag: 維族人遭受迫害'
+- **2021-06-26** 📰 'Tag: 以立合唱團演唱「我心中有一幅畫」'
+- **2021-06-26** 📰 'Tag: 加拿大天主教寄宿學校舊址無名塚事件'
+- **2021-06-26** 📰 'Tag: 加拿大總理要求教宗親來道歉'
+- **2021-06-26** 📰 'Tag: 香港新任政務司長李家超'
+- **2021-06-26** 📰 'Tag: 美國西北部恐破6月高溫紀錄'
+- **2021-06-26** 📰 'Tag: 期盼中共不再有黨慶這一天'
+- **2021-06-26** 📰 'Tag: 台海情勢牽動西方民主陣營'
+- **2021-06-26** 📰 'Tag: 美兩黨衆議員推出決議譴責中共踐踏人權史'
+- **2021-06-26** 🤝 'Tag: Matt Hancock違反防疫規定擁吻女助理'
+- **2021-06-26** 🏥 'Tag: 中共掩蓋真相'
+- **2021-06-26** 🏥 'Tag: 新冠病毒溯源研究三項新發現'
+- **2021-06-26** 📰 'Tag: 中國擴大「灰色地帶」'
+- **2021-06-26** 🤝 'Tag: 英衛生大臣韓考克辭職'
+- **2021-06-27** 🏥 'Tag: 居家檢疫'
+- **2021-06-27** 🏥 'Tag: 變種病毒'
+- **2021-06-27** 📰 'Tag: 陳文成事件'
+- **2021-06-27** 📰 'Tag: 丁守中自爆振興醫院打AZ疫苗'
+- **2021-06-27** 📰 'Tag: 北京補貼政策助長不法'
+- **2021-06-27** 📰 'Tag: 中國在美欺詐性搶註商標'
+- **2021-06-27** 📰 'Tag: 蘋果日報前資深編輯馮偉光被捕'
+- **2021-06-27** 📰 'Tag: 中國成“世界頂級網絡威脅”'
+- **2021-06-27** 📰 'Tag: 李秉穎平常心看待Delta變種入侵'
+- **2021-06-28** 📰 'Tag: 美國務卿會教宗'
+- **2021-06-28** 📰 'Tag: 義總理公開質疑中國疫苗效力'
+- **2021-06-29** 📰 'Tag: 台積電請求美國協助取得COVID-19疫苗'
+- **2021-06-29** 📰 'Tag: 聯航下訂270架飛機'
+- **2021-06-29** 📰 'Tag: 美眾院外委會審抗中法案'
+- **2021-06-29** 📰 'Tag: 航空業復甦'
+- **2021-06-30** 📰 'Tag: 天才老爹寇斯比性侵案，法院推翻定罪下令釋放'
+- **2021-06-30** 📰 'Tag: 美眾議院通過設立專責委員會調查1月6日襲擊國會山事件'
+- **2021-06-30** 📰 'Tag: 美加西部破紀錄高溫'
+- **2021-07-01** 📰 'Tag: 130國挺全球最低企業稅'
+- **2021-07-01** 📰 'Tag: 美國應為中共政權突然崩潰做好預案'
+- **2021-07-01** 📰 'Tag: 美眾院抗中法案'
+- **2021-07-01** 📰 'Tag: 日本菲律賓將首度聯合空中演習'
+- **2021-07-01** 📰 'Tag: 愛爾蘭等9國拒簽最低企業稅協議'
+- **2021-07-01** 📰 'Tag: 外黑名單檔案'
+- **2021-07-01** 🕯️ 'Tag: 陳文成死亡真相'
+- **2021-07-01** 📰 'Tag: 中共黨校教授蔡霞'
+- **2021-07-01** 📰 'Tag: 習近平＋毛澤東'
+- **2021-07-01** 📰 'Tag: 日本菲律賓加強軍事合作'
+- **2021-07-02** 📰 'Tag: 一黨專政“長命百歲”？'
+- **2021-07-02** 📰 'Tag: 商人沒祖國'
+- **2021-07-02** 📰 'Tag: 美童軍總會與6萬名性侵受害者和解'
+- **2021-07-02** 📰 'Tag: 台灣未來只能由台灣人民決定'
+- **2021-07-02** 📰 'Tag: 美國6月新增85萬就業人口'
+- **2021-07-02** 📰 'Tag: 波音737貨機發動機失靈迫降檀香山外海'
+- **2021-07-02** 📰 'Tag: Elon Musk大拍習近平馬屁'
+- **2021-07-02** 🏥 'Tag: 台灣7/2增57例本土病例'
+- **2021-07-02** 📰 'Tag: 中國科學家「公鼠懷孕」引發倫理爭議'
+- **2021-07-04** 📰 'Tag: july 4th'
+- **2021-07-04** 📰 'Tag: 美國245歲生日'
+- **2021-07-05** 📰 'Tag: 2021年全球僑校學生暨僑生華語歌唱大賽'
+- **2021-07-05** 📰 'Tag: 李泰穎'
+- **2021-07-05** 📰 'Tag: 東南亞國家'
+- **2021-07-05** 📰 'Tag: 居家檢疫失聯者'
+- **2021-07-06** 📰 'Tag: 民進黨對抗柯文哲軟趴趴'
+- **2021-07-06** 📰 'Tag: 勒索軟體攻擊'
+- **2021-07-06** 📰 'Tag: AIT首位女性處長孫曉雅'
+- **2021-07-06** 📰 'Tag: 關鍵基礎設施'
+- **2021-07-06** 📰 'Tag: Kaseya'
+- **2021-07-06** 🏥 'Tag: 台灣7/6增27例本土案例'
+- **2021-07-07** 📰 'Tag: 美日台鐵三角'
+- **2021-07-07** 📰 'Tag: 台灣內部問題'
+- **2021-07-07** 📰 'Tag: 「不在籍投票」就是引狼入室'
+- **2021-07-07** 🗳️ 'Tag: 台灣民主'
+- **2021-07-07** 📰 'Tag: 微解封'
+- **2021-07-07** 📰 'Tag: 海地總統摩依士遇刺身亡'
+- **2021-07-07** 📰 'Tag: 熱帶風暴Elsa'
+- **2021-07-07** 📰 'Tag: Jovenal Moise'
+- **2021-07-08** 📰 'Tag: 人權觀察'
+- **2021-07-08** 📰 'Tag: 美國延長針對香港局勢所頒緊急狀態'
+- **2021-07-08** 📰 'Tag: 香港刺警案'
+- **2021-07-08** 📰 'Tag: 藐視法庭'
+- **2021-07-08** 📰 'Tag: 中國疫苗'
+- **2021-07-08** 📰 'Tag: 南非前總統朱瑪入監服刑'
+- **2021-07-08** 📰 'Tag: Jacob Zuma'
+- **2021-07-08** 📰 'Tag: 教宗手術'
+- **2021-07-08** 📰 'Tag: 美駐伊拉克與敘利亞人員遭遇攻擊'
+- **2021-07-08** 📰 'Tag: 港大學生會撤回哀悼刺警死者議案'
+- **2021-07-09** 📰 'Tag: 楊子清老師音樂短講第 23 集'
+- **2021-07-09** 📰 'Tag: 聲樂上「平衡」的重要性'
+- **2021-07-09** 📰 'Tag: 中國律師蒙難日'
+- **2021-07-09** 📰 'Tag: 709大抓捕事件'
+- **2021-07-09** 📰 'Tag: 歡迎孫曉雅來台灣履新'
+- **2021-07-09** 📰 'Tag: Zaila Avant'
+- **2021-07-09** 📰 'Tag: 中國戰機出口低迷'
+- **2021-07-09** 📰 'Tag: 非裔少女 Zaila Avant 全美拼字大賽奪冠'
+- **2021-07-09** 🤝 'Tag: 海地促請美國和聯合國派軍隊'
+- **2021-07-09** 📰 'Tag: 熱帶風暴艾爾莎'
+- **2021-07-09** 📰 'Tag: 南海仲裁'  (4×)
+- **2021-07-09** 📰 'Tag: 中國在南海違法行爲'
+- **2021-07-09** 📰 'Tag: 沖繩戰略作用'
+- **2021-07-09** 📰 'Tag: 台灣學生聯合會聲援港大學生會'
+- **2021-07-09** 📰 'Tag: FC-31“鶻鷹”戰鬥機'
+- **2021-07-09** 📰 'Tag: 紐約豪雨地鐵淹水'
+- **2021-07-09** 📰 'Tag: 台日安全唇齒相依'
+- **2021-07-09** 📰 'Tag: elsa new york'
+- **2021-07-09** 📰 'Tag: 楊子清老師音樂短講第 24 集'
+- **2021-07-09** 📰 'Tag: VIBRATO (振音，顫音）'
+- **2021-07-10** 📰 'Tag: 大法官檔案'
+- **2021-07-10** 📰 'Tag: 「奉命釋法：大法官與轉型正義」'
+- **2021-07-10** 📰 'Tag: US International Development Finance Corporation'
+- **2021-07-10** 📰 'Tag: Build Back Better World'
+- **2021-07-10** 📰 'Tag: 美國啟動DFC抗一帶一路'
+- **2021-07-10** 📰 'Tag: 疫苗接種'
+- **2021-07-10** 📰 'Tag: 威權時期真相'
+- **2021-07-11** 📰 'Tag: 台積電、鴻海捐疫苗定案'
+- **2021-07-11** 📰 'Tag: 台積電、鴻海10日與復星簽約'
+- **2021-07-11** 📰 'Tag: 聯邦快遞送貨機器人'
+- **2021-07-12** 📰 'Tag: 習近平的黃粱夢'
+- **2021-07-12** 📰 'Tag: 鴻海、台積電洽購BNT幕後'
+- **2021-07-12** 📰 'Tag: 古巴爆示威'
+- **2021-07-12** 📰 'Tag: 柯P親共紅心被大起底'
+- **2021-07-12** 📰 'Tag: 中國「芯」碎了'
+- **2021-07-12** 📰 'Tag: 美日援台關鍵轉折'
+- **2021-07-12** 📰 'Tag: 美衛生官員重申暫無須加打第3劑輝瑞疫苗'
+- **2021-07-12** 📰 'Tag: 美國經濟尚未復甦到足以結束振興'
+- **2021-07-12** 📰 'Tag: 膜拜窯洞「延安精神」'
+- **2021-07-12** 📰 'Tag: 中國以經濟增加政治影響力'
+- **2021-07-12** 📰 'Tag: 美國政府代表團抵達海地提供協助'
+- **2021-07-12** 📰 'Tag: 德國BioNTech高興提供台灣歐盟製造的疫苗'
+- **2021-07-12** 📰 'Tag: 台灣疾管署以正式官方名稱簽約'
+- **2021-07-13** 📰 'Tag: 港大宣布不再承認學生會地位'
+- **2021-07-13** 📰 'Tag: 布蘭森 2張免費太空機票開放爭取'
+- **2021-07-13** 📰 'Tag: 疫苗保護力'
+- **2021-07-13** 📰 'Tag: 張忠謀再任APEC領袖代表'
+- **2021-07-13** 📰 'Tag: 高端將提告粉專'
+- **2021-07-13** 📰 'Tag: 美驅逐艦、中國偵察艦現蹤花東外海'
+- **2021-07-13** 📰 'Tag: 北京打壓滴滴羞辱華爾街'
+- **2021-07-13** 📰 'Tag: 華郵專欄作家Josh Rogin'
+- **2021-07-13** 📰 'Tag: 「不演了新聞台」'
+- **2021-07-13** 🏥 'Tag: 基因剪輯阻斷病毒在細胞內傳播'
+- **2021-07-13** 🏥 'Tag: COVID-19有機會發展新療法'
+- **2021-07-13** 📰 'Tag: 美國人不該再當中共搖錢樹了'
+- **2021-07-13** 📰 'Tag: FASCA-LA數位學伴暑期交流'
+- **2021-07-14** 📰 'Tag: 陳柏惟罷免答辯書'
+- **2021-07-14** 📰 'Tag: 長江存儲（YMTC）'
+- **2021-07-14** 📰 'Tag: 美以所有可能方式保台至關重要'
+- **2021-07-14** 📰 'Tag: 疫苗謠言'
+- **2021-07-14** 📰 'Tag: 散布假訊息'
+- **2021-07-14** 📰 'Tag: 中國偵察船不請自到'
+- **2021-07-14** 📰 'Tag: 中國產業鏈'
+- **2021-07-14** 📰 'Tag: 美澳“護身軍刀2021”聯合軍演啟動'
+- **2021-07-14** 📰 'Tag: 平復行政不法'
+- **2021-07-14** 📰 'Tag: Exercise Talisman Sabre 2021'
+- **2021-07-14** 📰 'Tag: 美海軍部長提名人戴杜羅'
+- **2021-07-14** 📰 'Tag: 出口管制實體清單'
+- **2021-07-15** 📰 'Tag: 美軍C-146A專機降落松山機場'
+- **2021-07-15** 📰 'Tag: 台積電法說'
+- **2021-07-16** 📰 'Tag: 政大南加州校友會'
+- **2021-07-16** 📰 'Tag: 臺灣起訴中國封測廠三員工'
+- **2021-07-16** 📰 'Tag: 德國政府爭取台積電設廠'
+- **2021-07-16** 📰 'Tag: 美國48個州新冠疫情大反彈'
+- **2021-07-16** 📰 'Tag: Delta變種新冠毒株快速擴散'
+- **2021-07-16** 📰 'Tag: 台灣上半年出口首度突破2千億美元'
+- **2021-07-16** 📰 'Tag: 通富微電未經許可來臺設廠挖角'
+- **2021-07-17** 📰 'Tag: 美高層視實驗室外逸可信度堪比自然起源'
+- **2021-07-17** 📰 'Tag: 週末漫談音樂之'
+- **2021-07-17** 📰 'Tag: 美台TIFA促產業鏈轉移'
+- **2021-07-17** 📰 'Tag: 美國單日增7.4萬例確診'
+- **2021-07-17** 📰 'Tag: 拜登痛批不實疫苗資訊'
+- **2021-07-17** 📰 'Tag: “貿易北約”恐成中國下個噩夢'
+- **2021-07-17** 🤝 'Tag: 海地總統遇刺'
+- **2021-07-18** 🤝 'Tag: 陳柏惟曝台僑暖心故事'
+- **2021-07-18** 📰 'Tag: 默克爾視察災區'
+- **2021-07-18** 📰 'Tag: PTT八卦版'
+- **2021-07-18** 🎤 'Tag: 南加蔬果種植'
+- **2021-07-18** 📰 'Tag: 三島由紀夫以一擋千東大激辯影像 塵封50年見天日'
+- **2021-07-18** 📰 'Tag: 致命洪災吞沒西歐'
+- **2021-07-18** 📰 'Tag: 煽動情緒敘事占據疫情討論'
+- **2021-07-19** 📰 'Tag: 疫情憂心再起美股收跌'
+- **2021-07-19** 📰 'Tag: 台美人的形成和延續'
+- **2021-07-20** 📰 'Tag: 美西超級野火煙霧向東遠飄 籠罩紐約等地'
+- **2021-07-20** 📰 'Tag: HELLO TAIWAN'
+- **2021-07-20** 📰 'Tag: Thomas Barrack'
+- **2021-07-20** 📰 'Tag: 慈濟購BNT疫苗已簽約'
+- **2021-07-20** 📰 'Tag: Netflix獲利不如預期'
+- **2021-07-20** 📰 'Tag: 任外國代理人卻未據實登記，川普密友巴瑞克遭逮捕起訴'
+- **2021-07-20** 📰 'Tag: 紐約台僑江明信牽成愛台善循環'
+- **2021-07-20** 📰 'Tag: 俄羅斯展示第5代蘇愷戰機'
+- **2021-07-21** 📰 'Tag: 台灣是區域及全球重要市場'
+- **2021-07-21** 📰 'Tag: 台灣政府授權「高端」疫苗緊急使用'
+- **2021-07-21** 📰 'Tag: Wendy Sherman'
+- **2021-07-21** 🏛️ 'Tag: 台灣清華大學成立半導體學院'
+- **2021-07-21** 📰 'Tag: 美國務院評投資環境'
+- **2021-07-21** 📰 'Tag: 美國大捐疫苗 中國卻發疫苗橫財'
+- **2021-07-21** 📰 'Tag: 東京奧運'
+- **2021-07-21** 📰 'Tag: 美國貿易代表戴琪（Katherine Tai）'
+- **2021-07-21** 📰 'Tag: 胡錫進雙標評論水災「德國人禍、鄭州天災」被酸爆！'
+- **2021-07-21** 📰 'Tag: 美副國務卿亞洲行加訪中國'
+- **2021-07-21** 📰 'Tag: 助長鴉片類藥物氾濫美4藥商260億美元和解'
+- **2021-07-21** 📰 'Tag: 中國男子質疑中印衝突傷亡人數被通緝'
+- **2021-07-21** 📰 'Tag: 美國第一夫人啟程前往東京率團出席奧運會'
+- **2021-07-21** 📰 'Tag: 中國黑客入侵範圍和危害超出想像'
+- **2021-07-21** 📰 'Tag: 《中國網絡威脅概述與建議》（China Cyber Threat Overview and Advisories）'
+- **2021-07-21** 📰 'Tag: BNT疫苗 預計開放12到18歲施打'
+- **2021-07-21** 📰 'Tag: 中國民眾質疑鄭州洪災是人禍'
+- **2021-07-21** 📰 'Tag: 河南常莊水庫洩洪14小時未發預警'
+- **2021-07-21** 📰 'Tag: 美國支持澳洲處理非市場行為'
+- **2021-07-21** 📰 'Tag: BNT疫苗'
+- **2021-07-21** 📰 'Tag: 染疫即退賽'
+- **2021-07-22** 📰 'Tag: 台經院上修今年經濟成長率至5.4%'
+- **2021-07-22** 📰 'Tag: 疫苗接種率'
+- **2021-07-22** 📰 'Tag: 台灣出口旺投資強'
+- **2021-07-22** 📰 'Tag: 「斑甲市」 獲台灣文學獎台語小說首獎'
+- **2021-07-22** 📰 'Tag: 中國拒絕世衛組織 COVID-19 起源研究計劃'
+- **2021-07-22** 📰 'Tag: 摩依士葬禮'
+- **2021-07-22** 📰 'Tag: 哈維溫斯坦（Harvey Weinstein）被控性侵'
+- **2021-07-22** 📰 'Tag: 聞起來像廁所'
+- **2021-07-22** 📰 'Tag: 美國任命富特為海地特使'
+- **2021-07-23** 📰 'Tag: 美齡樓移轉國有案最高行裁准確定'
+- **2021-07-23** 📰 'Tag: 高端對中國時報提刑事告訴'
+- **2021-07-23** 📰 'Tag: 美國不畏中國報復性制裁'
+- **2021-07-23** 📰 'Tag: 烟花颱風淹掉共軍對台作戰指揮中心'
+- **2021-07-23** 📰 'Tag: 中國人大常委會通過「反外國制裁法」'
+- **2021-07-23** 📰 'Tag: 《黑手》中文版在台灣出版'
+- **2021-07-23** 📰 'Tag: 以德報怨 何以報德？'
+- **2021-07-23** 📰 'Tag: 中國首度動用反外國制裁法制裁美國人'
+- **2021-07-23** 📰 'Tag: 東京奧運開幕式'
+- **2021-07-23** 📰 'Tag: 疫苗品質'
+- **2021-07-23** 📰 'Tag: 台灣夥伴關係法'
+- **2021-07-23** 📰 'Tag: 美齡樓移轉國有'
+- **2021-07-23** 📰 'Tag: 誰的黑魔法？'
+- **2021-07-23** 📰 'Tag: 法美協同軍事突襲，馬利2名IS高階領袖遭擊殺'
+- **2021-07-23** 📰 'Tag: Mali'
+- **2021-07-23** 📰 'Tag: 美國務院籲理念相近國家公開挺台灣'
+- **2021-07-23** 📰 'Tag: 白宮強調會繼續制裁中國行動'
+- **2021-07-23** 📰 'Tag: 美加購2億劑輝瑞疫苗'
+- **2021-07-23** 📰 'Tag: 台灣納入安全保護傘'
+- **2021-07-23** 📰 'Tag: Delta發威，歐美新冠感染暴增'
+- **2021-07-23** 📰 'Tag: 今冬恐出現新變異株'
+- **2021-07-25** 📰 'Tag: TANLA 醫療講座系列'
+- **2021-07-25** 📰 'Tag: 疫情的劫數餘生'
+- **2021-07-25** 📰 'Tag: 陳漢民'
+- **2021-07-25** 🗳️ 'Tag: 洪秀柱'
+- **2021-07-25** 🏥 'Tag: 台灣 7/26增10本土病例， 連兩天零死亡個案'
+- **2021-07-25** 📰 'Tag: 聯準會將開決策會議'
+- **2021-07-27** 📰 'Tag: 多元族群和解'
+- **2021-07-27** 📰 'Tag: 西蒙（Mary Simon）'
+- **2021-07-27** 📰 'Tag: 加拿大首位原住民總督就職'
+- **2021-07-27** 📰 'Tag: 核二'
+- **2021-07-28** 📰 'Tag: 2021海外台語文教師研習會'
+- **2021-07-28** 📰 'Tag: 台獨'
+- **2021-07-28** 📰 'Tag: 世衛第二階段疫源調查'
+- **2021-07-28** 📰 'Tag: 布林肯會見譚德塞'
+- **2021-07-30** 📰 'Tag: hunter class frigate australia'
+- **2021-07-30** 📰 'Tag: 澳洲艦艇更新落後'
+- **2021-07-31** 🎤 'Tag: 江蓋世台語演講《留乎下一代》'
+- **2021-07-31** 📰 'Tag: 中國補教業者大裁員'
+- **2021-07-31** 📰 'Tag: 中國補教機構被「黑」'
+- **2021-07-31** 📰 'Tag: Stravinsky 與 Picasso 首次會面'
+- **2021-08-01** 📰 'Tag: 美參議院跨黨派小組敲定1兆美元基建案細節'
+- **2021-08-02** 📰 'Tag: 蔣渭水台語漢詩吟唱賽'
+- **2021-08-02** 📰 'Tag: 美國聯邦參議員Lindsey Graham確診'
+- **2021-08-02** 📰 'Tag: 美擴大接收阿富汗難民'
+- **2021-08-02** 📰 'Tag: 救總聲請大法庭裁判遭駁回'
+- **2021-08-04** 🏥 'Tag: 駐泰代表李應元請辭'
+- **2021-08-04** 📰 'Tag: 以美國為首盟軍已成形'
+- **2021-08-04** 📰 'Tag: 美英澳日40年最大規模軍演'
+- **2021-08-05** 📰 'Tag: 鄒幸彤'
+- **2021-08-06** 📰 'Tag: 百萬人願打高端'
+- **2021-08-07** 📰 'Tag: 立陶宛副外長盼北京停止霸凌'
+- **2021-08-07** 📰 'Tag: 支持台灣不用害怕'
+- **2021-08-07** 📰 'Tag: 立陶宛副外長'
+- **2021-08-08** 🏥 'Tag: 國產疫苗'
+- **2021-08-09** 📰 'Tag: 多倫多移民家庭種出正港台灣高麗菜'
+- **2021-08-10** 📰 'Tag: 府城 天令'
+- **2021-08-10** 📰 'Tag: 武肺哀歌'
+- **2021-08-10** 📰 'Tag: 台灣漢光實兵演習'
+- **2021-08-12** 📰 'Tag: COVID-19疫苗'
+- **2021-08-12** 📰 'Tag: 立陶宛設「台灣代表處」● 立中兩國斷交前奏曲'
+- **2021-08-12** 📰 'Tag: 新冠疫苗加強針“不可避免”'
+- **2021-08-13** 📰 'Tag: 北戴河避難會議'
+- **2021-08-13** 📰 'Tag: 台灣人為何攜檳榔「觀光」土耳其？'
+- **2021-08-13** 📰 'Tag: 軟實力'
+- **2021-08-14** 📰 'Tag: 莫德納疫苗'
+- **2021-08-14** 🏛️ 'Tag: 反送中'
+- **2021-08-15** 📰 'Tag: 阿富汗政府垮台 恐影響美國國際領袖形象'
+- **2021-08-16** 📰 'Tag: 監守自盜賣毒狠撈1.6億台幣'
+- **2021-08-18** 📰 'Tag: 台灣應從阿富汗接受什麼教訓？'
+- **2021-08-20** 📰 'Tag: 禁詞'
+- **2021-08-20** 📰 'Tag: 蘋果將中國言論審查滲入港台'
+- **2021-08-21** 📰 'Tag: 20世紀俄國最偉大音樂家 Shostakovich 的生平：黑暗的一面'
+- **2021-08-23** 🗳️ 'Tag: 江啟臣'
+- **2021-08-23** 📰 'Tag: 高端疫苗'
+- **2021-08-23** 📰 'Tag: 柯文哲兩年前要踹貓●兩年後說要善待動物'
+- **2021-08-24** 📰 'Tag: 紐約首位女州長Kathy Hochul就任'
+- **2021-08-24** 🏥 'Tag: G7'
+- **2021-08-25** 📰 'Tag: 習近平的殺富與自殺'
+- **2021-08-25** 📰 'Tag: 阿富汗'
+- **2021-08-25** 📰 'Tag: 勿赴喀布爾機場'
+- **2021-08-25** 📰 'Tag: 撤離工作無期限'
+- **2021-08-26** 📰 'Tag: 共軍直9反潛直升機首次擾台'
+- **2021-08-27** 🏥 'Tag: 黃勝雄醫師'
+- **2021-08-28** 📰 'Tag: 20世紀俄國最偉大音樂家 Shostakovich 的生平'
+- **2021-08-28** 📰 'Tag: 陳師孟'
+- **2021-08-29** 📰 'Tag: 監察與司法搭配失靈'
+- **2021-08-29** 📰 'Tag: 海外台語文教師研習會'
+- **2021-08-30** 📰 'Tag: 全球根除使用含鉛汽油'
+- **2021-09-02** 📰 'Tag: 中國正在觸及每個人靈魂的變革'
+- **2021-09-02** 📰 'Tag: 中國把氣候當「地緣戰略武器」'
+- **2021-09-02** 📰 'Tag: 中美氣候問題合作'
+- **2021-09-02** 📰 'Tag: 林環牆'
+- **2021-09-03** 📰 'Tag: 瘋狂的台灣？'
+- **2021-09-04** 📰 'Tag: 男高音 Pavarotti 首次在 United Kingdom 演歌劇'
+- **2021-09-06** 📰 'Tag: 傳台積電高雄設7奈米廠'
+- **2021-09-06** 📰 'Tag: 漢光佳冬戰備道演練'
+- **2021-09-07** 📰 'Tag: 新興閣掌中劇團第5代傳人鍾任壁辭世'
+- **2021-09-07** 📰 'Tag: 大俠百草翁'
+- **2021-09-08** 📰 'Tag: 法國賽諾菲 Sanofi 併購 Kadmon Holdings'
+- **2021-09-08** 📰 'Tag: 翁啟惠革命性成就獲威爾許化學獎肯定'
+- **2021-09-09** 📰 'Tag: 嘉市台斗坑遺址2500年前遺骸'
+- **2021-09-09** 📰 'Tag: 美國百人企業員工須接種或定期檢測'
+- **2021-09-09** 📰 'Tag: 中企喜馬拉雅撤銷在美IPO計畫'
+- **2021-09-09** 📰 'Tag: Mu變異株可能具免疫逃脫特性'
+- **2021-09-09** 📰 'Tag: 台美日共同防禦台海安全'
+- **2021-09-09** 📰 'Tag: 拜登將要求聯邦員工打疫苗'
+- **2021-09-09** 🤝 'Tag: 孫曉雅'
+- **2021-09-09** 📰 'Tag: 俯身直肢葬法'
+- **2021-09-09** 📰 'Tag: 台灣有事就是日本有事'
+- **2021-09-09** 📰 'Tag: NASA黑客松台北場'
+- **2021-09-10** 📰 'Tag: 2021年僑委會海外青年華語文研習班'
+- **2021-09-10** 📰 'Tag: 美5至11歲接種BNT疫苗 料10月底前可獲授權'
+- **2021-09-10** 📰 'Tag: 共同富裕就是共同貧窮'
+- **2021-09-10** 📰 'Tag: 大洛杉磯台灣會館2021年11月6日舉辦年會'
+- **2021-09-10** 📰 'Tag: 大洛杉磯台灣會館邀您填寫台美人僑營商家推薦表'
+- **2021-09-10** 📰 'Tag: 美人僑營商家推薦表'
+- **2021-09-11** 🏛️ 'Tag: 俞宗明（Alan Yu）20年前在洛杉磯創立珍珠奶茶品牌樂立杯（Lollicup）'
+- **2021-09-11** 📰 'Tag: 2021年加州火災避難時有人拉小提琴安撫避難者'
+- **2021-09-11** 📰 'Tag: boba tea'
+- **2021-09-11** 📰 'Tag: 菲律賓防長訪美 將建立雙邊架構促進海上合作'
+- **2021-09-12** 📰 'Tag: 美法官下令蘋果鬆綁App付費制'
+- **2021-09-12** 📰 'Tag: 大洛杉磯台灣會館台灣學校台語班'
+- **2021-09-12** 📰 'Tag: 陳榮基獲總統文化獎'
+- **2021-09-12** 📰 'Tag: 潘石屹'
+- **2021-09-12** 📰 'Tag: 要塞英雄開發商控蘋果壟斷'
+- **2021-09-12** 📰 'Tag: 你的錢被五鬼搬運了嗎？'
+- **2021-09-12** 📰 'Tag: 台灣「總統文化獎」公布，李安、陳榮基、陳柏均獲獎'
+- **2021-09-12** 📰 'Tag: 滅國民黨者姓趙'
+- **2021-09-12** 📰 'Tag: Fortnite vs apple'
+- **2021-09-12** 📰 'Tag: 布魯塞爾路跑賽比利時王后便裝現身'
+- **2021-09-12** 📰 'Tag: 戰鬥藍→戰鬥紅→屍速列車'
+- **2021-09-12** 📰 'Tag: 台灣社會肯定安寧療護與善終'
+- **2021-09-12** 📰 'Tag: 拜登為何要強制美國人接種新冠疫苗'
+- **2021-09-12** 📰 'Tag: 台灣一場動搖「銀本」的投資風暴'
+- **2021-09-12** 📰 'Tag: 台灣推廣華語教學，童振源盼在美國主流社會生根'
+- **2021-09-12** 📰 'Tag: 從「黨指揮槍」演變成「黨擔心槍」的亂局'
+- **2021-09-12** 📰 'Tag: SOHO中國與美國黑石集團交易告吹'
+- **2021-09-13** 📰 'Tag: 台灣移民之女吳弭Michelle Wu可能成為波士頓市長'
+- **2021-09-13** 📰 'Tag: 36箱台獨聯盟史料捐贈台史博'
+- **2021-09-13** 📰 'Tag: Zygimantas Pavilionis'
+- **2021-09-13** 📰 'Tag: Michelle Wu'
+- **2021-09-13** 📰 'Tag: 張亞中多次言語攻擊朱立倫 移考紀會查明'
+- **2021-09-13** 📰 'Tag: 日本宣布再贈台50萬劑AZ疫苗'
+- **2021-09-13** 📰 'Tag: 投資者到「中國恆大」深圳總部要求兌付逾期理財產品'
+- **2021-09-13** 🕯️ 'Tag: 「中正紀念堂」轉型'
+- **2021-09-13** 📰 'Tag: 立陶宛議員拜會台灣駐美代表'
+- **2021-09-13** 🕯️ 'Tag: 從「歷史之刺」到「民主之盾」'
+- **2021-09-13** 📰 'Tag: 日警告東南亞6國恐遭攻擊'
+- **2021-09-14** 📰 'Tag: 張亞中移送開鍘？'
+- **2021-09-14** 📰 'Tag: 美議員夏波籲升格AIT處長位階'
+- **2021-09-14** 📰 'Tag: Daily Telegraph'
+- **2021-09-14** 📰 'Tag: 英國大報登吳釗燮專文籲聯合國停止排除台灣'
+- **2021-09-14** 📰 'Tag: 張雅琴：選黨主席要動刀子？'
+- **2021-09-14** 📰 'Tag: 拜登政府控告德州 《德克薩斯心跳法案》違憲'
+- **2021-09-14** 📰 'Tag: 朱學恒送花圈嗆謝志偉'
+- **2021-09-14** 📰 'Tag: 政壇需要清廉更需要智慧'
+- **2021-09-14** 📰 'Tag: 英國大學使用阿里巴巴VPN'
+- **2021-09-14** 📰 'Tag: 習陣營炒作第三份歷史決議，為習近平連任造勢？'
+- **2021-09-14** 📰 'Tag: 台灣經貿考察團10月訪立陶宛捷克與斯洛伐克'
+- **2021-09-14** 📰 'Tag: 「2022財政年度國防授權法案」（FY 2022 NDAA）'
+- **2021-09-14** 📰 'Tag: 工黨主席父子共諜案'
+- **2021-09-14** 📰 'Tag: 高端疫苗獲WHO贊助 將在哥倫比亞臨床試驗'
+- **2021-09-14** 📰 'Tag: 新書揭美參謀首長致電共軍防開戰，川普痛罵叛國'
+- **2021-09-14** 📰 'Tag: 瑞士國會下議院壓倒性通過改善與台灣關係議案'
+- **2021-09-14** 📰 'Tag: 中國駐英大使被禁進入英國議會參加活動'
+- **2021-09-14** 📰 'Tag: 德州心跳法未被攔下，民眾赴保守派大法官卡瓦諾家外抗議'
+- **2021-09-14** 📰 'Tag: 張亞中再穿幫'
+- **2021-09-14** 📰 'Tag: 謝志偉高EQ反將朱學恒一軍'
+- **2021-09-14** 📰 'Tag: 台灣強化和中東歐關係'
+- **2021-09-14** 📰 'Tag: 佳冬戰備道戰機起降'
+- **2021-09-14** 📰 'Tag: 台灣天燈時報廣場大螢幕升空，訴求參與聯合國'
+- **2021-09-14** 📰 'Tag: 臉書雙重標準，數百萬VIP用戶享受審查禮遇'
+- **2021-09-14** 📰 'Tag: 美國新冠疫情似乎趨緩'
+- **2021-09-14** 📰 'Tag: 佳冬戰備道'
+- **2021-09-14** 📰 'Tag: 波蘭駐台代表提台灣參與三海倡議'
+- **2021-09-14** 📰 'Tag: 以色列前總理受審案證人 在希臘墜機身亡'
+- **2021-09-14** 📰 'Tag: Gary Gensler'
+- **2021-09-14** 📰 'Tag: 傳習近平無視拜登會面要求'
+- **2021-09-14** 📰 'Tag: 美眾院版國防授權法建議邀台參與環太軍演'
+- **2021-09-14** 📰 'Tag: 鄰國黨又內鬨'
+- **2021-09-14** 📰 'Tag: 香港保安局長鄧炳強質疑記協代表性'
+- **2021-09-14** 📰 'Tag: FASCA-LA'
+- **2021-09-14** 📰 'Tag: 移送張亞中'
+- **2021-09-14** 📰 'Tag: 聯合國開議'
+- **2021-09-14** 📰 'Tag: 印度警方逮捕6名策劃恐攻嫌犯'
+- **2021-09-14** 📰 'Tag: 工黨主席鄭昭明父子共諜案 最高法院判緩刑確定'
+- **2021-09-15** 📰 'Tag: 台積電完成填息'
+- **2021-09-17** 📰 'Tag: 漢光演習'  (4×)
+- **2021-09-17** 📰 'Tag: Mark Milley'
+- **2021-09-18** 📰 'Tag: 棄習保共？棄共保中？全球強權的大抉擇！'
+- **2021-09-18** 📰 'Tag: 一趟豐盛的報復性旅遊'
+- **2021-09-18** 📰 'Tag: 聯合國大會'
+- **2021-09-21** 📰 'Tag: 中秋疫情悲歌'
+- **2021-09-21** 📰 'Tag: Jue Whei Chow'
+- **2021-09-23** 📰 'Tag: 楊遠薰'  (2×)
+- **2021-09-23** 📰 'Tag: 懷念彭昕醫師'
+- **2021-09-23** 📰 'Tag: 民主黨籲共和黨勿反對'
+- **2021-09-23** 📰 'Tag: 提高債務上限'
+- **2021-09-23** 📰 'Tag: 英警告維權人士 避免前往與中國有引渡協議的國家'
+- **2021-09-24** 📰 'Tag: 北京環球影城：仇美時代來自美國的「精神污染」'
+- **2021-09-25** 📰 'Tag: 林靜宜醫師在民進黨美西黨慶35周年黨慶專題演說'
+- **2021-09-25** 📰 'Tag: 2021面對內憂外患的COVID挑戰'
+- **2021-09-25** 📰 'Tag: 從一首舊詩回首1990年代的台灣'
+- **2021-09-25** 📰 'Tag: 陳東榮'
+- **2021-09-26** 📰 'Tag: 模擬共機及巡弋飛彈攻台，國軍中長程飛彈攔截'
+- **2021-09-28** 🗳️ 'Tag: 日本自民黨總裁選舉'
+- **2021-09-28** 📰 'Tag: 台灣暫不引進SPAC'
+- **2021-09-28** 📰 'Tag: 同步通譯制度化'
+- **2021-09-28** 📰 'Tag: 台灣民團促落實國家語言發展法'
+- **2021-09-29** 📰 'Tag: 美國COVID-19疫苗接種率不再有族裔之別'
+- **2021-09-29** 📰 'Tag: 美國不同黨派傾向的接種率依然差距懸殊'
+- **2021-09-29** 📰 'Tag: 2021大洛杉磯台灣會館23週年募款年會'
+- **2021-09-29** 🗳️ 'Tag: 反滲透法'
+- **2021-10-08** 📰 'Tag: 一黨專政結束了香港支聯會？'
+- **2021-10-08** 📰 'Tag: 支聯會'
+- **2021-10-08** 📰 'Tag: 美國將與塔利班舉行面對面會談'
+- **2021-10-09** 🏥 'Tag: 黃邦雄醫師'
+- **2021-10-09** 🏥 'Tag: 人類乳突病毒與疫苗的認識'
+- **2021-10-13** 🏥 'Tag: 李秉穎'
+- **2021-10-13** 📰 'Tag: 台灣百歲人瑞歷年新高'
+- **2021-10-13** 🕯️ 'Tag: 文協百年紀念會'
+- **2021-10-13** 📰 'Tag: 印度男子放眼鏡蛇咬死臥床富妻'
+- **2021-10-13** 📰 'Tag: 中天指稱「韓家軍手機都被掌握」，罰60萬確定'
+- **2021-10-13** 📰 'Tag: 鍾孟宏「瀑布」角逐奧斯卡'
+- **2021-10-13** 📰 'Tag: 會訊'
+- **2021-10-13** 📰 'Tag: 蔡英文雙十演說'
+- **2021-10-13** 📰 'Tag: 將台灣與中國區分，拒絕中國敘事'
+- **2021-10-17** 📰 'Tag: 《長津湖》何功？羅昌平何罪？'
+- **2021-10-19** 📰 'Tag: 12至18歲打兩劑BNT 防住院重症效力93%'
+- **2021-10-19** 📰 'Tag: 北韓囚犯自中國吉林監獄翻高牆脫逃'
+- **2021-10-19** 📰 'Tag: 美參院外委會通過《南中國海和東中國海制裁法案》'
+- **2021-10-19** 📰 'Tag: South China Sea and East China Sea Sanctions Act'
+- **2021-10-20** 📰 'Tag: 勃恩斯（Nicholas Burns）'
+- **2021-10-20** 📰 'Tag: 陳時中：北市做不來應事前提出'
+- **2021-10-20** 📰 'Tag: 蔡英文喊話繼續關心陳柏惟罷免案'
+- **2021-10-20** 📰 'Tag: 國民黨黃復興黨部主委'
+- **2021-10-20** 📰 'Tag: 北市指疫苗量分配不均'
+- **2021-10-20** 📰 'Tag: 緬因州數名醫護提告疫苗強制接種令遭最高法院駁回'
+- **2021-10-20** 📰 'Tag: 退將季麟連稱共機不算擾台'
+- **2021-10-21** 📰 'Tag: 川普宣布自推社群網站'
+- **2021-10-22** 🏛️ 'Tag: 錢進新世界'
+- **2021-10-23** 📰 'Tag: 什麼是全過程民主？'
+- **2021-10-23** 📰 'Tag: 你問過全體中國公民嗎？'
+- **2021-10-25** 📰 'Tag: 朱立倫喊四個捍衛'
+- **2021-10-25** 📰 'Tag: 中國企圖以春苗行動統戰僑界'
+- **2021-10-25** 📰 'Tag: 童振源'
+- **2021-10-25** 📰 'Tag: 喬丹菜鳥球季紅白戰鞋150萬美元落槌'
+- **2021-10-25** 📰 'Tag: 民進黨：朱喊捍衛中華民國，遇到中國即消失'
+- **2021-10-26** 📰 'Tag: 張忠謀：美國供應鏈不完整，推半導體在地製造難成功'
+- **2021-10-28** 📰 'Tag: 無國界記者反酸盧沙野：可請調去北韓'
+- **2021-10-28** 📰 'Tag: 台灣高階將領：美軍協訓逾20年'
+- **2021-10-28** 📰 'Tag: 盧沙野撒野辱罵法媒'
+- **2021-10-28** 📰 'Tag: 蔡英文證實美軍在台灣協訓並稱願與習「坐下來談」'
+- **2021-10-30** 📰 'Tag: G20峰會'
+- **2021-11-02** 📰 'Tag: 反萊豬'
+- **2021-11-04** 📰 'Tag: 台灣不孤單'
+- **2021-11-04** 📰 'Tag: 蔡英文接見歐洲議會官方訪團'
+- **2021-11-10** 📰 'Tag: 張劍虹涉違國安法 未能保釋'
+- **2021-11-11** 🏥 'Tag: 這些人這些事'  (4×)
+- **2021-11-13** 📰 'Tag: George Sand 與 Chopin 的一段浪漫史'
+- **2021-11-13** 📰 'Tag: 布林肯籲王毅和平解決台海議題'
+- **2021-11-15** 📰 'Tag: 蘇貞昌：不容共產黨在大學設分支機構'
+- **2021-11-17** 📰 'Tag: Angela Merkel'
+- **2021-11-19** 📰 'Tag: 18世紀 Mozart 時代英國的另一位音樂神童'
+- **2021-11-19** 📰 'Tag: Thomas Linley the Younger'
+- **2021-11-20** 📰 'Tag: 核四'
+- **2021-11-22** 📰 'Tag: 北美洲台灣人教授協會'
+- **2021-11-22** 📰 'Tag: 文革'
+- **2021-11-22** 📰 'Tag: 李應元'
+- **2021-11-22** 📰 'Tag: 菲律賓船隻遭中國海警船射水砲'
+- **2021-11-24** 📰 'Tag: 蕭美琴唐鳳受邀民主峰會'
+- **2021-11-24** 📰 'Tag: 蕭美琴唐鳳展現台灣世界級專業'
+- **2021-11-25** 📰 'Tag: 美國人潮出籠歡慶感恩節'
+- **2021-11-25** 📰 'Tag: 偷渡客小艇英吉利海峽船難'
+- **2021-11-25** 📰 'Tag: 美議員團訪台'
+- **2021-11-25** 📰 'Tag: 請不要吝嗇你的笑容'
+- **2021-11-25** 📰 'Tag: English Channel'
+- **2021-11-26** 🏥 'Tag: 新變種病毒'
+- **2021-11-26** 📰 'Tag: 中國要求滴滴從美國證交所下市'
+- **2021-11-26** 🏥 'Tag: 美股道瓊跌逾900點'
+- **2021-11-26** 🏥 'Tag: 原油價格崩跌'
+- **2021-11-27** 📰 'Tag: 演奏家臨時取消演出'
+- **2021-11-27** 📰 'Tag: 對抗信仰迫害'
+- **2021-11-27** 📰 'Tag: 135億年前的宇宙「開天闢地」'
+- **2021-11-27** 📰 'Tag: 英國2022舉辦宗教自由峰會'
+- **2021-11-27** 📰 'Tag: James Webb太空望遠鏡'
+- **2021-11-27** 📰 'Tag: Merck武肺口服藥'
+- **2021-11-27** 📰 'Tag: 黑色星期五美網購略退燒'
+- **2021-11-27** 📰 'Tag: 消費者重回實體店採購'
+- **2021-11-27** 📰 'Tag: 音樂界的噩夢'
+- **2021-11-27** 📰 'Tag: 蕭美琴父親蕭清芬牧師在美過世'
+- **2021-11-28** 📰 'Tag: 游錫堃宴請翁啟惠'
+- **2021-11-28** 📰 'Tag: 邱國正：不能沒辦法、正在研擬'
+- **2021-11-28** 📰 'Tag: 美俄兩國領袖擬於年底前會談'
+- **2021-11-28** 📰 'Tag: 美學者籲參考台灣防疫'
+- **2021-11-28** 📰 'Tag: 國民黨拒審預算案'
+- **2021-11-28** 📰 'Tag: 高度友台'
+- **2021-11-28** 📰 'Tag: 藻礁'
+- **2021-11-28** 📰 'Tag: 烏克蘭總統指責俄羅斯策劃政變'
+- **2021-11-28** 📰 'Tag: 捷克準外長 Jan Lipavský'
+- **2021-11-28** 📰 'Tag: 退將親中言論惹議'
+- **2021-11-28** 📰 'Tag: 台海局勢'
+- **2021-11-28** 🏥 'Tag: 疫苗'
+- **2021-11-28** 📰 'Tag: Biden'
+- **2021-11-28** 📰 'Tag: 澳洲總理挺防長抗中言論'
+- **2021-11-28** 📰 'Tag: 美將以北約嚇阻俄侵烏'
+- **2021-11-28** 📰 'Tag: 台灣中油PO空拍影片證實藻礁仍在'
+- **2021-11-28** 📰 'Tag: 出境2年移籍'
+- **2021-11-28** 📰 'Tag: 烏克蘭邊境'
+- **2021-11-28** 📰 'Tag: 六四天網創辦人黃琦'
+- **2021-11-28** 📰 'Tag: 居住為事實行為'
+- **2021-11-28** 📰 'Tag: 切忌向中國示弱'
+- **2021-11-29** 📰 'Tag: 立院三讀通過'
+- **2021-11-29** 📰 'Tag: 美議員梅絲：我刻意推文稱台灣共和國'
+- **2021-11-29** 📰 'Tag: 捷克新總理費亞拉友台'
+- **2021-11-29** 🤝 'Tag: 推特宣布Jack Dorsey卸任執行長'
+- **2021-11-29** 📰 'Tag: Petr Fiala'
+- **2021-11-30** 📰 'Tag: 台美史料中心December 2021 Newsletter'
+- **2021-12-01** 📰 'Tag: 台灣第3季半導體設備市場全球第一大'
+- **2021-12-02** 📰 'Tag: 美中軍備競賽新焦點'
+- **2021-12-02** 📰 'Tag: 美歐外交高層對話，強烈關切北京在台海行徑'
+- **2021-12-02** 📰 'Tag: 極音速武器'
+- **2021-12-02** 📰 'Tag: 台海穩定'
+- **2021-12-03** 📰 'Tag: 李遠哲捐諾貝爾獎章'
+- **2021-12-03** 📰 'Tag: 遏制獨裁政權以科技壓迫人權'
+- **2021-12-03** 📰 'Tag: 美歐外交高層對話'
+- **2021-12-03** 📰 'Tag: 美國推動全球技術出口管制'
+- **2021-12-04** 📰 'Tag: 化解正教與天主教分歧'
+- **2021-12-04** 📰 'Tag: ECA'
+- **2021-12-04** 📰 'Tag: 北京辦「高端討論會」亂彈民主'
+- **2021-12-04** 📰 'Tag: 總統籲投四個不同意'
+- **2021-12-04** 📰 'Tag: 新喀里多尼亞12日獨立公投'
+- **2021-12-04** 📰 'Tag: 政治受難者歷史'
+- **2021-12-04** 📰 'Tag: 徐旭東何苦單戀赤色中國市場'
+- **2021-12-04** 📰 'Tag: 台灣文化部長李永得'
+- **2021-12-04** 📰 'Tag: 國際奧委會配合中共掩蓋彭帥事件'
+- **2021-12-04** 📰 'Tag: 美防長重申華府對台灣強烈支持'
+- **2021-12-04** 📰 'Tag: 教宗訪希臘'
+- **2021-12-04** 📰 'Tag: 日本5歲兒童發現魚類圖鑑分類有誤'
+- **2021-12-04** 📰 'Tag: 美MQ-25無人加油機首登航艦測試'
+- **2021-12-04** 📰 'Tag: 中國軍事行動類似排練'
+- **2021-12-04** 📰 'Tag: 中國人口實際可能只有12.8億'
+- **2021-12-04** 📰 'Tag: Brahms 第四交響樂'
+- **2021-12-04** 📰 'Tag: 美眾院推跨黨派決議案譴責國際奧委會'
+- **2021-12-04** 📰 'Tag: 人權教育'
+- **2021-12-04** 📰 'Tag: CNN主播Chris Cuomo丟工作'
+- **2021-12-04** 📰 'Tag: 公投決定國家發展路線'
+- **2021-12-04** 📰 'Tag: 貝里斯眾議長挺台入國際組織'
+- **2021-12-04** 📰 'Tag: 俄羅斯最快2022年初入侵烏克蘭'
+- **2021-12-04** 📰 'Tag: 人口問題專家易富賢'
+- **2021-12-05** 📰 'Tag: 歐洲台灣協會聯合總會110年年會'
+- **2021-12-05** 📰 'Tag: 歐台會'
+- **2021-12-06** 📰 'Tag: 新三貂角長程雷達助軍方偵測共機'
+- **2021-12-06** 📰 'Tag: 瓜地馬拉總統強調與美友好 與台邦交是首要證明'
+- **2021-12-06** 📰 'Tag: 索羅門總理稱台灣「代理人」策動示威'
+- **2021-12-06** 📰 'Tag: 國民黨為顏家在立院打壓司法'
+- **2021-12-06** 📰 'Tag: 新三貂角長程雷達啟用'
+- **2021-12-06** 📰 'Tag: 拜登邀台參加民主峰會意義重大'
+- **2021-12-06** 📰 'Tag: Alejandro Giammattei'
+- **2021-12-06** 📰 'Tag: 顏家事業版圖'
+- **2021-12-06** 📰 'Tag: 紐西蘭宣布不派外交官員出席北京冬奧'
+- **2021-12-06** 📰 'Tag: 菱傳媒遭駭客攻擊刪光新聞'
+- **2021-12-06** 📰 'Tag: 林靜儀批葉毓蘭瞎搞議程'
+- **2021-12-07** 📰 'Tag: 確保中國不會武力犯台'
+- **2021-12-07** 📰 'Tag: 不對稱防衛能力'
+- **2021-12-07** 📰 'Tag: 四大公投：台灣與中共的對決'
+- **2021-12-09** 📰 'Tag: 中國因素'
+- **2021-12-13** 📰 'Tag: 國民黨附隨組織中投、欣裕台'
+- **2021-12-13** 📰 'Tag: 六四案李卓人、黎智英被判最重'
+- **2021-12-13** 📰 'Tag: 馬斯克獲選時代雜誌風雲人物'
+- **2021-12-13** 📰 'Tag: New Caledonia'
+- **2021-12-14** 📰 'Tag: 高雄半導體生態系成形'
+- **2021-12-14** 📰 'Tag: 默克等大廠投資高雄'
+- **2021-12-14** 📰 'Tag: 對豬肝藍、睪丸藍 投不同意票'
+- **2021-12-14** 📰 'Tag: 公投議題'
+- **2021-12-16** 📰 'Tag: 台灣新文學史'
+- **2021-12-16** 📰 'Tag: 摩洛哥法院裁定 維吾爾流亡人士艾伊尚將遣返中國'
+- **2021-12-17** 📰 'Tag: 土耳其降息里拉再貶'
+- **2021-12-17** 📰 'Tag: 艾爾段拍板基本工資漲50%'
+- **2021-12-17** 📰 'Tag: 國際社會營救維族青年艾山'
+- **2021-12-17** 📰 'Tag: 維族青年艾山面臨被引渡回中國'
+- **2021-12-17** 📰 'Tag: Idris Hasan'
+- **2021-12-17** 📰 'Tag: 中共的“忽然民主”'
+- **2021-12-17** 📰 'Tag: Yidiresi Aishan'
+- **2021-12-20** 🗳️ 'Tag: 香港立法會選舉'
+- **2021-12-21** 📰 'Tag: 安倍發言挺台後 中方阻撓日本大使館活動'
+- **2021-12-25** 📰 'Tag: The Twelve Days of Christmas'
+- **2021-12-26** 📰 'Tag: 呂讀台灣'
+- **2021-12-26** 📰 'Tag: 亮晶晶'
+- **2021-12-26** 📰 'Tag: 一閃一閃'
+- **2021-12-26** 🗳️ 'Tag: 立委補選'
+- **2021-12-27** 📰 'Tag: 立法院臨時會'
+
+- **2020-01-01** 📰 'Tag: 再一次台灣經濟奇蹟'
+- **2020-01-01** 📰 'Tag: 未來4年落實投資'
+- **2020-01-01** 📰 'Tag: 蔡賴合體綠立委候選人'
+- **2020-01-01** 📰 'Tag: 300多處路口同步拜票'
+- **2020-01-01** 📰 'Tag: 未成年人抽電子菸'
+- **2020-01-01** 📰 'Tag: 70年代'
+- **2020-01-01** 📰 'Tag: 壹週刊'
+- **2020-01-01** 📰 'Tag: 台灣槍擊要犯黃建偉被中國判死緩'
+- **2020-01-01** 📰 'Tag: 哈佛中國學者盜竊癌症樣本被捕'
+- **2020-01-01** 📰 'Tag: 川普擬下架部分電子菸「一段時間」'
+- **2020-01-01** 📰 'Tag: 跨年'
+- **2020-01-01** 📰 'Tag: 北京授意'
+- **2020-01-01** 📰 'Tag: 鄉土書寫'
+- **2020-01-02** 📰 'Tag: 國民黨兩難'
+- **2020-01-02** 📰 'Tag: PK'
+- **2020-01-02** 📰 'Tag: 潑墨女孩董瑤瓊'
+- **2020-01-02** 📰 'Tag: 唬爛'
+- **2020-01-02** 📰 'Tag: 總長罹難'
+- **2020-01-02** 📰 'Tag: 贏家'
+- **2020-01-02** 📰 'Tag: 輸家'
+- **2020-01-02** 📰 'Tag: 林靜儀辭蔡競辦發言人'
+- **2020-01-02** 🗳️ 'Tag: 黑鷹墜機'
+- **2020-01-02** 📰 'Tag: 參謀總長沈一鳴'
+- **2020-01-02** 📰 'Tag: 美中第一階段貿易協定'
+- **2020-01-02** 📰 'Tag: 《反滲透法》'
+- **2020-01-02** 📰 'Tag: 黑鷹墜毀'
+- **2020-01-02** 🗳️ 'Tag: 分裂投票'
+- **2020-01-02** 📰 'Tag: 接受德國之聲訪問發言惹議'
+- **2020-01-02** 📰 'Tag: 邁向十字架之路'
+- **2020-01-03** 📰 'Tag: 台北101點燈悼念殉職將士'
+- **2020-01-03** 📰 'Tag: 美國另起爐灶'
+- **2020-01-03** 📰 'Tag: 黑鷹直升機失事'
+- **2020-01-03** 📰 'Tag: AIT降半旗'
+- **2020-01-04** 📰 'Tag: 藍綠總統候選人高雄尬場'
+- **2020-01-05** 📰 'Tag: 脫序行為'
+- **2020-01-05** 📰 'Tag: 美國收緊衛星成像技術的出口管制'
+- **2020-01-05** 📰 'Tag: 傷口撒鹽'
+- **2020-01-05** 📰 'Tag: 「思想犯」論述的背景'
+- **2020-01-05** 📰 'Tag: 蔡英文總統'  (2×)
+- **2020-01-05** 📰 'Tag: 冬瓜標'
+- **2020-01-05** 📰 'Tag: 宋楚瑜質疑韓國瑜可否領導國家'
+- **2020-01-05** 📰 'Tag: 中國利用假訊息滲透'
+- **2020-01-05** 📰 'Tag: 草包韓敗選跡象'
+- **2020-01-05** 📰 'Tag: 國殤'
+- **2020-01-05** 📰 'Tag: 呼喚郭董歸隊'
+- **2020-01-05** 🗳️ 'Tag: 台灣總統選舉可能左右日本國防'
+- **2020-01-05** 📰 'Tag: 賈伯斯'  (3×)
+- **2020-01-05** 📰 'Tag: 站街頭摔山頭'
+- **2020-01-05** 📰 'Tag: 黑鷹悲劇'
+- **2020-01-06** 📰 'Tag: 川普的彈劾審理'
+- **2020-01-06** 🗳️ 'Tag: 中邪'
+- **2020-01-06** 📰 'Tag: 賴清德掃街'
+- **2020-01-06** 📰 'Tag: 參議員僵持不下'
+- **2020-01-06** 📰 'Tag: 韓國瑜失言'
+- **2020-01-06** 🗳️ 'Tag: 黑鷹失事'
+- **2020-01-06** 📰 'Tag: 五角大樓高官擔心與伊朗一戰將分散對中國聚焦'
+- **2020-01-06** 📰 'Tag: 阻止美伊敵對升級'
+- **2020-01-06** 📰 'Tag: 親民黨'
+- **2020-01-06** 📰 'Tag: 台灣中邪'
+- **2020-01-06** 📰 'Tag: 主帥親征'
+- **2020-01-07** 📰 'Tag: 話劇'
+- **2020-01-07** 📰 'Tag: 賭徒心態'
+- **2020-01-07** 📰 'Tag: 投票確保台灣未來'
+- **2020-01-07** 📰 'Tag: 川普警告伊朗'
+- **2020-01-07** 📰 'Tag: 美展示52架F-35戰機壯觀軍演'
+- **2020-01-07** 📰 'Tag: 綠狂掃全台'
+- **2020-01-07** 📰 'Tag: 年輕人相信民進黨'
+- **2020-01-07** 📰 'Tag: 台灣人隨時準備要被坐牢'
+- **2020-01-07** 📰 'Tag: 中邪的草包韓們'
+- **2020-01-07** 📰 'Tag: 流動清水沖15分鐘清洗草莓'
+- **2020-01-07** 📰 'Tag: 選戰倒數催票'
+- **2020-01-07** 📰 'Tag: 韓國瑜攻基隆宜蘭'
+- **2020-01-07** 📰 'Tag: 韓辦'
+- **2020-01-07** 📰 'Tag: 伊朗縮減履行承諾'
+- **2020-01-07** 📰 'Tag: 不會轟炸伊朗文化遺址'
+- **2020-01-07** 📰 'Tag: 草莓'
+- **2020-01-07** 🗳️ 'Tag: 台灣選舉'
+- **2020-01-07** 📰 'Tag: 改風向'
+- **2020-01-07** 📰 'Tag: 蔡總統挺進激戰區雲林南投'
+- **2020-01-07** 📰 'Tag: 海內外台獨差很大'
+- **2020-01-07** 📰 'Tag: 美議員推文挺台'
+- **2020-01-07** 📰 'Tag: 美堅持讓駐軍留伊拉克'
+- **2020-01-07** 📰 'Tag: 不代表終止核協議或想退出'
+- **2020-01-08** 📰 'Tag: 要王立強謊稱遭民進黨收買'
+- **2020-01-08** 📰 'Tag: 青壯年猝死'
+- **2020-01-08** 📰 'Tag: 中國補助台商機票達1500元人民幣'
+- **2020-01-08** 📰 'Tag: 蔡正元要王立強改說詞'
+- **2020-01-08** 📰 'Tag: 僅1成台商回台投票'
+- **2020-01-08** 📰 'Tag: 韓國瑜愛國'
+- **2020-01-08** 📰 'Tag: 楓葉卡'
+- **2020-01-08** 📰 'Tag: 中國催票效果有限'
+- **2020-01-08** 📰 'Tag: 高風險族群'
+- **2020-01-08** 🗳️ 'Tag: 選舉喊卡'
+- **2020-01-08** 📰 'Tag: 美人權報告'
+- **2020-01-08** 🗳️ 'Tag: 移民加國'
+- **2020-01-08** 📰 'Tag: 韓國瑜頻出怪招賭脫困'
+- **2020-01-08** 🗳️ 'Tag: 申請居留權'
+- **2020-01-08** 📰 'Tag: 第三次世界大戰'
+- **2020-01-09** 📰 'Tag: 藍營試圖收買王立強改口'
+- **2020-01-09** 📰 'Tag: 王立強疑遭脅迫案澳洲當局緊急向台灣簡報'
+- **2020-01-09** 📰 'Tag: 台灣選前澳媒驚爆'
+- **2020-01-09** 📰 'Tag: 蔡總統：用選票告訴世界 台灣不接受一國兩制'
+- **2020-01-09** 📰 'Tag: 柯金源記錄台灣環境變遷'
+- **2020-01-09** 📰 'Tag: 向心'
+- **2020-01-09** 📰 'Tag: 中國對台體系幾乎崩掉'
+- **2020-01-09** 📰 'Tag: 美國依然受人喜愛'
+- **2020-01-09** 📰 'Tag: 蔡正元爆核彈級悲劇'
+- **2020-01-09** 📰 'Tag: 護台防中共'
+- **2020-01-09** 📰 'Tag: 陳明堂'
+- **2020-01-09** 📰 'Tag: 蔡正元奧步'
+- **2020-01-09** 📰 'Tag: 特朗普“差評”多'
+- **2020-01-09** 📰 'Tag: 皮尤'
+- **2020-01-09** 📰 'Tag: 王立強'  (2×)
+- **2020-01-10** 📰 'Tag: 決戰凱道'
+- **2020-01-10** 📰 'Tag: 美國陸軍將派特遣部隊應對中國挑戰'
+- **2020-01-10** 📰 'Tag: 就在今夜'
+- **2020-01-10** 📰 'Tag: 部署地點包括南中國海'
+- **2020-01-10** 📰 'Tag: 回防高雄'
+- **2020-01-10** 📰 'Tag: 世銀曾要台灣僱員持中國護照'
+- **2020-01-10** 📰 'Tag: 凱道障礙'
+- **2020-01-10** 📰 'Tag: 陳樹菊'
+- **2020-01-10** 📰 'Tag: 美議員要世銀行長解釋'
+- **2020-01-10** 📰 'Tag: 親情大團圓'
+- **2020-01-11** 📰 'Tag: 韓國瑜致電祝賀蔡英文總統'
+- **2020-01-11** 📰 'Tag: 韓國瑜鞠躬承認敗選'
+- **2020-01-11** 📰 'Tag: 蔡英文817萬票連任擊潰韓國瑜'
+- **2020-01-11** 📰 'Tag: 綠國會過半完全執政'
+- **2020-01-11** 📰 'Tag: 民選總統最高紀錄'
+- **2020-01-12** 📰 'Tag: 新一政經塾'
+- **2020-01-12** 📰 'Tag: 中常委：不慰留應下台負責'
+- **2020-01-12** 📰 'Tag: 民進黨北高市長布局受矚目'
+- **2020-01-12** 📰 'Tag: 加拿大司法部支持以涉嫌欺詐向美引渡孟晚舟'
+- **2020-01-12** 📰 'Tag: 川普用波斯語發推支持伊朗抗議者'
+- **2020-01-12** 📰 'Tag: 民進黨接班梯隊成形'
+- **2020-01-12** 📰 'Tag: 李宗霖'
+- **2020-01-12** 📰 'Tag: 賣菜郎神話'
+- **2020-01-12** 📰 'Tag: 川普警告伊朗領導人不要殺害抗議者'
+- **2020-01-12** 📰 'Tag: 大選慘敗'
+- **2020-01-12** 📰 'Tag: 吳敦義向中常會總辭'
+- **2020-01-12** 📰 'Tag: 1萬6千張貼紙拼出巨型「蔡英文頭像」'
+- **2020-01-12** 📰 'Tag: 大起又大落'
+- **2020-01-12** 📰 'Tag: 亡國感'
+- **2020-01-12** 📰 'Tag: 中方承諾未改變'
+- **2020-01-12** 📰 'Tag: 高雄人了不起'
+- **2020-01-12** 📰 'Tag: 台灣的覺醒'
+- **2020-01-13** 📰 'Tag: 蔡英文與韓國瑜命運的輪迴'
+- **2020-01-13** 📰 'Tag: 美國將中國移出匯率操縱國名單'
+- **2020-01-13** 📰 'Tag: 華郵登高碩泰專文'
+- **2020-01-13** 📰 'Tag: 高碩泰籲美派閣員參加蔡英文總統連任就職典禮'
+- **2020-01-13** 📰 'Tag: 新黨決議反對解散'
+- **2020-01-14** 📰 'Tag: 蔡英文擊退民粹主義'
+- **2020-01-14** 📰 'Tag: 殉職將士公奠'
+- **2020-01-14** 📰 'Tag: 中國欺壓人權 數十年來最粗暴'
+- **2020-01-14** 📰 'Tag: 各國必須抵制北京對國際人權體系的攻擊'
+- **2020-01-14** 📰 'Tag: 訴求年輕選票與國家認同'
+- **2020-01-14** 📰 'Tag: 黑鷹'
+- **2020-01-14** 📰 'Tag: 黑鷹將士公奠'
+- **2020-01-14** 📰 'Tag: 在野大聯盟'
+- **2020-01-14** 📰 'Tag: 國民黨潰敗'
+- **2020-01-14** 📰 'Tag: 青壯派逼宮'
+- **2020-01-14** 📰 'Tag: 高雄罷免戰'
+- **2020-01-14** 📰 'Tag: 友邦及美日法德韓駐台官員出席黑鷹將士公奠'
+- **2020-01-14** 📰 'Tag: 林鄭否認為政治災難「買單」'
+- **2020-01-14** 📰 'Tag: 逼宮'
+- **2020-01-15** 📰 'Tag: 大陸陰謀'
+- **2020-01-15** 📰 'Tag: 老賊下台'
+- **2020-01-15** 📰 'Tag: 中常會全武行'
+- **2020-01-15** 📰 'Tag: 清黨逼宮'
+- **2020-01-15** 📰 'Tag: 高雄人的怒吼'
+- **2020-01-15** 📰 'Tag: 美中簽署首階段貿易協議'
+- **2020-01-15** 📰 'Tag: 台商血淚控訴'
+- **2020-01-15** 📰 'Tag: 川普不久後訪北京'
+- **2020-01-15** 📰 'Tag: 中國國民黨輸在內鬥'
+- **2020-01-15** 📰 'Tag: 國民黨大選潰敗'
+- **2020-01-15** 📰 'Tag: 國民黨青年'
+- **2020-01-16** 📰 'Tag: 黨產會處分合法'
+- **2020-01-16** 📰 'Tag: 通烏門'
+- **2020-01-16** 📰 'Tag: 上酒家'
+- **2020-01-16** 📰 'Tag: 美參院壓倒性通過新版北美貿易協定'
+- **2020-01-16** 📰 'Tag: 川普核心成員'
+- **2020-01-16** 📰 'Tag: 川普總統知悉到底發生什麼事'
+- **2020-01-16** 📰 'Tag: 林榮德.'
+- **2020-01-16** 📰 'Tag: 參院通過北美貿易協定'
+- **2020-01-16** 📰 'Tag: 民代背景的衝擊'
+- **2020-01-16** 📰 'Tag: 台裔楊安澤角逐美總統'
+- **2020-01-16** 📰 'Tag: 美股三大指數再創新高'
+- **2020-01-16** 📰 'Tag: 楊安澤妻盧艾玲揭露遭性侵過往'
+- **2020-01-16** 📰 'Tag: 蔡總統與網紅聊女權寵物'
+- **2020-01-16** 📰 'Tag: 雙北捷運環狀線獲准營運'
+- **2020-01-16** 📰 'Tag: 免費試乘'
+- **2020-01-16** 📰 'Tag: 車廂站體6大亮點搶先看'
+- **2020-01-17** 📰 'Tag: 張斯綱'
+- **2020-01-17** 🗳️ 'Tag: 選舉'
+- **2020-01-17** 📰 'Tag: 輿論環境'
+- **2020-01-17** 📰 'Tag: 王小姐'
+- **2020-01-17** 📰 'Tag: 中國隱匿武漢肺炎嚴重程度'
+- **2020-01-17** 📰 'Tag: 英專家指中國武漢肺炎恐已1700人感染'
+- **2020-01-17** 📰 'Tag: 倫敦政經學院發文賀連任'
+- **2020-01-17** 📰 'Tag: 參議院審理時程'
+- **2020-01-17** 📰 'Tag: 小英推文：以身為LSE博士為榮！'
+- **2020-01-18** 📰 'Tag: 回應中緬聯合聲明'
+- **2020-01-18** 📰 'Tag: 台語飛上天'
+- **2020-01-18** 📰 'Tag: 蘇貞昌：台灣不接受一國兩制'
+- **2020-01-18** 📰 'Tag: 罷韓達標'
+- **2020-01-18** 📰 'Tag: 台灣是台灣 非中華人民共和國一部分'
+- **2020-01-18** 📰 'Tag: 澳洲學者 主張台灣理應成為正常國家'
+- **2020-01-18** 📰 'Tag: 改變中的緬甸'
+- **2020-01-19** 🏛️ 'Tag: 國民黨青壯派與網友討論兩岸定位'
+- **2020-01-19** 📰 'Tag: 拜'
+- **2020-01-19** 📰 'Tag: 罷韓二階段'
+- **2020-01-19** 📰 'Tag: 果菜市場'
+- **2020-01-19** 📰 'Tag: 滾出高雄'
+- **2020-01-19** 📰 'Tag: 罷韓四君子30天拚30萬連署'
+- **2020-01-19** 📰 'Tag: 陳隆開講'
+- **2020-01-19** 📰 'Tag: 陳柏維'
+- **2020-01-19** 📰 'Tag: 美軍參謀長聯席會議副主席、空軍上將海騰(General John Hyten)'
+- **2020-01-19** 📰 'Tag: 中選會：相信高市府會依法辦理'
+- **2020-01-19** 📰 'Tag: 腰斬'
+- **2020-01-19** 📰 'Tag: 中國國民黨困在內鬥中'
+- **2020-01-19** 📰 'Tag: 政治不要太熱'
+- **2020-01-19** 📰 'Tag: 香港民眾「天下制裁」集會'
+- **2020-01-19** 📰 'Tag: 獨立國家'
+- **2020-01-19** 📰 'Tag: 科學界十大突破'
+- **2020-01-20** 📰 'Tag: 英習會'
+- **2020-01-20** 📰 'Tag: 勝選拿817萬票'
+- **2020-01-20** 📰 'Tag: 蔡總統感性談父親'
+- **2020-01-20** 📰 'Tag: 新疆種族滅絕正在發生'
+- **2020-01-20** 📰 'Tag: 流亡記者'
+- **2020-01-20** 📰 'Tag: 揭發新疆再教育營'
+- **2020-01-20** 📰 'Tag: 紐時挺民主黨初選支持華倫與克羅布查'
+- **2020-01-20** 🏥 'Tag: 中國隱匿'
+- **2020-01-20** 🏥 'Tag: 出國不出省'
+- **2020-01-21** 📰 'Tag: 鳴槍救黨'
+- **2020-01-21** 📰 'Tag: 詐貸386億'
+- **2020-01-21** 📰 'Tag: 外國人當“美國人的爹”將不再容易'
+- **2020-01-21** 🏥 'Tag: 美國境內出現新型冠狀病毒感染病例'
+- **2020-01-21** 📰 'Tag: 北院裁定楊文虎羈押禁見'
+- **2020-01-21** 📰 'Tag: 潤寅案'
+- **2020-01-21** 🏥 'Tag: 台商返台確診武漢肺炎'
+- **2020-01-21** 🏥 'Tag: 是重大警訊'
+- **2020-01-21** 📰 'Tag: 潛逃美國'
+- **2020-01-21** 📰 'Tag: 楊文虎遭押解歸案'
+- **2020-01-21** 📰 'Tag: 赴美生子面臨“動刀”'
+- **2020-01-21** 🏥 'Tag: 全球首例非中國籍病患'
+- **2020-01-22** 📰 'Tag: 敗選'
+- **2020-01-22** 📰 'Tag: 抗SARS經驗'
+- **2020-01-22** 📰 'Tag: 執政團隊'
+- **2020-01-22** 📰 'Tag: 酈英傑期許台美更多可能'
+- **2020-01-22** 📰 'Tag: 美國務院盼世衛納入台灣'
+- **2020-01-22** 📰 'Tag: 武漢團'
+- **2020-01-22** 📰 'Tag: 效法基進黨反串韓粉支持草包選黨主席'
+- **2020-01-22** 📰 'Tag: AIT賀歲影片'
+- **2020-01-22** 📰 'Tag: 促轉會促國民黨速移交蔣中正批簽公文'
+- **2020-01-22** 📰 'Tag: 促轉會籲應取平衡點'
+- **2020-01-22** 📰 'Tag: 調查局延長林宅血案保密'
+- **2020-01-23** 📰 'Tag: 英眼部隊'
+- **2020-01-23** 📰 'Tag: 打蟑螂'
+- **2020-01-23** 📰 'Tag: 精準報票'
+- **2020-01-23** 📰 'Tag: 年輕人的怒吼'
+- **2020-01-23** 📰 'Tag: 魯蛇對決'
+- **2020-01-23** 📰 'Tag: 美CDC升高中國旅遊警示 非必要避免前往'
+- **2020-01-23** 🏥 'Tag: 機場發現疑似病患直接裝箱押走'
+- **2020-01-23** 📰 'Tag: 小英新時代'
+- **2020-01-24** 📰 'Tag: 川普經常性並明目張膽濫用職權'
+- **2020-01-24** 🏥 'Tag: 台灣除夕新增兩名新型冠狀病毒肺炎確診病例'
+- **2020-01-24** 📰 'Tag: 眾院民主黨人'
+- **2020-01-24** 📰 'Tag: 鼠年向錢看'
+- **2020-01-24** 📰 'Tag: 總統：團結渡過武漢肺炎挑戰'
+- **2020-01-24** 📰 'Tag: 紫南宮錢母'
+- **2020-01-24** 📰 'Tag: 歐盟高官簽了'
+- **2020-01-24** 🏥 'Tag: 新冠病毒突破法國防線'
+- **2020-01-24** 🏥 'Tag: 美國發現第二例武漢病毒病例63例潛在者'
+- **2020-01-24** 📰 'Tag: 謝票演唱會'
+- **2020-01-24** 📰 'Tag: 史明文物館 明年六月台日開館'
+- **2020-01-24** 📰 'Tag: 疫情時序表'
+- **2020-01-24** 📰 'Tag: 排擠台灣'
+- **2020-01-24** 📰 'Tag: 川普法律團隊積極辯護'
+- **2020-01-24** 📰 'Tag: 迎財神'
+- **2020-01-24** 📰 'Tag: 彈劾陳述'
+- **2020-01-24** 📰 'Tag: 武漢肺炎全球確診破1300例'
+- **2020-01-24** 📰 'Tag: 求財小物'
+- **2020-01-25** 📰 'Tag: 小英變老鷹'
+- **2020-01-25** 📰 'Tag: 命理老師'
+- **2020-01-25** 🗳️ 'Tag: 國運'
+- **2020-01-25** 📰 'Tag: 舞廳店休消毒防疫'
+- **2020-01-25** 📰 'Tag: 習近平坦承加快蔓延形勢嚴重'
+- **2020-01-25** 📰 'Tag: 中國30省區確診武漢肺炎'
+- **2020-01-25** 📰 'Tag: 新春開運術'
+- **2020-01-25** 📰 'Tag: 嚴厲防控措施涵蓋人口已超過12億'
+- **2020-01-25** 📰 'Tag: 台商隱匿去舞廳'
+- **2020-01-25** 📰 'Tag: 爺嬤出門?迌'
+- **2020-01-25** 📰 'Tag: 罹武漢肺炎台商不誠實'
+- **2020-01-25** 🏥 'Tag: 美22個州出現疑似新型冠狀病毒病例'
+- **2020-01-25** 🏥 'Tag: 病毒可能來自武漢當地實驗室'
+- **2020-01-25** 📰 'Tag: 政治與人命的大輪迴'
+- **2020-01-25** 📰 'Tag: 可憐哪！中國人民'
+- **2020-01-25** 📰 'Tag: Wecare改編新年歌曲為初五二階罷韓暖身'
+- **2020-01-25** 📰 'Tag: 華倫慘跌至15%'
+- **2020-01-25** 📰 'Tag: 國民黨是一言堂'
+- **2020-01-25** 📰 'Tag: 違者重懲並強制隔離'
+- **2020-01-25** 📰 'Tag: 夜弄土地公'
+- **2020-01-26** 📰 'Tag: 川普親口下令開除駐烏克蘭大使'
+- **2020-01-26** 📰 'Tag: 選後大布局'
+- **2020-01-26** 📰 'Tag: 黨主席'  (2×)
+- **2020-01-26** 🏥 'Tag: 香港風雲'
+- **2020-01-26** 🏥 'Tag: 染病台商'
+- **2020-01-26** 🏥 'Tag: “武漢病毒“疫苗開發至少需半年時間'
+- **2020-01-26** 📰 'Tag: Cadence Design Systems Inc.'
+- **2020-01-26** 📰 'Tag: 全球防疫作戰'
+- **2020-01-26** 📰 'Tag: Atlassian Corp.'
+- **2020-01-26** 📰 'Tag: 藍營青年出走'
+- **2020-01-26** 📰 'Tag: 前NBA球星Kobe Bryant搭直升機墜毀喪命'
+- **2020-01-26** 📰 'Tag: 分裂危機'
+- **2020-01-26** 📰 'Tag: 確診人數脫離現實'
+- **2020-01-26** 📰 'Tag: 世衛秘書長飛北京急商對策'
+- **2020-01-26** 🏥 'Tag: 武漢肺炎續擴散'
+- **2020-01-26** 📰 'Tag: 金礦世家'
+- **2020-01-26** 📰 'Tag: 豬哥亮'
+- **2020-01-27** 📰 'Tag: 滯留武漢台人求助'
+- **2020-01-27** 📰 'Tag: 台灣擬推案參與WHO'
+- **2020-01-27** 📰 'Tag: 世衛錯評武漢肺炎風險'
+- **2020-01-27** 📰 'Tag: 世衛執委會2月3日登場'
+- **2020-01-27** 📰 'Tag: 顢頇官員說瞎話'
+- **2020-01-27** 📰 'Tag: 黑色洋紫荊'
+- **2020-01-27** 🏥 'Tag: 領銜人'
+- **2020-01-27** 📰 'Tag: 川普將公布中東和平計畫'
+- **2020-01-27** 📰 'Tag: 說好協查但毫不配合'
+- **2020-01-27** 🏥 'Tag: 罷韓二階段連署啟動'
+- **2020-01-27** 📰 'Tag: 公眾憤怒中國官員管治能力低下'
+- **2020-01-27** 📰 'Tag: 美國會參、眾議員憤怒譴責'
+- **2020-01-27** 📰 'Tag: 武漢市長把隱瞞疫情的責任推給李克強？'
+- **2020-01-27** 📰 'Tag: 武漢市長'
+- **2020-01-27** 📰 'Tag: 巴勒斯坦反對'
+- **2020-01-27** 📰 'Tag: 中國改革開放'
+- **2020-01-28** 📰 'Tag: Bolton若作證可能使彈劾審判出現變化'
+- **2020-01-28** 📰 'Tag: 中國千人計畫踢鐵板'
+- **2020-01-28** 🏥 'Tag: 數百台人受困湖北狀態堪憂'
+- **2020-01-28** 📰 'Tag: 國民黨主席補選30日開跑'
+- **2020-01-28** 📰 'Tag: 高碩泰盼美派閣員參加總統就職'
+- **2020-01-28** 📰 'Tag: 重點分析'
+- **2020-01-28** 📰 'Tag: 中東“世紀協議”'
+- **2020-01-28** 📰 'Tag: 郝龍斌江啟臣對決'
+- **2020-01-28** 📰 'Tag: 台大清華交大成大4校上榜'
+- **2020-01-28** 📰 'Tag: 納坦尼亞胡'
+- **2020-01-28** 📰 'Tag: 護藏傳佛教宗教自由'
+- **2020-01-28** 🏥 'Tag: 家庭內群聚感染'
+- **2020-01-28** 📰 'Tag: 恐導致飛沫傳染'
+- **2020-01-29** 🏥 'Tag: 冠狀病毒疫情可能破壞中國經濟增長'
+- **2020-01-29** 🏥 'Tag: 美聯儲主席鮑威爾'
+- **2020-01-29** 📰 'Tag: 背離國際呼聲'
+- **2020-01-29** 📰 'Tag: 世衛武漢肺炎緊急會議再排除台灣'
+- **2020-01-29** 📰 'Tag: 美國重新規劃戰力應對中國威脅'
+- **2020-01-29** 📰 'Tag: 民進黨團一致支持游錫堃擔任立法院長'
+- **2020-01-29** 🏥 'Tag: 患者家門被封死'
+- **2020-01-29** 🏥 'Tag: 將五星旗改成5枚冠狀病毒'
+- **2020-01-29** 📰 'Tag: 大紐約區台灣同鄉會會長完成連署再趕飛機'
+- **2020-01-29** 📰 'Tag: 罷韓二階連署'
+- **2020-01-29** 📰 'Tag: 美海軍部長稱航母太貴目標太大'
+- **2020-01-29** 🏥 'Tag: 丹麥總理：我們有言論自由'
+- **2020-01-29** 📰 'Tag: 受自由紅利政見感召'
+- **2020-01-29** 🏥 'Tag: 湖北廣東等重災區病床不足'
+- **2020-01-29** 📰 'Tag: 台灣人受困中國武漢'
+- **2020-01-29** 🗳️ 'Tag: 陳明文支持柯建銘續任'
+- **2020-01-29** 📰 'Tag: 英歐1月31日分手'
+- **2020-01-29** 📰 'Tag: 緊抓軍權'
+- **2020-01-29** 📰 'Tag: 堅持要罷韓'
+- **2020-01-29** 🏥 'Tag: 不可告人的陰謀'
+- **2020-01-29** 🏥 'Tag: 美國撤僑'
+- **2020-01-29** 📰 'Tag: 布萊恩遺體'
+- **2020-01-29** 📰 'Tag: 德國商報握有華為與中國當局合作證據'
+- **2020-01-29** 📰 'Tag: 疫情從可控到失控的三十天'
+- **2020-01-29** 🏥 'Tag: 江峰漫談'
+- **2020-01-29** 📰 'Tag: 美自武漢肺炎疫區撤195人'
+- **2020-01-29** 📰 'Tag: 「不必扯別的」'
+- **2020-01-30** 📰 'Tag: 武漢肺炎增急迫性'
+- **2020-01-30** 📰 'Tag: 人道考量'
+- **2020-01-30** 📰 'Tag: 送武漢僑民至離島隔離計畫惹議'
+- **2020-01-30** 📰 'Tag: 本土型案例'
+- **2020-01-30** 📰 'Tag: 包機撤僑'
+- **2020-01-30** 📰 'Tag: SAR'
+- **2020-01-30** 📰 'Tag: WHO要有台灣參與空間'
+- **2020-01-30** 📰 'Tag: 杜魯道公開挺台成WHO觀察員'
+- **2020-01-30** 📰 'Tag: 藝人舔共'
+- **2020-01-30** 📰 'Tag: 陳副總統宣導戴口罩優先順序'
+- **2020-01-30** 📰 'Tag: 澳洲政府說別無選擇'
+- **2020-01-30** 📰 'Tag: 武漢肺炎衝擊經濟'
+- **2020-01-30** 📰 'Tag: 傳中共政治局知疫情或亡黨'
+- **2020-01-30** 📰 'Tag: 土耳其救難隊PO中華民國國旗 用中文感謝台灣伸援'
+- **2020-01-30** 🏥 'Tag: 冠狀病毒疫情'
+- **2020-01-30** 📰 'Tag: 世衛宣告武漢肺炎為國際緊急事態'
+- **2020-01-30** 📰 'Tag: 股神巴菲特棄守報業'
+- **2020-01-30** 🏛️ 'Tag: 川普總統成立工作小組'
+- **2020-01-31** 📰 'Tag: 新國會報到'
+- **2020-01-31** 🏥 'Tag: NATMA'
+- **2020-01-31** 🏥 'Tag: 黃重德醫師'
+- **2020-01-31** 📰 'Tag: 公衛問題'
+- **2020-01-31** 📰 'Tag: Feb. 2020 Newsletter'
+- **2020-01-31** 🏥 'Tag: 健康講座'
+- **2020-01-31** 🏥 'Tag: 『認識武漢肺炎』'
+- **2020-01-31** 📰 'Tag: 美軍B-52H轟炸機 再傳進入台北飛航情報區'
+- **2020-01-31** 📰 'Tag: 堃昌配'
+- **2020-01-31** 📰 'Tag: 美參議員致函世衛促台成觀察員並提供疫情資訊'
+- **2020-01-31** 📰 'Tag: 美國日本警告本國公民勿前往中國旅行'
+- **2020-01-31** 📰 'Tag: 舔中藝人'
+- **2020-01-31** 📰 'Tag: 經濟學人封面'
+- **2020-01-31** 📰 'Tag: 武漢肺炎防疫'
+- **2020-01-31** 📰 'Tag: 瘋搶口罩'
+- **2020-01-31** 📰 'Tag: 國際公衛緊急事件'
+- **2020-01-31** 📰 'Tag: 疫情飆升'
+- **2020-01-31** 📰 'Tag: 黨進民退'
+- **2020-01-31** 🏥 'Tag: 武漢肺炎中國已259死 確診病例破萬'
+- **2020-01-31** 📰 'Tag: 示威者阻塞國會大廈階梯'
+- **2020-01-31** 📰 'Tag: 死亡空城'
+- **2020-01-31** 📰 'Tag: 五星旗口罩'
+- **2020-01-31** 📰 'Tag: 5週後日產千萬片'
+- **2020-02-01** 📰 'Tag: 雪茄'
+- **2020-02-01** 📰 'Tag: 全球確診14554例'
+- **2020-02-01** 📰 'Tag: ，吳釗燮：WHO住在平行時空嗎'
+- **2020-02-01** 📰 'Tag: 正確勤洗手'
+- **2020-02-01** 📰 'Tag: 台灣遭禁飛義大利'
+- **2020-02-01** 📰 'Tag: WHO一再讚揚中國防疫'
+- **2020-02-01** 📰 'Tag: 國安團隊啟動緊急處理'
+- **2020-02-01** 📰 'Tag: 波士頓出現確診首例'
+- **2020-02-01** 📰 'Tag: 美國支持台灣國際參與'
+- **2020-02-01** 📰 'Tag: 全美第八起'
+- **2020-02-01** 📰 'Tag: 民眾向白宮請願籲美國挺台灣加入世衛組織'
+- **2020-02-01** 📰 'Tag: 菸田'
+- **2020-02-01** 📰 'Tag: 台航班無辜被禁'
+- **2020-02-01** 📰 'Tag: 口罩統一配給'
+- **2020-02-02** 📰 'Tag: 邵大倫'
+- **2020-02-02** 📰 'Tag: 廣播金鐘獎'
+- **2020-02-02** 📰 'Tag: 南部瘟疫'
+- **2020-02-02** 📰 'Tag: 籤詩預言'
+- **2020-02-02** 📰 'Tag: 皮膚科'
+- **2020-02-02** 📰 'Tag: 滯留台人返台包機'
+- **2020-02-02** 📰 'Tag: 紐西蘭獨立媒體致歉'
+- **2020-02-02** 📰 'Tag: 火神山醫院'
+- **2020-02-02** 📰 'Tag: 米糕'
+- **2020-02-02** 📰 'Tag: 登機'
+- **2020-02-02** 📰 'Tag: 第二大疫區'
+- **2020-02-02** 📰 'Tag: 川普說美已控制住肺炎疫情'
+- **2020-02-02** 📰 'Tag: 美女獸醫'
+- **2020-02-02** 📰 'Tag: 宮殿古蹟'
+- **2020-02-02** 📰 'Tag: 武漢台協'
+- **2020-02-02** 📰 'Tag: 兩岸恩怨情仇'
+- **2020-02-02** 🏥 'Tag: 總統籲聯合國正視台灣健康權益'
+- **2020-02-02** 📰 'Tag: 油飯'
+- **2020-02-02** 📰 'Tag: 美國確診首例武漢肺炎康復中'
+- **2020-02-02** 🏥 'Tag: 中國確診新冠狀病毒17238例'
+- **2020-02-02** 📰 'Tag: 賴清德應邀赴華府 出席全美祈禱早餐會'
+- **2020-02-02** 📰 'Tag: 美國通報第9例確診'
+- **2020-02-02** 📰 'Tag: 誤將台灣納入中國地圖'
+- **2020-02-02** 🗳️ 'Tag: 立法院長選舉藍委投錯票'
+- **2020-02-02** 📰 'Tag: 浴室'
+- **2020-02-02** 📰 'Tag: 口罩戰爭'
+- **2020-02-03** 📰 'Tag: 不讓台灣餐與WHO'
+- **2020-02-03** 📰 'Tag: 蘇貞昌籲留給需要者'
+- **2020-02-03** 📰 'Tag: 陸委會續協調百名台商回台'
+- **2020-02-03** 📰 'Tag: 5日第二波返台'
+- **2020-02-03** 📰 'Tag: 中國封國'
+- **2020-02-03** 📰 'Tag: 香港醫護工會罷工'
+- **2020-02-03** 📰 'Tag: 買口罩實名制'
+- **2020-02-03** 📰 'Tag: 武漢台商返台'
+- **2020-02-03** 📰 'Tag: 世衛秘書長籲勿限制旅行'
+- **2020-02-03** 📰 'Tag: 中國施壓世衛'
+- **2020-02-03** 📰 'Tag: 賴清德心繫疫情'
+- **2020-02-03** 📰 'Tag: 首架武漢包機返台'
+- **2020-02-03** 📰 'Tag: 要求公開武漢肺炎訊息'
+- **2020-02-03** 📰 'Tag: 溫州封城'
+- **2020-02-03** 📰 'Tag: 解放軍拒絕出動防疫嗎？'
+- **2020-02-03** 📰 'Tag: 製造和散播恐慌'
+- **2020-02-03** 📰 'Tag: 家長崩潰'
+- **2020-02-03** 📰 'Tag: 第一批247人返台 5人送負壓隔離'
+- **2020-02-03** 📰 'Tag: 5日包機非事實'
+- **2020-02-03** 📰 'Tag: 拒列武漢肺炎國際緊急事件'
+- **2020-02-03** 📰 'Tag: 全民搶戴口罩'
+- **2020-02-03** 📰 'Tag: 中國指責美國不提供實質幫助'
+- **2020-02-04** 📰 'Tag: 川普總統2020國情咨文即時影音'
+- **2020-02-04** 📰 'Tag: 美參院外委會主席見賴清德'
+- **2020-02-04** 📰 'Tag: 網友造謠'
+- **2020-02-04** 📰 'Tag: 廣東小鎮鼓勵舉報湖北人'
+- **2020-02-04** 📰 'Tag: 香港醫護繼續罷工要求全面封關'
+- **2020-02-04** 📰 'Tag: 香港首例武漢肺炎患者死亡'
+- **2020-02-04** 📰 'Tag: 「無影」亮相費人猜疑'
+- **2020-02-04** 📰 'Tag: 政治局常委會'
+- **2020-02-04** 📰 'Tag: 府院關鍵3決策'
+- **2020-02-04** 📰 'Tag: 台灣國際處境'
+- **2020-02-04** 📰 'Tag: 武漢肺炎包機台商確診第11例'
+- **2020-02-04** 📰 'Tag: 若習近平被感染'
+- **2020-02-04** 🏥 'Tag: 不當冠名'
+- **2020-02-04** 📰 'Tag: 東市場的下一步'
+- **2020-02-04** 🏥 'Tag: 對抗新型冠狀病毒'
+- **2020-02-04** 📰 'Tag: 包機返國'
+- **2020-02-04** 🏥 'Tag: 中國干擾史瓦帝尼WHO為台發言'
+- **2020-02-04** 🕯️ 'Tag: 《不能沒有你》'
+- **2020-02-04** 📰 'Tag: 武漢台商返國'
+- **2020-02-04** 📰 'Tag: 中國人恐慌'
+- **2020-02-04** 📰 'Tag: 口罩怎麼用'
+- **2020-02-04** 📰 'Tag: 口罩當賞金'
+- **2020-02-04** 📰 'Tag: 吳斯'
+- **2020-02-04** 🕯️ 'Tag: 電影分享'
+- **2020-02-04** 📰 'Tag: WHO武漢肺炎疫情地圖排除台灣'
+- **2020-02-04** 📰 'Tag: 帳篷隔離'
+- **2020-02-04** 📰 'Tag: 阿爸的親情故事'
+- **2020-02-05** 📰 'Tag: 中國封城'
+- **2020-02-05** 📰 'Tag: 疫情延燒迅速'
+- **2020-02-05** 📰 'Tag: NATMA 南加州分會'
+- **2020-02-05** 📰 'Tag: 中國民眾熱議習近平應承擔多少責任'
+- **2020-02-05** 📰 'Tag: 海基會擬第2批200人返台名單'
+- **2020-02-05** 📰 'Tag: 中國正在上演「東南自保」？'
+- **2020-02-05** 📰 'Tag: 北美洲台灣婦女會南加分會年會'
+- **2020-02-05** 📰 'Tag: 徐正文淚裡不是人情味而是滿滿中共味'
+- **2020-02-06** 📰 'Tag: 抗疫新藥'
+- **2020-02-06** 📰 'Tag: 台灣新增'
+- **2020-02-06** 📰 'Tag: WHO執委會聚焦台灣'
+- **2020-02-06** 📰 'Tag: 送軍事基地隔離'
+- **2020-02-06** 📰 'Tag: 中國對美間諜活動無處不在'
+- **2020-02-06** 📰 'Tag: 重慶市緊急採購口罩 被雲南大理攔截徵用'
+- **2020-02-06** 📰 'Tag: 展開約千項調查行動'
+- **2020-02-06** 📰 'Tag: 英武漢肺炎宣導片使用繁體中文'
+- **2020-02-06** 🏥 'Tag: 議員質疑中國資訊不透明、WHO缺乏公信力'
+- **2020-02-06** 📰 'Tag: 武漢台商協會'
+- **2020-02-06** 🏥 'Tag: 最早揭發中國疫情的醫師李文亮染武漢肺炎病逝?病危?'
+- **2020-02-06** 📰 'Tag: WHO資訊不確實造成全球武漢肺炎疫情處理錯誤'
+- **2020-02-06** 📰 'Tag: 武漢肺炎的吹哨者李文亮醫師'
+- **2020-02-06** 📰 'Tag: 傳統台獨的迷失'
+- **2020-02-06** 📰 'Tag: 邀請人傅希秋說內幕'
+- **2020-02-06** 📰 'Tag: 罷韓遊行布條變身環保袋'
+- **2020-02-06** 📰 'Tag: 人情包機'
+- **2020-02-06** 📰 'Tag: 美日歐及友邦齊發聲'
+- **2020-02-06** 📰 'Tag: 舉國大疫，中國人你憤怒了嗎？'
+- **2020-02-06** 📰 'Tag: 逃命班機'
+- **2020-02-06** 📰 'Tag: 綠委貼紙'
+- **2020-02-07** 📰 'Tag: 醫護連署'
+- **2020-02-07** 📰 'Tag: 遊義夫妻的兒子也確診'
+- **2020-02-07** 📰 'Tag: 封中國'
+- **2020-02-07** 📰 'Tag: 待援者'
+- **2020-02-07** 📰 'Tag: 中共生化統戰'
+- **2020-02-07** 📰 'Tag: 防疫破口'
+- **2020-02-07** 📰 'Tag: 防疫荒腔走板'
+- **2020-02-07** 📰 'Tag: 蕭永瑞神隱'
+- **2020-02-07** 🏥 'Tag: 人道撤僑'
+- **2020-02-07** 📰 'Tag: 陳秋實去哪兒了？'
+- **2020-02-07** 📰 'Tag: 救命班機'
+- **2020-02-07** 📰 'Tag: 小三通暫停客船'
+- **2020-02-07** 📰 'Tag: 李文亮去世引公憤'
+- **2020-02-07** 📰 'Tag: 傳美國擬撤船上僑胞'
+- **2020-02-07** 📰 'Tag: 人球'
+- **2020-02-07** 🏥 'Tag: 病毒聽黨的話'
+- **2020-02-07** 📰 'Tag: 寶瓶星'
+- **2020-02-07** 🏥 'Tag: 中國「封城」進階到「封省」'
+- **2020-02-07** 📰 'Tag: 吉利德瑞'
+- **2020-02-07** 📰 'Tag: 研議大三通跟進'
+- **2020-02-07** 📰 'Tag: 政治領導'
+- **2020-02-08** 📰 'Tag: 旅行社'
+- **2020-02-08** 🕯️ 'Tag: 方斌批中共愚蠢害人'
+- **2020-02-08** 📰 'Tag: 台灣可「線上參與」'
+- **2020-02-08** 📰 'Tag: 美國民眾淡定'
+- **2020-02-08** 📰 'Tag: 美國與中國正在進行全方位的競爭'
+- **2020-02-08** 📰 'Tag: 李登輝喝牛奶嗆到送醫'
+- **2020-02-08** 📰 'Tag: 巴厘島 數千中國遊客選擇留下'
+- **2020-02-08** 🏥 'Tag: 內需經濟'
+- **2020-02-08** 📰 'Tag: WHO悼念李文亮卻刪文'
+- **2020-02-08** 📰 'Tag: 防疫作戰'
+- **2020-02-08** 🕯️ 'Tag: 2020年第6屆「NATPA 廖述宗教授紀念獎」接受推薦'
+- **2020-02-08** 🏥 'Tag: 防疫專家'
+- **2020-02-08** 📰 'Tag: 中國官方'
+- **2020-02-08** 📰 'Tag: 武漢肺炎全球會議'
+- **2020-02-08** 📰 'Tag: 川普政府傳將大增AI研發預算'
+- **2020-02-08** 📰 'Tag: 外交部持續爭取參與WHA'
+- **2020-02-08** 📰 'Tag: 台灣貼紙'
+- **2020-02-08** 📰 'Tag: 鑽石公主號台灣旅客盼與美籍旅客一起撤離'
+- **2020-02-08** 🏥 'Tag: 溫州市民暴動'
+- **2020-02-08** 📰 'Tag: WHO惹怒全球網友'
+- **2020-02-08** 📰 'Tag: 林昶佐先維持無黨方式運作'
+- **2020-02-08** 📰 'Tag: 高雄市立大同醫院「音樂樓梯」'
+- **2020-02-08** 📰 'Tag: 登上 BBC 音樂雜誌'
+- **2020-02-09** 📰 'Tag: 重點地區來滬一律隔離14天'
+- **2020-02-09** 📰 'Tag: 入圍暨得獎名單'
+- **2020-02-09** 🏥 'Tag: WHO疫情初期稱讚中國'
+- **2020-02-09** 📰 'Tag: 兩岸矛盾'
+- **2020-02-09** 📰 'Tag: 共機24小時內再度擾台'
+- **2020-02-09** 📰 'Tag: 無差別防疫'
+- **2020-02-09** 📰 'Tag: 川普總統將提新財年預算'
+- **2020-02-09** 📰 'Tag: 共軍不顧武漢肺炎還遠海長訓'
+- **2020-02-09** 📰 'Tag: 賴清德訪華府'
+- **2020-02-09** 📰 'Tag: 鼠年'
+- **2020-02-09** 📰 'Tag: 國軍F-16掛載實彈監控伴飛'
+- **2020-02-09** 📰 'Tag: 巨星推手'
+- **2020-02-09** 📰 'Tag: 民主黨初選第2役'
+- **2020-02-09** 📰 'Tag: 美駐日內瓦大使WHO發言挺台'
+- **2020-02-09** 📰 'Tag: 奧斯卡金像獎第92屆'
+- **2020-02-09** 📰 'Tag: 侯昌明'
+- **2020-02-09** 📰 'Tag: 奪最佳影片等4大獎'
+- **2020-02-09** 📰 'Tag: 賴清德對政府防疫能力有信心'
+- **2020-02-09** 📰 'Tag: 水的源流'
+- **2020-02-09** 📰 'Tag: 曾雅蘭'
+- **2020-02-10** 📰 'Tag: 菲駐台代表發函澄清表歉意'
+- **2020-02-10** 📰 'Tag: WHO專家論壇'
+- **2020-02-10** 📰 'Tag: 預算案放棄減赤字'
+- **2020-02-10** 🏥 'Tag: 年長與慢性病乘客有望11日下船'
+- **2020-02-10** 📰 'Tag: 美取消20多國所享WTO優惠'
+- **2020-02-10** 📰 'Tag: 竊取逾億個人資料'
+- **2020-02-10** 📰 'Tag: 習近平到地方視察疫情'
+- **2020-02-10** 🏥 'Tag: 迷你武漢'
+- **2020-02-10** 📰 'Tag: 要不要戴口罩?'
+- **2020-02-10** 📰 'Tag: 中國武漢百步亭社區感染嚴重'
+- **2020-02-10** 📰 'Tag: 川普對美國經濟過度樂觀'
+- **2020-02-10** 📰 'Tag: 宋江拳'
+- **2020-02-10** 🏥 'Tag: 大逃亡黑數'
+- **2020-02-10** 📰 'Tag: 未禁止台灣人入境'
+- **2020-02-10** 📰 'Tag: 堅守台灣主權'
+- **2020-02-10** 🏥 'Tag: 醫護口罩11日起倍增至170萬片'
+- **2020-02-10** 📰 'Tag: 大飛機技術'
+- **2020-02-10** 📰 'Tag: 強身抗疫'
+- **2020-02-10** 🏥 'Tag: 中國工廠開工'
+- **2020-02-10** 📰 'Tag: 地點不是武漢而是北京'
+- **2020-02-10** 🏥 'Tag: 病毒權威之死'
+- **2020-02-11** 📰 'Tag: 全民拚防疫 絕不是靠運氣'
+- **2020-02-11** 📰 'Tag: 中配子女入境政策指揮中心宣布取消'
+- **2020-02-11** 📰 'Tag: 作曲家呂泉生'
+- **2020-02-11** 📰 'Tag: 陳時中：選了國籍就要承擔'
+- **2020-02-11** 📰 'Tag: 川普疑為護短施壓司法部'
+- **2020-02-11** 📰 'Tag: 陸配子女符合2條件才可來台'
+- **2020-02-11** 📰 'Tag: 府院2關卡嚴防社區感染'
+- **2020-02-11** 📰 'Tag: 警示中共動亂'
+- **2020-02-11** 📰 'Tag: 中疫失控'
+- **2020-02-11** 📰 'Tag: 台灣政局動向'
+- **2020-02-11** 📰 'Tag: 所得捐衛福部防疫'
+- **2020-02-11** 🏥 'Tag: 病毒來源'
+- **2020-02-11** 📰 'Tag: 美航母最強戰鬥群進入西太平洋'
+- **2020-02-11** 📰 'Tag: 解放軍'  (5×)
+- **2020-02-11** 📰 'Tag: 武漢肺炎WHO定名COVID-19'
+- **2020-02-11** 📰 'Tag: 我防空飛彈部隊一路緊盯'
+- **2020-02-12** 📰 'Tag: 高齡者有望下船隔離'
+- **2020-02-12** 🗳️ 'Tag: 體現民主意義'
+- **2020-02-12** 📰 'Tag: 中國吃豆腐硬套“一中”'
+- **2020-02-12** 📰 'Tag: 鑽石公主號新增44例累計218確診'
+- **2020-02-12** 📰 'Tag: 數碼威脅'
+- **2020-02-12** 📰 'Tag: 入境政策'
+- **2020-02-12** 📰 'Tag: 共軍動員'
+- **2020-02-12** 📰 'Tag: 山寨實力'
+- **2020-02-12** 📰 'Tag: 經濟部力拚日產千萬片口罩'
+- **2020-02-12** 📰 'Tag: 未來的挑戰'
+- **2020-02-12** 📰 'Tag: 習近平叫停過度防控措施'
+- **2020-02-12** 📰 'Tag: 菲律賓實施旅遊禁令'
+- **2020-02-12** 🏥 'Tag: 美國撤僑專機第2起武漢肺炎病例'
+- **2020-02-12** 📰 'Tag: 小英與習近平的抗疫運氣大PK'
+- **2020-02-12** 📰 'Tag: 武漢「大排查」霹靂抓捕中'
+- **2020-02-12** 📰 'Tag: 酈英傑拜會'
+- **2020-02-12** 📰 'Tag: 黑洞武漢'
+- **2020-02-12** 📰 'Tag: 陳時中喊'
+- **2020-02-12** 📰 'Tag: 政院拍板 500億助觀光交通業振興紓困'
+- **2020-02-12** 📰 'Tag: 頭號公敵'
+- **2020-02-12** 📰 'Tag: 陸委會臉書道歉'
+- **2020-02-12** 📰 'Tag: 台灣線上參與世衛會議'
+- **2020-02-12** 📰 'Tag: 武漢肺炎疫情讓各界懷疑中國能否成為負責任大國'
+- **2020-02-12** 🏥 'Tag: 美參院決議紀念新冠病毒“吹哨人”李文亮'
+- **2020-02-12** 📰 'Tag: 韓粉害了韓國瑜'
+- **2020-02-12** 📰 'Tag: 湖北十堰張灣區實施戰時管制'
+- **2020-02-12** 📰 'Tag: 中國各地復工陷入兩難'
+- **2020-02-12** 📰 'Tag: 陸配子女來台'
+- **2020-02-13** 📰 'Tag: 解放軍圍城'
+- **2020-02-13** 📰 'Tag: 美國政府調查'
+- **2020-02-13** 📰 'Tag: 白宮官員坦言失望'
+- **2020-02-13** 📰 'Tag: 軍管實驗'
+- **2020-02-13** 📰 'Tag: 額溫槍'
+- **2020-02-13** 📰 'Tag: 遭疑干預川普親信量刑'
+- **2020-02-13** 📰 'Tag: 湖北張灣區'
+- **2020-02-13** 📰 'Tag: 欠缺透明'
+- **2020-02-13** 📰 'Tag: 台灣第10例武漢肺炎確診個案可望出院'
+- **2020-02-13** 📰 'Tag: 讓台官員訪美可秀國旗'
+- **2020-02-13** 📰 'Tag: 世衛會議'
+- **2020-02-13** 📰 'Tag: 湖北及武漢領導班子大換班'
+- **2020-02-13** 📰 'Tag: 鍾南山'
+- **2020-02-14** 📰 'Tag: 高雄市長準被罷免'
+- **2020-02-14** 📰 'Tag: 中國停工'
+- **2020-02-14** 📰 'Tag: 滯留武漢'
+- **2020-02-14** 📰 'Tag: 可望有美籍專家'
+- **2020-02-14** 📰 'Tag: 小明'
+- **2020-02-14** 📰 'Tag: 就醫的兩台灣人'
+- **2020-02-14** 📰 'Tag: 不要只講風涼話'
+- **2020-02-14** 📰 'Tag: 前白宮幕僚長凱利發言挺文德曼'
+- **2020-02-14** 📰 'Tag: 毀屍滅跡'
+- **2020-02-14** 📰 'Tag: 抗生素'
+- **2020-02-14** 📰 'Tag: 馬英九批禁陸配子女入境'
+- **2020-02-14** 📰 'Tag: 100小時幕後多管道斡旋'
+- **2020-02-14** 📰 'Tag: 世衛防疫專家團赴中'
+- **2020-02-14** 📰 'Tag: 罷韓連署書逾27萬份'
+- **2020-02-14** 📰 'Tag: 地方割據'
+- **2020-02-14** 📰 'Tag: 美5大城利用流感監測系統 加強篩檢武漢肺炎'
+- **2020-02-15** 📰 'Tag: 實驗室'
+- **2020-02-15** 📰 'Tag: 衛星'
+- **2020-02-15** 📰 'Tag: 新藥'
+- **2020-02-15** 📰 'Tag: 譚德塞舔共'
+- **2020-02-15** 📰 'Tag: WHO將台灣列中國疫區歐洲105名議員要求更正'
+- **2020-02-15** 🏥 'Tag: 基因序列'
+- **2020-02-15** 📰 'Tag: 中方變卦要求運回979人'
+- **2020-02-15** 📰 'Tag: 國民黨補選主席黨員暴增'
+- **2020-02-15** 📰 'Tag: 「一邊一國」進化版'
+- **2020-02-15** 📰 'Tag: 青澀照'
+- **2020-02-15** 📰 'Tag: 下階段目標48萬'
+- **2020-02-15** 📰 'Tag: 日疫情'
+- **2020-02-15** 📰 'Tag: 大甲媽南巡'
+- **2020-02-15** 📰 'Tag: 洪湖'
+- **2020-02-15** 📰 'Tag: 江啟臣郝龍斌籲徹查'
+- **2020-02-15** 🏥 'Tag: 新病毒來襲'
+- **2020-02-15** 📰 'Tag: 菲國禁台令'
+- **2020-02-15** 📰 'Tag: 中國對世界秩序構成越來越大的威脅'
+- **2020-02-16** 📰 'Tag: 返台班機'
+- **2020-02-16** 📰 'Tag: 習近平早已介入應對疫情爆發'
+- **2020-02-16** 📰 'Tag: 生命之花'
+- **2020-02-16** 📰 'Tag: 44美國人確診武漢肺炎留日治療'
+- **2020-02-16** 📰 'Tag: 美包機接鑽石公主號公民'
+- **2020-02-16** 🏥 'Tag: 美公布武漢肺炎病毒新影像'
+- **2020-02-16** 🏥 'Tag: 美中關係脫鉤'
+- **2020-02-16** 📰 'Tag: 與行凶脫不了關係'
+- **2020-02-16** 📰 'Tag: 內華達州民主黨初選提前投票'
+- **2020-02-16** 📰 'Tag: 貝多芬生日'
+- **2020-02-16** 📰 'Tag: 罷韓連署續拚48萬份'
+- **2020-02-16** 📰 'Tag: 3Q旋風'
+- **2020-02-16** 📰 'Tag: 摩天輪影片'
+- **2020-02-16** 📰 'Tag: 武漢肺炎感染吸菸者症狀較嚴重'
+- **2020-02-16** 📰 'Tag: BBC或被全面瘦身'
+- **2020-02-16** 🏥 'Tag: 美中軍機'
+- **2020-02-16** 🏥 'Tag: T觀點'  (4×)
+- **2020-02-17** 📰 'Tag: Gilead Sciences Inc.'
+- **2020-02-17** 📰 'Tag: 日本檢疫程序'
+- **2020-02-17** 📰 'Tag: 傅崐萁黨籍案確定暫緩'
+- **2020-02-17** 📰 'Tag: 中共官方'
+- **2020-02-17** 📰 'Tag: 確診死亡'
+- **2020-02-17** 📰 'Tag: 黨刊'
+- **2020-02-17** 📰 'Tag: 美接回鑽石公主號公民'
+- **2020-02-17** 📰 'Tag: 大型監控行動'
+- **2020-02-17** 📰 'Tag: 栗戰書建議推遲人大會議'
+- **2020-02-17** 📰 'Tag: 回溯掃描'
+- **2020-02-17** 📰 'Tag: 台灣死亡首例'
+- **2020-02-17** 📰 'Tag: 川普愛嗆別人矮'
+- **2020-02-17** 📰 'Tag: 身高政治學影響白宮爭奪戰'
+- **2020-02-17** 📰 'Tag: 尊重專業'
+- **2020-02-17** 📰 'Tag: 電車'
+- **2020-02-17** 📰 'Tag: 武肺疫情'
+- **2020-02-17** 📰 'Tag: 誰說台灣是中國的一部分'
+- **2020-02-17** 📰 'Tag: 疫情地獄'
+- **2020-02-17** 🏥 'Tag: 防疫戰線'
+- **2020-02-17** 📰 'Tag: 馬英九要14億中國人都來台灣投票選總統嗎？'
+- **2020-02-17** 📰 'Tag: AbbVie Inc.'
+- **2020-02-17** 📰 'Tag: ABBV'
+- **2020-02-18** 📰 'Tag: 「借疫謀獨」'
+- **2020-02-18** 📰 'Tag: 台灣旅客'
+- **2020-02-18** 📰 'Tag: 綠島的歌'
+- **2020-02-18** 📰 'Tag: 生物安全法'
+- **2020-02-18** 📰 'Tag: 公主失控'
+- **2020-02-18** 📰 'Tag: 台灣淪陷'
+- **2020-02-18** 🏥 'Tag: 司機接觸史'
+- **2020-02-18** 📰 'Tag: 重啟賭場'
+- **2020-02-18** 📰 'Tag: 法國議員挺台灣入世衛'
+- **2020-02-18** 🏥 'Tag: 「零號病人」與病毒來源爭議'
+- **2020-02-18** 📰 'Tag: 法國衛生部長兩度以國家相稱台灣'
+- **2020-02-18** 📰 'Tag: 罷韓連署逾45萬份'
+- **2020-02-18** 🕯️ 'Tag: 40個團體邀人民上街紀念228'
+- **2020-02-18** 📰 'Tag: 染疫死者火化'
+- **2020-02-18** 📰 'Tag: 外界憂川普赦免親信'
+- **2020-02-18** 📰 'Tag: 防蟲急行軍'
+- **2020-02-18** 🕯️ 'Tag: 張富美當面批管中閔'
+- **2020-02-18** 🏥 'Tag: 社區感染'  (2×)
+- **2020-02-18** 📰 'Tag: 首例死亡'
+- **2020-02-18** 📰 'Tag: 新書揭川普瘡疤'
+- **2020-02-18** 🏥 'Tag: 染病確診'
+- **2020-02-18** 📰 'Tag: 習近平一帶一路計畫再受挫'
+- **2020-02-18** 📰 'Tag: 林宅血案前一年情治機關就有監控'
+- **2020-02-18** 📰 'Tag: 統獨傾向'
+- **2020-02-19** 📰 'Tag: 全國客家日'
+- **2020-02-19** 📰 'Tag: 解除隔離'
+- **2020-02-19** 📰 'Tag: 禁吃令'
+- **2020-02-19** 📰 'Tag: 中國用仇台轉移疫情壓力'
+- **2020-02-19** 📰 'Tag: 中國“一國兩制”已失敗'
+- **2020-02-19** 📰 'Tag: 武肺致命關鍵'
+- **2020-02-19** 🏥 'Tag: 野味'
+- **2020-02-19** 📰 'Tag: 商人有祖國'
+- **2020-02-19** 📰 'Tag: 安倍政府失策'
+- **2020-02-19** 📰 'Tag: 中國驅逐三名華爾街日報記者'
+- **2020-02-19** 📰 'Tag: 美列中國官媒為“外國使團” 有什麼影響?'
+- **2020-02-19** 📰 'Tag: 加強限制中共在美影響力'
+- **2020-02-19** 📰 'Tag: 防疫走鐘'
+- **2020-02-19** 🏥 'Tag: 中國驅逐《華爾街日報》駐華記者'
+- **2020-02-19** 📰 'Tag: 美國人撤出鑽石公主號'
+- **2020-02-19** 📰 'Tag: Innovative Industrial Properties'
+- **2020-02-19** 📰 'Tag: 屍檢'
+- **2020-02-20** 📰 'Tag: 野味市場'
+- **2020-02-20** 📰 'Tag: 公主郵輪'
+- **2020-02-20** 📰 'Tag: Is Taiwan Already An Independent Nation?'
+- **2020-02-20** 🏥 'Tag: 白牌司機感染源找到了'
+- **2020-02-20** 📰 'Tag: 對中斷航'
+- **2020-02-20** 🏥 'Tag: 浙江台商血液驗出病毒抗體'
+- **2020-02-20** 📰 'Tag: 北美醫界挺台灣參與WHO'
+- **2020-02-20** 🏥 'Tag: 流感病毒'
+- **2020-02-20** 📰 'Tag: 新藥阿比多爾'
+- **2020-02-20** 📰 'Tag: 吳斯懷為「偉大祖國」發聲'
+- **2020-02-20** 🏥 'Tag: 白牌車司機'
+- **2020-02-20** 📰 'Tag: NATMA組團赴日內瓦宣達'
+- **2020-02-21** 📰 'Tag: 女兒'
+- **2020-02-21** 📰 'Tag: 希臘人連署挺台灣參與WHO'
+- **2020-02-21** 🏥 'Tag: 武漢病毒研究所在中國搶注瑞得西韋(Remdesivir )治療新冠病毒專利'
+- **2020-02-21** 📰 'Tag: 挑釁中國'
+- **2020-02-21** 🏥 'Tag: 超級傳播者'
+- **2020-02-21** 🏥 'Tag: 中國聚集性疫情引擔憂'
+- **2020-02-22** 📰 'Tag: 國民黨主席補選逾31萬黨員具投票權'
+- **2020-02-22** 📰 'Tag: 黃復興占25%'
+- **2020-02-22** 📰 'Tag: 獨傲村夫'  (3×)
+- **2020-02-22** 📰 'Tag: Beethoven'
+- **2020-02-22** 📰 'Tag: Haydn'
+- **2020-02-23** 📰 'Tag: 何谷婷修女'
+- **2020-02-23** 📰 'Tag: 探究真相是為了未來'
+- **2020-02-23** 📰 'Tag: 二二八3新書發表'
+- **2020-02-23** 🗳️ 'Tag: “無稽之談”'
+- **2020-02-23** 🗳️ 'Tag: 美國家安全顧問'
+- **2020-02-23** 📰 'Tag: 真實的武漢在哪裡？'
+- **2020-02-23** 📰 'Tag: 弱勢家庭'
+- **2020-02-23** 📰 'Tag: 醫療需要'
+- **2020-02-24** 📰 'Tag: 蹭聲量'
+- **2020-02-24** 📰 'Tag: 國衛院完成瑞德西韋「公克級」合成'
+- **2020-02-24** 📰 'Tag: 防疫失控'
+- **2020-02-24** 📰 'Tag: 重金挖腳'
+- **2020-02-24** 📰 'Tag: 美國考慮驅逐數百名中國記者'
+- **2020-02-24** 📰 'Tag: 防疫口水'
+- **2020-02-24** 📰 'Tag: 北京打壓美媒'
+- **2020-02-24** 📰 'Tag: NSC:考慮對中國「過份行為」做出回應'
+- **2020-02-24** 🏥 'Tag: 浙江'
+- **2020-02-24** 📰 'Tag: 桂民海'
+- **2020-02-25** 📰 'Tag: 洪德仁醫師'
+- **2020-02-25** 📰 'Tag: #橋載風情'
+- **2020-02-25** 📰 'Tag: 陳木榮'
+- **2020-02-25** 📰 'Tag: 柚子醫師'
+- **2020-02-25** 📰 'Tag: 秦雪華'
+- **2020-02-25** 🏥 'Tag: X病毒'
+- **2020-02-25** 🏥 'Tag: 高致死率'
+- **2020-02-25** 🏥 'Tag: 何建輝'
+- **2020-02-25** 🏥 'Tag: 防範武漢病毒'
+- **2020-02-25** 📰 'Tag: 士兵操演'
+- **2020-02-25** 🏥 'Tag: 舊金山宣布進入緊急狀態'
+- **2020-02-25** 📰 'Tag: 美韓聯合軍演'
+- **2020-02-25** 📰 'Tag: 中東淪陷'
+- **2020-02-25** 📰 'Tag: 武肺遺體解剖'
+- **2020-02-25** 📰 'Tag: 朝天宮'
+- **2020-02-25** 🏥 'Tag: 血友病童'
+- **2020-02-25** 🏥 'Tag: 血友病'
+- **2020-02-25** 📰 'Tag: 很多團體從善如流'
+- **2020-02-25** 📰 'Tag: MRNA'
+- **2020-02-25** 📰 'Tag: 疫情高峰期'
+- **2020-02-25** 📰 'Tag: 台灣人該舉哪面旗'
+- **2020-02-25** 📰 'Tag: Moderna Inc.'
+- **2020-02-25** 📰 'Tag: 難民'
+- **2020-02-25** 📰 'Tag: 兩個民國，兩面國旗'
+- **2020-02-26** 📰 'Tag: 大甲鎮瀾宮宣布延後遶境'
+- **2020-02-26** 📰 'Tag: 起駕'
+- **2020-02-26** 📰 'Tag: 鄭銘坤'
+- **2020-02-26** 📰 'Tag: 美司法部設立辦公室'
+- **2020-02-26** 📰 'Tag: 宗教經濟'
+- **2020-02-26** 📰 'Tag: 肺炎疫情'  (2×)
+- **2020-02-26** 📰 'Tag: 神功護體'
+- **2020-02-27** 📰 'Tag: 政治角力'
+- **2020-02-27** 🏥 'Tag: 南韓確診病例將持續增加'
+- **2020-02-27** 🏥 'Tag: 南韓防疫資源告急'
+- **2020-02-27** 🏥 'Tag: 〈老人健康研習會講座系列〉'
+- **2020-02-27** 📰 'Tag: 鎮瀾宮轉變關鍵'
+- **2020-02-27** 📰 'Tag: 火車'
+- **2020-02-27** 🏥 'Tag: 憂鬱症'
+- **2020-02-27** 📰 'Tag: WHO稱中疫情見頂'
+- **2020-02-27** 📰 'Tag: 除南極洲外6大洲全染疫'
+- **2020-02-28** 🏥 'Tag: 屍速列車'
+- **2020-02-28** 📰 'Tag: 美議員呼籲勿散播歧視言論莫因疫情而歧視亞裔'
+- **2020-02-29** 📰 'Tag: 張信惠'
+- **2020-02-29** 📰 'Tag: 美國與塔利班簽署和平協議'
+- **2020-02-29** 📰 'Tag: 習近平訪日延半年'
+- **2020-02-29** 📰 'Tag: 賴清德檢舉非本人YouTube頻道'
+- **2020-03-01** 📰 'Tag: 患者曾赴伊朗旅遊'
+- **2020-03-01** 📰 'Tag: 紐約州武漢肺炎首例確診'
+- **2020-03-02** 📰 'Tag: 中國史無前例地威脅外媒'
+- **2020-03-02** 📰 'Tag: 北京外國記者協會'
+- **2020-03-02** 📰 'Tag: Piano of Siena'
+- **2020-03-02** 📰 'Tag: 美股道瓊飆漲1293點'
+- **2020-03-02** 📰 'Tag: 221歲華麗木雕鋼琴'
+- **2020-03-02** 📰 'Tag: 「西恩那之琴」'
+- **2020-03-03** 📰 'Tag: 利用疫情為香港建制派助選'
+- **2020-03-03** 🏥 'Tag: 防疫升級'
+- **2020-03-03** 🏥 'Tag: 探病就醫'
+- **2020-03-03** 📰 'Tag: 中國任聯合國安理會輪值主席'
+- **2020-03-04** 📰 'Tag: 美股道瓊指數狂漲'
+- **2020-03-04** 📰 'Tag: 中國供應鏈'
+- **2020-03-04** 🏥 'Tag: 科舉制'
+- **2020-03-05** 📰 'Tag: 台灣國門'
+- **2020-03-05** 📰 'Tag: 洛杉磯緊急狀態'
+- **2020-03-05** 📰 'Tag: YouTube以“黃標”禁談武漢肺炎'
+- **2020-03-05** 📰 'Tag: 立院備詢'
+- **2020-03-06** 📰 'Tag: 拯救全世界'
+- **2020-03-06** 📰 'Tag: 武漢人'
+- **2020-03-06** 📰 'Tag: 美蓋牌'
+- **2020-03-06** 🏥 'Tag: 全球疫情失控'
+- **2020-03-06** 📰 'Tag: 美方就就中國海軍不當行為表關切'
+- **2020-03-07** 🏥 'Tag: 異形'
+- **2020-03-07** 📰 'Tag: 歐洲面對新冠'
+- **2020-03-07** 📰 'Tag: 台灣本土博士'
+- **2020-03-07** 📰 'Tag: 傳播鏈'
+- **2020-03-07** 📰 'Tag: 武漢市委書記號召感恩習近平'
+- **2020-03-07** 📰 'Tag: 從非洲豬瘟到武漢肺炎 中國隱匿疫情令人憂心'
+- **2020-03-07** 📰 'Tag: 別戴口罩'
+- **2020-03-07** 🏥 'Tag: 何大一'
+- **2020-03-07** 📰 'Tag: 生計團隊'
+- **2020-03-07** 📰 'Tag: Boulanger 姊妹'
+- **2020-03-07** 📰 'Tag: 法國著名女作曲家'
+- **2020-03-08** 📰 'Tag: 冒險DNA'
+- **2020-03-08** 📰 'Tag: 紙張煉金士'
+- **2020-03-08** 📰 'Tag: 點紙成磚'
+- **2020-03-08** 📰 'Tag: 加拿大新住民羅約翰'
+- **2020-03-08** 📰 'Tag: 廢報紙起厝'
+- **2020-03-08** 📰 'Tag: 建築奇蹟'
+- **2020-03-08** 📰 'Tag: 南韓政府'
+- **2020-03-08** 📰 'Tag: 至尊公主號停靠加州奧克蘭港'
+- **2020-03-08** 📰 'Tag: 新天地教主'
+- **2020-03-08** 📰 'Tag: 汕頭意麵'
+- **2020-03-08** 📰 'Tag: ，許志永被以“煽顛”罪秘密拘押恐面臨重刑'
+- **2020-03-08** 📰 'Tag: 許志永勸習退位'
+- **2020-03-08** 📰 'Tag: 氣象資料'
+- **2020-03-08** 📰 'Tag: 「二二八事件真相與轉型正義報告稿」'
+- **2020-03-08** 📰 'Tag: 寄生上流'
+- **2020-03-08** 📰 'Tag: 新書發表'
+- **2020-03-08** 📰 'Tag: 小心老共垮台'
+- **2020-03-09** 📰 'Tag: 孫大千'
+- **2020-03-09** 📰 'Tag: KMT'  (4×)
+- **2020-03-09** 📰 'Tag: 義大利封城'
+- **2020-03-09** 📰 'Tag: 美股一度暫停交易'
+- **2020-03-09** 📰 'Tag: 全球挫著等'
+- **2020-03-09** 📰 'Tag: 啟動試量產程序'
+- **2020-03-09** 🏥 'Tag: 北緯40度'
+- **2020-03-09** 📰 'Tag: 張武修'
+- **2020-03-09** 🏥 'Tag: 疫情流行'
+- **2020-03-09** 📰 'Tag: 標普暴跌7%觸發熔斷機制'
+- **2020-03-09** 📰 'Tag: 捷克總理要求北京更換大使'
+- **2020-03-09** 📰 'Tag: Andrej Babis'
+- **2020-03-09** 📰 'Tag: 經部預計可供100萬人使用'
+- **2020-03-09** 📰 'Tag: 川普歸咎沙俄爭奪油市和假新聞'
+- **2020-03-09** 🏥 'Tag: 新冠肺炎病毒'
+- **2020-03-09** 📰 'Tag: 林咚咚'
+- **2020-03-09** 🏥 'Tag: 潑水節'
+- **2020-03-09** 📰 'Tag: 美股狂跌'
+- **2020-03-09** 🏥 'Tag: 芭達雅'
+- **2020-03-09** 📰 'Tag: 中國駐布拉格大使館出言威脅'
+- **2020-03-09** 📰 'Tag: 眭澔平'
+- **2020-03-10** 📰 'Tag: 國民兵進駐'
+- **2020-03-10** 📰 'Tag: 肺炎快篩'
+- **2020-03-10** 📰 'Tag: 包機回台'
+- **2020-03-11** 📰 'Tag: 作詞家'
+- **2020-03-11** 📰 'Tag: 葉俊麟'
+- **2020-03-11** 📰 'Tag: 防疫見人心'
+- **2020-03-11** 📰 'Tag: 中國包機'
+- **2020-03-11** 🏥 'Tag: 武漢包機'
+- **2020-03-11** 📰 'Tag: 淡水暮色'
+- **2020-03-12** 📰 'Tag: 歐美'
+- **2020-03-12** 📰 'Tag: 習影帝'
+- **2020-03-12** 📰 'Tag: 共軍又叫囂「武統台灣」'
+- **2020-03-12** 📰 'Tag: 疫情蔓延'
+- **2020-03-12** 📰 'Tag: 中國軍民融合計劃威脅美國的國家安全戰略'
+- **2020-03-12** 🏥 'Tag: SARS'
+- **2020-03-12** 📰 'Tag: 編劇'
+- **2020-03-13** 📰 'Tag: 史上最猛'
+- **2020-03-13** 📰 'Tag: 史書華'
+- **2020-03-13** 📰 'Tag: 奧斯卡影帝'
+- **2020-03-13** 📰 'Tag: 台股基本面良好'
+- **2020-03-13** 📰 'Tag: 何須貼法統的冷屁股'
+- **2020-03-14** 📰 'Tag: 加州華盛頓州紐約州列二級警示'
+- **2020-03-14** 📰 'Tag: 輕症'
+- **2020-03-14** 📰 'Tag: 挽面'
+- **2020-03-14** 📰 'Tag: 歐洲旅遊史'
+- **2020-03-15** 🏥 'Tag: 李奇嶽'
+- **2020-03-15** 📰 'Tag: 埃及'
+- **2020-03-15** 📰 'Tag: 無處是淨土'
+- **2020-03-15** 📰 'Tag: 警示國家提升'
+- **2020-03-15** 📰 'Tag: 誰阻止武漢中心醫院發哨？'
+- **2020-03-15** 🏥 'Tag: 新冠病毒感染後最常見的死亡原因'
+- **2020-03-15** 📰 'Tag: 地方紮根將啟程'
+- **2020-03-16** 🏥 'Tag: 全球大流行'
+- **2020-03-16** 📰 'Tag: 美國企圖挖角德疫苗技術占為己有'
+- **2020-03-16** 🏥 'Tag: 生病不是我的錯'
+- **2020-03-16** 📰 'Tag: 對明知故犯祭罰則'
+- **2020-03-16** 🏥 'Tag: 謝采倪'
+- **2020-03-16** 📰 'Tag: 台灣兩天暴增14“境外移入”確診'
+- **2020-03-16** 📰 'Tag: 境外染疫'
+- **2020-03-16** 🏥 'Tag: 蓬佩奧致電楊潔篪'
+- **2020-03-16** 🏥 'Tag: 新冠病毒疫情氾濫'
+- **2020-03-16** 🏥 'Tag: 中國官方稱新冠病毒或源自美軍'
+- **2020-03-16** 🏥 'Tag: 癌症年輕化'
+- **2020-03-17** 📰 'Tag: 楊麗花'
+- **2020-03-17** 📰 'Tag: 全球疫情給中國經濟注入不確定因素'
+- **2020-03-17** 📰 'Tag: 音樂世界'
+- **2020-03-17** 📰 'Tag: 國寶級歌仔戲大師小鳳仙辭世'
+- **2020-03-17** 📰 'Tag: 旅行團群聚'
+- **2020-03-17** 🏥 'Tag: 歐洲淪陷'
+- **2020-03-17** 📰 'Tag: 作曲家郭芝苑'
+- **2020-03-17** 📰 'Tag: 19日起外籍人士非經許可拒絕入境'
+- **2020-03-18** 📰 'Tag: 台美簽署250枚人員攜行式刺針飛彈購案'
+- **2020-03-18** 📰 'Tag: 國防生產法'
+- **2020-03-18** 🏥 'Tag: 武漢肺炎蔓延'
+- **2020-03-18** 📰 'Tag: 腦瘤'
+- **2020-03-18** 🏥 'Tag: 姚惠珍'  (6×)
+- **2020-03-19** 📰 'Tag: 武漢肺炎延燒'
+- **2020-03-19** 📰 'Tag: 蝗蟲過境'
+- **2020-03-19** 📰 'Tag: 經濟隱憂'
+- **2020-03-20** 📰 'Tag: 巴西總統兒子批中國隱瞞疫情'
+- **2020-03-20** 📰 'Tag: 武漢肺炎衝擊生活'
+- **2020-03-20** 📰 'Tag: 郭旭崧'
+- **2020-03-20** 🏥 'Tag: 紐約市確診病例日增170%'
+- **2020-03-20** 📰 'Tag: 李婉鈺'
+- **2020-03-20** 📰 'Tag: 美國疫苗'
+- **2020-03-20** 📰 'Tag: 美股賣壓再現'
+- **2020-03-20** 📰 'Tag: 國務院敦促民眾不要出國旅行'
+- **2020-03-20** 🏥 'Tag: 美國新冠病例破萬'
+- **2020-03-20** 📰 'Tag: 劉建國'
+- **2020-03-20** 📰 'Tag: 單男單女'
+- **2020-03-20** 🏥 'Tag: 紐約不會封城'
+- **2020-03-20** 📰 'Tag: 柔性封州'
+- **2020-03-20** 🏥 'Tag: 台灣新增病例'
+- **2020-03-20** 📰 'Tag: 道瓊重挫'
+- **2020-03-21** 📰 'Tag: 旅遊疫情'
+- **2020-03-21** 📰 'Tag: 出國旅遊'
+- **2020-03-21** 🏥 'Tag: 府籲中國公布病毒檢驗資料'
+- **2020-03-21** 🏥 'Tag: 黃智賢'
+- **2020-03-21** 📰 'Tag: 政府防疫'
+- **2020-03-21** 📰 'Tag: 「教皇騎士團黃金勳章」'
+- **2020-03-21** 📰 'Tag: 美FDA批准武漢肺炎首宗快篩'
+- **2020-03-21** 📰 'Tag: 45分鐘可知結果'
+- **2020-03-21** 📰 'Tag: Mozart'
+- **2020-03-22** 📰 'Tag: 瓦斯'
+- **2020-03-22** 📰 'Tag: 歐美疫情'
+- **2020-03-23** 📰 'Tag: 確診趴趴走'
+- **2020-03-23** 📰 'Tag: 婚與不婚'
+- **2020-03-23** 📰 'Tag: 新娘不是我'
+- **2020-03-23** 📰 'Tag: 武漢肺炎衝擊產業'
+- **2020-03-24** 📰 'Tag: 奧運魔咒'
+- **2020-03-24** 📰 'Tag: 東京都知事'
+- **2020-03-24** 📰 'Tag: 重創日本'
+- **2020-03-24** 📰 'Tag: 北部大學法籍研究生染疫'
+- **2020-03-24** 📰 'Tag: 歌仔戲調'
+- **2020-03-24** 📰 'Tag: USS Theodore Roosevelt'
+- **2020-03-24** 🏥 'Tag: 崔天凱再批〝病毒源自美國〞是瘋狂言論'
+- **2020-03-24** 📰 'Tag: 封國'
+- **2020-03-24** 🏥 'Tag: 中國外交界見分歧'
+- **2020-03-24** 📰 'Tag: 武肺擴散'
+- **2020-03-24** 📰 'Tag: 不知WHO現在能做什麼'
+- **2020-03-24** 📰 'Tag: 武漢肺炎大流行'
+- **2020-03-24** 🏥 'Tag: 中國駐美大使不幫外交部發言人背書'
+- **2020-03-24** 📰 'Tag: 緩繳稅'
+- **2020-03-24** 📰 'Tag: 武漢肺炎第二波紓困'
+- **2020-03-24** 📰 'Tag: 紐約武漢肺炎確診每3天倍增'
+- **2020-03-24** 📰 'Tag: 台灣靠自己'
+- **2020-03-24** 📰 'Tag: 台灣警示'
+- **2020-03-25** 📰 'Tag: 上海飛桃園'
+- **2020-03-25** 📰 'Tag: 徐正文'
+- **2020-03-25** 📰 'Tag: 華航「類包機」'
+- **2020-03-25** 📰 'Tag: 防疫失守'
+- **2020-03-25** 📰 'Tag: 查爾斯王子感染武漢肺炎'
+- **2020-03-26** 📰 'Tag: 紐約疫情'
+- **2020-03-26** 📰 'Tag: 《BBC》改新聞刪臉書po文'
+- **2020-03-26** 📰 'Tag: 中國快篩試劑'
+- **2020-03-26** 📰 'Tag: 超車全球'
+- **2020-03-26** 📰 'Tag: 觀光業'
+- **2020-03-26** 📰 'Tag: 台灣隔離環境像監獄？'
+- **2020-03-26** 🏥 'Tag: 指揮官'
+- **2020-03-26** 📰 'Tag: 賴秀穗'
+- **2020-03-26** 📰 'Tag: 體內抗體'
+- **2020-03-26** 📰 'Tag: 美版武漢'
+- **2020-03-26** 📰 'Tag: BBC報導不符事實'
+- **2020-03-26** 📰 'Tag: 搶救經濟'
+- **2020-03-27** 📰 'Tag: 監獄'
+- **2020-03-27** 📰 'Tag: 網軍'
+- **2020-03-27** 📰 'Tag: 台灣醫生'
+- **2020-03-28** 📰 'Tag: 台灣是最幸福國家'
+- **2020-03-28** 📰 'Tag: Jay Inslee'
+- **2020-03-28** 📰 'Tag: 西雅圖臨時醫院備妥'
+- **2020-03-28** 📰 'Tag: 蘇貞昌為第一線人員打氣'
+- **2020-03-28** 📰 'Tag: 台灣邀請被北京驅逐的美國三大報記者到台灣工作'
+- **2020-03-29** 📰 'Tag: 內政部函送陳家欽'
+- **2020-03-29** 📰 'Tag: 確保國內存量'
+- **2020-03-29** 📰 'Tag: 尊重法律'
+- **2020-03-29** 📰 'Tag: 奎寧藥物成搶手貨'
+- **2020-03-29** 📰 'Tag: 湖北類包機'
+- **2020-03-29** 📰 'Tag: 危及亞裔社區'
+- **2020-03-30** 📰 'Tag: 美軍首例'
+- **2020-03-30** 🏥 'Tag: 末日碉堡'
+- **2020-03-30** 🏥 'Tag: 核戰'
+- **2020-03-30** 🏥 'Tag: 上海類包機'
+- **2020-03-30** 🏥 'Tag: 嘉手納空軍基地'
+- **2020-03-30** 📰 'Tag: 新澤西州國民兵染武漢肺炎不治'
+- **2020-03-30** 📰 'Tag: 第2班湖北類包機抵台'
+- **2020-03-30** 🏥 'Tag: 喝咖啡'
+- **2020-03-30** 📰 'Tag: 防疫檢查'
+- **2020-03-30** 🏥 'Tag: 以疫謀獨'
+- **2020-03-30** 📰 'Tag: 舔共無極限'
+- **2020-03-30** 📰 'Tag: 第一班湖北類包機返台民眾採檢都陰性'
+- **2020-03-30** 🏥 'Tag: 院內感染'
+- **2020-03-31** 📰 'Tag: 寄口罩到海外有條件解禁'
+- **2020-03-31** 🏥 'Tag: 包機'
+- **2020-03-31** 🏥 'Tag: 周偉航:'
+- **2020-03-31** 📰 'Tag: 油價新點'
+- **2020-03-31** 📰 'Tag: 台灣不是國家'
+- **2020-03-31** 🏥 'Tag: 我們與病毒的距離'
+- **2020-03-31** 📰 'Tag: 中國製造的口罩不合格'
+- **2020-03-31** 📰 'Tag: 「防疫外交」接觸戰'
+- **2020-03-31** 📰 'Tag: 川普政府視槍械店為必要商家疫情當前照常營業'
+- **2020-04-01** 📰 'Tag: 武漢停駛封區壞消息不斷'
+- **2020-04-01** 🏥 'Tag: 社交距離'
+- **2020-04-01** 📰 'Tag: 口罩送歐美'
+- **2020-04-01** 📰 'Tag: 實踐'
+- **2020-04-01** 📰 'Tag: 台師大'
+- **2020-04-01** 🏥 'Tag: 健康飲食'
+- **2020-04-01** 📰 'Tag: 檢疫亂跑'
+- **2020-04-01** 📰 'Tag: 文藻'
+- **2020-04-01** 📰 'Tag: 愛心送全球'
+- **2020-04-02** 📰 'Tag: 川普擬派美軍進入紐約'
+- **2020-04-02** 📰 'Tag: 川普武漢肺炎二度篩檢仍陰性'
+- **2020-04-02** 🏥 'Tag: 台灣醫師'
+- **2020-04-02** 🏥 'Tag: 對抗病毒'
+- **2020-04-03** 📰 'Tag: 捷運'
+- **2020-04-03** 📰 'Tag: 疫苗發明'
+- **2020-04-03** 📰 'Tag: 女保全'
+- **2020-04-03** 📰 'Tag: 網友'
+- **2020-04-03** 📰 'Tag: 保全染疫'
+- **2020-04-04** 📰 'Tag: 紐約州武漢肺炎破3500死'
+- **2020-04-04** 📰 'Tag: 清明節變成愛國日'
+- **2020-04-04** 📰 'Tag: 疫情估7天內達高峰'
+- **2020-04-04** 🏥 'Tag: 病毒潛伏期'
+- **2020-04-04** 📰 'Tag: 中國網友要求追責反思'
+- **2020-04-04** 📰 'Tag: 肺炎重症指標'
+- **2020-04-04** 📰 'Tag: 美國確診感染突破30萬例逾8100死'
+- **2020-04-04** 🏥 'Tag: 志村健'
+- **2020-04-04** 📰 'Tag: Taiwan is helping'
+- **2020-04-04** 📰 'Tag: 全球將找習近平算總帳'
+- **2020-04-04** 📰 'Tag: 視訊會議軟體Zoom資安惹議'
+- **2020-04-04** 📰 'Tag: 陳時中cue女記者上台唸「客語宣導」'
+- **2020-04-04** 📰 'Tag: P4實驗室'
+- **2020-04-04** 📰 'Tag: Beethoven失去聽覺的異論'
+- **2020-04-05** 📰 'Tag: 緬甸樞機主教'
+- **2020-04-05** 📰 'Tag: 福爾摩斯'
+- **2020-04-05** 📰 'Tag: 全球大爆發'
+- **2020-04-05** 📰 'Tag: 神父呂若瑟'
+- **2020-04-05** 📰 'Tag: 義大利疫情'
+- **2020-04-05** 📰 'Tag: 美國年輕人助抗疫情成為“採購天使”'
+- **2020-04-06** 📰 'Tag: 台灣校園白色恐怖'
+- **2020-04-06** 📰 'Tag: 腹瀉'
+- **2020-04-06** 📰 'Tag: 夫婦的世界'
+- **2020-04-06** 📰 'Tag: 避免敵方錯判美軍實力'
+- **2020-04-06** 📰 'Tag: 美台人致函世衛籲停止排除台灣參與'
+- **2020-04-06** 📰 'Tag: 百億振興商機'
+- **2020-04-06** 📰 'Tag: 企業超前部署'
+- **2020-04-06** 📰 'Tag: 奧捷團'
+- **2020-04-06** 📰 'Tag: 解職羅斯福航母艦長'
+- **2020-04-06** 📰 'Tag: 國家級警報'
+- **2020-04-06** 📰 'Tag: 本土案例'
+- **2020-04-06** 📰 'Tag: 清明連假'
+- **2020-04-07** 📰 'Tag: 高雄罷韓'
+- **2020-04-07** 📰 'Tag: 新戰國時代'
+- **2020-04-07** 📰 'Tag: 軍車進北京'
+- **2020-04-07** 📰 'Tag: 強生重症'
+- **2020-04-07** 📰 'Tag: 普丁神隱'
+- **2020-04-07** 📰 'Tag: 恐怖航班'
+- **2020-04-07** 📰 'Tag: 強生首相'
+- **2020-04-07** 📰 'Tag: 家庭群聚感染'
+- **2020-04-07** 🏥 'Tag: 加護病房'
+- **2020-04-07** 🏥 'Tag: 鑽石公主號'
+- **2020-04-07** 📰 'Tag: 陳建仁登BBC專訪分享台灣經驗'
+- **2020-04-08** 📰 'Tag: 全球危機'
+- **2020-04-08** 📰 'Tag: 多國尋求技轉'
+- **2020-04-08** 📰 'Tag: 武漢疾控中心學者說1月4日已出現人傳人疫情'
+- **2020-04-08** 📰 'Tag: 新冠疫情使台灣贏得支持'
+- **2020-04-08** 📰 'Tag: 中國形像大大丟分'
+- **2020-04-09** 📰 'Tag: 譚德塞罵台'
+- **2020-04-09** 📰 'Tag: 酒店女'
+- **2020-04-09** 📰 'Tag: 炸鍋'
+- **2020-04-09** 📰 'Tag: 人身攻擊'
+- **2020-04-09** 📰 'Tag: 疫情害全球'
+- **2020-04-09** 📰 'Tag: 甩黑鍋'
+- **2020-04-09** 📰 'Tag: 全校停課'
+- **2020-04-09** 📰 'Tag: 政院加碼100億元融資額度'
+- **2020-04-09** 📰 'Tag: 紓困台灣觀光產業'
+- **2020-04-09** 📰 'Tag: 污衊台灣'
+- **2020-04-10** 📰 'Tag: 酒客'
+- **2020-04-10** 📰 'Tag: 移民艱辛'
+- **2020-04-10** 📰 'Tag: 台裔導演楊維榕'
+- **2020-04-10** 📰 'Tag: 中生本來就不該來台'
+- **2020-04-10** 📰 'Tag: 「虎尾」登上Netflix'
+- **2020-04-10** 📰 'Tag: 自由亞洲電台'
+- **2020-04-10** 📰 'Tag: WHO指台灣沒講人傳人'
+- **2020-04-10** 📰 'Tag: 埃及旅遊團'
+- **2020-04-10** 📰 'Tag: 儲備14天9片新制'
+- **2020-04-10** 📰 'Tag: 膚色'
+- **2020-04-10** 📰 'Tag: 政府不會暗槓'
+- **2020-04-10** 🏥 'Tag: 呼吸器'
+- **2020-04-10** 📰 'Tag: 7600萬片口罩去向'
+- **2020-04-10** 🏥 'Tag: 中研院'
+- **2020-04-10** 📰 'Tag: 台灣調查局發現中國網軍冒台灣人之名向譚德塞道歉'
+- **2020-04-10** 📰 'Tag: 陳時中：適時公布雙方電郵'
+- **2020-04-10** 📰 'Tag: 五毛反串'
+- **2020-04-11** 📰 'Tag: WHO歧視台灣民眾'
+- **2020-04-11** 📰 'Tag: 歐洲127位政要反擊譚德塞'
+- **2020-04-11** 📰 'Tag: Verdi「Aida」初演滄桑史'
+- **2020-04-11** 🏛️ 'Tag: 白宮擬成立「重開經濟委員會」'
+- **2020-04-11** 📰 'Tag: 檢測'
+- **2020-04-11** 📰 'Tag: 垃圾袋'
+- **2020-04-11** 🏛️ 'Tag: 美新冠病毒疫情接近高峰'
+- **2020-04-11** 🏥 'Tag: 世衛還需什麼樣的警訊才警示新冠病毒人傳人？'
+- **2020-04-11** 📰 'Tag: 武漢'
+- **2020-04-12** 📰 'Tag: 美國駐中國廣州領事館'
+- **2020-04-12** 📰 'Tag: 罷免革命'
+- **2020-04-12** 📰 'Tag: 美國種族歧視抬頭'
+- **2020-04-12** 📰 'Tag: 新加坡總理夫人何晶修改Errrr貼文感謝台灣'
+- **2020-04-12** 📰 'Tag: 加州'
+- **2020-04-12** 📰 'Tag: OPEC+5月起每天減產970萬桶'
+- **2020-04-12** 📰 'Tag: OPEC+產油國達成協議'
+- **2020-04-12** 📰 'Tag: 歧視頻傳'
+- **2020-04-13** 📰 'Tag: 瘟疫蔓延'
+- **2020-04-13** 📰 'Tag: 台灣守住了'
+- **2020-04-13** 📰 'Tag: 珊瑚公主'
+- **2020-04-13** 📰 'Tag: 台灣患者可望受惠'
+- **2020-04-13** 📰 'Tag: 瑞德西韋臨床試驗擬擴大'
+- **2020-04-13** 📰 'Tag: 台星網戰'
+- **2020-04-13** 📰 'Tag: 夫妻相處'
+- **2020-04-13** 📰 'Tag: 民進黨地方黨部主委5月改選'
+- **2020-04-13** 📰 'Tag: 中國戰狼外交發言頻惹議'
+- **2020-04-13** 📰 'Tag: 中國國際形象'
+- **2020-04-13** 📰 'Tag: 派系角力'
+- **2020-04-13** 📰 'Tag: 口罩生產線'
+- **2020-04-13** 📰 'Tag: 星國總理夫人'
+- **2020-04-14** 📰 'Tag: 公費治療'
+- **2020-04-14** 📰 'Tag: 海歸'
+- **2020-04-14** 📰 'Tag: 更多老美挺拜登當總統'
+- **2020-04-14** 📰 'Tag: 華航'
+- **2020-04-14** 📰 'Tag: 艾未未'
+- **2020-04-14** 📰 'Tag: 台灣正名'
+- **2020-04-15** 📰 'Tag: 資助'
+- **2020-04-15** 📰 'Tag: 粉紅口罩'
+- **2020-04-15** 📰 'Tag: 王梨'
+- **2020-04-15** 📰 'Tag: 蓬佩奧與楊潔篪通話'
+- **2020-04-15** 📰 'Tag: 前美官員投書籲川普推台灣專家任世衛秘書長'
+- **2020-04-15** 📰 'Tag: 中國仍不提供武漢肺炎相關資訊'
+- **2020-04-15** 📰 'Tag: 呼籲中方資訊透明合作抗疫'
+- **2020-04-15** 📰 'Tag: 美國防長'
+- **2020-04-15** 📰 'Tag: 紓困階段一定發現金'
+- **2020-04-15** 📰 'Tag: 蘇貞昌：讓有需要的勞工領'
+- **2020-04-15** 📰 'Tag: 紐時廣告'
+- **2020-04-15** 📰 'Tag: 現金紓困'
+- **2020-04-15** 📰 'Tag: 台灣大眾運輸流量減逾50%'
+- **2020-04-15** 📰 'Tag: 抽銀根'
+- **2020-04-15** 📰 'Tag: 疫情衝擊全球'
+- **2020-04-15** 📰 'Tag: Taiwan Can Help'
+- **2020-04-15** 📰 'Tag: 台灣已超前部署30年'
+- **2020-04-15** 📰 'Tag: 全球興起「去中化」大潮'
+- **2020-04-15** 🏥 'Tag: 福克斯新聞稱新冠病毒由武漢實驗室洩露'
+- **2020-04-16** 🏥 'Tag: 安教練'
+- **2020-04-16** 🏥 'Tag: 防疫不出門'
+- **2020-04-16** 📰 'Tag: 各州按情況逐步開放'
+- **2020-04-16** 📰 'Tag: 川普宣布三階段重啟美國經濟'
+- **2020-04-16** 🏥 'Tag: 練身材'
+- **2020-04-16** 📰 'Tag: 鄉民救台灣'
+- **2020-04-16** 📰 'Tag: 英國代理首相Dominic Raab'
+- **2020-04-16** 📰 'Tag: 追究中方責任'
+- **2020-04-16** 📰 'Tag: 國際戰火'
+- **2020-04-16** 🏥 'Tag: 台灣確診'
+- **2020-04-16** 📰 'Tag: 總統專文登時代雜誌 分享台灣成功防疫經驗'
+- **2020-04-16** 📰 'Tag: 零售業'
+- **2020-04-16** 🏥 'Tag: 健康'
+- **2020-04-16** 📰 'Tag: PTT'
+- **2020-04-16** 📰 'Tag: 英中關係回不去了'
+- **2020-04-16** 📰 'Tag: 全球經濟'
+- **2020-04-16** 📰 'Tag: 高碩泰'
+- **2020-04-16** 🎤 'Tag: 世界衛生組織'
+- **2020-04-17** 📰 'Tag: 台灣安心'
+- **2020-04-17** 📰 'Tag: 對手動作頻頻考驗美軍意志'
+- **2020-04-17** 📰 'Tag: 陳冠榮同意辦說明會'
+- **2020-04-17** 📰 'Tag: 尹立樂觀罷韓'
+- **2020-04-17** 📰 'Tag: 最有影響力領袖'
+- **2020-04-17** 📰 'Tag: 韓營指不在暑假投票有利政權保衛'
+- **2020-04-17** 📰 'Tag: 與韓國瑜直球對決'
+- **2020-04-17** 📰 'Tag: 罷韓案成案'
+- **2020-04-17** 📰 'Tag: 疫情嚴峻'
+- **2020-04-17** 📰 'Tag: 實驗室洩毒'
+- **2020-04-17** 📰 'Tag: 我台灣我驕傲'
+- **2020-04-17** 📰 'Tag: 亞洲唯一'
+- **2020-04-17** 📰 'Tag: 看見台灣'
+- **2020-04-17** 📰 'Tag: 台灣好棒'
+- **2020-04-17** 📰 'Tag: 馬英九之癮'
+- **2020-04-17** 📰 'Tag: 最高行政法院'
+- **2020-04-18** 📰 'Tag: 美國醫師警告'
+- **2020-04-18** 📰 'Tag: 武漢肺炎恐損腦部和神經系統'
+- **2020-04-18** 📰 'Tag: 紐約武漢肺炎'
+- **2020-04-18** 📰 'Tag: 疫情似已過高峰'
+- **2020-04-18** 📰 'Tag: 川普與紐約州長翻臉'
+- **2020-04-18** 📰 'Tag: 州長Cuomo'
+- **2020-04-18** 📰 'Tag: 掰掰中國'
+- **2020-04-18** 📰 'Tag: 防疫檢測'
+- **2020-04-18** 📰 'Tag: 國民黨陪葬'
+- **2020-04-18** 📰 'Tag: 美日歐力推企業撤離中國'
+- **2020-04-18** 📰 'Tag: 音樂家上台可怕的經驗'
+- **2020-04-19** 📰 'Tag: 美國今年稍早向中國運送了成上千萬美元的抗疫物資'
+- **2020-04-19** 📰 'Tag: 守護天使'
+- **2020-04-19** 📰 'Tag: 全世煌'
+- **2020-04-19** 📰 'Tag: 國際社會的借力使力'
+- **2020-04-19** 📰 'Tag: 麥可·曼德爾邦'
+- **2020-04-20** 📰 'Tag: 美國呼籲北京給予王全璋行動自由'
+- **2020-04-20** 📰 'Tag: 高雄確診'
+- **2020-04-20** 📰 'Tag: 台灣抗疫有成 美日聲援 仍無緣參與世衛大會'
+- **2020-04-20** 📰 'Tag: 王全璋堅持信念沒有認罪'
+- **2020-04-20** 📰 'Tag: 台灣防線'
+- **2020-04-20** 📰 'Tag: 五角大樓正式啟用《國防生產法》'
+- **2020-04-20** 🏥 'Tag: 磐石艦'  (2×)
+- **2020-04-21** 📰 'Tag: 軍艦染疫'
+- **2020-04-21** 📰 'Tag: 美參院再通過近5000億美元資助法案'
+- **2020-04-21** 📰 'Tag: 抗體檢測'
+- **2020-04-21** 📰 'Tag: 洛杉磯郡感染人數恐為已知40倍'
+- **2020-04-21** 🏥 'Tag: 敦睦艦隊'  (2×)
+- **2020-04-21** 📰 'Tag: 確診接觸'
+- **2020-04-21** 🏥 'Tag: 疫情延燒'
+- **2020-04-22** 📰 'Tag: 謝志偉1句話電爆'
+- **2020-04-22** 📰 'Tag: 藍委對謝志偉名片印「Taiwan」有意見'
+- **2020-04-22** 📰 'Tag: 要求北京允許察看實驗室'
+- **2020-04-22** 📰 'Tag: 蓬佩奧籲各國向中國究責'
+- **2020-04-22** 📰 'Tag: 北京趁疫情對港台出手'
+- **2020-04-22** 📰 'Tag: 意大利傳教士呂若瑟'
+- **2020-04-22** 📰 'Tag: 台灣人捐款1.6億報恩意大利神父家鄉防疫'
+- **2020-04-23** 📰 'Tag: 醫護篩檢'
+- **2020-04-23** 📰 'Tag: 韓導兵推'
+- **2020-04-23** 📰 'Tag: 發燒通報'
+- **2020-04-23** 📰 'Tag: 敦睦'
+- **2020-04-23** 📰 'Tag: 封城演疫'
+- **2020-04-23** 📰 'Tag: 波灣戰雲'
+- **2020-04-23** 📰 'Tag: 房租'
+- **2020-04-23** 📰 'Tag: 護油價'
+- **2020-04-23** 📰 'Tag: 川普推文'
+- **2020-04-23** 🏥 'Tag: 武漢肺炎抗病毒藥物瑞德西韋首次臨床試驗失敗'
+- **2020-04-23** 📰 'Tag: 國民黨立委陳玉珍被告發學歷造假'
+- **2020-04-23** 📰 'Tag: 眾院通過4830億美元紓困案'
+- **2020-04-23** 📰 'Tag: 非法熔噴布'
+- **2020-04-23** 📰 'Tag: 醫護人員'
+- **2020-04-23** 🏥 'Tag: 東南亞'
+- **2020-04-24** 📰 'Tag: WHO為何公布瞎子摸象的資料'
+- **2020-04-24** 📰 'Tag: 兵推'
+- **2020-04-24** 📰 'Tag: 艦隊染疫'
+- **2020-04-24** 📰 'Tag: 瑞德西韋臨床實驗'
+- **2020-04-25** 🏥 'Tag: 消毒水殺病毒引風波'
+- **2020-04-25** 🏥 'Tag: 川普說開記者會浪費時間'
+- **2020-04-25** 🏥 'Tag: 地方兵推'
+- **2020-04-25** 📰 'Tag: 金正恩專列停靠元山領袖度假村'
+- **2020-04-25** 🏥 'Tag: 譚德賽'
+- **2020-04-25** 🏥 'Tag: 戰疫'
+- **2020-04-25** 📰 'Tag: 音樂與電影'
+- **2020-04-25** 📰 'Tag: Le Bonheur（幸福）'
+- **2020-04-25** 🏥 'Tag: 打擊陋習與弊病'
+- **2020-04-25** 🏥 'Tag: 小英治軍理念'
+- **2020-04-25** 📰 'Tag: 西方與中國漸行漸遠'
+- **2020-04-26** 📰 'Tag: COUP ( Coupa Software Inc. )'
+- **2020-04-26** 📰 'Tag: 台南肉圓'
+- **2020-04-26** 📰 'Tag: WHO拒聽台灣示警 致疫情肆虐全球'
+- **2020-04-27** 📰 'Tag: 中央放寬'
+- **2020-04-27** 📰 'Tag: 8旬翁為籌憨妻醫藥費 不眠不休編藤椅'
+- **2020-04-27** 📰 'Tag: 美資深參議員呼籲減少依賴中國醫療用品'
+- **2020-04-27** 🏥 'Tag: 金正恩病危'
+- **2020-04-27** 📰 'Tag: 軍事支出美國居冠中國印度次之'
+- **2020-04-27** 📰 'Tag: 惡火究責'
+- **2020-04-27** 📰 'Tag: 防疫戰'
+- **2020-04-27** 📰 'Tag: 人間有真愛'
+- **2020-04-27** 📰 'Tag: 消防設備'
+- **2020-04-27** 📰 'Tag: 全球去年軍事支出增幅創10年來新高'
+- **2020-04-27** 🏥 'Tag: 顧問'
+- **2020-04-28** 📰 'Tag: 韓團隊在推動罷韓案過關'
+- **2020-04-28** 📰 'Tag: 防疫關鍵'
+- **2020-04-28** 📰 'Tag: 中國大使寫歌製作中菲抗疫歌曲視頻 惹怒菲國網民'
+- **2020-04-28** 📰 'Tag: 誰工時更長？'
+- **2020-04-28** 📰 'Tag: 美國拚上工'
+- **2020-04-28** 🏥 'Tag: 連3天無新增病例'
+- **2020-04-28** 🏥 'Tag: 武漢肺炎零確診'
+- **2020-04-28** 📰 'Tag: 飛行員疑似拍到UFO'
+- **2020-04-28** 📰 'Tag: 五角大廈釋出影片'
+- **2020-04-29** 📰 'Tag: 心靈防疫'
+- **2020-04-29** 🏥 'Tag: 台灣零確診'
+- **2020-04-29** 📰 'Tag: 修憲是政客的騙局'
+- **2020-04-29** 🗳️ 'Tag: 雙重標準'
+- **2020-04-30** 🏥 'Tag: 國安局長'
+- **2020-04-30** 📰 'Tag: 俄威脅暗殺'
+- **2020-04-30** 🏥 'Tag: 台灣翻牌'
+- **2020-04-30** 🏥 'Tag: 北韓代理人'
+- **2020-04-30** 🏥 'Tag: 金正恩生死謎'
+- **2020-04-30** 📰 'Tag: 布拉格市長Zdenek Hrib'
+- **2020-04-30** 📰 'Tag: 瑞德西韋'
+- **2020-04-30** 📰 'Tag: NBA'
+- **2020-05-01** 📰 'Tag: 脫北的南韓議員驚爆：99%肯定金正恩上週已死'
+- **2020-05-01** 📰 'Tag: 真愛難尋'
+- **2020-05-01** 📰 'Tag: 把妹神招'
+- **2020-05-01** 📰 'Tag: 精障殺人'
+- **2020-05-01** 📰 'Tag: 中國審查國內新聞殃及全球生命'
+- **2020-05-01** 📰 'Tag: 拜登前助理指控近30年前性侵'
+- **2020-05-02** 📰 'Tag: 孟加拉首都'
+- **2020-05-02** 🏥 'Tag: 國內確診'
+- **2020-05-02** 📰 'Tag: 洛杉磯海外青年文化志工劉天心 在洛杉磯時報學生論壇為台灣發聲'
+- **2020-05-02** 📰 'Tag: 皮廠染劑'
+- **2020-05-02** 📰 'Tag: 血汗皮革工業區'
+- **2020-05-02** 📰 'Tag: 汙染區'
+- **2020-05-02** 📰 'Tag: 達卡'
+- **2020-05-02** 📰 'Tag: 皮膚'
+- **2020-05-02** 📰 'Tag: 公民團體將展開「民主搶灘 三路轉進」行動'
+- **2020-05-02** 📰 'Tag: 新冠疫情沉重打擊美國經濟 為大選增添變數'
+- **2020-05-02** 📰 'Tag: 台灣國際參與「門已打開」'
+- **2020-05-02** 📰 'Tag: 白宮發言人Kayleigh McEnany誓不說謊'
+- **2020-05-02** 📰 'Tag: 美學者Michael Auslin'
+- **2020-05-02** 📰 'Tag: 台灣基進推罷韓遍地開花計畫'
+- **2020-05-02** 📰 'Tag: 川普媒體戰火'
+- **2020-05-02** 📰 'Tag: 紐約市無殼蝸牛繳不出房租'
+- **2020-05-02** 📰 'Tag: 高雄市府透早拆罷韓看板'
+- **2020-05-02** 📰 'Tag: 砷'
+- **2020-05-02** 📰 'Tag: Michael Auslin促台灣推文化學院 和孔子學院抗衡'
+- **2020-05-03** 📰 'Tag: 中國人假意'
+- **2020-05-03** 📰 'Tag: 高雄街頭出現400面挺韓廣告'
+- **2020-05-04** 📰 'Tag: 先進國家'
+- **2020-05-04** 📰 'Tag: 疾管署簡體字電郵通知受檢？是假的！勿開啟或轉傳'
+- **2020-05-04** 📰 'Tag: 磐石危機'
+- **2020-05-04** 📰 'Tag: 罷韓角力戰'
+- **2020-05-04** 📰 'Tag: 議會'
+- **2020-05-04** 📰 'Tag: 境外'
+- **2020-05-04** 🏥 'Tag: 美將發布病毒報告'
+- **2020-05-04** 📰 'Tag: 究責中國'
+- **2020-05-04** 📰 'Tag: 台灣入WHO'
+- **2020-05-04** 📰 'Tag: 看板'
+- **2020-05-04** 📰 'Tag: 失戀的女人'
+- **2020-05-04** 🏥 'Tag: 川普：中國犯了可怕錯誤並試圖掩蓋疫情暴發'
+- **2020-05-04** 📰 'Tag: 貨出去人進來'
+- **2020-05-05** 📰 'Tag: 政績'
+- **2020-05-05** 📰 'Tag: 罷免答辯書'
+- **2020-05-05** 📰 'Tag: 疫情衝擊產業'
+- **2020-05-05** 📰 'Tag: 促轉會NCC人事案'
+- **2020-05-05** 📰 'Tag: 菲律賓最大電視台與杜特蒂不睦 換照未過遭斷訊'
+- **2020-05-05** 📰 'Tag: 20200505 美國武漢肺炎逾7萬死 確診逼近120萬例'
+- **2020-05-05** 📰 'Tag: 美國奇異公司將裁員'
+- **2020-05-06** 📰 'Tag: 高雄罷韓倒數計時'
+- **2020-05-06** 📰 'Tag: 美國力挺台灣'
+- **2020-05-06** 📰 'Tag: 罷韓表態'
+- **2020-05-06** 📰 'Tag: 北京逼港台藝人保證10年「政治思想正確」'
+- **2020-05-06** 📰 'Tag: 陳雄文'
+- **2020-05-06** 📰 'Tag: 加碼紓困萬元首日破萬人申請'
+- **2020-05-06** 📰 'Tag: KMT民調'
+- **2020-05-06** 📰 'Tag: 監院'
+- **2020-05-06** 📰 'Tag: 紓困申請不便引民怨'
+- **2020-05-06** 📰 'Tag: 違法'
+- **2020-05-06** 📰 'Tag: 心經'
+- **2020-05-06** 🏛️ 'Tag: 總統府人權諮詢委員會終止運作'
+- **2020-05-06** 📰 'Tag: 反罷單挑'
+- **2020-05-06** 📰 'Tag: 簡化流程'
+- **2020-05-07** 📰 'Tag: 簡化放寬'
+- **2020-05-07** 📰 'Tag: 蘇貞昌促配合防疫新生活指引，研擬階段放寬方案'
+- **2020-05-07** 📰 'Tag: 紓困人龍'
+- **2020-05-07** 📰 'Tag: 台灣抗疫'
+- **2020-05-07** 📰 'Tag: 高雄市民'  (2×)
+- **2020-05-07** 📰 'Tag: 罷韓新招'
+- **2020-05-07** 📰 'Tag: 罷免危機'
+- **2020-05-07** 📰 'Tag: 公務員'
+- **2020-05-07** 📰 'Tag: 萬元紓困'
+- **2020-05-07** 📰 'Tag: 挺韓廣告'
+- **2020-05-07** 📰 'Tag: 萬元之亂'
+- **2020-05-07** 📰 'Tag: 拆不掉的看板'
+- **2020-05-07** 📰 'Tag: 民怨炸鍋'
+- **2020-05-08** 📰 'Tag: 高市選委會'
+- **2020-05-08** 📰 'Tag: 光復高雄貼紙'
+- **2020-05-08** 📰 'Tag: 「涉嫌嚴重違紀違法」'
+- **2020-05-08** 📰 'Tag: 蘇貞昌道歉'
+- **2020-05-08** 📰 'Tag: 北京免去孫力軍公安部副部長職務'
+- **2020-05-08** 📰 'Tag: 罷韓投票'  (3×)
+- **2020-05-08** 📰 'Tag: 台灣轉骨'
+- **2020-05-08** 📰 'Tag: 返鄉投票'
+- **2020-05-09** 📰 'Tag: 韓職開打'
+- **2020-05-09** 🏥 'Tag: 紓困金'
+- **2020-05-09** 📰 'Tag: 金援'
+- **2020-05-09** 📰 'Tag: 農業垃圾變黃金'
+- **2020-05-09** 🏥 'Tag: 新冠病毒加劇中美緊張關係'
+- **2020-05-09** 🏥 'Tag: 美縮減中國記者簽證效期至90天'
+- **2020-05-09** 📰 'Tag: 錢櫃政變'
+- **2020-05-09** 📰 'Tag: 駭勢力'
+- **2020-05-09** 📰 'Tag: 效忠領袖'
+- **2020-05-09** 📰 'Tag: 音樂人'
+- **2020-05-09** 📰 'Tag: 領袖教育'
+- **2020-05-09** 📰 'Tag: 教父復仇'
+- **2020-05-09** 📰 'Tag: 陳建仁政治與專業兼通'
+- **2020-05-09** 📰 'Tag: 陳建仁副總統是抗疫利器'
+- **2020-05-09** 📰 'Tag: 宮鬥戲碼'
+- **2020-05-10** 📰 'Tag: 罷韓藍色憂鬱'
+- **2020-05-10** 📰 'Tag: 高市藍議員盼韓國瑜安撫民心'
+- **2020-05-10** 📰 'Tag: 美財長說失業率還會惡化'
+- **2020-05-10** 📰 'Tag: 紓困振興最重要'
+- **2020-05-10** 🏥 'Tag: 美版陳時中佛奇自主隔離'
+- **2020-05-10** 📰 'Tag: 新聞人'
+- **2020-05-10** 📰 'Tag: 嘉義雞肉飯'
+- **2020-05-10** 📰 'Tag: 長沙台協正副會長供出內幕'
+- **2020-05-10** 🏥 'Tag: 病毒直逼白宮'
+- **2020-05-10** 📰 'Tag: 藝術'
+- **2020-05-10** 📰 'Tag: 蜜棗'
+- **2020-05-10** 📰 'Tag: 台南柳營'
+- **2020-05-10** 📰 'Tag: 中國台辦為國民黨、韓國瑜賄選'
+- **2020-05-11** 📰 'Tag: 溫朗東怒'
+- **2020-05-11** 📰 'Tag: 投名狀'
+- **2020-05-11** 📰 'Tag: 中華職棒'
+- **2020-05-11** 📰 'Tag: 二戰'
+- **2020-05-11** 📰 'Tag: 歐洲最新人證'
+- **2020-05-11** 📰 'Tag: 高科技'
+- **2020-05-11** 📰 'Tag: 避險消退'
+- **2020-05-11** 🏥 'Tag: 納瓦羅堅指病毒可能來自武漢P4實驗室'
+- **2020-05-11** 📰 'Tag: 緊急權體制與界限'
+- **2020-05-11** 📰 'Tag: 12歲學生記者被押'
+- **2020-05-11** 📰 'Tag: 一桃殺三士'
+- **2020-05-11** 📰 'Tag: 新冠可能去年世界軍運會就已流行？'
+- **2020-05-11** 📰 'Tag: 歷史脈絡'
+- **2020-05-11** 📰 'Tag: Taiwan'  (4×)
+- **2020-05-11** 📰 'Tag: 港人嘆稚子何辜'
+- **2020-05-11** 📰 'Tag: 韓戰'
+- **2020-05-11** 📰 'Tag: 激素風暴'
+- **2020-05-11** 📰 'Tag: 垃圾債'
+- **2020-05-11** 📰 'Tag: 吳志揚'
+- **2020-05-11** 📰 'Tag: Micro LED'
+- **2020-05-11** 📰 'Tag: 警方鎮暴讓幼童「中椒」'
+- **2020-05-11** 📰 'Tag: 傳中國竊取肺炎疫苗資料 川普說這不是新聞'
+- **2020-05-11** 📰 'Tag: 大蕭條'
+- **2020-05-11** 📰 'Tag: 香港母親節警民衝突'
+- **2020-05-11** 📰 'Tag: 特勤局'
+- **2020-05-11** 📰 'Tag: 傳中國想重談貿易協議川普沒興趣'
+- **2020-05-11** 🏥 'Tag: 納瓦羅稱中國只花60天就摧毀美國經濟'
+- **2020-05-12** 📰 'Tag: 日本擬將脊髓性肌萎症藥物定價逾4500萬台幣'
+- **2020-05-12** 📰 'Tag: 亞洲投資'
+- **2020-05-12** 📰 'Tag: 亞太營運中心'
+- **2020-05-12** 📰 'Tag: 寶島經濟'
+- **2020-05-12** 📰 'Tag: 龍潭蓋廠'
+- **2020-05-12** 📰 'Tag: 世上最貴的藥'
+- **2020-05-12** 📰 'Tag: 台灣BERI'
+- **2020-05-12** 📰 'Tag: 尊重主人的決定'
+- **2020-05-12** 📰 'Tag: 美國九成航班停飛每天虧損四億元'
+- **2020-05-12** 📰 'Tag: 川普總統下令把美聯邦僱員退休金基金撤出中國市場'
+- **2020-05-12** 📰 'Tag: 美國航空業寒風凜冽 最冷日子還未到來'
+- **2020-05-13** 📰 'Tag: 養生秘訣'
+- **2020-05-13** 📰 'Tag: 中醫防疫'
+- **2020-05-13** 📰 'Tag: 川普延長行政命令1年 續封殺華為等中企'
+- **2020-05-13** 📰 'Tag: 陳建仁感謝2370萬燭光閃亮台灣'
+- **2020-05-13** 📰 'Tag: 舞廳'
+- **2020-05-13** 📰 'Tag: 三分之二台受訪者認為自己只是台灣人'
+- **2020-05-13** 📰 'Tag: 中國跳腳要求取消'
+- **2020-05-13** 📰 'Tag: 高級文官'
+- **2020-05-13** 📰 'Tag: 楊翠雙親皆是受難者家屬'
+- **2020-05-13** 📰 'Tag: 巴黎稱遵循一中政策 也遵守對台合同'
+- **2020-05-13** 📰 'Tag: 陳建仁副總統將回中研院作研究'
+- **2020-05-13** 📰 'Tag: 川普轟中國：100個貿易協議都無法彌補'
+- **2020-05-13** 📰 'Tag: 中國趁人之危賺黑心錢'
+- **2020-05-13** 📰 'Tag: 武漢肺炎禍延全球'
+- **2020-05-13** 📰 'Tag: 罷免展現民主'
+- **2020-05-13** 📰 'Tag: 美國皮尤中心民調'
+- **2020-05-13** 📰 'Tag: 政治工具'
+- **2020-05-13** 📰 'Tag: 酒店'
+- **2020-05-13** 📰 'Tag: 法國對台灣提供拉法葉艦維護更新'
+- **2020-05-13** 📰 'Tag: 立委王婉諭'
+- **2020-05-13** 📰 'Tag: 陳瓊華'
+- **2020-05-13** 📰 'Tag: 去流氓化'
+- **2020-05-14** 📰 'Tag: 武漢全市八區停快遞'
+- **2020-05-14** 📰 'Tag: 東三省疫情告急'
+- **2020-05-14** 📰 'Tag: 武漢再現“倒地不起”'
+- **2020-05-14** 📰 'Tag: 美聯邦退休基金無限期擱置對中國股票投資計畫'
+- **2020-05-14** 📰 'Tag: 中國東北吉林省吉林市封城'
+- **2020-05-14** 📰 'Tag: 美軍'  (4×)
+- **2020-05-14** 📰 'Tag: 兩岸'
+- **2020-05-14** 📰 'Tag: 川普威脅與中國切斷一切關係'
+- **2020-05-14** 📰 'Tag: 燈泡媽'
+- **2020-05-14** 📰 'Tag: 代理孕母法'
+- **2020-05-14** 📰 'Tag: 生育'
+- **2020-05-14** 📰 'Tag: 內閣總辭'
+- **2020-05-14** 📰 'Tag: 鄭麗君卸下文化部長回家陪兒'
+- **2020-05-14** 📰 'Tag: 鄭麗君為紓困忙到瘦一圈'
+- **2020-05-14** 📰 'Tag: 顏清標換肝'
+- **2020-05-14** 📰 'Tag: 好感度'
+- **2020-05-14** 📰 'Tag: 川普排除與習近平交談'
+- **2020-05-14** 📰 'Tag: 陳肇隆'
+- **2020-05-14** 📰 'Tag: 子宮出租'
+- **2020-05-14** 📰 'Tag: 郭冠英'
+- **2020-05-14** 📰 'Tag: 美205位眾議員致函譚德塞 促邀台灣出席世衛大會'
+- **2020-05-14** 📰 'Tag: 活體捐肝'
+- **2020-05-14** 📰 'Tag: 美中決戰台海'
+- **2020-05-14** 📰 'Tag: 美參議院通過《維吾爾人權政策法》最新版本擴大施壓中國'
+- **2020-05-15** 🏥 'Tag: 中國國防科技大學資料外洩 疑64萬確診遍布230城市'
+- **2020-05-15** 🏥 'Tag: 美怒斥消滅樣本 中國衛健委認了'
+- **2020-05-15** 📰 'Tag: 價值觀'
+- **2020-05-15** 📰 'Tag: 卸任禮遇'
+- **2020-05-15** 📰 'Tag: 美重申挺台入WHO'
+- **2020-05-15** 📰 'Tag: 聲請停罷'
+- **2020-05-15** 📰 'Tag: 台灣與13國視訊交流防疫經驗'
+- **2020-05-15** 📰 'Tag: 停止罷免'
+- **2020-05-16** 📰 'Tag: 百億家族'
+- **2020-05-16** 🏥 'Tag: 星宇'
+- **2020-05-16** 📰 'Tag: 美國海軍“吉福茲”號（USS Gabrielle Giffords）瀕海戰鬥艦12日前往南中國海馬來西亞專屬經濟區巡邏。'
+- **2020-05-16** 🏥 'Tag: 武漢肺炎台灣連9天零確診 連34天無本土病例'
+- **2020-05-16** 📰 'Tag: 蓋牌'
+- **2020-05-16** 📰 'Tag: 新冠流行加劇美國人對“中國製造”的反感'
+- **2020-05-17** 📰 'Tag: 疫情重創美國經濟'
+- **2020-05-17** 📰 'Tag: 風水名師林正義'
+- **2020-05-17** 📰 'Tag: Fed：美國Q2經濟緊縮可能達20%至30%'
+- **2020-05-17** 📰 'Tag: 金正恩再傳死訊？ 北韓撤下中央廣場前領導人肖像'
+- **2020-05-17** 📰 'Tag: 台積電赴美納編「美國隊」'
+- **2020-05-17** 📰 'Tag: 美國加大力度打擊中國經濟間諜活動'
+- **2020-05-17** 📰 'Tag: 天公爐'
+- **2020-05-17** 📰 'Tag: 斗六'
+- **2020-05-17** 📰 'Tag: 美艦穿越台海'
+- **2020-05-17** 📰 'Tag: 美中攤牌'
+- **2020-05-17** 📰 'Tag: 喬良'
+- **2020-05-17** 📰 'Tag: 中國「太極大師」嗆拳擊手不是對手，上擂台30秒被KO'
+- **2020-05-17** 📰 'Tag: 官運'
+- **2020-05-17** 📰 'Tag: 墊腳'
+- **2020-05-17** 📰 'Tag: 趁疫攻台'
+- **2020-05-18** 📰 'Tag: 520新人事'
+- **2020-05-18** 📰 'Tag: 蘇嘉全出任總統府秘書長折衝協調'
+- **2020-05-18** 📰 'Tag: 天不從人願的婚姻'
+- **2020-05-18** 📰 'Tag: 李大維掌海基會'
+- **2020-05-18** 📰 'Tag: 美生技廠Moderna 武漢肺炎疫苗第一階段試驗結果正面'
+- **2020-05-19** 📰 'Tag: 罷韓勿被賭盤誤導'
+- **2020-05-19** 🏥 'Tag: 反罷10招'
+- **2020-05-19** 📰 'Tag: 李來希'
+- **2020-05-19** 📰 'Tag: 疫苗研發'
+- **2020-05-19** 📰 'Tag: 渾水再出手 指中概股「跟誰學」(GSX Techedu) 8成營收作假'
+- **2020-05-19** 📰 'Tag: 中國鴨霸'
+- **2020-05-19** 📰 'Tag: 全球反中潮'
+- **2020-05-19** 📰 'Tag: 派系卡位'
+- **2020-05-19** 📰 'Tag: 內閣閣員'
+- **2020-05-20** 📰 'Tag: 台灣經濟'
+- **2020-05-20** 📰 'Tag: 愛奇藝'
+- **2020-05-20** 📰 'Tag: 美眾議員致函川普 籲將台灣參與納入世衛改革指標'
+- **2020-05-20** 📰 'Tag: 延禧攻略'
+- **2020-05-20** 📰 'Tag: 香港前中聯辦主任王志民再露面頭髮已全白'
+- **2020-05-20** 📰 'Tag: 美售台魚雷'
+- **2020-05-20** 📰 'Tag: 捷克參議院50比1高票支持議長訪台'
+- **2020-05-20** 📰 'Tag: 陳芳明：公民力量是台灣民主最重要的基石'
+- **2020-05-20** 📰 'Tag: 就職典禮'
+- **2020-05-20** 📰 'Tag: 港大學生會候選會長：港獨是最理想的出路'
+- **2020-05-20** 📰 'Tag: 吸粉內幕'
+- **2020-05-20** 📰 'Tag: 蔡英文就職'
+- **2020-05-20** 📰 'Tag: 小英IG'
+- **2020-05-20** 🎤 'Tag: 台灣總統'
+- **2020-05-21** 📰 'Tag: 潛伏貧困戶'
+- **2020-05-21** 📰 'Tag: 美國復工'
+- **2020-05-21** 📰 'Tag: 強制脫貧'
+- **2020-05-21** 📰 'Tag: 幫兇'
+- **2020-05-21** 📰 'Tag: 美國會計師事務所'
+- **2020-05-22** 📰 'Tag: 期末考'
+- **2020-05-22** 📰 'Tag: 視察快閃'
+- **2020-05-22** 📰 'Tag: 美國計劃10萬人參加新冠疫苗試驗'
+- **2020-05-22** 📰 'Tag: 梅雨彈'
+- **2020-05-22** 📰 'Tag: 雨炸高雄'
+- **2020-05-22** 📰 'Tag: 美國力求新冠疫苗年底前問世'
+- **2020-05-23** 📰 'Tag: 不相挺就不算黑人'
+- **2020-05-23** 📰 'Tag: 府下週提出考試院人事'
+- **2020-05-23** 📰 'Tag: 考試院定位轉型國家人資部門'
+- **2020-05-23** 📰 'Tag: 拜登為失言致歉'
+- **2020-05-23** 📰 'Tag: 陳時中逛墾丁大街 帶著民眾高喊我台灣我驕傲'
+- **2020-05-23** 📰 'Tag: 台灣加緊研發多種導彈 提高應對中共武統的防禦能力'
+- **2020-05-23** 📰 'Tag: 智慧型郵輪'
+- **2020-05-23** 📰 'Tag: 大陸'
+- **2020-05-24** 📰 'Tag: 美國本地畢業生求職'
+- **2020-05-24** 📰 'Tag: 就職'
+- **2020-05-24** 📰 'Tag: 台灣海巡署籌建4000噸級巡防艦 首艦12月交船'
+- **2020-05-25** 🏥 'Tag: 居家隔離個案也歸零'
+- **2020-05-25** 📰 'Tag: 水柱'
+- **2020-05-25** 📰 'Tag: 蓋牌無效'
+- **2020-05-25** 🏥 'Tag: 武漢肺炎25日零確診 連43天無本土病例'
+- **2020-05-25** 📰 'Tag: 罷免市長'
+- **2020-05-25** 📰 'Tag: 港人抗議國安法'
+- **2020-05-25** 📰 'Tag: 罷免無效'
+- **2020-05-25** 📰 'Tag: 設備去美化'
+- **2020-05-25** 📰 'Tag: 胡椒噴霧'
+- **2020-05-25** 📰 'Tag: 速龍小隊'
+- **2020-05-25** 📰 'Tag: 小英總統說：這一刻，我們都和香港人民站在一起'
+- **2020-05-25** 🏥 'Tag: 本土病例'
+- **2020-05-25** 📰 'Tag: 提案'
+- **2020-05-25** 📰 'Tag: 高雄人'  (2×)
+- **2020-05-25** 🏥 'Tag: 零確診'
+- **2020-05-25** 📰 'Tag: 美國累計新冠死亡人數逼近10萬'
+- **2020-05-25** 📰 'Tag: 長週末美國民眾出遊度假'
+- **2020-05-25** 📰 'Tag: 永遠不要得罪中國，因為中國是大紅龍？'
+- **2020-05-26** 📰 'Tag: 台灣不會放棄香港 會堅守台灣國家利益'
+- **2020-05-26** 📰 'Tag: 三金影帝'
+- **2020-05-26** 📰 'Tag: 小偷'
+- **2020-05-26** 📰 'Tag: 薪水'
+- **2020-05-26** 🏛️ 'Tag: 葉元之'  (2×)
+- **2020-05-27** 📰 'Tag: 選民恐懼'
+- **2020-05-27** 📰 'Tag: 黑道介入'
+- **2020-05-27** 📰 'Tag: 罷韓監票'
+- **2020-05-27** 📰 'Tag: 留港不留人'
+- **2020-05-27** 📰 'Tag: 高雄民政局'
+- **2020-05-27** 📰 'Tag: 胡椒球彈'
+- **2020-05-28** 📰 'Tag: 英外相：將放寬持英國國民海外護照的30萬港人簽證權'
+- **2020-05-28** 📰 'Tag: 英美澳加外長聯署聲明深切關注港版國家安全法'
+- **2020-05-28** 📰 'Tag: 美中開戰'
+- **2020-05-28** 📰 'Tag: 中國指治理香港依據中國憲法和香港基本法'
+- **2020-05-28** 📰 'Tag: 乾洗手'
+- **2020-05-28** 📰 'Tag: 挺韓搞烏龍'
+- **2020-05-28** 📰 'Tag: 香港之死'
+- **2020-05-29** 📰 'Tag: 明尼阿波利斯市非裔男子遭警方壓頸喪命'
+- **2020-05-29** 📰 'Tag: CNN記者採訪明尼阿波利斯市示威竟被捕'
+- **2020-05-29** 📰 'Tag: 大地震'
+- **2020-05-29** 📰 'Tag: 美國阿公級旅行頑童羅森度（Joseph Rosendo）走遍台灣'
+- **2020-05-29** 📰 'Tag: 中國公安部直接指導港警工作'
+- **2020-05-29** 📰 'Tag: 妖魔化'
+- **2020-05-29** 📰 'Tag: 北京加強干預香港事務'
+- **2020-05-29** 📰 'Tag: 川普要求調查中國在美上市公司的行為'
+- **2020-05-29** 📰 'Tag: 西太平洋成美國戰略重心'
+- **2020-05-29** 📰 'Tag: 台灣面對難得機遇'
+- **2020-05-29** 📰 'Tag: 中國兩會後即映炮擊金門10集紀錄'
+- **2020-05-29** 📰 'Tag: 兩岸和平'
+- **2020-05-29** 📰 'Tag: 金門立委陳玉珍'
+- **2020-05-30** 📰 'Tag: 罷韓團體'
+- **2020-05-30** 📰 'Tag: 薛化元'
+- **2020-05-30** 📰 'Tag: 澳洲野火'
+- **2020-05-30** 📰 'Tag: 田詒鴻代表桃園市捐贈防疫物資給友好城市長堤市'
+- **2020-05-30** 📰 'Tag: 美國海軍再次挑戰中國在南中國海的主權聲索'
+- **2020-05-30** 📰 'Tag: 新聞深呼吸'
+- **2020-05-31** 🏥 'Tag: 武漢肺炎31日零確診 連49天沒本土病例'
+- **2020-05-31** 🏥 'Tag: 疫情平穩民眾鬆懈，解封挑戰考驗指揮中心'
+- **2020-05-31** 📰 'Tag: 中國全國人大報告明訂加速推動港版國安法立法'
+- **2020-05-31** 📰 'Tag: 法官'
+- **2020-05-31** 📰 'Tag: 美警暴力'
+- **2020-06-01** 📰 'Tag: 美示威潮'  (2×)
+- **2020-06-01** 📰 'Tag: 全民瘋阿中'
+- **2020-06-01** 📰 'Tag: 蔡總統：嘉義艦創兩里程碑'
+- **2020-06-01** 📰 'Tag: 台灣海巡4000噸嘉義艦下水'
+- **2020-06-02** 📰 'Tag: 政壇如戲台'
+- **2020-06-02** 📰 'Tag: 民調：6成美國人同情示威 5成5不認同川普處理'
+- **2020-06-02** 📰 'Tag: 三倍券'  (2×)
+- **2020-06-02** 📰 'Tag: 小蔣日記'
+- **2020-06-02** 📰 'Tag: 六四天安門事件31週年'
+- **2020-06-02** 📰 'Tag: 楊秋興'
+- **2020-06-02** 🏥 'Tag: 龐皮歐'  (2×)
+- **2020-06-03** 📰 'Tag: 腦中風徵兆'
+- **2020-06-03** 📰 'Tag: 常委提案'
+- **2020-06-03** 🏥 'Tag: 林龍'
+- **2020-06-03** 📰 'Tag: 「空腹吃水果」戰勝癌症老謠言'
+- **2020-06-03** 📰 'Tag: 川普政府計畫從16日開始禁止中國客機飛往美國'
+- **2020-06-04** 📰 'Tag: 六四天安門'
+- **2020-06-04** 🕯️ 'Tag: 六四31週年'
+- **2020-06-04** 📰 'Tag: 韓市長'
+- **2020-06-04** 📰 'Tag: 罷韓放天燈祈願迎新高雄'
+- **2020-06-04** 📰 'Tag: 撐香港'
+- **2020-06-04** 📰 'Tag: 悼念六四死難者 港大學生會洗刷國殤之柱'
+- **2020-06-04** 📰 'Tag: 高雄里長'
+- **2020-06-04** 📰 'Tag: 健保'
+- **2020-06-04** 🏥 'Tag: 北漂族'
+- **2020-06-04** 📰 'Tag: 投票通知單'
+- **2020-06-04** 📰 'Tag: 六四學運之影響力遠大於五四學運'
+- **2020-06-04** 🗳️ 'Tag: 修選罷法禁境外勢力刊播選舉廣告'
+- **2020-06-04** 📰 'Tag: 歷史學者吳仁華'
+- **2020-06-04** 📰 'Tag: 韓粉'  (4×)
+- **2020-06-04** 📰 'Tag: 六四事件'
+- **2020-06-05** 📰 'Tag: 全美抗議要求正義國會議員做出反應'
+- **2020-06-05** 🏥 'Tag: 徐嶔煌'
+- **2020-06-05** 📰 'Tag: 反罷韓'
+- **2020-06-05** 📰 'Tag: 罷韓決戰'
+- **2020-06-05** 📰 'Tag: 皇帝'
+- **2020-06-06** 📰 'Tag: 俄兩萬噸柴油洩露致北極河流“血染”'
+- **2020-06-06** 📰 'Tag: 美國提議幫俄清理'
+- **2020-06-06** 🏥 'Tag: 美軍航母'
+- **2020-06-06** 📰 'Tag: 中印邊境指揮官會議僅達成和平解決爭端共識'
+- **2020-06-07** 📰 'Tag: 李明賢'
+- **2020-06-07** 📰 'Tag: 罷免票'
+- **2020-06-07** 📰 'Tag: 韓國瑜選總統'
+- **2020-06-07** 📰 'Tag: 短視近利'
+- **2020-06-08** 📰 'Tag: 奇兵'
+- **2020-06-08** 📰 'Tag: 廖其芳'
+- **2020-06-08** 📰 'Tag: 川普計劃簽署《維吾爾人權政策法》'
+- **2020-06-08** 📰 'Tag: 黨魁'  (2×)
+- **2020-06-08** 🕯️ 'Tag: 激化對立'
+- **2020-06-08** 📰 'Tag: 高雄地名怎麼來 教育部臉書說明白'
+- **2020-06-09** 📰 'Tag: 美議員促中國撤回侵犯港民自由的措施'
+- **2020-06-09** 📰 'Tag: 罷免韓國瑜'
+- **2020-06-09** 📰 'Tag: 香港反送中週年'
+- **2020-06-09** 📰 'Tag: 罷免無效訴訟'
+- **2020-06-10** 📰 'Tag: 凱道'
+- **2020-06-10** 📰 'Tag: 劍指台灣'
+- **2020-06-10** 📰 'Tag: 高市府'
+- **2020-06-10** 📰 'Tag: 疫情重擊'
+- **2020-06-10** 📰 'Tag: 惡鄰在身邊'
+- **2020-06-10** 📰 'Tag: 海島著陸戰'
+- **2020-06-10** 📰 'Tag: 困獸之鬥'
+- **2020-06-10** 📰 'Tag: 白衣道別'
+- **2020-06-10** 📰 'Tag: 台塑'
+- **2020-06-10** 📰 'Tag: 陳柏惟'  (2×)
+- **2020-06-11** 📰 'Tag: 北約共同圍堵中國軍力擴張'
+- **2020-06-11** 📰 'Tag: 北約轉移對抗焦點'
+- **2020-06-11** 📰 'Tag: 台美中關係'
+- **2020-06-11** 📰 'Tag: G7挺台灣'
+- **2020-06-11** 📰 'Tag: 中國球星'
+- **2020-06-11** 📰 'Tag: 徐斯儉任國安會副秘書長'
+- **2020-06-11** 📰 'Tag: 七位美國參議員致信蓬佩奧，要求接收逃離恐懼的香港人'
+- **2020-06-11** 📰 'Tag: 議長之死'
+- **2020-06-11** 📰 'Tag: 美台軍事合作'
+- **2020-06-11** 📰 'Tag: 王丹：將對Zoom提起訴訟'
+- **2020-06-11** 📰 'Tag: 郝海東'
+- **2020-06-11** 📰 'Tag: 台灣通姦除罪化'
+- **2020-06-11** 📰 'Tag: 偷情網站會員暴增 女比男多'
+- **2020-06-11** 📰 'Tag: 報復性罷免'
+- **2020-06-12** 📰 'Tag: 推特再移除17萬個散佈虛假信息的中國假帳號'
+- **2020-06-12** 📰 'Tag: 中國會否干預美國大選？'
+- **2020-06-12** 📰 'Tag: 韓正'
+- **2020-06-12** 📰 'Tag: 中國黑客攻擊拜登競選團隊'
+- **2020-06-13** 📰 'Tag: 藍白拖'
+- **2020-06-13** 📰 'Tag: 民調顯示六成港人歸咎北京和港府打擊一國兩制信心'
+- **2020-06-13** 📰 'Tag: 北京港府出言恫嚇6.20香港公投'
+- **2020-06-13** 📰 'Tag: 柑縣台灣同鄉會團購台灣製造的醫療囗罩'
+- **2020-06-14** 📰 'Tag: 《美國之音》挨批淪為中共喉舌'
+- **2020-06-14** 📰 'Tag: 《美國之音》遭CDC封殺'
+- **2020-06-14** 📰 'Tag: 金鐘女配角'
+- **2020-06-14** 📰 'Tag: 演員'
+- **2020-06-14** 📰 'Tag: 政治家'
+- **2020-06-15** 📰 'Tag: 韓粉目標'
+- **2020-06-15** 📰 'Tag: 罷免破功'
+- **2020-06-15** 📰 'Tag: 朱挺玗'
+- **2020-06-15** 📰 'Tag: 罷免陳致中'
+- **2020-06-15** 📰 'Tag: 公民團體'
+- **2020-06-15** 📰 'Tag: 京東本周香港上市'
+- **2020-06-15** 📰 'Tag: F16V'
+- **2020-06-15** 📰 'Tag: 抗疫大將'
+- **2020-06-15** 📰 'Tag: 劉強東辭京東旗下5大職'
+- **2020-06-15** 📰 'Tag: 川普：將撤出部分駐德美軍'
+- **2020-06-15** 📰 'Tag: 美國之音正副台長辭職'
+- **2020-06-15** 📰 'Tag: 法國世界報'
+- **2020-06-15** 📰 'Tag: 中共“濫用”EB-5投資移民簽證項目'
+- **2020-06-15** 📰 'Tag: VOA屢遭點名為中國喉舌'
+- **2020-06-15** 📰 'Tag: 共產幽靈回西方'
+- **2020-06-16** 📰 'Tag: 川普簽署行政令，要求改革警察系統'
+- **2020-06-16** 📰 'Tag: 台灣的四句聯'
+- **2020-06-16** 📰 'Tag: 蕭美琴長期耕耘國際外交事務'
+- **2020-06-16** 📰 'Tag: 蕭美琴成台灣首位女性駐美代表'
+- **2020-06-16** 🏥 'Tag: 群聚感染'
+- **2020-06-16** 📰 'Tag: 鮭魚'
+- **2020-06-16** 📰 'Tag: 疫情數據'
+- **2020-06-16** 📰 'Tag: 中國說謊'
+- **2020-06-17** 📰 'Tag: 發大財'
+- **2020-06-17** 📰 'Tag: 聯絡大樓'
+- **2020-06-17** 📰 'Tag: 中印軍人互毆'
+- **2020-06-17** 📰 'Tag: 美企業可與華為合作訂5G標準'
+- **2020-06-18** 📰 'Tag: 美參議員提出議案 遏止校園的外國盜竊技術與創新'
+- **2020-06-18** 📰 'Tag: 臉書允許用戶關閉政治廣告'
+- **2020-06-18** 📰 'Tag: 假消息流竄'
+- **2020-06-18** 📰 'Tag: 川普競選廣告使用納粹符號遭臉書移除'
+- **2020-06-18** 📰 'Tag: 前國會助理涉共諜案'
+- **2020-06-18** 📰 'Tag: 蕭美琴：面對外交戰狼挑釁 我自許為戰貓'
+- **2020-06-18** 📰 'Tag: 並肩戰術'
+- **2020-06-18** 📰 'Tag: 朝野立委籲依法嚴辦'
+- **2020-06-18** 📰 'Tag: 疫情未緩 但美國不須加強封鎖'
+- **2020-06-18** 📰 'Tag: 美國最高院裁定 廢「追夢人」計畫違法'
+- **2020-06-18** 📰 'Tag: 美最高防疫專家Anthony Fauci'
+- **2020-06-19** 📰 'Tag: 眾議員Michael McCaul'
+- **2020-06-19** 📰 'Tag: 美國必須有效對抗中共的宣傳'
+- **2020-06-19** 📰 'Tag: 增兵邊界'
+- **2020-06-19** 📰 'Tag: 金與正上位'
+- **2020-06-19** 📰 'Tag: 郭子'
+- **2020-06-20** 📰 'Tag: 黨魁之爭'
+- **2020-06-20** 📰 "Tag: 敢查川普私人律師，紐約聯邦檢察官\"被辭職\""
+- **2020-06-20** 📰 'Tag: 公衛守護台灣'
+- **2020-06-20** 📰 'Tag: 政權'
+- **2020-06-20** 📰 'Tag: 戰時狀態'
+- **2020-06-20** 📰 'Tag: 蓬佩奧警告靠攏中國即背離價值 逼歐洲選邊站'
+- **2020-06-20** 📰 'Tag: 北韓炸樓'
+- **2020-06-20** 📰 'Tag: Geoffrey Berman'
+- **2020-06-20** 📰 'Tag: 華府民眾推倒南方邦聯將軍像'
+- **2020-06-20** 📰 'Tag: 美六月節各地示威討正義'
+- **2020-06-20** 📰 'Tag: 江澤民'
+- **2020-06-20** 🏥 'Tag: 肺炎'
+- **2020-06-21** 📰 'Tag: 監委'
+- **2020-06-21** 📰 'Tag: 史達偉：不懂為何中國認為可利用疫情增加對台灣及周邊的挑釁'
+- **2020-06-21** 📰 'Tag: 城市'
+- **2020-06-21** 📰 'Tag: 習近平要求川普不讓蔡英文總統訪美'
+- **2020-06-21** 📰 'Tag: 疫情爆發後川普首次競選造勢'
+- **2020-06-21** 📰 'Tag: 前線持槍'
+- **2020-06-21** 📰 'Tag: M16步槍'
+- **2020-06-21** 📰 'Tag: 金門謎之慘案'
+- **2020-06-21** 📰 'Tag: 專家警告：三峽大壩萬一潰堤大水直沖上海'
+- **2020-06-21** 📰 'Tag: 中國三峽庫區水位持續上漲 超出防洪限制2公尺'
+- **2020-06-21** 📰 'Tag: 金門虎軍部隊'
+- **2020-06-22** 📰 'Tag: 邱文仁'
+- **2020-06-22** 📰 'Tag: 陳菊獲提名擔任監察院長，宣布退出政黨'
+- **2020-06-22** 📰 'Tag: 職場升官'
+- **2020-06-22** 📰 'Tag: 集體闖禍'
+- **2020-06-22** 📰 'Tag: 澳洲遭國家級駭客攻擊 與中國有關'
+- **2020-06-22** 📰 'Tag: 民進黨依規定註銷陳菊黨籍'
+- **2020-06-23** 📰 'Tag: 高市長補選'
+- **2020-06-23** 📰 'Tag: 美面臨疫情歷史性挑戰'
+- **2020-06-23** 📰 'Tag: 政府衛生專家國會作證'
+- **2020-06-23** 📰 'Tag: 疫情之下濟困扶危挺僑民'
+- **2020-06-23** 📰 'Tag: 紅色警戒'
+- **2020-06-23** 📰 'Tag: 國民黨兩岸新論述遭質疑'
+- **2020-06-23** 📰 'Tag: 馬吳連缺席'
+- **2020-06-23** 📰 'Tag: 前國安顧問 John Bolton'
+- **2020-06-23** 📰 'Tag: 川普對華政策受連任動機驅使'
+- **2020-06-23** 📰 'Tag: 傳染力'
+- **2020-06-24** 📰 'Tag: 警總文件曝光'
+- **2020-06-24** 📰 'Tag: 竹聯掛勾'
+- **2020-06-24** 📰 'Tag: 日籍女學生'
+- **2020-06-24** 🏥 'Tag: 滿意度'
+- **2020-06-25** 📰 'Tag: 確診'
+- **2020-06-25** 📰 'Tag: FBI局長警告'
+- **2020-06-25** 📰 'Tag: 中共對美構成極為嚴重的國家安全威脅'
+- **2020-06-25** 📰 'Tag: 李佳芬'
+- **2020-06-26** 📰 'Tag: 《香港自治法案》（Hong Kong Accountability Act）匯豐銀行被指或榜上有名'
+- **2020-06-26** 📰 'Tag: 凱道限定演出'
+- **2020-06-26** 📰 'Tag: 以戰養戰'
+- **2020-06-26** 📰 'Tag: 高屏補選'
+- **2020-06-26** 📰 'Tag: 北韓女帝'
+- **2020-06-26** 📰 'Tag: 吳念真化身說書人'
+- **2020-06-26** 📰 'Tag: 解封後首場大型演出'
+- **2020-06-26** 📰 'Tag: 報復性出遊'
+- **2020-06-26** 🗳️ 'Tag: 罷韓'
+- **2020-06-27** 📰 'Tag: Global Pride 2020 線上同志遊行'
+- **2020-06-27** 📰 'Tag: 柯文哲反同言論惹議'
+- **2020-06-27** 📰 'Tag: 歐盟重開邊境'
+- **2020-06-27** 📰 'Tag: 2020 國慶焰火地點出爐：台南市漁光島'
+- **2020-06-27** 📰 'Tag: 祭旗'
+- **2020-06-27** 📰 'Tag: 香港問題'
+- **2020-06-27** 📰 'Tag: 就學'
+- **2020-06-27** 📰 'Tag: 世界戰爭引爆點'
+- **2020-06-27** 🏥 'Tag: 美武漢肺炎確診突破250萬例，逾12萬5000人病故，亞利桑那州、佛羅里達州和內華達州等確診攀升至單日新高'
+- **2020-06-27** 📰 'Tag: 大城市邊緣人'
+- **2020-06-27** 📰 'Tag: 農民工'
+- **2020-06-27** 📰 'Tag: 中共對台戰爭'
+- **2020-06-27** 📰 'Tag: 生存權利'
+- **2020-06-27** 📰 'Tag: 醫療保障'
+- **2020-06-28** 📰 'Tag: 三立新聞台'
+- **2020-06-28** 📰 'Tag: 漢光36號最大亮點'
+- **2020-06-28** 📰 'Tag: 沖繩飯糰'
+- **2020-06-28** 📰 'Tag: 和氣龍太朗'
+- **2020-06-28** 📰 'Tag: 一個營就能作戰'
+- **2020-06-28** 📰 'Tag: 關廟三寶'
+- **2020-06-28** 📰 'Tag: 大埤潭'
+- **2020-06-28** 📰 'Tag: 公園踏青'
+- **2020-06-28** 📰 'Tag: 旺萊'
+- **2020-06-28** 📰 'Tag: 歐盟7月1日重開邊境，美國台灣未被列入清單'
+- **2020-06-29** 📰 'Tag: 英駐中使館聲明被中共從微信刪除'
+- **2020-06-29** 📰 'Tag: 傳港版國安法通過即拘黃之鋒'
+- **2020-06-29** 📰 'Tag: Stop Hate for Profit'
+- **2020-06-29** 📰 'Tag: 吹冷氣'
+- **2020-06-29** 📰 'Tag: BJ’s Wholesale clubs'
+- **2020-06-29** 📰 'Tag: 民進黨團'
+- **2020-06-29** 📰 'Tag: 泛民爆引退潮'
+- **2020-06-29** 📰 'Tag: 拒向臉書下廣告'
+- **2020-06-29** 📰 'Tag: 美國兩航母作戰群在菲律賓海聯合行動'
+- **2020-06-29** 🏥 'Tag: 世界大戰'
+- **2020-06-29** 📰 'Tag: 輪椅情'
+- **2020-06-30** 📰 'Tag: 陳菊：港區國安法就像台灣當年戒嚴令'
+- **2020-06-30** 🏥 'Tag: 美專家Anthony Fauci警告'
+- **2020-06-30** 📰 'Tag: 2020 父親節省思'
+- **2020-06-30** 📰 'Tag: 川普姪女將出書爆黑歷史'
+- **2020-06-30** 🏥 'Tag: 不能保證美國將有安全有效新冠疫苗'
+- **2020-06-30** 🏥 'Tag: 美國武漢肺炎病例可能每日增達10萬'
+- **2020-07-01** 📰 'Tag: 嫌犯認罪後不久已逃回中國'
+- **2020-07-02** 📰 'Tag: 勞動基金'
+- **2020-07-02** 📰 'Tag: 陳文成事件39週年'
+- **2020-07-02** 📰 'Tag: 美兩黨議員敦促政府正式認定中國在新疆的暴行並制裁相關官員'
+- **2020-07-03** 📰 'Tag: 車輪花'
+- **2020-07-03** 📰 'Tag: 暴雨預警'
+- **2020-07-03** 📰 'Tag: 羅文嘉'
+- **2020-07-03** 🏥 'Tag: 白沙屯媽祖'
+- **2020-07-04** 🎤 'Tag: 川普前往總統山發表演講'
+- **2020-07-04** 🎤 'Tag: 川普指推倒雕像運動是抹殺美國歷史的左翼文化革命'
+- **2020-07-04** 🎤 'Tag: 美國獨立日'
+- **2020-07-05** 🏥 'Tag: 川普稱美國99%確診病例無害'
+- **2020-07-05** 🏥 'Tag: 川普國慶談話淡化疫情'
+- **2020-07-05** 📰 'Tag: 苟晶的奇案'
+- **2020-07-05** 📰 'Tag: 52國與中港簽署引渡合作'
+- **2020-07-05** 📰 'Tag: 「送中」疑慮'
+- **2020-07-05** 📰 'Tag: 中國網絡觀察'
+- **2020-07-05** 📰 'Tag: 英媒調查：75%讀者認中國是西方最大威脅'
+- **2020-07-05** 📰 'Tag: 袁弓夷'
+- **2020-07-06** 🗳️ 'Tag: 年輕人'
+- **2020-07-06** 📰 'Tag: 海軍'
+- **2020-07-06** 📰 'Tag: 不切實際'
+- **2020-07-06** 📰 'Tag: 台灣海軍意外翻船'
+- **2020-07-06** 📰 'Tag: 伴護不足'
+- **2020-07-06** 📰 'Tag: 苦苓'
+- **2020-07-07** 📰 'Tag: 青壯派'
+- **2020-07-07** 📰 'Tag: 院長'
+- **2020-07-07** 📰 'Tag: 涉港資料'
+- **2020-07-07** 📰 'Tag: 實施細則'
+- **2020-07-07** 📰 'Tag: 郭董'
+- **2020-07-07** 📰 'Tag: 中國動用各種手段阻止美國官員訪台'
+- **2020-07-09** 📰 'Tag: 數據安全法'
+- **2020-07-09** 📰 'Tag: 照妖鏡'
+- **2020-07-09** 📰 'Tag: 旅遊作家'
+- **2020-07-10** 📰 'Tag: 朱立倫江啟臣同台駁斥'
+- **2020-07-10** 📰 'Tag: 結盟爭黨魁流言四起'
+- **2020-07-10** 📰 'Tag: 朱立倫拉攏侯友宜力抗「江韓」結盟'
+- **2020-07-11** 🏥 'Tag: WHO終承認 新型冠狀病毒可經空氣傳播'
+- **2020-07-11** 📰 'Tag: 中美科技開啟戰略脫鉤'
+- **2020-07-11** 📰 'Tag: 中國任意執法風險升高'
+- **2020-07-12** 📰 'Tag: 振興三倍券'
+- **2020-07-12** 🏥 'Tag: 武肺'
+- **2020-07-13** 📰 'Tag: 議場設施遭破壞，能否實質審查不無疑問'
+- **2020-07-13** 📰 'Tag: 加州再祭封鎖令'
+- **2020-07-13** 📰 'Tag: 憲改廢考監'
+- **2020-07-13** 📰 'Tag: 美國經濟前景蒙陰影'
+- **2020-07-13** 📰 'Tag: 陳菊盼理性討論審查'
+- **2020-07-13** 📰 'Tag: 中印關係'
+- **2020-07-13** 📰 'Tag: 善款弊端'
+- **2020-07-13** 📰 'Tag: 提款機'
+- **2020-07-13** 📰 'Tag: 軍事秀場'
+- **2020-07-13** 📰 'Tag: 高雄氣爆'
+- **2020-07-13** 📰 'Tag: 國民黨議員陳麗娜'
+- **2020-07-13** 📰 'Tag: 守住台灣'
+- **2020-07-14** 📰 'Tag: 中國官員'
+- **2020-07-14** 📰 'Tag: 質詢台'
+- **2020-07-14** 📰 'Tag: 血戰'
+- **2020-07-15** 📰 'Tag: 蔣介石基督為用儒家和法西斯為體'
+- **2020-07-15** 📰 'Tag: 英國'
+- **2020-07-15** 📰 'Tag: 中國股市'
+- **2020-07-15** 📰 'Tag: 割韭菜'
+- **2020-07-15** 📰 'Tag: 中共霸權'
+- **2020-07-15** 📰 'Tag: 對港特殊待遇'
+- **2020-07-15** 📰 'Tag: 香港自治法'
+- **2020-07-15** 📰 'Tag: 各國南海主權主張若遭中國侵犯 美國將伸援手'
+- **2020-07-17** 📰 'Tag: 投票'
+- **2020-07-17** 📰 'Tag: 中美關係'
+- **2020-07-19** 📰 'Tag: 戰地坑道響起詩歌樂章'
+- **2020-07-20** 📰 'Tag: 武鬥'
+- **2020-07-20** 📰 'Tag: 鍾小平'
+- **2020-07-20** 📰 'Tag: 養生'
+- **2020-07-20** 📰 'Tag: 轉型'
+- **2020-07-20** 📰 'Tag: 中共武統台灣'
+- **2020-07-21** 📰 'Tag: 食物'
+- **2020-07-21** 📰 'Tag: 台股創新高'
+- **2020-07-21** 📰 'Tag: 胡錦濤'
+- **2020-07-22** 📰 'Tag: Wecare'
+- **2020-07-22** 📰 'Tag: 黃越綏'
+- **2020-07-22** 📰 'Tag: 甩鍋'
+- **2020-07-22** 📰 'Tag: 陳耀寬'
+- **2020-07-22** 📰 'Tag: 軍事專家'
+- **2020-07-23** 📰 'Tag: 羅淑蕾'  (2×)
+- **2020-07-23** 📰 'Tag: 中國要求美國關閉駐成都總領事館'
+- **2020-07-23** 📰 'Tag: 修憲過不了「公民複決」'
+- **2020-07-24** 📰 'Tag: 對抗暴政'
+- **2020-07-24** 📰 'Tag: 美對中開戰宣言'
+- **2020-07-24** 📰 'Tag: 川普拚拜登選情吃緊'
+- **2020-07-24** 📰 'Tag: 疫情失控'
+- **2020-07-24** 📰 'Tag: 藏匿於中國駐舊金山總領館的唐娟已被抓'
+- **2020-07-24** 📰 'Tag: 論文抄襲'
+- **2020-07-24** 📰 'Tag: 手機'
+- **2020-07-24** 📰 'Tag: 美駐成都領館'
+- **2020-07-24** 🏥 'Tag: 國際病患'
+- **2020-07-26** 📰 'Tag: 情報交換'
+- **2020-07-26** 📰 'Tag: 冤案'
+- **2020-07-26** 📰 'Tag: 醜惡的政教勾結'
+- **2020-07-26** 📰 'Tag: 無名命案'
+- **2020-07-26** 📰 'Tag: 高市議長補選31日登場'
+- **2020-07-26** 📰 'Tag: 我的女兒美琴'
+- **2020-07-26** 📰 'Tag: 蕭清芬'
+- **2020-07-26** 📰 'Tag: 美第二波疫情救助一人1200美元8月發出'
+- **2020-07-26** 📰 'Tag: 國會'  (4×)
+- **2020-07-26** 📰 'Tag: BLD ( TopBuild Corp. )'
+- **2020-07-26** 📰 'Tag: 美財長稱即將推出第二波疫情救助'
+- **2020-07-27** 📰 'Tag: 民主黨候選人'
+- **2020-07-27** 📰 'Tag: 港大教授袁國勇'
+- **2020-07-27** 📰 'Tag: 接地氣'
+- **2020-07-27** 📰 'Tag: 美軍航跡'
+- **2020-07-27** 📰 'Tag: 恆春半島'
+- **2020-07-27** 📰 'Tag: 物化女性'
+- **2020-07-28** 📰 'Tag: 蔡侑勳'
+- **2020-07-28** 📰 'Tag: 當局警告勿栽植'
+- **2020-07-29** 📰 'Tag: 兒童蛀牙'
+- **2020-07-29** 📰 'Tag: 外太空'
+- **2020-07-29** 📰 'Tag: 乳牙照顧'
+- **2020-07-29** 📰 'Tag: 林志嘉'
+- **2020-07-29** 📰 'Tag: 公視'
+- **2020-07-30** 🗳️ 'Tag: 鄭佩芬'
+- **2020-07-30** 📰 'Tag: 永遠的民主先生'
+- **2020-07-30** 📰 'Tag: 為台灣奮鬥'
+- **2020-07-30** 📰 'Tag: 參選紅線'
+- **2020-07-30** 📰 'Tag: 港府列舉5類人無法履行立法會職責'
+- **2020-07-30** 🏥 'Tag: 病毒'
+- **2020-07-31** 🏥 'Tag: 亞洲'
+- **2020-07-31** 📰 'Tag: 凍結在美資產並限制入境'
+- **2020-07-31** 📰 'Tag: 兩國論'
+- **2020-07-31** 📰 'Tag: 美國宣佈制裁新疆生產建設兵團和兩名兵團負責人'
+- **2020-07-31** 📰 'Tag: 李登輝辭世'
+- **2020-07-31** 📰 'Tag: 反制中國'
+- **2020-07-31** 🏛️ 'Tag: 立委'
+- **2020-08-01** 📰 'Tag: 政見會'
+- **2020-08-01** 📰 'Tag: 全球反中情緒'
+- **2020-08-01** 📰 'Tag: 抓捕共諜'
+- **2020-08-01** 📰 'Tag: 美中變局'
+- **2020-08-01** 📰 'Tag: 美國對台戰略'
+- **2020-08-01** 📰 'Tag: 美國5G乾淨網路名單更新 台灣5家電信全入列'
+- **2020-08-01** 📰 'Tag: 美官員：人們最終只會和信任的人做生意'
+- **2020-08-01** 📰 'Tag: samsung'
+- **2020-08-01** 📰 'Tag: 三星關閉最後一個中國PC廠'
+- **2020-08-02** 📰 'Tag: 印度北部摻兌甲醇“毒酒”害死近百人'
+- **2020-08-02** 📰 'Tag: 徐永明若遭羈押時力將停權處分'
+- **2020-08-02** 📰 'Tag: 政治人物'
+- **2020-08-02** 📰 'Tag: 民眾黨挺過滅黨危機'
+- **2020-08-02** 📰 'Tag: 凍省'
+- **2020-08-02** 📰 'Tag: 保政權'
+- **2020-08-02** 📰 'Tag: 疫情期間冒險喝假酒'
+- **2020-08-02** 📰 'Tag: 人民'
+- **2020-08-02** 📰 'Tag: 柯文哲仍有嚴峻挑戰'
+- **2020-08-02** 📰 'Tag: 美國對華政策顧問余茂春'
+- **2020-08-02** 📰 'Tag: 民主修練'
+- **2020-08-02** 🕯️ 'Tag: 學生'
+- **2020-08-03** 📰 'Tag: 權鬥'
+- **2020-08-03** 📰 'Tag: 立委收賄'
+- **2020-08-03** 📰 'Tag: 茶壺風暴'
+- **2020-08-03** 📰 'Tag: 蕭美琴華府履新'
+- **2020-08-03** 📰 'Tag: 中常委'
+- **2020-08-03** 📰 'Tag: 柯P要發動「第二波的寧靜革命」'
+- **2020-08-03** 📰 'Tag: 檢調'
+- **2020-08-04** 📰 'Tag: 立委醜聞'
+- **2020-08-04** 📰 'Tag: 台灣司法改革'
+- **2020-08-04** 📰 'Tag: 南加州僑團、僑領拜會洛僑中心'
+- **2020-08-04** 📰 'Tag: 羅霈穎猝死'
+- **2020-08-04** 📰 'Tag: 川普揚言封殺TikTok'
+- **2020-08-04** 📰 'Tag: 貝魯特港區倉庫硝酸銨釀禍'
+- **2020-08-04** 📰 'Tag: 封禁抖音 美國政府有哪些方法可用'
+- **2020-08-04** 📰 'Tag: 蘇嘉全'
+- **2020-08-05** 🏛️ 'Tag: 貪汙'
+- **2020-08-05** 📰 'Tag: 倒黨危機'
+- **2020-08-05** 📰 'Tag: 王瑞德'  (2×)
+- **2020-08-05** 📰 'Tag: 主動退黨'
+- **2020-08-05** 📰 'Tag: 跳船潮'
+- **2020-08-05** 📰 'Tag: 退黨議員'
+- **2020-08-05** 📰 'Tag: 反貪招牌'
+- **2020-08-06** 📰 'Tag: 賴品妤'
+- **2020-08-06** 📰 'Tag: 川普簽行政命令'
+- **2020-08-06** 📰 'Tag: 徐永明涉貪'
+- **2020-08-06** 📰 'Tag: 清除中國公司與平台'
+- **2020-08-06** 📰 'Tag: 45天後禁美企與TikTok騰訊交易'
+- **2020-08-06** 🕯️ 'Tag: 大洛杉磯台灣會館設置會場供鄉親追思'
+- **2020-08-07** 📰 'Tag: 李榮宗'
+- **2020-08-07** 📰 'Tag: 賄選'
+- **2020-08-07** 📰 'Tag: 時力'
+- **2020-08-08** 📰 'Tag: 收押立委'
+- **2020-08-08** 📰 'Tag: 逆光使者'
+- **2020-08-08** 📰 'Tag: 美國就業成長放緩'
+- **2020-08-08** 📰 'Tag: 角頭'
+- **2020-08-08** 📰 'Tag: 陳時中建造「台獨新樂園」'
+- **2020-08-08** 📰 'Tag: 警方掛線'
+- **2020-08-08** 📰 'Tag: 補選黃金週'
+- **2020-08-08** 📰 'Tag: 術語意義'
+- **2020-08-08** 📰 'Tag: 馬克宏呼籲黎巴嫩改革'
+- **2020-08-08** 📰 'Tag: 世界舞台'
+- **2020-08-08** 📰 'Tag: 祝賀蕭美琴履任台灣駐美大使'
+- **2020-08-09** 📰 'Tag: 李登輝赴日'
+- **2020-08-09** 📰 'Tag: 森喜朗'
+- **2020-08-09** 📰 'Tag: 澳洲校園'
+- **2020-08-09** 📰 'Tag: 舉報文化'
+- **2020-08-09** 📰 'Tag: 自我審查'
+- **2020-08-09** 📰 'Tag: 吳敦義'  (2×)
+- **2020-08-09** 📰 'Tag: 伴手禮'
+- **2020-08-09** 📰 'Tag: “恐懼是真實的”'
+- **2020-08-10** 📰 'Tag: 里程碑'
+- **2020-08-10** 📰 'Tag: 台美衛生合作'
+- **2020-08-10** 📰 'Tag: 伏筆'
+- **2020-08-10** 📰 'Tag: 眉蓁的政見'
+- **2020-08-10** 📰 'Tag: 海水沖馬桶'
+- **2020-08-10** 📰 'Tag: 港版國安法'
+- **2020-08-10** 📰 'Tag: 李雨蓁'
+- **2020-08-10** 🏛️ 'Tag: 台灣FTA'
+- **2020-08-10** 🏛️ 'Tag: 衛生合作備忘錄'
+- **2020-08-11** 🗳️ 'Tag: 中國全國人大通過全體議員延任'
+- **2020-08-11** 📰 'Tag: 阿札爾白來'
+- **2020-08-11** 🗳️ 'Tag: 香港立法會選舉延一年'
+- **2020-08-11** 📰 'Tag: 黃國昌：在二線支持'
+- **2020-08-12** 🏥 'Tag: 俄疫苗必須得到世衛批准'
+- **2020-08-12** 📰 'Tag: 詹惠珠'
+- **2020-08-12** 📰 'Tag: 台灣續供香港人道援助'
+- **2020-08-12** 📰 'Tag: 捍衛民主自由燈塔'
+- **2020-08-12** 🎤 'Tag: 台灣防疫'
+- **2020-08-12** 🏥 'Tag: 泛美衛生組織'
+- **2020-08-12** 📰 'Tag: 輔選'
+- **2020-08-12** 📰 'Tag: 蔡總統對美智庫視訊演說'
+- **2020-08-12** 🏥 'Tag: 普京批准俄羅斯新冠病毒疫苗投入使用'
+- **2020-08-13** 📰 'Tag: 唱和中國'
+- **2020-08-13** 📰 'Tag: 三峽大壩'
+- **2020-08-13** 📰 'Tag: 黃令先演唱自己的作品 Praise the Lord'
+- **2020-08-13** 📰 'Tag: 以立音樂基金會 Elite Music Foundation 音樂總監黃令先'
+- **2020-08-13** 📰 'Tag: 紐時'
+- **2020-08-14** 📰 'Tag: 浴缸'
+- **2020-08-14** 📰 'Tag: 黃創夏'
+- **2020-08-14** 📰 'Tag: 摘牌警告下中國企業仍湧入'
+- **2020-08-14** 📰 'Tag: 美經濟溫和復甦'
+- **2020-08-14** 📰 'Tag: Paderewski – 他的心留在 Doylestown PA'
+- **2020-08-14** 📰 'Tag: 台灣睽違28年再獲新戰機'
+- **2020-08-14** 📰 'Tag: 韓國瑜為李眉蓁站台'
+- **2020-08-15** 🗳️ 'Tag: 高雄市長'
+- **2020-08-15** 🗳️ 'Tag: 敗選感言'
+- **2020-08-15** 📰 'Tag: 投票率'
+- **2020-08-15** 📰 'Tag: 林鄭稱主動退回劍橋大學名譽院士頭銜'
+- **2020-08-16** 📰 'Tag: 人權館特展緬懷白色恐怖原民受難者'
+- **2020-08-16** 📰 'Tag: 台灣正式簽約，將獲美國66架F-16戰鬥機'
+- **2020-08-16** 📰 'Tag: 重金屬'
+- **2020-08-16** 📰 'Tag: 陳其邁勝選'
+- **2020-08-16** 📰 'Tag: 鵝蛋論'
+- **2020-08-16** 📰 'Tag: 原民轉型正義'
+- **2020-08-17** 🗳️ 'Tag: 國民黨包袱'
+- **2020-08-17** 📰 'Tag: 韓粉出'
+- **2020-08-17** 📰 'Tag: 經濟部三大修法方向'
+- **2020-08-17** 📰 'Tag: 韓粉出征'
+- **2020-08-17** 📰 'Tag: 貿易戰'
+- **2020-08-18** 📰 'Tag: 告別韓流'
+- **2020-08-18** 📰 'Tag: 亞洲民主奶茶聯盟'
+- **2020-08-18** 📰 'Tag: 無厘頭的悲情'
+- **2020-08-18** 📰 'Tag: 居家辦公族'
+- **2020-08-18** 🤝 'Tag: 九二共識'
+- **2020-08-18** 📰 'Tag: 呂文婉'
+- **2020-08-20** 📰 'Tag: 疫調'
+- **2020-08-20** 📰 'Tag: 普京對手納瓦爾尼疑似中毒陷入昏迷'
+- **2020-08-20** 📰 'Tag: 司法改革'
+- **2020-08-20** 📰 'Tag: 陳其邁3副手'
+- **2020-08-20** 📰 'Tag: 許常德'  (2×)
+- **2020-08-20** 📰 'Tag: 羅達生'
+- **2020-08-21** 📰 'Tag: 強制處分'
+- **2020-08-21** 📰 'Tag: 李文亮'
+- **2020-08-21** 📰 'Tag: 法務部'
+- **2020-08-21** 📰 'Tag: 美國海關扣押台灣大旺漁船'
+- **2020-08-22** 📰 'Tag: 二十世紀反抗人種歧視的先鋒 Marian Anderson'
+- **2020-08-22** 📰 'Tag: 73共和黨前官員棄川普改挺拜登'
+- **2020-08-22** 📰 'Tag: 王時齊'
+- **2020-08-22** 📰 'Tag: 彰化篩檢無症狀居家檢疫者'
+- **2020-08-22** 📰 'Tag: 台灣國防部'
+- **2020-08-23** 📰 'Tag: 台北銅鑼灣書店'
+- **2020-08-23** 📰 'Tag: 書枱不屈膝，思想不受困'
+- **2020-08-24** 📰 'Tag: 試劑'
+- **2020-08-24** 📰 'Tag: 施政重點'
+- **2020-08-24** 🏥 'Tag: 台大'
+- **2020-08-24** 🏥 'Tag: 人民健康'
+- **2020-08-24** 📰 'Tag: 為武肺負責'
+- **2020-08-24** 📰 'Tag: 共軍演習'
+- **2020-08-24** 📰 'Tag: AIT處長'
+- **2020-08-25** 📰 'Tag: 擴大千分之一的機率'
+- **2020-08-25** 📰 'Tag: 聲援中國「小明」'
+- **2020-08-25** 📰 'Tag: 黎智英等人為何得以保釋？'
+- **2020-08-25** 📰 'Tag: 共和黨黨綱'
+- **2020-08-25** 📰 'Tag: 對台六保證'
+- **2020-08-25** 📰 'Tag: 打台灣'
+- **2020-08-25** 📰 'Tag: 台灣國防'
+- **2020-08-25** 📰 'Tag: 陳唐山疑涉賄'
+- **2020-08-25** 📰 'Tag: 舔共，台灣必成美軍頭號箭靶'
+- **2020-08-25** 🏥 'Tag: 指揮中心'
+- **2020-08-25** 📰 'Tag: 中南海'
+- **2020-08-25** 📰 'Tag: 入境上海'
+- **2020-08-26** 📰 'Tag: 刑法19條'
+- **2020-08-27** 📰 'Tag: 普篩'
+- **2020-08-27** 📰 'Tag: 台美啟動貿易談判'
+- **2020-08-27** 📰 'Tag: 美豬美牛開放進口成台美貿易談判關鍵'
+- **2020-08-27** 📰 'Tag: 葉彥伯'
+- **2020-08-27** 📰 'Tag: 抗體'
+- **2020-08-27** 📰 'Tag: 萬人血清報告'
+- **2020-08-27** 📰 'Tag: 陳揮文'
+- **2020-08-28** 📰 'Tag: 科技戰'
+- **2020-08-29** 📰 'Tag: 經濟部'
+- **2020-08-29** 📰 'Tag: 台灣大搜索'  (2×)
+- **2020-08-31** 📰 'Tag: 出征北市長'
+- **2020-08-31** 📰 'Tag: 阿札爾'
+- **2020-09-02** 📰 'Tag: 、湯守仁及其後代們的故事'
+- **2020-09-03** 📰 'Tag: 我是台灣人'
+- **2020-09-04** 📰 'Tag: 鄒族的人權軼史'
+- **2020-09-04** 📰 'Tag: 高一生、湯守仁及其後代們的故事'
+- **2020-09-04** 📰 'Tag: 旅美五十周年'
+- **2020-09-05** 📰 'Tag: 港區國安法'
+- **2020-09-05** 📰 'Tag: 驚驚爆新聞線'
+- **2020-09-05** 📰 'Tag: 鬼月禁忌'
+- **2020-09-05** 🏥 'Tag: 超級醫生'
+- **2020-09-05** 🏥 'Tag: 解封'
+- **2020-09-05** 📰 'Tag: 林明進交保'
+- **2020-09-05** 🏥 'Tag: 都蘭'
+- **2020-09-05** 🏥 'Tag: 病毒隱形俠'
+- **2020-09-05** 📰 'Tag: 黑白兩道'
+- **2020-09-05** 🏥 'Tag: 入境篩檢'
+- **2020-09-06** 📰 'Tag: 逆轉勝'
+- **2020-09-07** 📰 'Tag: 詛咒'
+- **2020-09-08** 📰 'Tag: 藍營'
+- **2020-09-08** 📰 'Tag: 黨中央'
+- **2020-09-08** 🗳️ 'Tag: 普丁'
+- **2020-09-09** 📰 'Tag: 統一'
+- **2020-09-09** 📰 'Tag: 試射飛彈'
+- **2020-09-10** 📰 'Tag: ECFA'
+- **2020-09-10** 📰 'Tag: 決戰東南亞'
+- **2020-09-10** 📰 'Tag: 反中國霸凌'
+- **2020-09-10** 📰 'Tag: 防疫漏洞'
+- **2020-09-10** 📰 'Tag: 川普收網'
+- **2020-09-11** 📰 'Tag: 「聲音分類」'
+- **2020-09-11** 📰 'Tag: 「科學音名」'
+- **2020-09-12** 📰 'Tag: 永康街'
+- **2020-09-12** 📰 'Tag: 房東'
+- **2020-09-12** 📰 'Tag: 餐廳熄燈'
+- **2020-09-12** 📰 'Tag: 民主'
+- **2020-09-13** 📰 'Tag: 譚德塞與世界衛生組織是殺人兇手'
+- **2020-09-13** 📰 'Tag: 雕刻刀'
+- **2020-09-13** 📰 'Tag: 日本人'
+- **2020-09-13** 📰 'Tag: 收藏老相機'
+- **2020-09-13** 📰 'Tag: 藝術家Mate'
+- **2020-09-13** 📰 'Tag: 致歉王金平'
+- **2020-09-13** 📰 'Tag: 央視主持人李紅'
+- **2020-09-13** 📰 'Tag: 背相機'
+- **2020-09-13** 📰 'Tag: 峇厘島'
+- **2020-09-14** 📰 'Tag: 中國的阿Q勝利法'
+- **2020-09-14** 📰 'Tag: 華為禁令'
+- **2020-09-14** 📰 'Tag: 中共設局'
+- **2020-09-14** 📰 'Tag: 產能滿載'
+- **2020-09-15** 📰 'Tag: 求和說'
+- **2020-09-15** 📰 'Tag: 改變中共'
+- **2020-09-15** 📰 'Tag: 中國央視'
+- **2020-09-15** 📰 'Tag: 中芯'
+- **2020-09-15** 📰 'Tag: 民心脆弱'
+- **2020-09-15** 📰 'Tag: 2020工鬥'
+- **2020-09-15** 📰 'Tag: 勞保年金'
+- **2020-09-15** 📰 'Tag: 拳力出擊'
+- **2020-09-16** 🏥 'Tag: 戴志揚'
+- **2020-09-16** 📰 'Tag: 李乾龍'
+- **2020-09-16** 📰 'Tag: 獵殺目標'
+- **2020-09-16** 📰 'Tag: 共軍重地'
+- **2020-09-16** 📰 'Tag: 防衛相'
+- **2020-09-16** 📰 'Tag: C919飛機'
+- **2020-09-16** 📰 'Tag: 小鬼過世'
+- **2020-09-16** 📰 'Tag: 柬國渡假村'
+- **2020-09-17** 📰 'Tag: 美國售武'
+- **2020-09-17** 📰 'Tag: 刺蝟台灣'
+- **2020-09-17** 📰 'Tag: 台灣堡壘計畫'
+- **2020-09-17** 📰 'Tag: 台海空域'
+- **2020-09-17** 📰 'Tag: 海上衛士'
+- **2020-09-18** 📰 'Tag: 黃益中'
+- **2020-09-18** 📰 'Tag: 實彈化演習'
+- **2020-09-18** 📰 'Tag: 美次卿柯拉克訪台'
+- **2020-09-19** 🏥 'Tag: 入境普篩'
+- **2020-09-19** 📰 'Tag: 共機亂台'
+- **2020-09-21** 📰 'Tag: 實質談判'
+- **2020-09-21** 📰 'Tag: 美國國務次卿'
+- **2020-09-21** 📰 'Tag: 柯拉克來台'
+- **2020-09-21** 🏥 'Tag: 徐永明'
+- **2020-09-21** 📰 'Tag: 賴芳玉'
+- **2020-09-21** 📰 'Tag: 北檢'
+- **2020-09-22** 🏥 'Tag: 紐約'
+- **2020-09-22** 📰 'Tag: 邊境'
+- **2020-09-22** 📰 'Tag: 貪腐'  (3×)
+- **2020-09-22** 📰 'Tag: 新兵'
+- **2020-09-22** 📰 'Tag: 開第一槍'
+- **2020-09-23** 📰 'Tag: 兆豐'
+- **2020-09-24** 📰 'Tag: 藍白聯手'
+- **2020-09-24** 📰 'Tag: 戰機'
+- **2020-09-24** 📰 'Tag: 衛環召委'
+- **2020-09-24** 📰 'Tag: 口罩國家隊'
+- **2020-09-24** 📰 'Tag: 領空'
+- **2020-09-24** 📰 'Tag: 分手的爛理由'
+- **2020-09-24** 📰 'Tag: 台北'
+- **2020-09-26** 📰 'Tag: 挺台灣'
+- **2020-09-27** 📰 'Tag: DPP'
+- **2020-09-27** 🏛️ 'Tag: 國際組織'
+- **2020-09-28** 📰 'Tag: 國籍'
+- **2020-09-28** 📰 'Tag: 治安'
+- **2020-09-28** 📰 'Tag: 劉怡里'
+- **2020-09-30** 📰 'Tag: Taiwanese American Archives'
+- **2020-09-30** 📰 'Tag: 楊子清'
+- **2020-09-30** 🎤 'Tag: 直球對決'
+- **2020-10-01** 📰 'Tag: 台語考試'
+- **2020-10-01** 📰 'Tag: 政黨'
+- **2020-10-01** 📰 'Tag: 吳子嘉'  (3×)
+- **2020-10-03** 🏥 'Tag: 黃文華'
+- **2020-10-03** 📰 'Tag: 泰國'
+- **2020-10-04** 📰 'Tag: Terry Branstad'
+- **2020-10-05** 📰 'Tag: 大選選情'
+- **2020-10-05** 🏥 'Tag: 新冠肺炎'
+- **2020-10-05** 📰 'Tag: 川普感染肺炎'
+- **2020-10-06** 📰 'Tag: 兩岸青年論壇'
+- **2020-10-06** 📰 'Tag: 真心換絕情'
+- **2020-10-06** 📰 'Tag: AIT主席：中國對台威脅日增，美台強化國防合作'
+- **2020-10-06** 📰 'Tag: 袖手旁觀是不對的'
+- **2020-10-06** 📰 'Tag: 總統府化身民主燈塔指引台灣人方向'
+- **2020-10-06** 📰 'Tag: IMF總裁：疫情引發全球經濟低迷 不如預期糟糕'
+- **2020-10-06** 📰 'Tag: 國慶總統府光雕秀'
+- **2020-10-07** 🏥 'Tag: 台美復交'
+- **2020-10-07** 📰 'Tag: 陳峙穎'
+- **2020-10-08** 🗳️ 'Tag: 期中考'
+- **2020-10-08** 📰 'Tag: 杏仁哥'
+- **2020-10-08** 📰 'Tag: 老公選邊站'
+- **2020-10-08** 📰 'Tag: 印太繁榮'
+- **2020-10-09** 📰 'Tag: 豪賭'
+- **2020-10-09** 📰 'Tag: 台灣晉級'
+- **2020-10-10** 📰 'Tag: 台灣徵兵'
+- **2020-10-11** 📰 'Tag: 范姜提昂'
+- **2020-10-11** 📰 'Tag: 小英應該制止修憲鬧劇'
+- **2020-10-11** 📰 'Tag: 龍應台'
+- **2020-10-11** 📰 'Tag: 愛情長跑'
+- **2020-10-11** 📰 'Tag: 美國重拳出擊　大脫鉤時代來臨'
+- **2020-10-12** 📰 'Tag: SeaGuardian'
+- **2020-10-12** 📰 'Tag: 許聖梅'
+- **2020-10-12** 📰 'Tag: 中國指捷克台籍學者鄭宇欽涉案被捕'
+- **2020-10-12** 📰 'Tag: 中國續炒「台諜」'
+- **2020-10-13** 📰 'Tag: 李眉蓁'
+- **2020-10-15** 🏥 'Tag: 上海'
+- **2020-10-15** 📰 'Tag: 蘋果'
+- **2020-10-15** 🗳️ 'Tag: 主委'
+- **2020-10-16** 📰 'Tag: 軍機伴飛'
+- **2020-10-16** 📰 'Tag: 東沙包機'
+- **2020-10-16** 📰 'Tag: 何博文'
+- **2020-10-16** 📰 'Tag: 五中全會'
+- **2020-10-18** 🏥 'Tag: 毛澤東孫子'
+- **2020-10-18** 📰 'Tag: 台海諜戰'
+- **2020-10-19** 📰 'Tag: 公義戰爭'
+- **2020-10-19** 📰 'Tag: 余杰'
+- **2020-10-19** 📰 'Tag: 甘地給了龍應台一記響亮的耳光'
+- **2020-10-19** 📰 'Tag: 劉寶傑'  (3×)
+- **2020-10-19** 📰 'Tag: 大內宣'
+- **2020-10-20** 📰 'Tag: 軍包機遭香港作梗被迫返航'
+- **2020-10-20** 📰 'Tag: 「北平模式」在台灣行不通'
+- **2020-10-20** 📰 'Tag: 東沙立榮包機'
+- **2020-10-20** 📰 'Tag: 天候添變數'
+- **2020-10-20** 📰 'Tag: 副參謀總長搭運輸機飛抵東沙'
+- **2020-10-20** 📰 'Tag: 駐斐濟代表處'
+- **2020-10-20** 📰 'Tag: 兩岸斷絕'
+- **2020-10-21** 📰 'Tag: 香港國泰航空大裁員砍8500職位'
+- **2020-10-21** 📰 'Tag: 港龍即起停止營運'
+- **2020-10-22** 📰 'Tag: CIA'
+- **2020-10-22** 📰 'Tag: 習大大'
+- **2020-10-23** 📰 'Tag: 無人機'
+- **2020-10-23** 📰 'Tag: 國防法'
+- **2020-10-23** 🏥 'Tag: 韓國'
+- **2020-10-23** 📰 'Tag: 終極爆料'
+- **2020-10-23** 📰 'Tag: 貪腐影帶'
+- **2020-10-23** 📰 'Tag: 鄭弘儀'
+- **2020-10-23** 📰 'Tag: 中國人'
+- **2020-10-23** 📰 'Tag: 中美隔空論戰'
+- **2020-10-24** 🏥 'Tag: 南韓'
+- **2020-10-24** 🏥 'Tag: COVID-19病人床邊的音樂會'
+- **2020-10-25** 🕯️ 'Tag: 蔡總統'
+- **2020-10-25** 📰 'Tag: 李文儀'
+- **2020-10-25** 📰 'Tag: 台南'
+- **2020-10-25** 🎤 'Tag: 博明'
+- **2020-10-25** 📰 'Tag: 特朗普'  (9×)
+- **2020-10-25** 📰 'Tag: 以戰止戰'
+- **2020-10-26** 📰 'Tag: 楊老師音樂短講第 10 集'
+- **2020-10-26** 📰 'Tag: 發聲 ATTACK'
+- **2020-10-26** 📰 'Tag: 北京'  (2×)
+- **2020-10-26** 📰 'Tag: 政權跛腳'
+- **2020-10-26** 📰 'Tag: 中國五中全會'
+- **2020-10-26** 📰 'Tag: 陳文甲'
+- **2020-10-27** 🏛️ 'Tag: 雲豹甲車'
+- **2020-10-27** 📰 'Tag: 中國官媒'
+- **2020-10-27** 📰 'Tag: 中國跳腳'
+- **2020-10-27** 📰 'Tag: 環時'
+- **2020-10-29** 📰 'Tag: 綠委'  (3×)
+- **2020-10-29** 📰 'Tag: 國台辦'
+- **2020-10-30** 📰 'Tag: 美國賭生死'
+- **2020-10-30** 📰 'Tag: 以商逼政'
+- **2020-10-30** 📰 'Tag: 中共'
+- **2020-10-30** 📰 'Tag: 接班人'
+- **2020-10-30** 📰 'Tag: 范世平'
+- **2020-10-30** 📰 'Tag: 吸金大法'
+- **2020-10-30** 📰 'Tag: 欣西亞'
+- **2020-10-30** 📰 'Tag: 美國圍堵'
+- **2020-10-30** 📰 'Tag: 國際雙循環'
+- **2020-10-30** 📰 'Tag: 國內大循環'
+- **2020-10-31** 📰 'Tag: Mozart vs. Salieri 是敵？ 是友？'
+- **2020-10-31** 📰 'Tag: 燃燒吧！火正旺'
+- **2020-10-31** 📰 'Tag: 拜登家族'
+- **2020-10-31** 📰 'Tag: 共產黨'
+- **2020-10-31** 📰 'Tag: 同婚'
+- **2020-11-01** 📰 'Tag: 投票日'
+- **2020-11-01** 🎤 'Tag: 中國共產黨'
+- **2020-11-01** 📰 'Tag: 胰臟癌'  (2×)
+- **2020-11-01** 📰 'Tag: 台大團隊研發AI揪早期胰臟癌 準確率逾9成'
+- **2020-11-02** 📰 'Tag: 五眼聯盟情資'
+- **2020-11-02** 📰 'Tag: 杜威'
+- **2020-11-02** 📰 'Tag: 林萃芬'
+- **2020-11-02** 🏥 'Tag: 請鬼提藥單'
+- **2020-11-02** 📰 'Tag: 解放軍攻台'
+- **2020-11-02** 📰 'Tag: 台灣西南空域'
+- **2020-11-02** 🕯️ 'Tag: 共機'
+- **2020-11-03** 📰 'Tag: 王俸鋼'
+- **2020-11-03** 🎤 'Tag: 全球化'  (2×)
+- **2020-11-04** 🗳️ 'Tag: 共和黨'
+- **2020-11-04** 🏥 'Tag: 馬在勤'
+- **2020-11-04** 🏥 'Tag: VIVI'
+- **2020-11-04** 📰 'Tag: 關鍵州'
+- **2020-11-05** 🏥 'Tag: 陳東豪'
+- **2020-11-05** 🗳️ 'Tag: 民主國家'
+- **2020-11-06** 🏥 'Tag: 統戰'  (4×)
+- **2020-11-06** 📰 'Tag: 大選開票'
+- **2020-11-06** 📰 'Tag: 周映君'
+- **2020-11-06** 📰 'Tag: 美國總統'
+- **2020-11-07** 📰 'Tag: – 歐洲到美洲的 Antonin Dvorak'
+- **2020-11-08** 🗳️ 'Tag: 全民總統'
+- **2020-11-09** 📰 'Tag: 李建漢'
+- **2020-11-09** 📰 'Tag: 浩劫惡夢'
+- **2020-11-09** 🗳️ 'Tag: 拜登當選'
+- **2020-11-09** 📰 'Tag: 推特外交'
+- **2020-11-09** 🗳️ 'Tag: 川普訴訟'
+- **2020-11-09** 🗳️ 'Tag: 全球股市'
+- **2020-11-09** 📰 'Tag: 中華職棒總冠軍賽'
+- **2020-11-09** 📰 'Tag: 美選押寶'
+- **2020-11-09** 🗳️ 'Tag: 敗部復活'
+- **2020-11-09** 📰 'Tag: 鍾年晃'
+- **2020-11-09** 🗳️ 'Tag: 林廷輝'
+- **2020-11-09** 🏥 'Tag: 洪素卿'
+- **2020-11-09** 📰 'Tag: 總統'
+- **2020-11-09** 🏥 'Tag: 敗血症'
+- **2020-11-09** 📰 'Tag: 美軍重返台灣'
+- **2020-11-10** 📰 'Tag: 中國施壓'
+- **2020-11-10** 📰 'Tag: 行政院長蘇貞昌'
+- **2020-11-10** 🏥 'Tag: 黃宥嘉'
+- **2020-11-10** 📰 'Tag: 台灣民意'
+- **2020-11-10** 📰 'Tag: 高雄輕軌復工'
+- **2020-11-10** 📰 'Tag: 民主黨拜登勝出引發台灣媒體不同反應'
+- **2020-11-10** 📰 'Tag: 政治操作'
+- **2020-11-11** 📰 'Tag: 許慧盈'
+- **2020-11-11** 📰 'Tag: 台語講世事'
+- **2020-11-11** 📰 'Tag: 吳斯懷'
+- **2020-11-11** 📰 'Tag: 黃大米'
+- **2020-11-11** 🏥 'Tag: 陳瑞杰'
+- **2020-11-12** 📰 'Tag: WHA主席欲喊卡，台灣友邦聖文森堅持挺台發言到底'
+- **2020-11-12** 📰 'Tag: 稀有粉紅鑽石「玫瑰花魂」 2660萬美元落槌'
+- **2020-11-12** 🗳️ 'Tag: 11月驚奇'
+- **2020-11-12** 📰 'Tag: 集體失憶'
+- **2020-11-12** 🗳️ 'Tag: 川普陣營'
+- **2020-11-12** 📰 'Tag: 參選黨主席'
+- **2020-11-12** 📰 'Tag: 流感疫苗'
+- **2020-11-12** 🗳️ 'Tag: 舞弊證詞'
+- **2020-11-12** 🗳️ 'Tag: 重新計票'
+- **2020-11-12** 📰 'Tag: 東洋代理'
+- **2020-11-12** 📰 'Tag: 韋伯韜'
+- **2020-11-12** 📰 'Tag: 移花接木'
+- **2020-11-12** 📰 'Tag: 顫抖豬'
+- **2020-11-12** 📰 'Tag: 猛爆心肌炎'
+- **2020-11-12** 📰 'Tag: 萊牛麵店'
+- **2020-11-12** 🗳️ 'Tag: 選票簽名'
+- **2020-11-12** 🤝 'Tag: 林全'
+- **2020-11-12** 📰 'Tag: 中國電商巨頭'
+- **2020-11-12** 📰 'Tag: 月下老人'
+- **2020-11-12** 🗳️ 'Tag: 國家機器'
+- **2020-11-12** 📰 'Tag: 廖美然'
+- **2020-11-12** 📰 'Tag: 製造假新聞'
+- **2020-11-12** 📰 'Tag: 血祭雙11'
+- **2020-11-12** 📰 'Tag: 斬小三'
+- **2020-11-12** 📰 'Tag: 菲菲老師'
+- **2020-11-13** 🏥 'Tag: 英國連環殺人魔殘殺13婦女，染武漢肺炎後病故'
+- **2020-11-13** 📰 'Tag: 蓬佩奧挺台'
+- **2020-11-13** 📰 'Tag: 賀電'
+- **2020-11-13** 🗳️ 'Tag: 黃世聰'
+- **2020-11-13** 📰 'Tag: 狄志為'
+- **2020-11-13** 📰 'Tag: 小英'
+- **2020-11-13** 📰 'Tag: 兩黨共識'
+- **2020-11-13** 📰 'Tag: 龐佩奧'
+- **2020-11-13** 📰 'Tag: 大上海'
+- **2020-11-13** 🗳️ 'Tag: 選舉舞弊'
+- **2020-11-13** 📰 'Tag: 美對台承諾'
+- **2020-11-13** 🗳️ 'Tag: 李正皓'
+- **2020-11-13** 📰 'Tag: 丁怡銘失言'
+- **2020-11-13** 📰 'Tag: 川普翻盤'
+- **2020-11-13** 📰 'Tag: 萊牛失言風波'
+- **2020-11-13** 📰 'Tag: 得網路得天下'
+- **2020-11-14** 📰 'Tag: Benjamin Britten/Peter Pears'
+- **2020-11-14** 📰 'Tag: 音樂家乘船渡過大西洋'
+- **2020-11-14** 📰 'Tag: 美洲到歐洲'
+- **2020-11-14** 📰 'Tag: 閨密是小三'
+- **2020-11-14** 📰 'Tag: 奉子成婚'
+- **2020-11-14** 📰 'Tag: 法律戰'
+- **2020-11-14** 📰 'Tag: 台灣非中國一部分'
+- **2020-11-15** 📰 'Tag: 蓬佩奧：台灣一直不是中國的一部分'
+- **2020-11-15** 📰 'Tag: ABT ( Abbott Labs. )'
+- **2020-11-16** 📰 'Tag: 「台獨頑固份子」清單'
+- **2020-11-16** 📰 'Tag: MRNA ( Moderna Inc. )'
+- **2020-11-16** 🤝 'Tag: 2020美國大選'
+- **2020-11-17** 📰 'Tag: CDNA (CareDx Inc. )'
+- **2020-11-17** 📰 'Tag: 龐皮歐「兩國論」是誰的末日？'
+- **2020-11-17** 📰 'Tag: PANW ( Palo Alto Networks Inc. )'
+- **2020-11-17** 📰 'Tag: 大洛杉磯台灣會館基金會22週年'
+- **2020-11-17** 📰 'Tag: 股市亮點'  (3×)
+- **2020-11-18** 📰 'Tag: 柯文哲說不懂「一中原則」'
+- **2020-11-18** 📰 'Tag: 美亞利桑那州鳳凰城批准與台積電開發協議'
+- **2020-11-18** 📰 'Tag: TGT ( Target Corp. )'
+- **2020-11-18** 📰 'Tag: 太陽花是馬英九心中之最悲最痛'
+- **2020-11-19** 📰 'Tag: 南加州林榮松僑務諮詢委員獲聘行政院政務顧問'
+- **2020-11-19** 📰 'Tag: 美CDC建議民眾感恩節假期勿旅行'
+- **2020-11-20** 📰 'Tag: 中國華晨汽車集團破產'
+- **2020-11-20** 📰 'Tag: 幫幫忙基金會'
+- **2020-11-20** 📰 'Tag: 台美經濟對話確認半導體優先戰略合作'
+- **2020-11-20** 📰 'Tag: 國共兩黨造就台獨'
+- **2020-11-20** 📰 'Tag: 鑽石公主遊輪新冠疫情驚魂記'
+- **2020-11-20** 📰 'Tag: 美國威州購物中心爆槍擊案'
+- **2020-11-20** 📰 'Tag: 川普想扭轉拜登勝選結果連踢鐵板'
+- **2020-11-20** 📰 'Tag: 黃安又要留給誰？'
+- **2020-11-20** 📰 'Tag: 輝瑞與BioNTech在美申請疫苗緊急使用授權'
+- **2020-11-20** 📰 'Tag: Foothill Unity'
+- **2020-11-20** 📰 'Tag: 感恩節Drive thru發放食物'
+- **2020-11-20** 📰 'Tag: 越來越多的美國人認為中國應賠償疫情損失'
+- **2020-11-21** 📰 'Tag: 美國將再制裁4家與共軍有關中企'
+- **2020-11-21** 📰 'Tag: 美軍驅逐艦通過台灣海峽'
+- **2020-11-21** 📰 'Tag: 川普想翻轉大選結果，賓州法官駁回訴訟'
+- **2020-11-21** 🗳️ 'Tag: APEC'
+- **2020-11-21** 📰 'Tag: 「英雄市長」朱利安尼淪為替川普叫賣陰謀'
+- **2020-11-21** 📰 'Tag: 「疫情限定」奇怪音樂會'
+- **2020-11-21** 📰 'Tag: 南加大博士生聶焱庠創意無限'
+- **2020-11-21** 📰 'Tag: 單株抗體療法（monoclonal antibody therapies）'
+- **2020-11-21** 📰 'Tag: 美台經濟對話'
+- **2020-11-21** 📰 'Tag: 台美經濟繁榮夥伴對話'
+- **2020-11-21** 📰 'Tag: 員林近代洋樓保安堂曾春泉洋樓列縣定古蹟'
+- **2020-11-22** 🗳️ 'Tag: 共和黨促密州延後認證選舉結果以驗票'
+- **2020-11-22** 📰 'Tag: 美海軍少將低調訪問'
+- **2020-11-22** 📰 'Tag: 美官員預期12月中可開始接種疫苗'
+- **2020-11-22** 📰 'Tag: 美國行政專機降落松機'
+- **2020-11-22** 📰 'Tag: 楊子清老師音樂短講第6集'
+- **2020-11-23** 📰 'Tag: 楊子清老師音樂短講第8集'
+- **2020-11-23** 📰 'Tag: 美國國安顧問連訪越南菲律賓'
+- **2020-11-24** 📰 'Tag: 美環保署長惠勒取消訪台'
+- **2020-11-25** 📰 'Tag: 美右派頻道散佈疫情假消息'
+- **2020-11-25** 📰 'Tag: 林鄭月娥再向中央表忠，施政方針全面配合北京'
+- **2020-11-25** 📰 'Tag: 強制字節跳動出售TikTok令 川普政府同意延7天'
+- **2020-11-25** 📰 'Tag: Dan Blumenthal'
+- **2020-11-25** 📰 'Tag: The China Nightmare: The Grand Ambitions of a Decaying State'
+- **2020-11-25** 📰 'Tag: 卜大年：北京武統台灣之際即美台建交之時'
+- **2020-11-26** 📰 'Tag: 健保除籍後復保：繳錢、等待二選一'
+- **2020-11-28** 📰 'Tag: 中國葉簡明涉入台灣中油查德礦區股權'
+- **2020-11-28** 📰 'Tag: 三島由紀夫逝世50周年'
+- **2020-11-28** 📰 'Tag: 我ê某阿Tiⁿ'
+- **2020-11-28** 📰 'Tag: Góa ê bó͘ A-Tiⁿ'
+- **2020-11-29** 📰 'Tag: 台幹遭指涉經濟犯罪，中國公安懸賞捉拿'
+- **2020-12-01** 📰 'Tag: 拜登緊鑼密鼓組閣，環境、運輸首長人選曝光'
+- **2020-12-02** 📰 'Tag: 陳破空縱論天下'
+- **2020-12-04** 📰 'Tag: TSLA ( Tesla Inc. )'
+- **2020-12-04** 📰 'Tag: 陳奕齊'
+- **2020-12-05** 📰 'Tag: 基進黨'
+- **2020-12-08** 📰 'Tag: 改變DNA'
+- **2020-12-09** 📰 'Tag: 中國全面脫貧？'
+- **2020-12-11** 📰 'Tag: GRMN ( Garmin Ltd. )'
+- **2020-12-13** 📰 'Tag: Appoggio (支持)'
+- **2020-12-13** 📰 'Tag: 美聲唱法技巧'
+- **2020-12-13** 📰 'Tag: 黎智英被控勾結外國罪'
+- **2020-12-13** 📰 'Tag: 香港支聯會選出新一屆領導層'
+- **2020-12-13** 📰 'Tag: 香港國安法'
+- **2020-12-13** 📰 'Tag: 楊子清老師音樂短講第12集'
+- **2020-12-13** 📰 'Tag: 呼吸練習 Breathing Exercises'
+- **2020-12-15** 📰 'Tag: 新冠重創美國低收入戶'
+- **2020-12-15** 📰 'Tag: 台灣可能成為西方民主國家武器裝備的供應來源'
+- **2020-12-15** 📰 'Tag: 台灣胃癌防治政策成世界首例'
+- **2020-12-16** 📰 'Tag: 德國批准資訊安全法 大幅提高華為參與門檻'
+- **2020-12-16** 📰 'Tag: 國際專家下月赴中國 調查COVID-19疫情源頭'
+- **2020-12-23** 📰 'Tag: 聰明的奴才'
+- **2020-12-23** 📰 'Tag: 性騷擾醜聞在中共：加害者居高臨下，受害者求助無門'
+- **2020-12-27** 📰 'Tag: 蔣經國'
+- **2020-12-29** 📰 'Tag: 二二八的女兒如永不凋謝的花'
+- **2020-12-29** 📰 'Tag: 阮美姝《孤寂煎熬四十五年》'
+- **2020-12-29** 📰 'Tag: 連玫'
+- **2020-12-29** 📰 'Tag: 停權'
+- **2020-12-31** 📰 'Tag: 台語世界'
+- **2019-01-13** 📰 'Tag: 減塑商機'
+- **2019-01-23** 📰 'Tag: 聯邦政府關閉'
+- **2019-01-28** 📰 'Tag: 桃機'
+- **2019-02-03** 📰 'Tag: 特習會'
+- **2019-02-11** 📰 'Tag: 政府停擺'
+- **2019-02-19** 📰 'Tag: 擔仔麵'
+- **2019-02-19** 📰 'Tag: 前瞻'
+- **2019-03-05** 📰 'Tag: 搖錢樹'
+- **2019-03-16** 📰 'Tag: 全球進行式'  (2×)
+- **2019-03-17** 📰 'Tag: 親民黨主席'
+- **2019-03-17** 📰 'Tag: 民主價值'
+- **2019-03-31** 📰 'Tag: 能高古道'
+- **2019-04-22** 📰 'Tag: 政經看民視'
+- **2019-04-29** 🗳️ 'Tag: 小額捐款'
+- **2019-05-12** 📰 'Tag: 支持度'
+- **2019-05-20** 📰 'Tag: 蔡英文總統倡台灣博覽會'
+- **2019-05-22** 📰 'Tag: 泡沫化'
+- **2019-06-09** 📰 'Tag: 台獨大老'
+- **2019-06-09** 📰 'Tag: 人權牌'
+- **2019-06-21** 📰 'Tag: 盧秀燕把賣地責任推給林佳龍'
+- **2019-06-25** 📰 'Tag: 柯文哲：有可能'
+- **2019-06-26** 📰 'Tag: 國際局勢'
+- **2019-06-26** 📰 'Tag: 願景'
+- **2019-06-29** 📰 'Tag: 川習會'
+- **2019-06-30** 📰 'Tag: 天降雄兵'
+- **2019-07-01** 📰 'Tag: 新竹造勢'
+- **2019-07-02** 📰 'Tag: 楊黃美幸'
+- **2019-07-14** 📰 'Tag: 吸票機'
+- **2019-07-31** 📰 'Tag: 柯文哲組台灣民眾黨拚10席立委'
+- **2019-08-05** 📰 'Tag: 抗韓大將'
+- **2019-08-09** 🕯️ 'Tag: 54新觀點'
+- **2019-08-13** 📰 'Tag: 「建國入聯」是台灣唯一的出路'
+- **2019-08-13** 📰 'Tag: 國號'
+- **2019-08-17** 📰 'Tag: 和平收場'
+- **2019-08-17** 📰 'Tag: 「光復紅土」'
+- **2019-08-18** 📰 'Tag: 蘇煥智24日組黨'
+- **2019-08-18** 📰 'Tag: 天安門事件若在香港重演將影響美中貿易協議'
+- **2019-08-18** 📰 'Tag: 中共反送中戰犯'
+- **2019-08-29** 📰 'Tag: 賀德芬質疑蔡英文未取得學位'
+- **2019-09-13** 📰 'Tag: 2點說新聞'
+- **2019-09-13** 📰 'Tag: 新聞大解讀'
+- **2019-09-29** 📰 'Tag: 台北首次舉辦銀髮麻將賽'
+- **2019-09-29** 📰 'Tag: 銀髮方城之戰'
+- **2019-10-02** 📰 'Tag: 沙國'
+- **2019-10-02** 📰 'Tag: 卡舒吉遇害一周年'
+- **2019-10-10** 🏥 'Tag: 長青教室心得報告'
+- **2019-10-10** 📰 'Tag: 蔡英文國慶演說'
+- **2019-10-12** 📰 'Tag: 疑點'
+- **2019-10-22** 🗳️ 'Tag: 蔡政府'  (2×)
+- **2019-10-31** 📰 'Tag: 北農'
+- **2019-11-02** 🏥 'Tag: 控糖治療從簡有效益'
+- **2019-11-04** 📰 'Tag: 套利'
+- **2019-11-11** 📰 'Tag: 加徵歐盟汽車關稅'
+- **2019-11-11** 📰 'Tag: 宋楚瑜決定參選'
+- **2019-11-11** 📰 'Tag: 王金平退選'
+- **2019-11-11** 📰 'Tag: 川普有意再延半年決定'
+- **2019-11-14** 📰 'Tag: 板橋'
+- **2019-11-17** 📰 'Tag: 香港動亂'
+- **2019-11-19** 📰 'Tag: 鎮壓'
+- **2019-11-27** 🏥 'Tag: 過勞死'
+- **2019-11-29** 📰 'Tag: 聶榮臻'
+- **2019-11-29** 📰 'Tag: 葉選寧'
+- **2019-11-29** 📰 'Tag: 聶力'
+- **2019-11-29** 📰 'Tag: 黑貓中隊'
+- **2019-11-29** 📰 'Tag: 丁衡高'
+- **2019-11-29** 📰 'Tag: 川普貿易戰'
+- **2019-11-29** 📰 'Tag: 鄒家華'
+- **2019-11-29** 📰 'Tag: 核彈'
+- **2019-11-29** 📰 'Tag: 葉劍英'
+- **2019-12-01** 📰 'Tag: 紅色核彈'
+- **2019-12-01** 📰 'Tag: 香港法案'
+- **2019-12-01** 📰 'Tag: 組合拳'
+- **2019-12-06** 📰 'Tag: 流氓牧師'
+- **2019-12-11** 📰 'Tag: #美國增加國防預算組建太空軍'
+- **2019-12-11** 📰 'Tag: #美國眾議院通過國防授權法案'
+- **2019-12-11** 📰 'Tag: #斷絕與台通聯'
+- **2019-12-11** 📰 'Tag: #防非洲豬瘟'
+- **2019-12-11** 📰 'Tag: #破壞國安層級的防疫'
+- **2019-12-11** 📰 'Tag: #境外電商'
+- **2019-12-12** 📰 'Tag: #張善政指蔡總統沒生小孩不懂父母心'
+- **2019-12-12** 📰 'Tag: #歧視標籤'
+- **2019-12-12** 📰 'Tag: 災難來臨預兆'
+- **2019-12-12** 📰 'Tag: #加強防堵境外勢力在地協力者'
+- **2019-12-12** 📰 'Tag: #反滲透法立法'
+- **2019-12-12** 📰 'Tag: #間諜罪最重無期徒刑終身追訴'
+- **2019-12-12** 📰 'Tag: #國家情報工作法三讀'
+- **2019-12-12** 📰 'Tag: #婦聯會未轉換政黨'
+- **2019-12-12** 📰 'Tag: #中國企業違約者眾金額驚人'
+- **2019-12-12** 📰 'Tag: #中國債務壓力山大'
+- **2019-12-12** 📰 'Tag: #4個月補正緩衝期'
+- **2019-12-13** 📰 'Tag: 遠航停飛'
+- **2019-12-13** 📰 'Tag: #中美貿易第一階段協議達成'
+- **2019-12-13** 📰 'Tag: #政治人物別把農民當提款機'
+- **2019-12-13** 📰 'Tag: #美中達成貿易協議'
+- **2019-12-13** 📰 'Tag: #雲林花生之亂'
+- **2019-12-13** 📰 'Tag: #反擊韓國瑜'
+- **2019-12-13** 📰 'Tag: #流言'
+- **2019-12-13** 📰 'Tag: #蔡總統出手止跌'
+- **2019-12-13** 📰 'Tag: 善政失言'
+- **2019-12-13** 📰 'Tag: 機場退票'
+- **2019-12-13** 📰 'Tag: 關鍵之役'
+- **2019-12-13** 📰 'Tag: 立即第二階段談判'
+- **2019-12-13** 📰 'Tag: 挺韓落伍'
+- **2019-12-13** 📰 'Tag: #美中宣布達成第一階段貿易協議'
+- **2019-12-13** 📰 'Tag: 外配健保'
+- **2019-12-13** 📰 'Tag: #川普盼藉美中貿易協議扳回一城'
+- **2019-12-13** 📰 'Tag: #國會彈劾'
+- **2019-12-13** 📰 'Tag: #川普：25％關稅將保持不變'
+- **2019-12-14** 📰 'Tag: 蔡賴合體'
+- **2019-12-14** 📰 'Tag: 汪浩'
+- **2019-12-14** 📰 'Tag: #貿易協議難解中美困境'
+- **2019-12-14** 📰 'Tag: 爆裂物現'
+- **2019-12-14** 📰 'Tag: 緬甸臉書'
+- **2019-12-14** 📰 'Tag: #反滲透法一定過'
+- **2019-12-14** 📰 'Tag: #世銀不當內規'
+- **2019-12-14** 📰 'Tag: #保障台籍職員權益'
+- **2019-12-14** 📰 'Tag: #新北衝刺選情'
+- **2019-12-15** 📰 'Tag: #桂民海事件'
+- **2019-12-15** 📰 'Tag: #瑞典國會議員要求驅逐中國大使'
+- **2019-12-15** 📰 'Tag: 代號曝光'
+- **2019-12-15** 📰 'Tag: #川普要求道歉'
+- **2019-12-15** 📰 'Tag: #前FBI局長柯米承認通俄調查有草率處'
+- **2019-12-15** 📰 'Tag: 地下賭盤'
+- **2019-12-15** 📰 'Tag: #蔡競辦推廣告搶新住民選票'
+- **2019-12-15** 📰 'Tag: #移工彌撒'
+- **2019-12-15** 📰 'Tag: #移工是台灣一分子'
+- **2019-12-16** 📰 'Tag: #傳香港無線電視股權變動 王雪紅擬退股'
+- **2019-12-16** 📰 'Tag: #美國呼籲中國關閉新疆集中營'
+- **2019-12-16** 📰 'Tag: #新疆再教育營文件接連曝光'
+- **2019-12-16** 📰 'Tag: 中國擴張攻擊性'
+- **2019-12-16** 📰 'Tag: 百年國恥教'
+- **2019-12-16** 📰 'Tag: 日本防衛大臣河野太郎'
+- **2019-12-16** 📰 'Tag: 布農語字典'
+- **2019-12-16** 📰 'Tag: #波特王遭中國打壓'
+- **2019-12-16** 📰 'Tag: #2020夏至日環食在嘉義市'
+- **2019-12-16** 📰 'Tag: Instagram聯手全球事實查核平台 對抗假消息'
+- **2019-12-16** 📰 'Tag: #中國留學生作弊現象的深層原因'
+- **2019-12-16** 📰 'Tag: 周重德神父'
+- **2019-12-16** 📰 'Tag: 遊覽車'
+- **2019-12-16** 📰 'Tag: #日本防衛大臣嚴詞抨擊中國在南中國海的行為'
+- **2019-12-16** 📰 'Tag: #台灣民主可貴'
+- **2019-12-16** 📰 'Tag: #用選票捍衛台灣民主'
+- **2019-12-16** 📰 'Tag: #漢翔與洛馬將簽協議推F-16亞太維修中心'
+- **2019-12-17** 📰 'Tag: #澳門人均GDP世界第2'
+- **2019-12-17** 📰 'Tag: #澳門人渴望選擇的自由'
+- **2019-12-17** 📰 'Tag: 歐發盛醫師'
+- **2019-12-17** 📰 'Tag: 玻璃心碎'
+- **2019-12-18** 📰 'Tag: #復旦大學章程刪除思想自由'
+- **2019-12-18** 🗳️ 'Tag: #台灣總統選舉首場政見會'
+- **2019-12-18** 📰 'Tag: 違建農舍'
+- **2019-12-18** 📰 'Tag: 秘境'
+- **2019-12-18** 📰 'Tag: 張榮味'
+- **2019-12-18** 📰 'Tag: #美國鼓勵器官捐贈 推新規定增加給付'
+- **2019-12-18** 📰 'Tag: #學生唱校歌抗議要求學術獨立'
+- **2019-12-19** 📰 'Tag: 眾議院議長稱未決定何時向參議院提交彈劾條款'
+- **2019-12-19** 📰 'Tag: 雙帥看板'
+- **2019-12-19** 📰 'Tag: #華盛頓稱一月簽署中美貿協'
+- **2019-12-19** 📰 'Tag: #密西根州范安德研究中心未報備中國資助'
+- **2019-12-19** 📰 'Tag: 學術獨立'
+- **2019-12-19** 📰 'Tag: #加國總理杜魯道'
+- **2019-12-20** 📰 'Tag: 與屍體為伍'
+- **2019-12-20** 📰 'Tag: 把妹神車'
+- **2019-12-20** 📰 'Tag: #美再將中國列為壓制宗教自由特別關切國家'
+- **2019-12-20** 📰 'Tag: 飛機座位'
+- **2019-12-20** 📰 'Tag: 經典NSR250'
+- **2019-12-20** 📰 'Tag: 劉德華飆馳'
+- **2019-12-20** 📰 'Tag: 爆紅款湯圓'
+- **2019-12-20** 📰 'Tag: 火車對撞'
+- **2019-12-21** 🗳️ 'Tag: 衝突熱區'
+- **2019-12-21** 📰 'Tag: #親川普反中臉書假帳號帶風向'
+- **2019-12-21** 📰 'Tag: 高雄人怒韓'
+- **2019-12-22** 📰 'Tag: 川普處境嚴峻'
+- **2019-12-22** 📰 'Tag: 遭彈劾總統'
+- **2019-12-22** 📰 'Tag: 波音星際飛機任務失敗降落美國沙漠'
+- **2019-12-22** 📰 'Tag: 美國預期北韓將試射洲際飛彈'
+- **2019-12-22** 📰 'Tag: 客家庄'
+- **2019-12-22** 📰 'Tag: 台中搶票'
+- **2019-12-22** 🗳️ 'Tag: 洗錢'
+- **2019-12-23** 📰 'Tag: 國民黨刻意打泥巴仗'
+- **2019-12-23** 📰 'Tag: 有人站在中國立場'
+- **2019-12-23** 📰 'Tag: 賴清德訪上海是城市交流全程公開'
+- **2019-12-23** 📰 'Tag: 蘋果和Google急下架'
+- **2019-12-23** 📰 'Tag: 波音執行長下台由董事長接替'
+- **2019-12-23** 📰 'Tag: 南迴鐵路電氣化'
+- **2019-12-23** 📰 'Tag: 基進'
+- **2019-12-23** 📰 'Tag: 割舌人偶'
+- **2019-12-23** 📰 'Tag: 政府間諜工具'
+- **2019-12-23** 📰 'Tag: ToTok'
+- **2019-12-23** 📰 'Tag: 潮州'
+- **2019-12-23** 📰 'Tag: 中東熱門App'
+- **2019-12-24** 📰 'Tag: 中國全面禁止基督徒舉辦聖誕聚會'
+- **2019-12-24** 📰 'Tag: 韓國瑜六都施政滿意度倒數第二'
+- **2019-12-24** 📰 'Tag: 蔡競辦'
+- **2019-12-24** 📰 'Tag: 市長就職周年'
+- **2019-12-25** 📰 'Tag: 大海'
+- **2019-12-25** 📰 'Tag: 陳文成案錄音帶仍下落不明'
+- **2019-12-25** 📰 'Tag: 特偵組'
+- **2019-12-25** 📰 'Tag: 美媒指責港警濫用暴力屢見不鮮'
+- **2019-12-25** 📰 'Tag: 政見交鋒'
+- **2019-12-25** 📰 'Tag: 港警內部規定'
+- **2019-12-25** 📰 'Tag: 陳文成案檔案50年後才能閱覽'
+- **2019-12-25** 📰 'Tag: 浴缸當大海'
+- **2019-12-25** 📰 'Tag: 太陽花'
+- **2019-12-25** 📰 'Tag: 蔡談政績'
+- **2019-12-26** 📰 'Tag: 日本福岡滅門案'
+- **2019-12-26** 📰 'Tag: 真理的力量比中共槍砲強大'
+- **2019-12-26** 📰 'Tag: 中國死刑犯在日被絞刑處決'
+- **2019-12-26** 📰 'Tag: 法院認證'
+- **2019-12-27** 📰 'Tag: 川普介入寬貸'
+- **2019-12-27** 📰 'Tag: 美海豹成員Gallagher涉戰爭罪'
+- **2019-12-27** 📰 'Tag: 老同袍批邪惡'
+- **2019-12-27** 📰 'Tag: 總統大選最後一場政見會'
+- **2019-12-27** 📰 'Tag: 台灣海洋事業'
+- **2019-12-27** 📰 'Tag: 日本海軍發展'
+- **2019-12-27** 📰 'Tag: 民視政經'
+- **2019-12-28** 📰 'Tag: “美國優先” 對抗“中國優先”'
+- **2019-12-28** 📰 'Tag: 反滲透法31日拚三讀'
+- **2019-12-28** 📰 'Tag: 綠擬提高罰則最高罰1000萬'
+- **2019-12-28** 📰 'Tag: 楊甦棣'
+- **2019-12-28** 📰 'Tag: PK賭盤'
+- **2019-12-29** 📰 'Tag: 韓國瑜電視辯論素質Low'
+- **2019-12-29** 📰 'Tag: 選民難接受'
+- **2019-12-29** 📰 'Tag: 川普推文揭吹哨者身分'
+- **2019-12-29** 📰 'Tag: 同黨議員叫川普克制點'
+- **2019-12-29** 📰 'Tag: MIT台灣誌'
+- **2019-12-29** 📰 'Tag: 蔡賴輔選雙北立委'
+- **2019-12-30** 📰 'Tag: 嗆媒體'
+- **2019-12-30** 📰 'Tag: 爆粗口'
+- **2019-12-30** 📰 'Tag: 脫西裝'
+- **2019-12-30** 📰 'Tag: 催仇恨票'
+- **2019-12-30** 📰 'Tag: 罵媒體'
+- **2019-12-30** 📰 'Tag: 風雨無阻'
+- **2019-12-30** 📰 'Tag: 華府新聞博物館熄燈'
+- **2019-12-30** 📰 'Tag: 首投族'
+- **2019-12-30** 📰 'Tag: 會刻意晚寄?'
+- **2019-12-30** 🗳️ 'Tag: 民主共和黨選舉保衛戰'
+- **2019-12-30** 📰 'Tag: 中選會指假訊息'
+- **2019-12-30** 📰 'Tag: 車蔣萬安'
+- **2019-12-30** 📰 'Tag: 台中造勢'
+- **2019-12-30** 📰 'Tag: 高鐵票'
+- **2019-12-30** 🗳️ 'Tag: 川普彈劾案進參議院'
+- **2019-12-30** 📰 'Tag: #下架吳斯懷'
+- **2019-12-30** 📰 'Tag: 民調超'
+- **2019-12-31** 📰 'Tag: 全球煙火秀一次看'
+- **2019-12-31** 📰 'Tag: 川普1月15日簽美中第一階段貿易協議'
+- **2019-12-31** 📰 'Tag: 跨年喜迎2020'
+- **2019-12-31** 📰 'Tag: 台灣2020年大選中的中國因素'
+- **2019-12-31** 📰 'Tag: 紅色魔爪'
+- **2019-12-31** 📰 'Tag: 戰情室'
+- **2019-12-31** 📰 'Tag: 邱毅'
+- **2018-01-08** 📰 'Tag: 判死的台灣人'
+- **2018-01-08** 📰 'Tag: 航母寶寶'
+- **2018-01-08** 📰 'Tag: 瘋狂蝦夫'
+- **2018-01-11** 📰 'Tag: 提高軍費'
+- **2018-01-17** 📰 'Tag: 13家台廠名列全球科技前100強'
+- **2018-01-17** 📰 'Tag: 再遭美罰款'
+- **2018-01-17** 📰 'Tag: 美國眾院外委會主席Ed Royce'
+- **2018-01-17** 📰 'Tag: 洛杉磯台美商會年會'
+- **2018-01-19** 📰 'Tag: CSIS報告'
+- **2018-01-21** 📰 'Tag: 外語障礙'
+- **2018-01-21** 📰 'Tag: 機器人旅館'
+- **2018-01-22** 📰 'Tag: 中國過氣「國母」'
+- **2018-01-22** 📰 'Tag: 政府恢復運作'
+- **2018-01-22** 📰 'Tag: 美參眾院通過臨時支出案'
+- **2018-01-22** 📰 'Tag: 被查'
+- **2018-01-22** 📰 'Tag: 宋祖英'
+- **2018-01-26** 📰 'Tag: 川普為「美國優先」辯護'
+- **2018-01-26** 📰 'Tag: 歡迎外來投資'
+- **2018-01-26** 📰 'Tag: 「獨行」'
+- **2018-01-28** 📰 'Tag: 北平'
+- **2018-01-28** 📰 'Tag: 落戶'
+- **2018-01-28** 🎤 'Tag: 達沃斯'
+- **2018-01-29** 📰 'Tag: 情報'
+- **2018-01-31** 📰 'Tag: 美國軍事專家'
+- **2018-02-05** 📰 'Tag: 7休1'
+- **2018-02-11** 📰 'Tag: 地震災害'
+- **2018-02-11** 📰 'Tag: 台灣花蓮'
+- **2018-02-11** 📰 'Tag: 患難真愛'
+- **2018-02-13** 📰 'Tag: 二審逆轉'
+- **2018-02-13** 📰 'Tag: Deadly Quake'
+- **2018-02-13** 📰 'Tag: 蓬萊島雜誌 Formosa 電子報'  (2×)
+- **2018-02-19** 🏥 'Tag: /何清漣'
+- **2018-02-20** 📰 'Tag: 中國良心犯'
+- **2018-02-23** 📰 'Tag: 國安換血'
+- **2018-02-23** 📰 'Tag: 英賴定調'
+- **2018-02-23** 🎤 'Tag: 19大'  (2×)
+- **2018-03-01** 📰 'Tag: 國民待遇'
+- **2018-03-09** 📰 'Tag: 國會最前線'
+- **2018-03-11** 📰 'Tag: 鄧泰華'
+- **2018-03-27** 🤝 'Tag: 蘇游'
+- **2018-03-27** 🤝 'Tag: 新北議會'
+- **2018-03-27** 📰 'Tag: 綠黨中央'
+- **2018-04-04** 📰 'Tag: 策略'
+- **2018-04-06** 📰 'Tag: 陳正義律師'
+- **2018-04-10** 🤝 'Tag: 嘉義市長涂醒哲'
+- **2018-04-15** 📰 'Tag: Amazing Places on Our Planet'
+- **2018-04-21** 🏛️ 'Tag: 馮光遠'
+- **2018-04-21** 📰 'Tag: 民進黨高層'
+- **2018-04-26** 📰 'Tag: 限制住居'
+- **2018-05-05** 📰 'Tag: 新聞深一度'
+- **2018-05-06** 📰 'Tag: 頤宮英雄'
+- **2018-05-10** 📰 'Tag: 禮讓柯文哲'
+- **2018-05-14** 📰 'Tag: 辯護'
+- **2018-05-16** 📰 'Tag: 北市長選戰'
+- **2018-05-20** 🏥 'Tag: 老人的健康與長壽'
+- **2018-05-20** 🏥 'Tag: 基因學'
+- **2018-05-28** 📰 'Tag: 自由'
+- **2018-06-03** 🎤 'Tag: 轉機'
+- **2018-06-03** 📰 'Tag: 生態旅遊'
+- **2018-06-03** 📰 'Tag: 海洋的美麗與哀愁'
+- **2018-06-14** 📰 'Tag: 陷阱'
+- **2018-06-17** 📰 'Tag: 圖博'
+- **2018-06-20** 📰 'Tag: 包租公'
+- **2018-06-22** 📰 'Tag: 獵取美國技術'
+- **2018-06-22** 📰 'Tag: 華裔男子向中國出口反潛裝置'
+- **2018-06-22** 📰 'Tag: 中國“千人計劃”'
+- **2018-06-22** 📰 'Tag: 蓬萊島雜誌'
+- **2018-06-24** 📰 'Tag: 阿公的孫兒'
+- **2018-06-25** 📰 'Tag: 三足鼎立'
+- **2018-06-25** 📰 'Tag: the 29th Senate District’s Senator'
+- **2018-06-25** 📰 'Tag: 張玲玲'
+- **2018-06-25** 📰 'Tag: 宣誓就職'
+- **2018-06-27** 📰 'Tag: 香港學生'
+- **2018-06-27** 📰 'Tag: 維持現況'
+- **2018-07-01** 📰 'Tag: 區塊鏈應用'
+- **2018-07-01** 📰 'Tag: 西點軍校'
+- **2018-07-08** 📰 'Tag: 買台灣'
+- **2018-07-16** 📰 'Tag: 毒渣大追蹤'
+- **2018-07-17** 📰 'Tag: 反洗錢'
+- **2018-07-23** 📰 'Tag: 德國之聲'
+- **2018-07-29** 📰 'Tag: 憲哥周董大和解'
+- **2018-07-29** 📰 'Tag: 中國清華大學'
+- **2018-08-06** 📰 'Tag: 城市轉型'
+- **2018-08-06** 📰 'Tag: 石化業'
+- **2018-08-09** 📰 'Tag: 全聯中元節廣告'
+- **2018-08-09** 📰 'Tag: 團隊的感覺'
+- **2018-08-09** 📰 'Tag: 逆勢行銷'
+- **2018-08-15** 📰 'Tag: 政治利益'
+- **2018-08-19** 📰 'Tag: NDAA'
+- **2018-08-19** 📰 'Tag: 85度C'
+- **2018-08-19** 📰 'Tag: 蔡英文訪NASA'
+- **2018-08-19** 📰 'Tag: 強化台灣軍力'
+- **2018-08-19** 📰 'Tag: 太空人讚嘆從太空看台灣很美'
+- **2018-08-23** 📰 'Tag: 台薩斷交'
+- **2018-08-25** 🏥 'Tag: 台灣會館'
+- **2018-08-26** 📰 'Tag: 梅蘭'
+- **2018-08-26** 📰 'Tag: 越睡越累'
+- **2018-08-26** 📰 'Tag: 在位最久首相'
+- **2018-08-26** 📰 'Tag: 自民黨總裁'
+- **2018-08-27** 📰 'Tag: 勘災政治學'
+- **2018-08-29** 📰 'Tag: Andre Rieu'
+- **2018-09-02** 📰 'Tag: 第二階段連署'
+- **2018-09-09** 📰 'Tag: 中共軍力報告書'
+- **2018-09-09** 📰 'Tag: 對台全面用武作戰準備'
+- **2018-09-16** 📰 'Tag: 林蔡娩'
+- **2018-09-16** 📰 'Tag: 關心弱勢'
+- **2018-09-17** 📰 'Tag: 馬政府'
+- **2018-09-17** 📰 'Tag: 嚴管'
+- **2018-09-17** 📰 'Tag: 台灣恐淪「地方政府」'
+- **2018-09-17** 📰 'Tag: 台灣精神科先驅'
+- **2018-09-17** 📰 'Tag: 加徵新關稅'
+- **2018-09-17** 📰 'Tag: 美願與中國談判'
+- **2018-09-17** 📰 'Tag: 關稅令美國貿易談判中佔優勢'
+- **2018-09-17** 📰 'Tag: 總統經濟顧問'
+- **2018-09-19** 📰 'Tag: 世俗利益至上'
+- **2018-09-19** 📰 'Tag: 台學者怒批梵蒂岡'
+- **2018-09-19** 📰 'Tag: 參院司委會'
+- **2018-09-21** 📰 'Tag: 女婿'
+- **2018-09-23** 📰 'Tag: 中秋月圓'
+- **2018-09-23** 📰 'Tag: 回甘生命路'
+- **2018-09-27** 📰 'Tag: S.H.E'
+- **2018-09-28** 📰 'Tag: 可以連續採收的作物'
+- **2018-09-29** 📰 'Tag: 中國居住證'
+- **2018-10-08** 📰 'Tag: 美副總統彭斯'
+- **2018-10-08** 📰 'Tag: 東亞政局'
+- **2018-10-09** 📰 'Tag: 移民署'
+- **2018-10-09** 📰 'Tag: 胡志強'
+- **2018-10-13** 📰 'Tag: 林華山醫師'
+- **2018-10-14** 📰 'Tag: 軟硬兼施'
+- **2018-11-08** 📰 'Tag: 音樂欣賞'
+- **2018-11-08** 📰 'Tag: 川普將簽行政命令阻非法移民尋求庇護'
+- **2018-11-08** 📰 'Tag: 川普挨批'
+- **2018-11-08** 📰 'Tag: 陰莖「骨折」'
+- **2018-11-08** 📰 'Tag: 術後'
+- **2018-11-08** 📰 'Tag: 小弟弟復健保性福'
+- **2018-11-08** 📰 'Tag: 嘿咻'
+- **2018-11-08** 📰 'Tag: 美國陷入憲政危機'
+- **2018-11-09** 📰 'Tag: 美中對話'
+- **2018-11-10** 🏥 'Tag: Dr. Chelsea Cox'
+- **2018-11-10** 🏥 'Tag: 大腦健康'
+- **2018-11-10** 🏥 'Tag: 阿茲海默症'
+- **2018-11-17** 📰 'Tag: 關鍵點'
+- **2018-11-25** 📰 'Tag: 台灣統獨民意'
+- **2018-11-25** 📰 'Tag: 東奧正名公投'
+- **2018-11-30** 📰 'Tag: 綠白共識'
+- **2018-12-02** 📰 'Tag: 史丹福'
+- **2018-12-04** 📰 'Tag: 聯合開發'
+- **2018-12-04** 📰 'Tag: 台中山手線'
+- **2018-12-04** 📰 'Tag: 台中市長'
+- **2018-12-11** 🗳️ 'Tag: 姚文智'
+- **2018-12-11** 📰 'Tag: 台灣可能再遭到「駭侵」'
+- **2018-12-18** 🎤 'Tag: 演講'
+- **2018-12-18** 🗳️ 'Tag: 養虎為患'
+- **2018-12-19** 🏥 'Tag: 醫師'
+- **2018-12-22** 📰 'Tag: 台聯'
+- **2018-12-22** 📰 'Tag: 中國製造2025'
+- **2018-12-24** 📰 'Tag: 下台'
+- **2018-12-27** 📰 'Tag: 新聞非常道'
+- **2017-01-01** 📰 'Tag: 挑釁一中'
+- **2017-01-01** 📰 'Tag: 川蔡會'
+- **2017-01-01** 📰 'Tag: 展望兩岸關係'
+- **2017-01-03** 📰 'Tag: 美河市案'  (2×)
+- **2017-01-06** 📰 'Tag: 蔡總統出訪中美洲'
+- **2017-01-06** 📰 'Tag: 林鶴明被調至總統府'
+- **2017-01-09** 📰 'Tag: Fifth Column'
+- **2017-01-09** 📰 'Tag: Mafia'
+- **2017-01-19** 📰 'Tag: 獨立媒體'
+- **2017-01-22** 📰 'Tag: 要死錢'
+- **2017-02-01** 📰 'Tag: 大潮遇到回水灣'
+- **2017-02-01** 📰 'Tag: 戈薩奇'
+- **2017-02-01** 📰 'Tag: 川普新令'
+- **2017-02-01** 📰 'Tag: 衝擊硅谷'
+- **2017-02-01** 📰 'Tag: 美國最高法院大法官'
+- **2017-02-01** 📰 'Tag: 亂'
+- **2017-02-01** 📰 'Tag: H-1B簽證'
+- **2017-02-05** 📰 'Tag: 去孫去蔣'
+- **2017-02-17** 📰 'Tag: 可憐'
+- **2017-02-23** 📰 'Tag: 記憶的神經科學'
+- **2017-02-27** 🕯️ 'Tag: 海外僑社辦理紀念二二八活動實施計畫'
+- **2017-02-27** 📰 'Tag: 尋求540億美元軍費增長'
+- **2017-03-12** 📰 'Tag: 去世'  (2×)
+- **2017-03-14** 📰 'Tag: 台灣之美'
+- **2017-03-15** 📰 'Tag: GEC 2017'
+- **2017-03-18** 📰 'Tag: 手機俱樂部'
+- **2017-03-24** 📰 'Tag: Modern Dictatorships'
+- **2017-03-27** 📰 'Tag: 高壓'
+- **2017-03-28** 📰 'Tag: 黨產條例'
+- **2017-03-31** 📰 'Tag: 旅遊'
+- **2017-03-31** 🏥 'Tag: 解心結'
+- **2017-03-31** 🏥 'Tag: 病榻團圓'
+- **2017-04-08** 📰 'Tag: 未提一中與台灣'
+- **2017-04-08** 📰 'Tag: 美中領袖會談'
+- **2017-04-08** 📰 'Tag: 兩國漸行漸遠'
+- **2017-04-08** 📰 'Tag: 害怕的是中國'
+- **2017-04-16** 📰 'Tag: 意大利「十九世紀人瑞」'
+- **2017-05-21** 📰 'Tag: 瑤池金母'
+- **2017-05-22** 📰 'Tag: Repression'
+- **2017-05-22** 📰 'Tag: The Battle for China’s Spirit Religious Revival'
+- **2017-05-23** 📰 'Tag: 拈花惹草'
+- **2017-05-23** 📰 'Tag: 辣木專題'
+- **2017-05-27** 📰 'Tag: 重金屬主唱'
+- **2017-06-02** 📰 'Tag: 馬英九涉洩密案'
+- **2017-06-05** 📰 'Tag: Freedom House'
+- **2017-06-11** 📰 'Tag: 發表會'
+- **2017-06-13** 📰 'Tag: 投放軍力能力'
+- **2017-06-13** 📰 'Tag: 五年內受中國重挫'
+- **2017-06-16** 📰 'Tag: 謝順福'
+- **2017-06-21** 📰 'Tag: 解職'
+- **2017-06-24** 📰 'Tag: 亞泥'
+- **2017-07-01** 📰 'Tag: 台灣228前社會狀態'
+- **2017-07-01** 📰 'Tag: 家務事難斷也難看'
+- **2017-07-05** 📰 'Tag: 目無法紀'
+- **2017-07-05** 📰 'Tag: 美中矛盾無法化解'
+- **2017-07-10** 📰 'Tag: 實質意義'
+- **2017-07-12** 📰 'Tag: 節流'
+- **2017-07-12** 📰 'Tag: 開源'
+- **2017-07-12** 📰 'Tag: 馬英九曲解憲法'
+- **2017-07-19** 📰 'Tag: 洪博培'
+- **2017-07-23** 📰 'Tag: 大山氣勢'
+- **2017-07-23** 📰 'Tag: 監察院並非太上皇'
+- **2017-07-23** 📰 'Tag: 半平山'
+- **2017-07-24** 📰 'Tag: 愚民運動'
+- **2017-07-28** 📰 'Tag: 民主黨人'
+- **2017-07-28** 📰 'Tag: 戰機繞台'
+- **2017-08-02** 📰 'Tag: 失禮'
+- **2017-08-06** 📰 'Tag: 簽結三中'
+- **2017-08-09** 📰 'Tag: 境管'
+- **2017-08-09** 📰 'Tag: 以毒攻毒'
+- **2017-08-13** 🕯️ 'Tag: 恐怖襲擊'
+- **2017-08-20** 📰 'Tag: 《末日倖存者的獨白》'
+- **2017-08-21** 📰 'Tag: 毒風暴'
+- **2017-08-22** 📰 'Tag: 世大運開幕式'
+- **2017-08-22** 📰 'Tag: 無聲擴散'
+- **2017-08-25** 📰 'Tag: 虛假危機'
+- **2017-08-25** 📰 'Tag: 真實危機'
+- **2017-08-26** 📰 'Tag: 中華民族'
+- **2017-08-27** 📰 'Tag: 查內鬼'
+- **2017-09-01** 📰 'Tag: CA Direct Flights'
+- **2017-09-02** 📰 'Tag: 智利'
+- **2017-09-03** 📰 'Tag: 台灣重啟核武'
+- **2017-09-03** 📰 'Tag: 朝鮮試爆氫彈'
+- **2017-09-10** 📰 'Tag: 希爾大使'
+- **2017-09-10** 📰 'Tag: 化解朝核危機'
+- **2017-09-11** 📰 'Tag: 受益的支持者'
+- **2017-09-13** 📰 'Tag: 政商關係之變'
+- **2017-09-15** 🤝 'Tag: APEC特使'
+- **2017-09-18** 📰 'Tag: 關島血拼被捕'
+- **2017-09-18** 📰 'Tag: 加州華人'
+- **2017-09-19** 📰 'Tag: 籲全球對朝鮮、伊朗、委內瑞拉採取行動'
+- **2017-09-19** 📰 'Tag: 川普在聯合國演說'
+- **2017-09-19** 📰 'Tag: 促各國學「美國優先」'
+- **2017-09-19** 📰 'Tag: 朝鮮將遭毀滅'
+- **2017-10-08** 📰 'Tag: 對朝鮮「只有一種方法管用」'
+- **2017-10-12** 📰 'Tag: 攬權追殺'
+- **2017-10-12** 📰 'Tag: 集權風雲'
+- **2017-10-12** 📰 'Tag: 打雙虎'
+- **2017-10-12** 📰 'Tag: 廢儲君'
+- **2017-10-12** 📰 'Tag: 中國出言恫嚇'
+- **2017-10-15** 📰 'Tag: 外交努力到炸彈落下'
+- **2017-10-17** 📰 'Tag: 逢包必檢'
+- **2017-10-17** 📰 'Tag: 解放軍機'
+- **2017-10-17** 📰 'Tag: 中共軍機繞台'
+- **2017-10-17** 📰 'Tag: 逢水必驗'
+- **2017-10-18** 📰 'Tag: 習近平神格為中國天主'
+- **2017-10-18** 📰 'Tag: 北京幽靈般美麗秋天'
+- **2017-10-19** 📰 'Tag: 兩岸冷和平'
+- **2017-10-19** 📰 'Tag: 紅色黃帝'
+- **2017-10-19** 📰 'Tag: 藍賀電'
+- **2017-10-19** 📰 'Tag: 權鬥大戲'
+- **2017-10-19** 🤝 'Tag: 李翔宙'
+- **2017-10-20** 🎤 'Tag: 掌聲'
+- **2017-10-20** 📰 'Tag: 台灣公義電子報'
+- **2017-10-20** 📰 'Tag: 新聞摘要'
+- **2017-10-23** 📰 'Tag: 軍公教調薪'
+- **2017-10-30** 📰 'Tag: 一把手'
+- **2017-10-30** 📰 'Tag: 台股行情'
+- **2017-10-30** 📰 'Tag: 敬老津貼'
+- **2017-11-04** 📰 'Tag: 特朗普訪亞洲5國'
+- **2017-11-04** 📰 'Tag: 解決北韓核武危機'
+- **2017-11-04** 📰 'Tag: 川普抵日'
+- **2017-11-04** 📰 'Tag: 11天馬拉松行程'
+- **2017-11-04** 📰 'Tag: 美軍部署亞太首批F35A戰機飛抵日本'
+- **2017-11-04** 📰 'Tag: 將晤蒲亭'
+- **2017-11-05** 📰 'Tag: 俄富豪曾投資川普女婿公司'
+- **2017-11-05** 📰 'Tag: 全球政要境外避稅資料'
+- **2017-11-06** 📰 'Tag: 天堂文件'
+- **2017-11-06** 📰 'Tag: 巴拿馬文件'
+- **2017-11-06** 📰 'Tag: 台灣通史序'
+- **2017-11-06** 📰 'Tag: 禁愛令'
+- **2017-11-06** 📰 'Tag: 阿美女孩'
+- **2017-11-06** 📰 'Tag: 舉重女神郭婞淳'
+- **2017-11-12** 📰 'Tag: 杜特蒂曾飆罵歐巴馬'
+- **2017-11-12** 📰 'Tag: 川普抵菲律賓'
+- **2017-11-12** 📰 'Tag: 示威群眾與警爆發激烈衝突'
+- **2017-11-12** 📰 'Tag: 與川普較合拍'
+- **2017-11-12** 📰 'Tag: APEC「聊得愉快」'
+- **2017-11-14** 📰 'Tag: 廖清山'
+- **2017-11-14** 📰 'Tag: 洛杉磯看台'
+- **2017-11-16** 📰 'Tag: 好制度'
+- **2017-11-16** 📰 'Tag: 刑事犯'
+- **2017-11-17** 📰 'Tag: “憨豆先生”亞洲行'
+- **2017-11-18** 📰 'Tag: 權力鬥爭'
+- **2017-11-22** 📰 'Tag: 資方不滿'
+- **2017-11-22** 📰 'Tag: 時代力量台南黨部'
+- **2017-11-22** 📰 'Tag: 晶片大戰'
+- **2017-11-22** 📰 'Tag: 監察權的謬誤'
+- **2017-11-23** 📰 'Tag: 拚未來'
+- **2017-11-23** 📰 'Tag: 低薪族搶錢'
+- **2017-11-23** 📰 'Tag: 拚希望'
+- **2017-11-28** 📰 'Tag: 離婚的關卡'
+- **2017-12-04** 📰 'Tag: 婚姻的困難'
+- **2017-12-04** 📰 'Tag: 難以呼吸'
+- **2017-12-07** 📰 'Tag: 題詞 余杰'
+- **2017-12-07** 📰 'Tag: 「杜鵑」'
+- **2017-12-07** 📰 'Tag: 「精衛」溫家寶'
+- **2017-12-11** 📰 'Tag: 我們的土地'
+- **2017-12-11** 📰 'Tag: 環汙凶手'
+- **2017-12-12** 📰 'Tag: 工商餐會'
+- **2017-12-12** 📰 'Tag: 中駐美公使'
+- **2017-12-12** 📰 'Tag: 賴揆喊加薪'
+- **2017-12-12** 📰 'Tag: 勞團丟饅頭'
+- **2017-12-12** 📰 'Tag: 美艦抵台'
+- **2017-12-12** 📰 'Tag: 狂打臉'
+- **2017-12-12** 📰 'Tag: 兩樣情'
+- **2017-12-13** 📰 'Tag: 武統台灣'
+- **2017-12-15** 🎤 'Tag: 新聞追追追'
+- **2016-03-03** 📰 'Tag: 司法六首長520應請辭'
+- **2016-03-03** 📰 'Tag: 林孟皇'
+- **2016-03-20** 📰 'Tag: 歷史性訪問古巴'
+- **2016-04-19** 📰 'Tag: 獨派人士'
+- **2016-05-16** 📰 'Tag: 對台6保證訴諸文字'
+- **2016-06-03** 📰 'Tag: 馬留爛攤'
+- **2016-06-03** 📰 'Tag: 蔡應變差'
+- **2016-06-05** 📰 'Tag: 中研院長史'
+- **2016-06-08** 📰 'Tag: 重啟核一'
+- **2016-06-15** 📰 'Tag: 奧巴馬總統'  (2×)
+- **2016-06-27** 📰 'Tag: 防中國情蒐'
+- **2016-06-27** 📰 'Tag: 歡送蔡英文總統'
+- **2016-06-27** 📰 'Tag: 台灣將在美試射愛國者導彈'
+- **2016-07-04** 📰 'Tag: 軍隊'
+- **2016-07-05** 📰 'Tag: 環太平洋2016軍演'
+- **2016-07-06** 📰 'Tag: 淡水中學校長陳能通'
+- **2016-07-06** 📰 'Tag: 難逃一劫'
+- **2016-07-10** 📰 'Tag: 北加童玩節'
+- **2016-07-10** 📰 'Tag: 17哩路3日遊'
+- **2016-07-14** 📰 'Tag: 防備誰'
+- **2016-07-15** 📰 'Tag: 台灣立院聲明'
+- **2016-07-22** 📰 'Tag: 台灣民主意志'
+- **2016-07-25** 📰 'Tag: 兩岸交流史'
+- **2016-07-26** 📰 'Tag: KMT重生'
+- **2016-07-26** 📰 'Tag: 斷開鎖鍊'
+- **2016-08-16** 📰 'Tag: 十月慶典回台旅遊團'
+- **2016-08-23** 📰 'Tag: 秋季單身烤肉活動'
+- **2016-08-24** 📰 'Tag: 無保飭回'
+- **2016-08-25** 📰 'Tag: 搜索前密會'
+- **2016-08-25** 📰 'Tag: 非政治'
+- **2016-08-29** 📰 'Tag: Cindy Feng'
+- **2016-08-29** 📰 'Tag: 馮美惠'
+- **2016-08-29** 📰 'Tag: 辛香與蔬菜培育'
+- **2016-08-30** 📰 'Tag: Sonny Yu'
+- **2016-08-30** 📰 'Tag: 多肉植物培育'
+- **2016-08-30** 📰 'Tag: 田土伯'
+- **2016-08-30** 📰 'Tag: 果樹培育'
+- **2016-08-30** 📰 'Tag: 張慧珠'
+- **2016-08-30** 📰 'Tag: 林幸隆'
+- **2016-09-02** 📰 'Tag: 徐光曦'
+- **2016-09-07** 📰 'Tag: 老共打槍'
+- **2016-09-29** 📰 'Tag: 前進白宮之戰'
+- **2016-09-29** 📰 'Tag: 美選終極對決'
+- **2016-10-11** 📰 'Tag: 美國計劃2030年送人類上火星'
+- **2016-10-31** 📰 'Tag: 台日海洋對話'
+- **2016-10-31** 📰 'Tag: 女子天團'
+- **2016-11-09** 🗳️ 'Tag: Obama'
+- **2016-11-17** 📰 'Tag: 執政半年'
+- **2016-12-02** 📰 'Tag: La Casa社區中心幼兒'
+- **2016-12-02** 📰 'Tag: 台美斷交以來第一次'
+- **2016-12-02** 📰 'Tag: Trump speaks with Taiwanese president'
+- **2016-12-09** 📰 'Tag: 台灣的總統'
+- **2016-12-22** 📰 'Tag: 風雲'
+- **2016-12-23** 📰 'Tag: 台聖斷交'
+- **2016-12-30** 📰 'Tag: Edward Timperlake'
+- **2016-12-30** 📰 'Tag: 中國文化部'
+- **2015-01-07** 📰 'Tag: Chen Shui-bian'
+- **2015-01-26** 📰 'Tag: 馬英九親中'  (2×)
+- **2015-01-26** 📰 'Tag: 馬英九下台'
+- **2015-02-15** 📰 'Tag: 王郁琦下台'
+- **2015-02-15** 📰 'Tag: 夏立言接陸委會主委'
+- **2015-02-15** 🎤 'Tag: 前立法委員顏錦福'
+- **2015-02-28** 📰 'Tag: 參選2016'
+- **2015-03-26** 📰 'Tag: 老朋友'
+- **2015-04-11** 📰 'Tag: 《不受歡迎的中國人》'
+- **2015-05-01** 📰 'Tag: 遏制北京野心'
+- **2015-05-31** 📰 'Tag: 打狗亂歌團'
+- **2015-05-31** 📰 'Tag: 動蒜'
+- **2015-05-31** 📰 'Tag: 旺來'
+- **2015-05-31** 📰 'Tag: 吉他月琴拍賣高潮迭起'
+- **2015-05-31** 📰 'Tag: 2016台灣總統'
+- **2015-06-12** 📰 'Tag: 朱王'
+- **2015-06-12** 📰 'Tag: 洪秀柱急統'
+- **2015-06-12** 📰 'Tag: 加速滅亡中國國民黨'
+- **2015-07-04** 📰 'Tag: 花蓮作票案'
+- **2015-07-04** 📰 'Tag: 賴慶祥檢察官'
+- **2015-08-08** 📰 'Tag: 台灣人愛錢'
+- **2015-09-10** 🕯️ 'Tag: 天安門'
+- **2015-12-12** 📰 'Tag: 助選團說明會'
+
+- **2014-01-02** 📰 'Tag: 張成澤'
+- **2014-02-22** 📰 'Tag: 從台灣看全球'
+- **2014-04-30** 📰 'Tag: 驅離媒體'
+- **2014-06-01** 📰 'Tag: prison'
+- **2014-06-10** 📰 'Tag: 1989年'
+- **2014-06-15** 📰 'Tag: 輔大教授梅心怡（Lynn Miles）'
+- **2014-07-24** 📰 'Tag: 華山論劍'
+- **2014-08-07** 🏥 'Tag: 梅心怡'
+- **2014-09-25** 📰 'Tag: ㄧ筆爛帳'
+- **2014-09-25** 📰 'Tag: 德媒'
+- **2014-10-24** 📰 'Tag: 打擊伊斯蘭國武裝'
+- **2014-10-24** 📰 'Tag: 中國處於機會主義階段'
+- **2014-10-24** 📰 'Tag: 法國廣播公司'
+- **2014-11-05** 📰 'Tag: 日人號召台灣出賽'
+- **2014-11-05** 📰 'Tag: 告別中華台北'
+- **2013-04-22** 📰 'Tag: the Human Rights Action Center'
+- **2013-06-04** 📰 'Tag: 要求民主'
+- **2013-06-04** 📰 'Tag: 北京市市長陳希同'
+- **2013-06-04** 📰 'Tag: 學生示威者'
+- **2013-06-13** 📰 'Tag: 神內專科醫師'
+- **2013-07-12** 📰 'Tag: 民主試驗'
+- **2013-07-12** 📰 'Tag: 啓示'
+- **2013-08-07** 📰 'Tag: 批判憲政理念'
+- **2013-08-09** 📰 'Tag: 技術轉移'
+- **2013-08-09** 📰 'Tag: 《德國應用化學期刊》'
+- **2013-08-09** 📰 'Tag: 全球第1個攝護腺癌及腦膜炎W135型疫苗'
+- **2013-08-09** 📰 'Tag: 《美國化學會期刊》'
+- **2013-08-09** 📰 'Tag: 中央研究院長翁啟惠'
+- **2013-08-14** 🗳️ 'Tag: 2012總統大選'
+- **2013-09-02** 📰 'Tag: 職員'
+- **2013-09-05** 📰 'Tag: 二十一世紀的戰爭'
+- **2013-09-05** 📰 'Tag: 全書目錄摘引'
+- **2013-09-05** 📰 'Tag: 假如中美開戰'
+- **2013-10-01** 📰 'Tag: 馬王之爭'
+- **2013-10-02** 📰 'Tag: 慘烈'
+- **2013-10-13** 📰 'Tag: 讓台灣人靠中國吃飯'
+- **2013-10-13** 📰 'Tag: 沒有總統當才會考慮到中國的特首'
+- **2013-10-13** 📰 'Tag: 在他連任總統後才會出問題'
+- **2013-10-13** 📰 'Tag: 台灣經濟垮掉'
+- **2013-10-13** 📰 'Tag: 將台灣經濟寄生在中國'
+- **2013-10-13** 📰 'Tag: 沒有機會再選總統'
+- **2013-10-13** 📰 'Tag: 二〇〇八年總統大選'
+- **2013-10-13** 📰 'Tag: 沒有選票壓力'
+- **2013-10-13** 📰 'Tag: 「寧為雞首，不為牛後」'
+- **2013-10-22** 📰 'Tag: 縱容無良奸商'
+- **2013-10-22** 📰 'Tag: 黑心假油'
+- **2013-10-23** 📰 'Tag: 打壓言論'
+- **2013-11-02** 📰 'Tag: 醫改法案'
+- **2013-11-02** 📰 'Tag: 保險計劃'
+- **2013-11-02** 📰 'Tag: 前台灣外交部次長高英茂教授'
+- **2013-11-02** 📰 'Tag: 旅美中國作家陳破空'
+- **2013-11-02** 📰 'Tag: 旅美政論作家陳破空'
+- **2013-11-02** 📰 'Tag: 台灣社社長張炎憲教授'
+- **2013-11-02** 📰 'Tag: 台大校友會館'
+- **2013-11-02** 📰 'Tag: 新境界文教基金會副執行長遊盈隆教授'
+- **2013-11-02** 📰 'Tag: 不遵守法治'
+- **2013-11-05** 📰 'Tag: 越大咖越沒良心'
+- **2013-12-01** 📰 'Tag: 《假如中美開戰》'
+- **2013-12-02** 📰 'Tag: 不敢向總統建言'
+- **2013-12-02** 📰 'Tag: 經建會主委管中閔'
+- **2013-12-02** 📰 'Tag: 戀棧官位'
+- **2013-12-08** 📰 'Tag: 朝鮮領導人金正恩'
+- **2013-12-08** 📰 'Tag: 行政部部長兼中央指導部第一副部長'
+- **2013-12-08** 📰 'Tag: 朝鮮勞動黨政治局 委員'
+- **2013-12-08** 📰 'Tag: 朝鮮國防委員會副委員長'
+- **2013-12-08** 📰 'Tag: 朝鮮勞動黨中央委員'
+- **2013-12-08** 📰 'Tag: 中央軍委委員'
+- **2013-12-09** 📰 'Tag: 解散國會'
+- **2013-12-14** 📰 'Tag: 台灣房市'
+- **2013-12-17** 📰 'Tag: 大廠'
+- **2013-12-24** 📰 'Tag: 姑父'
+- **2013-12-30** 📰 'Tag: Christmas Around'
+- **2013-12-30** 📰 'Tag: 聖誕環遊世界'
+- **2013-12-30** 📰 'Tag: 安德烈瑞歐'
+
+- **2012-01-06** 🗳️ 'Tag: 台1線'
+- **2012-05-10** 📰 'Tag: 白道'
+- **2012-11-20** 📰 'Tag: Steve Jobs'  (2×)
+- **2012-11-25** 📰 'Tag: 雷政富事件'
+- **2012-12-18** 🗳️ 'Tag: 2012年台灣總統選舉'
+- **2011-08-31** 📰 'Tag: 新竹北埔'
+- **2011-08-31** 📰 'Tag: 廖本煙'
+- **2011-10-06** 📰 'Tag: 蘋果電腦'  (2×)
+- **2011-10-06** 📰 'Tag: Apple Computer'  (2×)
+- **2011-10-06** 📰 'Tag: iSad'  (2×)
+
+</details>
+
+## Quotes
+
+Notable quotes and mentions of **陳茂雄** in Taiwan Justice articles:
+
+
+
+### 2025 (74 quotes)
+
+1. "陳學聖表示，柯文哲當初若答應藍白合任副手現就不在牢獄，副總統並無刑事豁免權，難道法院是中國國民黨開的？ 陳茂雄 民眾黨主席柯文哲因京華城案，遭檢方起訴並求處二十八年六個月的徒刑，兩度交保，最後法院判定拘押禁見。在北院裁定柯文哲以七千萬元且電子腳鐐加限制住居等條件交保時，"
+   — 法院真的是中國國民黨開的？  ◎ 陳茂雄 (2025-01-04)
+2. "成不穩定的憲政體制，最要命的是最後一次修憲，犯了嚴重的錯誤，造成不能再修憲，台灣必須接受這一部極不穩定的憲政體制，等同將「拼裝車」修成供政客把玩的「玩具車」。 陳茂雄 台灣的憲政體制乃引用《中華民國憲法》，這一部憲法本來就屬畸形體制，難適用於台灣，可是台灣在變更體制過程，更是粗製濫造，形成更畸形體制。目前立法院的戰鬥，促使台"
+   — 精裝車變拼裝車再轉為玩具車 ◎ 陳茂雄 (2025-01-05)
+3. "（作者為中山大學退休教授、台灣安全促進會會長） http://mypaper.pchome.com.tw/news/mhchen0201 2025/1（民誌月刊陳茂雄專欄）"
+   — 精裝車變拼裝車再轉為玩具車 ◎ 陳茂雄 (2025-01-05)
+4. "司法審判的關鍵在於證據，檢察官預設被告有罪來思考有效證據，辯護律師則假設被告無罪來思考，因而有不同的論述 陳茂雄 民眾黨號召週六上街「釘孤枝」遊行、抗議司法不公，中國國民黨主席朱立倫也聲援響應。之所以有這些糾葛，是有關柯文哲交保的議題，高等法院撤銷發回北院更裁，北院重開羈"
+   — 有效證據認定的差異  ◎陳茂雄 (2025-01-08)
+5. "為了爭戰政治版圖，政壇上的攻防可以理解，然而再惡劣也不該解除自己國家的武裝，除非是敵人埋伏在台灣的奸細 陳茂雄 立法院於十日召開院會，預計將針對行政院提請《憲法訴訟法》覆議案進行處理，民進黨團總召柯建銘在受訪時透露，他於九日朝野協商時，就跟中國國民黨總召傅崐萁表示有很多"
+   — 逼自已國家解除武裝？ ◎ 陳茂雄 (2025-01-13)
+6. "昔日中國國民黨非主流派鬥李登輝，今日藍白結盟鬥賴清德，親中媒體卻稱李登輝及民進黨忙著批鬥政敵，荒謬！ 陳茂雄 某親中媒體描述，已故前總統李登輝跟現在的民進黨一樣，忙著批鬥政敵，排斥開放性政策，讓台灣就此失去國際競爭力，在不斷內耗下陷入低薪困境。 台灣真的是造謠的世界，"
+   — 打人者喊救命 ◎ 陳茂雄 (2025-02-03)
+7. "February 13, 2025 罷免藍綠立委團體再送件 中選會至13日累計收51案 卓榮泰韓國瑜會面達共識 總預算案送出立院前先朝野協商 人算不如天算 ◎陳茂雄 藍籲歲計賸餘普發1萬元 政院：應先處理總預算案 財部：減少舉債優先 中共幾乎徹底操控了台灣媒體和輿論，九合一選舉就是案例+影片 台灣頭條 December 2"
+   — 台灣頭條 (2025-02-13)
+8. "台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 專欄 陳茂雄專欄 陳茂雄專欄 By review score Latest Featured posts Most popular 7 days popular By re"
+   — 陳茂雄專欄 (2025-02-13)
+9. "道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home 專欄 陳茂雄專欄 陳茂雄專欄 By review score Latest Featured posts Most popular 7 days popular By review s"
+   — 陳茂雄專欄 (2025-02-13)
+10. "d-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 朱立倫傅崑萁 Tag: 朱立倫傅崑萁 台灣頭條 偽君子與真小人 ◎陳茂雄 February 28, 2025"
+   — 'Tag: 朱立倫傅崑萁' (2025-02-28)
+
+### 2024 (131 quotes)
+
+1. "POSTS 0 COMMENTS 台灣頭條 中共3氣球再度逾越中線 1枚飄入台灣中部上空後消失 January 3, 2024 台灣頭條 草包總該裝些草！ ◎ 陳茂雄 January 3, 2024 國際焦點 伊朗恐攻爆炸案下修至95死 官方控美以幕後黑手，美國務院否認 January 3, 2024 國際焦點 日航379人"
+   — admin (2024-01-03)
+2. "中國國民黨意圖以聯合內閣來誘惑柯P結盟，一則可取得政權，一則順勢併吞民眾黨，只是柯P並沒有上當 陳茂雄 到目前為止，中國國民黨的總統選局還是不能超越民進黨，其早期的如意算盤，只要藍白合就可能贏得總統寶座。只是其嘴巴雖然喊下架民進黨，事實上真正的目標是獲得政權，下"
+   — 柯P的智慧 ◎ 陳茂雄 (2024-01-06)
+3. "約好 September 1, 2023 台灣頭條 郭台銘高雄造勢 自稱是參選者中唯一懂財經的經濟人 August 27, 2023 台灣頭條 團結與劫收 ◎ 陳茂雄 August 23, 2023 台灣頭條 金小刀籲當「造王者」挺侯，郭台銘狠酸：只會讓自己淪為「造亡者」！ July 27, 2023 台灣頭條 郭台銘允初選"
+   — 'Tag: 郭台銘' (2024-01-06)
+4. "己淪為「造亡者」！ July 27, 2023 台灣頭條 郭台銘允初選若輸爭立院龍頭？侯友宜：不知道 July 9, 2023 台灣頭條 郭獨立參選柯將受創 ◎陳茂雄 June 25, 2023 1 2 3 4 Page 1 of 4"
+   — 'Tag: 郭台銘' (2024-01-06)
+5. "己淪為「造亡者」！ July 27, 2023 台灣頭條 郭台銘允初選若輸爭立院龍頭？侯友宜：不知道 July 9, 2023 台灣頭條 郭獨立參選柯將受創 ◎陳茂雄 June 25, 2023 1 2 3 ... 38 Page 1 of 38"
+   — 'Tag: 郭台銘' (2024-01-06)
+6. "atest Featured posts Most popular 7 days popular By review score Random 柯P的智慧 ◎ 陳茂雄 January 6, 2024 台灣民眾不可不知，中共死意吞併台灣的三重目的 ◎ 陳破空 不連任的災害 ◎ 陳茂雄 白色恐怖受難者蔡焜霖去世 享耆壽93歲 習"
+   — 歷史必讀 (2024-01-06)
+7. "score Random 柯P的智慧 ◎ 陳茂雄 January 6, 2024 台灣民眾不可不知，中共死意吞併台灣的三重目的 ◎ 陳破空 不連任的災害 ◎ 陳茂雄 白色恐怖受難者蔡焜霖去世 享耆壽93歲 習近平為何不去現場賑災？ ◎ 林保華 台灣人的朋友 ◎ 陳茂雄 歷史必讀 July 19, 2023 「反服貿第一槍」"
+   — 歷史必讀 (2024-01-06)
+8. "共死意吞併台灣的三重目的 ◎ 陳破空 不連任的災害 ◎ 陳茂雄 白色恐怖受難者蔡焜霖去世 享耆壽93歲 習近平為何不去現場賑災？ ◎ 林保華 台灣人的朋友 ◎ 陳茂雄 歷史必讀 July 19, 2023 「反服貿第一槍」10週年 郝明義發文紀念 歷史必讀 June 20, 2023 二十世紀台灣第一場政治秀：「台灣行啟」寫"
+   — 歷史必讀 (2024-01-06)
+9. "李登輝 Tag: 李登輝 台灣頭條 「獨台會案」被郝柏村「突襲」？ 史料證實李登輝知情 January 20, 2024 我的肥皂箱 國統綱領與台獨黨綱 ◎ 陳茂雄 December 17, 2023 台灣新聞 突發琪想 20201112 李登輝幫她鋪路？小英早已接觸拜登幕僚？ November 13, 2020 台灣新聞"
+   — 'Tag: 李登輝' (2024-01-20)
+10. "內閣制國家的權力中心在國會，國會結盟才產生聯合內閣，台灣不是內閣制國家，不能產生聯合內閣的功能 陳茂雄 民進黨主席暨總統當選人賴清德日前在「仁愛路四段五0七號」線上Podcast直播表示，未來的挑戰可能是三黨共同承擔，大家都分享彼此理念，尋求共識、共同面對國家挑"
+   — 誤解聯合內閣 ◎ 陳茂雄 (2024-02-02)
+
+### 2023 (157 quotes)
+
+1. "中共不變的政策就是消滅中華民國，台灣有人號稱要捍衛中華民國，卻主張依順對岸，既是漢奸，更是漢奸 陳茂雄 據媒體報導，孫文學校總校長張亞中接受廣播節目專訪，針對蔡政府恢復兵役役期為一年，他表態反對，強調國防部規劃主戰部隊以募兵為主，守備部隊為徵兵與民防後備部隊，役"
+   — 中共要的是消滅中華民國 ◎ 陳茂雄 (2023-01-01)
+2. "賴清德的「務實台獨」事實上就是《台灣前途決議文》的中華民國，是一個主權獨立的國家，其版圖只有台澎金馬 陳茂雄 民進黨主席賴清德已宣誓就職，被問及過去曾自稱「務實的台獨工作者」到近期拋出的「和平保台」，立場有無轉變？中國國民黨主席朱立倫也提出，大家都想知道什麼叫「務實的"
+   — 在台澎金馬的中華民國 ◎ 陳茂雄 (2023-01-19)
+3. "s 蔣萬安 Tag: 蔣萬安 台灣頭條 北巿人口估3月達250萬，蔣萬安：依法設第3副巿長 January 21, 2023 我的肥皂箱 何必潑自己髒水？ ◎ 陳茂雄 November 24, 2022 我的肥皂箱 歌頌食人族懂得用刀叉嗎？ ◎ 陳茂雄 November 17, 2022 焦點影音 北市第2場政見會/ 陳時中"
+   — 'Tag: 蔣萬安' (2023-01-21)
+4. "巿長 January 21, 2023 我的肥皂箱 何必潑自己髒水？ ◎ 陳茂雄 November 24, 2022 我的肥皂箱 歌頌食人族懂得用刀叉嗎？ ◎ 陳茂雄 November 17, 2022 焦點影音 北市第2場政見會/ 陳時中批蔣萬安未受政務訓練、黃珊珊籲擺脫藍綠、蔣萬安著眼多元共融 November 15,"
+   — 'Tag: 蔣萬安' (2023-01-21)
+5. "影音 北市第2場政見會/ 陳時中批蔣萬安未受政務訓練、黃珊珊籲擺脫藍綠、蔣萬安著眼多元共融 November 15, 2022 我的肥皂箱 蔣家的政治債務 ◎ 陳茂雄 September 27, 2022 台灣頭條 蔣萬安批「長照悲歌」，陳時中說成績不容污衊要蔣好好讀書別耍嘴皮 September 9, 2022 台灣頭條"
+   — 'Tag: 蔣萬安' (2023-01-21)
+6. "好讀書別耍嘴皮 September 9, 2022 台灣頭條 擴大不孕症補助 藍營：綠企圖抹煞蔣萬安努力 August 1, 2022 義論 蔣家說的算數？◎ 陳茂雄 July 13, 2022 台灣頭條 黃珊珊遭質疑選務寄生市府，蔣萬安籲說明清楚 June 16, 2022 台灣頭條 柯文哲自命像漢高祖，讚黃珊珊將創「文景"
+   — 'Tag: 蔣萬安' (2023-01-21)
+7. "會館 台灣會館會訊 台美人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 Home 尸位素餐 ◎陳茂雄12-02-2013 管中閔 管中閔"
+   — 管中閔 (2023-01-27)
+8. "繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home Tags 一中、華獨與台獨 ◎ 陳茂雄 Tag: 一中、華獨與台獨 ◎ 陳茂雄 我的肥皂箱 一中、華獨與台獨 ◎ 陳茂雄 February 1, 2023"
+   — 'Tag: 一中、華獨與台獨 ◎ 陳茂雄' (2023-02-01)
+9. "Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home Tags 一中、華獨與台獨 ◎ 陳茂雄 Tag: 一中、華獨與台獨 ◎ 陳茂雄 我的肥皂箱 一中、華獨與台獨 ◎ 陳茂雄 February 1, 2023"
+   — 'Tag: 一中、華獨與台獨 ◎ 陳茂雄' (2023-02-01)
+10. "息 美股 台股 老郎(老人)心天地 Home Tags 一中、華獨與台獨 ◎ 陳茂雄 Tag: 一中、華獨與台獨 ◎ 陳茂雄 我的肥皂箱 一中、華獨與台獨 ◎ 陳茂雄 February 1, 2023"
+   — 'Tag: 一中、華獨與台獨 ◎ 陳茂雄' (2023-02-01)
+
+### 2022 (94 quotes)
+
+1. "己充分享受權力，因而阻礙公投正常化。台灣人的特色是不關心公共事務，公投變成對政黨的認同，不是政策的訂定，造成距離正常的公投相當遙遠，所以對直接民權不必過度期待 陳茂雄 公投的結果已出爐，四大公投案全部被封殺，而且同意票與不同意票的比例四案都很接近，天下哪有那麼巧的事？顯然的，多數選民不是四個同意就是四個不同意，很多小黨雖然鼓"
+   — 由四大公投評析台灣的直接民權 ◎ 陳茂雄 (2022-01-07)
+2. "美國萊豬都可以順利進口，日本核食還遙遙無期，衛福部有擔當，敢面對萊豬的挑戰，而原能會只會當官，不承擔責任 陳茂雄 台灣日本關係協會、日本台灣交流協會於十一日上午以視訊方式，舉行第四十五屆台日經濟貿易會議，日本核食解禁問題成關注的焦點，雙方在開幕式分別由台日關係協會會長邱義"
+   — 由萊豬看日本核食 ◎ 陳茂雄 (2022-01-11)
+3. "天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 Home Tags 由萊豬看日本核食 Tag: 由萊豬看日本核食 台灣頭條 由萊豬看日本核食 ◎ 陳茂雄 January 11, 2022"
+   — 'Tag: 由萊豬看日本核食' (2022-01-11)
+4. "19 浩劫餘生錄 美股台股消息 美股 台股 Home Tags 蔣經國救不了中國國民黨 Tag: 蔣經國救不了中國國民黨 台灣頭條 蔣經國救不了中國國民黨 ◎ 陳茂雄 January 13, 2022"
+   — 'Tag: 蔣經國救不了中國國民黨' (2022-01-13)
+5. "蔣經國雖然與多數台灣人一樣反共，然而台灣人是為了保台而奮鬥，蔣經國卻是為了捍衛蔣政權而拒共，兩者差很大 陳茂雄 十三日是中國國民黨主席朱立倫就職滿百日，卻也是蔣經國逝世三十四周年紀念日，朱立倫在臉書宣示，「所有戰役的成敗責任、國民黨的振衰起敝，我必須一肩扛起」，會努力贏"
+   — 蔣經國救不了中國國民黨 ◎ 陳茂雄 (2022-01-13)
+6. "d-19 浩劫餘生錄 美股台股消息 美股 台股 Home Tags 中國國民黨對不起顏家 Tag: 中國國民黨對不起顏家 我的肥皂箱 中國國民黨對不起顏家 ◎ 陳茂雄 January 13, 2022"
+   — 'Tag: 中國國民黨對不起顏家' (2022-01-13)
+7. "台灣的主流民意親美日，戰鬥藍為了抗拒政權本土化而反美日，渴望執政卻對抗主流民意，又沒那份膽識革命，作夢！ 陳茂雄 日本希望台灣依循專業，與其他先進國家一樣進口福島食品，戰鬥藍則堅持反對，中國國民黨立法院黨團總召費鴻泰表示，「核食」不可拿來利益交換，中國國民黨態度跟二○一八"
+   — 笨蛋！對抗主流民意要如何執政？ ◎陳茂雄 (2022-01-19)
+8. "民進黨與中國國民黨同質性相當高，其中一個大差異是後者捧蔣介石而民進黨反蔣，主流民意也反蔣，民進黨撿到便宜 陳茂雄 促轉會拋出中正紀念堂改制方案，移除蔣公銅像，變成反省威權歷史公園，孫文學校總校長張亞中大為不滿，於一二三自由日在自由廣場舉辦「善報蔣中正」，捍衛蔣中正的銅像活"
+   — 蔣介石幫了民進黨？ ◎ 陳茂雄 (2022-01-25)
+9. "弱勢語言只能靠公權力營救，強勢語言自己就可以生存得很好，可是政治人物為了選票，只會推展強勢語言，忽略母語 陳茂雄 二十一日是世界母語日，總統府表示，蔡英文總統日前接受ICRT電台「We Love Hakka客家風情」節目訪問，分享在台灣推廣母語的重要性及學習客語的經驗，鼓"
+   — 母語教學只是口號 ◎ 陳茂雄 (2022-02-23)
+10. "vid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 開羅宣言 Tag: 開羅宣言 台灣頭條 缺乏常識的博士？ ◎ 陳茂雄 April 30, 2022"
+   — 'Tag: 開羅宣言' (2022-04-30)
+
+### 2021 (61 quotes)
+
+1. "週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 Home Tags 陳水扁 Tag: 陳水扁 義論 馬英九最有智慧的一招 ◎ 陳茂雄 January 4, 2021 年代向錢看 年代向錢看 20200129 江澤民悶聲發大財！意外成鄧小平接班人！ January 29, 2020 每日新聞"
+   — 'Tag: 陳水扁' (2021-01-04)
+2. "宣布解散 January 20, 2020 台灣頭條 一邊一國行動黨成立，陳水扁：目標是成立黨團 August 18, 2019 我的肥皂箱 陳水扁與黃國昌 ◎陳茂雄 August 13, 2019 台灣頭條 陳水扁：「一邊一國行動黨」8月成立．陳致中：現階段組黨非合宜之策 July 26, 2019 每日新聞 公視晚間新聞"
+   — 'Tag: 陳水扁' (2021-01-04)
+3. "美國政府施政已經制度化，群眾運動若是越軌，會被認定為暴民，台灣還有白色恐怖的陰影，警民衝突會被認定是暴政 陳茂雄 美國大選出現衝突，台灣也陪著發生藍、綠或統、獨對決。川粉攻進國會，藍營則藉機攻擊綠營。某統派媒體聲稱，美國對強闖國會的暴徒展開搜捕，數十人已遭起訴，罪名包括擅"
+   — 暴政或暴民 ◎ 陳茂雄 (2021-01-12)
+4. "review score Random 陳破空縱論天下0113 January 13, 2021 陳破空縱論天下1001影音專輯 《中華民國憲法》拖垮台灣 ◎ 陳茂雄 追憶臺師大的好老師 ◎ 陳茂雄 【陳昭南專欄】中共鼓吹：到中國去打疫苗●聽說機票食宿免費？ 國會議員缺乏基本常識？ ◎ 陳茂雄 我的肥皂箱 March 29,"
+   — 我的肥皂箱 (2021-01-13)
+5. "dom 陳破空縱論天下0113 January 13, 2021 陳破空縱論天下1001影音專輯 《中華民國憲法》拖垮台灣 ◎ 陳茂雄 追憶臺師大的好老師 ◎ 陳茂雄 【陳昭南專欄】中共鼓吹：到中國去打疫苗●聽說機票食宿免費？ 國會議員缺乏基本常識？ ◎ 陳茂雄 我的肥皂箱 March 29, 2022 中共要併吞台灣 謝龍"
+   — 我的肥皂箱 (2021-01-13)
+6. "《中華民國憲法》拖垮台灣 ◎ 陳茂雄 追憶臺師大的好老師 ◎ 陳茂雄 【陳昭南專欄】中共鼓吹：到中國去打疫苗●聽說機票食宿免費？ 國會議員缺乏基本常識？ ◎ 陳茂雄 我的肥皂箱 March 29, 2022 中共要併吞台灣 謝龍介說不准反抗！◎陳昭南 我的肥皂箱 March 10, 2019 禁止承認中國對台主權，美國國會"
+   — 我的肥皂箱 (2021-01-13)
+7. "會霸氣提案 ◎ 陳昭南 我的肥皂箱 October 22, 2020 陳破空縱論天下 1004 我的肥皂箱 October 4, 2022 尊重主人的決定 ◎ 陳茂雄 我的肥皂箱 May 12, 2020 民粹主義者將會把台灣帶往不可測的險境◎公孫樂 我的肥皂箱 July 15, 2019 扯甚麼鳥蛋？ 台灣健保誰才應居首功"
+   — 我的肥皂箱 (2021-01-13)
+8. "縱論天下0730 我的肥皂箱 July 30, 2021 胡元輝：巴掌暴力的背後靠山是…… 我的肥皂箱 January 22, 2019 選票的交集與聯集 ◎ 陳茂雄 我的肥皂箱 September 4, 2022 1 2 3 ... 253 Page 1 of 253"
+   — 我的肥皂箱 (2021-01-13)
+9. "錄 美股台股消息 美股 台股 Home Tags 防疫工作變成執政成敗的關鍵 Tag: 防疫工作變成執政成敗的關鍵 我的肥皂箱 防疫工作變成執政成敗的關鍵 ◎ 陳茂雄 January 25, 2021"
+   — 'Tag: 防疫工作變成執政成敗的關鍵' (2021-01-25)
+10. "人民生活若是痛苦，雖非執政者之過，人民還是要執政者負責，防疫工作是民進黨能否有好日子過的重要因素 陳茂雄 台灣是一個鬥爭的社會，無論執政黨怎麼做，在野黨都會攻擊，馬英九執政時代進口美國萊牛，信誓旦旦的對人民表示，萊牛無害，可是蔡英文執政時進口了美國萊豬，中國國民黨"
+   — 防疫工作變成執政成敗的關鍵  ◎ 陳茂雄 (2021-01-25)
+
+### 2020 (222 quotes)
+
+1. "陳茂雄 蔡英文的選情一直相當穩定，並不是民進黨的氣勢強，而是中國國民黨崩解，韓粉與該黨的地方派系對決，讓蔡英文得漁翁之利。若是藍營發生「棄韓保宋」，對蔡英文才會形成壓"
+   — 藍營的棄保  ◎陳茂雄 (2020-01-01)
+2. "台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 「思想犯」論述的背景 Tag: 「思想犯」論述的背景 我的肥皂箱 「思想犯」論述的背景 ◎ 陳茂雄 January 5, 2020"
+   — 'Tag: 「思想犯」論述的背景' (2020-01-05)
+3. "陳茂雄 在大選接近尾聲期間，蔡英文總統連任競選辦公室發言人林靜儀稱「支持統一就是叛國」，此論述引起藍營的撻伐，蔡陣營急忙滅火，除了林靜儀辭掉發言人外，民進黨全面解釋，"
+   — 「思想犯」論述的背景  ◎ 陳茂雄 (2020-01-05)
+4. "人影音頻道 浮世繪 我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 陳茂雄 Tag: 陳茂雄 我的肥皂箱 海內外台獨差很大 ◎ 陳茂雄 January 7, 2020 我的肥皂箱 「思想犯」論述的背景 ◎ 陳茂雄 January 5,"
+   — 'Tag: 陳茂雄' (2020-01-07)
+5. "我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 陳茂雄 Tag: 陳茂雄 我的肥皂箱 海內外台獨差很大 ◎ 陳茂雄 January 7, 2020 我的肥皂箱 「思想犯」論述的背景 ◎ 陳茂雄 January 5, 2020 我的肥"
+   — 'Tag: 陳茂雄' (2020-01-07)
+6. "ovid-19 浩劫餘生錄 美股台股消息 美股 台股 銀髮心天地 台灣會館會訊 Home Tags 陳茂雄 Tag: 陳茂雄 我的肥皂箱 海內外台獨差很大 ◎ 陳茂雄 January 7, 2020 我的肥皂箱 「思想犯」論述的背景 ◎ 陳茂雄 January 5, 2020 我的肥皂箱 民代格局的韓流困境 ◎ 陳茂雄 Ja"
+   — 'Tag: 陳茂雄' (2020-01-07)
+7. "Home Tags 陳茂雄 Tag: 陳茂雄 我的肥皂箱 海內外台獨差很大 ◎ 陳茂雄 January 7, 2020 我的肥皂箱 「思想犯」論述的背景 ◎ 陳茂雄 January 5, 2020 我的肥皂箱 民代格局的韓流困境 ◎ 陳茂雄 January 5, 2020 我的肥皂箱 藍營的棄保 ◎陳茂雄 January"
+   — 'Tag: 陳茂雄' (2020-01-07)
+8. "」論述的背景 ◎ 陳茂雄 January 5, 2020 我的肥皂箱 民代格局的韓流困境 ◎ 陳茂雄 January 5, 2020 我的肥皂箱 藍營的棄保 ◎陳茂雄 January 1, 2020 我的肥皂箱 張善政暗助蔡英文？ ◎ 陳茂雄 December 27, 2019 我的肥皂箱 蔣經國真的重視清廉嗎？ ◎ 陳茂雄"
+   — 'Tag: 陳茂雄' (2020-01-07)
+9. "局的韓流困境 ◎ 陳茂雄 January 5, 2020 我的肥皂箱 藍營的棄保 ◎陳茂雄 January 1, 2020 我的肥皂箱 張善政暗助蔡英文？ ◎ 陳茂雄 December 27, 2019 我的肥皂箱 蔣經國真的重視清廉嗎？ ◎ 陳茂雄 December 23, 2019 我的肥皂箱 得意當思失意時 ◎ 陳茂雄"
+   — 'Tag: 陳茂雄' (2020-01-07)
+10. "陳茂雄 January 1, 2020 我的肥皂箱 張善政暗助蔡英文？ ◎ 陳茂雄 December 27, 2019 我的肥皂箱 蔣經國真的重視清廉嗎？ ◎ 陳茂雄 December 23, 2019 我的肥皂箱 得意當思失意時 ◎ 陳茂雄 December 17, 2019 1 ... 45 46 47 Page 47"
+   — 'Tag: 陳茂雄' (2020-01-07)
+
+### 2019 (12 quotes)
+
+1. "己 April 29, 2019 2012大選 Work for change in Taiwan ◎Andrew Chang January 6, 2012 陳茂雄專欄 中國又幫民進黨助選了？◎陳茂雄 January 6, 2012 2012大選 想到苦難同胞 爬也要爬回來投票 ◎陳麗惠2012/01/07 January"
+   — 'Tag: 小額捐款' (2019-04-29)
+2. "應該用選票制裁負面選舉 ◎陳耀祥法學博士/Twtimes/2011-12-28 December 27, 2011 2012大選 「不統」與「不獨」的矛盾 ◎陳茂雄 December 27, 2011 2012大選 馬金集團四面楚歌◎黑雨/2011-12-28 December 27, 2011 2012大選 新聞挖挖哇1"
+   — 'Tag: 小額捐款' (2019-04-29)
+3. "鐵板? May 22, 2019 精闢專論 政黨喪失主體性 難逃泡沫化命運 ◎ 高雄台灣時報社論/ 2017-09-18 September 17, 2017 陳茂雄專欄 中國國民黨會泡沫化嗎？◎ 陳茂雄 11-19-2015 November 19, 2015 每日新聞 從台灣看全球 20131214 –警報聲四起!台灣房"
+   — 'Tag: 泡沫化' (2019-05-22)
+4. "專論 政黨喪失主體性 難逃泡沫化命運 ◎ 高雄台灣時報社論/ 2017-09-18 September 17, 2017 陳茂雄專欄 中國國民黨會泡沫化嗎？◎ 陳茂雄 11-19-2015 November 19, 2015 每日新聞 從台灣看全球 20131214 –警報聲四起!台灣房市即將泡沫化? December 14"
+   — 'Tag: 泡沫化' (2019-05-22)
+5. "民進黨總統候選人初選因人設事，瀕臨崩解，幸好中國國民黨也變更初選制度，新制度將選出魯肉腳，救了民進黨 陳茂雄 政治意識強烈的民進黨支持者已分成保皇派及民主派，後者認定依循民主體制，任何人都可以參選總統，認定當權派在進入競賽後才因人設事，改變規則，蠻橫勝於黑道。他們更認"
+   — 誰救了民進黨？◎ 陳茂雄 (2019-05-28)
+6. "018 每日新聞 民視新聞 20180426 年金改革－毆警打記者犯眾怒 「八百壯士」宣布活動解散 April 26, 2018 專欄 年金改革的水庫理論 ◎ 陳茂雄/自由時報 2017-08-25 August 24, 2017 每日新聞 民視新聞 20170822 年金改革－世大運鬧場、憲兵遭砍 中國第五縱隊搞鬼？ Au"
+   — 'Tag: 年金改革' (2019-06-01)
+7. "票機?黃國昌不擔心時力選情 July 14, 2019 年代向錢看 年代向錢看 20170807 接班卡位戰 2018吸票機是… August 7, 2017 陳茂雄專欄 吸票機及提款機 ◎ 陳茂雄 12-25-2015 December 25, 2015"
+   — 'Tag: 吸票機' (2019-07-14)
+8. "ly 14, 2019 年代向錢看 年代向錢看 20170807 接班卡位戰 2018吸票機是… August 7, 2017 陳茂雄專欄 吸票機及提款機 ◎ 陳茂雄 12-25-2015 December 25, 2015"
+   — 'Tag: 吸票機' (2019-07-14)
+9. "中國/李筱峰/系列;1-5 政黨輪替與轉型正義 國際要聞 美國新聞 南海東海風雲 川普時代 世界史地 世界人文 科技新聞 賈伯斯專輯 中國新聞 中國史地 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 焦點影音 鄭 知道了"
+   — 鄭 知道了 (2019-07-22)
+10. "海風雲 川普時代 美國新聞 國際焦點 頭條總覽 國際要聞 世界人文 科技新聞 賈伯斯專輯 中國新聞 中國史地 English Pages 世界史地 義論 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 焦點影音 關鍵時刻"
+   — 54新觀點 (2019-08-09)
+
+### 2018 (7 quotes)
+
+1. "欄 貪腐的政治經濟文化學之五- 台灣人愛錢嗎？──後藤新平的詛咒？◎李堅 08-08-2015 August 8, 2015 精闢專論 台灣人的本性是什麼？ ◎陳茂雄 04-15-2013 April 15, 2013"
+   — 'Tag: 後藤新平' (2018-04-13)
+2. "中國/李筱峰/系列;1-5 政黨輪替與轉型正義 國際要聞 美國新聞 南海東海風雲 川普時代 世界史地 世界人文 科技新聞 賈伯斯專輯 中國新聞 中國史地 專欄 陳茂雄專欄 陳昭南觀點 何清漣專欄 獨傲村夫專欄 廖清山專欄 陳破空專欄 黃帝穎專欄 范姜提昂專欄 李堅專欄 金恆煒專欄 林保華專欄 動畫 影音 鄭 知道了 政經看民"
+   — 'Daily Archives: June 15, 2018' (2018-06-15)
+3. "原沒有風」台灣面臨和圖博、維吾爾、南蒙一樣問題 ◎風傳媒 趙宥寧 2017-09-16 September 16, 2017 精闢專論 專論–台灣遠不如圖博 ◎陳茂雄/ 高雄台灣時報/ 2013-3-04 March 4, 2013 精闢專論 自由電子報-社論:看清馬英九擁抱中國專制政權的真面目/2-12-2-24 Febr"
+   — 'Tag: 圖博' (2018-06-17)
+4. "r 2, 2017 台灣新聞 年代晚報 20170214 名教練子勒斃女老師 師生戀釀悲劇 February 14, 2017 專欄 將學生當作子女的老師 ◎ 陳茂雄 02-16-2016 February 15, 2016 專欄 歷史學界的老師們，你們在哪? ◎ 廖千瑤/ 想想台灣/ 2015-7-30 July 31,"
+   — 'Tag: 老師' (2018-07-03)
+5. ", 2016 精闢專論 社論》一場(中共)買台灣的大陰謀/ 自由時報/ 2015-11-12 November 12, 2015 精闢專論 哪一種人最可怕？ ◎陳茂雄 10-13-2013 October 13, 2013"
+   — 'Tag: 買台灣' (2018-07-08)
+6. "ry 24, 2017 台灣新聞 痛批中國以商逼政 台聯籲觀光業者加速轉型 ◎新頭殼newtalk 2016.09.11 September 11, 2016 陳茂雄專欄 台聯真寂寞 ◎ 陳茂雄/高雄台灣時報社論 08-25-2016 August 24, 2016 1 2 3 ... 6 Page 1 of 6"
+   — 'Tag: 台聯' (2018-12-22)
+7. "新聞 痛批中國以商逼政 台聯籲觀光業者加速轉型 ◎新頭殼newtalk 2016.09.11 September 11, 2016 陳茂雄專欄 台聯真寂寞 ◎ 陳茂雄/高雄台灣時報社論 08-25-2016 August 24, 2016 1 2 3 ... 6 Page 1 of 6"
+   — 'Tag: 台聯' (2018-12-22)
+
+### 2017 (101 quotes)
+
+1. "兩岸關係 June 24, 2022 美艦通過台海 國防部：23架次共機擾台 7架次越中線 兩岸關係 August 28, 2022 何不說「逢台必反」？ ◎陳茂雄 09-26-2011 兩岸關係 September 26, 2011 台灣能否參與WHA 蔡英文：兩岸關係重要指標 ◎自由時報 2017-04-27 兩岸關係"
+   — 兩岸關係 (2017-04-27)
+2. "＜政黨的因素可以促使大型的群眾運動出現，不是群眾運動可以左右政黨的氣勢，顯然的，中國國民黨是垮在馬英九＞ 陳茂雄 有關中國國民黨的垮台，一般人認為是太陽花學運所造成，連台北市長柯文哲都表示，太陽花學運不僅有五十萬人佔領凱道，更寫下歷史新頁，使政治勢力龐大的中國國民黨垮台。"
+   — 中國國民黨並非垮在太陽花 ◎陳茂雄 2017-07-12 (2017-07-12)
+3. "我的肥皂箱 週末漫談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 Home Tags 監察院並非太上皇 Tag: 監察院並非太上皇 陳茂雄專欄 監察院並非太上皇 ◎ 陳茂雄 2017-07-23 July 23, 2017"
+   — 'Tag: 監察院並非太上皇' (2017-07-23)
+4. "地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 Home Tags 監察院並非太上皇 Tag: 監察院並非太上皇 陳茂雄專欄 監察院並非太上皇 ◎ 陳茂雄 2017-07-23 July 23, 2017"
+   — 'Tag: 監察院並非太上皇' (2017-07-23)
+5. "11 維基解密連環爆 薄瑞光︰都是真的 ◎自由時報 09-17-2011 維基解密 September 16, 2011 馬英九何不展現「一中各表」的事實？ ◎陳茂雄 09-16-2011 維基解密 September 16, 2011 從維基解密看綠藍的正邪之分 ◎《台人專欄》09-08-2011 維基解密 Septemb"
+   — 維基解密 (2017-07-27)
+6. "南海東海風雲 中華民族 [愛好和平] 的真面目 ◎ 張國財/ 高雄台灣時報/ 2016-07-27 July 27, 2016 精闢專論 現代版的指鹿為馬 ◎ 陳茂雄 12-01-2013 December 1, 2013 精闢專論 社論: 馬先生，請勿低估台灣人民的智慧 ◎自由時報/ 2013-10-18 October"
+   — 'Tag: 中華民族' (2017-08-26)
+7. "2, 2017 台美人台加人 北加州【聖荷西】台灣文化體育協會年會/臺灣宏觀電視 2016-12-28 January 6, 2017 台美人台加人 (北加州)陳茂雄教授演講會及周玉蔻演講會八月分別舉行 July 26, 2016 台美人台加人 北加州民進黨之友會代辦選民登記 ◎Friends Of DPP 10-03-20"
+   — 'Tag: 北加州' (2017-10-12)
+8. "17 ] 獵雷艦案 馬吳後援會要角簡良鑑列被告 ◎ 自由時報 2017-11-08 台灣新聞 [ November 7, 2017 ] 黃國昌差一點作法自斃 ◎陳茂雄 2017-11-07 陳茂雄專欄 [ November 7, 2017 ] 川普式經貿談判風格 美學者不樂觀 ◎中央社 2017/11/08 川普時代 [ N"
+   — 精闢專論 | Taiwan Justice | 台灣公義網 (2017-11-08)
+9. "要角簡良鑑列被告 ◎ 自由時報 2017-11-08 台灣新聞 [ November 7, 2017 ] 黃國昌差一點作法自斃 ◎陳茂雄 2017-11-07 陳茂雄專欄 [ November 7, 2017 ] 川普式經貿談判風格 美學者不樂觀 ◎中央社 2017/11/08 川普時代 [ November 7, 2017"
+   — 精闢專論 | Taiwan Justice | 台灣公義網 (2017-11-08)
+10. "成了救國肥貓 ◎ 新頭殼newtalk/ 2017-11-04 November 5, 2017 admin 0 […] 精闢專論 官官勾結比官商勾結嚴重 ◎ 陳茂雄/民報 2017-11-05 November 5, 2017 admin 0 […] 精闢專論 獨立未必要公投, 公投未必會獨立 ◎ 高雄台灣時報社論:/ 2"
+   — 精闢專論 | Taiwan Justice | 台灣公義網 (2017-11-08)
+
+### 2016 (8 quotes)
+
+1. "e Random 全民都要忍耐改革的痛楚 (大成報總主筆郭憲鈴專欄)/ 大成報/ 2016-04-12 April 15, 2016 社論: 孰令小英躺著選?◎陳茂雄/ 高雄台灣時報/ 2015-12-09 林揆與公民團體對談 學者︰不要讓人提到新政府就搖頭 ◎自由時報 08-17-2016 美齡樓移轉國有案最高行裁准確定，"
+   — 政黨輪替與轉型正義 (2016-04-15)
+2. "人士 台灣新聞 李登輝將組新政黨？獨派人士今聚集翠山莊 ◎自由時報 04-20-2016 April 19, 2016 精闢專論 台灣脫離不了中國的人治模式 ◎陳茂雄 02-15-2014 February 15, 2014 每日新聞 2013/12/04 2013 黃昭堂音樂會 ◎獨立媒體 December 5, 2013"
+   — 'Tag: 獨派人士' (2016-04-19)
+3. "ruary 15, 2014 每日新聞 2013/12/04 2013 黃昭堂音樂會 ◎獨立媒體 December 5, 2013 精闢專論 獨派人士的迷失 ◎陳茂雄 11-29-2013 November 28, 2013 精闢專論 哪一種人最可怕？ ◎陳茂雄 10-13-2013 October 13, 2013 精闢專"
+   — 'Tag: 獨派人士' (2016-04-19)
+4. "December 5, 2013 精闢專論 獨派人士的迷失 ◎陳茂雄 11-29-2013 November 28, 2013 精闢專論 哪一種人最可怕？ ◎陳茂雄 10-13-2013 October 13, 2013 精闢專論 對中政策失分易 得分難 ◎陳茂雄 07-04-2013 July 4, 2013 精闢專論"
+   — 'Tag: 獨派人士' (2016-04-19)
+5. "ember 28, 2013 精闢專論 哪一種人最可怕？ ◎陳茂雄 10-13-2013 October 13, 2013 精闢專論 對中政策失分易 得分難 ◎陳茂雄 07-04-2013 July 4, 2013 精闢專論 專論: 馬政權何需政務官？ ◎ 陳茂雄/ 高雄台灣時報/ 2013-06-16 June 16, 2"
+   — 'Tag: 獨派人士' (2016-04-19)
+6. "ber 13, 2013 精闢專論 對中政策失分易 得分難 ◎陳茂雄 07-04-2013 July 4, 2013 精闢專論 專論: 馬政權何需政務官？ ◎ 陳茂雄/ 高雄台灣時報/ 2013-06-16 June 16, 2013"
+   — 'Tag: 獨派人士' (2016-04-19)
+7. "台聯真寂寞 ＜以前中國文攻武嚇，引起台灣人反感，因而改用招安手段；柯P則利用此機會對統派示好，以利市長的初選民調＞ 陳茂雄 台北上海雙城論壇在晶華酒店舉行，在論壇開始前，台聯青年軍發起群眾抗爭，聚集在會場外，抗議中國上海市長代表沙海林及代表團訪台，高舉「共產黨統戰，沙海林滾蛋」、「"
+   — 台聯真寂寞 ◎ 陳茂雄/高雄台灣時報社論 08-25-2016 (2016-08-24)
+8. "才太過自信/ 新頭殼newtalk/ 2016.09.29 https://www.taiwanjustice.net/Fm0Jp 請不要再消費李前總統 ◎ 陳茂雄 /台灣時報 09-29-2016 https://www.taiwanjustice.net/K5z2i (台灣) 面對北京的隨聲吠影/ 自由時報社論/ 2"
+   — 09/29-2016-台灣公義電子報新聞摘要 (2016-09-29)
+
+### 2015 (5 quotes)
+
+1. "～馬英九的元旦祝辭提出「和」與「合」，他的確與中共「合作」，卻抗拒與在野黨「和解」，更追殺黨內的王金平～ 陳茂雄 總統馬英九在總統府主持中華民國一〇四年開國紀念典禮暨元旦團拜，並發表元旦祝辭，主題為「和解、合作、和平」，用和解的「和」與合作的「合」這兩個字，來表述「社會和"
+   — 解讀馬英九的「和」與「合」◎陳茂雄/台灣時報社論 01-01-2015 (2015-01-01)
+2. "專欄 馬總統，您又劃錯重點了！◎蘇緯政（台灣青年智庫理事長）/蘋果日報 01-01-2015 January 1, 2015 專欄 解讀馬英九的「和」與「合」◎陳茂雄/台灣時報社論 01-01-2015 January 1, 2015 台灣新聞 【新聞分析】被電到的阿米巴與總統元旦祝辭 ◎民報 01-01-2014 Janu"
+   — 'Tag: 馬英九說謊' (2015-03-27)
+3. "2015 精闢專論 20130826有話好說：政府化武屠殺百姓？美軍將空襲敘利亞？ ◎公視 August 27, 2013 精闢專論 誰說美軍不能重返亞太？◎陳茂雄 03-05-2013 March 5, 2013 每日新聞 美軍計劃在西北非建無人機基地 ◎紐約時報 01-29-2013 January 29, 2013"
+   — 'Tag: 美軍' (2015-10-07)
+4. "018 [爆卦] 朱立倫岳父高育仁的商業帝國 政商一把抓 ◎Disp BBS 12-31-2014 台灣新聞 December 31, 2014 弊案與賭性 ◎陳茂雄 專欄 August 9, 2020 陳昭南觀點: 將 [台灣黎巴嫩化] 已是現在進行式/ 風傳媒/ 2016年12月17 專欄 December 18, 20"
+   — 專欄 (2015-10-12)
+5. "2020 陳昭南觀點: 將 [台灣黎巴嫩化] 已是現在進行式/ 風傳媒/ 2016年12月17 專欄 December 18, 2016 新潮流將獨領風騷 ◎ 陳茂雄 2018-04-06 專欄 April 5, 2018 小英政府宣告執行：台灣正當防衛的必要措施 ◎ 陳昭南 《六都春秋》2018-05-29 專欄 May"
+   — 專欄 (2015-10-12)
+
+### 2014 (9 quotes)
+
+1. "～獨派人士一向反中國，卻保存濃厚的中國儒家人治思想，期待明王降臨，原來建立的制度可以隨時改變～ 陳茂雄 民進黨主席蘇貞昌於十四日上午邀集黨內有意參選台北市長的前副總統呂秀蓮、律師顧立雄、立委許添財、姚文智與台北市副議長周柏雅等人，以整合各方對初選所提的意見，並討"
+   — 台灣脫離不了中國的人治模式 ◎陳茂雄 02-15-2014 (2014-02-15)
+2. "～核四停工不停建，更不發展新能源，二〇一六年總統大選若是中國國民黨獲勝就運轉核四，否則就讓新政府難看～ 陳茂雄 有關核電的問題，馬政權還是以「核安」來搪塞，他們喊出「沒有核安，沒有核電；沒有核安，沒有公投」，稍有一點科學常識的人都很清楚，再嚴密的「核安」都不可能排除核能"
+   — 國民黨包藏禍心 ◎陳茂雄 04-30-3014 (2014-04-30)
+3. "目魚】/2012-3-14 爭議六四紀念，香港青年去中國化？ ◎VOA/陳破空等 05-15-2015 國際要聞 May 15, 2015 哪來「兩岸兄弟」？◎陳茂雄 12-25-2012 精闢專論 December 25, 2012 一個2015年修憲運動樂觀者的反省 ◎ 范姜提昂/自由時報 2017-02-20 專欄 F"
+   — 專欄 (2014-05-02)
+4. "11 專欄 February 11, 2015 阿中部長有高度 就像愛情一樣「很白目」！ ◎ 陳昭南 專欄 August 11, 2020 台灣沒有朴槿惠 / 陳茂雄 2017-01-06 專欄 January 6, 2017 評第三勢力的票源 ◎ 陳茂雄 專欄 April 7, 2022 1 2 3 ... 1,418 P"
+   — 專欄 (2014-05-02)
+5. "◎ 陳昭南 專欄 August 11, 2020 台灣沒有朴槿惠 / 陳茂雄 2017-01-06 專欄 January 6, 2017 評第三勢力的票源 ◎ 陳茂雄 專欄 April 7, 2022 1 2 3 ... 1,418 Page 2 of 1,418"
+   — 專欄 (2014-05-02)
+6. "方公里的漂流 世界史地 June 1, 2014 新聞追追追2014 06 01-退將爽領高薪 新聞追追追 June 1, 2014 小公司聯盟對上大公司 ◎ 陳茂雄 06-01-2014 陳茂雄專欄 June 1, 2014 1 2 Page 1 of 2"
+   — 'Daily Archives: June 1, 2014' (2014-06-01)
+7. "e 1, 2014 新聞追追追2014 06 01-退將爽領高薪 新聞追追追 June 1, 2014 小公司聯盟對上大公司 ◎ 陳茂雄 06-01-2014 陳茂雄專欄 June 1, 2014 1 2 Page 1 of 2"
+   — 'Daily Archives: June 1, 2014' (2014-06-01)
+8. "13 台灣新聞 美人權報告：台灣貪腐、家暴問題嚴重 ◎自由時報 04-21-2013 April 20, 2013 精闢專論 貪腐風暴未必會拖垮中國國民黨 ◎ 陳茂雄 03-31-2013 March 31, 2013 國際要聞 貪腐致權貴 權貴或致中國革命 ◎美國之音中文網 熱點新聞/ 2013-3-19 March 19"
+   — 'Tag: 貪腐' (2014-08-02)
+9. "January 29, 2012 2012大選 Work for change in Taiwan ◎Andrew Chang January 6, 2012 陳茂雄專欄 中國又幫民進黨助選了？◎陳茂雄 January 6, 2012 2012大選 想到苦難同胞 爬也要爬回來投票 ◎陳麗惠2012/01/07 January"
+   — 'Tag: 海外助選團' (2014-09-24)
+
+### 2013 (26 quotes)
+
+1. "8–離奇命案接連發生！完美謀殺 VS.手法粗糙！ 異常犯罪行為，人格問題？道德崩，社會危機 March 18, 2013 精闢專論 外國的月亮真的比較圓嗎？ ◎陳茂雄 03-18-2013 March 18, 2013 台灣新聞 《1400新台灣加油》2013.03.18–阿扁319槍擊案九年了！誰還原真相？幕後有藏鏡人？"
+   — admin (2013-03-18)
+2. "～七成以上的台灣人反對「統一」，但並不是主張「台獨」就可以吸收這些選票，政治意識對選舉的影響越來越低～ 陳茂雄 清華大學副教授姚人多於二十三日出席「自由人宣言」時表示，台獨、建國在台灣已經失去了主流市場。他對於民進黨迄今無法提出跟「九二共識」相抗衡的論述表示憂心。辜寬敏"
+   — 「反統」並不等於「台獨」◎陳茂雄 04-25-2013 (2013-04-28)
+3. "～人頭黨員重創民進黨，中國國民黨則受制於民調制度，若兩黨合作推動公辦或合辦初選則可雙贏～ 陳茂雄 民進黨立委陳其邁等人提出公辦初選的構想，希望透過立法方式，由政府主辦各政黨公職的黨內提名初選以取代黨員投票的方式。內政部長李鴻源於六日在立法院備詢及接受媒體採"
+   — 中國國民黨抗拒雙贏的機會？◎陳茂雄 05-06-2013 (2013-05-06)
+4. "2013 精闢專論 中國加緊打壓要求官員公示財産的公民/ VOA/ 2013-5-09 May 9, 2013 精闢專論 統獨是人權議題 非一般政治問題 ◎ 陳茂雄 05-09-2013 May 9, 2013 每日新聞 《新台灣加油》2013.05.09_馬英九上任後胡搞瞎搞！肥了國民黨，瘦了股民！ 多少錯誤政策及貪腐意"
+   — admin (2013-05-09)
+5. "～對民進黨而言，對中政策就像選舉時的政策白皮書，不能沒有它，但很難靠它加分，卻很容易扣分～ 陳茂雄 七月四日下午二時民進黨舉行第一場「對中政策擴大會議」，簡稱「華山會議」，這一場會議的主題為「台灣對中政策的核心價值與願景」，由黨主席蘇貞昌親自主持。開會的第一"
+   — 對中政策失分易 得分難 ◎陳茂雄 07-04-2013 (2013-07-04)
+6. "August 14, 2012 2012大選 Work for change in Taiwan ◎Andrew Chang January 6, 2012 陳茂雄專欄 中國又幫民進黨助選了？◎陳茂雄 January 6, 2012 2012大選 想到苦難同胞 爬也要爬回來投票 ◎陳麗惠2012/01/07 January"
+   — 'Tag: 2012總統大選' (2013-08-14)
+7. "應該用選票制裁負面選舉 ◎陳耀祥法學博士/Twtimes/2011-12-28 December 27, 2011 2012大選 「不統」與「不獨」的矛盾 ◎陳茂雄 December 27, 2011 2012大選 馬金集團四面楚歌◎黑雨/2011-12-28 December 27, 2011 1 2 3 ... 63"
+   — 'Tag: 2012總統大選' (2013-08-14)
+8. "浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home Tags 讓台灣人靠中國吃飯 Tag: 讓台灣人靠中國吃飯 精闢專論 哪一種人最可怕？ ◎陳茂雄 10-13-2013 October 13, 2013"
+   — 'Tag: 讓台灣人靠中國吃飯' (2013-10-13)
+9. "息 美股 台股 老郎(老人)心天地 Home Tags 沒有總統當才會考慮到中國的特首 Tag: 沒有總統當才會考慮到中國的特首 精闢專論 哪一種人最可怕？ ◎陳茂雄 10-13-2013 October 13, 2013"
+   — 'Tag: 沒有總統當才會考慮到中國的特首' (2013-10-13)
+10. "美股台股消息 美股 台股 老郎(老人)心天地 Home Tags 在他連任總統後才會出問題 Tag: 在他連任總統後才會出問題 精闢專論 哪一種人最可怕？ ◎陳茂雄 10-13-2013 October 13, 2013"
+   — 'Tag: 在他連任總統後才會出問題' (2013-10-13)
+
+### 2012 (10 quotes)
+
+1. "ags 台1線 Tag: 台1線 2012大選 Work for change in Taiwan ◎Andrew Chang January 6, 2012 陳茂雄專欄 中國又幫民進黨助選了？◎陳茂雄 January 6, 2012 2012大選 想到苦難同胞 爬也要爬回來投票 ◎陳麗惠2012/01/07 January"
+   — 'Tag: 台1線' (2012-01-06)
+2. "～選民所以會接受賄選，是因為他們沒有屬意人選，所以將選票當作貨物出售～ 陳茂雄 每次選舉後，藍綠雙方都會檢討選舉的成果，若是綠營敗選，會將失敗的原因歸諸賄選。一般綠營人士認為，藍營所以會獲勝，都是依賴賄選，若沒有賄選，藍營就選不下去。事實"
+   — 賣票是罪大惡極嗎？◎陳茂雄 (2012-01-26)
+3. "談音樂 台語文天地 Covid-19 浩劫餘生錄 美股台股消息 美股 台股 老郎(老人)心天地 Home Tags 白道 Tag: 白道 精闢專論 白道之惡 ◎陳茂雄 May 10, 2012"
+   — 'Tag: 白道' (2012-05-10)
+4. "台股消息 美股 台股 Home Authors Posts by admin admin 127867 POSTS 0 COMMENTS 精闢專論 白道之惡 ◎陳茂雄 May 10, 2012 精闢專論 世代交替的關鍵不在年齡 ◎陳茂雄 May 10, 2012 動畫 傷心白賊義–幽默政治動畫 ◎公孫樂製作 May 10,"
+   — admin (2012-05-10)
+5. "min admin 127867 POSTS 0 COMMENTS 精闢專論 白道之惡 ◎陳茂雄 May 10, 2012 精闢專論 世代交替的關鍵不在年齡 ◎陳茂雄 May 10, 2012 動畫 傷心白賊義–幽默政治動畫 ◎公孫樂製作 May 10, 2012 每日新聞 洪博培談美國如何掌控對華關係/VOA/2012-5"
+   — admin (2012-05-10)
+6. "～一般人都痛恨黑道，事實上有些白道之惡甚於黑道，因為無人治得了他們～ 陳茂雄 新竹縣出現一件光怪陸離的事，有人因酒駕出車禍，招來縣議員護航，當警察處理車禍時，肇事者竟然對警察揮拳，派出所所長礙於縣議員的壓力，竟然要警察向議員道歉，拜託議"
+   — 白道之惡 ◎陳茂雄 (2012-05-10)
+7. "August 16, 2012 2012大選 Work for change in Taiwan ◎Andrew Chang January 6, 2012 陳茂雄專欄 中國又幫民進黨助選了？◎陳茂雄 January 6, 2012 2012大選 想到苦難同胞 爬也要爬回來投票 ◎陳麗惠2012/01/07 January"
+   — 'Tag: 海外蔡英文後援會' (2012-08-17)
+8. "012大選 Work for change in Taiwan ◎Andrew Chang January 6, 2012 陳茂雄專欄 中國又幫民進黨助選了？◎陳茂雄 January 6, 2012 2012大選 想到苦難同胞 爬也要爬回來投票 ◎陳麗惠2012/01/07 January 6, 2012 台灣新聞 海外鄉親"
+   — 'Tag: 海外蔡英文後援會' (2012-08-17)
+9. "應該用選票制裁負面選舉 ◎陳耀祥法學博士/Twtimes/2011-12-28 December 27, 2011 2012大選 「不統」與「不獨」的矛盾 ◎陳茂雄 December 27, 2011 1 2 3 ... 60 Page 1 of 60"
+   — 'Tag: 海外蔡英文後援會' (2012-08-17)
+10. "er 20, 2012 精闢專論 自由電子報- [笨拙] 的知識詐欺！/2012-11-20 November 19, 2012 精闢專論 反改革就不要眼紅 ◎陳茂雄 11-18-2012 November 17, 2012 精闢專論 社論: 自由電子報-選民還要被金光黨[中國國民(搶產)黨] 騙幾次？2012-8-15 A"
+   — 'Tag: 2012年台灣總統選舉' (2012-12-18)
+
+### 2011 (1 quotes)
+
+1. "0, 2011 新台灣加油 08302011-新台灣加油 August 30, 2011 每日新聞 08302011-大話新聞 August 30, 2011 陳茂雄專欄 不要輕視陳水扁的智慧 08-31-2011 August 30, 2011 兩岸關係 假「九二共識」真「一中原則」 2011-08-30 ◎金恆煒 Aug"
+   — 'Tag: 新竹北埔' (2011-08-31)
+
+*...and 909 more quotes*
+
+
+## Network
+
+Pages that link to **陳茂雄** (chen-maoxiong):
+
+
+### People (30)
+
+1. [[people/chen-po-kong|chen-po-kong]]
+2. [[people/chen-zhaonan|chen-zhaonan]]
+3. [[people/daniel-kao|daniel-kao]]
+4. [[people/fan-jiang-ti-ang|fan-jiang-ti-ang]]
+5. [[people/he-qingxuan|he-qingxuan]]
+6. [[people/huang-diyin|huang-diyin]]
+7. [[people/huang-yongcheng|huang-yongcheng]]
+8. [[people/huang-yongcheng|huang-yongcheng]]
+9. [[people/index|index]]
+10. [[people/jin-hegui|jin-hegui]]
+11. [[people/lai-ching-te|lai-ching-te]]
+12. [[people/lai-ching-te|lai-ching-te]]
+13. [[people/lai-ching-te|lai-ching-te]]
+14. [[people/lai-ching-te|lai-ching-te]]
+15. [[people/lai-ching-te|lai-ching-te]]
+16. [[people/lai-ching-te|lai-ching-te]]
+17. [[people/lai-ching-te|lai-ching-te]]
+18. [[people/lai-ching-te|lai-ching-te]]
+19. [[people/li-jian|li-jian]]
+20. [[people/li-jian|li-jian]]
+21. [[people/li-xiaofeng|li-xiaofeng]]
+22. [[people/liao-qingshan|liao-qingshan]]
+23. [[people/lin-baohua|lin-baohua]]
+24. [[people/lin-baohua|lin-baohua]]
+25. [[people/maw-lin|maw-lin]]
+26. [[people/tah-p-8c5a93b3d4|tah-p-8c5a93b3d4]]
+27. [[people/tang-peili|tang-peili]]
+28. [[people/tang-peili|tang-peili]]
+29. [[people/yang-yuanxun|yang-yuanxun]]
+30. [[people/洪秀柱|洪秀柱]]
+
+### Organizations (3)
+
+1. [[organizations/formosan-presbyterian-church-in-los-angeles|formosan-presbyterian-church-in-los-angeles]]
+2. [[organizations/taiwanjustice-net|taiwanjustice-net]]
+3. [[organizations/taiwanjustice-net|taiwanjustice-net]]
+
+### Articles (4)
+
+1. [[articles/taiwanjustice-net/2021/20211129015737_category_tech-news_steve-jobs-tech-news_a6bfc17011c50708|20211129015737_category_tech-news_steve-jobs-tech-news_a6bfc17011c50708]]
+2. [[articles/taiwanjustice-net/2022/20221127042314_category_internatinal_south-china-sea_page_351_62fc55a1173b4791|20221127042314_category_internatinal_south-china-sea_page_351_62fc55a1173b4791]]
+3. [[articles/taiwanjustice-net/index|index]]
+4. [[articles/taiwanjustice-net/index|index]]
+
+### Sources (38)
+
+1. [[sources/taiwandaily-net|taiwandaily-net]]
+2. [[sources/taiwandaily-net|taiwandaily-net]]
+3. [[sources/taiwandaily-net|taiwandaily-net]]
+4. [[sources/taiwandaily-net|taiwandaily-net]]
+5. [[sources/taiwandaily-net|taiwandaily-net]]
+6. [[sources/taiwandaily-net|taiwandaily-net]]
+7. [[sources/taiwandaily-net|taiwandaily-net]]
+8. [[sources/taiwandaily-net|taiwandaily-net]]
+9. [[sources/taiwandaily-net|taiwandaily-net]]
+10. [[sources/taiwandaily-net|taiwandaily-net]]
+11. [[sources/taiwandaily-net|taiwandaily-net]]
+12. [[sources/taiwandaily-net|taiwandaily-net]]
+13. [[sources/taiwandaily-net|taiwandaily-net]]
+14. [[sources/taiwandaily-net|taiwandaily-net]]
+15. [[sources/taiwandaily-net|taiwandaily-net]]
+16. [[sources/taiwandaily-net|taiwandaily-net]]
+17. [[sources/taiwandaily-net|taiwandaily-net]]
+18. [[sources/taiwandaily-net|taiwandaily-net]]
+19. [[sources/taiwandaily-net|taiwandaily-net]]
+20. [[sources/taiwandaily-net|taiwandaily-net]]
+21. [[sources/taiwandaily-net|taiwandaily-net]]
+22. [[sources/taiwandaily-net|taiwandaily-net]]
+23. [[sources/taiwandaily-net|taiwandaily-net]]
+24. [[sources/taiwandaily-net|taiwandaily-net]]
+25. [[sources/taiwandaily-net|taiwandaily-net]]
+26. [[sources/taiwandaily-net|taiwandaily-net]]
+27. [[sources/taiwandaily-net|taiwandaily-net]]
+28. [[sources/taiwandaily-net|taiwandaily-net]]
+29. [[sources/taiwandaily-net|taiwandaily-net]]
+30. [[sources/taiwandaily-net|taiwandaily-net]]
+31. [[sources/taiwandaily-net|taiwandaily-net]]
+32. [[sources/taiwandaily-net|taiwandaily-net]]
+33. [[sources/taiwandaily-net|taiwandaily-net]]
+34. [[sources/taiwandaily-net|taiwandaily-net]]
+35. [[sources/taiwandaily-net|taiwandaily-net]]
+36. [[sources/taiwandaily-net|taiwandaily-net]]
+37. [[sources/taiwandaily-net|taiwandaily-net]]
+38. [[sources/taiwanjustice-net|taiwanjustice-net]]
+
+### Other (3)
+
+1. [[works/taiwaneseamericanhistory-org/ourjourneys123|ourjourneys123]]
+2. [[works/taiwaneseamericanhistory-org/ourjourneys123|ourjourneys123]]
+3. [[works/taiwaneseamericanhistory-org/ourjourneys245|ourjourneys245]]
+
+## Source Notes
+
+- **Content priority A:** Article count (475) from Tier 2 title extraction
+- **Content priority B:** Column author listing from `knowledge/research/taiwanjustice-net-entities.md`
+- **Hub:** [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
+- **Archive:** [Column articles](https://github.com/echocanhelp/wiki-public/tree/gh-pages/knowledge/web-archives/taiwanjustice-net/tier2/)
+
+## From the record
+
+- **2024-09-18** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「智者看他人犯錯就省悟」 (政治評論 lane; byline 陳茂雄, 文末自註「作者為中山大學退休教授、台灣安全促進會會長」— matches page identity, signed 0918): 論兩大黨皆因徵召制度慘敗而馬屁精歌頌領導者英明使其迷失，惟有智者依循別人的失敗修正自己的路線。記 8/28 賴清德首度與黨內各派系代表在官邸便當會（新潮流林錫耀、段宜康；正國會林佳龍、林右昌；綠色友誼連線陳勝宏、林益邦；湧言會王定宇、顏曉菁；英系陳其邁、翁章梁；蘇系張宏陸、蘇巧慧），賴承諾「絕對不會沒收初選」並敲定每二個月一次派系便當會。回溯民進黨 2022 九合一除屏東外全部徵召：為讓林智堅再選新竹市長想升格新竹市、擬併苗栗（有人提醒苗栗為藍營鐵票區等同幫國民黨增加一直轄市長，改規畫只割半個苗栗引起苗栗人反彈作罷）、擬修法升格遭全國民眾譁然踩煞車、後徵召林智堅選桃園因論文抄襲退選、新候選人仍依徵召產生致一資深黨員違紀競選以「黨員基本權利、黨主席沒理由沒收初選」引起共鳴，選後北部五縣市全淪陷，馬屁精卻稱徵召合乎民主制度——他反詰希特勒也獲得國會授權，是否也要歌頌希特勒的民主。國民黨同樣因徵召跨台：大選前一年侯友宜民調獨領風騷，若辦初選必定侯出線，郭台銘自己退黨咎由自取，該黨卻莫名其妙辦徵召（初選客觀錄取優勝者、徵召主觀錄取所要的人），郭的支持者不服窩裡反轉投柯陣營，「若沒有移轉到柯陣營，總統大選恐怕有大變化」。結語引「愚笨人在同一地點重複跌倒，聰明人不跌倒，有智慧的人看到別人跌倒就會小心」（欄內被報導人物 賴清德／林智堅／侯友宜／郭台銘 及派系名單人物 不代筆添條） — [美洲台灣日報](https://taiwandaily.net/政治評論/38256/)（存檔 `knowledge/web-archives/taiwandaily-net-38256-38256.md`；去重：寫入前 `grep 38256 content/people/` = 0 條本 URL 記錄行；prep-tag candidates chen-po-kong 陳破空／li-jian 李堅 0× in file，prep-tag hit false，never-merge）
+
+- 2024-02-29 — 「陳茂雄 音樂教室」列為 TJJ「影音」區常設節目區塊，「有話好說」為同區常設節目分類且該頁即其標籤頁 Page 1/191（Featured posts 排序 via filter_by=featured，列表載 有話好說 20240229 立法院召委選舉 白挺藍!三黨各有盤算?（February 29, 2024）等各篇），本人並列名於該頁 frontmatter authors 清單，見於該頁之站內導覽（[[articles/taiwanjustice-net/2024/20240301064924_root_e426f646b147d37b.md|TJJ, 2024-03-01 快照]]）。
+- **2017-12-02** — 於台灣時報發表社論〈台灣救不了李明哲〉，論述李明哲遭中國以「顛覆國家政權罪」判刑屬中國主權宣示、台灣政府對中國無影響力故援救只是政治運動（[[articles/taiwanjustice-net/2017/20171206223104_2017_12_01_台灣救不了李明哲-_陳茂雄-台灣時報社論-2017-12-2_d4717119c15afb17|存檔快照 2017-12-06]]）。
+- **2017-12-01** — 於自由時報發表專欄〈在台的中國人造籠網台灣〉，主張造成台灣「籠中鳥」處境的是蔣家與在台的中國人，台獨運動是要突破鳥籠（[[articles/taiwanjustice-net/2017/20171206222339_2017_12_01_在台的中國人造籠網台灣-_-陳茂雄-2017-12-01_12b21c0bbb3114f6|存檔快照 2017-12-06]]）。
+- **2017-11-30** — 於台灣時報發表專論〈蔣萬安與柯P是兩個極端〉，以政治人物與政治素人之別分析蔣萬安冗長發言擋《勞基法》修法之「站神」現象（[[articles/taiwanjustice-net/2017/20171220122852_2017_11_30_蔣萬安與柯p是兩個極端-_-陳茂雄-2017-11-30_ba2716717c7a5d1a|存檔快照 2017-12-20]]）。
+- **2017-11-29** — 於太平洋時報「台灣看台灣」發表專欄〈有錢判生 無錢判死？〉，批評法官以奇怪理由變相「廢死」等同法官做立法工作、恐衝擊司法形象（[[articles/taiwanjustice-net/2017/20171220122904_2017_11_30_有錢判生-無錢判死_-_-陳茂雄-2017-11-29_44af27654291266e|存檔快照 2017-12-20]]）。
+- **2017-11-28** — 於民報發表時事專欄〈受到蔣家庇蔭當然要承擔蔣家所造的孽〉，以蔣友柏未受庇蔭不必承擔、蔣萬安受蔣家庇蔭則應承擔，論政治清算的理據（[[articles/taiwanjustice-net/2017/20171220123304_2017_11_28_受到蔣家庇蔭當然要承擔蔣家所造的孽-_-陳茂雄-2017-11_ee65e7c7b36d97be|存檔快照 2017-12-20]]）。
+- **2017-11-08** — taiwanjustice.net 首頁快照當列其專欄〈黃國昌差一點作法自斃〉（2017-11-07）於 Recent Posts，並列其為本站專欄作者之一（[[articles/taiwanjustice-net/2017/20171108105003_root_989b97203712ef73|存檔快照 2017-11-08]]）。
+- **2020-04-24** — 於民報發表時事專欄〈中山大學的轉型〉，自述 2002 年擔任校長遴選委員會召集人、促使本土化人士出任校長，使中山大學擺脫李煥時代統派掌控（[[articles/taiwanjustice-net/2020/20200622025743_2020_04_24_中山大學的轉型-_-陳茂雄_8c750e0548477c9b|存檔快照 2020-06-22]]）。
+- **2020-06-21** — 於台灣時報發表專論〈兩極化效應〉，以「堅定支持／堅決抵制／可改變」選民模型分析罷韓案投票率逾四成與 2020 總統大選棄保效應（[[articles/taiwanjustice-net/2020/20200622034433_2020_06_21_兩極化效應-_-陳茂雄_d59be3acf55c77d6|存檔快照 2020-06-22]]）。
+- **2020-04-19** — 於 taiwanjustice.net 發表專欄〈國際社會的借力使力〉，論台灣防疫成功（了解中國、倒著思考中方訊息、SARS 經驗提早佈防）使台灣長期來首次獲國際社會高度評價（[[articles/taiwanjustice-net/2020/20200624110113_2020_04_19_國際社會的借力使力-_-陳茂雄_f0d39c4a60d6c218|存檔快照 2020-06-24]]）。
+- **2020-05-13** — 於 taiwanjustice.net 發表專欄〈一黨獨大的罪魁禍首〉，以內閣人事（蘇貞昌留任、陳菊轉監察院長、蘇嘉全接總統府秘書長）反駁統派媒體「五院都是國王的人馬」抨擊，論完全執政下任用私人本屬常態、蔡英文內閣甚至容納極端統派入閣（[[articles/taiwanjustice-net/2020/20200627014507_2020_05_13_一黨獨大的罪魁禍首-_-陳茂雄_b990eb4ac78cd1df|存檔快照 2020-06-27]]）。
+- **2020-06-02** — 於 taiwanjustice.net 發表專欄〈政壇如戲台〉，以章孝嚴為繼承蔣家政治資源替已故蔣經國認領自己論政壇如戲台的荒謬（[[articles/taiwanjustice-net/2020/20201220145412_2020_06_02_政壇如戲台-_-陳茂雄_e31028fae094dadf|存檔快照 2020-12-20]]）。
+- **2020-06-16** — 於 taiwanjustice.net 發表專欄〈國民黨老將避戰呈敗象〉，以高雄市長補選藍營新秀爭相出頭、老將避戰以固守版圖，論藍營勝算小、呈敗象（[[articles/taiwanjustice-net/2020/20200623131645_2020_06_16_國民黨老將避戰呈敗象-_陳茂雄_bbe22159eda8b1cd|存檔快照 2020-06-23]]）。
+- **2020-07-06** — 於 taiwanjustice.net 發表專欄〈日本瓦解了中國國民黨？〉，論 2018 九合一後預期民進黨下野，卻因香港反送中使蔡英文得票屬空前，中國國民黨內部因而出現改革聲音（[[articles/taiwanjustice-net/2020/20200710135134_2020_07_06_日本瓦解了中國國民黨_-_-陳茂雄_907b3736d26b6270|存檔快照 2020-07-10]]）。
+- **2020-08-16** — 於 taiwanjustice.net 發表專欄〈兩大黨都期待韓國瑜〉，記高雄市長補選結果：陳其邁 671,804 票得票率逾七成破高雄紀錄、李眉蓁 248,478 票得票率兩成五為國民黨新低、吳益政不足五％，論韓國瑜成為兩大黨皆期待的變數（[[articles/taiwanjustice-net/2020/20200822134746_2020_08_16_兩大黨都期待韓國瑜-_-陳茂雄_9ab08ef46babdc5f|存檔快照 2020-08-22]]）。
+- **2020-11-20** — 於 taiwanjustice.net 發表專欄〈黃安又要留給誰？〉，評 NCC 全票否決中天換照案，批黃安以中國立場抨擊台灣人、說不出中天違規與事實不符之處（[[articles/taiwanjustice-net/2020/20201126145202_2020_11_20_黃安又要留給誰_-陳茂雄_8e86fd8e26f63458|存檔快照 2020-11-26]]）。
+- **2020-11-20** — 於 taiwanjustice.net 發表專欄〈國共兩黨造就台獨〉，論中國研擬「台獨」頑固分子清單純屬恫嚇且完全無效——未被列入黑名單反而沒面子，列入代表台獨工作有成果（[[articles/taiwanjustice-net/2020/20201126152326_2020_11_20_國共兩黨造就台獨-_-陳茂雄_19b575d9c0b8d2b2|存檔快照 2020-11-26]]）。
+- **2020-06-23** — 於 taiwanjustice.net 發表專欄〈敗選者只能乾瞪眼〉，評中國國民黨團反對新監院人事案（27 位監委提名人中 24 位具民進黨背景），論民進黨不應以黨國不分時期的標準被檢討、敗選者應檢討騙票伎倆為何輸人（[[articles/taiwanjustice-net/2021/20210125230552_2020_06_23_敗選者只能乾瞪眼-_-陳茂雄_e425250c728d6be0|存檔快照 2021-01-25]]）。
+- **2020-09-30** — 於 taiwanjustice.net 發表專欄〈為「死忠」支持者悲〉，以歐陽娜娜在中國十一國慶晚會獻唱《我的祖國》引發撻伐、與 2015 年黃安於新浪微博舉報周子瑜揮國旗致其遭抵制兩案，論「不出來批評中共就是媚共」氛圍之荒謬與「死忠」支持者之困境（[[articles/taiwanjustice-net/2021/20210118123845_2020_09_30_為_死忠_支持者悲-_-陳茂雄_001b667b89441489|存檔快照 2021-01-18]]）。
+- **2020-11-17** — 於 taiwanjustice.net 發表專欄〈民進黨也扮演惡丐？〉，評民進黨立委陳明文、王美惠提案禁止單一政黨標章與國徽高度相似（針對國民黨黨徽與國徽青天白日極為近似），以台灣人責怪中國政權「乞丐趕廟公」之語反諷民進黨不敢改國徽卻要中國國民黨改黨徽（[[articles/taiwanjustice-net/2021/20210117054234_2020_11_17_民進黨也扮演惡丐_-_-陳茂雄_affb432d7cf91730|存檔快照 2021-01-17]]）。
+- **2020-11-22** — 於 taiwanjustice.net 發表專欄〈佔盡便宜還賣乖〉，評國民黨立委蔣萬安與台北市高中生交流時稱「沒背景反而是優勢」，論依此邏輯最吃虧的應是蔣家背景，並記蔣萬安之父蔣孝嚴本姓章、以特權改姓蔣之事（[[articles/taiwanjustice-net/2021/20210127215425_2020_11_22_佔盡便宜還賣乖-_陳茂雄_8fd12eb862f564b5|存檔快照 2021-01-27]]）。
+- **2020-11-25** — 於 taiwanjustice.net 發表專欄〈活在蔣氏王朝年代〉，記關中出席新書《明天會更好：關中傳奇》發表會受訪稱中國國民黨是「統」的政黨、說「不統」即代表接受台獨，並稱國民黨「就是在馬英九手上垮掉的」；陳茂雄補充馬英九以「不統、不獨、不武」模糊該黨統派本質（[[articles/taiwanjustice-net/2021/20210128085406_2020_11_25_活在蔣氏王朝年代_-_-陳茂雄_fb93e0bb8a586c40|存檔快照 2021-01-28]]）。
+- **2020-12-20** — 於 taiwanjustice.net 發表專欄〈司法對事 監察對人〉，記前監察委員陳師孟欲約詢判馬英九洩密案無罪之法官引發司法界連署抗議、隨後辭監委獲准一事，論法律背景者視司法獨立為當然、政治學背景者視監察權監督公務人員為天經地義之兩端（[[articles/taiwanjustice-net/2020/20201230091314_2020_12_20_司法對事-監察對人-_-陳茂雄_bb895d64746e66c4|存檔快照 2020-12-30]]）。
+- **2021-01-10** — 於 taiwanjustice.net 發表專欄〈會殺豬就會行刀路〉，評國民黨反萊豬公投二階連署與馬英九指蔡政府開放萊豬係圖利生產萊克多巴胺之禮來藥廠的說法（行政院駁斥：全球 101 國進口含萊克多巴胺豬肉），論台灣罕見的「圖利罪」因抓不到對價關係而改以圖利判刑、因而產生許多冤獄（[[articles/taiwanjustice-net/2021/20210128091156_2021_01_10_會殺豬就會行刀路-_-陳茂雄_aefc815fe098f809|存檔快照 2021-01-28]]）。
+- **2021-01-12** — 於 taiwanjustice.net 發表專欄〈王金平救了中國國民黨〉（民報時事專欄，文末署名 2021/1/11），評美國國會山莊遭川普支持者攻佔被藍營類比太陽花學運一案，論馬英九原規劃以鎮暴警察鎮壓並把責任推給立法院長王金平，王金平公開宣布鎮壓不必經院長同意以劃清責任、又以院長身分讓太陽花和平落幕，若無此阻擋國民黨恐無翻身之日（[[articles/taiwanjustice-net/2021/20210128085600_2021_01_12_王金平救了中國國民黨-_-陳茂雄_4a6b0060d08be1e2|存檔快照 2021-01-28]]）。
+- **2021-01-12** — 於 taiwanjustice.net 發表專欄〈暴政或暴民〉，以美國國會山莊事件對比太陽花學運：美國政府施政已制度化，群眾運動越軌被認定為暴民；台灣尚有白色恐怖陰影，警民衝突易被認定為暴政（[[articles/taiwanjustice-net/2021/20210128095955_2021_01_12_暴政或暴民-_-陳茂雄_3bfb0b34477e80b8|存檔快照 2021-01-28]]）。
+- **2021-02-17** — 於 taiwanjustice.net 發表專欄〈維持現狀 各自表述〉，記立法院修憲委員會因萊豬對抗遲未開會、民進黨力拚憲改複決綁大選，國民黨主席江啟臣同日表明反對變更國名與國家定位，論兩黨以「維持現狀」各自表述（[[articles/taiwanjustice-net/2021/20210225154412_2021_02_17_維持現狀-各自表述-_-陳茂雄_5e2be2f7b87a10b1|存檔快照 2021-02-25]]）。
+- **2021-02-19** — 於 taiwanjustice.net 發表專欄〈台灣要為中國而戰嗎？〉，記中國海警法上路後 4 艘海警船現於釣魚台海域、日方不排除使用武器，論美中日圍繞釣魚台爭端升溫下台灣不應為中國而戰（[[articles/taiwanjustice-net/2021/20210225170846_2021_02_19_台灣要為中國而戰嗎_陳茂雄_60468ee2f41793eb|存檔快照 2021-02-25]]）。
+- **2021-02-21** — 於 taiwanjustice.net 發表專欄〈台灣的黑金〉，論國民黨遷台初期以「籍貫」區隔族群屬殖民統治、江南案（劉宜良遭暗殺）致蔣家接班失敗、民主化後中國勢力因失去統治族群地位而操弄黑金（[[articles/taiwanjustice-net/2021/20210303211422_2021_02_21_台灣的黑金-_-陳茂雄_0c3cfd646f9d6c8b|存檔快照 2021-03-03]]）。
+- **2021-04-07** — 於 taiwanjustice.net 發表專欄〈兩大黨在比笨〉，評太魯閣號出軌案藍綠究責之爭：國民黨放棄主流民意使選民含淚投票民進黨、民進黨又不懂對基本支持者送暖，論兩大黨都在比笨（[[articles/taiwanjustice-net/2021/20210415101342_2021_04_07_兩大黨在比笨-_-陳茂雄_c60e53fcd19fae4b|存檔快照 2021-04-15]]）。
+- **2021-03-02** — 於 taiwanjustice.net 發表專欄〈由鳳梨案談寄生經濟〉，論中國以奇怪理由無預警封殺台灣鳳梨意在打擊台灣（前例：停止中國客來台），並記舔共藝人劉樂妍、黃安配合中國攻勢之言論（[[articles/taiwanjustice-net/2021/20210415104435_2021_03_02_由鳳梨案談寄生經濟-_-陳茂雄_f9357a35ec46baa2|存檔快照 2021-04-15]]）。
+- **2021-03-02** — 於 taiwanjustice.net 發表專欄〈以黨領政的魔咒〉，記國民黨主席選舉江啟臣、趙少康、張亞中角力與連勝文主張「專職黨主席」之爭，論兩大黨均屬剛性政黨、執政者未掌黨即成跛腳領袖（[[articles/taiwanjustice-net/2021/20210415110749_2021_03_02_以黨領政的魔咒-_-陳茂雄_03847519bac625ff|存檔快照 2021-04-15]]）。
+- **2021-03-03** — 於 taiwanjustice.net 發表專欄〈兩虎生死鬥，猴子當稱王〉，記柯文哲出席國民黨論壇被解讀「藍白合作」又轉向綠營「綠色連線」遭許淑華、王世堅開炮，論民眾黨「寄生藍綠」挖票與柯不值得信任（[[articles/taiwanjustice-net/2021/20210415111132_2021_03_03_兩虎生死鬥-猴子當稱王-_-陳茂雄_f69b3687ebd6b2db|存檔快照 2021-04-15]]）。
+- **2021-06-22** — 於台灣時報發表社論〈民進黨時來運轉〉，論缺水、缺電與武漢肺炎三面夾擊使民進黨瀕臨崩解、中國國民黨藉加深人民痛苦感發動攻勢；一輪大雨解水荒並啟動水力發電、日美捐贈疫苗降低人民痛苦感，使藍營攻勢淪為空包彈，「只要降低人民的痛苦感，民進黨就可翻身」（作者署名中山大學退休教授、台灣安全促進會會長）（[[articles/taiwanjustice-net/2021/20211025205131_2021_06_22_民進黨時來運轉-_-陳茂雄_dd21cf0f43e631f5|民進黨時來運轉, TJJ 存檔 2021-10-25]]）。
+- **2021-08-25** — 於台灣時報發表專論〈「邦聯」與「聯邦」〉，以國家體制比喻兩黨結構：民進黨派系「名義上是一個黨，事實上派系各自獨立」如邦聯，中國國民黨出身獨裁政黨、權力集中中央如聯邦，惟馬英九歧視地方派系挑起內鬥使該黨「聯邦」處在崩解狀態、正在修復中（[[articles/taiwanjustice-net/2021/20211025195927_2021_08_25_邦聯_與崩解中的_聯邦_-陳茂雄_49d66b8577c6067c|「邦聯」與崩解中的「聯邦」, TJJ 存檔 2021-10-25]]）。
+- **2021-09-09** — 於台灣時報發表社論，反駁國民黨主席參選人江啟臣「台灣絕不能成為美中棋子」之論：蔣介石年代台灣依賴美援、美軍駐紮並有劉自然案後蔣介石向美使館道歉，「台灣的物資依賴美援⋯很像阿富汗，寄生於美國」；1979 年美軍撤出、經濟自主、軍武靠買而非受贈，台美已是「共生」而非「寄生」結構，並批「今日阿富汗，明日台灣」荒謬（以色列與美國同樣共生）（[[articles/taiwanjustice-net/2021/20211023211559_2021_09_09_分不清_寄生_與_共生_-_-陳茂雄_06ede3a2dba13c0c|分不清「寄生」與「共生」？, TJJ 存檔 2021-10-23]]）。
+- **2021-09-19** — 於民報發表時事專欄〈「戰鬥藍」只能鬥垮中國國民黨〉，以三代「戰鬥藍」論中國法統勢力的排他性：第一代新國民黨連線（趙少康）反李登輝、第二代全力支持宋楚瑜打連戰、第三代力挺馬英九鬥王金平等地方派系，結果每下愈況且打擊的都是該黨本土勢力、反而幫助民進黨，「戰鬥藍只剩下崩解中國國民黨的能力」（[[articles/taiwanjustice-net/2021/20211025202549_2021_09_19_戰鬥藍_只能鬥垮中國國民黨-_-陳茂雄_8e1f05fe323566e0|「戰鬥藍」只能鬥垮中國國民黨, TJJ 存檔 2021-10-25]]）。
+- **2021-09-19** — 於台灣時報發表社論〈悲情效應〉，以黨外運動時期民眾被迫害的悲情解釋韓國瑜、張亞中氣勢突變：民進黨完全執政後追討黨產與年金改革使藍營既得利益者產生悲情而造就韓國瑜；韓國瑜演講會上王金平被轟下台、馬英九遭排斥，使統派恐懼而暗助蔡英文，蔡英文八一七萬票破紀錄「有太多來自中國國民黨」，統派再因悲情期待張亞中討回公道，因而打亂黨主席選情（[[articles/taiwanjustice-net/2021/20211025212256_2021_09_19_悲情效應-_-陳茂雄_b54f2c820142da8f|悲情效應, TJJ 存檔 2021-10-25]]）。
+- **2021-09-26** — 於台灣時報發表專論〈中國法統勢力的掙扎〉，記中國國民黨主席選舉朱立倫以八萬五千一百六十四票（45.78%）勝張亞中（六萬零六百三十二票、32.59%），並論該「中國法統勢力」由尊蔣反共、反李登輝轉為親共、寄望韓國瑜與張亞中，因排他性過強不願助韓國瑜而使其摔落雲端，「只是中國法統勢力欲振乏力」（[[articles/taiwanjustice-net/2021/20211020143141_2021_09_26_中國法統勢力的掙扎-_-陳茂雄_2fd57e57fd12abeb|中國法統勢力的掙扎, TJJ 存檔 2021-10-20]]）。
+- **2021-10-17** — 於台灣時報發表專論〈可反民進黨但不能背叛自己〉，評鄭麗文自稱昔日台獨基本教義派後轉投中國國民黨：民進黨創黨目標從來不是台獨而是反中國國民黨，「可以反民進黨」的正當性來自不加入自己原先反對的政黨，並以反共大師馬璧投共為對照——「到底是她背叛了自己或她本來就是中國國民黨埋伏在民進黨裡的細胞，只有她自己清楚」（[[articles/taiwanjustice-net/2021/20211020235103_2021_10_17_可反民進黨但不能背叛自己-_-陳茂雄_68e5b18dcd36444f|可反民進黨但不能背叛自己, TJJ 存檔 2021-10-20]]）。
+- **2021-10-17** — 於民報發表時事專欄〈是誰分裂中國？〉，回應蔡英文雙十演說「四個堅持」與趙少康「中華民國就是我們的國號」之論：以三十年前中國社科院台研所所長余克禮訪問中山大學中山研究所、囿於其公開從事台獨運動而秘密舉行之座談會為證，他當時保證不發言後仍起身指出毛澤東等中共黨員本是中華民國國民，是中共建立中華人民共和國宣告獨立於中華民國之外，「分裂中國的是中國共產黨，不是中國國民黨，更不是民進黨」（[[articles/taiwanjustice-net/2021/20211207114548_2021_10_17_是誰分裂中國_-陳茂雄_8d4e5be78fd1e1da|是誰分裂中國？, TJJ 存檔 2021-12-07]]）。
+- **2021-11-23** — 於台灣時報發表專欄〈民進黨在宜蘭輸得不冤枉〉，分析中國國民黨兩位首長侯友宜、林姿妙對重啟核四公投的表態：侯只敢反對馬英九、不敢與黨唱反調，林則對不利宜蘭縣的政策一律反對、就算該黨重大政策也不例外；他主張核四公投應由電廠附近居民表決而非全國性公投（「該不該搭飛機該問搭飛機的當事人」），並評民進黨在宜蘭之敗不冤枉——輕視林姿妙口訥，忽視她聆聽民眾、遇地方利益與政黨政策衝突時毫無猶豫站在地方那一邊（[[articles/taiwanjustice-net/2021/20211207124753_2021_11_23_民進黨在宜蘭輸得不冤枉-_-陳茂雄_b5abb7d92169cee8|民進黨在宜蘭輸得不冤枉, TJJ 存檔 2021-12-07]]）。
+- **2021-11-24** — 於台灣時報發表專欄〈在政壇不騙能生存嗎〉，自述二十多年前在高雄地下電台主持政論節目、聽眾強力勸進參選立委時婉拒並公開宣佈一輩子不投入選舉，因為「政壇需要講假話，講真話的人很快就陣亡」；引朱高正「政治是高明的騙術」論不騙難以在政壇生存、政黨因而變成詐騙集團，並記高雄某民代以虛構的電話大罵局處長作秀選民服務之事（[[articles/taiwanjustice-net/2021/20211207122421_2021_11_24_在政壇不騙能生存嗎_-_-陳茂雄_8d82df2a35f12eff|在政壇不騙能生存嗎, TJJ 存檔 2021-12-07]]）。
+- **2021-11-26** — 於民報發表時事專欄〈中共痛宰中國國民黨〉，針對中國點名蘇貞昌、游錫堃、吳釗燮為「台獨頑固分子」並制裁遠東集團等十二家企業：論中國現所稱「台獨」其實是「中華民國」——中國國民黨既已變成中共朋友，中共便無再支持傳統台獨之必要，轉而以「反台獨」名義消滅中華民國；中國赤裸裸追殺支持中華民國（即民進黨政要）的台商、禮遇支持中國國民黨的台商，等於把該黨劃歸「中共同路人」，該黨不知死之將至還沾沾自喜（[[articles/taiwanjustice-net/2022/20220122120503_2021_11_26_中共痛宰中國國民黨_-_-陳茂雄_c23aceb500dcdff9|中共痛宰中國國民黨, TJJ 存檔 2022-01-22]]）。
+- **2021-11-28** — 於台灣時報發表專欄〈為何惡整年長者〉，對社群媒體廣傳「老人睡前喝水可防心血管病變」的健康假信息（自述至少看過二十次以上、不少長者照做反被整慘）專文查證：他訪問一位心臟內科醫師與兩位泌尿科醫師，夜間頻尿者晚上七時以後不宜喝水、「晚上不喝水造成血液黏稠發生心血管病變」屬無稽之談，頻尿應先看泌尿科門診；並記 2015 八仙塵爆前「燙傷喝椰子水」謠言之例，慨嘆台灣醫療水準聞名國際、健保制度傲人，民眾竟聽信「王祿子仙」胡扯（[[articles/taiwanjustice-net/2022/20220122113621_2021_11_28_為何惡整年長者_-_-陳茂雄_f817d40d4343531a|為何惡整年長者, TJJ 存檔 2022-01-22]]）。
+- **2022-01-11** — 於台灣時報發表專欄〈由萊豬看日本核食〉，適逢第四十五屆臺日經貿會議（邱義仁、大橋光夫以視訊致詞）：論開放萊豬不只貿易互惠、更重要的因素是台灣的安全問題——與強者結盟以面對被併吞危機；美國未必長期支持特定國家，與日本則因關係良好、同受中國打壓（敵人的敵人容易成為朋友）而更容易維持良好關係，應建立台美日三角關係；稱讚衛福部有擔當擋掉反萊豬聲音，並提問原能會能否如衛福部擋下中國國民黨在日本核食議題上的攻勢（[[articles/taiwanjustice-net/2022/20220127023632_2022_01_11_由萊豬看日本核食-_-陳茂雄_b42035d703d70e75|由萊豬看日本核食, TJJ 存檔 2022-01-27]]）。
+- **2022-01-13** — 於台灣時報發表專論〈中國國民黨對不起顏家〉，評台中第二選舉區立委補選與台北市第五選舉區林昶佐罷免投票：中國國民黨切割顏家使情勢翻轉、按兵不動冷卻選民熱情讓林昶佐死裡逃生；回溯 2006 年特別費案——顏清標要求民意代表特別費比照政務官除罪時，完全執政的國民黨不願為其推動、交各政黨立院黨團背書，論該黨出身獨裁政黨、只利用顏家不可能幫顏家、同志落難時忙著切割不能共患難（[[articles/taiwanjustice-net/2022/20220127022906_2022_01_13_中國國民黨對不起顏家-_-陳茂雄_90eb3e95127b8898|中國國民黨對不起顏家, TJJ 存檔 2022-01-27]]）。
+- **2022-01-13** — 於台灣時報發表社論〈蔣經國救不了中國國民黨〉（蔣經國逝世三十四周年、朱立倫就職滿百日之日）：論蔣經國的反共是為捍衛蔣家政權、與台灣人為保台而反共天壤之別；國民黨權貴既已親共、把台灣與「大陸」併成一個國家，已是蔣經國的叛徒，打蔣經國牌吸引不了主流民意——台灣主流民意因國家觀念興起而反共，要消滅中華民國的是中共（[[articles/taiwanjustice-net/2022/20220127025720_2022_01_13_蔣經國救不了中國國民黨-_-陳茂雄_693a98ebce84def3|蔣經國救不了中國國民黨, TJJ 存檔 2022-01-27]]）。
+- **2022-02-06** — 於台灣時報發表專論〈文化背景的衝擊〉，從台北市國三女學生疑遭繼父與母親聯手家暴案論通姦除罪的後果：他自述當年通姦除罪修法時曾在媒體提反對意見——台灣重視血緣，除罪使外遇公開化、再婚容易發生繼父母虐待繼子女的問題；美國不重視血緣所以離婚再婚未必傷害小孩，文化背景不同，立法院立法不應完全移植別國制度、應深入考慮自己的文化背景以免製造社會問題（[[articles/taiwanjustice-net/2022/20220207200059_2022_02_06_文化背景的衝擊-_-陳茂雄_cf3319b740ca06d5|文化背景的衝擊, TJJ 存檔 2022-02-07]]）。
+**2015–2022 專欄 record（TJJ 存檔，slice 10142019-2 吸收於 2026-10-14）：**
+
+- **2015-12-25** — 於自由時報發表專欄（原題〈吸票機及提款機〉，見報時報社改標題為「死抱黨產國民黨會很慘」）：針對國民黨選前公開拋售四筆土地（民進黨發言人王閔生 12-24 初估價值約十三億元、並稱該黨還會繼續處理其他黨產；朱立倫反嗆民進黨不應把國民黨黨產當「提款機」），他反駁：民進黨沒有能力把黨產變成提款機，但會把它當成「吸票機」——台灣人民主意識成長後無法忍受「逃亡」來台的政黨搜刮黨產，打黨產就會增加選票；且國民黨正處慌亂時期又沒有嚴密的「會計制度」，各種買賣容易出弊端，黨產可能造就幾個特定富翁，若黨產變成少數人的私產，該黨就可以準備吹熄燈號（「會計師」與「會計制度」是兩碼事，紅衫軍經費之爭同理：只能說沒有被抓到發生弊端的證據）（[[articles/taiwanjustice-net/2022/20220813063911_2015_12_25_吸票機及提款機-_-陳茂雄-12-25-2015_dc610adfc16265df|存檔快照 2022-08-13]]）。
+- **2019-03-17** — 於台灣時報發表專論（文末署名 2019/3/18）評立委補選：外界把國民黨只保住一席解讀為韓流退燒，盧秀燕稱韓流威力仍強、王金平在花蓮團拜受訪歸功韓流助選，他認為王金平屬交際言辭、並無意義；他的算法是「是亂流衰減、非韓流退燒」——韓國瑜不是新人而是已過氣政治人物，高雄旋風的因素在於民進黨而非韓國瑜，且補選應算各選區得票率消長而非席次：台南那席民進黨得票率自 2016 的 70.46% 跌到 47.05%，但新北市、彰化縣、台南市九合一得票率都進步不少，金門落榜的當選者陳玉珍仍是國民黨脫黨參選、計畫回歸該黨；他歸結民進黨因政策違反主流民意讓中國勢力收編悲情民眾而產生韓流，九合一後台灣人發現中國勢力不是救世主而是中國的前導部隊，加上中國加緊打壓台灣、蔡政府轉為對抗，形成台灣與中國的對抗而淡化內政糾葛（[[articles/taiwanjustice-net/2022/20220813065532_2019_03_17_是亂流衰減-非韓流退燒-_-陳茂雄_3e5e5f9319cc769a|存檔快照 2022-08-13]]）。
+- **2022-01-21** — 於民報發表時事專欄（文末署名 2022/1/22）評趙少康總統參選之說：趙少康在第四屆國會青年體驗營向 18–30 歲學員答「2024 誰最適合代表國民黨參選總統」稱「答案當然是我」，自評學識、能力、操守、遠見、格局「就算跟習近平並肩站在一起也毫不遜色」，民進黨前立委林濁水諷刺「應該去爭中國領導權」；他的分析是趙少康的空間來自李登輝時期——當時他組新國民黨連線、再組新黨而掀起風浪，但今日時空背景完全改變：台灣人與全世界都認同中共就是中國，「一個中國」政策被反共的台灣人丟到垃圾桶，「共匪、台獨、黨外」三合一敵人原來是一場騙局；國民黨選戰主力在地方派系，中國法統勢力靠資源分配制度掌控地方派系、到馬英九當家時這種生態崩解，如今該黨缺乏資源難以掌控派系，「想中興？門都沒有。不過美夢還是令人陶醉」（[[articles/taiwanjustice-net/2022/20220706140739_2022_01_21_趙少康中興夢絕-_-陳茂雄_c90a21f2fa719202|存檔快照 2022-07-06]]）。
+- **2022-05-17** — 於台灣時報發表專論（文末署名 2022/5/18）評美國加州橘郡拉古納伍茲市（Laguna Woods）長老會教堂槍擊案：十五日案發，造成一人死亡、五人受傷，受害六人都是台灣僑民；嫌犯為住拉斯維加斯、六十八歲的周文偉（David Wenwei Chou），外省人第二代，作案時以鐵鏈封門、用強力膠破壞鎖具開槍，被害人鄭達志醫師與張宣信牧師撲向兇手制止才免於更大傷亡；嫌犯動機是不滿中台局勢，其上一代 1949 年從中國移居台灣，他自認在台灣「不受歡迎」因而仇視台灣，車上中文紙條寫著他不認為「台灣是一個獨立於中國的國家」，且係台灣某統派組織理事、仍領台灣的退休俸。他由此論終戰結構：國民黨政權嘴上說大家都是中國人，卻以戶籍資料的籍貫區隔族群、使台灣人與中國人完全不平等，因而掀起政權本土化運動；民主化終結殖民統治後，被中共趕到台灣的中國法統勢力由反共轉為親共，並利用台灣的法治漏洞與公開表示要消滅中華民國的中共結合——結論是中國的人治與台灣的法治都直接或間接迫害了台灣人（[[articles/taiwanjustice-net/2022/20220705134342_2022_05_17_欺人太甚_-陳茂雄_a135471617ba5054|存檔快照 2022-07-05]]）。
+- **2022-06-23** — 於台灣時報發表社論（文末署名 2022/6/24）評新北中和二歲男童恩恩案：恩恩父親依《政府資訊公開法》向中央及地方政府要求通話錄音與報案紀錄，釐清害死恩恩「消失的八十一分鐘」，並堅持消防局長、衛生局長必須下台，侯友宜則表示依司法調查結果負完全責任。他以侯友宜刑警出身切入：侯很清楚只要將案件移送司法單位、結局就是不起訴，依政壇慣例團隊即可與此案切割，所以不願發動行政調查；但他沒盤算到人命關天，行政疏忽會轉為政治責任，「這個球越滾越大，最後連侯友宜都脫不了身」——「終日打雁，叫雁啄了眼」。文中並比較馬英九的不沾鍋作風（特別費案理應由總統發布大赦、卻交立法院修法除罪）與侯友宜維護整個團隊乾淨以建立個人形象的高明手段（[[articles/taiwanjustice-net/2022/20220813054441_2022_06_23_終日打雁_叫雁啄了眼-_-陳茂雄_dad5fe7d3c862c64|存檔快照 2022-08-13]]）。
+- **2022-06-26** — 於台灣時報發表專論（文末署名 2022/6/27）評「台灣民政府」秘書長林志昇案：桃園地院合議庭歷經四年審理宣判，妻林梓安依 2,999 個詐欺取財、加重詐欺取財及洗錢罪重判十九年徒刑、併科罰金二百萬元（檢調搜索時在其豪宅衣櫃發現一億三千萬元現鈔）；林志昇本人 2019 年 11 月於住處跌倒致顱內出血不治，涉案部分依規定不受理。他自述曾有旅居國外人士致電詢問此案真假難辨，他在電話中幾句話即解惑：就算真有「美國軍政府」將接管台灣這回事，林志昇等人既非美國人、更非台灣或其他地區要角，憑什麼能受託於美國？對方聽了立即頓悟。他由此論台灣人易受騙的原因是多數人心中的焦慮（如溺水者亂抓、被診斷絕症者易信祖傳秘方），並自述三十年前主持地下電台節目擁有大量聽眾、有人力勸他參選立委，他公開宣布一生不投入選戰，因為不願講假話、而不講假話難以在政壇生存（[[articles/taiwanjustice-net/2022/20220813071636_2022_06_26_詐騙_訓練基地-_-陳茂雄_220b09233b06118c|存檔快照 2022-08-13]]）。
+- **2022-06-30** — 於台灣時報發表社論（文末署名 2022/7/1）反駁國民黨文傳會副主委林家興「韓國、荷蘭都在重啟核電廠、非核家園跳票」之主張：他認為「缺電就要發展核電」是很奇怪的邏輯，核能災變或然率雖低但災情過於慘重，技術再更新也不可能使或然率等於零（美國、蘇聯、日本都發生過災變，誰說台灣一定不會）；控制棒可以停止「核分裂」卻不能終止「核蛻變」，故需注水系統冷卻，注水故障即釋出大量放射性物質。他的核心主張是要不要核電應該問面臨災變風險的電廠附近居民，其他地區的人「先把嘴巴閉起來」——國民黨執政時認定用電是全國性所以核電公投屬全國性，是「愚民的政黨」；正確做法是電廠附近縣市的「地方性公投」。他以空難或然率遠低於車禍卻有人寧可搭火車不搭飛機作類比：人有免於恐懼的自由，擁核者應先說服廠址縣市的居民，不要只會吐口水（[[articles/taiwanjustice-net/2022/20220809221347_2022_06_30_遠離核電廠者閉嘴-_-陳茂雄_cc34bcc922fb0823|存檔快照 2022-08-09]]）。
+- **2022-08-03** — 於台灣時報發表專論（文末署名 2022/8/4）評陳時中辭職投入台北市長選戰：藍營先前以「不該佔著可以作秀的位子準備選舉」逼其辭職，辭了又說他落跑，前後矛盾；他分析台灣防疫分清零與與病毒共存兩階段——清零階段因疫苗未普及、醫療資源無法負荷而成功，轉入共存是疫苗覆蓋率提升後醫療能負荷的必然，但台灣民族性特殊、主流民意積極支持清零，口罩禁令解除後多數人還會戴口罩，因此共存階段防疫團隊做得再好也很難加分、稍一發生意外就要扣分，藍營正好圍攻。陳時中在清零時段累積的高人氣並非完全來自清零，最重要的是他「團隊領導人」的角色扮演得成功——不需要豐富知識但需要很強的常識來整合團隊知識，正因為他不是防疫專家卻有很強的整合力，才發揮整個團隊的力量；「切對了天時，並以強烈的常識整合多人的知識……獲得人和」。同文中他評黃珊珊的政治版圖完全依賴同時對兩大黨不滿者、蔣萬安「民代性格太強」難以發揮團隊力量（[[articles/taiwanjustice-net/2022/20220815035400_2022_08_03_陳時中的天時與人和-_-陳茂雄_2e82a200b8f555c4|存檔快照 2022-08-15]]）。
+
+**2022-06–09 台灣時報專欄 record（TJJ 存檔，slice 10142236-1 吸收於 2026-10-14）：**
+
+- **2022-06-29** — 於台灣時報發表專論分析柯志恩投入高雄市長選戰對韓國瑜的公開切割：他認為風光與落魄的韓國瑜都不可能再現——2018 韓國瑜旋風的因素在民進黨而非韓國瑜個人魅力，是民進黨完全執政後「權力的傲慢」（七天國定假日反覆、改革對象從自己改為別人）所造成；2020 大選藍營慘敗還有藍營選民對韓國瑜的恐懼感，蔡英文得票超出綠營政黨票百萬票以上，代表藍營選民寧可投不喜歡的候選人也要拉下韓國瑜（[[articles/taiwanjustice-net/2022/20220927144212_2022_06_29_成與敗的_韓國瑜_均不再現-_-陳茂雄_3d3084c8dc24cede|成與敗的韓國瑜均不再現, TJJ 存檔 2022-09-27]]）。
+- **2022-08-04** — 於台灣時報發表社論評裴洛西 8 月 3 日訪台後中國解放軍於六處海域空域實彈演訓、形同封鎖台灣（每天衝擊至少六百五十架次航班）：他論中國誤判台灣人會像中國人一樣依獨裁者擺佈以求減壓——民主社會人民習慣當主人，1996 年飛彈危機即為明證（李登輝當時得票五十四%），中國變相封鎖台灣反而使台灣人因反中國而支持民進黨，連馬英九與朱立倫都公開歡迎裴洛西；中國文化完全沒有現代化，「即使懂得用刀叉，食人族還是野蠻動物」（[[articles/taiwanjustice-net/2022/20220815041244_2022_08_04_懂得用刀叉的食人族-_-陳茂雄_9e16692d273b7915|懂得用刀叉的食人族, TJJ 存檔 2022-08-15]]）。
+- **2022-08-07** — 於台灣時報發表專論評台灣民族黨副主席楊智淵（1990-01-21 生，2019 年任副主席）因台獨活動遭溫州市國家安全局拘傳、涉嫌分裂國家與煽動分裂國家罪：他說楊智淵不是白目，而是被台灣的法治社會誤導，以為只提政治主張不會遭迫害；他自述 2008 年中國出版的《台獨人物與組織》已把他列入台獨黑名單，退休教官代官方招待九寨溝之邀時他當場拒絕——「法治國家有了簽證就可通行無阻，人治國家任何保證都沒有用」（[[articles/taiwanjustice-net/2022/20220927134243_2022_08_07_法治社會誤導楊智淵-_-陳茂雄_308683add9a45869|法治社會誤導楊智淵, TJJ 存檔 2022-09-27]]）。
+- **2022-08-09** — 於台灣時報發表社論評國民黨抨擊陳時中新書《溫暖的魄力》推崇林彪「帶兵又帶心」：他批國民黨政客不讀書，把第一代中國共產黨與現在的中共相提並論——第一代屬革命團體、支持台獨以推翻腐化的國民黨政權，第二代則完全繼承國民黨的腐化，連「思想犯」都吸收過去（李明哲即因思想犯問題被扣）；江南案使蔣家接班與腐化傳承中斷，李登輝將台灣由獨裁帶往民主法治；陳時中會發現敵人的優點屬日本精神，具有進步潛力（[[articles/taiwanjustice-net/2022/20220924231836_2022_08_09_國共互咬干台灣人底事-_-陳茂雄_6433031b44190c51|國共互咬干台灣人底事, TJJ 存檔 2022-09-24]]）。
+- **2022-08-10** — 於台灣時報發表專論評台大 8 月 9 日認定林智堅與余正煌論文高度重疊、撤銷林智堅碩士學位：他批台大把次序弄顛倒——若指導教授陳明通自承曾把林智堅論文大綱給余正煌參考屬實，該被認定抄襲的是余正煌；若陳明通撒謊則是詐騙，嚴重性數倍於抄襲；他論真正問題是兩大黨輪流在高等學府開「學店」販賣文憑，抄襲只是副產品，是頭痛醫腳；自述其電機研究所因教授不願指導在職專班而停招，並回憶自己曾在多席次選舉中把票投給學歷最低的候選人——其學歷不可能來自學店（[[articles/taiwanjustice-net/2022/20220924234222_2022_08_10_論文抄襲案怎麼頭痛醫腳_-陳茂雄_c0d4d027e8c10406|論文抄襲案怎麼頭痛醫腳, TJJ 存檔 2022-09-24]]）。
+- **2022-09-20** — 於台灣時報發表社論反駁朱立倫以馬英九 2016 年美濃強震坐鎮災變中心為例籲蔡英文「不要只顧選情不顧災情」：他反問救災該舉宋楚瑜——宋鞋子一脫衝入水中，馬英九則西裝革履到災區、甚至發生臨時鋪路讓其車子通行，那是妨礙救災而非救災；他論國民黨本屹立不搖，因馬英九歧視地方派系、掀起鬥爭使派系架構崩解，民進黨才有機會完全執政；「九二共識、一中各表」是封死台灣與中國對話的謊言；並問當年下令封存核四的馬英九為何如今要啟封（[[articles/taiwanjustice-net/2022/20220924235815_2022_09_20_學馬英九就完了-_-陳茂雄_4422a12e53f543b9|學馬英九就完了, TJJ 存檔 2022-09-24]]）。
+- **2022-09-21** — 於台灣時報發表專論分析台北市長選戰三足鼎立（陳時中、蔣萬安、黃珊珊）：他說以黃珊珊聲勢對比柯文哲 2018 年五八〇,六六三票、得票率四一點一%就斷定柯文哲氣勢褪色是大誤解——該得票很多來自民進黨選民的棄保（民進黨按兵不動預留棄姚保柯空間），如今已回流陳時中；以 2020 大選政黨票（民進黨三十五點三%、國民黨三十三點一%、民眾黨十六點二%）看民眾黨真實力量僅此，黃珊珊聲勢直逼兩大黨候選人，說明「拿綠旗反民進黨」「拿藍旗反國民黨」的漂移選票只有增加沒有減少（[[articles/taiwanjustice-net/2022/20220924221453_2022_09_21_柯文哲氣勢並未褪色-_-陳茂雄_8e538046ff8022aa|柯文哲氣勢並未褪色, TJJ 存檔 2022-09-24]]）。
+- **2022-09-22** — 於台灣時報發表社論評高雄市第十選區（前鎮、小港）議員「交棒」案：民進黨林宛蓉交棒給初選過關的黃彥毓並移交服務處，國民黨陳麗娜的呂姓助理初選未過關交棒失敗、黨徵召陳麗娜後她改以無黨籍參選逾時：他論每一屆選舉公職的政治版圖都會重組，現任者必須固守或擴張版圖，退選而接班人無法過關版圖就煙消雲散，故陳麗娜只能自己出馬固守；立委拒絕不分區安全名單也是因為不在自己選區操兵、選後版圖自然消失；林智堅不參選仍投入助選，出於同一版圖邏輯（[[articles/taiwanjustice-net/2022/20220924230849_2022_09_22_政治版圖的重組與固守-_-陳茂雄_3fb7368fc873a186|政治版圖的重組與固守, TJJ 存檔 2022-09-24]]）。
+
+**2018–2023 專欄 record（TJJ 存檔，slice 10150000-1 吸收於 2026-10-15）：**
+
+- **2018-01-26** — 於自由時報發表專欄〈海嘯效應〉評陳菊出新書《花媽心內話》披露十一年前黨內鬥爭內幕、引爆高雄市長初選紛爭最後導致劉世芳退選：他論出新書原是高明的助選策略——沒有公開幫劉世芳助選卻讓人感受到陳菊在拉拔，意在複製上一屆拉拔市議員候選人「全部上榜」的「南霸天」效應，但時機不對產生反效果，「就像海嘯前的大退潮一樣，顯露出美好的沙灘，但跟著而來的卻是海嘯」；並回溯白冰冰以「謝長廷不是好人／謝長廷也不是壞人／謝長廷根本不是人」三句話綠影帶攻擊謝長廷，反因謝長廷勸降陳進興的英雄事蹟間接傳開而形成海嘯效應、「害謝長廷，反而促使他登上市長寶座」（[[articles/taiwanjustice-net/2023/20230205134548_2018_01_26_海嘯效應-_-陳茂雄-自由時報-2018-01-26_f4f45c7b05ab8f75|海嘯效應, 自由時報 2018-01-26, TJJ 存檔 2023-02-05]]）。
+- **2022-06-23** — 於台灣時報發表專論（文末署名 2022/6/23）論「圖騰」如何掩蓋真正的目的：由騎室內自行車看影劇台《煙雨江南》一齣戲起興——無相神僧獄中渡化反清復明的杜劍南，問「反清復明」那「明」在哪裡、領導者有誰真的在反清復明，連強盜都打這口號；孫中山改用「驅除韃虜，恢復中華」圖騰，推翻滿清後卻創「五族共和（中華民族）」宣告滿洲人不是異族，「真是胡扯」；他論以中華民國觀點蔣介石是不抗日、精銳部隊用來打中國人的罪人，但外來保守勢力仍稱之為民族救星，因為蔣介石是「殖民統治台灣的圖騰」；結論是政黨追求權力、社團營建舞台卻永不承認真正目的，「連民主社會就是要追求選票都不敢承認，真是一群騙子」（[[articles/taiwanjustice-net/2022/20220927202403_2022_06_23_由_反清復明_談騙子的圖騰-_-陳茂雄_43ad127dd61a096c|由「反清復明」談騙子的圖騰, TJJ 存檔 2022-09-27]]）。
+- **2022-09-04** — 於台灣時報發表專論（文末署名 2022/9/5）以數學的交集與聯集分析選票：認同連戰或認同宋楚瑜的選票總和是聯集、認同兩人且認同兩人的才是交集，2000 年連宋互稱對方為「魔鬼」使交集選票不多，2004 年連宋配出現交集效應後李前總統曾與他長談此議題；他論黃珊珊以無黨籍參選、對宋楚瑜不棄不離卻讓宋楚瑜未表態支持，且不容其他政治勢力介入，是因為自主選民增多使選票易產生交集效應，「這是高招」；並記 2020 年什麼事都沒做的新政黨民眾黨拿下逾一百五十萬張政黨票，黃珊珊的選票正來自同時厭惡兩大黨的民眾（[[articles/taiwanjustice-net/2023/20230129115255_2022_09_04_選票的交集與聯集-_-陳茂雄_d0ffe6f323dab665|選票的交集與聯集, TJJ 存檔 2023-01-29]]）。
+- **2022-10-23** — 於台灣時報發表專論（文末署名 2022-10-24）論「國際社會有法律無法治」：由 Nikkei Asia 十九日引述美方考慮與台灣聯合生產武器（並獲美方證實）、國防部決標廿四億九二四○萬元聘請愛國者飛彈技術代表自十月四日起駐台五年切入，論俄烏戰爭顯示國際社會依循叢林法則，國際法相當完備卻沒有人執法，「強國可以依循國際法施展拳頭，弱國卻不能依賴國際法的保護」；並以主權最後依佔領事實定位反駁以歷史背景爭論兩岸地位——若歷史背景能定位主權則蒙古就可以擁有中國的主權；他歸納台灣的台獨已轉型為反共，保衛台灣的是國防武力與國際關係，國際法無濟於事（[[articles/taiwanjustice-net/2023/20230130112605_2022_10_23_國際社會有法律無法治-_-陳茂雄_5ca3d4a08fd2d394|國際社會有法律無法治, TJJ 存檔 2023-01-30]]）。
+- **2022-11-29** — 於台灣時報發表社論（文末署名 2022-11-30）分析九合一選舉民進黨「兵敗如山倒」、綠營勢力退到西部嘉義以南：他逐條檢視候選人屬接棒或連任，發現落選者幾乎都是接棒者、連任者幾乎都安全上樁，澎湖賴峰偉之挫屬藍營窩裡反出兩人；論行政首長有連任壓力時必掩蓋權力慾望、沒有選票壓力就現出原形，并举 2018 高雄造勢晚會司儀多次硬喊「大家起立」如獨裁年代的「蔣總統到，全體肅立」——若到場市長有連任壓力必定會制止這等「馬屁」；又以韓國大統領被謔稱「全世界最危險的職業」、只有一任而無連任壓力故每一任都會出錯作佐證（[[articles/taiwanjustice-net/2023/20230202211554_2022_11_29_不連任者的衰退-_陳茂雄_3613d2213b5c0799|不連任者的衰退, TJJ 存檔 2023-02-02]]）。
+- **2022-11-30** — 於台灣時報發表專論（文末署名 2022-12-1）論「反共保台」已口號化、綠營扣的紅帽出現免疫力：選舉前社團要縣市長候選人簽署「不投降承諾書」，綠營候選人全簽、藍營一個也沒簽，理論上藍營應全軍覆沒，民調卻顯示綠營氣勢並未優於藍營，開票結果落榜者都簽了、拒簽者反而上榜——「在民眾的心目中，民進黨與中國國民黨並無差異」；他記一位北加州好友來信反駁（以烏克蘭人的堅定意志為例）後雙方切斷意見交流，並舉 2018 年柯文哲「兩岸一家親」遭獨派全面抵制而出現「棄姚保柯」、自己提議將中正紀念堂改為「反共紀年堂」卻被批蔣介石是「中共同路人」等例（[[articles/taiwanjustice-net/2023/20230202214709_2022_11_30_紅症免疫力-_-陳茂雄_2d9a62478cafb737|紅症免疫力, TJJ 存檔 2023-02-02]]）。
+- **2022-12-01** — 於台灣時報發表社論（文末署名 2022-12-2）論十八歲公民權修憲案未過關使「修憲之門已封閉」：修憲複決公投投票率五十九%，同意票五六四萬四九○九、不同意票五○一萬三九八○，距離九六一萬九六九七張同意票的門檻還差一大截；他論沒有任何政黨反對、複決又綁大選都過不了關，其他有政黨反對的修憲案「只是在騙選民而已」，因為以前依《中華民國憲法》第一七四條由國代修憲複決（國代有錢拿故出席率高），2005 年第七次修憲後改依《中華民國憲法增修條文》第十二條由立法院議決再公民複決、有效同意票須過選舉人總額之半數，「拼裝車」裝錯螺絲鎖死所以開不動；結論是不喜歡該憲法體制「只有制憲一途」，再有政治人物提修憲就立即掃進垃圾桶（[[articles/taiwanjustice-net/2023/20230202212933_2022_12_01_修憲之門已封閉-_-陳茂雄_d2dd8585b95a9293|修憲之門已封閉, TJJ 存檔 2023-02-02]]）。
+- **2023-03-17** — 於台灣時報發表專論（文末署名 2023/3/16）論「與過去的自己競爭」的人生哲學：他分第一專長（養家活口、須與別人競爭）與第二專長（日常生活、只與過去的自己競爭），論藝能科評鑑不易客觀、若作第一專長會覺得受委屈，而第二專長不與別人競賽、進步可以深刻感覺因而容易滿足成就感，並警告「沒有第二專長、菸酒美食又不沾」的人「真的很可怕，其人生只剩下職場上的鬥爭」；他以自身為例：一位熟識教授極端反對他晚年進修，理由是有人三十歲不到就当系主任、他活了一大把年紀才進修就算順利獲得學位也趕不上別人，他反駁「筆者何須趕上別人，只要超越過去的自己就會有很強的滿足感」，如四十歲才考上公務人員基層特考的工人不必因與別人比而不願擔任基層公務人員；論年長者若年輕時培養出藝能科的第二專長，年長時第一專長已不如人便可往第二專長發展「人生的第二春」；並自述退休後不懂得享清福、將大部分時間投入音樂相關的活動（美術因沒有打下基礎而放棄），最重要是「今日的我一直超越昨日的我」（[[articles/taiwanjustice-net/2023/20230322201645_2023_03_17_與過去的自己競爭-_-陳茂雄_844a56bfd1729f12|與過去的自己競爭, TJJ 存檔 2023-03-22]]）。
+- **2023-01-19** — 於台灣時報發表社論（文末署名 2023/1/20）評賴清德接任民進黨主席後「務實的台獨工作者」與「和平保台」之爭：他論賴清德的「務實台獨」事實就是《台灣前途決議文》的中華民國——一個主權獨立的國家、版圖只有台澎金馬，並論中共沒有理由反對該決議文，因為中華民國創立於一九一二年、第一代中共黨員本是中華民國國民，「分裂中國的是中國共產黨，干台灣人底事？」；中國國民黨則陷兩難：若認定中華人民共和國是一個國家則是敵國、擁抱敵國已觸犯外患罪，若認定對岸不是國家則必定是叛亂組織、擁抱之已觸犯內亂罪；他認為夠格否定賴清德主張的只有傳統台獨，但民進黨既已進入中華民國體制參政甚至執政，不可能驅逐中華民國、也不能以正名制憲讓外來政權消失，反而捍衛起中華民國（[[articles/taiwanjustice-net/2023/20230202212150_2023_01_19_在台澎金馬的中華民國-_-陳茂雄_1314b0a6b0e0b1d8|在台澎金馬的中華民國, TJJ 存檔 2023-02-02]]）。
+
+**2017-11～2024-03 taiwanjustice.net 存檔專欄 record（TJJ Wayback 存檔 2024-04-12～2024-04-21，slice 10150800-2 吸收於 2026-10-15）：**
+
+- **2017-11-22** — 於太平洋時報「台灣看台灣」發表專論〈監察權的謬誤〉：就監察院獵雷艦案四人小組遲至新政府時期才展開調查、前監委葉耀鵬批行政院報告草率並怪蔡英文從未「震怒」一事，論該屆監委係馬政權完全執政時期任命、堪稱「馬友友」，跳脫不了意識形態；他主張監察權是代表人民監督公務人員，監委應由人民直接或間接投票產生，而非總統提名、立法院同意後以政務官身分任命，否則現行制度使監察權為政治服務；並論調查權附屬於司法權與監察權，立法院既無司法權更無監察權（[[articles/taiwanjustice-net/2024/20240421173418_root_9e12dd56ff73b9fb|監察權的謬誤, 太平洋時報台灣看台灣 2017-11-22, TJJ 存檔 2024-04-21]]）。
+- **2021-09-03** — 於民報發表時事專欄〈瘋狂的台灣？〉：讀蔡英文 8 月 31 日凱達格蘭論壇「盼與鄰國共存」致詞遭國民黨批為「鄰國論」、蔡易餘反問江啟臣「你心中的中國是什麼國」，他反駁稱國民黨把中共稱作「中國大陸」才是嚴重錯亂——依 1936 年《五五憲草》第四條列舉中華民國疆域三十個地區全在大陸而唯獨不含台灣、1947 年《中華民國憲法》第四條亦未將台灣列入版圖，故民進黨稱對岸為「鄰國」完全正確；並論台獨運動原是台灣人為推翻外來「中華民國」殖民統治而掀起、後轉型正名制憲，如今既不推翻也不正名的民進黨「頂著中華民國的屍體執政」，而號稱捍衛中華民國的國民黨卻抱著要消滅中華民國的敵人大腿，「全台灣似乎已進入瘋狂的地步」（[[articles/taiwanjustice-net/2024/20240421184735_root_70ef271441ef2d4f|瘋狂的台灣？, 民報時事專欄 2021-09-03, TJJ 存檔 2024-04-21]]）。
+- **2024-02-17** — 於台灣時報發表社論〈國會議員該充分了解憲法〉：就國民黨以五十二席加兩席黨友成為國會第一大黨、黨團總召傅崐萁主張完備「聽證、調查」立法權制衡行政權、副院長江啟臣批民進黨八年使立法院淪為「行政院的立法局」之事，論台灣的憲政體制是行政與立法相互制衡而非內閣制，立委質詢制度源自政治協會議會擔心國會無監察權形成弱勢國會之沿革，惟調查權本來附屬於司法權與監察權，立法院既無司法權更無監察權，給它調查權「只用來政治鬥爭而已」，要求立委擔任部會首長更為離譜（[[articles/taiwanjustice-net/2024/20240412185737_root_d7e52f8e3cf6eeea|國會議員該充分了解憲法, 台灣時報社論 2024-02-17, TJJ 存檔 2024-04-12]]）。
+- **2024-02-21** — 於 taiwanjustice.net 發表專欄〈報應？〉評 2024 大選後民進黨總統票、不分區與區域立委三項選票都遙遙領先而立委席次反輸中國國民黨、綠營輿論一片叫屈卻無人分析原因：他稱這「報應」無人檢討——2005 年第七次修憲時民進黨想幹掉台聯、國民黨想除掉親民黨，兩黨心意相通合作將立委選舉制度改為單一選區兩票並立制並保障每一縣市至少一個區域立委選區，如今民進黨自己因這個制度受創；並指若依循以前的立委選舉制度，民進黨在立法院仍是第一大黨（[[articles/taiwanjustice-net/2024/20240412192743_root_b5bb3abf9cec47cf|報應？, TJJ 存檔 2024-04-12]]）。
+- **2024-02-24** — 於台灣時報發表社論〈是台灣人或是中國人？〉：就桃園燈會（2/21–3/3）宣傳影片片尾出現「中國台灣」簡體字與「兩岸青年漢服齊聚」字樣、市議員黃瓊慧等批市府以漢服為名行統戰之實、觀光旅遊局長周柏吟稱系民間愛好者所為，論「中國台灣」簡體字絕不可能誤植、相關單位的說法都是推託之詞，真正原因是心態有問題——「中華民國」代表中國的年代早已過去；他給出判準：絕大部分居民以台灣為中心看世界、認定中國是鄰居者就是「台灣人」，少數人以中國為中心看世界、認定台灣是中國一部分者就是「中國人」卻不願回歸祖國而在台混淆台灣與中國；又以以色列面對一次敗戰即亡國的環境仍團結一致，對照台灣竟出現「為誰而戰」的說詞（[[articles/taiwanjustice-net/2024/20240412175021_root_f4e245722e0e8e7f|是台灣人或是中國人？, 台灣時報社論 2024-02-24, TJJ 存檔 2024-04-12]]）。
+- **2024-03-21** — 於台灣時報發表專論〈王金平救了台灣？〉：太陽花學運十週年讀日本《產經新聞》台北支局長矢板明夫「太陽花運動救了台灣」之說，他修正為「成功的太陽花救了台灣」——若學運失敗台灣只有更慘，因為中國勢力將完全掌控台灣；最關鍵的一環是王金平：馬政權曾意圖以王金平的名義動用鎮暴警察，王金平獲悉後立即公開宣布政府在立法院動用鎮暴警察不必經過立法院長同意、嚴厲拒絕背黑鍋，因而建立立法院不動用警察權的先例；最後王金平公開與學生會談提出雙方都能接受的條件，「拿了梯子讓學生優雅地下來」，讓學運寫下成功的句點（[[articles/taiwanjustice-net/2024/20240412175518_root_6c0a5eb8a9b80125|王金平救了台灣？, 台灣時報專論 2024-03-21, TJJ 存檔 2024-04-12]]）。
+- **2024-03-23** — 於台灣時報發表社論〈「奴才頭」哲學〉：就中國國民黨立院黨團連日呼籲蔡英文在五二○卸任前赴太平島視察宣示主權、國安局長蔡明彥以南海地緣政治與一千六百公里飛航維安評估總統不宜登島、朱立倫反批「連守護領土都有困難」是推託之詞之事，論總統職權依憲政體制不該受立委與黨主席左右，國民黨的死纏爛打已不是建議而是形同逼迫；並由此引申台灣相當流行的「奴才頭」哲學——把人分成自己的「主人」與可隨意揮使的「奴才」兩類，對惹不起的人溫順扮演奴才、對惹得起的人則施加壓力，政治人物需要比常人有更高貴的風範才會受人尊敬，否則與「奴才頭」沒有差異（[[articles/taiwanjustice-net/2024/20240412174226_root_55f38ddadf2cc280|「奴才頭」哲學, 台灣時報社論 2024-03-23, TJJ 存檔 2024-04-12]]）。
+- **2024-03-27** — 於台灣時報發表社論〈沒有能力立法的台灣國會〉：就立委陳昭姿 3 月 26 日施政總質詢指出 2002 年時任民進黨立委賴清德曾提出人工生殖法草案、時任立委蕭美琴與陳其邁都有連署，攸關生育權的法案卻延宕三十年一事（陳建仁答詢稱當時公民審議後政府準備提相關案子但立法院都沒通過），論行政與立法分立國家的法案理應由國會提出——美國雖多由行政單位基於需要提出，但都委託同黨的國會議員提案，行政單位不能提；台灣的公費助理只為立委個人建立人脈而非專職立法，立委又以服務選民而非通過法案為政績，故國會很少提出草案，「在美國很好的制度移植來台灣就變質」（[[articles/taiwanjustice-net/2024/20240412190728_root_90c773e40f6a6e9a|沒有能力立法的台灣國會, 台灣時報社論 2024-03-27, TJJ 存檔 2024-04-12]]）。
+
+**2014–2023 taiwanjustice.net 專欄 record（TJJ Wayback 存檔 2024-04-21～2024-04-25，slice 10150900-2 吸收於 2026-10-15）：**
+
+- **2014-09-01** — 高雄台灣時報專論〈柯文哲將輸在戰略〉：選台北市長讀羅淑蕾「病患當白老鼠」指控與管碧玲「打柯變捧柯」之說，論這類打法對「正藍」「正綠」支持者毫無作用，只影響極少數關心政壇的「中性選民」，聽多了反而模糊柯、連區隔「覺得兩人一樣爛」，連團隊的烏賊戰與「下駟對上駟」正是要這種效應；追述連勝文聲望最高點是「大明王朝」論時期，卻因第一件事就是求見金溥聰「尊馬」、家族財富交代不清而失去中性選民（尤其「月光族」）；又論柯文哲回應「不會用葉克膜」之誤——醫師訓練採師徒制，連總醫師都升不了不可能升主治醫師，此類專業論述該由發言團隊說明，柯的競選團隊是臨時雜牌軍（[[articles/taiwanjustice-net/2024/20240425065810_root_1f0251e24565811f|柯文哲將輸在戰略, 高雄台灣時報專論 2014-09-01, TJJ 存檔 2024-04-25]]）。
+- **2015-10-02** — 自由時報專欄（報社改題〈誰要本土社團？〉）論本土社團邀民進黨合作大造勢而民進黨興趣缺缺：雙方對「手護台灣」與 2004 年連任的因果認定正好相反——民進黨認為是陳水扁氣勢已起造勢才成功，非氣勢不佳請神仙來也當選不了；他論民進黨已從「社團型」轉型「組織型」（高雄許多政治人物只辦茶餅會不辦演講會），群眾是自己耕耘的，社團主辦大型活動等於收割成果；並自述一段關鍵經歷：二十年前賣力投入助選幫民進黨抬轎，民進黨茁壯後反而積極幫台獨小黨助選——自己只是微小的螢火蟲，民進黨黑暗時期可以照亮他們，「旭日東昇」之後螢火蟲只好找陰暗處「獻光」，如今「日正當中」當然不希望螢火蟲來「借光」（[[articles/taiwanjustice-net/2024/20240425072749_root_28f6989a107da8d3|陽光下的螢火蟲, 自由時報 2015-10-02, TJJ 存檔 2024-04-25]]）。
+- **2017-07-20** — 台灣時報專論〈多神教與一神教〉：讀「中華彌陀淨宗學會」主法會長趙基久以造價一億兩千萬元的「知遇號」遊艇作海上寺廟超渡、並傳「死後會復活」，病逝後信眾不報案改為白衣白褲蓋被膜拜、每日擦拭身體等待復活之事，論宇宙事物可分「科學」「非科學」「反科學」三類，宗教屬非科學領域，牽涉反科學者即屬迷信；又論台灣常出現把人神格化的現象源於「多神教」環境——一切生物無生物皆可成神，包容性大卻易生反科學迷信，「一神教」則因排他性強容易養出先射箭再畫靶的強烈自我中心，故多神教信徒需要「科學」訓練、一神教信徒需要「禪」的薰陶（禪非宗教而是生活哲學，修禪不違背一神教教義）（[[articles/taiwanjustice-net/2024/20240423102642_root_ae4a9edf8ca2a61b|多神教與一神教, 台灣時報專論 2017-07-20, TJJ 存檔 2024-04-23]]）。
+- **2017-09-14** — 台灣時報專論〈美國是不能不交的壞朋友〉：讀朝鮮核武與飛彈威脅下網路流傳美國將同意台日韓發展核武甚至賣核彈給台灣之事，論美國與蘇俄不同——美國會給朋友魚吃卻不准朋友擁有釣竿，朋友因此有斷糧危機；比較朝鮮先天條件遠不如台灣卻因有核武與長程飛彈使強國忌憚、聯合國制裁無效，而台灣反成國際孤兒；追述蔣經國宣布台灣有能力造原子彈「可是不造」的事實與中科院鈾、鈽分離研究，1976 年美國以核能電廠濃縮燃料為槓桿迫台灣停掉所有核武相關研究、1988 年張憲義叛逃後美國將分離硬體設備完全破壞使台灣難以翻身；論中立國主張的前提是強大國防，台韓面對的都是「土匪」，故「美國的確是壞朋友，可是台灣與韓國卻不能沒有它」（[[articles/taiwanjustice-net/2024/20240423111520_root_b2fe81d2d6dbade4|美國是不能不交的壞朋友, 台灣時報專論 2017-09-14, TJJ 存檔 2024-04-23]]）。
+- **2017-11-16** — 太平洋時報「台灣看台灣」專論〈能防弊才可能成為好制度〉：讀農田水利會由法人改制公務機關、會長由會員直選改官派引發親藍反彈，與綠委提案鄉鎮市長也改官派之事，論國民黨批「大開民主倒車」「走向獨裁」須先思考監委產生的變化——監察權原由省市議員選出屬民意代表，因賄選嚴重才改由總統提名、立法院同意後以政務官身分任命；他論台灣賄選完全依賴樁腳，沒有樁腳賄選成功率相當低，將水利會會長與鄉鎮市長改由政務官擔任「就算沒有興利，也達到防弊的功能」，這種變動屬民主體制而非獨裁（[[articles/taiwanjustice-net/2024/20240421185059_root_4e7cdd6f9dd051dc|能防弊才可能成為好制度, 太平洋時報台灣看台灣 2017-11-16, TJJ 存檔 2024-04-21]]）。
+- **2019-05-28** — 太平洋時報「台灣看台灣」專論〈誰救了民進黨？〉：論民進黨總統初選因人設事瀕臨崩解，卻因國民黨也變更初選制度「選出魯肉腳」而出現生機；記綠營支持者已分保皇派與民主派——後者認定當權派進入競賽後才改規則「蠻橫勝於黑道」，保皇派則認為賴清德應退居副手；引王金平 5 月 28 日聯合報系專訪「藍綠都在因人設事」、曾向吳敦義表示「要找個真正強的，不是表面民調強就是強的」；追述國民黨初選制度從黨員投票、黨員與民調各半、七成民調三成黨員投票最後變成全民調的演變，論地方派系依賴樁腳故要黨員投票、統派掌握自主意識票故要全民調，出線的將是沒有樁腳的統派——「國民黨選舉的靈魂是在樁腳，若是抽掉樁腳，該黨立即變成小黨」，因而讓奄奄一息的民進黨出現生機（[[articles/taiwanjustice-net/2024/20240425073701_root_83f53867645f43d6|誰救了民進黨？, 太平洋時報台灣看台灣 2019-05-28, TJJ 存檔 2024-04-25]]）。
+- **2021-09-22** — 台灣時報專論〈第三勢力的契機〉：論台灣兩大黨生態的真正成因不是並立制而是藍綠嚴重對立，唯一例外是依循人脈的村里長選舉；追述 1996-10-06 建國黨成立時群眾動員力遠超過民進黨、1997 年投入地方選舉時出錢出力的民眾私底下卻說「支持建國黨、票投民進黨」以打倒中國國民黨；論中國國民黨因馬英九歧視地方派系、掀起政治鬥爭使人脈斷線，民進黨則因防疫以自由與經濟活動為換得人民生活痛苦而必然受創，兩大黨同時鬆動才是第三勢力契機；結論是第三勢力要成長須切割兩大黨但不能攻擊——攻擊反而促使鬆動的氣勢再凝聚，反倒是受兩大黨「捍衛隊」攻擊時白色政黨可同時吸收藍營與厭惡捍衛隊的綠營民眾（[[articles/taiwanjustice-net/2024/20240425072955_root_320c5c3d16a9204e|第三勢力的契機, 台灣時報專論 2021-09-22, TJJ 存檔 2024-04-25]]）。
+- **2023-09-10** — 台灣時報專論〈主人與奴才〉：論帝王年代皇帝是國家主人、官民都是奴才，民主化後人民才是主人、公職人員是主人聘請的公僕，但仍有人民繼續扮演奴才、將特定政治人物當作「主人」，其特色是把人群分成「主人的朋友」與「主人的敵人」兩類；舉馬可仕貪腐卻仍有菲律賓人視之為主人的例子作反例，對照韓國——朴槿惠閨蜜干政在其故鄉民調趨近零卻無人叫屈喊「政治迫害」，韓國人視總統為「公僕」而非主人；自述 2018 九合一後有人來電罵高雄人「沒水準」，他立即回應「說高雄人沒水準的人最沒水準」，並論高雄人以超高票罷免韓國瑜時才真正扮演國家主人——既非綠奴也非藍奴；結論是藍綠嚴重對立使民眾強迫自己認定特定政治人物永遠是對的，「藍奴」與「綠奴」只是五十步與百步之差，真正的民主聖地是人民扮演國家主人的地方（[[articles/taiwanjustice-net/2024/20240425071651_root_c5b78ba5d5442db3|主人與奴才, 台灣時報專論 2023-09-10, TJJ 存檔 2024-04-25]]）。
+
+**TJJ Wayback 存檔 2024-04-25 專欄 record（slice 10151556-2 吸收於 2026-10-15）：**
+
+- **2015-12-02** — 高雄台灣時報社論〈一笨,一惡的兩大黨〉：論國民黨不理國家財政只推「政策賄選」、不願改革，民進黨想改革卻不懂改革反成「假改革」——軍公教退休優惠存款改革放第一槍卻「打死一大群蒼蠅養肥了老虎」：依所得替代率核算，將官與舊制特任官月退金近二十萬、連戰級別三十多萬，小公務人員被扣錢養肥貓極不合理；他主張改革應先「蓋天花板」——明定月退金不得超過九職等中級公務人員最高待遇，先打肥貓再談其他改革才會獲得掌聲，民進黨該學柯文哲「打老虎」不要一直「拍蒼蠅」；並記國民黨為鐵票區放話民進黨將全面取消優惠存款製造恐慌、卻救不了劣勢選情，民進黨替農民爭權益時國民黨不加抵制反而加碼（[[articles/taiwanjustice-net/2024/20240425104544_root_91ba290fb9e52d3c|一笨,一惡的兩大黨, 高雄台灣時報社論 2015-12-02, TJJ Wayback 存檔 2024-04-25]]）。
+- **2012-01-30** — 台灣時報「潛望鏡」專欄（文末署名 2012/1/31）〈要分贓也應留意吃相〉：評劉憶如因「打宇昌案有功」出任財政部長、與郭婉容成為母女兩代財政首長——若宇昌案真是弊端則任部長名正言順，若是政務官不擇手段幫馬英九助選而分得職位，那就是「吃相難看的分贓」；他論政府首長既非司法也非監察人員，發現違法應移送法辦、失職應移送監察，豈能以首長身分赤裸裸介入選戰；劉憶如與馬團隊都承認宇昌案不是弊端而是民進黨總統候選人的形象問題，該追打的應該是國民黨或競選團隊；若當初辭去首長轉入競選團隊再打宇昌案，論功行賞得部長職位「吃相就不會難看」（[[articles/taiwanjustice-net/2024/20240425105725_root_bd5e49d79d1114ea|要分贓也應留意吃相, 台灣時報潛望鏡 2012-01-30, TJJ Wayback 存檔 2024-04-25]]）。
+- **2013-05-06** — 台灣時報社論（文末署名 2013/5/7）〈中國國民黨抗拒雙贏的機會？〉：讀陳其邁等立委提案「公辦初選」、內政部長李鴻源以「一百多個政黨」行政負擔為由反對，他反譏李鴻源不知除國、民兩黨外其他政黨連找候選人都有困難，公辦初選事實上只有兩黨會用；論民進黨真正的困擾是人頭黨員（入黨無利可圖還要繳黨費，忠貞者所剩無幾以致人頭黨員掌控黨內選舉），「排綠民調」是失敗制度，國民黨內部主張排綠同樣困擾；他主張模仿美國初選——由各黨支持者登記參加一黨初選決定該黨候選人（美國柔性政黨「黨員登記」並非入黨，等於選民只能參加一黨的民調），國、民兩黨合辦即可雙贏，「只是中國國民黨抗拒」（[[articles/taiwanjustice-net/2024/20240425110129_root_521795d308fbe1e1|中國國民黨抗拒雙贏的機會？, 台灣時報社論 2013-05-06, TJJ Wayback 存檔 2024-04-25]]）。
+- **2024-04-03** — 台灣時報社論〈導正謬誤的質詢須要反質詢〉：就立法院司法及法制委員會 4 月 1 日排審國會改革草案、秘書長周萬來表示外國法制對官員「反質詢」「實問虛答」並無課處法律責任明文一事，論質詢制度因依《中華民國憲法》國會無監察權而生、是用來取代監察權；萬年國會年代立委經長期薰陶比官員熟悉行政業務、真能找出缺失形成壓力，退職後新立委找不到缺失也要上台亮相，才有「台三線是哪三線」的外行話與官員的實問虛答；國民黨立委不檢討立委無知反而怪官員反質詢才是荒謬——要消除反質詢，要嘛立委「用功一點」深入了解行政業務，要嘛改變體制回到並非人人上台質詢的舊制（[[articles/taiwanjustice-net/2024/20240425114736_root_7348f9465b7bee5b|導正謬誤的質詢須要反質詢, 台灣時報社論 2024-04-03, TJJ Wayback 存檔 2024-04-25]]）。
+
+**TJJ 存檔專欄 record（Wayback 存檔 2024-04-25，slice 10151000-2 吸收於 2026-10-15）：**
+
+- **2014-07-23** — 太平洋時報「台灣看台灣」專論〈國共兩黨催生台獨〉：國民黨的壓迫才出現反「中華民國」的「絕對台獨」、共產黨的蠻橫才產生反「統一」的「相對台獨」；蔡英文以不到五分鐘把「凍結台獨黨綱」案送交中執會、實質擱置「凍獨」，國台辦發言人馬曉光稱台獨違逆歷史潮流，他反問「干中國共產黨底事？」——台灣前途由兩千三百萬人決定；又論國民黨政權比日本政府還可惡：以戶籍資料實施族群隔離、不平等，才讓台灣人懷念日本統治（[[articles/taiwanjustice-net/2024/20240425074406_root_7bb613e56bc4a34a|國共兩黨催生台獨, 太平洋時報 2014-07-23, TJJ 存檔 2024-04-25]]）。
+- **2017-11-10** — 自由時報專欄〈排獨的初選制度〉：民進黨初選採全民調，「由藍營的支持者來決定綠營的候選人」——某綠營人物批評自己的黨，民調卻贏過其他四人總和，因為抽到藍營支持者時幾乎全投他；獨派人士圍剿越兇、被圍剿者氣勢越旺、初選越容易出線；他主張黨員投票與民調各半才是好制度：黨員投票制裁言行背離綠營者、民調抑制人頭黨員（[[articles/taiwanjustice-net/2024/20240425075351_root_3c14a982435e4b49|排獨的初選制度, 自由時報 2017-11-10, TJJ 存檔 2024-04-25]]）。
+- **2013-04-25** — 台灣時報社論〈「反統」並不等於「台獨」〉（存檔 post_date 2013-04-28、文末署名 2013/4/26）：就姚人多「台獨、建國在台灣已失去主流市場」與辜寬敏「若是他講了台獨，選票就來了」之爭，論七成以上台灣人反對「統一」卻不等於主張台獨，政治意識對選舉的影響越來越低；馬英九最失敗是違背國民黨擅分配的傳統、寡頭領導使地方派系鬆散，最成功是化解台灣人被壓迫的悲情——缺乏悲情下只靠政治訴求的政黨「只配扮演在野的小黨」（[[articles/taiwanjustice-net/2024/20240425083139_root_8b50d97567ea7ad2|「反統」並不等於「台獨」, 台灣時報社論 2013-04-25, TJJ 存檔 2024-04-25]]）。
+- **2020-08-10** — 台灣時報專論〈弊案與賭性〉（存檔快照 2020-08-09）：立院弊案行賄者網羅全部黨團、收賂者明目張膽，問題不在制度在台灣嚴謹的會計制度而在人——如同酒駕屢禁不絕出於僥倖心態；台灣人投保無回收意外險者少、賭六合彩者眾，「好賭者只思考幸運時刻」，貪腐者也是賭自己逃得過法律制裁，政商名流賭風尤盛（[[articles/taiwanjustice-net/2024/20240425084511_root_2245598b4a422397|弊案與賭性, 台灣時報專論 2020-08-10, TJJ 存檔 2024-04-25]]）。
+- **2017-07-31** — 高雄台灣時報專論〈賴清德的危機〉：新政府施政滿意度低迷而賴清德、陳菊聲望居高不下，有人公開呼籲賴以「救民進黨」名義取代蔡英文參選 2020；論以救黨之名出馬名正言順、勝算相當大（國民黨中國勢力與地方派系和解遙遙無期），但這正是他的危機——「一般平凡的人所聽到的每一句話都是真話」，居高位者難聽到真話，進言者絕大部分站自己的立場思考（[[articles/taiwanjustice-net/2024/20240425085221_root_95368e6fafad877f|賴清德的危機, 高雄台灣時報 2017-07-31, TJJ 存檔 2024-04-25]]）。
+- **2021-08-29** — 台灣時報社論〈監察與司法搭配失靈〉（文末署名 2021/8/27）：高雄氣爆案雄檢簽結「查無犯罪事實」、監察院也同意結案認定市府無失職，藍營仍不罷休；論司法講證據採無罪推定、不起訴不等於證明清白，監察權屬針對公務人員的政治審判、彈劾不需證據以補司法不足；監委由間接民選改為總統任命的政務官後，人民認定其難免扮演執政黨打手，不再相信監察權的公正性（[[articles/taiwanjustice-net/2024/20240425085415_root_8a86fc0d13be0849|監察與司法搭配失靈, 台灣時報社論 2021-08-29, TJJ 存檔 2024-04-25]]）。
+- **2012-01-26** — 台灣時報社論〈賣票是罪大惡極嗎？〉（文末署名 2012/1/25）：會由賄選決定支持對象的多是「中性選民」——不同於中間選民，人數超過選民五成以上、無固定支持政黨；深藍深綠拿了錢也不會改變支持對象，故候選人擠壓賄選之道是在人脈與形象上下功夫，「大罵賄選還不如扮演『陳定南』」（[[articles/taiwanjustice-net/2024/20240425101244_root_bfdb454466f907f0|賣票是罪大惡極嗎？, 台灣時報社論 2012-01-26, TJJ 存檔 2024-04-25]]）。
+- **2022-08-04** — 台灣時報社論〈懂得用刀叉的食人族〉（文末署名 2022/8/5）：裴洛西訪台後解放軍於六處海域空域實彈演訓形同封鎖台灣，每天衝擊至少六百五十架次航班；中國誤以為台灣人會像中國人一樣因壓力而反美，惟民主社會人民習慣當主人、領袖都指揮不了何況對台不友善者——1996 飛彈危機李登輝得票五十四%即為明證，中國變相封鎖反使台灣人因反中而支持民進黨，連馬英九、朱立倫都歡迎裴洛西；「即使懂得用刀叉，食人族還是野蠻動物」（此為同篇專欄的另一存檔快照，文已於 2022-08-04 條目收入）（[[articles/taiwanjustice-net/2024/20240425103457_root_e7bed6f3f48491e9|懂得用刀叉的食人族, 台灣時報社論 2022-08-04, TJJ 存檔 2024-04-25]]）。
+
+**2014–2024 專欄 record（TJJ 存檔 2024-04～2024-05，slice 10160315-2 吸收於 2026-10-16）：**
+
+- **2017-07-20** — 於民報發表專欄〈政治獻金的特性重創中國國民黨〉（存檔 post_date 2017-07-19）：依內政部 2016 年度政黨決算報告書，民進黨政治獻金收入 1.47 億元略勝國民黨的 1.22 億元；他分析中國國民黨的經濟命脈並非黨產收益而是企業家的鉅額政治獻金——捐款被視同「變相的投資」期待執政者保護回收，該黨崩盤後企業家不願做必定虧本的生意因而退出投資；民進黨則因小額捐款穩定，「倒店」時還有金源可以翻身，並記獨派金主感嘆對民進黨影響力減退之因在其金源佔比已被稀釋（[[articles/taiwanjustice-net/2024/20240425143920_root_5b7feaf631085f5d|政治獻金的特性重創中國國民黨, 民報 2017-07-20, TJJ 存檔 2024-04-25]]）。
+- **2020-08-25** — 於台灣時報發表社論〈民進黨之友馬英九〉（文末署名 2020/8/26；作者署名中山大學退休教授、台灣安全促進會會長）：論中國國民黨在小選區的組織戰與地方派系樁腳遠勝民進黨，該黨 2016 年崩盤的關鍵是馬英九歧視台灣人組成的地方派系、又追殺王金平使樁腳反彈、人脈崩解；馬英九若開新路「異軍突起」重返黨掌舵，「芒果乾」用錯方向（變相投降）會被主流民意唾棄，且回鍋必走「一中」路線，民進黨再腐化也一樣穩住政權（[[articles/taiwanjustice-net/2024/20240425150731_root_6f8552d4e4a21337|民進黨之友馬英九, 台灣時報社論 2020-08-25, TJJ 存檔 2024-04-25]]）。
+- **2024-04-22** — 於台灣時報發表專論〈朱立倫加油！〉（文末署名 2024/4/22；作者署名中山大學退休教授、台灣安全促進會會長）：朱立倫南下高雄主持柯志恩接任市黨部主委布達典禮，批評賴清德內閣「就是民進黨組閣」而非民主大聯盟；他反駁聯合政府是在合議制的國會聯合形成政策，而非在首長制的行政體系「分一杯羹」，台灣並非內閣制國家不可能組成聯合政府，並特別指出考試院是台灣特產的合議制行政機關（[[articles/taiwanjustice-net/2024/20240429065054_root_9b6df21544a69da0|朱立倫加油！, 台灣時報專論 2024-04-22, TJJ 存檔 2024-04-29]]）。
+- **2014-04-30** — 於太平洋時報「台灣看台灣」發表專欄〈國民黨包藏禍心〉（文末署名 2014/4/30；作者署名中山大學退休教授、台灣安全促進會會長）：批馬政權核四「停工不停建」的說詞包藏禍心——2016 大選若國民黨續執政可強力啟動核四，若民進黨執政則因未發展替代能源只能硬接下缺電爛攤子；引《天下雜誌》4/29 報導德國專家評析再生能源已比核電便宜（德國「能源轉向」政策、梅克爾宣示 2022 廢核），主張台灣建非核家園應學德國積極發展替代能源（[[articles/taiwanjustice-net/2024/20240520034056_root_c83f6877fc8ff0b2|國民黨包藏禍心, 太平洋時報 2014-04-30, TJJ 存檔 2024-05-20]]）。
+
+**2016-08～2024-05 台灣時報專欄 record（TJJ Wayback 存檔 2024-05-22～2024-05-25，slice 10160400-2 吸收於 2026-10-16）：**
+
+- **2016-08-25** — 於高雄台灣時報發表社論〈台聯真寂寞〉（文末署名 2016/8/25；作者署名中山大學退休教授、台灣安全促進會會長）：台北上海雙城論壇於晶華酒店舉行，台聯青年軍於會場外抗爭、舉「共產黨統戰，沙海林滾蛋」「統戰備忘錄，台灣不歸路」標語並焚燒沙海林與柯文哲肖像；他論中國因「文攻武嚇」引起台灣人反感、被選票抵制，遂領悟「買台灣遠比打台灣便宜」，改以經濟寄生與「招安」模式促使台灣人靠中國吃飯，先經濟統一再政治統一；沙海林與柯文哲各取所需——前者逼蔡英文跟進，後者因聲望民調下降、期待藍營初選支持；他主張台灣應對模式是執政黨演白臉、綠色在野黨演黑臉拆穿統戰陰謀，並惜台聯無立委只能唱獨角戲、抗爭者被警方限制人身自由兩小時（[[articles/taiwanjustice-net/2024/20240522050541_root_b8e958c44abea83c|台聯真寂寞, 高雄台灣時報社論 2016-08-25, TJJ Wayback 存檔 2024-05-22]]）。
+- **2016-12-22** — 於台灣時報發表專論〈修憲是騙，制憲才真〉（文末署名 2016-12-22）：就民進黨立委連署「廢省」「廢考試、監察院」「降低修憲門檻」等修憲案排入程委會議程、黨團卻不急於成立修憲委員會之事，論 2005 年第七次修憲已把修憲門檻訂為立委四分之一提案、四分之三同意、立法院通過公布半年後再由全體公民複決且有效同意須過選舉人總額之半數，「在二00五年第七次修憲之後，就已經注定不可能再修憲」；並論修憲既不可能過關就不必修《公投法》門檻，且修憲須由執政黨推出、牽涉國家定位會面臨國際壓力，唯修《公投法》第二條只是還給人民被國大一起廢掉的創制權、不涉敏感問題，公投制憲自提案至連署由民間團體執行、執政黨完全不要介入，「不要再騙選民了」（[[articles/taiwanjustice-net/2024/20240522230446_root_0143922d762b1332|修憲是騙 制憲才真, 台灣時報專論 2016-12-22, TJJ Wayback 存檔 2024-05-22]]）。
+- **2024-05-01** — 於台灣時報發表社論〈半路認老爸〉（文末署名 2024/5/1；作者署名中山大學退休教授、台灣安全促進會會長）：就北京動員陸軍官校校友於六月十六日前後赴廣東黃埔參訪、解放軍官校友會百年目標超過去年五百人（預計一百團、每團約卅人）之事，論陸軍官校因中共叛亂將中華民國趕到台灣而於一九五○年在高雄鳳山復校，台灣陸官畢業的人赴大陸黃埔軍校參加校慶「真的是『半路認老爸』」——母校在鳳山卻到敵方朝拜；他追溯國民黨政權以戶籍「籍貫」區隔族群、中華民國殖民統治台灣，陸官軍人以「反共抗俄，殺朱拔毛」為終極目標連提都不能提，民主化終結殖民統治後中國法統勢力因台灣人平等參政甚至執政而不能接受，「在他們的心目中台灣人是外人，相對的，『共匪』才是他們的同胞」；並問到底是誰分裂中國——是昔日他們所稱的「共匪」叛亂將中華民國趕到台灣，站在中華民國立場中共若不是叛亂組織就是敵國（[[articles/taiwanjustice-net/2024/20240525233052_root_ec0466faf3c9362c|半路認老爸, 台灣時報社論 2024-05-01, TJJ Wayback 存檔 2024-05-25]]）。
+- **2024-05-07** — 於台灣時報發表社論〈大赦與特赦〉（文末署名 2024/5/8；作者署名中山大學退休教授、台灣安全促進會會長）：就週刊報導蔡總統決定五二○卸任前夕特赦前總統陳水扁、國民黨質疑其用意、民進黨立委主張考慮大赦而非針對個人之事，依《赦免法》第二條辨析大赦是針對「罪」不針對「人」（已受罪刑之宣告者宣告無效、未受者追訴權消滅），若大赦則與陳水扁犯一樣罪的人都變成無罪「豈不是天下大亂」；真正該大赦的是特別費除罪，惟依《中華民國憲法》第四十條大赦權屬總統、憲法並未授權立委除罪，當年立法院為特別費案立法除罪相當荒謬、可見馬英九「太沒有擔當」；又論《赦免法》第三條原本特赦只免刑不除罪，因美麗島高雄事件被社會公認為政治迫害，才加上「其情節特殊者，得以其罪刑之宣告為無效」的「特別特赦」後半段；並記蔡英文任黨主席期間全國黨員代表大會有代表提議特赦陳水扁、逾九成連署，該案排在後半段討論時多數代表「尿遁」造成流會（[[articles/taiwanjustice-net/2024/20240525233125_root_cfafedbdfc24dfcb|大赦與特赦, 台灣時報社論 2024-05-07, TJJ Wayback 存檔 2024-05-25]]）。
+
+**2016-03～2024-05 台灣時報專論／社論 record（TJJ Wayback 存檔 2024-05-26～2024-05-27，slice 10160500-2 吸收於 2026-10-16）：**
+
+- **2016-03-03** — 於高雄台灣時報發表社論〈小英兼主席非為以黨領政〉（文末署名陳茂雄；作者署名中山大學退休教授、台灣安全促進會會長）：就蔡英文確定執政後續兼黨主席之事，反駁「蔡英文權力一把抓」之說——她權力已然很大，不必再添「黨主席」頭銜，指揮民進黨也完全不依賴該職位，若由他人任主席仍要聽她的；他論民進黨不像中國國民黨是「以黨領政」的政黨：國民黨企業捐款入黨部再轉出、黨部掌握與政治人物重疊的樁腳，因而有能力左右候選人前途，馬英九 2008 年當選總統時正因看清此點而主張黨政分離、留吳伯雄任主席以跳脫政黨束縛，直到監察院人事同意權連副院長都落馬、體會到自己指揮不動藍營立委，才逼退吳伯雄自兼黨主席；民進黨黨部既無資源更無樁腳、只是一個空架子，資源與樁腳在各派系與政治人物手中，蔡英文是靠群眾個人領導而非黨主席頭銜，「有朝一日若是群眾疏離她，民進黨內就會有人挑戰她」；結論：民進黨只算派系聯盟，蔡英文續兼主席的真正功能只是「延緩派系的鬥爭」，與以黨領政扯不上關係（[[articles/taiwanjustice-net/2024/20240526045137_root_24360e05b12b96ca|小英兼主席非為以黨領政, 高雄台灣時報社論 2016-03-03, TJJ Wayback 存檔 2024-05-26]]）。
+- **2024-04-10** — 於台灣時報發表社論〈惡奴欺主？〉（文末署名 2024/4/10；作者署名中山大學退休教授、台灣安全促進會會長）：就藍白兩黨立法院黨團排審「國會改革」草案、民進黨幹事長吳思瑤批其反民主並警告「藐視國會罪」可及於平民百姓之事，論民主國家人民是國家主人、公職人員是受託的公僕，受託範圍有法定界限，不得超越委託範圍壓迫主人；追述扁政府年代監察委員越界約談與扁家交好的羅太太、被當面不理會——監委受託監督的對象只有公務人員，卻「監督起委託人也就是他們的主人，不碰壁才怪」；今部分立委欲將監督對象擴及一般民眾，「這真是惡奴欺主，忘了主人是誰，竟然想要壓迫主人」（[[articles/taiwanjustice-net/2024/20240527032330_root_3cd27bf65173a82a|惡奴欺主？, 台灣時報社論 2024-04-10, TJJ Wayback 存檔 2024-05-27]]）。
+- **2024-04-15** — 於台灣時報發表專論〈兩大黨派系的差異〉（文末署名 2024/4/15；作者署名中山大學退休教授、台灣安全促進會會長）：就林佳龍獲邀出任外交部長引發內閣人事揣測、黃珊珊籲賴政府內閣勿「只為派系平衡」之事，論黃珊珊不了解民進黨架構：中國國民黨派系形成於獨裁統治年代，中央以國家資源整合地方派系成金字塔結構，馬英九歧視並切割地方派系致其崩解，人脈架構自此回不去，該黨因而與總統大選絕緣；民進黨出身在野民主政黨，資源來自選民，派系是全區性而非地方性，各派系各自是一個利益共同體、整黨只是派系聯盟，故任一派系崩解其他派系照常運作，沒有崩解問題——「賴清德重視派系平衡，代表他有智慧」；又以「民進黨就像一群狗，可以共患難，卻難以同享樂」作比：對外爭資源不是問題，爭到之後分配戰利品才是學問（[[articles/taiwanjustice-net/2024/20240527023328_root_4a4bb6f830858ae5|兩大黨派系的差異, 台灣時報專論 2024-04-15, TJJ Wayback 存檔 2024-05-27]]）。
+- **2024-05-02** — 於台灣時報發表專論〈評析一人政黨的成敗〉（文末署名 2024/5/2；作者署名中山大學退休教授、台灣安全促進會會長）：就柯文哲下令黨內立委深耕議題以免民眾黨淪為「一人政黨」、其前幕僚吳靜怡反稱他絕不容許民眾黨成為黃國昌的一人政黨之事，回溯台灣的一人政黨：蔣介石以武力掌控國家資源、團隊資源分配制度化而形成穩固利益共同體，屬不可能再現的型態；民主化後李登輝與宋楚瑜兩個「一人政黨」同因缺乏政治資源而沉寂，宋楚瑜氣勢消退快於李登輝因其缺乏政治信仰難以凝聚民眾，李登輝則在 2006 年李扁交惡時眾叛親離、被自己最器重的人罵得最兇；據此論民眾黨完全依賴民眾厭惡兩大黨而成長，要茁壯必須建立多數台灣人認同的政治信仰並形成制度化的利益共同體，否則會像宋楚瑜一樣快速崩解，「只是建立制度，『一人』就少了很多權力，柯文哲是否能捨？」（[[articles/taiwanjustice-net/2024/20240526094842_root_7f939d7a77291f3a|評析一人政黨的成敗, 台灣時報專論 2024-05-02, TJJ Wayback 存檔 2024-05-26]]）。
+
+**2016-12～2024-05 taiwanjustice.net 存檔專欄 record（TJJ Wayback 存檔 2024-05-30～2024-06-19，slice 10160600-2 吸收於 2026-10-16）：**
+
+- **2016-12-30** — 於自由時報發表專欄〈新政府應關閉監委後門條款〉（文末署名 2016-12-30；作者署名中山大學退休教授、台灣安全促進會會長）：就蔡英文民調雪崩式下滑、綠營反蔡的部分原因在用人的風格（「老男籃」、「朴槿惠」性格——她喜歡的人做了離譜的事照樣包容）之事，論《監察院組織法》第三條之一第六款「清廉正直，富有政治經驗或主持新聞文化事業，聲譽卓著者」就是「後門條款」，留給總統破格任用自己喜歡的人的空間；馬英九第二次提名考試、監察委員清一色「馬友友」，被人抨擊比蔣介石還獨裁（蔣介石還會提幾名黨外做門面），但他站得住腳是因為提名的人都符合資格、沒有動用後門條款——「若是蔡英文沒有關閉後門條款，那就連馬英九都不如」；文中並記修憲廢監察院是假議題（公民複決門檻比鳥籠公投法更高、不可能過關）、該屆監委由馬英九提名故都是「馬友友」（[[articles/taiwanjustice-net/2024/20240619170331_root_0f68c6104e92bd29|新政府應關閉監委後門條款, 自由時報 2016-12-30, TJJ Wayback 存檔 2024-06-19]]）。
+- **2017-07-12** — 於台灣時報發表專論〈中國國民黨並非垮在太陽花〉：就柯文哲「林飛帆和陳為廷兩個猴死囝仔竟然搞垮中國國民黨」之說，論以學生運動解釋國民黨垮台屬倒因為果——真正原因是馬英九施政天怒人怨、社會累積反馬能量，三一八學運只是能量爆發的附帶產物，故應說「馬英九累積民怨造成中國國民黨垮台」；他以二例佐證同一因果觀：二〇〇四年連任是水蓮配氣勢已起、二二八手護台灣的群眾才運作成功（否則二〇〇八年何不牽一次）；陳菊第一次選高雄市長低空飛過是靠紅衫軍刺激綠營出席投票、不是社團愛河造勢拉抬（若不是選舉季節社團要召集百人都有困難）；結論是造勢幫助不大、氣勢拉上來之後才容易造勢（[[articles/taiwanjustice-net/2024/20240614150009_root_ed8bbec64b82e8c6|中國國民黨並非垮在太陽花, 台灣時報專論 2017-07-12, TJJ Wayback 存檔 2024-06-14]]）。
+- **2017-11-16** — 於台灣時報發表專論〈只有政治犯　沒有刑事犯？〉：就中影前董事長蔡正元涉侵占中影減資款 3.7 億元、羈押禁見四個月上限屆滿後台北地院於 11 月 14 日裁定以 1,000 萬元交保、限制出境出海與住居、每週一與五至南港派出所報到之事，論「司法會還他清白」是台灣最流行也最錯誤的一句話——司法依無罪推定，無罪定讞只代表沒有被抓到證據，不等於清白；且人民另有政治審判，很多被判無罪的政治人物在政治審判仍被認定有罪，因為台灣人不相信政治人物乾淨；他追述戒嚴時期政治犯高舉雙手光榮揮舞、刑事犯低頭蒙面羞愧難當，國民黨政權以司法排除異己使人民相信政治犯無罪，而民主化後喊冤的政治人物反而更多、人人自稱政治犯，「好像台灣只有政治犯，沒有刑事犯，台灣是退步了」（[[articles/taiwanjustice-net/2024/20240530132410_root_b1a7896d5d17df54|只有政治犯 沒有刑事犯？, 台灣時報專論 2017-11-16, TJJ Wayback 存檔 2024-05-30]]）。
+- **2024-05-17** — 於台灣時報發表社論〈助力變阻力〉（文末署名 2024/5/18；作者署名中山大學退休教授、台灣安全促進會會長）：就柯文哲宣布 5 月 19 日準總統賴清德上任前赴民進黨中央黨部前遊行、新黨副發言人游智彬先到黨部前提出反特赦陳水扁、調查潘孟安、要賴清德放下「抗中保台」四大訴求並表態響應五一九集會之事（前立委鄭運鵬譏柯文哲「本來就沒什麼朋友」、幹部被借殼上市佔領），論群眾運動必須有與主流民意起共鳴的主題或政治信仰才會加分：民進黨長期發動群眾運動並未重創國民黨、自己也沒有因此茁壯，直到洪仲丘案因軍中人權議題與主流民意共鳴才重創國民黨；新黨的政治信仰是「親共」，與「反共」這個台灣最普遍的主流政治信仰對撞，新黨助陣只會使民眾黨與主流民意距離更遠——「是阻力，不是助力」（[[articles/taiwanjustice-net/2024/20240613101522_root_849e040c898693f5|助力變阻力, 台灣時報社論 2024-05-17, TJJ Wayback 存檔 2024-06-13]]）。
+
+**2017-01～2024-05 taiwanjustice.net 存檔專欄 record（TJJ Wayback 存檔 2024-06-20～2024-07-13，slice 10160700-2 吸收於 2026-10-16）：**
+
+- **2017-01-06** — 於自由時報發表專欄〈台灣沒有朴槿惠〉（文末署名 2017/1/6；作者署名中山大學退休教授、台灣安全促進會會長）：因閨密崔順實干政與賄賂醜聞，韓國民眾接連上街要求朴槿惠下台、國會上月通過彈劾案、憲法法院於 1 月 5 日開庭審理；就蔡總統民調雪崩式下滑、綠營擔心台灣出現「朴槿惠效應」之事，論蔡英文絕對不可能變成台灣的朴槿惠——連馬英九的九%都不可能降到，馬的九%空前絕後、源於他挑起內鬥與郭冠英、白狼、董淑貞等敵視台灣人效應掀起族群對立；台灣意識形態對立嚴重，綠營因被壓迫的悲情，政治領袖民調不可能低於十五%；真正的問題不是民調太低，而是氣勢衰退時內部必生反對勢力與「保皇黨」之爭，拖垮綠營優勢，讓瀕臨關門的中國國民黨得漁翁之利（[[articles/taiwanjustice-net/2024/20240620195524_root_f4f61daddadfcc28|台灣沒有朴槿惠, 自由時報專欄 2017-01-06, TJJ Wayback 存檔 2024-06-20]]）。
+- **2022-12-30** — 於台灣時報發表社論〈中共要的是消滅中華民國〉（文末署名 2022/12/30；作者署名中山大學退休教授、台灣安全促進會會長）：就孫文學校總校長張亞中反對蔡政府恢復兵役役期為一年、稱役期延長使徵兵年輕人上海岸線防衛與烏克蘭情況相近、「是非常不幸的事情」之事，論中共與中華民國戰爭暫停但在國際消滅中華民國的動作從未停止、公開聲明不排除武力犯台，依台灣人力物力募兵制無法保衛台灣，必須募徵並行所以義務役延長一年；他論中國法統勢力存在嚴重矛盾：一方面主張捍衛中華民國、抗拒政權本土化，一方面拉攏中共打擊本土勢力，而消滅中華民國是中共不變的政策，「表態要捍衛中華民國的人去擁抱要消滅中華民國的敵人，真是錯亂」——「這些人既是台奸，更是漢奸」（[[articles/taiwanjustice-net/2024/20240713154313_root_67164d08e1809501|中共要的是消滅中華民國, 台灣時報社論 2022-12-30, TJJ Wayback 存檔 2024-07-13]]）。
+- **2023-03-14** — 發表專欄〈當飢餓的肉食動物面對獵物〉（TJJ 發文 2023-03-14；作者署名中山大學退休教授、台灣安全促進會會長）：就綠色社團長期推動民主運動人士感嘆台灣人缺乏警覺性、面臨強敵併吞仍不知將選票投給「反共保台」政黨之事，論台灣民主化前後藍綠生態的翻轉：早期藍營獨攬全國資源走向腐化、貪腐幾乎全在藍營，綠營以「清廉、勤政、愛鄉土」的特殊形象吸引民眾、積極反賄選而日漸茁壯；九〇年代後綠藍已「在比賽腐化」，立委貪腐與選舉買票都是兩大黨合作，兄弟黨相互掩蓋事實；以前「反共保台」的神主牌由藍營揹著、民眾不甩，現在換綠營揹著——「民眾會縱容揹著『反共保台』的神主牌者為所欲為嗎？用膝蓋想就知道了」；他以草食／肉食動物作比：綠營政治人物本是沒有食物所以不搶食的溫和草食動物，今日食物太多立即顯現搶食醜態、原來也是凶猛的肉食動物，「怎麼還期待民眾跟隨呢？」（[[articles/taiwanjustice-net/2024/20240621180223_root_860cd815d58af425|當飢餓的肉食動物面對獵物, TJJ 專欄 2023-03-14, TJJ Wayback 存檔 2024-06-21]]）。
+- **2024-05-22** — 於台灣時報發表社論〈只有共獨 那來台獨？〉（文末署名 2024/5/22；作者署名中山大學退休教授、台灣安全促進會長）：就賴清德 5 月 20 日就職演說重申「中華民國與中華人民共和國互不隸屬」、馬英九 21 日呼籲修正演說中的「新兩國論」、中國外交部稱台獨是一條死路、《人民日報》同日以第四版全版痛批賴「販賣『兩國論』」並刊「鐘一平」署名評論之事，論「分裂中國干賴清德底事」——中華民國創立於一九一二年，第一代中共黨員都是中華民國國民，一九四九年中共叛亂自中華民國分裂建國，活生生分裂中國的是中共，要追究應找中共算帳；他追溯蔣介石政權以籍貫隔離族群、中華民國是外來政權的殖民統治，因而產生以驅逐外來政權為目標的台獨運動，民主化後台灣人進體制參政甚至執政，台獨運動轉型為正名制憲；真正從事台獨運動者絕大部分被民進黨收編，「真正分裂中國的中國共產黨則堅定要消滅中華民國，而捍衛中華民國的卻是民進黨，干台獨底事？莫名其妙」（[[articles/taiwanjustice-net/2024/20240622131311_root_e8c1af7a3385ab8d|只有共獨 那來台獨？, 台灣時報社論 2024-05-22, TJJ Wayback 存檔 2024-06-22]]）。
+
+**2016-09～2023-11 taiwanjustice.net 存檔專欄 record（TJJ Wayback 存檔 2024-07-13～2025-02-09，slice 10160800-2 吸收於 2026-10-16）：**
+
+- **2018-03-21** — 於 taiwanjustice.net 發表專欄〈民進黨退步了〉（文末署名中山大學退休教授、台灣安全促進會會長）：就北農休市爭議中吳音寧被稱「最高薪的實習生」、台北市副市長兼董事長陳景峻宣布請辭董座、北農董事張永成規劃於 3 月 28 日董事會提案撤換總經理之事，論政治任命職位「不需任用資格，隨『政治』上台，也因『政治』下台」，國家人民受傷害時縱無過錯也必有人負政治責任以「止血」；追述扁政府年代八掌溪案後行政院副院長當機立斷辭職負責（後來卻升院長）、該年代官員掛冠屬常態因而大事能迅速止血，反觀蔡政府只出現被迫心不甘情不願的下台、沒有出現過優雅負責的下台；歸因於民進黨體質之變：黨外至建黨初期無利可圖人人奉獻，蔡英文年代總統大選未開各職位已搶破頭，官員過度戀棧官位則施政品質必差——「民進黨真的退步了」（[[articles/taiwanjustice-net/2024/20240713161536_root_a2aaf3aaed664744|民進黨退步了, TJJ Wayback 存檔 2024-07-13]]）。
+- **2017-05-22** — 於台灣時報發表專論（文末署名 2017/5/22）論中國國民黨地方派系復活：吳敦義在第一輪以十四萬四四〇八票、得票率五十二點二%高票當選黨主席，洪秀柱與郝龍斌合計仍遠遜於他，屬地方派系對中國勢力大勝；該黨有效黨員由補選時三十三萬多增至四十七萬多、新增近十四萬黨員足以左右人選，並引發黑道入黨、人頭黨員、黨員個資外洩等爭議；他論馬英九執政時追殺王金平掀起族群對立、地方派系黨員心灰意冷，中國勢力出席率近百分之百因而得以主導該黨，惟該黨選舉的靈魂仍是地方派系及其樁腳人脈，人脈崩解才有九合一與 2016 大敗；此次選舉樁腳以大選模式重新運作、新進黨員幾乎都由樁腳掌控，人脈重建使 2018 與 2020 綠營難再維持優勢，而「綠營不知死之將至，還內鬥不休」（[[articles/taiwanjustice-net/2024/20240713172009_root_ae6e8ece47d76f1b|中國國民黨地方派系復活, 台灣時報專論 2017-05-22, TJJ Wayback 存檔 2024-07-13]]）。
+- **2016-09-29** — 其本人專欄見於當日「台灣公義電子報新聞摘要」存檔：該摘要以「請不要再消費李前總統 ◎ 陳茂雄／台灣時報 09-29-2016」列載他為台灣時報撰寫的專欄，與同日國民黨傳爆黨工逃亡潮、創黨 30 週年蔡英文致黨員信等條目並列（存檔另含「反共義士回歸中國的荒謬性／高雄台灣時報社論 2016-09-30」條目）；此條確立他在 2016-09-29 已有台灣時報專欄為電子報收錄，存檔中該 p=93800 頁面本身為新聞摘要、非他自撰專欄（[[articles/taiwanjustice-net/2024/20240716124943_root_e799ab903867d6e2|09/29-2016 台灣公義電子報新聞摘要, TJJ Wayback 存檔 2024-07-16]]）。
+- **2023-11-28** — 同一專欄〈為民眾黨把脈〉（小蜜蜂電報 2023-11-28）另見於另一存檔快照存檔 2025-02-09，與上文自 Wayback 存檔 2024-02-25 檔案吸收的條目為同一記錄的第二個存檔來源；本條只補存檔連結、不重複增列事實，內容以 2024-02-25 存檔條目為準（[[articles/taiwanjustice-net/2025/20250209213849_為民眾黨把脈-_-陳茂雄_1bda32440798099f|為民眾黨把脈, 小蜜蜂電報 2023-11-28, TJJ Wayback 存檔 2025-02-09]]）。
+
+- 複核（TJJ-A10090401-30, 2026-10-10）：本 slice 文章 taiwanjustice-net/index（存檔索引頁）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，已飽和。
+
+- 複核（TJJ-A09250400-11, 2026-09-25）：本 slice 文章 taiwanjustice-net/index（存檔索引頁） 正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；含該文 wikilink 的日期事實條目已在庫 — SKIP，無新材料。
+
+
+- 複核（TJJ-A09230900-2, 2026-09-25）：slice 文章 taiwanjustice-net/index（存檔索引頁）正文再驗證——本頁 subject 連結為真實提及，無錯鏈、無虛鏈；對應日期事實條目（含該文 wikilink）已在庫 — SKIP，無新材料。
+
+
+- 複核（TJJ-A09171000-1, 2026-09-24）：本 slice 文章 index（TJJ 文章存檔索引頁）正文再驗證——索引頁列陳茂雄為專欄作者（475 篇），連結為真，subject 連結為真，無錯鏈、無虛鏈；對應日期事實已在庫，無新材料。
+- 2026-07-28 — taiwanjustice.net 文章存檔索引（29,103 篇）將陳茂雄列為專欄作者之首（「陳茂雄專欄」475 篇），為該報最高產量專欄作者（[[articles/taiwanjustice-net/index||TJJ 文章存檔索引]]）。
+- **2025-10-06** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「台灣主流民意為何親日拒中？」 (政治評論 lane; byline 中山大學退休教授、台灣安全促進會會長): defends 賴清德's 「終戰」 framing as the Taiwanese mainstream view and argues the KMT-era 籍貫 hierarchy, not Japan's colonial record, produced Taiwan's pro-Japan sentiment. — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/102468/)
+- **2025-10-16** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「天才候選人及助選員」 (政治評論 lane): savages 趙少康's praise of 郝龍斌 in the KMT chair race over the 忠孝西路 bus-lane and 公館圓環 traffic debacles. — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/103996/)
+- **2025-10-21** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「鄭麗文顛覆了藍營的習性」 (政治評論 lane): on 鄭麗文's over-50-percent win in the 10-18 KMT chair election, her 野百合/520 台灣建國 past, 2005 turn to the KMT, and why anti-traditionalist blue voters embraced a 變色者. — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/104688/)
+- **2025-10-28** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「國定假日怪談！」 (政治評論 lane, from 自由時報 10-28): on the 光復節 renaming fight and holiday politics as 政策賄選, arguing 1945 was a change of colonial rule, not 「光復」. — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/105752/)
+- **2025-03-01** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「偽君子與真小人」 (政治評論 lane; byline 中山大學退休教授、台灣安全促進會會長, signed 0301): contrasts 朱立倫, who cites a poll urging 賴清德 to stop the 大罷免 while preaching 回歸民生拚經濟, with 傅崑萁's hooligan-style 「砍了又怎麼樣？」 — argues 朱纵容藍白癱瘓政府 yet talks 仁義道德, so 「偽君子」远不如「真小人」; on 《財劃法》/《憲訴法》 as moves to disintegrate the central government and freeze the 憲法法庭, and on 罷免 as the 國家主人's right to 「辭退」公僕, as important as 聘請. — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/64899/)
+- **2025-03-23** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「中華民國與台獨及共獨」 (政治評論 lane; byline 中山大學退休教授、台灣安全促進會會長): argues the 《五五憲草》 and 《中華民國憲法》 Art. 4 never placed Taiwan inside the ROC's 疆域, so the ROC regime driven to Taiwan is the 「乞丐」 oppressing the local 「廟公」 — which is what produced 台獨 — while 中共 (「共獨」) keeps trying to extinguish the ROC by slapping the 「台獨」 cap on it; rebuts 吳斯懷's 「賴清德瘋了？」 attack on the 境外敵對勢力 framing and asks who is actually mad. — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/68837/)
+- **2025-06-04** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「考監兩院的座車趣聞」 (政治評論 lane; byline 中山大學退休教授、台灣安全促進會會長, signed 0604): triggered by 監察院秘書長李俊俋's 6月1日 resignation after being exposed using a 公務車 on 5月20日 to shuttle his dog to a grooming salon, he explains the distinction between 座車 (a chauffeur-driven car attached to a person as part of 待遇, usable off-duty) and 公務車 (civil-service use only); traces how 蔣介石's 《動員戡亂時期臨時條款》 froze the constitution and produced the 萬年國會, how 國民黨 raised 考試委員 to 特任 rank so 部會首長 could occupy 特任官 posts (and the 第十屆扁政府 attempt to replace their 座車 with a monthly NT$4,000 交通費, cut by 國親立委 and restored under 馬英九), and how 監委 — 中央民代 before 修憲, 特任政務官 after — came to imitate 考委 one-car-per-person 待遇; closes that in-court 國民黨 paralysis of 監察院 obstructed 本土人士 pushing to abolish 考監兩院, while 民進黨 in power stopped mentioning abolition — 名嘴「未仙假仙」, 兩大黨「真假仙」. — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/81400/)（存檔 `knowledge/web-archives/taiwandaily-net-81400-81400.md`）
+- **2025-03-02** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「周處除三害」 (政治評論 lane; byline 中山大學退休教授、台灣安全促進會會長, signed 0302): 論全面罷免等同再選戰、藍營居劣勢因有「三害」；記朱立倫閉門會議提醒區域立委勤走地方、囑不分區立委「不要鬧事」（箭頭指向翁曉玲，鍾小平分析朱將停權翁），引沈富雄點名馬英九、朱立倫、傅崐萁三人不退場該黨無未來（後將馬自我排除），批傅崐萁「砍了又怎麼樣？」仇恨值過高、朱立倫善裝好人縱容戰火，結論翁曉玲、傅崐萁之外「他應該除掉自己這一害」 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/65192/)（存檔 `knowledge/web-archives/taiwandaily-net-65192-65192.md`）
+- **2025-03-05** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「「聯中制蘇」與「聯俄制中」」 (政治評論 lane; byline 中山大學退休教授、台灣安全促進會會長, signed 0305): 以川普與澤倫斯基公開撕破臉、台灣內部出現恐慌為引，記游盈隆對川普二次降臨後世界劇變的評述、及川普與台積電董事長魏哲家白宮會面後共同宣布台積電對美增資一千億美金（游盈隆、魏哲家為欄內被報導人物，不代筆添條）；論昔日美國「聯中制蘇」拋棄蔣政權是台灣最苦的日子、韓戰第七艦隊協防台灣，今中國實力遠超俄羅斯、美國戰略轉為「聯俄制中」，而今日台灣不是期待美國施捨而是互惠——美國在「聯俄制中」戰略下需要台灣，護國神山牽動全球科技產業。 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/65734/)（存檔 `knowledge/web-archives/taiwandaily-net-65734-65734.md`）
+- **2025-03-08** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「趙少康何須生氣！」 (政治評論 lane; byline 中山大學退休教授、台灣安全促進會會長, signed 0308): 中選會審定一階連署僅公民團體 32 件國民黨立委罷免案過關、藍營推動 13 件罷綠案全數未達門檻且頻傳抄名單爭議，趙少康臉書批「沒看過戰力這麼弱的在野黨」、沈富雄在 TVBS《少康戰情室》砲轟朱立倫令其「擲筆三嘆」（趙少康、沈富雄、朱立倫為欄內被報導人物，不代筆添條）；論綠營主流為意識形態的凝聚、藍營主流為人脈——綠營空軍善於大選區、藍營陸軍善於地方選舉，從黨外悲情、蔣家「反共保台」信仰經李登輝繼承、國民黨內中國勢力反李轉親共、「反共保台」神主牌為民進黨揀去，到藍白修法砍預算催生新悲情，民眾積極捍衛本土；罷免實由民間團體推動而非民進黨主導，藍營無人主導故雜亂無章、無民眾支援只好抄名單甚至列入已故者，結論「趙少康何須生氣！」 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/66268/)（存檔 `knowledge/web-archives/taiwandaily-net-66268-66268.md`）
+- **2025-12-03** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「民進黨的運氣真好！」 (政治評論 lane; byline 中山大學退休教授、台灣安全促進會會長, signed 1203): on the 高市早苗 「台灣有事，即日本有事！」 fallout — argues 《舊金山和約》 (which China denies) is the basis of 台灣地位未定論 and that 《開羅宣言》 being a joint communiqué, not a treaty, cannot settle sovereignty; notes 高市早苗's support stayed high despite China's trade/tourism retaliation, cites 洪秀柱's attack on 高市早苗 and 賴政府 as blue-white 「撿到槍」, recalls Taiwan's world-top donations after 311 and Japan being first to donate Covid vaccines to Taiwan, and concludes 民進黨's polls rose after 花蓮水災/台中非洲豬瘟 because blue-white opposed both the Japanese and Taiwanese mainstreams — 「民進黨撿到槍，運氣真好！」 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/111281/)（存檔 `knowledge/web-archives/taiwandaily-net-111281-111281.md`）
+- **2025-06-05** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「綠營贏在政治意識 輸在候選人」 (政治評論 lane; byline 作者為中山大學退休教授、台灣安全促進會會長 — matches page): 論罷免連署之戰綠營大獲全勝因綠營是政治意識的結合、志工踴躍，藍營是人脈的結合、依賴黨工甚至抄名單，且國民黨自修《選罷法》第98條之2加重偽造連署書刑責反成「千算萬算不值得天一畫」；梳理《動員戡亂時期臨時條款》凍結憲法、修憲後總統任命行政院長不經立法院同意致總統跛腳的憲政體制演變，論藍白以《憲訴法》《選罷法》《財劃法》三修正案及刪凍114年度總預算癱瘓政府；預言罷免成功後被罷免藍委不得參選補選、人脈難以轉移、藍天變綠地或然率高，但綠營會困於罷免投票關卡；並親述兩段往事佐證「政治人物對支持者應該表達感恩，不是施恩」——2008年世台會在台開年會金美齡自日本回國搶麥克風三問「在場甚麼人閒閒」「我們回台灣的旅費誰付的」「民進黨選贏了是誰在享受政治資源」全場更大掌聲，以及2018年他獨估林姿妙宜蘭縣長連任成功（綠營朋友認為他是外地人不了解宜蘭政情，結果票開出來果然連任），因林姿妙對選民表達「感恩」而非「先知」姿態 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/81714/)（存檔 `knowledge/web-archives/taiwandaily-net-81714-81714.md`）
+- **2025-02-08** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「大口啃牛排卻說不吃牛肉」 (政治評論 lane; byline 陳茂雄, 文末自註「作者為中山大學退休教授，台灣安全促進會會長」— matches page identity, signed 0208): 以英媒報導中國學者稱若美方要求中國協助結束俄烏戰爭、北京或要求美中發表新聯合公報把「不支持台獨」改為「反對台獨」、川普否認與習近平討論該議題為引，論中共真正要消滅的是中華民國而非台獨（毛澤東第一代中共曾支持台獨以驅逐外來政權，其後「共獨」將中華民國趕出大陸，故只能扣台獨帽子反台獨以掩叛亂組織消滅自己國家之無正當性）；論民進黨為進入中華民國體制的「參政團體」、台獨團體為追求政治信仰的「政治運動團體」，各有正當性；批「利益台獨」揹台獨神主牌進入體制分一杯羹卻稱在台灣之中華民國與1912年之中華民國非同一國（同一部憲法）是低劣騙術，「就像一個人大口啃牛排卻說不吃牛肉」；並批國民黨一面捍衛中華民國一面隨中共喊反台獨 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/61527/)（存檔 `knowledge/web-archives/taiwandaily-net-61527-61527.md`）；川普、習近平、毛澤東、李登輝、賴清德 欄內被報導人物，不代筆添條
+- **2025-02-01** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「黨與政關係的變遷」 (政治評論 lane; byline 作者為中山大學退休教授、台灣安全促進會會長 — matches page, signed 0201): 比較兩大黨黨與政關係的結構性變遷——國民黨出身獨裁政黨、掌握國家資源、形成穩定分配制度與利益共同體，故能以黨領政、行政立法一體聽命黨中央；馬英九主張黨政分離、歧視台灣人地方派系、對王金平掀內鬥，2014 期中選舉政黨崩解、企業獻金移轉民進黨，黨反而成為總統大選阻力；民進黨出身在野、派系各自獨立只是派系聯盟，賴清德 2022 年蔡英文辭黨主席後立即搶下黨機器（2019 初選黨部數度改制度致其敗北的教訓），建立「問鼎九五先爭黨機器」先例，兩黨氣勢因之大變 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/60255/)（存檔 `knowledge/web-archives/taiwandaily-net-60255-60255.md`）
+- **2025-06-08** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「三黨都在騙！」 (政治評論 lane; byline 作者為中山大學退休教授、台灣安全促進會會長 — matches page, signed 0608): 民眾黨中常會裁示推動修憲廢監察院，他論在野時信誓旦旦喊廢監、執政即閉嘴的三黨都在詐騙——國民黨為維護「中國黨」立場不推翻孫中山五權憲法、只以預算打擊監院，民進黨喊廢考監兩院只是虛晃一招（憲改兩字矇騙支持者，廢院議案過不了立院與公民複決），小黨民眾黨正值招募人頭需建立信譽卻先掛起詐騙招牌；結論選民對詐騙咬牙切齒卻把政黨票投給詐騙集團，政黨票應投給被三大黨壓得喘不過氣的小黨 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/82069/)（存檔 `knowledge/web-archives/taiwandaily-net-82069-82069.md`）
+- **2025-06-12** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「連署戰的人算與天算」 (政治評論 lane; byline 作者為中山大學退休教授、台灣安全促進會會長 — matches page, signed 0612): 藍綠罷免大戰中綠營已有 31 位藍委通過第二階段連署、藍營罷綠委通過者為零；他揭第二階段連署「抄名單」長期是公開的秘密（秘密投票不記名、記名連署依台灣人習性不願得罪人），國民黨為抑制抄名單在立委一上任即於《選罷法》增訂第98條之2（利用他人個人資料偽造假冒連署處五年以下有期徒刑），又刻意先送《憲訴法》凍結憲法法庭、壓下《選罷法》與《財劃法》使罷免案適用舊法；結論中國打壓催生被迫害悲情與志工踴躍連署，藍營無志工、循抄名單舊路又陷入自己新修條文的檢調追查，「算得很精」反坑死自己 — [美洲台灣日報](https://taiwandaily.net/政治評論/82635/)（存檔 `knowledge/web-archives/taiwandaily-net-82635-82635.md`）
+- **2024-06-02** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「秀作過頭了」（政治評論 lane; byline 陳茂雄, 文末自註「（作者為中山大學退休教授、台灣安全促進會會長）」— matches page identity, signed 0602）: 就王義川在政論節目稱以「手機信令」大數據分析判別青鳥活動成員多數與太陽花重疊、與五一九抗議民進黨的小草為不同人群一事，記名嘴黃暐瀚質疑既已去識別化何以能辨別「誰是誰」、若真能辨別則顯示個資已被掌握並洩漏給特定人士可能違法，民進黨發言人吳崢回應稱係綜合現場、網路資訊與問卷調查事後進行的媒體分析評論；記中國國民黨團質疑執政黨政策會執行長何以掌握屬機密的個資、疑民進黨執政八年動用國家機器監控（NCC、數發部聽命秘密蒐集個資與足跡），黨團首席副書記長林思銘稱王義川公開說出民進黨利用手機定位系統分析群眾年齡與過往足跡、顯已違反通訊保障及監察法，國民黨立委許宇甄揭露 0624 表決夜立法院區內有電信訊號強波車，台北地檢署已列他字案調查、立院交通委員會將安排專案報告（以上案情均 *reported*：依該專欄所引報導轉述）。他的論點：糾葛出在王義川陳述一個常識——太陽花反馬英九、青鳥反國民黨，人員重疊本來就正常；五一九反民進黨與青鳥人員不重疊也是必然，「這些道理問小學生就可以」，偏偏王義川太愛現、故弄玄虛才引來大困擾。由此論台灣的病態：名嘴花樣百出意圖顯現對選民的說服力以抬高身價，選民只當八點檔戲劇看甚至倒著看；並記 2022 九合一選舉前名嘴打得最兇的是高虹安、選舉結果高虹安當選，結語「選民相信司法，卻完全不相信名嘴」（欄內被報導／被評論人物 王義川／黃暐瀚／吳崢／林思銘／許宇甄／賴清德／高虹安 不代筆添條） — [美洲台灣日報](https://taiwandaily.net/政治評論/21591/)（存檔 `knowledge/web-archives/taiwandaily-net-21591-21591.md`；去重：寫入前 `grep -c 21591 content/people/chen-maoxiong.md` = 0）
+- **2024-06-29** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「台獨與中華民國」 (政治評論 lane; byline 陳茂雄, 文末自註「作者為中山大學退休教授、台灣安全促進會會長」— matches page identity, signed 0629): 以中共發布「懲治台獨二十二項法令」、陸委會 6/27 將赴陸旅遊警示調升為橙色為引，論中共真正要消滅的是中華民國而非台獨——毛澤東等第一代共產黨員曾是中華民國國民、中共為叛亂組織，基於「敵人的敵人便是朋友」曾支持台獨運動以驅逐外來政權，故只能扣台獨帽子反台獨以掩其消滅自己國家之無正當性；論中華民國依《中華民國憲法》產生政府、調升淪陷地區旅遊警示正當，反詰國民黨「《中華民國憲法》哪一個條文規定不能調升」；記蔣政權不僅獨裁統治且為殖民統治、以戶籍「籍貫」區隔族群致台灣人與中國人不平等，故台獨運動定位中華民國為外來政權；論民主化後台獨由「驅逐中華民國」轉型為「正名制憲」，民進黨參政執政後未參加驅逐運動亦未推動正名制憲、實則真正捍衛中華民國但「只做不說」，與國民黨「只說不做」成對比；論國民黨由「反共保台」轉為親共、神主牌被民進黨撿走 — [美洲台灣日報](https://taiwandaily.net/政治評論/25463/)（存檔 `knowledge/web-archives/taiwandaily-net-25463-25463.md`）；毛澤東、賴清德、陸委會、中國國民黨 欄內被報導人物與機構，不代筆添條
+- **2025-06-19** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「監察院該廢卻不可能廢」 (政治評論 lane; byline 作者為中山大學退休教授、台灣安全促進會會長 — matches page, signed 0619): 引 Newtalk 新聞報導民眾黨立院黨團提出廢監察院修憲案、獲國民黨立委吳宗憲等 31 位在野委員連署並預計 6/20 成立修憲委員會為引，論監察權本應由民意代表行使、由總統任命之特任政務官執行監察權是「世紀大笑話」，孫中山將監察權置於國會之外是錯誤設計；論三黨主張廢監皆虛晃一招——國民黨在野時眼紅執政黨監委而喊廢監、民進黨號稱本土反孫文體制卻享受卅多位特任政務官資源、完全執政時有能力制憲而不為（刻意提修憲讓國民黨代擋、後改稱「憲改」實即修憲）、民眾黨學兩大黨只提修憲不在制憲下功夫；結論修憲案出得了立院也過不了公民複決，監察院壽命不可能比中華民國短，三黨不提制憲「真的是三大詐騙集團」；文末以九〇年代一位知名政治人物公開稱其侄兒（亦為政治人物）「的話若可以聽，屎也可以吃」作結，改寫為「政治人物的話若可以聽，屎也可以吃」 — [美洲台灣日報](https://taiwandaily.net/政治評論/83971/)（存檔 `knowledge/web-archives/taiwandaily-net-83971-83971.md`）；吳宗憲、賴清德、孫中山 及三黨 欄內被報導人物與機構，不代筆添條；「九〇年代那位知名政治人物及其侄兒」原文未具名，不予推定身分
+- **2025-06-14** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「由賴清德的初選談台獨的轉向」 (政治評論 lane; byline 作者為中山大學退休教授、台灣安全促進會會長 — matches page, signed 0614): 由賴清德下令黨公職不得任用配偶及三親等內親屬擔任公費助理防堵詐領助理費、台北市議員簡舒培罵「超級蠢」一事切入，論賴清德個性依循心中一把尺、幾乎無妥協空間；回溯 2019 年民進黨總統初選的「有趣畫面」——在美國的台獨意見領袖因距離權力中心較遠、仍停留在政治運動領域，幾乎都支持自稱「台獨務實工作者」的賴清德；在台灣的台獨意見領袖因接近權力中心、急欲分一杯羹，加上賴妥協空間小，絕大部分支持出身國民黨官僚體系、未曾接觸社會運動的蔡英文，賴接任副總統後又爭相抱其大腿；結論美國的台獨運動人士多數仍停留在政治運動領域，台灣的台獨意見領袖多數背著台獨「神主牌」進入中華民國體制期待分贓權力 — [美洲台灣日報](https://taiwandaily.net/政治評論/83137/)（存檔 `knowledge/web-archives/taiwandaily-net-83137-83137.md`）；賴清德/蔡英文/簡舒培 欄內被報導人物，不代筆添條
+- **2026-01-27** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「由「換柱」談「換妃」」 (政治評論 lane; byline 陳茂雄, 文末自註「作者為中山大學退休教授、台灣安全促進會會長」— matches page identity, signed 0127): 由民進黨台南市長初選「妃憲大戰」切入，記挺憲派議員要求陳亭妃簽署「二0二六民進黨勝選共同聲明，三點協議保證」（含切割無黨籍前議長郭信良、不得輔選攻擊民進黨之其他黨籍及無黨籍議員候選人）而陳亭妃未簽署，藍營傳聞總統兼黨主席賴清德時機成熟將出手「換妃」；他以國民黨「換柱」為借鏡，回顧洪秀柱依循制度登記初選產生為總統候選人、黨主席朱立倫仍「換柱」致支持者反彈具正當性、並造成國民黨分裂「造反有理」難以癒合，而「反送中」之外國民黨 2020 敗選之因即在換柱分裂；結論陳亭妃係依制度產生之候選人，若「換妃」不只輸市長選戰還造成長期性分裂，與藍營期待相反，民進黨不會那麼笨 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/119427/)（存檔 `knowledge/web-archives/taiwandaily-net-119427-119427.md`）；陳亭妃、林俊憲、郭信良、洪秀柱、朱立倫、連戰、馬英九、吳敦義、賴清德 欄內被報導人物，不代筆添條
+- **2025-12-04** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「台灣最美的是人 最醜的也是人」 (政治評論 lane; byline 陳茂雄, 文末自註「作者為中山大學退休教授、台灣安全促進會會長」— matches page identity, signed 1204): 論台灣人救災顯現冠於全球的人性之美（花蓮水災民眾持工具搶救、災民表達感恩，勝於九二一震災），但政壇嚴重對立使信徒「有立場，無是非」，再低劣的論述都有龐大信徒，成為詐騙集團溫床，故台灣最醜的也是人、最醜的不是騙子而是騙子的信徒；以自己出身台電核能工程師、被邀出席南部社團反核記者會卻從頭到尾未獲指定發言的親身經歷，佐證擁核反核者絕大部分並不懂核電、只是依政治立場表態；並自述當年與友人在美國景區觀察投幣停車程序時獲美國人主動協助的對比經驗；引朱高正「政治是高明的騙術」與林文郎評其姪兒「的話若可以聽，屎也可以吃」，改寫為「政壇的話若可以聽，屎也可以吃」 — [美洲台灣日報](https://taiwandaily.net/%e6%94%bf%e6%b2%bb%e8%a9%95%e8%ab%96/111556/)（存檔 `knowledge/web-archives/taiwandaily-net-111556-111556.md`）；馬英九/蔡英文/林義雄/朱高正/林文郎 欄內被報導人物，不代筆添條
+- **2024-06-09** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「台灣選民像韓國人或菲律賓人?」 (政治評論 lane; byline 陳茂雄, 文末自註「（作者為中山大學退休教授、台灣安全促進會會長）」— matches page identity, signed 0609): 論政客犯法後有無羞恥之心之代際退步——一名立委因違法被判刑卻疾呼「政治迫害」，自辯未炒股、未違約交割、未內線交易，並指控民進黨用刑法一百條把「五星縣長」打入大牢；敵對陣營回應其判刑實因炒股、且與妻子假離婚被判使公務員登載不實罪，與刑法一百條無關（*reported*：案情與攻防依該欄轉述，該立委於欄內未具名，不予推定身分、不代筆添條不 mint）。他回溯中國國民黨一黨獨裁年代該黨要角「法院是國民黨開的」並非言過其實，司法人員不但聽命行事還要揣摩上意；評現況：多數軍公教政治立場偏藍，但執行職務仍公正、不利用職務作弊，是台灣進步之處，就算有法官偏袒一方，也不可能三審法官都不正常。又以歷史對照：以前的政治犯被捕時高舉雙手接受聲援群眾歡呼，刑事犯則低頭或蒙面、有羞恥之心；今之政客犯法理直氣壯、反控政治迫害，道德觀一代不如一代；進步社會會協助誤觸法網者與更生人回歸正常生活，但對道德觀念淪喪、錯的都是別人者無能為力。他並質疑該立委既清楚修法後刑法一百條叛亂罪僅限「以強暴、脅迫方式」進行「叛亂」者始受追訴，為何仍指稱民進黨以該條判其刑，「是否規劃『叛亂』」。結語以韓國與菲律賓對比：韓國總統被稱全世界最危險的工作、卸任註定坐牢，但無群眾喊冤、更無「政治迫害」之名；菲律賓馬可仕貪汙大戶舉世聞名仍粉絲眾多、庇蔭妻小投入選戰高票當選——韓國人民扮演國家主人隨時考核並淘汰不肖公僕，菲律賓人還扮演政客奴才、認定主人永遠是對的；台灣政客嚴重犯錯仍有一大群粉絲，故提問「台灣選民像韓國人或菲律賓人？」（欄內被報導人物 欄內被判刑之立委（未具名）／蔣介石／馬可仕 不代筆添條；馬可仕為 foreign/歷史欄內被報導人物） — [美洲台灣日報](https://taiwandaily.net/政治評論/22595/)（存檔 `knowledge/web-archives/taiwandaily-net-22595-22595.md`；去重：寫入前 `grep -c 22595 content/people/chen-maoxiong.md` = 0）
+- **2024-06-07** *(sourced)* — 美洲台灣日報 (Taiwan Daily) published his column 「正名？ 犀牛望月」 (政治評論 lane; byline 陳茂雄, 文末自註「（作者為中山大學退休教授、台灣安全促進會會長）」— matches page identity, signed 0607): 論正名制憲之「不能」與「不為」。國際社會主張主權有三條件——國際條約、繼承、長期佔領的事實；中共認定中華人民共和國繼承中華民國，尤以 1971-10-25 聯大第 2758 號決議「承認中華人民共和國政府的代表是中國在聯合國組織的唯一合法代表」為據，國際社會承認中共繼承中華民國。依 1936-05-05 公布之《五五憲草》第四條明定台灣不是中華民國版圖，1947-01-01 公布之《中華民國憲法》亦未變更其所列版圖，故中華民國已滅亡、來台之「中華民國」是流亡政府；中國內戰本與台灣人無關，台灣人進入中華民國政府參政方造成局外人介入中國內戰。中共積極要消滅的即是在台的中華民國流亡政權——台灣的政府由台灣人依民主程序組成，卻掛中華民國招牌，無緣無故成為中共消滅對象；中共說反台獨，實質是要消滅中華民國，有心人士乃想換招牌避開中國內戰。他不涉法律問題之名稱執政者隨時可變更（陳水扁執政時執行過），涉法律之名稱需修法，國家名稱要動到憲法層級，故需將《中華民國憲法》變更為台灣的基本法、切割中華民國，才不會成為中共繼承的標的物；方法為公投，惟《公投法》第二條規定憲法及法律層級只能複決不能創制，故公投制憲須修《公投法》或另立「制憲公投法」，無論立法修法只有掌握立法權者能推動。他論民進黨完全執政時有能力而不可能做——建黨初期屬運動團體、追求政治信仰，茁壯後轉型為以執政為目標的民主政黨，不可能推展正名制憲；中國國民黨不可能制憲，民進黨亦同，推動正名制憲對選票為負面，故為吸收推展正名制憲的民眾而推出修憲，是騙局（國民黨會擋，就算不擋也通不過公民複決），綠營應淘汰推出修憲主張者。結語：積極想正名制憲者沒有能力做，有能力者為政治版圖不願做，「不為」者為拉攏「不能」者提出修憲，實為永遠不能實現之騙局（欄內被報導人物 陳水扁 及民進黨／中國國民黨／中共 等機構不代筆添條） — [美洲台灣日報](https://taiwandaily.net/政治評論/22213/)（存檔 `knowledge/web-archives/taiwandaily-net-22213-22213.md`；去重：寫入前 `grep -c 22213 content/people/chen-maoxiong.md` = 0）
+- 2022-01-13 — 本人為該頁列表唯一條目之作者：「台灣頭條」區「蔣經國救不了中國國民黨 ◎ 陳茂雄」（January 13, 2022）；「陳茂雄專欄」亦列為該站「專欄」區常設區塊，本人並列名於該頁 frontmatter authors 清單（16 人：鄭炳全、李堅、楊遠薰、唐培理、獨傲村夫、李筱峰、金恆煒、廖清山、何清漣、黃帝穎、楊子清、范姜提昂、林保華、陳昭南、陳茂雄、陳破空），該頁為「蔣經國救不了中國國民黨」標籤頁（Home > Tags > 蔣經國救不了中國國民黨，標籤標題「Tag: 蔣經國救不了中國國民黨」），見於該頁之站內導覽（[[articles/taiwanjustice-net/2022/20220521150437_tag_蔣經國救不了中國國民黨_55ee37ca3bb30d7f.md|TJJ, 2022-05-21 快照]]）。
+- 2021-07-23 — 本人為該頁列表唯一條目之作者：「我的肥皂箱」區「以德報怨 何以報德？ ◎ 陳茂雄」（July 23, 2021）；「陳茂雄專欄」亦列為該站「專欄」區常設區塊，本人並列名於該頁 frontmatter authors 清單（16 人：鄭炳全、李堅、楊遠薰、唐培理、獨傲村夫、李筱峰、金恆煒、廖清山、何清漣、黃帝穎、楊子清、范姜提昂、林保華、陳昭南、陳茂雄、陳破空），該頁為「以德報怨 何以報德？」標籤頁（Home > Tags > 以德報怨 何以報德？，標籤標題「Tag: 以德報怨 何以報德？」，列表唯一條目 我的肥皂箱「以德報怨 何以報德？ ◎ 陳茂雄」（July 23, 2021），post_date 2021-07-23，Wayback 20211025212734），見於該頁之站內導覽（[[articles/taiwanjustice-net/2021/20211025212734_tag_以德報怨-何以報德_1d59f31461613185.md|TJJ, 2021-10-25 快照]]）。
+- 2021-02-22 — 本人為該頁列表唯一條目之作者：「我的肥皂箱」區「藍白合作引爭議，藍營內部看法分歧恐先自傷 ◎ 陳茂雄」（February 22, 2021）；「陳茂雄專欄」亦列為該站「專欄」區常設區塊，本人並列名於該頁 frontmatter authors 清單（16 人），標籤標題「Tag: 藍白合作引爭議」，該頁為「Tag: 藍白合作引爭議」標籤頁（Home > Tags > 藍白合作引爭議，標籤標題「Tag: 藍白合作引爭議」，列表唯一條目 我的肥皂箱「藍白合作引爭議，藍營內部看法分歧恐先自傷 ◎ 陳茂雄」（February 22, 2021），post_date 2021-02-22，Wayback 20210419122518），見於該頁之站內導覽（[[articles/taiwanjustice-net/2021/20210419122518_tag_藍白合作引爭議_b107ed29fddc44f8.md|TJJ, 2021-04-19 快照]]）。
+
+## Related Pages
+
+- [[sources/taiwanjustice-net||taiwanjustice.net source hub]]
+- [[organizations/taiwanjustice-net||taiwanjustice.net (台灣公義網)]]
+- [[people/freeman-huang||Freeman Huang (黃樹人)]]
+- [[organizations/presbyterian-church-in-taiwan||Presbyterian Church in Taiwan (長老教會)]]
+- [[people/dr-grace-wu||Dr. Grace Wu (吳秀惠醫師)]]
+- [[people/dr-suy-ming-sam-chou||Dr. Suy Ming Sam Chou (周烒明醫師)]]
+- [[people/chen-po-kong||Chen Po-kung (陳破空)]]
+- [[people/chen-zhaonan||Chen Chao-nan (陳昭南)]]
+- [[people/frank-hsieh||Frank Hsieh (謝長廷)]]
+- [[people/wang-jinping||Wang Jin-pyng (王金平)]]
+- [[people/ma-yingjeou||Ma Ying-jeou (馬英九)]]
+- [[people/han-guoyu||Han Kuo-yu (韓國瑜)]]
+- [[people/ke-wenze||Ko Wen-je (柯文哲)]]
+- [[people/bi-khim-hsiao||Bi-khim Hsiao (蕭美琴)]]
+- [[people/lai-ching-te||Lai Ching-te (賴清德)]]
+- [[people/tsai-ing-wen||Tsai Ing-wen (蔡英文)]]
+- [[people/li-teng-hui||Lee Teng-hui (李登輝)]]
+- [[people/chen-shuibian||Chen Shui-bian (陳水扁)]]
+<!-- TJJ-A10020400-1: verified 2026-10-05 — wave-2 re-check of slice 10020400-1 article taiwanjustice-net/index (存檔索引頁): subject link re-checked vs 正文 (列名於 Key Entities／Column Authors), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10060400-5: verified 2026-10-07 — wave-2 link+deepen re-check of slice 10060400-5 articles (taiwanjustice-net/index 存檔索引頁): subject link(s) re-checked vs 正文 this attempt, real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10070700-5: verified 2026-10-09 — wave-2 link+deepen re-check of slice 10070700-5 article taiwanjustice-net/index (存檔索引頁): subject link(s) re-checked vs 正文 this attempt (列名於 Key Entities／Column Authors), real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+## 照片
+
+![20201230091024_wp-content_uploads_2011_12_chen-mao-xiung1陳茂雄](../images/people--chen-maoxiong.jpg)
+
+📷 照片取自公開檔案（來源：taiwanjustice.net，Wayback 存檔 20201230091024）。圖說為原始來源所提供，Echo 未經人工逐張查證——若您認得圖中人，歡迎回報修正。
+
+<!-- TJJ-A10100501-23: verified 2026-10-11 — wave-2 link+deepen re-check (slice 10100501-23) article taiwanjustice-net/index (存檔索引頁) read fresh this attempt: subject link re-checked vs 正文 — Key Entities Column Authors 列名「Chen Mao-xiong (陳茂雄) — 475 articles」見於正文 — real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- TJJ-A10110102-22: verified 2026-10-12 — wave-2 link+deepen re-check (slice 10110102-22) article taiwanjustice-net/index (存檔索引頁) read fresh this attempt: subject link re-checked vs 正文 — 列名於正文 Key Entities Column Authors「Chen Mao-xiong (陳茂雄) — 475 articles」 — real, no wrong/spurious links; dated fact w/ article wikilink already in From the record — saturated, no new material. -->
+
+<!-- t_d392a651 (P8, DESC_TOO_SHORT): 2026-10-17 — first paragraph expanded to a meaningful summary (subject named, role, affiliation byline, corpus statistics). All facts drawn from this page's own record (Identity Snapshot; Works header; 2021-03-24 byline 中山大學退休教授、台灣安全促進會會長; 台灣時報／自由時報／民報／小蜜蜂電報 column headers) — no biography invented. -->
+
+<!-- t_7899a8c4 (P3, LINKS_LOW_DENSITY): 2026-10-17 — link-density pass. Full wikilink scan: all 259 pre-existing links resolve against content/ (0 broken, nothing to repair/redirect). Added first-mention entity wikilinks in the hand-written prose (Identity Snapshot / From the record) and Related Pages entries for people/orgs already named in this page's own record. Every target verified to exist as an .md note in the vault before linking; no page invented, no prose reworded, no facts added. Commit only, no publish. -->
+
+

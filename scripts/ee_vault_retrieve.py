@@ -261,6 +261,33 @@ def _extract_title(raw: str, slug: str) -> str:
     return (m.group(1) if m else slug).strip()
 
 
+def _fm_names(raw: str) -> list[str]:
+    """name_en + aka/aliases frontmatter list items, plus their latin tokens.
+    2026-10-24: the v5 key builder tokenized only the title, so hanzi-titled
+    pages lost their Latin aliases — "shen bo yang" hit yang-chengwei because
+    沈伯洋's aka (Puma Shen / Shen Pao-yang) was never a key."""
+    out: list[str] = []
+    if not raw.startswith("---"):
+        return out
+    fm = raw.split("---", 2)[1]
+    m = re.search(r"^name_en:\s*[\"']?([^\"'\n]+)", fm, re.M)
+    if m:
+        out.append(m.group(1).strip())
+    for key in ("aka", "aliases", "alias"):
+        blk = re.search(rf"^{key}:\s*\n((?:[ \t]+-[ \t]+.+\n?)+)", fm, re.M)
+        if blk:
+            for line in blk.group(1).splitlines():
+                item = line.strip().lstrip("-").strip().strip("\"'")
+                if item:
+                    out.append(item)
+    for n in list(out):
+        for tok in re.findall(r"[A-Za-z][A-Za-z.'-]{2,}", n):
+            out.append(tok)
+            # split hyphenated syllables so "Pao-yang" also yields "pao","yang"
+            out.extend(t for t in tok.split("-") if len(t) >= 3)
+    return out
+
+
 def _keys_for(title: str, hanzi: str, slug: str, extra: list[str] | None = None) -> list[str]:
     keys: set[str] = set()
     blob = f"{title} {hanzi}"
@@ -309,7 +336,7 @@ def build_index() -> dict:
                     "kind": kind,
                     "title": title,
                     "hanzi": hanzi,
-                    "keys": _keys_for(title, hanzi, path.stem, extra=extra),
+                    "keys": _keys_for(title, hanzi, path.stem, extra=extra + _fm_names(raw)),
                 }
             )
     occupied = {d["slug"] for d in docs}
@@ -337,7 +364,7 @@ def build_index() -> dict:
                     "kind": "source",
                     "title": title,
                     "hanzi": hanzi,
-                    "keys": _keys_for(title, hanzi, path.stem, extra=extra),
+                    "keys": _keys_for(title, hanzi, path.stem, extra=extra + _fm_names(raw)),
                 }
             )
     data = {
@@ -578,7 +605,7 @@ def search(text: str, *, skip_slugs: list[str] | None = None, limit: int = MAX_H
         if h.get("slug"):
             seen.add(h["slug"])
     idx = load_index()
-    scored: list[tuple[int, dict]] = []
+    scored: list[tuple[int, int, dict]] = []
     hay = t
     hay_l = t.lower()
     org_marks: set[str] = set()
@@ -595,6 +622,7 @@ def search(text: str, *, skip_slugs: list[str] | None = None, limit: int = MAX_H
         if slug in seen:
             continue
         best = 0
+        nmatch = 0
         keys = doc.get("keys") or []
         keyset = {str(k).lower() for k in keys if k}
         if org_marks and (org_marks & keyset):
@@ -604,18 +632,25 @@ def search(text: str, *, skip_slugs: list[str] | None = None, limit: int = MAX_H
                 continue
             if re.search(r"[\u4e00-\u9fff]", key):
                 if key in hay:
+                    nmatch += 1
                     best = max(best, len(key) * 3)
             else:
                 if re.search(rf"\b{re.escape(key)}\b", hay_l, re.I):
+                    nmatch += 1
                     best = max(best, len(key))
+        if best and nmatch >= 2:
+            best += 10  # multi-key coverage beats single-token surname collisions
         if best:
-            scored.append((best, doc))
-    scored.sort(key=lambda x: (-x[0], x[1].get("title") or ""))
+            scored.append((best, nmatch, doc))
+    # tie-break by title only (2026-10-24: -nmatch tie-break demoted person
+    # pages behind wikilink-heavy docs and broke test_tahs_query_retrieves_affiliates)
+    scored.sort(key=lambda x: (-x[0], x[2].get("title") or ""))
     idx_hits: list[dict] = []
-    for _score, doc in scored:
+    for _score, _nm, doc in scored:
         packed = _page_card(doc["slug"], kind=doc.get("kind") or "")
         if not packed.get("hit"):
             continue
+        packed["score"] = _score
         idx_hits.append(packed)
         seen.add(packed["slug"])
         if len(idx_hits) >= limit:
@@ -624,10 +659,19 @@ def search(text: str, *, skip_slugs: list[str] | None = None, limit: int = MAX_H
     sqlite = _sqlite_hits(t, set(skip) | {h.get("slug") or "" for h in hits}, limit)
     merged: list[dict] = []
     seen_m = set(skip)
-    for card in hits + sqlite + idx_hits:
+    strong_idx = [c for c in idx_hits if (c.get("score") or 0) >= 14]
+    weak_idx = [c for c in idx_hits if (c.get("score") or 0) < 14]
+    for card, src in (
+        [(c, "alias") for c in hits]
+        + [(c, "index") for c in strong_idx]  # multi-key index hit beats token noise
+        + [(c, "sqlite") for c in sqlite]
+        + [(c, "index") for c in weak_idx]
+    ):
         slug = card.get("slug") or ""
         if not slug or slug in seen_m:
             continue
+        card = dict(card)
+        card.setdefault("src", src)
         merged.append(card)
         seen_m.add(slug)
         if len(merged) >= limit:

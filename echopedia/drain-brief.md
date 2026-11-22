@@ -1,45 +1,45 @@
-## Queue drain — 2026-11-13
+## Queue drain — 2026-11-21
 - Items: **40**
 
-- `people/nanfang-shuo.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/sang-pu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/xia-ming.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/huang-yongcheng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/kuan-cheng-lu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/po-wei-lai.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/chao-sile.md`: add last_reviewed, WROTE
-- `people/deng-shuzhen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/karen-chia-ling-ho.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `organizations/global-hakka-un-ngo-applying-committee-un-ngo.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `organizations/north-america-pastel-artist-association.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/mei-li-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/agnes-hsu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/hsien-ann-meng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/vera-hui-pin-hsu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/jerry-jean.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/zheng-qinren.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/kerina-chang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/mao-chung-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/feng-hsu-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `organizations/chhong-bi-memorial-fund.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `organizations/taiwanese-student-association-for-public-affairs.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/ching-fen-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/janice-wong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/amanda-shumin-yang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/wei-ling-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/yi-hsin-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/nancy-jan.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/shih-peng-chang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/eric-teng-kuan-huang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/joshepine-chuang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/yiwei-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/pei-shan-lee.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/hsiang-ling-hsiao.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/san-nan-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/kai-ching-chang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/stanley-sun.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/felicia-tang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/prof-tai-chang-chiang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/janet-tsai.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/winnie-chiu.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `events/ev-winter-reunion.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `events/ev-s-30th-anniversary.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `organizations/taiwanese-association-of-alabama-birmingham.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/rev-james-chang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/rev-h-d-chen.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/prof-yang-en-cheng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/rev-c-l-tong.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/chee-hway-tsai.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `organizations/boston-university-taiwanese-student-association.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/rev-james-i-cheng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/shih-chieh-huang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/prof-sze-ya-yeh.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/tah-p-b256f6296d.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/rev-edward-bin-tanng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/prof-tian-min-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `topics/t-沈伯洋真的遭到境外監控-民進黨-中國跨國鎮壓已不是第一案.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `topics/t-中國介選鎖定沈伯洋父親-安保協會揭-港媒抹黑-國台辦制裁-時間軸-家族企業二度遭懲戒.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `sources/ettoday-taipei-mayor-poll-2026-10-27.md`: refresh last_reviewed, WROTE
+- `sources/gwytb-chenbinhua-2026-10-28.md`: refresh last_reviewed, WROTE
+- `topics/t-中共涉假車禍跨國鎮壓黃逸豪政院協處平台啟動因應-政治-要聞-udn.md`: add Related Pages stub, WROTE
+- `topics/t-中跨境指使5人-教訓-台相聲演員-諷習-陸委會-嚴厲譴責中共跨國鎮壓行為.md`: add Related Pages stub, WROTE
+- `topics/t-黃逸豪諷習近平遭-假車禍-撞傷-陸委會怒轟中共跨國鎮壓.md`: add Related Pages stub, WROTE
+- `topics/t-黃逸豪諷習遭買凶撞傷-范雲-民主台灣不容跨國鎮壓-newtalk.md`: add Related Pages stub, WROTE
+- `topics/t-黃逸豪遭-跨國鎮壓-國安局揭-暴力恐嚇-假車禍-都是統戰滲透手法.md`: add Related Pages stub, WROTE
+- `people/黃逸豪.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `sources/cna-taipei-ballot-number-2026-10-27.md`: add last_reviewed, WROTE
+- `topics/t-黃逸豪遭跨國鎮壓-傅崐萁突隔空聲援-范雲酸爆-藍白阻擋國安法案1347次.md`: add Related Pages stub, WROTE
+- `topics/t-黃逸豪遭中國跨國鎮壓-傅崐萁譴責暴力-綠批-藍白擋國安法案1347次.md`: add Related Pages stub, WROTE
+- `topics/kanola-deck-kickoff-premeeting-2026-10-22.md`: add Related Pages stub, WROTE
+- `topics/kanola-deck-kickoff-premeeting-2-2026-10-22.md`: add Related Pages stub, WROTE
+- `topics/t-跨國鎮壓事件頻傳-卓榮泰指示檢警-專案保護-參選人.md`: add Related Pages stub, WROTE
+- `people/_quarantine/卓榮泰指.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `topics/t-黃逸豪諷習遭攻擊-中共跨國鎮壓製造寒蟬效應.md`: add Related Pages stub, WROTE
+- `topics/t-多起疑似跨國鎮壓事件-卓榮泰要求以專案保護候選人安全.md`: add Related Pages stub, WROTE
+- `topics/t-應對中國跨國鎮壓的台灣經驗-李明哲赴歐洲人權倡議巡講-呼籲民主社會應互信互助-轉.md`: add Related Pages stub, WROTE
+- `topics/t-記者編輯部-王崑義專欄-92-台灣人反對和平統一-陸委會不該操作民調.md`: add Related Pages stub, WROTE
+- `topics/t-快新聞-相聲演員遭跨國鎮壓-陳水扁力挺飆國罵x.md`: add Related Pages stub, WROTE
+- `people/王崑義.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 
 Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link batch.

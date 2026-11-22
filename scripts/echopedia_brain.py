@@ -19,7 +19,7 @@ from pathlib import Path
 
 SCRIPTS = Path(__file__).resolve().parent
 HERMES_SCRIPTS = Path.home() / ".hermes" / "scripts"
-PUBLIC = "https://echocanhelp.github.io/wiki-public"
+PUBLIC = "https://echopedia.tah-society.org"
 
 _OPS = re.compile(
     r"(?i)^\s*go\b|"
@@ -89,8 +89,8 @@ def _should_skip(query: str) -> bool:
 
 # Scratch / audiobook review pages swamp "who is Albert" with extra hits.
 # Keep them when the query itself is about those pages.
-_NOISE_SLUG = re.compile(r"(?i)(?:scratch|audiobook|sku-a|chapter\d)")
-_NOISE_QUERY = re.compile(r"(?i)(?:audiobook|scratch|sku[- ]?a|chapter\s*\d)")
+_NOISE_SLUG = re.compile(r"(?i)(?:scratch|audiobook|sku-[a-z]|publisher-review|chapter\d)")
+_NOISE_QUERY = re.compile(r"(?i)(?:audiobook|scratch|sku[- ]?[a-z]|publisher.review|chapter\s*\d)")
 
 
 def _noise_slug(slug: str, query: str = "") -> bool:

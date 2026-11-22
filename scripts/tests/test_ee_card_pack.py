@@ -18,9 +18,9 @@ def test_known_org_slug_has_wiki_public_url_only():
     assert card["hit"] is True
     assert card["slug"] == "good-shepherd-taiwanese-presbyterian-church"
     assert card["kind"] == "org"
-    assert card["url"].startswith("https://echocanhelp.github.io/wiki-public/")
+    assert card["url"].startswith("https://echopedia.tah-society.org/")
     assert "wikipedia.org" not in card["url"]
-    assert "http" not in card.get("one_liner", "") or "echocanhelp.github.io" in card.get("one_liner", "")
+    assert "http" not in card.get("one_liner", "") or "echopedia.tah-society.org" in card.get("one_liner", "")
 
 
 def test_unknown_is_miss_not_invented():

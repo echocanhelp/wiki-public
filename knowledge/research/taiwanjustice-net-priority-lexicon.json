@@ -19603,14 +19603,15 @@
     },
     {
       "id": "l2:p-f-yu-name",
-      "slug": "p-f-yu-name",
+      "slug": "p-f-yu",
       "band": "L2",
-      "name_en": "P. F. Yu Name",
+      "name_en": "P. F. Yu",
       "name_zh": "喻鵬飛",
       "aliases": [
+        "P. F. Yu",
         "P. F. Yu Name",
         "喻鵬飛",
-        "P. F. Yu Name (喻鵬飛)"
+        "P. F. Yu (喻鵬飛)"
       ],
       "notes": "content/people"
     },

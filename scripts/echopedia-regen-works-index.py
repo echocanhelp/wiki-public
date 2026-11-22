@@ -91,6 +91,11 @@ def main() -> int:
 
     src_blocks = []
     listed_n = 0
+    # pinto 2026-10-31: mobile perf cap (Echo LINE explorer-hang report). The works
+    # hub HTML is server-rendered; the unbounded list hit 12k li / 2.9MB and hung
+    # Edge/Android. Cap per source, then overall; note directs to search.
+    PER_SOURCE_CAP = 200
+    TOTAL_CAP = 1500
     for src, items in sorted(by_src.items()):
         c = counts[src]
         listed = sorted(
@@ -98,12 +103,21 @@ def main() -> int:
             key=lambda r: (r["date"] or "", r["title"]),
             reverse=True,
         )
+        cap_lines = []
+        if len(listed) > PER_SOURCE_CAP:
+            listed = listed[:PER_SOURCE_CAP]
+        if listed_n + len(listed) > TOTAL_CAP:
+            listed = listed[: max(0, TOTAL_CAP - listed_n)]
+        if len(listed) < c.get("all", 0):
+            cap_lines.append(
+                f"_Showing first {len(listed)} of {c.get('all', 0)} — use header **search** for titles not listed._"
+            )
         listed_n += len(listed)
         lines = "\n".join(md_link(r) for r in listed) or "_No work pages yet._"
         src_blocks.append(
             f"### {src}\n\n"
-            f"A {c.get('A', 0)} · B {c.get('B', 0)} · C {c.get('C', 0)} · total {c.get('all', 0)} "
-            f"— full list, never truncated.\n\n"
+            f"A {c.get('A', 0)} · B {c.get('B', 0)} · C {c.get('C', 0)} · total {c.get('all', 0)}\n\n"
+            f"{chr(10).join(cap_lines) + chr(10) + chr(10) if cap_lines else ''}"
             f"{lines}"
         )
 
@@ -119,7 +133,7 @@ last_reviewed: 2026-08-20
 ---
 # Stories & historical works
 
-Interviews, oral history, and named-subject features absorbed as Echopedia **work** pages. **Every** A/B/C work we have is listed below (not a teaser). Use header **search** to jump to a title or 漢名.
+Interviews, oral history, and named-subject features absorbed as Echopedia **work** pages. Recent works per source are listed (capped for fast mobile loading); use header **search** to jump to any title or 漢名 — search covers the full corpus.
 
 <!-- works-index-start -->
 ## Featured stories

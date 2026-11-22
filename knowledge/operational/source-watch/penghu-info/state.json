@@ -38,30 +38,30 @@
       "baseline": false
     },
     "https://penghu.info/OB23C512046DFE3D988E": {
-      "hash": "8674e6b2ac67b77eda150a993c13fe28",
-      "len": 29876,
+      "hash": "d68f90cd6d44afc778cb2aed6f362486",
+      "len": 30975,
       "code": 200,
       "baseline": false
     },
     "https://penghu.info/OB3BAC46B986E5DBC51B": {
-      "hash": "8727d21f639625a15d47a3d1985ae00a",
-      "len": 29379,
+      "hash": "c9562fc6c814a92d85aa5ea34a274f12",
+      "len": 30478,
       "code": 200,
       "baseline": false
     },
     "https://penghu.info/OB2C73E27C74756946C9": {
-      "hash": "27b815aa2a66ee14f77b25238ff8b5f6",
-      "len": 28071,
+      "hash": "f2f27bcd8966e26fb9fb1ede5d3dd7a3",
+      "len": 29170,
       "code": 200,
       "baseline": false
     },
     "https://penghu.info/OBC70EF284CBE5C8FB3C": {
-      "hash": "84e8657d2ef7736a26834ad517aee675",
-      "len": 28641,
+      "hash": "e17d9937c9edcb1ca357b0c3a1494c16",
+      "len": 29740,
       "code": 200,
       "baseline": false
     }
   },
-  "last_poll": "2026-11-09T07:52:01Z",
+  "last_poll": "2026-11-16T07:51:23Z",
   "baseline_at": "2026-08-22T18:40:14Z"
 }

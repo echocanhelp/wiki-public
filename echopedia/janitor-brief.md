@@ -1,49 +1,49 @@
-## Echopedia Janitor — 2026-11-12
+## Echopedia Janitor — 2026-11-20
 - Standards v10
-- Pages with findings: **470**
+- Pages with findings: **686**
 - Queued tonight (max 40): **40**
 - Queue:
-  - `people/nanfang-shuo.md` age≈75.2d · NO_IDENTITY_SNAPSHOT
-  - `people/sang-pu.md` age≈75.2d · NO_IDENTITY_SNAPSHOT
-  - `people/xia-ming.md` age≈75.2d · NO_IDENTITY_SNAPSHOT
-  - `people/huang-yongcheng.md` age≈64.2d · NO_IDENTITY_SNAPSHOT
-  - `people/kuan-cheng-lu.md` age≈63.2d · LINK_BODY_SPARSE
-  - `people/po-wei-lai.md` age≈63.2d · LINK_BODY_SPARSE
-  - `people/chao-sile.md` age≈42.8d · NO_TYPE, NO_IDENTITY_SNAPSHOT, NO_LAST_REVIEWED
-  - `people/deng-shuzhen.md` age≈62.2d · LINK_BODY_SPARSE
-  - `people/karen-chia-ling-ho.md` age≈61.2d · LINK_BODY_SPARSE
-  - `organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md` age≈60.2d · LINK_BODY_SPARSE
-  - `organizations/global-hakka-un-ngo-applying-committee-un-ngo.md` age≈60.2d · LINK_BODY_SPARSE
-  - `organizations/north-america-pastel-artist-association.md` age≈60.2d · LINK_BODY_SPARSE
-  - `people/mei-li-chen.md` age≈60.2d · LINK_BODY_SPARSE
-  - `people/agnes-hsu.md` age≈60.2d · LINK_BODY_SPARSE
-  - `people/hsien-ann-meng.md` age≈60.2d · LINK_BODY_SPARSE
-  - `people/vera-hui-pin-hsu.md` age≈60.2d · LINK_BODY_SPARSE
-  - `people/jerry-jean.md` age≈60.2d · LINK_BODY_SPARSE
-  - `people/zheng-qinren.md` age≈60.2d · NO_IDENTITY_SNAPSHOT
-  - `people/kerina-chang.md` age≈60.2d · LINK_BODY_SPARSE
-  - `people/mao-chung-lee.md` age≈60.2d · LINK_BODY_SPARSE
-  - `people/feng-hsu-lee.md` age≈60.2d · LINK_BODY_SPARSE
-  - `organizations/chhong-bi-memorial-fund.md` age≈59.2d · LINK_BODY_SPARSE
-  - `organizations/taiwanese-student-association-for-public-affairs.md` age≈59.2d · LINK_BODY_SPARSE
-  - `people/ching-fen-lin.md` age≈59.2d · LINK_BODY_SPARSE
-  - `people/janice-wong.md` age≈59.2d · LINK_BODY_SPARSE
-  - `people/amanda-shumin-yang.md` age≈59.2d · LINK_BODY_SPARSE
-  - `people/wei-ling-chen.md` age≈59.2d · LINK_BODY_SPARSE
-  - `people/yi-hsin-lin.md` age≈59.2d · LINK_BODY_SPARSE
-  - `people/nancy-jan.md` age≈59.2d · LINK_BODY_SPARSE
-  - `people/shih-peng-chang.md` age≈59.2d · LINK_BODY_SPARSE
-  - `people/eric-teng-kuan-huang.md` age≈59.2d · LINK_BODY_SPARSE
-  - `people/joshepine-chuang.md` age≈59.2d · LINK_BODY_SPARSE
-  - `people/yiwei-lin.md` age≈59.2d · LINK_BODY_SPARSE
-  - `people/pei-shan-lee.md` age≈59.2d · LINK_BODY_SPARSE
-  - `people/hsiang-ling-hsiao.md` age≈59.2d · LINK_BODY_SPARSE
-  - `people/san-nan-chen.md` age≈59.2d · LINK_BODY_SPARSE
-  - `people/kai-ching-chang.md` age≈59.2d · LINK_BODY_SPARSE
-  - `people/stanley-sun.md` age≈59.2d · LINK_BODY_SPARSE
-  - `people/felicia-tang.md` age≈59.2d · LINK_BODY_SPARSE
-  - `people/prof-tai-chang-chiang.md` age≈59.2d · LINK_BODY_SPARSE
-- Log: `knowledge/operational/janitor-log/2026-11-12.jsonl`
+  - `people/janet-tsai.md` age≈66.2d · LINK_BODY_SPARSE
+  - `people/winnie-chiu.md` age≈66.2d · LINK_BODY_SPARSE
+  - `events/ev-winter-reunion.md` age≈65.2d · LINK_BODY_SPARSE
+  - `events/ev-s-30th-anniversary.md` age≈65.2d · LINK_BODY_SPARSE
+  - `organizations/taiwanese-association-of-alabama-birmingham.md` age≈57.2d · LINK_BODY_SPARSE
+  - `people/rev-james-chang.md` age≈52.2d · LINK_BODY_SPARSE
+  - `people/rev-h-d-chen.md` age≈51.2d · LINK_BODY_SPARSE
+  - `people/prof-yang-en-cheng.md` age≈47.2d · LINK_BODY_SPARSE
+  - `people/rev-c-l-tong.md` age≈47.2d · LINK_BODY_SPARSE
+  - `people/chee-hway-tsai.md` age≈45.2d · LINK_BODY_SPARSE
+  - `organizations/boston-university-taiwanese-student-association.md` age≈44.2d · LINK_BODY_SPARSE
+  - `people/rev-james-i-cheng.md` age≈42.2d · LINK_BODY_SPARSE
+  - `people/shih-chieh-huang.md` age≈42.2d · LINK_BODY_SPARSE
+  - `people/prof-sze-ya-yeh.md` age≈41.2d · LINK_BODY_SPARSE
+  - `people/tah-p-b256f6296d.md` age≈41.2d · LINK_BODY_SPARSE
+  - `people/rev-edward-bin-tanng.md` age≈40.2d · LINK_BODY_SPARSE
+  - `people/prof-tian-min-lin.md` age≈39.2d · LINK_BODY_SPARSE
+  - `topics/t-沈伯洋真的遭到境外監控-民進黨-中國跨國鎮壓已不是第一案.md` age≈38.2d · LINK_BODY_SPARSE
+  - `topics/t-中國介選鎖定沈伯洋父親-安保協會揭-港媒抹黑-國台辦制裁-時間軸-家族企業二度遭懲戒.md` age≈34.2d · LINK_BODY_SPARSE
+  - `sources/ettoday-taipei-mayor-poll-2026-10-27.md` age≈22.0d · NO_LAST_REVIEWED
+  - `sources/gwytb-chenbinhua-2026-10-28.md` age≈22.0d · NO_LAST_REVIEWED
+  - `topics/t-中共涉假車禍跨國鎮壓黃逸豪政院協處平台啟動因應-政治-要聞-udn.md` age≈31.2d · NO_RELATED_PAGES
+  - `topics/t-中跨境指使5人-教訓-台相聲演員-諷習-陸委會-嚴厲譴責中共跨國鎮壓行為.md` age≈31.2d · NO_RELATED_PAGES
+  - `topics/t-黃逸豪諷習近平遭-假車禍-撞傷-陸委會怒轟中共跨國鎮壓.md` age≈31.2d · NO_RELATED_PAGES
+  - `topics/t-黃逸豪諷習遭買凶撞傷-范雲-民主台灣不容跨國鎮壓-newtalk.md` age≈31.2d · NO_RELATED_PAGES
+  - `topics/t-黃逸豪遭-跨國鎮壓-國安局揭-暴力恐嚇-假車禍-都是統戰滲透手法.md` age≈31.2d · NO_RELATED_PAGES
+  - `people/黃逸豪.md` age≈31.2d · 
+  - `sources/cna-taipei-ballot-number-2026-10-27.md` age≈21.0d · NO_LAST_REVIEWED
+  - `topics/t-黃逸豪遭跨國鎮壓-傅崐萁突隔空聲援-范雲酸爆-藍白阻擋國安法案1347次.md` age≈30.2d · NO_RELATED_PAGES
+  - `topics/t-黃逸豪遭中國跨國鎮壓-傅崐萁譴責暴力-綠批-藍白擋國安法案1347次.md` age≈30.2d · NO_RELATED_PAGES
+  - `topics/kanola-deck-kickoff-premeeting-2026-10-22.md` age≈30.2d · NO_RELATED_PAGES
+  - `topics/kanola-deck-kickoff-premeeting-2-2026-10-22.md` age≈30.2d · NO_RELATED_PAGES
+  - `topics/t-跨國鎮壓事件頻傳-卓榮泰指示檢警-專案保護-參選人.md` age≈30.2d · NO_RELATED_PAGES
+  - `people/_quarantine/卓榮泰指.md` age≈30.2d · 
+  - `topics/t-黃逸豪諷習遭攻擊-中共跨國鎮壓製造寒蟬效應.md` age≈29.2d · NO_RELATED_PAGES
+  - `topics/t-多起疑似跨國鎮壓事件-卓榮泰要求以專案保護候選人安全.md` age≈29.2d · NO_RELATED_PAGES
+  - `topics/t-應對中國跨國鎮壓的台灣經驗-李明哲赴歐洲人權倡議巡講-呼籲民主社會應互信互助-轉.md` age≈29.2d · NO_RELATED_PAGES
+  - `topics/t-記者編輯部-王崑義專欄-92-台灣人反對和平統一-陸委會不該操作民調.md` age≈29.2d · NO_RELATED_PAGES
+  - `topics/t-快新聞-相聲演員遭跨國鎮壓-陳水扁力挺飆國罵x.md` age≈29.2d · NO_RELATED_PAGES
+  - `people/王崑義.md` age≈29.2d · 
+- Log: `knowledge/operational/janitor-log/2026-11-20.jsonl`
 - Agent auto-apply: **False** (local pin only if enabled)
 - First-mention AUTO: **0**
-QC_SUMMARY: pages_added=19 below_threshold=7 — content/people/annie-lee.md, content/people/c-k-kuo.md, content/people/dr-hsinlin-cheng.md, content/people/fan-jiang-ti-ang.md, content/people/i-jen-chen.md, content/people/ian-chen.md, content/people/yang-yueqing.md
+QC_SUMMARY: pages_added=82 below_threshold=74 — content/organizations/association-of-taiwanese-students-at-mit.md, content/organizations/california-state-university-long-beach.md, content/organizations/fapa-los-angeles.md, content/organizations/good-shepherd-taiwanese-presbyterian-church.md, content/organizations/harvard-gsas-taiwanese-roc-student-club.md, content/organizations/new-york-taiwan-center.md, content/organizations/north-america-pastel-artist-association.md, content/organizations/north-america-taiwanese-womens-association-southern-california-chapter.md, content/organizations/ntu-alumni-association-of-southern-california.md, content/organizations/rice-taiwanese-association.md, content/organizations/taiwan-daily.md, content/organizations/taiwan-hotel-motel-association-of-southern-california.md, content/organizations/taiwanese-american-association-new-york.md, content/organizations/taiwanese-american-historical-society.md, content/organizations/taiwanese-association-of-america-east-tennessee.md, content/organizations/the-great-new-york-region-oversea-taiwanese-pen-club.md, content/people/c-y-liu.md, content/people/cao-changqing.md, content/people/ching-sze-hsieh.md, content/people/christina-hu.md, content/people/cossette-sun.md, content/people/dr-ching-c-shir.md, content/people/dr-gichiong-khu.md, content/people/dr-jenta-shen.md, content/people/dr-jii-james-shieh.md, content/people/dr-kuochih-hong.md, content/people/dr-lii-mei-beverly-chang.md, content/people/dr-peter-huang.md, content/people/dr-peter-tsai.md, content/people/dr-shug-hong-young.md, content/people/dr-teng-lung-hsu.md, content/people/george-leslie-mackay.md, content/people/gong-sun-le.md, content/people/henry-lee.md, content/people/jensen-huang.md, content/people/john-chun-liu.md, content/people/john-hsu.md, content/people/joseph-teng.md, content/people/lai-junming.md, content/people/leona-chen.md, content/people/lin-mei-li.md, content/people/ma-yingjeou.md, content/people/martin-tsai.md, content/people/michael-s-k-chen.md, content/people/min-mei-chen.md, content/people/ming-shian-kao.md, content/people/nami-yang.md, content/people/pan-yi-ling.md, content/people/peirong-lo.md, content/people/prof-ben-liu.md, content/people/prof-je-chin-han.md, content/people/r-f-huang.md, content/people/rev-ai-chih-tsai.md, content/people/rev-j-c-cheng.md, content/people/rev-r-h-chang.md, content/people/richard-d-fisher.md, content/people/rue-lin-hung.md, content/people/ryan-hass.md, content/people/s-w-yang.md, content/people/samantha-yu.md, content/people/sharon-cheng.md, content/people/stephanie-chang.md, content/people/symeon-woo.md, content/people/tom-yang.md, content/people/tony-lee.md, content/people/yang-xin.md, content/people/yung-hwa-hsu.md, content/people/zheng-xikun.md, content/people/zou-jingwen.md, content/people/卓榮泰.md, content/people/林雅玲.md, content/people/范雲.md, content/people/邱垂正.md, content/people/鄭銘謙.md

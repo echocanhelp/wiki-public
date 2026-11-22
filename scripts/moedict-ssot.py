@@ -34,7 +34,7 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-UA = "Echopedia-moedict-ssot/1.1 (TAHS; +https://echocanhelp.github.io/wiki-public/)"
+UA = "Echopedia-moedict-ssot/1.1 (TAHS; +https://echopedia.tah-society.org/)"
 API_T = "https://www.moedict.tw/t/{word}.json"
 API_TRS = "https://www.moedict.tw/lookup/trs/{q}"
 API_INDEX = "https://www.moedict.tw/t/index.json"

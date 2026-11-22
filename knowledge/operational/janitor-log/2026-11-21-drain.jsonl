@@ -1,0 +1,40 @@
+{"path": "people/janet-tsai.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/winnie-chiu.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/ev-winter-reunion.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/ev-s-30th-anniversary.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/taiwanese-association-of-alabama-birmingham.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/rev-james-chang.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/rev-h-d-chen.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/prof-yang-en-cheng.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/rev-c-l-tong.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/chee-hway-tsai.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/boston-university-taiwanese-student-association.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/rev-james-i-cheng.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/shih-chieh-huang.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/prof-sze-ya-yeh.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/tah-p-b256f6296d.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/rev-edward-bin-tanng.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/prof-tian-min-lin.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "topics/t-沈伯洋真的遭到境外監控-民進黨-中國跨國鎮壓已不是第一案.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "topics/t-中國介選鎖定沈伯洋父親-安保協會揭-港媒抹黑-國台辦制裁-時間軸-家族企業二度遭懲戒.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "sources/ettoday-taipei-mayor-poll-2026-10-27.md", "findings": ["NO_LAST_REVIEWED"], "acts": ["refresh last_reviewed", "WROTE"]}
+{"path": "sources/gwytb-chenbinhua-2026-10-28.md", "findings": ["NO_LAST_REVIEWED"], "acts": ["refresh last_reviewed", "WROTE"]}
+{"path": "topics/t-中共涉假車禍跨國鎮壓黃逸豪政院協處平台啟動因應-政治-要聞-udn.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-中跨境指使5人-教訓-台相聲演員-諷習-陸委會-嚴厲譴責中共跨國鎮壓行為.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-黃逸豪諷習近平遭-假車禍-撞傷-陸委會怒轟中共跨國鎮壓.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-黃逸豪諷習遭買凶撞傷-范雲-民主台灣不容跨國鎮壓-newtalk.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-黃逸豪遭-跨國鎮壓-國安局揭-暴力恐嚇-假車禍-都是統戰滲透手法.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "people/黃逸豪.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "sources/cna-taipei-ballot-number-2026-10-27.md", "findings": ["NO_LAST_REVIEWED"], "acts": ["add last_reviewed", "WROTE"]}
+{"path": "topics/t-黃逸豪遭跨國鎮壓-傅崐萁突隔空聲援-范雲酸爆-藍白阻擋國安法案1347次.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-黃逸豪遭中國跨國鎮壓-傅崐萁譴責暴力-綠批-藍白擋國安法案1347次.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/kanola-deck-kickoff-premeeting-2026-10-22.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/kanola-deck-kickoff-premeeting-2-2026-10-22.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-跨國鎮壓事件頻傳-卓榮泰指示檢警-專案保護-參選人.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "people/_quarantine/卓榮泰指.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "topics/t-黃逸豪諷習遭攻擊-中共跨國鎮壓製造寒蟬效應.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-多起疑似跨國鎮壓事件-卓榮泰要求以專案保護候選人安全.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-應對中國跨國鎮壓的台灣經驗-李明哲赴歐洲人權倡議巡講-呼籲民主社會應互信互助-轉.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-記者編輯部-王崑義專欄-92-台灣人反對和平統一-陸委會不該操作民調.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-快新聞-相聲演員遭跨國鎮壓-陳水扁力挺飆國罵x.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "people/王崑義.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}

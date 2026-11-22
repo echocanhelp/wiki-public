@@ -227,12 +227,18 @@ def active_slice(ym):
     con.close()
     ns = [0]
     active = gate
+    n_active = 0
     for tid, title, status in rows:
         m = re.search(r'-s(\d+)$', strip_gate_chunk_suffix(title))
         ns.append(int(m.group(1)) if m else 1)
         if status != 'done':
             active = True
-    return active, max(ns) + 1
+            n_active += 1
+    # TD-AHEAD-20261119: return outstanding-slice count + gate flag so the
+    # main loop can pre-mint several disjoint slices per month under
+    # TD_DOMAIN_AHEAD (default 1 = the original one-outstanding behavior).
+    # A manifest-incomplete GATE still hard-blocks ahead-minting.
+    return active, max(ns) + 1, n_active, gate
 
 def make_card(title, body, max_runtime='5400'):
     """Create-time caps are LOOSE on purpose (SSOT S1): the clock must never
@@ -383,10 +389,16 @@ def main():
             continue
         # Dedupe on the DB, never on state['carded']. Active slice -> skip;
         # all slices done -> mint the next slice (continuation, Grok F1).
-        active, next_n = active_slice(ym)
-        if active:
+        # TD-AHEAD-20261119: TD_DOMAIN_AHEAD (default 1 = original behavior)
+        # lets a month keep up to N outstanding slices. Multi-slices are
+        # frozen from ONE prep_batches call => disjoint position batches.
+        # When continuing an already-active month, verify the current prep's
+        # partition still matches the frozen bodies of the incomplete slices
+        # (no ledger-drift overlap); on drift, skip the month this run.
+        AHEAD = max(1, int(os.environ.get('TD_DOMAIN_AHEAD', '1')))
+        active, next_n, n_active, gate = active_slice(ym)
+        if active and (gate or n_active >= AHEAD):
             continue
-        a = f'TAIWANDAILY-ABSORB-{ym}-s{next_n}'
         batches, stats = prep_batches(ym, batch)
         if batches is None:
             print('prep-failed', ym, stats)
@@ -404,14 +416,43 @@ def main():
             print('covered-or-empty', ym, stats)
             carded.add(ym)
             continue
+        slice_n = next_n
+        n_out = n_active
+        # TD-AHEAD-20261119 frontier mint: drop URLs already frozen in this
+        # month's INCOMPLETE slices (and decided, which prep already drops),
+        # re-chunk, then mint beyond the highest existing slice number.
+        # Disjoint vs incomplete slices (excluded), vs each other (position
+        # chunks), and titles exceed all existing sN — no drift dependence.
+        frozen_urls = set()
+        if n_active:
+            con_ro = sqlite3.connect(f'file:{DB}?mode=ro', uri=True)
+            rows_inc = con_ro.execute(
+                "select body from tasks where title like ? "
+                "and title not like '%-v1' and status not in ('done','archived')",
+                (f'TAIWANDAILY-ABSORB-{ym}-s%',)).fetchall()
+            con_ro.close()
+            for (_b,) in rows_inc:
+                frozen_urls.update(re.findall(
+                    r'^\d+\.\s+`(https?://[^`]+)`', _b, re.M))
+        items_flat = [it for b in batches for it in b
+                      if it['url'] not in frozen_urls]
+        fwd_batches = [items_flat[i:i + batch]
+                       for i in range(0, len(items_flat), batch)]
         # TD-FIX-20261117 (t_41245b8f) item 5 (close gate): audit lines —
         # 'minted slice:' carries the exact baker title; a probe proves an
         # exact-title row created in-window for EVERY such line and
         # made == the in-window shape-B count. Print, don't trust, the ids.
-        t = make_card(a, absorb_body(ym, batches[0], batch, next_n))
-        if t:
+        j = 0
+        while n_out < AHEAD and made < MAXCARDS and j < len(fwd_batches):
+            a = f'TAIWANDAILY-ABSORB-{ym}-s{slice_n}'
+            t = make_card(a, absorb_body(ym, fwd_batches[j], batch, slice_n))
+            if not t:
+                break
             carded.add(ym)
             made += 1
+            n_out += 1
+            slice_n += 1
+            j += 1
             print('minted slice:', a, 'ids=', t, flush=True)
             print('absorb', ym, t, f'undecided={n_undecided}')
     # crawl state sweep. NOT budget-gated: this loop mints no cards, and an

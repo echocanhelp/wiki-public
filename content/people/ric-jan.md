@@ -64,11 +64,29 @@ last_reviewed: 2026-11-06
 
 ## Network
 
-- **霹靂國際多媒體:** 布袋戲音樂製作/演唱網絡（2000 年代起）
-- **唱片/經紀:** 動脈音樂（自營）、乾坤影視、滾石唱片（2023–）
-- **Houston:** 休士頓大學（旅館管理系）留學；凱悅/西華飯店任職 — 本會休士頓節點
-- **Event:** [[organizations/tzu-chi-usa-southern-region||Tzu Chi USA Southern Region]] charity concert
-- **Co-performers (2026 Houston):** [[people/hsu-ching-chun||Christine Hsu (許景淳)]], [[people/kana-mimaki||Kana Mimaki (三牧可奈)]], [[people/eddy-ji-xiao||Eddy Ji Xiao (蕭楫)]], [[people/swee-koh||Swee Koh (許瑞慶)]]
+Pages that link to **ric-jan** (ric-jan):
+
+
+### People (3)
+
+1. [[people/eddy-ji-xiao|eddy-ji-xiao]]
+2. [[people/kana-mimaki|kana-mimaki]]
+3. [[people/swee-koh|swee-koh]]
+
+### Organizations (1)
+
+1. [[organizations/tzu-chi-usa-southern-region|tzu-chi-usa-southern-region]]
+
+### Sources (4)
+
+1. [[sources/tzuchi-us|tzuchi-us]]
+2. [[sources/udn-writers-society-xiao-ji|udn-writers-society-xiao-ji]]
+3. [[sources/zhwp-huang-shan-liang|zhwp-huang-shan-liang]]
+4. [[sources/zhwp-huang-shan-liang|zhwp-huang-shan-liang]]
+
+### Other (1)
+
+1. [[events/tzuchi-us-event-2026-southern-region-charity-concert|tzuchi-us-event-2026-southern-region-charity-concert]]
 
 ## Quotes
 
@@ -84,6 +102,7 @@ last_reviewed: 2026-11-06
 
 - 2026-11-06 — WEB-PASS（手動，operator「deepen on all performers」）：zh.wikipedia 條目〈荒山亮〉全條入檔（infobox、生平、獎表、霹靂歌單、主持/戲劇年表）。Tzu Chi billing 的「23rd GMA Best Taiwanese Male Singer」由 zh.wp + 經濟部新聞處第23屆得獎名單雙源升級為 `sourced`；《聖石傳說》本人自述與 zh.wp 出入以雙載處理 — [[sources/zhwp-huang-shan-liang|zh.wp 存檔]]
 - 2026-11-06 — TVBS / 新聞人電子報 / TNN 三篇報導補入得獎感言、藝名由來、「約40首布袋戲主題曲」自述、世界運動會開幕式〈寰宇傳說〉 — `alleged`（press-only，未再核對原始影像）
+- 備註（非事實來源，absorb 2026-11-15）：美南作協「南軒藝文館」udn 部落格「當文學與音樂相遇」座談會頁（發佈 2014-08-15，存檔收錄於 2026-11-06）之主講專段為蕭楫（見 [[people/eddy-ji-xiao|Eddy Ji Xiao]]），荒山亮僅出現於該頁 Related Pages 之關聯人物清單（同列許瑞慶、許景淳、三牧可奈），當頁無本人事蹟記述；依卡片要求補錄回鏈以免餵食器重複 mint，不採為事實、不新增日期事實 — [[sources/udn-writers-society-xiao-ji|美南作協存檔]]
 
 ## Sources
 

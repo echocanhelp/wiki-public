@@ -1,0 +1,40 @@
+{"path": "organizations/evergreen-senior-university-by-evangelical-formosa-church-of-irvine-esu.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/north-america-pastel-artist-association.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/mei-li-chen.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/chhong-bi-memorial-fund.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/felicia-tang.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/ev-lunar-new-year-banquet.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/harvard-gsas-taiwanese-roc-student-club.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/janet-tsai.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/winnie-chiu.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/ev-winter-reunion.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/ev-s-30th-anniversary.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/taiwanese-association-of-alabama-birmingham.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "topics/un-resolution-2758.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "topics/taiwan-relations-act.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "sources/prc-white-paper-doctrinal-diff-1993-2000-2022.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "topics/228-incident.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "topics/taiwan-status.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "sources/scio-taiwan-white-paper-2022.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "sources/en-wikipedia-taiwan.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "sources/stcmanagement-com.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "sources/jliaoart-com.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "sources/zh-wikipedia-lai-ching-te.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "topics/east-san-gabriel-valley.md", "findings": [], "acts": ["inject sources callout", "related sources link", "WROTE"]}
+{"path": "people/rev-james-chang.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/tsai-ying-ju.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/rev-h-d-chen.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/prof-yang-en-cheng.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/rev-c-l-tong.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/chee-hway-tsai.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/boston-university-taiwanese-student-association.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/ian-y-lian.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "topics/t-跨國鎮壓-到了賴清德之子-台灣激憤-網民肉搜張婉瑩的奢侈生活.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-張婉瑩監視賴清德兒子有幫手-美媒揭神秘男身分-疑加州華裔建商.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-快訊-賴清德國慶演說-喊台灣42次-中華民國2次-中華民國台灣0次.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-美國司法部長-持續打擊中共跨國鎮壓.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-59歲美魔女雙十節-穿國旗比基尼-高喊-我是台灣人-娛樂.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-taiwan-affairs-office-spokesperson-slams.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-國慶焰火點亮台東夜空-賴清德-韓國瑜-饒慶鈴齊聚-以-世界的方舟-南島臺灣-迎向.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "people/rev-james-i-cheng.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/shih-chieh-huang.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}

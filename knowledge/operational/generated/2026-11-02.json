@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-02",
+  "total_cards": 2,
+  "evaluated_file": "/home/leedt/echo-system/knowledge/operational/evaluated/2026-11-02.json",
+  "priority_counts": {
+    "medium": 2
+  },
+  "playbook_counts": {
+    "P8": 2
+  },
+  "cards": [
+    {
+      "card_id": "echo-gen-2026-11-02-0001",
+      "title": "[MEDIUM] zhwp-keng-yuen-tseng: Expand the first paragraph to provide a meaningful summary of the page",
+      "body": "## Task: [MEDIUM] zhwp-keng-yuen-tseng: Expand the first paragraph to provide a meaningful summary of the page\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/zhwp-keng-yuen-tseng.md`\n**Finding:** `DESC_TOO_SHORT`\n**Score:** 4.5 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/zhwp-keng-yuen-tseng.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-11-02 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Expand the first paragraph to provide a meaningful summary of the page\n**Detail:** First paragraph should be 50+ characters and mention the page subject. Add 1-2 sentences summarizing who/what this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_TOO_SHORT\nPage type: sources\nType weight: 1.0\nFinding weight: 1.5",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "sources/zhwp-keng-yuen-tseng.md",
+      "finding": "DESC_TOO_SHORT",
+      "score": 4.5,
+      "target_path": "/home/leedt/echo-system/content/sources/zhwp-keng-yuen-tseng.md"
+    },
+    {
+      "card_id": "echo-gen-2026-11-02-0002",
+      "title": "[MEDIUM] zhwp-keng-yuen-tseng: Ensure the first paragraph mentions the page subject",
+      "body": "## Task: [MEDIUM] zhwp-keng-yuen-tseng: Ensure the first paragraph mentions the page subject\n\n**Priority:** medium\n**Playbook:** P8\n**Page:** `sources/zhwp-keng-yuen-tseng.md`\n**Finding:** `DESC_NO_TITLE_MENTION`\n**Score:** 3.0 (inbound links: 3)\n\n### Instructions\n1. Load skill echopedia-ops first\n2. Read the target page: /home/leedt/echo-system/content/sources/zhwp-keng-yuen-tseng.md\n3. Fix ONLY the listed finding — no inventing biography\n4. Update last_reviewed: 2026-11-02 after fixes\n5. Commit only (no publish — use P2 for publish)\n\n### Specific Fix\n**Action:** Ensure the first paragraph mentions the page subject\n**Detail:** The first paragraph should reference the person/organization this page is about.\n\n### Source\nGenerated from: echopedia-evaluate-actions.py (Stage 4)\nFinding prefix: DESC_NO_TITLE_MENTION\nPage type: sources\nType weight: 1.0\nFinding weight: 1.0",
+      "priority": "medium",
+      "playbook": "P8",
+      "page": "sources/zhwp-keng-yuen-tseng.md",
+      "finding": "DESC_NO_TITLE_MENTION",
+      "score": 3.0,
+      "target_path": "/home/leedt/echo-system/content/sources/zhwp-keng-yuen-tseng.md"
+    }
+  ]
+}

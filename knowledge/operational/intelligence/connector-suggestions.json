@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-04T08:30:55.263626",
-  "pages_scanned": 3047,
+  "generated_at": "2026-11-21T08:31:58.011947",
+  "pages_scanned": 3642,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 10318,
-    "co_mention_count": 12154,
-    "shared_tags_count": 7,
-    "orphan_folder_count": 3,
+    "co_citation_count": 35636,
+    "co_mention_count": 16574,
+    "shared_tags_count": 80,
+    "orphan_folder_count": 2,
     "kept_co_citation": 80,
     "kept_co_mention": 40,
-    "kept_shared_tags": 7
+    "kept_shared_tags": 40
   },
   "suggestions": {
     "co_citation": [
@@ -21,15 +21,42 @@
         "shared_target": "articles/taiwanjustice-net/2021/20210927004805_2021_07_25_tanla-醫療講座系列第一講-疫情的劫數餘生影_d108a309e84da75a",
         "page1_title": "Taiwanese Association of Northwest Los Angeles",
         "page2_title": "Bang H. Hwang (黃邦雄)",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwan-american-foundation.md",
+        "page2": "people/黃逸豪.md",
+        "shared_target": "works/taiwaneseamerican-org/lunar-new-year-banquet-with-tafnc-in-norcal",
+        "page1_title": "Taiwanese American Foundation (TAF)",
+        "page2_title": "黃逸豪",
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanese-american-citizens-league.md",
+        "page2": "people/黃逸豪.md",
+        "shared_target": "works/taiwaneseamerican-org/tacl-30th-gala",
+        "page1_title": "Taiwanese American Citizens League",
+        "page2_title": "黃逸豪",
         "shared_targets_count": 3
       },
       {
         "type": "CO-CITATION",
-        "page1": "people/lynn-huang.md",
-        "page2": "people/zhou-wei-lin.md",
-        "shared_target": "organizations/taiwanese-american-association-of-los-angeles-east-san-gabriel-valley",
-        "page1_title": "Lynn Huang (黃令先)",
-        "page2_title": "Chou Wei-lin (周威霖)",
+        "page1": "people/黃逸豪.md",
+        "page2": "sources/taiwandaily-net.md",
+        "shared_target": "people/chen-mei-hui",
+        "page1_title": "黃逸豪",
+        "page2_title": "美洲台灣日報 (Taiwan Daily) — taiwandaily.net",
+        "shared_targets_count": 6
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/黃逸豪.md",
+        "page2": "sources/ji-keming-thirdparty-2026-11-17.md",
+        "shared_target": "people/ji-keming",
+        "page1_title": "黃逸豪",
+        "page2_title": "Richard Chi 紀克明 — third-party capture 2026-11-17",
         "shared_targets_count": 4
       },
       {
@@ -39,7 +66,25 @@
         "shared_target": "works/taiwaneseamericanhistory-org/concerts104",
         "page1_title": "Acevedo Music & Art Education Foundation Inc",
         "page2_title": "Yin Yin Huang (黄煐媖)",
-        "shared_targets_count": 7
+        "shared_targets_count": 8
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/acevedo-music-and-art-education-foundation-inc.md",
+        "page2": "people/黃逸豪.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/concerts104",
+        "page1_title": "Acevedo Music & Art Education Foundation Inc",
+        "page2_title": "黃逸豪",
+        "shared_targets_count": 8
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/yin-yin-huang.md",
+        "page2": "people/黃逸豪.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/concerts104",
+        "page1_title": "Yin Yin Huang (黄煐媖)",
+        "page2_title": "黃逸豪",
+        "shared_targets_count": 8
       },
       {
         "type": "CO-CITATION",
@@ -48,7 +93,25 @@
         "shared_target": "people/pan-yi-ling",
         "page1_title": "AI Education Foundation (AI教育基金會)",
         "page2_title": "STC Rowland Legacy (STC 顺天联合基金会)",
-        "shared_targets_count": 3
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/ai-education-foundation.md",
+        "page2": "sources/taiwandaily-net.md",
+        "shared_target": "people/pan-yi-ling",
+        "page1_title": "AI Education Foundation (AI教育基金會)",
+        "page2_title": "美洲台灣日報 (Taiwan Daily) — taiwandaily.net",
+        "shared_targets_count": 5
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/stc-rowland-legacy.md",
+        "page2": "sources/taiwandaily-net.md",
+        "shared_target": "people/pan-yi-ling",
+        "page1_title": "STC Rowland Legacy (STC 顺天联合基金会)",
+        "page2_title": "美洲台灣日報 (Taiwan Daily) — taiwandaily.net",
+        "shared_targets_count": 5
       },
       {
         "type": "CO-CITATION",
@@ -57,7 +120,7 @@
         "shared_target": "organizations/stc-rowland-legacy",
         "page1_title": "AI Education Foundation (AI教育基金會)",
         "page2_title": "Rowland Heights Chinese Association (羅蘭崗華人協會)",
-        "shared_targets_count": 7
+        "shared_targets_count": 10
       },
       {
         "type": "CO-CITATION",
@@ -66,7 +129,7 @@
         "shared_target": "organizations/stc-rowland-legacy",
         "page1_title": "AI Education Foundation (AI教育基金會)",
         "page2_title": "STC Management (順天 · Sung Tien Collaboration)",
-        "shared_targets_count": 7
+        "shared_targets_count": 10
       },
       {
         "type": "CO-CITATION",
@@ -75,7 +138,7 @@
         "shared_target": "organizations/stc-rowland-legacy",
         "page1_title": "AI Education Foundation (AI教育基金會)",
         "page2_title": "John Hsu (許惠欽)",
-        "shared_targets_count": 7
+        "shared_targets_count": 10
       },
       {
         "type": "CO-CITATION",
@@ -84,7 +147,16 @@
         "shared_target": "organizations/yes-plaza",
         "page1_title": "AI Education Foundation (AI教育基金會)",
         "page2_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
-        "shared_targets_count": 7
+        "shared_targets_count": 9
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/aj-wang-foundation-scholarship-fund.md",
+        "page2": "people/黃逸豪.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/aj-wang-foundation-scholarship-fund",
+        "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
+        "page2_title": "黃逸豪",
+        "shared_targets_count": 2
       },
       {
         "type": "CO-CITATION",
@@ -93,7 +165,16 @@
         "shared_target": "works/taiwaneseamericanhistory-org/taiwanese-american-scholarship-fund",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "Taiwanese American Scholarship Fund (台美獎學金基金會)",
-        "shared_targets_count": 2
+        "shared_targets_count": 3
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/taiwanese-american-scholarship-fund.md",
+        "page2": "people/黃逸豪.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/taiwanese-american-scholarship-fund",
+        "page1_title": "Taiwanese American Scholarship Fund (台美獎學金基金會)",
+        "page2_title": "黃逸豪",
+        "shared_targets_count": 3
       },
       {
         "type": "CO-CITATION",
@@ -102,7 +183,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens for Taiwan (西雅圖美台會)",
-        "shared_targets_count": 2621
+        "shared_targets_count": 2806
       },
       {
         "type": "CO-CITATION",
@@ -111,7 +192,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
-        "shared_targets_count": 2621
+        "shared_targets_count": 2806
       },
       {
         "type": "CO-CITATION",
@@ -120,7 +201,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "shared_targets_count": 2621
+        "shared_targets_count": 2806
       },
       {
         "type": "CO-CITATION",
@@ -129,7 +210,7 @@
         "shared_target": "organizations/laguna-woods-village-taiwanese-club",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Chang Jung Girls’ High School Alumni Association Southern California",
-        "shared_targets_count": 19
+        "shared_targets_count": 34
       },
       {
         "type": "CO-CITATION",
@@ -138,7 +219,7 @@
         "shared_target": "organizations/laguna-woods-village-taiwanese-club",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Formosa Senior Association",
-        "shared_targets_count": 19
+        "shared_targets_count": 34
       },
       {
         "type": "CO-CITATION",
@@ -147,7 +228,16 @@
         "shared_target": "organizations/laguna-woods-village-taiwanese-club",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Joint Chinese University Alumni Association of Southern California",
-        "shared_targets_count": 19
+        "shared_targets_count": 34
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/alumni-association-of-chia-yi-high-school-worldwide.md",
+        "page2": "people/黃逸豪.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/sccaa",
+        "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
+        "page2_title": "黃逸豪",
+        "shared_targets_count": 4
       },
       {
         "type": "CO-CITATION",
@@ -156,7 +246,7 @@
         "shared_target": "articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Taiwan Center Choir",
-        "shared_targets_count": 22
+        "shared_targets_count": 23
       },
       {
         "type": "CO-CITATION",
@@ -165,7 +255,7 @@
         "shared_target": "articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Taiwanese American Arts Association",
-        "shared_targets_count": 22
+        "shared_targets_count": 23
       },
       {
         "type": "CO-CITATION",
@@ -174,7 +264,7 @@
         "shared_target": "articles/taiwanjustice-net/2025/20250209211009_旅美五十周年-_-鄭炳全_438dc69b91722b16",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Taiwanese American Association East San Gabriel Valley (洛杉磯聖東台灣同鄉會)",
-        "shared_targets_count": 22
+        "shared_targets_count": 23
       },
       {
         "type": "CO-CITATION",
@@ -183,7 +273,7 @@
         "shared_target": "articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Taiwanese American Historical Society (TAHS)",
-        "shared_targets_count": 16
+        "shared_targets_count": 17
       },
       {
         "type": "CO-CITATION",
@@ -192,7 +282,7 @@
         "shared_target": "articles/taiwanjustice-net/2024/20240302033647_root_589391185e9bd8c3",
         "page1_title": "Alumni Association of Chia Yi High School Worldwide (AACHW)",
         "page2_title": "Taiwanese American Soft Tennis Association",
-        "shared_targets_count": 16
+        "shared_targets_count": 17
       },
       {
         "type": "CO-CITATION",
@@ -201,7 +291,7 @@
         "shared_target": "articles/taiwanjustice-net/2025/20250614233935_2023台美小姐選拔賽_盛大舉行-宋依珊_mimiq-soong_奪后_79b5f26fdef89d22",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
         "page2_title": "Taiwan Elite Alliance",
-        "shared_targets_count": 9
+        "shared_targets_count": 13
       },
       {
         "type": "CO-CITATION",
@@ -210,7 +300,7 @@
         "shared_target": "articles/taiwanjustice-net/2025/20250614233935_2023台美小姐選拔賽_盛大舉行-宋依珊_mimiq-soong_奪后_79b5f26fdef89d22",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
         "page2_title": "Dr. Steve Huang (黃文谷醫師)",
-        "shared_targets_count": 9
+        "shared_targets_count": 13
       },
       {
         "type": "CO-CITATION",
@@ -219,7 +309,7 @@
         "shared_target": "articles/taiwanjustice-net/2025/20250614233935_2023台美小姐選拔賽_盛大舉行-宋依珊_mimiq-soong_奪后_79b5f26fdef89d22",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
         "page2_title": "Paul Chen (陳柏宇)",
-        "shared_targets_count": 9
+        "shared_targets_count": 13
       },
       {
         "type": "CO-CITATION",
@@ -228,7 +318,7 @@
         "shared_target": "articles/taiwanjustice-net/2023/20230204022253_2016_06_14_2016台美小姐選拔-開訓記者會大洛杉磯台灣會館06122016-_735744492226b90c",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
         "page2_title": "Shu Lai (賴淑遠)",
-        "shared_targets_count": 7
+        "shared_targets_count": 9
       },
       {
         "type": "CO-CITATION",
@@ -237,7 +327,7 @@
         "shared_target": "articles/taiwanjustice-net/2023/20230204022253_2016_06_14_2016台美小姐選拔-開訓記者會大洛杉磯台灣會館06122016-_735744492226b90c",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
         "page2_title": "陳西園",
-        "shared_targets_count": 7
+        "shared_targets_count": 9
       },
       {
         "type": "CO-CITATION",
@@ -246,7 +336,16 @@
         "shared_target": "articles/taiwanjustice-net/2023/20230204022253_2016_06_14_2016台美小姐選拔-開訓記者會大洛杉磯台灣會館06122016-_735744492226b90c",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
         "page2_title": "Tina Shih (施雅婷)",
-        "shared_targets_count": 7
+        "shared_targets_count": 9
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-chinese-dance-association.md",
+        "page2": "people/黃逸豪.md",
+        "shared_target": "people/tah-p-e0d94fd09b",
+        "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
+        "page2_title": "黃逸豪",
+        "shared_targets_count": 3
       },
       {
         "type": "CO-CITATION",
@@ -255,7 +354,34 @@
         "shared_target": "people/tah-p-e0d94fd09b",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
         "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
-        "shared_targets_count": 2
+        "shared_targets_count": 3
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/黃逸豪.md",
+        "page2": "sources/taiwaneseamericanhistory-org.md",
+        "shared_target": "people/tah-p-e0d94fd09b",
+        "page1_title": "黃逸豪",
+        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
+        "shared_targets_count": 3
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-chinese-dance-association.md",
+        "page2": "organizations/fapa-los-angeles.md",
+        "shared_target": "sources/taiwandaily-net",
+        "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
+        "page2_title": "Formosan Association for Public Affairs Los Angeles(FAPA-LA)",
+        "shared_targets_count": 554
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-chinese-dance-association.md",
+        "page2": "organizations/new-york-taiwan-center.md",
+        "shared_target": "sources/taiwandaily-net",
+        "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
+        "page2_title": "New York Taiwan Center (紐約台灣會館)",
+        "shared_targets_count": 554
       },
       {
         "type": "CO-CITATION",
@@ -264,25 +390,7 @@
         "shared_target": "sources/taiwandaily-net",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
         "page2_title": "North America Taiwanese Professors' Association Southern California",
-        "shared_targets_count": 101
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/american-chinese-dance-association.md",
-        "page2": "organizations/taiwan-center.md",
-        "shared_target": "sources/taiwandaily-net",
-        "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
-        "page2_title": "Taiwan Center Foundation of the Greater Los Angeles (大洛杉磯台灣會館)",
-        "shared_targets_count": 101
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/american-chinese-dance-association.md",
-        "page2": "organizations/taiwanese-american-association-east-san-gabriel-valley.md",
-        "shared_target": "sources/taiwandaily-net",
-        "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
-        "page2_title": "Taiwanese American Association East San Gabriel Valley (洛杉磯聖東台灣同鄉會)",
-        "shared_targets_count": 101
+        "shared_targets_count": 554
       },
       {
         "type": "CO-CITATION",
@@ -291,7 +399,16 @@
         "shared_target": "organizations/rowland-heights-chinese-association",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
         "page2_title": "FORUS Foundation (Friends of Rowland Unified Schools)",
-        "shared_targets_count": 4
+        "shared_targets_count": 6
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-chinese-dance-association.md",
+        "page2": "people/amy-li.md",
+        "shared_target": "organizations/rowland-heights-chinese-association",
+        "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
+        "page2_title": "Amy Li",
+        "shared_targets_count": 6
       },
       {
         "type": "CO-CITATION",
@@ -300,16 +417,16 @@
         "shared_target": "organizations/rowland-heights-chinese-association",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
         "page2_title": "John Hsu (許惠欽)",
-        "shared_targets_count": 4
+        "shared_targets_count": 6
       },
       {
         "type": "CO-CITATION",
-        "page1": "organizations/forus-foundation.md",
-        "page2": "people/john-hsu.md",
-        "shared_target": "organizations/rowland-heights-chinese-association",
-        "page1_title": "FORUS Foundation (Friends of Rowland Unified Schools)",
-        "page2_title": "John Hsu (許惠欽)",
-        "shared_targets_count": 4
+        "page1": "organizations/american-chinese-dance-association.md",
+        "page2": "organizations/taiwanese-american-association-east-san-gabriel-valley.md",
+        "shared_target": "topics/east-san-gabriel-valley",
+        "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
+        "page2_title": "Taiwanese American Association East San Gabriel Valley (洛杉磯聖東台灣同鄉會)",
+        "shared_targets_count": 3
       },
       {
         "type": "CO-CITATION",
@@ -327,7 +444,25 @@
         "shared_target": "works/taiwaneseamerican-org/heart-and-soul-introducing-american-citizens-for-taiwan",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "Formosa Foundation",
-        "shared_targets_count": 3
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-citizens-for-taiwan.md",
+        "page2": "people/黃逸豪.md",
+        "shared_target": "works/taiwaneseamerican-org/heart-and-soul-introducing-american-citizens-for-taiwan",
+        "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
+        "page2_title": "黃逸豪",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/formosa-foundation.md",
+        "page2": "people/黃逸豪.md",
+        "shared_target": "works/taiwaneseamerican-org/heart-and-soul-introducing-american-citizens-for-taiwan",
+        "page1_title": "Formosa Foundation",
+        "page2_title": "黃逸豪",
+        "shared_targets_count": 4
       },
       {
         "type": "CO-CITATION",
@@ -336,7 +471,16 @@
         "shared_target": "works/taiwaneseamerican-org/taiwans-sunflower-student-movement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "John J. Tkacik (譚慎格)",
-        "shared_targets_count": 2
+        "shared_targets_count": 3
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/john-j-tkacik.md",
+        "page2": "people/黃逸豪.md",
+        "shared_target": "works/taiwaneseamerican-org/taiwans-sunflower-student-movement",
+        "page1_title": "John J. Tkacik (譚慎格)",
+        "page2_title": "黃逸豪",
+        "shared_targets_count": 3
       },
       {
         "type": "CO-CITATION",
@@ -345,7 +489,7 @@
         "shared_target": "works/taiwaneseamerican-org/a-personal-discussion-panel-in-sf-on-the-events-of-228-taiwanese-american-perspe",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "Taiwanese American Foundation (TAF)",
-        "shared_targets_count": 6
+        "shared_targets_count": 9
       },
       {
         "type": "CO-CITATION",
@@ -354,7 +498,7 @@
         "shared_target": "works/taiwaneseamerican-org/a-personal-discussion-panel-in-sf-on-the-events-of-228-taiwanese-american-perspe",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "Taiwanese American Perspectives",
-        "shared_targets_count": 6
+        "shared_targets_count": 9
       },
       {
         "type": "CO-CITATION",
@@ -363,7 +507,7 @@
         "shared_target": "works/taiwaneseamerican-org/a-personal-discussion-panel-in-sf-on-the-events-of-228-taiwanese-american-perspe",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "Chien-Ting Yeh (葉介庭)",
-        "shared_targets_count": 6
+        "shared_targets_count": 9
       },
       {
         "type": "CO-CITATION",
@@ -372,7 +516,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "East Bay Taiwanese Association (北加州)",
-        "shared_targets_count": 105
+        "shared_targets_count": 124
       },
       {
         "type": "CO-CITATION",
@@ -381,7 +525,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "Formosan Association for Public Affairs Los Angeles(FAPA-LA)",
-        "shared_targets_count": 105
+        "shared_targets_count": 124
       },
       {
         "type": "CO-CITATION",
@@ -390,7 +534,7 @@
         "shared_target": "works/taiwaneseamerican-org/pew-research-center-taiwanese-american-statement",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "Laguna Woods Village Taiwanese Club (南加州)",
-        "shared_targets_count": 105
+        "shared_targets_count": 124
       },
       {
         "type": "CO-CITATION",
@@ -399,7 +543,88 @@
         "shared_target": "works/taiwaneseamericanhistory-org/american-citizens-of-taiwan-origin-acto",
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
-        "shared_targets_count": 2
+        "shared_targets_count": 6
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-citizens-for-taiwan.md",
+        "page2": "people/carole-huang.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/american-citizens-of-taiwan-origin-acto",
+        "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
+        "page2_title": "Carole Huang (陳春華)",
+        "shared_targets_count": 6
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-citizens-for-taiwan.md",
+        "page2": "people/cindy-huang.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/40-american-citizens-of-taiwan-origin-acto-realco-second-spring-scholarship-awar",
+        "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
+        "page2_title": "Cindy Huang (黃心怡)",
+        "shared_targets_count": 9
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-citizens-for-taiwan.md",
+        "page2": "people/connie-huang.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/40-american-citizens-of-taiwan-origin-acto-realco-second-spring-scholarship-awar",
+        "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
+        "page2_title": "Connie Huang (黃康妮)",
+        "shared_targets_count": 9
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-citizens-of-taiwan-origin-acto.md",
+        "page2": "people/黃逸豪.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/annual-books-of-american-citizens-of-taiwan-origin",
+        "page1_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
+        "page2_title": "黃逸豪",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-citizens-of-taiwan-origin-acto.md",
+        "page2": "sources/acto-tah-org-capture.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/annual-books-of-american-citizens-of-taiwan-origin",
+        "page1_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
+        "page2_title": "TAH org-record capture — American Citizens of Taiwan Origin (ACTO) 美台公民協會",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "people/黃逸豪.md",
+        "page2": "sources/acto-tah-org-capture.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/annual-books-of-american-citizens-of-taiwan-origin",
+        "page1_title": "黃逸豪",
+        "page2_title": "TAH org-record capture — American Citizens of Taiwan Origin (ACTO) 美台公民協會",
+        "shared_targets_count": 4
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-citizens-of-taiwan-origin-acto.md",
+        "page2": "people/jason-huang.md",
+        "shared_target": "people/carole-huang",
+        "page1_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
+        "page2_title": "Jason Huang (黃仁宗)",
+        "shared_targets_count": 10
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-citizens-of-taiwan-origin-acto.md",
+        "page2": "people/sam-huang.md",
+        "shared_target": "people/connie-huang",
+        "page1_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
+        "page2_title": "Sam Huang (黃興貫)",
+        "shared_targets_count": 16
+      },
+      {
+        "type": "CO-CITATION",
+        "page1": "organizations/american-citizens-of-taiwan-origin-acto.md",
+        "page2": "sources/taiwaneseamericanhistory-org.md",
+        "shared_target": "organizations/american-citizens-for-taiwan",
+        "page1_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
+        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
+        "shared_targets_count": 11
       },
       {
         "type": "CO-CITATION",
@@ -408,7 +633,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys76-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Greater Sacramento Taiwanese Association GSTA (大沙加偭度台灣同鄉會)",
-        "shared_targets_count": 59
+        "shared_targets_count": 87
       },
       {
         "type": "CO-CITATION",
@@ -417,7 +642,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys76-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Manhattan, KS Chapter / TAA (全美台灣同鄉會曼哈頓分會)",
-        "shared_targets_count": 59
+        "shared_targets_count": 87
       },
       {
         "type": "CO-CITATION",
@@ -426,7 +651,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys76-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Taiwanese American Association Atlanta (亞特蘭大)",
-        "shared_targets_count": 59
+        "shared_targets_count": 87
       },
       {
         "type": "CO-CITATION",
@@ -435,7 +660,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys321",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Formosan Association for Human Rights",
-        "shared_targets_count": 26
+        "shared_targets_count": 37
       },
       {
         "type": "CO-CITATION",
@@ -444,7 +669,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys321",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Taiwan Student Association at the University of Michigan",
-        "shared_targets_count": 26
+        "shared_targets_count": 37
       },
       {
         "type": "CO-CITATION",
@@ -453,7 +678,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys321",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Taiwanese American Student Association at the University of Michigan",
-        "shared_targets_count": 26
+        "shared_targets_count": 37
       },
       {
         "type": "CO-CITATION",
@@ -462,7 +687,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys8",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Cheng Long Tsai (蔡正隆博士)",
-        "shared_targets_count": 14
+        "shared_targets_count": 31
       },
       {
         "type": "CO-CITATION",
@@ -471,7 +696,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys8",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Dr. Fu Yuan Hsu (許富淵)",
-        "shared_targets_count": 14
+        "shared_targets_count": 31
       },
       {
         "type": "CO-CITATION",
@@ -480,7 +705,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys8",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Dr. Gichiong Khu (邱義昌博士)",
-        "shared_targets_count": 14
+        "shared_targets_count": 31
       },
       {
         "type": "CO-CITATION",
@@ -489,7 +714,7 @@
         "shared_target": "organizations/professor-chen-wen-chen-memorial-foundation",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Michigan Taiwanese Student Association",
-        "shared_targets_count": 13
+        "shared_targets_count": 33
       },
       {
         "type": "CO-CITATION",
@@ -498,241 +723,16 @@
         "shared_target": "organizations/professor-chen-wen-chen-memorial-foundation",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "B. N. Huang (黃邦男)",
-        "shared_targets_count": 13
+        "shared_targets_count": 33
       },
       {
         "type": "CO-CITATION",
         "page1": "organizations/ann-arbor-taiwanese-association.md",
-        "page2": "organizations/asia-democracy-foundation.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys321-eng",
+        "page2": "people/黃逸豪.md",
+        "shared_target": "works/taiwaneseamericanhistory-org/ann-arbor-democratic",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "page2_title": "Asia Democracy Foundation (民主亞洲基金會)",
-        "shared_targets_count": 20
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/taiwan-student-association-at-the-university-of-michigan.md",
-        "page2": "organizations/taiwanese-american-student-association-at-the-university-of-michigan.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/important2016-30",
-        "page1_title": "Taiwan Student Association at the University of Michigan",
-        "page2_title": "Taiwanese American Student Association at the University of Michigan",
-        "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/ann-arbor-taiwanese-association.md",
-        "page2": "organizations/houston-taiwanese-golden-club.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys185",
-        "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "page2_title": "Houston Taiwanese Golden Club (休士頓台灣清閒俱)",
-        "shared_targets_count": 9
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/ann-arbor-taiwanese-association.md",
-        "page2": "organizations/overseas-community-affairs-council.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys185",
-        "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "page2_title": "Overseas Community Affairs Council (僑務委員會)",
-        "shared_targets_count": 9
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/ann-arbor-taiwanese-association.md",
-        "page2": "organizations/taiwanese-american-association-of-rochester-new-york.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys185",
-        "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "page2_title": "Taiwanese American Association Of Rochester, New York (羅徹斯特台灣同鄉會)",
-        "shared_targets_count": 9
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/ann-arbor-taiwanese-association.md",
-        "page2": "people/andrew-y-lee.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys249",
-        "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "page2_title": "Andrew Y. Lee (李友義博士)",
-        "shared_targets_count": 7
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/ann-arbor-taiwanese-association.md",
-        "page2": "people/chen-shuibian.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys249",
-        "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "page2_title": "Chen Shui-bian (陳水扁)",
-        "shared_targets_count": 7
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/ann-arbor-taiwanese-association.md",
-        "page2": "people/dr-kuochih-hong.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys249",
-        "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "page2_title": "Dr. Kuochih Hong (洪國治博士)",
-        "shared_targets_count": 7
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/ann-arbor-taiwanese-association.md",
-        "page2": "organizations/taiwanese-association-of-america-detroit-tagd.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/taiwan-monitor",
-        "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "page2_title": "Taiwanese Association Of America – Detroit TAGD (底特律台灣同鄉會)",
-        "shared_targets_count": 4
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/ann-arbor-taiwanese-association.md",
-        "page2": "organizations/organization-for-the-support-of-democratic-movement-of-taiwan.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys222",
-        "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "page2_title": "Organization For The Support of Democratic Movement of Taiwan (台灣民主運動支援會)",
-        "shared_targets_count": 8
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/ann-arbor-taiwanese-association.md",
-        "page2": "organizations/taiwanese-association-of-america.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys222",
-        "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "page2_title": "Taiwanese Association of America (全美台灣同鄉會)",
-        "shared_targets_count": 8
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/ann-arbor-taiwanese-association.md",
-        "page2": "people/chung-nan-shih.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys222",
-        "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "page2_title": "Chung Nan Shih (施忠男)",
-        "shared_targets_count": 8
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/ann-arbor-taiwanese-association.md",
-        "page2": "organizations/mit-republic-of-china-taiwan-student-association.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys81",
-        "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "page2_title": "MIT Republic of China Taiwan Student Association",
-        "shared_targets_count": 71
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/ann-arbor-taiwanese-association.md",
-        "page2": "organizations/north-america-taiwanese-womens-association-wisconsin-illinois-chapter.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys81",
-        "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "page2_title": "North America Taiwanese Women’s Association – Wisconsin/Illinois Chapter (北美洲台灣婦女會威斯康辛)",
-        "shared_targets_count": 71
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/ann-arbor-taiwanese-association.md",
-        "page2": "people/yung-hwa-hsu.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ann-arbor-chapter-taa",
-        "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "page2_title": "Yung Hwa Hsu (許永華)",
+        "page2_title": "黃逸豪",
         "shared_targets_count": 2
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/arizona-taiwanese-student-association.md",
-        "page2": "organizations/north-america-taiwanese-womens-association-arizona-chapter.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/arizona-chapter-taa",
-        "page1_title": "Arizona Taiwanese Student Association",
-        "page2_title": "North America Taiwanese Women’s Association – Arizona Chapter (北美洲台灣婦女會亞利桑那分會)",
-        "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/arizona-taiwanese-student-association.md",
-        "page2": "organizations/taiwanese-american-association-of-arizona.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/arizona-chapter-taa",
-        "page1_title": "Arizona Taiwanese Student Association",
-        "page2_title": "Taiwanese American Association of Arizona (亞歷桑那州)",
-        "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/north-america-taiwanese-womens-association-arizona-chapter.md",
-        "page2": "organizations/taiwanese-american-association-of-arizona.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/arizona-chapter-taa",
-        "page1_title": "North America Taiwanese Women’s Association – Arizona Chapter (北美洲台灣婦女會亞利桑那分會)",
-        "page2_title": "Taiwanese American Association of Arizona (亞歷桑那州)",
-        "shared_targets_count": 3
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/asia-democracy-foundation.md",
-        "page2": "organizations/united-formosans-for-independenceufi.md",
-        "shared_target": "articles/taiwanjustice-net/2022/20220228033245_2020_12_26_民主亞洲基金會會長洪哲勝辭世_獨盟辦追思會_44c486d870e08028",
-        "page1_title": "Asia Democracy Foundation (民主亞洲基金會)",
-        "page2_title": "United Formosans for Independence UFI (台獨聯盟)",
-        "shared_targets_count": 5
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/asia-democracy-foundation.md",
-        "page2": "people/chin-hsin-jason-liu.md",
-        "shared_target": "articles/taiwanjustice-net/2022/20220228033245_2020_12_26_民主亞洲基金會會長洪哲勝辭世_獨盟辦追思會_44c486d870e08028",
-        "page1_title": "Asia Democracy Foundation (民主亞洲基金會)",
-        "page2_title": "Chin-Hsin Jason Liu (劉進興)",
-        "shared_targets_count": 5
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/asia-democracy-foundation.md",
-        "page2": "people/dr-cary-s-hung.md",
-        "shared_target": "articles/taiwanjustice-net/2022/20220228033245_2020_12_26_民主亞洲基金會會長洪哲勝辭世_獨盟辦追思會_44c486d870e08028",
-        "page1_title": "Asia Democracy Foundation (民主亞洲基金會)",
-        "page2_title": "Dr. Cary S. Hung (洪哲勝博士)",
-        "shared_targets_count": 5
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/asia-democracy-foundation.md",
-        "page2": "organizations/new-york-taiwan-center.md",
-        "shared_target": "articles/taiwanjustice-net/2022/20220228012423_2021_01_02_追思洪哲勝_王丹致詞_陳破空主持_眾多民運大_9206c320850ac026",
-        "page1_title": "Asia Democracy Foundation (民主亞洲基金會)",
-        "page2_title": "New York Taiwan Center (紐約台灣會館)",
-        "shared_targets_count": 8
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/asia-democracy-foundation.md",
-        "page2": "people/chen-po-kong.md",
-        "shared_target": "articles/taiwanjustice-net/2022/20220228012423_2021_01_02_追思洪哲勝_王丹致詞_陳破空主持_眾多民運大_9206c320850ac026",
-        "page1_title": "Asia Democracy Foundation (民主亞洲基金會)",
-        "page2_title": "chen-po-kong",
-        "shared_targets_count": 8
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/asia-democracy-foundation.md",
-        "page2": "organizations/professor-chen-wen-chen-memorial-foundation.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys49",
-        "page1_title": "Asia Democracy Foundation (民主亞洲基金會)",
-        "page2_title": "Professor Chen Wen-Chen Memorial Foundation (陳文成教授紀念基金會)",
-        "shared_targets_count": 23
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/asia-democracy-foundation.md",
-        "page2": "organizations/taiwanese-association-of-america.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys49",
-        "page1_title": "Asia Democracy Foundation (民主亞洲基金會)",
-        "page2_title": "Taiwanese Association of America (全美台灣同鄉會)",
-        "shared_targets_count": 23
-      },
-      {
-        "type": "CO-CITATION",
-        "page1": "organizations/asia-democracy-foundation.md",
-        "page2": "organizations/overseas-taiwanese-for-democracy.md",
-        "shared_target": "works/taiwaneseamericanhistory-org/our-journeys-381",
-        "page1_title": "Asia Democracy Foundation (民主亞洲基金會)",
-        "page2_title": "Overseas Taiwanese for Democracy (海外台灣青年陣線)",
-        "shared_targets_count": 24
       }
     ],
     "co_mention": [
@@ -851,6 +851,38 @@
       {
         "type": "CO-MENTION",
         "page1": "organizations/american-citizens-of-taiwan-origin-acto.md",
+        "page2": "people/carole-huang.md",
+        "page1_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
+        "page2_title": "Carole Huang (陳春華)",
+        "mention_text": "Carole Huang (陳春華)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/american-citizens-of-taiwan-origin-acto.md",
+        "page2": "people/cindy-huang.md",
+        "page1_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
+        "page2_title": "Cindy Huang (黃心怡)",
+        "mention_text": "Cindy Huang (黃心怡)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/american-citizens-of-taiwan-origin-acto.md",
+        "page2": "people/connie-huang.md",
+        "page1_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
+        "page2_title": "Connie Huang (黃康妮)",
+        "mention_text": "Connie Huang (黃康妮)"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/american-citizens-of-taiwan-origin-acto.md",
+        "page2": "sources/taiwaneseamericanhistory-org-story-corpus.md",
+        "page1_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
+        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation) — Story Corpus",
+        "mention_text": "taiwaneseamericanhistory.org (TAH Foundation) — Story Corpus"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/american-citizens-of-taiwan-origin-acto.md",
         "page2": "sources/taiwaneseamericanhistory-org.md",
         "page1_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
         "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
@@ -915,10 +947,26 @@
       {
         "type": "CO-MENTION",
         "page1": "organizations/arizona-taiwanese-student-association.md",
+        "page2": "organizations/asu-taiwanese-international-student-association.md",
+        "page1_title": "Arizona Taiwanese Student Association",
+        "page2_title": "ASU Taiwanese International Student Association",
+        "mention_text": "ASU Taiwanese International Student Association"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/arizona-taiwanese-student-association.md",
         "page2": "organizations/chinese-and-taiwanese-student-association.md",
         "page1_title": "Arizona Taiwanese Student Association",
         "page2_title": "Chinese and Taiwanese Student Association",
         "mention_text": "Chinese and Taiwanese Student Association"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/arizona-taiwanese-student-association.md",
+        "page2": "organizations/taiwanese-american-cultural-association.md",
+        "page1_title": "Arizona Taiwanese Student Association",
+        "page2_title": "Taiwanese American Cultural Association",
+        "mention_text": "Taiwanese American Cultural Association"
       },
       {
         "type": "CO-MENTION",
@@ -931,10 +979,34 @@
       {
         "type": "CO-MENTION",
         "page1": "organizations/arizona-taiwanese-student-association.md",
+        "page2": "organizations/taiwanese-american-students-association.md",
+        "page1_title": "Arizona Taiwanese Student Association",
+        "page2_title": "Taiwanese American Students Association",
+        "mention_text": "Taiwanese American Students Association"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/arizona-taiwanese-student-association.md",
+        "page2": "organizations/taiwanese-international-student-association.md",
+        "page1_title": "Arizona Taiwanese Student Association",
+        "page2_title": "Taiwanese International Student Association",
+        "mention_text": "Taiwanese International Student Association"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/arizona-taiwanese-student-association.md",
         "page2": "organizations/taiwanese-student-association-at-arizona-state-university.md",
         "page1_title": "Arizona Taiwanese Student Association",
         "page2_title": "Taiwanese Student Association at Arizona State University",
         "mention_text": "Taiwanese Student Association at Arizona State University"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/arizona-taiwanese-student-association.md",
+        "page2": "organizations/taiwanese-student-association-tsa.md",
+        "page1_title": "Arizona Taiwanese Student Association",
+        "page2_title": "Taiwanese Student Association TSA",
+        "mention_text": "Taiwanese Student Association TSA"
       },
       {
         "type": "CO-MENTION",
@@ -955,109 +1027,160 @@
       {
         "type": "CO-MENTION",
         "page1": "organizations/arizona-taiwanese-student-association.md",
-        "page2": "sources/taiwaneseamericanhistory-org.md",
-        "page1_title": "Arizona Taiwanese Student Association",
-        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
-        "mention_text": "taiwaneseamericanhistory.org (TAH Foundation)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/asia-democracy-foundation.md",
-        "page2": "sources/taiwaneseamericanhistory-org.md",
-        "page1_title": "Asia Democracy Foundation (民主亞洲基金會)",
-        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
-        "mention_text": "taiwaneseamericanhistory.org (TAH Foundation)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/asian-american-social-welfaer-foundation.md",
-        "page2": "sources/aaswf-org.md",
-        "page1_title": "Asian American Social Welfare Foundation",
-        "page2_title": "Asian American Social Welfare Foundation (aaswf.org)",
-        "mention_text": "Asian American Social Welfare Foundation (aaswf.org)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/asian-american-social-welfaer-foundation.md",
-        "page2": "sources/taiwaneseamericanhistory-org.md",
-        "page1_title": "Asian American Social Welfare Foundation",
-        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
-        "mention_text": "taiwaneseamericanhistory.org (TAH Foundation)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/asian-senior-concerns-foundation.md",
-        "page2": "organizations/asian-american-social-welfaer-foundation.md",
-        "page1_title": "Asian Senior Concerns Foundation (亞裔銀髮族關懷基金會)",
-        "page2_title": "Asian American Social Welfare Foundation",
-        "mention_text": "Asian American Social Welfare Foundation"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/asian-senior-concerns-foundation.md",
-        "page2": "sources/taiwaneseamericanhistory-org.md",
-        "page1_title": "Asian Senior Concerns Foundation (亞裔銀髮族關懷基金會)",
-        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
-        "mention_text": "taiwaneseamericanhistory.org (TAH Foundation)"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/association-of-taiwanese-students-at-mit.md",
-        "page2": "organizations/chinese-and-taiwanese-student-association.md",
-        "page1_title": "Association of Taiwanese Students at MIT",
-        "page2_title": "Chinese and Taiwanese Student Association",
-        "mention_text": "Chinese and Taiwanese Student Association"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/association-of-taiwanese-students-at-mit.md",
-        "page2": "organizations/taiwanese-american-student-association.md",
-        "page1_title": "Association of Taiwanese Students at MIT",
-        "page2_title": "Taiwanese American Student Association",
-        "mention_text": "Taiwanese American Student Association"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/association-of-taiwanese-students-at-mit.md",
-        "page2": "organizations/taiwanese-american-students-association.md",
-        "page1_title": "Association of Taiwanese Students at MIT",
-        "page2_title": "Taiwanese American Students Association",
-        "mention_text": "Taiwanese American Students Association"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/association-of-taiwanese-students-at-mit.md",
-        "page2": "organizations/taiwanese-student-association.md",
-        "page1_title": "Association of Taiwanese Students at MIT",
-        "page2_title": "Taiwanese Student Association",
-        "mention_text": "Taiwanese Student Association"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/association-of-taiwanese-students-at-mit.md",
         "page2": "organizations/taiwanese-students-association.md",
-        "page1_title": "Association of Taiwanese Students at MIT",
+        "page1_title": "Arizona Taiwanese Student Association",
         "page2_title": "Taiwanese Students Association",
         "mention_text": "Taiwanese Students Association"
       },
       {
         "type": "CO-MENTION",
-        "page1": "organizations/association-of-taiwanese-students-at-mit.md",
-        "page2": "organizations/taiwanese-undergraduate-student-organization.md",
-        "page1_title": "Association of Taiwanese Students at MIT",
-        "page2_title": "Taiwanese Undergraduate Student Organization",
-        "mention_text": "Taiwanese Undergraduate Student Organization"
+        "page1": "organizations/arizona-taiwanese-student-association.md",
+        "page2": "sources/asu-tisa-tah-org-capture.md",
+        "page1_title": "Arizona Taiwanese Student Association",
+        "page2_title": "TAH organization directory capture — ASU Taiwanese International Student Association",
+        "mention_text": "TAH organization directory capture — ASU Taiwanese International Student Association"
       },
       {
         "type": "CO-MENTION",
-        "page1": "organizations/association-of-taiwanese-students-at-mit.md",
-        "page2": "people/lisa-wang.md",
-        "page1_title": "Association of Taiwanese Students at MIT",
-        "page2_title": "Lisa Wang",
-        "mention_text": "Lisa Wang"
+        "page1": "organizations/arizona-taiwanese-student-association.md",
+        "page2": "sources/atsa-tah-org-capture.md",
+        "page1_title": "Arizona Taiwanese Student Association",
+        "page2_title": "TAH organization directory capture — Arizona Taiwanese Student Association",
+        "mention_text": "TAH organization directory capture — Arizona Taiwanese Student Association"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/arizona-taiwanese-student-association.md",
+        "page2": "sources/taiwaneseamericanhistory-org.md",
+        "page1_title": "Arizona Taiwanese Student Association",
+        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
+        "mention_text": "taiwaneseamericanhistory.org (TAH Foundation)"
       }
     ],
     "shared_tags": [
+      {
+        "type": "SHARED_TAGS",
+        "page1": "people/chen-mei-hui.md",
+        "page2": "people/stephen-au.md",
+        "page1_title": "陳美惠 (Chen Meihui, 山東麵館)",
+        "page2_title": "Stephen Au",
+        "shared_tags": [
+          "Houston",
+          "Tzu-Chi",
+          "[person"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "people/chen-mei-hui.md",
+        "page2": "sources/veryveggiemovement-san-dong-2021.md",
+        "page1_title": "陳美惠 (Chen Meihui, 山東麵館)",
+        "page2_title": "素行動聯盟夥伴分享：山東麵館 陳美惠 (Very Veggie Movement)",
+        "shared_tags": [
+          "Houston",
+          "Tzu-Chi",
+          "restaurant]"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "people/jennifer-an.md",
+        "page2": "people/ji-keming.md",
+        "page1_title": "Jennifer An",
+        "page2_title": "Richard Chi (紀克明)",
+        "shared_tags": [
+          "Houston]",
+          "Tzu-Chi",
+          "[person"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "people/jennifer-an.md",
+        "page2": "people/roger-lin.md",
+        "page1_title": "Jennifer An",
+        "page2_title": "Roger Lin (林書賢)",
+        "shared_tags": [
+          "Houston]",
+          "Tzu-Chi",
+          "[person"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "people/ji-keming.md",
+        "page2": "people/roger-lin.md",
+        "page1_title": "Richard Chi (紀克明)",
+        "page2_title": "Roger Lin (林書賢)",
+        "shared_tags": [
+          "Houston]",
+          "Tzu-Chi",
+          "[person"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/beijian-case-first-court-2026-11-17.md",
+        "page2": "sources/gwytb-chenbinhua-2026-11-18.md",
+        "page1_title": "Source: 北檢跟監案台北地院 2026-11-17 審查庭開庭（鄭永津部分認罪稱僅跟監7天、移審理庭重新分案；3被告認罪求和解；沈伯洋告訴代理人拒絕和解）",
+        "page2_title": "Source: 國台辦 2026-11-18 例行新聞發布會（陳斌華）— 高金素梅起訴案定調「濫用司法迫害政治異己」；本場未點名沈伯洋、無新增司法或懲戒措施",
+        "shared_tags": [
+          "2026九合一]",
+          "[source",
+          "沈伯洋",
+          "跨國鎮壓"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/beijian-case-first-court-2026-11-17.md",
+        "page2": "sources/gwytb-zhanghan-2026-11-11.md",
+        "page1_title": "Source: 北檢跟監案台北地院 2026-11-17 審查庭開庭（鄭永津部分認罪稱僅跟監7天、移審理庭重新分案；3被告認罪求和解；沈伯洋告訴代理人拒絕和解）",
+        "page2_title": "Source: 國台辦 11/11 例行記者會（張晗）稱「跨國鎮壓」是編造謊言、反滲透法是惡法；陸委會 11/11、梁文傑 11/12 回批",
+        "shared_tags": [
+          "[source",
+          "沈伯洋",
+          "跨國鎮壓"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/beijian-case-first-court-2026-11-17.md",
+        "page2": "sources/liang-wenjie-transnational-repression-2026-11-12.md",
+        "page1_title": "Source: 北檢跟監案台北地院 2026-11-17 審查庭開庭（鄭永津部分認罪稱僅跟監7天、移審理庭重新分案；3被告認罪求和解；沈伯洋告訴代理人拒絕和解）",
+        "page2_title": "Source: 梁文傑 11/12 記者會點名沈伯洋案與『跨國鎮壓四特徵』（連讀國台辦 11/11 定調）",
+        "shared_tags": [
+          "2026九合一]",
+          "[source",
+          "沈伯洋",
+          "跨國鎮壓"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/beijian-case-first-court-2026-11-17.md",
+        "page2": "sources/npa-transnational-repression-2026-11-04.md",
+        "page1_title": "Source: 北檢跟監案台北地院 2026-11-17 審查庭開庭（鄭永津部分認罪稱僅跟監7天、移審理庭重新分案；3被告認罪求和解；沈伯洋告訴代理人拒絕和解）",
+        "page2_title": "Source: 警政署 11/4 記者會 — 打擊跨國鎮壓 9 案（含沈伯洋跟拍案）4 案起訴、5 案追緝中",
+        "shared_tags": [
+          "2026九合一]",
+          "[source",
+          "沈伯洋",
+          "跨國鎮壓"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/beijian-case-first-court-2026-11-17.md",
+        "page2": "sources/shen-deepfake-and-election-procedure-2026-11-13.md",
+        "page1_title": "Source: 北檢跟監案台北地院 2026-11-17 審查庭開庭（鄭永津部分認罪稱僅跟監7天、移審理庭重新分案；3被告認罪求和解；沈伯洋告訴代理人拒絕和解）",
+        "page2_title": "Source: 沈伯洋深偽音檔案與選前假訊息／競選程序記錄（2026-10-29 ~ 11-13）",
+        "shared_tags": [
+          "2026九合一]",
+          "[source",
+          "沈伯洋"
+        ]
+      },
       {
         "type": "SHARED_TAGS",
         "page1": "sources/cna-shen-news-faceoff-2026-11-03.md",
@@ -1085,6 +1208,67 @@
       {
         "type": "SHARED_TAGS",
         "page1": "sources/cna-shen-news-faceoff-2026-11-03.md",
+        "page2": "sources/shen-campaign-dynamics-2026-11-13.md",
+        "page1_title": "Source: 沈伯洋《新聞面對面》謝震武專訪與競辦百萬觀看聲明（2026-11-02／11-03）",
+        "page2_title": "Source: 沈伯洋競選動態與莒光日教材風波（2026-11-10~13 追收）",
+        "shared_tags": [
+          "2026九合一",
+          "[source",
+          "台北市長"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/cna-shen-news-faceoff-2026-11-03.md",
+        "page2": "sources/shen-campaign-dynamics-2026-11-17.md",
+        "page1_title": "Source: 沈伯洋《新聞面對面》謝震武專訪與競辦百萬觀看聲明（2026-11-02／11-03）",
+        "page2_title": "Source: 沈伯洋競選動態與最終版 AI 模擬（2026-11-17 收錄：北宜生活圈、黃金週規畫、選舉公報攻防、TPOC 最終版、矢板明夫民調質疑）",
+        "shared_tags": [
+          "2026九合一",
+          "[source",
+          "台北市長",
+          "洋流"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/cna-shen-news-faceoff-2026-11-03.md",
+        "page2": "sources/taipei-poll-aggregation-2026-11-13.md",
+        "page1_title": "Source: 沈伯洋《新聞面對面》謝震武專訪與競辦百萬觀看聲明（2026-11-02／11-03）",
+        "page2_title": "Source: 2026-11-11~13 台北市長民調聚合追收（TPOC AI 模擬 VIII／PollTrack 加權聚合／TVBS 辯後民調連讀）",
+        "shared_tags": [
+          "2026九合一",
+          "[source",
+          "台北市長"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/cna-shen-news-faceoff-2026-11-03.md",
+        "page2": "sources/taipei-poll-final-prelock-2026-11-17.md",
+        "page1_title": "Source: 沈伯洋《新聞面對面》謝震武專訪與競辦百萬觀看聲明（2026-11-02／11-03）",
+        "page2_title": "Source: 2026-11-16~17 台北市長封關前最後一輪民調聚合追收（信民封關／TVBS 封關／鋒燦／勵志協會 TIA／中國時報／ETtoday／TPOC AI 模擬最終版）",
+        "shared_tags": [
+          "2026九合一",
+          "[source",
+          "台北市長"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/cna-shen-news-faceoff-2026-11-03.md",
+        "page2": "sources/taipei-poll-method-analysis-2026-11-13.md",
+        "page1_title": "Source: 沈伯洋《新聞面對面》謝震武專訪與競辦百萬觀看聲明（2026-11-02／11-03）",
+        "page2_title": "Source: 2026-11-12/13 台北市長選舉負面輿情交叉檢驗分析、媒體民調彙整與第三方解讀（本庫彙編多源）",
+        "shared_tags": [
+          "2026九合一",
+          "[source",
+          "台北市長"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/cna-shen-news-faceoff-2026-11-03.md",
         "page2": "sources/taipei-strategy-institute-postdebate-poll-2026-11-02.md",
         "page1_title": "Source: 沈伯洋《新聞面對面》謝震武專訪與競辦百萬觀看聲明（2026-11-02／11-03）",
         "page2_title": "Source: 台灣韜略策進學會 台北市長辯後民調（沈伯洋 52.6% vs 蔣萬安 35.3%）",
@@ -1092,6 +1276,115 @@
           "2026九合一",
           "[source",
           "台北市長"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/epochtimes-2025-07-10-csulb-five-star-public.md",
+        "page2": "sources/epochtimes-socal-un-58signers-2020-09-14.md",
+        "page1_title": "大紀元 2025-07-10 — 全美19所五星級頂尖公立大學14所在加州（CSULB 條目渲染）",
+        "page2_title": "大紀元 2020-09-14 — 南加僑界支持臺灣參與聯合國聯合聲明（2020-09-11 發表・UN 系列第一份入庫名單）",
+        "shared_tags": [
+          "[source",
+          "epochtimes",
+          "大紀元"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/epochtimes-2025-07-10-csulb-five-star-public.md",
+        "page2": "sources/epochtimes-socal-wha-48units-2023-05-12.md",
+        "page1_title": "大紀元 2025-07-10 — 全美19所五星級頂尖公立大學14所在加州（CSULB 條目渲染）",
+        "page2_title": "大紀元 2023-05-12 — 大洛杉磯僑界48團體挺台入世衛（2023-05-11 記者會・WHA 聯合聲明・第二份 WHA 名單）",
+        "shared_tags": [
+          "[source",
+          "epochtimes",
+          "大紀元"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/epochtimes-2025-07-10-csulb-five-star-public.md",
+        "page2": "sources/epochtimes-socal-wha-press-report-2021-05-15.md",
+        "page1_title": "大紀元 2025-07-10 — 全美19所五星級頂尖公立大學14所在加州（CSULB 條目渲染）",
+        "page2_title": "大紀元 2021-05-15 — 經文處與南加僑界支持台灣參與世衛大會（2021-05-13 洛僑中心記者會報導・86人名單）",
+        "shared_tags": [
+          "[source",
+          "epochtimes",
+          "大紀元"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/epochtimes-socal-un-58signers-2020-09-14.md",
+        "page2": "sources/epochtimes-socal-wha-48units-2023-05-12.md",
+        "page1_title": "大紀元 2020-09-14 — 南加僑界支持臺灣參與聯合國聯合聲明（2020-09-11 發表・UN 系列第一份入庫名單）",
+        "page2_title": "大紀元 2023-05-12 — 大洛杉磯僑界48團體挺台入世衛（2023-05-11 記者會・WHA 聯合聲明・第二份 WHA 名單）",
+        "shared_tags": [
+          "[source",
+          "epochtimes",
+          "roster]",
+          "大洛杉磯僑界",
+          "大紀元",
+          "聯合聲明"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/epochtimes-socal-un-58signers-2020-09-14.md",
+        "page2": "sources/epochtimes-socal-wha-press-report-2021-05-15.md",
+        "page1_title": "大紀元 2020-09-14 — 南加僑界支持臺灣參與聯合國聯合聲明（2020-09-11 發表・UN 系列第一份入庫名單）",
+        "page2_title": "大紀元 2021-05-15 — 經文處與南加僑界支持台灣參與世衛大會（2021-05-13 洛僑中心記者會報導・86人名單）",
+        "shared_tags": [
+          "[source",
+          "epochtimes",
+          "roster]",
+          "大洛杉磯僑界",
+          "大紀元",
+          "聯合聲明"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/epochtimes-socal-wha-48units-2023-05-12.md",
+        "page2": "sources/epochtimes-socal-wha-press-report-2021-05-15.md",
+        "page1_title": "大紀元 2023-05-12 — 大洛杉磯僑界48團體挺台入世衛（2023-05-11 記者會・WHA 聯合聲明・第二份 WHA 名單）",
+        "page2_title": "大紀元 2021-05-15 — 經文處與南加僑界支持台灣參與世衛大會（2021-05-13 洛僑中心記者會報導・86人名單）",
+        "shared_tags": [
+          "WHA",
+          "[source",
+          "epochtimes",
+          "roster]",
+          "世衛",
+          "大洛杉磯僑界",
+          "大紀元",
+          "聯合聲明"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/epochtimes-socal-wha-48units-2023-05-12.md",
+        "page2": "sources/tjj-wha-joint-statement-2021-snapshot-capture.md",
+        "page1_title": "大紀元 2023-05-12 — 大洛杉磯僑界48團體挺台入世衛（2023-05-11 記者會・WHA 聯合聲明・第二份 WHA 名單）",
+        "page2_title": "TJJ 2021-05-17 書面聲明快照 b1d58af16c0a5e5b — frontier 存檔頁（FRONTIER-11180842-38, tier M, 不發佈）",
+        "shared_tags": [
+          "WHA",
+          "[source",
+          "世衛",
+          "聯合聲明"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/epochtimes-socal-wha-press-report-2021-05-15.md",
+        "page2": "sources/tjj-wha-joint-statement-2021-snapshot-capture.md",
+        "page1_title": "大紀元 2021-05-15 — 經文處與南加僑界支持台灣參與世衛大會（2021-05-13 洛僑中心記者會報導・86人名單）",
+        "page2_title": "TJJ 2021-05-17 書面聲明快照 b1d58af16c0a5e5b — frontier 存檔頁（FRONTIER-11180842-38, tier M, 不發佈）",
+        "shared_tags": [
+          "WHA",
+          "[source",
+          "世衛",
+          "聯合聲明"
         ]
       },
       {
@@ -1122,6 +1415,70 @@
       {
         "type": "SHARED_TAGS",
         "page1": "sources/ettoday-taipei-postdebate-poll-2026-11-02.md",
+        "page2": "sources/shen-campaign-dynamics-2026-11-13.md",
+        "page1_title": "Source: ETtoday 民調雲 台北市長辯後民調（蔣萬安 52.0% vs 沈伯洋 40.7%）",
+        "page2_title": "Source: 沈伯洋競選動態與莒光日教材風波（2026-11-10~13 追收）",
+        "shared_tags": [
+          "2026九合一",
+          "[source",
+          "台北市長"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/ettoday-taipei-postdebate-poll-2026-11-02.md",
+        "page2": "sources/shen-campaign-dynamics-2026-11-17.md",
+        "page1_title": "Source: ETtoday 民調雲 台北市長辯後民調（蔣萬安 52.0% vs 沈伯洋 40.7%）",
+        "page2_title": "Source: 沈伯洋競選動態與最終版 AI 模擬（2026-11-17 收錄：北宜生活圈、黃金週規畫、選舉公報攻防、TPOC 最終版、矢板明夫民調質疑）",
+        "shared_tags": [
+          "2026九合一",
+          "[source",
+          "台北市長"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/ettoday-taipei-postdebate-poll-2026-11-02.md",
+        "page2": "sources/taipei-poll-aggregation-2026-11-13.md",
+        "page1_title": "Source: ETtoday 民調雲 台北市長辯後民調（蔣萬安 52.0% vs 沈伯洋 40.7%）",
+        "page2_title": "Source: 2026-11-11~13 台北市長民調聚合追收（TPOC AI 模擬 VIII／PollTrack 加權聚合／TVBS 辯後民調連讀）",
+        "shared_tags": [
+          "2026九合一",
+          "[source",
+          "台北市長",
+          "民調"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/ettoday-taipei-postdebate-poll-2026-11-02.md",
+        "page2": "sources/taipei-poll-final-prelock-2026-11-17.md",
+        "page1_title": "Source: ETtoday 民調雲 台北市長辯後民調（蔣萬安 52.0% vs 沈伯洋 40.7%）",
+        "page2_title": "Source: 2026-11-16~17 台北市長封關前最後一輪民調聚合追收（信民封關／TVBS 封關／鋒燦／勵志協會 TIA／中國時報／ETtoday／TPOC AI 模擬最終版）",
+        "shared_tags": [
+          "2026九合一",
+          "ETtoday",
+          "[source",
+          "台北市長",
+          "民調"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/ettoday-taipei-postdebate-poll-2026-11-02.md",
+        "page2": "sources/taipei-poll-method-analysis-2026-11-13.md",
+        "page1_title": "Source: ETtoday 民調雲 台北市長辯後民調（蔣萬安 52.0% vs 沈伯洋 40.7%）",
+        "page2_title": "Source: 2026-11-12/13 台北市長選舉負面輿情交叉檢驗分析、媒體民調彙整與第三方解讀（本庫彙編多源）",
+        "shared_tags": [
+          "2026九合一",
+          "[source",
+          "台北市長",
+          "民調"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/ettoday-taipei-postdebate-poll-2026-11-02.md",
         "page2": "sources/taipei-strategy-institute-postdebate-poll-2026-11-02.md",
         "page1_title": "Source: ETtoday 民調雲 台北市長辯後民調（蔣萬安 52.0% vs 沈伯洋 40.7%）",
         "page2_title": "Source: 台灣韜略策進學會 台北市長辯後民調（沈伯洋 52.6% vs 蔣萬安 35.3%）",
@@ -1134,14 +1491,78 @@
       },
       {
         "type": "SHARED_TAGS",
-        "page1": "sources/gwytb-zhufenglian-2026-11-04.md",
-        "page2": "sources/taipei-strategy-institute-postdebate-poll-2026-11-02.md",
-        "page1_title": "Source: 國台辦 11/4 例行新聞發布會（朱鳳蓮批沈伯洋「本末倒置、數典忘祖」）",
-        "page2_title": "Source: 台灣韜略策進學會 台北市長辯後民調（沈伯洋 52.6% vs 蔣萬安 35.3%）",
+        "page1": "sources/gwytb-chenbinhua-2026-10-28.md",
+        "page2": "sources/gwytb-chenbinhua-2026-11-18.md",
+        "page1_title": "Source: 國台辦 10/28 例行新聞發布會（陳斌華：跨境鎮壓「子虛烏有」）",
+        "page2_title": "Source: 國台辦 2026-11-18 例行新聞發布會（陳斌華）— 高金素梅起訴案定調「濫用司法迫害政治異己」；本場未點名沈伯洋、無新增司法或懲戒措施",
+        "shared_tags": [
+          "2026九合一]",
+          "[source",
+          "國台辦"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/gwytb-chenbinhua-2026-11-18.md",
+        "page2": "sources/gwytb-zhanghan-2026-11-11.md",
+        "page1_title": "Source: 國台辦 2026-11-18 例行新聞發布會（陳斌華）— 高金素梅起訴案定調「濫用司法迫害政治異己」；本場未點名沈伯洋、無新增司法或懲戒措施",
+        "page2_title": "Source: 國台辦 11/11 例行記者會（張晗）稱「跨國鎮壓」是編造謊言、反滲透法是惡法；陸委會 11/11、梁文傑 11/12 回批",
+        "shared_tags": [
+          "[source",
+          "國台辦",
+          "沈伯洋",
+          "跨國鎮壓"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/gwytb-chenbinhua-2026-11-18.md",
+        "page2": "sources/liang-wenjie-transnational-repression-2026-11-12.md",
+        "page1_title": "Source: 國台辦 2026-11-18 例行新聞發布會（陳斌華）— 高金素梅起訴案定調「濫用司法迫害政治異己」；本場未點名沈伯洋、無新增司法或懲戒措施",
+        "page2_title": "Source: 梁文傑 11/12 記者會點名沈伯洋案與『跨國鎮壓四特徵』（連讀國台辦 11/11 定調）",
+        "shared_tags": [
+          "2026九合一]",
+          "[source",
+          "沈伯洋",
+          "跨國鎮壓"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/gwytb-chenbinhua-2026-11-18.md",
+        "page2": "sources/npa-transnational-repression-2026-11-04.md",
+        "page1_title": "Source: 國台辦 2026-11-18 例行新聞發布會（陳斌華）— 高金素梅起訴案定調「濫用司法迫害政治異己」；本場未點名沈伯洋、無新增司法或懲戒措施",
+        "page2_title": "Source: 警政署 11/4 記者會 — 打擊跨國鎮壓 9 案（含沈伯洋跟拍案）4 案起訴、5 案追緝中",
+        "shared_tags": [
+          "2026九合一]",
+          "[source",
+          "沈伯洋",
+          "跨國鎮壓"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/gwytb-chenbinhua-2026-11-18.md",
+        "page2": "sources/shen-deepfake-and-election-procedure-2026-11-13.md",
+        "page1_title": "Source: 國台辦 2026-11-18 例行新聞發布會（陳斌華）— 高金素梅起訴案定調「濫用司法迫害政治異己」；本場未點名沈伯洋、無新增司法或懲戒措施",
+        "page2_title": "Source: 沈伯洋深偽音檔案與選前假訊息／競選程序記錄（2026-10-29 ~ 11-13）",
+        "shared_tags": [
+          "2026九合一]",
+          "[source",
+          "沈伯洋"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/gwytb-zhanghan-2026-11-11.md",
+        "page2": "sources/gwytb-zhufenglian-2026-11-04.md",
+        "page1_title": "Source: 國台辦 11/11 例行記者會（張晗）稱「跨國鎮壓」是編造謊言、反滲透法是惡法；陸委會 11/11、梁文傑 11/12 回批",
+        "page2_title": "Source: 國台辦 11/4 例行新聞發布會（朱鳳蓮批沈伯洋「本末倒置、數典忘祖」）",
         "shared_tags": [
           "2026九合一",
+          "A歸因]",
           "[source",
-          "台北市長"
+          "國台辦"
         ]
       }
     ]

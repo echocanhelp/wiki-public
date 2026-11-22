@@ -53,6 +53,14 @@ def _bare_escapes(html: str) -> list[str]:
     return out
 
 
+def _article_only(html: str) -> str:
+    # pinto 2026-10-31: gate targets hub-body link escapes. The static section
+    # explorer (sidebar, outside <article>) legitimately emits ../<section> links
+    # which resolve correctly at the custom-domain root — don't scan the chrome.
+    m = re.search(r"<article.*?</article>", html, re.S)
+    return m.group(0) if m else html
+
+
 def check_works() -> int:
     index = PUBLIC / "works" / "index.html"
     if not index.is_file():
@@ -85,7 +93,7 @@ def check_directory(kind: str) -> int:
     if n_good < 10:
         print(f"LINKCHECK_FAIL: {kind}/index.html has only {n_good} href=\"../{kind}/…\" (catalog empty or emit broke)")
         return 1
-    bare = _bare_escapes(html)
+    bare = _bare_escapes(_article_only(html))
     if bare:
         uniq = sorted(set(bare))
         print(

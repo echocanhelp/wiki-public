@@ -1064,7 +1064,7 @@ def main():
         if r["tier"] == 1:
             badge = "✅" if r.get("verification") == "verified" else "⏳"
             print(f"   - Status: {badge} {r.get('verification', 'unknown')}")
-            print(f"   - Live URL: https://echocanhelp.github.io/wiki-public/{r['path'].replace('.md', '')}")
+            print(f"   - Live URL: https://echopedia.tah-society.org/{r['path'].replace('.md', '')}")
 
         if "relation" in r:
             print(f"   - Related via: {r['relation']}")

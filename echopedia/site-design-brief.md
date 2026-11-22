@@ -1,6 +1,6 @@
-## Site design audit — 2026-11-13 00:48
+## Site design audit — 2026-11-21 00:30
 
-- pages_md=15371
+- pages_md=15810
 - critical=0 high=1 medium=0
 - heals_suggested=none
 
@@ -19,15 +19,15 @@
   - `people/lin-yuan-ching.md`
   - `people/yang-jia-you.md`
   - `people/yang-xin.md`
-- **B1** person/org touched ≤7d (rely on recency featured window): 113
-  - `people/albert-chapter1-audiobook-taiwanese-female.md`
-  - `people/albert-chapter1-zh-hsiaochen-full-review.md`
-  - `people/alexander-macdonald.md`
-  - `people/alexander-yeh.md`
-  - `people/alice-huang.md`
+- **B1** person/org touched ≤7d (rely on recency featured window): 315
+  - `people/adam-chang.md`
+  - `people/albert-chapter1-audiobook-consent-and-recording-kit.md`
   - `people/allen-chao.md`
-  - `people/amenda-wu.md`
-  - `people/andrew-lin.md`
+  - `people/amy-li.md`
+  - `people/benny-lee.md`
+  - `people/c-k-kuo.md`
+  - `people/c-p-huang.md`
+  - `people/cady-tsai.md`
 
 ### Programmable heals
 - (none)

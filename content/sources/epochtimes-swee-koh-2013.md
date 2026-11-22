@@ -9,6 +9,14 @@ last_reviewed: 2026-11-06
 ---
 # 大紀元 2013-11-08 — 專訪許瑞慶（Swee Koh）
 
+## Archive Statistics
+
+Counts from this file, not a collection census.
+
+- body tokens (whitespace): 36
+- wikilinks: 0
+
+
 大紀元記者李曼美國休士頓採訪報導，2013-11-08。人物自述訪談（第一手自述、媒體載錄 → 頁面標籤用 alleged/sourced 時依自述性質標 `sourced（本人自述，媒體載錄）`）。
 
 ## 要點（帶日期）

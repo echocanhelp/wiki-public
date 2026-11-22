@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-22",
+  "updated": "2026-11-21",
   "global_auto_allowlist": [
     "tier2_append",
     "last_reviewed",
@@ -350,6 +350,136 @@
       "notes": "added via CLI",
       "added": "2026-08-22",
       "removed": null
+    },
+    {
+      "id": "taiwandaily-net",
+      "enabled": true,
+      "class": "directory-corpus",
+      "display_name": "美洲台灣日報 (Taiwan Daily)",
+      "home_url": "https://www.taiwandaily.net/",
+      "sitemap_urls": [],
+      "seed_urls": [
+        "https://www.taiwandaily.net/"
+      ],
+      "url_include_regex": null,
+      "url_exclude_regex": "wp-admin|cart|login",
+      "event_path_regex": null,
+      "max_urls_per_poll": 20,
+      "cadence_days": 7,
+      "tier2_glob": "knowledge/web-archives/taiwandaily-net-*.md",
+      "manifest": "knowledge/web-archives/taiwandaily-net-MANIFEST.json",
+      "source_hub": "content/sources/taiwandaily-net.md",
+      "primary_pages": [
+        "content/organizations/taiwan-daily.md"
+      ],
+      "entities_sheet": "knowledge/research/taiwandaily-net-entities.md",
+      "auto_apply": [
+        "tier2_append",
+        "last_reviewed",
+        "work_stub"
+      ],
+      "notes": "directory-corpus: REST recent posts + vault; never event_stub/people",
+      "added": "2026-11-18",
+      "removed": null
+    },
+    {
+      "id": "fapa-org",
+      "enabled": false,
+      "class": "live-small",
+      "display_name": "FAPA (fapa.org)",
+      "home_url": "https://fapa.org/",
+      "sitemap_urls": [
+        "https://fapa.org/sitemap.xml"
+      ],
+      "seed_urls": [
+        "https://fapa.org/",
+        "https://fapa.org/about-us/",
+        "https://fapa.org/our-team/",
+        "https://fapa.org/chapter-2/",
+        "https://fapa.org/blog/",
+        "https://fapa.org/category/press-release/",
+        "https://fapa.org/fapa-history-1982-2012/",
+        "https://fapa.org/fapa-history-2012-2022/"
+      ],
+      "url_include_regex": null,
+      "url_exclude_regex": "wp-admin|cart|login",
+      "event_path_regex": "/event/",
+      "max_urls_per_poll": 40,
+      "cadence_days": 7,
+      "tier2_glob": "knowledge/web-archives/fapa-org*.md",
+      "manifest": "knowledge/web-archives/fapa-org",
+      "source_hub": "content/sources/fapa-org.md",
+      "primary_pages": [
+        "content/organizations/formosan-association-for-public-affairs.md"
+      ],
+      "entities_sheet": "knowledge/research/fapa-org-entities.md",
+      "auto_apply": [
+        "tier2_append",
+        "last_reviewed",
+        "event_stub"
+      ],
+      "notes": "added via CLI",
+      "added": "2026-11-21",
+      "removed": null,
+      "note": "home fetch 403 from pinto even with browser UA (WAF IP block, 2026-11-21); stays enabled=false until a scraper-backed fetch path exists. Gate A ingest done via Firecrawl; commit 7e4517d21c4."
+    },
+    {
+      "id": "taiwan-journal-ny",
+      "enabled": false,
+      "fetch": "curl",
+      "source_url": "https://www.taiwan-journal.com/",
+      "primary_pages": [],
+      "manifest": "knowledge/web-archives/taiwan-journal-ny/MANIFEST.json",
+      "source_hub": null,
+      "cadence": "weekly",
+      "corpus_class": "dead-site",
+      "added": "2026-11-21",
+      "added_by": "pinto-operator-audit",
+      "note": "PAPER TIGER redo (2026-11-21 audit): original row was uncommitted and got reset by ci-heal L2 ~03:15; lane never completed Gate A (no hub, no archive dir). Disabled until Wayback capture + hub actually written."
+    },
+    {
+      "id": "colorcat-ucla",
+      "enabled": false,
+      "fetch": "curl",
+      "source_url": "https://colorcat.ucla.edu/",
+      "primary_pages": [],
+      "manifest": "knowledge/web-archives/colorcat-ucla/MANIFEST.json",
+      "source_hub": null,
+      "cadence": "weekly",
+      "corpus_class": "dead-site",
+      "added": "2026-11-21",
+      "added_by": "pinto-operator-audit",
+      "note": "PAPER TIGER redo (2026-11-21 audit): original row was uncommitted and got reset by ci-heal L2 ~03:15; lane never completed Gate A (no hub, no archive dir). Disabled until Wayback capture + hub actually written."
+    },
+    {
+      "id": "ntc-org-gone",
+      "enabled": false,
+      "fetch": "curl",
+      "source_url": "https://ntpc-usa.org/",
+      "primary_pages": [
+        "content/sources/ntpc-usa-org.md"
+      ],
+      "manifest": "knowledge/web-archives/ntc-org-gone/MANIFEST.json",
+      "source_hub": null,
+      "cadence": "weekly",
+      "corpus_class": "dead-site",
+      "added": "2026-11-21",
+      "added_by": "pinto-operator-audit",
+      "note": "PAPER TIGER redo (2026-11-21 audit): original row was uncommitted and got reset by ci-heal L2 ~03:15; lane never completed Gate A (no hub, no archive dir). Disabled until Wayback capture + hub actually written."
+    },
+    {
+      "id": "formosan-future",
+      "enabled": false,
+      "fetch": "curl",
+      "source_url": "https://formosanfuture.net/",
+      "primary_pages": [],
+      "manifest": "knowledge/web-archives/formosan-future/MANIFEST.json",
+      "source_hub": null,
+      "cadence": "weekly",
+      "corpus_class": "dead-site",
+      "added": "2026-11-21",
+      "added_by": "pinto-operator-audit",
+      "note": "PAPER TIGER redo (2026-11-21 audit): original row was uncommitted and got reset by ci-heal L2 ~03:15; lane never completed Gate A (no hub, no archive dir). Disabled until Wayback capture + hub actually written."
     }
   ],
   "archived_sources": []

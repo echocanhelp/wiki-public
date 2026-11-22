@@ -1,15 +1,23 @@
 ---
-title: "休斯頓中華民樂團 HCTMG — 許瑞慶 Swee Koh / 蕭楫 Ji Xiao 紀錄"
+title: "休斯頓中華民樂團 HCTMG — 許瑞慶 [[people/swee-koh|Swee Koh]] / 蕭楫 Ji Xiao 紀錄"
 type: source
 url: "https://www.hctmg.org/sweekoh/"
-publisher: "Houston Chinese Traditional Music Group (休斯頓中華民樂團)"
+publisher: "[[organizations/houston-chinese-traditional-music-group|Houston Chinese Traditional Music Group]] (休斯頓中華民樂團)"
 collected: "2026-11-06"
 collected_by: "pinto (go echopedia deepen — Tzu Chi Houston concert performers)"
 last_reviewed: 2026-11-06
 ---
 # HCTMG — 許瑞慶 / 蕭楫 紀錄頁
 
-休斯頓中華民樂團（HCTMG）官網與節目檔案，擷取 2026-11-06。此頁同時是 2026-11-07 慈濟休士頓慈善音樂會表演者 許瑞慶、蕭楫 的共同網路節點（兩人多次在同一節目單出現）。
+## Archive Statistics
+
+Counts from this file, not a collection census.
+
+- body tokens (whitespace): 188
+- wikilinks: 20
+
+
+[[organizations/houston-chinese-traditional-music-group|休斯頓中華民樂團]]（HCTMG）官網與節目檔案，擷取 2026-11-06。此頁同時是 2026-11-07 [[events/tzuchi-us-event-2026-southern-region-charity-concert|慈濟休士頓慈善音樂會]]表演者 [[people/swee-koh|許瑞慶]]、[[people/eddy-ji-xiao|蕭楫]] 的共同網路節點（兩人多次在同一節目單出現）。
 
 ## 許瑞慶 團員頁（hctmg.org/sweekoh/，逐字）
 
@@ -17,24 +25,24 @@ last_reviewed: 2026-11-06
 
 ## 2011-04-15 第二屆音樂沙龍（minyuehouston.blogspot.com，團方部落格）
 
-- 二胡獨奏《翻身歌》：演奏 **許瑞慶**，**蕭楫（手風琴）**。
+- 二胡獨奏《翻身歌》：演奏 **[[people/swee-koh|許瑞慶]]**，**[[people/eddy-ji-xiao|蕭楫]]（手風琴）**。
 - 許瑞慶介紹（中文）：「許瑞慶原籍**馬來西亞檳城州**，自小喜好音樂。中學開始學習二胡，期間多次獲得馬來西亞全國華樂比賽個人及團體大獎，包括 **1991年二胡比賽冠軍**。其演奏特色為音色渾厚優美，感情細膩及技巧純熟。現為休斯敦中華民樂團**特邀獨奏演員**。」
 - 「**蕭楫，著名音樂家，休斯敦中華民樂團特邀指揮**。」
 
 ## 2019-09-14【月韻弦歌】秋季音樂會節目單（hctmg.org）
 
-- 台灣民謠：補破網 — 二胡：**許瑞慶**，指揮：張新。
-- 二胡與人聲：二泉映月 — 華彥鈞曲，**蕭楫改編**，二胡：許瑞慶，指揮：張新。
+- 台灣民謠：補破網 — 二胡：**[[people/swee-koh|許瑞慶]]**，指揮：張新。
+- 二胡與人聲：二泉映月 — 華彥鈞曲，**[[people/eddy-ji-xiao|蕭楫]]改編**，二胡：許瑞慶，指揮：張新。
 
 ## 2010 新年音樂會節目單（minyuehouston.blogspot.com）
 
-- 合奏《喜洋洋》《京調》— **指揮 蕭楫**。
+- 合奏《喜洋洋》《京調》— **指揮 [[people/eddy-ji-xiao|蕭楫]]**。
 - 雙京胡與樂隊《夜深沉》— **指揮 蕭楫**，配器 張新。
 - 特邀指揮：**蕭 楫**。
 
 ## 2020 新年音樂會節目單（pub.hctmg.org）
 
-- 二胡與人聲：二泉映月 — 華彥鈞曲 **蕭楫改編**（Arr. Ji Xiao），二胡：許瑞慶，指揮：張新。
+- 二胡與人聲：二泉映月 — 華彥鈞曲 **[[people/eddy-ji-xiao|蕭楫]]改編**（Arr. Ji Xiao），二胡：[[people/swee-koh|許瑞慶]]，指揮：張新。
 
 ## 「秋聲賦」音樂沙龍節目文案（hctmg.org）
 
@@ -42,4 +50,11 @@ last_reviewed: 2026-11-06
 
 ## 2013-01-12《弦歌》新春音樂會（中國質量新聞網轉美國特约報導）
 
-- 休斯敦中華民樂團於休斯敦浸信會大學音樂廳（Houston Baptist University）舉辦；**许瑞庆演奏大型二胡協奏曲《新婚别》**，全場500餘位中美觀眾。
+- [[organizations/houston-chinese-traditional-music-group|休斯敦中華民樂團]]於休斯敦浸信會大學音樂廳（Houston Baptist University）舉辦；**[[people/swee-koh|许瑞庆]]演奏大型二胡協奏曲《新婚别》**，全場500餘位中美觀眾。
+
+## 相關頁面
+
+- 人物：[[people/swee-koh|許瑞慶 Swee Koh]] · [[people/eddy-ji-xiao|蕭楫 Eddy Ji Xiao]]
+- 團體：[[organizations/houston-chinese-traditional-music-group|休斯頓中華民樂團 HCTMG]]
+- 活動：[[events/tzuchi-us-event-2026-southern-region-charity-concert|Tzu Chi USA 南區慈善音樂會 2026]]
+- 共同出處：[[sources/tzuchi-us|tzuchi.us 存檔]] · [[sources/epochtimes-swee-koh-2013|大紀元 2013-11-08 許瑞慶專訪]] · [[sources/udn-writers-society-xiao-ji|美南作協 蕭楫 存檔]]

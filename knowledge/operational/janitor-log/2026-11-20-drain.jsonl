@@ -1,0 +1,40 @@
+{"path": "people/janet-tsai.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/winnie-chiu.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/ev-winter-reunion.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "events/ev-s-30th-anniversary.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/taiwanese-association-of-alabama-birmingham.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/rev-james-chang.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/rev-h-d-chen.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/prof-yang-en-cheng.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/rev-c-l-tong.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/chee-hway-tsai.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "organizations/boston-university-taiwanese-student-association.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/rev-james-i-cheng.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/shih-chieh-huang.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/prof-sze-ya-yeh.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/tah-p-b256f6296d.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/rev-edward-bin-tanng.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "people/prof-tian-min-lin.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "topics/t-沈伯洋真的遭到境外監控-民進黨-中國跨國鎮壓已不是第一案.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "topics/t-涉監視賴清德在美兒子-美國地產經紀被控充當中國代理人-radio-canada.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-面對中國跨國鎮壓-李明哲訪歐盼與民主陣營共享台灣經驗.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-揭露後仍未收手-陸委會跨境鎮壓5案例列賴清德之子.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-跟監賴清德兒子扯出案外案-張婉瑩遭爆婚外情-中國裔情人也涉案.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-警政署強力打擊跨國鎮壓-嚴查境外勢力在台協力網絡-桃園電子報.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-張婉瑩監視賴清德兒子案外案-cbs追查人脈牽出柬埔寨太子集團.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "sources/zhwp-syaru-shirley-lin.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "topics/t-監視賴清德之子被逮-美媒追查華裔女房仲-驚見牽出太子集團.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-金鐘61-博恩-胸插芒草-藏深意-突糾正用法-希望台灣人知道-自由娛樂.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-鄭麗文彰化造勢-轟綠能源政策-把台灣人裝肖仔.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-高雄港區新聞網-臺灣港務公司四度拿下教育部優等獎-ai共學-人才永續成轉型關鍵.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "people/鄭麗文.md", "findings": [], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "topics/t-對抗中國跨國鎮壓-歐盟經驗可以攻錯.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-袁紅冰-中共跨國鎮壓再釀人間悲劇.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-封面故事-相聲演員嘲諷中國被車撞-沈伯洋遭三波跨國鎮壓內幕.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-防制跨國鎮壓-警政署嚴查-在臺協力者.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-中國介選鎖定沈伯洋父親-安保協會揭-港媒抹黑-國台辦制裁-時間軸-家族企業二度遭懲戒.md", "findings": ["LINK_BODY_SPARSE"], "acts": ["NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)"]}
+{"path": "topics/t-台灣人在紐約-沈伯洋vs蔣萬安-海外台灣人要飛回家投票.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-共諜案爆三角戀-女房仲涉監視賴清德兒子-坐擁7豪宅還爆婚外情.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-飛龍在天-江宏恩現身挺沈伯洋-喊-我台灣人拍台灣戲.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "topics/t-tsmc-to-build-additional-3nm-fab-in-sout.md", "findings": ["NO_RELATED_PAGES"], "acts": ["add Related Pages stub", "WROTE"]}
+{"path": "sources/udn-taipei-mayor-poll-2026-10-27.md", "findings": ["NO_LAST_REVIEWED"], "acts": ["refresh last_reviewed", "WROTE"]}

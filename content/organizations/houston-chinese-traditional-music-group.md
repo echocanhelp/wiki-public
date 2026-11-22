@@ -35,9 +35,14 @@ last_reviewed: 2026-11-06
 - **2010-01-09** — 2010 新年音樂會節目單：特邀指揮**蕭楫**（合奏《喜洋洋》《京調》、雙京胡與樂隊《夜深沉》）；藝術總監張新 — [[sources/hctmg-swee-koh-ji-xiao|HCTMG 紀錄頁]] — `sourced`
 - **2011-04-15** — 第二屆音樂沙龍（東方藝術教育中心）：二胡獨奏《翻身歌》許瑞慶、蕭楫（手風琴）；許瑞慶記為「特邀獨奏演員」、蕭楫記為「特邀指揮」 — [[sources/hctmg-swee-koh-ji-xiao|HCTMG 紀錄頁]] — `sourced`
 - **2013-01-12** — 《弦歌》新春音樂會（休斯敦浸信會大學音樂廳）：許瑞慶演奏二胡協奏曲《新婚別》，觀眾500餘 — [[sources/hctmg-swee-koh-ji-xiao|HCTMG 紀錄頁]] — `sourced`
+- **2014-08-15**（美南作協 udn 部落格發布日）— 美南作協「當文學與音樂相遇」座談會（2014-08-23 王朝商場二樓華美銀行社區活動中心）講員簡介稱蕭楫「旅居美國以後，不僅曾擔任休士頓僑界多個樂團的指揮（見 休斯頓中華民樂團）」，本團名列其所指「休士頓僑界多個樂團」 — [[sources/udn-writers-society-xiao-ji|美南作協 udn 部落格 蕭楫專段]] — `sourced`（第三方人物簡介對本團的提及；團名以「見…」括注出現於原文）
 - **2019-09-14** — 【月韻弦歌】秋季音樂會（休士頓玉佛寺，免票）：許瑞慶二胡《補破網》《二泉映月》；《二泉映月》為**蕭楫改編**版 — [[sources/hctmg-swee-koh-ji-xiao|HCTMG 紀錄頁]] — `sourced`
 - **2020-01-18** — 第11屆新年音樂會（HBU Belin Chapel）：仍使用蕭楫改編《二泉映月》（二胡許瑞慶、指揮張新） — [[sources/hctmg-swee-koh-ji-xiao|HCTMG 紀錄頁]] — `sourced`
 - **abt. 2023–24** — 「秋聲賦」音樂沙龍文案：許瑞慶擔任團內首演胡琴四重奏《鴻雁》《趕牲靈》第一聲部領奏；團慶文案自稱「活躍休斯敦社區舞臺十七載」 — `sourced（機構自述）`
+
+## Quotes
+
+經核（2026-11-15，本卡）：本頁唯一引語候選人——「（二）蕭楫先生：畢業於四川音樂學院作曲系，旅居美國以後，不僅曾擔任休士頓僑界多個樂團的指揮（見 休斯頓中華民樂團），並多次擔任海華音樂會指揮。」——主語為 [[people/eddy-ji-xiao|蕭楫]] 之傳記簡介（美南作協 2014-08-15 講員預告），**非本團自身言論**；依「confirm, do not invent」不作為本團 quote 貼入，其事實內容已由上方 From the record 之 2014-08-15 條目吸收 — [[sources/udn-writers-society-xiao-ji|美南作協 udn 部落格 蕭楫專段]]
 
 ## Community Relevance
 
@@ -64,4 +69,5 @@ last_reviewed: 2026-11-06
 
 ## Revision History
 
+- 2026-11-15: DEEPEN-X slice 11132047-1 (t_c9257ff3) — 吸收本卡所列 1 檔回鏈：[[sources/udn-writers-society-xiao-ji|美南作協 udn 部落格 蕭楫專段]]（2014-08-15 發布）以 2014-08-15 dated sourced 條目納入 From the record；新增 Quotes 節，經核候選語句主語為蕭楫本人傳記簡介、非本團自身言論，依「confirm, do not invent」不貼入，僅記錄核查結果。
 - 2026-11-06: Minted during Tzu Chi concert performer deepen pass (go echopedia deepen — all performers).

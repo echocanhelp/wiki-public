@@ -1,0 +1,18 @@
+{
+  "_doc": "Hot-subject watch list (dossier doctrine #8). Re-collect weekly until election/verdict, quarterly after. Never rewrite dated rows — append.",
+  "subjects": [
+    {
+      "page": "people/沈伯洋.md",
+      "added": "2026-10-20",
+      "watch_until": "2026-11-28",
+      "why": "2026-11-28 台北市長選舉；北檢分案偵辦中（未判決）；國台辦通緝態勢持續",
+      "recollect": [
+        "投票結果與得票",
+        "北檢偵查進展/起訴後審判態勢",
+        "國台辦後續措施",
+        "得票對比舊民調"
+      ],
+      "last_recollected": "2026-11-17"
+    }
+  ]
+}

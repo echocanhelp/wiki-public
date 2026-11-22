@@ -1,0 +1,71 @@
+=== SITE DESIGN HEAL — 2026-11-20 dry=0 audit_only=1 ===
+flags: heal=True featured=True publish=True
+SITE_DESIGN_STATUS: ACTION
+SITE_DESIGN_SUMMARY: critical=0 high=3 medium=0 md=15806 heals=publish
+HIGH: [A3] MD without HTML: 36 (recent≤7d: 36)
+HIGH: [B3] new/changed MD missing HTML (≤7d)
+HIGH: [A8] Explorer useSavedState not false on homepage (stale localStorage fileTree)
+SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
+SITE_DESIGN_HEAL: audit-only status=ACTION
+=== SITE DESIGN AUDIT ===
+SITE_DESIGN_STATUS: ACTION
+SITE_DESIGN_SUMMARY: critical=0 high=3 medium=0 md=15806 heals=publish
+HIGH: [A3] MD without HTML: 36 (recent≤7d: 36)
+HIGH: [B3] new/changed MD missing HTML (≤7d)
+HIGH: [A8] Explorer useSavedState not false on homepage (stale localStorage fileTree)
+SITE_DESIGN_BRIEF: /home/leedt/echo-system/echopedia/site-design-brief.md
+## Site design audit — 2026-11-20 00:30
+
+- pages_md=15806
+- critical=0 high=3 medium=0
+- heals_suggested=publish
+
+### Summary
+- **SITE_DESIGN_STATUS: ACTION**
+
+### HIGH (3)
+- **A3** MD without HTML: 36 (recent≤7d: 36) `[heal:publish]`
+  - `people/su-shih-ying.md`
+  - `sources/csulb-frontier-11190824-45-2026-11-19.md`
+  - `sources/densho-ddr-densho-446-382-tsai-ordination-capture.md`
+  - `sources/dr-lii-mei-beverly-chang-frontier-11190824-10-2026-11-19.md`
+  - `sources/dr-richard-r-hwang-frontier-11190824-16-2026-11-19.md`
+  - `sources/dr-shug-hong-young-frontier-11190824-17-2026-11-19.md`
+  - `sources/dr-teng-lung-hsu-frontier-11190824-11-2026-11-19.md`
+  - `sources/ehin-lin-guo-frontier-11190824-39-2026-11-19.md`
+- **B3** new/changed MD missing HTML (≤7d) `[heal:publish]`
+  - `people/su-shih-ying.md`
+  - `sources/csulb-frontier-11190824-45-2026-11-19.md`
+  - `sources/densho-ddr-densho-446-382-tsai-ordination-capture.md`
+  - `sources/dr-lii-mei-beverly-chang-frontier-11190824-10-2026-11-19.md`
+  - `sources/dr-richard-r-hwang-frontier-11190824-16-2026-11-19.md`
+  - `sources/dr-shug-hong-young-frontier-11190824-17-2026-11-19.md`
+  - `sources/dr-teng-lung-hsu-frontier-11190824-11-2026-11-19.md`
+  - `sources/ehin-lin-guo-frontier-11190824-39-2026-11-19.md`
+- **A8** Explorer useSavedState not false on homepage (stale localStorage fileTree)
+  - path: `/home/leedt/echo-system/index.html`
+
+### INFO (2)
+- **B2** pinned featured pages: 6 (cap 6 people + 3 orgs; overflow hides recency)
+  - `people/albert-s-lai.md`
+  - `people/liao-shu-zong.md`
+  - `people/lin-fu-kun.md`
+  - `people/lin-yuan-ching.md`
+  - `people/yang-jia-you.md`
+  - `people/yang-xin.md`
+- **B1** person/org touched ≤7d (rely on recency featured window): 340
+  - `people/adam-chang.md`
+  - `people/albert-chapter1-audiobook-consent-and-recording-kit.md`
+  - `people/allen-chao.md`
+  - `people/amy-li.md`
+  - `people/andrew-lin.md`
+  - `people/benny-lee.md`
+  - `people/c-k-kuo.md`
+  - `people/c-p-huang.md`
+
+### Programmable heals
+- publish
+
+### P13 agent scope
+- Only items marked AGENT_SUGGESTED or human-directed layout marker fixes.
+- Canon: echopedia/SITE_DESIGN.md

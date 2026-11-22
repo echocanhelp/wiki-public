@@ -1334,3 +1334,84 @@
 {"ts": "2026-11-13T06:50:12Z", "status": "hit", "query": "@Echo許 AI助理 read skill tahs-grants-applications and inform David Lee @David Lee briefly and concisely of his name being utilized as personnel in grant applicati", "slug": "david-lee", "source": "cron", "kind": "person"}
 {"ts": "2026-11-13T06:50:13Z", "status": "hit", "query": "@Echo許 AI助理 Go echopedia Stacy Lu CCRP IQVIA Biotech and UCSD verified @Stacy search online and deepen/publish, provide echopedia link", "slug": "stacy-lu", "source": "cron", "kind": "person"}
 {"ts": "2026-11-13T07:41:35Z", "status": "hit", "query": "[Hsuperman] #3 check echopedia, board chair is Charles yang check echopedia", "slug": "yang-jia-you", "source": "brain", "kind": "person"}
+{"ts": "2026-11-13T19:01:14Z", "status": "hit", "query": "@Echo許 AI助理 Thank Ashton", "slug": "ashton-hsu", "source": "brain", "kind": "person"}
+{"ts": "2026-11-13T19:01:39Z", "status": "miss", "query": "@Echo許 AI助理 can you remove the Java and community connection part about me", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-11-13T19:03:19Z", "status": "hit", "query": "@Echo許 AI助理 first cousin is good, make the change", "slug": "southern-california-alumni-association-of-tainan-first-senior-high-sch", "source": "brain", "kind": "organization"}
+{"ts": "2026-11-16T23:50:21Z", "status": "hit", "query": "@Echo許 AI助理 Thank Ashton", "slug": "ashton-hsu", "source": "brain", "kind": "person"}
+{"ts": "2026-11-17T07:07:43Z", "status": "miss", "query": "[Hsuperman] what is fedfinance sf-424", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-11-17T07:18:25Z", "status": "miss", "query": "[Hsuperman] what/who is the aor in #1", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-11-18T19:00:46Z", "status": "miss", "query": "[Hsuperman] who is lee ann mah and where did you source that person", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-11-18T19:56:07Z", "status": "miss", "query": "[Hsuperman] our sos entity number is 3616789, what is our ftb entity number", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-11-19T04:16:51Z", "status": "miss", "query": "[Hsuperman] Go echopedia website taiwandaily.net", "slug": null, "source": "brain", "kind": null}
+{"ts": "2026-11-19T18:49:02Z", "status": "hit", "query": "高銘憲", "slug": "ming-shian-kao", "source": "cli", "kind": "person"}
+{"ts": "2026-11-19T18:49:10Z", "status": "hit", "query": "Ming-Shian Kao", "slug": "ming-shian-kao", "source": "cli", "kind": "person"}
+{"ts": "2026-11-19T18:49:40Z", "status": "hit", "query": "people/ming-shian-kao", "slug": "ming-shian-kao", "source": "cli", "kind": "person"}
+{"ts": "2026-11-19T18:57:20Z", "status": "hit", "query": "許登龍", "slug": "dr-teng-lung-hsu", "source": "all", "kind": "person"}
+{"ts": "2026-11-19T18:57:21Z", "status": "hit", "query": "Teng Lung Hsu", "slug": "dr-teng-lung-hsu", "source": "all", "kind": "person"}
+{"ts": "2026-11-19T18:57:22Z", "status": "hit", "query": "許贊育", "slug": "c-y-hsu", "source": "all", "kind": "person"}
+{"ts": "2026-11-19T18:57:23Z", "status": "hit", "query": "黃瑞鳳", "slug": "r-f-huang", "source": "all", "kind": "person"}
+{"ts": "2026-11-19T18:57:23Z", "status": "hit", "query": "許丕龍", "slug": "ahhee-hsu", "source": "all", "kind": "person"}
+{"ts": "2026-11-19T18:57:54Z", "status": "hit", "query": "杏林男聲四重唱", "slug": "ny-apricot-grove-men-s-vocal-quartet", "source": "all", "kind": "organization"}
+{"ts": "2026-11-19T19:03:12Z", "status": "hit", "query": "蔡佩玲 中醫師 TAHS 講座", "slug": "taiwanese-american-historical-society", "source": "frontier-14", "kind": "organization"}
+{"ts": "2026-11-19T19:08:34Z", "status": "hit", "query": "黃瑞煊", "slug": "dr-richard-r-hwang", "source": "cli", "kind": "person"}
+{"ts": "2026-11-19T19:08:36Z", "status": "hit", "query": "Richard R. Hwang", "slug": "dr-richard-r-hwang", "source": "cli", "kind": "person"}
+{"ts": "2026-11-19T19:10:14Z", "status": "hit", "query": "楊士宏", "slug": "dr-shug-hong-young", "source": "cli", "kind": "person"}
+{"ts": "2026-11-19T19:10:16Z", "status": "hit", "query": "Shug-Hong Young", "slug": "dr-shug-hong-young", "source": "cli", "kind": "person"}
+{"ts": "2026-11-19T19:10:18Z", "status": "hit", "query": "蘇秋莉", "slug": "julie-su-young", "source": "cli", "kind": "person"}
+{"ts": "2026-11-19T19:10:20Z", "status": "hit", "query": "福爾摩沙表演藝術協會", "slug": "formosan-society-for-performing-arts-inc-fospa", "source": "cli", "kind": "organization"}
+{"ts": "2026-11-19T19:10:21Z", "status": "hit", "query": "紐約福爾摩沙合唱團", "slug": "formosan-society-for-performing-arts-inc-fospa", "source": "cli", "kind": "organization"}
+{"ts": "2026-11-19T19:35:15Z", "status": "hit", "query": "林淑麗", "slug": "shwu-lih-lin", "source": "frontier", "kind": "person"}
+{"ts": "2026-11-19T19:35:16Z", "status": "hit", "query": "Shwu Lih Lin", "slug": "shwu-lih-lin", "source": "frontier", "kind": "person"}
+{"ts": "2026-11-19T19:35:17Z", "status": "hit", "query": "劉兆民", "slug": "dr-chao-min-liu", "source": "frontier", "kind": "person"}
+{"ts": "2026-11-19T19:35:18Z", "status": "hit", "query": "柯金寅", "slug": "kin-ko", "source": "frontier", "kind": "person"}
+{"ts": "2026-11-19T19:35:19Z", "status": "hit", "query": "陳仲欽", "slug": "chungchin-chen", "source": "frontier", "kind": "person"}
+{"ts": "2026-11-19T19:35:20Z", "status": "hit", "query": "薛信夫", "slug": "dr-s-f-sheuh", "source": "frontier", "kind": "person"}
+{"ts": "2026-11-19T19:35:21Z", "status": "hit", "query": "王景弘", "slug": "tah-p-650c4a6677", "source": "frontier", "kind": "person"}
+{"ts": "2026-11-19T19:35:22Z", "status": "hit", "query": "李惠仁", "slug": "huey-j-lee", "source": "frontier", "kind": "person"}
+{"ts": "2026-11-19T19:35:23Z", "status": "hit", "query": "曹長青", "slug": "cao-changqing", "source": "frontier", "kind": "person"}
+{"ts": "2026-11-19T19:35:24Z", "status": "hit", "query": "柯金寅", "slug": "kin-ko", "source": "frontier", "kind": "person"}
+{"ts": "2026-11-19T19:35:37Z", "status": "hit", "query": "林淑麗", "slug": "shwu-lih-lin", "source": "frontier", "kind": "person"}
+{"ts": "2026-11-19T19:35:38Z", "status": "hit", "query": "劉兆民", "slug": "dr-chao-min-liu", "source": "frontier", "kind": "person"}
+{"ts": "2026-11-19T19:35:39Z", "status": "hit", "query": "柯金寅", "slug": "kin-ko", "source": "frontier", "kind": "person"}
+{"ts": "2026-11-19T19:35:39Z", "status": "hit", "query": "陳仲欽", "slug": "chungchin-chen", "source": "frontier", "kind": "person"}
+{"ts": "2026-11-19T19:35:40Z", "status": "hit", "query": "薛信夫", "slug": "dr-s-f-sheuh", "source": "frontier", "kind": "person"}
+{"ts": "2026-11-19T19:35:41Z", "status": "hit", "query": "王景弘", "slug": "tah-p-650c4a6677", "source": "frontier", "kind": "person"}
+{"ts": "2026-11-19T19:35:42Z", "status": "hit", "query": "李惠仁", "slug": "huey-j-lee", "source": "frontier", "kind": "person"}
+{"ts": "2026-11-19T19:35:43Z", "status": "hit", "query": "曹長青", "slug": "cao-changqing", "source": "frontier", "kind": "person"}
+{"ts": "2026-11-19T19:44:04Z", "status": "hit", "query": "洪克璿 NATPA", "slug": "dr-alex-hung", "source": "", "kind": "person"}
+{"ts": "2026-11-19T19:44:05Z", "status": "hit", "query": "葉芸青 Winnie Davis", "slug": "yunching-yeh-davis", "source": "", "kind": "person"}
+{"ts": "2026-11-19T19:44:06Z", "status": "hit", "query": "李敦厚 NATPA", "slug": "tun-hou-lee", "source": "", "kind": "person"}
+{"ts": "2026-11-19T19:44:07Z", "status": "hit", "query": "Ting-Lan Ma", "slug": "ting-lan-ma", "source": "", "kind": "person"}
+{"ts": "2026-11-19T19:48:32Z", "status": "hit", "query": "朱靜懷", "slug": "robert-g-chu", "source": "", "kind": "person"}
+{"ts": "2026-11-19T19:48:33Z", "status": "hit", "query": "Robert G. Chu", "slug": "robert-g-chu", "source": "", "kind": "person"}
+{"ts": "2026-11-19T19:48:35Z", "status": "hit", "query": "Robert Chu judge Los Angeles", "slug": "robert-g-chu", "source": "", "kind": "person"}
+{"ts": "2026-11-19T19:58:49Z", "status": "hit", "query": "許登龍", "slug": "dr-teng-lung-hsu", "source": "people", "kind": "person"}
+{"ts": "2026-11-19T19:58:50Z", "status": "hit", "query": "Teng Lung Hsu", "slug": "dr-teng-lung-hsu", "source": "people", "kind": "person"}
+{"ts": "2026-11-19T19:58:51Z", "status": "hit", "query": "楊士宏", "slug": "dr-shug-hong-young", "source": "people", "kind": "person"}
+{"ts": "2026-11-19T19:58:51Z", "status": "hit", "query": "Shug-Hong Young", "slug": "dr-shug-hong-young", "source": "people", "kind": "person"}
+{"ts": "2026-11-19T20:09:42Z", "status": "hit", "query": "賴俊明", "slug": "lai-junming", "source": "", "kind": "person"}
+{"ts": "2026-11-19T20:09:44Z", "status": "hit", "query": "Lai Junming", "slug": "lai-junming", "source": "", "kind": "person"}
+{"ts": "2026-11-19T20:21:48Z", "status": "hit", "query": "Peter Hsu", "slug": "peter-hsu", "source": "Peter Hsu", "kind": "person"}
+{"ts": "2026-11-19T20:21:48Z", "status": "hit", "query": "徐學猷", "slug": "peter-hsu", "source": "徐學猷", "kind": "person"}
+{"ts": "2026-11-19T20:21:49Z", "status": "hit", "query": "Peter Hsu Enterprises", "slug": "peter-hsu", "source": "Peter Hsu Enterprises", "kind": "person"}
+{"ts": "2026-11-19T20:23:27Z", "status": "hit", "query": "毛平吉 美國加州管理學院", "slug": "p-j-mao", "source": "", "kind": "person"}
+{"ts": "2026-11-19T20:23:28Z", "status": "hit", "query": "P. J. Mao", "slug": "p-j-mao", "source": "", "kind": "person"}
+{"ts": "2026-11-19T20:28:18Z", "status": "hit", "query": "丁曉雯", "slug": "ding-xiaowen-singer", "source": "people/shiao-uen-ding", "kind": "person"}
+{"ts": "2026-11-19T20:28:18Z", "status": "hit", "query": "Shiau-uen Ding", "slug": "shiao-uen-ding", "source": "people/shiao-uen-ding", "kind": "person"}
+{"ts": "2026-11-19T20:28:19Z", "status": "hit", "query": "Shiao-Uen Ding", "slug": "shiao-uen-ding", "source": "people/shiao-uen-ding", "kind": "person"}
+{"ts": "2026-11-19T20:32:02Z", "status": "hit", "query": "郭青齡", "slug": "ehin-lin-guo", "source": "sources", "kind": "person"}
+{"ts": "2026-11-19T20:32:03Z", "status": "hit", "query": "Ehin-Lin Kuo", "slug": "ehin-lin-guo", "source": "sources", "kind": "person"}
+{"ts": "2026-11-19T20:32:05Z", "status": "hit", "query": "郭青齡博士", "slug": "ehin-lin-guo", "source": "sources", "kind": "person"}
+{"ts": "2026-11-19T20:35:28Z", "status": "hit", "query": "林美里", "slug": "lin-mei-li", "source": "frontier-11190824-40", "kind": "person"}
+{"ts": "2026-11-19T20:35:30Z", "status": "hit", "query": "鄭錫堃", "slug": "zheng-xikun", "source": "frontier-11190824-40", "kind": "person"}
+{"ts": "2026-11-19T20:35:34Z", "status": "hit", "query": "賴慧娜", "slug": "hui-na-lin", "source": "frontier-11190824-40", "kind": "person"}
+{"ts": "2026-11-19T23:06:28Z", "status": "hit", "query": "Hung Hui-chu", "slug": "shuo-hui-sophie-hung", "source": "tah story corpus 2014", "kind": "person"}
+{"ts": "2026-11-19T23:06:31Z", "status": "hit", "query": "Taiwanese American Ma Ma Class", "slug": "taiwanese-american-ma-ma-class-dc", "source": "tah story corpus", "kind": "organization"}
+{"ts": "2026-11-19T23:06:41Z", "status": "hit", "query": "Hung Hui-chu", "slug": "shuo-hui-sophie-hung", "source": "tah", "kind": "person"}
+{"ts": "2026-11-19T23:06:42Z", "status": "hit", "query": "Taiwanese American Ma Ma Class", "slug": "taiwanese-american-ma-ma-class-dc", "source": "tah", "kind": "organization"}
+{"ts": "2026-11-19T23:15:07Z", "status": "hit", "query": "Ian Y. Lian", "slug": "ian-y-lian", "source": "frontier-44", "kind": "person"}
+{"ts": "2026-11-19T23:15:07Z", "status": "hit", "query": "Ian Lian", "slug": "ian-y-lian", "source": "frontier-44", "kind": "person"}
+{"ts": "2026-11-19T23:19:16Z", "status": "hit", "query": "王健椎", "slug": "dr-jian-juei-wang", "source": "", "kind": "person"}
+{"ts": "2026-11-19T23:19:17Z", "status": "hit", "query": "Jian-Juei Wang", "slug": "dr-jian-juei-wang", "source": "", "kind": "person"}
+{"ts": "2026-11-20T21:13:36Z", "status": "hit", "query": "[Hsuperman] David lee new title with tahs is advisor, scrub our website tah-society.org and make sure its updated then provide links for verification", "slug": "david-lee", "source": "brain", "kind": "person"}
+{"ts": "2026-11-21T17:25:50Z", "status": "miss", "query": "[Hsuperman] go echopedia fapa.org", "slug": null, "source": "brain", "kind": null}

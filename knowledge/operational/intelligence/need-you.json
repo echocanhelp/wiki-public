@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-11-04T16:30:55Z",
+  "generated_at": "2026-11-21T16:31:58Z",
   "max": 5,
   "count": 5,
   "items": [
+    {
+      "id": "gap_7b1a33a434",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “荒山亮”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "cli",
+      "ts": "2026-11-04T20:09:40Z"
+    },
+    {
+      "id": "gap_24ca0f5498",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “Tzu Chi USA”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "cli",
+      "ts": "2026-11-04T20:09:38Z"
+    },
+    {
+      "id": "gap_7835ca4f22",
+      "priority": 1,
+      "kind": "gap_miss",
+      "title": "Echopedia miss: “Tzu Chi Houston”",
+      "action": "Confirm identity / approve thin page / or dismiss",
+      "source": "cli",
+      "ts": "2026-11-04T20:09:36Z"
+    },
     {
       "id": "gap_eb156e3a11",
       "priority": 1,
@@ -20,33 +47,6 @@
       "action": "Confirm identity / approve thin page / or dismiss",
       "source": "cli",
       "ts": "2026-11-01T04:02:13Z"
-    },
-    {
-      "id": "gap_19e39fdfb7",
-      "priority": 1,
-      "kind": "gap_miss",
-      "title": "Echopedia miss: “衛生福利部”",
-      "action": "Confirm identity / approve thin page / or dismiss",
-      "source": "cli",
-      "ts": "2026-11-01T04:02:12Z"
-    },
-    {
-      "id": "gap_e767d3f561",
-      "priority": 1,
-      "kind": "gap_miss",
-      "title": "Echopedia miss: “內政部”",
-      "action": "Confirm identity / approve thin page / or dismiss",
-      "source": "cli",
-      "ts": "2026-11-01T04:02:11Z"
-    },
-    {
-      "id": "gap_2af7cc0e1d",
-      "priority": 1,
-      "kind": "gap_miss",
-      "title": "Echopedia miss: “Rakuten 樂天旅遊”",
-      "action": "Confirm identity / approve thin page / or dismiss",
-      "source": "cli",
-      "ts": "2026-10-31T20:31:15Z"
     }
   ]
 }

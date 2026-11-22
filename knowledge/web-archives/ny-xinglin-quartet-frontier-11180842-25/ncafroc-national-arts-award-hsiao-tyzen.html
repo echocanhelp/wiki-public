@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="zh_TW">
+<head>
+    <!-- Google tag (gtag.js) -->
+    <title>國家文藝獎</title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4NFKY8VX56"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-4NFKY8VX56');
+    </script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="shortcut Icon" type="image/x-icon" href="/resources/artsaward/common/img/logo/favicon256.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="">
+    <link rel="icon" type="image/png" sizes="32x32" href="">
+    <link rel="icon" type="image/png" sizes="96x96" href="">
+
+    
+
+    <!-- core -->
+    <script src="/resources/artsaward/core/jquery-3.7.1/jquery-3.7.1.min.js"></script>
+    <link href="/resources/artsaward/core/bootstrap-5.1.3/css/bootstrap.min.css" rel="stylesheet">
+    <script src="/resources/artsaward/core/bootstrap-5.1.3/js/bootstrap.bundle.min.js"></script>
+
+    <!-- plugins -->
+    <link href="/resources/artsaward/plugins/fontawesome-free-5.15.1-web/css/all.min.css" rel="stylesheet">
+    <script src="/resources/artsaward/plugins/svg-inject-v1.2.3/svg-inject.min.js"></script>
+    <link href="/resources/artsaward/plugins/fancyapps-5.0.22/dist/fancybox/fancybox.css" rel="stylesheet">
+    <script src="/resources/artsaward/plugins/fancyapps-5.0.22/dist/fancybox/fancybox.umd.js"></script>
+    <script src="/resources/artsaward/plugins/fancyapps-5.0.22/dist/fancybox/l10n/en.umd.js"></script>
+    <script src="/resources/artsaward/plugins/fancyapps-5.0.22/dist/fancybox/l10n/zh_CN.umd.js"></script>
+    <link href="/resources/artsaward/plugins/swiper-9.4.1/swiper-bundle.min.css" rel="stylesheet">
+    <script src="/resources/artsaward/plugins/swiper-9.4.1/swiper-bundle.min.js"></script>
+
+    <!-- main -->
+    <link href="/resources/artsaward/common/css/main.css" rel="stylesheet">
+    <script src="/resources/artsaward/common/js/main.js"></script>
+</head>
+<body id="winner-detail">
+    <div id="wrap">
+        <header class="header">
+    <nav class="navbar navbar-expand-lg navbar-light h-100">
+        <div class="container-lg">
+            <a class="navbar-brand" href="/artsaward/index">
+                <img src="/resources/artsaward/common/img/logo/logo.svg" onload="SVGInject(this)" class="header_logo interact_primary" alt=""/>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-expanded="false">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarToggler">
+                <ul class="navbar-nav ms-auto">
+					<li class="nav-item">
+                        <a class="nav-link px-lg-2 px-xl-4" aria-current="page" href="/artsaward/about">關於</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link px-lg-2 px-xl-4 active" aria-current="page" href="/artsaward/news">最新消息</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link px-lg-2 px-xl-4" href="/artsaward/winner">歷屆得主</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link px-lg-2 px-xl-4 text-uppercase" href="/artsaward/regulation">設置辦法</a>
+                    </li>
+                    <li class="nav-item">
+                        <div class="nav-link px-lg-3" style="gap: 4px">
+                            <a class="icon_platform _fb" href="https://www.facebook.com/ncafartsaward" target="_blank" rel="noopener noreferrer"></a>
+                            <a class="icon_platform _mail" href="https://www.ncafroc.org.tw/contact.html" target="_blank" rel="noopener noreferrer"></a>
+                            <a class="icon_platform _yt" href="https://www.youtube.com/channel/UCy2b_itQXEXFDl4F1IYbLzg" target="_blank" rel="noopener noreferrer"></a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link px-lg-3"
+                           href="javascript:void(0)"
+                           onclick="switchLang(this)" data-url="/artsaward/winnerDetail@1237?lang=en_US">EN</a>
+                    </li>
+                    <li class="nav-item">
+                        <div class="nav-link px-lg-3 header_search_block">
+                            <button class="btn btn_text_dark d_less_lg_none" onclick="$('#header_search_form').toggle()">
+                                <i class="fa fa-search"></i>
+                            </button>
+                            <form id="header_search_form" class="search_input_block" style="display: none;" action="/artsaward/search">
+                                <input name="keyword" class="form-control rounded-pill" type="text" placeholder="請輸入關鍵字" />
+                                <button class="btn btn_text_dark search_input_btn d-lg-none">
+                                    <i class="fa fa-search"></i>
+                                </button>
+                            </form>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <script>
+        function switchLang(element) {
+            const url = element.getAttribute('data-url');
+            if (url) {
+                // 使用 replace 防止語系切換被記錄進歷史紀錄
+                window.location.replace(url);
+            }
+        }
+    </script>
+</header>
+
+
+        <main>
+            <div class="container pageEnd_padding">
+                <nav>
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="/artsaward/index">首頁</a></li>
+                        <li class="breadcrumb-item"><a href="/artsaward/winner">歷屆得主</a></li>
+                        <li class="breadcrumb-item"><a href="/artsaward/session/8">第8屆</a></li>
+                        <li class="breadcrumb-item active">蕭泰然</li>
+                    </ol>
+                </nav>
+                <div class="panelRow">
+                    <div class="avatarPanel">
+                        <div class="avatar_rect">
+                            <div class="_img">
+                                <div class="bgImg bg_avatar" style="--bg: url(/files/awardArtist/20221027/e75c5f35866f427fac9a06bef2b9840a/e75c5f35866f427fac9a06bef2b9840a.jpg);"></div>
+                            </div>
+                            <div class="_text _text_lg text_shadow text-white">
+                                <div class="_sup">第8屆</div>
+                                <div class="_sup">作曲家</div>
+                                <div class="_name">蕭泰然</div>
+                                <div class="fs_h3">Tyzen Hsiao</div>
+                            </div>
+                        </div>
+                    </div>
+                    <article class="articlePanel">
+                        <div class="articleGroup">
+                            <fieldset class="articleLineTitle title_h3">
+                                <legend>得獎理由</legend>
+                            </fieldset>
+                            <div>作品展現對鄉土的熱愛，成功地融合了浪漫派樂風與台灣民間音樂，並具國際宏觀視野；畢生為音樂嘔心瀝血，克服病魔持續創作，其毅力與執著，足堪典範。<br>作品質與量均豐，深受肯定；是台灣近年來少數能夠在藝術上達成「雅俗共賞」的作曲家之一；將作品帶到世界各地並獲極高讚譽，在國際文化藝術交流工作上作了實質貢獻。</div>
+                        </div>
+                        <div class="articleGroup">
+                            <fieldset class="articleLineTitle title_h3">
+                                <legend>得主介紹</legend>
+                            </fieldset>
+                            <div><p>蕭泰然，1938年出生於台灣高雄市，集鋼琴家、作曲家、指揮家於一身，先後畢業於國立台灣師範大學音樂系、日本東京武藏野音樂大學及美國加州大學洛杉磯分校音樂研究所。1967年返國後曾任教於國立台灣師範大學音樂系及台南家專音樂科，1975年於台北市中山堂首次舉辦「蕭泰然樂展」；年青時以傑出鋼琴家的身份活躍於台灣樂壇。 &nbsp;<br>&nbsp;</p><p>在國外艱苦奮鬥的18年期間，研修現代作曲技法之外，強烈思親、念鄉的情懷不斷地激發他創作有關台灣作品的靈感；「出外人」、「嘸通嫌台灣」、「永遠的故鄉」、「家園的回憶」、「上美的花」等，時時流露出他對台灣最濃的情感和愛。有系統地將國內作曲家的作品推廣到國際上。1987年完成現代曲式的交響樂「Formasa」，於1999年1月6日由「俄羅斯聯邦交響樂團」於莫斯科首演而大放光彩。1988年至1990年完成了小提琴、大提琴、鋼琴三首協奏曲。這些年由世界各地的名家和交響樂團不斷地在海內外演出且深受好評。「台灣」之名隨著他的音樂傳播更廣。 &nbsp;<br>&nbsp;</p><p>其作品多元廣泛；從兒童鋼琴小品到台灣藝術歌曲、聖樂作品、大型交響曲。有鋼琴獨奏曲，四手聯彈曲、雙鋼琴曲、小提琴獨奏集、大提琴曲、長笛曲、鋼琴三重奏、弦樂四重奏、鋼琴五重奏、交響曲等等。除了旋律感人、豐富的和聲色彩和配器等技法的運用，已臻化境。 &nbsp;<br>&nbsp;</p><p>1993年底持著對台灣歷史見証的使命感，開始創作大型交響詩「1947序曲」，由於過度勞累引發了心臟大動脈疾病，生命垂危！經過十多個小時的大手術才挽回生命。而「1947序曲」在他堅定的毅力支持下，以虛弱的身體於1994年完成。1995年返台定居於淡水，依然以虛弱的體力持續地創作出：「台灣魂」、「玉山頌」、「傷痕之歌」、「啊～福爾摩沙」等名曲。 &nbsp;<br>&nbsp;</p><p>這些年來，蕭泰然先生持續以音樂創作，活躍於國際樂壇且備受尊崇。創作半世紀。歷經生命中各種磨難和兩次瀕臨死亡的大手術後，仍持續創作，畢生為台灣的音樂嘔心瀝血，為最高毅力的典範。&nbsp;</p><p>蕭泰然先生於2015年2月24日辭世，享壽78歲。</p></div>
+                        </div>
+                        <div class="articleGroup">
+                            <fieldset class="articleLineTitle title_h3">
+                                <legend>得獎感言</legend>
+                            </fieldset>
+                            <div><p>當我得知獲得「國家文藝獎」時，內心感慨萬千，終生投入音樂，從演奏、指揮、教學到作曲創作，一路走來雖相當艱辛，卻從不孤單，妻兒家人師長同學知心良友，甚至許多素昧生平的鄉親與音樂藝術的同好，是那麼誠摯熱心地安慰我、鼓勵我。</p><p><br>一個音樂創作者，在獲得知音的肯定，是最感欣慰、滿足與感激的，然而要獲得這肯定，是要歷盡多少心血。這一點一滴就漸漸化成每一音符、每一旋律，而譜成歌曲、音樂。這一點一滴也有無數的人影，不時在我心中浮起。我總會情不自禁地從內心深處對這些我永遠心存感激的人輕聲卻深情地說句感謝並祝福的話語。</p><p><br>首先要感謝上帝，賜我音樂的天賦，又使我有機會在人生的每一階段有受造就的機會。再來是要感謝父母、妻兒女家人的愛與支持。接下來是感謝我們共同的母親—我們的故鄉、我們的祖國台灣。是她坎坷曲折的命運遭遇，才激發我無數創作的動機，是她豐富深厚的文化寶藏化成我作曲的泉源。</p><p><br>從孩提到大學，從台灣到海外，人生每一階段的恩師，是造就今日泰然的最大的功勞者，包括家母、我的啟蒙老師在內的每一位，尤其是我至親的內人「仁慈」，在精神上全心全意的支持、鼓勵、付出，她為我的犧牲奉獻是用墨筆難以形容的。我雖無法一一提示，但卻永銘在心。</p><p><br>林肯總統曾說：「我現在所有的成就，以及將來所期待的成就，都歸功於我天使般的母親。」今天在得獎之時，我內心感慨萬千，但我也要說聲：「我現在所有的成就，以及將來所期待的成就，我都要歸功於上述無數的恩人，包括家人、恩師、知音、知心良友，以及許多音樂的同好，甚至素昧平生的觀眾，聽眾與鄉親們。」</p><p><br>最後我還要從內心深處再次感激，感謝我的太太「仁慈」以及兒女媳婦們，對我這次的中風，所付出全心全意、日夜不停的護理照顧、侍候，才有可能這麼快的身體康復、健康起來，感謝上帝的憐憫、恩賜，並祈求上主助我能再次提筆作曲，繼續為主發光，榮神益人，是心所願，阿門。<br>&nbsp;</p></div>
+                        </div>
+                        <div class="articleGroup">
+                            <div class="flex-center-a flex-wrap ch_me_2">
+                                <div>
+                                    <a class="btn btn_primary_outline mb-2" href="/artsaward/winner">< 返回歷屆得主列表</a>
+                                </div>
+                                <div class="ms-auto text-end">
+                                    <button class="btn btn_primary_outline mb-2 ms-auto" onclick="openLightBox('artist-sketch')">藝術家素描 ></button>
+                                    <button class="btn btn_primary_outline mb-2" onclick="openLightBox('artist-note')">記事 ></button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="d-none">
+                            <div id="artist-sketch">
+                                <div class="container_1280 px-3">
+                                    <div class="row gx-md-4 gx-xl-5">
+                                        <div class="col-lg-5 mb-5">
+                                            <div class="title_h3 mb-4">藝術家素描</div>
+                                            <div class="title_h1 mb-5"></div>
+                                            <div class="">文｜顏綠芬</div>
+                                            
+                                        </div>
+                                        <div class="col-lg-7">
+                                            <div class="editor_block"><h4><strong>蕭泰然的音樂歷程與音樂創作</strong><br><br>&nbsp;</h4><p><strong>蕭泰然的音樂歷程</strong><br><strong>啟蒙與學習（1953-1965）</strong><br><br><br>蕭泰然出生於日本時代（1938年 1月1日），成長求學於國民政府時期。他出身於在南臺灣相當具有聲望的家族，父親蕭瑞安是齒科醫生、母親林雪雲是音樂家，兩人都是早期留日學生，由於受日本教育影響，間接接受了西方文明的洗禮，特別注重子女的教育，蕭泰然五歲就由母親啟蒙學琴，又因為是基督教徒，長年浸淫於教會音樂之中。</p><p><br>高雄初中畢業後，蕭泰然進入南部有名的長榮中學，該校是個充滿音樂的教會學校，曾啟發了不少具有音樂才華的年輕人。在三年（1953-56）充滿琴聲、歌聲的校園中，又是個能讓蕭泰然發揮琴藝的環境，那種將來成為音樂家的志向清晰的展現出來。雖然只是短期受教於留日鋼琴家高錦花、聲樂家高雅美門下，也足以讓他順利考上當年音樂系的最高學府臺灣省立師範學院音樂專修科（今臺灣師大音樂系前身）了。</p><p><br>蕭泰然念了兩年的專修科後，先到澎湖的白沙中學教了一年書，然後才再進入音樂系讀了兩年。教他鋼琴的李富美教授也是留日音樂家，她是臺灣鋼琴界元老張彩湘的高徒。蕭泰然在幾位名師的培養和訓練下，又蒙剛從法國回來的現代作曲家許常惠在音樂理論方面的教導，嘗試性的寫了宗教歌曲、合唱曲等，〈《離別》〉合唱曲即是1961年的作品。</p><p><br>1963年，蕭泰然大學畢業後，與高仁慈小姐結婚，完成終身大事。<br>蕭泰然在高雄二中教了一年半的書，深覺所學不足，準備負笈東瀛進修，1964年他開了一場告別音樂會，次年進入武藏野音樂院鍵盤專修科。幸運的是，碰到欣賞他的和聲課教授藤本秀夫引導他走向創作，鋼琴家中根伸也擴展了他的視野。&nbsp;<br><br>　　<br><strong>青春飛揚的鋼琴家生涯、音樂創作初試啼聲（1967-1977）</strong><br><br><br>從日本回來的蕭泰然，挺拔俊秀的外表透露出溫文儒雅的風度和神采飛揚的音樂氣質，儼然是臺灣音樂舞臺上的一顆耀眼的新星。他已是一位前途不可限量的青年音樂家了。1966-1977這十年對蕭泰然而言，是一段教學、演奏、創作的忙碌而豐收的時期。</p><p><br>前六年（1967-1973）主要活動在南部地區，先後專任於文藻女子外語專校（現為文藻大學）和高雄女師專（高雄師大前身），並在臺南家專、臺南神學院兼課，主要教鋼琴、和聲學等；1970年後也在台灣師大音樂系兼課。除了教學與演奏，蕭泰然一直不忘學習的機會。旅居臺灣的加拿大籍音樂家（也是傳教師）德明利姑娘和他同時在臺南神學院兼課，他就時常向她討教，「從Miss Taylor那嚴格的鋼琴演奏風格、細膩的表現法以及對宗教的表現精神，對於確立我往後對宗教音樂的信念與創作均有極大的影響。」蕭泰然曾如此表示。另外，蕭泰然還利用每週三北上教課的機會，向奧地利籍鋼琴家兼作曲家蕭茲博士（Dr. Robert Scholz）請益，深受其在鋼琴演奏和作曲方面的啟示。另外，他也參與演出，較重要的音樂會是1967年與臺南三B管絃樂團合作演出葛利格的《a小調鋼琴協奏曲》，以及1972年與高雄交響樂團演出貝多芬的《第三號鋼琴協奏曲》。創作則有輕歌劇《快樂的農家》（1968）、《我家花園真美麗》（1969）、神劇《耶穌基督》（1971）等。</p><p><br>1973年他獲聘至臺灣師大音樂系專任，在創作上也跨出了歌樂，寫了一首鋼琴三重奏《前奏與賦格》和一首器樂曲《中華交響詩》；接下來的二年，又創作了小提琴獨奏曲、鋼琴曲和聲樂曲，例如至目前都還很受歡迎的《夢幻的恆春小調》、《臺灣頌》、《冥想曲》，以及他獻給蕭茲博士、引以為豪的雙鋼琴曲《幻想圓舞曲》。這些作曲的成果促成了1975年的「蕭泰然樂展」，這些曲子多半是優美流暢的小品，是他初試啼聲，並展露給愛樂者的小小果實。此期的代表性作品是《耶穌基督》、《臺灣頌》、《幻想圓舞曲》。此期的器樂作品雖然不多，但熱情洋溢、扣人心弦，將作曲家的青春活力及心中充滿的希望理想充分的反映出來。這期間並出版了《蕭泰然合唱曲集 II》、《詩影鋼琴小品I》、《詩影鋼琴小品II》、《宗教歌曲集》等樂譜。</p><p><br>70年代國立台灣藝術專科學校已漸漸培養出一批作曲界的生力軍，由許常惠推動的現代音樂也形成一股力量。蕭泰然雖也曾受教於許常惠，卻並不傾向非調性的現代音樂，他仍舊寫他認為親近愛樂者的浪漫風格。也許，他並不把作曲當作他音樂生涯的重點，所以能毫無顧忌的將創作融入生活之中，寫他心中的感受，寫他愛寫的音樂。他倒也認同採取民歌的素材應用到創作上，歌仔戲曲調、平埔調、恆春調等以及通俗歌謠如「有酒干通買嘸」的旋律都曾被運用在他的作品中。</p><p><br>不過好景不常，他終因妻子做生意在財務上受人牽累，在最意氣風發之際，不得不在1977年放棄即將展翅高飛的音樂生涯，遠走美國。<br>　<br><br><strong>美國時期—重新出發，歌樂與器樂小品時期（1977-1985）</strong><br><br>　<br>初至美國，他暫居妹妹蕭美媛所在的亞特蘭大。回顧他的過去，出身良好，學業、藝術專業一帆風順，縱使有小挫折，也幾乎從無匱乏；在社會上，是受尊敬的大學教授，在音樂圈中又是受人欽羨、前途無量的青年音樂家。可以想見的，如此灰頭土臉的離開，在他生命中必然是極端低落與失志。一年來，他意志消沉幾乎毫無創作。1978年他從亞特蘭大移居洛杉磯，一直到後來進入加州州立大學學習為止，可以說是他再出發的時期。因為海外臺灣人對其作品的喜愛和鼓勵，使他重新振作，繼續提筆創作，這段時間的作品仍延續之前的風格，主要創作宗教合唱、臺語歌曲，或為臺灣民歌、通俗歌謠編曲，也就是配鋼琴伴奏或譜成器樂曲（獨奏或合奏）。蕭泰然自稱「主要從事於臺灣民謠的改編及民歌創作。代表作品有獨唱曲《出外人》（創作），合唱及管弦樂曲《出頭天進行曲》（創作），弦樂伴奏合唱曲《媽媽請你也保重》（改編）及弦樂四重奏《黃昏的故鄉》（改編）等。」。算一算大大小小作品合起來有六十多首之多，但幾乎都是短短幾分鐘的小品。較長的作品《臺灣原住民組曲》雖有十幾分鐘，因為是四個曲子，基本上在風格及氣勢上亦屬小品連曲集；《出頭天進行曲》雖是合唱和管弦樂，規模亦小，《黃昏的故鄉》雖然編制上是弦樂四重奏，也只是小小的編曲，並非三或四樂章的大規模樂曲。</p><p><br>但是蕭泰然歌樂所選的歌詞，一是在臺灣教會流傳很久的美麗臺語詩篇，二是已得到大眾喜愛的民謠，三是海外臺灣人所寫的懷鄉或激勵人心的歌詞，例如許丕龍的《咱的家鄉美麗島》，或如《出頭天進行曲》，不管是改編曲或是新創作曲，經過他的手寫出的優美流暢樂聲總是吸引、感動了無數旅美臺灣人，他們由衷的讚美與肯定促使他更加堅定的走向作曲家之路。<br><br><br><strong>1985-1995：跨向管絃樂創作的成熟期</strong><br><br><br>蕭泰然認為他在1985年後的創作是「提升藝術創作的水準，並引入現代作曲的技巧，惟仍以臺灣民謠的精神為創作之根本。」並認為此期是他音樂創作的後期。事實上，這段時期才是蕭泰然在音樂創作上真正成熟的時期。&nbsp;</p><p><br>1985/86年是蕭泰然創作上的一個轉戾點，他以接近半百的年齡再次進入研究所進修，可見蕭泰然的謙卑、上進與自我期許，當然更重要的是他內心那股音樂創作的洶湧潮流，促使他去汲取更多的理論和技術、拓展更寬廣的視野和見聞。類似的情形我們也曾在前輩音樂家陳泗治、郭芝苑身上看到。期許自己在創作上更進一層樓，這也是蕭泰然對摯愛他的海外同鄉作更積極回應的準備，為了具備創作大型作品的能力。他曾表示：「86、87年間深覺自己在作曲上有特別的使命，於是全心投入樂曲創作。」</p><p><br>在臺灣弦樂團所錄製的「本土作曲家弦樂作品系列」唱片說明中，針對《弦樂交響詩》（1985）的樂曲如此解說：「作者在加州L. A.分校研習現代作曲法時的作品。從曲式、旋律、和聲、節奏，以及結構的觀念，均充分表達出作者在現代音樂的領域中，仍然站在二十世紀主流的前鋒，參與艱難開拓的使命。」這段文字點出了作曲家跟上時代的腳步。的確，從這首作品中我們看出蕭泰然運用了現代音樂的手法，他終於跳脫出浪漫主義的溫柔鄉，向前邁進了一大步。這首曲子對位手法成熟、全曲結構嚴謹，並表達出一種掙扎、澎湃與更深沉的內涵。</p><p><br>1987-1991年是他在創作上大豐收的時期，首先完成的是《福爾摩沙交響曲，op.49》（1987），接著是《D調小提琴協奏曲，op.50》（1988），這首三樂章、將近三十分鐘的協奏曲，先是在1989年以鋼琴協奏方式在美國首演，並巡迴演出；完整的管絃樂版於1992年11月由臺籍傑出小提琴家林昭亮在聖地牙哥首演，並且連演三場；數年之後並在上海（1996.5.23林昭亮主奏）演出。臺北則遲至1997年2月24日由林暉鈞主奏演出，同年6月13日則由呂思清主奏演出。</p><p><br>《C調大提琴協奏曲，op.52》（1990）是蕭泰然的第二部協奏曲，仍是他的大力之作，在1992年由曾道雄指揮臺北縣文化中心管絃樂團、歐逸青擔任主奏首演，由於是業餘樂團，也許因為沒有上次幸運，得以請到國際級的演奏家和職業樂團來首演，因此較未受到矚目。</p><p><br>蕭泰然是鋼琴家出身，也寫過相當精采的鋼琴獨奏曲，可是鋼琴協奏曲反而比較難產，他說：「小提琴和大提琴都不是我的本行，寫來較無心理負擔，因為即使沒寫不好也是情有可原的。」結果這兩首樂曲都有不錯的口碑。這一首《c小調鋼琴協奏曲》歷經一年多，可說是殫精竭慮之作，終於在1991年底、1992年初完成，不過卻遲至1994年4月才在加拿大溫哥華由臺裔青年鋼琴家湯崇生首演；臺北的首演是由亨利‧梅哲（Henry Mazer）指揮臺北愛樂交響樂團、彌敦‧史坦博士（Dr. Milton Stern，蕭泰然的指導教授）主奏演出（1995.11.13）。這三部協奏曲，奠定了他作曲家的地位，不僅在懷鄉的臺灣同鄉心目中，也同時得到國內外傑出演奏家的認同，連向來嚴苛的作曲家圈子，也不能不對他刮目相看。</p><p><br>1994年蕭泰然創作了震撼旅居美加臺灣人心靈的《一九四七序曲》，一首為當年二二八事件而寫的管絃樂曲，其中並加進二段合唱《愛與希望》（臺灣詩人李敏勇詩）與《臺灣翠青》（鄭兒玉詩），這兩段是引自作曲家在之前譜好的合唱曲。也許是大病初癒，這部作品雖然長達十九分鐘，兩大段的合唱（約佔全曲的一半份量）基本上直接採用舊作，稍加一點管弦樂色彩。在創意、結構及氣勢上無法與前三部協奏曲相比。不過即使如此，這部作品仍引起相當大的矚目和感動，因為自1947年以來，臺灣言論受箝制，二二八事件的談論更是禁忌，即使藝術創作亦要小心翼翼，否則動輒約談、禁演，雖然1987年解嚴了，數十年的白色恐怖仍深植於人民胸中。年長的藝術家心中的顧忌仍未鬆綁，年輕一輩對當年的悲劇一知半解，也未能有深刻體會，於是雖然公家也辦了不少二二八紀念活動，為這個主題而寫的大型樂曲卻仍無蹤影。蕭泰然身處美國多年，反而較能釋然，加上愛護他、支持他的臺灣同鄉的鼓勵，首部將二二八寫成管絃樂的作品就誕生了。寫作期間，他遭受到生命最大的挑戰，因為大動脈血管留破裂而住進醫院。在與死神搏鬥的過程中，他虔誠的祈求上帝，千萬不要帶走他，一定要等到他將這首樂曲完成後他才能離開世間。他克服了一切，繼續走他未完成的創作之路。<br><br><br><strong>肯定與榮耀：久違的故鄉、與命運掙扎的歲月（1996-至今）</strong><br><br><br>1996年，蕭泰然應文建會聘請，擔任「青年音樂家基金會」駐團作曲家；10月更由母校台灣師大李聘為音樂研究所客座學人，講學三個月。他落居在小提琴家陳幼媛在淡水的雅緻小公寓，遠離塵囂、面海觀海。</p><p><br>在海外，特別是美國、加拿大的台灣人圈子，蕭泰然的名氣響亮，在台灣雖然大家對他也不陌生，卻沒有海外台灣人對他的那種全然的愛戴和欣賞。不過，擄獲故鄉人的心之效應，卻是漸漸開展。有關他作品演出的音樂會不斷，媒體的報導也毫不保留。1998年，「蕭泰然文教基金會」成立，除了提供他一些研究費以外，並有計劃的出版有聲資料和曲譜。1999年他榮獲古典音樂類金曲獎（由小提琴家蘇顯達主奏的「台灣情、泰然心」唱片）。2002年，國立中正文化中心(兩廳院)十五週年慶，由國家交響樂團和實驗合唱團演出「蕭泰然樂展」，這是多少人夢寐以求的殊榮。十多年來，他雖時常為健康原因與病魔纏鬥，甚至與死神擦身而過，卻也更珍惜有限的創作時機，作品數量雖不多，卻屢有佳作，例如鋼琴三重奏op.58（1996年），《玉山頌》（1999）、《浪子》清唱劇（2000）和《啊—福爾摩沙---為殉難者的鎮魂曲》（2001）。另外，也有一些傑出的歌樂產生，像《傷痕之歌》（李敏勇為九二一傷亡者而寫的詩作）、《台灣魂》（戴正德詞）、《爸爸的筆》（許丕龍詞）等。</p><p><br>2003年，高雄市政府文化局在局長管碧玲的推動下，舉辦了「蕭泰然音樂節」，包括展覽、學術研討會、系列音樂會、出版等等，引起各方面的巨大迴響。不過這一年他再度病倒了，而他堅定的意志以及所有關愛他的親友之祝福，讓他從鬼門關一次又一次的回來，虛弱的他暫時在美國休養，無法親逢盛會。<br><br><br><strong>音樂創作的風格與特色</strong><br><br><br>綜觀蕭泰然三十多年來的創作，包括民謠編曲、藝術歌曲、宗教歌曲、鋼琴獨奏（雙鋼琴）、小提琴獨奏、室內樂，以及管絃樂方面的序曲、協奏曲、交響曲，和少數的神劇、輕歌劇。在他的理念上，他希望他的作品能直接深入人心，能感動人，由於這個信念，他從不追隨現代音樂的主流。金希文曾轉述蕭泰然的想法，說臺灣缺乏浪漫派這一環的作品，我們有原住民的音樂、有國樂、有臺灣傳統音樂，然後我們幾乎就跳到相當前衛的音樂領域中，也就是說在臺灣的音樂史裡，缺少了調性音樂三百年的發展，蕭先生似乎期許自己的作品填補這個空檔。對這點，金希文並不完全同意，但是相信有成千上萬的愛樂者是支持他的。蕭泰然的作品風格和特色，先前已有許多人談論過，但是多半用比較感性的形容詞，不外乎「民族性」、「浪漫的」、「拉赫曼尼諾夫的」等。下面則嘗試用比較具體的方式來分析。<br><br><br><strong>一、濃厚的臺灣基督教長老會色彩</strong><br><br>蕭泰然的創作中充滿濃厚的臺灣基督教長老會色彩。蕭泰然從出生以來，就在長老教會，一生都是虔誠的基督教徒，早期為教會譜了一些歌樂，有的並未收錄在作品表中。但是綜觀起來，宗教音樂的數量還是不少，這些為教會所寫的曲子，普遍受到歡迎和演唱；還有一些曲子是蕭泰然前幾年為教會寫的會歌或週年而寫的紀念歌，像《馬偕精神》是馬偕博士逝世百週年紀念歌，《基督福音救臺灣》是淡水教會一百三十年週年紀念歌。</p><p><br>臺灣的長老教會原本就是臺灣人接觸西洋音樂的搖籃，而且臺語聖詩文雅富詩意又平易近人，蕭泰然譜成的歌曲渾然天成，這些作品隨著歌詞內容，有的莊嚴肅穆，有的澎湃起伏，無不充滿對上帝的虔敬。許多非教會的合唱團也因為這些歌曲的優美感人，紛紛納入演唱的曲目。蕭泰然的教會歌曲主要是為詩班而寫，結構單純、和聲簡潔，亦避免艱澀困難的技巧。近年來常有優異表現的作曲家金希文就表示，他特別喜愛蕭泰然為教會詩班所譜的合唱曲，說這些曲子「所流露出他信仰中的感情，實在是令人感動，在有限的格局中展現出深刻的信念，人聲的譜法、鋼琴伴奏的寫法都能不露痕跡的來去自如，這些曲子裡沒有蕭邦或拉赫曼尼諾夫的影子，純粹是蕭泰然教授自己的聲音，既自由又隨意，沒有包袱，很貼心，很自在。」蕭泰然也將藝術歌曲的伴奏風格納入宗教歌曲，使臺語教會歌曲融入了抒情性和漾然詩意。<br><br><br><strong>二、確立了臺語藝術歌曲的地位</strong><br><br>蕭泰然確立了臺語藝術歌曲的地位。日本時代在臺灣傳唱的臺語歌曲，大部分是民歌，另外是模仿民歌風格而寫的曲子，再來就是流行歌，多半只寫旋律，演出時任由樂隊隨性伴奏。</p><p><br>1978年才全力邁向真正作曲家之路的蕭泰然（之前還是多以鋼琴家自許），由於遠離臺灣的政治，反而能盡其所能地為臺灣人譜曲。當年旅居美國的臺灣人，特別是臺灣同鄉會，不僅期待國內民主化腳步加快，更積極參與各種文化活動，尤其是能建立臺灣人信心的活動。對這些愛鄉土卻不願或不能回故鄉的海外臺灣人，蕭泰然確實用音樂反映了他們的心聲、撫慰了他們的心靈。</p><p><br>蕭泰然的歌詞是賴和、李敏勇、林央敏、許丕龍、鄭兒玉等的臺語詩詞，他也自己寫歌詞，感人肺腑的《出外人》和幽默俏皮的《點心擔》就是他有感而發寫的。他的臺語藝術歌曲至少超過五十五首，比起一些旋律寫作者，這個數目不算多，但是以臺語藝術歌曲而言，則是相當多了。蕭泰然所寫的這些歌曲，大部份都是詞意優美，真正講出許多臺灣人的心聲。這當然也是他對歌詞的精挑細選，據莊傳賢先生表示，蕭泰然偏愛臺語詩詞，凡是內容比較健康、有前瞻性，與臺灣這塊土地息息相關的詩或詞，都是他入樂的首要考量。<br><br><br><strong>三、民歌素材的選用全然的臺灣本土</strong><br><br>在民歌素材的選用上，蕭泰然所採用的民歌來源也幾乎是青一色臺灣本土的，平埔調、歌仔調（哭調、七字調等）、一隻鳥兒哮啾啾、農村曲、恆春調等都是他喜歡入樂的旋律；他還擴及從前知識份子不屑一顧的臺語通俗歌曲，像《燒肉粽》、《望春風》、《酒矸通賣嘸》、《黃昏的故鄉》等。這些臺灣人民耳熟能詳的旋律，他用直接編曲的方式，提升其藝術性，或放在器樂曲中變奏、變形，成為充滿鄉土味的創作，或運用在管絃樂曲中，增添美麗的東方色彩，甚至他只用其中幾個典型的音型暗示、潤飾，例如mi-la-la-mi 或 mi—do mi do la 的悲戚音型。<br><br><br><strong>四、臺灣式的沙龍風格和甜蜜溫馨的比德麥雅氣質</strong></p><p>蕭泰然的音樂風格是臺灣式的沙龍風格或甜蜜溫馨的比德麥雅風格（Biedermeier）。蕭泰然的音樂，不管是歌樂、器樂、大型管絃樂，可以說是極富旋律性的，他幾乎是偏愛絃樂器的歌唱性。除了晚期少數作品呈現現代音樂的特質以外，大部分作品還是調性/調式的，是融合了西方大小調和東方的五聲音階，可以說是以西方古典和聲為根基加以變化。他的旋律優雅流暢，很少大跳和不諧和音程。和聲方面常用三和絃加四度音，有時混合德布西的五度平行、全音音階，有些和聲進行又常常跳脫出其功能性。他喜歡用較單純的調性/調式，尤其是小調，c、a、d、f最常見，對位的手法用的很簡潔。一些大曲子，像是「C調大提琴協奏曲」，乍看會以為是C大調，仔細探討才知道是c小調與五聲音階的混合，難怪作曲家不寫明是大調或小調，其他有很多曲子都是如此。</p><p><br>在管弦樂的編制上，蕭泰然是很古典的，除了絃樂團以外，協奏曲、序曲或交響曲都是用二管編制的樂團。在曲式上，二段或三段歌謠體最普遍，變奏曲、迴旋曲、連章曲體或自由形式如幻想曲等，奏鳴曲式較不常見。整體而言，蕭泰然的音樂有如他的個人氣質一般，高雅、溫馨、善體人意，中庸而不極端、熱情而不激情；即使是較大規模的樂曲，人們聽到的是真情流露，叫人深深感動而不是熱血澎湃。<br><br><br><strong>總結</strong><br><br><br>從一位鋼琴家蛻變成長至成熟、全方位的作曲家，除了外在不可抗拒的命運和愛樂者積極鼓勵的機緣以外，蕭泰然的音樂才華、謙卑努力，還有他對臺灣故鄉無盡的關懷與愛，都是這些音樂結晶的原動力。</p><p><br>蕭泰然的信念：為臺灣人填補現代音樂發展前的空隙，以浪漫而感人的作品呈現。無疑地，在過去他受到少數主流派的鄙夷，認為是保守而反潮流的。可是時間證明，他將在臺灣音樂史上佔一個重要的地位；他豐富了臺灣的臺語教會音樂，他建立了臺語藝術歌曲的地位，他打破了白色恐怖在藝術創作上樹立數十年的無形禁忌，他證明了以古典形式、浪漫風格為底仍足以創作優秀而具特色的協奏曲；他提供了臺灣人除了西洋古典音樂、臺灣作曲家學院派音樂以及商業性速成的通俗音樂外，一個另外的選擇，他的典雅感人、深具臺灣風格的音樂，讓許多尋覓臺灣音樂文化未來走向的有心人，彷彿在黑暗中發現了一盞明燈。</p><p><br>他的音樂飄過的每一個角落，就像和煦微風吹過大地，親吻了每一個靈魂，而這樣的效應還在持續擴散中。<br><br>&nbsp;</p><p><br><strong>作者簡介│顏綠芬</strong><br>國立台北藝術大學音樂系教授。</p></div>
+                                            <div class="mt-5">
+                                                <button class="btn btn_primary_outline" data-fancybox-close>< 返回</button>
+                                            </div> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="artist-note">
+                                <div class="container_1280 px-3">
+                                    <div class="title_h3 mb-4">記事</div>
+                                    <div class="editor_block">
+                                        <table class="w-100 artist_note_table">
+                                            <tbody>
+                                                <tr>
+                                                    <td>•</td>
+                                                    <td>聲樂作品表（非宗教性歌曲）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1961</td>
+                                                    <td>離別（合唱曲）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1967</td>
+                                                    <td>靜夜星空（游彌堅詞）
+自律歌（張群詞）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1968</td>
+                                                    <td>快樂的農家（輕歌劇）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1969</td>
+                                                    <td>我家花園真美麗（輕歌劇）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1975</td>
+                                                    <td>兒童合唱曲集（一）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1976</td>
+                                                    <td>兒童合唱曲集（二）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1978</td>
+                                                    <td>出外人（蕭泰然詞）
+點心擔（蕭泰然詞）
+一串小風鈴（王怡之詞）
+晨禱（林祥鳳詞）
+筆兵吟（林祥鳳詞）
+古昔，現在，直到將來（合唱曲）
+先祖的信仰（合唱曲）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1979</td>
+                                                    <td>友誼的獻禮（獨唱曲）
+白話三字經（獨唱曲）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1980</td>
+                                                    <td>望你早歸（改編，女高音，小提琴及鋼琴）
+美國西裝（獨唱曲）默禱（合唱曲）
+今在青年時代（合唱曲）出頭天進行曲（合唱及管弦樂）
+思念故鄉（改編）
+農村曲（改編）
+台灣自治歌（蔡培火詞）
+咱的家鄉美麗島（許丕龍詞）
+恩母頌（改編）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1982</td>
+                                                    <td>我愛媽媽這麼大（蕭泰然詞）
+咱著來吟詩（合唱曲，配鋼琴伴奏）
+搖籃的手（合唱曲，蕭瑞安詞）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1986</td>
+                                                    <td>蕃薯不驚落土爛（許丕龍詞）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1988</td>
+                                                    <td>阿母的頭髮（向陽）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1989</td>
+                                                    <td>憶父親（吳良也詞）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1992</td>
+                                                    <td>上美的花（東方白）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1993</td>
+                                                    <td>台灣翠青（鄭兒玉）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1994</td>
+                                                    <td>愛與希望（李敏勇詞）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1997</td>
+                                                    <td>百合之歌（李敏勇詞）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1998</td>
+                                                    <td>綠色台灣是咱的（宋澤萊）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1999</td>
+                                                    <td>自由之歌（李敏勇詞）
+台灣國民（廖中山詞）
+台灣是寶島（顏信星）
+白鷺鷥（盧修一）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>2000</td>
+                                                    <td>清唱劇－浪子、金齡頌（林宗義）、</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>2001</td>
+                                                    <td>啊—福爾摩沙---為殉難者的鎮魂曲</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>2002</td>
+                                                    <td>團圓（陳隆）、台灣加入聯合國（陳東亮）
+
+</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>•</td>
+                                                    <td>宗教音樂作品</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1971</td>
+                                                    <td>神劇：耶穌基督（蕭瑞安詞）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1974</td>
+                                                    <td>至好朋友就是耶穌（合唱曲）
+主啊！我情願（合唱曲）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1975</td>
+                                                    <td>救主明白</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1978</td>
+                                                    <td>神的慈愛比生命更好（宋華忠詞）
+祂的名稱為奇妙（合唱曲）
+上帝在照顧你（合唱曲）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1980</td>
+                                                    <td>雖然行過死蔭山谷（合唱曲，獨唱曲）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1981</td>
+                                                    <td>奉獻的詩（合唱曲）
+耶穌召我來行路（合唱曲）
+聽見救主出聲在叫（合唱曲）
+聖會獨一的地基（合唱曲）
+奉獻（合唱曲）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1982</td>
+                                                    <td>感恩節的祈禱（合唱曲）
+被壓迫的心聲（獨唱曲）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1984</td>
+                                                    <td>你居起的所在（合唱曲）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1985</td>
+                                                    <td>用感謝入祂的門（合唱曲）
+第一台灣基督長老教會創立五週年紀念歌（蕭瑞安詩篇100篇）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1996</td>
+                                                    <td>食飯感謝祈禱歌（客家聖詩）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1999</td>
+                                                    <td>你要讚美耶和華（合唱曲）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>2000</td>
+                                                    <td>詩篇150（法國巴黎三一大教堂發表）
+
+</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>‧</td>
+                                                    <td>器樂作品（獨奏曲、室內樂及大型管弦樂）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1970</td>
+                                                    <td>望春風（改編，弦樂團）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1973</td>
+                                                    <td>夢幻的恆春小調（改編，獨奏曲，小提琴及鋼琴）
+台灣頌（獨奏曲，小提琴及鋼琴）
+前奏與賦格（鋼琴三重奏）
+夢幻的恆春小調（改編，鋼琴三重奏）
+中華交響詩</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1974</td>
+                                                    <td>賣酒砂的老人（改編，獨奏曲，小提琴及鋼琴）
+悲歌（獨奏曲，小提琴及鋼琴）
+詩影曲集（鋼琴獨奏）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1975</td>
+                                                    <td>冥想曲（獨奏曲，小提琴及鋼琴）
+幻想圓舞曲（雙鋼琴）
+施比受更有福（鋼琴獨奏曲）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1978</td>
+                                                    <td>愛的魔術（獨奏曲，大提琴及鋼琴）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1979</td>
+                                                    <td>Prelude in C （鋼琴獨奏曲）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1980</td>
+                                                    <td>望你早歸（改編，弦樂四重奏）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1981</td>
+                                                    <td>只為著你（獨奏曲，小提琴及鋼琴）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1982</td>
+                                                    <td>思想夜曲（獨奏曲，小提琴及鋼琴）
+驚某調（獨奏曲，小提琴及鋼琴）
+望你早歸（改編，獨奏曲，小提琴及鋼琴）
+燒肉粽（改編，鋼琴五重奏）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1983</td>
+                                                    <td>戀歌（改編，獨奏曲，小提琴及鋼琴）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1984</td>
+                                                    <td>風之舞（獨奏曲，小提琴及鋼琴）
+奇異恩典（改編，鋼琴獨奏）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1985</td>
+                                                    <td>咱台灣（五重奏，鋼琴及弦樂團）
+台灣原住民組曲（鋼琴五重奏）
+弦樂的交響詩（弦樂團）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1986</td>
+                                                    <td>離散（獨奏曲，大提琴及鋼琴）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1987</td>
+                                                    <td>福爾摩沙交響曲（1999年1月6日莫斯科世界首演）
+家園的回憶（鋼琴組曲）
+黃昏的故鄉（弦樂四重奏）
+客家綺想曲（大提琴及鋼琴）
+蘭陽舞曲（鋼琴五重奏）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1988</td>
+                                                    <td>靜夜星空（獨奏曲，大提琴及鋼琴）
+D調小提琴協奏曲（1992年11月13日美國聖地牙哥世界首演）
+1990 C調大提琴協奏曲（1992年7月4日台北社教館世界首演）
+管風琴序曲（獨奏曲）
+豐收（鋼琴四手聯彈）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1991</td>
+                                                    <td>C調大提琴協奏曲（1994年4月10日加拿大溫哥華世界首演）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1993</td>
+                                                    <td>告別練習曲（鋼琴獨奏）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1994</td>
+                                                    <td>一九四七序曲（1995年6月3日美國加州奧克蘭市世界首演）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1995</td>
+                                                    <td>觸技曲（鋼琴獨奏）
+夜曲（獨奏曲，小提琴及鋼琴）
+幻想曲（獨奏曲，長笛及鋼琴）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1996</td>
+                                                    <td>龍舟競賽（鋼琴獨奏曲）
+福爾摩沙（鋼琴三重奏，1996年6月18日波蘭華沙世界首演）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1998</td>
+                                                    <td>簫中簫（洞簫獨奏曲）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1999</td>
+                                                    <td>來自福爾摩沙的天使The Angel from Formosa（管弦樂）
+玉山頌（合唱與樂團，歐亞交響樂團發表）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>2000</td>
+                                                    <td>Soli for Percussion （加拿大溫哥華首演）</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>2015</td>
+                                                    <td>辭世，享壽78歲</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </main>
+
+        <div id="modal">
+
+</div>
+
+        <div class="footerTop">
+    <div class="container position-relative">
+        <button class="btn btn_primary scrollTopBtn" js-scrollTop>
+            <i class="fa fa-chevron-up"></i>
+        </button>
+    </div>
+</div>
+<footer class="footer">
+    <div class="container">
+        <a  href="/artsaward/index">
+            <img src="/resources/artsaward/common/img/logo/logo_footer@2x.png" class="img-fluid footer_logo" alt="">
+        </a>
+        <!--<div class="footer_links">-->
+            <!--<a th:href="@{/artsaward/about}" th:text="#{about}">關於</a>-->
+            <!--<span class="footer_dot"></span>-->
+            <!--<a th:href="@{/artsaward/regulation}" th:text="#{regulation}">設置辦法</a>-->
+            <!--<span class="footer_dot"></span>-->
+            <!--<a th:href="@{/artsaward/download}" th:text="#{download}">下載專刊</a>-->
+        <!--</div>-->
+
+        <div class="footer_ends">
+            <a href="/index">
+                <!-- <img th:src="@{/resources/artsaward/common/img/logo/logo_ncaf@2x.png}" class="img-fluid footer_logo2 interact_primary" alt=""> -->
+				<img src="/resources/artsaward/common/img/logo/ncaf_logo30_r.png" class="img-fluid footer_logo2 interact_primary" alt="">
+            </a>
+            <div class="mt-4 mb-1">財團法人國家文化藝術基金會</div>
+            <div class="">©National Culture and Arts Foundation</div>
+        </div>
+    </div>
+</footer>
+    </div>
+
+    <script>
+        $(function(){
+            $('figure').attr('class', 'image').removeAttr('style');
+
+            fancybox_bindCustom();
+
+            // 檢查網址參數，如果有 modal 參數就自動開啟
+            const urlParams = new URLSearchParams(window.location.search);
+            const modalId = urlParams.get('type');
+            if (modalId && $('#' + modalId).length > 0) {
+                openLightBox(modalId);
+            }
+        })
+        function openLightBox(id){
+            // 更新網址參數
+            const url = new URL(window.location);
+            url.searchParams.set('type', id);
+            history.pushState({}, '', url);
+
+            let html = $('#' + id).html();
+            new Fancybox([
+                {
+                    src: `<div id="${id}-inFancybox" class="container lightbox_inFancybox">${html}</div>`,
+                    type: "html",
+                }
+            ], {
+                dragToClose: false,
+                contentClick: false,
+                on: {
+                    done(){
+                        fancyBox_applyImg_inTarget(`#${id}-inFancybox`, id);
+                    },
+                    close(){
+                        // 關閉時移除網址參數
+                        const url = new URL(window.location);
+                        url.searchParams.delete('type');
+                        history.pushState({}, '', url);
+                    }
+                }
+            })
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+---
+title: "950. Wen-Ling Tu 杜文苓 / 2016/04"
+type: work
+source_id: taiwaneseamericanhistory-org
+value_band: B
+license: all-rights
+verification_status: pending
+last_reviewed: 2026-09-07
+---
+# 950. Wen-Ling Tu 杜文苓 / 2016/04
+
+## Identity Snapshot
+- Era: 2016
+- Geography: Taiwanese America
+- Core roles: historical work (story; band B)
+- Source org: [[organizations/taiwaneseamericanhistory-org]]
+
+## Record
+- **Date:** 2016-04-24
+- **Byline:** —
+- **Original:** [https://taiwaneseamericanhistory.org/whoswho950/](https://taiwaneseamericanhistory.org/whoswho950/)
+- **Value band:** B (A=oral/interview/community history · B=essay/feature · C=creative bib · D=chrome/skip)
+- **License:** all-rights
+
+## Article
+Cited from the original ([source](https://taiwaneseamericanhistory.org/whoswho950/)). Echopedia holds this as community historical record.
+
+_Bibliographic record only. Full text stays in the vault._
+
+
+## Timeline
+- 2016-04-24 — published
+
+## Subjects
+- [[people/wen-ling-tu|Wen-Ling Tu]] — subject of this Who's Who self-report (杜文苓); dated facts absorbed 2026-11-14 at [[sources/tah-whoswho-wen-ling-tu-capture]]
+
+verified-saturation: 2026-11-14 (FLOOR-ANCHOR t_c7eccef4: whole-corpus sweep 杜文苓/Wen-Ling Tu complete; self-report + four event records absorbed; no further citable source on this box)
+
+## Related Pages
+- [[organizations/taiwanese-american-historical-society|TAHS]]
+- [[organizations/taiwaneseamericanhistory-org]]
+- [[sources/taiwaneseamericanhistory-org-story-corpus|Source hub]]

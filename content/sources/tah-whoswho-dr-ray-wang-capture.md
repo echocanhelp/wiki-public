@@ -6,9 +6,11 @@ tags:
   - tah-foundation
   - tah-whos-who
 verification_status: pending
-last_reviewed: 2026-11-12
+last_reviewed: 2026-11-13
 ---
 # TAH Who's Who profile capture — 2306. Dr. Ray Wang 王瑞華博士
+
+This page is the source capture for [[people/dr-ray-wang|Dr. Ray Wang 王瑞華博士]], record #2306 in the TAH Foundation Who's Who. It preserves his self-reported profile — born in Taipei, arrived in the U.S. in 1971 to Kansas State University, chemical engineer and statistician (NTU B.S.; K-State M.S. ×2 and Ph.D.; career at OLIN, GSK, Chevron, the Dept. of Veterans Affairs, and GAP) — archived as two renderings of one self-report, plus third-party community records (a 2014 My Stories memoir, the 2017 民視 solidarity roster, and the 2018 Formosa Alliance roster) that corroborate parts of it.
 
 ## Archive Statistics
 

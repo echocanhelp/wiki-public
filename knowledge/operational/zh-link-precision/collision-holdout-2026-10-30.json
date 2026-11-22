@@ -1,0 +1,168 @@
+{
+ "date": "2026-10-30",
+ "standard": "STRICT: one line naming the zh string + \"collision\" + HOLD/different-person/not-merged (janet-lee class)",
+ "incident": "First pass used a loose filter (any line with collision-keyword + zh) and deleted bullets in 3409 files incl. legitimate subject links (鄭炳全 x10455). All non-verified deletions restored from HEAD same session; 鄭炳全 web verified back to 10455.",
+ "verified_pages": 36,
+ "entries": [
+  {
+   "slug": "chihmei-lin-chen",
+   "zh": "林智美"
+  },
+  {
+   "slug": "wen-chi-chang",
+   "zh": "張文祺"
+  },
+  {
+   "slug": "nien-tzu-kuo",
+   "zh": "郭念慈"
+  },
+  {
+   "slug": "bang-h-hwang",
+   "zh": "黃邦雄"
+  },
+  {
+   "slug": "ju-cheng-lee",
+   "zh": "李汝成"
+  },
+  {
+   "slug": "tom-wangs",
+   "zh": "王自立"
+  },
+  {
+   "slug": "prof-david-liu",
+   "zh": "劉如謙教授"
+  },
+  {
+   "slug": "richard-lee",
+   "zh": "李正三"
+  },
+  {
+   "slug": "chao-yuh-yang",
+   "zh": "楊朝諭"
+  },
+  {
+   "slug": "joy-chi-wang",
+   "zh": "王琦"
+  },
+  {
+   "slug": "carole-huang",
+   "zh": "陳春華"
+  },
+  {
+   "slug": "h-y-chencheng",
+   "zh": "陳鄭弘堯"
+  },
+  {
+   "slug": "sean-chen",
+   "zh": "陳宣堯"
+  },
+  {
+   "slug": "y-c-hsu",
+   "zh": "許耀慶"
+  },
+  {
+   "slug": "c-c-hsiao",
+   "zh": "蕭忠正"
+  },
+  {
+   "slug": "tah-p-dbd0edebb9",
+   "zh": "黃秀華"
+  },
+  {
+   "slug": "karen-lin",
+   "zh": "林璇雯"
+  },
+  {
+   "slug": "frank-m-hsu",
+   "zh": "徐民忠"
+  },
+  {
+   "slug": "c-y-huang",
+   "zh": "黃清燕"
+  },
+  {
+   "slug": "william-cho",
+   "zh": "卓甫良"
+  },
+  {
+   "slug": "l-c-chen",
+   "zh": "陳麗村"
+  },
+  {
+   "slug": "ching-fen-lin-2",
+   "zh": "林青棻"
+  },
+  {
+   "slug": "tah-p-c5ccd73bf1",
+   "zh": "陳國明"
+  },
+  {
+   "slug": "richard-lin",
+   "zh": "林品任"
+  },
+  {
+   "slug": "jung-lin",
+   "zh": "林容光"
+  },
+  {
+   "slug": "h-y-chen",
+   "zh": "陳弘毅"
+  },
+  {
+   "slug": "s-l-chen",
+   "zh": "陳世霖"
+  },
+  {
+   "slug": "chenhung-chen",
+   "zh": "陳貞宏"
+  },
+  {
+   "slug": "c-s-huang",
+   "zh": "黃千洵"
+  },
+  {
+   "slug": "marina-lu",
+   "zh": "呂惠秋"
+  },
+  {
+   "slug": "janet-lee",
+   "zh": "李慧芝"
+  },
+  {
+   "slug": "wenhsiung-luke-huang",
+   "zh": "黃文雄"
+  },
+  {
+   "slug": "s-h-chang",
+   "zh": "張舜華"
+  },
+  {
+   "slug": "tony-chen",
+   "zh": "陳國洸"
+  },
+  {
+   "slug": "ian-chen",
+   "zh": "陳彥竹"
+  },
+  {
+   "slug": "susan-y-j-chang",
+   "zh": "程韻如"
+  }
+ ],
+ "plus_classes": [
+  {
+   "slug": "janet-lee",
+   "zh": "李慧芝"
+  },
+  {
+   "slug": "卓榮泰說",
+   "zh": "卓榮泰說",
+   "note": "verb-glue page quarantined to people/_quarantine/"
+  },
+  {
+   "slug": "卓榮泰指",
+   "zh": "卓榮泰指",
+   "note": "verb-glue page quarantined"
+  }
+ ]
+}

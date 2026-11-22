@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-27",
+  "standards_version": 10,
+  "total_findings": 7,
+  "total_pages": 7,
+  "actions": [
+    {
+      "page": "organizations/penghu-info.md",
+      "finding": "STRUCT_NO_HISTORY",
+      "finding_prefix": "STRUCT_NO_HISTORY",
+      "action": "Add ## History section",
+      "detail": "Add a History section with key dates, milestones, and events. Include dates and brief descriptions.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/劉世芳.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/歐江安.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/洪秀柱.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/翁曉玲.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/郭昱晴.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    },
+    {
+      "page": "people/黃逸豪.md",
+      "finding": "STRUCT_NO_IDENTITY",
+      "finding_prefix": "STRUCT_NO_IDENTITY",
+      "action": "Add ## Identity Snapshot section",
+      "detail": "Add an Identity Snapshot section with English name, Chinese name, core roles, and content priority. See standards.json for format.",
+      "playbook": "P8",
+      "priority": "medium",
+      "source": "content-analysis-queue"
+    }
+  ]
+}

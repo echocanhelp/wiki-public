@@ -2,8 +2,8 @@
   "id": "taiwaneseamericanhistory-org",
   "urls": {
     "https://taiwaneseamericanhistory.org/": {
-      "hash": "e80b28f1c48281753758f448ad58d6e8",
-      "len": 31282,
+      "hash": "e8c45bc8dfc229bc956131b9aa28bfeb",
+      "len": 30455,
       "code": 200,
       "baseline": false
     },
@@ -140,6 +140,6 @@
       "baseline": false
     }
   },
-  "last_poll": "2026-11-09T07:50:36Z",
+  "last_poll": "2026-11-16T07:50:01Z",
   "baseline_at": "2026-08-22T00:53:07Z"
 }

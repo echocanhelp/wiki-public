@@ -158,7 +158,7 @@ def format_answer(query, results):
         lines.append(f"   - Path: `{r['path']}`")
         lines.append(f"   - Status: {badge} {r['verification']}")
         lines.append(f"   - Relevance score: {r['score']}")
-        lines.append(f"   - Live URL: https://echocanhelp.github.io/wiki-public/{r['path'].replace('.md', '')}")
+        lines.append(f"   - Live URL: https://echopedia.tah-society.org/{r['path'].replace('.md', '')}")
         lines.append(f"")
     
     lines.append(f"---")

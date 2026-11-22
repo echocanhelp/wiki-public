@@ -1,0 +1,13 @@
+{
+ "probe": "wd wbsearchentities",
+ "term": "杏林男聲四重唱",
+ "lang": "zh",
+ "searched": "2026-11-18",
+ "result": {
+  "searchinfo": {
+   "search": "杏林男聲四重唱"
+  },
+  "search": [],
+  "success": 1
+ }
+}
