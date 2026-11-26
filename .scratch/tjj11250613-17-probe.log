@@ -1,0 +1,35 @@
+TJJSPLICE01 disk_lines 306 bytes 7004
+TJJSPLICE02 ends_with_newline True
+TJJSPLICE03 prior_comments 2
+TJJSPLICE04 prior 0 <!-- TJJ-A11231410-26 fact-addition: category page 20200624164956_category_videos_page_2_33522d5324c34c1b.md, page title hex: 53f0 7063 5411 9322 885d, post_date 2019-10-20, Wayback 20200624164956, hash carriers==1 non-comment (index enumeration only), subjects huang-diyin and lin-baohua each confirmed and one new dated fact added with article wikilink -->
+TJJSPLICE04 prior 1 <!-- TJJ-A11240610-10 fact-addition: TJJ category page 2, title hex 53f0 7063 5411 9322 885d, post_date 2019-10-20, Wayback 20200624164956, hash carriers==2 non-comment on people pages (huang-diyin, lin-baohua), both Subjects confirmed against article frontmatter authors list (13 names incl. both), one new dated fact line added per subject under From the record -->
+TJJSPLICE05 own_comments 0
+TJJSPLICE06 hash_lines 1
+TJJSPLICE07 noncomment_hash_lines 0
+TJJSPLICE09 fences [0, 28]
+TJJSPLICE10 FM title: \u53f0\u7063\u5411\u9322\u885d
+TJJSPLICE10 FM source_url: https://www.taiwanjustice.net/category/videos/%e5%8f%b0%e7%81%a3%e5%90%91%e9%8c%a2%e8%a1%9d/page/2/
+TJJSPLICE10 FM archive_url: https://web.archive.org/web/20200624164956/https://www.taiwanjustice.net/category/videos/%e5%8f%b0%e7%81%a3%e5%90%91%e9%8c%a2%e8%a1%9d/page/2/
+TJJSPLICE10 FM archive_ts: 20200624164956
+TJJSPLICE10 FM post_date: 2019-10-20 06:22:42-07:00
+TJJSPLICE11 comment_in_fm False
+TJJSPLICE12 subjects_idx [299]
+TJJSPLICE13 subjects_count 2
+TJJSPLICE14 sub - [[people/huang-diyin.md|\u9ec3\u5e1d\u7a4e]] \u2014 mentioned in this record
+TJJSPLICE14 sub - [[people/lin-baohua.md|\u6797\u4fdd\u83ef]] \u2014 mentioned in this record
+TJJSPLICE15 fm_authors_count 13
+TJJSPLICE16 author   - [[people/li-jian||\u674e\u5805]]
+TJJSPLICE16 author   - [[people/tang-peili||\u5510\u57f9\u7406]]
+TJJSPLICE16 author   - [[people/du-ao-cunfu||\u7368\u50b2\u6751\u592b]]
+TJJSPLICE16 author   - [[people/li-xiaofeng||\u674e\u7b71\u5cf0]]
+TJJSPLICE16 author   - [[people/jin-hegui||\u91d1\u6046\u7152]]
+TJJSPLICE16 author   - [[people/liao-qingshan||\u5ed6\u6e05\u5c71]]
+TJJSPLICE16 author   - [[people/he-qingxuan||\u4f55\u6e05\u6f23]]
+TJJSPLICE16 author   - [[people/huang-diyin||\u9ec3\u5e1d\u7a4e]]
+TJJSPLICE16 author   - [[people/fan-jiang-ti-ang||\u8303\u59dc\u63d0\u6602]]
+TJJSPLICE16 author   - [[people/lin-baohua||\u6797\u4fdd\u83ef]]
+TJJSPLICE16 author   - [[people/chen-zhaonan||\u9673\u662d\u5357]]
+TJJSPLICE16 author   - [[people/chen-maoxiong||\u9673\u8302\u96c4]]
+TJJSPLICE16 author   - [[people/chen-po-kong||\u9673\u7834\u7a7a]]
+TJJSPLICE17 head_len 4254 equal_disk True
+TJJSPLICE18 dump_saved 239

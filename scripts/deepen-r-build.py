@@ -9,6 +9,7 @@ from pathlib import Path
 import sys
 sys.path.insert(0, str(Path.home() / '.hermes' / 'scripts'))
 from mint_guard import gated_once, budget_args  # noqa: E402
+from mint_gate import ensure_close_contract  # noqa: E402  OPS-FIX t_a802c5f8
 
 REPO = Path('/home/leedt/echo-system')
 OUT = REPO / 'knowledge/operational'
@@ -74,6 +75,7 @@ for i in range((len(flagged) + SLICE - 1) // SLICE):
     sp = OUT / f'deepen-r-slice-{STAMP}-{i+1}.txt'
     sp.write_text('\n'.join(paths) + '\n')
     body = BODY.replace('{N}', str(len(paths))).replace('{SLICEFILE}', sp.name)
+    body, _cc = ensure_close_contract(body)  # OPS-FIX t_a802c5f8: born-with-contract
     if not gated_once('deepen-r-build', key=title):  # SWARM-GUARD-1
         print('BACKLOG|SKIP', title)
         continue

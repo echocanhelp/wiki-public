@@ -1,36 +1,8 @@
 {
   "version": 1,
-  "last_run": "2026-11-20",
+  "last_run": "2026-11-24",
   "standards_version_seen": 10,
   "runs": [
-    {
-      "date": "2026-10-20",
-      "candidates": 263,
-      "selected": 40,
-      "standards_version": 10,
-      "standards_bumped": false
-    },
-    {
-      "date": "2026-10-21",
-      "candidates": 269,
-      "selected": 40,
-      "standards_version": 10,
-      "standards_bumped": false
-    },
-    {
-      "date": "2026-10-22",
-      "candidates": 278,
-      "selected": 40,
-      "standards_version": 10,
-      "standards_bumped": false
-    },
-    {
-      "date": "2026-10-23",
-      "candidates": 284,
-      "selected": 40,
-      "standards_version": 10,
-      "standards_bumped": false
-    },
     {
       "date": "2026-10-24",
       "candidates": 287,
@@ -209,6 +181,34 @@
     {
       "date": "2026-11-20",
       "candidates": 686,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-11-21",
+      "candidates": 667,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-11-22",
+      "candidates": 647,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-11-23",
+      "candidates": 635,
+      "selected": 40,
+      "standards_version": 10,
+      "standards_bumped": false
+    },
+    {
+      "date": "2026-11-24",
+      "candidates": 624,
       "selected": 40,
       "standards_version": 10,
       "standards_bumped": false
@@ -398,20 +398,6 @@
       ]
     },
     {
-      "path": "people/prof-sze-ya-yeh.md",
-      "findings": [
-        "LINK_BODY_SPARSE"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
       "path": "people/tah-p-b256f6296d.md",
       "findings": [
         "LINK_BODY_SPARSE"
@@ -482,7 +468,21 @@
       ]
     },
     {
-      "path": "sources/ettoday-taipei-mayor-poll-2026-10-27.md",
+      "path": "people/翁曉玲.md",
+      "findings": [
+        "LINK_BODY_SPARSE"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "sources/liang-wenjie-transnational-repression-2026-11-12.md",
       "findings": [
         "NO_LAST_REVIEWED"
       ],
@@ -496,7 +496,21 @@
       ]
     },
     {
-      "path": "sources/gwytb-chenbinhua-2026-10-28.md",
+      "path": "topics/t-包括沈伯洋被跟拍案-警政署打擊跨國鎮壓-4案已起訴5案追緝中.md",
+      "findings": [
+        "NO_RELATED_PAGES"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "sources/shen-deepfake-and-election-procedure-2026-11-13.md",
       "findings": [
         "NO_LAST_REVIEWED"
       ],
@@ -510,9 +524,10 @@
       ]
     },
     {
-      "path": "topics/t-中共涉假車禍跨國鎮壓黃逸豪政院協處平台啟動因應-政治-要聞-udn.md",
+      "path": "sources/eric-ting-press-awards-2026-11-12.md",
       "findings": [
-        "NO_RELATED_PAGES"
+        "NO_RELATED_PAGES",
+        "NO_LAST_REVIEWED"
       ],
       "hygiene": [],
       "instructions": [
@@ -524,75 +539,7 @@
       ]
     },
     {
-      "path": "topics/t-中跨境指使5人-教訓-台相聲演員-諷習-陸委會-嚴厲譴責中共跨國鎮壓行為.md",
-      "findings": [
-        "NO_RELATED_PAGES"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "topics/t-黃逸豪諷習近平遭-假車禍-撞傷-陸委會怒轟中共跨國鎮壓.md",
-      "findings": [
-        "NO_RELATED_PAGES"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "topics/t-黃逸豪諷習遭買凶撞傷-范雲-民主台灣不容跨國鎮壓-newtalk.md",
-      "findings": [
-        "NO_RELATED_PAGES"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "topics/t-黃逸豪遭-跨國鎮壓-國安局揭-暴力恐嚇-假車禍-都是統戰滲透手法.md",
-      "findings": [
-        "NO_RELATED_PAGES"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/黃逸豪.md",
-      "findings": [],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "sources/cna-taipei-ballot-number-2026-10-27.md",
+      "path": "sources/taipei-poll-method-analysis-2026-11-13.md",
       "findings": [
         "NO_LAST_REVIEWED"
       ],
@@ -606,7 +553,81 @@
       ]
     },
     {
-      "path": "topics/t-黃逸豪遭跨國鎮壓-傅崐萁突隔空聲援-范雲酸爆-藍白阻擋國安法案1347次.md",
+      "path": "sources/l-j-chen-thirdparty-capture.md",
+      "findings": [
+        "NO_LAST_REVIEWED"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "knowledge/web-archives/ehin-lin-guo-frontier-11190824-39/repass-2026-11-23/HARVEST-NOTES-repass-2026-11-23.md",
+      "findings": [
+        "NO_TYPE",
+        "NO_RELATED_PAGES",
+        "NO_LAST_REVIEWED"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "sources/prof-andre-lee-thirdparty-capture.md",
+      "findings": [
+        "NO_LAST_REVIEWED"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "sources/tah-whoswho-prof-w-k-young-capture.md",
+      "findings": [
+        "NO_LAST_REVIEWED"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "sources/newbloom-org.md",
+      "findings": [
+        "NO_TYPE",
+        "NO_RELATED_PAGES",
+        "NO_LAST_REVIEWED"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "topics/t-嚴防中共對台跨國鎮壓-法務部擬修反滲透法增罪責.md",
       "findings": [
         "NO_RELATED_PAGES"
       ],
@@ -620,7 +641,7 @@
       ]
     },
     {
-      "path": "topics/t-黃逸豪遭中國跨國鎮壓-傅崐萁譴責暴力-綠批-藍白擋國安法案1347次.md",
+      "path": "topics/t-談因應中共跨國鎮壓-喜劇演員黃逸豪籲應盡快推動修法.md",
       "findings": [
         "NO_RELATED_PAGES"
       ],
@@ -634,7 +655,21 @@
       ]
     },
     {
-      "path": "topics/kanola-deck-kickoff-premeeting-2026-10-22.md",
+      "path": "sources/wang-hao-identity-disambiguation-capture.md",
+      "findings": [
+        "NO_LAST_REVIEWED"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "topics/t-跨國鎮壓頻傳-卓榮泰-維護參選人安全-清查協力者.md",
       "findings": [
         "NO_RELATED_PAGES"
       ],
@@ -648,7 +683,7 @@
       ]
     },
     {
-      "path": "topics/kanola-deck-kickoff-premeeting-2-2026-10-22.md",
+      "path": "topics/t-ipac峰會聚焦跨國鎮壓-張雅琳揭施壓手法擴及一般民眾-巴拿馬議員盼與台復交.md",
       "findings": [
         "NO_RELATED_PAGES"
       ],
@@ -662,7 +697,7 @@
       ]
     },
     {
-      "path": "topics/t-跨國鎮壓事件頻傳-卓榮泰指示檢警-專案保護-參選人.md",
+      "path": "sources/chinesetimes-huanghe-atlanta-2025.md",
       "findings": [
         "NO_RELATED_PAGES"
       ],
@@ -676,7 +711,21 @@
       ]
     },
     {
-      "path": "people/_quarantine/卓榮泰指.md",
+      "path": "sources/epochtimes-swee-koh-2013.md",
+      "findings": [
+        "NO_RELATED_PAGES"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "sources/hyac-kana-mimaki.md",
       "findings": [],
       "hygiene": [],
       "instructions": [
@@ -688,77 +737,7 @@
       ]
     },
     {
-      "path": "topics/t-黃逸豪諷習遭攻擊-中共跨國鎮壓製造寒蟬效應.md",
-      "findings": [
-        "NO_RELATED_PAGES"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "topics/t-多起疑似跨國鎮壓事件-卓榮泰要求以專案保護候選人安全.md",
-      "findings": [
-        "NO_RELATED_PAGES"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "topics/t-應對中國跨國鎮壓的台灣經驗-李明哲赴歐洲人權倡議巡講-呼籲民主社會應互信互助-轉.md",
-      "findings": [
-        "NO_RELATED_PAGES"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "topics/t-記者編輯部-王崑義專欄-92-台灣人反對和平統一-陸委會不該操作民調.md",
-      "findings": [
-        "NO_RELATED_PAGES"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "topics/t-快新聞-相聲演員遭跨國鎮壓-陳水扁力挺飆國罵x.md",
-      "findings": [
-        "NO_RELATED_PAGES"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
-        "Fix ONLY listed findings; no inventing biography",
-        "First-mention wikilinks for existing slugs only",
-        "Do not commit/push/quartz unless operator enabled",
-        "Re-run link-hygiene on this path after edits"
-      ]
-    },
-    {
-      "path": "people/王崑義.md",
+      "path": "sources/zhwp-huang-shan-liang.md",
       "findings": [],
       "hygiene": [],
       "instructions": [
@@ -770,10 +749,35 @@
       ]
     },
     {
-      "path": "events/ev-lunar-new-year-banquet.md",
+      "path": "sources/hctmg-swee-koh-ji-xiao.md",
+      "findings": [],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "people/嚴禁.md",
+      "findings": [],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol references/wiki-linking.md",
+        "Fix ONLY listed findings; no inventing biography",
+        "First-mention wikilinks for existing slugs only",
+        "Do not commit/push/quartz unless operator enabled",
+        "Re-run link-hygiene on this path after edits"
+      ]
+    },
+    {
+      "path": "organizations/coalition-of-taiwan-independences.md",
       "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_LONG_SENTENCES_36wps"
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_36wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "hygiene": [],
       "instructions": [
@@ -786,7 +790,7 @@
       "priority": "medium"
     },
     {
-      "path": "organizations/ntu-alumni-association-of-southern-california.md",
+      "path": "organizations/north-america-taiwanese-medical-association-foundation.md",
       "findings": [
         "LINKS_NO_RELATED",
         "STRUCT_NO_HISTORY",
@@ -803,11 +807,11 @@
       "priority": "medium"
     },
     {
-      "path": "organizations/ny-apricot-grove-men-s-vocal-quartet.md",
+      "path": "organizations/north-america-taiwanese-womens-association-southern-california-chapter.md",
       "findings": [
-        "DESC_NO_TITLE_MENTION",
         "STRUCT_NO_HISTORY",
-        "READABILITY_MANY_LONG_SENTENCES_8"
+        "READABILITY_LONG_SENTENCES_33wps",
+        "READABILITY_MANY_LONG_SENTENCES_5"
       ],
       "hygiene": [],
       "instructions": [
@@ -820,7 +824,177 @@
       "priority": "medium"
     },
     {
-      "path": "organizations/rice-taiwanese-association.md",
+      "path": "organizations/north-america-taiwanese-womens-association.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_32wps",
+        "READABILITY_MANY_LONG_SENTENCES_9"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "organizations/nyu-taiwanese-american-student-society.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_42wps",
+        "READABILITY_MANY_LONG_SENTENCES_5"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "organizations/sogetsu-buxmont-study-group.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_30wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "organizations/south-bay-taiwanese-association-of-n-california.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_41wps",
+        "READABILITY_MANY_LONG_SENTENCES_5"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "organizations/taiwanese-american-association-east-san-gabriel-valley.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_32wps",
+        "READABILITY_MANY_LONG_SENTENCES_9"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "organizations/taiwanese-american-professionals-san-francisco.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_33wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "organizations/taiwanese-american-student-association-at-cornell.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_33wps",
+        "READABILITY_MANY_LONG_SENTENCES_5"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "organizations/taiwanese-association-of-america-colorado.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_35wps",
+        "READABILITY_MANY_LONG_SENTENCES_5"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "organizations/taiwanese-association-of-america-dallas-fort-worth.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_31wps",
+        "READABILITY_MANY_LONG_SENTENCES_4"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "organizations/taiwanese-association-of-america-pittsburgh.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_33wps",
+        "READABILITY_MANY_LONG_SENTENCES_5"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "organizations/taiwanese-association-of-greater-seattle-tags.md",
       "findings": [
         "STRUCT_NO_HISTORY",
         "READABILITY_LONG_SENTENCES_38wps",
@@ -837,11 +1011,11 @@
       "priority": "medium"
     },
     {
-      "path": "organizations/taiwanese-american-association-new-york.md",
+      "path": "organizations/taiwanese-association-of-wisconsin.md",
       "findings": [
         "STRUCT_NO_HISTORY",
         "READABILITY_LONG_SENTENCES_32wps",
-        "READABILITY_MANY_LONG_SENTENCES_4"
+        "READABILITY_MANY_LONG_SENTENCES_6"
       ],
       "hygiene": [],
       "instructions": [
@@ -854,10 +1028,27 @@
       "priority": "medium"
     },
     {
-      "path": "organizations/taiwanese-american-religious-study-association-southern-california-tarsa-sc.md",
+      "path": "organizations/taiwanese-student-association-at-ohio-state-university.md",
       "findings": [
         "STRUCT_NO_HISTORY",
-        "READABILITY_LONG_SENTENCES_40wps",
+        "READABILITY_LONG_SENTENCES_35wps",
+        "READABILITY_MANY_LONG_SENTENCES_7"
+      ],
+      "hygiene": [],
+      "instructions": [
+        "Load skill echopedia-ops then echopedia-ingestion-protocol",
+        "Fix ONLY listed findings — no inventing biography",
+        "Update last_reviewed after fixes",
+        "Commit only (no publish)"
+      ],
+      "source": "content-analyzer",
+      "priority": "medium"
+    },
+    {
+      "path": "organizations/taiwanese-student-association-tsa.md",
+      "findings": [
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_61wps",
         "READABILITY_MANY_LONG_SENTENCES_4"
       ],
       "hygiene": [],
@@ -871,10 +1062,11 @@
       "priority": "medium"
     },
     {
-      "path": "people/ahhee-hsu.md",
+      "path": "organizations/taiwanese-students-association.md",
       "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_14"
+        "STRUCT_NO_HISTORY",
+        "READABILITY_LONG_SENTENCES_34wps",
+        "READABILITY_MANY_LONG_SENTENCES_7"
       ],
       "hygiene": [],
       "instructions": [
@@ -887,23 +1079,7 @@
       "priority": "medium"
     },
     {
-      "path": "people/dr-evan-ling.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_6"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/dr-min-yen-han.md",
+      "path": "people/george-h-kerr.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "READABILITY_MANY_LONG_SENTENCES_7"
@@ -919,40 +1095,7 @@
       "priority": "medium"
     },
     {
-      "path": "people/dr-ming-cheng-liau.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_8"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/lin-mei-li.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/michael-s-k-chen.md",
+      "path": "people/ho-rui-hsu.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "READABILITY_MANY_LONG_SENTENCES_6"
@@ -968,7 +1111,7 @@
       "priority": "medium"
     },
     {
-      "path": "people/peggy-huang.md",
+      "path": "people/jennifer-j-chow.md",
       "findings": [
         "DESC_NO_TITLE_MENTION",
         "READABILITY_MANY_LONG_SENTENCES_4"
@@ -984,10 +1127,10 @@
       "priority": "medium"
     },
     {
-      "path": "people/philip-lin.md",
+      "path": "people/k-c-liao.md",
       "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_HIGH_DENSITY"
+        "DESC_TOO_SHORT",
+        "READABILITY_MANY_LONG_SENTENCES_10"
       ],
       "hygiene": [],
       "instructions": [
@@ -1000,10 +1143,11 @@
       "priority": "medium"
     },
     {
-      "path": "people/rev-ai-chih-tsai.md",
+      "path": "people/michael-fonte.md",
       "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_7"
+        "FRESHNESS_NO_REVIEW_DATE",
+        "STRUCT_NO_TYPE",
+        "STRUCT_NO_REVIEW_DATE"
       ],
       "hygiene": [],
       "instructions": [
@@ -1016,11 +1160,10 @@
       "priority": "medium"
     },
     {
-      "path": "people/su-shih-ying.md",
+      "path": "people/rev-martin-c-wang.md",
       "findings": [
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_RELATED"
+        "DESC_NO_TITLE_MENTION",
+        "READABILITY_MANY_LONG_SENTENCES_5"
       ],
       "hygiene": [],
       "instructions": [
@@ -1033,90 +1176,7 @@
       "priority": "medium"
     },
     {
-      "path": "people/tsung-ming-hsieh.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_13"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/tzutsai-cheng.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_HIGH_DENSITY"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/will-tiao.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "FRESHNESS_BAD_DATE",
-        "READABILITY_MANY_LONG_SENTENCES_6"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/william-h-lee.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "READABILITY_MANY_LONG_SENTENCES_6"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "people/zheng-xikun.md",
-      "findings": [
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_RELATED",
-        "READABILITY_MANY_LONG_SENTENCES_9"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "people/王婉諭.md",
+      "path": "people/彭博.md",
       "findings": [
         "LINKS_LOW_DENSITY",
         "LINKS_NO_RELATED",
@@ -1134,256 +1194,7 @@
       "priority": "medium"
     },
     {
-      "path": "people/鄭銘謙.md",
-      "findings": [
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_RELATED",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/beijian-case-first-court-2026-11-17.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/cairns-art-gallery-zhang-xu-zhan.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/cossette-sun-frontier-11180842-12-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_LOW_DENSITY",
-        "STRUCT_NO_TYPE",
-        "STRUCT_NO_REVIEW_DATE",
-        "READABILITY_MANY_LONG_SENTENCES_8"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/densho-ddr-densho-446-382-tsai-ordination-capture.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/dr-lii-mei-beverly-chang-frontier-11180842-10-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/dr-lii-mei-beverly-chang-frontier-11190824-10-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/dr-min-yen-han-thirdparty-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "READABILITY_MANY_LONG_SENTENCES_9"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/dr-richard-r-hwang-frontier-11190824-16-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/dr-shug-hong-young-frontier-11190824-17-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "READABILITY_MANY_LONG_SENTENCES_6"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/dr-teng-lung-hsu-frontier-11190824-11-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/elaine-hsiao-thirdparty-2026-11-17.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/epochtimes-n8931592-isf-2017-capture.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/epochtimes-socal-un-58signers-2020-09-14.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/epochtimes-socal-wha-48units-2023-05-12.md",
+      "path": "sources/taiwanese-american-ma-ma-class-dc-frontier-11190824-42-2026-11-23.md",
       "findings": [
         "LINKS_LOW_DENSITY",
         "LINKS_NO_RELATED",
@@ -1398,1167 +1209,9 @@
       ],
       "source": "content-analyzer",
       "priority": "medium"
-    },
-    {
-      "path": "sources/epochtimes-socal-wha-press-report-2021-05-15.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "FRESHNESS_BAD_DATE",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/future-generation-art-prize-zhang-xu-zhan.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/highline-art-animism-2025.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/julie-su-young-frontier-11190824-18-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/katy-tang-thirdparty-2026-11-16.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/lai-junming-frontier-11180842-27-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/lucas-chen-thirdparty-2026-11-16-capture.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/michael-s-k-chen-frontier-11180842-14-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/ming-chi-wang-thirdparty-2026-11-16-capture.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/ming-shian-kao-frontier-11180842-8.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/mystories559-frontier-11190824-4-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/ntuaasc-2018-guan-speech-captures.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/ny-xinglin-quartet-frontier-11180842-25-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/ny-xinglin-quartet-frontier-11190824-32-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/ourjourneys58-frontier-11190824-21-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/p-j-mao-frontier-11180842-31-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/paul-y-chen-floor-anchor-capture-2026-11-16.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/pauline-huang-thirdparty-capture.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/peter-hsu-frontier-11190824-36-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/pew-statement-thirdparty-capture-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/prof-chin-chu-lin-frontier-11180842-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/prof-hung-wen-ben-liu-thirdparty-2026-11-17.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/prof-luh-maan-chang-thirdparty-2026-11-17.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/prof-pei-jung-lin-thirdparty-20261117-capture.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/prof-y-c-jeng-frontier-11180842-20-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/prof-y-c-jeng-frontier-11190824-27-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/project-fulfill-cv-zhang-xu-zhan.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/publication1303-frontier-11180842-19-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/publications918-frontier-11180842-26-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/publications918-frontier-11190824-33-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/r-f-huang-frontier-11190824-12-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/rev-ai-chih-tsai-frontier-11190824-28-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_LINKS",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/rev-j-c-cheng-frontier-11180842-13-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/rev-j-c-cheng-frontier-11190824-20-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/rev-j-s-chou-frontier-11180842-17-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/rev-j-s-chou-frontier-11190824-24-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/rev-sheng-to-shih-thirdparty-2026-11-17.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/robert-g-chu-frontier-11180842-24-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/robert-g-chu-frontier-11190824-31-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/rockwell-hsu-frontier-11180842-16-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "READABILITY_MANY_LONG_SENTENCES_5"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/rong-hu-lu-thirdparty-2026-11-17-capture.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/shiao-uen-ding-frontier-11180842-32-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/shiao-uen-ding-frontier-11190824-38-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/simon-c-kuo-thirdparty-2026-11-17.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/stone-chen-thirdparty-2026-11-17.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/su-hsun-sue-hsiao-thirdparty-2026-11-17.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/sue-jane-lin-thirdparty-2026-11-17.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/t-s-hsu-thirdparty-2026-11-17.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/taa-east-tennessee-frontier-11180842-28-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/taa-frontier-11180842-2-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "READABILITY_MANY_LONG_SENTENCES_6"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/taa-usa-org-official-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/tacec-2011-frontier-11180842-18-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/tacec-2011-frontier-11190824-25-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/tah-whoswho-gary-marvin-davison-capture.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/tah-whoswho-rev-ai-chih-tsai-capture.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/tahs-org-frontier-11190824-14-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/taipei-poll-final-prelock-2026-11-17.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/taiwanese-american-ma-ma-class-dc-frontier-11190824-42-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "READABILITY_MANY_LONG_SENTENCES_7"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/tammy-chang-thirdparty-2026-11-17.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/thomas-c-t-chiu-thirdparty-2026-11-17.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/ting-lan-ma-frontier-11180842-22-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED",
-        "READABILITY_MANY_LONG_SENTENCES_4"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/ting-lan-ma-frontier-11190824-29-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/tjj-wha-joint-statement-2021-snapshot-capture.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "FRESHNESS_NO_REVIEW_DATE",
-        "LINKS_NO_RELATED",
-        "STRUCT_NO_REVIEW_DATE"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
-    },
-    {
-      "path": "sources/ucsd-taa-50th-chapter-b-2026-11-18.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/wikidata-q85278803-taiwanese-association-of-america.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/wikidata-zhang-xu-zhan.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "LINKS_LOW_DENSITY"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "medium"
-    },
-    {
-      "path": "sources/yi-min-lin-frontier-11190824-13-2026-11-19.md",
-      "findings": [
-        "DESC_TOO_SHORT",
-        "DESC_NO_TITLE_MENTION",
-        "LINKS_LOW_DENSITY",
-        "LINKS_NO_RELATED"
-      ],
-      "hygiene": [],
-      "instructions": [
-        "Load skill echopedia-ops then echopedia-ingestion-protocol",
-        "Fix ONLY listed findings — no inventing biography",
-        "Update last_reviewed after fixes",
-        "Commit only (no publish)"
-      ],
-      "source": "content-analyzer",
-      "priority": "high"
     }
   ],
-  "last_candidates": 686,
+  "last_candidates": 624,
   "last_selected": [
     "people/janet-tsai.md",
     "people/winnie-chiu.md",
@@ -2573,32 +1226,32 @@
     "organizations/boston-university-taiwanese-student-association.md",
     "people/rev-james-i-cheng.md",
     "people/shih-chieh-huang.md",
-    "people/prof-sze-ya-yeh.md",
     "people/tah-p-b256f6296d.md",
     "people/rev-edward-bin-tanng.md",
     "people/prof-tian-min-lin.md",
     "topics/t-沈伯洋真的遭到境外監控-民進黨-中國跨國鎮壓已不是第一案.md",
     "topics/t-中國介選鎖定沈伯洋父親-安保協會揭-港媒抹黑-國台辦制裁-時間軸-家族企業二度遭懲戒.md",
-    "sources/ettoday-taipei-mayor-poll-2026-10-27.md",
-    "sources/gwytb-chenbinhua-2026-10-28.md",
-    "topics/t-中共涉假車禍跨國鎮壓黃逸豪政院協處平台啟動因應-政治-要聞-udn.md",
-    "topics/t-中跨境指使5人-教訓-台相聲演員-諷習-陸委會-嚴厲譴責中共跨國鎮壓行為.md",
-    "topics/t-黃逸豪諷習近平遭-假車禍-撞傷-陸委會怒轟中共跨國鎮壓.md",
-    "topics/t-黃逸豪諷習遭買凶撞傷-范雲-民主台灣不容跨國鎮壓-newtalk.md",
-    "topics/t-黃逸豪遭-跨國鎮壓-國安局揭-暴力恐嚇-假車禍-都是統戰滲透手法.md",
-    "people/黃逸豪.md",
-    "sources/cna-taipei-ballot-number-2026-10-27.md",
-    "topics/t-黃逸豪遭跨國鎮壓-傅崐萁突隔空聲援-范雲酸爆-藍白阻擋國安法案1347次.md",
-    "topics/t-黃逸豪遭中國跨國鎮壓-傅崐萁譴責暴力-綠批-藍白擋國安法案1347次.md",
-    "topics/kanola-deck-kickoff-premeeting-2026-10-22.md",
-    "topics/kanola-deck-kickoff-premeeting-2-2026-10-22.md",
-    "topics/t-跨國鎮壓事件頻傳-卓榮泰指示檢警-專案保護-參選人.md",
-    "people/_quarantine/卓榮泰指.md",
-    "topics/t-黃逸豪諷習遭攻擊-中共跨國鎮壓製造寒蟬效應.md",
-    "topics/t-多起疑似跨國鎮壓事件-卓榮泰要求以專案保護候選人安全.md",
-    "topics/t-應對中國跨國鎮壓的台灣經驗-李明哲赴歐洲人權倡議巡講-呼籲民主社會應互信互助-轉.md",
-    "topics/t-記者編輯部-王崑義專欄-92-台灣人反對和平統一-陸委會不該操作民調.md",
-    "topics/t-快新聞-相聲演員遭跨國鎮壓-陳水扁力挺飆國罵x.md",
-    "people/王崑義.md"
+    "people/翁曉玲.md",
+    "sources/liang-wenjie-transnational-repression-2026-11-12.md",
+    "topics/t-包括沈伯洋被跟拍案-警政署打擊跨國鎮壓-4案已起訴5案追緝中.md",
+    "sources/shen-deepfake-and-election-procedure-2026-11-13.md",
+    "sources/eric-ting-press-awards-2026-11-12.md",
+    "sources/taipei-poll-method-analysis-2026-11-13.md",
+    "sources/l-j-chen-thirdparty-capture.md",
+    "knowledge/web-archives/ehin-lin-guo-frontier-11190824-39/repass-2026-11-23/HARVEST-NOTES-repass-2026-11-23.md",
+    "sources/prof-andre-lee-thirdparty-capture.md",
+    "sources/tah-whoswho-prof-w-k-young-capture.md",
+    "sources/newbloom-org.md",
+    "topics/t-嚴防中共對台跨國鎮壓-法務部擬修反滲透法增罪責.md",
+    "topics/t-談因應中共跨國鎮壓-喜劇演員黃逸豪籲應盡快推動修法.md",
+    "sources/wang-hao-identity-disambiguation-capture.md",
+    "topics/t-跨國鎮壓頻傳-卓榮泰-維護參選人安全-清查協力者.md",
+    "topics/t-ipac峰會聚焦跨國鎮壓-張雅琳揭施壓手法擴及一般民眾-巴拿馬議員盼與台復交.md",
+    "sources/chinesetimes-huanghe-atlanta-2025.md",
+    "sources/epochtimes-swee-koh-2013.md",
+    "sources/hyac-kana-mimaki.md",
+    "sources/zhwp-huang-shan-liang.md",
+    "sources/hctmg-swee-koh-ji-xiao.md",
+    "people/嚴禁.md"
   ]
 }

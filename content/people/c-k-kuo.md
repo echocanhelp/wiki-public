@@ -76,6 +76,17 @@ No further citable source on this box for the following.
 - Who's Who profile recorded by TAH (2017/01): [[works/taiwaneseamericanhistory-org/whos-who-1480-c-k-kuo|1480. C. K. Kuo 郭重國]].
 - Corpus sweep note: remaining grep hits (Kuo-Ming-Tang, 偏重國防, 重創) are false positives; no further memoir material found.
 
+## Story
+
+郭重國出生於台北，長期居住在美國的 Georgia，TAH 名錄將他列為 statistics 專業出身的社區領袖。
+教育上，他在 Fu Jen Univ 拿到數學的 BS 學位，接著在 North Carolina State Univ 取得 statistics 的 MS 學位。
+1994 年，他擔任 Atlanta 同鄉會的 President；1995 年全美會會長選舉期間，他走訪 Cincinnati，主張設立全美台灣文物資料中心。
+1995 到 1998 年，他出任 TAA/USA（全美台灣同鄉會）的 President，任內到美西台灣人夏令會開幕致詞，提到該年六個區都辦了夏令會。
+在夏令會的政治講台上，他於 1996、1997 年在美東南區台灣人夏令會的 political track 擔任演講人，1997 年以「台灣人心靈的重建」為題演講，1998 年在中西部台灣人夏令會以「台灣情，美國景」談第二代台美人的教育與價值。
+1997 年在拉斯維加斯的「建國展望」場次，他認為台灣正面臨生存與滅亡的關鍵，並提出拒買中國貨、把二二八變成台灣人節日、繼續推動台灣共和國簽名運動三項主張。
+2000 年起他擔任 WFTA 的 President，2001 年任 WTC（世大會）的 Coordinator；同年世台會旅遊巴士在巴西車禍後，他趕赴 Rio 處理後續，出席 8月11日休士頓同鄉黃秀娥的喪禮，並宣布成立「車禍協助基金」。
+2001 年他在 Macon 的第 23 屆美東南區台灣人夏令會出任首位 keynote 演講，說明世界台灣人聯合會成立的緣由與影響；TAH 在 2017 年 1 月記錄下他的 Who's Who profile。
+
 ## Sources
 - [TAH #1480 encyclopedia: 1480.  C. K. Kuo 郭重國](https://taiwaneseamericanhistory.org/whos-who-1480-c-k-kuo/)
 - [TAH Who’s Who](https://taiwaneseamericanhistory.org/person/c-k-kuo/)

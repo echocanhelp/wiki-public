@@ -1,0 +1,25 @@
+adds 265
+pickaxe ['e2ecf5b8dc8']
+GREEN own-is-commit | commit
+GREEN own-blob-exists | 
+GREEN own-comment-in-own-blob==1 | 1
+GREEN own-comment-ascii | maxcp=007a
+GREEN own-comment-shape | 
+GREEN own-blob-equals-disk | 
+GREEN hexspan-tag page hex: | (['738b', '4e16', '5805'], ['738b', '4e16', '5805'])
+GREEN hexspan-yang-ziqing (name hex: | (['694a', '5b50', '6e05'], ['694a', '5b50', '6e05'])
+GREEN hexspan-zheng-bingquan (name hex: | (['912d', '70b3', '5168'], ['912d', '70b3', '5168'])
+GREEN disk-hash_lines==2 | 2
+GREEN disk-comments==2 | 2
+GREEN disk-noncomment-carriers==0 | 
+GREEN fm-no-comment | [0, 31]
+GREEN yang-ziqing-carriers==1 | 1
+GREEN yang-ziqing-dated==1 | 1
+GREEN zheng-bingquan-carriers==1 | 1
+GREEN zheng-bingquan-dated==1 | 1
+GREEN numstat-single | ['265\t0\tcontent/articles/taiwanjustice-net/2024/20240719000440_root_ea5391c88dc9317b.md']
+GREEN dels==0 | 0
+GREEN create-mode-A | :000000 100644 00000000000 5bda7cda6e6 A	content/articles/taiwanjustice-net/2024
+GREEN subject-equals-built | 'TJJ-A11231410-9: verified-saturated tag page root_ea5391c88d'
+GREEN subject-ascii | maxcp=0079
+REGATE 22 / 22

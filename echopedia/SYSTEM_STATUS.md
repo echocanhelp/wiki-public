@@ -1,6 +1,6 @@
 # Echopedia System Status
 
-*Generated: 2026-11-19 00:33 PST*
+*Generated: 2026-11-24 00:31 PST*
 
 ## Orientation
 - **Entry:** go <plain language> via go-router (auto-route) · **Control:** [CONTROL.md](CONTROL.md)
@@ -15,19 +15,19 @@
 - **L2 auto-publish on drift:** True
 - **L3 auto-push when green:** True
 - **Last good deploy:** `08c5700eeea`
-- **Last night (ledger):** analyzer scanned 3557 queued 244 suppressed 3504 · 🟡 QUEUE janitor HOLD leftover 32 · 🟡 QUEUE kanban blocked 28
+- **Last night (ledger):** analyzer scanned 3686 queued 36 suppressed 4524 · 🟡 QUEUE janitor HOLD leftover 40 · 🟡 QUEUE kanban blocked 123
 - **Track SSOT:** `knowledge/operational/intelligence/autonomy-ledger.json`
 
 ## Content
-|- **Tier1 pages:** 3556 (people 2483 / orgs 450 / sources 623) · Tier2 archive: 29105
-|- **Janitor queue depth:** 197
-|- **Uncommitted files:** 12353
+|- **Tier1 pages:** 3654 (people 2491 / orgs 494 / sources 669) · Tier2 archive: 29105
+|- **Janitor queue depth:** 56
+|- **Uncommitted files:** 19
 
 ## Self-improvement pipeline (Scout → Filter → Extract → Evaluate → Generate → Review)
 | Stage | Script | Schedule (jobs.json) | Output |
 |-------|--------|----------------------|--------|
-| Scout | echopedia-scout-live | 21:40 | 44 checked, 8 broken, 0 slow |
-| Filter | echopedia-content-analysis | 21:10 | 3581 scanned, 160 queued |
+| Scout | echopedia-scout-live | 21:40 | 44 checked, 0 broken, 0 slow |
+| Filter | echopedia-content-analysis | 21:10 | 3692 scanned, 16 queued |
 | Extract | echopedia-extract-actions | 22:00 | knowledge/operational/extracted/ |
 | Evaluate | echopedia-evaluate-actions | 22:20 | knowledge/operational/evaluated/ |
 | Generate | echopedia-generate-cards | 22:40 | no data |
@@ -55,43 +55,43 @@ Load skill **echopedia-ops** first for any wiki work.
 ```
     Name:      cron-output-rotate
     Schedule:  5 21 * * *
-    Last run:  2026-11-18T21:05:22.600092-08:00  ok
+    Last run:  2026-11-23T21:05:23.877159-08:00  ok
     Name:      vault-morning-brief
     Schedule:  30 8 * * *
-    Last run:  2026-11-18T08:31:44.416751-08:00  ok
+    Last run:  2026-11-23T08:32:01.312379-08:00  ok
     Name:      thermal-heartbeat
     Schedule:  every 1m
-    Last run:  2026-11-19T00:32:24.405204-08:00  ok
+    Last run:  2026-11-24T00:30:28.604497-08:00  ok
     Name:      Echopedia content analysis
     Schedule:  10 21 * * *
-    Last run:  2026-11-18T21:10:27.789507-08:00  ok
+    Last run:  2026-11-23T21:10:26.899748-08:00  ok
     Name:      unified-watchdog
     Schedule:  every 30m
-    Last run:  2026-11-19T00:13:21.086251-08:00  ok
+    Last run:  2026-11-24T00:05:21.952655-08:00  ok
     Name:      memory-audit
     Schedule:  50 0 * * *
-    Last run:  2026-11-18T00:50:13.992905-08:00  ok
+    Last run:  2026-11-23T00:50:25.267208-08:00  ok
     Name:      echopedia-nightly-audit
     Schedule:  15 21 * * *
-    Last run:  2026-11-18T22:00:45.424393-08:00  ok
+    Last run:  2026-11-23T22:03:47.161672-08:00  ok
     Name:      echopedia-janitor
     Schedule:  30 21 * * *
-    Last run:  2026-11-18T21:40:32.928728-08:00  ok
+    Last run:  2026-11-23T21:40:34.937108-08:00  ok
     Name:      echopedia-weekly-improvement
     Schedule:  15 22 * * 0
-    Last run:  2026-11-15T22:36:11.309163-08:00  ok
+    Last run:  2026-11-22T22:32:25.320200-08:00  ok
     Name:      echopedia-ci-heal
     Schedule:  25 0 * * *
-    Last run:  2026-11-18T00:46:06.968722-08:00  ok
+    Last run:  2026-11-23T00:50:24.285992-08:00  ok
     Name:      echopedia-site-design
     Schedule:  30 0 * * *
-    Last run:  2026-11-19T00:30:24.509617-08:00  ok
+    Last run:  2026-11-24T00:30:24.701631-08:00  ok
     Name:      vault-search-index-rebuild
     Schedule:  0 21 * * 0
-    Last run:  2026-11-15T21:00:05.262024-08:00  ok
+    Last run:  2026-11-22T21:00:23.373476-08:00  ok
     Name:      echopedia-scout-live
     Schedule:  40 21 * * *
-    Last run:  2026-11-18T21:40:28.891974-08:00  ok
+    Last run:  2026-11-23T21:40:30.688349-08:00  ok
     Name:      echopedia-extract-actions
 ```
 
@@ -102,7 +102,7 @@ Load skill **echopedia-ops** first for any wiki work.
 
 ## Cron inventory (generated)
 <!-- cron-inventory-start -->
-<!-- cron-inventory-meta: count=51 agent=2 bad_deliver=0 -->
+<!-- cron-inventory-meta: count=51 agent=1 bad_deliver=0 -->
 | Schedule | Job | Mode | En | Last | Script |
 |----------|-----|------|----|------|--------|
 | */15 * * * * | `swarm-churn-sweep` | no_agent | on | ok | `swarm-churn-sweep-cron.sh` |
@@ -122,7 +122,7 @@ Load skill **echopedia-ops** first for any wiki work.
 | 20 21 * * * | `hot-subjects-watch` | no_agent | on | ok | `hot-subjects-watch.sh` |
 | 20 21 * * 0 | `skill-diet-weekly` | no_agent | on | ok | `skill-diet-weekly.sh` |
 | 20 22 * * * | `echopedia-evaluate-actions` | no_agent | on | ok | `echopedia-evaluate-actions.py` |
-| 25 0 * * * | `echopedia-ci-heal` | no_agent | on | error | `echopedia-ci-heal-wrapper.sh` |
+| 25 0 * * * | `echopedia-ci-heal` | no_agent | on | ok | `echopedia-ci-heal-wrapper.sh` |
 | 30 */4 * * * | `echopedia-news-digest` | no_agent | on | ok | `echopedia-news-digest.py` |
 | 30 0 * * * | `echopedia-site-design` | no_agent | on | ok | `echopedia-site-design-wrapper.sh` |
 | 30 21 * * * | `echopedia-janitor` | no_agent | on | ok | `echopedia-janitor-wrapper.sh` |
@@ -133,7 +133,7 @@ Load skill **echopedia-ops** first for any wiki work.
 | 35 21 * * * | `deepen-r-wake` | no_agent | on | ok | `deepen-r-cron.sh` |
 | 40 0 * * * | `echopedia-tier1-sweep` | no_agent | on | ok | `echopedia-tier1-sweep.sh` |
 | 40 21 * * * | `echopedia-scout-live` | no_agent | on | ok | `echopedia-scout-live.sh` |
-| 40 22 * * * | `echopedia-generate-cards` | no_agent | on | error | `echopedia-generate-cards.py` |
+| 40 22 * * * | `echopedia-generate-cards` | no_agent | on | ok | `echopedia-generate-cards.py` |
 | 40 3 * * * | `swarm-churn-report` | no_agent | on | ok | `swarm-churn-report-cron.sh` |
 | 45 0 * * * | `cron-audit` | no_agent | on | ok | `cron-audit-combined.sh` |
 | 45 21 * * * | `mint-wave-nightly` | no_agent | on | ok | `mint-wave-nightly.sh` |
@@ -151,7 +151,7 @@ Load skill **echopedia-ops** first for any wiki work.
 | every 120m | `absorb-ship-lane` | no_agent | on | ok | `echopedia-absorb-ship.py` |
 | every 30m | `disk-guard` | no_agent | on | ok | `disk-guard.py` |
 | every 30m | `swarm-vitals-deadman` | no_agent | on | ok | `swarm-vitals-deadman.py` |
-| every 30m | `tier2-absorb` | AGENT | on | ok | `tier2-absorb-queue.py` |
+| every 30m | `tier2-absorb` | no_agent | on | ok | `tier2-absorb-queue.py` |
 | every 30m | `tier2-loop-watchdog` | no_agent | on | ok | `tier2-loop-watchdog.py` |
 | every 30m | `unified-watchdog` | no_agent | on | ok | `unified-watchdog.sh` |
 | every 60m | `echopedia-news-scan` | no_agent | on | ok | `echopedia-news-scan.py` |

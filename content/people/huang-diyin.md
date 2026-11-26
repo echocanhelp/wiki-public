@@ -17,6 +17,92 @@ last_reviewed: 2026-11-12
 黃帝穎是台灣律師與政治評論作者，頁內record自2014年一路延伸到2026年，橫跨十九個年份，其專欄欄位包括極光電子報、民報、自由時報、綠色逗陣、北社評論與美洲台灣日報政治評論欄。他早在2014年即以民進黨發言人身分就323佔領行政院鎮壓案要求江宜樺、王卓鈞下台，同年發表〈台灣需要陪審團〉主張引入陪審制度。2016至2018年間他密集投入黨產與轉型正義論戰，以台灣教授協會會員身分論證黨產條例溯及既往合法合憲，多篇專欄指控婦聯會依蔣宋美齡私令違憲徵收勞軍捐逾969億元應還款於民，並批評馬英九泄密案無罪判決重傷民主憲政。他也承擔公民團體與黨內職務：曾任永社副理事長與理事長、北社副社長，列名民進黨第十九屆仲裁委員，2021年以永社理事長身分入選民進黨憲改小組專家學者成員，並獲全美台灣人權協會頒發2018年鄭南榕紀念獎。律師執業上他多次出任政治爭議事件的委任律師或告發人，2022年代表林智堅質疑台大學倫會審定程序三大違法，2023年與486先生陳延昶赴北檢控告2億美元副手喊價者違反選罷法搓圓仔湯條款。2025年他受時任民進黨主席賴清德委任對栗正傑發出律師函。進入2020年代後半他仍以臉書發文與專欄形式對柯文哲京華城與政治獻金案、韓國瑜送案流程、黃國昌養狗仔風暴與馬英九基金會風暴提出法律分析，延續以法律專業投入公共議題的長期軌跡。
 
 ## From the record
+- 2020-06-22 — 「黃帝穎」，該頁為「美國頭條」（[[articles/taiwanjustice-net/2020/20200624093955_category_daily-news_tech-news_page_2_9ecc44a6085950d4|TJJ, 20200624093955 快照]]）。
+- 2026-11-25 — 「黃帝穎」，該頁為「美國頭條」（[[articles/taiwanjustice-net/2020/20200610235525_category_usa_384fb879e91b6ba3|TJJ, 20200610235525 快照]]）。
+- 2026-11-25 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類[[articles/taiwanjustice-net/2020/20200707083321_tag_韓國瑜_4b921a9b5705cee0|TJJ, 2026-11-25 快照]]）。
+- 2026-11-25 — 「黃帝穎」，該頁為「Tag: 韓國瑜 Page 2」。
+- 2026-11-25 — 「黃帝穎」本人并列名於該頁 frontmatter authors ，該頁為影音分類「維基解密」（[[articles/taiwanjustice-net/2020/20200708171416_tag_韓粉_page_3_3c335c489e22c4e7.md|TJJ, 2026-11-25 快照]]）。
+- 2026-11-25 — 「黃帝穎」本人并列名於該頁 frontmatter authors ，該頁為影音分類「維基解密」（[[articles/taiwanjustice-net/2020/20200625110055_category_videos_台灣亮起來_page_3_3505231d28b095a5|TJJ, 2020-06-20 快照]]）。
+- 2026-11-25 — 「黃帝穎」本人并列名於該頁 frontmatter authors ，該頁為影音分類「維基解密」[[articles/taiwanjustice-net/2020/20200625104819_category_history_page_2_e6cec4a3ef2c6f8f|TJJ, 20200625104819 快照]]。
+- 2026-11-24 — 「黃帝穎」[[articles/taiwanjustice-net/2020/20200621232249_category_ma-caca_page_2_34996af49209fc78|TJJ, 20200621232249 快照]]）。
+- 2011-09-12 — 「黃帝穎」本人并列名於該頁 frontmatter authors ，該頁為影音分類「維基解密」[[articles/taiwanjustice-net/2020/20200626032957_category_wikileaks_page_3_de5fb3988468191c.md|TJJ, 20200626032957 快照]]）。
+- 2026-11-24 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類[[articles/taiwanjustice-net/2020/20200613130918_category_videos_talk-videos_1304f21c87717325|TJJ, 20200613130918 快照]]
+- 2026-11-24 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為[[articles/taiwanjustice-net/2019/20190722190654_category_videos_鄭-知道了_717a4f1b179db2c5|TJJ, 20190722190654 快照]]。
+- 2020-06-26 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 影音分類頁（[[articles/taiwanjustice-net/2020/20200626231510_category_internatinal_usa_news_page_3_b3c01b8b6a19a8cf|TJJ, 20200626231510 快照]]。
+- 2020-06-26 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 美國新聞分類頁（[[articles/taiwanjustice-net/2020/20200626231510_category_internatinal_usa_news_page_3_b3c01b8b6a19a8cf|TJJ, 20200626231510 快照]]。
+- 2020-07-07 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類頁該頁為影音分類頁，TJJ, 20200707215116 快照）。
+- 2020-07-07 — 「黃帝穎」，本人并列名於該頁為影音分類頁（該頁為影音分類頁，[[articles/taiwanjustice-net/2020/20200707215116_category_videos_辣新聞152-videos_page_3_d1ca04f609867bb3|TJJ, 20200707215116 快照]]）。
+- 2020-06-29 — 「黃帝穎」，本人并列名於該頁 frontmatter authors [[articles/taiwanjustice-net/2020/20200629164221_category_videos_niandai-money_page_3_767523152f5c9539|TJJ, 20200629164221  快⤃]]。
+- 2020-06-24 — 「黃帝穎」，本人并列名於該頁 frontmatter authors [[articles/taiwanjustice-net/2020/20200625064151_category_china-news_page_2_2e5015b8a4138b40|TJJ, 20200625064151 快⤃]]。
+- 2020-06-27 — 「黃帝穎」。[[articles/taiwanjustice-net/2020/20200626142321_category_videos_台灣啟示錄_page_2_bfd321e46a23903b.md|TJJ, 20200626142321 快照]]。
+- 2020-06-27 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單 20200627180759_category_videos_台灣向前行_page_2_b9f9687aab3db4b2。
+- 2020-06-26 — 「該頁為影音分類頁」列為 TJJ「海外台灣人／藝文」區常設專欄，本人並為該站「影音」區「鄭 知道了」節目之主講，見於「海峽論談」分類頁 Page 3（共 11 頁）之站內導覽（[[articles/taiwanjustice-net/2020/20200628155002_category_videos_newtaiwan_page_3_5d53aa1ba751fcba.md|TJJ, 20200628155002 快照]]）。
+- 2020-06-21 —  「黃帝穎」，本人并列名於該頁為影音分類頁（[[articles/taiwanjustice-net/2020/20200623210830_category_videos_民視台灣學堂_page_3_b95cae2b1ab51d52.md|TJJ, 20200623210830 快照]]）。
+
+- 2020-06-24 — 「黃帝穎」列為 TJJ「海外台灣人／藝文」區常設專欄，本人並為該站「影音」區「鄭 知道了」節目之主講，見於「海峽論談」分類頁 Page 3（共 11 頁）之站內導覽（[[articles/taiwanjustice-net/2020/20200625203754_category_videos_鄭-知道了_page_2_8c84d5ccd6f4d16d|TJJ, 20200625203754 快照]]）。
+- 2020-06-06 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類頁[[articles/taiwanjustice-net/2020/20200607172043_category_international_ae997fbc6c28af1a|TJJ, 20200607172043 快照]]）。
+- 2026-11-24 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類頁 [[articles/taiwanjustice-net/2020/20200625065721_category_videos_t觀點_page_2_89e1f25d4baba12a|TJJ, 20200625065721 快照]]。
+- 2026-11-24 — 「黃帝穎」，本人并列名於該頁晆於該頁為孛articles/taiwanjustice-net/2020/20200629032614_category_featured_page_3_5b5f6a54c654b366嵝。
+- 2026-11-23 — 「黃帝穎」TJJ, 20200629225455 快照。
+- 2026-11-24 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類頁 [[articles/taiwanjustice-net/2020/20200626172144_category_videos_talk-videos_page_2_8f85ad502fea84cd.md|TJJ, 20200626172144 快照]]。
+- 2020-03-08 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單黃帝穎，本人并列名於該頁 frontmatter authors 清單[[articles/taiwanjustice-net/2020/20200626031305_category_column_fanjiang_page_2_1c6ae83df20336f5|TJJ, 20200626031305 快照]]。
+- 2026-11-23 — 「黃帝穎」TJJ, 20200629225455 快照。
+- 2020-06-24 — 「黃帝穎」列為 TJJ「海外台灣人／藝文」區常設專欄，本人並為該站「影音」區「鄭 知道了」節目之主講，見於「海峽論談」分類頁 Page 3（共 11 頁）之站內導覽（[[articles/taiwanjustice-net/2020/20200625164605_category_usa_page_3_99a17da4600a1d80|TJJ, 20200625164605 快照]]）。
+- 2026-11-23 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單黃帝穎，本人并列名於該頁 frontmatter authors 清單，該頁為 [[articles/taiwanjustice-net/2020/20200628221737_category_videos_talk-videos_page_3_207b0f66c1b9fe30|TJJ, 20200628221737 快照]]。
+- 2020-06-24 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單（[[articles/taiwanjustice-net/2020/20200625084313_category_china-news_page_3_e182a8a25132d618.md|TJJ, 20200625084313 快照]]）。
+- 2020-06-19 — 「黃帝穎」 ，本人并列名於該頁 frontmatter authors 清單，該頁為[[articles/taiwanjustice-net/2020/20200626054057_category_world-history_page_2_07008ce182c073e2|TJJ, 20200626054057 快照]]。
+- 2020-06-20 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單，該頁為影音分類頁影音分類頁 Page 3（[[articles/taiwanjustice-net/2020/20200627043040_category_videos_消失的國界_page_3_d6aa30946164accb|TJJ, 2020-06-20 快照]]）。
+- 2020-06-28 — 「黃帝穎」[[articles/taiwanjustice-net/2020/20200627201440_category_world-history_page_3_ccd813f5c376dfd2.md|TJJ, 20200627201440 快照]]。
+- 2020-06-28 — 「黃帝穎，該頁為[[articles/taiwanjustice-net/2020/20200629175857_category_taiwan-history-geo_page_3_bfaafa5048c78f2b|TJJ, 20200629175857 快照]]。
+- 2020-06-20 — 「黃帝穎」，該頁為
+- 2020-06-28 — 「黃帝穎」，該頁為 [[articles/taiwanjustice-net/2020/20200629054745_category_health_page_3_211dd0e04ff2c4ba.md|TJJ, 20200629054745 快照]]。
+- 2020-03-08 — 「黃帝穎」」，該頁為 [[articles/taiwanjustice-net/2020/20200629054745_category_health_page_3_211dd0e04ff2c4ba.md|TJJ, 20200629054745 快照]][[articles/taiwanjustice-net/2020/20200629164422_category_column_fanjiang_page_3_185afdc9a9c4b6a9.md|TJJ, 20200629164422 快照]]。
+- 2026-11-24 — 「黃帝穎」，該頁為 [[articles/taiwanjustice-net/2020/20200626064929_category_videos_我們的島_page_2_2e51622e3150ac15.md|TJJ, 20200626064929 快照]]。
+- 2020-06-06 — 「黃帝穎」列為 TJJ「影音」區常設節目區列表，本人並列名於該篇「影音」區 Page 2/191（[[articles/taiwanjustice-net/2020/20200610020522_category_classicmusic_65cb832c3b5a94ba|TJJ, 20200610020522 快照]]。
+- 2019-02-06 — 「黃帝穎 音樂教室」，列為 TJJ「海外台灣人／藝文」區常設專欄，本人並為該站「影音」區「鄭 知道了」節目之主講，「海峽論談」類頁 Page 3[[articles/taiwanjustice-net/2020/20200623024110_category_videos_雲端秘檔_page_2_856841e414c44e43|TJJ, 2019-02-06 快照]]）。
+- 2020-06-24 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單[[articles/taiwanjustice-net/2020/20200625020530_category_internatinal_usa_news_us_election_page_2_4465bcf0014a7a63|TJJ, 20200625020530 快照]]）。
+- 2020-06-24 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單[[articles/taiwanjustice-net/2020/20200625011750_category_taiwan-news_election_page_2_e645352b5ed79505.md|TJJ, 20200625011750 快照]]）。
+- 2026-11-23 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單黃帝穎，本人并列名於該頁 frontmatter authors 清單「黃帝穎」，本人并列名於該頁 frontmatter authors 清單黃帝穎，本人并列名於該頁 frontmatter authors 清單TJJ, 2020-07-06 快照。
+- 2026-11-23 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單黃帝穎，本人并列名於該頁 frontmatter authors 清單，該頁為影音分類頁影音分類頁 Page 3（[[articles/taiwanjustice-net/2020/20200624133507_category_videos_新聞大解讀_page_2_1af619cab7567c45|TJJ, 20200624133507 快照]]）。（[[articles/taiwanjustice-net/2020/20200627005858_category_taiwan-news_election_page_3_721aec59e6dad8e7.md|TJJ, 20200627005858 快照]]）。
+- 2026-11-23 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單黃帝穎，本人并列名於該頁 frontmatter authors 清單，[[articles/taiwanjustice-net/2020/20200626060919_category_videos_一步一腳印_page_2_297d55aa531d3186.md|TJJ, 2019-07-28 快照]] [[articles/taiwanjustice-net/2020/20200622235305_category_videos_全球進行式_page_2_da547bf3b4a44193.md|TJJ, 2020-06-22 快照]]。
+- 2025-06-15 — 「黃帝穎」於美洲台灣日報政治評論欄發表〈當將軍不再只拿槍：台灣需要「科技將領」〉，呼籲國防部設立「科技將領」制度、創設「國防數位指揮部」、建立「科技預備軍官培訓體系」三大改革（文末自註「（民進黨美東黨部前評議委員）0615」） ([美洲台灣日報](https://taiwandaily.net/政治評論/83290/)，reported)。
+- 2025-07-17 — 國民黨立委傅崐萁於 7 月 16 日公辦電視罷免說明會稱若大罷免成功、立法院通過的普發現金一萬元與全民 5 天國定假日將被沒收；律師黃帝穎發文批評有經濟犯罪前科的傅崐萁違憲開出 1 萬元現金「空頭支票」，並質詢全球民主國家國會從無國會違憲發現金之案例、普發現金屬行政權決策之權力分立原則（馬總統時代消費券也不例外），批國民黨為救罷免權位私利公然「買空賣空、吃相難看」（以上為該報導引述本人臉書發文，屬被報導記錄；欄內被報導人物傅崐萁不代筆添條）（*reported*：「經濟犯罪前科三審判罪定讞」為該報導引述本人指控）— [美洲台灣日報](https://taiwandaily.net/%e5%8d%b3%e6%99%82%e6%96%b0%e8%81%9e/89030/)（存檔 `knowledge/web-archives/taiwandaily-net-89030-89030.md`；原始來源 自由時報0717；去重：寫入前 `grep -c 89030` = 0）
+- 2026-11-24 — 影音分類頁Page 3」，本人并列名於該頁 frontmatter authors ，該頁為影音分類頁[[articles/taiwanjustice-net/2020/20200607172043_category_international_ae997fbc6c28af1a|TJJ, 20200607172043 快照]]）。
+- 2026-11-24 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類頁（[[articles/taiwanjustice-net/2020/20200620024716_category_videos_news-cheng_page_2_3437097db76a5d14.md|TJJ, 20200620024716 快照]]）。
+- 2020-06-20 —「黃帝穎」本人并列名於該頁 frontmatter authors 清單，該頁為大洛杉磯台灣會館分類頁 Page 3（[[articles/taiwanjustice-net/2020/20200623100513_category_videos_政經最前線_9342f25c290b251f.md|TJJ, 20200623100513 快照]]）。
+- **2025-07-20**（報導日；存檔 front-matter `published` 2025-07-20，正文末署「自由時報0720」，美洲台灣日報「即時新聞」轉載）— 美洲台灣日報刊出〈大罷免非藍綠對決 黃帝穎：是為重建台灣的國際信任〉：726 大罷免首波投票進入倒數，律師黃帝穎當日表示國民黨企圖將罷免打成藍綠對決，但正藍退將邱衛邦、空軍鷹爸徐柏岳都挺身呼籲藍軍支持大罷免，顯示不分藍綠對國民黨立委「舔共亂修法、亂砍預算」都無法忍受；他列舉歐美對國民黨擴權及亂砍預算發出警示及譴責——「美國在台協會」前處長司徒文、楊甦棣串連 30 位國際學者譴責國民黨擴權「超越國際各憲政民主國家的規範，顛覆法治理念、違反程序正義」，美國聯邦參議員蘇利文在參院軍委會聽證會對台灣立院刪減國防預算表達疑慮、抨擊國民黨「玩危險遊戲」；並指國民黨主席朱立倫以「納粹」「希特勒」批評民主台灣民選政府引起德國在台協會聲明「對朱立倫的言論感到失望與不安」，歐盟、比利時、荷蘭、法國、以色列、英國及瑞典等 8 國同聲譴責國民黨，朱竟回嗆「外國政府勿干預內政」、國民黨議員更揚言對各國「驅逐出境」，國民黨宛如義和團；結論：「726 大罷免，你相信歐美民主世界或是 3 大犯罪前科又赴中朝拜的傅崐萁？」（*reported*：以上為其當日對媒體之談話經報導轉述；欄內被報導人物 傅崐萁／朱立倫／邱衛邦／徐柏岳／司徒文／楊甦棣／蘇利文 不代筆添條——楊甦棣、蘇利文 於本頁僅為 tag 列表、非本人頁；身份 HIT：黃帝穎 見於本頁 `title: "黃帝穎"`／`name_zh: 黃帝穎`，為報導主體具名引語者；card 另一候選頁 people/li-jian.md 李堅 全文 0× — prep-tag collision 為假，never-merge；**去重**：寫入前 `grep -c 89436 content/people/huang-diyin.md` = 0）（存檔 `knowledge/web-archives/taiwandaily-net-89436-89436.md`）— [美洲台灣日報](https://taiwandaily.net/%e5%8d%b3%e6%99%82%e6%96%b0%e8%81%9e/89436/)
+- 2020-06-22 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類頁 [[articles/taiwanjustice-net/2020/20200623105224_category_videos_page_2_616193bcaa57017d|TJJ, 2023-03-22 快照]]。
+- 2019-03-16 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類頁 [[articles/taiwanjustice-net/2023/20230322161547_tag_接班人_6fdadb1e8f71d98e.md|TJJ, 2023-03-22 快照]]。
+- 2026-11-23 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類頁 [[articles/taiwanjustice-net/2023/20230322161547_tag_接班人_6fdadb1e8f71d98e.md|TJJ, 2023-03-22 快照]]。
+- 2026-11-23 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單，該頁為中國史地分類頁（中國史地）([[articles/taiwanjustice-net/2020/20200628194013_category_chinese-history_page_3_d57027ad96fa981d|20200628194013_category_chinese-history_page_3_d57027ad96fa981d]]「TJJ, 20200628194013 快照」)。
+- 2026-11-23 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單，該頁為影音分類頁影音分類頁 Page 3（[[articles/taiwanjustice-net/2020/20200624133507_category_videos_新聞大解讀_page_2_1af619cab7567c45|TJJ, 20200624133507 快照]]）。
+- 2020-06-21 — 「我們一家人」。黃帝穎。 即本頁記載於 [[articles/taiwanjustice-net/2020/20200624123705_category_videos_我們一家人_69e696de83250efc|TJJ, 2020-06-21 快照]]。
+- 2026-11-23 — 「黃帝穎」本人并列名於該頁 frontmatter authors 清單，（[[articles/taiwanjustice-net/2020/20200627114503_category_videos_突發琪想_page_3_f03d472ae3061fcd|TJJ, 20200627114503 快照]]。
+- 2026-11-22 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單，該頁為影音分類頁影音分類頁 Page 3（[[articles/taiwanjustice-net/2020/20200626091241_category_videos_關鍵時刻_page_3_2af3ff5ab4e9ac93|TJJ, 20200626091241 快照]]）。
+- 2026-11-22 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單，該頁為影音分類頁影音分類頁 Page 2（[[articles/taiwanjustice-net/2020/20200625220821_category_videos_中天調查報告_page_2_0ee51537ee3dc21f|TJJ, 20200625220821 快照]]）。
+- 2026-11-22 — 「新台灣加油」該頁為影音分類頁（[[articles/taiwanjustice-net/2020/20200626212758_category_videos_newtaiwan_page_2_734b20fb6f2a8d2c|TJJ, 20200626212758 快照]]）。
+- 2026-11-22 — 「李四端的雲端世界」，本人并列名於該頁 frontmatter authors 清單該頁為「李四端的雲端世界」影音分類頁（快照）[[articles/taiwanjustice-net/2020/20200624022526_category_videos_李四端的雲端世界_page_3_fb384b6020dc5e6c|TJJ, 20200624022526 快照]]。
+- 2020-06-28 — 「黃帝穎 音樂教室」（[[articles/taiwanjustice-net/2020/20200629020755_category_videos_我們一家人_page_3_8b53fa044157a9e7|TJJ, 2020-06-28 快照]]）。
+- 2020-06-21 — 「黃帝穎 音樂教室」列為 TJJ「海外台灣人／藝文」區常設專欄，本人並為該站「影音」區「鄭 知道了」節目之主講，見於「海峽論談」分類頁 Page 3（共 11 頁）之站內導覽（[[articles/taiwanjustice-net/2020/20200627221531_category_videos_海峽論談_page_3_bc22bf9fb481789e|TJJ, 2020-06-21 快照]]）。
+- 2020-06-21 — 「中天調查報告」列為 TJJ「海外台灣人／藝文」區常設專欄，本人並為該站「影音」區「鄭 知道了」節目之主講，見於「海峽論談」分類頁 Page 3（共 11 頁）之站內導覽（[[articles/taiwanjustice-net/2020/20200625220829_category_videos_中天調查報告_page_3_dac441a381030c51|TJJ, 2020-06-21 快照]]）。
+- 2020-06-21 — 「黃帝穎 音樂教室」，本人并列名於該頁 frontmatter authors 清單，該頁為「驚爆新聞線」影音分類頁 Page 3（[[articles/taiwanjustice-net/2020/20200626180838_category_videos_newsline_page_3_d6919816b65f4d77|TJJ, 20200626180838 快照]]）。
+- 2020-06-21 — - 2020-06-21 — 「黃帝穎」列為 TJJ「海外台灣人／藝文」區常設專欄，，「海峽論談」頁 Page 1/1（[[articles/taiwanjustice-net/2020/20200622210525_category_videos_海峽論談_02132c2ceb161d2c.md|TJJ, 2020-06-21 快照]]。
+- 2020-06-21 — 「黃帝穎 音樂教室」（[[articles/taiwanjustice-net/2020/20200627050252_category_videos_我們一家人_page_2_68e71c79ef1a3e70|TJJ, 2020-06-21 快照]]）。
+- 2020-06-23 — 「前進新台灣」列為 TJJ「海外台灣人／藝文」區常設專欄，本人並為該站「影音」區「鄭 知道了」節目之主講，見於「海峽論談」分類頁 Page 3（共 11 頁）之站內導覽（[[articles/taiwanjustice-net/2020/20200623211826_category_videos_taiwan-go-ahead_page_2_35e378f47d705d77|TJJ, 20200623211826 快照]]）。
+- 2019-08-09 — 「黃帝穎」，本人并列名於該頁為影音分類頁 Page 3（[[articles/taiwanjustice-net/2020/20200625045248_category_videos_my-point-of-view_page_3_a31371bdc900a341.md|TJJ, 20200625045248 快照]]）。
+- 2019-08-09 — 「黃帝穎」，本人并列名於該頁為影音分類頁 Page 2（[[articles/taiwanjustice-net/2020/20200624203350_category_videos_台灣最前線_page_2_b677ee29f70dde97.md|TJJ, 20200624203350 快照]]）。
+- 2020-06-27 — 「黃帝穎」弌該頁為影音分類頁 Page 3（[[articles/taiwanjustice-net/2020/20200628004226_category_videos_台灣最前線_page_3_aeebdd8e6e21f4ab|TJJ, 20200628004226 快照]]）。
+- 2020-06-21 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單，該頁為「驚爆新聞線」影音分類頁 Page 2（[[articles/taiwanjustice-net/2020/20200624155515_category_videos_newsline_page_2_6603341107ee273d|TJJ, 20200624155515 快照]]）。
+- 2020-06-29 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單[[articles/taiwanjustice-net/2020/20200624133507_category_videos_新聞大解讀_page_2_1af619cab7567c45|TJJ, 20200624133507 快照]]）。
+- 2020-06-29 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單[[articles/taiwanjustice-net/2020/20200624133507_category_videos_新聞大解讀_page_2_1af619cab7567c45|TJJ, 20200624133507 快照]]）。
+- 2020-06-29 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單（[[articles/taiwanjustice-net/2020/20200710170043_tag_鄭知道了_page_2_dad89e87f16f0c69.md|TJJ, 20200710170043 快照]]）。
+
+- 2020-06-20 — 「黃帝穎 」列為 TJJ「影音」區常設節目區列表，本人並列名於該篇「影音」區 Page 2/191（[[articles/taiwanjustice-net/2020/20200626030234_category_videos_消失的國界_page_2_02cf71dfae9de23f|20200626030234_category_videos_消失的國界_page_2_02cf71dfae9de23f]]）。
+- 2020-06-20 — 「黃帝穎 」列為 TJJ「影音」區常設節目區列表，本人此篇列表的「看東人物」「黃帝穎 」（[[articles/taiwanjustice-net/2020/20200622183403_category_videos_李四端的雲端世界_page_2_fc5fd4cae1aa269f|20200622183403_category_videos_李四端的雲端世界_page_2_fc5fd4cae1aa269f]]）。
+- 2026-11-24 — - 2020-06-20 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單，該頁為影音分類頁影音分類頁 Page 3「[[articles/taiwanjustice-net/2020/20200622093109_category_videos_台灣最前線_a8faa0fefa6c9624|20200622093109_category_videos_台灣最前線_a8faa0fefa6c9624.md]]」。
+- **2025-11-11**（報導日；存檔 front-matter `published` 2025-11-11，正文末署「自由時報1111」轉載）— 美洲台灣日報「即時新聞」刊出〈中共恫嚇抓捕沈伯洋 黃帝穎：照妖鏡讓中共在台內鬼現形〉：中國重慶公安局日前以涉「分裂國家罪」對民進黨立委沈伯洋立案調查；律師黃帝穎當日於臉書 PO 文表示，沈伯洋長期研究及宣揚「民主防衛」及防制紅色滲透在歐美等全球民主國家很正常、在美國與澳洲更是近年顯學，中國氣急敗壞宣稱其涉犯「分裂國家罪」、揚言透過國際刑警組織全球抓捕、央視製播 8 分鐘影片自稱起底，「可見沈伯洋做對了獨裁者中共害怕的事」；並從法律論：中國片面通緝且明顯出於政治因素，全球民主國家不理會中國的政治通緝，民主各國不論有無與中國簽訂「司法互助協議」，依各國國內「民主憲法」及國際人權兩公約均無法向獨裁中國引渡政治犯，中國宣稱通緝沈伯洋「在國際法上毫無意義」；更批台灣竟有特定政客、網路帳號及媒體宣稱「台獨分子都難逃清算」、「賴清德跪求韓國瑜救撲馬」等低劣政治口水、明顯配合中共定調，實證沈伯洋防制紅色滲透「如照妖鏡」已陸續讓中共在台內鬼現形（*reported*：分析為其臉書 PO 文經報導轉述；欄內被報導人物 沈伯洋／韓國瑜／賴清德 不代筆添條——沈伯洋頁之同檔記錄另見本庫 people/沈伯洋.md 2025-11-11 條；身份 HIT：黃帝穎 見於本頁 `title: "黃帝穎"`／`name_zh: 黃帝穎`，為報導主體具名臉書引語者；card 候選頁 people/li-jian.md 李堅 全文 0× — prep-tag collision 為假，未合併；**去重**：寫入前 `grep 108026 content/people/huang-diyin.md` = 0）（存檔 `knowledge/web-archives/taiwandaily-net-108026-108026.md`）— [美洲台灣日報](https://taiwandaily.net/%e5%8d%b3%e6%99%82%e6%96%b0%e8%81%9e/108026/)
+
+- **2024-08-29**（報導日；正文末署「自由時報0829」，美洲台灣日報「即時新聞」轉載）— 美洲台灣日報刊出〈檢調搜索柯文哲住處及民眾黨中央黨部 黃帝穎：柯文哲一人毀全黨〉：台北地檢署偕同廉政署偵辦京華城容積率弊案，當日上午檢廉搜索柯文哲住家、台玻大樓柯文哲辦公室及前副市長彭振聲住處；律師黃帝穎當日於臉書 PO 文表示，民眾黨發聲明支持柯文哲清白並要求檢調勿「侵害柯文哲主席之名譽」，簡直法盲瞎挺，「阿北一人毀全黨」，並列舉四大法律事實，不容法盲——①檢廉搜索經法院裁准，如此矚目且政治敏感之搜索必有相當證據始能說服法官；②柯文哲便當會要角應曉薇、沈慶京已遭法院裁定收押禁見，代表檢廉掌握貪瀆證據；③監察院糾正案（公文書）指出柯市府給京華城 840% 容積率及獎勵違法；④柯文哲任命之副市長彭振聲已遭北檢認定圖利罪涉嫌重大、限制住居出境出海，且彭在市議會京華城案調查小組陳稱「市長交辦」；黃帝穎直言四大法律事實均指向柯文哲難逃京華城弊案法律責任，民眾黨竟法盲瞎挺，根本是非不分、價值錯亂（*reported*：四點分析為其臉書發文經報導轉述；欄內被報導人物 柯文哲／彭振聲／應曉薇／沈慶京 不代筆添條；**去重**：寫入前 `grep 35025 content/people/huang-diyin.md` = 0，寫入後 = 1；與本頁 2024-08-12〈柯文哲記者會只有卸責〉條為不同日期之不同事件，未合併）（存檔 `knowledge/web-archives/taiwandaily-net-35025-35025.md`）— [美洲台灣日報](https://taiwandaily.net/即時新聞/35025/)
 
 - **2024-08-12**（報導日；正文末署「自由時報0812」，美洲台灣日報「即時新聞」轉載）— 美洲台灣日報刊出〈柯文哲記者會只有卸責 黃帝穎：5大法律爭議都沒解決！〉：民眾黨主席柯文哲涉政治獻金申報不實（1300 萬元「授權費用」、尼奧／時樂 3 筆約 916 萬元、漏報逾 1800 餘萬元），當日親上火線開記者會澄清，發言人陳智菡指稱委託會計師端木正擅自調節、端木發聲明否認；律師黃帝穎當日批評柯文哲記者會「全程只有一個重點：都是會計師的錯」，一個證據都拿不出來，五大法律爭議一個都沒解決——①未提 1300 萬元權利金用途及細項證明（政治獻金法基本問題）、②尼奧／時樂否認 916 萬元而柯提不出帳簿文據（涉刑法行使偽造私文書罪、5 年徒刑）、③未提 916 萬元金流帳戶明細（涉詐欺、侵佔）、④妻子陳佩琪「小草咖啡廳」人頭公司未說明是否知情（恐認定偽造文書共犯）、⑤陳佩琪公職醫師期間是否領「不開業不兼職獎金」（涉利用職務詐領財物貪污重罪）（*reported*：五點法律分析為其對媒體之批評經報導轉述；欄內被報導人物 柯文哲／陳智菡／端木正／陳佩琪 不代筆添條；**去重**：寫入前 `grep 32142 content/people/huang-diyin.md` = 0）（存檔 `knowledge/web-archives/taiwandaily-net-32142-32142.md`）— [美洲台灣日報](https://taiwandaily.net/即時新聞/32142/)
 
@@ -25,6 +111,9 @@ last_reviewed: 2026-11-12
 - **2025-10-29**（報導日；正文末署「自由時報1029」，美洲台灣日報「即時新聞」轉載）— 〈分析黃國昌不敢說明養狗仔等3大事實 黃帝穎：最重10年徒刑〉：民眾黨主席黃國昌深陷鏡週刊爆出的養狗仔、駭客風暴，黃帝穎當日於臉書 PO 文指出，黃國昌狗仔帳房李光昕案發後出境前往香港（如橘子廣告事件翻版）、「指揮狗仔跟監政敵」及帳房潛逃等三大事實黃國昌均未否認、更不敢說明提告——週刊狗仔對話截圖指其長期指揮狗仔跟監政敵，涉犯刑法非法攝錄他人非公開活動罪、違反個資法，最重五年徒刑；若跟監政要資金涉及中資、港資等境外敵對勢力資助，涉犯國安法、反滲透法，最重十年徒刑；另指週刊報導陳建平及黃安捷退出鏡電視董事會後於 2023 年轉投資凱思各約千萬元，黃國昌長期批評鏡電視根本是「拿錢辦事」，若與立委職權具對價關係，涉犯貪污治罪條例「不違背職務受賄罪」，處七年以上徒刑（*reported*：分析為其臉書發文經報導轉述；欄內被報導人物 黃國昌／李光昕／陳建平／黃安捷 不代筆添條；**去重**：寫入前 `grep 105895 content/people/huang-diyin.md` = 0）（存檔 `knowledge/web-archives/taiwandaily-net-105895-105895.md`）— [美洲台灣日報](https://taiwandaily.net/%e5%8d%b3%e6%99%82%e6%96%b0%e8%81%9e/105895/)
 
 - **2026-05-29**（報導日；正文末署「自由時報0529」，美洲台灣日報「即時新聞」轉載）— 〈蕭旭岑收台商百萬說法三版本 黃帝穎：明顯心虛〉：馬英九指控前馬英九基金會執行長蕭旭岑、王光慈二人涉嫌背信、侵占，馬英九基金會 5/29 向檢方提起刑事告訴；黃帝穎當日於臉書 PO 文表示，蕭旭岑對收錢的說法至少出現三個版本且辯詞違反「財團法人法」，凸顯其收錢在法律上站不住腳——第一版「不碰錢」遭基金會公開其手捧台商捐款百萬元照片打臉；第二版稱馬卸任禮遇結束後台商捐款給馬，再被金溥聰於趙少康節目專訪以「時序」（收錢照在 2023 年、馬卸任禮遇結束在 2024 年）打臉；第三版稱 2024 年賴清德當選後台商怕被「查水錶」不敢捐給基金會；黃帝穎並指依「財團法人法」捐款者不限額度均可匿名捐贈、無捐款須具名之虞，且捐款只能進基金會名義帳戶、不能寄託於任何個人，故第三版一樣明顯違法、「說法三版本凸顯違法心虛」（*reported*：分析為其臉書發文經報導轉述；欄內被報導人物 蕭旭岑／馬英九／王光慈／金溥聰／趙少康／賴清德 不代筆添條——馬英九基金會提告之同日事件已由 [[people/ma-yingjeou|馬英九]] 頁 2026-05-29 條自 139774 存檔記錄，本條僅記本人發文，未合併；**去重**：寫入前 `grep 139702 content/people/huang-diyin.md` = 0）（存檔 `knowledge/web-archives/taiwandaily-net-139702-139702.md`）— [美洲台灣日報](https://taiwandaily.net/%e5%8d%b3%e6%99%82%e6%96%b0%e8%81%9e/139702/)
+
+- 2020-06-21 — - 2024-02-29 — 「黃帝穎 音樂教室」列為 TJJ「影音」區常設節目區塊，「有話好說」為同區常設節目分類且該頁即其標籤頁 Page 1/191（Featured posts 排序 via filter_by=featured，列表載 有話好說 20240229 立法院召委選舉 白挺藍!三黨各有盤算?（February 29, 2024）等各篇），本人並列名於該頁「影音」區 Page 2/191（[[articles/taiwanjustice-net/2020/20200625081959_category_videos_台灣亮起來_page_2_5d5ddfe2818efabd.md|TJJ, 2020-06-21 快照）]]。
+- 2020-06-22 — 「該頁為影音分類頁」列為 TJJ「海外台灣人／藝文」區常設專欄，本人並為該站「影音」區「鄭 知道了」節目之主講，見於「海峽論談」分類頁 Page 3（共 11 頁）之站內導覽（[[articles/taiwanjustice-net/2020/20200623083552_category_videos_關鍵時刻_page_2_dca8f91e17e256fe.md|TJJ, 20200623083552 快照]]）。
 
 - 2024-02-29 — 「黃帝穎 音樂教室」列為 TJJ「影音」區常設節目區塊，「有話好說」為同區常設節目分類且該頁即其標籤頁 Page 1/191（Featured posts 排序 via filter_by=featured，列表載 有話好說 20240229 立法院召委選舉 白挺藍!三黨各有盤算?（February 29, 2024）等各篇），本人並列名於該頁 frontmatter authors 清單，見於該頁之站內導覽（[[articles/taiwanjustice-net/2024/20240301064924_root_e426f646b147d37b.md|TJJ, 2024-03-01 快照]]）。
 
@@ -83,12 +172,39 @@ last_reviewed: 2026-11-12
 - **2024-12-02**（報導日；正文末署「自由時報1202」，美洲台灣日報「即時新聞」轉載）— 〈傳柯文哲用「掌上型電視」掌握案情 律師分析3大串證跡象〉：黃帝穎當晨於臉書發文，就柯文哲京華城弊案羈押禁見期間經週刊報導被指透過土城看守所內掌上型電視全程掌握輿情、「隔空串證」一事分析，指柯文哲至少三次涉嫌隔空串證跡象——包括朱亞虎認罪行賄、大帳房李文宗收押禁見後柯文哲突然「拒絕提訊」，恐係透過電視掌握案情並拖延時間爭取強辯空間；又指沈慶京拒認罪延押、帳房「橘子」許芷瑜潛逃澳洲後柯文哲同意提訊仍拒絕詳述案情；並提及陳佩琪找特定媒體開記者會說明家庭金流、該等「特定媒體」含柯文哲可直接收看之電視台，引柯文哲自稱智商 157 論其自羈押禁見法律漏洞找到隔空串證方法「應不難理解」。惟黃帝穎結論認為隔空串證難有效果：朱亞虎認罪行賄金額應不只 210 萬元、否則檢方不會同意具保停押，且近十年各級法院貪污判決中「行賄被告認罪，收賄被告均判有罪，『沒有例』外」，故柯文哲所涉違背職務收賄罪起訴定罪率極高（*reported*：分析為其臉書發文經報導轉述；欄內被報導人物 柯文哲／朱亞虎／李文宗／沈慶京／許芷瑜／陳佩琪 不代筆添條。**去重**：與本頁 2025-01-01《蔡壁如翻供凸顯羈押必要》條為同案不同日期之兩次發文，未合併；寫入前 `grep 50580 content/people/` = 0，寫入後 = 1）（存檔 `knowledge/web-archives/taiwandaily-net-50580-50580.md`）— [美洲台灣日報](https://taiwandaily.net/即時新聞/50580/)
 - 2014-04-30 — 本人為該站「專欄」區「黃帝穎專欄」分類頁 Page 12/12（Random 排序）之專欄主體，該頁列表載 (台灣) 警察鎮壓 驅離媒體 違法違憲 ◎黃帝穎/ 時事想想台灣/ Apr 30, 2014、慈濟爭議 凸顯宗教法的立法怠惰 ◎黃帝穎/ 極光電子報/ 2015-3-24、簽結三中 特偵組吃案 ◎黃帝穎律師/ 自由時報/ 2017-08-06、馬卸任後 應面對大巨蛋案圖利罪責 ◎黃帝穎律師/ 極光電子報/ 2016-4-19、以德國為例, 司法改革要先有轉型正義 ◎黃帝穎/ 民報/ 2017-06-07、與美國台僑談司改與國民法官 ◎ 黃帝穎 律師 2017-10-06 等各篇，本人並列名於該頁 frontmatter authors 清單（16 人）（[[articles/taiwanjustice-net/2024/20240522041755_root_397f9370c43d132a|TJJ, 2024-05-22 快照]]）。
 - 2016-08-25 — 本人為為該站「專欄」區「黃帝穎專欄」分類頁 Page 12/12（Most popular 排序）之專欄主體，該頁為列表載(台灣的中國)國民黨打黨產官司 不如與民主和解（極光電子報）， 2016-8-23，彈劾馬的司法暗樁 黃帝穎專師/ 極光電子報/ 2018-04-10，評台灣轉型正義與司改二週年/民報 2018-05-26，白狼頒市長獎 學校踐踏《教育基本法》 2018-06-18等各篇，本人並列名於該頁 frontmatter authors 清單（16 人）（[[articles/taiwanjustice-net/2024/20240301065343_root_ad13fe531aa4883f|TJJ, 2024-03-01 快照]]）。
+- 2017-07-16 — 「黃帝穎專欄」且本人列名於該頁 frontmatter authors 清單，見於「台灣亮起來」影音分類頁 Page 3/26（Most popular 排序）之站內導覽（[[articles/taiwanjustice-net/2024/20240425072707_root_2729efa949fe444a|TJJ, 2024-04-25 快照]]）。
+- 2026-11-23 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單，該頁為影音分類頁影音分類頁 Page 3（[[articles/taiwanjustice-net/2020/20200625090505_category_videos_news-chase_page_2_93b26e524ed5e572|TJJ, 20200625090505 快照]]）。
+
 
 - **2024-10-19**（報導日；正文末署「自由時報1019」；美洲台灣日報「即時新聞」轉載自由時報）— 美洲台灣日報刊出〈柯文哲與謝國樑政治獻金疑雲 黃帝穎：不辦就坐實蔡壁如說的「監察院死了」〉：針對柯文哲與謝國樑捲入 200 萬政治獻金風波，律師黃帝穎當日於臉書發文批評監察院未能有效履行職責，並支持民眾黨前立委蔡壁如的質疑——基隆市長謝國樑坦承捐贈 200 萬元給民眾黨，柯文哲卻未依規定存入民眾黨專戶、反列入個人私帳，已明確違反《政治獻金法》，可能涉背信與侵佔罪；黃帝穎指出政治獻金主管機關是監察院，應立即展開調查並依現行法律對柯文哲與謝國樑的違法行為作出懲處，若監察院繼續置若罔聞，將坐實蔡壁如「監察院死了」的指控，不僅損害監察院公信力，更引發民眾對政府部門失職的強烈不滿（*reported*：分析為其臉書發文經報導轉述；欄內被報導人物 柯文哲／謝國樑／蔡壁如／沈慶京 不代筆添條；**去重**：寫入前 `grep -c 43072 content/people/huang-diyin.md` = 0；與本頁 2024-08-12〈柯文哲記者會只有卸責〉條為不同日期之不同事件面向，非同一報導備檔，各記一條）（存檔 `knowledge/web-archives/taiwandaily-net-43072-43072.md`）— [美洲台灣日報](https://taiwandaily.net/%e5%8d%b3%e6%99%82%e6%96%b0%e8%81%9e/43072/)
 - 備註（非事實來源，absorb 2026-11-15）：台灣公義網 taiwanjustice.net 於存檔日 2017-11-08 之四個導覽頁快照——「專欄」分類頁（[[articles/taiwanjustice-net/2017/20171108015431_category_column_3a23249b7321a1f8]]）、「精闢專論」分類頁（[[articles/taiwanjustice-net/2017/20171108022831_category_column_sopt-light-article_b6cd26761d59dcdb]]）、「台灣史地」分類頁（[[articles/taiwanjustice-net/2017/20171108102917_category_taiwan-history-geo_53ceb397598d9954]]）與 admin（josephc）作者頁（[[articles/taiwanjustice-net/2017/20171108022823_author_josephc_6bbb07eff6309a6a]]）——之側欄均列有「黃帝穎專欄」專頁，為該站為其設有固定專欄之站方自證；四頁當頁列表均無其本人署名文章，除側欄與 authors frontmatter 外無其他本人事證，故不採為事實、不新增日期事實，僅補錄回鏈（非本人自述，屬站方導覽層記載）。
+- 2019-08-09 — 「黃帝穎」，本人并列名於該頁為影音分類頁 Page 2（[[articles/taiwanjustice-net/2020/20200623233439_category_videos_my-point-of-view_page_2_ea0b9c5682622075|20200623233439_category_videos_my-point-of-view_page_2_ea0b9c5682622075]]|TJJ, 20200624133507 快照]]）。
 
+- **2024-12-20**（報導日；正文末署「自由時報1220」，美洲台灣日報「即時新聞」轉載）— 美洲台灣日報刊出〈藍白強推閹割罷免權的選罷法 黃帝穎：違憲惡法有3個制衡機制〉：立法院院會 12-20 下午在藍白立委人數優勢下以舉手表決強行通過加嚴罷免連署之《公職人員選舉罷免法》；律師黃帝穎當日於臉書 PO 文表示國民黨再度強推閹割罷免權之選罷法，面對違憲惡法，民主憲政體制有三個制衡機制：1. 行政院長不副署、2. 中選會直接適用立委投票時之選罷法、3. 憲法訴訟。其論述——國民黨排除他黨立委進入內政委員會、鎖門開會，程序有重大明顯瑕疵，依大法官釋字第 499 號解釋意旨違憲無效，行政院長對違憲惡法可不副署使其不生效力，且行政院作為憲政機關有維護民主憲政秩序之憲法義務；依憲法增修條文，國會有權對拒絕副署之行政院長提不信任案、解散國會改選，「藍白敢違憲就不要怕提倒閣與民意直球對決」；中選會若辦理本屆立委罷免事宜，應依國民主權原則與 499 號解釋「政治契約不得片面自肥」適用立委選舉時之選罷法，不得適用提高罷免門檻之新法；憲法訴訟救濟仍是制衡機制之一，惟藍白同步修法企圖癱瘓憲法法庭，故政院挺身守護民主憲政更具重要價值（*reported*：分析為其臉書 PO 文經報導轉述；欄內被報導人物 國民黨／藍白立委／大法官 不代筆添條。**去重**：寫入前 `grep -c 53592 content/people/huang-diyin.md` = 0；與本頁 2024-12-02 柯文哲掌上型電視條（50580）為不同事件）（存檔 `knowledge/web-archives/taiwandaily-net-53592-53592.md`）— [美洲台灣日報](https://taiwandaily.net/即時新聞/53592/)
 - **2024-11-21**（報導日；正文末署「自由時報1121」，美洲台灣日報「即時新聞」轉載）— 美洲台灣日報刊出〈朱亞虎認罪獲具保停押 黃帝穎：柯文哲違背職務收賄罪致命重擊〉：檢廉偵辦京華城、政治獻金假帳案，在押被告李文宗、朱亞虎押期 11-27 屆滿，台北地檢署 11-21 早上向法院聲請延長羈押李文宗，朱亞虎因認罪獲檢方聲請具保停押；律師黃帝穎當日於臉書 PO 文表示，朱亞虎在羈押裁定已認罪行賄、坦承犯行並獲北檢同意具保停押，是否轉為污點證人值得後續觀察，但無論如何「這是對柯文哲違背職務收賄罪的致命重擊」；黃帝穎並指出近十年各級法院貪污判決只要有行賄被告認罪、收賄被告都判有罪無一例外，裁定羈押朱亞虎的罪名為「違背職務行賄罪」且記載其坦承犯行，故其供述足以讓檢方同意具保、證詞具關鍵價值；黃帝穎直言柯文哲「違背職務收賄罪」是貪污治罪條例最重無期徒刑的重罪，李文宗遭聲請延長羈押可見其配合司法程度遠不如朱亞虎（*reported*：分析為其臉書發文經報導轉述；欄內被報導人物 柯文哲／李文宗／朱亞虎 不代筆添條；柯文哲頁已就同一報導另記其被指控視角條；**去重**：寫入前 `grep 48952 content/people/huang-diyin.md` = 0）（存檔 `knowledge/web-archives/taiwandaily-net-48952-48952.md`）— [美洲台灣日報](https://taiwandaily.net/%e5%8d%b3%e6%99%82%e6%96%b0%e8%81%9e/48952/)
+- 2026-11-23 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單，該頁為影音分類頁影音分類頁 Page 3（[[articles/taiwanjustice-net/2020/20200626073337_category_videos_news-face_page_3_65e891ac56f6e167|TJJ, 20200626073337 快照]]）。
+- 2026-11-23 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單，該頁為影音分類頁影音分類頁 Page 3（[[articles/taiwanjustice-net/2020/20200626073334_category_videos_news-face_page_2_2628784fcf280403|TJJ, 20200626073334 快照]]）。
+- 2026-11-23 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單，該頁為影音分類頁影音分類頁 Page 3（[[articles/taiwanjustice-net/2020/20200629175114_category_videos_台灣向前行_page_3_5c6942baa6b39951.md|TJJ, 20200629175114 快照]]）。
+- 2026-11-23 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單（[[articles/taiwanjustice-net/2020/20200627214159_category_videos_niandai-money_page_2_7d2ef2090674409a|TJJ, 20200627214159 快照]]）。
+- 2026-11-22 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單，該頁為影音分類頁影音分類頁 Page 3（[[articles/taiwanjustice-net/2020/20200628082210_category_videos_新聞大解讀_page_3_7a0919a17b44c0f6|20200628082210_category_videos_新聞大解讀_page_3_7a0919a17b44c0f6]]）。
+- 2026-11-22 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單，該頁為影音分類頁影音分類頁 Page 3（[[articles/taiwanjustice-net/2020/20200628130043_category_videos_台灣大搜索_page_3_5e0a083f597f8d22|20200628130043_category_videos_台灣大搜索_page_3_5e0a083f597f8d22]]）。
+- 2020-02-25 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類頁 [[articles/taiwanjustice-net/2020/20200625060924_category_column_agie_page_2_e1e4df3bdccacddf.md|20200625060924 快照]]。
+- 2020-02-25 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類頁 [[articles/taiwanjustice-net/2020/20200625060924_category_column_agie_page_2_e1e4df3bdccacddf.md|20200625060924 快照]][[articles/taiwanjustice-net/2020/20200628150543_category_column_agie_page_3_5383a75a99d277af|TJJ, 20200628150543 快照]]。
+- 2026-11-23 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單，該頁為大洛杉磯台灣會館分類頁 Page 3（[[articles/taiwanjustice-net/2020/20200627224957_category_taiwancenter_page_3_91fe051d80f98a71.md|TJJ, 20200627224957 快照]]）。
+- 2026-11-23 — 「新聞觀測站」，本人并列名於該頁 frontmatter authors 清單，該頁為大洛杉磯台灣會館分類頁 Page 3（TJJ, 20200625162036 快照）。
+- 2026-11-23 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單[[articles/taiwanjustice-net/2020/20200626034947_category_videos_page_3_1e4560247b4138fe.md|TJJ, 20200626034947 快照]]）。
+- 2026-11-22 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類頁 [[articles/taiwanjustice-net/2020/20200624095411_category_videos_突發琪想_page_2_b51fd67a5080b378|TJJ, 20200624095411 快照]]。
+- 2026-11-22 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類頁 [[articles/taiwanjustice-net/2019/20190722190654_category_videos_鄭-知道了_717a4f1b179db2c5|TJJ, 20190722190654 快照]]。
+- 2026-11-23 — 「黃帝穎」，本人并列名於該頁 frontmatter authors（TJJ, 20200626003830 快照）。
+- 2026-11-23 — 「黃帝穎」，[[articles/taiwanjustice-net/2020/20200625102508_category_world-culture_page_3_920f014e376b53c2|20200625102508_category_world-culture_page_3_920f014e376b53c2]]。
+- 2019-08-09 — 「黃帝穎」，本人并列名於該頁為影音分類頁 Page 3（[[articles/taiwanjustice-net/2020/20200624164956_category_videos_台灣向錢衝_page_2_33522d5324c34c1b.md|TJJ, 20200624164956 快照]]）。
+- 2020-06-25 — 「黃帝穎」，本人并列名於該頁，該頁為影音分類頁 [[articles/taiwanjustice-net/2020/20200626191816_category_videos_taiwan-go-ahead_page_3_de8a8e9b9c295228.md|TJJ, 20200626191816 快照]]）。
+- 2026-11-23 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類頁 [[articles/taiwanjustice-net/2020/20200625211125_category_daily-news_page_3_eeb1c336098f729f|20200625211125]]。
+- 2020-06-20 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單，該頁為，該頁為影音分類頁影音分類頁 Page 3（[[articles/taiwanjustice-net/2020/20200625110055_category_videos_台灣亮起來_page_3_3505231d28b095a5|TJJ, 2020-06-20 快照]]）。
+- 2026-11-24 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類頁 TJJ, 20200623100513 快照。
+- 2018-05-13 — 「黃帝穎」本人并列名於該頁 frontmatter authors ，該頁為影音分類[[articles/taiwanjustice-net/2020/20200625231147_category_videos_尋找台灣感動力_page_2_e150ebd67f47a329.md|TJJ, 20200625231147 快照]]）。
 
+- 2026-11-24 — 「黃帝穎」，該頁為[[articles/taiwanjustice-net/2020/20200709063345_tag_韓國瑜_page_2_460f38d25bfc67db|TJJ, 20200709063345 快照]]。
 ## Timeline
 
 - **2025-01-12** 📰 新聞觀測站 20250113 內政部長劉世芳專訪
@@ -10847,6 +10963,7 @@ Pages that link to **黃帝穎** (huang-diyin):
 213. [[articles/taiwanjustice-net/2020/20200625105015_category_videos_news-chase_page_3_83ef25b201784172|20200625105015_category_videos_news-chase_page_3_83ef25b201784172]]
 214. [[articles/taiwanjustice-net/2020/20200625110055_category_videos_台灣亮起來_page_3_3505231d28b095a5|20200625110055_category_videos_台灣亮起來_page_3_3505231d28b095a5]]
 215. [[articles/taiwanjustice-net/2020/20200625110644_category_taiwancenter_newsletter_page_2_dad11b620b8d9268|20200625110644_category_taiwancenter_newsletter_page_2_dad11b620b8d9268]]
+- 2019-10-01 — 「黃帝穎」，本人並列名於該頁 frontmatter authors，category 分類 Page 2（[[articles/taiwanjustice-net/2020/20200625110644_category_taiwancenter_newsletter_page_2_dad11b620b8d9268|TJJ, 20200625110644 快照]]）。
 216. [[articles/taiwanjustice-net/2020/20200625125251_category_opinion_page_3_50f4e936243ab033|20200625125251_category_opinion_page_3_50f4e936243ab033]]
 217. [[articles/taiwanjustice-net/2020/20200625150735_category_taiwan_page_2_fa8c220f7ee7747b|20200625150735_category_taiwan_page_2_fa8c220f7ee7747b]]
 218. [[articles/taiwanjustice-net/2020/20200625162036_category_videos_新聞觀測站_page_2_d0b93951be450c90|20200625162036_category_videos_新聞觀測站_page_2_d0b93951be450c90]]
@@ -11060,3 +11177,15 @@ Facts copied from frontmatter and dated lines already in From the record. Not a 
 - 榮譽: 鄭南榕紀念獎 2018 年得獎人（FAHR第44屆年會，2020-11-25 公告）
 - 評論欄: 極光電子報、民報、自由時報、綠色逗陣、北社評論、美洲台灣日報政治評論欄
 - verification_status: pending
+- 2020-06-24 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單[[articles/taiwanjustice-net/2020/20200622225608_category_column_ho-colume_page_2_4c5bae500a5a0446.md|TJJ, 20200625020530 快照]]）。
+- 2026-11-24 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單，該頁為 6d77 5cfd 8ad6 8ac7 TJJ, 20200625211046 快照
+- 2020-06-23 — 「黃帝穎」，本人并列名於該頁 frontmatter authors 清單，該頁為[[articles/taiwanjustice-net/2020/20200626003830_category_featured_page_2_983c8aeafaf389a0|TJJ, 20200626003830 快照]]
+- 2019-10-20 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類[[articles/taiwanjustice-net/2020/20200624164956_category_videos_台灣向錢衝_page_2_33522d5324c34c1b.md|TJJ, 20200624164956 快照]]）。
+- 2018-02-19 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類[[articles/taiwanjustice-net/2020/20200622225608_category_column_ho-colume_page_2_4c5bae500a5a0446.md|TJJ, 20200622225608 快照]]）。
+- 2026-11-24 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類[[articles/taiwanjustice-net/2020/20200622225608_category_column_ho-colume_page_2_4c5bae500a5a0446.md|TJJ, 20200622225608 快照]]）。
+- 2026-11-24 — 2026-11-24 —  「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類[[articles/taiwanjustice-net/2020/20200710170049_tag_鄭知道了_page_3_eab3e6d13d7bf743|TJJ, 20200710170049 快照]]）。
+- 2020-06-2807 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為（[[articles/articles/taiwanjustice-net/2020/20200629012538_category_column_chen-view_page_3_10d1959b9166e33d|TJJ, 2020-06-28快是）。
+- 2020-06-2807 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為[[content/content/articles/taiwanjustice-net/2020/20200707090800_tag_陳柏惟_f6456d6bcc4ec249.md|TJJ, 2020-06-10快是）。
+- 2026-11-25 — 2026-11-25 — - 2026-11-24 — 2026-11-24 —  「黃帝穎」TJJ, 20200626095120 快照。
+- 2026-11-25 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類[[articles/taiwanjustice-net/2020/20200627214553_category_videos_尋找台灣感動力_page_3_f4c2f265c1ec4d82.md|TJJ, 20200627214553 快照]]）。
+- 2026-11-25 — 「黃帝穎」，本人并列名於該頁 frontmatter authors ，該頁為影音分類[[articles/taiwanjustice-net/2020/20200626095120_category_column_chen-view_page_2_e30d7c5db71ad53a|TJJ, 2026-11-25 快照]]）。

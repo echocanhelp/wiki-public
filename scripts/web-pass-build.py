@@ -46,6 +46,7 @@ from pathlib import Path
 # SWARM-GUARD-1 (t_0cb42501): fail-closed backlog gate before every create.
 sys.path.insert(0, os.path.expanduser("~/.hermes/scripts"))
 from mint_guard import gated_once, budget_args  # noqa: E402
+from mint_gate import ensure_close_contract  # noqa: E402  OPS-FIX t_a802c5f8
 
 REPO = Path("/home/leedt/echo-system")
 CACHE = Path.home() / ".hermes/cache/web-pass"
@@ -487,6 +488,7 @@ def emit_card(rel, zh, en, slug, cache_path, url, today) -> str | None:
         return None
     task_id = tid.group(0)
     body = card_body(rel, zh, en, cache_path, url, today, task_id, slug)
+    body, _cc = ensure_close_contract(body)  # OPS-FIX t_a802c5f8: born-with-contract
     con = sqlite3.connect(str(DB))
     con.execute(
         "update tasks set body=?, priority=? where id=? and body='pending'",

@@ -1,4 +1,4 @@
-TAHS · Echopedia morning brief — 2026-11-21
+TAHS · Echopedia morning brief — 2026-11-25
 5 NEED YOU item(s) below; the rest is auto-handled.
 
 🔴 NEED YOU (your judgment only)
@@ -19,22 +19,19 @@ TAHS · Echopedia morning brief — 2026-11-21
 🟡 QUEUE Charles Yang: soft pending aged out: capture_line_user_id_on_first_sender_message
 
 🟡 SOURCE CONTINUITY (live sites)
-✅ AUTO  good-shepherd-taiwanese-presbyterian-church: +1 new / 1 changed; applied 4
-✅ AUTO  presbyterian-church-in-taiwan: +4 new / 1 changed; applied 7
-✅ AUTO  taiwaneseamericanhistory-org: +0 new / 1 changed; applied 3
-✅ AUTO  penghu-info: +0 new / 4 changed; applied 6
+🟡 QUEUE srcA: 4 urls failing this poll (state kept)
 
 🟡 NEXT INGEST (≤2, advisory — not started)
-🟡 QUEUE taiwandaily.net — external host on 516 Tier1 pages; not watched
-     → go Echopedia website https://taiwandaily.net/
-🟡 QUEUE epochtimes.com — external host on 175 Tier1 pages; not watched
+🟡 QUEUE epochtimes.com — external host on 198 Tier1 pages; not watched
      → go Echopedia website https://epochtimes.com/
+🟡 QUEUE academicians.sinica.edu.tw — external host on 63 Tier1 pages; not watched
+     → go Echopedia website https://academicians.sinica.edu.tw/
 
 🟡 QUEUE / unfinished (not a hard gate)
 🟡 QUEUE 22 pages WIP/incomplete
 
 🟡 QUEUE / link suggestions (disk)
-ℹ️  INFO  top tips below · full pairs on disk (~52210 scored)
+ℹ️  INFO  top tips below · full pairs on disk (~52828 scored)
 
 🟡 QUEUE / optional link tips (≤5, not NEED YOU)
 🟡 QUEUE 1. Link tip: organizations/taiwanese-association-of-northwest-los-angeles.md ↔ people/bang-h-hwang.md
@@ -44,11 +41,10 @@ TAHS · Echopedia morning brief — 2026-11-21
 🟡 QUEUE 5. Link tip: people/黃逸豪.md ↔ sources/ji-keming-thirdparty-2026-11-17.md
 
 ℹ️ SITE (wiki visits; operator self-traffic excluded)
-ℹ️  INFO  wiki 377 visits since cutoff · yday 2026-11-20 = 11 · / 38, /people/albert-zh-sku-b-publisher-review.html 22, /landing 16
+ℹ️  INFO  wiki 419 visits since cutoff · yday 2026-11-24 = 8 · / 41, /people/albert-zh-sku-b-publisher-review.html 22, /landing 21
 
 ✅ AUTO (overnight — evidence)
-✅ AUTO analyzer scanned 3635 queued 104 suppressed 4309
-🟡 QUEUE janitor HOLD leftover 22
-🟡 QUEUE kanban blocked 62
-🔴 NEED YOU cron fail: echopedia-ci-heal, echopedia-generate-cards
+✅ AUTO analyzer scanned 3696 queued 27 suppressed 4579
+🟡 QUEUE janitor HOLD leftover 23
+🟡 QUEUE kanban blocked 70
 ℹ️  INFO  only 🔴 NEED YOU requires your reply

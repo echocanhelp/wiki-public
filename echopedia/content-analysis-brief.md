@@ -1,32 +1,32 @@
-## Echopedia Content Analysis — 2026-11-21
+## Echopedia Content Analysis — 2026-11-24
 - Standards v10
-- Pages scanned: **125** with findings
-- Auto-queued for remediation: **62** (score ≥ 3)
-- Wall time: 3.73s
+- Pages scanned: **83** with findings
+- Auto-queued for remediation: **27** (score ≥ 3)
+- Wall time: 4.68s
 
 ### Top 10 pages needing attention:
-- `sources/cossette-sun-frontier-11180842-12-2026-11-18.md` score=6 ⚠️ DESC_TOO_SHORT, DESC_NO_TITLE_MENTION — DESC_TOO_SHORT, DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
-- `sources/dr-shug-hong-young-frontier-11190824-17-2026-11-19.md` score=6 ⚠️ DESC_TOO_SHORT, DESC_NO_TITLE_MENTION — DESC_TOO_SHORT, DESC_NO_TITLE_MENTION, LINKS_LOW_DENSITY, LINKS_NO_RELATED, READABILITY_MANY_LONG_SENTENCES_6
-- `sources/shiao-uen-ding-frontier-11180842-32-2026-11-18.md` score=6 ⚠️ DESC_TOO_SHORT, DESC_NO_TITLE_MENTION — DESC_TOO_SHORT, DESC_NO_TITLE_MENTION, LINKS_LOW_DENSITY, LINKS_NO_RELATED, READABILITY_MANY_LONG_SENTENCES_4
-- `sources/taa-frontier-11180842-2-2026-11-19.md` score=6 ⚠️ DESC_TOO_SHORT, DESC_NO_TITLE_MENTION — DESC_TOO_SHORT, DESC_NO_TITLE_MENTION, LINKS_LOW_DENSITY, LINKS_NO_RELATED, READABILITY_MANY_LONG_SENTENCES_6
-- `sources/taiwanese-american-ma-ma-class-dc-frontier-11190824-42-2026-11-19.md` score=6 ⚠️ DESC_TOO_SHORT, DESC_NO_TITLE_MENTION — DESC_TOO_SHORT, DESC_NO_TITLE_MENTION, LINKS_LOW_DENSITY, LINKS_NO_RELATED, READABILITY_MANY_LONG_SENTENCES_7
-- `sources/tjj-wha-joint-statement-2021-snapshot-capture.md` score=6 ⚠️ DESC_TOO_SHORT, DESC_NO_TITLE_MENTION — DESC_TOO_SHORT, DESC_NO_TITLE_MENTION, FRESHNESS_NO_REVIEW_DATE, LINKS_NO_RELATED, STRUCT_NO_REVIEW_DATE
-- `people/zheng-xikun.md` score=5 ⚠️ DESC_NO_TITLE_MENTION — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_RELATED, READABILITY_MANY_LONG_SENTENCES_9
-- `sources/densho-ddr-densho-446-382-tsai-ordination-capture.md` score=5 ⚠️ DESC_TOO_SHORT, DESC_NO_TITLE_MENTION — DESC_TOO_SHORT, DESC_NO_TITLE_MENTION, LINKS_LOW_DENSITY, LINKS_NO_RELATED
-- `sources/dr-lii-mei-beverly-chang-frontier-11190824-10-2026-11-19.md` score=5 ⚠️ DESC_TOO_SHORT, DESC_NO_TITLE_MENTION — DESC_TOO_SHORT, DESC_NO_TITLE_MENTION, LINKS_LOW_DENSITY, LINKS_NO_RELATED
-- `sources/dr-richard-r-hwang-frontier-11190824-16-2026-11-19.md` score=5 ⚠️ DESC_TOO_SHORT, DESC_NO_TITLE_MENTION — DESC_TOO_SHORT, DESC_NO_TITLE_MENTION, LINKS_LOW_DENSITY, LINKS_NO_RELATED
+- `sources/newbloom-org.md` score=6 — FRESHNESS_NO_REVIEW_DATE, LINKS_NO_LINKS, LINKS_NO_RELATED, STRUCT_NO_TYPE, STRUCT_NO_REVIEW_DATE
+- `people/彭博.md` score=4 — LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_IDENTITY, STRUCT_NO_RELATED
+- `organizations/coalition-of-taiwan-independences.md` score=3 — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_36wps, READABILITY_MANY_LONG_SENTENCES_4
+- `organizations/north-america-taiwanese-medical-association-foundation.md` score=3 — LINKS_NO_RELATED, STRUCT_NO_HISTORY, STRUCT_NO_RELATED
+- `organizations/north-america-taiwanese-womens-association-southern-california-chapter.md` score=3 — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_33wps, READABILITY_MANY_LONG_SENTENCES_5
+- `organizations/north-america-taiwanese-womens-association.md` score=3 — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_32wps, READABILITY_MANY_LONG_SENTENCES_9
+- `organizations/nyu-taiwanese-american-student-society.md` score=3 — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_42wps, READABILITY_MANY_LONG_SENTENCES_5
+- `organizations/sogetsu-buxmont-study-group.md` score=3 — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_30wps, READABILITY_MANY_LONG_SENTENCES_4
+- `organizations/south-bay-taiwanese-association-of-n-california.md` score=3 — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_41wps, READABILITY_MANY_LONG_SENTENCES_5
+- `organizations/taiwanese-american-association-east-san-gabriel-valley.md` score=3 — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_32wps, READABILITY_MANY_LONG_SENTENCES_9
 
 ### Auto-queued for P13 remediation:
-- `organizations/ntu-alumni-association-of-southern-california.md` (medium) — LINKS_NO_RELATED, STRUCT_NO_HISTORY, STRUCT_NO_RELATED, READABILITY_MANY_LONG_SENTENCES_4
-- `organizations/ny-apricot-grove-men-s-vocal-quartet.md` (medium) — DESC_NO_TITLE_MENTION, STRUCT_NO_HISTORY, READABILITY_MANY_LONG_SENTENCES_9
-- `organizations/taiwanese-american-association-new-york.md` (medium) — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_32wps, READABILITY_MANY_LONG_SENTENCES_4
-- `people/ahhee-hsu.md` (medium) — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_14
-- `people/dew-chin-ghi-chang.md` (medium) — DESC_TOO_SHORT, DESC_NO_TITLE_MENTION
-- `people/john-lin.md` (medium) — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_9
-- `people/lin-mei-li.md` (medium) — DESC_NO_TITLE_MENTION, LINKS_NO_RELATED, STRUCT_NO_RELATED
-- `people/ming-tsuang.md` (medium) — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_4
-- `people/peggy-huang.md` (medium) — DESC_NO_TITLE_MENTION, READABILITY_MANY_LONG_SENTENCES_4
-- `people/su-shih-ying.md` (medium) — LINKS_LOW_DENSITY, LINKS_NO_RELATED, STRUCT_NO_RELATED
+- `organizations/coalition-of-taiwan-independences.md` (medium) — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_36wps, READABILITY_MANY_LONG_SENTENCES_4
+- `organizations/north-america-taiwanese-medical-association-foundation.md` (medium) — LINKS_NO_RELATED, STRUCT_NO_HISTORY, STRUCT_NO_RELATED
+- `organizations/north-america-taiwanese-womens-association-southern-california-chapter.md` (medium) — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_33wps, READABILITY_MANY_LONG_SENTENCES_5
+- `organizations/north-america-taiwanese-womens-association.md` (medium) — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_32wps, READABILITY_MANY_LONG_SENTENCES_9
+- `organizations/nyu-taiwanese-american-student-society.md` (medium) — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_42wps, READABILITY_MANY_LONG_SENTENCES_5
+- `organizations/sogetsu-buxmont-study-group.md` (medium) — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_30wps, READABILITY_MANY_LONG_SENTENCES_4
+- `organizations/south-bay-taiwanese-association-of-n-california.md` (medium) — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_41wps, READABILITY_MANY_LONG_SENTENCES_5
+- `organizations/taiwanese-american-association-east-san-gabriel-valley.md` (medium) — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_32wps, READABILITY_MANY_LONG_SENTENCES_9
+- `organizations/taiwanese-american-professionals-san-francisco.md` (medium) — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_33wps, READABILITY_MANY_LONG_SENTENCES_4
+- `organizations/taiwanese-american-student-association-at-cornell.md` (medium) — STRUCT_NO_HISTORY, READABILITY_LONG_SENTENCES_33wps, READABILITY_MANY_LONG_SENTENCES_5
 
-- Log: `knowledge/operational/content-analysis/2026-11-21.jsonl`
+- Log: `knowledge/operational/content-analysis/2026-11-24.jsonl`
 - Queue: `echopedia/content-analysis-queue.json`

@@ -1,0 +1,47 @@
+GATE GREEN reclaim-not-landed | 1d769cf7e11 TJJ-A11240610-10: fact-addition dated 2019-10-20 authors-list fact t
+GATE GREEN own-comment-absent | 
+GATE GREEN hash_lines_pre==1 | 1
+GATE GREEN prior_comments==2 | 2
+GATE GREEN noncomment_carriers==0 | 0
+GATE GREEN fences | [0, 28]
+GATE GREEN no_comment_in_fm | 
+GATE GREEN fm_post_date | 
+GATE GREEN fm_archive_ts | 
+GATE GREEN fm_is_title | title: \u53f0\u7063\u5411\u9322\u885d
+GATE GREEN title_hex_matches_prior_comments | 53f0 7063 5411 9322 885d
+GATE GREEN title_subseq_standalone>=2 | [1, 107, 227, 251, 253, 268, 271, 274, 277, 280, 283, 286, 289, 292, 295]
+GATE GREEN subjects==2 | 2
+GATE GREEN subject_line_present huang-diyin | 1
+GATE GREEN subject_label_hex huang-diyin | 9ec3 5e1d 7a4e
+GATE GREEN subject_line_present lin-baohua | 1
+GATE GREEN subject_label_hex lin-baohua | 6797 4fdd 83ef
+GATE GREEN fm_authors_has huang-diyin | 1
+GATE GREEN fm_authors_label_hex huang-diyin | 9ec3 5e1d 7a4e
+GATE GREEN fm_authors_has lin-baohua | 1
+GATE GREEN fm_authors_label_hex lin-baohua | 6797 4fdd 83ef
+GATE GREEN sat huang-diyin factcarriers==2 | 2
+GATE GREEN sat huang-diyin indexenum==1 | 1
+GATE GREEN sat huang-diyin dated_POST==1 | 1
+GATE GREEN sat huang-diyin wikilink+pipe+ts | - 2019-08-09 \u2014 \u300c\u9ec3\u5e1d\u7a4e\u300d\uff0c\u67
+GATE GREEN sat huang-diyin name_cjk_in_carrier | []
+GATE GREEN sat huang-diyin wikilink+pipe+ts | - 2019-10-20 \u2014 \u300c\u9ec3\u5e1d\u7a4e\u300d\uff0c\u67
+GATE GREEN sat huang-diyin name_cjk_in_carrier | []
+GATE GREEN sat huang-diyin own_comment_absent | 
+GATE GREEN sat lin-baohua factcarriers==2 | 2
+GATE GREEN sat lin-baohua indexenum==1 | 1
+GATE GREEN sat lin-baohua dated_POST==1 | 1
+GATE GREEN sat lin-baohua wikilink+pipe+ts | - 2019-08-09 \u2014 \u300c\u6797\u4fdd\u83ef\u300d\uff0c\u67
+GATE GREEN sat lin-baohua name_cjk_in_carrier | []
+GATE GREEN sat lin-baohua wikilink+pipe+ts | - 2019-10-20 \u2014 \u300c\u6797\u4fdd\u83ef\u300d\uff0c\u67
+GATE GREEN sat lin-baohua name_cjk_in_carrier | []
+GATE GREEN sat lin-baohua own_comment_absent | 
+GATE GREEN carrier_unknown==[] huang-diyin#0 | []
+GATE GREEN carrier_unknown==[] huang-diyin#1 | []
+GATE GREEN carrier_unknown==[] lin-baohua#0 | []
+GATE GREEN carrier_unknown==[] lin-baohua#1 | []
+GATE GREEN comment_pure_ascii | 121
+GATE GREEN comment_startswith | 
+GATE GREEN comment_endswith | 
+GATE GREEN subject_pure_ascii | 121
+GATE GREEN subject_has_marker | 
+GATES 46 RED 0

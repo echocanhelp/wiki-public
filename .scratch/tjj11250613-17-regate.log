@@ -1,0 +1,29 @@
+RG GREEN own_blob_read | 4749
+RG GREEN blob_own_comment==1 | 1
+RG GREEN blob_comments==3 | 
+RG RED blob_hash_lines==2 | 1
+RG GREEN blob_noncomment_carriers==0 | 
+RG GREEN own_line_ascii | 0x79
+RG GREEN own_line_endends_with | 
+RG GREEN disk_eq_own_blob | 
+RG GREEN subject_eq_state | TJJ-A11250613-17: verified-saturated TJJ videos category page 2 snapshot 20200624164956 (c
+RG GREEN subject_ascii | 0x79
+RG GREEN subject_starts_slice | 
+RG GREEN subject_has_marker | 
+RG GREEN shell_grep_own_comment==1 | 1
+RG RED hexspan page title hex: | (None, ['53f0 7063 5411 9322 885d'])
+RG GREEN hexspan huang-diyin (name hex: | (['9ec3', '5e1d', '7a4e'], ['9ec3', '5e1d', '7a4e'])
+RG GREEN hexspan lin-baohua (name hex: | (['6797', '4fdd', '83ef'], ['6797', '4fdd', '83ef'])
+RG GREEN re huang-diyin factcarriers==2 | 2
+RG GREEN re huang-diyin dated==1 | 
+RG GREEN re huang-diyin indexenum==1 | 
+RG GREEN re huang-diyin no_own_comment | 
+RG GREEN re huang-diyin carrier_pipe_ts | True
+RG GREEN re huang-diyin carrier_pipe_ts | True
+RG GREEN re lin-baohua factcarriers==2 | 2
+RG GREEN re lin-baohua dated==1 | 
+RG GREEN re lin-baohua indexenum==1 | 
+RG GREEN re lin-baohua no_own_comment | 
+RG GREEN re lin-baohua carrier_pipe_ts | True
+RG GREEN re lin-baohua carrier_pipe_ts | True
+RGRED 2 of 28 SHA f8237c57903c14fd9aa6ba107123d247c537fa2f

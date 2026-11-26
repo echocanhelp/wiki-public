@@ -26,6 +26,7 @@ from pathlib import Path
 import sys
 sys.path.insert(0, os.path.expanduser("~/.hermes/scripts"))
 from mint_guard import gated_once, budget_args  # noqa: E402
+from mint_gate import ensure_close_contract  # noqa: E402  OPS-FIX t_a802c5f8
 
 REPO = Path(__file__).resolve().parents[1]
 DATE_RE = re.compile(r"\b(19[4-9]\d|20[0-2]\d)\b")
@@ -138,6 +139,7 @@ Rules:
    Do not use a repo-relative path — your cwd is not the repo.
 4. git -C {REPO} add -- {rel} && git -C {REPO} commit; kanban_complete.
 """
+        body, _cc = ensure_close_contract(body)  # OPS-FIX t_a802c5f8: born-with-contract
         bodyfile = f"/tmp/story-pass-body-{slug}.md"
         Path(bodyfile).write_text(body)
         if not gated_once("story-pass-build", key=f"story-pass:{slug}"):  # SWARM-GUARD-1

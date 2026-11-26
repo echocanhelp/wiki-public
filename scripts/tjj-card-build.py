@@ -25,6 +25,7 @@ from feeder_recent_closes import recent_zero_yield_paths, still_closed
 # SWARM-GUARD-1 (t_0cb42501): fail-closed backlog gate before every create.
 sys.path.insert(0, os.path.expanduser("~/.hermes/scripts"))
 from mint_guard import gated_once, budget_args  # noqa: E402
+from mint_gate import ensure_close_contract  # noqa: E402  OPS-FIX t_a802c5f8
 
 REPO = Path("/home/leedt/echo-system")
 OUT = REPO / "knowledge/operational"
@@ -167,6 +168,11 @@ for i in range(0, len(top), SLICE):
         "the card. Do NOT publish."
     )
     db = sqlite3.connect(os.path.expanduser("~/.hermes/kanban.db"))
+    # OPS-FIX t_a802c5f8: this builder mints via direct CLI (no mint_card /
+    # mint_via), so the CLOSE CONTRACT must be prepended here at the body top.
+    body, _cc = ensure_close_contract(body)
+    if _cc:
+        print("GATE|CLOSECONTRACT", title, "| prepended close contract at body top")
     db.execute("update tasks set body=? where id=?", (body, tid.group(0)))
     db.commit()
     db.close()

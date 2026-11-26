@@ -1,0 +1,38 @@
+{
+ "SLICE": "TJJ-A11240110-18",
+ "HASH": "7131b545d39af40b",
+ "POST": "2023-12-03",
+ "WB": "20250513225942",
+ "SNAP": "2025-05-13",
+ "REL": "articles/taiwanjustice-net/2025/20250513225942_tag_緬甸_7131b545d39af40b.md",
+ "TOP": "content/articles/taiwanjustice-net/2025/20250513225942_tag_緬甸_7131b545d39af40b.md",
+ "COMMENT": "<!-- TJJ-A11240110-18: wave-2 link+deepen of slice 11240110-18 article 20250513225942_tag_..._7131b545d39af40b.md -- verified-saturated fast path re-check. Subjects yang-ziqing (name hex: 694a 5b50 6e05 0020 0043 006c 0069 0066 0066 0020 0059 0061 006e 0067 0020 97f3 6a02 6559 5ba4) and zheng-bingquan (name hex: 912d 70b3 5168 5c08 6b04) confirmed real vs body nav and frontmatter authors; both people pages pre-saturated carriers==1/dated==1 (index-list enumeration excluded), tag page hex: 7dec 7538, post_date 2023-12-03 / Wayback 20250513225942, carriers==1 non-comment verified on disk; this slice no-change, per-slice comment only -->",
+ "SUBJ": "TJJ-A11240110-18: verified-saturated tag page (7131b545d39af40b) re-check, both subjects pre-saturated, EOF comment only",
+ "hex_labels": {
+  "tag page hex: ": [
+   "7dec",
+   "7538"
+  ],
+  "yang-ziqing (name hex: ": [
+   "694a",
+   "5b50",
+   "6e05",
+   "97f3",
+   "6a02",
+   "6559",
+   "5ba4"
+  ],
+  "zheng-bingquan (name hex: ": [
+   "912d",
+   "70b3",
+   "5168",
+   "5c08",
+   "6b04"
+  ]
+ },
+ "prior_comment_idx": [
+  263,
+  265
+ ],
+ "own_sha": "f432d46fdd6038aa952b6c20e4a98a247599d999"
+}

@@ -38,6 +38,7 @@ from feeder_recent_closes import recent_zero_yield_paths, still_closed
 # SWARM-GUARD-1 (t_0cb42501): fail-closed backlog gate before every create.
 sys.path.insert(0, os.path.expanduser('~/.hermes/scripts'))
 from mint_guard import gated_once, budget_args  # noqa: E402
+from mint_gate import ensure_close_contract  # noqa: E402  OPS-FIX t_a802c5f8
 
 REPO = Path('/home/leedt/echo-system')
 OUT = REPO / 'knowledge/operational'
@@ -445,6 +446,10 @@ def main():
             print('create failed:', r.stdout.strip() or r.stderr.strip())
             continue
         body = card_body(rel, text, files, stamp, card_no, today, tid.group(0))
+        # OPS-FIX t_a802c5f8: direct-CLI builder — prepend CLOSE CONTRACT at body top.
+        body, _cc = ensure_close_contract(body)
+        if _cc:
+            print('GATE|CLOSECONTRACT', title, '| prepended close contract at body top')
         con = sqlite3.connect(str(Path.home() / '.hermes/kanban.db'))
         con.execute('update tasks set body=? where id=?', (body, tid.group(0)))
         con.commit()

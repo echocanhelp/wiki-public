@@ -1,13 +1,13 @@
 {
-  "at": "2026-11-21T16:32:00Z",
+  "at": "2026-11-25T16:32:02Z",
   "cutoff": "2026-08-21T19:22:14Z",
   "ok": true,
-  "visits_since_cutoff": 377,
-  "yesterday_pdt": "2026-11-20",
-  "yesterday_visits": 11,
+  "visits_since_cutoff": 419,
+  "yesterday_pdt": "2026-11-24",
+  "yesterday_visits": 8,
   "top": [
     {
-      "count": 38,
+      "count": 41,
       "path": "/",
       "title": "Echopedia"
     },
@@ -17,7 +17,7 @@
       "title": "Albert ZH SKU B \u2014 publisher manuscript final review"
     },
     {
-      "count": 16,
+      "count": 21,
       "path": "/landing",
       "title": "Taiwanese American Historical Society \u53f0\u7f8e\u4eba\u6b77\u53f2\u5354\u6703"
     },

@@ -145,6 +145,18 @@ def find_timeline_events(slug, chinese_name):
     """
     events = []
 
+    # Substantive-mention gate (timeline-overmatching-2026-08-08 fix strategy
+    # filters 2+3; filter 1 'Tag: ' titles is enforced at emit below). The old
+    # 'name anywhere in content' match produced 10,000+ low-signal events for
+    # high-profile columnists (yang-ziqing 10,782; zheng-bingquan 10,659).
+    # Priority-hit paths are pre-scored and bypass the gate.
+    def _substantive(content, names):
+        body_start = content.find("---", content.find("---") + 3)
+        body = content[body_start + 3:] if body_start > 0 else content
+        fm, _, _ = content.partition("\n---\n") if content.startswith("---") else ("", "", "")
+        head = body[:200]
+        return any((n in fm) or (n in head) for n in names if n)
+
     # Build search names: Chinese name + English name from slug
     search_names = [chinese_name] if chinese_name else []
     # Convert slug to English name (e.g., albert-s-lai → Albert S. Lai)
@@ -154,7 +166,9 @@ def find_timeline_events(slug, chinese_name):
         en_name = en_name.replace('S Lai', 'S. Lai').replace('Hsu Jr', 'Hsu Jr.')
         search_names.append(en_name)
 
-    # Load priority hits for this slug (pre-scored matches)
+    # Load priority hits for this slug (pre-scored matches). The `matches[]`
+    # entries are the entity matched, not the person — a row counts for this
+    # slug only when one of its matches has slug == person slug (2026-11-24).
     hits_file = REPO_ROOT / "knowledge/research/taiwanjustice-net-priority-hits.jsonl"
     hit_paths = set()
     if hits_file.exists():
@@ -166,7 +180,7 @@ def find_timeline_events(slug, chinese_name):
                         continue
                     hit = json.loads(line)
                     for match in hit.get("matches", []):
-                        if match.get("slug") == slug:
+                        if match.get("slug") == slug and match.get("where"):
                             hit_paths.add(hit.get("path"))
                             break
         except (OSError, json.JSONDecodeError):
@@ -196,6 +210,12 @@ def find_timeline_events(slug, chinese_name):
                         break
 
             if not mentioned:
+                continue
+
+            # Substantive-mention gate: name must appear in frontmatter (title)
+            # or the first 200 chars of body, not just tag/footer metadata
+            # (2026-11-24, timeline-overmatching fix filters 1-3).
+            if rel_path not in hit_paths and not _substantive(content, search_names):
                 continue
 
             # Extract date
@@ -267,6 +287,12 @@ def find_timeline_events(slug, chinese_name):
         if key not in seen:
             seen.add(key)
             unique_events.append(e)
+
+    # Cap at 100 most recent events (timeline-overmatching-2026-08-08 fix
+    # strategy filter 2) — prevents 10K+ event pages from ever shipping.
+    MAX_TIMELINE_EVENTS = 100
+    if len(unique_events) > MAX_TIMELINE_EVENTS:
+        unique_events = unique_events[-MAX_TIMELINE_EVENTS:]
 
     return unique_events
 

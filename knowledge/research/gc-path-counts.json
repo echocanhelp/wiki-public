@@ -1,19 +1,19 @@
 {
- "scraped": "2026-11-15",
+ "scraped": "2026-11-22",
  "window": "30d",
- "total_visits": 86,
+ "total_visits": 102,
  "pages_shown": 10,
  "per_day": {},
  "counts": {
-  "/": 37,
-  "/landing": 11,
+  "/": 39,
+  "/landing": 19,
   "/events/tzuchi-us-event-2026-southern-region-charity-concert": 8,
   "/people/ric-jan": 6,
+  "/landing/leadership": 6,
+  "/people": 6,
   "/people/roger-lin": 5,
+  "/works": 5,
   "/people/albert-zh-sku-b-publisher-review": 4,
-  "/landing/contact": 4,
-  "/people": 4,
-  "/works": 4,
-  "/people/hsu-ching-chun": 3
+  "/landing/contact": 4
  }
 }

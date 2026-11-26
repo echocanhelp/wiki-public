@@ -27,6 +27,7 @@ from pathlib import Path
 # SWARM-GUARD-1 (t_0cb42501): fail-closed backlog gate before every create.
 sys.path.insert(0, str(Path.home() / ".hermes" / "scripts"))
 from mint_guard import gated_once, budget_args  # noqa: E402
+from mint_gate import ensure_close_contract  # noqa: E402  OPS-FIX t_a802c5f8
 
 HUB = 50
 BASELINE = 288
@@ -327,6 +328,7 @@ def emit_cards(accepted: list[dict], repo: Path, db: Path) -> int:
             continue
         tid = m.group(0)
         body = card_body(group, slice_name, tid)
+        body, _cc = ensure_close_contract(body)  # OPS-FIX t_a802c5f8: born-with-contract
         con = sqlite3.connect(str(db))
         con.execute("update tasks set body=? where id=?", (body, tid))
         con.commit()

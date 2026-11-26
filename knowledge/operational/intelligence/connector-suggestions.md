@@ -1,8 +1,8 @@
 # Connector suggestions (capped top 80)
 
-- co_citation total=35636 kept=80
-- co_mention total=16574 kept=40
-- shared_tags total=80 kept=40
+- co_citation total=35783 kept=80
+- co_mention total=17045 kept=40
+- shared_tags total=94 kept=40
 
 ## Top co-citation
 - organizations/taiwanese-association-of-northwest-los-angeles.md ↔ people/bang-h-hwang.md

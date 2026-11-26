@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-21T08:31:58.011947",
-  "pages_scanned": 3642,
+  "generated_at": "2026-11-25T08:32:00.423828",
+  "pages_scanned": 3704,
   "capped": true,
   "cap_top_n": 80,
   "summary": {
-    "co_citation_count": 35636,
-    "co_mention_count": 16574,
-    "shared_tags_count": 80,
-    "orphan_folder_count": 2,
+    "co_citation_count": 35783,
+    "co_mention_count": 17045,
+    "shared_tags_count": 94,
+    "orphan_folder_count": 3,
     "kept_co_citation": 80,
     "kept_co_mention": 40,
     "kept_shared_tags": 40
@@ -183,7 +183,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens for Taiwan (西雅圖美台會)",
-        "shared_targets_count": 2806
+        "shared_targets_count": 2809
       },
       {
         "type": "CO-CITATION",
@@ -192,7 +192,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "American Citizens of Taiwan Origin ACTO (美台公民協會)",
-        "shared_targets_count": 2806
+        "shared_targets_count": 2809
       },
       {
         "type": "CO-CITATION",
@@ -201,7 +201,7 @@
         "shared_target": "organizations/tah-foundation",
         "page1_title": "AJ WANG FOUNDATION – SCHOLARSHIP FUND",
         "page2_title": "Ann Arbor Taiwanese Association (安雅堡)",
-        "shared_targets_count": 2806
+        "shared_targets_count": 2809
       },
       {
         "type": "CO-CITATION",
@@ -372,7 +372,7 @@
         "shared_target": "sources/taiwandaily-net",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
         "page2_title": "Formosan Association for Public Affairs Los Angeles(FAPA-LA)",
-        "shared_targets_count": 554
+        "shared_targets_count": 584
       },
       {
         "type": "CO-CITATION",
@@ -381,7 +381,7 @@
         "shared_target": "sources/taiwandaily-net",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
         "page2_title": "New York Taiwan Center (紐約台灣會館)",
-        "shared_targets_count": 554
+        "shared_targets_count": 584
       },
       {
         "type": "CO-CITATION",
@@ -390,7 +390,7 @@
         "shared_target": "sources/taiwandaily-net",
         "page1_title": "American Chinese Dance Association (美國華裔舞蹈協會, ACDA)",
         "page2_title": "North America Taiwanese Professors' Association Southern California",
-        "shared_targets_count": 554
+        "shared_targets_count": 584
       },
       {
         "type": "CO-CITATION",
@@ -633,7 +633,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys76-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Greater Sacramento Taiwanese Association GSTA (大沙加偭度台灣同鄉會)",
-        "shared_targets_count": 87
+        "shared_targets_count": 88
       },
       {
         "type": "CO-CITATION",
@@ -642,7 +642,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys76-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Manhattan, KS Chapter / TAA (全美台灣同鄉會曼哈頓分會)",
-        "shared_targets_count": 87
+        "shared_targets_count": 88
       },
       {
         "type": "CO-CITATION",
@@ -651,7 +651,7 @@
         "shared_target": "works/taiwaneseamericanhistory-org/ourjourneys76-eng",
         "page1_title": "Ann Arbor Taiwanese Association (安雅堡)",
         "page2_title": "Taiwanese American Association Atlanta (亞特蘭大)",
-        "shared_targets_count": 87
+        "shared_targets_count": 88
       },
       {
         "type": "CO-CITATION",
@@ -823,6 +823,14 @@
         "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
         "page2_title": "TaiwaneseAmerican.org",
         "mention_text": "TaiwaneseAmerican.org"
+      },
+      {
+        "type": "CO-MENTION",
+        "page1": "organizations/american-citizens-for-taiwan.md",
+        "page2": "sources/fapa-org.md",
+        "page1_title": "American Citizens for Taiwan (西雅圖美台會)",
+        "page2_title": "FAPA (fapa.org) website capture",
+        "mention_text": "FAPA (fapa.org) website capture"
       },
       {
         "type": "CO-MENTION",
@@ -1047,17 +1055,33 @@
         "page1_title": "Arizona Taiwanese Student Association",
         "page2_title": "TAH organization directory capture — Arizona Taiwanese Student Association",
         "mention_text": "TAH organization directory capture — Arizona Taiwanese Student Association"
-      },
-      {
-        "type": "CO-MENTION",
-        "page1": "organizations/arizona-taiwanese-student-association.md",
-        "page2": "sources/taiwaneseamericanhistory-org.md",
-        "page1_title": "Arizona Taiwanese Student Association",
-        "page2_title": "taiwaneseamericanhistory.org (TAH Foundation)",
-        "mention_text": "taiwaneseamericanhistory.org (TAH Foundation)"
       }
     ],
     "shared_tags": [
+      {
+        "type": "SHARED_TAGS",
+        "page1": "people/bob-yang.md",
+        "page2": "people/kenjohn-wang.md",
+        "page1_title": "Bob Yang (楊英育)",
+        "page2_title": "Kenjohn Wang (王桂榮)",
+        "shared_tags": [
+          "Taiwanese-American",
+          "[person",
+          "fapa]"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "people/bob-yang.md",
+        "page2": "people/mingchi-wu.md",
+        "page1_title": "Bob Yang (楊英育)",
+        "page2_title": "Mingchi Wu (吳明基)",
+        "shared_tags": [
+          "Taiwanese-American",
+          "[person",
+          "fapa]"
+        ]
+      },
       {
         "type": "SHARED_TAGS",
         "page1": "people/chen-mei-hui.md",
@@ -1116,6 +1140,18 @@
           "Houston]",
           "Tzu-Chi",
           "[person"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "people/kenjohn-wang.md",
+        "page2": "people/mingchi-wu.md",
+        "page1_title": "Kenjohn Wang (王桂榮)",
+        "page2_title": "Mingchi Wu (吳明基)",
+        "shared_tags": [
+          "Taiwanese-American",
+          "[person",
+          "fapa]"
         ]
       },
       {
@@ -1228,6 +1264,18 @@
           "[source",
           "台北市長",
           "洋流"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/cna-shen-news-faceoff-2026-11-03.md",
+        "page2": "sources/shen-final-campaign-days-2026-11-25.md",
+        "page1_title": "Source: 沈伯洋《新聞面對面》謝震武專訪與競辦百萬觀看聲明（2026-11-02／11-03）",
+        "page2_title": "Source: 沈伯洋選戰最後一週動態（2026-11-25 收錄：TIME 專訪、索羅斯 OSF 連連看風波與傅崐萁案二審、告黃雅蕾起訴、跟監案 11-17 開庭後續、柯文哲請益攻防、黃珊珊簽名書、選前之夜規畫）",
+        "shared_tags": [
+          "2026九合一",
+          "[source",
+          "台北市長"
         ]
       },
       {
@@ -1439,6 +1487,18 @@
       {
         "type": "SHARED_TAGS",
         "page1": "sources/ettoday-taipei-postdebate-poll-2026-11-02.md",
+        "page2": "sources/shen-final-campaign-days-2026-11-25.md",
+        "page1_title": "Source: ETtoday 民調雲 台北市長辯後民調（蔣萬安 52.0% vs 沈伯洋 40.7%）",
+        "page2_title": "Source: 沈伯洋選戰最後一週動態（2026-11-25 收錄：TIME 專訪、索羅斯 OSF 連連看風波與傅崐萁案二審、告黃雅蕾起訴、跟監案 11-17 開庭後續、柯文哲請益攻防、黃珊珊簽名書、選前之夜規畫）",
+        "shared_tags": [
+          "2026九合一",
+          "[source",
+          "台北市長"
+        ]
+      },
+      {
+        "type": "SHARED_TAGS",
+        "page1": "sources/ettoday-taipei-postdebate-poll-2026-11-02.md",
         "page2": "sources/taipei-poll-aggregation-2026-11-13.md",
         "page1_title": "Source: ETtoday 民調雲 台北市長辯後民調（蔣萬安 52.0% vs 沈伯洋 40.7%）",
         "page2_title": "Source: 2026-11-11~13 台北市長民調聚合追收（TPOC AI 模擬 VIII／PollTrack 加權聚合／TVBS 辯後民調連讀）",
@@ -1497,70 +1557,6 @@
         "page2_title": "Source: 國台辦 2026-11-18 例行新聞發布會（陳斌華）— 高金素梅起訴案定調「濫用司法迫害政治異己」；本場未點名沈伯洋、無新增司法或懲戒措施",
         "shared_tags": [
           "2026九合一]",
-          "[source",
-          "國台辦"
-        ]
-      },
-      {
-        "type": "SHARED_TAGS",
-        "page1": "sources/gwytb-chenbinhua-2026-11-18.md",
-        "page2": "sources/gwytb-zhanghan-2026-11-11.md",
-        "page1_title": "Source: 國台辦 2026-11-18 例行新聞發布會（陳斌華）— 高金素梅起訴案定調「濫用司法迫害政治異己」；本場未點名沈伯洋、無新增司法或懲戒措施",
-        "page2_title": "Source: 國台辦 11/11 例行記者會（張晗）稱「跨國鎮壓」是編造謊言、反滲透法是惡法；陸委會 11/11、梁文傑 11/12 回批",
-        "shared_tags": [
-          "[source",
-          "國台辦",
-          "沈伯洋",
-          "跨國鎮壓"
-        ]
-      },
-      {
-        "type": "SHARED_TAGS",
-        "page1": "sources/gwytb-chenbinhua-2026-11-18.md",
-        "page2": "sources/liang-wenjie-transnational-repression-2026-11-12.md",
-        "page1_title": "Source: 國台辦 2026-11-18 例行新聞發布會（陳斌華）— 高金素梅起訴案定調「濫用司法迫害政治異己」；本場未點名沈伯洋、無新增司法或懲戒措施",
-        "page2_title": "Source: 梁文傑 11/12 記者會點名沈伯洋案與『跨國鎮壓四特徵』（連讀國台辦 11/11 定調）",
-        "shared_tags": [
-          "2026九合一]",
-          "[source",
-          "沈伯洋",
-          "跨國鎮壓"
-        ]
-      },
-      {
-        "type": "SHARED_TAGS",
-        "page1": "sources/gwytb-chenbinhua-2026-11-18.md",
-        "page2": "sources/npa-transnational-repression-2026-11-04.md",
-        "page1_title": "Source: 國台辦 2026-11-18 例行新聞發布會（陳斌華）— 高金素梅起訴案定調「濫用司法迫害政治異己」；本場未點名沈伯洋、無新增司法或懲戒措施",
-        "page2_title": "Source: 警政署 11/4 記者會 — 打擊跨國鎮壓 9 案（含沈伯洋跟拍案）4 案起訴、5 案追緝中",
-        "shared_tags": [
-          "2026九合一]",
-          "[source",
-          "沈伯洋",
-          "跨國鎮壓"
-        ]
-      },
-      {
-        "type": "SHARED_TAGS",
-        "page1": "sources/gwytb-chenbinhua-2026-11-18.md",
-        "page2": "sources/shen-deepfake-and-election-procedure-2026-11-13.md",
-        "page1_title": "Source: 國台辦 2026-11-18 例行新聞發布會（陳斌華）— 高金素梅起訴案定調「濫用司法迫害政治異己」；本場未點名沈伯洋、無新增司法或懲戒措施",
-        "page2_title": "Source: 沈伯洋深偽音檔案與選前假訊息／競選程序記錄（2026-10-29 ~ 11-13）",
-        "shared_tags": [
-          "2026九合一]",
-          "[source",
-          "沈伯洋"
-        ]
-      },
-      {
-        "type": "SHARED_TAGS",
-        "page1": "sources/gwytb-zhanghan-2026-11-11.md",
-        "page2": "sources/gwytb-zhufenglian-2026-11-04.md",
-        "page1_title": "Source: 國台辦 11/11 例行記者會（張晗）稱「跨國鎮壓」是編造謊言、反滲透法是惡法；陸委會 11/11、梁文傑 11/12 回批",
-        "page2_title": "Source: 國台辦 11/4 例行新聞發布會（朱鳳蓮批沈伯洋「本末倒置、數典忘祖」）",
-        "shared_tags": [
-          "2026九合一",
-          "A歸因]",
           "[source",
           "國台辦"
         ]

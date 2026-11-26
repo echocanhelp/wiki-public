@@ -14,7 +14,7 @@ Person records in **Echopedia**. Names keep Chinese characters and romanized for
 On a phone, **use header search** (漢名 or English). This page is an A–Z list.
 
 
-*Showing first 1500 of 2478 entries (A–Z order) — use header **search** for any name not listed.*
+*Showing first 1500 of 2481 entries (A–Z order) — use header **search** for any name not listed.*
 
 ## Directory
 
@@ -1310,11 +1310,11 @@ On a phone, **use header search** (漢名 or English). This page is an A–Z lis
 [[people/michael-c-lu|Michael C. Lu (呂淳祺)]]
 [[people/michael-chong|Michael Chong]]
 [[people/michael-deng-fong-liau|Michael Deng Fong Liau (廖登豐博士)]]
+[[people/michael-fonte|Michael Fonte (彭光理)]]
 [[people/michael-k-yu|Michael K. Yu (游貴森醫師)]]
 [[people/michael-luo|Michael Luo (羅明瀚)]]
 [[people/michael-s-k-chen|Michael S. K. Chen (陳希寬博士)]]
 [[people/michael-yeh|Michael Yeh (葉明青)]]
-[[people/michael-fonte|michael-fonte]]
 [[people/michele-cheng|Michele Cheng]]
 [[people/michelle-kuo|Michelle Kuo (郭怡慧)]]
 [[people/michelle-wu|Michelle Wu (吳彌)]]

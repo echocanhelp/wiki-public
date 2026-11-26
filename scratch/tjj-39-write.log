@@ -1,0 +1,42 @@
+GREEN untracked-md-variant | rc=128 (128 expected)
+GREEN html-twin-in-head | ['articles/taiwanjustice-net/2025/20250707201015_tag_國台辦_e5611308774d5123.html']
+GREEN fm-fence | [0, 31]
+GREEN no-comment-in-fm | 
+GREEN fm-title-prefix-Tag | 'Tag: \\u570b\\u53f0\\u8fa6'
+GREEN fm-post_date | 
+GREEN fm-archive_ts | 
+GREEN filename-tag-hex-matches-title | ['570b', '53f0', '8fa6']
+GREEN filename-hash-suffix | 
+GREEN title-standalone-body | [223]
+GREEN urlenc-in-fm | %E5%9C%8B%E5%8F%B0%E
+GREEN own-comment-absent-pre | 0
+GREEN prior-comments==2 | ['TJJ-A10280100-12', 'TJJ-A10280200-22']
+GREEN hash_lines_pre==count-first | 0 (prior comments carry CJK title, Subjects link drops suffix)
+GREEN subjects-exactly-2 | 2
+GREEN subj-yang-ziqing | 
+GREEN subj-zheng-bingquan | 
+GREEN yang-ziqing-carriers==1 | 1
+GREEN yang-ziqing-dated==1 | 1
+GREEN yang-ziqing-carrier-has-wikilink | True
+GREEN zheng-bingquan-carriers==1 | 1
+GREEN zheng-bingquan-dated==1 | 1
+GREEN zheng-bingquan-carrier-has-wikilink | True
+GREEN yang-ziqing-carrier-unknown==[] | []
+GREEN zheng-bingquan-carrier-unknown==[] | []
+GREEN comment-pure-ascii | maxcp=007a
+GREEN comment-shape | 
+GREEN comment-cites-hash-date-wayback | 
+GREEN post-write-hash_lines==1 | 1
+GREEN post-write-comments==3 | 3
+GREEN post-write-own==1 | 
+GREEN post-write-noncomment-carriers==0 | 
+GREEN add | 
+GREEN subj-pure-ascii | maxcp=0079
+GREEN commit | omment only, both subjects carriers==1/dated==1, 0 new facts)
+ 1 file changed, 267 insertions(+)
+ create mode 100644 content/articles/taiwanjustice-net/2025/20250707201015_tag_國台辦_e5611308774d5123.md
+
+GREEN own-blob-own-comment==1 | 1
+GREEN own-blob-comment-ascii | n=1
+GREEN own-blob-equals-disk | 
+OWN_SHA 49f0d011b9d0eabfda76d8fb245b8502cbba2944

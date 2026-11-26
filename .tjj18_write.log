@@ -1,0 +1,23 @@
+GREEN own-slice-not-already-landed | fbf8f3794b7 untrack site-branch mirrors for real (pathspec-c
+GREEN own-comment-not-on-disk-yet | 
+GREEN new-ascii-comment-in-text | 
+GREEN comment-not-in-fm | 
+GREEN disk-write-verified | 4193
+GREEN post-own-comment-count==1 | 1
+GREEN post-comments==3 | 3
+GREEN post-hash-lines==3 | 3
+GREEN post-noncomment-carriers==0 | 0
+GREEN git-add-rc==0 | 
+GREEN git-commit-rc==0 | ok
+GREEN sha-format | f432d46fdd6038aa952b6c20e4a98a247599d999
+GREEN own-blob-comment-count==1 | 1
+GREEN own-blob==disk | 
+GREEN numstat-single-line | [['268', '0', 'content/articles/taiwanjustice-net/2025/20250513225942_tag_緬甸_7131b545d39af40b.md']]
+GREEN dels==0 | 0
+GREEN adds-plausible | adds 268 lines 269
+GREEN raw-touches-only-top | :000000 100644 00000000000 5dd46abb4c6 A	content/articles/taiwanjustice-net/2025/20250513225942_tag_緬甸_7131b545d39af40b.
+GREEN subject-equals-built | TJJ-A11240110-18: verified-saturated tag page (7131b545d39af40b) re-check, both 
+GREEN subject-ascii-commit | maxcp 0079
+GREEN yang-ziqing-untouched | 
+GREEN zheng-bingquan-untouched | 
+WRITE-PHASE 22 RED 0 SHA f432d46fdd6038aa952b6c20e4a98a247599d999

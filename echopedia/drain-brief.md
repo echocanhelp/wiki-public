@@ -1,4 +1,4 @@
-## Queue drain — 2026-11-21
+## Queue drain — 2026-11-25
 - Items: **40**
 
 - `people/janet-tsai.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
@@ -14,32 +14,32 @@
 - `organizations/boston-university-taiwanese-student-association.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/rev-james-i-cheng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/shih-chieh-huang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `people/prof-sze-ya-yeh.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/tah-p-b256f6296d.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/rev-edward-bin-tanng.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `people/prof-tian-min-lin.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `topics/t-沈伯洋真的遭到境外監控-民進黨-中國跨國鎮壓已不是第一案.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 - `topics/t-中國介選鎖定沈伯洋父親-安保協會揭-港媒抹黑-國台辦制裁-時間軸-家族企業二度遭懲戒.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `sources/ettoday-taipei-mayor-poll-2026-10-27.md`: refresh last_reviewed, WROTE
-- `sources/gwytb-chenbinhua-2026-10-28.md`: refresh last_reviewed, WROTE
-- `topics/t-中共涉假車禍跨國鎮壓黃逸豪政院協處平台啟動因應-政治-要聞-udn.md`: add Related Pages stub, WROTE
-- `topics/t-中跨境指使5人-教訓-台相聲演員-諷習-陸委會-嚴厲譴責中共跨國鎮壓行為.md`: add Related Pages stub, WROTE
-- `topics/t-黃逸豪諷習近平遭-假車禍-撞傷-陸委會怒轟中共跨國鎮壓.md`: add Related Pages stub, WROTE
-- `topics/t-黃逸豪諷習遭買凶撞傷-范雲-民主台灣不容跨國鎮壓-newtalk.md`: add Related Pages stub, WROTE
-- `topics/t-黃逸豪遭-跨國鎮壓-國安局揭-暴力恐嚇-假車禍-都是統戰滲透手法.md`: add Related Pages stub, WROTE
-- `people/黃逸豪.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `sources/cna-taipei-ballot-number-2026-10-27.md`: add last_reviewed, WROTE
-- `topics/t-黃逸豪遭跨國鎮壓-傅崐萁突隔空聲援-范雲酸爆-藍白阻擋國安法案1347次.md`: add Related Pages stub, WROTE
-- `topics/t-黃逸豪遭中國跨國鎮壓-傅崐萁譴責暴力-綠批-藍白擋國安法案1347次.md`: add Related Pages stub, WROTE
-- `topics/kanola-deck-kickoff-premeeting-2026-10-22.md`: add Related Pages stub, WROTE
-- `topics/kanola-deck-kickoff-premeeting-2-2026-10-22.md`: add Related Pages stub, WROTE
-- `topics/t-跨國鎮壓事件頻傳-卓榮泰指示檢警-專案保護-參選人.md`: add Related Pages stub, WROTE
-- `people/_quarantine/卓榮泰指.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
-- `topics/t-黃逸豪諷習遭攻擊-中共跨國鎮壓製造寒蟬效應.md`: add Related Pages stub, WROTE
-- `topics/t-多起疑似跨國鎮壓事件-卓榮泰要求以專案保護候選人安全.md`: add Related Pages stub, WROTE
-- `topics/t-應對中國跨國鎮壓的台灣經驗-李明哲赴歐洲人權倡議巡講-呼籲民主社會應互信互助-轉.md`: add Related Pages stub, WROTE
-- `topics/t-記者編輯部-王崑義專欄-92-台灣人反對和平統一-陸委會不該操作民調.md`: add Related Pages stub, WROTE
-- `topics/t-快新聞-相聲演員遭跨國鎮壓-陳水扁力挺飆國罵x.md`: add Related Pages stub, WROTE
-- `people/王崑義.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/翁曉玲.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `sources/liang-wenjie-transnational-repression-2026-11-12.md`: refresh last_reviewed, WROTE
+- `topics/t-包括沈伯洋被跟拍案-警政署打擊跨國鎮壓-4案已起訴5案追緝中.md`: add Related Pages stub, WROTE
+- `sources/shen-deepfake-and-election-procedure-2026-11-13.md`: refresh last_reviewed, WROTE
+- `sources/eric-ting-press-awards-2026-11-12.md`: add last_reviewed, add Related Pages stub, WROTE
+- `sources/taipei-poll-method-analysis-2026-11-13.md`: refresh last_reviewed, WROTE
+- `sources/l-j-chen-thirdparty-capture.md`: add last_reviewed, WROTE
+- `knowledge/web-archives/ehin-lin-guo-frontier-11190824-39/repass-2026-11-23/HARVEST-NOTES-repass-2026-11-23.md`: add Related Pages stub, WROTE
+- `sources/prof-andre-lee-thirdparty-capture.md`: add last_reviewed, WROTE
+- `sources/tah-whoswho-prof-w-k-young-capture.md`: add last_reviewed, WROTE
+- `sources/newbloom-org.md`: add Related Pages stub, WROTE
+- `topics/t-嚴防中共對台跨國鎮壓-法務部擬修反滲透法增罪責.md`: add Related Pages stub, WROTE
+- `topics/t-談因應中共跨國鎮壓-喜劇演員黃逸豪籲應盡快推動修法.md`: add Related Pages stub, WROTE
+- `sources/wang-hao-identity-disambiguation-capture.md`: add last_reviewed, WROTE
+- `topics/t-跨國鎮壓頻傳-卓榮泰-維護參選人安全-清查協力者.md`: add Related Pages stub, WROTE
+- `topics/t-ipac峰會聚焦跨國鎮壓-張雅琳揭施壓手法擴及一般民眾-巴拿馬議員盼與台復交.md`: add Related Pages stub, WROTE
+- `sources/chinesetimes-huanghe-atlanta-2025.md`: add Related Pages stub, WROTE
+- `sources/epochtimes-swee-koh-2013.md`: add Related Pages stub, WROTE
+- `sources/hyac-kana-mimaki.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `sources/zhwp-huang-shan-liang.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `sources/hctmg-swee-koh-ji-xiao.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
+- `people/嚴禁.md`: NO_SAFE_ACT (HOLD leftover — not fail-closed first-mention)
 
 Fail-closed first-mention is AUTO (janitor). HOLD leftover ≠ human body-link batch.

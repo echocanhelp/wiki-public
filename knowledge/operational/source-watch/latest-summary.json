@@ -1,192 +1,28 @@
 {
-  "at": "2026-11-16T07:51:23Z",
-  "dry_run": false,
+  "at": "2026-11-24T18:16:04Z",
+  "dry_run": true,
   "sources": [
     {
-      "id": "taiwancenter-org",
+      "id": "srcA",
       "new": [],
       "changed": [],
-      "gone_sample": [],
+      "gone_sample": [
+        "http://x/dead1",
+        "http://x/dead2"
+      ],
       "errors": [],
       "applied": [],
       "parked": false,
       "a_band": [],
-      "advisory": []
-    },
-    {
-      "id": "good-shepherd-taiwanese-presbyterian-church",
-      "new": [
-        "https://gstpc.org/home/11-15-2026-sunday-bulletin/"
-      ],
-      "changed": [
-        "https://gstpc.org/home/feed/"
-      ],
-      "gone_sample": [],
-      "errors": [
-        "https://gstpc.org/home/xmlrpc.php HTTP 405",
-        "https://gstpc.org/home/wprhe_qrcode_style.css  HTTP 404"
-      ],
-      "applied": [
-        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-11-15-home-feed.md",
-        "tier2:good-shepherd-taiwanese-presbyterian-church-delta-2026-11-15-home-11-15-2026-sunday-bulletin.md",
-        "last_reviewed:hub",
-        "last_reviewed:good-shepherd-taiwanese-presbyterian-church.md"
-      ],
-      "parked": false,
-      "a_band": [],
-      "advisory": []
-    },
-    {
-      "id": "irvine-taiwanese-presbyterian-church",
-      "new": [],
-      "changed": [],
-      "gone_sample": [],
-      "errors": [
-        "https://www.irvine-tpc.org/"
-      ],
-      "applied": [],
-      "parked": false,
-      "a_band": [],
-      "advisory": []
-    },
-    {
-      "id": "presbyterian-church-in-taiwan",
-      "new": [
-        "https://www.pct.org.tw/news_focus.aspx?strSiteID=S001&amp;strContentid=C2026092400003",
-        "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026111300008&amp;strDesc=Y",
-        "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026111000002&amp;strDesc=Y",
-        "https://www.pct.org.tw/news_pct.aspx?strBlockID=B00006&amp;strContentID=C2026110900008&amp;strDesc=Y"
-      ],
-      "changed": [
-        "https://www.pct.org.tw/news_focus.aspx"
-      ],
-      "gone_sample": [],
-      "errors": [],
-      "applied": [
-        "tier2:presbyterian-church-in-taiwan-delta-2026-11-15-news_focus.aspx.md",
-        "tier2:presbyterian-church-in-taiwan-delta-2026-11-15-news_focus.aspx.md",
-        "tier2:presbyterian-church-in-taiwan-delta-2026-11-15-news_pct.aspx.md",
-        "tier2:presbyterian-church-in-taiwan-delta-2026-11-15-news_pct.aspx.md",
-        "tier2:presbyterian-church-in-taiwan-delta-2026-11-15-news_pct.aspx.md",
-        "last_reviewed:hub",
-        "last_reviewed:presbyterian-church-in-taiwan.md"
-      ],
-      "parked": false,
-      "a_band": [],
-      "advisory": []
-    },
-    {
-      "id": "laijohn-com",
-      "new": [],
-      "changed": [],
-      "gone_sample": [],
-      "errors": [],
-      "applied": [],
-      "parked": false,
-      "a_band": [],
-      "advisory": []
-    },
-    {
-      "id": "taiwaneseamerican-org",
-      "new": [],
-      "changed": [],
-      "gone_sample": [],
-      "errors": [],
-      "applied": [],
-      "parked": false,
-      "a_band": [],
-      "advisory": []
-    },
-    {
-      "id": "ntpc-usa-org",
-      "new": [],
-      "changed": [],
-      "gone_sample": [],
-      "errors": [],
-      "applied": [],
-      "parked": false,
-      "a_band": [],
-      "advisory": []
-    },
-    {
-      "id": "taiwaneseamericanhistory-org",
-      "new": [],
-      "changed": [
-        "https://taiwaneseamericanhistory.org/"
-      ],
-      "gone_sample": [],
-      "errors": [],
-      "applied": [
-        "tier2:taiwaneseamericanhistory-org-delta-2026-11-15-home.md",
-        "last_reviewed:hub",
-        "last_reviewed:tah-foundation.md"
-      ],
-      "parked": false,
-      "a_band": [],
-      "advisory": []
-    },
-    {
-      "id": "eastgatebarclay-org",
-      "new": [],
-      "changed": [],
-      "gone_sample": [],
-      "errors": [],
-      "applied": [],
-      "parked": false,
-      "a_band": [],
-      "advisory": []
-    },
-    {
-      "id": "penghu-info",
-      "new": [],
-      "changed": [
-        "https://penghu.info/OB23C512046DFE3D988E",
-        "https://penghu.info/OB3BAC46B986E5DBC51B",
-        "https://penghu.info/OB2C73E27C74756946C9",
-        "https://penghu.info/OBC70EF284CBE5C8FB3C"
-      ],
-      "gone_sample": [],
-      "errors": [],
-      "applied": [
-        "tier2:penghu-info-delta-2026-11-15-ob23c512046dfe3d988e.md",
-        "tier2:penghu-info-delta-2026-11-15-ob3bac46b986e5dbc51b.md",
-        "tier2:penghu-info-delta-2026-11-15-ob2c73e27c74756946c9.md",
-        "tier2:penghu-info-delta-2026-11-15-obc70ef284cbe5c8fb3c.md",
-        "last_reviewed:hub",
-        "last_reviewed:penghu-info.md"
-      ],
-      "parked": false,
-      "a_band": [],
-      "advisory": [
-        "stale-sitemap: sitemap has only 10 loc(s); full corpus likely >> sitemap — consider targeted/batch harvest (search endpoint may expose it)"
-      ]
+      "advisory": [],
+      "failed_count": 4
     }
   ],
-  "recommend": [
-    {
-      "kind": "website",
-      "host": "taiwandaily.net",
-      "mentions": 493,
-      "score": 1479,
-      "why": "external host on 493 Tier1 pages; not watched",
-      "action": "go Echopedia website https://taiwandaily.net/"
-    },
-    {
-      "kind": "website",
-      "host": "epochtimes.com",
-      "mentions": 46,
-      "score": 138,
-      "why": "external host on 46 Tier1 pages; not watched",
-      "action": "go Echopedia website https://epochtimes.com/"
-    }
-  ],
+  "recommend": [],
   "need_you": [],
-  "auto_lines": [
-    "good-shepherd-taiwanese-presbyterian-church: +1 new / 1 changed; applied 4",
-    "presbyterian-church-in-taiwan: +4 new / 1 changed; applied 7",
-    "taiwaneseamericanhistory-org: +0 new / 1 changed; applied 3",
-    "penghu-info: +0 new / 4 changed; applied 6"
+  "auto_lines": [],
+  "queue_lines": [
+    "srcA: 4 urls failing this poll (state kept)"
   ],
-  "queue_lines": [],
   "a_band": []
 }
